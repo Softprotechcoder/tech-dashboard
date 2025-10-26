@@ -46,35 +46,34 @@
 
 ### 📑 Hacker News
 
-- **[The Linux Boot Process: From Power Button to Kernel](https://www.0xkato.xyz/linux-boot/)**
-  *<p>Article URL: <a href="https://www.0xkato.xyz/linux-boot/">https://www.0xkato.xyz/linux-boot/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=45707658">https://news.ycombinato...*
-  📅 Sat, 25 Oct 2025 23:04:23 +0000
+- **[Auto Dark Mode for Windows](https://github.com/AutoDarkMode/Windows-Auto-Night-Mode)**
+  *<p>Article URL: <a href="https://github.com/AutoDarkMode/Windows-Auto-Night-Mode">https://github.com/AutoDarkMode/Windows-Auto-Night-Mode</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com...*
+  📅 Sun, 26 Oct 2025 04:03:54 +0000
 
-- **[D2: Diagram Scripting Language](https://d2lang.com/tour/intro/)**
-  *<p>Article URL: <a href="https://d2lang.com/tour/intro/">https://d2lang.com/tour/intro/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=45707539">https://news.ycombinator.com/it...*
-  📅 Sat, 25 Oct 2025 22:40:00 +0000
+- **[Tsdown – The Elegant Bundler for Libraries](https://tsdown.dev/)**
+  *<p>Article URL: <a href="https://tsdown.dev/">https://tsdown.dev/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=45708884">https://news.ycombinator.com/item?id=45708884</a></p>...*
+  📅 Sun, 26 Oct 2025 03:19:08 +0000
 
-- **[Belittled Magazine: Thirty years after the Sokal affair](https://thebaffler.com/salvos/belittled-magazine-robbins)**
-  *<p>Article URL: <a href="https://thebaffler.com/salvos/belittled-magazine-robbins">https://thebaffler.com/salvos/belittled-magazine-robbins</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.c...*
-  📅 Sat, 25 Oct 2025 21:37:38 +0000
+- **[GenAI Image Editing Showdown](https://genai-showdown.specr.net/)**
+  *<p>Article URL: <a href="https://genai-showdown.specr.net/">https://genai-showdown.specr.net/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=45708795">https://news.ycombinator....*
+  📅 Sun, 26 Oct 2025 02:57:57 +0000
 
-- **[How programs get run: ELF binaries (2015)](https://lwn.net/Articles/631631/)**
-  *<p>Article URL: <a href="https://lwn.net/Articles/631631/">https://lwn.net/Articles/631631/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=45706938">https://news.ycombinator.co...*
-  📅 Sat, 25 Oct 2025 21:03:39 +0000
+- **[PCB Edge USB C Connector Library](https://github.com/AnasMalas/pcb-edge-usb-c)**
+  *<p>Article URL: <a href="https://github.com/AnasMalas/pcb-edge-usb-c">https://github.com/AnasMalas/pcb-edge-usb-c</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=45708686">https...*
+  📅 Sun, 26 Oct 2025 02:31:54 +0000
 
-- **[An Efficient Implementation of SELF (1989) [pdf]](https://courses.cs.washington.edu/courses/cse501/15sp/papers/chambers.pdf)**
-  *<p>Article URL: <a href="https://courses.cs.washington.edu/courses/cse501/15sp/papers/chambers.pdf">https://courses.cs.washington.edu/courses/cse501/15sp/papers/chambers.pdf</a></p>
-<p>Comments URL: <...*
-  📅 Sat, 25 Oct 2025 21:01:02 +0000
+- **[Pico-Banana-400k](https://github.com/apple/pico-banana-400k)**
+  *<p>Article URL: <a href="https://github.com/apple/pico-banana-400k">https://github.com/apple/pico-banana-400k</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=45708524">https://n...*
+  📅 Sun, 26 Oct 2025 02:01:17 +0000
 
-- **[An Update on TinyKVM](https://fwsgonzo.medium.com/an-update-on-tinykvm-7a38518e57e9)**
-  *<p>Article URL: <a href="https://fwsgonzo.medium.com/an-update-on-tinykvm-7a38518e57e9">https://fwsgonzo.medium.com/an-update-on-tinykvm-7a38518e57e9</a></p>
-<p>Comments URL: <a href="https://news.yco...*
-  📅 Sat, 25 Oct 2025 20:51:16 +0000
+- **[A worker fell into a nuclear reactor pool](https://www.nrc.gov/reading-rm/doc-collections/event-status/event/2025/20251022en?brid=vscAjql9kZL1FfGE7TYHVw#en57996:~:text=TRANSPORT%20OF%20CONTAMINATED%20PERSON%20OFFSITE)**
+  *<p>Article URL: <a href="https://www.nrc.gov/reading-rm/doc-collections/event-status/event/2025/20251022en?brid=vscAjql9kZL1FfGE7TYHVw#en57996:~:text=TRANSPORT%20OF%20CONTAMINATED%20PERSON%20OFFSITE">...*
+  📅 Sun, 26 Oct 2025 01:15:43 +0000
 
 ### 📑 TechCrunch
 
@@ -104,26 +103,19 @@
 
 ### 📑 Dev.to
 
-- **[Your-Deployments-Are-Stuck-in-the-Past-The-Lost-Art-of-the-Hot-Restart](https://dev.to/member_3bfe2e68/your-deployments-are-stuck-in-the-past-the-lost-art-of-the-hot-restart-29b8)**
-  *<p><a href="https://github.com/hyperlane-dev/hyperlane" rel="noopener noreferrer">GitHub Home</a></p>
-
-<h2>
+- **[Django REST Framework Views Decoded: Choosing Between FBVs, APIView, Generics, and ViewSets](https://dev.to/sizan_mahmud0_e7c3fd0cb68/django-rest-framework-views-decoded-choosing-between-fbvs-apiview-generics-and-viewsets-32i9)**
+  *<h2>
   
   
-  Your Deployments Are Stuck in the Past: The Lost Art of the Hot Restart
+  Stop Copy-Pasting DRF Code: Here's How to Choose the Right View
 </h2>
 
-<p>I ...*
-  📅 Sun, 26 Oct 2025 00:36:02 +0000
+<p>You're building a Django REST API. You search "DRF list view" and find five different ways to do the same thing. ...*
+  📅 Sun, 26 Oct 2025 06:12:53 +0000
 
-- **[Presento GozoLite — un Code Executor modular que ejecuta 29 lenguajes reales, hecho por TotyLabs](https://dev.to/darkbyte01/presento-gozolite-un-code-executor-modular-que-ejecuta-29-lenguajes-reales-hecho-por-totylabs-2amd)**
-  *<blockquote>
-<p>Hola a todos 👋<br />
-Soy Toty, creador de TotyLabs, un laboratorio independiente de innovación tecnológica.</p>
-</blockquote>
-
-<p>Hoy quiero presentarles GozoLite, un Polyglot Secure C...*
-  📅 Sun, 26 Oct 2025 00:32:59 +0000
+- **[8-Bit Music Theory: How to Write Gorgeous Chords like Masashi Hamauzu](https://dev.to/music_youtube/8-bit-music-theory-how-to-write-gorgeous-chords-like-masashi-hamauzu-1cga)**
+  *<p>Masashi Hamauzu’s music lives in vibrant, meticulously voiced chords—especially a “Sus Chord Slash Chord” that stacks sus2 over sus4 for a lush, floating vibe. This quick deep-dive breaks down how ...*
+  📅 Sun, 26 Oct 2025 06:08:55 +0000
 
 </details>
 
@@ -131,53 +123,53 @@ Soy Toty, creador de TotyLabs, un laboratorio independiente de innovación tecno
 
 ### 📈 Daily Trending
 
-- **[GabrielAdami-dev/Python](https://github.com/GabrielAdami-dev/Python)** ⭐ 2
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  In this language project python I have my first projects as a junior programmer. All my activities, challenges and very important projects that trained me for a long time
-
-- **[SolutionsExcite/claude-developer-template](https://github.com/SolutionsExcite/claude-developer-template)** ⭐ 1
-  ![Shell](https://img.shields.io/badge/-Shell-lightgrey)
-  Ultimate Claude Code Workspace - 117 Expert Subagents Ready to Use. Clone, run claude, and get instant access to all specialists.
-
-- **[JeongHo-SEO/Curriculum-Vitae](https://github.com/JeongHo-SEO/Curriculum-Vitae)** ⭐ 1
+- **[8x200m/vault-vpn](https://github.com/8x200m/vault-vpn)** ⭐ 45
   ![None](https://img.shields.io/badge/-None-lightgrey)
-  My CV
+  This project provides step-by-step instructions to set up a VPN connection for privacy and region-aware testing with Spotify. It uses only official APIs and requires personal accounts. Do not use this guide to access paid content illegally or to distribute unauthorized copies.
 
-- **[jiqibuaixuexi/ultralytics-](https://github.com/jiqibuaixuexi/ultralytics-)** ⭐ 1
-  ![Jupyter Notebook](https://img.shields.io/badge/-Jupyter Notebook-lightgrey)
-  基于ultralytics的tutorial.ipynb代码构建的可以实现自动检测和分割的工作流
+- **[anouarlamhamdi/RaidVortex-Stealer-Discord-FUD](https://github.com/anouarlamhamdi/RaidVortex-Stealer-Discord-FUD)** ⭐ 41
+  ![C++](https://img.shields.io/badge/-C++-pink)
+  Account Password Capture.Capturing Cookies and Passwords.Extending Compatibility to Brave, Chrome, Firefox, and OperaGx (Password & Cookies Extraction)
 
-- **[Frankolucero/GaleryPhotos---Backend](https://github.com/Frankolucero/GaleryPhotos---Backend)** ⭐ 1
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
-  Galeria de fotos que realice estilo red social.
+- **[roberthsu2003/__2025_10_26_chihlee_pi_pico__](https://github.com/roberthsu2003/__2025_10_26_chihlee_pi_pico__)** ⭐ 24
+  ![None](https://img.shields.io/badge/-None-lightgrey)
+  致理課程:樹莓派pico_w整合雲端物聯網運用實作班
 
-- **[cgroup2/c2](https://github.com/cgroup2/c2)** ⭐ 1
+- **[omgmad/pong](https://github.com/omgmad/pong)** ⭐ 14
   ![None](https://img.shields.io/badge/-None-lightgrey)
   None
 
-- **[jcc19/example-repo](https://github.com/jcc19/example-repo)** ⭐ 1
+- **[BlueCoder88/salty-granny-nh1R](https://github.com/BlueCoder88/salty-granny-nh1R)** ⭐ 12
   ![None](https://img.shields.io/badge/-None-lightgrey)
-  nuevo repositorio.
+  None
 
-- **[EthanGu4/gamblescope](https://github.com/EthanGu4/gamblescope)** ⭐ 1
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
-  gamble on gradescope! see what your peers feel about classes, gamble on random tests for fun, or just browse in your free time!
+- **[bhrechain/limp-viability-e1mv1](https://github.com/bhrechain/limp-viability-e1mv1)** ⭐ 12
+  ![None](https://img.shields.io/badge/-None-lightgrey)
+  dark
+
+- **[Zofernandes/slight-tenant-n1jL](https://github.com/Zofernandes/slight-tenant-n1jL)** ⭐ 12
+  ![None](https://img.shields.io/badge/-None-lightgrey)
+  None
+
+- **[Zofernandes/limp-viability-e1mv1](https://github.com/Zofernandes/limp-viability-e1mv1)** ⭐ 12
+  ![None](https://img.shields.io/badge/-None-lightgrey)
+  dark
 
 ### 📈 Weekly Trending
 
-- **[deta/surf](https://github.com/deta/surf)** ⭐ 1,717
+- **[deta/surf](https://github.com/deta/surf)** ⭐ 1,737
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   Personal AI Notebooks. Organize files & webpages and generate notes from them. Open source, local & open data, open model choice (incl. local).
 
-- **[anthropic-experimental/sandbox-runtime](https://github.com/anthropic-experimental/sandbox-runtime)** ⭐ 1,072
+- **[anthropic-experimental/sandbox-runtime](https://github.com/anthropic-experimental/sandbox-runtime)** ⭐ 1,084
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   A lightweight sandboxing tool for enforcing filesystem and network restrictions on arbitrary processes at the OS level, without requiring a container.
 
-- **[rdumasia303/deepseek_ocr_app](https://github.com/rdumasia303/deepseek_ocr_app)** ⭐ 789
+- **[rdumasia303/deepseek_ocr_app](https://github.com/rdumasia303/deepseek_ocr_app)** ⭐ 846
   ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
   A quick vibe coded app for deepseek OCR
 
-- **[vercel/workflow](https://github.com/vercel/workflow)** ⭐ 594
+- **[vercel/workflow](https://github.com/vercel/workflow)** ⭐ 612
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   Workflow DevKit: Build durable, resilient, and observable workflows
 
@@ -185,41 +177,41 @@ Soy Toty, creador de TotyLabs, un laboratorio independiente de innovación tecno
   ![Python](https://img.shields.io/badge/-Python-blue)
   An universal OSINT tool.
 
+- **[pguso/ai-agents-from-scratch](https://github.com/pguso/ai-agents-from-scratch)** ⭐ 548
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
+  Demystify AI agents by building them yourself. Local LLMs, no black boxes, real understanding of function calling, memory, and ReAct patterns.
+
 - **[s4myot/crypto-tax-calculator](https://github.com/s4myot/crypto-tax-calculator)** ⭐ 544
   ![Python](https://img.shields.io/badge/-Python-blue)
   An advanced cryptocurrency & personal income tax calculator.
 
-- **[lightly-ai/lightly-studio](https://github.com/lightly-ai/lightly-studio)** ⭐ 543
+- **[lightly-ai/lightly-studio](https://github.com/lightly-ai/lightly-studio)** ⭐ 544
   ![Python](https://img.shields.io/badge/-Python-blue)
   Curate, Annotate, and Manage Your Data in LightlyStudio.
 
-- **[pguso/ai-agents-from-scratch](https://github.com/pguso/ai-agents-from-scratch)** ⭐ 510
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
-  Demystify AI agents by building them yourself. Local LLMs, no black boxes, real understanding of function calling, memory, and ReAct patterns.
-
 ### 📈 Monthly Trending
 
-- **[karpathy/nanochat](https://github.com/karpathy/nanochat)** ⭐ 32,490
+- **[karpathy/nanochat](https://github.com/karpathy/nanochat)** ⭐ 32,541
   ![Python](https://img.shields.io/badge/-Python-blue)
   The best ChatGPT that $100 can buy.
 
-- **[deepseek-ai/DeepSeek-OCR](https://github.com/deepseek-ai/DeepSeek-OCR)** ⭐ 17,099
+- **[deepseek-ai/DeepSeek-OCR](https://github.com/deepseek-ai/DeepSeek-OCR)** ⭐ 17,176
   ![Python](https://img.shields.io/badge/-Python-blue)
   Contexts Optical Compression
 
-- **[SamsungSAILMontreal/TinyRecursiveModels](https://github.com/SamsungSAILMontreal/TinyRecursiveModels)** ⭐ 5,165
+- **[SamsungSAILMontreal/TinyRecursiveModels](https://github.com/SamsungSAILMontreal/TinyRecursiveModels)** ⭐ 5,167
   ![Python](https://img.shields.io/badge/-Python-blue)
   None
 
-- **[obra/superpowers](https://github.com/obra/superpowers)** ⭐ 4,782
+- **[obra/superpowers](https://github.com/obra/superpowers)** ⭐ 4,791
   ![Shell](https://img.shields.io/badge/-Shell-lightgrey)
   Claude Code superpowers: core skills library
 
-- **[Open-Dev-Society/OpenStock](https://github.com/Open-Dev-Society/OpenStock)** ⭐ 4,198
+- **[Open-Dev-Society/OpenStock](https://github.com/Open-Dev-Society/OpenStock)** ⭐ 4,221
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   OpenStock is an open-source alternative to expensive market platforms. Track real-time prices, set personalized alerts, and explore detailed company insights — built openly, for everyone, forever free.
 
-- **[neuphonic/neutts-air](https://github.com/neuphonic/neutts-air)** ⭐ 3,663
+- **[neuphonic/neutts-air](https://github.com/neuphonic/neutts-air)** ⭐ 3,666
   ![Python](https://img.shields.io/badge/-Python-blue)
   On-device TTS model by Neuphonic
 
@@ -227,7 +219,7 @@ Soy Toty, creador de TotyLabs, un laboratorio independiente de innovación tecno
   ![Python](https://img.shields.io/badge/-Python-blue)
   Baby Dragon Hatchling (BDH) – Architecture and Code
 
-- **[midudev/jscamp](https://github.com/midudev/jscamp)** ⭐ 2,800
+- **[midudev/jscamp](https://github.com/midudev/jscamp)** ⭐ 2,805
   ![CSS](https://img.shields.io/badge/-CSS-lightgrey)
   Contenido y ejercicios del JSCamp InfoJobs
 
@@ -497,9 +489,9 @@ WebAssembly and JIT pipeline o...
 
 | Skill | Status |
 |-------|--------|
-| Java | 🟡 Learning |
-| Python | 🟢 Proficient |
-| JavaScript | 🟡 Learning |
+| Java | 🔴 Beginner |
+| Python | ⚪ Planned |
+| JavaScript | 🔴 Beginner |
 | TypeScript | 🟢 Proficient |
 | Go | 🟡 Learning |
 
@@ -507,49 +499,49 @@ WebAssembly and JIT pipeline o...
 
 | Skill | Status |
 |-------|--------|
-| React | 🔴 Beginner |
+| React | ⚪ Planned |
 | Spring Boot | 🔴 Beginner |
-| Django | ⚪ Planned |
+| Django | 🟢 Proficient |
 | Node.js | 🔴 Beginner |
-| Next.js | ⚪ Planned |
+| Next.js | 🔴 Beginner |
 
 ### Cybersecurity
 
 | Skill | Status |
 |-------|--------|
-| Penetration Testing | 🟢 Proficient |
-| Web Security | 🟡 Learning |
-| Network Security | 🟡 Learning |
-| OWASP | 🔴 Beginner |
+| Penetration Testing | 🔴 Beginner |
+| Web Security | 🟢 Proficient |
+| Network Security | 🟢 Proficient |
+| OWASP | 🟢 Proficient |
 
 ### Ai Ml
 
 | Skill | Status |
 |-------|--------|
-| Machine Learning | 🔴 Beginner |
-| Deep Learning | 🔴 Beginner |
+| Machine Learning | 🟢 Proficient |
+| Deep Learning | 🟢 Proficient |
 | NLP | 🟡 Learning |
 | Computer Vision | 🟢 Proficient |
-| TensorFlow | ⚪ Planned |
-| PyTorch | 🟢 Proficient |
+| TensorFlow | 🟢 Proficient |
+| PyTorch | 🟡 Learning |
 
 ### Devops
 
 | Skill | Status |
 |-------|--------|
-| Docker | 🟢 Proficient |
-| Kubernetes | 🟡 Learning |
-| CI/CD | 🟡 Learning |
-| AWS | 🟡 Learning |
-| Azure | ⚪ Planned |
+| Docker | 🟡 Learning |
+| Kubernetes | ⚪ Planned |
+| CI/CD | 🔴 Beginner |
+| AWS | 🔴 Beginner |
+| Azure | 🟡 Learning |
 
 ### Other
 
 | Skill | Status |
 |-------|--------|
 | Blockchain | 🟡 Learning |
-| Web3 | 🟡 Learning |
-| Cloud Computing | 🟡 Learning |
+| Web3 | 🔴 Beginner |
+| Cloud Computing | 🔴 Beginner |
 
 </details>
 
