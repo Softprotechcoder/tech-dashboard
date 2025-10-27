@@ -7,7 +7,7 @@
 ![AI & ML](https://img.shields.io/badge/-AI%20&%20ML-blue) ![CyberSecurity](https://img.shields.io/badge/-CyberSecurity-red) ![Full Stack Development](https://img.shields.io/badge/-Full%20Stack%20Development-green)
 
 [![Auto Update](https://img.shields.io/badge/Auto%20Update-Enabled-success)](https://github.com/yourusername/tech-dashboard/actions)
-[![Last Updated](https://img.shields.io/badge/Last%20Updated-October 26, 2025-blue)](https://github.com/yourusername/tech-dashboard)
+[![Last Updated](https://img.shields.io/badge/Last%20Updated-October 27, 2025-blue)](https://github.com/yourusername/tech-dashboard)
 
 *Automatically updated every 6 hours with the latest tech news, trending repositories, and learning resources.*
 
@@ -46,34 +46,46 @@
 
 ### 📑 Hacker News
 
-- **[Show HN: FlashRecord – 2MB Python-native CLI screen recorder](https://github.com/Flamehaven/FlashRecord)**
-  *<p>Hi HN — I built FlashRecord, a tiny (≈2MB) Python-native CLI tool for screenshots and GIF recordings aimed at developers who want automation-friendly, scriptable screen capture without a GUI.<p>###...*
-  📅 Sun, 26 Oct 2025 17:12:37 +0000
+- **[Are-we-fast-yet implementations in Oberon, C++, C, Pascal, Micron and Luon](https://github.com/rochus-keller/Are-we-fast-yet)**
+  *<p>Article URL: <a href="https://github.com/rochus-keller/Are-we-fast-yet">https://github.com/rochus-keller/Are-we-fast-yet</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=45715...*
+  📅 Sun, 26 Oct 2025 23:08:09 +0000
 
-- **[Books by People – Defending Organic Literature in an AI World](https://booksbypeople.org/)**
-  *<p>Article URL: <a href="https://booksbypeople.org/">https://booksbypeople.org/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=45713367">https://news.ycombinator.com/item?id=45...*
-  📅 Sun, 26 Oct 2025 16:57:44 +0000
+- **[Microsoft 365 Copilot – Arbitrary Data Exfiltration via Mermaid Diagrams](https://www.adamlogue.com/microsoft-365-copilot-arbitrary-data-exfiltration-via-mermaid-diagrams-fixed/)**
+  *<p><a href="https://web.archive.org/web/20251023095538/https://www.adamlogue.com/microsoft-365-copilot-arbitrary-data-exfiltration-via-mermaid-diagrams-fixed/" rel="nofollow">https://web.archive.org/w...*
+  📅 Sun, 26 Oct 2025 22:58:31 +0000
 
-- **[Movie Posters from Africa That Are So Bad, They're Good](https://www.utterlyinteresting.com/post/bizarre-movie-posters-from-africa-that-are-so-bad-they-re-good)**
-  *<p>Article URL: <a href="https://www.utterlyinteresting.com/post/bizarre-movie-posters-from-africa-that-are-so-bad-they-re-good">https://www.utterlyinteresting.com/post/bizarre-movie-posters-from-afri...*
-  📅 Sun, 26 Oct 2025 15:47:29 +0000
+- **[AI Mafia Network – An interactive visualization](https://dipakwani.com/ai-mafia/)**
+  *<p>Article URL: <a href="https://dipakwani.com/ai-mafia/">https://dipakwani.com/ai-mafia/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=45715819">https://news.ycombinator.com/...*
+  📅 Sun, 26 Oct 2025 22:54:23 +0000
 
-- **[Myanmar military shuts down a major cybercrime center, detains over 2k people](https://apnews.com/article/scam-centers-cybercrime-myanmar-a2c9fda85187121e51bd0efdf29c81da)**
-  *<p>Article URL: <a href="https://apnews.com/article/scam-centers-cybercrime-myanmar-a2c9fda85187121e51bd0efdf29c81da">https://apnews.com/article/scam-centers-cybercrime-myanmar-a2c9fda85187121e51bd0ef...*
-  📅 Sun, 26 Oct 2025 15:11:51 +0000
+- **[Show HN: Helium Browser for Android with extensions support, based on Vanadium](https://github.com/jqssun/android-helium-browser)**
+  *<p>Been working on an experimental Chromium-based browser that brings 2 major features to your phone/tablet:<p>1. desktop-style extensions: natively install any extensions (like uBO) from the chrome w...*
+  📅 Sun, 26 Oct 2025 22:41:02 +0000
 
-- **[The FSF considers large language models](https://lwn.net/Articles/1040888/)**
-  *<p>Article URL: <a href="https://lwn.net/Articles/1040888/">https://lwn.net/Articles/1040888/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=45711786">https://news.ycombinator....*
-  📅 Sun, 26 Oct 2025 13:38:30 +0000
+- **[Poison, Poison Everywhere](https://loeber.substack.com/p/29-poison-poison-everywhere)**
+  *<p>Article URL: <a href="https://loeber.substack.com/p/29-poison-poison-everywhere">https://loeber.substack.com/p/29-poison-poison-everywhere</a></p>
+<p>Comments URL: <a href="https://news.ycombinator...*
+  📅 Sun, 26 Oct 2025 22:36:34 +0000
 
-- **[Let's Help NetBSD Cross the Finish Line Before 2025 Ends](https://mail-index.netbsd.org/netbsd-users/2025/10/26/msg033327.html)**
-  *<p>Article URL: <a href="https://mail-index.netbsd.org/netbsd-users/2025/10/26/msg033327.html">https://mail-index.netbsd.org/netbsd-users/2025/10/26/msg033327.html</a></p>
-<p>Comments URL: <a href="ht...*
-  📅 Sun, 26 Oct 2025 12:34:36 +0000
+- **[Show HN: MyraOS – My 32-bit operating system in C and ASM (Hack Club project)](https://github.com/dvir-biton/MyraOS)**
+  *<p>Hi HN, I’m Dvir, a young developer. Last year, I got rejected after a job interview because I lacked some CPU knowledge. After that, I decided to deepen my understanding in the low level world and ...*
+  📅 Sun, 26 Oct 2025 20:43:40 +0000
 
 ### 📑 TechCrunch
+
+- **[Accel and Prosus team up to back early-stage Indian startups](https://techcrunch.com/2025/10/26/accel-and-prosus-team-up-to-back-early-stage-indian-startups-building-for-1-4b-people/)**
+  *Prosus will match Accel's investment in Indian startups under this partnership....*
+  📅 Sun, 26 Oct 2025 23:30:00 +0000
+
+- **[Ads might be coming to Apple Maps next year](https://techcrunch.com/2025/10/26/ads-might-be-coming-to-apple-maps-next-year/)**
+  *This could be part of a larger strategy to introduce more advertising in iOS....*
+  📅 Sun, 26 Oct 2025 19:38:39 +0000
+
+- **[TechCrunch Disrupt 2025 begins in less than 24 hours — catch our last ticket deals](https://techcrunch.com/2025/10/26/techcrunch-disrupt-2025-begins-in-less-than-24-hours-catch-our-last-ticket-deals/)**
+  *The countdown is almost over — tomorrow’s the day! In less than 24 hours, TechCrunch Disrupt 2025 takes over Moscone West. From October 27–29, 10,000 founders, investors, and innovators will flood San...*
+  📅 Sun, 26 Oct 2025 18:57:28 +0000
 
 - **[Trump and Xi will ‘consummate’ TikTok deal on Thursday, treasury secretary says](https://techcrunch.com/2025/10/26/trump-and-xi-will-consummate-tiktok-deal-on-thursday-treasury-secretary-says/)**
   *The United States and China are ready to move forward on a TikTok deal, according to Treasury Secretary Scott Bessent....*
@@ -83,49 +95,27 @@
   *Welcome back to TechCrunch Mobility — your central hub for news and insights on the future of transportation....*
   📅 Sun, 26 Oct 2025 16:05:00 +0000
 
-- **[Less than 24 hours until 10,000 founders, investors, and innovators hit TechCrunch Disrupt 2025 — and ticket rates rise](https://techcrunch.com/2025/10/26/less-than-24-hours-until-10000-founders-investors-and-innovators-hit-techcrunch-disrupt-2025-and-ticket-rates-rise/)**
-  *The countdown is almost over — tomorrow’s the day! In less than 24 hours, TechCrunch Disrupt 2025 takes over Moscone West. From October 27–29, 10,000 founders, investors, and innovators will flood San...*
-  📅 Sun, 26 Oct 2025 14:00:00 +0000
-
 - **[OpenAI reportedly developing new generative music tool](https://techcrunch.com/2025/10/25/openai-reportedly-developing-new-generative-music-tool/)**
   *Such a tool could be used to add music to existing videos, or to add guitar accompaniment to an existing vocal track, sources said....*
   📅 Sat, 25 Oct 2025 19:48:54 +0000
 
-- **[High school’s AI security system confuses Doritos bag for a possible firearm](https://techcrunch.com/2025/10/25/high-schools-ai-security-system-confuses-doritos-bag-for-a-possible-firearm/)**
-  *A high school student in Baltimore County, Maryland was reportedly handcuffed and searched after an AI security system flagged his bag of chips as a possible firearm....*
-  📅 Sat, 25 Oct 2025 19:05:11 +0000
-
-- **[Who are AI browsers for?](https://techcrunch.com/2025/10/25/who-are-ai-browsers-for/)**
-  *OpenAI launched an AI-powered browser this week, but it feels like it offers a slight efficiency gain at best....*
-  📅 Sat, 25 Oct 2025 16:51:36 +0000
-
 ### 📑 Dev.to
 
-- **[NaViL: Rethinking Scaling Properties of Native Multimodal Large Language Modelsunder Data Constraints](https://dev.to/paperium/navil-rethinking-scaling-properties-of-native-multimodal-large-language-modelsunder-data-49ej)**
+- **[How to Build a Spam Detector with ML and Python](https://dev.to/hew/how-to-build-a-spam-detector-with-ml-and-python-3b5p)**
+  *<p>All modern spam detection systems rely on machine learning. ML has proven to be superior at many classification tasks given sufficient training data.</p>
+
+<p>This tutorial shows you how to build a ...*
+  📅 Mon, 27 Oct 2025 00:51:58 +0000
+
+- **[Learning on the Job: An Experience-Driven Self-Evolving Agent for Long-HorizonTasks](https://dev.to/paperium/learning-on-the-job-an-experience-driven-self-evolving-agent-for-long-horizontasks-38j3)**
   *<h3>
   
   
-  NaViL: A Smarter AI That Learns to See and Talk Together
+  Meet MUSE: The AI That Learns While It Works
 </h3>
 
-<p>Ever wondered how a robot could look at a photo and describe it as naturally as a friend? <strong>Scientists have discov...*
-  📅 Sun, 26 Oct 2025 18:10:41 +0000
-
-- **[How to Write Clean DTO & Entity Mappers in Java (with Spring Boot)](https://dev.to/gianfcop98/how-to-write-clean-dto-entity-mappers-in-java-with-spring-boot-5ac6)**
-  *<h1>
-  
-  
-  <strong>How to Write Clean DTO &amp; Entity Mappers in Java (with Spring Boot)</strong>
-</h1>
-
-<h2>
-  
-  
-  <strong>Introduction</strong>
-</h2>
-
-<p>When building a Spring Boot application...*
-  📅 Sun, 26 Oct 2025 18:08:17 +0000
+<p>What if your digital assistant could get smarter every time it helped you? <strong>MUSE</strong> is a new kind of AI agent that does...*
+  📅 Mon, 27 Oct 2025 00:50:14 +0000
 
 </details>
 
@@ -133,65 +123,57 @@
 
 ### 📈 Daily Trending
 
-- **[vasiliy809/shadow-rs](https://github.com/vasiliy809/shadow-rs)** ⭐ 64
-  ![Rust](https://img.shields.io/badge/-Rust-brown)
-  Windows Kernel Rootkit in Rust
-
-- **[ChetanChoudhary1/ZeroCrumb](https://github.com/ChetanChoudhary1/ZeroCrumb)** ⭐ 61
-  ![C++](https://img.shields.io/badge/-C++-pink)
-  Dumping App Bound Protected Credentials & Cookies Without Privileges.
-
-- **[freee-for-lifetime111/kmsiii](https://github.com/freee-for-lifetime111/kmsiii)** ⭐ 51
+- **[saravanan444/Roblox-Injector](https://github.com/saravanan444/Roblox-Injector)** ⭐ 64
   ![None](https://img.shields.io/badge/-None-lightgrey)
+  A simple lua injector made specifically for roblox. (Windows Only)
+
+- **[T3-Content/soramarker](https://github.com/T3-Content/soramarker)** ⭐ 2
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
   None
 
-- **[freely-gett/shampi](https://github.com/freely-gett/shampi)** ⭐ 50
-  ![None](https://img.shields.io/badge/-None-lightgrey)
+- **[dwingustav/HelloWorld](https://github.com/dwingustav/HelloWorld)** ⭐ 2
+  ![Java](https://img.shields.io/badge/-Java-orange)
   None
 
-- **[yourfriend0432/KMS-system38-ver.3.4.2-BUILD5](https://github.com/yourfriend0432/KMS-system38-ver.3.4.2-BUILD5)** ⭐ 49
-  ![None](https://img.shields.io/badge/-None-lightgrey)
-  None
-
-- **[evitelner1753/KMS-toolkit39-ver.3.3.6-RELEASE2](https://github.com/evitelner1753/KMS-toolkit39-ver.3.3.6-RELEASE2)** ⭐ 49
-  ![None](https://img.shields.io/badge/-None-lightgrey)
-  None
-
-- **[Corbeau01/powersub-demo-3127](https://github.com/Corbeau01/powersub-demo-3127)** ⭐ 48
+- **[stupid-birdbrain/magpie-vk](https://github.com/stupid-birdbrain/magpie-vk)** ⭐ 2
   ![C#](https://img.shields.io/badge/-C#-lightgrey)
+  magpie-vk
+
+- **[loquendotutoriales2007/slanglibrary-for-ahk](https://github.com/loquendotutoriales2007/slanglibrary-for-ahk)** ⭐ 1
+  ![None](https://img.shields.io/badge/-None-lightgrey)
   None
 
-- **[Corbeau01/powersub-demo-5975](https://github.com/Corbeau01/powersub-demo-5975)** ⭐ 48
+- **[volodymyrlogika/posts_drf_example](https://github.com/volodymyrlogika/posts_drf_example)** ⭐ 1
   ![Python](https://img.shields.io/badge/-Python-blue)
   None
+
+- **[kapilcdave/my-blog](https://github.com/kapilcdave/my-blog)** ⭐ 1
+  ![Astro](https://img.shields.io/badge/-Astro-lightgrey)
+  None
+
+- **[konanda-sg/CrickHD-Auto-Update](https://github.com/konanda-sg/CrickHD-Auto-Update)** ⭐ 1
+  ![None](https://img.shields.io/badge/-None-lightgrey)
+   CrickHD Auto Update Server  . Watch Live Sports Channels For Free.
 
 ### 📈 Weekly Trending
 
-- **[deta/surf](https://github.com/deta/surf)** ⭐ 1,790
-  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
-  Personal AI Notebooks. Organize files & webpages and generate notes from them. Open source, local & open data, open model choice (incl. local).
-
-- **[anthropic-experimental/sandbox-runtime](https://github.com/anthropic-experimental/sandbox-runtime)** ⭐ 1,106
-  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
-  A lightweight sandboxing tool for enforcing filesystem and network restrictions on arbitrary processes at the OS level, without requiring a container.
-
-- **[rdumasia303/deepseek_ocr_app](https://github.com/rdumasia303/deepseek_ocr_app)** ⭐ 939
+- **[rdumasia303/deepseek_ocr_app](https://github.com/rdumasia303/deepseek_ocr_app)** ⭐ 967
   ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
   A quick vibe coded app for deepseek OCR
 
-- **[apple/pico-banana-400k](https://github.com/apple/pico-banana-400k)** ⭐ 701
+- **[apple/pico-banana-400k](https://github.com/apple/pico-banana-400k)** ⭐ 818
   ![Python](https://img.shields.io/badge/-Python-blue)
   None
 
-- **[vercel/workflow](https://github.com/vercel/workflow)** ⭐ 656
+- **[vercel/workflow](https://github.com/vercel/workflow)** ⭐ 672
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   Workflow DevKit: Build durable, resilient, and observable workflows
 
-- **[pguso/ai-agents-from-scratch](https://github.com/pguso/ai-agents-from-scratch)** ⭐ 630
+- **[pguso/ai-agents-from-scratch](https://github.com/pguso/ai-agents-from-scratch)** ⭐ 667
   ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
   Demystify AI agents by building them yourself. Local LLMs, no black boxes, real understanding of function calling, memory, and ReAct patterns.
 
-- **[Bogdanovich77/DeekSeek-OCR---Dockerized-API](https://github.com/Bogdanovich77/DeekSeek-OCR---Dockerized-API)** ⭐ 586
+- **[Bogdanovich77/DeekSeek-OCR---Dockerized-API](https://github.com/Bogdanovich77/DeekSeek-OCR---Dockerized-API)** ⭐ 626
   ![Python](https://img.shields.io/badge/-Python-blue)
   None
 
@@ -199,37 +181,45 @@
   ![Python](https://img.shields.io/badge/-Python-blue)
   An universal OSINT tool.
 
+- **[lightly-ai/lightly-studio](https://github.com/lightly-ai/lightly-studio)** ⭐ 549
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  Curate, Annotate, and Manage Your Data in LightlyStudio.
+
+- **[TimmyOVO/deepseek-ocr.rs](https://github.com/TimmyOVO/deepseek-ocr.rs)** ⭐ 546
+  ![Rust](https://img.shields.io/badge/-Rust-brown)
+  Rust implementation of DeepSeek-OCR with OpenAI-compatible server. & CLI No Python environment needed - just download and run.
+
 ### 📈 Monthly Trending
 
-- **[karpathy/nanochat](https://github.com/karpathy/nanochat)** ⭐ 32,920
+- **[karpathy/nanochat](https://github.com/karpathy/nanochat)** ⭐ 33,068
   ![Python](https://img.shields.io/badge/-Python-blue)
   The best ChatGPT that $100 can buy.
 
-- **[deepseek-ai/DeepSeek-OCR](https://github.com/deepseek-ai/DeepSeek-OCR)** ⭐ 17,398
+- **[deepseek-ai/DeepSeek-OCR](https://github.com/deepseek-ai/DeepSeek-OCR)** ⭐ 17,446
   ![Python](https://img.shields.io/badge/-Python-blue)
   Contexts Optical Compression
 
-- **[SamsungSAILMontreal/TinyRecursiveModels](https://github.com/SamsungSAILMontreal/TinyRecursiveModels)** ⭐ 5,182
+- **[SamsungSAILMontreal/TinyRecursiveModels](https://github.com/SamsungSAILMontreal/TinyRecursiveModels)** ⭐ 5,192
   ![Python](https://img.shields.io/badge/-Python-blue)
   None
 
-- **[obra/superpowers](https://github.com/obra/superpowers)** ⭐ 4,827
+- **[obra/superpowers](https://github.com/obra/superpowers)** ⭐ 4,845
   ![Shell](https://img.shields.io/badge/-Shell-lightgrey)
   Claude Code superpowers: core skills library
 
-- **[Open-Dev-Society/OpenStock](https://github.com/Open-Dev-Society/OpenStock)** ⭐ 4,267
+- **[Open-Dev-Society/OpenStock](https://github.com/Open-Dev-Society/OpenStock)** ⭐ 4,283
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   OpenStock is an open-source alternative to expensive market platforms. Track real-time prices, set personalized alerts, and explore detailed company insights — built openly, for everyone, forever free.
 
-- **[neuphonic/neutts-air](https://github.com/neuphonic/neutts-air)** ⭐ 3,673
+- **[neuphonic/neutts-air](https://github.com/neuphonic/neutts-air)** ⭐ 3,674
   ![Python](https://img.shields.io/badge/-Python-blue)
   On-device TTS model by Neuphonic
 
-- **[pathwaycom/bdh](https://github.com/pathwaycom/bdh)** ⭐ 3,229
+- **[pathwaycom/bdh](https://github.com/pathwaycom/bdh)** ⭐ 3,232
   ![Python](https://img.shields.io/badge/-Python-blue)
   Baby Dragon Hatchling (BDH) – Architecture and Code
 
-- **[midudev/jscamp](https://github.com/midudev/jscamp)** ⭐ 2,809
+- **[midudev/jscamp](https://github.com/midudev/jscamp)** ⭐ 2,811
   ![CSS](https://img.shields.io/badge/-CSS-lightgrey)
   Contenido y ejercicios del JSCamp InfoJobs
 
@@ -500,58 +490,58 @@ WebAssembly and JIT pipeline o...
 | Skill | Status |
 |-------|--------|
 | Java | 🔴 Beginner |
-| Python | ⚪ Planned |
-| JavaScript | 🟡 Learning |
-| TypeScript | 🟢 Proficient |
-| Go | 🟢 Proficient |
+| Python | 🟢 Proficient |
+| JavaScript | 🔴 Beginner |
+| TypeScript | 🟡 Learning |
+| Go | 🔴 Beginner |
 
 ### Frameworks
 
 | Skill | Status |
 |-------|--------|
-| React | 🟡 Learning |
-| Spring Boot | 🔴 Beginner |
-| Django | ⚪ Planned |
-| Node.js | 🟡 Learning |
-| Next.js | 🟢 Proficient |
+| React | 🟢 Proficient |
+| Spring Boot | ⚪ Planned |
+| Django | 🟡 Learning |
+| Node.js | 🔴 Beginner |
+| Next.js | 🟡 Learning |
 
 ### Cybersecurity
 
 | Skill | Status |
 |-------|--------|
-| Penetration Testing | 🟢 Proficient |
-| Web Security | 🟢 Proficient |
-| Network Security | 🟡 Learning |
-| OWASP | 🟡 Learning |
+| Penetration Testing | 🔴 Beginner |
+| Web Security | 🟡 Learning |
+| Network Security | ⚪ Planned |
+| OWASP | 🔴 Beginner |
 
 ### Ai Ml
 
 | Skill | Status |
 |-------|--------|
-| Machine Learning | 🟡 Learning |
-| Deep Learning | 🔴 Beginner |
-| NLP | 🔴 Beginner |
-| Computer Vision | 🟡 Learning |
-| TensorFlow | 🟢 Proficient |
+| Machine Learning | 🔴 Beginner |
+| Deep Learning | ⚪ Planned |
+| NLP | ⚪ Planned |
+| Computer Vision | ⚪ Planned |
+| TensorFlow | 🟡 Learning |
 | PyTorch | ⚪ Planned |
 
 ### Devops
 
 | Skill | Status |
 |-------|--------|
-| Docker | 🔴 Beginner |
-| Kubernetes | ⚪ Planned |
-| CI/CD | 🔴 Beginner |
-| AWS | 🟢 Proficient |
-| Azure | 🟡 Learning |
+| Docker | 🟡 Learning |
+| Kubernetes | 🔴 Beginner |
+| CI/CD | 🟡 Learning |
+| AWS | 🟡 Learning |
+| Azure | 🔴 Beginner |
 
 ### Other
 
 | Skill | Status |
 |-------|--------|
 | Blockchain | 🟡 Learning |
-| Web3 | 🟢 Proficient |
-| Cloud Computing | ⚪ Planned |
+| Web3 | ⚪ Planned |
+| Cloud Computing | 🟢 Proficient |
 
 </details>
 
@@ -569,7 +559,7 @@ This dashboard is automatically updated every 6 hours using GitHub Actions. The 
 
 <div align="center">
 
-**Last Updated:** October 26, 2025
+**Last Updated:** October 27, 2025
 
 Made with ❤️ and automated with GitHub Actions
 
