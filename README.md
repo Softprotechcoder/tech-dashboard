@@ -20,7 +20,7 @@
 | Metric | Count |
 |--------|-------|
 | 📰 Latest News Articles | 26 |
-| 🔥 Trending Repositories | 0 |
+| 🔥 Trending Repositories | 45 |
 | 🎯 Latest Releases | 10 |
 | 🎯 Learning Goals | 4 |
 
@@ -46,76 +46,179 @@
 
 ### 📑 Hacker News
 
-- **[Artifact (YC W25) is hiring engineers in NYC to build modern ECAD](https://news.ycombinator.com/item?id=45719996)**
-  *<p>Comments URL: <a href="https://news.ycombinator.com/item?id=45719996">https://news.ycombinator.com/item?id=45719996</a></p>
-<p>Points: 0</p>
-<p># Comments: 0</p>...*
-  📅 Mon, 27 Oct 2025 12:00:30 +0000
+- **[Why Nigeria Accepted GMOs](https://www.asimov.press/p/nigeria-crops)**
+  *<p>Article URL: <a href="https://www.asimov.press/p/nigeria-crops">https://www.asimov.press/p/nigeria-crops</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=45724045">https://new...*
+  📅 Mon, 27 Oct 2025 17:42:23 +0000
 
-- **[You Are How You Act](https://boz.com/articles/you-are-how-you-act)**
-  *<p>Article URL: <a href="https://boz.com/articles/you-are-how-you-act">https://boz.com/articles/you-are-how-you-act</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=45719788">htt...*
-  📅 Mon, 27 Oct 2025 11:35:58 +0000
+- **[Let the little guys in: A context sharing runtime for the personalised web](https://arjun.md/little-guys)**
+  *<p>Article URL: <a href="https://arjun.md/little-guys">https://arjun.md/little-guys</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=45723828">https://news.ycombinator.com/item?i...*
+  📅 Mon, 27 Oct 2025 17:27:18 +0000
 
-- **[Microsoft's folds losses from OpenAI into $4.7B expense line – "other"](https://www.theverge.com/news/806880/microsofts-not-very-open-about-openai)**
-  *<p>Article URL: <a href="https://www.theverge.com/news/806880/microsofts-not-very-open-about-openai">https://www.theverge.com/news/806880/microsofts-not-very-open-about-openai</a></p>
-<p>Comments URL:...*
-  📅 Mon, 27 Oct 2025 11:19:27 +0000
+- **[Cisco opensourced MCP-Scanner for finding vulnerabilties in MCP server](https://github.com/cisco-ai-defense/mcp-scanner)**
+  *<p>Article URL: <a href="https://github.com/cisco-ai-defense/mcp-scanner">https://github.com/cisco-ai-defense/mcp-scanner</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=4572369...*
+  📅 Mon, 27 Oct 2025 17:18:39 +0000
 
-- **[Don't forget these tags to make HTML work like you expect](https://blog.jim-nielsen.com/2025/dont-forget-these-html-tags/)**
-  *<p>Article URL: <a href="https://blog.jim-nielsen.com/2025/dont-forget-these-html-tags/">https://blog.jim-nielsen.com/2025/dont-forget-these-html-tags/</a></p>
-<p>Comments URL: <a href="https://news.y...*
-  📅 Mon, 27 Oct 2025 10:01:12 +0000
+- **[Artificial Writing and Automated Detection [pdf]](https://www.nber.org/system/files/working_papers/w34223/w34223.pdf)**
+  *<p>Article URL: <a href="https://www.nber.org/system/files/working_papers/w34223/w34223.pdf">https://www.nber.org/system/files/working_papers/w34223/w34223.pdf</a></p>
+<p>Comments URL: <a href="https:...*
+  📅 Mon, 27 Oct 2025 17:09:05 +0000
 
-- **[Rust cross-platform GPUI components](https://github.com/longbridge/gpui-component)**
-  *<p>Article URL: <a href="https://github.com/longbridge/gpui-component">https://github.com/longbridge/gpui-component</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=45719004">htt...*
-  📅 Mon, 27 Oct 2025 09:44:18 +0000
+- **[Avoid 2:00 and 3:00 am cron jobs (2013)](https://www.endpointdev.com/blog/2013/04/avoid-200-and-300-am-cron-jobs/)**
+  *<p>Article URL: <a href="https://www.endpointdev.com/blog/2013/04/avoid-200-and-300-am-cron-jobs/">https://www.endpointdev.com/blog/2013/04/avoid-200-and-300-am-cron-jobs/</a></p>
+<p>Comments URL: <a ...*
+  📅 Mon, 27 Oct 2025 17:08:33 +0000
 
-- **[WorldGrow: Generating Infinite 3D World](https://github.com/world-grow/WorldGrow)**
-  *<p>Article URL: <a href="https://github.com/world-grow/WorldGrow">https://github.com/world-grow/WorldGrow</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=45718908">https://news....*
-  📅 Mon, 27 Oct 2025 09:31:29 +0000
+- **[Show HN: Git Auto Commit (GAC) – LLM-powered Git commit command line tool](https://github.com/cellwebb/gac)**
+  *<p>GAC is a tool I built to help users spend less time summing up what was done and more time building. It uses LLMs to generate contextual git commit messages from your code changes. And it can be a ...*
+  📅 Mon, 27 Oct 2025 17:07:05 +0000
 
 ### 📑 TechCrunch
 
-- **[Workout app Ladder launches  nutrition-tracking experience](https://techcrunch.com/2025/10/27/workout-app-ladder-launches-nutrition-tracking-experience/)**
-  *Fitness app Ladder is debuting a new nutrition tracking feature that lets you snap a photo to input macros....*
-  📅 Mon, 27 Oct 2025 11:30:00 +0000
+- **[COI Energy solves a conundrum: Letting businesses sell unused electricity — catch it at TechCrunch Disrupt 2025](https://techcrunch.com/2025/10/27/coi-energy-solves-a-conundrum-letting-businesses-sell-unused-electricity-catch-it-at-techcrunch-disrupt-2025/)**
+  *Large enterprises routinely buy  more electricity than they use.  COI Energy has a patented platform that lets them sell and share....*
+  📅 Mon, 27 Oct 2025 18:15:00 +0000
 
-- **[Accel and Prosus team up to back early-stage Indian startups](https://techcrunch.com/2025/10/26/accel-and-prosus-team-up-to-back-early-stage-indian-startups-building-for-1-4b-people/)**
-  *Prosus will match Accel's investment in Indian startups under this partnership....*
-  📅 Sun, 26 Oct 2025 23:30:00 +0000
+- **[Skyline Nav AI’s software can guide you anywhere, without GPS — find it at TechCrunch Disrupt 2025](https://techcrunch.com/2025/10/27/skyline-nav-ais-software-can-guide-you-anywhere-without-gps-find-it-at-techcrunch-disrupt-2025/)**
+  *The company's so-called Pathfinder software can look at almost anything — buildings, tree-lined roads, even aerial views — and quickly match it to a database and generate real-time navigation....*
+  📅 Mon, 27 Oct 2025 18:15:00 +0000
 
-- **[Ads might be coming to Apple Maps next year](https://techcrunch.com/2025/10/26/ads-might-be-coming-to-apple-maps-next-year/)**
-  *This could be part of a larger strategy to introduce more advertising in iOS....*
-  📅 Sun, 26 Oct 2025 19:38:39 +0000
+- **[Oxford spinout RADiCAIT uses AI to make diagnostic imaging more affordable and accessible — catch it at TechCrunch Disrupt 2025](https://techcrunch.com/2025/10/27/oxford-spinout-radicait-uses-ai-to-make-diagnostic-imaging-more-affordable-and-accessible-catch-it-at-techcrunch-disrupt-2025/)**
+  *“What we really do is we took the most constrained, complex, and costly medical imaging solution in radiology, and we supplanted it with what is the most accessible, simple and affordable, which is CT...*
+  📅 Mon, 27 Oct 2025 18:15:00 +0000
 
-- **[TechCrunch Disrupt 2025 begins in less than 24 hours — catch our last ticket deals](https://techcrunch.com/2025/10/26/techcrunch-disrupt-2025-begins-in-less-than-24-hours-catch-our-last-ticket-deals/)**
-  *The countdown is almost over — tomorrow’s the day! In less than 24 hours, TechCrunch Disrupt 2025 takes over Moscone West. From October 27–29, 10,000 founders, investors, and innovators will flood San...*
-  📅 Sun, 26 Oct 2025 18:57:28 +0000
+- **[Miraqules will showcase its blood clotting technology at TechCrunch Disrupt 2025](https://techcrunch.com/2025/10/27/miraqules-will-showcase-its-blood-clotting-technology-at-techcrunch-disrupt-2025/)**
+  *India-based Miraqules developed a nanotechnology that mimics blood clotting proteins to quickly stop heavy bleeding....*
+  📅 Mon, 27 Oct 2025 18:15:00 +0000
 
-- **[Trump and Xi will ‘consummate’ TikTok deal on Thursday, treasury secretary says](https://techcrunch.com/2025/10/26/trump-and-xi-will-consummate-tiktok-deal-on-thursday-treasury-secretary-says/)**
-  *The United States and China are ready to move forward on a TikTok deal, according to Treasury Secretary Scott Bessent....*
-  📅 Sun, 26 Oct 2025 17:29:27 +0000
+- **[Biotech Nephrogen combines AI and gene therapy to reverse kidney disease — check it out at TechCrunch Disrupt 2025](https://techcrunch.com/2025/10/27/biotech-nephrogen-combines-ai-and-gene-therapy-to-reverse-kidney-disease-check-it-out-at-techcrunch-disrupt-2025/)**
+  *When Demetri Maxim was seven years old, his mother’s kidneys stopped working. She was put on dialysis, which meant that she had to go to the hospital four times a week to have her blood filtered by a ...*
+  📅 Mon, 27 Oct 2025 18:15:00 +0000
 
-- **[TechCrunch Mobility: The ‘robot army’ argument](https://techcrunch.com/2025/10/26/techcrunch-mobility-the-robot-army-argument/)**
-  *Welcome back to TechCrunch Mobility — your central hub for news and insights on the future of transportation....*
-  📅 Sun, 26 Oct 2025 16:05:00 +0000
+- **[Apple says U.S. passport digital IDs are coming to Wallet ‘soon’](https://techcrunch.com/2025/10/27/apple-says-u-s-passport-digital-ids-are-coming-to-wallet-soon/)**
+  *Apple says it will soon introduce an Apple Wallet feature to allow U.S. users to create a digital ID using their passport, which can be used at select TSA checkpoints for domestic travel....*
+  📅 Mon, 27 Oct 2025 16:44:30 +0000
 
 ### 📑 Dev.to
 
-- **[They grow up so fast: donating your open source project to a foundation (or: the CloudNativePG story)](https://dev.to/floord/they-grow-up-so-fast-donating-your-open-source-project-to-a-foundation-or-the-cloudnativepg-1999)**
-  *<p>The first commit to the <a href="https://cloudnative-pg.io/" rel="noopener noreferrer">CloudNativePG</a> project was made in February 2020. Just two years later, <a href="https://www.enterprisedb.c...*
-  📅 Mon, 27 Oct 2025 12:16:17 +0000
+- **[Unifying Enterprise Knowledge Search with MindsDB](https://dev.to/prasanna_fdb846e8c3a99074/unifying-enterprise-knowledge-search-with-mindsdb-2cho)**
+  *<blockquote>
+<p>TL;DR: We built a production-ready, multi-source RAG system in just a few days by leveraging MindsDB's Knowledge Bases. What would have required 5+ separate services now runs on declar...*
+  📅 Mon, 27 Oct 2025 18:11:47 +0000
 
-- **[How to Build a Portfolio as a Fresher Developer](https://dev.to/iteyonikservices/how-to-build-a-portfolio-as-a-fresher-developer-41do)**
-  *<p>A well-designed portfolio transforms early effort into visible opportunity. For an early-career applicant, a fresher developer portfolio acts as a professional resume of work. It will demonstrate a...*
-  📅 Mon, 27 Oct 2025 12:11:05 +0000
+- **[🧠 The Death of Manual Email Campaigns: Automating Newsletters with AI](https://dev.to/surajai/the-death-of-manual-email-campaigns-automating-newsletters-with-ai-n74)**
+  *<p>Remember when sending a newsletter meant copy-pasting text into Mailchimp, scheduling it manually, and hoping it didn’t land in the Promotions tab? Yeah, those days are basically over.</p>
+
+<p>AI h...*
+  📅 Mon, 27 Oct 2025 18:10:50 +0000
 
 </details>
 
 ## 🔥 Trending Repositories
+
+### 📈 Daily Trending
+
+- **[CarlWayne555/Discord-Twitch-Bot](https://github.com/CarlWayne555/Discord-Twitch-Bot)** ⭐ 72
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  Discord Twitch Bot
+
+- **[saravanan444/Roblox-Injector](https://github.com/saravanan444/Roblox-Injector)** ⭐ 63
+  ![None](https://img.shields.io/badge/-None-lightgrey)
+  A simple lua injector made specifically for roblox. (Windows Only)
+
+- **[harvestmusic/Twitch-Farmer](https://github.com/harvestmusic/Twitch-Farmer)** ⭐ 60
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  A bot that helps you to get more followers on Twitch
+
+- **[sandd75/DiscordRAT](https://github.com/sandd75/DiscordRAT)** ⭐ 59
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  Discord Remote Administration Tool fully written in Python3
+
+- **[hasinhayder/tutor-sslcommerz](https://github.com/hasinhayder/tutor-sslcommerz)** ⭐ 58
+  ![PHP](https://img.shields.io/badge/-PHP-lightgrey)
+  SSLCommerz payment gateway integration for Tutor LMS. This plugin enables one-time course payments through SSLCommerz.
+
+- **[silver10t/sora2-watermark-remover](https://github.com/silver10t/sora2-watermark-remover)** ⭐ 57
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  Sora 2 generated videos gentle watermark remover
+
+- **[JohntheJohnny/Panther-Stealer](https://github.com/JohntheJohnny/Panther-Stealer)** ⭐ 54
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
+  None
+
+- **[destaandreas2002/TwitchFollowers](https://github.com/destaandreas2002/TwitchFollowers)** ⭐ 53
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
+  🟣 Twitch followers discord bot. (TwitchFarmer)
+
+### 📈 Weekly Trending
+
+- **[johannschopplich/toon](https://github.com/johannschopplich/toon)** ⭐ 1,490
+  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
+  🎒 Token-Oriented Object Notation – JSON for LLMs at half the token cost
+
+- **[rdumasia303/deepseek_ocr_app](https://github.com/rdumasia303/deepseek_ocr_app)** ⭐ 1,064
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
+  A quick vibe coded app for deepseek OCR
+
+- **[apple/pico-banana-400k](https://github.com/apple/pico-banana-400k)** ⭐ 1,049
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  None
+
+- **[TimmyOVO/deepseek-ocr.rs](https://github.com/TimmyOVO/deepseek-ocr.rs)** ⭐ 1,030
+  ![Rust](https://img.shields.io/badge/-Rust-brown)
+  Rust implementation of DeepSeek-OCR with OpenAI-compatible server & CLI No Python environment needed - just download and run.
+
+- **[HKUDS/AI-Trader](https://github.com/HKUDS/AI-Trader)** ⭐ 863
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  "AI-Trader: Can AI Beat the Market?"
+
+- **[pguso/ai-agents-from-scratch](https://github.com/pguso/ai-agents-from-scratch)** ⭐ 863
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
+  Demystify AI agents by building them yourself. Local LLMs, no black boxes, real understanding of function calling, memory, and ReAct patterns.
+
+- **[Bogdanovich77/DeekSeek-OCR---Dockerized-API](https://github.com/Bogdanovich77/DeekSeek-OCR---Dockerized-API)** ⭐ 785
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  None
+
+- **[vercel/workflow](https://github.com/vercel/workflow)** ⭐ 755
+  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
+  Workflow DevKit: Build durable, resilient, and observable workflows
+
+### 📈 Monthly Trending
+
+- **[karpathy/nanochat](https://github.com/karpathy/nanochat)** ⭐ 33,469
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  The best ChatGPT that $100 can buy.
+
+- **[deepseek-ai/DeepSeek-OCR](https://github.com/deepseek-ai/DeepSeek-OCR)** ⭐ 17,866
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  Contexts Optical Compression
+
+- **[SamsungSAILMontreal/TinyRecursiveModels](https://github.com/SamsungSAILMontreal/TinyRecursiveModels)** ⭐ 5,220
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  None
+
+- **[obra/superpowers](https://github.com/obra/superpowers)** ⭐ 4,922
+  ![Shell](https://img.shields.io/badge/-Shell-lightgrey)
+  Claude Code superpowers: core skills library
+
+- **[Open-Dev-Society/OpenStock](https://github.com/Open-Dev-Society/OpenStock)** ⭐ 4,354
+  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
+  OpenStock is an open-source alternative to expensive market platforms. Track real-time prices, set personalized alerts, and explore detailed company insights — built openly, for everyone, forever free.
+
+- **[neuphonic/neutts-air](https://github.com/neuphonic/neutts-air)** ⭐ 3,690
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  On-device TTS model by Neuphonic
+
+- **[pathwaycom/bdh](https://github.com/pathwaycom/bdh)** ⭐ 3,236
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  Baby Dragon Hatchling (BDH) – Architecture and Code
+
+- **[midudev/jscamp](https://github.com/midudev/jscamp)** ⭐ 2,831
+  ![CSS](https://img.shields.io/badge/-CSS-lightgrey)
+  Contenido y ejercicios del JSCamp InfoJobs
 
 ## 🚀 Latest Releases
 
@@ -383,59 +486,59 @@ WebAssembly and JIT pipeline o...
 
 | Skill | Status |
 |-------|--------|
-| Java | 🟢 Proficient |
-| Python | ⚪ Planned |
-| JavaScript | 🟡 Learning |
-| TypeScript | 🟢 Proficient |
-| Go | 🟢 Proficient |
+| Java | 🔴 Beginner |
+| Python | 🟢 Proficient |
+| JavaScript | 🟢 Proficient |
+| TypeScript | 🟡 Learning |
+| Go | ⚪ Planned |
 
 ### Frameworks
 
 | Skill | Status |
 |-------|--------|
 | React | 🟡 Learning |
-| Spring Boot | ⚪ Planned |
-| Django | 🟡 Learning |
-| Node.js | 🟢 Proficient |
-| Next.js | 🟢 Proficient |
+| Spring Boot | 🔴 Beginner |
+| Django | 🔴 Beginner |
+| Node.js | ⚪ Planned |
+| Next.js | ⚪ Planned |
 
 ### Cybersecurity
 
 | Skill | Status |
 |-------|--------|
-| Penetration Testing | 🟡 Learning |
-| Web Security | 🟢 Proficient |
-| Network Security | 🔴 Beginner |
+| Penetration Testing | 🔴 Beginner |
+| Web Security | 🔴 Beginner |
+| Network Security | 🟢 Proficient |
 | OWASP | 🟢 Proficient |
 
 ### Ai Ml
 
 | Skill | Status |
 |-------|--------|
-| Machine Learning | 🟡 Learning |
-| Deep Learning | 🟡 Learning |
+| Machine Learning | 🔴 Beginner |
+| Deep Learning | ⚪ Planned |
 | NLP | 🟡 Learning |
-| Computer Vision | 🟢 Proficient |
-| TensorFlow | 🟡 Learning |
-| PyTorch | ⚪ Planned |
+| Computer Vision | ⚪ Planned |
+| TensorFlow | 🔴 Beginner |
+| PyTorch | 🔴 Beginner |
 
 ### Devops
 
 | Skill | Status |
 |-------|--------|
-| Docker | 🟡 Learning |
-| Kubernetes | 🟡 Learning |
+| Docker | 🟢 Proficient |
+| Kubernetes | ⚪ Planned |
 | CI/CD | 🟢 Proficient |
-| AWS | 🟡 Learning |
-| Azure | 🟡 Learning |
+| AWS | ⚪ Planned |
+| Azure | ⚪ Planned |
 
 ### Other
 
 | Skill | Status |
 |-------|--------|
-| Blockchain | ⚪ Planned |
+| Blockchain | 🟡 Learning |
 | Web3 | 🟢 Proficient |
-| Cloud Computing | 🟢 Proficient |
+| Cloud Computing | ⚪ Planned |
 
 </details>
 
