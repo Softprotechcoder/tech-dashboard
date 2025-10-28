@@ -46,71 +46,78 @@
 
 ### 📑 Hacker News
 
-- **[Amazon confirms 14,000 job losses in corporate division](https://www.bbc.com/news/articles/c1m3zm9jnl1o)**
-  *<p>Article URL: <a href="https://www.bbc.com/news/articles/c1m3zm9jnl1o">https://www.bbc.com/news/articles/c1m3zm9jnl1o</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=45731539"...*
-  📅 Tue, 28 Oct 2025 11:39:24 +0000
+- **[SigNoz (YC W21) Is Hiring DevRel Engineers in the US – Open Source O11y Platform](https://jobs.ashbyhq.com/SigNoz/8447522c-1163-48d0-8f55-fac25f64a0f3)**
+  *<p>Article URL: <a href="https://jobs.ashbyhq.com/SigNoz/8447522c-1163-48d0-8f55-fac25f64a0f3">https://jobs.ashbyhq.com/SigNoz/8447522c-1163-48d0-8f55-fac25f64a0f3</a></p>
+<p>Comments URL: <a href="ht...*
+  📅 Tue, 28 Oct 2025 17:00:31 +0000
 
-- **[Show HN: Bash Screensavers](https://github.com/attogram/bash-screensavers)**
-  *<p>A github project to collect a bunch of bash-based screensavers/visualizations.</p>
-<hr />
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=45731366">https://news.ycombinator.com/item?...*
-  📅 Tue, 28 Oct 2025 11:12:32 +0000
+- **[I've been loving Claude Code on the Web](https://ben.page/claude-code-web)**
+  *<p>Article URL: <a href="https://ben.page/claude-code-web">https://ben.page/claude-code-web</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=45735264">https://news.ycombinator.co...*
+  📅 Tue, 28 Oct 2025 16:46:57 +0000
 
-- **[Your vibe coded slop PR is not welcome](https://samsaffron.com/archive/2025/10/27/your-vibe-coded-slop-pr-is-not-welcome)**
-  *<p>Article URL: <a href="https://samsaffron.com/archive/2025/10/27/your-vibe-coded-slop-pr-is-not-welcome">https://samsaffron.com/archive/2025/10/27/your-vibe-coded-slop-pr-is-not-welcome</a></p>
-<p>C...*
-  📅 Tue, 28 Oct 2025 11:03:59 +0000
+- **[HOPL: The Human Only Public License](https://vanderessen.com/posts/hopl/)**
+  *<p>Article URL: <a href="https://vanderessen.com/posts/hopl/">https://vanderessen.com/posts/hopl/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=45735044">https://news.ycombina...*
+  📅 Tue, 28 Oct 2025 16:32:27 +0000
 
-- **[Understanding the Worst .NET Vulnerability](https://andrewlock.net/understanding-the-worst-dotnet-vulnerability-request-smuggling-and-cve-2025-55315/)**
-  *<p>Article URL: <a href="https://andrewlock.net/understanding-the-worst-dotnet-vulnerability-request-smuggling-and-cve-2025-55315/">https://andrewlock.net/understanding-the-worst-dotnet-vulnerability-...*
-  📅 Tue, 28 Oct 2025 11:03:38 +0000
+- **[Texas Attorney General sues Tylenol makers over autism claims](https://www.bbc.com/news/articles/ce9d3n1r08do)**
+  *<p>Article URL: <a href="https://www.bbc.com/news/articles/ce9d3n1r08do">https://www.bbc.com/news/articles/ce9d3n1r08do</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=45734834"...*
+  📅 Tue, 28 Oct 2025 16:17:16 +0000
 
-- **[Situated Software – Clay Shirky (2004)](http://shirky.com/essays/situated-software/)**
-  *<p>Article URL: <a href="http://shirky.com/essays/situated-software/">http://shirky.com/essays/situated-software/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=45731069">https...*
-  📅 Tue, 28 Oct 2025 10:20:16 +0000
+- **[Show HN: Dexto – Connect your AI Agents with real-world tools and data](https://github.com/truffle-ai/dexto)**
+  *<p>Hi HN, we’re the team at Truffle AI (YC W25), and we’ve been working on Dexto (<a href="https://www.dexto.ai/" rel="nofollow">https://www.dexto.ai/</a>), a runtime and orchestration layer for AI Ag...*
+  📅 Tue, 28 Oct 2025 16:07:27 +0000
 
-- **[Geometry and Physics of Wrinkling (2003) [pdf]](https://softmath.seas.harvard.edu/wp-content/uploads/2019/10/2003-03.pdf)**
-  *<p>Article URL: <a href="https://softmath.seas.harvard.edu/wp-content/uploads/2019/10/2003-03.pdf">https://softmath.seas.harvard.edu/wp-content/uploads/2019/10/2003-03.pdf</a></p>
-<p>Comments URL: <a ...*
-  📅 Tue, 28 Oct 2025 09:02:47 +0000
+- **[Using AI to negotiate a $195k hospital bill down to $33k](https://www.threads.com/@nthmonkey/post/DQVdAD1gHhw)**
+  *<p>Article URL: <a href="https://www.threads.com/@nthmonkey/post/DQVdAD1gHhw">https://www.threads.com/@nthmonkey/post/DQVdAD1gHhw</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id...*
+  📅 Tue, 28 Oct 2025 15:58:58 +0000
 
 ### 📑 TechCrunch
 
-- **[Adobe Firefly Image 5 brings support for layers, will let creators make custom models](https://techcrunch.com/2025/10/28/adobe-firefly-image-5-brings-support-for-layers-will-let-creators-make-custom-models/)**
-  *Adobe said on Tuesday that it is launching the latest iteration of its image generation model, Firefly Image 5. The company is also adding features to the Firefly website, support for more third-party...*
-  📅 Tue, 28 Oct 2025 12:00:00 +0000
+- **[VC Vinod Khosla says the US government could take 10% stake in all public companies to soften the blow of AGI](https://techcrunch.com/2025/10/28/vc-vinod-khosla-says-the-us-government-could-take/)**
+  *Khosla Ventures founder, Vinod Khosla, shares his ideas about sharing the abundance of AI....*
+  📅 Tue, 28 Oct 2025 17:45:42 +0000
 
-- **[Adobe launches AI assistants for Express and Photoshop](https://techcrunch.com/2025/10/28/adobe-launches-ai-assistants-for-express-and-photoshop/)**
-  *Adobe today released new AI assistants Creative Cloud products, Express and Photoshop, that can help users with image creation and editing....*
-  📅 Tue, 28 Oct 2025 12:00:00 +0000
+- **[TechCrunch Disrupt 2025: How to watch Vinod Khosla, Netflix, Slate Auto, and Startup Battlefield](https://techcrunch.com/2025/10/28/techcrunch-disrupt-2025-how-to-watch-vinod-khosla-netflix-slate-auto-and-startup-battlefield/)**
+  *If you’re not able to attend in person, the next best thing is to check out our livestream of the Disrupt Stage. Tune in right here starting at 9 a.m. PT....*
+  📅 Tue, 28 Oct 2025 15:56:06 +0000
 
-- **[PayPal partners with OpenAI to let users pay for their shopping within ChatGPT](https://techcrunch.com/2025/10/28/paypal-partners-with-openai-to-let-users-pay-for-their-shopping-within-chatgpt/)**
-  *Paypal said on Tuesday that it is adopting a protocol in combination with OpenAI's "Instant Checkout" feature to let users pay for their shopping directly within ChatGPT, starting in 2026....*
-  📅 Tue, 28 Oct 2025 10:47:43 +0000
+- **[AccessGrid raises $4.4M to help turn phones into key fobs](https://techcrunch.com/2025/10/28/accessgrid-raises-4-4m-to-help-turn-phones-into-key-fobs/)**
+  *AccessGrid builds APIs that companies can use to manage digital key fobs directly within Apple and Google's wallet platforms....*
+  📅 Tue, 28 Oct 2025 15:23:05 +0000
 
-- **[OpenAI offers free ChatGPT Go for one year to all users in India](https://techcrunch.com/2025/10/27/openai-offers-free-chatgpt-go-for-one-year-to-all-users-in-india/)**
-  *ChatGPT Go is now free for Indian users under a limited-time promotional offer....*
-  📅 Tue, 28 Oct 2025 06:17:09 +0000
+- **[Mem0 raises $24M from YC, Peak XV and Basis Set to build the memory layer for AI apps](https://techcrunch.com/2025/10/28/mem0-raises-24m-from-yc-peak-xv-and-basis-set-to-build-the-memory-layer-for-ai-apps/)**
+  *The idea of memory for AI isn’t new, but it’s quickly becoming a critical battleground....*
+  📅 Tue, 28 Oct 2025 15:14:13 +0000
 
-- **[Venture capital is not an asset class, says Sequoia’s Roelof Botha](https://techcrunch.com/2025/10/27/venture-capital-is-not-an-asset-class-says-sequoias-roelof-botha/)**
-  *Sequoia's managing partner Roelof Botha noted that there are currently 3,000 venture firms in the United States, while there were just 1,000 when he joined Sequoia 20 years ago....*
-  📅 Tue, 28 Oct 2025 01:24:04 +0000
+- **[Apple and Microsoft are now both worth more than $4T](https://techcrunch.com/2025/10/28/apple-and-microsoft-are-now-both-worth-more-than-4t/)**
+  *This is the first time Apple's market capitalization has crossed the $4 trillion mark, making it the third company to ever cross the milestone after Nvidia and Microsoft....*
+  📅 Tue, 28 Oct 2025 14:59:52 +0000
 
-- **[CEO of Alphabet’s X, Astro Teller, on what makes a moonshot](https://techcrunch.com/2025/10/27/ceo-of-alphabets-x-astro-teller-on-what-makes-a-moonshot/)**
-  *Teller says X has a 2% hit rate, which means that most of the things the company tries don't work out, and that's okay....*
-  📅 Tue, 28 Oct 2025 00:20:32 +0000
+- **[OpenAI completes its for-profit recapitalization](https://techcrunch.com/2025/10/28/openai-completes-its-for-profit-recapitalization/)**
+  *OpenAI has completed its recapitalization, splitting the AI lab into a for-profit corporation nested inside a non-profit foundation....*
+  📅 Tue, 28 Oct 2025 14:30:24 +0000
 
 ### 📑 Dev.to
 
-- **[Dreamdolls AI Review, Pricing, Features](https://dev.to/dreamdolls/dreamdolls-ai-review-pricing-features-524m)**
-  *<p>Artificial Intelligence has quietly reshaped how people connect online — and now, adult companionship platforms are pushing those boundaries further. Dreamdolls AI Review focuses on one of the most...*
-  📅 Tue, 28 Oct 2025 12:11:20 +0000
+- **[Building CloudWise: Why AWS Cost Tools Failed Startups (And How We Fixed It)](https://dev.to/cloudwiseteam/building-cloudwise-why-aws-cost-tools-failed-startups-and-how-we-fixed-it-4pmn)**
+  *<h2>
+  
+  
+  The Breaking Point
+</h2>
 
-- **[What Happened to Web3 in Gaming](https://dev.to/evgeniipark/what-happened-to-web3-in-gaming-g5)**
-  *<p>A few years back, it felt like blockchain, Web3, and NFTs were about to flip video games upside down. In 2021, you couldn’t escape those buzzwords at any gaming conference, and every article about ...*
-  📅 Tue, 28 Oct 2025 12:11:16 +0000
+<p><em>"We can't afford AWS cost tools, but we're bleeding money on AWS."</em></p>
+
+<p>I heard this exact phrase 47 times while building CloudWise. The math didn...*
+  📅 Tue, 28 Oct 2025 18:09:41 +0000
+
+- **[Peter Finch Golf: I challenged a HEAD PRO at HIS OWN course... (Ep. 2 – Carlisle GC)](https://dev.to/youtube_golf/peter-finch-golf-i-challenged-a-head-pro-at-his-own-course-ep-2-carlisle-gc-1pgn)**
+  *<p>I took on Carlisle GC’s head pro in a winner-takes-£1,000 match for Episode 2 of the series, with big thanks to Titleist for backing the event and pledging extra support for club pros across the UK...*
+  📅 Tue, 28 Oct 2025 18:07:17 +0000
 
 </details>
 
@@ -118,105 +125,105 @@
 
 ### 📈 Daily Trending
 
-- **[Mr-sans-and-InitLoader-s-team/Escape-From-Duckov-Coop-Mod-Preview](https://github.com/Mr-sans-and-InitLoader-s-team/Escape-From-Duckov-Coop-Mod-Preview)** ⭐ 193
+- **[Mr-sans-and-InitLoader-s-team/Escape-From-Duckov-Coop-Mod-Preview](https://github.com/Mr-sans-and-InitLoader-s-team/Escape-From-Duckov-Coop-Mod-Preview)** ⭐ 289
   ![C#](https://img.shields.io/badge/-C#-lightgrey)
   None
 
-- **[0xEdgeAI/EdgeML](https://github.com/0xEdgeAI/EdgeML)** ⭐ 68
-  ![None](https://img.shields.io/badge/-None-lightgrey)
-  None
-
-- **[OS-HUBU/opentalent-new](https://github.com/OS-HUBU/opentalent-new)** ⭐ 54
-  ![Vue](https://img.shields.io/badge/-Vue-lightgrey)
-  None
-
-- **[tinkle-community/nofx](https://github.com/tinkle-community/nofx)** ⭐ 49
+- **[tinkle-community/nofx](https://github.com/tinkle-community/nofx)** ⭐ 169
   ![Go](https://img.shields.io/badge/-Go-cyan)
   None
 
-- **[TencentYoutuResearch/EnConda-Bench](https://github.com/TencentYoutuResearch/EnConda-Bench)** ⭐ 34
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  Code for paper "Process-Level Trajectory Evaluation for Environment Configuration in Software Engineering Agents"
-
-- **[someralkach401/flstudio-25-upd-v6.5.3](https://github.com/someralkach401/flstudio-25-upd-v6.5.3)** ⭐ 29
+- **[0xEdgeAI/EdgeML](https://github.com/0xEdgeAI/EdgeML)** ⭐ 114
   ![None](https://img.shields.io/badge/-None-lightgrey)
-  Fl-studio
+  None
 
-- **[conkelifritik679/flstudi-2025-modulerelease](https://github.com/conkelifritik679/flstudi-2025-modulerelease)** ⭐ 29
+- **[OS-HUBU/opentalent-new](https://github.com/OS-HUBU/opentalent-new)** ⭐ 88
+  ![Vue](https://img.shields.io/badge/-Vue-lightgrey)
+  None
+
+- **[alejandroplanche952-cloud/adobe-photoshop](https://github.com/alejandroplanche952-cloud/adobe-photoshop)** ⭐ 49
   ![None](https://img.shields.io/badge/-None-lightgrey)
-  Fl-studio
+  Adobe Photoshop 2025 Crack is the most effective and easy-to-use tool for unlocking the full potential of Adobe Photoshop 2025. Designed for all versions of Photoshop, it provides a simple, reliable, and quick way to access premium features without a subscription. Adobe Photoshop 2025 Crack helps users easily unlock and access all the premium featu
 
-- **[TencentYoutuResearch/APTBench](https://github.com/TencentYoutuResearch/APTBench)** ⭐ 17
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  Code for "APTBench: Benchmarking Agentic Potential of Base LLMs During Pre-Training"
+- **[Arielp16/fisch-script](https://github.com/Arielp16/fisch-script)** ⭐ 48
+  ![None](https://img.shields.io/badge/-None-lightgrey)
+  Roblox Fisch Script 2025 is a powerful and optimized Lua setup made for Roblox players and developers who want an easy, ready to use, and stable scripting solution. It works with all modern Roblox versions, provides smooth automation, and gives users full control for customization and improved gameplay.
+
+- **[aperare384-daw/windows-activator](https://github.com/aperare384-daw/windows-activator)** ⭐ 48
+  ![None](https://img.shields.io/badge/-None-lightgrey)
+  Microsoft Windows Activator 2025 is a fast and reliable utility that helps users activate and verify their Windows license with one click. It supports all modern versions of Windows, works instantly after setup, and ensures full system performance and authenticity.
+
+- **[hackerkids/haasbot-tradeserver](https://github.com/hackerkids/haasbot-tradeserver)** ⭐ 46
+  ![None](https://img.shields.io/badge/-None-lightgrey)
+  HaasOnline TradeServer 2025 is a cutting-edge trading platform designed to provide traders with a comprehensive suite of tools for automated trading, strategy development, and market analysis. It supports a wide range of cryptocurrency exchanges and offers a user-friendly interface, making it an essential tool for both novice and experienced trader
 
 ### 📈 Weekly Trending
 
-- **[johannschopplich/toon](https://github.com/johannschopplich/toon)** ⭐ 2,422
+- **[johannschopplich/toon](https://github.com/johannschopplich/toon)** ⭐ 2,832
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   🎒 Token-Oriented Object Notation – JSON for LLMs at half the token cost
 
-- **[HKUDS/AI-Trader](https://github.com/HKUDS/AI-Trader)** ⭐ 1,510
+- **[HKUDS/AI-Trader](https://github.com/HKUDS/AI-Trader)** ⭐ 2,049
   ![Python](https://img.shields.io/badge/-Python-blue)
-  "AI-Trader: Can AI Beat the Market?"
+  "AI-Trader: Can AI Beat the Market?" Live Trading: https://hkuds.github.io/AI-Trader/
 
-- **[TimmyOVO/deepseek-ocr.rs](https://github.com/TimmyOVO/deepseek-ocr.rs)** ⭐ 1,220
+- **[TimmyOVO/deepseek-ocr.rs](https://github.com/TimmyOVO/deepseek-ocr.rs)** ⭐ 1,250
   ![Rust](https://img.shields.io/badge/-Rust-brown)
   Rust implementation of DeepSeek-OCR with OpenAI-compatible server & CLI No Python environment needed - just download and run.
 
-- **[pguso/ai-agents-from-scratch](https://github.com/pguso/ai-agents-from-scratch)** ⭐ 1,011
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
-  Demystify AI agents by building them yourself. Local LLMs, no black boxes, real understanding of function calling, memory, and ReAct patterns.
-
-- **[wquguru/nof0](https://github.com/wquguru/nof0)** ⭐ 876
+- **[wquguru/nof0](https://github.com/wquguru/nof0)** ⭐ 1,168
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   nof1.ai完整复刻版（持续开发）
 
-- **[vercel/workflow](https://github.com/vercel/workflow)** ⭐ 831
+- **[pguso/ai-agents-from-scratch](https://github.com/pguso/ai-agents-from-scratch)** ⭐ 1,065
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
+  Demystify AI agents by building them yourself. Local LLMs, no black boxes, real understanding of function calling, memory, and ReAct patterns.
+
+- **[vercel/workflow](https://github.com/vercel/workflow)** ⭐ 852
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   Workflow DevKit: Build durable, resilient, and observable workflows
 
-- **[meituan-longcat/LongCat-Video](https://github.com/meituan-longcat/LongCat-Video)** ⭐ 662
+- **[meituan-longcat/LongCat-Video](https://github.com/meituan-longcat/LongCat-Video)** ⭐ 677
   ![Python](https://img.shields.io/badge/-Python-blue)
   None
 
-- **[MiniMax-AI/MiniMax-M2](https://github.com/MiniMax-AI/MiniMax-M2)** ⭐ 570
+- **[MiniMax-AI/MiniMax-M2](https://github.com/MiniMax-AI/MiniMax-M2)** ⭐ 628
   ![None](https://img.shields.io/badge/-None-lightgrey)
   MiniMax-M2, a Mini model built for Max coding & agentic workflows.
 
 ### 📈 Monthly Trending
 
-- **[karpathy/nanochat](https://github.com/karpathy/nanochat)** ⭐ 33,818
+- **[karpathy/nanochat](https://github.com/karpathy/nanochat)** ⭐ 33,920
   ![Python](https://img.shields.io/badge/-Python-blue)
   The best ChatGPT that $100 can buy.
 
-- **[deepseek-ai/DeepSeek-OCR](https://github.com/deepseek-ai/DeepSeek-OCR)** ⭐ 18,132
+- **[deepseek-ai/DeepSeek-OCR](https://github.com/deepseek-ai/DeepSeek-OCR)** ⭐ 18,206
   ![Python](https://img.shields.io/badge/-Python-blue)
   Contexts Optical Compression
 
-- **[SamsungSAILMontreal/TinyRecursiveModels](https://github.com/SamsungSAILMontreal/TinyRecursiveModels)** ⭐ 5,247
+- **[SamsungSAILMontreal/TinyRecursiveModels](https://github.com/SamsungSAILMontreal/TinyRecursiveModels)** ⭐ 5,252
   ![Python](https://img.shields.io/badge/-Python-blue)
   None
 
-- **[obra/superpowers](https://github.com/obra/superpowers)** ⭐ 5,009
+- **[obra/superpowers](https://github.com/obra/superpowers)** ⭐ 5,036
   ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
   Claude Code superpowers: core skills library
 
-- **[neuphonic/neutts-air](https://github.com/neuphonic/neutts-air)** ⭐ 3,703
+- **[neuphonic/neutts-air](https://github.com/neuphonic/neutts-air)** ⭐ 3,704
   ![Python](https://img.shields.io/badge/-Python-blue)
   On-device TTS model by Neuphonic
 
-- **[pathwaycom/bdh](https://github.com/pathwaycom/bdh)** ⭐ 3,241
+- **[pathwaycom/bdh](https://github.com/pathwaycom/bdh)** ⭐ 3,244
   ![Python](https://img.shields.io/badge/-Python-blue)
   Baby Dragon Hatchling (BDH) – Architecture and Code
 
-- **[facebook/openzl](https://github.com/facebook/openzl)** ⭐ 2,616
+- **[johannschopplich/toon](https://github.com/johannschopplich/toon)** ⭐ 2,832
+  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
+  🎒 Token-Oriented Object Notation – JSON for LLMs at half the token cost
+
+- **[facebook/openzl](https://github.com/facebook/openzl)** ⭐ 2,624
   ![C](https://img.shields.io/badge/-C-lightgrey)
   A novel data compression framework
-
-- **[virattt/dexter](https://github.com/virattt/dexter)** ⭐ 2,543
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  An autonomous agent for deep financial research
 
 ## 🚀 Latest Releases
 
@@ -484,59 +491,59 @@ WebAssembly and JIT pipeline o...
 
 | Skill | Status |
 |-------|--------|
-| Java | 🟡 Learning |
-| Python | 🟢 Proficient |
+| Java | ⚪ Planned |
+| Python | 🟡 Learning |
 | JavaScript | ⚪ Planned |
-| TypeScript | 🟡 Learning |
-| Go | ⚪ Planned |
+| TypeScript | 🔴 Beginner |
+| Go | 🔴 Beginner |
 
 ### Frameworks
 
 | Skill | Status |
 |-------|--------|
-| React | 🔴 Beginner |
-| Spring Boot | 🔴 Beginner |
+| React | ⚪ Planned |
+| Spring Boot | 🟢 Proficient |
 | Django | 🟡 Learning |
-| Node.js | 🔴 Beginner |
-| Next.js | 🔴 Beginner |
+| Node.js | ⚪ Planned |
+| Next.js | ⚪ Planned |
 
 ### Cybersecurity
 
 | Skill | Status |
 |-------|--------|
-| Penetration Testing | ⚪ Planned |
-| Web Security | 🟢 Proficient |
-| Network Security | 🟢 Proficient |
-| OWASP | 🟢 Proficient |
+| Penetration Testing | 🔴 Beginner |
+| Web Security | 🔴 Beginner |
+| Network Security | ⚪ Planned |
+| OWASP | 🟡 Learning |
 
 ### Ai Ml
 
 | Skill | Status |
 |-------|--------|
-| Machine Learning | 🟡 Learning |
+| Machine Learning | 🔴 Beginner |
 | Deep Learning | 🟢 Proficient |
-| NLP | 🟢 Proficient |
-| Computer Vision | ⚪ Planned |
-| TensorFlow | ⚪ Planned |
-| PyTorch | 🟢 Proficient |
+| NLP | 🔴 Beginner |
+| Computer Vision | 🟡 Learning |
+| TensorFlow | 🟡 Learning |
+| PyTorch | 🔴 Beginner |
 
 ### Devops
 
 | Skill | Status |
 |-------|--------|
-| Docker | 🟢 Proficient |
-| Kubernetes | 🟢 Proficient |
-| CI/CD | 🟢 Proficient |
-| AWS | 🟡 Learning |
-| Azure | 🟡 Learning |
+| Docker | ⚪ Planned |
+| Kubernetes | 🔴 Beginner |
+| CI/CD | 🟡 Learning |
+| AWS | 🟢 Proficient |
+| Azure | 🟢 Proficient |
 
 ### Other
 
 | Skill | Status |
 |-------|--------|
-| Blockchain | 🔴 Beginner |
-| Web3 | 🟢 Proficient |
-| Cloud Computing | 🔴 Beginner |
+| Blockchain | 🟢 Proficient |
+| Web3 | 🔴 Beginner |
+| Cloud Computing | 🟡 Learning |
 
 </details>
 
