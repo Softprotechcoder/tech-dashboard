@@ -21,7 +21,7 @@
 |--------|-------|
 | 📰 Latest News Articles | 26 |
 | 🔥 Trending Repositories | 45 |
-| 🎯 Latest Releases | 0 |
+| 🎯 Latest Releases | 10 |
 | 🎯 Learning Goals | 4 |
 
 ## 🎯 Current Focus
@@ -46,35 +46,44 @@
 
 ### 📑 Hacker News
 
-- **[OS/2 Warp, PowerPC Edition](https://www.os2museum.com/wp/os2-history/os2-warp-powerpc-edition/)**
+- **[Carlo Rovelli’s radical perspective on reality](https://www.quantamagazine.org/carlo-rovellis-radical-perspective-on-reality-20251029/)**
+  *<p>Article URL: <a href="https://www.quantamagazine.org/carlo-rovellis-radical-perspective-on-reality-20251029/">https://www.quantamagazine.org/carlo-rovellis-radical-perspective-on-reality-20251029/<...*
+  📅 Thu, 30 Oct 2025 04:29:45 +0000
+
+- **[One year with Next.js App Router and why we're moving on](https://paperclover.net/blog/webdev/one-year-next-app-router)**
+  *<p>Article URL: <a href="https://paperclover.net/blog/webdev/one-year-next-app-router">https://paperclover.net/blog/webdev/one-year-next-app-router</a></p>
+<p>Comments URL: <a href="https://news.ycomb...*
+  📅 Thu, 30 Oct 2025 02:48:21 +0000
+
+- **[Hello-World iOS App in Assembly](https://gist.github.com/nicolas17/966a03ce49f949dd17b0123415ef2e31)**
+  *<p>Article URL: <a href="https://gist.github.com/nicolas17/966a03ce49f949dd17b0123415ef2e31">https://gist.github.com/nicolas17/966a03ce49f949dd17b0123415ef2e31</a></p>
+<p>Comments URL: <a href="https:...*
+  📅 Thu, 30 Oct 2025 02:37:35 +0000
+
+- **[IRCd service (2024)](https://example.fi/blog/ircd.html)**
+  *<p>Article URL: <a href="https://example.fi/blog/ircd.html">https://example.fi/blog/ircd.html</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=45755788">https://news.ycombinator....*
+  📅 Thu, 30 Oct 2025 02:31:43 +0000
+
+- **[OS/2 Warp, PowerPC Edition (2011)](https://www.os2museum.com/wp/os2-history/os2-warp-powerpc-edition/)**
   *<p>Article URL: <a href="https://www.os2museum.com/wp/os2-history/os2-warp-powerpc-edition/">https://www.os2museum.com/wp/os2-history/os2-warp-powerpc-edition/</a></p>
 <p>Comments URL: <a href="https:...*
   📅 Wed, 29 Oct 2025 23:52:09 +0000
 
-- **[Crunchyroll is destroying its subtitles for no good reason](https://daiz.moe/crunchyroll-is-destroying-its-subtitles-for-no-good-reason/)**
+- **[Crunchyroll is destroying its subtitles](https://daiz.moe/crunchyroll-is-destroying-its-subtitles-for-no-good-reason/)**
   *<p>Article URL: <a href="https://daiz.moe/crunchyroll-is-destroying-its-subtitles-for-no-good-reason/">https://daiz.moe/crunchyroll-is-destroying-its-subtitles-for-no-good-reason/</a></p>
 <p>Comments ...*
   📅 Wed, 29 Oct 2025 23:31:24 +0000
 
-- **[Raspberry Pi Pico Bit-Bangs 100 Mbit/S Ethernet](https://www.elektormagazine.com/news/rp2350-bit-bangs-100-mbit-ethernet)**
-  *<p>Article URL: <a href="https://www.elektormagazine.com/news/rp2350-bit-bangs-100-mbit-ethernet">https://www.elektormagazine.com/news/rp2350-bit-bangs-100-mbit-ethernet</a></p>
-<p>Comments URL: <a hr...*
-  📅 Wed, 29 Oct 2025 23:21:51 +0000
-
-- **[A century of reforestation helped keep the eastern US cool](https://news.agu.org/press-release/a-century-of-reforestation-helped-keep-the-eastern-us-cool/)**
-  *<p>Article URL: <a href="https://news.agu.org/press-release/a-century-of-reforestation-helped-keep-the-eastern-us-cool/">https://news.agu.org/press-release/a-century-of-reforestation-helped-keep-the-e...*
-  📅 Wed, 29 Oct 2025 23:17:02 +0000
-
-- **[Meta and TikTok are obstructing researchers' access to data, EU commission rules](https://www.science.org/content/article/meta-and-tiktok-are-obstructing-researchers-access-data-european-commission-rules)**
-  *<p>Article URL: <a href="https://www.science.org/content/article/meta-and-tiktok-are-obstructing-researchers-access-data-european-commission-rules">https://www.science.org/content/article/meta-and-tik...*
-  📅 Wed, 29 Oct 2025 22:54:53 +0000
-
-- **[Responses from LLMs are not facts](https://stopcitingai.com/)**
-  *<p>Article URL: <a href="https://stopcitingai.com/">https://stopcitingai.com/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=45753422">https://news.ycombinator.com/item?id=4575...*
-  📅 Wed, 29 Oct 2025 21:40:05 +0000
-
 ### 📑 TechCrunch
+
+- **[IntrCity SmartBus lands $30M at $140M valuation to deepen its grip on India’s intercity travel market](https://techcrunch.com/2025/10/29/intrcity-smartbus-lands-30m-at-140m-valuation-to-deepen-its-grip-on-indias-intercity-travel-market/)**
+  *IntrCity SmartBus grew revenue by 67% last year and is targeting full profitability this year, as intercity travel booms across India....*
+  📅 Thu, 30 Oct 2025 05:30:00 +0000
+
+- **[India’s Snabbit valuation doubled to $180M in 5 months on its quick house-help bet](https://techcrunch.com/2025/10/29/indias-snabbit-valuation-doubled-to-180m-in-5-months-on-its-quick-house-help-bet/)**
+  *Snabbit has raised its third funding round in nine months....*
+  📅 Thu, 30 Oct 2025 01:30:00 +0000
 
 - **[Cluely’s Roy Lee on the ragebait strategy for startup marketing](https://techcrunch.com/2025/10/29/cluelys-roy-lee-on-the-ragebait-strategy-for-startup-marketing/)**
   *Cluely's Roy Lee has a message for startup founders: you should be thinking harder about how to go viral....*
@@ -92,29 +101,16 @@
   *YouTube CEO Neal Mohan told employees about the program via an internal memo on Wednesday....*
   📅 Wed, 29 Oct 2025 23:28:39 +0000
 
-- **[And the winner of Startup Battlefield at Disrupt 2025 is: Glīd](https://techcrunch.com/2025/10/29/and-the-winner-of-startup-battlefield-at-disrupt-2025-is-glid/)**
-  *Glīd, which is trying to streamline cargo container logistics, has beaten out 199 other Startup Battlefield companies to take home $100,000....*
-  📅 Wed, 29 Oct 2025 23:15:39 +0000
-
-- **[Solana co-founder Anatoly Yakovenko is a big fan of agentic coding](https://techcrunch.com/2025/10/29/solana-co-founder-anatoly-yakovenko-is-a-big-fan-of-agentic-coding/)**
-  *Speaking at TechCrunch Disrupt, Yakovenko said he's become increasingly comfortable taking a back seat in software development tasks....*
-  📅 Wed, 29 Oct 2025 22:44:00 +0000
-
 ### 📑 Dev.to
 
-- **[The future of dev: more unified?](https://dev.to/devy/the-future-of-development-more-unified-5d2n)**
-  *<h2>
-  
-  
-  Fewer layers, more integrity
-</h2>
+- **[Jeff Su: The Productivity System I Taught to 6,642 Googlers](https://dev.to/future_ai/jeff-su-the-productivity-system-i-taught-to-6642-googlers-2308)**
+  *<p><strong>The Productivity System I Taught to 6,642 Googlers</strong><br /><br />
+Over nine years, Jeff Su distilled every bit of workplace info into a four-step CORE workflow—Capture, Organize, Revi...*
+  📅 Thu, 30 Oct 2025 06:05:40 +0000
 
-<p>Web development has become fragmented — endless frameworks, build tools, libraries, runtimes, and hosting options. Now the trend is reversing: full-...*
-  📅 Thu, 30 Oct 2025 00:42:05 +0000
-
-- **[Automate Resume Parsing with n8n, Thordata Universal API & OpenAI GPT-4.1-mini](https://dev.to/ranjancse/automate-resume-parsing-with-n8n-thordata-universal-api-openai-gpt-41-mini-eh5)**
-  *<p><a class="article-body-image-wrapper" href="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fupl...*
-  📅 Thu, 30 Oct 2025 00:33:48 +0000
+- **[Ringer Movies: ‘Halloween II’ With Bill Simmons, Chris Ryan, and Van Lathan](https://dev.to/popcorn_movies/ringer-movies-halloween-ii-with-bill-simmons-chris-ryan-and-van-lathan-2k9b)**
+  *<p>Bill Simmons, Chris Ryan, and Van Lathan reunite to rewatch 1981’s Halloween II, debating whether Michael Myers truly earns GOAT status, sharing their most rewatchable moments, and hashing out fun ...*
+  📅 Thu, 30 Oct 2025 06:00:37 +0000
 
 </details>
 
@@ -122,103 +118,103 @@
 
 ### 📈 Daily Trending
 
-- **[Marcos-Emanoel-dos-Santos/estudos_matematica](https://github.com/Marcos-Emanoel-dos-Santos/estudos_matematica)** ⭐ 4
-  ![None](https://img.shields.io/badge/-None-lightgrey)
-  None
+- **[diet103/claude-code-infrastructure-showcase](https://github.com/diet103/claude-code-infrastructure-showcase)** ⭐ 49
+  ![Shell](https://img.shields.io/badge/-Shell-lightgrey)
+  Examples of my Claude Code infrastructure with skill auto-activation, hooks, and agents
 
-- **[M4R5-PH0B05/lodestone](https://github.com/M4R5-PH0B05/lodestone)** ⭐ 1
-  ![Rust](https://img.shields.io/badge/-Rust-brown)
-  Lodestone is a GUI-based application that helps identify and manage client-side and server-side Minecraft mods through community-driven classification modules. Whether you're a server administrator cleaning up a modpack or a player organizing your mod collection, Lodestone streamlines the process of categorizing and managing your mods.
-
-- **[jose2501106-IA/Automatizacion-google-apps-script](https://github.com/jose2501106-IA/Automatizacion-google-apps-script)** ⭐ 1
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
-  Sistema autónomo para la gestión de registros de La Peregrinación Nacional Juvenil al Cerro del Cubilete, generación de pases con QR y envío de correos.
-
-- **[Alec-Apu/py](https://github.com/Alec-Apu/py)** ⭐ 1
+- **[xiamuceer-j/MuMuAINovel](https://github.com/xiamuceer-j/MuMuAINovel)** ⭐ 29
   ![Python](https://img.shields.io/badge/-Python-blue)
-  Python 自带的 GUI 库 tkinter让电脑屏幕上弹出一堆温馨小窗口
+  一款基于 AI 的智能小说创作助手，帮助你轻松创作精彩故事
 
-- **[useafterfree/custom-n8n-nodes](https://github.com/useafterfree/custom-n8n-nodes)** ⭐ 1
-  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
+- **[Yupsecous/powersub-demo-5568](https://github.com/Yupsecous/powersub-demo-5568)** ⭐ 22
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
   None
 
-- **[Olaxinn/chat](https://github.com/Olaxinn/chat)** ⭐ 1
-  ![CSS](https://img.shields.io/badge/-CSS-lightgrey)
+- **[Yupsecous/powersub-demo-7510](https://github.com/Yupsecous/powersub-demo-7510)** ⭐ 22
+  ![Java](https://img.shields.io/badge/-Java-orange)
   None
 
-- **[atlas402/atlas-mesh](https://github.com/atlas402/atlas-mesh)** ⭐ 1
-  ![Go](https://img.shields.io/badge/-Go-cyan)
-  register x402 services with Atlas
+- **[Yupsecous/powersub-demo-3316](https://github.com/Yupsecous/powersub-demo-3316)** ⭐ 22
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
+  None
 
-- **[Yuhc19/BI-project-for-Fresh-beats](https://github.com/Yuhc19/BI-project-for-Fresh-beats)** ⭐ 1
-  ![None](https://img.shields.io/badge/-None-lightgrey)
-  Marketing and demographics analytics
+- **[Yupsecous/powersub-demo-9232](https://github.com/Yupsecous/powersub-demo-9232)** ⭐ 22
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
+  None
+
+- **[Yupsecous/powersub-demo-1633](https://github.com/Yupsecous/powersub-demo-1633)** ⭐ 22
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
+  None
+
+- **[Yupsecous/powersub-demo-9239](https://github.com/Yupsecous/powersub-demo-9239)** ⭐ 22
+  ![HTML](https://img.shields.io/badge/-HTML-lightgrey)
+  None
 
 ### 📈 Weekly Trending
 
-- **[TimmyOVO/deepseek-ocr.rs](https://github.com/TimmyOVO/deepseek-ocr.rs)** ⭐ 1,407
+- **[TimmyOVO/deepseek-ocr.rs](https://github.com/TimmyOVO/deepseek-ocr.rs)** ⭐ 1,436
   ![Rust](https://img.shields.io/badge/-Rust-brown)
   Rust implementation of DeepSeek-OCR with OpenAI-compatible server & CLI No Python environment needed - just download and run.
 
-- **[tinkle-community/nofx](https://github.com/tinkle-community/nofx)** ⭐ 914
+- **[tinkle-community/nofx](https://github.com/tinkle-community/nofx)** ⭐ 1,255
   ![Go](https://img.shields.io/badge/-Go-cyan)
   Multi-exchange AI trading platform (Binance/Hyperliquid/Aster) with multi-AI competition(deepseek/qwen/claude), self-evolution, and real-time dashboard
 
-- **[MiniMax-AI/MiniMax-M2](https://github.com/MiniMax-AI/MiniMax-M2)** ⭐ 831
+- **[MiniMax-AI/MiniMax-M2](https://github.com/MiniMax-AI/MiniMax-M2)** ⭐ 853
   ![None](https://img.shields.io/badge/-None-lightgrey)
   MiniMax-M2, a Mini model built for Max coding & agentic workflows.
 
-- **[meituan-longcat/LongCat-Video](https://github.com/meituan-longcat/LongCat-Video)** ⭐ 777
+- **[meituan-longcat/LongCat-Video](https://github.com/meituan-longcat/LongCat-Video)** ⭐ 796
   ![Python](https://img.shields.io/badge/-Python-blue)
   None
 
-- **[rolflobker/recall-for-linux](https://github.com/rolflobker/recall-for-linux)** ⭐ 599
-  ![Shell](https://img.shields.io/badge/-Shell-lightgrey)
-  Bring Microsoft Recall to Linux!
-
-- **[Mr-sans-and-InitLoader-s-team/Escape-From-Duckov-Coop-Mod-Preview](https://github.com/Mr-sans-and-InitLoader-s-team/Escape-From-Duckov-Coop-Mod-Preview)** ⭐ 587
+- **[Mr-sans-and-InitLoader-s-team/Escape-From-Duckov-Coop-Mod-Preview](https://github.com/Mr-sans-and-InitLoader-s-team/Escape-From-Duckov-Coop-Mod-Preview)** ⭐ 643
   ![C#](https://img.shields.io/badge/-C#-lightgrey)
   None
 
-- **[terryso/nof1-tracker](https://github.com/terryso/nof1-tracker)** ⭐ 509
+- **[rolflobker/recall-for-linux](https://github.com/rolflobker/recall-for-linux)** ⭐ 601
+  ![Shell](https://img.shields.io/badge/-Shell-lightgrey)
+  Bring Microsoft Recall to Linux!
+
+- **[terryso/nof1-tracker](https://github.com/terryso/nof1-tracker)** ⭐ 532
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   A command-line tool for tracking nof1.ai AI Agent trading signals and automatically executing Binance futures trades
 
-- **[AnasMalas/pcb-edge-usb-c](https://github.com/AnasMalas/pcb-edge-usb-c)** ⭐ 465
+- **[AnasMalas/pcb-edge-usb-c](https://github.com/AnasMalas/pcb-edge-usb-c)** ⭐ 470
   ![None](https://img.shields.io/badge/-None-lightgrey)
   Use your PCB itself as a USB C connector! Including 10,14, and 24 Pin versions
 
 ### 📈 Monthly Trending
 
-- **[karpathy/nanochat](https://github.com/karpathy/nanochat)** ⭐ 34,266
+- **[karpathy/nanochat](https://github.com/karpathy/nanochat)** ⭐ 34,350
   ![Python](https://img.shields.io/badge/-Python-blue)
   The best ChatGPT that $100 can buy.
 
-- **[deepseek-ai/DeepSeek-OCR](https://github.com/deepseek-ai/DeepSeek-OCR)** ⭐ 18,538
+- **[deepseek-ai/DeepSeek-OCR](https://github.com/deepseek-ai/DeepSeek-OCR)** ⭐ 18,594
   ![Python](https://img.shields.io/badge/-Python-blue)
   Contexts Optical Compression
 
-- **[SamsungSAILMontreal/TinyRecursiveModels](https://github.com/SamsungSAILMontreal/TinyRecursiveModels)** ⭐ 5,283
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  None
-
-- **[obra/superpowers](https://github.com/obra/superpowers)** ⭐ 5,151
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
-  Claude Code superpowers: core skills library
-
-- **[HKUDS/AI-Trader](https://github.com/HKUDS/AI-Trader)** ⭐ 4,815
+- **[HKUDS/AI-Trader](https://github.com/HKUDS/AI-Trader)** ⭐ 5,380
   ![Python](https://img.shields.io/badge/-Python-blue)
   "AI-Trader: Can AI Beat the Market?" Live Trading: https://hkuds.github.io/AI-Trader/
 
-- **[johannschopplich/toon](https://github.com/johannschopplich/toon)** ⭐ 4,333
+- **[SamsungSAILMontreal/TinyRecursiveModels](https://github.com/SamsungSAILMontreal/TinyRecursiveModels)** ⭐ 5,292
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  None
+
+- **[obra/superpowers](https://github.com/obra/superpowers)** ⭐ 5,175
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
+  Claude Code superpowers: core skills library
+
+- **[johannschopplich/toon](https://github.com/johannschopplich/toon)** ⭐ 4,588
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   🎒 Token-Oriented Object Notation – JSON for LLMs at half the token cost
 
-- **[neuphonic/neutts-air](https://github.com/neuphonic/neutts-air)** ⭐ 3,727
+- **[neuphonic/neutts-air](https://github.com/neuphonic/neutts-air)** ⭐ 3,729
   ![Python](https://img.shields.io/badge/-Python-blue)
   On-device TTS model by Neuphonic
 
-- **[yusufkaraaslan/Skill_Seekers](https://github.com/yusufkaraaslan/Skill_Seekers)** ⭐ 2,810
+- **[yusufkaraaslan/Skill_Seekers](https://github.com/yusufkaraaslan/Skill_Seekers)** ⭐ 2,847
   ![Python](https://img.shields.io/badge/-Python-blue)
   Convert documentation websites, GitHub repositories, and PDFs into Claude AI skills with automatic conflict detection
 
@@ -226,6 +222,140 @@
 
 <details>
 <summary>Click to expand latest releases</summary>
+
+### 📦 microsoft/vscode
+
+**[September 2025 Recovery 1](https://github.com/microsoft/vscode/releases/tag/1.105.1)** `1.105.1`
+
+📅 Released: October 15, 2025
+
+The update addresses these [issues](https://github.com/Microsoft/vscode/issues?q=is%3Aissue+milestone%3A%22September+2025+Recovery+1%22+is%3Aclosed+).
+
+For the complete release notes go to [Updates]...
+
+---
+
+### 📦 facebook/react
+
+**[19.2.0 (Oct 1, 2025)](https://github.com/facebook/react/releases/tag/v19.2.0)** `v19.2.0`
+
+📅 Released: October 01, 2025
+
+Below is a list of all new features, APIs, and bug fixes.
+
+Read the [React 19.2 release post](https://react.dev/blog/2025/10/01/react-19-2) for more information.
+
+## New React Features
+
+- [`<Act...
+
+---
+
+### 📦 angular/angular
+
+**[20.3.9](https://github.com/angular/angular/releases/tag/20.3.9)** `20.3.9`
+
+📅 Released: October 29, 2025
+
+---
+
+### 📦 vuejs/vue
+
+**[v2.7.16 "Swan Song"](https://github.com/vuejs/vue/releases/tag/v2.7.16)** `v2.7.16`
+
+📅 Released: December 24, 2023
+
+**This is the final release for Vue 2.**
+
+Vue 2 will reach End of Life on December 31st, 2023. For more details, please read this [blog post](https://blog.vuejs.org/posts/vue-2-eol).
+
+Please refer...
+
+---
+
+### 📦 tensorflow/tensorflow
+
+**[TensorFlow 2.20.0](https://github.com/tensorflow/tensorflow/releases/tag/v2.20.0)** `v2.20.0`
+
+📅 Released: August 13, 2025
+
+# Release 2.20.0
+
+## TensorFlow
+
+### Breaking Changes
+
+* The `tensorflow-io-gcs-filesystem` package is now optional, due its uncertain, and limited support. To install it alongside `tensorflow`,...
+
+---
+
+### 📦 pytorch/pytorch
+
+**[2.9 Release Notes](https://github.com/pytorch/pytorch/releases/tag/v2.9.0)** `v2.9.0`
+
+📅 Released: October 15, 2025
+
+# PyTorch 2.9.0 Release Notes
+- [Highlights](#highlights)
+- [Backwards Incompatible Changes](#backwards-incompatible-changes)
+- [Deprecations](#deprecations)
+- [New Features](#new-features)
+- [Im...
+
+---
+
+### 📦 kubernetes/kubernetes
+
+**[Kubernetes v1.34.1](https://github.com/kubernetes/kubernetes/releases/tag/v1.34.1)** `v1.34.1`
+
+📅 Released: September 10, 2025
+
+
+See [kubernetes-announce@](https://groups.google.com/forum/#!forum/kubernetes-announce). Additional binary downloads are linked in the [CHANGELOG](https://github.com/kubernetes/kubernetes/blob/master...
+
+---
+
+### 📦 docker/compose
+
+**[v2.40.2](https://github.com/docker/compose/releases/tag/v2.40.2)** `v2.40.2`
+
+📅 Released: October 22, 2025
+
+## What's Changed
+### 🐛 Fixes
+* Compose can't create a tar with adequate uid:gid ownership by @ndeloof in https://github.com/docker/compose/pull/13299
+* Test digest or canonical reference, not only...
+
+---
+
+### 📦 nodejs/node
+
+**[2025-10-28, Version 25.1.0 (Current), @aduh95](https://github.com/nodejs/node/releases/tag/v25.1.0)** `v25.1.0`
+
+📅 Released: October 28, 2025
+
+
+
+
+### Notable Changes
+
+* \[[`4395fe14b9`](https://github.com/nodejs/node/commit/4395fe14b9)] - **(SEMVER-MINOR)** **http**: add optimizeEmptyRequests server option (Rafael Gonzaga) [#59778](https://g...
+
+---
+
+### 📦 rust-lang/rust
+
+**[Rust 1.90.0](https://github.com/rust-lang/rust/releases/tag/1.90.0)** `1.90.0`
+
+📅 Released: September 18, 2025
+
+<a id="1.90-Language"></a>
+
+## Language
+
+- [Split up the `unknown_or_malformed_diagnostic_attributes` lint](https://github.com/rust-lang/rust/pull/140717). This lint has been split up into four finer-...
+
+---
 
 </details>
 
@@ -352,59 +482,59 @@
 
 | Skill | Status |
 |-------|--------|
-| Java | 🟡 Learning |
-| Python | 🔴 Beginner |
-| JavaScript | 🟢 Proficient |
-| TypeScript | 🔴 Beginner |
-| Go | 🔴 Beginner |
+| Java | ⚪ Planned |
+| Python | 🟡 Learning |
+| JavaScript | ⚪ Planned |
+| TypeScript | 🟢 Proficient |
+| Go | 🟢 Proficient |
 
 ### Frameworks
 
 | Skill | Status |
 |-------|--------|
 | React | 🔴 Beginner |
-| Spring Boot | 🔴 Beginner |
-| Django | 🟢 Proficient |
-| Node.js | ⚪ Planned |
+| Spring Boot | ⚪ Planned |
+| Django | 🟡 Learning |
+| Node.js | 🔴 Beginner |
 | Next.js | 🔴 Beginner |
 
 ### Cybersecurity
 
 | Skill | Status |
 |-------|--------|
-| Penetration Testing | 🟢 Proficient |
-| Web Security | ⚪ Planned |
-| Network Security | 🟡 Learning |
-| OWASP | 🔴 Beginner |
+| Penetration Testing | 🔴 Beginner |
+| Web Security | 🔴 Beginner |
+| Network Security | 🔴 Beginner |
+| OWASP | 🟡 Learning |
 
 ### Ai Ml
 
 | Skill | Status |
 |-------|--------|
-| Machine Learning | ⚪ Planned |
-| Deep Learning | ⚪ Planned |
-| NLP | 🔴 Beginner |
-| Computer Vision | 🟢 Proficient |
+| Machine Learning | 🔴 Beginner |
+| Deep Learning | 🟢 Proficient |
+| NLP | ⚪ Planned |
+| Computer Vision | 🟡 Learning |
 | TensorFlow | 🟡 Learning |
-| PyTorch | 🟡 Learning |
+| PyTorch | 🟢 Proficient |
 
 ### Devops
 
 | Skill | Status |
 |-------|--------|
-| Docker | 🟢 Proficient |
-| Kubernetes | ⚪ Planned |
-| CI/CD | 🔴 Beginner |
-| AWS | ⚪ Planned |
-| Azure | 🟢 Proficient |
+| Docker | 🔴 Beginner |
+| Kubernetes | 🟢 Proficient |
+| CI/CD | 🟢 Proficient |
+| AWS | 🟢 Proficient |
+| Azure | 🟡 Learning |
 
 ### Other
 
 | Skill | Status |
 |-------|--------|
-| Blockchain | 🟢 Proficient |
-| Web3 | 🔴 Beginner |
-| Cloud Computing | 🟢 Proficient |
+| Blockchain | ⚪ Planned |
+| Web3 | 🟡 Learning |
+| Cloud Computing | 🔴 Beginner |
 
 </details>
 
