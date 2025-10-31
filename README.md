@@ -7,7 +7,7 @@
 ![AI & ML](https://img.shields.io/badge/-AI%20&%20ML-blue) ![CyberSecurity](https://img.shields.io/badge/-CyberSecurity-red) ![Full Stack Development](https://img.shields.io/badge/-Full%20Stack%20Development-green)
 
 [![Auto Update](https://img.shields.io/badge/Auto%20Update-Enabled-success)](https://github.com/yourusername/tech-dashboard/actions)
-[![Last Updated](https://img.shields.io/badge/Last%20Updated-October 30, 2025-blue)](https://github.com/yourusername/tech-dashboard)
+[![Last Updated](https://img.shields.io/badge/Last%20Updated-October 31, 2025-blue)](https://github.com/yourusername/tech-dashboard)
 
 *Automatically updated every 6 hours with the latest tech news, trending repositories, and learning resources.*
 
@@ -20,7 +20,7 @@
 | Metric | Count |
 |--------|-------|
 | 📰 Latest News Articles | 26 |
-| 🔥 Trending Repositories | 0 |
+| 🔥 Trending Repositories | 45 |
 | 🎯 Latest Releases | 10 |
 | 🎯 Learning Goals | 4 |
 
@@ -46,36 +46,47 @@
 
 ### 📑 Hacker News
 
-- **[Some People Can't See Mental Images. The Consequences Are Profound](https://www.newyorker.com/magazine/2025/11/03/some-people-cant-see-mental-images-the-consequences-are-profound)**
-  *<p>Article URL: <a href="https://www.newyorker.com/magazine/2025/11/03/some-people-cant-see-mental-images-the-consequences-are-profound">https://www.newyorker.com/magazine/2025/11/03/some-people-cant-...*
-  📅 Thu, 30 Oct 2025 17:45:53 +0000
+- **[A change of address led to our Wise accounts being shut down](https://shaun.nz/why-were-never-using-wise-again-a-cautionary-tale-from-a-business-burned/)**
+  *<p><a href="https://web.archive.org/web/20251030232647/https://shaun.nz/why-were-never-using-wise-again-a-cautionary-tale-from-a-business-burned/" rel="nofollow">https://web.archive.org/web/2025103023...*
+  📅 Thu, 30 Oct 2025 22:41:50 +0000
 
-- **[The ear does not do a Fourier transform](https://www.dissonances.blog/p/the-ear-does-not-do-a-fourier-transform)**
+- **[Phone numbers for use in TV shows, films and creative works](https://www.acma.gov.au/phone-numbers-use-tv-shows-films-and-creative-works)**
+  *<p>Article URL: <a href="https://www.acma.gov.au/phone-numbers-use-tv-shows-films-and-creative-works">https://www.acma.gov.au/phone-numbers-use-tv-shows-films-and-creative-works</a></p>
+<p>Comments UR...*
+  📅 Thu, 30 Oct 2025 21:49:11 +0000
+
+- **[Denmark reportedly withdraws Chat Control proposal following controversy](https://therecord.media/demark-reportedly-withdraws-chat-control-proposal)**
+  *<p>Article URL: <a href="https://therecord.media/demark-reportedly-withdraws-chat-control-proposal">https://therecord.media/demark-reportedly-withdraws-chat-control-proposal</a></p>
+<p>Comments URL: <...*
+  📅 Thu, 30 Oct 2025 21:35:42 +0000
+
+- **[Show HN: ekoAcademic – Convert ArXiv papers to interactive podcasts](https://www.wadamczyk.io/projects/ekoacademic/index.html)**
+  *<p>Article URL: <a href="https://www.wadamczyk.io/projects/ekoacademic/index.html">https://www.wadamczyk.io/projects/ekoacademic/index.html</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.c...*
+  📅 Thu, 30 Oct 2025 21:03:46 +0000
+
+- **[Minecraft HDL, an HDL for Redstone](https://github.com/itsfrank/MinecraftHDL)**
+  *<p>Article URL: <a href="https://github.com/itsfrank/MinecraftHDL">https://github.com/itsfrank/MinecraftHDL</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=45763877">https://new...*
+  📅 Thu, 30 Oct 2025 18:59:02 +0000
+
+- **[The ear does not do a Fourier transform (2024)](https://www.dissonances.blog/p/the-ear-does-not-do-a-fourier-transform)**
   *<p>Article URL: <a href="https://www.dissonances.blog/p/the-ear-does-not-do-a-fourier-transform">https://www.dissonances.blog/p/the-ear-does-not-do-a-fourier-transform</a></p>
 <p>Comments URL: <a href...*
   📅 Thu, 30 Oct 2025 17:01:20 +0000
 
-- **[Moderna, the company that helped save the world, has unraveled](https://www.statnews.com/2025/10/30/moderna-rise-fall-biotech-analysis-from-pandemic-rise-to-mrna-crash/)**
-  *<p>Article URL: <a href="https://www.statnews.com/2025/10/30/moderna-rise-fall-biotech-analysis-from-pandemic-rise-to-mrna-crash/">https://www.statnews.com/2025/10/30/moderna-rise-fall-biotech-analysi...*
-  📅 Thu, 30 Oct 2025 16:50:19 +0000
-
-- **[Launch HN: Propolis (YC X25) – Browser agents that QA your web app autonomously](https://app.propolis.tech/#/launch)**
-  *<p>Hi HN, we're Marc and Matt, and we're building Propolis (app.propolis.tech/#/launch). We use browser agents to simulate users in order to report bugs and write e2e tests. Today, you can launch 10s-...*
-  📅 Thu, 30 Oct 2025 16:40:02 +0000
-
-- **[Falling panel prices lead to global solar boom, except for the US](https://arstechnica.com/science/2025/10/theres-a-global-boom-in-solar-except-in-the-united-states/)**
-  *<p>Article URL: <a href="https://arstechnica.com/science/2025/10/theres-a-global-boom-in-solar-except-in-the-united-states/">https://arstechnica.com/science/2025/10/theres-a-global-boom-in-solar-excep...*
-  📅 Thu, 30 Oct 2025 16:32:22 +0000
-
-- **[Qt Creator 18 Released](https://www.qt.io/blog/qt-creator-18-released)**
-  *<p>Article URL: <a href="https://www.qt.io/blog/qt-creator-18-released">https://www.qt.io/blog/qt-creator-18-released</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=45761789">h...*
-  📅 Thu, 30 Oct 2025 16:23:56 +0000
-
 ### 📑 TechCrunch
 
+- **[Navan IPO tumbles 20% after historic debut under SEC shutdown workaround](https://techcrunch.com/2025/10/30/navan-ipo-tumbles-20-after-historic-debut-under-sec-shutdown-workaround/)**
+  *Navan finished its first day trading at an approximate valuation of $4.7 billion, which is about half of its last private valuation of $9.2 billion....*
+  📅 Thu, 30 Oct 2025 21:41:40 +0000
+
+- **[Nvidia is reportedly investing up to $1B in Poolside](https://techcrunch.com/2025/10/30/nvidia-is-reportedly-investing-up-to-1-billion-in-poolside/)**
+  *Nvidia is an existing investor in the AI company and participated in its $500 million Series A round in 2024....*
+  📅 Thu, 30 Oct 2025 21:10:17 +0000
+
 - **[Canva launches its own design model, adds new AI features to the platform](https://techcrunch.com/2025/10/30/canva-launches-its-own-design-model-adds-new-ai-features-to-the-platform/)**
-  *Canva is launching new features like Forms, email design, and makes Affinity free for all users....*
+  *Canva is launching new features like Forms and email design, and it makes Affinity free for all users....*
   📅 Thu, 30 Oct 2025 17:00:00 +0000
 
 - **[Bevel raises $10M Series A from General Catalyst for its AI health companion](https://techcrunch.com/2025/10/30/bevel-raises-10m-series-a-from-general-catalyst-for-its-ai-health-companion/)**
@@ -90,33 +101,121 @@
   *U.S. tech giants increasingly view India as the next big frontier — a place to gather diverse data, refine models, and test AI use cases that could later scale across other emerging markets....*
   📅 Thu, 30 Oct 2025 14:06:19 +0000
 
-- **[Figma acquires AI-powered media generation company Weavy](https://techcrunch.com/2025/10/30/figma-acquires-ai-powered-media-generation-company-weavy/)**
-  *Figma said that Weavy will exist as a stand-alone product for now and that, in the future, it will be integrated with the Figma Weave brand, along with the rest of the Figma platform....*
-  📅 Thu, 30 Oct 2025 13:15:00 +0000
-
-- **[The Prompting Company snags $6.5M to help products get mentioned in ChatGPT and other AI apps](https://techcrunch.com/2025/10/30/the-prompting-company-snags-6-5m-to-help-products-get-mentioned-in-chatgpt-and-other-ai-apps/)**
-  *Retailers could see up to a 520% increase in traffic from chatbots and AI prompts in 2025 compared to 2024, according to the report. For brands, that means figuring out how to show up in AI-generated ...*
-  📅 Thu, 30 Oct 2025 13:10:00 +0000
-
 ### 📑 Dev.to
 
-- **[Are Local Virginia Transporters More Reliable Than National Carriers for NJ Delivery?](https://dev.to/autostartransportexpress/are-local-virginia-transporters-more-reliable-than-national-carriers-for-nj-delivery-32g8)**
-  *<p>When shipping goods from Virginia to New Jersey, businesses and individuals face an important decision: should they choose a local Virginia transporter or rely on a national carrier? Both options h...*
-  📅 Thu, 30 Oct 2025 18:09:24 +0000
+- **[Tool as Prompt: From LLM-First Docs to Teaching LLMs Domain Knowledge On The Fly](https://dev.to/francesco_marconi_282058b/from-llm-first-docs-to-teaching-llms-domain-knowledge-on-the-fly-5dma)**
+  *<p>The integration of Large Language Models (LLMs) into software systems presents a fundamental challenge: reconciling their non-deterministic nature with the engineering requirement for predictable a...*
+  📅 Fri, 31 Oct 2025 00:45:29 +0000
 
-- **[No Laying Up Podcast: The Booth Vol.23 | Trap Draw, Ep 365](https://dev.to/youtube_golf/no-laying-up-podcast-the-booth-vol23-trap-draw-ep-365-2md4)**
-  *<h1>
-  
-  
-  The Booth Vol.23 | Trap Draw, Ep 365
-</h1>
-
-<p>Cody and Neil are back with mea culpas of their own and asking listeners to fess up too. They chat about Neil’s recent move to the ‘burbs, d...*
-  📅 Thu, 30 Oct 2025 18:07:37 +0000
+- **[Stop Doing Business Logic in Webhook Endpoints. I Don't Care What Your Lead Engineer Says.](https://dev.to/elvissautet/stop-doing-business-logic-in-webhook-endpoints-i-dont-care-what-your-lead-engineer-says-8o0)**
+  *<p>Yesterday at 1pm I'm on a call with a payment provider's tech team. We're integrating their IPN (Instant Payment Notification) system. The call should've been 15 minutes. It turned into a 2-hour ar...*
+  📅 Fri, 31 Oct 2025 00:22:07 +0000
 
 </details>
 
 ## 🔥 Trending Repositories
+
+### 📈 Daily Trending
+
+- **[Lokendra-singh14/Discord-RAT-2.0](https://github.com/Lokendra-singh14/Discord-RAT-2.0)** ⭐ 64
+  ![C#](https://img.shields.io/badge/-C#-lightgrey)
+  Game enhancement tool
+
+- **[haobo168/Sta-Helper](https://github.com/haobo168/Sta-Helper)** ⭐ 2
+  ![Swift](https://img.shields.io/badge/-Swift-lightgrey)
+  Statistics ios calculator
+
+- **[brightlikethelight/HUSAI](https://github.com/brightlikethelight/HUSAI)** ⭐ 1
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  Hunting for Stable AI Features: Investigating SAE feature stability across random seeds
+
+- **[spotzee-marketing/email-proxy-mailwizz-extension](https://github.com/spotzee-marketing/email-proxy-mailwizz-extension)** ⭐ 1
+  ![PHP](https://img.shields.io/badge/-PHP-lightgrey)
+  Smart email delivery that routes through multiple providers automatically. 100% email deliverability through reliable queueing. Pay only $0.00007 per email ($0.07 per 1,000 emails) with no monthly fees.
+
+- **[casjohns13/8_Analyzing_Electric_Vehicle_Charging_Habits_SQL](https://github.com/casjohns13/8_Analyzing_Electric_Vehicle_Charging_Habits_SQL)** ⭐ 1
+  ![Jupyter Notebook](https://img.shields.io/badge/-Jupyter Notebook-lightgrey)
+  None
+
+- **[ariezmeoww/vortexi-src](https://github.com/ariezmeoww/vortexi-src)** ⭐ 1
+  ![None](https://img.shields.io/badge/-None-lightgrey)
+  None
+
+- **[banumariwan/21_restaurant_manager_advanced](https://github.com/banumariwan/21_restaurant_manager_advanced)** ⭐ 1
+  ![HTML](https://img.shields.io/badge/-HTML-lightgrey)
+  A Django-based restaurant management system with dashboard, authentication, and full CRUD operations for tables, menu items, and orders — built using Bootstrap and Django ORM.
+
+- **[marcosaribeiros/BIM](https://github.com/marcosaribeiros/BIM)** ⭐ 1
+  ![None](https://img.shields.io/badge/-None-lightgrey)
+  BIM
+
+### 📈 Weekly Trending
+
+- **[tinkle-community/nofx](https://github.com/tinkle-community/nofx)** ⭐ 2,045
+  ![Go](https://img.shields.io/badge/-Go-cyan)
+  Multi-exchange AI trading platform (Binance/Hyperliquid/Aster) with multi-AI competition(deepseek/qwen/claude), self-evolution, and real-time dashboard
+
+- **[TimmyOVO/deepseek-ocr.rs](https://github.com/TimmyOVO/deepseek-ocr.rs)** ⭐ 1,502
+  ![Rust](https://img.shields.io/badge/-Rust-brown)
+  Rust implementation of DeepSeek-OCR with OpenAI-compatible server & CLI No Python environment needed - just download and run.
+
+- **[MiniMax-AI/MiniMax-M2](https://github.com/MiniMax-AI/MiniMax-M2)** ⭐ 939
+  ![None](https://img.shields.io/badge/-None-lightgrey)
+  MiniMax-M2, a model built for Max coding & agentic workflows.
+
+- **[meituan-longcat/LongCat-Video](https://github.com/meituan-longcat/LongCat-Video)** ⭐ 816
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  None
+
+- **[Mr-sans-and-InitLoader-s-team/Escape-From-Duckov-Coop-Mod-Preview](https://github.com/Mr-sans-and-InitLoader-s-team/Escape-From-Duckov-Coop-Mod-Preview)** ⭐ 743
+  ![C#](https://img.shields.io/badge/-C#-lightgrey)
+  None
+
+- **[diet103/claude-code-infrastructure-showcase](https://github.com/diet103/claude-code-infrastructure-showcase)** ⭐ 651
+  ![Shell](https://img.shields.io/badge/-Shell-lightgrey)
+  Examples of my Claude Code infrastructure with skill auto-activation, hooks, and agents
+
+- **[rolflobker/recall-for-linux](https://github.com/rolflobker/recall-for-linux)** ⭐ 616
+  ![Shell](https://img.shields.io/badge/-Shell-lightgrey)
+  Bring Microsoft Recall to Linux!
+
+- **[baaivision/Emu3.5](https://github.com/baaivision/Emu3.5)** ⭐ 518
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  Native Multimodal Models are World Learners
+
+### 📈 Monthly Trending
+
+- **[karpathy/nanochat](https://github.com/karpathy/nanochat)** ⭐ 34,563
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  The best ChatGPT that $100 can buy.
+
+- **[deepseek-ai/DeepSeek-OCR](https://github.com/deepseek-ai/DeepSeek-OCR)** ⭐ 18,735
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  Contexts Optical Compression
+
+- **[HKUDS/AI-Trader](https://github.com/HKUDS/AI-Trader)** ⭐ 7,073
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  "AI-Trader: Can AI Beat the Market?" Live Trading: https://hkuds.github.io/AI-Trader/
+
+- **[johannschopplich/toon](https://github.com/johannschopplich/toon)** ⭐ 5,751
+  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
+  🎒 Token-Oriented Object Notation – JSON for LLMs at half the token cost
+
+- **[obra/superpowers](https://github.com/obra/superpowers)** ⭐ 5,308
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
+  Claude Code superpowers: core skills library
+
+- **[SamsungSAILMontreal/TinyRecursiveModels](https://github.com/SamsungSAILMontreal/TinyRecursiveModels)** ⭐ 5,307
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  None
+
+- **[neuphonic/neutts-air](https://github.com/neuphonic/neutts-air)** ⭐ 3,743
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  On-device TTS model by Neuphonic
+
+- **[yusufkaraaslan/Skill_Seekers](https://github.com/yusufkaraaslan/Skill_Seekers)** ⭐ 2,925
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  Convert documentation websites, GitHub repositories, and PDFs into Claude AI skills with automatic conflict detection
 
 ## 🚀 Latest Releases
 
@@ -245,15 +344,16 @@ See [kubernetes-announce@](https://groups.google.com/forum/#!forum/kubernetes-an
 
 ### 📦 rust-lang/rust
 
-**[Rust 1.90.0](https://github.com/rust-lang/rust/releases/tag/1.90.0)** `1.90.0`
+**[Rust 1.91.0](https://github.com/rust-lang/rust/releases/tag/1.91.0)** `1.91.0`
 
-📅 Released: September 18, 2025
+📅 Released: October 30, 2025
 
-<a id="1.90-Language"></a>
+<a id="1.91.0-Language"></a>
 
 ## Language
 
-- [Split up the `unknown_or_malformed_diagnostic_attributes` lint](https://github.com/rust-lang/rust/pull/140717). This lint has been split up into four finer-...
+- [Lower pattern bindings in the order they're written and base drop order on primary bindings' order](https://github.com/rust-lang/rust/pull/143764)
+- [Stab...
 
 ---
 
@@ -382,19 +482,19 @@ See [kubernetes-announce@](https://groups.google.com/forum/#!forum/kubernetes-an
 
 | Skill | Status |
 |-------|--------|
-| Java | 🟢 Proficient |
+| Java | 🔴 Beginner |
 | Python | 🟢 Proficient |
 | JavaScript | 🔴 Beginner |
-| TypeScript | 🔴 Beginner |
-| Go | 🟡 Learning |
+| TypeScript | 🟢 Proficient |
+| Go | 🔴 Beginner |
 
 ### Frameworks
 
 | Skill | Status |
 |-------|--------|
-| React | 🔴 Beginner |
-| Spring Boot | ⚪ Planned |
-| Django | 🟡 Learning |
+| React | 🟡 Learning |
+| Spring Boot | 🔴 Beginner |
+| Django | 🔴 Beginner |
 | Node.js | ⚪ Planned |
 | Next.js | 🟢 Proficient |
 
@@ -403,8 +503,8 @@ See [kubernetes-announce@](https://groups.google.com/forum/#!forum/kubernetes-an
 | Skill | Status |
 |-------|--------|
 | Penetration Testing | 🟡 Learning |
-| Web Security | 🟢 Proficient |
-| Network Security | 🟢 Proficient |
+| Web Security | ⚪ Planned |
+| Network Security | ⚪ Planned |
 | OWASP | 🟢 Proficient |
 
 ### Ai Ml
@@ -412,29 +512,29 @@ See [kubernetes-announce@](https://groups.google.com/forum/#!forum/kubernetes-an
 | Skill | Status |
 |-------|--------|
 | Machine Learning | 🔴 Beginner |
-| Deep Learning | 🔴 Beginner |
+| Deep Learning | ⚪ Planned |
 | NLP | 🟢 Proficient |
-| Computer Vision | ⚪ Planned |
+| Computer Vision | 🟡 Learning |
 | TensorFlow | 🟢 Proficient |
-| PyTorch | 🔴 Beginner |
+| PyTorch | 🟢 Proficient |
 
 ### Devops
 
 | Skill | Status |
 |-------|--------|
-| Docker | 🔴 Beginner |
+| Docker | ⚪ Planned |
 | Kubernetes | ⚪ Planned |
-| CI/CD | ⚪ Planned |
-| AWS | 🔴 Beginner |
-| Azure | 🟢 Proficient |
+| CI/CD | 🔴 Beginner |
+| AWS | 🟢 Proficient |
+| Azure | 🔴 Beginner |
 
 ### Other
 
 | Skill | Status |
 |-------|--------|
-| Blockchain | 🟡 Learning |
-| Web3 | 🔴 Beginner |
-| Cloud Computing | 🟢 Proficient |
+| Blockchain | 🔴 Beginner |
+| Web3 | 🟡 Learning |
+| Cloud Computing | 🟡 Learning |
 
 </details>
 
@@ -452,7 +552,7 @@ This dashboard is automatically updated every 6 hours using GitHub Actions. The 
 
 <div align="center">
 
-**Last Updated:** October 30, 2025
+**Last Updated:** October 31, 2025
 
 Made with ❤️ and automated with GitHub Actions
 
