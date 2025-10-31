@@ -46,18 +46,24 @@
 
 ### 📑 Hacker News
 
-- **[ANTML: Anthropic’s Markup Language](https://karashiiro.leaflet.pub/3m4gf7geefs2l)**
-  *<p>Article URL: <a href="https://karashiiro.leaflet.pub/3m4gf7geefs2l">https://karashiiro.leaflet.pub/3m4gf7geefs2l</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=45768482">htt...*
-  📅 Fri, 31 Oct 2025 04:37:42 +0000
+- **[After delays, Egypt set for lavish opening of grand museum](https://phys.org/news/2025-10-delays-egypt-lavish-grand-museum.html)**
+  *<p>Article URL: <a href="https://phys.org/news/2025-10-delays-egypt-lavish-grand-museum.html">https://phys.org/news/2025-10-delays-egypt-lavish-grand-museum.html</a></p>
+<p>Comments URL: <a href="http...*
+  📅 Fri, 31 Oct 2025 11:41:25 +0000
+
+- **[Reasoning Models Reason Well, Until They Don't](https://arxiv.org/abs/2510.22371)**
+  *<p>Article URL: <a href="https://arxiv.org/abs/2510.22371">https://arxiv.org/abs/2510.22371</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=45769971">https://news.ycombinator.co...*
+  📅 Fri, 31 Oct 2025 09:23:41 +0000
 
 - **[AMD Could Enter ARM Market with Sound Wave APU Built on TSMC 3nm Process](https://www.guru3d.com/story/amd-enters-arm-market-with-sound-wave-apu-built-on-tsmc-3nm-process/)**
   *<p>Article URL: <a href="https://www.guru3d.com/story/amd-enters-arm-market-with-sound-wave-apu-built-on-tsmc-3nm-process/">https://www.guru3d.com/story/amd-enters-arm-market-with-sound-wave-apu-built...*
   📅 Fri, 31 Oct 2025 03:07:48 +0000
 
-- **[ICE and the Smartphone Panopticon](https://www.newyorker.com/culture/infinite-scroll/ice-and-the-smartphone-panopticon)**
-  *<p>Article URL: <a href="https://www.newyorker.com/culture/infinite-scroll/ice-and-the-smartphone-panopticon">https://www.newyorker.com/culture/infinite-scroll/ice-and-the-smartphone-panopticon</a></p...*
-  📅 Fri, 31 Oct 2025 01:13:56 +0000
+- **[John Carmack on mutable variables](https://twitter.com/id_aa_carmack/status/1983593511703474196)**
+  *<p>Article URL: <a href="https://twitter.com/id_aa_carmack/status/1983593511703474196">https://twitter.com/id_aa_carmack/status/1983593511703474196</a></p>
+<p>Comments URL: <a href="https://news.ycomb...*
+  📅 Fri, 31 Oct 2025 02:34:36 +0000
 
 - **[Roadmap for Improving the Type Checker](https://forums.swift.org/t/roadmap-for-improving-the-type-checker/82952)**
   *<p>Article URL: <a href="https://forums.swift.org/t/roadmap-for-improving-the-type-checker/82952">https://forums.swift.org/t/roadmap-for-improving-the-type-checker/82952</a></p>
@@ -69,14 +75,9 @@
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=45767162">https...*
   📅 Fri, 31 Oct 2025 00:43:57 +0000
 
-- **[Kimi Linear: An Expressive, Efficient Attention Architecture](https://github.com/MoonshotAI/Kimi-Linear)**
-  *<p>Article URL: <a href="https://github.com/MoonshotAI/Kimi-Linear">https://github.com/MoonshotAI/Kimi-Linear</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=45766937">https://n...*
-  📅 Fri, 31 Oct 2025 00:07:36 +0000
-
 ### 📑 TechCrunch
 
-- **[Scenes from TechCrunch Disrupt](https://techcrunch.com/2025/10/30/scenes-from-techcrunch-disrupt/)**
+- **[Scenes from TechCrunch Disrupt 2025](https://techcrunch.com/2025/10/30/scenes-from-techcrunch-disrupt/)**
   *Thanks to everyone who made this year's San Francisco event what it was -- and to the 10,000 of you who filled the halls, made the connections, and left with more than you came with. Couldn't make it?...*
   📅 Fri, 31 Oct 2025 04:02:33 +0000
 
@@ -102,15 +103,13 @@
 
 ### 📑 Dev.to
 
-- **[The 90-Minute Sprint Model: How Deep Work Cycles Transform Developer Output](https://dev.to/teamcamp/the-90-minute-sprint-model-how-deep-work-cycles-transform-developer-output-43f1)**
-  *<p>You are 45 minutes into debugging a complex microservices issue. Your mental model of the system is finally clear. Then Slack pings. Your flow state collapses instantly.</p>
+- **[Worker Pools in Go: The Minimal Pattern I Use for High-Efficiency Concurrency](https://dev.to/evgeny_pantela/worker-pools-in-go-the-minimal-pattern-i-use-for-high-efficiency-concurrency-ein)**
+  *<p><a class="article-body-image-wrapper" href="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fupl...*
+  📅 Fri, 31 Oct 2025 12:20:43 +0000
 
-<p>This scenario repea...*
-  📅 Fri, 31 Oct 2025 06:09:52 +0000
-
-- **[Rick Shiels Golf: Our Best Golf Challenge EVER](https://dev.to/youtube_golf/rick-shiels-golf-our-best-golf-challenge-ever-47bm)**
-  *<p><strong>Our Best Golf Challenge EVER</strong> pits Rick Shiels, James Robinson &amp; Guy Charnock on an 18-hole mission to break 75—with a savage twist: before every hole, one of them pulls a YELLO...*
-  📅 Fri, 31 Oct 2025 06:05:41 +0000
+- **[A Dashboard About Scammers, Telemarketers, My Cellphone, and Who Annoys Me Most](https://dev.to/caldas/a-dashboard-about-scammers-telemarketers-my-cellphone-and-who-annoys-me-most-2dml)**
+  *<p>Not sure how things go in other countries, but here in Brazil, dodging unwanted calls has become a national sport — if only there were medals for it. Every day, we’re bombarded by scammers, telemar...*
+  📅 Fri, 31 Oct 2025 12:17:24 +0000
 
 </details>
 
@@ -126,95 +125,95 @@
   ![Python](https://img.shields.io/badge/-Python-blue)
   🐲 Powerfull Discord Token Stealer made in python
 
+- **[patrickomp/Taunahi-Minecraft](https://github.com/patrickomp/Taunahi-Minecraft)** ⭐ 35
+  ![Java](https://img.shields.io/badge/-Java-orange)
+  Collection of useful features and tools designed for Minecraft players who value comfort and personalization.
+
 - **[thvv-qaq/Mercurial-Grabber](https://github.com/thvv-qaq/Mercurial-Grabber)** ⭐ 33
   ![C#](https://img.shields.io/badge/-C#-lightgrey)
   Grab Discord tokens, Chrome passwords and cookies, and more
 
-- **[ZiyuGuo99/MME-CoF](https://github.com/ZiyuGuo99/MME-CoF)** ⭐ 11
+- **[ZiyuGuo99/MME-CoF](https://github.com/ZiyuGuo99/MME-CoF)** ⭐ 14
   ![None](https://img.shields.io/badge/-None-lightgrey)
   Are Video Models Ready as Zero-shot Reasoners?
 
-- **[0x4543/zeta-hash](https://github.com/0x4543/zeta-hash)** ⭐ 6
-  ![Rust](https://img.shields.io/badge/-Rust-brown)
-  Lightweight CLI and library for hashing strings, files, and generating random salts with multiple algorithms.
+- **[MiniMax-AI/Mini-Agent](https://github.com/MiniMax-AI/Mini-Agent)** ⭐ 11
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  A minimal yet professional single agent demo project that showcases the core execution pipeline and production-grade features of agents.
 
-- **[NguyenPhuocDaiToan/angular-condition-builder](https://github.com/NguyenPhuocDaiToan/angular-condition-builder)** ⭐ 6
-  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
-  A powerful and reusable Angular 20+ condition builder for dynamic logic trees. Supports nested AND/OR groups, custom fields, and dynamic operators. Ready for npm publish.
+- **[chelw97/nofx-better-prompt](https://github.com/chelw97/nofx-better-prompt)** ⭐ 11
+  ![Go](https://img.shields.io/badge/-Go-cyan)
+  better prompt fot nofx project
 
-- **[ntyne/Windows-7-Gett-Freee](https://github.com/ntyne/Windows-7-Gett-Freee)** ⭐ 5
-  ![None](https://img.shields.io/badge/-None-lightgrey)
-  None
-
-- **[fntyjy/Windows-7-Activator](https://github.com/fntyjy/Windows-7-Activator)** ⭐ 5
+- **[Narutare/1](https://github.com/Narutare/1)** ⭐ 10
   ![None](https://img.shields.io/badge/-None-lightgrey)
   None
 
 ### 📈 Weekly Trending
 
-- **[tinkle-community/nofx](https://github.com/tinkle-community/nofx)** ⭐ 2,304
+- **[tinkle-community/nofx](https://github.com/tinkle-community/nofx)** ⭐ 2,593
   ![Go](https://img.shields.io/badge/-Go-cyan)
   Multi-exchange AI trading platform (Binance/Hyperliquid/Aster) with multi-AI competition(deepseek/qwen/claude), self-evolution, and real-time dashboard
 
-- **[TimmyOVO/deepseek-ocr.rs](https://github.com/TimmyOVO/deepseek-ocr.rs)** ⭐ 1,523
+- **[TimmyOVO/deepseek-ocr.rs](https://github.com/TimmyOVO/deepseek-ocr.rs)** ⭐ 1,540
   ![Rust](https://img.shields.io/badge/-Rust-brown)
   Rust implementation of DeepSeek-OCR with OpenAI-compatible server & CLI No Python environment needed - just download and run.
 
-- **[MiniMax-AI/MiniMax-M2](https://github.com/MiniMax-AI/MiniMax-M2)** ⭐ 957
+- **[MiniMax-AI/MiniMax-M2](https://github.com/MiniMax-AI/MiniMax-M2)** ⭐ 981
   ![None](https://img.shields.io/badge/-None-lightgrey)
   MiniMax-M2, a model built for Max coding & agentic workflows.
 
-- **[diet103/claude-code-infrastructure-showcase](https://github.com/diet103/claude-code-infrastructure-showcase)** ⭐ 840
+- **[diet103/claude-code-infrastructure-showcase](https://github.com/diet103/claude-code-infrastructure-showcase)** ⭐ 976
   ![Shell](https://img.shields.io/badge/-Shell-lightgrey)
   Examples of my Claude Code infrastructure with skill auto-activation, hooks, and agents
 
-- **[meituan-longcat/LongCat-Video](https://github.com/meituan-longcat/LongCat-Video)** ⭐ 828
+- **[meituan-longcat/LongCat-Video](https://github.com/meituan-longcat/LongCat-Video)** ⭐ 842
   ![Python](https://img.shields.io/badge/-Python-blue)
   None
 
-- **[Mr-sans-and-InitLoader-s-team/Escape-From-Duckov-Coop-Mod-Preview](https://github.com/Mr-sans-and-InitLoader-s-team/Escape-From-Duckov-Coop-Mod-Preview)** ⭐ 764
+- **[Mr-sans-and-InitLoader-s-team/Escape-From-Duckov-Coop-Mod-Preview](https://github.com/Mr-sans-and-InitLoader-s-team/Escape-From-Duckov-Coop-Mod-Preview)** ⭐ 784
   ![C#](https://img.shields.io/badge/-C#-lightgrey)
   None
 
-- **[baaivision/Emu3.5](https://github.com/baaivision/Emu3.5)** ⭐ 639
+- **[baaivision/Emu3.5](https://github.com/baaivision/Emu3.5)** ⭐ 709
   ![Python](https://img.shields.io/badge/-Python-blue)
   Native Multimodal Models are World Learners
 
-- **[rolflobker/recall-for-linux](https://github.com/rolflobker/recall-for-linux)** ⭐ 618
+- **[rolflobker/recall-for-linux](https://github.com/rolflobker/recall-for-linux)** ⭐ 633
   ![Shell](https://img.shields.io/badge/-Shell-lightgrey)
   Bring Microsoft Recall to Linux!
 
 ### 📈 Monthly Trending
 
-- **[karpathy/nanochat](https://github.com/karpathy/nanochat)** ⭐ 34,621
+- **[karpathy/nanochat](https://github.com/karpathy/nanochat)** ⭐ 34,687
   ![Python](https://img.shields.io/badge/-Python-blue)
   The best ChatGPT that $100 can buy.
 
-- **[deepseek-ai/DeepSeek-OCR](https://github.com/deepseek-ai/DeepSeek-OCR)** ⭐ 18,781
+- **[deepseek-ai/DeepSeek-OCR](https://github.com/deepseek-ai/DeepSeek-OCR)** ⭐ 18,850
   ![Python](https://img.shields.io/badge/-Python-blue)
   Contexts Optical Compression
 
-- **[HKUDS/AI-Trader](https://github.com/HKUDS/AI-Trader)** ⭐ 7,484
+- **[HKUDS/AI-Trader](https://github.com/HKUDS/AI-Trader)** ⭐ 7,936
   ![Python](https://img.shields.io/badge/-Python-blue)
   "AI-Trader: Can AI Beat the Market?" Live Trading: https://hkuds.github.io/AI-Trader/
 
-- **[johannschopplich/toon](https://github.com/johannschopplich/toon)** ⭐ 5,988
+- **[johannschopplich/toon](https://github.com/johannschopplich/toon)** ⭐ 6,329
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
-  🎒 Token-Oriented Object Notation – JSON for LLMs at half the token cost
+  🎒 Token-Oriented Object Notation (TOON) – JSON for LLM prompts at half the tokens. Official spec & reference implementation.
 
-- **[obra/superpowers](https://github.com/obra/superpowers)** ⭐ 5,358
+- **[obra/superpowers](https://github.com/obra/superpowers)** ⭐ 5,409
   ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
   Claude Code superpowers: core skills library
 
-- **[SamsungSAILMontreal/TinyRecursiveModels](https://github.com/SamsungSAILMontreal/TinyRecursiveModels)** ⭐ 5,311
+- **[SamsungSAILMontreal/TinyRecursiveModels](https://github.com/SamsungSAILMontreal/TinyRecursiveModels)** ⭐ 5,318
   ![Python](https://img.shields.io/badge/-Python-blue)
   None
 
-- **[neuphonic/neutts-air](https://github.com/neuphonic/neutts-air)** ⭐ 3,744
+- **[neuphonic/neutts-air](https://github.com/neuphonic/neutts-air)** ⭐ 3,746
   ![Python](https://img.shields.io/badge/-Python-blue)
   On-device TTS model by Neuphonic
 
-- **[yusufkaraaslan/Skill_Seekers](https://github.com/yusufkaraaslan/Skill_Seekers)** ⭐ 2,958
+- **[yusufkaraaslan/Skill_Seekers](https://github.com/yusufkaraaslan/Skill_Seekers)** ⭐ 2,983
   ![Python](https://img.shields.io/badge/-Python-blue)
   Convert documentation websites, GitHub repositories, and PDFs into Claude AI skills with automatic conflict detection
 
@@ -483,21 +482,21 @@ See [kubernetes-announce@](https://groups.google.com/forum/#!forum/kubernetes-an
 
 | Skill | Status |
 |-------|--------|
-| Java | 🟢 Proficient |
-| Python | ⚪ Planned |
+| Java | 🟡 Learning |
+| Python | 🟡 Learning |
 | JavaScript | 🟡 Learning |
-| TypeScript | 🟡 Learning |
-| Go | ⚪ Planned |
+| TypeScript | 🟢 Proficient |
+| Go | 🔴 Beginner |
 
 ### Frameworks
 
 | Skill | Status |
 |-------|--------|
-| React | ⚪ Planned |
+| React | 🟡 Learning |
 | Spring Boot | 🟡 Learning |
 | Django | ⚪ Planned |
-| Node.js | ⚪ Planned |
-| Next.js | 🟢 Proficient |
+| Node.js | 🟡 Learning |
+| Next.js | 🔴 Beginner |
 
 ### Cybersecurity
 
@@ -512,12 +511,12 @@ See [kubernetes-announce@](https://groups.google.com/forum/#!forum/kubernetes-an
 
 | Skill | Status |
 |-------|--------|
-| Machine Learning | 🟢 Proficient |
+| Machine Learning | 🟡 Learning |
 | Deep Learning | ⚪ Planned |
-| NLP | ⚪ Planned |
+| NLP | 🟡 Learning |
 | Computer Vision | 🔴 Beginner |
-| TensorFlow | 🔴 Beginner |
-| PyTorch | 🔴 Beginner |
+| TensorFlow | 🟢 Proficient |
+| PyTorch | ⚪ Planned |
 
 ### Devops
 
@@ -526,16 +525,16 @@ See [kubernetes-announce@](https://groups.google.com/forum/#!forum/kubernetes-an
 | Docker | 🟡 Learning |
 | Kubernetes | ⚪ Planned |
 | CI/CD | ⚪ Planned |
-| AWS | 🔴 Beginner |
-| Azure | 🟡 Learning |
+| AWS | ⚪ Planned |
+| Azure | 🟢 Proficient |
 
 ### Other
 
 | Skill | Status |
 |-------|--------|
-| Blockchain | 🟢 Proficient |
+| Blockchain | 🟡 Learning |
 | Web3 | 🔴 Beginner |
-| Cloud Computing | 🔴 Beginner |
+| Cloud Computing | 🟢 Proficient |
 
 </details>
 
