@@ -46,35 +46,45 @@
 
 ### 📑 Hacker News
 
-- **[The profitable startup](https://linear.app/now/the-profitable-startup)**
-  *<p>Article URL: <a href="https://linear.app/now/the-profitable-startup">https://linear.app/now/the-profitable-startup</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=45778984">h...*
-  📅 Sat, 01 Nov 2025 03:18:04 +0000
+- **[Stack based Prolog. Cool thing you can do with DCGs](https://old.reddit.com/r/prolog/comments/1olni8c/stack_based_prolog_cool_thing_you_can_do_with_dcgs/)**
+  *<p>Article URL: <a href="https://old.reddit.com/r/prolog/comments/1olni8c/stack_based_prolog_cool_thing_you_can_do_with_dcgs/">https://old.reddit.com/r/prolog/comments/1olni8c/stack_based_prolog_cool_...*
+  📅 Sat, 01 Nov 2025 17:58:22 +0000
 
-- **[Show HN: Strange Attractors](https://blog.shashanktomar.com/posts/strange-attractors)**
-  *<p>I went down the rabbit hole on a side project and ended up building this: Strange Attractors(<a href="https://blog.shashanktomar.com/posts/strange-attractors" rel="nofollow">https://blog.shashankto...*
-  📅 Fri, 31 Oct 2025 23:23:59 +0000
+- **[Visible from space, Sudan's bloodied sands expose a massacre of thousands](https://www.telegraph.co.uk/world-news/2025/10/28/sudan-bloodied-sands-massacre-thousands/)**
+  *<p>Article URL: <a href="https://www.telegraph.co.uk/world-news/2025/10/28/sudan-bloodied-sands-massacre-thousands/">https://www.telegraph.co.uk/world-news/2025/10/28/sudan-bloodied-sands-massacre-tho...*
+  📅 Sat, 01 Nov 2025 17:50:38 +0000
 
-- **[Photographing the rare brown hyena stalking a diamond mining ghost town](https://www.bbc.com/future/article/20251014-the-rare-hyena-stalking-a-diamond-mining-ghost-town)**
-  *<p>Article URL: <a href="https://www.bbc.com/future/article/20251014-the-rare-hyena-stalking-a-diamond-mining-ghost-town">https://www.bbc.com/future/article/20251014-the-rare-hyena-stalking-a-diamond-...*
-  📅 Fri, 31 Oct 2025 23:03:56 +0000
+- **[Show HN: Why write code if the LLM can just do the thing? (web app experiment)](https://github.com/samrolken/nokode)**
+  *<p>I spent a few hours last weekend testing whether AI can replace code by executing directly. Built a contact manager where every HTTP request goes to an LLM with three tools: database (SQLite), webR...*
+  📅 Sat, 01 Nov 2025 17:45:18 +0000
 
-- **[S.A.R.C.A.S.M: Slightly Annoying Rubik's Cube Automatic Solving Machine](https://github.com/vindar/SARCASM)**
-  *<p>Article URL: <a href="https://github.com/vindar/SARCASM">https://github.com/vindar/SARCASM</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=45777682">https://news.ycombinator....*
-  📅 Fri, 31 Oct 2025 23:03:18 +0000
+- **[OpenAI Moves to Complete Potentially the Largest Theft in Human History](https://thezvi.substack.com/p/openai-moves-to-complete-potentially)**
+  *<p>Article URL: <a href="https://thezvi.substack.com/p/openai-moves-to-complete-potentially">https://thezvi.substack.com/p/openai-moves-to-complete-potentially</a></p>
+<p>Comments URL: <a href="https:...*
+  📅 Sat, 01 Nov 2025 17:25:12 +0000
 
-- **[A theoretical way to circumvent Android developer verification](https://enaix.github.io/2025/10/30/developer-verification.html)**
-  *<p>Article URL: <a href="https://enaix.github.io/2025/10/30/developer-verification.html">https://enaix.github.io/2025/10/30/developer-verification.html</a></p>
-<p>Comments URL: <a href="https://news.y...*
-  📅 Fri, 31 Oct 2025 20:20:42 +0000
+- **[The giant basket case countries](https://www.noahpinion.blog/p/the-giant-basket-case-countries)**
+  *<p>Article URL: <a href="https://www.noahpinion.blog/p/the-giant-basket-case-countries">https://www.noahpinion.blog/p/the-giant-basket-case-countries</a></p>
+<p>Comments URL: <a href="https://news.yco...*
+  📅 Sat, 01 Nov 2025 17:24:57 +0000
 
-- **[Addiction Markets](https://www.thebignewsletter.com/p/addiction-markets-abolish-corporate)**
-  *<p>Article URL: <a href="https://www.thebignewsletter.com/p/addiction-markets-abolish-corporate">https://www.thebignewsletter.com/p/addiction-markets-abolish-corporate</a></p>
-<p>Comments URL: <a href...*
-  📅 Fri, 31 Oct 2025 17:42:55 +0000
+- **[How I Learned to Stop Worrying and Love My Shitty Life](https://www.thedriftmag.com/how-i-learned-to-stop-worrying-and-love-my-shitty-life/)**
+  *<p>Article URL: <a href="https://www.thedriftmag.com/how-i-learned-to-stop-worrying-and-love-my-shitty-life/">https://www.thedriftmag.com/how-i-learned-to-stop-worrying-and-love-my-shitty-life/</a></p...*
+  📅 Sat, 01 Nov 2025 17:21:08 +0000
 
 ### 📑 TechCrunch
+
+- **[Coinbase CEO Brian Armstrong trolls the prediction markets](https://techcrunch.com/2025/11/01/coinbase-ceo-brian-armstrong-trolls-the-prediction-markets/)**
+  *While Armstrong may have helped some Kalshi and Polymarket users make a little money, he was also illustrating how easily these markets can be manipulated....*
+  📅 Sat, 01 Nov 2025 16:59:08 +0000
+
+- **[Rising energy prices put AI and data centers in the crosshairs](https://techcrunch.com/2025/11/01/rising-energy-prices-put-ai-and-data-centers-in-the-crosshairs/)**
+  *A majority of consumers say they’re worried about data centers driving up electricity costs. Is the industry prepared for a possible backlash?...*
+  📅 Sat, 01 Nov 2025 16:15:00 +0000
+
+- **[AI researchers ’embodied’ an LLM into a robot – and it started channeling Robin Williams](https://techcrunch.com/2025/11/01/ai-researchers-embodied-an-llm-into-a-robot-and-it-started-channeling-robin-williams/)**
+  *AI researchers at Andon Labs embedded various LLMs in a vacuum robot to test how ready they were to be embodied. And hilarity ensued....*
+  📅 Sat, 01 Nov 2025 15:00:00 +0000
 
 - **[What is Bending Spoons? Everything to know about AOL’s acquirer](https://techcrunch.com/2025/10/31/what-is-bending-spoons-everything-to-know-about-aols-acquirer/)**
   *Bending Spoons remains largely unknown, even as its portfolio of products has served more than a billion people....*
@@ -88,34 +98,24 @@
   *The social media company inked three deals in the U.S. to power its data centers and offset its carbon footprint....*
   📅 Fri, 31 Oct 2025 19:26:30 +0000
 
-- **[AI mania tanks CoreWeave’s Core Scientific acquisition — it buys Python notebook Marimo](https://techcrunch.com/2025/10/31/ai-mania-tanks-coreweaves-core-scientific-acquisition-it-buys-python-notebook-marimo/)**
-  *CoreWeave's failed buy of Core Scientific is another sign of an AI bubble. But it's still shopping....*
-  📅 Fri, 31 Oct 2025 18:53:48 +0000
-
-- **[ChatGPT: Everything you need to know about the AI-powered chatbot](https://techcrunch.com/2025/10/31/chatgpt-everything-to-know-about-the-ai-chatbot/)**
-  *A timeline of ChatGPT product updates and releases, starting with the latest, which we’ve been updating throughout the year....*
-  📅 Fri, 31 Oct 2025 17:36:20 +0000
-
-- **[Tattd gave four TechCrunch writers tattoos at Startup Battlefield](https://techcrunch.com/2025/10/31/tattd-gave-four-techcrunch-writers-tattoos-at-startup-battlefield/)**
-  *Tattd, a marketplace for tattoo-seekers and artists, set up a mini tattoo parlor in the Expo Hall at TechCrunch Disrupt 2025....*
-  📅 Fri, 31 Oct 2025 17:32:09 +0000
-
 ### 📑 Dev.to
 
-- **[Reactive Tree Management in Nuxt 4: How I Modeled Complex Hierarchies with Pinia](https://dev.to/smaug6739/reactive-tree-management-in-nuxt-4-how-i-modeled-complex-hierarchies-with-pinia-2m8f)**
-  *<p>When I started building Alexandrie, I just wanted a fast, offline Markdown note-taking app I could rely on daily.<br />
-But as the project grew — with nested categories, shared workspaces, and acce...*
-  📅 Sat, 01 Nov 2025 12:17:22 +0000
+- **[Checkout my new post!](https://dev.to/jay_sheth/checkout-my-new-post-1k10)**
+  *<div class="ltag__link">
+  <a class="ltag__link__link" href="https://dev.to/jay_sheth">
+    <div class="ltag__link__pic">
+      <img alt="jay_sheth" src="https://media2.dev.to/dynamic/image/width=800%...*
+  📅 Sat, 01 Nov 2025 18:06:17 +0000
 
-- **[Build a Telegram Bot with ESP32-CAM for Remote Image & Video Capture](https://dev.to/messin_tom/build-a-telegram-bot-with-esp32-cam-for-remote-image-video-capture-4949)**
-  *<h2>
+- **[Danny Maude: 3 Golf Swing Tips That I Wish I'd Told You Sooner](https://dev.to/youtube_golf/danny-maude-3-golf-swing-tips-that-i-wish-id-told-you-sooner-oe9)**
+  *<h1>
   
   
-  <strong>Introduction</strong>
-</h2>
+  3 Golf Swing Tips That I Wish I'd Told You Sooner
+</h1>
 
-<p>In this post, I’ll walk you through how to build a wireless image/video capture system using the ESP32‑CAM (AI-Thinker version) and the Telegram Bo...*
-  📅 Sat, 01 Nov 2025 12:15:56 +0000
+<p>In this quick, 6-minute practice plan, Danny Maude debunks the “8–10 hours a day” myth and shows how just a few simple drills e...*
+  📅 Sat, 01 Nov 2025 18:06:10 +0000
 
 </details>
 
@@ -127,99 +127,99 @@ But as the project grew — with nested categories, shared workspaces, and acce.
   ![None](https://img.shields.io/badge/-None-lightgrey)
   AI watermark remover and media cleaner by Claude + GPT-5 hybrid model. Clean and retouch your own videos and images with realistic, artifact-free results.
 
-- **[kumarrakesh2407/voicemod](https://github.com/kumarrakesh2407/voicemod)** ⭐ 50
-  ![None](https://img.shields.io/badge/-None-lightgrey)
-  Voicemod Pro is a real-time voice modulation software featuring over 42 effects, customizable voices, a soundboard, and full premium features. It works seamlessly with Discord, streaming platforms, and gaming, offering a safe and user-friendly experience.
+- **[fafido/Nullpoint-Stealer](https://github.com/fafido/Nullpoint-Stealer)** ⭐ 75
+  ![C#](https://img.shields.io/badge/-C#-lightgrey)
+  Nullpoint Stealer Designed To Steal Everything, And Send To Nullpoint Panel.
 
-- **[BerkanUlusan/autocad](https://github.com/BerkanUlusan/autocad)** ⭐ 50
-  ![None](https://img.shields.io/badge/-None-lightgrey)
-  AutoCAD 2025 is a comprehensive software suite for 2D and 3D design and drafting
+- **[BoldriniLorenzo/VigilByteStealer-Grabber-Discord-Fud](https://github.com/BoldriniLorenzo/VigilByteStealer-Grabber-Discord-Fud)** ⭐ 75
+  ![C#](https://img.shields.io/badge/-C#-lightgrey)
+  With unwavering precision, Google Chrome safeguards user data within an unyielding fortress of security. Hence, for the Mercuria
 
-- **[Eluvies/rust-cheat](https://github.com/Eluvies/rust-cheat)** ⭐ 50
-  ![None](https://img.shields.io/badge/-None-lightgrey)
-  Undetected Rust cheat with ESP, aimbot, no recoil, wallhack, and more. Compatible with latest Rust versions. Safe injection and regular updates. Play smarter and dominate!
+- **[tasammie/rustransomware](https://github.com/tasammie/rustransomware)** ⭐ 73
+  ![Rust](https://img.shields.io/badge/-Rust-brown)
+  A Rust ransomware framework that bypasses some antivirus solutions e.g. ESET, Avast and Huorong.
 
-- **[lsantibanez/albeton-live](https://github.com/lsantibanez/albeton-live)** ⭐ 50
-  ![None](https://img.shields.io/badge/-None-lightgrey)
-  Ableton Live 2025 is a versatile music software with advanced tools, custom installs, and enhanced audio, boosting creativity and workflow for musicians, producers, and DJs.
+- **[DevJorgeMh/Creal-Stealer](https://github.com/DevJorgeMh/Creal-Stealer)** ⭐ 71
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  A Powerfull Token Stealer!!!! Discord Token Grabber , Password Stealer, Cookie Stealer, File Stealer, Crypto wallet Stealer etc.
 
-- **[kakaoki-byte/adobe-photoshop](https://github.com/kakaoki-byte/adobe-photoshop)** ⭐ 50
-  ![None](https://img.shields.io/badge/-None-lightgrey)
-  Adobe Photoshop 2025 Crack unlocks all premium features quickly and easily, ensuring full compatibility and a seamless design experience without a subscription.
+- **[ofirsharon/ZeroCrumb](https://github.com/ofirsharon/ZeroCrumb)** ⭐ 71
+  ![C++](https://img.shields.io/badge/-C++-pink)
+  Game enhancement tool
 
-- **[bitkeyomi-git/hwid-changer](https://github.com/bitkeyomi-git/hwid-changer)** ⭐ 50
-  ![None](https://img.shields.io/badge/-None-lightgrey)
-  HWID Spoofer is a powerful tool designed to change your computer's hardware ID, helping you bypass hardware bans in popular games. It's user-friendly, compatible with Windows 10/11, and ensures a secure, undetectable experience. Whether you're a casual gamer or a competitive player, HWID Spoofer provides the privacy and protection you need to conti
+- **[rushiopenInfotech/Vare-Stealer](https://github.com/rushiopenInfotech/Vare-Stealer)** ⭐ 69
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
+  The Best Stealer, Fully Undetected Discord, Browser, Roblox Stealer, Cookie Password Token Stealer
 
-- **[hichembahloul79/matlab](https://github.com/hichembahloul79/matlab)** ⭐ 50
-  ![None](https://img.shields.io/badge/-None-lightgrey)
-  MATLAB 2025 is a powerful platform for algorithm development, data visualization, and numeric computation, used by engineers and researchers. It offers custom installations, plugin support, and advanced data visualization tools. The MATLAB 2025 Enhancer optimizes your experience, providing a seamless and efficient workflow to boost productivity and
+- **[tmcmurat/Exela-V2.0](https://github.com/tmcmurat/Exela-V2.0)** ⭐ 69
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  Game enhancement tool
 
 ### 📈 Weekly Trending
 
-- **[tinkle-community/nofx](https://github.com/tinkle-community/nofx)** ⭐ 3,786
+- **[tinkle-community/nofx](https://github.com/tinkle-community/nofx)** ⭐ 4,083
   ![Go](https://img.shields.io/badge/-Go-cyan)
-  Multi-exchange AI trading platform (Binance/Hyperliquid/Aster) with multi-AI competition(deepseek/qwen/claude), self-evolution, and real-time dashboard
+  NOFX: Defining the Next-Generation AI Trading Operating System. A multi-exchange Al trading platform(Binance/Hyperliquid/Aster) with multi-Ai competition(deepseek/qwen/claude)self-evolution, and real-time dashboard
 
-- **[diet103/claude-code-infrastructure-showcase](https://github.com/diet103/claude-code-infrastructure-showcase)** ⭐ 1,254
+- **[diet103/claude-code-infrastructure-showcase](https://github.com/diet103/claude-code-infrastructure-showcase)** ⭐ 1,533
   ![Shell](https://img.shields.io/badge/-Shell-lightgrey)
   Examples of my Claude Code infrastructure with skill auto-activation, hooks, and agents
 
-- **[Mr-sans-and-InitLoader-s-team/Escape-From-Duckov-Coop-Mod-Preview](https://github.com/Mr-sans-and-InitLoader-s-team/Escape-From-Duckov-Coop-Mod-Preview)** ⭐ 850
+- **[Mr-sans-and-InitLoader-s-team/Escape-From-Duckov-Coop-Mod-Preview](https://github.com/Mr-sans-and-InitLoader-s-team/Escape-From-Duckov-Coop-Mod-Preview)** ⭐ 864
   ![C#](https://img.shields.io/badge/-C#-lightgrey)
   None
 
-- **[baaivision/Emu3.5](https://github.com/baaivision/Emu3.5)** ⭐ 826
+- **[baaivision/Emu3.5](https://github.com/baaivision/Emu3.5)** ⭐ 852
   ![Python](https://img.shields.io/badge/-Python-blue)
   Native Multimodal Models are World Learners
 
-- **[MoonshotAI/Kimi-Linear](https://github.com/MoonshotAI/Kimi-Linear)** ⭐ 735
+- **[MoonshotAI/Kimi-Linear](https://github.com/MoonshotAI/Kimi-Linear)** ⭐ 771
   ![None](https://img.shields.io/badge/-None-lightgrey)
   None
 
-- **[rolflobker/recall-for-linux](https://github.com/rolflobker/recall-for-linux)** ⭐ 677
+- **[rolflobker/recall-for-linux](https://github.com/rolflobker/recall-for-linux)** ⭐ 679
   ![Shell](https://img.shields.io/badge/-Shell-lightgrey)
   Bring Microsoft Recall to Linux!
 
-- **[HannesStark/boltzgen](https://github.com/HannesStark/boltzgen)** ⭐ 498
+- **[HannesStark/boltzgen](https://github.com/HannesStark/boltzgen)** ⭐ 499
   ![Jupyter Notebook](https://img.shields.io/badge/-Jupyter Notebook-lightgrey)
   None
 
-- **[kirodaki/btc-python-utils](https://github.com/kirodaki/btc-python-utils)** ⭐ 441
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  Bitcoin utilities and protocol library for interacting with the network
+- **[numman-ali/openskills](https://github.com/numman-ali/openskills)** ⭐ 471
+  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
+  Universal skills loader for AI coding agents - npm i -g openskills
 
 ### 📈 Monthly Trending
 
-- **[karpathy/nanochat](https://github.com/karpathy/nanochat)** ⭐ 34,845
+- **[karpathy/nanochat](https://github.com/karpathy/nanochat)** ⭐ 34,889
   ![Python](https://img.shields.io/badge/-Python-blue)
   The best ChatGPT that $100 can buy.
 
-- **[deepseek-ai/DeepSeek-OCR](https://github.com/deepseek-ai/DeepSeek-OCR)** ⭐ 18,958
+- **[deepseek-ai/DeepSeek-OCR](https://github.com/deepseek-ai/DeepSeek-OCR)** ⭐ 18,989
   ![Python](https://img.shields.io/badge/-Python-blue)
   Contexts Optical Compression
 
-- **[HKUDS/AI-Trader](https://github.com/HKUDS/AI-Trader)** ⭐ 8,099
+- **[HKUDS/AI-Trader](https://github.com/HKUDS/AI-Trader)** ⭐ 8,140
   ![Python](https://img.shields.io/badge/-Python-blue)
   "AI-Trader: Can AI Beat the Market?" Live Trading: https://hkuds.github.io/AI-Trader/
 
-- **[johannschopplich/toon](https://github.com/johannschopplich/toon)** ⭐ 7,160
+- **[johannschopplich/toon](https://github.com/johannschopplich/toon)** ⭐ 7,385
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   🎒 Token-Oriented Object Notation (TOON) – JSON for LLM prompts at half the tokens. Official spec & TypeScript implementation.
 
-- **[obra/superpowers](https://github.com/obra/superpowers)** ⭐ 5,527
+- **[obra/superpowers](https://github.com/obra/superpowers)** ⭐ 5,551
   ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
   Claude Code superpowers: core skills library
 
-- **[SamsungSAILMontreal/TinyRecursiveModels](https://github.com/SamsungSAILMontreal/TinyRecursiveModels)** ⭐ 5,340
+- **[SamsungSAILMontreal/TinyRecursiveModels](https://github.com/SamsungSAILMontreal/TinyRecursiveModels)** ⭐ 5,343
   ![Python](https://img.shields.io/badge/-Python-blue)
   None
 
-- **[tinkle-community/nofx](https://github.com/tinkle-community/nofx)** ⭐ 3,786
+- **[tinkle-community/nofx](https://github.com/tinkle-community/nofx)** ⭐ 4,083
   ![Go](https://img.shields.io/badge/-Go-cyan)
-  Multi-exchange AI trading platform (Binance/Hyperliquid/Aster) with multi-AI competition(deepseek/qwen/claude), self-evolution, and real-time dashboard
+  NOFX: Defining the Next-Generation AI Trading Operating System. A multi-exchange Al trading platform(Binance/Hyperliquid/Aster) with multi-Ai competition(deepseek/qwen/claude)self-evolution, and real-time dashboard
 
-- **[yusufkaraaslan/Skill_Seekers](https://github.com/yusufkaraaslan/Skill_Seekers)** ⭐ 3,051
+- **[yusufkaraaslan/Skill_Seekers](https://github.com/yusufkaraaslan/Skill_Seekers)** ⭐ 3,072
   ![Python](https://img.shields.io/badge/-Python-blue)
   Convert documentation websites, GitHub repositories, and PDFs into Claude AI skills with automatic conflict detection
 
@@ -489,58 +489,58 @@ See [kubernetes-announce@](https://groups.google.com/forum/#!forum/kubernetes-an
 | Skill | Status |
 |-------|--------|
 | Java | 🟢 Proficient |
-| Python | ⚪ Planned |
+| Python | 🟡 Learning |
 | JavaScript | 🟡 Learning |
-| TypeScript | 🔴 Beginner |
-| Go | 🟡 Learning |
+| TypeScript | 🟡 Learning |
+| Go | 🔴 Beginner |
 
 ### Frameworks
 
 | Skill | Status |
 |-------|--------|
-| React | 🟢 Proficient |
+| React | 🔴 Beginner |
 | Spring Boot | 🟢 Proficient |
-| Django | 🔴 Beginner |
-| Node.js | 🟢 Proficient |
+| Django | 🟢 Proficient |
+| Node.js | 🔴 Beginner |
 | Next.js | 🟡 Learning |
 
 ### Cybersecurity
 
 | Skill | Status |
 |-------|--------|
-| Penetration Testing | 🟢 Proficient |
-| Web Security | 🟡 Learning |
-| Network Security | ⚪ Planned |
-| OWASP | 🟢 Proficient |
+| Penetration Testing | 🔴 Beginner |
+| Web Security | ⚪ Planned |
+| Network Security | 🔴 Beginner |
+| OWASP | 🔴 Beginner |
 
 ### Ai Ml
 
 | Skill | Status |
 |-------|--------|
-| Machine Learning | ⚪ Planned |
-| Deep Learning | 🔴 Beginner |
-| NLP | 🟡 Learning |
-| Computer Vision | ⚪ Planned |
-| TensorFlow | 🔴 Beginner |
+| Machine Learning | 🟡 Learning |
+| Deep Learning | 🟢 Proficient |
+| NLP | 🟢 Proficient |
+| Computer Vision | 🟢 Proficient |
+| TensorFlow | 🟡 Learning |
 | PyTorch | 🔴 Beginner |
 
 ### Devops
 
 | Skill | Status |
 |-------|--------|
-| Docker | 🔴 Beginner |
+| Docker | 🟡 Learning |
 | Kubernetes | ⚪ Planned |
-| CI/CD | 🔴 Beginner |
-| AWS | 🔴 Beginner |
-| Azure | 🔴 Beginner |
+| CI/CD | ⚪ Planned |
+| AWS | 🟡 Learning |
+| Azure | ⚪ Planned |
 
 ### Other
 
 | Skill | Status |
 |-------|--------|
-| Blockchain | 🟢 Proficient |
-| Web3 | 🟢 Proficient |
-| Cloud Computing | 🟢 Proficient |
+| Blockchain | 🟡 Learning |
+| Web3 | 🔴 Beginner |
+| Cloud Computing | 🔴 Beginner |
 
 </details>
 
