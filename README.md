@@ -7,7 +7,7 @@
 ![AI & ML](https://img.shields.io/badge/-AI%20&%20ML-blue) ![CyberSecurity](https://img.shields.io/badge/-CyberSecurity-red) ![Full Stack Development](https://img.shields.io/badge/-Full%20Stack%20Development-green)
 
 [![Auto Update](https://img.shields.io/badge/Auto%20Update-Enabled-success)](https://github.com/yourusername/tech-dashboard/actions)
-[![Last Updated](https://img.shields.io/badge/Last%20Updated-November 04, 2025-blue)](https://github.com/yourusername/tech-dashboard)
+[![Last Updated](https://img.shields.io/badge/Last%20Updated-November 05, 2025-blue)](https://github.com/yourusername/tech-dashboard)
 
 *Automatically updated every 6 hours with the latest tech news, trending repositories, and learning resources.*
 
@@ -20,7 +20,7 @@
 | Metric | Count |
 |--------|-------|
 | 📰 Latest News Articles | 26 |
-| 🔥 Trending Repositories | 0 |
+| 🔥 Trending Repositories | 45 |
 | 🎯 Latest Releases | 10 |
 | 🎯 Learning Goals | 4 |
 
@@ -46,75 +46,176 @@
 
 ### 📑 Hacker News
 
-- **[Michael Burry a.k.a. "Big Short",discloses $1.1B bet against Nvidia&Palantir](https://sherwood.news/markets/michael-burry-big-short-discloses-1-1-billion-options-bet-against-nvidia-palantir-puts/)**
-  *<p>Article URL: <a href="https://sherwood.news/markets/michael-burry-big-short-discloses-1-1-billion-options-bet-against-nvidia-palantir-puts/">https://sherwood.news/markets/michael-burry-big-short-di...*
-  📅 Tue, 04 Nov 2025 17:44:12 +0000
+- **[Uncle Sam wants to scan your iris and collect your DNA, citizen or not](https://www.theregister.com/2025/11/04/dhs_wants_to_collect_biometric_data/)**
+  *<p>Article URL: <a href="https://www.theregister.com/2025/11/04/dhs_wants_to_collect_biometric_data/">https://www.theregister.com/2025/11/04/dhs_wants_to_collect_biometric_data/</a></p>
+<p>Comments UR...*
+  📅 Tue, 04 Nov 2025 23:35:27 +0000
 
-- **[The Rust Foundation Maintainers Fund](https://rustfoundation.org/media/announcing-the-rust-foundation-maintainers-fund/)**
-  *<p>Article URL: <a href="https://rustfoundation.org/media/announcing-the-rust-foundation-maintainers-fund/">https://rustfoundation.org/media/announcing-the-rust-foundation-maintainers-fund/</a></p>
-<p...*
-  📅 Tue, 04 Nov 2025 17:15:55 +0000
+- **[Bluetui – A TUI for managing Bluetooth on Linux](https://github.com/pythops/bluetui)**
+  *<p>Article URL: <a href="https://github.com/pythops/bluetui">https://github.com/pythops/bluetui</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=45817114">https://news.ycombinato...*
+  📅 Tue, 04 Nov 2025 23:29:31 +0000
 
-- **[Launch HN: Plexe (YC X25) – Build production-grade ML models from prompts](https://www.plexe.ai/)**
-  *<p>Hey HN! We're Vaibhav and Marcello, founders of Plexe (<a href="https://www.plexe.ai">https://www.plexe.ai</a>). We create production-ready ML models from natural language descriptions. Tell Plexe ...*
-  📅 Tue, 04 Nov 2025 17:07:47 +0000
+- **[Analyzing the Performance of WebAssembly vs. Native Code](https://ar5iv.labs.arxiv.org/html/1901.09056)**
+  *<p>Article URL: <a href="https://ar5iv.labs.arxiv.org/html/1901.09056">https://ar5iv.labs.arxiv.org/html/1901.09056</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=45816981">htt...*
+  📅 Tue, 04 Nov 2025 23:13:06 +0000
 
-- **[Exploring a space-based, scalable AI infrastructure system design](https://research.google/blog/exploring-a-space-based-scalable-ai-infrastructure-system-design/)**
-  *<p>Article URL: <a href="https://research.google/blog/exploring-a-space-based-scalable-ai-infrastructure-system-design/">https://research.google/blog/exploring-a-space-based-scalable-ai-infrastructure...*
-  📅 Tue, 04 Nov 2025 17:04:47 +0000
+- **[Google Removed 749M Anna's Archive URLs from Its Search Results](https://torrentfreak.com/google-removed-749-million-annas-archive-urls-from-its-search-results/)**
+  *<p>Article URL: <a href="https://torrentfreak.com/google-removed-749-million-annas-archive-urls-from-its-search-results/">https://torrentfreak.com/google-removed-749-million-annas-archive-urls-from-it...*
+  📅 Tue, 04 Nov 2025 23:11:20 +0000
 
-- **[US nuclear weapons testing can forever scar a nation.Just ask Marshall Island](https://www.cnn.com/2025/11/04/asia/nuclear-testing-marshall-islands-legacy-intl-hnk-dst)**
-  *<p>Article URL: <a href="https://www.cnn.com/2025/11/04/asia/nuclear-testing-marshall-islands-legacy-intl-hnk-dst">https://www.cnn.com/2025/11/04/asia/nuclear-testing-marshall-islands-legacy-intl-hnk-...*
-  📅 Tue, 04 Nov 2025 16:59:05 +0000
+- **[Patching 68K Software – SimpleText](https://tinkerdifferent.com/threads/patching-68k-software-simpletext.4793/)**
+  *<p>Article URL: <a href="https://tinkerdifferent.com/threads/patching-68k-software-simpletext.4793/">https://tinkerdifferent.com/threads/patching-68k-software-simpletext.4793/</a></p>
+<p>Comments URL:...*
+  📅 Tue, 04 Nov 2025 22:59:22 +0000
 
-- **[Data breach at major Swedish software supplier impacts 1.5M](https://www.bleepingcomputer.com/news/security/data-breach-at-major-swedish-software-supplier-impacts-15-million/)**
-  *<p>Article URL: <a href="https://www.bleepingcomputer.com/news/security/data-breach-at-major-swedish-software-supplier-impacts-15-million/">https://www.bleepingcomputer.com/news/security/data-breach-a...*
-  📅 Tue, 04 Nov 2025 16:54:27 +0000
+- **[Mr Tiff](https://inventingthefuture.ghost.io/mr-tiff/)**
+  *<p>Article URL: <a href="https://inventingthefuture.ghost.io/mr-tiff/">https://inventingthefuture.ghost.io/mr-tiff/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=45816853">htt...*
+  📅 Tue, 04 Nov 2025 22:57:12 +0000
 
 ### 📑 TechCrunch
 
-- **[Netflix in talks to license video podcasts from iHeartMedia, report says](https://techcrunch.com/2025/11/04/netflix-in-talks-to-license-video-podcasts-from-iheartmedia-report-says/)**
-  *Netflix is looking for exclusivity, which means that video podcasts that it licenses could no longer be uploaded to YouTube....*
-  📅 Tue, 04 Nov 2025 18:03:31 +0000
+- **[Amazon sends legal threats to Perplexity over agentic browsing](https://techcrunch.com/2025/11/04/amazon-sends-legal-threats-to-perplexity-over-agentic-browsing/)**
+  *Amazon won't allow agents on its site that don't identify themselves as such. Perplexity is not pleased....*
+  📅 Tue, 04 Nov 2025 23:05:04 +0000
 
-- **[Phone location data of top EU officials for sale, report finds](https://techcrunch.com/2025/11/04/phone-location-data-of-top-eu-officials-for-sale-report-finds/)**
-  *Journalists in Europe found it was "easy" to spy on top European Union officials using commercially obtained location data sold by data brokers, despite the continent having some of the strongest data...*
-  📅 Tue, 04 Nov 2025 17:19:26 +0000
+- **[People Inc. forges AI licensing deal with Microsoft as Google traffic drops](https://techcrunch.com/2025/11/04/people-inc-forges-ai-licensing-deal-with-microsoft-as-google-traffic-drops/)**
+  *People Inc. signs an AI licensing deal with Microsoft, which will use its media content in Copilot....*
+  📅 Tue, 04 Nov 2025 22:30:28 +0000
 
-- **[Anthropic projects $70B in revenue by 2028: Report](https://techcrunch.com/2025/11/04/anthropic-expects-b2b-demand-to-boost-revenue-to-70b-in-2028-report/)**
-  *The Information reports that Anthropic expects to generate as much as $70 billion in revenue and $17 billion in cash flow in 2028. The growth projections are fueled by rapid adoption of Anthropic’s bu...*
-  📅 Tue, 04 Nov 2025 16:48:54 +0000
+- **[Beta Technologies ends first day on NYSE in the green and $1B raised](https://techcrunch.com/2025/11/04/beta-technologies-ends-first-day-on-nyse-in-the-green-and-1b-raised/)**
+  *Beta Technologies' public market debut is a capstone to founder and CEO Kyle Clark's untraditional approach to building an aviation company....*
+  📅 Tue, 04 Nov 2025 22:22:02 +0000
 
-- **[Tesla’s Master Plan 4 still lacks specifics ahead of $1T Musk pay vote](https://techcrunch.com/2025/11/04/teslas-master-plan-4-still-lacks-specifics-ahead-of-1t-musk-pay-vote/)**
-  *Despite its imprecision, the fourth "Master Plan" is a centerpiece of Tesla's case for giving CEO Elon Musk $1 trillion in company shares....*
-  📅 Tue, 04 Nov 2025 16:48:42 +0000
+- **[Rivian creates another spinoff company called Mind Robotics](https://techcrunch.com/2025/11/04/rivian-creates-another-spinoff-company-called-mind-robotics/)**
+  *It's the second time this year Rivian has spun out a new company, after it created micromobility startup Also in March....*
+  📅 Tue, 04 Nov 2025 21:03:43 +0000
 
-- **[Spotify now has half a million video podcasts, which nearly 400M users have watched](https://techcrunch.com/2025/11/04/spotify-now-has-half-a-million-video-podcasts-which-nearly-400m-users-have-watched/)**
-  *Spotify says that users' time spent with video content on Spotify has more than doubled year-over-year, largely driven by video podcasts....*
-  📅 Tue, 04 Nov 2025 16:21:40 +0000
+- **[Google’s AI Mode gets new agentic capabilities to help book event tickets and beauty appointments](https://techcrunch.com/2025/11/04/googles-ai-mode-gets-new-agentic-capabilities-to-help-book-event-tickets-and-beauty-appointments/)**
+  *For example, you can ask "find me 2 cheap tickets for the Shaboozey concert coming up. prefer standing floor tickets." AI Mode will then search across multiple websites to find real-time ticket option...*
+  📅 Tue, 04 Nov 2025 20:36:18 +0000
 
-- **[WhatsApp launches long-awaited Apple Watch app](https://techcrunch.com/2025/11/04/whatsapp-launches-long-awaited-apple-watch-app/)**
-  *For the first time, WhatsApp users will be able to use their Apple Watch to get call notifications, read full messages, record and send voice messages, and view media content more clearly....*
-  📅 Tue, 04 Nov 2025 15:00:00 +0000
+- **[Sequoia names Alfred Lin and Pat Grady as new co-stewards as Roelof Botha steps down](https://techcrunch.com/2025/11/04/sequoia-names-alfred-lin-and-pat-grady-as-new-co-stewards-as-roelof-botha-steps-down/)**
+  *Just over three years after taking the reins as the steward of the storied firm, Botha passed the leadership baton to Lin and Grady....*
+  📅 Tue, 04 Nov 2025 20:34:41 +0000
 
 ### 📑 Dev.to
 
-- **[Top 7 Featured DEV Posts of the Week](https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-1g8e)**
-  *<p><em>Welcome to this week's Top 7, where the DEV editorial team handpicks their favorite posts from the previous week.</em></p>
+- **[📊🔍 OpenSearch Dashboards: Optimizing Massive Data Queries (Big Data) with Asynchronous Search](https://dev.to/fonteeboa/opensearch-dashboards-optimizing-massive-data-queries-big-data-with-asynchronous-search-16ib)**
+  *<p>Working with logs, telemetry, or large-scale datasets in OpenSearch can result in slow and heavy queries. This guide covers <strong>everything a Tech Lead needs to know</strong> about optimizing se...*
+  📅 Wed, 05 Nov 2025 00:47:17 +0000
 
-<p>Congrats to all the authors that made it onto the list 👏</p>
-
-
-<di...*
-  📅 Tue, 04 Nov 2025 18:14:13 +0000
-
-- **[CinemaSins: Everything Wrong With Longlegs In 24 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-longlegs-in-24-minutes-or-less-147c)**
-  *<p>Everything Wrong With Longlegs In 24 Minutes Or Less is CinemaSins’ latest deep-dive into Nicolas Cage’s wild turn in Longlegs, teasing out every over-the-top moment and storytelling hiccup in true...*
-  📅 Tue, 04 Nov 2025 18:00:50 +0000
+- **[While Everyone Argues About AI Regulation, Data Is the Real Wild West](https://dev.to/aronchick/while-everyone-argues-about-ai-regulation-data-is-the-real-wild-west-4f8a)**
+  *<p>Last month, <a href="https://leg.colorado.gov/bills/sb24-205?ref=distributedthoughts.org" rel="noopener noreferrer">Colorado's AI Act</a> went into full effect. California's considering <a href="ht...*
+  📅 Wed, 05 Nov 2025 00:32:07 +0000
 
 </details>
 
 ## 🔥 Trending Repositories
+
+### 📈 Daily Trending
+
+- **[doncheta/FunctionxModifier](https://github.com/doncheta/FunctionxModifier)** ⭐ 1
+  ![None](https://img.shields.io/badge/-None-lightgrey)
+  None
+
+- **[diftappdev/JWT](https://github.com/diftappdev/JWT)** ⭐ 1
+  ![None](https://img.shields.io/badge/-None-lightgrey)
+  Import 
+
+- **[Joaonascc16/Meus_Codigos](https://github.com/Joaonascc16/Meus_Codigos)** ⭐ 1
+  ![None](https://img.shields.io/badge/-None-lightgrey)
+  Todos os codigos que fiz a faço estão salvos aqui
+
+- **[Brian-Schroeder/My-First-Deep-Neural-Network](https://github.com/Brian-Schroeder/My-First-Deep-Neural-Network)** ⭐ 1
+  ![None](https://img.shields.io/badge/-None-lightgrey)
+  This is my first deep neural network
+
+- **[ahmedbadawix77x-gif/-Sunset-Coffee](https://github.com/ahmedbadawix77x-gif/-Sunset-Coffee)** ⭐ 1
+  ![HTML](https://img.shields.io/badge/-HTML-lightgrey)
+  A fully responsive, multi-page café website for "Sunset Coffee" built with HTML, CSS & vanilla JS. Features RTL (Arabic) support, glassmorphism navbar, scroll animations, shine text effects, and a custom JS lightbox gallery. 
+
+- **[kvinch/ProyectoED2](https://github.com/kvinch/ProyectoED2)** ⭐ 1
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  None
+
+- **[IvanAlexGB/vision-de-imagenes](https://github.com/IvanAlexGB/vision-de-imagenes)** ⭐ 1
+  ![None](https://img.shields.io/badge/-None-lightgrey)
+  None
+
+- **[ahmedbadawix77x-gif/Responsive-Flower-Gallery](https://github.com/ahmedbadawix77x-gif/Responsive-Flower-Gallery)** ⭐ 1
+  ![CSS](https://img.shields.io/badge/-CSS-lightgrey)
+   minimal, responsive flower gallery built with HTML & CSS — featuring CSS Grid layout, smooth hover animations, and elegant typography. 🌸 
+
+### 📈 Weekly Trending
+
+- **[diet103/claude-code-infrastructure-showcase](https://github.com/diet103/claude-code-infrastructure-showcase)** ⭐ 3,753
+  ![Shell](https://img.shields.io/badge/-Shell-lightgrey)
+  Examples of my Claude Code infrastructure with skill auto-activation, hooks, and agents
+
+- **[rxliuli/apps.apple.com](https://github.com/rxliuli/apps.apple.com)** ⭐ 2,588
+  ![HTML](https://img.shields.io/badge/-HTML-lightgrey)
+  App Store web version
+
+- **[borndotcom/react-native-godot](https://github.com/borndotcom/react-native-godot)** ⭐ 1,811
+  ![C++](https://img.shields.io/badge/-C++-pink)
+  React Native Godot - Embed Godot Engine in React Native apps
+
+- **[skydoves/compose-stability-analyzer](https://github.com/skydoves/compose-stability-analyzer)** ⭐ 708
+  ![Kotlin](https://img.shields.io/badge/-Kotlin-lightgrey)
+  🦄 Real-time analysis of Jetpack Compose composable functions' stability directly within Android Studio or IntelliJ.
+
+- **[joelseverin/linux-wasm](https://github.com/joelseverin/linux-wasm)** ⭐ 603
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
+  WebAssembly (Wasm) arch support for the Linux kernel
+
+- **[knightnemo/Awesome-World-Models](https://github.com/knightnemo/Awesome-World-Models)** ⭐ 597
+  ![None](https://img.shields.io/badge/-None-lightgrey)
+  A Curated List of Awesome Works in World Modeling, Aiming to Serve as a One-stop Resource for Researchers, Practitioners, and Enthusiasts Interested in World Modeling.
+
+- **[Snowflake-Labs/pg_lake](https://github.com/Snowflake-Labs/pg_lake)** ⭐ 434
+  ![C](https://img.shields.io/badge/-C-lightgrey)
+  pg_lake: Postgres with Iceberg and data lake access
+
+- **[codykociemba/NoLongerEvil-Thermostat](https://github.com/codykociemba/NoLongerEvil-Thermostat)** ⭐ 372
+  ![C](https://img.shields.io/badge/-C-lightgrey)
+  Breathe fresh life into your bricked Nest Gen 1 & 2, now with 100% less evil!
+
+### 📈 Monthly Trending
+
+- **[karpathy/nanochat](https://github.com/karpathy/nanochat)** ⭐ 35,612
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  The best ChatGPT that $100 can buy.
+
+- **[deepseek-ai/DeepSeek-OCR](https://github.com/deepseek-ai/DeepSeek-OCR)** ⭐ 19,497
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  Contexts Optical Compression
+
+- **[toon-format/toon](https://github.com/toon-format/toon)** ⭐ 10,040
+  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
+  🎒 Token-Oriented Object Notation (TOON) – JSON for LLM prompts at half the tokens. Spec, benchmarks & TypeScript implementation.
+
+- **[HKUDS/AI-Trader](https://github.com/HKUDS/AI-Trader)** ⭐ 8,682
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  "AI-Trader: Can AI Beat the Market?" Live Trading: https://ai4trade.ai
+
+- **[NoFxAiOS/nofx](https://github.com/NoFxAiOS/nofx)** ⭐ 6,458
+  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
+  NOFX: Defining the Next-Generation AI Trading Operating System. A multi-exchange Al trading platform(Binance/Hyperliquid/Aster) with multi-Ai competition(deepseek/qwen/claude)self-evolution, and real-time dashboard
+
+- **[obra/superpowers](https://github.com/obra/superpowers)** ⭐ 5,979
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
+  Claude Code superpowers: core skills library
+
+- **[SamsungSAILMontreal/TinyRecursiveModels](https://github.com/SamsungSAILMontreal/TinyRecursiveModels)** ⭐ 5,422
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  None
+
+- **[diet103/claude-code-infrastructure-showcase](https://github.com/diet103/claude-code-infrastructure-showcase)** ⭐ 3,753
+  ![Shell](https://img.shields.io/badge/-Shell-lightgrey)
+  Examples of my Claude Code infrastructure with skill auto-activation, hooks, and agents
 
 ## 🚀 Latest Releases
 
@@ -382,57 +483,57 @@ See [kubernetes-announce@](https://groups.google.com/forum/#!forum/kubernetes-an
 | Skill | Status |
 |-------|--------|
 | Java | 🟢 Proficient |
-| Python | 🔴 Beginner |
-| JavaScript | 🟡 Learning |
+| Python | 🟢 Proficient |
+| JavaScript | 🔴 Beginner |
 | TypeScript | 🟡 Learning |
-| Go | 🟢 Proficient |
+| Go | 🔴 Beginner |
 
 ### Frameworks
 
 | Skill | Status |
 |-------|--------|
-| React | 🟡 Learning |
-| Spring Boot | 🟡 Learning |
+| React | 🟢 Proficient |
+| Spring Boot | 🟢 Proficient |
 | Django | 🟢 Proficient |
-| Node.js | 🟢 Proficient |
-| Next.js | 🟡 Learning |
+| Node.js | 🟡 Learning |
+| Next.js | 🟢 Proficient |
 
 ### Cybersecurity
 
 | Skill | Status |
 |-------|--------|
-| Penetration Testing | 🔴 Beginner |
-| Web Security | 🔴 Beginner |
-| Network Security | 🟢 Proficient |
-| OWASP | 🔴 Beginner |
+| Penetration Testing | 🟢 Proficient |
+| Web Security | 🟢 Proficient |
+| Network Security | 🔴 Beginner |
+| OWASP | ⚪ Planned |
 
 ### Ai Ml
 
 | Skill | Status |
 |-------|--------|
-| Machine Learning | ⚪ Planned |
+| Machine Learning | 🔴 Beginner |
 | Deep Learning | 🟡 Learning |
-| NLP | 🟡 Learning |
-| Computer Vision | 🔴 Beginner |
-| TensorFlow | 🟡 Learning |
-| PyTorch | 🟢 Proficient |
+| NLP | ⚪ Planned |
+| Computer Vision | 🟢 Proficient |
+| TensorFlow | 🔴 Beginner |
+| PyTorch | 🔴 Beginner |
 
 ### Devops
 
 | Skill | Status |
 |-------|--------|
-| Docker | 🟢 Proficient |
-| Kubernetes | 🟢 Proficient |
-| CI/CD | 🟡 Learning |
-| AWS | 🟢 Proficient |
+| Docker | 🟡 Learning |
+| Kubernetes | 🔴 Beginner |
+| CI/CD | 🔴 Beginner |
+| AWS | 🟡 Learning |
 | Azure | 🟢 Proficient |
 
 ### Other
 
 | Skill | Status |
 |-------|--------|
-| Blockchain | ⚪ Planned |
-| Web3 | 🟢 Proficient |
+| Blockchain | 🟡 Learning |
+| Web3 | 🟡 Learning |
 | Cloud Computing | ⚪ Planned |
 
 </details>
@@ -451,7 +552,7 @@ This dashboard is automatically updated every 6 hours using GitHub Actions. The 
 
 <div align="center">
 
-**Last Updated:** November 04, 2025
+**Last Updated:** November 05, 2025
 
 Made with ❤️ and automated with GitHub Actions
 
