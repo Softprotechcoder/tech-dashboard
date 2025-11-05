@@ -20,7 +20,7 @@
 | Metric | Count |
 |--------|-------|
 | 📰 Latest News Articles | 26 |
-| 🔥 Trending Repositories | 45 |
+| 🔥 Trending Repositories | 0 |
 | 🎯 Latest Releases | 10 |
 | 🎯 Learning Goals | 4 |
 
@@ -46,10 +46,16 @@
 
 ### 📑 Hacker News
 
-- **[Epic vs. Google settlement: Opening up Android](https://twitter.com/TimSweeneyEpic/status/1985920786545123613)**
-  *<p>Article URL: <a href="https://twitter.com/TimSweeneyEpic/status/1985920786545123613">https://twitter.com/TimSweeneyEpic/status/1985920786545123613</a></p>
-<p>Comments URL: <a href="https://news.yco...*
-  📅 Wed, 05 Nov 2025 04:12:53 +0000
+- **[Founder in Residence at Woz (San Francisco)](https://news.ycombinator.com/item?id=45821921)**
+  *<p>Comments URL: <a href="https://news.ycombinator.com/item?id=45821921">https://news.ycombinator.com/item?id=45821921</a></p>
+<p>Points: 0</p>
+<p># Comments: 0</p>...*
+  📅 Wed, 05 Nov 2025 12:00:17 +0000
+
+- **[The Hackers Manifesto (The Conscience of a Hacker) (1986)](https://phrack.org/issues/7/3)**
+  *<p>Article URL: <a href="https://phrack.org/issues/7/3">https://phrack.org/issues/7/3</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=45820715">https://news.ycombinator.com/item...*
+  📅 Wed, 05 Nov 2025 08:28:04 +0000
 
 - **[Hypothesis: Property-Based Testing for Python](https://hypothesis.readthedocs.io/en/latest/)**
   *<p>Article URL: <a href="https://hypothesis.readthedocs.io/en/latest/">https://hypothesis.readthedocs.io/en/latest/</a></p>
@@ -60,20 +66,20 @@
   *<p>Article URL: <a href="https://kyle.cascade.family/posts/preventing-kubernetes-from-pulling-the-pause-image-from-the-internet/">https://kyle.cascade.family/posts/preventing-kubernetes-from-pulling-t...*
   📅 Wed, 05 Nov 2025 03:04:58 +0000
 
-- **[What Happened to Piracy? Copyright Enforcement Fades as AI Giants Rise](https://www.leefang.com/p/what-happened-to-piracy-copyright)**
-  *<p>Article URL: <a href="https://www.leefang.com/p/what-happened-to-piracy-copyright">https://www.leefang.com/p/what-happened-to-piracy-copyright</a></p>
-<p>Comments URL: <a href="https://news.ycombin...*
-  📅 Wed, 05 Nov 2025 03:01:59 +0000
-
-- **[Zohran Mamdani wins the New York mayoral race](https://www.nbcnews.com/politics/elections/new-york-city-mayor-election-winner-2025-race-rcna238909)**
-  *<p>Article URL: <a href="https://www.nbcnews.com/politics/elections/new-york-city-mayor-election-winner-2025-race-rcna238909">https://www.nbcnews.com/politics/elections/new-york-city-mayor-election-wi...*
-  📅 Wed, 05 Nov 2025 02:50:06 +0000
+- **[The Microsoft SoftCard for the Apple II: Getting two processors to share memory](https://devblogs.microsoft.com/oldnewthing/20251104-00/?p=111758)**
+  *<p>Article URL: <a href="https://devblogs.microsoft.com/oldnewthing/20251104-00/?p=111758">https://devblogs.microsoft.com/oldnewthing/20251104-00/?p=111758</a></p>
+<p>Comments URL: <a href="https://ne...*
+  📅 Wed, 05 Nov 2025 02:58:25 +0000
 
 - **[Direct File won't happen in 2026, IRS tells states](https://www.nextgov.com/digital-government/2025/11/direct-file-wont-happen-2026-irs-tells-states/409309/)**
   *<p>Article URL: <a href="https://www.nextgov.com/digital-government/2025/11/direct-file-wont-happen-2026-irs-tells-states/409309/">https://www.nextgov.com/digital-government/2025/11/direct-file-wont-h...*
   📅 Wed, 05 Nov 2025 02:30:38 +0000
 
 ### 📑 TechCrunch
+
+- **[Former Meta employees launch a ring to take voice notes and control music](https://techcrunch.com/2025/11/05/former-meta-employees-launch-a-ring-to-take-voice-notes-and-control-music/)**
+  *A raft of voice-based hardware devices have emerged, aimed at companionship, productivity, or personal growth. These include card-shaped devices from Plaud and Pocket; pendants from Friend, Limitless,...*
+  📅 Wed, 05 Nov 2025 11:00:00 +0000
 
 - **[Goldman Sachs doubles down on MoEngage in new round to fuel global expansion](https://techcrunch.com/2025/11/04/goldman-sachs-doubles-down-on-moengage-in-100m-round-to-fuel-global-expansion/)**
   *MoEngage already has customers across 75 countries, with North America being its biggest business driver....*
@@ -95,132 +101,21 @@
   *People Inc. signs an AI licensing deal with Microsoft, which will use its media content in Copilot....*
   📅 Tue, 04 Nov 2025 22:30:28 +0000
 
-- **[Beta Technologies ends first day on NYSE in the green and $1B raised](https://techcrunch.com/2025/11/04/beta-technologies-ends-first-day-on-nyse-in-the-green-and-1b-raised/)**
-  *Beta Technologies' public market debut is a capstone to founder and CEO Kyle Clark's untraditional approach to building an aviation company....*
-  📅 Tue, 04 Nov 2025 22:22:02 +0000
-
 ### 📑 Dev.to
 
-- **[Jeff Su: 4 Next-Level ChatGPT Techniques (Save 15+ Hours Weekly)](https://dev.to/future_ai/jeff-su-4-next-level-chatgpt-techniques-save-15-hours-weekly-h9n)**
-  *<h1>
-  
-  
-  4 Next-Level ChatGPT Techniques (Save 15+ Hours Weekly)
-</h1>
+- **[Building Domain-Driven Design (DDD) Applications with PHP](https://dev.to/patoliyainfotech/building-domain-driven-design-ddd-applications-with-php-3hp4)**
+  *<p>If you've ever worked on an expanding PHP project, you've undoubtedly experienced the agony of features becoming tangled, logic dispersing among levels, and a once-clean codebase gradually becoming...*
+  📅 Wed, 05 Nov 2025 12:10:35 +0000
 
-<p>Jeff Su walks you through four game-changing ChatGPT hacks to stop the endless back-and-forth of prompt refining and cut ...*
-  📅 Wed, 05 Nov 2025 06:05:56 +0000
+- **[🧠 How We Built an AI Code Reviewer That Understands Intent — Not Just Syntax](https://dev.to/anitha_subramanian_4d83c2/how-we-built-an-ai-code-reviewer-that-understands-intent-not-just-syntax-44d2)**
+  *<p><strong>The Problem</strong></p>
 
-- **[Ringer Movies: ‘The Truman Show’ With Bill Simmons, Glen Powell, and Chris Ryan | The Rewatchables](https://dev.to/popcorn_movies/ringer-movies-the-truman-show-with-bill-simmons-glen-powell-and-chris-ryan-the-rewatchables-ekj)**
-  *<p><strong>The Truman Show Rewatchables</strong><br /><br />
-Bill Simmons and Chris Ryan welcome actor Glen Powell to revisit Peter Weir’s 1998 classic starring Jim Carrey, Laura Linney, and Ed Harris...*
-  📅 Wed, 05 Nov 2025 06:00:52 +0000
+<p>Every developer knows the feeling: a pull request sits idle for days, reviewers juggling multiple branches, and small changes creating unexpected regressions.<b...*
+  📅 Wed, 05 Nov 2025 12:08:17 +0000
 
 </details>
 
 ## 🔥 Trending Repositories
-
-### 📈 Daily Trending
-
-- **[Frontrunx/Aviator-Predictor](https://github.com/Frontrunx/Aviator-Predictor)** ⭐ 22
-  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
-  Our downloadable SHA256 analysis tool powers the Aviator predictor, Aviator predictor app, and aviator crash predictor. Available for desktop and as an Aviator predictor APK, it’s designed for research, fairness verification, and safe demo testing
-
-- **[adysec/docx_compressor](https://github.com/adysec/docx_compressor)** ⭐ 11
-  ![Rust](https://img.shields.io/badge/-Rust-brown)
-  一个轻量级的跨平台工具，用于压缩 Word (.docx) 文件中的图片，显著减小文档体积。支持 Windows 与 Linux，拥有简洁的图形化界面。
-
-- **[lshung/readable-rust-code](https://github.com/lshung/readable-rust-code)** ⭐ 7
-  ![None](https://img.shields.io/badge/-None-lightgrey)
-  100 Techniques for Writing Readable Rust Code
-
-- **[Kennethenow1/Connect-Four-Game-](https://github.com/Kennethenow1/Connect-Four-Game-)** ⭐ 6
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
-  A cool project I worked on during my vibe coding class which as its name suggests is a recreation of the connect four game. 
-
-- **[DmitrL-dev/1cai-public](https://github.com/DmitrL-dev/1cai-public)** ⭐ 5
-  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
-  None
-
-- **[renatogroffe/arquitetura-integracoes-2025-11](https://github.com/renatogroffe/arquitetura-integracoes-2025-11)** ⭐ 5
-  ![None](https://img.shields.io/badge/-None-lightgrey)
-  Apresentação sobre Arquitetura de Integrações realizada no dia 04/11/2025. Tecnologias e tópicos abordados: Kubernetes, Docker, Azure DevOps, APIOps, GitOps, Linux, Azure, Apache Camel, Inteligência Artificial...
-
-- **[magictalent/pair-test](https://github.com/magictalent/pair-test)** ⭐ 4
-  ![None](https://img.shields.io/badge/-None-lightgrey)
-  None
-
-- **[SMARSORG/nifti-volume-loader](https://github.com/SMARSORG/nifti-volume-loader)** ⭐ 4
-  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
-  基于cornerstone3D/nifti-volume-loader 进行矩阵转换为正交扫描矩阵
-
-### 📈 Weekly Trending
-
-- **[rxliuli/apps.apple.com](https://github.com/rxliuli/apps.apple.com)** ⭐ 4,134
-  ![HTML](https://img.shields.io/badge/-HTML-lightgrey)
-  App Store web version
-
-- **[diet103/claude-code-infrastructure-showcase](https://github.com/diet103/claude-code-infrastructure-showcase)** ⭐ 3,792
-  ![Shell](https://img.shields.io/badge/-Shell-lightgrey)
-  Examples of my Claude Code infrastructure with skill auto-activation, hooks, and agents
-
-- **[borndotcom/react-native-godot](https://github.com/borndotcom/react-native-godot)** ⭐ 1,854
-  ![C++](https://img.shields.io/badge/-C++-pink)
-  React Native Godot - Embed Godot Engine in React Native apps
-
-- **[skydoves/compose-stability-analyzer](https://github.com/skydoves/compose-stability-analyzer)** ⭐ 718
-  ![Kotlin](https://img.shields.io/badge/-Kotlin-lightgrey)
-  🦄 Real-time analysis of Jetpack Compose composable functions' stability directly within Android Studio or IntelliJ.
-
-- **[joelseverin/linux-wasm](https://github.com/joelseverin/linux-wasm)** ⭐ 645
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
-  WebAssembly (Wasm) arch support for the Linux kernel
-
-- **[knightnemo/Awesome-World-Models](https://github.com/knightnemo/Awesome-World-Models)** ⭐ 607
-  ![None](https://img.shields.io/badge/-None-lightgrey)
-  A Curated List of Awesome Works in World Modeling, Aiming to Serve as a One-stop Resource for Researchers, Practitioners, and Enthusiasts Interested in World Modeling.
-
-- **[Snowflake-Labs/pg_lake](https://github.com/Snowflake-Labs/pg_lake)** ⭐ 540
-  ![C](https://img.shields.io/badge/-C-lightgrey)
-  pg_lake: Postgres with Iceberg and data lake access
-
-- **[liujuntao123/smart-excalidraw-next](https://github.com/liujuntao123/smart-excalidraw-next)** ⭐ 458
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
-  A smart, powerful, and beautiful excalidraw drawing tool.Draw Professional Charts with Natural Language
-
-### 📈 Monthly Trending
-
-- **[karpathy/nanochat](https://github.com/karpathy/nanochat)** ⭐ 35,654
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  The best ChatGPT that $100 can buy.
-
-- **[deepseek-ai/DeepSeek-OCR](https://github.com/deepseek-ai/DeepSeek-OCR)** ⭐ 19,537
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  Contexts Optical Compression
-
-- **[toon-format/toon](https://github.com/toon-format/toon)** ⭐ 10,168
-  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
-  🎒 Token-Oriented Object Notation (TOON) – JSON for LLM prompts at half the tokens. Spec, benchmarks & TypeScript implementation.
-
-- **[HKUDS/AI-Trader](https://github.com/HKUDS/AI-Trader)** ⭐ 8,767
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  "AI-Trader: Can AI Beat the Market?" Live Trading Bench: https://ai4trade.ai
-
-- **[NoFxAiOS/nofx](https://github.com/NoFxAiOS/nofx)** ⭐ 6,548
-  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
-  NOFX: Defining the Next-Generation AI Trading Operating System. A multi-exchange Al trading platform(Binance/Hyperliquid/Aster) with multi-Ai competition(deepseek/qwen/claude)self-evolution, and real-time dashboard
-
-- **[obra/superpowers](https://github.com/obra/superpowers)** ⭐ 6,001
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
-  Claude Code superpowers: core skills library
-
-- **[SamsungSAILMontreal/TinyRecursiveModels](https://github.com/SamsungSAILMontreal/TinyRecursiveModels)** ⭐ 5,423
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  None
-
-- **[rxliuli/apps.apple.com](https://github.com/rxliuli/apps.apple.com)** ⭐ 4,134
-  ![HTML](https://img.shields.io/badge/-HTML-lightgrey)
-  App Store web version
 
 ## 🚀 Latest Releases
 
@@ -487,19 +382,19 @@ See [kubernetes-announce@](https://groups.google.com/forum/#!forum/kubernetes-an
 
 | Skill | Status |
 |-------|--------|
-| Java | 🟢 Proficient |
-| Python | 🟢 Proficient |
-| JavaScript | 🟢 Proficient |
-| TypeScript | ⚪ Planned |
-| Go | 🟡 Learning |
+| Java | 🔴 Beginner |
+| Python | 🟡 Learning |
+| JavaScript | 🟡 Learning |
+| TypeScript | 🟢 Proficient |
+| Go | 🟢 Proficient |
 
 ### Frameworks
 
 | Skill | Status |
 |-------|--------|
-| React | ⚪ Planned |
+| React | 🔴 Beginner |
 | Spring Boot | 🟢 Proficient |
-| Django | 🟡 Learning |
+| Django | 🔴 Beginner |
 | Node.js | ⚪ Planned |
 | Next.js | 🔴 Beginner |
 
@@ -507,19 +402,19 @@ See [kubernetes-announce@](https://groups.google.com/forum/#!forum/kubernetes-an
 
 | Skill | Status |
 |-------|--------|
-| Penetration Testing | ⚪ Planned |
-| Web Security | 🟡 Learning |
+| Penetration Testing | 🟢 Proficient |
+| Web Security | 🟢 Proficient |
 | Network Security | ⚪ Planned |
-| OWASP | 🔴 Beginner |
+| OWASP | 🟡 Learning |
 
 ### Ai Ml
 
 | Skill | Status |
 |-------|--------|
-| Machine Learning | ⚪ Planned |
+| Machine Learning | 🟡 Learning |
 | Deep Learning | 🟢 Proficient |
-| NLP | 🔴 Beginner |
-| Computer Vision | 🔴 Beginner |
+| NLP | 🟢 Proficient |
+| Computer Vision | ⚪ Planned |
 | TensorFlow | 🔴 Beginner |
 | PyTorch | 🟡 Learning |
 
@@ -527,19 +422,19 @@ See [kubernetes-announce@](https://groups.google.com/forum/#!forum/kubernetes-an
 
 | Skill | Status |
 |-------|--------|
-| Docker | 🟡 Learning |
-| Kubernetes | ⚪ Planned |
-| CI/CD | 🔴 Beginner |
-| AWS | 🟢 Proficient |
+| Docker | ⚪ Planned |
+| Kubernetes | 🔴 Beginner |
+| CI/CD | ⚪ Planned |
+| AWS | ⚪ Planned |
 | Azure | 🔴 Beginner |
 
 ### Other
 
 | Skill | Status |
 |-------|--------|
-| Blockchain | 🟢 Proficient |
-| Web3 | 🔴 Beginner |
-| Cloud Computing | 🟢 Proficient |
+| Blockchain | 🟡 Learning |
+| Web3 | 🟡 Learning |
+| Cloud Computing | 🟡 Learning |
 
 </details>
 
