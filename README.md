@@ -46,36 +46,50 @@
 
 ### 📑 Hacker News
 
-- **[I may have found a way to spot U.S. at-sea strikes before they're announced](https://old.reddit.com/r/OSINT/comments/1opjjyv/i_may_have_found_a_way_to_spot_us_atsea_strikes/)**
-  *<p>Article URL: <a href="https://old.reddit.com/r/OSINT/comments/1opjjyv/i_may_have_found_a_way_to_spot_us_atsea_strikes/">https://old.reddit.com/r/OSINT/comments/1opjjyv/i_may_have_found_a_way_to_spo...*
-  📅 Thu, 06 Nov 2025 04:37:45 +0000
+- **[AI Slop vs. OSS Security](https://devansh.bearblog.dev/ai-slop/)**
+  *<p>Article URL: <a href="https://devansh.bearblog.dev/ai-slop/">https://devansh.bearblog.dev/ai-slop/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=45834303">https://news.ycom...*
+  📅 Thu, 06 Nov 2025 12:05:12 +0000
 
-- **[Ratatui – App Showcase](https://ratatui.rs/showcase/apps/)**
-  *<p>Article URL: <a href="https://ratatui.rs/showcase/apps/">https://ratatui.rs/showcase/apps/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=45830829">https://news.ycombinator....*
-  📅 Thu, 06 Nov 2025 02:50:31 +0000
+- **[Show HN: qqqa – a fast, stateless LLM-powered assistant for your shell](https://github.com/matisojka/qqqa)**
+  *<p>I built qqqa as an open-source project, because I was tired of bouncing between shell, ChatGPT / the browser for rather simple commands. It comes with two binaries: qq and qa.<p>qq means "quick que...*
+  📅 Thu, 06 Nov 2025 10:59:42 +0000
 
-- **[Brain-IT: Image Reconstruction from fMRI via Brain-Interaction Transformer](https://AmitZalcher.github.io/Brain-IT/)**
-  *<p>Article URL: <a href="https://AmitZalcher.github.io/Brain-IT/">https://AmitZalcher.github.io/Brain-IT/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=45830808">https://news....*
-  📅 Thu, 06 Nov 2025 02:46:23 +0000
+- **[80year old grandmother becomes oldest woman to finish Ironman World Championship](https://bigislandnow.com/2025/10/19/80-year-old-grandmother-becomes-oldest-woman-to-finish-ironman-world-championship-in-kona/)**
+  *<p>Article URL: <a href="https://bigislandnow.com/2025/10/19/80-year-old-grandmother-becomes-oldest-woman-to-finish-ironman-world-championship-in-kona/">https://bigislandnow.com/2025/10/19/80-year-old...*
+  📅 Thu, 06 Nov 2025 10:47:51 +0000
 
-- **[End of Japanese community](https://support.mozilla.org/en-US/forums/contributors/717446)**
-  *<p>Article URL: <a href="https://support.mozilla.org/en-US/forums/contributors/717446">https://support.mozilla.org/en-US/forums/contributors/717446</a></p>
-<p>Comments URL: <a href="https://news.ycomb...*
-  📅 Thu, 06 Nov 2025 02:38:53 +0000
+- **[Mathematical Exploration and Discovery at Scale](https://terrytao.wordpress.com/2025/11/05/mathematical-exploration-and-discovery-at-scale/)**
+  *<p>Article URL: <a href="https://terrytao.wordpress.com/2025/11/05/mathematical-exploration-and-discovery-at-scale/">https://terrytao.wordpress.com/2025/11/05/mathematical-exploration-and-discovery-at...*
+  📅 Thu, 06 Nov 2025 09:24:42 +0000
 
-- **[Recursive macros in C, demystified (once the ugly crying stops)](https://h4x0r.org/big-mac-ro-attack/)**
-  *<p>Article URL: <a href="https://h4x0r.org/big-mac-ro-attack/">https://h4x0r.org/big-mac-ro-attack/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=45830223">https://news.ycombi...*
-  📅 Thu, 06 Nov 2025 01:09:18 +0000
+- **[What the hell have you built](https://wthhyb.sacha.house/)**
+  *<p>Article URL: <a href="https://wthhyb.sacha.house/">https://wthhyb.sacha.house/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=45832803">https://news.ycombinator.com/item?id=...*
+  📅 Thu, 06 Nov 2025 08:23:46 +0000
 
-- **[The Basic Laws of Human Stupidity (1987) [pdf]](https://gandalf.fee.urv.cat/professors/AntonioQuesada/Curs1920/Cipolla_laws.pdf)**
-  *<p>Article URL: <a href="https://gandalf.fee.urv.cat/professors/AntonioQuesada/Curs1920/Cipolla_laws.pdf">https://gandalf.fee.urv.cat/professors/AntonioQuesada/Curs1920/Cipolla_laws.pdf</a></p>
-<p>Com...*
-  📅 Wed, 05 Nov 2025 22:58:38 +0000
+- **[Actor Programming Language](https://winworldpc.com/product/actor/4x)**
+  *<p>Article URL: <a href="https://winworldpc.com/product/actor/4x">https://winworldpc.com/product/actor/4x</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=45832532">https://news....*
+  📅 Thu, 06 Nov 2025 07:40:44 +0000
 
 ### 📑 TechCrunch
+
+- **[Google Maps upgrades navigation in India with Gemini, safety alerts](https://techcrunch.com/2025/11/06/google-maps-upgrades-navigation-in-india-with-gemini-safety-alerts/)**
+  *India becomes the second market after the U.S. to get Gemini-powered navigation on Google Maps....*
+  📅 Thu, 06 Nov 2025 11:56:51 +0000
+
+- **[Perplexity to pay Snap $400M to power search in Snapchat](https://techcrunch.com/2025/11/06/perplexity-to-pay-snap-400m-to-power-search-in-snapchat/)**
+  *Snap said today that it has signed a deal with AI-powered search engine Perplexity to power a new chatbot. As part of the deal, Perplexity will pay Snap $400 million in cash and equity....*
+  📅 Thu, 06 Nov 2025 11:33:13 +0000
+
+- **[Anker-backed hybrid RV startup Evotrex comes out of stealth](https://techcrunch.com/2025/11/06/anker-backed-hybrid-rv-startup-evotrex-comes-out-of-stealth/)**
+  *Evotrex joins startups like Lightship, Pebble, and Grounded in trying to disrupt the RV market, which is skewing younger....*
+  📅 Thu, 06 Nov 2025 10:00:00 +0000
+
+- **[Ventures Platform, one of Africa’s most active early-stage investors, has raised another $64 million](https://techcrunch.com/2025/11/06/nigeria-backs-ventures-platform-as-seed-fund-hits-64m-first-close/)**
+  *The Lagos-based firm and one of Africa’s most active early-stage investors is targeting a final close of $75 million for its second fund....*
+  📅 Thu, 06 Nov 2025 09:00:00 +0000
 
 - **[Discord’s Family Center update now lets parents monitor weekly purchases](https://techcrunch.com/2025/11/05/discords-family-center-update-now-lets-parents-monitor-weekly-purchases/)**
   *Discord has rolled out updates to its Family Center, giving guardians more insights into their teens&#8217; usage patterns, including purchases, top interactions, and time spent. The goal is to help p...*
@@ -85,40 +99,34 @@
   *Blue Origin's first New Glenn launch in January mostly went well, and now the long-delayed second mission is finally ready for takeoff....*
   📅 Wed, 05 Nov 2025 23:41:51 +0000
 
-- **[Cluely’s Roy Lee hints that viral hype is not enough](https://techcrunch.com/2025/11/05/cluelys-roy-lee-hints-that-viral-hype-is-not-enough/)**
-  *Lee declined to share Cluely's financial metrics just four months after boasting how quickly the startup is growing....*
-  📅 Wed, 05 Nov 2025 21:21:49 +0000
-
-- **[Lucid Motors’ chief engineer leaves after 10 years](https://techcrunch.com/2025/11/05/lucid-motors-chief-engineer-leaves-after-10-years/)**
-  *Eric Bach, who was once the director of engineering at Tesla, is out amid a larger executive shake-up at the company....*
-  📅 Wed, 05 Nov 2025 21:21:15 +0000
-
-- **[Apple nears deal to pay Google $1B annually to power new Siri, report says](https://techcrunch.com/2025/11/05/apple-nears-deal-to-pay-google-1b-annually-to-power-new-siri-report-says/)**
-  *Apple is turning to Google's technology to help revamp Siri and power a slate of upcoming features for the voice assistant....*
-  📅 Wed, 05 Nov 2025 20:37:47 +0000
-
-- **[Pinterest CEO touts open source AI: ‘tremendous performance’ with reduced costs](https://techcrunch.com/2025/11/05/pinterest-ceo-touts-open-source-ai-tremendous-performance-with-reduced-costs/)**
-  *Pinterest CEO Bill Ready says open source AI is offering cost savings to the company, particularly in visual search....*
-  📅 Wed, 05 Nov 2025 19:00:28 +0000
-
 ### 📑 Dev.to
 
-- **[vimconfig: Auto-Setup Vim dengan Backup Otomatis](https://dev.to/wadahkode/vimconfig-auto-setup-vim-dengan-backup-otomatis-2ejg)**
-  *<p>Halo semuanya.</p>
-
-<p>Aku dari Indonesia dan mau share tools konfigurasi Vim yang aku buat. Namanya <strong>VimConfig</strong>, ini bikin setup Vim jadi lebih gampang dan cepat, terutama kalau ser...*
-  📅 Thu, 06 Nov 2025 06:17:55 +0000
-
-- **[Building a Password Checker with Vanilla JS (No Frameworks!)](https://dev.to/cnivargi/building-a-password-checker-with-vanilla-js-no-frameworks-1ofo)**
+- **[Eksploitasi Web Laravel dan Antisipasinya](https://dev.to/ahmadasroni38/eksploitasi-web-laravel-dan-antisipasinya-2g6l)**
   *<h2>
   
   
-  I got locked out of the GST portal for the third time because my password "didn't meet requirements."
+  DAFTAR ISI
 </h2>
 
-<p>No explanation. Just "Invalid password."<br />
-After wasting 30 minutes try...*
-  📅 Thu, 06 Nov 2025 06:14:03 +0000
+<ol>
+<li>Pendahuluan</li>
+<li>Persiapan Environment</li>
+<li>Pertemuan 6: Eksploitasi Dasar</li>
+<li>Pertemuan 7: Eksploitasi Lanjutan</li>
+<li>Kesimpulan</li>
+</ol>
+
+
+
+...*
+  📅 Thu, 06 Nov 2025 12:15:12 +0000
+
+- **[El propósito del Testing](https://dev.to/joshuacba08/el-proposito-del-testing-5571)**
+  *<p>En ingeniería de software, <strong>todo programa funciona… hasta que deja de hacerlo</strong>.<br /><br />
+Y cuando lo hace, rara vez avisa.</p>
+
+<p>El testing no existe para demostrar que algo “an...*
+  📅 Thu, 06 Nov 2025 12:14:33 +0000
 
 </details>
 
@@ -126,103 +134,103 @@ After wasting 30 minutes try...*
 
 ### 📈 Daily Trending
 
-- **[rebeccarichards153152/ai-video](https://github.com/rebeccarichards153152/ai-video)** ⭐ 18
+- **[zOombR9twist522fire/defi-arbitrage-bot-deployer](https://github.com/zOombR9twist522fire/defi-arbitrage-bot-deployer)** ⭐ 65
   ![None](https://img.shields.io/badge/-None-lightgrey)
-  https://tinyurl.com/sffrqq  Directory of NSFW AI Video and Image Generators.
+  Autonomous DeFi arbitrage bot deployer. Deploy smart contract on Ethereum, Arbitrum, Polygon. AI-powered trading with 0.001% commission.
 
-- **[haidragon/test-apps.apple.com-main](https://github.com/haidragon/test-apps.apple.com-main)** ⭐ 17
+- **[akinloluwami/domains-lookup](https://github.com/akinloluwami/domains-lookup)** ⭐ 44
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
+  None
+
+- **[qy527145/acemcp](https://github.com/qy527145/acemcp)** ⭐ 43
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  一个将ACE(Augment Context Engine) 做成MCP的项目
+
+- **[w296488320/AndroidDeviceRiskBookData](https://github.com/w296488320/AndroidDeviceRiskBookData)** ⭐ 39
+  ![C++](https://img.shields.io/badge/-C++-pink)
+  《Android设备指纹攻防&风险环境检测》资料
+
+- **[ShepAlderson/copilot-orchestra](https://github.com/ShepAlderson/copilot-orchestra)** ⭐ 37
+  ![None](https://img.shields.io/badge/-None-lightgrey)
+  None
+
+- **[haidragon/test-apps.apple.com-main](https://github.com/haidragon/test-apps.apple.com-main)** ⭐ 32
   ![None](https://img.shields.io/badge/-None-lightgrey)
   直接能运行的
 
-- **[saikishore8106/Tableau](https://github.com/saikishore8106/Tableau)** ⭐ 15
+- **[saikishore8106/Tableau](https://github.com/saikishore8106/Tableau)** ⭐ 16
   ![None](https://img.shields.io/badge/-None-lightgrey)
   None
 
-- **[5771323ykwkp/bisheAII](https://github.com/5771323ykwkp/bisheAII)** ⭐ 8
-  ![None](https://img.shields.io/badge/-None-lightgrey)
-  毕设大全，8000套成品，专业定制，靠谱工作室一手单，无中介，靠谱信任可靠，分阶段付费，从开题到毕业~MySQL Java开发 毕业设计 实战项目【附源码、文档报告、代码讲解】选题定题、开题报告、任务书、程序开发、文档编写和辅导、文档降重、程序讲解、答辩辅导等
-
-- **[joeteerawit/apps.apple.com](https://github.com/joeteerawit/apps.apple.com)** ⭐ 7
+- **[joeteerawit/apps.apple.com](https://github.com/joeteerawit/apps.apple.com)** ⭐ 14
   ![None](https://img.shields.io/badge/-None-lightgrey)
   None
-
-- **[wuzhijing88/TM](https://github.com/wuzhijing88/TM)** ⭐ 6
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  自动化软件
-
-- **[w296488320/AndroidChooseDemo](https://github.com/w296488320/AndroidChooseDemo)** ⭐ 6
-  ![C](https://img.shields.io/badge/-C-lightgrey)
-  choose demo
-
-- **[w296488320/AndroidDeviceRiskBookData](https://github.com/w296488320/AndroidDeviceRiskBookData)** ⭐ 5
-  ![None](https://img.shields.io/badge/-None-lightgrey)
-  《Android设备指纹攻防&风险环境检测》资料
 
 ### 📈 Weekly Trending
 
-- **[borndotcom/react-native-godot](https://github.com/borndotcom/react-native-godot)** ⭐ 2,039
+- **[borndotcom/react-native-godot](https://github.com/borndotcom/react-native-godot)** ⭐ 2,067
   ![C++](https://img.shields.io/badge/-C++-pink)
   React Native Godot - Embed Godot Engine in React Native apps
 
-- **[Snowflake-Labs/pg_lake](https://github.com/Snowflake-Labs/pg_lake)** ⭐ 917
+- **[Snowflake-Labs/pg_lake](https://github.com/Snowflake-Labs/pg_lake)** ⭐ 956
   ![C](https://img.shields.io/badge/-C-lightgrey)
   pg_lake: Postgres with Iceberg and data lake access
 
-- **[skydoves/compose-stability-analyzer](https://github.com/skydoves/compose-stability-analyzer)** ⭐ 767
+- **[skydoves/compose-stability-analyzer](https://github.com/skydoves/compose-stability-analyzer)** ⭐ 784
   ![Kotlin](https://img.shields.io/badge/-Kotlin-lightgrey)
   🦄 Real-time analysis of Jetpack Compose composable functions' stability directly within Android Studio or IntelliJ.
 
-- **[joelseverin/linux-wasm](https://github.com/joelseverin/linux-wasm)** ⭐ 730
+- **[joelseverin/linux-wasm](https://github.com/joelseverin/linux-wasm)** ⭐ 740
   ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
   WebAssembly (Wasm) arch support for the Linux kernel
 
-- **[knightnemo/Awesome-World-Models](https://github.com/knightnemo/Awesome-World-Models)** ⭐ 649
+- **[knightnemo/Awesome-World-Models](https://github.com/knightnemo/Awesome-World-Models)** ⭐ 660
   ![None](https://img.shields.io/badge/-None-lightgrey)
   A Curated List of Awesome Works in World Modeling, Aiming to Serve as a One-stop Resource for Researchers, Practitioners, and Enthusiasts Interested in World Modeling.
 
-- **[codykociemba/NoLongerEvil-Thermostat](https://github.com/codykociemba/NoLongerEvil-Thermostat)** ⭐ 522
+- **[codykociemba/NoLongerEvil-Thermostat](https://github.com/codykociemba/NoLongerEvil-Thermostat)** ⭐ 542
   ![C](https://img.shields.io/badge/-C-lightgrey)
   Breathe fresh life into your bricked Nest Gen 1 & 2, now with 100% less evil!
 
-- **[Weather-OS/WineGDK](https://github.com/Weather-OS/WineGDK)** ⭐ 356
-  ![C](https://img.shields.io/badge/-C-lightgrey)
-  GDK Components and *some* WinRT Components ported to Wine.
+- **[rakkiez/sora2-watermark-remover](https://github.com/rakkiez/sora2-watermark-remover)** ⭐ 390
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  Sora 2 AI generated videos gentle watermark remover
 
-- **[hcavarsan/pipedash](https://github.com/hcavarsan/pipedash)** ⭐ 347
+- **[hcavarsan/pipedash](https://github.com/hcavarsan/pipedash)** ⭐ 370
   ![Rust](https://img.shields.io/badge/-Rust-brown)
   A desktop app for managing CI/CD pipelines from multiple providers
 
 ### 📈 Monthly Trending
 
-- **[karpathy/nanochat](https://github.com/karpathy/nanochat)** ⭐ 35,823
+- **[karpathy/nanochat](https://github.com/karpathy/nanochat)** ⭐ 35,875
   ![Python](https://img.shields.io/badge/-Python-blue)
   The best ChatGPT that $100 can buy.
 
-- **[deepseek-ai/DeepSeek-OCR](https://github.com/deepseek-ai/DeepSeek-OCR)** ⭐ 19,647
+- **[deepseek-ai/DeepSeek-OCR](https://github.com/deepseek-ai/DeepSeek-OCR)** ⭐ 19,682
   ![Python](https://img.shields.io/badge/-Python-blue)
   Contexts Optical Compression
 
-- **[toon-format/toon](https://github.com/toon-format/toon)** ⭐ 10,767
+- **[toon-format/toon](https://github.com/toon-format/toon)** ⭐ 10,949
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   🎒 Token-Oriented Object Notation (TOON) – JSON for LLM prompts at half the tokens. Spec, benchmarks & TypeScript implementation.
 
-- **[HKUDS/AI-Trader](https://github.com/HKUDS/AI-Trader)** ⭐ 8,924
+- **[HKUDS/AI-Trader](https://github.com/HKUDS/AI-Trader)** ⭐ 8,974
   ![Python](https://img.shields.io/badge/-Python-blue)
   "AI-Trader: Can AI Beat the Market?" Live Trading Bench: https://ai4trade.ai
 
-- **[NoFxAiOS/nofx](https://github.com/NoFxAiOS/nofx)** ⭐ 6,774
+- **[NoFxAiOS/nofx](https://github.com/NoFxAiOS/nofx)** ⭐ 6,836
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   NOFX: Defining the Next-Generation AI Trading Operating System. A multi-exchange Al trading platform(Binance/Hyperliquid/Aster) with multi-Ai competition(deepseek/qwen/claude)self-evolution, and real-time dashboard
 
-- **[obra/superpowers](https://github.com/obra/superpowers)** ⭐ 6,122
+- **[obra/superpowers](https://github.com/obra/superpowers)** ⭐ 6,148
   ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
   Claude Code superpowers: core skills library
 
-- **[diet103/claude-code-infrastructure-showcase](https://github.com/diet103/claude-code-infrastructure-showcase)** ⭐ 3,926
+- **[diet103/claude-code-infrastructure-showcase](https://github.com/diet103/claude-code-infrastructure-showcase)** ⭐ 3,972
   ![Shell](https://img.shields.io/badge/-Shell-lightgrey)
   Examples of my Claude Code infrastructure with skill auto-activation, hooks, and agents
 
-- **[yusufkaraaslan/Skill_Seekers](https://github.com/yusufkaraaslan/Skill_Seekers)** ⭐ 3,450
+- **[yusufkaraaslan/Skill_Seekers](https://github.com/yusufkaraaslan/Skill_Seekers)** ⭐ 3,477
   ![Python](https://img.shields.io/badge/-Python-blue)
   Convert documentation websites, GitHub repositories, and PDFs into Claude AI skills with automatic conflict detection
 
@@ -496,10 +504,10 @@ See [kubernetes-announce@](https://groups.google.com/forum/#!forum/kubernetes-an
 
 | Skill | Status |
 |-------|--------|
-| Java | 🔴 Beginner |
-| Python | 🔴 Beginner |
-| JavaScript | 🔴 Beginner |
-| TypeScript | 🟡 Learning |
+| Java | 🟡 Learning |
+| Python | ⚪ Planned |
+| JavaScript | 🟡 Learning |
+| TypeScript | 🔴 Beginner |
 | Go | 🟢 Proficient |
 
 ### Frameworks
@@ -507,18 +515,18 @@ See [kubernetes-announce@](https://groups.google.com/forum/#!forum/kubernetes-an
 | Skill | Status |
 |-------|--------|
 | React | ⚪ Planned |
-| Spring Boot | ⚪ Planned |
-| Django | 🔴 Beginner |
-| Node.js | ⚪ Planned |
+| Spring Boot | 🟡 Learning |
+| Django | 🟢 Proficient |
+| Node.js | 🟡 Learning |
 | Next.js | 🟡 Learning |
 
 ### Cybersecurity
 
 | Skill | Status |
 |-------|--------|
-| Penetration Testing | 🔴 Beginner |
-| Web Security | ⚪ Planned |
-| Network Security | ⚪ Planned |
+| Penetration Testing | 🟡 Learning |
+| Web Security | 🟢 Proficient |
+| Network Security | 🟢 Proficient |
 | OWASP | 🟡 Learning |
 
 ### Ai Ml
@@ -527,8 +535,8 @@ See [kubernetes-announce@](https://groups.google.com/forum/#!forum/kubernetes-an
 |-------|--------|
 | Machine Learning | ⚪ Planned |
 | Deep Learning | 🟢 Proficient |
-| NLP | ⚪ Planned |
-| Computer Vision | 🟢 Proficient |
+| NLP | 🔴 Beginner |
+| Computer Vision | 🔴 Beginner |
 | TensorFlow | 🟢 Proficient |
 | PyTorch | ⚪ Planned |
 
@@ -536,19 +544,19 @@ See [kubernetes-announce@](https://groups.google.com/forum/#!forum/kubernetes-an
 
 | Skill | Status |
 |-------|--------|
-| Docker | ⚪ Planned |
-| Kubernetes | 🟡 Learning |
-| CI/CD | 🟢 Proficient |
-| AWS | 🔴 Beginner |
+| Docker | 🟡 Learning |
+| Kubernetes | 🔴 Beginner |
+| CI/CD | 🟡 Learning |
+| AWS | 🟡 Learning |
 | Azure | 🟢 Proficient |
 
 ### Other
 
 | Skill | Status |
 |-------|--------|
-| Blockchain | ⚪ Planned |
-| Web3 | ⚪ Planned |
-| Cloud Computing | 🔴 Beginner |
+| Blockchain | 🟡 Learning |
+| Web3 | 🟢 Proficient |
+| Cloud Computing | 🟢 Proficient |
 
 </details>
 
