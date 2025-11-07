@@ -46,33 +46,34 @@
 
 ### 📑 Hacker News
 
-- **[Game design is simple](https://www.raphkoster.com/2025/11/03/game-design-is-simple-actually/)**
-  *<p>Article URL: <a href="https://www.raphkoster.com/2025/11/03/game-design-is-simple-actually/">https://www.raphkoster.com/2025/11/03/game-design-is-simple-actually/</a></p>
-<p>Comments URL: <a href="...*
-  📅 Thu, 06 Nov 2025 22:24:23 +0000
+- **[Dead Framework Theory](https://aifoc.us/dead-framework-theory/)**
+  *<p>Article URL: <a href="https://aifoc.us/dead-framework-theory/">https://aifoc.us/dead-framework-theory/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=45843220">https://news....*
+  📅 Fri, 07 Nov 2025 03:17:19 +0000
 
-- **[The Learning Loop and LLMs](https://martinfowler.com/articles/llm-learning-loop.html)**
-  *<p>Article URL: <a href="https://martinfowler.com/articles/llm-learning-loop.html">https://martinfowler.com/articles/llm-learning-loop.html</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.c...*
-  📅 Thu, 06 Nov 2025 22:05:58 +0000
+- **[A Fond Farewell from Farmers' Almanac](https://www.farmersalmanac.com/fond-farewell-from-farmers-almanac)**
+  *<p>Article URL: <a href="https://www.farmersalmanac.com/fond-farewell-from-farmers-almanac">https://www.farmersalmanac.com/fond-farewell-from-farmers-almanac</a></p>
+<p>Comments URL: <a href="https://...*
+  📅 Fri, 07 Nov 2025 03:01:32 +0000
 
-- **[Hightouch (YC S19) Is Hiring](https://job-boards.greenhouse.io/hightouch/jobs/5542602004)**
-  *<p>Article URL: <a href="https://job-boards.greenhouse.io/hightouch/jobs/5542602004">https://job-boards.greenhouse.io/hightouch/jobs/5542602004</a></p>
-<p>Comments URL: <a href="https://news.ycombinat...*
-  📅 Thu, 06 Nov 2025 21:23:46 +0000
+- **[A prvalue is not a temporary](https://blog.knatten.org/2025/10/31/a-prvalue-is-not-a-temporary/)**
+  *<p>Article URL: <a href="https://blog.knatten.org/2025/10/31/a-prvalue-is-not-a-temporary/">https://blog.knatten.org/2025/10/31/a-prvalue-is-not-a-temporary/</a></p>
+<p>Comments URL: <a href="https://...*
+  📅 Fri, 07 Nov 2025 02:57:02 +0000
 
-- **[Universe's expansion 'is now slowing, not speeding up'](https://ras.ac.uk/news-and-press/research-highlights/universes-expansion-now-slowing-not-speeding)**
-  *<p>Article URL: <a href="https://ras.ac.uk/news-and-press/research-highlights/universes-expansion-now-slowing-not-speeding">https://ras.ac.uk/news-and-press/research-highlights/universes-expansion-now...*
-  📅 Thu, 06 Nov 2025 20:45:39 +0000
+- **[HTML Slides with notes](https://nbd.neocities.org/slidepresentation/Slide%20presentation%20about%20slides)**
+  *<p>Article URL: <a href="https://nbd.neocities.org/slidepresentation/Slide%20presentation%20about%20slides">https://nbd.neocities.org/slidepresentation/Slide%20presentation%20about%20slides</a></p>
+<p...*
+  📅 Fri, 07 Nov 2025 01:57:02 +0000
 
-- **[You should write an agent](https://fly.io/blog/everyone-write-an-agent/)**
-  *<p>Article URL: <a href="https://fly.io/blog/everyone-write-an-agent/">https://fly.io/blog/everyone-write-an-agent/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=45840088">htt...*
-  📅 Thu, 06 Nov 2025 20:37:06 +0000
+- **[$40M 3D printing factory open for business on Guam, will produce parts for Navy](https://www.guampdn.com/news/40m-3d-printing-factory-now-open-for-business-on-guam-will-produce-parts-of-navy/article_0bff0888-b760-4eb4-868a-9bcb46eb507f.html)**
+  *<p>Article URL: <a href="https://www.guampdn.com/news/40m-3d-printing-factory-now-open-for-business-on-guam-will-produce-parts-of-navy/article_0bff0888-b760-4eb4-868a-9bcb46eb507f.html">https://www.gu...*
+  📅 Fri, 07 Nov 2025 01:38:34 +0000
 
-- **[Two billion email addresses were exposed](https://www.troyhunt.com/2-billion-email-addresses-were-exposed-and-we-indexed-them-all-in-have-i-been-pwned/)**
-  *<p>Article URL: <a href="https://www.troyhunt.com/2-billion-email-addresses-were-exposed-and-we-indexed-them-all-in-have-i-been-pwned/">https://www.troyhunt.com/2-billion-email-addresses-were-exposed-...*
-  📅 Thu, 06 Nov 2025 20:20:23 +0000
+- **[A Note on Fil-C](https://graydon2.dreamwidth.org/320265.html)**
+  *<p>Article URL: <a href="https://graydon2.dreamwidth.org/320265.html">https://graydon2.dreamwidth.org/320265.html</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=45842494">https...*
+  📅 Fri, 07 Nov 2025 00:59:58 +0000
 
 ### 📑 TechCrunch
 
@@ -102,21 +103,16 @@
 
 ### 📑 Dev.to
 
-- **[MathCanvas: Intrinsic Visual Chain-of-Thought for Multimodal MathematicalReasoning](https://dev.to/paperium/mathcanvas-intrinsic-visual-chain-of-thought-for-multimodal-mathematicalreasoning-2e61)**
-  *<h3>
-  
-  
-  How AI Learned to Sketch Math Like a Human
-</h3>
+- **[Jeff Su: 4 ChatGPT Hacks that Cut My Workload in Half](https://dev.to/future_ai/jeff-su-4-chatgpt-hacks-that-cut-my-workload-in-half-3039)**
+  *<p><strong>4 ChatGPT Hacks to Halve Your Workload</strong><br /><br />
+Fed up with endless prompt tweaking? This guide rolls out four killer techniques—Prompt Reversal, the 5-Minute Amplifier, Red Tea...*
+  📅 Fri, 07 Nov 2025 06:06:15 +0000
 
-<p>Ever wondered why a computer can chat but still fumbles when asked to solve a geometry puzzle? <strong>Researchers have created</stron...*
-  📅 Fri, 07 Nov 2025 00:30:31 +0000
+- **[Beyond Static: Building Interactive Depth Charts with React, D3.js, and Real-time Data](https://dev.to/ffteamnames/beyond-static-building-interactive-depth-charts-with-react-d3js-and-real-time-data-12o7)**
+  *<p>Hey dev.to community,</p>
 
-- **[dev diary 20251106](https://dev.to/hirooka_kazuya_d7f37d3cde/dev-diary-20251106-3576)**
-  *<p>the basic explaination of AWS Amplify is :</p>
-
-<p>AWS Amplify is a tool and service platform from Amazon Web Services (AWS) that helps developers build, deploy, and manage web and mobile applicati...*
-  📅 Fri, 07 Nov 2025 00:12:00 +0000
+<p>For sports enthusiasts and analysts, a static depth chart is just the starting point. The real value comes from understanding player roles, tracking subtle changes, an...*
+  📅 Fri, 07 Nov 2025 06:02:55 +0000
 
 </details>
 
@@ -124,61 +120,61 @@
 
 ### 📈 Daily Trending
 
-- **[tq-o/weather_trade_bot](https://github.com/tq-o/weather_trade_bot)** ⭐ 2
+- **[saildrag/DiscordRAT](https://github.com/saildrag/DiscordRAT)** ⭐ 49
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  Discord Remote Administration Tool fully written in Python3
+
+- **[fastgs/FastGS](https://github.com/fastgs/FastGS)** ⭐ 14
   ![None](https://img.shields.io/badge/-None-lightgrey)
-  None
+  Offical code for "FastGS: Training 3D Gaussian Splatting in 100 Seconds"
 
-- **[PyroghostX/ForgottenMovies](https://github.com/PyroghostX/ForgottenMovies)** ⭐ 2
+- **[LUNGMEN-GOV/MaixFace](https://github.com/LUNGMEN-GOV/MaixFace)** ⭐ 11
   ![Python](https://img.shields.io/badge/-Python-blue)
-  App built to remind users about media they requested but never watched. Required Plex, Tautulli and Overseerr.
+  MaixFace is an AI-based face recognition access control system built on Maixduino, featuring remote enrollment, low-power wake/sleep management, and HTTP event triggers for IoT automation.
 
-- **[Bonaita/projeto-A3](https://github.com/Bonaita/projeto-A3)** ⭐ 1
-  ![Java](https://img.shields.io/badge/-Java-orange)
+- **[1994qrq/2025doubao-free-api](https://github.com/1994qrq/2025doubao-free-api)** ⭐ 11
+  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   None
 
-- **[juanHerediaPro/Lista-de-Tareas-Full-Stack-con-JavaScript-Puro-y-Firestore](https://github.com/juanHerediaPro/Lista-de-Tareas-Full-Stack-con-JavaScript-Puro-y-Firestore)** ⭐ 1
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
-  Desarrollada con JavaScript (Vanilla), HTML, y CSS puros. Implementa el Backend as a Service (BaaS) de Firebase para:  Autenticación segura (Email/Google).  Cloud Firestore con datos en Tiempo Real.  Reglas de seguridad que garantizan que cada usuario solo vea sus propias tareas. Ideal para aprender los fundamentos de Firebase. 
+- **[Cam-VSRG/VSCam-2.75](https://github.com/Cam-VSRG/VSCam-2.75)** ⭐ 5
+  ![Haxe](https://img.shields.io/badge/-Haxe-lightgrey)
+  None
 
-- **[saloniParihar/Vector-class](https://github.com/saloniParihar/Vector-class)** ⭐ 1
-  ![Java](https://img.shields.io/badge/-Java-orange)
-  "This java program demonstrate the use of the vector class form the java.util package
-
-- **[corgiTrax/ruohanz.github.io](https://github.com/corgiTrax/ruohanz.github.io)** ⭐ 1
-  ![HTML](https://img.shields.io/badge/-HTML-lightgrey)
-  Personal Website
-
-- **[IVB22/python-programs](https://github.com/IVB22/python-programs)** ⭐ 1
+- **[HukBross257/BlockLogger](https://github.com/HukBross257/BlockLogger)** ⭐ 4
   ![Python](https://img.shields.io/badge/-Python-blue)
-  Python programming questions and solutions covering basic programming, OOP, NumPy, Pandas, and data visualization
+  Registro de logs de Minecraft no Discord – script python
 
-- **[reireymond/GamingPack](https://github.com/reireymond/GamingPack)** ⭐ 1
-  ![PowerShell](https://img.shields.io/badge/-PowerShell-lightgrey)
+- **[ZUEL-ZhiruiChen/GeoHGN](https://github.com/ZUEL-ZhiruiChen/GeoHGN)** ⭐ 3
+  ![Python](https://img.shields.io/badge/-Python-blue)
   None
+
+- **[Akbarhon07/python-dasturlash](https://github.com/Akbarhon07/python-dasturlash)** ⭐ 3
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  Git bilan ishlashni o'rganish.2-proekt
 
 ### 📈 Weekly Trending
 
-- **[borndotcom/react-native-godot](https://github.com/borndotcom/react-native-godot)** ⭐ 2,127
+- **[borndotcom/react-native-godot](https://github.com/borndotcom/react-native-godot)** ⭐ 2,171
   ![C++](https://img.shields.io/badge/-C++-pink)
   React Native Godot - Embed Godot Engine in React Native apps
 
-- **[Snowflake-Labs/pg_lake](https://github.com/Snowflake-Labs/pg_lake)** ⭐ 997
+- **[Snowflake-Labs/pg_lake](https://github.com/Snowflake-Labs/pg_lake)** ⭐ 1,014
   ![C](https://img.shields.io/badge/-C-lightgrey)
   pg_lake: Postgres with Iceberg and data lake access
 
-- **[skydoves/compose-stability-analyzer](https://github.com/skydoves/compose-stability-analyzer)** ⭐ 799
+- **[skydoves/compose-stability-analyzer](https://github.com/skydoves/compose-stability-analyzer)** ⭐ 801
   ![Kotlin](https://img.shields.io/badge/-Kotlin-lightgrey)
   🦄 Real-time analysis of Jetpack Compose composable functions' stability directly within Android Studio or IntelliJ.
 
-- **[codykociemba/NoLongerEvil-Thermostat](https://github.com/codykociemba/NoLongerEvil-Thermostat)** ⭐ 572
+- **[codykociemba/NoLongerEvil-Thermostat](https://github.com/codykociemba/NoLongerEvil-Thermostat)** ⭐ 584
   ![C](https://img.shields.io/badge/-C-lightgrey)
   Breathe fresh life into your bricked Nest Gen 1 & 2, now with 100% less evil!
 
-- **[openpcc/openpcc](https://github.com/openpcc/openpcc)** ⭐ 488
+- **[openpcc/openpcc](https://github.com/openpcc/openpcc)** ⭐ 538
   ![Go](https://img.shields.io/badge/-Go-cyan)
   An open-source framework for provably private AI inference
 
-- **[rakkiez/sora2-watermark-remover](https://github.com/rakkiez/sora2-watermark-remover)** ⭐ 391
+- **[rakkiez/sora2-watermark-remover](https://github.com/rakkiez/sora2-watermark-remover)** ⭐ 392
   ![Python](https://img.shields.io/badge/-Python-blue)
   Sora 2 AI generated videos gentle watermark remover
 
@@ -186,41 +182,41 @@
   ![Jupyter Notebook](https://img.shields.io/badge/-Jupyter Notebook-lightgrey)
   None
 
-- **[LaravelDaily/Large-Laravel-PHP-Project-Examples](https://github.com/LaravelDaily/Large-Laravel-PHP-Project-Examples)** ⭐ 233
+- **[LaravelDaily/Large-Laravel-PHP-Project-Examples](https://github.com/LaravelDaily/Large-Laravel-PHP-Project-Examples)** ⭐ 245
   ![None](https://img.shields.io/badge/-None-lightgrey)
   None
 
 ### 📈 Monthly Trending
 
-- **[karpathy/nanochat](https://github.com/karpathy/nanochat)** ⭐ 35,937
+- **[karpathy/nanochat](https://github.com/karpathy/nanochat)** ⭐ 35,958
   ![Python](https://img.shields.io/badge/-Python-blue)
   The best ChatGPT that $100 can buy.
 
-- **[deepseek-ai/DeepSeek-OCR](https://github.com/deepseek-ai/DeepSeek-OCR)** ⭐ 19,720
+- **[deepseek-ai/DeepSeek-OCR](https://github.com/deepseek-ai/DeepSeek-OCR)** ⭐ 19,748
   ![Python](https://img.shields.io/badge/-Python-blue)
   Contexts Optical Compression
 
-- **[toon-format/toon](https://github.com/toon-format/toon)** ⭐ 11,259
+- **[toon-format/toon](https://github.com/toon-format/toon)** ⭐ 11,324
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   🎒 Token-Oriented Object Notation (TOON) – JSON for LLM prompts at half the tokens. Spec, benchmarks & TypeScript implementation.
 
-- **[HKUDS/AI-Trader](https://github.com/HKUDS/AI-Trader)** ⭐ 9,003
+- **[HKUDS/AI-Trader](https://github.com/HKUDS/AI-Trader)** ⭐ 9,032
   ![Python](https://img.shields.io/badge/-Python-blue)
   "AI-Trader: Can AI Beat the Market?" Live Trading Bench: https://ai4trade.ai
 
-- **[NoFxAiOS/nofx](https://github.com/NoFxAiOS/nofx)** ⭐ 6,893
+- **[NoFxAiOS/nofx](https://github.com/NoFxAiOS/nofx)** ⭐ 6,936
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   NOFX: Defining the Next-Generation AI Trading Operating System. A multi-exchange Al trading platform(Binance/Hyperliquid/Aster) with multi-Ai competition(deepseek/qwen/claude)self-evolution, and real-time dashboard
 
-- **[obra/superpowers](https://github.com/obra/superpowers)** ⭐ 6,215
+- **[obra/superpowers](https://github.com/obra/superpowers)** ⭐ 6,228
   ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
   Claude Code superpowers: core skills library
 
-- **[diet103/claude-code-infrastructure-showcase](https://github.com/diet103/claude-code-infrastructure-showcase)** ⭐ 4,002
+- **[diet103/claude-code-infrastructure-showcase](https://github.com/diet103/claude-code-infrastructure-showcase)** ⭐ 4,033
   ![Shell](https://img.shields.io/badge/-Shell-lightgrey)
   Examples of my Claude Code infrastructure with skill auto-activation, hooks, and agents
 
-- **[yusufkaraaslan/Skill_Seekers](https://github.com/yusufkaraaslan/Skill_Seekers)** ⭐ 3,498
+- **[yusufkaraaslan/Skill_Seekers](https://github.com/yusufkaraaslan/Skill_Seekers)** ⭐ 3,517
   ![Python](https://img.shields.io/badge/-Python-blue)
   Convert documentation websites, GitHub repositories, and PDFs into Claude AI skills with automatic conflict detection
 
@@ -494,19 +490,19 @@ See [kubernetes-announce@](https://groups.google.com/forum/#!forum/kubernetes-an
 
 | Skill | Status |
 |-------|--------|
-| Java | ⚪ Planned |
-| Python | 🔴 Beginner |
-| JavaScript | 🟡 Learning |
-| TypeScript | ⚪ Planned |
-| Go | 🔴 Beginner |
+| Java | 🟡 Learning |
+| Python | ⚪ Planned |
+| JavaScript | ⚪ Planned |
+| TypeScript | 🔴 Beginner |
+| Go | ⚪ Planned |
 
 ### Frameworks
 
 | Skill | Status |
 |-------|--------|
-| React | 🔴 Beginner |
+| React | 🟡 Learning |
 | Spring Boot | 🟢 Proficient |
-| Django | 🟢 Proficient |
+| Django | ⚪ Planned |
 | Node.js | 🟡 Learning |
 | Next.js | 🟡 Learning |
 
@@ -514,37 +510,37 @@ See [kubernetes-announce@](https://groups.google.com/forum/#!forum/kubernetes-an
 
 | Skill | Status |
 |-------|--------|
-| Penetration Testing | 🟢 Proficient |
-| Web Security | ⚪ Planned |
-| Network Security | 🟡 Learning |
-| OWASP | 🟢 Proficient |
+| Penetration Testing | ⚪ Planned |
+| Web Security | 🔴 Beginner |
+| Network Security | ⚪ Planned |
+| OWASP | 🟡 Learning |
 
 ### Ai Ml
 
 | Skill | Status |
 |-------|--------|
-| Machine Learning | 🔴 Beginner |
+| Machine Learning | ⚪ Planned |
 | Deep Learning | 🔴 Beginner |
 | NLP | 🔴 Beginner |
-| Computer Vision | ⚪ Planned |
-| TensorFlow | 🟡 Learning |
-| PyTorch | 🔴 Beginner |
+| Computer Vision | 🟡 Learning |
+| TensorFlow | ⚪ Planned |
+| PyTorch | 🟡 Learning |
 
 ### Devops
 
 | Skill | Status |
 |-------|--------|
-| Docker | 🟢 Proficient |
-| Kubernetes | 🟢 Proficient |
-| CI/CD | 🟢 Proficient |
-| AWS | 🟢 Proficient |
-| Azure | 🟢 Proficient |
+| Docker | 🟡 Learning |
+| Kubernetes | 🔴 Beginner |
+| CI/CD | 🟡 Learning |
+| AWS | 🟡 Learning |
+| Azure | 🟡 Learning |
 
 ### Other
 
 | Skill | Status |
 |-------|--------|
-| Blockchain | 🔴 Beginner |
+| Blockchain | 🟡 Learning |
 | Web3 | 🟡 Learning |
 | Cloud Computing | ⚪ Planned |
 
