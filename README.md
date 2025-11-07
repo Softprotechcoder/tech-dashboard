@@ -7,7 +7,7 @@
 ![AI & ML](https://img.shields.io/badge/-AI%20&%20ML-blue) ![CyberSecurity](https://img.shields.io/badge/-CyberSecurity-red) ![Full Stack Development](https://img.shields.io/badge/-Full%20Stack%20Development-green)
 
 [![Auto Update](https://img.shields.io/badge/Auto%20Update-Enabled-success)](https://github.com/yourusername/tech-dashboard/actions)
-[![Last Updated](https://img.shields.io/badge/Last%20Updated-November 06, 2025-blue)](https://github.com/yourusername/tech-dashboard)
+[![Last Updated](https://img.shields.io/badge/Last%20Updated-November 07, 2025-blue)](https://github.com/yourusername/tech-dashboard)
 
 *Automatically updated every 6 hours with the latest tech news, trending repositories, and learning resources.*
 
@@ -46,78 +46,77 @@
 
 ### 📑 Hacker News
 
-- **[OpenDesk – a flexible all-in-one office suite for the public sector](https://www.opendesk.eu/de)**
-  *<p>Article URL: <a href="https://www.opendesk.eu/de">https://www.opendesk.eu/de</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=45838239">https://news.ycombinator.com/item?id=45...*
-  📅 Thu, 06 Nov 2025 18:04:28 +0000
+- **[Game design is simple](https://www.raphkoster.com/2025/11/03/game-design-is-simple-actually/)**
+  *<p>Article URL: <a href="https://www.raphkoster.com/2025/11/03/game-design-is-simple-actually/">https://www.raphkoster.com/2025/11/03/game-design-is-simple-actually/</a></p>
+<p>Comments URL: <a href="...*
+  📅 Thu, 06 Nov 2025 22:24:23 +0000
 
-- **[Swift on FreeBSD Preview](https://forums.swift.org/t/swift-on-freebsd-preview/83064)**
-  *<p>Article URL: <a href="https://forums.swift.org/t/swift-on-freebsd-preview/83064">https://forums.swift.org/t/swift-on-freebsd-preview/83064</a></p>
-<p>Comments URL: <a href="https://news.ycombinator...*
-  📅 Thu, 06 Nov 2025 17:37:49 +0000
+- **[The Learning Loop and LLMs](https://martinfowler.com/articles/llm-learning-loop.html)**
+  *<p>Article URL: <a href="https://martinfowler.com/articles/llm-learning-loop.html">https://martinfowler.com/articles/llm-learning-loop.html</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.c...*
+  📅 Thu, 06 Nov 2025 22:05:58 +0000
 
-- **[The English language doesn't exist – it's just French that's badly pronounced](https://www.frenchclasses.com/tablettes-de-chocolat/the-english-language-doesnt-exist-its-just-french-thats-badly-pronounced/)**
-  *<p>Article URL: <a href="https://www.frenchclasses.com/tablettes-de-chocolat/the-english-language-doesnt-exist-its-just-french-thats-badly-pronounced/">https://www.frenchclasses.com/tablettes-de-choco...*
-  📅 Thu, 06 Nov 2025 17:06:47 +0000
+- **[Hightouch (YC S19) Is Hiring](https://job-boards.greenhouse.io/hightouch/jobs/5542602004)**
+  *<p>Article URL: <a href="https://job-boards.greenhouse.io/hightouch/jobs/5542602004">https://job-boards.greenhouse.io/hightouch/jobs/5542602004</a></p>
+<p>Comments URL: <a href="https://news.ycombinat...*
+  📅 Thu, 06 Nov 2025 21:23:46 +0000
 
-- **[The Parallel Search API](https://parallel.ai/blog/introducing-parallel-search)**
-  *<p>Article URL: <a href="https://parallel.ai/blog/introducing-parallel-search">https://parallel.ai/blog/introducing-parallel-search</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?...*
-  📅 Thu, 06 Nov 2025 17:04:41 +0000
+- **[Universe's expansion 'is now slowing, not speeding up'](https://ras.ac.uk/news-and-press/research-highlights/universes-expansion-now-slowing-not-speeding)**
+  *<p>Article URL: <a href="https://ras.ac.uk/news-and-press/research-highlights/universes-expansion-now-slowing-not-speeding">https://ras.ac.uk/news-and-press/research-highlights/universes-expansion-now...*
+  📅 Thu, 06 Nov 2025 20:45:39 +0000
 
-- **[Senior BizOps at Artie (San Francisco)](https://www.ycombinator.com/companies/artie/jobs/gqANVBc-senior-business-operations)**
-  *<p>Article URL: <a href="https://www.ycombinator.com/companies/artie/jobs/gqANVBc-senior-business-operations">https://www.ycombinator.com/companies/artie/jobs/gqANVBc-senior-business-operations</a></p...*
-  📅 Thu, 06 Nov 2025 17:00:03 +0000
+- **[You should write an agent](https://fly.io/blog/everyone-write-an-agent/)**
+  *<p>Article URL: <a href="https://fly.io/blog/everyone-write-an-agent/">https://fly.io/blog/everyone-write-an-agent/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=45840088">htt...*
+  📅 Thu, 06 Nov 2025 20:37:06 +0000
 
-- **[ICC ditches Microsoft 365 for openDesk](https://www.binnenlandsbestuur.nl/digitaal/internationaal-strafhof-neemt-afscheid-van-microsoft-365)**
-  *<p>Article URL: <a href="https://www.binnenlandsbestuur.nl/digitaal/internationaal-strafhof-neemt-afscheid-van-microsoft-365">https://www.binnenlandsbestuur.nl/digitaal/internationaal-strafhof-neemt-a...*
-  📅 Thu, 06 Nov 2025 16:57:55 +0000
+- **[Two billion email addresses were exposed](https://www.troyhunt.com/2-billion-email-addresses-were-exposed-and-we-indexed-them-all-in-have-i-been-pwned/)**
+  *<p>Article URL: <a href="https://www.troyhunt.com/2-billion-email-addresses-were-exposed-and-we-indexed-them-all-in-have-i-been-pwned/">https://www.troyhunt.com/2-billion-email-addresses-were-exposed-...*
+  📅 Thu, 06 Nov 2025 20:20:23 +0000
 
 ### 📑 TechCrunch
 
-- **[Subtle Computing’s voice isolation models help computers understand you in noisy environments](https://techcrunch.com/2025/11/06/subtle-computings-voice-isolation-models-help-computers-understand-you-in-noisy-environments/)**
-  *Subtle Computing has raised $6M in seed funding to build voice isolation models. The startup plans to announce a hardware device next year....*
-  📅 Thu, 06 Nov 2025 17:57:51 +0000
+- **[Tesla delays reveal of production Roadster 2 to April Fools’ Day](https://techcrunch.com/2025/11/06/tesla-delays-reveal-of-production-roadster-2-to-april-fools-day/)**
+  *Musk said he picked the date so he "could say I was just kidding" if it changes again. He had spent months teasing a reveal by the end of this year....*
+  📅 Thu, 06 Nov 2025 23:57:12 +0000
 
-- **[Italian political consultant says he was targeted with Paragon spyware](https://techcrunch.com/2025/11/06/italian-political-consultant-says-he-was-targeted-with-paragon-spyware/)**
-  *WhatsApp notified the consultant, who works for left-wing politicians, that his phone was targeted with spyware made by Paragon....*
-  📅 Thu, 06 Nov 2025 17:35:30 +0000
+- **[Chris Sacca’s VC firm is raising a second nuclear fusion fund](https://techcrunch.com/2025/11/06/chris-saccas-vc-firm-is-raising-a-second-nuclear-fusion-fund/)**
+  *With fusion advances showing real promise, Lowercarbon Capital plans to double down....*
+  📅 Thu, 06 Nov 2025 23:33:05 +0000
 
-- **[Mastodon’s latest software update brings quote posts to all server operators](https://techcrunch.com/2025/11/06/mastodons-latest-software-update-brings-quote-posts-to-all-server-operators/)**
-  *Mastodon's latest software version brings quote posts with added controls to all servers....*
-  📅 Thu, 06 Nov 2025 15:43:52 +0000
+- **[Tesla to begin Cybercab production in April, Musk claims](https://techcrunch.com/2025/11/06/tesla-to-begin-cybercab-production-in-april-musk-claims/)**
+  *Elon Musk said he expects Tesla to be able to put all the Cybercabs it builds on the road, and thanked Waymo for "paving the path."...*
+  📅 Thu, 06 Nov 2025 23:11:12 +0000
 
-- **[Peloton recalls 833,000 bikes after reports of injuries](https://techcrunch.com/2025/11/06/peloton-recalls-833000-bikes-after-reports-of-injuries/)**
-  *The Consumer Product Safety Commission is warning Peloton users to stop using the affected bikes immediately....*
-  📅 Thu, 06 Nov 2025 15:35:23 +0000
+- **[Accel backs Uber rival Rapido as Prosus boosts stake](https://techcrunch.com/2025/11/06/accel-backs-uber-rival-rapido-as-prosus-boosts-stake/)**
+  *TVS Motor booked a 152% return as it sold its Rapido stake to Accel and Prosus. Founded in 2015, Rapido has grown into a major player in India's ride-hailing market, competing with Uber, Ola, and inDr...*
+  📅 Thu, 06 Nov 2025 22:12:18 +0000
 
-- **[Why Benchmark made a rare crypto bet on trading app Fomo, with $17M Series A](https://techcrunch.com/2025/11/06/why-benchmark-made-a-rare-crypto-bet-on-trading-app-fomo-with-17m-series-a/)**
-  *The founders of Fomo, a consumer crypto trading app that launched in May, took an unusual route to raising capital....*
-  📅 Thu, 06 Nov 2025 14:00:00 +0000
+- **[Grand Theft Auto VI is delayed — again](https://techcrunch.com/2025/11/06/grand-theft-auto-vi-is-delayed-again/)**
+  *Perhaps one of the most anticipated video games of all time, GTA VI is now slated for a November 19, 2026, release....*
+  📅 Thu, 06 Nov 2025 22:02:24 +0000
 
-- **[Spotify now lets you see weekly listening stats](https://techcrunch.com/2025/11/06/spotify-now-lets-you-see-weekly-listening-stats/)**
-  *Spotify is adding a new feature called "Listening stats" that will show users weekly numbers about their listening habits....*
-  📅 Thu, 06 Nov 2025 14:00:00 +0000
+- **[Tesla shareholders approve Elon Musk’s $1T pay package](https://techcrunch.com/2025/11/06/tesla-shareholders-approve-elon-musks-1t-pay-package/)**
+  *The proposal received more than 75% approval. Musk can earn the $1 trillion in shares over the next 10 years if Tesla hits a number of milestones....*
+  📅 Thu, 06 Nov 2025 21:58:15 +0000
 
 ### 📑 Dev.to
 
-- **[Untitled](https://dev.to/adil_ibrahim_f476901385ab/untitled-7oe)**
-  *<p>Check out this Pen I made!</p>
-
-<p>
-
-</p>...*
-  📅 Thu, 06 Nov 2025 18:15:43 +0000
-
-- **[Transforming Engineering Culture in a 300-Person Company](https://dev.to/gauravratnawat/transforming-engineering-culture-in-a-300-person-company-35l)**
+- **[MathCanvas: Intrinsic Visual Chain-of-Thought for Multimodal MathematicalReasoning](https://dev.to/paperium/mathcanvas-intrinsic-visual-chain-of-thought-for-multimodal-mathematicalreasoning-2e61)**
   *<h3>
   
   
-  🚀 Transforming Engineering Culture in a 300-Person Company
+  How AI Learned to Sketch Math Like a Human
 </h3>
 
-<p>A few months ago, I worked with a small company (~300 people) that had reached a breaking point in its tech journey.</...*
-  📅 Thu, 06 Nov 2025 18:15:17 +0000
+<p>Ever wondered why a computer can chat but still fumbles when asked to solve a geometry puzzle? <strong>Researchers have created</stron...*
+  📅 Fri, 07 Nov 2025 00:30:31 +0000
+
+- **[dev diary 20251106](https://dev.to/hirooka_kazuya_d7f37d3cde/dev-diary-20251106-3576)**
+  *<p>the basic explaination of AWS Amplify is :</p>
+
+<p>AWS Amplify is a tool and service platform from Amazon Web Services (AWS) that helps developers build, deploy, and manage web and mobile applicati...*
+  📅 Fri, 07 Nov 2025 00:12:00 +0000
 
 </details>
 
@@ -125,103 +124,103 @@
 
 ### 📈 Daily Trending
 
-- **[qy527145/acemcp](https://github.com/qy527145/acemcp)** ⭐ 108
+- **[tq-o/weather_trade_bot](https://github.com/tq-o/weather_trade_bot)** ⭐ 2
+  ![None](https://img.shields.io/badge/-None-lightgrey)
+  None
+
+- **[PyroghostX/ForgottenMovies](https://github.com/PyroghostX/ForgottenMovies)** ⭐ 2
   ![Python](https://img.shields.io/badge/-Python-blue)
-  一个将ACE(Augment Context Engine) 做成MCP的项目
+  App built to remind users about media they requested but never watched. Required Plex, Tautulli and Overseerr.
 
-- **[akinloluwami/domains-lookup](https://github.com/akinloluwami/domains-lookup)** ⭐ 103
+- **[Bonaita/projeto-A3](https://github.com/Bonaita/projeto-A3)** ⭐ 1
+  ![Java](https://img.shields.io/badge/-Java-orange)
+  None
+
+- **[juanHerediaPro/Lista-de-Tareas-Full-Stack-con-JavaScript-Puro-y-Firestore](https://github.com/juanHerediaPro/Lista-de-Tareas-Full-Stack-con-JavaScript-Puro-y-Firestore)** ⭐ 1
   ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
-  None
+  Desarrollada con JavaScript (Vanilla), HTML, y CSS puros. Implementa el Backend as a Service (BaaS) de Firebase para:  Autenticación segura (Email/Google).  Cloud Firestore con datos en Tiempo Real.  Reglas de seguridad que garantizan que cada usuario solo vea sus propias tareas. Ideal para aprender los fundamentos de Firebase. 
 
-- **[zOombR9twist522fire/defi-arbitrage-bot-deployer](https://github.com/zOombR9twist522fire/defi-arbitrage-bot-deployer)** ⭐ 71
-  ![None](https://img.shields.io/badge/-None-lightgrey)
-  Autonomous DeFi arbitrage bot deployer. Deploy smart contract on Ethereum, Arbitrum, Polygon. AI-powered trading with 0.001% commission.
+- **[saloniParihar/Vector-class](https://github.com/saloniParihar/Vector-class)** ⭐ 1
+  ![Java](https://img.shields.io/badge/-Java-orange)
+  "This java program demonstrate the use of the vector class form the java.util package
 
-- **[ShepAlderson/copilot-orchestra](https://github.com/ShepAlderson/copilot-orchestra)** ⭐ 58
-  ![None](https://img.shields.io/badge/-None-lightgrey)
-  None
-
-- **[haidragon/test-apps.apple.com-main](https://github.com/haidragon/test-apps.apple.com-main)** ⭐ 54
-  ![None](https://img.shields.io/badge/-None-lightgrey)
-  直接能运行的
-
-- **[w296488320/AndroidDeviceRiskBookData](https://github.com/w296488320/AndroidDeviceRiskBookData)** ⭐ 44
-  ![C++](https://img.shields.io/badge/-C++-pink)
-  《Android设备指纹攻防&风险环境检测》资料
-
-- **[HildaM/apps.apple.com-archive](https://github.com/HildaM/apps.apple.com-archive)** ⭐ 30
+- **[corgiTrax/ruohanz.github.io](https://github.com/corgiTrax/ruohanz.github.io)** ⭐ 1
   ![HTML](https://img.shields.io/badge/-HTML-lightgrey)
-  apps.apple.com archive
+  Personal Website
 
-- **[joeteerawit/apps.apple.com](https://github.com/joeteerawit/apps.apple.com)** ⭐ 23
-  ![None](https://img.shields.io/badge/-None-lightgrey)
+- **[IVB22/python-programs](https://github.com/IVB22/python-programs)** ⭐ 1
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  Python programming questions and solutions covering basic programming, OOP, NumPy, Pandas, and data visualization
+
+- **[reireymond/GamingPack](https://github.com/reireymond/GamingPack)** ⭐ 1
+  ![PowerShell](https://img.shields.io/badge/-PowerShell-lightgrey)
   None
 
 ### 📈 Weekly Trending
 
-- **[borndotcom/react-native-godot](https://github.com/borndotcom/react-native-godot)** ⭐ 2,106
+- **[borndotcom/react-native-godot](https://github.com/borndotcom/react-native-godot)** ⭐ 2,127
   ![C++](https://img.shields.io/badge/-C++-pink)
   React Native Godot - Embed Godot Engine in React Native apps
 
-- **[Snowflake-Labs/pg_lake](https://github.com/Snowflake-Labs/pg_lake)** ⭐ 980
+- **[Snowflake-Labs/pg_lake](https://github.com/Snowflake-Labs/pg_lake)** ⭐ 997
   ![C](https://img.shields.io/badge/-C-lightgrey)
   pg_lake: Postgres with Iceberg and data lake access
 
-- **[skydoves/compose-stability-analyzer](https://github.com/skydoves/compose-stability-analyzer)** ⭐ 795
+- **[skydoves/compose-stability-analyzer](https://github.com/skydoves/compose-stability-analyzer)** ⭐ 799
   ![Kotlin](https://img.shields.io/badge/-Kotlin-lightgrey)
   🦄 Real-time analysis of Jetpack Compose composable functions' stability directly within Android Studio or IntelliJ.
 
-- **[joelseverin/linux-wasm](https://github.com/joelseverin/linux-wasm)** ⭐ 755
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
-  WebAssembly (Wasm) arch support for the Linux kernel
-
-- **[knightnemo/Awesome-World-Models](https://github.com/knightnemo/Awesome-World-Models)** ⭐ 667
-  ![None](https://img.shields.io/badge/-None-lightgrey)
-  A Curated List of Awesome Works in World Modeling, Aiming to Serve as a One-stop Resource for Researchers, Practitioners, and Enthusiasts Interested in World Modeling.
-
-- **[codykociemba/NoLongerEvil-Thermostat](https://github.com/codykociemba/NoLongerEvil-Thermostat)** ⭐ 560
+- **[codykociemba/NoLongerEvil-Thermostat](https://github.com/codykociemba/NoLongerEvil-Thermostat)** ⭐ 572
   ![C](https://img.shields.io/badge/-C-lightgrey)
   Breathe fresh life into your bricked Nest Gen 1 & 2, now with 100% less evil!
 
-- **[rakkiez/sora2-watermark-remover](https://github.com/rakkiez/sora2-watermark-remover)** ⭐ 390
+- **[openpcc/openpcc](https://github.com/openpcc/openpcc)** ⭐ 488
+  ![Go](https://img.shields.io/badge/-Go-cyan)
+  An open-source framework for provably private AI inference
+
+- **[rakkiez/sora2-watermark-remover](https://github.com/rakkiez/sora2-watermark-remover)** ⭐ 391
   ![Python](https://img.shields.io/badge/-Python-blue)
   Sora 2 AI generated videos gentle watermark remover
 
-- **[hcavarsan/pipedash](https://github.com/hcavarsan/pipedash)** ⭐ 379
-  ![Rust](https://img.shields.io/badge/-Rust-brown)
-  A desktop app for managing CI/CD pipelines from multiple providers
+- **[Infatoshi/all-of-it](https://github.com/Infatoshi/all-of-it)** ⭐ 251
+  ![Jupyter Notebook](https://img.shields.io/badge/-Jupyter Notebook-lightgrey)
+  None
+
+- **[LaravelDaily/Large-Laravel-PHP-Project-Examples](https://github.com/LaravelDaily/Large-Laravel-PHP-Project-Examples)** ⭐ 233
+  ![None](https://img.shields.io/badge/-None-lightgrey)
+  None
 
 ### 📈 Monthly Trending
 
-- **[karpathy/nanochat](https://github.com/karpathy/nanochat)** ⭐ 35,909
+- **[karpathy/nanochat](https://github.com/karpathy/nanochat)** ⭐ 35,937
   ![Python](https://img.shields.io/badge/-Python-blue)
   The best ChatGPT that $100 can buy.
 
-- **[deepseek-ai/DeepSeek-OCR](https://github.com/deepseek-ai/DeepSeek-OCR)** ⭐ 19,709
+- **[deepseek-ai/DeepSeek-OCR](https://github.com/deepseek-ai/DeepSeek-OCR)** ⭐ 19,720
   ![Python](https://img.shields.io/badge/-Python-blue)
   Contexts Optical Compression
 
-- **[toon-format/toon](https://github.com/toon-format/toon)** ⭐ 11,160
+- **[toon-format/toon](https://github.com/toon-format/toon)** ⭐ 11,259
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   🎒 Token-Oriented Object Notation (TOON) – JSON for LLM prompts at half the tokens. Spec, benchmarks & TypeScript implementation.
 
-- **[HKUDS/AI-Trader](https://github.com/HKUDS/AI-Trader)** ⭐ 8,998
+- **[HKUDS/AI-Trader](https://github.com/HKUDS/AI-Trader)** ⭐ 9,003
   ![Python](https://img.shields.io/badge/-Python-blue)
   "AI-Trader: Can AI Beat the Market?" Live Trading Bench: https://ai4trade.ai
 
-- **[NoFxAiOS/nofx](https://github.com/NoFxAiOS/nofx)** ⭐ 6,877
+- **[NoFxAiOS/nofx](https://github.com/NoFxAiOS/nofx)** ⭐ 6,893
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   NOFX: Defining the Next-Generation AI Trading Operating System. A multi-exchange Al trading platform(Binance/Hyperliquid/Aster) with multi-Ai competition(deepseek/qwen/claude)self-evolution, and real-time dashboard
 
-- **[obra/superpowers](https://github.com/obra/superpowers)** ⭐ 6,181
+- **[obra/superpowers](https://github.com/obra/superpowers)** ⭐ 6,215
   ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
   Claude Code superpowers: core skills library
 
-- **[diet103/claude-code-infrastructure-showcase](https://github.com/diet103/claude-code-infrastructure-showcase)** ⭐ 3,988
+- **[diet103/claude-code-infrastructure-showcase](https://github.com/diet103/claude-code-infrastructure-showcase)** ⭐ 4,002
   ![Shell](https://img.shields.io/badge/-Shell-lightgrey)
   Examples of my Claude Code infrastructure with skill auto-activation, hooks, and agents
 
-- **[yusufkaraaslan/Skill_Seekers](https://github.com/yusufkaraaslan/Skill_Seekers)** ⭐ 3,486
+- **[yusufkaraaslan/Skill_Seekers](https://github.com/yusufkaraaslan/Skill_Seekers)** ⭐ 3,498
   ![Python](https://img.shields.io/badge/-Python-blue)
   Convert documentation websites, GitHub repositories, and PDFs into Claude AI skills with automatic conflict detection
 
@@ -495,59 +494,59 @@ See [kubernetes-announce@](https://groups.google.com/forum/#!forum/kubernetes-an
 
 | Skill | Status |
 |-------|--------|
-| Java | 🔴 Beginner |
+| Java | ⚪ Planned |
 | Python | 🔴 Beginner |
-| JavaScript | 🔴 Beginner |
-| TypeScript | 🟡 Learning |
-| Go | ⚪ Planned |
+| JavaScript | 🟡 Learning |
+| TypeScript | ⚪ Planned |
+| Go | 🔴 Beginner |
 
 ### Frameworks
 
 | Skill | Status |
 |-------|--------|
-| React | 🟢 Proficient |
+| React | 🔴 Beginner |
 | Spring Boot | 🟢 Proficient |
-| Django | 🔴 Beginner |
-| Node.js | 🟢 Proficient |
-| Next.js | 🟢 Proficient |
+| Django | 🟢 Proficient |
+| Node.js | 🟡 Learning |
+| Next.js | 🟡 Learning |
 
 ### Cybersecurity
 
 | Skill | Status |
 |-------|--------|
-| Penetration Testing | 🔴 Beginner |
+| Penetration Testing | 🟢 Proficient |
 | Web Security | ⚪ Planned |
-| Network Security | ⚪ Planned |
-| OWASP | 🟡 Learning |
+| Network Security | 🟡 Learning |
+| OWASP | 🟢 Proficient |
 
 ### Ai Ml
 
 | Skill | Status |
 |-------|--------|
 | Machine Learning | 🔴 Beginner |
-| Deep Learning | ⚪ Planned |
-| NLP | 🟡 Learning |
-| Computer Vision | 🟡 Learning |
-| TensorFlow | 🟢 Proficient |
-| PyTorch | 🟡 Learning |
+| Deep Learning | 🔴 Beginner |
+| NLP | 🔴 Beginner |
+| Computer Vision | ⚪ Planned |
+| TensorFlow | 🟡 Learning |
+| PyTorch | 🔴 Beginner |
 
 ### Devops
 
 | Skill | Status |
 |-------|--------|
 | Docker | 🟢 Proficient |
-| Kubernetes | 🔴 Beginner |
-| CI/CD | ⚪ Planned |
-| AWS | 🔴 Beginner |
-| Azure | 🔴 Beginner |
+| Kubernetes | 🟢 Proficient |
+| CI/CD | 🟢 Proficient |
+| AWS | 🟢 Proficient |
+| Azure | 🟢 Proficient |
 
 ### Other
 
 | Skill | Status |
 |-------|--------|
-| Blockchain | 🟢 Proficient |
-| Web3 | 🟢 Proficient |
-| Cloud Computing | 🟡 Learning |
+| Blockchain | 🔴 Beginner |
+| Web3 | 🟡 Learning |
+| Cloud Computing | ⚪ Planned |
 
 </details>
 
@@ -565,7 +564,7 @@ This dashboard is automatically updated every 6 hours using GitHub Actions. The 
 
 <div align="center">
 
-**Last Updated:** November 06, 2025
+**Last Updated:** November 07, 2025
 
 Made with ❤️ and automated with GitHub Actions
 
