@@ -46,34 +46,33 @@
 
 ### 📑 Hacker News
 
-- **[Oddest ChatGPT leaks yet: Cringey chat logs found in Google Analytics tool](https://arstechnica.com/tech-policy/2025/11/oddest-chatgpt-leaks-yet-cringey-chat-logs-found-in-google-analytics-tool/)**
-  *<p>Article URL: <a href="https://arstechnica.com/tech-policy/2025/11/oddest-chatgpt-leaks-yet-cringey-chat-logs-found-in-google-analytics-tool/">https://arstechnica.com/tech-policy/2025/11/oddest-chat...*
-  📅 Sat, 08 Nov 2025 03:54:30 +0000
+- **[Cekura (YC F24) Is Hiring](https://news.ycombinator.com/item?id=45856069)**
+  *<p>Comments URL: <a href="https://news.ycombinator.com/item?id=45856069">https://news.ycombinator.com/item?id=45856069</a></p>
+<p>Points: 0</p>
+<p># Comments: 0</p>...*
+  📅 Sat, 08 Nov 2025 12:00:50 +0000
 
-- **[Local First Htmx](https://elijahm.com/posts/local_first_htmx/)**
-  *<p>Article URL: <a href="https://elijahm.com/posts/local_first_htmx/">https://elijahm.com/posts/local_first_htmx/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=45853536">https...*
-  📅 Sat, 08 Nov 2025 02:27:48 +0000
+- **[Copy button added to Stack Overflow](https://meta.stackexchange.com/questions/414573/results-of-the-october-2025-community-asks-sprint-copy-button-for-code-blocks)**
+  *<p>Article URL: <a href="https://meta.stackexchange.com/questions/414573/results-of-the-october-2025-community-asks-sprint-copy-button-for-code-blocks">https://meta.stackexchange.com/questions/414573/...*
+  📅 Sat, 08 Nov 2025 11:35:04 +0000
 
-- **[Running a 68060 CPU in Quadra 650](https://github.com/ZigZagJoe/Macintosh-Q650-68060)**
-  *<p>Article URL: <a href="https://github.com/ZigZagJoe/Macintosh-Q650-68060">https://github.com/ZigZagJoe/Macintosh-Q650-68060</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=458...*
-  📅 Sat, 08 Nov 2025 01:18:12 +0000
+- **[My friends and I accidentally faked the Ryzen 7 9700X3D leaks](https://old.reddit.com/r/pcmasterrace/comments/1orc6jl/my_friends_and_i_accidentally_faked_the_ryzen_7/)**
+  *<p>Article URL: <a href="https://old.reddit.com/r/pcmasterrace/comments/1orc6jl/my_friends_and_i_accidentally_faked_the_ryzen_7/">https://old.reddit.com/r/pcmasterrace/comments/1orc6jl/my_friends_and_...*
+  📅 Sat, 08 Nov 2025 11:27:56 +0000
 
-- **[Mullvad: Shutting down our search proxy Leta](https://mullvad.net/en/blog/shutting-down-our-search-proxy-leta)**
-  *<p>Article URL: <a href="https://mullvad.net/en/blog/shutting-down-our-search-proxy-leta">https://mullvad.net/en/blog/shutting-down-our-search-proxy-leta</a></p>
-<p>Comments URL: <a href="https://news...*
-  📅 Sat, 08 Nov 2025 00:37:36 +0000
+- **[A rats to riches story: Larry the Downing Street cat finds place in TV spotlight](https://www.theguardian.com/politics/2025/nov/08/a-rats-to-riches-story-larry-the-downing-street-cat-finds-place-in-tv-spotlight)**
+  *<p>Article URL: <a href="https://www.theguardian.com/politics/2025/nov/08/a-rats-to-riches-story-larry-the-downing-street-cat-finds-place-in-tv-spotlight">https://www.theguardian.com/politics/2025/nov...*
+  📅 Sat, 08 Nov 2025 09:58:09 +0000
 
-- **[Immutable Software Deploys Using ZFS Jails on FreeBSD](https://conradresearch.com/articles/immutable-software-deploy-zfs-jails)**
-  *<p>Article URL: <a href="https://conradresearch.com/articles/immutable-software-deploy-zfs-jails">https://conradresearch.com/articles/immutable-software-deploy-zfs-jails</a></p>
-<p>Comments URL: <a hr...*
-  📅 Sat, 08 Nov 2025 00:21:45 +0000
+- **[Making Democracy Work: Fixing and Simplifying Egalitarian Paxos](https://arxiv.org/abs/2511.02743)**
+  *<p>Article URL: <a href="https://arxiv.org/abs/2511.02743">https://arxiv.org/abs/2511.02743</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=45854862">https://news.ycombinator.co...*
+  📅 Sat, 08 Nov 2025 07:29:35 +0000
 
-- **[Snapchat open-sources Valdi a cross-platform UI framework](https://github.com/Snapchat/Valdi)**
-  *<p>Article URL: <a href="https://github.com/Snapchat/Valdi">https://github.com/Snapchat/Valdi</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=45852854">https://news.ycombinator....*
-  📅 Sat, 08 Nov 2025 00:14:50 +0000
+- **[Apple's "notarisation" – blocking software freedom of developers and users](https://fsfe.org/news/2025/news-20251105-01.en.html)**
+  *<p>Article URL: <a href="https://fsfe.org/news/2025/news-20251105-01.en.html">https://fsfe.org/news/2025/news-20251105-01.en.html</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id...*
+  📅 Sat, 08 Nov 2025 05:37:08 +0000
 
 ### 📑 TechCrunch
 
@@ -103,15 +102,24 @@
 
 ### 📑 Dev.to
 
-- **[Common Manual Testing Techniques](https://dev.to/pon_pandian_b9a552f746eff/common-manual-testing-techniques-2adp)**
-  *<p>Manual testing remains a crucial part of software quality assurance, even as automation and AI transform the industry. Human testers provide context, curiosity, and empathy—traits that machines sti...*
-  📅 Sat, 08 Nov 2025 06:11:04 +0000
+- **[How to Set Up AWS Cost Explorer (and Why It’s Not Enough)](https://dev.to/cloudwiseteam/how-to-set-up-aws-cost-explorer-and-why-its-not-enough-45hg)**
+  *<p>Managing AWS spend starts with visibility — and AWS Cost Explorer is often the first tool teams reach for. It’s powerful, free to start, and gives you a high-level view of where your money goes.  <...*
+  📅 Sat, 08 Nov 2025 12:16:45 +0000
 
-- **[Jeff Su: 4 ChatGPT Hacks that Cut My Workload in Half](https://dev.to/future_ai/jeff-su-4-chatgpt-hacks-that-cut-my-workload-in-half-2b43)**
-  *<p><strong>4 ChatGPT Hacks to Cut Your Workload in Half</strong></p>
+- **[Python basics - Day 22](https://dev.to/ian_b838138a27a917398d181/python-basics-day-22-35i)**
+  *<h2>
+  
+  
+  <strong>Day 22 – OOP Basics: Class &amp; Object</strong>
+</h2>
 
-<p>Jeff Su breaks down four game-changing tricks: reverse-engineer your best prompts for consistent results, use the 5-Minute Ampl...*
-  📅 Sat, 08 Nov 2025 06:07:47 +0000
+<p><strong>Project:</strong> Build a “Student Management App” using Python classes and objects.</p>
+
+
+
+
+<p><strong>01. Lear...*
+  📅 Sat, 08 Nov 2025 12:10:53 +0000
 
 </details>
 
@@ -119,103 +127,103 @@
 
 ### 📈 Daily Trending
 
-- **[steipete/agent-scripts](https://github.com/steipete/agent-scripts)** ⭐ 16
+- **[steipete/agent-scripts](https://github.com/steipete/agent-scripts)** ⭐ 52
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   Scripts for agents, shared between my repositories.
 
-- **[nezafepaxejo62/ai-video](https://github.com/nezafepaxejo62/ai-video)** ⭐ 13
+- **[ditte64mexank3fo/valorant-party-manager](https://github.com/ditte64mexank3fo/valorant-party-manager)** ⭐ 32
   ![None](https://img.shields.io/badge/-None-lightgrey)
-  ⏩⏩https://proreviews.short.gy/pd. After testing over 40 AI-driven adult chat platforms, This AI stands out as one of the most advanced and technically impressive platforms in the market for 2025.  ⏩⏩https://proreviews.short.gy/pd.
-
-- **[faxelecilo758/ai-video-maker](https://github.com/faxelecilo758/ai-video-maker)** ⭐ 12
-  ![None](https://img.shields.io/badge/-None-lightgrey)
-  ⏩⏩https://tinyurl.com/accurate-adult-ai. I have tested more than 100 adult AI tools and found this that produces realistic and accurate images and videos, ⏩⏩https://tinyurl.com/accurate-adult-ai
-
-- **[intertwine/kimi-book-writer](https://github.com/intertwine/kimi-book-writer)** ⭐ 6
-  ![Python](https://img.shields.io/badge/-Python-blue)
   None
 
-- **[KarolinaGroszewska/student-grade-api](https://github.com/KarolinaGroszewska/student-grade-api)** ⭐ 3
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
-  Built for GHW: API Week (November 2025). Introductory API build focusing on documenting and deploying a high-quality API. 
-
-- **[ScottishFold007/The-Accidental-CTO_Chinese-Version](https://github.com/ScottishFold007/The-Accidental-CTO_Chinese-Version)** ⭐ 3
+- **[lezvieolivermoss972lp/valorant-agent-picker](https://github.com/lezvieolivermoss972lp/valorant-agent-picker)** ⭐ 32
   ![None](https://img.shields.io/badge/-None-lightgrey)
-  [Ebook]从零到百万店铺：一个没有计算机学位的普通人的系统设计实战之旅
+  None
 
-- **[crosbreaker/skiovox-141](https://github.com/crosbreaker/skiovox-141)** ⭐ 3
+- **[imlegendary5rme/valorant-map-helper](https://github.com/imlegendary5rme/valorant-map-helper)** ⭐ 32
   ![None](https://img.shields.io/badge/-None-lightgrey)
-  The skiovox exploit for ChromeOS version 141
+  None
 
-- **[2400080030/LEARNING-MANAGMENT-SYSTEM-LMS-](https://github.com/2400080030/LEARNING-MANAGMENT-SYSTEM-LMS-)** ⭐ 3
+- **[zerro2000qkk/valorant-practice-tool](https://github.com/zerro2000qkk/valorant-practice-tool)** ⭐ 32
+  ![None](https://img.shields.io/badge/-None-lightgrey)
+  None
+
+- **[absolutezero38bray4px/valorant-skin-viewer](https://github.com/absolutezero38bray4px/valorant-skin-viewer)** ⭐ 32
+  ![None](https://img.shields.io/badge/-None-lightgrey)
+  None
+
+- **[prisintrodrivec2p/valorant-team-composer](https://github.com/prisintrodrivec2p/valorant-team-composer)** ⭐ 32
+  ![None](https://img.shields.io/badge/-None-lightgrey)
+  None
+
+- **[smokehost2000li0/valorant-patch-notes-bot](https://github.com/smokehost2000li0/valorant-patch-notes-bot)** ⭐ 32
   ![None](https://img.shields.io/badge/-None-lightgrey)
   None
 
 ### 📈 Weekly Trending
 
-- **[Snowflake-Labs/pg_lake](https://github.com/Snowflake-Labs/pg_lake)** ⭐ 1,060
+- **[Snowflake-Labs/pg_lake](https://github.com/Snowflake-Labs/pg_lake)** ⭐ 1,071
   ![C](https://img.shields.io/badge/-C-lightgrey)
   pg_lake: Postgres with Iceberg and data lake access
 
-- **[openpcc/openpcc](https://github.com/openpcc/openpcc)** ⭐ 694
-  ![Go](https://img.shields.io/badge/-Go-cyan)
-  An open-source framework for provably private AI inference
-
-- **[codykociemba/NoLongerEvil-Thermostat](https://github.com/codykociemba/NoLongerEvil-Thermostat)** ⭐ 609
-  ![C](https://img.shields.io/badge/-C-lightgrey)
-  Breathe fresh life into your bricked Nest Gen 1 & 2, now with 100% less evil!
-
-- **[Snapchat/Valdi](https://github.com/Snapchat/Valdi)** ⭐ 461
+- **[Snapchat/Valdi](https://github.com/Snapchat/Valdi)** ⭐ 1,023
   ![C++](https://img.shields.io/badge/-C++-pink)
   Valdi is a cross-platform UI framework that delivers native performance without sacrificing developer velocity.
 
-- **[rakkiez/sora2-watermark-remover](https://github.com/rakkiez/sora2-watermark-remover)** ⭐ 396
+- **[openpcc/openpcc](https://github.com/openpcc/openpcc)** ⭐ 707
+  ![Go](https://img.shields.io/badge/-Go-cyan)
+  An open-source framework for provably private AI inference
+
+- **[codykociemba/NoLongerEvil-Thermostat](https://github.com/codykociemba/NoLongerEvil-Thermostat)** ⭐ 611
+  ![C](https://img.shields.io/badge/-C-lightgrey)
+  Breathe fresh life into your bricked Nest Gen 1 & 2, now with 100% less evil!
+
+- **[SolanaUpdateTools/solana-starter-kit](https://github.com/SolanaUpdateTools/solana-starter-kit)** ⭐ 527
+  ![None](https://img.shields.io/badge/-None-lightgrey)
+  Open-source Solana dApp template with Anchor program, TypeScript client, and Next.js UI.
+
+- **[rakkiez/sora2-watermark-remover](https://github.com/rakkiez/sora2-watermark-remover)** ⭐ 397
   ![Python](https://img.shields.io/badge/-Python-blue)
   Sora 2 AI generated videos gentle watermark remover
+
+- **[eooce/Auto-login-netlib](https://github.com/eooce/Auto-login-netlib)** ⭐ 320
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
+  自动登录netlib.re网站保活域名
 
 - **[Infatoshi/all-of-it](https://github.com/Infatoshi/all-of-it)** ⭐ 256
   ![Jupyter Notebook](https://img.shields.io/badge/-Jupyter Notebook-lightgrey)
   None
 
-- **[qy527145/acemcp](https://github.com/qy527145/acemcp)** ⭐ 243
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  一个将ACE(Augment Context Engine) 做成MCP的项目
-
-- **[imtonyjaa/twitterxdownload](https://github.com/imtonyjaa/twitterxdownload)** ⭐ 239
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
-  a powerful twitter video downloader and twitter marketing online tool. repost any tweet auto translation.
-
 ### 📈 Monthly Trending
 
-- **[karpathy/nanochat](https://github.com/karpathy/nanochat)** ⭐ 36,053
+- **[karpathy/nanochat](https://github.com/karpathy/nanochat)** ⭐ 36,082
   ![Python](https://img.shields.io/badge/-Python-blue)
   The best ChatGPT that $100 can buy.
 
-- **[deepseek-ai/DeepSeek-OCR](https://github.com/deepseek-ai/DeepSeek-OCR)** ⭐ 19,841
+- **[deepseek-ai/DeepSeek-OCR](https://github.com/deepseek-ai/DeepSeek-OCR)** ⭐ 19,867
   ![Python](https://img.shields.io/badge/-Python-blue)
   Contexts Optical Compression
 
-- **[toon-format/toon](https://github.com/toon-format/toon)** ⭐ 11,668
+- **[toon-format/toon](https://github.com/toon-format/toon)** ⭐ 11,737
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   🎒 Token-Oriented Object Notation (TOON) – A compact, deterministic JSON format for LLM prompts. Spec, benchmarks, TypeScript SDK.
 
-- **[HKUDS/AI-Trader](https://github.com/HKUDS/AI-Trader)** ⭐ 9,095
+- **[HKUDS/AI-Trader](https://github.com/HKUDS/AI-Trader)** ⭐ 9,108
   ![Python](https://img.shields.io/badge/-Python-blue)
   "AI-Trader: Can AI Beat the Market?" Live Trading Bench: https://hkuds.github.io/AI-Trader/
 
-- **[NoFxAiOS/nofx](https://github.com/NoFxAiOS/nofx)** ⭐ 7,034
+- **[NoFxAiOS/nofx](https://github.com/NoFxAiOS/nofx)** ⭐ 7,061
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   NOFX: Defining the Next-Generation AI Trading Operating System. A multi-exchange Al trading platform(Binance/Hyperliquid/Aster) with multi-Ai competition(deepseek/qwen/claude)self-evolution, and real-time dashboard
 
-- **[diet103/claude-code-infrastructure-showcase](https://github.com/diet103/claude-code-infrastructure-showcase)** ⭐ 4,121
+- **[diet103/claude-code-infrastructure-showcase](https://github.com/diet103/claude-code-infrastructure-showcase)** ⭐ 4,136
   ![Shell](https://img.shields.io/badge/-Shell-lightgrey)
   Examples of my Claude Code infrastructure with skill auto-activation, hooks, and agents
 
-- **[yusufkaraaslan/Skill_Seekers](https://github.com/yusufkaraaslan/Skill_Seekers)** ⭐ 3,572
+- **[yusufkaraaslan/Skill_Seekers](https://github.com/yusufkaraaslan/Skill_Seekers)** ⭐ 3,583
   ![Python](https://img.shields.io/badge/-Python-blue)
   Convert documentation websites, GitHub repositories, and PDFs into Claude AI skills with automatic conflict detection
 
-- **[alam00000/bentopdf](https://github.com/alam00000/bentopdf)** ⭐ 3,403
+- **[alam00000/bentopdf](https://github.com/alam00000/bentopdf)** ⭐ 3,432
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   A Privacy First PDF Toolkit
 
@@ -489,59 +497,59 @@ See [kubernetes-announce@](https://groups.google.com/forum/#!forum/kubernetes-an
 
 | Skill | Status |
 |-------|--------|
-| Java | 🔴 Beginner |
-| Python | 🔴 Beginner |
-| JavaScript | 🟡 Learning |
-| TypeScript | 🟢 Proficient |
-| Go | 🟢 Proficient |
+| Java | ⚪ Planned |
+| Python | 🟡 Learning |
+| JavaScript | ⚪ Planned |
+| TypeScript | 🟡 Learning |
+| Go | ⚪ Planned |
 
 ### Frameworks
 
 | Skill | Status |
 |-------|--------|
-| React | 🟡 Learning |
-| Spring Boot | 🟢 Proficient |
-| Django | ⚪ Planned |
-| Node.js | ⚪ Planned |
-| Next.js | 🟢 Proficient |
+| React | 🟢 Proficient |
+| Spring Boot | 🔴 Beginner |
+| Django | 🔴 Beginner |
+| Node.js | 🔴 Beginner |
+| Next.js | ⚪ Planned |
 
 ### Cybersecurity
 
 | Skill | Status |
 |-------|--------|
-| Penetration Testing | 🟡 Learning |
-| Web Security | ⚪ Planned |
-| Network Security | 🔴 Beginner |
-| OWASP | ⚪ Planned |
+| Penetration Testing | 🔴 Beginner |
+| Web Security | 🔴 Beginner |
+| Network Security | ⚪ Planned |
+| OWASP | 🟡 Learning |
 
 ### Ai Ml
 
 | Skill | Status |
 |-------|--------|
-| Machine Learning | ⚪ Planned |
-| Deep Learning | 🟡 Learning |
+| Machine Learning | 🔴 Beginner |
+| Deep Learning | 🔴 Beginner |
 | NLP | 🔴 Beginner |
-| Computer Vision | 🟢 Proficient |
-| TensorFlow | 🔴 Beginner |
-| PyTorch | 🟡 Learning |
+| Computer Vision | 🟡 Learning |
+| TensorFlow | ⚪ Planned |
+| PyTorch | 🔴 Beginner |
 
 ### Devops
 
 | Skill | Status |
 |-------|--------|
-| Docker | ⚪ Planned |
-| Kubernetes | 🔴 Beginner |
-| CI/CD | ⚪ Planned |
+| Docker | 🟢 Proficient |
+| Kubernetes | 🟢 Proficient |
+| CI/CD | 🔴 Beginner |
 | AWS | 🟢 Proficient |
-| Azure | 🟢 Proficient |
+| Azure | 🟡 Learning |
 
 ### Other
 
 | Skill | Status |
 |-------|--------|
 | Blockchain | ⚪ Planned |
-| Web3 | 🟢 Proficient |
-| Cloud Computing | 🟢 Proficient |
+| Web3 | 🟡 Learning |
+| Cloud Computing | 🔴 Beginner |
 
 </details>
 
