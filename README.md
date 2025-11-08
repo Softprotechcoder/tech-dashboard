@@ -46,35 +46,43 @@
 
 ### 📑 Hacker News
 
-- **[Cekura (YC F24) Is Hiring](https://news.ycombinator.com/item?id=45856069)**
-  *<p>Comments URL: <a href="https://news.ycombinator.com/item?id=45856069">https://news.ycombinator.com/item?id=45856069</a></p>
-<p>Points: 0</p>
-<p># Comments: 0</p>...*
-  📅 Sat, 08 Nov 2025 12:00:50 +0000
+- **[Driver livestreams on TikTok as she apparently hits and kills man in Chicago](https://www.theguardian.com/us-news/2025/nov/08/tiktok-live-stream-fatal-crash-chicago)**
+  *<p>Article URL: <a href="https://www.theguardian.com/us-news/2025/nov/08/tiktok-live-stream-fatal-crash-chicago">https://www.theguardian.com/us-news/2025/nov/08/tiktok-live-stream-fatal-crash-chicago<...*
+  📅 Sat, 08 Nov 2025 17:34:39 +0000
 
-- **[Copy button added to Stack Overflow](https://meta.stackexchange.com/questions/414573/results-of-the-october-2025-community-asks-sprint-copy-button-for-code-blocks)**
-  *<p>Article URL: <a href="https://meta.stackexchange.com/questions/414573/results-of-the-october-2025-community-asks-sprint-copy-button-for-code-blocks">https://meta.stackexchange.com/questions/414573/...*
-  📅 Sat, 08 Nov 2025 11:35:04 +0000
+- **[Cloudflare Scrubs Aisuru Botnet from Top Domains List](https://krebsonsecurity.com/2025/11/cloudflare-scrubs-aisuru-botnet-from-top-domains-list/)**
+  *<p>Article URL: <a href="https://krebsonsecurity.com/2025/11/cloudflare-scrubs-aisuru-botnet-from-top-domains-list/">https://krebsonsecurity.com/2025/11/cloudflare-scrubs-aisuru-botnet-from-top-domain...*
+  📅 Sat, 08 Nov 2025 16:25:41 +0000
 
-- **[My friends and I accidentally faked the Ryzen 7 9700X3D leaks](https://old.reddit.com/r/pcmasterrace/comments/1orc6jl/my_friends_and_i_accidentally_faked_the_ryzen_7/)**
-  *<p>Article URL: <a href="https://old.reddit.com/r/pcmasterrace/comments/1orc6jl/my_friends_and_i_accidentally_faked_the_ryzen_7/">https://old.reddit.com/r/pcmasterrace/comments/1orc6jl/my_friends_and_...*
-  📅 Sat, 08 Nov 2025 11:27:56 +0000
+- **[52 Year old data tape could contain Unix history](https://www.theregister.com/2025/11/07/unix_fourth_edition_tape_rediscovered/)**
+  *<p>Article URL: <a href="https://www.theregister.com/2025/11/07/unix_fourth_edition_tape_rediscovered/">https://www.theregister.com/2025/11/07/unix_fourth_edition_tape_rediscovered/</a></p>
+<p>Comment...*
+  📅 Sat, 08 Nov 2025 16:12:14 +0000
 
-- **[A rats to riches story: Larry the Downing Street cat finds place in TV spotlight](https://www.theguardian.com/politics/2025/nov/08/a-rats-to-riches-story-larry-the-downing-street-cat-finds-place-in-tv-spotlight)**
-  *<p>Article URL: <a href="https://www.theguardian.com/politics/2025/nov/08/a-rats-to-riches-story-larry-the-downing-street-cat-finds-place-in-tv-spotlight">https://www.theguardian.com/politics/2025/nov...*
-  📅 Sat, 08 Nov 2025 09:58:09 +0000
+- **[Ticker: Don't Die of Heart Disease](https://myticker.com/)**
+  *<p>Article URL: <a href="https://myticker.com/">https://myticker.com/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=45857053">https://news.ycombinator.com/item?id=45857053</a>...*
+  📅 Sat, 08 Nov 2025 14:59:05 +0000
 
-- **[Making Democracy Work: Fixing and Simplifying Egalitarian Paxos](https://arxiv.org/abs/2511.02743)**
-  *<p>Article URL: <a href="https://arxiv.org/abs/2511.02743">https://arxiv.org/abs/2511.02743</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=45854862">https://news.ycombinator.co...*
-  📅 Sat, 08 Nov 2025 07:29:35 +0000
+- **[An Algebraic Language for the Manipulation of Symbolic Expressions (1958) [pdf]](https://softwarepreservation.computerhistory.org/LISP/MIT/AIM-001.pdf)**
+  *<p>Article URL: <a href="https://softwarepreservation.computerhistory.org/LISP/MIT/AIM-001.pdf">https://softwarepreservation.computerhistory.org/LISP/MIT/AIM-001.pdf</a></p>
+<p>Comments URL: <a href="...*
+  📅 Sat, 08 Nov 2025 14:58:03 +0000
 
-- **[Apple's "notarisation" – blocking software freedom of developers and users](https://fsfe.org/news/2025/news-20251105-01.en.html)**
-  *<p>Article URL: <a href="https://fsfe.org/news/2025/news-20251105-01.en.html">https://fsfe.org/news/2025/news-20251105-01.en.html</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id...*
-  📅 Sat, 08 Nov 2025 05:37:08 +0000
+- **[Zig is so cool, C is cooler](https://github.com/little-book-of/c/blob/main/articles/zig-is-cool-c-is-cooler.md)**
+  *<p>Article URL: <a href="https://github.com/little-book-of/c/blob/main/articles/zig-is-cool-c-is-cooler.md">https://github.com/little-book-of/c/blob/main/articles/zig-is-cool-c-is-cooler.md</a></p>
+<p...*
+  📅 Sat, 08 Nov 2025 14:54:38 +0000
 
 ### 📑 TechCrunch
+
+- **[OpenAI asked Trump administration to expand Chips Act tax credit to cover data centers](https://techcrunch.com/2025/11/08/openai-asked-trump-administration-to-expand-chips-act-tax-credit-to-cover-data-centers/)**
+  *A recent letter from OpenAI reveals more details about how the company is hoping the federal government can support the company's ambitious plans for data center construction....*
+  📅 Sat, 08 Nov 2025 17:30:24 +0000
+
+- **[How startups can lure good talent fairly without big tech bank accounts](https://techcrunch.com/2025/11/08/how-startups-can-lure-good-talent-fairly-without-big-tech-bank-accounts/)**
+  *Three industry insiders walk through how startups can set up an employee equity strategy that remains fair as a company grows....*
+  📅 Sat, 08 Nov 2025 14:00:00 +0000
 
 - **[Rivian gives RJ Scaringe a new pay package worth up to $5B](https://techcrunch.com/2025/11/07/rivian-gives-rj-scaringe-a-new-pay-package-worth-up-to-5b/)**
   *The company canceled a similar-sized award from 2021, when EV optimism was sky-high, due to the "unlikeliness" that the associated goals could be met....*
@@ -92,34 +100,22 @@
   *The Washington Post is the latest victim of a hacking campaign by the notorious Clop ransomware gang, which relied on vulnerabilities in Oracle software used by many corporations....*
   📅 Fri, 07 Nov 2025 19:22:35 +0000
 
-- **[I tried the Apple Crossbody Strap. It’s convenient, but the phone looks silly when the strap is removed.](https://techcrunch.com/2025/11/07/i-tried-the-apple-crossbody-strap-its-convenient-but-the-phone-looks-silly-when-the-strap-is-removed/)**
-  *Apple's new Crossbody Strap is a convenient way to go hands-free but the strap can rub uncomfortably at times, and the phone looks silly when the strap is removed....*
-  📅 Fri, 07 Nov 2025 18:50:53 +0000
-
-- **[TechCrunch Disrupt 2025 Startup Battlefield 200: Celebrating outstanding achievements](https://techcrunch.com/2025/11/07/techcrunch-disrupt-2025s-startup-battlefield-200-celebrating-outstanding-achievements/)**
-  *Among the Startup Battlefield 200 at TechCrunch Disrupt 2025 were many industry-defining companies exhibiting and pitching on the Showcase Stage....*
-  📅 Fri, 07 Nov 2025 17:00:00 +0000
-
 ### 📑 Dev.to
 
-- **[How to Set Up AWS Cost Explorer (and Why It’s Not Enough)](https://dev.to/cloudwiseteam/how-to-set-up-aws-cost-explorer-and-why-its-not-enough-45hg)**
-  *<p>Managing AWS spend starts with visibility — and AWS Cost Explorer is often the first tool teams reach for. It’s powerful, free to start, and gives you a high-level view of where your money goes.  <...*
-  📅 Sat, 08 Nov 2025 12:16:45 +0000
+- **[Building Reddit Game with Devvit and TypeScript (starter included)](https://dev.to/room_js/building-reddit-game-with-devvit-and-typescript-starter-included-3kcp)**
+  *<p>Hey everyone,<br />
+I've recently built <a href="https://www.reddit.com/r/investorean/comments/1o5jez6/stock_blitz_guess_tickers_rule_wall_street/" rel="noopener noreferrer">the simple quiz game</a...*
+  📅 Sat, 08 Nov 2025 18:05:54 +0000
 
-- **[Python basics - Day 22](https://dev.to/ian_b838138a27a917398d181/python-basics-day-22-35i)**
+- **[CinemaSins: Everything Wrong With Sinners In 15 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-sinners-in-15-minutes-or-less-5e0h)**
   *<h2>
   
   
-  <strong>Day 22 – OOP Basics: Class &amp; Object</strong>
+  Everything Wrong With Sinners In 15 Minutes Or Less
 </h2>
 
-<p><strong>Project:</strong> Build a “Student Management App” using Python classes and objects.</p>
-
-
-
-
-<p><strong>01. Lear...*
-  📅 Sat, 08 Nov 2025 12:10:53 +0000
+<p>CinemaSins is back with their signature “Everything Wrong With…” roast, squeezing one of the year’s best genre flicks into a ...*
+  📅 Sat, 08 Nov 2025 18:00:38 +0000
 
 </details>
 
@@ -127,103 +123,103 @@
 
 ### 📈 Daily Trending
 
-- **[steipete/agent-scripts](https://github.com/steipete/agent-scripts)** ⭐ 52
+- **[steipete/agent-scripts](https://github.com/steipete/agent-scripts)** ⭐ 86
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   Scripts for agents, shared between my repositories.
 
-- **[ditte64mexank3fo/valorant-party-manager](https://github.com/ditte64mexank3fo/valorant-party-manager)** ⭐ 32
+- **[megacraft3127jm/minecraft-vape-capes](https://github.com/megacraft3127jm/minecraft-vape-capes)** ⭐ 82
   ![None](https://img.shields.io/badge/-None-lightgrey)
   None
 
-- **[lezvieolivermoss972lp/valorant-agent-picker](https://github.com/lezvieolivermoss972lp/valorant-agent-picker)** ⭐ 32
+- **[soldier-100hot/vape-command-system](https://github.com/soldier-100hot/vape-command-system)** ⭐ 81
   ![None](https://img.shields.io/badge/-None-lightgrey)
   None
 
-- **[imlegendary5rme/valorant-map-helper](https://github.com/imlegendary5rme/valorant-map-helper)** ⭐ 32
+- **[smokker-100cba/valorant-gunbuddy-manager](https://github.com/smokker-100cba/valorant-gunbuddy-manager)** ⭐ 81
   ![None](https://img.shields.io/badge/-None-lightgrey)
   None
 
-- **[zerro2000qkk/valorant-practice-tool](https://github.com/zerro2000qkk/valorant-practice-tool)** ⭐ 32
+- **[mulhala74iqy/vape-macros-autoclicker](https://github.com/mulhala74iqy/vape-macros-autoclicker)** ⭐ 80
   ![None](https://img.shields.io/badge/-None-lightgrey)
   None
 
-- **[absolutezero38bray4px/valorant-skin-viewer](https://github.com/absolutezero38bray4px/valorant-skin-viewer)** ⭐ 32
+- **[imlegendary5rme/valorant-map-helper](https://github.com/imlegendary5rme/valorant-map-helper)** ⭐ 80
   ![None](https://img.shields.io/badge/-None-lightgrey)
   None
 
-- **[prisintrodrivec2p/valorant-team-composer](https://github.com/prisintrodrivec2p/valorant-team-composer)** ⭐ 32
+- **[mulhala74iqy/vape-backup-restore](https://github.com/mulhala74iqy/vape-backup-restore)** ⭐ 80
   ![None](https://img.shields.io/badge/-None-lightgrey)
   None
 
-- **[smokehost2000li0/valorant-patch-notes-bot](https://github.com/smokehost2000li0/valorant-patch-notes-bot)** ⭐ 32
+- **[absolutezero38bray4px/valorant-skin-viewer](https://github.com/absolutezero38bray4px/valorant-skin-viewer)** ⭐ 80
   ![None](https://img.shields.io/badge/-None-lightgrey)
   None
 
 ### 📈 Weekly Trending
 
-- **[Snowflake-Labs/pg_lake](https://github.com/Snowflake-Labs/pg_lake)** ⭐ 1,071
-  ![C](https://img.shields.io/badge/-C-lightgrey)
-  pg_lake: Postgres with Iceberg and data lake access
-
-- **[Snapchat/Valdi](https://github.com/Snapchat/Valdi)** ⭐ 1,023
+- **[Snapchat/Valdi](https://github.com/Snapchat/Valdi)** ⭐ 1,648
   ![C++](https://img.shields.io/badge/-C++-pink)
   Valdi is a cross-platform UI framework that delivers native performance without sacrificing developer velocity.
 
-- **[openpcc/openpcc](https://github.com/openpcc/openpcc)** ⭐ 707
+- **[Snowflake-Labs/pg_lake](https://github.com/Snowflake-Labs/pg_lake)** ⭐ 1,085
+  ![C](https://img.shields.io/badge/-C-lightgrey)
+  pg_lake: Postgres with Iceberg and data lake access
+
+- **[openpcc/openpcc](https://github.com/openpcc/openpcc)** ⭐ 719
   ![Go](https://img.shields.io/badge/-Go-cyan)
   An open-source framework for provably private AI inference
 
-- **[codykociemba/NoLongerEvil-Thermostat](https://github.com/codykociemba/NoLongerEvil-Thermostat)** ⭐ 611
+- **[SolanaUpdateTools/solana-starter-kit](https://github.com/SolanaUpdateTools/solana-starter-kit)** ⭐ 674
+  ![None](https://img.shields.io/badge/-None-lightgrey)
+  Open-source Solana dApp template with Anchor program, TypeScript client, and Next.js UI.
+
+- **[codykociemba/NoLongerEvil-Thermostat](https://github.com/codykociemba/NoLongerEvil-Thermostat)** ⭐ 615
   ![C](https://img.shields.io/badge/-C-lightgrey)
   Breathe fresh life into your bricked Nest Gen 1 & 2, now with 100% less evil!
 
-- **[SolanaUpdateTools/solana-starter-kit](https://github.com/SolanaUpdateTools/solana-starter-kit)** ⭐ 527
-  ![None](https://img.shields.io/badge/-None-lightgrey)
-  Open-source Solana dApp template with Anchor program, TypeScript client, and Next.js UI.
+- **[eooce/Auto-login-netlib](https://github.com/eooce/Auto-login-netlib)** ⭐ 417
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
+  自动登录netlib.re网站保活域名
 
 - **[rakkiez/sora2-watermark-remover](https://github.com/rakkiez/sora2-watermark-remover)** ⭐ 397
   ![Python](https://img.shields.io/badge/-Python-blue)
   Sora 2 AI generated videos gentle watermark remover
 
-- **[eooce/Auto-login-netlib](https://github.com/eooce/Auto-login-netlib)** ⭐ 320
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
-  自动登录netlib.re网站保活域名
-
-- **[Infatoshi/all-of-it](https://github.com/Infatoshi/all-of-it)** ⭐ 256
-  ![Jupyter Notebook](https://img.shields.io/badge/-Jupyter Notebook-lightgrey)
-  None
+- **[qy527145/acemcp](https://github.com/qy527145/acemcp)** ⭐ 261
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  一个将ACE(Augment Context Engine) 做成MCP的项目
 
 ### 📈 Monthly Trending
 
-- **[karpathy/nanochat](https://github.com/karpathy/nanochat)** ⭐ 36,082
+- **[karpathy/nanochat](https://github.com/karpathy/nanochat)** ⭐ 36,120
   ![Python](https://img.shields.io/badge/-Python-blue)
   The best ChatGPT that $100 can buy.
 
-- **[deepseek-ai/DeepSeek-OCR](https://github.com/deepseek-ai/DeepSeek-OCR)** ⭐ 19,867
+- **[deepseek-ai/DeepSeek-OCR](https://github.com/deepseek-ai/DeepSeek-OCR)** ⭐ 19,898
   ![Python](https://img.shields.io/badge/-Python-blue)
   Contexts Optical Compression
 
-- **[toon-format/toon](https://github.com/toon-format/toon)** ⭐ 11,737
+- **[toon-format/toon](https://github.com/toon-format/toon)** ⭐ 11,844
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   🎒 Token-Oriented Object Notation (TOON) – A compact, deterministic JSON format for LLM prompts. Spec, benchmarks, TypeScript SDK.
 
-- **[HKUDS/AI-Trader](https://github.com/HKUDS/AI-Trader)** ⭐ 9,108
+- **[HKUDS/AI-Trader](https://github.com/HKUDS/AI-Trader)** ⭐ 9,117
   ![Python](https://img.shields.io/badge/-Python-blue)
   "AI-Trader: Can AI Beat the Market?" Live Trading Bench: https://hkuds.github.io/AI-Trader/
 
-- **[NoFxAiOS/nofx](https://github.com/NoFxAiOS/nofx)** ⭐ 7,061
+- **[NoFxAiOS/nofx](https://github.com/NoFxAiOS/nofx)** ⭐ 7,105
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   NOFX: Defining the Next-Generation AI Trading Operating System. A multi-exchange Al trading platform(Binance/Hyperliquid/Aster) with multi-Ai competition(deepseek/qwen/claude)self-evolution, and real-time dashboard
 
-- **[diet103/claude-code-infrastructure-showcase](https://github.com/diet103/claude-code-infrastructure-showcase)** ⭐ 4,136
+- **[diet103/claude-code-infrastructure-showcase](https://github.com/diet103/claude-code-infrastructure-showcase)** ⭐ 4,154
   ![Shell](https://img.shields.io/badge/-Shell-lightgrey)
   Examples of my Claude Code infrastructure with skill auto-activation, hooks, and agents
 
-- **[yusufkaraaslan/Skill_Seekers](https://github.com/yusufkaraaslan/Skill_Seekers)** ⭐ 3,583
+- **[yusufkaraaslan/Skill_Seekers](https://github.com/yusufkaraaslan/Skill_Seekers)** ⭐ 3,592
   ![Python](https://img.shields.io/badge/-Python-blue)
   Convert documentation websites, GitHub repositories, and PDFs into Claude AI skills with automatic conflict detection
 
-- **[alam00000/bentopdf](https://github.com/alam00000/bentopdf)** ⭐ 3,432
+- **[alam00000/bentopdf](https://github.com/alam00000/bentopdf)** ⭐ 3,464
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   A Privacy First PDF Toolkit
 
@@ -497,21 +493,21 @@ See [kubernetes-announce@](https://groups.google.com/forum/#!forum/kubernetes-an
 
 | Skill | Status |
 |-------|--------|
-| Java | ⚪ Planned |
-| Python | 🟡 Learning |
-| JavaScript | ⚪ Planned |
-| TypeScript | 🟡 Learning |
-| Go | ⚪ Planned |
+| Java | 🟡 Learning |
+| Python | 🟢 Proficient |
+| JavaScript | 🟢 Proficient |
+| TypeScript | 🔴 Beginner |
+| Go | 🟢 Proficient |
 
 ### Frameworks
 
 | Skill | Status |
 |-------|--------|
-| React | 🟢 Proficient |
-| Spring Boot | 🔴 Beginner |
-| Django | 🔴 Beginner |
-| Node.js | 🔴 Beginner |
-| Next.js | ⚪ Planned |
+| React | 🟡 Learning |
+| Spring Boot | 🟢 Proficient |
+| Django | 🟢 Proficient |
+| Node.js | ⚪ Planned |
+| Next.js | 🟢 Proficient |
 
 ### Cybersecurity
 
@@ -520,36 +516,36 @@ See [kubernetes-announce@](https://groups.google.com/forum/#!forum/kubernetes-an
 | Penetration Testing | 🔴 Beginner |
 | Web Security | 🔴 Beginner |
 | Network Security | ⚪ Planned |
-| OWASP | 🟡 Learning |
+| OWASP | 🔴 Beginner |
 
 ### Ai Ml
 
 | Skill | Status |
 |-------|--------|
-| Machine Learning | 🔴 Beginner |
-| Deep Learning | 🔴 Beginner |
-| NLP | 🔴 Beginner |
-| Computer Vision | 🟡 Learning |
+| Machine Learning | ⚪ Planned |
+| Deep Learning | 🟢 Proficient |
+| NLP | 🟢 Proficient |
+| Computer Vision | ⚪ Planned |
 | TensorFlow | ⚪ Planned |
-| PyTorch | 🔴 Beginner |
+| PyTorch | 🟢 Proficient |
 
 ### Devops
 
 | Skill | Status |
 |-------|--------|
-| Docker | 🟢 Proficient |
-| Kubernetes | 🟢 Proficient |
-| CI/CD | 🔴 Beginner |
-| AWS | 🟢 Proficient |
-| Azure | 🟡 Learning |
+| Docker | 🟡 Learning |
+| Kubernetes | 🔴 Beginner |
+| CI/CD | ⚪ Planned |
+| AWS | 🔴 Beginner |
+| Azure | ⚪ Planned |
 
 ### Other
 
 | Skill | Status |
 |-------|--------|
-| Blockchain | ⚪ Planned |
+| Blockchain | 🔴 Beginner |
 | Web3 | 🟡 Learning |
-| Cloud Computing | 🔴 Beginner |
+| Cloud Computing | ⚪ Planned |
 
 </details>
 
