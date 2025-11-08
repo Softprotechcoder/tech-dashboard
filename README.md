@@ -7,7 +7,7 @@
 ![AI & ML](https://img.shields.io/badge/-AI%20&%20ML-blue) ![CyberSecurity](https://img.shields.io/badge/-CyberSecurity-red) ![Full Stack Development](https://img.shields.io/badge/-Full%20Stack%20Development-green)
 
 [![Auto Update](https://img.shields.io/badge/Auto%20Update-Enabled-success)](https://github.com/yourusername/tech-dashboard/actions)
-[![Last Updated](https://img.shields.io/badge/Last%20Updated-November 07, 2025-blue)](https://github.com/yourusername/tech-dashboard)
+[![Last Updated](https://img.shields.io/badge/Last%20Updated-November 08, 2025-blue)](https://github.com/yourusername/tech-dashboard)
 
 *Automatically updated every 6 hours with the latest tech news, trending repositories, and learning resources.*
 
@@ -46,67 +46,80 @@
 
 ### 📑 Hacker News
 
-- **[Notes on Being a Man](https://www.profgalloway.com/notes-on-being-a-man/)**
-  *<p>Article URL: <a href="https://www.profgalloway.com/notes-on-being-a-man/">https://www.profgalloway.com/notes-on-being-a-man/</a></p>
+- **[Immutable Software Deploys Using ZFS Jails on FreeBSD](https://conradresearch.com/articles/immutable-software-deploy-zfs-jails)**
+  *<p>Article URL: <a href="https://conradresearch.com/articles/immutable-software-deploy-zfs-jails">https://conradresearch.com/articles/immutable-software-deploy-zfs-jails</a></p>
+<p>Comments URL: <a hr...*
+  📅 Sat, 08 Nov 2025 00:21:45 +0000
+
+- **[Snapchat open-sources Valdi a cross-platform UI framework](https://github.com/Snapchat/Valdi)**
+  *<p>Article URL: <a href="https://github.com/Snapchat/Valdi">https://github.com/Snapchat/Valdi</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=45852854">https://news.ycombinator....*
+  📅 Sat, 08 Nov 2025 00:14:50 +0000
+
+- **[Analysis of Hedy Lamarr's Contribution to Spread-Spectrum Communication](https://researchers.one/articles/24.01.00001v4)**
+  *<p>Article URL: <a href="https://researchers.one/articles/24.01.00001v4">https://researchers.one/articles/24.01.00001v4</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=45852642"...*
+  📅 Fri, 07 Nov 2025 23:42:01 +0000
+
+- **[Why is Zig so Cool?](https://nilostolte.github.io/tech/articles/ZigCool.html)**
+  *<p>Article URL: <a href="https://nilostolte.github.io/tech/articles/ZigCool.html">https://nilostolte.github.io/tech/articles/ZigCool.html</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com...*
+  📅 Fri, 07 Nov 2025 23:04:39 +0000
+
+- **[FAA restricts commercial rocket launches indefinitely due to air traffic risks](https://www.space.com/space-exploration/launches-spacecraft/faa-restricts-commercial-rocket-launches-indefinitely-due-to-air-traffic-risks-from-government-shutdown)**
+  *<p>Article URL: <a href="https://www.space.com/space-exploration/launches-spacecraft/faa-restricts-commercial-rocket-launches-indefinitely-due-to-air-traffic-risks-from-government-shutdown">https://ww...*
+  📅 Fri, 07 Nov 2025 22:59:04 +0000
+
+- **[Mind captioning: Evolving descriptive text of mental content of brain activity](https://www.science.org/doi/10.1126/sciadv.adw1464)**
+  *<p>Article URL: <a href="https://www.science.org/doi/10.1126/sciadv.adw1464">https://www.science.org/doi/10.1126/sciadv.adw1464</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=4...*
-  📅 Fri, 07 Nov 2025 17:12:19 +0000
-
-- **[Vodafone Germany is killing the open internet – one peering connection at a time](https://coffee.link/vodafone-germany-is-killing-the-open-internet-one-peering-connection-at-a-time/)**
-  *<p>Article URL: <a href="https://coffee.link/vodafone-germany-is-killing-the-open-internet-one-peering-connection-at-a-time/">https://coffee.link/vodafone-germany-is-killing-the-open-internet-one-peer...*
-  📅 Fri, 07 Nov 2025 17:05:06 +0000
-
-- **[Nasdaq 100 set for worst week since April meltdown](https://fortune.com/2025/11/07/nasdaq-100-worst-week-since-april-bear-market-correction/)**
-  *<p>Article URL: <a href="https://fortune.com/2025/11/07/nasdaq-100-worst-week-since-april-bear-market-correction/">https://fortune.com/2025/11/07/nasdaq-100-worst-week-since-april-bear-market-correcti...*
-  📅 Fri, 07 Nov 2025 16:59:49 +0000
-
-- **[Toxic Salton Sea dust triggers changes in lung microbiome after just one week](https://phys.org/news/2025-10-toxic-salton-sea-triggers-lung.html)**
-  *<p>Article URL: <a href="https://phys.org/news/2025-10-toxic-salton-sea-triggers-lung.html">https://phys.org/news/2025-10-toxic-salton-sea-triggers-lung.html</a></p>
-<p>Comments URL: <a href="https://...*
-  📅 Fri, 07 Nov 2025 16:52:05 +0000
-
-- **[3I/ATLAS shows perihelion burst and radial-only non-gravitational acceleration](https://old.reddit.com/r/dataisbeautiful/comments/1oqfau8/3iatlas_shows_perihelion_burst_and_radialonly/)**
-  *<p>Article URL: <a href="https://old.reddit.com/r/dataisbeautiful/comments/1oqfau8/3iatlas_shows_perihelion_burst_and_radialonly/">https://old.reddit.com/r/dataisbeautiful/comments/1oqfau8/3iatlas_sho...*
-  📅 Fri, 07 Nov 2025 16:49:14 +0000
-
-- **[Denmark's government aims to ban access to social media for children under 15](https://apnews.com/article/denmark-social-media-ban-children-7862d2a8cc590b4969c8931a01adc7f4)**
-  *<p>Article URL: <a href="https://apnews.com/article/denmark-social-media-ban-children-7862d2a8cc590b4969c8931a01adc7f4">https://apnews.com/article/denmark-social-media-ban-children-7862d2a8cc590b4969c...*
-  📅 Fri, 07 Nov 2025 16:28:31 +0000
+  📅 Fri, 07 Nov 2025 22:57:18 +0000
 
 ### 📑 TechCrunch
+
+- **[Rivian gives RJ Scaringe a new pay package worth up to $5B](https://techcrunch.com/2025/11/07/rivian-gives-rj-scaringe-a-new-pay-package-worth-up-to-5b/)**
+  *The company canceled a similar-sized award from 2021, when EV optimism was sky-high, due to the "unlikeliness" that the associated goals could be met....*
+  📅 Fri, 07 Nov 2025 21:02:22 +0000
+
+- **[Seven more families are now suing OpenAI over ChatGPT’s role in suicides, delusions](https://techcrunch.com/2025/11/07/seven-more-families-are-now-suing-openai-over-chatgpts-role-in-suicides-delusions/)**
+  *In one case, 23-year-old Zane Shamblin had a conversation with ChatGPT that lasted more than four hours....*
+  📅 Fri, 07 Nov 2025 20:56:18 +0000
+
+- **[GoWish’s shopping and wish list app is having its biggest year yet](https://techcrunch.com/2025/11/07/gowishs-shopping-and-wishlist-app-is-having-its-biggest-year-yet/)**
+  *GoWish, an app for making wish lists, is having a record year, and has doubled its users....*
+  📅 Fri, 07 Nov 2025 20:16:32 +0000
+
+- **[Washington Post confirms data breach linked to Oracle hacks](https://techcrunch.com/2025/11/07/washington-post-confirms-data-breach-linked-to-oracle-hacks/)**
+  *The Washington Post is the latest victim of a hacking campaign by the notorious Clop ransomware gang, which relied on vulnerabilities in Oracle software used by many corporations....*
+  📅 Fri, 07 Nov 2025 19:22:35 +0000
+
+- **[I tried the Apple Crossbody Strap. It’s convenient, but the phone looks silly when the strap is removed.](https://techcrunch.com/2025/11/07/i-tried-the-apple-crossbody-strap-its-convenient-but-the-phone-looks-silly-when-the-strap-is-removed/)**
+  *Apple's new Crossbody Strap is a convenient way to go hands-free but the strap can rub uncomfortably at times, and the phone looks silly when the strap is removed....*
+  📅 Fri, 07 Nov 2025 18:50:53 +0000
 
 - **[TechCrunch Disrupt 2025 Startup Battlefield 200: Celebrating outstanding achievements](https://techcrunch.com/2025/11/07/techcrunch-disrupt-2025s-startup-battlefield-200-celebrating-outstanding-achievements/)**
   *Among the Startup Battlefield 200 at TechCrunch Disrupt 2025 were many industry-defining companies exhibiting and pitching on the Showcase Stage....*
   📅 Fri, 07 Nov 2025 17:00:00 +0000
 
-- **[Kim Kardashian says ChatGPT is her ‘frenemy’](https://techcrunch.com/2025/11/07/kim-kardashian-says-chatgpt-is-her-frenemy/)**
-  *Kim Kardashian admitted that she has failed legal exams after blindly relying on ChatGPT's advice....*
-  📅 Fri, 07 Nov 2025 16:58:22 +0000
-
-- **[Congressional Budget Office confirms it was hacked](https://techcrunch.com/2025/11/07/congressional-budget-office-confirms-it-was-hacked/)**
-  *The congressional research office confirmed a breach, but did not comment on the cause. A security researcher suggested the hack may have originated because CBO failed to patch a firewall for more tha...*
-  📅 Fri, 07 Nov 2025 16:36:55 +0000
-
-- **[Amazon launches a low-price standalone shopping app, Amazon Bazaar, in over a dozen markets](https://techcrunch.com/2025/11/07/amazon-launches-a-low-price-standalone-shopping-app-amazon-bazaar-in-over-a-dozen-markets/)**
-  *Amazon Bazaar, a new low-cost shopping destination for Asia, Africa, and Latin America that will be available separately from the main Amazon shopping app....*
-  📅 Fri, 07 Nov 2025 15:25:41 +0000
-
-- **[How one founder plans to save cities from flooding with terraforming robots](https://techcrunch.com/2025/11/07/one-founders-plan-to-save-his-city-san-rafael-with-terraforming-robots/)**
-  *Instead of building seawalls or dikes, Terranova has developed a new way to raise cities to protect them from sea-level rise....*
-  📅 Fri, 07 Nov 2025 15:02:00 +0000
-
-- **[Texas AG sues Roblox, accusing it of prioritizing ‘pixel pedophiles’ over child safety](https://techcrunch.com/2025/11/07/texas-ag-sues-roblox-accusing-it-of-prioritizing-pixel-pedophiles-over-child-safety/)**
-  *In a statement, Paxton alleged that Roblox chooses to prioritize "pixel pedophiles" and profit over the safety of children, and said the platform has become a "breeding ground for predators."...*
-  📅 Fri, 07 Nov 2025 14:24:27 +0000
-
 ### 📑 Dev.to
 
-- **[Jeff Su: 4 ChatGPT Hacks that Cut My Workload in Half](https://dev.to/future_ai/jeff-su-4-chatgpt-hacks-that-cut-my-workload-in-half-159c)**
-  *<p>This vid breaks down four killer ChatGPT tricks—Prompt Reversal, the 5-Minute Amplifier, the Red Team Technique, and Blueprint Scaffolding—that can literally chop your AI workflow in half. Instead ...*
-  📅 Fri, 07 Nov 2025 18:07:22 +0000
+- **[たった1枚の引き伸ばされた画像から、AWS Lambdaのコード移行とCI/CD構築に至った話](https://dev.to/kaziusan/tatuta1mei-noyin-kishen-basaretahua-xiang-kara-aws-lambdanokodoyi-xing-tocicdgou-zhu-nizhi-tutahua-252p)**
+  *<h2>
+  
+  
+  始まり
+</h2>
 
-- **[Ringer Movies: The 25 Best Movies of the Century: No. 6 - 'Mulholland Drive’](https://dev.to/popcorn_movies/ringer-movies-the-25-best-movies-of-the-century-no-6-mulholland-drive-h48)**
-  *<p><strong>Sean Fennessey and Amanda Dobbins are back with their countdown of the 21st century’s best films, landing on No. 6: David Lynch’s Mulholland Drive.</strong> They dive into why this surreal ...*
-  📅 Fri, 07 Nov 2025 18:01:13 +0000
+<p>ある日、開発中の画面でサムネイル画像が不自然に引き伸ばされて表示されていることに気づきました。</p>
+
+<p>「ああ、このパターンな。CSSのobject-fitがcoverになってるのをcontainにすれば直るやつじゃ」</p>
+
+<p>そう高を括ってコードを修正。しかし、表示は変わらず引き伸ばされたまま。ブラウザの開発者ツールで画像のU...*
+  📅 Sat, 08 Nov 2025 00:42:07 +0000
+
+- **[Building a Mini Build System in Go: Understanding How Bazel Works Under the Hood](https://dev.to/tmwakalasya/building-a-mini-build-system-in-go-understanding-how-bazel-works-under-the-hood-3gp6)**
+  *<p>Imagine you're running a restaurant kitchen. You have recipes (build targets), ingredients (source files), and some dishes that need other dishes to be ready first (dependencies). How do you organi...*
+  📅 Sat, 08 Nov 2025 00:27:40 +0000
 
 </details>
 
@@ -114,57 +127,49 @@
 
 ### 📈 Daily Trending
 
-- **[fastgs/FastGS](https://github.com/fastgs/FastGS)** ⭐ 61
-  ![None](https://img.shields.io/badge/-None-lightgrey)
-  Offical code for "FastGS: Training 3D Gaussian Splatting in 100 Seconds"
+- **[seanpm2001/Zag_Website](https://github.com/seanpm2001/Zag_Website)** ⭐ 1
+  ![CSS](https://img.shields.io/badge/-CSS-lightgrey)
+  ♒️🌐️ The official source repository for the website of the Zag project, a Zig language IDE written in Zig.
 
-- **[saildrag/DiscordRAT](https://github.com/saildrag/DiscordRAT)** ⭐ 48
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  Discord Remote Administration Tool fully written in Python3
-
-- **[WaRPFaLCon200/defi-arbitrage-bot-deployer](https://github.com/WaRPFaLCon200/defi-arbitrage-bot-deployer)** ⭐ 37
-  ![None](https://img.shields.io/badge/-None-lightgrey)
-  Autonomous DeFi arbitrage bot deployer. Deploy smart contract on Ethereum, Arbitrum, Polygon. AI-powered trading with 0.001% commission.
-
-- **[dorkatyan/cleonicemari6930](https://github.com/dorkatyan/cleonicemari6930)** ⭐ 34
-  ![None](https://img.shields.io/badge/-None-lightgrey)
-  ⬇️Link in article⬇️
-
-- **[LUNGMEN-GOV/MaixFace](https://github.com/LUNGMEN-GOV/MaixFace)** ⭐ 20
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  MaixFace is an AI-based face recognition access control system built on Maixduino, featuring remote enrollment, low-power wake/sleep management, and HTTP event triggers for IoT automation.
-
-- **[AIDC-AI/Pixelle-Video](https://github.com/AIDC-AI/Pixelle-Video)** ⭐ 19
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  🚀 AI 全自动短视频引擎 | AI Fully Automated Short Video Engine
-
-- **[radhityaa/ayasya-wagw](https://github.com/radhityaa/ayasya-wagw)** ⭐ 18
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
-  Ayasya Whatsapp Gateway By Ayasya Tech Indonesia
-
-- **[lb-li/Synapse](https://github.com/lb-li/Synapse)** ⭐ 17
-  ![C#](https://img.shields.io/badge/-C#-lightgrey)
+- **[chapmjs/scm461-20251107](https://github.com/chapmjs/scm461-20251107)** ⭐ 1
+  ![R](https://img.shields.io/badge/-R-lightgrey)
   None
+
+- **[LuisReyes5611/babyking](https://github.com/LuisReyes5611/babyking)** ⭐ 1
+  ![PHP](https://img.shields.io/badge/-PHP-lightgrey)
+  None
+
+- **[seanpm2001/The_Bandwidth_Band_Website](https://github.com/seanpm2001/The_Bandwidth_Band_Website)** ⭐ 1
+  ![CSS](https://img.shields.io/badge/-CSS-lightgrey)
+  ⬆️🥁️⬇️🌐️ The official source repository for the website of The Bandwidth Band project, a a set of tools regarding Bandwidth usage, management, and automation tasks. 
+
+- **[zaftus/ClimaView](https://github.com/zaftus/ClimaView)** ⭐ 1
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
+  ClimaView is a modern, responsive weather application built with React + Vite that allows users to search for any city and view detailed current weather data, including temperature, humidity, wind speed, and condition icons.
+
+- **[luckyman0026/test](https://github.com/luckyman0026/test)** ⭐ 1
+  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
+  None
+
+- **[zaftus/Algorithm-Visualizer](https://github.com/zaftus/Algorithm-Visualizer)** ⭐ 1
+  ![None](https://img.shields.io/badge/-None-lightgrey)
+  HTML + CSS + Input code
+
+- **[Milessmith2031/Dove-forever](https://github.com/Milessmith2031/Dove-forever)** ⭐ 1
+  ![HTML](https://img.shields.io/badge/-HTML-lightgrey)
+  A website that encourages people to support a foundation that helps protect dove habitats for future hunters for years to come
 
 ### 📈 Weekly Trending
 
-- **[borndotcom/react-native-godot](https://github.com/borndotcom/react-native-godot)** ⭐ 2,219
-  ![C++](https://img.shields.io/badge/-C++-pink)
-  React Native Godot - Embed Godot Engine in React Native apps
-
-- **[Snowflake-Labs/pg_lake](https://github.com/Snowflake-Labs/pg_lake)** ⭐ 1,042
+- **[Snowflake-Labs/pg_lake](https://github.com/Snowflake-Labs/pg_lake)** ⭐ 1,052
   ![C](https://img.shields.io/badge/-C-lightgrey)
   pg_lake: Postgres with Iceberg and data lake access
 
-- **[skydoves/compose-stability-analyzer](https://github.com/skydoves/compose-stability-analyzer)** ⭐ 830
-  ![Kotlin](https://img.shields.io/badge/-Kotlin-lightgrey)
-  🦄 Real-time analysis of Jetpack Compose composable functions' stability directly within Android Studio or IntelliJ.
-
-- **[openpcc/openpcc](https://github.com/openpcc/openpcc)** ⭐ 666
+- **[openpcc/openpcc](https://github.com/openpcc/openpcc)** ⭐ 682
   ![Go](https://img.shields.io/badge/-Go-cyan)
   An open-source framework for provably private AI inference
 
-- **[codykociemba/NoLongerEvil-Thermostat](https://github.com/codykociemba/NoLongerEvil-Thermostat)** ⭐ 600
+- **[codykociemba/NoLongerEvil-Thermostat](https://github.com/codykociemba/NoLongerEvil-Thermostat)** ⭐ 607
   ![C](https://img.shields.io/badge/-C-lightgrey)
   Breathe fresh life into your bricked Nest Gen 1 & 2, now with 100% less evil!
 
@@ -172,47 +177,55 @@
   ![Python](https://img.shields.io/badge/-Python-blue)
   Sora 2 AI generated videos gentle watermark remover
 
-- **[LaravelDaily/Large-Laravel-PHP-Project-Examples](https://github.com/LaravelDaily/Large-Laravel-PHP-Project-Examples)** ⭐ 282
-  ![None](https://img.shields.io/badge/-None-lightgrey)
+- **[Infatoshi/all-of-it](https://github.com/Infatoshi/all-of-it)** ⭐ 256
+  ![Jupyter Notebook](https://img.shields.io/badge/-Jupyter Notebook-lightgrey)
   None
 
-- **[minhducdz99/apps.apple.com](https://github.com/minhducdz99/apps.apple.com)** ⭐ 257
-  ![HTML](https://img.shields.io/badge/-HTML-lightgrey)
-  web apps.apple.com
+- **[imtonyjaa/twitterxdownload](https://github.com/imtonyjaa/twitterxdownload)** ⭐ 235
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
+  a powerful twitter video downloader and twitter marketing online tool. repost any tweet auto translation.
+
+- **[th1n0/CVE-2025-59287](https://github.com/th1n0/CVE-2025-59287)** ⭐ 229
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  WSUS vulnerability PoC
+
+- **[qy527145/acemcp](https://github.com/qy527145/acemcp)** ⭐ 224
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  一个将ACE(Augment Context Engine) 做成MCP的项目
 
 ### 📈 Monthly Trending
 
-- **[karpathy/nanochat](https://github.com/karpathy/nanochat)** ⭐ 36,020
+- **[karpathy/nanochat](https://github.com/karpathy/nanochat)** ⭐ 36,039
   ![Python](https://img.shields.io/badge/-Python-blue)
   The best ChatGPT that $100 can buy.
 
-- **[deepseek-ai/DeepSeek-OCR](https://github.com/deepseek-ai/DeepSeek-OCR)** ⭐ 19,811
+- **[deepseek-ai/DeepSeek-OCR](https://github.com/deepseek-ai/DeepSeek-OCR)** ⭐ 19,823
   ![Python](https://img.shields.io/badge/-Python-blue)
   Contexts Optical Compression
 
-- **[toon-format/toon](https://github.com/toon-format/toon)** ⭐ 11,562
+- **[toon-format/toon](https://github.com/toon-format/toon)** ⭐ 11,629
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   🎒 Token-Oriented Object Notation (TOON) – A compact, deterministic JSON format for LLM prompts. Spec, benchmarks, TypeScript SDK.
 
-- **[HKUDS/AI-Trader](https://github.com/HKUDS/AI-Trader)** ⭐ 9,076
+- **[HKUDS/AI-Trader](https://github.com/HKUDS/AI-Trader)** ⭐ 9,081
   ![Python](https://img.shields.io/badge/-Python-blue)
   "AI-Trader: Can AI Beat the Market?" Live Trading Bench: https://hkuds.github.io/AI-Trader/
 
-- **[NoFxAiOS/nofx](https://github.com/NoFxAiOS/nofx)** ⭐ 7,003
+- **[NoFxAiOS/nofx](https://github.com/NoFxAiOS/nofx)** ⭐ 7,014
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   NOFX: Defining the Next-Generation AI Trading Operating System. A multi-exchange Al trading platform(Binance/Hyperliquid/Aster) with multi-Ai competition(deepseek/qwen/claude)self-evolution, and real-time dashboard
 
-- **[obra/superpowers](https://github.com/obra/superpowers)** ⭐ 6,275
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
-  Claude Code superpowers: core skills library
-
-- **[diet103/claude-code-infrastructure-showcase](https://github.com/diet103/claude-code-infrastructure-showcase)** ⭐ 4,083
+- **[diet103/claude-code-infrastructure-showcase](https://github.com/diet103/claude-code-infrastructure-showcase)** ⭐ 4,102
   ![Shell](https://img.shields.io/badge/-Shell-lightgrey)
   Examples of my Claude Code infrastructure with skill auto-activation, hooks, and agents
 
-- **[yusufkaraaslan/Skill_Seekers](https://github.com/yusufkaraaslan/Skill_Seekers)** ⭐ 3,551
+- **[yusufkaraaslan/Skill_Seekers](https://github.com/yusufkaraaslan/Skill_Seekers)** ⭐ 3,558
   ![Python](https://img.shields.io/badge/-Python-blue)
   Convert documentation websites, GitHub repositories, and PDFs into Claude AI skills with automatic conflict detection
+
+- **[alam00000/bentopdf](https://github.com/alam00000/bentopdf)** ⭐ 3,382
+  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
+  A Privacy First PDF Toolkit
 
 ## 🚀 Latest Releases
 
@@ -484,30 +497,30 @@ See [kubernetes-announce@](https://groups.google.com/forum/#!forum/kubernetes-an
 
 | Skill | Status |
 |-------|--------|
-| Java | 🔴 Beginner |
+| Java | 🟢 Proficient |
 | Python | 🟢 Proficient |
-| JavaScript | 🟡 Learning |
-| TypeScript | 🟡 Learning |
-| Go | 🔴 Beginner |
+| JavaScript | ⚪ Planned |
+| TypeScript | 🔴 Beginner |
+| Go | 🟢 Proficient |
 
 ### Frameworks
 
 | Skill | Status |
 |-------|--------|
-| React | 🟢 Proficient |
-| Spring Boot | 🟢 Proficient |
-| Django | 🟡 Learning |
-| Node.js | 🔴 Beginner |
-| Next.js | 🔴 Beginner |
+| React | ⚪ Planned |
+| Spring Boot | 🔴 Beginner |
+| Django | ⚪ Planned |
+| Node.js | 🟢 Proficient |
+| Next.js | ⚪ Planned |
 
 ### Cybersecurity
 
 | Skill | Status |
 |-------|--------|
-| Penetration Testing | 🟢 Proficient |
-| Web Security | 🟢 Proficient |
+| Penetration Testing | 🟡 Learning |
+| Web Security | 🔴 Beginner |
 | Network Security | 🟢 Proficient |
-| OWASP | 🟡 Learning |
+| OWASP | ⚪ Planned |
 
 ### Ai Ml
 
@@ -515,19 +528,19 @@ See [kubernetes-announce@](https://groups.google.com/forum/#!forum/kubernetes-an
 |-------|--------|
 | Machine Learning | ⚪ Planned |
 | Deep Learning | 🟢 Proficient |
-| NLP | 🔴 Beginner |
+| NLP | ⚪ Planned |
 | Computer Vision | ⚪ Planned |
-| TensorFlow | 🔴 Beginner |
-| PyTorch | 🟡 Learning |
+| TensorFlow | 🟡 Learning |
+| PyTorch | 🔴 Beginner |
 
 ### Devops
 
 | Skill | Status |
 |-------|--------|
-| Docker | 🔴 Beginner |
-| Kubernetes | ⚪ Planned |
-| CI/CD | 🟡 Learning |
-| AWS | 🔴 Beginner |
+| Docker | 🟢 Proficient |
+| Kubernetes | 🔴 Beginner |
+| CI/CD | 🔴 Beginner |
+| AWS | 🟢 Proficient |
 | Azure | 🔴 Beginner |
 
 ### Other
@@ -535,8 +548,8 @@ See [kubernetes-announce@](https://groups.google.com/forum/#!forum/kubernetes-an
 | Skill | Status |
 |-------|--------|
 | Blockchain | 🔴 Beginner |
-| Web3 | 🟢 Proficient |
-| Cloud Computing | ⚪ Planned |
+| Web3 | 🟡 Learning |
+| Cloud Computing | 🟡 Learning |
 
 </details>
 
@@ -554,7 +567,7 @@ This dashboard is automatically updated every 6 hours using GitHub Actions. The 
 
 <div align="center">
 
-**Last Updated:** November 07, 2025
+**Last Updated:** November 08, 2025
 
 Made with ❤️ and automated with GitHub Actions
 
