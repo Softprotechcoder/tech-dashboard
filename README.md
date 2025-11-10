@@ -20,8 +20,8 @@
 | Metric | Count |
 |--------|-------|
 | 📰 Latest News Articles | 26 |
-| 🔥 Trending Repositories | 0 |
-| 🎯 Latest Releases | 10 |
+| 🔥 Trending Repositories | 45 |
+| 🎯 Latest Releases | 0 |
 | 🎯 Learning Goals | 4 |
 
 ## 🎯 Current Focus
@@ -46,229 +46,184 @@
 
 ### 📑 Hacker News
 
-- **[DNS Provider Quad9 Sees Piracy Blocking Orders as "Existential Threat"](https://torrentfreak.com/dns-provider-quad9-sees-piracy-blocking-orders-as-existential-threat/)**
-  *<p>Article URL: <a href="https://torrentfreak.com/dns-provider-quad9-sees-piracy-blocking-orders-as-existential-threat/">https://torrentfreak.com/dns-provider-quad9-sees-piracy-blocking-orders-as-exis...*
-  📅 Mon, 10 Nov 2025 11:21:47 +0000
+- **[Hacker News Headlines (game)](https://projects.peercy.net/projects/hn-oracle/index.html)**
+  *<p>Article URL: <a href="https://projects.peercy.net/projects/hn-oracle/index.html">https://projects.peercy.net/projects/hn-oracle/index.html</a></p>
+<p>Comments URL: <a href="https://news.ycombinator...*
+  📅 Mon, 10 Nov 2025 17:47:49 +0000
 
-- **[Europe to decide if 6 GHz is shared between Wi-Fi and cellular networks](https://www.theregister.com/2025/11/09/europe_to_decide_if_6/)**
-  *<p>Article URL: <a href="https://www.theregister.com/2025/11/09/europe_to_decide_if_6/">https://www.theregister.com/2025/11/09/europe_to_decide_if_6/</a></p>
-<p>Comments URL: <a href="https://news.yco...*
-  📅 Mon, 10 Nov 2025 10:53:35 +0000
+- **[Canadian military will rely on army of public servants to grow its ranks by 300k](https://ottawacitizen.com/public-service/defence-watch/canadian-military-public-servants)**
+  *<p>Article URL: <a href="https://ottawacitizen.com/public-service/defence-watch/canadian-military-public-servants">https://ottawacitizen.com/public-service/defence-watch/canadian-military-public-serva...*
+  📅 Mon, 10 Nov 2025 16:55:08 +0000
 
-- **[Installing and using HP-UX 9](https://thejpster.org.uk/blog/blog-2025-11-08/)**
-  *<p>Article URL: <a href="https://thejpster.org.uk/blog/blog-2025-11-08/">https://thejpster.org.uk/blog/blog-2025-11-08/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=45873904"...*
-  📅 Mon, 10 Nov 2025 08:48:14 +0000
+- **[ClickHouse acquires LibreChat, open-source AI chat platform](https://clickhouse.com/blog/librechat-open-source-agentic-data-stack)**
+  *<p>Article URL: <a href="https://clickhouse.com/blog/librechat-open-source-agentic-data-stack">https://clickhouse.com/blog/librechat-open-source-agentic-data-stack</a></p>
+<p>Comments URL: <a href="ht...*
+  📅 Mon, 10 Nov 2025 16:44:40 +0000
 
-- **[Microsoft's lack of quality control is out of control](https://www.theregister.com/2025/11/08/microsoft_lacks_quality_control/)**
-  *<p>Article URL: <a href="https://www.theregister.com/2025/11/08/microsoft_lacks_quality_control/">https://www.theregister.com/2025/11/08/microsoft_lacks_quality_control/</a></p>
-<p>Comments URL: <a hr...*
-  📅 Mon, 10 Nov 2025 08:44:52 +0000
+- **[Benchmarking leading AI agents against Google reCAPTCHA v2](https://research.roundtable.ai/captcha-benchmarking/)**
+  *<p>Article URL: <a href="https://research.roundtable.ai/captcha-benchmarking/">https://research.roundtable.ai/captcha-benchmarking/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?...*
+  📅 Mon, 10 Nov 2025 16:38:31 +0000
 
-- **[EU takes aim at plastic pellets to prevent their nightmare cleanup](https://www.yahoo.com/news/articles/eu-takes-aim-plastic-pellets-030314496.html)**
-  *<p>Article URL: <a href="https://www.yahoo.com/news/articles/eu-takes-aim-plastic-pellets-030314496.html">https://www.yahoo.com/news/articles/eu-takes-aim-plastic-pellets-030314496.html</a></p>
-<p>Com...*
-  📅 Mon, 10 Nov 2025 08:27:27 +0000
+- **[Launch HN: Hypercubic (YC F25) – AI for COBOL and Mainframes](https://www.hypercubic.ai/)**
+  *<p>Hi HN, we’re Sai and Aayush and we’re building Hypercubic (<a href="https://www.hypercubic.ai/">https://www.hypercubic.ai/</a>)!<p>Hypercubic is an AI platform that helps Fortune 500 companies unde...*
+  📅 Mon, 10 Nov 2025 16:23:24 +0000
 
-- **[The Linux Kernel Looks to "Bite the Bullet" in Enabling Microsoft C Extensions](https://www.phoronix.com/news/Linux-6.19-Patch-Would-MS-Ext)**
-  *<p>Article URL: <a href="https://www.phoronix.com/news/Linux-6.19-Patch-Would-MS-Ext">https://www.phoronix.com/news/Linux-6.19-Patch-Would-MS-Ext</a></p>
-<p>Comments URL: <a href="https://news.ycombin...*
-  📅 Mon, 10 Nov 2025 08:09:31 +0000
+- **[Unexpected things that are people](https://bengoldhaber.substack.com/p/unexpected-things-that-are-people)**
+  *<p>Article URL: <a href="https://bengoldhaber.substack.com/p/unexpected-things-that-are-people">https://bengoldhaber.substack.com/p/unexpected-things-that-are-people</a></p>
+<p>Comments URL: <a href="...*
+  📅 Mon, 10 Nov 2025 16:05:46 +0000
 
 ### 📑 TechCrunch
 
-- **[Lenskart recovers from tepid open to close first day slightly above IPO price](https://techcrunch.com/2025/11/10/lenskart-recovers-from-tepid-open-to-close-first-day-slightly-above-ipo-price/)**
-  *Lenskart's public listing stirred debate over the nearly $8 billion valuation set in its IPO....*
-  📅 Mon, 10 Nov 2025 12:06:40 +0000
+- **[Consolidation begins to hit the carbon credit market](https://techcrunch.com/2025/11/10/consolidation-begins-to-hit-the-carbon-credit-market/)**
+  *Carbon Direct is buying Pachama as the voluntary carbon markets enter a period of uncertainty....*
+  📅 Mon, 10 Nov 2025 16:29:57 +0000
 
-- **[Blue Origin scrubs second New Glenn launch, will try again November 12](https://techcrunch.com/2025/11/09/blue-origin-scrubs-second-new-glenn-launch-will-try-again-november-12/)**
-  *It's an important launch for Jeff Bezos' space company, which is trying to prove its rockets can be re-used while delivering its first commercial payloads....*
-  📅 Mon, 10 Nov 2025 00:17:00 +0000
+- **[YouTubers aren’t relying on ad revenue anymore — here’s how some are diversifying](https://techcrunch.com/2025/11/10/youtubers-arent-relying-on-ad-revenue-anymore-heres-how-some-are-diversifying/)**
+  *YouTubers are no longer just creators, and in some cases, their side businesses are growing faster than their channels....*
+  📅 Mon, 10 Nov 2025 16:00:00 +0000
 
-- **[Slow Ventures holds a ‘finishing school’ to help founders learn to be fancy](https://techcrunch.com/2025/11/09/slow-ventures-holds-a-finishing-school-to-help-founders-learn-to-be-fancy/)**
-  *Slow Ventures hosted a three-hour “Etiquette Finishing School” this week, covering topics like the perfect handshake, public speaking, and office decorum....*
-  📅 Sun, 09 Nov 2025 21:58:31 +0000
+- **[Google Maps releases new AI tools that let you create interactive projects](https://techcrunch.com/2025/11/10/google-maps-releases-new-ai-tools-to-let-you-create-interactive-projects/)**
+  *Google is debuting an agent that will generate code for you to build interactive Maps projects....*
+  📅 Mon, 10 Nov 2025 16:00:00 +0000
 
-- **[YouTube TV is giving customers a $20 credit for Disney blackout](https://techcrunch.com/2025/11/09/youtube-tv-is-giving-customers-a-20-credit-for-disney-blackout/)**
-  *YouTube TV subscribers unhappy about going more than a week without ESPN, ABC, and other Disney networks will be getting a $20 credit that can be applied to their next billing statement....*
-  📅 Sun, 09 Nov 2025 21:40:00 +0000
+- **[Venmo launches cash back rewards program for debit cards](https://techcrunch.com/2025/11/10/venmo-launches-cash-back-rewards-program-for-debit-cards/)**
+  *Venmo launches a cash back program for debit card users, as credit card use declines among Gen Z....*
+  📅 Mon, 10 Nov 2025 15:29:36 +0000
 
-- **[Elon Musk uses Grok to imagine the possibility of love](https://techcrunch.com/2025/11/09/elon-musk-uses-grok-to-imagine-the-possibility-of-love/)**
-  *After Tesla shareholders approved a new compensation package that could be worth $1 trillion, CEO Elon Musk appears to be celebrating with a normal weekend on his social media platform X....*
-  📅 Sun, 09 Nov 2025 20:12:12 +0000
+- **[Knicks player Miles McBride launches a location-sharing friendship app to rival Snap Map](https://techcrunch.com/2025/11/10/knicks-player-miles-mcbride-launches-a-location-sharing-friendship-app-to-rival-snap-map/)**
+  *Mmotion is a new friendship app that combines elements of location sharing with social discovery features to find nearby users with shared interests....*
+  📅 Mon, 10 Nov 2025 15:06:46 +0000
 
-- **[Apple reportedly plans ambitious satellite-powered iPhone features](https://techcrunch.com/2025/11/09/apple-reportedly-plans-ambitious-satellite-powered-iphone-features/)**
-  *While Apple’s iPhone already supports texting, calling emergency services, and contacting roadside assistance via satellite connectivity, the company may have many more satellite-powered features in t...*
-  📅 Sun, 09 Nov 2025 17:42:00 +0000
+- **[Amazon Music allows users in Canada to chat and stream music with each other](https://techcrunch.com/2025/11/10/amazon-music-allows-users-in-canada-to-chat-and-stream-music-with-each-other/)**
+  *Amazon Music now lets users in Canada create and join groups based on their favorite genres and artists....*
+  📅 Mon, 10 Nov 2025 15:00:00 +0000
 
 ### 📑 Dev.to
 
-- **[Building a Cloud-Native App to Match Founders with the Right Hackathon](https://dev.to/abishek_muthian/building-a-cloud-native-app-to-match-founders-with-the-right-hackathon-14ae)**
-  *<blockquote>
-<p>I'm writing this blog as a participant in Cloud Run Hackathon by Google Cloud</p>
-</blockquote>
+- **[[Boost]](https://dev.to/gracetyy/-39f9)**
+  *<div class="ltag__link">
+  <a class="ltag__link__link" href="https://dev.to/gracetyy">
+    <div class="ltag__link__pic">
+      <img alt="gracetyy" src="https://media2.dev.to/dynamic/image/width=800%2C...*
+  📅 Mon, 10 Nov 2025 17:54:30 +0000
 
-<p>For the past several years, I’ve been self-funding my startup ideas by participating...*
-  📅 Mon, 10 Nov 2025 12:19:19 +0000
-
-- **[The Next Frontier in NLP: Smarter Agents, Not Just Bigger Models](https://dev.to/capestart/the-next-frontier-in-nlp-smarter-agents-not-just-bigger-models-5ddc)**
-  *<h1>
-  
-  
-  Introduction: Beyond the Limits of Supervised Learning
-</h1>
-
-<p>Imagine a world where AI not only mimics human summaries but also exceeds them in quality. For years, Natural Language Pro...*
-  📅 Mon, 10 Nov 2025 12:15:01 +0000
+- **[Best Free SQL Database Software — What to Know Before You Choose](https://dev.to/samantha_brauer/best-free-sql-database-software-what-to-know-before-you-choose-16ik)**
+  *<p>Choosing a free SQL database tool isn’t just about saving money — it’s about strategy.<br />
+The article  <a href="https://blog.devart.com/best-free-sql-database-software.html" rel="noopener norefe...*
+  📅 Mon, 10 Nov 2025 17:43:15 +0000
 
 </details>
 
 ## 🔥 Trending Repositories
 
+### 📈 Daily Trending
+
+- **[nozy-greier/ai-vids](https://github.com/nozy-greier/ai-vids)** ⭐ 526
+  ![None](https://img.shields.io/badge/-None-lightgrey)
+  https://tinyurl.com/best-ai-video  Directory of NSFW AI Video and Image Generators.
+
+- **[f/git-rewrite-commits](https://github.com/f/git-rewrite-commits)** ⭐ 284
+  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
+  AI-powered git commit message rewriter using GPT
+
+- **[welcome-bonuses/stake-bonus-promo-code](https://github.com/welcome-bonuses/stake-bonus-promo-code)** ⭐ 228
+  ![None](https://img.shields.io/badge/-None-lightgrey)
+  Get the Casino Bonus 2025 and claim your Welcome Bonus. Use code 2025 to unlock crypto rewards, stake cashback, and deposit promotions. Fast payouts, secure gaming, and exclusive Stake Bonus promos — your gateway to the best casino experience this year!
+
+- **[Meph1s-t/Startrail-Gal](https://github.com/Meph1s-t/Startrail-Gal)** ⭐ 134
+  ![Ren'Py](https://img.shields.io/badge/-Ren'Py-lightgrey)
+  None
+
+- **[ioniks/MarkdownTaskManager](https://github.com/ioniks/MarkdownTaskManager)** ⭐ 47
+  ![HTML](https://img.shields.io/badge/-HTML-lightgrey)
+  Local-first Kanban task manager
+
+- **[luxutiousman472/didactic-fishstick](https://github.com/luxutiousman472/didactic-fishstick)** ⭐ 28
+  ![None](https://img.shields.io/badge/-None-lightgrey)
+  ⬇️Link in article⬇️
+
+- **[prsona4/uniquesoft](https://github.com/prsona4/uniquesoft)** ⭐ 25
+  ![None](https://img.shields.io/badge/-None-lightgrey)
+  https://uniqueclicks.xyz/
+
+- **[laromaa/maa-soft](https://github.com/laromaa/maa-soft)** ⭐ 24
+  ![None](https://img.shields.io/badge/-None-lightgrey)
+  https://uniqueclicks.xyz/
+
+### 📈 Weekly Trending
+
+- **[Snapchat/Valdi](https://github.com/Snapchat/Valdi)** ⭐ 4,829
+  ![C++](https://img.shields.io/badge/-C++-pink)
+  Valdi is a cross-platform UI framework that delivers native performance without sacrificing developer velocity.
+
+- **[Snowflake-Labs/pg_lake](https://github.com/Snowflake-Labs/pg_lake)** ⭐ 1,159
+  ![C](https://img.shields.io/badge/-C-lightgrey)
+  pg_lake: Postgres with Iceberg and data lake access
+
+- **[openpcc/openpcc](https://github.com/openpcc/openpcc)** ⭐ 781
+  ![Go](https://img.shields.io/badge/-Go-cyan)
+  An open-source framework for provably private AI inference
+
+- **[SolanaUpdateTools/solana-starter-kit](https://github.com/SolanaUpdateTools/solana-starter-kit)** ⭐ 614
+  ![None](https://img.shields.io/badge/-None-lightgrey)
+  Open-source Solana dApp template with Anchor program, TypeScript client, and Next.js UI.
+
+- **[eooce/Auto-login-netlib](https://github.com/eooce/Auto-login-netlib)** ⭐ 596
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
+  自动登录netlib.re网站保活域名
+
+- **[nozy-greier/ai-vids](https://github.com/nozy-greier/ai-vids)** ⭐ 526
+  ![None](https://img.shields.io/badge/-None-lightgrey)
+  https://tinyurl.com/best-ai-video  Directory of NSFW AI Video and Image Generators.
+
+- **[gamosoft/NoteDiscovery](https://github.com/gamosoft/NoteDiscovery)** ⭐ 369
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
+  Your Self-Hosted Knowledge Base
+
+- **[sheepbox8646/ChatTutor](https://github.com/sheepbox8646/ChatTutor)** ⭐ 346
+  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
+  👨‍🏫 ChatTutor: Visual and Interactive AI Tutor
+
+### 📈 Monthly Trending
+
+- **[karpathy/nanochat](https://github.com/karpathy/nanochat)** ⭐ 36,290
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  The best ChatGPT that $100 can buy.
+
+- **[deepseek-ai/DeepSeek-OCR](https://github.com/deepseek-ai/DeepSeek-OCR)** ⭐ 20,106
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  Contexts Optical Compression
+
+- **[toon-format/toon](https://github.com/toon-format/toon)** ⭐ 12,677
+  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
+  🎒 Token-Oriented Object Notation (TOON) – Compact, human-readable, schema-aware JSON for LLM prompts. Spec, benchmarks, TypeScript SDK.
+
+- **[HKUDS/AI-Trader](https://github.com/HKUDS/AI-Trader)** ⭐ 9,211
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  "AI-Trader: Can AI Beat the Market?" Live Trading Bench: https://ai4trade.ai
+
+- **[NoFxAiOS/nofx](https://github.com/NoFxAiOS/nofx)** ⭐ 7,302
+  ![Go](https://img.shields.io/badge/-Go-cyan)
+  NOFX: Defining the Next-Generation AI Trading Operating System. A multi-exchange Al trading platform(Binance/Hyperliquid/Aster) with multi-Ai competition(deepseek/qwen/claude)self-evolution, and real-time dashboard
+
+- **[diet103/claude-code-infrastructure-showcase](https://github.com/diet103/claude-code-infrastructure-showcase)** ⭐ 5,876
+  ![Shell](https://img.shields.io/badge/-Shell-lightgrey)
+  Examples of my Claude Code infrastructure with skill auto-activation, hooks, and agents
+
+- **[Snapchat/Valdi](https://github.com/Snapchat/Valdi)** ⭐ 4,829
+  ![C++](https://img.shields.io/badge/-C++-pink)
+  Valdi is a cross-platform UI framework that delivers native performance without sacrificing developer velocity.
+
+- **[yusufkaraaslan/Skill_Seekers](https://github.com/yusufkaraaslan/Skill_Seekers)** ⭐ 3,693
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  Convert documentation websites, GitHub repositories, and PDFs into Claude AI skills with automatic conflict detection
+
 ## 🚀 Latest Releases
 
 <details>
 <summary>Click to expand latest releases</summary>
-
-### 📦 microsoft/vscode
-
-**[September 2025 Recovery 1](https://github.com/microsoft/vscode/releases/tag/1.105.1)** `1.105.1`
-
-📅 Released: October 15, 2025
-
-The update addresses these [issues](https://github.com/Microsoft/vscode/issues?q=is%3Aissue+milestone%3A%22September+2025+Recovery+1%22+is%3Aclosed+).
-
-For the complete release notes go to [Updates]...
-
----
-
-### 📦 facebook/react
-
-**[19.2.0 (Oct 1, 2025)](https://github.com/facebook/react/releases/tag/v19.2.0)** `v19.2.0`
-
-📅 Released: October 01, 2025
-
-Below is a list of all new features, APIs, and bug fixes.
-
-Read the [React 19.2 release post](https://react.dev/blog/2025/10/01/react-19-2) for more information.
-
-## New React Features
-
-- [`<Act...
-
----
-
-### 📦 angular/angular
-
-**[20.3.10](https://github.com/angular/angular/releases/tag/20.3.10)** `20.3.10`
-
-📅 Released: November 05, 2025
-
-### compiler-cli
-| Commit | Description |
-| -- | -- |
-| [![fix - 840db59dc1](https://img.shields.io/badge/840db59dc1-fix-green)](https://github.com/angular/angular/commit/840db59dc1a9beb0b4e63799b5d56...
-
----
-
-### 📦 vuejs/vue
-
-**[v2.7.16 "Swan Song"](https://github.com/vuejs/vue/releases/tag/v2.7.16)** `v2.7.16`
-
-📅 Released: December 24, 2023
-
-**This is the final release for Vue 2.**
-
-Vue 2 will reach End of Life on December 31st, 2023. For more details, please read this [blog post](https://blog.vuejs.org/posts/vue-2-eol).
-
-Please refer...
-
----
-
-### 📦 tensorflow/tensorflow
-
-**[TensorFlow 2.20.0](https://github.com/tensorflow/tensorflow/releases/tag/v2.20.0)** `v2.20.0`
-
-📅 Released: August 13, 2025
-
-# Release 2.20.0
-
-## TensorFlow
-
-### Breaking Changes
-
-* The `tensorflow-io-gcs-filesystem` package is now optional, due its uncertain, and limited support. To install it alongside `tensorflow`,...
-
----
-
-### 📦 pytorch/pytorch
-
-**[2.9 Release Notes](https://github.com/pytorch/pytorch/releases/tag/v2.9.0)** `v2.9.0`
-
-📅 Released: October 15, 2025
-
-# PyTorch 2.9.0 Release Notes
-- [Highlights](#highlights)
-- [Backwards Incompatible Changes](#backwards-incompatible-changes)
-- [Deprecations](#deprecations)
-- [New Features](#new-features)
-- [Im...
-
----
-
-### 📦 kubernetes/kubernetes
-
-**[Kubernetes v1.34.1](https://github.com/kubernetes/kubernetes/releases/tag/v1.34.1)** `v1.34.1`
-
-📅 Released: September 10, 2025
-
-
-See [kubernetes-announce@](https://groups.google.com/forum/#!forum/kubernetes-announce). Additional binary downloads are linked in the [CHANGELOG](https://github.com/kubernetes/kubernetes/blob/master...
-
----
-
-### 📦 docker/compose
-
-**[v2.40.3](https://github.com/docker/compose/releases/tag/v2.40.3)** `v2.40.3`
-
-📅 Released: October 30, 2025
-
-## What's Changed
-### 🐛 Fixes
-* Fix OCI compose override support by @ndeloof https://github.com/docker/compose/pull/13311
-* Fix help output for "exec --no-tty" option by @tonyo https://github.com/d...
-
----
-
-### 📦 nodejs/node
-
-**[2025-10-28, Version 25.1.0 (Current), @aduh95](https://github.com/nodejs/node/releases/tag/v25.1.0)** `v25.1.0`
-
-📅 Released: October 28, 2025
-
-
-
-
-### Notable Changes
-
-* \[[`4395fe14b9`](https://github.com/nodejs/node/commit/4395fe14b9)] - **(SEMVER-MINOR)** **http**: add optimizeEmptyRequests server option (Rafael Gonzaga) [#59778](https://g...
-
----
-
-### 📦 rust-lang/rust
-
-**[Rust 1.91.0](https://github.com/rust-lang/rust/releases/tag/1.91.0)** `1.91.0`
-
-📅 Released: October 30, 2025
-
-<a id="1.91.0-Language"></a>
-
-## Language
-
-- [Lower pattern bindings in the order they're written and base drop order on primary bindings' order](https://github.com/rust-lang/rust/pull/143764)
-- [Stab...
-
----
 
 </details>
 
@@ -395,20 +350,20 @@ See [kubernetes-announce@](https://groups.google.com/forum/#!forum/kubernetes-an
 
 | Skill | Status |
 |-------|--------|
-| Java | ⚪ Planned |
-| Python | ⚪ Planned |
-| JavaScript | 🟢 Proficient |
-| TypeScript | 🟡 Learning |
+| Java | 🟢 Proficient |
+| Python | 🟡 Learning |
+| JavaScript | 🔴 Beginner |
+| TypeScript | 🟢 Proficient |
 | Go | 🟢 Proficient |
 
 ### Frameworks
 
 | Skill | Status |
 |-------|--------|
-| React | ⚪ Planned |
+| React | 🔴 Beginner |
 | Spring Boot | 🔴 Beginner |
 | Django | ⚪ Planned |
-| Node.js | ⚪ Planned |
+| Node.js | 🟡 Learning |
 | Next.js | 🔴 Beginner |
 
 ### Cybersecurity
@@ -417,29 +372,29 @@ See [kubernetes-announce@](https://groups.google.com/forum/#!forum/kubernetes-an
 |-------|--------|
 | Penetration Testing | 🔴 Beginner |
 | Web Security | 🟢 Proficient |
-| Network Security | 🟡 Learning |
-| OWASP | 🔴 Beginner |
+| Network Security | 🔴 Beginner |
+| OWASP | 🟡 Learning |
 
 ### Ai Ml
 
 | Skill | Status |
 |-------|--------|
-| Machine Learning | 🟢 Proficient |
-| Deep Learning | ⚪ Planned |
-| NLP | 🟢 Proficient |
+| Machine Learning | 🔴 Beginner |
+| Deep Learning | 🟡 Learning |
+| NLP | 🟡 Learning |
 | Computer Vision | 🔴 Beginner |
-| TensorFlow | ⚪ Planned |
-| PyTorch | 🟢 Proficient |
+| TensorFlow | 🟡 Learning |
+| PyTorch | 🟡 Learning |
 
 ### Devops
 
 | Skill | Status |
 |-------|--------|
 | Docker | 🟢 Proficient |
-| Kubernetes | 🟢 Proficient |
-| CI/CD | 🔴 Beginner |
-| AWS | 🟢 Proficient |
-| Azure | 🟡 Learning |
+| Kubernetes | ⚪ Planned |
+| CI/CD | 🟢 Proficient |
+| AWS | 🟡 Learning |
+| Azure | 🟢 Proficient |
 
 ### Other
 
