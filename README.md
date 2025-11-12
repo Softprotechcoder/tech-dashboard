@@ -46,21 +46,16 @@
 
 ### 📑 Hacker News
 
-- **[Why Nietzsche Matters in the Age of Artificial Intelligence](https://cacm.acm.org/blogcacm/why-nietzsche-matters-in-the-age-of-artificial-intelligence/)**
+- **[Perkeep – Personal storage system for life](https://perkeep.org/)**
+  *<p>Article URL: <a href="https://perkeep.org/">https://perkeep.org/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=45896130">https://news.ycombinator.com/item?id=45896130</a></...*
+  📅 Wed, 12 Nov 2025 03:34:32 +0000
+
+- **[Why Nietzsche matters in the age of artificial intelligence](https://cacm.acm.org/blogcacm/why-nietzsche-matters-in-the-age-of-artificial-intelligence/)**
   *<p>Article URL: <a href="https://cacm.acm.org/blogcacm/why-nietzsche-matters-in-the-age-of-artificial-intelligence/">https://cacm.acm.org/blogcacm/why-nietzsche-matters-in-the-age-of-artificial-intell...*
   📅 Tue, 11 Nov 2025 23:59:49 +0000
 
-- **[I can build enterprise software but I can't charge for it](https://gist.github.com/EchenD/8b211ebfa4941d2c5df7b526790b31aa)**
-  *<p>Article URL: <a href="https://gist.github.com/EchenD/8b211ebfa4941d2c5df7b526790b31aa">https://gist.github.com/EchenD/8b211ebfa4941d2c5df7b526790b31aa</a></p>
-<p>Comments URL: <a href="https://news...*
-  📅 Tue, 11 Nov 2025 23:58:08 +0000
-
-- **[Who Still Uses Cash?](https://www.voronoiapp.com/economy/Who-Still-Uses-Cash-7090)**
-  *<p>Article URL: <a href="https://www.voronoiapp.com/economy/Who-Still-Uses-Cash-7090">https://www.voronoiapp.com/economy/Who-Still-Uses-Cash-7090</a></p>
-<p>Comments URL: <a href="https://news.ycombin...*
-  📅 Tue, 11 Nov 2025 23:06:40 +0000
-
-- **[.NET MAUI Is Coming to Linux and the Browser, Powered by Avalonia](https://avaloniaui.net/blog/net-maui-is-coming-to-linux-and-the-browser-powered-by-avalonia)**
+- **[.NET MAUI is coming to Linux and the browser](https://avaloniaui.net/blog/net-maui-is-coming-to-linux-and-the-browser-powered-by-avalonia)**
   *<p>Article URL: <a href="https://avaloniaui.net/blog/net-maui-is-coming-to-linux-and-the-browser-powered-by-avalonia">https://avaloniaui.net/blog/net-maui-is-coming-to-linux-and-the-browser-powered-by...*
   📅 Tue, 11 Nov 2025 22:50:32 +0000
 
@@ -73,7 +68,16 @@
 <p>C...*
   📅 Tue, 11 Nov 2025 22:18:17 +0000
 
+- **[I didn't reverse-engineer the protocol for my blood pressure monitor in 24 hours](https://james.belchamber.com/articles/blood-pressure-monitor-reverse-engineering/)**
+  *<p>Article URL: <a href="https://james.belchamber.com/articles/blood-pressure-monitor-reverse-engineering/">https://james.belchamber.com/articles/blood-pressure-monitor-reverse-engineering/</a></p>
+<p...*
+  📅 Tue, 11 Nov 2025 21:25:19 +0000
+
 ### 📑 TechCrunch
+
+- **[Red Bull Racing’s secret weapon? An engineer who treats workflows like lap times](https://techcrunch.com/2025/11/11/red-bull-racings-secret-weapon-an-engineer-who-treats-workflows-like-lap-times/)**
+  *Lauren Mekies spent much of his career in the engineering trenches. His approach to winning reflects that technical background, too....*
+  📅 Wed, 12 Nov 2025 02:52:33 +0000
 
 - **[SoftBank’s Nvidia sale rattles market, raises questions](https://techcrunch.com/2025/11/11/softbanks-nvidia-sale-rattles-market-raises-questions/)**
   *Wall Street can’t help but wonder: does Son see something right now that others do not?...*
@@ -95,20 +99,28 @@
   *Two experienced investors share their tips for founders and operators hoping to nail product-market fit at their AI startups....*
   📅 Tue, 11 Nov 2025 17:15:00 +0000
 
-- **[Google Photos adds new AI features for editing, expands AI-powered search to over 100 countries](https://techcrunch.com/2025/11/11/google-photos-adds-new-ai-features-for-editing-expands-ai-powered-search-to-over-100-countries/)**
-  *Google Photos is getting an image edit feature powered by the Nano Banana model....*
-  📅 Tue, 11 Nov 2025 17:00:00 +0000
-
 ### 📑 Dev.to
 
-- **[Before You Journey into Tech: My Honest Thoughts from Experience](https://dev.to/nicholaschibueze/before-you-journey-into-tech-my-honest-thoughts-from-experience-23f0)**
-  *<p>When I decided to get into tech, I didn’t really know what I was getting myself into. I just knew it looked cool — people were building apps, working remotely, earning well, and doing all sorts of ...*
-  📅 Wed, 12 Nov 2025 00:54:02 +0000
+- **[A Dreamy Developer Finding Where I Belong](https://dev.to/huynhnhanquoc/a-dreamy-developer-finding-where-i-belong-5bkh)**
+  *<h2>
+  
+  
+  When I Didn’t Know Who I Was
+</h2>
 
-- **[Understanding HTML Semantic Tags: Importance and Practical Uses](https://dev.to/nicholaschibueze/understanding-html-semantic-tags-importance-and-practical-uses-322l)**
-  *<p>HTML semantic tags are elements that clearly describe their meaning and purpose to both browsers and developers. Unlike non-semantic elements like<br />
-or , which provide no specific information a...*
-  📅 Wed, 12 Nov 2025 00:45:13 +0000
+<p>Lately, I’ve been revisiting my old writings. Some are from five years ago, lost among half-finished ideas. Some I never dared to hit Publish. Some ...*
+  📅 Wed, 12 Nov 2025 06:11:25 +0000
+
+- **[The Dream of Indie Coders](https://dev.to/huynhnhanquoc/the-dream-of-indie-coders-10g7)**
+  *<h2>
+  
+  
+  A Kindred Spirit
+</h2>
+
+<p>It’s been a long time since I talked to someone who shares the same wavelength.<br /><br />
+Even though our conversation was only online, it felt as if we could...*
+  📅 Wed, 12 Nov 2025 06:10:47 +0000
 
 </details>
 
@@ -116,57 +128,61 @@ or , which provide no specific information a...*
 
 ### 📈 Daily Trending
 
-- **[GolemWarrior/euchre-decisioning](https://github.com/GolemWarrior/euchre-decisioning)** ⭐ 1
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  None
-
-- **[carmelo3039/to-dolist-testal](https://github.com/carmelo3039/to-dolist-testal)** ⭐ 1
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
-  None
-
-- **[TumeloL/day12-number-guessing-game](https://github.com/TumeloL/day12-number-guessing-game)** ⭐ 1
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  A Python number guessing game where the player tries to guess a randomly chosen number between 1 and 100. Includes three difficulty levels (Easy, Medium, Hard) and gives hints to guess higher or lower. Replayable and beginner-friendly project with input validation and ASCII art for fun visuals.
-
-- **[EternityShen/Android_Touch_Monitor](https://github.com/EternityShen/Android_Touch_Monitor)** ⭐ 1
-  ![Rust](https://img.shields.io/badge/-Rust-brown)
-  Monitor Android system screen touch signls
-
-- **[ZiolKen/GoodbyeEternityiOS](https://github.com/ZiolKen/GoodbyeEternityiOS)** ⭐ 1
+- **[malmes77nameless/nichola1236ayasa](https://github.com/malmes77nameless/nichola1236ayasa)** ⭐ 5
   ![None](https://img.shields.io/badge/-None-lightgrey)
-  A iOS Port For Goodbye Eternity Game.
+  None
 
-- **[NEMESIS-999/BOT-TELEGRAM-Change-Craftland-Map-Place](https://github.com/NEMESIS-999/BOT-TELEGRAM-Change-Craftland-Map-Place)** ⭐ 1
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  Change Craftland Map Place Edit Craftland meta File
+- **[toxic-sdhd/ai-video-no-restrictions](https://github.com/toxic-sdhd/ai-video-no-restrictions)** ⭐ 4
+  ![None](https://img.shields.io/badge/-None-lightgrey)
+  Free Kling AI Video Generator with no filter - https://www.nsfwkling.ai/
 
-- **[CHFontenele/Caixaeletronico](https://github.com/CHFontenele/Caixaeletronico)** ⭐ 1
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  Programa em Python que simula um caixa eletrônico. O usuário informa o valor a sacar, e o sistema calcula automaticamente quantas cédulas de R$50, R$20, R$10 e R$1 serão entregues. Utiliza laço while e estruturas condicionais para distribuir o valor da forma mais eficiente.
+- **[sindresorhus/reveal-file](https://github.com/sindresorhus/reveal-file)** ⭐ 4
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
+  Reveal a file in the system file manager (Finder, Explorer, etc.)
 
-- **[Avery-Personal/Programming-A1-to-C2](https://github.com/Avery-Personal/Programming-A1-to-C2)** ⭐ 1
-  ![C](https://img.shields.io/badge/-C-lightgrey)
-  Learn C, C++, and Rust through ranked A1–C2 examples.
+- **[altruisticgenx/ripples](https://github.com/altruisticgenx/ripples)** ⭐ 3
+  ![None](https://img.shields.io/badge/-None-lightgrey)
+  None
+
+- **[ChristopherTrimboli/twitter-airdrop-scanner](https://github.com/ChristopherTrimboli/twitter-airdrop-scanner)** ⭐ 3
+  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
+  Find qualifying users based on airdrop re-post requirements from a token ticker.
+
+- **[HooRii-OT/hoorii-stage](https://github.com/HooRii-OT/hoorii-stage)** ⭐ 3
+  ![None](https://img.shields.io/badge/-None-lightgrey)
+  HooRii Stage is an open, creator-first platform for building a truly personal HomeAI. Design one persistent AI "ghost" with its own personality and memory, then bring it to life in any "shell" — from our extensible Stage Devkit to your phone or PC. This isn't just a smarter home; it's a home with a soul — one you created.
+
+- **[sebmarkbage/react-typewriter-reveal](https://github.com/sebmarkbage/react-typewriter-reveal)** ⭐ 2
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
+  React component for animating in text content as if it was being written on the fly.
+
+- **[squailo2/anitas-ocr](https://github.com/squailo2/anitas-ocr)** ⭐ 2
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
+  Free, fast and privacy-friendly OCR selection web app. Extract text from Images and PDFs directly in your browser — no uploads, no data collection. ☕ Support at ko-fi.com/anitasocr
 
 ### 📈 Weekly Trending
 
-- **[Snapchat/Valdi](https://github.com/Snapchat/Valdi)** ⭐ 6,786
+- **[Snapchat/Valdi](https://github.com/Snapchat/Valdi)** ⭐ 7,051
   ![C++](https://img.shields.io/badge/-C++-pink)
   Valdi is a cross-platform UI framework that delivers native performance without sacrificing developer velocity.
 
-- **[facebookresearch/omnilingual-asr](https://github.com/facebookresearch/omnilingual-asr)** ⭐ 1,073
+- **[facebookresearch/omnilingual-asr](https://github.com/facebookresearch/omnilingual-asr)** ⭐ 1,253
   ![Python](https://img.shields.io/badge/-Python-blue)
   Omnilingual ASR Open-Source Multilingual SpeechRecognition for 1600+ Languages
 
-- **[eooce/Auto-login-netlib](https://github.com/eooce/Auto-login-netlib)** ⭐ 781
+- **[eooce/Auto-login-netlib](https://github.com/eooce/Auto-login-netlib)** ⭐ 820
   ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
   自动登录netlib.re网站保活域名
 
-- **[YuvDwi/Steve](https://github.com/YuvDwi/Steve)** ⭐ 541
+- **[cryptocj520/crypto-trading-open](https://github.com/cryptocj520/crypto-trading-open)** ⭐ 637
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  crypto-trading-open
+
+- **[YuvDwi/Steve](https://github.com/YuvDwi/Steve)** ⭐ 583
   ![Java](https://img.shields.io/badge/-Java-orange)
   Cursor for Minecraft
 
-- **[f/git-rewrite-commits](https://github.com/f/git-rewrite-commits)** ⭐ 521
+- **[f/git-rewrite-commits](https://github.com/f/git-rewrite-commits)** ⭐ 544
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   AI-powered git commit message rewriter using GPT
 
@@ -174,45 +190,41 @@ or , which provide no specific information a...*
   ![None](https://img.shields.io/badge/-None-lightgrey)
   Open-source Solana dApp template with Anchor program, TypeScript client, and Next.js UI.
 
-- **[cryptocj520/crypto-trading-open](https://github.com/cryptocj520/crypto-trading-open)** ⭐ 447
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  crypto-trading-open
-
-- **[crowmd/2K-N8NWORKFLOWS](https://github.com/crowmd/2K-N8NWORKFLOWS)** ⭐ 432
+- **[crowmd/2K-N8NWORKFLOWS](https://github.com/crowmd/2K-N8NWORKFLOWS)** ⭐ 436
   ![None](https://img.shields.io/badge/-None-lightgrey)
   None
 
 ### 📈 Monthly Trending
 
-- **[deepseek-ai/DeepSeek-OCR](https://github.com/deepseek-ai/DeepSeek-OCR)** ⭐ 20,225
+- **[deepseek-ai/DeepSeek-OCR](https://github.com/deepseek-ai/DeepSeek-OCR)** ⭐ 20,249
   ![Python](https://img.shields.io/badge/-Python-blue)
   Contexts Optical Compression
 
-- **[toon-format/toon](https://github.com/toon-format/toon)** ⭐ 13,339
+- **[toon-format/toon](https://github.com/toon-format/toon)** ⭐ 13,410
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   🎒 Token-Oriented Object Notation (TOON) – Compact, human-readable, schema-aware JSON for LLM prompts. Spec, benchmarks, TypeScript SDK.
 
-- **[HKUDS/AI-Trader](https://github.com/HKUDS/AI-Trader)** ⭐ 9,256
+- **[HKUDS/AI-Trader](https://github.com/HKUDS/AI-Trader)** ⭐ 9,272
   ![Python](https://img.shields.io/badge/-Python-blue)
   "AI-Trader: Can AI Beat the Market?" Live Trading Bench: https://ai4trade.ai
 
-- **[NoFxAiOS/nofx](https://github.com/NoFxAiOS/nofx)** ⭐ 7,387
+- **[NoFxAiOS/nofx](https://github.com/NoFxAiOS/nofx)** ⭐ 7,402
   ![Go](https://img.shields.io/badge/-Go-cyan)
   NOFX: Defining the Next-Generation AI Trading Operating System. A multi-exchange Al trading platform(Binance/Hyperliquid/Aster) with multi-Ai competition(deepseek/qwen/claude)self-evolution, and real-time dashboard
 
-- **[Snapchat/Valdi](https://github.com/Snapchat/Valdi)** ⭐ 6,786
+- **[Snapchat/Valdi](https://github.com/Snapchat/Valdi)** ⭐ 7,051
   ![C++](https://img.shields.io/badge/-C++-pink)
   Valdi is a cross-platform UI framework that delivers native performance without sacrificing developer velocity.
 
-- **[diet103/claude-code-infrastructure-showcase](https://github.com/diet103/claude-code-infrastructure-showcase)** ⭐ 6,248
+- **[diet103/claude-code-infrastructure-showcase](https://github.com/diet103/claude-code-infrastructure-showcase)** ⭐ 6,277
   ![Shell](https://img.shields.io/badge/-Shell-lightgrey)
   Examples of my Claude Code infrastructure with skill auto-activation, hooks, and agents
 
-- **[yusufkaraaslan/Skill_Seekers](https://github.com/yusufkaraaslan/Skill_Seekers)** ⭐ 3,764
+- **[yusufkaraaslan/Skill_Seekers](https://github.com/yusufkaraaslan/Skill_Seekers)** ⭐ 3,781
   ![Python](https://img.shields.io/badge/-Python-blue)
   Convert documentation websites, GitHub repositories, and PDFs into Claude AI skills with automatic conflict detection
 
-- **[virattt/dexter](https://github.com/virattt/dexter)** ⭐ 2,806
+- **[virattt/dexter](https://github.com/virattt/dexter)** ⭐ 2,809
   ![Python](https://img.shields.io/badge/-Python-blue)
   An autonomous agent for deep financial research
 
@@ -484,50 +496,50 @@ See [kubernetes-announce@](https://groups.google.com/forum/#!forum/kubernetes-an
 
 | Skill | Status |
 |-------|--------|
-| Java | 🔴 Beginner |
-| Python | 🔴 Beginner |
-| JavaScript | ⚪ Planned |
+| Java | 🟢 Proficient |
+| Python | ⚪ Planned |
+| JavaScript | 🟡 Learning |
 | TypeScript | 🟡 Learning |
-| Go | 🔴 Beginner |
+| Go | 🟢 Proficient |
 
 ### Frameworks
 
 | Skill | Status |
 |-------|--------|
 | React | 🟢 Proficient |
-| Spring Boot | 🔴 Beginner |
-| Django | 🟡 Learning |
-| Node.js | 🟢 Proficient |
-| Next.js | ⚪ Planned |
+| Spring Boot | 🟡 Learning |
+| Django | 🔴 Beginner |
+| Node.js | ⚪ Planned |
+| Next.js | 🟡 Learning |
 
 ### Cybersecurity
 
 | Skill | Status |
 |-------|--------|
-| Penetration Testing | 🟢 Proficient |
+| Penetration Testing | ⚪ Planned |
 | Web Security | 🟡 Learning |
 | Network Security | ⚪ Planned |
-| OWASP | 🟡 Learning |
+| OWASP | 🟢 Proficient |
 
 ### Ai Ml
 
 | Skill | Status |
 |-------|--------|
-| Machine Learning | ⚪ Planned |
+| Machine Learning | 🟢 Proficient |
 | Deep Learning | ⚪ Planned |
-| NLP | 🟢 Proficient |
+| NLP | 🟡 Learning |
 | Computer Vision | 🟡 Learning |
-| TensorFlow | 🟡 Learning |
-| PyTorch | ⚪ Planned |
+| TensorFlow | ⚪ Planned |
+| PyTorch | 🟡 Learning |
 
 ### Devops
 
 | Skill | Status |
 |-------|--------|
-| Docker | 🟢 Proficient |
-| Kubernetes | 🟡 Learning |
-| CI/CD | 🟢 Proficient |
-| AWS | ⚪ Planned |
+| Docker | 🟡 Learning |
+| Kubernetes | 🔴 Beginner |
+| CI/CD | ⚪ Planned |
+| AWS | 🟢 Proficient |
 | Azure | 🔴 Beginner |
 
 ### Other
@@ -535,7 +547,7 @@ See [kubernetes-announce@](https://groups.google.com/forum/#!forum/kubernetes-an
 | Skill | Status |
 |-------|--------|
 | Blockchain | ⚪ Planned |
-| Web3 | 🟢 Proficient |
+| Web3 | 🔴 Beginner |
 | Cloud Computing | 🟢 Proficient |
 
 </details>
