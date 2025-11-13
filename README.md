@@ -20,7 +20,7 @@
 | Metric | Count |
 |--------|-------|
 | 📰 Latest News Articles | 26 |
-| 🔥 Trending Repositories | 45 |
+| 🔥 Trending Repositories | 0 |
 | 🎯 Latest Releases | 10 |
 | 🎯 Learning Goals | 4 |
 
@@ -46,182 +46,81 @@
 
 ### 📑 Hacker News
 
-- **[Hack Club has been handling children's data for 4 years without a privacy policy](https://kys.llc/blog/my-hackclub-story)**
-  *<p>Article URL: <a href="https://kys.llc/blog/my-hackclub-story">https://kys.llc/blog/my-hackclub-story</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=45913663">https://news.yc...*
-  📅 Thu, 13 Nov 2025 11:31:23 +0000
+- **[Nano Banana can be prompt engineered for nuanced AI image generation](https://minimaxir.com/2025/11/nano-banana-prompts/)**
+  *<p>Article URL: <a href="https://minimaxir.com/2025/11/nano-banana-prompts/">https://minimaxir.com/2025/11/nano-banana-prompts/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=4...*
+  📅 Thu, 13 Nov 2025 17:39:13 +0000
 
-- **[Seed. LINE's Custom Typeface](https://seed.line.me/index_en.html)**
-  *<p>Article URL: <a href="https://seed.line.me/index_en.html">https://seed.line.me/index_en.html</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=45912785">https://news.ycombinato...*
-  📅 Thu, 13 Nov 2025 09:36:51 +0000
+- **[Let AI do the hard parts of your holiday shopping](https://blog.google/products/shopping/agentic-checkout-holiday-ai-shopping/)**
+  *<p>Article URL: <a href="https://blog.google/products/shopping/agentic-checkout-holiday-ai-shopping/">https://blog.google/products/shopping/agentic-checkout-holiday-ai-shopping/</a></p>
+<p>Comments UR...*
+  📅 Thu, 13 Nov 2025 17:36:47 +0000
 
-- **[Telli (Voice AI – YC F24) is hiring ambitious engineers in [on-site, Berlin]](https://hi.telli.com/eng)**
-  *<p>Article URL: <a href="https://hi.telli.com/eng">https://hi.telli.com/eng</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=45912744">https://news.ycombinator.com/item?id=459127...*
-  📅 Thu, 13 Nov 2025 09:30:53 +0000
+- **[BAML is hiring compilers/rust engineers (YC W23)](https://github.com/BoundaryML/baml/tree/canary/jobs)**
+  *<p>Article URL: <a href="https://github.com/BoundaryML/baml/tree/canary/jobs">https://github.com/BoundaryML/baml/tree/canary/jobs</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id...*
+  📅 Thu, 13 Nov 2025 17:00:44 +0000
 
-- **[Checkout.com hacked, refuses ransom payment, donates to security labs](https://www.checkout.com/blog/protecting-our-merchants-standing-up-to-extortion)**
-  *<p>Article URL: <a href="https://www.checkout.com/blog/protecting-our-merchants-standing-up-to-extortion">https://www.checkout.com/blog/protecting-our-merchants-standing-up-to-extortion</a></p>
-<p>Com...*
-  📅 Thu, 13 Nov 2025 09:23:30 +0000
+- **[The Monks in the Casino](https://www.derekthompson.org/p/the-monks-in-the-casino)**
+  *<p>Article URL: <a href="https://www.derekthompson.org/p/the-monks-in-the-casino">https://www.derekthompson.org/p/the-monks-in-the-casino</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com...*
+  📅 Thu, 13 Nov 2025 16:20:47 +0000
 
-- **[Reverse Engineering Yaesu FT-70D Firmware Encryption](https://landaire.net/reversing-yaesu-firmware-encryption/)**
-  *<p>Article URL: <a href="https://landaire.net/reversing-yaesu-firmware-encryption/">https://landaire.net/reversing-yaesu-firmware-encryption/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator...*
-  📅 Thu, 13 Nov 2025 07:12:01 +0000
+- **[Launch HN: Tweeks (YC W25) – Browser extension to de-enshittify the web](https://www.tweeks.io/onboarding)**
+  *<p>Hey HN! We’re Jason & Matt and we’re building Tweeks (<a href="https://tweeks.io">https://tweeks.io</a>), a browser extension that lets you modify any website in your browser to add functionality, ...*
+  📅 Thu, 13 Nov 2025 16:03:04 +0000
 
-- **[Android 16 QPR1 is being pushed to the Android Open Source Project](https://grapheneos.social/@GrapheneOS/115533432439509433)**
-  *<p>Article URL: <a href="https://grapheneos.social/@GrapheneOS/115533432439509433">https://grapheneos.social/@GrapheneOS/115533432439509433</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.c...*
-  📅 Thu, 13 Nov 2025 03:49:23 +0000
+- **[Zed is our office](https://zed.dev/blog/zed-is-our-office)**
+  *<p>Article URL: <a href="https://zed.dev/blog/zed-is-our-office">https://zed.dev/blog/zed-is-our-office</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=45916196">https://news.yc...*
+  📅 Thu, 13 Nov 2025 15:41:26 +0000
 
 ### 📑 TechCrunch
 
-- **[Microsoft’s plan to fix its chip problem is, partly, to let OpenAI do the heavy lifting](https://techcrunch.com/2025/11/13/microsofts-plan-to-fix-its-chip-problem-is-partly-to-let-openai-do-the-heavy-lifting/)**
-  *Microsoft is taking a page from OpenAI's playbook, literally....*
-  📅 Thu, 13 Nov 2025 12:01:20 +0000
+- **[In defense of Apple’s $230 iPhone sock](https://techcrunch.com/2025/11/13/in-defense-of-apples-230-iphone-sock/)**
+  *From the same label that made the iconic Steve Jobs mockneck, the iPhone Pocket could be the next Labubu... if you have the disposable income....*
+  📅 Thu, 13 Nov 2025 17:38:22 +0000
 
-- **[Milestone raises $10M to make sure AI rhymes with ROI](https://techcrunch.com/2025/11/13/milestone-raises-10m-to-make-sure-ai-rhymes-with-roi/)**
-  *Israeli startup Milestone raised a $10 million seed funding round to correlate AI tool usage with engineering metrics, including code quality....*
-  📅 Thu, 13 Nov 2025 12:00:00 +0000
+- **[Apple halves commissions for mini app makers](https://techcrunch.com/2025/11/13/apple-halves-commissions-for-mini-app-makers/)**
+  *Apple introduces a new program for app developers offering a reduced 15% commission on qualifying mini app transactions....*
+  📅 Thu, 13 Nov 2025 17:32:39 +0000
 
-- **[Cash App debuts a new AI assistant that answers questions about your finances](https://techcrunch.com/2025/11/13/cash-app-debuts-a-new-ai-assistant-that-answers-questions-about-your-finances/)**
-  *Cash App is adding a map to its app to let users discover places that accept bitcoin...*
-  📅 Thu, 13 Nov 2025 11:00:00 +0000
+- **[Police take down three cybercrime operations in latest round of ‘whack-a-mole’](https://techcrunch.com/2025/11/13/police-take-down-three-cybercrime-operations-in-latest-round-of-whack-a-mole/)**
+  *Authorities from nine countries took down three cybercrime operations, including the Rhadamantys infostealer, which allegedly had access to the crypto wallets of more than 100,000 victims....*
+  📅 Thu, 13 Nov 2025 17:25:47 +0000
 
-- **[Willow’s voice keyboard lets you type across all your iOS apps — and actually edit what you said](https://techcrunch.com/2025/11/12/willows-voice-keyboard-lets-you-type-across-all-your-ios-apps-and-actually-edit-what-you-said/)**
-  *Willow's iOS keyboard lets you type or use your voice to dictate and input text....*
-  📅 Thu, 13 Nov 2025 07:21:00 +0000
+- **[The 10 companies that just launched from Betaworks latest startup camp](https://techcrunch.com/2025/11/13/the-10-companies-that-just-launched-from-betaworks-latest-startup-camp/)**
+  *Early-stage venture fund Betaworks announced the latest 10 companies launching from its prestigious Camp program....*
+  📅 Thu, 13 Nov 2025 17:06:13 +0000
 
-- **[Kering-backed fund Mirova pours $30.5M into India’s Varaha for regenerative farming](https://techcrunch.com/2025/11/12/kering-backed-fund-mirova-pours-30-5m-into-indias-varaha-for-regenerative-farming-push/)**
-  *Varaha aims to support around 337,000 farmers across 675,000 hectares in northern India through its regenerative farming project....*
-  📅 Thu, 13 Nov 2025 05:30:00 +0000
+- **[Tesla might finally bring CarPlay to its EVs](https://techcrunch.com/2025/11/13/tesla-might-finally-bring-carplay-to-its-evs/)**
+  *The addition of CarPlay would mark a significant change for Tesla, which has so far shunned phone mirroring in its vehicles....*
+  📅 Thu, 13 Nov 2025 17:05:25 +0000
 
-- **[Jack Dorsey funds diVine, a Vine reboot that includes Vine’s video archive](https://techcrunch.com/2025/11/12/jack-dorsey-funds-divine-a-vine-reboot-that-includes-vines-video-archive/)**
-  *Jack Dorsey backs diVine, a Vine reboot that includes Vine's video archive of six-second, looping videos. A new app called diVine will give access to more than 100,000 archived Vine videos, restored f...*
-  📅 Thu, 13 Nov 2025 02:00:00 +0000
+- **[Facebook Marketplace gets new collaborative and social features, Meta AI integrations](https://techcrunch.com/2025/11/13/facebook-marketplace-gets-new-collaborative-and-social-features-meta-ai-integrations/)**
+  *Meta is testing collaborative buying to let users invite a friend to join their chat with a seller....*
+  📅 Thu, 13 Nov 2025 17:00:00 +0000
 
 ### 📑 Dev.to
 
-- **[Creating a Basic FastAPI Application with CRUD Operations](https://dev.to/sakshi_agarwal_4c639a581c/creating-a-basic-fastapi-application-with-crud-operations-278o)**
-  *<p>FastAPI is one of the fastest-growing Python frameworks for building modern APIs. It is fast, easy to use, and comes with built-in data validation using Pydantic.</p>
+- **[CDSA 1-Month Web Development Bootcamp: The Real-Deal Edition](https://dev.to/vernard_sharbney_4c39f22b/cdsa-1-month-web-development-bootcamp-the-real-deal-edition-4b5d)**
+  *<p>A 1-month Web Development Bootcamp Playbook focused on React.js, modern website development, deployment, and hosting.<br />
+This is a hands-on, zero-fluff roadmap built for real-world impact — desi...*
+  📅 Thu, 13 Nov 2025 18:08:37 +0000
 
-<p><strong>🚀 What We Will Bui...*
-  📅 Thu, 13 Nov 2025 12:13:55 +0000
+- **[CinemaSins: Everything Wrong With Thunderbolts* (The New Avengers) In 20 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-thunderbolts-the-new-avengers-in-20-minutes-or-less-2f8c)**
+  *<h2>
+  
+  
+  Summary
+</h2>
 
-- **[[Boost]](https://dev.to/mohitrajput987/-3afh)**
-  *<div class="ltag__link">
-  <a class="ltag__link__link" href="https://dev.to/mohitrajput987">
-    <div class="ltag__link__pic">
-      <img alt="mohitrajput987" src="https://media2.dev.to/dynamic/image/...*
-  📅 Thu, 13 Nov 2025 12:13:17 +0000
+<p>Everything Wrong With Thunderbolts* (The New Avengers) In 20 Minutes Or Less is Cinemasins’ signature roast of Marvel’s newest team-up flick, tallying every plot hole, n...*
+  📅 Thu, 13 Nov 2025 18:00:30 +0000
 
 </details>
 
 ## 🔥 Trending Repositories
-
-### 📈 Daily Trending
-
-- **[luongdev/fsagent](https://github.com/luongdev/fsagent)** ⭐ 20
-  ![Go](https://img.shields.io/badge/-Go-cyan)
-  None
-
-- **[shi-yx/URaG](https://github.com/shi-yx/URaG)** ⭐ 17
-  ![None](https://img.shields.io/badge/-None-lightgrey)
-  Official implementation of URaG: Unified Retrieval and Generation in Multimodal LLMs for Efficient Long Document Understanding (AAAI 2026 Oral).
-
-- **[martianovdev/Defold-BRDF-Deferred-Rendering-V2](https://github.com/martianovdev/Defold-BRDF-Deferred-Rendering-V2)** ⭐ 17
-  ![GLSL](https://img.shields.io/badge/-GLSL-lightgrey)
-  None
-
-- **[MaryBoone5289386/xiaohongshu-pgy-api](https://github.com/MaryBoone5289386/xiaohongshu-pgy-api)** ⭐ 16
-  ![None](https://img.shields.io/badge/-None-lightgrey)
-  小红书蒲公英接口,蒲公英接口,小红书蒲公英API,蒲公英API,xiaohongshu pgy api,pugongying api,xiaohongshu pgy,pugongying,pgy
-
-- **[dragosroua/claude-assess-decide-do-mega-prompt](https://github.com/dragosroua/claude-assess-decide-do-mega-prompt)** ⭐ 14
-  ![None](https://img.shields.io/badge/-None-lightgrey)
-  Supercharging Claude with the Assess-Decide-Do life management framework. Complete guide.
-
-- **[moistrr/TGbot](https://github.com/moistrr/TGbot)** ⭐ 13
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
-   * Telegram 双向机器人 Cloudflare Worker  * 实现了：人机验证、私聊到话题模式的转发、管理员回复中继、话题名动态更新、已编辑消息处理、用户屏蔽功能、关键词自动回复  
-
-- **[SebLague/Smoke-Simulation](https://github.com/SebLague/Smoke-Simulation)** ⭐ 12
-  ![C#](https://img.shields.io/badge/-C#-lightgrey)
-  None
-
-- **[linden713/BabyLocoFormer](https://github.com/linden713/BabyLocoFormer)** ⭐ 11
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  BabyLocoFormer is an open-source unofficial baby version of LocoFormer.
-
-### 📈 Weekly Trending
-
-- **[cryptocj520/crypto-trading-open](https://github.com/cryptocj520/crypto-trading-open)** ⭐ 975
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  crypto-trading-open
-
-- **[f/git-rewrite-commits](https://github.com/f/git-rewrite-commits)** ⭐ 642
-  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
-  AI-powered git commit message rewriter using GPT
-
-- **[crowmd/2K-N8NWORKFLOWS](https://github.com/crowmd/2K-N8NWORKFLOWS)** ⭐ 447
-  ![None](https://img.shields.io/badge/-None-lightgrey)
-  None
-
-- **[Doriandarko/kimi-writer](https://github.com/Doriandarko/kimi-writer)** ⭐ 431
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  AI writing agent powered by kimi-k2-thinking - autonomously creates novels and stories with deep reasoning
-
-- **[wesbos/sticker-dream](https://github.com/wesbos/sticker-dream)** ⭐ 408
-  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
-  voice activated sticker dreamer and printer. 
-
-- **[daodao97/code-switch](https://github.com/daodao97/code-switch)** ⭐ 357
-  ![Vue](https://img.shields.io/badge/-Vue-lightgrey)
-  Claude Code & Codex 多供应商代理与管理工具
-
-- **[boku7/venom](https://github.com/boku7/venom)** ⭐ 314
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  Venom C2 is a dependency‑free Python3 Command & Control framework for redteam persistence
-
-- **[Meph1s-t/Startrail-Gal](https://github.com/Meph1s-t/Startrail-Gal)** ⭐ 255
-  ![Ren'Py](https://img.shields.io/badge/-Ren'Py-lightgrey)
-  None
-
-### 📈 Monthly Trending
-
-- **[deepseek-ai/DeepSeek-OCR](https://github.com/deepseek-ai/DeepSeek-OCR)** ⭐ 20,360
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  Contexts Optical Compression
-
-- **[toon-format/toon](https://github.com/toon-format/toon)** ⭐ 13,965
-  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
-  🎒 Token-Oriented Object Notation (TOON) – Compact, human-readable, schema-aware JSON for LLM prompts. Spec, benchmarks, TypeScript SDK.
-
-- **[HKUDS/AI-Trader](https://github.com/HKUDS/AI-Trader)** ⭐ 9,318
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  "AI-Trader: Can AI Beat the Market?" Live Trading Bench: https://ai4trade.ai
-
-- **[Snapchat/Valdi](https://github.com/Snapchat/Valdi)** ⭐ 8,196
-  ![C++](https://img.shields.io/badge/-C++-pink)
-  Valdi is a cross-platform UI framework that delivers native performance without sacrificing developer velocity.
-
-- **[NoFxAiOS/nofx](https://github.com/NoFxAiOS/nofx)** ⭐ 7,488
-  ![Go](https://img.shields.io/badge/-Go-cyan)
-  NOFX: Defining the Next-Generation AI Trading Operating System. A multi-exchange Al trading platform(Binance/Hyperliquid/Aster) with multi-Ai competition(deepseek/qwen/claude)self-evolution, and real-time dashboard
-
-- **[diet103/claude-code-infrastructure-showcase](https://github.com/diet103/claude-code-infrastructure-showcase)** ⭐ 6,394
-  ![Shell](https://img.shields.io/badge/-Shell-lightgrey)
-  Examples of my Claude Code infrastructure with skill auto-activation, hooks, and agents
-
-- **[yusufkaraaslan/Skill_Seekers](https://github.com/yusufkaraaslan/Skill_Seekers)** ⭐ 3,915
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  Convert documentation websites, GitHub repositories, and PDFs into Claude AI skills with automatic conflict detection
-
-- **[ComposioHQ/awesome-claude-skills](https://github.com/ComposioHQ/awesome-claude-skills)** ⭐ 3,085
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows
 
 ## 🚀 Latest Releases
 
@@ -490,59 +389,59 @@ See [kubernetes-announce@](https://groups.google.com/forum/#!forum/kubernetes-an
 
 | Skill | Status |
 |-------|--------|
-| Java | ⚪ Planned |
+| Java | 🔴 Beginner |
 | Python | 🟢 Proficient |
-| JavaScript | ⚪ Planned |
+| JavaScript | 🟢 Proficient |
 | TypeScript | 🟡 Learning |
-| Go | 🔴 Beginner |
+| Go | 🟡 Learning |
 
 ### Frameworks
 
 | Skill | Status |
 |-------|--------|
-| React | 🔴 Beginner |
-| Spring Boot | 🔴 Beginner |
+| React | 🟢 Proficient |
+| Spring Boot | 🟢 Proficient |
 | Django | 🟡 Learning |
-| Node.js | 🟡 Learning |
-| Next.js | ⚪ Planned |
+| Node.js | ⚪ Planned |
+| Next.js | 🟡 Learning |
 
 ### Cybersecurity
 
 | Skill | Status |
 |-------|--------|
 | Penetration Testing | 🔴 Beginner |
-| Web Security | 🟡 Learning |
-| Network Security | ⚪ Planned |
-| OWASP | ⚪ Planned |
+| Web Security | 🔴 Beginner |
+| Network Security | 🟡 Learning |
+| OWASP | 🟢 Proficient |
 
 ### Ai Ml
 
 | Skill | Status |
 |-------|--------|
-| Machine Learning | 🔴 Beginner |
+| Machine Learning | 🟡 Learning |
 | Deep Learning | 🔴 Beginner |
-| NLP | 🟡 Learning |
-| Computer Vision | 🔴 Beginner |
-| TensorFlow | 🟡 Learning |
-| PyTorch | ⚪ Planned |
+| NLP | ⚪ Planned |
+| Computer Vision | ⚪ Planned |
+| TensorFlow | 🔴 Beginner |
+| PyTorch | 🔴 Beginner |
 
 ### Devops
 
 | Skill | Status |
 |-------|--------|
-| Docker | ⚪ Planned |
-| Kubernetes | 🟢 Proficient |
-| CI/CD | 🟡 Learning |
-| AWS | 🔴 Beginner |
-| Azure | 🟡 Learning |
+| Docker | 🟢 Proficient |
+| Kubernetes | ⚪ Planned |
+| CI/CD | 🟢 Proficient |
+| AWS | 🟡 Learning |
+| Azure | 🔴 Beginner |
 
 ### Other
 
 | Skill | Status |
 |-------|--------|
-| Blockchain | 🟢 Proficient |
-| Web3 | 🔴 Beginner |
-| Cloud Computing | 🟢 Proficient |
+| Blockchain | 🔴 Beginner |
+| Web3 | 🟢 Proficient |
+| Cloud Computing | ⚪ Planned |
 
 </details>
 
