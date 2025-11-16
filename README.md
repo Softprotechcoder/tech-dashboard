@@ -46,35 +46,44 @@
 
 ### 📑 Hacker News
 
-- **[Anthropic's report smells a lot like bullshit](https://djnn.sh/posts/anthropic-s-paper-smells-like-bullshit/)**
-  *<p>Article URL: <a href="https://djnn.sh/posts/anthropic-s-paper-smells-like-bullshit/">https://djnn.sh/posts/anthropic-s-paper-smells-like-bullshit/</a></p>
-<p>Comments URL: <a href="https://news.yco...*
-  📅 Sun, 16 Nov 2025 11:32:39 +0000
+- **[Owning a Cat Could Double Your Risk of Schizophrenia, Research Suggests](https://www.sciencealert.com/owning-a-cat-could-double-your-risk-of-schizophrenia-research-suggests)**
+  *<p>Article URL: <a href="https://www.sciencealert.com/owning-a-cat-could-double-your-risk-of-schizophrenia-research-suggests">https://www.sciencealert.com/owning-a-cat-could-double-your-risk-of-schizo...*
+  📅 Sun, 16 Nov 2025 17:20:48 +0000
 
-- **[UK's first small nuclear power station to be built in north Wales](https://www.bbc.com/news/articles/c051y3d7myzo)**
-  *<p>Article URL: <a href="https://www.bbc.com/news/articles/c051y3d7myzo">https://www.bbc.com/news/articles/c051y3d7myzo</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=45944056"...*
-  📅 Sun, 16 Nov 2025 10:38:41 +0000
+- **[Only three kinds of AI products work](https://www.seangoedecke.com/ai-products/)**
+  *<p>Article URL: <a href="https://www.seangoedecke.com/ai-products/">https://www.seangoedecke.com/ai-products/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=45946498">https://n...*
+  📅 Sun, 16 Nov 2025 16:56:47 +0000
 
-- **[Why I Don't Need a Steam Machine](https://brainbaking.com/post/2025/11/why-i-dont-need-a-steam-machine/)**
-  *<p>Article URL: <a href="https://brainbaking.com/post/2025/11/why-i-dont-need-a-steam-machine/">https://brainbaking.com/post/2025/11/why-i-dont-need-a-steam-machine/</a></p>
-<p>Comments URL: <a href="...*
-  📅 Sun, 16 Nov 2025 10:21:07 +0000
+- **[Dissecting Flock Safety: The Cameras Tracking You Are a Security Nightmare [video]](https://www.youtube.com/watch?v=uB0gr7Fh6lY)**
+  *<p>Article URL: <a href="https://www.youtube.com/watch?v=uB0gr7Fh6lY">https://www.youtube.com/watch?v=uB0gr7Fh6lY</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=45945960">https...*
+  📅 Sun, 16 Nov 2025 15:50:54 +0000
 
-- **[Maybe You're Not Actually Trying](https://usefulfictions.substack.com/p/maybe-youre-not-actually-trying)**
-  *<p>Article URL: <a href="https://usefulfictions.substack.com/p/maybe-youre-not-actually-trying">https://usefulfictions.substack.com/p/maybe-youre-not-actually-trying</a></p>
-<p>Comments URL: <a href="...*
-  📅 Sun, 16 Nov 2025 10:14:25 +0000
+- **[FPGA Based IBM-PC-XT](https://bit-hack.net/2025/11/10/fpga-based-ibm-pc-xt/)**
+  *<p>Article URL: <a href="https://bit-hack.net/2025/11/10/fpga-based-ibm-pc-xt/">https://bit-hack.net/2025/11/10/fpga-based-ibm-pc-xt/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/ite...*
+  📅 Sun, 16 Nov 2025 15:26:24 +0000
 
-- **[An exposed .git folder let us dox a phishing campaign](https://news.ycombinator.com/item?id=45943802)**
-  *<p>This past Friday afternoon, a member in our Discord server reported a phishing email pointing to a fake login page.<p>We took up to research it and because of clumsy decisions by the attacker we go...*
-  📅 Sun, 16 Nov 2025 09:29:21 +0000
+- **[De Bruijn Numerals](https://text.marvinborner.de/2023-08-22-22.html)**
+  *<p>Article URL: <a href="https://text.marvinborner.de/2023-08-22-22.html">https://text.marvinborner.de/2023-08-22-22.html</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=4594575...*
+  📅 Sun, 16 Nov 2025 15:22:16 +0000
 
-- **[Facebook Text Log Between Mark Zuckerberg and Kevin Systrom(Instagram Cofounder)](https://www.dropbox.com/scl/fo/0e4qbvj7w8cwxdlpo010c/AHCMfNHmj03nPnJ-VKDYRvA?dl=0&e=1&noscript=1&preview=Facebook%2Btext%2Blog%2Bbetween%2BMark%2BZuckerberg%2Band%2BKevin%2BSystrom.pdf&rlkey=43f3smc5zi5v82h986hujmvfb)**
-  *<p>Article URL: <a href="https://www.dropbox.com/scl/fo/0e4qbvj7w8cwxdlpo010c/AHCMfNHmj03nPnJ-VKDYRvA?dl=0&amp;e=1&amp;noscript=1&amp;preview=Facebook%2Btext%2Blog%2Bbetween%2BMark%2BZuckerberg%2Band%...*
-  📅 Sun, 16 Nov 2025 07:55:09 +0000
+- **[Heretic: Automatic censorship removal for language models](https://github.com/p-e-w/heretic)**
+  *<p>Article URL: <a href="https://github.com/p-e-w/heretic">https://github.com/p-e-w/heretic</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=45945587">https://news.ycombinator.co...*
+  📅 Sun, 16 Nov 2025 15:00:24 +0000
 
 ### 📑 TechCrunch
+
+- **[TechCrunch Mobility: The robotaxi expansion that really matters](https://techcrunch.com/2025/11/16/techcrunch-mobility-the-robotaxi-expansion-that-really-matters/)**
+  *Welcome back to TechCrunch Mobility — your central hub for news and insights on the future of transportation....*
+  📅 Sun, 16 Nov 2025 17:05:00 +0000
+
+- **[How much of the AI data center boom will be powered by renewable energy?](https://techcrunch.com/2025/11/16/how-much-of-the-ai-data-center-boom-will-be-powered-by-renewable-energy/)**
+  *According to a new report from the International Energy Agency, the world will spend $580 billion on data centers this year — $40 billion more than will be spent finding new oil supplies....*
+  📅 Sun, 16 Nov 2025 16:48:42 +0000
 
 - **[JPMorgan doesn’t want to pay Frank founder Charlie Javice’s legal bills](https://techcrunch.com/2025/11/15/jpmorgan-doesnt-want-to-pay-frank-founder-charlie-javices-legal-bills/)**
   *A lawyer representing JPMorgan said Javice’s legal team billed for expenses including luxury hotel upgrades, 24 hours of work in a single day, and cellulite butter....*
@@ -92,23 +101,21 @@
   *Leaked documents reveal how much OpenAI paid Microsoft under a revenue-share agreement. They also indicate inference costs....*
   📅 Sat, 15 Nov 2025 00:47:41 +0000
 
-- **[Databricks co-founder argues US must go open source to beat China in AI](https://techcrunch.com/2025/11/14/databricks-co-founder-argues-us-must-go-open-source-to-beat-china-in-ai/)**
-  *VC Andy Konwinski argues that the U.S. is losing its AI research dominance to China....*
-  📅 Fri, 14 Nov 2025 22:52:18 +0000
-
-- **[A comprehensive list of 2025 tech layoffs](https://techcrunch.com/2025/11/14/tech-layoffs-2025-list/)**
-  *A complete list of all the known layoffs in tech, from Big Tech to startups, broken down by month throughout 2024....*
-  📅 Fri, 14 Nov 2025 22:29:56 +0000
-
 ### 📑 Dev.to
 
-- **[What is Ctrl+H in Excel? Master Find & Replace for Data Cleaning](https://dev.to/mohammad_ehsanansari_671/what-is-ctrlh-in-excel-master-find-replace-for-data-cleaning-37mm)**
-  *<p>Ctrl+H opens Excel’s Find and Replace dialog — a commonly used tool for locating and updating values in bulk. It is helpful for tasks like correcting text, formatting, or cleaning large datasets qu...*
-  📅 Sun, 16 Nov 2025 12:05:40 +0000
+- **[Syntax Trap #002](https://dev.to/tabeacodes/syntax-trap-002-473p)**
+  *<p>Welcome to the second Syntax Trap.</p>
 
-- **[Ringer Movies: ‘Snake Eyes’ With Bill Simmons, Sean Fennessey, and Van Lathan | Ringer Movies](https://dev.to/popcorn_movies/ringer-movies-snake-eyes-with-bill-simmons-sean-fennessey-and-van-lathan-ringer-movies-1b9l)**
-  *<p>They dive back into Brian De Palma’s 1998 thriller Snake Eyes—starring Nicolas Cage, Gary Sinise, and Carla Gugino—with Bill Simmons, Sean Fennessey, and Van Lathan crowning themselves “kings of th...*
-  📅 Sun, 16 Nov 2025 12:00:33 +0000
+<p>Today's all about comparing Arrays and Strings.<br />
+</p>
+
+<div class="highlight js-code-highlight">
+<pre class="highlight javascript"><code><span class=...*
+  📅 Sun, 16 Nov 2025 18:06:11 +0000
+
+- **[Dagger 2.0 vs Hilt in Android: A Comprehensive Overview](https://dev.to/lovekgarg/dagger-20-vs-hilt-in-android-a-comprehensive-overview-2lec)**
+  *<p>Dependency Injection (DI) is a crucial design pattern in Android development, it helps in enhancing modularity, testability, and maintainability of our applications. Dagger 2.0 has long been a popu...*
+  📅 Sun, 16 Nov 2025 18:05:24 +0000
 
 </details>
 
@@ -116,67 +123,67 @@
 
 ### 📈 Daily Trending
 
-- **[zigbook/zigbook](https://github.com/zigbook/zigbook)** ⭐ 20
+- **[straight-tamago/misaka26](https://github.com/straight-tamago/misaka26)** ⭐ 86
+  ![None](https://img.shields.io/badge/-None-lightgrey)
+  iOS /iPadOS 16.0 - 26.1, An ultimate customization tool, uilitizing the bug that makes TrollRestore possible. 
+
+- **[zigbook/zigbook](https://github.com/zigbook/zigbook)** ⭐ 40
   ![Zig](https://img.shields.io/badge/-Zig-lightgrey)
   A comprehensive guide to the Zig programming language, a journey from fundamentals to advanced systems programming.
 
-- **[EmmalynnRuiz/visibility-WIN](https://github.com/EmmalynnRuiz/visibility-WIN)** ⭐ 18
-  ![None](https://img.shields.io/badge/-None-lightgrey)
-  None
-
-- **[YassWrld/Neutrone](https://github.com/YassWrld/Neutrone)** ⭐ 18
+- **[YassWrld/Neutrone](https://github.com/YassWrld/Neutrone)** ⭐ 20
   ![Python](https://img.shields.io/badge/-Python-blue)
   Neutralizing drones
 
-- **[edotoday/Native-Parser](https://github.com/edotoday/Native-Parser)** ⭐ 14
+- **[EmmalynnRuiz/visibility-WIN](https://github.com/EmmalynnRuiz/visibility-WIN)** ⭐ 17
+  ![None](https://img.shields.io/badge/-None-lightgrey)
+  None
+
+- **[edotoday/Native-Parser](https://github.com/edotoday/Native-Parser)** ⭐ 15
   ![Python](https://img.shields.io/badge/-Python-blue)
   None
 
-- **[ChrisSc/epstein-files](https://github.com/ChrisSc/epstein-files)** ⭐ 14
-  ![None](https://img.shields.io/badge/-None-lightgrey)
-  Epstein files: LLM-optimized hierarchical index system for 2,897 historical documents. Navigate 60.7 MB using 665   KB of strategic indexes—master index, specialized categories, and summaries—saving 95% of context tokens while   maintaining full dataset access.
+- **[0xSero/ai-data-extraction](https://github.com/0xSero/ai-data-extraction)** ⭐ 14
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  extract all your personal data history from cursor, codex, claude-code, windsurf, and trae
 
-- **[WilliamLCui/Kylin-OM](https://github.com/WilliamLCui/Kylin-OM)** ⭐ 9
-  ![HTML](https://img.shields.io/badge/-HTML-lightgrey)
-  Kylin-OM (银河麒麟操作系统智能运维软件) is an intelligent O&M platform designed for the Kylin operating system, integrating AI large language models, multi-agent architectures, and machine learning to revolutionize how system operations are monitored, diagnosed, and repaired.
-
-- **[artmtcnqel/gettt-noww](https://github.com/artmtcnqel/gettt-noww)** ⭐ 8
-  ![None](https://img.shields.io/badge/-None-lightgrey)
+- **[Comzy-io/ComzyTunnel](https://github.com/Comzy-io/ComzyTunnel)** ⭐ 14
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
   None
 
-- **[johnprincemeacyo/D1RECT-D0WNL0AD](https://github.com/johnprincemeacyo/D1RECT-D0WNL0AD)** ⭐ 8
+- **[crowmd/E-Commerce-Automation](https://github.com/crowmd/E-Commerce-Automation)** ⭐ 14
   ![None](https://img.shields.io/badge/-None-lightgrey)
   None
 
 ### 📈 Weekly Trending
 
-- **[ByteDance-Seed/Depth-Anything-3](https://github.com/ByteDance-Seed/Depth-Anything-3)** ⭐ 1,194
+- **[ByteDance-Seed/Depth-Anything-3](https://github.com/ByteDance-Seed/Depth-Anything-3)** ⭐ 1,273
   ![Jupyter Notebook](https://img.shields.io/badge/-Jupyter Notebook-lightgrey)
   Depth Anything 3
 
-- **[cryptocj520/crypto-trading-open](https://github.com/cryptocj520/crypto-trading-open)** ⭐ 1,149
+- **[cryptocj520/crypto-trading-open](https://github.com/cryptocj520/crypto-trading-open)** ⭐ 1,150
   ![Python](https://img.shields.io/badge/-Python-blue)
   crypto-trading-open
 
-- **[f/git-rewrite-commits](https://github.com/f/git-rewrite-commits)** ⭐ 732
+- **[f/git-rewrite-commits](https://github.com/f/git-rewrite-commits)** ⭐ 737
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   AI-powered git commit message rewriter using Ollama or GPT
 
-- **[universal-tool-calling-protocol/code-mode](https://github.com/universal-tool-calling-protocol/code-mode)** ⭐ 434
+- **[universal-tool-calling-protocol/code-mode](https://github.com/universal-tool-calling-protocol/code-mode)** ⭐ 544
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   🔌 Plug-and-play library to enable agents to call MCP and UTCP tools via code execution. 
 
-- **[rbalestr-lab/lejepa](https://github.com/rbalestr-lab/lejepa)** ⭐ 417
+- **[rbalestr-lab/lejepa](https://github.com/rbalestr-lab/lejepa)** ⭐ 426
   ![Python](https://img.shields.io/badge/-Python-blue)
   None
+
+- **[nusquama/n8nworkflows.xyz](https://github.com/nusquama/n8nworkflows.xyz)** ⭐ 340
+  ![None](https://img.shields.io/badge/-None-lightgrey)
+  N8N Workflows Catalog
 
 - **[hopx-ai/mcp](https://github.com/hopx-ai/mcp)** ⭐ 337
   ![Python](https://img.shields.io/badge/-Python-blue)
   None
-
-- **[nusquama/n8nworkflows.xyz](https://github.com/nusquama/n8nworkflows.xyz)** ⭐ 319
-  ![None](https://img.shields.io/badge/-None-lightgrey)
-  N8N Workflows Catalog
 
 - **[Meph1s-t/Startrail-Gal](https://github.com/Meph1s-t/Startrail-Gal)** ⭐ 261
   ![Ren'Py](https://img.shields.io/badge/-Ren'Py-lightgrey)
@@ -184,23 +191,23 @@
 
 ### 📈 Monthly Trending
 
-- **[toon-format/toon](https://github.com/toon-format/toon)** ⭐ 16,444
+- **[toon-format/toon](https://github.com/toon-format/toon)** ⭐ 16,573
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   🎒 Token-Oriented Object Notation (TOON) – Compact, human-readable, schema-aware JSON for LLM prompts. Spec, benchmarks, TypeScript SDK.
 
-- **[Snapchat/Valdi](https://github.com/Snapchat/Valdi)** ⭐ 9,432
+- **[Snapchat/Valdi](https://github.com/Snapchat/Valdi)** ⭐ 9,566
   ![C++](https://img.shields.io/badge/-C++-pink)
   Valdi is a cross-platform UI framework that delivers native performance without sacrificing developer velocity.
 
-- **[HKUDS/AI-Trader](https://github.com/HKUDS/AI-Trader)** ⭐ 9,404
+- **[HKUDS/AI-Trader](https://github.com/HKUDS/AI-Trader)** ⭐ 9,415
   ![Python](https://img.shields.io/badge/-Python-blue)
   "AI-Trader: Can AI Beat the Market?" Live Trading Bench: https://ai4trade.ai
 
-- **[NoFxAiOS/nofx](https://github.com/NoFxAiOS/nofx)** ⭐ 7,599
+- **[NoFxAiOS/nofx](https://github.com/NoFxAiOS/nofx)** ⭐ 7,610
   ![Go](https://img.shields.io/badge/-Go-cyan)
   NOFX: Defining the Next-Generation AI Trading Operating System. A multi-exchange Al trading platform(Binance/Hyperliquid/Aster) with multi-Ai competition(deepseek/qwen/claude)self-evolution, and real-time dashboard
 
-- **[diet103/claude-code-infrastructure-showcase](https://github.com/diet103/claude-code-infrastructure-showcase)** ⭐ 6,667
+- **[diet103/claude-code-infrastructure-showcase](https://github.com/diet103/claude-code-infrastructure-showcase)** ⭐ 6,680
   ![Shell](https://img.shields.io/badge/-Shell-lightgrey)
   Examples of my Claude Code infrastructure with skill auto-activation, hooks, and agents
 
@@ -208,11 +215,11 @@
   ![Go](https://img.shields.io/badge/-Go-cyan)
   NOF0 - 开源的 AI 交易竞技场
 
-- **[deta/surf](https://github.com/deta/surf)** ⭐ 2,682
+- **[deta/surf](https://github.com/deta/surf)** ⭐ 2,683
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   Personal AI Notebooks. Organize files & webpages and generate notes from them. Open source, local & open data, open model choice (incl. local).
 
-- **[borndotcom/react-native-godot](https://github.com/borndotcom/react-native-godot)** ⭐ 2,379
+- **[borndotcom/react-native-godot](https://github.com/borndotcom/react-native-godot)** ⭐ 2,380
   ![C++](https://img.shields.io/badge/-C++-pink)
   React Native Godot - Embed Godot Engine in React Native apps
 
@@ -478,49 +485,49 @@ See [kubernetes-announce@](https://groups.google.com/forum/#!forum/kubernetes-an
 
 | Skill | Status |
 |-------|--------|
-| Java | 🔴 Beginner |
-| Python | 🟡 Learning |
-| JavaScript | 🟢 Proficient |
-| TypeScript | 🟡 Learning |
-| Go | 🔴 Beginner |
+| Java | 🟡 Learning |
+| Python | 🟢 Proficient |
+| JavaScript | 🟡 Learning |
+| TypeScript | 🔴 Beginner |
+| Go | 🟢 Proficient |
 
 ### Frameworks
 
 | Skill | Status |
 |-------|--------|
 | React | 🟡 Learning |
-| Spring Boot | 🟡 Learning |
+| Spring Boot | ⚪ Planned |
 | Django | 🟢 Proficient |
-| Node.js | ⚪ Planned |
-| Next.js | 🟢 Proficient |
+| Node.js | 🟡 Learning |
+| Next.js | 🔴 Beginner |
 
 ### Cybersecurity
 
 | Skill | Status |
 |-------|--------|
-| Penetration Testing | ⚪ Planned |
-| Web Security | 🟢 Proficient |
-| Network Security | 🟢 Proficient |
-| OWASP | 🟢 Proficient |
+| Penetration Testing | 🔴 Beginner |
+| Web Security | 🟡 Learning |
+| Network Security | 🟡 Learning |
+| OWASP | 🟡 Learning |
 
 ### Ai Ml
 
 | Skill | Status |
 |-------|--------|
 | Machine Learning | 🔴 Beginner |
-| Deep Learning | ⚪ Planned |
+| Deep Learning | 🔴 Beginner |
 | NLP | 🔴 Beginner |
-| Computer Vision | 🟢 Proficient |
-| TensorFlow | ⚪ Planned |
-| PyTorch | ⚪ Planned |
+| Computer Vision | 🟡 Learning |
+| TensorFlow | 🟡 Learning |
+| PyTorch | 🟡 Learning |
 
 ### Devops
 
 | Skill | Status |
 |-------|--------|
 | Docker | ⚪ Planned |
-| Kubernetes | ⚪ Planned |
-| CI/CD | 🟡 Learning |
+| Kubernetes | 🟢 Proficient |
+| CI/CD | 🟢 Proficient |
 | AWS | 🟢 Proficient |
 | Azure | 🟡 Learning |
 
@@ -528,9 +535,9 @@ See [kubernetes-announce@](https://groups.google.com/forum/#!forum/kubernetes-an
 
 | Skill | Status |
 |-------|--------|
-| Blockchain | 🔴 Beginner |
-| Web3 | 🟡 Learning |
-| Cloud Computing | 🟢 Proficient |
+| Blockchain | 🟡 Learning |
+| Web3 | 🟢 Proficient |
+| Cloud Computing | 🟡 Learning |
 
 </details>
 
