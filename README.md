@@ -7,7 +7,7 @@
 ![AI & ML](https://img.shields.io/badge/-AI%20&%20ML-blue) ![CyberSecurity](https://img.shields.io/badge/-CyberSecurity-red) ![Full Stack Development](https://img.shields.io/badge/-Full%20Stack%20Development-green)
 
 [![Auto Update](https://img.shields.io/badge/Auto%20Update-Enabled-success)](https://github.com/yourusername/tech-dashboard/actions)
-[![Last Updated](https://img.shields.io/badge/Last%20Updated-November 17, 2025-blue)](https://github.com/yourusername/tech-dashboard)
+[![Last Updated](https://img.shields.io/badge/Last%20Updated-November 18, 2025-blue)](https://github.com/yourusername/tech-dashboard)
 
 *Automatically updated every 6 hours with the latest tech news, trending repositories, and learning resources.*
 
@@ -46,70 +46,80 @@
 
 ### 📑 Hacker News
 
-- **[Every log must fire: applying Chekhov's gun to cybersecurity incident reports](https://andreafortuna.org/2025/11/17/chekhovs-gun-and-cybersecurity-incident-reports)**
-  *<p>Article URL: <a href="https://andreafortuna.org/2025/11/17/chekhovs-gun-and-cybersecurity-incident-reports">https://andreafortuna.org/2025/11/17/chekhovs-gun-and-cybersecurity-incident-reports</a><...*
-  📅 Mon, 17 Nov 2025 17:44:05 +0000
+- **[Windows 11 adds AI agent that runs in background with access to personal folders](https://www.windowslatest.com/2025/11/18/windows-11-to-add-an-ai-agent-that-runs-in-background-with-access-to-personal-folders-warns-of-security-risk/)**
+  *<p>Article URL: <a href="https://www.windowslatest.com/2025/11/18/windows-11-to-add-an-ai-agent-that-runs-in-background-with-access-to-personal-folders-warns-of-security-risk/">https://www.windowslate...*
+  📅 Mon, 17 Nov 2025 23:47:27 +0000
 
-- **[A new book recovers the origins of Effective Altruism](https://newrepublic.com/article/202433/happened-effective-altruism)**
-  *<p>Article URL: <a href="https://newrepublic.com/article/202433/happened-effective-altruism">https://newrepublic.com/article/202433/happened-effective-altruism</a></p>
-<p>Comments URL: <a href="https:...*
-  📅 Mon, 17 Nov 2025 17:37:42 +0000
+- **[Show HN: Parqeye – A CLI tool to visualize and inspect Parquet files](https://github.com/kaushiksrini/parqeye)**
+  *<p>I built a Rust-based CLI/terminal UI for inspecting Parquet files—data, metadata, and row-group-level structure—right from the terminal. If someone sent me a Parquet file, I used to open DuckDB or ...*
+  📅 Mon, 17 Nov 2025 23:45:42 +0000
 
-- **[The Baumol Effect and Jevons paradox are related](https://www.a16z.news/p/why-ac-is-cheap-but-ac-repair-is)**
-  *<p>Article URL: <a href="https://www.a16z.news/p/why-ac-is-cheap-but-ac-repair-is">https://www.a16z.news/p/why-ac-is-cheap-but-ac-repair-is</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.c...*
-  📅 Mon, 17 Nov 2025 17:36:15 +0000
+- **[Ion: Modern System Shell in Rust](https://github.com/redox-os/ion)**
+  *<p>Article URL: <a href="https://github.com/redox-os/ion">https://github.com/redox-os/ion</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=45958815">https://news.ycombinator.com/...*
+  📅 Mon, 17 Nov 2025 21:56:58 +0000
 
-- **[Cities Panic over Having to Release Mass Surveillance Recordings](https://www.nakedcapitalism.com/2025/11/cities-panic-over-having-to-release-mass-surveillance-recordings.html)**
-  *<p>Article URL: <a href="https://www.nakedcapitalism.com/2025/11/cities-panic-over-having-to-release-mass-surveillance-recordings.html">https://www.nakedcapitalism.com/2025/11/cities-panic-over-having...*
-  📅 Mon, 17 Nov 2025 17:23:35 +0000
+- **[Run ancient Unix on modern hardware](https://github.com/felipenlunkes/run-ancient-unix)**
+  *<p>Article URL: <a href="https://github.com/felipenlunkes/run-ancient-unix">https://github.com/felipenlunkes/run-ancient-unix</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=459...*
+  📅 Mon, 17 Nov 2025 21:46:06 +0000
 
-- **[Living my best Sun Microsystems ecosystem life in 2025](https://www.osnews.com/story/143570/living-my-best-sun-microsystems-ecosystem-life-in-2025/)**
-  *<p>Article URL: <a href="https://www.osnews.com/story/143570/living-my-best-sun-microsystems-ecosystem-life-in-2025/">https://www.osnews.com/story/143570/living-my-best-sun-microsystems-ecosystem-life...*
-  📅 Mon, 17 Nov 2025 16:24:34 +0000
+- **[Compiling Ruby to machine language](https://patshaughnessy.net/2025/11/17/compiling-ruby-to-machine-language)**
+  *<p>Article URL: <a href="https://patshaughnessy.net/2025/11/17/compiling-ruby-to-machine-language">https://patshaughnessy.net/2025/11/17/compiling-ruby-to-machine-language</a></p>
+<p>Comments URL: <a ...*
+  📅 Mon, 17 Nov 2025 20:04:49 +0000
 
-- **[Project Gemini](https://geminiprotocol.net/)**
-  *<p>Article URL: <a href="https://geminiprotocol.net/">https://geminiprotocol.net/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=45954640">https://news.ycombinator.com/item?id=...*
-  📅 Mon, 17 Nov 2025 15:50:04 +0000
+- **[Show HN: PrinceJS – 19,200 req/s Bun framework in 2.8 kB (built by a 13yo)](https://princejs.vercel.app)**
+  *<p>Hey HN,<p>I'm 13, from Nigeria, and I just released PrinceJS — the fastest web framework for Bun right now.<p>• 19,200 req/s (beats Hono/Elysia/Express)
+• 2.8 kB gzipped
+• Tree-shakable (cache, AI,...*
+  📅 Mon, 17 Nov 2025 19:45:00 +0000
 
 ### 📑 TechCrunch
+
+- **[a16z-backed super PAC is targeting Alex Bores, sponsor of New York’s AI safety bill — he says bring it on](https://techcrunch.com/2025/11/17/a16z-backed-super-pac-is-targeting-alex-bores-sponsor-of-new-yorks-ai-safety-bill-he-says-bring-it-on/)**
+  *A super PAC backed by Andreessen Horowitz, OpenAI, and other tech leaders has targeted New York Assembly member Alex Bores' congressional campaign, marking its first attack against a lawmaker supporti...*
+  📅 Tue, 18 Nov 2025 00:32:50 +0000
+
+- **[Meta releases a new tool to protect reels creators from having their work stolen](https://techcrunch.com/2025/11/17/meta-releases-a-new-tool-to-protect-reels-creators-from-having-their-work-stolen/)**
+  *On Monday, Meta introduced Facebook content protection, a mobile tool designed to detect when a creator's original reels posted to Facebook are being used without their permission. The new tool extend...*
+  📅 Mon, 17 Nov 2025 20:43:00 +0000
+
+- **[Ford turns to Amazon to give used cars sales a boost](https://techcrunch.com/2025/11/17/ford-turns-to-amazon-to-give-used-cars-sales-a-boost/)**
+  *Amazon Autos, which kicked off last year with Hyundai, initially started with new cars. The deal with Ford pushes it into used car territory....*
+  📅 Mon, 17 Nov 2025 20:37:42 +0000
+
+- **[Ramp hits $32B valuation, just 3 months after hitting $22.5B](https://techcrunch.com/2025/11/17/ramp-hits-32b-valuation-just-three-months-after-hitting-22-5b/)**
+  *In 2025 alone, Ramp has leapt from being worth $13 billion to $32 billion with new rounds every few months....*
+  📅 Mon, 17 Nov 2025 19:31:47 +0000
+
+- **[Cisco acquires translation startup EzDubs](https://techcrunch.com/2025/11/17/cisco-acquires-translation-startup-ezdubs/)**
+  *Cisco has acquired Y Combinator-backed translation app EzDub to integrate it into its communication suite....*
+  📅 Mon, 17 Nov 2025 18:33:03 +0000
 
 - **[Luminar is fighting with its biggest customer as bankruptcy threat looms](https://techcrunch.com/2025/11/17/luminar-is-fighting-with-its-biggest-customer-as-bankruptcy-threat-looms/)**
   *The fight comes at a perilous time for Luminar, which is running out of cash and under SEC investigation....*
   📅 Mon, 17 Nov 2025 18:00:44 +0000
 
-- **[Sequoia-backed fintech Aspora will let Indian diaspora pay bills back home](https://techcrunch.com/2025/11/17/sequoia-backed-fintech-aspora-will-let-indian-diaspora-pay-bills-back-home/)**
-  *UK-based Aspora, which has focused on remittances, will let non-resident Indians pay bills back home....*
-  📅 Mon, 17 Nov 2025 17:22:21 +0000
-
-- **[Google rolls out its AI ‘Flight Deals’ tool globally, adds new travel features in Search](https://techcrunch.com/2025/11/17/google-rolls-out-its-ai-flight-deals-tool-globally-adds-new-travel-features-in-search/)**
-  *To get started, users need to describe where, when, and how they want to travel. Flight Deals will then use AI to display the best bargains available....*
-  📅 Mon, 17 Nov 2025 17:00:00 +0000
-
-- **[DoorDash confirms data breach impacting users’ phone numbers and physical addresses](https://techcrunch.com/2025/11/17/doordash-confirms-data-breach-impacting-users-phone-numbers-and-physical-addresses/)**
-  *The delivery giant said “no sensitive information” was accessed, and did not specify the number of customers, delivery workers, and merchants who were impacted by the breach....*
-  📅 Mon, 17 Nov 2025 15:27:38 +0000
-
-- **[PowerLattice attracts investment from ex-Intel CEO Pat Gelsinger for its power-saving chiplet](https://techcrunch.com/2025/11/17/powerlattice-attracts-investment-from-ex-intel-ceo-pat-gelsinger-for-its-power-saving-chiplet/)**
-  *PowerLattice, a startup founded by veteran electrical engineers from Qualcomm, NUVIA, and Intel in 2023, claims to have developed a groundbreaking approach that reduces the power needs of computer chi...*
-  📅 Mon, 17 Nov 2025 15:08:23 +0000
-
-- **[Jeff Bezos reportedly returns to the trenches as co-CEO of new AI startup, Project Prometheus](https://techcrunch.com/2025/11/17/jeff-bezos-reportedly-returns-to-the-trenches-as-co-ceo-of-new-ai-startup-project-prometheus/)**
-  *Jeff Bezos is partly backing a new AI startup called Project Prometheus that has raised $6.2 billion in funding, and will take on duties as co-chief executive....*
-  📅 Mon, 17 Nov 2025 14:33:30 +0000
-
 ### 📑 Dev.to
 
-- **[n8n Web Scraping || Part 2: Pagination, Infinite Scroll, Network Capture & More](https://dev.to/extractdata/n8n-web-scraping-part-2-pagination-infinite-scroll-network-capture-more-365)**
-  *<p>This is Part 2 of our n8n web scraping series with <a href="https://www.zyte.com/zyte-api/?utm_campaign=Discord_dev_to&amp;utm_activity=Community&amp;utm_medium=social&amp;utm_source=devto" rel="no...*
-  📅 Mon, 17 Nov 2025 18:15:13 +0000
+- **[The C# Developer’s CURL Copy-Paste Conundrum](https://dev.to/iron-software/the-c-developers-curl-copy-paste-conundrum-mok)**
+  *<h1>
+  
+  
+  Introduction: The C# Developer’s CURL Copy-Paste Conundrum
+</h1>
 
-- **[**A Tale of Two Frameworks: Declarative vs](https://dev.to/drcarlosruizviquez/a-tale-of-two-frameworks-declarative-vs-2j58)**
-  *<p><strong>A Tale of Two Frameworks: Declarative vs. Imperative AI</strong></p>
+<p><strong>Bridging Bash and .NET: Harnessing CurlDotNet for Linux-Compatible REST API Magic</strong></p>
 
-<p>As AI continues to advance, autonomous systems have become increasingly sophisticated, with various approaches vying...*
-  📅 Mon, 17 Nov 2025 18:05:09 +0000
+<p>It’s 2 AM o...*
+  📅 Tue, 18 Nov 2025 00:47:44 +0000
+
+- **[Mobile Marketing in 2025: Why Your Desktop Strategy Is Costing You Conversions](https://dev.to/synergistdigitalmedia/mobile-marketing-in-2025-why-your-desktop-strategy-is-costing-you-conversions-4ijd)**
+  *<p>Let me guess: you optimized your website for mobile by making sure it "looks okay" on your phone. Maybe ran it through Google's Mobile-Friendly Test, got a green checkmark, called it a day.</p>
+
+<p...*
+  📅 Tue, 18 Nov 2025 00:46:22 +0000
 
 </details>
 
@@ -117,91 +127,91 @@
 
 ### 📈 Daily Trending
 
-- **[chippenolivermoss0/tiktok-bot](https://github.com/chippenolivermoss0/tiktok-bot)** ⭐ 71
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  tiktok bot tiktok botting 🔥 tiktok follower 🔥 tiktok likes 🔥 tiktok views tiktok automater tiktok aio yl
-
-- **[Ranteck/PyStrict-strict-python](https://github.com/Ranteck/PyStrict-strict-python)** ⭐ 56
-  ![None](https://img.shields.io/badge/-None-lightgrey)
-  Ultra-strict Python project template using uv, ruff, and basedpyright, inspired by TypeScript’s --strict mode.
-
-- **[ChinaRan0/Attack_login](https://github.com/ChinaRan0/Attack_login)** ⭐ 38
-  ![Go](https://img.shields.io/badge/-Go-cyan)
-  适用于红队攻防演练获得目标账户批量登录，报告编写
-
-- **[beckalexktank8340/gmail-gen](https://github.com/beckalexktank8340/gmail-gen)** ⭐ 38
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  gmail acc generator 💥 2025 fast mass mails 💥 gmail generator with sms verification using sms-activate.org. gmail gen gmail generator mass gmail gen mass gmail generator gmail gen gmail generator mass gmail gen mass gmail generator gmail gen gmail generator mass gmail gen mass gmail generator gmail gen gmail generator mass gmail gen yv
-
-- **[brat68bane/Reddit-karma-bot](https://github.com/brat68bane/Reddit-karma-bot)** ⭐ 27
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  reddit karma farming bot 📈 karma farm bot python3 ⭐ reddit karma farm bot karma farm bot farma farming a bot for karma farming reddit  reddit karma farm bot karma farm bot farma farming a bot for karma farming reddit  reddit karma farm bot karma farm bot farma farming a bot for karma farming oho
-
-- **[victoria-code/MiningTraffic](https://github.com/victoria-code/MiningTraffic)** ⭐ 27
-  ![None](https://img.shields.io/badge/-None-lightgrey)
-  包含50种虚拟货币币种的挖矿网络流量数据
-
-- **[bakagian/powersub-demo-3706](https://github.com/bakagian/powersub-demo-3706)** ⭐ 21
+- **[Summiner/Atlas](https://github.com/Summiner/Atlas)** ⭐ 2
   ![Java](https://img.shields.io/badge/-Java-orange)
-  None
+  Basic command library for the modern PaperMC Brigadier API
 
-- **[bakagian/powersub-demo-5858](https://github.com/bakagian/powersub-demo-5858)** ⭐ 21
+- **[sanjunoor089-ui/Sk_fashion_hub](https://github.com/sanjunoor089-ui/Sk_fashion_hub)** ⭐ 1
+  ![HTML](https://img.shields.io/badge/-HTML-lightgrey)
+  "Style, quality, and savings meet at Sk Fashion Hub. Discover your signature look with our handpicked collections of modern wear, from dashing shirts and jeans to exclusive festive attire. Find your next great outfit today!"
+
+- **[lautarolopezfacal20-blip/InfoFutbol](https://github.com/lautarolopezfacal20-blip/InfoFutbol)** ⭐ 1
   ![None](https://img.shields.io/badge/-None-lightgrey)
   None
+
+- **[MagaliAzar/RecuperatorioParcialAzar](https://github.com/MagaliAzar/RecuperatorioParcialAzar)** ⭐ 1
+  ![C#](https://img.shields.io/badge/-C#-lightgrey)
+  None
+
+- **[hardihardi/SIPEGAWAI](https://github.com/hardihardi/SIPEGAWAI)** ⭐ 1
+  ![Vue](https://img.shields.io/badge/-Vue-lightgrey)
+  None
+
+- **[dasurireddy420-ui/kicad12345](https://github.com/dasurireddy420-ui/kicad12345)** ⭐ 1
+  ![None](https://img.shields.io/badge/-None-lightgrey)
+  download kicad software
+
+- **[Earthbotics/CARL](https://github.com/Earthbotics/CARL)** ⭐ 1
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  CARL (Cognitive Architecture for Reasoning and Learning) is a personality-driven embodied AI system integrating perception, memory, emotion, values, and autonomous behavior. Built for research in consciousness, robotics, and human-AI interaction.
+
+- **[Luckyisrael/blockradar-sdk](https://github.com/Luckyisrael/blockradar-sdk)** ⭐ 1
+  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
+  An un-official Type-safe SDK for the Blockradar REST API.
 
 ### 📈 Weekly Trending
 
-- **[ByteDance-Seed/Depth-Anything-3](https://github.com/ByteDance-Seed/Depth-Anything-3)** ⭐ 1,762
+- **[ByteDance-Seed/Depth-Anything-3](https://github.com/ByteDance-Seed/Depth-Anything-3)** ⭐ 1,811
   ![Jupyter Notebook](https://img.shields.io/badge/-Jupyter Notebook-lightgrey)
   Depth Anything 3
 
-- **[cryptocj520/crypto-trading-open](https://github.com/cryptocj520/crypto-trading-open)** ⭐ 1,173
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  crypto-trading-open
-
-- **[straight-tamago/misaka26](https://github.com/straight-tamago/misaka26)** ⭐ 876
+- **[straight-tamago/misaka26](https://github.com/straight-tamago/misaka26)** ⭐ 1,018
   ![None](https://img.shields.io/badge/-None-lightgrey)
   iOS /iPadOS 16.0 - 26.1, An ultimate customization tool, uilitizing the bug that makes TrollRestore possible. 
 
-- **[universal-tool-calling-protocol/code-mode](https://github.com/universal-tool-calling-protocol/code-mode)** ⭐ 737
-  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
-  🔌 Plug-and-play library to enable agents to call MCP and UTCP tools via code execution. 
-
-- **[rbalestr-lab/lejepa](https://github.com/rbalestr-lab/lejepa)** ⭐ 477
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  None
-
-- **[nusquama/n8nworkflows.xyz](https://github.com/nusquama/n8nworkflows.xyz)** ⭐ 408
+- **[nusquama/n8nworkflows.xyz](https://github.com/nusquama/n8nworkflows.xyz)** ⭐ 433
   ![None](https://img.shields.io/badge/-None-lightgrey)
   N8N Workflows Catalog
 
-- **[Haleclipse/Claudix](https://github.com/Haleclipse/Claudix)** ⭐ 310
+- **[Haleclipse/Claudix](https://github.com/Haleclipse/Claudix)** ⭐ 318
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   Gorgeous Claude Code Extend for VS Code.
 
-- **[xPOURY4/CodeCraft-Architect](https://github.com/xPOURY4/CodeCraft-Architect)** ⭐ 262
+- **[xPOURY4/CodeCraft-Architect](https://github.com/xPOURY4/CodeCraft-Architect)** ⭐ 268
   ![None](https://img.shields.io/badge/-None-lightgrey)
   AI-powered software architect and full-stack engineer prompt that elevates web code development by enforcing production-grade architecture, consistent coding standards, and automated quality practices. Designed to boost developer productivity and code quality when used as the primary prompt.
 
+- **[medusalix/FreeMDU](https://github.com/medusalix/FreeMDU)** ⭐ 231
+  ![Rust](https://img.shields.io/badge/-Rust-brown)
+  Open hardware and software tools for communicating with Miele appliances via their optical diagnostic interface
+
+- **[zigbook/zigbook](https://github.com/zigbook/zigbook)** ⭐ 220
+  ![Zig](https://img.shields.io/badge/-Zig-lightgrey)
+  A comprehensive guide to the Zig programming language, a journey from fundamentals to advanced systems programming.
+
+- **[hanakim3945/bl_sbx](https://github.com/hanakim3945/bl_sbx)** ⭐ 184
+  ![None](https://img.shields.io/badge/-None-lightgrey)
+  itunesstored & bookassetd sbx escape
+
 ### 📈 Monthly Trending
 
-- **[toon-format/toon](https://github.com/toon-format/toon)** ⭐ 17,232
+- **[toon-format/toon](https://github.com/toon-format/toon)** ⭐ 17,374
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   🎒 Token-Oriented Object Notation (TOON) – Compact, human-readable, schema-aware JSON for LLM prompts. Spec, benchmarks, TypeScript SDK.
 
-- **[Snapchat/Valdi](https://github.com/Snapchat/Valdi)** ⭐ 10,143
+- **[Snapchat/Valdi](https://github.com/Snapchat/Valdi)** ⭐ 10,235
   ![C++](https://img.shields.io/badge/-C++-pink)
   Valdi is a cross-platform UI framework that delivers native performance without sacrificing developer velocity.
 
-- **[HKUDS/AI-Trader](https://github.com/HKUDS/AI-Trader)** ⭐ 9,456
+- **[HKUDS/AI-Trader](https://github.com/HKUDS/AI-Trader)** ⭐ 9,462
   ![Python](https://img.shields.io/badge/-Python-blue)
   "AI-Trader: Can AI Beat the Market?" Live Trading Bench: https://ai4trade.ai
 
-- **[NoFxAiOS/nofx](https://github.com/NoFxAiOS/nofx)** ⭐ 7,660
+- **[NoFxAiOS/nofx](https://github.com/NoFxAiOS/nofx)** ⭐ 7,662
   ![Go](https://img.shields.io/badge/-Go-cyan)
   NOFX: Defining the Next-Generation AI Trading Operating System. A multi-exchange Al trading platform(Binance/Hyperliquid/Aster) with multi-Ai competition(deepseek/qwen/claude)self-evolution, and real-time dashboard
 
-- **[diet103/claude-code-infrastructure-showcase](https://github.com/diet103/claude-code-infrastructure-showcase)** ⭐ 6,745
+- **[diet103/claude-code-infrastructure-showcase](https://github.com/diet103/claude-code-infrastructure-showcase)** ⭐ 6,754
   ![Shell](https://img.shields.io/badge/-Shell-lightgrey)
   Examples of my Claude Code infrastructure with skill auto-activation, hooks, and agents
 
@@ -213,7 +223,7 @@
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   Personal AI Notebooks. Organize files & webpages and generate notes from them. Open source, local & open data, open model choice (incl. local).
 
-- **[borndotcom/react-native-godot](https://github.com/borndotcom/react-native-godot)** ⭐ 2,384
+- **[borndotcom/react-native-godot](https://github.com/borndotcom/react-native-godot)** ⭐ 2,387
   ![C++](https://img.shields.io/badge/-C++-pink)
   React Native Godot - Embed Godot Engine in React Native apps
 
@@ -224,14 +234,13 @@
 
 ### 📦 microsoft/vscode
 
-**[October 2025](https://github.com/microsoft/vscode/releases/tag/1.106.0)** `1.106.0`
+**[October 2025 Recovery 1](https://github.com/microsoft/vscode/releases/tag/1.106.1)** `1.106.1`
 
-📅 Released: November 12, 2025
+📅 Released: November 17, 2025
 
-Welcome to the October 2025 release of Visual Studio Code. There are many updates in this version that we hope you'll like, some of the key highlights include:
+The update addresses these [issues](https://github.com/Microsoft/vscode/issues?q=is%3Aissue+milestone%3A%22October+2025+Recovery+1%22+is%3Aclosed+).
 
-<table class="highlights-table">
-  <...
+For the complete release notes go to [Updates](h...
 
 ---
 
@@ -478,55 +487,55 @@ for a semver-minor rele...
 |-------|--------|
 | Java | 🟡 Learning |
 | Python | ⚪ Planned |
-| JavaScript | 🔴 Beginner |
-| TypeScript | 🟢 Proficient |
-| Go | ⚪ Planned |
+| JavaScript | 🟢 Proficient |
+| TypeScript | 🟡 Learning |
+| Go | 🔴 Beginner |
 
 ### Frameworks
 
 | Skill | Status |
 |-------|--------|
 | React | 🟡 Learning |
-| Spring Boot | 🟢 Proficient |
-| Django | 🟢 Proficient |
-| Node.js | ⚪ Planned |
-| Next.js | 🟡 Learning |
+| Spring Boot | 🔴 Beginner |
+| Django | 🔴 Beginner |
+| Node.js | 🟡 Learning |
+| Next.js | ⚪ Planned |
 
 ### Cybersecurity
 
 | Skill | Status |
 |-------|--------|
-| Penetration Testing | 🔴 Beginner |
+| Penetration Testing | ⚪ Planned |
 | Web Security | 🟡 Learning |
-| Network Security | ⚪ Planned |
-| OWASP | 🟡 Learning |
+| Network Security | 🔴 Beginner |
+| OWASP | 🟢 Proficient |
 
 ### Ai Ml
 
 | Skill | Status |
 |-------|--------|
-| Machine Learning | 🔴 Beginner |
-| Deep Learning | 🔴 Beginner |
-| NLP | 🔴 Beginner |
-| Computer Vision | 🟢 Proficient |
-| TensorFlow | 🟢 Proficient |
-| PyTorch | 🔴 Beginner |
+| Machine Learning | 🟢 Proficient |
+| Deep Learning | 🟡 Learning |
+| NLP | 🟡 Learning |
+| Computer Vision | 🔴 Beginner |
+| TensorFlow | 🔴 Beginner |
+| PyTorch | ⚪ Planned |
 
 ### Devops
 
 | Skill | Status |
 |-------|--------|
-| Docker | 🟢 Proficient |
+| Docker | 🟡 Learning |
 | Kubernetes | ⚪ Planned |
-| CI/CD | 🟢 Proficient |
-| AWS | 🟢 Proficient |
-| Azure | 🟢 Proficient |
+| CI/CD | 🟡 Learning |
+| AWS | 🟡 Learning |
+| Azure | 🔴 Beginner |
 
 ### Other
 
 | Skill | Status |
 |-------|--------|
-| Blockchain | ⚪ Planned |
+| Blockchain | 🔴 Beginner |
 | Web3 | ⚪ Planned |
 | Cloud Computing | 🟢 Proficient |
 
@@ -546,7 +555,7 @@ This dashboard is automatically updated every 6 hours using GitHub Actions. The 
 
 <div align="center">
 
-**Last Updated:** November 17, 2025
+**Last Updated:** November 18, 2025
 
 Made with ❤️ and automated with GitHub Actions
 
