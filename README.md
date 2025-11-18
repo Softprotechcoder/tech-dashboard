@@ -46,36 +46,40 @@
 
 ### 📑 Hacker News
 
-- **[Windows 11 adds AI agent that runs in background with access to personal folders](https://www.windowslatest.com/2025/11/18/windows-11-to-add-an-ai-agent-that-runs-in-background-with-access-to-personal-folders-warns-of-security-risk/)**
-  *<p>Article URL: <a href="https://www.windowslatest.com/2025/11/18/windows-11-to-add-an-ai-agent-that-runs-in-background-with-access-to-personal-folders-warns-of-security-risk/">https://www.windowslate...*
-  📅 Mon, 17 Nov 2025 23:47:27 +0000
+- **[The surprising benefits of giving up](https://nautil.us/the-surprising-benefits-of-giving-up-1248362/)**
+  *<p>Article URL: <a href="https://nautil.us/the-surprising-benefits-of-giving-up-1248362/">https://nautil.us/the-surprising-benefits-of-giving-up-1248362/</a></p>
+<p>Comments URL: <a href="https://news...*
+  📅 Tue, 18 Nov 2025 04:44:21 +0000
 
-- **[Show HN: Parqeye – A CLI tool to visualize and inspect Parquet files](https://github.com/kaushiksrini/parqeye)**
-  *<p>I built a Rust-based CLI/terminal UI for inspecting Parquet files—data, metadata, and row-group-level structure—right from the terminal. If someone sent me a Parquet file, I used to open DuckDB or ...*
-  📅 Mon, 17 Nov 2025 23:45:42 +0000
+- **[LeJEPA](https://arxiv.org/abs/2511.08544)**
+  *<p>Article URL: <a href="https://arxiv.org/abs/2511.08544">https://arxiv.org/abs/2511.08544</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=45960922">https://news.ycombinator.co...*
+  📅 Tue, 18 Nov 2025 02:58:31 +0000
 
-- **[Ion: Modern System Shell in Rust](https://github.com/redox-os/ion)**
-  *<p>Article URL: <a href="https://github.com/redox-os/ion">https://github.com/redox-os/ion</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=45958815">https://news.ycombinator.com/...*
-  📅 Mon, 17 Nov 2025 21:56:58 +0000
+- **[Core Devices keeps stealing our work](https://rebble.io/2025/11/17/core-devices-keeps-stealing-our-work.html)**
+  *<p>Article URL: <a href="https://rebble.io/2025/11/17/core-devices-keeps-stealing-our-work.html">https://rebble.io/2025/11/17/core-devices-keeps-stealing-our-work.html</a></p>
+<p>Comments URL: <a href...*
+  📅 Tue, 18 Nov 2025 02:53:28 +0000
 
-- **[Run ancient Unix on modern hardware](https://github.com/felipenlunkes/run-ancient-unix)**
-  *<p>Article URL: <a href="https://github.com/felipenlunkes/run-ancient-unix">https://github.com/felipenlunkes/run-ancient-unix</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=459...*
-  📅 Mon, 17 Nov 2025 21:46:06 +0000
+- **[Unofficial "Tier 4" Rust Target for older Windows versions](https://github.com/rust9x/rust)**
+  *<p>Article URL: <a href="https://github.com/rust9x/rust">https://github.com/rust9x/rust</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=45960852">https://news.ycombinator.com/it...*
+  📅 Tue, 18 Nov 2025 02:46:50 +0000
 
-- **[Compiling Ruby to machine language](https://patshaughnessy.net/2025/11/17/compiling-ruby-to-machine-language)**
-  *<p>Article URL: <a href="https://patshaughnessy.net/2025/11/17/compiling-ruby-to-machine-language">https://patshaughnessy.net/2025/11/17/compiling-ruby-to-machine-language</a></p>
-<p>Comments URL: <a ...*
-  📅 Mon, 17 Nov 2025 20:04:49 +0000
+- **[Rebecca Heineman has died](https://www.pcgamer.com/gaming-industry/legendary-game-designer-programmer-space-invaders-champion-and-lgbtq-trailblazer-rebecca-heineman-has-died/)**
+  *<p>Article URL: <a href="https://www.pcgamer.com/gaming-industry/legendary-game-designer-programmer-space-invaders-champion-and-lgbtq-trailblazer-rebecca-heineman-has-died/">https://www.pcgamer.com/ga...*
+  📅 Tue, 18 Nov 2025 01:25:54 +0000
 
-- **[Show HN: PrinceJS – 19,200 req/s Bun framework in 2.8 kB (built by a 13yo)](https://princejs.vercel.app)**
-  *<p>Hey HN,<p>I'm 13, from Nigeria, and I just released PrinceJS — the fastest web framework for Bun right now.<p>• 19,200 req/s (beats Hono/Elysia/Express)
-• 2.8 kB gzipped
-• Tree-shakable (cache, AI,...*
-  📅 Mon, 17 Nov 2025 19:45:00 +0000
+- **[I caught Google Gemini using my data and then covering it up](https://unbuffered.stream/gemini-personal-context/)**
+  *<p>Article URL: <a href="https://unbuffered.stream/gemini-personal-context/">https://unbuffered.stream/gemini-personal-context/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=4...*
+  📅 Tue, 18 Nov 2025 01:11:34 +0000
 
 ### 📑 TechCrunch
+
+- **[As consumers ditch Google for ChatGPT, Peec AI raises $21M to help brands adapt](https://techcrunch.com/2025/11/17/as-consumers-ditch-google-for-chatgpt-peec-ai-raises-21m-to-help-brands-adapt/)**
+  *With consumers increasingly asking questions to ChatGPT, not Google, product discovery is changing — and the promise to give brands visibility and control over this fast-growing search channel has mad...*
+  📅 Tue, 18 Nov 2025 05:10:17 +0000
 
 - **[a16z-backed super PAC is targeting Alex Bores, sponsor of New York’s AI safety bill — he says bring it on](https://techcrunch.com/2025/11/17/a16z-backed-super-pac-is-targeting-alex-bores-sponsor-of-new-yorks-ai-safety-bill-he-says-bring-it-on/)**
   *A super PAC backed by Andreessen Horowitz, OpenAI, and other tech leaders has targeted New York Assembly member Alex Bores' congressional campaign, marking its first attack against a lawmaker supporti...*
@@ -97,29 +101,17 @@
   *Cisco has acquired Y Combinator-backed translation app EzDub to integrate it into its communication suite....*
   📅 Mon, 17 Nov 2025 18:33:03 +0000
 
-- **[Luminar is fighting with its biggest customer as bankruptcy threat looms](https://techcrunch.com/2025/11/17/luminar-is-fighting-with-its-biggest-customer-as-bankruptcy-threat-looms/)**
-  *The fight comes at a perilous time for Luminar, which is running out of cash and under SEC investigation....*
-  📅 Mon, 17 Nov 2025 18:00:44 +0000
-
 ### 📑 Dev.to
 
-- **[The C# Developer’s CURL Copy-Paste Conundrum](https://dev.to/iron-software/the-c-developers-curl-copy-paste-conundrum-mok)**
-  *<h1>
-  
-  
-  Introduction: The C# Developer’s CURL Copy-Paste Conundrum
-</h1>
+- **[📻 I built an infinite 90s boombox with Gemini + Lyria (and it has an AI DJ!)](https://dev.to/googleai/i-built-an-infinite-90s-boombox-with-gemini-lyria-and-it-has-an-ai-dj-3jh8)**
+  *<p>I recently built an experiment that I honestly can’t stop listening to. It’s a virtual, web-based Boombox. You tune the dial, the station changes, and the music crossfades in real-time.</p>
 
-<p><strong>Bridging Bash and .NET: Harnessing CurlDotNet for Linux-Compatible REST API Magic</strong></p>
+<p>But...*
+  📅 Tue, 18 Nov 2025 06:08:28 +0000
 
-<p>It’s 2 AM o...*
-  📅 Tue, 18 Nov 2025 00:47:44 +0000
-
-- **[Mobile Marketing in 2025: Why Your Desktop Strategy Is Costing You Conversions](https://dev.to/synergistdigitalmedia/mobile-marketing-in-2025-why-your-desktop-strategy-is-costing-you-conversions-4ijd)**
-  *<p>Let me guess: you optimized your website for mobile by making sure it "looks okay" on your phone. Maybe ran it through Google's Mobile-Friendly Test, got a green checkmark, called it a day.</p>
-
-<p...*
-  📅 Tue, 18 Nov 2025 00:46:22 +0000
+- **[Ringer Movies: ‘Weird Science’ With Bill Simmons and Kyle Brandt | Ringer Movies](https://dev.to/popcorn_movies/ringer-movies-weird-science-with-bill-simmons-and-kyle-brandt-ringer-movies-1j33)**
+  *<p>Bill Simmons and Kyle Brandt dive into the Ringer’s latest Rewatchables episode all about John Hughes’s 1985 teen classic <em>Weird Science</em>, starring Anthony Michael Hall, Kelly LeBrock and Il...*
+  📅 Tue, 18 Nov 2025 06:01:15 +0000
 
 </details>
 
@@ -127,105 +119,105 @@
 
 ### 📈 Daily Trending
 
-- **[Summiner/Atlas](https://github.com/Summiner/Atlas)** ⭐ 2
-  ![Java](https://img.shields.io/badge/-Java-orange)
-  Basic command library for the modern PaperMC Brigadier API
-
-- **[sanjunoor089-ui/Sk_fashion_hub](https://github.com/sanjunoor089-ui/Sk_fashion_hub)** ⭐ 1
-  ![HTML](https://img.shields.io/badge/-HTML-lightgrey)
-  "Style, quality, and savings meet at Sk Fashion Hub. Discover your signature look with our handpicked collections of modern wear, from dashing shirts and jeans to exclusive festive attire. Find your next great outfit today!"
-
-- **[lautarolopezfacal20-blip/InfoFutbol](https://github.com/lautarolopezfacal20-blip/InfoFutbol)** ⭐ 1
-  ![None](https://img.shields.io/badge/-None-lightgrey)
-  None
-
-- **[MagaliAzar/RecuperatorioParcialAzar](https://github.com/MagaliAzar/RecuperatorioParcialAzar)** ⭐ 1
-  ![C#](https://img.shields.io/badge/-C#-lightgrey)
-  None
-
-- **[hardihardi/SIPEGAWAI](https://github.com/hardihardi/SIPEGAWAI)** ⭐ 1
-  ![Vue](https://img.shields.io/badge/-Vue-lightgrey)
-  None
-
-- **[dasurireddy420-ui/kicad12345](https://github.com/dasurireddy420-ui/kicad12345)** ⭐ 1
-  ![None](https://img.shields.io/badge/-None-lightgrey)
-  download kicad software
-
-- **[Earthbotics/CARL](https://github.com/Earthbotics/CARL)** ⭐ 1
+- **[karpathy/reader3](https://github.com/karpathy/reader3)** ⭐ 238
   ![Python](https://img.shields.io/badge/-Python-blue)
-  CARL (Cognitive Architecture for Reasoning and Learning) is a personality-driven embodied AI system integrating perception, memory, emotion, values, and autonomous behavior. Built for research in consciousness, robotics, and human-AI interaction.
+  Quick illustration of how one can easily read books together with LLMs. It's great and I highly recommend it.
 
-- **[Luckyisrael/blockradar-sdk](https://github.com/Luckyisrael/blockradar-sdk)** ⭐ 1
+- **[Taiizor/Blazouter](https://github.com/Taiizor/Blazouter)** ⭐ 7
+  ![C#](https://img.shields.io/badge/-C#-lightgrey)
+  Blazouter brings modern, React Router-inspired routing to Blazor. It provides true nested routes, built‑in route guards, lazy loading, per-route layouts and rich transitions — all type-safe and compatible with Server, WebAssembly, and Hybrid (MAUI) hosting models.
+
+- **[shenpeiheng/ai-smart-draw](https://github.com/shenpeiheng/ai-smart-draw)** ⭐ 6
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
-  An un-official Type-safe SDK for the Blockradar REST API.
+  ai-smart-draw
+
+- **[SauersML/CoT_data](https://github.com/SauersML/CoT_data)** ⭐ 6
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  None
+
+- **[joeseesun/Seedream_MCP](https://github.com/joeseesun/Seedream_MCP)** ⭐ 5
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  增强版 Seedream 4.0 MCP 工具 - 支持文生图、图生图、多图融合、组图生成，集成七牛云存储和提示词模板系统
+
+- **[SDS375/rng_api](https://github.com/SDS375/rng_api)** ⭐ 5
+  ![R](https://img.shields.io/badge/-R-lightgrey)
+  Random number API
+
+- **[fxwl/NSFW-Content-Engagement-Tracker](https://github.com/fxwl/NSFW-Content-Engagement-Tracker)** ⭐ 5
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  None
+
+- **[okiefoolyou87/xiyan1586ayane](https://github.com/okiefoolyou87/xiyan1586ayane)** ⭐ 4
+  ![None](https://img.shields.io/badge/-None-lightgrey)
+  None
 
 ### 📈 Weekly Trending
 
-- **[ByteDance-Seed/Depth-Anything-3](https://github.com/ByteDance-Seed/Depth-Anything-3)** ⭐ 1,811
+- **[ByteDance-Seed/Depth-Anything-3](https://github.com/ByteDance-Seed/Depth-Anything-3)** ⭐ 1,892
   ![Jupyter Notebook](https://img.shields.io/badge/-Jupyter Notebook-lightgrey)
   Depth Anything 3
 
-- **[straight-tamago/misaka26](https://github.com/straight-tamago/misaka26)** ⭐ 1,018
+- **[straight-tamago/misaka26](https://github.com/straight-tamago/misaka26)** ⭐ 1,226
   ![None](https://img.shields.io/badge/-None-lightgrey)
   iOS /iPadOS 16.0 - 26.1, An ultimate customization tool, uilitizing the bug that makes TrollRestore possible. 
 
-- **[nusquama/n8nworkflows.xyz](https://github.com/nusquama/n8nworkflows.xyz)** ⭐ 433
+- **[nusquama/n8nworkflows.xyz](https://github.com/nusquama/n8nworkflows.xyz)** ⭐ 578
   ![None](https://img.shields.io/badge/-None-lightgrey)
   N8N Workflows Catalog
 
-- **[Haleclipse/Claudix](https://github.com/Haleclipse/Claudix)** ⭐ 318
+- **[Haleclipse/Claudix](https://github.com/Haleclipse/Claudix)** ⭐ 326
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   Gorgeous Claude Code Extend for VS Code.
 
-- **[xPOURY4/CodeCraft-Architect](https://github.com/xPOURY4/CodeCraft-Architect)** ⭐ 268
+- **[xPOURY4/CodeCraft-Architect](https://github.com/xPOURY4/CodeCraft-Architect)** ⭐ 272
   ![None](https://img.shields.io/badge/-None-lightgrey)
   AI-powered software architect and full-stack engineer prompt that elevates web code development by enforcing production-grade architecture, consistent coding standards, and automated quality practices. Designed to boost developer productivity and code quality when used as the primary prompt.
 
-- **[medusalix/FreeMDU](https://github.com/medusalix/FreeMDU)** ⭐ 231
+- **[medusalix/FreeMDU](https://github.com/medusalix/FreeMDU)** ⭐ 264
   ![Rust](https://img.shields.io/badge/-Rust-brown)
   Open hardware and software tools for communicating with Miele appliances via their optical diagnostic interface
 
-- **[zigbook/zigbook](https://github.com/zigbook/zigbook)** ⭐ 220
+- **[karpathy/reader3](https://github.com/karpathy/reader3)** ⭐ 238
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  Quick illustration of how one can easily read books together with LLMs. It's great and I highly recommend it.
+
+- **[zigbook/zigbook](https://github.com/zigbook/zigbook)** ⭐ 234
   ![Zig](https://img.shields.io/badge/-Zig-lightgrey)
   A comprehensive guide to the Zig programming language, a journey from fundamentals to advanced systems programming.
 
-- **[hanakim3945/bl_sbx](https://github.com/hanakim3945/bl_sbx)** ⭐ 184
-  ![None](https://img.shields.io/badge/-None-lightgrey)
-  itunesstored & bookassetd sbx escape
-
 ### 📈 Monthly Trending
 
-- **[toon-format/toon](https://github.com/toon-format/toon)** ⭐ 17,374
+- **[toon-format/toon](https://github.com/toon-format/toon)** ⭐ 17,524
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   🎒 Token-Oriented Object Notation (TOON) – Compact, human-readable, schema-aware JSON for LLM prompts. Spec, benchmarks, TypeScript SDK.
 
-- **[Snapchat/Valdi](https://github.com/Snapchat/Valdi)** ⭐ 10,235
+- **[Snapchat/Valdi](https://github.com/Snapchat/Valdi)** ⭐ 10,437
   ![C++](https://img.shields.io/badge/-C++-pink)
   Valdi is a cross-platform UI framework that delivers native performance without sacrificing developer velocity.
 
-- **[HKUDS/AI-Trader](https://github.com/HKUDS/AI-Trader)** ⭐ 9,462
+- **[HKUDS/AI-Trader](https://github.com/HKUDS/AI-Trader)** ⭐ 9,472
   ![Python](https://img.shields.io/badge/-Python-blue)
   "AI-Trader: Can AI Beat the Market?" Live Trading Bench: https://ai4trade.ai
 
-- **[NoFxAiOS/nofx](https://github.com/NoFxAiOS/nofx)** ⭐ 7,662
+- **[NoFxAiOS/nofx](https://github.com/NoFxAiOS/nofx)** ⭐ 7,670
   ![Go](https://img.shields.io/badge/-Go-cyan)
   NOFX: Defining the Next-Generation AI Trading Operating System. A multi-exchange Al trading platform(Binance/Hyperliquid/Aster) with multi-Ai competition(deepseek/qwen/claude)self-evolution, and real-time dashboard
 
-- **[diet103/claude-code-infrastructure-showcase](https://github.com/diet103/claude-code-infrastructure-showcase)** ⭐ 6,754
+- **[diet103/claude-code-infrastructure-showcase](https://github.com/diet103/claude-code-infrastructure-showcase)** ⭐ 6,769
   ![Shell](https://img.shields.io/badge/-Shell-lightgrey)
   Examples of my Claude Code infrastructure with skill auto-activation, hooks, and agents
 
-- **[wquguru/nof0](https://github.com/wquguru/nof0)** ⭐ 2,711
+- **[wquguru/nof0](https://github.com/wquguru/nof0)** ⭐ 2,712
   ![Go](https://img.shields.io/badge/-Go-cyan)
   NOF0 - 开源的 AI 交易竞技场
 
-- **[deta/surf](https://github.com/deta/surf)** ⭐ 2,699
+- **[deta/surf](https://github.com/deta/surf)** ⭐ 2,702
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   Personal AI Notebooks. Organize files & webpages and generate notes from them. Open source, local & open data, open model choice (incl. local).
 
-- **[borndotcom/react-native-godot](https://github.com/borndotcom/react-native-godot)** ⭐ 2,387
-  ![C++](https://img.shields.io/badge/-C++-pink)
-  React Native Godot - Embed Godot Engine in React Native apps
+- **[francescopace/espectre](https://github.com/francescopace/espectre)** ⭐ 2,492
+  ![C](https://img.shields.io/badge/-C-lightgrey)
+  🛜 ESPectre 👻  - Motion detection system based on Wi-Fi spectre analysis (CSI), with Home Assistant integration.
 
 ## 🚀 Latest Releases
 
@@ -485,30 +477,30 @@ for a semver-minor rele...
 
 | Skill | Status |
 |-------|--------|
-| Java | 🟡 Learning |
-| Python | ⚪ Planned |
+| Java | ⚪ Planned |
+| Python | 🟢 Proficient |
 | JavaScript | 🟢 Proficient |
 | TypeScript | 🟡 Learning |
-| Go | 🔴 Beginner |
+| Go | 🟢 Proficient |
 
 ### Frameworks
 
 | Skill | Status |
 |-------|--------|
-| React | 🟡 Learning |
-| Spring Boot | 🔴 Beginner |
-| Django | 🔴 Beginner |
-| Node.js | 🟡 Learning |
-| Next.js | ⚪ Planned |
+| React | ⚪ Planned |
+| Spring Boot | 🟡 Learning |
+| Django | 🟡 Learning |
+| Node.js | 🔴 Beginner |
+| Next.js | 🔴 Beginner |
 
 ### Cybersecurity
 
 | Skill | Status |
 |-------|--------|
-| Penetration Testing | ⚪ Planned |
-| Web Security | 🟡 Learning |
-| Network Security | 🔴 Beginner |
-| OWASP | 🟢 Proficient |
+| Penetration Testing | 🔴 Beginner |
+| Web Security | 🟢 Proficient |
+| Network Security | 🟢 Proficient |
+| OWASP | ⚪ Planned |
 
 ### Ai Ml
 
@@ -516,9 +508,9 @@ for a semver-minor rele...
 |-------|--------|
 | Machine Learning | 🟢 Proficient |
 | Deep Learning | 🟡 Learning |
-| NLP | 🟡 Learning |
+| NLP | 🔴 Beginner |
 | Computer Vision | 🔴 Beginner |
-| TensorFlow | 🔴 Beginner |
+| TensorFlow | 🟢 Proficient |
 | PyTorch | ⚪ Planned |
 
 ### Devops
@@ -526,18 +518,18 @@ for a semver-minor rele...
 | Skill | Status |
 |-------|--------|
 | Docker | 🟡 Learning |
-| Kubernetes | ⚪ Planned |
-| CI/CD | 🟡 Learning |
-| AWS | 🟡 Learning |
-| Azure | 🔴 Beginner |
+| Kubernetes | 🟢 Proficient |
+| CI/CD | ⚪ Planned |
+| AWS | ⚪ Planned |
+| Azure | 🟢 Proficient |
 
 ### Other
 
 | Skill | Status |
 |-------|--------|
-| Blockchain | 🔴 Beginner |
-| Web3 | ⚪ Planned |
-| Cloud Computing | 🟢 Proficient |
+| Blockchain | 🟡 Learning |
+| Web3 | 🟢 Proficient |
+| Cloud Computing | 🟡 Learning |
 
 </details>
 
