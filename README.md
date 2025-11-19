@@ -7,7 +7,7 @@
 ![AI & ML](https://img.shields.io/badge/-AI%20&%20ML-blue) ![CyberSecurity](https://img.shields.io/badge/-CyberSecurity-red) ![Full Stack Development](https://img.shields.io/badge/-Full%20Stack%20Development-green)
 
 [![Auto Update](https://img.shields.io/badge/Auto%20Update-Enabled-success)](https://github.com/yourusername/tech-dashboard/actions)
-[![Last Updated](https://img.shields.io/badge/Last%20Updated-November 18, 2025-blue)](https://github.com/yourusername/tech-dashboard)
+[![Last Updated](https://img.shields.io/badge/Last%20Updated-November 19, 2025-blue)](https://github.com/yourusername/tech-dashboard)
 
 *Automatically updated every 6 hours with the latest tech news, trending repositories, and learning resources.*
 
@@ -46,73 +46,68 @@
 
 ### 📑 Hacker News
 
-- **[Pebble, Rebble, and a Path Forward](https://ericmigi.com/blog/pebble-rebble-and-a-path-forward/)**
-  *<p>Article URL: <a href="https://ericmigi.com/blog/pebble-rebble-and-a-path-forward/">https://ericmigi.com/blog/pebble-rebble-and-a-path-forward/</a></p>
-<p>Comments URL: <a href="https://news.ycombin...*
-  📅 Tue, 18 Nov 2025 17:24:27 +0000
+- **[Lucent 7 R/E 5ESS Telephone Switch Rescue](http://kev009.com/wp/2024/07/Lucent-5ESS-Rescue/)**
+  *<p>Article URL: <a href="http://kev009.com/wp/2024/07/Lucent-5ESS-Rescue/">http://kev009.com/wp/2024/07/Lucent-5ESS-Rescue/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=45973...*
+  📅 Tue, 18 Nov 2025 23:59:14 +0000
 
-- **[Strix Halo's Memory Subsystem: Tackling iGPU Challenges](https://chipsandcheese.com/p/strix-halos-memory-subsystem-tackling)**
-  *<p>Article URL: <a href="https://chipsandcheese.com/p/strix-halos-memory-subsystem-tackling">https://chipsandcheese.com/p/strix-halos-memory-subsystem-tackling</a></p>
-<p>Comments URL: <a href="https:...*
-  📅 Tue, 18 Nov 2025 16:41:34 +0000
+- **[Cloudflare outage on November 18, 2025 post mortem](https://blog.cloudflare.com/18-november-2025-outage/)**
+  *<p>Related: <i>Cloudflare Global Network experiencing issues</i> - <a href="https://news.ycombinator.com/item?id=45963780">https://news.ycombinator.com/item?id=45963780</a> - Nov 2025 (1580 comments)<...*
+  📅 Tue, 18 Nov 2025 23:31:22 +0000
 
-- **[Show HN: Optimizing LiteLLM with Rust – When Expectations Meet Reality](https://github.com/neul-labs/fast-litellm)**
-  *<p>I've been working on Fast LiteLLM - a Rust acceleration layer for the popular LiteLLM library - and I had some interesting learnings that might resonate with other developers trying to squeeze perf...*
-  📅 Tue, 18 Nov 2025 16:32:16 +0000
+- **[Rebecca Heineman – from homelessness to porting Doom](https://corecursive.com/doomed-to-fail-with-burger-becky/)**
+  *<p>Article URL: <a href="https://corecursive.com/doomed-to-fail-with-burger-becky/">https://corecursive.com/doomed-to-fail-with-burger-becky/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator...*
+  📅 Tue, 18 Nov 2025 23:13:35 +0000
 
-- **[Solving a Million-Step LLM Task with Zero Errors](https://arxiv.org/abs/2511.09030)**
-  *<p>Article URL: <a href="https://arxiv.org/abs/2511.09030">https://arxiv.org/abs/2511.09030</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=45968362">https://news.ycombinator.co...*
-  📅 Tue, 18 Nov 2025 16:26:28 +0000
+- **[Monotype font licencing shake-down](https://www.insanityworks.org/randomtangent/2025/11/14/monotype-font-licencing-shake-down)**
+  *<p>Article URL: <a href="https://www.insanityworks.org/randomtangent/2025/11/14/monotype-font-licencing-shake-down">https://www.insanityworks.org/randomtangent/2025/11/14/monotype-font-licencing-shake...*
+  📅 Tue, 18 Nov 2025 22:42:45 +0000
 
-- **[A Day at Hetzner Online in the Falkenstein Data Center](https://www.igorslab.de/en/a-day-at-hetzner-online-in-the-falkenstein-data-center-insights-into-server-technology-cooling-production-rma-and-sustainability/)**
-  *<p>Article URL: <a href="https://www.igorslab.de/en/a-day-at-hetzner-online-in-the-falkenstein-data-center-insights-into-server-technology-cooling-production-rma-and-sustainability/">https://www.igors...*
-  📅 Tue, 18 Nov 2025 16:18:47 +0000
+- **[Blender 5.0](https://www.blender.org/download/releases/5-0/)**
+  *<p>Article URL: <a href="https://www.blender.org/download/releases/5-0/">https://www.blender.org/download/releases/5-0/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=45972519"...*
+  📅 Tue, 18 Nov 2025 21:39:18 +0000
 
-- **[5 Things to Try with Gemini 3 Pro in Gemini CLI](https://developers.googleblog.com/en/5-things-to-try-with-gemini-3-pro-in-gemini-cli/)**
-  *<p>Article URL: <a href="https://developers.googleblog.com/en/5-things-to-try-with-gemini-3-pro-in-gemini-cli/">https://developers.googleblog.com/en/5-things-to-try-with-gemini-3-pro-in-gemini-cli/</a...*
-  📅 Tue, 18 Nov 2025 16:09:31 +0000
+- **[Bild AI (YC W25) is hiring – Make housing affordable](https://www.ycombinator.com/companies/bild-ai/jobs/m2ilR5L-founding-engineer-applied-ai)**
+  *<p>Article URL: <a href="https://www.ycombinator.com/companies/bild-ai/jobs/m2ilR5L-founding-engineer-applied-ai">https://www.ycombinator.com/companies/bild-ai/jobs/m2ilR5L-founding-engineer-applied-a...*
+  📅 Tue, 18 Nov 2025 21:29:37 +0000
 
 ### 📑 TechCrunch
 
-- **[Toyota keeps betting on hybrid vehicles in the US](https://techcrunch.com/2025/11/18/toyota-keeps-betting-on-hybrid-vehicles-in-the-us/)**
-  *The investment follows an announcement last week that Toyota will spend up to $10 billion over the next five years in the United States....*
-  📅 Tue, 18 Nov 2025 18:13:36 +0000
+- **[Trump DOE gives Microsoft partner $1B loan to restart Three Mile Island reactor](https://techcrunch.com/2025/11/18/trump-doe-gives-microsoft-partner-1b-loan-to-restart-three-mile-island-reactor/)**
+  *Constellation Energy will use the loan to refurbish a reactor it idled in 2019. Microsoft has agreed to buy the power once the facility reopens in 2028....*
+  📅 Wed, 19 Nov 2025 00:03:02 +0000
 
-- **[Poe’s AI app now supports group chats across AI models](https://techcrunch.com/2025/11/18/poes-ai-app-now-supports-group-chats-across-ai-models/)**
-  *Quora's AI platform Poe now lets users engage in group chats with up to 200 people across AI models and bots....*
-  📅 Tue, 18 Nov 2025 17:04:03 +0000
+- **[European tech gets political](https://techcrunch.com/2025/11/18/european-tech-gets-political/)**
+  *Taking a page from Big Tech, legacy industries, and their U.S. peers, European tech companies are increasingly learning to lobby for themselves....*
+  📅 Wed, 19 Nov 2025 00:00:00 +0000
 
-- **[‘Our funds are 20 years old’: limited partners confront VCs’ liquidity crisis](https://techcrunch.com/2025/11/18/our-funds-are-20-years-old-a-look-inside-the-liquidity-crisis-reshaping-venture-capital/)**
-  *Venture funds have longer timelines than anyone planned for, compelling LPs to rip up and rebuild their allocation models....*
-  📅 Tue, 18 Nov 2025 17:00:00 +0000
+- **[Tesla receives ride-hailing permit in Arizona in last required step to launch robotaxi service](https://techcrunch.com/2025/11/18/tesla-receives-ride-hailing-permit-in-arizona-in-last-required-step-to-launch-robotaxi-service/)**
+  *The permit is the final regulatory step to launch a robotaxi service in Arizona, a state that has become a hub of autonomous vehicle technology testing and development....*
+  📅 Tue, 18 Nov 2025 22:26:55 +0000
 
-- **[a16z leads $21M Series A into AI-native tax compliance software Sphere](https://techcrunch.com/2025/11/18/a16z-leads-21m-series-a-into-tax-compliance-platform-sphere/)**
-  *Sphere helps automate registration, calculation, filing, and remittance obligations for companies....*
-  📅 Tue, 18 Nov 2025 17:00:00 +0000
+- **[Hugging Face CEO says we’re in an ‘LLM bubble,’ not an AI bubble](https://techcrunch.com/2025/11/18/hugging-face-ceo-says-were-in-an-llm-bubble-not-an-ai-bubble/)**
+  *Hugging Face co-founder and CEO Clem Delangue says all the attention is on LLMs, but smaller, specialized models will make sense in many use cases going forward....*
+  📅 Tue, 18 Nov 2025 21:42:48 +0000
 
-- **[Hank Green’s Focus Friend is Google Play’s app of the year](https://techcrunch.com/2025/11/18/hank-greens-focus-friend-is-google-plays-app-of-the-year/)**
-  *In a year that again saw AI assistants and tools climb the app store charts over and over, it's interesting to see a timer that helps you disconnect from your tech winning Google's highest app award....*
-  📅 Tue, 18 Nov 2025 16:05:06 +0000
+- **[AI data center provider Lambda raises whopping $1.5B after multibillion-dollar Microsoft deal](https://techcrunch.com/2025/11/18/ai-data-center-provider-lambda-raises-whopping-1-5b-after-multibillion-dollar-microsoft-deal/)**
+  *Lambda's new raise was a solid beat over the amount that deal-watchers say it was hoping to hit....*
+  📅 Tue, 18 Nov 2025 19:37:25 +0000
 
-- **[Google launches Gemini 3 with new coding app and record benchmark scores](https://techcrunch.com/2025/11/18/google-launches-gemini-3-with-new-coding-app-and-record-benchmark-scores/)**
-  *Google released Gemini 3, its latest and most advanced foundation model, to be made immediately available through the Gemini app and AI search interface....*
-  📅 Tue, 18 Nov 2025 16:00:00 +0000
+- **[Meta wins antitrust trial as judge denies that it’s a monopoly](https://techcrunch.com/2025/11/18/meta-wins-antitrust-trial-as-judge-denies-that-its-a-monopoly/)**
+  *A federal judge ruled that Meta is not a monopoly in a lawsuit with the FTC....*
+  📅 Tue, 18 Nov 2025 19:01:45 +0000
 
 ### 📑 Dev.to
 
-- **[**Mejora en PLD gracias a IA/ML: un micro-caso de éxito**](https://dev.to/drcarlosruizviquez/mejora-en-pld-gracias-a-iaml-un-micro-caso-de-exito-kg3)**
-  *<p><strong>Mejora en PLD gracias a IA/ML: un micro-caso de éxito</strong></p>
+- **[The lumberjack paradox: From theory to practice](https://dev.to/googlecloud/the-lumberjack-paradox-from-theory-to-practice-2lb5)**
+  *<p><a href="https://www.linkedin.com/posts/sigje_i-have-so-many-thoughts-about-this-interesting-ugcPost-7389735278690742272-viPE" rel="noopener noreferrer">Previously</a>, I shared my thoughts on Neal...*
+  📅 Wed, 19 Nov 2025 00:42:14 +0000
 
-<p>En el entorno financiero, la Prevención del Lavado de Dinero (PLD) es un enfoque fundamental para evitar la ocultación...*
-  📅 Tue, 18 Nov 2025 18:11:44 +0000
-
-- **[Five months of learning, breaking things, fixing them, and somehow building my first proper RASA chatbot. Sharing the whole journey here](https://dev.to/aniket_kuyate_15acc4e6587/five-months-of-learning-breaking-things-fixing-them-and-somehow-building-my-first-proper-rasa-55g1)**
-  *<div class="ltag__link">
-  <a class="ltag__link__link" href="https://dev.to/aniket_kuyate_15acc4e6587">
-    <div class="ltag__link__pic">
-      <img alt="aniket_kuyate_15acc4e6587" src="https://media2...*
-  📅 Tue, 18 Nov 2025 18:11:13 +0000
+- **[ES6 {Destructuring} Deep Dive](https://dev.to/senken18/es6-destructuring-deep-dive-7ch)**
+  *<p>We all know what variables are, and there are plenty of times where we find ourselves using objects or arrays with long property names on them over, and over, and over... Wouldn't it be nice to jus...*
+  📅 Wed, 19 Nov 2025 00:41:14 +0000
 
 </details>
 
@@ -120,105 +115,105 @@
 
 ### 📈 Daily Trending
 
-- **[karpathy/reader3](https://github.com/karpathy/reader3)** ⭐ 758
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  Quick illustration of how one can easily read books together with LLMs. It's great and I highly recommend it.
-
-- **[supertone-inc/supertonic](https://github.com/supertone-inc/supertonic)** ⭐ 37
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
-  Lightning-fast, on-device TTS — running natively via ONNX.
-
-- **[Taiizor/Blazouter](https://github.com/Taiizor/Blazouter)** ⭐ 36
-  ![C#](https://img.shields.io/badge/-C#-lightgrey)
-  Blazouter brings modern, React Router-inspired routing to Blazor. It provides true nested routes, built‑in route guards, lazy loading, per-route layouts and rich transitions — all type-safe and compatible with Server, WebAssembly, and Hybrid (MAUI) hosting models.
-
-- **[sunnra0x0/solana-sports-prediction-market](https://github.com/sunnra0x0/solana-sports-prediction-market)** ⭐ 34
-  ![Rust](https://img.shields.io/badge/-Rust-brown)
-  Decentralized sports betting & prediction market on Solana. Create markets, place bets, trade positions. Anchor contracts, Pyth Network oracles, Next.js dApp. Ultra-low fees, sub-second finality.
-
-- **[cos43/flowpilot](https://github.com/cos43/flowpilot)** ⭐ 29
-  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
+- **[sambik22/Aicompanion-ibachotinko-](https://github.com/sambik22/Aicompanion-ibachotinko-)** ⭐ 2
+  ![Java](https://img.shields.io/badge/-Java-orange)
   None
 
-- **[sunnra0x0/prediction-market-trading-bot](https://github.com/sunnra0x0/prediction-market-trading-bot)** ⭐ 23
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  Automated trading bot for Polymarket & Kalshi prediction markets. 8 strategies: arbitrage, market making, trend following, mean reversion, statistical arbitrage, copy trading, hedging, and liquidity provision. Includes backtesting, real-time monitoring dashboard, and multi-platform API integration. Python algorithmic trading for prediction markets.
+- **[ParallaxError/SoCKET](https://github.com/ParallaxError/SoCKET)** ⭐ 1
+  ![SystemVerilog](https://img.shields.io/badge/-SystemVerilog-lightgrey)
+  An HDL GPU core with tile-based binning and a rasterization/shading pipeline written in SystemVerilog.
 
-- **[rlresearch/dr-tulu](https://github.com/rlresearch/dr-tulu)** ⭐ 19
-  ![Python](https://img.shields.io/badge/-Python-blue)
+- **[Jjisthebest-404/Shake0-9](https://github.com/Jjisthebest-404/Shake0-9)** ⭐ 1
+  ![HTML](https://img.shields.io/badge/-HTML-lightgrey)
   None
 
-- **[HazemSarhan/express-ts-prisma-starter](https://github.com/HazemSarhan/express-ts-prisma-starter)** ⭐ 17
-  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
+- **[paulmmoore3416/corefilemanager](https://github.com/paulmmoore3416/corefilemanager)** ⭐ 1
+  ![None](https://img.shields.io/badge/-None-lightgrey)
+  CoreManager — a modern file manager with AI utilities, integrated terminal, and GitHub dark styling
+
+- **[Dancull/Bin-Assistant-Architecture-Tool](https://github.com/Dancull/Bin-Assistant-Architecture-Tool)** ⭐ 1
+  ![None](https://img.shields.io/badge/-None-lightgrey)
+  Architecture documentation and design patterns for the Bin Day Assistant SaaS.
+
+- **[grathyees17/gabrielle_miranda](https://github.com/grathyees17/gabrielle_miranda)** ⭐ 1
+  ![CSS](https://img.shields.io/badge/-CSS-lightgrey)
   None
+
+- **[GabriWasef/biblioteca-webapp](https://github.com/GabriWasef/biblioteca-webapp)** ⭐ 1
+  ![HTML](https://img.shields.io/badge/-HTML-lightgrey)
+  None
+
+- **[csbarcellos-tk/github-profile-template](https://github.com/csbarcellos-tk/github-profile-template)** ⭐ 1
+  ![None](https://img.shields.io/badge/-None-lightgrey)
+  Stylized README template for GitHub. Includes animations, badges, custom sections, and a neon green theme.
 
 ### 📈 Weekly Trending
 
-- **[ByteDance-Seed/Depth-Anything-3](https://github.com/ByteDance-Seed/Depth-Anything-3)** ⭐ 2,064
-  ![Jupyter Notebook](https://img.shields.io/badge/-Jupyter Notebook-lightgrey)
-  Depth Anything 3
-
-- **[straight-tamago/misaka26](https://github.com/straight-tamago/misaka26)** ⭐ 1,518
+- **[straight-tamago/misaka26](https://github.com/straight-tamago/misaka26)** ⭐ 1,576
   ![None](https://img.shields.io/badge/-None-lightgrey)
   iOS /iPadOS 16.0 - 26.1, An ultimate customization tool, uilitizing the bug that makes TrollRestore possible. 
 
-- **[karpathy/reader3](https://github.com/karpathy/reader3)** ⭐ 758
+- **[karpathy/reader3](https://github.com/karpathy/reader3)** ⭐ 891
   ![Python](https://img.shields.io/badge/-Python-blue)
   Quick illustration of how one can easily read books together with LLMs. It's great and I highly recommend it.
 
-- **[nusquama/n8nworkflows.xyz](https://github.com/nusquama/n8nworkflows.xyz)** ⭐ 728
-  ![None](https://img.shields.io/badge/-None-lightgrey)
-  N8N Workflows Catalog
-
-- **[Haleclipse/Claudix](https://github.com/Haleclipse/Claudix)** ⭐ 372
-  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
-  Gorgeous Claude Code Extend for VS Code.
-
-- **[AnandChowdhary/continuous-claude](https://github.com/AnandChowdhary/continuous-claude)** ⭐ 364
+- **[AnandChowdhary/continuous-claude](https://github.com/AnandChowdhary/continuous-claude)** ⭐ 398
   ![Shell](https://img.shields.io/badge/-Shell-lightgrey)
   🔂 Run Claude Code in a continuous loop, autonomously creating PRs, waiting for checks, and merging
 
-- **[medusalix/FreeMDU](https://github.com/medusalix/FreeMDU)** ⭐ 360
+- **[Haleclipse/Claudix](https://github.com/Haleclipse/Claudix)** ⭐ 381
+  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
+  Gorgeous Claude Code Extend for VS Code.
+
+- **[medusalix/FreeMDU](https://github.com/medusalix/FreeMDU)** ⭐ 366
   ![Rust](https://img.shields.io/badge/-Rust-brown)
   Open hardware and software tools for communicating with Miele appliances via their optical diagnostic interface
 
-- **[K-Dense-AI/karpathy](https://github.com/K-Dense-AI/karpathy)** ⭐ 295
+- **[K-Dense-AI/karpathy](https://github.com/K-Dense-AI/karpathy)** ⭐ 361
   ![Python](https://img.shields.io/badge/-Python-blue)
   An agentic Machine Learning Engineer
 
+- **[buyukakyuz/install-nothing](https://github.com/buyukakyuz/install-nothing)** ⭐ 312
+  ![Rust](https://img.shields.io/badge/-Rust-brown)
+  A terminal application that simulates installing things but doesn't actually install anything
+
+- **[modelscope/AgentEvolver](https://github.com/modelscope/AgentEvolver)** ⭐ 263
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  AgentEvolver: Towards Efficient Self-Evolving Agent System
+
 ### 📈 Monthly Trending
 
-- **[toon-format/toon](https://github.com/toon-format/toon)** ⭐ 17,960
+- **[toon-format/toon](https://github.com/toon-format/toon)** ⭐ 18,070
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   🎒 Token-Oriented Object Notation (TOON) – Compact, human-readable, schema-aware JSON for LLM prompts. Spec, benchmarks, TypeScript SDK.
 
-- **[Snapchat/Valdi](https://github.com/Snapchat/Valdi)** ⭐ 10,760
+- **[Snapchat/Valdi](https://github.com/Snapchat/Valdi)** ⭐ 10,849
   ![C++](https://img.shields.io/badge/-C++-pink)
   Valdi is a cross-platform UI framework that delivers native performance without sacrificing developer velocity.
 
-- **[HKUDS/AI-Trader](https://github.com/HKUDS/AI-Trader)** ⭐ 9,485
+- **[HKUDS/AI-Trader](https://github.com/HKUDS/AI-Trader)** ⭐ 9,484
   ![Python](https://img.shields.io/badge/-Python-blue)
   "AI-Trader: Can AI Beat the Market?" Live Trading Bench: https://ai4trade.ai
 
-- **[NoFxAiOS/nofx](https://github.com/NoFxAiOS/nofx)** ⭐ 7,718
+- **[NoFxAiOS/nofx](https://github.com/NoFxAiOS/nofx)** ⭐ 7,729
   ![Go](https://img.shields.io/badge/-Go-cyan)
   NOFX: Defining the Next-Generation AI Trading Operating System. A multi-exchange Al trading platform(Binance/Hyperliquid/Aster) with multi-Ai competition(deepseek/qwen/claude)self-evolution, and real-time dashboard
 
-- **[diet103/claude-code-infrastructure-showcase](https://github.com/diet103/claude-code-infrastructure-showcase)** ⭐ 6,801
+- **[diet103/claude-code-infrastructure-showcase](https://github.com/diet103/claude-code-infrastructure-showcase)** ⭐ 6,814
   ![Shell](https://img.shields.io/badge/-Shell-lightgrey)
   Examples of my Claude Code infrastructure with skill auto-activation, hooks, and agents
 
-- **[francescopace/espectre](https://github.com/francescopace/espectre)** ⭐ 2,883
+- **[francescopace/espectre](https://github.com/francescopace/espectre)** ⭐ 2,929
   ![C](https://img.shields.io/badge/-C-lightgrey)
   🛜 ESPectre 👻  - Motion detection system based on Wi-Fi spectre analysis (CSI), with Home Assistant integration.
-
-- **[deta/surf](https://github.com/deta/surf)** ⭐ 2,728
-  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
-  Personal AI Notebooks. Organize files & webpages and generate notes from them. Open source, local & open data, open model choice (incl. local).
 
 - **[wquguru/nof0](https://github.com/wquguru/nof0)** ⭐ 2,716
   ![Go](https://img.shields.io/badge/-Go-cyan)
   NOF0 - 开源的 AI 交易竞技场
+
+- **[borndotcom/react-native-godot](https://github.com/borndotcom/react-native-godot)** ⭐ 2,397
+  ![C++](https://img.shields.io/badge/-C++-pink)
+  React Native Godot - Embed Godot Engine in React Native apps
 
 ## 🚀 Latest Releases
 
@@ -481,56 +476,56 @@ for a semver-minor rele...
 | Java | 🔴 Beginner |
 | Python | ⚪ Planned |
 | JavaScript | 🔴 Beginner |
-| TypeScript | 🔴 Beginner |
-| Go | 🔴 Beginner |
+| TypeScript | 🟢 Proficient |
+| Go | 🟢 Proficient |
 
 ### Frameworks
 
 | Skill | Status |
 |-------|--------|
 | React | 🔴 Beginner |
-| Spring Boot | 🔴 Beginner |
-| Django | ⚪ Planned |
-| Node.js | 🟢 Proficient |
+| Spring Boot | ⚪ Planned |
+| Django | 🟡 Learning |
+| Node.js | 🟡 Learning |
 | Next.js | ⚪ Planned |
 
 ### Cybersecurity
 
 | Skill | Status |
 |-------|--------|
-| Penetration Testing | 🟢 Proficient |
+| Penetration Testing | 🟡 Learning |
 | Web Security | 🔴 Beginner |
-| Network Security | ⚪ Planned |
-| OWASP | 🔴 Beginner |
+| Network Security | 🔴 Beginner |
+| OWASP | 🟢 Proficient |
 
 ### Ai Ml
 
 | Skill | Status |
 |-------|--------|
-| Machine Learning | ⚪ Planned |
-| Deep Learning | 🟡 Learning |
+| Machine Learning | 🟡 Learning |
+| Deep Learning | 🔴 Beginner |
 | NLP | 🔴 Beginner |
-| Computer Vision | 🔴 Beginner |
-| TensorFlow | ⚪ Planned |
-| PyTorch | ⚪ Planned |
+| Computer Vision | 🟢 Proficient |
+| TensorFlow | 🔴 Beginner |
+| PyTorch | 🔴 Beginner |
 
 ### Devops
 
 | Skill | Status |
 |-------|--------|
 | Docker | ⚪ Planned |
-| Kubernetes | ⚪ Planned |
-| CI/CD | 🟡 Learning |
+| Kubernetes | 🟢 Proficient |
+| CI/CD | 🔴 Beginner |
 | AWS | 🟢 Proficient |
-| Azure | ⚪ Planned |
+| Azure | 🟢 Proficient |
 
 ### Other
 
 | Skill | Status |
 |-------|--------|
-| Blockchain | 🟢 Proficient |
-| Web3 | ⚪ Planned |
-| Cloud Computing | 🔴 Beginner |
+| Blockchain | 🟡 Learning |
+| Web3 | 🟢 Proficient |
+| Cloud Computing | 🟢 Proficient |
 
 </details>
 
@@ -548,7 +543,7 @@ This dashboard is automatically updated every 6 hours using GitHub Actions. The 
 
 <div align="center">
 
-**Last Updated:** November 18, 2025
+**Last Updated:** November 19, 2025
 
 Made with ❤️ and automated with GitHub Actions
 
