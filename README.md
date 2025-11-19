@@ -46,35 +46,40 @@
 
 ### 📑 Hacker News
 
-- **[DOE gives Microsoft partner $1B loan to restart Three Mile Island reactor](https://techcrunch.com/2025/11/18/trump-doe-gives-microsoft-partner-1b-loan-to-restart-three-mile-island-reactor/)**
-  *<p>Article URL: <a href="https://techcrunch.com/2025/11/18/trump-doe-gives-microsoft-partner-1b-loan-to-restart-three-mile-island-reactor/">https://techcrunch.com/2025/11/18/trump-doe-gives-microsoft-...*
-  📅 Wed, 19 Nov 2025 02:02:10 +0000
+- **[Multimodal Diffusion Language Models for Thinking-Aware Editing and Generation](https://github.com/tyfeld/MMaDA-Parallel)**
+  *<p>Article URL: <a href="https://github.com/tyfeld/MMaDA-Parallel">https://github.com/tyfeld/MMaDA-Parallel</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=45977542">https://new...*
+  📅 Wed, 19 Nov 2025 09:27:17 +0000
+
+- **[Exploring the Limits of Large Language Models as Quant Traders](https://nof1.ai/blog/TechPost1)**
+  *<p>Article URL: <a href="https://nof1.ai/blog/TechPost1">https://nof1.ai/blog/TechPost1</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=45976832">https://news.ycombinator.com/it...*
+  📅 Wed, 19 Nov 2025 07:36:25 +0000
 
 - **[I just want working RCS messaging](https://wt.gd/i-just-want-my-rcs-messaging-to-work)**
   *<p>Article URL: <a href="https://wt.gd/i-just-want-my-rcs-messaging-to-work">https://wt.gd/i-just-want-my-rcs-messaging-to-work</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=4...*
   📅 Wed, 19 Nov 2025 01:41:33 +0000
 
-- **[Lucent 7 R/E 5ESS Telephone Switch Rescue (2024)](http://kev009.com/wp/2024/07/Lucent-5ESS-Rescue/)**
-  *<p>Article URL: <a href="http://kev009.com/wp/2024/07/Lucent-5ESS-Rescue/">http://kev009.com/wp/2024/07/Lucent-5ESS-Rescue/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=45973...*
-  📅 Tue, 18 Nov 2025 23:59:14 +0000
+- **[Strace-macOS: A clone of the strace command for macOS](https://github.com/Mic92/strace-macos)**
+  *<p>Article URL: <a href="https://github.com/Mic92/strace-macos">https://github.com/Mic92/strace-macos</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=45974681">https://news.ycom...*
+  📅 Wed, 19 Nov 2025 01:18:02 +0000
+
+- **[I made a down detector for down detector](https://downdetectorsdowndetector.com)**
+  *<p>Article URL: <a href="https://downdetectorsdowndetector.com">https://downdetectorsdowndetector.com</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=45974012">https://news.ycom...*
+  📅 Wed, 19 Nov 2025 00:05:28 +0000
 
 - **[Cloudflare outage on November 18, 2025 post mortem](https://blog.cloudflare.com/18-november-2025-outage/)**
   *<p>Related: <i>Cloudflare Global Network experiencing issues</i> - <a href="https://news.ycombinator.com/item?id=45963780">https://news.ycombinator.com/item?id=45963780</a> - Nov 2025 (1580 comments)<...*
   📅 Tue, 18 Nov 2025 23:31:22 +0000
 
-- **[Rebecca Heineman – from homelessness to porting Doom (2022)](https://corecursive.com/doomed-to-fail-with-burger-becky/)**
-  *<p>Related: <i>Rebecca Heineman has died</i> - <a href="https://news.ycombinator.com/item?id=45960368">https://news.ycombinator.com/item?id=45960368</a></p>
-<hr />
-<p>Comments URL: <a href="https://ne...*
-  📅 Tue, 18 Nov 2025 23:13:35 +0000
-
-- **[Monotype font licencing shake-down](https://www.insanityworks.org/randomtangent/2025/11/14/monotype-font-licencing-shake-down)**
-  *<p>Article URL: <a href="https://www.insanityworks.org/randomtangent/2025/11/14/monotype-font-licencing-shake-down">https://www.insanityworks.org/randomtangent/2025/11/14/monotype-font-licencing-shake...*
-  📅 Tue, 18 Nov 2025 22:42:45 +0000
-
 ### 📑 TechCrunch
+
+- **[As Lovable hits $200M ARR, its CEO credits staying in Europe for its success](https://techcrunch.com/2025/11/19/as-lovable-hits-200m-arr-its-ceo-credits-staying-in-europe-for-its-success/)**
+  *Lovable CEO Anton Osika said he credits ignoring advice to move to Silicon Valley for the AI coding company's success....*
+  📅 Wed, 19 Nov 2025 12:09:50 +0000
 
 - **[TikTok will now give you badges for limiting your doomscrolling](https://techcrunch.com/2025/11/18/tiktok-will-now-give-you-badges-for-limiting-your-doomscrolling/)**
   *TikTok is adding new digital wellbeing tools like an affirmation journal, a background sound generator, and badges for using the app within limits...*
@@ -96,21 +101,17 @@
   *Constellation Energy will use the loan to refurbish a reactor it idled in 2019. Microsoft has agreed to buy the power once the facility reopens in 2028....*
   📅 Wed, 19 Nov 2025 00:03:02 +0000
 
-- **[European tech gets political](https://techcrunch.com/2025/11/18/european-tech-gets-political/)**
-  *Taking a page from Big Tech, legacy industries, and their U.S. peers, European tech companies are increasingly learning to lobby for themselves....*
-  📅 Wed, 19 Nov 2025 00:00:00 +0000
-
 ### 📑 Dev.to
 
-- **[Leaders – Wake Up and Smell the Coffee](https://dev.to/bid_solution/leaders-wake-up-and-smell-the-coffee-1laf)**
-  *<p><strong>Exposing the undervaluation crisis</strong></p>
+- **[The Overwhelmed Developer: Drowning in the Deep End of the Tech Pool](https://dev.to/j4s0nc/the-overwhelmed-developer-drowning-in-the-deep-end-of-the-tech-pool-el5)**
+  *<p>Anyone else remember the good old days? Back in 2001, armed with VB6, classic ASP, and SQL 7.5, we meticulously crafted applications. Manuals were our Stack Overflow, UI standards were gospel, and ...*
+  📅 Wed, 19 Nov 2025 12:23:34 +0000
 
-<p>The bid and proposal profession is in crisis. Not because it lacks expertise, but because it remains widely misunderstood. Too often, pro...*
-  📅 Wed, 19 Nov 2025 06:13:24 +0000
+- **[A Deep Dive Into ESP-CSI: Channel State Information on ESP32 Chips](https://dev.to/pratha_maniar/a-deep-dive-into-esp-csi-channel-state-information-on-esp32-chips-5el1)**
+  *<p>Most people know Wi-Fi only as a way to connect phones, laptops, and IoT devices to the internet. But Wi-Fi can do much more.</p>
 
-- **[When I Grow Up, I Want to Be a Bid Writer!](https://dev.to/bid_solution/when-i-grow-up-i-want-to-be-a-bid-writer-59j7)**
-  *<p>The origins of procurement date to around 3,000 BC when Egyptians were scribing orders for the two million limestone and granite blocks needed to build the Great Pyramid. By the 15th century, the f...*
-  📅 Wed, 19 Nov 2025 06:08:12 +0000
+<p>Espressif’s ESP-CSI (Channel State Information) technology allo...*
+  📅 Wed, 19 Nov 2025 12:21:23 +0000
 
 </details>
 
@@ -118,103 +119,103 @@
 
 ### 📈 Daily Trending
 
-- **[TysonWilson7/Bellamy-Pittman](https://github.com/TysonWilson7/Bellamy-Pittman)** ⭐ 24
-  ![None](https://img.shields.io/badge/-None-lightgrey)
-  None
+- **[deepseek-ai/LPLB](https://github.com/deepseek-ai/LPLB)** ⭐ 60
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  An early research stage MoE load balancer based on inear programming.
 
-- **[forayconsulting/gemini_cli_skill](https://github.com/forayconsulting/gemini_cli_skill)** ⭐ 10
+- **[forayconsulting/gemini_cli_skill](https://github.com/forayconsulting/gemini_cli_skill)** ⭐ 32
   ![None](https://img.shields.io/badge/-None-lightgrey)
   A Claude Code skill enabling Claude to use Gemini 3 Pro via Gemini CLI.
 
-- **[eimg/daily-buddies](https://github.com/eimg/daily-buddies)** ⭐ 8
-  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
-  A playful parent/child chore companion
+- **[josy-cruz/c-srb](https://github.com/josy-cruz/c-srb)** ⭐ 24
+  ![C](https://img.shields.io/badge/-C-lightgrey)
+  C hello world example. Docs could be enhanced for better presentation.
 
-- **[wyx176/HPatch](https://github.com/wyx176/HPatch)** ⭐ 7
-  ![Java](https://img.shields.io/badge/-Java-orange)
-  A non-root Xposed framework extending from LSPosed
+- **[josy-cruz/ruby-r0i](https://github.com/josy-cruz/ruby-r0i)** ⭐ 24
+  ![Ruby](https://img.shields.io/badge/-Ruby-lightgrey)
+  Ruby hello world example. Docs could be enhanced for better presentation.
 
-- **[lichangyu138/Intelligent-Code-Knowledge-Repository-Platform](https://github.com/lichangyu138/Intelligent-Code-Knowledge-Repository-Platform)** ⭐ 7
-  ![HTML](https://img.shields.io/badge/-HTML-lightgrey)
-  智能代码知识沉淀平台 是一个面向中小型研发团队（10-50人）的代码审查与知识管理系统。系统通过AI技术自动捕获代码审查过程中的知识，智能关联相关代码片段，并在后续开发中主动提供审查建议，帮助团队提升代码质量和开发效率。
-
-- **[mary-ext/helium-widevine](https://github.com/mary-ext/helium-widevine)** ⭐ 5
-  ![Shell](https://img.shields.io/badge/-Shell-lightgrey)
-  Widevine on Helium Linux
-
-- **[ttapp-cloud/cursor_feel_free](https://github.com/ttapp-cloud/cursor_feel_free)** ⭐ 5
-  ![None](https://img.shields.io/badge/-None-lightgrey)
-  None
-
-- **[RuoJi6/fuzzhound](https://github.com/RuoJi6/fuzzhound)** ⭐ 4
+- **[josy-cruz/python-w1v](https://github.com/josy-cruz/python-w1v)** ⭐ 24
   ![Python](https://img.shields.io/badge/-Python-blue)
-  FuzzHound是一款专为 API 安全测试设计的智能 Fuzz 工具，支持 Swagger/OpenAPI 文档自动解析，提供多种 Fuzz 模式和漏洞检测能力。像猎犬一样嗅探 API 中的安全漏洞！
+  Python hello world example. Docs could be enhanced for better presentation.
+
+- **[josy-cruz/perl-m8f](https://github.com/josy-cruz/perl-m8f)** ⭐ 24
+  ![Perl](https://img.shields.io/badge/-Perl-lightgrey)
+  Perl hello world example. Docs could be enhanced for better presentation.
+
+- **[josy-cruz/scala-e5k](https://github.com/josy-cruz/scala-e5k)** ⭐ 24
+  ![Scala](https://img.shields.io/badge/-Scala-lightgrey)
+  Scala hello world example. Docs could be enhanced for better presentation.
+
+- **[josy-cruz/ruby-lgg](https://github.com/josy-cruz/ruby-lgg)** ⭐ 24
+  ![Ruby](https://img.shields.io/badge/-Ruby-lightgrey)
+  Ruby hello world example. Docs could be enhanced for better presentation.
 
 ### 📈 Weekly Trending
 
-- **[straight-tamago/misaka26](https://github.com/straight-tamago/misaka26)** ⭐ 1,659
+- **[straight-tamago/misaka26](https://github.com/straight-tamago/misaka26)** ⭐ 1,727
   ![None](https://img.shields.io/badge/-None-lightgrey)
   iOS /iPadOS 16.0 - 26.1, An ultimate customization tool, uilitizing the bug that makes TrollRestore possible. 
 
-- **[karpathy/reader3](https://github.com/karpathy/reader3)** ⭐ 1,009
+- **[karpathy/reader3](https://github.com/karpathy/reader3)** ⭐ 1,200
   ![Python](https://img.shields.io/badge/-Python-blue)
   Quick illustration of how one can easily read books together with LLMs. It's great and I highly recommend it.
 
-- **[K-Dense-AI/karpathy](https://github.com/K-Dense-AI/karpathy)** ⭐ 433
+- **[K-Dense-AI/karpathy](https://github.com/K-Dense-AI/karpathy)** ⭐ 506
   ![Python](https://img.shields.io/badge/-Python-blue)
   An agentic Machine Learning Engineer
 
-- **[AnandChowdhary/continuous-claude](https://github.com/AnandChowdhary/continuous-claude)** ⭐ 415
+- **[AnandChowdhary/continuous-claude](https://github.com/AnandChowdhary/continuous-claude)** ⭐ 435
   ![Shell](https://img.shields.io/badge/-Shell-lightgrey)
   🔂 Run Claude Code in a continuous loop, autonomously creating PRs, waiting for checks, and merging
 
-- **[Haleclipse/Claudix](https://github.com/Haleclipse/Claudix)** ⭐ 402
+- **[Haleclipse/Claudix](https://github.com/Haleclipse/Claudix)** ⭐ 418
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   Gorgeous Claude Code Extend for VS Code.
 
-- **[medusalix/FreeMDU](https://github.com/medusalix/FreeMDU)** ⭐ 367
+- **[medusalix/FreeMDU](https://github.com/medusalix/FreeMDU)** ⭐ 372
   ![Rust](https://img.shields.io/badge/-Rust-brown)
   Open hardware and software tools for communicating with Miele appliances via their optical diagnostic interface
 
-- **[buyukakyuz/install-nothing](https://github.com/buyukakyuz/install-nothing)** ⭐ 334
+- **[buyukakyuz/install-nothing](https://github.com/buyukakyuz/install-nothing)** ⭐ 365
   ![Rust](https://img.shields.io/badge/-Rust-brown)
   A terminal application that simulates installing things but doesn't actually install anything
 
-- **[modelscope/AgentEvolver](https://github.com/modelscope/AgentEvolver)** ⭐ 306
+- **[modelscope/AgentEvolver](https://github.com/modelscope/AgentEvolver)** ⭐ 354
   ![Python](https://img.shields.io/badge/-Python-blue)
   AgentEvolver: Towards Efficient Self-Evolving Agent System
 
 ### 📈 Monthly Trending
 
-- **[toon-format/toon](https://github.com/toon-format/toon)** ⭐ 18,150
+- **[toon-format/toon](https://github.com/toon-format/toon)** ⭐ 18,265
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   🎒 Token-Oriented Object Notation (TOON) – Compact, human-readable, schema-aware JSON for LLM prompts. Spec, benchmarks, TypeScript SDK.
 
-- **[Snapchat/Valdi](https://github.com/Snapchat/Valdi)** ⭐ 11,008
+- **[Snapchat/Valdi](https://github.com/Snapchat/Valdi)** ⭐ 11,167
   ![C++](https://img.shields.io/badge/-C++-pink)
   Valdi is a cross-platform UI framework that delivers native performance without sacrificing developer velocity.
 
-- **[HKUDS/AI-Trader](https://github.com/HKUDS/AI-Trader)** ⭐ 9,488
+- **[HKUDS/AI-Trader](https://github.com/HKUDS/AI-Trader)** ⭐ 9,495
   ![Python](https://img.shields.io/badge/-Python-blue)
   "AI-Trader: Can AI Beat the Market?" Live Trading Bench: https://ai4trade.ai
 
-- **[NoFxAiOS/nofx](https://github.com/NoFxAiOS/nofx)** ⭐ 7,761
+- **[NoFxAiOS/nofx](https://github.com/NoFxAiOS/nofx)** ⭐ 7,795
   ![Go](https://img.shields.io/badge/-Go-cyan)
   NOFX: Defining the Next-Generation AI Trading Operating System. A multi-exchange Al trading platform(Binance/Hyperliquid/Aster) with multi-Ai competition(deepseek/qwen/claude)self-evolution, and real-time dashboard
 
-- **[diet103/claude-code-infrastructure-showcase](https://github.com/diet103/claude-code-infrastructure-showcase)** ⭐ 6,826
+- **[diet103/claude-code-infrastructure-showcase](https://github.com/diet103/claude-code-infrastructure-showcase)** ⭐ 6,840
   ![Shell](https://img.shields.io/badge/-Shell-lightgrey)
   Examples of my Claude Code infrastructure with skill auto-activation, hooks, and agents
 
-- **[francescopace/espectre](https://github.com/francescopace/espectre)** ⭐ 2,980
+- **[francescopace/espectre](https://github.com/francescopace/espectre)** ⭐ 3,008
   ![C](https://img.shields.io/badge/-C-lightgrey)
   🛜 ESPectre 👻  - Motion detection system based on Wi-Fi spectre analysis (CSI), with Home Assistant integration.
 
-- **[wquguru/nof0](https://github.com/wquguru/nof0)** ⭐ 2,717
+- **[wquguru/nof0](https://github.com/wquguru/nof0)** ⭐ 2,718
   ![Go](https://img.shields.io/badge/-Go-cyan)
   NOF0 - 开源的 AI 交易竞技场
 
-- **[borndotcom/react-native-godot](https://github.com/borndotcom/react-native-godot)** ⭐ 2,399
+- **[borndotcom/react-native-godot](https://github.com/borndotcom/react-native-godot)** ⭐ 2,402
   ![C++](https://img.shields.io/badge/-C++-pink)
   React Native Godot - Embed Godot Engine in React Native apps
 
@@ -476,51 +477,51 @@ for a semver-minor rele...
 
 | Skill | Status |
 |-------|--------|
-| Java | ⚪ Planned |
+| Java | 🟡 Learning |
 | Python | ⚪ Planned |
-| JavaScript | 🔴 Beginner |
-| TypeScript | ⚪ Planned |
-| Go | ⚪ Planned |
+| JavaScript | 🟢 Proficient |
+| TypeScript | 🟡 Learning |
+| Go | 🟡 Learning |
 
 ### Frameworks
 
 | Skill | Status |
 |-------|--------|
-| React | 🔴 Beginner |
+| React | 🟢 Proficient |
 | Spring Boot | 🔴 Beginner |
 | Django | 🔴 Beginner |
-| Node.js | 🔴 Beginner |
+| Node.js | 🟢 Proficient |
 | Next.js | 🟡 Learning |
 
 ### Cybersecurity
 
 | Skill | Status |
 |-------|--------|
-| Penetration Testing | 🟢 Proficient |
-| Web Security | 🔴 Beginner |
-| Network Security | 🟢 Proficient |
-| OWASP | 🔴 Beginner |
+| Penetration Testing | ⚪ Planned |
+| Web Security | 🟢 Proficient |
+| Network Security | 🔴 Beginner |
+| OWASP | 🟢 Proficient |
 
 ### Ai Ml
 
 | Skill | Status |
 |-------|--------|
 | Machine Learning | 🔴 Beginner |
-| Deep Learning | 🔴 Beginner |
-| NLP | ⚪ Planned |
+| Deep Learning | ⚪ Planned |
+| NLP | 🟡 Learning |
 | Computer Vision | 🟡 Learning |
-| TensorFlow | 🟢 Proficient |
+| TensorFlow | 🟡 Learning |
 | PyTorch | ⚪ Planned |
 
 ### Devops
 
 | Skill | Status |
 |-------|--------|
-| Docker | ⚪ Planned |
-| Kubernetes | 🟡 Learning |
-| CI/CD | 🟡 Learning |
-| AWS | 🔴 Beginner |
-| Azure | 🔴 Beginner |
+| Docker | 🟢 Proficient |
+| Kubernetes | 🟢 Proficient |
+| CI/CD | 🔴 Beginner |
+| AWS | 🟢 Proficient |
+| Azure | ⚪ Planned |
 
 ### Other
 
@@ -528,7 +529,7 @@ for a semver-minor rele...
 |-------|--------|
 | Blockchain | 🔴 Beginner |
 | Web3 | ⚪ Planned |
-| Cloud Computing | 🔴 Beginner |
+| Cloud Computing | 🟡 Learning |
 
 </details>
 
