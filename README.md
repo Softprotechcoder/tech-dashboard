@@ -46,36 +46,40 @@
 
 ### 📑 Hacker News
 
-- **[Show HN: An A2A-compatible, open-source framework for multi-agent networks](https://github.com/openagents-org/openagents)**
-  *<p>Article URL: <a href="https://github.com/openagents-org/openagents">https://github.com/openagents-org/openagents</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=45989394">htt...*
-  📅 Thu, 20 Nov 2025 05:52:43 +0000
+- **[40 years ago, Calvin and Hobbes' raucous adventures burst onto the comics page](https://text.npr.org/nx-s1-5564064)**
+  *<p>Article URL: <a href="https://text.npr.org/nx-s1-5564064">https://text.npr.org/nx-s1-5564064</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=45991787">https://news.ycombinato...*
+  📅 Thu, 20 Nov 2025 12:08:56 +0000
 
-- **[Basalt Woven Textile – MaterialDistrict](https://materialdistrict.com/material/basalt-woven-textile/)**
-  *<p>Article URL: <a href="https://materialdistrict.com/material/basalt-woven-textile/">https://materialdistrict.com/material/basalt-woven-textile/</a></p>
-<p>Comments URL: <a href="https://news.ycombin...*
-  📅 Thu, 20 Nov 2025 05:41:06 +0000
+- **[Show HN: Awesome J2ME](https://github.com/hstsethi/awesome-j2me)**
+  *<p>An awesome list about Java platform Micro edition(J2ME). Documentation, academic papers, tutorials, communities, IDEs, SDKs, emulators, apps, video games. J2ME is a Java specification designed for ...*
+  📅 Thu, 20 Nov 2025 11:23:35 +0000
 
-- **[Measuring the impact of AI scams on the elderly](https://simonlermen.substack.com/p/can-ai-models-be-jailbroken-to-phish)**
-  *<p>Article URL: <a href="https://simonlermen.substack.com/p/can-ai-models-be-jailbroken-to-phish">https://simonlermen.substack.com/p/can-ai-models-be-jailbroken-to-phish</a></p>
-<p>Comments URL: <a hr...*
-  📅 Thu, 20 Nov 2025 00:32:17 +0000
+- **[Interactive World History Atlas Since 3000 BC](http://geacron.com/home-en/)**
+  *<p>Article URL: <a href="http://geacron.com/home-en/">http://geacron.com/home-en/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=45990934">https://news.ycombinator.com/item?id=...*
+  📅 Thu, 20 Nov 2025 09:52:11 +0000
 
-- **[Verifying your Matrix devices is becoming mandatory](https://element.io/blog/verifying-your-devices-is-becoming-mandatory-2/)**
-  *<p>Article URL: <a href="https://element.io/blog/verifying-your-devices-is-becoming-mandatory-2/">https://element.io/blog/verifying-your-devices-is-becoming-mandatory-2/</a></p>
-<p>Comments URL: <a hr...*
-  📅 Thu, 20 Nov 2025 00:22:03 +0000
+- **[DOS Days – Laptop Displays](https://www.dosdays.co.uk/topics/laptop_displays.php)**
+  *<p>Article URL: <a href="https://www.dosdays.co.uk/topics/laptop_displays.php">https://www.dosdays.co.uk/topics/laptop_displays.php</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?...*
+  📅 Thu, 20 Nov 2025 09:04:30 +0000
 
-- **[The patent office is about to make bad patents untouchable](https://www.eff.org/deeplinks/2025/11/patent-office-about-make-bad-patents-untouchable)**
-  *<p>Article URL: <a href="https://www.eff.org/deeplinks/2025/11/patent-office-about-make-bad-patents-untouchable">https://www.eff.org/deeplinks/2025/11/patent-office-about-make-bad-patents-untouchable<...*
-  📅 Wed, 19 Nov 2025 22:00:28 +0000
+- **[Implementation of a Java Processor on a FPGA](https://mavmatrix.uta.edu/electricaleng_theses/337/)**
+  *<p>Article URL: <a href="https://mavmatrix.uta.edu/electricaleng_theses/337/">https://mavmatrix.uta.edu/electricaleng_theses/337/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id...*
+  📅 Thu, 20 Nov 2025 06:40:46 +0000
 
-- **[Precise geolocation via Wi-Fi Positioning System](https://www.amoses.dev/blog/wifi-location/)**
-  *<p>Article URL: <a href="https://www.amoses.dev/blog/wifi-location/">https://www.amoses.dev/blog/wifi-location/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=45985867">https:/...*
-  📅 Wed, 19 Nov 2025 21:58:47 +0000
+- **[PHP 8.5 gets released today, here's what's new](https://stitcher.io/blog/new-in-php-85)**
+  *<p>Article URL: <a href="https://stitcher.io/blog/new-in-php-85">https://stitcher.io/blog/new-in-php-85</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=45989469">https://news.yc...*
+  📅 Thu, 20 Nov 2025 06:07:01 +0000
 
 ### 📑 TechCrunch
+
+- **[Uber Eats will use Starship sidewalk robots to deliver food in the UK](https://techcrunch.com/2025/11/20/uber-eats-will-use-starship-sidewalk-robots-to-deliver-food-in-the-uk/)**
+  *The two companies will start in the UK this year, before expanding to other European cities in 2026 and the U.S. in 2027....*
+  📅 Thu, 20 Nov 2025 12:00:00 +0000
 
 - **[Monarch Tractor preps for layoffs and warns employees it may ‘shut down’](https://techcrunch.com/2025/11/19/monarch-tractor-preps-for-layoffs-and-warns-employees-it-may-shut-down/)**
   *The memo that went out Thursday, which TechCrunch obtained, says the "timing" of the company's pivot away from tractor manufacturing puts it at risk....*
@@ -97,21 +101,22 @@
   *Founders and investors alike are obsessed with AI, and even Neundorfer said her firm, January Ventures, is looking at ways to use AI to make their work more efficient, such as helping to do due dilige...*
   📅 Wed, 19 Nov 2025 20:30:00 +0000
 
-- **[Function Health raises $298M Series B at $2.5B valuation](https://techcrunch.com/2025/11/19/function-health-closes-298m-series-b-at-a-2-5b-valuation-launches-medical-intelligence/)**
-  *From electronic health records and blood tests to the stream of data from wearable devices, the amount of health information people generate is accelerating rapidly. Yet, many users struggle to connec...*
-  📅 Wed, 19 Nov 2025 20:30:00 +0000
-
 ### 📑 Dev.to
 
-- **[How I Played With Self-Correcting LLMs While Fixing My Blog](https://dev.to/peggggykang/how-i-played-with-self-correcting-llms-while-fixing-my-blog-1m9k)**
-  *<p>Last week, I was staring at my latest blog draft, wondering why some sentences just sounded… off. Even though I’d let the AI generate most of it, a few phrases still felt clunky. That’s when I got ...*
-  📅 Thu, 20 Nov 2025 06:17:08 +0000
+- **[The Developer’s Paradox: Why You Need a Next.js SaaS Starter Kit to Stop Coding and Start Selling](https://dev.to/thekarlesi/the-developers-paradox-why-you-need-a-nextjs-saas-starter-kit-to-stop-coding-and-start-selling-4a9k)**
+  *<p>You have a brilliant idea. It came to you in the shower or during a commute—a SaaS concept that solves a specific pain point, has a clear target audience, and potential for recurring revenue. You r...*
+  📅 Thu, 20 Nov 2025 12:24:34 +0000
 
-- **[Why You Should Never Raise Money Before Finding Product Market Fit](https://dev.to/mapster/why-you-should-never-raise-money-before-finding-product-market-fit-884)**
-  *<p><strong>Money is a terrible substitute for product market fit.</strong></p>
+- **[Lesson 26: Freqtrade-Custom Strategy Development](https://dev.to/henry_lin_3ac6363747f45b4/lesson-26-freqtrade-custom-strategy-development-255)**
+  *<h1>
+  
+  
+  Lesson 26: Custom Strategy Development
+</h1>
 
-<p>In 2020, Quibi raised $1.75 billion before launch. The company had A-list Hollywood talent, cutting-edge technology, ...*
-  📅 Thu, 20 Nov 2025 06:16:22 +0000
+<p><strong>⏱ Duration</strong>: 2.5 hours<br />
+<strong>🎯 Learning Objectives</strong>: Learn to write your own trading strategies from scrat...*
+  📅 Thu, 20 Nov 2025 12:20:14 +0000
 
 </details>
 
@@ -119,103 +124,103 @@
 
 ### 📈 Daily Trending
 
-- **[move132/kiira2api](https://github.com/move132/kiira2api)** ⭐ 13
+- **[move132/kiira2api](https://github.com/move132/kiira2api)** ⭐ 35
   ![Python](https://img.shields.io/badge/-Python-blue)
   免费的  Nano Banana 🔥，Sora 2  ，Veo 3 ， Midjourney
 
-- **[0xalberto/polymarket-arbitrage-bot](https://github.com/0xalberto/polymarket-arbitrage-bot)** ⭐ 9
+- **[ZeroLu/awesome-gemini-ai](https://github.com/ZeroLu/awesome-gemini-ai)** ⭐ 17
+  ![None](https://img.shields.io/badge/-None-lightgrey)
+  The ultimate collection of Awesome Gemini Prompts, use cases, and examples. Curated from X (Twitter), Reddit, and top prompt engineers. Includes prompts for coding, agents, design, and productivity using Google Gemini 1.5 Pro and Ultra.
+
+- **[miiot/micam](https://github.com/miiot/micam)** ⭐ 16
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  RTSP bridge for Xiaomi Camera
+
+- **[Ltamann/ComfyUI-TBG-SAM3](https://github.com/Ltamann/ComfyUI-TBG-SAM3)** ⭐ 14
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  ComfyUI-TBG-SAM3 A plug-and-play ComfyUI extension providing production-ready nodes for Meta’s SAM3 (Segment Anything Model 3) for text- or point-based segmentation, exhaustive mask generation, and per-segment or global depth mapping. All outputs are compatible with advanced segmentation packs such as Impact Pack SEGS. Designed and tested for full 
+
+- **[0xalberto/polymarket-arbitrage-bot](https://github.com/0xalberto/polymarket-arbitrage-bot)** ⭐ 12
   ![Python](https://img.shields.io/badge/-Python-blue)
   Search Polymarket arbitrage opportunities in both single-market and multi-market events. Polymarket Arbitrage
 
-- **[dev1lucas/Magnus-Bot](https://github.com/dev1lucas/Magnus-Bot)** ⭐ 4
-  ![C#](https://img.shields.io/badge/-C#-lightgrey)
-  None
-
-- **[OpenCausaLab/DEPO](https://github.com/OpenCausaLab/DEPO)** ⭐ 4
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  [AAAI 2026] Code and Data for Paper "DEPO: Dual-Efficiency Preference Optimization for LLM Agents"
-
-- **[Z-Teddy/Screen2PDF](https://github.com/Z-Teddy/Screen2PDF)** ⭐ 4
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  A Python tool to capture screenshots of online documents and convert them to PDF.  支持飞书pdf导出
-
-- **[WZH0120/SAM3-UNet](https://github.com/WZH0120/SAM3-UNet)** ⭐ 4
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  None
-
-- **[vijayanandg/quantum4j](https://github.com/vijayanandg/quantum4j)** ⭐ 3
-  ![Java](https://img.shields.io/badge/-Java-orange)
-  Quantum4J is a pure-Java quantum computing framework designed to bring quantum programming to the JVM ecosystem. It provides a clean, intuitive API similar to Qiskit, a fast state-vector simulator, a QASM exporter, and a growing set of standard quantum gates.
-
-- **[samitnahdarp/Demo](https://github.com/samitnahdarp/Demo)** ⭐ 2
+- **[TurnerEliz3213/GamePerformancePro](https://github.com/TurnerEliz3213/GamePerformancePro)** ⭐ 10
   ![None](https://img.shields.io/badge/-None-lightgrey)
-  This is a a demo repo
+  None
+
+- **[PittmanAndrea/FortniteGameOptimizer-v3.1](https://github.com/PittmanAndrea/FortniteGameOptimizer-v3.1)** ⭐ 12
+  ![None](https://img.shields.io/badge/-None-lightgrey)
+  None
+
+- **[T0uillette/rn1pb](https://github.com/T0uillette/rn1pb)** ⭐ 10
+  ![None](https://img.shields.io/badge/-None-lightgrey)
+    Projet collaboratif permettant de recenser les abus du RN 
 
 ### 📈 Weekly Trending
 
-- **[straight-tamago/misaka26](https://github.com/straight-tamago/misaka26)** ⭐ 1,901
+- **[straight-tamago/misaka26](https://github.com/straight-tamago/misaka26)** ⭐ 1,962
   ![None](https://img.shields.io/badge/-None-lightgrey)
   iOS /iPadOS 16.0 - 26.1, An ultimate customization tool, uilitizing the bug that makes TrollRestore possible. 
 
-- **[karpathy/reader3](https://github.com/karpathy/reader3)** ⭐ 1,477
+- **[karpathy/reader3](https://github.com/karpathy/reader3)** ⭐ 1,552
   ![Python](https://img.shields.io/badge/-Python-blue)
   Quick illustration of how one can easily read books together with LLMs. It's great and I highly recommend it.
 
-- **[K-Dense-AI/karpathy](https://github.com/K-Dense-AI/karpathy)** ⭐ 612
+- **[K-Dense-AI/karpathy](https://github.com/K-Dense-AI/karpathy)** ⭐ 627
   ![Python](https://img.shields.io/badge/-Python-blue)
   An agentic Machine Learning Engineer
 
-- **[AnandChowdhary/continuous-claude](https://github.com/AnandChowdhary/continuous-claude)** ⭐ 475
+- **[AnandChowdhary/continuous-claude](https://github.com/AnandChowdhary/continuous-claude)** ⭐ 483
   ![Shell](https://img.shields.io/badge/-Shell-lightgrey)
   🔂 Run Claude Code in a continuous loop, autonomously creating PRs, waiting for checks, and merging
 
-- **[buyukakyuz/install-nothing](https://github.com/buyukakyuz/install-nothing)** ⭐ 432
+- **[buyukakyuz/install-nothing](https://github.com/buyukakyuz/install-nothing)** ⭐ 446
   ![Rust](https://img.shields.io/badge/-Rust-brown)
   A terminal application that simulates installing things but doesn't actually install anything
 
-- **[medusalix/FreeMDU](https://github.com/medusalix/FreeMDU)** ⭐ 397
+- **[medusalix/FreeMDU](https://github.com/medusalix/FreeMDU)** ⭐ 402
   ![Rust](https://img.shields.io/badge/-Rust-brown)
   Open hardware and software tools for communicating with Miele appliances via their optical diagnostic interface
 
-- **[Norsico/Video-Materials-AutoGEN-Workstation](https://github.com/Norsico/Video-Materials-AutoGEN-Workstation)** ⭐ 293
+- **[Norsico/Video-Materials-AutoGEN-Workstation](https://github.com/Norsico/Video-Materials-AutoGEN-Workstation)** ⭐ 311
   ![Python](https://img.shields.io/badge/-Python-blue)
   一个集内容策划、AI文案自动生成、TTS 批量自动配音、(AI)图片素材合成、ASR自动提取语言字幕脚本、AI自由创作于一体的(短视频)生成工作站。方便管理每期的视频项目。
 
-- **[Mic92/strace-macos](https://github.com/Mic92/strace-macos)** ⭐ 287
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  A clone of the strace command for macOS
+- **[supertone-inc/supertonic](https://github.com/supertone-inc/supertonic)** ⭐ 297
+  ![Swift](https://img.shields.io/badge/-Swift-lightgrey)
+  Lightning-fast, on-device TTS — running natively via ONNX.
 
 ### 📈 Monthly Trending
 
-- **[toon-format/toon](https://github.com/toon-format/toon)** ⭐ 18,465
+- **[toon-format/toon](https://github.com/toon-format/toon)** ⭐ 18,544
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   🎒 Token-Oriented Object Notation (TOON) – Compact, human-readable, schema-aware JSON for LLM prompts. Spec, benchmarks, TypeScript SDK.
 
-- **[Snapchat/Valdi](https://github.com/Snapchat/Valdi)** ⭐ 11,464
+- **[Snapchat/Valdi](https://github.com/Snapchat/Valdi)** ⭐ 11,615
   ![C++](https://img.shields.io/badge/-C++-pink)
   Valdi is a cross-platform UI framework that delivers native performance without sacrificing developer velocity.
 
-- **[HKUDS/AI-Trader](https://github.com/HKUDS/AI-Trader)** ⭐ 9,513
+- **[HKUDS/AI-Trader](https://github.com/HKUDS/AI-Trader)** ⭐ 9,525
   ![Python](https://img.shields.io/badge/-Python-blue)
   "AI-Trader: Can AI Beat the Market?" Live Trading Bench: https://ai4trade.ai
 
-- **[NoFxAiOS/nofx](https://github.com/NoFxAiOS/nofx)** ⭐ 7,842
+- **[NoFxAiOS/nofx](https://github.com/NoFxAiOS/nofx)** ⭐ 7,868
   ![Go](https://img.shields.io/badge/-Go-cyan)
   NOFX: Defining the Next-Generation AI Trading Operating System. A multi-exchange Al trading platform(Binance/Hyperliquid/Aster) with multi-Ai competition(deepseek/qwen/claude)self-evolution, and real-time dashboard
 
-- **[diet103/claude-code-infrastructure-showcase](https://github.com/diet103/claude-code-infrastructure-showcase)** ⭐ 6,868
+- **[diet103/claude-code-infrastructure-showcase](https://github.com/diet103/claude-code-infrastructure-showcase)** ⭐ 6,878
   ![Shell](https://img.shields.io/badge/-Shell-lightgrey)
   Examples of my Claude Code infrastructure with skill auto-activation, hooks, and agents
 
-- **[francescopace/espectre](https://github.com/francescopace/espectre)** ⭐ 3,068
+- **[francescopace/espectre](https://github.com/francescopace/espectre)** ⭐ 3,092
   ![C](https://img.shields.io/badge/-C-lightgrey)
   🛜 ESPectre 👻  - Motion detection system based on Wi-Fi spectre analysis (CSI), with Home Assistant integration.
 
-- **[wquguru/nof0](https://github.com/wquguru/nof0)** ⭐ 2,721
+- **[wquguru/nof0](https://github.com/wquguru/nof0)** ⭐ 2,722
   ![Go](https://img.shields.io/badge/-Go-cyan)
   NOF0 - 开源的 AI 交易竞技场
 
-- **[borndotcom/react-native-godot](https://github.com/borndotcom/react-native-godot)** ⭐ 2,408
+- **[borndotcom/react-native-godot](https://github.com/borndotcom/react-native-godot)** ⭐ 2,414
   ![C++](https://img.shields.io/badge/-C++-pink)
   React Native Godot - Embed Godot Engine in React Native apps
 
@@ -482,58 +487,58 @@ for a semver-minor rele...
 
 | Skill | Status |
 |-------|--------|
-| Java | 🔴 Beginner |
+| Java | 🟡 Learning |
 | Python | 🔴 Beginner |
-| JavaScript | 🟢 Proficient |
-| TypeScript | 🟡 Learning |
-| Go | ⚪ Planned |
+| JavaScript | 🟡 Learning |
+| TypeScript | 🔴 Beginner |
+| Go | 🟡 Learning |
 
 ### Frameworks
 
 | Skill | Status |
 |-------|--------|
-| React | 🟡 Learning |
-| Spring Boot | 🟡 Learning |
-| Django | 🟢 Proficient |
+| React | 🔴 Beginner |
+| Spring Boot | ⚪ Planned |
+| Django | 🔴 Beginner |
 | Node.js | 🟡 Learning |
-| Next.js | 🟢 Proficient |
+| Next.js | 🟡 Learning |
 
 ### Cybersecurity
 
 | Skill | Status |
 |-------|--------|
-| Penetration Testing | 🔴 Beginner |
-| Web Security | ⚪ Planned |
-| Network Security | ⚪ Planned |
-| OWASP | 🟢 Proficient |
+| Penetration Testing | ⚪ Planned |
+| Web Security | 🔴 Beginner |
+| Network Security | 🟢 Proficient |
+| OWASP | ⚪ Planned |
 
 ### Ai Ml
 
 | Skill | Status |
 |-------|--------|
-| Machine Learning | 🟡 Learning |
+| Machine Learning | ⚪ Planned |
 | Deep Learning | 🔴 Beginner |
-| NLP | 🟡 Learning |
-| Computer Vision | 🔴 Beginner |
-| TensorFlow | 🟡 Learning |
-| PyTorch | 🟢 Proficient |
+| NLP | 🟢 Proficient |
+| Computer Vision | 🟢 Proficient |
+| TensorFlow | 🔴 Beginner |
+| PyTorch | 🔴 Beginner |
 
 ### Devops
 
 | Skill | Status |
 |-------|--------|
-| Docker | 🔴 Beginner |
-| Kubernetes | ⚪ Planned |
-| CI/CD | 🟢 Proficient |
-| AWS | 🟡 Learning |
-| Azure | 🔴 Beginner |
+| Docker | 🟡 Learning |
+| Kubernetes | 🟡 Learning |
+| CI/CD | 🟡 Learning |
+| AWS | 🔴 Beginner |
+| Azure | 🟢 Proficient |
 
 ### Other
 
 | Skill | Status |
 |-------|--------|
 | Blockchain | 🟢 Proficient |
-| Web3 | ⚪ Planned |
+| Web3 | 🟡 Learning |
 | Cloud Computing | 🔴 Beginner |
 
 </details>
