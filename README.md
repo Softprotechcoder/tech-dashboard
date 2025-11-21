@@ -46,36 +46,38 @@
 
 ### 📑 Hacker News
 
-- **[Measuring Latency (2015)](https://bravenewgeek.com/everything-you-know-about-latency-is-wrong/)**
-  *<p><a href="https://archive.md/D8E5W" rel="nofollow">https://archive.md/D8E5W</a></p>
-<hr />
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46000303">https://news.ycombinator.com/item?...*
-  📅 Fri, 21 Nov 2025 01:50:24 +0000
+- **[Roundtable (YC S23) Is Hiring Two Sales Development Representatives (SDRs)](https://www.ycombinator.com/companies/roundtable/jobs/irJTEsg-sales-development-representative)**
+  *<p>Article URL: <a href="https://www.ycombinator.com/companies/roundtable/jobs/irJTEsg-sales-development-representative">https://www.ycombinator.com/companies/roundtable/jobs/irJTEsg-sales-development...*
+  📅 Fri, 21 Nov 2025 12:00:02 +0000
 
-- **[Why top firms fire good workers](https://www.rochester.edu/newscenter/employee-turnover-why-top-firms-churn-good-workers-681832/)**
-  *<p>Article URL: <a href="https://www.rochester.edu/newscenter/employee-turnover-why-top-firms-churn-good-workers-681832/">https://www.rochester.edu/newscenter/employee-turnover-why-top-firms-churn-goo...*
-  📅 Fri, 21 Nov 2025 00:36:01 +0000
+- **[FAWK: LLMs can write a language interpreter](https://martin.janiczek.cz/2025/11/21/fawk-llms-can-write-a-language-interpreter.html)**
+  *<p>Article URL: <a href="https://martin.janiczek.cz/2025/11/21/fawk-llms-can-write-a-language-interpreter.html">https://martin.janiczek.cz/2025/11/21/fawk-llms-can-write-a-language-interpreter.html</a...*
+  📅 Fri, 21 Nov 2025 10:28:49 +0000
 
-- **[Over-regulation is doubling the cost](https://rein.pk/over-regulation-is-doubling-the-cost)**
-  *<p>Article URL: <a href="https://rein.pk/over-regulation-is-doubling-the-cost">https://rein.pk/over-regulation-is-doubling-the-cost</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?...*
-  📅 Thu, 20 Nov 2025 22:58:06 +0000
+- **[HP and Dell disable HEVC support built into their laptops' CPUs](https://arstechnica.com/gadgets/2025/11/hp-and-dell-disable-hevc-support-built-into-their-laptops-cpus/)**
+  *<p>Article URL: <a href="https://arstechnica.com/gadgets/2025/11/hp-and-dell-disable-hevc-support-built-into-their-laptops-cpus/">https://arstechnica.com/gadgets/2025/11/hp-and-dell-disable-hevc-suppo...*
+  📅 Fri, 21 Nov 2025 10:01:37 +0000
 
-- **[GitHut – Programming Languages and GitHub (2014)](https://githut.info/)**
-  *<p>Article URL: <a href="https://githut.info/">https://githut.info/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=45998047">https://news.ycombinator.com/item?id=45998047</a></...*
-  📅 Thu, 20 Nov 2025 21:33:37 +0000
+- **[It's Hard to Build an Oscillator](https://lcamtuf.substack.com/p/its-hard-to-build-an-oscillator)**
+  *<p>Article URL: <a href="https://lcamtuf.substack.com/p/its-hard-to-build-an-oscillator">https://lcamtuf.substack.com/p/its-hard-to-build-an-oscillator</a></p>
+<p>Comments URL: <a href="https://news.y...*
+  📅 Fri, 21 Nov 2025 07:45:53 +0000
 
-- **[New Glenn Update](https://www.blueorigin.com/news/new-glenn-upgraded-engines-subcooled-components-drive-enhanced-performance)**
-  *<p>Article URL: <a href="https://www.blueorigin.com/news/new-glenn-upgraded-engines-subcooled-components-drive-enhanced-performance">https://www.blueorigin.com/news/new-glenn-upgraded-engines-subcoole...*
-  📅 Thu, 20 Nov 2025 21:21:08 +0000
+- **[The Qtile Window Manager: A Python-Powered Tiling Experience](https://tech.stonecharioteer.com/posts/2025/qtile-window-manager/)**
+  *<p>Article URL: <a href="https://tech.stonecharioteer.com/posts/2025/qtile-window-manager/">https://tech.stonecharioteer.com/posts/2025/qtile-window-manager/</a></p>
+<p>Comments URL: <a href="https://...*
+  📅 Fri, 21 Nov 2025 07:41:15 +0000
 
-- **[New OS aims to provide (some) compatibility with macOS](https://github.com/ravynsoft/ravynos)**
-  *<p>Article URL: <a href="https://github.com/ravynsoft/ravynos">https://github.com/ravynsoft/ravynos</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=45997212">https://news.ycombi...*
-  📅 Thu, 20 Nov 2025 20:24:42 +0000
+- **[Olmo 3: Charting a path through the model flow to lead open-source AI](https://allenai.org/blog/olmo3)**
+  *<p>Article URL: <a href="https://allenai.org/blog/olmo3">https://allenai.org/blog/olmo3</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46001889">https://news.ycombinator.com/it...*
+  📅 Fri, 21 Nov 2025 06:50:14 +0000
 
 ### 📑 TechCrunch
+
+- **[The European startup market is ready for the limelight](https://techcrunch.com/2025/11/21/the-european-startup-market-is-ready-for-the-limelight/)**
+  *The region's startup market is hungry for its first trillion-dollar startup, and in many ways has set itself up to reach that goal....*
+  📅 Fri, 21 Nov 2025 11:39:43 +0000
 
 - **[Grok says Elon Musk is better than basically everyone, except Shohei Ohtani](https://techcrunch.com/2025/11/20/grok-says-elon-musk-is-better-than-basically-everyone-except-shohei-ohtani/)**
   *According to Grok, Elon Musk can out-slug the MLB's greatest power hitters... except Ohtani....*
@@ -97,21 +99,22 @@
   *The quickly growing prediction betting market raised fresh capital from Sequoia and CapitalG, according to someone familiar with the deal....*
   📅 Thu, 20 Nov 2025 20:26:03 +0000
 
-- **[Salesforce says some of its customers’ data was accessed after Gainsight breach](https://techcrunch.com/2025/11/20/salesforce-says-some-of-its-customers-data-was-accessed-after-gainsight-breach/)**
-  *Salesforce said it’s investigating an incident where hackers compromised some of its customers' data after breaching customer experience company Gainsight....*
-  📅 Thu, 20 Nov 2025 19:12:56 +0000
-
 ### 📑 Dev.to
 
-- **[SIMA 2: Gemini-Powered Agent That Nearly Doubles Task Success](https://dev.to/aiwithapex/sima-2-gemini-powered-agent-that-nearly-doubles-task-success-43lc)**
-  *<p>Everyone's talking about SIMA 2, DeepMind's Gemini-powered game agent, but the real opportunity is how it will change testing, training, and UX.<br />
-Game AI is no longer a party trick.<br />
-It i...*
-  📅 Fri, 21 Nov 2025 06:05:11 +0000
+- **[Molecule Visualiser!](https://dev.to/dev_ops_python/molecule-visualiser-508i)**
+  *<p>This is a molecule visualiser app built with Streamlit and RDKit. this app has feature that allows you to visualise atoms and molecules in 2D and 3D .</p>
 
-- **[Ringer Movies: ‘Weird Science’ With Bill Simmons and Kyle Brandt | Ringer Movies](https://dev.to/popcorn_movies/ringer-movies-weird-science-with-bill-simmons-and-kyle-brandt-ringer-movies-1khd)**
-  *<p><strong>Weird Science</strong> gets the Rewatchables treatment as Bill Simmons and Kyle Brandt dive into John Hughes’s 1985 cult classic starring Anthony Michael Hall, Kelly LeBrock, and Ilan Mitch...*
-  📅 Fri, 21 Nov 2025 06:03:17 +0000
+<p>Features:</p>
+
+<ul>
+<li>Visualise mole...*
+  📅 Fri, 21 Nov 2025 12:08:12 +0000
+
+- **[Building for the Future: Why Cloud Native App Development Is Transforming Modern Businesses](https://dev.to/khushi_jitani_ca127abdedd/building-for-the-future-why-cloud-native-app-development-is-transforming-modern-businesses-2dp8)**
+  *<p><strong>A New Era of Applications Begins</strong></p>
+
+<p>Technology is evolving faster than ever, and businesses are under constant pressure to deliver seamless, scalable, and high-performing digi...*
+  📅 Fri, 21 Nov 2025 12:07:29 +0000
 
 </details>
 
@@ -119,103 +122,103 @@ It i...*
 
 ### 📈 Daily Trending
 
-- **[stiven-izgorsek/email-leads-manager-server](https://github.com/stiven-izgorsek/email-leads-manager-server)** ⭐ 12
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
-  This is Express.js + TypeORM boilerplate which I like to use
+- **[josy-cruz/bash-dto](https://github.com/josy-cruz/bash-dto)** ⭐ 57
+  ![Shell](https://img.shields.io/badge/-Shell-lightgrey)
+  Bash hello world example. Docs could be enhanced for better presentation.
 
-- **[mit-han-lab/fastrl](https://github.com/mit-han-lab/fastrl)** ⭐ 11
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  Efficient Reinforcement Learning for Language Models
+- **[josy-cruz/php-mvc](https://github.com/josy-cruz/php-mvc)** ⭐ 57
+  ![PHP](https://img.shields.io/badge/-PHP-lightgrey)
+  PHP hello world example. Docs could be enhanced for better presentation.
 
-- **[kamattuntun25/KMS-ACT1VAT0R](https://github.com/kamattuntun25/KMS-ACT1VAT0R)** ⭐ 9
-  ![None](https://img.shields.io/badge/-None-lightgrey)
-  None
+- **[josy-cruz/lua-cgq](https://github.com/josy-cruz/lua-cgq)** ⭐ 57
+  ![Lua](https://img.shields.io/badge/-Lua-lightgrey)
+  Lua hello world example. Docs could be enhanced for better presentation.
 
-- **[zhaotututu/CodeArk](https://github.com/zhaotututu/CodeArk)** ⭐ 8
-  ![Vue](https://img.shields.io/badge/-Vue-lightgrey)
-  全自动 Git + GitHub 托管系统 | 版本控制 + 云端备份一体化解决方案
+- **[josy-cruz/kotlin-ajr](https://github.com/josy-cruz/kotlin-ajr)** ⭐ 57
+  ![Kotlin](https://img.shields.io/badge/-Kotlin-lightgrey)
+  Kotlin hello world example. Docs could be enhanced for better presentation.
 
-- **[tyler8743/USDT-FLASH](https://github.com/tyler8743/USDT-FLASH)** ⭐ 7
-  ![HTML](https://img.shields.io/badge/-HTML-lightgrey)
-  Flash-USDT-Trc20-Erc20-Bep20-BTC-Available
+- **[josy-cruz/scala-io2](https://github.com/josy-cruz/scala-io2)** ⭐ 57
+  ![Scala](https://img.shields.io/badge/-Scala-lightgrey)
+  Scala hello world example. Docs could be enhanced for better presentation.
 
-- **[vanshu3/redesigned-doodle](https://github.com/vanshu3/redesigned-doodle)** ⭐ 6
-  ![None](https://img.shields.io/badge/-None-lightgrey)
-  None
+- **[josy-cruz/rust-tv1](https://github.com/josy-cruz/rust-tv1)** ⭐ 57
+  ![Rust](https://img.shields.io/badge/-Rust-brown)
+  Rust hello world example. Docs could be enhanced for better presentation.
 
-- **[bwwq/fate-roulette](https://github.com/bwwq/fate-roulette)** ⭐ 5
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  类恶魔轮盘在线/单机卡牌对战游戏
+- **[josy-cruz/typescript-kyn](https://github.com/josy-cruz/typescript-kyn)** ⭐ 57
+  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
+  TypeScript hello world example. Docs could be enhanced for better presentation.
 
-- **[jellychen/Make3D-Web](https://github.com/jellychen/Make3D-Web)** ⭐ 5
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
-  None
+- **[josy-cruz/php-hvf](https://github.com/josy-cruz/php-hvf)** ⭐ 57
+  ![PHP](https://img.shields.io/badge/-PHP-lightgrey)
+  PHP hello world example. Docs could be enhanced for better presentation.
 
 ### 📈 Weekly Trending
 
-- **[straight-tamago/misaka26](https://github.com/straight-tamago/misaka26)** ⭐ 2,064
+- **[straight-tamago/misaka26](https://github.com/straight-tamago/misaka26)** ⭐ 2,102
   ![None](https://img.shields.io/badge/-None-lightgrey)
   iOS /iPadOS 16.0 - 26.1, An ultimate customization tool, uilitizing the bug that makes TrollRestore possible. 
 
-- **[karpathy/reader3](https://github.com/karpathy/reader3)** ⭐ 1,661
+- **[karpathy/reader3](https://github.com/karpathy/reader3)** ⭐ 1,690
   ![Python](https://img.shields.io/badge/-Python-blue)
   Quick illustration of how one can easily read books together with LLMs. It's great and I highly recommend it.
 
-- **[K-Dense-AI/karpathy](https://github.com/K-Dense-AI/karpathy)** ⭐ 748
+- **[K-Dense-AI/karpathy](https://github.com/K-Dense-AI/karpathy)** ⭐ 787
   ![Python](https://img.shields.io/badge/-Python-blue)
   An agentic Machine Learning Engineer
 
-- **[AnandChowdhary/continuous-claude](https://github.com/AnandChowdhary/continuous-claude)** ⭐ 527
+- **[AnandChowdhary/continuous-claude](https://github.com/AnandChowdhary/continuous-claude)** ⭐ 542
   ![Shell](https://img.shields.io/badge/-Shell-lightgrey)
   🔂 Run Claude Code in a continuous loop, autonomously creating PRs, waiting for checks, and merging
 
-- **[buyukakyuz/install-nothing](https://github.com/buyukakyuz/install-nothing)** ⭐ 471
-  ![Rust](https://img.shields.io/badge/-Rust-brown)
-  A terminal application that simulates installing things but doesn't actually install anything
-
-- **[supertone-inc/supertonic](https://github.com/supertone-inc/supertonic)** ⭐ 460
+- **[supertone-inc/supertonic](https://github.com/supertone-inc/supertonic)** ⭐ 498
   ![Swift](https://img.shields.io/badge/-Swift-lightgrey)
   Lightning-fast, on-device TTS — running natively via ONNX.
 
-- **[medusalix/FreeMDU](https://github.com/medusalix/FreeMDU)** ⭐ 418
+- **[buyukakyuz/install-nothing](https://github.com/buyukakyuz/install-nothing)** ⭐ 480
+  ![Rust](https://img.shields.io/badge/-Rust-brown)
+  A terminal application that simulates installing things but doesn't actually install anything
+
+- **[medusalix/FreeMDU](https://github.com/medusalix/FreeMDU)** ⭐ 417
   ![Rust](https://img.shields.io/badge/-Rust-brown)
   Open hardware and software tools for communicating with Miele appliances via their optical diagnostic interface
 
-- **[Norsico/Video-Materials-AutoGEN-Workstation](https://github.com/Norsico/Video-Materials-AutoGEN-Workstation)** ⭐ 350
+- **[Norsico/Video-Materials-AutoGEN-Workstation](https://github.com/Norsico/Video-Materials-AutoGEN-Workstation)** ⭐ 363
   ![Python](https://img.shields.io/badge/-Python-blue)
   一个集内容策划、AI文案自动生成、TTS 批量自动配音、(AI)图片素材合成、ASR自动提取语言字幕脚本、AI自由创作于一体的(短视频)生成工作站。方便管理每期的视频项目。
 
 ### 📈 Monthly Trending
 
-- **[Snapchat/Valdi](https://github.com/Snapchat/Valdi)** ⭐ 11,861
+- **[Snapchat/Valdi](https://github.com/Snapchat/Valdi)** ⭐ 11,985
   ![C++](https://img.shields.io/badge/-C++-pink)
   Valdi is a cross-platform UI framework that delivers native performance without sacrificing developer velocity.
 
-- **[HKUDS/AI-Trader](https://github.com/HKUDS/AI-Trader)** ⭐ 9,545
+- **[HKUDS/AI-Trader](https://github.com/HKUDS/AI-Trader)** ⭐ 9,554
   ![Python](https://img.shields.io/badge/-Python-blue)
   "AI-Trader: Can AI Beat the Market?" Live Trading Bench: https://ai4trade.ai
 
-- **[NoFxAiOS/nofx](https://github.com/NoFxAiOS/nofx)** ⭐ 7,898
+- **[NoFxAiOS/nofx](https://github.com/NoFxAiOS/nofx)** ⭐ 7,917
   ![Go](https://img.shields.io/badge/-Go-cyan)
   NOFX: Defining the Next-Generation AI Trading Operating System. A multi-exchange Al trading platform(Binance/Hyperliquid/Aster) with multi-Ai competition(deepseek/qwen/claude)self-evolution, and real-time dashboard
 
-- **[diet103/claude-code-infrastructure-showcase](https://github.com/diet103/claude-code-infrastructure-showcase)** ⭐ 6,907
+- **[diet103/claude-code-infrastructure-showcase](https://github.com/diet103/claude-code-infrastructure-showcase)** ⭐ 6,915
   ![Shell](https://img.shields.io/badge/-Shell-lightgrey)
   Examples of my Claude Code infrastructure with skill auto-activation, hooks, and agents
 
-- **[francescopace/espectre](https://github.com/francescopace/espectre)** ⭐ 3,142
+- **[francescopace/espectre](https://github.com/francescopace/espectre)** ⭐ 3,154
   ![C](https://img.shields.io/badge/-C-lightgrey)
   🛜 ESPectre 👻  - Motion detection system based on Wi-Fi spectre analysis (CSI), with Home Assistant integration.
 
-- **[ByteDance-Seed/Depth-Anything-3](https://github.com/ByteDance-Seed/Depth-Anything-3)** ⭐ 2,452
+- **[ByteDance-Seed/Depth-Anything-3](https://github.com/ByteDance-Seed/Depth-Anything-3)** ⭐ 2,485
   ![Jupyter Notebook](https://img.shields.io/badge/-Jupyter Notebook-lightgrey)
   Depth Anything 3
 
-- **[borndotcom/react-native-godot](https://github.com/borndotcom/react-native-godot)** ⭐ 2,416
+- **[borndotcom/react-native-godot](https://github.com/borndotcom/react-native-godot)** ⭐ 2,418
   ![C++](https://img.shields.io/badge/-C++-pink)
   React Native Godot - Embed Godot Engine in React Native apps
 
-- **[facebookresearch/omnilingual-asr](https://github.com/facebookresearch/omnilingual-asr)** ⭐ 2,129
+- **[facebookresearch/omnilingual-asr](https://github.com/facebookresearch/omnilingual-asr)** ⭐ 2,139
   ![Python](https://img.shields.io/badge/-Python-blue)
   Omnilingual ASR Open-Source Multilingual SpeechRecognition for 1600+ Languages
 
@@ -482,59 +485,59 @@ for a semver-minor rele...
 
 | Skill | Status |
 |-------|--------|
-| Java | 🔴 Beginner |
-| Python | 🔴 Beginner |
+| Java | 🟢 Proficient |
+| Python | ⚪ Planned |
 | JavaScript | 🟡 Learning |
-| TypeScript | ⚪ Planned |
-| Go | 🔴 Beginner |
+| TypeScript | 🔴 Beginner |
+| Go | 🟢 Proficient |
 
 ### Frameworks
 
 | Skill | Status |
 |-------|--------|
-| React | 🟡 Learning |
+| React | ⚪ Planned |
 | Spring Boot | 🟡 Learning |
-| Django | 🟡 Learning |
-| Node.js | ⚪ Planned |
+| Django | ⚪ Planned |
+| Node.js | 🟢 Proficient |
 | Next.js | ⚪ Planned |
 
 ### Cybersecurity
 
 | Skill | Status |
 |-------|--------|
-| Penetration Testing | 🟢 Proficient |
-| Web Security | 🔴 Beginner |
-| Network Security | 🟢 Proficient |
-| OWASP | 🟡 Learning |
+| Penetration Testing | 🟡 Learning |
+| Web Security | 🟢 Proficient |
+| Network Security | ⚪ Planned |
+| OWASP | ⚪ Planned |
 
 ### Ai Ml
 
 | Skill | Status |
 |-------|--------|
-| Machine Learning | 🟢 Proficient |
-| Deep Learning | ⚪ Planned |
-| NLP | 🟡 Learning |
+| Machine Learning | 🟡 Learning |
+| Deep Learning | 🟡 Learning |
+| NLP | 🔴 Beginner |
 | Computer Vision | 🟢 Proficient |
-| TensorFlow | 🟢 Proficient |
-| PyTorch | 🟡 Learning |
+| TensorFlow | 🔴 Beginner |
+| PyTorch | 🔴 Beginner |
 
 ### Devops
 
 | Skill | Status |
 |-------|--------|
-| Docker | 🟡 Learning |
-| Kubernetes | ⚪ Planned |
-| CI/CD | 🟢 Proficient |
+| Docker | 🔴 Beginner |
+| Kubernetes | 🔴 Beginner |
+| CI/CD | ⚪ Planned |
 | AWS | 🔴 Beginner |
-| Azure | 🟡 Learning |
+| Azure | 🟢 Proficient |
 
 ### Other
 
 | Skill | Status |
 |-------|--------|
-| Blockchain | 🟡 Learning |
-| Web3 | 🟡 Learning |
-| Cloud Computing | 🔴 Beginner |
+| Blockchain | 🟢 Proficient |
+| Web3 | 🔴 Beginner |
+| Cloud Computing | ⚪ Planned |
 
 </details>
 
