@@ -46,85 +46,74 @@
 
 ### 📑 Hacker News
 
-- **[Roundtable (YC S23) Is Hiring Two Sales Development Representatives (SDRs)](https://www.ycombinator.com/companies/roundtable/jobs/irJTEsg-sales-development-representative)**
-  *<p>Article URL: <a href="https://www.ycombinator.com/companies/roundtable/jobs/irJTEsg-sales-development-representative">https://www.ycombinator.com/companies/roundtable/jobs/irJTEsg-sales-development...*
-  📅 Fri, 21 Nov 2025 12:00:02 +0000
+- **[McDonald's is losing its low-income customers: a symptom of the wealth divide](https://www.latimes.com/business/story/2025-11-16/mcdonalds-is-losing-its-low-income-customers)**
+  *<p>Article URL: <a href="https://www.latimes.com/business/story/2025-11-16/mcdonalds-is-losing-its-low-income-customers">https://www.latimes.com/business/story/2025-11-16/mcdonalds-is-losing-its-low-i...*
+  📅 Fri, 21 Nov 2025 17:52:37 +0000
 
-- **[FAWK: LLMs can write a language interpreter](https://martin.janiczek.cz/2025/11/21/fawk-llms-can-write-a-language-interpreter.html)**
-  *<p>Article URL: <a href="https://martin.janiczek.cz/2025/11/21/fawk-llms-can-write-a-language-interpreter.html">https://martin.janiczek.cz/2025/11/21/fawk-llms-can-write-a-language-interpreter.html</a...*
-  📅 Fri, 21 Nov 2025 10:28:49 +0000
+- **[UK bar bans solo-drinkers to 'protect customers'](https://www.bbc.com/news/articles/cnve4eypg8zo)**
+  *<p>Article URL: <a href="https://www.bbc.com/news/articles/cnve4eypg8zo">https://www.bbc.com/news/articles/cnve4eypg8zo</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46006756"...*
+  📅 Fri, 21 Nov 2025 17:44:42 +0000
 
-- **[HP and Dell disable HEVC support built into their laptops' CPUs](https://arstechnica.com/gadgets/2025/11/hp-and-dell-disable-hevc-support-built-into-their-laptops-cpus/)**
-  *<p>Article URL: <a href="https://arstechnica.com/gadgets/2025/11/hp-and-dell-disable-hevc-support-built-into-their-laptops-cpus/">https://arstechnica.com/gadgets/2025/11/hp-and-dell-disable-hevc-suppo...*
-  📅 Fri, 21 Nov 2025 10:01:37 +0000
+- **[How Cops Are Using Flock's ALPR Network to Surveil Protesters and Activists](https://www.eff.org/deeplinks/2025/11/how-cops-are-using-flock-safetys-alpr-network-surveil-protesters-and-activists)**
+  *<p>Article URL: <a href="https://www.eff.org/deeplinks/2025/11/how-cops-are-using-flock-safetys-alpr-network-surveil-protesters-and-activists">https://www.eff.org/deeplinks/2025/11/how-cops-are-using-...*
+  📅 Fri, 21 Nov 2025 17:20:51 +0000
 
-- **[It's Hard to Build an Oscillator](https://lcamtuf.substack.com/p/its-hard-to-build-an-oscillator)**
-  *<p>Article URL: <a href="https://lcamtuf.substack.com/p/its-hard-to-build-an-oscillator">https://lcamtuf.substack.com/p/its-hard-to-build-an-oscillator</a></p>
+- **[Pivot Robotics (YC W24) Is Hiring for an Industrial Automation Hardware Engineer](https://www.ycombinator.com/companies/pivot-robotics/jobs/7xG9Dc6-mechanical-engineer-controls)**
+  *<p>Article URL: <a href="https://www.ycombinator.com/companies/pivot-robotics/jobs/7xG9Dc6-mechanical-engineer-controls">https://www.ycombinator.com/companies/pivot-robotics/jobs/7xG9Dc6-mechanical-en...*
+  📅 Fri, 21 Nov 2025 17:00:00 +0000
+
+- **[Private Equity's New Venture: Youth Sports](https://jacobin.com/2025/11/youth-sports-hockey-private-equity)**
+  *<p>Article URL: <a href="https://jacobin.com/2025/11/youth-sports-hockey-private-equity">https://jacobin.com/2025/11/youth-sports-hockey-private-equity</a></p>
 <p>Comments URL: <a href="https://news.y...*
-  📅 Fri, 21 Nov 2025 07:45:53 +0000
+  📅 Fri, 21 Nov 2025 16:52:48 +0000
 
-- **[The Qtile Window Manager: A Python-Powered Tiling Experience](https://tech.stonecharioteer.com/posts/2025/qtile-window-manager/)**
-  *<p>Article URL: <a href="https://tech.stonecharioteer.com/posts/2025/qtile-window-manager/">https://tech.stonecharioteer.com/posts/2025/qtile-window-manager/</a></p>
-<p>Comments URL: <a href="https://...*
-  📅 Fri, 21 Nov 2025 07:41:15 +0000
-
-- **[Olmo 3: Charting a path through the model flow to lead open-source AI](https://allenai.org/blog/olmo3)**
-  *<p>Article URL: <a href="https://allenai.org/blog/olmo3">https://allenai.org/blog/olmo3</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46001889">https://news.ycombinator.com/it...*
-  📅 Fri, 21 Nov 2025 06:50:14 +0000
+- **[You Can Now Make PS2 Games in JavaScript](https://jslegenddev.substack.com/p/you-can-now-make-ps2-games-in-javascript)**
+  *<p>Article URL: <a href="https://jslegenddev.substack.com/p/you-can-now-make-ps2-games-in-javascript">https://jslegenddev.substack.com/p/you-can-now-make-ps2-games-in-javascript</a></p>
+<p>Comments UR...*
+  📅 Fri, 21 Nov 2025 16:42:19 +0000
 
 ### 📑 TechCrunch
 
-- **[The European startup market is ready for the limelight](https://techcrunch.com/2025/11/21/the-european-startup-market-is-ready-for-the-limelight/)**
-  *The region's startup market is hungry for its first trillion-dollar startup, and in many ways has set itself up to reach that goal....*
-  📅 Fri, 21 Nov 2025 11:39:43 +0000
+- **[X begins rolling out the ‘About this account’ feature to users’ profiles](https://techcrunch.com/2025/11/21/x-begins-rolling-out-the-about-this-account-feature-to-users-profiles/)**
+  *The feature will show where users are based, how they're connected to X, and how many times they've changed their username....*
+  📅 Fri, 21 Nov 2025 18:12:57 +0000
 
-- **[Grok says Elon Musk is better than basically everyone, except Shohei Ohtani](https://techcrunch.com/2025/11/20/grok-says-elon-musk-is-better-than-basically-everyone-except-shohei-ohtani/)**
-  *According to Grok, Elon Musk can out-slug the MLB's greatest power hitters... except Ohtani....*
-  📅 Thu, 20 Nov 2025 23:44:19 +0000
+- **[Impersonators are (still) targeting companies with fake TechCrunch outreach](https://techcrunch.com/2025/11/21/impersonators-are-targeting-companies-with-fake-techcrunch-outreach/)**
+  *Fraudsters are impersonating TechCrunch reporters and event leads, and reaching out to companies. Here's what we're doing about it, and what you can look out for....*
+  📅 Fri, 21 Nov 2025 17:00:00 +0000
 
-- **[Google steps up AI scam protection in India, but gaps remain](https://techcrunch.com/2025/11/20/google-steps-up-ai-scam-protection-in-india-but-gaps-remain/)**
-  *Google is expanding its real-time scam-detection and screen-sharing fraud warnings in India....*
-  📅 Thu, 20 Nov 2025 22:28:52 +0000
+- **[Phictly’s new app brings people together over their favorite books and TV shows](https://techcrunch.com/2025/11/21/phictlys-new-app-brings-people-together-over-their-favorite-books-and-tv-shows/)**
+  *Phictly helps fans find niche clubs for their favorite books, shows, and movies, offering intimate, spoiler-safe communities with flexible pacing and tracker tools....*
+  📅 Fri, 21 Nov 2025 16:47:03 +0000
 
-- **[Joby Aviation makes ‘corporate espionage’ claims in lawsuit against rival Archer](https://techcrunch.com/2025/11/20/joby-aviation-makes-corporate-espionage-claims-in-lawsuit-against-rival-archer/)**
-  *Joby alleges one of its former employees shared stolen trade secrets when he was hired by Archer....*
-  📅 Thu, 20 Nov 2025 22:03:33 +0000
+- **[Trump Energy department drops renewables, promotes fusion in office reshuffle](https://techcrunch.com/2025/11/21/trump-energy-department-drops-renewables-promotes-fusion-in-office-reshuffle/)**
+  *The revamped organizational structure cut at least one office authorized by Congress, which could spur legal challenges....*
+  📅 Fri, 21 Nov 2025 16:19:51 +0000
 
-- **[WhatsApp gets its own Instagram Notes-like feature](https://techcrunch.com/2025/11/20/whatsapp-gets-its-own-instagram-notes-like-feature/)**
-  *WhatsApp users can now share their status with others through a new "About" feature....*
-  📅 Thu, 20 Nov 2025 21:15:20 +0000
+- **[SpaceX’s upgraded Starship suffers explosion during testing](https://techcrunch.com/2025/11/21/spacexs-upgraded-starship-suffers-explosion-during-testing/)**
+  *It may not have been a massive fireball, but SpaceX now has more work to do before it can kick off this next-generation version of Starship....*
+  📅 Fri, 21 Nov 2025 15:08:14 +0000
 
-- **[Source: Kalshi’s valuation jumps to $11B after raising massive $1B round](https://techcrunch.com/2025/11/20/source-kalshis-valuation-jumps-to-11b-after-raising-massive-1b-round/)**
-  *The quickly growing prediction betting market raised fresh capital from Sequoia and CapitalG, according to someone familiar with the deal....*
-  📅 Thu, 20 Nov 2025 20:26:03 +0000
+- **[Despite Chinese hacks, Trump’s FCC votes to scrap cybersecurity rules for phone and internet companies](https://techcrunch.com/2025/11/21/despite-chinese-hacks-trumps-fcc-votes-to-scrap-cybersecurity-rules-for-phone-and-internet-companies/)**
+  *Two Trump-appointed FCC officials voted to undo the telecom industry's cybersecurity rules. One Democratic commissioner dissented, saying the decision leaves the United States "less safe" at a time wh...*
+  📅 Fri, 21 Nov 2025 13:54:36 +0000
 
 ### 📑 Dev.to
 
-- **[Molecule Visualiser!](https://dev.to/dev_ops_python/molecule-visualiser-508i)**
-  *<p>This is a molecule visualiser app built with Streamlit and RDKit. this app has feature that allows you to visualise atoms and molecules in 2D and 3D .</p>
+- **[8-Bit Music Theory: Kirby Air Riders' Music is FUN FUN FUN](https://dev.to/music_youtube/8-bit-music-theory-kirby-air-riders-music-is-fun-fun-fun-i19)**
+  *<p>Kirby Air Riders’ main theme “Starlit Journey” gets a playful, in-depth breakdown from 8bitMusicTheory, showing you how a bright intro, bouncy verses, an ear-worm chorus, dynamic bridge, and triump...*
+  📅 Fri, 21 Nov 2025 18:09:14 +0000
 
-<p>Features:</p>
-
-<ul>
-<li>Visualise mole...*
-  📅 Fri, 21 Nov 2025 12:08:12 +0000
-
-- **[Building for the Future: Why Cloud Native App Development Is Transforming Modern Businesses](https://dev.to/khushi_jitani_ca127abdedd/building-for-the-future-why-cloud-native-app-development-is-transforming-modern-businesses-2dp8)**
-  *<p><strong>A New Era of Applications Begins</strong></p>
-
-<p>Technology is evolving faster than ever, and businesses are under constant pressure to deliver seamless, scalable, and high-performing digi...*
-  📅 Fri, 21 Nov 2025 12:07:29 +0000
+- **[ChaosKit - Code-level Chaos Engineering for Go Applications](https://dev.to/roman_chudov_aae89a53d641/chaoskit-code-level-chaos-engineering-for-go-applications-2k3p)**
+  *<p>Most chaos engineering tools operate at the infrastructure level: they kill containers, emulate network failures, or simulate CPU overload. But errors in application logic—infinite loops, goroutine...*
+  📅 Fri, 21 Nov 2025 18:05:42 +0000
 
 </details>
 
 ## 🔥 Trending Repositories
 
 ### 📈 Daily Trending
-
-- **[josy-cruz/bash-dto](https://github.com/josy-cruz/bash-dto)** ⭐ 57
-  ![Shell](https://img.shields.io/badge/-Shell-lightgrey)
-  Bash hello world example. Docs could be enhanced for better presentation.
 
 - **[josy-cruz/php-mvc](https://github.com/josy-cruz/php-mvc)** ⭐ 57
   ![PHP](https://img.shields.io/badge/-PHP-lightgrey)
@@ -134,83 +123,87 @@
   ![Lua](https://img.shields.io/badge/-Lua-lightgrey)
   Lua hello world example. Docs could be enhanced for better presentation.
 
+- **[josy-cruz/bash-dto](https://github.com/josy-cruz/bash-dto)** ⭐ 57
+  ![Shell](https://img.shields.io/badge/-Shell-lightgrey)
+  Bash hello world example. Docs could be enhanced for better presentation.
+
 - **[josy-cruz/kotlin-ajr](https://github.com/josy-cruz/kotlin-ajr)** ⭐ 57
   ![Kotlin](https://img.shields.io/badge/-Kotlin-lightgrey)
   Kotlin hello world example. Docs could be enhanced for better presentation.
-
-- **[josy-cruz/scala-io2](https://github.com/josy-cruz/scala-io2)** ⭐ 57
-  ![Scala](https://img.shields.io/badge/-Scala-lightgrey)
-  Scala hello world example. Docs could be enhanced for better presentation.
 
 - **[josy-cruz/rust-tv1](https://github.com/josy-cruz/rust-tv1)** ⭐ 57
   ![Rust](https://img.shields.io/badge/-Rust-brown)
   Rust hello world example. Docs could be enhanced for better presentation.
 
+- **[josy-cruz/scala-io2](https://github.com/josy-cruz/scala-io2)** ⭐ 57
+  ![Scala](https://img.shields.io/badge/-Scala-lightgrey)
+  Scala hello world example. Docs could be enhanced for better presentation.
+
 - **[josy-cruz/typescript-kyn](https://github.com/josy-cruz/typescript-kyn)** ⭐ 57
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   TypeScript hello world example. Docs could be enhanced for better presentation.
 
-- **[josy-cruz/php-hvf](https://github.com/josy-cruz/php-hvf)** ⭐ 57
-  ![PHP](https://img.shields.io/badge/-PHP-lightgrey)
-  PHP hello world example. Docs could be enhanced for better presentation.
+- **[josy-cruz/javascript-086](https://github.com/josy-cruz/javascript-086)** ⭐ 57
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
+  JavaScript hello world example. Docs could be enhanced for better presentation.
 
 ### 📈 Weekly Trending
 
-- **[straight-tamago/misaka26](https://github.com/straight-tamago/misaka26)** ⭐ 2,102
+- **[straight-tamago/misaka26](https://github.com/straight-tamago/misaka26)** ⭐ 2,139
   ![None](https://img.shields.io/badge/-None-lightgrey)
   iOS /iPadOS 16.0 - 26.1, An ultimate customization tool, uilitizing the bug that makes TrollRestore possible. 
 
-- **[karpathy/reader3](https://github.com/karpathy/reader3)** ⭐ 1,690
+- **[karpathy/reader3](https://github.com/karpathy/reader3)** ⭐ 1,708
   ![Python](https://img.shields.io/badge/-Python-blue)
   Quick illustration of how one can easily read books together with LLMs. It's great and I highly recommend it.
 
-- **[K-Dense-AI/karpathy](https://github.com/K-Dense-AI/karpathy)** ⭐ 787
+- **[K-Dense-AI/karpathy](https://github.com/K-Dense-AI/karpathy)** ⭐ 807
   ![Python](https://img.shields.io/badge/-Python-blue)
   An agentic Machine Learning Engineer
 
-- **[AnandChowdhary/continuous-claude](https://github.com/AnandChowdhary/continuous-claude)** ⭐ 542
+- **[AnandChowdhary/continuous-claude](https://github.com/AnandChowdhary/continuous-claude)** ⭐ 559
   ![Shell](https://img.shields.io/badge/-Shell-lightgrey)
   🔂 Run Claude Code in a continuous loop, autonomously creating PRs, waiting for checks, and merging
 
-- **[supertone-inc/supertonic](https://github.com/supertone-inc/supertonic)** ⭐ 498
+- **[supertone-inc/supertonic](https://github.com/supertone-inc/supertonic)** ⭐ 517
   ![Swift](https://img.shields.io/badge/-Swift-lightgrey)
   Lightning-fast, on-device TTS — running natively via ONNX.
 
-- **[buyukakyuz/install-nothing](https://github.com/buyukakyuz/install-nothing)** ⭐ 480
+- **[buyukakyuz/install-nothing](https://github.com/buyukakyuz/install-nothing)** ⭐ 487
   ![Rust](https://img.shields.io/badge/-Rust-brown)
   A terminal application that simulates installing things but doesn't actually install anything
 
-- **[medusalix/FreeMDU](https://github.com/medusalix/FreeMDU)** ⭐ 417
-  ![Rust](https://img.shields.io/badge/-Rust-brown)
-  Open hardware and software tools for communicating with Miele appliances via their optical diagnostic interface
-
-- **[Norsico/Video-Materials-AutoGEN-Workstation](https://github.com/Norsico/Video-Materials-AutoGEN-Workstation)** ⭐ 363
+- **[Norsico/Video-Materials-AutoGEN-Workstation](https://github.com/Norsico/Video-Materials-AutoGEN-Workstation)** ⭐ 437
   ![Python](https://img.shields.io/badge/-Python-blue)
   一个集内容策划、AI文案自动生成、TTS 批量自动配音、(AI)图片素材合成、ASR自动提取语言字幕脚本、AI自由创作于一体的(短视频)生成工作站。方便管理每期的视频项目。
 
+- **[medusalix/FreeMDU](https://github.com/medusalix/FreeMDU)** ⭐ 418
+  ![Rust](https://img.shields.io/badge/-Rust-brown)
+  Open hardware and software tools for communicating with Miele appliances via their optical diagnostic interface
+
 ### 📈 Monthly Trending
 
-- **[Snapchat/Valdi](https://github.com/Snapchat/Valdi)** ⭐ 11,985
+- **[Snapchat/Valdi](https://github.com/Snapchat/Valdi)** ⭐ 12,061
   ![C++](https://img.shields.io/badge/-C++-pink)
   Valdi is a cross-platform UI framework that delivers native performance without sacrificing developer velocity.
 
-- **[HKUDS/AI-Trader](https://github.com/HKUDS/AI-Trader)** ⭐ 9,554
+- **[HKUDS/AI-Trader](https://github.com/HKUDS/AI-Trader)** ⭐ 9,560
   ![Python](https://img.shields.io/badge/-Python-blue)
   "AI-Trader: Can AI Beat the Market?" Live Trading Bench: https://ai4trade.ai
 
-- **[NoFxAiOS/nofx](https://github.com/NoFxAiOS/nofx)** ⭐ 7,917
+- **[NoFxAiOS/nofx](https://github.com/NoFxAiOS/nofx)** ⭐ 7,934
   ![Go](https://img.shields.io/badge/-Go-cyan)
   NOFX: Defining the Next-Generation AI Trading Operating System. A multi-exchange Al trading platform(Binance/Hyperliquid/Aster) with multi-Ai competition(deepseek/qwen/claude)self-evolution, and real-time dashboard
 
-- **[diet103/claude-code-infrastructure-showcase](https://github.com/diet103/claude-code-infrastructure-showcase)** ⭐ 6,915
+- **[diet103/claude-code-infrastructure-showcase](https://github.com/diet103/claude-code-infrastructure-showcase)** ⭐ 6,930
   ![Shell](https://img.shields.io/badge/-Shell-lightgrey)
   Examples of my Claude Code infrastructure with skill auto-activation, hooks, and agents
 
-- **[francescopace/espectre](https://github.com/francescopace/espectre)** ⭐ 3,154
+- **[francescopace/espectre](https://github.com/francescopace/espectre)** ⭐ 3,172
   ![C](https://img.shields.io/badge/-C-lightgrey)
   🛜 ESPectre 👻  - Motion detection system based on Wi-Fi spectre analysis (CSI), with Home Assistant integration.
 
-- **[ByteDance-Seed/Depth-Anything-3](https://github.com/ByteDance-Seed/Depth-Anything-3)** ⭐ 2,485
+- **[ByteDance-Seed/Depth-Anything-3](https://github.com/ByteDance-Seed/Depth-Anything-3)** ⭐ 2,501
   ![Jupyter Notebook](https://img.shields.io/badge/-Jupyter Notebook-lightgrey)
   Depth Anything 3
 
@@ -218,7 +211,7 @@
   ![C++](https://img.shields.io/badge/-C++-pink)
   React Native Godot - Embed Godot Engine in React Native apps
 
-- **[facebookresearch/omnilingual-asr](https://github.com/facebookresearch/omnilingual-asr)** ⭐ 2,139
+- **[facebookresearch/omnilingual-asr](https://github.com/facebookresearch/omnilingual-asr)** ⭐ 2,152
   ![Python](https://img.shields.io/badge/-Python-blue)
   Omnilingual ASR Open-Source Multilingual SpeechRecognition for 1600+ Languages
 
@@ -487,57 +480,57 @@ for a semver-minor rele...
 |-------|--------|
 | Java | 🟢 Proficient |
 | Python | ⚪ Planned |
-| JavaScript | 🟡 Learning |
-| TypeScript | 🔴 Beginner |
-| Go | 🟢 Proficient |
+| JavaScript | 🟢 Proficient |
+| TypeScript | 🟢 Proficient |
+| Go | ⚪ Planned |
 
 ### Frameworks
 
 | Skill | Status |
 |-------|--------|
-| React | ⚪ Planned |
-| Spring Boot | 🟡 Learning |
-| Django | ⚪ Planned |
-| Node.js | 🟢 Proficient |
-| Next.js | ⚪ Planned |
+| React | 🔴 Beginner |
+| Spring Boot | ⚪ Planned |
+| Django | 🟢 Proficient |
+| Node.js | ⚪ Planned |
+| Next.js | 🟢 Proficient |
 
 ### Cybersecurity
 
 | Skill | Status |
 |-------|--------|
-| Penetration Testing | 🟡 Learning |
-| Web Security | 🟢 Proficient |
-| Network Security | ⚪ Planned |
-| OWASP | ⚪ Planned |
+| Penetration Testing | ⚪ Planned |
+| Web Security | ⚪ Planned |
+| Network Security | 🔴 Beginner |
+| OWASP | 🟢 Proficient |
 
 ### Ai Ml
 
 | Skill | Status |
 |-------|--------|
-| Machine Learning | 🟡 Learning |
-| Deep Learning | 🟡 Learning |
-| NLP | 🔴 Beginner |
-| Computer Vision | 🟢 Proficient |
+| Machine Learning | 🟢 Proficient |
+| Deep Learning | 🔴 Beginner |
+| NLP | 🟢 Proficient |
+| Computer Vision | 🟡 Learning |
 | TensorFlow | 🔴 Beginner |
-| PyTorch | 🔴 Beginner |
+| PyTorch | 🟡 Learning |
 
 ### Devops
 
 | Skill | Status |
 |-------|--------|
 | Docker | 🔴 Beginner |
-| Kubernetes | 🔴 Beginner |
-| CI/CD | ⚪ Planned |
-| AWS | 🔴 Beginner |
-| Azure | 🟢 Proficient |
+| Kubernetes | 🟡 Learning |
+| CI/CD | 🟢 Proficient |
+| AWS | 🟡 Learning |
+| Azure | 🟡 Learning |
 
 ### Other
 
 | Skill | Status |
 |-------|--------|
-| Blockchain | 🟢 Proficient |
-| Web3 | 🔴 Beginner |
-| Cloud Computing | ⚪ Planned |
+| Blockchain | 🔴 Beginner |
+| Web3 | 🟡 Learning |
+| Cloud Computing | 🟡 Learning |
 
 </details>
 
