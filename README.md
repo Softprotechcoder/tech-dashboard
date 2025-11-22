@@ -46,34 +46,33 @@
 
 ### 📑 Hacker News
 
+- **[My private information is worth $30](https://blog.melashri.net/micro/privacy-price/)**
+  *<p>Article URL: <a href="https://blog.melashri.net/micro/privacy-price/">https://blog.melashri.net/micro/privacy-price/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46013816"...*
+  📅 Sat, 22 Nov 2025 11:04:15 +0000
+
+- **[Jack Ma's family shifted wealth to UK after years-long 'disappearance'](https://www.source-material.org/jack-ma-bought-uk-home-after-years-long-disappearance/)**
+  *<p>Article URL: <a href="https://www.source-material.org/jack-ma-bought-uk-home-after-years-long-disappearance/">https://www.source-material.org/jack-ma-bought-uk-home-after-years-long-disappearance/<...*
+  📅 Sat, 22 Nov 2025 10:19:27 +0000
+
+- **[Libpng 1.6.51: Four buffer overflow vulnerabilities fixed](https://www.openwall.com/lists/oss-security/2025/11/22/1)**
+  *<p>Article URL: <a href="https://www.openwall.com/lists/oss-security/2025/11/22/1">https://www.openwall.com/lists/oss-security/2025/11/22/1</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.c...*
+  📅 Sat, 22 Nov 2025 10:08:31 +0000
+
 - **[Superman copy found in mum's attic is most valuable comic ever at $9.12M](https://www.bbc.com/news/articles/c8e9rp0knj6o)**
   *<p>Article URL: <a href="https://www.bbc.com/news/articles/c8e9rp0knj6o">https://www.bbc.com/news/articles/c8e9rp0knj6o</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=46012328"...*
   📅 Sat, 22 Nov 2025 05:21:53 +0000
-
-- **[Openring-rs: a webring for static site generators written in Rust](https://github.com/lukehsiao/openring-rs)**
-  *<p>Article URL: <a href="https://github.com/lukehsiao/openring-rs">https://github.com/lukehsiao/openring-rs</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46012052">https://new...*
-  📅 Sat, 22 Nov 2025 04:12:48 +0000
 
 - **[Moss Survives 9 Months in Space Vacuum](https://scienceclock.com/moss-survives-9-months-in-space-vacuum/)**
   *<p>Article URL: <a href="https://scienceclock.com/moss-survives-9-months-in-space-vacuum/">https://scienceclock.com/moss-survives-9-months-in-space-vacuum/</a></p>
 <p>Comments URL: <a href="https://ne...*
   📅 Sat, 22 Nov 2025 03:57:29 +0000
 
-- **[Infinibay LXD Container](https://github.com/Infinibay/lxd)**
-  *<p>Article URL: <a href="https://github.com/Infinibay/lxd">https://github.com/Infinibay/lxd</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46011351">https://news.ycombinator.co...*
-  📅 Sat, 22 Nov 2025 01:54:45 +0000
-
 - **[Sharper MRI scans may be on horizon thanks to new physics-based model](https://news.rice.edu/news/2025/sharper-mri-scans-may-be-horizon-thanks-new-physics-based-model)**
   *<p>Article URL: <a href="https://news.rice.edu/news/2025/sharper-mri-scans-may-be-horizon-thanks-new-physics-based-model">https://news.rice.edu/news/2025/sharper-mri-scans-may-be-horizon-thanks-new-ph...*
   📅 Sat, 22 Nov 2025 00:30:26 +0000
-
-- **[How I learned Vulkan and wrote a small game engine with it (2024)](https://edw.is/learning-vulkan/)**
-  *<p>Article URL: <a href="https://edw.is/learning-vulkan/">https://edw.is/learning-vulkan/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46010329">https://news.ycombinator.com/...*
-  📅 Fri, 21 Nov 2025 23:28:40 +0000
 
 ### 📑 TechCrunch
 
@@ -103,19 +102,23 @@
 
 ### 📑 Dev.to
 
-- **[CinemaSins: Everything Wrong With KPop Demon Hunters In 16 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-kpop-demon-hunters-in-16-minutes-or-less-5896)**
-  *<h1>
-  
-  
-  Everything Wrong With KPop Demon Hunters In 16 Minutes Or Less
-</h1>
+- **[Day 42: Python Roman Numeral Converter, Bidirectional Conversion Between Roman and Integers with Mapping and Loops](https://dev.to/shahrouzlogs/day-42-python-roman-numeral-converter-bidirectional-conversion-between-roman-and-integers-with-1hfg)**
+  *<p>Welcome to Day 42 of the <strong>#80DaysOfChallenges</strong> journey! This intermediate challenge tackles <strong>converting between Roman numerals and integers in both directions</strong>, suppor...*
+  📅 Sat, 22 Nov 2025 12:09:25 +0000
 
-<p>CinemaSins takes a hilarious, sin-counting stroll through this fun, action-packed hybrid of K-pop and demon-huntin...*
-  📅 Sat, 22 Nov 2025 06:00:06 +0000
+- **[CSS](https://dev.to/mujahida_joynab_64c7407d8/css-42ep)**
+  *<p>Font -&gt; Google font<br />
+Icon -&gt; Font Awesome cdn <br />
+For Responsiveness</p>
 
-- **[Goodbye Green Screen: Why AI Background Removal Outperforms Traditional Editing](https://dev.to/freepixel11/goodbye-green-screen-why-ai-background-removal-outperforms-traditional-editing-3ih0)**
-  *<p>For years, green screens were the standard way to remove backgrounds. They worked, but only if you had perfect lighting, studio space, and time for cleanup. Today, AI background removal has stepped...*
-  📅 Sat, 22 Nov 2025 05:53:18 +0000
+<p>flex-wrap : wrap </p>
+
+
+
+<h1> Hello Banner </h1>
+
+<p> Lorem ipsum </p>...*
+  📅 Sat, 22 Nov 2025 12:08:39 +0000
 
 </details>
 
@@ -123,103 +126,103 @@
 
 ### 📈 Daily Trending
 
-- **[Kindness-Kismet/Stelliberty](https://github.com/Kindness-Kismet/Stelliberty)** ⭐ 46
+- **[Kindness-Kismet/Stelliberty](https://github.com/Kindness-Kismet/Stelliberty)** ⭐ 98
   ![Dart](https://img.shields.io/badge/-Dart-lightgrey)
   A modern proxy client built with Flutter and Rust, powered by Clash Mihomo core
 
-- **[tpiros/devfest-2025](https://github.com/tpiros/devfest-2025)** ⭐ 6
+- **[Tokeii0/LovelyERes](https://github.com/Tokeii0/LovelyERes)** ⭐ 24
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
-  None
+  Linux应急响应工具
 
-- **[BlazeHuffman/GOOD-MORNING](https://github.com/BlazeHuffman/GOOD-MORNING)** ⭐ 5
+- **[asaheer93/P1CO-D0WNL0AD](https://github.com/asaheer93/P1CO-D0WNL0AD)** ⭐ 17
   ![None](https://img.shields.io/badge/-None-lightgrey)
   None
 
-- **[nostalgiatan/SeeSea](https://github.com/nostalgiatan/SeeSea)** ⭐ 4
-  ![Rust](https://img.shields.io/badge/-Rust-brown)
-  基于 Rust 构建的隐私优先的多模态搜索平台，支持网页搜索、RSS 聚合、浏览器自动化等多模态搜索能力
+- **[mandialkin7453/catalinashar7275](https://github.com/mandialkin7453/catalinashar7275)** ⭐ 17
+  ![None](https://img.shields.io/badge/-None-lightgrey)
+  ⬇️Link in article⬇️
 
-- **[Lo9ic/Yapping-extension](https://github.com/Lo9ic/Yapping-extension)** ⭐ 3
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
-  None
-
-- **[P-Bhanu-Sohan/Orderion](https://github.com/P-Bhanu-Sohan/Orderion)** ⭐ 3
-  ![Go](https://img.shields.io/badge/-Go-cyan)
-  Event Driven Order Orchestration System for an E-commerce Backend using gRPC, Kafka, Redis for decoupling, low latency, and reliability.
-
-- **[gerald-159/jholmylol](https://github.com/gerald-159/jholmylol)** ⭐ 3
+- **[woauuio/KM5-P1CO-V16.9.2](https://github.com/woauuio/KM5-P1CO-V16.9.2)** ⭐ 17
   ![None](https://img.shields.io/badge/-None-lightgrey)
   None
 
-- **[NekoTheDev/Personal-Productivity-Planner](https://github.com/NekoTheDev/Personal-Productivity-Planner)** ⭐ 2
-  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
-  basic web
+- **[miboadv/TAI-SHAH-FILE](https://github.com/miboadv/TAI-SHAH-FILE)** ⭐ 14
+  ![None](https://img.shields.io/badge/-None-lightgrey)
+  None
+
+- **[jazzsima/hjadgcd](https://github.com/jazzsima/hjadgcd)** ⭐ 14
+  ![None](https://img.shields.io/badge/-None-lightgrey)
+  None
+
+- **[gbnhjuiklo0p/D1oWNLOd-Her](https://github.com/gbnhjuiklo0p/D1oWNLOd-Her)** ⭐ 12
+  ![None](https://img.shields.io/badge/-None-lightgrey)
+  None
 
 ### 📈 Weekly Trending
 
-- **[straight-tamago/misaka26](https://github.com/straight-tamago/misaka26)** ⭐ 2,190
+- **[straight-tamago/misaka26](https://github.com/straight-tamago/misaka26)** ⭐ 2,232
   ![None](https://img.shields.io/badge/-None-lightgrey)
   iOS /iPadOS 16.0 - 26.1, An ultimate customization tool, uilitizing the bug that makes TrollRestore possible. 
 
-- **[karpathy/reader3](https://github.com/karpathy/reader3)** ⭐ 1,738
+- **[karpathy/reader3](https://github.com/karpathy/reader3)** ⭐ 1,763
   ![Python](https://img.shields.io/badge/-Python-blue)
   Quick illustration of how one can easily read books together with LLMs. It's great and I highly recommend it.
 
-- **[K-Dense-AI/karpathy](https://github.com/K-Dense-AI/karpathy)** ⭐ 857
+- **[K-Dense-AI/karpathy](https://github.com/K-Dense-AI/karpathy)** ⭐ 881
   ![Python](https://img.shields.io/badge/-Python-blue)
   An agentic Machine Learning Engineer
 
-- **[supertone-inc/supertonic](https://github.com/supertone-inc/supertonic)** ⭐ 563
+- **[supertone-inc/supertonic](https://github.com/supertone-inc/supertonic)** ⭐ 585
   ![Swift](https://img.shields.io/badge/-Swift-lightgrey)
   Lightning-fast, on-device TTS — running natively via ONNX.
 
-- **[buyukakyuz/install-nothing](https://github.com/buyukakyuz/install-nothing)** ⭐ 511
-  ![Rust](https://img.shields.io/badge/-Rust-brown)
-  A terminal application that simulates installing things but doesn't actually install anything
-
-- **[Norsico/Video-Materials-AutoGEN-Workstation](https://github.com/Norsico/Video-Materials-AutoGEN-Workstation)** ⭐ 500
+- **[Norsico/Video-Materials-AutoGEN-Workstation](https://github.com/Norsico/Video-Materials-AutoGEN-Workstation)** ⭐ 539
   ![Python](https://img.shields.io/badge/-Python-blue)
   一个集内容策划、AI文案自动生成、TTS 批量自动配音、(AI)图片素材合成、ASR自动提取语言字幕脚本、AI自由创作于一体的(短视频)生成工作站。方便管理每期的视频项目。
 
-- **[hexagonal-sun/moss](https://github.com/hexagonal-sun/moss)** ⭐ 381
+- **[buyukakyuz/install-nothing](https://github.com/buyukakyuz/install-nothing)** ⭐ 534
+  ![Rust](https://img.shields.io/badge/-Rust-brown)
+  A terminal application that simulates installing things but doesn't actually install anything
+
+- **[hexagonal-sun/moss](https://github.com/hexagonal-sun/moss)** ⭐ 415
   ![Rust](https://img.shields.io/badge/-Rust-brown)
   Rust Linux-compatible kernel
 
-- **[Tencent-Hunyuan/HunyuanVideo-1.5](https://github.com/Tencent-Hunyuan/HunyuanVideo-1.5)** ⭐ 346
+- **[Tencent-Hunyuan/HunyuanVideo-1.5](https://github.com/Tencent-Hunyuan/HunyuanVideo-1.5)** ⭐ 377
   ![Python](https://img.shields.io/badge/-Python-blue)
   HunyuanVideo-1.5: A leading lightweight video generation model
 
 ### 📈 Monthly Trending
 
-- **[Snapchat/Valdi](https://github.com/Snapchat/Valdi)** ⭐ 12,199
+- **[Snapchat/Valdi](https://github.com/Snapchat/Valdi)** ⭐ 12,309
   ![C++](https://img.shields.io/badge/-C++-pink)
   Valdi is a cross-platform UI framework that delivers native performance without sacrificing developer velocity.
 
-- **[NoFxAiOS/nofx](https://github.com/NoFxAiOS/nofx)** ⭐ 7,946
+- **[NoFxAiOS/nofx](https://github.com/NoFxAiOS/nofx)** ⭐ 7,956
   ![Go](https://img.shields.io/badge/-Go-cyan)
   NOFX: Defining the Next-Generation AI Trading Operating System. A multi-exchange Al trading platform(Binance/Hyperliquid/Aster) with multi-Ai competition(deepseek/qwen/claude)self-evolution, and real-time dashboard
 
-- **[diet103/claude-code-infrastructure-showcase](https://github.com/diet103/claude-code-infrastructure-showcase)** ⭐ 6,939
+- **[diet103/claude-code-infrastructure-showcase](https://github.com/diet103/claude-code-infrastructure-showcase)** ⭐ 6,948
   ![Shell](https://img.shields.io/badge/-Shell-lightgrey)
   Examples of my Claude Code infrastructure with skill auto-activation, hooks, and agents
 
-- **[francescopace/espectre](https://github.com/francescopace/espectre)** ⭐ 3,194
+- **[francescopace/espectre](https://github.com/francescopace/espectre)** ⭐ 3,208
   ![C](https://img.shields.io/badge/-C-lightgrey)
   🛜 ESPectre 👻  - Motion detection system based on Wi-Fi spectre analysis (CSI), with Home Assistant integration.
 
-- **[ByteDance-Seed/Depth-Anything-3](https://github.com/ByteDance-Seed/Depth-Anything-3)** ⭐ 2,526
+- **[ByteDance-Seed/Depth-Anything-3](https://github.com/ByteDance-Seed/Depth-Anything-3)** ⭐ 2,542
   ![Jupyter Notebook](https://img.shields.io/badge/-Jupyter Notebook-lightgrey)
   Depth Anything 3
 
-- **[borndotcom/react-native-godot](https://github.com/borndotcom/react-native-godot)** ⭐ 2,419
+- **[borndotcom/react-native-godot](https://github.com/borndotcom/react-native-godot)** ⭐ 2,420
   ![C++](https://img.shields.io/badge/-C++-pink)
   React Native Godot - Embed Godot Engine in React Native apps
 
-- **[straight-tamago/misaka26](https://github.com/straight-tamago/misaka26)** ⭐ 2,190
+- **[straight-tamago/misaka26](https://github.com/straight-tamago/misaka26)** ⭐ 2,232
   ![None](https://img.shields.io/badge/-None-lightgrey)
   iOS /iPadOS 16.0 - 26.1, An ultimate customization tool, uilitizing the bug that makes TrollRestore possible. 
 
-- **[facebookresearch/omnilingual-asr](https://github.com/facebookresearch/omnilingual-asr)** ⭐ 2,160
+- **[facebookresearch/omnilingual-asr](https://github.com/facebookresearch/omnilingual-asr)** ⭐ 2,165
   ![Python](https://img.shields.io/badge/-Python-blue)
   Omnilingual ASR Open-Source Multilingual SpeechRecognition for 1600+ Languages
 
@@ -486,59 +489,59 @@ for a semver-minor rele...
 
 | Skill | Status |
 |-------|--------|
-| Java | 🔴 Beginner |
-| Python | 🟢 Proficient |
-| JavaScript | ⚪ Planned |
-| TypeScript | 🟡 Learning |
-| Go | 🔴 Beginner |
+| Java | 🟡 Learning |
+| Python | 🟡 Learning |
+| JavaScript | 🔴 Beginner |
+| TypeScript | 🟢 Proficient |
+| Go | 🟡 Learning |
 
 ### Frameworks
 
 | Skill | Status |
 |-------|--------|
-| React | ⚪ Planned |
-| Spring Boot | 🟡 Learning |
+| React | 🟡 Learning |
+| Spring Boot | 🟢 Proficient |
 | Django | 🟢 Proficient |
-| Node.js | 🔴 Beginner |
-| Next.js | ⚪ Planned |
+| Node.js | ⚪ Planned |
+| Next.js | 🟡 Learning |
 
 ### Cybersecurity
 
 | Skill | Status |
 |-------|--------|
-| Penetration Testing | ⚪ Planned |
+| Penetration Testing | 🔴 Beginner |
 | Web Security | 🟡 Learning |
-| Network Security | 🟡 Learning |
-| OWASP | 🔴 Beginner |
+| Network Security | 🟢 Proficient |
+| OWASP | 🟢 Proficient |
 
 ### Ai Ml
 
 | Skill | Status |
 |-------|--------|
-| Machine Learning | 🟡 Learning |
-| Deep Learning | 🟡 Learning |
-| NLP | 🔴 Beginner |
-| Computer Vision | 🟢 Proficient |
-| TensorFlow | 🟡 Learning |
-| PyTorch | 🟡 Learning |
+| Machine Learning | 🟢 Proficient |
+| Deep Learning | 🔴 Beginner |
+| NLP | ⚪ Planned |
+| Computer Vision | 🔴 Beginner |
+| TensorFlow | 🟢 Proficient |
+| PyTorch | 🔴 Beginner |
 
 ### Devops
 
 | Skill | Status |
 |-------|--------|
-| Docker | 🔴 Beginner |
-| Kubernetes | ⚪ Planned |
+| Docker | 🟡 Learning |
+| Kubernetes | 🟡 Learning |
 | CI/CD | 🟢 Proficient |
-| AWS | 🟡 Learning |
-| Azure | 🟢 Proficient |
+| AWS | 🟢 Proficient |
+| Azure | 🔴 Beginner |
 
 ### Other
 
 | Skill | Status |
 |-------|--------|
-| Blockchain | 🟢 Proficient |
-| Web3 | ⚪ Planned |
-| Cloud Computing | 🔴 Beginner |
+| Blockchain | ⚪ Planned |
+| Web3 | 🟢 Proficient |
+| Cloud Computing | ⚪ Planned |
 
 </details>
 
