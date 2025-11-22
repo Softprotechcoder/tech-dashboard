@@ -46,35 +46,50 @@
 
 ### 📑 Hacker News
 
-- **[My private information is worth $30](https://blog.melashri.net/micro/privacy-price/)**
-  *<p>Article URL: <a href="https://blog.melashri.net/micro/privacy-price/">https://blog.melashri.net/micro/privacy-price/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46013816"...*
-  📅 Sat, 22 Nov 2025 11:04:15 +0000
+- **[Depot (YC W23) Is Hiring a Staff Infrastructure Engineer](https://www.ycombinator.com/companies/depot/jobs/O2iB56E-staff-infrastructure-engineer)**
+  *<p>Article URL: <a href="https://www.ycombinator.com/companies/depot/jobs/O2iB56E-staff-infrastructure-engineer">https://www.ycombinator.com/companies/depot/jobs/O2iB56E-staff-infrastructure-engineer<...*
+  📅 Sat, 22 Nov 2025 18:05:47 +0000
 
-- **[Jack Ma's family shifted wealth to UK after years-long 'disappearance'](https://www.source-material.org/jack-ma-bought-uk-home-after-years-long-disappearance/)**
-  *<p>Article URL: <a href="https://www.source-material.org/jack-ma-bought-uk-home-after-years-long-disappearance/">https://www.source-material.org/jack-ma-bought-uk-home-after-years-long-disappearance/<...*
-  📅 Sat, 22 Nov 2025 10:19:27 +0000
+- **[The privacy nightmare of browser fingerprinting](https://kevinboone.me/fingerprinting.html)**
+  *<p>Article URL: <a href="https://kevinboone.me/fingerprinting.html">https://kevinboone.me/fingerprinting.html</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46016249">https://n...*
+  📅 Sat, 22 Nov 2025 17:08:36 +0000
 
-- **[Libpng 1.6.51: Four buffer overflow vulnerabilities fixed](https://www.openwall.com/lists/oss-security/2025/11/22/1)**
-  *<p>Article URL: <a href="https://www.openwall.com/lists/oss-security/2025/11/22/1">https://www.openwall.com/lists/oss-security/2025/11/22/1</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.c...*
-  📅 Sat, 22 Nov 2025 10:08:31 +0000
+- **[In a U.S. First, New Mexico Opens Doors to Free Child Care for All](https://www.wsj.com/us-news/in-a-u-s-first-new-mexico-opens-doors-to-free-child-care-for-all-2dfdea96)**
+  *<p>Article URL: <a href="https://www.wsj.com/us-news/in-a-u-s-first-new-mexico-opens-doors-to-free-child-care-for-all-2dfdea96">https://www.wsj.com/us-news/in-a-u-s-first-new-mexico-opens-doors-to-fre...*
+  📅 Sat, 22 Nov 2025 16:11:12 +0000
 
-- **[Superman copy found in mum's attic is most valuable comic ever at $9.12M](https://www.bbc.com/news/articles/c8e9rp0knj6o)**
-  *<p>Article URL: <a href="https://www.bbc.com/news/articles/c8e9rp0knj6o">https://www.bbc.com/news/articles/c8e9rp0knj6o</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46012328"...*
-  📅 Sat, 22 Nov 2025 05:21:53 +0000
+- **[New Apple Study Shows LLMs Can Tell What You're Doing from Audio and Motion Data](https://9to5mac.com/2025/11/21/apple-research-llm-study-audio-motion-activity/)**
+  *<p>Article URL: <a href="https://9to5mac.com/2025/11/21/apple-research-llm-study-audio-motion-activity/">https://9to5mac.com/2025/11/21/apple-research-llm-study-audio-motion-activity/</a></p>
+<p>Comme...*
+  📅 Sat, 22 Nov 2025 15:45:26 +0000
 
-- **[Moss Survives 9 Months in Space Vacuum](https://scienceclock.com/moss-survives-9-months-in-space-vacuum/)**
-  *<p>Article URL: <a href="https://scienceclock.com/moss-survives-9-months-in-space-vacuum/">https://scienceclock.com/moss-survives-9-months-in-space-vacuum/</a></p>
-<p>Comments URL: <a href="https://ne...*
-  📅 Sat, 22 Nov 2025 03:57:29 +0000
+- **['The French people want to save us': help pours in for glassmaker Duralex](https://www.theguardian.com/world/2025/nov/22/french-people-want-to-save-us-help-pours-glassmaker-duralex)**
+  *<p>Article URL: <a href="https://www.theguardian.com/world/2025/nov/22/french-people-want-to-save-us-help-pours-glassmaker-duralex">https://www.theguardian.com/world/2025/nov/22/french-people-want-to-...*
+  📅 Sat, 22 Nov 2025 15:14:45 +0000
 
-- **[Sharper MRI scans may be on horizon thanks to new physics-based model](https://news.rice.edu/news/2025/sharper-mri-scans-may-be-horizon-thanks-new-physics-based-model)**
-  *<p>Article URL: <a href="https://news.rice.edu/news/2025/sharper-mri-scans-may-be-horizon-thanks-new-physics-based-model">https://news.rice.edu/news/2025/sharper-mri-scans-may-be-horizon-thanks-new-ph...*
-  📅 Sat, 22 Nov 2025 00:30:26 +0000
+- **[Agent design is still hard](https://lucumr.pocoo.org/2025/11/21/agents-are-hard/)**
+  *<p>Article URL: <a href="https://lucumr.pocoo.org/2025/11/21/agents-are-hard/">https://lucumr.pocoo.org/2025/11/21/agents-are-hard/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?...*
+  📅 Sat, 22 Nov 2025 11:27:24 +0000
 
 ### 📑 TechCrunch
+
+- **[Meta wants to get into the electricity trading business](https://techcrunch.com/2025/11/22/meta-wants-to-get-into-the-electricity-trading-business/)**
+  *In order to accelerate the construction of new power plants needed to provide energy for its data centers, Meta is looking to get into the business of trading electricity....*
+  📅 Sat, 22 Nov 2025 17:26:36 +0000
+
+- **[Byju’s founder to appeal U.S. court order to pay over $1B in bankruptcy case](https://techcrunch.com/2025/11/22/byjus-founder-to-appeal-u-s-court-order-to-pay-over-1b-in-bankruptcy-case/)**
+  *A U.S. bankruptcy court has ordered Byju's founder Byju Raveendran to pay over $1.07 billion in a case over missing company funds....*
+  📅 Sat, 22 Nov 2025 16:17:32 +0000
+
+- **[Why now is the best time to invest in climate tech](https://techcrunch.com/2025/11/22/why-now-is-the-best-time-to-invest-in-climate-tech/)**
+  *Global expectations around climate change has shifted dramatically in the last decade, suggesting that similarly significant changes are on the horizon....*
+  📅 Sat, 22 Nov 2025 16:00:00 +0000
+
+- **[Pew’s latest social media report shows X’s staying power in the U.S., despite competition](https://techcrunch.com/2025/11/22/pews-latest-social-media-report-shows-xs-staying-power-in-the-u-s-despite-competition/)**
+  *X is still used by 21% of U.S. adults, Pew found, only down from 23% in 2021, despite increased competition from Meta, startups, and decentralized social media....*
+  📅 Sat, 22 Nov 2025 16:00:00 +0000
 
 - **[How this founder’s unlikely path to Silicon Valley could become an edge in industrial tech](https://techcrunch.com/2025/11/21/how-this-founders-unlikely-path-to-silicon-valley-could-become-an-edge-in-industrial-tech/)**
   *Young's age and background – things that might seem like disadvantages when it comes to more established industries – have become his secret weapons. When he walks into a room of executives twice or t...*
@@ -84,41 +99,21 @@
   *The startup’s rapid growth suggests that enerprises are embracing AI agents....*
   📅 Fri, 21 Nov 2025 23:00:08 +0000
 
-- **[The hottest AI wearables and gadgets you can buy right now](https://techcrunch.com/2025/11/21/the-hottest-ai-wearables-and-gadgets-you-can-buy-right-now/)**
-  *We compiled all the hottest AI wearables currently available, including Bee, Friend, Plaud, and more....*
-  📅 Fri, 21 Nov 2025 20:00:00 +0000
-
-- **[CrowdStrike fires ‘suspicious insider’ who passed information to hackers](https://techcrunch.com/2025/11/21/crowdstrike-fires-suspicious-insider-who-passed-information-to-hackers/)**
-  *Cybersecurity giant CrowdStrike denied it had been hacked following claims from a hacker group, which leaked screenshots from inside CrowdStrike's network....*
-  📅 Fri, 21 Nov 2025 18:55:53 +0000
-
-- **[Google says hackers stole data from 200 companies following Gainsight breach](https://techcrunch.com/2025/11/21/google-says-hackers-stole-data-from-200-companies-following-gainsight-breach/)**
-  *Notorious hacking collective Scattered Lapsus$ Hunters takes credit for the breach that affected Salesforce customers’ data, and said it is planning another extortion campaign....*
-  📅 Fri, 21 Nov 2025 18:30:27 +0000
-
-- **[X begins rolling out the ‘About this account’ feature to users’ profiles](https://techcrunch.com/2025/11/21/x-begins-rolling-out-the-about-this-account-feature-to-users-profiles/)**
-  *The feature will show where users are based, how they're connected to X, and how many times they've changed their username....*
-  📅 Fri, 21 Nov 2025 18:12:57 +0000
-
 ### 📑 Dev.to
 
-- **[Day 42: Python Roman Numeral Converter, Bidirectional Conversion Between Roman and Integers with Mapping and Loops](https://dev.to/shahrouzlogs/day-42-python-roman-numeral-converter-bidirectional-conversion-between-roman-and-integers-with-1hfg)**
-  *<p>Welcome to Day 42 of the <strong>#80DaysOfChallenges</strong> journey! This intermediate challenge tackles <strong>converting between Roman numerals and integers in both directions</strong>, suppor...*
-  📅 Sat, 22 Nov 2025 12:09:25 +0000
+- **[Andrew Huang: Making a track with the dial-up modem sound](https://dev.to/music_youtube/andrew-huang-making-a-track-with-the-dial-up-modem-sound-1cj1)**
+  *<p>Andrew Huang’s latest video dives into how he turns the iconic dial-up modem screech into a full-blown music track, sharing his step-by-step process and creative hacks. He’s got a ton of extras ove...*
+  📅 Sat, 22 Nov 2025 18:08:46 +0000
 
-- **[CSS](https://dev.to/mujahida_joynab_64c7407d8/css-42ep)**
-  *<p>Font -&gt; Google font<br />
-Icon -&gt; Font Awesome cdn <br />
-For Responsiveness</p>
+- **[Message Throttling with Apache Camel Master Component](https://dev.to/hiclab/message-throttling-with-apache-camel-master-component-166p)**
+  *<h2>
+  
+  
+  The Problem
+</h2>
 
-<p>flex-wrap : wrap </p>
-
-
-
-<h1> Hello Banner </h1>
-
-<p> Lorem ipsum </p>...*
-  📅 Sat, 22 Nov 2025 12:08:39 +0000
+<p>When managing events, it's common to encounter a rapid succession of events within a brief period. For instance, within an application driven by events, creating an ...*
+  📅 Sat, 22 Nov 2025 18:00:31 +0000
 
 </details>
 
@@ -126,103 +121,103 @@ For Responsiveness</p>
 
 ### 📈 Daily Trending
 
-- **[Kindness-Kismet/Stelliberty](https://github.com/Kindness-Kismet/Stelliberty)** ⭐ 98
+- **[Kindness-Kismet/Stelliberty](https://github.com/Kindness-Kismet/Stelliberty)** ⭐ 122
   ![Dart](https://img.shields.io/badge/-Dart-lightgrey)
   A modern proxy client built with Flutter and Rust, powered by Clash Mihomo core
 
-- **[Tokeii0/LovelyERes](https://github.com/Tokeii0/LovelyERes)** ⭐ 24
+- **[Tokeii0/LovelyERes](https://github.com/Tokeii0/LovelyERes)** ⭐ 31
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   Linux应急响应工具
 
-- **[asaheer93/P1CO-D0WNL0AD](https://github.com/asaheer93/P1CO-D0WNL0AD)** ⭐ 17
-  ![None](https://img.shields.io/badge/-None-lightgrey)
+- **[1rhino2/go-memory-visualizer](https://github.com/1rhino2/go-memory-visualizer)** ⭐ 28
+  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   None
 
-- **[mandialkin7453/catalinashar7275](https://github.com/mandialkin7453/catalinashar7275)** ⭐ 17
+- **[mandialkin7453/catalinashar7275](https://github.com/mandialkin7453/catalinashar7275)** ⭐ 23
   ![None](https://img.shields.io/badge/-None-lightgrey)
   ⬇️Link in article⬇️
 
-- **[woauuio/KM5-P1CO-V16.9.2](https://github.com/woauuio/KM5-P1CO-V16.9.2)** ⭐ 17
+- **[CodeXTF2/CustomC2ChannelTemplate](https://github.com/CodeXTF2/CustomC2ChannelTemplate)** ⭐ 18
+  ![C](https://img.shields.io/badge/-C-lightgrey)
+  template for developing custom C2 channels for Cobalt Strike using IAT hooks applied by a reflective loader.
+
+- **[hasinhayder/tyro](https://github.com/hasinhayder/tyro)** ⭐ 16
+  ![PHP](https://img.shields.io/badge/-PHP-lightgrey)
+  Tyro is the zero-config API boilerplate package for Laravel 12. It ships with Sanctum authentication, role/ability management, ready-made routes, seeders, factories, middlewares, and an extensible configuration layer so any Laravel app can install the same battle-tested API surface in minutes.
+
+- **[gbnhjuiklo0p/D1oWNLOd-Her](https://github.com/gbnhjuiklo0p/D1oWNLOd-Her)** ⭐ 14
   ![None](https://img.shields.io/badge/-None-lightgrey)
   None
 
-- **[miboadv/TAI-SHAH-FILE](https://github.com/miboadv/TAI-SHAH-FILE)** ⭐ 14
-  ![None](https://img.shields.io/badge/-None-lightgrey)
-  None
-
-- **[jazzsima/hjadgcd](https://github.com/jazzsima/hjadgcd)** ⭐ 14
-  ![None](https://img.shields.io/badge/-None-lightgrey)
-  None
-
-- **[gbnhjuiklo0p/D1oWNLOd-Her](https://github.com/gbnhjuiklo0p/D1oWNLOd-Her)** ⭐ 12
-  ![None](https://img.shields.io/badge/-None-lightgrey)
-  None
+- **[CrabbieMike/MyriFetch](https://github.com/CrabbieMike/MyriFetch)** ⭐ 13
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  MyriFetch: A modern, multi-threaded GUI downloader for Myrient ROMs. Features a visual browser, bulk queueing, and accelerated "Hydra" downloading. Built with Python & CustomTkinter.
 
 ### 📈 Weekly Trending
 
-- **[straight-tamago/misaka26](https://github.com/straight-tamago/misaka26)** ⭐ 2,232
+- **[straight-tamago/misaka26](https://github.com/straight-tamago/misaka26)** ⭐ 2,276
   ![None](https://img.shields.io/badge/-None-lightgrey)
   iOS /iPadOS 16.0 - 26.1, An ultimate customization tool, uilitizing the bug that makes TrollRestore possible. 
 
-- **[karpathy/reader3](https://github.com/karpathy/reader3)** ⭐ 1,763
+- **[karpathy/reader3](https://github.com/karpathy/reader3)** ⭐ 1,778
   ![Python](https://img.shields.io/badge/-Python-blue)
   Quick illustration of how one can easily read books together with LLMs. It's great and I highly recommend it.
 
-- **[K-Dense-AI/karpathy](https://github.com/K-Dense-AI/karpathy)** ⭐ 881
+- **[K-Dense-AI/karpathy](https://github.com/K-Dense-AI/karpathy)** ⭐ 913
   ![Python](https://img.shields.io/badge/-Python-blue)
   An agentic Machine Learning Engineer
 
-- **[supertone-inc/supertonic](https://github.com/supertone-inc/supertonic)** ⭐ 585
+- **[supertone-inc/supertonic](https://github.com/supertone-inc/supertonic)** ⭐ 606
   ![Swift](https://img.shields.io/badge/-Swift-lightgrey)
   Lightning-fast, on-device TTS — running natively via ONNX.
 
-- **[Norsico/Video-Materials-AutoGEN-Workstation](https://github.com/Norsico/Video-Materials-AutoGEN-Workstation)** ⭐ 539
+- **[Norsico/Video-Materials-AutoGEN-Workstation](https://github.com/Norsico/Video-Materials-AutoGEN-Workstation)** ⭐ 590
   ![Python](https://img.shields.io/badge/-Python-blue)
   一个集内容策划、AI文案自动生成、TTS 批量自动配音、(AI)图片素材合成、ASR自动提取语言字幕脚本、AI自由创作于一体的(短视频)生成工作站。方便管理每期的视频项目。
 
-- **[buyukakyuz/install-nothing](https://github.com/buyukakyuz/install-nothing)** ⭐ 534
+- **[buyukakyuz/install-nothing](https://github.com/buyukakyuz/install-nothing)** ⭐ 550
   ![Rust](https://img.shields.io/badge/-Rust-brown)
   A terminal application that simulates installing things but doesn't actually install anything
 
-- **[hexagonal-sun/moss](https://github.com/hexagonal-sun/moss)** ⭐ 415
+- **[hexagonal-sun/moss](https://github.com/hexagonal-sun/moss)** ⭐ 481
   ![Rust](https://img.shields.io/badge/-Rust-brown)
   Rust Linux-compatible kernel
 
-- **[Tencent-Hunyuan/HunyuanVideo-1.5](https://github.com/Tencent-Hunyuan/HunyuanVideo-1.5)** ⭐ 377
+- **[Tencent-Hunyuan/HunyuanVideo-1.5](https://github.com/Tencent-Hunyuan/HunyuanVideo-1.5)** ⭐ 395
   ![Python](https://img.shields.io/badge/-Python-blue)
   HunyuanVideo-1.5: A leading lightweight video generation model
 
 ### 📈 Monthly Trending
 
-- **[Snapchat/Valdi](https://github.com/Snapchat/Valdi)** ⭐ 12,309
+- **[Snapchat/Valdi](https://github.com/Snapchat/Valdi)** ⭐ 12,378
   ![C++](https://img.shields.io/badge/-C++-pink)
   Valdi is a cross-platform UI framework that delivers native performance without sacrificing developer velocity.
 
-- **[NoFxAiOS/nofx](https://github.com/NoFxAiOS/nofx)** ⭐ 7,956
+- **[NoFxAiOS/nofx](https://github.com/NoFxAiOS/nofx)** ⭐ 7,971
   ![Go](https://img.shields.io/badge/-Go-cyan)
   NOFX: Defining the Next-Generation AI Trading Operating System. A multi-exchange Al trading platform(Binance/Hyperliquid/Aster) with multi-Ai competition(deepseek/qwen/claude)self-evolution, and real-time dashboard
 
-- **[diet103/claude-code-infrastructure-showcase](https://github.com/diet103/claude-code-infrastructure-showcase)** ⭐ 6,948
+- **[diet103/claude-code-infrastructure-showcase](https://github.com/diet103/claude-code-infrastructure-showcase)** ⭐ 6,954
   ![Shell](https://img.shields.io/badge/-Shell-lightgrey)
   Examples of my Claude Code infrastructure with skill auto-activation, hooks, and agents
 
-- **[francescopace/espectre](https://github.com/francescopace/espectre)** ⭐ 3,208
+- **[francescopace/espectre](https://github.com/francescopace/espectre)** ⭐ 3,213
   ![C](https://img.shields.io/badge/-C-lightgrey)
   🛜 ESPectre 👻  - Motion detection system based on Wi-Fi spectre analysis (CSI), with Home Assistant integration.
 
-- **[ByteDance-Seed/Depth-Anything-3](https://github.com/ByteDance-Seed/Depth-Anything-3)** ⭐ 2,542
+- **[ByteDance-Seed/Depth-Anything-3](https://github.com/ByteDance-Seed/Depth-Anything-3)** ⭐ 2,552
   ![Jupyter Notebook](https://img.shields.io/badge/-Jupyter Notebook-lightgrey)
   Depth Anything 3
 
-- **[borndotcom/react-native-godot](https://github.com/borndotcom/react-native-godot)** ⭐ 2,420
+- **[borndotcom/react-native-godot](https://github.com/borndotcom/react-native-godot)** ⭐ 2,422
   ![C++](https://img.shields.io/badge/-C++-pink)
   React Native Godot - Embed Godot Engine in React Native apps
 
-- **[straight-tamago/misaka26](https://github.com/straight-tamago/misaka26)** ⭐ 2,232
+- **[straight-tamago/misaka26](https://github.com/straight-tamago/misaka26)** ⭐ 2,276
   ![None](https://img.shields.io/badge/-None-lightgrey)
   iOS /iPadOS 16.0 - 26.1, An ultimate customization tool, uilitizing the bug that makes TrollRestore possible. 
 
-- **[facebookresearch/omnilingual-asr](https://github.com/facebookresearch/omnilingual-asr)** ⭐ 2,165
+- **[facebookresearch/omnilingual-asr](https://github.com/facebookresearch/omnilingual-asr)** ⭐ 2,172
   ![Python](https://img.shields.io/badge/-Python-blue)
   Omnilingual ASR Open-Source Multilingual SpeechRecognition for 1600+ Languages
 
@@ -489,58 +484,58 @@ for a semver-minor rele...
 
 | Skill | Status |
 |-------|--------|
-| Java | 🟡 Learning |
-| Python | 🟡 Learning |
+| Java | ⚪ Planned |
+| Python | 🟢 Proficient |
 | JavaScript | 🔴 Beginner |
-| TypeScript | 🟢 Proficient |
-| Go | 🟡 Learning |
+| TypeScript | 🔴 Beginner |
+| Go | 🟢 Proficient |
 
 ### Frameworks
 
 | Skill | Status |
 |-------|--------|
-| React | 🟡 Learning |
+| React | 🟢 Proficient |
 | Spring Boot | 🟢 Proficient |
-| Django | 🟢 Proficient |
+| Django | ⚪ Planned |
 | Node.js | ⚪ Planned |
-| Next.js | 🟡 Learning |
+| Next.js | ⚪ Planned |
 
 ### Cybersecurity
 
 | Skill | Status |
 |-------|--------|
-| Penetration Testing | 🔴 Beginner |
-| Web Security | 🟡 Learning |
-| Network Security | 🟢 Proficient |
-| OWASP | 🟢 Proficient |
+| Penetration Testing | ⚪ Planned |
+| Web Security | 🟢 Proficient |
+| Network Security | ⚪ Planned |
+| OWASP | ⚪ Planned |
 
 ### Ai Ml
 
 | Skill | Status |
 |-------|--------|
-| Machine Learning | 🟢 Proficient |
-| Deep Learning | 🔴 Beginner |
+| Machine Learning | 🟡 Learning |
+| Deep Learning | ⚪ Planned |
 | NLP | ⚪ Planned |
-| Computer Vision | 🔴 Beginner |
-| TensorFlow | 🟢 Proficient |
+| Computer Vision | 🟢 Proficient |
+| TensorFlow | 🔴 Beginner |
 | PyTorch | 🔴 Beginner |
 
 ### Devops
 
 | Skill | Status |
 |-------|--------|
-| Docker | 🟡 Learning |
-| Kubernetes | 🟡 Learning |
-| CI/CD | 🟢 Proficient |
-| AWS | 🟢 Proficient |
-| Azure | 🔴 Beginner |
+| Docker | ⚪ Planned |
+| Kubernetes | 🔴 Beginner |
+| CI/CD | ⚪ Planned |
+| AWS | ⚪ Planned |
+| Azure | 🟡 Learning |
 
 ### Other
 
 | Skill | Status |
 |-------|--------|
 | Blockchain | ⚪ Planned |
-| Web3 | 🟢 Proficient |
+| Web3 | 🔴 Beginner |
 | Cloud Computing | ⚪ Planned |
 
 </details>
