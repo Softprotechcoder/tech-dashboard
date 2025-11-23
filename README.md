@@ -7,7 +7,7 @@
 ![AI & ML](https://img.shields.io/badge/-AI%20&%20ML-blue) ![CyberSecurity](https://img.shields.io/badge/-CyberSecurity-red) ![Full Stack Development](https://img.shields.io/badge/-Full%20Stack%20Development-green)
 
 [![Auto Update](https://img.shields.io/badge/Auto%20Update-Enabled-success)](https://github.com/yourusername/tech-dashboard/actions)
-[![Last Updated](https://img.shields.io/badge/Last%20Updated-November 22, 2025-blue)](https://github.com/yourusername/tech-dashboard)
+[![Last Updated](https://img.shields.io/badge/Last%20Updated-November 23, 2025-blue)](https://github.com/yourusername/tech-dashboard)
 
 *Automatically updated every 6 hours with the latest tech news, trending repositories, and learning resources.*
 
@@ -46,34 +46,40 @@
 
 ### 📑 Hacker News
 
-- **[Depot (YC W23) Is Hiring a Staff Infrastructure Engineer](https://www.ycombinator.com/companies/depot/jobs/O2iB56E-staff-infrastructure-engineer)**
-  *<p>Article URL: <a href="https://www.ycombinator.com/companies/depot/jobs/O2iB56E-staff-infrastructure-engineer">https://www.ycombinator.com/companies/depot/jobs/O2iB56E-staff-infrastructure-engineer<...*
-  📅 Sat, 22 Nov 2025 18:05:47 +0000
+- **[How to Spot a Counterfeit Lithium-Ion Battery](https://spectrum.ieee.org/counterfeit-lithium-ion-batteries)**
+  *<p>Article URL: <a href="https://spectrum.ieee.org/counterfeit-lithium-ion-batteries">https://spectrum.ieee.org/counterfeit-lithium-ion-batteries</a></p>
+<p>Comments URL: <a href="https://news.ycombin...*
+  📅 Sat, 22 Nov 2025 23:08:57 +0000
 
-- **[The privacy nightmare of browser fingerprinting](https://kevinboone.me/fingerprinting.html)**
-  *<p>Article URL: <a href="https://kevinboone.me/fingerprinting.html">https://kevinboone.me/fingerprinting.html</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46016249">https://n...*
-  📅 Sat, 22 Nov 2025 17:08:36 +0000
+- **[Windows ARM64 Internals: Deconstructing Pointer Authentication](https://www.preludesecurity.com/blog/windows-arm64-internals-deconstructing-pointer-authentication)**
+  *<p>Article URL: <a href="https://www.preludesecurity.com/blog/windows-arm64-internals-deconstructing-pointer-authentication">https://www.preludesecurity.com/blog/windows-arm64-internals-deconstructing...*
+  📅 Sat, 22 Nov 2025 22:03:29 +0000
 
-- **[In a U.S. First, New Mexico Opens Doors to Free Child Care for All](https://www.wsj.com/us-news/in-a-u-s-first-new-mexico-opens-doors-to-free-child-care-for-all-2dfdea96)**
-  *<p>Article URL: <a href="https://www.wsj.com/us-news/in-a-u-s-first-new-mexico-opens-doors-to-free-child-care-for-all-2dfdea96">https://www.wsj.com/us-news/in-a-u-s-first-new-mexico-opens-doors-to-fre...*
-  📅 Sat, 22 Nov 2025 16:11:12 +0000
+- **[WorldGen – Text to Immersive 3D Worlds](https://www.meta.com/en-gb/blog/worldgen-3d-world-generation-reality-labs-generative-ai-research/)**
+  *<p>Article URL: <a href="https://www.meta.com/en-gb/blog/worldgen-3d-world-generation-reality-labs-generative-ai-research/">https://www.meta.com/en-gb/blog/worldgen-3d-world-generation-reality-labs-ge...*
+  📅 Sat, 22 Nov 2025 21:20:24 +0000
 
-- **[New Apple Study Shows LLMs Can Tell What You're Doing from Audio and Motion Data](https://9to5mac.com/2025/11/21/apple-research-llm-study-audio-motion-activity/)**
-  *<p>Article URL: <a href="https://9to5mac.com/2025/11/21/apple-research-llm-study-audio-motion-activity/">https://9to5mac.com/2025/11/21/apple-research-llm-study-audio-motion-activity/</a></p>
-<p>Comme...*
-  📅 Sat, 22 Nov 2025 15:45:26 +0000
+- **[Kids who own smartphones before age 13 have worse mental health outcomes: Study](https://abcnews.go.com/GMA/Family/kids-smartphones-age-13-worse-mental-health-outcomes/story?id=123961082)**
+  *<p>Article URL: <a href="https://abcnews.go.com/GMA/Family/kids-smartphones-age-13-worse-mental-health-outcomes/story?id=123961082">https://abcnews.go.com/GMA/Family/kids-smartphones-age-13-worse-ment...*
+  📅 Sat, 22 Nov 2025 21:11:15 +0000
 
-- **['The French people want to save us': help pours in for glassmaker Duralex](https://www.theguardian.com/world/2025/nov/22/french-people-want-to-save-us-help-pours-glassmaker-duralex)**
-  *<p>Article URL: <a href="https://www.theguardian.com/world/2025/nov/22/french-people-want-to-save-us-help-pours-glassmaker-duralex">https://www.theguardian.com/world/2025/nov/22/french-people-want-to-...*
-  📅 Sat, 22 Nov 2025 15:14:45 +0000
+- **[Show HN: I built a wizard to turn ideas into AI coding agent-ready specs](https://vibescaffold.dev/)**
+  *<p>I created vibescaffold.dev. It is a wizard-style AI tool that will guide you from idea → vision → tech spec → implementation plan. It will generate all the documents necessary for AI coding agents ...*
+  📅 Sat, 22 Nov 2025 21:02:34 +0000
 
-- **[Agent design is still hard](https://lucumr.pocoo.org/2025/11/21/agents-are-hard/)**
-  *<p>Article URL: <a href="https://lucumr.pocoo.org/2025/11/21/agents-are-hard/">https://lucumr.pocoo.org/2025/11/21/agents-are-hard/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?...*
-  📅 Sat, 22 Nov 2025 11:27:24 +0000
+- **[Show HN: Build the habit of writing meaningful commit messages](https://github.com/arpxspace/smartcommit)**
+  *<p>Too often I find myself being lazy with commit messages. But I don't want AI to write them for me... only i truly know why i wrote the code i did.<p>So why don't i get AI to help me get that into w...*
+  📅 Sat, 22 Nov 2025 20:54:35 +0000
 
 ### 📑 TechCrunch
+
+- **[Trump administration might not fight state AI regulations after all](https://techcrunch.com/2025/11/22/trump-administration-might-not-fight-state-ai-regulations-after-all/)**
+  *A Trump administration order targeting state-level AI regulation is reportedly on hold....*
+  📅 Sat, 22 Nov 2025 22:20:27 +0000
+
+- **[Waymo gets regulatory approval to expand across Bay Area and Southern California](https://techcrunch.com/2025/11/22/waymo-gets-regulatory-approval-to-expand-across-bay-area-and-southern-california/)**
+  *Waymo continues to expand its reach, with the robotaxi company posting Friday that it’s now “officially authorized to drive fully autonomously across more of the Golden State.”...*
+  📅 Sat, 22 Nov 2025 21:45:49 +0000
 
 - **[Meta wants to get into the electricity trading business](https://techcrunch.com/2025/11/22/meta-wants-to-get-into-the-electricity-trading-business/)**
   *In order to accelerate the construction of new power plants needed to provide energy for its data centers, Meta is looking to get into the business of trading electricity....*
@@ -91,29 +97,21 @@
   *X is still used by 21% of U.S. adults, Pew found, only down from 23% in 2021, despite increased competition from Meta, startups, and decentralized social media....*
   📅 Sat, 22 Nov 2025 16:00:00 +0000
 
-- **[How this founder’s unlikely path to Silicon Valley could become an edge in industrial tech](https://techcrunch.com/2025/11/21/how-this-founders-unlikely-path-to-silicon-valley-could-become-an-edge-in-industrial-tech/)**
-  *Young's age and background – things that might seem like disadvantages when it comes to more established industries – have become his secret weapons. When he walks into a room of executives twice or t...*
-  📅 Sat, 22 Nov 2025 03:26:19 +0000
-
-- **[Bret Taylor’s Sierra reaches $100M ARR in under two years](https://techcrunch.com/2025/11/21/bret-taylors-sierra-reaches-100m-arr-in-under-two-years/)**
-  *The startup’s rapid growth suggests that enerprises are embracing AI agents....*
-  📅 Fri, 21 Nov 2025 23:00:08 +0000
-
 ### 📑 Dev.to
 
-- **[Andrew Huang: Making a track with the dial-up modem sound](https://dev.to/music_youtube/andrew-huang-making-a-track-with-the-dial-up-modem-sound-1cj1)**
-  *<p>Andrew Huang’s latest video dives into how he turns the iconic dial-up modem screech into a full-blown music track, sharing his step-by-step process and creative hacks. He’s got a ton of extras ove...*
-  📅 Sat, 22 Nov 2025 18:08:46 +0000
+- **[How Search Engines Actually Answer Your Questions](https://dev.to/superorange0707/how-search-engines-actually-answer-your-questions-h21)**
+  *<p>In 2025, typing <em>“best way to cancel a flight on X airline”</em> into a browser rarely gives you just ten blue links anymore. You get:</p>
 
-- **[Message Throttling with Apache Camel Master Component](https://dev.to/hiclab/message-throttling-with-apache-camel-master-component-166p)**
-  *<h2>
-  
-  
-  The Problem
-</h2>
+<ul>
+<li>a one‑sentence summary,</li>
+<li>a step‑by‑st...*
+  📅 Sun, 23 Nov 2025 00:46:59 +0000
 
-<p>When managing events, it's common to encounter a rapid succession of events within a brief period. For instance, within an application driven by events, creating an ...*
-  📅 Sat, 22 Nov 2025 18:00:31 +0000
+- **[Tech Giants Navigate AI Backlash, Infrastructure Investments, and Future of Work Discussions Amidst Global Developments](https://dev.to/stelixx-insights/tech-giants-navigate-ai-backlash-infrastructure-investments-and-future-of-work-discussions-amidst-i03)**
+  *<p>This post delves into the multifaceted technological landscape, covering critical updates from major players and emerging trends.</p>
+
+<p>We'll explore Google's stance on AI training and user data ...*
+  📅 Sun, 23 Nov 2025 00:35:04 +0000
 
 </details>
 
@@ -121,91 +119,91 @@
 
 ### 📈 Daily Trending
 
-- **[Kindness-Kismet/Stelliberty](https://github.com/Kindness-Kismet/Stelliberty)** ⭐ 122
-  ![Dart](https://img.shields.io/badge/-Dart-lightgrey)
-  A modern proxy client built with Flutter and Rust, powered by Clash Mihomo core
-
-- **[Tokeii0/LovelyERes](https://github.com/Tokeii0/LovelyERes)** ⭐ 31
-  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
-  Linux应急响应工具
-
-- **[1rhino2/go-memory-visualizer](https://github.com/1rhino2/go-memory-visualizer)** ⭐ 28
-  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
+- **[k0974168199-hub/congenial-succotash](https://github.com/k0974168199-hub/congenial-succotash)** ⭐ 2
+  ![None](https://img.shields.io/badge/-None-lightgrey)
   None
 
-- **[mandialkin7453/catalinashar7275](https://github.com/mandialkin7453/catalinashar7275)** ⭐ 23
-  ![None](https://img.shields.io/badge/-None-lightgrey)
-  ⬇️Link in article⬇️
-
-- **[CodeXTF2/CustomC2ChannelTemplate](https://github.com/CodeXTF2/CustomC2ChannelTemplate)** ⭐ 18
-  ![C](https://img.shields.io/badge/-C-lightgrey)
-  template for developing custom C2 channels for Cobalt Strike using IAT hooks applied by a reflective loader.
-
-- **[hasinhayder/tyro](https://github.com/hasinhayder/tyro)** ⭐ 16
+- **[Tsurematsu/Shopper_backend](https://github.com/Tsurematsu/Shopper_backend)** ⭐ 1
   ![PHP](https://img.shields.io/badge/-PHP-lightgrey)
-  Tyro is the zero-config API boilerplate package for Laravel 12. It ships with Sanctum authentication, role/ability management, ready-made routes, seeders, factories, middlewares, and an extensible configuration layer so any Laravel app can install the same battle-tested API surface in minutes.
-
-- **[gbnhjuiklo0p/D1oWNLOd-Her](https://github.com/gbnhjuiklo0p/D1oWNLOd-Her)** ⭐ 14
-  ![None](https://img.shields.io/badge/-None-lightgrey)
   None
 
-- **[CrabbieMike/MyriFetch](https://github.com/CrabbieMike/MyriFetch)** ⭐ 13
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  MyriFetch: A modern, multi-threaded GUI downloader for Myrient ROMs. Features a visual browser, bulk queueing, and accelerated "Hydra" downloading. Built with Python & CustomTkinter.
+- **[arout77/Dugout-Dynasty](https://github.com/arout77/Dugout-Dynasty)** ⭐ 1
+  ![Twig](https://img.shields.io/badge/-Twig-lightgrey)
+  A baseball simulation web app using historical players. Draft your players now!
+
+- **[0xVector0/Spl-Vault](https://github.com/0xVector0/Spl-Vault)** ⭐ 1
+  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
+  A simple vault smart contract where you can deposit and withdraw tokens. 
+
+- **[Tsurematsu/Shopper](https://github.com/Tsurematsu/Shopper)** ⭐ 1
+  ![Java](https://img.shields.io/badge/-Java-orange)
+  None
+
+- **[JoaoManoelAlves/Estrutura-de-dados](https://github.com/JoaoManoelAlves/Estrutura-de-dados)** ⭐ 1
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
+  None
+
+- **[Logrui/suna-community-old](https://github.com/Logrui/suna-community-old)** ⭐ 1
+  ![None](https://img.shields.io/badge/-None-lightgrey)
+  A list of awesome suna kortix forks and new features/custom features
+
+- **[fluvintiden1983/find](https://github.com/fluvintiden1983/find)** ⭐ 1
+  ![None](https://img.shields.io/badge/-None-lightgrey)
+  Discover under 🔎⬇️
 
 ### 📈 Weekly Trending
 
-- **[straight-tamago/misaka26](https://github.com/straight-tamago/misaka26)** ⭐ 2,276
-  ![None](https://img.shields.io/badge/-None-lightgrey)
-  iOS /iPadOS 16.0 - 26.1, An ultimate customization tool, uilitizing the bug that makes TrollRestore possible. 
-
-- **[karpathy/reader3](https://github.com/karpathy/reader3)** ⭐ 1,778
+- **[karpathy/reader3](https://github.com/karpathy/reader3)** ⭐ 1,801
   ![Python](https://img.shields.io/badge/-Python-blue)
   Quick illustration of how one can easily read books together with LLMs. It's great and I highly recommend it.
 
-- **[K-Dense-AI/karpathy](https://github.com/K-Dense-AI/karpathy)** ⭐ 913
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  An agentic Machine Learning Engineer
-
-- **[supertone-inc/supertonic](https://github.com/supertone-inc/supertonic)** ⭐ 606
+- **[supertone-inc/supertonic](https://github.com/supertone-inc/supertonic)** ⭐ 628
   ![Swift](https://img.shields.io/badge/-Swift-lightgrey)
   Lightning-fast, on-device TTS — running natively via ONNX.
 
-- **[Norsico/Video-Materials-AutoGEN-Workstation](https://github.com/Norsico/Video-Materials-AutoGEN-Workstation)** ⭐ 590
+- **[Norsico/Video-Materials-AutoGEN-Workstation](https://github.com/Norsico/Video-Materials-AutoGEN-Workstation)** ⭐ 597
   ![Python](https://img.shields.io/badge/-Python-blue)
   一个集内容策划、AI文案自动生成、TTS 批量自动配音、(AI)图片素材合成、ASR自动提取语言字幕脚本、AI自由创作于一体的(短视频)生成工作站。方便管理每期的视频项目。
 
-- **[buyukakyuz/install-nothing](https://github.com/buyukakyuz/install-nothing)** ⭐ 550
+- **[buyukakyuz/install-nothing](https://github.com/buyukakyuz/install-nothing)** ⭐ 570
   ![Rust](https://img.shields.io/badge/-Rust-brown)
   A terminal application that simulates installing things but doesn't actually install anything
 
-- **[hexagonal-sun/moss](https://github.com/hexagonal-sun/moss)** ⭐ 481
+- **[hexagonal-sun/moss](https://github.com/hexagonal-sun/moss)** ⭐ 521
   ![Rust](https://img.shields.io/badge/-Rust-brown)
   Rust Linux-compatible kernel
 
-- **[Tencent-Hunyuan/HunyuanVideo-1.5](https://github.com/Tencent-Hunyuan/HunyuanVideo-1.5)** ⭐ 395
+- **[Tencent-Hunyuan/HunyuanVideo-1.5](https://github.com/Tencent-Hunyuan/HunyuanVideo-1.5)** ⭐ 409
   ![Python](https://img.shields.io/badge/-Python-blue)
   HunyuanVideo-1.5: A leading lightweight video generation model
 
+- **[deepseek-ai/LPLB](https://github.com/deepseek-ai/LPLB)** ⭐ 320
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  An early research stage MoE load balancer based on inear programming.
+
+- **[dzhng/claude-agent-server](https://github.com/dzhng/claude-agent-server)** ⭐ 318
+  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
+  Run Claude Agent (Claude Code) in a sandbox, control it via websocket
+
 ### 📈 Monthly Trending
 
-- **[Snapchat/Valdi](https://github.com/Snapchat/Valdi)** ⭐ 12,378
+- **[Snapchat/Valdi](https://github.com/Snapchat/Valdi)** ⭐ 12,440
   ![C++](https://img.shields.io/badge/-C++-pink)
   Valdi is a cross-platform UI framework that delivers native performance without sacrificing developer velocity.
 
-- **[NoFxAiOS/nofx](https://github.com/NoFxAiOS/nofx)** ⭐ 7,971
+- **[NoFxAiOS/nofx](https://github.com/NoFxAiOS/nofx)** ⭐ 7,977
   ![Go](https://img.shields.io/badge/-Go-cyan)
   NOFX: Defining the Next-Generation AI Trading Operating System. A multi-exchange Al trading platform(Binance/Hyperliquid/Aster) with multi-Ai competition(deepseek/qwen/claude)self-evolution, and real-time dashboard
 
-- **[diet103/claude-code-infrastructure-showcase](https://github.com/diet103/claude-code-infrastructure-showcase)** ⭐ 6,954
+- **[diet103/claude-code-infrastructure-showcase](https://github.com/diet103/claude-code-infrastructure-showcase)** ⭐ 6,961
   ![Shell](https://img.shields.io/badge/-Shell-lightgrey)
   Examples of my Claude Code infrastructure with skill auto-activation, hooks, and agents
 
-- **[francescopace/espectre](https://github.com/francescopace/espectre)** ⭐ 3,213
+- **[francescopace/espectre](https://github.com/francescopace/espectre)** ⭐ 3,223
   ![C](https://img.shields.io/badge/-C-lightgrey)
   🛜 ESPectre 👻  - Motion detection system based on Wi-Fi spectre analysis (CSI), with Home Assistant integration.
 
-- **[ByteDance-Seed/Depth-Anything-3](https://github.com/ByteDance-Seed/Depth-Anything-3)** ⭐ 2,552
+- **[ByteDance-Seed/Depth-Anything-3](https://github.com/ByteDance-Seed/Depth-Anything-3)** ⭐ 2,562
   ![Jupyter Notebook](https://img.shields.io/badge/-Jupyter Notebook-lightgrey)
   Depth Anything 3
 
@@ -213,11 +211,11 @@
   ![C++](https://img.shields.io/badge/-C++-pink)
   React Native Godot - Embed Godot Engine in React Native apps
 
-- **[straight-tamago/misaka26](https://github.com/straight-tamago/misaka26)** ⭐ 2,276
+- **[straight-tamago/misaka26](https://github.com/straight-tamago/misaka26)** ⭐ 2,303
   ![None](https://img.shields.io/badge/-None-lightgrey)
   iOS /iPadOS 16.0 - 26.1, An ultimate customization tool, uilitizing the bug that makes TrollRestore possible. 
 
-- **[facebookresearch/omnilingual-asr](https://github.com/facebookresearch/omnilingual-asr)** ⭐ 2,172
+- **[facebookresearch/omnilingual-asr](https://github.com/facebookresearch/omnilingual-asr)** ⭐ 2,177
   ![Python](https://img.shields.io/badge/-Python-blue)
   Omnilingual ASR Open-Source Multilingual SpeechRecognition for 1600+ Languages
 
@@ -484,59 +482,59 @@ for a semver-minor rele...
 
 | Skill | Status |
 |-------|--------|
-| Java | ⚪ Planned |
-| Python | 🟢 Proficient |
-| JavaScript | 🔴 Beginner |
-| TypeScript | 🔴 Beginner |
+| Java | 🟢 Proficient |
+| Python | 🟡 Learning |
+| JavaScript | ⚪ Planned |
+| TypeScript | 🟡 Learning |
 | Go | 🟢 Proficient |
 
 ### Frameworks
 
 | Skill | Status |
 |-------|--------|
-| React | 🟢 Proficient |
-| Spring Boot | 🟢 Proficient |
-| Django | ⚪ Planned |
-| Node.js | ⚪ Planned |
-| Next.js | ⚪ Planned |
+| React | 🔴 Beginner |
+| Spring Boot | 🟡 Learning |
+| Django | 🔴 Beginner |
+| Node.js | 🟢 Proficient |
+| Next.js | 🟡 Learning |
 
 ### Cybersecurity
 
 | Skill | Status |
 |-------|--------|
-| Penetration Testing | ⚪ Planned |
+| Penetration Testing | 🟢 Proficient |
 | Web Security | 🟢 Proficient |
-| Network Security | ⚪ Planned |
+| Network Security | 🟢 Proficient |
 | OWASP | ⚪ Planned |
 
 ### Ai Ml
 
 | Skill | Status |
 |-------|--------|
-| Machine Learning | 🟡 Learning |
-| Deep Learning | ⚪ Planned |
-| NLP | ⚪ Planned |
+| Machine Learning | ⚪ Planned |
+| Deep Learning | 🔴 Beginner |
+| NLP | 🟢 Proficient |
 | Computer Vision | 🟢 Proficient |
-| TensorFlow | 🔴 Beginner |
-| PyTorch | 🔴 Beginner |
+| TensorFlow | 🟡 Learning |
+| PyTorch | ⚪ Planned |
 
 ### Devops
 
 | Skill | Status |
 |-------|--------|
 | Docker | ⚪ Planned |
-| Kubernetes | 🔴 Beginner |
-| CI/CD | ⚪ Planned |
-| AWS | ⚪ Planned |
+| Kubernetes | ⚪ Planned |
+| CI/CD | 🟢 Proficient |
+| AWS | 🟡 Learning |
 | Azure | 🟡 Learning |
 
 ### Other
 
 | Skill | Status |
 |-------|--------|
-| Blockchain | ⚪ Planned |
-| Web3 | 🔴 Beginner |
-| Cloud Computing | ⚪ Planned |
+| Blockchain | 🟢 Proficient |
+| Web3 | 🟡 Learning |
+| Cloud Computing | 🟡 Learning |
 
 </details>
 
@@ -554,7 +552,7 @@ This dashboard is automatically updated every 6 hours using GitHub Actions. The 
 
 <div align="center">
 
-**Last Updated:** November 22, 2025
+**Last Updated:** November 23, 2025
 
 Made with ❤️ and automated with GitHub Actions
 
