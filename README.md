@@ -46,6 +46,20 @@
 
 ### 📑 Hacker News
 
+- **[Most Stable Raspberry Pi? 81% Better NTP with Thermal Management](https://austinsnerdythings.com/2025/11/24/worlds-most-stable-raspberry-pi-81-better-ntp-with-thermal-management/)**
+  *<p>Article URL: <a href="https://austinsnerdythings.com/2025/11/24/worlds-most-stable-raspberry-pi-81-better-ntp-with-thermal-management/">https://austinsnerdythings.com/2025/11/24/worlds-most-stable-...*
+  📅 Tue, 25 Nov 2025 06:35:59 +0000
+
+- **[Human brains are preconfigured with instructions for understanding the world](https://news.ucsc.edu/2025/11/sharf-preconfigured-brain/)**
+  *<p>Article URL: <a href="https://news.ucsc.edu/2025/11/sharf-preconfigured-brain/">https://news.ucsc.edu/2025/11/sharf-preconfigured-brain/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.c...*
+  📅 Tue, 25 Nov 2025 06:31:31 +0000
+
+- **[AI has a deep understanding of how this code works](https://github.com/ocaml/ocaml/pull/14369)**
+  *<p>Article URL: <a href="https://github.com/ocaml/ocaml/pull/14369">https://github.com/ocaml/ocaml/pull/14369</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46039274">https://n...*
+  📅 Mon, 24 Nov 2025 21:03:22 +0000
+
 - **[PS5 now costs less than 64GB of DDR5 memory. RAM jumps to $600 due to shortage](https://www.tomshardware.com/pc-components/ddr5/64gb-of-ddr5-memory-now-costs-more-than-an-entire-ps5-even-after-a-discount-trident-z5-neo-kit-jumps-to-usd600-due-to-dram-shortage-and-its-expected-to-get-worse-into-2026)**
   *<p>Article URL: <a href="https://www.tomshardware.com/pc-components/ddr5/64gb-of-ddr5-memory-now-costs-more-than-an-entire-ps5-even-after-a-discount-trident-z5-neo-kit-jumps-to-usd600-due-to-dram-shor...*
   📅 Mon, 24 Nov 2025 19:29:12 +0000
@@ -59,22 +73,6 @@
   *<p>Article URL: <a href="https://www.anthropic.com/engineering/advanced-tool-use">https://www.anthropic.com/engineering/advanced-tool-use</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com...*
   📅 Mon, 24 Nov 2025 19:21:35 +0000
-
-- **[Claude Opus 4.5](https://www.anthropic.com/news/claude-opus-4-5)**
-  *<p><a href="https://platform.claude.com/docs/en/about-claude/models/whats-new-claude-4-5" rel="nofollow">https://platform.claude.com/docs/en/about-claude/models/what...</a></p>
-<hr />
-<p>Comments URL:...*
-  📅 Mon, 24 Nov 2025 18:53:05 +0000
-
-- **[Pebble Watch software is now 100% open source](https://ericmigi.com/blog/pebble-watch-software-is-now-100percent-open-source)**
-  *<p>Article URL: <a href="https://ericmigi.com/blog/pebble-watch-software-is-now-100percent-open-source">https://ericmigi.com/blog/pebble-watch-software-is-now-100percent-open-source</a></p>
-<p>Comment...*
-  📅 Mon, 24 Nov 2025 18:52:12 +0000
-
-- **[Google's new 'Aluminium OS' project brings Android to PC](https://www.androidauthority.com/aluminium-os-android-for-pcs-3619092/)**
-  *<p>Article URL: <a href="https://www.androidauthority.com/aluminium-os-android-for-pcs-3619092/">https://www.androidauthority.com/aluminium-os-android-for-pcs-3619092/</a></p>
-<p>Comments URL: <a href...*
-  📅 Mon, 24 Nov 2025 18:49:47 +0000
 
 ### 📑 TechCrunch
 
@@ -104,26 +102,22 @@
 
 ### 📑 Dev.to
 
-- **[7 Must-Try Open-Source AI Coding Models for Privacy, Speed, and Control](https://dev.to/aiwithapex/7-must-try-open-source-ai-coding-models-for-privacy-speed-and-control-2bk0)**
-  *<p>Most people think running AI coding models locally is confusing, slow, and not worth it—here's the simple playbook for private, fast dev that works ↓<br />
-You don't need the cloud to ship faster.<...*
-  📅 Tue, 25 Nov 2025 06:04:51 +0000
+- **[Dynamic Log file for each spiders: Scrapy Logging](https://dev.to/ajitkumar/dynamic-log-file-for-each-spiders-scrapy-logging-11a0)**
+  *<p>To dynamically assign a log file without modifying the settings directly, you need to set up logging outside the immutable settings object. Here's how to fix this:</p>
 
-- **[Construyendo tu Propio C2 con Nim (Porque Python ya es muy Mainstream)](https://dev.to/rventz/construyendo-tu-propio-c2-con-nim-porque-python-ya-es-muy-mainstream-3acj)**
-  *<h6>
+
+
+
+<h3>
   
   
-  # Disclaimer: Úsalo solo en entornos que controles o tengas permiso explícito. Ya sabes, ética y esas cosas aburridas pero necesarias.
-</h6>
+  Updated Solu...*
+  📅 Tue, 25 Nov 2025 12:20:06 +0000
 
-
-
-
-<h2>
-  
-  
-  ¿Por Qué Nim? (Y Por Qué Debe...*
-  📅 Tue, 25 Nov 2025 06:04:00 +0000
+- **[Zero-Effort ER Diagrams in Django: Auto-Generate Directly From Your Models](https://dev.to/ajitkumar/zero-effort-er-diagrams-in-django-auto-generate-directly-from-your-models-1ji3)**
+  *<p>When a Django project starts small, model relationships are easy to understand.<br />
+But as the project grows — new apps, foreign keys everywhere, business logic stacked across modules — suddenly:...*
+  📅 Tue, 25 Nov 2025 12:14:28 +0000
 
 </details>
 
@@ -131,95 +125,95 @@ You don't need the cloud to ship faster.<...*
 
 ### 📈 Daily Trending
 
-- **[Hiraethsoul/Algorithm-Lib](https://github.com/Hiraethsoul/Algorithm-Lib)** ⭐ 8
+- **[jwangkun/ai-coding-prompt-java](https://github.com/jwangkun/ai-coding-prompt-java)** ⭐ 135
   ![None](https://img.shields.io/badge/-None-lightgrey)
-  这是一个退役acmer的算法竞赛模板仓库
+  java+vue3+uniapp全栈开发Prompt
 
-- **[lqs22yeah/DRAM-based-PIM-Survey](https://github.com/lqs22yeah/DRAM-based-PIM-Survey)** ⭐ 5
-  ![None](https://img.shields.io/badge/-None-lightgrey)
-  Breaking the Memory Wall: A Survey of DRAM-based Processing-In-Memory Architectures and Systems
+- **[HisMax/RedInk](https://github.com/HisMax/RedInk)** ⭐ 64
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  红墨 - 基于🍌Nano Banana Pro🍌 的一站式小红书图文生成器 《一句话一张图片生成小红书图文》
 
-- **[kent010341/bno-random-walk](https://github.com/kent010341/bno-random-walk)** ⭐ 5
+- **[xPOURY4/AI-Links](https://github.com/xPOURY4/AI-Links)** ⭐ 36
   ![HTML](https://img.shields.io/badge/-HTML-lightgrey)
+  A curated list of the best AI Chatbots, Image Generators, and Coding Tools. Fast, secure, and organized.
+
+- **[alibaba/PyFlightProfiler](https://github.com/alibaba/PyFlightProfiler)** ⭐ 18
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  A diagnostic toolbox for Python applications that provides non-intrusive, low-overhead capabilities for online analysis.
+
+- **[verl-project/verl-recipe](https://github.com/verl-project/verl-recipe)** ⭐ 12
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  A set of examples based on verl for end-to-end RL training recipes.
+
+- **[alibaba/Z-Image](https://github.com/alibaba/Z-Image)** ⭐ 12
+  ![None](https://img.shields.io/badge/-None-lightgrey)
   None
 
-- **[HeftyKoo/retro-camera](https://github.com/HeftyKoo/retro-camera)** ⭐ 5
-  ![Vue](https://img.shields.io/badge/-Vue-lightgrey)
-  uni-app version of  https://x.com/ann_nnng/status/1991079810882265254
+- **[AsaFarley/ummr-khn](https://github.com/AsaFarley/ummr-khn)** ⭐ 12
+  ![None](https://img.shields.io/badge/-None-lightgrey)
+  None
 
-- **[bystart/scan-my-subnet](https://github.com/bystart/scan-my-subnet)** ⭐ 3
-  ![HTML](https://img.shields.io/badge/-HTML-lightgrey)
-  一个基于Python3 + Vue3 打造的IP地址资源扫描器，通过添加指定网段扫描该网段内的IP占用情况。按照不同IP段进行分组扫描和展示。
-
-- **[Anemll/mlx-rdma](https://github.com/Anemll/mlx-rdma)** ⭐ 3
-  ![C++](https://img.shields.io/badge/-C++-pink)
-  experiments with MLX
-
-- **[93won/360_visual_inertial_odometry](https://github.com/93won/360_visual_inertial_odometry)** ⭐ 3
-  ![C++](https://img.shields.io/badge/-C++-pink)
-  Visual-Inertial Odometry using 360 Camera
-
-- **[Knexyce/kdph](https://github.com/Knexyce/kdph)** ⭐ 3
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  A lightweight and versatile software manager. KDPH is efficient for language-agnostic OS-agnostic secure encrypted code management utilizing GitHub. KDPH's author is Knexyce.
+- **[howlux8396/iraiadariast6076](https://github.com/howlux8396/iraiadariast6076)** ⭐ 10
+  ![None](https://img.shields.io/badge/-None-lightgrey)
+  ⬇️Link in article⬇️
 
 ### 📈 Weekly Trending
 
-- **[karpathy/llm-council](https://github.com/karpathy/llm-council)** ⭐ 4,966
+- **[karpathy/llm-council](https://github.com/karpathy/llm-council)** ⭐ 5,325
   ![Python](https://img.shields.io/badge/-Python-blue)
   LLM Council works together to answer your hardest questions
 
-- **[hexagonal-sun/moss](https://github.com/hexagonal-sun/moss)** ⭐ 725
+- **[hexagonal-sun/moss](https://github.com/hexagonal-sun/moss)** ⭐ 740
   ![Rust](https://img.shields.io/badge/-Rust-brown)
   Rust Linux-compatible kernel
 
-- **[Tencent-Hunyuan/HunyuanVideo-1.5](https://github.com/Tencent-Hunyuan/HunyuanVideo-1.5)** ⭐ 617
+- **[Tencent-Hunyuan/HunyuanVideo-1.5](https://github.com/Tencent-Hunyuan/HunyuanVideo-1.5)** ⭐ 648
   ![Python](https://img.shields.io/badge/-Python-blue)
   HunyuanVideo-1.5: A leading lightweight video generation model
 
-- **[Ryandonofrio3/osgrep](https://github.com/Ryandonofrio3/osgrep)** ⭐ 484
-  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
-  Open Source Semantic Search for your AI Agent
-
-- **[glidea/banana-prompt-quicker](https://github.com/glidea/banana-prompt-quicker)** ⭐ 469
+- **[glidea/banana-prompt-quicker](https://github.com/glidea/banana-prompt-quicker)** ⭐ 498
   ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
   🍌Awesome Prompts; Nano Banana；Banana Pro; Gemini；AI Studio；Prompt Quickly
 
-- **[dzhng/claude-agent-server](https://github.com/dzhng/claude-agent-server)** ⭐ 391
+- **[Ryandonofrio3/osgrep](https://github.com/Ryandonofrio3/osgrep)** ⭐ 490
+  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
+  Open Source Semantic Search for your AI Agent
+
+- **[dzhng/claude-agent-server](https://github.com/dzhng/claude-agent-server)** ⭐ 394
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   Run Claude Agent (Claude Code) in a sandbox, control it via websocket
 
-- **[deepseek-ai/LPLB](https://github.com/deepseek-ai/LPLB)** ⭐ 363
+- **[deepseek-ai/LPLB](https://github.com/deepseek-ai/LPLB)** ⭐ 370
   ![Python](https://img.shields.io/badge/-Python-blue)
   An early research stage MoE load balancer based on inear programming.
 
-- **[ZimengXiong/ExcaliDash](https://github.com/ZimengXiong/ExcaliDash)** ⭐ 329
-  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
-  A self hosted dashboard and organizer for Excalidraw with live collaboration.
+- **[mshumer/autonomous-researcher](https://github.com/mshumer/autonomous-researcher)** ⭐ 344
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  None
 
 ### 📈 Monthly Trending
 
-- **[Snapchat/Valdi](https://github.com/Snapchat/Valdi)** ⭐ 13,182
+- **[Snapchat/Valdi](https://github.com/Snapchat/Valdi)** ⭐ 13,327
   ![C++](https://img.shields.io/badge/-C++-pink)
   Valdi is a cross-platform UI framework that delivers native performance without sacrificing developer velocity.
 
-- **[NoFxAiOS/nofx](https://github.com/NoFxAiOS/nofx)** ⭐ 8,071
+- **[NoFxAiOS/nofx](https://github.com/NoFxAiOS/nofx)** ⭐ 8,077
   ![Go](https://img.shields.io/badge/-Go-cyan)
   NOFX: Defining the Next-Generation AI Trading Operating System. A multi-exchange Al trading platform(Binance/Hyperliquid/Aster) with multi-Ai competition(deepseek/qwen/claude)self-evolution, and real-time dashboard
 
-- **[diet103/claude-code-infrastructure-showcase](https://github.com/diet103/claude-code-infrastructure-showcase)** ⭐ 7,088
+- **[diet103/claude-code-infrastructure-showcase](https://github.com/diet103/claude-code-infrastructure-showcase)** ⭐ 7,115
   ![Shell](https://img.shields.io/badge/-Shell-lightgrey)
   Examples of my Claude Code infrastructure with skill auto-activation, hooks, and agents
 
-- **[karpathy/llm-council](https://github.com/karpathy/llm-council)** ⭐ 4,966
+- **[karpathy/llm-council](https://github.com/karpathy/llm-council)** ⭐ 5,325
   ![Python](https://img.shields.io/badge/-Python-blue)
   LLM Council works together to answer your hardest questions
 
-- **[ByteDance-Seed/Depth-Anything-3](https://github.com/ByteDance-Seed/Depth-Anything-3)** ⭐ 2,758
+- **[ByteDance-Seed/Depth-Anything-3](https://github.com/ByteDance-Seed/Depth-Anything-3)** ⭐ 2,784
   ![Jupyter Notebook](https://img.shields.io/badge/-Jupyter Notebook-lightgrey)
   Depth Anything 3
 
-- **[straight-tamago/misaka26](https://github.com/straight-tamago/misaka26)** ⭐ 2,547
+- **[straight-tamago/misaka26](https://github.com/straight-tamago/misaka26)** ⭐ 2,569
   ![None](https://img.shields.io/badge/-None-lightgrey)
   iOS /iPadOS 16.0 - 26.1, An ultimate customization tool, uilitizing the bug that makes TrollRestore possible. 
 
@@ -227,7 +221,7 @@ You don't need the cloud to ship faster.<...*
   ![C++](https://img.shields.io/badge/-C++-pink)
   React Native Godot - Embed Godot Engine in React Native apps
 
-- **[facebookresearch/omnilingual-asr](https://github.com/facebookresearch/omnilingual-asr)** ⭐ 2,244
+- **[facebookresearch/omnilingual-asr](https://github.com/facebookresearch/omnilingual-asr)** ⭐ 2,252
   ![Python](https://img.shields.io/badge/-Python-blue)
   Omnilingual ASR Open-Source Multilingual SpeechRecognition for 1600+ Languages
 
@@ -494,20 +488,20 @@ for a semver-minor rele...
 
 | Skill | Status |
 |-------|--------|
-| Java | ⚪ Planned |
-| Python | 🟢 Proficient |
-| JavaScript | ⚪ Planned |
-| TypeScript | 🟢 Proficient |
-| Go | 🟢 Proficient |
+| Java | 🟡 Learning |
+| Python | ⚪ Planned |
+| JavaScript | 🟡 Learning |
+| TypeScript | ⚪ Planned |
+| Go | 🟡 Learning |
 
 ### Frameworks
 
 | Skill | Status |
 |-------|--------|
 | React | ⚪ Planned |
-| Spring Boot | 🟢 Proficient |
+| Spring Boot | ⚪ Planned |
 | Django | 🟢 Proficient |
-| Node.js | 🔴 Beginner |
+| Node.js | 🟢 Proficient |
 | Next.js | 🟡 Learning |
 
 ### Cybersecurity
@@ -515,27 +509,27 @@ for a semver-minor rele...
 | Skill | Status |
 |-------|--------|
 | Penetration Testing | 🟡 Learning |
-| Web Security | 🟢 Proficient |
-| Network Security | 🔴 Beginner |
-| OWASP | ⚪ Planned |
+| Web Security | ⚪ Planned |
+| Network Security | ⚪ Planned |
+| OWASP | 🔴 Beginner |
 
 ### Ai Ml
 
 | Skill | Status |
 |-------|--------|
 | Machine Learning | 🟡 Learning |
-| Deep Learning | 🔴 Beginner |
-| NLP | 🟢 Proficient |
-| Computer Vision | 🟢 Proficient |
-| TensorFlow | 🔴 Beginner |
-| PyTorch | ⚪ Planned |
+| Deep Learning | 🟢 Proficient |
+| NLP | 🟡 Learning |
+| Computer Vision | ⚪ Planned |
+| TensorFlow | 🟢 Proficient |
+| PyTorch | 🟡 Learning |
 
 ### Devops
 
 | Skill | Status |
 |-------|--------|
-| Docker | 🟢 Proficient |
-| Kubernetes | 🟡 Learning |
+| Docker | ⚪ Planned |
+| Kubernetes | 🔴 Beginner |
 | CI/CD | ⚪ Planned |
 | AWS | 🟡 Learning |
 | Azure | 🔴 Beginner |
@@ -544,9 +538,9 @@ for a semver-minor rele...
 
 | Skill | Status |
 |-------|--------|
-| Blockchain | ⚪ Planned |
-| Web3 | 🟡 Learning |
-| Cloud Computing | 🟡 Learning |
+| Blockchain | 🟢 Proficient |
+| Web3 | 🟢 Proficient |
+| Cloud Computing | 🔴 Beginner |
 
 </details>
 
