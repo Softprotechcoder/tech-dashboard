@@ -46,32 +46,34 @@
 
 ### 📑 Hacker News
 
-- **[The gruesome new data on tech jobs](https://www.businessinsider.com/gruesome-tech-jobs-data-scientists-analytics-indeed-2025-11)**
-  *<p>Article URL: <a href="https://www.businessinsider.com/gruesome-tech-jobs-data-scientists-analytics-indeed-2025-11">https://www.businessinsider.com/gruesome-tech-jobs-data-scientists-analytics-indee...*
-  📅 Wed, 26 Nov 2025 00:14:21 +0000
-
-- **[The Generative Burrito Test](https://www.generativist.com/notes/2025/Nov/25/generative-burrito-test.html)**
-  *<p>Article URL: <a href="https://www.generativist.com/notes/2025/Nov/25/generative-burrito-test.html">https://www.generativist.com/notes/2025/Nov/25/generative-burrito-test.html</a></p>
+- **[The myth of reflected power (2017)](https://www.iz2uuf.net/wp/index.php/2017/07/29/the-myth-of-reflected-power/)**
+  *<p>Article URL: <a href="https://www.iz2uuf.net/wp/index.php/2017/07/29/the-myth-of-reflected-power/">https://www.iz2uuf.net/wp/index.php/2017/07/29/the-myth-of-reflected-power/</a></p>
 <p>Comments UR...*
-  📅 Tue, 25 Nov 2025 23:28:17 +0000
+  📅 Wed, 26 Nov 2025 03:05:29 +0000
 
-- **[LLVM Adds Constant-Time Support for Protecting Cryptographic Code](https://blog.trailofbits.com/2025/11/25/constant-time-support-lands-in-llvm-protecting-cryptographic-code-at-the-compiler-level/)**
-  *<p>Article URL: <a href="https://blog.trailofbits.com/2025/11/25/constant-time-support-lands-in-llvm-protecting-cryptographic-code-at-the-compiler-level/">https://blog.trailofbits.com/2025/11/25/const...*
-  📅 Tue, 25 Nov 2025 23:26:38 +0000
+- **[Space Truckin' – The Nostromo (2012)](https://alienseries.wordpress.com/2012/10/23/space-truckin-the-nostromo/)**
+  *<p>Article URL: <a href="https://alienseries.wordpress.com/2012/10/23/space-truckin-the-nostromo/">https://alienseries.wordpress.com/2012/10/23/space-truckin-the-nostromo/</a></p>
+<p>Comments URL: <a ...*
+  📅 Wed, 26 Nov 2025 02:31:41 +0000
 
-- **[Notes on the Troubleshooting and Repair of Computer and Video Monitors](https://www.repairfaq.org/sam/monfaq.htm)**
-  *<p>Article URL: <a href="https://www.repairfaq.org/sam/monfaq.htm">https://www.repairfaq.org/sam/monfaq.htm</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46051724">https://new...*
-  📅 Tue, 25 Nov 2025 22:40:52 +0000
+- **[Show HN: A WordPress plugin that rewrites image URLs for near-zero-cost delivery](https://wordpress.org/plugins/bandwidth-saver/)**
+  *<p>Hi HN,<p>I built a WordPress plugin called Bandwidth Saver. It takes the images your site already has and serves them through Cloudflare R2 and Workers, which means zero egress fees and extremely l...*
+  📅 Wed, 26 Nov 2025 02:05:36 +0000
 
-- **[Reinventing how .NET builds and ships (again)](https://devblogs.microsoft.com/dotnet/reinventing-how-dotnet-builds-and-ships-again/)**
-  *<p>Article URL: <a href="https://devblogs.microsoft.com/dotnet/reinventing-how-dotnet-builds-and-ships-again/">https://devblogs.microsoft.com/dotnet/reinventing-how-dotnet-builds-and-ships-again/</a><...*
-  📅 Tue, 25 Nov 2025 22:37:48 +0000
+- **[BebboSSH: SSH2 implementation for Amiga systems (68000, GPLv3)](https://franke.ms/git/bebbo/bebbossh)**
+  *<p>Article URL: <a href="https://franke.ms/git/bebbo/bebbossh">https://franke.ms/git/bebbo/bebbossh</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46053262">https://news.ycombi...*
+  📅 Wed, 26 Nov 2025 01:51:26 +0000
 
-- **[A DOOM vector engine for rendering in KiCad, and over an audio jack](https://www.mikeayles.com/#kidoom)**
-  *<p>Article URL: <a href="https://www.mikeayles.com/#kidoom">https://www.mikeayles.com/#kidoom</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46051449">https://news.ycombinator....*
-  📅 Tue, 25 Nov 2025 22:13:35 +0000
+- **[Space: 1999 – Special Effects Techniques](https://catacombs.space1999.net/main/pguide/upsfx.html)**
+  *<p>Article URL: <a href="https://catacombs.space1999.net/main/pguide/upsfx.html">https://catacombs.space1999.net/main/pguide/upsfx.html</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/i...*
+  📅 Wed, 26 Nov 2025 01:19:17 +0000
+
+- **[CS234: Reinforcement Learning Winter 2025](https://web.stanford.edu/class/cs234/)**
+  *<p>Article URL: <a href="https://web.stanford.edu/class/cs234/">https://web.stanford.edu/class/cs234/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46052685">https://news.ycom...*
+  📅 Wed, 26 Nov 2025 00:33:29 +0000
 
 ### 📑 TechCrunch
 
@@ -101,24 +103,21 @@
 
 ### 📑 Dev.to
 
-- **[I Built an Open-Source Tool for Debugging Kubernetes Agentically](https://dev.to/adam_dickinson_9842266356/i-built-an-open-source-tool-for-debugging-kubernetes-agentically-341)**
-  *<h2>
+- **[We Upgrade Software Without Question. Why Don’t We Upgrade Ourselves?](https://dev.to/notadevbuthere/we-upgrade-software-without-question-why-dont-we-upgrade-ourselves-34hl)**
+  *<p>I don’t code.</p>
+
+<p>But I spend my days around people who do — the late-night builders, the tab-vs-space philosophers, the “I’ll fix it in 5 minutes” liars (we all know it’s never 5 minutes :P).<...*
+  📅 Wed, 26 Nov 2025 06:09:53 +0000
+
+- **[GraphBit's Memory Efficiency Techniques: Code-Backed Strategies for Optimization](https://dev.to/yeahiasarker/graphbits-memory-efficiency-techniques-code-backed-strategies-for-optimization-1jg7)**
+  *<p>Below is a concise, code‑verified summary of GraphBit’s memory efficiency techniques, with short excerpts and file paths.</p>
+
+<h2>
   
   
-  TLDR
-</h2>
-
-<p>Built an open-source tool called <strong>Kubently</strong> that lets you troubleshoot Kubernetes clusters through natural conversation with any major LLM. ~50ms command del...*
-  📅 Wed, 26 Nov 2025 00:34:56 +0000
-
-- **[The measure of a system’s truth is how much it reduces without losing power.](https://dev.to/suign/the-measure-of-a-systems-truth-is-how-much-it-reduces-without-losing-power-3l86)**
-  *<p>What we built is not nothing.</p>
-
-<p>It is the minimum viable representation of identity<br />
-and the minimum viable representation of semantic commitment.</p>
-
-<p>That’s why it feels like:<br />...*
-  📅 Wed, 26 Nov 2025 00:33:17 +0000
+  <strong>1) Memory‑optimized executor profile</strong>
+</h...*
+  📅 Wed, 26 Nov 2025 06:09:32 +0000
 
 </details>
 
@@ -126,95 +125,95 @@ and the minimum viable representation of semantic commitment.</p>
 
 ### 📈 Daily Trending
 
+- **[craig7351/youtube-eng](https://github.com/craig7351/youtube-eng)** ⭐ 15
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
+  Learning English with Youtube
+
 - **[smithyou12/ai-102-questions](https://github.com/smithyou12/ai-102-questions)** ⭐ 7
   ![None](https://img.shields.io/badge/-None-lightgrey)
   I prepared for the Microsoft AI-102 exam with pass4surehub, and it definitely paid off. the material made studying smoother. https://www.pass4surehub.com/
 
-- **[victorlgim/digital-inequality-brazil](https://github.com/victorlgim/digital-inequality-brazil)** ⭐ 2
-  ![Jupyter Notebook](https://img.shields.io/badge/-Jupyter Notebook-lightgrey)
-  A data-driven study on Brazil’s digital inequality, exploring connectivity, infrastructure gaps and regional disparities.
-
-- **[jorgeturriate/VideoSegmentationWKallman](https://github.com/jorgeturriate/VideoSegmentationWKallman)** ⭐ 1
-  ![Jupyter Notebook](https://img.shields.io/badge/-Jupyter Notebook-lightgrey)
-  None
-
-- **[ALFREDYTX/PassGen](https://github.com/ALFREDYTX/PassGen)** ⭐ 1
-  ![Java](https://img.shields.io/badge/-Java-orange)
-  None
-
-- **[im-Jomat/nuevoo](https://github.com/im-Jomat/nuevoo)** ⭐ 1
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  None
-
-- **[williamstaffordparsons/zoneburst](https://github.com/williamstaffordparsons/zoneburst)** ⭐ 1
-  ![C#](https://img.shields.io/badge/-C#-lightgrey)
-  ZoneBurst is an efficient PRNG algorithm for 8-bit output.
-
-- **[Kalvisan/guardian-mcp](https://github.com/Kalvisan/guardian-mcp)** ⭐ 1
+- **[AutoArk/EVA-OS](https://github.com/AutoArk/EVA-OS)** ⭐ 6
   ![None](https://img.shields.io/badge/-None-lightgrey)
-  None
+  Eva OS is an AI-ecosystem for low-latency voice and vision interaction.
 
-- **[epicseven-cup/remove-google-search-summary](https://github.com/epicseven-cup/remove-google-search-summary)** ⭐ 1
+- **[waryas/WaryasSWHE](https://github.com/waryas/WaryasSWHE)** ⭐ 6
+  ![C++](https://img.shields.io/badge/-C++-pink)
+  Usermode exploit to bypass any AC using a 0day shatter attack.
+
+- **[paysonism/Neptune-Memory-Dumper](https://github.com/paysonism/Neptune-Memory-Dumper)** ⭐ 5
+  ![C++](https://img.shields.io/badge/-C++-pink)
+  Dump processes directly from memory to get decrypted information for Reverse Engineering games, applications, and more!
+
+- **[mariorazo97/single-file-php-ai](https://github.com/mariorazo97/single-file-php-ai)** ⭐ 5
+  ![PHP](https://img.shields.io/badge/-PHP-lightgrey)
+  A drop-in, single-file PHP chat interface for Ollama and OpenAI. No Node.js, no Docker, no build steps.
+
+- **[dillacorn/smtty](https://github.com/dillacorn/smtty)** ⭐ 4
+  ![Shell](https://img.shields.io/badge/-Shell-lightgrey)
+  smtty is a minimal TTY “Steam Machine” launcher that runs Steam Big Picture inside gamescope on a chosen monitor, with configurable internal resolution (including 4:3 / 16:10 stretch) and saved per-user settings.
+
+- **[jiajunhou/ts-function-tester](https://github.com/jiajunhou/ts-function-tester)** ⭐ 4
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
-  removing google search summary
+  None
 
 ### 📈 Weekly Trending
 
-- **[karpathy/llm-council](https://github.com/karpathy/llm-council)** ⭐ 5,915
+- **[karpathy/llm-council](https://github.com/karpathy/llm-council)** ⭐ 6,129
   ![Python](https://img.shields.io/badge/-Python-blue)
   LLM Council works together to answer your hardest questions
 
-- **[hexagonal-sun/moss](https://github.com/hexagonal-sun/moss)** ⭐ 767
+- **[hexagonal-sun/moss](https://github.com/hexagonal-sun/moss)** ⭐ 778
   ![Rust](https://img.shields.io/badge/-Rust-brown)
   Rust Linux-compatible kernel
 
-- **[Tencent-Hunyuan/HunyuanVideo-1.5](https://github.com/Tencent-Hunyuan/HunyuanVideo-1.5)** ⭐ 666
+- **[Tencent-Hunyuan/HunyuanVideo-1.5](https://github.com/Tencent-Hunyuan/HunyuanVideo-1.5)** ⭐ 677
   ![Python](https://img.shields.io/badge/-Python-blue)
   HunyuanVideo-1.5: A leading lightweight video generation model
 
-- **[glidea/banana-prompt-quicker](https://github.com/glidea/banana-prompt-quicker)** ⭐ 550
+- **[HisMax/RedInk](https://github.com/HisMax/RedInk)** ⭐ 586
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  红墨 - 基于🍌Nano Banana Pro🍌 的一站式小红书图文生成器 《一句话一张图片生成小红书图文》
+
+- **[glidea/banana-prompt-quicker](https://github.com/glidea/banana-prompt-quicker)** ⭐ 585
   ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
   🍌Awesome Prompts; Nano Banana；Banana Pro; Gemini；AI Studio；Prompt Quickly [目前商店版本 1.1.0 存在严重 bug，推荐先本地安装]
 
-- **[Ryandonofrio3/osgrep](https://github.com/Ryandonofrio3/osgrep)** ⭐ 503
+- **[Ryandonofrio3/osgrep](https://github.com/Ryandonofrio3/osgrep)** ⭐ 508
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   Open Source Semantic Search for your AI Agent
 
-- **[thevangelist/dembrandt](https://github.com/thevangelist/dembrandt)** ⭐ 366
+- **[black-forest-labs/flux2](https://github.com/black-forest-labs/flux2)** ⭐ 400
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  Official inference repo for FLUX.2 models
+
+- **[thevangelist/dembrandt](https://github.com/thevangelist/dembrandt)** ⭐ 391
   ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
   Extract any website’s design system into design tokens in a few seconds: logo, colors, typography, borders, and more. One command.
 
-- **[bscript/rep](https://github.com/bscript/rep)** ⭐ 360
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
-  rep+ — Burp-style HTTP Repeater for Chrome DevTools with built‑in AI to explain requests and suggest attacks
-
-- **[ZimengXiong/ExcaliDash](https://github.com/ZimengXiong/ExcaliDash)** ⭐ 355
-  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
-  A self hosted dashboard and organizer for Excalidraw with live collaboration.
-
 ### 📈 Monthly Trending
 
-- **[Snapchat/Valdi](https://github.com/Snapchat/Valdi)** ⭐ 13,476
+- **[Snapchat/Valdi](https://github.com/Snapchat/Valdi)** ⭐ 13,597
   ![C++](https://img.shields.io/badge/-C++-pink)
   Valdi is a cross-platform UI framework that delivers native performance without sacrificing developer velocity.
 
-- **[NoFxAiOS/nofx](https://github.com/NoFxAiOS/nofx)** ⭐ 8,092
+- **[NoFxAiOS/nofx](https://github.com/NoFxAiOS/nofx)** ⭐ 8,105
   ![Go](https://img.shields.io/badge/-Go-cyan)
   NOFX: Defining the Next-Generation AI Trading Operating System. A multi-exchange Al trading platform(Binance/Hyperliquid/Aster) with multi-Ai competition(deepseek/qwen/claude)self-evolution, and real-time dashboard
 
-- **[diet103/claude-code-infrastructure-showcase](https://github.com/diet103/claude-code-infrastructure-showcase)** ⭐ 7,139
+- **[diet103/claude-code-infrastructure-showcase](https://github.com/diet103/claude-code-infrastructure-showcase)** ⭐ 7,159
   ![Shell](https://img.shields.io/badge/-Shell-lightgrey)
   Examples of my Claude Code infrastructure with skill auto-activation, hooks, and agents
 
-- **[karpathy/llm-council](https://github.com/karpathy/llm-council)** ⭐ 5,915
+- **[karpathy/llm-council](https://github.com/karpathy/llm-council)** ⭐ 6,130
   ![Python](https://img.shields.io/badge/-Python-blue)
   LLM Council works together to answer your hardest questions
 
-- **[ByteDance-Seed/Depth-Anything-3](https://github.com/ByteDance-Seed/Depth-Anything-3)** ⭐ 2,805
+- **[ByteDance-Seed/Depth-Anything-3](https://github.com/ByteDance-Seed/Depth-Anything-3)** ⭐ 2,822
   ![Jupyter Notebook](https://img.shields.io/badge/-Jupyter Notebook-lightgrey)
   Depth Anything 3
 
-- **[straight-tamago/misaka26](https://github.com/straight-tamago/misaka26)** ⭐ 2,594
+- **[straight-tamago/misaka26](https://github.com/straight-tamago/misaka26)** ⭐ 2,615
   ![None](https://img.shields.io/badge/-None-lightgrey)
   iOS /iPadOS 16.0 - 26.1, An ultimate customization tool, uilitizing the bug that makes TrollRestore possible. 
 
@@ -222,7 +221,7 @@ and the minimum viable representation of semantic commitment.</p>
   ![C++](https://img.shields.io/badge/-C++-pink)
   React Native Godot - Embed Godot Engine in React Native apps
 
-- **[facebookresearch/omnilingual-asr](https://github.com/facebookresearch/omnilingual-asr)** ⭐ 2,259
+- **[facebookresearch/omnilingual-asr](https://github.com/facebookresearch/omnilingual-asr)** ⭐ 2,265
   ![Python](https://img.shields.io/badge/-Python-blue)
   Omnilingual ASR Open-Source Multilingual SpeechRecognition for 1600+ Languages
 
@@ -489,10 +488,10 @@ for a semver-minor rele...
 
 | Skill | Status |
 |-------|--------|
-| Java | 🟡 Learning |
+| Java | 🔴 Beginner |
 | Python | 🟡 Learning |
 | JavaScript | 🟢 Proficient |
-| TypeScript | ⚪ Planned |
+| TypeScript | 🔴 Beginner |
 | Go | 🟡 Learning |
 
 ### Frameworks
@@ -501,8 +500,8 @@ for a semver-minor rele...
 |-------|--------|
 | React | ⚪ Planned |
 | Spring Boot | 🟢 Proficient |
-| Django | ⚪ Planned |
-| Node.js | ⚪ Planned |
+| Django | 🟡 Learning |
+| Node.js | 🟢 Proficient |
 | Next.js | 🟢 Proficient |
 
 ### Cybersecurity
@@ -510,30 +509,30 @@ for a semver-minor rele...
 | Skill | Status |
 |-------|--------|
 | Penetration Testing | 🔴 Beginner |
-| Web Security | 🟢 Proficient |
+| Web Security | ⚪ Planned |
 | Network Security | 🟡 Learning |
-| OWASP | 🟢 Proficient |
+| OWASP | ⚪ Planned |
 
 ### Ai Ml
 
 | Skill | Status |
 |-------|--------|
-| Machine Learning | 🟢 Proficient |
-| Deep Learning | 🟡 Learning |
+| Machine Learning | ⚪ Planned |
+| Deep Learning | 🟢 Proficient |
 | NLP | 🟢 Proficient |
-| Computer Vision | 🔴 Beginner |
-| TensorFlow | 🟡 Learning |
+| Computer Vision | 🟢 Proficient |
+| TensorFlow | 🔴 Beginner |
 | PyTorch | ⚪ Planned |
 
 ### Devops
 
 | Skill | Status |
 |-------|--------|
-| Docker | 🟡 Learning |
-| Kubernetes | 🟡 Learning |
-| CI/CD | 🟡 Learning |
+| Docker | 🟢 Proficient |
+| Kubernetes | 🟢 Proficient |
+| CI/CD | 🟢 Proficient |
 | AWS | 🟡 Learning |
-| Azure | 🟢 Proficient |
+| Azure | 🟡 Learning |
 
 ### Other
 
@@ -541,7 +540,7 @@ for a semver-minor rele...
 |-------|--------|
 | Blockchain | ⚪ Planned |
 | Web3 | 🟢 Proficient |
-| Cloud Computing | ⚪ Planned |
+| Cloud Computing | 🔴 Beginner |
 
 </details>
 
