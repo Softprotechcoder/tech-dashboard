@@ -46,34 +46,34 @@
 
 ### 📑 Hacker News
 
-- **[Dilution vs. Risk taking: Capital gains taxes and entrepreneurs](https://www.nber.org/papers/w34512)**
-  *<p>Article URL: <a href="https://www.nber.org/papers/w34512">https://www.nber.org/papers/w34512</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46092056">https://news.ycombinato...*
-  📅 Sat, 29 Nov 2025 23:59:49 +0000
+- **[Zigbook Is Plagiarizing the Zigtools Playground](https://zigtools.org/blog/zigbook-plagiarizing-playground/)**
+  *<p>Article URL: <a href="https://zigtools.org/blog/zigbook-plagiarizing-playground/">https://zigtools.org/blog/zigbook-plagiarizing-playground/</a></p>
+<p>Comments URL: <a href="https://news.ycombinat...*
+  📅 Sun, 30 Nov 2025 03:54:51 +0000
+
+- **[Show HN: Boing](https://boing.greg.technology/)**
+  *<p>Article URL: <a href="https://boing.greg.technology/">https://boing.greg.technology/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46093473">https://news.ycombinator.com/it...*
+  📅 Sun, 30 Nov 2025 03:46:35 +0000
+
+- **[Stopping bad guys from using my open source project (feedback wanted)](https://evanhahn.com/stopping-bad-guys-from-using-my-open-source-project/)**
+  *<p>Article URL: <a href="https://evanhahn.com/stopping-bad-guys-from-using-my-open-source-project/">https://evanhahn.com/stopping-bad-guys-from-using-my-open-source-project/</a></p>
+<p>Comments URL: <...*
+  📅 Sun, 30 Nov 2025 01:25:43 +0000
+
+- **[Meshtastic](https://meshtastic.org/)**
+  *<p>Article URL: <a href="https://meshtastic.org/">https://meshtastic.org/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46092558">https://news.ycombinator.com/item?id=46092558...*
+  📅 Sun, 30 Nov 2025 01:15:59 +0000
+
+- **[A new Little Prince museum has opened its doors in Switzerland](https://www.lepetitprince.com/en/events-around-the-world/a-new-little-prince-museum-has-opened-its-doors-in-switzerland/)**
+  *<p>Article URL: <a href="https://www.lepetitprince.com/en/events-around-the-world/a-new-little-prince-museum-has-opened-its-doors-in-switzerland/">https://www.lepetitprince.com/en/events-around-the-wo...*
+  📅 Sun, 30 Nov 2025 01:03:44 +0000
 
 - **[Scala](https://www.huygens-fokker.org/scala/)**
   *<p>Article URL: <a href="https://www.huygens-fokker.org/scala/">https://www.huygens-fokker.org/scala/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=46092000">https://news.ycom...*
   📅 Sat, 29 Nov 2025 23:51:21 +0000
-
-- **[Bazzite: The next generation of Linux gaming](https://bazzite.gg/)**
-  *<p>Article URL: <a href="https://bazzite.gg/">https://bazzite.gg/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46091362">https://news.ycombinator.com/item?id=46091362</a></p>...*
-  📅 Sat, 29 Nov 2025 22:22:24 +0000
-
-- **[Landlock-Ing Linux](https://blog.prizrak.me/post/landlock/)**
-  *<p>Article URL: <a href="https://blog.prizrak.me/post/landlock/">https://blog.prizrak.me/post/landlock/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46090969">https://news.yc...*
-  📅 Sat, 29 Nov 2025 21:30:53 +0000
-
-- **[Europe's New War on Privacy](https://unherd.com/2025/11/europes-new-war-on-privacy/)**
-  *<p>Article URL: <a href="https://unherd.com/2025/11/europes-new-war-on-privacy/">https://unherd.com/2025/11/europes-new-war-on-privacy/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/i...*
-  📅 Sat, 29 Nov 2025 21:10:15 +0000
-
-- **[Show HN: Nano PDF – A CLI Tool to Edit PDFs with Gemini's Nano Banana](https://github.com/gavrielc/Nano-PDF)**
-  *<p>The new Gemini 3 Pro Image model (aka Nano Banana) is incredible at generating slides, so I thought it would be fun to build a CLI tool that lets you edit PDF presentations using plain English. The...*
-  📅 Sat, 29 Nov 2025 20:44:24 +0000
 
 ### 📑 TechCrunch
 
@@ -103,25 +103,33 @@
 
 ### 📑 Dev.to
 
-- **[Desafio Final e o Segredo do O(N) (Dois Ponteiros)](https://dev.to/gissandrogama/desafio-final-e-o-segredo-do-on-dois-ponteiros-3g4)**
-  *<h3>
-  
-  
-  Pensando Linear: Resolvendo Problemas Complexos em O(N) e o Segredo do O(1) de Elixir 🔑
-</h3>
+- **[Brex Database Disaster Recovery](https://dev.to/elianalamhost/brex-database-disaster-recovery-4375)**
+  *<p>Speaker: Fabiano Honorato, Michelle Koo, Stephen Brandon @ AWS FSI Meetup 2025 Q4</p>
 
-<p>Chegamos ao final da nossa jornada pela Complexidade de Algoritmos! Vimos o poder do <str...*
-  📅 Sun, 30 Nov 2025 00:39:13 +0000
 
-- **[O Padrão Ouro da Ordenação: O(N log N)](https://dev.to/gissandrogama/post-4-o-padrao-ouro-da-ordenacao-on-log-n-46jp)**
-  *<h3>
+
+
+
+
+
+<p>Introduction to Brex</p>
+
+<ul>
+<li><p>Financial operating system platform for managing expenses, trav...*
+  📅 Sun, 30 Nov 2025 06:11:20 +0000
+
+- **[UserScanner a CLI tool to help you select a unique username across all popular sites.](https://dev.to/kaifcodec/userscanner-a-cli-tool-to-help-you-select-a-unique-username-across-all-popular-sites-3bn1)**
+  *<h2>
   
   
-  O Melhor dos Dois Mundos: Entendendo a Complexidade O(N log N) do Merge Sort 🥇
-</h3>
+  User Scanner
+</h2>
 
-<p>Nos posts anteriores, conquistamos a velocidade da <a href="https://dev.to/gissandrogama/post-3-a-...*
-  📅 Sun, 30 Nov 2025 00:37:04 +0000
+<ul>
+<li>Repo: <a href="https://github.com/kaifcodec/user-scanner" rel="noopener noreferrer">https://github.com/kaifcodec/user-scanner</a>
+</li>
+<li>Super easy to cont...*
+  📅 Sun, 30 Nov 2025 06:09:48 +0000
 
 </details>
 
@@ -129,105 +137,105 @@
 
 ### 📈 Daily Trending
 
-- **[sexfrance/Authorative-DNS-server](https://github.com/sexfrance/Authorative-DNS-server)** ⭐ 2
-  ![Rust](https://img.shields.io/badge/-Rust-brown)
-  A high-performance, production-ready authoritative DNS server built with Rust, powering Cybertemp's domain management infrastructure. Handles DNS queries, domain verification, and dynamic record management with PostgreSQL and Supabase integration.
-
-- **[blerinabombaj/ecom-api](https://github.com/blerinabombaj/ecom-api)** ⭐ 1
+- **[987yt/yun](https://github.com/987yt/yun)** ⭐ 42
   ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
   None
 
-- **[reporeq/reporeq](https://github.com/reporeq/reporeq)** ⭐ 1
+- **[xotu938/tg-text2img-bot](https://github.com/xotu938/tg-text2img-bot)** ⭐ 23
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  None
+
+- **[seanZhang414/openadserver](https://github.com/seanZhang414/openadserver)** ⭐ 22
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  Open Source Ad Serving Platform with ML-Powered CTR Prediction | Self-hosted alternative to Google Ad Manager | Python, FastAPI, PyTorch
+
+- **[annpardo/subconvernet](https://github.com/annpardo/subconvernet)** ⭐ 16
   ![Shell](https://img.shields.io/badge/-Shell-lightgrey)
-  The simplest and last package manager you will ever use
+  订阅转换服务
 
-- **[jackharrhy/agents-in-elixir-talk-w2025](https://github.com/jackharrhy/agents-in-elixir-talk-w2025)** ⭐ 1
-  ![HTML](https://img.shields.io/badge/-HTML-lightgrey)
-  gdg st. john's talk
-
-- **[AnLoMinus/AuraGates](https://github.com/AnLoMinus/AuraGates)** ⭐ 1
-  ![HTML](https://img.shields.io/badge/-HTML-lightgrey)
-  📂 מאגר 39 שערי האורה – AuraGates (AG)
-
-- **[hlasitahudbabezzvuku/Olympus](https://github.com/hlasitahudbabezzvuku/Olympus)** ⭐ 1
-  ![C](https://img.shields.io/badge/-C-lightgrey)
+- **[njddsds/xuding](https://github.com/njddsds/xuding)** ⭐ 15
+  ![Python](https://img.shields.io/badge/-Python-blue)
   None
 
-- **[rawring-riha/shhor-viz](https://github.com/rawring-riha/shhor-viz)** ⭐ 1
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
+- **[bjdsrg/feiji](https://github.com/bjdsrg/feiji)** ⭐ 15
+  ![Python](https://img.shields.io/badge/-Python-blue)
   None
 
-- **[Galetie/car-park](https://github.com/Galetie/car-park)** ⭐ 1
+- **[Rabbit0w0/dear-nikki](https://github.com/Rabbit0w0/dear-nikki)** ⭐ 8
+  ![Astro](https://img.shields.io/badge/-Astro-lightgrey)
+  Blog template based on Fuwari
+
+- **[lvqop/FreeSource](https://github.com/lvqop/FreeSource)** ⭐ 7
   ![None](https://img.shields.io/badge/-None-lightgrey)
-  None
+  A summary of some free source
 
 ### 📈 Weekly Trending
 
-- **[Facepunch/sbox-public](https://github.com/Facepunch/sbox-public)** ⭐ 2,801
+- **[Facepunch/sbox-public](https://github.com/Facepunch/sbox-public)** ⭐ 2,823
   ![C#](https://img.shields.io/badge/-C#-lightgrey)
   s&box is a modern game engine, built on Valve's Source 2 and the latest .NET technology, it provides a modern intuitive editor for creating games
 
-- **[Tongyi-MAI/Z-Image](https://github.com/Tongyi-MAI/Z-Image)** ⭐ 2,343
+- **[Tongyi-MAI/Z-Image](https://github.com/Tongyi-MAI/Z-Image)** ⭐ 2,445
   ![None](https://img.shields.io/badge/-None-lightgrey)
   None
 
-- **[HisMax/RedInk](https://github.com/HisMax/RedInk)** ⭐ 1,950
+- **[HisMax/RedInk](https://github.com/HisMax/RedInk)** ⭐ 1,976
   ![Python](https://img.shields.io/badge/-Python-blue)
   红墨 - 基于🍌Nano Banana Pro🍌 的一站式小红书图文生成器 《一句话一张图片生成小红书图文》 Red Ink - A one-stop Xiaohongshu image-and-text generator based on the 🍌Nano Banana Pro🍌, "One Sentence, One Image: Generate Xiaohongshu Text and Images."
 
-- **[deepseek-ai/DeepSeek-Math-V2](https://github.com/deepseek-ai/DeepSeek-Math-V2)** ⭐ 1,051
+- **[deepseek-ai/DeepSeek-Math-V2](https://github.com/deepseek-ai/DeepSeek-Math-V2)** ⭐ 1,076
   ![None](https://img.shields.io/badge/-None-lightgrey)
   None
 
-- **[black-forest-labs/flux2](https://github.com/black-forest-labs/flux2)** ⭐ 908
+- **[black-forest-labs/flux2](https://github.com/black-forest-labs/flux2)** ⭐ 925
   ![Python](https://img.shields.io/badge/-Python-blue)
   Official inference repo for FLUX.2 models
 
-- **[Rohithgilla12/data-peek](https://github.com/Rohithgilla12/data-peek)** ⭐ 623
+- **[Rohithgilla12/data-peek](https://github.com/Rohithgilla12/data-peek)** ⭐ 695
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   A minimal, fast, database client desktop application. Built for developers who want to quickly peek at their data without the bloat.
+
+- **[Hong-Kong-Emergency-Coordination-Hub/Hong-Kong-Fire-Documentary](https://github.com/Hong-Kong-Emergency-Coordination-Hub/Hong-Kong-Fire-Documentary)** ⭐ 573
+  ![HTML](https://img.shields.io/badge/-HTML-lightgrey)
+  Hong Kong Fire (Tai Po, 11/26): A major blaze swept through Wang Fuk Court
 
 - **[drak6y/Trading-Bot-For-Binance-Future](https://github.com/drak6y/Trading-Bot-For-Binance-Future)** ⭐ 511
   ![Python](https://img.shields.io/badge/-Python-blue)
   Technical-analysis–driven crypto trading bot for Binance Futures.
 
-- **[Hong-Kong-Emergency-Coordination-Hub/Hong-Kong-Fire-Documentary](https://github.com/Hong-Kong-Emergency-Coordination-Hub/Hong-Kong-Fire-Documentary)** ⭐ 505
-  ![HTML](https://img.shields.io/badge/-HTML-lightgrey)
-  Hong Kong Fire (Tai Po, 11/26): A major blaze swept through Wang Fuk Court
-
 ### 📈 Monthly Trending
 
-- **[Snapchat/Valdi](https://github.com/Snapchat/Valdi)** ⭐ 14,575
+- **[Snapchat/Valdi](https://github.com/Snapchat/Valdi)** ⭐ 14,611
   ![C++](https://img.shields.io/badge/-C++-pink)
   Valdi is a cross-platform UI framework that delivers native performance without sacrificing developer velocity.
 
-- **[karpathy/llm-council](https://github.com/karpathy/llm-council)** ⭐ 7,787
+- **[karpathy/llm-council](https://github.com/karpathy/llm-council)** ⭐ 7,864
   ![Python](https://img.shields.io/badge/-Python-blue)
   LLM Council works together to answer your hardest questions
 
-- **[ByteDance-Seed/Depth-Anything-3](https://github.com/ByteDance-Seed/Depth-Anything-3)** ⭐ 2,998
+- **[ByteDance-Seed/Depth-Anything-3](https://github.com/ByteDance-Seed/Depth-Anything-3)** ⭐ 3,001
   ![Jupyter Notebook](https://img.shields.io/badge/-Jupyter Notebook-lightgrey)
   Depth Anything 3
 
-- **[unhappychoice/gitlogue](https://github.com/unhappychoice/gitlogue)** ⭐ 2,851
+- **[unhappychoice/gitlogue](https://github.com/unhappychoice/gitlogue)** ⭐ 2,881
   ![Rust](https://img.shields.io/badge/-Rust-brown)
   A cinematic Git commit replay tool for the terminal, turning your Git history into a living, animated story.
 
-- **[Facepunch/sbox-public](https://github.com/Facepunch/sbox-public)** ⭐ 2,801
+- **[Facepunch/sbox-public](https://github.com/Facepunch/sbox-public)** ⭐ 2,823
   ![C#](https://img.shields.io/badge/-C#-lightgrey)
   s&box is a modern game engine, built on Valve's Source 2 and the latest .NET technology, it provides a modern intuitive editor for creating games
 
-- **[straight-tamago/misaka26](https://github.com/straight-tamago/misaka26)** ⭐ 2,760
-  ![None](https://img.shields.io/badge/-None-lightgrey)
-  iOS /iPadOS 16.0 - 26.1, An ultimate customization tool, uilitizing the bug that makes TrollRestore possible. 
-
-- **[ZeroLu/awesome-nanobanana-pro](https://github.com/ZeroLu/awesome-nanobanana-pro)** ⭐ 2,632
+- **[ZeroLu/awesome-nanobanana-pro](https://github.com/ZeroLu/awesome-nanobanana-pro)** ⭐ 2,775
   ![None](https://img.shields.io/badge/-None-lightgrey)
   🚀 An awesome list of curated Nano Banana pro prompts and examples. Your go-to resource for mastering prompt engineering and exploring the creative potential of the Nano banana pro(Nano banana 2) AI image model.
 
-- **[borndotcom/react-native-godot](https://github.com/borndotcom/react-native-godot)** ⭐ 2,444
-  ![C++](https://img.shields.io/badge/-C++-pink)
-  React Native Godot - Embed Godot Engine in React Native apps
+- **[straight-tamago/misaka26](https://github.com/straight-tamago/misaka26)** ⭐ 2,768
+  ![None](https://img.shields.io/badge/-None-lightgrey)
+  iOS /iPadOS 16.0 - 26.1, An ultimate customization tool, uilitizing the bug that makes TrollRestore possible. 
+
+- **[Tongyi-MAI/Z-Image](https://github.com/Tongyi-MAI/Z-Image)** ⭐ 2,445
+  ![None](https://img.shields.io/badge/-None-lightgrey)
+  None
 
 ## 🚀 Latest Releases
 
@@ -492,11 +500,11 @@ for a semver-minor rele...
 
 | Skill | Status |
 |-------|--------|
-| Java | ⚪ Planned |
-| Python | 🟢 Proficient |
-| JavaScript | 🟢 Proficient |
+| Java | 🟡 Learning |
+| Python | 🔴 Beginner |
+| JavaScript | ⚪ Planned |
 | TypeScript | 🔴 Beginner |
-| Go | ⚪ Planned |
+| Go | 🔴 Beginner |
 
 ### Frameworks
 
@@ -504,47 +512,47 @@ for a semver-minor rele...
 |-------|--------|
 | React | 🟡 Learning |
 | Spring Boot | 🟢 Proficient |
-| Django | ⚪ Planned |
-| Node.js | 🟢 Proficient |
-| Next.js | 🟡 Learning |
+| Django | 🟡 Learning |
+| Node.js | 🟡 Learning |
+| Next.js | 🔴 Beginner |
 
 ### Cybersecurity
 
 | Skill | Status |
 |-------|--------|
-| Penetration Testing | 🟡 Learning |
-| Web Security | 🔴 Beginner |
-| Network Security | 🟢 Proficient |
-| OWASP | 🟢 Proficient |
+| Penetration Testing | ⚪ Planned |
+| Web Security | ⚪ Planned |
+| Network Security | ⚪ Planned |
+| OWASP | 🟡 Learning |
 
 ### Ai Ml
 
 | Skill | Status |
 |-------|--------|
-| Machine Learning | ⚪ Planned |
-| Deep Learning | 🟢 Proficient |
-| NLP | ⚪ Planned |
-| Computer Vision | 🟢 Proficient |
+| Machine Learning | 🟡 Learning |
+| Deep Learning | ⚪ Planned |
+| NLP | 🟢 Proficient |
+| Computer Vision | 🟡 Learning |
 | TensorFlow | 🟢 Proficient |
-| PyTorch | 🟢 Proficient |
+| PyTorch | 🟡 Learning |
 
 ### Devops
 
 | Skill | Status |
 |-------|--------|
-| Docker | 🔴 Beginner |
-| Kubernetes | 🟡 Learning |
-| CI/CD | ⚪ Planned |
-| AWS | 🟡 Learning |
+| Docker | ⚪ Planned |
+| Kubernetes | 🔴 Beginner |
+| CI/CD | 🟡 Learning |
+| AWS | ⚪ Planned |
 | Azure | ⚪ Planned |
 
 ### Other
 
 | Skill | Status |
 |-------|--------|
-| Blockchain | 🔴 Beginner |
-| Web3 | 🟢 Proficient |
-| Cloud Computing | 🟡 Learning |
+| Blockchain | 🟡 Learning |
+| Web3 | ⚪ Planned |
+| Cloud Computing | 🟢 Proficient |
 
 </details>
 
