@@ -46,36 +46,40 @@
 
 ### 📑 Hacker News
 
-- **[Algorithms for Optimization [pdf]](https://algorithmsbook.com/optimization/files/optimization.pdf)**
-  *<p>Article URL: <a href="https://algorithmsbook.com/optimization/files/optimization.pdf">https://algorithmsbook.com/optimization/files/optimization.pdf</a></p>
-<p>Comments URL: <a href="https://news.y...*
-  📅 Sun, 30 Nov 2025 23:21:32 +0000
+- **[It's Been a Hard Year](https://bell.bz/its-been-a-very-hard-year/)**
+  *<p>Article URL: <a href="https://bell.bz/its-been-a-very-hard-year/">https://bell.bz/its-been-a-very-hard-year/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46103858">https:/...*
+  📅 Mon, 01 Dec 2025 05:36:48 +0000
 
-- **[Bricklink suspends Marketplace operations in 35 countries (developing story)](https://jaysbrickblog.com/news/bricklink-suspends-marketplace-operations-in-35-countries/)**
-  *<p>Article URL: <a href="https://jaysbrickblog.com/news/bricklink-suspends-marketplace-operations-in-35-countries/">https://jaysbrickblog.com/news/bricklink-suspends-marketplace-operations-in-35-count...*
-  📅 Sun, 30 Nov 2025 22:53:08 +0000
+- **[Google Antigravity Deletes D Drive](https://mastodon.gamedev.place/@bastardsheep@aus.social/115641546248437052)**
+  *<p>Article URL: <a href="https://mastodon.gamedev.place/@bastardsheep@aus.social/115641546248437052">https://mastodon.gamedev.place/@bastardsheep@aus.social/115641546248437052</a></p>
+<p>Comments URL:...*
+  📅 Mon, 01 Dec 2025 05:29:00 +0000
 
-- **[A Love Letter to FreeBSD](https://www.tara.sh/posts/2025/2025-11-25_freebsd_letter/)**
-  *<p>Article URL: <a href="https://www.tara.sh/posts/2025/2025-11-25_freebsd_letter/">https://www.tara.sh/posts/2025/2025-11-25_freebsd_letter/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator...*
-  📅 Sun, 30 Nov 2025 22:05:07 +0000
+- **[SmartTube Compromised](https://www.aftvnews.com/smarttubes-official-apk-was-compromised-with-malware-what-you-should-do-if-you-use-it/)**
+  *<p>Article URL: <a href="https://www.aftvnews.com/smarttubes-official-apk-was-compromised-with-malware-what-you-should-do-if-you-use-it/">https://www.aftvnews.com/smarttubes-official-apk-was-compromis...*
+  📅 Mon, 01 Dec 2025 05:01:01 +0000
 
-- **[Stackoverflow Outage](https://www.stackstatus.net/)**
-  *<p>Article URL: <a href="https://www.stackstatus.net/">https://www.stackstatus.net/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46100566">https://news.ycombinator.com/item?i...*
-  📅 Sun, 30 Nov 2025 21:24:22 +0000
+- **[Search tool that only returns content created before ChatGPT's public release](https://tegabrain.com/Slop-Evader)**
+  *<p>Article URL: <a href="https://tegabrain.com/Slop-Evader">https://tegabrain.com/Slop-Evader</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46103376">https://news.ycombinator....*
+  📅 Mon, 01 Dec 2025 04:06:06 +0000
 
-- **["Boobs check" – Technique to verify if sites behind CDN are hosted in Iran](https://twitter.com/hkashfi/status/1995109785679573167)**
-  *<p><a href="https://xcancel.com/hkashfi/status/1995109785679573167" rel="nofollow">https://xcancel.com/hkashfi/status/1995109785679573167</a></p>
-<hr />
-<p>Comments URL: <a href="https://news.ycombina...*
-  📅 Sun, 30 Nov 2025 20:54:43 +0000
+- **[X210Ai is a new motherboard to upgrade ThinkPad X201/200](https://www.tpart.net/about-x210ai/)**
+  *<p>Article URL: <a href="https://www.tpart.net/about-x210ai/">https://www.tpart.net/about-x210ai/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46103097">https://news.ycombina...*
+  📅 Mon, 01 Dec 2025 03:12:29 +0000
 
-- **[People keep flocking to Linux, not just to escape Windows](https://www.zdnet.com/article/why-people-keep-flocking-to-linux-in-2025-and-its-not-just-to-escape-windows/)**
-  *<p>Article URL: <a href="https://www.zdnet.com/article/why-people-keep-flocking-to-linux-in-2025-and-its-not-just-to-escape-windows/">https://www.zdnet.com/article/why-people-keep-flocking-to-linux-in...*
-  📅 Sun, 30 Nov 2025 20:14:12 +0000
+- **[Advent of Sysadmin 2025](https://sadservers.com/advent)**
+  *<p>Article URL: <a href="https://sadservers.com/advent">https://sadservers.com/advent</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46102347">https://news.ycombinator.com/item...*
+  📅 Mon, 01 Dec 2025 01:17:28 +0000
 
 ### 📑 TechCrunch
+
+- **[Varda says it has proven space manufacturing works — now it wants to make it boring](https://techcrunch.com/2025/11/30/varda-says-it-has-proven-space-manufacturing-works-now-it-wants-to-make-it-boring/)**
+  *CEO Will Bruey says people often get Varda wrong. The company isn't "in the space industry; we're in-space industry," he said. Space is "just another place to ship to."...*
+  📅 Mon, 01 Dec 2025 02:11:19 +0000
 
 - **[‘Avatar’ director James Cameron says generative AI is ‘horrifying’](https://techcrunch.com/2025/11/30/avatar-director-james-cameron-says-generative-ai-is-horrifying/)**
   *James Cameron’s movies are often at the cutting edge of visual effects technology, but that doesn't make him a fan of generative AI....*
@@ -97,30 +101,21 @@
   *The company said it’s taking action because “analysis of a recent event involving an A320 Family aircraft has revealed that intense solar radiation may corrupt data critical to the functioning of flig...*
   📅 Sat, 29 Nov 2025 22:03:18 +0000
 
-- **[Black Friday sets online spending record of $11.8B, Adobe says](https://techcrunch.com/2025/11/29/black-friday-sets-online-spending-record-of-11-8b-adobe-says/)**
-  *American consumers spent $11.8 billion online on Black Friday, according to data from Adobe Analytics, which says it tracks more than 1 trillion visits to U.S. retail websites....*
-  📅 Sat, 29 Nov 2025 21:39:44 +0000
-
 ### 📑 Dev.to
 
-- **[DataViz Kit Weekly Update: Testing New SEO Strategies](https://dev.to/roshaan_tahir/dataviz-kit-weekly-update-testing-new-seo-strategies-45ih)**
-  *<p>Hey everyone! 👋<br />
-As promised in my previous post about the <a href="https://dev.to/roshaan_tahir/3-months-journey-of-dataviz-kit-552i">3-month journey of DataViz Kit</a>, I’m back with another...*
-  📅 Mon, 01 Dec 2025 00:53:15 +0000
+- **[Perl 🐪 Weekly #749 - Design Patterns in Modern Perl](https://dev.to/szabgab/perl-weekly-749-design-patterns-in-modern-perl-3899)**
+  *<p>Originally published at <a href="https://perlweekly.com/archive/749.html" rel="noopener noreferrer">Perl Weekly 749</a></p>
 
-- **[Pequenos atalhos Git que deixaram meu fluxo de trabalho muito mais rápido](https://dev.to/leorodriguesdev/pequenos-atalhos-git-que-deixaram-meu-fluxo-de-trabalho-muito-mais-rapido-2556)**
-  *<blockquote>
-<p>Uma pequena ferramenta que instala mais de 27 aliases Git com um único comando — economizando tempo, reduzindo fricção e mantendo seu foco no código.</p>
-</blockquote>
+<p>Hi there!</p>
 
+<p>The big announcement is that Mohammad Sajid Anwar w...*
+  📅 Mon, 01 Dec 2025 06:14:49 +0000
 
+- **[Stay ahead in web development: latest news, tools, and insights #113](https://dev.to/urbanisierung/stay-ahead-in-web-development-latest-news-tools-and-insights-113-4238)**
+  *<p>Signup <a href="https://weeklyfoo.com" rel="noopener noreferrer">here</a> for the newsletter to get the weekly digest right into your inbox.</p>
 
-
-<h2>
-  
-  
- ...*
-  📅 Mon, 01 Dec 2025 00:48:06 +0000
+<p>weeklyfoo #113 is here: your weekly digest of al...*
+  📅 Mon, 01 Dec 2025 06:08:58 +0000
 
 </details>
 
@@ -128,103 +123,103 @@ As promised in my previous post about the <a href="https://dev.to/roshaan_tahir/
 
 ### 📈 Daily Trending
 
-- **[mangguo03/TG_duojiqiren03](https://github.com/mangguo03/TG_duojiqiren03)** ⭐ 41
-  ![None](https://img.shields.io/badge/-None-lightgrey)
-  双向托管平台，这是一个完整的 Telegram 机器人托管解决方案，允许用户通过一个管理机器人来创建和管理多个客服机器人。支持直接消息转发和话题群组两种模式，内置验证码系统防止滥用。
+- **[kejidsije/fenfen](https://github.com/kejidsije/fenfen)** ⭐ 49
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
+  None
 
-- **[toughnessjettied/rollerbot](https://github.com/toughnessjettied/rollerbot)** ⭐ 29
+- **[jakethjy/fenxang](https://github.com/jakethjy/fenxang)** ⭐ 47
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
+  None
+
+- **[xuzgud/fenqiku](https://github.com/xuzgud/fenqiku)** ⭐ 41
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  None
+
+- **[toughnessjettied/rollerbot](https://github.com/toughnessjettied/rollerbot)** ⭐ 37
   ![Python](https://img.shields.io/badge/-Python-blue)
   Rollercoin bot for auto farming mini-games and hashrate boost. Automates 2048, Coinflip, CoinMatch, Cryptonoid, Flappy Rocket gameplay. Miner marketplace integration. Python CLI tool.
 
-- **[suhasbharadwajx/A-Unified-Physics-Informed-Neural-Network-for-Modeling-Coupled-Electro--Elastodynamic-Wave](https://github.com/suhasbharadwajx/A-Unified-Physics-Informed-Neural-Network-for-Modeling-Coupled-Electro--Elastodynamic-Wave)** ⭐ 2
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  Source code to the paper titled "A Unified Physics-Informed Neural Network for Modeling Coupled Electro- and Elastodynamic Wave Propagation Using 1D Piezoelectricity" by Suhas Suresh Bharadwaj and Reuben Thomas Thovelil
-
-- **[xolosArmy/ecash-flipstarter](https://github.com/xolosArmy/ecash-flipstarter)** ⭐ 2
-  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
+- **[cherrrry1/free](https://github.com/cherrrry1/free)** ⭐ 35
+  ![HTML](https://img.shields.io/badge/-HTML-lightgrey)
   None
 
-- **[luorenhang/CookieShop](https://github.com/luorenhang/CookieShop)** ⭐ 2
-  ![Java](https://img.shields.io/badge/-Java-orange)
+- **[Romo006/loruki](https://github.com/Romo006/loruki)** ⭐ 35
+  ![HTML](https://img.shields.io/badge/-HTML-lightgrey)
   None
 
-- **[StackBuilder-Pro/Admin-Dashboard](https://github.com/StackBuilder-Pro/Admin-Dashboard)** ⭐ 2
-  ![CSS](https://img.shields.io/badge/-CSS-lightgrey)
-  Simple Project Using HTML and CSS, JAVASCRIPT
-
-- **[Jalyn48595/Machine_Learning_Samples](https://github.com/Jalyn48595/Machine_Learning_Samples)** ⭐ 1
-  ![Jupyter Notebook](https://img.shields.io/badge/-Jupyter Notebook-lightgrey)
+- **[orange1923/xarp100](https://github.com/orange1923/xarp100)** ⭐ 35
+  ![HTML](https://img.shields.io/badge/-HTML-lightgrey)
   None
 
-- **[tbui91101-bit/Laduong02](https://github.com/tbui91101-bit/Laduong02)** ⭐ 1
-  ![None](https://img.shields.io/badge/-None-lightgrey)
+- **[shijil1/landing](https://github.com/shijil1/landing)** ⭐ 35
+  ![HTML](https://img.shields.io/badge/-HTML-lightgrey)
   None
 
 ### 📈 Weekly Trending
 
-- **[Tongyi-MAI/Z-Image](https://github.com/Tongyi-MAI/Z-Image)** ⭐ 2,834
+- **[Tongyi-MAI/Z-Image](https://github.com/Tongyi-MAI/Z-Image)** ⭐ 3,033
   ![None](https://img.shields.io/badge/-None-lightgrey)
   None
 
-- **[HisMax/RedInk](https://github.com/HisMax/RedInk)** ⭐ 2,028
+- **[HisMax/RedInk](https://github.com/HisMax/RedInk)** ⭐ 2,085
   ![Python](https://img.shields.io/badge/-Python-blue)
   红墨 - 基于🍌Nano Banana Pro🍌 的一站式小红书图文生成器 《一句话一张图片生成小红书图文》 Red Ink - A one-stop Xiaohongshu image-and-text generator based on the 🍌Nano Banana Pro🍌, "One Sentence, One Image: Generate Xiaohongshu Text and Images."
 
-- **[deepseek-ai/DeepSeek-Math-V2](https://github.com/deepseek-ai/DeepSeek-Math-V2)** ⭐ 1,174
+- **[deepseek-ai/DeepSeek-Math-V2](https://github.com/deepseek-ai/DeepSeek-Math-V2)** ⭐ 1,208
   ![None](https://img.shields.io/badge/-None-lightgrey)
   None
 
-- **[Rohithgilla12/data-peek](https://github.com/Rohithgilla12/data-peek)** ⭐ 870
+- **[Rohithgilla12/data-peek](https://github.com/Rohithgilla12/data-peek)** ⭐ 913
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   A minimal, fast, database client desktop application. Built for developers who want to quickly peek at their data without the bloat.
 
-- **[Hong-Kong-Emergency-Coordination-Hub/Hong-Kong-Fire-Documentary](https://github.com/Hong-Kong-Emergency-Coordination-Hub/Hong-Kong-Fire-Documentary)** ⭐ 678
+- **[Hong-Kong-Emergency-Coordination-Hub/Hong-Kong-Fire-Documentary](https://github.com/Hong-Kong-Emergency-Coordination-Hub/Hong-Kong-Fire-Documentary)** ⭐ 696
   ![HTML](https://img.shields.io/badge/-HTML-lightgrey)
   Hong Kong Fire (Tai Po, 11/26): A major blaze swept through Wang Fuk Court
 
-- **[portrret/spyder-osint](https://github.com/portrret/spyder-osint)** ⭐ 630
+- **[portrret/spyder-osint](https://github.com/portrret/spyder-osint)** ⭐ 641
   ![Python](https://img.shields.io/badge/-Python-blue)
   An universal osint tool.
 
-- **[Gururagavendra/gmail-cleaner](https://github.com/Gururagavendra/gmail-cleaner)** ⭐ 551
+- **[Gururagavendra/gmail-cleaner](https://github.com/Gururagavendra/gmail-cleaner)** ⭐ 574
   ![Python](https://img.shields.io/badge/-Python-blue)
   web based GUI to cleanup gmail delete, mark as read, unsubsribe from uncessary things u dont like
 
-- **[chr15m/runprompt](https://github.com/chr15m/runprompt)** ⭐ 330
+- **[gavrielc/Nano-PDF](https://github.com/gavrielc/Nano-PDF)** ⭐ 343
   ![Python](https://img.shields.io/badge/-Python-blue)
-  Tiny script to run .prompt files
+  Edit PDF files with Nano Banana
 
 ### 📈 Monthly Trending
 
-- **[Snapchat/Valdi](https://github.com/Snapchat/Valdi)** ⭐ 14,795
+- **[Snapchat/Valdi](https://github.com/Snapchat/Valdi)** ⭐ 14,846
   ![C++](https://img.shields.io/badge/-C++-pink)
   Valdi is a cross-platform UI framework that delivers native performance without sacrificing developer velocity.
 
-- **[karpathy/llm-council](https://github.com/karpathy/llm-council)** ⭐ 8,212
+- **[karpathy/llm-council](https://github.com/karpathy/llm-council)** ⭐ 8,300
   ![Python](https://img.shields.io/badge/-Python-blue)
   LLM Council works together to answer your hardest questions
 
-- **[ZeroLu/awesome-nanobanana-pro](https://github.com/ZeroLu/awesome-nanobanana-pro)** ⭐ 3,419
+- **[ZeroLu/awesome-nanobanana-pro](https://github.com/ZeroLu/awesome-nanobanana-pro)** ⭐ 3,524
   ![None](https://img.shields.io/badge/-None-lightgrey)
   🚀 An awesome list of curated Nano Banana pro prompts and examples. Your go-to resource for mastering prompt engineering and exploring the creative potential of the Nano banana pro(Nano banana 2) AI image model.
 
-- **[ByteDance-Seed/Depth-Anything-3](https://github.com/ByteDance-Seed/Depth-Anything-3)** ⭐ 3,018
-  ![Jupyter Notebook](https://img.shields.io/badge/-Jupyter Notebook-lightgrey)
-  Depth Anything 3
-
-- **[unhappychoice/gitlogue](https://github.com/unhappychoice/gitlogue)** ⭐ 2,963
+- **[unhappychoice/gitlogue](https://github.com/unhappychoice/gitlogue)** ⭐ 3,053
   ![Rust](https://img.shields.io/badge/-Rust-brown)
   A cinematic Git commit replay tool for the terminal, turning your Git history into a living, animated story.
 
-- **[Facepunch/sbox-public](https://github.com/Facepunch/sbox-public)** ⭐ 2,887
-  ![C#](https://img.shields.io/badge/-C#-lightgrey)
-  s&box is a modern game engine, built on Valve's Source 2 and the latest .NET technology, it provides a modern intuitive editor for creating games
+- **[ByteDance-Seed/Depth-Anything-3](https://github.com/ByteDance-Seed/Depth-Anything-3)** ⭐ 3,034
+  ![Jupyter Notebook](https://img.shields.io/badge/-Jupyter Notebook-lightgrey)
+  Depth Anything 3
 
-- **[Tongyi-MAI/Z-Image](https://github.com/Tongyi-MAI/Z-Image)** ⭐ 2,834
+- **[Tongyi-MAI/Z-Image](https://github.com/Tongyi-MAI/Z-Image)** ⭐ 3,033
   ![None](https://img.shields.io/badge/-None-lightgrey)
   None
 
-- **[straight-tamago/misaka26](https://github.com/straight-tamago/misaka26)** ⭐ 2,803
+- **[Facepunch/sbox-public](https://github.com/Facepunch/sbox-public)** ⭐ 2,917
+  ![C#](https://img.shields.io/badge/-C#-lightgrey)
+  s&box is a modern game engine, built on Valve's Source 2 and the latest .NET technology, it provides a modern intuitive editor for creating games
+
+- **[straight-tamago/misaka26](https://github.com/straight-tamago/misaka26)** ⭐ 2,813
   ![None](https://img.shields.io/badge/-None-lightgrey)
   iOS /iPadOS 16.0 - 26.1, An ultimate customization tool, uilitizing the bug that makes TrollRestore possible. 
 
@@ -492,50 +487,50 @@ for a semver-minor rele...
 | Skill | Status |
 |-------|--------|
 | Java | 🔴 Beginner |
-| Python | ⚪ Planned |
-| JavaScript | ⚪ Planned |
-| TypeScript | 🟢 Proficient |
-| Go | ⚪ Planned |
+| Python | 🔴 Beginner |
+| JavaScript | 🟢 Proficient |
+| TypeScript | 🟡 Learning |
+| Go | 🔴 Beginner |
 
 ### Frameworks
 
 | Skill | Status |
 |-------|--------|
 | React | ⚪ Planned |
-| Spring Boot | 🟡 Learning |
-| Django | 🔴 Beginner |
-| Node.js | 🔴 Beginner |
-| Next.js | 🟡 Learning |
+| Spring Boot | ⚪ Planned |
+| Django | 🟢 Proficient |
+| Node.js | ⚪ Planned |
+| Next.js | 🟢 Proficient |
 
 ### Cybersecurity
 
 | Skill | Status |
 |-------|--------|
-| Penetration Testing | ⚪ Planned |
+| Penetration Testing | 🟢 Proficient |
 | Web Security | 🟢 Proficient |
-| Network Security | 🟡 Learning |
-| OWASP | 🔴 Beginner |
+| Network Security | ⚪ Planned |
+| OWASP | 🟡 Learning |
 
 ### Ai Ml
 
 | Skill | Status |
 |-------|--------|
-| Machine Learning | 🟡 Learning |
+| Machine Learning | ⚪ Planned |
 | Deep Learning | ⚪ Planned |
 | NLP | 🟡 Learning |
-| Computer Vision | 🟡 Learning |
+| Computer Vision | ⚪ Planned |
 | TensorFlow | ⚪ Planned |
-| PyTorch | 🔴 Beginner |
+| PyTorch | 🟡 Learning |
 
 ### Devops
 
 | Skill | Status |
 |-------|--------|
-| Docker | ⚪ Planned |
+| Docker | 🔴 Beginner |
 | Kubernetes | ⚪ Planned |
-| CI/CD | ⚪ Planned |
-| AWS | 🟡 Learning |
-| Azure | 🟡 Learning |
+| CI/CD | 🟡 Learning |
+| AWS | 🔴 Beginner |
+| Azure | 🔴 Beginner |
 
 ### Other
 
