@@ -46,36 +46,39 @@
 
 ### 📑 Hacker News
 
-- **[Frequently Asked Unicycling Questions](https://vale.rocks/posts/unicycle-faq)**
-  *<p>Article URL: <a href="https://vale.rocks/posts/unicycle-faq">https://vale.rocks/posts/unicycle-faq</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46117900">https://news.ycom...*
-  📅 Tue, 02 Dec 2025 05:27:18 +0000
+- **[Addressing the adding situation](https://xania.org/202512/02-adding-integers)**
+  *<p>Article URL: <a href="https://xania.org/202512/02-adding-integers">https://xania.org/202512/02-adding-integers</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46120181">https...*
+  📅 Tue, 02 Dec 2025 11:30:29 +0000
 
-- **[Beej's Guide to Learning Computer Science](https://beej.us/guide/bglcs/html/split/)**
-  *<p>Article URL: <a href="https://beej.us/guide/bglcs/html/split/">https://beej.us/guide/bglcs/html/split/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46117280">https://news....*
-  📅 Tue, 02 Dec 2025 03:47:11 +0000
+- **[Man unexpectedly cured of HIV after stem cell transplant](https://www.newscientist.com/article/2506595-man-unexpectedly-cured-of-hiv-after-stem-cell-transplant/)**
+  *<p>Article URL: <a href="https://www.newscientist.com/article/2506595-man-unexpectedly-cured-of-hiv-after-stem-cell-transplant/">https://www.newscientist.com/article/2506595-man-unexpectedly-cured-of-...*
+  📅 Tue, 02 Dec 2025 10:20:34 +0000
 
-- **[Decreasing Certificate Lifetimes to 45 Days](https://letsencrypt.org/2025/12/02/from-90-to-45.html)**
-  *<p>Article URL: <a href="https://letsencrypt.org/2025/12/02/from-90-to-45.html">https://letsencrypt.org/2025/12/02/from-90-to-45.html</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/ite...*
-  📅 Tue, 02 Dec 2025 03:24:44 +0000
+- **[Advent of Compiler Optimisations 2025](https://xania.org/202511/advent-of-compiler-optimisation)**
+  *<p>Article URL: <a href="https://xania.org/202511/advent-of-compiler-optimisation">https://xania.org/202511/advent-of-compiler-optimisation</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.c...*
+  📅 Tue, 02 Dec 2025 09:51:42 +0000
 
-- **[What will enter the public domain in 2026?](https://publicdomainreview.org/features/entering-the-public-domain/2026/)**
-  *<p>Article URL: <a href="https://publicdomainreview.org/features/entering-the-public-domain/2026/">https://publicdomainreview.org/features/entering-the-public-domain/2026/</a></p>
-<p>Comments URL: <a ...*
-  📅 Tue, 02 Dec 2025 03:23:10 +0000
+- **[Comparing AWS Lambda ARM64 vs. x86_64 Performance Across Runtimes in Late 2025](https://chrisebert.net/comparing-aws-lambda-arm64-vs-x86_64-performance-across-multiple-runtimes-in-late-2025/)**
+  *<p>Article URL: <a href="https://chrisebert.net/comparing-aws-lambda-arm64-vs-x86_64-performance-across-multiple-runtimes-in-late-2025/">https://chrisebert.net/comparing-aws-lambda-arm64-vs-x86_64-per...*
+  📅 Tue, 02 Dec 2025 09:11:41 +0000
 
-- **[Reverse math shows why hard problems are hard](https://www.quantamagazine.org/reverse-mathematics-illuminates-why-hard-problems-are-hard-20251201/)**
-  *<p>Article URL: <a href="https://www.quantamagazine.org/reverse-mathematics-illuminates-why-hard-problems-are-hard-20251201/">https://www.quantamagazine.org/reverse-mathematics-illuminates-why-hard-pr...*
-  📅 Tue, 02 Dec 2025 02:35:47 +0000
+- **[How Brian Eno Created Ambient 1: Music for Airports (2019)](https://reverbmachine.com/blog/deconstructing-brian-eno-music-for-airports/)**
+  *<p>Article URL: <a href="https://reverbmachine.com/blog/deconstructing-brian-eno-music-for-airports/">https://reverbmachine.com/blog/deconstructing-brian-eno-music-for-airports/</a></p>
+<p>Comments UR...*
+  📅 Tue, 02 Dec 2025 07:46:47 +0000
 
-- **[Notes on Bhutan](https://apropos.substack.com/p/notes-on-bhutan)**
-  *<p>Article URL: <a href="https://apropos.substack.com/p/notes-on-bhutan">https://apropos.substack.com/p/notes-on-bhutan</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46116179"...*
-  📅 Tue, 02 Dec 2025 01:30:15 +0000
+- **[Rootless Pings in Rust](https://bou.ke/blog/rust-ping/)**
+  *<p>Article URL: <a href="https://bou.ke/blog/rust-ping/">https://bou.ke/blog/rust-ping/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46118432">https://news.ycombinator.com/it...*
+  📅 Tue, 02 Dec 2025 07:01:03 +0000
 
 ### 📑 TechCrunch
+
+- **[Paris-based AI voice startup Gradium nabs $70M seed](https://techcrunch.com/2025/12/02/paris-based-ai-voice-startup-gradium-nabs-70m-seed/)**
+  *Gradium, a startup spawned out of French AI lab Kyutai (backed by French telecom billionaire Xavier Niel), launched out of stealth on Tuesday....*
+  📅 Tue, 02 Dec 2025 12:00:00 +0000
 
 - **[What does it mean when Uncle Sam is one of your biggest shareholders? Chip startup xLight is about to find out](https://techcrunch.com/2025/12/01/what-does-it-mean-when-uncle-sam-is-one-of-your-biggest-shareholders-chip-startup-xlight-is-about-to-find-out/)**
   *You can imagine how this is all going over in Silicon Valley, where the libertarian ethos runs deep....*
@@ -97,41 +100,21 @@
   *Shopify was down for many merchants this morning, preventing them from processing transactions. It appears to be fixed now....*
   📅 Mon, 01 Dec 2025 21:31:02 +0000
 
-- **[Nvidia announces new open AI models and tools for autonomous driving research](https://techcrunch.com/2025/12/01/nvidia-announces-new-open-ai-models-and-tools-for-autonomous-driving-research/)**
-  *Nvidia continues its push into physical AI with the release of a new reasoning world model and other tools for physical AI....*
-  📅 Mon, 01 Dec 2025 21:00:22 +0000
-
 ### 📑 Dev.to
 
-- **[🧠Maybe I Just Do Not Get It!](https://dev.to/marcosomma/maybe-i-just-do-not-get-it-5e3f)**
-  *<p>I have been working with AI for a while now.</p>
+- **[รัน Typhoon 2.5 บน Colab ฟรี: จาก 30B (ไม่ไหว) สู่ 4B "Sweet Spot"](https://dev.to/ubinix_warun/ran-typhoon-25-bn-colab-frii-cchaak-30b-aimaihw-suu-4b-sweet-spot-2jdp)**
+  *<p>สวัสดีครับ! นี่คือบทความสรุปการเดินทางของเราในการพยายามรันโมเดล Typhoon 2.5 (ทั้ง 30B และ 4B) บน Google Colab Free Tier ครับ เราได้ลองผิดลองถูกมาหลายวิธี และนี่คือบทเรียนทั้งหมดที่เราพบ ตั้งแต่ความ...*
+  📅 Tue, 02 Dec 2025 12:12:47 +0000
 
-<p>Not as a tourist. Not as a weekend hacker. Deep in it. Shipping things, wiring models into products, watching logs at 3am, apologizing to users ...*
-  📅 Tue, 02 Dec 2025 06:08:00 +0000
-
-- **[大模型微调：SFT](https://dev.to/aquareo/da-mo-xing-wei-diao-sft-1d54)**
-  *<h1>
+- **[Stop Prompting the Hard Way: How Mellea Gives You Supercharged AI Results](https://dev.to/manikandan/stop-prompting-the-hard-way-how-mellea-gives-you-supercharged-ai-results-2080)**
+  *<h2>
   
   
-  ⭐ 第二部分：SFT 完整流程（从头到尾讲给你听）
-</h1>
+  Introduction
+</h2>
 
-<p>我会用你能理解的方式讲：</p>
-
-
-
-
-<h1>
-  
-  
-  🔵 <strong>Step 1：准备 SFT 数据（Prompt → Answer）</strong>
-</h1>
-
-<p>比如 HH-RLHF 里有：<br />
-</p>
-
-<div class="highlight js-co...*
-  📅 Tue, 02 Dec 2025 06:06:39 +0000
+<p>Prompting used to feel like magic. Sometimes the AI gave great results sometimes it didn’t. But modern AI workloads require consistency, structure, validation, and ...*
+  📅 Tue, 02 Dec 2025 12:10:47 +0000
 
 </details>
 
@@ -139,103 +122,103 @@
 
 ### 📈 Daily Trending
 
-- **[PlummersSoftwareLLC/retropad](https://github.com/PlummersSoftwareLLC/retropad)** ⭐ 33
+- **[PlummersSoftwareLLC/retropad](https://github.com/PlummersSoftwareLLC/retropad)** ⭐ 61
   ![C](https://img.shields.io/badge/-C-lightgrey)
   None
 
-- **[mit-han-lab/vlash](https://github.com/mit-han-lab/vlash)** ⭐ 25
+- **[mit-han-lab/vlash](https://github.com/mit-han-lab/vlash)** ⭐ 36
   ![Python](https://img.shields.io/badge/-Python-blue)
   Real-Time VLAs via Future-state-aware Asynchronous Inference.
 
-- **[afoim/AnuNeko_NoneBot2_Plugins](https://github.com/afoim/AnuNeko_NoneBot2_Plugins)** ⭐ 14
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  一个基于 anuneko.com 的第三方NoneBot2前端，仅需配置x-token即可开箱即用
+- **[Gouryella/drip](https://github.com/Gouryella/drip)** ⭐ 34
+  ![Go](https://img.shields.io/badge/-Go-cyan)
+  Self-hosted tunneling solution to expose localhost securely - unlimited bandwidth, no third-party servers
 
-- **[mit-han-lab/fouroversix](https://github.com/mit-han-lab/fouroversix)** ⭐ 11
+- **[mit-han-lab/fouroversix](https://github.com/mit-han-lab/fouroversix)** ⭐ 24
   ![Python](https://img.shields.io/badge/-Python-blue)
   Code for the paper “Four Over Six: More Accurate NVFP4 Quantization with Adaptive Block Scaling”
 
-- **[Lampon/PanCheck](https://github.com/Lampon/PanCheck)** ⭐ 10
+- **[afoim/AnuNeko_NoneBot2_Plugins](https://github.com/afoim/AnuNeko_NoneBot2_Plugins)** ⭐ 19
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  一个基于 anuneko.com 的第三方NoneBot2前端，仅需配置x-token即可开箱即用
+
+- **[xmgcode88/simple-share](https://github.com/xmgcode88/simple-share)** ⭐ 18
+  ![Vue](https://img.shields.io/badge/-Vue-lightgrey)
+  参考飞书编辑器的现代化风格知识管理平台，基于Spring Boot + Vue3构建，提供所见即所得的文本编辑体验，支持多租户SaaS架构、内容权限管控、复制权限控制、会员内容管理、AI教学等模块，具备完整的用户体系和响应式设计。
+
+- **[Lampon/PanCheck](https://github.com/Lampon/PanCheck)** ⭐ 17
   ![Go](https://img.shields.io/badge/-Go-cyan)
   None
 
-- **[Jilliansea/TinyZeroWithSFT](https://github.com/Jilliansea/TinyZeroWithSFT)** ⭐ 6
+- **[studentiz/scifont](https://github.com/studentiz/scifont)** ⭐ 9
   ![Python](https://img.shields.io/badge/-Python-blue)
-  TinyZeroWithSFT
-
-- **[FINAL2012/ComfyUI-PointAndPrompt](https://github.com/FINAL2012/ComfyUI-PointAndPrompt)** ⭐ 4
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
-  Point & Prompt (点选提示器) - Human-in-the-loop 多模态提示词编辑节点
-
-- **[benjaminsliu/deletedarticles](https://github.com/benjaminsliu/deletedarticles)** ⭐ 4
-  ![None](https://img.shields.io/badge/-None-lightgrey)
-  None
+  scifont: Publication-ready, reproducible, and editable figures for Matplotlib.
 
 ### 📈 Weekly Trending
 
-- **[Tongyi-MAI/Z-Image](https://github.com/Tongyi-MAI/Z-Image)** ⭐ 3,598
+- **[Tongyi-MAI/Z-Image](https://github.com/Tongyi-MAI/Z-Image)** ⭐ 3,778
   ![None](https://img.shields.io/badge/-None-lightgrey)
   None
 
-- **[deepseek-ai/DeepSeek-Math-V2](https://github.com/deepseek-ai/DeepSeek-Math-V2)** ⭐ 1,310
+- **[deepseek-ai/DeepSeek-Math-V2](https://github.com/deepseek-ai/DeepSeek-Math-V2)** ⭐ 1,328
   ![Python](https://img.shields.io/badge/-Python-blue)
   None
 
-- **[Rohithgilla12/data-peek](https://github.com/Rohithgilla12/data-peek)** ⭐ 1,052
+- **[Rohithgilla12/data-peek](https://github.com/Rohithgilla12/data-peek)** ⭐ 1,084
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   A minimal, fast, database client desktop application. Built for developers who want to quickly peek at their data without the bloat.
 
-- **[portrret/spyder-osint](https://github.com/portrret/spyder-osint)** ⭐ 796
+- **[portrret/spyder-osint](https://github.com/portrret/spyder-osint)** ⭐ 797
   ![Python](https://img.shields.io/badge/-Python-blue)
   An universal osint tool.
 
-- **[Hong-Kong-Emergency-Coordination-Hub/Hong-Kong-Fire-Documentary](https://github.com/Hong-Kong-Emergency-Coordination-Hub/Hong-Kong-Fire-Documentary)** ⭐ 776
+- **[Hong-Kong-Emergency-Coordination-Hub/Hong-Kong-Fire-Documentary](https://github.com/Hong-Kong-Emergency-Coordination-Hub/Hong-Kong-Fire-Documentary)** ⭐ 783
   ![HTML](https://img.shields.io/badge/-HTML-lightgrey)
   Hong Kong Fire (Tai Po, 11/26): A major blaze swept through Wang Fuk Court
 
-- **[Gururagavendra/gmail-cleaner](https://github.com/Gururagavendra/gmail-cleaner)** ⭐ 672
+- **[Gururagavendra/gmail-cleaner](https://github.com/Gururagavendra/gmail-cleaner)** ⭐ 723
   ![Python](https://img.shields.io/badge/-Python-blue)
   web based GUI to cleanup gmail delete, mark as read, unsubsribe from uncessary things u dont like
 
-- **[stepfun-ai/gelab-zero](https://github.com/stepfun-ai/gelab-zero)** ⭐ 636
+- **[stepfun-ai/gelab-zero](https://github.com/stepfun-ai/gelab-zero)** ⭐ 708
   ![Python](https://img.shields.io/badge/-Python-blue)
   GELab: GUI Exploration Lab. One of the best GUI agent solutions in the galaxy, built by the StepFun-GELab team and powered by Step’s research capabilities.
 
-- **[gavrielc/Nano-PDF](https://github.com/gavrielc/Nano-PDF)** ⭐ 418
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  Edit PDF files with Nano Banana
+- **[666OS/ClashMac](https://github.com/666OS/ClashMac)** ⭐ 478
+  ![None](https://img.shields.io/badge/-None-lightgrey)
+  基于 Clash (mihomo) 内核的轻量级 macOS 菜单栏客户端
 
 ### 📈 Monthly Trending
 
-- **[Snapchat/Valdi](https://github.com/Snapchat/Valdi)** ⭐ 15,120
+- **[Snapchat/Valdi](https://github.com/Snapchat/Valdi)** ⭐ 15,183
   ![C++](https://img.shields.io/badge/-C++-pink)
   Valdi is a cross-platform UI framework that delivers native performance without sacrificing developer velocity.
 
-- **[karpathy/llm-council](https://github.com/karpathy/llm-council)** ⭐ 8,708
+- **[karpathy/llm-council](https://github.com/karpathy/llm-council)** ⭐ 8,820
   ![Python](https://img.shields.io/badge/-Python-blue)
   LLM Council works together to answer your hardest questions
 
-- **[ZeroLu/awesome-nanobanana-pro](https://github.com/ZeroLu/awesome-nanobanana-pro)** ⭐ 4,043
+- **[ZeroLu/awesome-nanobanana-pro](https://github.com/ZeroLu/awesome-nanobanana-pro)** ⭐ 4,168
   ![None](https://img.shields.io/badge/-None-lightgrey)
   🚀 An awesome list of curated Nano Banana pro prompts and examples. Your go-to resource for mastering prompt engineering and exploring the creative potential of the Nano banana pro(Nano banana 2) AI image model.
 
-- **[Tongyi-MAI/Z-Image](https://github.com/Tongyi-MAI/Z-Image)** ⭐ 3,598
+- **[Tongyi-MAI/Z-Image](https://github.com/Tongyi-MAI/Z-Image)** ⭐ 3,778
   ![None](https://img.shields.io/badge/-None-lightgrey)
   None
 
-- **[unhappychoice/gitlogue](https://github.com/unhappychoice/gitlogue)** ⭐ 3,211
+- **[unhappychoice/gitlogue](https://github.com/unhappychoice/gitlogue)** ⭐ 3,233
   ![Rust](https://img.shields.io/badge/-Rust-brown)
   A cinematic Git commit replay tool for the terminal, turning your Git history into a living, animated story.
 
-- **[ByteDance-Seed/Depth-Anything-3](https://github.com/ByteDance-Seed/Depth-Anything-3)** ⭐ 3,083
+- **[ByteDance-Seed/Depth-Anything-3](https://github.com/ByteDance-Seed/Depth-Anything-3)** ⭐ 3,100
   ![Python](https://img.shields.io/badge/-Python-blue)
   Depth Anything 3
 
-- **[Facepunch/sbox-public](https://github.com/Facepunch/sbox-public)** ⭐ 3,006
+- **[Facepunch/sbox-public](https://github.com/Facepunch/sbox-public)** ⭐ 3,016
   ![C#](https://img.shields.io/badge/-C#-lightgrey)
   s&box is a modern game engine, built on Valve's Source 2 and the latest .NET technology, it provides a modern intuitive editor for creating games
 
-- **[straight-tamago/misaka26](https://github.com/straight-tamago/misaka26)** ⭐ 2,842
+- **[straight-tamago/misaka26](https://github.com/straight-tamago/misaka26)** ⭐ 2,851
   ![None](https://img.shields.io/badge/-None-lightgrey)
   iOS /iPadOS 16.0 - 26.1, An ultimate customization tool, uilitizing the bug that makes TrollRestore possible. 
 
@@ -341,14 +324,14 @@ See [kubernetes-announce@](https://groups.google.com/forum/#!forum/kubernetes-an
 
 ### 📦 docker/compose
 
-**[v2.40.3](https://github.com/docker/compose/releases/tag/v2.40.3)** `v2.40.3`
+**[v5.0.0 "Mont Blanc"](https://github.com/docker/compose/releases/tag/v5.0.0)** `v5.0.0`
 
-📅 Released: October 30, 2025
+📅 Released: December 02, 2025
 
-## What's Changed
-### 🐛 Fixes
-* Fix OCI compose override support by @ndeloof https://github.com/docker/compose/pull/13311
-* Fix help output for "exec --no-tty" option by @tonyo https://github.com/d...
+![mont blanc](https://github.com/user-attachments/assets/1e6b938e-e67a-4063-b1d0-0f225da01521)
+
+Major changes in this release:
+* Compose can now officially be used as a SDK to be integrated into th...
 
 ---
 
@@ -502,59 +485,59 @@ for a semver-minor rele...
 
 | Skill | Status |
 |-------|--------|
-| Java | 🟡 Learning |
-| Python | 🟢 Proficient |
-| JavaScript | 🔴 Beginner |
-| TypeScript | 🔴 Beginner |
-| Go | 🟡 Learning |
+| Java | 🔴 Beginner |
+| Python | 🔴 Beginner |
+| JavaScript | ⚪ Planned |
+| TypeScript | 🟢 Proficient |
+| Go | ⚪ Planned |
 
 ### Frameworks
 
 | Skill | Status |
 |-------|--------|
-| React | 🟡 Learning |
+| React | ⚪ Planned |
 | Spring Boot | ⚪ Planned |
 | Django | 🔴 Beginner |
-| Node.js | ⚪ Planned |
+| Node.js | 🟢 Proficient |
 | Next.js | 🟢 Proficient |
 
 ### Cybersecurity
 
 | Skill | Status |
 |-------|--------|
-| Penetration Testing | 🟡 Learning |
-| Web Security | ⚪ Planned |
-| Network Security | 🟡 Learning |
-| OWASP | ⚪ Planned |
+| Penetration Testing | ⚪ Planned |
+| Web Security | 🟡 Learning |
+| Network Security | ⚪ Planned |
+| OWASP | 🟡 Learning |
 
 ### Ai Ml
 
 | Skill | Status |
 |-------|--------|
-| Machine Learning | 🟡 Learning |
-| Deep Learning | ⚪ Planned |
-| NLP | 🟢 Proficient |
-| Computer Vision | 🟡 Learning |
+| Machine Learning | ⚪ Planned |
+| Deep Learning | 🔴 Beginner |
+| NLP | ⚪ Planned |
+| Computer Vision | 🟢 Proficient |
 | TensorFlow | 🟡 Learning |
-| PyTorch | 🟢 Proficient |
+| PyTorch | 🔴 Beginner |
 
 ### Devops
 
 | Skill | Status |
 |-------|--------|
-| Docker | 🟢 Proficient |
-| Kubernetes | ⚪ Planned |
-| CI/CD | 🟢 Proficient |
-| AWS | ⚪ Planned |
-| Azure | 🔴 Beginner |
+| Docker | 🔴 Beginner |
+| Kubernetes | 🟡 Learning |
+| CI/CD | ⚪ Planned |
+| AWS | 🟡 Learning |
+| Azure | 🟢 Proficient |
 
 ### Other
 
 | Skill | Status |
 |-------|--------|
-| Blockchain | ⚪ Planned |
-| Web3 | 🟢 Proficient |
-| Cloud Computing | 🔴 Beginner |
+| Blockchain | 🟢 Proficient |
+| Web3 | ⚪ Planned |
+| Cloud Computing | 🟢 Proficient |
 
 </details>
 
