@@ -7,7 +7,7 @@
 ![AI & ML](https://img.shields.io/badge/-AI%20&%20ML-blue) ![CyberSecurity](https://img.shields.io/badge/-CyberSecurity-red) ![Full Stack Development](https://img.shields.io/badge/-Full%20Stack%20Development-green)
 
 [![Auto Update](https://img.shields.io/badge/Auto%20Update-Enabled-success)](https://github.com/yourusername/tech-dashboard/actions)
-[![Last Updated](https://img.shields.io/badge/Last%20Updated-December 02, 2025-blue)](https://github.com/yourusername/tech-dashboard)
+[![Last Updated](https://img.shields.io/badge/Last%20Updated-December 03, 2025-blue)](https://github.com/yourusername/tech-dashboard)
 
 *Automatically updated every 6 hours with the latest tech news, trending repositories, and learning resources.*
 
@@ -46,75 +46,71 @@
 
 ### 📑 Hacker News
 
-- **[Progress on TypeScript 7 – December 2025](https://devblogs.microsoft.com/typescript/progress-on-typescript-7-december-2025/)**
-  *<p>Article URL: <a href="https://devblogs.microsoft.com/typescript/progress-on-typescript-7-december-2025/">https://devblogs.microsoft.com/typescript/progress-on-typescript-7-december-2025/</a></p>
-<p...*
-  📅 Tue, 02 Dec 2025 17:37:06 +0000
+- **[DOOM could have had PC Speaker Music](https://lenowo.org/viewtopic.php?t=45)**
+  *<p>Article URL: <a href="https://lenowo.org/viewtopic.php?t=45">https://lenowo.org/viewtopic.php?t=45</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46128286">https://news.ycom...*
+  📅 Tue, 02 Dec 2025 23:19:07 +0000
 
-- **[Apple to beat Samsung in smartphone shipments for first time in 14 years](https://sherwood.news/tech/apple-to-beat-samsung-in-smartphone-shipments-for-first-time-in-14-years/)**
-  *<p>Article URL: <a href="https://sherwood.news/tech/apple-to-beat-samsung-in-smartphone-shipments-for-first-time-in-14-years/">https://sherwood.news/tech/apple-to-beat-samsung-in-smartphone-shipments-...*
-  📅 Tue, 02 Dec 2025 17:24:33 +0000
+- **[Exploring Large HTML Documents on the Web](https://calendar.perfplanet.com/2025/exploring-large-html-documents-on-the-web/)**
+  *<p>Article URL: <a href="https://calendar.perfplanet.com/2025/exploring-large-html-documents-on-the-web/">https://calendar.perfplanet.com/2025/exploring-large-html-documents-on-the-web/</a></p>
+<p>Com...*
+  📅 Tue, 02 Dec 2025 22:32:45 +0000
 
-- **[Poka Labs (YC S24) Is Hiring a Founding Engineer](https://www.ycombinator.com/companies/poka-labs/jobs/RCQgmqB-founding-engineer)**
-  *<p>Article URL: <a href="https://www.ycombinator.com/companies/poka-labs/jobs/RCQgmqB-founding-engineer">https://www.ycombinator.com/companies/poka-labs/jobs/RCQgmqB-founding-engineer</a></p>
-<p>Comme...*
-  📅 Tue, 02 Dec 2025 17:00:12 +0000
+- **[AI generated font using Nano Banana](https://constanttime.notion.site/Worlds-first-Ai-generated-font-using-nano-banana-2ba6f8e15af18012864bdb760fa9c9ba?pvs=74)**
+  *<p>Article URL: <a href="https://constanttime.notion.site/Worlds-first-Ai-generated-font-using-nano-banana-2ba6f8e15af18012864bdb760fa9c9ba?pvs=74">https://constanttime.notion.site/Worlds-first-Ai-gen...*
+  📅 Tue, 02 Dec 2025 21:52:30 +0000
 
-- **[4.3M Browsers Infected: Inside ShadyPanda's 7-Year Malware Campaign](https://www.koi.ai/blog/4-million-browsers-infected-inside-shadypanda-7-year-malware-campaign)**
-  *<p>Article URL: <a href="https://www.koi.ai/blog/4-million-browsers-infected-inside-shadypanda-7-year-malware-campaign">https://www.koi.ai/blog/4-million-browsers-infected-inside-shadypanda-7-year-mal...*
-  📅 Tue, 02 Dec 2025 16:30:52 +0000
+- **[Ecosia: The greenest AI is here](https://blog.ecosia.org/ecosia-ai/)**
+  *<p>Article URL: <a href="https://blog.ecosia.org/ecosia-ai/">https://blog.ecosia.org/ecosia-ai/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46126964">https://news.ycombinato...*
+  📅 Tue, 02 Dec 2025 21:14:38 +0000
 
-- **[Fallout 2's Chris Avellone describes his game design philosophy](https://arstechnica.com/gaming/2025/12/fallout-2-designer-chris-avellone-recalls-his-first-forays-into-game-development/)**
-  *<p>Article URL: <a href="https://arstechnica.com/gaming/2025/12/fallout-2-designer-chris-avellone-recalls-his-first-forays-into-game-development/">https://arstechnica.com/gaming/2025/12/fallout-2-desi...*
-  📅 Tue, 02 Dec 2025 15:56:39 +0000
+- **[Delty (YC X25) Is Hiring](https://www.ycombinator.com/companies/delty/jobs/aPWMaiq-full-stack-software-engineer)**
+  *<p>Article URL: <a href="https://www.ycombinator.com/companies/delty/jobs/aPWMaiq-full-stack-software-engineer">https://www.ycombinator.com/companies/delty/jobs/aPWMaiq-full-stack-software-engineer</a...*
+  📅 Tue, 02 Dec 2025 21:00:59 +0000
 
-- **[Show HN: RunMat – runtime with auto CPU/GPU routing for dense math](https://github.com/runmat-org/runmat)**
-  *<p>Hi, I’m Nabeel. In August I released RunMat as an open-source runtime for MATLAB code that was already much faster than GNU Octave on the workloads I tried. <a href="https://news.ycombinator.com/it...*
-  📅 Tue, 02 Dec 2025 15:07:49 +0000
+- **[Paged Out](https://pagedout.institute)**
+  *<p>Article URL: <a href="https://pagedout.institute">https://pagedout.institute</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46126217">https://news.ycombinator.com/item?id=46...*
+  📅 Tue, 02 Dec 2025 20:14:20 +0000
 
 ### 📑 TechCrunch
 
-- **[Netflix launches a mobile-friendly version of Red Dead Redemption](https://techcrunch.com/2025/12/02/netflix-launches-a-mobile-friendly-version-of-red-dead-redemption/)**
-  *Red Dead Redemption is officially available for Netflix subscribers on iOS and Android Devices....*
-  📅 Tue, 02 Dec 2025 18:00:51 +0000
+- **[Amazon challenges competitors with on-premises Nvidia ‘AI Factories’](https://techcrunch.com/2025/12/02/amazon-challenges-competitors-with-on-premises-nvidia-ai-factories/)**
+  *If the product name sounds familiar, it should. It's a collab with Nvidia that combines AWS tech with the chip maker's tech....*
+  📅 Wed, 03 Dec 2025 00:43:37 +0000
 
-- **[ChatGPT referrals to retailers’ apps increased 28% year-over-year, says report](https://techcrunch.com/2025/12/02/chatgpt-referrals-to-retailers-apps-increased-28-year-over-year-says-report/)**
-  *ChatGPT referrals to retailers' apps were up on Black Friday year-over-year, with Walmart and Amazon benefitting the most....*
-  📅 Tue, 02 Dec 2025 17:56:16 +0000
+- **[Bending Spoons agrees to buy Eventbrite for $500M to revive stalled brand](https://techcrunch.com/2025/12/02/bending-spoons-agrees-to-buy-eventbrite-for-500m-to-revive-stalled-brand/)**
+  *The acquisition price for the events marketplace is a fraction of the $1.76 billion valuation it achieved during its 2018 IPO....*
+  📅 Tue, 02 Dec 2025 23:03:55 +0000
 
-- **[AWS launches new Nova AI models and a service that gives customers more control](https://techcrunch.com/2025/12/02/aws-launches-new-nova-ai-models-and-a-service-that-gives-customers-more-control/)**
-  *Amazon Web Services announced four new AI models within its Nova model family and a frontier model service....*
-  📅 Tue, 02 Dec 2025 17:54:02 +0000
+- **[All the biggest news from AWS’ big tech show re:Invent 2025](https://techcrunch.com/2025/12/02/all-the-biggest-news-from-aws-big-tech-show-reinvent-2025/)**
+  *Amazon Web Services giant tech conference is happening this week with news ranging from chips to AI services....*
+  📅 Tue, 02 Dec 2025 23:02:04 +0000
 
-- **[OpenAI slammed for app suggestions that looked like ads](https://techcrunch.com/2025/12/02/openai-slammed-for-app-suggestions-that-looked-like-ads/)**
-  *OpenAI said the app suggestion was only a test and not a paid ad....*
-  📅 Tue, 02 Dec 2025 16:43:21 +0000
+- **[Kalshi raises $1B at $11B valuation, doubling value in under two months](https://techcrunch.com/2025/12/02/kalshi-raises-1b-at-11b-valuation-doubling-value-in-under-two-months/)**
+  *The latest funding comes less than two months after Kalshi announced that it raised $300 million at a $5 billion valuation....*
+  📅 Tue, 02 Dec 2025 22:30:42 +0000
 
-- **[Discord users can now buy in-game items without leaving the platform](https://techcrunch.com/2025/12/02/discord-users-can-now-buy-in-game-items-without-leaving-the-platform/)**
-  *Discord users can now purchase digital game items directly within the platform, create wishlists, and send gifts through DMs....*
-  📅 Tue, 02 Dec 2025 16:42:31 +0000
+- **[Google tests merging AI Overviews with AI Mode](https://techcrunch.com/2025/12/02/google-tests-merging-ai-overviews-with-ai-mode/)**
+  *Google is testing how to make it easier to move from search to an AI chat in a new global test....*
+  📅 Tue, 02 Dec 2025 22:26:34 +0000
 
-- **[YouTube releases its first-ever recap of videos you’ve watched](https://techcrunch.com/2025/12/02/youtube-releases-its-first-ever-recap-of-videos-youve-watched/)**
-  *YouTube Recap features a set of up to 12 different cards that highlight a user's top channels, interests, the evolution of their viewing habits, and which personality type they fall into based on the ...*
-  📅 Tue, 02 Dec 2025 16:35:05 +0000
+- **[Amazon previews 3 AI agents, including ‘Kiro’ that can code on its own for days](https://techcrunch.com/2025/12/02/amazon-previews-3-ai-agents-including-kiro-that-can-code-on-its-own-for-days/)**
+  *Amazon Web Services on Tuesday announced three new AI agents it calls "Frontier agents" for coding, security, and DevOps....*
+  📅 Tue, 02 Dec 2025 22:18:01 +0000
 
 ### 📑 Dev.to
 
-- **[CinemaSins: Everything Wrong With Superman (2025) In 17 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-superman-2025-in-17-minutes-or-less-3bnj)**
-  *<h1>
-  
-  
-  TL;DR
-</h1>
+- **[re:Invent25, jour 1 : « boom »](https://dev.to/aws-builders/reinvent25-jour-1-boom--3i1h)**
+  *<p>Je suis le "What's new" d'AWS de façon quasi quotidienne depuis plus de 7 ans. J'ai trouvé certaines éditions de re:Invent excitantes, d'autres décevantes.. mais j'ai rarement éprouvé le sentiment ...*
+  📅 Wed, 03 Dec 2025 00:51:23 +0000
 
-<p>CinemaSins just dropped a new “Everything Wrong With Superman (2025) In 17 Minutes Or Less” video, where they hilariously roast the latest Man of Steel flick by pointing o...*
-  📅 Tue, 02 Dec 2025 18:02:35 +0000
+- **[Don’t Limit Yourself: Why Broadening Your Tech Horizons Keeps You Relevant](https://dev.to/andersoncontreira/dont-limit-yourself-why-broadening-your-tech-horizons-keeps-you-relevant-51dn)**
+  *<p>If there is one thing time has taught me working in IT, it is this: getting stuck with what you already know is the fastest path to being left behind.</p>
 
-- **[Most Outages Are Preventable: Why Your System Needs Self-Healing Yesterday](https://dev.to/vimgudy/most-outages-are-preventable-why-your-system-needs-self-healing-yesterday-27jb)**
-  *<p><strong>Self-healing systems are basically computer systems that can fix themselves automatically when something goes wrong.</strong> </p>
-
-<p>Instead of waiting for a human to notice a problem and...*
-  📅 Tue, 02 Dec 2025 18:00:39 +0000
+<p>Our field evolves constantly. You do n...*
+  📅 Wed, 03 Dec 2025 00:36:48 +0000
 
 </details>
 
@@ -122,103 +118,103 @@
 
 ### 📈 Daily Trending
 
-- **[PlummersSoftwareLLC/retropad](https://github.com/PlummersSoftwareLLC/retropad)** ⭐ 83
-  ![C](https://img.shields.io/badge/-C-lightgrey)
+- **[Badraajs/Birthday-Card-for-Ayurr](https://github.com/Badraajs/Birthday-Card-for-Ayurr)** ⭐ 1
+  ![HTML](https://img.shields.io/badge/-HTML-lightgrey)
+  Ayurr's Birthday
+
+- **[feiyu23/spark-resume-ai](https://github.com/feiyu23/spark-resume-ai)** ⭐ 1
+  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
+  🎯 AI-powered resume optimizer for Australian job market - Open source toolkit with 20+ years hiring insights. First in the Spark Career Tools series.
+
+- **[pstat197/vignette-montecarlo](https://github.com/pstat197/vignette-montecarlo)** ⭐ 1
+  ![None](https://img.shields.io/badge/-None-lightgrey)
+  Intro to Monte Carlo methods with examples, code, and visualizations.
+
+- **[Samarthkore07/samarth07](https://github.com/Samarthkore07/samarth07)** ⭐ 1
+  ![None](https://img.shields.io/badge/-None-lightgrey)
   None
 
-- **[pkr91/lucky-2026](https://github.com/pkr91/lucky-2026)** ⭐ 48
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
-  2026년 운세 분석 사이트
-
-- **[Gouryella/drip](https://github.com/Gouryella/drip)** ⭐ 45
+- **[AlexMagwitch/S21_Go](https://github.com/AlexMagwitch/S21_Go)** ⭐ 1
   ![Go](https://img.shields.io/badge/-Go-cyan)
-  Self-hosted tunneling solution to expose localhost securely - unlimited bandwidth, no third-party servers
+  None
 
-- **[mit-han-lab/vlash](https://github.com/mit-han-lab/vlash)** ⭐ 41
+- **[Entropify/AI-Chef](https://github.com/Entropify/AI-Chef)** ⭐ 1
+  ![CSS](https://img.shields.io/badge/-CSS-lightgrey)
+  Just tell it what you have in your fridge, and it will tell you what to cook for tonight!
+
+- **[caolry/dajiadianyidiansi](https://github.com/caolry/dajiadianyidiansi)** ⭐ 1
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
+  None
+
+- **[VanessaLZampieri/hello_world](https://github.com/VanessaLZampieri/hello_world)** ⭐ 1
   ![Python](https://img.shields.io/badge/-Python-blue)
-  Real-Time VLAs via Future-state-aware Asynchronous Inference.
-
-- **[wannalie/sora-watermark-cleaner](https://github.com/wannalie/sora-watermark-cleaner)** ⭐ 32
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  Sora2 Watermark Cleaner (GUI) is a graphical application for removing your own technical or test watermarks from images and videos during development or internal workflows.
-
-- **[mit-han-lab/fouroversix](https://github.com/mit-han-lab/fouroversix)** ⭐ 32
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  Code for the paper “Four Over Six: More Accurate NVFP4 Quantization with Adaptive Block Scaling”
-
-- **[xmgcode88/simple-share](https://github.com/xmgcode88/simple-share)** ⭐ 27
-  ![Vue](https://img.shields.io/badge/-Vue-lightgrey)
-  参考飞书编辑器的现代化风格知识管理平台，基于Spring Boot + Vue3构建，提供所见即所得的文本编辑体验，支持多租户SaaS架构、内容权限管控、复制权限控制、会员内容管理、AI教学等模块，具备完整的用户体系和响应式设计。
-
-- **[wannalie/Sora2WatermarkCleaner](https://github.com/wannalie/Sora2WatermarkCleaner)** ⭐ 27
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  Sora2 Watermark Cleaner is a command-line utility designed to remove your own technical or test watermarks from images or videos generated by your workflows, prototypes, or internal tools.   It is intended for developers, researchers, and creators who need to clean up assets during experimentation or post-processing.
+  None
 
 ### 📈 Weekly Trending
 
-- **[Tongyi-MAI/Z-Image](https://github.com/Tongyi-MAI/Z-Image)** ⭐ 3,857
-  ![None](https://img.shields.io/badge/-None-lightgrey)
-  None
-
-- **[deepseek-ai/DeepSeek-Math-V2](https://github.com/deepseek-ai/DeepSeek-Math-V2)** ⭐ 1,340
+- **[deepseek-ai/DeepSeek-Math-V2](https://github.com/deepseek-ai/DeepSeek-Math-V2)** ⭐ 1,352
   ![Python](https://img.shields.io/badge/-Python-blue)
   None
 
-- **[Rohithgilla12/data-peek](https://github.com/Rohithgilla12/data-peek)** ⭐ 1,112
+- **[Rohithgilla12/data-peek](https://github.com/Rohithgilla12/data-peek)** ⭐ 1,126
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   A minimal, fast, database client desktop application. Built for developers who want to quickly peek at their data without the bloat.
 
-- **[portrret/spyder-osint](https://github.com/portrret/spyder-osint)** ⭐ 807
+- **[portrret/spyder-osint](https://github.com/portrret/spyder-osint)** ⭐ 843
   ![Python](https://img.shields.io/badge/-Python-blue)
   An universal osint tool.
 
-- **[Hong-Kong-Emergency-Coordination-Hub/Hong-Kong-Fire-Documentary](https://github.com/Hong-Kong-Emergency-Coordination-Hub/Hong-Kong-Fire-Documentary)** ⭐ 792
+- **[Hong-Kong-Emergency-Coordination-Hub/Hong-Kong-Fire-Documentary](https://github.com/Hong-Kong-Emergency-Coordination-Hub/Hong-Kong-Fire-Documentary)** ⭐ 797
   ![HTML](https://img.shields.io/badge/-HTML-lightgrey)
   Hong Kong Fire (Tai Po, 11/26): A major blaze swept through Wang Fuk Court
 
-- **[Gururagavendra/gmail-cleaner](https://github.com/Gururagavendra/gmail-cleaner)** ⭐ 762
+- **[Gururagavendra/gmail-cleaner](https://github.com/Gururagavendra/gmail-cleaner)** ⭐ 785
   ![Python](https://img.shields.io/badge/-Python-blue)
   web based GUI to cleanup gmail delete, mark as read, unsubsribe from uncessary things u dont like
 
-- **[stepfun-ai/gelab-zero](https://github.com/stepfun-ai/gelab-zero)** ⭐ 740
+- **[stepfun-ai/gelab-zero](https://github.com/stepfun-ai/gelab-zero)** ⭐ 746
   ![Python](https://img.shields.io/badge/-Python-blue)
   GELab: GUI Exploration Lab. One of the best GUI agent solutions in the galaxy, built by the StepFun-GELab team and powered by Step’s research capabilities.
 
-- **[666OS/ClashMac](https://github.com/666OS/ClashMac)** ⭐ 506
+- **[666OS/ClashMac](https://github.com/666OS/ClashMac)** ⭐ 539
   ![None](https://img.shields.io/badge/-None-lightgrey)
   基于 Clash (mihomo) 内核的轻量级 macOS 菜单栏客户端
 
+- **[gavrielc/Nano-PDF](https://github.com/gavrielc/Nano-PDF)** ⭐ 497
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  Edit PDF files with Nano Banana
+
 ### 📈 Monthly Trending
 
-- **[Snapchat/Valdi](https://github.com/Snapchat/Valdi)** ⭐ 15,275
+- **[Snapchat/Valdi](https://github.com/Snapchat/Valdi)** ⭐ 15,317
   ![C++](https://img.shields.io/badge/-C++-pink)
   Valdi is a cross-platform UI framework that delivers native performance without sacrificing developer velocity.
 
-- **[karpathy/llm-council](https://github.com/karpathy/llm-council)** ⭐ 8,916
+- **[karpathy/llm-council](https://github.com/karpathy/llm-council)** ⭐ 8,985
   ![Python](https://img.shields.io/badge/-Python-blue)
   LLM Council works together to answer your hardest questions
 
-- **[ZeroLu/awesome-nanobanana-pro](https://github.com/ZeroLu/awesome-nanobanana-pro)** ⭐ 4,276
+- **[ZeroLu/awesome-nanobanana-pro](https://github.com/ZeroLu/awesome-nanobanana-pro)** ⭐ 4,363
   ![None](https://img.shields.io/badge/-None-lightgrey)
   🚀 An awesome list of curated Nano Banana pro prompts and examples. Your go-to resource for mastering prompt engineering and exploring the creative potential of the Nano banana pro(Nano banana 2) AI image model.
 
-- **[Tongyi-MAI/Z-Image](https://github.com/Tongyi-MAI/Z-Image)** ⭐ 3,857
+- **[Tongyi-MAI/Z-Image](https://github.com/Tongyi-MAI/Z-Image)** ⭐ 3,910
   ![None](https://img.shields.io/badge/-None-lightgrey)
   None
 
-- **[unhappychoice/gitlogue](https://github.com/unhappychoice/gitlogue)** ⭐ 3,256
+- **[unhappychoice/gitlogue](https://github.com/unhappychoice/gitlogue)** ⭐ 3,278
   ![Rust](https://img.shields.io/badge/-Rust-brown)
   A cinematic Git commit replay tool for the terminal, turning your Git history into a living, animated story.
 
-- **[ByteDance-Seed/Depth-Anything-3](https://github.com/ByteDance-Seed/Depth-Anything-3)** ⭐ 3,109
+- **[ByteDance-Seed/Depth-Anything-3](https://github.com/ByteDance-Seed/Depth-Anything-3)** ⭐ 3,115
   ![Python](https://img.shields.io/badge/-Python-blue)
   Depth Anything 3
 
-- **[Facepunch/sbox-public](https://github.com/Facepunch/sbox-public)** ⭐ 3,034
+- **[Facepunch/sbox-public](https://github.com/Facepunch/sbox-public)** ⭐ 3,046
   ![C#](https://img.shields.io/badge/-C#-lightgrey)
   s&box is a modern game engine, built on Valve's Source 2 and the latest .NET technology, it provides a modern intuitive editor for creating games
 
-- **[straight-tamago/misaka26](https://github.com/straight-tamago/misaka26)** ⭐ 2,854
+- **[straight-tamago/misaka26](https://github.com/straight-tamago/misaka26)** ⭐ 2,859
   ![None](https://img.shields.io/badge/-None-lightgrey)
   iOS /iPadOS 16.0 - 26.1, An ultimate customization tool, uilitizing the bug that makes TrollRestore possible. 
 
@@ -485,57 +481,57 @@ for a semver-minor rele...
 
 | Skill | Status |
 |-------|--------|
-| Java | ⚪ Planned |
+| Java | 🟡 Learning |
 | Python | 🟢 Proficient |
-| JavaScript | ⚪ Planned |
-| TypeScript | 🟢 Proficient |
-| Go | 🟢 Proficient |
+| JavaScript | 🔴 Beginner |
+| TypeScript | ⚪ Planned |
+| Go | 🟡 Learning |
 
 ### Frameworks
 
 | Skill | Status |
 |-------|--------|
-| React | ⚪ Planned |
-| Spring Boot | 🟡 Learning |
-| Django | 🟡 Learning |
+| React | 🟡 Learning |
+| Spring Boot | 🔴 Beginner |
+| Django | 🟢 Proficient |
 | Node.js | 🔴 Beginner |
-| Next.js | 🟡 Learning |
+| Next.js | 🟢 Proficient |
 
 ### Cybersecurity
 
 | Skill | Status |
 |-------|--------|
 | Penetration Testing | 🔴 Beginner |
-| Web Security | 🟢 Proficient |
-| Network Security | 🟢 Proficient |
-| OWASP | 🔴 Beginner |
+| Web Security | 🟡 Learning |
+| Network Security | 🔴 Beginner |
+| OWASP | 🟡 Learning |
 
 ### Ai Ml
 
 | Skill | Status |
 |-------|--------|
-| Machine Learning | 🔴 Beginner |
-| Deep Learning | 🔴 Beginner |
-| NLP | ⚪ Planned |
-| Computer Vision | 🔴 Beginner |
-| TensorFlow | 🟢 Proficient |
-| PyTorch | ⚪ Planned |
+| Machine Learning | ⚪ Planned |
+| Deep Learning | 🟢 Proficient |
+| NLP | 🟡 Learning |
+| Computer Vision | ⚪ Planned |
+| TensorFlow | ⚪ Planned |
+| PyTorch | 🟢 Proficient |
 
 ### Devops
 
 | Skill | Status |
 |-------|--------|
-| Docker | 🔴 Beginner |
-| Kubernetes | ⚪ Planned |
-| CI/CD | 🔴 Beginner |
-| AWS | 🔴 Beginner |
-| Azure | ⚪ Planned |
+| Docker | 🟢 Proficient |
+| Kubernetes | 🟡 Learning |
+| CI/CD | 🟡 Learning |
+| AWS | 🟢 Proficient |
+| Azure | 🟢 Proficient |
 
 ### Other
 
 | Skill | Status |
 |-------|--------|
-| Blockchain | 🟡 Learning |
+| Blockchain | 🔴 Beginner |
 | Web3 | ⚪ Planned |
 | Cloud Computing | 🟢 Proficient |
 
@@ -555,7 +551,7 @@ This dashboard is automatically updated every 6 hours using GitHub Actions. The 
 
 <div align="center">
 
-**Last Updated:** December 02, 2025
+**Last Updated:** December 03, 2025
 
 Made with ❤️ and automated with GitHub Actions
 
