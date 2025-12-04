@@ -46,83 +46,72 @@
 
 ### 📑 Hacker News
 
-- **[30 years ago today "Netscape and Sun announce JavaScript"](https://web.archive.org/web/20070916144913/http://wp.netscape.com/newsref/pr/newsrelease67.html)**
-  *<p>Article URL: <a href="https://web.archive.org/web/20070916144913/http://wp.netscape.com/newsref/pr/newsrelease67.html">https://web.archive.org/web/20070916144913/http://wp.netscape.com/newsref/pr/n...*
-  📅 Thu, 04 Dec 2025 11:32:00 +0000
+- **[Converge (YC S23) is hiring a martech expert in NYC](https://www.runconverge.com/careers/technical-customer-success-manager)**
+  *<p>Article URL: <a href="https://www.runconverge.com/careers/technical-customer-success-manager">https://www.runconverge.com/careers/technical-customer-success-manager</a></p>
+<p>Comments URL: <a href...*
+  📅 Thu, 04 Dec 2025 17:00:37 +0000
 
-- **[NextJS Security Vulnerability](https://nextjs.org/blog/CVE-2025-66478)**
-  *<p>Article URL: <a href="https://nextjs.org/blog/CVE-2025-66478">https://nextjs.org/blog/CVE-2025-66478</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46146266">https://news.yc...*
-  📅 Thu, 04 Dec 2025 11:14:04 +0000
+- **[Multivox: Volumetric Display](https://github.com/AncientJames/multivox)**
+  *<p>Article URL: <a href="https://github.com/AncientJames/multivox">https://github.com/AncientJames/multivox</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46149813">https://new...*
+  📅 Thu, 04 Dec 2025 16:58:35 +0000
 
-- **[Building optimistic UI in Rails (and learn custom elements)](https://railsdesigner.com/custom-elements/)**
-  *<p>Article URL: <a href="https://railsdesigner.com/custom-elements/">https://railsdesigner.com/custom-elements/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46146204">https:/...*
-  📅 Thu, 04 Dec 2025 11:03:16 +0000
+- **[The End of the Train-Test Split](https://folio.benguzovsky.com/train-test)**
+  *<p>Article URL: <a href="https://folio.benguzovsky.com/train-test">https://folio.benguzovsky.com/train-test</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46149740">https://new...*
+  📅 Thu, 04 Dec 2025 16:53:49 +0000
 
-- **[PGlite – Embeddable Postgres](https://pglite.dev/)**
-  *<p>Article URL: <a href="https://pglite.dev/">https://pglite.dev/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46146133">https://news.ycombinator.com/item?id=46146133</a></p>...*
-  📅 Thu, 04 Dec 2025 10:52:42 +0000
+- **[Launch HN: Browser Buddy (YC W24) – A recommendation system for Internet writing](https://www.browserbuddy.com/)**
+  *<p>Hey HN! We're Arnav and Jeremy and we're building Browser Buddy, a recommendation system you can chat with to find quality Internet writing based on your interests and aspirations.<p>As we've grown...*
+  📅 Thu, 04 Dec 2025 16:52:56 +0000
 
-- **[Tunnl.gg](https://tunnl.gg)**
-  *<p>Article URL: <a href="https://tunnl.gg">https://tunnl.gg</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46145902">https://news.ycombinator.com/item?id=46145902</a></p>
-<p>Po...*
-  📅 Thu, 04 Dec 2025 10:15:53 +0000
+- **[Autism should not be treated as a single condition](https://www.economist.com/science-and-technology/2025/12/03/why-autism-should-not-be-treated-as-a-single-condition)**
+  *<p>Article URL: <a href="https://www.economist.com/science-and-technology/2025/12/03/why-autism-should-not-be-treated-as-a-single-condition">https://www.economist.com/science-and-technology/2025/12/03...*
+  📅 Thu, 04 Dec 2025 16:25:31 +0000
 
-- **[Unreal Tournament 2004 is back](https://old.reddit.com/r/unrealtournament/comments/1pdbe69/breaking_unreal_tournament_2004_is_back/)**
-  *<p>Article URL: <a href="https://old.reddit.com/r/unrealtournament/comments/1pdbe69/breaking_unreal_tournament_2004_is_back/">https://old.reddit.com/r/unrealtournament/comments/1pdbe69/breaking_unreal...*
-  📅 Thu, 04 Dec 2025 10:06:35 +0000
+- **[Feynman vs. Computer](https://entropicthoughts.com/feynman-vs-computer)**
+  *<p>Article URL: <a href="https://entropicthoughts.com/feynman-vs-computer">https://entropicthoughts.com/feynman-vs-computer</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46149...*
+  📅 Thu, 04 Dec 2025 16:03:02 +0000
 
 ### 📑 TechCrunch
 
-- **[Nexus isn’t going all-in on AI, keeping half of its new $700M fund for India startups](https://techcrunch.com/2025/12/04/nexus-isnt-going-all-in-on-ai-keeping-its-new-700m-fund-balanced-with-india-bets/)**
-  *Nexus Venture Partners manages $3.2 billion in capital across its funds and has invested in more than 130 companies over the years....*
-  📅 Thu, 04 Dec 2025 11:00:00 +0000
+- **[Sanctioned spyware maker Intellexa had direct access to government espionage victims, researchers say](https://techcrunch.com/2025/12/04/sanctioned-spyware-maker-intellexa-had-direct-access-to-government-espionage-victims-researchers-say/)**
+  *Based on a leaked video, security researchers alleged that Intellexa staffers have remote live access to their customers' surveillance systems, allowing them to see hacking targets’ personal data....*
+  📅 Thu, 04 Dec 2025 18:15:42 +0000
 
-- **[Gemini was Google’s top trending search term in 2025](https://techcrunch.com/2025/12/04/gemini-was-googles-top-trending-search-term-in-2025/)**
-  *Gemini wasn’t the only AI chatbot to make the list, as DeepSeek ranked seventh among the year’s trending searches....*
-  📅 Thu, 04 Dec 2025 08:01:00 +0000
+- **[Amazon’s new Kindle Scribe and Kindle Scribe Colorsoft launch on December 10](https://techcrunch.com/2025/12/04/amazon-unveils-new-kindle-scribe-and-kindle-scribe-colorsoft/)**
+  *The new Kindle Scribe has a larger 11-inch glare-free display, is just 5.4 mm thick, and weighs only 400 g. It’s also 40% faster when writing or turning pages....*
+  📅 Thu, 04 Dec 2025 17:52:09 +0000
 
-- **[New unicorn Brevo raises $583M to challenge CRM giants](https://techcrunch.com/2025/12/03/new-unicorn-brevo-raises-583m-to-challenge-crm-giants/)**
-  *Brevo, a customer relationship management company headquartered in Paris, is now a unicorn....*
-  📅 Thu, 04 Dec 2025 04:00:00 +0000
+- **[California’s ban on self-driving trucks could soon be over](https://techcrunch.com/2025/12/04/californias-ban-on-self-driving-trucks-could-soon-be-over/)**
+  *Revised rules in California would allow self-driving trucks to test on public highways. The rules also close a loophole allowing police to issue tickets for driverless vehicles....*
+  📅 Thu, 04 Dec 2025 17:05:28 +0000
 
-- **[Day One Ventures’ Masha Bucher on why every founder needs to be an influencer](https://techcrunch.com/video/day-one-ventures-masha-bucher-on-why-every-founder-needs-to-be-an-influencer/)**
-  *Tech is racing ahead while society struggles to keep up.&#160;Masha Bucher, founder and GP of&#160;Day One Ventures, built her firm around closing that gap by&#160;combining venture capital with hands...*
-  📅 Thu, 04 Dec 2025 01:00:00 +0000
+- **[Why Day One Ventures’ Masha Bucher thinks VCs and storytelling go hand-in-hand](https://techcrunch.com/2025/12/04/why-day-one-ventures-masha-bucher-thinks-vcs-and-storytelling-go-hand-in-hand/)**
+  *Day One Ventures' Masha Bucher doesn't just invest in startups — she also tells their stories. Her integrated model aligns incentives and proves conviction matters more than contracts....*
+  📅 Thu, 04 Dec 2025 17:00:00 +0000
 
-- **[Amazon hopes to jump-start its AI coding tool Kiro by giving it away to startups](https://techcrunch.com/2025/12/03/amazon-hopes-to-jump-start-its-ai-coding-tool-kiro-by-giving-it-away-to-startups/)**
-  *Can Kiro win the hearts of startup founders above the many AI coding tools they already have? Amazon hopes a free year will tempt them....*
-  📅 Wed, 03 Dec 2025 23:55:14 +0000
+- **[Meta centralizes Facebook and Instagram support, tests AI support assistant](https://techcrunch.com/2025/12/04/meta-centralizes-facebook-and-instagram-support-tests-ai-support-assistant/)**
+  *The new support hub will connect users to security tools, account recovery options, and an AI assistant....*
+  📅 Thu, 04 Dec 2025 17:00:00 +0000
 
-- **[All the biggest news from AWS’ big tech show re:Invent 2025](https://techcrunch.com/2025/12/03/all-the-biggest-news-from-aws-big-tech-show-reinvent-2025/)**
-  *Amazon Web Services' giant tech conference re:Invent 2025 is happening this week with news ranging from chips to AI services....*
-  📅 Wed, 03 Dec 2025 23:43:25 +0000
+- **[Amazon reportedly considering dropping USPS and building a competing postal service](https://techcrunch.com/2025/12/04/amazon-reportedly-considering-dropping-usps-and-building-a-competing-postal-service/)**
+  *Amazon is the USPS' biggest customer, and the e-commerce giant's potential break from the postal agency comes as the two sides are negotiating a new deal....*
+  📅 Thu, 04 Dec 2025 16:22:35 +0000
 
 ### 📑 Dev.to
 
-- **[Azure Secure Score Guide for Cloud Security](https://dev.to/john_asmith_bdd2c6cdfa0/azure-secure-score-guide-for-cloud-security-519a)**
-  *<h2>
-  
-  
-  Introduction
-</h2>
+- **[Separating Class Responsibilities with Clprolf](https://dev.to/charles_koffler_bcabc582b/separating-class-responsibilities-with-clprolf-7f)**
+  *<p>Designing clean, well-structured classes is a central challenge in object-oriented programming.<br />
+Clprolf addresses this by introducing <strong>declensions</strong> — a simple way to express th...*
+  📅 Thu, 04 Dec 2025 18:06:42 +0000
 
-<p>Microsoft Azure includes Azure Secure Score as a free tool. It checks if your cloud assets match key security rules.<br />
-You must grasp and boost your Azure Secur...*
-  📅 Thu, 04 Dec 2025 12:11:57 +0000
+- **[Microfrontends Without Frameworks: A Simple, Vanilla JavaScript Approach](https://dev.to/vimgudy/microfrontends-without-frameworks-a-simple-vanilla-javascript-approach-2c0h)**
+  *<p>The question: <strong>"Can we build microfrontends using only vanilla JavaScript, HTML, and CSS (without frameworks like React/Vue or build tools like Webpack)?"</strong></p>
 
-- **[From Raw Claims and Clinical Data to PCORnet CDM: End-to-End ETL on Snowflake](https://dev.to/sciforce/from-raw-claims-and-clinical-data-to-pcornet-cdm-end-to-end-etl-on-snowflake-29n0)**
-  *<h2>
-  
-  
-  Client Profile
-</h2>
-
-<p>Our client, a U.S. health insurer collaborating with multiple hospital systems, aimed to aggregate and harmonize anonymized claims and clinical data in the <a hre...*
-  📅 Thu, 04 Dec 2025 12:11:26 +0000
+<p>Short answer: <str...*
+  📅 Thu, 04 Dec 2025 18:05:20 +0000
 
 </details>
 
@@ -130,103 +119,103 @@ You must grasp and boost your Azure Secur...*
 
 ### 📈 Daily Trending
 
-- **[CryptomSol/polymarket-fork](https://github.com/CryptomSol/polymarket-fork)** ⭐ 49
-  ![Rust](https://img.shields.io/badge/-Rust-brown)
-  A high-performance, distributed prediction market platform built with microservices architecture. This platform enables users to create, trade, and settle prediction markets with real-time order matching, price updates, and comprehensive market analytics.
-
-- **[nanancc/pig-text](https://github.com/nanancc/pig-text)** ⭐ 49
-  ![HTML](https://img.shields.io/badge/-HTML-lightgrey)
-  Test if you are a pig
-
-- **[assetnote/react2shell-scanner](https://github.com/assetnote/react2shell-scanner)** ⭐ 41
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  High Fidelity Detection Mechanism for RSC/Next.js RCE (CVE-2025-55182 & CVE-2025-66478)
-
-- **[mostafaaElsherbiny/backend-interview-questions](https://github.com/mostafaaElsherbiny/backend-interview-questions)** ⭐ 40
+- **[mostafaaElsherbiny/backend-interview-questions](https://github.com/mostafaaElsherbiny/backend-interview-questions)** ⭐ 109
   ![None](https://img.shields.io/badge/-None-lightgrey)
   Comprehensive backend interview questions covering general concepts, .NET Core, Node.js, and PHP Laravel - 169 questions total
 
-- **[joeseesun/ai-blog-res](https://github.com/joeseesun/ai-blog-res)** ⭐ 27
+- **[assetnote/react2shell-scanner](https://github.com/assetnote/react2shell-scanner)** ⭐ 78
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  High Fidelity Detection Mechanism for RSC/Next.js RCE (CVE-2025-55182 & CVE-2025-66478)
+
+- **[CryptomSol/prediction-market](https://github.com/CryptomSol/prediction-market)** ⭐ 71
+  ![Rust](https://img.shields.io/badge/-Rust-brown)
+  Distributed prediction market platform built with microservices architecture. This platform enables users to create, trade, and settle prediction markets with real-time order matching, price updates, and comprehensive market analytics.
+
+- **[nanancc/pig-text](https://github.com/nanancc/pig-text)** ⭐ 63
+  ![HTML](https://img.shields.io/badge/-HTML-lightgrey)
+  Test if you are a pig
+
+- **[joeseesun/ai-blog-res](https://github.com/joeseesun/ai-blog-res)** ⭐ 49
   ![None](https://img.shields.io/badge/-None-lightgrey)
   None
 
-- **[whiteov3rflow/CVE-2025-55182-poc](https://github.com/whiteov3rflow/CVE-2025-55182-poc)** ⭐ 25
+- **[whiteov3rflow/CVE-2025-55182-poc](https://github.com/whiteov3rflow/CVE-2025-55182-poc)** ⭐ 35
   ![Python](https://img.shields.io/badge/-Python-blue)
   React2Shell Proof of Concept
+
+- **[msanft/CVE-2025-55182](https://github.com/msanft/CVE-2025-55182)** ⭐ 29
+  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
+  Explanation and PoC for CVE-2025-55182
 
 - **[coteyn/phone-number-location-tracking-tool](https://github.com/coteyn/phone-number-location-tracking-tool)** ⭐ 16
   ![None](https://img.shields.io/badge/-None-lightgrey)
   With this program you can get the exact location of a phone just by knowing the phone number. It is based on GPS data extraction track bot tracker get
 
-- **[DilharaAnjana/SmartTrade-Athena_Giraffe](https://github.com/DilharaAnjana/SmartTrade-Athena_Giraffe)** ⭐ 10
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
-  WEB II Development Guided Project - Athena Giraffe
-
 ### 📈 Weekly Trending
 
-- **[666OS/ClashMac](https://github.com/666OS/ClashMac)** ⭐ 1,439
+- **[666OS/ClashMac](https://github.com/666OS/ClashMac)** ⭐ 1,473
   ![None](https://img.shields.io/badge/-None-lightgrey)
   基于 Clash (mihomo) 内核的轻量级 macOS 菜单栏客户端
 
-- **[Rohithgilla12/data-peek](https://github.com/Rohithgilla12/data-peek)** ⭐ 1,189
+- **[Rohithgilla12/data-peek](https://github.com/Rohithgilla12/data-peek)** ⭐ 1,201
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   A minimal, fast, database client desktop application. Built for developers who want to quickly peek at their data without the bloat.
 
-- **[stepfun-ai/gelab-zero](https://github.com/stepfun-ai/gelab-zero)** ⭐ 899
+- **[stepfun-ai/gelab-zero](https://github.com/stepfun-ai/gelab-zero)** ⭐ 916
   ![Python](https://img.shields.io/badge/-Python-blue)
   GELab: GUI Exploration Lab. One of the best GUI agent solutions in the galaxy, built by the StepFun-GELab team and powered by Step’s research capabilities.
 
-- **[Gururagavendra/gmail-cleaner](https://github.com/Gururagavendra/gmail-cleaner)** ⭐ 856
+- **[Gururagavendra/gmail-cleaner](https://github.com/Gururagavendra/gmail-cleaner)** ⭐ 866
   ![Python](https://img.shields.io/badge/-Python-blue)
   web based GUI to cleanup gmail delete, mark as read, unsubsribe from uncessary things u dont like
 
-- **[Hong-Kong-Emergency-Coordination-Hub/Hong-Kong-Fire-Documentary](https://github.com/Hong-Kong-Emergency-Coordination-Hub/Hong-Kong-Fire-Documentary)** ⭐ 847
+- **[Hong-Kong-Emergency-Coordination-Hub/Hong-Kong-Fire-Documentary](https://github.com/Hong-Kong-Emergency-Coordination-Hub/Hong-Kong-Fire-Documentary)** ⭐ 849
   ![HTML](https://img.shields.io/badge/-HTML-lightgrey)
   Hong Kong Fire (Tai Po, 11/26): A major blaze swept through Wang Fuk Court
 
-- **[gavrielc/Nano-PDF](https://github.com/gavrielc/Nano-PDF)** ⭐ 674
+- **[gavrielc/Nano-PDF](https://github.com/gavrielc/Nano-PDF)** ⭐ 689
   ![Python](https://img.shields.io/badge/-Python-blue)
   Edit PDF files with Nano Banana
 
-- **[ejpir/CVE-2025-55182-poc](https://github.com/ejpir/CVE-2025-55182-poc)** ⭐ 514
+- **[ejpir/CVE-2025-55182-research](https://github.com/ejpir/CVE-2025-55182-research)** ⭐ 546
   ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
   CVE-2025-55182 POC
 
-- **[TelegramMessenger/cocoon](https://github.com/TelegramMessenger/cocoon)** ⭐ 494
+- **[TelegramMessenger/cocoon](https://github.com/TelegramMessenger/cocoon)** ⭐ 496
   ![C++](https://img.shields.io/badge/-C++-pink)
   cocoon
 
 ### 📈 Monthly Trending
 
-- **[Snapchat/Valdi](https://github.com/Snapchat/Valdi)** ⭐ 15,674
+- **[Snapchat/Valdi](https://github.com/Snapchat/Valdi)** ⭐ 15,722
   ![C++](https://img.shields.io/badge/-C++-pink)
   Valdi is a cross-platform UI framework that delivers native performance without sacrificing developer velocity.
 
-- **[karpathy/llm-council](https://github.com/karpathy/llm-council)** ⭐ 9,391
+- **[karpathy/llm-council](https://github.com/karpathy/llm-council)** ⭐ 9,477
   ![Python](https://img.shields.io/badge/-Python-blue)
   LLM Council works together to answer your hardest questions
 
-- **[ZeroLu/awesome-nanobanana-pro](https://github.com/ZeroLu/awesome-nanobanana-pro)** ⭐ 4,835
+- **[ZeroLu/awesome-nanobanana-pro](https://github.com/ZeroLu/awesome-nanobanana-pro)** ⭐ 4,910
   ![None](https://img.shields.io/badge/-None-lightgrey)
   🚀 An awesome list of curated Nano Banana pro prompts and examples. Your go-to resource for mastering prompt engineering and exploring the creative potential of the Nano banana pro(Nano banana 2) AI image model.
 
-- **[Tongyi-MAI/Z-Image](https://github.com/Tongyi-MAI/Z-Image)** ⭐ 4,450
+- **[Tongyi-MAI/Z-Image](https://github.com/Tongyi-MAI/Z-Image)** ⭐ 4,514
   ![Python](https://img.shields.io/badge/-Python-blue)
   None
 
-- **[unhappychoice/gitlogue](https://github.com/unhappychoice/gitlogue)** ⭐ 3,352
+- **[unhappychoice/gitlogue](https://github.com/unhappychoice/gitlogue)** ⭐ 3,360
   ![Rust](https://img.shields.io/badge/-Rust-brown)
   A cinematic Git commit replay tool for the terminal, turning your Git history into a living, animated story.
 
-- **[ByteDance-Seed/Depth-Anything-3](https://github.com/ByteDance-Seed/Depth-Anything-3)** ⭐ 3,188
+- **[ByteDance-Seed/Depth-Anything-3](https://github.com/ByteDance-Seed/Depth-Anything-3)** ⭐ 3,195
   ![Python](https://img.shields.io/badge/-Python-blue)
   Depth Anything 3
 
-- **[Facepunch/sbox-public](https://github.com/Facepunch/sbox-public)** ⭐ 3,166
+- **[Facepunch/sbox-public](https://github.com/Facepunch/sbox-public)** ⭐ 3,182
   ![C#](https://img.shields.io/badge/-C#-lightgrey)
   s&box is a modern game engine, built on Valve's Source 2 and the latest .NET technology, it provides a modern intuitive editor for creating games
 
-- **[straight-tamago/misaka26](https://github.com/straight-tamago/misaka26)** ⭐ 2,893
+- **[straight-tamago/misaka26](https://github.com/straight-tamago/misaka26)** ⭐ 2,897
   ![None](https://img.shields.io/badge/-None-lightgrey)
   iOS /iPadOS 16.0 - 26.1, An ultimate customization tool, uilitizing the bug that makes TrollRestore possible. 
 
@@ -490,27 +479,27 @@ for a semver-minor rele...
 |-------|--------|
 | Java | 🟡 Learning |
 | Python | ⚪ Planned |
-| JavaScript | 🔴 Beginner |
-| TypeScript | 🔴 Beginner |
-| Go | 🟡 Learning |
+| JavaScript | 🟢 Proficient |
+| TypeScript | 🟡 Learning |
+| Go | 🔴 Beginner |
 
 ### Frameworks
 
 | Skill | Status |
 |-------|--------|
-| React | 🟢 Proficient |
-| Spring Boot | 🔴 Beginner |
-| Django | 🟡 Learning |
-| Node.js | 🟡 Learning |
+| React | 🟡 Learning |
+| Spring Boot | 🟡 Learning |
+| Django | 🔴 Beginner |
+| Node.js | 🔴 Beginner |
 | Next.js | 🟡 Learning |
 
 ### Cybersecurity
 
 | Skill | Status |
 |-------|--------|
-| Penetration Testing | ⚪ Planned |
-| Web Security | 🔴 Beginner |
-| Network Security | ⚪ Planned |
+| Penetration Testing | 🔴 Beginner |
+| Web Security | ⚪ Planned |
+| Network Security | 🔴 Beginner |
 | OWASP | ⚪ Planned |
 
 ### Ai Ml
@@ -518,27 +507,27 @@ for a semver-minor rele...
 | Skill | Status |
 |-------|--------|
 | Machine Learning | ⚪ Planned |
-| Deep Learning | 🟢 Proficient |
-| NLP | 🟢 Proficient |
-| Computer Vision | 🔴 Beginner |
-| TensorFlow | 🟢 Proficient |
+| Deep Learning | 🔴 Beginner |
+| NLP | 🟡 Learning |
+| Computer Vision | 🟡 Learning |
+| TensorFlow | 🔴 Beginner |
 | PyTorch | 🟡 Learning |
 
 ### Devops
 
 | Skill | Status |
 |-------|--------|
-| Docker | 🟡 Learning |
-| Kubernetes | 🟡 Learning |
-| CI/CD | ⚪ Planned |
-| AWS | 🟢 Proficient |
-| Azure | 🟡 Learning |
+| Docker | ⚪ Planned |
+| Kubernetes | 🔴 Beginner |
+| CI/CD | 🔴 Beginner |
+| AWS | 🟡 Learning |
+| Azure | ⚪ Planned |
 
 ### Other
 
 | Skill | Status |
 |-------|--------|
-| Blockchain | ⚪ Planned |
+| Blockchain | 🟢 Proficient |
 | Web3 | 🟡 Learning |
 | Cloud Computing | 🔴 Beginner |
 
