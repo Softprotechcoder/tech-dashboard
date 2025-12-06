@@ -46,32 +46,35 @@
 
 ### 📑 Hacker News
 
-- **[Sam Altman's Dirty DRAM Deal](https://www.mooreslawisdead.com/post/sam-altman-s-dirty-dram-deal)**
-  *<p>Article URL: <a href="https://www.mooreslawisdead.com/post/sam-altman-s-dirty-dram-deal">https://www.mooreslawisdead.com/post/sam-altman-s-dirty-dram-deal</a></p>
-<p>Comments URL: <a href="https://...*
-  📅 Sat, 06 Dec 2025 00:24:55 +0000
+- **[Nook Browser](https://browsewithnook.com)**
+  *<p>Article URL: <a href="https://browsewithnook.com">https://browsewithnook.com</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46170402">https://news.ycombinator.com/item?id=46...*
+  📅 Sat, 06 Dec 2025 03:32:56 +0000
 
-- **[Google 'Looking into' Gmail Hack Locking Users Out with No Recovery](https://www.forbes.com/sites/daveywinder/2025/12/05/google-looking-into-gmail-hack-locking-users-out-with-no-recovery/)**
-  *<p>Article URL: <a href="https://www.forbes.com/sites/daveywinder/2025/12/05/google-looking-into-gmail-hack-locking-users-out-with-no-recovery/">https://www.forbes.com/sites/daveywinder/2025/12/05/goo...*
-  📅 Fri, 05 Dec 2025 23:18:56 +0000
+- **[Albert Michelson's Harmonic Analyzer (2014) [pdf]](https://engineerguy.com/fourier/pdfs/albert-michelsons-harmonic-analyzer.pdf)**
+  *<p>Article URL: <a href="https://engineerguy.com/fourier/pdfs/albert-michelsons-harmonic-analyzer.pdf">https://engineerguy.com/fourier/pdfs/albert-michelsons-harmonic-analyzer.pdf</a></p>
+<p>Comments ...*
+  📅 Sat, 06 Dec 2025 03:21:46 +0000
 
-- **[Adenosine on the common path of rapid antidepressant action: The coffee paradox](https://genomicpress.kglmeridian.com/view/journals/brainmed/aop/article-10.61373-bm025c.0134/article-10.61373-bm025c.0134.xml)**
-  *<p>Article URL: <a href="https://genomicpress.kglmeridian.com/view/journals/brainmed/aop/article-10.61373-bm025c.0134/article-10.61373-bm025c.0134.xml">https://genomicpress.kglmeridian.com/view/journa...*
-  📅 Fri, 05 Dec 2025 22:10:50 +0000
+- **[PalmOS on FisherPrice Pixter Toy](https://dmitry.gr/?r=05.Projects&proj=27.%20rePalm#pixter)**
+  *<p>Article URL: <a href="https://dmitry.gr/?r=05.Projects&amp;proj=27.%20rePalm#pixter">https://dmitry.gr/?r=05.Projects&amp;proj=27.%20rePalm#pixter</a></p>
+<p>Comments URL: <a href="https://news.yco...*
+  📅 Sat, 06 Dec 2025 03:17:44 +0000
 
-- **[Frank Gehry has died](https://www.bbc.co.uk/news/articles/c5y2p22z9gno)**
-  *<p>Article URL: <a href="https://www.bbc.co.uk/news/articles/c5y2p22z9gno">https://www.bbc.co.uk/news/articles/c5y2p22z9gno</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46167...*
-  📅 Fri, 05 Dec 2025 21:31:40 +0000
+- **[Have I been Flocked? – Check if your license plate is being watched](https://haveibeenflocked.com/)**
+  *<p>Article URL: <a href="https://haveibeenflocked.com/">https://haveibeenflocked.com/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46170302">https://news.ycombinator.com/item...*
+  📅 Sat, 06 Dec 2025 03:16:35 +0000
 
-- **[A $20 drug in Europe requires a prescription and $800 in the U.S.](https://www.statnews.com/2025/10/31/why-miebo-costs-40-times-more-than-its-european-version/)**
-  *<p>Article URL: <a href="https://www.statnews.com/2025/10/31/why-miebo-costs-40-times-more-than-its-european-version/">https://www.statnews.com/2025/10/31/why-miebo-costs-40-times-more-than-its-europe...*
-  📅 Fri, 05 Dec 2025 21:27:22 +0000
+- **[YouTube caught making AI-edits to videos and adding misleading AI summaries](https://www.ynetnews.com/tech-and-digital/article/bj1qbwcklg)**
+  *<p>Article URL: <a href="https://www.ynetnews.com/tech-and-digital/article/bj1qbwcklg">https://www.ynetnews.com/tech-and-digital/article/bj1qbwcklg</a></p>
+<p>Comments URL: <a href="https://news.ycomb...*
+  📅 Sat, 06 Dec 2025 01:15:48 +0000
 
-- **[Leaving Intel](https://www.brendangregg.com/blog//2025-12-05/leaving-intel.html)**
-  *<p>Article URL: <a href="https://www.brendangregg.com/blog//2025-12-05/leaving-intel.html">https://www.brendangregg.com/blog//2025-12-05/leaving-intel.html</a></p>
-<p>Comments URL: <a href="https://ne...*
-  📅 Fri, 05 Dec 2025 21:27:04 +0000
+- **[Extra Instructions Of The 65XX Series CPU (1996)](http://www.ffd2.com/fridge/docs/6502-NMOS.extra.opcodes)**
+  *<p>Article URL: <a href="http://www.ffd2.com/fridge/docs/6502-NMOS.extra.opcodes">http://www.ffd2.com/fridge/docs/6502-NMOS.extra.opcodes</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com...*
+  📅 Sat, 06 Dec 2025 00:38:50 +0000
 
 ### 📑 TechCrunch
 
@@ -101,31 +104,14 @@
 
 ### 📑 Dev.to
 
-- **[AWS re:Invent 2025 - AWS Trn3 UltraServers: Power next-generation enterprise AI performance(AIM3335)](https://dev.to/kazuya_dev/aws-reinvent-2025-aws-trn3-ultraservers-power-next-generation-enterprise-ai-performanceaim3335-1jp3)**
+- **[Arreglar pinchazos cerca de mi en Pozuelo de Alarcón](https://dev.to/isabella_brown_4cf0339814/arreglar-pinchazos-cerca-de-mi-en-pozuelo-de-alarcon-ff)**
+  *<p>Encontrar un lugar fiable para arreglar pinchazos cerca de mi en Pozuelo de Alarcón es fundamental cuando surge una emergencia en la carretera. Un pinchazo puede ocurrir en el momento menos esperad...*
+  📅 Sat, 06 Dec 2025 06:10:59 +0000
+
+- **[AWS re:Invent 2025 - A leader's guide to emerging technologies: From insights to rapid action-SNR203](https://dev.to/kazuya_dev/aws-reinvent-2025-a-leaders-guide-to-emerging-technologies-from-insights-to-rapid-action-snr203-12b1)**
   *<p><strong>🦄 Making great presentations more accessible.</strong><br />
 This project aims to enhances multilingual accessibility and discoverability while maintaining the integrity of original content...*
-  📅 Sat, 06 Dec 2025 00:51:09 +0000
-
-- **[Blender Addon Development Needs More DevOps](https://dev.to/unclepomedev/blender-addon-development-needs-more-devops-5c1e)**
-  *<h1>
-  
-  
-  TL;DR
-</h1>
-
-<ul>
-<li>Write test code and automate it.</li>
-<li>Run tests on various versions of Blender to release with peace of mind.</li>
-</ul>
-
-<h1>
-  
-  
-  Intended Audience
-</h1>
-
-<...*
-  📅 Sat, 06 Dec 2025 00:47:00 +0000
+  📅 Sat, 06 Dec 2025 05:36:22 +0000
 
 </details>
 
@@ -133,103 +119,103 @@ This project aims to enhances multilingual accessibility and discoverability whi
 
 ### 📈 Daily Trending
 
-- **[Vencord/ShikiPluginAssets](https://github.com/Vencord/ShikiPluginAssets)** ⭐ 2
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
-  None
-
-- **[R3Dki/BinDisassembler](https://github.com/R3Dki/BinDisassembler)** ⭐ 1
-  ![C++](https://img.shields.io/badge/-C++-pink)
-  A simple C++ Bin to Hex Disassembler. The perfect anthithesys to BinAssembler. Useful for transforming files into their Hex format equivalent.
-
-- **[PoojithaMittinti/Commit_Lab](https://github.com/PoojithaMittinti/Commit_Lab)** ⭐ 1
-  ![None](https://img.shields.io/badge/-None-lightgrey)
-  Commit_Lab is my personal knowledge lab where I commit to learning and documenting key IT terminology, concepts, and practices on a daily basis.
-
-- **[BradFitz66/N-Style-collision](https://github.com/BradFitz66/N-Style-collision)** ⭐ 1
-  ![Lua](https://img.shields.io/badge/-Lua-lightgrey)
-  None
-
-- **[bmannyc2399/DinoMatch](https://github.com/bmannyc2399/DinoMatch)** ⭐ 1
-  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
-  It's a dinosaur game for children.
-
-- **[Thanghuynh2808/Retail-Product-Matching](https://github.com/Thanghuynh2808/Retail-Product-Matching)** ⭐ 1
+- **[Blb3D/filaops](https://github.com/Blb3D/filaops)** ⭐ 8
   ![Python](https://img.shields.io/badge/-Python-blue)
+  3D Print Farm ERP - Production-grade manufacturing resource planning for additive manufacturing
+
+- **[Stallion77RepoOfficial/MetalGoose](https://github.com/Stallion77RepoOfficial/MetalGoose)** ⭐ 7
+  ![Objective-C++](https://img.shields.io/badge/-Objective-C++-lightgrey)
   None
 
-- **[luisfelipedesa3-jpg/Jogo-da-Mem-ria](https://github.com/luisfelipedesa3-jpg/Jogo-da-Mem-ria)** ⭐ 1
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
-  None
-
-- **[naudeelliott-blip/nz_carhub](https://github.com/naudeelliott-blip/nz_carhub)** ⭐ 1
+- **[asnowwolf/post-sync](https://github.com/asnowwolf/post-sync)** ⭐ 5
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
-  new
+  None
+
+- **[GetcharZp/go-speech](https://github.com/GetcharZp/go-speech)** ⭐ 4
+  ![Go](https://img.shields.io/badge/-Go-cyan)
+  go-speech 基于 Golang + ONNX 构建的轻量语音库，支持 TTS（文本转语音）与 ASR（语音转文字）。
+
+- **[kamathhrishi/stratalens-ai](https://github.com/kamathhrishi/stratalens-ai)** ⭐ 4
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  Open source equity research platform 
+
+- **[moge9800/AuroraVoice-Gateway](https://github.com/moge9800/AuroraVoice-Gateway)** ⭐ 4
+  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
+  None
+
+- **[AaryanShaikh/SYBCA-24](https://github.com/AaryanShaikh/SYBCA-24)** ⭐ 3
+  ![HTML](https://img.shields.io/badge/-HTML-lightgrey)
+  None
+
+- **[vibeswithkk/Paylink](https://github.com/vibeswithkk/Paylink)** ⭐ 3
+  ![Go](https://img.shields.io/badge/-Go-cyan)
+  PayLink — Modular Payment Integration Backend
 
 ### 📈 Weekly Trending
 
-- **[antonmedv/gitmal](https://github.com/antonmedv/gitmal)** ⭐ 642
+- **[antonmedv/gitmal](https://github.com/antonmedv/gitmal)** ⭐ 659
   ![Go](https://img.shields.io/badge/-Go-cyan)
   A static page generator for repos
 
-- **[ejpir/CVE-2025-55182-research](https://github.com/ejpir/CVE-2025-55182-research)** ⭐ 641
+- **[ejpir/CVE-2025-55182-research](https://github.com/ejpir/CVE-2025-55182-research)** ⭐ 654
   ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
   CVE-2025-55182 POC
 
-- **[TelegramMessenger/cocoon](https://github.com/TelegramMessenger/cocoon)** ⭐ 513
-  ![C++](https://img.shields.io/badge/-C++-pink)
-  cocoon
-
-- **[nextlevelbuilder/ui-ux-pro-max-skill](https://github.com/nextlevelbuilder/ui-ux-pro-max-skill)** ⭐ 494
+- **[nextlevelbuilder/ui-ux-pro-max-skill](https://github.com/nextlevelbuilder/ui-ux-pro-max-skill)** ⭐ 549
   ![Python](https://img.shields.io/badge/-Python-blue)
   An AI SKILL that provide design intelligence for building professional UI/UX multiple platforms
 
-- **[msanft/CVE-2025-55182](https://github.com/msanft/CVE-2025-55182)** ⭐ 452
+- **[TelegramMessenger/cocoon](https://github.com/TelegramMessenger/cocoon)** ⭐ 514
+  ![C++](https://img.shields.io/badge/-C++-pink)
+  cocoon
+
+- **[msanft/CVE-2025-55182](https://github.com/msanft/CVE-2025-55182)** ⭐ 483
   ![Python](https://img.shields.io/badge/-Python-blue)
   Explanation and full RCE PoC for CVE-2025-55182
 
-- **[assetnote/react2shell-scanner](https://github.com/assetnote/react2shell-scanner)** ⭐ 343
+- **[assetnote/react2shell-scanner](https://github.com/assetnote/react2shell-scanner)** ⭐ 372
   ![Python](https://img.shields.io/badge/-Python-blue)
   High Fidelity Detection Mechanism for RSC/Next.js RCE (CVE-2025-55182 & CVE-2025-66478)
 
-- **[LeslieLeung/glean](https://github.com/LeslieLeung/glean)** ⭐ 338
+- **[LeslieLeung/glean](https://github.com/LeslieLeung/glean)** ⭐ 342
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   A self-hosted RSS reader and personal knowledge management tool.
 
-- **[guhcostan/mac-cleaner-cli](https://github.com/guhcostan/mac-cleaner-cli)** ⭐ 296
+- **[guhcostan/mac-cleaner-cli](https://github.com/guhcostan/mac-cleaner-cli)** ⭐ 317
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   None
 
 ### 📈 Monthly Trending
 
-- **[karpathy/llm-council](https://github.com/karpathy/llm-council)** ⭐ 9,754
+- **[karpathy/llm-council](https://github.com/karpathy/llm-council)** ⭐ 9,795
   ![Python](https://img.shields.io/badge/-Python-blue)
   LLM Council works together to answer your hardest questions
 
-- **[ZeroLu/awesome-nanobanana-pro](https://github.com/ZeroLu/awesome-nanobanana-pro)** ⭐ 5,147
+- **[ZeroLu/awesome-nanobanana-pro](https://github.com/ZeroLu/awesome-nanobanana-pro)** ⭐ 5,167
   ![None](https://img.shields.io/badge/-None-lightgrey)
   🚀 An awesome list of curated Nano Banana pro prompts and examples. Your go-to resource for mastering prompt engineering and exploring the creative potential of the Nano banana pro(Nano banana 2) AI image model.
 
-- **[Tongyi-MAI/Z-Image](https://github.com/Tongyi-MAI/Z-Image)** ⭐ 4,732
+- **[Tongyi-MAI/Z-Image](https://github.com/Tongyi-MAI/Z-Image)** ⭐ 4,760
   ![Python](https://img.shields.io/badge/-Python-blue)
   None
 
-- **[unhappychoice/gitlogue](https://github.com/unhappychoice/gitlogue)** ⭐ 3,412
+- **[unhappychoice/gitlogue](https://github.com/unhappychoice/gitlogue)** ⭐ 3,421
   ![Rust](https://img.shields.io/badge/-Rust-brown)
   A cinematic Git commit replay tool for the terminal, turning your Git history into a living, animated story.
 
-- **[ByteDance-Seed/Depth-Anything-3](https://github.com/ByteDance-Seed/Depth-Anything-3)** ⭐ 3,238
+- **[ByteDance-Seed/Depth-Anything-3](https://github.com/ByteDance-Seed/Depth-Anything-3)** ⭐ 3,244
   ![Python](https://img.shields.io/badge/-Python-blue)
   Depth Anything 3
 
-- **[Facepunch/sbox-public](https://github.com/Facepunch/sbox-public)** ⭐ 3,232
+- **[Facepunch/sbox-public](https://github.com/Facepunch/sbox-public)** ⭐ 3,235
   ![C#](https://img.shields.io/badge/-C#-lightgrey)
   s&box is a modern game engine, built on Valve's Source 2 and the latest .NET technology, it provides a modern intuitive editor for creating games
 
-- **[YouMind-OpenLab/awesome-nano-banana-pro-prompts](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts)** ⭐ 2,975
+- **[YouMind-OpenLab/awesome-nano-banana-pro-prompts](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts)** ⭐ 2,998
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   🍌 500+ selected Nano Banana Pro prompts with images, multilingual support, and instant gallery preview. Open-source prompt engineering library
 
-- **[HisMax/RedInk](https://github.com/HisMax/RedInk)** ⭐ 2,950
+- **[HisMax/RedInk](https://github.com/HisMax/RedInk)** ⭐ 2,965
   ![Python](https://img.shields.io/badge/-Python-blue)
   红墨 - 基于🍌Nano Banana Pro🍌 的一站式小红书图文生成器 《一句话一张图片生成小红书图文》 Red Ink - A one-stop Xiaohongshu image-and-text generator based on the 🍌Nano Banana Pro🍌, "One Sentence, One Image: Generate Xiaohongshu Text and Images."
 
@@ -492,18 +478,18 @@ for a semver-minor rele...
 | Skill | Status |
 |-------|--------|
 | Java | 🟡 Learning |
-| Python | 🔴 Beginner |
-| JavaScript | ⚪ Planned |
-| TypeScript | ⚪ Planned |
-| Go | 🟢 Proficient |
+| Python | ⚪ Planned |
+| JavaScript | 🔴 Beginner |
+| TypeScript | 🟡 Learning |
+| Go | 🟡 Learning |
 
 ### Frameworks
 
 | Skill | Status |
 |-------|--------|
 | React | 🔴 Beginner |
-| Spring Boot | ⚪ Planned |
-| Django | ⚪ Planned |
+| Spring Boot | 🔴 Beginner |
+| Django | 🟢 Proficient |
 | Node.js | 🟢 Proficient |
 | Next.js | 🟡 Learning |
 
@@ -513,37 +499,37 @@ for a semver-minor rele...
 |-------|--------|
 | Penetration Testing | ⚪ Planned |
 | Web Security | ⚪ Planned |
-| Network Security | ⚪ Planned |
-| OWASP | 🟡 Learning |
+| Network Security | 🟢 Proficient |
+| OWASP | 🔴 Beginner |
 
 ### Ai Ml
 
 | Skill | Status |
 |-------|--------|
-| Machine Learning | 🔴 Beginner |
+| Machine Learning | 🟡 Learning |
 | Deep Learning | 🟡 Learning |
 | NLP | 🟢 Proficient |
-| Computer Vision | ⚪ Planned |
+| Computer Vision | 🟢 Proficient |
 | TensorFlow | 🔴 Beginner |
-| PyTorch | 🟢 Proficient |
+| PyTorch | 🟡 Learning |
 
 ### Devops
 
 | Skill | Status |
 |-------|--------|
-| Docker | ⚪ Planned |
+| Docker | 🟢 Proficient |
 | Kubernetes | 🟢 Proficient |
 | CI/CD | 🔴 Beginner |
 | AWS | 🟡 Learning |
-| Azure | 🟢 Proficient |
+| Azure | ⚪ Planned |
 
 ### Other
 
 | Skill | Status |
 |-------|--------|
-| Blockchain | 🟢 Proficient |
-| Web3 | 🟢 Proficient |
-| Cloud Computing | 🔴 Beginner |
+| Blockchain | ⚪ Planned |
+| Web3 | 🔴 Beginner |
+| Cloud Computing | 🟡 Learning |
 
 </details>
 
