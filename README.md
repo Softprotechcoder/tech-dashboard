@@ -46,34 +46,35 @@
 
 ### 📑 Hacker News
 
+- **[Discovering the indieweb with calm tech](https://alexsci.com/blog/calm-tech-discover/)**
+  *<p>Article URL: <a href="https://alexsci.com/blog/calm-tech-discover/">https://alexsci.com/blog/calm-tech-discover/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46178892">htt...*
+  📅 Sun, 07 Dec 2025 03:26:01 +0000
+
+- **[Z2 – Lithographically fabricated IC in a garage fab](https://sam.zeloof.xyz/second-ic/)**
+  *<p>Article URL: <a href="https://sam.zeloof.xyz/second-ic/">https://sam.zeloof.xyz/second-ic/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46178789">https://news.ycombinator....*
+  📅 Sun, 07 Dec 2025 03:03:09 +0000
+
+- **[Oblast: A better Blasto game for the Commodore 64](http://oldvcr.blogspot.com/2025/12/oblast-better-blasto-game-for-commodore.html)**
+  *<p>Article URL: <a href="http://oldvcr.blogspot.com/2025/12/oblast-better-blasto-game-for-commodore.html">http://oldvcr.blogspot.com/2025/12/oblast-better-blasto-game-for-commodore.html</a></p>
+<p>Com...*
+  📅 Sun, 07 Dec 2025 01:47:23 +0000
+
+- **[Eurydice: a Rust to C compiler (yes)](https://jonathan.protzenko.fr/2025/10/28/eurydice.html)**
+  *<p>Article URL: <a href="https://jonathan.protzenko.fr/2025/10/28/eurydice.html">https://jonathan.protzenko.fr/2025/10/28/eurydice.html</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/i...*
+  📅 Sun, 07 Dec 2025 01:41:33 +0000
+
+- **[Using LLMs at Oxide](https://rfd.shared.oxide.computer/rfd/0576)**
+  *<p>Article URL: <a href="https://rfd.shared.oxide.computer/rfd/0576">https://rfd.shared.oxide.computer/rfd/0576</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46178347">https:/...*
+  📅 Sun, 07 Dec 2025 01:17:40 +0000
+
 - **[Trains cancelled over fake bridge collapse image](https://www.bbc.com/news/articles/cwygqqll9k2o)**
   *<p>Article URL: <a href="https://www.bbc.com/news/articles/cwygqqll9k2o">https://www.bbc.com/news/articles/cwygqqll9k2o</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=46178108"...*
   📅 Sun, 07 Dec 2025 00:37:15 +0000
-
-- **[Magnitude-7.0 earthquake hits in remote wilderness along Alaska-Canada border](https://apnews.com/article/earthquake-alaska-canada-yukon-7c0f68370e387b1b23fa7fe7fc9c2c71)**
-  *<p>Article URL: <a href="https://apnews.com/article/earthquake-alaska-canada-yukon-7c0f68370e387b1b23fa7fe7fc9c2c71">https://apnews.com/article/earthquake-alaska-canada-yukon-7c0f68370e387b1b23fa7fe7f...*
-  📅 Sun, 07 Dec 2025 00:11:47 +0000
-
-- **[Show HN: FuseCells – a handcrafted logic puzzle game with 2,500 levels](https://apps.apple.com/us/app/fusecells-logic-grid-puzzle/id6754704139)**
-  *<p>Hi everyone,
-I built FuseCells, a minimalistic logic puzzle game where every level is handcrafted (no procedural generation). It started as a personal challenge to design a clean rule-set and scale...*
-  📅 Sat, 06 Dec 2025 23:51:08 +0000
-
-- **[OpenTelemetry Distribution Builder](https://github.com/observIQ/otel-distro-builder)**
-  *<p>Article URL: <a href="https://github.com/observIQ/otel-distro-builder">https://github.com/observIQ/otel-distro-builder</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=4617766...*
-  📅 Sat, 06 Dec 2025 23:41:18 +0000
-
-- **[Kilauea erupts, destroying webcam [video]](https://www.youtube.com/watch?v=TK2N99BDw7A)**
-  *<p>Article URL: <a href="https://www.youtube.com/watch?v=TK2N99BDw7A">https://www.youtube.com/watch?v=TK2N99BDw7A</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46177645">https...*
-  📅 Sat, 06 Dec 2025 23:39:02 +0000
-
-- **[PatchworkOS: An OS for x86_64, built from scratch in C and assembly](https://github.com/KaiNorberg/PatchworkOS)**
-  *<p>Article URL: <a href="https://github.com/KaiNorberg/PatchworkOS">https://github.com/KaiNorberg/PatchworkOS</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46177615">https://n...*
-  📅 Sat, 06 Dec 2025 23:33:23 +0000
 
 ### 📑 TechCrunch
 
@@ -103,15 +104,19 @@ I built FuseCells, a minimalistic logic puzzle game where every level is handcra
 
 ### 📑 Dev.to
 
-- **[The Philosophy Behind Constitutional Reflective AI](https://dev.to/ghostking314/the-philosophy-behind-constitutional-reflective-ai-30j4)**
-  *<p>Why sovereignty and structure matter more than capability</p>
+- **[Building SaaS for Nigerian Traders: Technical Decisions Beyond the Stack](https://dev.to/tochukwu_dev/building-saas-for-nigerian-traders-technical-decisions-beyond-the-stack-m22)**
+  *<p>When building MyTreda (an inventory system for Nigerian small businesses), I realized Western SaaS tutorials don't cover my users' reality. My traders needed WhatsApp numbers for customer contact, ...*
+  📅 Sun, 07 Dec 2025 06:03:25 +0000
 
-<p>Artificial intelligence has spent a decade trying to become more powerful. Faster inference, larger context windows, higher accurac...*
-  📅 Sun, 07 Dec 2025 00:48:25 +0000
+- **[The €82,000 Blind Spot That Almost Sank a SaaS Company](https://dev.to/tracksimple/the-eu82000-blind-spot-that-almost-sank-a-saas-company-4na6)**
+  *<h2>
+  
+  
+  The €82,000 Blind Spot That Almost Sank a SaaS Company
+</h2>
 
-- **[Ensayo de la IA](https://dev.to/heidy_hernandez_f0d8b0c90/ensayo-de-la-ia-32cc)**
-  *<p>La Inteligencia Artificial (IA) se ha convertido en una de las fuerzas transformadoras más influyentes del siglo XXI. Su presencia se extiende desde los dispositivos que usamos a diario hasta los s...*
-  📅 Sun, 07 Dec 2025 00:36:38 +0000
+<p>Last Tuesday, Alex, founder of a mid-sized project management SaaS, stared at his Q3 revenue report. Something felt off. A...*
+  📅 Sun, 07 Dec 2025 06:02:48 +0000
 
 </details>
 
@@ -119,103 +124,103 @@ I built FuseCells, a minimalistic logic puzzle game where every level is handcra
 
 ### 📈 Daily Trending
 
-- **[Jorge-CL16/Java-POO](https://github.com/Jorge-CL16/Java-POO)** ⭐ 1
-  ![Java](https://img.shields.io/badge/-Java-orange)
+- **[RamaSaiJahnavi/Obesity-Dashboard](https://github.com/RamaSaiJahnavi/Obesity-Dashboard)** ⭐ 6
+  ![None](https://img.shields.io/badge/-None-lightgrey)
+  ✨Interactive Obesity Analysis Dashboard built using Power BI. Analyzes demographic, lifestyle, and eating habit factors from government open data. Includes multi-page dashboards, DAX measures, cards, bar and pie charts, and dynamic slicers to provide insights into obesity patterns and health trends.
+
+- **[Runtime-Exception/lmprobe](https://github.com/Runtime-Exception/lmprobe)** ⭐ 6
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  Probe multiple LLM API endpoints to detect available models, then serve them through a unified local API supporting both OpenAI and Anthropic Claude formats.
+
+- **[davepl/dyson](https://github.com/davepl/dyson)** ⭐ 5
+  ![Python](https://img.shields.io/badge/-Python-blue)
   None
 
-- **[calizoots/luhcli](https://github.com/calizoots/luhcli)** ⭐ 1
-  ![Rust](https://img.shields.io/badge/-Rust-brown)
-  A simple and ergonomic CLI library for Rust.
+- **[Pro-GenAI/Memory-Transformer](https://github.com/Pro-GenAI/Memory-Transformer)** ⭐ 4
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  AI memory using transformer-like neural network
 
-- **[iqranoor1608/Interactive-To-Do-App](https://github.com/iqranoor1608/Interactive-To-Do-App)** ⭐ 1
-  ![HTML](https://img.shields.io/badge/-HTML-lightgrey)
-  None
-
-- **[paragaskenneth773/ransomware-5.0-exe](https://github.com/paragaskenneth773/ransomware-5.0-exe)** ⭐ 1
+- **[1orz/project-cpe](https://github.com/1orz/project-cpe)** ⭐ 4
   ![None](https://img.shields.io/badge/-None-lightgrey)
-  Well you guys asked for it link in comment
+  5G模组高级后台
 
-- **[5771323ykwkp/ShiWdEkZXiM](https://github.com/5771323ykwkp/ShiWdEkZXiM)** ⭐ 1
-  ![None](https://img.shields.io/badge/-None-lightgrey)
-  学生成绩管理系统是一款基于Java、SpringBoot和Vue的前后端分离项目，涵盖学生、教师、管理员三种角色。系统核心功能为用户模块，支持学生、教师和管理员登录，实现对成绩的有效管理。提供完整的源码、数据库脚本及文档，旨在便捷地运行在IDEA、JDK1.8、MySQL5.7和Node16环境中。系统解决了成绩录入、查询、管理等问题，提升了教育信息化的工作效率。
-
-- **[NecoArc-Chaos/ChaosWebsite](https://github.com/NecoArc-Chaos/ChaosWebsite)** ⭐ 1
-  ![None](https://img.shields.io/badge/-None-lightgrey)
-  网站储存库
-
-- **[tblakex01/nizda-bench](https://github.com/tblakex01/nizda-bench)** ⭐ 1
-  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
-  LLM & Agent Benchmark Application
-
-- **[joseignaciofalladev/VERTEX-SYNTHESIS-REDUCTION-VSR](https://github.com/joseignaciofalladev/VERTEX-SYNTHESIS-REDUCTION-VSR)** ⭐ 1
+- **[waddadaa/gpagent](https://github.com/waddadaa/gpagent)** ⭐ 3
   ![C++](https://img.shields.io/badge/-C++-pink)
-  Archivo C++ de un sistema avanzado de gestión neuronal de geometría dinámica, cuyo propósito es reducir el número de vértices procesados y almacenados sin comprometer la precisión visual ni la coherencia topológica del entorno.
+    Native C++/Qt AI agent with tool use, multi-LLM support, and self-improving tool selection using Tiny Recursive Models
+
+- **[llyzot/acetool-skill](https://github.com/llyzot/acetool-skill)** ⭐ 3
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  None
+
+- **[cporter202/lovable-for-beginners](https://github.com/cporter202/lovable-for-beginners)** ⭐ 3
+  ![None](https://img.shields.io/badge/-None-lightgrey)
+  Your complete beginner’s course to mastering Lovable Vibe Coding.  This repo is a step-by-step learning hub designed to take absolute beginners and turn them into confident Lovable developers.
 
 ### 📈 Weekly Trending
 
-- **[assetnote/react2shell-scanner](https://github.com/assetnote/react2shell-scanner)** ⭐ 773
+- **[assetnote/react2shell-scanner](https://github.com/assetnote/react2shell-scanner)** ⭐ 868
   ![Python](https://img.shields.io/badge/-Python-blue)
   High Fidelity Detection Mechanism for RSC/Next.js RCE (CVE-2025-55182 & CVE-2025-66478)
 
-- **[ejpir/CVE-2025-55182-research](https://github.com/ejpir/CVE-2025-55182-research)** ⭐ 672
+- **[ejpir/CVE-2025-55182-research](https://github.com/ejpir/CVE-2025-55182-research)** ⭐ 677
   ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
   CVE-2025-55182 POC
 
-- **[msanft/CVE-2025-55182](https://github.com/msanft/CVE-2025-55182)** ⭐ 565
+- **[msanft/CVE-2025-55182](https://github.com/msanft/CVE-2025-55182)** ⭐ 583
   ![Python](https://img.shields.io/badge/-Python-blue)
   Explanation and full RCE PoC for CVE-2025-55182
 
-- **[guhcostan/mac-cleaner-cli](https://github.com/guhcostan/mac-cleaner-cli)** ⭐ 396
-  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
-  None
-
-- **[lachlan2k/React2Shell-CVE-2025-55182-original-poc](https://github.com/lachlan2k/React2Shell-CVE-2025-55182-original-poc)** ⭐ 382
+- **[lachlan2k/React2Shell-CVE-2025-55182-original-poc](https://github.com/lachlan2k/React2Shell-CVE-2025-55182-original-poc)** ⭐ 409
   ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
   Original Proof-of-Concept's for React2Shell CVE-2025-55182
 
-- **[crowmd/GoogleMapAIagent](https://github.com/crowmd/GoogleMapAIagent)** ⭐ 298
+- **[guhcostan/mac-cleaner-cli](https://github.com/guhcostan/mac-cleaner-cli)** ⭐ 402
+  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
+  None
+
+- **[crowmd/GoogleMapAIagent](https://github.com/crowmd/GoogleMapAIagent)** ⭐ 303
   ![None](https://img.shields.io/badge/-None-lightgrey)
   None
 
-- **[norish-recipes/norish](https://github.com/norish-recipes/norish)** ⭐ 285
+- **[norish-recipes/norish](https://github.com/norish-recipes/norish)** ⭐ 291
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   Norish - A realtime, self-hosted recipe app for families & friends 
 
-- **[mrknow001/RSC_Detector](https://github.com/mrknow001/RSC_Detector)** ⭐ 252
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
-  Supports RSC fingerprinting and exploitation of the React component vulnerability CVE-2025-55182.
+- **[Alibaba-Quark/LiveAvatar](https://github.com/Alibaba-Quark/LiveAvatar)** ⭐ 272
+  ![None](https://img.shields.io/badge/-None-lightgrey)
+  Implementation of "Live Avatar: Streaming Real-time Audio-Driven Avatar Generation with Infinite Length"
 
 ### 📈 Monthly Trending
 
-- **[karpathy/llm-council](https://github.com/karpathy/llm-council)** ⭐ 9,958
+- **[karpathy/llm-council](https://github.com/karpathy/llm-council)** ⭐ 10,007
   ![Python](https://img.shields.io/badge/-Python-blue)
   LLM Council works together to answer your hardest questions
 
-- **[ZeroLu/awesome-nanobanana-pro](https://github.com/ZeroLu/awesome-nanobanana-pro)** ⭐ 5,268
+- **[ZeroLu/awesome-nanobanana-pro](https://github.com/ZeroLu/awesome-nanobanana-pro)** ⭐ 5,284
   ![None](https://img.shields.io/badge/-None-lightgrey)
   🚀 An awesome list of curated Nano Banana pro prompts and examples. Your go-to resource for mastering prompt engineering and exploring the creative potential of the Nano banana pro(Nano banana 2) AI image model.
 
-- **[Tongyi-MAI/Z-Image](https://github.com/Tongyi-MAI/Z-Image)** ⭐ 5,112
+- **[Tongyi-MAI/Z-Image](https://github.com/Tongyi-MAI/Z-Image)** ⭐ 5,201
   ![Python](https://img.shields.io/badge/-Python-blue)
   None
 
-- **[unhappychoice/gitlogue](https://github.com/unhappychoice/gitlogue)** ⭐ 3,450
+- **[unhappychoice/gitlogue](https://github.com/unhappychoice/gitlogue)** ⭐ 3,455
   ![Rust](https://img.shields.io/badge/-Rust-brown)
   A cinematic Git commit replay tool for the terminal, turning your Git history into a living, animated story.
 
-- **[ByteDance-Seed/Depth-Anything-3](https://github.com/ByteDance-Seed/Depth-Anything-3)** ⭐ 3,257
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  Depth Anything 3
-
-- **[Facepunch/sbox-public](https://github.com/Facepunch/sbox-public)** ⭐ 3,256
+- **[Facepunch/sbox-public](https://github.com/Facepunch/sbox-public)** ⭐ 3,262
   ![C#](https://img.shields.io/badge/-C#-lightgrey)
   s&box is a modern game engine, built on Valve's Source 2 and the latest .NET technology, it provides a modern intuitive editor for creating games
 
-- **[YouMind-OpenLab/awesome-nano-banana-pro-prompts](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts)** ⭐ 3,065
+- **[ByteDance-Seed/Depth-Anything-3](https://github.com/ByteDance-Seed/Depth-Anything-3)** ⭐ 3,259
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  Depth Anything 3
+
+- **[YouMind-OpenLab/awesome-nano-banana-pro-prompts](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts)** ⭐ 3,089
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   🍌 500+ selected Nano Banana Pro prompts with images, multilingual support, and instant gallery preview. Open-source prompt engineering library
 
-- **[HisMax/RedInk](https://github.com/HisMax/RedInk)** ⭐ 2,993
+- **[HisMax/RedInk](https://github.com/HisMax/RedInk)** ⭐ 2,997
   ![Python](https://img.shields.io/badge/-Python-blue)
   红墨 - 基于🍌Nano Banana Pro🍌 的一站式小红书图文生成器 《一句话一张图片生成小红书图文》 Red Ink - A one-stop Xiaohongshu image-and-text generator based on the 🍌Nano Banana Pro🍌, "One Sentence, One Image: Generate Xiaohongshu Text and Images."
 
@@ -477,59 +482,59 @@ for a semver-minor rele...
 
 | Skill | Status |
 |-------|--------|
-| Java | 🟢 Proficient |
-| Python | 🟡 Learning |
+| Java | 🟡 Learning |
+| Python | 🔴 Beginner |
 | JavaScript | ⚪ Planned |
-| TypeScript | 🟢 Proficient |
-| Go | ⚪ Planned |
+| TypeScript | 🟡 Learning |
+| Go | 🟢 Proficient |
 
 ### Frameworks
 
 | Skill | Status |
 |-------|--------|
-| React | 🔴 Beginner |
+| React | 🟢 Proficient |
 | Spring Boot | 🟡 Learning |
 | Django | 🔴 Beginner |
-| Node.js | 🔴 Beginner |
-| Next.js | ⚪ Planned |
+| Node.js | 🟡 Learning |
+| Next.js | 🔴 Beginner |
 
 ### Cybersecurity
 
 | Skill | Status |
 |-------|--------|
-| Penetration Testing | 🟡 Learning |
-| Web Security | ⚪ Planned |
-| Network Security | 🔴 Beginner |
-| OWASP | 🟡 Learning |
+| Penetration Testing | 🟢 Proficient |
+| Web Security | 🔴 Beginner |
+| Network Security | ⚪ Planned |
+| OWASP | ⚪ Planned |
 
 ### Ai Ml
 
 | Skill | Status |
 |-------|--------|
-| Machine Learning | ⚪ Planned |
-| Deep Learning | 🔴 Beginner |
-| NLP | 🟡 Learning |
-| Computer Vision | 🟢 Proficient |
-| TensorFlow | ⚪ Planned |
+| Machine Learning | 🟢 Proficient |
+| Deep Learning | 🟢 Proficient |
+| NLP | 🔴 Beginner |
+| Computer Vision | 🟡 Learning |
+| TensorFlow | 🔴 Beginner |
 | PyTorch | 🔴 Beginner |
 
 ### Devops
 
 | Skill | Status |
 |-------|--------|
-| Docker | 🟡 Learning |
-| Kubernetes | 🟡 Learning |
-| CI/CD | 🟢 Proficient |
-| AWS | ⚪ Planned |
-| Azure | 🟡 Learning |
+| Docker | 🟢 Proficient |
+| Kubernetes | 🟢 Proficient |
+| CI/CD | 🟡 Learning |
+| AWS | 🟡 Learning |
+| Azure | 🔴 Beginner |
 
 ### Other
 
 | Skill | Status |
 |-------|--------|
-| Blockchain | 🟡 Learning |
-| Web3 | 🟡 Learning |
-| Cloud Computing | ⚪ Planned |
+| Blockchain | 🟢 Proficient |
+| Web3 | 🔴 Beginner |
+| Cloud Computing | 🟢 Proficient |
 
 </details>
 
