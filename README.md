@@ -104,19 +104,19 @@
 
 ### 📑 Dev.to
 
-- **[Building SaaS for Nigerian Traders: Technical Decisions Beyond the Stack](https://dev.to/tochukwu_dev/building-saas-for-nigerian-traders-technical-decisions-beyond-the-stack-m22)**
-  *<p>When building MyTreda (an inventory system for Nigerian small businesses), I realized Western SaaS tutorials don't cover my users' reality. My traders needed WhatsApp numbers for customer contact, ...*
-  📅 Sun, 07 Dec 2025 06:03:25 +0000
-
-- **[The €82,000 Blind Spot That Almost Sank a SaaS Company](https://dev.to/tracksimple/the-eu82000-blind-spot-that-almost-sank-a-saas-company-4na6)**
+- **[New Bloggg](https://dev.to/ali_khan_22dcd9cd98a25946/new-bloggg-57f5)**
   *<h2>
   
   
-  The €82,000 Blind Spot That Almost Sank a SaaS Company
+  What is Lorem Ipsum?
 </h2>
 
-<p>Last Tuesday, Alex, founder of a mid-sized project management SaaS, stared at his Q3 revenue report. Something felt off. A...*
-  📅 Sun, 07 Dec 2025 06:02:48 +0000
+<p><strong>Lorem Ipsum</strong> is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever sin...*
+  📅 Sun, 07 Dec 2025 12:11:31 +0000
+
+- **[Content ROI for Engineers: Deconstructing the B2B Marketing Black Box](https://dev.to/michaelaiglobal/content-roi-for-engineers-deconstructing-the-b2b-marketing-black-box-434g)**
+  *<p>Let's be honest. As developers, we're skeptical of anything that can't be measured, versioned, or debugged. So when the marketing team talks about "brand awareness" or celebrates a spike in social ...*
+  📅 Sun, 07 Dec 2025 12:01:21 +0000
 
 </details>
 
@@ -124,103 +124,103 @@
 
 ### 📈 Daily Trending
 
-- **[RamaSaiJahnavi/Obesity-Dashboard](https://github.com/RamaSaiJahnavi/Obesity-Dashboard)** ⭐ 6
-  ![None](https://img.shields.io/badge/-None-lightgrey)
-  ✨Interactive Obesity Analysis Dashboard built using Power BI. Analyzes demographic, lifestyle, and eating habit factors from government open data. Includes multi-page dashboards, DAX measures, cards, bar and pie charts, and dynamic slicers to provide insights into obesity patterns and health trends.
-
-- **[Runtime-Exception/lmprobe](https://github.com/Runtime-Exception/lmprobe)** ⭐ 6
+- **[PastKing/tgbot-verify](https://github.com/PastKing/tgbot-verify)** ⭐ 209
   ![Python](https://img.shields.io/badge/-Python-blue)
-  Probe multiple LLM API endpoints to detect available models, then serve them through a unified local API supporting both OpenAI and Anthropic Claude formats.
+  一个基于 Python Telegram Bot 的自动化认证工具，能够自动完成 SheerID 平台的学生/教师身份验证流程。
 
-- **[davepl/dyson](https://github.com/davepl/dyson)** ⭐ 5
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  None
-
-- **[Pro-GenAI/Memory-Transformer](https://github.com/Pro-GenAI/Memory-Transformer)** ⭐ 4
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  AI memory using transformer-like neural network
-
-- **[1orz/project-cpe](https://github.com/1orz/project-cpe)** ⭐ 4
+- **[1orz/project-cpe](https://github.com/1orz/project-cpe)** ⭐ 11
   ![None](https://img.shields.io/badge/-None-lightgrey)
   5G模组高级后台
 
-- **[waddadaa/gpagent](https://github.com/waddadaa/gpagent)** ⭐ 3
-  ![C++](https://img.shields.io/badge/-C++-pink)
-    Native C++/Qt AI agent with tool use, multi-LLM support, and self-improving tool selection using Tiny Recursive Models
-
-- **[llyzot/acetool-skill](https://github.com/llyzot/acetool-skill)** ⭐ 3
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  None
-
-- **[cporter202/lovable-for-beginners](https://github.com/cporter202/lovable-for-beginners)** ⭐ 3
+- **[cporter202/lovable-for-beginners](https://github.com/cporter202/lovable-for-beginners)** ⭐ 10
   ![None](https://img.shields.io/badge/-None-lightgrey)
   Your complete beginner’s course to mastering Lovable Vibe Coding.  This repo is a step-by-step learning hub designed to take absolute beginners and turn them into confident Lovable developers.
 
+- **[SeungyounShin/yet-another-claude-code](https://github.com/SeungyounShin/yet-another-claude-code)** ⭐ 8
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  A minimal, hackable implementation of Claude’s code
+
+- **[forsonny/The-Crucible-Writing-System-For-Claude](https://github.com/forsonny/The-Crucible-Writing-System-For-Claude)** ⭐ 8
+  ![None](https://img.shields.io/badge/-None-lightgrey)
+  The Crucible Writing System is an integrated suite of three Claude skills designed to guide writers from initial story concept to completed first draft. Built around the Crucible Structure—a 36-beat narrative framework with three interwoven story strands.
+
+- **[Chunjiang-Intelligence/DeepRWKV-Reasoning](https://github.com/Chunjiang-Intelligence/DeepRWKV-Reasoning)** ⭐ 8
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  为 RWKV 设计的「Deep Think」实现。
+
+- **[miraclesprime/nuxt_nodeProject](https://github.com/miraclesprime/nuxt_nodeProject)** ⭐ 8
+  ![Vue](https://img.shields.io/badge/-Vue-lightgrey)
+  bib-pm-front-app
+
+- **[davepl/dyson](https://github.com/davepl/dyson)** ⭐ 8
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  None
+
 ### 📈 Weekly Trending
 
-- **[assetnote/react2shell-scanner](https://github.com/assetnote/react2shell-scanner)** ⭐ 868
+- **[assetnote/react2shell-scanner](https://github.com/assetnote/react2shell-scanner)** ⭐ 984
   ![Python](https://img.shields.io/badge/-Python-blue)
   High Fidelity Detection Mechanism for RSC/Next.js RCE (CVE-2025-55182 & CVE-2025-66478)
 
-- **[ejpir/CVE-2025-55182-research](https://github.com/ejpir/CVE-2025-55182-research)** ⭐ 677
+- **[ejpir/CVE-2025-55182-research](https://github.com/ejpir/CVE-2025-55182-research)** ⭐ 682
   ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
   CVE-2025-55182 POC
 
-- **[msanft/CVE-2025-55182](https://github.com/msanft/CVE-2025-55182)** ⭐ 583
+- **[msanft/CVE-2025-55182](https://github.com/msanft/CVE-2025-55182)** ⭐ 599
   ![Python](https://img.shields.io/badge/-Python-blue)
   Explanation and full RCE PoC for CVE-2025-55182
 
-- **[lachlan2k/React2Shell-CVE-2025-55182-original-poc](https://github.com/lachlan2k/React2Shell-CVE-2025-55182-original-poc)** ⭐ 409
+- **[lachlan2k/React2Shell-CVE-2025-55182-original-poc](https://github.com/lachlan2k/React2Shell-CVE-2025-55182-original-poc)** ⭐ 443
   ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
   Original Proof-of-Concept's for React2Shell CVE-2025-55182
 
-- **[guhcostan/mac-cleaner-cli](https://github.com/guhcostan/mac-cleaner-cli)** ⭐ 402
+- **[guhcostan/mac-cleaner-cli](https://github.com/guhcostan/mac-cleaner-cli)** ⭐ 413
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   None
 
-- **[crowmd/GoogleMapAIagent](https://github.com/crowmd/GoogleMapAIagent)** ⭐ 303
+- **[crowmd/GoogleMapAIagent](https://github.com/crowmd/GoogleMapAIagent)** ⭐ 314
   ![None](https://img.shields.io/badge/-None-lightgrey)
   None
 
-- **[norish-recipes/norish](https://github.com/norish-recipes/norish)** ⭐ 291
-  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
-  Norish - A realtime, self-hosted recipe app for families & friends 
-
-- **[Alibaba-Quark/LiveAvatar](https://github.com/Alibaba-Quark/LiveAvatar)** ⭐ 272
+- **[Alibaba-Quark/LiveAvatar](https://github.com/Alibaba-Quark/LiveAvatar)** ⭐ 305
   ![None](https://img.shields.io/badge/-None-lightgrey)
   Implementation of "Live Avatar: Streaming Real-time Audio-Driven Avatar Generation with Infinite Length"
 
+- **[norish-recipes/norish](https://github.com/norish-recipes/norish)** ⭐ 300
+  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
+  Norish - A realtime, self-hosted recipe app for families & friends 
+
 ### 📈 Monthly Trending
 
-- **[karpathy/llm-council](https://github.com/karpathy/llm-council)** ⭐ 10,007
+- **[karpathy/llm-council](https://github.com/karpathy/llm-council)** ⭐ 10,074
   ![Python](https://img.shields.io/badge/-Python-blue)
   LLM Council works together to answer your hardest questions
 
-- **[ZeroLu/awesome-nanobanana-pro](https://github.com/ZeroLu/awesome-nanobanana-pro)** ⭐ 5,284
-  ![None](https://img.shields.io/badge/-None-lightgrey)
-  🚀 An awesome list of curated Nano Banana pro prompts and examples. Your go-to resource for mastering prompt engineering and exploring the creative potential of the Nano banana pro(Nano banana 2) AI image model.
-
-- **[Tongyi-MAI/Z-Image](https://github.com/Tongyi-MAI/Z-Image)** ⭐ 5,201
+- **[Tongyi-MAI/Z-Image](https://github.com/Tongyi-MAI/Z-Image)** ⭐ 5,321
   ![Python](https://img.shields.io/badge/-Python-blue)
   None
 
-- **[unhappychoice/gitlogue](https://github.com/unhappychoice/gitlogue)** ⭐ 3,455
+- **[ZeroLu/awesome-nanobanana-pro](https://github.com/ZeroLu/awesome-nanobanana-pro)** ⭐ 5,307
+  ![None](https://img.shields.io/badge/-None-lightgrey)
+  🚀 An awesome list of curated Nano Banana pro prompts and examples. Your go-to resource for mastering prompt engineering and exploring the creative potential of the Nano banana pro(Nano banana 2) AI image model.
+
+- **[unhappychoice/gitlogue](https://github.com/unhappychoice/gitlogue)** ⭐ 3,463
   ![Rust](https://img.shields.io/badge/-Rust-brown)
   A cinematic Git commit replay tool for the terminal, turning your Git history into a living, animated story.
 
-- **[Facepunch/sbox-public](https://github.com/Facepunch/sbox-public)** ⭐ 3,262
-  ![C#](https://img.shields.io/badge/-C#-lightgrey)
-  s&box is a modern game engine, built on Valve's Source 2 and the latest .NET technology, it provides a modern intuitive editor for creating games
-
-- **[ByteDance-Seed/Depth-Anything-3](https://github.com/ByteDance-Seed/Depth-Anything-3)** ⭐ 3,259
+- **[ByteDance-Seed/Depth-Anything-3](https://github.com/ByteDance-Seed/Depth-Anything-3)** ⭐ 3,267
   ![Python](https://img.shields.io/badge/-Python-blue)
   Depth Anything 3
 
-- **[YouMind-OpenLab/awesome-nano-banana-pro-prompts](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts)** ⭐ 3,089
+- **[Facepunch/sbox-public](https://github.com/Facepunch/sbox-public)** ⭐ 3,267
+  ![C#](https://img.shields.io/badge/-C#-lightgrey)
+  s&box is a modern game engine, built on Valve's Source 2 and the latest .NET technology, it provides a modern intuitive editor for creating games
+
+- **[YouMind-OpenLab/awesome-nano-banana-pro-prompts](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts)** ⭐ 3,118
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   🍌 500+ selected Nano Banana Pro prompts with images, multilingual support, and instant gallery preview. Open-source prompt engineering library
 
-- **[HisMax/RedInk](https://github.com/HisMax/RedInk)** ⭐ 2,997
+- **[HisMax/RedInk](https://github.com/HisMax/RedInk)** ⭐ 3,013
   ![Python](https://img.shields.io/badge/-Python-blue)
   红墨 - 基于🍌Nano Banana Pro🍌 的一站式小红书图文生成器 《一句话一张图片生成小红书图文》 Red Ink - A one-stop Xiaohongshu image-and-text generator based on the 🍌Nano Banana Pro🍌, "One Sentence, One Image: Generate Xiaohongshu Text and Images."
 
@@ -482,40 +482,40 @@ for a semver-minor rele...
 
 | Skill | Status |
 |-------|--------|
-| Java | 🟡 Learning |
-| Python | 🔴 Beginner |
-| JavaScript | ⚪ Planned |
-| TypeScript | 🟡 Learning |
-| Go | 🟢 Proficient |
+| Java | 🟢 Proficient |
+| Python | 🟢 Proficient |
+| JavaScript | 🟡 Learning |
+| TypeScript | ⚪ Planned |
+| Go | ⚪ Planned |
 
 ### Frameworks
 
 | Skill | Status |
 |-------|--------|
-| React | 🟢 Proficient |
-| Spring Boot | 🟡 Learning |
-| Django | 🔴 Beginner |
-| Node.js | 🟡 Learning |
-| Next.js | 🔴 Beginner |
+| React | 🔴 Beginner |
+| Spring Boot | 🔴 Beginner |
+| Django | ⚪ Planned |
+| Node.js | ⚪ Planned |
+| Next.js | ⚪ Planned |
 
 ### Cybersecurity
 
 | Skill | Status |
 |-------|--------|
 | Penetration Testing | 🟢 Proficient |
-| Web Security | 🔴 Beginner |
-| Network Security | ⚪ Planned |
+| Web Security | 🟢 Proficient |
+| Network Security | 🟢 Proficient |
 | OWASP | ⚪ Planned |
 
 ### Ai Ml
 
 | Skill | Status |
 |-------|--------|
-| Machine Learning | 🟢 Proficient |
+| Machine Learning | 🟡 Learning |
 | Deep Learning | 🟢 Proficient |
-| NLP | 🔴 Beginner |
-| Computer Vision | 🟡 Learning |
-| TensorFlow | 🔴 Beginner |
+| NLP | 🟢 Proficient |
+| Computer Vision | ⚪ Planned |
+| TensorFlow | ⚪ Planned |
 | PyTorch | 🔴 Beginner |
 
 ### Devops
@@ -523,18 +523,18 @@ for a semver-minor rele...
 | Skill | Status |
 |-------|--------|
 | Docker | 🟢 Proficient |
-| Kubernetes | 🟢 Proficient |
+| Kubernetes | 🔴 Beginner |
 | CI/CD | 🟡 Learning |
-| AWS | 🟡 Learning |
-| Azure | 🔴 Beginner |
+| AWS | ⚪ Planned |
+| Azure | ⚪ Planned |
 
 ### Other
 
 | Skill | Status |
 |-------|--------|
-| Blockchain | 🟢 Proficient |
-| Web3 | 🔴 Beginner |
-| Cloud Computing | 🟢 Proficient |
+| Blockchain | ⚪ Planned |
+| Web3 | 🟡 Learning |
+| Cloud Computing | 🔴 Beginner |
 
 </details>
 
