@@ -46,33 +46,35 @@
 
 ### 📑 Hacker News
 
+- **[Modern Walkmans](https://walkman.land/modern)**
+  *<p>Article URL: <a href="https://walkman.land/modern">https://walkman.land/modern</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46201381">https://news.ycombinator.com/item?id=...*
+  📅 Tue, 09 Dec 2025 04:57:53 +0000
+
+- **[The Lost Machine Automats and Self-Service Cafeterias of NYC (2023)](https://www.untappedcities.com/automats-cafeterias-nyc/)**
+  *<p>Article URL: <a href="https://www.untappedcities.com/automats-cafeterias-nyc/">https://www.untappedcities.com/automats-cafeterias-nyc/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com...*
+  📅 Tue, 09 Dec 2025 00:51:31 +0000
+
 - **[Scientific and Technical Amateur Radio](https://destevez.net/)**
   *<p>Article URL: <a href="https://destevez.net/">https://destevez.net/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=46199935">https://news.ycombinator.com/item?id=46199935</a>...*
   📅 Tue, 09 Dec 2025 00:50:32 +0000
 
-- **[The Universal Weight Subspace Hypothesis](https://arxiv.org/abs/2512.05117)**
+- **[Horses: AI progress is steady. Human equivalence is sudden](https://andyljones.com/posts/horses.html)**
+  *<p>Article URL: <a href="https://andyljones.com/posts/horses.html">https://andyljones.com/posts/horses.html</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46199723">https://new...*
+  📅 Tue, 09 Dec 2025 00:26:35 +0000
+
+- **[The universal weight subspace hypothesis](https://arxiv.org/abs/2512.05117)**
   *<p>Article URL: <a href="https://arxiv.org/abs/2512.05117">https://arxiv.org/abs/2512.05117</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=46199623">https://news.ycombinator.co...*
   📅 Tue, 09 Dec 2025 00:16:46 +0000
 
-- **[Kroger acknowledges that its bet on robotics went too far](https://www.grocerydive.com/news/kroger-ocado-close-automated-fulfillment-centers-robotics-grocery-ecommerce/805931/)**
-  *<p>Article URL: <a href="https://www.grocerydive.com/news/kroger-ocado-close-automated-fulfillment-centers-robotics-grocery-ecommerce/805931/">https://www.grocerydive.com/news/kroger-ocado-close-autom...*
-  📅 Mon, 08 Dec 2025 23:53:52 +0000
-
-- **[Running on Empty: Copper](https://thehonestsorcerer.substack.com/p/running-on-empty-copper)**
-  *<p>Article URL: <a href="https://thehonestsorcerer.substack.com/p/running-on-empty-copper">https://thehonestsorcerer.substack.com/p/running-on-empty-copper</a></p>
-<p>Comments URL: <a href="https://ne...*
-  📅 Mon, 08 Dec 2025 21:54:12 +0000
-
-- **[Delivery robots take over Chicago sidewalks](https://blockclubchicago.org/2025/12/08/delivery-robots-take-over-chicago-sidewalks-sparking-debate-and-a-petition-to-hit-pause/)**
-  *<p>Article URL: <a href="https://blockclubchicago.org/2025/12/08/delivery-robots-take-over-chicago-sidewalks-sparking-debate-and-a-petition-to-hit-pause/">https://blockclubchicago.org/2025/12/08/deliv...*
-  📅 Mon, 08 Dec 2025 21:27:42 +0000
-
-- **[Icons in Menus Everywhere – Send Help](https://blog.jim-nielsen.com/2025/icons-in-menus/)**
-  *<p>Article URL: <a href="https://blog.jim-nielsen.com/2025/icons-in-menus/">https://blog.jim-nielsen.com/2025/icons-in-menus/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=461...*
-  📅 Mon, 08 Dec 2025 19:44:00 +0000
+- **[Manual: Spaces](https://type.today/en/journal/spaces)**
+  *<p>Article URL: <a href="https://type.today/en/journal/spaces">https://type.today/en/journal/spaces</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46199530">https://news.ycombi...*
+  📅 Tue, 09 Dec 2025 00:07:42 +0000
 
 ### 📑 TechCrunch
 
@@ -102,18 +104,13 @@
 
 ### 📑 Dev.to
 
-- **[Kubernetes Auto-Scaling with Karpenter: The Smart Way to Scale on AWS EKS 🚀](https://dev.to/omarmfathy219/kubernetes-auto-scaling-with-karpenter-the-smart-way-to-scale-on-aws-eks-5bao)**
-  *<p>We've all been there. You've got your Kubernetes app humming along nicely on EKS, and then it happens. A sudden traffic surge leaves your pods hanging in <code>Pending</code> because you're out of ...*
-  📅 Tue, 09 Dec 2025 00:55:20 +0000
+- **[Jupyter Notebook Cheatsheet](https://dev.to/rosgluk/jupyter-notebook-cheatsheet-h8k)**
+  *<p>Jumpstart the <a href="https://www.glukhov.org/post/2025/12/jupyter-notebook-cheatsheet/" rel="noopener noreferrer">Jupyter Notebook productivity</a> with essential shortcuts, magic commands, and w...*
+  📅 Tue, 09 Dec 2025 06:11:26 +0000
 
-- **[DIY Bluetooth Speaker – Build a Compact Portable Audio System](https://dev.to/messin_tom/diy-bluetooth-speaker-build-a-compact-portable-audio-system-1i89)**
-  *<p>Build your own budget-friendly Bluetooth speaker with just a few components — perfect for hobbyists and makers who love hands-on electronics with practical results.</p>
-
-<h2>
-  
-  
-  <strong>🎧 Intr...*
-  📅 Tue, 09 Dec 2025 00:42:20 +0000
+- **[What emerging tech are you most excited or concerned about in 2026?](https://dev.to/lucassanderson/what-emerging-tech-are-you-most-excited-or-concerned-about-in-2026-2891)**
+  *<p>I have been reading different discussions here and it feels great to see how many ideas people share about the future. There is so much happening in science and technology that it gets hard to choo...*
+  📅 Tue, 09 Dec 2025 06:09:24 +0000
 
 </details>
 
@@ -121,103 +118,103 @@
 
 ### 📈 Daily Trending
 
-- **[brasunnimar1979/amass](https://github.com/brasunnimar1979/amass)** ⭐ 7
+- **[doggy8088/better-rm](https://github.com/doggy8088/better-rm)** ⭐ 123
+  ![Shell](https://img.shields.io/badge/-Shell-lightgrey)
+  給你一個更好、更安全的 rm 命令
+
+- **[imaginefls/ezFlash](https://github.com/imaginefls/ezFlash)** ⭐ 64
+  ![None](https://img.shields.io/badge/-None-lightgrey)
+  None
+
+- **[CdyWork/time_help](https://github.com/CdyWork/time_help)** ⭐ 12
+  ![C#](https://img.shields.io/badge/-C#-lightgrey)
+  None
+
+- **[hustvl/DiffusionDriveV2](https://github.com/hustvl/DiffusionDriveV2)** ⭐ 9
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  DiffusionDriveV2: Reinforcement Learning-Constrained Truncated Diffusion Modeling in End-to-End Autonomous Driving
+
+- **[brasunnimar1979/amass](https://github.com/brasunnimar1979/amass)** ⭐ 8
   ![None](https://img.shields.io/badge/-None-lightgrey)
   Explore under 🗺️🔽
+
+- **[kj326646302/tempo.2api-deno](https://github.com/kj326646302/tempo.2api-deno)** ⭐ 7
+  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
+  # Tempo API Proxy - Deno 版  将 [Tempo.build](https://tempo.build) 的 AI 聊天接口封装成 OpenAI 兼容格式。  **单文件版本，无需安装依赖，直接运行！**
+
+- **[xddxdd/nix-cachyos-kernel](https://github.com/xddxdd/nix-cachyos-kernel)** ⭐ 7
+  ![Nix](https://img.shields.io/badge/-Nix-lightgrey)
+  CachyOS kernel for NixOS
 
 - **[desucentbi1970/trace](https://github.com/desucentbi1970/trace)** ⭐ 7
   ![None](https://img.shields.io/badge/-None-lightgrey)
   Check under ✅🔽
 
-- **[fiebercobal1986/capture](https://github.com/fiebercobal1986/capture)** ⭐ 5
-  ![None](https://img.shields.io/badge/-None-lightgrey)
-  Study bottom 📚🔽
-
-- **[atreiflunri1971/capture](https://github.com/atreiflunri1971/capture)** ⭐ 4
-  ![None](https://img.shields.io/badge/-None-lightgrey)
-  Peer down 👀⬇️
-
-- **[losdetico1985/detect](https://github.com/losdetico1985/detect)** ⭐ 4
-  ![None](https://img.shields.io/badge/-None-lightgrey)
-  Probe down 🔍⬇️
-
-- **[lousetsutea1982/discover](https://github.com/lousetsutea1982/discover)** ⭐ 3
-  ![None](https://img.shields.io/badge/-None-lightgrey)
-  Check under ✅🔽
-
-- **[igo990/ech-wk-Windows-](https://github.com/igo990/ech-wk-Windows-)** ⭐ 3
-  ![C#](https://img.shields.io/badge/-C#-lightgrey)
-  None
-
-- **[sucdocarrens1984/amass](https://github.com/sucdocarrens1984/amass)** ⭐ 2
-  ![None](https://img.shields.io/badge/-None-lightgrey)
-  Glance downward ⬇️👀
-
 ### 📈 Weekly Trending
 
-- **[assetnote/react2shell-scanner](https://github.com/assetnote/react2shell-scanner)** ⭐ 1,520
+- **[assetnote/react2shell-scanner](https://github.com/assetnote/react2shell-scanner)** ⭐ 1,693
   ![Python](https://img.shields.io/badge/-Python-blue)
   High Fidelity Detection Mechanism for RSC/Next.js RCE (CVE-2025-55182 & CVE-2025-66478)
 
-- **[msanft/CVE-2025-55182](https://github.com/msanft/CVE-2025-55182)** ⭐ 772
+- **[zai-org/Open-AutoGLM](https://github.com/zai-org/Open-AutoGLM)** ⭐ 924
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  None
+
+- **[msanft/CVE-2025-55182](https://github.com/msanft/CVE-2025-55182)** ⭐ 837
   ![Python](https://img.shields.io/badge/-Python-blue)
   Explanation and full RCE PoC for CVE-2025-55182
 
-- **[ejpir/CVE-2025-55182-research](https://github.com/ejpir/CVE-2025-55182-research)** ⭐ 722
+- **[ejpir/CVE-2025-55182-research](https://github.com/ejpir/CVE-2025-55182-research)** ⭐ 723
   ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
   CVE-2025-55182 POC
 
-- **[lachlan2k/React2Shell-CVE-2025-55182-original-poc](https://github.com/lachlan2k/React2Shell-CVE-2025-55182-original-poc)** ⭐ 628
+- **[lachlan2k/React2Shell-CVE-2025-55182-original-poc](https://github.com/lachlan2k/React2Shell-CVE-2025-55182-original-poc)** ⭐ 644
   ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
   Original Proof-of-Concepts for React2Shell CVE-2025-55182
 
-- **[guhcostan/mac-cleaner-cli](https://github.com/guhcostan/mac-cleaner-cli)** ⭐ 616
+- **[guhcostan/mac-cleaner-cli](https://github.com/guhcostan/mac-cleaner-cli)** ⭐ 632
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   None
 
-- **[Alibaba-Quark/LiveAvatar](https://github.com/Alibaba-Quark/LiveAvatar)** ⭐ 529
+- **[Alibaba-Quark/LiveAvatar](https://github.com/Alibaba-Quark/LiveAvatar)** ⭐ 612
   ![Python](https://img.shields.io/badge/-Python-blue)
   Implementation of "Live Avatar: Streaming Real-time Audio-Driven Avatar Generation with Infinite Length"
 
-- **[PastKing/tgbot-verify](https://github.com/PastKing/tgbot-verify)** ⭐ 421
+- **[PastKing/tgbot-verify](https://github.com/PastKing/tgbot-verify)** ⭐ 463
   ![Python](https://img.shields.io/badge/-Python-blue)
   一个基于 Python Telegram Bot 的自动化认证工具，能够自动完成 SheerID 平台的学生/教师身份验证流程。
 
-- **[mrknow001/RSC_Detector](https://github.com/mrknow001/RSC_Detector)** ⭐ 342
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
-  Supports RSC fingerprinting and exploitation of the React component vulnerability CVE-2025-55182.
-
 ### 📈 Monthly Trending
 
-- **[karpathy/llm-council](https://github.com/karpathy/llm-council)** ⭐ 10,399
+- **[karpathy/llm-council](https://github.com/karpathy/llm-council)** ⭐ 10,428
   ![Python](https://img.shields.io/badge/-Python-blue)
   LLM Council works together to answer your hardest questions
 
-- **[Tongyi-MAI/Z-Image](https://github.com/Tongyi-MAI/Z-Image)** ⭐ 5,812
+- **[Tongyi-MAI/Z-Image](https://github.com/Tongyi-MAI/Z-Image)** ⭐ 5,895
   ![Python](https://img.shields.io/badge/-Python-blue)
   None
 
-- **[ZeroLu/awesome-nanobanana-pro](https://github.com/ZeroLu/awesome-nanobanana-pro)** ⭐ 5,475
+- **[ZeroLu/awesome-nanobanana-pro](https://github.com/ZeroLu/awesome-nanobanana-pro)** ⭐ 5,519
   ![None](https://img.shields.io/badge/-None-lightgrey)
   🚀 An awesome list of curated Nano Banana pro prompts and examples. Your go-to resource for mastering prompt engineering and exploring the creative potential of the Nano banana pro(Nano banana 2) AI image model.
 
-- **[Facepunch/sbox-public](https://github.com/Facepunch/sbox-public)** ⭐ 3,304
-  ![C#](https://img.shields.io/badge/-C#-lightgrey)
-  s&box is a modern game engine, built on Valve's Source 2 and the latest .NET technology, it provides a modern intuitive editor for creating games
-
-- **[ByteDance-Seed/Depth-Anything-3](https://github.com/ByteDance-Seed/Depth-Anything-3)** ⭐ 3,301
+- **[ByteDance-Seed/Depth-Anything-3](https://github.com/ByteDance-Seed/Depth-Anything-3)** ⭐ 3,310
   ![Python](https://img.shields.io/badge/-Python-blue)
   Depth Anything 3
 
-- **[YouMind-OpenLab/awesome-nano-banana-pro-prompts](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts)** ⭐ 3,247
+- **[Facepunch/sbox-public](https://github.com/Facepunch/sbox-public)** ⭐ 3,308
+  ![C#](https://img.shields.io/badge/-C#-lightgrey)
+  s&box is a modern game engine, built on Valve's Source 2 and the latest .NET technology, it provides a modern intuitive editor for creating games
+
+- **[YouMind-OpenLab/awesome-nano-banana-pro-prompts](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts)** ⭐ 3,269
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   🍌 500+ selected Nano Banana Pro prompts with images, multilingual support, and instant gallery preview. Open-source prompt engineering library
 
-- **[HisMax/RedInk](https://github.com/HisMax/RedInk)** ⭐ 3,108
+- **[HisMax/RedInk](https://github.com/HisMax/RedInk)** ⭐ 3,145
   ![Python](https://img.shields.io/badge/-Python-blue)
   红墨 - 基于🍌Nano Banana Pro🍌 的一站式小红书图文生成器 《一句话一张图片生成小红书图文》 Red Ink - A one-stop Xiaohongshu image-and-text generator based on the 🍌Nano Banana Pro🍌, "One Sentence, One Image: Generate Xiaohongshu Text and Images."
 
-- **[straight-tamago/misaka26](https://github.com/straight-tamago/misaka26)** ⭐ 2,992
+- **[straight-tamago/misaka26](https://github.com/straight-tamago/misaka26)** ⭐ 3,000
   ![None](https://img.shields.io/badge/-None-lightgrey)
   iOS /iPadOS 16.0 - 26.1, An ultimate customization tool, uilitizing the bug that makes TrollRestore possible. 
 
@@ -479,19 +476,19 @@ for a semver-minor rele...
 
 | Skill | Status |
 |-------|--------|
-| Java | 🔴 Beginner |
-| Python | 🟢 Proficient |
+| Java | ⚪ Planned |
+| Python | 🔴 Beginner |
 | JavaScript | ⚪ Planned |
-| TypeScript | 🟢 Proficient |
-| Go | 🟡 Learning |
+| TypeScript | 🔴 Beginner |
+| Go | 🔴 Beginner |
 
 ### Frameworks
 
 | Skill | Status |
 |-------|--------|
-| React | 🟢 Proficient |
-| Spring Boot | 🔴 Beginner |
-| Django | 🔴 Beginner |
+| React | ⚪ Planned |
+| Spring Boot | ⚪ Planned |
+| Django | 🟢 Proficient |
 | Node.js | 🟡 Learning |
 | Next.js | ⚪ Planned |
 
@@ -499,39 +496,39 @@ for a semver-minor rele...
 
 | Skill | Status |
 |-------|--------|
-| Penetration Testing | ⚪ Planned |
-| Web Security | 🟢 Proficient |
-| Network Security | ⚪ Planned |
-| OWASP | 🟢 Proficient |
+| Penetration Testing | 🔴 Beginner |
+| Web Security | ⚪ Planned |
+| Network Security | 🔴 Beginner |
+| OWASP | 🔴 Beginner |
 
 ### Ai Ml
 
 | Skill | Status |
 |-------|--------|
-| Machine Learning | ⚪ Planned |
-| Deep Learning | 🟡 Learning |
-| NLP | 🟡 Learning |
-| Computer Vision | ⚪ Planned |
-| TensorFlow | 🟡 Learning |
-| PyTorch | 🔴 Beginner |
+| Machine Learning | 🔴 Beginner |
+| Deep Learning | 🔴 Beginner |
+| NLP | 🔴 Beginner |
+| Computer Vision | 🔴 Beginner |
+| TensorFlow | 🟢 Proficient |
+| PyTorch | 🟡 Learning |
 
 ### Devops
 
 | Skill | Status |
 |-------|--------|
-| Docker | ⚪ Planned |
-| Kubernetes | 🟢 Proficient |
-| CI/CD | ⚪ Planned |
-| AWS | 🟢 Proficient |
-| Azure | ⚪ Planned |
+| Docker | 🟢 Proficient |
+| Kubernetes | ⚪ Planned |
+| CI/CD | 🔴 Beginner |
+| AWS | ⚪ Planned |
+| Azure | 🟡 Learning |
 
 ### Other
 
 | Skill | Status |
 |-------|--------|
-| Blockchain | ⚪ Planned |
+| Blockchain | 🔴 Beginner |
 | Web3 | 🔴 Beginner |
-| Cloud Computing | 🟢 Proficient |
+| Cloud Computing | ⚪ Planned |
 
 </details>
 
