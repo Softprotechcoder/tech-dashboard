@@ -46,86 +46,69 @@
 
 ### 📑 Hacker News
 
-- **[Stop Breaking TLS](https://www.markround.com/blog/2025/12/09/stop-breaking-tls/)**
-  *<p>Article URL: <a href="https://www.markround.com/blog/2025/12/09/stop-breaking-tls/">https://www.markround.com/blog/2025/12/09/stop-breaking-tls/</a></p>
-<p>Comments URL: <a href="https://news.ycomb...*
-  📅 Wed, 10 Dec 2025 07:06:55 +0000
+- **[Is It a Bubble? By Howard Marks](https://www.oaktreecapital.com/insights/memo/is-it-a-bubble)**
+  *<p>Article URL: <a href="https://www.oaktreecapital.com/insights/memo/is-it-a-bubble">https://www.oaktreecapital.com/insights/memo/is-it-a-bubble</a></p>
+<p>Comments URL: <a href="https://news.ycombin...*
+  📅 Wed, 10 Dec 2025 17:30:43 +0000
 
-- **[Revisiting "Let's Build a Compiler"](https://eli.thegreenplace.net/2025/revisiting-lets-build-a-compiler/)**
-  *<p>Article URL: <a href="https://eli.thegreenplace.net/2025/revisiting-lets-build-a-compiler/">https://eli.thegreenplace.net/2025/revisiting-lets-build-a-compiler/</a></p>
-<p>Comments URL: <a href="ht...*
-  📅 Wed, 10 Dec 2025 06:22:19 +0000
+- **[Auto-grading decade-old Hacker News discussions with hindsight](https://karpathy.bearblog.dev/auto-grade-hn/)**
+  *<p>Article URL: <a href="https://karpathy.bearblog.dev/auto-grade-hn/">https://karpathy.bearblog.dev/auto-grade-hn/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46220540">htt...*
+  📅 Wed, 10 Dec 2025 17:23:53 +0000
 
-- **[Are the Three Musketeers allergic to muskets? (2014)](https://www.ox.ac.uk/news/arts-blog/are-three-musketeers-allergic-muskets)**
-  *<p>Article URL: <a href="https://www.ox.ac.uk/news/arts-blog/are-three-musketeers-allergic-muskets">https://www.ox.ac.uk/news/arts-blog/are-three-musketeers-allergic-muskets</a></p>
-<p>Comments URL: <...*
-  📅 Wed, 10 Dec 2025 06:08:50 +0000
+- **[Valve: HDMI Forum Continues to Block HDMI 2.1 for Linux](https://www.heise.de/en/news/Valve-HDMI-Forum-Continues-to-Block-HDMI-2-1-for-Linux-11107440.html)**
+  *<p>Article URL: <a href="https://www.heise.de/en/news/Valve-HDMI-Forum-Continues-to-Block-HDMI-2-1-for-Linux-11107440.html">https://www.heise.de/en/news/Valve-HDMI-Forum-Continues-to-Block-HDMI-2-1-fo...*
+  📅 Wed, 10 Dec 2025 17:20:06 +0000
 
-- **[Rust in the kernel is no longer experimental](https://lwn.net/Articles/1049831/)**
-  *<p>Article URL: <a href="https://lwn.net/Articles/1049831/">https://lwn.net/Articles/1049831/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46213585">https://news.ycombinator....*
-  📅 Wed, 10 Dec 2025 03:15:24 +0000
+- **[9 Mothers (YC X26) Is Hiring](https://app.dover.com/jobs/9mothers)**
+  *<p>Article URL: <a href="https://app.dover.com/jobs/9mothers">https://app.dover.com/jobs/9mothers</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46220211">https://news.ycombina...*
+  📅 Wed, 10 Dec 2025 17:00:22 +0000
 
-- **[Cloudflare error page generator](https://github.com/donlon/cloudflare-error-page)**
-  *<p>Article URL: <a href="https://github.com/donlon/cloudflare-error-page">https://github.com/donlon/cloudflare-error-page</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=4621327...*
-  📅 Wed, 10 Dec 2025 02:18:07 +0000
+- **[DeepSeek uses banned Nvidia chips for AI model, report says](https://finance.yahoo.com/news/china-deepseek-uses-banned-nvidia-131207746.html)**
+  *<p>(Original is <a href="https://www.theinformation.com/articles/deepseek-using-banned-nvidia-chips-race-build-next-model" rel="nofollow">https://www.theinformation.com/articles/deepseek-using-banne.....*
+  📅 Wed, 10 Dec 2025 16:34:52 +0000
 
-- **[Linux CVEs, more than you ever wanted to know](http://www.kroah.com/log/blog/2025/12/08/linux-cves-more-than-you-ever-wanted-to-know/)**
-  *<p>Article URL: <a href="http://www.kroah.com/log/blog/2025/12/08/linux-cves-more-than-you-ever-wanted-to-know/">http://www.kroah.com/log/blog/2025/12/08/linux-cves-more-than-you-ever-wanted-to-know/<...*
-  📅 Tue, 09 Dec 2025 22:47:36 +0000
+- **[England Historic Aerial Photo Explorer](https://historicengland.org.uk/images-books/archive/collections/aerial-photos/)**
+  *<p>Article URL: <a href="https://historicengland.org.uk/images-books/archive/collections/aerial-photos/">https://historicengland.org.uk/images-books/archive/collections/aerial-photos/</a></p>
+<p>Comme...*
+  📅 Wed, 10 Dec 2025 16:13:57 +0000
 
 ### 📑 TechCrunch
 
-- **[Google invests in Fervo’s $462M round to unlock even more geothermal energy](https://techcrunch.com/2025/12/10/google-invests-in-fervos-462m-round-to-unlock-even-more-geothermal-energy/)**
-  *Fervo Energy's Series E round will help the company build additional phases of its Cape Station power plant while beginning development on new sites....*
-  📅 Wed, 10 Dec 2025 12:05:00 +0000
+- **[Google is testing AI-powered article overviews on select publications’ Google News pages](https://techcrunch.com/2025/12/10/google-is-testing-ai-powered-article-overviews-on-select-publications-google-news-pages/)**
+  *Google is testing AI-powered article overviews on participating publications’ Google News pages as part of a new pilot program, the search giant announced on Wednesday. News publishers participating i...*
+  📅 Wed, 10 Dec 2025 17:00:00 +0000
 
-- **[Meesho’s $606M IPO pops as enthusiasm for India’s e-commerce startups rises](https://techcrunch.com/2025/12/10/meeshos-606m-ipo-pops-as-enthusiasm-for-indias-e-commerce-startups-rises/)**
-  *Meesho had a good first day as a public company, with its shares climbing as much as 46% from its issue price as investors jumped to grab a piece of the company built around small merchants and value-...*
-  📅 Wed, 10 Dec 2025 12:03:08 +0000
+- **[Amazon changes how copyright protection is applied to Kindle Direct’s self-published ebooks](https://techcrunch.com/2025/12/10/amazon-changes-how-copyright-protection-is-applied-to-kindle-directs-self-published-ebooks/)**
+  *Amazon says its Kindle Direct DRM-free titles will be available as PDFs and EPUB files going forward....*
+  📅 Wed, 10 Dec 2025 16:26:01 +0000
 
-- **[Fertility startup Inito wants to use AI-designed antibodies to expand at-home health tests](https://techcrunch.com/2025/12/10/fertility-startup-inito-wants-to-use-ai-designed-antibodies-to-expand-at-home-health-tests/)**
-  *Inito has raised $29 million in new funding to invest in and develop AI-engineered antibodies that will help it offer new types of tests and improve the accuracy of existing ones....*
-  📅 Wed, 10 Dec 2025 12:00:00 +0000
+- **[ChatGPT is Apple’s most downloaded app of 2025 in the US](https://techcrunch.com/2025/12/10/chatgpt-is-apples-most-downloaded-app-of-2025-in-the-us/)**
+  *This is ChatGPT's first year as the No. 1 app on the U.S. App Store by downloads....*
+  📅 Wed, 10 Dec 2025 15:17:26 +0000
 
-- **[CoreWeave CEO defends AI circular deals as ‘working together’](https://techcrunch.com/2025/12/09/coreweave-ceo-defends-ai-circular-deals-as-working-together/)**
-  *The CEO of the AI data center provider, which has Nvidia as an investor and a supplier, described the environment as a "violent change" in demand....*
-  📅 Wed, 10 Dec 2025 00:49:25 +0000
+- **[Amazon now offers same-day delivery of perishable groceries in 2,300 US cities](https://techcrunch.com/2025/12/10/amazon-now-offers-same-day-delivery-of-perishable-groceries-in-2300-us-cities/)**
+  *The e-commerce giant says it will expand the service to additional cities in 2026....*
+  📅 Wed, 10 Dec 2025 15:14:28 +0000
 
-- **[Unconventional AI confirms its massive  $475M seed round](https://techcrunch.com/2025/12/09/unconventional-ai-confirms-its-massive-475m-seed-round/)**
-  *Led by Naveen Rao, the former head of AI at Databricks, the new hardware startup is valued at $4.5 billion....*
-  📅 Wed, 10 Dec 2025 00:24:16 +0000
+- **[Oboe raises $16 million from a16z for its AI-powered course-generation platform](https://techcrunch.com/2025/12/10/oboe-raises-16-million-from-a16z-for-its-ai-powered-course-generation-platform/)**
+  *Oboe has raised $16 million in funding for its learning app. The company now lets users generate unlimited courses for free....*
+  📅 Wed, 10 Dec 2025 15:00:00 +0000
 
-- **[Hinge CEO steps down to launch Overtone, an AI dating app](https://techcrunch.com/2025/12/09/hinge-ceo-steps-down-to-launch-overtone-an-ai-dating-app/)**
-  *Overtone is described as "an early-stage dating service focused on using AI and voice tools to help people connect in a more thoughtful and personal way."...*
-  📅 Wed, 10 Dec 2025 00:01:13 +0000
+- **[Google launches managed MCP servers that let AI agents simply plug into its tools](https://techcrunch.com/2025/12/10/google-is-going-all-in-on-mcp-servers-agent-ready-by-design/)**
+  *Google is rolling out managed MCP servers to make its services “agent-ready by design,” starting with Maps and BigQuery, aiming to simplify messy integrations and help AI agents use real tools....*
+  📅 Wed, 10 Dec 2025 15:00:00 +0000
 
 ### 📑 Dev.to
 
-- **[Stop Building God Agents](https://dev.to/ejb503/stop-building-god-agents-511e)**
-  *<p>We are building AI systems wrong.</p>
+- **[Why Engraved Wooden Gifts Are the Perfect Choice for Thoughtful Giving](https://dev.to/smithwilliam/why-engraved-wooden-gifts-are-the-perfect-choice-for-thoughtful-giving-1doa)**
+  *<p>People often struggle to find gifts that truly feel meaningful items that combine beauty, practicality, and emotion. Generic presents may serve the moment, but they rarely become cherished keepsake...*
+  📅 Wed, 10 Dec 2025 18:11:10 +0000
 
-<p>Not slightly wrong. Fundamentally, structurally, catastrophically wrong.</p>
-
-<p>The pattern is always the same. A team discovers the magic of a Large Lang...*
-  📅 Wed, 10 Dec 2025 12:19:34 +0000
-
-- **[在本機安裝 Mattermost：打造自主控制的團隊通訊平台](https://dev.to/letswrite/zai-ben-ji-an-zhuang-mattermostda-zao-zi-zhu-kong-zhi-de-tuan-dui-tong-xun-ping-tai-4hk2)**
-  *<h2>
-  
-  
-  本篇要解決的問題
-</h2>
-
-<p>工作上，各家公司用的通訊軟體，常聽到的是以下三種：LINE、Teams、Slack。</p>
-
-<p>如果稍微比較一下，用起來的經驗如下（以下為 August 個人體感，不代表本台立場 XD）：</p>
-
-<p><strong>LINE、Telegram：適合閒聊</strong></p>
-
-<p>這兩個工具雖然方便，尤其台灣人幾乎都...*
-  📅 Wed, 10 Dec 2025 12:19:20 +0000
+- **[Java vs Swift in 2025: The One Choice That Can Make or Break Your App](https://dev.to/chillicode/java-vs-swift-in-2025-the-one-choice-that-can-make-or-break-your-app-1d90)**
+  *<p>If you’ve ever worked on an app that went over budget, missed every deadline, and somehow still performed meh in production, you already know the truth developers hate admitting: choosing the wrong...*
+  📅 Wed, 10 Dec 2025 18:08:04 +0000
 
 </details>
 
@@ -133,99 +116,99 @@
 
 ### 📈 Daily Trending
 
-- **[baidu/vLLM-Kunlun](https://github.com/baidu/vLLM-Kunlun)** ⭐ 79
+- **[baidu/vLLM-Kunlun](https://github.com/baidu/vLLM-Kunlun)** ⭐ 82
   ![Python](https://img.shields.io/badge/-Python-blue)
   vLLM Kunlun (vllm-kunlun) is a community-maintained hardware plugin designed to seamlessly run vLLM on the Kunlun XPU.
 
-- **[arclab-hku/P2M](https://github.com/arclab-hku/P2M)** ⭐ 22
+- **[karpathy/hn-time-capsule](https://github.com/karpathy/hn-time-capsule)** ⭐ 40
   ![Python](https://img.shields.io/badge/-Python-blue)
-  [RA-L'25] A Simple LiDAR-centric End-to-end Navigation Framework in Dynamic Environments
+  Analyzing Hacker News discussions from a decade ago in hindsight with LLMs
 
-- **[yenbook/proxyearth](https://github.com/yenbook/proxyearth)** ⭐ 15
-  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
-  proxyearth data leak website theme source code
-
-- **[BeichenDream/GodzillaNodeJsPayload](https://github.com/BeichenDream/GodzillaNodeJsPayload)** ⭐ 15
+- **[BeichenDream/GodzillaNodeJsPayload](https://github.com/BeichenDream/GodzillaNodeJsPayload)** ⭐ 35
   ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
   GodzillaNodeJsPayload
 
-- **[ZonD80/familycall](https://github.com/ZonD80/familycall)** ⭐ 14
+- **[arclab-hku/P2M](https://github.com/arclab-hku/P2M)** ⭐ 30
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  [RA-L'25] A Simple LiDAR-centric End-to-end Navigation Framework in Dynamic Environments
+
+- **[ZonD80/familycall](https://github.com/ZonD80/familycall)** ⭐ 26
   ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
   Self-hosted приложение для видео и аудиозвонков для своей семьи в виде одного бинарника
 
-- **[shutu-hub/devSphere](https://github.com/shutu-hub/devSphere)** ⭐ 10
-  ![Java](https://img.shields.io/badge/-Java-orange)
-  devSphere-chat 是一个基于 Spring Boot 构建的高性能实时聊天系统，支持私聊、群聊、消息持久化、离线消息推送等功能。系统采用 Netty 实现 WebSocket 通信，通过 Redis Stream 保证消息可靠传输，并集成完善的用户认证和权限管理体系。
+- **[yenbook/proxyearth](https://github.com/yenbook/proxyearth)** ⭐ 26
+  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
+  proxyearth data leak website theme source code
 
-- **[iKnowLab-Projects/IITP_AGI_STT](https://github.com/iKnowLab-Projects/IITP_AGI_STT)** ⭐ 10
+- **[Vanyoo/realtime-subtitle](https://github.com/Vanyoo/realtime-subtitle)** ⭐ 18
   ![Python](https://img.shields.io/badge/-Python-blue)
-  None
+  Real time translated subtitle powered by whisper for macOS
 
-- **[theori-io/reactguard](https://github.com/theori-io/reactguard)** ⭐ 9
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  ReactGuard provides framework- and vulnerability-detection tooling for CVE-2025-55182 (React2Shell)
+- **[himmatmundhe07/Taaza-Khabar](https://github.com/himmatmundhe07/Taaza-Khabar)** ⭐ 15
+  ![HTML](https://img.shields.io/badge/-HTML-lightgrey)
+  "Taaza Khabar" is a dynamic web project simulating a real-world news platform. It fetches live data from The Guardian API on every load. Key learnings: Sending HTTP requests, handling API keys, and parsing JSON.
 
 ### 📈 Weekly Trending
 
-- **[zai-org/Open-AutoGLM](https://github.com/zai-org/Open-AutoGLM)** ⭐ 4,502
+- **[zai-org/Open-AutoGLM](https://github.com/zai-org/Open-AutoGLM)** ⭐ 5,140
   ![Python](https://img.shields.io/badge/-Python-blue)
-  None
+  An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
 
-- **[assetnote/react2shell-scanner](https://github.com/assetnote/react2shell-scanner)** ⭐ 1,988
+- **[assetnote/react2shell-scanner](https://github.com/assetnote/react2shell-scanner)** ⭐ 2,009
   ![Python](https://img.shields.io/badge/-Python-blue)
   High Fidelity Detection Mechanism for RSC/Next.js RCE (CVE-2025-55182 & CVE-2025-66478)
 
-- **[msanft/CVE-2025-55182](https://github.com/msanft/CVE-2025-55182)** ⭐ 1,065
+- **[msanft/CVE-2025-55182](https://github.com/msanft/CVE-2025-55182)** ⭐ 1,084
   ![Python](https://img.shields.io/badge/-Python-blue)
   Explanation and full RCE PoC for CVE-2025-55182
 
-- **[HKUDS/Paper2Slides](https://github.com/HKUDS/Paper2Slides)** ⭐ 927
+- **[HKUDS/Paper2Slides](https://github.com/HKUDS/Paper2Slides)** ⭐ 1,059
   ![Python](https://img.shields.io/badge/-Python-blue)
   "Paper2Slides: From Paper to Presentation in One Click"
 
-- **[Alibaba-Quark/LiveAvatar](https://github.com/Alibaba-Quark/LiveAvatar)** ⭐ 780
+- **[Alibaba-Quark/LiveAvatar](https://github.com/Alibaba-Quark/LiveAvatar)** ⭐ 794
   ![Python](https://img.shields.io/badge/-Python-blue)
   Implementation of "Live Avatar: Streaming Real-time Audio-Driven Avatar Generation with Infinite Length"
 
-- **[PastKing/tgbot-verify](https://github.com/PastKing/tgbot-verify)** ⭐ 756
+- **[PastKing/tgbot-verify](https://github.com/PastKing/tgbot-verify)** ⭐ 785
   ![Python](https://img.shields.io/badge/-Python-blue)
   一个基于 Python Telegram Bot 的自动化认证工具，能够自动完成 SheerID 平台的学生/教师身份验证流程。
 
-- **[lachlan2k/React2Shell-CVE-2025-55182-original-poc](https://github.com/lachlan2k/React2Shell-CVE-2025-55182-original-poc)** ⭐ 746
+- **[lachlan2k/React2Shell-CVE-2025-55182-original-poc](https://github.com/lachlan2k/React2Shell-CVE-2025-55182-original-poc)** ⭐ 762
   ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
   Original Proof-of-Concepts for React2Shell CVE-2025-55182
 
-- **[guhcostan/mac-cleaner-cli](https://github.com/guhcostan/mac-cleaner-cli)** ⭐ 721
+- **[guhcostan/mac-cleaner-cli](https://github.com/guhcostan/mac-cleaner-cli)** ⭐ 745
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   None
 
 ### 📈 Monthly Trending
 
-- **[karpathy/llm-council](https://github.com/karpathy/llm-council)** ⭐ 10,646
+- **[karpathy/llm-council](https://github.com/karpathy/llm-council)** ⭐ 10,705
   ![Python](https://img.shields.io/badge/-Python-blue)
   LLM Council works together to answer your hardest questions
 
-- **[Tongyi-MAI/Z-Image](https://github.com/Tongyi-MAI/Z-Image)** ⭐ 6,257
+- **[Tongyi-MAI/Z-Image](https://github.com/Tongyi-MAI/Z-Image)** ⭐ 6,309
   ![Python](https://img.shields.io/badge/-Python-blue)
   None
 
-- **[zai-org/Open-AutoGLM](https://github.com/zai-org/Open-AutoGLM)** ⭐ 4,502
+- **[zai-org/Open-AutoGLM](https://github.com/zai-org/Open-AutoGLM)** ⭐ 5,140
   ![Python](https://img.shields.io/badge/-Python-blue)
-  None
+  An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
 
-- **[YouMind-OpenLab/awesome-nano-banana-pro-prompts](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts)** ⭐ 3,516
+- **[YouMind-OpenLab/awesome-nano-banana-pro-prompts](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts)** ⭐ 3,555
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   🍌 500+ selected Nano Banana Pro prompts with images, multilingual support, and instant gallery preview. Open-source prompt engineering library
 
-- **[ByteDance-Seed/Depth-Anything-3](https://github.com/ByteDance-Seed/Depth-Anything-3)** ⭐ 3,395
+- **[ByteDance-Seed/Depth-Anything-3](https://github.com/ByteDance-Seed/Depth-Anything-3)** ⭐ 3,402
   ![Python](https://img.shields.io/badge/-Python-blue)
   Depth Anything 3
 
-- **[HisMax/RedInk](https://github.com/HisMax/RedInk)** ⭐ 3,326
+- **[HisMax/RedInk](https://github.com/HisMax/RedInk)** ⭐ 3,344
   ![Python](https://img.shields.io/badge/-Python-blue)
   红墨 - 基于🍌Nano Banana Pro🍌 的一站式小红书图文生成器 《一句话一张图片生成小红书图文》 Red Ink - A one-stop Xiaohongshu image-and-text generator based on the 🍌Nano Banana Pro🍌, "One Sentence, One Image: Generate Xiaohongshu Text and Images."
 
-- **[Facepunch/sbox-public](https://github.com/Facepunch/sbox-public)** ⭐ 3,318
+- **[Facepunch/sbox-public](https://github.com/Facepunch/sbox-public)** ⭐ 3,322
   ![C#](https://img.shields.io/badge/-C#-lightgrey)
   s&box is a modern game engine, built on Valve's Source 2 and the latest .NET technology, it provides a modern intuitive editor for creating games
 
@@ -491,57 +474,57 @@ for a semver-minor rele...
 
 | Skill | Status |
 |-------|--------|
-| Java | ⚪ Planned |
-| Python | ⚪ Planned |
-| JavaScript | 🟡 Learning |
-| TypeScript | 🟡 Learning |
-| Go | 🔴 Beginner |
+| Java | 🔴 Beginner |
+| Python | 🔴 Beginner |
+| JavaScript | ⚪ Planned |
+| TypeScript | 🟢 Proficient |
+| Go | ⚪ Planned |
 
 ### Frameworks
 
 | Skill | Status |
 |-------|--------|
-| React | ⚪ Planned |
+| React | 🟡 Learning |
 | Spring Boot | 🔴 Beginner |
-| Django | 🟡 Learning |
+| Django | 🔴 Beginner |
 | Node.js | 🟢 Proficient |
-| Next.js | ⚪ Planned |
+| Next.js | 🟢 Proficient |
 
 ### Cybersecurity
 
 | Skill | Status |
 |-------|--------|
-| Penetration Testing | ⚪ Planned |
+| Penetration Testing | 🟢 Proficient |
 | Web Security | 🟡 Learning |
-| Network Security | 🟡 Learning |
-| OWASP | ⚪ Planned |
+| Network Security | 🔴 Beginner |
+| OWASP | 🔴 Beginner |
 
 ### Ai Ml
 
 | Skill | Status |
 |-------|--------|
-| Machine Learning | 🟢 Proficient |
-| Deep Learning | 🔴 Beginner |
-| NLP | 🟡 Learning |
+| Machine Learning | ⚪ Planned |
+| Deep Learning | 🟢 Proficient |
+| NLP | 🟢 Proficient |
 | Computer Vision | 🟢 Proficient |
 | TensorFlow | 🟢 Proficient |
-| PyTorch | 🟡 Learning |
+| PyTorch | ⚪ Planned |
 
 ### Devops
 
 | Skill | Status |
 |-------|--------|
-| Docker | 🟡 Learning |
-| Kubernetes | ⚪ Planned |
-| CI/CD | 🔴 Beginner |
-| AWS | 🔴 Beginner |
-| Azure | 🟡 Learning |
+| Docker | 🟢 Proficient |
+| Kubernetes | 🟢 Proficient |
+| CI/CD | 🟡 Learning |
+| AWS | 🟡 Learning |
+| Azure | 🟢 Proficient |
 
 ### Other
 
 | Skill | Status |
 |-------|--------|
-| Blockchain | 🟢 Proficient |
+| Blockchain | 🟡 Learning |
 | Web3 | ⚪ Planned |
 | Cloud Computing | 🔴 Beginner |
 
