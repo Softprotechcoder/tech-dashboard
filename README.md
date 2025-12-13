@@ -46,35 +46,33 @@
 
 ### 📑 Hacker News
 
-- **[OpenAI are quietly adopting skills, now available in ChatGPT and Codex CLI](https://simonwillison.net/2025/Dec/12/openai-skills/)**
-  *<p>Article URL: <a href="https://simonwillison.net/2025/Dec/12/openai-skills/">https://simonwillison.net/2025/Dec/12/openai-skills/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?...*
-  📅 Fri, 12 Dec 2025 23:30:19 +0000
+- **[Doxers Posing as Cops Are Tricking Big Tech Firms into Sharing People's Data](https://www.wired.com/story/doxers-posing-as-cops-are-tricking-big-tech-firms-into-sharing-peoples-private-data/)**
+  *<p>Article URL: <a href="https://www.wired.com/story/doxers-posing-as-cops-are-tricking-big-tech-firms-into-sharing-peoples-private-data/">https://www.wired.com/story/doxers-posing-as-cops-are-trickin...*
+  📅 Sat, 13 Dec 2025 05:06:59 +0000
 
-- **[50 years of proof assistants](https://lawrencecpaulson.github.io//2025/12/05/History_of_Proof_Assistants.html)**
-  *<p>Article URL: <a href="https://lawrencecpaulson.github.io//2025/12/05/History_of_Proof_Assistants.html">https://lawrencecpaulson.github.io//2025/12/05/History_of_Proof_Assistants.html</a></p>
-<p>Com...*
-  📅 Fri, 12 Dec 2025 23:26:26 +0000
+- **[Apple has locked my Apple ID, and I have no recourse. A plea for help](https://hey.paris/posts/appleid/)**
+  *<p>Article URL: <a href="https://hey.paris/posts/appleid/">https://hey.paris/posts/appleid/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46252114">https://news.ycombinator.co...*
+  📅 Sat, 13 Dec 2025 04:55:59 +0000
 
-- **[Can I use HTTPS RRs?](https://www.netmeister.org/blog/https-caniuse.html)**
-  *<p>Article URL: <a href="https://www.netmeister.org/blog/https-caniuse.html">https://www.netmeister.org/blog/https-caniuse.html</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=4...*
-  📅 Fri, 12 Dec 2025 22:34:13 +0000
+- **[Poor Johnny still won't encrypt](https://bfswa.substack.com/p/poor-johnny-still-wont-encrypt)**
+  *<p>Article URL: <a href="https://bfswa.substack.com/p/poor-johnny-still-wont-encrypt">https://bfswa.substack.com/p/poor-johnny-still-wont-encrypt</a></p>
+<p>Comments URL: <a href="https://news.ycombin...*
+  📅 Sat, 13 Dec 2025 04:21:24 +0000
 
-- **[Show HN: Tiny VM sandbox in C with apps in Rust, C and Zig](https://github.com/ringtailsoftware/uvm32)**
-  *<p>Article URL: <a href="https://github.com/ringtailsoftware/uvm32">https://github.com/ringtailsoftware/uvm32</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46249538">https://n...*
-  📅 Fri, 12 Dec 2025 22:02:14 +0000
+- **[Google Removes Sci-Hub Domains from U.S. Search Results Due to Dated Court Order](https://torrentfreak.com/google-removes-sci-hub-domains-from-u-s-search-results-due-to-dated-court-order/)**
+  *<p>Article URL: <a href="https://torrentfreak.com/google-removes-sci-hub-domains-from-u-s-search-results-due-to-dated-court-order/">https://torrentfreak.com/google-removes-sci-hub-domains-from-u-s-sea...*
+  📅 Sat, 13 Dec 2025 03:21:32 +0000
 
-- **[Capsudo: Rethinking Sudo with Object Capabilities](https://ariadne.space/2025/12/12/rethinking-sudo-with-object-capabilities.html)**
-  *<p>Article URL: <a href="https://ariadne.space/2025/12/12/rethinking-sudo-with-object-capabilities.html">https://ariadne.space/2025/12/12/rethinking-sudo-with-object-capabilities.html</a></p>
-<p>Comme...*
-  📅 Fri, 12 Dec 2025 21:42:04 +0000
+- **[The Coming Need for Formal Specification](https://benjamincongdon.me/blog/2025/12/12/The-Coming-Need-for-Formal-Specification/)**
+  *<p>Article URL: <a href="https://benjamincongdon.me/blog/2025/12/12/The-Coming-Need-for-Formal-Specification/">https://benjamincongdon.me/blog/2025/12/12/The-Coming-Need-for-Formal-Specification/</a><...*
+  📅 Sat, 13 Dec 2025 03:17:18 +0000
 
-- **[Motion (YC W20) Is Hiring Senior Staff Front End Engineers](https://jobs.ashbyhq.com/motion/715d9646-27d4-44f6-9229-61eb0380ae39)**
-  *<p>Article URL: <a href="https://jobs.ashbyhq.com/motion/715d9646-27d4-44f6-9229-61eb0380ae39">https://jobs.ashbyhq.com/motion/715d9646-27d4-44f6-9229-61eb0380ae39</a></p>
-<p>Comments URL: <a href="ht...*
-  📅 Fri, 12 Dec 2025 21:00:54 +0000
+- **[Oliver sacks put himself into his case studies. What was the cost?](https://www.newyorker.com/magazine/2025/12/15/oliver-sacks-put-himself-into-his-case-studies-what-was-the-cost)**
+  *<p><a href="https://archive.ph/0MFPK" rel="nofollow">https://archive.ph/0MFPK</a></p>
+<hr />
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46251654">https://news.ycombinator.com/item?...*
+  📅 Sat, 13 Dec 2025 03:12:47 +0000
 
 ### 📑 TechCrunch
 
@@ -104,27 +102,16 @@
 
 ### 📑 Dev.to
 
-- **[Why Your UEBA Isn’t Working (and how to fix it)](https://dev.to/alvinslee/why-your-ueba-isnt-working-and-how-to-fix-it-5b59)**
-  *<p><strong>UEBA (User Entity Behavior Analysis)</strong> is a security layer that uses machine learning and analytics to detect threats by analyzing patterns in user and entity behavior.</p>
+- **[What Actually Determines a File's Type](https://dev.to/amoabakelvin/what-actually-determines-a-files-type-48d0)**
+  *<p>Every file format has a specification, “an agreed-upon structure that defines how the bytes in that file are organized”. Just like we have standards for internet protocols, we have standards for fi...*
+  📅 Sat, 13 Dec 2025 06:13:45 +0000
 
-<p>Here’...*
-  📅 Sat, 13 Dec 2025 00:51:23 +0000
-
-- **[How to Connect VAPI to Google Calendar for Appointment Scheduling](https://dev.to/callstacktech/how-to-connect-vapi-to-google-calendar-for-appointment-scheduling-kpj)**
-  *<h1>
-  
-  
-  How to Connect VAPI to Google Calendar for Appointment Scheduling
-</h1>
-
-<h2>
-  
-  
-  TL;DR
-</h2>
-
-<p>Most calendar integrations break when OAuth tokens expire mid-call or timezone mismat...*
-  📅 Sat, 13 Dec 2025 00:46:45 +0000
+- **[Java Keywords](https://dev.to/lakshmi_g_74c225d5ca0b272/java-keywords-2n22)**
+  *<ol>
+<li>abstract   ,  assert   ,    boolean  ,    break    ,    byte</li>
+<li>case     ,    catch    ,    char    ,     class    ,    const*</li>
+<li>continue  ,   default   ,   do     ,      double ...*
+  📅 Sat, 13 Dec 2025 06:10:32 +0000
 
 </details>
 
@@ -132,103 +119,103 @@
 
 ### 📈 Daily Trending
 
-- **[Jakiro-crypto/WorkCodile-UNAM-Community-Platform-Ext-JS-Modern-Node.js-Express-](https://github.com/Jakiro-crypto/WorkCodile-UNAM-Community-Platform-Ext-JS-Modern-Node.js-Express-)** ⭐ 2
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
-  WorkCodile: Comunidad UNAM con Ext JS y Node.js para colaboración académica.
+- **[zacs/awesome-poe-smarthome](https://github.com/zacs/awesome-poe-smarthome)** ⭐ 10
+  ![None](https://img.shields.io/badge/-None-lightgrey)
+  A list of smarthome devices designed to be PoE-first
 
-- **[alekandrza14/Unau_IW.-19I_IPoliticSetings.LibertaianI.github.io](https://github.com/alekandrza14/Unau_IW.-19I_IPoliticSetings.LibertaianI.github.io)** ⭐ 1
-  ![HTML](https://img.shields.io/badge/-HTML-lightgrey)
+- **[mizchi/luna.mbt](https://github.com/mizchi/luna.mbt)** ⭐ 7
+  ![MoonBit](https://img.shields.io/badge/-MoonBit-lightgrey)
+  Experimental: Declarative UI Framework for Moonbit
+
+- **[jwadow/kiro-openai-gateway](https://github.com/jwadow/kiro-openai-gateway)** ⭐ 6
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  OpenAI-compatible API gateway for Kiro IDE (AWS CodeWhisperer). Use free Claude models with any OpenAI client.
+
+- **[Privnode-HQ/privnode_subscription_manage](https://github.com/Privnode-HQ/privnode_subscription_manage)** ⭐ 6
+  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   None
 
-- **[kavindya12/PresenSync-Attendance-System](https://github.com/kavindya12/PresenSync-Attendance-System)** ⭐ 1
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
+- **[Groussermann/Flasher](https://github.com/Groussermann/Flasher)** ⭐ 5
+  ![None](https://img.shields.io/badge/-None-lightgrey)
   None
 
-- **[4GeeksAcademy/Sem-foro-JaimeVega](https://github.com/4GeeksAcademy/Sem-foro-JaimeVega)** ⭐ 1
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
-  None
-
-- **[Rems77/PowerScore](https://github.com/Rems77/PowerScore)** ⭐ 1
-  ![Swift](https://img.shields.io/badge/-Swift-lightgrey)
-  None
-
-- **[Meliodas-jnr404/dress](https://github.com/Meliodas-jnr404/dress)** ⭐ 1
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
-  None
-
-- **[progmatios23/MOnn-stret](https://github.com/progmatios23/MOnn-stret)** ⭐ 1
-  ![Lua](https://img.shields.io/badge/-Lua-lightgrey)
-  MOnn stret
-
-- **[Maxteabag/sqlit](https://github.com/Maxteabag/sqlit)** ⭐ 1
+- **[Maxteabag/sqlit](https://github.com/Maxteabag/sqlit)** ⭐ 4
   ![Python](https://img.shields.io/badge/-Python-blue)
   A simple terminal UI for SQL Server
 
+- **[data-spice/hands-on-random-tests](https://github.com/data-spice/hands-on-random-tests)** ⭐ 4
+  ![None](https://img.shields.io/badge/-None-lightgrey)
+  Just random  items
+
+- **[data-spice/prolog-tutorials](https://github.com/data-spice/prolog-tutorials)** ⭐ 4
+  ![None](https://img.shields.io/badge/-None-lightgrey)
+  Just learning prolog
+
 ### 📈 Weekly Trending
 
-- **[zai-org/Open-AutoGLM](https://github.com/zai-org/Open-AutoGLM)** ⭐ 12,322
+- **[zai-org/Open-AutoGLM](https://github.com/zai-org/Open-AutoGLM)** ⭐ 12,794
   ![Python](https://img.shields.io/badge/-Python-blue)
   An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
 
-- **[mistralai/mistral-vibe](https://github.com/mistralai/mistral-vibe)** ⭐ 1,833
+- **[mistralai/mistral-vibe](https://github.com/mistralai/mistral-vibe)** ⭐ 1,850
   ![Python](https://img.shields.io/badge/-Python-blue)
   Minimal CLI coding agent by Mistral
 
-- **[HKUDS/Paper2Slides](https://github.com/HKUDS/Paper2Slides)** ⭐ 1,720
+- **[HKUDS/Paper2Slides](https://github.com/HKUDS/Paper2Slides)** ⭐ 1,746
   ![Python](https://img.shields.io/badge/-Python-blue)
   "Paper2Slides: From Paper to Presentation in One Click"
 
-- **[PastKing/tgbot-verify](https://github.com/PastKing/tgbot-verify)** ⭐ 959
+- **[PastKing/tgbot-verify](https://github.com/PastKing/tgbot-verify)** ⭐ 985
   ![Python](https://img.shields.io/badge/-Python-blue)
   一个基于 Python Telegram Bot 的自动化认证工具，能够自动完成 SheerID 平台的学生/教师身份验证流程。
 
-- **[cporter202/API-mega-list](https://github.com/cporter202/API-mega-list)** ⭐ 907
+- **[cporter202/API-mega-list](https://github.com/cporter202/API-mega-list)** ⭐ 913
   ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
   This GitHub repo is a powerhouse collection of APIs you can start using immediately to build everything from simple automations to full-scale applications. One of the most valuable API lists on GitHub—period. 💪
 
-- **[gommzystudio/device-activity-tracker](https://github.com/gommzystudio/device-activity-tracker)** ⭐ 594
+- **[gommzystudio/device-activity-tracker](https://github.com/gommzystudio/device-activity-tracker)** ⭐ 651
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   A phone number can reveal whether a device is active, in standby or offline (and more). This PoC demonstrates how delivery receipts + RTT timing leak sensitive device-activity patterns. (WhatsApp / Signal)
 
-- **[tobi/qmd](https://github.com/tobi/qmd)** ⭐ 553
+- **[tobi/qmd](https://github.com/tobi/qmd)** ⭐ 556
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   mini cli search engine for your docs, knowledge bases, meeting notes, whatever. Tracking current sota approaches while being all local
 
-- **[typsusan-zzz/canvas-drawing-editor](https://github.com/typsusan-zzz/canvas-drawing-editor)** ⭐ 436
+- **[typsusan-zzz/canvas-drawing-editor](https://github.com/typsusan-zzz/canvas-drawing-editor)** ⭐ 486
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   强大的 Canvas 画布编辑器 Web Component，零依赖，支持 Vue 2/3、React、Angular 和原生 HTML | A powerful canvas-based drawing editor Web Component - Zero dependencies, works with Vue 2/3, React, Angular, and vanilla HTML
 
 ### 📈 Monthly Trending
 
-- **[zai-org/Open-AutoGLM](https://github.com/zai-org/Open-AutoGLM)** ⭐ 12,322
+- **[zai-org/Open-AutoGLM](https://github.com/zai-org/Open-AutoGLM)** ⭐ 12,794
   ![Python](https://img.shields.io/badge/-Python-blue)
   An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
 
-- **[karpathy/llm-council](https://github.com/karpathy/llm-council)** ⭐ 11,035
+- **[karpathy/llm-council](https://github.com/karpathy/llm-council)** ⭐ 11,048
   ![Python](https://img.shields.io/badge/-Python-blue)
   LLM Council works together to answer your hardest questions
 
-- **[Tongyi-MAI/Z-Image](https://github.com/Tongyi-MAI/Z-Image)** ⭐ 6,662
+- **[Tongyi-MAI/Z-Image](https://github.com/Tongyi-MAI/Z-Image)** ⭐ 6,693
   ![Python](https://img.shields.io/badge/-Python-blue)
   None
 
-- **[YouMind-OpenLab/awesome-nano-banana-pro-prompts](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts)** ⭐ 3,746
+- **[YouMind-OpenLab/awesome-nano-banana-pro-prompts](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts)** ⭐ 3,759
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   🍌 1000+ selected Nano Banana Pro prompts with images, multilingual support, and instant gallery preview. Open-source prompt engineering library
 
-- **[HisMax/RedInk](https://github.com/HisMax/RedInk)** ⭐ 3,540
+- **[HisMax/RedInk](https://github.com/HisMax/RedInk)** ⭐ 3,559
   ![Python](https://img.shields.io/badge/-Python-blue)
   红墨 - 基于🍌Nano Banana Pro🍌 的一站式小红书图文生成器 《一句话一张图片生成小红书图文》 Red Ink - A one-stop Xiaohongshu image-and-text generator based on the 🍌Nano Banana Pro🍌, "One Sentence, One Image: Generate Xiaohongshu Text and Images."
 
-- **[Facepunch/sbox-public](https://github.com/Facepunch/sbox-public)** ⭐ 3,345
+- **[Facepunch/sbox-public](https://github.com/Facepunch/sbox-public)** ⭐ 3,347
   ![C#](https://img.shields.io/badge/-C#-lightgrey)
   s&box is a modern game engine, built on Valve's Source 2 and the latest .NET technology, it provides a modern intuitive editor for creating games
 
-- **[pshenok/server-survival](https://github.com/pshenok/server-survival)** ⭐ 3,188
+- **[pshenok/server-survival](https://github.com/pshenok/server-survival)** ⭐ 3,198
   ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
   Tower defense game that teaches cloud architecture. Build infrastructure, survive traffic, learn scaling.
 
-- **[straight-tamago/misaka26](https://github.com/straight-tamago/misaka26)** ⭐ 3,041
+- **[straight-tamago/misaka26](https://github.com/straight-tamago/misaka26)** ⭐ 3,044
   ![None](https://img.shields.io/badge/-None-lightgrey)
   iOS /iPadOS 16.0 - 26.1, An ultimate customization tool, uilitizing the bug that makes TrollRestore possible. 
 
@@ -493,10 +480,10 @@ for a semver-minor rele...
 
 | Skill | Status |
 |-------|--------|
-| Java | 🔴 Beginner |
-| Python | 🟢 Proficient |
-| JavaScript | ⚪ Planned |
-| TypeScript | 🔴 Beginner |
+| Java | ⚪ Planned |
+| Python | 🟡 Learning |
+| JavaScript | 🔴 Beginner |
+| TypeScript | 🟢 Proficient |
 | Go | 🟢 Proficient |
 
 ### Frameworks
@@ -505,47 +492,47 @@ for a semver-minor rele...
 |-------|--------|
 | React | ⚪ Planned |
 | Spring Boot | ⚪ Planned |
-| Django | ⚪ Planned |
-| Node.js | 🟢 Proficient |
-| Next.js | 🟢 Proficient |
+| Django | 🔴 Beginner |
+| Node.js | 🔴 Beginner |
+| Next.js | 🔴 Beginner |
 
 ### Cybersecurity
 
 | Skill | Status |
 |-------|--------|
 | Penetration Testing | 🟡 Learning |
-| Web Security | 🟡 Learning |
+| Web Security | ⚪ Planned |
 | Network Security | 🟡 Learning |
-| OWASP | ⚪ Planned |
+| OWASP | 🟡 Learning |
 
 ### Ai Ml
 
 | Skill | Status |
 |-------|--------|
-| Machine Learning | 🔴 Beginner |
+| Machine Learning | ⚪ Planned |
 | Deep Learning | ⚪ Planned |
-| NLP | 🟢 Proficient |
+| NLP | ⚪ Planned |
 | Computer Vision | 🟢 Proficient |
-| TensorFlow | ⚪ Planned |
+| TensorFlow | 🔴 Beginner |
 | PyTorch | 🔴 Beginner |
 
 ### Devops
 
 | Skill | Status |
 |-------|--------|
-| Docker | 🟡 Learning |
-| Kubernetes | 🟡 Learning |
-| CI/CD | 🔴 Beginner |
-| AWS | 🟢 Proficient |
-| Azure | 🟡 Learning |
+| Docker | 🟢 Proficient |
+| Kubernetes | ⚪ Planned |
+| CI/CD | 🟢 Proficient |
+| AWS | ⚪ Planned |
+| Azure | 🔴 Beginner |
 
 ### Other
 
 | Skill | Status |
 |-------|--------|
 | Blockchain | ⚪ Planned |
-| Web3 | 🔴 Beginner |
-| Cloud Computing | ⚪ Planned |
+| Web3 | 🟢 Proficient |
+| Cloud Computing | 🔴 Beginner |
 
 </details>
 
