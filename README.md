@@ -46,16 +46,20 @@
 
 ### 📑 Hacker News
 
+- **[Bye, Mom](https://aella.substack.com/p/bye-mom)**
+  *<p>Article URL: <a href="https://aella.substack.com/p/bye-mom">https://aella.substack.com/p/bye-mom</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46261616">https://news.ycombi...*
+  📅 Sun, 14 Dec 2025 08:21:59 +0000
+
+- **[Compiler Engineering in Practice](https://chisophugis.github.io/2025/12/08/compiler-engineering-in-practice-part-1-what-is-a-compiler.html)**
+  *<p>Article URL: <a href="https://chisophugis.github.io/2025/12/08/compiler-engineering-in-practice-part-1-what-is-a-compiler.html">https://chisophugis.github.io/2025/12/08/compiler-engineering-in-prac...*
+  📅 Sun, 14 Dec 2025 07:45:15 +0000
+
 - **[Heavy metal is healing teens on the Blackfeet Nation](https://www.hcn.org/issues/57-11/heavy-metal-is-healing-teens-on-the-blackfeet-nation/)**
   *<p>Article URL: <a href="https://www.hcn.org/issues/57-11/heavy-metal-is-healing-teens-on-the-blackfeet-nation/">https://www.hcn.org/issues/57-11/heavy-metal-is-healing-teens-on-the-blackfeet-nation/<...*
   📅 Sun, 14 Dec 2025 03:46:51 +0000
 
-- **[Rocket Lab – 'Raise and Shine' Launch for JAXA [video]](https://www.youtube.com/watch?v=cMP328yoUu4)**
-  *<p>Article URL: <a href="https://www.youtube.com/watch?v=cMP328yoUu4">https://www.youtube.com/watch?v=cMP328yoUu4</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46260474">https...*
-  📅 Sun, 14 Dec 2025 03:13:38 +0000
-
-- **[Lean Theorem Prover Mathlib](https://github.com/leanprover-community/mathlib4)**
+- **[Lean theorem prover mathlib](https://github.com/leanprover-community/mathlib4)**
   *<p>Article URL: <a href="https://github.com/leanprover-community/mathlib4">https://github.com/leanprover-community/mathlib4</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=46260...*
   📅 Sun, 14 Dec 2025 01:49:11 +0000
@@ -64,14 +68,10 @@
   *<p>Article URL: <a href="https://1393.xyz/writing/if-a-meta-ai-model-can-read-a-brain-wide-signal-why-wouldnt-the-brain">https://1393.xyz/writing/if-a-meta-ai-model-can-read-a-brain-wide-signal-why-wo...*
   📅 Sun, 14 Dec 2025 01:43:33 +0000
 
-- **[Therapeutic Use of Cannabis and Cannabinoids: A Review](https://jamanetwork.com/journals/jama/fullarticle/2842072?guestAccessKey=a368e622-e374-4a0c-8d3b-22a976500305)**
-  *<p>Article URL: <a href="https://jamanetwork.com/journals/jama/fullarticle/2842072?guestAccessKey=a368e622-e374-4a0c-8d3b-22a976500305">https://jamanetwork.com/journals/jama/fullarticle/2842072?guestA...*
-  📅 Sun, 14 Dec 2025 01:32:36 +0000
-
-- **[Free Software Awards Winners Announced: Andy Wingo, Alx Sa, Govdirectory](https://www.fsf.org/news/2024-free-software-awards-winners)**
-  *<p>Article URL: <a href="https://www.fsf.org/news/2024-free-software-awards-winners">https://www.fsf.org/news/2024-free-software-awards-winners</a></p>
-<p>Comments URL: <a href="https://news.ycombinat...*
-  📅 Sun, 14 Dec 2025 01:19:50 +0000
+- **[An Implementation of J (1992)](https://www.jsoftware.com/ioj/ioj.htm)**
+  *<p>Article URL: <a href="https://www.jsoftware.com/ioj/ioj.htm">https://www.jsoftware.com/ioj/ioj.htm</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46259702">https://news.ycom...*
+  📅 Sun, 14 Dec 2025 00:34:56 +0000
 
 ### 📑 TechCrunch
 
@@ -101,13 +101,15 @@
 
 ### 📑 Dev.to
 
-- **[My Solution to Deno Watch Mode Signal Handling](https://dev.to/whyang9701/my-solution-of-deno-watch-mode-signal-handling-4ejp)**
-  *<p>To fix the Deno watch mode <a href="https://github.com/denoland/deno/issues/30912" rel="noopener noreferrer">issue</a>, I <a href="https://dev.to/whyang9701/progress-update-of-deno-watch-mode-issue...*
-  📅 Sun, 14 Dec 2025 06:13:01 +0000
+- **[From Bolt.new to Production: How I built a React Native app using Copilot and MCP.](https://dev.to/petrashka/from-boltnew-to-production-how-i-built-a-react-native-app-using-copilot-and-mcp-ebg)**
+  *<p>When my son was born, my life changed completely. Like any new parent, we needed a way to track sleep, feeding, and diapers. There are a million apps for this, but I wanted something <em>ours</em>....*
+  📅 Sun, 14 Dec 2025 12:11:07 +0000
 
-- **[Scaling Kubernetes Load with KEDA](https://dev.to/victorpinzon1988eng/scaling-kubernetes-load-with-keda-j7f)**
-  *<p>In multiple projects, I have found myself asking the same question: Why is the HPA not scaling my pods when it is clearly needed? The answer is actually very simple—HPA only scales based on CPU or ...*
-  📅 Sun, 14 Dec 2025 06:12:16 +0000
+- **[Expose Local n8n with a Custom HTTPS Domain Using Cloudflare Tunnel](https://dev.to/muhammad_mohsin_68eb06405/expose-local-n8n-with-a-custom-https-domain-using-cloudflare-tunnel-2kc6)**
+  *<p>Running <strong>n8n locally</strong> is great — until you need <strong>webhooks</strong>.</p>
+
+<p>Services like Stripe, GitHub, or PayPal require a <strong>public HTTPS URL</strong>, and tools like...*
+  📅 Sun, 14 Dec 2025 12:01:44 +0000
 
 </details>
 
@@ -115,103 +117,103 @@
 
 ### 📈 Daily Trending
 
-- **[craig7351/police](https://github.com/craig7351/police)** ⭐ 6
+- **[chaos-zhu/easyimg](https://github.com/chaos-zhu/easyimg)** ⭐ 17
+  ![Vue](https://img.shields.io/badge/-Vue-lightgrey)
+  适用于个人的一站式图床服务
+
+- **[oyz8/ClawCloud-Run](https://github.com/oyz8/ClawCloud-Run)** ⭐ 10
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  GitHub Actions 自动化登录 ClawCloud Run
+
+- **[harshit428288/Air-Quality-Prediction](https://github.com/harshit428288/Air-Quality-Prediction)** ⭐ 8
+  ![Jupyter Notebook](https://img.shields.io/badge/-Jupyter Notebook-lightgrey)
+  None
+
+- **[lalitmach22/Question-Bank](https://github.com/lalitmach22/Question-Bank)** ⭐ 8
+  ![None](https://img.shields.io/badge/-None-lightgrey)
+  This repo contains question banks with most important/frequently asked questions in Data Science/Machine Learning, Programming/App Dev, SQL, DSA and Linux
+
+- **[craig7351/police](https://github.com/craig7351/police)** ⭐ 8
   ![Python](https://img.shields.io/badge/-Python-blue)
   None
 
-- **[Lexideck-Technologies/ROUND_Harmonic](https://github.com/Lexideck-Technologies/ROUND_Harmonic)** ⭐ 5
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  U-Neuron'
+- **[HarshalChauhan811/60-days-backend-mastery](https://github.com/HarshalChauhan811/60-days-backend-mastery)** ⭐ 7
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
+  🚀 Backend mastery with Node.js — from fundamentals to advanced concepts, including authentication, databases, security, real-world projects, and system-level understanding.
 
-- **[Rainflowers686/MyBlog](https://github.com/Rainflowers686/MyBlog)** ⭐ 4
-  ![HTML](https://img.shields.io/badge/-HTML-lightgrey)
-  2025年中国海洋大学爱特工作室程序部上学期期末作业
-
-- **[vardan444/CryptoLynx](https://github.com/vardan444/CryptoLynx)** ⭐ 3
+- **[myschoolbaze/Best-fake-usdt-sender-software-flash-Usdt-app](https://github.com/myschoolbaze/Best-fake-usdt-sender-software-flash-Usdt-app)** ⭐ 6
   ![None](https://img.shields.io/badge/-None-lightgrey)
-  CryptoLynx
+  Get Live Test To Your WalleT Before Making Any Payment!.  Christmas Made Easy With Our Flash USDT, BTC Transaction Software, The Fake Crypto Possess All The Features Of A Real Transaction, Very Hard To Spot The Difference. . https://wa.me/447428337798?text=Hey,+tell+me+about+the+fake+USDT+sender+and+the+live+test.+I%27m+from+refer+code+10001
 
-- **[lynxbat/inbox-zero-claude](https://github.com/lynxbat/inbox-zero-claude)** ⭐ 3
+- **[HerringtonDarkholme/Koka](https://github.com/HerringtonDarkholme/Koka)** ⭐ 5
   ![Python](https://img.shields.io/badge/-Python-blue)
-  Achieve inbox zero with Claude Code. An intelligent email triage workflow that learns your organization patterns.
-
-- **[vardan444/Novachain](https://github.com/vardan444/Novachain)** ⭐ 3
-  ![None](https://img.shields.io/badge/-None-lightgrey)
-  Novachain
-
-- **[vardan444/CyberHawk](https://github.com/vardan444/CyberHawk)** ⭐ 3
-  ![None](https://img.shields.io/badge/-None-lightgrey)
-  CyberHawk
-
-- **[AdilShamim8/ML_DS-course](https://github.com/AdilShamim8/ML_DS-course)** ⭐ 3
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  Documenting my 4-month challenge to land a job in ML/Data Science. 
+  Effect.py
 
 ### 📈 Weekly Trending
 
-- **[zai-org/Open-AutoGLM](https://github.com/zai-org/Open-AutoGLM)** ⭐ 13,875
+- **[zai-org/Open-AutoGLM](https://github.com/zai-org/Open-AutoGLM)** ⭐ 14,124
   ![Python](https://img.shields.io/badge/-Python-blue)
   An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
 
-- **[mistralai/mistral-vibe](https://github.com/mistralai/mistral-vibe)** ⭐ 1,912
+- **[mistralai/mistral-vibe](https://github.com/mistralai/mistral-vibe)** ⭐ 1,920
   ![Python](https://img.shields.io/badge/-Python-blue)
   Minimal CLI coding agent by Mistral
 
-- **[cporter202/API-mega-list](https://github.com/cporter202/API-mega-list)** ⭐ 944
+- **[cporter202/API-mega-list](https://github.com/cporter202/API-mega-list)** ⭐ 948
   ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
   This GitHub repo is a powerhouse collection of APIs you can start using immediately to build everything from simple automations to full-scale applications. One of the most valuable API lists on GitHub—period. 💪
 
-- **[actionstatelabs/android-action-kernel](https://github.com/actionstatelabs/android-action-kernel)** ⭐ 610
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  None
-
-- **[cporter202/scraping-apis-for-devs](https://github.com/cporter202/scraping-apis-for-devs)** ⭐ 595
+- **[cporter202/scraping-apis-for-devs](https://github.com/cporter202/scraping-apis-for-devs)** ⭐ 657
   ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
   This GitHub repo is a powerhouse collection of scraping APIs for developers that you can start using immediately to build everything from simple automations to full-scale applications. 
 
-- **[typsusan-zzz/canvas-drawing-editor](https://github.com/typsusan-zzz/canvas-drawing-editor)** ⭐ 589
-  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
-  强大的 Canvas 画布编辑器 Web Component，零依赖，支持 Vue 2/3、React、Angular 和原生 HTML | A powerful canvas-based drawing editor Web Component - Zero dependencies, works with Vue 2/3, React, Angular, and vanilla HTML
-
-- **[tobi/qmd](https://github.com/tobi/qmd)** ⭐ 565
-  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
-  mini cli search engine for your docs, knowledge bases, meeting notes, whatever. Tracking current sota approaches while being all local
-
-- **[zai-org/GLM-ASR](https://github.com/zai-org/GLM-ASR)** ⭐ 480
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  GLM-ASR-Nano: A robust, open-source speech recognition model with 1.5B parameters
-
-### 📈 Monthly Trending
-
-- **[zai-org/Open-AutoGLM](https://github.com/zai-org/Open-AutoGLM)** ⭐ 13,875
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
-
-- **[karpathy/llm-council](https://github.com/karpathy/llm-council)** ⭐ 11,122
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  LLM Council works together to answer your hardest questions
-
-- **[Tongyi-MAI/Z-Image](https://github.com/Tongyi-MAI/Z-Image)** ⭐ 6,815
+- **[actionstatelabs/android-action-kernel](https://github.com/actionstatelabs/android-action-kernel)** ⭐ 625
   ![Python](https://img.shields.io/badge/-Python-blue)
   None
 
-- **[YouMind-OpenLab/awesome-nano-banana-pro-prompts](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts)** ⭐ 3,813
+- **[typsusan-zzz/canvas-drawing-editor](https://github.com/typsusan-zzz/canvas-drawing-editor)** ⭐ 595
+  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
+  强大的 Canvas 画布编辑器 Web Component，零依赖，支持 Vue 2/3、React、Angular 和原生 HTML | A powerful canvas-based drawing editor Web Component - Zero dependencies, works with Vue 2/3, React, Angular, and vanilla HTML
+
+- **[tobi/qmd](https://github.com/tobi/qmd)** ⭐ 566
+  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
+  mini cli search engine for your docs, knowledge bases, meeting notes, whatever. Tracking current sota approaches while being all local
+
+- **[eooce/Gla-deploy](https://github.com/eooce/Gla-deploy)** ⭐ 535
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
+  None
+
+### 📈 Monthly Trending
+
+- **[zai-org/Open-AutoGLM](https://github.com/zai-org/Open-AutoGLM)** ⭐ 14,124
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
+
+- **[karpathy/llm-council](https://github.com/karpathy/llm-council)** ⭐ 11,142
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  LLM Council works together to answer your hardest questions
+
+- **[Tongyi-MAI/Z-Image](https://github.com/Tongyi-MAI/Z-Image)** ⭐ 6,843
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  None
+
+- **[YouMind-OpenLab/awesome-nano-banana-pro-prompts](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts)** ⭐ 3,822
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   🍌 1000+ selected Nano Banana Pro prompts with images, multilingual support, and instant gallery preview. Open-source prompt engineering library
 
-- **[HisMax/RedInk](https://github.com/HisMax/RedInk)** ⭐ 3,610
+- **[HisMax/RedInk](https://github.com/HisMax/RedInk)** ⭐ 3,629
   ![Python](https://img.shields.io/badge/-Python-blue)
   红墨 - 基于🍌Nano Banana Pro🍌 的一站式小红书图文生成器 《一句话一张图片生成小红书图文》 Red Ink - A one-stop Xiaohongshu image-and-text generator based on the 🍌Nano Banana Pro🍌, "One Sentence, One Image: Generate Xiaohongshu Text and Images."
 
-- **[Facepunch/sbox-public](https://github.com/Facepunch/sbox-public)** ⭐ 3,357
+- **[Facepunch/sbox-public](https://github.com/Facepunch/sbox-public)** ⭐ 3,361
   ![C#](https://img.shields.io/badge/-C#-lightgrey)
   s&box is a modern game engine, built on Valve's Source 2 and the latest .NET technology, it provides a modern intuitive editor for creating games
 
-- **[pshenok/server-survival](https://github.com/pshenok/server-survival)** ⭐ 3,244
+- **[pshenok/server-survival](https://github.com/pshenok/server-survival)** ⭐ 3,257
   ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
   Tower defense game that teaches cloud architecture. Build infrastructure, survive traffic, learn scaling.
 
-- **[straight-tamago/misaka26](https://github.com/straight-tamago/misaka26)** ⭐ 3,064
+- **[straight-tamago/misaka26](https://github.com/straight-tamago/misaka26)** ⭐ 3,071
   ![None](https://img.shields.io/badge/-None-lightgrey)
   iOS /iPadOS 16.0 - 26.1, An ultimate customization tool, uilitizing the bug that makes TrollRestore possible. 
 
@@ -476,59 +478,59 @@ for a semver-minor rele...
 
 | Skill | Status |
 |-------|--------|
-| Java | 🟡 Learning |
+| Java | 🔴 Beginner |
 | Python | 🟢 Proficient |
-| JavaScript | 🟢 Proficient |
-| TypeScript | ⚪ Planned |
-| Go | 🔴 Beginner |
+| JavaScript | 🔴 Beginner |
+| TypeScript | 🔴 Beginner |
+| Go | ⚪ Planned |
 
 ### Frameworks
 
 | Skill | Status |
 |-------|--------|
-| React | ⚪ Planned |
-| Spring Boot | 🔴 Beginner |
-| Django | 🟡 Learning |
-| Node.js | 🔴 Beginner |
-| Next.js | ⚪ Planned |
+| React | 🟡 Learning |
+| Spring Boot | 🟡 Learning |
+| Django | ⚪ Planned |
+| Node.js | 🟢 Proficient |
+| Next.js | 🟢 Proficient |
 
 ### Cybersecurity
 
 | Skill | Status |
 |-------|--------|
-| Penetration Testing | 🟡 Learning |
-| Web Security | 🔴 Beginner |
-| Network Security | 🟡 Learning |
-| OWASP | 🔴 Beginner |
+| Penetration Testing | 🔴 Beginner |
+| Web Security | 🟡 Learning |
+| Network Security | ⚪ Planned |
+| OWASP | 🟡 Learning |
 
 ### Ai Ml
 
 | Skill | Status |
 |-------|--------|
-| Machine Learning | 🟢 Proficient |
-| Deep Learning | 🔴 Beginner |
-| NLP | 🟢 Proficient |
+| Machine Learning | ⚪ Planned |
+| Deep Learning | 🟢 Proficient |
+| NLP | ⚪ Planned |
 | Computer Vision | 🟡 Learning |
-| TensorFlow | 🔴 Beginner |
-| PyTorch | 🟡 Learning |
+| TensorFlow | 🟢 Proficient |
+| PyTorch | 🟢 Proficient |
 
 ### Devops
 
 | Skill | Status |
 |-------|--------|
-| Docker | ⚪ Planned |
-| Kubernetes | 🟡 Learning |
-| CI/CD | 🟢 Proficient |
-| AWS | 🟡 Learning |
-| Azure | 🟢 Proficient |
+| Docker | 🟡 Learning |
+| Kubernetes | ⚪ Planned |
+| CI/CD | ⚪ Planned |
+| AWS | ⚪ Planned |
+| Azure | 🟡 Learning |
 
 ### Other
 
 | Skill | Status |
 |-------|--------|
 | Blockchain | ⚪ Planned |
-| Web3 | 🟢 Proficient |
-| Cloud Computing | 🟢 Proficient |
+| Web3 | 🟡 Learning |
+| Cloud Computing | 🟡 Learning |
 
 </details>
 
