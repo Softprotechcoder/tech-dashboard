@@ -46,72 +46,80 @@
 
 ### 📑 Hacker News
 
-- **[Optery (YC W22) Hiring CISO, Release Manager, Tech Lead (Node), Full Stack Eng](https://www.optery.com/careers/)**
-  *<p>Article URL: <a href="https://www.optery.com/careers/">https://www.optery.com/careers/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46273372">https://news.ycombinator.com/...*
-  📅 Mon, 15 Dec 2025 12:00:26 +0000
+- **[Show HN: 100 Million splats, a whole town, rendered in M2 MacBook Air](https://twitter.com/AKurian001/status/1986979144014701026)**
+  *<p>Written natively from scratch in Metal and Swift. Build for AirVis app.</p>
+<hr />
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46277477">https://news.ycombinator.com/item?id=4627...*
+  📅 Mon, 15 Dec 2025 17:27:03 +0000
 
-- **[Avoid UUIDv4 Primary Keys](https://andyatkinson.com/avoid-uuid-version-4-primary-keys)**
-  *<p>Article URL: <a href="https://andyatkinson.com/avoid-uuid-version-4-primary-keys">https://andyatkinson.com/avoid-uuid-version-4-primary-keys</a></p>
-<p>Comments URL: <a href="https://news.ycombinat...*
-  📅 Mon, 15 Dec 2025 10:08:02 +0000
+- **[Break up bad companies; replace bad union bosses](https://pluralistic.net/2025/12/15/class-war-labor-peace/)**
+  *<p>Article URL: <a href="https://pluralistic.net/2025/12/15/class-war-labor-peace/">https://pluralistic.net/2025/12/15/class-war-labor-peace/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator...*
+  📅 Mon, 15 Dec 2025 17:21:20 +0000
 
-- **[Common Rust Lifetime Misconceptions](https://github.com/pretzelhammer/rust-blog/blob/master/posts/common-rust-lifetime-misconceptions.md)**
-  *<p>Article URL: <a href="https://github.com/pretzelhammer/rust-blog/blob/master/posts/common-rust-lifetime-misconceptions.md">https://github.com/pretzelhammer/rust-blog/blob/master/posts/common-rust-l...*
-  📅 Mon, 15 Dec 2025 05:46:35 +0000
+- **[Cosmic-ray bath in a past supernova gives birth to Earth-like planets](https://www.science.org/doi/10.1126/sciadv.adx7892)**
+  *<p>Article URL: <a href="https://www.science.org/doi/10.1126/sciadv.adx7892">https://www.science.org/doi/10.1126/sciadv.adx7892</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=4...*
+  📅 Mon, 15 Dec 2025 17:01:42 +0000
 
-- **[Read Something Wonderful](https://readsomethingwonderful.com/)**
-  *<p>Article URL: <a href="https://readsomethingwonderful.com/">https://readsomethingwonderful.com/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46270415">https://news.ycombina...*
-  📅 Mon, 15 Dec 2025 04:15:21 +0000
+- **[Pro-democracy HK tycoon Jimmy Lai convicted in national security trial](https://www.bbc.com/news/articles/cp844kjj37vo)**
+  *<p>Article URL: <a href="https://www.bbc.com/news/articles/cp844kjj37vo">https://www.bbc.com/news/articles/cp844kjj37vo</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46276740"...*
+  📅 Mon, 15 Dec 2025 16:36:19 +0000
 
-- **[The Whole App is a Blob](https://drobinin.com/posts/the-whole-app-is-a-blob/)**
-  *<p>Article URL: <a href="https://drobinin.com/posts/the-whole-app-is-a-blob/">https://drobinin.com/posts/the-whole-app-is-a-blob/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id...*
-  📅 Mon, 15 Dec 2025 04:09:51 +0000
+- **[$50 PlanetScale Metal Is GA for Postgres](https://planetscale.com/blog/50-dollar-planetscale-metal-is-ga-for-postgres)**
+  *<p>Article URL: <a href="https://planetscale.com/blog/50-dollar-planetscale-metal-is-ga-for-postgres">https://planetscale.com/blog/50-dollar-planetscale-metal-is-ga-for-postgres</a></p>
+<p>Comments UR...*
+  📅 Mon, 15 Dec 2025 16:11:37 +0000
 
-- **[Arborium: Tree-sitter code highlighting with Native and WASM targets](https://arborium.bearcove.eu/)**
-  *<p>Article URL: <a href="https://arborium.bearcove.eu/">https://arborium.bearcove.eu/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46270298">https://news.ycombinator.com/item...*
-  📅 Mon, 15 Dec 2025 03:57:46 +0000
+- **[We Put Flock Under Surveillance: Go Make Them Behave Differently [video]](https://www.youtube.com/watch?v=W420BOqga_s)**
+  *<p>Article URL: <a href="https://www.youtube.com/watch?v=W420BOqga_s">https://www.youtube.com/watch?v=W420BOqga_s</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46275328">https...*
+  📅 Mon, 15 Dec 2025 14:57:17 +0000
 
 ### 📑 TechCrunch
 
-- **[How iRobot lost its way home](https://techcrunch.com/2025/12/14/how-irobot-lost-its-way-home/)**
-  *iRobot survived three decades of competition, but couldn't survive European regulators killing its Amazon buyout. Now it's being taken over by its own supplier in bankruptcy court....*
-  📅 Mon, 15 Dec 2025 02:29:22 +0000
+- **[Threads adds new communities, tests badges for highly engaged members](https://techcrunch.com/2025/12/15/threads-adds-new-communities-tests-badges-for-highly-engaged-members/)**
+  *Threads, which has more than 150 million daily active users, adds more communities to its platform....*
+  📅 Mon, 15 Dec 2025 18:00:00 +0000
 
-- **[WhatsApp’s biggest market is becoming its toughest test](https://techcrunch.com/2025/12/14/whatsapps-biggest-market-is-becoming-its-toughest-test/)**
-  *Meta has three months to comply with Indian government directions that could affect how WhatsApp operates in the country....*
-  📅 Mon, 15 Dec 2025 01:30:00 +0000
+- **[Lidar-maker Luminar files for bankruptcy](https://techcrunch.com/2025/12/15/lidar-maker-luminar-files-for-bankruptcy/)**
+  *The filing marks the end of a tumultuous year full of layoffs, executive departures, and piling debts....*
+  📅 Mon, 15 Dec 2025 17:34:55 +0000
 
-- **[Grok got crucial facts wrong about Bondi Beach shooting](https://techcrunch.com/2025/12/14/grok-gets-the-facts-wrong-about-bondi-beach-shooting/)**
-  *Grok, the chatbot built by Elon Musk’s xAI and popularized on his social media platform X, appears to have repeatedly spread misinformation about today’s mass shooting at Bondi Beach in Australia....*
-  📅 Sun, 14 Dec 2025 23:17:47 +0000
+- **[Zoom brings its AI assistant to the web with access to free users](https://techcrunch.com/2025/12/15/zoom-brings-its-ai-assistant-to-the-web-with-access-to-free-users/)**
+  *Zoom is allowing free users to try its AI assistant in limited capacity...*
+  📅 Mon, 15 Dec 2025 16:58:46 +0000
 
-- **[Mesa shuts down credit card that rewarded cardholders for paying their mortgages](https://techcrunch.com/2025/12/14/mesa-shuts-down-credit-card-that-rewarded-cardholders-for-paying-their-mortgages/)**
-  *Fintech startup Mesa has shut down its Homeowners Card, which awarded points to cardholders for paying their mortgages....*
-  📅 Sun, 14 Dec 2025 21:37:44 +0000
+- **[Netflix responds to concerns about WBD deal](https://techcrunch.com/2025/12/15/netflix-responds-to-concerns-about-wbd-deal/)**
+  *Industry concerns over Netflix acquiring Warner Bros has led executives to address fears regarding jobs and theatrical releases....*
+  📅 Mon, 15 Dec 2025 16:28:06 +0000
 
-- **[Making sense of the risky Netflix-Warner Bros. deal](https://techcrunch.com/2025/12/14/making-sense-of-the-risky-netflix-warner-bros-deal/)**
-  *Netflix's $82.6 billion acquisition of Warner Bros. encapsulates a fraught moment for Hollywood, as the entertainment business is increasingly overshadowed by tech giants....*
-  📅 Sun, 14 Dec 2025 17:27:05 +0000
+- **[Facebook Messenger’s desktop app is no more](https://techcrunch.com/2025/12/15/facebook-messengers-desktop-app-is-no-more/)**
+  *The app remains usable via the web, Facebook app, and through the mobile app for iOS and Android....*
+  📅 Mon, 15 Dec 2025 16:26:56 +0000
 
-- **[TechCrunch Mobility: Rivian’s survival plan involves more than cars](https://techcrunch.com/2025/12/14/rivians-survival-plan-involves-more-than-cars/)**
-  *Welcome back to TechCrunch Mobility — your central hub for news and insights on the future of transportation....*
-  📅 Sun, 14 Dec 2025 17:00:00 +0000
+- **[Tesla starts testing robotaxis in Austin with no safety driver](https://techcrunch.com/2025/12/15/tesla-starts-testing-robotaxis-in-austin-with-no-safety-driver/)**
+  *It's one of the last big steps before the company can truly claim it's operating a robotaxi service, and start to take on Waymo....*
+  📅 Mon, 15 Dec 2025 15:16:26 +0000
 
 ### 📑 Dev.to
 
-- **[Releasing LightningChart Python Trader 1.1](https://dev.to/omar_lightningchart/releasing-lightningchart-python-trader-11-317g)**
-  *<p>In this version, LightningChart Python Trader introduces different features including drawing tool pointer events, chart-level pointer events, and value label controls. For more information, read t...*
-  📅 Mon, 15 Dec 2025 12:23:13 +0000
+- **[Untitled](https://dev.to/dane_jelic_beeacb6d8b8515/untitled-3b4e)**
+  *<p>Check out this Pen I made!</p>
 
-- **[Debug Fiber APIs Like a Pro with GoRequestTracer: JSON Logging, DB Queries, and Panic Tracking](https://dev.to/sumeet_patidar_f02ac60b3d/debug-fiber-apis-like-a-pro-with-gorequesttracer-json-logging-db-queries-and-panic-tracking-3mgc)**
-  *<p>If you’re building <strong>APIs or microservices in Go using Fiber</strong>, you know how hard it is to track <strong>HTTP requests, database queries, and unexpected panics</strong>.</p>
+<p>
 
-<p>Meet <...*
-  📅 Mon, 15 Dec 2025 12:21:18 +0000
+</p>...*
+  📅 Mon, 15 Dec 2025 18:09:31 +0000
+
+- **[I’m building a Laravel-like framework in Go – feedback welcome
+https://github.com/bwanakweli4ever/enzovu](https://dev.to/alex_bwanakweli_35ff2e94c/im-building-a-laravel-like-framework-in-go-feedback-welcome-44ah)**
+  *<div class="crayons-card c-embed text-styles text-styles--secondary">
+    <div class="c-embed__content">
+        <div class="c-embed__cover">
+          <a class="c-link align-middle" href="https://git...*
+  📅 Mon, 15 Dec 2025 18:09:14 +0000
 
 </details>
 
@@ -119,103 +127,103 @@
 
 ### 📈 Daily Trending
 
-- **[FunAudioLLM/Fun-ASR](https://github.com/FunAudioLLM/Fun-ASR)** ⭐ 112
+- **[FunAudioLLM/Fun-ASR](https://github.com/FunAudioLLM/Fun-ASR)** ⭐ 170
   ![Python](https://img.shields.io/badge/-Python-blue)
   Fun-ASR is an end-to-end speech recognition large model launched by Tongyi Lab. 
 
-- **[shiyi-0x7f/olib-mobile](https://github.com/shiyi-0x7f/olib-mobile)** ⭐ 40
+- **[shiyi-0x7f/olib-mobile](https://github.com/shiyi-0x7f/olib-mobile)** ⭐ 46
   ![Dart](https://img.shields.io/badge/-Dart-lightgrey)
   🤖 An open-source ebook reader built entirely with AI assistance. Third-party client, frontend interface only.
 
-- **[iceking111/Autonomous-Vehicle-Visual-Cruise-Competition](https://github.com/iceking111/Autonomous-Vehicle-Visual-Cruise-Competition)** ⭐ 22
+- **[klezVirus/Moonwalk--](https://github.com/klezVirus/Moonwalk--)** ⭐ 38
+  ![C++](https://img.shields.io/badge/-C++-pink)
+  Moonwalk++: Simple POC Combining StackMoonwalking and Memory Encryption
+
+- **[aiflowy/aiflowy](https://github.com/aiflowy/aiflowy)** ⭐ 30
+  ![Vue](https://img.shields.io/badge/-Vue-lightgrey)
+  AIFlowy is an enterprise-grade AI application development platform based on Java, comparable to products like Dify and Coze.
+
+- **[pq-yang/MatAnyone2](https://github.com/pq-yang/MatAnyone2)** ⭐ 28
+  ![None](https://img.shields.io/badge/-None-lightgrey)
+  MatAnyone 2: Scaling Video Matting via a Learned Quality Evaluator
+
+- **[iceking111/Autonomous-Vehicle-Visual-Cruise-Competition](https://github.com/iceking111/Autonomous-Vehicle-Visual-Cruise-Competition)** ⭐ 26
   ![C++](https://img.shields.io/badge/-C++-pink)
   None
 
-- **[iceking111/power-inspection](https://github.com/iceking111/power-inspection)** ⭐ 22
+- **[iceking111/power-inspection](https://github.com/iceking111/power-inspection)** ⭐ 26
   ![C++](https://img.shields.io/badge/-C++-pink)
   None
 
-- **[iceking111/Smart-Urban-Management](https://github.com/iceking111/Smart-Urban-Management)** ⭐ 22
+- **[iceking111/Smart-Urban-Management](https://github.com/iceking111/Smart-Urban-Management)** ⭐ 26
   ![Makefile](https://img.shields.io/badge/-Makefile-lightgrey)
   None
-
-- **[iceking111/plant-protect](https://github.com/iceking111/plant-protect)** ⭐ 22
-  ![Makefile](https://img.shields.io/badge/-Makefile-lightgrey)
-  None
-
-- **[iceking111/Aerial-Robotics-Competition](https://github.com/iceking111/Aerial-Robotics-Competition)** ⭐ 21
-  ![C++](https://img.shields.io/badge/-C++-pink)
-  None
-
-- **[uselibrary/gocar](https://github.com/uselibrary/gocar)** ⭐ 21
-  ![Go](https://img.shields.io/badge/-Go-cyan)
-  gocar, a cargo tool for Go
 
 ### 📈 Weekly Trending
 
-- **[cporter202/API-mega-list](https://github.com/cporter202/API-mega-list)** ⭐ 991
+- **[cporter202/API-mega-list](https://github.com/cporter202/API-mega-list)** ⭐ 998
   ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
   This GitHub repo is a powerhouse collection of APIs you can start using immediately to build everything from simple automations to full-scale applications. One of the most valuable API lists on GitHub—period. 💪
 
-- **[eooce/Gla-deploy](https://github.com/eooce/Gla-deploy)** ⭐ 913
+- **[eooce/Gla-deploy](https://github.com/eooce/Gla-deploy)** ⭐ 966
   ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
   None
 
-- **[cporter202/scraping-apis-for-devs](https://github.com/cporter202/scraping-apis-for-devs)** ⭐ 865
+- **[cporter202/scraping-apis-for-devs](https://github.com/cporter202/scraping-apis-for-devs)** ⭐ 903
   ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
   This GitHub repo is a powerhouse collection of scraping APIs for developers that you can start using immediately to build everything from simple automations to full-scale applications. 
 
-- **[actionstatelabs/android-action-kernel](https://github.com/actionstatelabs/android-action-kernel)** ⭐ 674
+- **[actionstatelabs/android-action-kernel](https://github.com/actionstatelabs/android-action-kernel)** ⭐ 687
   ![Python](https://img.shields.io/badge/-Python-blue)
   None
 
-- **[tombcato/clash-ip-checker](https://github.com/tombcato/clash-ip-checker)** ⭐ 634
+- **[tombcato/clash-ip-checker](https://github.com/tombcato/clash-ip-checker)** ⭐ 657
   ![Python](https://img.shields.io/badge/-Python-blue)
   🤖Automated node IP risk checking and tagging tool for Clash (适用于 Clash 代理的自动化节点 IP 风险检查并重命名标记工具)
 
-- **[zai-org/GLM-ASR](https://github.com/zai-org/GLM-ASR)** ⭐ 518
+- **[zai-org/GLM-ASR](https://github.com/zai-org/GLM-ASR)** ⭐ 524
   ![Python](https://img.shields.io/badge/-Python-blue)
   GLM-ASR-Nano: A robust, open-source speech recognition model with 1.5B parameters
 
-- **[ZiHuixi/QQgroup-annual-report-analyzer](https://github.com/ZiHuixi/QQgroup-annual-report-analyzer)** ⭐ 473
+- **[ZiHuixi/QQgroup-annual-report-analyzer](https://github.com/ZiHuixi/QQgroup-annual-report-analyzer)** ⭐ 504
   ![Python](https://img.shields.io/badge/-Python-blue)
   一个用于分析QQ群聊记录并生成年度热词报告的工具。支持热词发现、趣味统计、可视化报告生成等功能。
 
-- **[farouqaldori/claude-island](https://github.com/farouqaldori/claude-island)** ⭐ 404
+- **[farouqaldori/claude-island](https://github.com/farouqaldori/claude-island)** ⭐ 416
   ![Swift](https://img.shields.io/badge/-Swift-lightgrey)
   Claude Code notifications without the context switch. A minimal, always-present session manager for macOS.
 
 ### 📈 Monthly Trending
 
-- **[zai-org/Open-AutoGLM](https://github.com/zai-org/Open-AutoGLM)** ⭐ 15,289
+- **[zai-org/Open-AutoGLM](https://github.com/zai-org/Open-AutoGLM)** ⭐ 15,485
   ![Python](https://img.shields.io/badge/-Python-blue)
   An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
 
-- **[karpathy/llm-council](https://github.com/karpathy/llm-council)** ⭐ 11,252
+- **[karpathy/llm-council](https://github.com/karpathy/llm-council)** ⭐ 11,290
   ![Python](https://img.shields.io/badge/-Python-blue)
   LLM Council works together to answer your hardest questions
 
-- **[Tongyi-MAI/Z-Image](https://github.com/Tongyi-MAI/Z-Image)** ⭐ 6,968
+- **[Tongyi-MAI/Z-Image](https://github.com/Tongyi-MAI/Z-Image)** ⭐ 6,994
   ![Python](https://img.shields.io/badge/-Python-blue)
   None
 
-- **[YouMind-OpenLab/awesome-nano-banana-pro-prompts](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts)** ⭐ 3,892
+- **[YouMind-OpenLab/awesome-nano-banana-pro-prompts](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts)** ⭐ 3,907
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   🍌 1000+ selected Nano Banana Pro prompts with images, multilingual support, and instant gallery preview. Open-source prompt engineering library
 
-- **[HisMax/RedInk](https://github.com/HisMax/RedInk)** ⭐ 3,698
+- **[HisMax/RedInk](https://github.com/HisMax/RedInk)** ⭐ 3,706
   ![Python](https://img.shields.io/badge/-Python-blue)
   红墨 - 基于🍌Nano Banana Pro🍌 的一站式小红书图文生成器 《一句话一张图片生成小红书图文》 Red Ink - A one-stop Xiaohongshu image-and-text generator based on the 🍌Nano Banana Pro🍌, "One Sentence, One Image: Generate Xiaohongshu Text and Images."
 
-- **[Facepunch/sbox-public](https://github.com/Facepunch/sbox-public)** ⭐ 3,378
-  ![C#](https://img.shields.io/badge/-C#-lightgrey)
-  s&box is a modern game engine, built on Valve's Source 2 and the latest .NET technology, it provides a modern intuitive editor for creating games
-
-- **[Anionex/banana-slides](https://github.com/Anionex/banana-slides)** ⭐ 3,354
+- **[Anionex/banana-slides](https://github.com/Anionex/banana-slides)** ⭐ 3,488
   ![Python](https://img.shields.io/badge/-Python-blue)
   一个基于nano banana pro🍌的原生AI PPT生成应用，迈向真正的＂Vibe PPT＂; 支持上传任意模板图片；上传任意素材&智能解析；一句话/大纲/页面描述自动生成PPT；口头修改指定区域、一键导出 - An AI-native PPT generator based on nano banana pro🍌
 
-- **[pshenok/server-survival](https://github.com/pshenok/server-survival)** ⭐ 3,305
+- **[Facepunch/sbox-public](https://github.com/Facepunch/sbox-public)** ⭐ 3,379
+  ![C#](https://img.shields.io/badge/-C#-lightgrey)
+  s&box is a modern game engine, built on Valve's Source 2 and the latest .NET technology, it provides a modern intuitive editor for creating games
+
+- **[pshenok/server-survival](https://github.com/pshenok/server-survival)** ⭐ 3,319
   ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
   Tower defense game that teaches cloud architecture. Build infrastructure, survive traffic, learn scaling.
 
@@ -481,26 +489,26 @@ for a semver-minor rele...
 | Skill | Status |
 |-------|--------|
 | Java | ⚪ Planned |
-| Python | ⚪ Planned |
-| JavaScript | 🟢 Proficient |
-| TypeScript | ⚪ Planned |
-| Go | ⚪ Planned |
+| Python | 🔴 Beginner |
+| JavaScript | 🔴 Beginner |
+| TypeScript | 🔴 Beginner |
+| Go | 🔴 Beginner |
 
 ### Frameworks
 
 | Skill | Status |
 |-------|--------|
-| React | 🟡 Learning |
-| Spring Boot | 🟡 Learning |
-| Django | ⚪ Planned |
-| Node.js | 🟢 Proficient |
-| Next.js | ⚪ Planned |
+| React | 🟢 Proficient |
+| Spring Boot | 🟢 Proficient |
+| Django | 🟡 Learning |
+| Node.js | 🔴 Beginner |
+| Next.js | 🟡 Learning |
 
 ### Cybersecurity
 
 | Skill | Status |
 |-------|--------|
-| Penetration Testing | 🟡 Learning |
+| Penetration Testing | 🟢 Proficient |
 | Web Security | 🟢 Proficient |
 | Network Security | 🔴 Beginner |
 | OWASP | 🟢 Proficient |
@@ -509,22 +517,22 @@ for a semver-minor rele...
 
 | Skill | Status |
 |-------|--------|
-| Machine Learning | 🟢 Proficient |
-| Deep Learning | 🟡 Learning |
-| NLP | 🟢 Proficient |
-| Computer Vision | 🔴 Beginner |
-| TensorFlow | 🔴 Beginner |
-| PyTorch | 🔴 Beginner |
+| Machine Learning | 🔴 Beginner |
+| Deep Learning | ⚪ Planned |
+| NLP | 🔴 Beginner |
+| Computer Vision | 🟢 Proficient |
+| TensorFlow | ⚪ Planned |
+| PyTorch | 🟢 Proficient |
 
 ### Devops
 
 | Skill | Status |
 |-------|--------|
-| Docker | ⚪ Planned |
-| Kubernetes | 🟢 Proficient |
-| CI/CD | 🟢 Proficient |
-| AWS | 🟡 Learning |
-| Azure | 🟡 Learning |
+| Docker | 🔴 Beginner |
+| Kubernetes | ⚪ Planned |
+| CI/CD | ⚪ Planned |
+| AWS | 🟢 Proficient |
+| Azure | 🔴 Beginner |
 
 ### Other
 
