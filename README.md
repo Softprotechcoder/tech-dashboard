@@ -20,8 +20,8 @@
 | Metric | Count |
 |--------|-------|
 | 📰 Latest News Articles | 26 |
-| 🔥 Trending Repositories | 45 |
-| 🎯 Latest Releases | 10 |
+| 🔥 Trending Repositories | 0 |
+| 🎯 Latest Releases | 7 |
 | 🎯 Learning Goals | 4 |
 
 ## 🎯 Current Focus
@@ -46,36 +46,44 @@
 
 ### 📑 Hacker News
 
-- **[A Guide to Magnetizing N48 Magnets in Ansys Maxwell](https://blog.ozeninc.com/resources/from-datasheet-to-demagnetization-a-guide-to-magnetizing-n48-magnets-in-ansys-maxwell)**
-  *<p>Article URL: <a href="https://blog.ozeninc.com/resources/from-datasheet-to-demagnetization-a-guide-to-magnetizing-n48-magnets-in-ansys-maxwell">https://blog.ozeninc.com/resources/from-datasheet-to-...*
-  📅 Wed, 17 Dec 2025 03:55:59 +0000
+- **[Show HN: Mephisto – A RAM-only, ad-free disposable email PWA built with React](https://mephistomail.site)**
+  *<p>Hi HN,<p>I built Mephisto because I was frustrated with the current state of disposable email services—most are riddled with intrusive ads, trackers, and captchas.<p>I wanted a tool that felt like ...*
+  📅 Wed, 17 Dec 2025 09:54:48 +0000
 
-- **[Introduction to Software Development Tooling (2024)](https://bernsteinbear.com/isdt/)**
-  *<p>Article URL: <a href="https://bernsteinbear.com/isdt/">https://bernsteinbear.com/isdt/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46297127">https://news.ycombinator.com/...*
-  📅 Wed, 17 Dec 2025 01:26:14 +0000
+- **[Is Mozilla trying hard to kill itself?](https://infosec.press/brunomiguel/is-mozilla-trying-hard-to-kill-itself)**
+  *<p>Article URL: <a href="https://infosec.press/brunomiguel/is-mozilla-trying-hard-to-kill-itself">https://infosec.press/brunomiguel/is-mozilla-trying-hard-to-kill-itself</a></p>
+<p>Comments URL: <a hr...*
+  📅 Wed, 17 Dec 2025 09:37:24 +0000
 
-- **[Sei AI (YC W22) Is Hiring](https://www.ycombinator.com/companies/sei/jobs/TYbKqi0-llm-engineer-mid-senior)**
-  *<p>Article URL: <a href="https://www.ycombinator.com/companies/sei/jobs/TYbKqi0-llm-engineer-mid-senior">https://www.ycombinator.com/companies/sei/jobs/TYbKqi0-llm-engineer-mid-senior</a></p>
-<p>Comme...*
-  📅 Wed, 17 Dec 2025 01:00:21 +0000
+- **[AI's real superpower: consuming, not creating](https://msanroman.io/blog/ai-consumption-paradigm)**
+  *<p>Article URL: <a href="https://msanroman.io/blog/ai-consumption-paradigm">https://msanroman.io/blog/ai-consumption-paradigm</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=462...*
+  📅 Wed, 17 Dec 2025 08:34:00 +0000
 
-- **[Show HN: Learn Japanese contextually while browsing](https://lingoku.ai/learn-japanese)**
-  *<p>Hi HN,<p>Just wanted to share a tool i've been working on to help with my own study routine. It’s a browser extension called Lingoku.<p>The idea is simple: we spend hours browsing the web in Englis...*
-  📅 Wed, 17 Dec 2025 00:50:40 +0000
+- **[TLA+ Modeling Tips](http://muratbuffalo.blogspot.com/2025/12/tla-modeling-tips.html)**
+  *<p>Article URL: <a href="http://muratbuffalo.blogspot.com/2025/12/tla-modeling-tips.html">http://muratbuffalo.blogspot.com/2025/12/tla-modeling-tips.html</a></p>
+<p>Comments URL: <a href="https://news...*
+  📅 Wed, 17 Dec 2025 08:05:30 +0000
 
-- **[Dafny: Verification-Aware Programming Language](https://dafny.org/)**
-  *<p>Article URL: <a href="https://dafny.org/">https://dafny.org/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46295792">https://news.ycombinator.com/item?id=46295792</a></p>
-<...*
-  📅 Tue, 16 Dec 2025 22:50:59 +0000
+- **[US threatens EU digital services market access](https://twitter.com/ustraderep/status/2000990028835508258)**
+  *<p>Article URL: <a href="https://twitter.com/ustraderep/status/2000990028835508258">https://twitter.com/ustraderep/status/2000990028835508258</a></p>
+<p>Comments URL: <a href="https://news.ycombinator...*
+  📅 Wed, 17 Dec 2025 08:04:02 +0000
 
-- **[I ported JustHTML from Python to JavaScript with Codex CLI and GPT-5.2 in hours](https://simonwillison.net/2025/Dec/15/porting-justhtml/)**
-  *<p>Article URL: <a href="https://simonwillison.net/2025/Dec/15/porting-justhtml/">https://simonwillison.net/2025/Dec/15/porting-justhtml/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com...*
-  📅 Tue, 16 Dec 2025 22:48:56 +0000
+- **[P: Formal Modeling and Analysis of Distributed (Event-Driven) Systems](https://github.com/p-org/P)**
+  *<p>Article URL: <a href="https://github.com/p-org/P">https://github.com/p-org/P</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46299257">https://news.ycombinator.com/item?id=46...*
+  📅 Wed, 17 Dec 2025 07:42:09 +0000
 
 ### 📑 TechCrunch
+
+- **[Amazon reportedly in talks to invest $10B in OpenAI as circular deals stay popular](https://techcrunch.com/2025/12/17/amazon-reportedly-in-talks-to-invest-10b-in-openai-as-circular-deals-stay-popular/)**
+  *Amazon is in early discussions to invest as much as $10 billion in OpenAI in a deal that would see the AI lab using the e-commerce giant's AI chips....*
+  📅 Wed, 17 Dec 2025 12:03:36 +0000
+
+- **[Google deepens consumer credit push in India with UPI-linked card](https://techcrunch.com/2025/12/17/google-deepens-consumer-credit-push-in-india-with-upi-linked-card/)**
+  *Google has entered India's growing co-branded credit card market by partnering with Axis Bank....*
+  📅 Wed, 17 Dec 2025 10:00:00 +0000
 
 - **[Weeks after raising $100M, investors pump another $180M into hot Indian startup MoEngage](https://techcrunch.com/2025/12/16/weeks-after-raising-100m-investors-pump-another-180m-into-hot-indian-startup-moengage/)**
   *The deal valued MoEngage at "well over" $900 million post-money....*
@@ -93,137 +101,26 @@
   *Luminar says trouble with Volvo started as early as 2022, and that the Swedish automaker made -- but then backed away from -- large orders of its lidar sensors....*
   📅 Tue, 16 Dec 2025 22:43:00 +0000
 
-- **[WikiFlix shows us what Netflix would have been like 100 years ago](https://techcrunch.com/2025/12/16/wikiflix-shows-us-what-netflix-would-have-been-like-100-years-ago/)**
-  *On WikiFlix, a Netflix-inspired archive of public domain films, you can watch movies like "It's a Wonderful Life" and "Nosferatu" for free....*
-  📅 Tue, 16 Dec 2025 21:58:32 +0000
-
-- **[X updates its terms, files countersuit to lay claim to the ‘Twitter’ trademark after newcomer’s challenge](https://techcrunch.com/2025/12/16/x-updates-its-terms-files-countersuit-to-lay-claim-to-the-twitter-trademark-after-newcomers-challenge/)**
-  *X's new terms of service say that no one can use the Twitter name, trademarks, logos, and more without written consent....*
-  📅 Tue, 16 Dec 2025 21:11:48 +0000
-
 ### 📑 Dev.to
 
-- **[Advent of AI - Day 12: MCP Sampling](https://dev.to/nickytonline/advent-of-ai-day-12-mcp-sampling-29b4)**
-  *<p>I've edited this post, but AI helped. These are meant to be quick posts for the Advent of AI. If I'm doing one of these each day, I don't have time to spend a couple hours on each post.</p>
+- **[Stop Screenshotting Emails Into Figma](https://dev.to/christopher_rogers_c98b17/stop-screenshotting-emails-into-figma-41ko)**
+  *<p>If you work on email campaigns with a team, you've probably done this:</p>
 
-<p>The...*
-  📅 Wed, 17 Dec 2025 06:01:21 +0000
+<ol>
+<li>Finish your HTML email</li>
+<li>Screenshot it</li>
+<li>Open Figma</li>
+<li>Paste</li>
+<li>Share the Figma link</...*
+  📅 Wed, 17 Dec 2025 12:10:50 +0000
 
-- **[I Completed 45 Lambda Function Exercises (And I'm Still a Beginner!)](https://dev.to/hejhdiss/i-completed-45-lambda-function-exercises-and-im-still-a-beginner-2m40)**
-  *<h2>
-  
-  
-  My Functional Programming Learning Journey
-</h2>
-
-<p>I recently completed a comprehensive workbook with <strong>45 exercises</strong> to learn about lambda functions and functional progra...*
-  📅 Wed, 17 Dec 2025 06:00:15 +0000
+- **[The Digital Nanny](https://dev.to/rawveg/the-digital-nanny-20ib)**
+  *<p>In a Florida courtroom, a mother's grief collides with Silicon Valley's latest creation. Megan Garcia is suing Character.AI, alleging that the platform's chatbot encouraged her 14-year-old son, Sew...*
+  📅 Wed, 17 Dec 2025 12:00:00 +0000
 
 </details>
 
 ## 🔥 Trending Repositories
-
-### 📈 Daily Trending
-
-- **[maodeyu180/superlinksale](https://github.com/maodeyu180/superlinksale)** ⭐ 13
-  ![CSS](https://img.shields.io/badge/-CSS-lightgrey)
-  体验网站密码:welcome
-
-- **[EdNovas/dongguaTV](https://github.com/EdNovas/dongguaTV)** ⭐ 7
-  ![HTML](https://img.shields.io/badge/-HTML-lightgrey)
-  None
-
-- **[leookun/mimo2api](https://github.com/leookun/mimo2api)** ⭐ 7
-  ![Go](https://img.shields.io/badge/-Go-cyan)
-  None
-
-- **[gongchyu-collab/Ai-Chat-HITL](https://github.com/gongchyu-collab/Ai-Chat-HITL)** ⭐ 5
-  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
-  AI对话人工介入控制的VSCode插件，集成MCP Server
-
-- **[Sakura529/BypassAV](https://github.com/Sakura529/BypassAV)** ⭐ 5
-  ![C++](https://img.shields.io/badge/-C++-pink)
-  通过Patch白文件实现免杀
-
-- **[tony1223/better-agent-terminal](https://github.com/tony1223/better-agent-terminal)** ⭐ 5
-  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
-  None
-
-- **[craig7351/translate-everywhere](https://github.com/craig7351/translate-everywhere)** ⭐ 4
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  英文苦手受夠了常常要為了一句話切換翻譯視窗
-
-- **[mynh19122003/project-zomboid-panel](https://github.com/mynh19122003/project-zomboid-panel)** ⭐ 3
-  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
-  None
-
-### 📈 Weekly Trending
-
-- **[actionstatelabs/android-action-kernel](https://github.com/actionstatelabs/android-action-kernel)** ⭐ 1,100
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  None
-
-- **[eooce/Gla-deploy](https://github.com/eooce/Gla-deploy)** ⭐ 1,078
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
-  None
-
-- **[apple/ml-sharp](https://github.com/apple/ml-sharp)** ⭐ 948
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  Sharp Monocular View Synthesis in Less Than a Second
-
-- **[productdevbook/port-killer](https://github.com/productdevbook/port-killer)** ⭐ 808
-  ![Swift](https://img.shields.io/badge/-Swift-lightgrey)
-  Native macOS menu bar app for finding and killing processes on open ports. Perfect for developers.
-
-- **[tombcato/clash-ip-checker](https://github.com/tombcato/clash-ip-checker)** ⭐ 728
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  🤖Automated node IP risk checking and tagging tool for Clash (适用于 Clash 代理的自动化节点 IP 风险检查并重命名标记工具)
-
-- **[gaearon/rscexplorer](https://github.com/gaearon/rscexplorer)** ⭐ 497
-  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
-  A tool for people curious about the React Server Components protocol
-
-- **[meltylabs/chorus](https://github.com/meltylabs/chorus)** ⭐ 479
-  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
-  Chorus - AI chat app for Mac
-
-- **[Maxteabag/sqlit](https://github.com/Maxteabag/sqlit)** ⭐ 390
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  A user friendly TUI for SQL databases. Written in python. Supports SQL server, Mysql, PostreSQL and SQLite, Turso and more.
-
-### 📈 Monthly Trending
-
-- **[zai-org/Open-AutoGLM](https://github.com/zai-org/Open-AutoGLM)** ⭐ 16,728
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
-
-- **[karpathy/llm-council](https://github.com/karpathy/llm-council)** ⭐ 11,455
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  LLM Council works together to answer your hardest questions
-
-- **[Tongyi-MAI/Z-Image](https://github.com/Tongyi-MAI/Z-Image)** ⭐ 7,165
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  None
-
-- **[Anionex/banana-slides](https://github.com/Anionex/banana-slides)** ⭐ 4,033
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  一个基于nano banana pro🍌的原生AI PPT生成应用，迈向真正的＂Vibe PPT＂; 支持上传任意模板图片；上传任意素材&智能解析；一句话/大纲/页面描述自动生成PPT；口头修改指定区域、一键导出 - An AI-native PPT generator based on nano banana pro🍌
-
-- **[YouMind-OpenLab/awesome-nano-banana-pro-prompts](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts)** ⭐ 3,960
-  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
-  🍌 1000+ selected Nano Banana Pro prompts with images, multilingual support, and instant gallery preview. Open-source prompt engineering library
-
-- **[HisMax/RedInk](https://github.com/HisMax/RedInk)** ⭐ 3,814
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  红墨 - 基于🍌Nano Banana Pro🍌 的一站式小红书图文生成器 《一句话一张图片生成小红书图文》 Red Ink - A one-stop Xiaohongshu image-and-text generator based on the 🍌Nano Banana Pro🍌, "One Sentence, One Image: Generate Xiaohongshu Text and Images."
-
-- **[donlon/cloudflare-error-page](https://github.com/donlon/cloudflare-error-page)** ⭐ 3,504
-  ![EJS](https://img.shields.io/badge/-EJS-lightgrey)
-  Cloudflare error page generator
-
-- **[Facepunch/sbox-public](https://github.com/Facepunch/sbox-public)** ⭐ 3,394
-  ![C#](https://img.shields.io/badge/-C#-lightgrey)
-  s&box is a modern game engine, built on Valve's Source 2 and the latest .NET technology, it provides a modern intuitive editor for creating games
 
 ## 🚀 Latest Releases
 
@@ -318,46 +215,6 @@ Significant Memory Regression in F.conv3d with bfloat16 Inputs in PyTorch 2.9.0 
 
 
 See [kubernetes-announce@](https://groups.google.com/forum/#!forum/kubernetes-announce). Additional binary downloads are linked in the [CHANGELOG](https://github.com/kubernetes/kubernetes/blob/master...
-
----
-
-### 📦 docker/compose
-
-**[v5.0.0 "Mont Blanc"](https://github.com/docker/compose/releases/tag/v5.0.0)** `v5.0.0`
-
-📅 Released: December 02, 2025
-
-![mont blanc](https://github.com/user-attachments/assets/1e6b938e-e67a-4063-b1d0-0f225da01521)
-
-Major changes in this release:
-* Compose can now officially be used as a SDK to be integrated into th...
-
----
-
-### 📦 nodejs/node
-
-**[2025-11-17, Version 25.2.1 (Current), @aduh95](https://github.com/nodejs/node/releases/tag/v25.2.1)** `v25.2.1`
-
-📅 Released: November 17, 2025
-
-This release reverts the spec-compliant behavior of sometimes throwing on `localStorage`
-access. We received feedback that this change on an experimental API was too breaking
-for a semver-minor rele...
-
----
-
-### 📦 rust-lang/rust
-
-**[Rust 1.92.0](https://github.com/rust-lang/rust/releases/tag/1.92.0)** `1.92.0`
-
-📅 Released: December 11, 2025
-
-<a id="1.92.0-Language"></a>
-
-## Language
-
-- [Document `MaybeUninit` representation and validity](https://github.com/rust-lang/rust/pull/140463)
-- [Allow `&raw [mut | const]` for union field in safe c...
 
 ---
 
@@ -486,20 +343,20 @@ for a semver-minor rele...
 
 | Skill | Status |
 |-------|--------|
-| Java | ⚪ Planned |
-| Python | ⚪ Planned |
-| JavaScript | 🟢 Proficient |
-| TypeScript | 🟢 Proficient |
-| Go | 🟢 Proficient |
+| Java | 🟡 Learning |
+| Python | 🟡 Learning |
+| JavaScript | 🔴 Beginner |
+| TypeScript | 🟡 Learning |
+| Go | 🟡 Learning |
 
 ### Frameworks
 
 | Skill | Status |
 |-------|--------|
 | React | 🔴 Beginner |
-| Spring Boot | 🔴 Beginner |
-| Django | 🟡 Learning |
-| Node.js | 🟡 Learning |
+| Spring Boot | 🟢 Proficient |
+| Django | 🔴 Beginner |
+| Node.js | ⚪ Planned |
 | Next.js | ⚪ Planned |
 
 ### Cybersecurity
@@ -507,27 +364,27 @@ for a semver-minor rele...
 | Skill | Status |
 |-------|--------|
 | Penetration Testing | ⚪ Planned |
-| Web Security | 🔴 Beginner |
+| Web Security | 🟡 Learning |
 | Network Security | 🟡 Learning |
-| OWASP | ⚪ Planned |
+| OWASP | 🔴 Beginner |
 
 ### Ai Ml
 
 | Skill | Status |
 |-------|--------|
-| Machine Learning | ⚪ Planned |
+| Machine Learning | 🟡 Learning |
 | Deep Learning | 🟡 Learning |
-| NLP | 🔴 Beginner |
-| Computer Vision | 🔴 Beginner |
-| TensorFlow | 🔴 Beginner |
+| NLP | 🟢 Proficient |
+| Computer Vision | 🟡 Learning |
+| TensorFlow | ⚪ Planned |
 | PyTorch | ⚪ Planned |
 
 ### Devops
 
 | Skill | Status |
 |-------|--------|
-| Docker | 🔴 Beginner |
-| Kubernetes | 🟢 Proficient |
+| Docker | ⚪ Planned |
+| Kubernetes | ⚪ Planned |
 | CI/CD | 🔴 Beginner |
 | AWS | ⚪ Planned |
 | Azure | 🟢 Proficient |
@@ -536,9 +393,9 @@ for a semver-minor rele...
 
 | Skill | Status |
 |-------|--------|
-| Blockchain | ⚪ Planned |
-| Web3 | ⚪ Planned |
-| Cloud Computing | 🟢 Proficient |
+| Blockchain | 🟡 Learning |
+| Web3 | 🔴 Beginner |
+| Cloud Computing | ⚪ Planned |
 
 </details>
 
