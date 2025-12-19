@@ -20,7 +20,7 @@
 | Metric | Count |
 |--------|-------|
 | 📰 Latest News Articles | 26 |
-| 🔥 Trending Repositories | 0 |
+| 🔥 Trending Repositories | 45 |
 | 🎯 Latest Releases | 10 |
 | 🎯 Learning Goals | 4 |
 
@@ -46,76 +46,175 @@
 
 ### 📑 Hacker News
 
-- **[Show HN: I open-sourced my Go and Next B2B SaaS Starter (deploy anywhere, MIT)](https://github.com/moasq/production-saas-starter)**
-  *<p>Hi HN, I'm Mohammed, a technical founder who loves shipping and giving back to the community. I'm open-sourcing the full-stack engine that powers my B2B product, apflow.co.<p>What it is: A producti...*
-  📅 Fri, 19 Dec 2025 11:34:11 +0000
+- **[AMD Ryzen 7 5800X3D sells for more than 9800X3D, enthusiasts flock to AM4 DDR4](https://www.tomshardware.com/pc-components/cpus/amds-legacy-ryzen-7-5800x3d-chips-now-sell-for-up-to-usd800-more-than-a-new-9800x3d-am4-chip-costs-twice-as-much-as-msrp-as-enthusiasts-flock-to-old-ddr4-memory)**
+  *<p>Article URL: <a href="https://www.tomshardware.com/pc-components/cpus/amds-legacy-ryzen-7-5800x3d-chips-now-sell-for-up-to-usd800-more-than-a-new-9800x3d-am4-chip-costs-twice-as-much-as-msrp-as-ent...*
+  📅 Fri, 19 Dec 2025 17:15:53 +0000
 
-- **[Show HN: Hacker News, but every headline is hysterical clickbait](https://dosaygo-studio.github.io/hn-front-page-2035/news-max.html)**
-  *<p>Article URL: <a href="https://dosaygo-studio.github.io/hn-front-page-2035/news-max.html">https://dosaygo-studio.github.io/hn-front-page-2035/news-max.html</a></p>
-<p>Comments URL: <a href="https://...*
-  📅 Fri, 19 Dec 2025 11:21:45 +0000
+- **[Show HN: I Made Loom for Mobile](https://demoscope.app)**
+  *<p>An app to make demo vids<p>Of course I have a demo vid: <a href="https://www.youtube.com/watch?v=c_fq0TzlsXI" rel="nofollow">https://www.youtube.com/watch?v=c_fq0TzlsXI</a><p>This will be my last p...*
+  📅 Fri, 19 Dec 2025 17:08:32 +0000
 
-- **[GotaTun -- Mullvad's WireGuard Implementation in Rust](https://mullvad.net/en/blog/announcing-gotatun-the-future-of-wireguard-at-mullvad-vpn)**
-  *<p>Article URL: <a href="https://mullvad.net/en/blog/announcing-gotatun-the-future-of-wireguard-at-mullvad-vpn">https://mullvad.net/en/blog/announcing-gotatun-the-future-of-wireguard-at-mullvad-vpn</a...*
-  📅 Fri, 19 Dec 2025 11:16:23 +0000
+- **[Prepare for That Stupid World](https://ploum.net/2025-12-19-prepare-for-that-world.html)**
+  *<p>Article URL: <a href="https://ploum.net/2025-12-19-prepare-for-that-world.html">https://ploum.net/2025-12-19-prepare-for-that-world.html</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.c...*
+  📅 Fri, 19 Dec 2025 17:01:56 +0000
 
-- **[Amazon will allow ePub and PDF downloads for DRM-free eBooks](https://www.kdpcommunity.com/s/article/New-eBook-Download-Options-for-Readers-Coming-in-2026?language=en_US)**
-  *<p>Article URL: <a href="https://www.kdpcommunity.com/s/article/New-eBook-Download-Options-for-Readers-Coming-in-2026?language=en_US">https://www.kdpcommunity.com/s/article/New-eBook-Download-Options-...*
-  📅 Fri, 19 Dec 2025 10:03:38 +0000
+- **[I have to give Fortnite my passport to use Bluesky](https://spitfirenews.com/p/why-i-have-to-give-fortnite-my-passport-to-use-bluesky)**
+  *<p>Article URL: <a href="https://spitfirenews.com/p/why-i-have-to-give-fortnite-my-passport-to-use-bluesky">https://spitfirenews.com/p/why-i-have-to-give-fortnite-my-passport-to-use-bluesky</a></p>
+<p...*
+  📅 Fri, 19 Dec 2025 16:42:30 +0000
 
-- **[Making Google Sans Flex](https://design.google/library/google-sans-flex-font)**
-  *<p>Article URL: <a href="https://design.google/library/google-sans-flex-font">https://design.google/library/google-sans-flex-font</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id...*
-  📅 Fri, 19 Dec 2025 06:10:02 +0000
+- **[TikTok Deal Is the Shittiest Possible Outcome, Making Everything Worse](https://www.techdirt.com/2025/12/19/tiktok-deal-done-and-its-somehow-the-shittiest-possible-outcome-making-everything-worse/)**
+  *<p>Article URL: <a href="https://www.techdirt.com/2025/12/19/tiktok-deal-done-and-its-somehow-the-shittiest-possible-outcome-making-everything-worse/">https://www.techdirt.com/2025/12/19/tiktok-deal-d...*
+  📅 Fri, 19 Dec 2025 16:14:39 +0000
 
-- **[2026 Apple introducing more ads to increase opportunity in search results](https://ads.apple.com/app-store/help/ad-placements/0082-search-results)**
-  *<p>Article URL: <a href="https://ads.apple.com/app-store/help/ad-placements/0082-search-results">https://ads.apple.com/app-store/help/ad-placements/0082-search-results</a></p>
-<p>Comments URL: <a href...*
-  📅 Fri, 19 Dec 2025 05:38:25 +0000
+- **[Cursor Acquires Graphite](https://graphite.com/blog/graphite-joins-cursor)**
+  *<p>Article URL: <a href="https://graphite.com/blog/graphite-joins-cursor">https://graphite.com/blog/graphite-joins-cursor</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=4632732...*
+  📅 Fri, 19 Dec 2025 16:07:42 +0000
 
 ### 📑 TechCrunch
 
-- **[TikTok agrees to deal to cede control of US business to American investor group](https://techcrunch.com/2025/12/18/tiktok-agrees-to-deal-to-cede-control-of-u-s-business-to-american-investor-group/)**
-  *The deal closes a long-running drama in which U.S. authorities have sought to compel ByteDance to divest....*
-  📅 Fri, 19 Dec 2025 00:56:44 +0000
+- **[Netflix is betting on podcasts to become the new daytime talk show](https://techcrunch.com/2025/12/19/netflix-is-betting-on-podcasts-to-become-the-new-daytime-talk-show/)**
+  *Netflix is making exclusive deals with podcast studios to compete with YouTube, but podcasters have mixed feelings....*
+  📅 Fri, 19 Dec 2025 18:13:26 +0000
 
-- **[Apple becomes a debt collector with its new developer agreement](https://techcrunch.com/2025/12/18/apple-becomes-a-debt-collector-with-its-new-developer-agreement/)**
-  *Apple says it can now collect any money a developer owes the tech giant at any time....*
-  📅 Thu, 18 Dec 2025 23:56:19 +0000
+- **[OpenAI adds new teen safety rules to ChatGPT as lawmakers weigh AI standards for minors](https://techcrunch.com/2025/12/19/openai-adds-new-teen-safety-rules-to-models-as-lawmakers-weigh-ai-standards-for-minors/)**
+  *OpenAI updated its guidelines for how its AI models should behave with users under 18, and published new AI literacy resources for teens and parents. Still, questions remain about how well policies tr...*
+  📅 Fri, 19 Dec 2025 17:51:05 +0000
 
-- **[Instacart to pay $60M to settle FTC claims it deceived consumers](https://techcrunch.com/2025/12/18/instacart-to-pay-60m-to-settle-ftc-claims-it-deceived-consumers/)**
-  *The federal agency alleged Instacart misled consumers with unlawful tactics, causing them to pay higher fees while also denying refunds....*
-  📅 Thu, 18 Dec 2025 21:07:25 +0000
+- **[Known uses voice AI to help you go on more in-person dates](https://techcrunch.com/2025/12/19/known-uses-voice-ai-to-help-you-go-on-more-in-person-dates/)**
+  *In its test phase in San Francisco, Known said it observed 80% of its introductions led to physical dates, which is much higher than swipe-based dating apps....*
+  📅 Fri, 19 Dec 2025 17:23:34 +0000
 
-- **[ChatGPT launches an app store, lets developers know it’s open for business](https://techcrunch.com/2025/12/18/chatgpt-launches-an-app-store-lets-developers-know-its-open-for-business/)**
-  *OpenAI is looking to populate its flagship chatbot with a host of new user experiences....*
-  📅 Thu, 18 Dec 2025 20:22:50 +0000
+- **[Netflix acquires gaming avatar maker Ready Player Me](https://techcrunch.com/2025/12/19/netflix-acquires-gaming-avatar-maker-ready-player-me/)**
+  *The gaming startup will allow Netflix subscribers to create avatars that can extend across gaming titles....*
+  📅 Fri, 19 Dec 2025 17:00:00 +0000
 
-- **[Pickle Robot adds Tesla veteran as first CFO](https://techcrunch.com/2025/12/18/pickle-robot-adds-tesla-veteran-as-first-cfo/)**
-  *Jeff Evanson recently joined Pickle Robot as the company's first CFO as the startup has allegedly expanded its partnership with UPS....*
-  📅 Thu, 18 Dec 2025 20:01:46 +0000
+- **[Meta is developing a new image and video model for a 2026 release, report says](https://techcrunch.com/2025/12/19/meta-is-developing-a-new-image-and-video-model-for-a-2026-release-report-says/)**
+  *Meta aims to make the text-based model better at coding while also exploring new world models that understand visual information and can reason, plan, and act without needing to be trained on every po...*
+  📅 Fri, 19 Dec 2025 16:05:29 +0000
 
-- **[Why British politicians are flocking to American tech giants](https://techcrunch.com/2025/12/18/why-british-politicians-are-flocking-to-american-tech-giants/)**
-  *Former British Chancellor of the Exchequer George Osborne has joined OpenAI as managing director and head of OpenAI for Countries. He also will run Coinbase's internal advisory council....*
-  📅 Thu, 18 Dec 2025 19:50:23 +0000
+- **[Krafton hikes India bet with new $670M fund](https://techcrunch.com/2025/12/19/krafton-hikes-india-bet-with-new-670m-fund/)**
+  *Called the Unicorn Growth Fund, the investment vehicle is a collaboration between Krafton and South Korean internet conglomerate Naver and investor Mirae Asset. It aims to deploy around $669.3 million...*
+  📅 Fri, 19 Dec 2025 14:37:19 +0000
 
 ### 📑 Dev.to
 
-- **[The Great Terminal Prompt Revolution: Why I Replaced Years of Config With a Single Character](https://dev.to/eto303/the-great-terminal-prompt-revolution-why-i-replaced-years-of-config-with-a-single-character-2kbp)**
+- **[What is OCR Pre-fill?](https://dev.to/viktorle1294/what-is-ocr-pre-fill-4h0f)**
   *<blockquote>
-<p>Or: How I finally realized my beautiful prompt was slowly killing me</p>
-</blockquote>
+<p>OCR Pre-fill is a technology that uses Optical Character Recognition to automatically extract data from images or scanned documents (like IDs, invoices, forms) and instantly fill those...*
+  📅 Fri, 19 Dec 2025 18:08:35 +0000
 
-<p>I wanted to talk with you about something not usually discussed, terminals and the way one wo...*
-  📅 Fri, 19 Dec 2025 12:06:52 +0000
-
-- **[The Struggle Paradox](https://dev.to/rawveg/the-struggle-paradox-5968)**
-  *<p>In a gleaming classroom at Carnegie Mellon University, Vincent Aleven watches as a student wrestles with a particularly thorny calculus problem. The student's tutor—an AI system refined over decade...*
-  📅 Fri, 19 Dec 2025 12:00:00 +0000
+- **[Managing Mini-Page Memory: The Buffer Pool Behind Bf-Tree](https://dev.to/lovestaco/managing-mini-page-memory-the-buffer-pool-behind-bf-tree-12g6)**
+  *<p><em>Hello, I'm Maneshwar. I'm working on <a href="https://hexmos.com/freedevtools" rel="noopener noreferrer">FreeDevTools online</a> currently building **one place for all dev tools, cheat codes, a...*
+  📅 Fri, 19 Dec 2025 18:03:53 +0000
 
 </details>
 
 ## 🔥 Trending Repositories
+
+### 📈 Daily Trending
+
+- **[yeahhe365/gemini-nexus](https://github.com/yeahhe365/gemini-nexus)** ⭐ 93
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
+  A powerful browser extension that integrates Google Gemini AI directly into your web experience. Features include sidebar chat, OCR text extraction, area sniping, and conversation history.
+
+- **[Jstrom2022/aiVideo](https://github.com/Jstrom2022/aiVideo)** ⭐ 54
+  ![None](https://img.shields.io/badge/-None-lightgrey)
+  None
+
+- **[pPetrichor/WorldCanvas](https://github.com/pPetrichor/WorldCanvas)** ⭐ 51
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  None
+
+- **[lcw2014/AGI_HER_LLM](https://github.com/lcw2014/AGI_HER_LLM)** ⭐ 34
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  AGI_HER_LLM
+
+- **[Real-Sam/her-birthday](https://github.com/Real-Sam/her-birthday)** ⭐ 25
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
+  None
+
+- **[seongq/AGI_HER_SE](https://github.com/seongq/AGI_HER_SE)** ⭐ 23
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  None
+
+- **[joaomgcd/ADBCommandCenter](https://github.com/joaomgcd/ADBCommandCenter)** ⭐ 22
+  ![Kotlin](https://img.shields.io/badge/-Kotlin-lightgrey)
+  A central hub to control your device via Wireless Debugging
+
+- **[linux-do/credit](https://github.com/linux-do/credit)** ⭐ 19
+  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
+  LINUX DO Credit
+
+### 📈 Weekly Trending
+
+- **[productdevbook/port-killer](https://github.com/productdevbook/port-killer)** ⭐ 2,137
+  ![Swift](https://img.shields.io/badge/-Swift-lightgrey)
+  Native macOS app for finding and killing processes on open ports. Perfect for developers.
+
+- **[eooce/Gla-deploy](https://github.com/eooce/Gla-deploy)** ⭐ 1,162
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
+  None
+
+- **[Maxteabag/sqlit](https://github.com/Maxteabag/sqlit)** ⭐ 944
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  A user friendly TUI for SQL databases. Written in python. Supports SQL server, Mysql, PostreSQL and SQLite, Turso and more.
+
+- **[gaearon/rscexplorer](https://github.com/gaearon/rscexplorer)** ⭐ 772
+  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
+  A tool for people curious about the React Server Components protocol
+
+- **[agentskills/agentskills](https://github.com/agentskills/agentskills)** ⭐ 770
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  Specification and documentation for Agent Skills
+
+- **[XiaomiMiMo/MiMo-V2-Flash](https://github.com/XiaomiMiMo/MiMo-V2-Flash)** ⭐ 717
+  ![None](https://img.shields.io/badge/-None-lightgrey)
+  MiMo-V2-Flash: Efficient Reasoning, Coding, and Agentic Foundation Model
+
+- **[DGoettlich/history-llms](https://github.com/DGoettlich/history-llms)** ⭐ 662
+  ![None](https://img.shields.io/badge/-None-lightgrey)
+  Information hub for our project training the largest possible historical LLMs.
+
+- **[FunAudioLLM/Fun-ASR](https://github.com/FunAudioLLM/Fun-ASR)** ⭐ 439
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  Fun-ASR is an end-to-end speech recognition large model launched by Tongyi Lab. 
+
+### 📈 Monthly Trending
+
+- **[zai-org/Open-AutoGLM](https://github.com/zai-org/Open-AutoGLM)** ⭐ 17,970
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
+
+- **[karpathy/llm-council](https://github.com/karpathy/llm-council)** ⭐ 11,643
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  LLM Council works together to answer your hardest questions
+
+- **[Tongyi-MAI/Z-Image](https://github.com/Tongyi-MAI/Z-Image)** ⭐ 7,425
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  None
+
+- **[Anionex/banana-slides](https://github.com/Anionex/banana-slides)** ⭐ 4,801
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  一个基于nano banana pro🍌的原生AI PPT生成应用，迈向真正的＂Vibe PPT＂; 支持上传任意模板图片；上传任意素材&智能解析；一句话/大纲/页面描述自动生成PPT；口头修改指定区域、一键导出 - An AI-native PPT generator based on nano banana pro🍌
+
+- **[YouMind-OpenLab/awesome-nano-banana-pro-prompts](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts)** ⭐ 4,057
+  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
+  🍌 1000+ selected Nano Banana Pro prompts with images, multilingual support, and instant gallery preview. Open-source prompt engineering library
+
+- **[HisMax/RedInk](https://github.com/HisMax/RedInk)** ⭐ 3,930
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  红墨 - 基于🍌Nano Banana Pro🍌 的一站式小红书图文生成器 《一句话一张图片生成小红书图文》 Red Ink - A one-stop Xiaohongshu image-and-text generator based on the 🍌Nano Banana Pro🍌, "One Sentence, One Image: Generate Xiaohongshu Text and Images."
+
+- **[apple/ml-sharp](https://github.com/apple/ml-sharp)** ⭐ 3,558
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  Sharp Monocular View Synthesis in Less Than a Second
+
+- **[pshenok/server-survival](https://github.com/pshenok/server-survival)** ⭐ 3,458
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
+  Tower defense game that teaches cloud architecture. Build infrastructure, survive traffic, learn scaling.
 
 ## 🚀 Latest Releases
 
@@ -379,59 +478,59 @@ for a semver-minor rele...
 
 | Skill | Status |
 |-------|--------|
-| Java | 🟡 Learning |
+| Java | 🟢 Proficient |
 | Python | ⚪ Planned |
-| JavaScript | 🔴 Beginner |
-| TypeScript | 🟢 Proficient |
+| JavaScript | 🟢 Proficient |
+| TypeScript | 🔴 Beginner |
 | Go | 🟢 Proficient |
 
 ### Frameworks
 
 | Skill | Status |
 |-------|--------|
-| React | 🔴 Beginner |
-| Spring Boot | 🔴 Beginner |
-| Django | 🟡 Learning |
+| React | 🟢 Proficient |
+| Spring Boot | 🟡 Learning |
+| Django | 🔴 Beginner |
 | Node.js | 🔴 Beginner |
-| Next.js | 🟡 Learning |
+| Next.js | 🔴 Beginner |
 
 ### Cybersecurity
 
 | Skill | Status |
 |-------|--------|
-| Penetration Testing | 🔴 Beginner |
-| Web Security | 🟡 Learning |
+| Penetration Testing | ⚪ Planned |
+| Web Security | 🟢 Proficient |
 | Network Security | 🟡 Learning |
-| OWASP | 🔴 Beginner |
+| OWASP | 🟢 Proficient |
 
 ### Ai Ml
 
 | Skill | Status |
 |-------|--------|
-| Machine Learning | 🟢 Proficient |
-| Deep Learning | 🟢 Proficient |
+| Machine Learning | 🔴 Beginner |
+| Deep Learning | 🟡 Learning |
 | NLP | 🔴 Beginner |
 | Computer Vision | 🔴 Beginner |
-| TensorFlow | 🟢 Proficient |
-| PyTorch | 🟢 Proficient |
+| TensorFlow | ⚪ Planned |
+| PyTorch | 🟡 Learning |
 
 ### Devops
 
 | Skill | Status |
 |-------|--------|
-| Docker | 🟢 Proficient |
-| Kubernetes | 🟢 Proficient |
-| CI/CD | ⚪ Planned |
-| AWS | 🟢 Proficient |
+| Docker | 🟡 Learning |
+| Kubernetes | 🟡 Learning |
+| CI/CD | 🟡 Learning |
+| AWS | 🔴 Beginner |
 | Azure | 🔴 Beginner |
 
 ### Other
 
 | Skill | Status |
 |-------|--------|
-| Blockchain | 🟢 Proficient |
+| Blockchain | ⚪ Planned |
 | Web3 | ⚪ Planned |
-| Cloud Computing | 🟡 Learning |
+| Cloud Computing | 🔴 Beginner |
 
 </details>
 
