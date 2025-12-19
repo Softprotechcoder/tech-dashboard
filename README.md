@@ -20,7 +20,7 @@
 | Metric | Count |
 |--------|-------|
 | 📰 Latest News Articles | 26 |
-| 🔥 Trending Repositories | 45 |
+| 🔥 Trending Repositories | 0 |
 | 🎯 Latest Releases | 10 |
 | 🎯 Learning Goals | 4 |
 
@@ -46,35 +46,32 @@
 
 ### 📑 Hacker News
 
+- **[Show HN: I open-sourced my Go and Next B2B SaaS Starter (deploy anywhere, MIT)](https://github.com/moasq/production-saas-starter)**
+  *<p>Hi HN, I'm Mohammed, a technical founder who loves shipping and giving back to the community. I'm open-sourcing the full-stack engine that powers my B2B product, apflow.co.<p>What it is: A producti...*
+  📅 Fri, 19 Dec 2025 11:34:11 +0000
+
+- **[Show HN: Hacker News, but every headline is hysterical clickbait](https://dosaygo-studio.github.io/hn-front-page-2035/news-max.html)**
+  *<p>Article URL: <a href="https://dosaygo-studio.github.io/hn-front-page-2035/news-max.html">https://dosaygo-studio.github.io/hn-front-page-2035/news-max.html</a></p>
+<p>Comments URL: <a href="https://...*
+  📅 Fri, 19 Dec 2025 11:21:45 +0000
+
+- **[GotaTun -- Mullvad's WireGuard Implementation in Rust](https://mullvad.net/en/blog/announcing-gotatun-the-future-of-wireguard-at-mullvad-vpn)**
+  *<p>Article URL: <a href="https://mullvad.net/en/blog/announcing-gotatun-the-future-of-wireguard-at-mullvad-vpn">https://mullvad.net/en/blog/announcing-gotatun-the-future-of-wireguard-at-mullvad-vpn</a...*
+  📅 Fri, 19 Dec 2025 11:16:23 +0000
+
+- **[Amazon will allow ePub and PDF downloads for DRM-free eBooks](https://www.kdpcommunity.com/s/article/New-eBook-Download-Options-for-Readers-Coming-in-2026?language=en_US)**
+  *<p>Article URL: <a href="https://www.kdpcommunity.com/s/article/New-eBook-Download-Options-for-Readers-Coming-in-2026?language=en_US">https://www.kdpcommunity.com/s/article/New-eBook-Download-Options-...*
+  📅 Fri, 19 Dec 2025 10:03:38 +0000
+
+- **[Making Google Sans Flex](https://design.google/library/google-sans-flex-font)**
+  *<p>Article URL: <a href="https://design.google/library/google-sans-flex-font">https://design.google/library/google-sans-flex-font</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id...*
+  📅 Fri, 19 Dec 2025 06:10:02 +0000
+
 - **[2026 Apple introducing more ads to increase opportunity in search results](https://ads.apple.com/app-store/help/ad-placements/0082-search-results)**
   *<p>Article URL: <a href="https://ads.apple.com/app-store/help/ad-placements/0082-search-results">https://ads.apple.com/app-store/help/ad-placements/0082-search-results</a></p>
 <p>Comments URL: <a href...*
   📅 Fri, 19 Dec 2025 05:38:25 +0000
-
-- **[Getting bitten by Intel's poor naming scenes](https://lorendb.dev/posts/getting-bitten-by-poor-naming-schemes/)**
-  *<p>Article URL: <a href="https://lorendb.dev/posts/getting-bitten-by-poor-naming-schemes/">https://lorendb.dev/posts/getting-bitten-by-poor-naming-schemes/</a></p>
-<p>Comments URL: <a href="https://ne...*
-  📅 Fri, 19 Dec 2025 05:35:34 +0000
-
-- **[Reconstructed Commander Keen 1-3 Source Code](https://pckf.com/viewtopic.php?t=18248)**
-  *<p>Article URL: <a href="https://pckf.com/viewtopic.php?t=18248">https://pckf.com/viewtopic.php?t=18248</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46321982">https://news.yc...*
-  📅 Fri, 19 Dec 2025 03:26:52 +0000
-
-- **[Noclip.website – A digital museum of video game levels](https://noclip.website/)**
-  *<p>Article URL: <a href="https://noclip.website/">https://noclip.website/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46321619">https://news.ycombinator.com/item?id=46321619...*
-  📅 Fri, 19 Dec 2025 02:20:08 +0000
-
-- **[SMB Direct – SMB3 over RDMA – The Linux Kernel Documentation](https://docs.kernel.org/filesystems/smb/smbdirect.html)**
-  *<p>Article URL: <a href="https://docs.kernel.org/filesystems/smb/smbdirect.html">https://docs.kernel.org/filesystems/smb/smbdirect.html</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/i...*
-  📅 Fri, 19 Dec 2025 01:42:02 +0000
-
-- **[Great ideas in theoretical computer science](https://www.cs251.com/)**
-  *<p>Article URL: <a href="https://www.cs251.com/">https://www.cs251.com/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46319946">https://news.ycombinator.com/item?id=46319946</...*
-  📅 Thu, 18 Dec 2025 22:52:06 +0000
 
 ### 📑 TechCrunch
 
@@ -104,122 +101,21 @@
 
 ### 📑 Dev.to
 
-- **[Building a "Legal Killer": An AI Agent Architecture Without the Margin for Error](https://dev.to/lag_lagendary/building-a-legal-killer-an-ai-agent-architecture-without-the-margin-for-error-1fao)**
-  *<p>In this article, we'll explore how to build a local legal risk analysis system that doesn't "hallucinate" text, but instead relies on hard links to the legal framework and case law.<br />
-Problem: ...*
-  📅 Fri, 19 Dec 2025 06:10:13 +0000
+- **[The Great Terminal Prompt Revolution: Why I Replaced Years of Config With a Single Character](https://dev.to/eto303/the-great-terminal-prompt-revolution-why-i-replaced-years-of-config-with-a-single-character-2kbp)**
+  *<blockquote>
+<p>Or: How I finally realized my beautiful prompt was slowly killing me</p>
+</blockquote>
 
-- **[Avengers Assemble: How I Built a Superhero AI Team for Software Development](https://dev.to/cammanhhoang/avengers-assemble-how-i-built-a-superhero-ai-team-for-software-development-3ojg)**
-  *<p><strong>"I'm here to talk to you about the Avenger Initiative."</strong></p>
+<p>I wanted to talk with you about something not usually discussed, terminals and the way one wo...*
+  📅 Fri, 19 Dec 2025 12:06:52 +0000
 
-<p>As developers using advanced AI IDEs like <strong>Google Antigravity</strong> or <strong>Cursor</strong>, we often f...*
-  📅 Fri, 19 Dec 2025 06:04:56 +0000
+- **[The Struggle Paradox](https://dev.to/rawveg/the-struggle-paradox-5968)**
+  *<p>In a gleaming classroom at Carnegie Mellon University, Vincent Aleven watches as a student wrestles with a particularly thorny calculus problem. The student's tutor—an AI system refined over decade...*
+  📅 Fri, 19 Dec 2025 12:00:00 +0000
 
 </details>
 
 ## 🔥 Trending Repositories
-
-### 📈 Daily Trending
-
-- **[lcw2014/AGI_HER_LLM](https://github.com/lcw2014/AGI_HER_LLM)** ⭐ 34
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  AGI_HER_LLM
-
-- **[seongq/AGI_HER_SE](https://github.com/seongq/AGI_HER_SE)** ⭐ 23
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  None
-
-- **[pPetrichor/WorldCanvas](https://github.com/pPetrichor/WorldCanvas)** ⭐ 20
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  None
-
-- **[yeahhe365/gemini-nexus](https://github.com/yeahhe365/gemini-nexus)** ⭐ 19
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
-  A powerful browser extension that integrates Google Gemini AI directly into your web experience. Features include sidebar chat, OCR text extraction, area sniping, and conversation history.
-
-- **[zep-us/otlpxy](https://github.com/zep-us/otlpxy)** ⭐ 12
-  ![Go](https://img.shields.io/badge/-Go-cyan)
-  A lightweight OTLP proxy service
-
-- **[StartHua/Prompt-Factory](https://github.com/StartHua/Prompt-Factory)** ⭐ 11
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  AI Prompt Factory - Automated High-Quality Prompt Suite Generation
-
-- **[seas2nada/AGI_HER_ASR](https://github.com/seas2nada/AGI_HER_ASR)** ⭐ 8
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  End-to-end ASR repository for AGI
-
-- **[sundt/TrendRadar-Plus](https://github.com/sundt/TrendRadar-Plus)** ⭐ 6
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  None
-
-### 📈 Weekly Trending
-
-- **[productdevbook/port-killer](https://github.com/productdevbook/port-killer)** ⭐ 1,924
-  ![Swift](https://img.shields.io/badge/-Swift-lightgrey)
-  Native macOS menu bar app for finding and killing processes on open ports. Perfect for developers.
-
-- **[eooce/Gla-deploy](https://github.com/eooce/Gla-deploy)** ⭐ 1,146
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
-  None
-
-- **[Maxteabag/sqlit](https://github.com/Maxteabag/sqlit)** ⭐ 830
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  A user friendly TUI for SQL databases. Written in python. Supports SQL server, Mysql, PostreSQL and SQLite, Turso and more.
-
-- **[gaearon/rscexplorer](https://github.com/gaearon/rscexplorer)** ⭐ 745
-  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
-  A tool for people curious about the React Server Components protocol
-
-- **[XiaomiMiMo/MiMo-V2-Flash](https://github.com/XiaomiMiMo/MiMo-V2-Flash)** ⭐ 671
-  ![None](https://img.shields.io/badge/-None-lightgrey)
-  MiMo-V2-Flash: Efficient Reasoning, Coding, and Agentic Foundation Model
-
-- **[FunAudioLLM/Fun-ASR](https://github.com/FunAudioLLM/Fun-ASR)** ⭐ 423
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  Fun-ASR is an end-to-end speech recognition large model launched by Tongyi Lab. 
-
-- **[agentskills/agentskills](https://github.com/agentskills/agentskills)** ⭐ 423
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  Specification and documentation for Agent Skills
-
-- **[GuDaStudio/skills](https://github.com/GuDaStudio/skills)** ⭐ 338
-  ![PowerShell](https://img.shields.io/badge/-PowerShell-lightgrey)
-  This repository contains a collection of Agent Skills developed by GudaStudio, enabling seamless collaboration between Claude and other AI models and tools.
-
-### 📈 Monthly Trending
-
-- **[zai-org/Open-AutoGLM](https://github.com/zai-org/Open-AutoGLM)** ⭐ 17,780
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
-
-- **[karpathy/llm-council](https://github.com/karpathy/llm-council)** ⭐ 11,616
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  LLM Council works together to answer your hardest questions
-
-- **[Tongyi-MAI/Z-Image](https://github.com/Tongyi-MAI/Z-Image)** ⭐ 7,375
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  None
-
-- **[Anionex/banana-slides](https://github.com/Anionex/banana-slides)** ⭐ 4,589
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  一个基于nano banana pro🍌的原生AI PPT生成应用，迈向真正的＂Vibe PPT＂; 支持上传任意模板图片；上传任意素材&智能解析；一句话/大纲/页面描述自动生成PPT；口头修改指定区域、一键导出 - An AI-native PPT generator based on nano banana pro🍌
-
-- **[YouMind-OpenLab/awesome-nano-banana-pro-prompts](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts)** ⭐ 4,034
-  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
-  🍌 1000+ selected Nano Banana Pro prompts with images, multilingual support, and instant gallery preview. Open-source prompt engineering library
-
-- **[HisMax/RedInk](https://github.com/HisMax/RedInk)** ⭐ 3,907
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  红墨 - 基于🍌Nano Banana Pro🍌 的一站式小红书图文生成器 《一句话一张图片生成小红书图文》 Red Ink - A one-stop Xiaohongshu image-and-text generator based on the 🍌Nano Banana Pro🍌, "One Sentence, One Image: Generate Xiaohongshu Text and Images."
-
-- **[pshenok/server-survival](https://github.com/pshenok/server-survival)** ⭐ 3,440
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
-  Tower defense game that teaches cloud architecture. Build infrastructure, survive traffic, learn scaling.
-
-- **[Facepunch/sbox-public](https://github.com/Facepunch/sbox-public)** ⭐ 3,414
-  ![C#](https://img.shields.io/badge/-C#-lightgrey)
-  s&box is a modern game engine, built on Valve's Source 2 and the latest .NET technology, it provides a modern intuitive editor for creating games
 
 ## 🚀 Latest Releases
 
@@ -484,57 +380,57 @@ for a semver-minor rele...
 | Skill | Status |
 |-------|--------|
 | Java | 🟡 Learning |
-| Python | 🟢 Proficient |
-| JavaScript | 🟢 Proficient |
-| TypeScript | 🔴 Beginner |
-| Go | 🔴 Beginner |
+| Python | ⚪ Planned |
+| JavaScript | 🔴 Beginner |
+| TypeScript | 🟢 Proficient |
+| Go | 🟢 Proficient |
 
 ### Frameworks
 
 | Skill | Status |
 |-------|--------|
-| React | ⚪ Planned |
-| Spring Boot | 🟢 Proficient |
-| Django | 🟢 Proficient |
-| Node.js | 🟢 Proficient |
-| Next.js | 🔴 Beginner |
+| React | 🔴 Beginner |
+| Spring Boot | 🔴 Beginner |
+| Django | 🟡 Learning |
+| Node.js | 🔴 Beginner |
+| Next.js | 🟡 Learning |
 
 ### Cybersecurity
 
 | Skill | Status |
 |-------|--------|
 | Penetration Testing | 🔴 Beginner |
-| Web Security | 🟢 Proficient |
-| Network Security | 🔴 Beginner |
+| Web Security | 🟡 Learning |
+| Network Security | 🟡 Learning |
 | OWASP | 🔴 Beginner |
 
 ### Ai Ml
 
 | Skill | Status |
 |-------|--------|
-| Machine Learning | 🔴 Beginner |
-| Deep Learning | 🔴 Beginner |
-| NLP | 🟢 Proficient |
-| Computer Vision | 🟡 Learning |
-| TensorFlow | ⚪ Planned |
+| Machine Learning | 🟢 Proficient |
+| Deep Learning | 🟢 Proficient |
+| NLP | 🔴 Beginner |
+| Computer Vision | 🔴 Beginner |
+| TensorFlow | 🟢 Proficient |
 | PyTorch | 🟢 Proficient |
 
 ### Devops
 
 | Skill | Status |
 |-------|--------|
-| Docker | 🟡 Learning |
-| Kubernetes | ⚪ Planned |
-| CI/CD | 🔴 Beginner |
+| Docker | 🟢 Proficient |
+| Kubernetes | 🟢 Proficient |
+| CI/CD | ⚪ Planned |
 | AWS | 🟢 Proficient |
-| Azure | 🟡 Learning |
+| Azure | 🔴 Beginner |
 
 ### Other
 
 | Skill | Status |
 |-------|--------|
-| Blockchain | 🟡 Learning |
-| Web3 | 🔴 Beginner |
+| Blockchain | 🟢 Proficient |
+| Web3 | ⚪ Planned |
 | Cloud Computing | 🟡 Learning |
 
 </details>
