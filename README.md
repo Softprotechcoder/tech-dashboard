@@ -46,10 +46,15 @@
 
 ### 📑 Hacker News
 
-- **[We ran Anthropic’s interviews through structured LLM analysis](https://www.playbookatlas.com/research/ai-adoption-explorer)**
-  *<p>Article URL: <a href="https://www.playbookatlas.com/research/ai-adoption-explorer">https://www.playbookatlas.com/research/ai-adoption-explorer</a></p>
-<p>Comments URL: <a href="https://news.ycombin...*
-  📅 Fri, 19 Dec 2025 22:48:24 +0000
+- **[Android introduces $2-4 install fee and 10–20% cut for US external content links](https://support.google.com/googleplay/android-developer/answer/16470497?hl=en)**
+  *<p>Article URL: <a href="https://support.google.com/googleplay/android-developer/answer/16470497?hl=en">https://support.google.com/googleplay/android-developer/answer/16470497?hl=en</a></p>
+<p>Comment...*
+  📅 Sat, 20 Dec 2025 05:00:55 +0000
+
+- **[Build Your Own React](https://pomb.us/build-your-own-react/)**
+  *<p>Article URL: <a href="https://pomb.us/build-your-own-react/">https://pomb.us/build-your-own-react/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46332526">https://news.ycom...*
+  📅 Sat, 20 Dec 2025 00:16:13 +0000
 
 - **[CSS Grid Lanes](https://webkit.org/blog/17660/introducing-css-grid-lanes/)**
   *<p>Article URL: <a href="https://webkit.org/blog/17660/introducing-css-grid-lanes/">https://webkit.org/blog/17660/introducing-css-grid-lanes/</a></p>
@@ -61,7 +66,7 @@
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=46331379">htt...*
   📅 Fri, 19 Dec 2025 21:52:07 +0000
 
-- **[A Better Zip Bomb](https://www.bamsoftware.com/hacks/zipbomb/)**
+- **[A better zip bomb (2019)](https://www.bamsoftware.com/hacks/zipbomb/)**
   *<p>Article URL: <a href="https://www.bamsoftware.com/hacks/zipbomb/">https://www.bamsoftware.com/hacks/zipbomb/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=46331216">https:/...*
   📅 Fri, 19 Dec 2025 21:34:10 +0000
@@ -71,12 +76,11 @@
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=4...*
   📅 Fri, 19 Dec 2025 20:49:20 +0000
 
-- **[The scariest boot loader code](http://miod.online.fr/software/openbsd/stories/boot_hppa.html)**
-  *<p>Article URL: <a href="http://miod.online.fr/software/openbsd/stories/boot_hppa.html">http://miod.online.fr/software/openbsd/stories/boot_hppa.html</a></p>
-<p>Comments URL: <a href="https://news.yco...*
-  📅 Fri, 19 Dec 2025 20:29:53 +0000
-
 ### 📑 TechCrunch
+
+- **[Sequoia partner spreads debunked Brown shooting theory, testing new leadership](https://techcrunch.com/2025/12/19/sequoia-partner-spreads-debunked-brown-shooting-theory-testing-new-leadership/)**
+  *The newest episode raises questions about whether Sequoia's new leadership -- managing partners Alfred Lin and Pat Grady, who took over last month -- can or will rein in Maguire's social media activit...*
+  📅 Sat, 20 Dec 2025 02:31:43 +0000
 
 - **[Ex-Splunk execs’ startup Resolve AI hits $1 billion valuation with Series A](https://techcrunch.com/2025/12/19/ex-splunk-execs-startup-resolve-ai-hits-1-billion-valuation-with-series-a/)**
   *The round was led by Lightspeed Venture Partners, according to people familiar with the deal....*
@@ -98,24 +102,21 @@
   *Investors at TechCrunch Disrupt explained their focus on artificial intelligence and offered advice to founders on how to stand out in a crowded AI field....*
   📅 Fri, 19 Dec 2025 22:00:00 +0000
 
-- **[Cursor continues acquisition spree with Graphite deal](https://techcrunch.com/2025/12/19/cursor-continues-acquisition-spree-with-graphite-deal/)**
-  *Graphite is an AI code review assistant that was last valued at $290 million....*
-  📅 Fri, 19 Dec 2025 21:51:22 +0000
-
 ### 📑 Dev.to
 
-- **[Automating Go App Deployment to Google Cloud Run with GitHub Actions(Free Tier)](https://dev.to/kskiii/automating-go-app-deployment-to-google-cloud-run-with-github-actionsfree-tier-4995)**
-  *<p>Hi, everyone! This is my first article on dev.to.👋 <br />
-I recently built a <strong>Go application</strong> and deployed it, using <strong>Google Cloud Run</strong> and <strong>GitHub Actions</str...*
-  📅 Sat, 20 Dec 2025 00:40:52 +0000
+- **[I built a SaaS to solve my own problem — now I’m unsure whether to scale it or move on](https://dev.to/rushikesh_bodakhe_db28644/i-built-a-saas-to-solve-my-own-problem-now-im-unsure-whether-to-scale-it-or-move-on-391j)**
+  *<p>Over the past few months, I built a small SaaS project as a solo developer.</p>
 
-- **[A small UX change that immediately reduced user confusion](https://dev.to/forgeindex/a-small-ux-change-that-immediately-reduced-user-confusion-3mc9)**
-  *<p>I recently launched a small side project and felt pretty confident about the UX.</p>
+<p>It didn’t start as a startup idea. It started as annoyance.</p>
 
-<p>Turns out I was wrong, but in a specific way.</p>
+<p>Every time I worked on a side project or laun...*
+  📅 Sat, 20 Dec 2025 06:08:08 +0000
 
-<p>The search feature itself worked perfectly. It had liv...*
-  📅 Sat, 20 Dec 2025 00:29:49 +0000
+- **[How I Built an MCP App to Roast My GitHub Year in Review](https://dev.to/blackgirlbytes/how-i-built-an-mcp-app-to-roast-my-github-year-in-review-28gh)**
+  *<p>I love GitHub Unwrapped because it lets me see all the progress (or lack of progress) I've made over the past year. Sidenote: I will be posting my GitHub Unwrapped on December 31st. </p>
+
+<p>I want...*
+  📅 Sat, 20 Dec 2025 06:07:09 +0000
 
 </details>
 
@@ -123,103 +124,103 @@ I recently built a <strong>Go application</strong> and deployed it, using <stron
 
 ### 📈 Daily Trending
 
-- **[jhonharriss/raicesfantasia-comments](https://github.com/jhonharriss/raicesfantasia-comments)** ⭐ 1
-  ![None](https://img.shields.io/badge/-None-lightgrey)
-  Comentarios para Raíces de la Fantasía - Web de ciencia, historia y MMORPGs
-
-- **[fantasyfist0320/yt-navigator](https://github.com/fantasyfist0320/yt-navigator)** ⭐ 1
-  ![Python](https://img.shields.io/badge/-Python-blue)
+- **[jieyou-io/phone-agent-xiaozhi](https://github.com/jieyou-io/phone-agent-xiaozhi)** ⭐ 7
+  ![Kotlin](https://img.shields.io/badge/-Kotlin-lightgrey)
   None
 
-- **[nauresearcher/robet](https://github.com/nauresearcher/robet)** ⭐ 1
-  ![None](https://img.shields.io/badge/-None-lightgrey)
-  While I value intellect, I believe that brilliance is nothing without kindness. I am naturally an upbeat and cheerful person. I’ve often been told that my energy is "contagious." I believe that a positive attitude is the foundation of any successful project or relationship.
+- **[MD-Mushfiqur123/Cloude](https://github.com/MD-Mushfiqur123/Cloude)** ⭐ 6
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
+  a free opensource cloude storage
 
-- **[crothen/rabbit_hunting](https://github.com/crothen/rabbit_hunting)** ⭐ 1
+- **[grcengineering/gigachad-grc](https://github.com/grcengineering/gigachad-grc)** ⭐ 5
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   None
 
-- **[wissalouarda6/GDSS-PROMETHEE](https://github.com/wissalouarda6/GDSS-PROMETHEE)** ⭐ 1
+- **[cxxxr/clysm](https://github.com/cxxxr/clysm)** ⭐ 4
+  ![Common Lisp](https://img.shields.io/badge/-Common Lisp-lightgrey)
+  Common Lisp to WebAssembly compiler using WasmGC
+
+- **[kokushin/super-soundboard](https://github.com/kokushin/super-soundboard)** ⭐ 3
+  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
+  https://x.com/kokushing/status/2001924086801514735
+
+- **[tiann/execplan-skill](https://github.com/tiann/execplan-skill)** ⭐ 3
+  ![None](https://img.shields.io/badge/-None-lightgrey)
+  An [Agent Skill](https://agentskills.io) that enables AI coding agents to tackle complex, long-running implementation tasks autonomously.
+
+- **[maui671/meshtak](https://github.com/maui671/meshtak)** ⭐ 3
   ![Python](https://img.shields.io/badge/-Python-blue)
-  un système complet d'aide à la décision de groupe basé sur la méthode multicritère PROMETHEE II. Il permet à plusieurs décideurs de collaborer pour évaluer et sélectionner des actions/alternatives selon leurs propres critères et préférences.
+  None
 
-- **[the-emptyspace/the-emptyspace](https://github.com/the-emptyspace/the-emptyspace)** ⭐ 1
-  ![None](https://img.shields.io/badge/-None-lightgrey)
-  Coding in the empty space. Development defined by the four pillars of Peter Brook: the Deadly, the Holy, the Rough, and the Immediate.
-
-- **[gat367329-debug/AKASH.](https://github.com/gat367329-debug/AKASH.)** ⭐ 1
-  ![None](https://img.shields.io/badge/-None-lightgrey)
-  {   "showDialog": true,   "latestVersionCode": 2,   "latestVersionName": "1.1",    "title": "👉 TEAMXVIP 👈",   "message": "DOWNLOAD AVAILABLE\n\nGet the newest features and improvements.",    "UpdateButtonText": "DOWNLOAD",   "UpdateButtonUrl": "https://t.me/+XKlCak_obP8yZGE1" }
-
-- **[not-ani/better-finder](https://github.com/not-ani/better-finder)** ⭐ 1
-  ![Rust](https://img.shields.io/badge/-Rust-brown)
-  A better file explorer for macOS, written in rust
+- **[rrr333nnn333/BRENE](https://github.com/rrr333nnn333/BRENE)** ⭐ 3
+  ![Shell](https://img.shields.io/badge/-Shell-lightgrey)
+  A KernelSU module
 
 ### 📈 Weekly Trending
 
-- **[productdevbook/port-killer](https://github.com/productdevbook/port-killer)** ⭐ 2,180
+- **[productdevbook/port-killer](https://github.com/productdevbook/port-killer)** ⭐ 2,204
   ![Swift](https://img.shields.io/badge/-Swift-lightgrey)
   Native macOS app for finding and killing processes on open ports. Perfect for developers.
 
-- **[agentskills/agentskills](https://github.com/agentskills/agentskills)** ⭐ 873
+- **[agentskills/agentskills](https://github.com/agentskills/agentskills)** ⭐ 950
   ![Python](https://img.shields.io/badge/-Python-blue)
   Specification and documentation for Agent Skills
 
-- **[gaearon/rscexplorer](https://github.com/gaearon/rscexplorer)** ⭐ 785
+- **[gaearon/rscexplorer](https://github.com/gaearon/rscexplorer)** ⭐ 791
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   A tool for people curious about the React Server Components protocol
 
-- **[DGoettlich/history-llms](https://github.com/DGoettlich/history-llms)** ⭐ 740
+- **[DGoettlich/history-llms](https://github.com/DGoettlich/history-llms)** ⭐ 789
   ![None](https://img.shields.io/badge/-None-lightgrey)
   Information hub for our project training the largest possible historical LLMs.
 
-- **[XiaomiMiMo/MiMo-V2-Flash](https://github.com/XiaomiMiMo/MiMo-V2-Flash)** ⭐ 723
+- **[XiaomiMiMo/MiMo-V2-Flash](https://github.com/XiaomiMiMo/MiMo-V2-Flash)** ⭐ 726
   ![None](https://img.shields.io/badge/-None-lightgrey)
   MiMo-V2-Flash: Efficient Reasoning, Coding, and Agentic Foundation Model
 
-- **[FunAudioLLM/Fun-ASR](https://github.com/FunAudioLLM/Fun-ASR)** ⭐ 440
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  Fun-ASR is an end-to-end speech recognition large model launched by Tongyi Lab. 
-
-- **[2025Emma/vibe-coding-cn](https://github.com/2025Emma/vibe-coding-cn)** ⭐ 427
+- **[2025Emma/vibe-coding-cn](https://github.com/2025Emma/vibe-coding-cn)** ⭐ 496
   ![Python](https://img.shields.io/badge/-Python-blue)
   None
 
-- **[GuDaStudio/skills](https://github.com/GuDaStudio/skills)** ⭐ 391
+- **[FunAudioLLM/Fun-ASR](https://github.com/FunAudioLLM/Fun-ASR)** ⭐ 441
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  Fun-ASR is an end-to-end speech recognition large model launched by Tongyi Lab. 
+
+- **[GuDaStudio/skills](https://github.com/GuDaStudio/skills)** ⭐ 416
   ![PowerShell](https://img.shields.io/badge/-PowerShell-lightgrey)
   This repository contains a collection of Agent Skills developed by GudaStudio, enabling seamless collaboration between Claude and other AI models and tools.
 
 ### 📈 Monthly Trending
 
-- **[zai-org/Open-AutoGLM](https://github.com/zai-org/Open-AutoGLM)** ⭐ 17,989
+- **[zai-org/Open-AutoGLM](https://github.com/zai-org/Open-AutoGLM)** ⭐ 18,045
   ![Python](https://img.shields.io/badge/-Python-blue)
   An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
 
-- **[karpathy/llm-council](https://github.com/karpathy/llm-council)** ⭐ 11,661
+- **[karpathy/llm-council](https://github.com/karpathy/llm-council)** ⭐ 11,673
   ![Python](https://img.shields.io/badge/-Python-blue)
   LLM Council works together to answer your hardest questions
 
-- **[Tongyi-MAI/Z-Image](https://github.com/Tongyi-MAI/Z-Image)** ⭐ 7,437
+- **[Tongyi-MAI/Z-Image](https://github.com/Tongyi-MAI/Z-Image)** ⭐ 7,449
   ![Python](https://img.shields.io/badge/-Python-blue)
   None
 
-- **[Anionex/banana-slides](https://github.com/Anionex/banana-slides)** ⭐ 4,852
+- **[Anionex/banana-slides](https://github.com/Anionex/banana-slides)** ⭐ 4,949
   ![Python](https://img.shields.io/badge/-Python-blue)
   一个基于nano banana pro🍌的原生AI PPT生成应用，迈向真正的＂Vibe PPT＂; 支持上传任意模板图片；上传任意素材&智能解析；一句话/大纲/页面描述自动生成PPT；口头修改指定区域、一键导出 - An AI-native PPT generator based on nano banana pro🍌
 
-- **[YouMind-OpenLab/awesome-nano-banana-pro-prompts](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts)** ⭐ 4,061
+- **[YouMind-OpenLab/awesome-nano-banana-pro-prompts](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts)** ⭐ 4,066
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   🍌 1000+ selected Nano Banana Pro prompts with images, multilingual support, and instant gallery preview. Open-source prompt engineering library
 
-- **[HisMax/RedInk](https://github.com/HisMax/RedInk)** ⭐ 3,931
+- **[HisMax/RedInk](https://github.com/HisMax/RedInk)** ⭐ 3,936
   ![Python](https://img.shields.io/badge/-Python-blue)
   红墨 - 基于🍌Nano Banana Pro🍌 的一站式小红书图文生成器 《一句话一张图片生成小红书图文》 Red Ink - A one-stop Xiaohongshu image-and-text generator based on the 🍌Nano Banana Pro🍌, "One Sentence, One Image: Generate Xiaohongshu Text and Images."
 
-- **[apple/ml-sharp](https://github.com/apple/ml-sharp)** ⭐ 3,746
+- **[apple/ml-sharp](https://github.com/apple/ml-sharp)** ⭐ 3,910
   ![Python](https://img.shields.io/badge/-Python-blue)
   Sharp Monocular View Synthesis in Less Than a Second
 
-- **[pshenok/server-survival](https://github.com/pshenok/server-survival)** ⭐ 3,464
+- **[pshenok/server-survival](https://github.com/pshenok/server-survival)** ⭐ 3,473
   ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
   Tower defense game that teaches cloud architecture. Build infrastructure, survive traffic, learn scaling.
 
@@ -485,19 +486,19 @@ for a semver-minor rele...
 
 | Skill | Status |
 |-------|--------|
-| Java | 🔴 Beginner |
+| Java | ⚪ Planned |
 | Python | ⚪ Planned |
-| JavaScript | ⚪ Planned |
+| JavaScript | 🟢 Proficient |
 | TypeScript | 🔴 Beginner |
-| Go | 🟡 Learning |
+| Go | ⚪ Planned |
 
 ### Frameworks
 
 | Skill | Status |
 |-------|--------|
-| React | ⚪ Planned |
-| Spring Boot | 🔴 Beginner |
-| Django | 🟡 Learning |
+| React | 🟡 Learning |
+| Spring Boot | ⚪ Planned |
+| Django | 🟢 Proficient |
 | Node.js | 🔴 Beginner |
 | Next.js | 🟢 Proficient |
 
@@ -505,39 +506,39 @@ for a semver-minor rele...
 
 | Skill | Status |
 |-------|--------|
-| Penetration Testing | 🟢 Proficient |
-| Web Security | 🔴 Beginner |
+| Penetration Testing | 🟡 Learning |
+| Web Security | ⚪ Planned |
 | Network Security | 🟢 Proficient |
-| OWASP | 🟡 Learning |
+| OWASP | 🟢 Proficient |
 
 ### Ai Ml
 
 | Skill | Status |
 |-------|--------|
 | Machine Learning | 🔴 Beginner |
-| Deep Learning | 🟢 Proficient |
+| Deep Learning | ⚪ Planned |
 | NLP | 🔴 Beginner |
 | Computer Vision | ⚪ Planned |
-| TensorFlow | 🟢 Proficient |
-| PyTorch | 🔴 Beginner |
+| TensorFlow | 🟡 Learning |
+| PyTorch | 🟡 Learning |
 
 ### Devops
 
 | Skill | Status |
 |-------|--------|
-| Docker | 🟢 Proficient |
-| Kubernetes | ⚪ Planned |
+| Docker | ⚪ Planned |
+| Kubernetes | 🟢 Proficient |
 | CI/CD | ⚪ Planned |
 | AWS | 🟢 Proficient |
-| Azure | 🔴 Beginner |
+| Azure | ⚪ Planned |
 
 ### Other
 
 | Skill | Status |
 |-------|--------|
-| Blockchain | 🔴 Beginner |
-| Web3 | 🟢 Proficient |
-| Cloud Computing | 🟡 Learning |
+| Blockchain | 🟢 Proficient |
+| Web3 | 🔴 Beginner |
+| Cloud Computing | ⚪ Planned |
 
 </details>
 
