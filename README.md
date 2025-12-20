@@ -46,35 +46,32 @@
 
 ### 📑 Hacker News
 
-- **[Raycaster (YC F24) Is Hiring a Research Engineer (NYC, In-Person)](https://news.ycombinator.com/item?id=46335552)**
-  *<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46335552">https://news.ycombinator.com/item?id=46335552</a></p>
-<p>Points: 0</p>
-<p># Comments: 0</p>...*
-  📅 Sat, 20 Dec 2025 12:00:31 +0000
+- **[Depot (YC W23) Is Hiring an Enterprise Support Engineer (Remote/US)](https://www.ycombinator.com/companies/depot/jobs/jhGxVjO-enterprise-support-engineer)**
+  *<p>Article URL: <a href="https://www.ycombinator.com/companies/depot/jobs/jhGxVjO-enterprise-support-engineer">https://www.ycombinator.com/companies/depot/jobs/jhGxVjO-enterprise-support-engineer</a><...*
+  📅 Sat, 20 Dec 2025 18:06:04 +0000
 
-- **[What Does a Database for SSDs Look Like?](https://brooker.co.za/blog/2025/12/15/database-for-ssd.html)**
-  *<p>Article URL: <a href="https://brooker.co.za/blog/2025/12/15/database-for-ssd.html">https://brooker.co.za/blog/2025/12/15/database-for-ssd.html</a></p>
-<p>Comments URL: <a href="https://news.ycombin...*
-  📅 Sat, 20 Dec 2025 10:13:33 +0000
+- **[Pure Silicon Demo Coding: No CPU, No Memory, Just 4k Gates](https://www.a1k0n.net/2025/12/19/tiny-tapeout-demo.html)**
+  *<p>Article URL: <a href="https://www.a1k0n.net/2025/12/19/tiny-tapeout-demo.html">https://www.a1k0n.net/2025/12/19/tiny-tapeout-demo.html</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com...*
+  📅 Sat, 20 Dec 2025 16:45:48 +0000
 
-- **[Airbus to migrate critical apps to a sovereign Euro cloud](https://www.theregister.com/2025/12/19/airbus_sovereign_cloud/)**
-  *<p>Article URL: <a href="https://www.theregister.com/2025/12/19/airbus_sovereign_cloud/">https://www.theregister.com/2025/12/19/airbus_sovereign_cloud/</a></p>
-<p>Comments URL: <a href="https://news.y...*
-  📅 Sat, 20 Dec 2025 08:36:52 +0000
+- **[Over 40% of Deceased Drivers in Vehicle Crashes Test Positive for THC: Study](https://www.facs.org/media-center/press-releases/2025/over-40-of-deceased-drivers-in-motor-vehicle-crashes-test-positive-for-thc-study-shows/)**
+  *<p>Article URL: <a href="https://www.facs.org/media-center/press-releases/2025/over-40-of-deceased-drivers-in-motor-vehicle-crashes-test-positive-for-thc-study-shows/">https://www.facs.org/media-cente...*
+  📅 Sat, 20 Dec 2025 16:07:24 +0000
 
-- **[Skills Officially Comes to Codex](https://developers.openai.com/codex/skills/)**
-  *<p>Article URL: <a href="https://developers.openai.com/codex/skills/">https://developers.openai.com/codex/skills/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46334424">https...*
-  📅 Sat, 20 Dec 2025 08:09:17 +0000
+- **[Show HN: Claude Code Plugin to play music when waiting on user input](https://github.com/Sevii/agent-marketplace/blob/main/plugins/elevator-music/README.md)**
+  *<p>Claude Code tends to be just slow enough you have time to tab away and get distracted. This plugin uses Claude Code's hooks to play music when Claude is waiting for user input so you don't just lea...*
+  📅 Sat, 20 Dec 2025 16:06:44 +0000
 
-- **[NTP at NIST Boulder Has Lost Power](https://lists.nanog.org/archives/list/nanog@lists.nanog.org/message/ACADD3NKOG2QRWZ56OSNNG7UIEKKTZXL/)**
-  *<p>Article URL: <a href="https://lists.nanog.org/archives/list/nanog@lists.nanog.org/message/ACADD3NKOG2QRWZ56OSNNG7UIEKKTZXL/">https://lists.nanog.org/archives/list/nanog@lists.nanog.org/message/ACAD...*
-  📅 Sat, 20 Dec 2025 07:39:26 +0000
+- **[Go ahead, self-host Postgres](https://pierce.dev/notes/go-ahead-self-host-postgres#user-content-fn-1)**
+  *<p>Article URL: <a href="https://pierce.dev/notes/go-ahead-self-host-postgres#user-content-fn-1">https://pierce.dev/notes/go-ahead-self-host-postgres#user-content-fn-1</a></p>
+<p>Comments URL: <a href...*
+  📅 Sat, 20 Dec 2025 15:43:15 +0000
 
-- **[Contrails Map](https://map.contrails.org/)**
-  *<p>Article URL: <a href="https://map.contrails.org/">https://map.contrails.org/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46334296">https://news.ycombinator.com/item?id=46...*
-  📅 Sat, 20 Dec 2025 07:38:57 +0000
+- **[Immersa: Open-source Web-based 3D Presentation Tool](https://github.com/ertugrulcetin/immersa)**
+  *<p>Article URL: <a href="https://github.com/ertugrulcetin/immersa">https://github.com/ertugrulcetin/immersa</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46336097">https://new...*
+  📅 Sat, 20 Dec 2025 13:38:24 +0000
 
 ### 📑 TechCrunch
 
@@ -104,13 +101,19 @@
 
 ### 📑 Dev.to
 
-- **[Automating DevRel: How I Use Gemini CLI and Gemini 3 to Catch Bugs in My Blog Posts](https://dev.to/railsstudent/automating-devrel-how-i-use-gemini-cli-and-gemini-3-to-catch-bugs-in-my-blog-posts-3koo)**
-  *<p>In this technical deep dive, I explore how to use the <code>Gemini CLI</code> and the latest <code>Gemini 3 Pro Preview</code> model to build a highly efficient, automated "Technical Editor" direct...*
-  📅 Sat, 20 Dec 2025 12:11:24 +0000
+- **[Introducing Automatic Security Audits for AI](https://dev.to/ivandotcodes/introducing-automatic-security-audits-for-ai-45eh)**
+  *<p>AI coding assistants move fast. They can refactor modules, add dependencies, and wire up integrations before you've finished reading the diff. That speed is valuable, but security issues can slip i...*
+  📅 Sat, 20 Dec 2025 18:09:47 +0000
 
-- **[The Robot Revolution](https://dev.to/rawveg/the-robot-revolution-39lf)**
-  *<p>Imagine: It's 2030, and your morning begins not with an alarm clock, but with a gentle tap on your shoulder from a bipedal robot that has already brewed your coffee, sorted through your emails to i...*
-  📅 Sat, 20 Dec 2025 12:00:00 +0000
+- **[Mastering React.js in 2026: A Comprehensive Guide](https://dev.to/panchalmukundak/mastering-reactjs-in-2026-a-comprehensive-guide-3d4n)**
+  *<h2>
+  
+  
+  Introduction
+</h2>
+
+<p>React.js is one of those libraries that changed how we think about building web applications. If you've been doing web development for a while, you've probably noti...*
+  📅 Sat, 20 Dec 2025 18:09:31 +0000
 
 </details>
 
@@ -122,99 +125,99 @@
   ![None](https://img.shields.io/badge/-None-lightgrey)
   None
 
-- **[janer8/instagram-reporting-tool](https://github.com/janer8/instagram-reporting-tool)** ⭐ 19
-  ![None](https://img.shields.io/badge/-None-lightgrey)
-  Instagram report bot are a tool designed to automate the process of reporting account on Instagram that may violate the platform's policies. These bots can be used to mass-report account for spam, fake profile, or other violations also its a reporter mass acc ban.
+- **[JianguSheng/yuns-desktop-pet](https://github.com/JianguSheng/yuns-desktop-pet)** ⭐ 21
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
+  🐕 AI桌面宠物助手 - 多模型对话 + MCP工具调用 + 视觉分析 | Electron
 
-- **[janer8/tiktok-reporting-tool](https://github.com/janer8/tiktok-reporting-tool)** ⭐ 17
+- **[Raija-hub/Flash-usdt](https://github.com/Raija-hub/Flash-usdt)** ⭐ 21
   ![None](https://img.shields.io/badge/-None-lightgrey)
-  TikTok report bot are a tool designed to automate the process of reporting account on TikTok that may violate the platform's policies. These bots can be used to mass-report account for spam, fake profiles, or other violations also its a reporter mass profile acc ban.
+  Flash USDT software (Free Test) is designed to enhance the usability of USDT by providing features that allow for fast and reliable across multiple network
 
-- **[karlfischer-maker/flash](https://github.com/karlfischer-maker/flash)** ⭐ 13
-  ![None](https://img.shields.io/badge/-None-lightgrey)
-  None
+- **[NtDallas/BOF_ExecuteAssembly](https://github.com/NtDallas/BOF_ExecuteAssembly)** ⭐ 19
+  ![C++](https://img.shields.io/badge/-C++-pink)
+  Beacon Object File for Cobalt Strike that executes .NET assemblies in beacon with evasion techniques. 
 
-- **[salihgueler/game-recommendation-agent](https://github.com/salihgueler/game-recommendation-agent)** ⭐ 11
+- **[grissomlin/taiwan-stock-monitor](https://github.com/grissomlin/taiwan-stock-monitor)** ⭐ 17
   ![Python](https://img.shields.io/badge/-Python-blue)
-  None
+  自動化台股全方位監控系統：每日產出 9 張（週/月/年 × 高/收/低）10% 分箱報酬分析圖表，並透過 Resend API 發送互動式電子郵件報表。  Automated Taiwan Stock Monitor: Generates 9 comprehensive charts (Week/Month/Year × High/Close/Low) with 10% bin return analysis, delivering interactive daily email reports via Resend API.
 
-- **[DaniPopes/tracing-samply](https://github.com/DaniPopes/tracing-samply)** ⭐ 10
-  ![Rust](https://img.shields.io/badge/-Rust-brown)
-  Tracing subscriber layer for samply
+- **[stardeep925/ugcAvatar](https://github.com/stardeep925/ugcAvatar)** ⭐ 16
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  基于接管拦截原神流量请求实现的全自动替换头像数据程序
 
-- **[jieyou-io/phone-agent-xiaozhi](https://github.com/jieyou-io/phone-agent-xiaozhi)** ⭐ 10
-  ![Kotlin](https://img.shields.io/badge/-Kotlin-lightgrey)
-  None
-
-- **[kokushin/super-soundboard](https://github.com/kokushin/super-soundboard)** ⭐ 9
+- **[kokushin/super-soundboard](https://github.com/kokushin/super-soundboard)** ⭐ 15
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   https://x.com/kokushing/status/2001924086801514735
 
+- **[DaniPopes/tracing-samply](https://github.com/DaniPopes/tracing-samply)** ⭐ 15
+  ![Rust](https://img.shields.io/badge/-Rust-brown)
+  Tracing subscriber layer for samply
+
 ### 📈 Weekly Trending
 
-- **[productdevbook/port-killer](https://github.com/productdevbook/port-killer)** ⭐ 2,250
+- **[productdevbook/port-killer](https://github.com/productdevbook/port-killer)** ⭐ 2,283
   ![Swift](https://img.shields.io/badge/-Swift-lightgrey)
   Native macOS app for finding and killing processes on open ports. Perfect for developers.
 
-- **[agentskills/agentskills](https://github.com/agentskills/agentskills)** ⭐ 1,076
+- **[agentskills/agentskills](https://github.com/agentskills/agentskills)** ⭐ 1,362
   ![Python](https://img.shields.io/badge/-Python-blue)
   Specification and documentation for Agent Skills
 
-- **[DGoettlich/history-llms](https://github.com/DGoettlich/history-llms)** ⭐ 847
+- **[DGoettlich/history-llms](https://github.com/DGoettlich/history-llms)** ⭐ 879
   ![None](https://img.shields.io/badge/-None-lightgrey)
   Information hub for our project training the largest possible historical LLMs.
 
-- **[gaearon/rscexplorer](https://github.com/gaearon/rscexplorer)** ⭐ 795
+- **[2025Emma/vibe-coding-cn](https://github.com/2025Emma/vibe-coding-cn)** ⭐ 819
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  None
+
+- **[gaearon/rscexplorer](https://github.com/gaearon/rscexplorer)** ⭐ 802
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   A tool for people curious about the React Server Components protocol
 
-- **[XiaomiMiMo/MiMo-V2-Flash](https://github.com/XiaomiMiMo/MiMo-V2-Flash)** ⭐ 740
+- **[XiaomiMiMo/MiMo-V2-Flash](https://github.com/XiaomiMiMo/MiMo-V2-Flash)** ⭐ 744
   ![None](https://img.shields.io/badge/-None-lightgrey)
   MiMo-V2-Flash: Efficient Reasoning, Coding, and Agentic Foundation Model
 
-- **[2025Emma/vibe-coding-cn](https://github.com/2025Emma/vibe-coding-cn)** ⭐ 673
-  ![Python](https://img.shields.io/badge/-Python-blue)
+- **[mmarinovic/tailwindsql](https://github.com/mmarinovic/tailwindsql)** ⭐ 467
+  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   None
 
-- **[FunAudioLLM/Fun-ASR](https://github.com/FunAudioLLM/Fun-ASR)** ⭐ 445
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  Fun-ASR is an end-to-end speech recognition large model launched by Tongyi Lab. 
-
-- **[GuDaStudio/skills](https://github.com/GuDaStudio/skills)** ⭐ 436
-  ![PowerShell](https://img.shields.io/badge/-PowerShell-lightgrey)
-  This repository contains a collection of Agent Skills developed by GudaStudio, enabling seamless collaboration between Claude and other AI models and tools.
+- **[KalyanKS-NLP/LLM-Interview-Questions-and-Answers-Hub](https://github.com/KalyanKS-NLP/LLM-Interview-Questions-and-Answers-Hub)** ⭐ 452
+  ![None](https://img.shields.io/badge/-None-lightgrey)
+  100+ LLM interview questions with answers. 
 
 ### 📈 Monthly Trending
 
-- **[zai-org/Open-AutoGLM](https://github.com/zai-org/Open-AutoGLM)** ⭐ 18,138
+- **[zai-org/Open-AutoGLM](https://github.com/zai-org/Open-AutoGLM)** ⭐ 18,204
   ![Python](https://img.shields.io/badge/-Python-blue)
   An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
 
-- **[karpathy/llm-council](https://github.com/karpathy/llm-council)** ⭐ 11,690
+- **[karpathy/llm-council](https://github.com/karpathy/llm-council)** ⭐ 11,715
   ![Python](https://img.shields.io/badge/-Python-blue)
   LLM Council works together to answer your hardest questions
 
-- **[Tongyi-MAI/Z-Image](https://github.com/Tongyi-MAI/Z-Image)** ⭐ 7,471
+- **[Tongyi-MAI/Z-Image](https://github.com/Tongyi-MAI/Z-Image)** ⭐ 7,489
   ![Python](https://img.shields.io/badge/-Python-blue)
   None
 
-- **[Anionex/banana-slides](https://github.com/Anionex/banana-slides)** ⭐ 5,045
-  ![Python](https://img.shields.io/badge/-Python-blue)
+- **[Anionex/banana-slides](https://github.com/Anionex/banana-slides)** ⭐ 5,178
+  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   一个基于nano banana pro🍌的原生AI PPT生成应用，迈向真正的＂Vibe PPT＂; 支持上传任意模板图片；上传任意素材&智能解析；一句话/大纲/页面描述自动生成PPT；口头修改指定区域、一键导出 - An AI-native PPT generator based on nano banana pro🍌
 
-- **[apple/ml-sharp](https://github.com/apple/ml-sharp)** ⭐ 4,125
+- **[apple/ml-sharp](https://github.com/apple/ml-sharp)** ⭐ 4,201
   ![Python](https://img.shields.io/badge/-Python-blue)
   Sharp Monocular View Synthesis in Less Than a Second
 
-- **[YouMind-OpenLab/awesome-nano-banana-pro-prompts](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts)** ⭐ 4,080
+- **[YouMind-OpenLab/awesome-nano-banana-pro-prompts](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts)** ⭐ 4,109
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   🍌 1000+ selected Nano Banana Pro prompts with images, multilingual support, and instant gallery preview. Open-source prompt engineering library
 
-- **[HisMax/RedInk](https://github.com/HisMax/RedInk)** ⭐ 3,946
+- **[HisMax/RedInk](https://github.com/HisMax/RedInk)** ⭐ 3,949
   ![Python](https://img.shields.io/badge/-Python-blue)
   红墨 - 基于🍌Nano Banana Pro🍌 的一站式小红书图文生成器 《一句话一张图片生成小红书图文》 Red Ink - A one-stop Xiaohongshu image-and-text generator based on the 🍌Nano Banana Pro🍌, "One Sentence, One Image: Generate Xiaohongshu Text and Images."
 
-- **[pshenok/server-survival](https://github.com/pshenok/server-survival)** ⭐ 3,494
+- **[pshenok/server-survival](https://github.com/pshenok/server-survival)** ⭐ 3,509
   ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
   Tower defense game that teaches cloud architecture. Build infrastructure, survive traffic, learn scaling.
 
@@ -480,59 +483,59 @@ for a semver-minor rele...
 
 | Skill | Status |
 |-------|--------|
-| Java | 🟡 Learning |
-| Python | 🟢 Proficient |
-| JavaScript | 🟡 Learning |
+| Java | ⚪ Planned |
+| Python | 🔴 Beginner |
+| JavaScript | 🟢 Proficient |
 | TypeScript | 🟡 Learning |
-| Go | 🔴 Beginner |
+| Go | 🟢 Proficient |
 
 ### Frameworks
 
 | Skill | Status |
 |-------|--------|
-| React | 🟡 Learning |
-| Spring Boot | 🔴 Beginner |
+| React | 🔴 Beginner |
+| Spring Boot | 🟢 Proficient |
 | Django | ⚪ Planned |
-| Node.js | 🟡 Learning |
-| Next.js | 🟢 Proficient |
+| Node.js | ⚪ Planned |
+| Next.js | 🔴 Beginner |
 
 ### Cybersecurity
 
 | Skill | Status |
 |-------|--------|
-| Penetration Testing | 🔴 Beginner |
-| Web Security | 🔴 Beginner |
-| Network Security | ⚪ Planned |
+| Penetration Testing | 🟢 Proficient |
+| Web Security | 🟡 Learning |
+| Network Security | 🟢 Proficient |
 | OWASP | 🟢 Proficient |
 
 ### Ai Ml
 
 | Skill | Status |
 |-------|--------|
-| Machine Learning | 🔴 Beginner |
-| Deep Learning | ⚪ Planned |
-| NLP | ⚪ Planned |
+| Machine Learning | 🟢 Proficient |
+| Deep Learning | 🟢 Proficient |
+| NLP | 🟡 Learning |
 | Computer Vision | ⚪ Planned |
 | TensorFlow | 🔴 Beginner |
-| PyTorch | 🟡 Learning |
+| PyTorch | 🔴 Beginner |
 
 ### Devops
 
 | Skill | Status |
 |-------|--------|
-| Docker | 🔴 Beginner |
+| Docker | 🟡 Learning |
 | Kubernetes | ⚪ Planned |
-| CI/CD | 🟢 Proficient |
-| AWS | 🔴 Beginner |
-| Azure | 🟡 Learning |
+| CI/CD | 🟡 Learning |
+| AWS | 🟢 Proficient |
+| Azure | ⚪ Planned |
 
 ### Other
 
 | Skill | Status |
 |-------|--------|
 | Blockchain | 🟢 Proficient |
-| Web3 | 🟡 Learning |
-| Cloud Computing | ⚪ Planned |
+| Web3 | 🟢 Proficient |
+| Cloud Computing | 🟢 Proficient |
 
 </details>
 
