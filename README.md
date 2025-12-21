@@ -46,33 +46,33 @@
 
 ### 📑 Hacker News
 
-- **[Measuring AI Ability to Complete Long Tasks: Opus 4.5 has 50% horizon of 4h49M](https://metr.org/blog/2025-03-19-measuring-ai-ability-to-complete-long-tasks/)**
-  *<p>Article URL: <a href="https://metr.org/blog/2025-03-19-measuring-ai-ability-to-complete-long-tasks/">https://metr.org/blog/2025-03-19-measuring-ai-ability-to-complete-long-tasks/</a></p>
-<p>Comment...*
-  📅 Sun, 21 Dec 2025 04:06:36 +0000
+- **[New mathematical framework reshapes debate over simulation hypothesis](https://www.santafe.edu/news-center/news/new-mathematical-framework-reshapes-debate-over-simulation-hypothesis)**
+  *<p>Article URL: <a href="https://www.santafe.edu/news-center/news/new-mathematical-framework-reshapes-debate-over-simulation-hypothesis">https://www.santafe.edu/news-center/news/new-mathematical-frame...*
+  📅 Sun, 21 Dec 2025 11:21:01 +0000
 
-- **[PG&E outages in S.F. leave 130k without electricity](https://www.sfchronicle.com/sf/article/pg-e-outage-40-000-customers-without-power-21254326.php)**
-  *<p>Article URL: <a href="https://www.sfchronicle.com/sf/article/pg-e-outage-40-000-customers-without-power-21254326.php">https://www.sfchronicle.com/sf/article/pg-e-outage-40-000-customers-without-pow...*
-  📅 Sun, 21 Dec 2025 03:35:28 +0000
+- **[ISBN Visualization Showing 99_959_000 books](https://annas-archive.li/isbn-visualization/)**
+  *<p>Article URL: <a href="https://annas-archive.li/isbn-visualization/">https://annas-archive.li/isbn-visualization/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46343976">htt...*
+  📅 Sun, 21 Dec 2025 11:09:27 +0000
 
-- **[Flock and Cyble Inc. Weaponize "Cybercrime" Takedowns to Silence Critics](https://haveibeenflocked.com/news/cyble-downtime)**
-  *<p>Article URL: <a href="https://haveibeenflocked.com/news/cyble-downtime">https://haveibeenflocked.com/news/cyble-downtime</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46341...*
-  📅 Sun, 21 Dec 2025 01:12:31 +0000
+- **[Inca Stone Masonry](https://www.earthasweknowit.com/pages/inca_construction)**
+  *<p>Article URL: <a href="https://www.earthasweknowit.com/pages/inca_construction">https://www.earthasweknowit.com/pages/inca_construction</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com...*
+  📅 Sun, 21 Dec 2025 07:26:39 +0000
 
-- **[Claude in Chrome](https://claude.com/chrome)**
-  *<p>Article URL: <a href="https://claude.com/chrome">https://claude.com/chrome</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46339777">https://news.ycombinator.com/item?id=4633...*
-  📅 Sat, 20 Dec 2025 21:26:14 +0000
+- **[Clair Obscur having its Indie Game Game Of The Year award stripped due to AI use](https://www.thegamer.com/clair-obscur-expedition-33-indie-game-awards-goty-stripped-ai-use/)**
+  *<p>Article URL: <a href="https://www.thegamer.com/clair-obscur-expedition-33-indie-game-awards-goty-stripped-ai-use/">https://www.thegamer.com/clair-obscur-expedition-33-indie-game-awards-goty-strippe...*
+  📅 Sun, 21 Dec 2025 07:16:19 +0000
 
-- **[Show HN: Jmail – Google Suite for Epstein files](https://www.jmail.world)**
-  *<p>Hi everyone! My name's Luke and I made the original Jmail here alongside Riley Walz. We had a ton of friends collaborate on building out more of the app suite last night in lieue of DOJ's "Epstein ...*
-  📅 Sat, 20 Dec 2025 21:00:05 +0000
+- **[Ruby website redesigned](https://www.ruby-lang.org/en/)**
+  *<p>Article URL: <a href="https://www.ruby-lang.org/en/">https://www.ruby-lang.org/en/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46342859">https://news.ycombinator.com/item...*
+  📅 Sun, 21 Dec 2025 07:06:48 +0000
 
-- **[MIRA – An open-source persistent AI entity with memory](https://github.com/taylorsatula/mira-OSS)**
-  *<p>Article URL: <a href="https://github.com/taylorsatula/mira-OSS">https://github.com/taylorsatula/mira-OSS</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46339537">https://new...*
-  📅 Sat, 20 Dec 2025 20:50:43 +0000
+- **[Isengard in Oxford](https://lareviewofbooks.org/article/isengard-in-oxford/)**
+  *<p>Article URL: <a href="https://lareviewofbooks.org/article/isengard-in-oxford/">https://lareviewofbooks.org/article/isengard-in-oxford/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com...*
+  📅 Sun, 21 Dec 2025 05:42:17 +0000
 
 ### 📑 TechCrunch
 
@@ -102,25 +102,18 @@
 
 ### 📑 Dev.to
 
-- **[My Project-Based Learning Journey – Building Real Projects to Learn](https://dev.to/lone_wolf_22/my-project-based-learning-journey-building-real-projects-to-learn-55hc)**
-  *<h2>
-  
-  
-  📘 What You’ll Find in My Blog
-</h2>
+- **[I’m building an open-source visual layer on top of GitHub](https://dev.to/vitor_veigavasconcelosn/im-building-an-open-source-visual-layer-on-top-of-github-2l7j)**
+  *<p>Most developers know this feeling.<br />
+You finish a project, push the code to GitHub, write a decent README…<br />
+and still, the most important part is missing:<br />
+👉 What does this project ac...*
+  📅 Sun, 21 Dec 2025 12:19:24 +0000
 
-<ul>
-<li>Step-by-step projects starting from <strong>Python fundamentals</strong>
-</li>
-<li>Challenges I faced and how I solved them
-</li>
-<li>Key tak...*
-  📅 Sun, 21 Dec 2025 05:59:16 +0000
+- **[Web Developer Travis McCracken on State Machines in Rust](https://dev.to/travis-mccracken-dev/web-developer-travis-mccracken-on-state-machines-in-rust-2bdl)**
+  *<p>Unlocking the Power of Rust and Go for Backend Development: Insights from Web Developer Travis McCracken</p>
 
-- **[Day 78 of 100 days dsa coding challenge](https://dev.to/manasi_patil_/day-78-of-100-days-dsa-coding-challenge-2pi6)**
-  *<p>Taking on a new challenge: solving GeeksforGeeks POTD daily and sharing my solutions! 💻🔥<br />
-The goal: sharpen problem-solving skills, level up coding, and learn something new every day. Follow m...*
-  📅 Sun, 21 Dec 2025 05:51:28 +0000
+<p>As a passionate Web Developer specializing in backend systems, I’ve spent countless ...*
+  📅 Sun, 21 Dec 2025 12:18:49 +0000
 
 </details>
 
@@ -128,103 +121,103 @@ The goal: sharpen problem-solving skills, level up coding, and learn something n
 
 ### 📈 Daily Trending
 
-- **[miteja/instagram-reporting-tool](https://github.com/miteja/instagram-reporting-tool)** ⭐ 20
+- **[xcc-zach/xtalk](https://github.com/xcc-zach/xtalk)** ⭐ 20
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  X-Talk is an open-source full-duplex cascaded spoken dialogue system framework enabling low-latency, interruptible, and human-like speech interaction with a lightweight, pure-Python, production-ready architecture.
+
+- **[miteja/instagram-reporting-tool](https://github.com/miteja/instagram-reporting-tool)** ⭐ 22
   ![None](https://img.shields.io/badge/-None-lightgrey)
   Instagram report bot are a tool designed to automate the process of reporting account on Instagram that may violate the platform's policies. These bots can be used to mass-report account for spam, fake profile, or other violations also its a reporter mass acc ban.
 
-- **[ThisIsMissEm/questionable-fyi](https://github.com/ThisIsMissEm/questionable-fyi)** ⭐ 9
+- **[ratava/lumina-energy-card](https://github.com/ratava/lumina-energy-card)** ⭐ 15
+  ![None](https://img.shields.io/badge/-None-lightgrey)
+  Ultra Modern 3D Home Assistant dashboard card for monitoring electricity. It includes house usage, Battery States. EV Charging and multiple solar arrays
+
+- **[crispvibe/windsurf-infinite-ask](https://github.com/crispvibe/windsurf-infinite-ask)** ⭐ 15
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
+  None
+
+- **[Chil30/port-forward](https://github.com/Chil30/port-forward)** ⭐ 14
+  ![Shell](https://img.shields.io/badge/-Shell-lightgrey)
+  🚀 Linux port forwarding manager with 7 methods (iptables/HAProxy/socat/gost/realm/rinetd/nginx). One-click deploy, auto kernel optimization, BBR enabled. Interactive CLI.
+
+- **[butlanys/Open-AutoGLM-Android](https://github.com/butlanys/Open-AutoGLM-Android)** ⭐ 13
+  ![Kotlin](https://img.shields.io/badge/-Kotlin-lightgrey)
+  None
+
+- **[rodrigojimenez-jpg/saver](https://github.com/rodrigojimenez-jpg/saver)** ⭐ 12
+  ![None](https://img.shields.io/badge/-None-lightgrey)
+  None
+
+- **[ThisIsMissEm/questionable-fyi](https://github.com/ThisIsMissEm/questionable-fyi)** ⭐ 10
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   Questionable is an AT Protocol app for asking questions and getting answers, receiving asks and doing interviews or AMAs
 
-- **[sammwyy/NRelay](https://github.com/sammwyy/NRelay)** ⭐ 4
-  ![Rust](https://img.shields.io/badge/-Rust-brown)
-  W.I.P Ngrok Alternative: Self-hosted and open-source OOB reverse tunnel (TCP/UDP/SNI/HTTP/MC)
-
-- **[aka334/DNDS](https://github.com/aka334/DNDS)** ⭐ 4
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  None
-
-- **[ResurrectedTrader/D2SSharp](https://github.com/ResurrectedTrader/D2SSharp)** ⭐ 3
-  ![C#](https://img.shields.io/badge/-C#-lightgrey)
-  A C# library for reading and writing Diablo 2 save files (.d2s character saves and .d2i shared stash files)
-
-- **[akash-met/Downloading-ERA5-Data-Faster-Using-Parallel-Processing-in-Python](https://github.com/akash-met/Downloading-ERA5-Data-Faster-Using-Parallel-Processing-in-Python)** ⭐ 3
-  ![Jupyter Notebook](https://img.shields.io/badge/-Jupyter Notebook-lightgrey)
-  Download any data from https://cds.climate.copernicus.eu/datasets faster using parallel processing. Climate Data Store/ Copernicus website/ Climate change service dataset. This article introduces a parallelized Python workflow that allows you to download ERA5 data significantly faster and HPC-compatible.
-
-- **[pandax-i/LiteTalk](https://github.com/pandax-i/LiteTalk)** ⭐ 3
-  ![PHP](https://img.shields.io/badge/-PHP-lightgrey)
-  一个基于原生 PHP + WebSocket 实现的现代化、高性能、安全且功能丰富的在线聊天系统。支持公共聊天室、私聊、多媒体发送及多项隐私安全特性
-
-- **[Wangpengyu20041212/VibeTrip](https://github.com/Wangpengyu20041212/VibeTrip)** ⭐ 3
-  ![None](https://img.shields.io/badge/-None-lightgrey)
-  A modern and efficient travel planning companion.
-
 ### 📈 Weekly Trending
 
-- **[productdevbook/port-killer](https://github.com/productdevbook/port-killer)** ⭐ 2,308
+- **[productdevbook/port-killer](https://github.com/productdevbook/port-killer)** ⭐ 2,325
   ![Swift](https://img.shields.io/badge/-Swift-lightgrey)
   Native macOS app for finding and killing processes on open ports. Perfect for developers.
 
-- **[agentskills/agentskills](https://github.com/agentskills/agentskills)** ⭐ 1,793
+- **[agentskills/agentskills](https://github.com/agentskills/agentskills)** ⭐ 2,019
   ![Python](https://img.shields.io/badge/-Python-blue)
   Specification and documentation for Agent Skills
 
-- **[2025Emma/vibe-coding-cn](https://github.com/2025Emma/vibe-coding-cn)** ⭐ 919
+- **[2025Emma/vibe-coding-cn](https://github.com/2025Emma/vibe-coding-cn)** ⭐ 987
   ![Python](https://img.shields.io/badge/-Python-blue)
   None
 
-- **[gaearon/rscexplorer](https://github.com/gaearon/rscexplorer)** ⭐ 809
+- **[gaearon/rscexplorer](https://github.com/gaearon/rscexplorer)** ⭐ 814
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   A tool for people curious about the React Server Components protocol
 
-- **[XiaomiMiMo/MiMo-V2-Flash](https://github.com/XiaomiMiMo/MiMo-V2-Flash)** ⭐ 756
+- **[XiaomiMiMo/MiMo-V2-Flash](https://github.com/XiaomiMiMo/MiMo-V2-Flash)** ⭐ 762
   ![None](https://img.shields.io/badge/-None-lightgrey)
   MiMo-V2-Flash: Efficient Reasoning, Coding, and Agentic Foundation Model
 
-- **[mmarinovic/tailwindsql](https://github.com/mmarinovic/tailwindsql)** ⭐ 534
+- **[mmarinovic/tailwindsql](https://github.com/mmarinovic/tailwindsql)** ⭐ 577
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   None
 
-- **[Lulzx/tinypdf](https://github.com/Lulzx/tinypdf)** ⭐ 468
+- **[journey-ad/gemini-watermark-remover](https://github.com/journey-ad/gemini-watermark-remover)** ⭐ 519
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
+  A high-performance, 100% client-side tool for removing Gemini AI watermarks. Built with pure JavaScript, it leverages a mathematically precise Reverse Alpha Blending algorithm rather than unpredictable AI inpainting. / 基于 Javascript 的纯浏览器端 Gemini AI 图像无损去水印工具，使用数学精确的反向 Alpha 混合算法
+
+- **[Lulzx/tinypdf](https://github.com/Lulzx/tinypdf)** ⭐ 489
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   Minimal PDF creation library. <400 LOC, zero dependencies, makes real PDFs.
 
-- **[KalyanKS-NLP/LLM-Interview-Questions-and-Answers-Hub](https://github.com/KalyanKS-NLP/LLM-Interview-Questions-and-Answers-Hub)** ⭐ 464
-  ![None](https://img.shields.io/badge/-None-lightgrey)
-  100+ LLM interview questions with answers. 
-
 ### 📈 Monthly Trending
 
-- **[zai-org/Open-AutoGLM](https://github.com/zai-org/Open-AutoGLM)** ⭐ 18,264
+- **[zai-org/Open-AutoGLM](https://github.com/zai-org/Open-AutoGLM)** ⭐ 18,322
   ![Python](https://img.shields.io/badge/-Python-blue)
   An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
 
-- **[karpathy/llm-council](https://github.com/karpathy/llm-council)** ⭐ 11,734
+- **[karpathy/llm-council](https://github.com/karpathy/llm-council)** ⭐ 11,752
   ![Python](https://img.shields.io/badge/-Python-blue)
   LLM Council works together to answer your hardest questions
 
-- **[Tongyi-MAI/Z-Image](https://github.com/Tongyi-MAI/Z-Image)** ⭐ 7,506
+- **[Tongyi-MAI/Z-Image](https://github.com/Tongyi-MAI/Z-Image)** ⭐ 7,524
   ![Python](https://img.shields.io/badge/-Python-blue)
   None
 
-- **[Anionex/banana-slides](https://github.com/Anionex/banana-slides)** ⭐ 5,299
+- **[Anionex/banana-slides](https://github.com/Anionex/banana-slides)** ⭐ 5,384
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   一个基于nano banana pro🍌的原生AI PPT生成应用，迈向真正的＂Vibe PPT＂; 支持上传任意模板图片；上传任意素材&智能解析；一句话/大纲/页面描述自动生成PPT；口头修改指定区域、一键导出 - An AI-native PPT generator based on nano banana pro🍌
 
-- **[apple/ml-sharp](https://github.com/apple/ml-sharp)** ⭐ 4,295
+- **[apple/ml-sharp](https://github.com/apple/ml-sharp)** ⭐ 4,353
   ![Python](https://img.shields.io/badge/-Python-blue)
   Sharp Monocular View Synthesis in Less Than a Second
 
-- **[YouMind-OpenLab/awesome-nano-banana-pro-prompts](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts)** ⭐ 4,150
+- **[YouMind-OpenLab/awesome-nano-banana-pro-prompts](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts)** ⭐ 4,165
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   🍌 1000+ selected Nano Banana Pro prompts with images, multilingual support, and instant gallery preview. Open-source prompt engineering library
 
-- **[HisMax/RedInk](https://github.com/HisMax/RedInk)** ⭐ 3,956
+- **[HisMax/RedInk](https://github.com/HisMax/RedInk)** ⭐ 3,962
   ![Python](https://img.shields.io/badge/-Python-blue)
   红墨 - 基于🍌Nano Banana Pro🍌 的一站式小红书图文生成器 《一句话一张图片生成小红书图文》 Red Ink - A one-stop Xiaohongshu image-and-text generator based on the 🍌Nano Banana Pro🍌, "One Sentence, One Image: Generate Xiaohongshu Text and Images."
 
-- **[Facepunch/sbox-public](https://github.com/Facepunch/sbox-public)** ⭐ 3,427
+- **[Facepunch/sbox-public](https://github.com/Facepunch/sbox-public)** ⭐ 3,428
   ![C#](https://img.shields.io/badge/-C#-lightgrey)
   s&box is a modern game engine, built on Valve's Source 2 and the latest .NET technology, it provides a modern intuitive editor for creating games
 
@@ -490,49 +483,49 @@ for a semver-minor rele...
 
 | Skill | Status |
 |-------|--------|
-| Java | ⚪ Planned |
-| Python | 🔴 Beginner |
-| JavaScript | ⚪ Planned |
-| TypeScript | ⚪ Planned |
-| Go | 🔴 Beginner |
+| Java | 🟡 Learning |
+| Python | ⚪ Planned |
+| JavaScript | 🔴 Beginner |
+| TypeScript | 🟡 Learning |
+| Go | 🟢 Proficient |
 
 ### Frameworks
 
 | Skill | Status |
 |-------|--------|
-| React | 🔴 Beginner |
-| Spring Boot | 🟡 Learning |
-| Django | 🟡 Learning |
-| Node.js | 🟡 Learning |
+| React | 🟡 Learning |
+| Spring Boot | 🔴 Beginner |
+| Django | 🔴 Beginner |
+| Node.js | ⚪ Planned |
 | Next.js | 🟡 Learning |
 
 ### Cybersecurity
 
 | Skill | Status |
 |-------|--------|
-| Penetration Testing | 🟢 Proficient |
-| Web Security | 🔴 Beginner |
-| Network Security | 🟢 Proficient |
-| OWASP | ⚪ Planned |
+| Penetration Testing | 🔴 Beginner |
+| Web Security | ⚪ Planned |
+| Network Security | 🟡 Learning |
+| OWASP | 🟡 Learning |
 
 ### Ai Ml
 
 | Skill | Status |
 |-------|--------|
 | Machine Learning | 🔴 Beginner |
-| Deep Learning | ⚪ Planned |
-| NLP | ⚪ Planned |
-| Computer Vision | 🟢 Proficient |
-| TensorFlow | 🟡 Learning |
-| PyTorch | 🟢 Proficient |
+| Deep Learning | 🟢 Proficient |
+| NLP | 🔴 Beginner |
+| Computer Vision | 🔴 Beginner |
+| TensorFlow | 🟢 Proficient |
+| PyTorch | ⚪ Planned |
 
 ### Devops
 
 | Skill | Status |
 |-------|--------|
-| Docker | 🔴 Beginner |
-| Kubernetes | ⚪ Planned |
-| CI/CD | ⚪ Planned |
+| Docker | 🟡 Learning |
+| Kubernetes | 🟡 Learning |
+| CI/CD | 🔴 Beginner |
 | AWS | 🔴 Beginner |
 | Azure | 🟡 Learning |
 
@@ -540,9 +533,9 @@ for a semver-minor rele...
 
 | Skill | Status |
 |-------|--------|
-| Blockchain | 🔴 Beginner |
+| Blockchain | ⚪ Planned |
 | Web3 | 🟡 Learning |
-| Cloud Computing | 🔴 Beginner |
+| Cloud Computing | ⚪ Planned |
 
 </details>
 
