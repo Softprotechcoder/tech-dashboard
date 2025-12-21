@@ -46,35 +46,51 @@
 
 ### 📑 Hacker News
 
-- **[New mathematical framework reshapes debate over simulation hypothesis](https://www.santafe.edu/news-center/news/new-mathematical-framework-reshapes-debate-over-simulation-hypothesis)**
-  *<p>Article URL: <a href="https://www.santafe.edu/news-center/news/new-mathematical-framework-reshapes-debate-over-simulation-hypothesis">https://www.santafe.edu/news-center/news/new-mathematical-frame...*
-  📅 Sun, 21 Dec 2025 11:21:01 +0000
+- **[Waymo suspends service in San Francisco as robotaxis stall during blackout](https://techcrunch.com/2025/12/21/waymo-suspends-service-in-san-francisco-as-robotaxis-stall-during-blackout/)**
+  *<p>Article URL: <a href="https://techcrunch.com/2025/12/21/waymo-suspends-service-in-san-francisco-as-robotaxis-stall-during-blackout/">https://techcrunch.com/2025/12/21/waymo-suspends-service-in-san-...*
+  📅 Sun, 21 Dec 2025 17:35:44 +0000
 
-- **[ISBN Visualization Showing 99_959_000 books](https://annas-archive.li/isbn-visualization/)**
-  *<p>Article URL: <a href="https://annas-archive.li/isbn-visualization/">https://annas-archive.li/isbn-visualization/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46343976">htt...*
-  📅 Sun, 21 Dec 2025 11:09:27 +0000
+- **[ELF Crimes: Program Interpreter Fun](https://nytpu.com/gemlog/2025-12-21)**
+  *<p>Article URL: <a href="https://nytpu.com/gemlog/2025-12-21">https://nytpu.com/gemlog/2025-12-21</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46345975">https://news.ycombina...*
+  📅 Sun, 21 Dec 2025 16:30:09 +0000
 
-- **[Inca Stone Masonry](https://www.earthasweknowit.com/pages/inca_construction)**
-  *<p>Article URL: <a href="https://www.earthasweknowit.com/pages/inca_construction">https://www.earthasweknowit.com/pages/inca_construction</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com...*
-  📅 Sun, 21 Dec 2025 07:26:39 +0000
+- **[Show HN: Books mentioned on Hacker News in 2025](https://hackernews-readings-613604506318.us-west1.run.app)**
+  *<p>Article URL: <a href="https://hackernews-readings-613604506318.us-west1.run.app">https://hackernews-readings-613604506318.us-west1.run.app</a></p>
+<p>Comments URL: <a href="https://news.ycombinator...*
+  📅 Sun, 21 Dec 2025 16:21:04 +0000
 
-- **[Clair Obscur having its Indie Game Game Of The Year award stripped due to AI use](https://www.thegamer.com/clair-obscur-expedition-33-indie-game-awards-goty-stripped-ai-use/)**
-  *<p>Article URL: <a href="https://www.thegamer.com/clair-obscur-expedition-33-indie-game-awards-goty-stripped-ai-use/">https://www.thegamer.com/clair-obscur-expedition-33-indie-game-awards-goty-strippe...*
-  📅 Sun, 21 Dec 2025 07:16:19 +0000
+- **[Show HN: WalletWallet – create Apple passes from anything](https://walletwallet.alen.ro/)**
+  *<p>I got my Apple developer certificate and built a simple app to solve a problem I had. One shop I buy from doesn't have Apple Wallet passes. Since you need signed certificates to build these very si...*
+  📅 Sun, 21 Dec 2025 16:04:05 +0000
 
-- **[Ruby website redesigned](https://www.ruby-lang.org/en/)**
-  *<p>Article URL: <a href="https://www.ruby-lang.org/en/">https://www.ruby-lang.org/en/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46342859">https://news.ycombinator.com/item...*
-  📅 Sun, 21 Dec 2025 07:06:48 +0000
+- **[E.W.Dijkstra Archive](https://www.cs.utexas.edu/~EWD/welcome.html)**
+  *<p>Article URL: <a href="https://www.cs.utexas.edu/~EWD/welcome.html">https://www.cs.utexas.edu/~EWD/welcome.html</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46345523">https...*
+  📅 Sun, 21 Dec 2025 15:29:31 +0000
 
-- **[Isengard in Oxford](https://lareviewofbooks.org/article/isengard-in-oxford/)**
-  *<p>Article URL: <a href="https://lareviewofbooks.org/article/isengard-in-oxford/">https://lareviewofbooks.org/article/isengard-in-oxford/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com...*
-  📅 Sun, 21 Dec 2025 05:42:17 +0000
+- **[ARIN Public Incident Report – 4.10 Misissuance Error](https://www.arin.net/announcements/20251212/)**
+  *<p>Article URL: <a href="https://www.arin.net/announcements/20251212/">https://www.arin.net/announcements/20251212/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46345444">htt...*
+  📅 Sun, 21 Dec 2025 15:19:41 +0000
 
 ### 📑 TechCrunch
+
+- **[TechCrunch Mobility: Bankruptcy takes out two](https://techcrunch.com/2025/12/21/techcrunch-mobility-bankruptcy-takes-out-two/)**
+  *Welcome back to TechCrunch Mobility, your hub for all things “future of transportation.”...*
+  📅 Sun, 21 Dec 2025 17:00:00 +0000
+
+- **[Waymo suspends service in San Francisco as robotaxis stall during blackout](https://techcrunch.com/2025/12/21/waymo-suspends-service-in-san-francisco-as-robotaxis-stall-during-blackout/)**
+  *Waymo suspended its SF robotaxi service on Saturday evening after a massive blackout appeared to leave many of its vehicles stalled on city streets....*
+  📅 Sun, 21 Dec 2025 15:46:29 +0000
+
+- **[As EU waters down 2035 EV goals, electric startups express concern](https://techcrunch.com/2025/12/21/as-eu-waters-down-2035-ev-goals-electric-startups-express-concern/)**
+  *The future may be electric, but that future is being postponed. The European Commission, citing the need for flexibility, has softened its ambitious plan to ban the sale of gas-powered cars by 2035. I...*
+  📅 Sun, 21 Dec 2025 15:00:00 +0000
+
+- **[Israel’s famed VC Jon Medved, diagnosed with ALS, backed the tech that will improve his life](https://techcrunch.com/2025/12/21/israels-famed-vc-jon-medved-diagnosed-with-als-backed-the-tech-that-will-improve-his-life/)**
+  *In perhaps the last public interview of one Israel's most famous VCs, Jon Medved tells TechCrunch how tech will enhance his life....*
+  📅 Sun, 21 Dec 2025 13:00:00 +0000
 
 - **[Google and Apple reportedly warn employees on visas to avoid international travel](https://techcrunch.com/2025/12/20/google-and-apple-reportedly-warn-employees-on-visas-to-avoid-international-travel/)**
   *Law firms representing Google and Apple have reportedly warned that employees who need a visa stamp to re-enter the United States should avoid leaving the country due to longer-than-usual visa process...*
@@ -84,36 +100,21 @@
   *The iRobot founder opens up about the 18-month regulatory process that he says doomed the Roomba maker -- and what it means for American innovation....*
   📅 Sat, 20 Dec 2025 21:31:33 +0000
 
-- **[OpenAI allows users to directly adjust ChatGPT’s enthusiasm level](https://techcrunch.com/2025/12/20/openai-allows-users-to-directly-adjust-chatgpts-warmth-and-enthusiasm/)**
-  *ChatGPT users can now tweak the chatbot’s warmth, enthusiasm, and emoji use....*
-  📅 Sat, 20 Dec 2025 20:34:07 +0000
-
-- **[New York Governor Kathy Hochul signs RAISE Act to regulate AI safety](https://techcrunch.com/2025/12/20/new-york-governor-kathy-hochul-signs-raise-act-to-regulate-ai-safety/)**
-  *The bill will require large AI developers to publish information about their safety protocols and report safety incidents to the state within 72 hours....*
-  📅 Sat, 20 Dec 2025 18:20:34 +0000
-
-- **[Sequoia partner spreads debunked Brown shooting theory, testing new leadership](https://techcrunch.com/2025/12/19/sequoia-partner-spreads-debunked-brown-shooting-theory-testing-new-leadership/)**
-  *The newest episode raises questions about whether Sequoia's new leadership -- managing partners Alfred Lin and Pat Grady, who took over last month -- can or will rein in Maguire's social media activit...*
-  📅 Sat, 20 Dec 2025 02:31:43 +0000
-
-- **[Ex-Splunk execs’ startup Resolve AI hits $1 billion valuation with Series A](https://techcrunch.com/2025/12/19/ex-splunk-execs-startup-resolve-ai-hits-1-billion-valuation-with-series-a/)**
-  *The round was led by Lightspeed Venture Partners, according to people familiar with the deal....*
-  📅 Sat, 20 Dec 2025 00:58:42 +0000
-
 ### 📑 Dev.to
 
-- **[I’m building an open-source visual layer on top of GitHub](https://dev.to/vitor_veigavasconcelosn/im-building-an-open-source-visual-layer-on-top-of-github-2l7j)**
-  *<p>Most developers know this feeling.<br />
-You finish a project, push the code to GitHub, write a decent README…<br />
-and still, the most important part is missing:<br />
-👉 What does this project ac...*
-  📅 Sun, 21 Dec 2025 12:19:24 +0000
+- **[Winner](https://dev.to/preetha_vaishnavi_2b82358/winner-3872)**
+  *<p>Check out this Pen I made!</p>
 
-- **[Web Developer Travis McCracken on State Machines in Rust](https://dev.to/travis-mccracken-dev/web-developer-travis-mccracken-on-state-machines-in-rust-2bdl)**
-  *<p>Unlocking the Power of Rust and Go for Backend Development: Insights from Web Developer Travis McCracken</p>
+<p>
 
-<p>As a passionate Web Developer specializing in backend systems, I’ve spent countless ...*
-  📅 Sun, 21 Dec 2025 12:18:49 +0000
+</p>...*
+  📅 Sun, 21 Dec 2025 18:10:00 +0000
+
+- **[Building an Intentionally Vulnerable AWS Lab to Teach Cloud Security](https://dev.to/karanvaghela/building-an-intentionally-vulnerable-aws-lab-to-teach-cloud-security-77f)**
+  *<p><strong>Introduction</strong></p>
+
+<p>Most cloud engineers learn AWS by building functional infrastructure deploying EC2 instances, configuring S3 buckets, setting up VPCs. They pass certification ...*
+  📅 Sun, 21 Dec 2025 18:09:28 +0000
 
 </details>
 
@@ -121,103 +122,103 @@ and still, the most important part is missing:<br />
 
 ### 📈 Daily Trending
 
-- **[xcc-zach/xtalk](https://github.com/xcc-zach/xtalk)** ⭐ 20
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  X-Talk is an open-source full-duplex cascaded spoken dialogue system framework enabling low-latency, interruptible, and human-like speech interaction with a lightweight, pure-Python, production-ready architecture.
-
-- **[miteja/instagram-reporting-tool](https://github.com/miteja/instagram-reporting-tool)** ⭐ 22
+- **[miteja/instagram-reporting-tool](https://github.com/miteja/instagram-reporting-tool)** ⭐ 33
   ![None](https://img.shields.io/badge/-None-lightgrey)
   Instagram report bot are a tool designed to automate the process of reporting account on Instagram that may violate the platform's policies. These bots can be used to mass-report account for spam, fake profile, or other violations also its a reporter mass acc ban.
 
-- **[ratava/lumina-energy-card](https://github.com/ratava/lumina-energy-card)** ⭐ 15
+- **[ratava/lumina-energy-card](https://github.com/ratava/lumina-energy-card)** ⭐ 27
   ![None](https://img.shields.io/badge/-None-lightgrey)
   Ultra Modern 3D Home Assistant dashboard card for monitoring electricity. It includes house usage, Battery States. EV Charging and multiple solar arrays
 
-- **[crispvibe/windsurf-infinite-ask](https://github.com/crispvibe/windsurf-infinite-ask)** ⭐ 15
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
+- **[xcc-zach/xtalk](https://github.com/xcc-zach/xtalk)** ⭐ 26
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  X-Talk is an open-source full-duplex cascaded spoken dialogue system framework enabling low-latency, interruptible, and human-like speech interaction with a lightweight, pure-Python, production-ready architecture.
+
+- **[karlkrause-crypto/gettflash](https://github.com/karlkrause-crypto/gettflash)** ⭐ 22
+  ![None](https://img.shields.io/badge/-None-lightgrey)
   None
 
-- **[Chil30/port-forward](https://github.com/Chil30/port-forward)** ⭐ 14
+- **[sammwyy/NRelay](https://github.com/sammwyy/NRelay)** ⭐ 21
+  ![Rust](https://img.shields.io/badge/-Rust-brown)
+  W.I.P Ngrok Alternative: Self-hosted and open-source OOB reverse tunnel (TCP/UDP/SNI/HTTP/MC)
+
+- **[Chil30/port-forward](https://github.com/Chil30/port-forward)** ⭐ 19
   ![Shell](https://img.shields.io/badge/-Shell-lightgrey)
   🚀 Linux port forwarding manager with 7 methods (iptables/HAProxy/socat/gost/realm/rinetd/nginx). One-click deploy, auto kernel optimization, BBR enabled. Interactive CLI.
 
-- **[butlanys/Open-AutoGLM-Android](https://github.com/butlanys/Open-AutoGLM-Android)** ⭐ 13
-  ![Kotlin](https://img.shields.io/badge/-Kotlin-lightgrey)
+- **[w00ing/seer-skill](https://github.com/w00ing/seer-skill)** ⭐ 18
+  ![Shell](https://img.shields.io/badge/-Shell-lightgrey)
   None
 
-- **[rodrigojimenez-jpg/saver](https://github.com/rodrigojimenez-jpg/saver)** ⭐ 12
-  ![None](https://img.shields.io/badge/-None-lightgrey)
+- **[crispvibe/windsurf-infinite-ask](https://github.com/crispvibe/windsurf-infinite-ask)** ⭐ 17
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
   None
-
-- **[ThisIsMissEm/questionable-fyi](https://github.com/ThisIsMissEm/questionable-fyi)** ⭐ 10
-  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
-  Questionable is an AT Protocol app for asking questions and getting answers, receiving asks and doing interviews or AMAs
 
 ### 📈 Weekly Trending
 
-- **[productdevbook/port-killer](https://github.com/productdevbook/port-killer)** ⭐ 2,325
+- **[productdevbook/port-killer](https://github.com/productdevbook/port-killer)** ⭐ 2,336
   ![Swift](https://img.shields.io/badge/-Swift-lightgrey)
   Native macOS app for finding and killing processes on open ports. Perfect for developers.
 
-- **[agentskills/agentskills](https://github.com/agentskills/agentskills)** ⭐ 2,019
+- **[agentskills/agentskills](https://github.com/agentskills/agentskills)** ⭐ 2,275
   ![Python](https://img.shields.io/badge/-Python-blue)
   Specification and documentation for Agent Skills
 
-- **[2025Emma/vibe-coding-cn](https://github.com/2025Emma/vibe-coding-cn)** ⭐ 987
+- **[2025Emma/vibe-coding-cn](https://github.com/2025Emma/vibe-coding-cn)** ⭐ 1,063
   ![Python](https://img.shields.io/badge/-Python-blue)
   None
 
-- **[gaearon/rscexplorer](https://github.com/gaearon/rscexplorer)** ⭐ 814
+- **[gaearon/rscexplorer](https://github.com/gaearon/rscexplorer)** ⭐ 818
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   A tool for people curious about the React Server Components protocol
 
-- **[XiaomiMiMo/MiMo-V2-Flash](https://github.com/XiaomiMiMo/MiMo-V2-Flash)** ⭐ 762
+- **[XiaomiMiMo/MiMo-V2-Flash](https://github.com/XiaomiMiMo/MiMo-V2-Flash)** ⭐ 774
   ![None](https://img.shields.io/badge/-None-lightgrey)
   MiMo-V2-Flash: Efficient Reasoning, Coding, and Agentic Foundation Model
 
-- **[mmarinovic/tailwindsql](https://github.com/mmarinovic/tailwindsql)** ⭐ 577
-  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
-  None
-
-- **[journey-ad/gemini-watermark-remover](https://github.com/journey-ad/gemini-watermark-remover)** ⭐ 519
+- **[journey-ad/gemini-watermark-remover](https://github.com/journey-ad/gemini-watermark-remover)** ⭐ 621
   ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
   A high-performance, 100% client-side tool for removing Gemini AI watermarks. Built with pure JavaScript, it leverages a mathematically precise Reverse Alpha Blending algorithm rather than unpredictable AI inpainting. / 基于 Javascript 的纯浏览器端 Gemini AI 图像无损去水印工具，使用数学精确的反向 Alpha 混合算法
 
-- **[Lulzx/tinypdf](https://github.com/Lulzx/tinypdf)** ⭐ 489
+- **[mmarinovic/tailwindsql](https://github.com/mmarinovic/tailwindsql)** ⭐ 611
+  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
+  None
+
+- **[Lulzx/tinypdf](https://github.com/Lulzx/tinypdf)** ⭐ 517
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   Minimal PDF creation library. <400 LOC, zero dependencies, makes real PDFs.
 
 ### 📈 Monthly Trending
 
-- **[zai-org/Open-AutoGLM](https://github.com/zai-org/Open-AutoGLM)** ⭐ 18,322
+- **[zai-org/Open-AutoGLM](https://github.com/zai-org/Open-AutoGLM)** ⭐ 18,386
   ![Python](https://img.shields.io/badge/-Python-blue)
   An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
 
-- **[karpathy/llm-council](https://github.com/karpathy/llm-council)** ⭐ 11,752
+- **[karpathy/llm-council](https://github.com/karpathy/llm-council)** ⭐ 11,771
   ![Python](https://img.shields.io/badge/-Python-blue)
   LLM Council works together to answer your hardest questions
 
-- **[Tongyi-MAI/Z-Image](https://github.com/Tongyi-MAI/Z-Image)** ⭐ 7,524
+- **[Tongyi-MAI/Z-Image](https://github.com/Tongyi-MAI/Z-Image)** ⭐ 7,542
   ![Python](https://img.shields.io/badge/-Python-blue)
   None
 
-- **[Anionex/banana-slides](https://github.com/Anionex/banana-slides)** ⭐ 5,384
+- **[Anionex/banana-slides](https://github.com/Anionex/banana-slides)** ⭐ 5,473
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   一个基于nano banana pro🍌的原生AI PPT生成应用，迈向真正的＂Vibe PPT＂; 支持上传任意模板图片；上传任意素材&智能解析；一句话/大纲/页面描述自动生成PPT；口头修改指定区域、一键导出 - An AI-native PPT generator based on nano banana pro🍌
 
-- **[apple/ml-sharp](https://github.com/apple/ml-sharp)** ⭐ 4,353
+- **[apple/ml-sharp](https://github.com/apple/ml-sharp)** ⭐ 4,432
   ![Python](https://img.shields.io/badge/-Python-blue)
   Sharp Monocular View Synthesis in Less Than a Second
 
-- **[YouMind-OpenLab/awesome-nano-banana-pro-prompts](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts)** ⭐ 4,165
+- **[YouMind-OpenLab/awesome-nano-banana-pro-prompts](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts)** ⭐ 4,196
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   🍌 1000+ selected Nano Banana Pro prompts with images, multilingual support, and instant gallery preview. Open-source prompt engineering library
 
-- **[HisMax/RedInk](https://github.com/HisMax/RedInk)** ⭐ 3,962
+- **[HisMax/RedInk](https://github.com/HisMax/RedInk)** ⭐ 3,968
   ![Python](https://img.shields.io/badge/-Python-blue)
   红墨 - 基于🍌Nano Banana Pro🍌 的一站式小红书图文生成器 《一句话一张图片生成小红书图文》 Red Ink - A one-stop Xiaohongshu image-and-text generator based on the 🍌Nano Banana Pro🍌, "One Sentence, One Image: Generate Xiaohongshu Text and Images."
 
-- **[Facepunch/sbox-public](https://github.com/Facepunch/sbox-public)** ⭐ 3,428
+- **[Facepunch/sbox-public](https://github.com/Facepunch/sbox-public)** ⭐ 3,430
   ![C#](https://img.shields.io/badge/-C#-lightgrey)
   s&box is a modern game engine, built on Valve's Source 2 and the latest .NET technology, it provides a modern intuitive editor for creating games
 
@@ -484,20 +485,20 @@ for a semver-minor rele...
 | Skill | Status |
 |-------|--------|
 | Java | 🟡 Learning |
-| Python | ⚪ Planned |
-| JavaScript | 🔴 Beginner |
-| TypeScript | 🟡 Learning |
-| Go | 🟢 Proficient |
+| Python | 🟢 Proficient |
+| JavaScript | ⚪ Planned |
+| TypeScript | 🟢 Proficient |
+| Go | 🟡 Learning |
 
 ### Frameworks
 
 | Skill | Status |
 |-------|--------|
-| React | 🟡 Learning |
-| Spring Boot | 🔴 Beginner |
+| React | 🔴 Beginner |
+| Spring Boot | 🟡 Learning |
 | Django | 🔴 Beginner |
 | Node.js | ⚪ Planned |
-| Next.js | 🟡 Learning |
+| Next.js | 🟢 Proficient |
 
 ### Cybersecurity
 
@@ -505,19 +506,19 @@ for a semver-minor rele...
 |-------|--------|
 | Penetration Testing | 🔴 Beginner |
 | Web Security | ⚪ Planned |
-| Network Security | 🟡 Learning |
-| OWASP | 🟡 Learning |
+| Network Security | 🔴 Beginner |
+| OWASP | ⚪ Planned |
 
 ### Ai Ml
 
 | Skill | Status |
 |-------|--------|
-| Machine Learning | 🔴 Beginner |
-| Deep Learning | 🟢 Proficient |
-| NLP | 🔴 Beginner |
+| Machine Learning | 🟡 Learning |
+| Deep Learning | 🟡 Learning |
+| NLP | 🟢 Proficient |
 | Computer Vision | 🔴 Beginner |
-| TensorFlow | 🟢 Proficient |
-| PyTorch | ⚪ Planned |
+| TensorFlow | 🟡 Learning |
+| PyTorch | 🟢 Proficient |
 
 ### Devops
 
@@ -525,17 +526,17 @@ for a semver-minor rele...
 |-------|--------|
 | Docker | 🟡 Learning |
 | Kubernetes | 🟡 Learning |
-| CI/CD | 🔴 Beginner |
-| AWS | 🔴 Beginner |
+| CI/CD | 🟢 Proficient |
+| AWS | ⚪ Planned |
 | Azure | 🟡 Learning |
 
 ### Other
 
 | Skill | Status |
 |-------|--------|
-| Blockchain | ⚪ Planned |
+| Blockchain | 🟡 Learning |
 | Web3 | 🟡 Learning |
-| Cloud Computing | ⚪ Planned |
+| Cloud Computing | 🟡 Learning |
 
 </details>
 
