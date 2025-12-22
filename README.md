@@ -7,7 +7,7 @@
 ![AI & ML](https://img.shields.io/badge/-AI%20&%20ML-blue) ![CyberSecurity](https://img.shields.io/badge/-CyberSecurity-red) ![Full Stack Development](https://img.shields.io/badge/-Full%20Stack%20Development-green)
 
 [![Auto Update](https://img.shields.io/badge/Auto%20Update-Enabled-success)](https://github.com/yourusername/tech-dashboard/actions)
-[![Last Updated](https://img.shields.io/badge/Last%20Updated-December 21, 2025-blue)](https://github.com/yourusername/tech-dashboard)
+[![Last Updated](https://img.shields.io/badge/Last%20Updated-December 22, 2025-blue)](https://github.com/yourusername/tech-dashboard)
 
 *Automatically updated every 6 hours with the latest tech news, trending repositories, and learning resources.*
 
@@ -46,35 +46,40 @@
 
 ### 📑 Hacker News
 
-- **[Waymo suspends service in San Francisco as robotaxis stall during blackout](https://techcrunch.com/2025/12/21/waymo-suspends-service-in-san-francisco-as-robotaxis-stall-during-blackout/)**
-  *<p>Article URL: <a href="https://techcrunch.com/2025/12/21/waymo-suspends-service-in-san-francisco-as-robotaxis-stall-during-blackout/">https://techcrunch.com/2025/12/21/waymo-suspends-service-in-san-...*
-  📅 Sun, 21 Dec 2025 17:35:44 +0000
+- **[Show HN: Mactop v2.0.0](https://github.com/metaspartan/mactop)**
+  *<p>Article URL: <a href="https://github.com/metaspartan/mactop">https://github.com/metaspartan/mactop</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46350166">https://news.ycom...*
+  📅 Mon, 22 Dec 2025 00:44:56 +0000
 
-- **[ELF Crimes: Program Interpreter Fun](https://nytpu.com/gemlog/2025-12-21)**
-  *<p>Article URL: <a href="https://nytpu.com/gemlog/2025-12-21">https://nytpu.com/gemlog/2025-12-21</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46345975">https://news.ycombina...*
-  📅 Sun, 21 Dec 2025 16:30:09 +0000
+- **[ONNX Runtime and CoreML May Silently Convert Your Model to FP16](https://ym2132.github.io/ONNX_MLProgram_NN_exploration)**
+  *<p>Article URL: <a href="https://ym2132.github.io/ONNX_MLProgram_NN_exploration">https://ym2132.github.io/ONNX_MLProgram_NN_exploration</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/i...*
+  📅 Mon, 22 Dec 2025 00:27:04 +0000
 
-- **[Show HN: Books mentioned on Hacker News in 2025](https://hackernews-readings-613604506318.us-west1.run.app)**
-  *<p>Article URL: <a href="https://hackernews-readings-613604506318.us-west1.run.app">https://hackernews-readings-613604506318.us-west1.run.app</a></p>
-<p>Comments URL: <a href="https://news.ycombinator...*
-  📅 Sun, 21 Dec 2025 16:21:04 +0000
+- **[Disney Imagineering Debuts Next-Generation Robotic Character, Olaf](https://disneyparksblog.com/disney-experiences/robotic-olaf-marks-new-era-of-disney-innovation/)**
+  *<p>Article URL: <a href="https://disneyparksblog.com/disney-experiences/robotic-olaf-marks-new-era-of-disney-innovation/">https://disneyparksblog.com/disney-experiences/robotic-olaf-marks-new-era-of-d...*
+  📅 Sun, 21 Dec 2025 21:46:20 +0000
 
-- **[Show HN: WalletWallet – create Apple passes from anything](https://walletwallet.alen.ro/)**
-  *<p>I got my Apple developer certificate and built a simple app to solve a problem I had. One shop I buy from doesn't have Apple Wallet passes. Since you need signed certificates to build these very si...*
-  📅 Sun, 21 Dec 2025 16:04:05 +0000
+- **[A guide to local coding models](https://www.aiforswes.com/p/you-dont-need-to-spend-100mo-on-claude)**
+  *<p>Article URL: <a href="https://www.aiforswes.com/p/you-dont-need-to-spend-100mo-on-claude">https://www.aiforswes.com/p/you-dont-need-to-spend-100mo-on-claude</a></p>
+<p>Comments URL: <a href="https:...*
+  📅 Sun, 21 Dec 2025 20:55:15 +0000
 
-- **[E.W.Dijkstra Archive](https://www.cs.utexas.edu/~EWD/welcome.html)**
-  *<p>Article URL: <a href="https://www.cs.utexas.edu/~EWD/welcome.html">https://www.cs.utexas.edu/~EWD/welcome.html</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46345523">https...*
-  📅 Sun, 21 Dec 2025 15:29:31 +0000
+- **[More on whether useful quantum computing is “imminent”](https://scottaaronson.blog/?p=9425)**
+  *<p>Article URL: <a href="https://scottaaronson.blog/?p=9425">https://scottaaronson.blog/?p=9425</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46348318">https://news.ycombinato...*
+  📅 Sun, 21 Dec 2025 20:53:34 +0000
 
-- **[ARIN Public Incident Report – 4.10 Misissuance Error](https://www.arin.net/announcements/20251212/)**
-  *<p>Article URL: <a href="https://www.arin.net/announcements/20251212/">https://www.arin.net/announcements/20251212/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46345444">htt...*
-  📅 Sun, 21 Dec 2025 15:19:41 +0000
+- **[Rue: Higher level than Rust, lower level than Go](https://rue-lang.dev/)**
+  *<p>Article URL: <a href="https://rue-lang.dev/">https://rue-lang.dev/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46348262">https://news.ycombinator.com/item?id=46348262</a>...*
+  📅 Sun, 21 Dec 2025 20:46:02 +0000
 
 ### 📑 TechCrunch
+
+- **[A rough week for hardware companies](https://techcrunch.com/2025/12/21/a-rough-week-for-hardware-companies/)**
+  *iRobot, Luminar, and Rad Power Bikes were very different companies, but they faced some similar challenges....*
+  📅 Sun, 21 Dec 2025 22:16:44 +0000
 
 - **[TechCrunch Mobility: Bankruptcy takes out two](https://techcrunch.com/2025/12/21/techcrunch-mobility-bankruptcy-takes-out-two/)**
   *Welcome back to TechCrunch Mobility, your hub for all things “future of transportation.”...*
@@ -96,25 +101,22 @@
   *Law firms representing Google and Apple have reportedly warned that employees who need a visa stamp to re-enter the United States should avoid leaving the country due to longer-than-usual visa process...*
   📅 Sat, 20 Dec 2025 22:00:21 +0000
 
-- **[‘It felt so wrong’: Colin Angle on iRobot, the FTC, and the Amazon deal that never was](https://techcrunch.com/2025/12/20/it-felt-so-wrong-colin-angle-on-irobot-the-ftc-and-the-amazon-deal-that-never-was/)**
-  *The iRobot founder opens up about the 18-month regulatory process that he says doomed the Roomba maker -- and what it means for American innovation....*
-  📅 Sat, 20 Dec 2025 21:31:33 +0000
-
 ### 📑 Dev.to
 
-- **[Winner](https://dev.to/preetha_vaishnavi_2b82358/winner-3872)**
-  *<p>Check out this Pen I made!</p>
+- **[Conversational AI Case Study: How a Simple Psychological Shift Drove 92% Completion Rates](https://dev.to/faraz_farhan_83ed23a154a2/conversational-ai-case-study-how-a-simple-psychological-shift-drove-92-completion-rates-2dok)**
+  *<p>The Problem Statement:<br />
+We took on a client drowning in opportunity. They were receiving 200+ inquiries daily across Website, Facebook, and WhatsApp channels. The volume wasn't the issue; the ...*
+  📅 Mon, 22 Dec 2025 00:52:55 +0000
 
-<p>
+- **[Cómo usar la API de Hashnode con Astro y desplegarlo en Vercel](https://dev.to/joaquin_sez_6de09e190ca1/como-usar-la-api-de-hashnode-con-astro-y-desplegarlo-en-vercel-1d56)**
+  *<h2>
+  
+  
+  Introducción
+</h2>
 
-</p>...*
-  📅 Sun, 21 Dec 2025 18:10:00 +0000
-
-- **[Building an Intentionally Vulnerable AWS Lab to Teach Cloud Security](https://dev.to/karanvaghela/building-an-intentionally-vulnerable-aws-lab-to-teach-cloud-security-77f)**
-  *<p><strong>Introduction</strong></p>
-
-<p>Most cloud engineers learn AWS by building functional infrastructure deploying EC2 instances, configuring S3 buckets, setting up VPCs. They pass certification ...*
-  📅 Sun, 21 Dec 2025 18:09:28 +0000
+<p>¿Te gustaría tener tu propio sitio web con un diseño personalizado pero sin perder el excelente editor de Hashnode? En este artículo aprenderás a crear un blog con ...*
+  📅 Mon, 22 Dec 2025 00:36:17 +0000
 
 </details>
 
@@ -122,105 +124,105 @@
 
 ### 📈 Daily Trending
 
-- **[miteja/instagram-reporting-tool](https://github.com/miteja/instagram-reporting-tool)** ⭐ 33
+- **[sofianeelhor/0ctf2025-wu](https://github.com/sofianeelhor/0ctf2025-wu)** ⭐ 3
   ![None](https://img.shields.io/badge/-None-lightgrey)
-  Instagram report bot are a tool designed to automate the process of reporting account on Instagram that may violate the platform's policies. These bots can be used to mass-report account for spam, fake profile, or other violations also its a reporter mass acc ban.
+  eeeeee
 
-- **[ratava/lumina-energy-card](https://github.com/ratava/lumina-energy-card)** ⭐ 27
-  ![None](https://img.shields.io/badge/-None-lightgrey)
-  Ultra Modern 3D Home Assistant dashboard card for monitoring electricity. It includes house usage, Battery States. EV Charging and multiple solar arrays
+- **[MrZeroChambero/PeliculasDocker](https://github.com/MrZeroChambero/PeliculasDocker)** ⭐ 1
+  ![PHP](https://img.shields.io/badge/-PHP-lightgrey)
+  Este repositorio contiene una aplicación web sencilla en PHP para explorar una base de datos de películas. El objetivo de este proyecto es demostrar la contenedorización de una arquitectura **LAMP** (Linux, Apache, MySQL, PHP) utilizando **Docker** y **Docker Compose**.
 
-- **[xcc-zach/xtalk](https://github.com/xcc-zach/xtalk)** ⭐ 26
+- **[chesain/Pixel_Photo_Server](https://github.com/chesain/Pixel_Photo_Server)** ⭐ 1
+  ![PowerShell](https://img.shields.io/badge/-PowerShell-lightgrey)
+  None
+
+- **[manishanthreddy96-byte/Digital-Twin-for-Batch-Quality-Risk-Bayesian-Network-](https://github.com/manishanthreddy96-byte/Digital-Twin-for-Batch-Quality-Risk-Bayesian-Network-)** ⭐ 1
   ![Python](https://img.shields.io/badge/-Python-blue)
-  X-Talk is an open-source full-duplex cascaded spoken dialogue system framework enabling low-latency, interruptible, and human-like speech interaction with a lightweight, pure-Python, production-ready architecture.
+  This project implements an interpretable digital twin that predicts batch failure risk in real time using standard manufacturing process parameters. It provides early warning and root-cause explanation to support faster, safer quality decisions.
 
-- **[karlkrause-crypto/gettflash](https://github.com/karlkrause-crypto/gettflash)** ⭐ 22
-  ![None](https://img.shields.io/badge/-None-lightgrey)
+- **[CubicCommunity/Bloqbit](https://github.com/CubicCommunity/Bloqbit)** ⭐ 1
+  ![C#](https://img.shields.io/badge/-C#-lightgrey)
+  Need it? Got it.
+
+- **[ReVanced/status](https://github.com/ReVanced/status)** ⭐ 1
+  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
+  ✔ Status page for ReVanced using UptimeFlare
+
+- **[AbhiGit799/CucumberBasics](https://github.com/AbhiGit799/CucumberBasics)** ⭐ 1
+  ![Java](https://img.shields.io/badge/-Java-orange)
   None
 
-- **[sammwyy/NRelay](https://github.com/sammwyy/NRelay)** ⭐ 21
-  ![Rust](https://img.shields.io/badge/-Rust-brown)
-  W.I.P Ngrok Alternative: Self-hosted and open-source OOB reverse tunnel (TCP/UDP/SNI/HTTP/MC)
-
-- **[Chil30/port-forward](https://github.com/Chil30/port-forward)** ⭐ 19
-  ![Shell](https://img.shields.io/badge/-Shell-lightgrey)
-  🚀 Linux port forwarding manager with 7 methods (iptables/HAProxy/socat/gost/realm/rinetd/nginx). One-click deploy, auto kernel optimization, BBR enabled. Interactive CLI.
-
-- **[w00ing/seer-skill](https://github.com/w00ing/seer-skill)** ⭐ 18
-  ![Shell](https://img.shields.io/badge/-Shell-lightgrey)
-  None
-
-- **[crispvibe/windsurf-infinite-ask](https://github.com/crispvibe/windsurf-infinite-ask)** ⭐ 17
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
-  None
+- **[timomeh/capsel](https://github.com/timomeh/capsel)** ⭐ 1
+  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
+  WIP
 
 ### 📈 Weekly Trending
 
-- **[productdevbook/port-killer](https://github.com/productdevbook/port-killer)** ⭐ 2,336
-  ![Swift](https://img.shields.io/badge/-Swift-lightgrey)
-  Native macOS app for finding and killing processes on open ports. Perfect for developers.
-
-- **[agentskills/agentskills](https://github.com/agentskills/agentskills)** ⭐ 2,275
+- **[agentskills/agentskills](https://github.com/agentskills/agentskills)** ⭐ 2,472
   ![Python](https://img.shields.io/badge/-Python-blue)
   Specification and documentation for Agent Skills
 
-- **[2025Emma/vibe-coding-cn](https://github.com/2025Emma/vibe-coding-cn)** ⭐ 1,063
+- **[productdevbook/port-killer](https://github.com/productdevbook/port-killer)** ⭐ 2,358
+  ![Swift](https://img.shields.io/badge/-Swift-lightgrey)
+  Native macOS app for finding and killing processes on open ports. Perfect for developers.
+
+- **[2025Emma/vibe-coding-cn](https://github.com/2025Emma/vibe-coding-cn)** ⭐ 1,095
   ![Python](https://img.shields.io/badge/-Python-blue)
   None
 
-- **[gaearon/rscexplorer](https://github.com/gaearon/rscexplorer)** ⭐ 818
+- **[gaearon/rscexplorer](https://github.com/gaearon/rscexplorer)** ⭐ 825
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   A tool for people curious about the React Server Components protocol
 
-- **[XiaomiMiMo/MiMo-V2-Flash](https://github.com/XiaomiMiMo/MiMo-V2-Flash)** ⭐ 774
-  ![None](https://img.shields.io/badge/-None-lightgrey)
-  MiMo-V2-Flash: Efficient Reasoning, Coding, and Agentic Foundation Model
-
-- **[journey-ad/gemini-watermark-remover](https://github.com/journey-ad/gemini-watermark-remover)** ⭐ 621
+- **[journey-ad/gemini-watermark-remover](https://github.com/journey-ad/gemini-watermark-remover)** ⭐ 648
   ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
   A high-performance, 100% client-side tool for removing Gemini AI watermarks. Built with pure JavaScript, it leverages a mathematically precise Reverse Alpha Blending algorithm rather than unpredictable AI inpainting. / 基于 Javascript 的纯浏览器端 Gemini AI 图像无损去水印工具，使用数学精确的反向 Alpha 混合算法
 
-- **[mmarinovic/tailwindsql](https://github.com/mmarinovic/tailwindsql)** ⭐ 611
-  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
-  None
-
-- **[Lulzx/tinypdf](https://github.com/Lulzx/tinypdf)** ⭐ 517
+- **[Lulzx/tinypdf](https://github.com/Lulzx/tinypdf)** ⭐ 550
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   Minimal PDF creation library. <400 LOC, zero dependencies, makes real PDFs.
 
+- **[lwj2015/lightron](https://github.com/lwj2015/lightron)** ⭐ 498
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  A light implementation of megatron for research and study
+
+- **[GuDaStudio/skills](https://github.com/GuDaStudio/skills)** ⭐ 493
+  ![PowerShell](https://img.shields.io/badge/-PowerShell-lightgrey)
+  This repository contains a collection of Agent Skills developed by GudaStudio, enabling seamless collaboration between Claude and other AI models and tools.
+
 ### 📈 Monthly Trending
 
-- **[zai-org/Open-AutoGLM](https://github.com/zai-org/Open-AutoGLM)** ⭐ 18,386
+- **[zai-org/Open-AutoGLM](https://github.com/zai-org/Open-AutoGLM)** ⭐ 18,408
   ![Python](https://img.shields.io/badge/-Python-blue)
   An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
 
-- **[karpathy/llm-council](https://github.com/karpathy/llm-council)** ⭐ 11,771
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  LLM Council works together to answer your hardest questions
-
-- **[Tongyi-MAI/Z-Image](https://github.com/Tongyi-MAI/Z-Image)** ⭐ 7,542
+- **[Tongyi-MAI/Z-Image](https://github.com/Tongyi-MAI/Z-Image)** ⭐ 7,558
   ![Python](https://img.shields.io/badge/-Python-blue)
   None
 
-- **[Anionex/banana-slides](https://github.com/Anionex/banana-slides)** ⭐ 5,473
+- **[Anionex/banana-slides](https://github.com/Anionex/banana-slides)** ⭐ 5,495
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   一个基于nano banana pro🍌的原生AI PPT生成应用，迈向真正的＂Vibe PPT＂; 支持上传任意模板图片；上传任意素材&智能解析；一句话/大纲/页面描述自动生成PPT；口头修改指定区域、一键导出 - An AI-native PPT generator based on nano banana pro🍌
 
-- **[apple/ml-sharp](https://github.com/apple/ml-sharp)** ⭐ 4,432
+- **[apple/ml-sharp](https://github.com/apple/ml-sharp)** ⭐ 4,508
   ![Python](https://img.shields.io/badge/-Python-blue)
   Sharp Monocular View Synthesis in Less Than a Second
 
-- **[YouMind-OpenLab/awesome-nano-banana-pro-prompts](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts)** ⭐ 4,196
+- **[YouMind-OpenLab/awesome-nano-banana-pro-prompts](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts)** ⭐ 4,209
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   🍌 1000+ selected Nano Banana Pro prompts with images, multilingual support, and instant gallery preview. Open-source prompt engineering library
 
-- **[HisMax/RedInk](https://github.com/HisMax/RedInk)** ⭐ 3,968
+- **[HisMax/RedInk](https://github.com/HisMax/RedInk)** ⭐ 3,970
   ![Python](https://img.shields.io/badge/-Python-blue)
   红墨 - 基于🍌Nano Banana Pro🍌 的一站式小红书图文生成器 《一句话一张图片生成小红书图文》 Red Ink - A one-stop Xiaohongshu image-and-text generator based on the 🍌Nano Banana Pro🍌, "One Sentence, One Image: Generate Xiaohongshu Text and Images."
 
-- **[Facepunch/sbox-public](https://github.com/Facepunch/sbox-public)** ⭐ 3,430
+- **[Facepunch/sbox-public](https://github.com/Facepunch/sbox-public)** ⭐ 3,431
   ![C#](https://img.shields.io/badge/-C#-lightgrey)
   s&box is a modern game engine, built on Valve's Source 2 and the latest .NET technology, it provides a modern intuitive editor for creating games
+
+- **[666OS/ClashMac](https://github.com/666OS/ClashMac)** ⭐ 2,648
+  ![None](https://img.shields.io/badge/-None-lightgrey)
+  基于 Clash (mihomo) 内核的轻量级 macOS 菜单栏客户端。Lightweight macOS Clash (mihomo) menu bar client.
 
 ## 🚀 Latest Releases
 
@@ -485,50 +487,50 @@ for a semver-minor rele...
 | Skill | Status |
 |-------|--------|
 | Java | 🟡 Learning |
-| Python | 🟢 Proficient |
-| JavaScript | ⚪ Planned |
-| TypeScript | 🟢 Proficient |
+| Python | ⚪ Planned |
+| JavaScript | 🔴 Beginner |
+| TypeScript | 🔴 Beginner |
 | Go | 🟡 Learning |
 
 ### Frameworks
 
 | Skill | Status |
 |-------|--------|
-| React | 🔴 Beginner |
+| React | 🟡 Learning |
 | Spring Boot | 🟡 Learning |
-| Django | 🔴 Beginner |
+| Django | 🟡 Learning |
 | Node.js | ⚪ Planned |
-| Next.js | 🟢 Proficient |
+| Next.js | 🟡 Learning |
 
 ### Cybersecurity
 
 | Skill | Status |
 |-------|--------|
-| Penetration Testing | 🔴 Beginner |
-| Web Security | ⚪ Planned |
-| Network Security | 🔴 Beginner |
-| OWASP | ⚪ Planned |
+| Penetration Testing | ⚪ Planned |
+| Web Security | 🟢 Proficient |
+| Network Security | 🟡 Learning |
+| OWASP | 🟢 Proficient |
 
 ### Ai Ml
 
 | Skill | Status |
 |-------|--------|
-| Machine Learning | 🟡 Learning |
-| Deep Learning | 🟡 Learning |
+| Machine Learning | 🔴 Beginner |
+| Deep Learning | 🟢 Proficient |
 | NLP | 🟢 Proficient |
-| Computer Vision | 🔴 Beginner |
-| TensorFlow | 🟡 Learning |
+| Computer Vision | 🟢 Proficient |
+| TensorFlow | 🟢 Proficient |
 | PyTorch | 🟢 Proficient |
 
 ### Devops
 
 | Skill | Status |
 |-------|--------|
-| Docker | 🟡 Learning |
-| Kubernetes | 🟡 Learning |
+| Docker | ⚪ Planned |
+| Kubernetes | 🟢 Proficient |
 | CI/CD | 🟢 Proficient |
-| AWS | ⚪ Planned |
-| Azure | 🟡 Learning |
+| AWS | 🟡 Learning |
+| Azure | ⚪ Planned |
 
 ### Other
 
@@ -536,7 +538,7 @@ for a semver-minor rele...
 |-------|--------|
 | Blockchain | 🟡 Learning |
 | Web3 | 🟡 Learning |
-| Cloud Computing | 🟡 Learning |
+| Cloud Computing | 🟢 Proficient |
 
 </details>
 
@@ -554,7 +556,7 @@ This dashboard is automatically updated every 6 hours using GitHub Actions. The 
 
 <div align="center">
 
-**Last Updated:** December 21, 2025
+**Last Updated:** December 22, 2025
 
 Made with ❤️ and automated with GitHub Actions
 
