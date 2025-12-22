@@ -46,10 +46,19 @@
 
 ### 📑 Hacker News
 
-- **[Show HN: Mactop v2.0.0](https://github.com/metaspartan/mactop)**
-  *<p>Article URL: <a href="https://github.com/metaspartan/mactop">https://github.com/metaspartan/mactop</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46350166">https://news.ycom...*
-  📅 Mon, 22 Dec 2025 00:44:56 +0000
+- **[Cursed circuits #3: true mathematics](https://lcamtuf.substack.com/p/cursed-circuits-3-true-mathematics)**
+  *<p>Article URL: <a href="https://lcamtuf.substack.com/p/cursed-circuits-3-true-mathematics">https://lcamtuf.substack.com/p/cursed-circuits-3-true-mathematics</a></p>
+<p>Comments URL: <a href="https://...*
+  📅 Mon, 22 Dec 2025 04:34:36 +0000
+
+- **[Build Android apps using Rust and Iced](https://github.com/ibaryshnikov/android-iced-example)**
+  *<p>Some time ago I decided to try building an Android app using Rust. After a few weeks I got it working. There was a new iced release recently, so I've just updated the example to new iced and wgpu. ...*
+  📅 Mon, 22 Dec 2025 02:14:32 +0000
+
+- **[86Box v5.3](https://86box.net/2025/12/21/86box-v5-3.html)**
+  *<p>Article URL: <a href="https://86box.net/2025/12/21/86box-v5-3.html">https://86box.net/2025/12/21/86box-v5-3.html</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46350477">htt...*
+  📅 Mon, 22 Dec 2025 01:43:40 +0000
 
 - **[ONNX Runtime and CoreML May Silently Convert Your Model to FP16](https://ym2132.github.io/ONNX_MLProgram_NN_exploration)**
   *<p>Article URL: <a href="https://ym2132.github.io/ONNX_MLProgram_NN_exploration">https://ym2132.github.io/ONNX_MLProgram_NN_exploration</a></p>
@@ -60,22 +69,15 @@
   *<p>Article URL: <a href="https://disneyparksblog.com/disney-experiences/robotic-olaf-marks-new-era-of-disney-innovation/">https://disneyparksblog.com/disney-experiences/robotic-olaf-marks-new-era-of-d...*
   📅 Sun, 21 Dec 2025 21:46:20 +0000
 
-- **[A guide to local coding models](https://www.aiforswes.com/p/you-dont-need-to-spend-100mo-on-claude)**
-  *<p>Article URL: <a href="https://www.aiforswes.com/p/you-dont-need-to-spend-100mo-on-claude">https://www.aiforswes.com/p/you-dont-need-to-spend-100mo-on-claude</a></p>
-<p>Comments URL: <a href="https:...*
-  📅 Sun, 21 Dec 2025 20:55:15 +0000
-
-- **[More on whether useful quantum computing is “imminent”](https://scottaaronson.blog/?p=9425)**
-  *<p>Article URL: <a href="https://scottaaronson.blog/?p=9425">https://scottaaronson.blog/?p=9425</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46348318">https://news.ycombinato...*
-  📅 Sun, 21 Dec 2025 20:53:34 +0000
-
-- **[Rue: Higher level than Rust, lower level than Go](https://rue-lang.dev/)**
-  *<p>Article URL: <a href="https://rue-lang.dev/">https://rue-lang.dev/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46348262">https://news.ycombinator.com/item?id=46348262</a>...*
-  📅 Sun, 21 Dec 2025 20:46:02 +0000
+- **[Show HN: Rust/WASM lighting data toolkit – parses legacy formats, generates SVGs](https://eulumdat.icu)**
+  *<p>Hi HN, I'm Holger, a developer who worked in the lighting industry.<p>I built this to scratch my own itch and put it on crates.io and PyPI where nothing like it existed.<p>The old file formats (EUL...*
+  📅 Sun, 21 Dec 2025 20:56:54 +0000
 
 ### 📑 TechCrunch
+
+- **[Waymo resumes service in San Francisco after robotaxis stall during blackout](https://techcrunch.com/2025/12/21/waymo-suspends-service-in-san-francisco-as-robotaxis-stall-during-blackout/)**
+  *Waymo suspended its SF robotaxi service on Saturday evening after a massive blackout appeared to leave many of its vehicles stalled on city streets....*
+  📅 Mon, 22 Dec 2025 03:24:49 +0000
 
 - **[A rough week for hardware companies](https://techcrunch.com/2025/12/21/a-rough-week-for-hardware-companies/)**
   *iRobot, Luminar, and Rad Power Bikes were very different companies, but they faced some similar challenges....*
@@ -84,10 +86,6 @@
 - **[TechCrunch Mobility: Bankruptcy takes out two](https://techcrunch.com/2025/12/21/techcrunch-mobility-bankruptcy-takes-out-two/)**
   *Welcome back to TechCrunch Mobility, your hub for all things “future of transportation.”...*
   📅 Sun, 21 Dec 2025 17:00:00 +0000
-
-- **[Waymo suspends service in San Francisco as robotaxis stall during blackout](https://techcrunch.com/2025/12/21/waymo-suspends-service-in-san-francisco-as-robotaxis-stall-during-blackout/)**
-  *Waymo suspended its SF robotaxi service on Saturday evening after a massive blackout appeared to leave many of its vehicles stalled on city streets....*
-  📅 Sun, 21 Dec 2025 15:46:29 +0000
 
 - **[As EU waters down 2035 EV goals, electric startups express concern](https://techcrunch.com/2025/12/21/as-eu-waters-down-2035-ev-goals-electric-startups-express-concern/)**
   *The future may be electric, but that future is being postponed. The European Commission, citing the need for flexibility, has softened its ambitious plan to ban the sale of gas-powered cars by 2035. I...*
@@ -103,20 +101,17 @@
 
 ### 📑 Dev.to
 
-- **[Conversational AI Case Study: How a Simple Psychological Shift Drove 92% Completion Rates](https://dev.to/faraz_farhan_83ed23a154a2/conversational-ai-case-study-how-a-simple-psychological-shift-drove-92-completion-rates-2dok)**
-  *<p>The Problem Statement:<br />
-We took on a client drowning in opportunity. They were receiving 200+ inquiries daily across Website, Facebook, and WhatsApp channels. The volume wasn't the issue; the ...*
-  📅 Mon, 22 Dec 2025 00:52:55 +0000
+- **[Building a High-Performance Real-Time Camera Capture System in C++](https://dev.to/techsorter/building-a-high-performance-real-time-camera-capture-system-in-c-3kad)**
+  *<p>Deep dive into building a <strong>production-ready</strong> <strong>camera capture system with zero-copy V4L2, multithreading, and FFmpeg encoding.</strong></p>
 
-- **[Cómo usar la API de Hashnode con Astro y desplegarlo en Vercel](https://dev.to/joaquin_sez_6de09e190ca1/como-usar-la-api-de-hashnode-con-astro-y-desplegarlo-en-vercel-1d56)**
-  *<h2>
-  
-  
-  Introducción
-</h2>
+<p>Ever wondered how professional s...*
+  📅 Mon, 22 Dec 2025 06:11:18 +0000
 
-<p>¿Te gustaría tener tu propio sitio web con un diseño personalizado pero sin perder el excelente editor de Hashnode? En este artículo aprenderás a crear un blog con ...*
-  📅 Mon, 22 Dec 2025 00:36:17 +0000
+- **[Why AI Code Suggestions Fail in Multi-File Projects](https://dev.to/leena_malhotra/why-ai-code-suggestions-fail-in-multi-file-projects-49j9)**
+  *<p>If you are building a Todo app in a single index.js file, AI coding assistants feel like magic. They predict the entire function before you finish typing the signature.</p>
+
+<p>But if you are worki...*
+  📅 Mon, 22 Dec 2025 06:09:28 +0000
 
 </details>
 
@@ -124,105 +119,105 @@ We took on a client drowning in opportunity. They were receiving 200+ inquiries 
 
 ### 📈 Daily Trending
 
+- **[hoshinolina/libfunnel](https://github.com/hoshinolina/libfunnel)** ⭐ 8
+  ![C](https://img.shields.io/badge/-C-lightgrey)
+  Easy app-to-app frame sharing using PipeWire
+
+- **[Prog77X/ai-code-review](https://github.com/Prog77X/ai-code-review)** ⭐ 7
+  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
+  基于 NestJS 的 AI 代码评审服务，支持 GitLab 和 GitHub 的 Webhook 集成。自动分析 Merge Request/Push 中的代码变更，使用 AI 模型进行代码评审，并将评审结果发布回 Git 平台。
+
+- **[amerob/gesture-3d-studio](https://github.com/amerob/gesture-3d-studio)** ⭐ 5
+  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
+  Gesture3D Studio is an interactive web app that uses hand gestures to control 3D models in real-time with webcam input. Built with React, Three.js, and MediaPipe, it supports gesture-based manipulation and custom scene lighting.
+
+- **[daydust/ParamX](https://github.com/daydust/ParamX)** ⭐ 4
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
+  js主动参数提取与构造工具
+
+- **[magicechostack/melodisco](https://github.com/magicechostack/melodisco)** ⭐ 4
+  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
+  None
+
+- **[dorisoy/Dorisoy.Mediasoup](https://github.com/dorisoy/Dorisoy.Mediasoup)** ⭐ 4
+  ![C#](https://img.shields.io/badge/-C#-lightgrey)
+  Dorisoy.Mediasoup 是一个基于 .NET 8 的完整实时音视频通信解决方案，采用 Mediasoup SFU 架构实现高性能的 WebRTC 媒体服务。项目包含 Mediasoup 核心库（C# 实现）、libuv 异步 I/O 绑定、ASP.NET Core 集成中间件、SignalR 信令服务器，以及 WPF 桌面客户端和 Blazor Web 客户端。支持 Open/Pull/Invite 三种服务模式，提供房间管理、音视频采集传输、多端互通等功能。技术栈涵盖 WebRTC、SignalR、SIPSorcery、OpenCvSharp、NAudio 等，适用于在线会议、远程协作、直播互动等场景。
+
+- **[richman3813/freeSpider](https://github.com/richman3813/freeSpider)** ⭐ 3
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  基于docker部署的一款支持动态JS爬取的高性能爬虫服务，支持API调用
+
 - **[sofianeelhor/0ctf2025-wu](https://github.com/sofianeelhor/0ctf2025-wu)** ⭐ 3
   ![None](https://img.shields.io/badge/-None-lightgrey)
   eeeeee
 
-- **[MrZeroChambero/PeliculasDocker](https://github.com/MrZeroChambero/PeliculasDocker)** ⭐ 1
-  ![PHP](https://img.shields.io/badge/-PHP-lightgrey)
-  Este repositorio contiene una aplicación web sencilla en PHP para explorar una base de datos de películas. El objetivo de este proyecto es demostrar la contenedorización de una arquitectura **LAMP** (Linux, Apache, MySQL, PHP) utilizando **Docker** y **Docker Compose**.
-
-- **[chesain/Pixel_Photo_Server](https://github.com/chesain/Pixel_Photo_Server)** ⭐ 1
-  ![PowerShell](https://img.shields.io/badge/-PowerShell-lightgrey)
-  None
-
-- **[manishanthreddy96-byte/Digital-Twin-for-Batch-Quality-Risk-Bayesian-Network-](https://github.com/manishanthreddy96-byte/Digital-Twin-for-Batch-Quality-Risk-Bayesian-Network-)** ⭐ 1
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  This project implements an interpretable digital twin that predicts batch failure risk in real time using standard manufacturing process parameters. It provides early warning and root-cause explanation to support faster, safer quality decisions.
-
-- **[CubicCommunity/Bloqbit](https://github.com/CubicCommunity/Bloqbit)** ⭐ 1
-  ![C#](https://img.shields.io/badge/-C#-lightgrey)
-  Need it? Got it.
-
-- **[ReVanced/status](https://github.com/ReVanced/status)** ⭐ 1
-  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
-  ✔ Status page for ReVanced using UptimeFlare
-
-- **[AbhiGit799/CucumberBasics](https://github.com/AbhiGit799/CucumberBasics)** ⭐ 1
-  ![Java](https://img.shields.io/badge/-Java-orange)
-  None
-
-- **[timomeh/capsel](https://github.com/timomeh/capsel)** ⭐ 1
-  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
-  WIP
-
 ### 📈 Weekly Trending
 
-- **[agentskills/agentskills](https://github.com/agentskills/agentskills)** ⭐ 2,472
+- **[agentskills/agentskills](https://github.com/agentskills/agentskills)** ⭐ 2,772
   ![Python](https://img.shields.io/badge/-Python-blue)
   Specification and documentation for Agent Skills
 
-- **[productdevbook/port-killer](https://github.com/productdevbook/port-killer)** ⭐ 2,358
+- **[productdevbook/port-killer](https://github.com/productdevbook/port-killer)** ⭐ 2,383
   ![Swift](https://img.shields.io/badge/-Swift-lightgrey)
   Native macOS app for finding and killing processes on open ports. Perfect for developers.
 
-- **[2025Emma/vibe-coding-cn](https://github.com/2025Emma/vibe-coding-cn)** ⭐ 1,095
+- **[2025Emma/vibe-coding-cn](https://github.com/2025Emma/vibe-coding-cn)** ⭐ 1,246
   ![Python](https://img.shields.io/badge/-Python-blue)
   None
 
-- **[gaearon/rscexplorer](https://github.com/gaearon/rscexplorer)** ⭐ 825
+- **[gaearon/rscexplorer](https://github.com/gaearon/rscexplorer)** ⭐ 833
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   A tool for people curious about the React Server Components protocol
 
-- **[journey-ad/gemini-watermark-remover](https://github.com/journey-ad/gemini-watermark-remover)** ⭐ 648
+- **[journey-ad/gemini-watermark-remover](https://github.com/journey-ad/gemini-watermark-remover)** ⭐ 713
   ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
   A high-performance, 100% client-side tool for removing Gemini AI watermarks. Built with pure JavaScript, it leverages a mathematically precise Reverse Alpha Blending algorithm rather than unpredictable AI inpainting. / 基于 Javascript 的纯浏览器端 Gemini AI 图像无损去水印工具，使用数学精确的反向 Alpha 混合算法
 
-- **[Lulzx/tinypdf](https://github.com/Lulzx/tinypdf)** ⭐ 550
+- **[Lulzx/tinypdf](https://github.com/Lulzx/tinypdf)** ⭐ 604
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   Minimal PDF creation library. <400 LOC, zero dependencies, makes real PDFs.
 
-- **[lwj2015/lightron](https://github.com/lwj2015/lightron)** ⭐ 498
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  A light implementation of megatron for research and study
-
-- **[GuDaStudio/skills](https://github.com/GuDaStudio/skills)** ⭐ 493
-  ![PowerShell](https://img.shields.io/badge/-PowerShell-lightgrey)
-  This repository contains a collection of Agent Skills developed by GudaStudio, enabling seamless collaboration between Claude and other AI models and tools.
-
-### 📈 Monthly Trending
-
-- **[zai-org/Open-AutoGLM](https://github.com/zai-org/Open-AutoGLM)** ⭐ 18,408
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
-
-- **[Tongyi-MAI/Z-Image](https://github.com/Tongyi-MAI/Z-Image)** ⭐ 7,558
+- **[MineDojo/NitroGen](https://github.com/MineDojo/NitroGen)** ⭐ 584
   ![Python](https://img.shields.io/badge/-Python-blue)
   None
 
-- **[Anionex/banana-slides](https://github.com/Anionex/banana-slides)** ⭐ 5,495
+- **[QwenLM/Qwen-Image-Layered](https://github.com/QwenLM/Qwen-Image-Layered)** ⭐ 554
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  Qwen-Image-Layered: Layered Decomposition for Inherent Editablity
+
+### 📈 Monthly Trending
+
+- **[zai-org/Open-AutoGLM](https://github.com/zai-org/Open-AutoGLM)** ⭐ 18,544
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
+
+- **[Tongyi-MAI/Z-Image](https://github.com/Tongyi-MAI/Z-Image)** ⭐ 7,581
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  None
+
+- **[Anionex/banana-slides](https://github.com/Anionex/banana-slides)** ⭐ 5,598
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   一个基于nano banana pro🍌的原生AI PPT生成应用，迈向真正的＂Vibe PPT＂; 支持上传任意模板图片；上传任意素材&智能解析；一句话/大纲/页面描述自动生成PPT；口头修改指定区域、一键导出 - An AI-native PPT generator based on nano banana pro🍌
 
-- **[apple/ml-sharp](https://github.com/apple/ml-sharp)** ⭐ 4,508
+- **[apple/ml-sharp](https://github.com/apple/ml-sharp)** ⭐ 4,581
   ![Python](https://img.shields.io/badge/-Python-blue)
   Sharp Monocular View Synthesis in Less Than a Second
 
-- **[YouMind-OpenLab/awesome-nano-banana-pro-prompts](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts)** ⭐ 4,209
+- **[YouMind-OpenLab/awesome-nano-banana-pro-prompts](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts)** ⭐ 4,226
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   🍌 1000+ selected Nano Banana Pro prompts with images, multilingual support, and instant gallery preview. Open-source prompt engineering library
 
-- **[HisMax/RedInk](https://github.com/HisMax/RedInk)** ⭐ 3,970
+- **[HisMax/RedInk](https://github.com/HisMax/RedInk)** ⭐ 3,985
   ![Python](https://img.shields.io/badge/-Python-blue)
   红墨 - 基于🍌Nano Banana Pro🍌 的一站式小红书图文生成器 《一句话一张图片生成小红书图文》 Red Ink - A one-stop Xiaohongshu image-and-text generator based on the 🍌Nano Banana Pro🍌, "One Sentence, One Image: Generate Xiaohongshu Text and Images."
 
-- **[Facepunch/sbox-public](https://github.com/Facepunch/sbox-public)** ⭐ 3,431
+- **[Facepunch/sbox-public](https://github.com/Facepunch/sbox-public)** ⭐ 3,432
   ![C#](https://img.shields.io/badge/-C#-lightgrey)
   s&box is a modern game engine, built on Valve's Source 2 and the latest .NET technology, it provides a modern intuitive editor for creating games
 
-- **[666OS/ClashMac](https://github.com/666OS/ClashMac)** ⭐ 2,648
-  ![None](https://img.shields.io/badge/-None-lightgrey)
-  基于 Clash (mihomo) 内核的轻量级 macOS 菜单栏客户端。Lightweight macOS Clash (mihomo) menu bar client.
+- **[agentskills/agentskills](https://github.com/agentskills/agentskills)** ⭐ 2,772
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  Specification and documentation for Agent Skills
 
 ## 🚀 Latest Releases
 
@@ -486,59 +481,59 @@ for a semver-minor rele...
 
 | Skill | Status |
 |-------|--------|
-| Java | 🟡 Learning |
-| Python | ⚪ Planned |
-| JavaScript | 🔴 Beginner |
+| Java | ⚪ Planned |
+| Python | 🟡 Learning |
+| JavaScript | ⚪ Planned |
 | TypeScript | 🔴 Beginner |
-| Go | 🟡 Learning |
+| Go | ⚪ Planned |
 
 ### Frameworks
 
 | Skill | Status |
 |-------|--------|
-| React | 🟡 Learning |
-| Spring Boot | 🟡 Learning |
-| Django | 🟡 Learning |
-| Node.js | ⚪ Planned |
+| React | ⚪ Planned |
+| Spring Boot | 🟢 Proficient |
+| Django | 🟢 Proficient |
+| Node.js | 🔴 Beginner |
 | Next.js | 🟡 Learning |
 
 ### Cybersecurity
 
 | Skill | Status |
 |-------|--------|
-| Penetration Testing | ⚪ Planned |
-| Web Security | 🟢 Proficient |
+| Penetration Testing | 🟡 Learning |
+| Web Security | 🟡 Learning |
 | Network Security | 🟡 Learning |
-| OWASP | 🟢 Proficient |
+| OWASP | 🟡 Learning |
 
 ### Ai Ml
 
 | Skill | Status |
 |-------|--------|
-| Machine Learning | 🔴 Beginner |
-| Deep Learning | 🟢 Proficient |
-| NLP | 🟢 Proficient |
+| Machine Learning | ⚪ Planned |
+| Deep Learning | ⚪ Planned |
+| NLP | 🟡 Learning |
 | Computer Vision | 🟢 Proficient |
-| TensorFlow | 🟢 Proficient |
-| PyTorch | 🟢 Proficient |
+| TensorFlow | 🟡 Learning |
+| PyTorch | ⚪ Planned |
 
 ### Devops
 
 | Skill | Status |
 |-------|--------|
-| Docker | ⚪ Planned |
+| Docker | 🟢 Proficient |
 | Kubernetes | 🟢 Proficient |
-| CI/CD | 🟢 Proficient |
+| CI/CD | ⚪ Planned |
 | AWS | 🟡 Learning |
-| Azure | ⚪ Planned |
+| Azure | 🟡 Learning |
 
 ### Other
 
 | Skill | Status |
 |-------|--------|
-| Blockchain | 🟡 Learning |
-| Web3 | 🟡 Learning |
-| Cloud Computing | 🟢 Proficient |
+| Blockchain | 🟢 Proficient |
+| Web3 | ⚪ Planned |
+| Cloud Computing | 🟡 Learning |
 
 </details>
 
