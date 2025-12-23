@@ -20,8 +20,8 @@
 | Metric | Count |
 |--------|-------|
 | 📰 Latest News Articles | 26 |
-| 🔥 Trending Repositories | 45 |
-| 🎯 Latest Releases | 10 |
+| 🔥 Trending Repositories | 30 |
+| 🎯 Latest Releases | 8 |
 | 🎯 Learning Goals | 4 |
 
 ## 🎯 Current Focus
@@ -46,73 +46,76 @@
 
 ### 📑 Hacker News
 
-- **[What Is (AI) Glaze?](https://glaze.cs.uchicago.edu/what-is-glaze.html)**
-  *<p>Article URL: <a href="https://glaze.cs.uchicago.edu/what-is-glaze.html">https://glaze.cs.uchicago.edu/what-is-glaze.html</a></p>
+- **[Fabrice Bellard Releases MicroQuickJS](https://github.com/bellard/mquickjs/blob/main/README.md)**
+  *<p>Article URL: <a href="https://github.com/bellard/mquickjs/blob/main/README.md">https://github.com/bellard/mquickjs/blob/main/README.md</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com...*
+  📅 Tue, 23 Dec 2025 17:33:42 +0000
+
+- **[How Did Doge Disrupt So Much While Saving So Little?](https://www.nytimes.com/2025/12/23/us/politics/doge-musk-trump-analysis.html)**
+  *<p>Article URL: <a href="https://www.nytimes.com/2025/12/23/us/politics/doge-musk-trump-analysis.html">https://www.nytimes.com/2025/12/23/us/politics/doge-musk-trump-analysis.html</a></p>
+<p>Comments ...*
+  📅 Tue, 23 Dec 2025 17:33:40 +0000
+
+- **[Meta Is Using the Linux Scheduler Designed for Valve's Steam Deck on Its Servers](https://www.phoronix.com/news/Meta-SCX-LAVD-Steam-Deck-Server)**
+  *<p>Article URL: <a href="https://www.phoronix.com/news/Meta-SCX-LAVD-Steam-Deck-Server">https://www.phoronix.com/news/Meta-SCX-LAVD-Steam-Deck-Server</a></p>
+<p>Comments URL: <a href="https://news.yco...*
+  📅 Tue, 23 Dec 2025 17:08:34 +0000
+
+- **[When irate product support customers demand to speak to Bill Gates](https://devblogs.microsoft.com/oldnewthing/20251223-00/?p=111896)**
+  *<p>Article URL: <a href="https://devblogs.microsoft.com/oldnewthing/20251223-00/?p=111896">https://devblogs.microsoft.com/oldnewthing/20251223-00/?p=111896</a></p>
+<p>Comments URL: <a href="https://ne...*
+  📅 Tue, 23 Dec 2025 16:43:03 +0000
+
+- **[Test, don't (just) verify](https://alperenkeles.com/posts/test-dont-verify/)**
+  *<p>Article URL: <a href="https://alperenkeles.com/posts/test-dont-verify/">https://alperenkeles.com/posts/test-dont-verify/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=46364...*
-  📅 Tue, 23 Dec 2025 11:07:42 +0000
+  📅 Tue, 23 Dec 2025 12:56:50 +0000
 
 - **[Ryanair fined €256M over ‘abusive strategy’ to limit ticket sales by OTAs](https://www.theguardian.com/business/2025/dec/23/ryanair-fined-limit-online-travel-agencies-ticket-sales-ota)**
   *<p>Article URL: <a href="https://www.theguardian.com/business/2025/dec/23/ryanair-fined-limit-online-travel-agencies-ticket-sales-ota">https://www.theguardian.com/business/2025/dec/23/ryanair-fined-li...*
   📅 Tue, 23 Dec 2025 10:53:07 +0000
 
-- **[Font with Built-In Syntax Highlighting (2024)](https://blog.glyphdrawing.club/font-with-built-in-syntax-highlighting/)**
-  *<p>Article URL: <a href="https://blog.glyphdrawing.club/font-with-built-in-syntax-highlighting/">https://blog.glyphdrawing.club/font-with-built-in-syntax-highlighting/</a></p>
-<p>Comments URL: <a href...*
-  📅 Tue, 23 Dec 2025 10:28:09 +0000
-
-- **[What are the best engineering blogs with real-world depth (no fluff)?](https://news.ycombinator.com/item?id=46363921)**
-  *<p>I’m looking for examples of high-quality engineering blog posts—especially from tech company blogs, that go beyond surface-level explanations.<p>Specifically interested in posts that:
-1. Explain te...*
-  📅 Tue, 23 Dec 2025 09:50:31 +0000
-
-- **[Carnap – A formal logic framework for Haskell](https://carnap.io/)**
-  *<p>Article URL: <a href="https://carnap.io/">https://carnap.io/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46363751">https://news.ycombinator.com/item?id=46363751</a></p>
-<...*
-  📅 Tue, 23 Dec 2025 09:17:42 +0000
-
-- **[Instant database clones with PostgreSQL 18](https://boringsql.com/posts/instant-database-clones/)**
-  *<p>Article URL: <a href="https://boringsql.com/posts/instant-database-clones/">https://boringsql.com/posts/instant-database-clones/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?...*
-  📅 Tue, 23 Dec 2025 07:58:25 +0000
-
 ### 📑 TechCrunch
 
-- **[OpenAI says AI browsers may always be vulnerable to prompt injection attacks](https://techcrunch.com/2025/12/22/openai-says-ai-browsers-may-always-be-vulnerable-to-prompt-injection-attacks/)**
-  *OpenAI says prompt injections will always be a risk for AI browsers with agentic capabilities, like Atlas. But the firm is beefing up its cybersecurity with an "LLM-based automated attacker."...*
-  📅 Mon, 22 Dec 2025 22:11:19 +0000
+- **[US insurance giant Aflac says hackers stole personal and health data of 22.6 million](https://techcrunch.com/2025/12/23/us-insurance-giant-aflac-says-hackers-stole-personal-data-of-22-6-million/)**
+  *Aflac, one of the largest insurance companies in the U.S., confirmed hackers stole reams of personal data, including Social Security numbers, identity documents, and health information....*
+  📅 Tue, 23 Dec 2025 17:14:04 +0000
 
-- **[Alphabet to buy Intersect Power to bypass energy grid bottlenecks](https://techcrunch.com/2025/12/22/alphabet-to-buy-intersect-power-to-bypass-energy-grid-bottlenecks/)**
-  *Alphabet is set to pay $4.75 billion in cash, plus debt, for the data center and clean energy developer....*
-  📅 Mon, 22 Dec 2025 21:10:54 +0000
+- **[This founder just landed funding for a second go at the same problem: Affordable custom home design](https://techcrunch.com/2025/12/23/this-founder-just-landed-backing-for-a-second-go-at-the-same-problem-affordable-custom-home-design/)**
+  *Drafted is now nearly five months old, and it's everything Atmos wasn't....*
+  📅 Tue, 23 Dec 2025 17:00:00 +0000
 
-- **[Trump admin halts 6 GW of offshore wind leases again](https://techcrunch.com/2025/12/22/trump-admin-halts-6-gw-of-offshore-wind-leases-again/)**
-  *The move is the latest attempt by the Trump administration to delay the construction of 6 gigawatts of offshore wind near a hotspot of data center development....*
-  📅 Mon, 22 Dec 2025 20:52:31 +0000
+- **[Marissa Mayer’s new startup Dazzle raises $8M led by Forerunner’s Kirsten Green](https://techcrunch.com/2025/12/23/marissa-mayers-new-startup-dazzle-raises-8m-led-by-forerunners-kirsten-green/)**
+  *Mayer launched Dazzle after shuttering her photo and contact management startup Sunshine. Green’s investment suggests Dazzle is poised for the coming wave of new AI-infused consumer businesses....*
+  📅 Tue, 23 Dec 2025 16:48:45 +0000
 
-- **[Paramount renews bid for Warner Bros, ensuring $40B Larry Ellison backing](https://techcrunch.com/2025/12/22/paramount-renews-bid-for-warner-bros-ensuring-40-billion-larry-ellison-backing/)**
-  *It's the latest attempt by one major Hollywood superpower to acquire another....*
-  📅 Mon, 22 Dec 2025 19:53:33 +0000
+- **[Amazon’s AI assistant Alexa+ now works with Angi, Expedia, Square, and Yelp](https://techcrunch.com/2025/12/23/amazons-ai-assistant-alexa-now-works-with-angi-expedia-square-and-yelp/)**
+  *The new integrations join other services like Yelp, Uber, OpenTable and others....*
+  📅 Tue, 23 Dec 2025 16:04:57 +0000
 
-- **[ChatGPT launches a year-end review like Spotify Wrapped](https://techcrunch.com/2025/12/22/chatgpt-launches-a-year-end-review-like-spotify-wrapped/)**
-  *The experience includes awards, poems, and pictures referencing your year in chat....*
-  📅 Mon, 22 Dec 2025 19:01:04 +0000
+- **[Lemon Slice nabs $10.5M from YC and Matrix to build out its digital avatar tech](https://techcrunch.com/2025/12/23/lemon-slice-nabs-10-5m-from-yc-and-matrix-to-build-out-its-digital-avatar-tech/)**
+  *Digital avatar generation company Lemon Slice is working to add a video layer to AI chatbots with a new diffusion model that can create digital avatars from a single image....*
+  📅 Tue, 23 Dec 2025 16:00:00 +0000
 
-- **[CEO of SpaceX rival United Launch Alliance resigns](https://techcrunch.com/2025/12/22/ceo-of-spacex-rival-united-launch-alliance-resigns/)**
-  *Tory Bruno's abrupt departure comes after 12 years in the role. The company, a Boeing-Lockheed Martin joint venture, has had to fight to keep pace with Elon Musk's SpaceX....*
-  📅 Mon, 22 Dec 2025 18:35:51 +0000
+- **[France’s postal and banking services disrupted by suspected DDoS attack](https://techcrunch.com/2025/12/23/frances-postal-and-banking-services-disrupted-by-suspected-ddos-attack/)**
+  *France's postal service, La Poste, said it was hit by a disruptive cyberattack that knocked its services offline....*
+  📅 Tue, 23 Dec 2025 15:42:23 +0000
 
 ### 📑 Dev.to
 
-- **[The Holiday Season That Keeps Making Tech History](https://dev.to/razoorka/the-holiday-season-that-keeps-making-tech-history-33p)**
-  *<p>Happy holidays, fellow engineers.</p>
+- **[I Built a Privacy-First CSV Explorer That Works Entirely in Your Browser](https://dev.to/dinesh_kumar_ef63ffef1c64/i-built-a-privacy-first-csv-explorer-that-works-entirely-in-your-browser-3lk3)**
+  *<p>Why I Built This</p>
 
-<p>What a year 2025 has been. AI agents everywhere, more layoffs, the return-to-office wars continuing, and enough Slack notifications to last a lifetime. We'...*
-  📅 Tue, 23 Dec 2025 12:18:17 +0000
+<p>CSV files are everywhere — exports from databases, APIs, analytics tools, surveys, and reports.</p>
 
-- **[Salesforce’s AI Push Faces Trust Questions After 4,000-Employee Layoff](https://dev.to/logicverse_2025/salesforces-ai-push-faces-trust-questions-after-4000-employee-layoff-84p)**
-  *<p>Salesforce’s recent move to cut roughly 4,000 jobs has intensified scrutiny around its aggressive push into artificial intelligence. The layoffs come at a time when the company is publicly champion...*
-  📅 Tue, 23 Dec 2025 12:17:39 +0000
+<p>But working with them is still painful:</p>
+
+<p>Excel crashes on lar...*
+  📅 Tue, 23 Dec 2025 18:07:14 +0000
+
+- **[AWS Control Tower 4.0: A New Look at Landing Zones](https://dev.to/aws-builders/aws-control-tower-40-a-new-look-at-landing-zones-1ap6)**
+  *<p>AWS Control Tower has long been the preferred solution for implementing governance based on AWS best practices, though it can be a controversial topic among SREs and Platform Engineers. With the re...*
+  📅 Tue, 23 Dec 2025 18:02:11 +0000
 
 </details>
 
@@ -120,91 +123,57 @@
 
 ### 📈 Daily Trending
 
-- **[focus-creative-games/leanclr](https://github.com/focus-creative-games/leanclr)** ⭐ 172
+- **[focus-creative-games/leanclr](https://github.com/focus-creative-games/leanclr)** ⭐ 182
   ![None](https://img.shields.io/badge/-None-lightgrey)
   LeanCLR is a lean, cross-platform implementation of the Common Language Runtime (CLR).
 
-- **[FunAudioLLM/Fun-Audio-Chat](https://github.com/FunAudioLLM/Fun-Audio-Chat)** ⭐ 81
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  Fun-Audio-Chat is a Large Audio Language Model built for natural, low-latency voice interactions.
-
-- **[leedrake5/unredact](https://github.com/leedrake5/unredact)** ⭐ 52
+- **[leedrake5/unredact](https://github.com/leedrake5/unredact)** ⭐ 164
   ![Python](https://img.shields.io/badge/-Python-blue)
   A simple tool for reading in poorly redacted documents and reproducing their origional form
 
-- **[SourByte05/Vulnerability-Wiki-PoC](https://github.com/SourByte05/Vulnerability-Wiki-PoC)** ⭐ 48
+- **[FunAudioLLM/Fun-Audio-Chat](https://github.com/FunAudioLLM/Fun-Audio-Chat)** ⭐ 133
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  Fun-Audio-Chat is a Large Audio Language Model built for natural, low-latency voice interactions.
+
+- **[cyl19970726/poly-sdk](https://github.com/cyl19970726/poly-sdk)** ⭐ 55
+  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
+  None
+
+- **[SourByte05/Vulnerability-Wiki-PoC](https://github.com/SourByte05/Vulnerability-Wiki-PoC)** ⭐ 54
   ![Python](https://img.shields.io/badge/-Python-blue)
   🚀 2024-至今 1Day 漏洞 PoC 深度研究与复现归档。涵盖 OA、ERP、安防、数通、大模型及容器等 高价值资产漏洞，实战导向，助力安全研究与合规检测。
 
-- **[serendipity1004/cc-feature-implementer](https://github.com/serendipity1004/cc-feature-implementer)** ⭐ 40
+- **[serendipity1004/cc-feature-implementer](https://github.com/serendipity1004/cc-feature-implementer)** ⭐ 47
   ![None](https://img.shields.io/badge/-None-lightgrey)
   None
 
-- **[PlayerYK/GeminiWatermarkRemover](https://github.com/PlayerYK/GeminiWatermarkRemover)** ⭐ 20
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
-  去除 Gemini AI 生成图片中的“✦”水印
-
-- **[ethanniser/effect-distributed-lock](https://github.com/ethanniser/effect-distributed-lock)** ⭐ 20
+- **[ethanniser/effect-distributed-lock](https://github.com/ethanniser/effect-distributed-lock)** ⭐ 29
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   None
 
-- **[RevenueCat/cat-paywalls-kmp](https://github.com/RevenueCat/cat-paywalls-kmp)** ⭐ 12
-  ![Kotlin](https://img.shields.io/badge/-Kotlin-lightgrey)
-  🐈 Cat Paywall KMP demonstrates modern KMP development and in-app purchases using CMP, Metro, Ktor, Coroutines, Landscapist, Navigation, Lifecycle, and RevenueCat.
-
-### 📈 Weekly Trending
-
-- **[2025Emma/vibe-coding-cn](https://github.com/2025Emma/vibe-coding-cn)** ⭐ 1,748
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  None
-
-- **[journey-ad/gemini-watermark-remover](https://github.com/journey-ad/gemini-watermark-remover)** ⭐ 997
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
-  A high-performance, 100% client-side tool for removing Gemini AI watermarks. Built with pure JavaScript, it leverages a mathematically precise Reverse Alpha Blending algorithm rather than unpredictable AI inpainting. / 基于 Javascript 的纯浏览器端 Gemini AI 图像无损去水印工具，使用数学精确的反向 Alpha 混合算法
-
-- **[Lulzx/tinypdf](https://github.com/Lulzx/tinypdf)** ⭐ 907
-  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
-  Minimal PDF creation library. <400 LOC, zero dependencies, makes real PDFs.
-
-- **[muratcankoylan/Agent-Skills-for-Context-Engineering](https://github.com/muratcankoylan/Agent-Skills-for-Context-Engineering)** ⭐ 874
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  A comprehensive collection of Agent Skills for context engineering, multi-agent architectures, and production agent systems. Use when building, optimizing, or debugging agent systems that require effective context management.
-
-- **[QwenLM/Qwen-Image-Layered](https://github.com/QwenLM/Qwen-Image-Layered)** ⭐ 820
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  Qwen-Image-Layered: Layered Decomposition for Inherent Editablity
-
-- **[MineDojo/NitroGen](https://github.com/MineDojo/NitroGen)** ⭐ 787
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  None
-
-- **[gemini-cli-extensions/conductor](https://github.com/gemini-cli-extensions/conductor)** ⭐ 714
+- **[dionesar/instagram-reporting-tool](https://github.com/dionesar/instagram-reporting-tool)** ⭐ 28
   ![None](https://img.shields.io/badge/-None-lightgrey)
-  Conductor is a Gemini CLI extension that allows you to specify, plan, and implement software features.
-
-- **[yeahhe365/gemini-nexus](https://github.com/yeahhe365/gemini-nexus)** ⭐ 546
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
-  Gemini Nexus 是一款深度集成 Google Gemini 能力的 Chrome 扩展程序。它不仅提供侧边栏对话，还通过悬浮工具栏和浏览器控制协议（MCP），将 AI 的能力扩展到网页浏览的每一个角落
+  Instagram report bot are a tool designed to automate the process of reporting account on Instagram that may violate the platform's policies. These bots can be used to mass-report account for spam, fake profile, or other violations also its a reporter mass acc ban
 
 ### 📈 Monthly Trending
 
-- **[zai-org/Open-AutoGLM](https://github.com/zai-org/Open-AutoGLM)** ⭐ 18,951
+- **[zai-org/Open-AutoGLM](https://github.com/zai-org/Open-AutoGLM)** ⭐ 18,993
   ![Python](https://img.shields.io/badge/-Python-blue)
   An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
 
-- **[Tongyi-MAI/Z-Image](https://github.com/Tongyi-MAI/Z-Image)** ⭐ 7,700
+- **[Tongyi-MAI/Z-Image](https://github.com/Tongyi-MAI/Z-Image)** ⭐ 7,723
   ![Python](https://img.shields.io/badge/-Python-blue)
   None
 
-- **[Anionex/banana-slides](https://github.com/Anionex/banana-slides)** ⭐ 5,900
+- **[Anionex/banana-slides](https://github.com/Anionex/banana-slides)** ⭐ 5,971
   ![Python](https://img.shields.io/badge/-Python-blue)
   一个基于nano banana pro🍌的原生AI PPT生成应用，迈向真正的＂Vibe PPT＂; 支持上传任意模板图片；上传任意素材&智能解析；一句话/大纲/页面描述自动生成PPT；口头修改指定区域、一键导出 - An AI-native PPT generator based on nano banana pro🍌
 
-- **[apple/ml-sharp](https://github.com/apple/ml-sharp)** ⭐ 4,844
+- **[apple/ml-sharp](https://github.com/apple/ml-sharp)** ⭐ 4,883
   ![Python](https://img.shields.io/badge/-Python-blue)
   Sharp Monocular View Synthesis in Less Than a Second
 
-- **[HisMax/RedInk](https://github.com/HisMax/RedInk)** ⭐ 4,017
+- **[HisMax/RedInk](https://github.com/HisMax/RedInk)** ⭐ 4,021
   ![Python](https://img.shields.io/badge/-Python-blue)
   红墨 - 基于🍌Nano Banana Pro🍌 的一站式小红书图文生成器 《一句话一张图片生成小红书图文》 Red Ink - A one-stop Xiaohongshu image-and-text generator based on the 🍌Nano Banana Pro🍌, "One Sentence, One Image: Generate Xiaohongshu Text and Images."
 
@@ -212,13 +181,13 @@
   ![C#](https://img.shields.io/badge/-C#-lightgrey)
   s&box is a modern game engine, built on Valve's Source 2 and the latest .NET technology, it provides a modern intuitive editor for creating games
 
-- **[agentskills/agentskills](https://github.com/agentskills/agentskills)** ⭐ 3,316
+- **[agentskills/agentskills](https://github.com/agentskills/agentskills)** ⭐ 3,357
   ![Python](https://img.shields.io/badge/-Python-blue)
   Specification and documentation for Agent Skills
 
-- **[666OS/ClashMac](https://github.com/666OS/ClashMac)** ⭐ 2,706
-  ![None](https://img.shields.io/badge/-None-lightgrey)
-  基于 Clash (mihomo) 内核的轻量级 macOS 菜单栏客户端。Lightweight macOS Clash (mihomo) menu bar client.
+- **[AndyMik90/Auto-Claude](https://github.com/AndyMik90/Auto-Claude)** ⭐ 2,770
+  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
+  Autonomous multi-session AI coding
 
 ## 🚀 Latest Releases
 
@@ -262,20 +231,6 @@ For the complete release notes go to [Updates](...
 
 ---
 
-### 📦 vuejs/vue
-
-**[v2.7.16 "Swan Song"](https://github.com/vuejs/vue/releases/tag/v2.7.16)** `v2.7.16`
-
-📅 Released: December 24, 2023
-
-**This is the final release for Vue 2.**
-
-Vue 2 will reach End of Life on December 31st, 2023. For more details, please read this [blog post](https://blog.vuejs.org/posts/vue-2-eol).
-
-Please refer...
-
----
-
 ### 📦 tensorflow/tensorflow
 
 **[TensorFlow 2.20.0](https://github.com/tensorflow/tensorflow/releases/tag/v2.20.0)** `v2.20.0`
@@ -302,17 +257,6 @@ This release is meant to fix the following issues (regressions / silent correctn
 
 ### Tracked Regressions
 Significant Memory Regression in F.conv3d with bfloat16 Inputs in PyTorch 2.9.0 ([#166...
-
----
-
-### 📦 kubernetes/kubernetes
-
-**[Kubernetes v1.35.0](https://github.com/kubernetes/kubernetes/releases/tag/v1.35.0)** `v1.35.0`
-
-📅 Released: December 17, 2025
-
-
-See [kubernetes-announce@](https://groups.google.com/forum/#!forum/kubernetes-announce). Additional binary downloads are linked in the [CHANGELOG](https://github.com/kubernetes/kubernetes/blob/master...
 
 ---
 
@@ -482,58 +426,58 @@ for a semver-minor rele...
 
 | Skill | Status |
 |-------|--------|
-| Java | 🟢 Proficient |
+| Java | 🔴 Beginner |
 | Python | 🟢 Proficient |
-| JavaScript | 🟡 Learning |
-| TypeScript | 🟢 Proficient |
+| JavaScript | 🔴 Beginner |
+| TypeScript | 🟡 Learning |
 | Go | ⚪ Planned |
 
 ### Frameworks
 
 | Skill | Status |
 |-------|--------|
-| React | 🟡 Learning |
-| Spring Boot | 🔴 Beginner |
-| Django | 🔴 Beginner |
+| React | 🟢 Proficient |
+| Spring Boot | 🟡 Learning |
+| Django | 🟡 Learning |
 | Node.js | 🟡 Learning |
-| Next.js | ⚪ Planned |
+| Next.js | 🟢 Proficient |
 
 ### Cybersecurity
 
 | Skill | Status |
 |-------|--------|
 | Penetration Testing | ⚪ Planned |
-| Web Security | 🔴 Beginner |
-| Network Security | 🔴 Beginner |
+| Web Security | 🟢 Proficient |
+| Network Security | 🟡 Learning |
 | OWASP | 🟢 Proficient |
 
 ### Ai Ml
 
 | Skill | Status |
 |-------|--------|
-| Machine Learning | ⚪ Planned |
-| Deep Learning | 🔴 Beginner |
-| NLP | 🟡 Learning |
-| Computer Vision | 🟢 Proficient |
-| TensorFlow | ⚪ Planned |
-| PyTorch | 🟡 Learning |
+| Machine Learning | 🟡 Learning |
+| Deep Learning | 🟢 Proficient |
+| NLP | ⚪ Planned |
+| Computer Vision | 🟡 Learning |
+| TensorFlow | 🔴 Beginner |
+| PyTorch | 🔴 Beginner |
 
 ### Devops
 
 | Skill | Status |
 |-------|--------|
-| Docker | ⚪ Planned |
-| Kubernetes | ⚪ Planned |
-| CI/CD | 🟡 Learning |
-| AWS | 🟡 Learning |
-| Azure | 🟡 Learning |
+| Docker | 🟢 Proficient |
+| Kubernetes | 🟢 Proficient |
+| CI/CD | ⚪ Planned |
+| AWS | 🔴 Beginner |
+| Azure | ⚪ Planned |
 
 ### Other
 
 | Skill | Status |
 |-------|--------|
-| Blockchain | ⚪ Planned |
-| Web3 | ⚪ Planned |
+| Blockchain | 🟢 Proficient |
+| Web3 | 🟡 Learning |
 | Cloud Computing | 🔴 Beginner |
 
 </details>
