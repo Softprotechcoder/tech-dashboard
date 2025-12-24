@@ -21,7 +21,7 @@
 |--------|-------|
 | 📰 Latest News Articles | 26 |
 | 🔥 Trending Repositories | 45 |
-| 🎯 Latest Releases | 10 |
+| 🎯 Latest Releases | 0 |
 | 🎯 Learning Goals | 4 |
 
 ## 🎯 Current Focus
@@ -46,33 +46,35 @@
 
 ### 📑 Hacker News
 
-- **[Stronk.app – open-source gym lifts journal](https://news.ycombinator.com/item?id=46371139)**
-  *<p>Hey all, didn't want to pay for Strong or Heavy so I started building my own lifts journal app.<p>It's free and always will be.<p>https://stronk.app<p>Source Code (open to contributions). If you fi...*
-  📅 Wed, 24 Dec 2025 00:30:42 +0000
+- **[Don't Become the Machine](https://armeet.bearblog.dev/becoming-the-machine/)**
+  *<p>Article URL: <a href="https://armeet.bearblog.dev/becoming-the-machine/">https://armeet.bearblog.dev/becoming-the-machine/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=463...*
+  📅 Wed, 24 Dec 2025 03:34:31 +0000
 
-- **[Unifi Travel Router](https://blog.ui.com/article/travel-in-style-unifi-style-unifi-travel-router)**
-  *<p>Article URL: <a href="https://blog.ui.com/article/travel-in-style-unifi-style-unifi-travel-router">https://blog.ui.com/article/travel-in-style-unifi-style-unifi-travel-router</a></p>
-<p>Comments UR...*
-  📅 Wed, 24 Dec 2025 00:30:18 +0000
+- **[Correspondence Between Don Knuth and Peter van Emde Boas on Priority Deques 1977 [pdf]](https://staff.fnwi.uva.nl/p.vanemdeboas/knuthnote.pdf)**
+  *<p>Article URL: <a href="https://staff.fnwi.uva.nl/p.vanemdeboas/knuthnote.pdf">https://staff.fnwi.uva.nl/p.vanemdeboas/knuthnote.pdf</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/ite...*
+  📅 Wed, 24 Dec 2025 02:21:42 +0000
 
-- **[Is Northern Virginia Still the Least Reliable AWS Region?](https://statusgator.com/blog/aws-least-reliable-region-in-2025/)**
-  *<p>Article URL: <a href="https://statusgator.com/blog/aws-least-reliable-region-in-2025/">https://statusgator.com/blog/aws-least-reliable-region-in-2025/</a></p>
-<p>Comments URL: <a href="https://news...*
-  📅 Tue, 23 Dec 2025 23:12:03 +0000
+- **[Show HN: Turn raw HTML into production-ready images for free](https://html2png.dev)**
+  *<p>Article URL: <a href="https://html2png.dev">https://html2png.dev</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46371743">https://news.ycombinator.com/item?id=46371743</a></...*
+  📅 Wed, 24 Dec 2025 02:18:38 +0000
 
-- **[Microspeak: North Star – The Old New Thing (2015)](https://devblogs.microsoft.com/oldnewthing/20151103-00/?p=91861)**
-  *<p>Article URL: <a href="https://devblogs.microsoft.com/oldnewthing/20151103-00/?p=91861">https://devblogs.microsoft.com/oldnewthing/20151103-00/?p=91861</a></p>
-<p>Comments URL: <a href="https://news...*
-  📅 Tue, 23 Dec 2025 22:23:49 +0000
+- **[Autonomously navigating the real world: lessons from the PG&E outage](https://waymo.com/blog/2025/12/autonomously-navigating-the-real-world)**
+  *<p>Article URL: <a href="https://waymo.com/blog/2025/12/autonomously-navigating-the-real-world">https://waymo.com/blog/2025/12/autonomously-navigating-the-real-world</a></p>
+<p>Comments URL: <a href="...*
+  📅 Wed, 24 Dec 2025 02:16:01 +0000
 
-- **[Texas app store age verification law blocked by federal judge](https://www.macrumors.com/2025/12/23/texas-app-store-law-blocked/)**
-  *<p>Article URL: <a href="https://www.macrumors.com/2025/12/23/texas-app-store-law-blocked/">https://www.macrumors.com/2025/12/23/texas-app-store-law-blocked/</a></p>
-<p>Comments URL: <a href="https://...*
-  📅 Tue, 23 Dec 2025 22:03:46 +0000
+- **[Could lockfiles just be SBOMs?](https://nesbitt.io/2025/12/23/could-lockfiles-just-be-sboms.html)**
+  *<p>Article URL: <a href="https://nesbitt.io/2025/12/23/could-lockfiles-just-be-sboms.html">https://nesbitt.io/2025/12/23/could-lockfiles-just-be-sboms.html</a></p>
+<p>Comments URL: <a href="https://ne...*
+  📅 Wed, 24 Dec 2025 02:10:34 +0000
 
-- **[Show HN: Claude Wrapped in the terminal, with a WASM raymarcher](https://spader.zone/wrapped/)**
-  *<p>Claude Code added a /stats command. The stats are cached in $HOME/.claude, so I made a fun program with Bun + WASM that pulls the stats (nonsensitive, nonidentifiable), posts them to a database, an...*
-  📅 Tue, 23 Dec 2025 21:59:28 +0000
+- **['Dracula's Chivito': Hubble reveals largest birthplace of planets ever observed](https://phys.org/news/2025-12-chaotic-dracula-chivito-hubble-reveals.html)**
+  *<p>Article URL: <a href="https://phys.org/news/2025-12-chaotic-dracula-chivito-hubble-reveals.html">https://phys.org/news/2025-12-chaotic-dracula-chivito-hubble-reveals.html</a></p>
+<p>Comments URL: <...*
+  📅 Wed, 24 Dec 2025 02:01:49 +0000
 
 ### 📑 TechCrunch
 
@@ -102,24 +104,13 @@
 
 ### 📑 Dev.to
 
-- **[What 4 Years on the Fast Track Taught Me About My Career: From Dropping Out to Leading a Production Application](https://dev.to/kgthedev/what-4-years-on-the-fast-track-taught-me-about-my-career-from-dropping-out-to-leading-a-production-58fi)**
-  *<p>Four years ago, I was living with my parents, working as an assistant at an optometry office, with zero clue what I was going to do for the rest of my life. This year, I have designed websites for ...*
-  📅 Wed, 24 Dec 2025 00:57:23 +0000
+- **[Writing JS FFI in MoonBit](https://dev.to/mizchi/writing-js-ffi-in-moonbit-jgn)**
+  *<p>I think MoonBit is a wonderful language, but it's still in early stages and lacks libraries. For AltJS and new languages to gain traction, I believe increasing wrapper libraries and type definition...*
+  📅 Wed, 24 Dec 2025 06:19:39 +0000
 
-- **[Hello World; You Don’t Qualify for the AWS Community Builders Program](https://dev.to/aws-builders/hello-world-you-dont-qualify-for-the-aws-community-builders-program-2i3m)**
-  *<h2>
-  
-  
-  Why “Hello World”?
-</h2>
-
-<p>Because this is every beginner’s first program, and it feels like the right place to start my first text post on this platform.</p>
-
-<h2>
-  
-  
-  And why “You...*
-  📅 Wed, 24 Dec 2025 00:56:23 +0000
+- **[MoonBit: A Modern Language for WebAssembly/JS/Native](https://dev.to/mizchi/moonbit-a-modern-language-for-webassemblyjsnative-4p71)**
+  *<p>Are you frustrated with TypeScript inheriting JavaScript's quirks - no integer types, type erasure at runtime, no pattern matching? Or that Rust is too low-level for writing application-layer code?...*
+  📅 Wed, 24 Dec 2025 06:19:37 +0000
 
 </details>
 
@@ -127,65 +118,65 @@
 
 ### 📈 Daily Trending
 
-- **[thomas-delplace/coaching.lisahellec.fr](https://github.com/thomas-delplace/coaching.lisahellec.fr)** ⭐ 1
-  ![HTML](https://img.shields.io/badge/-HTML-lightgrey)
-  None
-
-- **[GildoAlvesdeLimaJunior/BeeCrowd_Questions](https://github.com/GildoAlvesdeLimaJunior/BeeCrowd_Questions)** ⭐ 1
-  ![C++](https://img.shields.io/badge/-C++-pink)
-  None
-
-- **[VladSaenko/LayTT](https://github.com/VladSaenko/LayTT)** ⭐ 1
-  ![None](https://img.shields.io/badge/-None-lightgrey)
-  None
-
-- **[johnlindquist/workflow-devkit-ai-bundle](https://github.com/johnlindquist/workflow-devkit-ai-bundle)** ⭐ 1
+- **[kebo-ai/kebo](https://github.com/kebo-ai/kebo)** ⭐ 5
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
-  AI Agent toolkit for understanding and working with Workflow DevKit
+  A beautiful, multi-language budgeting app for iOS & Android. Track transactions, manage accounts, and take control of your finances.
 
-- **[conduktor/awesome-kafka](https://github.com/conduktor/awesome-kafka)** ⭐ 1
+- **[boorch/dronage-terminal](https://github.com/boorch/dronage-terminal)** ⭐ 5
   ![None](https://img.shields.io/badge/-None-lightgrey)
-  A curated list of awesome Apache Kafka resources, tools, libraries, and applications
+  A terminal based drone workstation
 
-- **[KaziKi-JP/webHTML](https://github.com/KaziKi-JP/webHTML)** ⭐ 1
-  ![None](https://img.shields.io/badge/-None-lightgrey)
-  None
-
-- **[conduktor/awesome-kafka-connect](https://github.com/conduktor/awesome-kafka-connect)** ⭐ 1
-  ![None](https://img.shields.io/badge/-None-lightgrey)
-  None
-
-- **[imatta/ENCTool](https://github.com/imatta/ENCTool)** ⭐ 1
+- **[IcekyPrime/SJTU_SignIn_Monitor](https://github.com/IcekyPrime/SJTU_SignIn_Monitor)** ⭐ 5
   ![Python](https://img.shields.io/badge/-Python-blue)
+  基于Python Selenium的自动化监控脚本，用于监控上海交通大学Canvas系统中的签到号变化。当检测到签到号发生变化时，脚本会发出声音警报提醒用户。
+
+- **[chuanyyyy/PT_Helper](https://github.com/chuanyyyy/PT_Helper)** ⭐ 4
+  ![None](https://img.shields.io/badge/-None-lightgrey)
   None
+
+- **[TencentARC/DSR_Suite](https://github.com/TencentARC/DSR_Suite)** ⭐ 4
+  ![Jupyter Notebook](https://img.shields.io/badge/-Jupyter Notebook-lightgrey)
+  None
+
+- **[yusongmin1/Dreamwaq](https://github.com/yusongmin1/Dreamwaq)** ⭐ 3
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  Dreamwaq Dreamwaq+ PIE
+
+- **[zhouda1fu/VitalSignsMonitor](https://github.com/zhouda1fu/VitalSignsMonitor)** ⭐ 3
+  ![C#](https://img.shields.io/badge/-C#-lightgrey)
+  基于摄像头的生理指标识别
+
+- **[jailbreakdotparty/PartyUI](https://github.com/jailbreakdotparty/PartyUI)** ⭐ 3
+  ![Swift](https://img.shields.io/badge/-Swift-lightgrey)
+  Some of the SwiftUI things we like to use a lot, packaged into a Swift Package for convenience.
 
 ### 📈 Weekly Trending
 
-- **[bellard/mquickjs](https://github.com/bellard/mquickjs)** ⭐ 1,202
+- **[bellard/mquickjs](https://github.com/bellard/mquickjs)** ⭐ 1,658
   ![C](https://img.shields.io/badge/-C-lightgrey)
   Public repository of the Micro QuickJS Javascript Engine
 
-- **[muratcankoylan/Agent-Skills-for-Context-Engineering](https://github.com/muratcankoylan/Agent-Skills-for-Context-Engineering)** ⭐ 1,095
+- **[muratcankoylan/Agent-Skills-for-Context-Engineering](https://github.com/muratcankoylan/Agent-Skills-for-Context-Engineering)** ⭐ 1,153
   ![Python](https://img.shields.io/badge/-Python-blue)
   A comprehensive collection of Agent Skills for context engineering, multi-agent architectures, and production agent systems. Use when building, optimizing, or debugging agent systems that require effective context management.
 
-- **[journey-ad/gemini-watermark-remover](https://github.com/journey-ad/gemini-watermark-remover)** ⭐ 1,033
+- **[journey-ad/gemini-watermark-remover](https://github.com/journey-ad/gemini-watermark-remover)** ⭐ 1,058
   ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
   A high-performance, 100% client-side tool for removing Gemini AI watermarks. Built with pure JavaScript, it leverages a mathematically precise Reverse Alpha Blending algorithm rather than unpredictable AI inpainting. / 基于 Javascript 的纯浏览器端 Gemini AI 图像无损去水印工具，使用数学精确的反向 Alpha 混合算法
 
-- **[Lulzx/tinypdf](https://github.com/Lulzx/tinypdf)** ⭐ 943
+- **[Lulzx/tinypdf](https://github.com/Lulzx/tinypdf)** ⭐ 949
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   Minimal PDF creation library. <400 LOC, zero dependencies, makes real PDFs.
 
-- **[QwenLM/Qwen-Image-Layered](https://github.com/QwenLM/Qwen-Image-Layered)** ⭐ 844
+- **[QwenLM/Qwen-Image-Layered](https://github.com/QwenLM/Qwen-Image-Layered)** ⭐ 891
   ![Python](https://img.shields.io/badge/-Python-blue)
   Qwen-Image-Layered: Layered Decomposition for Inherent Editablity
 
-- **[yeahhe365/gemini-nexus](https://github.com/yeahhe365/gemini-nexus)** ⭐ 585
+- **[yeahhe365/gemini-nexus](https://github.com/yeahhe365/gemini-nexus)** ⭐ 600
   ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
   Gemini Nexus 是一款深度集成 Google Gemini 能力的 Chrome 扩展程序。它不仅仅是一个侧边栏插件，而是通过注入式的悬浮工具栏、强大的图像 AI 处理以及前沿的浏览器控制协议 (MCP)，将 AI 的触角伸向网页浏览的每一个交互细节。
 
-- **[RhysSullivan/epstein-files-browser](https://github.com/RhysSullivan/epstein-files-browser)** ⭐ 489
+- **[RhysSullivan/epstein-files-browser](https://github.com/RhysSullivan/epstein-files-browser)** ⭐ 492
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   None
 
@@ -195,35 +186,35 @@
 
 ### 📈 Monthly Trending
 
-- **[zai-org/Open-AutoGLM](https://github.com/zai-org/Open-AutoGLM)** ⭐ 19,009
+- **[zai-org/Open-AutoGLM](https://github.com/zai-org/Open-AutoGLM)** ⭐ 19,101
   ![Python](https://img.shields.io/badge/-Python-blue)
   An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
 
-- **[Tongyi-MAI/Z-Image](https://github.com/Tongyi-MAI/Z-Image)** ⭐ 7,742
+- **[Tongyi-MAI/Z-Image](https://github.com/Tongyi-MAI/Z-Image)** ⭐ 7,766
   ![Python](https://img.shields.io/badge/-Python-blue)
   None
 
-- **[Anionex/banana-slides](https://github.com/Anionex/banana-slides)** ⭐ 5,990
+- **[Anionex/banana-slides](https://github.com/Anionex/banana-slides)** ⭐ 6,066
   ![Python](https://img.shields.io/badge/-Python-blue)
   一个基于nano banana pro🍌的原生AI PPT生成应用，迈向真正的＂Vibe PPT＂; 支持上传任意模板图片；上传任意素材&智能解析；一句话/大纲/页面描述自动生成PPT；口头修改指定区域、一键导出 - An AI-native PPT generator based on nano banana pro🍌
 
-- **[apple/ml-sharp](https://github.com/apple/ml-sharp)** ⭐ 4,910
+- **[apple/ml-sharp](https://github.com/apple/ml-sharp)** ⭐ 4,951
   ![Python](https://img.shields.io/badge/-Python-blue)
   Sharp Monocular View Synthesis in Less Than a Second
 
-- **[HisMax/RedInk](https://github.com/HisMax/RedInk)** ⭐ 4,024
+- **[HisMax/RedInk](https://github.com/HisMax/RedInk)** ⭐ 4,038
   ![Python](https://img.shields.io/badge/-Python-blue)
   红墨 - 基于🍌Nano Banana Pro🍌 的一站式小红书图文生成器 《一句话一张图片生成小红书图文》 Red Ink - A one-stop Xiaohongshu image-and-text generator based on the 🍌Nano Banana Pro🍌, "One Sentence, One Image: Generate Xiaohongshu Text and Images."
 
-- **[agentskills/agentskills](https://github.com/agentskills/agentskills)** ⭐ 3,391
+- **[agentskills/agentskills](https://github.com/agentskills/agentskills)** ⭐ 3,445
   ![Python](https://img.shields.io/badge/-Python-blue)
   Specification and documentation for Agent Skills
 
-- **[AndyMik90/Auto-Claude](https://github.com/AndyMik90/Auto-Claude)** ⭐ 2,955
+- **[AndyMik90/Auto-Claude](https://github.com/AndyMik90/Auto-Claude)** ⭐ 3,098
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   Autonomous multi-session AI coding
 
-- **[666OS/ClashMac](https://github.com/666OS/ClashMac)** ⭐ 2,710
+- **[666OS/ClashMac](https://github.com/666OS/ClashMac)** ⭐ 2,720
   ![None](https://img.shields.io/badge/-None-lightgrey)
   基于 Clash (mihomo) 内核的轻量级 macOS 菜单栏客户端。Lightweight macOS Clash (mihomo) menu bar client.
 
@@ -231,138 +222,6 @@
 
 <details>
 <summary>Click to expand latest releases</summary>
-
-### 📦 microsoft/vscode
-
-**[November 2025 Recovery 1](https://github.com/microsoft/vscode/releases/tag/1.107.1)** `1.107.1`
-
-📅 Released: December 17, 2025
-
-The update addresses these [issues](https://github.com/Microsoft/vscode/issues?q=is%3Aissue+milestone%3A%22November+2025+Recovery+1%22+is%3Aclosed+).
-
-For the complete release notes go to [Updates](...
-
----
-
-### 📦 facebook/react
-
-**[19.2.3 (December 11th, 2025)](https://github.com/facebook/react/releases/tag/v19.2.3)** `v19.2.3`
-
-📅 Released: December 11, 2025
-
-## React Server Components
-
-- Add extra loop protection to React Server Functions (@sebmarkbage [#35351](https://github.com/facebook/react/pull/35351))...
-
----
-
-### 📦 angular/angular
-
-**[21.0.6](https://github.com/angular/angular/releases/tag/v21.0.6)** `v21.0.6`
-
-📅 Released: December 17, 2025
-
-### core
-| Commit | Description |
-| -- | -- |
-| [![fix - 4c8fb3631d](https://img.shields.io/badge/4c8fb3631d-fix-green)](https://github.com/angular/angular/commit/4c8fb3631d58e22d693aba0b89243f2e9ecb0...
-
----
-
-### 📦 vuejs/vue
-
-**[v2.7.16 "Swan Song"](https://github.com/vuejs/vue/releases/tag/v2.7.16)** `v2.7.16`
-
-📅 Released: December 24, 2023
-
-**This is the final release for Vue 2.**
-
-Vue 2 will reach End of Life on December 31st, 2023. For more details, please read this [blog post](https://blog.vuejs.org/posts/vue-2-eol).
-
-Please refer...
-
----
-
-### 📦 tensorflow/tensorflow
-
-**[TensorFlow 2.20.0](https://github.com/tensorflow/tensorflow/releases/tag/v2.20.0)** `v2.20.0`
-
-📅 Released: August 13, 2025
-
-# Release 2.20.0
-
-## TensorFlow
-
-### Breaking Changes
-
-* The `tensorflow-io-gcs-filesystem` package is now optional, due its uncertain, and limited support. To install it alongside `tensorflow`,...
-
----
-
-### 📦 pytorch/pytorch
-
-**[PyTorch 2.9.1 Release, bug fix release](https://github.com/pytorch/pytorch/releases/tag/v2.9.1)** `v2.9.1`
-
-📅 Released: November 12, 2025
-
-This release is meant to fix the following issues (regressions / silent correctness):
-
-### Tracked Regressions
-Significant Memory Regression in F.conv3d with bfloat16 Inputs in PyTorch 2.9.0 ([#166...
-
----
-
-### 📦 kubernetes/kubernetes
-
-**[Kubernetes v1.35.0](https://github.com/kubernetes/kubernetes/releases/tag/v1.35.0)** `v1.35.0`
-
-📅 Released: December 17, 2025
-
-
-See [kubernetes-announce@](https://groups.google.com/forum/#!forum/kubernetes-announce). Additional binary downloads are linked in the [CHANGELOG](https://github.com/kubernetes/kubernetes/blob/master...
-
----
-
-### 📦 docker/compose
-
-**[v5.0.1](https://github.com/docker/compose/releases/tag/v5.0.1)** `v5.0.1`
-
-📅 Released: December 18, 2025
-
-## What's Changed
-
-### 🐛 Fixes
-* Restored support for `COMPOSE_COMPATIBILITY` by @ndeloof in https://github.com/docker/compose/pull/13424
-* Fixed grammatical errors and improve clarity in code. by...
-
----
-
-### 📦 nodejs/node
-
-**[2025-11-17, Version 25.2.1 (Current), @aduh95](https://github.com/nodejs/node/releases/tag/v25.2.1)** `v25.2.1`
-
-📅 Released: November 17, 2025
-
-This release reverts the spec-compliant behavior of sometimes throwing on `localStorage`
-access. We received feedback that this change on an experimental API was too breaking
-for a semver-minor rele...
-
----
-
-### 📦 rust-lang/rust
-
-**[Rust 1.92.0](https://github.com/rust-lang/rust/releases/tag/1.92.0)** `1.92.0`
-
-📅 Released: December 11, 2025
-
-<a id="1.92.0-Language"></a>
-
-## Language
-
-- [Document `MaybeUninit` representation and validity](https://github.com/rust-lang/rust/pull/140463)
-- [Allow `&raw [mut | const]` for union field in safe c...
-
----
 
 </details>
 
@@ -489,58 +348,58 @@ for a semver-minor rele...
 
 | Skill | Status |
 |-------|--------|
-| Java | 🔴 Beginner |
-| Python | 🔴 Beginner |
-| JavaScript | 🟡 Learning |
-| TypeScript | ⚪ Planned |
-| Go | 🟢 Proficient |
+| Java | ⚪ Planned |
+| Python | ⚪ Planned |
+| JavaScript | ⚪ Planned |
+| TypeScript | 🔴 Beginner |
+| Go | 🔴 Beginner |
 
 ### Frameworks
 
 | Skill | Status |
 |-------|--------|
-| React | 🟡 Learning |
+| React | 🔴 Beginner |
 | Spring Boot | 🟡 Learning |
 | Django | ⚪ Planned |
-| Node.js | 🔴 Beginner |
-| Next.js | ⚪ Planned |
+| Node.js | 🟡 Learning |
+| Next.js | 🔴 Beginner |
 
 ### Cybersecurity
 
 | Skill | Status |
 |-------|--------|
-| Penetration Testing | 🟢 Proficient |
+| Penetration Testing | ⚪ Planned |
 | Web Security | 🟢 Proficient |
-| Network Security | 🟡 Learning |
-| OWASP | 🟢 Proficient |
+| Network Security | ⚪ Planned |
+| OWASP | 🔴 Beginner |
 
 ### Ai Ml
 
 | Skill | Status |
 |-------|--------|
-| Machine Learning | ⚪ Planned |
+| Machine Learning | 🔴 Beginner |
 | Deep Learning | 🟡 Learning |
 | NLP | ⚪ Planned |
-| Computer Vision | 🟢 Proficient |
+| Computer Vision | ⚪ Planned |
 | TensorFlow | 🟢 Proficient |
-| PyTorch | 🔴 Beginner |
+| PyTorch | ⚪ Planned |
 
 ### Devops
 
 | Skill | Status |
 |-------|--------|
-| Docker | 🟢 Proficient |
+| Docker | 🔴 Beginner |
 | Kubernetes | 🟢 Proficient |
-| CI/CD | 🟡 Learning |
-| AWS | 🟢 Proficient |
-| Azure | 🔴 Beginner |
+| CI/CD | 🔴 Beginner |
+| AWS | ⚪ Planned |
+| Azure | 🟡 Learning |
 
 ### Other
 
 | Skill | Status |
 |-------|--------|
 | Blockchain | 🔴 Beginner |
-| Web3 | 🟢 Proficient |
+| Web3 | ⚪ Planned |
 | Cloud Computing | ⚪ Planned |
 
 </details>
