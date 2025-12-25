@@ -46,36 +46,34 @@
 
 ### 📑 Hacker News
 
-- **[Ruby 4.0.0 Released](https://www.ruby-lang.org/en/news/2025/12/25/ruby-4-0-0-released/)**
+- **[Mattermost restricted access to old messages after 10000 limit is reached](https://github.com/mattermost/mattermost/issues/34271)**
+  *<p>Article URL: <a href="https://github.com/mattermost/mattermost/issues/34271">https://github.com/mattermost/mattermost/issues/34271</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/ite...*
+  📅 Thu, 25 Dec 2025 11:03:59 +0000
+
+- **[We invited a man into our home at Christmas and he stayed with us for 45 years](https://www.bbc.co.uk/news/articles/cdxwllqz1l0o)**
+  *<p>Article URL: <a href="https://www.bbc.co.uk/news/articles/cdxwllqz1l0o">https://www.bbc.co.uk/news/articles/cdxwllqz1l0o</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46383...*
+  📅 Thu, 25 Dec 2025 10:35:34 +0000
+
+- **[Quantum Error Correction Goes FOOM](https://algassert.com/post/2503)**
+  *<p>Article URL: <a href="https://algassert.com/post/2503">https://algassert.com/post/2503</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46383233">https://news.ycombinator.com/...*
+  📅 Thu, 25 Dec 2025 09:18:15 +0000
+
+- **[Self-referencing Page Tables for the x86-Architecture](https://0l.de/blog/2015/01/bachelor-thesis-abstract/)**
+  *<p>Article URL: <a href="https://0l.de/blog/2015/01/bachelor-thesis-abstract/">https://0l.de/blog/2015/01/bachelor-thesis-abstract/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?...*
+  📅 Thu, 25 Dec 2025 08:58:23 +0000
+
+- **[Free Software Foundation receives historic private donations](https://www.fsf.org/news/free-software-foundation-receives-historic-private-donations)**
+  *<p>Article URL: <a href="https://www.fsf.org/news/free-software-foundation-receives-historic-private-donations">https://www.fsf.org/news/free-software-foundation-receives-historic-private-donations</a...*
+  📅 Thu, 25 Dec 2025 04:47:38 +0000
+
+- **[Ruby 4.0.0](https://www.ruby-lang.org/en/news/2025/12/25/ruby-4-0-0-released/)**
   *<p>Article URL: <a href="https://www.ruby-lang.org/en/news/2025/12/25/ruby-4-0-0-released/">https://www.ruby-lang.org/en/news/2025/12/25/ruby-4-0-0-released/</a></p>
 <p>Comments URL: <a href="https://...*
   📅 Thu, 25 Dec 2025 04:13:00 +0000
-
-- **[The subtle Red of HN and so minimalist and beautiful](https://news.ycombinator.com/item?id=46381896)**
-  *<p>Merry Xmas everyone.</p>
-<hr />
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46381896">https://news.ycombinator.com/item?id=46381896</a></p>
-<p>Points: 12</p>
-<p># Comments: 2</p>...*
-  📅 Thu, 25 Dec 2025 03:48:20 +0000
-
-- **[Python Applied Mathematics Labs](https://labs.acme.byu.edu/Pages/intro.html)**
-  *<p>Article URL: <a href="https://labs.acme.byu.edu/Pages/intro.html">https://labs.acme.byu.edu/Pages/intro.html</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46381839">https:/...*
-  📅 Thu, 25 Dec 2025 03:33:52 +0000
-
-- **[The Next-Gen Mainboard Designed with AmigaOS4 and MorphOS in Mind](https://mirari.vitasys.nl/our-story/)**
-  *<p>Article URL: <a href="https://mirari.vitasys.nl/our-story/">https://mirari.vitasys.nl/our-story/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46380953">https://news.ycombi...*
-  📅 Thu, 25 Dec 2025 00:38:09 +0000
-
-- **[Who Watches the Waymos? I do [video]](https://www.youtube.com/watch?v=oYU2hAbx_Fc)**
-  *<p><a href="https://x.com/fulligin/status/2003925653113184498" rel="nofollow">https://x.com/fulligin/status/2003925653113184498</a><p><a href="https://xcancel.com/fulligin/status/2003925653113184498" ...*
-  📅 Thu, 25 Dec 2025 00:10:12 +0000
-
-- **[Microsoft please get your tab to autocomplete shit together](https://ivanca.github.io/programming/2025/11/26/microsoft-pls-get-your-tab-to-autocomplete-shit-together/)**
-  *<p>Article URL: <a href="https://ivanca.github.io/programming/2025/11/26/microsoft-pls-get-your-tab-to-autocomplete-shit-together/">https://ivanca.github.io/programming/2025/11/26/microsoft-pls-get-yo...*
-  📅 Wed, 24 Dec 2025 23:33:15 +0000
 
 ### 📑 TechCrunch
 
@@ -105,22 +103,13 @@
 
 ### 📑 Dev.to
 
-- **[FREE Access To Code To Image Generator Production App Source Code with Payment Gateway Integration Worth $99](https://dev.to/myogeshchavan97/free-access-to-code-to-image-generator-production-app-source-code-with-payment-gateway-integration-366d)**
-  *<p><strong>Ho ho ho, developers!</strong> This holiday season, I'm dropping the <strong>biggest discount ever</strong> – and it's gone <strong>forever</strong> after tomorrow.</p>
+- **[From SDK to CLI: Making Sense of Bedrock Namespaces and Avoiding Cloud Shell Pitfalls](https://dev.to/srinivasan-aws/from-sdk-to-cli-making-sense-of-bedrock-namespaces-and-avoiding-cloud-shell-pitfalls-iam)**
+  *<p>In this era of AI-driven SDLC, Amazon Bedrock has rapidly become the go-to platform for AWS builders to experiment and deploy intelligent applications with LLM models at scale. As the ecosystem evo...*
+  📅 Thu, 25 Dec 2025 12:17:30 +0000
 
-<p>Grab <strong>lif...*
-  📅 Thu, 25 Dec 2025 06:08:42 +0000
-
-- **[Stop Sending Boring Texts! Try This Secret "Locked Message" Generator](https://dev.to/techno_kraft_in/stop-sending-boring-texts-try-this-secret-locked-message-generator-pjl)**
-  *<h2>
-  
-  
-  Why send a plain text message when you can send a locked digital treasure chest?
-</h2>
-
-<ul>
-<li>If you are planning a digital treasure hunt, an escape room, or just want to prank your fr...*
-  📅 Thu, 25 Dec 2025 06:04:02 +0000
+- **[Lessons from Building Business-Critical Software Without Offline Mode](https://dev.to/billboox/lessons-from-building-business-critical-software-without-offline-mode-3kj1)**
+  *<p>A few years ago, I worked on a piece of software that businesses relied on during their most time-sensitive hours. Orders, transactions, and operational decisions flowed through it continuously. Do...*
+  📅 Thu, 25 Dec 2025 12:14:23 +0000
 
 </details>
 
@@ -128,13 +117,25 @@
 
 ### 📈 Daily Trending
 
-- **[AkideLiu/betterclaude-workers](https://github.com/AkideLiu/betterclaude-workers)** ⭐ 26
+- **[AkideLiu/betterclaude-workers](https://github.com/AkideLiu/betterclaude-workers)** ⭐ 46
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   BetterClaude API Gateway
 
-- **[OpLumina/unredact.py](https://github.com/OpLumina/unredact.py)** ⭐ 22
+- **[OpLumina/unredact.py](https://github.com/OpLumina/unredact.py)** ⭐ 41
   ![Python](https://img.shields.io/badge/-Python-blue)
   a python project that removes weak redaction methods such as black text highlighted black, and putting a non-flattened image over text.
+
+- **[Anarkh-Lee/visual-docker-compose](https://github.com/Anarkh-Lee/visual-docker-compose)** ⭐ 35
+  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
+  一款现代化的 Docker Compose 可视化生成器，通过拖拽操作快速构建容器编排配置文件。
+
+- **[ClashConnectRules/Self-Configuration](https://github.com/ClashConnectRules/Self-Configuration)** ⭐ 26
+  ![None](https://img.shields.io/badge/-None-lightgrey)
+  None
+
+- **[Anarkh-Lee/resume-polish](https://github.com/Anarkh-Lee/resume-polish)** ⭐ 23
+  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
+  简历润色
 
 - **[hydrogen7797/solang-playground](https://github.com/hydrogen7797/solang-playground)** ⭐ 16
   ![Rust](https://img.shields.io/badge/-Rust-brown)
@@ -148,83 +149,71 @@
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   None
 
-- **[hydrogen7797/deepsite-locally](https://github.com/hydrogen7797/deepsite-locally)** ⭐ 15
-  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
-  DeepSite — AI website builder with local hosting support. Run DeepSite on your own server or offline.
-
-- **[hydrogen7797/gitplay](https://github.com/hydrogen7797/gitplay)** ⭐ 15
-  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
-  None
-
-- **[hydrogen7797/react-native-vercel-ai](https://github.com/hydrogen7797/react-native-vercel-ai)** ⭐ 14
-  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
-  None
-
 ### 📈 Weekly Trending
 
-- **[bellard/mquickjs](https://github.com/bellard/mquickjs)** ⭐ 3,002
+- **[bellard/mquickjs](https://github.com/bellard/mquickjs)** ⭐ 3,219
   ![C](https://img.shields.io/badge/-C-lightgrey)
   Public repository of the Micro QuickJS Javascript Engine
 
-- **[muratcankoylan/Agent-Skills-for-Context-Engineering](https://github.com/muratcankoylan/Agent-Skills-for-Context-Engineering)** ⭐ 1,871
+- **[muratcankoylan/Agent-Skills-for-Context-Engineering](https://github.com/muratcankoylan/Agent-Skills-for-Context-Engineering)** ⭐ 2,184
   ![Python](https://img.shields.io/badge/-Python-blue)
   A comprehensive collection of Agent Skills for context engineering, multi-agent architectures, and production agent systems. Use when building, optimizing, or debugging agent systems that require effective context management.
 
-- **[journey-ad/gemini-watermark-remover](https://github.com/journey-ad/gemini-watermark-remover)** ⭐ 1,129
+- **[journey-ad/gemini-watermark-remover](https://github.com/journey-ad/gemini-watermark-remover)** ⭐ 1,146
   ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
   A high-performance, 100% client-side tool for removing Gemini AI watermarks. Built with pure JavaScript, it leverages a mathematically precise Reverse Alpha Blending algorithm rather than unpredictable AI inpainting. / 基于 Javascript 的纯浏览器端 Gemini AI 图像无损去水印工具，使用数学精确的反向 Alpha 混合算法
 
-- **[yeahhe365/gemini-nexus](https://github.com/yeahhe365/gemini-nexus)** ⭐ 629
+- **[yeahhe365/gemini-nexus](https://github.com/yeahhe365/gemini-nexus)** ⭐ 637
   ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
   Gemini Nexus 是一款深度集成 Google Gemini 能力的 Chrome 扩展程序。它不仅仅是一个侧边栏插件，而是通过注入式的悬浮工具栏、强大的图像 AI 处理以及前沿的浏览器控制协议 (MCP)，将 AI 的触角伸向网页浏览的每一个交互细节。
 
-- **[RhysSullivan/epstein-files-browser](https://github.com/RhysSullivan/epstein-files-browser)** ⭐ 510
-  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
-  None
-
-- **[eyeblech/cinecli](https://github.com/eyeblech/cinecli)** ⭐ 510
+- **[eyeblech/cinecli](https://github.com/eyeblech/cinecli)** ⭐ 521
   ![Python](https://img.shields.io/badge/-Python-blue)
   CineCLI is a cross-platform command-line movie browser built with Python.
 
-- **[sOLarFLaMEPyL/Arbitrage_Mev_BOT](https://github.com/sOLarFLaMEPyL/Arbitrage_Mev_BOT)** ⭐ 481
+- **[RhysSullivan/epstein-files-browser](https://github.com/RhysSullivan/epstein-files-browser)** ⭐ 515
+  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
+  None
+
+- **[sOLarFLaMEPyL/Arbitrage_Mev_BOT](https://github.com/sOLarFLaMEPyL/Arbitrage_Mev_BOT)** ⭐ 482
   ![Solidity](https://img.shields.io/badge/-Solidity-lightgrey)
   Basically, contract for MEV: takes flash loans, runs arbitrage between DEXes, does liquidations. Everything is ready, deploy and use.
 
-- **[jlongster/tigma](https://github.com/jlongster/tigma)** ⭐ 445
-  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
-  None
+- **[antonmedv/textarea](https://github.com/antonmedv/textarea)** ⭐ 468
+  ![HTML](https://img.shields.io/badge/-HTML-lightgrey)
+  A notes webapp
 
 ### 📈 Monthly Trending
 
-- **[zai-org/Open-AutoGLM](https://github.com/zai-org/Open-AutoGLM)** ⭐ 19,315
+- **[zai-org/Open-AutoGLM](https://github.com/zai-org/Open-AutoGLM)** ⭐ 19,386
   ![Python](https://img.shields.io/badge/-Python-blue)
   An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
 
-- **[Tongyi-MAI/Z-Image](https://github.com/Tongyi-MAI/Z-Image)** ⭐ 7,847
+- **[Tongyi-MAI/Z-Image](https://github.com/Tongyi-MAI/Z-Image)** ⭐ 7,867
   ![Python](https://img.shields.io/badge/-Python-blue)
   None
 
-- **[Anionex/banana-slides](https://github.com/Anionex/banana-slides)** ⭐ 6,252
+- **[Anionex/banana-slides](https://github.com/Anionex/banana-slides)** ⭐ 6,308
   ![Python](https://img.shields.io/badge/-Python-blue)
   一个基于nano banana pro🍌的原生AI PPT生成应用，迈向真正的＂Vibe PPT＂; 支持上传任意模板图片；上传任意素材&智能解析；一句话/大纲/页面描述自动生成PPT；口头修改指定区域、一键导出 - An AI-native PPT generator based on nano banana pro🍌
 
-- **[apple/ml-sharp](https://github.com/apple/ml-sharp)** ⭐ 5,057
+- **[apple/ml-sharp](https://github.com/apple/ml-sharp)** ⭐ 5,085
   ![Python](https://img.shields.io/badge/-Python-blue)
   Sharp Monocular View Synthesis in Less Than a Second
 
-- **[agentskills/agentskills](https://github.com/agentskills/agentskills)** ⭐ 3,588
+- **[agentskills/agentskills](https://github.com/agentskills/agentskills)** ⭐ 3,629
   ![Python](https://img.shields.io/badge/-Python-blue)
   Specification and documentation for Agent Skills
 
-- **[AndyMik90/Auto-Claude](https://github.com/AndyMik90/Auto-Claude)** ⭐ 3,372
+- **[AndyMik90/Auto-Claude](https://github.com/AndyMik90/Auto-Claude)** ⭐ 3,422
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   Autonomous multi-session AI coding
 
-- **[bellard/mquickjs](https://github.com/bellard/mquickjs)** ⭐ 3,002
+- **[bellard/mquickjs](https://github.com/bellard/mquickjs)** ⭐ 3,219
   ![C](https://img.shields.io/badge/-C-lightgrey)
   Public repository of the Micro QuickJS Javascript Engine
 
-- **[code-yeongyu/oh-my-opencode](https://github.com/code-yeongyu/oh-my-opencode)** ⭐ 2,886
+- **[code-yeongyu/oh-my-opencode](https://github.com/code-yeongyu/oh-my-opencode)** ⭐ 2,946
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   #1 OpenCode Plugin- Battery included. ASYNC SUBAGENTS (YES LIKE CLAUDE CODE) · Curated agents with proper models · Crafted tools like LSP/AST included · Curated MCPs · Claude Code Compatible Layer — Steroids for your OpenCode. The Best LLM Agent Experience is Here.
 
@@ -491,18 +480,18 @@ for a semver-minor rele...
 | Skill | Status |
 |-------|--------|
 | Java | 🟢 Proficient |
-| Python | 🔴 Beginner |
+| Python | 🟢 Proficient |
 | JavaScript | 🔴 Beginner |
-| TypeScript | 🟡 Learning |
-| Go | 🔴 Beginner |
+| TypeScript | 🟢 Proficient |
+| Go | ⚪ Planned |
 
 ### Frameworks
 
 | Skill | Status |
 |-------|--------|
-| React | 🟡 Learning |
-| Spring Boot | 🟡 Learning |
-| Django | 🟡 Learning |
+| React | 🟢 Proficient |
+| Spring Boot | 🟢 Proficient |
+| Django | 🔴 Beginner |
 | Node.js | ⚪ Planned |
 | Next.js | ⚪ Planned |
 
@@ -510,10 +499,10 @@ for a semver-minor rele...
 
 | Skill | Status |
 |-------|--------|
-| Penetration Testing | 🟢 Proficient |
-| Web Security | 🟡 Learning |
-| Network Security | 🟡 Learning |
-| OWASP | 🟢 Proficient |
+| Penetration Testing | 🔴 Beginner |
+| Web Security | 🟢 Proficient |
+| Network Security | 🟢 Proficient |
+| OWASP | 🟡 Learning |
 
 ### Ai Ml
 
@@ -521,28 +510,28 @@ for a semver-minor rele...
 |-------|--------|
 | Machine Learning | ⚪ Planned |
 | Deep Learning | ⚪ Planned |
-| NLP | ⚪ Planned |
-| Computer Vision | ⚪ Planned |
-| TensorFlow | ⚪ Planned |
+| NLP | 🟢 Proficient |
+| Computer Vision | 🟡 Learning |
+| TensorFlow | 🔴 Beginner |
 | PyTorch | 🟡 Learning |
 
 ### Devops
 
 | Skill | Status |
 |-------|--------|
-| Docker | 🟢 Proficient |
+| Docker | 🔴 Beginner |
 | Kubernetes | ⚪ Planned |
-| CI/CD | 🟢 Proficient |
-| AWS | ⚪ Planned |
-| Azure | 🟢 Proficient |
+| CI/CD | 🔴 Beginner |
+| AWS | 🟡 Learning |
+| Azure | 🔴 Beginner |
 
 ### Other
 
 | Skill | Status |
 |-------|--------|
-| Blockchain | 🔴 Beginner |
-| Web3 | 🔴 Beginner |
-| Cloud Computing | 🟡 Learning |
+| Blockchain | 🟢 Proficient |
+| Web3 | 🟡 Learning |
+| Cloud Computing | 🔴 Beginner |
 
 </details>
 
