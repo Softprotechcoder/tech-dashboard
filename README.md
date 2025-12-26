@@ -7,7 +7,7 @@
 ![AI & ML](https://img.shields.io/badge/-AI%20&%20ML-blue) ![CyberSecurity](https://img.shields.io/badge/-CyberSecurity-red) ![Full Stack Development](https://img.shields.io/badge/-Full%20Stack%20Development-green)
 
 [![Auto Update](https://img.shields.io/badge/Auto%20Update-Enabled-success)](https://github.com/yourusername/tech-dashboard/actions)
-[![Last Updated](https://img.shields.io/badge/Last%20Updated-December 25, 2025-blue)](https://github.com/yourusername/tech-dashboard)
+[![Last Updated](https://img.shields.io/badge/Last%20Updated-December 26, 2025-blue)](https://github.com/yourusername/tech-dashboard)
 
 *Automatically updated every 6 hours with the latest tech news, trending repositories, and learning resources.*
 
@@ -46,31 +46,35 @@
 
 ### 📑 Hacker News
 
-- **[Clearspace (YC W23) Is Hiring a Founding Network Engineer (VPN and Proxy)](https://www.ycombinator.com/companies/clearspace/jobs/5LtM86I-founding-network-engineer-at-clearspace)**
-  *<p>Article URL: <a href="https://www.ycombinator.com/companies/clearspace/jobs/5LtM86I-founding-network-engineer-at-clearspace">https://www.ycombinator.com/companies/clearspace/jobs/5LtM86I-founding-n...*
-  📅 Thu, 25 Dec 2025 17:01:29 +0000
+- **[Ask HN: What tech purchase did you regret even though reviews were great?](https://news.ycombinator.com/item?id=46387893)**
+  *<p>Curious what products looked amazing on paper and in reviews, but disappointed in real daily use.</p>
+<hr />
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46387893">https://news.yc...*
+  📅 Fri, 26 Dec 2025 00:01:11 +0000
 
-- **[Ask HN: What is the international distribution/statistics of HN visitors?](https://news.ycombinator.com/item?id=46385406)**
-  *<p>Dear all,<p>do we have an statistics on visitor location/country here?<p>Would be curious: Is it US-centered? How much people from LatAm or SEA? EU?<p>Maybe there was a question like this in the pa...*
-  📅 Thu, 25 Dec 2025 16:37:13 +0000
+- **[No shares in company, but 550 employees received a $240M gift from their owner](https://economictimes.indiatimes.com/magazines/panache/no-shares-in-company-but-550-employees-received-a-240-million-gift-from-their-owner-for-staying-with-him-through-tough-times/articleshow/126175955.cms?from=mdr)**
+  *<p>Article URL: <a href="https://economictimes.indiatimes.com/magazines/panache/no-shares-in-company-but-550-employees-received-a-240-million-gift-from-their-owner-for-staying-with-him-through-tough-t...*
+  📅 Thu, 25 Dec 2025 23:48:08 +0000
 
-- **[I Sell Onions on the Internet](https://www.deepsouthventures.com/i-sell-onions-on-the-internet/)**
-  *<p>Article URL: <a href="https://www.deepsouthventures.com/i-sell-onions-on-the-internet/">https://www.deepsouthventures.com/i-sell-onions-on-the-internet/</a></p>
+- **[Maybe the default settings are too high](https://www.raptitude.com/2025/12/maybe-the-default-settings-are-too-high/)**
+  *<p>Article URL: <a href="https://www.raptitude.com/2025/12/maybe-the-default-settings-are-too-high/">https://www.raptitude.com/2025/12/maybe-the-default-settings-are-too-high/</a></p>
+<p>Comments URL:...*
+  📅 Thu, 25 Dec 2025 23:13:21 +0000
+
+- **[Google is 'gradually rolling out' option to change your gmail.com address](https://9to5google.com/2025/12/24/google-change-gmail-addresses/)**
+  *<p>Article URL: <a href="https://9to5google.com/2025/12/24/google-change-gmail-addresses/">https://9to5google.com/2025/12/24/google-change-gmail-addresses/</a></p>
 <p>Comments URL: <a href="https://ne...*
-  📅 Thu, 25 Dec 2025 16:24:45 +0000
+  📅 Thu, 25 Dec 2025 21:36:48 +0000
 
-- **[Alzheimer's can be reversed to achieve full neurological recovery in animals](https://case.edu/news/new-study-shows-alzheimers-disease-can-be-reversed-achieve-full-neurological-recovery-not-just-prevented-or-slowed-animal-models)**
-  *<p>Article URL: <a href="https://case.edu/news/new-study-shows-alzheimers-disease-can-be-reversed-achieve-full-neurological-recovery-not-just-prevented-or-slowed-animal-models">https://case.edu/news/n...*
-  📅 Thu, 25 Dec 2025 15:22:36 +0000
+- **[Memory Safety](https://www.memorysafety.org/)**
+  *<p>Article URL: <a href="https://www.memorysafety.org/">https://www.memorysafety.org/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46387164">https://news.ycombinator.com/item...*
+  📅 Thu, 25 Dec 2025 21:31:25 +0000
 
-- **[Asahi Linux with Sway on the MacBook Air M2](https://daniel.lawrence.lu/blog/2024-12-01-asahi-linux-with-sway-on-the-macbook-air-m2/)**
-  *<p>Article URL: <a href="https://daniel.lawrence.lu/blog/2024-12-01-asahi-linux-with-sway-on-the-macbook-air-m2/">https://daniel.lawrence.lu/blog/2024-12-01-asahi-linux-with-sway-on-the-macbook-air-m2...*
-  📅 Thu, 25 Dec 2025 14:20:29 +0000
-
-- **[Python 3.15’s interpreter for Windows x86-64 should hopefully be 15% faster](https://fidget-spinner.github.io/posts/no-longer-sorry.html)**
-  *<p>Article URL: <a href="https://fidget-spinner.github.io/posts/no-longer-sorry.html">https://fidget-spinner.github.io/posts/no-longer-sorry.html</a></p>
-<p>Comments URL: <a href="https://news.ycombin...*
-  📅 Thu, 25 Dec 2025 13:02:46 +0000
+- **[URL Pattern API](https://developer.mozilla.org/en-US/docs/Web/API/URL_Pattern_API)**
+  *<p>Article URL: <a href="https://developer.mozilla.org/en-US/docs/Web/API/URL_Pattern_API">https://developer.mozilla.org/en-US/docs/Web/API/URL_Pattern_API</a></p>
+<p>Comments URL: <a href="https://ne...*
+  📅 Thu, 25 Dec 2025 20:27:45 +0000
 
 ### 📑 TechCrunch
 
@@ -100,21 +104,19 @@
 
 ### 📑 Dev.to
 
-- **[How I Became an AWS Community Builder (Security) – My Real Journey + Application Guide](https://dev.to/aws-builders/how-i-became-an-aws-community-builder-security-my-real-journey-application-guide-22kp)**
-  *<p>Hey folks! 👋 </p>
+- **[A Secure Container Introduction for the Minimally Security-Aware Developer](https://dev.to/rafael-italiano/a-secure-container-introduction-for-the-minimally-security-aware-developer-1159)**
+  *<p>Docker Hardened Images just came out to the general public and it seems Docker Inc is going for setting new industry standards for container-based application development.</p>
 
-<p>If you've ever wanted to level up your AWS game, meet amazing people, and get <strong>$500 AWS credits + free cert vouchers</strong>, then the <strong>AWS Community Builders p...*
-  📅 Thu, 25 Dec 2025 18:08:16 +0000
+<p>If you're new to ...*
+  📅 Fri, 26 Dec 2025 00:48:40 +0000
 
-- **[Rethinking Absence: A Gentle Introduction to the Option Type in TypeScript](https://dev.to/vlad_rasenko/rethinking-absence-a-gentle-introduction-to-the-option-type-in-typescript-4p1e)**
-  *<h2>
-  
-  
-  The Everyday Problem with null | undefined
-</h2>
+- **[I automated data breach response - changing 50 passwords in 30 minutes instead of 8 hours](https://dev.to/thepasswordapp/i-automated-data-breach-response-changing-50-passwords-in-30-minutes-instead-of-8-hours-21o5)**
+  *<p>Last month I got the email everyone dreads: "Your account may have been compromised in a data breach."</p>
 
-<p><a class="article-body-image-wrapper" href="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2C...*
-  📅 Thu, 25 Dec 2025 18:07:16 +0000
+<p>I checked. Same password on 47 other sites.</p>
+
+<p>Manually changing 47 passwords tak...*
+  📅 Fri, 26 Dec 2025 00:32:16 +0000
 
 </details>
 
@@ -122,105 +124,105 @@
 
 ### 📈 Daily Trending
 
-- **[AkideLiu/betterclaude-workers](https://github.com/AkideLiu/betterclaude-workers)** ⭐ 67
-  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
-  BetterClaude API Gateway
+- **[mujahi-01/Apks](https://github.com/mujahi-01/Apks)** ⭐ 1
+  ![HTML](https://img.shields.io/badge/-HTML-lightgrey)
+  Apks s
 
-- **[ClashConnectRules/Self-Configuration](https://github.com/ClashConnectRules/Self-Configuration)** ⭐ 65
-  ![None](https://img.shields.io/badge/-None-lightgrey)
+- **[Celo-HT/celoht-public-website](https://github.com/Celo-HT/celoht-public-website)** ⭐ 1
+  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
+  Official Web3 NGO website for CeloHT enabling transparent donations, on-chain accountability, public impact reporting, and blockchain-powered financial inclusion for the Haitian community.
+
+- **[Jones-6199/Customer-Management-Dashboard](https://github.com/Jones-6199/Customer-Management-Dashboard)** ⭐ 1
+  ![HTML](https://img.shields.io/badge/-HTML-lightgrey)
+  Responsive customer management dashboard built with Bootstrap. It provides essential admin features such as adding, editing, and deleting customers, organized navigation, and logout functionality. Designed to demonstrate practical UI/UX skills and dashboard architecture.
+
+- **[Darkblade1995/SalesPerformanceAnalyzer](https://github.com/Darkblade1995/SalesPerformanceAnalyzer)** ⭐ 1
+  ![C++](https://img.shields.io/badge/-C++-pink)
+  A C++ console application designed to track and analyze sales performance. It uses 2D arrays to manage data for multiple salespeople over a four-month period, calculating individual performance averages and overall team metrics.
+
+- **[Tecnocomp-Field/roteiro](https://github.com/Tecnocomp-Field/roteiro)** ⭐ 1
+  ![HTML](https://img.shields.io/badge/-HTML-lightgrey)
   None
 
-- **[OpLumina/unredact.py](https://github.com/OpLumina/unredact.py)** ⭐ 46
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  a python project that removes weak redaction methods such as black text highlighted black, and putting a non-flattened image over text.
-
-- **[Anarkh-Lee/visual-docker-compose](https://github.com/Anarkh-Lee/visual-docker-compose)** ⭐ 44
-  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
-  一款现代化的 Docker Compose 可视化生成器，通过拖拽操作快速构建容器编排配置文件。
-
-- **[tsoding/formula](https://github.com/tsoding/formula)** ⭐ 26
+- **[davisilva-25/controleFinanceiro](https://github.com/davisilva-25/controleFinanceiro)** ⭐ 1
   ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
-  One Formula That Demystifies 3D Graphics
+  None
 
-- **[liangdabiao/Claude-Code-Deep-Research-main](https://github.com/liangdabiao/Claude-Code-Deep-Research-main)** ⭐ 25
-  ![None](https://img.shields.io/badge/-None-lightgrey)
-  利用claude code agent框架一步一步实现deep research！很强大很简单的skills。我一步一步介绍实现deep research，因为deep research就是agent框架第一应用，对比一下各个框架实现这个deep research，就知道哪个框架才是真厉害。
+- **[oussama-elmajdoubi-hue/oussama-elmajdoubii.github.io](https://github.com/oussama-elmajdoubi-hue/oussama-elmajdoubii.github.io)** ⭐ 1
+  ![HTML](https://img.shields.io/badge/-HTML-lightgrey)
+  None
 
-- **[Anarkh-Lee/resume-polish](https://github.com/Anarkh-Lee/resume-polish)** ⭐ 25
-  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
-  简历润色
-
-- **[validatedev/BrewServicesManager](https://github.com/validatedev/BrewServicesManager)** ⭐ 20
-  ![Swift](https://img.shields.io/badge/-Swift-lightgrey)
-  A macOS menu bar app for managing Homebrew services
+- **[h-3d/xenx](https://github.com/h-3d/xenx)** ⭐ 1
+  ![HTML](https://img.shields.io/badge/-HTML-lightgrey)
+  A basic project scaffolder made using Bun and boune.
 
 ### 📈 Weekly Trending
 
-- **[bellard/mquickjs](https://github.com/bellard/mquickjs)** ⭐ 3,532
+- **[bellard/mquickjs](https://github.com/bellard/mquickjs)** ⭐ 3,727
   ![C](https://img.shields.io/badge/-C-lightgrey)
   Public repository of the Micro QuickJS Javascript Engine
 
-- **[muratcankoylan/Agent-Skills-for-Context-Engineering](https://github.com/muratcankoylan/Agent-Skills-for-Context-Engineering)** ⭐ 2,388
+- **[muratcankoylan/Agent-Skills-for-Context-Engineering](https://github.com/muratcankoylan/Agent-Skills-for-Context-Engineering)** ⭐ 2,674
   ![Python](https://img.shields.io/badge/-Python-blue)
   A comprehensive collection of Agent Skills for context engineering, multi-agent architectures, and production agent systems. Use when building, optimizing, or debugging agent systems that require effective context management.
 
-- **[journey-ad/gemini-watermark-remover](https://github.com/journey-ad/gemini-watermark-remover)** ⭐ 1,172
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
-  A high-performance, 100% client-side tool for removing Gemini AI watermarks. Built with pure JavaScript, it leverages a mathematically precise Reverse Alpha Blending algorithm rather than unpredictable AI inpainting. / 基于 Javascript 的纯浏览器端 Gemini AI 图像无损去水印工具，使用数学精确的反向 Alpha 混合算法
-
-- **[yeahhe365/gemini-nexus](https://github.com/yeahhe365/gemini-nexus)** ⭐ 638
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
-  Gemini Nexus 是一款深度集成 Google Gemini 能力的 Chrome 扩展程序。它不仅仅是一个侧边栏插件，而是通过注入式的悬浮工具栏、强大的图像 AI 处理以及前沿的浏览器控制协议 (MCP)，将 AI 的触角伸向网页浏览的每一个交互细节。
-
-- **[eyeblech/cinecli](https://github.com/eyeblech/cinecli)** ⭐ 534
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  CineCLI is a cross-platform command-line movie browser built with Python.
-
-- **[antonmedv/textarea](https://github.com/antonmedv/textarea)** ⭐ 526
+- **[antonmedv/textarea](https://github.com/antonmedv/textarea)** ⭐ 573
   ![HTML](https://img.shields.io/badge/-HTML-lightgrey)
   A notes webapp
 
-- **[RhysSullivan/epstein-files-browser](https://github.com/RhysSullivan/epstein-files-browser)** ⭐ 517
+- **[eyeblech/cinecli](https://github.com/eyeblech/cinecli)** ⭐ 542
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  CineCLI is a cross-platform command-line movie browser built with Python.
+
+- **[jlongster/tigma](https://github.com/jlongster/tigma)** ⭐ 472
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   None
 
-- **[sOLarFLaMEPyL/Arbitrage_Mev_BOT](https://github.com/sOLarFLaMEPyL/Arbitrage_Mev_BOT)** ⭐ 482
-  ![Solidity](https://img.shields.io/badge/-Solidity-lightgrey)
-  Basically, contract for MEV: takes flash loans, runs arbitrage between DEXes, does liquidations. Everything is ready, deploy and use.
+- **[elijah0528/video2ascii](https://github.com/elijah0528/video2ascii)** ⭐ 381
+  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
+  WebGL-powered React Component for video to ASCII conversion
+
+- **[open-tinker/OpenTinker](https://github.com/open-tinker/OpenTinker)** ⭐ 378
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  OpenTinker is an RL-as-a-Service infrastructure for foundation models
+
+- **[leedrake5/unredact](https://github.com/leedrake5/unredact)** ⭐ 376
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  A simple tool for reading in poorly redacted documents and reproducing their origional form
 
 ### 📈 Monthly Trending
 
-- **[zai-org/Open-AutoGLM](https://github.com/zai-org/Open-AutoGLM)** ⭐ 19,412
+- **[zai-org/Open-AutoGLM](https://github.com/zai-org/Open-AutoGLM)** ⭐ 19,429
   ![Python](https://img.shields.io/badge/-Python-blue)
   An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
 
-- **[Tongyi-MAI/Z-Image](https://github.com/Tongyi-MAI/Z-Image)** ⭐ 7,883
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  None
-
-- **[Anionex/banana-slides](https://github.com/Anionex/banana-slides)** ⭐ 6,349
+- **[Anionex/banana-slides](https://github.com/Anionex/banana-slides)** ⭐ 6,374
   ![Python](https://img.shields.io/badge/-Python-blue)
   一个基于nano banana pro🍌的原生AI PPT生成应用，迈向真正的＂Vibe PPT＂; 支持上传任意模板图片；上传任意素材&智能解析；一句话/大纲/页面描述自动生成PPT；口头修改指定区域、一键导出 - An AI-native PPT generator based on nano banana pro🍌
 
-- **[apple/ml-sharp](https://github.com/apple/ml-sharp)** ⭐ 5,122
+- **[apple/ml-sharp](https://github.com/apple/ml-sharp)** ⭐ 5,156
   ![Python](https://img.shields.io/badge/-Python-blue)
   Sharp Monocular View Synthesis in Less Than a Second
 
-- **[agentskills/agentskills](https://github.com/agentskills/agentskills)** ⭐ 3,655
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  Specification and documentation for Agent Skills
-
-- **[bellard/mquickjs](https://github.com/bellard/mquickjs)** ⭐ 3,532
+- **[bellard/mquickjs](https://github.com/bellard/mquickjs)** ⭐ 3,727
   ![C](https://img.shields.io/badge/-C-lightgrey)
   Public repository of the Micro QuickJS Javascript Engine
 
-- **[AndyMik90/Auto-Claude](https://github.com/AndyMik90/Auto-Claude)** ⭐ 3,487
-  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
+- **[agentskills/agentskills](https://github.com/agentskills/agentskills)** ⭐ 3,677
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  Specification and documentation for Agent Skills
+
+- **[AndyMik90/Auto-Claude](https://github.com/AndyMik90/Auto-Claude)** ⭐ 3,528
+  ![Python](https://img.shields.io/badge/-Python-blue)
   Autonomous multi-session AI coding
 
-- **[code-yeongyu/oh-my-opencode](https://github.com/code-yeongyu/oh-my-opencode)** ⭐ 2,980
+- **[code-yeongyu/oh-my-opencode](https://github.com/code-yeongyu/oh-my-opencode)** ⭐ 3,020
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   #1 OpenCode Plugin- Battery included. ASYNC SUBAGENTS (YES LIKE CLAUDE CODE) · Curated agents with proper models · Crafted tools like LSP/AST included · Curated MCPs · Claude Code Compatible Layer — Steroids for your OpenCode. The Best LLM Agent Experience is Here.
+
+- **[666OS/ClashMac](https://github.com/666OS/ClashMac)** ⭐ 2,758
+  ![None](https://img.shields.io/badge/-None-lightgrey)
+  基于 Clash (mihomo) 内核的轻量级 macOS 菜单栏客户端。Lightweight macOS Clash (mihomo) menu bar client.
 
 ## 🚀 Latest Releases
 
@@ -484,50 +486,50 @@ for a semver-minor rele...
 
 | Skill | Status |
 |-------|--------|
-| Java | 🔴 Beginner |
+| Java | 🟢 Proficient |
 | Python | 🔴 Beginner |
-| JavaScript | 🟡 Learning |
+| JavaScript | 🟢 Proficient |
 | TypeScript | ⚪ Planned |
-| Go | ⚪ Planned |
+| Go | 🔴 Beginner |
 
 ### Frameworks
 
 | Skill | Status |
 |-------|--------|
-| React | 🟢 Proficient |
+| React | 🔴 Beginner |
 | Spring Boot | 🟡 Learning |
-| Django | 🟢 Proficient |
-| Node.js | 🟢 Proficient |
-| Next.js | 🔴 Beginner |
+| Django | ⚪ Planned |
+| Node.js | ⚪ Planned |
+| Next.js | 🟢 Proficient |
 
 ### Cybersecurity
 
 | Skill | Status |
 |-------|--------|
-| Penetration Testing | 🔴 Beginner |
-| Web Security | 🟡 Learning |
-| Network Security | 🟡 Learning |
+| Penetration Testing | 🟡 Learning |
+| Web Security | 🟢 Proficient |
+| Network Security | 🟢 Proficient |
 | OWASP | ⚪ Planned |
 
 ### Ai Ml
 
 | Skill | Status |
 |-------|--------|
-| Machine Learning | 🟢 Proficient |
-| Deep Learning | ⚪ Planned |
-| NLP | 🟢 Proficient |
-| Computer Vision | 🔴 Beginner |
-| TensorFlow | 🔴 Beginner |
-| PyTorch | ⚪ Planned |
+| Machine Learning | 🟡 Learning |
+| Deep Learning | 🟢 Proficient |
+| NLP | 🟡 Learning |
+| Computer Vision | ⚪ Planned |
+| TensorFlow | ⚪ Planned |
+| PyTorch | 🔴 Beginner |
 
 ### Devops
 
 | Skill | Status |
 |-------|--------|
-| Docker | 🟡 Learning |
-| Kubernetes | ⚪ Planned |
-| CI/CD | 🟢 Proficient |
-| AWS | 🟢 Proficient |
+| Docker | ⚪ Planned |
+| Kubernetes | 🟡 Learning |
+| CI/CD | 🟡 Learning |
+| AWS | 🟡 Learning |
 | Azure | 🟡 Learning |
 
 ### Other
@@ -535,7 +537,7 @@ for a semver-minor rele...
 | Skill | Status |
 |-------|--------|
 | Blockchain | 🟢 Proficient |
-| Web3 | 🟢 Proficient |
+| Web3 | ⚪ Planned |
 | Cloud Computing | 🟡 Learning |
 
 </details>
@@ -554,7 +556,7 @@ This dashboard is automatically updated every 6 hours using GitHub Actions. The 
 
 <div align="center">
 
-**Last Updated:** December 25, 2025
+**Last Updated:** December 26, 2025
 
 Made with ❤️ and automated with GitHub Actions
 
