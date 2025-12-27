@@ -46,36 +46,53 @@
 
 ### 📑 Hacker News
 
-- **[Splice a Fibre](https://react-networks-lib.rackout.net/fibre)**
-  *<p>It's interactive, try and splice one!<p>Written in react, it's moderately heavy and not entirely mobile optimised.</p>
-<hr />
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46401190...*
-  📅 Sat, 27 Dec 2025 11:57:17 +0000
+- **[Janet Jackson had the power to crash laptop computers (2022)](https://devblogs.microsoft.com/oldnewthing/20220816-00/?p=106994)**
+  *<p>Article URL: <a href="https://devblogs.microsoft.com/oldnewthing/20220816-00/?p=106994">https://devblogs.microsoft.com/oldnewthing/20220816-00/?p=106994</a></p>
+<p>Comments URL: <a href="https://ne...*
+  📅 Sat, 27 Dec 2025 17:16:08 +0000
 
-- **[Cursed Bundler: Using go get to install Ruby Gems](https://nesbitt.io/2025/12/25/cursed-bundler-using-go-get-to-install-ruby-gems.html)**
-  *<p>Article URL: <a href="https://nesbitt.io/2025/12/25/cursed-bundler-using-go-get-to-install-ruby-gems.html">https://nesbitt.io/2025/12/25/cursed-bundler-using-go-get-to-install-ruby-gems.html</a></p...*
-  📅 Sat, 27 Dec 2025 11:05:46 +0000
+- **[USD Share as Global Reserve Currency Drops to Lowest Since 1994](https://wolfstreet.com/2025/12/26/status-of-the-us-dollar-as-global-reserve-currency-usd-share-drops-to-lowest-since-1994/)**
+  *<p>Article URL: <a href="https://wolfstreet.com/2025/12/26/status-of-the-us-dollar-as-global-reserve-currency-usd-share-drops-to-lowest-since-1994/">https://wolfstreet.com/2025/12/26/status-of-the-us-...*
+  📅 Sat, 27 Dec 2025 17:14:06 +0000
 
-- **[Show HN: Ez FFmpeg – Video editing in plain English](http://npmjs.com/package/ezff)**
-  *<p>I built a CLI tool that lets you do common video/audio operations without remembering ffmpeg syntax.<p>Instead of:
-ffmpeg -i video.mp4 -vf "fps=15,scale=480:-1:flags=lanczos" -loop 0 output.gif<p>Y...*
-  📅 Sat, 27 Dec 2025 08:45:46 +0000
+- **[Gpg.fail](https://gpg.fail)**
+  *<p>Article URL: <a href="https://gpg.fail">https://gpg.fail</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46403200">https://news.ycombinator.com/item?id=46403200</a></p>
+<p>Po...*
+  📅 Sat, 27 Dec 2025 17:05:50 +0000
 
-- **[More dynamic cronjobs](https://george.mand.is/2025/09/more-dynamic-cronjobs/)**
-  *<p>Article URL: <a href="https://george.mand.is/2025/09/more-dynamic-cronjobs/">https://george.mand.is/2025/09/more-dynamic-cronjobs/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/ite...*
-  📅 Sat, 27 Dec 2025 06:10:42 +0000
+- **[VSCode rebrands as "The open source AI code editor"](https://code.visualstudio.com)**
+  *<p>Article URL: <a href="https://code.visualstudio.com">https://code.visualstudio.com</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46403073">https://news.ycombinator.com/item...*
+  📅 Sat, 27 Dec 2025 16:51:01 +0000
 
-- **[Inside the proton, the ‘most complicated thing you could possibly imagine’ (2022)](https://www.quantamagazine.org/inside-the-proton-the-most-complicated-thing-imaginable-20221019/)**
-  *<p>Article URL: <a href="https://www.quantamagazine.org/inside-the-proton-the-most-complicated-thing-imaginable-20221019/">https://www.quantamagazine.org/inside-the-proton-the-most-complicated-thing-i...*
-  📅 Sat, 27 Dec 2025 03:00:00 +0000
+- **[This PNG shows a different version when loaded in Chrome than in Safari](https://lr0.org/blog/p/pngchanges/)**
+  *<p>Article URL: <a href="https://lr0.org/blog/p/pngchanges/">https://lr0.org/blog/p/pngchanges/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46403048">https://news.ycombinato...*
+  📅 Sat, 27 Dec 2025 16:48:18 +0000
 
-- **[QNX Self-Hosted Developer Desktop](https://devblog.qnx.com/qnx-self-hosted-developer-desktop-initial-release/)**
-  *<p>Article URL: <a href="https://devblog.qnx.com/qnx-self-hosted-developer-desktop-initial-release/">https://devblog.qnx.com/qnx-self-hosted-developer-desktop-initial-release/</a></p>
-<p>Comments URL:...*
-  📅 Sat, 27 Dec 2025 01:16:53 +0000
+- **[Nvidia just paid $20B for a company that missed its revenue target by 75%](https://blog.drjoshcsimmons.com/p/nvidia-just-paid-20-billion-for-a)**
+  *<p>Article URL: <a href="https://blog.drjoshcsimmons.com/p/nvidia-just-paid-20-billion-for-a">https://blog.drjoshcsimmons.com/p/nvidia-just-paid-20-billion-for-a</a></p>
+<p>Comments URL: <a href="http...*
+  📅 Sat, 27 Dec 2025 16:47:13 +0000
 
 ### 📑 TechCrunch
+
+- **[Meet the team that investigates when journalists and activists get hacked with government spyware](https://techcrunch.com/2025/12/27/meet-the-team-that-investigates-when-journalists-and-activists-get-hacked-with-government-spyware/)**
+  *For years, Access Now’s Digital Security Helpline has been aiding journalists and dissidents who have been targeted with government spyware. This is how they operate....*
+  📅 Sat, 27 Dec 2025 18:00:00 +0000
+
+- **[The 22 top clean tech and energy startups from Disrupt Startup Battlefield](https://techcrunch.com/2025/12/27/the-22-top-clean-tech-and-energy-startups-from-disrupt-startup-battlefield/)**
+  *Here is the full list of the clean tech and energy Startup Battlefield 200 selectees, along with a note on what made us select them for the competition....*
+  📅 Sat, 27 Dec 2025 16:00:00 +0000
+
+- **[NY Governor Hochul signs bill requiring warning labels on ‘addictive’ social media](https://techcrunch.com/2025/12/27/ny-governor-hochul-signs-bill-requiring-warning-labels-on-addictive-social-media/)**
+  *New York Governor Kathy Hochul signed a bill requiring social media platforms to show warning labels to younger users before they’re exposed to features such as autoplay and infinite scrolling....*
+  📅 Sat, 27 Dec 2025 15:51:08 +0000
+
+- **[The 7 top space and defense tech startups from Disrupt Startup Battlefield](https://techcrunch.com/2025/12/27/the-7-top-space-and-defense-tech-startups-from-disrupt-startup-battlefield/)**
+  *Here is the full list of the space and defense tech Startup Battlefield 200 selectees, along with a note on what made us select them for the competition....*
+  📅 Sat, 27 Dec 2025 15:00:00 +0000
 
 - **[How reality crushed Ÿnsect, the French startup that had raised over $600M for insect farming](https://techcrunch.com/2025/12/26/how-reality-crushed-ynsect-the-french-startup-that-had-raised-over-600m-for-insect-farming/)**
   *French insect farming company Ÿnsect was recently placed into judicial liquidation for insolvency, despite raising over $600 million....*
@@ -85,44 +102,17 @@ ffmpeg -i video.mp4 -vf "fps=15,scale=480:-1:flags=lanczos" -loop 0 output.gif<p
   *We've compiled a list of friendship apps, from friend discovery platforms like BFF to event-focused ones like Timeleft....*
   📅 Fri, 26 Dec 2025 19:00:00 +0000
 
-- **[What’s ahead for startups and VCs in 2026? Investors weigh in](https://techcrunch.com/2025/12/26/whats-ahead-for-startups-and-vcs-in-2026-investors-weigh-in/)**
-  *VCs share their thoughts on what next year could bring to the market....*
-  📅 Fri, 26 Dec 2025 18:12:09 +0000
-
-- **[Naware’s chemical-free weed killer tech could change how we treat lawns](https://techcrunch.com/2025/12/26/nawares-chemical-free-weed-killer-tech-could-change-how-we-treat-lawns/)**
-  *A classic hardware startup, Naware set out with a problem -- kill weeds without chemicals -- and relentlessly tinkered until they found a solution....*
-  📅 Fri, 26 Dec 2025 17:00:00 +0000
-
-- **[Treat yourself: The best smart glasses to buy with your holiday gift money](https://techcrunch.com/2025/12/26/treat-yourself-the-best-smart-glasses-to-buy-with-your-holiday-gift-money/)**
-  *Whether you’re looking to get a pair yourself or just want to explore what’s available on the market today, we’ve compiled a list of the most compelling pairs available....*
-  📅 Fri, 26 Dec 2025 16:00:00 +0000
-
-- **[The 9 top cybersecurity startups from Disrupt Startup Battlefield](https://techcrunch.com/2025/12/26/the-9-top-cybersecurity-startups-from-disrupt-startup-battlefield/)**
-  *Here is the full list of the cybersecurity Startup Battlefield 200 selectees, along with a note on what made us select them for the competition....*
-  📅 Fri, 26 Dec 2025 15:00:00 +0000
-
 ### 📑 Dev.to
 
-- **[Quark's Outlines: Emulating Sequence and Mapping Types in Python](https://dev.to/mike-vincent/quarks-outlines-emulating-sequence-and-mapping-types-in-python-498m)**
-  *<h1>
-  
-  
-  Quark’s Outlines: Emulating Sequence and Mapping Types in Python
-</h1>
+- **[Sam Altman — from Loopt kid to OpenAI’s lightning rod](https://dev.to/tashfia_a8008e6a542/sam-altman-from-loopt-kid-to-openais-lightning-rod-4oll)**
+  *<p>Sam Altman didn’t become powerful because he wrote the best code or published the most papers.<br /><br />
+He became powerful because he learned how to <strong>compound leverage</strong> — people, ...*
+  📅 Sat, 27 Dec 2025 18:11:21 +0000
 
-<p><em>Overview, Historical Timeline, Problems &amp; Solutions</em></p>
-
-<h2>
-  
-  
-  An Overview of Emulating Sequ...*
-  📅 Sat, 27 Dec 2025 12:11:39 +0000
-
-- **[📊 Visualize Your Coding Journey: Check Your GitHub Stats](https://dev.to/ibrahimsezer/visualize-your-coding-journey-check-your-github-stats-2cdo)**
-  *<p>Have you ever wondered what your coding timeline <em>really</em> looks like beyond the standard green contribution squares on GitHub?</p>
-
-<p>We all love seeing those green squares light up, but so...*
-  📅 Sat, 27 Dec 2025 12:09:59 +0000
+- **[Step-by-step Guide: Creating a PASETO (Platform-Agnostic Security Token) in Express.js](https://dev.to/codefalconx/step-by-step-guide-creating-a-paseto-platform-agnostic-security-token-in-expressjs-37pn)**
+  *<p>The legacy library can’t generate keys itself, but it can import an <strong>Ed25519</strong> key.<br />
+We’ll generate the key pair once (with <strong>tweetnacl</strong>, a crypto library) and feed...*
+  📅 Sat, 27 Dec 2025 18:05:13 +0000
 
 </details>
 
@@ -134,61 +124,61 @@ ffmpeg -i video.mp4 -vf "fps=15,scale=480:-1:flags=lanczos" -loop 0 output.gif<p
   ![Java](https://img.shields.io/badge/-Java-orange)
   Lade dir jetzt den HugoSMP Client herunter und erhalte ein gratis Netherite Starterkit
 
+- **[UniSecurityGuard/UniSecurityGuard](https://github.com/UniSecurityGuard/UniSecurityGuard)** ⭐ 94
+  ![None](https://img.shields.io/badge/-None-lightgrey)
+  本科华五，曾赴美qs50读博，某兄弟院校副教授，校园门卫亭女性主理人，为防止炸号的备份平台，是本人。
+
 - **[lxj2004/KMS-Pico-Module-ClientV2-Port25](https://github.com/lxj2004/KMS-Pico-Module-ClientV2-Port25)** ⭐ 87
   ![None](https://img.shields.io/badge/-None-lightgrey)
   KMS Pico is a free tool for automatic activation of Microsoft Windows and Office using KMS technology. It enables quick and easy activation without license keys.
 
-- **[rotejin/MotionPNGTuber](https://github.com/rotejin/MotionPNGTuber)** ⭐ 21
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  PNGTuber以上Live2D未満 - 動画ループで髪揺れなど表現可能なリアルタイム口パクツール
+- **[Luokavin/AutoGLM-For-Android](https://github.com/Luokavin/AutoGLM-For-Android)** ⭐ 52
+  ![Kotlin](https://img.shields.io/badge/-Kotlin-lightgrey)
+  基于 Open-AutoGLM 的 Android 原生手机智能助手应用 | Native Android Phone AI Assistant Based on Open-AutoGLM
 
-- **[santonindiana/KMS-Pico-Module-ClientV3](https://github.com/santonindiana/KMS-Pico-Module-ClientV3)** ⭐ 20
+- **[mostafaaElsherbiny/oop-tasks](https://github.com/mostafaaElsherbiny/oop-tasks)** ⭐ 49
   ![None](https://img.shields.io/badge/-None-lightgrey)
-  KMS Pico is a free tool for automatic activation of Microsoft Windows and Office using KMS technology. It enables quick and easy activation without license keys.
-
-- **[soulumor/KMS-Pico-Module-ClientV4](https://github.com/soulumor/KMS-Pico-Module-ClientV4)** ⭐ 18
-  ![None](https://img.shields.io/badge/-None-lightgrey)
-  KMS Pico is a free tool for automatic activation of Microsoft Windows and Office using KMS technology. It enables quick and easy activation without license keys.
-
-- **[R44VC0RP/OpenCode-Island](https://github.com/R44VC0RP/OpenCode-Island)** ⭐ 17
-  ![Swift](https://img.shields.io/badge/-Swift-lightgrey)
   None
 
-- **[utsav-98/ProcessManager](https://github.com/utsav-98/ProcessManager)** ⭐ 16
+- **[iamzhihuix/happy-claude-skills](https://github.com/iamzhihuix/happy-claude-skills)** ⭐ 34
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  None
+
+- **[utsav-98/ProcessManager](https://github.com/utsav-98/ProcessManager)** ⭐ 30
   ![C](https://img.shields.io/badge/-C-lightgrey)
   I use arch BTW
 
-- **[omar-haris/smart-coding-mcp](https://github.com/omar-haris/smart-coding-mcp)** ⭐ 13
+- **[omar-haris/smart-coding-mcp](https://github.com/omar-haris/smart-coding-mcp)** ⭐ 25
   ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
   An extensible Model Context Protocol (MCP) server that provides intelligent semantic code search for AI assistants. Built with local AI models, inspired by Cursor's semantic search research.
 
 ### 📈 Weekly Trending
 
-- **[bellard/mquickjs](https://github.com/bellard/mquickjs)** ⭐ 4,383
+- **[bellard/mquickjs](https://github.com/bellard/mquickjs)** ⭐ 4,410
   ![C](https://img.shields.io/badge/-C-lightgrey)
   Public repository of the Micro QuickJS Javascript Engine
 
-- **[muratcankoylan/Agent-Skills-for-Context-Engineering](https://github.com/muratcankoylan/Agent-Skills-for-Context-Engineering)** ⭐ 3,465
+- **[muratcankoylan/Agent-Skills-for-Context-Engineering](https://github.com/muratcankoylan/Agent-Skills-for-Context-Engineering)** ⭐ 3,575
   ![Python](https://img.shields.io/badge/-Python-blue)
   A comprehensive collection of Agent Skills for context engineering, multi-agent architectures, and production agent systems. Use when building, optimizing, or debugging agent systems that require effective context management.
 
-- **[antonmedv/textarea](https://github.com/antonmedv/textarea)** ⭐ 870
+- **[antonmedv/textarea](https://github.com/antonmedv/textarea)** ⭐ 905
   ![HTML](https://img.shields.io/badge/-HTML-lightgrey)
   A minimalist text editor that lives in URL
 
-- **[eyeblech/cinecli](https://github.com/eyeblech/cinecli)** ⭐ 601
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  CineCLI is a cross-platform command-line movie browser built with Python.
-
-- **[ClashConnectRules/Self-Configuration](https://github.com/ClashConnectRules/Self-Configuration)** ⭐ 585
+- **[ClashConnectRules/Self-Configuration](https://github.com/ClashConnectRules/Self-Configuration)** ⭐ 660
   ![None](https://img.shields.io/badge/-None-lightgrey)
   None
 
-- **[parcadei/Continuous-Claude](https://github.com/parcadei/Continuous-Claude)** ⭐ 584
+- **[parcadei/Continuous-Claude](https://github.com/parcadei/Continuous-Claude)** ⭐ 622
   ![Python](https://img.shields.io/badge/-Python-blue)
   Context management for Claude Code. Hooks maintain state via ledgers and handoffs. MCP execution without context pollution. Agent orchestration with isolated context windows.
 
-- **[dennisyang1986/opensqt_market_maker](https://github.com/dennisyang1986/opensqt_market_maker)** ⭐ 540
+- **[eyeblech/cinecli](https://github.com/eyeblech/cinecli)** ⭐ 605
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  CineCLI is a cross-platform command-line movie browser built with Python.
+
+- **[dennisyang1986/opensqt_market_maker](https://github.com/dennisyang1986/opensqt_market_maker)** ⭐ 541
   ![Go](https://img.shields.io/badge/-Go-cyan)
   OpenSQT 是一个高性能、低延迟的加密货币做市商系统，专注于永续合约市场的做多网格交易策略。系统采用 Go 语言开发，基于 WebSocket 实时数据流驱动，旨在为 Binance、Bitget、Gate.io 等主流交易所提供稳定的流动性支持。
 
@@ -198,35 +188,35 @@ ffmpeg -i video.mp4 -vf "fps=15,scale=480:-1:flags=lanczos" -loop 0 output.gif<p
 
 ### 📈 Monthly Trending
 
-- **[zai-org/Open-AutoGLM](https://github.com/zai-org/Open-AutoGLM)** ⭐ 19,669
+- **[zai-org/Open-AutoGLM](https://github.com/zai-org/Open-AutoGLM)** ⭐ 19,699
   ![Python](https://img.shields.io/badge/-Python-blue)
   An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
 
-- **[Anionex/banana-slides](https://github.com/Anionex/banana-slides)** ⭐ 6,906
+- **[Anionex/banana-slides](https://github.com/Anionex/banana-slides)** ⭐ 6,970
   ![Python](https://img.shields.io/badge/-Python-blue)
   一个基于nano banana pro🍌的原生AI PPT生成应用，迈向真正的＂Vibe PPT＂; 支持上传任意模板图片；上传任意素材&智能解析；一句话/大纲/页面描述自动生成PPT；口头修改指定区域、一键导出 - An AI-native PPT generator based on nano banana pro🍌
 
-- **[apple/ml-sharp](https://github.com/apple/ml-sharp)** ⭐ 5,360
+- **[apple/ml-sharp](https://github.com/apple/ml-sharp)** ⭐ 5,662
   ![Python](https://img.shields.io/badge/-Python-blue)
   Sharp Monocular View Synthesis in Less Than a Second
 
-- **[bellard/mquickjs](https://github.com/bellard/mquickjs)** ⭐ 4,383
+- **[bellard/mquickjs](https://github.com/bellard/mquickjs)** ⭐ 4,410
   ![C](https://img.shields.io/badge/-C-lightgrey)
   Public repository of the Micro QuickJS Javascript Engine
 
-- **[agentskills/agentskills](https://github.com/agentskills/agentskills)** ⭐ 3,775
+- **[agentskills/agentskills](https://github.com/agentskills/agentskills)** ⭐ 3,792
   ![Python](https://img.shields.io/badge/-Python-blue)
   Specification and documentation for Agent Skills
 
-- **[AndyMik90/Auto-Claude](https://github.com/AndyMik90/Auto-Claude)** ⭐ 3,727
+- **[AndyMik90/Auto-Claude](https://github.com/AndyMik90/Auto-Claude)** ⭐ 3,755
   ![Python](https://img.shields.io/badge/-Python-blue)
   Autonomous multi-session AI coding
 
-- **[muratcankoylan/Agent-Skills-for-Context-Engineering](https://github.com/muratcankoylan/Agent-Skills-for-Context-Engineering)** ⭐ 3,465
+- **[muratcankoylan/Agent-Skills-for-Context-Engineering](https://github.com/muratcankoylan/Agent-Skills-for-Context-Engineering)** ⭐ 3,575
   ![Python](https://img.shields.io/badge/-Python-blue)
   A comprehensive collection of Agent Skills for context engineering, multi-agent architectures, and production agent systems. Use when building, optimizing, or debugging agent systems that require effective context management.
 
-- **[code-yeongyu/oh-my-opencode](https://github.com/code-yeongyu/oh-my-opencode)** ⭐ 3,152
+- **[code-yeongyu/oh-my-opencode](https://github.com/code-yeongyu/oh-my-opencode)** ⭐ 3,243
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   #1 OpenCode Plugin- Battery included. ASYNC SUBAGENTS (YES LIKE CLAUDE CODE) · Curated agents with proper models · Crafted tools like LSP/AST included · Curated MCPs · Claude Code Compatible Layer — Steroids for your OpenCode. The Best LLM Agent Experience is Here.
 
@@ -492,21 +482,21 @@ for a semver-minor rele...
 
 | Skill | Status |
 |-------|--------|
-| Java | 🔴 Beginner |
-| Python | 🟡 Learning |
-| JavaScript | 🟢 Proficient |
-| TypeScript | 🟡 Learning |
+| Java | 🟢 Proficient |
+| Python | 🔴 Beginner |
+| JavaScript | 🔴 Beginner |
+| TypeScript | 🔴 Beginner |
 | Go | 🟡 Learning |
 
 ### Frameworks
 
 | Skill | Status |
 |-------|--------|
-| React | 🔴 Beginner |
-| Spring Boot | ⚪ Planned |
-| Django | ⚪ Planned |
-| Node.js | ⚪ Planned |
-| Next.js | 🟡 Learning |
+| React | 🟡 Learning |
+| Spring Boot | 🔴 Beginner |
+| Django | 🔴 Beginner |
+| Node.js | 🟡 Learning |
+| Next.js | 🟢 Proficient |
 
 ### Cybersecurity
 
@@ -514,37 +504,37 @@ for a semver-minor rele...
 |-------|--------|
 | Penetration Testing | ⚪ Planned |
 | Web Security | 🟡 Learning |
-| Network Security | 🟡 Learning |
-| OWASP | ⚪ Planned |
+| Network Security | ⚪ Planned |
+| OWASP | 🟢 Proficient |
 
 ### Ai Ml
 
 | Skill | Status |
 |-------|--------|
-| Machine Learning | ⚪ Planned |
-| Deep Learning | ⚪ Planned |
-| NLP | ⚪ Planned |
-| Computer Vision | ⚪ Planned |
-| TensorFlow | ⚪ Planned |
-| PyTorch | 🟡 Learning |
+| Machine Learning | 🔴 Beginner |
+| Deep Learning | 🔴 Beginner |
+| NLP | 🟢 Proficient |
+| Computer Vision | 🟢 Proficient |
+| TensorFlow | 🔴 Beginner |
+| PyTorch | 🟢 Proficient |
 
 ### Devops
 
 | Skill | Status |
 |-------|--------|
-| Docker | ⚪ Planned |
-| Kubernetes | 🔴 Beginner |
+| Docker | 🟡 Learning |
+| Kubernetes | ⚪ Planned |
 | CI/CD | ⚪ Planned |
-| AWS | 🟡 Learning |
-| Azure | 🟢 Proficient |
+| AWS | 🟢 Proficient |
+| Azure | 🟡 Learning |
 
 ### Other
 
 | Skill | Status |
 |-------|--------|
 | Blockchain | ⚪ Planned |
-| Web3 | 🟢 Proficient |
-| Cloud Computing | 🟡 Learning |
+| Web3 | 🔴 Beginner |
+| Cloud Computing | ⚪ Planned |
 
 </details>
 
