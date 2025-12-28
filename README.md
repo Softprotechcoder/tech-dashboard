@@ -46,35 +46,39 @@
 
 ### 📑 Hacker News
 
-- **[Show HN: Waycore – an open-source, offline-first modular field computer](https://news.ycombinator.com/item?id=46406486)**
-  *<p>Hi HN,<p>I’m building Waycore, an open-source project exploring what a flexible, offline-first field computer should look like for outdoor, survival, and off-grid scenarios.<p>The core goals are ad...*
-  📅 Sat, 27 Dec 2025 23:16:55 +0000
+- **[Calendar](https://neatnik.net/calendar/?year=2026)**
+  *<p>Article URL: <a href="https://neatnik.net/calendar/?year=2026">https://neatnik.net/calendar/?year=2026</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46408613">https://news....*
+  📅 Sun, 28 Dec 2025 05:02:39 +0000
+
+- **[Dialtone – AOL 3.0 Server](https://dialtone.live/)**
+  *<p>Article URL: <a href="https://dialtone.live/">https://dialtone.live/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46408192">https://news.ycombinator.com/item?id=46408192</...*
+  📅 Sun, 28 Dec 2025 03:40:43 +0000
+
+- **[Fathers’ choices may be packaged and passed down in sperm RNA](https://www.quantamagazine.org/how-dads-fitness-may-be-packaged-and-passed-down-in-sperm-rna-20251222/)**
+  *<p>Article URL: <a href="https://www.quantamagazine.org/how-dads-fitness-may-be-packaged-and-passed-down-in-sperm-rna-20251222/">https://www.quantamagazine.org/how-dads-fitness-may-be-packaged-and-pas...*
+  📅 Sun, 28 Dec 2025 01:33:10 +0000
+
+- **[Replacing JavaScript with Just HTML](https://www.htmhell.dev/adventcalendar/2025/27/)**
+  *<p>Article URL: <a href="https://www.htmhell.dev/adventcalendar/2025/27/">https://www.htmhell.dev/adventcalendar/2025/27/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=4640733...*
+  📅 Sun, 28 Dec 2025 01:07:09 +0000
+
+- **[Functional programming and reliability: ADTs, safety, critical infrastructure](https://blog.rastrian.dev/post/why-reliability-demands-functional-programming-adts-safety-and-critical-infrastructure)**
+  *<p>Article URL: <a href="https://blog.rastrian.dev/post/why-reliability-demands-functional-programming-adts-safety-and-critical-infrastructure">https://blog.rastrian.dev/post/why-reliability-demands-f...*
+  📅 Sun, 28 Dec 2025 00:05:52 +0000
 
 - **[7- and 14-segment fonts "DSEG"](https://www.keshikan.net/fonts.html)**
   *<p>Article URL: <a href="https://www.keshikan.net/fonts.html">https://www.keshikan.net/fonts.html</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=46406213">https://news.ycombina...*
   📅 Sat, 27 Dec 2025 22:49:53 +0000
 
-- **[The Dangers of SSL Certificates](https://surfingcomplexity.blog/2025/12/27/the-dangers-of-ssl-certificates/)**
-  *<p>Article URL: <a href="https://surfingcomplexity.blog/2025/12/27/the-dangers-of-ssl-certificates/">https://surfingcomplexity.blog/2025/12/27/the-dangers-of-ssl-certificates/</a></p>
-<p>Comments URL:...*
-  📅 Sat, 27 Dec 2025 22:41:22 +0000
-
-- **[How We Found Out About COINTELPRO (2014)](https://monthlyreview.org/articles/how-we-found-out-about-cointelpro/)**
-  *<p>Article URL: <a href="https://monthlyreview.org/articles/how-we-found-out-about-cointelpro/">https://monthlyreview.org/articles/how-we-found-out-about-cointelpro/</a></p>
-<p>Comments URL: <a href="...*
-  📅 Sat, 27 Dec 2025 21:36:27 +0000
-
-- **[Pfizer ended up passing on my GLP-1 work back in the early '90s (2024)](https://www.statnews.com/2024/09/09/glp-1-history-pfizer-john-baxter-jeffrey-flier-calbio-metabio/)**
-  *<p><a href="https://web.archive.org/web/20240909093450/https://www.statnews.com/2024/09/09/glp-1-history-pfizer-john-baxter-jeffrey-flier-calbio-metabio/" rel="nofollow">https://web.archive.org/web/20...*
-  📅 Sat, 27 Dec 2025 21:36:22 +0000
-
-- **[Say No to Palantir in the NHS](https://notopalantir.goodlawproject.org/email-to-target/stop-palantir-in-the-nhs/)**
-  *<p>Article URL: <a href="https://notopalantir.goodlawproject.org/email-to-target/stop-palantir-in-the-nhs/">https://notopalantir.goodlawproject.org/email-to-target/stop-palantir-in-the-nhs/</a></p>
-<p...*
-  📅 Sat, 27 Dec 2025 21:15:35 +0000
-
 ### 📑 TechCrunch
+
+- **[Best Apple Watch apps for boosting your productivity](https://techcrunch.com/2025/12/27/best-apple-watch-apps-for-boosting-your-productivity/)**
+  *Although the Apple Watch comes with simple built-in productivity apps like Reminders and Calendar, it’s worth exploring some third-party apps that are designed to boost productivity by offering additi...*
+  📅 Sun, 28 Dec 2025 02:00:00 +0000
 
 - **[India startup funding hits $11B in 2025 as investors grow more selective](https://techcrunch.com/2025/12/27/india-startup-funding-hits-11b-in-2025-as-investors-grow-more-selective/)**
   *Startup funding rounds in India fell sharply in 2025 as investors concentrated capital into fewer companies....*
@@ -96,21 +100,15 @@
   *For years, Access Now’s Digital Security Helpline has been aiding journalists and dissidents who have been targeted with government spyware. This is how they operate....*
   📅 Sat, 27 Dec 2025 18:00:00 +0000
 
-- **[The 22 top clean tech and energy startups from Disrupt Startup Battlefield](https://techcrunch.com/2025/12/27/the-22-top-clean-tech-and-energy-startups-from-disrupt-startup-battlefield/)**
-  *Here is the full list of the clean tech and energy Startup Battlefield 200 selectees, along with a note on what made us select them for the competition....*
-  📅 Sat, 27 Dec 2025 16:00:00 +0000
-
 ### 📑 Dev.to
 
-- **[Hello dev.to! I’m a Python & Django Web Developer Looking for Opportunities](https://dev.to/dkonti/hello-devto-im-a-python-django-web-developer-looking-for-opportunities-1449)**
-  *<p>Hi everyone! 👋<br />
-I’m excited to finally introduce myself here on dev.to.<br />
-I’m a web developer working mainly with Python and Django, and I build full-stack web applications—from backend lo...*
-  📅 Sun, 28 Dec 2025 00:49:37 +0000
+- **[Why I Built a Desktop Email Automation Tool Instead of Another SaaS](https://dev.to/arezdev/why-i-built-a-desktop-email-automation-tool-instead-of-another-saas-3hod)**
+  *<p><a class="article-body-image-wrapper" href="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fupl...*
+  📅 Sun, 28 Dec 2025 05:57:02 +0000
 
-- **[I’m a web developer specializing in Python and Django, with experience in both frontend and backend development. I’m currently looking for job opportunities and would appreciate any support or leads. Thanks!](https://dev.to/dkonti/im-a-web-developer-specializing-in-python-and-django-with-experience-in-both-frontend-and-backend-13j3)**
-  *...*
-  📅 Sun, 28 Dec 2025 00:38:06 +0000
+- **[What I Learned Testing MCPs Across Claude, Cursor, and Replit](https://dev.to/deepika_n_417a1b69443e2bd/what-i-learned-testing-mcps-across-claude-cursor-and-replit-10mf)**
+  *<p>Model Context Protocols (MCPs) are a powerful pattern for connecting AI assistants to real world data sources and tools. Over the past few months, I’ve been experimenting with MCPs across multiple ...*
+  📅 Sun, 28 Dec 2025 05:45:34 +0000
 
 </details>
 
@@ -118,103 +116,103 @@ I’m a web developer working mainly with Python and Django, and I build full-st
 
 ### 📈 Daily Trending
 
-- **[Case-Code/GeoAlert](https://github.com/Case-Code/GeoAlert)** ⭐ 1
-  ![Kotlin](https://img.shields.io/badge/-Kotlin-lightgrey)
-  GeoAlert lets you set specific areas on a map and receive alerts when you enter or exit those zones. Get reminders for errands, notifications when near friends, or alerts for favorite spots. Stay connected to the places that matter with GeoAlert. Simple, intuitive, and efficient.
+- **[chunxiuxiamo/ai-image-edit](https://github.com/chunxiuxiamo/ai-image-edit)** ⭐ 20
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
+  AI图片生成编辑网站，可以框选图片局部区域进行编辑修改。
 
-- **[7LastShot/7LastShot](https://github.com/7LastShot/7LastShot)** ⭐ 1
-  ![None](https://img.shields.io/badge/-None-lightgrey)
-  None
+- **[XabUG7/Book-recommendation-System](https://github.com/XabUG7/Book-recommendation-System)** ⭐ 17
+  ![Jupyter Notebook](https://img.shields.io/badge/-Jupyter Notebook-lightgrey)
+  Book recommendation system using collaborative filtering
 
-- **[HiramSanchez/padwa-respawnWatch](https://github.com/HiramSanchez/padwa-respawnWatch)** ⭐ 1
-  ![None](https://img.shields.io/badge/-None-lightgrey)
-  None
-
-- **[hyperpolymath/anchor.scm](https://github.com/hyperpolymath/anchor.scm)** ⭐ 1
-  ![Just](https://img.shields.io/badge/-Just-lightgrey)
-  None
-
-- **[Rati-Syba/safe_queue](https://github.com/Rati-Syba/safe_queue)** ⭐ 1
-  ![Dart](https://img.shields.io/badge/-Dart-lightgrey)
-  None
-
-- **[mishoaflavling1971/bfhub](https://github.com/mishoaflavling1971/bfhub)** ⭐ 1
-  ![None](https://img.shields.io/badge/-None-lightgrey)
-  battlefield-2042-aim-2026
-
-- **[ulanebal1970/vectorix](https://github.com/ulanebal1970/vectorix)** ⭐ 1
-  ![None](https://img.shields.io/badge/-None-lightgrey)
-  warzone-hack-cheat
-
-- **[fernaerell/aerell-english](https://github.com/fernaerell/aerell-english)** ⭐ 1
+- **[jvdillon/netv](https://github.com/jvdillon/netv)** ⭐ 5
   ![Python](https://img.shields.io/badge/-Python-blue)
-  Learn English with python.
+  neTV - IPTV for your Browser
+
+- **[Anuragsharma15-dell/pure-Node.js](https://github.com/Anuragsharma15-dell/pure-Node.js)** ⭐ 5
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
+  None
+
+- **[barthollomew/why-is-this-slow](https://github.com/barthollomew/why-is-this-slow)** ⭐ 4
+  ![Go](https://img.shields.io/badge/-Go-cyan)
+  Lightweight CLI that runs any command and explains why its so damn slow.
+
+- **[kidd142/EVM-Rescue-Kit-Lite](https://github.com/kidd142/EVM-Rescue-Kit-Lite)** ⭐ 4
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
+  Open Source EVM Asset Recovery & Sweeper Tool. Supports ETH, BSC, MATIC, ARB, OP.
+
+- **[aymenzire/A-Compact-Potentiostat-for-Electrochemical-Analysis-Using-Cyclic-Voltammetry-and-Chronoamperometry](https://github.com/aymenzire/A-Compact-Potentiostat-for-Electrochemical-Analysis-Using-Cyclic-Voltammetry-and-Chronoamperometry)** ⭐ 4
+  ![C++](https://img.shields.io/badge/-C++-pink)
+  This repository presents a low-cost Arduino-based potentiostat for cyclic voltammetry and chronoamperometry. The system controls −1 to +1 V and measures −200 to +200 µA faradaic currents. Validation includes ruthenium hexaammine and determination of an unknown paracetamol concentration. Code, circuit values, and datasets are provided.
+
+- **[yeahhe365/Gemini-Live-TTS](https://github.com/yeahhe365/Gemini-Live-TTS)** ⭐ 4
+  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
+  None
 
 ### 📈 Weekly Trending
 
-- **[bellard/mquickjs](https://github.com/bellard/mquickjs)** ⭐ 4,431
+- **[bellard/mquickjs](https://github.com/bellard/mquickjs)** ⭐ 4,457
   ![C](https://img.shields.io/badge/-C-lightgrey)
   Public repository of the Micro QuickJS Javascript Engine
 
-- **[antonmedv/textarea](https://github.com/antonmedv/textarea)** ⭐ 932
+- **[antonmedv/textarea](https://github.com/antonmedv/textarea)** ⭐ 943
   ![HTML](https://img.shields.io/badge/-HTML-lightgrey)
   A minimalist text editor that lives in URL
 
-- **[ClashConnectRules/Self-Configuration](https://github.com/ClashConnectRules/Self-Configuration)** ⭐ 687
+- **[ClashConnectRules/Self-Configuration](https://github.com/ClashConnectRules/Self-Configuration)** ⭐ 715
   ![None](https://img.shields.io/badge/-None-lightgrey)
   None
 
-- **[parcadei/Continuous-Claude-v2](https://github.com/parcadei/Continuous-Claude-v2)** ⭐ 651
+- **[parcadei/Continuous-Claude-v2](https://github.com/parcadei/Continuous-Claude-v2)** ⭐ 672
   ![Python](https://img.shields.io/badge/-Python-blue)
   Context management for Claude Code. Hooks maintain state via ledgers and handoffs. MCP execution without context pollution. Agent orchestration with isolated context windows.
 
-- **[dennisyang1986/opensqt_market_maker](https://github.com/dennisyang1986/opensqt_market_maker)** ⭐ 543
+- **[dennisyang1986/opensqt_market_maker](https://github.com/dennisyang1986/opensqt_market_maker)** ⭐ 545
   ![Go](https://img.shields.io/badge/-Go-cyan)
   OpenSQT 是一个高性能、低延迟的加密货币做市商系统，专注于永续合约市场的做多网格交易策略。系统采用 Go 语言开发，基于 WebSocket 实时数据流驱动，旨在为 Binance、Bitget、Gate.io 等主流交易所提供稳定的流动性支持。
 
-- **[jlongster/tigma](https://github.com/jlongster/tigma)** ⭐ 490
+- **[jlongster/tigma](https://github.com/jlongster/tigma)** ⭐ 491
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   None
 
-- **[leedrake5/unredact](https://github.com/leedrake5/unredact)** ⭐ 425
+- **[abusoww/tuxmate](https://github.com/abusoww/tuxmate)** ⭐ 478
+  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
+  THE MISSING BULK APP INSTALLER FOR LINUX
+
+- **[leedrake5/unredact](https://github.com/leedrake5/unredact)** ⭐ 428
   ![Python](https://img.shields.io/badge/-Python-blue)
   A simple tool for reading in poorly redacted documents and reproducing their origional form
 
-- **[elijah0528/video2ascii](https://github.com/elijah0528/video2ascii)** ⭐ 418
-  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
-  WebGL-powered React Component for video to ASCII conversion
-
 ### 📈 Monthly Trending
 
-- **[zai-org/Open-AutoGLM](https://github.com/zai-org/Open-AutoGLM)** ⭐ 19,705
+- **[zai-org/Open-AutoGLM](https://github.com/zai-org/Open-AutoGLM)** ⭐ 19,727
   ![Python](https://img.shields.io/badge/-Python-blue)
   An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
 
-- **[Anionex/banana-slides](https://github.com/Anionex/banana-slides)** ⭐ 6,985
+- **[Anionex/banana-slides](https://github.com/Anionex/banana-slides)** ⭐ 7,028
   ![Python](https://img.shields.io/badge/-Python-blue)
   一个基于nano banana pro🍌的原生AI PPT生成应用，迈向真正的＂Vibe PPT＂; 支持上传任意模板图片；上传任意素材&智能解析；一句话/大纲/页面描述自动生成PPT；口头修改指定区域、一键导出 - An AI-native PPT generator based on nano banana pro🍌
 
-- **[apple/ml-sharp](https://github.com/apple/ml-sharp)** ⭐ 5,800
+- **[apple/ml-sharp](https://github.com/apple/ml-sharp)** ⭐ 5,833
   ![Python](https://img.shields.io/badge/-Python-blue)
   Sharp Monocular View Synthesis in Less Than a Second
 
-- **[bellard/mquickjs](https://github.com/bellard/mquickjs)** ⭐ 4,431
+- **[bellard/mquickjs](https://github.com/bellard/mquickjs)** ⭐ 4,457
   ![C](https://img.shields.io/badge/-C-lightgrey)
   Public repository of the Micro QuickJS Javascript Engine
 
-- **[agentskills/agentskills](https://github.com/agentskills/agentskills)** ⭐ 3,807
+- **[agentskills/agentskills](https://github.com/agentskills/agentskills)** ⭐ 3,830
   ![Python](https://img.shields.io/badge/-Python-blue)
   Specification and documentation for Agent Skills
 
-- **[AndyMik90/Auto-Claude](https://github.com/AndyMik90/Auto-Claude)** ⭐ 3,778
+- **[AndyMik90/Auto-Claude](https://github.com/AndyMik90/Auto-Claude)** ⭐ 3,797
   ![Python](https://img.shields.io/badge/-Python-blue)
   Autonomous multi-session AI coding
 
-- **[muratcankoylan/Agent-Skills-for-Context-Engineering](https://github.com/muratcankoylan/Agent-Skills-for-Context-Engineering)** ⭐ 3,623
+- **[muratcankoylan/Agent-Skills-for-Context-Engineering](https://github.com/muratcankoylan/Agent-Skills-for-Context-Engineering)** ⭐ 3,663
   ![Python](https://img.shields.io/badge/-Python-blue)
   A comprehensive collection of Agent Skills for context engineering, multi-agent architectures, and production agent systems. Use when building, optimizing, or debugging agent systems that require effective context management.
 
-- **[code-yeongyu/oh-my-opencode](https://github.com/code-yeongyu/oh-my-opencode)** ⭐ 3,330
+- **[code-yeongyu/oh-my-opencode](https://github.com/code-yeongyu/oh-my-opencode)** ⭐ 3,387
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   #1 OpenCode Plugin- Battery included. ASYNC SUBAGENTS (YES LIKE CLAUDE CODE) · Curated agents with proper models · Crafted tools like LSP/AST included · Curated MCPs · Claude Code Compatible Layer — Steroids for your OpenCode. The Best LLM Agent Experience is Here.
 
@@ -480,39 +478,39 @@ for a semver-minor rele...
 
 | Skill | Status |
 |-------|--------|
-| Java | 🟢 Proficient |
+| Java | ⚪ Planned |
 | Python | 🟢 Proficient |
-| JavaScript | ⚪ Planned |
-| TypeScript | 🔴 Beginner |
-| Go | ⚪ Planned |
+| JavaScript | 🟢 Proficient |
+| TypeScript | ⚪ Planned |
+| Go | 🟡 Learning |
 
 ### Frameworks
 
 | Skill | Status |
 |-------|--------|
-| React | 🟡 Learning |
-| Spring Boot | 🟢 Proficient |
-| Django | 🔴 Beginner |
-| Node.js | ⚪ Planned |
+| React | 🟢 Proficient |
+| Spring Boot | 🔴 Beginner |
+| Django | 🟡 Learning |
+| Node.js | 🟡 Learning |
 | Next.js | ⚪ Planned |
 
 ### Cybersecurity
 
 | Skill | Status |
 |-------|--------|
-| Penetration Testing | 🟡 Learning |
-| Web Security | 🟢 Proficient |
-| Network Security | 🔴 Beginner |
-| OWASP | 🟡 Learning |
+| Penetration Testing | 🟢 Proficient |
+| Web Security | ⚪ Planned |
+| Network Security | ⚪ Planned |
+| OWASP | 🔴 Beginner |
 
 ### Ai Ml
 
 | Skill | Status |
 |-------|--------|
 | Machine Learning | ⚪ Planned |
-| Deep Learning | 🔴 Beginner |
-| NLP | 🟡 Learning |
-| Computer Vision | 🟡 Learning |
+| Deep Learning | 🟡 Learning |
+| NLP | ⚪ Planned |
+| Computer Vision | 🔴 Beginner |
 | TensorFlow | 🔴 Beginner |
 | PyTorch | ⚪ Planned |
 
@@ -520,19 +518,19 @@ for a semver-minor rele...
 
 | Skill | Status |
 |-------|--------|
-| Docker | 🔴 Beginner |
-| Kubernetes | 🔴 Beginner |
-| CI/CD | 🟡 Learning |
+| Docker | 🟡 Learning |
+| Kubernetes | 🟢 Proficient |
+| CI/CD | 🔴 Beginner |
 | AWS | 🔴 Beginner |
-| Azure | 🟢 Proficient |
+| Azure | 🔴 Beginner |
 
 ### Other
 
 | Skill | Status |
 |-------|--------|
-| Blockchain | 🟡 Learning |
-| Web3 | 🟢 Proficient |
-| Cloud Computing | ⚪ Planned |
+| Blockchain | 🔴 Beginner |
+| Web3 | 🔴 Beginner |
+| Cloud Computing | 🔴 Beginner |
 
 </details>
 
