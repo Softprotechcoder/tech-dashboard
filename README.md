@@ -20,7 +20,7 @@
 | Metric | Count |
 |--------|-------|
 | 📰 Latest News Articles | 26 |
-| 🔥 Trending Repositories | 0 |
+| 🔥 Trending Repositories | 45 |
 | 🎯 Latest Releases | 10 |
 | 🎯 Learning Goals | 4 |
 
@@ -46,79 +46,195 @@
 
 ### 📑 Hacker News
 
-- **[Crimson (YC X25) is hiring founding engineers in London](https://www.ycombinator.com/companies/crimson/jobs/kCikzj1-founding-engineer-full-stack)**
-  *<p>Article URL: <a href="https://www.ycombinator.com/companies/crimson/jobs/kCikzj1-founding-engineer-full-stack">https://www.ycombinator.com/companies/crimson/jobs/kCikzj1-founding-engineer-full-stac...*
-  📅 Tue, 30 Dec 2025 12:00:23 +0000
+- **[Toro: Deploy Applications as Unikernels](https://github.com/torokernel/torokernel)**
+  *<p>Article URL: <a href="https://github.com/torokernel/torokernel">https://github.com/torokernel/torokernel</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46435418">https://new...*
+  📅 Tue, 30 Dec 2025 17:09:57 +0000
 
-- **[Non-Zero-Sum Games](https://nonzerosum.games/)**
-  *<p>Article URL: <a href="https://nonzerosum.games/">https://nonzerosum.games/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46432311">https://news.ycombinator.com/item?id=4643...*
-  📅 Tue, 30 Dec 2025 11:42:55 +0000
+- **[Ask HN: Any example of successful vibe-coded product?](https://news.ycombinator.com/item?id=46434821)**
+  *<p>Many people talk about vibe-coding and about the different ways to use this development "methodology" successfully. I wonder though if anyone really managed to push to production anything that has ...*
+  📅 Tue, 30 Dec 2025 16:18:23 +0000
 
-- **[Nicolas Guillou, French ICC judge sanctioned by the US and "debanked"](https://www.lemonde.fr/en/international/article/2025/11/19/nicolas-guillou-french-icc-judge-sanctioned-by-the-us-you-are-effectively-blacklisted-by-much-of-the-world-s-banking-system_6747628_4.html)**
-  *<p>Article URL: <a href="https://www.lemonde.fr/en/international/article/2025/11/19/nicolas-guillou-french-icc-judge-sanctioned-by-the-us-you-are-effectively-blacklisted-by-much-of-the-world-s-banking...*
-  📅 Tue, 30 Dec 2025 11:13:30 +0000
+- **[Show HN: Tidy Baby is a SET game but with words](https://tidy.baby)**
+  *<p>Hi HN —<p>Tidy Baby is a new game made by me and Wyna Liu (of NYT Connections!) that is inspired by the legendary card-based game SET that we assume many of you love (we too love SET).<p>In SET, yo...*
+  📅 Tue, 30 Dec 2025 15:57:01 +0000
 
-- **[Netflix: Open Content](https://opencontent.netflix.com/)**
-  *<p>Article URL: <a href="https://opencontent.netflix.com/">https://opencontent.netflix.com/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46431560">https://news.ycombinator.co...*
-  📅 Tue, 30 Dec 2025 10:11:57 +0000
+- **[What Happened to Abit Motherboards](https://dfarq.homeip.net/what-happened-to-abit-motherboards/)**
+  *<p>Article URL: <a href="https://dfarq.homeip.net/what-happened-to-abit-motherboards/">https://dfarq.homeip.net/what-happened-to-abit-motherboards/</a></p>
+<p>Comments URL: <a href="https://news.ycomb...*
+  📅 Tue, 30 Dec 2025 14:58:18 +0000
 
-- **[HSBC blocks its app due to F-Droid-installed Bitwarden](https://mastodon.neilzone.co.uk/@neil/115807834298031971)**
-  *<p>Article URL: <a href="https://mastodon.neilzone.co.uk/@neil/115807834298031971">https://mastodon.neilzone.co.uk/@neil/115807834298031971</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.c...*
-  📅 Tue, 30 Dec 2025 09:57:27 +0000
+- **[Hive (YC S14) Is Hiring a Staff Software Engineer (Data Systems)](https://jobs.ashbyhq.com/hive.co/cb0dc490-0e32-4734-8d91-8b56a31ed497)**
+  *<p>Article URL: <a href="https://jobs.ashbyhq.com/hive.co/cb0dc490-0e32-4734-8d91-8b56a31ed497">https://jobs.ashbyhq.com/hive.co/cb0dc490-0e32-4734-8d91-8b56a31ed497</a></p>
+<p>Comments URL: <a href="...*
+  📅 Tue, 30 Dec 2025 14:31:34 +0000
 
-- **[Go Away Python](https://lorentz.app/blog-item.html?id=go-shebang)**
-  *<p>Article URL: <a href="https://lorentz.app/blog-item.html?id=go-shebang">https://lorentz.app/blog-item.html?id=go-shebang</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46431...*
-  📅 Tue, 30 Dec 2025 08:50:44 +0000
+- **[Igniting the GPU: From Kernel Plumbing to 3D Rendering on RISC-V](https://mwilczynski.dev/posts/riscv-gpu-zink/)**
+  *<p>Article URL: <a href="https://mwilczynski.dev/posts/riscv-gpu-zink/">https://mwilczynski.dev/posts/riscv-gpu-zink/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46433352">h...*
+  📅 Tue, 30 Dec 2025 13:55:59 +0000
 
 ### 📑 TechCrunch
 
-- **[Meta just bought Manus, an AI startup everyone has been talking about](https://techcrunch.com/2025/12/29/meta-just-bought-manus-an-ai-startup-everyone-has-been-talking-about/)**
-  *Meta says it'll keep Manus running independently while weaving its agents into Facebook, Instagram, and WhatsApp, where Meta's own chatbot, Meta AI, is already available to users....*
-  📅 Tue, 30 Dec 2025 05:39:08 +0000
+- **[Almost 80 European deep tech university spinouts reached $1B valuations or $100M in revenue in 2025](https://techcrunch.com/2025/12/30/76-european-deep-tech-university-spinouts-reached-unicorn-or-centaur-status/)**
+  *According to Dealroom’s European Spinout Report 2025, 76 European deep tech and life sciences spinouts have either reached $1 billion valuations, $100 million in revenue, or both....*
+  📅 Tue, 30 Dec 2025 18:00:00 +0000
 
-- **[How to make your startup stand out in a crowded market, according to investors](https://techcrunch.com/2025/12/29/vcs-spill-what-they-really-want-to-hear-in-a-founder-pitch/)**
-  *Investors on what they really want to hear in a founder's pitch....*
-  📅 Mon, 29 Dec 2025 21:00:00 +0000
+- **[12 investors dish on what 2026 will bring for climate tech](https://techcrunch.com/2025/12/30/12-investors-dish-on-what-2026-will-bring-for-climate-tech/)**
+  *After a tumultuous year, venture investors are still optimistic about climate tech's long term prospects, especially as data centers continue to drive demand for electricity, manufacturing, and materi...*
+  📅 Tue, 30 Dec 2025 17:00:00 +0000
 
-- **[Social media follower counts have never mattered less, creator economy execs say](https://techcrunch.com/2025/12/29/social-media-follower-counts-have-never-mattered-less-creator-economy-execs-say/)**
-  *“I think that 2025 was the year where the algorithm completely took over, so followings stopped mattering entirely,” LTK CEO Amber Venz Box said....*
-  📅 Mon, 29 Dec 2025 20:00:00 +0000
+- **[The best AI-powered dictation apps of 2025](https://techcrunch.com/2025/12/30/the-best-ai-powered-dictation-apps-of-2025/)**
+  *AI-powered dictation apps are useful for replying to emails, taking notes, and even coding through your voice...*
+  📅 Tue, 30 Dec 2025 16:00:00 +0000
 
-- **[2025 was the year AI got a vibe check](https://techcrunch.com/2025/12/29/2025-was-the-year-ai-got-a-vibe-check/)**
-  *AI’s early-2025 spending spree featured massive raises and trillion-dollar infrastructure promises. By year’s end, hype gave way to a vibe check, with growing scrutiny over sustainability, safety, and...*
-  📅 Mon, 29 Dec 2025 19:00:00 +0000
+- **[VCs predict enterprises will spend more on AI in 2026 — through fewer vendors](https://techcrunch.com/2025/12/30/vcs-predict-enterprises-will-spend-more-on-ai-in-2026-through-fewer-vendors/)**
+  *Enterprises have been experimenting with AI tools for a few years. Investors predict they will start to pick winners in 2026....*
+  📅 Tue, 30 Dec 2025 15:30:24 +0000
 
-- **[Plaud Note Pro is an excellent AI-powered recorder that I carry everywhere](https://techcrunch.com/2025/12/29/plaud-note-pro-is-an-excellent-ai-powered-recorder-that-i-carry-everywhere/)**
-  *Plaud Note Pro is a $179 notetaker, which is an excellent recording device first...*
-  📅 Mon, 29 Dec 2025 18:00:00 +0000
+- **[The top 26 consumer/edtech companies from Disrupt Startup Battlefield](https://techcrunch.com/2025/12/30/the-top-26-consumer-edtech-companies-from-disrupt-startup-battlefield/)**
+  *Here is the full list of the consumer/edtech Startup Battlefield 200 selectees, along with a note on what made us select them for the competition....*
+  📅 Tue, 30 Dec 2025 15:00:00 +0000
 
-- **[Why the electrical grid needs more software](https://techcrunch.com/2025/12/29/why-the-electrical-grid-needs-more-software/)**
-  *The electrical grid is facing unprecedented stress from the addition of new data centers. Software could offer a cost-effective way to boost reliability and capacity....*
-  📅 Mon, 29 Dec 2025 17:00:00 +0000
+- **[Here’s what you should know about the US TikTok deal](https://techcrunch.com/2025/12/30/heres-whats-you-should-know-about-the-us-tiktok-deal/)**
+  *A number of investors are competing for the opportunity to purchase the app, and if a deal were to go through, the platform's U.S. business could have its valuation soar to upward of $60 billion....*
+  📅 Tue, 30 Dec 2025 14:00:00 +0000
 
 ### 📑 Dev.to
 
-- **[Top Free Websites to Deploy Your Web Applications](https://dev.to/basecampxd/top-free-websites-to-deploy-your-web-applications-ahp)**
-  *<h2>
+- **[Deep Graph Library: A Graph-Centric, Highly-Performant Package for Graph NeuralNetworks](https://dev.to/paperium/deep-graph-library-a-graph-centric-highly-performant-package-for-graph-neuralnetworks-lfa)**
+  *<h3>
   
   
-  TL;DR
-</h2>
+  Deep Graph Library — Faster, lighter tools for learning from networks
+</h3>
 
-<p>You can create many projects, but the joy of launching a live application is exhilarating. There were a lot of steps while deploying in the past, but with modern applicati...*
-  📅 Tue, 30 Dec 2025 12:11:22 +0000
+<p>Imagine a toolbox that helps computers learn from webs of connections, like social ties or chemical links.<...*
+  📅 Tue, 30 Dec 2025 18:10:10 +0000
 
-- **[MarteoCLI: Democratizing the C++ Journey for Beginners](https://dev.to/jhonesyure/marteocli-democratizing-the-c-journey-for-beginners-2i8m)**
-  *<p>For those starting their journey in programming, the first experience often determines whether they will persist or give up. In modern languages like Rust or Python, the ecosystem is welcoming: a s...*
-  📅 Tue, 30 Dec 2025 12:10:10 +0000
+- **[Simple Blind SQL Injection](https://dev.to/travondatrack/simple-blind-sql-injection-3moe)**
+  *<div class="table-wrapper-paragraph"><table>
+<thead>
+<tr>
+<th></th>
+<th>Nội dung</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Tên</td>
+<td>Simple Blind SQL Injection</td>
+</tr>
+<tr>
+<td>Mô tả</td>
+<td>Khai th...*
+  📅 Tue, 30 Dec 2025 18:10:08 +0000
 
 </details>
 
 ## 🔥 Trending Repositories
+
+### 📈 Daily Trending
+
+- **[Dimillian/Skills](https://github.com/Dimillian/Skills)** ⭐ 97
+  ![Shell](https://img.shields.io/badge/-Shell-lightgrey)
+  My Codex Skills
+
+- **[tripleyak/skillcreator](https://github.com/tripleyak/skillcreator)** ⭐ 94
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  The ultimate meta-skill for generating best-in-class Claude Code skills.
+
+- **[lopatinzucelys/ipstresser-ipbooter-2026](https://github.com/lopatinzucelys/ipstresser-ipbooter-2026)** ⭐ 86
+  ![None](https://img.shields.io/badge/-None-lightgrey)
+  BEST L4/L7 https://cnc-stress.com 2026
+
+- **[marckohlbrugge/sessy](https://github.com/marckohlbrugge/sessy)** ⭐ 79
+  ![HTML](https://img.shields.io/badge/-HTML-lightgrey)
+  Open-source email observability for AWS SES
+
+- **[eztg/GPT_Sheerid_Auto](https://github.com/eztg/GPT_Sheerid_Auto)** ⭐ 48
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  自动验证工具 - 支持 TLS 指纹模拟、代理轮换、邮箱自动收取验证码
+
+- **[golbin/gw](https://github.com/golbin/gw)** ⭐ 40
+  ![Rust](https://img.shields.io/badge/-Rust-brown)
+  None
+
+- **[chatgptuk/ldc-shop](https://github.com/chatgptuk/ldc-shop)** ⭐ 21
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
+  Linux DO Credit Virtual Goods Shop - Serverless on Cloudflare Workers
+
+- **[ircfspace/encodify](https://github.com/ircfspace/encodify)** ⭐ 21
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
+  یک ابزار تحت وب مناسب ارسال امن‌تر در شرایط شنود یا محدودیت پیامکی، که متن، لینک و کانفیگ‌ها را با کلید اختیاری به کلمات فارسی خوانا تبدیل نموده و امکان بازگردانی مجدد آن‌را فراهم می‌کند.
+
+### 📈 Weekly Trending
+
+- **[nguyenphutrong/quotio](https://github.com/nguyenphutrong/quotio)** ⭐ 1,391
+  ![Swift](https://img.shields.io/badge/-Swift-lightgrey)
+  Stop juggling AI accounts. Quotio is a beautiful native macOS menu bar app that unifies your Claude, Gemini, OpenAI, Qwen, and Antigravity subscriptions – with real-time quota tracking and smart auto-failover for AI coding tools like Claude Code, OpenCode, and Droid.
+
+- **[abusoww/tuxmate](https://github.com/abusoww/tuxmate)** ⭐ 828
+  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
+  THE MISSING BULK APP INSTALLER FOR LINUX
+
+- **[ClashConnectRules/Self-Configuration](https://github.com/ClashConnectRules/Self-Configuration)** ⭐ 818
+  ![None](https://img.shields.io/badge/-None-lightgrey)
+  None
+
+- **[joe-desimone/mongobleed](https://github.com/joe-desimone/mongobleed)** ⭐ 717
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
+  None
+
+- **[liuxiaomingskm/datashield-lightweight-labs](https://github.com/liuxiaomingskm/datashield-lightweight-labs)** ⭐ 639
+  ![MDX](https://img.shields.io/badge/-MDX-lightgrey)
+  a lightweight tool to protect privacy/user data in Internet
+
+- **[HKUDS/DeepTutor](https://github.com/HKUDS/DeepTutor)** ⭐ 631
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  "DeepTutor: AI-Powered Personalized Learning Assistant"
+
+- **[dennisyang1986/opensqt_market_maker](https://github.com/dennisyang1986/opensqt_market_maker)** ⭐ 607
+  ![Go](https://img.shields.io/badge/-Go-cyan)
+  OpenSQT 是一个高性能、低延迟的加密货币做市商系统，专注于永续合约市场的做多网格交易策略。系统采用 Go 语言开发，基于 WebSocket 实时数据流驱动，旨在为 Binance、Bitget、Gate.io 等主流交易所提供稳定的流动性支持。
+
+- **[AnmolSaini16/mapcn](https://github.com/AnmolSaini16/mapcn)** ⭐ 582
+  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
+  Beautiful map components. 100% Free, Zero config, one command setup.
+
+### 📈 Monthly Trending
+
+- **[zai-org/Open-AutoGLM](https://github.com/zai-org/Open-AutoGLM)** ⭐ 20,132
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
+
+- **[pranshuparmar/witr](https://github.com/pranshuparmar/witr)** ⭐ 7,212
+  ![Go](https://img.shields.io/badge/-Go-cyan)
+  Why is this running?
+
+- **[apple/ml-sharp](https://github.com/apple/ml-sharp)** ⭐ 6,183
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  Sharp Monocular View Synthesis in Less Than a Second
+
+- **[bellard/mquickjs](https://github.com/bellard/mquickjs)** ⭐ 4,793
+  ![C](https://img.shields.io/badge/-C-lightgrey)
+  Public repository of the Micro QuickJS Javascript Engine
+
+- **[muratcankoylan/Agent-Skills-for-Context-Engineering](https://github.com/muratcankoylan/Agent-Skills-for-Context-Engineering)** ⭐ 4,614
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  A comprehensive collection of Agent Skills for context engineering, multi-agent architectures, and production agent systems. Use when building, optimizing, or debugging agent systems that require effective context management.
+
+- **[code-yeongyu/oh-my-opencode](https://github.com/code-yeongyu/oh-my-opencode)** ⭐ 4,088
+  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
+  #1 OpenCode Plugin- Battery included. ASYNC SUBAGENTS (YES LIKE CLAUDE CODE) · Curated agents with proper models · Crafted tools like LSP/AST included · Curated MCPs · Claude Code Compatible Layer — Steroids for your OpenCode. The Best LLM Agent Experience is Here.
+
+- **[2025Emma/vibe-coding-cn](https://github.com/2025Emma/vibe-coding-cn)** ⭐ 4,026
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  None
+
+- **[AndyMik90/Auto-Claude](https://github.com/AndyMik90/Auto-Claude)** ⭐ 4,013
+  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
+  Autonomous multi-session AI coding
 
 ## 🚀 Latest Releases
 
@@ -382,59 +498,59 @@ for a semver-minor rele...
 
 | Skill | Status |
 |-------|--------|
-| Java | 🟢 Proficient |
+| Java | 🟡 Learning |
 | Python | ⚪ Planned |
-| JavaScript | 🟢 Proficient |
-| TypeScript | 🟡 Learning |
-| Go | 🔴 Beginner |
+| JavaScript | ⚪ Planned |
+| TypeScript | ⚪ Planned |
+| Go | 🟢 Proficient |
 
 ### Frameworks
 
 | Skill | Status |
 |-------|--------|
-| React | 🟢 Proficient |
-| Spring Boot | ⚪ Planned |
-| Django | 🟡 Learning |
-| Node.js | 🔴 Beginner |
-| Next.js | 🟡 Learning |
+| React | ⚪ Planned |
+| Spring Boot | 🟢 Proficient |
+| Django | 🔴 Beginner |
+| Node.js | 🟢 Proficient |
+| Next.js | ⚪ Planned |
 
 ### Cybersecurity
 
 | Skill | Status |
 |-------|--------|
-| Penetration Testing | 🔴 Beginner |
+| Penetration Testing | ⚪ Planned |
 | Web Security | 🔴 Beginner |
-| Network Security | 🟡 Learning |
-| OWASP | 🟢 Proficient |
+| Network Security | ⚪ Planned |
+| OWASP | ⚪ Planned |
 
 ### Ai Ml
 
 | Skill | Status |
 |-------|--------|
-| Machine Learning | ⚪ Planned |
-| Deep Learning | 🟢 Proficient |
-| NLP | 🟡 Learning |
-| Computer Vision | 🔴 Beginner |
-| TensorFlow | 🟡 Learning |
-| PyTorch | 🟡 Learning |
+| Machine Learning | 🔴 Beginner |
+| Deep Learning | ⚪ Planned |
+| NLP | 🔴 Beginner |
+| Computer Vision | 🟢 Proficient |
+| TensorFlow | 🔴 Beginner |
+| PyTorch | 🔴 Beginner |
 
 ### Devops
 
 | Skill | Status |
 |-------|--------|
-| Docker | 🟢 Proficient |
-| Kubernetes | ⚪ Planned |
-| CI/CD | 🔴 Beginner |
-| AWS | ⚪ Planned |
-| Azure | 🟢 Proficient |
+| Docker | 🟡 Learning |
+| Kubernetes | 🟢 Proficient |
+| CI/CD | 🟢 Proficient |
+| AWS | 🟡 Learning |
+| Azure | ⚪ Planned |
 
 ### Other
 
 | Skill | Status |
 |-------|--------|
-| Blockchain | 🟢 Proficient |
-| Web3 | 🟢 Proficient |
-| Cloud Computing | 🟡 Learning |
+| Blockchain | 🔴 Beginner |
+| Web3 | ⚪ Planned |
+| Cloud Computing | ⚪ Planned |
 
 </details>
 
