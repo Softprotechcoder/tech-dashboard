@@ -20,7 +20,7 @@
 | Metric | Count |
 |--------|-------|
 | 📰 Latest News Articles | 26 |
-| 🔥 Trending Repositories | 45 |
+| 🔥 Trending Repositories | 0 |
 | 🎯 Latest Releases | 10 |
 | 🎯 Learning Goals | 4 |
 
@@ -46,34 +46,33 @@
 
 ### 📑 Hacker News
 
-- **[Hacking Washing Machines [video]](https://media.ccc.de/v/39c3-hacking-washing-machines)**
-  *<p>Article URL: <a href="https://media.ccc.de/v/39c3-hacking-washing-machines">https://media.ccc.de/v/39c3-hacking-washing-machines</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?...*
-  📅 Tue, 30 Dec 2025 01:40:49 +0000
+- **[Crimson (YC X25) is hiring founding engineers in London](https://www.ycombinator.com/companies/crimson/jobs/kCikzj1-founding-engineer-full-stack)**
+  *<p>Article URL: <a href="https://www.ycombinator.com/companies/crimson/jobs/kCikzj1-founding-engineer-full-stack">https://www.ycombinator.com/companies/crimson/jobs/kCikzj1-founding-engineer-full-stac...*
+  📅 Tue, 30 Dec 2025 12:00:23 +0000
 
-- **[100x (YC S22) Is Hiring a Front End Engineer](https://news.ycombinator.com/item?id=46428206)**
-  *<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46428206">https://news.ycombinator.com/item?id=46428206</a></p>
-<p>Points: 0</p>
-<p># Comments: 0</p>...*
-  📅 Tue, 30 Dec 2025 01:00:03 +0000
+- **[Non-Zero-Sum Games](https://nonzerosum.games/)**
+  *<p>Article URL: <a href="https://nonzerosum.games/">https://nonzerosum.games/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46432311">https://news.ycombinator.com/item?id=4643...*
+  📅 Tue, 30 Dec 2025 11:42:55 +0000
 
-- **[Outside, Dungeon, Town: Integrating the Three Places in Videogames (2024)](https://keithburgun.net/outside-dungeon-town-integrating-the-three-places-in-videogames/)**
-  *<p>Article URL: <a href="https://keithburgun.net/outside-dungeon-town-integrating-the-three-places-in-videogames/">https://keithburgun.net/outside-dungeon-town-integrating-the-three-places-in-videogam...*
-  📅 Tue, 30 Dec 2025 00:54:34 +0000
+- **[Nicolas Guillou, French ICC judge sanctioned by the US and "debanked"](https://www.lemonde.fr/en/international/article/2025/11/19/nicolas-guillou-french-icc-judge-sanctioned-by-the-us-you-are-effectively-blacklisted-by-much-of-the-world-s-banking-system_6747628_4.html)**
+  *<p>Article URL: <a href="https://www.lemonde.fr/en/international/article/2025/11/19/nicolas-guillou-french-icc-judge-sanctioned-by-the-us-you-are-effectively-blacklisted-by-much-of-the-world-s-banking...*
+  📅 Tue, 30 Dec 2025 11:13:30 +0000
 
-- **[MongoDB Server Security Update, December 2025](https://www.mongodb.com/company/blog/news/mongodb-server-security-update-december-2025)**
-  *<p>Article URL: <a href="https://www.mongodb.com/company/blog/news/mongodb-server-security-update-december-2025">https://www.mongodb.com/company/blog/news/mongodb-server-security-update-december-2025<...*
-  📅 Tue, 30 Dec 2025 00:23:47 +0000
+- **[Netflix: Open Content](https://opencontent.netflix.com/)**
+  *<p>Article URL: <a href="https://opencontent.netflix.com/">https://opencontent.netflix.com/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46431560">https://news.ycombinator.co...*
+  📅 Tue, 30 Dec 2025 10:11:57 +0000
 
-- **[Stranger Things creator says turn off "garbage" settings](https://screenrant.com/stranger-things-creator-turn-off-settings-premiere/)**
-  *<p>Article URL: <a href="https://screenrant.com/stranger-things-creator-turn-off-settings-premiere/">https://screenrant.com/stranger-things-creator-turn-off-settings-premiere/</a></p>
-<p>Comments URL:...*
-  📅 Mon, 29 Dec 2025 23:50:34 +0000
+- **[HSBC blocks its app due to F-Droid-installed Bitwarden](https://mastodon.neilzone.co.uk/@neil/115807834298031971)**
+  *<p>Article URL: <a href="https://mastodon.neilzone.co.uk/@neil/115807834298031971">https://mastodon.neilzone.co.uk/@neil/115807834298031971</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.c...*
+  📅 Tue, 30 Dec 2025 09:57:27 +0000
 
-- **[I migrated to an almost all-EU stack and saved 500€ per year](https://www.zeitgeistofbytes.com/p/bye-bye-big-tech-how-i-migrated-to)**
-  *<p>Article URL: <a href="https://www.zeitgeistofbytes.com/p/bye-bye-big-tech-how-i-migrated-to">https://www.zeitgeistofbytes.com/p/bye-bye-big-tech-how-i-migrated-to</a></p>
-<p>Comments URL: <a href="...*
-  📅 Mon, 29 Dec 2025 23:50:06 +0000
+- **[Go Away Python](https://lorentz.app/blog-item.html?id=go-shebang)**
+  *<p>Article URL: <a href="https://lorentz.app/blog-item.html?id=go-shebang">https://lorentz.app/blog-item.html?id=go-shebang</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46431...*
+  📅 Tue, 30 Dec 2025 08:50:44 +0000
 
 ### 📑 TechCrunch
 
@@ -103,133 +102,23 @@
 
 ### 📑 Dev.to
 
-- **[Most SaaS Products Don’t Fail on Tech - They Fail on Trust](https://dev.to/mukul_sharma/most-saas-products-dont-fail-on-tech-they-fail-on-trust-30mc)**
-  *<h3>
+- **[Top Free Websites to Deploy Your Web Applications](https://dev.to/basecampxd/top-free-websites-to-deploy-your-web-applications-ahp)**
+  *<h2>
   
   
-  Why SaaS builders in 2026 can’t ignore this
-</h3>
+  TL;DR
+</h2>
 
-<p>Every year, SaaS tooling gets better. AI writes the code. Infrastructure is cheap. Distribution is global by default.</p>
+<p>You can create many projects, but the joy of launching a live application is exhilarating. There were a lot of steps while deploying in the past, but with modern applicati...*
+  📅 Tue, 30 Dec 2025 12:11:22 +0000
 
-<p>And yet...*
-  📅 Tue, 30 Dec 2025 06:12:33 +0000
-
-- **[The Hidden Cost of Blind Pricing: How Competitor Price Drops Are Silently Killing Your Revenue](https://dev.to/tracksimple/the-hidden-cost-of-blind-pricing-how-competitor-price-drops-are-silently-killing-your-revenue-4nja)**
-  *<h1>
-  
-  
-  The Hidden Cost of Blind Pricing: How Competitor Price Drops Are Silently Killing Your Revenue
-</h1>
-
-<p>You're sitting in your Monday morning meeting, reviewing the weekend sales numbers...*
-  📅 Tue, 30 Dec 2025 06:09:27 +0000
+- **[MarteoCLI: Democratizing the C++ Journey for Beginners](https://dev.to/jhonesyure/marteocli-democratizing-the-c-journey-for-beginners-2i8m)**
+  *<p>For those starting their journey in programming, the first experience often determines whether they will persist or give up. In modern languages like Rust or Python, the ecosystem is welcoming: a s...*
+  📅 Tue, 30 Dec 2025 12:10:10 +0000
 
 </details>
 
 ## 🔥 Trending Repositories
-
-### 📈 Daily Trending
-
-- **[tripleyak/skillcreator](https://github.com/tripleyak/skillcreator)** ⭐ 33
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  The ultimate meta-skill for generating best-in-class Claude Code skills.
-
-- **[eztg/GPT_Sheerid_Auto](https://github.com/eztg/GPT_Sheerid_Auto)** ⭐ 20
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  自动验证工具 - 支持 TLS 指纹模拟、代理轮换、邮箱自动收取验证码
-
-- **[TyCoding/langchat-slides](https://github.com/TyCoding/langchat-slides)** ⭐ 14
-  ![Vue](https://img.shields.io/badge/-Vue-lightgrey)
-  LangChat Slides - Next-Gen AI Slide Generator
-
-- **[chatgptuk/ldc-shop](https://github.com/chatgptuk/ldc-shop)** ⭐ 12
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
-  Linux DO Credit Virtual Goods Shop - Serverless on Cloudflare Workers
-
-- **[GourangaDasSamrat/latex-resume-ci](https://github.com/GourangaDasSamrat/latex-resume-ci)** ⭐ 7
-  ![TeX](https://img.shields.io/badge/-TeX-lightgrey)
-  Automated CI/CD pipeline for compiling LaTeX resumes using Docker & GitHub Actions.
-
-- **[chenhaoqcdyq/lmr-codes](https://github.com/chenhaoqcdyq/lmr-codes)** ⭐ 6
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  Think Before You Move: Latent Motion Reasoning for Text-to-Motion Generation
-
-- **[secuardenai/compliance-compass](https://github.com/secuardenai/compliance-compass)** ⭐ 6
-  ![CSS](https://img.shields.io/badge/-CSS-lightgrey)
-  An open-source tool that maps application security requirements across OWASP Proactive Controls, ISO27001:2013, and NIST SSDF.
-
-- **[dahlia/vertana](https://github.com/dahlia/vertana)** ⭐ 5
-  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
-  LLM-powered agentic translation library for JavaScript/TypeScript
-
-### 📈 Weekly Trending
-
-- **[nguyenphutrong/quotio](https://github.com/nguyenphutrong/quotio)** ⭐ 1,262
-  ![Swift](https://img.shields.io/badge/-Swift-lightgrey)
-  Stop juggling AI accounts. Quotio is a beautiful native macOS menu bar app that unifies your Claude, Gemini, OpenAI, Qwen, and Antigravity subscriptions – with real-time quota tracking and smart auto-failover for AI coding tools like Claude Code, OpenCode, and Droid.
-
-- **[ClashConnectRules/Self-Configuration](https://github.com/ClashConnectRules/Self-Configuration)** ⭐ 812
-  ![None](https://img.shields.io/badge/-None-lightgrey)
-  None
-
-- **[abusoww/tuxmate](https://github.com/abusoww/tuxmate)** ⭐ 812
-  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
-  THE MISSING BULK APP INSTALLER FOR LINUX
-
-- **[joe-desimone/mongobleed](https://github.com/joe-desimone/mongobleed)** ⭐ 668
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
-  None
-
-- **[liuxiaomingskm/datashield-lightweight-labs](https://github.com/liuxiaomingskm/datashield-lightweight-labs)** ⭐ 600
-  ![MDX](https://img.shields.io/badge/-MDX-lightgrey)
-  a lightweight tool to protect privacy/user data in Internet
-
-- **[dennisyang1986/opensqt_market_maker](https://github.com/dennisyang1986/opensqt_market_maker)** ⭐ 587
-  ![Go](https://img.shields.io/badge/-Go-cyan)
-  OpenSQT 是一个高性能、低延迟的加密货币做市商系统，专注于永续合约市场的做多网格交易策略。系统采用 Go 语言开发，基于 WebSocket 实时数据流驱动，旨在为 Binance、Bitget、Gate.io 等主流交易所提供稳定的流动性支持。
-
-- **[HKUDS/DeepTutor](https://github.com/HKUDS/DeepTutor)** ⭐ 495
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  "DeepTutor: AI-Powered Personalized Learning Assistant"
-
-- **[AnmolSaini16/mapcn](https://github.com/AnmolSaini16/mapcn)** ⭐ 493
-  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
-  Beautiful map components. 100% Free, Zero config, one command setup.
-
-### 📈 Monthly Trending
-
-- **[zai-org/Open-AutoGLM](https://github.com/zai-org/Open-AutoGLM)** ⭐ 20,014
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
-
-- **[pranshuparmar/witr](https://github.com/pranshuparmar/witr)** ⭐ 6,570
-  ![Go](https://img.shields.io/badge/-Go-cyan)
-  Why is this running?
-
-- **[apple/ml-sharp](https://github.com/apple/ml-sharp)** ⭐ 6,128
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  Sharp Monocular View Synthesis in Less Than a Second
-
-- **[bellard/mquickjs](https://github.com/bellard/mquickjs)** ⭐ 4,757
-  ![C](https://img.shields.io/badge/-C-lightgrey)
-  Public repository of the Micro QuickJS Javascript Engine
-
-- **[muratcankoylan/Agent-Skills-for-Context-Engineering](https://github.com/muratcankoylan/Agent-Skills-for-Context-Engineering)** ⭐ 4,450
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  A comprehensive collection of Agent Skills for context engineering, multi-agent architectures, and production agent systems. Use when building, optimizing, or debugging agent systems that require effective context management.
-
-- **[code-yeongyu/oh-my-opencode](https://github.com/code-yeongyu/oh-my-opencode)** ⭐ 3,975
-  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
-  #1 OpenCode Plugin- Battery included. ASYNC SUBAGENTS (YES LIKE CLAUDE CODE) · Curated agents with proper models · Crafted tools like LSP/AST included · Curated MCPs · Claude Code Compatible Layer — Steroids for your OpenCode. The Best LLM Agent Experience is Here.
-
-- **[AndyMik90/Auto-Claude](https://github.com/AndyMik90/Auto-Claude)** ⭐ 3,968
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  Autonomous multi-session AI coding
-
-- **[agentskills/agentskills](https://github.com/agentskills/agentskills)** ⭐ 3,953
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  Specification and documentation for Agent Skills
 
 ## 🚀 Latest Releases
 
@@ -493,59 +382,59 @@ for a semver-minor rele...
 
 | Skill | Status |
 |-------|--------|
-| Java | 🔴 Beginner |
-| Python | 🟡 Learning |
+| Java | 🟢 Proficient |
+| Python | ⚪ Planned |
 | JavaScript | 🟢 Proficient |
-| TypeScript | 🔴 Beginner |
+| TypeScript | 🟡 Learning |
 | Go | 🔴 Beginner |
 
 ### Frameworks
 
 | Skill | Status |
 |-------|--------|
-| React | ⚪ Planned |
-| Spring Boot | 🟡 Learning |
-| Django | ⚪ Planned |
-| Node.js | 🟡 Learning |
-| Next.js | 🟢 Proficient |
+| React | 🟢 Proficient |
+| Spring Boot | ⚪ Planned |
+| Django | 🟡 Learning |
+| Node.js | 🔴 Beginner |
+| Next.js | 🟡 Learning |
 
 ### Cybersecurity
 
 | Skill | Status |
 |-------|--------|
 | Penetration Testing | 🔴 Beginner |
-| Web Security | 🟡 Learning |
-| Network Security | 🔴 Beginner |
-| OWASP | 🟡 Learning |
+| Web Security | 🔴 Beginner |
+| Network Security | 🟡 Learning |
+| OWASP | 🟢 Proficient |
 
 ### Ai Ml
 
 | Skill | Status |
 |-------|--------|
-| Machine Learning | 🔴 Beginner |
-| Deep Learning | 🟡 Learning |
-| NLP | 🔴 Beginner |
+| Machine Learning | ⚪ Planned |
+| Deep Learning | 🟢 Proficient |
+| NLP | 🟡 Learning |
 | Computer Vision | 🔴 Beginner |
-| TensorFlow | 🟢 Proficient |
+| TensorFlow | 🟡 Learning |
 | PyTorch | 🟡 Learning |
 
 ### Devops
 
 | Skill | Status |
 |-------|--------|
-| Docker | ⚪ Planned |
-| Kubernetes | 🟡 Learning |
-| CI/CD | ⚪ Planned |
-| AWS | 🔴 Beginner |
+| Docker | 🟢 Proficient |
+| Kubernetes | ⚪ Planned |
+| CI/CD | 🔴 Beginner |
+| AWS | ⚪ Planned |
 | Azure | 🟢 Proficient |
 
 ### Other
 
 | Skill | Status |
 |-------|--------|
-| Blockchain | 🟡 Learning |
-| Web3 | 🔴 Beginner |
-| Cloud Computing | 🟢 Proficient |
+| Blockchain | 🟢 Proficient |
+| Web3 | 🟢 Proficient |
+| Cloud Computing | 🟡 Learning |
 
 </details>
 
