@@ -46,7 +46,26 @@
 
 ### 📑 Hacker News
 
-- **[Flow5 Released to Open Source](https://flow5.tech/docs/releasenotes.html)**
+- **[Windows 11 Outperforming Linux on an Intel Arrow Lake H Laptop](https://www.phoronix.com/review/windows-beats-linux-arl-h)**
+  *<p>Article URL: <a href="https://www.phoronix.com/review/windows-beats-linux-arl-h">https://www.phoronix.com/review/windows-beats-linux-arl-h</a></p>
+<p>Comments URL: <a href="https://news.ycombinator...*
+  📅 Thu, 01 Jan 2026 11:20:13 +0000
+
+- **[Rust–: Rust without the borrow checker](https://github.com/buyukakyuz/rustmm)**
+  *<p>Article URL: <a href="https://github.com/buyukakyuz/rustmm">https://github.com/buyukakyuz/rustmm</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46453062">https://news.ycombi...*
+  📅 Thu, 01 Jan 2026 10:53:12 +0000
+
+- **[Worlds largest electric ship launched by Tasmanian boatbuilder](https://www.theguardian.com/australia-news/2025/may/02/hull-096-worlds-largest-electric-ship-battery-power-launched)**
+  *<p>Article URL: <a href="https://www.theguardian.com/australia-news/2025/may/02/hull-096-worlds-largest-electric-ship-battery-power-launched">https://www.theguardian.com/australia-news/2025/may/02/hul...*
+  📅 Thu, 01 Jan 2026 10:29:54 +0000
+
+- **[If childhood is half of subjective life, how should that change how we live?](https://moultano.wordpress.com/2025/12/30/children-and-helical-time/)**
+  *<p>Article URL: <a href="https://moultano.wordpress.com/2025/12/30/children-and-helical-time/">https://moultano.wordpress.com/2025/12/30/children-and-helical-time/</a></p>
+<p>Comments URL: <a href="ht...*
+  📅 Thu, 01 Jan 2026 09:53:48 +0000
+
+- **[Flow5 released to open source](https://flow5.tech/docs/releasenotes.html)**
   *<p>Article URL: <a href="https://flow5.tech/docs/releasenotes.html">https://flow5.tech/docs/releasenotes.html</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=46451124">https://n...*
   📅 Thu, 01 Jan 2026 03:47:20 +0000
@@ -55,25 +74,6 @@
   *<p>Article URL: <a href="https://computerhistory.org/blog/pixars-true-story/">https://computerhistory.org/blog/pixars-true-story/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id...*
   📅 Thu, 01 Jan 2026 02:35:40 +0000
-
-- **[GoGoGrandparent (YC S16) Is Hiring Tech Leads](https://www.ycombinator.com/companies/gogograndparent/jobs/w2jGKM7-gogograndparent-yc-s16-is-hiring-tech-leads)**
-  *<p>Article URL: <a href="https://www.ycombinator.com/companies/gogograndparent/jobs/w2jGKM7-gogograndparent-yc-s16-is-hiring-tech-leads">https://www.ycombinator.com/companies/gogograndparent/jobs/w2jG...*
-  📅 Thu, 01 Jan 2026 01:01:22 +0000
-
-- **[Show HN: BusterMQ, Thread-per-core NATS server in Zig with io_uring](https://bustermq.sh/)**
-  *<p>Article URL: <a href="https://bustermq.sh/">https://bustermq.sh/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46449812">https://news.ycombinator.com/item?id=46449812</a></...*
-  📅 Thu, 01 Jan 2026 00:18:43 +0000
-
-- **[The Delete Act](https://privacy.ca.gov/drop/about-drop-and-the-delete-act/)**
-  *<p>Article URL: <a href="https://privacy.ca.gov/drop/about-drop-and-the-delete-act/">https://privacy.ca.gov/drop/about-drop-and-the-delete-act/</a></p>
-<p>Comments URL: <a href="https://news.ycombinat...*
-  📅 Thu, 01 Jan 2026 00:02:14 +0000
-
-- **[2025: The Year in LLMs](https://simonwillison.net/2025/Dec/31/the-year-in-llms/)**
-  *<p>Article URL: <a href="https://simonwillison.net/2025/Dec/31/the-year-in-llms/">https://simonwillison.net/2025/Dec/31/the-year-in-llms/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com...*
-  📅 Wed, 31 Dec 2025 23:54:46 +0000
 
 ### 📑 TechCrunch
 
@@ -103,13 +103,17 @@
 
 ### 📑 Dev.to
 
-- **[EP 6.3: Master-Slave Architecture](https://dev.to/hrishikesh_dalal_ced8f95e/ep-63-master-slave-architecture-15pf)**
-  *<p>In system design, the <strong>Master-Slave (or Leader-Follower)</strong> architecture is one of the most fundamental patterns used to achieve scalability and high availability, particularly in data...*
-  📅 Thu, 01 Jan 2026 06:10:48 +0000
+- **[How AI Can Cut Your Design-Development Handoff Time by 50%](https://dev.to/daisy_jones_21bdcc6b40f9d/how-ai-can-cut-your-design-development-handoff-time-by-50-14ob)**
+  *<p>For SaaS founders and engineering leads, the space between a polished Figma design and a live, functional feature is a minefield. It’s where velocity dies, inconsistencies breed, and costly rework ...*
+  📅 Thu, 01 Jan 2026 12:16:34 +0000
 
-- **[Securing Secrets in Android: What Actually Works in Production](https://dev.to/vaibhav_shakya_e6b352bfc4/securing-secrets-in-android-what-actually-works-in-production-1mfc)**
-  *<p>In Android apps, <strong>nothing on the client is truly secret</strong>. APKs can be decompiled, strings extracted, memory inspected, and runtime behavior hooked. Treating the app as a trusted envi...*
-  📅 Thu, 01 Jan 2026 06:08:39 +0000
+- **[How Governance and Compliance Saves The World... lolwut?](https://dev.to/linkbenjamin/how-governance-and-compliance-saves-the-world-lolwut-5him)**
+  *<p>If this isn’t your first Adventure of Blink, you’re probably a little shocked by today’s title.</p>
+
+<p>(And if you ARE new... welcome, and buckle up! You picked a fun one!)</p>
+
+<p>Look, I don’t u...*
+  📅 Thu, 01 Jan 2026 12:15:00 +0000
 
 </details>
 
@@ -117,103 +121,103 @@
 
 ### 📈 Daily Trending
 
-- **[CloudAI-X/claude-workflow](https://github.com/CloudAI-X/claude-workflow)** ⭐ 44
+- **[CloudAI-X/claude-workflow](https://github.com/CloudAI-X/claude-workflow)** ⭐ 154
   ![Python](https://img.shields.io/badge/-Python-blue)
   Universal Claude Code workflow plugin with agents, skills, hooks, and commands
 
-- **[sionic-ai/solar-vs-glm](https://github.com/sionic-ai/solar-vs-glm)** ⭐ 14
+- **[sionic-ai/solar-vs-glm](https://github.com/sionic-ai/solar-vs-glm)** ⭐ 59
   ![Python](https://img.shields.io/badge/-Python-blue)
   None
 
-- **[T3-Content/claude-blocker](https://github.com/T3-Content/claude-blocker)** ⭐ 6
+- **[hyunwoongko/solar-vs-glm-vs-phi](https://github.com/hyunwoongko/solar-vs-glm-vs-phi)** ⭐ 35
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  None
+
+- **[T3-Content/claude-blocker](https://github.com/T3-Content/claude-blocker)** ⭐ 23
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   None
 
-- **[QuilibriumNetwork/quorum-mobile](https://github.com/QuilibriumNetwork/quorum-mobile)** ⭐ 5
+- **[QuilibriumNetwork/quorum-mobile](https://github.com/QuilibriumNetwork/quorum-mobile)** ⭐ 17
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   None
 
-- **[sdan/vmux-examples](https://github.com/sdan/vmux-examples)** ⭐ 5
+- **[sdan/vmux-examples](https://github.com/sdan/vmux-examples)** ⭐ 13
   ![Python](https://img.shields.io/badge/-Python-blue)
   Example scripts for vmux - run any command in the cloud
 
-- **[neavo/FableFlow](https://github.com/neavo/FableFlow)** ⭐ 5
+- **[yifanzhang-pro/deep-delta-learning](https://github.com/yifanzhang-pro/deep-delta-learning)** ⭐ 9
   ![None](https://img.shields.io/badge/-None-lightgrey)
-  FableFlow（寓言流），一个简单的无代码多 AGENT 长篇故事创意与写作系统
+  Deep Delta Learning
 
-- **[roomkangali/droid-llm-hunter](https://github.com/roomkangali/droid-llm-hunter)** ⭐ 2
-  ![Python](https://img.shields.io/badge/-Python-blue)
-   Droid LLM Hunter is a tool to scan for vulnerabilities in Android applications using Large Language Models (LLMs). 
-
-- **[rngpui/react-native-gpui](https://github.com/rngpui/react-native-gpui)** ⭐ 2
+- **[chaosprint/hindsight](https://github.com/chaosprint/hindsight)** ⭐ 7
   ![Rust](https://img.shields.io/badge/-Rust-brown)
-  An out-of-tree platform for React Native desktop applications, using Rust and Zed's GPUI framework.
+  GitHub-style git activity visualizer for your terminal.
 
 ### 📈 Weekly Trending
 
-- **[HKUDS/DeepTutor](https://github.com/HKUDS/DeepTutor)** ⭐ 1,227
+- **[HKUDS/DeepTutor](https://github.com/HKUDS/DeepTutor)** ⭐ 1,349
   ![Python](https://img.shields.io/badge/-Python-blue)
   "DeepTutor: AI-Powered Personalized Learning Assistant"
 
-- **[buyukakyuz/corroded](https://github.com/buyukakyuz/corroded)** ⭐ 846
-  ![Rust](https://img.shields.io/badge/-Rust-brown)
-  Illegal rust
-
-- **[joe-desimone/mongobleed](https://github.com/joe-desimone/mongobleed)** ⭐ 775
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
-  None
-
-- **[AnmolSaini16/mapcn](https://github.com/AnmolSaini16/mapcn)** ⭐ 749
+- **[AnmolSaini16/mapcn](https://github.com/AnmolSaini16/mapcn)** ⭐ 888
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   Beautiful map components. 100% Free, Zero config, one command setup.
 
-- **[heilcheng/awesome-agent-skills](https://github.com/heilcheng/awesome-agent-skills)** ⭐ 600
+- **[buyukakyuz/corroded](https://github.com/buyukakyuz/corroded)** ⭐ 877
+  ![Rust](https://img.shields.io/badge/-Rust-brown)
+  Illegal rust
+
+- **[joe-desimone/mongobleed](https://github.com/joe-desimone/mongobleed)** ⭐ 781
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
+  None
+
+- **[heilcheng/awesome-agent-skills](https://github.com/heilcheng/awesome-agent-skills)** ⭐ 643
   ![None](https://img.shields.io/badge/-None-lightgrey)
   A curated list of skills, tools, tutorials, and capabilities for AI coding agents (Claude, Codex, Copilot, VS Code)
 
-- **[op7418/guizang-s-prompt](https://github.com/op7418/guizang-s-prompt)** ⭐ 596
-  ![None](https://img.shields.io/badge/-None-lightgrey)
-  这里是歸藏的提示词储存库，存放着歸藏撰写的所有 AI 模型提示词（This is Guizang's prompt repository, containing all AI model prompts written by Guizang.）
-
-- **[Tencent-Hunyuan/HY-Motion-1.0](https://github.com/Tencent-Hunyuan/HY-Motion-1.0)** ⭐ 554
+- **[Tencent-Hunyuan/HY-Motion-1.0](https://github.com/Tencent-Hunyuan/HY-Motion-1.0)** ⭐ 608
   ![Python](https://img.shields.io/badge/-Python-blue)
   HY-Motion model for 3D character animation generation. 
 
-- **[Lulzx/zpdf](https://github.com/Lulzx/zpdf)** ⭐ 545
+- **[op7418/guizang-s-prompt](https://github.com/op7418/guizang-s-prompt)** ⭐ 601
+  ![None](https://img.shields.io/badge/-None-lightgrey)
+  这里是歸藏的提示词储存库，存放着歸藏撰写的所有 AI 模型提示词（This is Guizang's prompt repository, containing all AI model prompts written by Guizang.）
+
+- **[Lulzx/zpdf](https://github.com/Lulzx/zpdf)** ⭐ 577
   ![Zig](https://img.shields.io/badge/-Zig-lightgrey)
   Zero-copy PDF text extraction library written in Zig. High-performance, memory-mapped parsing with SIMD acceleration.
 
 ### 📈 Monthly Trending
 
-- **[zai-org/Open-AutoGLM](https://github.com/zai-org/Open-AutoGLM)** ⭐ 20,281
+- **[zai-org/Open-AutoGLM](https://github.com/zai-org/Open-AutoGLM)** ⭐ 20,313
   ![Python](https://img.shields.io/badge/-Python-blue)
   An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
 
-- **[pranshuparmar/witr](https://github.com/pranshuparmar/witr)** ⭐ 7,721
+- **[pranshuparmar/witr](https://github.com/pranshuparmar/witr)** ⭐ 7,750
   ![Go](https://img.shields.io/badge/-Go-cyan)
   Why is this running?
 
-- **[apple/ml-sharp](https://github.com/apple/ml-sharp)** ⭐ 6,278
+- **[apple/ml-sharp](https://github.com/apple/ml-sharp)** ⭐ 6,286
   ![Python](https://img.shields.io/badge/-Python-blue)
   Sharp Monocular View Synthesis in Less Than a Second
 
-- **[muratcankoylan/Agent-Skills-for-Context-Engineering](https://github.com/muratcankoylan/Agent-Skills-for-Context-Engineering)** ⭐ 4,966
+- **[muratcankoylan/Agent-Skills-for-Context-Engineering](https://github.com/muratcankoylan/Agent-Skills-for-Context-Engineering)** ⭐ 5,014
   ![Python](https://img.shields.io/badge/-Python-blue)
   A comprehensive collection of Agent Skills for context engineering, multi-agent architectures, and production agent systems. Use when building, optimizing, or debugging agent systems that require effective context management.
 
-- **[bellard/mquickjs](https://github.com/bellard/mquickjs)** ⭐ 4,856
+- **[bellard/mquickjs](https://github.com/bellard/mquickjs)** ⭐ 4,865
   ![C](https://img.shields.io/badge/-C-lightgrey)
   Public repository of the Micro QuickJS Javascript Engine
 
-- **[AndyMik90/Auto-Claude](https://github.com/AndyMik90/Auto-Claude)** ⭐ 4,421
+- **[AndyMik90/Auto-Claude](https://github.com/AndyMik90/Auto-Claude)** ⭐ 4,530
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   Autonomous multi-session AI coding
 
-- **[code-yeongyu/oh-my-opencode](https://github.com/code-yeongyu/oh-my-opencode)** ⭐ 4,357
+- **[code-yeongyu/oh-my-opencode](https://github.com/code-yeongyu/oh-my-opencode)** ⭐ 4,407
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   #1 OpenCode Plugin- Battery included. ASYNC SUBAGENTS (YES LIKE CLAUDE CODE) · Curated agents with proper models · Crafted tools like LSP/AST included · Curated MCPs · Claude Code Compatible Layer — Steroids for your OpenCode. The Best LLM Agent Experience is Here.
 
-- **[2025Emma/vibe-coding-cn](https://github.com/2025Emma/vibe-coding-cn)** ⭐ 4,337
+- **[2025Emma/vibe-coding-cn](https://github.com/2025Emma/vibe-coding-cn)** ⭐ 4,395
   ![Python](https://img.shields.io/badge/-Python-blue)
   None
 
@@ -479,59 +483,59 @@ for a semver-minor rele...
 
 | Skill | Status |
 |-------|--------|
-| Java | ⚪ Planned |
-| Python | 🔴 Beginner |
-| JavaScript | ⚪ Planned |
+| Java | 🟢 Proficient |
+| Python | ⚪ Planned |
+| JavaScript | 🟢 Proficient |
 | TypeScript | 🟡 Learning |
-| Go | 🔴 Beginner |
+| Go | ⚪ Planned |
 
 ### Frameworks
 
 | Skill | Status |
 |-------|--------|
 | React | 🔴 Beginner |
-| Spring Boot | 🟡 Learning |
-| Django | 🔴 Beginner |
-| Node.js | ⚪ Planned |
-| Next.js | 🟡 Learning |
+| Spring Boot | 🟢 Proficient |
+| Django | ⚪ Planned |
+| Node.js | 🟡 Learning |
+| Next.js | 🔴 Beginner |
 
 ### Cybersecurity
 
 | Skill | Status |
 |-------|--------|
-| Penetration Testing | ⚪ Planned |
-| Web Security | 🔴 Beginner |
-| Network Security | ⚪ Planned |
-| OWASP | 🟡 Learning |
+| Penetration Testing | 🟢 Proficient |
+| Web Security | 🟡 Learning |
+| Network Security | 🟡 Learning |
+| OWASP | 🔴 Beginner |
 
 ### Ai Ml
 
 | Skill | Status |
 |-------|--------|
-| Machine Learning | 🔴 Beginner |
+| Machine Learning | 🟢 Proficient |
 | Deep Learning | 🟢 Proficient |
-| NLP | 🟡 Learning |
-| Computer Vision | 🟡 Learning |
+| NLP | ⚪ Planned |
+| Computer Vision | 🟢 Proficient |
 | TensorFlow | 🔴 Beginner |
-| PyTorch | 🟢 Proficient |
+| PyTorch | ⚪ Planned |
 
 ### Devops
 
 | Skill | Status |
 |-------|--------|
-| Docker | 🟡 Learning |
+| Docker | 🔴 Beginner |
 | Kubernetes | 🟡 Learning |
-| CI/CD | ⚪ Planned |
-| AWS | 🔴 Beginner |
+| CI/CD | 🔴 Beginner |
+| AWS | 🟡 Learning |
 | Azure | 🔴 Beginner |
 
 ### Other
 
 | Skill | Status |
 |-------|--------|
-| Blockchain | ⚪ Planned |
+| Blockchain | 🟢 Proficient |
 | Web3 | 🔴 Beginner |
-| Cloud Computing | ⚪ Planned |
+| Cloud Computing | 🔴 Beginner |
 
 </details>
 
