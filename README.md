@@ -46,36 +46,42 @@
 
 ### 📑 Hacker News
 
-- **[Windows 11 Outperforming Linux on an Intel Arrow Lake H Laptop](https://www.phoronix.com/review/windows-beats-linux-arl-h)**
-  *<p>Article URL: <a href="https://www.phoronix.com/review/windows-beats-linux-arl-h">https://www.phoronix.com/review/windows-beats-linux-arl-h</a></p>
-<p>Comments URL: <a href="https://news.ycombinator...*
-  📅 Thu, 01 Jan 2026 11:20:13 +0000
+- **[Cameras and Lenses (2020)](https://ciechanow.ski/cameras-and-lenses/)**
+  *<p>Article URL: <a href="https://ciechanow.ski/cameras-and-lenses/">https://ciechanow.ski/cameras-and-lenses/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46455872">https://n...*
+  📅 Thu, 01 Jan 2026 17:18:01 +0000
 
-- **[Rust–: Rust without the borrow checker](https://github.com/buyukakyuz/rustmm)**
-  *<p>Article URL: <a href="https://github.com/buyukakyuz/rustmm">https://github.com/buyukakyuz/rustmm</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46453062">https://news.ycombi...*
-  📅 Thu, 01 Jan 2026 10:53:12 +0000
-
-- **[Worlds largest electric ship launched by Tasmanian boatbuilder](https://www.theguardian.com/australia-news/2025/may/02/hull-096-worlds-largest-electric-ship-battery-power-launched)**
-  *<p>Article URL: <a href="https://www.theguardian.com/australia-news/2025/may/02/hull-096-worlds-largest-electric-ship-battery-power-launched">https://www.theguardian.com/australia-news/2025/may/02/hul...*
-  📅 Thu, 01 Jan 2026 10:29:54 +0000
-
-- **[If childhood is half of subjective life, how should that change how we live?](https://moultano.wordpress.com/2025/12/30/children-and-helical-time/)**
-  *<p>Article URL: <a href="https://moultano.wordpress.com/2025/12/30/children-and-helical-time/">https://moultano.wordpress.com/2025/12/30/children-and-helical-time/</a></p>
+- **[European Space Agency hit again as cybercriminals claim 200 GB data up for sale](https://www.theregister.com/2025/12/31/european_space_agency_hacked/)**
+  *<p>Article URL: <a href="https://www.theregister.com/2025/12/31/european_space_agency_hacked/">https://www.theregister.com/2025/12/31/european_space_agency_hacked/</a></p>
 <p>Comments URL: <a href="ht...*
-  📅 Thu, 01 Jan 2026 09:53:48 +0000
+  📅 Thu, 01 Jan 2026 16:28:43 +0000
 
-- **[Flow5 released to open source](https://flow5.tech/docs/releasenotes.html)**
-  *<p>Article URL: <a href="https://flow5.tech/docs/releasenotes.html">https://flow5.tech/docs/releasenotes.html</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46451124">https://n...*
-  📅 Thu, 01 Jan 2026 03:47:20 +0000
+- **[Sony PS5 ROM keys leaked – jailbreaking could be made easier with BootROM codes](https://www.tomshardware.com/video-games/playstation/playstation-5-rom-keys-leaked-jailbreaking-could-be-made-easier-with-bootrom-codes)**
+  *<p>Article URL: <a href="https://www.tomshardware.com/video-games/playstation/playstation-5-rom-keys-leaked-jailbreaking-could-be-made-easier-with-bootrom-codes">https://www.tomshardware.com/video-gam...*
+  📅 Thu, 01 Jan 2026 15:57:39 +0000
 
-- **[Pixar's True Story](https://computerhistory.org/blog/pixars-true-story/)**
-  *<p>Article URL: <a href="https://computerhistory.org/blog/pixars-true-story/">https://computerhistory.org/blog/pixars-true-story/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id...*
-  📅 Thu, 01 Jan 2026 02:35:40 +0000
+- **[BYD Sells 4.6M Vehicles in 2025, Meets Revised Sales Goal](https://www.bloomberg.com/news/articles/2026-01-01/byd-sells-4-6-million-vehicles-in-2025-meets-revised-sales-goal)**
+  *<p>Article URL: <a href="https://www.bloomberg.com/news/articles/2026-01-01/byd-sells-4-6-million-vehicles-in-2025-meets-revised-sales-goal">https://www.bloomberg.com/news/articles/2026-01-01/byd-sell...*
+  📅 Thu, 01 Jan 2026 15:49:42 +0000
+
+- **[Implementing HNSW (Hierarchical Navigable Small World) Vector Search in PHP](https://centamori.com/index.php?slug=hierarchical-navigable-small-world-hnsw-php&lang=en)**
+  *<p>Article URL: <a href="https://centamori.com/index.php?slug=hierarchical-navigable-small-world-hnsw-php&amp;lang=en">https://centamori.com/index.php?slug=hierarchical-navigable-small-world-hnsw-php&...*
+  📅 Thu, 01 Jan 2026 15:48:31 +0000
+
+- **[Common Lisp SDK for the Datastar Hypermedia Framework](https://github.com/fsmunoz/datastar-cl)**
+  *<p>Article URL: <a href="https://github.com/fsmunoz/datastar-cl">https://github.com/fsmunoz/datastar-cl</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46454958">https://news.yc...*
+  📅 Thu, 01 Jan 2026 15:47:17 +0000
 
 ### 📑 TechCrunch
+
+- **[The top 6 media/entertainment startups from Disrupt Startup Battlefield](https://techcrunch.com/2026/01/01/the-top-6-media-entertainment-startups-from-disrupt-startup-battlefield/)**
+  *Here is the full list of the media/entertainment Startup Battlefield 200 selectees, along with a note on what made us select them for the competition....*
+  📅 Thu, 01 Jan 2026 15:00:00 +0000
+
+- **[Fizz social app’s CEO on why anon works](https://techcrunch.com/video/fizz-social-apps-ceo-on-why-anon-works/)**
+  *Fizz&#160;is&#160;betting that Gen Z is tired of performing their lives on Instagram and TikTok.&#160;&#160; What started as a pandemic-era group chat frustration has turned into the dominant social p...*
+  📅 Thu, 01 Jan 2026 13:25:00 +0000
 
 - **[‘College dropout’ has become the most coveted startup founder credential](https://techcrunch.com/2025/12/31/college-dropout-has-become-the-most-coveted-startup-founder-credential/)**
   *AI founders are increasingly using their "dropout" status as a credential during YC pitches....*
@@ -93,27 +99,33 @@
   *Founders Tade Oyerinde and Teddy Solomon spoke at Disrupt this year about keeping communities engaged....*
   📅 Wed, 31 Dec 2025 16:00:00 +0000
 
-- **[Every fusion startup that has raised over $100M](https://techcrunch.com/2025/12/31/every-fusion-startup-that-has-raised-over-100m/)**
-  *Fusion startups have raised $7.1 billion to date, with the majority of it going to a handful of companies....*
-  📅 Wed, 31 Dec 2025 15:05:21 +0000
-
-- **[The 10 top government, legal startups from Disrupt Startup Battlefield](https://techcrunch.com/2025/12/31/the-10-top-government-legal-startups-from-disrupt-startup-battlefield/)**
-  *Here is the full list of the government and legal Startup Battlefield 200 selectees, along with a note on what made us select them for the competition....*
-  📅 Wed, 31 Dec 2025 15:01:00 +0000
-
 ### 📑 Dev.to
 
-- **[How AI Can Cut Your Design-Development Handoff Time by 50%](https://dev.to/daisy_jones_21bdcc6b40f9d/how-ai-can-cut-your-design-development-handoff-time-by-50-14ob)**
-  *<p>For SaaS founders and engineering leads, the space between a polished Figma design and a live, functional feature is a minefield. It’s where velocity dies, inconsistencies breed, and costly rework ...*
-  📅 Thu, 01 Jan 2026 12:16:34 +0000
+- **[The Complete Guide to Local AI Coding in 2026](https://dev.to/murat_aslan_fa44b545aaa2c/the-complete-guide-to-local-ai-coding-in-2026-205l)**
+  *<h1>
+  
+  
+  The Complete Guide to Local AI Coding in 2026
+</h1>
 
-- **[How Governance and Compliance Saves The World... lolwut?](https://dev.to/linkbenjamin/how-governance-and-compliance-saves-the-world-lolwut-5him)**
-  *<p>If this isn’t your first Adventure of Blink, you’re probably a little shocked by today’s title.</p>
+<p><strong>TL;DR</strong>: Qwen2.5-Coder-32B scores 92.7% on HumanEval (matching GPT-4o), runs on a $700 used GPU, and costs $0/month ...*
+  📅 Thu, 01 Jan 2026 18:15:12 +0000
 
-<p>(And if you ARE new... welcome, and buckle up! You picked a fun one!)</p>
+- **[Building a Portfolio That Actually Demonstrates Enterprise Skills - Part 2](https://dev.to/moodyjw/building-a-portfolio-that-actually-demonstrates-enterprise-skills-part-2-47e1)**
+  *<h1>
+  
+  
+  Phase 1: Building the Enterprise Rig
+</h1>
 
-<p>Look, I don’t u...*
-  📅 Thu, 01 Jan 2026 12:15:00 +0000
+<h2>
+  
+  
+  Tooling, Governance, and the Foundation That Makes Everything Else Possible
+</h2>
+
+<p>In the <a href="https://dev.to/moodyjw/build...*
+  📅 Thu, 01 Jan 2026 18:13:27 +0000
 
 </details>
 
@@ -121,105 +133,105 @@
 
 ### 📈 Daily Trending
 
-- **[CloudAI-X/claude-workflow](https://github.com/CloudAI-X/claude-workflow)** ⭐ 154
+- **[CloudAI-X/claude-workflow](https://github.com/CloudAI-X/claude-workflow)** ⭐ 292
   ![Python](https://img.shields.io/badge/-Python-blue)
   Universal Claude Code workflow plugin with agents, skills, hooks, and commands
 
-- **[sionic-ai/solar-vs-glm](https://github.com/sionic-ai/solar-vs-glm)** ⭐ 59
+- **[sionic-ai/solar-vs-glm](https://github.com/sionic-ai/solar-vs-glm)** ⭐ 69
   ![Python](https://img.shields.io/badge/-Python-blue)
   None
 
-- **[hyunwoongko/solar-vs-glm-vs-phi](https://github.com/hyunwoongko/solar-vs-glm-vs-phi)** ⭐ 35
+- **[hyunwoongko/solar-vs-glm-vs-phi](https://github.com/hyunwoongko/solar-vs-glm-vs-phi)** ⭐ 49
   ![Python](https://img.shields.io/badge/-Python-blue)
   None
 
-- **[T3-Content/claude-blocker](https://github.com/T3-Content/claude-blocker)** ⭐ 23
+- **[T3-Content/claude-blocker](https://github.com/T3-Content/claude-blocker)** ⭐ 36
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   None
 
-- **[QuilibriumNetwork/quorum-mobile](https://github.com/QuilibriumNetwork/quorum-mobile)** ⭐ 17
+- **[yifanzhang-pro/deep-delta-learning](https://github.com/yifanzhang-pro/deep-delta-learning)** ⭐ 29
+  ![None](https://img.shields.io/badge/-None-lightgrey)
+  Official Project Page for "Deep Delta Learning"
+
+- **[QuilibriumNetwork/quorum-mobile](https://github.com/QuilibriumNetwork/quorum-mobile)** ⭐ 20
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   None
 
-- **[sdan/vmux-examples](https://github.com/sdan/vmux-examples)** ⭐ 13
+- **[Jkloeten/WinIconChanger](https://github.com/Jkloeten/WinIconChanger)** ⭐ 17
+  ![None](https://img.shields.io/badge/-None-lightgrey)
+  Very simple tool to change the .ico of any windows binary (.exe)
+
+- **[sdan/vmux-examples](https://github.com/sdan/vmux-examples)** ⭐ 17
   ![Python](https://img.shields.io/badge/-Python-blue)
   Example scripts for vmux - run any command in the cloud
 
-- **[yifanzhang-pro/deep-delta-learning](https://github.com/yifanzhang-pro/deep-delta-learning)** ⭐ 9
-  ![None](https://img.shields.io/badge/-None-lightgrey)
-  Deep Delta Learning
-
-- **[chaosprint/hindsight](https://github.com/chaosprint/hindsight)** ⭐ 7
-  ![Rust](https://img.shields.io/badge/-Rust-brown)
-  GitHub-style git activity visualizer for your terminal.
-
 ### 📈 Weekly Trending
 
-- **[HKUDS/DeepTutor](https://github.com/HKUDS/DeepTutor)** ⭐ 1,349
+- **[HKUDS/DeepTutor](https://github.com/HKUDS/DeepTutor)** ⭐ 1,363
   ![Python](https://img.shields.io/badge/-Python-blue)
   "DeepTutor: AI-Powered Personalized Learning Assistant"
 
-- **[AnmolSaini16/mapcn](https://github.com/AnmolSaini16/mapcn)** ⭐ 888
+- **[AnmolSaini16/mapcn](https://github.com/AnmolSaini16/mapcn)** ⭐ 1,050
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   Beautiful map components. 100% Free, Zero config, one command setup.
 
-- **[buyukakyuz/corroded](https://github.com/buyukakyuz/corroded)** ⭐ 877
+- **[buyukakyuz/corroded](https://github.com/buyukakyuz/corroded)** ⭐ 920
   ![Rust](https://img.shields.io/badge/-Rust-brown)
   Illegal rust
 
-- **[joe-desimone/mongobleed](https://github.com/joe-desimone/mongobleed)** ⭐ 781
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
-  None
-
-- **[heilcheng/awesome-agent-skills](https://github.com/heilcheng/awesome-agent-skills)** ⭐ 643
-  ![None](https://img.shields.io/badge/-None-lightgrey)
-  A curated list of skills, tools, tutorials, and capabilities for AI coding agents (Claude, Codex, Copilot, VS Code)
-
-- **[Tencent-Hunyuan/HY-Motion-1.0](https://github.com/Tencent-Hunyuan/HY-Motion-1.0)** ⭐ 608
+- **[Tencent-Hunyuan/HY-Motion-1.0](https://github.com/Tencent-Hunyuan/HY-Motion-1.0)** ⭐ 798
   ![Python](https://img.shields.io/badge/-Python-blue)
   HY-Motion model for 3D character animation generation. 
 
-- **[op7418/guizang-s-prompt](https://github.com/op7418/guizang-s-prompt)** ⭐ 601
-  ![None](https://img.shields.io/badge/-None-lightgrey)
-  这里是歸藏的提示词储存库，存放着歸藏撰写的所有 AI 模型提示词（This is Guizang's prompt repository, containing all AI model prompts written by Guizang.）
+- **[joe-desimone/mongobleed](https://github.com/joe-desimone/mongobleed)** ⭐ 784
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
+  None
 
-- **[Lulzx/zpdf](https://github.com/Lulzx/zpdf)** ⭐ 577
+- **[heilcheng/awesome-agent-skills](https://github.com/heilcheng/awesome-agent-skills)** ⭐ 698
+  ![None](https://img.shields.io/badge/-None-lightgrey)
+  A curated list of skills, tools, tutorials, and capabilities for AI coding agents (Claude, Codex, Copilot, VS Code)
+
+- **[Lulzx/zpdf](https://github.com/Lulzx/zpdf)** ⭐ 605
   ![Zig](https://img.shields.io/badge/-Zig-lightgrey)
   Zero-copy PDF text extraction library written in Zig. High-performance, memory-mapped parsing with SIMD acceleration.
 
+- **[op7418/guizang-s-prompt](https://github.com/op7418/guizang-s-prompt)** ⭐ 605
+  ![None](https://img.shields.io/badge/-None-lightgrey)
+  这里是歸藏的提示词储存库，存放着歸藏撰写的所有 AI 模型提示词（This is Guizang's prompt repository, containing all AI model prompts written by Guizang.）
+
 ### 📈 Monthly Trending
 
-- **[zai-org/Open-AutoGLM](https://github.com/zai-org/Open-AutoGLM)** ⭐ 20,313
+- **[zai-org/Open-AutoGLM](https://github.com/zai-org/Open-AutoGLM)** ⭐ 20,343
   ![Python](https://img.shields.io/badge/-Python-blue)
   An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
 
-- **[pranshuparmar/witr](https://github.com/pranshuparmar/witr)** ⭐ 7,750
+- **[pranshuparmar/witr](https://github.com/pranshuparmar/witr)** ⭐ 7,978
   ![Go](https://img.shields.io/badge/-Go-cyan)
   Why is this running?
 
-- **[apple/ml-sharp](https://github.com/apple/ml-sharp)** ⭐ 6,286
+- **[apple/ml-sharp](https://github.com/apple/ml-sharp)** ⭐ 6,296
   ![Python](https://img.shields.io/badge/-Python-blue)
   Sharp Monocular View Synthesis in Less Than a Second
 
-- **[muratcankoylan/Agent-Skills-for-Context-Engineering](https://github.com/muratcankoylan/Agent-Skills-for-Context-Engineering)** ⭐ 5,014
+- **[muratcankoylan/Agent-Skills-for-Context-Engineering](https://github.com/muratcankoylan/Agent-Skills-for-Context-Engineering)** ⭐ 5,056
   ![Python](https://img.shields.io/badge/-Python-blue)
   A comprehensive collection of Agent Skills for context engineering, multi-agent architectures, and production agent systems. Use when building, optimizing, or debugging agent systems that require effective context management.
 
-- **[bellard/mquickjs](https://github.com/bellard/mquickjs)** ⭐ 4,865
+- **[bellard/mquickjs](https://github.com/bellard/mquickjs)** ⭐ 4,875
   ![C](https://img.shields.io/badge/-C-lightgrey)
   Public repository of the Micro QuickJS Javascript Engine
 
-- **[AndyMik90/Auto-Claude](https://github.com/AndyMik90/Auto-Claude)** ⭐ 4,530
+- **[AndyMik90/Auto-Claude](https://github.com/AndyMik90/Auto-Claude)** ⭐ 4,658
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   Autonomous multi-session AI coding
 
-- **[code-yeongyu/oh-my-opencode](https://github.com/code-yeongyu/oh-my-opencode)** ⭐ 4,407
-  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
-  #1 OpenCode Plugin- Battery included. ASYNC SUBAGENTS (YES LIKE CLAUDE CODE) · Curated agents with proper models · Crafted tools like LSP/AST included · Curated MCPs · Claude Code Compatible Layer — Steroids for your OpenCode. The Best LLM Agent Experience is Here.
-
-- **[2025Emma/vibe-coding-cn](https://github.com/2025Emma/vibe-coding-cn)** ⭐ 4,395
+- **[2025Emma/vibe-coding-cn](https://github.com/2025Emma/vibe-coding-cn)** ⭐ 4,471
   ![Python](https://img.shields.io/badge/-Python-blue)
   None
+
+- **[code-yeongyu/oh-my-opencode](https://github.com/code-yeongyu/oh-my-opencode)** ⭐ 4,458
+  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
+  #1 OpenCode Plugin- Battery included. ASYNC SUBAGENTS (YES LIKE CLAUDE CODE) · Curated agents with proper models · Crafted tools like LSP/AST included · Curated MCPs · Claude Code Compatible Layer — Steroids for your OpenCode. The Best LLM Agent Experience is Here.
 
 ## 🚀 Latest Releases
 
@@ -483,59 +495,59 @@ for a semver-minor rele...
 
 | Skill | Status |
 |-------|--------|
-| Java | 🟢 Proficient |
+| Java | ⚪ Planned |
 | Python | ⚪ Planned |
-| JavaScript | 🟢 Proficient |
+| JavaScript | ⚪ Planned |
 | TypeScript | 🟡 Learning |
-| Go | ⚪ Planned |
+| Go | 🔴 Beginner |
 
 ### Frameworks
 
 | Skill | Status |
 |-------|--------|
-| React | 🔴 Beginner |
-| Spring Boot | 🟢 Proficient |
-| Django | ⚪ Planned |
+| React | ⚪ Planned |
+| Spring Boot | ⚪ Planned |
+| Django | 🔴 Beginner |
 | Node.js | 🟡 Learning |
-| Next.js | 🔴 Beginner |
+| Next.js | 🟡 Learning |
 
 ### Cybersecurity
 
 | Skill | Status |
 |-------|--------|
-| Penetration Testing | 🟢 Proficient |
+| Penetration Testing | 🔴 Beginner |
 | Web Security | 🟡 Learning |
-| Network Security | 🟡 Learning |
-| OWASP | 🔴 Beginner |
+| Network Security | 🟢 Proficient |
+| OWASP | ⚪ Planned |
 
 ### Ai Ml
 
 | Skill | Status |
 |-------|--------|
-| Machine Learning | 🟢 Proficient |
-| Deep Learning | 🟢 Proficient |
+| Machine Learning | 🟡 Learning |
+| Deep Learning | 🟡 Learning |
 | NLP | ⚪ Planned |
 | Computer Vision | 🟢 Proficient |
-| TensorFlow | 🔴 Beginner |
+| TensorFlow | 🟢 Proficient |
 | PyTorch | ⚪ Planned |
 
 ### Devops
 
 | Skill | Status |
 |-------|--------|
-| Docker | 🔴 Beginner |
+| Docker | 🟡 Learning |
 | Kubernetes | 🟡 Learning |
-| CI/CD | 🔴 Beginner |
-| AWS | 🟡 Learning |
-| Azure | 🔴 Beginner |
+| CI/CD | ⚪ Planned |
+| AWS | ⚪ Planned |
+| Azure | 🟡 Learning |
 
 ### Other
 
 | Skill | Status |
 |-------|--------|
-| Blockchain | 🟢 Proficient |
-| Web3 | 🔴 Beginner |
-| Cloud Computing | 🔴 Beginner |
+| Blockchain | 🟡 Learning |
+| Web3 | 🟢 Proficient |
+| Cloud Computing | ⚪ Planned |
 
 </details>
 
