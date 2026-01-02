@@ -46,34 +46,34 @@
 
 ### 📑 Hacker News
 
-- **[Why Prefer Textfiles? (2010)](http://textfiles.com/uploads/textfiles.txt)**
-  *<p>Article URL: <a href="http://textfiles.com/uploads/textfiles.txt">http://textfiles.com/uploads/textfiles.txt</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46459425">https:/...*
-  📅 Thu, 01 Jan 2026 23:33:09 +0000
+- **[A confession from a mainstream food delivery app engineer](https://www.reddit.com/r/confession/s/gbrh2zxeou)**
+  *<p>Article URL: <a href="https://www.reddit.com/r/confession/s/gbrh2zxeou">https://www.reddit.com/r/confession/s/gbrh2zxeou</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46461...*
+  📅 Fri, 02 Jan 2026 05:00:25 +0000
 
-- **[WebAssembly as a Python Extension Platform](https://nullprogram.com/blog/2026/01/01/)**
-  *<p>Article URL: <a href="https://nullprogram.com/blog/2026/01/01/">https://nullprogram.com/blog/2026/01/01/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46458624">https://new...*
-  📅 Thu, 01 Jan 2026 22:09:16 +0000
+- **[I'm a developer for a major food delivery app](https://old.reddit.com/r/confession/comments/1q1mzej/im_a_developer_for_a_major_food_delivery_app_the/)**
+  *<p>Article URL: <a href="https://old.reddit.com/r/confession/comments/1q1mzej/im_a_developer_for_a_major_food_delivery_app_the/">https://old.reddit.com/r/confession/comments/1q1mzej/im_a_developer_for...*
+  📅 Fri, 02 Jan 2026 04:57:25 +0000
 
-- **[Can Bundler be as fast as uv?](https://tenderlovemaking.com/2025/12/29/can-bundler-be-as-fast-as-uv/)**
-  *<p>Article URL: <a href="https://tenderlovemaking.com/2025/12/29/can-bundler-be-as-fast-as-uv/">https://tenderlovemaking.com/2025/12/29/can-bundler-be-as-fast-as-uv/</a></p>
-<p>Comments URL: <a href="...*
-  📅 Thu, 01 Jan 2026 21:37:10 +0000
+- **[Marmot – A distributed SQLite server with MySQL wire compatible interface](https://github.com/maxpert/marmot)**
+  *<p>Article URL: <a href="https://github.com/maxpert/marmot">https://github.com/maxpert/marmot</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46460676">https://news.ycombinator....*
+  📅 Fri, 02 Jan 2026 02:21:57 +0000
 
-- **[A silly diffuse shading model](https://lisyarus.github.io/blog/posts/a-silly-diffuse-shading-model.html)**
-  *<p>Article URL: <a href="https://lisyarus.github.io/blog/posts/a-silly-diffuse-shading-model.html">https://lisyarus.github.io/blog/posts/a-silly-diffuse-shading-model.html</a></p>
-<p>Comments URL: <a ...*
-  📅 Thu, 01 Jan 2026 21:26:49 +0000
+- **[Happy Public Domain Day 2026](https://publicdomainreview.org/blog/2026/01/public-domain-day-2026/)**
+  *<p>Article URL: <a href="https://publicdomainreview.org/blog/2026/01/public-domain-day-2026/">https://publicdomainreview.org/blog/2026/01/public-domain-day-2026/</a></p>
+<p>Comments URL: <a href="http...*
+  📅 Fri, 02 Jan 2026 01:42:16 +0000
 
-- **[Straussian Memes](https://www.lesswrong.com/posts/CAwnnKoFdcQucq4hG/straussian-memes-a-lens-on-techniques-for-mass-persuasion)**
-  *<p>Article URL: <a href="https://www.lesswrong.com/posts/CAwnnKoFdcQucq4hG/straussian-memes-a-lens-on-techniques-for-mass-persuasion">https://www.lesswrong.com/posts/CAwnnKoFdcQucq4hG/straussian-memes...*
-  📅 Thu, 01 Jan 2026 21:24:39 +0000
+- **[Extensibility: The "100% Lisp" Fallacy](https://kyo.iroiro.party/en/posts/100-percent-lisp/)**
+  *<p>Article URL: <a href="https://kyo.iroiro.party/en/posts/100-percent-lisp/">https://kyo.iroiro.party/en/posts/100-percent-lisp/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id...*
+  📅 Fri, 02 Jan 2026 01:36:25 +0000
 
-- **[A website to destroy all websites](https://henry.codes/writing/a-website-to-destroy-all-websites/)**
-  *<p>Article URL: <a href="https://henry.codes/writing/a-website-to-destroy-all-websites/">https://henry.codes/writing/a-website-to-destroy-all-websites/</a></p>
-<p>Comments URL: <a href="https://news.y...*
-  📅 Thu, 01 Jan 2026 20:36:46 +0000
+- **[Why users cannot create Issues directly](https://github.com/ghostty-org/ghostty/issues/3558)**
+  *<p>Article URL: <a href="https://github.com/ghostty-org/ghostty/issues/3558">https://github.com/ghostty-org/ghostty/issues/3558</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=4...*
+  📅 Fri, 02 Jan 2026 01:24:51 +0000
 
 ### 📑 TechCrunch
 
@@ -103,21 +103,23 @@
 
 ### 📑 Dev.to
 
-- **[Designing Around External API Assumptions: A Lesson from a Free Exchange Rate API](https://dev.to/kskiii/designing-around-external-api-assumptions-a-lesson-from-a-free-exchange-rate-api-38jn)**
-  *<p>I developed and deployed an application called YenUp, which compares today's exchange rate with yesterday's and sends a notification based on the result. To keep the project simple and free, I used...*
-  📅 Fri, 02 Jan 2026 01:01:23 +0000
+- **[Crypto Regulation 101 — SEC, MiCA & What Builders Should Actually Care About](https://dev.to/ribhavmodi/crypto-regulation-101-sec-mica-what-builders-should-actually-care-about-4bg2)**
+  *<p>Wishing you a very happy, healthy, and opportunity-filled New Year 2026 🎉 thanks for being part of this 60 Days of Web3 journey!</p>
 
-- **[How to set up Stash as a Windows service](https://dev.to/jdrch/how-to-set-up-stash-as-a-windows-service-ifd)**
-  *<h1>
+<p>Crypto regulation is one of those topics everyone retweets… ...*
+  📅 Fri, 02 Jan 2026 06:16:20 +0000
+
+- **[CleanCloud v0.4.0: How We Made Cloud Hygiene Scanning 10x Faster (With Benchmarks) published: true](https://dev.to/sureshmandalapu/cleancloud-v040-how-we-made-cloud-hygiene-scanning-10x-faster-with-benchmarkspublished-true-4png)**
+  *<p>I just shipped CleanCloud v0.4.0 with major performance improvements through parallel scanning. Here's how we did it.</p>
+
+<h2>
   
   
-  Note
-</h1>
+  What's CleanCloud?
+</h2>
 
-<p>There are quite a few packages out there called Stash. This guide is for this <a href="https://stashapp.cc/" rel="noopener noreferrer">Stash</a>.</p>
-
-<p>Stash is provided ...*
-  📅 Fri, 02 Jan 2026 00:55:19 +0000
+<p>If you missed the <a href="https...*
+  📅 Fri, 02 Jan 2026 06:15:44 +0000
 
 </details>
 
@@ -125,103 +127,103 @@
 
 ### 📈 Daily Trending
 
-- **[KevenS-hub/Estudos-SQL](https://github.com/KevenS-hub/Estudos-SQL)** ⭐ 1
+- **[fdhhhdjd/AI-Text-To-SQL](https://github.com/fdhhhdjd/AI-Text-To-SQL)** ⭐ 8
   ![None](https://img.shields.io/badge/-None-lightgrey)
-  Estudos práticos de Análise de Dados envolvendo a linguagem SQL e databases para exploração.
+  🚀 Transform plain Vietnamese into powerful SQL queries with AI. This tool allows you to interact with your PostgreSQL database using everyday language—no SQL expertise required.
 
-- **[NourNagah/Pokemon-app](https://github.com/NourNagah/Pokemon-app)** ⭐ 1
-  ![None](https://img.shields.io/badge/-None-lightgrey)
-  None
-
-- **[jalmirtorquato/kamycats-projeto](https://github.com/jalmirtorquato/kamycats-projeto)** ⭐ 1
-  ![CSS](https://img.shields.io/badge/-CSS-lightgrey)
-  None
-
-- **[mase1981/uc-intg-nadav](https://github.com/mase1981/uc-intg-nadav)** ⭐ 1
-  ![None](https://img.shields.io/badge/-None-lightgrey)
-  None
-
-- **[SolanaRemix/CuberAi](https://github.com/SolanaRemix/CuberAi)** ⭐ 1
-  ![None](https://img.shields.io/badge/-None-lightgrey)
-  CuberAi
-
-- **[deybi-code/repo-Piedra-Papel-Tijera---Juego-IA](https://github.com/deybi-code/repo-Piedra-Papel-Tijera---Juego-IA)** ⭐ 1
+- **[putkarsh81/ML-project](https://github.com/putkarsh81/ML-project)** ⭐ 6
   ![Python](https://img.shields.io/badge/-Python-blue)
-  Proyecto personal para organizar y dar seguimiento al desarrollo de un juego de escritorio en Python (Piedra, Papel o Tijera vs IA).
-
-- **[hd5765028-dotcom/Gagacheema867-gmailcom](https://github.com/hd5765028-dotcom/Gagacheema867-gmailcom)** ⭐ 1
-  ![None](https://img.shields.io/badge/-None-lightgrey)
   None
 
-- **[Eleandro1302/SkyCat-AI](https://github.com/Eleandro1302/SkyCat-AI)** ⭐ 1
-  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
-  A modern, dynamic weather application featuring hyperlocal forecasts, interactive radar simulation, severe weather alerts, and AI-powered weather insights using Gemini.
+- **[wshuyi/research-to-diagram](https://github.com/wshuyi/research-to-diagram)** ⭐ 4
+  ![Shell](https://img.shields.io/badge/-Shell-lightgrey)
+  Deep research and auto-generate knowledge relationship diagrams in PDF. From research to visualization in one tool. 深度调研并自动生成知识关系图谱PDF。
+
+- **[sayakmukherjee080/SmolOrchestrator](https://github.com/sayakmukherjee080/SmolOrchestrator)** ⭐ 3
+  ![PHP](https://img.shields.io/badge/-PHP-lightgrey)
+  None
+
+- **[snehakundu00/Student-wellness](https://github.com/snehakundu00/Student-wellness)** ⭐ 3
+  ![Jupyter Notebook](https://img.shields.io/badge/-Jupyter Notebook-lightgrey)
+  None
+
+- **[Dennesssy/claudeAnon](https://github.com/Dennesssy/claudeAnon)** ⭐ 2
+  ![Shell](https://img.shields.io/badge/-Shell-lightgrey)
+  Run Claude Code with Anthropic API but hide your email from the header
+
+- **[h4rl0/Mediarr](https://github.com/h4rl0/Mediarr)** ⭐ 2
+  ![None](https://img.shields.io/badge/-None-lightgrey)
+  Sonarr, Radarr, Prowlarr and Bazarr Docker Compose
+
+- **[Fanju6/Proxylink](https://github.com/Fanju6/Proxylink)** ⭐ 2
+  ![Go](https://img.shields.io/badge/-Go-cyan)
+  将 Xray 的节点链接解析用 Go 语言实现。
 
 ### 📈 Weekly Trending
 
-- **[AnmolSaini16/mapcn](https://github.com/AnmolSaini16/mapcn)** ⭐ 1,442
+- **[AnmolSaini16/mapcn](https://github.com/AnmolSaini16/mapcn)** ⭐ 1,656
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   Beautiful map components. 100% Free, Zero config, one command setup.
 
-- **[HKUDS/DeepTutor](https://github.com/HKUDS/DeepTutor)** ⭐ 1,370
+- **[HKUDS/DeepTutor](https://github.com/HKUDS/DeepTutor)** ⭐ 1,383
   ![Python](https://img.shields.io/badge/-Python-blue)
   "DeepTutor: AI-Powered Personalized Learning Assistant"
 
-- **[buyukakyuz/corroded](https://github.com/buyukakyuz/corroded)** ⭐ 955
-  ![Rust](https://img.shields.io/badge/-Rust-brown)
-  Illegal rust
-
-- **[Tencent-Hunyuan/HY-Motion-1.0](https://github.com/Tencent-Hunyuan/HY-Motion-1.0)** ⭐ 948
+- **[Tencent-Hunyuan/HY-Motion-1.0](https://github.com/Tencent-Hunyuan/HY-Motion-1.0)** ⭐ 1,097
   ![Python](https://img.shields.io/badge/-Python-blue)
   HY-Motion model for 3D character animation generation. 
 
-- **[heilcheng/awesome-agent-skills](https://github.com/heilcheng/awesome-agent-skills)** ⭐ 741
+- **[buyukakyuz/corroded](https://github.com/buyukakyuz/corroded)** ⭐ 981
+  ![Rust](https://img.shields.io/badge/-Rust-brown)
+  Illegal rust
+
+- **[heilcheng/awesome-agent-skills](https://github.com/heilcheng/awesome-agent-skills)** ⭐ 758
   ![None](https://img.shields.io/badge/-None-lightgrey)
   A curated list of skills, tools, tutorials, and capabilities for AI coding agents (Claude, Codex, Copilot, VS Code)
 
-- **[Lulzx/zpdf](https://github.com/Lulzx/zpdf)** ⭐ 628
+- **[Lulzx/zpdf](https://github.com/Lulzx/zpdf)** ⭐ 638
   ![Zig](https://img.shields.io/badge/-Zig-lightgrey)
   Zero-copy PDF text extraction library written in Zig. High-performance, memory-mapped parsing with SIMD acceleration.
 
-- **[op7418/guizang-s-prompt](https://github.com/op7418/guizang-s-prompt)** ⭐ 605
+- **[op7418/guizang-s-prompt](https://github.com/op7418/guizang-s-prompt)** ⭐ 610
   ![None](https://img.shields.io/badge/-None-lightgrey)
   这里是歸藏的提示词储存库，存放着歸藏撰写的所有 AI 模型提示词（This is Guizang's prompt repository, containing all AI model prompts written by Guizang.）
 
-- **[technomancer702/nodecast-tv](https://github.com/technomancer702/nodecast-tv)** ⭐ 539
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
-  A self-hosted web application that lets you stream Live TV, Movies, and Series from your Xtream Codes or M3U provider directly in your browser. It's built with performance in mind and handles large libraries smoothly.
-
-### 📈 Monthly Trending
-
-- **[zai-org/Open-AutoGLM](https://github.com/zai-org/Open-AutoGLM)** ⭐ 20,355
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
-
-- **[pranshuparmar/witr](https://github.com/pranshuparmar/witr)** ⭐ 8,377
-  ![Go](https://img.shields.io/badge/-Go-cyan)
-  Why is this running?
-
-- **[apple/ml-sharp](https://github.com/apple/ml-sharp)** ⭐ 6,299
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  Sharp Monocular View Synthesis in Less Than a Second
-
-- **[muratcankoylan/Agent-Skills-for-Context-Engineering](https://github.com/muratcankoylan/Agent-Skills-for-Context-Engineering)** ⭐ 5,085
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  A comprehensive collection of Agent Skills for context engineering, multi-agent architectures, and production agent systems. Use when building, optimizing, or debugging agent systems that require effective context management.
-
-- **[bellard/mquickjs](https://github.com/bellard/mquickjs)** ⭐ 4,880
-  ![C](https://img.shields.io/badge/-C-lightgrey)
-  Public repository of the Micro QuickJS Javascript Engine
-
-- **[AndyMik90/Auto-Claude](https://github.com/AndyMik90/Auto-Claude)** ⭐ 4,783
-  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
-  Autonomous multi-session AI coding
-
-- **[2025Emma/vibe-coding-cn](https://github.com/2025Emma/vibe-coding-cn)** ⭐ 4,491
+- **[IQuestLab/IQuest-Coder-V1](https://github.com/IQuestLab/IQuest-Coder-V1)** ⭐ 559
   ![Python](https://img.shields.io/badge/-Python-blue)
   None
 
-- **[gommzystudio/device-activity-tracker](https://github.com/gommzystudio/device-activity-tracker)** ⭐ 4,164
+### 📈 Monthly Trending
+
+- **[zai-org/Open-AutoGLM](https://github.com/zai-org/Open-AutoGLM)** ⭐ 20,373
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
+
+- **[pranshuparmar/witr](https://github.com/pranshuparmar/witr)** ⭐ 8,610
+  ![Go](https://img.shields.io/badge/-Go-cyan)
+  Why is this running?
+
+- **[apple/ml-sharp](https://github.com/apple/ml-sharp)** ⭐ 6,309
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  Sharp Monocular View Synthesis in Less Than a Second
+
+- **[muratcankoylan/Agent-Skills-for-Context-Engineering](https://github.com/muratcankoylan/Agent-Skills-for-Context-Engineering)** ⭐ 5,116
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  A comprehensive collection of Agent Skills for context engineering, multi-agent architectures, and production agent systems. Use when building, optimizing, or debugging agent systems that require effective context management.
+
+- **[bellard/mquickjs](https://github.com/bellard/mquickjs)** ⭐ 4,884
+  ![C](https://img.shields.io/badge/-C-lightgrey)
+  Public repository of the Micro QuickJS Javascript Engine
+
+- **[AndyMik90/Auto-Claude](https://github.com/AndyMik90/Auto-Claude)** ⭐ 4,847
+  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
+  Autonomous multi-session AI coding
+
+- **[2025Emma/vibe-coding-cn](https://github.com/2025Emma/vibe-coding-cn)** ⭐ 4,564
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  None
+
+- **[gommzystudio/device-activity-tracker](https://github.com/gommzystudio/device-activity-tracker)** ⭐ 4,168
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   A phone number can reveal whether a device is active, in standby or offline (and more). This PoC demonstrates how delivery receipts + RTT timing leak sensitive device-activity patterns. (WhatsApp / Signal)
 
@@ -487,59 +489,59 @@ for a semver-minor rele...
 
 | Skill | Status |
 |-------|--------|
-| Java | ⚪ Planned |
-| Python | 🟢 Proficient |
-| JavaScript | 🟡 Learning |
-| TypeScript | ⚪ Planned |
+| Java | 🟡 Learning |
+| Python | 🔴 Beginner |
+| JavaScript | 🔴 Beginner |
+| TypeScript | 🟡 Learning |
 | Go | 🟡 Learning |
 
 ### Frameworks
 
 | Skill | Status |
 |-------|--------|
-| React | ⚪ Planned |
-| Spring Boot | 🟡 Learning |
+| React | 🟡 Learning |
+| Spring Boot | ⚪ Planned |
 | Django | 🔴 Beginner |
 | Node.js | ⚪ Planned |
-| Next.js | 🟢 Proficient |
+| Next.js | 🟡 Learning |
 
 ### Cybersecurity
 
 | Skill | Status |
 |-------|--------|
-| Penetration Testing | 🟢 Proficient |
+| Penetration Testing | 🟡 Learning |
 | Web Security | 🟢 Proficient |
-| Network Security | 🟢 Proficient |
-| OWASP | 🟡 Learning |
+| Network Security | ⚪ Planned |
+| OWASP | 🟢 Proficient |
 
 ### Ai Ml
 
 | Skill | Status |
 |-------|--------|
 | Machine Learning | ⚪ Planned |
-| Deep Learning | ⚪ Planned |
-| NLP | ⚪ Planned |
+| Deep Learning | 🔴 Beginner |
+| NLP | 🔴 Beginner |
 | Computer Vision | ⚪ Planned |
-| TensorFlow | 🔴 Beginner |
-| PyTorch | 🟢 Proficient |
+| TensorFlow | 🟢 Proficient |
+| PyTorch | 🔴 Beginner |
 
 ### Devops
 
 | Skill | Status |
 |-------|--------|
-| Docker | 🟡 Learning |
+| Docker | ⚪ Planned |
 | Kubernetes | ⚪ Planned |
-| CI/CD | 🟡 Learning |
-| AWS | 🟡 Learning |
-| Azure | ⚪ Planned |
+| CI/CD | ⚪ Planned |
+| AWS | ⚪ Planned |
+| Azure | 🟡 Learning |
 
 ### Other
 
 | Skill | Status |
 |-------|--------|
-| Blockchain | ⚪ Planned |
-| Web3 | 🟢 Proficient |
-| Cloud Computing | 🟢 Proficient |
+| Blockchain | 🟢 Proficient |
+| Web3 | 🔴 Beginner |
+| Cloud Computing | 🔴 Beginner |
 
 </details>
 
