@@ -46,35 +46,42 @@
 
 ### 📑 Hacker News
 
-- **[Why the trans flag emoji is the 5-codepoint sequence it is](https://hecate.pink/blog/2026/trans-flag-emoji/)**
-  *<p>Article URL: <a href="https://hecate.pink/blog/2026/trans-flag-emoji/">https://hecate.pink/blog/2026/trans-flag-emoji/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=4652087...*
-  📅 Wed, 07 Jan 2026 00:22:06 +0000
+- **[On the slow death of scaling](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5877662)**
+  *<p>pdf: <a href="https://download.ssrn.com/2026/1/6/5877662.pdf?response-content-disposition=inline&amp;X-Amz-Security-Token=IQoJb3JpZ2luX2VjEKT%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLWVhc3QtMSJIMEYCIQC...*
+  📅 Wed, 07 Jan 2026 03:48:05 +0000
 
-- **[Space Forge plans to manufacture semiconductors from space](https://www.scientificamerican.com/article/the-push-to-make-semiconductors-in-space-just-took-a-serious-leap-forward/)**
-  *<p>Article URL: <a href="https://www.scientificamerican.com/article/the-push-to-make-semiconductors-in-space-just-took-a-serious-leap-forward/">https://www.scientificamerican.com/article/the-push-to-m...*
-  📅 Wed, 07 Jan 2026 00:06:34 +0000
+- **[Microsoft probably killed my Snapdragon Dev Kit](https://jasoneckert.github.io/myblog/how-microsoft-killed-my-snapdragon-devkit/)**
+  *<p>Article URL: <a href="https://jasoneckert.github.io/myblog/how-microsoft-killed-my-snapdragon-devkit/">https://jasoneckert.github.io/myblog/how-microsoft-killed-my-snapdragon-devkit/</a></p>
+<p>Com...*
+  📅 Wed, 07 Jan 2026 02:37:09 +0000
 
-- **[Vulnerability in Ruby that has existed since 2002](https://nastystereo.com/security/ruby-pack.html)**
-  *<p>Article URL: <a href="https://nastystereo.com/security/ruby-pack.html">https://nastystereo.com/security/ruby-pack.html</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=4652056...*
-  📅 Tue, 06 Jan 2026 23:46:24 +0000
+- **[PassSeeds – hijacking Passkeys to unlock new cryptographic use cases](https://backalleycoder.com/posts/passseeds-an-experiment-in-hijacking-passkeys-to-unlock-cryptographic-use-cases/)**
+  *<p>Article URL: <a href="https://backalleycoder.com/posts/passseeds-an-experiment-in-hijacking-passkeys-to-unlock-cryptographic-use-cases/">https://backalleycoder.com/posts/passseeds-an-experiment-in-...*
+  📅 Wed, 07 Jan 2026 00:50:58 +0000
 
-- **[Hyundai Introduces Its Next-Gen Atlas Robot at CES 2026 [video]](https://www.youtube.com/watch?v=9e0SQn9uUlw)**
-  *<p>Article URL: <a href="https://www.youtube.com/watch?v=9e0SQn9uUlw">https://www.youtube.com/watch?v=9e0SQn9uUlw</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46520508">https...*
-  📅 Tue, 06 Jan 2026 23:40:03 +0000
+- **[We recreated Steve Jobs's 1975 Atari horoscope program](https://blog.adafruit.com/2026/01/06/we-recreated-steve-jobss-1975-atari-horoscope-program-and-you-can-run-it/)**
+  *<p>Article URL: <a href="https://blog.adafruit.com/2026/01/06/we-recreated-steve-jobss-1975-atari-horoscope-program-and-you-can-run-it/">https://blog.adafruit.com/2026/01/06/we-recreated-steve-jobss-1...*
+  📅 Wed, 07 Jan 2026 00:44:43 +0000
 
-- **[Show HN: GPU Cuckoo Filter – faster queries than Blocked Bloom, with deletion](https://github.com/tdortman/cuckoo-filter)**
-  *<p>Article URL: <a href="https://github.com/tdortman/cuckoo-filter">https://github.com/tdortman/cuckoo-filter</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46519771">https://n...*
-  📅 Tue, 06 Jan 2026 22:33:21 +0000
+- **[Electronic nose for indoor mold detection and identification](https://advanced.onlinelibrary.wiley.com/doi/10.1002/adsr.202500124)**
+  *<p>Article URL: <a href="https://advanced.onlinelibrary.wiley.com/doi/10.1002/adsr.202500124">https://advanced.onlinelibrary.wiley.com/doi/10.1002/adsr.202500124</a></p>
+<p>Comments URL: <a href="http...*
+  📅 Wed, 07 Jan 2026 00:31:01 +0000
 
-- **[Are we tired of social media once and for all? On the downfall of social media](https://www.danielbrendel.com/blog/24-are-we-tired-of-social-media-once-and-for-all)**
-  *<p>Article URL: <a href="https://www.danielbrendel.com/blog/24-are-we-tired-of-social-media-once-and-for-all">https://www.danielbrendel.com/blog/24-are-we-tired-of-social-media-once-and-for-all</a></p...*
-  📅 Tue, 06 Jan 2026 22:15:52 +0000
+- **[Show HN: SMTP Tunnel – A SOCKS5 proxy disguised as email traffic to bypass DPI](https://github.com/x011/smtp-tunnel-proxy)**
+  *<p>A fast SOCKS5 proxy that tunnels your traffic through what looks like normal SMTP email, bypassing Deep Packet Inspection firewalls.<p>How it works:
+- Client runs a local SOCKS5 proxy (127.0.0.1:10...*
+  📅 Wed, 07 Jan 2026 00:30:09 +0000
 
 ### 📑 TechCrunch
+
+- **[McKinsey and General Catalyst execs say the era of ‘learn once, work forever’ is over](https://techcrunch.com/2026/01/06/mckinsey-and-general-catalyst-execs-say-the-era-of-learn-once-work-forever-is-over/)**
+  *Calacanis, General Catalyst's Taneja, and McKinsey's Sternfels discussed how AI is reshaping technology and the labor force....*
+  📅 Wed, 07 Jan 2026 03:09:04 +0000
+
+- **[Meta’s Manus news is getting different receptions in Washington and Beijing](https://techcrunch.com/2026/01/06/metas-manus-news-is-getting-different-receptions-in-washington-and-beijing/)**
+  *Chinese officials are reportedly reviewing whether the Meta deal violates technology export controls, potentially giving Beijing leverage it wasn't initially perceived as having....*
+  📅 Wed, 07 Jan 2026 02:52:57 +0000
 
 - **[CES 2026: Everything revealed, from Nvidia’s debuts to AMD’s new chips to Razer’s AI oddities](https://techcrunch.com/2026/01/06/ces-2026-everything-revealed-from-nvidias-debuts-to-amds-new-chips-to-razers-ai-oddities/)**
   *CES 2026&#160;is in full swing in Las Vegas, with the show floor open to the public after a packed couple of days&#160;occupied by&#160;press conferences from the likes of Nvidia, Sony, and AMD&#160;a...*
@@ -92,37 +99,19 @@
   *Mentee Robotics was co-founded by Mobileye president Amnon Shashua....*
   📅 Tue, 06 Jan 2026 21:10:00 +0000
 
-- **[xAI says it raised $20B in Series E funding](https://techcrunch.com/2026/01/06/xai-says-it-raised-20b-in-series-e-funding/)**
-  *Nvidia is among the many investors, but xAI has not disclosed if these investments come in the form of equity or debt....*
-  📅 Tue, 06 Jan 2026 20:57:16 +0000
-
-- **[California lawmaker proposes a four-year ban on AI chatbots in kids’ toys](https://techcrunch.com/2026/01/06/california-lawmaker-proposes-a-four-year-ban-on-ai-chatbots-in-kids-toys/)**
-  *“Our children cannot be used as lab rats for Big Tech to experiment on,” Senator Steve Padilla said. He just introduced a bill to ban AI chatbots in toys until safety regulations are developed....*
-  📅 Tue, 06 Jan 2026 20:22:21 +0000
-
 ### 📑 Dev.to
 
-- **[Dependency Tracking Fundamentals (I)](https://dev.to/luciano0322/dependency-tracking-fundamentals-i-1bm4)**
-  *<h1>
-  
-  
-  What Is Dependency Tracking?
-</h1>
+- **[Why a Modern Master Test Plan is Your Team’s Secret Weapon](https://dev.to/nishikr/why-a-modern-master-test-plan-is-your-teams-secret-weapon-1noj)**
+  *<p>In my QA experience, I believe what a project should have to succeed is "alignment."</p>
 
-<p>Dependency Tracking is a technique used to automatically collect and record relationships between pieces of data. It allows the system to precisely ...*
-  📅 Wed, 07 Jan 2026 00:39:55 +0000
+<p>When people hear “Master Test Plan,” they often imagine a dry, static and templated document. In reality...*
+  📅 Wed, 07 Jan 2026 06:12:20 +0000
 
-- **[AI Trading: Lesson Learned #105: Post-Trade RAG Sync Was Missing](https://dev.to/igorganapolsky/ai-trading-lesson-learned-105-post-trade-rag-sync-was-missing-3acb)**
-  *<h1>
-  
-  
-  Lesson Learned #105: Post-Trade RAG Sync Was Missing
-</h1>
+- **[Python Multi-Currency Quantitative Strategy Framework: Design Concepts and Implementation Details](https://dev.to/chronosquant/python-multi-currency-quantitative-strategy-framework-design-concepts-and-implementation-details-53eo)**
+  *<p><strong>Introduction</strong></p>
 
-<p><strong>Date</strong>: January 7, 2026<br />
-<strong>Severity</strong>: HIGH<br />
-<strong>Category</strong>: <code>data-int...*
-  📅 Wed, 07 Jan 2026 00:17:54 +0000
+<p>Recently, users have left comments in Teacher Xiaocao's article "How to Quickly Build Universal Multi-Currency Trading Strategies After FMZ Upgrade" requesting...*
+  📅 Wed, 07 Jan 2026 06:09:33 +0000
 
 </details>
 
@@ -130,103 +119,103 @@
 
 ### 📈 Daily Trending
 
-- **[Trinhvhao/TTDN-16-05-N5](https://github.com/Trinhvhao/TTDN-16-05-N5)** ⭐ 12
+- **[Trinhvhao/TTDN-16-05-N5](https://github.com/Trinhvhao/TTDN-16-05-N5)** ⭐ 48
   ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
   Bài tập lớn học phần Thực tập doanh nghiệp - Nhóm 5 - Lớp CNTT 16-05 - Khoa Công nghệ thông tin - Đại học Đại Nam
 
-- **[bbikem/TTDN-16-05-N1](https://github.com/bbikem/TTDN-16-05-N1)** ⭐ 8
+- **[Nemmer772004/TTDN-16-05-N4](https://github.com/Nemmer772004/TTDN-16-05-N4)** ⭐ 25
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
+  Bài tập lớn học phần Thực tập doanh nghiệp - Nhóm 4 - Lớp CNTT 16-05 - Khoa Công nghệ thông tin - Đại học Đại Nam
+
+- **[bbikem/TTDN-16-05-N1](https://github.com/bbikem/TTDN-16-05-N1)** ⭐ 21
   ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
   Bài tập lớn học phần Thực tập doanh nghiệp - Nhóm 1 - Lớp CNTT 16-05 - Khoa Công nghệ thông tin - Đại học Đại Nam
 
-- **[RevenueCat/compose-paywall-animations](https://github.com/RevenueCat/compose-paywall-animations)** ⭐ 3
+- **[RevenueCat/compose-paywall-animations](https://github.com/RevenueCat/compose-paywall-animations)** ⭐ 20
   ![Kotlin](https://img.shields.io/badge/-Kotlin-lightgrey)
   🎄 Jetpack Compose project showcasing animations that are built 100% entirely with Jetpack Compose (KMP supports) to inspire your paywalls.
 
-- **[Luan-Garcia/PTES-Field-Manual](https://github.com/Luan-Garcia/PTES-Field-Manual)** ⭐ 1
-  ![None](https://img.shields.io/badge/-None-lightgrey)
-  A comprehensive guide combining the PTES methodology with custom tools and exploit development.
+- **[phuonganh29-12/TTDN-16-05-N9](https://github.com/phuonganh29-12/TTDN-16-05-N9)** ⭐ 17
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
+  Bài tập lớn học phần Thực tập doanh nghiệp - Nhóm 9 - Lớp CNTT 16-05 - Khoa Công nghệ thông tin - Đại học Đại Nam
 
-- **[anumjavedd/User-Management-Web-Application-ASP.NET-Web-Forms-Bootstrap-Master-Class-](https://github.com/anumjavedd/User-Management-Web-Application-ASP.NET-Web-Forms-Bootstrap-Master-Class-)** ⭐ 1
-  ![C#](https://img.shields.io/badge/-C#-lightgrey)
-  A responsive User Management web application built using ASP.NET Web Forms with Bootstrap. It performs CRUD operations on users and uses SQL Server stored procedures for secure and efficient data handling.
+- **[ManhMiko/TTDN-16-05-N2](https://github.com/ManhMiko/TTDN-16-05-N2)** ⭐ 16
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
+  Bài tập lớn học phần Thực tập doanh nghiệp - Nhóm 2 - Lớp CNTT 16-05 - Khoa Công nghệ thông tin - Đại học Đại Nam
 
-- **[Tanho2003/Tesla-Stock-Prediction](https://github.com/Tanho2003/Tesla-Stock-Prediction)** ⭐ 1
-  ![Jupyter Notebook](https://img.shields.io/badge/-Jupyter Notebook-lightgrey)
-  XGBoost Machine Learning model to predict TSLA stock trends.
+- **[antruong2004/TTDN-16-05-N8](https://github.com/antruong2004/TTDN-16-05-N8)** ⭐ 13
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
+  Bài tập lớn học phần Thực tập doanh nghiệp - Nhóm 8 - Lớp CNTT 16-05 - Khoa Công nghệ thông tin - Đại học Đại Nam
 
-- **[ummaislamit-design/Updated-Resume---Umma-Islam](https://github.com/ummaislamit-design/Updated-Resume---Umma-Islam)** ⭐ 1
-  ![None](https://img.shields.io/badge/-None-lightgrey)
-  Resume
-
-- **[Kdorn1/Foundry-Car-Wars-Deluxe](https://github.com/Kdorn1/Foundry-Car-Wars-Deluxe)** ⭐ 1
-  ![None](https://img.shields.io/badge/-None-lightgrey)
-  A Foundry VTT v13+ implementation of the Car Wars Deluxe RPG ruleset
+- **[princepainter/ComfyUI-PainterLTXV2](https://github.com/princepainter/ComfyUI-PainterLTXV2)** ⭐ 12
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  ComfyUI custom nodes for LTXV audio-video separation sampling and latent preparation.  PainterSamplerLTXV: Advanced sampler with external sigmas support - PainterLTXVtoVideo: LTXV latent preparation with audio/video separation
 
 ### 📈 Weekly Trending
 
-- **[OthmanAdi/planning-with-files](https://github.com/OthmanAdi/planning-with-files)** ⭐ 2,340
+- **[OthmanAdi/planning-with-files](https://github.com/OthmanAdi/planning-with-files)** ⭐ 2,721
   ![None](https://img.shields.io/badge/-None-lightgrey)
   Claude Code skill implementing Manus-style persistent markdown planning — the workflow pattern behind the $2B acquisition.
 
-- **[huseyinbabal/taws](https://github.com/huseyinbabal/taws)** ⭐ 1,344
-  ![Rust](https://img.shields.io/badge/-Rust-brown)
-  Terminal UI for AWS (taws) - A terminal-based AWS resource viewer and manager
-
-- **[jarrodwatts/claude-hud](https://github.com/jarrodwatts/claude-hud)** ⭐ 1,218
+- **[jarrodwatts/claude-hud](https://github.com/jarrodwatts/claude-hud)** ⭐ 1,398
   ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
   A Claude Code plugin that shows what's happening - context usage, active tools, running agents, and todo progress
 
-- **[numman-ali/cc-mirror](https://github.com/numman-ali/cc-mirror)** ⭐ 1,092
+- **[huseyinbabal/taws](https://github.com/huseyinbabal/taws)** ⭐ 1,370
+  ![Rust](https://img.shields.io/badge/-Rust-brown)
+  Terminal UI for AWS (taws) - A terminal-based AWS resource viewer and manager
+
+- **[numman-ali/cc-mirror](https://github.com/numman-ali/cc-mirror)** ⭐ 1,109
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   Create multiple isolated Claude Code variants with custom providers (Z.ai, MiniMax, OpenRouter, LiteLLM)
 
-- **[CloudAI-X/claude-workflow-v2](https://github.com/CloudAI-X/claude-workflow-v2)** ⭐ 1,007
+- **[CloudAI-X/claude-workflow-v2](https://github.com/CloudAI-X/claude-workflow-v2)** ⭐ 1,008
   ![Python](https://img.shields.io/badge/-Python-blue)
   Universal Claude Code workflow plugin with agents, skills, hooks, and commands
 
-- **[Dammyjay93/claude-design-skill](https://github.com/Dammyjay93/claude-design-skill)** ⭐ 612
+- **[Dammyjay93/claude-design-skill](https://github.com/Dammyjay93/claude-design-skill)** ⭐ 641
   ![Shell](https://img.shields.io/badge/-Shell-lightgrey)
   A Claude Code skill for crafted, enterprise-grade UI design
 
-- **[jenish-sojitra/JSAnalyzer](https://github.com/jenish-sojitra/JSAnalyzer)** ⭐ 579
+- **[kepano/obsidian-skills](https://github.com/kepano/obsidian-skills)** ⭐ 631
+  ![None](https://img.shields.io/badge/-None-lightgrey)
+  Claude Skills for Obsidian
+
+- **[jenish-sojitra/JSAnalyzer](https://github.com/jenish-sojitra/JSAnalyzer)** ⭐ 622
   ![Python](https://img.shields.io/badge/-Python-blue)
   None
-
-- **[alexknowshtml/smaug](https://github.com/alexknowshtml/smaug)** ⭐ 540
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
-  Archive your Twitter/X bookmarks to markdown. Automatically.  Like a dragon hoarding treasure, Smaug collects the valuable things you bookmark.
 
 ### 📈 Monthly Trending
 
-- **[pranshuparmar/witr](https://github.com/pranshuparmar/witr)** ⭐ 10,325
+- **[pranshuparmar/witr](https://github.com/pranshuparmar/witr)** ⭐ 10,379
   ![Go](https://img.shields.io/badge/-Go-cyan)
   Why is this running?
 
-- **[apple/ml-sharp](https://github.com/apple/ml-sharp)** ⭐ 6,566
+- **[apple/ml-sharp](https://github.com/apple/ml-sharp)** ⭐ 6,576
   ![Python](https://img.shields.io/badge/-Python-blue)
   Sharp Monocular View Synthesis in Less Than a Second
 
-- **[HKUDS/DeepTutor](https://github.com/HKUDS/DeepTutor)** ⭐ 5,993
+- **[HKUDS/DeepTutor](https://github.com/HKUDS/DeepTutor)** ⭐ 6,038
   ![Python](https://img.shields.io/badge/-Python-blue)
   "DeepTutor: AI-Powered Personalized Learning Assistant"
 
-- **[2025Emma/vibe-coding-cn](https://github.com/2025Emma/vibe-coding-cn)** ⭐ 5,888
+- **[2025Emma/vibe-coding-cn](https://github.com/2025Emma/vibe-coding-cn)** ⭐ 6,013
   ![Python](https://img.shields.io/badge/-Python-blue)
   None
 
-- **[muratcankoylan/Agent-Skills-for-Context-Engineering](https://github.com/muratcankoylan/Agent-Skills-for-Context-Engineering)** ⭐ 5,886
+- **[muratcankoylan/Agent-Skills-for-Context-Engineering](https://github.com/muratcankoylan/Agent-Skills-for-Context-Engineering)** ⭐ 5,914
   ![Python](https://img.shields.io/badge/-Python-blue)
   A comprehensive collection of Agent Skills for context engineering, multi-agent architectures, and production agent systems. Use when building, optimizing, or debugging agent systems that require effective context management.
 
-- **[bellard/mquickjs](https://github.com/bellard/mquickjs)** ⭐ 5,052
+- **[bellard/mquickjs](https://github.com/bellard/mquickjs)** ⭐ 5,072
   ![C](https://img.shields.io/badge/-C-lightgrey)
   Public repository of the Micro QuickJS Javascript Engine
 
-- **[agentskills/agentskills](https://github.com/agentskills/agentskills)** ⭐ 4,594
+- **[agentskills/agentskills](https://github.com/agentskills/agentskills)** ⭐ 4,633
   ![Python](https://img.shields.io/badge/-Python-blue)
   Specification and documentation for Agent Skills
 
-- **[AnmolSaini16/mapcn](https://github.com/AnmolSaini16/mapcn)** ⭐ 3,685
+- **[AnmolSaini16/mapcn](https://github.com/AnmolSaini16/mapcn)** ⭐ 3,735
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   Beautiful map components. 100% Free, Zero config, one command setup.
 
@@ -492,8 +481,8 @@ for a semver-minor rele...
 
 | Skill | Status |
 |-------|--------|
-| Java | 🔴 Beginner |
-| Python | 🟢 Proficient |
+| Java | 🟢 Proficient |
+| Python | 🔴 Beginner |
 | JavaScript | ⚪ Planned |
 | TypeScript | 🔴 Beginner |
 | Go | 🟡 Learning |
@@ -502,19 +491,19 @@ for a semver-minor rele...
 
 | Skill | Status |
 |-------|--------|
-| React | 🟢 Proficient |
+| React | 🔴 Beginner |
 | Spring Boot | 🟡 Learning |
 | Django | 🟢 Proficient |
-| Node.js | 🔴 Beginner |
-| Next.js | 🟡 Learning |
+| Node.js | ⚪ Planned |
+| Next.js | 🔴 Beginner |
 
 ### Cybersecurity
 
 | Skill | Status |
 |-------|--------|
-| Penetration Testing | 🔴 Beginner |
-| Web Security | 🟢 Proficient |
-| Network Security | 🟡 Learning |
+| Penetration Testing | 🟡 Learning |
+| Web Security | 🟡 Learning |
+| Network Security | 🔴 Beginner |
 | OWASP | 🟡 Learning |
 
 ### Ai Ml
@@ -522,9 +511,9 @@ for a semver-minor rele...
 | Skill | Status |
 |-------|--------|
 | Machine Learning | 🟡 Learning |
-| Deep Learning | 🟡 Learning |
-| NLP | 🟢 Proficient |
-| Computer Vision | 🟡 Learning |
+| Deep Learning | ⚪ Planned |
+| NLP | 🔴 Beginner |
+| Computer Vision | ⚪ Planned |
 | TensorFlow | 🟡 Learning |
 | PyTorch | 🔴 Beginner |
 
@@ -532,19 +521,19 @@ for a semver-minor rele...
 
 | Skill | Status |
 |-------|--------|
-| Docker | 🟡 Learning |
-| Kubernetes | 🟡 Learning |
-| CI/CD | ⚪ Planned |
-| AWS | 🟢 Proficient |
-| Azure | 🔴 Beginner |
+| Docker | ⚪ Planned |
+| Kubernetes | 🔴 Beginner |
+| CI/CD | 🟢 Proficient |
+| AWS | ⚪ Planned |
+| Azure | 🟢 Proficient |
 
 ### Other
 
 | Skill | Status |
 |-------|--------|
-| Blockchain | 🟢 Proficient |
+| Blockchain | 🔴 Beginner |
 | Web3 | 🟢 Proficient |
-| Cloud Computing | 🔴 Beginner |
+| Cloud Computing | 🟡 Learning |
 
 </details>
 
