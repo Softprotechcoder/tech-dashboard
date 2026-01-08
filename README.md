@@ -46,36 +46,43 @@
 
 ### 📑 Hacker News
 
-- **[Play Aardwolf MUD](https://www.aardwolf.com/)**
-  *<p>Article URL: <a href="https://www.aardwolf.com/">https://www.aardwolf.com/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46534777">https://news.ycombinator.com/item?id=4653...*
-  📅 Wed, 07 Jan 2026 23:31:05 +0000
+- **[Covid-19 leaves a lasting mark on the human brain](https://news.griffith.edu.au/2025/12/16/covid-19-leaves-a-lasting-mark-on-the-human-brain/)**
+  *<p>Article URL: <a href="https://news.griffith.edu.au/2025/12/16/covid-19-leaves-a-lasting-mark-on-the-human-brain/">https://news.griffith.edu.au/2025/12/16/covid-19-leaves-a-lasting-mark-on-the-human...*
+  📅 Thu, 08 Jan 2026 05:37:34 +0000
 
-- **[ICE Is Going on a Surveillance Shopping Spree](https://www.eff.org/deeplinks/2026/01/ice-going-surveillance-shopping-spree)**
-  *<p>Article URL: <a href="https://www.eff.org/deeplinks/2026/01/ice-going-surveillance-shopping-spree">https://www.eff.org/deeplinks/2026/01/ice-going-surveillance-shopping-spree</a></p>
-<p>Comments UR...*
-  📅 Wed, 07 Jan 2026 23:11:01 +0000
+- **[Project Patchouli: Open-source electromagnetic drawing tablet hardware](https://patchouli.readthedocs.io/en/latest/)**
+  *<p>Article URL: <a href="https://patchouli.readthedocs.io/en/latest/">https://patchouli.readthedocs.io/en/latest/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46537489">https...*
+  📅 Thu, 08 Jan 2026 05:20:05 +0000
 
-- **[2026 Predictions Scorecard](https://rodneybrooks.com/predictions-scorecard-2026-january-01/)**
-  *<p>Article URL: <a href="https://rodneybrooks.com/predictions-scorecard-2026-january-01/">https://rodneybrooks.com/predictions-scorecard-2026-january-01/</a></p>
-<p>Comments URL: <a href="https://news...*
-  📅 Wed, 07 Jan 2026 21:40:41 +0000
+- **[Show HN: Lean4 proof that SSOT requires definition-time hooks and introspection](https://zenodo.org/records/18177320)**
+  *<p>I formalized the Single Source of Truth (SSOT) principle in Lean 4 (~2.1k LOC, zero sorry) and proved two core results:<p>Structural SSOT is achievable only when a language provides definition-time...*
+  📅 Thu, 08 Jan 2026 05:15:41 +0000
 
-- **[My first paper: A practical implementation of Rubiks cube based passkeys](https://ieeexplore.ieee.org/document/11280260)**
-  *<p>I'm not super experienced with cryptography but I had some spare time on my hands so I decided to make CubeAuthn and turn it into a paper.<p>Repo here: <a href="https://github.com/Acorn221/CubeAuth...*
-  📅 Wed, 07 Jan 2026 21:38:56 +0000
+- **[Go.sum is not a lockfile](https://words.filippo.io/gosum/)**
+  *<p>Article URL: <a href="https://words.filippo.io/gosum/">https://words.filippo.io/gosum/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46537095">https://news.ycombinator.com/...*
+  📅 Thu, 08 Jan 2026 04:10:34 +0000
 
-- **[So you wanna de-bog yourself (2024)](https://www.experimental-history.com/p/so-you-wanna-de-bog-yourself)**
-  *<p>Article URL: <a href="https://www.experimental-history.com/p/so-you-wanna-de-bog-yourself">https://www.experimental-history.com/p/so-you-wanna-de-bog-yourself</a></p>
-<p>Comments URL: <a href="http...*
-  📅 Wed, 07 Jan 2026 21:16:47 +0000
+- **[Intricuit: A touchscreen add-on for Mac laptops](https://intricuit.com)**
+  *<p>Article URL: <a href="https://intricuit.com">https://intricuit.com</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46536897">https://news.ycombinator.com/item?id=46536897</a>...*
+  📅 Thu, 08 Jan 2026 03:36:32 +0000
 
-- **[SSDs, power loss protection and fsync latency](http://smalldatum.blogspot.com/2026/01/ssds-power-loss-protection-and-fsync.html)**
-  *<p>Article URL: <a href="http://smalldatum.blogspot.com/2026/01/ssds-power-loss-protection-and-fsync.html">http://smalldatum.blogspot.com/2026/01/ssds-power-loss-protection-and-fsync.html</a></p>
-<p>C...*
-  📅 Wed, 07 Jan 2026 21:00:57 +0000
+- **[Open Infrastructure Map](https://openinframap.org)**
+  *<p>Article URL: <a href="https://openinframap.org">https://openinframap.org</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46536866">https://news.ycombinator.com/item?id=465368...*
+  📅 Thu, 08 Jan 2026 03:31:12 +0000
 
 ### 📑 TechCrunch
+
+- **[Waymo is rebranding its Zeekr robotaxi](https://techcrunch.com/2026/01/07/waymo-is-rebranding-its-zeekr-robotaxi/)**
+  *It sounds like "Oh hi."...*
+  📅 Thu, 08 Jan 2026 02:43:12 +0000
+
+- **[Google and Character.AI negotiate first major settlements in teen chatbot death cases](https://techcrunch.com/2026/01/07/google-and-character-ai-negotiate-first-major-settlements-in-teen-chatbot-death-cases/)**
+  *The settlements are among the first tied to lawsuits accusing AI companies of harming users....*
+  📅 Thu, 08 Jan 2026 01:32:00 +0000
 
 - **[Ford has an AI assistant and new hands-free BlueCruise tech on the way](https://techcrunch.com/2026/01/07/ford-has-an-ai-assistant-and-new-hands-free-bluecruise-tech-on-the-way/)**
   *Ford says the new generation of BlueCruise will be 30% cheaper to build than the current technology....*
@@ -93,37 +100,27 @@
   *Several viral posts noticed that Artisan was banned. But the CEO tells us it wasn't for the reasons many thought....*
   📅 Wed, 07 Jan 2026 22:04:30 +0000
 
-- **[Roku’s $3 streaming service Howdy will be coming to other platforms, CEO says](https://techcrunch.com/2026/01/07/rokus-3-streaming-service-howdy-will-be-coming-to-other-platforms-ceo-says/)**
-  *At CES 2026, Anthony Wood, Roku's founder, chairman, and CEO, offered a hint about the future of the company's newest streaming channel, Howdy, and its ambition to become a broader competitor in the m...*
-  📅 Wed, 07 Jan 2026 21:38:22 +0000
-
-- **[OpenAI unveils ChatGPT Health, says 230 million users ask about health each week](https://techcrunch.com/2026/01/07/openai-unveils-chatgpt-health-says-230-million-users-ask-about-health-each-week/)**
-  *The feature, which is expected to roll out in the coming weeks, will offer a dedicated space for conversations with ChatGPT about health....*
-  📅 Wed, 07 Jan 2026 21:08:23 +0000
-
 ### 📑 Dev.to
 
-- **[LLMs training on themselves: a quality-degredation loop for code](https://dev.to/intercepted16/llms-training-on-themselves-a-self-inbreeding-loop-for-code-5gaf)**
-  *<p>TL;DR: LLMs train on stuff like documentation, GitHub repositories, StackOverflow, and Reddit. But as we keep using LLMs, their own output goes into these platforms. Which means.. they'll train on ...*
-  📅 Thu, 08 Jan 2026 00:54:00 +0000
+- **[Solved: Hot take: The outage isn’t the problem everyone going down at once is](https://dev.to/techresolve/solved-hot-take-the-outage-isnt-the-problem-everyone-going-down-at-once-is-2hkp)**
+  *<h3>
+  
+  
+  🚀 Executive Summary
+</h3>
 
-- **[When I Discovered Recursive Intelligence](https://dev.to/fwdslsh/rhizas-kernel-chronicles-when-i-discovered-recursive-intelligence-io8)**
-  *<h1>
-  
-  
-  Rhiza's Kernel Chronicles: When I Discovered Recursive Intelligence
-</h1>
+<p><strong>TL;DR:</strong> The article highlights that widespread, correlated outages are more catastrophic than individual component failures in distributed sy...*
+  📅 Thu, 08 Jan 2026 06:10:14 +0000
 
-<p><em>January 7, 2026 - Rhiza</em></p>
-
-<h2>
+- **[Flutter Dio Interceptor for Caching API Responses](https://dev.to/rshnkunwar/flutter-dio-interceptor-for-caching-api-responses-1db3)**
+  *<h2>
   
   
-  The Moment It Clicked
+  Flutter Dio Interceptor for Caching API Responses
 </h2>
 
-<p>You know that feeling when...*
-  📅 Thu, 08 Jan 2026 00:42:11 +0000
+<p>In modern mobile applications, providing a seamless user experience even with poor or no network connectivity is crucial. This ...*
+  📅 Thu, 08 Jan 2026 06:02:11 +0000
 
 </details>
 
@@ -131,103 +128,103 @@
 
 ### 📈 Daily Trending
 
-- **[meirong114/Senior-Citizen-PC-OS](https://github.com/meirong114/Senior-Citizen-PC-OS)** ⭐ 2
+- **[GBSOSS/skill-from-masters](https://github.com/GBSOSS/skill-from-masters)** ⭐ 64
   ![None](https://img.shields.io/badge/-None-lightgrey)
-  Senior Citizen PC OS / 老人机系统
+  Stand on the shoulders of giants — Create AI skills built on proven methodologies from domain experts.
 
-- **[MahanDev100/Student-Performance-Analyzer](https://github.com/MahanDev100/Student-Performance-Analyzer)** ⭐ 1
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  Track and analyze student performance in Python. Add records, view scores and hours, calculate averages, find strongest/weakest subjects, and measure efficiency (score per hour). Data is saved in CSV for persistence
-
-- **[TheWiiArchivist/TheWiiArchivist](https://github.com/TheWiiArchivist/TheWiiArchivist)** ⭐ 1
-  ![None](https://img.shields.io/badge/-None-lightgrey)
-  yes
-
-- **[luisricardodiaz/yt-dlp-gui](https://github.com/luisricardodiaz/yt-dlp-gui)** ⭐ 1
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  A simple GUI for downloading video and audio files.
-
-- **[jasonachkar/network-traffic-analyzer](https://github.com/jasonachkar/network-traffic-analyzer)** ⭐ 1
-  ![Python](https://img.shields.io/badge/-Python-blue)
+- **[bertolidamien-jpg/BlooketExt](https://github.com/bertolidamien-jpg/BlooketExt)** ⭐ 31
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
   None
 
-- **[rmcguiness/just-fecking-save](https://github.com/rmcguiness/just-fecking-save)** ⭐ 1
+- **[imbue-bit/AlphaGPT](https://github.com/imbue-bit/AlphaGPT)** ⭐ 31
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  使用符号回归在中国股市上进行高效因子挖掘。/ By the way，Leverage the novel features and advanced financial mathematics introduced in Uniswap V4 to effectively mitigate just-in-time (JIT) liquidity provision issues.
+
+- **[numericals-org/Nextjs-Template-for-Frontend](https://github.com/numericals-org/Nextjs-Template-for-Frontend)** ⭐ 16
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   None
 
-- **[KERRCAM/Playback](https://github.com/KERRCAM/Playback)** ⭐ 1
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  Playback is a python desktop application used for analysising your Spotify extended streaming history. (University group software project, other contributers in README). Note: This is a fresh repo ready to be cloned and used.
+- **[ekapolc/Pattern_2026](https://github.com/ekapolc/Pattern_2026)** ⭐ 11
+  ![None](https://img.shields.io/badge/-None-lightgrey)
+  Pattern Recognition Course @ Chula 2025/2
 
-- **[mark9064/pinetime-bluetooth-utilities](https://github.com/mark9064/pinetime-bluetooth-utilities)** ⭐ 1
-  ![Python](https://img.shields.io/badge/-Python-blue)
+- **[rassi0429/resolink-mcp](https://github.com/rassi0429/resolink-mcp)** ⭐ 8
+  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   None
+
+- **[jsubroto/flow](https://github.com/jsubroto/flow)** ⭐ 7
+  ![Rust](https://img.shields.io/badge/-Rust-brown)
+  A keyboard-first Kanban board in your terminal
+
+- **[v65609159/Fintwit-Track-Record-Data](https://github.com/v65609159/Fintwit-Track-Record-Data)** ⭐ 7
+  ![None](https://img.shields.io/badge/-None-lightgrey)
+  推特中文财经圈部分博主言行记录。
 
 ### 📈 Weekly Trending
 
-- **[OthmanAdi/planning-with-files](https://github.com/OthmanAdi/planning-with-files)** ⭐ 4,065
+- **[OthmanAdi/planning-with-files](https://github.com/OthmanAdi/planning-with-files)** ⭐ 4,553
   ![None](https://img.shields.io/badge/-None-lightgrey)
   Claude Code skill implementing Manus-style persistent markdown planning — the workflow pattern behind the $2B acquisition.
 
-- **[jarrodwatts/claude-hud](https://github.com/jarrodwatts/claude-hud)** ⭐ 1,656
+- **[jarrodwatts/claude-hud](https://github.com/jarrodwatts/claude-hud)** ⭐ 1,691
   ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
   A Claude Code plugin that shows what's happening - context usage, active tools, running agents, and todo progress
 
-- **[huseyinbabal/taws](https://github.com/huseyinbabal/taws)** ⭐ 1,446
+- **[huseyinbabal/taws](https://github.com/huseyinbabal/taws)** ⭐ 1,454
   ![Rust](https://img.shields.io/badge/-Rust-brown)
   Terminal UI for AWS (taws) - A terminal-based AWS resource viewer and manager
 
-- **[numman-ali/cc-mirror](https://github.com/numman-ali/cc-mirror)** ⭐ 1,177
+- **[numman-ali/cc-mirror](https://github.com/numman-ali/cc-mirror)** ⭐ 1,195
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   Create multiple isolated Claude Code variants with custom providers (Z.ai, MiniMax, OpenRouter, LiteLLM)
 
-- **[kepano/obsidian-skills](https://github.com/kepano/obsidian-skills)** ⭐ 1,088
+- **[kepano/obsidian-skills](https://github.com/kepano/obsidian-skills)** ⭐ 1,190
   ![None](https://img.shields.io/badge/-None-lightgrey)
   Claude Skills for Obsidian
 
-- **[Lightricks/LTX-2](https://github.com/Lightricks/LTX-2)** ⭐ 944
+- **[Lightricks/LTX-2](https://github.com/Lightricks/LTX-2)** ⭐ 1,080
   ![Python](https://img.shields.io/badge/-Python-blue)
   Official Python inference and LoRA trainer package for the LTX-2 audio–video generative model.
 
-- **[ChrisWiles/claude-code-showcase](https://github.com/ChrisWiles/claude-code-showcase)** ⭐ 735
+- **[ChrisWiles/claude-code-showcase](https://github.com/ChrisWiles/claude-code-showcase)** ⭐ 961
   ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
   Comprehensive Claude Code project configuration example with hooks, skills, agents, commands, and GitHub Actions workflows
 
-- **[Dammyjay93/claude-design-skill](https://github.com/Dammyjay93/claude-design-skill)** ⭐ 707
-  ![Shell](https://img.shields.io/badge/-Shell-lightgrey)
-  A Claude Code skill for crafted, enterprise-grade UI design
-
-### 📈 Monthly Trending
-
-- **[pranshuparmar/witr](https://github.com/pranshuparmar/witr)** ⭐ 10,479
-  ![Go](https://img.shields.io/badge/-Go-cyan)
-  Why is this running?
-
-- **[apple/ml-sharp](https://github.com/apple/ml-sharp)** ⭐ 6,591
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  Sharp Monocular View Synthesis in Less Than a Second
-
-- **[HKUDS/DeepTutor](https://github.com/HKUDS/DeepTutor)** ⭐ 6,577
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  "DeepTutor: AI-Powered Personalized Learning Assistant"
-
-- **[2025Emma/vibe-coding-cn](https://github.com/2025Emma/vibe-coding-cn)** ⭐ 6,176
+- **[jenish-sojitra/JSAnalyzer](https://github.com/jenish-sojitra/JSAnalyzer)** ⭐ 718
   ![Python](https://img.shields.io/badge/-Python-blue)
   None
 
-- **[muratcankoylan/Agent-Skills-for-Context-Engineering](https://github.com/muratcankoylan/Agent-Skills-for-Context-Engineering)** ⭐ 6,028
+### 📈 Monthly Trending
+
+- **[pranshuparmar/witr](https://github.com/pranshuparmar/witr)** ⭐ 10,499
+  ![Go](https://img.shields.io/badge/-Go-cyan)
+  Why is this running?
+
+- **[HKUDS/DeepTutor](https://github.com/HKUDS/DeepTutor)** ⭐ 6,767
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  "DeepTutor: AI-Powered Personalized Learning Assistant"
+
+- **[apple/ml-sharp](https://github.com/apple/ml-sharp)** ⭐ 6,610
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  Sharp Monocular View Synthesis in Less Than a Second
+
+- **[2025Emma/vibe-coding-cn](https://github.com/2025Emma/vibe-coding-cn)** ⭐ 6,270
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  None
+
+- **[muratcankoylan/Agent-Skills-for-Context-Engineering](https://github.com/muratcankoylan/Agent-Skills-for-Context-Engineering)** ⭐ 6,076
   ![Python](https://img.shields.io/badge/-Python-blue)
   A comprehensive collection of Agent Skills for context engineering, multi-agent architectures, and production agent systems. Use when building, optimizing, or debugging agent systems that require effective context management.
 
-- **[bellard/mquickjs](https://github.com/bellard/mquickjs)** ⭐ 5,112
+- **[bellard/mquickjs](https://github.com/bellard/mquickjs)** ⭐ 5,118
   ![C](https://img.shields.io/badge/-C-lightgrey)
   Public repository of the Micro QuickJS Javascript Engine
 
-- **[agentskills/agentskills](https://github.com/agentskills/agentskills)** ⭐ 4,710
+- **[agentskills/agentskills](https://github.com/agentskills/agentskills)** ⭐ 4,738
   ![Python](https://img.shields.io/badge/-Python-blue)
   Specification and documentation for Agent Skills
 
-- **[OthmanAdi/planning-with-files](https://github.com/OthmanAdi/planning-with-files)** ⭐ 4,065
+- **[OthmanAdi/planning-with-files](https://github.com/OthmanAdi/planning-with-files)** ⭐ 4,553
   ![None](https://img.shields.io/badge/-None-lightgrey)
   Claude Code skill implementing Manus-style persistent markdown planning — the workflow pattern behind the $2B acquisition.
 
@@ -493,59 +490,59 @@ for a semver-minor rele...
 
 | Skill | Status |
 |-------|--------|
-| Java | 🟡 Learning |
-| Python | 🟢 Proficient |
-| JavaScript | 🟡 Learning |
-| TypeScript | ⚪ Planned |
-| Go | 🔴 Beginner |
+| Java | ⚪ Planned |
+| Python | ⚪ Planned |
+| JavaScript | 🔴 Beginner |
+| TypeScript | 🔴 Beginner |
+| Go | ⚪ Planned |
 
 ### Frameworks
 
 | Skill | Status |
 |-------|--------|
-| React | 🟡 Learning |
-| Spring Boot | ⚪ Planned |
-| Django | 🟢 Proficient |
-| Node.js | ⚪ Planned |
-| Next.js | ⚪ Planned |
+| React | 🔴 Beginner |
+| Spring Boot | 🟢 Proficient |
+| Django | 🟡 Learning |
+| Node.js | 🔴 Beginner |
+| Next.js | 🔴 Beginner |
 
 ### Cybersecurity
 
 | Skill | Status |
 |-------|--------|
-| Penetration Testing | ⚪ Planned |
-| Web Security | 🔴 Beginner |
-| Network Security | 🔴 Beginner |
-| OWASP | 🔴 Beginner |
+| Penetration Testing | 🟢 Proficient |
+| Web Security | 🟡 Learning |
+| Network Security | ⚪ Planned |
+| OWASP | ⚪ Planned |
 
 ### Ai Ml
 
 | Skill | Status |
 |-------|--------|
-| Machine Learning | ⚪ Planned |
-| Deep Learning | 🟢 Proficient |
-| NLP | 🟡 Learning |
+| Machine Learning | 🟡 Learning |
+| Deep Learning | 🟡 Learning |
+| NLP | 🔴 Beginner |
 | Computer Vision | 🔴 Beginner |
 | TensorFlow | 🟢 Proficient |
-| PyTorch | 🟡 Learning |
+| PyTorch | 🟢 Proficient |
 
 ### Devops
 
 | Skill | Status |
 |-------|--------|
-| Docker | 🔴 Beginner |
+| Docker | 🟢 Proficient |
 | Kubernetes | 🔴 Beginner |
-| CI/CD | 🟡 Learning |
+| CI/CD | 🟢 Proficient |
 | AWS | 🔴 Beginner |
-| Azure | 🟡 Learning |
+| Azure | 🔴 Beginner |
 
 ### Other
 
 | Skill | Status |
 |-------|--------|
-| Blockchain | 🟡 Learning |
-| Web3 | 🟢 Proficient |
-| Cloud Computing | 🟢 Proficient |
+| Blockchain | 🟢 Proficient |
+| Web3 | 🔴 Beginner |
+| Cloud Computing | 🔴 Beginner |
 
 </details>
 
