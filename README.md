@@ -46,32 +46,33 @@
 
 ### 📑 Hacker News
 
-- **[Expired certificate breaks macOS Logitech apps](https://arstechnica.com/gadgets/2026/01/expired-certificate-completely-breaks-macos-logitech-apps-user-customizations/)**
-  *<p>Article URL: <a href="https://arstechnica.com/gadgets/2026/01/expired-certificate-completely-breaks-macos-logitech-apps-user-customizations/">https://arstechnica.com/gadgets/2026/01/expired-certifi...*
-  📅 Thu, 08 Jan 2026 23:51:15 +0000
+- **[The No Fakes Act Has a "Fingerprinting" Trap That Kills Open Source](https://old.reddit.com/r/LocalLLaMA/comments/1q7qcux/the_no_fakes_act_has_a_fingerprinting_trap_that/)**
+  *<p>Article URL: <a href="https://old.reddit.com/r/LocalLLaMA/comments/1q7qcux/the_no_fakes_act_has_a_fingerprinting_trap_that/">https://old.reddit.com/r/LocalLLaMA/comments/1q7qcux/the_no_fakes_act_ha...*
+  📅 Fri, 09 Jan 2026 05:01:24 +0000
+
+- **[Anthropic blocks third-party use of Claude Code subscriptions](https://github.com/anomalyco/opencode/issues/7410)**
+  *<p>Article URL: <a href="https://github.com/anomalyco/opencode/issues/7410">https://github.com/anomalyco/opencode/issues/7410</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=465...*
+  📅 Fri, 09 Jan 2026 03:44:35 +0000
+
+- **[Show HN: Executable Markdown files with Unix pipes](https://news.ycombinator.com/item?id=46549444)**
+  *<p>I wanted to run markdown files like shell scripts. So I built an open source tool that lets you use a shebang to pipe them through Claude Code with full stdin/stdout support.<p>task.md:<p><pre><cod...*
+  📅 Fri, 09 Jan 2026 02:29:12 +0000
+
+- **[Logistics Is Dying; Or – Dude, Where's My Mail?](https://lagomor.ph/2026/01/logistics-is-dying-or-dude-wheres-my-mail/)**
+  *<p>Article URL: <a href="https://lagomor.ph/2026/01/logistics-is-dying-or-dude-wheres-my-mail/">https://lagomor.ph/2026/01/logistics-is-dying-or-dude-wheres-my-mail/</a></p>
+<p>Comments URL: <a href="...*
+  📅 Fri, 09 Jan 2026 01:39:52 +0000
+
+- **[Why I left iNaturalist](https://kueda.net/blog/2026/01/06/why-i-left-inat/)**
+  *<p>Article URL: <a href="https://kueda.net/blog/2026/01/06/why-i-left-inat/">https://kueda.net/blog/2026/01/06/why-i-left-inat/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=4...*
+  📅 Fri, 09 Jan 2026 01:17:51 +0000
 
 - **[Embassy: Modern embedded framework, using Rust and async](https://github.com/embassy-rs/embassy)**
   *<p>Article URL: <a href="https://github.com/embassy-rs/embassy">https://github.com/embassy-rs/embassy</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=46547740">https://news.ycom...*
   📅 Thu, 08 Jan 2026 23:00:45 +0000
-
-- **[Iran Protest Map](https://pouyaii.github.io/Iran/)**
-  *<p>Article URL: <a href="https://pouyaii.github.io/Iran/">https://pouyaii.github.io/Iran/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46547303">https://news.ycombinator.com/...*
-  📅 Thu, 08 Jan 2026 22:20:34 +0000
-
-- **[Richard D. James aka Aphex Twin speaks to Tatsuya Takahashi](https://web.archive.org/web/20180719052026/http://item.warp.net/interview/aphex-twin-speaks-to-tatsuya-takahashi/)**
-  *<p>Article URL: <a href="https://web.archive.org/web/20180719052026/http://item.warp.net/interview/aphex-twin-speaks-to-tatsuya-takahashi/">https://web.archive.org/web/20180719052026/http://item.warp....*
-  📅 Thu, 08 Jan 2026 21:17:26 +0000
-
-- **[Mux (YC W16) is hiring a platform engineer that cares about (internal) DX](https://www.mux.com/jobs)**
-  *<p>Article URL: <a href="https://www.mux.com/jobs">https://www.mux.com/jobs</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46546413">https://news.ycombinator.com/item?id=465464...*
-  📅 Thu, 08 Jan 2026 21:01:36 +0000
-
-- **[Show HN: A geofence-based social network app 6 years in development](https://www.localvideoapp.com)**
-  *<p>My name is Adrian. I'm a Software Engineer and I spent 6 years developing a perimeter-based geofence-based social media app.<p>What it does:<p>- Allows you to load a custom perimeter anywhere on th...*
-  📅 Thu, 08 Jan 2026 20:56:32 +0000
 
 ### 📑 TechCrunch
 
@@ -101,17 +102,20 @@
 
 ### 📑 Dev.to
 
-- **[Dynamic Local Persistent Volumes on Kubernetes via Open Service Broker](https://dev.to/laoshanxi/dynamic-local-persistent-volumes-on-kubernetes-via-open-service-broker-3h11)**
-  *<p>Shared storage works well for many workloads, but once latency and IO consistency start to matter, local disks become very attractive.</p>
+- **[From 7 sec to 3 sec: Reducing Load Time in a Rails-Powered Restaurant App](https://dev.to/railsfactory_sedin/from-7-sec-to-3-sec-reducing-load-time-in-a-rails-powered-restaurant-app-3e6f)**
+  *<p>I joined this project at a point where the cracks were starting to show.  </p>
 
-<p>Kubernetes supports Local Persistent Volumes (Local PV...*
-  📅 Fri, 09 Jan 2026 00:59:05 +0000
+<p>The mobile app functioned, but not at the level a high-volume restaurant brand needed.  </p>
 
-- **[Running Native (Non-Container) Workloads on Kubernetes: A Practical Experiment](https://dev.to/laoshanxi/running-native-non-container-workloads-on-kubernetes-a-practical-experiment-12)**
-  *<p>Kubernetes is excellent at orchestrating containers. But every now and then, you run into workloads that simply don’t fit well into the container model.</p>
+<p>This was a leadin...*
+  📅 Fri, 09 Jan 2026 06:08:03 +0000
 
-<p>In our case, we had several native b...*
-  📅 Fri, 09 Jan 2026 00:51:17 +0000
+- **[Criei uma extensão para VS Code que transforma TODOs em um quadro Kanban e issues reais no Jira](https://dev.to/dantewebmaster/criei-uma-extensao-para-vs-code-que-transforma-todos-em-um-quadro-kanban-e-issues-reais-no-jira-bd8)**
+  *<p>É muito comum código com vários <strong>TODO</strong>.<br />
+E o time sabe que a maioria deles nunca vira trabalho de verdade.</p>
+
+<p>Eles ficam perdidos em comentários, são esquecidos, e aos pouc...*
+  📅 Fri, 09 Jan 2026 06:04:54 +0000
 
 </details>
 
@@ -119,103 +123,103 @@
 
 ### 📈 Daily Trending
 
-- **[ragingwind/dotclaude](https://github.com/ragingwind/dotclaude)** ⭐ 1
-  ![None](https://img.shields.io/badge/-None-lightgrey)
-  .claude
-
-- **[dogenc/passwordgenerator](https://github.com/dogenc/passwordgenerator)** ⭐ 1
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  Local GUI-based password generator using cryptographically secure randomness, entropy analysis, and realistic online/offline cracking estimates.
-
-- **[nghiaphamhb/os-course__linux](https://github.com/nghiaphamhb/os-course__linux)** ⭐ 1
-  ![C++](https://img.shields.io/badge/-C++-pink)
-  Part 4 of Operating System
-
-- **[Roque117/Proyecto-TyA](https://github.com/Roque117/Proyecto-TyA)** ⭐ 1
-  ![None](https://img.shields.io/badge/-None-lightgrey)
-  ADMINISTRACIÓN DE PROYECTOS DE TECNOLOGÍAS DE INFORMACIÓN
-
-- **[Frank-Muhiu-Wanja/image-slider](https://github.com/Frank-Muhiu-Wanja/image-slider)** ⭐ 1
-  ![HTML](https://img.shields.io/badge/-HTML-lightgrey)
-  None
-
-- **[MooraRodriguezz/Gestor-de-Tareas](https://github.com/MooraRodriguezz/Gestor-de-Tareas)** ⭐ 1
+- **[torvalds/AudioNoise](https://github.com/torvalds/AudioNoise)** ⭐ 66
   ![C](https://img.shields.io/badge/-C-lightgrey)
-  Un gestor de tareas pendientes para terminal desarrollado en C, enfocado en el manejo eficiente de memoria dinámica y persistencia de datos.
+  Random digital audio effects
 
-- **[aws-samples/sample-vonage-serverless-sonic](https://github.com/aws-samples/sample-vonage-serverless-sonic)** ⭐ 1
+- **[Yeachan-Heo/oh-my-claude-sisyphus](https://github.com/Yeachan-Heo/oh-my-claude-sisyphus)** ⭐ 58
+  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
+  Sisyphus from OmO (Oh My Opencode), ported to the Claude Code SDK. Written with Claude Code — ironically. Anthropic, what are you gonna do next?
+
+- **[flux-apphub/flux](https://github.com/flux-apphub/flux)** ⭐ 25
+  ![Dart](https://img.shields.io/badge/-Dart-lightgrey)
+  None
+
+- **[KrazyPhish/earth_monorepo](https://github.com/KrazyPhish/earth_monorepo)** ⭐ 14
+  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
+  Monorepo for earth modules.
+
+- **[jzr99/Mesh4D](https://github.com/jzr99/Mesh4D)** ⭐ 13
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  Mesh4D: 4D Mesh Reconstruction and Tracking from Monocular Video
+
+- **[Leclee/auto_bitbrowser](https://github.com/Leclee/auto_bitbrowser)** ⭐ 6
   ![Python](https://img.shields.io/badge/-Python-blue)
   None
 
-- **[shyam58568/AWS-ECS-GitHub-Actions-CI-CD](https://github.com/shyam58568/AWS-ECS-GitHub-Actions-CI-CD)** ⭐ 1
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
-  A containerized web application using Docker and AWS ECS (Fargate).
+- **[zgf-suda/vla_demo](https://github.com/zgf-suda/vla_demo)** ⭐ 4
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  仿真中训练groot n1.5，实物部署到LeRobot
+
+- **[naga-k/nds-ui-skill](https://github.com/naga-k/nds-ui-skill)** ⭐ 4
+  ![None](https://img.shields.io/badge/-None-lightgrey)
+  None
 
 ### 📈 Weekly Trending
 
-- **[OthmanAdi/planning-with-files](https://github.com/OthmanAdi/planning-with-files)** ⭐ 5,598
+- **[OthmanAdi/planning-with-files](https://github.com/OthmanAdi/planning-with-files)** ⭐ 5,963
   ![Shell](https://img.shields.io/badge/-Shell-lightgrey)
   Claude Code skill implementing Manus-style persistent markdown planning — the workflow pattern behind the $2B acquisition.
 
-- **[ChrisWiles/claude-code-showcase](https://github.com/ChrisWiles/claude-code-showcase)** ⭐ 1,926
+- **[ChrisWiles/claude-code-showcase](https://github.com/ChrisWiles/claude-code-showcase)** ⭐ 2,154
   ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
   Comprehensive Claude Code project configuration example with hooks, skills, agents, commands, and GitHub Actions workflows
 
-- **[huseyinbabal/taws](https://github.com/huseyinbabal/taws)** ⭐ 1,591
+- **[huseyinbabal/taws](https://github.com/huseyinbabal/taws)** ⭐ 1,612
   ![Rust](https://img.shields.io/badge/-Rust-brown)
   Terminal UI for AWS (taws) - A terminal-based AWS resource viewer and manager
 
-- **[Lightricks/LTX-2](https://github.com/Lightricks/LTX-2)** ⭐ 1,410
+- **[Lightricks/LTX-2](https://github.com/Lightricks/LTX-2)** ⭐ 1,506
   ![Python](https://img.shields.io/badge/-Python-blue)
   Official Python inference and LoRA trainer package for the LTX-2 audio–video generative model.
 
-- **[ophub/fnnas](https://github.com/ophub/fnnas)** ⭐ 935
+- **[ophub/fnnas](https://github.com/ophub/fnnas)** ⭐ 1,036
   ![Shell](https://img.shields.io/badge/-Shell-lightgrey)
   Supports running FnNAS on Amlogic, Allwinner, and Rockchip devices. Support a311d, s922x, s905x3, s905x2, s912, s905d, s905x, s905w, s905, s905l, rk3588, rk3568, rk3399, rk3328, h6, etc.
 
-- **[Dammyjay93/claude-design-skill](https://github.com/Dammyjay93/claude-design-skill)** ⭐ 746
-  ![Shell](https://img.shields.io/badge/-Shell-lightgrey)
-  A Claude Code skill for crafted, enterprise-grade UI design
-
-- **[jenish-sojitra/JSAnalyzer](https://github.com/jenish-sojitra/JSAnalyzer)** ⭐ 743
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  None
-
-- **[ZeframLou/call-me](https://github.com/ZeframLou/call-me)** ⭐ 736
+- **[ZeframLou/call-me](https://github.com/ZeframLou/call-me)** ⭐ 824
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   Minimal plugin that lets Claude Code call you on the phone.
 
-### 📈 Monthly Trending
+- **[Dammyjay93/claude-design-skill](https://github.com/Dammyjay93/claude-design-skill)** ⭐ 758
+  ![Shell](https://img.shields.io/badge/-Shell-lightgrey)
+  A Claude Code skill for crafted, enterprise-grade UI design
 
-- **[pranshuparmar/witr](https://github.com/pranshuparmar/witr)** ⭐ 10,568
-  ![Go](https://img.shields.io/badge/-Go-cyan)
-  Why is this running?
-
-- **[HKUDS/DeepTutor](https://github.com/HKUDS/DeepTutor)** ⭐ 7,070
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  "DeepTutor: AI-Powered Personalized Learning Assistant"
-
-- **[apple/ml-sharp](https://github.com/apple/ml-sharp)** ⭐ 6,649
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  Sharp Monocular View Synthesis in Less Than a Second
-
-- **[2025Emma/vibe-coding-cn](https://github.com/2025Emma/vibe-coding-cn)** ⭐ 6,416
+- **[jenish-sojitra/JSAnalyzer](https://github.com/jenish-sojitra/JSAnalyzer)** ⭐ 747
   ![Python](https://img.shields.io/badge/-Python-blue)
   None
 
-- **[muratcankoylan/Agent-Skills-for-Context-Engineering](https://github.com/muratcankoylan/Agent-Skills-for-Context-Engineering)** ⭐ 6,148
+### 📈 Monthly Trending
+
+- **[pranshuparmar/witr](https://github.com/pranshuparmar/witr)** ⭐ 10,592
+  ![Go](https://img.shields.io/badge/-Go-cyan)
+  Why is this running?
+
+- **[HKUDS/DeepTutor](https://github.com/HKUDS/DeepTutor)** ⭐ 7,144
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  "DeepTutor: AI-Powered Personalized Learning Assistant"
+
+- **[apple/ml-sharp](https://github.com/apple/ml-sharp)** ⭐ 6,651
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  Sharp Monocular View Synthesis in Less Than a Second
+
+- **[2025Emma/vibe-coding-cn](https://github.com/2025Emma/vibe-coding-cn)** ⭐ 6,484
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  None
+
+- **[muratcankoylan/Agent-Skills-for-Context-Engineering](https://github.com/muratcankoylan/Agent-Skills-for-Context-Engineering)** ⭐ 6,167
   ![Python](https://img.shields.io/badge/-Python-blue)
   A comprehensive collection of Agent Skills for context engineering, multi-agent architectures, and production agent systems. Use when building, optimizing, or debugging agent systems that require effective context management.
 
-- **[OthmanAdi/planning-with-files](https://github.com/OthmanAdi/planning-with-files)** ⭐ 5,598
+- **[OthmanAdi/planning-with-files](https://github.com/OthmanAdi/planning-with-files)** ⭐ 5,963
   ![Shell](https://img.shields.io/badge/-Shell-lightgrey)
   Claude Code skill implementing Manus-style persistent markdown planning — the workflow pattern behind the $2B acquisition.
 
-- **[bellard/mquickjs](https://github.com/bellard/mquickjs)** ⭐ 5,142
+- **[bellard/mquickjs](https://github.com/bellard/mquickjs)** ⭐ 5,150
   ![C](https://img.shields.io/badge/-C-lightgrey)
   Public repository of the Micro QuickJS Javascript Engine
 
-- **[agentskills/agentskills](https://github.com/agentskills/agentskills)** ⭐ 4,841
+- **[agentskills/agentskills](https://github.com/agentskills/agentskills)** ⭐ 4,883
   ![Python](https://img.shields.io/badge/-Python-blue)
   Specification and documentation for Agent Skills
 
@@ -481,57 +485,57 @@ for a semver-minor rele...
 
 | Skill | Status |
 |-------|--------|
-| Java | 🟡 Learning |
-| Python | ⚪ Planned |
-| JavaScript | 🟢 Proficient |
+| Java | ⚪ Planned |
+| Python | 🟢 Proficient |
+| JavaScript | 🟡 Learning |
 | TypeScript | 🟡 Learning |
-| Go | ⚪ Planned |
+| Go | 🔴 Beginner |
 
 ### Frameworks
 
 | Skill | Status |
 |-------|--------|
-| React | 🟡 Learning |
-| Spring Boot | 🔴 Beginner |
-| Django | 🟢 Proficient |
-| Node.js | 🟡 Learning |
+| React | 🟢 Proficient |
+| Spring Boot | ⚪ Planned |
+| Django | 🔴 Beginner |
+| Node.js | 🟢 Proficient |
 | Next.js | 🔴 Beginner |
 
 ### Cybersecurity
 
 | Skill | Status |
 |-------|--------|
-| Penetration Testing | 🟢 Proficient |
+| Penetration Testing | 🟡 Learning |
 | Web Security | 🔴 Beginner |
 | Network Security | 🔴 Beginner |
-| OWASP | 🟢 Proficient |
+| OWASP | 🟡 Learning |
 
 ### Ai Ml
 
 | Skill | Status |
 |-------|--------|
-| Machine Learning | 🟢 Proficient |
-| Deep Learning | 🟢 Proficient |
-| NLP | 🟢 Proficient |
-| Computer Vision | ⚪ Planned |
+| Machine Learning | 🟡 Learning |
+| Deep Learning | 🟡 Learning |
+| NLP | 🟡 Learning |
+| Computer Vision | 🟡 Learning |
 | TensorFlow | ⚪ Planned |
-| PyTorch | 🟡 Learning |
+| PyTorch | ⚪ Planned |
 
 ### Devops
 
 | Skill | Status |
 |-------|--------|
 | Docker | 🔴 Beginner |
-| Kubernetes | ⚪ Planned |
-| CI/CD | 🔴 Beginner |
-| AWS | ⚪ Planned |
-| Azure | 🟢 Proficient |
+| Kubernetes | 🟡 Learning |
+| CI/CD | 🟢 Proficient |
+| AWS | 🟡 Learning |
+| Azure | ⚪ Planned |
 
 ### Other
 
 | Skill | Status |
 |-------|--------|
-| Blockchain | 🟢 Proficient |
+| Blockchain | 🟡 Learning |
 | Web3 | 🟡 Learning |
 | Cloud Computing | ⚪ Planned |
 
