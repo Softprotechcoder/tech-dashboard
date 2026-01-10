@@ -20,7 +20,7 @@
 | Metric | Count |
 |--------|-------|
 | 📰 Latest News Articles | 26 |
-| 🔥 Trending Repositories | 30 |
+| 🔥 Trending Repositories | 45 |
 | 🎯 Latest Releases | 10 |
 | 🎯 Learning Goals | 4 |
 
@@ -46,7 +46,12 @@
 
 ### 📑 Hacker News
 
-- **[You probably don't need Oh My Zsh](https://rushter.com/blog/zsh-shell/)**
+- **[I got paid minimum wage to solve an impossible problem](https://tiespetersen.substack.com/p/i-got-paid-minimum-wage-to-solve)**
+  *<p>Article URL: <a href="https://tiespetersen.substack.com/p/i-got-paid-minimum-wage-to-solve">https://tiespetersen.substack.com/p/i-got-paid-minimum-wage-to-solve</a></p>
+<p>Comments URL: <a href="ht...*
+  📅 Sat, 10 Jan 2026 10:53:28 +0000
+
+- **[Oh My Zsh adds bloat](https://rushter.com/blog/zsh-shell/)**
   *<p>Article URL: <a href="https://rushter.com/blog/zsh-shell/">https://rushter.com/blog/zsh-shell/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=46562790">https://news.ycombina...*
   📅 Sat, 10 Jan 2026 04:35:32 +0000
@@ -55,10 +60,6 @@
   *<p>Article URL: <a href="https://nuxx.net/blog/2026/01/09/oled-not-for-me/">https://nuxx.net/blog/2026/01/09/oled-not-for-me/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=465...*
   📅 Sat, 10 Jan 2026 03:52:48 +0000
-
-- **[Maine's black market for baby eels](https://www.pressherald.com/2025/09/09/maines-black-market-for-baby-eels-is-spawning-a-crime-thriller-subgenre/)**
-  *<p>Article URL: <a href="https://www.pressherald.com/2025/09/09/maines-black-market-for-baby-eels-is-spawning-a-crime-thriller-subgenre/">https://www.pressherald.com/2025/09/09/maines-black-market-for...*
-  📅 Sat, 10 Jan 2026 02:56:50 +0000
 
 - **[“Erdos problem #728 was solved more or less autonomously by AI”](https://mathstodon.xyz/@tao/115855840223258103)**
   *<p>Article URL: <a href="https://mathstodon.xyz/@tao/115855840223258103">https://mathstodon.xyz/@tao/115855840223258103</a></p>
@@ -70,10 +71,10 @@
 <p>Comments URL: <a href="https://news...*
   📅 Fri, 09 Jan 2026 22:19:03 +0000
 
-- **[Deno has made its PyPI distribution official](https://github.com/denoland/deno/issues/31254)**
-  *<p>Article URL: <a href="https://github.com/denoland/deno/issues/31254">https://github.com/denoland/deno/issues/31254</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46559761">h...*
-  📅 Fri, 09 Jan 2026 21:41:27 +0000
+- **[Sigmund Freud's Begonia](https://observer.co.uk/news/first-person/article/emma-freud-sigmund-freuds-begonia)**
+  *<p>Article URL: <a href="https://observer.co.uk/news/first-person/article/emma-freud-sigmund-freuds-begonia">https://observer.co.uk/news/first-person/article/emma-freud-sigmund-freuds-begonia</a></p>
+...*
+  📅 Fri, 09 Jan 2026 21:27:10 +0000
 
 ### 📑 TechCrunch
 
@@ -103,99 +104,129 @@
 
 ### 📑 Dev.to
 
-- **[How Does @Async Work Internally in Spring Boot?](https://dev.to/realnamehidden1_61/how-does-async-work-internally-in-spring-boot-35h5)**
-  *<h2>
+- **[Quark's Outlines: Python Arithmetic Conversions](https://dev.to/mike-vincent/quarks-outlines-python-arithmetic-conversions-1ce)**
+  *<h1>
   
   
-  Introduction 🚀
-</h2>
+  Quark's Outlines: Python Arithmetic Conversions
+</h1>
 
-<p>Have you ever called a REST API and thought:</p>
+<p><em>Overview, Historical Timeline, Problems &amp; Solutions</em></p>
 
-<blockquote>
-<p><em>“Why is this request blocking until everything finishes?”</em></p>
-</blockquote>
+<h2>
+  
+  
+  An Overview of Python Arithmetic Conversions
+<...*
+  📅 Sat, 10 Jan 2026 12:11:31 +0000
 
-<p>Now ima...*
-  📅 Sat, 10 Jan 2026 06:10:02 +0000
-
-- **[KRACK Attack - When WPA2 Was Not as Safe as We Thought](https://dev.to/vinay_sharma_e6ec1235f476/krack-attack-when-wpa2-was-not-as-safe-as-we-thought-3p0g)**
-  *<p>KRACK (Key Reinstallation Attack) is a Wi-Fi vulnerability discovered in 2017</p>
-
-<p>It exposed a flaw in the WPA2 security protocol</p>
-
-<p>Attackers within range of a network could interfere wit...*
-  📅 Sat, 10 Jan 2026 05:45:29 +0000
+- **[ReactJS Design Pattern ~Compound Component Pattern~](https://dev.to/kkr0423/reactjs-design-pattern-compound-component-pattern-5220)**
+  *<p>・Compound Component pattern allows you to create a set of components that work together but can be composed in different ways. This pattern provides flexibility by letting users arrange sub-compone...*
+  📅 Sat, 10 Jan 2026 12:03:29 +0000
 
 </details>
 
 ## 🔥 Trending Repositories
 
+### 📈 Daily Trending
+
+- **[ray-em/openmrs-core](https://github.com/ray-em/openmrs-core)** ⭐ 107
+  ![Java](https://img.shields.io/badge/-Java-orange)
+  OpenMRS API and web application code
+
+- **[jhynes94/C_BitPacking](https://github.com/jhynes94/C_BitPacking)** ⭐ 42
+  ![C](https://img.shields.io/badge/-C-lightgrey)
+  None
+
+- **[miantiao-me/bm.md](https://github.com/miantiao-me/bm.md)** ⭐ 42
+  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
+  更好用的 Markdown 排版助手｜一键适配微信公众号、网页与图片。
+
+- **[link1107/claude-ide-tools](https://github.com/link1107/claude-ide-tools)** ⭐ 23
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
+  Unofficial JetBrains IDE tools for Claude Code. Rename, move, find usages and more with power of JetBrains IDEs.
+
+- **[ZhangHanDong/makepad-skills](https://github.com/ZhangHanDong/makepad-skills)** ⭐ 15
+  ![None](https://img.shields.io/badge/-None-lightgrey)
+  Build App with Makepad and AI skills
+
+- **[shanselman/toasty](https://github.com/shanselman/toasty)** ⭐ 13
+  ![C++](https://img.shields.io/badge/-C++-pink)
+  Tiny Windows toast notification CLI (229 KB)
+
+- **[Turbo1123/LauncherTurbo](https://github.com/Turbo1123/LauncherTurbo)** ⭐ 11
+  ![Swift](https://img.shields.io/badge/-Swift-lightgrey)
+  120Hz ProMotion Launchpad for macOS Tahoe
+
+- **[opinework/ezpay](https://github.com/opinework/ezpay)** ⭐ 10
+  ![Go](https://img.shields.io/badge/-Go-cyan)
+  多通道聚合收款平台，支持 USDT/TRX 加密货币和微信/支付宝法币收款，兼容彩虹易支付和 V免签接口协议。
+
 ### 📈 Weekly Trending
 
-- **[ChrisWiles/claude-code-showcase](https://github.com/ChrisWiles/claude-code-showcase)** ⭐ 3,445
+- **[ChrisWiles/claude-code-showcase](https://github.com/ChrisWiles/claude-code-showcase)** ⭐ 3,648
   ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
   Comprehensive Claude Code project configuration example with hooks, skills, agents, commands, and GitHub Actions workflows
 
-- **[huseyinbabal/taws](https://github.com/huseyinbabal/taws)** ⭐ 1,669
+- **[huseyinbabal/taws](https://github.com/huseyinbabal/taws)** ⭐ 1,678
   ![Rust](https://img.shields.io/badge/-Rust-brown)
   Terminal UI for AWS (taws) - A terminal-based AWS resource viewer and manager
 
-- **[ophub/fnnas](https://github.com/ophub/fnnas)** ⭐ 1,241
+- **[ophub/fnnas](https://github.com/ophub/fnnas)** ⭐ 1,288
   ![Shell](https://img.shields.io/badge/-Shell-lightgrey)
   Supports running FnNAS on Amlogic, Allwinner, and Rockchip devices. Support a311d, s922x, s905x3, s905x2, s912, s905d, s905x, s905w, s905, s905l, rk3588, rk3568, rk3399, rk3328, h6, etc.
 
-- **[snarktank/ralph](https://github.com/snarktank/ralph)** ⭐ 1,183
+- **[snarktank/ralph](https://github.com/snarktank/ralph)** ⭐ 1,285
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   Ralph is an autonomous AI agent loop that runs Amp repeatedly until all PRD items are complete. 
 
-- **[dvdsgl/claude-canvas](https://github.com/dvdsgl/claude-canvas)** ⭐ 845
+- **[dvdsgl/claude-canvas](https://github.com/dvdsgl/claude-canvas)** ⭐ 902
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   Give Claude Code an external monitor
 
-- **[fengshao1227/ccg-workflow](https://github.com/fengshao1227/ccg-workflow)** ⭐ 835
+- **[fengshao1227/ccg-workflow](https://github.com/fengshao1227/ccg-workflow)** ⭐ 847
   ![Go](https://img.shields.io/badge/-Go-cyan)
   多模型协作开发工具集 - 基于 Claude Code CLI，整合 Codex/Gemini 后端能力，提供智能路由、代码审查、Git 工具等 17+ 个命令
 
-- **[Dammyjay93/claude-design-skill](https://github.com/Dammyjay93/claude-design-skill)** ⭐ 806
+- **[Dammyjay93/claude-design-skill](https://github.com/Dammyjay93/claude-design-skill)** ⭐ 819
   ![Shell](https://img.shields.io/badge/-Shell-lightgrey)
   A Claude Code skill for crafted, enterprise-grade UI design
 
-- **[jarrodwatts/claude-code-config](https://github.com/jarrodwatts/claude-code-config)** ⭐ 668
+- **[jarrodwatts/claude-code-config](https://github.com/jarrodwatts/claude-code-config)** ⭐ 678
   ![Python](https://img.shields.io/badge/-Python-blue)
   My personal Claude Code configuration - rules, hooks, agents, skills, and commands
 
 ### 📈 Monthly Trending
 
-- **[pranshuparmar/witr](https://github.com/pranshuparmar/witr)** ⭐ 10,653
+- **[pranshuparmar/witr](https://github.com/pranshuparmar/witr)** ⭐ 10,675
   ![Go](https://img.shields.io/badge/-Go-cyan)
   Why is this running?
 
-- **[HKUDS/DeepTutor](https://github.com/HKUDS/DeepTutor)** ⭐ 7,446
+- **[HKUDS/DeepTutor](https://github.com/HKUDS/DeepTutor)** ⭐ 7,508
   ![Python](https://img.shields.io/badge/-Python-blue)
   "DeepTutor: AI-Powered Personalized Learning Assistant"
 
-- **[apple/ml-sharp](https://github.com/apple/ml-sharp)** ⭐ 6,696
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  Sharp Monocular View Synthesis in Less Than a Second
-
-- **[2025Emma/vibe-coding-cn](https://github.com/2025Emma/vibe-coding-cn)** ⭐ 6,675
+- **[2025Emma/vibe-coding-cn](https://github.com/2025Emma/vibe-coding-cn)** ⭐ 6,836
   ![Python](https://img.shields.io/badge/-Python-blue)
   None
 
-- **[OthmanAdi/planning-with-files](https://github.com/OthmanAdi/planning-with-files)** ⭐ 6,584
+- **[apple/ml-sharp](https://github.com/apple/ml-sharp)** ⭐ 6,704
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  Sharp Monocular View Synthesis in Less Than a Second
+
+- **[OthmanAdi/planning-with-files](https://github.com/OthmanAdi/planning-with-files)** ⭐ 6,647
   ![Shell](https://img.shields.io/badge/-Shell-lightgrey)
   Claude Code skill implementing Manus-style persistent markdown planning — the workflow pattern behind the $2B acquisition.
 
-- **[muratcankoylan/Agent-Skills-for-Context-Engineering](https://github.com/muratcankoylan/Agent-Skills-for-Context-Engineering)** ⭐ 6,251
+- **[muratcankoylan/Agent-Skills-for-Context-Engineering](https://github.com/muratcankoylan/Agent-Skills-for-Context-Engineering)** ⭐ 6,282
   ![Python](https://img.shields.io/badge/-Python-blue)
   A comprehensive collection of Agent Skills for context engineering, multi-agent architectures, and production agent systems. Use when building, optimizing, or debugging agent systems that require effective context management.
 
-- **[bellard/mquickjs](https://github.com/bellard/mquickjs)** ⭐ 5,168
+- **[bellard/mquickjs](https://github.com/bellard/mquickjs)** ⭐ 5,172
   ![C](https://img.shields.io/badge/-C-lightgrey)
   Public repository of the Micro QuickJS Javascript Engine
 
-- **[agentskills/agentskills](https://github.com/agentskills/agentskills)** ⭐ 4,978
+- **[agentskills/agentskills](https://github.com/agentskills/agentskills)** ⭐ 5,003
   ![Python](https://img.shields.io/badge/-Python-blue)
   Specification and documentation for Agent Skills
 
@@ -461,10 +492,10 @@ for a semver-minor rele...
 
 | Skill | Status |
 |-------|--------|
-| Java | ⚪ Planned |
-| Python | 🔴 Beginner |
-| JavaScript | 🟡 Learning |
-| TypeScript | 🟡 Learning |
+| Java | 🔴 Beginner |
+| Python | 🟢 Proficient |
+| JavaScript | 🟢 Proficient |
+| TypeScript | 🟢 Proficient |
 | Go | 🟢 Proficient |
 
 ### Frameworks
@@ -472,48 +503,48 @@ for a semver-minor rele...
 | Skill | Status |
 |-------|--------|
 | React | ⚪ Planned |
-| Spring Boot | ⚪ Planned |
-| Django | 🟢 Proficient |
-| Node.js | 🔴 Beginner |
+| Spring Boot | 🟢 Proficient |
+| Django | 🟡 Learning |
+| Node.js | ⚪ Planned |
 | Next.js | 🟡 Learning |
 
 ### Cybersecurity
 
 | Skill | Status |
 |-------|--------|
-| Penetration Testing | 🟡 Learning |
+| Penetration Testing | 🔴 Beginner |
 | Web Security | ⚪ Planned |
-| Network Security | 🟢 Proficient |
-| OWASP | 🟡 Learning |
+| Network Security | ⚪ Planned |
+| OWASP | ⚪ Planned |
 
 ### Ai Ml
 
 | Skill | Status |
 |-------|--------|
-| Machine Learning | 🟢 Proficient |
+| Machine Learning | 🔴 Beginner |
 | Deep Learning | 🟡 Learning |
-| NLP | 🟡 Learning |
-| Computer Vision | 🔴 Beginner |
+| NLP | 🔴 Beginner |
+| Computer Vision | ⚪ Planned |
 | TensorFlow | 🟡 Learning |
-| PyTorch | ⚪ Planned |
+| PyTorch | 🔴 Beginner |
 
 ### Devops
 
 | Skill | Status |
 |-------|--------|
 | Docker | 🔴 Beginner |
-| Kubernetes | 🔴 Beginner |
+| Kubernetes | 🟢 Proficient |
 | CI/CD | 🔴 Beginner |
-| AWS | 🟡 Learning |
-| Azure | 🟢 Proficient |
+| AWS | ⚪ Planned |
+| Azure | ⚪ Planned |
 
 ### Other
 
 | Skill | Status |
 |-------|--------|
-| Blockchain | 🔴 Beginner |
-| Web3 | 🟡 Learning |
-| Cloud Computing | ⚪ Planned |
+| Blockchain | ⚪ Planned |
+| Web3 | ⚪ Planned |
+| Cloud Computing | 🔴 Beginner |
 
 </details>
 
