@@ -46,34 +46,33 @@
 
 ### 📑 Hacker News
 
+- **[Why Selling WhatsApp to Facebook Would Be the Biggest Mistake (2012)](https://www.forbes.com/sites/ericjackson/2012/12/03/why-selling-whatsapp-to-facebook-would-be-the-biggest-mistake-of-jan-koums-and-brian-actons-lives/)**
+  *<p>Article URL: <a href="https://www.forbes.com/sites/ericjackson/2012/12/03/why-selling-whatsapp-to-facebook-would-be-the-biggest-mistake-of-jan-koums-and-brian-actons-lives/">https://www.forbes.com/...*
+  📅 Sun, 11 Jan 2026 11:46:18 +0000
+
+- **[I dumped Windows 11 for Linux, and you should too](https://www.notebookcheck.net/I-dumped-Windows-11-for-Linux-and-you-should-too.1190961.0.html)**
+  *<p>Article URL: <a href="https://www.notebookcheck.net/I-dumped-Windows-11-for-Linux-and-you-should-too.1190961.0.html">https://www.notebookcheck.net/I-dumped-Windows-11-for-Linux-and-you-should-too.1...*
+  📅 Sun, 11 Jan 2026 11:31:22 +0000
+
+- **[Think of Pavlov](https://boz.com/articles/think-pavlov)**
+  *<p>Article URL: <a href="https://boz.com/articles/think-pavlov">https://boz.com/articles/think-pavlov</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46574475">https://news.ycom...*
+  📅 Sun, 11 Jan 2026 11:03:06 +0000
+
+- **[More than one hundred years of Film Sizes](https://wichm.home.xs4all.nl/filmsize.html)**
+  *<p>Article URL: <a href="https://wichm.home.xs4all.nl/filmsize.html">https://wichm.home.xs4all.nl/filmsize.html</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46573688">https:/...*
+  📅 Sun, 11 Jan 2026 08:22:44 +0000
+
 - **[The Concise TypeScript Book](https://github.com/gibbok/typescript-book)**
   *<p>Article URL: <a href="https://github.com/gibbok/typescript-book">https://github.com/gibbok/typescript-book</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=46573001">https://n...*
   📅 Sun, 11 Jan 2026 05:42:03 +0000
 
-- **['The answer cannot be nothing': The battle over Canada's mystery brain disease](https://www.bbc.com/news/articles/c623r47d67lo)**
+- **[A battle over Canada’s mystery brain disease](https://www.bbc.com/news/articles/c623r47d67lo)**
   *<p>Article URL: <a href="https://www.bbc.com/news/articles/c623r47d67lo">https://www.bbc.com/news/articles/c623r47d67lo</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=46572769"...*
   📅 Sun, 11 Jan 2026 04:45:27 +0000
-
-- **[Ripple: The Elegant TypeScript UI Framework](https://jsdev.space/meet-ripple/)**
-  *<p>Article URL: <a href="https://jsdev.space/meet-ripple/">https://jsdev.space/meet-ripple/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46572723">https://news.ycombinator.co...*
-  📅 Sun, 11 Jan 2026 04:32:47 +0000
-
-- **[My Home Fibre Network Disintegrated](https://alienchow.dev/post/fibre_disintegration/)**
-  *<p>Article URL: <a href="https://alienchow.dev/post/fibre_disintegration/">https://alienchow.dev/post/fibre_disintegration/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46572...*
-  📅 Sun, 11 Jan 2026 04:19:04 +0000
-
-- **[Show HN: PrintReadyBook](https://printreadybook.com/)**
-  *<p>AI generates complete novels with cover art, ready for print Text: I built a tool that generates complete, print-ready books from a single concept. Enter your idea, pick a genre and length, and you...*
-  📅 Sun, 11 Jan 2026 03:56:19 +0000
-
-- **[Workers at Redmond SpaceX lab exposed to toxic chemicals](https://www.fox13seattle.com/video/fmc-w1ga4pk97gxq0hj5)**
-  *<p>Article URL: <a href="https://www.fox13seattle.com/video/fmc-w1ga4pk97gxq0hj5">https://www.fox13seattle.com/video/fmc-w1ga4pk97gxq0hj5</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com...*
-  📅 Sun, 11 Jan 2026 03:15:14 +0000
 
 ### 📑 TechCrunch
 
@@ -103,16 +102,27 @@
 
 ### 📑 Dev.to
 
-- **[SQL INJECTION](https://dev.to/rodrino_adolfokupessala_/sql-injection-hga)**
-  *<p>🚨 <strong>SQL Injection (Injeção de SQL)</strong>: o básico que todo dev precisa saber</p>
+- **[Introduction to DevOps #1. What is DevOps](https://dev.to/himanshu_bhatt/introduction-to-devops-1-what-is-devops-5h6l)**
+  *<h2>
+  
+  
+  👋 Short Intro (Why I’m Writing This)
+</h2>
 
-<p>🔴 O que é?<br />
-É quando dados do utilizador são inseridos diretamente na query SQL, permitindo ao at...*
-  📅 Sun, 11 Jan 2026 06:05:00 +0000
+<p>I’m currently learning <strong>DevOps</strong> and decided to <strong>learn in public</strong> by documenting my journey.</p>
 
-- **[I can finally use MCPs without fear](https://dev.to/andylbrummer/i-can-finally-use-mcps-without-fear-3pfl)**
-  *<p>MCP promised to make agentic coding fast and powerful, instead it overwhelmed the senses of the LLMs that we trusted to write code for us. Even Anthropic took notice that context is the modern day ...*
-  📅 Sun, 11 Jan 2026 06:03:02 +0000
+<p>This blog ...*
+  📅 Sun, 11 Jan 2026 12:18:22 +0000
+
+- **[Your Proxy Should Only Allow Requests with a Custom Header — How Do You Do It in Apigee X?](https://dev.to/realnamehidden1_61/your-proxy-should-only-allow-requests-with-a-custom-header-how-do-you-do-it-in-apigee-x-58b2)**
+  *<h2>
+  
+  
+  Introduction
+</h2>
+
+<p>Imagine you’re running a private event. You don’t let <em>just anyone</em> walk in — you only allow people who show a <strong>special invite card</strong> at the en...*
+  📅 Sun, 11 Jan 2026 12:18:01 +0000
 
 </details>
 
@@ -132,93 +142,93 @@
   ![Java](https://img.shields.io/badge/-Java-orange)
   Sodium Minecraft visual optimization and quality Mod 🔥 NEW 2026 UPDATE 🔥 sodium sodium sodium sodium sodium sodium sodium sodium sodium sodium sodium sodium sodium sodium sodium sodium sodium sodium sodium sodium sodium sodium sodium sodium sodium sodium sodium sodium sodium sodium sodium sodium sodium sodium sodium
 
-- **[1rgs/nanocode](https://github.com/1rgs/nanocode)** ⭐ 37
+- **[1rgs/nanocode](https://github.com/1rgs/nanocode)** ⭐ 91
   ![Python](https://img.shields.io/badge/-Python-blue)
   Minimal Claude Code alternative. Single Python file, zero dependencies, ~250 lines.
 
-- **[nbashaw/claude-cs](https://github.com/nbashaw/claude-cs)** ⭐ 16
+- **[nbashaw/claude-cs](https://github.com/nbashaw/claude-cs)** ⭐ 31
   ![None](https://img.shields.io/badge/-None-lightgrey)
   A Claude Code skill that helps you build custom customer support automation for your company
 
-- **[vivibudong/PT-Seedbox](https://github.com/vivibudong/PT-Seedbox)** ⭐ 11
+- **[vivibudong/PT-Seedbox](https://github.com/vivibudong/PT-Seedbox)** ⭐ 21
   ![Shell](https://img.shields.io/badge/-Shell-lightgrey)
   快速部署 qBittorrent 4.3.9 + Vertex + FileBrowser 的一键脚本。
 
-- **[yusukebe/hono-skill](https://github.com/yusukebe/hono-skill)** ⭐ 11
+- **[yusukebe/hono-skill](https://github.com/yusukebe/hono-skill)** ⭐ 15
   ![None](https://img.shields.io/badge/-None-lightgrey)
   Agent Skill for developing Hono applications efficiently using Hono CLI
 
-- **[zhu1090093659/cc-caller](https://github.com/zhu1090093659/cc-caller)** ⭐ 5
-  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
-  None
+- **[Spirit-AI-Team/spirit-v1.5](https://github.com/Spirit-AI-Team/spirit-v1.5)** ⭐ 14
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  Spirit-v1.5: A Robotic Foundation Model by Spirit AI
 
 ### 📈 Weekly Trending
 
-- **[ChrisWiles/claude-code-showcase](https://github.com/ChrisWiles/claude-code-showcase)** ⭐ 3,819
+- **[ChrisWiles/claude-code-showcase](https://github.com/ChrisWiles/claude-code-showcase)** ⭐ 3,868
   ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
   Comprehensive Claude Code project configuration example with hooks, skills, agents, commands, and GitHub Actions workflows
 
-- **[snarktank/ralph](https://github.com/snarktank/ralph)** ⭐ 1,922
+- **[snarktank/ralph](https://github.com/snarktank/ralph)** ⭐ 2,119
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   Ralph is an autonomous AI agent loop that runs repeatedly until all PRD items are complete. 
 
-- **[ophub/fnnas](https://github.com/ophub/fnnas)** ⭐ 1,394
+- **[ophub/fnnas](https://github.com/ophub/fnnas)** ⭐ 1,432
   ![Shell](https://img.shields.io/badge/-Shell-lightgrey)
   Supports running FnNAS on Amlogic, Allwinner, and Rockchip devices. Support a311d, s922x, s905x3, s905x2, s912, s905d, s905x, s905w, s905, s905l, rk3588, rk3568, rk3399, rk3328, h6, etc.
 
-- **[dvdsgl/claude-canvas](https://github.com/dvdsgl/claude-canvas)** ⭐ 1,043
+- **[dvdsgl/claude-canvas](https://github.com/dvdsgl/claude-canvas)** ⭐ 1,066
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   Give Claude Code an external monitor
 
-- **[Dammyjay93/claude-design-skill](https://github.com/Dammyjay93/claude-design-skill)** ⭐ 841
+- **[Dammyjay93/claude-design-skill](https://github.com/Dammyjay93/claude-design-skill)** ⭐ 850
   ![Shell](https://img.shields.io/badge/-Shell-lightgrey)
   A Claude Code skill for crafted, enterprise-grade UI design
 
-- **[x011/smtp-tunnel-proxy](https://github.com/x011/smtp-tunnel-proxy)** ⭐ 798
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  A high-speed covert tunnel that disguises TCP traffic as SMTP email communication to bypass Deep Packet Inspection (DPI) firewalls.
-
-- **[jarrodwatts/claude-code-config](https://github.com/jarrodwatts/claude-code-config)** ⭐ 713
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  My personal Claude Code configuration - rules, hooks, agents, skills, and commands
-
-- **[torvalds/AudioNoise](https://github.com/torvalds/AudioNoise)** ⭐ 612
+- **[torvalds/AudioNoise](https://github.com/torvalds/AudioNoise)** ⭐ 850
   ![C](https://img.shields.io/badge/-C-lightgrey)
   Random digital audio effects
 
+- **[x011/smtp-tunnel-proxy](https://github.com/x011/smtp-tunnel-proxy)** ⭐ 831
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  A high-speed covert tunnel that disguises TCP traffic as SMTP email communication to bypass Deep Packet Inspection (DPI) firewalls.
+
+- **[jarrodwatts/claude-code-config](https://github.com/jarrodwatts/claude-code-config)** ⭐ 721
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  My personal Claude Code configuration - rules, hooks, agents, skills, and commands
+
 ### 📈 Monthly Trending
 
-- **[pranshuparmar/witr](https://github.com/pranshuparmar/witr)** ⭐ 10,707
+- **[pranshuparmar/witr](https://github.com/pranshuparmar/witr)** ⭐ 10,714
   ![Go](https://img.shields.io/badge/-Go-cyan)
   Why is this running?
 
-- **[HKUDS/DeepTutor](https://github.com/HKUDS/DeepTutor)** ⭐ 7,637
+- **[HKUDS/DeepTutor](https://github.com/HKUDS/DeepTutor)** ⭐ 7,795
   ![Python](https://img.shields.io/badge/-Python-blue)
   "DeepTutor: AI-Powered Personalized Learning Assistant"
 
-- **[2025Emma/vibe-coding-cn](https://github.com/2025Emma/vibe-coding-cn)** ⭐ 7,460
+- **[2025Emma/vibe-coding-cn](https://github.com/2025Emma/vibe-coding-cn)** ⭐ 7,633
   ![Python](https://img.shields.io/badge/-Python-blue)
   None
 
-- **[OthmanAdi/planning-with-files](https://github.com/OthmanAdi/planning-with-files)** ⭐ 6,887
+- **[OthmanAdi/planning-with-files](https://github.com/OthmanAdi/planning-with-files)** ⭐ 6,985
   ![Shell](https://img.shields.io/badge/-Shell-lightgrey)
   Claude Code skill implementing Manus-style persistent markdown planning — the workflow pattern behind the $2B acquisition.
 
-- **[muratcankoylan/Agent-Skills-for-Context-Engineering](https://github.com/muratcankoylan/Agent-Skills-for-Context-Engineering)** ⭐ 6,342
+- **[muratcankoylan/Agent-Skills-for-Context-Engineering](https://github.com/muratcankoylan/Agent-Skills-for-Context-Engineering)** ⭐ 6,369
   ![Python](https://img.shields.io/badge/-Python-blue)
   A comprehensive collection of Agent Skills for context engineering, multi-agent architectures, and production agent systems. Use when building, optimizing, or debugging agent systems that require effective context management.
 
-- **[bellard/mquickjs](https://github.com/bellard/mquickjs)** ⭐ 5,198
+- **[bellard/mquickjs](https://github.com/bellard/mquickjs)** ⭐ 5,202
   ![C](https://img.shields.io/badge/-C-lightgrey)
   Public repository of the Micro QuickJS Javascript Engine
 
-- **[agentskills/agentskills](https://github.com/agentskills/agentskills)** ⭐ 5,059
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  Specification and documentation for Agent Skills
-
-- **[kepano/obsidian-skills](https://github.com/kepano/obsidian-skills)** ⭐ 4,943
+- **[kepano/obsidian-skills](https://github.com/kepano/obsidian-skills)** ⭐ 5,132
   ![None](https://img.shields.io/badge/-None-lightgrey)
   Claude Skills for Obsidian
+
+- **[agentskills/agentskills](https://github.com/agentskills/agentskills)** ⭐ 5,087
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  Specification and documentation for Agent Skills
 
 ## 🚀 Latest Releases
 
@@ -482,59 +492,59 @@ for a semver-minor rele...
 
 | Skill | Status |
 |-------|--------|
-| Java | 🔴 Beginner |
-| Python | 🔴 Beginner |
-| JavaScript | 🟢 Proficient |
-| TypeScript | 🟢 Proficient |
-| Go | ⚪ Planned |
+| Java | 🟢 Proficient |
+| Python | ⚪ Planned |
+| JavaScript | ⚪ Planned |
+| TypeScript | ⚪ Planned |
+| Go | 🟡 Learning |
 
 ### Frameworks
 
 | Skill | Status |
 |-------|--------|
-| React | 🟢 Proficient |
-| Spring Boot | ⚪ Planned |
+| React | ⚪ Planned |
+| Spring Boot | 🟢 Proficient |
 | Django | 🟢 Proficient |
-| Node.js | 🟡 Learning |
-| Next.js | 🟡 Learning |
+| Node.js | 🟢 Proficient |
+| Next.js | 🔴 Beginner |
 
 ### Cybersecurity
 
 | Skill | Status |
 |-------|--------|
 | Penetration Testing | ⚪ Planned |
-| Web Security | 🟢 Proficient |
-| Network Security | 🟡 Learning |
-| OWASP | 🔴 Beginner |
+| Web Security | ⚪ Planned |
+| Network Security | 🔴 Beginner |
+| OWASP | 🟡 Learning |
 
 ### Ai Ml
 
 | Skill | Status |
 |-------|--------|
-| Machine Learning | ⚪ Planned |
+| Machine Learning | 🟡 Learning |
 | Deep Learning | 🔴 Beginner |
-| NLP | 🟡 Learning |
-| Computer Vision | 🔴 Beginner |
-| TensorFlow | 🔴 Beginner |
+| NLP | 🔴 Beginner |
+| Computer Vision | ⚪ Planned |
+| TensorFlow | 🟢 Proficient |
 | PyTorch | 🔴 Beginner |
 
 ### Devops
 
 | Skill | Status |
 |-------|--------|
-| Docker | 🟡 Learning |
-| Kubernetes | 🔴 Beginner |
+| Docker | 🔴 Beginner |
+| Kubernetes | 🟡 Learning |
 | CI/CD | 🔴 Beginner |
 | AWS | ⚪ Planned |
-| Azure | 🟢 Proficient |
+| Azure | ⚪ Planned |
 
 ### Other
 
 | Skill | Status |
 |-------|--------|
-| Blockchain | 🟢 Proficient |
+| Blockchain | ⚪ Planned |
 | Web3 | 🟡 Learning |
-| Cloud Computing | 🟢 Proficient |
+| Cloud Computing | 🟡 Learning |
 
 </details>
 
