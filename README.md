@@ -46,14 +46,25 @@
 
 ### 📑 Hacker News
 
-- **[XFCE Is Great](https://rubenerd.com/xfce-is-great/)**
+- **[Fossil versus Git](https://fossil-scm.org/home/doc/trunk/www/fossil-v-git.wiki)**
+  *<p>Article URL: <a href="https://fossil-scm.org/home/doc/trunk/www/fossil-v-git.wiki">https://fossil-scm.org/home/doc/trunk/www/fossil-v-git.wiki</a></p>
+<p>Comments URL: <a href="https://news.ycombin...*
+  📅 Mon, 12 Jan 2026 10:10:05 +0000
+
+- **[Lightpanda migrate DOM implementation to Zig](https://lightpanda.io/blog/posts/migrating-our-dom-to-zig)**
+  *<p>Article URL: <a href="https://lightpanda.io/blog/posts/migrating-our-dom-to-zig">https://lightpanda.io/blog/posts/migrating-our-dom-to-zig</a></p>
+<p>Comments URL: <a href="https://news.ycombinator...*
+  📅 Mon, 12 Jan 2026 09:42:49 +0000
+
+- **[Ai, Japanese chimpanzee who counted and painted dies at 49](https://www.bbc.com/news/articles/cj9r3zl2ywyo)**
+  *<p>Article URL: <a href="https://www.bbc.com/news/articles/cj9r3zl2ywyo">https://www.bbc.com/news/articles/cj9r3zl2ywyo</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46585947"...*
+  📅 Mon, 12 Jan 2026 09:10:45 +0000
+
+- **[Xfce is great](https://rubenerd.com/xfce-is-great/)**
   *<p>Article URL: <a href="https://rubenerd.com/xfce-is-great/">https://rubenerd.com/xfce-is-great/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=46584173">https://news.ycombina...*
   📅 Mon, 12 Jan 2026 04:39:26 +0000
-
-- **[Show HN: An LLM-optimized programming language](https://github.com/ImJasonH/ImJasonH/blob/main/articles/llm-programming-language.md)**
-  *<p>Article URL: <a href="https://github.com/ImJasonH/ImJasonH/blob/main/articles/llm-programming-language.md">https://github.com/ImJasonH/ImJasonH/blob/main/articles/llm-programming-language.md</a></p...*
-  📅 Mon, 12 Jan 2026 03:11:49 +0000
 
 - **[Himalayas bare and rocky after reduced winter snowfall, scientists warn](https://www.bbc.com/news/articles/clyndv7zd20o)**
   *<p>Article URL: <a href="https://www.bbc.com/news/articles/clyndv7zd20o">https://www.bbc.com/news/articles/clyndv7zd20o</a></p>
@@ -65,16 +76,11 @@
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=46582762">https://news.ycombinator.com/item?id=46582762</a>...*
   📅 Mon, 12 Jan 2026 01:39:32 +0000
 
-- **[Which programming languages are most token-efficient?](https://martinalderson.com/posts/which-programming-languages-are-most-token-efficient/)**
-  *<p>Article URL: <a href="https://martinalderson.com/posts/which-programming-languages-are-most-token-efficient/">https://martinalderson.com/posts/which-programming-languages-are-most-token-efficient/<...*
-  📅 Mon, 12 Jan 2026 01:36:26 +0000
-
-- **[Gadget Exposed a Spy Camera [video]](https://www.youtube.com/watch?v=1reman2waLs)**
-  *<p>Article URL: <a href="https://www.youtube.com/watch?v=1reman2waLs">https://www.youtube.com/watch?v=1reman2waLs</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46582033">https...*
-  📅 Mon, 12 Jan 2026 00:15:36 +0000
-
 ### 📑 TechCrunch
+
+- **[These Gen Zers just raised $11.75M to put Africa’s defense back in the hands of Africans](https://techcrunch.com/2026/01/12/these-gen-zers-just-raised-11-75m-to-put-africas-defense-back-in-the-hands-of-africans/)**
+  *African defense company Terra comes out of stealth with a $11.75M round led by Joe Lonsdale's 8VC....*
+  📅 Mon, 12 Jan 2026 08:00:00 +0000
 
 - **[inDrive turns to ads and groceries to diversify revenue](https://techcrunch.com/2026/01/11/indrive-turns-to-ads-and-groceries-to-diversify-revenue/)**
   *Advertising on inDrive is being rolled out across its top 20 markets following mid-2025 tests....*
@@ -96,32 +102,28 @@
   *This follows an investigation by the Guardian that found Google AI Overviews offering misleading information in response to some health-related queries....*
   📅 Sun, 11 Jan 2026 17:56:41 +0000
 
-- **[Nuclear startups are back in vogue with small reactors, and big challenges](https://techcrunch.com/2026/01/11/nuclear-startups-are-back-in-vogue-with-small-reactors-and-big-challenges/)**
-  *Small modular reactor startups are betting that mass manufacturing will help them bring costs down. But are they underestimating the challenge?...*
-  📅 Sun, 11 Jan 2026 16:15:00 +0000
-
 ### 📑 Dev.to
 
-- **[Discovering n8n — Wish I Found It Sooner (Part 1 )](https://dev.to/timleunghk/discovering-n8n-wish-i-found-it-sooner-part-1--171j)**
-  *<p>I can't believe I didn't find n8n earlier. If I met it earlier, I could make many many wonderful Apps. This is my first image when I know n8n. </p>
-
+- **[[BOJ/C++] 단계별로 풀어보기 - 정렬(2)](https://dev.to/dbsans11/bojc-dangyebyeolro-puleobogi-jeongryeol2-3592)**
+  *<p>2026.01.12일차입니다. <br />
+요즘은 하드 락이나 메탈보다 얼터 락을 좀 더 많이 듣는 거 같아요<br />
+오늘은 Boulevard of Broken Dreams 들으면서 코테 풀었어요<br />
+노래 자체도 좋긴한데 가사 이입해서 들으면 뭐랄까 머릿속이 정돈된다고 해야하나<br />
+아무튼 정렬 풀어보았습니다.</p>
 <h2>
   
-  
-  Introduction
-</h2>
+ ...*
+  📅 Mon, 12 Jan 2026 12:22:00 +0000
 
-<p>I recently d...*
-  📅 Mon, 12 Jan 2026 06:15:49 +0000
-
-- **[Multi-dimensional Arrays & Row-major Order: A Deep Dive](https://dev.to/ali_algmass/multi-dimensional-arrays-row-major-order-a-deep-dive-3b2e)**
-  *<p>Let me explain multi-dimensional arrays and row-major ordering from the ground up, covering memory layout, addressing, and low-level implementation details.</p>
-
-<h2>
+- **[Mathematical Audit of Excalidraw: Finding "Logic Echoes" via Linear Algebra](https://dev.to/petar_liovic_9fb912bdc228/mathematical-audit-of-excalidraw-finding-logic-echoes-via-linear-algebra-26pj)**
+  *<h3>
   
   
-  1. Understanding Multi...*
-  📅 Mon, 12 Jan 2026 05:54:22 +0000
+  The Signal is Getting Stronger
+</h3>
+
+<p>When I released the first version of <strong><a href="https://github.com/liovic/react-state-basis" rel="noopener noreferrer">react-state-basis</a>...*
+  📅 Mon, 12 Jan 2026 12:21:42 +0000
 
 </details>
 
@@ -129,103 +131,103 @@
 
 ### 📈 Daily Trending
 
-- **[Anarkh-Lee/resume-alchemist](https://github.com/Anarkh-Lee/resume-alchemist)** ⭐ 14
+- **[Anarkh-Lee/resume-alchemist](https://github.com/Anarkh-Lee/resume-alchemist)** ⭐ 43
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   一款基于 AI 的智能简历优化工具，帮助求职者打造更具竞争力的简历。通过 AI 分析、毒舌点评、STAR 法则润色和职位匹配等功能，让你的简历脱颖而出。
 
-- **[UofTCTF/uoftctf-2026-chals-public](https://github.com/UofTCTF/uoftctf-2026-chals-public)** ⭐ 10
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  Challenge handouts, source code, and solutions for UofTCTF 2026
-
-- **[jakozloski/claude-code-gh-dash](https://github.com/jakozloski/claude-code-gh-dash)** ⭐ 6
-  ![None](https://img.shields.io/badge/-None-lightgrey)
-  GitHub PR Dashboard plugin for Claude Code - view CI/CD status, merge PRs from terminal
-
-- **[wallen0322/ComfyUI-qwenmultianglelight](https://github.com/wallen0322/ComfyUI-qwenmultianglelight)** ⭐ 6
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
-  qwenmultianglelight
-
-- **[Handfish/talos-pilot](https://github.com/Handfish/talos-pilot)** ⭐ 5
+- **[Handfish/talos-pilot](https://github.com/Handfish/talos-pilot)** ⭐ 24
   ![Rust](https://img.shields.io/badge/-Rust-brown)
   Talos TUI for real-time node monitoring, log streaming, etcd health, and diagnostics
 
-- **[snquiz1/tes1](https://github.com/snquiz1/tes1)** ⭐ 4
-  ![None](https://img.shields.io/badge/-None-lightgrey)
-  None
+- **[wallen0322/ComfyUI-qwenmultianglelight](https://github.com/wallen0322/ComfyUI-qwenmultianglelight)** ⭐ 22
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
+  qwenmultianglelight
 
-- **[snquiz/redisTest](https://github.com/snquiz/redisTest)** ⭐ 4
-  ![None](https://img.shields.io/badge/-None-lightgrey)
-  None
+- **[UofTCTF/uoftctf-2026-chals-public](https://github.com/UofTCTF/uoftctf-2026-chals-public)** ⭐ 18
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  Challenge handouts, source code, and solutions for UofTCTF 2026
 
-- **[snquiz1/dev](https://github.com/snquiz1/dev)** ⭐ 4
+- **[alchemy-run/distilled-cloudflare](https://github.com/alchemy-run/distilled-cloudflare)** ⭐ 12
+  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
+  Effect-native Cloudflare SDK
+
+- **[twwch/AI-Tracker](https://github.com/twwch/AI-Tracker)** ⭐ 11
   ![None](https://img.shields.io/badge/-None-lightgrey)
-  None
+  本仓库旨在整理关于大语言模型（LLM）底层逻辑、**上下文工程 (Context Engineering)** 以及 **Model Context Protocol (MCP)** 协议的核心学习资源与实战路径。
+
+- **[mohammed840/RLM-implementation](https://github.com/mohammed840/RLM-implementation)** ⭐ 11
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  RVAA: Recursive Vision-Action Agent for Long Video Understanding. Implementation of the RLM paradigm (Zhang, Kraska, Khattab 2025)
+
+- **[jakozloski/claude-code-gh-dash](https://github.com/jakozloski/claude-code-gh-dash)** ⭐ 11
+  ![None](https://img.shields.io/badge/-None-lightgrey)
+  GitHub PR Dashboard plugin for Claude Code - view CI/CD status, merge PRs from terminal
 
 ### 📈 Weekly Trending
 
-- **[ChrisWiles/claude-code-showcase](https://github.com/ChrisWiles/claude-code-showcase)** ⭐ 4,022
+- **[ChrisWiles/claude-code-showcase](https://github.com/ChrisWiles/claude-code-showcase)** ⭐ 4,060
   ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
   Comprehensive Claude Code project configuration example with hooks, skills, agents, commands, and GitHub Actions workflows
 
-- **[snarktank/ralph](https://github.com/snarktank/ralph)** ⭐ 2,831
+- **[snarktank/ralph](https://github.com/snarktank/ralph)** ⭐ 3,100
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   Ralph is an autonomous AI agent loop that runs repeatedly until all PRD items are complete. 
 
-- **[torvalds/AudioNoise](https://github.com/torvalds/AudioNoise)** ⭐ 1,577
+- **[torvalds/AudioNoise](https://github.com/torvalds/AudioNoise)** ⭐ 1,824
   ![C](https://img.shields.io/badge/-C-lightgrey)
   Random digital audio effects
 
-- **[ophub/fnnas](https://github.com/ophub/fnnas)** ⭐ 1,539
+- **[ophub/fnnas](https://github.com/ophub/fnnas)** ⭐ 1,584
   ![Shell](https://img.shields.io/badge/-Shell-lightgrey)
   Supports running FnNAS on Amlogic, Allwinner, and Rockchip devices. Support a311d, s922x, s905x3, s905x2, s912, s905d, s905x, s905w, s905, s905l, rk3588, rk3568, rk3399, rk3328, h6, etc.
 
-- **[dvdsgl/claude-canvas](https://github.com/dvdsgl/claude-canvas)** ⭐ 1,146
+- **[vercel-labs/agent-browser](https://github.com/vercel-labs/agent-browser)** ⭐ 1,208
+  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
+  Browser automation CLI for AI agents
+
+- **[dvdsgl/claude-canvas](https://github.com/dvdsgl/claude-canvas)** ⭐ 1,157
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   Give Claude Code an external monitor
 
-- **[x011/smtp-tunnel-proxy](https://github.com/x011/smtp-tunnel-proxy)** ⭐ 906
+- **[x011/smtp-tunnel-proxy](https://github.com/x011/smtp-tunnel-proxy)** ⭐ 920
   ![Python](https://img.shields.io/badge/-Python-blue)
   A high-speed covert tunnel that disguises TCP traffic as SMTP email communication to bypass Deep Packet Inspection (DPI) firewalls.
 
-- **[Yeachan-Heo/oh-my-claude-sisyphus](https://github.com/Yeachan-Heo/oh-my-claude-sisyphus)** ⭐ 756
+- **[Yeachan-Heo/oh-my-claude-sisyphus](https://github.com/Yeachan-Heo/oh-my-claude-sisyphus)** ⭐ 797
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   Sisyphus from OmO (Oh My Opencode), ported to the Claude Code SDK. Written with Claude Code — ironically. Anthropic, what are you gonna do next?
 
-- **[jarrodwatts/claude-code-config](https://github.com/jarrodwatts/claude-code-config)** ⭐ 728
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  My personal Claude Code configuration - rules, hooks, agents, skills, and commands
-
 ### 📈 Monthly Trending
 
-- **[pranshuparmar/witr](https://github.com/pranshuparmar/witr)** ⭐ 10,748
+- **[pranshuparmar/witr](https://github.com/pranshuparmar/witr)** ⭐ 10,767
   ![Go](https://img.shields.io/badge/-Go-cyan)
   Why is this running?
 
-- **[2025Emma/vibe-coding-cn](https://github.com/2025Emma/vibe-coding-cn)** ⭐ 8,055
+- **[2025Emma/vibe-coding-cn](https://github.com/2025Emma/vibe-coding-cn)** ⭐ 8,168
   ![Python](https://img.shields.io/badge/-Python-blue)
   None
 
-- **[HKUDS/DeepTutor](https://github.com/HKUDS/DeepTutor)** ⭐ 8,019
+- **[HKUDS/DeepTutor](https://github.com/HKUDS/DeepTutor)** ⭐ 8,089
   ![Python](https://img.shields.io/badge/-Python-blue)
   "DeepTutor: AI-Powered Personalized Learning Assistant"
 
-- **[OthmanAdi/planning-with-files](https://github.com/OthmanAdi/planning-with-files)** ⭐ 7,250
+- **[OthmanAdi/planning-with-files](https://github.com/OthmanAdi/planning-with-files)** ⭐ 7,522
   ![Shell](https://img.shields.io/badge/-Shell-lightgrey)
   Claude Code skill implementing Manus-style persistent markdown planning — the workflow pattern behind the $2B acquisition.
 
-- **[muratcankoylan/Agent-Skills-for-Context-Engineering](https://github.com/muratcankoylan/Agent-Skills-for-Context-Engineering)** ⭐ 6,448
+- **[muratcankoylan/Agent-Skills-for-Context-Engineering](https://github.com/muratcankoylan/Agent-Skills-for-Context-Engineering)** ⭐ 6,535
   ![Python](https://img.shields.io/badge/-Python-blue)
   A comprehensive collection of Agent Skills for context engineering, multi-agent architectures, and production agent systems. Use when building, optimizing, or debugging agent systems that require effective context management.
 
-- **[kepano/obsidian-skills](https://github.com/kepano/obsidian-skills)** ⭐ 5,517
+- **[kepano/obsidian-skills](https://github.com/kepano/obsidian-skills)** ⭐ 5,637
   ![None](https://img.shields.io/badge/-None-lightgrey)
   Agent skills for Obsidian
 
-- **[bellard/mquickjs](https://github.com/bellard/mquickjs)** ⭐ 5,218
+- **[bellard/mquickjs](https://github.com/bellard/mquickjs)** ⭐ 5,233
   ![C](https://img.shields.io/badge/-C-lightgrey)
   Public repository of the Micro QuickJS Javascript Engine
 
-- **[agentskills/agentskills](https://github.com/agentskills/agentskills)** ⭐ 5,169
+- **[agentskills/agentskills](https://github.com/agentskills/agentskills)** ⭐ 5,204
   ![Python](https://img.shields.io/badge/-Python-blue)
   Specification and documentation for Agent Skills
 
@@ -493,9 +495,9 @@ for a semver-minor rele...
 |-------|--------|
 | Java | 🟡 Learning |
 | Python | 🟢 Proficient |
-| JavaScript | 🔴 Beginner |
-| TypeScript | 🟢 Proficient |
-| Go | 🟡 Learning |
+| JavaScript | ⚪ Planned |
+| TypeScript | ⚪ Planned |
+| Go | 🔴 Beginner |
 
 ### Frameworks
 
@@ -503,7 +505,7 @@ for a semver-minor rele...
 |-------|--------|
 | React | ⚪ Planned |
 | Spring Boot | 🟢 Proficient |
-| Django | ⚪ Planned |
+| Django | 🟡 Learning |
 | Node.js | 🟡 Learning |
 | Next.js | ⚪ Planned |
 
@@ -512,30 +514,30 @@ for a semver-minor rele...
 | Skill | Status |
 |-------|--------|
 | Penetration Testing | 🟡 Learning |
-| Web Security | ⚪ Planned |
-| Network Security | 🟡 Learning |
-| OWASP | 🔴 Beginner |
+| Web Security | 🟢 Proficient |
+| Network Security | 🟢 Proficient |
+| OWASP | 🟡 Learning |
 
 ### Ai Ml
 
 | Skill | Status |
 |-------|--------|
-| Machine Learning | 🟢 Proficient |
+| Machine Learning | 🔴 Beginner |
 | Deep Learning | 🔴 Beginner |
-| NLP | 🔴 Beginner |
-| Computer Vision | 🔴 Beginner |
+| NLP | 🟡 Learning |
+| Computer Vision | 🟡 Learning |
 | TensorFlow | 🟢 Proficient |
-| PyTorch | 🟡 Learning |
+| PyTorch | ⚪ Planned |
 
 ### Devops
 
 | Skill | Status |
 |-------|--------|
-| Docker | 🟢 Proficient |
-| Kubernetes | 🟢 Proficient |
-| CI/CD | ⚪ Planned |
-| AWS | ⚪ Planned |
-| Azure | 🔴 Beginner |
+| Docker | 🔴 Beginner |
+| Kubernetes | 🔴 Beginner |
+| CI/CD | 🟡 Learning |
+| AWS | 🔴 Beginner |
+| Azure | 🟡 Learning |
 
 ### Other
 
