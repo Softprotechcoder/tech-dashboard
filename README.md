@@ -7,7 +7,7 @@
 ![AI & ML](https://img.shields.io/badge/-AI%20&%20ML-blue) ![CyberSecurity](https://img.shields.io/badge/-CyberSecurity-red) ![Full Stack Development](https://img.shields.io/badge/-Full%20Stack%20Development-green)
 
 [![Auto Update](https://img.shields.io/badge/Auto%20Update-Enabled-success)](https://github.com/yourusername/tech-dashboard/actions)
-[![Last Updated](https://img.shields.io/badge/Last%20Updated-January 13, 2026-blue)](https://github.com/yourusername/tech-dashboard)
+[![Last Updated](https://img.shields.io/badge/Last%20Updated-January 14, 2026-blue)](https://github.com/yourusername/tech-dashboard)
 
 *Automatically updated every 6 hours with the latest tech news, trending repositories, and learning resources.*
 
@@ -20,7 +20,7 @@
 | Metric | Count |
 |--------|-------|
 | 📰 Latest News Articles | 26 |
-| 🔥 Trending Repositories | 45 |
+| 🔥 Trending Repositories | 15 |
 | 🎯 Latest Releases | 10 |
 | 🎯 Learning Goals | 4 |
 
@@ -46,79 +46,75 @@
 
 ### 📑 Hacker News
 
-- **[The Tulip Creative Computer](https://github.com/shorepine/tulipcc)**
-  *<p>Article URL: <a href="https://github.com/shorepine/tulipcc">https://github.com/shorepine/tulipcc</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46603995">https://news.ycombi...*
-  📅 Tue, 13 Jan 2026 17:10:42 +0000
+- **[Sei (YC W22) Is Hiring a DevOps Engineer (India/In-Office/Chennai/Gurgaon)](https://www.ycombinator.com/companies/sei/jobs/Rn0KPXR-devops-platform-ai-infrastructure-engineer)**
+  *<p>Article URL: <a href="https://www.ycombinator.com/companies/sei/jobs/Rn0KPXR-devops-platform-ai-infrastructure-engineer">https://www.ycombinator.com/companies/sei/jobs/Rn0KPXR-devops-platform-ai-in...*
+  📅 Wed, 14 Jan 2026 01:01:12 +0000
 
-- **[90M people. 118 hours of silence. One nation erased from the internet](https://state-of-iranblackout.whisper.security/)**
-  *<p>Article URL: <a href="https://state-of-iranblackout.whisper.security/">https://state-of-iranblackout.whisper.security/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=4660391...*
-  📅 Tue, 13 Jan 2026 17:05:43 +0000
+- **[The $LANG Programming Language](https://news.ycombinator.com/item?id=46610557)**
+  *<p>This afternoon I posted some tips on how to present a new* programming language to HN: <a href="https://news.ycombinator.com/item?id=46608577">https://news.ycombinator.com/item?id=46608577</a>. It ...*
+  📅 Wed, 14 Jan 2026 00:17:19 +0000
 
-- **[Legion Health (YC S21) Hiring Cracked Founding Eng for AI-Native Ops](https://jobs.ashbyhq.com/legionhealth/ffdd2b52-eb21-489e-b124-3c0804231424)**
-  *<p>Article URL: <a href="https://jobs.ashbyhq.com/legionhealth/ffdd2b52-eb21-489e-b124-3c0804231424">https://jobs.ashbyhq.com/legionhealth/ffdd2b52-eb21-489e-b124-3c0804231424</a></p>
-<p>Comments URL:...*
-  📅 Tue, 13 Jan 2026 17:01:55 +0000
+- **[A 40-line fix eliminated a 400x performance gap](https://questdb.com/blog/jvm-current-thread-user-time/)**
+  *<p>Article URL: <a href="https://questdb.com/blog/jvm-current-thread-user-time/">https://questdb.com/blog/jvm-current-thread-user-time/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/i...*
+  📅 Tue, 13 Jan 2026 23:00:36 +0000
 
-- **[Influencers and OnlyFans models are dominating U.S. O-1 visa requests](https://www.theguardian.com/us-news/2026/jan/11/onlyfans-influencers-us-o-1-visa)**
-  *<p>Article URL: <a href="https://www.theguardian.com/us-news/2026/jan/11/onlyfans-influencers-us-o-1-visa">https://www.theguardian.com/us-news/2026/jan/11/onlyfans-influencers-us-o-1-visa</a></p>
-<p>C...*
-  📅 Tue, 13 Jan 2026 16:47:39 +0000
+- **[The insecure evangelism of LLM maximalists](https://lewiscampbell.tech/blog/260114.html)**
+  *<p>Article URL: <a href="https://lewiscampbell.tech/blog/260114.html">https://lewiscampbell.tech/blog/260114.html</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46609591">https...*
+  📅 Tue, 13 Jan 2026 22:57:23 +0000
 
-- **[Scott Adams has died](https://www.usatoday.com/story/entertainment/celebrities/2026/01/13/scott-adams-dead-dilbert-creator-prostate-cancer/88158828007/)**
-  *<p>Article URL: <a href="https://www.usatoday.com/story/entertainment/celebrities/2026/01/13/scott-adams-dead-dilbert-creator-prostate-cancer/88158828007/">https://www.usatoday.com/story/entertainment...*
-  📅 Tue, 13 Jan 2026 16:41:40 +0000
+- **[EOL hardware should mean open-source software](https://www.marcia.no/words/eol)**
+  *<p>Article URL: <a href="https://www.marcia.no/words/eol">https://www.marcia.no/words/eol</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46609492">https://news.ycombinator.com/...*
+  📅 Tue, 13 Jan 2026 22:49:51 +0000
 
-- **[What a year of solar and batteries saved us in 2025](https://scotthelme.co.uk/what-a-year-of-solar-and-batteries-really-saved-us-in-2025/)**
-  *<p>Article URL: <a href="https://scotthelme.co.uk/what-a-year-of-solar-and-batteries-really-saved-us-in-2025/">https://scotthelme.co.uk/what-a-year-of-solar-and-batteries-really-saved-us-in-2025/</a><...*
-  📅 Tue, 13 Jan 2026 15:49:27 +0000
+- **[Show HN: AsciiSketch a free browser-based ASCII art and diagram editor](https://files.littlebird.com.au/ascii-sketch.html)**
+  *<p>Article URL: <a href="https://files.littlebird.com.au/ascii-sketch.html">https://files.littlebird.com.au/ascii-sketch.html</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=466...*
+  📅 Tue, 13 Jan 2026 22:39:34 +0000
 
 ### 📑 TechCrunch
 
-- **[Neo humanoid maker 1X releases world model to help bots learn what they see](https://techcrunch.com/2026/01/13/neo-humanoid-maker-1x-releases-world-model-to-help-bots-learn-what-they-see/)**
-  *1X released a new world model that it says is a solid step toward its robots being able to teach themselves new tasks....*
-  📅 Tue, 13 Jan 2026 17:14:08 +0000
+- **[New York governor clears path for robotaxis everywhere, with one notable exception](https://techcrunch.com/2026/01/13/new-york-governor-clears-path-for-robotaxis-everywhere-with-one-notable-exception/)**
+  *New York City will be a notable exclusion from proposed legislation to legalize commercial robotaxis across the state....*
+  📅 Tue, 13 Jan 2026 22:05:11 +0000
 
-- **[Google’s update for Veo 3.1 lets users create vertical videos through reference images](https://techcrunch.com/2026/01/13/googles-update-for-veo-3-1-lets-users-create-vertical-videos-through-reference-images/)**
-  *Google is now allowing users to create vertical videos using references image....*
-  📅 Tue, 13 Jan 2026 17:00:00 +0000
+- **[Microsoft announces glut of new data centers but says it won’t let your electricity bill go up](https://techcrunch.com/2026/01/13/microsoft-announces-glut-of-new-data-centers-but-says-it-wont-let-your-electricity-bill-go-up/)**
+  *The tech giant has pledged to be a "good neighbor" as it continues to invest in AI infrastructure throughout the country....*
+  📅 Tue, 13 Jan 2026 20:15:58 +0000
 
-- **[India reportedly tells quick-commerce firms to drop 10-minute delivery promise](https://techcrunch.com/2026/01/13/india-reportedly-tells-quick-commerce-firms-to-drop-10-minute-delivery-promise/)**
-  *India's labor ministry is pushing the country's booming quick-commerce sector to prioritize the wellness and safety of its gig workers....*
-  📅 Tue, 13 Jan 2026 16:27:46 +0000
+- **[A consumer watchdog issued a warning about Google’s AI agent shopping protocol — Google says she’s wrong](https://techcrunch.com/2026/01/13/a-consumer-watchdog-issued-a-warning-about-googles-ai-agent-shopping-protocol-google-says-shes-wrong/)**
+  *A consumer economics watchdog says Google's new Universal Commerce Protocol is ripe for misuse where consumers could pay more for items. Google denies this....*
+  📅 Tue, 13 Jan 2026 19:40:57 +0000
 
-- **[ElevenLabs CEO says the voice AI startup crossed $330M ARR last year](https://techcrunch.com/2026/01/13/elevenlabs-ceo-says-the-voice-ai-startup-crossed-330-million-arr-last-year/)**
-  *The company said it took only five months to go from $200 million to $330 million in annual recurring revenue....*
-  📅 Tue, 13 Jan 2026 16:15:22 +0000
+- **[Ammobia says it has reinvented a century-old technology](https://techcrunch.com/2026/01/13/ammobia-says-it-has-reinvented-a-century-old-technology/)**
+  *The startup has a new take on the Haber-Bosch process used to make ammonia. If Ammobia can deliver, it could change industries, from power generation to maritime shipping....*
+  📅 Tue, 13 Jan 2026 19:17:24 +0000
 
-- **[Apple launches ‘Creator Studio’ bundle of apps for $12.99 per month](https://techcrunch.com/2026/01/13/apple-launches-creator-studio-bundle-of-apps-for-12-99-per-month/)**
-  *The bundle includes access to Final Cut Pro, Logic Pro, and Pixelmator Pro on Mac and iPad, as well as Motion, Compressor, and MainStage on Mac....*
-  📅 Tue, 13 Jan 2026 14:40:19 +0000
+- **[Ring founder details the camera company’s ‘intelligent assistant’ era](https://techcrunch.com/2026/01/13/ring-founder-details-the-camera-companys-intelligent-assistant-era/)**
+  *AI is ushering in Ring’s next chapter, as the Amazon-owned video doorbell maker shifts toward becoming an “intelligent assistant.”...*
+  📅 Tue, 13 Jan 2026 19:05:49 +0000
 
-- **[Deepgram raises $130M at $1.3B valuation and buys a YC AI startup](https://techcrunch.com/2026/01/13/deepgram-raises-130m-at-1-3b-valuation-and-buys-a-yc-ai-startup/)**
-  *Deepgram is raising its Series C round at a $1.3 billion valuation....*
-  📅 Tue, 13 Jan 2026 13:30:00 +0000
+- **[Man to plead guilty to hacking US Supreme Court filing system](https://techcrunch.com/2026/01/13/man-to-plead-guilty-to-hacking-us-supreme-court-filing-system/)**
+  *A 24-year-old from Tennessee is expected to admit to accessing the Supreme Court’s electronic filing system without authorization dozens of times throughout 2023....*
+  📅 Tue, 13 Jan 2026 19:04:38 +0000
 
 ### 📑 Dev.to
 
-- **[Kotlin Multiplatform in Production - 1 Year Later](https://dev.to/rafalgawlik/kotlin-multiplatform-in-production-1-year-later-55po)**
-  *<p>A year ago, we started migrating a large Polish e-commerce app to Kotlin Multiplatform. Here's what actually happened.</p>
+- **[Claude Code Experiment: More Tokens Doesn't Mean Better Code](https://dev.to/middlebrooks314/claude-code-experiment-more-tokens-doesnt-mean-better-code-4l4l)**
+  *<p>As we kick off the new year, many companies are full speed ahead on leveraging AI tooling for productivity. In fact, some companies are looking at token usage as a way to assess AI adoption and pro...*
+  📅 Wed, 14 Jan 2026 01:05:10 +0000
 
-<h2>
+- **[Troubleshooting EFS Mount Failures in EKS: The IAM Mount Option Mystery](https://dev.to/oyiz-michael/troubleshooting-efs-mount-failures-in-eks-the-iam-mount-option-mystery-4e6h)**
+  *<h2>
   
   
-  The Setup
+  TL;DR
 </h2>
 
-<p>The app serves millions of users. Before...*
-  📅 Tue, 13 Jan 2026 18:08:51 +0000
-
-- **[The NanoBanana Image Generation Prompt Templates That Actually Work](https://dev.to/sivarampg/the-nanobanana-image-generation-prompt-templates-that-actually-work-1261)**
-  *<p><em>The difference between burning through tokens and getting perfect images? Using the proven patterns Google already tested.</em></p>
-
-<p>I just discovered Google's official image generation docu...*
-  📅 Tue, 13 Jan 2026 18:05:16 +0000
+<p>If you're getting <code>mount.nfs4: access denied by server while mounting 127.0.0.1:/</code> when mounting EFS volumes in EKS, and your security groups are correct, you'r...*
+  📅 Wed, 14 Jan 2026 00:57:48 +0000
 
 </details>
 
@@ -126,105 +122,37 @@
 
 ### 📈 Daily Trending
 
-- **[DevAgentForge/Claude-Cowork](https://github.com/DevAgentForge/Claude-Cowork)** ⭐ 112
+- **[ThePrimeagen/theprimeage-com](https://github.com/ThePrimeagen/theprimeage-com)** ⭐ 2
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
-  OpenSource Claude Cowork. A desktop AI assistant that helps you with programming, file management, and any task you can describe.
+  None
 
-- **[likaia/nginxpulse](https://github.com/likaia/nginxpulse)** ⭐ 98
-  ![Vue](https://img.shields.io/badge/-Vue-lightgrey)
-  轻量级 Nginx 访问日志分析与可视化面板，提供实时统计、PV 过滤、IP 归属地与客户端解析。
+- **[franciscohermida/human-ai-loop](https://github.com/franciscohermida/human-ai-loop)** ⭐ 2
+  ![PowerShell](https://img.shields.io/badge/-PowerShell-lightgrey)
+  None
 
-- **[7836246/aws-builder-id](https://github.com/7836246/aws-builder-id)** ⭐ 72
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  自动化注册 AWS Builder ID 账号的工具，支持多地区环境模拟、浏览器指纹随机化和代理集成。
+- **[gwcromwell/Fridgedog](https://github.com/gwcromwell/Fridgedog)** ⭐ 1
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
+  Dog tracking app
 
-- **[Gezine/Luac0re](https://github.com/Gezine/Luac0re)** ⭐ 39
-  ![Lua](https://img.shields.io/badge/-Lua-lightgrey)
-  Luac0re is a mast1c0re variation that uses Lua scripting for easier exploit development.
+- **[Zemerik/Gemini-Assist](https://github.com/Zemerik/Gemini-Assist)** ⭐ 1
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
+  AI Assistant CLI tool powered by Google Gemini API (50% JS, 50% Rust)
 
-- **[calloc134/thinking-in-react](https://github.com/calloc134/thinking-in-react)** ⭐ 38
+- **[nnjhaaz-gif/Mmn](https://github.com/nnjhaaz-gif/Mmn)** ⭐ 1
   ![None](https://img.shields.io/badge/-None-lightgrey)
-  React とは何であるのか（執筆中）
+  None
 
-- **[openkursar/hello-halo](https://github.com/openkursar/hello-halo)** ⭐ 35
-  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
-  The Missing UI for Claude Code
+- **[Amidsty/LemonCpp2](https://github.com/Amidsty/LemonCpp2)** ⭐ 1
+  ![C++](https://img.shields.io/badge/-C++-pink)
+  the 2rd generation of wangyizhi's LemonCpp.
 
-- **[cporter202/vibe-coding-for-dummies](https://github.com/cporter202/vibe-coding-for-dummies)** ⭐ 28
-  ![None](https://img.shields.io/badge/-None-lightgrey)
-  A beginner-friendly guide to building real software using vibe coding. Learn how to ship apps without traditional coding by using Firebase Studio, GitHub, and Cursor. No gatekeeping. No fluff. Just building.  👉 For daily lessons and real-world builds, join the Vibe Coding with Chris skool community.
-
-- **[opbytes/polymarket-bot-decision-engine](https://github.com/opbytes/polymarket-bot-decision-engine)** ⭐ 27
-  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
-  Automated copy trading bot for Polymarket that mirrors trades from top performers with intelligent position sizing and real-time executionpolymarket bot, polymarket bot, polymarket bot, polymarket bot, polymarket bot, polymarket bot, polymarket bot, polymarket bot, polymarket bot, polymarket bot, polymarket bot, polymarket bot, polymarket bot, poly
-
-### 📈 Weekly Trending
-
-- **[snarktank/ralph](https://github.com/snarktank/ralph)** ⭐ 3,596
-  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
-  Ralph is an autonomous AI agent loop that runs repeatedly until all PRD items are complete. 
-
-- **[vercel-labs/agent-browser](https://github.com/vercel-labs/agent-browser)** ⭐ 3,270
-  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
-  Browser automation CLI for AI agents
-
-- **[torvalds/AudioNoise](https://github.com/torvalds/AudioNoise)** ⭐ 3,185
-  ![C](https://img.shields.io/badge/-C-lightgrey)
-  Random digital audio effects
-
-- **[deepseek-ai/Engram](https://github.com/deepseek-ai/Engram)** ⭐ 1,536
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  Conditional Memory via Scalable Lookup: A New Axis of Sparsity for Large Language Models
-
-- **[z-libs/Zen-C](https://github.com/z-libs/Zen-C)** ⭐ 1,380
-  ![C](https://img.shields.io/badge/-C-lightgrey)
-  Write like a high-level language, run like C.
-
-- **[Yeachan-Heo/oh-my-claude-sisyphus](https://github.com/Yeachan-Heo/oh-my-claude-sisyphus)** ⭐ 1,010
-  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
-  Sisyphus from OmO (Oh My Opencode), ported to the Claude Code SDK. Written with Claude Code — ironically. Anthropic, what are you gonna do next?
-
-- **[ZhuLinsen/daily_stock_analysis](https://github.com/ZhuLinsen/daily_stock_analysis)** ⭐ 945
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  LLM驱动的 A 股智能分析器，多数据源行情 + 实时新闻 + Gemini 决策仪表盘 + 多渠道推送，零成本，纯白嫖，定时运行
-
-- **[1rgs/nanocode](https://github.com/1rgs/nanocode)** ⭐ 844
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  Minimal Claude Code alternative. Single Python file, zero dependencies, ~250 lines.
-
-### 📈 Monthly Trending
-
-- **[pranshuparmar/witr](https://github.com/pranshuparmar/witr)** ⭐ 10,836
-  ![Go](https://img.shields.io/badge/-Go-cyan)
-  Why is this running?
-
-- **[2025Emma/vibe-coding-cn](https://github.com/2025Emma/vibe-coding-cn)** ⭐ 8,549
+- **[CUNRENHUI/-](https://github.com/CUNRENHUI/-)** ⭐ 1
   ![Python](https://img.shields.io/badge/-Python-blue)
   None
 
-- **[HKUDS/DeepTutor](https://github.com/HKUDS/DeepTutor)** ⭐ 8,297
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  "DeepTutor: AI-Powered Personalized Learning Assistant"
-
-- **[OthmanAdi/planning-with-files](https://github.com/OthmanAdi/planning-with-files)** ⭐ 8,247
-  ![Shell](https://img.shields.io/badge/-Shell-lightgrey)
-  Claude Code skill implementing Manus-style persistent markdown planning — the workflow pattern behind the $2B acquisition.
-
-- **[muratcankoylan/Agent-Skills-for-Context-Engineering](https://github.com/muratcankoylan/Agent-Skills-for-Context-Engineering)** ⭐ 6,791
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  A comprehensive collection of Agent Skills for context engineering, multi-agent architectures, and production agent systems. Use when building, optimizing, or debugging agent systems that require effective context management.
-
-- **[kepano/obsidian-skills](https://github.com/kepano/obsidian-skills)** ⭐ 6,072
-  ![None](https://img.shields.io/badge/-None-lightgrey)
-  Agent skills for Obsidian
-
-- **[agentskills/agentskills](https://github.com/agentskills/agentskills)** ⭐ 5,347
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  Specification and documentation for Agent Skills
-
-- **[bellard/mquickjs](https://github.com/bellard/mquickjs)** ⭐ 5,261
-  ![C](https://img.shields.io/badge/-C-lightgrey)
-  Public repository of the Micro QuickJS Javascript Engine
+- **[mygoldenhub/react-notion](https://github.com/mygoldenhub/react-notion)** ⭐ 1
+  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
+  None
 
 ## 🚀 Latest Releases
 
@@ -498,7 +426,7 @@ lib:
 | Python | 🟡 Learning |
 | JavaScript | 🔴 Beginner |
 | TypeScript | 🟡 Learning |
-| Go | 🔴 Beginner |
+| Go | 🟡 Learning |
 
 ### Frameworks
 
@@ -508,7 +436,7 @@ lib:
 | Spring Boot | 🟡 Learning |
 | Django | 🔴 Beginner |
 | Node.js | 🟡 Learning |
-| Next.js | 🔴 Beginner |
+| Next.js | 🟢 Proficient |
 
 ### Cybersecurity
 
@@ -516,37 +444,37 @@ lib:
 |-------|--------|
 | Penetration Testing | 🔴 Beginner |
 | Web Security | 🟢 Proficient |
-| Network Security | 🟢 Proficient |
+| Network Security | 🔴 Beginner |
 | OWASP | 🔴 Beginner |
 
 ### Ai Ml
 
 | Skill | Status |
 |-------|--------|
-| Machine Learning | ⚪ Planned |
+| Machine Learning | 🔴 Beginner |
 | Deep Learning | ⚪ Planned |
-| NLP | 🟡 Learning |
-| Computer Vision | 🔴 Beginner |
-| TensorFlow | 🟡 Learning |
-| PyTorch | 🔴 Beginner |
+| NLP | 🟢 Proficient |
+| Computer Vision | ⚪ Planned |
+| TensorFlow | ⚪ Planned |
+| PyTorch | ⚪ Planned |
 
 ### Devops
 
 | Skill | Status |
 |-------|--------|
 | Docker | ⚪ Planned |
-| Kubernetes | ⚪ Planned |
-| CI/CD | ⚪ Planned |
-| AWS | 🟢 Proficient |
+| Kubernetes | 🟢 Proficient |
+| CI/CD | 🟡 Learning |
+| AWS | ⚪ Planned |
 | Azure | 🟢 Proficient |
 
 ### Other
 
 | Skill | Status |
 |-------|--------|
-| Blockchain | 🟡 Learning |
-| Web3 | 🟡 Learning |
-| Cloud Computing | 🟢 Proficient |
+| Blockchain | 🔴 Beginner |
+| Web3 | ⚪ Planned |
+| Cloud Computing | 🔴 Beginner |
 
 </details>
 
@@ -564,7 +492,7 @@ This dashboard is automatically updated every 6 hours using GitHub Actions. The 
 
 <div align="center">
 
-**Last Updated:** January 13, 2026
+**Last Updated:** January 14, 2026
 
 Made with ❤️ and automated with GitHub Actions
 
