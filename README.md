@@ -46,73 +46,86 @@
 
 ### 📑 Hacker News
 
-- **[Coverage Cat (YC S22) Is Hiring a Fractional Operations Specialist](https://www.coveragecat.com/careers/operations/fractional-operations-specialist)**
-  *<p>Article URL: <a href="https://www.coveragecat.com/careers/operations/fractional-operations-specialist">https://www.coveragecat.com/careers/operations/fractional-operations-specialist</a></p>
-<p>Com...*
-  📅 Wed, 14 Jan 2026 12:00:11 +0000
+- **[Dutch police have their own car stolen during car theft chase](https://dutchreview.com/news/dutch-police-car-stolen-during-chase/)**
+  *<p>Article URL: <a href="https://dutchreview.com/news/dutch-police-car-stolen-during-chase/">https://dutchreview.com/news/dutch-police-car-stolen-during-chase/</a></p>
+<p>Comments URL: <a href="https:...*
+  📅 Wed, 14 Jan 2026 17:43:27 +0000
 
-- **[UK secures record supply of offshore wind projects](https://www.bbc.co.uk/news/articles/cn9zyx150xdo)**
-  *<p>Article URL: <a href="https://www.bbc.co.uk/news/articles/cn9zyx150xdo">https://www.bbc.co.uk/news/articles/cn9zyx150xdo</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46614...*
-  📅 Wed, 14 Jan 2026 11:21:15 +0000
+- **[So, You've Hit an Age Gate. What Now?](https://www.eff.org/deeplinks/2026/01/so-youve-hit-age-gate-what-now)**
+  *<p>Article URL: <a href="https://www.eff.org/deeplinks/2026/01/so-youve-hit-age-gate-what-now">https://www.eff.org/deeplinks/2026/01/so-youve-hit-age-gate-what-now</a></p>
+<p>Comments URL: <a href="ht...*
+  📅 Wed, 14 Jan 2026 17:27:22 +0000
 
-- **[Show HN: Tiny FOSS Compass and Navigation App (<2MB)](https://github.com/CompassMB/MBCompass)**
-  *<p>Article URL: <a href="https://github.com/CompassMB/MBCompass">https://github.com/CompassMB/MBCompass</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46614688">https://news.yc...*
-  📅 Wed, 14 Jan 2026 11:09:35 +0000
+- **[Ford F-150 Lightning outsold the Cybertruck and was then canceled for poor sales](https://electrek.co/2026/01/13/ford-f150-lightning-outsold-tesla-cybertruck-canceled-not-selling-enough/)**
+  *<p>Article URL: <a href="https://electrek.co/2026/01/13/ford-f150-lightning-outsold-tesla-cybertruck-canceled-not-selling-enough/">https://electrek.co/2026/01/13/ford-f150-lightning-outsold-tesla-cybe...*
+  📅 Wed, 14 Jan 2026 17:20:09 +0000
 
-- **[I Hate GitHub Actions with Passion](https://xlii.space/eng/i-hate-github-actions-with-passion/)**
-  *<p>Article URL: <a href="https://xlii.space/eng/i-hate-github-actions-with-passion/">https://xlii.space/eng/i-hate-github-actions-with-passion/</a></p>
-<p>Comments URL: <a href="https://news.ycombinat...*
-  📅 Wed, 14 Jan 2026 10:53:13 +0000
+- **[4k tons of potatoes to be given away for free in Berlin](https://www.the-berliner.com/english-news-berlin/4000-tons-of-potatoes-to-be-given-away-for-free/)**
+  *<p>Article URL: <a href="https://www.the-berliner.com/english-news-berlin/4000-tons-of-potatoes-to-be-given-away-for-free/">https://www.the-berliner.com/english-news-berlin/4000-tons-of-potatoes-to-be...*
+  📅 Wed, 14 Jan 2026 16:57:07 +0000
 
-- **[I Love You, Redis, but I'm Leaving You for SolidQueue](https://www.simplethread.com/redis-solidqueue/)**
-  *<p>Article URL: <a href="https://www.simplethread.com/redis-solidqueue/">https://www.simplethread.com/redis-solidqueue/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46614037"...*
-  📅 Wed, 14 Jan 2026 09:25:58 +0000
+- **[How have prices changed in a year? NPR checked 114 items at Walmart](https://www.npr.org/2026/01/14/nx-s1-5638908/walmart-prices-inflation-affordability-shrinkflation)**
+  *<p>Article URL: <a href="https://www.npr.org/2026/01/14/nx-s1-5638908/walmart-prices-inflation-affordability-shrinkflation">https://www.npr.org/2026/01/14/nx-s1-5638908/walmart-prices-inflation-afford...*
+  📅 Wed, 14 Jan 2026 16:39:43 +0000
 
-- **[1000 Blank White Cards](https://en.wikipedia.org/wiki/1000_Blank_White_Cards)**
-  *<p>Article URL: <a href="https://en.wikipedia.org/wiki/1000_Blank_White_Cards">https://en.wikipedia.org/wiki/1000_Blank_White_Cards</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?...*
-  📅 Wed, 14 Jan 2026 03:08:37 +0000
+- **[The Unbearable Frustration of Figuring Out APIs](https://blog.ar-ms.me/thoughts/translation-cli/)**
+  *<p>Article URL: <a href="https://blog.ar-ms.me/thoughts/translation-cli/">https://blog.ar-ms.me/thoughts/translation-cli/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=4661808...*
+  📅 Wed, 14 Jan 2026 16:28:53 +0000
 
 ### 📑 TechCrunch
 
-- **[SkyFi raises $12.7M to turn satellite images into insights](https://techcrunch.com/2026/01/14/skyfi-raises-12-7m-to-turn-satellite-images-into-insights/)**
-  *The Austin-based marketplace offers imagery from more than 50 space-based imagery providers....*
-  📅 Wed, 14 Jan 2026 11:30:00 +0000
+- **[Bandcamp takes a stand against AI music, banning it from the platform](https://techcrunch.com/2026/01/14/bandcamp-takes-a-stand-against-ai-music-banning-it-from-the-platform/)**
+  *"We want musicians to keep making music, and for fans to have confidence that the music they find on Bandcamp was created by humans," the company said....*
+  📅 Wed, 14 Jan 2026 17:06:04 +0000
 
-- **[New York governor clears path for robotaxis everywhere, with one notable exception](https://techcrunch.com/2026/01/13/new-york-governor-clears-path-for-robotaxis-everywhere-with-one-notable-exception/)**
-  *New York City will be a notable exclusion from proposed legislation to legalize commercial robotaxis across the state....*
-  📅 Tue, 13 Jan 2026 22:05:11 +0000
+- **[Bill Gates-backed Type One Energy raises $87M ahead of $250M Series B](https://techcrunch.com/2026/01/14/bill-gates-backed-type-one-energy-raises-87m-ahead-of-250m-series-b/)**
+  *Type One Energy has raised more than $160 million from investors to date. The new funding will help the company further refine its stellarator technology....*
+  📅 Wed, 14 Jan 2026 16:39:49 +0000
 
-- **[Microsoft announces glut of new data centers but says it won’t let your electricity bill go up](https://techcrunch.com/2026/01/13/microsoft-announces-glut-of-new-data-centers-but-says-it-wont-let-your-electricity-bill-go-up/)**
-  *The tech giant has pledged to be a "good neighbor" as it continues to invest in AI infrastructure throughout the country....*
-  📅 Tue, 13 Jan 2026 20:15:58 +0000
+- **[Robotics software maker Skild AI hits $14B valuation](https://techcrunch.com/2026/01/14/robotic-software-maker-skild-ai-hits-14b-valuation/)**
+  *Skild AI, which is building general-purpose robotic software, just raised a $1.4 billion funding round led by SoftBank....*
+  📅 Wed, 14 Jan 2026 16:13:33 +0000
 
-- **[A consumer watchdog issued a warning about Google’s AI agent shopping protocol — Google says she’s wrong](https://techcrunch.com/2026/01/13/a-consumer-watchdog-issued-a-warning-about-googles-ai-agent-shopping-protocol-google-says-shes-wrong/)**
-  *A consumer economics watchdog says Google's new Universal Commerce Protocol is ripe for misuse where consumers could pay more for items. Google denies this....*
-  📅 Tue, 13 Jan 2026 19:40:57 +0000
+- **[Gemini’s new beta feature provides proactive responses based on your photos, emails, and more](https://techcrunch.com/2026/01/14/geminis-new-beta-feature-provides-proactive-responses-based-on-your-photos-emails-and-more/)**
+  *Personal Intelligence is off by default, as users have the option to choose if and when they want to connect their Google apps to Gemini....*
+  📅 Wed, 14 Jan 2026 16:00:00 +0000
 
-- **[Ammobia says it has reinvented a century-old technology](https://techcrunch.com/2026/01/13/ammobia-says-it-has-reinvented-a-century-old-technology/)**
-  *The startup has a new take on the Haber-Bosch process used to make ammonia. If Ammobia can deliver, it could change industries, from power generation to maritime shipping....*
-  📅 Tue, 13 Jan 2026 19:17:24 +0000
+- **[AI security firm, depthfirst, announces $40 million Series A](https://techcrunch.com/2026/01/14/ai-security-firm-depthfirst-announces-40-million-series-a/)**
+  *The company used an AI-native platform to help companies fight threats....*
+  📅 Wed, 14 Jan 2026 15:50:17 +0000
 
-- **[Ring founder details the camera company’s ‘intelligent assistant’ era](https://techcrunch.com/2026/01/13/ring-founder-details-the-camera-companys-intelligent-assistant-era/)**
-  *AI is ushering in Ring’s next chapter, as the Amazon-owned video doorbell maker shifts toward becoming an “intelligent assistant.”...*
-  📅 Tue, 13 Jan 2026 19:05:49 +0000
+- **[US cargo tech company publicly exposed its shipping systems and customer data to the web](https://techcrunch.com/2026/01/14/us-cargo-tech-company-publicly-exposed-its-shipping-systems-and-customer-data-to-the-web/)**
+  *Shipping tech company Bluspark left internal plaintext passwords, including those of executives, exposed to the internet, at a time when hacks in the shipping industry are on the rise....*
+  📅 Wed, 14 Jan 2026 15:40:53 +0000
 
 ### 📑 Dev.to
 
-- **[Why My Node.js E-commerce App Got Slower Over Time (And It Wasn’t a Memory Leak)](https://dev.to/arbythecoder/why-my-nodejs-e-commerce-app-got-slower-over-time-and-it-wasnt-a-memory-leak-49lb)**
-  *<p>I recently finished a Node.js e-commerce build for a client. At first, it was perfect. Locally, everything was snappy. With 10 items in the database, the site felt like it was flying.</p>
+- **[Why Execution Boundaries Matter More Than AI Guardrails](https://dev.to/ziling-failcore/why-execution-boundaries-matter-more-than-ai-guardrails-2421)**
+  *<h2>
+  
+  
+  Why Execution Boundaries Matter More Than AI Guardrails
+</h2>
 
-<p>Then ...*
-  📅 Wed, 14 Jan 2026 12:26:32 +0000
+<p><em>Probabilistic Prompts vs. Deterministic Runtime Safety</em></p>
 
-- **[Demystifying API integration types](https://dev.to/aws-builders/demystifying-api-integration-types-2eia)**
-  *<p><strong>API gateway</strong> integrations connect the gateway to various backend services, such as Lambda functions, HTTP/S endpoints, or other cloud services. The specific integration types and co...*
-  📅 Wed, 14 Jan 2026 12:25:14 +0000
+<h3>
+  
+  
+  The problem isn’t that AI models are “c...*
+  📅 Wed, 14 Jan 2026 18:18:39 +0000
+
+- **[Trait Views: exposing behavior in JavaScript without inheritance](https://dev.to/lsarrazi/trait-views-exposing-behavior-in-javascript-without-inheritance-d6l)**
+  *<h2>
+  
+  
+  Introduction
+</h2>
+
+<p>JavaScript gives us many ways to share behavior: inheritance, mixins, composition, interfaces (via TypeScript).<br />
+Yet in larger systems, all of them tend to fal...*
+  📅 Wed, 14 Jan 2026 18:06:19 +0000
 
 </details>
 
@@ -120,103 +133,103 @@
 
 ### 📈 Daily Trending
 
-- **[ChatPRD/lennys-podcast-transcripts](https://github.com/ChatPRD/lennys-podcast-transcripts)** ⭐ 104
+- **[ChatPRD/lennys-podcast-transcripts](https://github.com/ChatPRD/lennys-podcast-transcripts)** ⭐ 190
   ![None](https://img.shields.io/badge/-None-lightgrey)
   Transcripts from Lenny's Podcast
 
-- **[xieyan110/Novel2Comic](https://github.com/xieyan110/Novel2Comic)** ⭐ 69
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  None
-
-- **[xuzeyu91/WebCode](https://github.com/xuzeyu91/WebCode)** ⭐ 51
-  ![CSS](https://img.shields.io/badge/-CSS-lightgrey)
-  WebCode是一个在线 AI 编程平台，让你可以通过 Web 浏览器远程控制各种 AI CLI (Claude Code\Codex)编程助手，实现真正的随时随地编程——无论你在地铁上、咖啡馆里，还是躺在沙发上，只要有浏览器就能写代码！
-
-- **[rotejin/MotionPNGTuber_Player](https://github.com/rotejin/MotionPNGTuber_Player)** ⭐ 24
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
-  Browser-based PNGTuber lipsync player - No Python required
-
-- **[linlee996/gemini-business](https://github.com/linlee996/gemini-business)** ⭐ 18
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  集成了 google business 批量注册、Token 刷新、2API 的服务
-
-- **[agent-topia/evolving_personality](https://github.com/agent-topia/evolving_personality)** ⭐ 17
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  Jungian Personality Adaptation Framework (JPAF) —A Structured Approach to Dynamic Personality Modeling for LLM Agents
-
-- **[AGDNoob/axis-lang](https://github.com/AGDNoob/axis-lang)** ⭐ 15
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  Systems programming language with Python-like syntax and C-level performance. Compiles to native x86-64 machine code without external dependencies.
-
-- **[frankpetersohn/ITKlasse2025](https://github.com/frankpetersohn/ITKlasse2025)** ⭐ 12
+- **[georgeNdonna/solana-standard](https://github.com/georgeNdonna/solana-standard)** ⭐ 109
   ![None](https://img.shields.io/badge/-None-lightgrey)
-  Übungen zu Git
+  This project includes basic materials associated with the project. 
+
+- **[stevenZdorothy/polygon-contract](https://github.com/stevenZdorothy/polygon-contract)** ⭐ 110
+  ![None](https://img.shields.io/badge/-None-lightgrey)
+  The repository serves as a supporting resource while the online source provides more complete context.
+
+- **[LSteven6gov/mempool-example](https://github.com/LSteven6gov/mempool-example)** ⭐ 108
+  ![None](https://img.shields.io/badge/-None-lightgrey)
+  Further details can be found via the corresponding website. 
+
+- **[ZDonald2qan/solana-verify](https://github.com/ZDonald2qan/solana-verify)** ⭐ 108
+  ![None](https://img.shields.io/badge/-None-lightgrey)
+  This GitHub repository contains supporting materials associated with this work. 
+
+- **[stevenQdeborah/avalanche-bot](https://github.com/stevenQdeborah/avalanche-bot)** ⭐ 106
+  ![None](https://img.shields.io/badge/-None-lightgrey)
+  This project serves as a reference and the website offers extended information.
+
+- **[VGeorge5hoy/gas-pool](https://github.com/VGeorge5hoy/gas-pool)** ⭐ 103
+  ![None](https://img.shields.io/badge/-None-lightgrey)
+  This project acts as a reference and the website offers extended context.
+
+- **[stevenZdorothy/arbitrum-contract](https://github.com/stevenZdorothy/arbitrum-contract)** ⭐ 103
+  ![None](https://img.shields.io/badge/-None-lightgrey)
+  This GitHub repository provides basic files associated with this work. 
 
 ### 📈 Weekly Trending
 
-- **[vercel-labs/agent-browser](https://github.com/vercel-labs/agent-browser)** ⭐ 4,347
+- **[vercel-labs/agent-browser](https://github.com/vercel-labs/agent-browser)** ⭐ 4,611
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   Browser automation CLI for AI agents
 
-- **[torvalds/AudioNoise](https://github.com/torvalds/AudioNoise)** ⭐ 3,600
+- **[torvalds/AudioNoise](https://github.com/torvalds/AudioNoise)** ⭐ 3,727
   ![C](https://img.shields.io/badge/-C-lightgrey)
   Random digital audio effects
 
-- **[deepseek-ai/Engram](https://github.com/deepseek-ai/Engram)** ⭐ 2,029
+- **[deepseek-ai/Engram](https://github.com/deepseek-ai/Engram)** ⭐ 2,122
   ![Python](https://img.shields.io/badge/-Python-blue)
   Conditional Memory via Scalable Lookup: A New Axis of Sparsity for Large Language Models
 
-- **[z-libs/Zen-C](https://github.com/z-libs/Zen-C)** ⭐ 1,570
+- **[z-libs/Zen-C](https://github.com/z-libs/Zen-C)** ⭐ 1,729
   ![C](https://img.shields.io/badge/-C-lightgrey)
   Write like a high-level language, run like C.
 
-- **[ZhuLinsen/daily_stock_analysis](https://github.com/ZhuLinsen/daily_stock_analysis)** ⭐ 1,337
+- **[ZhuLinsen/daily_stock_analysis](https://github.com/ZhuLinsen/daily_stock_analysis)** ⭐ 1,424
   ![Python](https://img.shields.io/badge/-Python-blue)
   LLM驱动的 A 股智能分析器，多数据源行情 + 实时新闻 + Gemini 决策仪表盘 + 多渠道推送，零成本，纯白嫖，定时运行
 
-- **[Yeachan-Heo/oh-my-claude-sisyphus](https://github.com/Yeachan-Heo/oh-my-claude-sisyphus)** ⭐ 1,095
+- **[Yeachan-Heo/oh-my-claude-sisyphus](https://github.com/Yeachan-Heo/oh-my-claude-sisyphus)** ⭐ 1,113
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   Sisyphus from OmO (Oh My Opencode), ported to the Claude Code SDK. Written with Claude Code — ironically. Anthropic, what are you gonna do next?
 
-- **[1rgs/nanocode](https://github.com/1rgs/nanocode)** ⭐ 962
+- **[1rgs/nanocode](https://github.com/1rgs/nanocode)** ⭐ 993
   ![Python](https://img.shields.io/badge/-Python-blue)
   Minimal Claude Code alternative. Single Python file, zero dependencies, ~250 lines.
 
-- **[jarrodwatts/claude-code-config](https://github.com/jarrodwatts/claude-code-config)** ⭐ 769
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  My personal Claude Code configuration - rules, hooks, agents, skills, and commands
+- **[DevAgentForge/Claude-Cowork](https://github.com/DevAgentForge/Claude-Cowork)** ⭐ 830
+  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
+  OpenSource Claude Cowork. A desktop AI assistant that helps you with programming, file management, and any task you can describe.
 
 ### 📈 Monthly Trending
 
-- **[pranshuparmar/witr](https://github.com/pranshuparmar/witr)** ⭐ 10,883
+- **[pranshuparmar/witr](https://github.com/pranshuparmar/witr)** ⭐ 10,901
   ![Go](https://img.shields.io/badge/-Go-cyan)
   Why is this running?
 
-- **[2025Emma/vibe-coding-cn](https://github.com/2025Emma/vibe-coding-cn)** ⭐ 8,729
+- **[2025Emma/vibe-coding-cn](https://github.com/2025Emma/vibe-coding-cn)** ⭐ 8,780
   ![Python](https://img.shields.io/badge/-Python-blue)
   None
 
-- **[OthmanAdi/planning-with-files](https://github.com/OthmanAdi/planning-with-files)** ⭐ 8,643
+- **[OthmanAdi/planning-with-files](https://github.com/OthmanAdi/planning-with-files)** ⭐ 8,743
   ![Shell](https://img.shields.io/badge/-Shell-lightgrey)
   Claude Code skill implementing Manus-style persistent markdown planning — the workflow pattern behind the $2B acquisition.
 
-- **[HKUDS/DeepTutor](https://github.com/HKUDS/DeepTutor)** ⭐ 8,436
+- **[HKUDS/DeepTutor](https://github.com/HKUDS/DeepTutor)** ⭐ 8,470
   ![Python](https://img.shields.io/badge/-Python-blue)
   "DeepTutor: AI-Powered Personalized Learning Assistant"
 
-- **[muratcankoylan/Agent-Skills-for-Context-Engineering](https://github.com/muratcankoylan/Agent-Skills-for-Context-Engineering)** ⭐ 6,937
+- **[muratcankoylan/Agent-Skills-for-Context-Engineering](https://github.com/muratcankoylan/Agent-Skills-for-Context-Engineering)** ⭐ 6,957
   ![Python](https://img.shields.io/badge/-Python-blue)
   A comprehensive collection of Agent Skills for context engineering, multi-agent architectures, and production agent systems. Use when building, optimizing, or debugging agent systems that require effective context management.
 
-- **[kepano/obsidian-skills](https://github.com/kepano/obsidian-skills)** ⭐ 6,259
+- **[kepano/obsidian-skills](https://github.com/kepano/obsidian-skills)** ⭐ 6,306
   ![None](https://img.shields.io/badge/-None-lightgrey)
   Agent skills for Obsidian
 
-- **[agentskills/agentskills](https://github.com/agentskills/agentskills)** ⭐ 5,475
+- **[agentskills/agentskills](https://github.com/agentskills/agentskills)** ⭐ 5,537
   ![Python](https://img.shields.io/badge/-Python-blue)
   Specification and documentation for Agent Skills
 
-- **[bellard/mquickjs](https://github.com/bellard/mquickjs)** ⭐ 5,280
+- **[bellard/mquickjs](https://github.com/bellard/mquickjs)** ⭐ 5,283
   ![C](https://img.shields.io/badge/-C-lightgrey)
   Public repository of the Micro QuickJS Javascript Engine
 
@@ -489,8 +502,8 @@ lib:
 | Skill | Status |
 |-------|--------|
 | Java | ⚪ Planned |
-| Python | ⚪ Planned |
-| JavaScript | 🟢 Proficient |
+| Python | 🔴 Beginner |
+| JavaScript | ⚪ Planned |
 | TypeScript | 🟡 Learning |
 | Go | ⚪ Planned |
 
@@ -499,48 +512,48 @@ lib:
 | Skill | Status |
 |-------|--------|
 | React | 🟢 Proficient |
-| Spring Boot | 🔴 Beginner |
-| Django | 🟢 Proficient |
-| Node.js | ⚪ Planned |
-| Next.js | 🔴 Beginner |
+| Spring Boot | 🟢 Proficient |
+| Django | ⚪ Planned |
+| Node.js | 🔴 Beginner |
+| Next.js | 🟡 Learning |
 
 ### Cybersecurity
 
 | Skill | Status |
 |-------|--------|
 | Penetration Testing | 🟡 Learning |
-| Web Security | 🟢 Proficient |
-| Network Security | ⚪ Planned |
-| OWASP | 🟡 Learning |
+| Web Security | ⚪ Planned |
+| Network Security | 🔴 Beginner |
+| OWASP | 🟢 Proficient |
 
 ### Ai Ml
 
 | Skill | Status |
 |-------|--------|
-| Machine Learning | 🔴 Beginner |
+| Machine Learning | 🟡 Learning |
 | Deep Learning | 🟡 Learning |
 | NLP | 🟡 Learning |
 | Computer Vision | 🟢 Proficient |
-| TensorFlow | 🔴 Beginner |
+| TensorFlow | ⚪ Planned |
 | PyTorch | 🔴 Beginner |
 
 ### Devops
 
 | Skill | Status |
 |-------|--------|
-| Docker | 🔴 Beginner |
-| Kubernetes | 🟡 Learning |
+| Docker | ⚪ Planned |
+| Kubernetes | 🔴 Beginner |
 | CI/CD | ⚪ Planned |
-| AWS | 🔴 Beginner |
+| AWS | 🟡 Learning |
 | Azure | ⚪ Planned |
 
 ### Other
 
 | Skill | Status |
 |-------|--------|
-| Blockchain | 🔴 Beginner |
-| Web3 | 🟡 Learning |
-| Cloud Computing | ⚪ Planned |
+| Blockchain | 🟡 Learning |
+| Web3 | ⚪ Planned |
+| Cloud Computing | 🔴 Beginner |
 
 </details>
 
