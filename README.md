@@ -46,34 +46,32 @@
 
 ### 📑 Hacker News
 
+- **[San Francisco to offer free childcare to people making up to $230000](https://www.theguardian.com/us-news/2026/jan/15/san-francisco-childcare-families)**
+  *<p>Article URL: <a href="https://www.theguardian.com/us-news/2026/jan/15/san-francisco-childcare-families">https://www.theguardian.com/us-news/2026/jan/15/san-francisco-childcare-families</a></p>
+<p>C...*
+  📅 Fri, 16 Jan 2026 04:51:57 +0000
+
+- **[Boeing knew of flaw in part linked to UPS plane crash, NTSB report says](https://www.bbc.com/news/articles/cly56w0p9e1o)**
+  *<p>Article URL: <a href="https://www.bbc.com/news/articles/cly56w0p9e1o">https://www.bbc.com/news/articles/cly56w0p9e1o</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46642920"...*
+  📅 Fri, 16 Jan 2026 04:11:17 +0000
+
+- **[OpenBSD-current now runs as guest under Apple Hypervisor](https://www.undeadly.org/cgi?action=article;sid=20260115203619)**
+  *<p>Article URL: <a href="https://www.undeadly.org/cgi?action=article;sid=20260115203619">https://www.undeadly.org/cgi?action=article;sid=20260115203619</a></p>
+<p>Comments URL: <a href="https://news.y...*
+  📅 Fri, 16 Jan 2026 03:10:36 +0000
+
+- **[SETI Home Flags 100 Signals After Sorting 12B Others](https://news.berkeley.edu/2026/01/12/for-21-years-enthusiasts-used-their-home-computers-to-search-for-et-uc-berkeley-scientists-are-homing-in-on-100-signals-they-found/)**
+  *<p>Article URL: <a href="https://news.berkeley.edu/2026/01/12/for-21-years-enthusiasts-used-their-home-computers-to-search-for-et-uc-berkeley-scientists-are-homing-in-on-100-signals-they-found/">https...*
+  📅 Fri, 16 Jan 2026 02:45:15 +0000
+
+- **[Show HN: Reversing YouTube’s “Most Replayed” Graph](https://priyavr.at/blog/reversing-most-replayed/)**
+  *<p>Hi HN,<p>I recently noticed a recurring visual artifact in the "Most Replayed" heatmap on the YouTube player. The highest peaks were always surrounded by two dips. I got curious about why they were...*
+  📅 Fri, 16 Jan 2026 02:06:11 +0000
+
 - **[Show HN: Gambit, an open-source agent harness for building reliable AI agents](https://github.com/bolt-foundry/gambit)**
   *<p>Hey HN!<p>Wanted to show our open source agent harness called Gambit.<p>If you’re not familiar, agent harnesses are sort of like an operating system for an agent... they handle tool calling, planni...*
   📅 Fri, 16 Jan 2026 00:13:25 +0000
-
-- **[My Gripes with Prolog](https://buttondown.com/hillelwayne/archive/my-gripes-with-prolog/)**
-  *<p>Article URL: <a href="https://buttondown.com/hillelwayne/archive/my-gripes-with-prolog/">https://buttondown.com/hillelwayne/archive/my-gripes-with-prolog/</a></p>
-<p>Comments URL: <a href="https://...*
-  📅 Fri, 16 Jan 2026 00:11:28 +0000
-
-- **[Why senior engineers let bad projects fail](https://lalitm.com/post/why-senior-engineers-let-bad-projects-fail/)**
-  *<p>Article URL: <a href="https://lalitm.com/post/why-senior-engineers-let-bad-projects-fail/">https://lalitm.com/post/why-senior-engineers-let-bad-projects-fail/</a></p>
-<p>Comments URL: <a href="http...*
-  📅 Thu, 15 Jan 2026 22:33:58 +0000
-
-- **[Aviator (YC S21) is hiring to build multiplayer AI coding platform](https://www.ycombinator.com/companies/aviator/jobs)**
-  *<p>Article URL: <a href="https://www.ycombinator.com/companies/aviator/jobs">https://www.ycombinator.com/companies/aviator/jobs</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=4...*
-  📅 Thu, 15 Jan 2026 21:00:42 +0000
-
-- **[Linux boxes via SSH: suspended when disconected](https://shellbox.dev/)**
-  *<p>Article URL: <a href="https://shellbox.dev/">https://shellbox.dev/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46638629">https://news.ycombinator.com/item?id=46638629</a>...*
-  📅 Thu, 15 Jan 2026 20:20:13 +0000
-
-- **[How I learned everything I know about programming](https://agentultra.com/blog/how-i-learned-everything-i-know/index.html)**
-  *<p>Article URL: <a href="https://agentultra.com/blog/how-i-learned-everything-i-know/index.html">https://agentultra.com/blog/how-i-learned-everything-i-know/index.html</a></p>
-<p>Comments URL: <a href...*
-  📅 Thu, 15 Jan 2026 19:54:42 +0000
 
 ### 📑 TechCrunch
 
@@ -103,21 +101,28 @@
 
 ### 📑 Dev.to
 
-- **[Multi-agent coding pipeline: Claude Code + Codex collaborate for higher accuracy and reliable deliverables [Open Source]](https://dev.to/zh-code/multi-agent-coding-pipeline-claude-code-codex-collaborate-for-higher-accuracy-and-reliable-n7n)**
-  *<p>Hey everyone,</p>
-
-<p>I've been working on this open-source thing called <strong>Claude Codex</strong>—basically a plugin for Claude Code that brings multi-AI code review into your dev workflow.</p...*
-  📅 Fri, 16 Jan 2026 01:02:21 +0000
-
-- **[Stop Guessing if Your AI Works: A Complete Guide to Evaluating and Monitoring on Bedrock](https://dev.to/datatechbridge/stop-guessing-if-your-ai-works-a-complete-guide-to-evaluating-and-monitoring-on-bedrock-20b0)**
-  *<h2>
+- **[From Chaos to Clarity: Building a Robust Log Aggregation Pipeline with Kafka (KRaft) and ELK](https://dev.to/srikantvs26/from-chaos-to-clarity-building-a-robust-log-aggregation-pipeline-with-kafka-kraft-and-elk-37bb)**
+  *<h1>
   
   
-  I. Model Evaluation
-</h2>
+  From Chaos to Clarity: Building a Robust Log Aggregation Pipeline with Kafka (KRaft) and ELK
+</h1>
 
-<p>Let me be honest – before you put any AI model into production, you need to know it actually works. Amazon Bedrock makes this easier with built-in evaluation...*
-  📅 Fri, 16 Jan 2026 00:59:24 +0000
+<p>As systems grow into microservices, logs become fragmented. Debugging an issue often...*
+  📅 Fri, 16 Jan 2026 06:12:51 +0000
+
+- **[Level 0 of my DevOps journey](https://dev.to/alok38/level-0-of-my-devops-journey-1em3)**
+  *<h1>
+  
+  
+  Level 0 DevOps Summary: What I’ve Done
+</h1>
+
+<p>1 <strong>Created and Connected to an EC2 Instance</strong></p>
+
+<ul>
+<li><p>You launched an <strong>AWS EC2 instance</strong> (Linux-base...*
+  📅 Fri, 16 Jan 2026 06:12:30 +0000
 
 </details>
 
@@ -125,103 +130,103 @@
 
 ### 📈 Daily Trending
 
-- **[seba1342/SQL-formatter](https://github.com/seba1342/SQL-formatter)** ⭐ 1
+- **[salem98/kmp-luckin-coffee-clone](https://github.com/salem98/kmp-luckin-coffee-clone)** ⭐ 49
+  ![Kotlin](https://img.shields.io/badge/-Kotlin-lightgrey)
+  Kotlin Multiplatform Luckin Coffee clone with Compose Multiplatform - Premium UI with animations, carousels, and modern design patterns
+
+- **[lukasmwerner/pocket-reader](https://github.com/lukasmwerner/pocket-reader)** ⭐ 8
   ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
   None
 
-- **[dutactsatu-coder/JOKIINAJA_AQFIY](https://github.com/dutactsatu-coder/JOKIINAJA_AQFIY)** ⭐ 1
-  ![HTML](https://img.shields.io/badge/-HTML-lightgrey)
+- **[zantaku/zantaku-modules](https://github.com/zantaku/zantaku-modules)** ⭐ 6
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
+  A modern rewrite of 50n50’s module system with a cleaner structure, interactive scaffolding, and a streamlined bundling pipeline.
+
+- **[HeroDappDev/CARA-AI](https://github.com/HeroDappDev/CARA-AI)** ⭐ 5
+  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   None
 
-- **[Darknetzz/php-license-framework](https://github.com/Darknetzz/php-license-framework)** ⭐ 1
-  ![PHP](https://img.shields.io/badge/-PHP-lightgrey)
-  Reusable PHP license management framework
+- **[Und3r1ine/AlphaMapping](https://github.com/Und3r1ine/AlphaMapping)** ⭐ 5
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  🗺️ AlphaMapping - Mapping the Unknown in Cyberspace.
 
-- **[saitamakalenji034-code/r3tgrabber](https://github.com/saitamakalenji034-code/r3tgrabber)** ⭐ 1
-  ![None](https://img.shields.io/badge/-None-lightgrey)
-  r3t grabberdir kullanabilirsiniz
+- **[EthanLipnik/MirageKit](https://github.com/EthanLipnik/MirageKit)** ⭐ 5
+  ![Swift](https://img.shields.io/badge/-Swift-lightgrey)
+  Peer to Peer screen sharing framework from macOS to iPadOS, visionOS, and macOS
 
-- **[sedat3946-hash/hesaplama](https://github.com/sedat3946-hash/hesaplama)** ⭐ 1
-  ![HTML](https://img.shields.io/badge/-HTML-lightgrey)
+- **[Mrguanglei/SlideAgent](https://github.com/Mrguanglei/SlideAgent)** ⭐ 5
+  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   None
 
-- **[senokentiy/ping](https://github.com/senokentiy/ping)** ⭐ 1
-  ![C](https://img.shields.io/badge/-C-lightgrey)
+- **[hjyl-cheng/Situational-English](https://github.com/hjyl-cheng/Situational-English)** ⭐ 4
+  ![Dart](https://img.shields.io/badge/-Dart-lightgrey)
   None
-
-- **[ShibayanBiswas/artificial-intelligence](https://github.com/ShibayanBiswas/artificial-intelligence)** ⭐ 1
-  ![Jupyter Notebook](https://img.shields.io/badge/-Jupyter Notebook-lightgrey)
-  None
-
-- **[mabel-qq-yao/Cracking-Coding_-Visualization-Models-_R-Python](https://github.com/mabel-qq-yao/Cracking-Coding_-Visualization-Models-_R-Python)** ⭐ 1
-  ![None](https://img.shields.io/badge/-None-lightgrey)
-  Cracking Coding_ Visualization + Models _R & Python
 
 ### 📈 Weekly Trending
 
-- **[vercel-labs/agent-browser](https://github.com/vercel-labs/agent-browser)** ⭐ 6,237
+- **[vercel-labs/agent-browser](https://github.com/vercel-labs/agent-browser)** ⭐ 6,421
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   Browser automation CLI for AI agents
 
-- **[vercel-labs/json-render](https://github.com/vercel-labs/json-render)** ⭐ 3,382
+- **[vercel-labs/json-render](https://github.com/vercel-labs/json-render)** ⭐ 3,897
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   AI → JSON → UI
 
-- **[z-libs/Zen-C](https://github.com/z-libs/Zen-C)** ⭐ 2,667
+- **[z-libs/Zen-C](https://github.com/z-libs/Zen-C)** ⭐ 2,678
   ![C](https://img.shields.io/badge/-C-lightgrey)
   Write like a high-level language, run like C.
 
-- **[deepseek-ai/Engram](https://github.com/deepseek-ai/Engram)** ⭐ 2,476
+- **[deepseek-ai/Engram](https://github.com/deepseek-ai/Engram)** ⭐ 2,529
   ![Python](https://img.shields.io/badge/-Python-blue)
   Conditional Memory via Scalable Lookup: A New Axis of Sparsity for Large Language Models
 
-- **[ZhuLinsen/daily_stock_analysis](https://github.com/ZhuLinsen/daily_stock_analysis)** ⭐ 1,924
+- **[ZhuLinsen/daily_stock_analysis](https://github.com/ZhuLinsen/daily_stock_analysis)** ⭐ 2,050
   ![Python](https://img.shields.io/badge/-Python-blue)
   LLM驱动的 A 股智能分析器，多数据源行情 + 实时新闻 + Gemini 决策仪表盘 + 多渠道推送，零成本，纯白嫖，定时运行
 
-- **[DevAgentForge/Claude-Cowork](https://github.com/DevAgentForge/Claude-Cowork)** ⭐ 1,265
+- **[DevAgentForge/Claude-Cowork](https://github.com/DevAgentForge/Claude-Cowork)** ⭐ 1,340
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   OpenSource Claude Cowork. A desktop AI assistant that helps you with programming, file management, and any task you can describe.
 
-- **[1rgs/nanocode](https://github.com/1rgs/nanocode)** ⭐ 1,221
+- **[1rgs/nanocode](https://github.com/1rgs/nanocode)** ⭐ 1,266
   ![Python](https://img.shields.io/badge/-Python-blue)
   Minimal Claude Code alternative. Single Python file, zero dependencies, ~250 lines.
 
-- **[trailofbits/skills](https://github.com/trailofbits/skills)** ⭐ 858
+- **[trailofbits/skills](https://github.com/trailofbits/skills)** ⭐ 944
   ![Python](https://img.shields.io/badge/-Python-blue)
   Trail of Bits Claude Code skills for security research, vulnerability detection, and audit workflows
 
 ### 📈 Monthly Trending
 
-- **[pranshuparmar/witr](https://github.com/pranshuparmar/witr)** ⭐ 10,958
+- **[pranshuparmar/witr](https://github.com/pranshuparmar/witr)** ⭐ 10,975
   ![Go](https://img.shields.io/badge/-Go-cyan)
   Why is this running?
 
-- **[OthmanAdi/planning-with-files](https://github.com/OthmanAdi/planning-with-files)** ⭐ 9,223
+- **[OthmanAdi/planning-with-files](https://github.com/OthmanAdi/planning-with-files)** ⭐ 9,328
   ![Shell](https://img.shields.io/badge/-Shell-lightgrey)
   Claude Code skill implementing Manus-style persistent markdown planning — the workflow pattern behind the $2B acquisition.
 
-- **[HKUDS/DeepTutor](https://github.com/HKUDS/DeepTutor)** ⭐ 8,731
+- **[HKUDS/DeepTutor](https://github.com/HKUDS/DeepTutor)** ⭐ 8,773
   ![Python](https://img.shields.io/badge/-Python-blue)
   "DeepTutor: AI-Powered Personalized Learning Assistant"
 
-- **[muratcankoylan/Agent-Skills-for-Context-Engineering](https://github.com/muratcankoylan/Agent-Skills-for-Context-Engineering)** ⭐ 7,096
+- **[muratcankoylan/Agent-Skills-for-Context-Engineering](https://github.com/muratcankoylan/Agent-Skills-for-Context-Engineering)** ⭐ 7,151
   ![Python](https://img.shields.io/badge/-Python-blue)
   A comprehensive collection of Agent Skills for context engineering, multi-agent architectures, and production agent systems. Use when building, optimizing, or debugging agent systems that require effective context management.
 
-- **[kepano/obsidian-skills](https://github.com/kepano/obsidian-skills)** ⭐ 6,514
+- **[kepano/obsidian-skills](https://github.com/kepano/obsidian-skills)** ⭐ 6,579
   ![None](https://img.shields.io/badge/-None-lightgrey)
   Agent skills for Obsidian
 
-- **[vercel-labs/agent-browser](https://github.com/vercel-labs/agent-browser)** ⭐ 6,237
+- **[vercel-labs/agent-browser](https://github.com/vercel-labs/agent-browser)** ⭐ 6,421
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   Browser automation CLI for AI agents
 
-- **[bellard/mquickjs](https://github.com/bellard/mquickjs)** ⭐ 5,305
+- **[bellard/mquickjs](https://github.com/bellard/mquickjs)** ⭐ 5,309
   ![C](https://img.shields.io/badge/-C-lightgrey)
   Public repository of the Micro QuickJS Javascript Engine
 
-- **[ChrisWiles/claude-code-showcase](https://github.com/ChrisWiles/claude-code-showcase)** ⭐ 4,769
+- **[ChrisWiles/claude-code-showcase](https://github.com/ChrisWiles/claude-code-showcase)** ⭐ 4,790
   ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
   Comprehensive Claude Code project configuration example with hooks, skills, agents, commands, and GitHub Actions workflows
 
@@ -493,57 +498,57 @@ lib:
 
 | Skill | Status |
 |-------|--------|
-| Java | 🟢 Proficient |
-| Python | 🟢 Proficient |
-| JavaScript | 🔴 Beginner |
-| TypeScript | 🟢 Proficient |
+| Java | 🔴 Beginner |
+| Python | ⚪ Planned |
+| JavaScript | 🟢 Proficient |
+| TypeScript | ⚪ Planned |
 | Go | 🟡 Learning |
 
 ### Frameworks
 
 | Skill | Status |
 |-------|--------|
-| React | 🟢 Proficient |
+| React | 🟡 Learning |
 | Spring Boot | ⚪ Planned |
-| Django | 🟡 Learning |
+| Django | 🔴 Beginner |
 | Node.js | ⚪ Planned |
-| Next.js | 🟡 Learning |
+| Next.js | 🟢 Proficient |
 
 ### Cybersecurity
 
 | Skill | Status |
 |-------|--------|
-| Penetration Testing | 🟢 Proficient |
-| Web Security | 🟢 Proficient |
-| Network Security | 🔴 Beginner |
-| OWASP | 🔴 Beginner |
+| Penetration Testing | ⚪ Planned |
+| Web Security | 🔴 Beginner |
+| Network Security | 🟡 Learning |
+| OWASP | 🟡 Learning |
 
 ### Ai Ml
 
 | Skill | Status |
 |-------|--------|
-| Machine Learning | 🔴 Beginner |
+| Machine Learning | ⚪ Planned |
 | Deep Learning | ⚪ Planned |
-| NLP | 🔴 Beginner |
-| Computer Vision | 🟡 Learning |
+| NLP | ⚪ Planned |
+| Computer Vision | 🟢 Proficient |
 | TensorFlow | 🔴 Beginner |
-| PyTorch | 🟢 Proficient |
+| PyTorch | ⚪ Planned |
 
 ### Devops
 
 | Skill | Status |
 |-------|--------|
 | Docker | ⚪ Planned |
-| Kubernetes | 🟢 Proficient |
-| CI/CD | 🟡 Learning |
-| AWS | ⚪ Planned |
-| Azure | 🟢 Proficient |
+| Kubernetes | 🟡 Learning |
+| CI/CD | 🟢 Proficient |
+| AWS | 🟢 Proficient |
+| Azure | ⚪ Planned |
 
 ### Other
 
 | Skill | Status |
 |-------|--------|
-| Blockchain | 🟢 Proficient |
+| Blockchain | 🟡 Learning |
 | Web3 | 🟢 Proficient |
 | Cloud Computing | 🔴 Beginner |
 
