@@ -46,78 +46,78 @@
 
 ### 📑 Hacker News
 
-- **[On Being a Human Being in the Time of Collapse (2022) [pdf]](https://web.cs.ucdavis.edu/~rogaway/papers/crisis/crisis.pdf)**
-  *<p>Article URL: <a href="https://web.cs.ucdavis.edu/~rogaway/papers/crisis/crisis.pdf">https://web.cs.ucdavis.edu/~rogaway/papers/crisis/crisis.pdf</a></p>
-<p>Comments URL: <a href="https://news.ycomb...*
-  📅 Fri, 16 Jan 2026 10:19:52 +0000
+- **[OpenAI to begin testing ads on ChatGPT in the U.S.](https://www.cnbc.com/2026/01/16/open-ai-chatgpt-ads-us.html)**
+  *<p>Article URL: <a href="https://www.cnbc.com/2026/01/16/open-ai-chatgpt-ads-us.html">https://www.cnbc.com/2026/01/16/open-ai-chatgpt-ads-us.html</a></p>
+<p>Comments URL: <a href="https://news.ycombin...*
+  📅 Fri, 16 Jan 2026 18:06:06 +0000
 
-- **[The spectrum of isolation: From bare metal to WebAssembly](https://buildsoftwaresystems.com/post/guide-to-execution-environments/)**
-  *<p>Article URL: <a href="https://buildsoftwaresystems.com/post/guide-to-execution-environments/">https://buildsoftwaresystems.com/post/guide-to-execution-environments/</a></p>
-<p>Comments URL: <a href...*
-  📅 Fri, 16 Jan 2026 09:27:03 +0000
+- **[New Evidence Reveals Renee Good Was Still Alive When ICE Blocked Medic](https://newrepublic.com/post/205373/evidence-renee-good-still-alive-ice-blocked-medic)**
+  *<p>Article URL: <a href="https://newrepublic.com/post/205373/evidence-renee-good-still-alive-ice-blocked-medic">https://newrepublic.com/post/205373/evidence-renee-good-still-alive-ice-blocked-medic</a...*
+  📅 Fri, 16 Jan 2026 17:58:40 +0000
 
-- **[pf: Make af-to less magical](https://undeadly.org/cgi?action=article;sid=20260116085115)**
-  *<p>Article URL: <a href="https://undeadly.org/cgi?action=article;sid=20260116085115">https://undeadly.org/cgi?action=article;sid=20260116085115</a></p>
-<p>Comments URL: <a href="https://news.ycombinat...*
-  📅 Fri, 16 Jan 2026 09:06:45 +0000
+- **[STFU](https://github.com/Pankajtanwarbanna/stfu)**
+  *<p>Article URL: <a href="https://github.com/Pankajtanwarbanna/stfu">https://github.com/Pankajtanwarbanna/stfu</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46649142">https://n...*
+  📅 Fri, 16 Jan 2026 17:32:40 +0000
 
-- **[Interactive eBPF](https://ebpf.party/)**
-  *<p>Article URL: <a href="https://ebpf.party/">https://ebpf.party/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46644181">https://news.ycombinator.com/item?id=46644181</a></p>...*
-  📅 Fri, 16 Jan 2026 08:01:02 +0000
+- **[Dell UltraSharp 52 Thunderbolt Hub Monitor](https://www.dell.com/en-us/shop/dell-ultrasharp-52-thunderbolt-hub-monitor-u5226kw/apd/210-bthw/monitors-monitor-accessories)**
+  *<p>Article URL: <a href="https://www.dell.com/en-us/shop/dell-ultrasharp-52-thunderbolt-hub-monitor-u5226kw/apd/210-bthw/monitors-monitor-accessories">https://www.dell.com/en-us/shop/dell-ultrasharp-5...*
+  📅 Fri, 16 Jan 2026 17:14:15 +0000
 
-- **[Building a better Bugbot](https://cursor.com/blog/building-bugbot)**
-  *<p>Article URL: <a href="https://cursor.com/blog/building-bugbot">https://cursor.com/blog/building-bugbot</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46643737">https://news....*
-  📅 Fri, 16 Jan 2026 06:52:03 +0000
+- **[Canada slashes 100% tariffs on Chinese EVs to 6%](https://electrek.co/2026/01/16/canada-breaks-with-us-slashes-100-tariffs-chinese-evs/)**
+  *<p>Article URL: <a href="https://electrek.co/2026/01/16/canada-breaks-with-us-slashes-100-tariffs-chinese-evs/">https://electrek.co/2026/01/16/canada-breaks-with-us-slashes-100-tariffs-chinese-evs/</a...*
+  📅 Fri, 16 Jan 2026 17:05:28 +0000
 
-- **[Boeing knew of flaw in part linked to UPS plane crash, NTSB report says](https://www.bbc.com/news/articles/cly56w0p9e1o)**
-  *<p>Article URL: <a href="https://www.bbc.com/news/articles/cly56w0p9e1o">https://www.bbc.com/news/articles/cly56w0p9e1o</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46642920"...*
-  📅 Fri, 16 Jan 2026 04:11:17 +0000
+- **[Zep AI (Agent Context Engineering, YC W24) Is Hiring Forward Deployed Engineers](https://www.ycombinator.com/companies/zep-ai/jobs/)**
+  *<p>Article URL: <a href="https://www.ycombinator.com/companies/zep-ai/jobs/">https://www.ycombinator.com/companies/zep-ai/jobs/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=4...*
+  📅 Fri, 16 Jan 2026 17:00:29 +0000
 
 ### 📑 TechCrunch
 
-- **[Anthropic taps former Microsoft India MD to lead Bengaluru expansion](https://techcrunch.com/2026/01/15/anthropic-taps-former-microsoft-india-md-to-lead-bengaluru-expansion/)**
-  *Irina Ghose joins Anthropic as India managing director after 24 years at Microsoft....*
-  📅 Fri, 16 Jan 2026 07:28:25 +0000
+- **[How a hacking campaign targeted high-profile Gmail and WhatsApp users across the Middle East](https://techcrunch.com/2026/01/16/how-a-hacking-campaign-targeted-high-profile-gmail-and-whatsapp-users-across-the-middle-east/)**
+  *The phishing campaign targeted users on WhatsApp, including an Iranian-British activist, and stole the credentials of a Lebanese cabinet minister and at least one journalist....*
+  📅 Fri, 16 Jan 2026 17:15:00 +0000
 
-- **[Silicon Valley’s messiest breakup is definitely headed to court](https://techcrunch.com/2026/01/15/silicon-valleys-messiest-breakout-is-definitely-headed-to-court/)**
-  *OpenAI and Microsoft tried to dodge a courtroom showdown with Elon Musk, but a federal judge on Thursday rejected their requests to dismiss the case....*
-  📅 Fri, 16 Jan 2026 06:45:15 +0000
+- **[X is down for the second time this week](https://techcrunch.com/2026/01/16/x-is-down-for-the-second-time-this-week/)**
+  *Elon Musk's X, formerly Twitter, is down for the second time this week. Nearly 80,000 reports have spiked on Down Detector since around 10 a.m. ET Friday morning....*
+  📅 Fri, 16 Jan 2026 16:29:38 +0000
 
-- **[AI journalism startup Symbolic.ai signs deal with Rupert Murdoch’s News Corp](https://techcrunch.com/2026/01/15/ai-journalism-startup-symbolic-ai-signs-deal-with-rupert-murdochs-news-corp/)**
-  *The startup claims its AI platform can help optimize editorial processes and research....*
-  📅 Fri, 16 Jan 2026 00:49:54 +0000
+- **[Chinese EVs inch closer to the US as Canada slashes tariffs](https://techcrunch.com/2026/01/16/chinese-evs-inch-closer-to-the-us-as-canada-slashes-tariffs/)**
+  *The country is dropping its import tax from 100% to just 6.1%, with an initial annual cap of 49,000 cars....*
+  📅 Fri, 16 Jan 2026 16:04:02 +0000
 
-- **[The AI lab revolving door spins ever faster](https://techcrunch.com/2026/01/15/the-ai-lab-revolving-door-spins-ever-faster/)**
-  *AI labs just can't get their employees to stay put. Yesterday’s big AI news was the abrupt and seemingly acrimonious departure of three top executives at Mira Murati’s Thinking Machines lab....*
-  📅 Thu, 15 Jan 2026 22:04:02 +0000
+- **[YouTube relaxes monetization guidelines for some controversial topics](https://techcrunch.com/2026/01/16/youtube-relaxes-monetization-guidelines-for-some-controversial-topics/)**
+  *These controversial topics include self-harm, abortion, suicide, and domestic and sexual abuse....*
+  📅 Fri, 16 Jan 2026 15:56:58 +0000
 
-- **[Taiwan to invest $250B in US semiconductor manufacturing](https://techcrunch.com/2026/01/15/taiwan-to-invest-250b-in-us-semiconductor-manufacturing/)**
-  *The U.S. struck a trade deal with Taiwan as the country looks to help boost domestic semiconductor manufacturing....*
-  📅 Thu, 15 Jan 2026 20:52:44 +0000
+- **[Bluesky rolls out cashtags and LIVE badges amid a boost in app installs](https://techcrunch.com/2026/01/16/bluesky-rolls-out-cashtags-and-live-badges-amid-a-boost-in-app-installs/)**
+  *Bluesky adds new features to its app amid a boost in installs due to the deepfake drama on X....*
+  📅 Fri, 16 Jan 2026 15:42:13 +0000
 
-- **[AI video startup, Higgsfield, founded by ex-Snap exec, lands $1.3B valuation](https://techcrunch.com/2026/01/15/ai-video-startup-higgsfield-founded-by-ex-snap-exec-lands-1-3b-valuation/)**
-  *Higgsfield says it's on a $200 million annual revenue run rate. So it opened its previous Series A round back up and sold another $80 million in shares....*
-  📅 Thu, 15 Jan 2026 19:28:45 +0000
+- **[Italy investigates Activision Blizzard for pushing in-game purchases](https://techcrunch.com/2026/01/16/italy-investigates-activision-blizzard-for-pushing-in-game-purchases/)**
+  *Italy has launched two investigations into Microsoft's Activision Blizzard, alleging the company has engaged in "misleading and aggressive" sales practices for two of its most popular smartphone games...*
+  📅 Fri, 16 Jan 2026 15:02:49 +0000
 
 ### 📑 Dev.to
 
-- **[How to find "Remote-from-anywhere" jobs](https://dev.to/stetsenko_me/how-to-find-remote-from-anywhere-jobs-2lbo)**
-  *<p>Many jobs are labeled remote. Very few mean remote-from-anywhere.</p>
+- **[Is this code deterministic?](https://dev.to/aws/is-this-code-deterministic-29l9)**
+  *<p>I recently posted a small code snippet in a LinkedIn poll and asked what sounded like a simple question:</p>
 
-<p>Here are practical checks that help you spot true remote roles faster and avoid common red flags:</p>
+<p><strong>Is this code deterministic?</strong></p>
 
-<p>1) <strong>Read t...*
-  📅 Fri, 16 Jan 2026 12:15:51 +0000
+<p>Those are usually the dangerous...*
+  📅 Fri, 16 Jan 2026 18:20:30 +0000
 
-- **[LeetCode DSA Series #10: 83. Remove Duplicates from Sorted List](https://dev.to/daveson217/leetcode-dsa-series-10-83-remove-duplicates-from-sorted-list-1a0n)**
-  *<p>For this submission, I attempted <a href="https://leetcode.com/problems/remove-duplicates-from-sorted-list/" rel="noopener noreferrer">83. Remove Duplicates from Sorted List</a>.</p>
+- **[How many addresses fit into a Cell?](https://dev.to/a08778/how-many-addresses-fit-into-a-cell-2fga)**
+  *<h2>
+  
+  
+  Intro
+</h2>
 
-<blockquote>
-...*
-  📅 Fri, 16 Jan 2026 12:15:00 +0000
+<p>While developing a smart contract, I needed to store several addresses in persistent storage. At first this looked trivial, but then a simple question came up: <strong>how...*
+  📅 Fri, 16 Jan 2026 18:15:40 +0000
 
 </details>
 
@@ -125,105 +125,105 @@
 
 ### 📈 Daily Trending
 
+- **[salem98/kmp-luckin-coffee-clone](https://github.com/salem98/kmp-luckin-coffee-clone)** ⭐ 74
+  ![Kotlin](https://img.shields.io/badge/-Kotlin-lightgrey)
+  Kotlin Multiplatform Luckin Coffee clone with Compose Multiplatform - Premium UI with animations, carousels, and modern design patterns
+
+- **[cocojojo5213/Dev-Janitor](https://github.com/cocojojo5213/Dev-Janitor)** ⭐ 70
+  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
+  None
+
 - **[jovevkystaxg0j/X-Core-Development-Interface](https://github.com/jovevkystaxg0j/X-Core-Development-Interface)** ⭐ 70
   ![None](https://img.shields.io/badge/-None-lightgrey)
   High-performance SDK and environment for low-level process management, module synchronization, and technical task execution. Optimized for x64 architecture stability.
 
-- **[salem98/kmp-luckin-coffee-clone](https://github.com/salem98/kmp-luckin-coffee-clone)** ⭐ 67
-  ![Kotlin](https://img.shields.io/badge/-Kotlin-lightgrey)
-  Kotlin Multiplatform Luckin Coffee clone with Compose Multiplatform - Premium UI with animations, carousels, and modern design patterns
-
-- **[HeroDappDev/CARA-AI](https://github.com/HeroDappDev/CARA-AI)** ⭐ 23
-  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
+- **[DB-121143/IMG2XML](https://github.com/DB-121143/IMG2XML)** ⭐ 57
+  ![Python](https://img.shields.io/badge/-Python-blue)
   None
 
-- **[lukasmwerner/pocket-reader](https://github.com/lukasmwerner/pocket-reader)** ⭐ 17
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
-  None
-
-- **[Pankajtanwarbanna/stfu](https://github.com/Pankajtanwarbanna/stfu)** ⭐ 16
+- **[Pankajtanwarbanna/stfu](https://github.com/Pankajtanwarbanna/stfu)** ⭐ 41
   ![HTML](https://img.shields.io/badge/-HTML-lightgrey)
   stfu
 
-- **[sharp-edge/CodeShittifier](https://github.com/sharp-edge/CodeShittifier)** ⭐ 16
-  ![Java](https://img.shields.io/badge/-Java-orange)
-  💩 Shittier code as a service: Making Java/Kotlin code shittier, one file at a time! A satirical code formatter for Java / Kotlin / Android developers.
-
-- **[DB-121143/IMG2XML](https://github.com/DB-121143/IMG2XML)** ⭐ 16
+- **[browser-use/agent-sdk](https://github.com/browser-use/agent-sdk)** ⭐ 31
   ![Python](https://img.shields.io/badge/-Python-blue)
   None
 
-- **[browser-use/agent-sdk](https://github.com/browser-use/agent-sdk)** ⭐ 12
-  ![Python](https://img.shields.io/badge/-Python-blue)
+- **[HeroDappDev/CARA-AI](https://github.com/HeroDappDev/CARA-AI)** ⭐ 25
+  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
+  None
+
+- **[Abhisheksinha1506/ai-efficiency-handbooks](https://github.com/Abhisheksinha1506/ai-efficiency-handbooks)** ⭐ 25
+  ![None](https://img.shields.io/badge/-None-lightgrey)
   None
 
 ### 📈 Weekly Trending
 
-- **[vercel-labs/agent-browser](https://github.com/vercel-labs/agent-browser)** ⭐ 6,628
+- **[vercel-labs/agent-browser](https://github.com/vercel-labs/agent-browser)** ⭐ 6,765
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   Browser automation CLI for AI agents
 
-- **[vercel-labs/json-render](https://github.com/vercel-labs/json-render)** ⭐ 4,472
+- **[vercel-labs/json-render](https://github.com/vercel-labs/json-render)** ⭐ 4,997
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   AI → JSON → UI
 
-- **[z-libs/Zen-C](https://github.com/z-libs/Zen-C)** ⭐ 2,697
+- **[z-libs/Zen-C](https://github.com/z-libs/Zen-C)** ⭐ 2,726
   ![C](https://img.shields.io/badge/-C-lightgrey)
   Write like a high-level language, run like C.
 
-- **[deepseek-ai/Engram](https://github.com/deepseek-ai/Engram)** ⭐ 2,586
+- **[deepseek-ai/Engram](https://github.com/deepseek-ai/Engram)** ⭐ 2,613
   ![Python](https://img.shields.io/badge/-Python-blue)
   Conditional Memory via Scalable Lookup: A New Axis of Sparsity for Large Language Models
 
-- **[ZhuLinsen/daily_stock_analysis](https://github.com/ZhuLinsen/daily_stock_analysis)** ⭐ 2,157
+- **[ZhuLinsen/daily_stock_analysis](https://github.com/ZhuLinsen/daily_stock_analysis)** ⭐ 2,223
   ![Python](https://img.shields.io/badge/-Python-blue)
   LLM驱动的 A 股智能分析器，多数据源行情 + 实时新闻 + Gemini 决策仪表盘 + 多渠道推送，零成本，纯白嫖，定时运行
 
-- **[DevAgentForge/Claude-Cowork](https://github.com/DevAgentForge/Claude-Cowork)** ⭐ 1,412
+- **[DevAgentForge/Claude-Cowork](https://github.com/DevAgentForge/Claude-Cowork)** ⭐ 1,476
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   OpenSource Claude Cowork. A desktop AI assistant that helps you with programming, file management, and any task you can describe.
 
-- **[1rgs/nanocode](https://github.com/1rgs/nanocode)** ⭐ 1,311
+- **[1rgs/nanocode](https://github.com/1rgs/nanocode)** ⭐ 1,341
   ![Python](https://img.shields.io/badge/-Python-blue)
   Minimal Claude Code alternative. Single Python file, zero dependencies, ~250 lines.
 
-- **[trailofbits/skills](https://github.com/trailofbits/skills)** ⭐ 1,030
+- **[trailofbits/skills](https://github.com/trailofbits/skills)** ⭐ 1,116
   ![Python](https://img.shields.io/badge/-Python-blue)
   Trail of Bits Claude Code skills for security research, vulnerability detection, and audit workflows
 
 ### 📈 Monthly Trending
 
-- **[pranshuparmar/witr](https://github.com/pranshuparmar/witr)** ⭐ 10,990
+- **[pranshuparmar/witr](https://github.com/pranshuparmar/witr)** ⭐ 10,998
   ![Go](https://img.shields.io/badge/-Go-cyan)
   Why is this running?
 
-- **[OthmanAdi/planning-with-files](https://github.com/OthmanAdi/planning-with-files)** ⭐ 9,427
+- **[OthmanAdi/planning-with-files](https://github.com/OthmanAdi/planning-with-files)** ⭐ 9,486
   ![Shell](https://img.shields.io/badge/-Shell-lightgrey)
   Claude Code skill implementing Manus-style persistent markdown planning — the workflow pattern behind the $2B acquisition.
 
-- **[HKUDS/DeepTutor](https://github.com/HKUDS/DeepTutor)** ⭐ 8,822
+- **[HKUDS/DeepTutor](https://github.com/HKUDS/DeepTutor)** ⭐ 8,844
   ![Python](https://img.shields.io/badge/-Python-blue)
   "DeepTutor: AI-Powered Personalized Learning Assistant"
 
-- **[muratcankoylan/Agent-Skills-for-Context-Engineering](https://github.com/muratcankoylan/Agent-Skills-for-Context-Engineering)** ⭐ 7,190
+- **[muratcankoylan/Agent-Skills-for-Context-Engineering](https://github.com/muratcankoylan/Agent-Skills-for-Context-Engineering)** ⭐ 7,214
   ![Python](https://img.shields.io/badge/-Python-blue)
   A comprehensive collection of Agent Skills for context engineering, multi-agent architectures, and production agent systems. Use when building, optimizing, or debugging agent systems that require effective context management.
 
-- **[kepano/obsidian-skills](https://github.com/kepano/obsidian-skills)** ⭐ 6,644
-  ![None](https://img.shields.io/badge/-None-lightgrey)
-  Agent skills for Obsidian
-
-- **[vercel-labs/agent-browser](https://github.com/vercel-labs/agent-browser)** ⭐ 6,628
+- **[vercel-labs/agent-browser](https://github.com/vercel-labs/agent-browser)** ⭐ 6,765
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   Browser automation CLI for AI agents
 
-- **[bellard/mquickjs](https://github.com/bellard/mquickjs)** ⭐ 5,312
+- **[kepano/obsidian-skills](https://github.com/kepano/obsidian-skills)** ⭐ 6,700
+  ![None](https://img.shields.io/badge/-None-lightgrey)
+  Agent skills for Obsidian
+
+- **[bellard/mquickjs](https://github.com/bellard/mquickjs)** ⭐ 5,314
   ![C](https://img.shields.io/badge/-C-lightgrey)
   Public repository of the Micro QuickJS Javascript Engine
 
-- **[ChrisWiles/claude-code-showcase](https://github.com/ChrisWiles/claude-code-showcase)** ⭐ 4,810
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
-  Comprehensive Claude Code project configuration example with hooks, skills, agents, commands, and GitHub Actions workflows
+- **[vercel-labs/json-render](https://github.com/vercel-labs/json-render)** ⭐ 4,997
+  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
+  AI → JSON → UI
 
 ## 🚀 Latest Releases
 
@@ -494,58 +494,58 @@ lib:
 | Skill | Status |
 |-------|--------|
 | Java | ⚪ Planned |
-| Python | 🔴 Beginner |
-| JavaScript | 🔴 Beginner |
-| TypeScript | 🔴 Beginner |
-| Go | 🟢 Proficient |
+| Python | ⚪ Planned |
+| JavaScript | 🟡 Learning |
+| TypeScript | 🟢 Proficient |
+| Go | 🔴 Beginner |
 
 ### Frameworks
 
 | Skill | Status |
 |-------|--------|
 | React | 🔴 Beginner |
-| Spring Boot | 🟡 Learning |
-| Django | ⚪ Planned |
-| Node.js | 🔴 Beginner |
+| Spring Boot | 🔴 Beginner |
+| Django | 🟡 Learning |
+| Node.js | 🟢 Proficient |
 | Next.js | 🟡 Learning |
 
 ### Cybersecurity
 
 | Skill | Status |
 |-------|--------|
-| Penetration Testing | ⚪ Planned |
-| Web Security | ⚪ Planned |
-| Network Security | 🟡 Learning |
-| OWASP | 🔴 Beginner |
+| Penetration Testing | 🟡 Learning |
+| Web Security | 🔴 Beginner |
+| Network Security | 🔴 Beginner |
+| OWASP | 🟡 Learning |
 
 ### Ai Ml
 
 | Skill | Status |
 |-------|--------|
-| Machine Learning | 🟡 Learning |
-| Deep Learning | 🟢 Proficient |
-| NLP | 🔴 Beginner |
-| Computer Vision | 🔴 Beginner |
+| Machine Learning | 🟢 Proficient |
+| Deep Learning | ⚪ Planned |
+| NLP | 🟢 Proficient |
+| Computer Vision | 🟡 Learning |
 | TensorFlow | 🟢 Proficient |
-| PyTorch | 🔴 Beginner |
+| PyTorch | 🟡 Learning |
 
 ### Devops
 
 | Skill | Status |
 |-------|--------|
-| Docker | 🟡 Learning |
-| Kubernetes | 🔴 Beginner |
-| CI/CD | 🔴 Beginner |
-| AWS | 🟢 Proficient |
+| Docker | 🟢 Proficient |
+| Kubernetes | ⚪ Planned |
+| CI/CD | ⚪ Planned |
+| AWS | ⚪ Planned |
 | Azure | ⚪ Planned |
 
 ### Other
 
 | Skill | Status |
 |-------|--------|
-| Blockchain | 🟡 Learning |
-| Web3 | 🟢 Proficient |
-| Cloud Computing | 🟡 Learning |
+| Blockchain | 🔴 Beginner |
+| Web3 | ⚪ Planned |
+| Cloud Computing | ⚪ Planned |
 
 </details>
 
