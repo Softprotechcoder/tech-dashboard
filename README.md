@@ -46,32 +46,34 @@
 
 ### 📑 Hacker News
 
-- **[Left in the cold: Study finds most renters shut out of energy-saving upgrades](https://www.binghamton.edu/news/story/6011/left-in-the-cold-study-finds-most-renters-shut-out-of-energy-saving-upgrades)**
-  *<p>Article URL: <a href="https://www.binghamton.edu/news/story/6011/left-in-the-cold-study-finds-most-renters-shut-out-of-energy-saving-upgrades">https://www.binghamton.edu/news/story/6011/left-in-the...*
-  📅 Fri, 16 Jan 2026 23:35:58 +0000
+- **[A Calif. teen trusted ChatGPT's drug advice. He died from an overdose](https://www.sfgate.com/tech/article/calif-teen-chatgpt-drug-advice-fatal-overdose-21266718.php)**
+  *<p>Article URL: <a href="https://www.sfgate.com/tech/article/calif-teen-chatgpt-drug-advice-fatal-overdose-21266718.php">https://www.sfgate.com/tech/article/calif-teen-chatgpt-drug-advice-fatal-overdo...*
+  📅 Sat, 17 Jan 2026 03:50:43 +0000
 
-- **[Re: Mix: open-source repairable blender](https://github.com/openfunkHQ/reMix)**
-  *<p>Article URL: <a href="https://github.com/openfunkHQ/reMix">https://github.com/openfunkHQ/reMix</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46653270">https://news.ycombina...*
-  📅 Fri, 16 Jan 2026 22:49:04 +0000
+- **[Artisanal Code](https://sunnyamrat.com/posts/2026-01-17-artisanal-code/)**
+  *<p>Article URL: <a href="https://sunnyamrat.com/posts/2026-01-17-artisanal-code/">https://sunnyamrat.com/posts/2026-01-17-artisanal-code/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com...*
+  📅 Sat, 17 Jan 2026 03:27:31 +0000
 
-- **[Drawbot: Let's hack something cute (2025)](https://www.atredis.com/blog/2025/9/30/drawbot-lets-hack-something-cute)**
-  *<p>Article URL: <a href="https://www.atredis.com/blog/2025/9/30/drawbot-lets-hack-something-cute">https://www.atredis.com/blog/2025/9/30/drawbot-lets-hack-something-cute</a></p>
+- **[Drone Hacking Part 1: Dumping Firmware and Bruteforcing ECC](https://neodyme.io/en/blog/drone_hacking_part_1/)**
+  *<p>Article URL: <a href="https://neodyme.io/en/blog/drone_hacking_part_1/">https://neodyme.io/en/blog/drone_hacking_part_1/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46654...*
+  📅 Sat, 17 Jan 2026 02:35:28 +0000
+
+- **[Keifu – A TUI for navigating commit graphs with color and clarity](https://github.com/trasta298/keifu)**
+  *<p>Article URL: <a href="https://github.com/trasta298/keifu">https://github.com/trasta298/keifu</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46654085">https://news.ycombinato...*
+  📅 Sat, 17 Jan 2026 00:32:24 +0000
+
+- **[FLUX.2 [Klein]: Towards Interactive Visual Intelligence](https://bfl.ai/blog/flux2-klein-towards-interactive-visual-intelligence)**
+  *<p>Article URL: <a href="https://bfl.ai/blog/flux2-klein-towards-interactive-visual-intelligence">https://bfl.ai/blog/flux2-klein-towards-interactive-visual-intelligence</a></p>
 <p>Comments URL: <a hr...*
-  📅 Fri, 16 Jan 2026 22:13:18 +0000
+  📅 Fri, 16 Jan 2026 23:46:17 +0000
 
-- **[Releasing rainbow tables to accelerate Net-NTLMv1 protocol deprecation](https://cloud.google.com/blog/topics/threat-intelligence/net-ntlmv1-deprecation-rainbow-tables)**
-  *<p>Article URL: <a href="https://cloud.google.com/blog/topics/threat-intelligence/net-ntlmv1-deprecation-rainbow-tables">https://cloud.google.com/blog/topics/threat-intelligence/net-ntlmv1-deprecation...*
-  📅 Fri, 16 Jan 2026 21:42:24 +0000
-
-- **[Slop is everywhere for those with eyes to see](https://www.fromjason.xyz/p/notebook/slop-is-everywhere-for-those-with-eyes-to-see/)**
-  *<p>Article URL: <a href="https://www.fromjason.xyz/p/notebook/slop-is-everywhere-for-those-with-eyes-to-see/">https://www.fromjason.xyz/p/notebook/slop-is-everywhere-for-those-with-eyes-to-see/</a></p...*
-  📅 Fri, 16 Jan 2026 20:03:10 +0000
-
-- **[Reading across books with Claude Code](https://pieterma.es/syntopic-reading-claude/)**
-  *<p>Article URL: <a href="https://pieterma.es/syntopic-reading-claude/">https://pieterma.es/syntopic-reading-claude/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46650347">htt...*
-  📅 Fri, 16 Jan 2026 18:49:29 +0000
+- **[Install.md: A standard for LLM-executable installation](https://www.mintlify.com/blog/install-md-standard-for-llm-executable-installation)**
+  *<p>Article URL: <a href="https://www.mintlify.com/blog/install-md-standard-for-llm-executable-installation">https://www.mintlify.com/blog/install-md-standard-for-llm-executable-installation</a></p>
+<p...*
+  📅 Fri, 16 Jan 2026 22:15:20 +0000
 
 ### 📑 TechCrunch
 
@@ -101,17 +103,23 @@
 
 ### 📑 Dev.to
 
-- **[From Shaky Squats to Perfect Form: Master Workout Analysis with Dynamic Time Warping (DTW)](https://dev.to/beck_moulton/from-shaky-squats-to-perfect-form-master-workout-analysis-with-dynamic-time-warping-dtw-20pn)**
-  *<p>So, you’ve been hitting your home workouts, but are you actually doing those squats correctly, or are you just "aggressively vibrating" in your living room? </p>
+- **[Building an AI SaaS system is possible; however, when you build the SaaS system, you should have ethical considerations at the centre. If you don't have ethics at the centre, then your model will work but won't have any trust.](https://dev.to/jaideepparashar/building-an-ai-saas-system-is-possible-however-when-you-build-the-saas-system-you-should-have-2kib)**
+  *<div class="ltag__link">
+  <a class="ltag__link__link" href="https://dev.to/jaideepparashar">
+    <div class="ltag__link__pic">
+      <img alt="jaideepparashar" src="https://media2.dev.to/dynamic/imag...*
+  📅 Sat, 17 Jan 2026 06:15:27 +0000
 
-<p>In the world of <strong>fitness...*
-  📅 Sat, 17 Jan 2026 00:50:00 +0000
+- **[What No One Tells You About Building an AI SaaS Business](https://dev.to/jaideepparashar/what-no-one-tells-you-about-building-an-ai-saas-business-2nhe)**
+  *<p>Building an AI SaaS business looks straightforward right now.</p>
 
-- **[n8n Integrates Note, Obsidian, Dify, and SNS - Complete Overview of the Increasingly Chaotic Automation Workflow](https://dev.to/takashi_abe_c6e5ce4004697/n8n-integrates-note-obsidian-dify-and-sns-complete-overview-of-the-increasingly-chaotic-23bi)**
-  *<p>Since I started integrating note and Obsidian with n8n, I was quite pleased that document generation was now consolidated in one place.</p>
+<p>Pick a model.<br />
+Wrap it in a UI.<br />
+Add subscriptions.<br />
+Scale.</p>
 
-<p>The structure from before has now become like this.</...*
-  📅 Sat, 17 Jan 2026 00:49:09 +0000
+<p>From the outside, it feels like the easiest ...*
+  📅 Sat, 17 Jan 2026 06:14:17 +0000
 
 </details>
 
@@ -119,105 +127,105 @@
 
 ### 📈 Daily Trending
 
-- **[jean-brg/uOttaHack-8](https://github.com/jean-brg/uOttaHack-8)** ⭐ 1
+- **[secorizon/OffByWon](https://github.com/secorizon/OffByWon)** ⭐ 7
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  Network Fuzzing Framework
+
+- **[SmrutAI/opencode-migration](https://github.com/SmrutAI/opencode-migration)** ⭐ 3
   ![None](https://img.shields.io/badge/-None-lightgrey)
+  ClaudeCode to OpenCode Migration guide
+
+- **[Dbz-Mahin7x/Mahiru-shina](https://github.com/Dbz-Mahin7x/Mahiru-shina)** ⭐ 3
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
   None
 
-- **[omoorhus-cell/NameTags](https://github.com/omoorhus-cell/NameTags)** ⭐ 1
-  ![Java](https://img.shields.io/badge/-Java-orange)
-  Dynamic nametag system handling player state, visibility, and cross-context synchronization with performance-conscious design.
+- **[ppogg/Deepstream-Box](https://github.com/ppogg/Deepstream-Box)** ⭐ 3
+  ![Cuda](https://img.shields.io/badge/-Cuda-lightgrey)
+  deepstream + cuda，yolo26，yolo-master，yolo11，yolov8，sam，transformer, etc.
 
-- **[mrjoshuak/go-blosc](https://github.com/mrjoshuak/go-blosc)** ⭐ 1
-  ![Go](https://img.shields.io/badge/-Go-cyan)
-  Pure Go implementation of Blosc compression format with SIMD-accelerated shuffle
-
-- **[LucasAlmeidaBr97/Login_Simples_Java](https://github.com/LucasAlmeidaBr97/Login_Simples_Java)** ⭐ 1
-  ![Java](https://img.shields.io/badge/-Java-orange)
-  None
-
-- **[AngelloDuran/Tienda-de-cafe-GranoFino-](https://github.com/AngelloDuran/Tienda-de-cafe-GranoFino-)** ⭐ 1
+- **[pqpcara/fast-prompt](https://github.com/pqpcara/fast-prompt)** ⭐ 2
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
-  None
+  TypeScript SDK 💙
 
-- **[n0uveau/cinnabar](https://github.com/n0uveau/cinnabar)** ⭐ 1
-  ![Rust](https://img.shields.io/badge/-Rust-brown)
-  A webcam-based lava lamp entropy seeder in Rust (w/ SHA-256).
+- **[Cyrus-YSR/monad-web3](https://github.com/Cyrus-YSR/monad-web3)** ⭐ 2
+  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
+  web3黑客松
 
-- **[yanhui-ma-dev/Enterprise-Systems-Architecture-BPMN](https://github.com/yanhui-ma-dev/Enterprise-Systems-Architecture-BPMN)** ⭐ 1
-  ![None](https://img.shields.io/badge/-None-lightgrey)
-  A High Distinction (HD) project focused on Enterprise Architecture design, BPMN 2.0 process modeling, and system performance optimization for complex service ecosystems.
+- **[nushackers/hnr26-badge-quacknroll](https://github.com/nushackers/hnr26-badge-quacknroll)** ⭐ 2
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  Hack&Roll 2026 "Quack & Roll" badge source files, for both hardware and firmware
 
-- **[RuiQianSun/869](https://github.com/RuiQianSun/869)** ⭐ 1
-  ![Jupyter Notebook](https://img.shields.io/badge/-Jupyter Notebook-lightgrey)
-  None
+- **[ragibasif/10kgrind](https://github.com/ragibasif/10kgrind)** ⭐ 2
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  10kgrind
 
 ### 📈 Weekly Trending
 
-- **[vercel-labs/agent-browser](https://github.com/vercel-labs/agent-browser)** ⭐ 6,868
+- **[vercel-labs/agent-browser](https://github.com/vercel-labs/agent-browser)** ⭐ 6,957
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   Browser automation CLI for AI agents
 
-- **[vercel-labs/json-render](https://github.com/vercel-labs/json-render)** ⭐ 5,295
+- **[vercel-labs/json-render](https://github.com/vercel-labs/json-render)** ⭐ 5,466
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   AI → JSON → UI
 
-- **[z-libs/Zen-C](https://github.com/z-libs/Zen-C)** ⭐ 2,736
+- **[z-libs/Zen-C](https://github.com/z-libs/Zen-C)** ⭐ 2,742
   ![C](https://img.shields.io/badge/-C-lightgrey)
   Write like a high-level language, run like C.
 
-- **[deepseek-ai/Engram](https://github.com/deepseek-ai/Engram)** ⭐ 2,627
+- **[deepseek-ai/Engram](https://github.com/deepseek-ai/Engram)** ⭐ 2,647
   ![Python](https://img.shields.io/badge/-Python-blue)
   Conditional Memory via Scalable Lookup: A New Axis of Sparsity for Large Language Models
 
-- **[DevAgentForge/Claude-Cowork](https://github.com/DevAgentForge/Claude-Cowork)** ⭐ 1,509
+- **[DevAgentForge/Claude-Cowork](https://github.com/DevAgentForge/Claude-Cowork)** ⭐ 1,538
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   OpenSource Claude Cowork. A desktop AI assistant that helps you with programming, file management, and any task you can describe.
 
-- **[1rgs/nanocode](https://github.com/1rgs/nanocode)** ⭐ 1,352
+- **[1rgs/nanocode](https://github.com/1rgs/nanocode)** ⭐ 1,369
   ![Python](https://img.shields.io/badge/-Python-blue)
   Minimal Claude Code alternative. Single Python file, zero dependencies, ~250 lines.
 
-- **[trailofbits/skills](https://github.com/trailofbits/skills)** ⭐ 1,167
+- **[trailofbits/skills](https://github.com/trailofbits/skills)** ⭐ 1,190
   ![Python](https://img.shields.io/badge/-Python-blue)
   Trail of Bits Claude Code skills for security research, vulnerability detection, and audit workflows
 
-- **[accomplish-ai/openwork](https://github.com/accomplish-ai/openwork)** ⭐ 907
+- **[accomplish-ai/openwork](https://github.com/accomplish-ai/openwork)** ⭐ 937
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   Openwork™ is the open source Al coworker that lives on your desktop
 
 ### 📈 Monthly Trending
 
-- **[pranshuparmar/witr](https://github.com/pranshuparmar/witr)** ⭐ 11,005
+- **[pranshuparmar/witr](https://github.com/pranshuparmar/witr)** ⭐ 11,009
   ![Go](https://img.shields.io/badge/-Go-cyan)
   Why is this running?
 
-- **[OthmanAdi/planning-with-files](https://github.com/OthmanAdi/planning-with-files)** ⭐ 9,505
+- **[OthmanAdi/planning-with-files](https://github.com/OthmanAdi/planning-with-files)** ⭐ 9,546
   ![Shell](https://img.shields.io/badge/-Shell-lightgrey)
   Claude Code skill implementing Manus-style persistent markdown planning — the workflow pattern behind the $2B acquisition.
 
-- **[HKUDS/DeepTutor](https://github.com/HKUDS/DeepTutor)** ⭐ 8,857
+- **[HKUDS/DeepTutor](https://github.com/HKUDS/DeepTutor)** ⭐ 8,874
   ![Python](https://img.shields.io/badge/-Python-blue)
   "DeepTutor: AI-Powered Personalized Learning Assistant"
 
-- **[muratcankoylan/Agent-Skills-for-Context-Engineering](https://github.com/muratcankoylan/Agent-Skills-for-Context-Engineering)** ⭐ 7,229
+- **[muratcankoylan/Agent-Skills-for-Context-Engineering](https://github.com/muratcankoylan/Agent-Skills-for-Context-Engineering)** ⭐ 7,257
   ![Python](https://img.shields.io/badge/-Python-blue)
   A comprehensive collection of Agent Skills for context engineering, multi-agent architectures, and production agent systems. Use when building, optimizing, or debugging agent systems that require effective context management.
 
-- **[vercel-labs/agent-browser](https://github.com/vercel-labs/agent-browser)** ⭐ 6,868
+- **[vercel-labs/agent-browser](https://github.com/vercel-labs/agent-browser)** ⭐ 6,957
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   Browser automation CLI for AI agents
 
-- **[kepano/obsidian-skills](https://github.com/kepano/obsidian-skills)** ⭐ 6,738
+- **[kepano/obsidian-skills](https://github.com/kepano/obsidian-skills)** ⭐ 6,788
   ![None](https://img.shields.io/badge/-None-lightgrey)
   Agent skills for Obsidian
 
-- **[bellard/mquickjs](https://github.com/bellard/mquickjs)** ⭐ 5,320
-  ![C](https://img.shields.io/badge/-C-lightgrey)
-  Public repository of the Micro QuickJS Javascript Engine
-
-- **[vercel-labs/json-render](https://github.com/vercel-labs/json-render)** ⭐ 5,295
+- **[vercel-labs/json-render](https://github.com/vercel-labs/json-render)** ⭐ 5,466
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   AI → JSON → UI
+
+- **[bellard/mquickjs](https://github.com/bellard/mquickjs)** ⭐ 5,321
+  ![C](https://img.shields.io/badge/-C-lightgrey)
+  Public repository of the Micro QuickJS Javascript Engine
 
 ## 🚀 Latest Releases
 
@@ -487,29 +495,29 @@ lib:
 
 | Skill | Status |
 |-------|--------|
-| Java | ⚪ Planned |
-| Python | 🔴 Beginner |
-| JavaScript | ⚪ Planned |
-| TypeScript | 🔴 Beginner |
-| Go | 🟡 Learning |
+| Java | 🔴 Beginner |
+| Python | ⚪ Planned |
+| JavaScript | 🔴 Beginner |
+| TypeScript | 🟢 Proficient |
+| Go | 🟢 Proficient |
 
 ### Frameworks
 
 | Skill | Status |
 |-------|--------|
-| React | 🟢 Proficient |
-| Spring Boot | ⚪ Planned |
-| Django | ⚪ Planned |
-| Node.js | 🟢 Proficient |
-| Next.js | 🔴 Beginner |
+| React | ⚪ Planned |
+| Spring Boot | 🔴 Beginner |
+| Django | 🟡 Learning |
+| Node.js | ⚪ Planned |
+| Next.js | 🟡 Learning |
 
 ### Cybersecurity
 
 | Skill | Status |
 |-------|--------|
 | Penetration Testing | 🟢 Proficient |
-| Web Security | ⚪ Planned |
-| Network Security | ⚪ Planned |
+| Web Security | 🟡 Learning |
+| Network Security | 🟡 Learning |
 | OWASP | 🟢 Proficient |
 
 ### Ai Ml
@@ -517,10 +525,10 @@ lib:
 | Skill | Status |
 |-------|--------|
 | Machine Learning | 🟢 Proficient |
-| Deep Learning | 🔴 Beginner |
-| NLP | 🟢 Proficient |
-| Computer Vision | 🔴 Beginner |
-| TensorFlow | 🔴 Beginner |
+| Deep Learning | 🟡 Learning |
+| NLP | ⚪ Planned |
+| Computer Vision | 🟢 Proficient |
+| TensorFlow | 🟡 Learning |
 | PyTorch | 🔴 Beginner |
 
 ### Devops
@@ -528,8 +536,8 @@ lib:
 | Skill | Status |
 |-------|--------|
 | Docker | 🔴 Beginner |
-| Kubernetes | ⚪ Planned |
-| CI/CD | ⚪ Planned |
+| Kubernetes | 🟡 Learning |
+| CI/CD | 🟢 Proficient |
 | AWS | 🟢 Proficient |
 | Azure | 🔴 Beginner |
 
@@ -537,9 +545,9 @@ lib:
 
 | Skill | Status |
 |-------|--------|
-| Blockchain | 🔴 Beginner |
+| Blockchain | ⚪ Planned |
 | Web3 | 🔴 Beginner |
-| Cloud Computing | 🔴 Beginner |
+| Cloud Computing | 🟡 Learning |
 
 </details>
 
