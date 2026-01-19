@@ -46,33 +46,33 @@
 
 ### 📑 Hacker News
 
-- **[Show HN: I quit coding years ago. AI brought me back](https://calquio.com)**
+- **[Show HN: AWS-doctor – A terminal-based AWS health check and cost optimizer in Go](https://github.com/elC0mpa/aws-doctor)**
+  *<p>Article URL: <a href="https://github.com/elC0mpa/aws-doctor">https://github.com/elC0mpa/aws-doctor</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46675092">https://news.ycom...*
+  📅 Mon, 19 Jan 2026 04:35:05 +0000
+
+- **[CD Projekt issue DMCA takedown notice against popular Cyberpunk VR mod](https://www.patreon.com/posts/another-one-dust-148437771)**
+  *<p>Article URL: <a href="https://www.patreon.com/posts/another-one-dust-148437771">https://www.patreon.com/posts/another-one-dust-148437771</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.c...*
+  📅 Mon, 19 Jan 2026 02:42:08 +0000
+
+- **[The Code-Only Agent](https://rijnard.com/blog/the-code-only-agent)**
+  *<p>Article URL: <a href="https://rijnard.com/blog/the-code-only-agent">https://rijnard.com/blog/the-code-only-agent</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46674416">htt...*
+  📅 Mon, 19 Jan 2026 02:27:07 +0000
+
+- **[Show HN: I quit coding years ago. AI brought me back](https://calquio.com/finance/compound-interest)**
   *<p>Quick background: I used to code. Studied it in school, wrote some projects, but eventually convinced myself I wasn't cut out for it. Too slow, too many bugs, imposter syndrome — the usual story. S...*
   📅 Mon, 19 Jan 2026 00:50:20 +0000
 
-- **[Simple GIS on Potato](https://github.com/blue-monads/potato-apps/tree/master/cimple-gis)**
-  *<p>Article URL: <a href="https://github.com/blue-monads/potato-apps/tree/master/cimple-gis">https://github.com/blue-monads/potato-apps/tree/master/cimple-gis</a></p>
-<p>Comments URL: <a href="https://...*
-  📅 Sun, 18 Jan 2026 22:15:01 +0000
+- **[High-speed train collision in Spain kills at least 21](https://www.bbc.com/news/articles/cedw6ylpynyo)**
+  *<p>Article URL: <a href="https://www.bbc.com/news/articles/cedw6ylpynyo">https://www.bbc.com/news/articles/cedw6ylpynyo</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46673453"...*
+  📅 Sun, 18 Jan 2026 23:54:43 +0000
 
 - **[Show HN: Beats, a web-based drum machine](https://beats.lasagna.pizza)**
   *<p>Hello all!<p>I've been an avid fan of Pocket Operators by Teenage Engineering since I found out about them. I even own an EP-133 K.O. II today, which I love.<p>A couple of months ago, Reddit user a...*
   📅 Sun, 18 Jan 2026 21:10:08 +0000
-
-- **[Police Invested Millions in Shadowy Phone-Tracking Software Won't Say How Used](https://www.texasobserver.org/texas-police-invest-tangles-sheriff-surveillance/)**
-  *<p>Article URL: <a href="https://www.texasobserver.org/texas-police-invest-tangles-sheriff-surveillance/">https://www.texasobserver.org/texas-police-invest-tangles-sheriff-surveillance/</a></p>
-<p>Com...*
-  📅 Sun, 18 Jan 2026 21:05:14 +0000
-
-- **[Stirling Cycle Machine Analysis](https://ohioopen.library.ohio.edu/opentextbooks/9/)**
-  *<p>Article URL: <a href="https://ohioopen.library.ohio.edu/opentextbooks/9/">https://ohioopen.library.ohio.edu/opentextbooks/9/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=4...*
-  📅 Sun, 18 Jan 2026 20:45:54 +0000
-
-- **[Show HN: Dock – Slack minus the bloat, tax, and 90-day memory loss](https://getdock.io/)**
-  *<p>Article URL: <a href="https://getdock.io/">https://getdock.io/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46671952">https://news.ycombinator.com/item?id=46671952</a></p>...*
-  📅 Sun, 18 Jan 2026 20:42:49 +0000
 
 ### 📑 TechCrunch
 
@@ -102,18 +102,21 @@
 
 ### 📑 Dev.to
 
-- **[Portfolio Dungeon Crawler](https://dev.to/austin_amento_860aebb9f55/portfolio-dungeon-crawler-4286)**
-  *<p><em>This is a submission for the <a href="https://dev.to/challenges/new-year-new-you-google-ai-2025-12-31">New Year, New You Portfolio Challenge Presented by Google AI</a></em></p>
+- **[Why do I come back to the same songs during hard moments?](https://dev.to/luca_dark_rnb/why-do-i-come-back-to-the-same-songs-during-hard-moments-1kji)**
+  *<p><a class="article-body-image-wrapper" href="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fupl...*
+  📅 Mon, 19 Jan 2026 06:13:00 +0000
 
-<h2>
+- **[How I Built an AI-Powered PR Reviewer in 15 Minutes Using Agentform](https://dev.to/nirberko/how-i-built-an-ai-powered-pr-reviewer-in-15-minutes-using-agentform-4l1p)**
+  *<h2>
   
   
-  Ab...*
-  📅 Mon, 19 Jan 2026 01:06:05 +0000
+  How I Built an AI-Powered PR Reviewer in 15 Minutes Using Agentform
+</h2>
 
-- **[Build an Autonomous AI Nutritionist: From Blood Sugar Prediction to Instacart Checkout](https://dev.to/beck_moulton/build-an-autonomous-ai-nutritionist-from-blood-sugar-prediction-to-instacart-checkout-544n)**
-  *<p>We’ve all been there: staring at a fridge full of condiments, wondering what to eat that won't make our energy levels crash by 3 PM. Manual meal planning is exhausting, and calorie counting in apps...*
-  📅 Mon, 19 Jan 2026 00:45:00 +0000
+<p><em>No Python. No complex orchestration. Just declarative configuration.</em></p>
+
+<p>There are plenty of AI-...*
+  📅 Mon, 19 Jan 2026 06:07:11 +0000
 
 </details>
 
@@ -121,95 +124,95 @@
 
 ### 📈 Daily Trending
 
-- **[MsMaciek123/HyVoiceChat](https://github.com/MsMaciek123/HyVoiceChat)** ⭐ 3
-  ![Java](https://img.shields.io/badge/-Java-orange)
+- **[op7418/Humanizer-zh](https://github.com/op7418/Humanizer-zh)** ⭐ 83
+  ![None](https://img.shields.io/badge/-None-lightgrey)
+  Humanizer 的汉化版本，Claude Code Skills，旨在消除文本中 AI 生成的痕迹。
+
+- **[nodir-t/claudir](https://github.com/nodir-t/claudir)** ⭐ 6
+  ![Rust](https://img.shields.io/badge/-Rust-brown)
+  Telegram bot powered by Claude AI
+
+- **[lsqkk/qq-emotion-parser](https://github.com/lsqkk/qq-emotion-parser)** ⭐ 4
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
+  解析QQ动态Qzone导出的 [em]e数字[/em]格式表情代码的轻量级JavaScript库，并将其转换为可显示的图片表情。
+
+- **[FrontToEnd/agent-skills](https://github.com/FrontToEnd/agent-skills)** ⭐ 4
+  ![None](https://img.shields.io/badge/-None-lightgrey)
   None
 
-- **[vvdung-husc/2025-2026.2.TIN4024.003](https://github.com/vvdung-husc/2025-2026.2.TIN4024.003)** ⭐ 2
-  ![None](https://img.shields.io/badge/-None-lightgrey)
-  Phát triển ứng dụng IoT
+- **[Gary-zy/AliasGUI](https://github.com/Gary-zy/AliasGUI)** ⭐ 4
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
+  AliasGUl
 
-- **[yunshu0909/yunshu_skillshub](https://github.com/yunshu0909/yunshu_skillshub)** ⭐ 1
+- **[yunshu0909/yunshu_skillshub](https://github.com/yunshu0909/yunshu_skillshub)** ⭐ 3
   ![Shell](https://img.shields.io/badge/-Shell-lightgrey)
   云舒精选的 Claude Code Skills 集合，提升开发和产品管理效率
 
-- **[nishal27/LentTrust](https://github.com/nishal27/LentTrust)** ⭐ 1
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
-  None
-
-- **[sheabodyobs/jump-tracker-spec.](https://github.com/sheabodyobs/jump-tracker-spec.)** ⭐ 1
-  ![None](https://img.shields.io/badge/-None-lightgrey)
-  None
-
-- **[Gitdigital-products/solana-governance-policy-engine](https://github.com/Gitdigital-products/solana-governance-policy-engine)** ⭐ 1
-  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
-  A standards‑driven rules engine for Solana DAOs and programs, enforcing governance policies as code.
-
-- **[mborquezb/hs-code-nlp-classifier-cl](https://github.com/mborquezb/hs-code-nlp-classifier-cl)** ⭐ 1
-  ![None](https://img.shields.io/badge/-None-lightgrey)
-  NLP and ML experiments for HS code classification in Chile, including data exploration, preprocessing, and multi-class models such as SVM and BERT.
-
-- **[Mike4947/4Krypt](https://github.com/Mike4947/4Krypt)** ⭐ 1
+- **[ishandutta2007/crew](https://github.com/ishandutta2007/crew)** ⭐ 3
   ![Python](https://img.shields.io/badge/-Python-blue)
-  OMNI-512 is an Authenticated Encryption with Associated Data (AEAD) cipher that conceptually exceeds AES-256.
+  🧑‍💼 Coworkers for your desktop
+
+- **[BigMark824/GooberBlox-Backend](https://github.com/BigMark824/GooberBlox-Backend)** ⭐ 3
+  ![PHP](https://img.shields.io/badge/-PHP-lightgrey)
+  A WIP fast Laravel library designed for running Roblox private servers.
 
 ### 📈 Weekly Trending
 
-- **[vercel-labs/json-render](https://github.com/vercel-labs/json-render)** ⭐ 6,506
+- **[vercel-labs/json-render](https://github.com/vercel-labs/json-render)** ⭐ 6,769
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   AI → JSON → UI
 
-- **[21st-dev/1code](https://github.com/21st-dev/1code)** ⭐ 1,833
+- **[21st-dev/1code](https://github.com/21st-dev/1code)** ⭐ 2,140
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   Better UI app for running code agents in parallel (ClaudeCode, OpenCode, Codex)
 
-- **[DevAgentForge/Claude-Cowork](https://github.com/DevAgentForge/Claude-Cowork)** ⭐ 1,783
-  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
-  OpenSource Claude Cowork. A desktop AI assistant that helps you with programming, file management, and any task you can describe.
-
-- **[different-ai/openwork](https://github.com/different-ai/openwork)** ⭐ 1,731
+- **[different-ai/openwork](https://github.com/different-ai/openwork)** ⭐ 2,020
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   An open-source alternative to Claude Cowork, powered by OpenCode
 
-- **[accomplish-ai/openwork](https://github.com/accomplish-ai/openwork)** ⭐ 1,408
+- **[DevAgentForge/Claude-Cowork](https://github.com/DevAgentForge/Claude-Cowork)** ⭐ 1,848
+  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
+  OpenSource Claude Cowork. A desktop AI assistant that helps you with programming, file management, and any task you can describe.
+
+- **[accomplish-ai/openwork](https://github.com/accomplish-ai/openwork)** ⭐ 1,641
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   Openwork™ is the open source Al coworker that lives on your desktop
 
-- **[trailofbits/skills](https://github.com/trailofbits/skills)** ⭐ 1,309
+- **[affaan-m/everything-claude-code](https://github.com/affaan-m/everything-claude-code)** ⭐ 1,404
+  ![None](https://img.shields.io/badge/-None-lightgrey)
+  Complete Claude Code configuration collection - agents, skills, hooks, commands, rules, MCPs. Battle-tested configs from an Anthropic hackathon winner.
+
+- **[trailofbits/skills](https://github.com/trailofbits/skills)** ⭐ 1,339
   ![Python](https://img.shields.io/badge/-Python-blue)
   Trail of Bits Claude Code skills for security research, vulnerability detection, and audit workflows
 
-- **[vercel-labs/add-skill](https://github.com/vercel-labs/add-skill)** ⭐ 1,204
+- **[vercel-labs/add-skill](https://github.com/vercel-labs/add-skill)** ⭐ 1,252
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
-  None
-
-- **[vudovn/antigravity-kit](https://github.com/vudovn/antigravity-kit)** ⭐ 1,047
-  ![Python](https://img.shields.io/badge/-Python-blue)
   None
 
 ### 📈 Monthly Trending
 
-- **[OthmanAdi/planning-with-files](https://github.com/OthmanAdi/planning-with-files)** ⭐ 9,850
+- **[OthmanAdi/planning-with-files](https://github.com/OthmanAdi/planning-with-files)** ⭐ 9,933
   ![Python](https://img.shields.io/badge/-Python-blue)
   Claude Code skill implementing Manus-style persistent markdown planning — the workflow pattern behind the $2B acquisition.
 
-- **[HKUDS/DeepTutor](https://github.com/HKUDS/DeepTutor)** ⭐ 9,013
+- **[HKUDS/DeepTutor](https://github.com/HKUDS/DeepTutor)** ⭐ 9,037
   ![Python](https://img.shields.io/badge/-Python-blue)
   "DeepTutor: AI-Powered Personalized Learning Assistant"
 
-- **[vercel-labs/agent-browser](https://github.com/vercel-labs/agent-browser)** ⭐ 7,476
+- **[vercel-labs/agent-browser](https://github.com/vercel-labs/agent-browser)** ⭐ 7,635
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   Browser automation CLI for AI agents
 
-- **[muratcankoylan/Agent-Skills-for-Context-Engineering](https://github.com/muratcankoylan/Agent-Skills-for-Context-Engineering)** ⭐ 7,359
+- **[muratcankoylan/Agent-Skills-for-Context-Engineering](https://github.com/muratcankoylan/Agent-Skills-for-Context-Engineering)** ⭐ 7,385
   ![Python](https://img.shields.io/badge/-Python-blue)
   A comprehensive collection of Agent Skills for context engineering, multi-agent architectures, and production agent systems. Use when building, optimizing, or debugging agent systems that require effective context management.
 
-- **[kepano/obsidian-skills](https://github.com/kepano/obsidian-skills)** ⭐ 7,118
+- **[kepano/obsidian-skills](https://github.com/kepano/obsidian-skills)** ⭐ 7,192
   ![None](https://img.shields.io/badge/-None-lightgrey)
   Agent skills for Obsidian
 
-- **[vercel-labs/json-render](https://github.com/vercel-labs/json-render)** ⭐ 6,506
+- **[vercel-labs/json-render](https://github.com/vercel-labs/json-render)** ⭐ 6,769
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   AI → JSON → UI
 
@@ -217,9 +220,9 @@
   ![C](https://img.shields.io/badge/-C-lightgrey)
   Public repository of the Micro QuickJS Javascript Engine
 
-- **[ChrisWiles/claude-code-showcase](https://github.com/ChrisWiles/claude-code-showcase)** ⭐ 4,927
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
-  Comprehensive Claude Code project configuration example with hooks, skills, agents, commands, and GitHub Actions workflows
+- **[snarktank/ralph](https://github.com/snarktank/ralph)** ⭐ 4,972
+  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
+  Ralph is an autonomous AI agent loop that runs repeatedly until all PRD items are complete. 
 
 ## 🚀 Latest Releases
 
@@ -489,59 +492,59 @@ lib:
 
 | Skill | Status |
 |-------|--------|
-| Java | 🟢 Proficient |
+| Java | ⚪ Planned |
 | Python | 🟢 Proficient |
-| JavaScript | ⚪ Planned |
-| TypeScript | ⚪ Planned |
-| Go | 🔴 Beginner |
+| JavaScript | 🔴 Beginner |
+| TypeScript | 🟢 Proficient |
+| Go | 🟡 Learning |
 
 ### Frameworks
 
 | Skill | Status |
 |-------|--------|
-| React | ⚪ Planned |
-| Spring Boot | 🟢 Proficient |
-| Django | ⚪ Planned |
+| React | 🟢 Proficient |
+| Spring Boot | ⚪ Planned |
+| Django | 🔴 Beginner |
 | Node.js | 🔴 Beginner |
-| Next.js | ⚪ Planned |
+| Next.js | 🟢 Proficient |
 
 ### Cybersecurity
 
 | Skill | Status |
 |-------|--------|
-| Penetration Testing | 🔴 Beginner |
+| Penetration Testing | 🟡 Learning |
 | Web Security | ⚪ Planned |
-| Network Security | ⚪ Planned |
-| OWASP | 🟢 Proficient |
+| Network Security | 🟢 Proficient |
+| OWASP | ⚪ Planned |
 
 ### Ai Ml
 
 | Skill | Status |
 |-------|--------|
-| Machine Learning | 🔴 Beginner |
-| Deep Learning | 🟡 Learning |
-| NLP | 🟡 Learning |
-| Computer Vision | 🔴 Beginner |
-| TensorFlow | 🟢 Proficient |
-| PyTorch | 🔴 Beginner |
+| Machine Learning | 🟢 Proficient |
+| Deep Learning | ⚪ Planned |
+| NLP | ⚪ Planned |
+| Computer Vision | 🟡 Learning |
+| TensorFlow | ⚪ Planned |
+| PyTorch | ⚪ Planned |
 
 ### Devops
 
 | Skill | Status |
 |-------|--------|
-| Docker | 🟢 Proficient |
-| Kubernetes | 🔴 Beginner |
-| CI/CD | 🟡 Learning |
-| AWS | ⚪ Planned |
-| Azure | 🟡 Learning |
+| Docker | 🔴 Beginner |
+| Kubernetes | 🟡 Learning |
+| CI/CD | 🟢 Proficient |
+| AWS | 🔴 Beginner |
+| Azure | 🔴 Beginner |
 
 ### Other
 
 | Skill | Status |
 |-------|--------|
-| Blockchain | ⚪ Planned |
-| Web3 | ⚪ Planned |
-| Cloud Computing | ⚪ Planned |
+| Blockchain | 🟡 Learning |
+| Web3 | 🟢 Proficient |
+| Cloud Computing | 🔴 Beginner |
 
 </details>
 
