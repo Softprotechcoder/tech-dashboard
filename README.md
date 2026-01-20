@@ -46,36 +46,34 @@
 
 ### 📑 Hacker News
 
-- **[Reticulum, a secure and anonymous mesh networking stack](https://github.com/markqvist/Reticulum)**
-  *<p>Article URL: <a href="https://github.com/markqvist/Reticulum">https://github.com/markqvist/Reticulum</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46686273">https://news.yc...*
-  📅 Mon, 19 Jan 2026 23:59:54 +0000
+- **[Chatbot Psychosis](https://en.wikipedia.org/wiki/Chatbot_psychosis)**
+  *<p>Article URL: <a href="https://en.wikipedia.org/wiki/Chatbot_psychosis">https://en.wikipedia.org/wiki/Chatbot_psychosis</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=4668812...*
+  📅 Tue, 20 Jan 2026 05:08:57 +0000
 
-- **[Nanolang: A tiny experimental language designed to be targeted by coding LLMs](https://github.com/jordanhubbard/nanolang)**
-  *<p>Article URL: <a href="https://github.com/jordanhubbard/nanolang">https://github.com/jordanhubbard/nanolang</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46684958">https://n...*
-  📅 Mon, 19 Jan 2026 21:48:07 +0000
+- **[x86 prefixes and escape opcodes flowchart](https://soc.me/interfaces/x86-prefixes-and-escape-opcodes-flowchart.html)**
+  *<p>Article URL: <a href="https://soc.me/interfaces/x86-prefixes-and-escape-opcodes-flowchart.html">https://soc.me/interfaces/x86-prefixes-and-escape-opcodes-flowchart.html</a></p>
+<p>Comments URL: <a ...*
+  📅 Tue, 20 Jan 2026 03:47:21 +0000
 
-- **[Use Social Media Mindfully](https://danielleheberling.xyz/blog/mindful-social-media/)**
-  *<p>Article URL: <a href="https://danielleheberling.xyz/blog/mindful-social-media/">https://danielleheberling.xyz/blog/mindful-social-media/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.c...*
-  📅 Mon, 19 Jan 2026 21:39:44 +0000
+- **[F-16 Falcon Strike](https://webchrono.pl/F16FalconStrike/index.html)**
+  *<p>Article URL: <a href="https://webchrono.pl/F16FalconStrike/index.html">https://webchrono.pl/F16FalconStrike/index.html</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=4668758...*
+  📅 Tue, 20 Jan 2026 03:26:25 +0000
 
-- **[The assistant axis: situating and stabilizing the character of LLMs](https://www.anthropic.com/research/assistant-axis)**
-  *<p>Article URL: <a href="https://www.anthropic.com/research/assistant-axis">https://www.anthropic.com/research/assistant-axis</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=466...*
-  📅 Mon, 19 Jan 2026 21:25:16 +0000
+- **[Show HN: Artificial Ivy in the Browser](https://da.nmcardle.com/grow)**
+  *<p>This is just a goofy thing I cooked up over the weekend. It's kind of like a screensaver, but with more reading and sliders. (It's not terribly efficient, so expect phone batteries to take a hit!)<...*
+  📅 Tue, 20 Jan 2026 03:14:47 +0000
 
-- **[Simple Sabotage Field Manual (1944) [pdf]](https://www.cia.gov/static/5c875f3ec660e092cf893f60b4a288df/SimpleSabotage.pdf)**
-  *<p>Article URL: <a href="https://www.cia.gov/static/5c875f3ec660e092cf893f60b4a288df/SimpleSabotage.pdf">https://www.cia.gov/static/5c875f3ec660e092cf893f60b4a288df/SimpleSabotage.pdf</a></p>
-<p>Comme...*
-  📅 Mon, 19 Jan 2026 20:51:00 +0000
+- **[Legal Structures for Latin American Startups (2021)](https://latamlist.com/legal-structures-for-latin-american-startups/)**
+  *<p>Article URL: <a href="https://latamlist.com/legal-structures-for-latin-american-startups/">https://latamlist.com/legal-structures-for-latin-american-startups/</a></p>
+<p>Comments URL: <a href="http...*
+  📅 Tue, 20 Jan 2026 01:21:35 +0000
 
-- **[Level S4 solar radiation event](https://www.swpc.noaa.gov/news/g4-severe-geomagnetic-storm-levels-reached-19-jan-2026)**
-  *<p><a href="https://www.swpc.noaa.gov/products/goes-proton-flux" rel="nofollow">https://www.swpc.noaa.gov/products/goes-proton-flux</a></p>
-<hr />
-<p>Comments URL: <a href="https://news.ycombinator.co...*
-  📅 Mon, 19 Jan 2026 20:26:19 +0000
+- **[Nova Launcher added Facebook and Google Ads tracking](https://lemdro.id/post/lemdro.id/35049920)**
+  *<p>Article URL: <a href="https://lemdro.id/post/lemdro.id/35049920">https://lemdro.id/post/lemdro.id/35049920</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46686655">https://n...*
+  📅 Tue, 20 Jan 2026 01:03:52 +0000
 
 ### 📑 TechCrunch
 
@@ -105,15 +103,21 @@
 
 ### 📑 Dev.to
 
-- **[My First Finance Project: When Diversification Doesn't Diversify](https://dev.to/syntaxerrorgoblin/my-first-finance-project-when-diversification-doesnt-diversify-2dgp)**
-  *<p><a href="https://github.com/SyntaxErrorGoblin/Risk-Adjusted-Returns" rel="noopener noreferrer">Code and Readme with more financial and technical details is located here</a></p>
+- **[The 15 Git Commands Every Software Engineer Uses (And Why They Matter More Than You Think)](https://dev.to/hadil/the-15-git-commands-every-software-engineer-uses-and-why-they-matter-more-than-you-think-c51)**
+  *<p>For a long time, I thought Git was just something I had to survive.</p>
 
-<p>Recently, I've b...*
-  📅 Tue, 20 Jan 2026 00:53:09 +0000
+<p>Type a command.<br />
+Hope nothing breaks.<br />
+If it does… Google fast.</p>
 
-- **[The RAM Pandemic](https://dev.to/isaac29/the-ram-pandemic-1n26)**
-  *<p>A PC upgrade is becoming a luxury purchase for one simple reason: the very AI tools currently in high demand are absorbing the hardware resources required for personal computing. In early 2026, the...*
-  📅 Tue, 20 Jan 2026 00:44:17 +0000
+<p>I memorized commands without understand...*
+  📅 Tue, 20 Jan 2026 06:06:19 +0000
+
+- **[Bloom update: new HRT tools, emotional support features, and a full medication database](https://dev.to/codebunny20/bloom-update-new-hrt-tools-emotional-support-features-and-a-full-medication-database-67l)**
+  *<p>I’ve been deep in developing Bloom lately, and constantly having new ideas, so this update brings some of the biggest improvements so far. </p>
+
+<p><a href="https://hormone-journey--codebunny20.rep...*
+  📅 Tue, 20 Jan 2026 06:05:14 +0000
 
 </details>
 
@@ -121,103 +125,103 @@
 
 ### 📈 Daily Trending
 
-- **[KyubumShin/apo_test](https://github.com/KyubumShin/apo_test)** ⭐ 2
+- **[sohutv/agent-skills-mcp](https://github.com/sohutv/agent-skills-mcp)** ⭐ 10
   ![Python](https://img.shields.io/badge/-Python-blue)
-  apo 실험용
+  This project implements a Model Context Protocol (MCP) server that exposes "Skills" to AI agents. Skills are specialized instruction sets and resources that help agents perform specific tasks with domain expertise. You can find detailed skills specification here: [Agent Skills Spec](https://agentskills.io/specification)
 
-- **[heami/Jatsmation](https://github.com/heami/Jatsmation)** ⭐ 1
+- **[masonasons/FastGH](https://github.com/masonasons/FastGH)** ⭐ 6
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  A GitHub desktop client built with wxPython
+
+- **[Inbanithi107/Dependencytracker](https://github.com/Inbanithi107/Dependencytracker)** ⭐ 5
   ![None](https://img.shields.io/badge/-None-lightgrey)
-  None
+  A Java dependency analysis and visualization library that auto-starts applications even during startup errors to enable deep architectural debugging.
 
-- **[debora3347/dicionario](https://github.com/debora3347/dicionario)** ⭐ 1
+- **[frankan0/sms-dashboard](https://github.com/frankan0/sms-dashboard)** ⭐ 3
+  ![Go](https://img.shields.io/badge/-Go-cyan)
+  自建android短信发送器 webHook平台，支持docker部署
+
+- **[ishandutta2007/claude-agent-orchestration](https://github.com/ishandutta2007/claude-agent-orchestration)** ⭐ 3
   ![None](https://img.shields.io/badge/-None-lightgrey)
-  veiculos
+  Top claude agent orchestration framework
 
-- **[itsaugvst0x01/password-generator](https://github.com/itsaugvst0x01/password-generator)** ⭐ 1
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
-  None
+- **[avotcorg/x-tunnel](https://github.com/avotcorg/x-tunnel)** ⭐ 3
+  ![Shell](https://img.shields.io/badge/-Shell-lightgrey)
+  x-tunnel
 
-- **[gmh5225/awesome-skills](https://github.com/gmh5225/awesome-skills)** ⭐ 1
-  ![None](https://img.shields.io/badge/-None-lightgrey)
-  A curated list of Agent Skills, resources, and tools for AI coding agents like Claude Code, Codex, Gemini CLI, GitHub Copilot, and more.
+- **[zhangrr/claude-nvidia-proxy](https://github.com/zhangrr/claude-nvidia-proxy)** ⭐ 3
+  ![Go](https://img.shields.io/badge/-Go-cyan)
+  an Nvidia proxy for claude code
 
-- **[Bellokb/BELLOKB-PORTFOLIO](https://github.com/Bellokb/BELLOKB-PORTFOLIO)** ⭐ 1
-  ![HTML](https://img.shields.io/badge/-HTML-lightgrey)
-  My personal portfolio showcasing projects and skills
-
-- **[KEAML-JLU/SharpReCL](https://github.com/KEAML-JLU/SharpReCL)** ⭐ 1
-  ![None](https://img.shields.io/badge/-None-lightgrey)
-  The source code for "Simple-Sampling and Hard-Mixup with Prototypes to Rebalance Contrastive Learning for Text Classification"
-
-- **[babasaki-r/Weight_OCR](https://github.com/babasaki-r/Weight_OCR)** ⭐ 1
-  ![None](https://img.shields.io/badge/-None-lightgrey)
-  None
+- **[Yeachan-Heo/unlockedpd](https://github.com/Yeachan-Heo/unlockedpd)** ⭐ 3
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  Unlock pandas performance with zero code changes. 8-15x faster rolling/expanding operations via Numba + ThreadPool.
 
 ### 📈 Weekly Trending
 
-- **[vercel-labs/json-render](https://github.com/vercel-labs/json-render)** ⭐ 7,229
+- **[vercel-labs/json-render](https://github.com/vercel-labs/json-render)** ⭐ 7,337
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   AI → JSON → UI
 
-- **[different-ai/openwork](https://github.com/different-ai/openwork)** ⭐ 3,198
-  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
-  An open-source alternative to Claude Cowork, powered by OpenCode
-
-- **[affaan-m/everything-claude-code](https://github.com/affaan-m/everything-claude-code)** ⭐ 3,186
+- **[affaan-m/everything-claude-code](https://github.com/affaan-m/everything-claude-code)** ⭐ 3,809
   ![None](https://img.shields.io/badge/-None-lightgrey)
   Complete Claude Code configuration collection - agents, skills, hooks, commands, rules, MCPs. Battle-tested configs from an Anthropic hackathon winner.
 
-- **[21st-dev/1code](https://github.com/21st-dev/1code)** ⭐ 3,157
+- **[different-ai/openwork](https://github.com/different-ai/openwork)** ⭐ 3,608
+  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
+  An open-source alternative to Claude Cowork, powered by OpenCode
+
+- **[21st-dev/1code](https://github.com/21st-dev/1code)** ⭐ 3,437
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   Better UI app for running code agents in parallel (ClaudeCode, OpenCode, Codex)
 
-- **[accomplish-ai/openwork](https://github.com/accomplish-ai/openwork)** ⭐ 1,922
+- **[accomplish-ai/openwork](https://github.com/accomplish-ai/openwork)** ⭐ 2,014
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   Openwork™ is the open source Al coworker that lives on your desktop
 
-- **[trailofbits/skills](https://github.com/trailofbits/skills)** ⭐ 1,450
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  Trail of Bits Claude Code skills for security research, vulnerability detection, and audit workflows
-
-- **[vudovn/antigravity-kit](https://github.com/vudovn/antigravity-kit)** ⭐ 1,448
+- **[vudovn/antigravity-kit](https://github.com/vudovn/antigravity-kit)** ⭐ 1,538
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   None
 
-- **[vercel-labs/add-skill](https://github.com/vercel-labs/add-skill)** ⭐ 1,382
+- **[trailofbits/skills](https://github.com/trailofbits/skills)** ⭐ 1,469
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  Trail of Bits Claude Code skills for security research, vulnerability detection, and audit workflows
+
+- **[vercel-labs/add-skill](https://github.com/vercel-labs/add-skill)** ⭐ 1,433
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   None
 
 ### 📈 Monthly Trending
 
-- **[OthmanAdi/planning-with-files](https://github.com/OthmanAdi/planning-with-files)** ⭐ 10,068
+- **[OthmanAdi/planning-with-files](https://github.com/OthmanAdi/planning-with-files)** ⭐ 10,125
   ![Python](https://img.shields.io/badge/-Python-blue)
   Claude Code skill implementing Manus-style persistent markdown planning — the workflow pattern behind the $2B acquisition.
 
-- **[HKUDS/DeepTutor](https://github.com/HKUDS/DeepTutor)** ⭐ 9,142
+- **[HKUDS/DeepTutor](https://github.com/HKUDS/DeepTutor)** ⭐ 9,217
   ![Python](https://img.shields.io/badge/-Python-blue)
   "DeepTutor: AI-Powered Personalized Learning Assistant"
 
-- **[vercel-labs/agent-browser](https://github.com/vercel-labs/agent-browser)** ⭐ 8,220
+- **[vercel-labs/agent-browser](https://github.com/vercel-labs/agent-browser)** ⭐ 8,375
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   Browser automation CLI for AI agents
 
-- **[kepano/obsidian-skills](https://github.com/kepano/obsidian-skills)** ⭐ 7,307
+- **[kepano/obsidian-skills](https://github.com/kepano/obsidian-skills)** ⭐ 7,364
   ![None](https://img.shields.io/badge/-None-lightgrey)
   Agent skills for Obsidian
 
-- **[vercel-labs/json-render](https://github.com/vercel-labs/json-render)** ⭐ 7,229
+- **[vercel-labs/json-render](https://github.com/vercel-labs/json-render)** ⭐ 7,337
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   AI → JSON → UI
 
-- **[originalankur/maptoposter](https://github.com/originalankur/maptoposter)** ⭐ 5,422
+- **[originalankur/maptoposter](https://github.com/originalankur/maptoposter)** ⭐ 5,631
   ![Python](https://img.shields.io/badge/-Python-blue)
   Transform your favorite cities into beautiful, minimalist designs. MapToPoster lets you create and export visually striking map posters with code.
 
-- **[bellard/mquickjs](https://github.com/bellard/mquickjs)** ⭐ 5,354
+- **[bellard/mquickjs](https://github.com/bellard/mquickjs)** ⭐ 5,357
   ![C](https://img.shields.io/badge/-C-lightgrey)
   Public repository of the Micro QuickJS Javascript Engine
 
-- **[snarktank/ralph](https://github.com/snarktank/ralph)** ⭐ 5,167
+- **[snarktank/ralph](https://github.com/snarktank/ralph)** ⭐ 5,226
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   Ralph is an autonomous AI agent loop that runs repeatedly until all PRD items are complete. 
 
@@ -487,57 +491,57 @@ See [kubernetes-announce@](https://groups.google.com/forum/#!forum/kubernetes-an
 | Skill | Status |
 |-------|--------|
 | Java | ⚪ Planned |
-| Python | 🔴 Beginner |
-| JavaScript | 🟢 Proficient |
-| TypeScript | 🟡 Learning |
-| Go | 🟡 Learning |
+| Python | 🟢 Proficient |
+| JavaScript | 🟡 Learning |
+| TypeScript | ⚪ Planned |
+| Go | ⚪ Planned |
 
 ### Frameworks
 
 | Skill | Status |
 |-------|--------|
-| React | ⚪ Planned |
+| React | 🔴 Beginner |
 | Spring Boot | 🟢 Proficient |
-| Django | ⚪ Planned |
-| Node.js | ⚪ Planned |
-| Next.js | ⚪ Planned |
+| Django | 🟢 Proficient |
+| Node.js | 🟡 Learning |
+| Next.js | 🔴 Beginner |
 
 ### Cybersecurity
 
 | Skill | Status |
 |-------|--------|
-| Penetration Testing | 🔴 Beginner |
-| Web Security | 🟢 Proficient |
+| Penetration Testing | 🟡 Learning |
+| Web Security | 🟡 Learning |
 | Network Security | ⚪ Planned |
-| OWASP | 🟢 Proficient |
+| OWASP | 🔴 Beginner |
 
 ### Ai Ml
 
 | Skill | Status |
 |-------|--------|
-| Machine Learning | 🔴 Beginner |
-| Deep Learning | 🔴 Beginner |
-| NLP | 🔴 Beginner |
+| Machine Learning | 🟡 Learning |
+| Deep Learning | 🟡 Learning |
+| NLP | 🟢 Proficient |
 | Computer Vision | 🟢 Proficient |
-| TensorFlow | ⚪ Planned |
-| PyTorch | 🟡 Learning |
+| TensorFlow | 🔴 Beginner |
+| PyTorch | 🟢 Proficient |
 
 ### Devops
 
 | Skill | Status |
 |-------|--------|
-| Docker | ⚪ Planned |
-| Kubernetes | 🟢 Proficient |
+| Docker | 🔴 Beginner |
+| Kubernetes | ⚪ Planned |
 | CI/CD | 🟡 Learning |
-| AWS | ⚪ Planned |
+| AWS | 🔴 Beginner |
 | Azure | 🟡 Learning |
 
 ### Other
 
 | Skill | Status |
 |-------|--------|
-| Blockchain | 🟢 Proficient |
-| Web3 | 🟢 Proficient |
+| Blockchain | ⚪ Planned |
+| Web3 | ⚪ Planned |
 | Cloud Computing | 🟢 Proficient |
 
 </details>
