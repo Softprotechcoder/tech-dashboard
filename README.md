@@ -46,36 +46,42 @@
 
 ### 📑 Hacker News
 
-- **[Super Monkey Ball ported to a website](https://monkeyball-online.pages.dev/)**
-  *<p>Article URL: <a href="https://monkeyball-online.pages.dev/">https://monkeyball-online.pages.dev/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46789961">https://news.ycombi...*
-  📅 Wed, 28 Jan 2026 01:44:25 +0000
+- **[Kyber (YC W23) Is Hiring a Staff Engineer](https://www.ycombinator.com/companies/kyber/jobs/GPJkv5v-staff-engineer-tech-lead)**
+  *<p>Article URL: <a href="https://www.ycombinator.com/companies/kyber/jobs/GPJkv5v-staff-engineer-tech-lead">https://www.ycombinator.com/companies/kyber/jobs/GPJkv5v-staff-engineer-tech-lead</a></p>
+<p...*
+  📅 Wed, 28 Jan 2026 12:00:08 +0000
 
-- **[AISLE Discovered 12 out of 12 OpenSSL Vulnerabilities](https://aisle.com/blog/aisle-discovered-12-out-of-12-openssl-vulnerabilities)**
-  *<p>Article URL: <a href="https://aisle.com/blog/aisle-discovered-12-out-of-12-openssl-vulnerabilities">https://aisle.com/blog/aisle-discovered-12-out-of-12-openssl-vulnerabilities</a></p>
-<p>Comments ...*
-  📅 Wed, 28 Jan 2026 01:38:15 +0000
+- **[Show HN: The HN Arcade](https://andrewgy8.github.io/hnarcade/)**
+  *<p>I love seeing all the small games that people build and post to this site.<p>I don't want to forget any, so I have built a directory/arcade for the games here that I maintain.<p>Feel free to check ...*
+  📅 Wed, 28 Jan 2026 10:50:32 +0000
 
-- **[Notes on starting to use Django](https://jvns.ca/blog/2026/01/27/some-notes-on-starting-to-use-django/)**
-  *<p>Article URL: <a href="https://jvns.ca/blog/2026/01/27/some-notes-on-starting-to-use-django/">https://jvns.ca/blog/2026/01/27/some-notes-on-starting-to-use-django/</a></p>
-<p>Comments URL: <a href="...*
-  📅 Tue, 27 Jan 2026 22:58:30 +0000
+- **[Australian high schoolers build coding platform to help learners in Sri Lanka](https://www.abc.net.au/news/2026-01-21/qld-teenagers-create-coding-app-code-lab-sri-lanka-students/106225842)**
+  *<p>Article URL: <a href="https://www.abc.net.au/news/2026-01-21/qld-teenagers-create-coding-app-code-lab-sri-lanka-students/106225842">https://www.abc.net.au/news/2026-01-21/qld-teenagers-create-codin...*
+  📅 Wed, 28 Jan 2026 10:14:05 +0000
 
-- **[Thief of $90M in seized U.S.-controlled crypto is gov't contractor's son](https://www.web3isgoinggreat.com/single/lick-theft)**
-  *<p>Article URL: <a href="https://www.web3isgoinggreat.com/single/lick-theft">https://www.web3isgoinggreat.com/single/lick-theft</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=4...*
-  📅 Tue, 27 Jan 2026 21:54:29 +0000
+- **[Devuan – Debian Without Systemd](https://www.devuan.org/)**
+  *<p>Article URL: <a href="https://www.devuan.org/">https://www.devuan.org/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46792783">https://news.ycombinator.com/item?id=46792783...*
+  📅 Wed, 28 Jan 2026 08:58:28 +0000
 
-- **[Show HN: I wrapped the Zorks with an LLM](https://infocom.tambo.co/)**
-  *<p>I grew up on the Infocom games and when microsoft actually open-sourced Zork 1/2/3 I really wanted to figure out how to use LLMs to let you type whatever you want, I always found the amount languag...*
-  📅 Tue, 27 Jan 2026 20:59:49 +0000
+- **[Virtual Boy on TV with Intelligent Systems Video Boy](https://hcs64.com/video-boy-vue/)**
+  *<p>Article URL: <a href="https://hcs64.com/video-boy-vue/">https://hcs64.com/video-boy-vue/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46792572">https://news.ycombinator.co...*
+  📅 Wed, 28 Jan 2026 08:32:50 +0000
 
-- **[TikTok settles just before social media addiction trial to begin](https://www.bbc.com/news/articles/c24g8v6qr1mo)**
-  *<p>Article URL: <a href="https://www.bbc.com/news/articles/c24g8v6qr1mo">https://www.bbc.com/news/articles/c24g8v6qr1mo</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46786237"...*
-  📅 Tue, 27 Jan 2026 20:38:22 +0000
+- **[ASML staffing changes could result in a net reduction of around 1700 positions](https://www.asml.com/en/news/press-releases/2026/strengthening-focus-on-engineering-and-innovation)**
+  *<p>Article URL: <a href="https://www.asml.com/en/news/press-releases/2026/strengthening-focus-on-engineering-and-innovation">https://www.asml.com/en/news/press-releases/2026/strengthening-focus-on-eng...*
+  📅 Wed, 28 Jan 2026 08:02:42 +0000
 
 ### 📑 TechCrunch
+
+- **[Waabi raises $1B and expands into robotaxis with Uber](https://techcrunch.com/2026/01/28/waabi-raises-1b-and-expands-into-robotaxis-with-uber/)**
+  *Waabi has secured a $750 million Series C round to accelerate autonomous trucking, and another roughly $250 million commitment from Uber to deploy 25,000 robotaxis exclusively on its platform....*
+  📅 Wed, 28 Jan 2026 11:00:00 +0000
+
+- **[Google pitches Gemini to students studying for India’s most competitive college entrance exam](https://techcrunch.com/2026/01/28/google-turns-gemini-toward-indias-most-competitive-entrance-exam/)**
+  *Google's launch of practice tests for JEE follows its recent move to offer full-length SAT practice tests in Gemini....*
+  📅 Wed, 28 Jan 2026 10:00:00 +0000
 
 - **[Google Photos brings its prompt-based editing feature to India, Australia and Japan](https://techcrunch.com/2026/01/27/google-photos-brings-its-prompt-based-editing-feature-to-india-australia-and-japan/)**
   *Users can describe their edits in natural language to modify an image....*
@@ -93,32 +99,18 @@
   *Personal AI assistant Moltbot —formerly Clawdbot — has gone viral in a matter of weeks. But there’s more you should know before jumping on the bandwagon....*
   📅 Wed, 28 Jan 2026 00:12:43 +0000
 
-- **[Fashion rental app By Rotation and Uber partner to help deliver ski clothing](https://techcrunch.com/2026/01/27/fashion-rental-app-by-rotation-and-uber-partner-to-help-deliver-ski-rentals/)**
-  *By Rotation, one of the U.K.’s most popular peer-to-peer fashion rental platforms, is partnering with Uber to deliver ski clothes....*
-  📅 Wed, 28 Jan 2026 00:00:00 +0000
-
-- **[Anduril has invented a wild new drone-flying contest where jobs are the prize](https://techcrunch.com/2026/01/27/anduril-has-invented-a-wild-new-drone-flying-contest-where-jobs-are-the-prize/)**
-  *This is a race series for software programmers and the brainchild of founder Palmer Luckey, he tells TechCrunch....*
-  📅 Tue, 27 Jan 2026 21:54:38 +0000
-
 ### 📑 Dev.to
 
-- **[I genuinely meant it when I said I was done. I even had that rare, fragile sense of closure. Then I noticed one small thing, which led to another, and somehow became a full pass of “minor” edits. I failed at stopping, but this time I really did. 🚧🚦](https://dev.to/anchildress1/i-genuinely-meant-it-when-i-said-i-was-done-i-even-had-that-rare-fragile-sense-of-closure-then-i-1cna)**
-  *<div class="ltag__link">
-  <a class="ltag__link__link" href="https://dev.to/anchildress1">
-    <div class="ltag__link__pic">
-      <img alt="anchildress1" src="https://media2.dev.to/dynamic/image/widt...*
-  📅 Wed, 28 Jan 2026 06:15:35 +0000
+- **[Configure Wake on LAN](https://dev.to/janith19/configure-wake-on-lan-24ff)**
+  *<p>Hey everyone 👋<br />
+Janith here. Today, let’s talk about <strong>Wake-On-LAN (WOL)</strong>.</p>
 
-- **[AlphaArena AI Model Battle: A Hands-On Guide to Replicating DeepSeek's Leading AI Quantitative Trading System](https://dev.to/quant001/alphaarena-ai-model-battle-a-hands-on-guide-to-replicating-deepseeks-leading-ai-quantitative-2dpe)**
-  *<h2>
-  
-  
-  1. Introduction: Insights from the AI Trading Arena
-</h2>
+<p>This post is for anyone who has ever had the idea of turning on their PC remotely. I recently s...*
+  📅 Wed, 28 Jan 2026 12:18:29 +0000
 
-<p>Recently, American AI lab nof1ai launched a compelling experiment—giving six top AI models (Claude, DeepSeek, Gemini, GPT-5, ...*
-  📅 Wed, 28 Jan 2026 06:11:46 +0000
+- **[Standup-CLI: The Daily Standup Auto-Generator](https://dev.to/prayagtushar/standup-cli-the-daily-standup-auto-generator-194f)**
+  *<p><a class="article-body-image-wrapper" href="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fupl...*
+  📅 Wed, 28 Jan 2026 12:15:00 +0000
 
 </details>
 
@@ -126,103 +118,103 @@
 
 ### 📈 Daily Trending
 
-- **[zarazhangrui/frontend-slides](https://github.com/zarazhangrui/frontend-slides)** ⭐ 40
-  ![None](https://img.shields.io/badge/-None-lightgrey)
-  Create beautiful slides on the web using Claude's frontend skills
-
-- **[S-Jaswant18/MindSense-AI-](https://github.com/S-Jaswant18/MindSense-AI-)** ⭐ 30
-  ![Jupyter Notebook](https://img.shields.io/badge/-Jupyter Notebook-lightgrey)
-  None
-
-- **[antfu/skills](https://github.com/antfu/skills)** ⭐ 21
+- **[antfu/skills](https://github.com/antfu/skills)** ⭐ 652
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   Anthony Fu's curated collection of agent skills.
 
-- **[ATcharumathi/-Password_Strength_Checker](https://github.com/ATcharumathi/-Password_Strength_Checker)** ⭐ 10
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  None
-
-- **[sibinesh2k5-commits/Ai-resume-builder](https://github.com/sibinesh2k5-commits/Ai-resume-builder)** ⭐ 9
+- **[zarazhangrui/frontend-slides](https://github.com/zarazhangrui/frontend-slides)** ⭐ 113
   ![None](https://img.shields.io/badge/-None-lightgrey)
+  Create beautiful slides on the web using Claude's frontend skills
+
+- **[S-Jaswant18/MindSense-AI-](https://github.com/S-Jaswant18/MindSense-AI-)** ⭐ 37
+  ![Jupyter Notebook](https://img.shields.io/badge/-Jupyter Notebook-lightgrey)
   None
 
-- **[matthewlam721/octopus-parallel](https://github.com/matthewlam721/octopus-parallel)** ⭐ 9
+- **[op7418/Video-Wrapper-Skills](https://github.com/op7418/Video-Wrapper-Skills)** ⭐ 32
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  为访谈视频添加综艺风格视觉特效的 Claude Skill。AI 分析字幕内容生成建议，用户审批后自动渲染，支持 4 种视觉主题。
+
+- **[miuda-ai/lele](https://github.com/miuda-ai/lele)** ⭐ 32
+  ![Rust](https://img.shields.io/badge/-Rust-brown)
+  Bare-Metal Rust Audio AI Framework
+
+- **[matthewlam721/octopus-parallel](https://github.com/matthewlam721/octopus-parallel)** ⭐ 22
   ![Python](https://img.shields.io/badge/-Python-blue)
   Pre-balanced GPU workload distribution inspired by octopus neural coordination. Achieves up to 14.84x speedup on imbalanced parallel tasks.
 
-- **[Senior-Architecture/XmlTemplates](https://github.com/Senior-Architecture/XmlTemplates)** ⭐ 6
-  ![C#](https://img.shields.io/badge/-C#-lightgrey)
-  Word .docx templating system that is designer (no scripting tags) and server-friendly (no word installation required)
+- **[Jsnzkpg/stymei](https://github.com/Jsnzkpg/stymei)** ⭐ 18
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
+  猫源通用接口，适用于MiraPlay，JSTV，魔力云播，蚂蚁影视，猫爪，尽量用MiraPlay，比较适配点
 
-- **[sydney-client/Phobos](https://github.com/sydney-client/Phobos)** ⭐ 6
-  ![Java](https://img.shields.io/badge/-Java-orange)
-  Cracked version of the 1.21.1 Phobos Minecraft utility mod
+- **[jessicamonal50-rgb/Portfolio](https://github.com/jessicamonal50-rgb/Portfolio)** ⭐ 17
+  ![CSS](https://img.shields.io/badge/-CSS-lightgrey)
+  My portfolio built with HTML, CSS and JS!
 
 ### 📈 Weekly Trending
 
-- **[VoltAgent/awesome-moltbot-skills](https://github.com/VoltAgent/awesome-moltbot-skills)** ⭐ 2,276
+- **[VoltAgent/awesome-moltbot-skills](https://github.com/VoltAgent/awesome-moltbot-skills)** ⭐ 2,464
   ![None](https://img.shields.io/badge/-None-lightgrey)
   The awesome collection of Moltbot Skills. (Clawdbot has officially been renamed to Moltbot)
 
-- **[tldev/posturr](https://github.com/tldev/posturr)** ⭐ 1,399
+- **[tldev/posturr](https://github.com/tldev/posturr)** ⭐ 1,462
   ![Swift](https://img.shields.io/badge/-Swift-lightgrey)
   A macOS app that blurs your screen when you slouch. Uses Vision framework for real-time posture detection.
 
-- **[mvanhorn/last30days-skill](https://github.com/mvanhorn/last30days-skill)** ⭐ 1,237
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  Claude Code skill that researches any topic across Reddit + X from the last 30 days, then writes copy-paste-ready prompts
-
-- **[forrestchang/andrej-karpathy-skills](https://github.com/forrestchang/andrej-karpathy-skills)** ⭐ 1,037
+- **[forrestchang/andrej-karpathy-skills](https://github.com/forrestchang/andrej-karpathy-skills)** ⭐ 1,332
   ![None](https://img.shields.io/badge/-None-lightgrey)
   None
 
-- **[deepseek-ai/DeepSeek-OCR-2](https://github.com/deepseek-ai/DeepSeek-OCR-2)** ⭐ 1,017
+- **[mvanhorn/last30days-skill](https://github.com/mvanhorn/last30days-skill)** ⭐ 1,321
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  Claude Code skill that researches any topic across Reddit + X from the last 30 days, then writes copy-paste-ready prompts
+
+- **[deepseek-ai/DeepSeek-OCR-2](https://github.com/deepseek-ai/DeepSeek-OCR-2)** ⭐ 1,145
   ![Python](https://img.shields.io/badge/-Python-blue)
   Visual Causal Flow
 
-- **[op7418/Youtube-clipper-skill](https://github.com/op7418/Youtube-clipper-skill)** ⭐ 784
+- **[op7418/Youtube-clipper-skill](https://github.com/op7418/Youtube-clipper-skill)** ⭐ 788
   ![Python](https://img.shields.io/badge/-Python-blue)
   None
 
-- **[unicodeveloper/globalthreatmap](https://github.com/unicodeveloper/globalthreatmap)** ⭐ 730
+- **[unicodeveloper/globalthreatmap](https://github.com/unicodeveloper/globalthreatmap)** ⭐ 750
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   Global threat map. Learn wars, conflicts, military bases and history of nations. 
 
-- **[KKKKhazix/Khazix-Skills](https://github.com/KKKKhazix/Khazix-Skills)** ⭐ 687
+- **[KKKKhazix/Khazix-Skills](https://github.com/KKKKhazix/Khazix-Skills)** ⭐ 698
   ![Python](https://img.shields.io/badge/-Python-blue)
   None
 
 ### 📈 Monthly Trending
 
-- **[affaan-m/everything-claude-code](https://github.com/affaan-m/everything-claude-code)** ⭐ 32,891
+- **[affaan-m/everything-claude-code](https://github.com/affaan-m/everything-claude-code)** ⭐ 33,249
   ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
   Complete Claude Code configuration collection - agents, skills, hooks, commands, rules, MCPs. Battle-tested configs from an Anthropic hackathon winner.
 
-- **[xai-org/x-algorithm](https://github.com/xai-org/x-algorithm)** ⭐ 13,938
+- **[xai-org/x-algorithm](https://github.com/xai-org/x-algorithm)** ⭐ 13,981
   ![Rust](https://img.shields.io/badge/-Rust-brown)
   Algorithm powering the For You feed on X
 
-- **[OthmanAdi/planning-with-files](https://github.com/OthmanAdi/planning-with-files)** ⭐ 11,616
+- **[OthmanAdi/planning-with-files](https://github.com/OthmanAdi/planning-with-files)** ⭐ 11,649
   ![Python](https://img.shields.io/badge/-Python-blue)
   Claude Code skill implementing Manus-style persistent markdown planning — the workflow pattern behind the $2B acquisition.
 
-- **[vercel-labs/agent-browser](https://github.com/vercel-labs/agent-browser)** ⭐ 11,116
+- **[vercel-labs/agent-browser](https://github.com/vercel-labs/agent-browser)** ⭐ 11,187
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   Browser automation CLI for AI agents
 
-- **[vercel-labs/json-render](https://github.com/vercel-labs/json-render)** ⭐ 9,454
+- **[vercel-labs/json-render](https://github.com/vercel-labs/json-render)** ⭐ 9,483
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   AI → JSON → UI
 
-- **[kepano/obsidian-skills](https://github.com/kepano/obsidian-skills)** ⭐ 8,417
+- **[kepano/obsidian-skills](https://github.com/kepano/obsidian-skills)** ⭐ 8,467
   ![None](https://img.shields.io/badge/-None-lightgrey)
   Agent skills for Obsidian
 
-- **[snarktank/ralph](https://github.com/snarktank/ralph)** ⭐ 8,235
+- **[snarktank/ralph](https://github.com/snarktank/ralph)** ⭐ 8,291
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   Ralph is an autonomous AI agent loop that runs repeatedly until all PRD items are complete. 
 
-- **[originalankur/maptoposter](https://github.com/originalankur/maptoposter)** ⭐ 8,208
+- **[originalankur/maptoposter](https://github.com/originalankur/maptoposter)** ⭐ 8,283
   ![Python](https://img.shields.io/badge/-Python-blue)
   Transform your favorite cities into beautiful, minimalist designs. MapToPoster lets you create and export visually striking map posters with code.
 
@@ -494,39 +486,39 @@ See [kubernetes-announce@](https://groups.google.com/forum/#!forum/kubernetes-an
 
 | Skill | Status |
 |-------|--------|
-| Java | 🟢 Proficient |
-| Python | ⚪ Planned |
-| JavaScript | 🟡 Learning |
-| TypeScript | 🟢 Proficient |
-| Go | 🟡 Learning |
+| Java | 🔴 Beginner |
+| Python | 🟡 Learning |
+| JavaScript | 🔴 Beginner |
+| TypeScript | 🔴 Beginner |
+| Go | 🟢 Proficient |
 
 ### Frameworks
 
 | Skill | Status |
 |-------|--------|
-| React | 🔴 Beginner |
-| Spring Boot | 🟡 Learning |
-| Django | 🟡 Learning |
-| Node.js | 🟢 Proficient |
-| Next.js | ⚪ Planned |
+| React | 🟡 Learning |
+| Spring Boot | ⚪ Planned |
+| Django | ⚪ Planned |
+| Node.js | 🟡 Learning |
+| Next.js | 🟡 Learning |
 
 ### Cybersecurity
 
 | Skill | Status |
 |-------|--------|
-| Penetration Testing | 🟡 Learning |
-| Web Security | 🟡 Learning |
-| Network Security | ⚪ Planned |
+| Penetration Testing | ⚪ Planned |
+| Web Security | 🔴 Beginner |
+| Network Security | 🟡 Learning |
 | OWASP | 🟢 Proficient |
 
 ### Ai Ml
 
 | Skill | Status |
 |-------|--------|
-| Machine Learning | 🟡 Learning |
-| Deep Learning | 🟡 Learning |
-| NLP | 🟡 Learning |
-| Computer Vision | 🔴 Beginner |
+| Machine Learning | 🟢 Proficient |
+| Deep Learning | 🟢 Proficient |
+| NLP | ⚪ Planned |
+| Computer Vision | 🟡 Learning |
 | TensorFlow | 🟢 Proficient |
 | PyTorch | 🟡 Learning |
 
@@ -534,7 +526,7 @@ See [kubernetes-announce@](https://groups.google.com/forum/#!forum/kubernetes-an
 
 | Skill | Status |
 |-------|--------|
-| Docker | 🔴 Beginner |
+| Docker | 🟡 Learning |
 | Kubernetes | 🔴 Beginner |
 | CI/CD | 🔴 Beginner |
 | AWS | 🔴 Beginner |
