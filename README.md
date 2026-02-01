@@ -46,33 +46,31 @@
 
 ### 📑 Hacker News
 
-- **[Swift is a more convenient Rust](https://nmn.sh/blog/2023-10-02-swift-is-the-more-convenient-rust)**
-  *<p>Article URL: <a href="https://nmn.sh/blog/2023-10-02-swift-is-the-more-convenient-rust">https://nmn.sh/blog/2023-10-02-swift-is-the-more-convenient-rust</a></p>
-<p>Comments URL: <a href="https://ne...*
-  📅 Sat, 31 Jan 2026 22:05:03 +0000
+- **[Show HN: OpenJuris – AI legal research with citations from primary sources](https://openjuris.org/)**
+  *<p>We built tooling that connects LLMs directly to case law databases with citation verification to address hallucination in legal AI. Think of it as giving the model access to actual legal sources in...*
+  📅 Sun, 01 Feb 2026 02:48:34 +0000
 
-- **[Kimwolf Botnet Lurking in Corporate, Govt. Networks](https://krebsonsecurity.com/2026/01/kimwolf-botnet-lurking-in-corporate-govt-networks/)**
-  *<p>Article URL: <a href="https://krebsonsecurity.com/2026/01/kimwolf-botnet-lurking-in-corporate-govt-networks/">https://krebsonsecurity.com/2026/01/kimwolf-botnet-lurking-in-corporate-govt-networks/<...*
-  📅 Sat, 31 Jan 2026 21:47:04 +0000
+- **[Apple-1 Computer Prototype Board #0 sold for $2.75M](https://www.rrauction.com/auctions/lot-detail/350902407346003-apple-1-computer-prototype-board-0-the-celebration-board-representing-the-earliest-known-fiberglass-apple-1-prototype/)**
+  *<p>Article URL: <a href="https://www.rrauction.com/auctions/lot-detail/350902407346003-apple-1-computer-prototype-board-0-the-celebration-board-representing-the-earliest-known-fiberglass-apple-1-proto...*
+  📅 Sun, 01 Feb 2026 02:25:26 +0000
 
-- **[Generative AI and Wikipedia editing: What we learned in 2025](https://wikiedu.org/blog/2026/01/29/generative-ai-and-wikipedia-editing-what-we-learned-in-2025/)**
-  *<p>Article URL: <a href="https://wikiedu.org/blog/2026/01/29/generative-ai-and-wikipedia-editing-what-we-learned-in-2025/">https://wikiedu.org/blog/2026/01/29/generative-ai-and-wikipedia-editing-what-...*
-  📅 Sat, 31 Jan 2026 21:14:02 +0000
+- **[List animals until failure](https://rose.systems/animalist/)**
+  *<p>Article URL: <a href="https://rose.systems/animalist/">https://rose.systems/animalist/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46842603">https://news.ycombinator.com/...*
+  📅 Sun, 01 Feb 2026 01:03:23 +0000
 
-- **[Outsourcing thinking](https://erikjohannes.no/posts/20260130-outsourcing-thinking/index.html)**
-  *<p>Article URL: <a href="https://erikjohannes.no/posts/20260130-outsourcing-thinking/index.html">https://erikjohannes.no/posts/20260130-outsourcing-thinking/index.html</a></p>
-<p>Comments URL: <a href...*
-  📅 Sat, 31 Jan 2026 21:06:57 +0000
+- **[Sparse File LRU Cache](http://ternarysearch.blogspot.com/2026/01/sparse-file-lru-cache.html)**
+  *<p>Article URL: <a href="http://ternarysearch.blogspot.com/2026/01/sparse-file-lru-cache.html">http://ternarysearch.blogspot.com/2026/01/sparse-file-lru-cache.html</a></p>
+<p>Comments URL: <a href="ht...*
+  📅 Sun, 01 Feb 2026 01:00:07 +0000
 
-- **[CollectWise (YC F24) Is Hiring](https://www.ycombinator.com/companies/collectwise/jobs/ZunnO6k-ai-agent-engineer)**
-  *<p>Article URL: <a href="https://www.ycombinator.com/companies/collectwise/jobs/ZunnO6k-ai-agent-engineer">https://www.ycombinator.com/companies/collectwise/jobs/ZunnO6k-ai-agent-engineer</a></p>
-<p>C...*
-  📅 Sat, 31 Jan 2026 21:00:56 +0000
+- **[Cells use 'bioelectricity' to coordinate and make group decisions](https://www.quantamagazine.org/cells-use-bioelectricity-to-coordinate-and-make-group-decisions-20260112/)**
+  *<p>Article URL: <a href="https://www.quantamagazine.org/cells-use-bioelectricity-to-coordinate-and-make-group-decisions-20260112/">https://www.quantamagazine.org/cells-use-bioelectricity-to-coordinate...*
+  📅 Sun, 01 Feb 2026 00:00:11 +0000
 
-- **[The Spacecraft That Wouldn't Die](https://www.corememory.com/p/exclusive-theres-a-spaceship-epic-aerospace-chimera)**
-  *<p>Article URL: <a href="https://www.corememory.com/p/exclusive-theres-a-spaceship-epic-aerospace-chimera">https://www.corememory.com/p/exclusive-theres-a-spaceship-epic-aerospace-chimera</a></p>
-<p>C...*
-  📅 Sat, 31 Jan 2026 20:56:04 +0000
+- **[When will CSS Grid Lanes arrive?](https://webkit.org/blog/17758/when-will-css-grid-lanes-arrive-how-long-until-we-can-use-it/)**
+  *<p>Article URL: <a href="https://webkit.org/blog/17758/when-will-css-grid-lanes-arrive-how-long-until-we-can-use-it/">https://webkit.org/blog/17758/when-will-css-grid-lanes-arrive-how-long-until-we-ca...*
+  📅 Sat, 31 Jan 2026 23:02:45 +0000
 
 ### 📑 TechCrunch
 
@@ -102,32 +100,13 @@
 
 ### 📑 Dev.to
 
-- **[The Human-Machine Interface: An Intelligent Engineering Portfolio](https://dev.to/phoenixa/the-human-machine-interface-an-intelligent-engineering-portfolio-o0p)**
-  *<h2>
-  
-  
-  New Year, New You Portfolio Challenge Submission
-</h2>
+- **[Loss Functions for Beginners](https://dev.to/olabamipetaiwo/loss-functions-for-beginners-5gfl)**
+  *<p>Loss functions are the quiet engine behind every machine learning model. They serve as the critical feedback loop, translating the abstract concept of error into a value that a computer can minimiz...*
+  📅 Sun, 01 Feb 2026 06:25:57 +0000
 
-<p><strong>Presented by Google AI</strong></p>
-
-
-
-
-<h2>
-  
-  
-  About Me
-</h2>
-
-<p>I am <strong>Salwa Khattami</strong>, an AI Engi...*
-  📅 Sun, 01 Feb 2026 01:10:26 +0000
-
-- **[What Really Happens When You Press the Power Button on Your Computer? The Boot Process Explained for Beginners](https://dev.to/amadu9933/what-really-happens-when-you-press-the-power-button-on-your-computer-the-boot-process-explained-57i8)**
-  *<p>Hi guys and curious minds!</p>
-
-<p>Today I want to share something that completely blew my mind when I first learned it: <strong>what actually happens</strong> when you hit that power button on you...*
-  📅 Sun, 01 Feb 2026 01:03:17 +0000
+- **[[Opinion]Today's frontend is easy to be messed up and we need to organize it](https://dev.to/uponthesky/opiniontodays-frontend-is-easy-to-be-messed-up-and-we-need-to-organize-it-17hl)**
+  *<p><strong>Disclaimer</strong>: This post is a mixture of ranting about the complexity of the contemporary frontend, and my thought on how to solve it. I have been away from the frontend/React world f...*
+  📅 Sun, 01 Feb 2026 06:25:49 +0000
 
 </details>
 
@@ -135,103 +114,103 @@
 
 ### 📈 Daily Trending
 
-- **[790504/peak-calendar](https://github.com/790504/peak-calendar)** ⭐ 2
-  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
-  Peak Calendar: A bio-rhythm-aware productivity system that synchronizes your schedule with physiological energy tides. Built from 0 to 1 via Vibe Coding (AI-Assisted Orchestration).
+- **[YougLin-dev/Aha-Loop](https://github.com/YougLin-dev/Aha-Loop)** ⭐ 76
+  ![Shell](https://img.shields.io/badge/-Shell-lightgrey)
+  Aha Loop is a fully autonomous AI development system, extended from the core ideas of Ralph. It's not just an execution engine, but a complete AI development framework with planning capabilities, research abilities, and oversight mechanisms.
 
-- **[shafayatsaad/Smart_Meeting_Assistant_IBM_Hackathon](https://github.com/shafayatsaad/Smart_Meeting_Assistant_IBM_Hackathon)** ⭐ 2
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
-  None
-
-- **[Arrush-dihingia/tech-world-news](https://github.com/Arrush-dihingia/tech-world-news)** ⭐ 1
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
-  None
-
-- **[Davi-S/bitcoin_manager](https://github.com/Davi-S/bitcoin_manager)** ⭐ 1
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  A pure Python offline library for Bitcoin private key management and address generation
-
-- **[Jovips/ALFRED](https://github.com/Jovips/ALFRED)** ⭐ 1
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  ALFRED é um projeto focado em automatizar e centralizar tarefas de forma inteligente, oferecendo uma base extensível para integração de serviços, processamento de dados e suporte à tomada de decisão.
-
-- **[muhammad-haseeb-dev/Netflix_Movies_EDA](https://github.com/muhammad-haseeb-dev/Netflix_Movies_EDA)** ⭐ 1
+- **[Subhatharani/neon-icu-vitals-monitor](https://github.com/Subhatharani/neon-icu-vitals-monitor)** ⭐ 15
   ![Jupyter Notebook](https://img.shields.io/badge/-Jupyter Notebook-lightgrey)
-  Exploratory Data Analysis of Netflix Movies & TV Shows using Python (Pandas, NumPy, Seaborn, Matplotlib)
+  Real-time vitals monitoring system with neon ICU dashboard
 
-- **[ETomberg391/Ecne-AI-Chathub](https://github.com/ETomberg391/Ecne-AI-Chathub)** ⭐ 1
+- **[NineThoughts0521/clash-residential-proxy-parser](https://github.com/NineThoughts0521/clash-residential-proxy-parser)** ⭐ 10
+  ![HTML](https://img.shields.io/badge/-HTML-lightgrey)
+  Smart pre-processing scripts for adding residential proxies to Clash subscriptions
+
+- **[sujeethk391-ai/movie-app](https://github.com/sujeethk391-ai/movie-app)** ⭐ 5
+  ![Dart](https://img.shields.io/badge/-Dart-lightgrey)
+  Personalised movie tracker app.
+
+- **[sjcotto/opsagent](https://github.com/sjcotto/opsagent)** ⭐ 4
+  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
+  AI-powered system monitoring daemon with automated remediation. Detects issues, analyzes with AI, and fixes them automatically.
+
+- **[ephemara/kore-lang](https://github.com/ephemara/kore-lang)** ⭐ 3
+  ![LLVM](https://img.shields.io/badge/-LLVM-lightgrey)
+  One language to rule them all.
+
+- **[hknc/claude-evolve](https://github.com/hknc/claude-evolve)** ⭐ 3
+  ![Shell](https://img.shields.io/badge/-Shell-lightgrey)
+  A Claude Code plugin that captures your patterns as reusable rules, skills, and agents
+
+- **[MaesHughes/wuxing-search-mcp](https://github.com/MaesHughes/wuxing-search-mcp)** ⭐ 3
   ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
-  Beginner project for a lightweight Chathub
-
-- **[yyouretoast/yyouretoast-yyouretoast](https://github.com/yyouretoast/yyouretoast-yyouretoast)** ⭐ 1
-  ![None](https://img.shields.io/badge/-None-lightgrey)
-  None
+  Wuxing Search MCP is a powerful, unlimited search server built on top of SearXNG. It integrates seamlessly with Claude Code via the Model Context Protocol, providing free and unlimited search capabilities by aggregating results from 100+ search engines.
 
 ### 📈 Weekly Trending
 
-- **[lukilabs/beautiful-mermaid](https://github.com/lukilabs/beautiful-mermaid)** ⭐ 4,545
+- **[lukilabs/beautiful-mermaid](https://github.com/lukilabs/beautiful-mermaid)** ⭐ 4,633
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   None
 
-- **[cloudflare/moltworker](https://github.com/cloudflare/moltworker)** ⭐ 3,677
+- **[cloudflare/moltworker](https://github.com/cloudflare/moltworker)** ⭐ 3,788
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   Run OpenClaw, (formerly Moltbot, formerly Clawdbot) on Cloudflare Workers
 
-- **[forrestchang/andrej-karpathy-skills](https://github.com/forrestchang/andrej-karpathy-skills)** ⭐ 3,317
+- **[forrestchang/andrej-karpathy-skills](https://github.com/forrestchang/andrej-karpathy-skills)** ⭐ 3,331
   ![None](https://img.shields.io/badge/-None-lightgrey)
   None
 
-- **[antfu/skills](https://github.com/antfu/skills)** ⭐ 2,466
+- **[antfu/skills](https://github.com/antfu/skills)** ⭐ 2,481
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   Anthony Fu's curated collection of agent skills.
 
-- **[deepseek-ai/DeepSeek-OCR-2](https://github.com/deepseek-ai/DeepSeek-OCR-2)** ⭐ 1,773
+- **[deepseek-ai/DeepSeek-OCR-2](https://github.com/deepseek-ai/DeepSeek-OCR-2)** ⭐ 1,787
   ![Python](https://img.shields.io/badge/-Python-blue)
   Visual Causal Flow
 
-- **[Robbyant/lingbot-world](https://github.com/Robbyant/lingbot-world)** ⭐ 1,315
+- **[Robbyant/lingbot-world](https://github.com/Robbyant/lingbot-world)** ⭐ 1,365
   ![Python](https://img.shields.io/badge/-Python-blue)
   Advancing Open-source World Models
 
-- **[mindfold-ai/Trellis](https://github.com/mindfold-ai/Trellis)** ⭐ 1,291
+- **[mindfold-ai/Trellis](https://github.com/mindfold-ai/Trellis)** ⭐ 1,316
   ![Shell](https://img.shields.io/badge/-Shell-lightgrey)
   All-in-one AI framework & toolkit for Claude Code & Cursor
 
-- **[QwenLM/Qwen3-ASR](https://github.com/QwenLM/Qwen3-ASR)** ⭐ 901
+- **[QwenLM/Qwen3-ASR](https://github.com/QwenLM/Qwen3-ASR)** ⭐ 925
   ![Python](https://img.shields.io/badge/-Python-blue)
   Qwen3-ASR is an open-source series of ASR models developed by the Qwen team at Alibaba Cloud, supporting stable multilingual speech/music/song recognition, language detection and timestamp prediction.
 
 ### 📈 Monthly Trending
 
-- **[affaan-m/everything-claude-code](https://github.com/affaan-m/everything-claude-code)** ⭐ 36,272
+- **[affaan-m/everything-claude-code](https://github.com/affaan-m/everything-claude-code)** ⭐ 36,485
   ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
   Complete Claude Code configuration collection - agents, skills, hooks, commands, rules, MCPs. Battle-tested configs from an Anthropic hackathon winner.
 
-- **[xai-org/x-algorithm](https://github.com/xai-org/x-algorithm)** ⭐ 14,287
+- **[xai-org/x-algorithm](https://github.com/xai-org/x-algorithm)** ⭐ 14,298
   ![Rust](https://img.shields.io/badge/-Rust-brown)
   Algorithm powering the For You feed on X
 
-- **[OthmanAdi/planning-with-files](https://github.com/OthmanAdi/planning-with-files)** ⭐ 11,938
+- **[OthmanAdi/planning-with-files](https://github.com/OthmanAdi/planning-with-files)** ⭐ 11,953
   ![Python](https://img.shields.io/badge/-Python-blue)
   Claude Code skill implementing Manus-style persistent markdown planning — the workflow pattern behind the $2B acquisition.
 
-- **[vercel-labs/agent-browser](https://github.com/vercel-labs/agent-browser)** ⭐ 11,907
+- **[vercel-labs/agent-browser](https://github.com/vercel-labs/agent-browser)** ⭐ 11,939
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   Browser automation CLI for AI agents
 
-- **[vercel-labs/json-render](https://github.com/vercel-labs/json-render)** ⭐ 9,765
+- **[vercel-labs/json-render](https://github.com/vercel-labs/json-render)** ⭐ 9,773
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   AI → JSON → UI
 
-- **[snarktank/ralph](https://github.com/snarktank/ralph)** ⭐ 8,932
+- **[snarktank/ralph](https://github.com/snarktank/ralph)** ⭐ 8,973
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   Ralph is an autonomous AI agent loop that runs repeatedly until all PRD items are complete. 
 
-- **[originalankur/maptoposter](https://github.com/originalankur/maptoposter)** ⭐ 8,706
+- **[originalankur/maptoposter](https://github.com/originalankur/maptoposter)** ⭐ 8,722
   ![Python](https://img.shields.io/badge/-Python-blue)
   Transform your favorite cities into beautiful, minimalist designs. MapToPoster lets you create and export visually striking map posters with code.
 
-- **[ZhuLinsen/daily_stock_analysis](https://github.com/ZhuLinsen/daily_stock_analysis)** ⭐ 8,312
+- **[ZhuLinsen/daily_stock_analysis](https://github.com/ZhuLinsen/daily_stock_analysis)** ⭐ 8,401
   ![Python](https://img.shields.io/badge/-Python-blue)
   LLM驱动的 A/H/美股智能分析器，多数据源行情 + 实时新闻 + Gemini 决策仪表盘 + 多渠道推送，零成本，纯白嫖，定时运行
 
@@ -503,40 +482,40 @@ See [kubernetes-announce@](https://groups.google.com/forum/#!forum/kubernetes-an
 
 | Skill | Status |
 |-------|--------|
-| Java | 🟡 Learning |
-| Python | ⚪ Planned |
-| JavaScript | ⚪ Planned |
-| TypeScript | ⚪ Planned |
-| Go | ⚪ Planned |
+| Java | ⚪ Planned |
+| Python | 🟡 Learning |
+| JavaScript | 🔴 Beginner |
+| TypeScript | 🟢 Proficient |
+| Go | 🟡 Learning |
 
 ### Frameworks
 
 | Skill | Status |
 |-------|--------|
-| React | 🟢 Proficient |
+| React | 🔴 Beginner |
 | Spring Boot | 🔴 Beginner |
-| Django | 🔴 Beginner |
-| Node.js | 🟢 Proficient |
+| Django | 🟡 Learning |
+| Node.js | ⚪ Planned |
 | Next.js | ⚪ Planned |
 
 ### Cybersecurity
 
 | Skill | Status |
 |-------|--------|
-| Penetration Testing | 🟢 Proficient |
-| Web Security | 🔴 Beginner |
-| Network Security | 🟢 Proficient |
-| OWASP | 🟡 Learning |
+| Penetration Testing | ⚪ Planned |
+| Web Security | ⚪ Planned |
+| Network Security | 🔴 Beginner |
+| OWASP | 🔴 Beginner |
 
 ### Ai Ml
 
 | Skill | Status |
 |-------|--------|
-| Machine Learning | ⚪ Planned |
-| Deep Learning | 🟢 Proficient |
-| NLP | 🔴 Beginner |
-| Computer Vision | 🟡 Learning |
-| TensorFlow | ⚪ Planned |
+| Machine Learning | 🟢 Proficient |
+| Deep Learning | 🔴 Beginner |
+| NLP | ⚪ Planned |
+| Computer Vision | ⚪ Planned |
+| TensorFlow | 🟡 Learning |
 | PyTorch | 🟢 Proficient |
 
 ### Devops
@@ -544,18 +523,18 @@ See [kubernetes-announce@](https://groups.google.com/forum/#!forum/kubernetes-an
 | Skill | Status |
 |-------|--------|
 | Docker | 🔴 Beginner |
-| Kubernetes | 🟡 Learning |
-| CI/CD | 🟢 Proficient |
-| AWS | ⚪ Planned |
-| Azure | 🔴 Beginner |
+| Kubernetes | ⚪ Planned |
+| CI/CD | 🔴 Beginner |
+| AWS | 🟡 Learning |
+| Azure | 🟢 Proficient |
 
 ### Other
 
 | Skill | Status |
 |-------|--------|
 | Blockchain | 🟢 Proficient |
-| Web3 | ⚪ Planned |
-| Cloud Computing | 🟡 Learning |
+| Web3 | 🟡 Learning |
+| Cloud Computing | 🟢 Proficient |
 
 </details>
 
