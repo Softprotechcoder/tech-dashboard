@@ -46,37 +46,38 @@
 
 ### 📑 Hacker News
 
-- **[Leaked Chats Expose the Daily Life of a Scam Compound's Enslaved Workforce](https://www.wired.com/story/the-red-bull-leaks/)**
-  *<p>Article URL: <a href="https://www.wired.com/story/the-red-bull-leaks/">https://www.wired.com/story/the-red-bull-leaks/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=4685266...*
-  📅 Mon, 02 Feb 2026 05:10:59 +0000
+- **[EU must become a 'genuine federation' to avoid deindustrialisation and decline](https://www.euronews.com/my-europe/2026/02/02/eu-must-become-a-genuine-federation-to-avoid-deindustrialisation-and-decline-draghi-says)**
+  *<p>Article URL: <a href="https://www.euronews.com/my-europe/2026/02/02/eu-must-become-a-genuine-federation-to-avoid-deindustrialisation-and-decline-draghi-says">https://www.euronews.com/my-europe/2026...*
+  📅 Mon, 02 Feb 2026 12:08:00 +0000
 
-- **[Apple's MacBook Pro DFU port documentation is wrong](https://lapcatsoftware.com/articles/2026/2/1.html)**
-  *<p>Article URL: <a href="https://lapcatsoftware.com/articles/2026/2/1.html">https://lapcatsoftware.com/articles/2026/2/1.html</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=468...*
-  📅 Mon, 02 Feb 2026 03:29:55 +0000
+- **[Applications where agents are first-class citizens](https://every.to/guides/agent-native)**
+  *<p>Article URL: <a href="https://every.to/guides/agent-native">https://every.to/guides/agent-native</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46855003">https://news.ycombi...*
+  📅 Mon, 02 Feb 2026 11:59:32 +0000
 
-- **[Building a Telegram Bot with Cloudflare Workers, Durable Objects and Grammy](https://flashblaze.xyz/posts/cloudflare-workers-durable-objects-telegram-bot/)**
-  *<p>Article URL: <a href="https://flashblaze.xyz/posts/cloudflare-workers-durable-objects-telegram-bot/">https://flashblaze.xyz/posts/cloudflare-workers-durable-objects-telegram-bot/</a></p>
-<p>Comment...*
-  📅 Mon, 02 Feb 2026 03:02:55 +0000
+- **[Claude Code is suddenly everywhere inside Microsoft](https://www.theverge.com/tech/865689/microsoft-claude-code-anthropic-partnership-notepad)**
+  *<p>Article URL: <a href="https://www.theverge.com/tech/865689/microsoft-claude-code-anthropic-partnership-notepad">https://www.theverge.com/tech/865689/microsoft-claude-code-anthropic-partnership-note...*
+  📅 Mon, 02 Feb 2026 11:58:58 +0000
 
-- **[Notepad++ hijacked by state-sponsored actors](https://notepad-plus-plus.org/news/hijacked-incident-info-update/)**
-  *<p>Article URL: <a href="https://notepad-plus-plus.org/news/hijacked-incident-info-update/">https://notepad-plus-plus.org/news/hijacked-incident-info-update/</a></p>
-<p>Comments URL: <a href="https://...*
-  📅 Mon, 02 Feb 2026 01:59:56 +0000
+- **[Microsoft is walking back Windows 11's AI overload](https://www.windowscentral.com/microsoft/windows-11/microsoft-is-reevaluating-its-ai-efforts-on-windows-11-plans-to-reduce-copilot-integrations-and-evolve-recall)**
+  *<p>Article URL: <a href="https://www.windowscentral.com/microsoft/windows-11/microsoft-is-reevaluating-its-ai-efforts-on-windows-11-plans-to-reduce-copilot-integrations-and-evolve-recall">https://www....*
+  📅 Mon, 02 Feb 2026 11:52:29 +0000
 
-- **[Actors: A Model of Concurrent Computation [pdf] (1985)](https://apps.dtic.mil/sti/tr/pdf/ADA157917.pdf)**
-  *<p>Article URL: <a href="https://apps.dtic.mil/sti/tr/pdf/ADA157917.pdf">https://apps.dtic.mil/sti/tr/pdf/ADA157917.pdf</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46851192"...*
-  📅 Mon, 02 Feb 2026 01:11:15 +0000
+- **[Termux](https://github.com/termux/termux-app)**
+  *<p>Article URL: <a href="https://github.com/termux/termux-app">https://github.com/termux/termux-app</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46854642">https://news.ycombi...*
+  📅 Mon, 02 Feb 2026 11:03:44 +0000
 
-- **[Show HN: Wikipedia as a doomscrollable social media feed](https://xikipedia.org)**
-  *<p>Article URL: <a href="https://xikipedia.org">https://xikipedia.org</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46850803">https://news.ycombinator.com/item?id=46850803</a>...*
-  📅 Mon, 02 Feb 2026 00:12:19 +0000
+- **[My (very) fast zero-allocation webserver using OxCaml](https://anil.recoil.org/notes/oxcaml-httpz)**
+  *<p>Article URL: <a href="https://anil.recoil.org/notes/oxcaml-httpz">https://anil.recoil.org/notes/oxcaml-httpz</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46854534">https:/...*
+  📅 Mon, 02 Feb 2026 10:45:44 +0000
 
 ### 📑 TechCrunch
+
+- **[These AI notetaking devices can help you record and transcribe your meetings](https://techcrunch.com/2026/02/02/ai-notetaker-hardware-devices-pins-pendants-record-transcribe/)**
+  *These physical notetakers transcribe audio and give users summaries and action items of meetings using AI. Some even offer live translation....*
+  📅 Mon, 02 Feb 2026 08:00:00 +0000
 
 - **[TikTok says its services are restored after the outage](https://techcrunch.com/2026/02/01/tiktok-says-its-services-are-restored-after-the-outage/)**
   *TikTok says it finally solved all issues related to outages caused by last week's U.S. snowstorm....*
@@ -98,27 +99,15 @@
   *Indonesia has followed Malaysia and the Philippines in lifting a ban on xAI’s chatbot Grok....*
   📅 Sun, 01 Feb 2026 17:20:00 +0000
 
-- **[TechCrunch Mobility: The great Tesla rebranding](https://techcrunch.com/2026/02/01/techcrunch-mobility-the-great-tesla-rebranding/)**
-  *Welcome back to TechCrunch Mobility — your central hub for news and insights on the future of transportation....*
-  📅 Sun, 01 Feb 2026 17:05:00 +0000
-
 ### 📑 Dev.to
 
-- **[Officially Google Cloud Certified: Associate Cloud Engineer Path](https://dev.to/urielalonso/officially-google-cloud-certified-associate-cloud-engineer-path-5dh6)**
-  *<p>The cloud is no longer just a trend; it is the industry standard. To keep pace with the tech landscape, I decided to earn the Google Cloud Certified - Associate Cloud Engineer (ACE) credential. Her...*
-  📅 Mon, 02 Feb 2026 06:50:41 +0000
+- **[How STRV Transformed Their Cloud Architecture and Sparked a Culture of Innovation](https://dev.to/aws-builders/how-strv-transformed-their-cloud-architecture-and-sparked-a-culture-of-innovation-3hph)**
+  *<p>It all started with an introduction from AWS Hero <a href="https://www.linkedin.com/in/filippyrek/" rel="noopener noreferrer">Filip Pýrek</a>, who connected me with <a href="https://www.linkedin.co...*
+  📅 Mon, 02 Feb 2026 12:30:19 +0000
 
-- **[I created small mcp server for Jupyter Notebook.](https://dev.to/cshara/i-created-small-mcp-server-for-jupyter-notebook-14l6)**
-  *<h1>
-  
-  
-  Introduction
-</h1>
-
-<p>When working with AI agents like Claude or Antigravity, one common hurdle is dealing with Jupyter Notebook (<code>.ipynb</code>) files. </p>
-
-<p>While agents are gr...*
-  📅 Mon, 02 Feb 2026 06:48:45 +0000
+- **[Mystery Resolved: Switching Repeatedly from WSL to PS - Issues](https://dev.to/annavi11arrea1/mystery-resolved-switching-repeatedly-from-wsl-to-ps-issues-nnm)**
+  *<p>After having previously built an Ubuntu server, I am a little bit more fond of using WSL instead of PS in Windows. Feeling like I am "getting by with something" using linux commands on a windows pc...*
+  📅 Mon, 02 Feb 2026 12:29:53 +0000
 
 </details>
 
@@ -126,103 +115,103 @@
 
 ### 📈 Daily Trending
 
-- **[HarderLemonade/ddwrap](https://github.com/HarderLemonade/ddwrap)** ⭐ 17
+- **[Abinaya-Siva/Leave_Form_Management](https://github.com/Abinaya-Siva/Leave_Form_Management)** ⭐ 47
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
+  This system simplifies leave tracking by replacing manual paperwork with a digital workflow. Users can easily submit leave requests, admins manage approvals efficiently, and all records are securely stored in the database, ensuring transparency, faster responses, and organized leave management.
+
+- **[HarderLemonade/ddwrap](https://github.com/HarderLemonade/ddwrap)** ⭐ 31
   ![Python](https://img.shields.io/badge/-Python-blue)
   DDWrap provides a graphical interface around `dd`, written in Python and using the Qt toolkit.
 
-- **[arulgayathri12-ctrl/Project](https://github.com/arulgayathri12-ctrl/Project)** ⭐ 8
+- **[KavinRagavinyaa22/Study-Planner](https://github.com/KavinRagavinyaa22/Study-Planner)** ⭐ 20
   ![None](https://img.shields.io/badge/-None-lightgrey)
   None
 
-- **[davepl/vector](https://github.com/davepl/vector)** ⭐ 8
-  ![C++](https://img.shields.io/badge/-C++-pink)
-  None
-
-- **[rcb0727/powerautomate-mcp-docs](https://github.com/rcb0727/powerautomate-mcp-docs)** ⭐ 8
-  ![PowerShell](https://img.shields.io/badge/-PowerShell-lightgrey)
-  None
-
-- **[aahl/qwen-tts2api](https://github.com/aahl/qwen-tts2api)** ⭐ 7
+- **[aahl/qwen-tts2api](https://github.com/aahl/qwen-tts2api)** ⭐ 16
   ![Python](https://img.shields.io/badge/-Python-blue)
   🗣️ Qwen TTS to OpenAI Speech API
 
-- **[pluginmd/ai-content-policy](https://github.com/pluginmd/ai-content-policy)** ⭐ 7
-  ![None](https://img.shields.io/badge/-None-lightgrey)
+- **[ADVISORYDZ/wechat-daily-report-skill](https://github.com/ADVISORYDZ/wechat-daily-report-skill)** ⭐ 16
+  ![HTML](https://img.shields.io/badge/-HTML-lightgrey)
   None
 
-- **[Weihong-Liu/vx_chat_analysis](https://github.com/Weihong-Liu/vx_chat_analysis)** ⭐ 6
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  基于VX社群聊天记录的知识情报分析工具，提供清洗、主题聚合、关键词抽取、用户画像、链接整理、摘要与飞书发布等能力。
+- **[linguo2625469/WMPFDebugger-mac](https://github.com/linguo2625469/WMPFDebugger-mac)** ⭐ 15
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
+  WMPFDebugger macOS版支持intel和m系列芯片
 
-- **[CVEshnik/PlumberKit](https://github.com/CVEshnik/PlumberKit)** ⭐ 6
+- **[janani0616/virtual_thrift-store-](https://github.com/janani0616/virtual_thrift-store-)** ⭐ 15
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
+  None
+
+- **[rcb0727/powerautomate-mcp-docs](https://github.com/rcb0727/powerautomate-mcp-docs)** ⭐ 15
   ![PowerShell](https://img.shields.io/badge/-PowerShell-lightgrey)
   None
 
 ### 📈 Weekly Trending
 
-- **[cloudflare/moltworker](https://github.com/cloudflare/moltworker)** ⭐ 5,603
+- **[cloudflare/moltworker](https://github.com/cloudflare/moltworker)** ⭐ 6,106
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   Run OpenClaw, (formerly Moltbot, formerly Clawdbot) on Cloudflare Workers
 
-- **[lukilabs/beautiful-mermaid](https://github.com/lukilabs/beautiful-mermaid)** ⭐ 5,209
+- **[lukilabs/beautiful-mermaid](https://github.com/lukilabs/beautiful-mermaid)** ⭐ 5,321
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   None
 
-- **[forrestchang/andrej-karpathy-skills](https://github.com/forrestchang/andrej-karpathy-skills)** ⭐ 3,406
+- **[forrestchang/andrej-karpathy-skills](https://github.com/forrestchang/andrej-karpathy-skills)** ⭐ 3,425
   ![None](https://img.shields.io/badge/-None-lightgrey)
   None
 
-- **[antfu/skills](https://github.com/antfu/skills)** ⭐ 2,592
+- **[antfu/skills](https://github.com/antfu/skills)** ⭐ 2,639
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   Anthony Fu's curated collection of agent skills.
 
-- **[Robbyant/lingbot-world](https://github.com/Robbyant/lingbot-world)** ⭐ 1,870
+- **[Robbyant/lingbot-world](https://github.com/Robbyant/lingbot-world)** ⭐ 1,986
   ![Python](https://img.shields.io/badge/-Python-blue)
   Advancing Open-source World Models
 
-- **[deepseek-ai/DeepSeek-OCR-2](https://github.com/deepseek-ai/DeepSeek-OCR-2)** ⭐ 1,855
+- **[deepseek-ai/DeepSeek-OCR-2](https://github.com/deepseek-ai/DeepSeek-OCR-2)** ⭐ 1,880
   ![Python](https://img.shields.io/badge/-Python-blue)
   Visual Causal Flow
 
-- **[QwenLM/Qwen3-ASR](https://github.com/QwenLM/Qwen3-ASR)** ⭐ 1,037
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  Qwen3-ASR is an open-source series of ASR models developed by the Qwen team at Alibaba Cloud, supporting stable multilingual speech/music/song recognition, language detection and timestamp prediction.
+- **[gavrielc/nanoclaw](https://github.com/gavrielc/nanoclaw)** ⭐ 1,753
+  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
+  My personal Claude assistant that runs in Apple containers. Lightweight, secure, and built to be understood and customized for your own needs.
 
-- **[miaoxworld/OpenClawInstaller](https://github.com/miaoxworld/OpenClawInstaller)** ⭐ 885
-  ![Shell](https://img.shields.io/badge/-Shell-lightgrey)
-  ClawdBot 一键部署工具
+- **[HKUDS/nanobot](https://github.com/HKUDS/nanobot)** ⭐ 1,164
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  "🐈 nanobot: The Ultra-Lightweight Clawdbot"
 
 ### 📈 Monthly Trending
 
-- **[affaan-m/everything-claude-code](https://github.com/affaan-m/everything-claude-code)** ⭐ 37,427
+- **[affaan-m/everything-claude-code](https://github.com/affaan-m/everything-claude-code)** ⭐ 37,717
   ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
   Complete Claude Code configuration collection - agents, skills, hooks, commands, rules, MCPs. Battle-tested configs from an Anthropic hackathon winner.
 
-- **[xai-org/x-algorithm](https://github.com/xai-org/x-algorithm)** ⭐ 14,347
+- **[xai-org/x-algorithm](https://github.com/xai-org/x-algorithm)** ⭐ 14,365
   ![Rust](https://img.shields.io/badge/-Rust-brown)
   Algorithm powering the For You feed on X
 
-- **[vercel-labs/agent-browser](https://github.com/vercel-labs/agent-browser)** ⭐ 12,128
+- **[vercel-labs/agent-browser](https://github.com/vercel-labs/agent-browser)** ⭐ 12,187
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   Browser automation CLI for AI agents
 
-- **[vercel-labs/json-render](https://github.com/vercel-labs/json-render)** ⭐ 9,820
+- **[vercel-labs/json-render](https://github.com/vercel-labs/json-render)** ⭐ 9,842
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   AI → JSON → UI
 
-- **[snarktank/ralph](https://github.com/snarktank/ralph)** ⭐ 9,093
+- **[snarktank/ralph](https://github.com/snarktank/ralph)** ⭐ 9,123
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   Ralph is an autonomous AI agent loop that runs repeatedly until all PRD items are complete. 
 
-- **[originalankur/maptoposter](https://github.com/originalankur/maptoposter)** ⭐ 8,816
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  Transform your favorite cities into beautiful, minimalist designs. MapToPoster lets you create and export visually striking map posters with code.
-
-- **[ZhuLinsen/daily_stock_analysis](https://github.com/ZhuLinsen/daily_stock_analysis)** ⭐ 8,772
+- **[ZhuLinsen/daily_stock_analysis](https://github.com/ZhuLinsen/daily_stock_analysis)** ⭐ 8,871
   ![Python](https://img.shields.io/badge/-Python-blue)
   LLM驱动的 A/H/美股智能分析器，多数据源行情 + 实时新闻 + Gemini 决策仪表盘 + 多渠道推送，零成本，纯白嫖，定时运行
 
-- **[different-ai/openwork](https://github.com/different-ai/openwork)** ⭐ 8,173
+- **[originalankur/maptoposter](https://github.com/originalankur/maptoposter)** ⭐ 8,841
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  Transform your favorite cities into beautiful, minimalist designs. MapToPoster lets you create and export visually striking map posters with code.
+
+- **[different-ai/openwork](https://github.com/different-ai/openwork)** ⭐ 8,193
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   An open-source alternative to Claude Cowork, powered by opencode
 
@@ -495,58 +484,58 @@ See [kubernetes-announce@](https://groups.google.com/forum/#!forum/kubernetes-an
 | Skill | Status |
 |-------|--------|
 | Java | 🟢 Proficient |
-| Python | 🟢 Proficient |
+| Python | ⚪ Planned |
 | JavaScript | 🟢 Proficient |
-| TypeScript | ⚪ Planned |
-| Go | 🟢 Proficient |
+| TypeScript | 🟡 Learning |
+| Go | ⚪ Planned |
 
 ### Frameworks
 
 | Skill | Status |
 |-------|--------|
-| React | 🟢 Proficient |
+| React | ⚪ Planned |
 | Spring Boot | 🟡 Learning |
 | Django | 🔴 Beginner |
-| Node.js | 🟡 Learning |
-| Next.js | ⚪ Planned |
+| Node.js | 🔴 Beginner |
+| Next.js | 🟢 Proficient |
 
 ### Cybersecurity
 
 | Skill | Status |
 |-------|--------|
 | Penetration Testing | 🟢 Proficient |
-| Web Security | 🟡 Learning |
-| Network Security | 🟡 Learning |
-| OWASP | 🔴 Beginner |
+| Web Security | ⚪ Planned |
+| Network Security | 🟢 Proficient |
+| OWASP | 🟢 Proficient |
 
 ### Ai Ml
 
 | Skill | Status |
 |-------|--------|
 | Machine Learning | 🔴 Beginner |
-| Deep Learning | 🔴 Beginner |
+| Deep Learning | ⚪ Planned |
 | NLP | 🔴 Beginner |
-| Computer Vision | 🟡 Learning |
-| TensorFlow | 🟡 Learning |
-| PyTorch | 🟡 Learning |
+| Computer Vision | ⚪ Planned |
+| TensorFlow | 🟢 Proficient |
+| PyTorch | ⚪ Planned |
 
 ### Devops
 
 | Skill | Status |
 |-------|--------|
-| Docker | 🟡 Learning |
-| Kubernetes | ⚪ Planned |
-| CI/CD | 🔴 Beginner |
+| Docker | ⚪ Planned |
+| Kubernetes | 🔴 Beginner |
+| CI/CD | ⚪ Planned |
 | AWS | ⚪ Planned |
-| Azure | ⚪ Planned |
+| Azure | 🟡 Learning |
 
 ### Other
 
 | Skill | Status |
 |-------|--------|
-| Blockchain | 🟡 Learning |
-| Web3 | 🟢 Proficient |
-| Cloud Computing | ⚪ Planned |
+| Blockchain | ⚪ Planned |
+| Web3 | 🟡 Learning |
+| Cloud Computing | 🟡 Learning |
 
 </details>
 
