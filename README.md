@@ -46,7 +46,25 @@
 
 ### 📑 Hacker News
 
-- **[The Hot Mess of AI](https://alignment.anthropic.com/2026/hot-mess-of-ai/)**
+- **[Floppinux – An Embedded Linux on a Single Floppy, 2025 Edition](https://krzysztofjankowski.com/floppinux/floppinux-2025.html)**
+  *<p>Article URL: <a href="https://krzysztofjankowski.com/floppinux/floppinux-2025.html">https://krzysztofjankowski.com/floppinux/floppinux-2025.html</a></p>
+<p>Comments URL: <a href="https://news.ycomb...*
+  📅 Tue, 03 Feb 2026 04:33:25 +0000
+
+- **[Coding assistants are solving the wrong problem](https://www.bicameral-ai.com/blog/introducing-bicameral)**
+  *<p>Article URL: <a href="https://www.bicameral-ai.com/blog/introducing-bicameral">https://www.bicameral-ai.com/blog/introducing-bicameral</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com...*
+  📅 Tue, 03 Feb 2026 04:25:35 +0000
+
+- **[Frog 'saunas' could help endangered species beat a deadly fungus (2024)](https://www.science.org/content/article/frog-saunas-could-help-endangered-species-beat-deadly-fungus)**
+  *<p>Article URL: <a href="https://www.science.org/content/article/frog-saunas-could-help-endangered-species-beat-deadly-fungus">https://www.science.org/content/article/frog-saunas-could-help-endangered...*
+  📅 Tue, 03 Feb 2026 04:12:16 +0000
+
+- **[Ask HN: Anyone else struggle with how to learn coding in the AI era?](https://news.ycombinator.com/item?id=46866165)**
+  *<p>I'm someone who got into building/programming in early 2025, when vibe coding tools became more usable. Since then, I'd like to think that I have developed a lot as a programmer, but I still have t...*
+  📅 Tue, 03 Feb 2026 03:39:12 +0000
+
+- **[How does misalignment scale with model intelligence and task complexity?](https://alignment.anthropic.com/2026/hot-mess-of-ai/)**
   *<p>Article URL: <a href="https://alignment.anthropic.com/2026/hot-mess-of-ai/">https://alignment.anthropic.com/2026/hot-mess-of-ai/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?...*
   📅 Tue, 03 Feb 2026 00:28:06 +0000
@@ -55,24 +73,6 @@
   *<p>Article URL: <a href="https://www.macrumors.com/2026/02/02/firefox-ai-toggle/">https://www.macrumors.com/2026/02/02/firefox-ai-toggle/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com...*
   📅 Mon, 02 Feb 2026 23:54:02 +0000
-
-- **[Julia](https://borretti.me/fiction/julia)**
-  *<p>Article URL: <a href="https://borretti.me/fiction/julia">https://borretti.me/fiction/julia</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46863357">https://news.ycombinator....*
-  📅 Mon, 02 Feb 2026 22:57:59 +0000
-
-- **[The TSA's New $45 Fee to Fly Without ID Is Illegal](https://www.frommers.com/tips/airfare/the-tsa-new-45-fee-to-fly-without-id-is-illegal-says-regulatory-expert/)**
-  *<p>Article URL: <a href="https://www.frommers.com/tips/airfare/the-tsa-new-45-fee-to-fly-without-id-is-illegal-says-regulatory-expert/">https://www.frommers.com/tips/airfare/the-tsa-new-45-fee-to-fly-...*
-  📅 Mon, 02 Feb 2026 22:48:10 +0000
-
-- **[Court orders restart of all US offshore wind power construction](https://arstechnica.com/science/2026/02/court-orders-restart-of-all-us-offshore-wind-construction/)**
-  *<p>Article URL: <a href="https://arstechnica.com/science/2026/02/court-orders-restart-of-all-us-offshore-wind-construction/">https://arstechnica.com/science/2026/02/court-orders-restart-of-all-us-offs...*
-  📅 Mon, 02 Feb 2026 22:45:04 +0000
-
-- **[xAI joins SpaceX](https://www.spacex.com/updates#xai-joins-spacex)**
-  *<p>Article URL: <a href="https://www.spacex.com/updates#xai-joins-spacex">https://www.spacex.com/updates#xai-joins-spacex</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=4686217...*
-  📅 Mon, 02 Feb 2026 21:51:22 +0000
 
 ### 📑 TechCrunch
 
@@ -102,15 +102,23 @@
 
 ### 📑 Dev.to
 
-- **[🏔️ Beginner-Friendly Guide 'Trionic Array I' - Problem 3637 (C++, Python, JavaScript)](https://dev.to/om_shree_0709/beginner-friendly-guide-trionic-array-i-problem-3637-c-python-javascript-3mad)**
-  *<p>Recognizing patterns in sequential data is a fundamental skill for any developer. This problem asks us to identify a specific "Up-Down-Up" shape within an array, which is a classic exercise in stat...*
-  📅 Tue, 03 Feb 2026 01:11:50 +0000
+- **[Streamlining Data Hygiene During High Traffic Events with Python in DevOps](https://dev.to/mohammad_waseem_c31f3a26f/streamlining-data-hygiene-during-high-traffic-events-with-python-in-devops-1h1b)**
+  *<h1>
+  
+  
+  Streamlining Data Hygiene During High Traffic Events with Python in DevOps
+</h1>
 
-- **[Creating a simple environment with Docker, PHP 8.4, Composer, Nginx, and MariaDB.](https://dev.to/wribeiiro/creating-a-simple-environment-with-docker-php-84-composer-nginx-and-mariadb-25ia)**
-  *<p>This is my first article on this platform, and the goal here is to keep things simple, practical, and easy to follow.</p>
+<p>Handling large-scale data influxes during high traffic events presents unique challenges in maintainin...*
+  📅 Tue, 03 Feb 2026 06:30:54 +0000
 
-<p>You've probably had trouble installing PHP extensions, configuring Ngin...*
-  📅 Tue, 03 Feb 2026 00:40:40 +0000
+- **[I have 8 users and Google Gemini is my Marketing Manager. Week 1 Reality.](https://dev.to/donald_wono_2494bee04aa88/i-have-8-users-and-google-gemini-is-my-marketing-manager-week-1-reality-kp5)**
+  *<p>Hey Dev.to! 👋</p>
+
+<p>I’m a developer, not a marketer. To be honest, I have no clue what I’m doing when it comes to selling software.</p>
+
+<p>So, last Monday, when I decided to pull the trigger and...*
+  📅 Tue, 03 Feb 2026 06:28:45 +0000
 
 </details>
 
@@ -118,103 +126,103 @@
 
 ### 📈 Daily Trending
 
-- **[GH05TCREW/eidolon](https://github.com/GH05TCREW/eidolon)** ⭐ 2
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  Network scanner that maps infrastructure into a Neo4j graph and executes natural-language security operations via AI agents.
+- **[Haleclipse/CodexDesktop-Rebuild](https://github.com/Haleclipse/CodexDesktop-Rebuild)** ⭐ 65
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
+  Codex Desktop App - Cross-platform Rebuild
 
-- **[DevDesai444/MultiModel_UiUX_Feedback_Team](https://github.com/DevDesai444/MultiModel_UiUX_Feedback_Team)** ⭐ 1
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  None
+- **[Lucent-Snow/style-extractor](https://github.com/Lucent-Snow/style-extractor)** ⭐ 32
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
+  一个能够提取最大化提取网页风格的skill
 
-- **[simalth-wang/korelin](https://github.com/simalth-wang/korelin)** ⭐ 1
-  ![None](https://img.shields.io/badge/-None-lightgrey)
-  Korelin is a cross-platform virtual machine language developed based on standard C, supporting standard C/C++ extensions, adopting multiple programming paradigms, with a built-in garbage collection mechanism and dedicated virtual machine, and paired with the RunGo package manager.
-
-- **[neth-o/fichaRpg](https://github.com/neth-o/fichaRpg)** ⭐ 1
-  ![Java](https://img.shields.io/badge/-Java-orange)
-  None
-
-- **[thorthur22/moltrouter-registry](https://github.com/thorthur22/moltrouter-registry)** ⭐ 1
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  Public well-known registry for Agents using MRP.
-
-- **[waratecs123/Russian-Python-Dataset](https://github.com/waratecs123/Russian-Python-Dataset)** ⭐ 1
-  ![None](https://img.shields.io/badge/-None-lightgrey)
-  A dataset for retraining models using Russian coding standards with comments and 100% code coverage
-
-- **[Chaotic-Legend/CMP-415-Codes](https://github.com/Chaotic-Legend/CMP-415-Codes)** ⭐ 1
+- **[gokul-1998/Gen_ai_feb](https://github.com/gokul-1998/Gen_ai_feb)** ⭐ 18
   ![Jupyter Notebook](https://img.shields.io/badge/-Jupyter Notebook-lightgrey)
-  The purpose of this repository is to store my Colab programs for my CMP 415 college class.
+  None
 
-- **[Yeonju-S5/upload-practice](https://github.com/Yeonju-S5/upload-practice)** ⭐ 1
-  ![CSS](https://img.shields.io/badge/-CSS-lightgrey)
-  A dedicated space for practicing and mastering GitHub file uploads and repository management.
+- **[Vijayalakshmi24-v/school-management-system](https://github.com/Vijayalakshmi24-v/school-management-system)** ⭐ 7
+  ![None](https://img.shields.io/badge/-None-lightgrey)
+  A School Management System Java Code allows you to keep the student records, Teachers Records, Student Mark dtails and Exam Details and manage them when needed. This is a simple java project with a good and interactive-looking GUI
+
+- **[meipporularasi/TalkEase](https://github.com/meipporularasi/TalkEase)** ⭐ 6
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
+  None
+
+- **[earthonion/mkufs2](https://github.com/earthonion/mkufs2)** ⭐ 5
+  ![Shell](https://img.shields.io/badge/-Shell-lightgrey)
+  how to make a ufs image on freebsd
+
+- **[aar2207117/agsb11](https://github.com/aar2207117/agsb11)** ⭐ 5
+  ![None](https://img.shields.io/badge/-None-lightgrey)
+  None
+
+- **[alskea/hytale2mc](https://github.com/alskea/hytale2mc)** ⭐ 5
+  ![Kotlin](https://img.shields.io/badge/-Kotlin-lightgrey)
+  Framework for writing cross-platform minigames for Hytale and Minecraft
 
 ### 📈 Weekly Trending
 
-- **[lukilabs/beautiful-mermaid](https://github.com/lukilabs/beautiful-mermaid)** ⭐ 5,455
+- **[lukilabs/beautiful-mermaid](https://github.com/lukilabs/beautiful-mermaid)** ⭐ 5,518
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   None
 
-- **[gavrielc/nanoclaw](https://github.com/gavrielc/nanoclaw)** ⭐ 2,928
+- **[gavrielc/nanoclaw](https://github.com/gavrielc/nanoclaw)** ⭐ 3,329
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   My personal Claude assistant that runs in Apple containers. Lightweight, secure, and built to be understood and customized for your own needs.
 
-- **[antfu/skills](https://github.com/antfu/skills)** ⭐ 2,689
+- **[antfu/skills](https://github.com/antfu/skills)** ⭐ 2,758
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   Anthony Fu's curated collection of agent skills.
 
-- **[Robbyant/lingbot-world](https://github.com/Robbyant/lingbot-world)** ⭐ 2,125
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  Advancing Open-source World Models
-
-- **[HKUDS/nanobot](https://github.com/HKUDS/nanobot)** ⭐ 1,893
+- **[HKUDS/nanobot](https://github.com/HKUDS/nanobot)** ⭐ 2,683
   ![Python](https://img.shields.io/badge/-Python-blue)
   "🐈 nanobot: The Ultra-Lightweight Clawdbot"
 
-- **[Leey21/awesome-ai-research-writing](https://github.com/Leey21/awesome-ai-research-writing)** ⭐ 1,265
+- **[Robbyant/lingbot-world](https://github.com/Robbyant/lingbot-world)** ⭐ 2,201
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  Advancing Open-source World Models
+
+- **[Leey21/awesome-ai-research-writing](https://github.com/Leey21/awesome-ai-research-writing)** ⭐ 1,542
   ![None](https://img.shields.io/badge/-None-lightgrey)
   Elevate your AI research writing, no more tedious polishing ✨ 
 
-- **[QwenLM/Qwen3-ASR](https://github.com/QwenLM/Qwen3-ASR)** ⭐ 1,114
+- **[QwenLM/Qwen3-ASR](https://github.com/QwenLM/Qwen3-ASR)** ⭐ 1,139
   ![Python](https://img.shields.io/badge/-Python-blue)
   Qwen3-ASR is an open-source series of ASR models developed by the Qwen team at Alibaba Cloud, supporting stable multilingual speech/music/song recognition, language detection and timestamp prediction.
 
-- **[miaoxworld/OpenClawInstaller](https://github.com/miaoxworld/OpenClawInstaller)** ⭐ 1,002
+- **[miaoxworld/OpenClawInstaller](https://github.com/miaoxworld/OpenClawInstaller)** ⭐ 1,039
   ![Shell](https://img.shields.io/badge/-Shell-lightgrey)
   ClawdBot 一键部署工具
 
 ### 📈 Monthly Trending
 
-- **[affaan-m/everything-claude-code](https://github.com/affaan-m/everything-claude-code)** ⭐ 38,037
+- **[affaan-m/everything-claude-code](https://github.com/affaan-m/everything-claude-code)** ⭐ 38,372
   ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
   Complete Claude Code configuration collection - agents, skills, hooks, commands, rules, MCPs. Battle-tested configs from an Anthropic hackathon winner.
 
-- **[xai-org/x-algorithm](https://github.com/xai-org/x-algorithm)** ⭐ 14,387
+- **[xai-org/x-algorithm](https://github.com/xai-org/x-algorithm)** ⭐ 14,405
   ![Rust](https://img.shields.io/badge/-Rust-brown)
   Algorithm powering the For You feed on X
 
-- **[vercel-labs/agent-browser](https://github.com/vercel-labs/agent-browser)** ⭐ 12,246
+- **[vercel-labs/agent-browser](https://github.com/vercel-labs/agent-browser)** ⭐ 12,289
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   Browser automation CLI for AI agents
 
-- **[vercel-labs/json-render](https://github.com/vercel-labs/json-render)** ⭐ 9,865
+- **[vercel-labs/json-render](https://github.com/vercel-labs/json-render)** ⭐ 9,874
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   AI → JSON → UI
 
-- **[snarktank/ralph](https://github.com/snarktank/ralph)** ⭐ 9,188
+- **[snarktank/ralph](https://github.com/snarktank/ralph)** ⭐ 9,209
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   Ralph is an autonomous AI agent loop that runs repeatedly until all PRD items are complete. 
 
-- **[ZhuLinsen/daily_stock_analysis](https://github.com/ZhuLinsen/daily_stock_analysis)** ⭐ 8,940
+- **[ZhuLinsen/daily_stock_analysis](https://github.com/ZhuLinsen/daily_stock_analysis)** ⭐ 9,044
   ![Python](https://img.shields.io/badge/-Python-blue)
   LLM驱动的 A/H/美股智能分析器，多数据源行情 + 实时新闻 + Gemini 决策仪表盘 + 多渠道推送，零成本，纯白嫖，定时运行
 
-- **[originalankur/maptoposter](https://github.com/originalankur/maptoposter)** ⭐ 8,892
+- **[originalankur/maptoposter](https://github.com/originalankur/maptoposter)** ⭐ 8,909
   ![Python](https://img.shields.io/badge/-Python-blue)
   Transform your favorite cities into beautiful, minimalist designs. MapToPoster lets you create and export visually striking map posters with code.
 
-- **[different-ai/openwork](https://github.com/different-ai/openwork)** ⭐ 8,227
+- **[different-ai/openwork](https://github.com/different-ai/openwork)** ⭐ 8,250
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   An open-source alternative to Claude Cowork, powered by opencode
 
@@ -486,58 +494,58 @@ See [kubernetes-announce@](https://groups.google.com/forum/#!forum/kubernetes-an
 
 | Skill | Status |
 |-------|--------|
-| Java | ⚪ Planned |
+| Java | 🟢 Proficient |
 | Python | ⚪ Planned |
-| JavaScript | 🟢 Proficient |
-| TypeScript | ⚪ Planned |
-| Go | 🟢 Proficient |
+| JavaScript | 🔴 Beginner |
+| TypeScript | 🔴 Beginner |
+| Go | 🔴 Beginner |
 
 ### Frameworks
 
 | Skill | Status |
 |-------|--------|
 | React | ⚪ Planned |
-| Spring Boot | 🔴 Beginner |
-| Django | 🟡 Learning |
+| Spring Boot | ⚪ Planned |
+| Django | 🔴 Beginner |
 | Node.js | 🟢 Proficient |
-| Next.js | 🟡 Learning |
+| Next.js | ⚪ Planned |
 
 ### Cybersecurity
 
 | Skill | Status |
 |-------|--------|
-| Penetration Testing | 🟡 Learning |
-| Web Security | 🟢 Proficient |
-| Network Security | 🟡 Learning |
-| OWASP | 🔴 Beginner |
+| Penetration Testing | 🟢 Proficient |
+| Web Security | ⚪ Planned |
+| Network Security | 🟢 Proficient |
+| OWASP | 🟢 Proficient |
 
 ### Ai Ml
 
 | Skill | Status |
 |-------|--------|
 | Machine Learning | 🔴 Beginner |
-| Deep Learning | 🟡 Learning |
-| NLP | 🔴 Beginner |
+| Deep Learning | ⚪ Planned |
+| NLP | 🟡 Learning |
 | Computer Vision | ⚪ Planned |
 | TensorFlow | 🟢 Proficient |
-| PyTorch | 🟢 Proficient |
+| PyTorch | ⚪ Planned |
 
 ### Devops
 
 | Skill | Status |
 |-------|--------|
-| Docker | 🟡 Learning |
-| Kubernetes | 🟡 Learning |
-| CI/CD | ⚪ Planned |
-| AWS | 🔴 Beginner |
-| Azure | 🔴 Beginner |
+| Docker | 🔴 Beginner |
+| Kubernetes | 🔴 Beginner |
+| CI/CD | 🔴 Beginner |
+| AWS | ⚪ Planned |
+| Azure | 🟢 Proficient |
 
 ### Other
 
 | Skill | Status |
 |-------|--------|
 | Blockchain | ⚪ Planned |
-| Web3 | 🟢 Proficient |
+| Web3 | 🟡 Learning |
 | Cloud Computing | 🔴 Beginner |
 
 </details>
