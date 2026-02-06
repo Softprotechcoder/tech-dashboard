@@ -46,87 +46,87 @@
 
 ### 📑 Hacker News
 
-- **[US Immigration on the Easiest Setting](https://pluralistic.net/2026/02/06/doge-ball/#n-600)**
-  *<p>Article URL: <a href="https://pluralistic.net/2026/02/06/doge-ball/#n-600">https://pluralistic.net/2026/02/06/doge-ball/#n-600</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id...*
-  📅 Fri, 06 Feb 2026 11:03:33 +0000
+- **[Uber Found Liable in Rape by Driver, Setting Stage for Cases](https://www.nytimes.com/2026/02/05/business/uber-safety-rape-verdict.html)**
+  *<p>Article URL: <a href="https://www.nytimes.com/2026/02/05/business/uber-safety-rape-verdict.html">https://www.nytimes.com/2026/02/05/business/uber-safety-rape-verdict.html</a></p>
+<p>Comments URL: <...*
+  📅 Fri, 06 Feb 2026 17:29:39 +0000
 
-- **[Invention of DNA "Page Numbers" Opens Up Possibilities for the Bioeconomy](https://www.caltech.edu/about/news/invention-dna-page-numbers-synthesis-kaihang-wang)**
-  *<p>Article URL: <a href="https://www.caltech.edu/about/news/invention-dna-page-numbers-synthesis-kaihang-wang">https://www.caltech.edu/about/news/invention-dna-page-numbers-synthesis-kaihang-wang</a><...*
-  📅 Fri, 06 Feb 2026 10:26:16 +0000
+- **[Bits About Money: Fraud Investigation Is Believing Your Lying Eyes](https://www.bitsaboutmoney.com/archive/fraud-investigation/)**
+  *<p>Article URL: <a href="https://www.bitsaboutmoney.com/archive/fraud-investigation/">https://www.bitsaboutmoney.com/archive/fraud-investigation/</a></p>
+<p>Comments URL: <a href="https://news.ycombin...*
+  📅 Fri, 06 Feb 2026 17:24:32 +0000
 
-- **[A new bill in New York would require disclaimers on AI-generated news content](https://www.niemanlab.org/2026/02/a-new-bill-in-new-york-would-require-disclaimers-on-ai-generated-news-content/)**
-  *<p>Article URL: <a href="https://www.niemanlab.org/2026/02/a-new-bill-in-new-york-would-require-disclaimers-on-ai-generated-news-content/">https://www.niemanlab.org/2026/02/a-new-bill-in-new-york-woul...*
-  📅 Fri, 06 Feb 2026 09:56:55 +0000
+- **[Show HN: Daily-updated database of malicious browser extensions](https://github.com/toborrm9/malicious_extension_sentry)**
+  *<p>Hey HN, I built an automated system that tracks malicious Chrome/Edge extensions daily.<p>The database updates automatically by monitoring chrome-stats for removed extensions and scanning security ...*
+  📅 Fri, 06 Feb 2026 16:34:39 +0000
 
-- **[Things Unix can do atomically (2010)](https://rcrowley.org/2010/01/06/things-unix-can-do-atomically.html)**
-  *<p>Article URL: <a href="https://rcrowley.org/2010/01/06/things-unix-can-do-atomically.html">https://rcrowley.org/2010/01/06/things-unix-can-do-atomically.html</a></p>
-<p>Comments URL: <a href="https:...*
-  📅 Fri, 06 Feb 2026 05:29:55 +0000
+- **[The Waymo World Model: A New Frontier for Autonomous Driving Simulation](https://waymo.com/blog/2026/02/the-waymo-world-model-a-new-frontier-for-autonomous-driving-simulation)**
+  *<p>Article URL: <a href="https://waymo.com/blog/2026/02/the-waymo-world-model-a-new-frontier-for-autonomous-driving-simulation">https://waymo.com/blog/2026/02/the-waymo-world-model-a-new-frontier-for-...*
+  📅 Fri, 06 Feb 2026 16:20:42 +0000
 
-- **[Systems Thinking](http://theprogrammersparadox.blogspot.com/2026/02/systems-thinking.html)**
-  *<p>Article URL: <a href="http://theprogrammersparadox.blogspot.com/2026/02/systems-thinking.html">http://theprogrammersparadox.blogspot.com/2026/02/systems-thinking.html</a></p>
-<p>Comments URL: <a hr...*
-  📅 Fri, 06 Feb 2026 05:24:36 +0000
+- **[Bytes as Braille](https://www.engrenage.ch/i18n/scripts/bytes_as_braille/)**
+  *<p>Article URL: <a href="https://www.engrenage.ch/i18n/scripts/bytes_as_braille/">https://www.engrenage.ch/i18n/scripts/bytes_as_braille/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com...*
+  📅 Fri, 06 Feb 2026 15:48:23 +0000
 
-- **[Generative Pen-Trained Transformer](https://theodore.net/projects/Polargraph/)**
-  *<p>Article URL: <a href="https://theodore.net/projects/Polargraph/">https://theodore.net/projects/Polargraph/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46909122">https://n...*
-  📅 Fri, 06 Feb 2026 04:28:08 +0000
+- **[Sheldon Brown's Bicycle Technical Info](https://www.sheldonbrown.com/)**
+  *<p>Article URL: <a href="https://www.sheldonbrown.com/">https://www.sheldonbrown.com/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46914159">https://news.ycombinator.com/item...*
+  📅 Fri, 06 Feb 2026 15:40:42 +0000
 
 ### 📑 TechCrunch
 
-- **[Sapiom raises $15M to help AI agents buy their own tech tools](https://techcrunch.com/2026/02/05/sapiom-raises-15m-to-help-ai-agents-buy-their-own-tech-tools/)**
-  *The startup -- with backing from Accel -- is building a financial layer that handles the authentication and micro-payments required for AI agents....*
-  📅 Thu, 05 Feb 2026 23:53:42 +0000
+- **[Reddit says it’s looking for more acquisitions in adtech and elsewhere](https://techcrunch.com/2026/02/06/reddit-says-its-looking-for-more-acquisitions-in-adtech-and-elsewhere/)**
+  *Reddit said during earnings it's looking to buy 'capabilities' and 'companies.'...*
+  📅 Fri, 06 Feb 2026 18:33:36 +0000
 
-- **[Reddit looks to AI search as its next big opportunity](https://techcrunch.com/2026/02/05/reddit-looks-to-ai-search-as-its-next-big-opportunity/)**
-  *During the company's fourth-quarter earnings call on Thursday, it offered an update on its plans to merge traditional and AI search together and hinted that although search is not yet monetized, "it's...*
-  📅 Thu, 05 Feb 2026 23:20:27 +0000
+- **[Here’s how Roblox’s age checks work](https://techcrunch.com/2026/02/06/heres-how-robloxs-age-checks-work/)**
+  *The company says it has continuous age check systems running in the background to ensure age accuracy....*
+  📅 Fri, 06 Feb 2026 18:28:02 +0000
 
-- **[AWS revenue continues to soar as cloud demand remains high](https://techcrunch.com/2026/02/05/aws-revenue-continues-to-soar-as-cloud-demand-remains-high/)**
-  *AWS recorded its best quarter, in terms of revenue growth, in 13 quarters in Q4 2025 as AI drives AWS adoption....*
-  📅 Thu, 05 Feb 2026 23:11:37 +0000
+- **[Senator, who has repeatedly warned about secret U.S. government surveillance, sounds new alarm over ‘CIA activities’](https://techcrunch.com/2026/02/06/senator-who-has-repeatedly-warned-about-secret-u-s-government-surveillance-sounds-new-alarm-over-cia-activities/)**
+  *The two-line letter to the CIA's director is the latest warning in recent years from a long-serving Democratic senator with knowledge of secret government programs and intelligence operations....*
+  📅 Fri, 06 Feb 2026 18:02:44 +0000
 
-- **[Amazon and Google are winning the AI capex race — but what’s the prize?](https://techcrunch.com/2026/02/05/amazon-and-google-are-winning-the-ai-capex-race-but-whats-the-prize/)**
-  *In 2026, Amazon plans to spend $200 billion in capex. Google is just behind at $175 billion to $185 billion. It's a lot of money!...*
-  📅 Thu, 05 Feb 2026 22:43:11 +0000
+- **[The Kindle Scribe Colorsoft is a pricey but pretty e-ink color tablet with AI features](https://techcrunch.com/2026/02/06/kindle-scribe-colorsoft-review-e-ink-color-tablet/)**
+  *If you primarily want a tablet device to mark up, highlight, and annotate your e-books and documents, and perhaps sometimes scribble some notes, Amazon's new Kindle Scribe Colorsoft could be worth the...*
+  📅 Fri, 06 Feb 2026 16:37:07 +0000
 
-- **[The Washington Post is retreating from Silicon Valley when it matters most](https://techcrunch.com/2026/02/05/the-washington-post-is-retreating-from-silicon-valley-when-it-matters-most/)**
-  *The Bezos-owned newspaper gutted its San Francisco bureau and coverage of tech — including journalists reporting on Amazon and Blue Origin....*
-  📅 Thu, 05 Feb 2026 21:36:21 +0000
+- **[EU says TikTok must disable ‘addictive’ features like infinite scroll, fix its recommendation engine](https://techcrunch.com/2026/02/06/eu-tiktok-disable-addictive-features-infinite-scroll-recommendation-engine/)**
+  *The European Commission on Friday accused TikTok of purposefully designing its app to be "addictive," calling out features such as infinite scroll, autoplay, push notifications, and its recommendation...*
+  📅 Fri, 06 Feb 2026 16:24:05 +0000
 
-- **[a16z VC wants founders to stop stressing over insane ARR numbers](https://techcrunch.com/2026/02/05/a16z-vc-wants-founders-to-stop-stressing-over-insane-arr-numbers/)**
-  *Andreessen Horowitz VC Jennifer Li⁠, who oversees some of the firm's fastest-growing AI companies, warns founders not to believe every ARR claim made on X....*
-  📅 Thu, 05 Feb 2026 21:28:46 +0000
+- **[China’s Salt Typhoon hackers broke into Norwegian companies](https://techcrunch.com/2026/02/06/chinas-salt-typhoon-hackers-broke-into-norwegian-companies/)**
+  *Norway's government accused China’s Salt Typhoon hacking group of conducting a cyberespionage campaign in the country....*
+  📅 Fri, 06 Feb 2026 15:39:46 +0000
 
 ### 📑 Dev.to
 
-- **[An AI Employee's First Week: 9 Days in Numbers](https://dev.to/mjmuin/an-ai-employees-first-week-9-days-in-numbers-f56)**
-  *<h2>
+- **[Quest: Epic CLI tool (Learn Code by Actually Building)](https://dev.to/cloutboi/quest-epic-cli-tool-learn-code-by-actually-building-5fi0)**
+  *<p><em>This is a submission for the <a href="https://dev.to/challenges/github-2026-01-21">GitHub Copilot CLI Challenge</a></em></p>
+
+<h2>
   
   
-  20 Tools, 6 Days, 1 AI COO
+  What I Built
 </h2>
 
-<p>It's Day 9 since MUIN Company was founded. Here's what the numbers say:</p>
+<p>I built <strong>Quest</strong>....*
+  📅 Fri, 06 Feb 2026 18:29:37 +0000
 
-<ul>
-<li>
-<strong>20+ open-source tools</strong> shipped</li>
-<li>
-<stron...*
-  📅 Fri, 06 Feb 2026 12:35:52 +0000
-
-- **[HTTP Explained: How the Web Communicates Behind the Scenes](https://dev.to/devbigeazi1/http-explained-how-the-web-communicates-behind-the-scenes-n7d)**
-  *<p>The modern web looks magical on the surface. You type a URL, press enter, and a webpage appears. You click a button, submit a form, or open a mobile app, and data flows instantly. Behind all of thi...*
-  📅 Fri, 06 Feb 2026 12:35:42 +0000
+- **[Building Clusterflick: A London Cinema Aggregator](https://dev.to/alistairjcbrown/building-clusterflick-a-london-cinema-aggregator-kk3)**
+  *<p>I've been working on a personal project called <a href="https://clusterflick.com" rel="noopener noreferrer">Clusterflick</a> — a single source for every movie showing across London. Right now it's ...*
+  📅 Fri, 06 Feb 2026 18:20:48 +0000
 
 </details>
 
 ## 🔥 Trending Repositories
 
 ### 📈 Daily Trending
+
+- **[africa1207/AWS-BuildID-Auto-For-Ext](https://github.com/africa1207/AWS-BuildID-Auto-For-Ext)** ⭐ 40
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
+  None
 
 - **[ali-vilab/ProMoE](https://github.com/ali-vilab/ProMoE)** ⭐ 26
   ![Python](https://img.shields.io/badge/-Python-blue)
@@ -142,91 +142,87 @@
 
 - **[degeneration-10007t/Proc-Hacker-2](https://github.com/degeneration-10007t/Proc-Hacker-2)** ⭐ 26
   ![None](https://img.shields.io/badge/-None-lightgrey)
-  Advanced | Windows | process | manager | and | system | monitoring | tool | with | detailed | performance | analysis | services | control | and | network | inspection |
+  Process-Hacker 2 | Windows | process | manager | and | system | monitoring | tool | with | detailed | performance | analysis | services | control | and | network | inspection |
 
 - **[onetwositep-2000zgi/PL-Pro-CC-2026](https://github.com/onetwositep-2000zgi/PL-Pro-CC-2026)** ⭐ 26
   ![None](https://img.shields.io/badge/-None-lightgrey)
-  Fast | Creative | Photo | Editing | Lab
+  Photo-Lab | Fast | Creative | Photo | Editing | Lab | 
 
 - **[anarhian59em1/BF6-Mod-Tools-Menu](https://github.com/anarhian59em1/BF6-Mod-Tools-Menu)** ⭐ 26
   ![None](https://img.shields.io/badge/-None-lightgrey)
   Battlefield 6 | Modding Tools | Hack | Menu | Mod | Toolkit | Cosmetic menu | Cheats |
 
-- **[africa1207/AWS-BuildID-Auto-For-Ext](https://github.com/africa1207/AWS-BuildID-Auto-For-Ext)** ⭐ 24
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
+- **[philschmid/self-learning-skill](https://github.com/philschmid/self-learning-skill)** ⭐ 21
+  ![None](https://img.shields.io/badge/-None-lightgrey)
   None
-
-- **[opsfolio/qualityfolio](https://github.com/opsfolio/qualityfolio)** ⭐ 17
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  AI-native test management for QA engineers, SREs, and DevOps teams. From unit tests to chaos experiments: unified in Markdown, validated in SQL. Built for regulated industries where accountability, traceability, and structured evidence are essential.
 
 ### 📈 Weekly Trending
 
-- **[HKUDS/nanobot](https://github.com/HKUDS/nanobot)** ⭐ 10,166
+- **[HKUDS/nanobot](https://github.com/HKUDS/nanobot)** ⭐ 10,657
   ![Python](https://img.shields.io/badge/-Python-blue)
   "🐈 nanobot: The Ultra-Lightweight Clawdbot"
 
-- **[gavrielc/nanoclaw](https://github.com/gavrielc/nanoclaw)** ⭐ 5,575
+- **[gavrielc/nanoclaw](https://github.com/gavrielc/nanoclaw)** ⭐ 5,686
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   A lightweight alternative to Clawdbot / OpenClaw that runs in Apple containers for security. Connects to WhatsApp, has memory, scheduled jobs, and runs directly on Anthropic's Agents SDK
 
-- **[sheeki03/tirith](https://github.com/sheeki03/tirith)** ⭐ 1,421
+- **[sheeki03/tirith](https://github.com/sheeki03/tirith)** ⭐ 1,451
   ![Rust](https://img.shields.io/badge/-Rust-brown)
   Your browser catches homograph attacks. Your terminal doesn't. Tirith guards the gate — intercepts suspicious URLs, ANSI injection, and pipe-to-shell attacks before they execute.
 
-- **[anthropics/claudes-c-compiler](https://github.com/anthropics/claudes-c-compiler)** ⭐ 836
+- **[anthropics/claudes-c-compiler](https://github.com/anthropics/claudes-c-compiler)** ⭐ 1,019
   ![Rust](https://img.shields.io/badge/-Rust-brown)
   Claude Opus 4.6 wrote a dependency-free C compiler in Rust, with backends targeting x86 (64- and 32-bit), ARM, and RISC-V, capable of compiling a booting Linux kernel.
 
-- **[justlovemaki/OpenClaw-Docker-CN-IM](https://github.com/justlovemaki/OpenClaw-Docker-CN-IM)** ⭐ 784
-  ![Shell](https://img.shields.io/badge/-Shell-lightgrey)
-  OpenClaw 的中国IM平台整合Docker版本，预装并配置了飞书、钉钉、QQ机器人、企业微信等主流中国IM软件的插件，让您可以快速部署一个支持多个中国IM平台的 AI 机器人网关
-
-- **[BlockRunAI/ClawRouter](https://github.com/BlockRunAI/ClawRouter)** ⭐ 732
+- **[BlockRunAI/ClawRouter](https://github.com/BlockRunAI/ClawRouter)** ⭐ 893
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   Smart LLM router — save 78% on inference costs. 30+ models, one wallet, x402 micropayments.
 
-- **[zai-org/GLM-OCR](https://github.com/zai-org/GLM-OCR)** ⭐ 637
+- **[justlovemaki/OpenClaw-Docker-CN-IM](https://github.com/justlovemaki/OpenClaw-Docker-CN-IM)** ⭐ 877
+  ![Shell](https://img.shields.io/badge/-Shell-lightgrey)
+  OpenClaw 的中国IM平台整合Docker版本，预装并配置了飞书、钉钉、QQ机器人、企业微信等主流中国IM软件的插件，让您可以快速部署一个支持多个中国IM平台的 AI 机器人网关
+
+- **[zai-org/GLM-OCR](https://github.com/zai-org/GLM-OCR)** ⭐ 655
   ![Python](https://img.shields.io/badge/-Python-blue)
   GLM-OCR: Accurate ×  Fast × Comprehensive
 
-- **[stepfun-ai/Step-3.5-Flash](https://github.com/stepfun-ai/Step-3.5-Flash)** ⭐ 611
+- **[stepfun-ai/Step-3.5-Flash](https://github.com/stepfun-ai/Step-3.5-Flash)** ⭐ 621
   ![C++](https://img.shields.io/badge/-C++-pink)
   Fast, Sharp & Reliable Agentic Intelligence
 
 ### 📈 Monthly Trending
 
-- **[affaan-m/everything-claude-code](https://github.com/affaan-m/everything-claude-code)** ⭐ 41,079
+- **[affaan-m/everything-claude-code](https://github.com/affaan-m/everything-claude-code)** ⭐ 41,207
   ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
   Complete Claude Code configuration collection - agents, skills, hooks, commands, rules, MCPs. Battle-tested configs from an Anthropic hackathon winner.
 
-- **[xai-org/x-algorithm](https://github.com/xai-org/x-algorithm)** ⭐ 14,991
+- **[xai-org/x-algorithm](https://github.com/xai-org/x-algorithm)** ⭐ 15,014
   ![Rust](https://img.shields.io/badge/-Rust-brown)
   Algorithm powering the For You feed on X
 
-- **[vercel-labs/agent-browser](https://github.com/vercel-labs/agent-browser)** ⭐ 12,886
+- **[vercel-labs/agent-browser](https://github.com/vercel-labs/agent-browser)** ⭐ 12,939
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   Browser automation CLI for AI agents
 
-- **[VoltAgent/awesome-openclaw-skills](https://github.com/VoltAgent/awesome-openclaw-skills)** ⭐ 10,268
-  ![None](https://img.shields.io/badge/-None-lightgrey)
-  The awesome collection of OpenClaw Skills. Formerly known as Moltbot, originally Clawdbot.
-
-- **[HKUDS/nanobot](https://github.com/HKUDS/nanobot)** ⭐ 10,166
+- **[HKUDS/nanobot](https://github.com/HKUDS/nanobot)** ⭐ 10,657
   ![Python](https://img.shields.io/badge/-Python-blue)
   "🐈 nanobot: The Ultra-Lightweight Clawdbot"
 
-- **[vercel-labs/json-render](https://github.com/vercel-labs/json-render)** ⭐ 10,052
+- **[VoltAgent/awesome-openclaw-skills](https://github.com/VoltAgent/awesome-openclaw-skills)** ⭐ 10,467
+  ![None](https://img.shields.io/badge/-None-lightgrey)
+  The awesome collection of OpenClaw Skills. Formerly known as Moltbot, originally Clawdbot.
+
+- **[vercel-labs/json-render](https://github.com/vercel-labs/json-render)** ⭐ 10,060
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   AI → JSON → UI
 
-- **[ZhuLinsen/daily_stock_analysis](https://github.com/ZhuLinsen/daily_stock_analysis)** ⭐ 9,686
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  LLM驱动的 A/H/美股智能分析器，多数据源行情 + 实时新闻 + Gemini 决策仪表盘 + 多渠道推送，零成本，纯白嫖，定时运行
-
-- **[originalankur/maptoposter](https://github.com/originalankur/maptoposter)** ⭐ 9,659
+- **[originalankur/maptoposter](https://github.com/originalankur/maptoposter)** ⭐ 9,728
   ![Python](https://img.shields.io/badge/-Python-blue)
   Transform your favorite cities into beautiful, minimalist designs. MapToPoster lets you create and export visually striking map posters with code.
+
+- **[ZhuLinsen/daily_stock_analysis](https://github.com/ZhuLinsen/daily_stock_analysis)** ⭐ 9,708
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  LLM驱动的 A/H/美股智能分析器，多数据源行情 + 实时新闻 + Gemini 决策仪表盘 + 多渠道推送，零成本，纯白嫖，定时运行
 
 ## 🚀 Latest Releases
 
@@ -496,59 +492,59 @@ See [kubernetes-announce@](https://groups.google.com/forum/#!forum/kubernetes-an
 
 | Skill | Status |
 |-------|--------|
-| Java | ⚪ Planned |
+| Java | 🟡 Learning |
 | Python | 🟢 Proficient |
-| JavaScript | 🟢 Proficient |
-| TypeScript | 🟢 Proficient |
-| Go | 🔴 Beginner |
+| JavaScript | 🔴 Beginner |
+| TypeScript | 🔴 Beginner |
+| Go | 🟡 Learning |
 
 ### Frameworks
 
 | Skill | Status |
 |-------|--------|
 | React | 🔴 Beginner |
-| Spring Boot | ⚪ Planned |
-| Django | 🟢 Proficient |
-| Node.js | ⚪ Planned |
-| Next.js | 🟢 Proficient |
+| Spring Boot | 🟡 Learning |
+| Django | 🔴 Beginner |
+| Node.js | 🔴 Beginner |
+| Next.js | 🔴 Beginner |
 
 ### Cybersecurity
 
 | Skill | Status |
 |-------|--------|
-| Penetration Testing | 🟡 Learning |
-| Web Security | 🟢 Proficient |
-| Network Security | 🟢 Proficient |
-| OWASP | 🟡 Learning |
+| Penetration Testing | 🔴 Beginner |
+| Web Security | ⚪ Planned |
+| Network Security | 🔴 Beginner |
+| OWASP | 🟢 Proficient |
 
 ### Ai Ml
 
 | Skill | Status |
 |-------|--------|
-| Machine Learning | 🟡 Learning |
+| Machine Learning | ⚪ Planned |
 | Deep Learning | 🟢 Proficient |
-| NLP | 🟢 Proficient |
-| Computer Vision | ⚪ Planned |
-| TensorFlow | ⚪ Planned |
-| PyTorch | ⚪ Planned |
+| NLP | ⚪ Planned |
+| Computer Vision | 🟡 Learning |
+| TensorFlow | 🔴 Beginner |
+| PyTorch | 🟢 Proficient |
 
 ### Devops
 
 | Skill | Status |
 |-------|--------|
 | Docker | ⚪ Planned |
-| Kubernetes | 🔴 Beginner |
-| CI/CD | 🔴 Beginner |
-| AWS | ⚪ Planned |
-| Azure | 🟡 Learning |
+| Kubernetes | 🟢 Proficient |
+| CI/CD | 🟡 Learning |
+| AWS | 🟡 Learning |
+| Azure | 🟢 Proficient |
 
 ### Other
 
 | Skill | Status |
 |-------|--------|
 | Blockchain | 🔴 Beginner |
-| Web3 | 🟢 Proficient |
-| Cloud Computing | 🟢 Proficient |
+| Web3 | 🔴 Beginner |
+| Cloud Computing | 🟡 Learning |
 
 </details>
 
