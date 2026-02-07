@@ -46,35 +46,39 @@
 
 ### 📑 Hacker News
 
+- **[Female Asian Elephant Calf Born at the Smithsonian National Zoo](https://www.si.edu/newsdesk/releases/female-asian-elephant-calf-born-smithsonians-national-zoo-and-conservation?user_id=66c4bf745d78644b3aa57b08&utm_medium=email&utm_placement=newsletter&utm_source=join1440)**
+  *<p>Article URL: <a href="https://www.si.edu/newsdesk/releases/female-asian-elephant-calf-born-smithsonians-national-zoo-and-conservation?user_id=66c4bf745d78644b3aa57b08&amp;utm_medium=email&amp;utm_p...*
+  📅 Sat, 07 Feb 2026 02:35:49 +0000
+
+- **[Why I Joined OpenAI](https://www.brendangregg.com/blog/2026-02-07/why-i-joined-openai.html)**
+  *<p>Article URL: <a href="https://www.brendangregg.com/blog/2026-02-07/why-i-joined-openai.html">https://www.brendangregg.com/blog/2026-02-07/why-i-joined-openai.html</a></p>
+<p>Comments URL: <a href="...*
+  📅 Sat, 07 Feb 2026 01:45:04 +0000
+
+- **[WebView performance significantly slower than PWA](https://issues.chromium.org/issues/40817676)**
+  *<p>Article URL: <a href="https://issues.chromium.org/issues/40817676">https://issues.chromium.org/issues/40817676</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46920273">https...*
+  📅 Sat, 07 Feb 2026 01:10:00 +0000
+
+- **[I'm going to cure my girlfriend's brain tumor](https://andrewjrod.substack.com/p/im-going-to-cure-my-girlfriends-brain)**
+  *<p>Article URL: <a href="https://andrewjrod.substack.com/p/im-going-to-cure-my-girlfriends-brain">https://andrewjrod.substack.com/p/im-going-to-cure-my-girlfriends-brain</a></p>
+<p>Comments URL: <a hr...*
+  📅 Sat, 07 Feb 2026 01:05:59 +0000
+
+- **[Introducing the Developer Knowledge API and MCP Server](https://developers.googleblog.com/introducing-the-developer-knowledge-api-and-mcp-server/)**
+  *<p>Article URL: <a href="https://developers.googleblog.com/introducing-the-developer-knowledge-api-and-mcp-server/">https://developers.googleblog.com/introducing-the-developer-knowledge-api-and-mcp-se...*
+  📅 Fri, 06 Feb 2026 23:58:53 +0000
+
 - **[Show HN: R3forth, a ColorForth-inspired language with a tiny VM](https://github.com/phreda4/r3)**
   *<p>Article URL: <a href="https://github.com/phreda4/r3">https://github.com/phreda4/r3</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=46918824">https://news.ycombinator.com/item...*
   📅 Fri, 06 Feb 2026 22:10:13 +0000
 
-- **[Early Christian Writings](https://earlychristianwritings.com/)**
-  *<p>Article URL: <a href="https://earlychristianwritings.com/">https://earlychristianwritings.com/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46918727">https://news.ycombina...*
-  📅 Fri, 06 Feb 2026 22:00:46 +0000
-
-- **[OpenCiv3: Open-source, cross-platform reimagining of Civilization III](https://openciv3.org/)**
-  *<p>Article URL: <a href="https://openciv3.org/">https://openciv3.org/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46918612">https://news.ycombinator.com/item?id=46918612</a>...*
-  📅 Fri, 06 Feb 2026 21:51:23 +0000
-
-- **[Show HN: Look Ma, No Linux: Shell, App Installer, Vi, Cc on ESP32-S3 / BreezyBox](https://github.com/valdanylchuk/breezydemo)**
-  *<p>Example repo: <a href="https://github.com/valdanylchuk/breezydemo" rel="nofollow">https://github.com/valdanylchuk/breezydemo</a><p>The underlying ESP-IDF component: <a href="https://github.com/vald...*
-  📅 Fri, 06 Feb 2026 21:33:11 +0000
-
-- **[Monty: A minimal, secure Python interpreter written in Rust for use by AI](https://github.com/pydantic/monty)**
-  *<p>Article URL: <a href="https://github.com/pydantic/monty">https://github.com/pydantic/monty</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46918254">https://news.ycombinator....*
-  📅 Fri, 06 Feb 2026 21:16:36 +0000
-
-- **[Masked namespace vulnerability in Temporal](https://depthfirst.com/post/the-masked-namespace-vulnerability-in-temporal-cve-2025-14986)**
-  *<p>Article URL: <a href="https://depthfirst.com/post/the-masked-namespace-vulnerability-in-temporal-cve-2025-14986">https://depthfirst.com/post/the-masked-namespace-vulnerability-in-temporal-cve-2025-...*
-  📅 Fri, 06 Feb 2026 20:04:55 +0000
-
 ### 📑 TechCrunch
+
+- **[Benchmark raises $225M in special funds to double down on Cerebras](https://techcrunch.com/2026/02/06/benchmark-raises-225m-in-special-funds-to-double-down-on-cerebras/)**
+  *Benchmark Capital has been an investor in the Nvidia rival since 2016....*
+  📅 Sat, 07 Feb 2026 05:23:04 +0000
 
 - **[An AI startup founder says he’s planning a ‘March for Billionaires’ in protest of California’s wealth tax](https://techcrunch.com/2026/02/06/an-ai-startup-founder-says-hes-planning-a-march-for-billionaires-in-protest-of-californias-wealth-tax/)**
   *The organizer of the event swears it's not a joke....*
@@ -96,24 +100,24 @@
   *WordPress users can now leverage Claude to analyze web traffic or find information about other internal site metrics....*
   📅 Fri, 06 Feb 2026 22:04:59 +0000
 
-- **[Prince Andrew advisor pitched Jeffrey Epstein on investing in EV startups like Lucid Motors](https://techcrunch.com/2026/02/06/prince-andrew-advisor-pitched-jeffrey-epstein-on-investing-in-ev-startups-like-lucid-motors/)**
-  *The mysterious businessman pitched Jeffrey Epstein on numerous mobility startups in an era when the sector was white hot, according to TechCrunch's review of hundreds of documents released by the Depa...*
-  📅 Fri, 06 Feb 2026 21:23:50 +0000
-
 ### 📑 Dev.to
 
-- **[Aeon: A Zero-Allocation Go Time Library That Treats Time as "Containers" Rather Than "Offsets"](https://dev.to/sbaa/aeon-a-zero-allocation-go-time-library-that-treats-time-as-containers-rather-than-offsets-28jm)**
-  *<blockquote>
-<p>I can't recall the exact moment it began. Perhaps it originated from my dissatisfaction with <code>time.Time</code> and existing time libraries — I developed an almost absurd obsession...*
-  📅 Sat, 07 Feb 2026 01:07:05 +0000
+- **[Common Manual Testing Techniques and The Future Of Manual Testing in the age of AI](https://dev.to/madhupriyamahalingan/common-manual-testing-techniques-and-the-future-of-manual-testing-in-the-age-of-ai-485o)**
+  *<p><strong><em>Introduction</em></strong></p>
 
-- **[Build a Facebook Ad Spy Tool to Reverse-Engineer Winning Campaigns](https://dev.to/olams/build-a-facebook-ad-spy-tool-to-reverse-engineer-winning-campaigns-4421)**
-  *<p>Your competitor just 10x'd their revenue. You saw it on Twitter. Their founder's bragging about it.</p>
+<p>Software testing plays a critical role in ensuring that applications function correctly, meet user expectations, and maintain high quality standards.M...*
+  📅 Sat, 07 Feb 2026 06:28:34 +0000
 
-<p>What changed? Their ads.</p>
+- **[🚀 How I’d Learn Go (Golang) Fast in 2026 — If I Were Starting Today](https://dev.to/yash_sonawane25/how-id-learn-go-golang-fast-in-2026-if-i-were-starting-today-1pk0)**
+  *<p>Go (Golang) isn’t hype anymore.</p>
 
-<p>Every Facebook ad ever run is public. Meta's Ad Library ...*
-  📅 Sat, 07 Feb 2026 01:00:00 +0000
+<p>In <strong>2026</strong>, Go is the language behind:</p>
+
+<ul>
+<li>Cloud-native systems ☁️</li>
+<li>DevOps &amp; platform tooling 🛠️</li>
+<li>High-performanc...*
+  📅 Sat, 07 Feb 2026 06:16:25 +0000
 
 </details>
 
@@ -121,103 +125,103 @@
 
 ### 📈 Daily Trending
 
-- **[jeffersongoncalves/service-desk-app](https://github.com/jeffersongoncalves/service-desk-app)** ⭐ 1
-  ![PHP](https://img.shields.io/badge/-PHP-lightgrey)
-  None
-
-- **[Alfaox/Bioinform-ticas-and-Computacional-Chemistry-Laboratory](https://github.com/Alfaox/Bioinform-ticas-and-Computacional-Chemistry-Laboratory)** ⭐ 1
+- **[mqudsi/monospace-ocr](https://github.com/mqudsi/monospace-ocr)** ⭐ 28
   ![Python](https://img.shields.io/badge/-Python-blue)
   None
 
-- **[CommandrMoose/CauldronVTT](https://github.com/CommandrMoose/CauldronVTT)** ⭐ 1
-  ![Java](https://img.shields.io/badge/-Java-orange)
-  A Minecraft VTT Mod
+- **[blader/napkin](https://github.com/blader/napkin)** ⭐ 26
+  ![None](https://img.shields.io/badge/-None-lightgrey)
+  A Claude Code skill that gives the agent persistent memory of its mistakes via a per-repo markdown scratchpad.
 
-- **[hibasaudis44-droid/-](https://github.com/hibasaudis44-droid/-)** ⭐ 1
-  ![HTML](https://img.shields.io/badge/-HTML-lightgrey)
-  استشاري الأمراض الباطنة والتشخيص الإكلينيكي
+- **[Shylyn05/HireSphere-Placement-Management-System](https://github.com/Shylyn05/HireSphere-Placement-Management-System)** ⭐ 14
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
+  HireSphere
 
-- **[Robin-G0/Hackaton-boostrap](https://github.com/Robin-G0/Hackaton-boostrap)** ⭐ 1
+- **[trailofbits/scribe](https://github.com/trailofbits/scribe)** ⭐ 7
   ![Python](https://img.shields.io/badge/-Python-blue)
-  A quick boostraping script to run in an empty repository to init a project using FastAPI, PostgreSQL, NextJS and Docker
+  Local transcription and speaker diarization with pyannote and parakeet
 
-- **[JeffyGamez/Spacebar-Clicker](https://github.com/JeffyGamez/Spacebar-Clicker)** ⭐ 1
-  ![HTML](https://img.shields.io/badge/-HTML-lightgrey)
-  A game where you click the space bar and progress
+- **[spaceraccoon/vulnerability-spoiler-alert-action](https://github.com/spaceraccoon/vulnerability-spoiler-alert-action)** ⭐ 6
+  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
+  GitHub Action to alert on security patches before the CVE drops.
 
-- **[itismeherb/Scribe](https://github.com/itismeherb/Scribe)** ⭐ 1
-  ![Rust](https://img.shields.io/badge/-Rust-brown)
-  Scribe is a fast, lightweight tool that turns your code’s doc comments into clean Markdown or HTML documentation, making it easy to keep your docs up-to-date.
-
-- **[justinnova0915/Winhacks10](https://github.com/justinnova0915/Winhacks10)** ⭐ 1
+- **[tum4y/feat-add-license-file-MIT-](https://github.com/tum4y/feat-add-license-file-MIT-)** ⭐ 6
   ![None](https://img.shields.io/badge/-None-lightgrey)
   None
+
+- **[Sunit-Jadeja/Batch2024-2028GradutionBatch](https://github.com/Sunit-Jadeja/Batch2024-2028GradutionBatch)** ⭐ 6
+  ![None](https://img.shields.io/badge/-None-lightgrey)
+  All ipynb notebooks of every class, data, ppt, excel & csv files
+
+- **[peqdb/autoeq-c](https://github.com/peqdb/autoeq-c)** ⭐ 5
+  ![C](https://img.shields.io/badge/-C-lightgrey)
+  Blazing fast AutoEQ in C
 
 ### 📈 Weekly Trending
 
-- **[HKUDS/nanobot](https://github.com/HKUDS/nanobot)** ⭐ 10,997
+- **[HKUDS/nanobot](https://github.com/HKUDS/nanobot)** ⭐ 11,399
   ![Python](https://img.shields.io/badge/-Python-blue)
   "🐈 nanobot: The Ultra-Lightweight Clawdbot"
 
-- **[sheeki03/tirith](https://github.com/sheeki03/tirith)** ⭐ 1,473
+- **[sheeki03/tirith](https://github.com/sheeki03/tirith)** ⭐ 1,483
   ![Rust](https://img.shields.io/badge/-Rust-brown)
   Your browser catches homograph attacks. Your terminal doesn't. Tirith guards the gate — intercepts suspicious URLs, ANSI injection, and pipe-to-shell attacks before they execute.
 
-- **[anthropics/claudes-c-compiler](https://github.com/anthropics/claudes-c-compiler)** ⭐ 1,144
+- **[anthropics/claudes-c-compiler](https://github.com/anthropics/claudes-c-compiler)** ⭐ 1,225
   ![Rust](https://img.shields.io/badge/-Rust-brown)
   Claude Opus 4.6 wrote a dependency-free C compiler in Rust, with backends targeting x86 (64- and 32-bit), ARM, and RISC-V, capable of compiling a booting Linux kernel.
 
-- **[BlockRunAI/ClawRouter](https://github.com/BlockRunAI/ClawRouter)** ⭐ 1,046
+- **[BlockRunAI/ClawRouter](https://github.com/BlockRunAI/ClawRouter)** ⭐ 1,186
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   Smart LLM router — save 78% on inference costs. 30+ models, one wallet, x402 micropayments.
 
-- **[justlovemaki/OpenClaw-Docker-CN-IM](https://github.com/justlovemaki/OpenClaw-Docker-CN-IM)** ⭐ 900
+- **[justlovemaki/OpenClaw-Docker-CN-IM](https://github.com/justlovemaki/OpenClaw-Docker-CN-IM)** ⭐ 972
   ![Shell](https://img.shields.io/badge/-Shell-lightgrey)
   OpenClaw 的中国IM平台整合Docker版本，预装并配置了飞书、钉钉、QQ机器人、企业微信等主流中国IM软件的插件，让您可以快速部署一个支持多个中国IM平台的 AI 机器人网关
 
-- **[zai-org/GLM-OCR](https://github.com/zai-org/GLM-OCR)** ⭐ 666
+- **[zai-org/GLM-OCR](https://github.com/zai-org/GLM-OCR)** ⭐ 681
   ![Python](https://img.shields.io/badge/-Python-blue)
   GLM-OCR: Accurate ×  Fast × Comprehensive
 
-- **[antonpk1/excalidraw-mcp-app](https://github.com/antonpk1/excalidraw-mcp-app)** ⭐ 515
+- **[antonpk1/excalidraw-mcp-app](https://github.com/antonpk1/excalidraw-mcp-app)** ⭐ 596
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   Excalidraw MCP App Server — hand-drawn diagrams for Claude
 
-- **[rohitg00/pro-workflow](https://github.com/rohitg00/pro-workflow)** ⭐ 504
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
-  Battle-tested Claude Code workflows from power users. Self-correcting memory, parallel worktrees, wrap-up rituals, and the 80/20 AI coding ratio.
+- **[foru17/clash-master](https://github.com/foru17/clash-master)** ⭐ 544
+  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
+  A modern and elegant dashboard for visualizing and managing Clash network traffic.
 
 ### 📈 Monthly Trending
 
-- **[affaan-m/everything-claude-code](https://github.com/affaan-m/everything-claude-code)** ⭐ 41,283
+- **[affaan-m/everything-claude-code](https://github.com/affaan-m/everything-claude-code)** ⭐ 41,402
   ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
   Complete Claude Code configuration collection - agents, skills, hooks, commands, rules, MCPs. Battle-tested configs from an Anthropic hackathon winner.
 
-- **[xai-org/x-algorithm](https://github.com/xai-org/x-algorithm)** ⭐ 15,023
+- **[xai-org/x-algorithm](https://github.com/xai-org/x-algorithm)** ⭐ 15,042
   ![Rust](https://img.shields.io/badge/-Rust-brown)
   Algorithm powering the For You feed on X
 
-- **[vercel-labs/agent-browser](https://github.com/vercel-labs/agent-browser)** ⭐ 12,975
+- **[vercel-labs/agent-browser](https://github.com/vercel-labs/agent-browser)** ⭐ 13,015
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   Browser automation CLI for AI agents
 
-- **[HKUDS/nanobot](https://github.com/HKUDS/nanobot)** ⭐ 10,997
+- **[HKUDS/nanobot](https://github.com/HKUDS/nanobot)** ⭐ 11,399
   ![Python](https://img.shields.io/badge/-Python-blue)
   "🐈 nanobot: The Ultra-Lightweight Clawdbot"
 
-- **[VoltAgent/awesome-openclaw-skills](https://github.com/VoltAgent/awesome-openclaw-skills)** ⭐ 10,584
+- **[VoltAgent/awesome-openclaw-skills](https://github.com/VoltAgent/awesome-openclaw-skills)** ⭐ 10,758
   ![None](https://img.shields.io/badge/-None-lightgrey)
   The awesome collection of OpenClaw Skills. Formerly known as Moltbot, originally Clawdbot.
 
-- **[vercel-labs/json-render](https://github.com/vercel-labs/json-render)** ⭐ 10,067
+- **[vercel-labs/json-render](https://github.com/vercel-labs/json-render)** ⭐ 10,075
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   AI → JSON → UI
 
-- **[ZhuLinsen/daily_stock_analysis](https://github.com/ZhuLinsen/daily_stock_analysis)** ⭐ 9,718
+- **[ZhuLinsen/daily_stock_analysis](https://github.com/ZhuLinsen/daily_stock_analysis)** ⭐ 9,749
   ![Python](https://img.shields.io/badge/-Python-blue)
   LLM驱动的 A/H/美股智能分析器，多数据源行情 + 实时新闻 + Gemini 决策仪表盘 + 多渠道推送，零成本，纯白嫖，定时运行
 
-- **[different-ai/openwork](https://github.com/different-ai/openwork)** ⭐ 8,747
+- **[different-ai/openwork](https://github.com/different-ai/openwork)** ⭐ 8,774
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   An open-source alternative to Claude Cowork, powered by opencode
 
@@ -489,58 +493,58 @@ See [kubernetes-announce@](https://groups.google.com/forum/#!forum/kubernetes-an
 
 | Skill | Status |
 |-------|--------|
-| Java | 🔴 Beginner |
+| Java | 🟡 Learning |
 | Python | 🟢 Proficient |
-| JavaScript | 🔴 Beginner |
+| JavaScript | 🟡 Learning |
 | TypeScript | 🔴 Beginner |
-| Go | ⚪ Planned |
+| Go | 🟢 Proficient |
 
 ### Frameworks
 
 | Skill | Status |
 |-------|--------|
-| React | 🔴 Beginner |
-| Spring Boot | ⚪ Planned |
-| Django | ⚪ Planned |
-| Node.js | 🔴 Beginner |
-| Next.js | ⚪ Planned |
+| React | 🟡 Learning |
+| Spring Boot | 🟢 Proficient |
+| Django | 🟡 Learning |
+| Node.js | ⚪ Planned |
+| Next.js | 🟡 Learning |
 
 ### Cybersecurity
 
 | Skill | Status |
 |-------|--------|
 | Penetration Testing | ⚪ Planned |
-| Web Security | ⚪ Planned |
+| Web Security | 🟢 Proficient |
 | Network Security | 🟡 Learning |
-| OWASP | ⚪ Planned |
+| OWASP | 🟢 Proficient |
 
 ### Ai Ml
 
 | Skill | Status |
 |-------|--------|
 | Machine Learning | 🔴 Beginner |
-| Deep Learning | ⚪ Planned |
-| NLP | 🔴 Beginner |
-| Computer Vision | 🟢 Proficient |
-| TensorFlow | 🔴 Beginner |
-| PyTorch | 🟢 Proficient |
+| Deep Learning | 🟢 Proficient |
+| NLP | 🟢 Proficient |
+| Computer Vision | 🟡 Learning |
+| TensorFlow | 🟢 Proficient |
+| PyTorch | 🔴 Beginner |
 
 ### Devops
 
 | Skill | Status |
 |-------|--------|
-| Docker | 🟢 Proficient |
-| Kubernetes | 🟢 Proficient |
+| Docker | 🟡 Learning |
+| Kubernetes | ⚪ Planned |
 | CI/CD | 🔴 Beginner |
-| AWS | ⚪ Planned |
-| Azure | 🟡 Learning |
+| AWS | 🟢 Proficient |
+| Azure | 🟢 Proficient |
 
 ### Other
 
 | Skill | Status |
 |-------|--------|
-| Blockchain | 🟡 Learning |
-| Web3 | ⚪ Planned |
+| Blockchain | 🟢 Proficient |
+| Web3 | 🔴 Beginner |
 | Cloud Computing | 🔴 Beginner |
 
 </details>
