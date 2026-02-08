@@ -21,7 +21,7 @@
 |--------|-------|
 | 📰 Latest News Articles | 26 |
 | 🔥 Trending Repositories | 45 |
-| 🎯 Latest Releases | 0 |
+| 🎯 Latest Releases | 10 |
 | 🎯 Learning Goals | 4 |
 
 ## 🎯 Current Focus
@@ -46,34 +46,48 @@
 
 ### 📑 Hacker News
 
-- **[Dave Farber has passed away](https://lists.nanog.org/archives/list/nanog@lists.nanog.org/thread/TSNPJVFH4DKLINIKSMRIIVNHDG5XKJCM/)**
-  *<p>Article URL: <a href="https://lists.nanog.org/archives/list/nanog@lists.nanog.org/thread/TSNPJVFH4DKLINIKSMRIIVNHDG5XKJCM/">https://lists.nanog.org/archives/list/nanog@lists.nanog.org/thread/TSNPJV...*
-  📅 Sun, 08 Feb 2026 11:38:57 +0000
+- **[Bun v1.3.9](https://bun.com/blog/bun-v1.3.9)**
+  *<p>Article URL: <a href="https://bun.com/blog/bun-v1.3.9">https://bun.com/blog/bun-v1.3.9</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46936595">https://news.ycombinator.com/...*
+  📅 Sun, 08 Feb 2026 17:39:00 +0000
 
-- **[Why E cores make Apple Silicon fast](https://eclecticlight.co/2026/02/08/last-week-on-my-mac-why-e-cores-make-apple-silicon-fast/)**
-  *<p>Article URL: <a href="https://eclecticlight.co/2026/02/08/last-week-on-my-mac-why-e-cores-make-apple-silicon-fast/">https://eclecticlight.co/2026/02/08/last-week-on-my-mac-why-e-cores-make-apple-si...*
-  📅 Sun, 08 Feb 2026 11:31:49 +0000
-
-- **[(AI) Slop Terrifies Me](https://ezhik.jp/ai-slop-terrifies-me/)**
-  *<p>Article URL: <a href="https://ezhik.jp/ai-slop-terrifies-me/">https://ezhik.jp/ai-slop-terrifies-me/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46933067">https://news.yc...*
-  📅 Sun, 08 Feb 2026 10:31:35 +0000
-
-- **[Curating a Show on My Ineffable Mother, Ursula K. Le Guin](https://hyperallergic.com/curating-a-show-on-my-ineffable-mother-ursula-k-le-guin/)**
-  *<p>Article URL: <a href="https://hyperallergic.com/curating-a-show-on-my-ineffable-mother-ursula-k-le-guin/">https://hyperallergic.com/curating-a-show-on-my-ineffable-mother-ursula-k-le-guin/</a></p>
+- **[The First Sodium-Ion Battery EV Is a Winter Range Monster](https://insideevs.com/news/786509/catl-changan-worlds-first-sodium-ion-battery-ev/)**
+  *<p>Article URL: <a href="https://insideevs.com/news/786509/catl-changan-worlds-first-sodium-ion-battery-ev/">https://insideevs.com/news/786509/catl-changan-worlds-first-sodium-ion-battery-ev/</a></p>
 ...*
-  📅 Sun, 08 Feb 2026 10:13:00 +0000
+  📅 Sun, 08 Feb 2026 17:15:17 +0000
 
-- **[In the Australian outback, we're listening for nuclear tests](https://www.abc.net.au/news/2026-02-08/australian-outback-nuclear-tests-listening-warramunga-facility/106307478)**
-  *<p>Article URL: <a href="https://www.abc.net.au/news/2026-02-08/australian-outback-nuclear-tests-listening-warramunga-facility/106307478">https://www.abc.net.au/news/2026-02-08/australian-outback-nucl...*
-  📅 Sun, 08 Feb 2026 09:44:55 +0000
+- **[Let's compile Quake like it's 1997](https://fabiensanglard.net/compile_like_1997/index.html)**
+  *<p>Article URL: <a href="https://fabiensanglard.net/compile_like_1997/index.html">https://fabiensanglard.net/compile_like_1997/index.html</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com...*
+  📅 Sun, 08 Feb 2026 17:11:42 +0000
 
-- **[Reverse Engineering Raiders of the Lost Ark for the Atari 2600](https://github.com/joshuanwalker/Raiders2600)**
-  *<p>Article URL: <a href="https://github.com/joshuanwalker/Raiders2600">https://github.com/joshuanwalker/Raiders2600</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46932678">htt...*
-  📅 Sun, 08 Feb 2026 09:10:18 +0000
+- **[Billing can be bypassed using a combo of subagents with an agent definition](https://github.com/microsoft/vscode/issues/292452)**
+  *<p>Article URL: <a href="https://github.com/microsoft/vscode/issues/292452">https://github.com/microsoft/vscode/issues/292452</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=469...*
+  📅 Sun, 08 Feb 2026 16:56:08 +0000
+
+- **[Omega-3 is inversely related to risk of early-onset dementia](https://pubmed.ncbi.nlm.nih.gov/41506004/)**
+  *<p>Article URL: <a href="https://pubmed.ncbi.nlm.nih.gov/41506004/">https://pubmed.ncbi.nlm.nih.gov/41506004/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46935991">https://n...*
+  📅 Sun, 08 Feb 2026 16:47:08 +0000
+
+- **[Vouch](https://github.com/mitchellh/vouch)**
+  *<p><a href="https://x.com/mitchellh/status/2020252149117313349" rel="nofollow">https://x.com/mitchellh/status/2020252149117313349</a><p><a href="https://nitter.net/mitchellh/status/2020252149117313349...*
+  📅 Sun, 08 Feb 2026 16:45:49 +0000
 
 ### 📑 TechCrunch
+
+- **[TechCrunch Mobility: Is $16B enough to build a profitable robotaxi business?](https://techcrunch.com/2026/02/08/techcrunch-mobility-is-16b-enough-to-build-a-profitable-robotaxi-business/)**
+  *Welcome back to TechCrunch Mobility — your central hub for news and insights on the future of transportation....*
+  📅 Sun, 08 Feb 2026 17:05:00 +0000
+
+- **[San Francisco’s pro-billionaire march draws dozens](https://techcrunch.com/2026/02/08/san-franciscos-pro-billionaire-march-draws-dozens/)**
+  *A march supporting California’s billionaires didn’t exactly draw a huge crowd on Saturday....*
+  📅 Sun, 08 Feb 2026 16:49:48 +0000
+
+- **[From Svedka to Anthropic, brands make bold plays with AI in Super Bowl ads](https://techcrunch.com/2026/02/08/super-bowl-60-ai-ads-svedka-anthropic-brands-commercials/)**
+  *From the first AI-generated Big Game ad courtesy of Svedka to Anthropic's beef with OpenAI, here are the biggest ads from Super Bowl LX....*
+  📅 Sun, 08 Feb 2026 16:18:16 +0000
 
 - **[India has changed its startup rules for deep tech](https://techcrunch.com/2026/02/07/india-has-changed-its-startup-rules-for-deep-tech/)**
   *India is adjusting startup rules to help more of its deep tech startups with funding and long-term success....*
@@ -87,31 +101,15 @@
   *Antetokounmpo is the first NBA player to directly invest in Kalshi....*
   📅 Sat, 07 Feb 2026 21:30:41 +0000
 
-- **[New York lawmakers propose a three-year pause on new data centers](https://techcrunch.com/2026/02/07/new-york-lawmakers-propose-a-three-year-pause-on-new-data-centers/)**
-  *Although the bill’s prospects are uncertain, New York is at least the sixth state to consider pausing construction of new data centers....*
-  📅 Sat, 07 Feb 2026 18:23:04 +0000
-
-- **[Benchmark raises $225M in special funds to double down on Cerebras](https://techcrunch.com/2026/02/06/benchmark-raises-225m-in-special-funds-to-double-down-on-cerebras/)**
-  *Benchmark Capital has been an investor in the Nvidia rival since 2016....*
-  📅 Sat, 07 Feb 2026 05:23:04 +0000
-
-- **[An AI startup founder says he’s planning a ‘March for Billionaires’ in protest of California’s wealth tax](https://techcrunch.com/2026/02/06/an-ai-startup-founder-says-hes-planning-a-march-for-billionaires-in-protest-of-californias-wealth-tax/)**
-  *The organizer of the event swears it's not a joke....*
-  📅 Sat, 07 Feb 2026 01:00:52 +0000
-
 ### 📑 Dev.to
 
-- **[I Built a Tiny Domain Inventory Tool (Because I Used to Buy Too Many Domains)](https://dev.to/davorg/i-built-a-tiny-domain-inventory-tool-because-i-used-to-buy-too-many-domains-45lg)**
-  *<p>(Or: how I stopped losing track of the domains I swore I wouldn’t buy)</p>
+- **[DataPorter -- A Rails engine that turns data imports into a self-service feature](https://dev.to/seryl_lns_bf77ba67bf2953f/dataporter-a-rails-engine-that-turns-data-imports-into-a-self-service-feature-4lbf)**
+  *<p>If you've ever worked on a client-facing Rails app, you know the drill. At some point, someone sends you a CSV. "Can you import this into the app?" Sure, you write a quick Rake task, parse the file...*
+  📅 Sun, 08 Feb 2026 18:15:14 +0000
 
-<p>I used to be a serial domain-buyer.</p>
-
-<p>Not in a dramatic, “lost a fortune” way — just lots of <em>“oh, that might...*
-  📅 Sun, 08 Feb 2026 12:22:22 +0000
-
-- **[Learning about WCAG Compliance](https://dev.to/dawid_ryczko/learning-about-wcag-compliance-417e)**
-  *<p>In my entire carrier it was very rare situation when WCAG Compliance was a serious topic. Few years ago nobody care about it (my experience). Today it almost standard for serious pages and "must ha...*
-  📅 Sun, 08 Feb 2026 12:20:38 +0000
+- **[Beyond "Find": Unleashing the Full Power of VS Code’s Search Engine](https://dev.to/it-wibrc/beyond-find-unleashing-the-full-power-of-vs-codes-search-engine-45j0)**
+  *<p>Most developers use the <code>Ctrl+F</code> (or <code>Cmd+F</code>) shortcut dozens of times a day. We find a variable name, we replace a typo, and we move on. But tucked away in that small search ...*
+  📅 Sun, 08 Feb 2026 18:08:41 +0000
 
 </details>
 
@@ -119,103 +117,103 @@
 
 ### 📈 Daily Trending
 
-- **[rohunvora/x-research-skill](https://github.com/rohunvora/x-research-skill)** ⭐ 48
-  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
-  X/Twitter research skill for Claude Code and OpenClaw. Agentic search, thread following, deep-dives, sourced briefings.
-
-- **[K-YAMINI-28/HOMEGUARD-AN-EFFICIENT-MULTI-SENSOR-SAFETY-SYSTEM](https://github.com/K-YAMINI-28/HOMEGUARD-AN-EFFICIENT-MULTI-SENSOR-SAFETY-SYSTEM)** ⭐ 33
-  ![C++](https://img.shields.io/badge/-C++-pink)
-  An Arduino-based multi-sensor home safety system integrating motion, water, rain, voltage, and light sensors with real-time alert mechanisms.
-
-- **[shanselman/MaximizeToVirtualDesktop](https://github.com/shanselman/MaximizeToVirtualDesktop)** ⭐ 32
-  ![C#](https://img.shields.io/badge/-C#-lightgrey)
-  macOS green-button behavior for Windows 11 — maximize any window to its own virtual desktop
-
-- **[jaychempan/ccf-ddl-tracker](https://github.com/jaychempan/ccf-ddl-tracker)** ⭐ 18
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
-  🚀 CCF DDL Tracker: A Lightweight Chrome Extension for Tracking CCF Deadlines (Ongoing...)
-
-- **[Jzineldin/mission-control](https://github.com/Jzineldin/mission-control)** ⭐ 17
-  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
-  🖥️ macOS-native dashboard for OpenClaw AI agents — monitor, control, and optimize your agent from a sleek web interface
-
-- **[f/textream](https://github.com/f/textream)** ⭐ 14
+- **[f/textream](https://github.com/f/textream)** ⭐ 131
   ![Swift](https://img.shields.io/badge/-Swift-lightgrey)
   Textream is a free macOS teleprompter app for streamers, interviewers, and presenters. It highlights your script in real-time as you speak, displayed in a beautiful Dynamic Island overlay.
 
-- **[nehu3n/trad](https://github.com/nehu3n/trad)** ⭐ 12
-  ![Rust](https://img.shields.io/badge/-Rust-brown)
-  🌎 Extremely-fast offline Rust translation library for 200+ languages. CPU-optimized and fully local.
+- **[rohunvora/x-research-skill](https://github.com/rohunvora/x-research-skill)** ⭐ 104
+  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
+  X/Twitter research skill for Claude Code and OpenClaw. Agentic search, thread following, deep-dives, sourced briefings.
 
-- **[SammySnake-d/fast-context-mcp](https://github.com/SammySnake-d/fast-context-mcp)** ⭐ 10
+- **[shanselman/MaximizeToVirtualDesktop](https://github.com/shanselman/MaximizeToVirtualDesktop)** ⭐ 60
+  ![C#](https://img.shields.io/badge/-C#-lightgrey)
+  macOS green-button behavior for Windows 11 — maximize any window to its own virtual desktop
+
+- **[K-YAMINI-28/HOMEGUARD-AN-EFFICIENT-MULTI-SENSOR-SAFETY-SYSTEM](https://github.com/K-YAMINI-28/HOMEGUARD-AN-EFFICIENT-MULTI-SENSOR-SAFETY-SYSTEM)** ⭐ 46
+  ![C++](https://img.shields.io/badge/-C++-pink)
+  An Arduino-based multi-sensor home safety system integrating motion, water, rain, voltage, and light sensors with real-time alert mechanisms.
+
+- **[lijigang/ljg-skill-xray-paper](https://github.com/lijigang/ljg-skill-xray-paper)** ⭐ 40
+  ![None](https://img.shields.io/badge/-None-lightgrey)
+  论文X光机 — Claude Code Skill，解构学术论文，提炼餐巾纸公式
+
+- **[subasreemuthukumar2-ui/iot-transformer-health-monitoring](https://github.com/subasreemuthukumar2-ui/iot-transformer-health-monitoring)** ⭐ 21
+  ![None](https://img.shields.io/badge/-None-lightgrey)
+  An IoT-based embedded system for real-time monitoring of transformer parameters such as temperature, load current, and voltage to prevent failures
+
+- **[Jzineldin/mission-control](https://github.com/Jzineldin/mission-control)** ⭐ 20
+  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
+  🖥️ macOS-native dashboard for OpenClaw AI agents — monitor, control, and optimize your agent from a sleek web interface
+
+- **[jaychempan/ccf-ddl-tracker](https://github.com/jaychempan/ccf-ddl-tracker)** ⭐ 20
   ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
-  AI-driven semantic code search as an MCP tool — powered by Windsurf's reverse-engineered SWE-grep protocol
+  🚀 CCF DDL Tracker: a lightweight chrome extension for tracking CCF deadlines (Ongoing...)
 
 ### 📈 Weekly Trending
 
-- **[BlockRunAI/ClawRouter](https://github.com/BlockRunAI/ClawRouter)** ⭐ 1,718
+- **[BlockRunAI/ClawRouter](https://github.com/BlockRunAI/ClawRouter)** ⭐ 1,770
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   Smart LLM router — save 78% on inference costs. 30+ models, one wallet, x402 micropayments.
 
-- **[anthropics/claudes-c-compiler](https://github.com/anthropics/claudes-c-compiler)** ⭐ 1,560
+- **[anthropics/claudes-c-compiler](https://github.com/anthropics/claudes-c-compiler)** ⭐ 1,622
   ![Rust](https://img.shields.io/badge/-Rust-brown)
   Claude Opus 4.6 wrote a dependency-free C compiler in Rust, with backends targeting x86 (64- and 32-bit), ARM, and RISC-V, capable of compiling a booting Linux kernel.
 
-- **[sheeki03/tirith](https://github.com/sheeki03/tirith)** ⭐ 1,554
+- **[sheeki03/tirith](https://github.com/sheeki03/tirith)** ⭐ 1,567
   ![Rust](https://img.shields.io/badge/-Rust-brown)
   Your browser catches homograph attacks. Your terminal doesn't. Tirith guards the gate — intercepts suspicious URLs, ANSI injection, and pipe-to-shell attacks before they execute.
 
-- **[antonpk1/excalidraw-mcp-app](https://github.com/antonpk1/excalidraw-mcp-app)** ⭐ 918
+- **[antonpk1/excalidraw-mcp-app](https://github.com/antonpk1/excalidraw-mcp-app)** ⭐ 952
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   Excalidraw MCP App Server — hand-drawn diagrams for Claude
 
-- **[foru17/clash-master](https://github.com/foru17/clash-master)** ⭐ 806
-  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
-  A modern and elegant dashboard for visualizing and managing Clash network traffic.
-
-- **[zai-org/GLM-OCR](https://github.com/zai-org/GLM-OCR)** ⭐ 744
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  GLM-OCR: Accurate ×  Fast × Comprehensive
-
-- **[mitchellh/vouch](https://github.com/mitchellh/vouch)** ⭐ 669
+- **[mitchellh/vouch](https://github.com/mitchellh/vouch)** ⭐ 921
   ![Nushell](https://img.shields.io/badge/-Nushell-lightgrey)
   A contributor trust management system based on explicit vouches to participate.
 
-- **[eljojo/rememory](https://github.com/eljojo/rememory)** ⭐ 622
+- **[foru17/clash-master](https://github.com/foru17/clash-master)** ⭐ 842
+  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
+  A modern and elegant dashboard for visualizing and managing Clash network traffic.
+
+- **[zai-org/GLM-OCR](https://github.com/zai-org/GLM-OCR)** ⭐ 763
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  GLM-OCR: Accurate ×  Fast × Comprehensive
+
+- **[eljojo/rememory](https://github.com/eljojo/rememory)** ⭐ 661
   ![Go](https://img.shields.io/badge/-Go-cyan)
   have a plan for the worst-case scenario
 
 ### 📈 Monthly Trending
 
-- **[affaan-m/everything-claude-code](https://github.com/affaan-m/everything-claude-code)** ⭐ 42,116
+- **[affaan-m/everything-claude-code](https://github.com/affaan-m/everything-claude-code)** ⭐ 42,302
   ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
   Complete Claude Code configuration collection - agents, skills, hooks, commands, rules, MCPs. Battle-tested configs from an Anthropic hackathon winner.
 
-- **[xai-org/x-algorithm](https://github.com/xai-org/x-algorithm)** ⭐ 15,106
+- **[xai-org/x-algorithm](https://github.com/xai-org/x-algorithm)** ⭐ 15,123
   ![Rust](https://img.shields.io/badge/-Rust-brown)
   Algorithm powering the For You feed on X
 
-- **[vercel-labs/agent-browser](https://github.com/vercel-labs/agent-browser)** ⭐ 13,201
-  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
-  Browser automation CLI for AI agents
-
-- **[HKUDS/nanobot](https://github.com/HKUDS/nanobot)** ⭐ 12,913
+- **[HKUDS/nanobot](https://github.com/HKUDS/nanobot)** ⭐ 13,298
   ![Python](https://img.shields.io/badge/-Python-blue)
   "🐈 nanobot: The Ultra-Lightweight Clawdbot"
 
-- **[VoltAgent/awesome-openclaw-skills](https://github.com/VoltAgent/awesome-openclaw-skills)** ⭐ 11,544
+- **[vercel-labs/agent-browser](https://github.com/vercel-labs/agent-browser)** ⭐ 13,250
+  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
+  Browser automation CLI for AI agents
+
+- **[VoltAgent/awesome-openclaw-skills](https://github.com/VoltAgent/awesome-openclaw-skills)** ⭐ 11,737
   ![None](https://img.shields.io/badge/-None-lightgrey)
   The awesome collection of OpenClaw Skills. Formerly known as Moltbot, originally Clawdbot.
 
-- **[vercel-labs/json-render](https://github.com/vercel-labs/json-render)** ⭐ 10,106
+- **[vercel-labs/json-render](https://github.com/vercel-labs/json-render)** ⭐ 10,108
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   AI → JSON → UI
 
-- **[ZhuLinsen/daily_stock_analysis](https://github.com/ZhuLinsen/daily_stock_analysis)** ⭐ 9,866
+- **[ZhuLinsen/daily_stock_analysis](https://github.com/ZhuLinsen/daily_stock_analysis)** ⭐ 9,903
   ![Python](https://img.shields.io/badge/-Python-blue)
   LLM驱动的 A/H/美股智能分析器，多数据源行情 + 实时新闻 + Gemini 决策仪表盘 + 多渠道推送，零成本，纯白嫖，定时运行
 
-- **[different-ai/openwork](https://github.com/different-ai/openwork)** ⭐ 8,905
+- **[different-ai/openwork](https://github.com/different-ai/openwork)** ⭐ 8,949
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   An open-source alternative to Claude Cowork, powered by opencode
 
@@ -223,6 +221,144 @@
 
 <details>
 <summary>Click to expand latest releases</summary>
+
+### 📦 microsoft/vscode
+
+**[January 2026](https://github.com/microsoft/vscode/releases/tag/1.109.0)** `1.109.0`
+
+📅 Released: February 04, 2026
+
+Welcome to the January 2026 release of Visual Studio Code. In this release, we are further evolving VS Code to make it the **home for multi-agent development**.
+
+* **Chat UX**: chat just feels bette...
+
+---
+
+### 📦 facebook/react
+
+**[19.2.4 (January 26th, 2026)](https://github.com/facebook/react/releases/tag/v19.2.4)** `v19.2.4`
+
+📅 Released: January 26, 2026
+
+## React Server Components
+
+- Add more DoS mitigations to Server Actions, and harden Server Components ([#35632](https://github.com/facebook/react/pull/35632) by @gnoff, @lubieowoce, @sebmarkbage, @...
+
+---
+
+### 📦 angular/angular
+
+**[21.1.3](https://github.com/angular/angular/releases/tag/v21.1.3)** `v21.1.3`
+
+📅 Released: February 05, 2026
+
+### core
+| Commit | Description |
+| -- | -- |
+| [![fix - 2b254bc050](https://img.shields.io/badge/2b254bc050-fix-green)](https://github.com/angular/angular/commit/2b254bc0508b73aab8991c3b1a9a703c339cb...
+
+---
+
+### 📦 vuejs/vue
+
+**[v2.7.16 "Swan Song"](https://github.com/vuejs/vue/releases/tag/v2.7.16)** `v2.7.16`
+
+📅 Released: December 24, 2023
+
+**This is the final release for Vue 2.**
+
+Vue 2 will reach End of Life on December 31st, 2023. For more details, please read this [blog post](https://blog.vuejs.org/posts/vue-2-eol).
+
+Please refer...
+
+---
+
+### 📦 tensorflow/tensorflow
+
+**[TensorFlow 2.20.0](https://github.com/tensorflow/tensorflow/releases/tag/v2.20.0)** `v2.20.0`
+
+📅 Released: August 13, 2025
+
+# Release 2.20.0
+
+## TensorFlow
+
+### Breaking Changes
+
+* The `tensorflow-io-gcs-filesystem` package is now optional, due its uncertain, and limited support. To install it alongside `tensorflow`,...
+
+---
+
+### 📦 pytorch/pytorch
+
+**[PyTorch 2.10.0 Release](https://github.com/pytorch/pytorch/releases/tag/v2.10.0)** `v2.10.0`
+
+📅 Released: January 21, 2026
+
+# PyTorch 2.10.0 Release Notes
+
+- [Highlights](#highlights)
+- [Backwards Incompatible Changes](#backwards-incompatible-changes)
+- [Deprecations](#deprecations)
+- [New Features](#new-features)
+- ...
+
+---
+
+### 📦 kubernetes/kubernetes
+
+**[Kubernetes v1.35.0](https://github.com/kubernetes/kubernetes/releases/tag/v1.35.0)** `v1.35.0`
+
+📅 Released: December 17, 2025
+
+
+See [kubernetes-announce@](https://groups.google.com/forum/#!forum/kubernetes-announce). Additional binary downloads are linked in the [CHANGELOG](https://github.com/kubernetes/kubernetes/blob/master...
+
+---
+
+### 📦 docker/compose
+
+**[v5.0.2](https://github.com/docker/compose/releases/tag/v5.0.2)** `v5.0.2`
+
+📅 Released: January 21, 2026
+
+## What's Changed
+
+### 🐛 Fixes
+* Fixed progress UI to adapt to terminal width by @ndeloof in https://github.com/docker/compose/pull/13519
+* Removed warning when no explicit build has been requeste...
+
+---
+
+### 📦 nodejs/node
+
+**[2026-02-03, Version 25.6.0 (Current), @aduh95](https://github.com/nodejs/node/releases/tag/v25.6.0)** `v25.6.0`
+
+📅 Released: February 03, 2026
+
+
+
+
+### Notable Changes
+
+* \[[`796ff46ae6`](https://github.com/nodejs/node/commit/796ff46ae6)] - **(SEMVER-MINOR)** **async\_hooks**: add `trackPromises` option to `createHook()` (Joyee Cheung) [#61415...
+
+---
+
+### 📦 rust-lang/rust
+
+**[Rust 1.93.0](https://github.com/rust-lang/rust/releases/tag/1.93.0)** `1.93.0`
+
+📅 Released: January 22, 2026
+
+<a id="1.93.0-Language"></a>
+
+## Language
+
+- [Stabilize several s390x `vector`-related target features and the `is_s390x_feature_detected!` macro](https://github.com/rust-lang/rust/pull/145656)
+- [Sta...
+
+---
 
 </details>
 
@@ -349,27 +485,27 @@
 
 | Skill | Status |
 |-------|--------|
-| Java | 🔴 Beginner |
-| Python | 🟢 Proficient |
-| JavaScript | 🟢 Proficient |
+| Java | 🟢 Proficient |
+| Python | ⚪ Planned |
+| JavaScript | ⚪ Planned |
 | TypeScript | 🔴 Beginner |
-| Go | 🟢 Proficient |
+| Go | ⚪ Planned |
 
 ### Frameworks
 
 | Skill | Status |
 |-------|--------|
-| React | 🟡 Learning |
-| Spring Boot | 🔴 Beginner |
-| Django | 🟢 Proficient |
+| React | 🟢 Proficient |
+| Spring Boot | ⚪ Planned |
+| Django | 🟡 Learning |
 | Node.js | 🟡 Learning |
-| Next.js | ⚪ Planned |
+| Next.js | 🟢 Proficient |
 
 ### Cybersecurity
 
 | Skill | Status |
 |-------|--------|
-| Penetration Testing | ⚪ Planned |
+| Penetration Testing | 🟢 Proficient |
 | Web Security | 🟢 Proficient |
 | Network Security | 🔴 Beginner |
 | OWASP | 🟢 Proficient |
@@ -378,10 +514,10 @@
 
 | Skill | Status |
 |-------|--------|
-| Machine Learning | 🟡 Learning |
+| Machine Learning | ⚪ Planned |
 | Deep Learning | 🟢 Proficient |
-| NLP | 🟡 Learning |
-| Computer Vision | 🔴 Beginner |
+| NLP | 🟢 Proficient |
+| Computer Vision | 🟢 Proficient |
 | TensorFlow | ⚪ Planned |
 | PyTorch | ⚪ Planned |
 
@@ -390,18 +526,18 @@
 | Skill | Status |
 |-------|--------|
 | Docker | 🔴 Beginner |
-| Kubernetes | 🟡 Learning |
-| CI/CD | 🔴 Beginner |
-| AWS | 🟡 Learning |
-| Azure | 🟢 Proficient |
+| Kubernetes | ⚪ Planned |
+| CI/CD | 🟡 Learning |
+| AWS | 🔴 Beginner |
+| Azure | ⚪ Planned |
 
 ### Other
 
 | Skill | Status |
 |-------|--------|
-| Blockchain | 🟡 Learning |
-| Web3 | ⚪ Planned |
-| Cloud Computing | 🟡 Learning |
+| Blockchain | ⚪ Planned |
+| Web3 | 🔴 Beginner |
+| Cloud Computing | 🟢 Proficient |
 
 </details>
 
