@@ -46,74 +46,78 @@
 
 ### 📑 Hacker News
 
-- **[AI agent opens a PR write a blogpost to shames the maintainer who closes it](https://github.com/matplotlib/matplotlib/pull/31132)**
-  *<p>Article URL: <a href="https://github.com/matplotlib/matplotlib/pull/31132">https://github.com/matplotlib/matplotlib/pull/31132</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id...*
-  📅 Thu, 12 Feb 2026 11:46:01 +0000
+- **[Polis: Open-source platform to find common ground at scale](https://pol.is/home2)**
+  *<p>Article URL: <a href="https://pol.is/home2">https://pol.is/home2</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46992815">https://news.ycombinator.com/item?id=46992815</a></...*
+  📅 Thu, 12 Feb 2026 18:23:20 +0000
 
-- **[Resist and Unsubscribe](https://www.resistandunsubscribe.com)**
-  *<p>Article URL: <a href="https://www.resistandunsubscribe.com">https://www.resistandunsubscribe.com</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46987524">https://news.ycombi...*
-  📅 Thu, 12 Feb 2026 11:40:50 +0000
+- **[GPT‑5.3‑Codex‑Spark](https://openai.com/index/introducing-gpt-5-3-codex-spark/)**
+  *<p>Article URL: <a href="https://openai.com/index/introducing-gpt-5-3-codex-spark/">https://openai.com/index/introducing-gpt-5-3-codex-spark/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator...*
+  📅 Thu, 12 Feb 2026 18:06:09 +0000
 
-- **[Show HN: Geo Racers – Race from London to Tokyo on a single bus pass](https://geo-racers.com/)**
-  *<p>Article URL: <a href="https://geo-racers.com/">https://geo-racers.com/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46987038">https://news.ycombinator.com/item?id=46987038...*
-  📅 Thu, 12 Feb 2026 10:27:50 +0000
+- **[Launch HN: Omnara (YC S25) – Run Claude Code and Codex from anywhere](https://news.ycombinator.com/item?id=46991591)**
+  *<p>Hey y’all, Kartik, Ishaan, and Christian from Omnara (<a href="https://www.omnara.com/">https://www.omnara.com/</a>) here. We’re building a web and mobile agentic IDE for Claude Code and Codex that...*
+  📅 Thu, 12 Feb 2026 17:14:28 +0000
 
-- **[Show HN: A free online British accent generator for instant voice conversion](https://audioconvert.ai/british-accent-generator)**
-  *<p>I've developed a simple AI-powered British accent generator. Enter or paste your text, select the voice that best fits your project's tone, and generate speech for free. It supports up to 500 chara...*
-  📅 Thu, 12 Feb 2026 09:25:17 +0000
+- **[Shut Up: Comment Blocker](https://rickyromero.com/shutup/)**
+  *<p>Article URL: <a href="https://rickyromero.com/shutup/">https://rickyromero.com/shutup/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46991435">https://news.ycombinator.com/...*
+  📅 Thu, 12 Feb 2026 17:05:36 +0000
 
-- **[The missing digit of Stela C](https://johncarlosbaez.wordpress.com/2026/02/12/stela-c/)**
-  *<p>Article URL: <a href="https://johncarlosbaez.wordpress.com/2026/02/12/stela-c/">https://johncarlosbaez.wordpress.com/2026/02/12/stela-c/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.c...*
-  📅 Thu, 12 Feb 2026 08:35:34 +0000
+- **[ai;dr](https://www.0xsid.com/blog/aidr)**
+  *<p>Article URL: <a href="https://www.0xsid.com/blog/aidr">https://www.0xsid.com/blog/aidr</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46991394">https://news.ycombinator.com/...*
+  📅 Thu, 12 Feb 2026 17:03:30 +0000
 
-- **[Warcraft III Peon Voice Notifications for Claude Code](https://github.com/tonyyont/peon-ping)**
-  *<p>Article URL: <a href="https://github.com/tonyyont/peon-ping">https://github.com/tonyyont/peon-ping</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46985151">https://news.ycom...*
-  📅 Thu, 12 Feb 2026 05:18:49 +0000
+- **[Gemini 3 Deep Think](https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-deep-think/)**
+  *<p><a href="https://twitter.com/GoogleDeepMind/status/2021981510400709092" rel="nofollow">https://twitter.com/GoogleDeepMind/status/202198151040070909...</a></p>
+<hr />
+<p>Comments URL: <a href="https...*
+  📅 Thu, 12 Feb 2026 16:55:50 +0000
 
 ### 📑 TechCrunch
 
-- **[xAI lays out interplanetary ambitions in public all-hands](https://techcrunch.com/2026/02/11/xai-lays-out-interplanetary-ambitions-in-public-all-hands/)**
-  *On Wednesday, xAI took the rare step of publishing its full 45-minute all-hands presentation to the X platform, making it widely available....*
-  📅 Wed, 11 Feb 2026 23:29:08 +0000
+- **[Spotify says its best developers haven’t written a line of code since December, thanks to AI](https://techcrunch.com/2026/02/12/spotify-says-its-best-developers-havent-written-a-line-of-code-since-december-thanks-to-ai/)**
+  *Spotify credits Claude Code and its internal AI system Honk with speeding up development....*
+  📅 Thu, 12 Feb 2026 18:30:12 +0000
 
-- **[AI inference startup Modal Labs in talks to raise at $2.5B valuation, sources say](https://techcrunch.com/2026/02/11/ai-inference-startup-modal-labs-in-talks-to-raise-at-2-5b-valuation-sources-say/)**
-  *General Catalyst is in talks to lead the round for the four-year-old startup, according to our sources....*
-  📅 Wed, 11 Feb 2026 22:48:35 +0000
+- **[A new version of OpenAI’s Codex is powered by a new dedicated chip](https://techcrunch.com/2026/02/12/a-new-version-of-openais-codex-is-powered-by-a-new-dedicated-chip/)**
+  *OpenAI calls the new coding tool the "first milestone" in its relationship with the chipmaker....*
+  📅 Thu, 12 Feb 2026 18:00:00 +0000
 
-- **[OpenAI disbands mission alignment team](https://techcrunch.com/2026/02/11/openai-disbands-mission-alignment-team-which-focused-on-safe-and-trustworthy-ai-development/)**
-  *The team's leader has been given a new role as OpenAI's chief futurist, while the other team members have been reassigned throughout the company....*
-  📅 Wed, 11 Feb 2026 21:57:18 +0000
+- **[Aurora’s driverless trucks can now travel farther distances faster than human drivers](https://techcrunch.com/2026/02/12/auroras-driverless-trucks-can-now-travel-farther-distances-faster-than-human-drivers/)**
+  *CEO Chris Urmson called it a “superhuman” moment, adding that Aurora’s trucks can now carry freight 1,000 miles in 15 hours — faster than what a human driver can legally accomplish....*
+  📅 Thu, 12 Feb 2026 17:58:30 +0000
 
-- **[Apple’s Siri revamp reportedly delayed… again](https://techcrunch.com/2026/02/11/apples-siri-revamp-reportedly-delayed-again/)**
-  *While the new Siri was expected to launch with the upcoming iOS 26.4 update in March, now, the changes are expected to roll out more slowly over time, reportedly postponing some features until the May...*
-  📅 Wed, 11 Feb 2026 21:19:46 +0000
+- **[More US investors sue South Korean government over handling of Coupang data breach](https://techcrunch.com/2026/02/12/more-u-s-investors-sue-south-korean-government-over-handling-of-coupang-data-breach/)**
+  *Coupang’s massive data breach has sparked U.S. investor lawsuits against the South Korean government over alleged discrimination....*
+  📅 Thu, 12 Feb 2026 16:56:32 +0000
 
-- **[Uber Eats launches AI assistant to help with grocery cart creation](https://techcrunch.com/2026/02/11/uber-eats-launches-ai-assistant-to-help-with-grocery-cart-creation/)**
-  *Uber Eats launched a new AI feature, “Cart Assistant,” that can automatically add items to your cart based on text or image prompts....*
-  📅 Wed, 11 Feb 2026 21:07:37 +0000
+- **[Apple acquires all rights to ‘Severance,’ will produce future seasons in-house](https://techcrunch.com/2026/02/12/apple-acquires-all-rights-to-severance-will-produce-future-seasons-in-house/)**
+  *The show is expected to run for four seasons, with the possibility of spin-offs, a prequel, and foreign versions....*
+  📅 Thu, 12 Feb 2026 15:34:11 +0000
 
-- **[Who will own your company’s AI layer? Glean’s CEO explains](https://techcrunch.com/video/who-will-own-your-companys-ai-layer-gleans-ceo-explains/)**
-  *Enterprise AI is shifting fast from chatbots that answer questions to systems that actually do the work across an organization. But who will own the AI layer that powers all of it?&#160; Glean, which ...*
-  📅 Wed, 11 Feb 2026 20:49:07 +0000
+- **[US FTC airs concerns over allegations that Apple News suppresses right-wing content](https://techcrunch.com/2026/02/12/us-ftc-airs-concerns-over-allegations-that-apple-suppresses-right-wing-content-on-apple-news/)**
+  *In a letter to Apple CEO Tim Cook, FTC chair Andrew Ferguson cited reports from Media Research Center, a right-leaning think tank, which accused Apple of excluding right-leaning outlets from the top 2...*
+  📅 Thu, 12 Feb 2026 14:40:03 +0000
 
 ### 📑 Dev.to
 
-- **[The New Manager's Playbook](https://dev.to/linkbenjamin/the-new-managers-playbook-2c9c)**
-  *<p>Congrats on Your Promotion! ...Now What?</p>
+- **[Deep Dive: How SwarmCLI Simplifies Docker Swarm Operations for DevOps Teams](https://dev.to/eldara/deep-dive-how-swarmcli-simplifies-docker-swarm-operations-for-devops-teams-415c)**
+  *<p>As Docker Swarm continues to power production environments for its minimal overhead and native Docker integration, tools that enhance its usability are in high demand. In my last post, I introduced...*
+  📅 Thu, 12 Feb 2026 18:48:19 +0000
 
-<p>If you're taking your first role as a manager, this post is for you.  It's a collection of observations and thoughts to help you navigate this aweso...*
-  📅 Thu, 12 Feb 2026 12:30:00 +0000
+- **[YAGNI: The Principle That Protects You From Building the Future Too Early](https://dev.to/walternascimentobarroso/yagni-the-principle-that-protects-you-from-building-the-future-too-early-2o7d)**
+  *<p>Most developers don’t struggle with laziness.</p>
 
-- **[Let's build a Local Mail Server from Scratch with Postfix and Dovecot](https://dev.to/khripkooleg/lets-build-a-local-mail-server-from-scratch-with-postfix-and-dovecot-3gje)**
-  *<p>My boss at work decided it was time to test my knowledge, patience, and DevOps engineering skills, so he gave me a task that seemed simple at first glance but was actually guite challenging.</p>
+<p>They struggle with imagination.</p>
 
-<...*
-  📅 Thu, 12 Feb 2026 12:20:10 +0000
+<p>We imagine scale.<br />
+We imagine new features.<br />
+We imagine flexibility.<br />
+We imagine “what i...*
+  📅 Thu, 12 Feb 2026 18:42:30 +0000
 
 </details>
 
@@ -121,103 +125,103 @@
 
 ### 📈 Daily Trending
 
-- **[FireRedTeam/FireRedASR2S](https://github.com/FireRedTeam/FireRedASR2S)** ⭐ 133
+- **[FireRedTeam/FireRedASR2S](https://github.com/FireRedTeam/FireRedASR2S)** ⭐ 152
   ![Python](https://img.shields.io/badge/-Python-blue)
   FireRedASR2S is a SOTA Industrial-Grade All-in-One ASR system with ASR, VAD, LID, and Punc modules. FireRedASR2 supports Chinese (Mandarin, 20+ dialects/accents), English, code-switching, and singing lyrics recognition. FireRedVAD supports speech/singing/music in 100+ langs. FireRedLID supports 100+ langs and 20+ zh dialects.
 
-- **[iltekin/remove-local-temu](https://github.com/iltekin/remove-local-temu)** ⭐ 43
+- **[iltekin/remove-local-temu](https://github.com/iltekin/remove-local-temu)** ⭐ 77
   ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
   None
 
-- **[Sharukesh134/FITNESS-APP](https://github.com/Sharukesh134/FITNESS-APP)** ⭐ 38
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
-  None
-
-- **[Isla7940-s/free-cerebras](https://github.com/Isla7940-s/free-cerebras)** ⭐ 37
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  None
-
-- **[aidatatools/quant-python-ai](https://github.com/aidatatools/quant-python-ai)** ⭐ 35
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  量化投資研究 AI Agent — 透過 CLI 互動介面，自動搜尋財經新聞、分析市場情緒、產生風險評估報告。
-
-- **[symbolica-ai/arcgentica](https://github.com/symbolica-ai/arcgentica)** ⭐ 32
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  An ARC-AGI solution using Agentica from Symbolica
-
-- **[freestylefly/openclaw-wechat](https://github.com/freestylefly/openclaw-wechat)** ⭐ 21
+- **[freestylefly/openclaw-wechat](https://github.com/freestylefly/openclaw-wechat)** ⭐ 70
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   让 OpenClaw稳定的连上你的个人微信
 
-- **[AM1403x/financial-agent-india](https://github.com/AM1403x/financial-agent-india)** ⭐ 21
+- **[antirez/qwen-asr](https://github.com/antirez/qwen-asr)** ⭐ 68
+  ![C](https://img.shields.io/badge/-C-lightgrey)
+  C inference for Qwen3-ASR 0.6b and 1.7b transcriptions models
+
+- **[requestsession/IndexGPT](https://github.com/requestsession/IndexGPT)** ⭐ 61
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
+  IndexGPT: 本地科研助手（RAG + SFT + LoRA）| Local research assistant for PDF parsing, retrieval QA, SFT data generation, and LoRA training.
+
+- **[AM1403x/financial-agent-india](https://github.com/AM1403x/financial-agent-india)** ⭐ 52
   ![Python](https://img.shields.io/badge/-Python-blue)
   AI-powered financial analysis agent for Indian stock markets using AngelOne SmartAPI + Claude
 
+- **[symbolica-ai/arcgentica](https://github.com/symbolica-ai/arcgentica)** ⭐ 51
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  An ARC-AGI solution using Agentica from Symbolica
+
+- **[Sharukesh134/FITNESS-APP](https://github.com/Sharukesh134/FITNESS-APP)** ⭐ 44
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
+  None
+
 ### 📈 Weekly Trending
 
-- **[op7418/CodePilot](https://github.com/op7418/CodePilot)** ⭐ 1,756
+- **[op7418/CodePilot](https://github.com/op7418/CodePilot)** ⭐ 1,773
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   A native desktop GUI for Claude Code — chat, code, and manage projects visually. Built with Electron + Next.js.
 
-- **[The-Vibe-Company/companion](https://github.com/The-Vibe-Company/companion)** ⭐ 1,725
+- **[The-Vibe-Company/companion](https://github.com/The-Vibe-Company/companion)** ⭐ 1,750
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   Open-source Claude Code / Codex Web UI. Launch sessions, stream responses, approve tools.  All from your browser / mobile
 
-- **[hesamsheikh/awesome-openclaw-usecases](https://github.com/hesamsheikh/awesome-openclaw-usecases)** ⭐ 1,647
+- **[hesamsheikh/awesome-openclaw-usecases](https://github.com/hesamsheikh/awesome-openclaw-usecases)** ⭐ 1,692
   ![None](https://img.shields.io/badge/-None-lightgrey)
   A community collection of OpenClaw use cases for making life easier.
 
-- **[ComposioHQ/secure-openclaw](https://github.com/ComposioHQ/secure-openclaw)** ⭐ 1,312
+- **[ComposioHQ/secure-openclaw](https://github.com/ComposioHQ/secure-openclaw)** ⭐ 1,421
   ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
   A personal 24x7 AI assistant like OpenClaw that runs on your messaging platforms. Send a message on WhatsApp, Telegram, Signal, or iMessage and get responses from Claude with full tool access, persistent memory, scheduled reminders, and integrations with 500+ apps.
 
-- **[SumeLabs/clawra](https://github.com/SumeLabs/clawra)** ⭐ 1,138
+- **[SumeLabs/clawra](https://github.com/SumeLabs/clawra)** ⭐ 1,184
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   Clawra - Openclaw as your girlfriend
 
-- **[f/textream](https://github.com/f/textream)** ⭐ 1,088
+- **[f/textream](https://github.com/f/textream)** ⭐ 1,097
   ![Swift](https://img.shields.io/badge/-Swift-lightgrey)
   Textream is a free macOS teleprompter app for streamers, interviewers, and presenters. It highlights your script in real-time as you speak, displayed in a beautiful Dynamic Island overlay.
 
-- **[jlia0/tinyclaw](https://github.com/jlia0/tinyclaw)** ⭐ 871
+- **[PeonPing/peon-ping](https://github.com/PeonPing/peon-ping)** ⭐ 1,043
+  ![Shell](https://img.shields.io/badge/-Shell-lightgrey)
+  Warcraft III Peon voice notifications for Claude Code. Stop babysitting your terminal.
+
+- **[jlia0/tinyclaw](https://github.com/jlia0/tinyclaw)** ⭐ 886
   ![Shell](https://img.shields.io/badge/-Shell-lightgrey)
   TinyClaw is a team of AI agents that acts as your 24/7 personal assistant
 
-- **[TheAgentContextLab/OneContext](https://github.com/TheAgentContextLab/OneContext)** ⭐ 823
-  ![None](https://img.shields.io/badge/-None-lightgrey)
-   OneContext is an Agent Self-Managed Context layer, it gives your team a unified context for AII AI Agents. 
-
 ### 📈 Monthly Trending
 
-- **[affaan-m/everything-claude-code](https://github.com/affaan-m/everything-claude-code)** ⭐ 44,807
+- **[affaan-m/everything-claude-code](https://github.com/affaan-m/everything-claude-code)** ⭐ 44,974
   ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
   Complete Claude Code configuration collection - agents, skills, hooks, commands, rules, MCPs. Battle-tested configs from an Anthropic hackathon winner.
 
-- **[HKUDS/nanobot](https://github.com/HKUDS/nanobot)** ⭐ 17,589
+- **[HKUDS/nanobot](https://github.com/HKUDS/nanobot)** ⭐ 17,761
   ![Python](https://img.shields.io/badge/-Python-blue)
   "🐈 nanobot: The Ultra-Lightweight OpenClaw"
 
-- **[xai-org/x-algorithm](https://github.com/xai-org/x-algorithm)** ⭐ 15,355
+- **[xai-org/x-algorithm](https://github.com/xai-org/x-algorithm)** ⭐ 15,369
   ![Rust](https://img.shields.io/badge/-Rust-brown)
   Algorithm powering the For You feed on X
 
-- **[VoltAgent/awesome-openclaw-skills](https://github.com/VoltAgent/awesome-openclaw-skills)** ⭐ 14,028
+- **[VoltAgent/awesome-openclaw-skills](https://github.com/VoltAgent/awesome-openclaw-skills)** ⭐ 14,142
   ![None](https://img.shields.io/badge/-None-lightgrey)
   The awesome collection of OpenClaw Skills. Formerly known as Moltbot, originally Clawdbot.
 
-- **[vercel-labs/json-render](https://github.com/vercel-labs/json-render)** ⭐ 10,483
+- **[vercel-labs/json-render](https://github.com/vercel-labs/json-render)** ⭐ 10,492
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   The framework for User-Generated Interfaces
 
-- **[different-ai/openwork](https://github.com/different-ai/openwork)** ⭐ 9,590
+- **[different-ai/openwork](https://github.com/different-ai/openwork)** ⭐ 9,612
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   An open-source alternative to Claude Cowork, powered by opencode
 
-- **[sickn33/antigravity-awesome-skills](https://github.com/sickn33/antigravity-awesome-skills)** ⭐ 8,561
+- **[sickn33/antigravity-awesome-skills](https://github.com/sickn33/antigravity-awesome-skills)** ⭐ 8,611
   ![Python](https://img.shields.io/badge/-Python-blue)
   The Ultimate Collection of 800+ Agentic Skills for Claude Code/Antigravity/Cursor. Battle-tested, high-performance skills for AI agents including official skills from Anthropic and Vercel.
 
-- **[cloudflare/moltworker](https://github.com/cloudflare/moltworker)** ⭐ 8,478
+- **[cloudflare/moltworker](https://github.com/cloudflare/moltworker)** ⭐ 8,493
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   Run OpenClaw, (formerly Moltbot, formerly Clawdbot) on Cloudflare Workers
 
@@ -489,9 +493,9 @@ See [kubernetes-announce@](https://groups.google.com/forum/#!forum/kubernetes-an
 
 | Skill | Status |
 |-------|--------|
-| Java | 🔴 Beginner |
-| Python | 🟢 Proficient |
-| JavaScript | 🟢 Proficient |
+| Java | 🟡 Learning |
+| Python | 🔴 Beginner |
+| JavaScript | 🔴 Beginner |
 | TypeScript | 🟡 Learning |
 | Go | 🟡 Learning |
 
@@ -499,48 +503,48 @@ See [kubernetes-announce@](https://groups.google.com/forum/#!forum/kubernetes-an
 
 | Skill | Status |
 |-------|--------|
-| React | 🔴 Beginner |
-| Spring Boot | 🔴 Beginner |
-| Django | 🟢 Proficient |
-| Node.js | 🟢 Proficient |
-| Next.js | 🔴 Beginner |
+| React | 🟢 Proficient |
+| Spring Boot | ⚪ Planned |
+| Django | 🔴 Beginner |
+| Node.js | ⚪ Planned |
+| Next.js | 🟢 Proficient |
 
 ### Cybersecurity
 
 | Skill | Status |
 |-------|--------|
-| Penetration Testing | ⚪ Planned |
+| Penetration Testing | 🟢 Proficient |
 | Web Security | ⚪ Planned |
 | Network Security | 🔴 Beginner |
-| OWASP | 🟢 Proficient |
+| OWASP | 🔴 Beginner |
 
 ### Ai Ml
 
 | Skill | Status |
 |-------|--------|
-| Machine Learning | 🔴 Beginner |
-| Deep Learning | 🔴 Beginner |
-| NLP | ⚪ Planned |
-| Computer Vision | 🟡 Learning |
-| TensorFlow | ⚪ Planned |
-| PyTorch | 🔴 Beginner |
+| Machine Learning | 🟡 Learning |
+| Deep Learning | 🟢 Proficient |
+| NLP | 🔴 Beginner |
+| Computer Vision | 🔴 Beginner |
+| TensorFlow | 🔴 Beginner |
+| PyTorch | 🟡 Learning |
 
 ### Devops
 
 | Skill | Status |
 |-------|--------|
-| Docker | 🟢 Proficient |
+| Docker | 🟡 Learning |
 | Kubernetes | 🟢 Proficient |
-| CI/CD | 🟢 Proficient |
-| AWS | 🟢 Proficient |
-| Azure | 🟢 Proficient |
+| CI/CD | 🔴 Beginner |
+| AWS | ⚪ Planned |
+| Azure | 🔴 Beginner |
 
 ### Other
 
 | Skill | Status |
 |-------|--------|
-| Blockchain | 🟡 Learning |
-| Web3 | 🟡 Learning |
+| Blockchain | ⚪ Planned |
+| Web3 | 🔴 Beginner |
 | Cloud Computing | 🟢 Proficient |
 
 </details>
