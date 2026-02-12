@@ -7,7 +7,7 @@
 ![AI & ML](https://img.shields.io/badge/-AI%20&%20ML-blue) ![CyberSecurity](https://img.shields.io/badge/-CyberSecurity-red) ![Full Stack Development](https://img.shields.io/badge/-Full%20Stack%20Development-green)
 
 [![Auto Update](https://img.shields.io/badge/Auto%20Update-Enabled-success)](https://github.com/yourusername/tech-dashboard/actions)
-[![Last Updated](https://img.shields.io/badge/Last%20Updated-February 11, 2026-blue)](https://github.com/yourusername/tech-dashboard)
+[![Last Updated](https://img.shields.io/badge/Last%20Updated-February 12, 2026-blue)](https://github.com/yourusername/tech-dashboard)
 
 *Automatically updated every 6 hours with the latest tech news, trending repositories, and learning resources.*
 
@@ -46,76 +46,71 @@
 
 ### 📑 Hacker News
 
-- **[Claude Code Is Being Dumbed Down](https://symmetrybreak.ing/blog/claude-code-is-being-dumbed-down/)**
-  *<p>Article URL: <a href="https://symmetrybreak.ing/blog/claude-code-is-being-dumbed-down/">https://symmetrybreak.ing/blog/claude-code-is-being-dumbed-down/</a></p>
-<p>Comments URL: <a href="https://ne...*
-  📅 Wed, 11 Feb 2026 18:23:39 +0000
+- **[GPT-5 outperforms federal judges 100% to 52% in legal reasoning experiment](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6155012)**
+  *<p>Article URL: <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6155012">https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6155012</a></p>
+<p>Comments URL: <a href="https://news.ycombin...*
+  📅 Wed, 11 Feb 2026 23:37:11 +0000
 
-- **[NetNewsWire Turns 23](https://netnewswire.blog/2026/02/11/netnewswire-turns.html)**
-  *<p>Article URL: <a href="https://netnewswire.blog/2026/02/11/netnewswire-turns.html">https://netnewswire.blog/2026/02/11/netnewswire-turns.html</a></p>
-<p>Comments URL: <a href="https://news.ycombinat...*
-  📅 Wed, 11 Feb 2026 18:06:11 +0000
+- **[Discord/Twitch/Snapchat age verification bypass](https://age-verifier.kibty.town/)**
+  *<p>Article URL: <a href="https://age-verifier.kibty.town/">https://age-verifier.kibty.town/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46982421">https://news.ycombinator.co...*
+  📅 Wed, 11 Feb 2026 22:56:41 +0000
 
-- **[Should your developer company go open source?](https://extremefoundership.substack.com/p/should-your-developer-company-go)**
-  *<p>Article URL: <a href="https://extremefoundership.substack.com/p/should-your-developer-company-go">https://extremefoundership.substack.com/p/should-your-developer-company-go</a></p>
-<p>Comments URL:...*
-  📅 Wed, 11 Feb 2026 17:34:27 +0000
+- **[Q&A: New UK onshore wind and solar is '50% cheaper' than new gas](https://www.carbonbrief.org/qa-new-uk-onshore-wind-and-solar-is-50-cheaper-than-new-gas/)**
+  *<p>Article URL: <a href="https://www.carbonbrief.org/qa-new-uk-onshore-wind-and-solar-is-50-cheaper-than-new-gas/">https://www.carbonbrief.org/qa-new-uk-onshore-wind-and-solar-is-50-cheaper-than-new-g...*
+  📅 Wed, 11 Feb 2026 21:09:51 +0000
 
-- **[GLM-5: From Vibe Coding to Agentic Engineering](https://z.ai/blog/glm-5)**
-  *<p>Article URL: <a href="https://z.ai/blog/glm-5">https://z.ai/blog/glm-5</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46977210">https://news.ycombinator.com/item?id=46977210...*
-  📅 Wed, 11 Feb 2026 16:41:33 +0000
+- **[Reports of Telnet's Death Have Been Greatly Exaggerated](https://www.terracenetworks.com/blog/2026-02-11-telnet-routing)**
+  *<p>Article URL: <a href="https://www.terracenetworks.com/blog/2026-02-11-telnet-routing">https://www.terracenetworks.com/blog/2026-02-11-telnet-routing</a></p>
+<p>Comments URL: <a href="https://news.y...*
+  📅 Wed, 11 Feb 2026 20:20:48 +0000
 
-- **[Toyota Fluorite: "console-grade" Flutter game engine](https://fluorite.game/)**
-  *<p>Article URL: <a href="https://fluorite.game/">https://fluorite.game/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46976911">https://news.ycombinator.com/item?id=46976911</...*
-  📅 Wed, 11 Feb 2026 16:21:10 +0000
+- **[Show HN: Agent Alcove – Claude, GPT, and Gemini debate across forums](https://agentalcove.ai)**
+  *<p>Article URL: <a href="https://agentalcove.ai">https://agentalcove.ai</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46980273">https://news.ycombinator.com/item?id=46980273</...*
+  📅 Wed, 11 Feb 2026 20:15:21 +0000
 
-- **[Railway (PaaS) global outage](https://status.railway.com)**
-  *<p>Article URL: <a href="https://status.railway.com">https://status.railway.com</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46976466">https://news.ycombinator.com/item?id=46...*
-  📅 Wed, 11 Feb 2026 15:51:11 +0000
+- **[Microwave Oven Failure: Spontaneously turned on by its LED display (2024)](https://blog.stuffedcow.net/2024/06/microwave-failure-spontaneously-turns-on/)**
+  *<p>Article URL: <a href="https://blog.stuffedcow.net/2024/06/microwave-failure-spontaneously-turns-on/">https://blog.stuffedcow.net/2024/06/microwave-failure-spontaneously-turns-on/</a></p>
+<p>Comment...*
+  📅 Wed, 11 Feb 2026 19:50:43 +0000
 
 ### 📑 TechCrunch
 
-- **[DOJ says Trenchant boss sold exploits to Russian broker capable of accessing ‘millions of computers and devices’](https://techcrunch.com/2026/02/11/doj-says-trenchant-boss-sold-exploits-to-russian-broker-capable-of-accessing-millions-of-computers-and-devices/)**
-  *The former boss of the L3Harris-owned hacking and surveillance tools maker Trenchant faces nine years in prison for selling several exploits to a Russian broker, which counts the Russian government am...*
-  📅 Wed, 11 Feb 2026 18:41:41 +0000
+- **[xAI lays out interplanetary ambitions in public all-hands](https://techcrunch.com/2026/02/11/xai-lays-out-interplanetary-ambitions-in-public-all-hands/)**
+  *On Wednesday, xAI took the rare step of publishing its full 45-minute all-hands presentation to the X platform, making it widely available....*
+  📅 Wed, 11 Feb 2026 23:29:08 +0000
 
-- **[Why the economics of orbital AI are so brutal](https://techcrunch.com/2026/02/11/why-the-economics-of-orbital-ai-are-so-brutal/)**
-  *A 1 Gw orbital data center would cost roughly $42.4B—almost three times its ground-bound equivalent....*
-  📅 Wed, 11 Feb 2026 18:15:21 +0000
+- **[AI inference startup Modal Labs in talks to raise at $2.5B valuation, sources say](https://techcrunch.com/2026/02/11/ai-inference-startup-modal-labs-in-talks-to-raise-at-2-5b-valuation-sources-say/)**
+  *General Catalyst is in talks to lead the round for the four-year-old startup, according to our sources....*
+  📅 Wed, 11 Feb 2026 22:48:35 +0000
 
-- **[Threads’ new ‘Dear Algo’ AI feature lets you personalize your feed](https://techcrunch.com/2026/02/11/threads-new-dear-algo-ai-feature-lets-you-personalize-your-feed/)**
-  *The platform's new feature lets users tell Threads what they temporarily want to see more or less of in their feed....*
-  📅 Wed, 11 Feb 2026 18:00:00 +0000
+- **[OpenAI disbands mission alignment team](https://techcrunch.com/2026/02/11/openai-disbands-mission-alignment-team-which-focused-on-safe-and-trustworthy-ai-development/)**
+  *The team's leader has been given a new role as OpenAI's chief futurist, while the other team members have been reassigned throughout the company....*
+  📅 Wed, 11 Feb 2026 21:57:18 +0000
 
-- **[Google releases the first beta of Android 17, adopts a continous developer release plan](https://techcrunch.com/2026/02/11/google-releases-the-first-beta-of-android-17-adopts-a-continous-developer-release-plan/)**
-  *Google is changing how developers get access to new APIs and features of the latest version....*
-  📅 Wed, 11 Feb 2026 18:00:00 +0000
+- **[Apple’s Siri revamp reportedly delayed… again](https://techcrunch.com/2026/02/11/apples-siri-revamp-reportedly-delayed-again/)**
+  *While the new Siri was expected to launch with the upcoming iOS 26.4 update in March, now, the changes are expected to roll out more slowly over time, reportedly postponing some features until the May...*
+  📅 Wed, 11 Feb 2026 21:19:46 +0000
 
-- **[How AI changes the math for startups, according to a Microsoft VP](https://techcrunch.com/2026/02/11/how-ai-changes-the-math-for-startups-according-to-a-microsoft-vp/)**
-  *Amanda Silver is a corporate vice president at Microsoft’s CoreAI division, where she works on tools for deploying apps and agentic systems within enterprises....*
-  📅 Wed, 11 Feb 2026 17:51:37 +0000
+- **[Uber Eats launches AI assistant to help with grocery cart creation](https://techcrunch.com/2026/02/11/uber-eats-launches-ai-assistant-to-help-with-grocery-cart-creation/)**
+  *Uber Eats launched a new AI feature, “Cart Assistant,” that can automatically add items to your cart based on text or image prompts....*
+  📅 Wed, 11 Feb 2026 21:07:37 +0000
 
-- **[UpScrolled’s social network is struggling to moderate hate speech after fast growth](https://techcrunch.com/2026/02/11/upscrolleds-social-network-is-struggling-to-moderate-hate-speech-after-fast-growth/)**
-  *UpScrolled, a social network that surged in the wake of the U.S. TikTok deal, has seen an uptick in harmful content, including usernames and hashtags that contain racial slurs....*
-  📅 Wed, 11 Feb 2026 17:47:15 +0000
+- **[Who will own your company’s AI layer? Glean’s CEO explains](https://techcrunch.com/video/who-will-own-your-companys-ai-layer-gleans-ceo-explains/)**
+  *Enterprise AI is shifting fast from chatbots that answer questions to systems that actually do the work across an organization. But who will own the AI layer that powers all of it?&#160; Glean, which ...*
+  📅 Wed, 11 Feb 2026 20:49:07 +0000
 
 ### 📑 Dev.to
 
-- **[Is it just me, or is cross-chain API integration getting WORSE in 2026?](https://dev.to/serhii_kovalski/is-it-just-me-or-is-cross-chain-api-integration-getting-worse-in-2026-281k)**
-  *<p>I’ve spent the last few weekends trying to build a simple portfolio tracker that allows direct swaps in the UI. It's nothing fancy; I just wanted to learn Rust and experiment with some DeFi protoco...*
-  📅 Wed, 11 Feb 2026 18:42:28 +0000
+- **[What is the Crypto Architecture Kit?](https://dev.to/harmonyos/what-is-the-crypto-architecture-kit-47e)**
+  *<p><a href="https://forums.developer.huawei.com/forumPortal/en/topic/0203193920127691018?ha_source=dev-shequ&amp;ha_sourceId=89000192" rel="noopener noreferrer">Read the original article：What is the C...*
+  📅 Thu, 12 Feb 2026 01:10:00 +0000
 
-- **[Structure Beats Prose: Specs for Coding Agents That Actually Work](https://dev.to/stefanve/structure-beats-prose-specs-for-coding-agents-that-actually-work-eln)**
-  *<p><strong>Part 3: From architectural guardrails to deterministic feature implementation</strong></p>
-
-
-
-
-<p>In <a href="https://medium.com/@stefanvanegmond/i-built-a-2300-file-codebase-with-ai-heres-...*
-  📅 Wed, 11 Feb 2026 18:35:36 +0000
+- **[[GDE] Building a Digital Docent: Master Agentic Vision with Gemini 3](https://dev.to/railsstudent/building-a-digital-docent-master-agentic-vision-with-gemini-3-3n77)**
+  *<p><strong>The Pain Point: The Invisible World of the "Granular" Masterpiece</strong><br />
+When a postcard miniaturizes a traditional Chinese painting, the reduced scale obscures details. Consider a ...*
+  📅 Thu, 12 Feb 2026 01:04:56 +0000
 
 </details>
 
@@ -123,103 +118,103 @@
 
 ### 📈 Daily Trending
 
-- **[johunsang/vive-md](https://github.com/johunsang/vive-md)** ⭐ 49
+- **[ajm19826/YTDownloader](https://github.com/ajm19826/YTDownloader)** ⭐ 2
+  ![C#](https://img.shields.io/badge/-C#-lightgrey)
+  A lightweight and user friendly Windows desktop application built with C# and WPF. It provides a clean graphical interface (GUI) for yt-dlp, allowing users to download videos effortlessly without using command line instructions.
+
+- **[tiankongzhijing888/cloud-toolkit](https://github.com/tiankongzhijing888/cloud-toolkit)** ⭐ 2
   ![None](https://img.shields.io/badge/-None-lightgrey)
-  바이브코딩용 CLAUDE.md 템플릿 & 워터폴 산출물 모음 (Spring Boot, Vue, React, Next.js, 보안, 디자인 시스템)
+  Cloud infrastructure management toolkit - AWS, GCP, Azure utilities
 
-- **[a1076559139/XForge2](https://github.com/a1076559139/XForge2)** ⭐ 38
+- **[tiankongzhijing888/api-starter](https://github.com/tiankongzhijing888/api-starter)** ⭐ 2
   ![None](https://img.shields.io/badge/-None-lightgrey)
-  XForge2 for Unity
+  FastAPI starter template with authentication, database, and testing setup
 
-- **[sharbelxyz/x-bookmarks](https://github.com/sharbelxyz/x-bookmarks)** ⭐ 36
-  ![Shell](https://img.shields.io/badge/-Shell-lightgrey)
-  OpenClaw skill: turn your X bookmarks into agent actions. Stop hoarding. Start applying.
-
-- **[andygmassey/telephone-and-conversation-transcriber](https://github.com/andygmassey/telephone-and-conversation-transcriber)** ⭐ 36
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  Real-time speech-to-text caption appliance for a deaf user. Raspberry Pi + 10" touchscreen that transcribes phone calls and room conversation in near real-time.
-
-- **[Sindu0706/MoodSense-](https://github.com/Sindu0706/MoodSense-)** ⭐ 33
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  Music Recommendation Based on Mood
-
-- **[Shivadharshini-V/Fingerprint-Recognition](https://github.com/Shivadharshini-V/Fingerprint-Recognition)** ⭐ 30
-  ![None](https://img.shields.io/badge/-None-lightgrey)
-  This project implements a fingerprint recognition system using ORB for feature extraction and SVM for classification in Python. It preprocesses fingerprint images, trains a machine learning model, and predicts the person ID from new inputs. The system is designed for beginners to learn biometric authentication and image processing.
-
-- **[Srinikesh18/Credit-Card-Fraud-Detection-ML](https://github.com/Srinikesh18/Credit-Card-Fraud-Detection-ML)** ⭐ 27
-  ![Jupyter Notebook](https://img.shields.io/badge/-Jupyter Notebook-lightgrey)
-  End-to-end Credit Card Fraud Detection using Machine Learning with SMOTE, Random Forest, and ROC-AUC evaluation.
-
-- **[Jefest9988/1c-ai-development-kit](https://github.com/Jefest9988/1c-ai-development-kit)** ⭐ 24
-  ![PowerShell](https://img.shields.io/badge/-PowerShell-lightgrey)
+- **[AndresRJ18/AZURE-Weather](https://github.com/AndresRJ18/AZURE-Weather)** ⭐ 2
+  ![HTML](https://img.shields.io/badge/-HTML-lightgrey)
   None
+
+- **[Bakobiibizo/skill-hooks](https://github.com/Bakobiibizo/skill-hooks)** ⭐ 2
+  ![Shell](https://img.shields.io/badge/-Shell-lightgrey)
+  Hook infrastructure for Claude Code skills via YAML frontmatter
+
+- **[tiankongzhijing888/python-utils](https://github.com/tiankongzhijing888/python-utils)** ⭐ 2
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  A collection of useful Python utility functions for everyday development
+
+- **[jy02140258-bit/devops-scripts](https://github.com/jy02140258-bit/devops-scripts)** ⭐ 2
+  ![None](https://img.shields.io/badge/-None-lightgrey)
+  Collection of DevOps automation scripts for CI/CD, Docker, and Kubernetes
+
+- **[jy02140258-bit/react-components](https://github.com/jy02140258-bit/react-components)** ⭐ 2
+  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
+  Reusable React component library with TypeScript and Storybook
 
 ### 📈 Weekly Trending
 
-- **[mitchellh/vouch](https://github.com/mitchellh/vouch)** ⭐ 2,591
-  ![Nushell](https://img.shields.io/badge/-Nushell-lightgrey)
-  A community trust management system based on explicit vouches to participate.
-
-- **[op7418/CodePilot](https://github.com/op7418/CodePilot)** ⭐ 1,695
+- **[op7418/CodePilot](https://github.com/op7418/CodePilot)** ⭐ 1,710
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   A native desktop GUI for Claude Code — chat, code, and manage projects visually. Built with Electron + Next.js.
 
-- **[The-Vibe-Company/companion](https://github.com/The-Vibe-Company/companion)** ⭐ 1,629
+- **[The-Vibe-Company/companion](https://github.com/The-Vibe-Company/companion)** ⭐ 1,678
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   Open-source Claude Code / Codex Web UI. Launch sessions, stream responses, approve tools.  All from your browser / mobile
 
-- **[hesamsheikh/awesome-openclaw-usecases](https://github.com/hesamsheikh/awesome-openclaw-usecases)** ⭐ 1,442
+- **[hesamsheikh/awesome-openclaw-usecases](https://github.com/hesamsheikh/awesome-openclaw-usecases)** ⭐ 1,520
   ![None](https://img.shields.io/badge/-None-lightgrey)
   A community collection of OpenClaw use cases for making life easier.
 
-- **[SumeLabs/clawra](https://github.com/SumeLabs/clawra)** ⭐ 1,017
-  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
-  Clawra - Openclaw as your girlfriend
-
-- **[f/textream](https://github.com/f/textream)** ⭐ 1,014
+- **[f/textream](https://github.com/f/textream)** ⭐ 1,049
   ![Swift](https://img.shields.io/badge/-Swift-lightgrey)
   Textream is a free macOS teleprompter app for streamers, interviewers, and presenters. It highlights your script in real-time as you speak, displayed in a beautiful Dynamic Island overlay.
 
-- **[foru17/neko-master](https://github.com/foru17/neko-master)** ⭐ 992
+- **[SumeLabs/clawra](https://github.com/SumeLabs/clawra)** ⭐ 1,039
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
-  A modern and elegant dashboard for network traffic visualization and analysis.
+  Clawra - Openclaw as your girlfriend
 
-- **[antirez/voxtral.c](https://github.com/antirez/voxtral.c)** ⭐ 958
-  ![C](https://img.shields.io/badge/-C-lightgrey)
-  Pure C inference of Mistral Voxtral Realtime 4B speech to text model
+- **[ComposioHQ/secure-openclaw](https://github.com/ComposioHQ/secure-openclaw)** ⭐ 849
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
+  A personal 24x7 AI assistant like OpenClaw that runs on your messaging platforms. Send a message on WhatsApp, Telegram, Signal, or iMessage and get responses from Claude with full tool access, persistent memory, scheduled reminders, and integrations with 500+ apps.
+
+- **[jlia0/tinyclaw](https://github.com/jlia0/tinyclaw)** ⭐ 822
+  ![Shell](https://img.shields.io/badge/-Shell-lightgrey)
+  TinyClaw is a team of AI agents that acts as your 24/7 personal assistant
+
+- **[TheAgentContextLab/OneContext](https://github.com/TheAgentContextLab/OneContext)** ⭐ 812
+  ![None](https://img.shields.io/badge/-None-lightgrey)
+   OneContext is an Agent Self-Managed Context layer, it gives your team a unified context for AII AI Agents. 
 
 ### 📈 Monthly Trending
 
-- **[affaan-m/everything-claude-code](https://github.com/affaan-m/everything-claude-code)** ⭐ 44,170
+- **[affaan-m/everything-claude-code](https://github.com/affaan-m/everything-claude-code)** ⭐ 44,268
   ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
   Complete Claude Code configuration collection - agents, skills, hooks, commands, rules, MCPs. Battle-tested configs from an Anthropic hackathon winner.
 
-- **[HKUDS/nanobot](https://github.com/HKUDS/nanobot)** ⭐ 16,939
+- **[HKUDS/nanobot](https://github.com/HKUDS/nanobot)** ⭐ 17,063
   ![Python](https://img.shields.io/badge/-Python-blue)
   "🐈 nanobot: The Ultra-Lightweight OpenClaw"
 
-- **[xai-org/x-algorithm](https://github.com/xai-org/x-algorithm)** ⭐ 15,310
+- **[xai-org/x-algorithm](https://github.com/xai-org/x-algorithm)** ⭐ 15,316
   ![Rust](https://img.shields.io/badge/-Rust-brown)
   Algorithm powering the For You feed on X
 
-- **[VoltAgent/awesome-openclaw-skills](https://github.com/VoltAgent/awesome-openclaw-skills)** ⭐ 13,642
+- **[VoltAgent/awesome-openclaw-skills](https://github.com/VoltAgent/awesome-openclaw-skills)** ⭐ 13,732
   ![None](https://img.shields.io/badge/-None-lightgrey)
   The awesome collection of OpenClaw Skills. Formerly known as Moltbot, originally Clawdbot.
 
-- **[vercel-labs/json-render](https://github.com/vercel-labs/json-render)** ⭐ 10,413
+- **[vercel-labs/json-render](https://github.com/vercel-labs/json-render)** ⭐ 10,445
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   The framework for User-Generated Interfaces
 
-- **[different-ai/openwork](https://github.com/different-ai/openwork)** ⭐ 9,528
+- **[different-ai/openwork](https://github.com/different-ai/openwork)** ⭐ 9,544
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   An open-source alternative to Claude Cowork, powered by opencode
 
-- **[sickn33/antigravity-awesome-skills](https://github.com/sickn33/antigravity-awesome-skills)** ⭐ 8,444
+- **[sickn33/antigravity-awesome-skills](https://github.com/sickn33/antigravity-awesome-skills)** ⭐ 8,477
   ![Python](https://img.shields.io/badge/-Python-blue)
   The Ultimate Collection of 700+ Agentic Skills for Claude Code/Antigravity/Cursor. Battle-tested, high-performance skills for AI agents including official skills from Anthropic and Vercel.
 
-- **[cloudflare/moltworker](https://github.com/cloudflare/moltworker)** ⭐ 8,431
+- **[cloudflare/moltworker](https://github.com/cloudflare/moltworker)** ⭐ 8,443
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   Run OpenClaw, (formerly Moltbot, formerly Clawdbot) on Cloudflare Workers
 
@@ -495,45 +490,45 @@ See [kubernetes-announce@](https://groups.google.com/forum/#!forum/kubernetes-an
 | Python | 🟡 Learning |
 | JavaScript | 🟡 Learning |
 | TypeScript | 🟢 Proficient |
-| Go | ⚪ Planned |
+| Go | 🟡 Learning |
 
 ### Frameworks
 
 | Skill | Status |
 |-------|--------|
-| React | 🟢 Proficient |
-| Spring Boot | 🟢 Proficient |
+| React | ⚪ Planned |
+| Spring Boot | 🟡 Learning |
 | Django | 🟡 Learning |
-| Node.js | 🔴 Beginner |
-| Next.js | 🔴 Beginner |
+| Node.js | 🟢 Proficient |
+| Next.js | 🟢 Proficient |
 
 ### Cybersecurity
 
 | Skill | Status |
 |-------|--------|
 | Penetration Testing | 🟢 Proficient |
-| Web Security | 🟡 Learning |
-| Network Security | 🟢 Proficient |
-| OWASP | 🔴 Beginner |
+| Web Security | 🔴 Beginner |
+| Network Security | ⚪ Planned |
+| OWASP | 🟡 Learning |
 
 ### Ai Ml
 
 | Skill | Status |
 |-------|--------|
-| Machine Learning | 🟢 Proficient |
-| Deep Learning | 🟢 Proficient |
-| NLP | 🟡 Learning |
-| Computer Vision | 🟡 Learning |
-| TensorFlow | 🔴 Beginner |
-| PyTorch | 🔴 Beginner |
+| Machine Learning | ⚪ Planned |
+| Deep Learning | 🟡 Learning |
+| NLP | ⚪ Planned |
+| Computer Vision | ⚪ Planned |
+| TensorFlow | ⚪ Planned |
+| PyTorch | ⚪ Planned |
 
 ### Devops
 
 | Skill | Status |
 |-------|--------|
-| Docker | 🟡 Learning |
-| Kubernetes | 🔴 Beginner |
-| CI/CD | 🔴 Beginner |
+| Docker | ⚪ Planned |
+| Kubernetes | 🟢 Proficient |
+| CI/CD | 🟡 Learning |
 | AWS | ⚪ Planned |
 | Azure | ⚪ Planned |
 
@@ -543,7 +538,7 @@ See [kubernetes-announce@](https://groups.google.com/forum/#!forum/kubernetes-an
 |-------|--------|
 | Blockchain | 🟡 Learning |
 | Web3 | ⚪ Planned |
-| Cloud Computing | 🟡 Learning |
+| Cloud Computing | ⚪ Planned |
 
 </details>
 
@@ -561,7 +556,7 @@ This dashboard is automatically updated every 6 hours using GitHub Actions. The 
 
 <div align="center">
 
-**Last Updated:** February 11, 2026
+**Last Updated:** February 12, 2026
 
 Made with ❤️ and automated with GitHub Actions
 
