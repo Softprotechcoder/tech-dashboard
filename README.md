@@ -46,35 +46,34 @@
 
 ### 📑 Hacker News
 
+- **[AI agent opens a PR write a blogpost to shames the maintainer who closes it](https://github.com/matplotlib/matplotlib/pull/31132)**
+  *<p>Article URL: <a href="https://github.com/matplotlib/matplotlib/pull/31132">https://github.com/matplotlib/matplotlib/pull/31132</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id...*
+  📅 Thu, 12 Feb 2026 11:46:01 +0000
+
+- **[Resist and Unsubscribe](https://www.resistandunsubscribe.com)**
+  *<p>Article URL: <a href="https://www.resistandunsubscribe.com">https://www.resistandunsubscribe.com</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46987524">https://news.ycombi...*
+  📅 Thu, 12 Feb 2026 11:40:50 +0000
+
+- **[Show HN: Geo Racers – Race from London to Tokyo on a single bus pass](https://geo-racers.com/)**
+  *<p>Article URL: <a href="https://geo-racers.com/">https://geo-racers.com/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46987038">https://news.ycombinator.com/item?id=46987038...*
+  📅 Thu, 12 Feb 2026 10:27:50 +0000
+
+- **[Show HN: A free online British accent generator for instant voice conversion](https://audioconvert.ai/british-accent-generator)**
+  *<p>I've developed a simple AI-powered British accent generator. Enter or paste your text, select the voice that best fits your project's tone, and generate speech for free. It supports up to 500 chara...*
+  📅 Thu, 12 Feb 2026 09:25:17 +0000
+
+- **[The missing digit of Stela C](https://johncarlosbaez.wordpress.com/2026/02/12/stela-c/)**
+  *<p>Article URL: <a href="https://johncarlosbaez.wordpress.com/2026/02/12/stela-c/">https://johncarlosbaez.wordpress.com/2026/02/12/stela-c/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.c...*
+  📅 Thu, 12 Feb 2026 08:35:34 +0000
+
 - **[Warcraft III Peon Voice Notifications for Claude Code](https://github.com/tonyyont/peon-ping)**
   *<p>Article URL: <a href="https://github.com/tonyyont/peon-ping">https://github.com/tonyyont/peon-ping</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=46985151">https://news.ycom...*
   📅 Thu, 12 Feb 2026 05:18:49 +0000
-
-- **[D Programming Language](https://dlang.org/)**
-  *<p>Article URL: <a href="https://dlang.org/">https://dlang.org/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46985147">https://news.ycombinator.com/item?id=46985147</a></p>
-<...*
-  📅 Thu, 12 Feb 2026 05:18:09 +0000
-
-- **[How to Make a Living as an Artist](https://essays.fnnch.com/make-a-living)**
-  *<p>Article URL: <a href="https://essays.fnnch.com/make-a-living">https://essays.fnnch.com/make-a-living</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46984735">https://news.yc...*
-  📅 Thu, 12 Feb 2026 03:56:26 +0000
-
-- **[The Problem with LLMs](https://www.deobald.ca/essays/2026-02-10-the-problem-with-llms/)**
-  *<p>Article URL: <a href="https://www.deobald.ca/essays/2026-02-10-the-problem-with-llms/">https://www.deobald.ca/essays/2026-02-10-the-problem-with-llms/</a></p>
-<p>Comments URL: <a href="https://news...*
-  📅 Thu, 12 Feb 2026 02:03:33 +0000
-
-- **[From 34% to 96%: The Porting Initiative Delivers – Hologram v0.7.0](https://hologram.page/blog/porting-initiative-delivers-hologram-v0-7-0)**
-  *<p>Creator here. Hologram compiles Elixir to JavaScript to run in the browser, enabling full-stack development in pure Elixir - and soon, Local-First applications.<p>This release is a milestone for ou...*
-  📅 Wed, 11 Feb 2026 23:54:59 +0000
-
-- **[GPT-5 outperforms federal judges in legal reasoning experiment](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6155012)**
-  *<p>Article URL: <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6155012">https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6155012</a></p>
-<p>Comments URL: <a href="https://news.ycombin...*
-  📅 Wed, 11 Feb 2026 23:37:11 +0000
 
 ### 📑 TechCrunch
 
@@ -104,19 +103,17 @@
 
 ### 📑 Dev.to
 
-- **[🚀 How I Automated an E-commerce Business Using n8n (And Saved 20+ Hours/Week)](https://dev.to/mc_blademcblade_f2a7921/how-i-automated-an-e-commerce-business-using-n8n-and-saved-20-hoursweek-4219)**
-  *<p>Most small businesses don’t need expensive automation agencies.<br />
-They just need the right workflow.<br />
-Recently, I helped set up an automated e-commerce order processing system using n8n, a...*
-  📅 Thu, 12 Feb 2026 06:39:36 +0000
+- **[The New Manager's Playbook](https://dev.to/linkbenjamin/the-new-managers-playbook-2c9c)**
+  *<p>Congrats on Your Promotion! ...Now What?</p>
 
-- **[Building a Virtual DOM from Scratch: What I Learned Reverse-Engineering React](https://dev.to/deep007/building-a-virtual-dom-from-scratch-what-i-learned-reverse-engineering-react-44gc)**
-  *<p>I used React for a long time before I realized something slightly embarrassing:<br />
-I couldn’t actually explain how the Virtual DOM worked.<br />
-I knew the rules everyone repeats:</p>
+<p>If you're taking your first role as a manager, this post is for you.  It's a collection of observations and thoughts to help you navigate this aweso...*
+  📅 Thu, 12 Feb 2026 12:30:00 +0000
 
-<p>"Don't...*
-  📅 Thu, 12 Feb 2026 06:36:02 +0000
+- **[Let's build a Local Mail Server from Scratch with Postfix and Dovecot](https://dev.to/khripkooleg/lets-build-a-local-mail-server-from-scratch-with-postfix-and-dovecot-3gje)**
+  *<p>My boss at work decided it was time to test my knowledge, patience, and DevOps engineering skills, so he gave me a task that seemed simple at first glance but was actually guite challenging.</p>
+
+<...*
+  📅 Thu, 12 Feb 2026 12:20:10 +0000
 
 </details>
 
@@ -124,103 +121,103 @@ I knew the rules everyone repeats:</p>
 
 ### 📈 Daily Trending
 
-- **[Sharukesh134/FITNESS-APP](https://github.com/Sharukesh134/FITNESS-APP)** ⭐ 36
+- **[FireRedTeam/FireRedASR2S](https://github.com/FireRedTeam/FireRedASR2S)** ⭐ 133
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  FireRedASR2S is a SOTA Industrial-Grade All-in-One ASR system with ASR, VAD, LID, and Punc modules. FireRedASR2 supports Chinese (Mandarin, 20+ dialects/accents), English, code-switching, and singing lyrics recognition. FireRedVAD supports speech/singing/music in 100+ langs. FireRedLID supports 100+ langs and 20+ zh dialects.
+
+- **[iltekin/remove-local-temu](https://github.com/iltekin/remove-local-temu)** ⭐ 43
   ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
   None
 
-- **[aidatatools/quant-python-ai](https://github.com/aidatatools/quant-python-ai)** ⭐ 18
+- **[Sharukesh134/FITNESS-APP](https://github.com/Sharukesh134/FITNESS-APP)** ⭐ 38
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
+  None
+
+- **[Isla7940-s/free-cerebras](https://github.com/Isla7940-s/free-cerebras)** ⭐ 37
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  None
+
+- **[aidatatools/quant-python-ai](https://github.com/aidatatools/quant-python-ai)** ⭐ 35
   ![Python](https://img.shields.io/badge/-Python-blue)
   量化投資研究 AI Agent — 透過 CLI 互動介面，自動搜尋財經新聞、分析市場情緒、產生風險評估報告。
 
-- **[Isla7940-s/free-cerebras](https://github.com/Isla7940-s/free-cerebras)** ⭐ 18
+- **[symbolica-ai/arcgentica](https://github.com/symbolica-ai/arcgentica)** ⭐ 32
   ![Python](https://img.shields.io/badge/-Python-blue)
-  None
+  An ARC-AGI solution using Agentica from Symbolica
 
-- **[FireRedTeam/FireRedASR2S](https://github.com/FireRedTeam/FireRedASR2S)** ⭐ 14
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  FireRedASR2S is a state-of-the-art, industrial-grade, all-in-one ASR system with ASR, VAD, LID, and Punc modules. All modules achieve SOTA performance
-
-- **[Yogesh-debug-ai/TASK-MANAGER](https://github.com/Yogesh-debug-ai/TASK-MANAGER)** ⭐ 7
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
-  None
-
-- **[bixing-open/BiXFlow](https://github.com/bixing-open/BiXFlow)** ⭐ 6
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  BiXFlow is an efficient and deterministic workflow built on MCP, developed by the BiXing Team at China Mobile Research Institute (CMRI). It provides a simple and easy-to-use interface for defining, managing, and executing complex workflows.
-
-- **[Aliyanshaikh66/Team-work-practice](https://github.com/Aliyanshaikh66/Team-work-practice)** ⭐ 6
-  ![None](https://img.shields.io/badge/-None-lightgrey)
-  None
-
-- **[Nramsrud/ARK-index](https://github.com/Nramsrud/ARK-index)** ⭐ 5
+- **[freestylefly/openclaw-wechat](https://github.com/freestylefly/openclaw-wechat)** ⭐ 21
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
-  Agent Repo Kit (ARK) Index is a zero-setup repository indexing tool that builds repo maps, symbol catalogs, test maps, and incremental index artifacts for AI agents.
+  让 OpenClaw稳定的连上你的个人微信
+
+- **[AM1403x/financial-agent-india](https://github.com/AM1403x/financial-agent-india)** ⭐ 21
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  AI-powered financial analysis agent for Indian stock markets using AngelOne SmartAPI + Claude
 
 ### 📈 Weekly Trending
 
-- **[op7418/CodePilot](https://github.com/op7418/CodePilot)** ⭐ 1,737
+- **[op7418/CodePilot](https://github.com/op7418/CodePilot)** ⭐ 1,756
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   A native desktop GUI for Claude Code — chat, code, and manage projects visually. Built with Electron + Next.js.
 
-- **[The-Vibe-Company/companion](https://github.com/The-Vibe-Company/companion)** ⭐ 1,711
+- **[The-Vibe-Company/companion](https://github.com/The-Vibe-Company/companion)** ⭐ 1,725
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   Open-source Claude Code / Codex Web UI. Launch sessions, stream responses, approve tools.  All from your browser / mobile
 
-- **[hesamsheikh/awesome-openclaw-usecases](https://github.com/hesamsheikh/awesome-openclaw-usecases)** ⭐ 1,591
+- **[hesamsheikh/awesome-openclaw-usecases](https://github.com/hesamsheikh/awesome-openclaw-usecases)** ⭐ 1,647
   ![None](https://img.shields.io/badge/-None-lightgrey)
   A community collection of OpenClaw use cases for making life easier.
 
-- **[ComposioHQ/secure-openclaw](https://github.com/ComposioHQ/secure-openclaw)** ⭐ 1,140
+- **[ComposioHQ/secure-openclaw](https://github.com/ComposioHQ/secure-openclaw)** ⭐ 1,312
   ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
   A personal 24x7 AI assistant like OpenClaw that runs on your messaging platforms. Send a message on WhatsApp, Telegram, Signal, or iMessage and get responses from Claude with full tool access, persistent memory, scheduled reminders, and integrations with 500+ apps.
 
-- **[SumeLabs/clawra](https://github.com/SumeLabs/clawra)** ⭐ 1,087
+- **[SumeLabs/clawra](https://github.com/SumeLabs/clawra)** ⭐ 1,138
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   Clawra - Openclaw as your girlfriend
 
-- **[f/textream](https://github.com/f/textream)** ⭐ 1,070
+- **[f/textream](https://github.com/f/textream)** ⭐ 1,088
   ![Swift](https://img.shields.io/badge/-Swift-lightgrey)
   Textream is a free macOS teleprompter app for streamers, interviewers, and presenters. It highlights your script in real-time as you speak, displayed in a beautiful Dynamic Island overlay.
 
-- **[jlia0/tinyclaw](https://github.com/jlia0/tinyclaw)** ⭐ 841
+- **[jlia0/tinyclaw](https://github.com/jlia0/tinyclaw)** ⭐ 871
   ![Shell](https://img.shields.io/badge/-Shell-lightgrey)
   TinyClaw is a team of AI agents that acts as your 24/7 personal assistant
 
-- **[TheAgentContextLab/OneContext](https://github.com/TheAgentContextLab/OneContext)** ⭐ 816
+- **[TheAgentContextLab/OneContext](https://github.com/TheAgentContextLab/OneContext)** ⭐ 823
   ![None](https://img.shields.io/badge/-None-lightgrey)
    OneContext is an Agent Self-Managed Context layer, it gives your team a unified context for AII AI Agents. 
 
 ### 📈 Monthly Trending
 
-- **[affaan-m/everything-claude-code](https://github.com/affaan-m/everything-claude-code)** ⭐ 44,579
+- **[affaan-m/everything-claude-code](https://github.com/affaan-m/everything-claude-code)** ⭐ 44,807
   ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
   Complete Claude Code configuration collection - agents, skills, hooks, commands, rules, MCPs. Battle-tested configs from an Anthropic hackathon winner.
 
-- **[HKUDS/nanobot](https://github.com/HKUDS/nanobot)** ⭐ 17,361
+- **[HKUDS/nanobot](https://github.com/HKUDS/nanobot)** ⭐ 17,589
   ![Python](https://img.shields.io/badge/-Python-blue)
   "🐈 nanobot: The Ultra-Lightweight OpenClaw"
 
-- **[xai-org/x-algorithm](https://github.com/xai-org/x-algorithm)** ⭐ 15,331
+- **[xai-org/x-algorithm](https://github.com/xai-org/x-algorithm)** ⭐ 15,355
   ![Rust](https://img.shields.io/badge/-Rust-brown)
   Algorithm powering the For You feed on X
 
-- **[VoltAgent/awesome-openclaw-skills](https://github.com/VoltAgent/awesome-openclaw-skills)** ⭐ 13,869
+- **[VoltAgent/awesome-openclaw-skills](https://github.com/VoltAgent/awesome-openclaw-skills)** ⭐ 14,028
   ![None](https://img.shields.io/badge/-None-lightgrey)
   The awesome collection of OpenClaw Skills. Formerly known as Moltbot, originally Clawdbot.
 
-- **[vercel-labs/json-render](https://github.com/vercel-labs/json-render)** ⭐ 10,462
+- **[vercel-labs/json-render](https://github.com/vercel-labs/json-render)** ⭐ 10,483
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   The framework for User-Generated Interfaces
 
-- **[different-ai/openwork](https://github.com/different-ai/openwork)** ⭐ 9,568
+- **[different-ai/openwork](https://github.com/different-ai/openwork)** ⭐ 9,590
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   An open-source alternative to Claude Cowork, powered by opencode
 
-- **[sickn33/antigravity-awesome-skills](https://github.com/sickn33/antigravity-awesome-skills)** ⭐ 8,515
+- **[sickn33/antigravity-awesome-skills](https://github.com/sickn33/antigravity-awesome-skills)** ⭐ 8,561
   ![Python](https://img.shields.io/badge/-Python-blue)
   The Ultimate Collection of 800+ Agentic Skills for Claude Code/Antigravity/Cursor. Battle-tested, high-performance skills for AI agents including official skills from Anthropic and Vercel.
 
-- **[cloudflare/moltworker](https://github.com/cloudflare/moltworker)** ⭐ 8,462
+- **[cloudflare/moltworker](https://github.com/cloudflare/moltworker)** ⭐ 8,478
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   Run OpenClaw, (formerly Moltbot, formerly Clawdbot) on Cloudflare Workers
 
@@ -494,18 +491,18 @@ See [kubernetes-announce@](https://groups.google.com/forum/#!forum/kubernetes-an
 |-------|--------|
 | Java | 🔴 Beginner |
 | Python | 🟢 Proficient |
-| JavaScript | 🔴 Beginner |
-| TypeScript | 🟢 Proficient |
-| Go | 🔴 Beginner |
+| JavaScript | 🟢 Proficient |
+| TypeScript | 🟡 Learning |
+| Go | 🟡 Learning |
 
 ### Frameworks
 
 | Skill | Status |
 |-------|--------|
-| React | ⚪ Planned |
+| React | 🔴 Beginner |
 | Spring Boot | 🔴 Beginner |
 | Django | 🟢 Proficient |
-| Node.js | ⚪ Planned |
+| Node.js | 🟢 Proficient |
 | Next.js | 🔴 Beginner |
 
 ### Cybersecurity
@@ -514,37 +511,37 @@ See [kubernetes-announce@](https://groups.google.com/forum/#!forum/kubernetes-an
 |-------|--------|
 | Penetration Testing | ⚪ Planned |
 | Web Security | ⚪ Planned |
-| Network Security | ⚪ Planned |
-| OWASP | 🟡 Learning |
+| Network Security | 🔴 Beginner |
+| OWASP | 🟢 Proficient |
 
 ### Ai Ml
 
 | Skill | Status |
 |-------|--------|
-| Machine Learning | 🟢 Proficient |
+| Machine Learning | 🔴 Beginner |
 | Deep Learning | 🔴 Beginner |
-| NLP | 🟢 Proficient |
-| Computer Vision | ⚪ Planned |
-| TensorFlow | 🔴 Beginner |
-| PyTorch | ⚪ Planned |
+| NLP | ⚪ Planned |
+| Computer Vision | 🟡 Learning |
+| TensorFlow | ⚪ Planned |
+| PyTorch | 🔴 Beginner |
 
 ### Devops
 
 | Skill | Status |
 |-------|--------|
-| Docker | 🔴 Beginner |
-| Kubernetes | 🟡 Learning |
+| Docker | 🟢 Proficient |
+| Kubernetes | 🟢 Proficient |
 | CI/CD | 🟢 Proficient |
-| AWS | ⚪ Planned |
-| Azure | ⚪ Planned |
+| AWS | 🟢 Proficient |
+| Azure | 🟢 Proficient |
 
 ### Other
 
 | Skill | Status |
 |-------|--------|
-| Blockchain | 🟢 Proficient |
-| Web3 | ⚪ Planned |
-| Cloud Computing | ⚪ Planned |
+| Blockchain | 🟡 Learning |
+| Web3 | 🟡 Learning |
+| Cloud Computing | 🟢 Proficient |
 
 </details>
 
