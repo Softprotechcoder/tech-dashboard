@@ -46,74 +46,74 @@
 
 ### 📑 Hacker News
 
-- **[US repeals EPA endangerment finding for greenhouse gases](https://www.cnn.com/2026/02/12/climate/trump-repeals-epa-endangerment-finding)**
-  *<p>Article URL: <a href="https://www.cnn.com/2026/02/12/climate/trump-repeals-epa-endangerment-finding">https://www.cnn.com/2026/02/12/climate/trump-repeals-epa-endangerment-finding</a></p>
-<p>Comment...*
-  📅 Fri, 13 Feb 2026 12:17:04 +0000
+- **[Dario Amodei – "We are near the end of the exponential"](https://www.dwarkesh.com/p/dario-amodei-2)**
+  *<p>Article URL: <a href="https://www.dwarkesh.com/p/dario-amodei-2">https://www.dwarkesh.com/p/dario-amodei-2</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=47005565">https://n...*
+  📅 Fri, 13 Feb 2026 17:55:27 +0000
 
-- **[GovDash (YC W22) Is Hiring Senior Engineers (Product and Search) in NYC](https://www.workatastartup.com/companies/govdash)**
-  *<p>Article URL: <a href="https://www.workatastartup.com/companies/govdash">https://www.workatastartup.com/companies/govdash</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=47001...*
-  📅 Fri, 13 Feb 2026 12:01:11 +0000
+- **[CBP Signs Clearview AI Deal to Use Face Recognition for 'Tactical Targeting'](https://www.wired.com/story/cbp-signs-clearview-ai-deal-to-use-face-recognition-for-tactical-targeting/)**
+  *<p>Article URL: <a href="https://www.wired.com/story/cbp-signs-clearview-ai-deal-to-use-face-recognition-for-tactical-targeting/">https://www.wired.com/story/cbp-signs-clearview-ai-deal-to-use-face-re...*
+  📅 Fri, 13 Feb 2026 17:13:01 +0000
 
-- **[MinIO repository is no longer maintained](https://github.com/minio/minio/commit/7aac2a2c5b7c882e68c1ce017d8256be2feea27f)**
-  *<p>Article URL: <a href="https://github.com/minio/minio/commit/7aac2a2c5b7c882e68c1ce017d8256be2feea27f">https://github.com/minio/minio/commit/7aac2a2c5b7c882e68c1ce017d8256be2feea27f</a></p>
-<p>Comme...*
-  📅 Fri, 13 Feb 2026 07:46:03 +0000
+- **[I spent two days gigging at RentAHuman and didn't make a single cent](https://www.wired.com/story/i-tried-rentahuman-ai-agents-hired-me-to-hype-their-ai-startups/)**
+  *<p>Article URL: <a href="https://www.wired.com/story/i-tried-rentahuman-ai-agents-hired-me-to-hype-their-ai-startups/">https://www.wired.com/story/i-tried-rentahuman-ai-agents-hired-me-to-hype-their-a...*
+  📅 Fri, 13 Feb 2026 16:11:08 +0000
 
-- **[Asimov (YC W26) Is Hiring](https://news.ycombinator.com/item?id=46999753)**
-  *<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46999753">https://news.ycombinator.com/item?id=46999753</a></p>
-<p>Points: 0</p>
-<p># Comments: 0</p>...*
-  📅 Fri, 13 Feb 2026 07:00:41 +0000
+- **[IronClaw: a Rust-based clawd that runs tools in isolated WASM sandboxes](https://github.com/nearai/ironclaw)**
+  *<p>Article URL: <a href="https://github.com/nearai/ironclaw">https://github.com/nearai/ironclaw</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=47004312">https://news.ycombinato...*
+  📅 Fri, 13 Feb 2026 16:10:07 +0000
 
-- **[Ring owners are returning their cameras](https://www.msn.com/en-us/lifestyle/shopping/ring-owners-are-returning-their-cameras-here-s-how-much-you-can-get/ar-AA1W8Qa3)**
-  *<p>Article URL: <a href="https://www.msn.com/en-us/lifestyle/shopping/ring-owners-are-returning-their-cameras-here-s-how-much-you-can-get/ar-AA1W8Qa3">https://www.msn.com/en-us/lifestyle/shopping/ring...*
-  📅 Fri, 13 Feb 2026 06:23:26 +0000
+- **[Open Source Is Not About You (2018)](https://gist.github.com/richhickey/1563cddea1002958f96e7ba9519972d9)**
+  *<p>Article URL: <a href="https://gist.github.com/richhickey/1563cddea1002958f96e7ba9519972d9">https://gist.github.com/richhickey/1563cddea1002958f96e7ba9519972d9</a></p>
+<p>Comments URL: <a href="http...*
+  📅 Fri, 13 Feb 2026 14:36:28 +0000
 
-- **[MMAcevedo aka Lena by qntm](https://qntm.org/mmacevedo)**
-  *<p>Article URL: <a href="https://qntm.org/mmacevedo">https://qntm.org/mmacevedo</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46999224">https://news.ycombinator.com/item?id=46...*
-  📅 Fri, 13 Feb 2026 05:24:40 +0000
+- **[Apocalypse no: how almost everything we thought we knew about the Maya is wrong](https://www.theguardian.com/news/2026/feb/12/apocalypse-no-how-almost-everything-we-thought-we-knew-about-the-maya-is-wrong)**
+  *<p>Article URL: <a href="https://www.theguardian.com/news/2026/feb/12/apocalypse-no-how-almost-everything-we-thought-we-knew-about-the-maya-is-wrong">https://www.theguardian.com/news/2026/feb/12/apoca...*
+  📅 Fri, 13 Feb 2026 14:36:07 +0000
 
 ### 📑 TechCrunch
 
-- **[Fusion startup Helion hits blistering temps as it races toward 2028 deadline](https://techcrunch.com/2026/02/13/fusion-startup-helion-hits-blistering-temps-as-it-races-toward-2028-deadline/)**
-  *Helion's Polaris device hit 150 million degrees C recently, a milestone that nudges the company toward its commercial power plant that will sell electricity to Microsoft....*
-  📅 Fri, 13 Feb 2026 10:00:00 +0000
+- **[OpenAI removes access to sycophancy-prone GPT-4o model](https://techcrunch.com/2026/02/13/openai-removes-access-to-sycophancy-prone-gpt-4o-model/)**
+  *The model is known for its overly sycophantic nature and its role in several lawsuits involving users' unhealthy relationships to the chatbot....*
+  📅 Fri, 13 Feb 2026 18:10:00 +0000
 
-- **[Waymo is asking DoorDash drivers to shut the doors of its self-driving cars](https://techcrunch.com/2026/02/12/waymo-is-asking-doordash-drivers-to-shut-the-doors-of-its-self-driving-cars/)**
-  *If a passenger accidentally leaves a Waymo door open, the vehicle can get stuck in place....*
-  📅 Fri, 13 Feb 2026 04:41:41 +0000
+- **[The SEC closed its investigation into Fisker](https://techcrunch.com/2026/02/13/the-sec-closed-its-investigation-into-fisker/)**
+  *The financial regulator revealed in a response to a TechCrunch records request that the probe was closed in September 2025....*
+  📅 Fri, 13 Feb 2026 17:48:43 +0000
 
-- **[For $1M, you can pay Bryan Johnson (or BryanAI?) to teach you how to live longer](https://techcrunch.com/2026/02/12/for-1-million-you-can-pay-bryan-johnson-or-bryanai-to-teach-you-how-to-live-longer/)**
-  *The longevity-obsessed investor Bryan Johnson is charging $1 million to sign up for his "Immortals" program....*
-  📅 Thu, 12 Feb 2026 23:43:47 +0000
+- **[India partners with Alibaba.com for export push despite past China tech bans](https://techcrunch.com/2026/02/13/india-partners-with-alibaba-com-for-export-push-despite-past-china-tech-bans/)**
+  *India turns to Alibaba.com's B2B network of 50 million buyers in 200 countries to help businesses scale global exports....*
+  📅 Fri, 13 Feb 2026 17:32:59 +0000
 
-- **[Amid disappointing earnings, Pinterest claims it sees more searches than ChatGPT](https://techcrunch.com/2026/02/12/amid-disappointing-earnings-pinterest-claims-it-sees-more-searches-than-chatgpt/)**
-  *Pinterest's stock tumbles after an earnings miss, with higher-than-expected usage its only bright spot....*
-  📅 Thu, 12 Feb 2026 23:26:56 +0000
+- **[Anthropic’s Super Bowl ads mocking AI with ads helped push Claude’s app into the top 10](https://techcrunch.com/2026/02/13/anthropics-super-bowl-ads-mocking-ai-with-ads-helped-push-claudes-app-into-the-top-10/)**
+  *The numbers suggest that Anthropic's Super Bowl commercials, combined with Anthropic's recent release of its new Opus 4.6 model, worked to drive attention to Claude's app and its key differentiator fr...*
+  📅 Fri, 13 Feb 2026 17:16:27 +0000
 
-- **[IBM will hire your entry-level talent in the age of AI](https://techcrunch.com/2026/02/12/ibm-will-hire-your-entry-level-talent-in-the-age-of-ai/)**
-  *IBM plans to triple its entry-level hiring in the U.S. in 2026, but these jobs will have different tasks than in previous years....*
-  📅 Thu, 12 Feb 2026 23:23:17 +0000
+- **[Roku to launch streaming bundles as part of its efforts to continue growing its profitability](https://techcrunch.com/2026/02/13/roku-to-launch-streaming-bundles-as-part-of-its-efforts-to-continue-growing-its-profitability/)**
+  *Roku delivered an impressive Q4, posting net income of $80.5 million. The company also outlined plans for streaming bundles....*
+  📅 Fri, 13 Feb 2026 16:39:27 +0000
 
-- **[Rivian was saved by software in 2025](https://techcrunch.com/2026/02/12/rivian-was-saved-by-software-in-2025/)**
-  *The company's annual revenue was boosted by its technology joint venture with Volkswagen Group....*
-  📅 Thu, 12 Feb 2026 23:17:32 +0000
+- **[A Stanford grad student created an algorithm to help his classmates find love; now, Date Drop is the basis of his new startup](https://techcrunch.com/2026/02/13/a-stanford-grad-student-created-an-algorithm-to-help-his-classmates-find-love-now-date-drop-is-the-basis-of-his-new-startup/)**
+  *"Our matches convert to actual dates at about 10x the rate of Tinder," Weng told TechCrunch....*
+  📅 Fri, 13 Feb 2026 16:24:53 +0000
 
 ### 📑 Dev.to
 
-- **[Next.js Weekly #117: vS3, TypeScript 6.0 Beta, Bulletproof Component, AI Debugging, Enterprise Next.js, State of React 2025](https://dev.to/erfanebrahimnia/nextjs-weekly-117-vs3-typescript-60-beta-bulletproof-component-ai-debugging-enterprise-3op2)**
-  *<p><a href="https://shud.in/thoughts/build-bulletproof-react-components" rel="noopener noreferrer"><img alt="Building Bulletproof React Components" height="630" src="https://media2.dev.to/dynamic/imag...*
-  📅 Fri, 13 Feb 2026 12:35:35 +0000
+- **[What Is Runtime Authorization? A Guide to Dynamic Access Control and the Best Runtime Authorization Tools](https://dev.to/anna_p_s/what-is-runtime-authorization-a-guide-to-dynamic-access-control-and-the-best-runtime-authorization-1849)**
+  *<p>In the complex landscape of modern software, ensuring that users, and automated actors, can only access the data and actions they are authorized to use is critical. As systems become more distribut...*
+  📅 Fri, 13 Feb 2026 18:27:11 +0000
 
-- **[New article](https://dev.to/anthonymax/new-article-2pf9)**
-  *<div class="ltag__link">
-  <a class="ltag__link__link" href="https://dev.to/anthonymax">
-    <div class="ltag__link__pic">
-      <img alt="anthonymax" src="https://media2.dev.to/dynamic/image/width=80...*
-  📅 Fri, 13 Feb 2026 12:32:55 +0000
+- **[The Ultimate Guide to Kotlin Concurrency for Building a Super Android App 🚀](https://dev.to/mrkivan820/the-ultimate-guide-to-kotlin-concurrency-for-building-a-super-android-app-4pko)**
+  *<h2>
+  
+  
+  How We Use Kotlin Coroutines &amp; Flow in Enterprise Android
+</h2>
+
+<p>In this article, I'll show how we use <strong>Coroutines + Flow in production</strong> inside a digital wealth mana...*
+  📅 Fri, 13 Feb 2026 18:21:22 +0000
 
 </details>
 
@@ -121,103 +121,103 @@
 
 ### 📈 Daily Trending
 
-- **[yzc0731/HinFlow](https://github.com/yzc0731/HinFlow)** ⭐ 73
+- **[yzc0731/HinFlow](https://github.com/yzc0731/HinFlow)** ⭐ 75
   ![Python](https://img.shields.io/badge/-Python-blue)
   Official Code Implementation of Translating Flow to Policy via Hindsight Online Imitation
 
-- **[3stoneBrother/code-audit](https://github.com/3stoneBrother/code-audit)** ⭐ 52
+- **[andyhuo520/openclaw-assistant-mvp](https://github.com/andyhuo520/openclaw-assistant-mvp)** ⭐ 66
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
+  OpenClaw Desktop Assistant MVP - Electron-based AI voice assistant with Live2D character animations, real-time speech recognition, and text-to-speech
+
+- **[3stoneBrother/code-audit](https://github.com/3stoneBrother/code-audit)** ⭐ 61
   ![Python](https://img.shields.io/badge/-Python-blue)
   None
 
-- **[HKUDS/FastCode](https://github.com/HKUDS/FastCode)** ⭐ 49
+- **[HKUDS/FastCode](https://github.com/HKUDS/FastCode)** ⭐ 60
   ![Python](https://img.shields.io/badge/-Python-blue)
   FastCode: Accelerating and Streamlining Your Code Understanding
 
-- **[codefactory-co/kimoring-ai-skills](https://github.com/codefactory-co/kimoring-ai-skills)** ⭐ 35
+- **[MiniMax-AI/MiniMax-M2.5](https://github.com/MiniMax-AI/MiniMax-M2.5)** ⭐ 59
   ![None](https://img.shields.io/badge/-None-lightgrey)
   None
 
-- **[thanhdo1110/Locket-Gold](https://github.com/thanhdo1110/Locket-Gold)** ⭐ 17
+- **[codefactory-co/kimoring-ai-skills](https://github.com/codefactory-co/kimoring-ai-skills)** ⭐ 57
+  ![None](https://img.shields.io/badge/-None-lightgrey)
+  None
+
+- **[thanhdo1110/Locket-Gold](https://github.com/thanhdo1110/Locket-Gold)** ⭐ 39
   ![Python](https://img.shields.io/badge/-Python-blue)
   None
 
-- **[Rakesh0736/Daily_Challenge_App](https://github.com/Rakesh0736/Daily_Challenge_App)** ⭐ 15
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
-  A simple daily challenge app with streak tracking.
-
-- **[fars-analemma/transferable-defensive-tokens](https://github.com/fars-analemma/transferable-defensive-tokens)** ⭐ 14
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  None
-
-- **[hoodini/whatsapp-public-logan](https://github.com/hoodini/whatsapp-public-logan)** ⭐ 13
+- **[hoodini/whatsapp-public-logan](https://github.com/hoodini/whatsapp-public-logan)** ⭐ 25
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   Open-source WhatsApp bot with AI capabilities - Logan by YUV.AI
 
 ### 📈 Weekly Trending
 
-- **[hesamsheikh/awesome-openclaw-usecases](https://github.com/hesamsheikh/awesome-openclaw-usecases)** ⭐ 1,873
+- **[hesamsheikh/awesome-openclaw-usecases](https://github.com/hesamsheikh/awesome-openclaw-usecases)** ⭐ 1,988
   ![None](https://img.shields.io/badge/-None-lightgrey)
   A community collection of OpenClaw use cases for making life easier.
 
-- **[The-Vibe-Company/companion](https://github.com/The-Vibe-Company/companion)** ⭐ 1,782
+- **[The-Vibe-Company/companion](https://github.com/The-Vibe-Company/companion)** ⭐ 1,803
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
-  Open-source Claude Code / Codex Web UI. Launch sessions, stream responses, approve tools.  All from your browser / mobile
+  Web & Mobile UI for Claude Code & Codex . Launch sessions, stream responses, approve tools.  All from your browser / mobile
 
-- **[PeonPing/peon-ping](https://github.com/PeonPing/peon-ping)** ⭐ 1,663
+- **[PeonPing/peon-ping](https://github.com/PeonPing/peon-ping)** ⭐ 1,792
   ![Shell](https://img.shields.io/badge/-Shell-lightgrey)
   Warcraft III Peon voice notifications (+ more!) for Claude Code, Codex, and other IDEs. Stop babysitting your terminal.
 
-- **[ComposioHQ/secure-openclaw](https://github.com/ComposioHQ/secure-openclaw)** ⭐ 1,475
+- **[ComposioHQ/secure-openclaw](https://github.com/ComposioHQ/secure-openclaw)** ⭐ 1,486
   ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
   A personal 24x7 AI assistant like OpenClaw that runs on your messaging platforms. Send a message on WhatsApp, Telegram, Signal, or iMessage and get responses from Claude with full tool access, persistent memory, scheduled reminders, and integrations with 500+ apps.
 
-- **[SumeLabs/clawra](https://github.com/SumeLabs/clawra)** ⭐ 1,255
-  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
-  Clawra - Openclaw as your girlfriend
-
-- **[xyzeva/k-id-age-verifier](https://github.com/xyzeva/k-id-age-verifier)** ⭐ 1,227
+- **[xyzeva/k-id-age-verifier](https://github.com/xyzeva/k-id-age-verifier)** ⭐ 1,331
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   automatically verify your age on discord, twitch, kick, quora and more (k-id)
 
-- **[f/textream](https://github.com/f/textream)** ⭐ 1,150
+- **[SumeLabs/clawra](https://github.com/SumeLabs/clawra)** ⭐ 1,276
+  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
+  Clawra - Openclaw as your girlfriend
+
+- **[f/textream](https://github.com/f/textream)** ⭐ 1,183
   ![Swift](https://img.shields.io/badge/-Swift-lightgrey)
   Textream is a free macOS teleprompter app for streamers, interviewers, and presenters. It highlights your script in real-time as you speak, displayed in a beautiful Dynamic Island overlay.
 
-- **[jlia0/tinyclaw](https://github.com/jlia0/tinyclaw)** ⭐ 1,032
+- **[jlia0/tinyclaw](https://github.com/jlia0/tinyclaw)** ⭐ 1,137
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   TinyClaw is a team of personal agents that collaborate with each other
 
 ### 📈 Monthly Trending
 
-- **[affaan-m/everything-claude-code](https://github.com/affaan-m/everything-claude-code)** ⭐ 45,348
+- **[affaan-m/everything-claude-code](https://github.com/affaan-m/everything-claude-code)** ⭐ 45,484
   ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
   Complete Claude Code configuration collection - agents, skills, hooks, commands, rules, MCPs. Battle-tested configs from an Anthropic hackathon winner.
 
-- **[HKUDS/nanobot](https://github.com/HKUDS/nanobot)** ⭐ 18,167
+- **[HKUDS/nanobot](https://github.com/HKUDS/nanobot)** ⭐ 18,292
   ![Python](https://img.shields.io/badge/-Python-blue)
   "🐈 nanobot: The Ultra-Lightweight OpenClaw"
 
-- **[xai-org/x-algorithm](https://github.com/xai-org/x-algorithm)** ⭐ 15,385
+- **[xai-org/x-algorithm](https://github.com/xai-org/x-algorithm)** ⭐ 15,394
   ![Rust](https://img.shields.io/badge/-Rust-brown)
   Algorithm powering the For You feed on X
 
-- **[VoltAgent/awesome-openclaw-skills](https://github.com/VoltAgent/awesome-openclaw-skills)** ⭐ 14,480
+- **[VoltAgent/awesome-openclaw-skills](https://github.com/VoltAgent/awesome-openclaw-skills)** ⭐ 14,571
   ![None](https://img.shields.io/badge/-None-lightgrey)
   The awesome collection of OpenClaw Skills. Formerly known as Moltbot, originally Clawdbot.
 
-- **[cloudflare/moltworker](https://github.com/cloudflare/moltworker)** ⭐ 8,544
+- **[cloudflare/moltworker](https://github.com/cloudflare/moltworker)** ⭐ 8,566
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   Run OpenClaw, (formerly Moltbot, formerly Clawdbot) on Cloudflare Workers
 
-- **[qwibitai/nanoclaw](https://github.com/qwibitai/nanoclaw)** ⭐ 7,853
+- **[qwibitai/nanoclaw](https://github.com/qwibitai/nanoclaw)** ⭐ 7,935
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   A lightweight alternative to Clawdbot / OpenClaw that runs in Apple containers for security. Connects to WhatsApp, has memory, scheduled jobs, and runs directly on Anthropic's Agents SDK
 
-- **[QwenLM/Qwen3-TTS](https://github.com/QwenLM/Qwen3-TTS)** ⭐ 7,594
+- **[QwenLM/Qwen3-TTS](https://github.com/QwenLM/Qwen3-TTS)** ⭐ 7,617
   ![Python](https://img.shields.io/badge/-Python-blue)
   Qwen3-TTS is an open-source series of TTS models developed by the Qwen team at Alibaba Cloud, supporting stable, expressive, and streaming speech generation, free-form voice design, and vivid voice cloning.
 
-- **[coreyhaines31/marketingskills](https://github.com/coreyhaines31/marketingskills)** ⭐ 7,512
+- **[coreyhaines31/marketingskills](https://github.com/coreyhaines31/marketingskills)** ⭐ 7,532
   ![None](https://img.shields.io/badge/-None-lightgrey)
   Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics, and growth engineering.
 
@@ -487,8 +487,8 @@ See [kubernetes-announce@](https://groups.google.com/forum/#!forum/kubernetes-an
 | Skill | Status |
 |-------|--------|
 | Java | 🟢 Proficient |
-| Python | 🟢 Proficient |
-| JavaScript | 🟡 Learning |
+| Python | 🔴 Beginner |
+| JavaScript | 🔴 Beginner |
 | TypeScript | 🔴 Beginner |
 | Go | 🟢 Proficient |
 
@@ -496,49 +496,49 @@ See [kubernetes-announce@](https://groups.google.com/forum/#!forum/kubernetes-an
 
 | Skill | Status |
 |-------|--------|
-| React | 🟡 Learning |
+| React | ⚪ Planned |
 | Spring Boot | 🟢 Proficient |
-| Django | 🟡 Learning |
+| Django | ⚪ Planned |
 | Node.js | 🟡 Learning |
-| Next.js | ⚪ Planned |
+| Next.js | 🟡 Learning |
 
 ### Cybersecurity
 
 | Skill | Status |
 |-------|--------|
-| Penetration Testing | 🔴 Beginner |
-| Web Security | 🟡 Learning |
-| Network Security | 🟢 Proficient |
+| Penetration Testing | 🟡 Learning |
+| Web Security | 🔴 Beginner |
+| Network Security | 🟡 Learning |
 | OWASP | 🟡 Learning |
 
 ### Ai Ml
 
 | Skill | Status |
 |-------|--------|
-| Machine Learning | 🔴 Beginner |
-| Deep Learning | ⚪ Planned |
-| NLP | 🟡 Learning |
-| Computer Vision | 🟡 Learning |
+| Machine Learning | 🟡 Learning |
+| Deep Learning | 🟢 Proficient |
+| NLP | 🟢 Proficient |
+| Computer Vision | 🟢 Proficient |
 | TensorFlow | 🟢 Proficient |
-| PyTorch | ⚪ Planned |
+| PyTorch | 🔴 Beginner |
 
 ### Devops
 
 | Skill | Status |
 |-------|--------|
-| Docker | ⚪ Planned |
+| Docker | 🟡 Learning |
 | Kubernetes | 🔴 Beginner |
-| CI/CD | 🔴 Beginner |
-| AWS | 🟡 Learning |
-| Azure | 🟢 Proficient |
+| CI/CD | ⚪ Planned |
+| AWS | 🟢 Proficient |
+| Azure | 🟡 Learning |
 
 ### Other
 
 | Skill | Status |
 |-------|--------|
-| Blockchain | ⚪ Planned |
+| Blockchain | 🔴 Beginner |
 | Web3 | 🟢 Proficient |
-| Cloud Computing | ⚪ Planned |
+| Cloud Computing | 🟢 Proficient |
 
 </details>
 
