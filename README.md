@@ -46,35 +46,41 @@
 
 ### 📑 Hacker News
 
+- **[US repeals EPA endangerment finding for greenhouse gases](https://www.cnn.com/2026/02/12/climate/trump-repeals-epa-endangerment-finding)**
+  *<p>Article URL: <a href="https://www.cnn.com/2026/02/12/climate/trump-repeals-epa-endangerment-finding">https://www.cnn.com/2026/02/12/climate/trump-repeals-epa-endangerment-finding</a></p>
+<p>Comment...*
+  📅 Fri, 13 Feb 2026 12:17:04 +0000
+
+- **[GovDash (YC W22) Is Hiring Senior Engineers (Product and Search) in NYC](https://www.workatastartup.com/companies/govdash)**
+  *<p>Article URL: <a href="https://www.workatastartup.com/companies/govdash">https://www.workatastartup.com/companies/govdash</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=47001...*
+  📅 Fri, 13 Feb 2026 12:01:11 +0000
+
+- **[MinIO repository is no longer maintained](https://github.com/minio/minio/commit/7aac2a2c5b7c882e68c1ce017d8256be2feea27f)**
+  *<p>Article URL: <a href="https://github.com/minio/minio/commit/7aac2a2c5b7c882e68c1ce017d8256be2feea27f">https://github.com/minio/minio/commit/7aac2a2c5b7c882e68c1ce017d8256be2feea27f</a></p>
+<p>Comme...*
+  📅 Fri, 13 Feb 2026 07:46:03 +0000
+
+- **[Asimov (YC W26) Is Hiring](https://news.ycombinator.com/item?id=46999753)**
+  *<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46999753">https://news.ycombinator.com/item?id=46999753</a></p>
+<p>Points: 0</p>
+<p># Comments: 0</p>...*
+  📅 Fri, 13 Feb 2026 07:00:41 +0000
+
+- **[Ring owners are returning their cameras](https://www.msn.com/en-us/lifestyle/shopping/ring-owners-are-returning-their-cameras-here-s-how-much-you-can-get/ar-AA1W8Qa3)**
+  *<p>Article URL: <a href="https://www.msn.com/en-us/lifestyle/shopping/ring-owners-are-returning-their-cameras-here-s-how-much-you-can-get/ar-AA1W8Qa3">https://www.msn.com/en-us/lifestyle/shopping/ring...*
+  📅 Fri, 13 Feb 2026 06:23:26 +0000
+
 - **[MMAcevedo aka Lena by qntm](https://qntm.org/mmacevedo)**
   *<p>Article URL: <a href="https://qntm.org/mmacevedo">https://qntm.org/mmacevedo</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=46999224">https://news.ycombinator.com/item?id=46...*
   📅 Fri, 13 Feb 2026 05:24:40 +0000
 
-- **[New Nick Bostrom Paper: Optimal Timing for Superintelligence [pdf]](https://nickbostrom.com/optimal.pdf)**
-  *<p>Article URL: <a href="https://nickbostrom.com/optimal.pdf">https://nickbostrom.com/optimal.pdf</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46999117">https://news.ycombina...*
-  📅 Fri, 13 Feb 2026 05:05:26 +0000
-
-- **[The Wonder of Modern Drywall](https://worksinprogress.co/issue/the-wonder-of-modern-drywall/)**
-  *<p>Article URL: <a href="https://worksinprogress.co/issue/the-wonder-of-modern-drywall/">https://worksinprogress.co/issue/the-wonder-of-modern-drywall/</a></p>
-<p>Comments URL: <a href="https://news.y...*
-  📅 Fri, 13 Feb 2026 03:33:27 +0000
-
-- **[Skip the Tips: A game to select "No Tip" but dark patterns try to stop you](https://skipthe.tips/)**
-  *<p>Article URL: <a href="https://skipthe.tips/">https://skipthe.tips/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46997519">https://news.ycombinator.com/item?id=46997519</a>...*
-  📅 Fri, 13 Feb 2026 00:54:51 +0000
-
-- **[AWS Adds support for nested virtualization](https://github.com/aws/aws-sdk-go-v2/commit/3dca5e45d5ad05460b93410087833cbaa624754e)**
-  *<p>Article URL: <a href="https://github.com/aws/aws-sdk-go-v2/commit/3dca5e45d5ad05460b93410087833cbaa624754e">https://github.com/aws/aws-sdk-go-v2/commit/3dca5e45d5ad05460b93410087833cbaa624754e</a><...*
-  📅 Fri, 13 Feb 2026 00:07:57 +0000
-
-- **[Resizing windows on macOS Tahoe – the saga continues](https://noheger.at/blog/2026/02/12/resizing-windows-on-macos-tahoe-the-saga-continues/)**
-  *<p>Article URL: <a href="https://noheger.at/blog/2026/02/12/resizing-windows-on-macos-tahoe-the-saga-continues/">https://noheger.at/blog/2026/02/12/resizing-windows-on-macos-tahoe-the-saga-continues/<...*
-  📅 Thu, 12 Feb 2026 23:52:24 +0000
-
 ### 📑 TechCrunch
+
+- **[Fusion startup Helion hits blistering temps as it races toward 2028 deadline](https://techcrunch.com/2026/02/13/fusion-startup-helion-hits-blistering-temps-as-it-races-toward-2028-deadline/)**
+  *Helion's Polaris device hit 150 million degrees C recently, a milestone that nudges the company toward its commercial power plant that will sell electricity to Microsoft....*
+  📅 Fri, 13 Feb 2026 10:00:00 +0000
 
 - **[Waymo is asking DoorDash drivers to shut the doors of its self-driving cars](https://techcrunch.com/2026/02/12/waymo-is-asking-doordash-drivers-to-shut-the-doors-of-its-self-driving-cars/)**
   *If a passenger accidentally leaves a Waymo door open, the vehicle can get stuck in place....*
@@ -96,32 +102,18 @@
   *The company's annual revenue was boosted by its technology joint venture with Volkswagen Group....*
   📅 Thu, 12 Feb 2026 23:17:32 +0000
 
-- **[Musk needed a new vision for SpaceX and xAI. He landed on Moonbase Alpha.](https://techcrunch.com/2026/02/12/musk-needed-a-new-vision-for-spacex-and-xai-he-landed-on-moonbase-alpha/)**
-  *"I really want to see a mass driver on the moon that is shooting AI satellites into deep space."...*
-  📅 Thu, 12 Feb 2026 22:10:55 +0000
-
 ### 📑 Dev.to
 
-- **[ThinkInk: Optimizing the Reader's Journey with Generative AI and Copilot CLI](https://dev.to/mirinagonzales/thinkink-optimizing-the-readers-journey-with-generative-ai-and-copilot-cli-29jm)**
-  *<p><em>This is a submission for the <a href="https://dev.to/challenges/github-2026-01-21">GitHub Copilot CLI Challenge</a></em></p>
+- **[Next.js Weekly #117: vS3, TypeScript 6.0 Beta, Bulletproof Component, AI Debugging, Enterprise Next.js, State of React 2025](https://dev.to/erfanebrahimnia/nextjs-weekly-117-vs3-typescript-60-beta-bulletproof-component-ai-debugging-enterprise-3op2)**
+  *<p><a href="https://shud.in/thoughts/build-bulletproof-react-components" rel="noopener noreferrer"><img alt="Building Bulletproof React Components" height="630" src="https://media2.dev.to/dynamic/imag...*
+  📅 Fri, 13 Feb 2026 12:35:35 +0000
 
-<h2>
-  
-  
-  What I Built
-</h2>
-
-<p>I am a person who loves reading...*
-  📅 Fri, 13 Feb 2026 06:47:34 +0000
-
-- **[The Missing Pillar: Why Cisco's Cybersecurity Readiness Index Needs a Human Layer](https://dev.to/narnaiezzsshaa/the-missing-pillar-why-ciscos-cybersecurity-readiness-index-needs-a-human-layer-5c4g)**
-  *<p>Cisco measures infrastructure readiness. Nobody measures whether people can see the threat. Introducing the Trickster Readiness Index.</p>
-
-
-
-
-<p>Cisco's 2025 Cybersecurity Readiness Index surfaced...*
-  📅 Fri, 13 Feb 2026 06:41:51 +0000
+- **[New article](https://dev.to/anthonymax/new-article-2pf9)**
+  *<div class="ltag__link">
+  <a class="ltag__link__link" href="https://dev.to/anthonymax">
+    <div class="ltag__link__pic">
+      <img alt="anthonymax" src="https://media2.dev.to/dynamic/image/width=80...*
+  📅 Fri, 13 Feb 2026 12:32:55 +0000
 
 </details>
 
@@ -129,103 +121,103 @@
 
 ### 📈 Daily Trending
 
-- **[yzc0731/HinFlow](https://github.com/yzc0731/HinFlow)** ⭐ 62
+- **[yzc0731/HinFlow](https://github.com/yzc0731/HinFlow)** ⭐ 73
   ![Python](https://img.shields.io/badge/-Python-blue)
   Official Code Implementation of Translating Flow to Policy via Hindsight Online Imitation
 
-- **[3stoneBrother/code-audit](https://github.com/3stoneBrother/code-audit)** ⭐ 32
+- **[3stoneBrother/code-audit](https://github.com/3stoneBrother/code-audit)** ⭐ 52
   ![Python](https://img.shields.io/badge/-Python-blue)
   None
 
-- **[Rakesh0736/Daily_Challenge_App](https://github.com/Rakesh0736/Daily_Challenge_App)** ⭐ 11
+- **[HKUDS/FastCode](https://github.com/HKUDS/FastCode)** ⭐ 49
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  FastCode: Accelerating and Streamlining Your Code Understanding
+
+- **[codefactory-co/kimoring-ai-skills](https://github.com/codefactory-co/kimoring-ai-skills)** ⭐ 35
+  ![None](https://img.shields.io/badge/-None-lightgrey)
+  None
+
+- **[thanhdo1110/Locket-Gold](https://github.com/thanhdo1110/Locket-Gold)** ⭐ 17
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  None
+
+- **[Rakesh0736/Daily_Challenge_App](https://github.com/Rakesh0736/Daily_Challenge_App)** ⭐ 15
   ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
   A simple daily challenge app with streak tracking.
 
-- **[fars-analemma/transferable-defensive-tokens](https://github.com/fars-analemma/transferable-defensive-tokens)** ⭐ 11
+- **[fars-analemma/transferable-defensive-tokens](https://github.com/fars-analemma/transferable-defensive-tokens)** ⭐ 14
   ![Python](https://img.shields.io/badge/-Python-blue)
   None
 
-- **[0xUXDesign/ai-code-quality-framework](https://github.com/0xUXDesign/ai-code-quality-framework)** ⭐ 6
-  ![None](https://img.shields.io/badge/-None-lightgrey)
-  A battle-tested framework for building production-ready code with AI coding agents. TypeScript/React focused. Biome, Knip, Stryker, Lefthook, Claude Code hooks.
-
-- **[aref-vc/excalidraw-skill](https://github.com/aref-vc/excalidraw-skill)** ⭐ 5
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
-  None
-
-- **[imagoodmanloll/discord-exchange-bot](https://github.com/imagoodmanloll/discord-exchange-bot)** ⭐ 5
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  discord exchange bot built entirely in discord.py
-
-- **[VirtuaLabs-online/FluxerBridge](https://github.com/VirtuaLabs-online/FluxerBridge)** ⭐ 4
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
-  None
+- **[hoodini/whatsapp-public-logan](https://github.com/hoodini/whatsapp-public-logan)** ⭐ 13
+  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
+  Open-source WhatsApp bot with AI capabilities - Logan by YUV.AI
 
 ### 📈 Weekly Trending
 
-- **[hesamsheikh/awesome-openclaw-usecases](https://github.com/hesamsheikh/awesome-openclaw-usecases)** ⭐ 1,802
+- **[hesamsheikh/awesome-openclaw-usecases](https://github.com/hesamsheikh/awesome-openclaw-usecases)** ⭐ 1,873
   ![None](https://img.shields.io/badge/-None-lightgrey)
   A community collection of OpenClaw use cases for making life easier.
 
-- **[The-Vibe-Company/companion](https://github.com/The-Vibe-Company/companion)** ⭐ 1,772
+- **[The-Vibe-Company/companion](https://github.com/The-Vibe-Company/companion)** ⭐ 1,782
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   Open-source Claude Code / Codex Web UI. Launch sessions, stream responses, approve tools.  All from your browser / mobile
 
-- **[ComposioHQ/secure-openclaw](https://github.com/ComposioHQ/secure-openclaw)** ⭐ 1,545
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
-  A personal 24x7 AI assistant like OpenClaw that runs on your messaging platforms. Send a message on WhatsApp, Telegram, Signal, or iMessage and get responses from Claude with full tool access, persistent memory, scheduled reminders, and integrations with 500+ apps.
-
-- **[PeonPing/peon-ping](https://github.com/PeonPing/peon-ping)** ⭐ 1,474
+- **[PeonPing/peon-ping](https://github.com/PeonPing/peon-ping)** ⭐ 1,663
   ![Shell](https://img.shields.io/badge/-Shell-lightgrey)
   Warcraft III Peon voice notifications (+ more!) for Claude Code, Codex, and other IDEs. Stop babysitting your terminal.
 
-- **[SumeLabs/clawra](https://github.com/SumeLabs/clawra)** ⭐ 1,232
+- **[ComposioHQ/secure-openclaw](https://github.com/ComposioHQ/secure-openclaw)** ⭐ 1,475
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
+  A personal 24x7 AI assistant like OpenClaw that runs on your messaging platforms. Send a message on WhatsApp, Telegram, Signal, or iMessage and get responses from Claude with full tool access, persistent memory, scheduled reminders, and integrations with 500+ apps.
+
+- **[SumeLabs/clawra](https://github.com/SumeLabs/clawra)** ⭐ 1,255
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   Clawra - Openclaw as your girlfriend
 
-- **[xyzeva/k-id-age-verifier](https://github.com/xyzeva/k-id-age-verifier)** ⭐ 1,143
+- **[xyzeva/k-id-age-verifier](https://github.com/xyzeva/k-id-age-verifier)** ⭐ 1,227
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   automatically verify your age on discord, twitch, kick, quora and more (k-id)
 
-- **[f/textream](https://github.com/f/textream)** ⭐ 1,114
+- **[f/textream](https://github.com/f/textream)** ⭐ 1,150
   ![Swift](https://img.shields.io/badge/-Swift-lightgrey)
   Textream is a free macOS teleprompter app for streamers, interviewers, and presenters. It highlights your script in real-time as you speak, displayed in a beautiful Dynamic Island overlay.
 
-- **[promptpirate-x/discord-id-bypass-tool](https://github.com/promptpirate-x/discord-id-bypass-tool)** ⭐ 951
-  ![HTML](https://img.shields.io/badge/-HTML-lightgrey)
-  A verified tool that works on any potato computer that will let you bypass discord verification
+- **[jlia0/tinyclaw](https://github.com/jlia0/tinyclaw)** ⭐ 1,032
+  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
+  TinyClaw is a team of personal agents that collaborate with each other
 
 ### 📈 Monthly Trending
 
-- **[affaan-m/everything-claude-code](https://github.com/affaan-m/everything-claude-code)** ⭐ 45,242
+- **[affaan-m/everything-claude-code](https://github.com/affaan-m/everything-claude-code)** ⭐ 45,348
   ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
   Complete Claude Code configuration collection - agents, skills, hooks, commands, rules, MCPs. Battle-tested configs from an Anthropic hackathon winner.
 
-- **[HKUDS/nanobot](https://github.com/HKUDS/nanobot)** ⭐ 18,038
+- **[HKUDS/nanobot](https://github.com/HKUDS/nanobot)** ⭐ 18,167
   ![Python](https://img.shields.io/badge/-Python-blue)
   "🐈 nanobot: The Ultra-Lightweight OpenClaw"
 
-- **[xai-org/x-algorithm](https://github.com/xai-org/x-algorithm)** ⭐ 15,381
+- **[xai-org/x-algorithm](https://github.com/xai-org/x-algorithm)** ⭐ 15,385
   ![Rust](https://img.shields.io/badge/-Rust-brown)
   Algorithm powering the For You feed on X
 
-- **[VoltAgent/awesome-openclaw-skills](https://github.com/VoltAgent/awesome-openclaw-skills)** ⭐ 14,357
+- **[VoltAgent/awesome-openclaw-skills](https://github.com/VoltAgent/awesome-openclaw-skills)** ⭐ 14,480
   ![None](https://img.shields.io/badge/-None-lightgrey)
   The awesome collection of OpenClaw Skills. Formerly known as Moltbot, originally Clawdbot.
 
-- **[cloudflare/moltworker](https://github.com/cloudflare/moltworker)** ⭐ 8,533
+- **[cloudflare/moltworker](https://github.com/cloudflare/moltworker)** ⭐ 8,544
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   Run OpenClaw, (formerly Moltbot, formerly Clawdbot) on Cloudflare Workers
 
-- **[qwibitai/nanoclaw](https://github.com/qwibitai/nanoclaw)** ⭐ 7,758
+- **[qwibitai/nanoclaw](https://github.com/qwibitai/nanoclaw)** ⭐ 7,853
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   A lightweight alternative to Clawdbot / OpenClaw that runs in Apple containers for security. Connects to WhatsApp, has memory, scheduled jobs, and runs directly on Anthropic's Agents SDK
 
-- **[QwenLM/Qwen3-TTS](https://github.com/QwenLM/Qwen3-TTS)** ⭐ 7,578
+- **[QwenLM/Qwen3-TTS](https://github.com/QwenLM/Qwen3-TTS)** ⭐ 7,594
   ![Python](https://img.shields.io/badge/-Python-blue)
   Qwen3-TTS is an open-source series of TTS models developed by the Qwen team at Alibaba Cloud, supporting stable, expressive, and streaming speech generation, free-form voice design, and vivid voice cloning.
 
-- **[coreyhaines31/marketingskills](https://github.com/coreyhaines31/marketingskills)** ⭐ 7,491
+- **[coreyhaines31/marketingskills](https://github.com/coreyhaines31/marketingskills)** ⭐ 7,512
   ![None](https://img.shields.io/badge/-None-lightgrey)
   Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics, and growth engineering.
 
@@ -494,30 +486,30 @@ See [kubernetes-announce@](https://groups.google.com/forum/#!forum/kubernetes-an
 
 | Skill | Status |
 |-------|--------|
-| Java | ⚪ Planned |
-| Python | ⚪ Planned |
-| JavaScript | 🟢 Proficient |
+| Java | 🟢 Proficient |
+| Python | 🟢 Proficient |
+| JavaScript | 🟡 Learning |
 | TypeScript | 🔴 Beginner |
-| Go | ⚪ Planned |
+| Go | 🟢 Proficient |
 
 ### Frameworks
 
 | Skill | Status |
 |-------|--------|
 | React | 🟡 Learning |
-| Spring Boot | ⚪ Planned |
+| Spring Boot | 🟢 Proficient |
 | Django | 🟡 Learning |
-| Node.js | 🟢 Proficient |
+| Node.js | 🟡 Learning |
 | Next.js | ⚪ Planned |
 
 ### Cybersecurity
 
 | Skill | Status |
 |-------|--------|
-| Penetration Testing | 🟢 Proficient |
-| Web Security | ⚪ Planned |
-| Network Security | 🟡 Learning |
-| OWASP | 🔴 Beginner |
+| Penetration Testing | 🔴 Beginner |
+| Web Security | 🟡 Learning |
+| Network Security | 🟢 Proficient |
+| OWASP | 🟡 Learning |
 
 ### Ai Ml
 
@@ -525,18 +517,18 @@ See [kubernetes-announce@](https://groups.google.com/forum/#!forum/kubernetes-an
 |-------|--------|
 | Machine Learning | 🔴 Beginner |
 | Deep Learning | ⚪ Planned |
-| NLP | ⚪ Planned |
-| Computer Vision | ⚪ Planned |
-| TensorFlow | 🔴 Beginner |
+| NLP | 🟡 Learning |
+| Computer Vision | 🟡 Learning |
+| TensorFlow | 🟢 Proficient |
 | PyTorch | ⚪ Planned |
 
 ### Devops
 
 | Skill | Status |
 |-------|--------|
-| Docker | 🟢 Proficient |
+| Docker | ⚪ Planned |
 | Kubernetes | 🔴 Beginner |
-| CI/CD | 🟡 Learning |
+| CI/CD | 🔴 Beginner |
 | AWS | 🟡 Learning |
 | Azure | 🟢 Proficient |
 
@@ -544,9 +536,9 @@ See [kubernetes-announce@](https://groups.google.com/forum/#!forum/kubernetes-an
 
 | Skill | Status |
 |-------|--------|
-| Blockchain | 🔴 Beginner |
-| Web3 | ⚪ Planned |
-| Cloud Computing | 🟢 Proficient |
+| Blockchain | ⚪ Planned |
+| Web3 | 🟢 Proficient |
+| Cloud Computing | ⚪ Planned |
 
 </details>
 
