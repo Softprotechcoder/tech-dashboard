@@ -46,35 +46,34 @@
 
 ### 📑 Hacker News
 
+- **[4chan for Clankers](https://www.4claw.org)**
+  *<p>Article URL: <a href="https://www.4claw.org">https://www.4claw.org</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=47013458">https://news.ycombinator.com/item?id=47013458</a>...*
+  📅 Sat, 14 Feb 2026 10:47:01 +0000
+
+- **[Ars Technica makes up quotes from Matplotlib maintainer; pulls story](https://infosec.exchange/@mttaggart/116065340523529645)**
+  *<p>Article URL: <a href="https://infosec.exchange/@mttaggart/116065340523529645">https://infosec.exchange/@mttaggart/116065340523529645</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/i...*
+  📅 Sat, 14 Feb 2026 09:28:45 +0000
+
+- **[YouTube as Storage](https://github.com/PulseBeat02/yt-media-storage)**
+  *<p>Article URL: <a href="https://github.com/PulseBeat02/yt-media-storage">https://github.com/PulseBeat02/yt-media-storage</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=4701296...*
+  📅 Sat, 14 Feb 2026 09:10:15 +0000
+
+- **[Zig – io_uring and Grand Central Dispatch std.Io implementations landed](https://ziglang.org/devlog/2026/#2026-02-13)**
+  *<p>Article URL: <a href="https://ziglang.org/devlog/2026/#2026-02-13">https://ziglang.org/devlog/2026/#2026-02-13</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=47012717">https...*
+  📅 Sat, 14 Feb 2026 08:22:11 +0000
+
+- **[Cogram (YC W22) – Hiring former technical founders](https://www.ycombinator.com/companies/cogram/jobs/LDTrViN-ex-technical-founder-product-engineer)**
+  *<p>Article URL: <a href="https://www.ycombinator.com/companies/cogram/jobs/LDTrViN-ex-technical-founder-product-engineer">https://www.ycombinator.com/companies/cogram/jobs/LDTrViN-ex-technical-founder...*
+  📅 Sat, 14 Feb 2026 07:00:15 +0000
+
 - **[Backblaze Drive Stats for 2025](https://www.backblaze.com/blog/backblaze-drive-stats-for-2025/)**
   *<p>Article URL: <a href="https://www.backblaze.com/blog/backblaze-drive-stats-for-2025/">https://www.backblaze.com/blog/backblaze-drive-stats-for-2025/</a></p>
 <p>Comments URL: <a href="https://news.y...*
   📅 Sat, 14 Feb 2026 04:35:01 +0000
-
-- **[Show HN: SQL-tap – Real-time SQL traffic viewer for PostgreSQL and MySQL](https://github.com/mickamy/sql-tap)**
-  *<p>sql-tap is a transparent proxy that captures SQL queries by parsing the PostgreSQL/MySQL wire protocol and displays them in a terminal UI. You can run EXPLAIN on any captured query. No application ...*
-  📅 Sat, 14 Feb 2026 04:27:35 +0000
-
-- **[NPMX – a fast, modern browser for the NPM registry](https://npmx.dev)**
-  *<p>Article URL: <a href="https://npmx.dev">https://npmx.dev</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=47010823">https://news.ycombinator.com/item?id=47010823</a></p>
-<p>Po...*
-  📅 Sat, 14 Feb 2026 02:14:34 +0000
-
-- **[What dating apps are optimizing. Hint: It isn't love](https://phys.org/news/2026-02-dating-apps-optimizing-hint-isnt.html)**
-  *<p>Article URL: <a href="https://phys.org/news/2026-02-dating-apps-optimizing-hint-isnt.html">https://phys.org/news/2026-02-dating-apps-optimizing-hint-isnt.html</a></p>
-<p>Comments URL: <a href="http...*
-  📅 Sat, 14 Feb 2026 01:27:28 +0000
-
-- **[OpenAI has deleted the word 'safely' from its mission](https://theconversation.com/openai-has-deleted-the-word-safely-from-its-mission-and-its-new-structure-is-a-test-for-whether-ai-serves-society-or-shareholders-274467)**
-  *<p>See also: <a href="https://simonwillison.net/2026/Feb/13/openai-mission-statement/" rel="nofollow">https://simonwillison.net/2026/Feb/13/openai-mission-stateme...</a></p>
-<hr />
-<p>Comments URL: <a...*
-  📅 Fri, 13 Feb 2026 22:17:06 +0000
-
-- **[Show HN: Data Engineering Book – An open source, community-driven guide](https://github.com/datascale-ai/data_engineering_book/blob/main/README_en.md)**
-  *<p>Hi HN! I'm currently a Master's student at USTC (University of Science and Technology of China). I've been diving deep into Data Engineering, especially in the context of Large Language Models (LLM...*
-  📅 Fri, 13 Feb 2026 21:35:52 +0000
 
 ### 📑 TechCrunch
 
@@ -104,24 +103,15 @@
 
 ### 📑 Dev.to
 
-- **[Modern DevSecOps Needs More Than One Tool: A Practical Secure SDLC Strategy](https://dev.to/akdevcraft/modern-devsecops-requires-more-than-one-tool-a-practical-sdlc-security-strategy-4d74)**
-  *<h2>
-  
-  
-  🧠 Background: Why Multiple Analysis Tools Became Necessary
-</h2>
+- **[How We Run Lighthouse from 18 Regions in Under 2 Minutes](https://dev.to/ahojmetrics/how-we-run-lighthouse-from-18-regions-in-under-2-minutes-pd7)**
+  *<p>Most performance monitoring tools test your site from one location, or run tests sequentially across regions. That means testing from 18 locations can take 20+ minutes.</p>
 
-<p>Not long ago, software delivery was simpler. Teams wrote code, ran a static analysis tool like SonarQube during the bu...*
-  📅 Sat, 14 Feb 2026 06:24:34 +0000
+<p>We needed something ...*
+  📅 Sat, 14 Feb 2026 12:19:08 +0000
 
-- **[Floating types | Kasrsonlar | C++](https://dev.to/whysoempty/floating-types-kasrsonlar-c-3jcd)**
-  *<p>C++ da <code>floating types</code> – bu kasr sonlarni saqlash uchun ishlatiladigan ma’lumot turlari.</p>
-
-<p>1️⃣ <strong>Asosiy floating turlar</strong></p>
-
-<p>🔹<code>float</code><br />
-🔹4 bayt(32...*
-  📅 Sat, 14 Feb 2026 06:21:47 +0000
+- **[Slides Narration Video Best Practices (2Slides + Remotion) — From One Prompt to a Ready-to-Share MP4](https://dev.to/2slide_zhou_d21a141aa59f6/slides-narration-video-best-practices-2slides-remotion-from-one-prompt-to-a-ready-to-share-mp4-44gb)**
+  *<p><a class="article-body-image-wrapper" href="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fupl...*
+  📅 Sat, 14 Feb 2026 12:18:35 +0000
 
 </details>
 
@@ -129,103 +119,103 @@
 
 ### 📈 Daily Trending
 
-- **[mickamy/sql-tap](https://github.com/mickamy/sql-tap)** ⭐ 59
+- **[mickamy/sql-tap](https://github.com/mickamy/sql-tap)** ⭐ 334
   ![Go](https://img.shields.io/badge/-Go-cyan)
   Watch SQL traffic in real-time with a TUI
 
-- **[FPSZ/SeaLantern](https://github.com/FPSZ/SeaLantern)** ⭐ 22
-  ![Vue](https://img.shields.io/badge/-Vue-lightgrey)
-  一款由B站社区共创的轻量级Minecraft开服器，它的模样，由你来决定
-
-- **[liangdabiao/make-prompt-seedance2](https://github.com/liangdabiao/make-prompt-seedance2)** ⭐ 11
-  ![None](https://img.shields.io/badge/-None-lightgrey)
-  seedance2结构化提示语，整合了 Seedance 2.0（字节跳动 AI 视频生成模型）的结构化提示词使用方法，帮助用户快速上手并创作出高质量的视频内容。包含 16+ 个模板和 8+ 个示例 |
-
-- **[BiteCraft/ClipPath](https://github.com/BiteCraft/ClipPath)** ⭐ 5
-  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
-  Paste screenshots as file paths in your terminal. Built for Claude Code, Codex CLI, and AI coding agents. Copy any image, press a hotkey, and the saved     file path is typed into your active window — with automatic WSL/Windows path detection. Zero dependencies, single portable .exe
-
-- **[xuhongming251/CloudFileRelay](https://github.com/xuhongming251/CloudFileRelay)** ⭐ 4
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
-  CloudFileRelay 是一款基于 Electron + Vite 开发的桌面端应用，旨在为开发者和 AI 爱好者提供便捷的云端文件转存与下载服务。
-
-- **[abhinai2244/FileStore-Bot](https://github.com/abhinai2244/FileStore-Bot)** ⭐ 4
+- **[Infatoshi/x-cli](https://github.com/Infatoshi/x-cli)** ⭐ 50
   ![Python](https://img.shields.io/badge/-Python-blue)
-  About A powerful Telegram bot that stores posts and documents, accessible via unique links. Includes customizable auto-delete settings, support for Multi Force Subscribe channels, and optional token verification. Designed for flexibility and deployable on platforms like Heroku & Koyeb
+  CLI for X/Twitter API v2 -- post, search, like, bookmark from your terminal
 
-- **[STEALTHNET-APP/remnawave-STEALTHNET-Bot](https://github.com/STEALTHNET-APP/remnawave-STEALTHNET-Bot)** ⭐ 3
+- **[dododook/FlowZ](https://github.com/dododook/FlowZ)** ⭐ 44
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   None
 
-- **[FSZJ/Openclaw-Jarvis-dashboard](https://github.com/FSZJ/Openclaw-Jarvis-dashboard)** ⭐ 3
+- **[liangdabiao/make-prompt-seedance2](https://github.com/liangdabiao/make-prompt-seedance2)** ⭐ 35
+  ![None](https://img.shields.io/badge/-None-lightgrey)
+  seedance2结构化提示语，整合了 Seedance 2.0（字节跳动 AI 视频生成模型）的结构化提示词使用方法，帮助用户快速上手并创作出高质量的视频内容。包含 16+ 个模板和 8+ 个示例 |
+
+- **[FPSZ/SeaLantern](https://github.com/FPSZ/SeaLantern)** ⭐ 33
+  ![Vue](https://img.shields.io/badge/-Vue-lightgrey)
+  一款由B站社区共创的轻量级Minecraft开服器，它的模样，由你来决定
+
+- **[yana-yak48nchikova/torzon-darknet-link](https://github.com/yana-yak48nchikova/torzon-darknet-link)** ⭐ 32
+  ![None](https://img.shields.io/badge/-None-lightgrey)
+  TorZon Darknet Link
+
+- **[bwya77/vscode-dark-islands](https://github.com/bwya77/vscode-dark-islands)** ⭐ 28
+  ![None](https://img.shields.io/badge/-None-lightgrey)
+  VSCode theme based off the new Jetbrains islands theme 
+
+- **[viktorxhzj/feishu-webhook-skill](https://github.com/viktorxhzj/feishu-webhook-skill)** ⭐ 22
   ![Python](https://img.shields.io/badge/-Python-blue)
-  OpenClaw 贾维斯看板是一个面向 OpenClaw 多 Agent 系统的实时作战指挥中心。 它提供系统健康、Agent 运行态、任务管理与多模型用量看板（MiniMax / OpenAI / Gemini / GLM）的统一视图，支持本地 API、实时刷新与可视化配置，帮助你在一页内快速完成监控、诊断和操作。
+  A Claude Code skill for sending messages to Feishu (飞书/Lark) via Webhook.
 
 ### 📈 Weekly Trending
 
-- **[hesamsheikh/awesome-openclaw-usecases](https://github.com/hesamsheikh/awesome-openclaw-usecases)** ⭐ 2,182
+- **[hesamsheikh/awesome-openclaw-usecases](https://github.com/hesamsheikh/awesome-openclaw-usecases)** ⭐ 2,244
   ![None](https://img.shields.io/badge/-None-lightgrey)
   A community collection of OpenClaw use cases for making life easier.
 
-- **[PeonPing/peon-ping](https://github.com/PeonPing/peon-ping)** ⭐ 1,919
+- **[PeonPing/peon-ping](https://github.com/PeonPing/peon-ping)** ⭐ 1,962
   ![Shell](https://img.shields.io/badge/-Shell-lightgrey)
   Warcraft III Peon voice notifications (+ more!) for Claude Code, Codex, and other IDEs. Stop babysitting your terminal.
 
-- **[ComposioHQ/secure-openclaw](https://github.com/ComposioHQ/secure-openclaw)** ⭐ 1,496
+- **[ComposioHQ/secure-openclaw](https://github.com/ComposioHQ/secure-openclaw)** ⭐ 1,500
   ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
   A personal 24x7 AI assistant like OpenClaw that runs on your messaging platforms. Send a message on WhatsApp, Telegram, Signal, or iMessage and get responses from Claude with full tool access, persistent memory, scheduled reminders, and integrations with 500+ apps.
 
-- **[xyzeva/k-id-age-verifier](https://github.com/xyzeva/k-id-age-verifier)** ⭐ 1,421
+- **[xyzeva/k-id-age-verifier](https://github.com/xyzeva/k-id-age-verifier)** ⭐ 1,449
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   automatically verify your age on discord, twitch, kick, quora and more (k-id)
 
-- **[SumeLabs/clawra](https://github.com/SumeLabs/clawra)** ⭐ 1,298
+- **[SumeLabs/clawra](https://github.com/SumeLabs/clawra)** ⭐ 1,318
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   Clawra - Openclaw as your girlfriend
 
-- **[jlia0/tinyclaw](https://github.com/jlia0/tinyclaw)** ⭐ 1,230
+- **[jlia0/tinyclaw](https://github.com/jlia0/tinyclaw)** ⭐ 1,260
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   TinyClaw is a team of personal agents that collaborate with each other
 
-- **[f/textream](https://github.com/f/textream)** ⭐ 1,209
+- **[f/textream](https://github.com/f/textream)** ⭐ 1,220
   ![Swift](https://img.shields.io/badge/-Swift-lightgrey)
   Textream is a free macOS teleprompter app for streamers, interviewers, and presenters. It highlights your script in real-time as you speak, displayed in a beautiful Dynamic Island overlay.
 
-- **[promptpirate-x/discord-id-bypass-tool](https://github.com/promptpirate-x/discord-id-bypass-tool)** ⭐ 1,038
+- **[promptpirate-x/discord-id-bypass-tool](https://github.com/promptpirate-x/discord-id-bypass-tool)** ⭐ 1,056
   ![HTML](https://img.shields.io/badge/-HTML-lightgrey)
   A verified tool that works on any potato computer that will let you bypass discord verification
 
 ### 📈 Monthly Trending
 
-- **[affaan-m/everything-claude-code](https://github.com/affaan-m/everything-claude-code)** ⭐ 45,681
+- **[affaan-m/everything-claude-code](https://github.com/affaan-m/everything-claude-code)** ⭐ 45,797
   ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
   Complete Claude Code configuration collection - agents, skills, hooks, commands, rules, MCPs. Battle-tested configs from an Anthropic hackathon winner.
 
-- **[HKUDS/nanobot](https://github.com/HKUDS/nanobot)** ⭐ 18,506
+- **[HKUDS/nanobot](https://github.com/HKUDS/nanobot)** ⭐ 18,651
   ![Python](https://img.shields.io/badge/-Python-blue)
   "🐈 nanobot: The Ultra-Lightweight OpenClaw"
 
-- **[xai-org/x-algorithm](https://github.com/xai-org/x-algorithm)** ⭐ 15,407
+- **[xai-org/x-algorithm](https://github.com/xai-org/x-algorithm)** ⭐ 15,422
   ![Rust](https://img.shields.io/badge/-Rust-brown)
   Algorithm powering the For You feed on X
 
-- **[VoltAgent/awesome-openclaw-skills](https://github.com/VoltAgent/awesome-openclaw-skills)** ⭐ 14,735
+- **[VoltAgent/awesome-openclaw-skills](https://github.com/VoltAgent/awesome-openclaw-skills)** ⭐ 14,859
   ![None](https://img.shields.io/badge/-None-lightgrey)
   The awesome collection of OpenClaw Skills. Formerly known as Moltbot, originally Clawdbot.
 
-- **[cloudflare/moltworker](https://github.com/cloudflare/moltworker)** ⭐ 8,618
+- **[cloudflare/moltworker](https://github.com/cloudflare/moltworker)** ⭐ 8,635
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   Run OpenClaw, (formerly Moltbot, formerly Clawdbot) on Cloudflare Workers
 
-- **[qwibitai/nanoclaw](https://github.com/qwibitai/nanoclaw)** ⭐ 8,057
+- **[qwibitai/nanoclaw](https://github.com/qwibitai/nanoclaw)** ⭐ 8,161
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   A lightweight alternative to Clawdbot / OpenClaw that runs in Apple containers for security. Connects to WhatsApp, has memory, scheduled jobs, and runs directly on Anthropic's Agents SDK
 
-- **[QwenLM/Qwen3-TTS](https://github.com/QwenLM/Qwen3-TTS)** ⭐ 7,644
+- **[QwenLM/Qwen3-TTS](https://github.com/QwenLM/Qwen3-TTS)** ⭐ 7,659
   ![Python](https://img.shields.io/badge/-Python-blue)
   Qwen3-TTS is an open-source series of TTS models developed by the Qwen team at Alibaba Cloud, supporting stable, expressive, and streaming speech generation, free-form voice design, and vivid voice cloning.
 
-- **[anthropics/knowledge-work-plugins](https://github.com/anthropics/knowledge-work-plugins)** ⭐ 7,274
+- **[anthropics/knowledge-work-plugins](https://github.com/anthropics/knowledge-work-plugins)** ⭐ 7,290
   ![Python](https://img.shields.io/badge/-Python-blue)
   Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork
 
@@ -494,40 +484,40 @@ See [kubernetes-announce@](https://groups.google.com/forum/#!forum/kubernetes-an
 
 | Skill | Status |
 |-------|--------|
-| Java | 🔴 Beginner |
-| Python | ⚪ Planned |
-| JavaScript | 🟡 Learning |
-| TypeScript | 🔴 Beginner |
-| Go | ⚪ Planned |
+| Java | 🟡 Learning |
+| Python | 🟢 Proficient |
+| JavaScript | 🟢 Proficient |
+| TypeScript | 🟡 Learning |
+| Go | 🔴 Beginner |
 
 ### Frameworks
 
 | Skill | Status |
 |-------|--------|
 | React | 🔴 Beginner |
-| Spring Boot | 🔴 Beginner |
+| Spring Boot | 🟢 Proficient |
 | Django | 🔴 Beginner |
-| Node.js | ⚪ Planned |
-| Next.js | 🟡 Learning |
+| Node.js | 🟡 Learning |
+| Next.js | 🟢 Proficient |
 
 ### Cybersecurity
 
 | Skill | Status |
 |-------|--------|
-| Penetration Testing | 🟢 Proficient |
-| Web Security | 🟡 Learning |
-| Network Security | 🔴 Beginner |
+| Penetration Testing | 🟡 Learning |
+| Web Security | ⚪ Planned |
+| Network Security | 🟡 Learning |
 | OWASP | ⚪ Planned |
 
 ### Ai Ml
 
 | Skill | Status |
 |-------|--------|
-| Machine Learning | 🟢 Proficient |
+| Machine Learning | 🟡 Learning |
 | Deep Learning | ⚪ Planned |
-| NLP | 🟡 Learning |
-| Computer Vision | ⚪ Planned |
-| TensorFlow | 🟢 Proficient |
+| NLP | 🟢 Proficient |
+| Computer Vision | 🟡 Learning |
+| TensorFlow | 🔴 Beginner |
 | PyTorch | ⚪ Planned |
 
 ### Devops
@@ -535,18 +525,18 @@ See [kubernetes-announce@](https://groups.google.com/forum/#!forum/kubernetes-an
 | Skill | Status |
 |-------|--------|
 | Docker | ⚪ Planned |
-| Kubernetes | 🟡 Learning |
+| Kubernetes | 🟢 Proficient |
 | CI/CD | ⚪ Planned |
-| AWS | 🟢 Proficient |
-| Azure | 🟢 Proficient |
+| AWS | ⚪ Planned |
+| Azure | ⚪ Planned |
 
 ### Other
 
 | Skill | Status |
 |-------|--------|
 | Blockchain | 🟡 Learning |
-| Web3 | ⚪ Planned |
-| Cloud Computing | 🟢 Proficient |
+| Web3 | 🟢 Proficient |
+| Cloud Computing | 🔴 Beginner |
 
 </details>
 
