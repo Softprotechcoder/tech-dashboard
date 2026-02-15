@@ -46,33 +46,32 @@
 
 ### 📑 Hacker News
 
+- **[I gave my AI drugs](https://github.com/nich2533/just_say_no)**
+  *<p>Article URL: <a href="https://github.com/nich2533/just_say_no">https://github.com/nich2533/just_say_no</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=47021322">https://news....*
+  📅 Sun, 15 Feb 2026 05:33:07 +0000
+
+- **[Linear Representations and Superposition](http://ternarysearch.blogspot.com/2026/02/linear-representations-and-superposition.html)**
+  *<p>Article URL: <a href="http://ternarysearch.blogspot.com/2026/02/linear-representations-and-superposition.html">http://ternarysearch.blogspot.com/2026/02/linear-representations-and-superposition.htm...*
+  📅 Sun, 15 Feb 2026 04:29:44 +0000
+
+- **[Guitars of the USSR and the Jolana Special in Azerbaijani Music](https://caucascapades.wordpress.com/2012/06/14/guitars-of-the-ussr-and-the-jolana-special-in-azerbaijani-music/)**
+  *<p>Article URL: <a href="https://caucascapades.wordpress.com/2012/06/14/guitars-of-the-ussr-and-the-jolana-special-in-azerbaijani-music/">https://caucascapades.wordpress.com/2012/06/14/guitars-of-the-...*
+  📅 Sun, 15 Feb 2026 03:29:39 +0000
+
+- **[NewPipe: YouTube client without vertical videos and algorithmic feed](https://newpipe.net/)**
+  *<p>Article URL: <a href="https://newpipe.net/">https://newpipe.net/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=47020218">https://news.ycombinator.com/item?id=47020218</a></...*
+  📅 Sun, 15 Feb 2026 01:24:16 +0000
+
+- **[I love the work of the ArchWiki maintainers](https://k7r.eu/i-love-the-work-of-the-archwiki-maintainers/)**
+  *<p>Article URL: <a href="https://k7r.eu/i-love-the-work-of-the-archwiki-maintainers/">https://k7r.eu/i-love-the-work-of-the-archwiki-maintainers/</a></p>
+<p>Comments URL: <a href="https://news.ycombin...*
+  📅 Sun, 15 Feb 2026 01:20:58 +0000
+
 - **[Show HN: Off Grid – Run AI text, image gen, vision offline on your phone](https://github.com/alichherawalla/off-grid-mobile)**
   *<p>Your phone has a GPU more powerful than most 2018 laptops. Right now it sits idle while you pay monthly subscriptions to run AI on someone else's server, sending your conversations, your photos, yo...*
   📅 Sat, 14 Feb 2026 22:39:24 +0000
-
-- **[Colored Petri Nets, LLMs, and distributed applications](https://blog.sao.dev/cpns-llms-distributed-apps/)**
-  *<p>Article URL: <a href="https://blog.sao.dev/cpns-llms-distributed-apps/">https://blog.sao.dev/cpns-llms-distributed-apps/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=47018...*
-  📅 Sat, 14 Feb 2026 21:08:08 +0000
-
-- **[Descent, ported to the web](https://mrdoob.github.io/three-descent/)**
-  *<p>Article URL: <a href="https://mrdoob.github.io/three-descent/">https://mrdoob.github.io/three-descent/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=47017545">https://news....*
-  📅 Sat, 14 Feb 2026 19:33:24 +0000
-
-- **[News publishers limit Internet Archive access due to AI scraping concerns](https://www.niemanlab.org/2026/01/news-publishers-limit-internet-archive-access-due-to-ai-scraping-concerns/)**
-  *<p>Article URL: <a href="https://www.niemanlab.org/2026/01/news-publishers-limit-internet-archive-access-due-to-ai-scraping-concerns/">https://www.niemanlab.org/2026/01/news-publishers-limit-internet-...*
-  📅 Sat, 14 Feb 2026 18:46:32 +0000
-
-- **[A header-only C vector database library](https://github.com/abdimoallim/vdb)**
-  *<p>Article URL: <a href="https://github.com/abdimoallim/vdb">https://github.com/abdimoallim/vdb</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=47016530">https://news.ycombinato...*
-  📅 Sat, 14 Feb 2026 17:45:09 +0000
-
-- **[uBlock filter list to hide all YouTube Shorts](https://github.com/i5heu/ublock-hide-yt-shorts/)**
-  *<p>Article URL: <a href="https://github.com/i5heu/ublock-hide-yt-shorts/">https://github.com/i5heu/ublock-hide-yt-shorts/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=4701644...*
-  📅 Sat, 14 Feb 2026 17:36:45 +0000
 
 ### 📑 TechCrunch
 
@@ -102,29 +101,21 @@
 
 ### 📑 Dev.to
 
-- **[We Built Voice Chat That Lives Entirely in Your Terminal (Yes, Really)](https://dev.to/_boweii/we-built-voice-chat-that-lives-entirely-in-your-terminal-yes-really-3i9k)**
-  *<p><em>This is a submission for the <a href="https://dev.to/challenges/github-2026-01-21">GitHub Copilot CLI Challenge</a></em></p>
-
-<h2>
+- **[The Symbol for All of Us is Null](https://dev.to/goodrelax/the-symbol-for-all-of-us-is-null-59kn)**
+  *<h2>
   
   
-  What we Built
+  <strong>The Symbol for All of Us is Null</strong>
 </h2>
 
-<p><strong>VoiceSync</strong> — b...*
-  📅 Sun, 15 Feb 2026 01:18:21 +0000
+<p>You might be thinking, "What is this guy even talking about?"</p>
 
-- **[CodePoet: Transform Your Git History Into Epic Poetry with GitHub Copilot CLI 🎭](https://dev.to/codecrinkly/codepoet-transform-your-git-history-into-epic-poetry-with-github-copilot-cli-5f6m)**
-  *<p><em>This is a submission for the <a href="https://dev.to/challenges/github-2026-01-21">GitHub Copilot CLI Challenge</a></em></p>
+<p>But if you've found your way to this post, I have a feeli...*
+  📅 Sun, 15 Feb 2026 06:21:54 +0000
 
-<h2>
-  
-  
-  What I Built
-</h2>
-
-<p><strong>CodePoet</strong> 🎭 - A...*
-  📅 Sun, 15 Feb 2026 01:07:14 +0000
+- **[8-Bit Music Theory: How They Made The Great Sea Feel C U R S E D](https://dev.to/music_youtube/8-bit-music-theory-how-they-made-the-great-sea-feel-c-u-r-s-e-d-55p6)**
+  *<p>Ever wondered how Wind Waker's "The Great Sea is Cursed" takes a chill sailing theme and makes it spine-tingling? Turns out, it's all about dropping some musical bombshells like tritones and clashi...*
+  📅 Sun, 15 Feb 2026 06:06:02 +0000
 
 </details>
 
@@ -132,103 +123,103 @@
 
 ### 📈 Daily Trending
 
-- **[remmy-cod3s/xkcd-comic-scraper](https://github.com/remmy-cod3s/xkcd-comic-scraper)** ⭐ 1
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  Automated web scraper that downloads and archives comics from xkcd.com using Python, BeautifulSoup library, and Requests
+- **[HARIPRIYASIVARAMAN/AI-Answer-Evaluation-System](https://github.com/HARIPRIYASIVARAMAN/AI-Answer-Evaluation-System)** ⭐ 15
+  ![HTML](https://img.shields.io/badge/-HTML-lightgrey)
+  Multimodal AI-based student answer evaluation using NLP and Whisper.
 
-- **[GGmanaus/gestor-trafego-site](https://github.com/GGmanaus/gestor-trafego-site)** ⭐ 1
-  ![None](https://img.shields.io/badge/-None-lightgrey)
+- **[MrFadiAi/openclaw-one-click-installer](https://github.com/MrFadiAi/openclaw-one-click-installer)** ⭐ 15
+  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
+  OpenClaw One Click Installer - A desktop manager for OpenClaw
+
+- **[longtho638-jpg/openclaw-worker](https://github.com/longtho638-jpg/openclaw-worker)** ⭐ 15
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
+  🦞 Autonomous AI Swarm Engine — Drop a file, watch 3 AI agents execute in parallel. Built on Claude Code CLI + tmux.
+
+- **[krithiksha2006/password-checker](https://github.com/krithiksha2006/password-checker)** ⭐ 13
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
+  A Java based password strength checker that validates input using predefined security constraints
+
+- **[Jane-xiaoer/x-fetcher](https://github.com/Jane-xiaoer/x-fetcher)** ⭐ 13
+  ![Python](https://img.shields.io/badge/-Python-blue)
   None
 
-- **[promadod/MoveON---Aplicativo-do-Passageiro-](https://github.com/promadod/MoveON---Aplicativo-do-Passageiro-)** ⭐ 1
-  ![Dart](https://img.shields.io/badge/-Dart-lightgrey)
-  O **MoveON Cliente** é a interface dedicada aos passageiros do nosso ecossistema SaaS de mobilidade. Desenvolvido para ser leve, rápido e intuitivo, o app permite que os clientes solicitem corridas imediatas, façam agendamentos e saibam exatamente o valor da viagem antes mesmo de chamar o motorista.
+- **[dontbesilent2025/extract-getnote-articles](https://github.com/dontbesilent2025/extract-getnote-articles)** ⭐ 9
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
+  高效的 Claude Code Skill，用于自动提取 Get笔记知识库中的所有文章
 
-- **[sliu1989/methodops](https://github.com/sliu1989/methodops)** ⭐ 1
-  ![None](https://img.shields.io/badge/-None-lightgrey)
-  Human-governed research CI/CD with policy skills, approval gates, and iterative improvement.
+- **[salem98/kmp-lalamove-clone](https://github.com/salem98/kmp-lalamove-clone)** ⭐ 7
+  ![Kotlin](https://img.shields.io/badge/-Kotlin-lightgrey)
+  Kotlin Multiplatform Lalamove Clone với Compose Multiplatform - Premium UI, VIPER Architecture, Material Design 3. Sản phẩm của TechNext Solutions
 
-- **[xmoroix/DASHX](https://github.com/xmoroix/DASHX)** ⭐ 1
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  None
-
-- **[michaelhassandev/pro-CMS-chatbot-server](https://github.com/michaelhassandev/pro-CMS-chatbot-server)** ⭐ 1
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  CMS chatbot server
-
-- **[BackTItleSolutions/bth-next.js-app](https://github.com/BackTItleSolutions/bth-next.js-app)** ⭐ 1
-  ![None](https://img.shields.io/badge/-None-lightgrey)
-  None
-
-- **[LTX128/ESP_Flasher](https://github.com/LTX128/ESP_Flasher)** ⭐ 1
-  ![None](https://img.shields.io/badge/-None-lightgrey)
-  ⚡ .bin flasher for M5 Stack, T-Embed, ESP32, ESP8266, and more made in python ! ( Only ESP )
+- **[penk/X4Term](https://github.com/penk/X4Term)** ⭐ 6
+  ![C++](https://img.shields.io/badge/-C++-pink)
+  Pocket VT100 terminal
 
 ### 📈 Weekly Trending
 
-- **[PeonPing/peon-ping](https://github.com/PeonPing/peon-ping)** ⭐ 2,036
+- **[PeonPing/peon-ping](https://github.com/PeonPing/peon-ping)** ⭐ 2,056
   ![Shell](https://img.shields.io/badge/-Shell-lightgrey)
   Warcraft III Peon voice notifications (+ more!) for Claude Code, Codex, and other IDEs. Stop babysitting your terminal.
 
-- **[xyzeva/k-id-age-verifier](https://github.com/xyzeva/k-id-age-verifier)** ⭐ 1,497
-  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
-  automatically verify your age on discord, twitch, kick, quora and more (k-id)
-
-- **[jlia0/tinyclaw](https://github.com/jlia0/tinyclaw)** ⭐ 1,372
-  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
-  TinyClaw is a team of personal agents that collaborate with each other
-
-- **[promptpirate-x/discord-id-bypass-tool](https://github.com/promptpirate-x/discord-id-bypass-tool)** ⭐ 1,085
-  ![HTML](https://img.shields.io/badge/-HTML-lightgrey)
-  A verified tool that works on any potato computer that will let you bypass discord verification
-
-- **[theonlyhennygod/zeroclaw](https://github.com/theonlyhennygod/zeroclaw)** ⭐ 885
+- **[theonlyhennygod/zeroclaw](https://github.com/theonlyhennygod/zeroclaw)** ⭐ 1,631
   ![Rust](https://img.shields.io/badge/-Rust-brown)
   claw done right 🦀
 
-- **[RevylAI/greenlight](https://github.com/RevylAI/greenlight)** ⭐ 812
+- **[xyzeva/k-id-age-verifier](https://github.com/xyzeva/k-id-age-verifier)** ⭐ 1,508
+  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
+  automatically verify your age on discord, twitch, kick, quora and more (k-id)
+
+- **[jlia0/tinyclaw](https://github.com/jlia0/tinyclaw)** ⭐ 1,454
+  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
+  TinyClaw is a team of personal agents that collaborate with each other
+
+- **[promptpirate-x/discord-id-bypass-tool](https://github.com/promptpirate-x/discord-id-bypass-tool)** ⭐ 1,092
+  ![HTML](https://img.shields.io/badge/-HTML-lightgrey)
+  A verified tool that works on any potato computer that will let you bypass discord verification
+
+- **[RevylAI/greenlight](https://github.com/RevylAI/greenlight)** ⭐ 814
   ![Go](https://img.shields.io/badge/-Go-cyan)
   Pre-submission compliance scanner for the Apple App Store
 
-- **[zai-org/GLM-5](https://github.com/zai-org/GLM-5)** ⭐ 782
+- **[zai-org/GLM-5](https://github.com/zai-org/GLM-5)** ⭐ 810
   ![None](https://img.shields.io/badge/-None-lightgrey)
   GLM-5: From Vibe Coding to Agentic Engineering
 
-- **[mickamy/sql-tap](https://github.com/mickamy/sql-tap)** ⭐ 572
+- **[mickamy/sql-tap](https://github.com/mickamy/sql-tap)** ⭐ 618
   ![Go](https://img.shields.io/badge/-Go-cyan)
   Watch SQL traffic in real-time with a TUI
 
 ### 📈 Monthly Trending
 
-- **[affaan-m/everything-claude-code](https://github.com/affaan-m/everything-claude-code)** ⭐ 46,005
+- **[affaan-m/everything-claude-code](https://github.com/affaan-m/everything-claude-code)** ⭐ 46,127
   ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
   Complete Claude Code configuration collection - agents, skills, hooks, commands, rules, MCPs. Battle-tested configs from an Anthropic hackathon winner.
 
-- **[HKUDS/nanobot](https://github.com/HKUDS/nanobot)** ⭐ 18,915
+- **[HKUDS/nanobot](https://github.com/HKUDS/nanobot)** ⭐ 19,023
   ![Python](https://img.shields.io/badge/-Python-blue)
   "🐈 nanobot: The Ultra-Lightweight OpenClaw"
 
-- **[xai-org/x-algorithm](https://github.com/xai-org/x-algorithm)** ⭐ 15,441
+- **[xai-org/x-algorithm](https://github.com/xai-org/x-algorithm)** ⭐ 15,445
   ![Rust](https://img.shields.io/badge/-Rust-brown)
   Algorithm powering the For You feed on X
 
-- **[VoltAgent/awesome-openclaw-skills](https://github.com/VoltAgent/awesome-openclaw-skills)** ⭐ 15,038
+- **[VoltAgent/awesome-openclaw-skills](https://github.com/VoltAgent/awesome-openclaw-skills)** ⭐ 15,135
   ![None](https://img.shields.io/badge/-None-lightgrey)
   The awesome collection of OpenClaw Skills. Formerly known as Moltbot, originally Clawdbot.
 
-- **[cloudflare/moltworker](https://github.com/cloudflare/moltworker)** ⭐ 8,675
+- **[cloudflare/moltworker](https://github.com/cloudflare/moltworker)** ⭐ 8,687
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   Run OpenClaw, (formerly Moltbot, formerly Clawdbot) on Cloudflare Workers
 
-- **[qwibitai/nanoclaw](https://github.com/qwibitai/nanoclaw)** ⭐ 8,300
+- **[qwibitai/nanoclaw](https://github.com/qwibitai/nanoclaw)** ⭐ 8,350
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   A lightweight alternative to Clawdbot / OpenClaw that runs in containers for security. Connects to WhatsApp, has memory, scheduled jobs, and runs directly on Anthropic's Agents SDK
 
-- **[sipeed/picoclaw](https://github.com/sipeed/picoclaw)** ⭐ 7,720
+- **[sipeed/picoclaw](https://github.com/sipeed/picoclaw)** ⭐ 8,186
   ![Go](https://img.shields.io/badge/-Go-cyan)
   picoclaw
 
-- **[QwenLM/Qwen3-TTS](https://github.com/QwenLM/Qwen3-TTS)** ⭐ 7,684
+- **[QwenLM/Qwen3-TTS](https://github.com/QwenLM/Qwen3-TTS)** ⭐ 7,699
   ![Python](https://img.shields.io/badge/-Python-blue)
   Qwen3-TTS is an open-source series of TTS models developed by the Qwen team at Alibaba Cloud, supporting stable, expressive, and streaming speech generation, free-form voice design, and vivid voice cloning.
 
@@ -498,57 +489,57 @@ See [kubernetes-announce@](https://groups.google.com/forum/#!forum/kubernetes-an
 | Skill | Status |
 |-------|--------|
 | Java | 🔴 Beginner |
-| Python | 🟢 Proficient |
-| JavaScript | ⚪ Planned |
-| TypeScript | 🟢 Proficient |
-| Go | 🔴 Beginner |
+| Python | 🟡 Learning |
+| JavaScript | 🔴 Beginner |
+| TypeScript | ⚪ Planned |
+| Go | ⚪ Planned |
 
 ### Frameworks
 
 | Skill | Status |
 |-------|--------|
-| React | 🟢 Proficient |
-| Spring Boot | ⚪ Planned |
-| Django | 🟡 Learning |
-| Node.js | 🟢 Proficient |
-| Next.js | 🟢 Proficient |
+| React | 🟡 Learning |
+| Spring Boot | 🔴 Beginner |
+| Django | 🔴 Beginner |
+| Node.js | 🟡 Learning |
+| Next.js | 🟡 Learning |
 
 ### Cybersecurity
 
 | Skill | Status |
 |-------|--------|
-| Penetration Testing | 🟡 Learning |
-| Web Security | 🟡 Learning |
-| Network Security | 🟡 Learning |
+| Penetration Testing | ⚪ Planned |
+| Web Security | 🟢 Proficient |
+| Network Security | 🟢 Proficient |
 | OWASP | 🟢 Proficient |
 
 ### Ai Ml
 
 | Skill | Status |
 |-------|--------|
-| Machine Learning | 🔴 Beginner |
-| Deep Learning | 🔴 Beginner |
-| NLP | 🟡 Learning |
-| Computer Vision | 🟢 Proficient |
+| Machine Learning | 🟢 Proficient |
+| Deep Learning | 🟡 Learning |
+| NLP | 🟢 Proficient |
+| Computer Vision | 🔴 Beginner |
 | TensorFlow | 🟡 Learning |
-| PyTorch | ⚪ Planned |
+| PyTorch | 🟢 Proficient |
 
 ### Devops
 
 | Skill | Status |
 |-------|--------|
-| Docker | 🟢 Proficient |
-| Kubernetes | ⚪ Planned |
-| CI/CD | 🟡 Learning |
-| AWS | 🟢 Proficient |
+| Docker | 🔴 Beginner |
+| Kubernetes | 🔴 Beginner |
+| CI/CD | 🟢 Proficient |
+| AWS | ⚪ Planned |
 | Azure | 🔴 Beginner |
 
 ### Other
 
 | Skill | Status |
 |-------|--------|
-| Blockchain | 🟡 Learning |
-| Web3 | 🟡 Learning |
+| Blockchain | 🟢 Proficient |
+| Web3 | ⚪ Planned |
 | Cloud Computing | ⚪ Planned |
 
 </details>
