@@ -46,75 +46,72 @@
 
 ### 📑 Hacker News
 
-- **[Two different tricks for fast LLM inference](https://www.seangoedecke.com/fast-llm-inference/)**
-  *<p>Article URL: <a href="https://www.seangoedecke.com/fast-llm-inference/">https://www.seangoedecke.com/fast-llm-inference/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=47022...*
-  📅 Sun, 15 Feb 2026 09:27:33 +0000
+- **[Palantir Gets Millions of Dollars from New York City's Public Hospitals](https://theintercept.com/2026/02/15/palantir-contract-new-york-city-health-hospitals/)**
+  *<p>Article URL: <a href="https://theintercept.com/2026/02/15/palantir-contract-new-york-city-health-hospitals/">https://theintercept.com/2026/02/15/palantir-contract-new-york-city-health-hospitals/</a...*
+  📅 Sun, 15 Feb 2026 17:37:10 +0000
 
-- **[Seeing Theory](https://seeing-theory.brown.edu/)**
-  *<p>Article URL: <a href="https://seeing-theory.brown.edu/">https://seeing-theory.brown.edu/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=47022067">https://news.ycombinator.co...*
-  📅 Sun, 15 Feb 2026 08:40:12 +0000
+- **[LT6502: A 6502-based homebrew laptop](https://github.com/TechPaula/LT6502)**
+  *<p>Article URL: <a href="https://github.com/TechPaula/LT6502">https://github.com/TechPaula/LT6502</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=47025399">https://news.ycombina...*
+  📅 Sun, 15 Feb 2026 17:12:35 +0000
 
-- **[Discord Distances Itself from Peter Thiel's Palantir Age Verification Firm](https://kotaku.com/discord-palantir-peter-thiel-persona-age-verification-2000668951)**
-  *<p>Article URL: <a href="https://kotaku.com/discord-palantir-peter-thiel-persona-age-verification-2000668951">https://kotaku.com/discord-palantir-peter-thiel-persona-age-verification-2000668951</a></p...*
-  📅 Sun, 15 Feb 2026 06:00:42 +0000
+- **[EU bans the destruction of unsold apparel, clothing, accessories and footwear](https://environment.ec.europa.eu/news/new-eu-rules-stop-destruction-unsold-clothes-and-shoes-2026-02-09_en)**
+  *<p>Article URL: <a href="https://environment.ec.europa.eu/news/new-eu-rules-stop-destruction-unsold-clothes-and-shoes-2026-02-09_en">https://environment.ec.europa.eu/news/new-eu-rules-stop-destruction...*
+  📅 Sun, 15 Feb 2026 17:10:18 +0000
 
-- **[Flashpoint Archive – Over 200k web games and animations preserved](https://flashpointarchive.org)**
-  *<p>Article URL: <a href="https://flashpointarchive.org">https://flashpointarchive.org</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=47021354">https://news.ycombinator.com/item...*
-  📅 Sun, 15 Feb 2026 05:43:59 +0000
+- **[Palantir vs. the "Republik": US analytics firm takes magazine to court](https://www.heise.de/en/news/Palantir-vs-the-Republik-US-analytics-firm-takes-magazine-to-court-11176508.html)**
+  *<p>Article URL: <a href="https://www.heise.de/en/news/Palantir-vs-the-Republik-US-analytics-firm-takes-magazine-to-court-11176508.html">https://www.heise.de/en/news/Palantir-vs-the-Republik-US-analyti...*
+  📅 Sun, 15 Feb 2026 16:51:17 +0000
 
-- **[Guitars of the USSR and the Jolana Special in Azerbaijani Music](https://caucascapades.wordpress.com/2012/06/14/guitars-of-the-ussr-and-the-jolana-special-in-azerbaijani-music/)**
-  *<p>Article URL: <a href="https://caucascapades.wordpress.com/2012/06/14/guitars-of-the-ussr-and-the-jolana-special-in-azerbaijani-music/">https://caucascapades.wordpress.com/2012/06/14/guitars-of-the-...*
-  📅 Sun, 15 Feb 2026 03:29:39 +0000
+- **[Hideki Sato, designer of all Sega's consoles, has died](https://www.videogameschronicle.com/news/hideki-sato-designer-of-segas-consoles-dies-age-75/)**
+  *<p>Article URL: <a href="https://www.videogameschronicle.com/news/hideki-sato-designer-of-segas-consoles-dies-age-75/">https://www.videogameschronicle.com/news/hideki-sato-designer-of-segas-consoles-d...*
+  📅 Sun, 15 Feb 2026 16:19:51 +0000
 
-- **[NewPipe: YouTube client without vertical videos and algorithmic feed](https://newpipe.net/)**
-  *<p>Article URL: <a href="https://newpipe.net/">https://newpipe.net/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=47020218">https://news.ycombinator.com/item?id=47020218</a></...*
-  📅 Sun, 15 Feb 2026 01:24:16 +0000
+- **[An Enslaved Gardener Transformed the Pecan into a Cash Crop](https://lithub.com/how-an-enslaved-gardener-transformed-the-pecan-into-a-cash-crop/)**
+  *<p>Article URL: <a href="https://lithub.com/how-an-enslaved-gardener-transformed-the-pecan-into-a-cash-crop/">https://lithub.com/how-an-enslaved-gardener-transformed-the-pecan-into-a-cash-crop/</a></p...*
+  📅 Sun, 15 Feb 2026 15:53:13 +0000
 
 ### 📑 TechCrunch
 
-- **[The great computer science exodus (and where students are going instead)](https://techcrunch.com/2026/02/15/the-great-computer-science-exodus-and-where-students-are-going-instead/)**
-  *Students are losing some interest in computer science broadly but gaining interest in AI-specific majors and courses....*
-  📅 Sun, 15 Feb 2026 08:40:27 +0000
+- **[India has 100M weekly active ChatGPT users, Sam Altman says](https://techcrunch.com/2026/02/15/india-has-100m-weekly-active-chatgpt-users-sam-altman-says/)**
+  *OpenAI CEO Sam Altman says India has the largest number of student users of ChatGPT worldwide....*
+  📅 Sun, 15 Feb 2026 18:00:00 +0000
 
-- **[Homeland Security reportedly sent hundreds of subpoenas seeking to unmask anti-ICE accounts](https://techcrunch.com/2026/02/14/homeland-security-reportedly-sent-hundreds-of-subpoenas-seeking-to-unmask-anti-ice-accounts/)**
-  *The Department of Homeland Security has been increasing pressure on tech companies to identify the owners of accounts that criticize ICE....*
-  📅 Sat, 14 Feb 2026 22:30:00 +0000
+- **[The enterprise AI land grab is on. Glean is building the layer beneath the interface.](https://techcrunch.com/2026/02/15/the-enterprise-ai-land-grab-is-on-glean-is-building-the-layer-beneath-the-interface/)**
+  *In this week's episode of the Equity podcast, Glean CEO Arvind Jain explains the company's shift from enterprise search tool to middleware layer for enterprise AI....*
+  📅 Sun, 15 Feb 2026 17:30:00 +0000
 
-- **[Is safety ‘dead’ at xAI?](https://techcrunch.com/2026/02/14/is-safety-is-dead-at-xai/)**
-  *Elon Musk is “actively” working to make xAI’s Grok chatbot “more unhinged, according to a former employee....*
-  📅 Sat, 14 Feb 2026 21:55:44 +0000
+- **[TechCrunch Mobility: Rivian’s savior](https://techcrunch.com/2026/02/15/techcrunch-mobility-rivians-savior/)**
+  *Welcome back to TechCrunch Mobility — your central hub for news and insights on the future of transportation....*
+  📅 Sun, 15 Feb 2026 17:05:00 +0000
 
-- **[In a changed VC landscape, this exec is doubling down on overlooked founders](https://techcrunch.com/2026/02/14/stacy-brown-philpot-cherryrock-capital-vc/)**
-  *As much of Silicon Valley chases mega-rounds and buzzy AI deals, Stacy Brown-Philpot is running Cherryrock Capital like a throwback to venture capital's earlier days...*
-  📅 Sat, 14 Feb 2026 20:37:42 +0000
+- **[What the Epstein files reveal about EV startups and Silicon Valley](https://techcrunch.com/2026/02/15/what-the-epstein-files-reveal-about-ev-startups-and-silicon-valley/)**
+  *Will the Epstein revelations lead to broader fallout in Silicon Valley?...*
+  📅 Sun, 15 Feb 2026 16:54:12 +0000
 
-- **[‘Clueless’ -inspired app Alta partners with brand Public School to start integrating styling tools into websites](https://techcrunch.com/2026/02/14/clueless-inspired-app-alta-partners-with-brand-public-school-to-start-integrating-styling-tools-into-websites/)**
-  *This week, Alta unveiled its first integration collaboration, teaming up with Public School, a storied New York City brand....*
-  📅 Sat, 14 Feb 2026 19:00:00 +0000
+- **[How to get into a16z’s super-competitive Speedrun startup accelerator program](https://techcrunch.com/2026/02/15/how-to-get-into-a16zs-super-competitive-speedrun-startup-accelerator-program/)**
+  *TechCrunch spoke to a16z partner Joshua Lu for some tips on standing out for the Speedrun program....*
+  📅 Sun, 15 Feb 2026 15:53:53 +0000
 
-- **[Hollywood isn’t happy about the new Seedance 2.0 video generator](https://techcrunch.com/2026/02/14/hollywood-isnt-happy-about-the-new-seedance-2-0-video-generator/)**
+- **[Hollywood isn’t happy about the new Seedance 2.0 video generator](https://techcrunch.com/2026/02/15/hollywood-isnt-happy-about-the-new-seedance-2-0-video-generator/)**
   *Hollywood organizations are pushing back against a new AI video model called Seedance 2.0, which they say has quickly become a tool for “blatant” copyright infringement....*
-  📅 Sat, 14 Feb 2026 18:26:52 +0000
+  📅 Sun, 15 Feb 2026 15:41:16 +0000
 
 ### 📑 Dev.to
 
-- **[From Idea to Maintainable UI: A Practical React/TS Sprint Workflow](https://dev.to/semosem_20/from-idea-to-maintainable-ui-a-practical-reactts-sprint-workflow-4fak)**
-  *<h1>
-  
-  
-  From Idea to Maintainable UI: A Practical React/TS Sprint Workflow
-</h1>
+- **[The Codex App: A New Era in Autonomous AI Coding](https://dev.to/alifar/openai-codex-app-are-we-entering-the-era-of-autonomous-software-development-3kho)**
+  *<p>AI coding assistants are not new. Autocomplete, inline suggestions, and quick refactors have been standard for years.</p>
 
-<p>Most React projects don’t fail because React is hard. They fail because boundaries get fuzzy: API shapes aren’...*
-  📅 Sun, 15 Feb 2026 12:26:26 +0000
+<p>The OpenAI Codex app is different.</p>
 
-- **[Call by sharing: Understanding why JavaScript does NOT pass objects By Reference](https://dev.to/della_codes/call-by-sharing-understanding-why-javascript-does-not-pass-objects-by-reference-1npk)**
-  *<p>For a long time I thought primitive types are shared by value and objects are shared by reference in javascript. Today I learned however that javascript always pass by value (According to the ECMAS...*
-  📅 Sun, 15 Feb 2026 12:21:59 +0000
+<p>It does not just suggest cod...*
+  📅 Sun, 15 Feb 2026 18:17:15 +0000
+
+- **[How to design a Simple URL Shortener(TinyURL)](https://dev.to/ganesh_parella/how-to-design-a-simple-url-shortenertinyurl-3n2m)**
+  *<p>TinyURL is often called the “Hello World” of system design because it has minimal requirements but forces us to think about scalability, caching, ID generation, and bottlenecks.</p>
+
+<p>Let’s desig...*
+  📅 Sun, 15 Feb 2026 18:16:36 +0000
 
 </details>
 
@@ -122,103 +119,103 @@
 
 ### 📈 Daily Trending
 
-- **[Jane-xiaoer/x-fetcher](https://github.com/Jane-xiaoer/x-fetcher)** ⭐ 32
+- **[Jane-xiaoer/x-fetcher](https://github.com/Jane-xiaoer/x-fetcher)** ⭐ 50
   ![Python](https://img.shields.io/badge/-Python-blue)
   None
 
-- **[MrFadiAi/openclaw-one-click-installer](https://github.com/MrFadiAi/openclaw-one-click-installer)** ⭐ 28
+- **[Companysadenote/Lossless-Scaling-v.3.22-Tools](https://github.com/Companysadenote/Lossless-Scaling-v.3.22-Tools)** ⭐ 47
+  ![C++](https://img.shields.io/badge/-C++-pink)
+  Lossless Scaling 3.22 — free AI tool to boost FPS in games.
+
+- **[apxutekror94stonnfi/Exit-Lag-Tool-2026](https://github.com/apxutekror94stonnfi/Exit-Lag-Tool-2026)** ⭐ 47
+  ![None](https://img.shields.io/badge/-None-lightgrey)
+  ExitLag | Exit-Lag | Pro | Version | Vers | 5.19.0 | 2026 | Free |
+
+- **[MrFadiAi/openclaw-one-click-installer](https://github.com/MrFadiAi/openclaw-one-click-installer)** ⭐ 44
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   OpenClaw One Click Installer - A desktop manager for OpenClaw
 
-- **[dontbesilent2025/extract-getnote-articles](https://github.com/dontbesilent2025/extract-getnote-articles)** ⭐ 27
+- **[dontbesilent2025/extract-getnote-articles](https://github.com/dontbesilent2025/extract-getnote-articles)** ⭐ 43
   ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
   高效的 Claude Code Skill，用于自动提取 Get笔记知识库中的所有文章
 
-- **[HARIPRIYASIVARAMAN/AI-Answer-Evaluation-System](https://github.com/HARIPRIYASIVARAMAN/AI-Answer-Evaluation-System)** ⭐ 22
-  ![HTML](https://img.shields.io/badge/-HTML-lightgrey)
-  Multimodal AI-based student answer evaluation using NLP and Whisper.
+- **[MindTrackRampart41/rgfcx](https://github.com/MindTrackRampart41/rgfcx)** ⭐ 39
+  ![None](https://img.shields.io/badge/-None-lightgrey)
+  Apex Legends tools
 
-- **[krithiksha2006/password-checker](https://github.com/krithiksha2006/password-checker)** ⭐ 22
+- **[lumlums-100ueg/ExpressVPN-Pro-2026](https://github.com/lumlums-100ueg/ExpressVPN-Pro-2026)** ⭐ 39
+  ![None](https://img.shields.io/badge/-None-lightgrey)
+  ExpressVPN Pro encrypts internet traffic with AES‑256, routes connections through a network of 3,000+ servers in 94 countries, supports split tunneling, kill switch, and simultaneous connections on up to five devices, and provides DNS leak protection.
+
+- **[krithiksha2006/password-checker](https://github.com/krithiksha2006/password-checker)** ⭐ 34
   ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
   A Java based password strength checker that validates input using predefined security constraints
 
-- **[longtho638-jpg/openclaw-worker](https://github.com/longtho638-jpg/openclaw-worker)** ⭐ 18
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
-  🦞 Autonomous AI Swarm Engine — Drop a file, watch 3 AI agents execute in parallel. Built on Claude Code CLI + tmux.
-
-- **[nemy-new/Material-Search](https://github.com/nemy-new/Material-Search)** ⭐ 15
-  ![Kotlin](https://img.shields.io/badge/-Kotlin-lightgrey)
-   日本語に特化したアプリ検索
-
-- **[salem98/kmp-lalamove-clone](https://github.com/salem98/kmp-lalamove-clone)** ⭐ 14
-  ![Kotlin](https://img.shields.io/badge/-Kotlin-lightgrey)
-  Kotlin Multiplatform Lalamove Clone với Compose Multiplatform - Premium UI, VIPER Architecture, Material Design 3. Sản phẩm của TechNext Solutions
-
 ### 📈 Weekly Trending
 
-- **[theonlyhennygod/zeroclaw](https://github.com/theonlyhennygod/zeroclaw)** ⭐ 2,520
+- **[theonlyhennygod/zeroclaw](https://github.com/theonlyhennygod/zeroclaw)** ⭐ 3,567
   ![Rust](https://img.shields.io/badge/-Rust-brown)
   claw done right 🦀
 
-- **[PeonPing/peon-ping](https://github.com/PeonPing/peon-ping)** ⭐ 2,079
+- **[PeonPing/peon-ping](https://github.com/PeonPing/peon-ping)** ⭐ 2,103
   ![Shell](https://img.shields.io/badge/-Shell-lightgrey)
   Warcraft III Peon voice notifications (+ more!) for Claude Code, Codex, and other IDEs. Stop babysitting your terminal.
 
-- **[jlia0/tinyclaw](https://github.com/jlia0/tinyclaw)** ⭐ 1,569
+- **[jlia0/tinyclaw](https://github.com/jlia0/tinyclaw)** ⭐ 1,673
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   TinyClaw is a team of personal agents that collaborate with each other
 
-- **[xyzeva/k-id-age-verifier](https://github.com/xyzeva/k-id-age-verifier)** ⭐ 1,515
+- **[xyzeva/k-id-age-verifier](https://github.com/xyzeva/k-id-age-verifier)** ⭐ 1,528
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   automatically verify your age on discord, twitch, kick, quora and more (k-id)
 
-- **[promptpirate-x/discord-id-bypass-tool](https://github.com/promptpirate-x/discord-id-bypass-tool)** ⭐ 1,107
+- **[promptpirate-x/discord-id-bypass-tool](https://github.com/promptpirate-x/discord-id-bypass-tool)** ⭐ 1,119
   ![HTML](https://img.shields.io/badge/-HTML-lightgrey)
   A verified tool that works on any potato computer that will let you bypass discord verification
 
-- **[RevylAI/greenlight](https://github.com/RevylAI/greenlight)** ⭐ 888
+- **[RevylAI/greenlight](https://github.com/RevylAI/greenlight)** ⭐ 928
   ![Go](https://img.shields.io/badge/-Go-cyan)
   Pre-submission compliance scanner for the Apple App Store
 
-- **[zai-org/GLM-5](https://github.com/zai-org/GLM-5)** ⭐ 843
+- **[zai-org/GLM-5](https://github.com/zai-org/GLM-5)** ⭐ 885
   ![None](https://img.shields.io/badge/-None-lightgrey)
   GLM-5: From Vibe Coding to Agentic Engineering
 
-- **[mickamy/sql-tap](https://github.com/mickamy/sql-tap)** ⭐ 650
+- **[mickamy/sql-tap](https://github.com/mickamy/sql-tap)** ⭐ 693
   ![Go](https://img.shields.io/badge/-Go-cyan)
   Watch SQL traffic in real-time with a TUI
 
 ### 📈 Monthly Trending
 
-- **[affaan-m/everything-claude-code](https://github.com/affaan-m/everything-claude-code)** ⭐ 46,274
+- **[affaan-m/everything-claude-code](https://github.com/affaan-m/everything-claude-code)** ⭐ 46,439
   ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
   Complete Claude Code configuration collection - agents, skills, hooks, commands, rules, MCPs. Battle-tested configs from an Anthropic hackathon winner.
 
-- **[HKUDS/nanobot](https://github.com/HKUDS/nanobot)** ⭐ 19,155
+- **[HKUDS/nanobot](https://github.com/HKUDS/nanobot)** ⭐ 19,342
   ![Python](https://img.shields.io/badge/-Python-blue)
   "🐈 nanobot: The Ultra-Lightweight OpenClaw"
 
-- **[xai-org/x-algorithm](https://github.com/xai-org/x-algorithm)** ⭐ 15,449
+- **[xai-org/x-algorithm](https://github.com/xai-org/x-algorithm)** ⭐ 15,457
   ![Rust](https://img.shields.io/badge/-Rust-brown)
   Algorithm powering the For You feed on X
 
-- **[VoltAgent/awesome-openclaw-skills](https://github.com/VoltAgent/awesome-openclaw-skills)** ⭐ 15,236
+- **[VoltAgent/awesome-openclaw-skills](https://github.com/VoltAgent/awesome-openclaw-skills)** ⭐ 15,352
   ![None](https://img.shields.io/badge/-None-lightgrey)
   The awesome collection of OpenClaw Skills. Formerly known as Moltbot, originally Clawdbot.
 
-- **[sipeed/picoclaw](https://github.com/sipeed/picoclaw)** ⭐ 9,185
+- **[sipeed/picoclaw](https://github.com/sipeed/picoclaw)** ⭐ 10,214
   ![Go](https://img.shields.io/badge/-Go-cyan)
   picoclaw
 
-- **[cloudflare/moltworker](https://github.com/cloudflare/moltworker)** ⭐ 8,697
+- **[cloudflare/moltworker](https://github.com/cloudflare/moltworker)** ⭐ 8,716
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   Run OpenClaw, (formerly Moltbot, formerly Clawdbot) on Cloudflare Workers
 
-- **[qwibitai/nanoclaw](https://github.com/qwibitai/nanoclaw)** ⭐ 8,401
+- **[qwibitai/nanoclaw](https://github.com/qwibitai/nanoclaw)** ⭐ 8,475
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   A lightweight alternative to Clawdbot / OpenClaw that runs in containers for security. Connects to WhatsApp, has memory, scheduled jobs, and runs directly on Anthropic's Agents SDK
 
-- **[QwenLM/Qwen3-TTS](https://github.com/QwenLM/Qwen3-TTS)** ⭐ 7,715
+- **[QwenLM/Qwen3-TTS](https://github.com/QwenLM/Qwen3-TTS)** ⭐ 7,726
   ![Python](https://img.shields.io/badge/-Python-blue)
   Qwen3-TTS is an open-source series of TTS models developed by the Qwen team at Alibaba Cloud, supporting stable, expressive, and streaming speech generation, free-form voice design, and vivid voice cloning.
 
@@ -488,50 +485,50 @@ See [kubernetes-announce@](https://groups.google.com/forum/#!forum/kubernetes-an
 | Skill | Status |
 |-------|--------|
 | Java | ⚪ Planned |
-| Python | 🔴 Beginner |
+| Python | ⚪ Planned |
 | JavaScript | 🟡 Learning |
-| TypeScript | 🟢 Proficient |
+| TypeScript | ⚪ Planned |
 | Go | 🔴 Beginner |
 
 ### Frameworks
 
 | Skill | Status |
 |-------|--------|
-| React | 🔴 Beginner |
-| Spring Boot | 🟡 Learning |
-| Django | ⚪ Planned |
-| Node.js | 🟡 Learning |
-| Next.js | 🟢 Proficient |
+| React | 🟢 Proficient |
+| Spring Boot | 🔴 Beginner |
+| Django | 🟡 Learning |
+| Node.js | ⚪ Planned |
+| Next.js | ⚪ Planned |
 
 ### Cybersecurity
 
 | Skill | Status |
 |-------|--------|
-| Penetration Testing | ⚪ Planned |
+| Penetration Testing | 🟢 Proficient |
 | Web Security | 🟢 Proficient |
 | Network Security | 🟢 Proficient |
-| OWASP | 🟢 Proficient |
+| OWASP | 🟡 Learning |
 
 ### Ai Ml
 
 | Skill | Status |
 |-------|--------|
-| Machine Learning | 🟢 Proficient |
+| Machine Learning | 🔴 Beginner |
 | Deep Learning | 🔴 Beginner |
-| NLP | 🟡 Learning |
-| Computer Vision | 🟡 Learning |
-| TensorFlow | ⚪ Planned |
-| PyTorch | 🟢 Proficient |
+| NLP | ⚪ Planned |
+| Computer Vision | 🟢 Proficient |
+| TensorFlow | 🔴 Beginner |
+| PyTorch | 🟡 Learning |
 
 ### Devops
 
 | Skill | Status |
 |-------|--------|
-| Docker | 🟡 Learning |
+| Docker | 🔴 Beginner |
 | Kubernetes | 🔴 Beginner |
-| CI/CD | ⚪ Planned |
-| AWS | 🟡 Learning |
-| Azure | 🔴 Beginner |
+| CI/CD | 🟡 Learning |
+| AWS | ⚪ Planned |
+| Azure | ⚪ Planned |
 
 ### Other
 
@@ -539,7 +536,7 @@ See [kubernetes-announce@](https://groups.google.com/forum/#!forum/kubernetes-an
 |-------|--------|
 | Blockchain | 🔴 Beginner |
 | Web3 | 🔴 Beginner |
-| Cloud Computing | ⚪ Planned |
+| Cloud Computing | 🔴 Beginner |
 
 </details>
 
