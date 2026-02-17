@@ -46,20 +46,20 @@
 
 ### 📑 Hacker News
 
+- **[Thinking Hard Burns Almost No Calories–But Destroys Your Next Workout](https://vo2maxpro.com/blog/thinking-hard-burns-no-calories-destroys-workout)**
+  *<p>Article URL: <a href="https://vo2maxpro.com/blog/thinking-hard-burns-no-calories-destroys-workout">https://vo2maxpro.com/blog/thinking-hard-burns-no-calories-destroys-workout</a></p>
+<p>Comments UR...*
+  📅 Tue, 17 Feb 2026 01:55:50 +0000
+
 - **[Dark web agent spotted bedroom wall clue to rescue girl from abuse](https://www.bbc.com/news/articles/cx2gn239exlo)**
   *<p>Article URL: <a href="https://www.bbc.com/news/articles/cx2gn239exlo">https://www.bbc.com/news/articles/cx2gn239exlo</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=47042396"...*
   📅 Tue, 17 Feb 2026 01:01:00 +0000
 
-- **[AI is destroying Open Source, and it's not even good yet](https://www.jeffgeerling.com/blog/2026/ai-is-destroying-open-source/)**
-  *<p>Article URL: <a href="https://www.jeffgeerling.com/blog/2026/ai-is-destroying-open-source/">https://www.jeffgeerling.com/blog/2026/ai-is-destroying-open-source/</a></p>
-<p>Comments URL: <a href="ht...*
-  📅 Tue, 17 Feb 2026 00:26:20 +0000
-
-- **[Show HN: Journey – A Custom 2D ECS Game Engine Written in Rust and WGPU](https://ujjwalvivek.com/blog/proj_0004_rust_game_engine.md)**
-  *<p>Article URL: <a href="https://ujjwalvivek.com/blog/proj_0004_rust_game_engine.md">https://ujjwalvivek.com/blog/proj_0004_rust_game_engine.md</a></p>
-<p>Comments URL: <a href="https://news.ycombinat...*
-  📅 Mon, 16 Feb 2026 23:41:06 +0000
+- **[Building for an audience of one: starting and finishing side projects with AI](https://codemade.net/blog/building-for-one/)**
+  *<p>Article URL: <a href="https://codemade.net/blog/building-for-one/">https://codemade.net/blog/building-for-one/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=47041973">https...*
+  📅 Tue, 17 Feb 2026 00:00:03 +0000
 
 - **[Show HN: Scanned 1927-1945 Daily USFS Work Diary](https://forestrydiary.com/)**
   *<p>My great-grandfather Reuben P. Box was a US Forest Ranger in Northern California, and I've got his daily work diary from 1927-1945, through the depression, WWII, Conservation Corps, and lots of for...*
@@ -103,13 +103,13 @@
 
 ### 📑 Dev.to
 
-- **[No Magic: Running Wasm Modules in Python](https://dev.to/grindmachine/no-magic-running-wasm-modules-in-python-11pf)**
-  *<p>WebAssembly is a pretty young technology and a promising one, it has many pros (platform independent, lighter than containers) and usage scenarios (browser apps, plugin system, edge computing).</p>...*
-  📅 Tue, 17 Feb 2026 01:09:46 +0000
+- **[MQTT Explained in Simple Terms: The Lightweight Protocol That Powers the Entire IoT World](https://dev.to/amanprasad/mqtt-explained-in-simple-terms-the-lightweight-protocol-that-powers-the-entire-iot-world-142p)**
+  *<p><strong>MQTT (Message Queuing Telemetry Transport)</strong> is a lightweight, standards-based messaging protocol designed for <strong>machine-to-machine (M2M)</strong> and <strong>Internet of Thing...*
+  📅 Tue, 17 Feb 2026 06:38:47 +0000
 
-- **[X.509 Beyond Trust: Weaponizing Certificate Extensibility Without Breaking TLS](https://dev.to/michael_s_errington/x509-beyond-trust-weaponizing-certificate-extensibility-without-breaking-tls-2knj)**
-  *<p>This suite is architected to operate entirely within the boundaries of a non‑root Android userland environment, deliberately exploiting what is permitted rather than attempting privilege escalation...*
-  📅 Tue, 17 Feb 2026 01:05:16 +0000
+- **[What's the most useful micro tool you've built for yourself?](https://dev.to/maxxmini/whats-the-most-useful-micro-tool-youve-built-for-yourself-4jff)**
+  *<p>I've been on a bit of a building spree lately — over the past year or so, I've shipped <strong>18 micro SaaS tools</strong> for myself and others. Most of them solve tiny, specific problems: a quic...*
+  📅 Tue, 17 Feb 2026 06:35:40 +0000
 
 </details>
 
@@ -117,105 +117,105 @@
 
 ### 📈 Daily Trending
 
+- **[Tomiya233/grok2api_new](https://github.com/Tomiya233/grok2api_new)** ⭐ 18
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  将 Grok 网页端转换为 OpenAI 兼容 API 的逆向代理服务，支持多账号轮询、真实多轮对话上下文、跨账号会话续接，附带可视化管理后台
+
+- **[vkhvorostov/quizslides](https://github.com/vkhvorostov/quizslides)** ⭐ 5
+  ![HTML](https://img.shields.io/badge/-HTML-lightgrey)
+  None
+
 - **[w3g8/ansible-bitwarden-secrets](https://github.com/w3g8/ansible-bitwarden-secrets)** ⭐ 5
   ![Python](https://img.shields.io/badge/-Python-blue)
   Ansible collection for managing secrets and projects in Bitwarden Secrets Manager.
 
-- **[petergyang/behind-the-craft](https://github.com/petergyang/behind-the-craft)** ⭐ 2
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  Full transcripts for all my practical AI tutorials and interviews on https://www.youtube.com/@PeterYangYT
-
-- **[abbyfluoroethane/GIWTWMPL](https://github.com/abbyfluoroethane/GIWTWMPL)** ⭐ 2
+- **[Reserve-Bank-Innovation-Hub/IITD-Tryst-Hackathon](https://github.com/Reserve-Bank-Innovation-Hub/IITD-Tryst-Hackathon)** ⭐ 5
   ![None](https://img.shields.io/badge/-None-lightgrey)
-  "God I Wish That Were Me" Public License
-
-- **[Juliosantos04/DSLE](https://github.com/Juliosantos04/DSLE)** ⭐ 2
-  ![Python](https://img.shields.io/badge/-Python-blue)
   None
 
-- **[rafaelemidiolopes/Sistema-Escolar](https://github.com/rafaelemidiolopes/Sistema-Escolar)** ⭐ 2
+- **[crafter-station/pushup.ai](https://github.com/crafter-station/pushup.ai)** ⭐ 4
+  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
+  Count your pushups
+
+- **[CoderofTheWest/openclaw-plugin-continuity](https://github.com/CoderofTheWest/openclaw-plugin-continuity)** ⭐ 3
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
+  Infinite Thread — persistent, intelligent memory for OpenClaw agents
+
+- **[agg2-lab/Adams-AutoClicker](https://github.com/agg2-lab/Adams-AutoClicker)** ⭐ 3
   ![Python](https://img.shields.io/badge/-Python-blue)
-  Sistema de gerenciamento escolar desenvolvido em Python com MySQL, implementando operações CRUD para alunos, cursos e matrículas, com uso de variáveis de ambiente (.env) para configuração segura do banco de dados.
+  Adam's AutoClicker is a lightweight Windows autoclicker with configurable clicks-per-second (1-30), random CPS variation, interval jitter, click-type selection (left/right/middle), and a global start/stop hotkey. It includes visual run status, automatic settings save, and is packaged as a standalone executable for easy use and sharing.
 
-- **[ookuma123/ookuma](https://github.com/ookuma123/ookuma)** ⭐ 1
-  ![None](https://img.shields.io/badge/-None-lightgrey)
-  test
-
-- **[remzisahbaz/remzisahbaz.github.io](https://github.com/remzisahbaz/remzisahbaz.github.io)** ⭐ 1
-  ![HTML](https://img.shields.io/badge/-HTML-lightgrey)
-  remzisahbaz.github.io
-
-- **[nikkahl/python_labs](https://github.com/nikkahl/python_labs)** ⭐ 1
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  Python labs 
+- **[4mh23cs079-debug/image_visualization](https://github.com/4mh23cs079-debug/image_visualization)** ⭐ 3
+  ![Jupyter Notebook](https://img.shields.io/badge/-Jupyter Notebook-lightgrey)
+  None
 
 ### 📈 Weekly Trending
 
-- **[zeroclaw-labs/zeroclaw](https://github.com/zeroclaw-labs/zeroclaw)** ⭐ 7,185
+- **[zeroclaw-labs/zeroclaw](https://github.com/zeroclaw-labs/zeroclaw)** ⭐ 7,848
   ![Rust](https://img.shields.io/badge/-Rust-brown)
   Fast, small, and fully autonomous AI assistant infrastructure — deploy anywhere, swap anything 🦀
 
-- **[bwya77/vscode-dark-islands](https://github.com/bwya77/vscode-dark-islands)** ⭐ 2,362
+- **[bwya77/vscode-dark-islands](https://github.com/bwya77/vscode-dark-islands)** ⭐ 2,548
   ![PowerShell](https://img.shields.io/badge/-PowerShell-lightgrey)
   VSCode theme based off the easemate IDE and Jetbrains islands theme
 
-- **[xyzeva/k-id-age-verifier](https://github.com/xyzeva/k-id-age-verifier)** ⭐ 1,572
+- **[xyzeva/k-id-age-verifier](https://github.com/xyzeva/k-id-age-verifier)** ⭐ 1,576
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   automatically verify your age on discord, twitch, kick, quora and more (k-id)
 
-- **[RevylAI/greenlight](https://github.com/RevylAI/greenlight)** ⭐ 1,028
+- **[RevylAI/greenlight](https://github.com/RevylAI/greenlight)** ⭐ 1,031
   ![Go](https://img.shields.io/badge/-Go-cyan)
   Pre-submission compliance scanner for the Apple App Store
 
-- **[mickamy/sql-tap](https://github.com/mickamy/sql-tap)** ⭐ 817
-  ![Go](https://img.shields.io/badge/-Go-cyan)
-  Watch SQL traffic in real-time with a TUI
-
-- **[HKUDS/FastCode](https://github.com/HKUDS/FastCode)** ⭐ 741
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  FastCode: Accelerating and Streamlining Your Code Understanding
-
-- **[vigorX777/ai-daily-digest](https://github.com/vigorX777/ai-daily-digest)** ⭐ 719
-  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
-  从 Andrej Karpathy 推荐的 90 顶级技术博客中抓取最新文章，AI 多维评分筛选，生成一份每日精选日报。更多可见公众号：懂点儿AI
-
-- **[HKUDS/ClawWork](https://github.com/HKUDS/ClawWork)** ⭐ 715
+- **[HKUDS/ClawWork](https://github.com/HKUDS/ClawWork)** ⭐ 891
   ![Python](https://img.shields.io/badge/-Python-blue)
   "ClawWork: OpenClaw as Your AI Coworker - 💰 $10K earned in 7 Hours"
 
+- **[mickamy/sql-tap](https://github.com/mickamy/sql-tap)** ⭐ 824
+  ![Go](https://img.shields.io/badge/-Go-cyan)
+  Watch SQL traffic in real-time with a TUI
+
+- **[HKUDS/FastCode](https://github.com/HKUDS/FastCode)** ⭐ 749
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  FastCode: Accelerating and Streamlining Your Code Understanding
+
+- **[vigorX777/ai-daily-digest](https://github.com/vigorX777/ai-daily-digest)** ⭐ 726
+  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
+  从 Andrej Karpathy 推荐的 90 顶级技术博客中抓取最新文章，AI 多维评分筛选，生成一份每日精选日报。更多可见公众号：懂点儿AI
+
 ### 📈 Monthly Trending
 
-- **[HKUDS/nanobot](https://github.com/HKUDS/nanobot)** ⭐ 20,382
+- **[HKUDS/nanobot](https://github.com/HKUDS/nanobot)** ⭐ 20,529
   ![Python](https://img.shields.io/badge/-Python-blue)
   "🐈 nanobot: The Ultra-Lightweight OpenClaw"
 
-- **[VoltAgent/awesome-openclaw-skills](https://github.com/VoltAgent/awesome-openclaw-skills)** ⭐ 15,840
+- **[VoltAgent/awesome-openclaw-skills](https://github.com/VoltAgent/awesome-openclaw-skills)** ⭐ 15,955
   ![None](https://img.shields.io/badge/-None-lightgrey)
   The awesome collection of OpenClaw Skills. Formerly known as Moltbot, originally Clawdbot.
 
-- **[xai-org/x-algorithm](https://github.com/xai-org/x-algorithm)** ⭐ 15,492
+- **[xai-org/x-algorithm](https://github.com/xai-org/x-algorithm)** ⭐ 15,495
   ![Rust](https://img.shields.io/badge/-Rust-brown)
   Algorithm powering the For You feed on X
 
-- **[sipeed/picoclaw](https://github.com/sipeed/picoclaw)** ⭐ 13,472
+- **[sipeed/picoclaw](https://github.com/sipeed/picoclaw)** ⭐ 13,805
   ![Go](https://img.shields.io/badge/-Go-cyan)
-  picoclaw
+  Tiny, Fast, and Deployable anywhere — automate the mundane, unleash your creativity
 
-- **[qwibitai/nanoclaw](https://github.com/qwibitai/nanoclaw)** ⭐ 8,842
+- **[qwibitai/nanoclaw](https://github.com/qwibitai/nanoclaw)** ⭐ 8,926
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   A lightweight alternative to Clawdbot / OpenClaw that runs in containers for security. Connects to WhatsApp, has memory, scheduled jobs, and runs directly on Anthropic's Agents SDK
 
-- **[cloudflare/moltworker](https://github.com/cloudflare/moltworker)** ⭐ 8,817
+- **[cloudflare/moltworker](https://github.com/cloudflare/moltworker)** ⭐ 8,829
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   Run OpenClaw, (formerly Moltbot, formerly Clawdbot) on Cloudflare Workers
 
-- **[QwenLM/Qwen3-TTS](https://github.com/QwenLM/Qwen3-TTS)** ⭐ 7,794
+- **[zeroclaw-labs/zeroclaw](https://github.com/zeroclaw-labs/zeroclaw)** ⭐ 7,848
+  ![Rust](https://img.shields.io/badge/-Rust-brown)
+  Fast, small, and fully autonomous AI assistant infrastructure — deploy anywhere, swap anything 🦀
+
+- **[QwenLM/Qwen3-TTS](https://github.com/QwenLM/Qwen3-TTS)** ⭐ 7,812
   ![Python](https://img.shields.io/badge/-Python-blue)
   Qwen3-TTS is an open-source series of TTS models developed by the Qwen team at Alibaba Cloud, supporting stable, expressive, and streaming speech generation, free-form voice design, and vivid voice cloning.
-
-- **[anthropics/knowledge-work-plugins](https://github.com/anthropics/knowledge-work-plugins)** ⭐ 7,448
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork
 
 ## 🚀 Latest Releases
 
@@ -482,59 +482,59 @@ See [kubernetes-announce@](https://groups.google.com/forum/#!forum/kubernetes-an
 
 | Skill | Status |
 |-------|--------|
-| Java | 🟢 Proficient |
-| Python | ⚪ Planned |
-| JavaScript | 🟢 Proficient |
+| Java | 🟡 Learning |
+| Python | 🔴 Beginner |
+| JavaScript | 🟡 Learning |
 | TypeScript | 🔴 Beginner |
-| Go | 🟢 Proficient |
+| Go | ⚪ Planned |
 
 ### Frameworks
 
 | Skill | Status |
 |-------|--------|
-| React | 🟡 Learning |
-| Spring Boot | ⚪ Planned |
-| Django | 🟢 Proficient |
-| Node.js | 🟡 Learning |
-| Next.js | 🟢 Proficient |
+| React | 🟢 Proficient |
+| Spring Boot | 🟢 Proficient |
+| Django | 🔴 Beginner |
+| Node.js | ⚪ Planned |
+| Next.js | 🟡 Learning |
 
 ### Cybersecurity
 
 | Skill | Status |
 |-------|--------|
-| Penetration Testing | 🟡 Learning |
+| Penetration Testing | 🔴 Beginner |
 | Web Security | 🔴 Beginner |
 | Network Security | 🟡 Learning |
-| OWASP | 🟢 Proficient |
+| OWASP | 🟡 Learning |
 
 ### Ai Ml
 
 | Skill | Status |
 |-------|--------|
-| Machine Learning | 🟡 Learning |
-| Deep Learning | 🔴 Beginner |
-| NLP | 🔴 Beginner |
+| Machine Learning | ⚪ Planned |
+| Deep Learning | 🟢 Proficient |
+| NLP | 🟢 Proficient |
 | Computer Vision | ⚪ Planned |
-| TensorFlow | ⚪ Planned |
+| TensorFlow | 🔴 Beginner |
 | PyTorch | ⚪ Planned |
 
 ### Devops
 
 | Skill | Status |
 |-------|--------|
-| Docker | 🟡 Learning |
-| Kubernetes | 🔴 Beginner |
-| CI/CD | 🟢 Proficient |
-| AWS | 🔴 Beginner |
-| Azure | 🟡 Learning |
+| Docker | ⚪ Planned |
+| Kubernetes | ⚪ Planned |
+| CI/CD | 🔴 Beginner |
+| AWS | 🟢 Proficient |
+| Azure | 🔴 Beginner |
 
 ### Other
 
 | Skill | Status |
 |-------|--------|
-| Blockchain | 🔴 Beginner |
-| Web3 | 🔴 Beginner |
-| Cloud Computing | 🟢 Proficient |
+| Blockchain | 🟢 Proficient |
+| Web3 | 🟢 Proficient |
+| Cloud Computing | 🔴 Beginner |
 
 </details>
 
