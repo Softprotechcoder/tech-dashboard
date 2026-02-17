@@ -46,71 +46,72 @@
 
 ### 📑 Hacker News
 
-- **[Is Show HN Dead? No, but It's Drowning](https://www.arthurcnops.blog/death-of-show-hn/)**
-  *<p>Article URL: <a href="https://www.arthurcnops.blog/death-of-show-hn/">https://www.arthurcnops.blog/death-of-show-hn/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=47045804"...*
-  📅 Tue, 17 Feb 2026 10:29:14 +0000
+- **[Claude Sonnet 4.6](https://www.anthropic.com/news/claude-sonnet-4-6)**
+  *<p><a href="https://www.anthropic.com/claude-sonnet-4-6-system-card" rel="nofollow">https://www.anthropic.com/claude-sonnet-4-6-system-card</a> [pdf]<p><a href="https://x.com/claudeai/status/202381713...*
+  📅 Tue, 17 Feb 2026 17:48:52 +0000
 
-- **[GrapheneOS – Break Free from Google and Apple](https://blog.tomaszdunia.pl/grapheneos-eng/)**
-  *<p>Article URL: <a href="https://blog.tomaszdunia.pl/grapheneos-eng/">https://blog.tomaszdunia.pl/grapheneos-eng/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=47045612">https...*
-  📅 Tue, 17 Feb 2026 10:02:36 +0000
+- **[Discord Rival Gets Overwhelmed by Exodus of Players Fleeing Age-Verification](https://kotaku.com/discord-alternative-teamspeak-age-verification-check-rivals-2000669693)**
+  *<p>Article URL: <a href="https://kotaku.com/discord-alternative-teamspeak-age-verification-check-rivals-2000669693">https://kotaku.com/discord-alternative-teamspeak-age-verification-check-rivals-20006...*
+  📅 Tue, 17 Feb 2026 17:40:50 +0000
 
-- **[Xbox UI Portfolio Site](https://gabrielcabrera.co/)**
-  *<p>Article URL: <a href="https://gabrielcabrera.co/">https://gabrielcabrera.co/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=47044179">https://news.ycombinator.com/item?id=47...*
-  📅 Tue, 17 Feb 2026 05:53:31 +0000
+- **[Climbing Mount Fuji visualized through milestone stamps](https://fuji.halfof8.com/)**
+  *<p>Article URL: <a href="https://fuji.halfof8.com/">https://fuji.halfof8.com/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=47050227">https://news.ycombinator.com/item?id=4705...*
+  📅 Tue, 17 Feb 2026 17:29:49 +0000
 
-- **[Poor Deming never stood a chance](https://surfingcomplexity.blog/2026/02/16/poor-deming-never-stood-a-chance/)**
-  *<p>Article URL: <a href="https://surfingcomplexity.blog/2026/02/16/poor-deming-never-stood-a-chance/">https://surfingcomplexity.blog/2026/02/16/poor-deming-never-stood-a-chance/</a></p>
-<p>Comments UR...*
-  📅 Tue, 17 Feb 2026 02:13:37 +0000
+- **[Students Are Being Treated Like Guinea Pigs: Inside an AI-Powered Private School](https://www.404media.co/students-are-being-treated-like-guinea-pigs-inside-an-ai-powered-private-school/)**
+  *<p>Article URL: <a href="https://www.404media.co/students-are-being-treated-like-guinea-pigs-inside-an-ai-powered-private-school/">https://www.404media.co/students-are-being-treated-like-guinea-pigs-i...*
+  📅 Tue, 17 Feb 2026 17:29:16 +0000
 
-- **[Dark web agent spotted bedroom wall clue to rescue girl from abuse](https://www.bbc.com/news/articles/cx2gn239exlo)**
-  *<p>Article URL: <a href="https://www.bbc.com/news/articles/cx2gn239exlo">https://www.bbc.com/news/articles/cx2gn239exlo</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=47042396"...*
-  📅 Tue, 17 Feb 2026 01:01:00 +0000
+- **[Can a Computer Science Student Be Taught to Design Hardware?](https://semiengineering.com/can-a-computer-science-student-be-taught-to-design-hardware/)**
+  *<p>Article URL: <a href="https://semiengineering.com/can-a-computer-science-student-be-taught-to-design-hardware/">https://semiengineering.com/can-a-computer-science-student-be-taught-to-design-hardwa...*
+  📅 Tue, 17 Feb 2026 17:29:13 +0000
 
-- **[Building for an audience of one: starting and finishing side projects with AI](https://codemade.net/blog/building-for-one/)**
-  *<p>Article URL: <a href="https://codemade.net/blog/building-for-one/">https://codemade.net/blog/building-for-one/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=47041973">https...*
-  📅 Tue, 17 Feb 2026 00:00:03 +0000
+- **[Gentoo on Codeberg](https://www.gentoo.org/news/2026/02/16/codeberg.html)**
+  *<p>Article URL: <a href="https://www.gentoo.org/news/2026/02/16/codeberg.html">https://www.gentoo.org/news/2026/02/16/codeberg.html</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?...*
+  📅 Tue, 17 Feb 2026 17:21:04 +0000
 
 ### 📑 TechCrunch
 
-- **[Cohere launches a family of open multilingual models](https://techcrunch.com/2026/02/17/cohere-launches-a-family-of-open-multilingual-models/)**
-  *Cohere's Tiny Aya models support over 70 langauges...*
-  📅 Tue, 17 Feb 2026 09:00:00 +0000
+- **[Anthropic releases Sonnet 4.6](https://techcrunch.com/2026/02/17/anthropic-releases-sonnet-4-6/)**
+  *Anthropic has released a new version of its mid-size Sonnet model, keeping pace with the company's four-month update cycle....*
+  📅 Tue, 17 Feb 2026 18:00:00 +0000
 
-- **[Have money, will travel: a16z’s hunt for the next European unicorn](https://techcrunch.com/2026/02/16/have-money-will-travel-a16zs-hunt-for-the-next-european-unicorn/)**
-  *According to a16z, it has eyes around the world in order to spot companies as early as local funds might....*
-  📅 Mon, 16 Feb 2026 18:53:56 +0000
+- **[Mistral AI buys Koyeb in first acquisition to back its cloud ambitions](https://techcrunch.com/2026/02/17/mistral-ai-buys-koyeb-in-first-acquisition-to-back-its-cloud-ambitions/)**
+  *Mistral AI has agreed to buy Koyeb, a Paris-based startup that simplifies AI app deployment at scale and manages the infrastructure behind it....*
+  📅 Tue, 17 Feb 2026 17:22:09 +0000
 
-- **[How Ricursive Intelligence raised $335M at a $4B valuation in 4 months](https://techcrunch.com/2026/02/16/how-ricursive-intelligence-raised-335m-at-a-4b-valuation-in-4-months/)**
-  *The reason why this nascent startup had VCs lining up is the founders.They are so famed in the AI world, everyone tried to hire them....*
-  📅 Mon, 16 Feb 2026 17:00:00 +0000
+- **[SpaceX vets raise $50M Series A for data center links](https://techcrunch.com/2026/02/17/spacex-vets-raise-50m-series-a-for-data-center-links/)**
+  *Mesh aims to mass-produce optical transceivers for AI data centers....*
+  📅 Tue, 17 Feb 2026 17:00:00 +0000
 
-- **[Flapping Airplanes on the future of AI: ‘We want to try really radically different things’](https://techcrunch.com/2026/02/16/flapping-airplanes-on-the-future-of-ai-we-want-to-try-really-radically-different-things/)**
-  *"We're exploring a different set of tradeoffs."...*
-  📅 Mon, 16 Feb 2026 14:00:00 +0000
+- **[Running AI models is turning into a memory game](https://techcrunch.com/2026/02/17/running-ai-models-is-turning-into-a-memory-game/)**
+  *When we talk about the cost of AI infrastructure, the focus is usually on Nvidia and GPUs -- but memory is an increasingly important part of the picture....*
+  📅 Tue, 17 Feb 2026 16:44:14 +0000
 
-- **[After all the hype, some AI experts don’t think OpenClaw is all that exciting](https://techcrunch.com/2026/02/16/after-all-the-hype-some-ai-experts-dont-think-openclaw-is-all-that-exciting/)**
-  *"From an AI research perspective, this is nothing novel," one expert told TechCrunch....*
-  📅 Mon, 16 Feb 2026 13:15:00 +0000
+- **[European Parliament blocks AI on lawmakers’ devices, citing security risks](https://techcrunch.com/2026/02/17/european-parliament-blocks-ai-on-lawmakers-devices-citing-security-risks/)**
+  *EU lawmakers found their government-issued devices were blocked from using the baked-in AI tools, amid fears that sensitive information could turn up on the U.S. servers of AI companies....*
+  📅 Tue, 17 Feb 2026 16:30:43 +0000
 
-- **[Fractal Analytics’ muted IPO debut signals persistent AI fears in India](https://techcrunch.com/2026/02/16/fractal-analytics-muted-ipo-debut-signals-persistent-ai-fears-in-india/)**
-  *As India's first AI company to IPO, Fractal Analytics didn't have a stellar first day on the public markets, as enthusiasm for the technology collided with jittery investors in the wake of a sell-off ...*
-  📅 Mon, 16 Feb 2026 11:51:25 +0000
+- **[WordPress.com adds an AI Assistant that can edit, adjust styles, create images, and more](https://techcrunch.com/2026/02/17/wordpress-com-adds-an-ai-assistant-that-can-edit-adjust-styles-create-images-and-more/)**
+  *The WordPress AI assistant doesn't need precisely tailored prompts, either....*
+  📅 Tue, 17 Feb 2026 16:10:44 +0000
 
 ### 📑 Dev.to
 
-- **[Who Are We Still Writing Technical Articles For?](https://dev.to/pascal_cescato_692b7a8a20/who-are-we-still-writing-technical-articles-for-i64)**
-  *<p>I recently read an article asking the question: <a href="https://dev.to/miracool/do-people-still-genuinely-care-about-technical-articles--1hfk">do people still genuinely care about technical articl...*
-  📅 Tue, 17 Feb 2026 12:34:14 +0000
+- **[Top 7 Featured DEV Posts of the Week](https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-3h5k)**
+  *<p><em>Welcome to this week's Top 7, where the DEV editorial team handpicks their favorite posts from the previous week.</em></p>
 
-- **[TypeScript Utility Types: A Complete Guide](https://dev.to/umesh_malik/typescript-utility-types-a-complete-guide-3hop)**
-  *<p>TypeScript's built-in utility types are powerful tools that help you write cleaner, more maintainable code. In this guide, I'll walk through the most commonly used utility types with practical exam...*
-  📅 Tue, 17 Feb 2026 12:30:40 +0000
+<p>Congrats to all the authors that made it onto the list 👏</p>
+
+
+<di...*
+  📅 Tue, 17 Feb 2026 18:35:23 +0000
+
+- **[How I Published My First Tutorial Video in 2 Days instead of 5 Years](https://dev.to/cathylai/how-i-published-my-first-tutorial-video-in-2-days-instead-of-5-years-87)**
+  *<p>It has always been in my heart to create video tutorials like those ones I follow on YouTube. But for years, I would: open YouTube Studio, check microphone reviews, compare cameras, and analyze the...*
+  📅 Tue, 17 Feb 2026 18:30:39 +0000
 
 </details>
 
@@ -118,103 +119,103 @@
 
 ### 📈 Daily Trending
 
-- **[Follow-Gabagool22/5min-btc-polymarket-trading-bot](https://github.com/Follow-Gabagool22/5min-btc-polymarket-trading-bot)** ⭐ 140
+- **[Follow-Gabagool22/5min-btc-polymarket-trading-bot](https://github.com/Follow-Gabagool22/5min-btc-polymarket-trading-bot)** ⭐ 146
   ![Rust](https://img.shields.io/badge/-Rust-brown)
-  5min btc polymarket trading bot 
+  5min btc polymarket trading bot that is polymarket trading bot that trade in 5 btc market polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot 
 
-- **[Follow-Gabagool22/polymarket-arbitrage-bot-15min-5min-btc](https://github.com/Follow-Gabagool22/polymarket-arbitrage-bot-15min-5min-btc)** ⭐ 32
-  ![Rust](https://img.shields.io/badge/-Rust-brown)
-  Polymarket btc 15m and 5m arbitrage trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot 
+- **[spotify-song-suggestor/Polymarket_Trading_Bot](https://github.com/spotify-song-suggestor/Polymarket_Trading_Bot)** ⭐ 128
+  ![None](https://img.shields.io/badge/-None-lightgrey)
+  None
 
-- **[Follow-Gabagool22/1hour-crypto-polymarket-trading-bot](https://github.com/Follow-Gabagool22/1hour-crypto-polymarket-trading-bot)** ⭐ 30
-  ![Rust](https://img.shields.io/badge/-Rust-brown)
-  1hour crypto polymarket trading bot 1hour btc eth xrp sol polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot 
-
-- **[Follow-Gabagool22/15min-crypto-polymarket-trading-bot](https://github.com/Follow-Gabagool22/15min-crypto-polymarket-trading-bot)** ⭐ 30
-  ![Rust](https://img.shields.io/badge/-Rust-brown)
-  15min crypto polymarket trading bot 15min btc polymarket trading bot polymaret trading bot polymaret trading bot polymaret trading botpolymaret trading bot polymaret trading bot polymaret trading bot polymaret trading bot polymaret trading bot polymaret trading bot polymaret trading bot 
-
-- **[doggy8088/Apptopia](https://github.com/doggy8088/Apptopia)** ⭐ 30
+- **[doggy8088/Apptopia](https://github.com/doggy8088/Apptopia)** ⭐ 44
   ![Python](https://img.shields.io/badge/-Python-blue)
   用 Issue 許願，我會用 AI 幫你完成實作
 
-- **[Tomiya233/grok2api_new](https://github.com/Tomiya233/grok2api_new)** ⭐ 30
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  将 Grok 网页端转换为 OpenAI 兼容 API 的逆向代理服务，支持多账号轮询、真实多轮对话上下文、跨账号会话续接，附带可视化管理后台
-
-- **[lunarchantress/blooket](https://github.com/lunarchantress/blooket)** ⭐ 28
+- **[Venkatesan2005-1/hardware-monitor-dashboard](https://github.com/Venkatesan2005-1/hardware-monitor-dashboard)** ⭐ 39
   ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
   None
 
-- **[Maniesh-Neupane/BugBounty-Recon-Methodology](https://github.com/Maniesh-Neupane/BugBounty-Recon-Methodology)** ⭐ 20
+- **[Maniesh-Neupane/BugBounty-Recon-Methodology](https://github.com/Maniesh-Neupane/BugBounty-Recon-Methodology)** ⭐ 34
   ![None](https://img.shields.io/badge/-None-lightgrey)
   None
 
+- **[Follow-Gabagool22/polymarket-arbitrage-bot-15min-5min-btc](https://github.com/Follow-Gabagool22/polymarket-arbitrage-bot-15min-5min-btc)** ⭐ 33
+  ![Rust](https://img.shields.io/badge/-Rust-brown)
+  Polymarket btc 15m and 5m arbitrage trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot 
+
+- **[Tomiya233/grok2api_new](https://github.com/Tomiya233/grok2api_new)** ⭐ 33
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  将 Grok 网页端转换为 OpenAI 兼容 API 的逆向代理服务，支持多账号轮询、真实多轮对话上下文、跨账号会话续接，附带可视化管理后台
+
+- **[Follow-Gabagool22/1hour-crypto-polymarket-trading-bot](https://github.com/Follow-Gabagool22/1hour-crypto-polymarket-trading-bot)** ⭐ 31
+  ![Rust](https://img.shields.io/badge/-Rust-brown)
+  1hour crypto polymarket trading bot 1hour btc eth xrp sol polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot 
+
 ### 📈 Weekly Trending
 
-- **[zeroclaw-labs/zeroclaw](https://github.com/zeroclaw-labs/zeroclaw)** ⭐ 8,742
+- **[zeroclaw-labs/zeroclaw](https://github.com/zeroclaw-labs/zeroclaw)** ⭐ 9,758
   ![Rust](https://img.shields.io/badge/-Rust-brown)
   Fast, small, and fully autonomous AI assistant infrastructure — deploy anywhere, swap anything 🦀
 
-- **[bwya77/vscode-dark-islands](https://github.com/bwya77/vscode-dark-islands)** ⭐ 2,777
+- **[bwya77/vscode-dark-islands](https://github.com/bwya77/vscode-dark-islands)** ⭐ 3,150
   ![PowerShell](https://img.shields.io/badge/-PowerShell-lightgrey)
   VSCode theme based off the easemate IDE and Jetbrains islands theme
 
-- **[xyzeva/k-id-age-verifier](https://github.com/xyzeva/k-id-age-verifier)** ⭐ 1,582
+- **[xyzeva/k-id-age-verifier](https://github.com/xyzeva/k-id-age-verifier)** ⭐ 1,594
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   automatically verify your age on discord, twitch, kick, quora and more (k-id)
 
-- **[HKUDS/ClawWork](https://github.com/HKUDS/ClawWork)** ⭐ 1,102
+- **[HKUDS/ClawWork](https://github.com/HKUDS/ClawWork)** ⭐ 1,403
   ![Python](https://img.shields.io/badge/-Python-blue)
   "ClawWork: OpenClaw as Your AI Coworker - 💰 $10K earned in 7 Hours"
 
-- **[RevylAI/greenlight](https://github.com/RevylAI/greenlight)** ⭐ 1,035
+- **[RevylAI/greenlight](https://github.com/RevylAI/greenlight)** ⭐ 1,045
   ![Go](https://img.shields.io/badge/-Go-cyan)
   Pre-submission compliance scanner for the Apple App Store
 
-- **[mickamy/sql-tap](https://github.com/mickamy/sql-tap)** ⭐ 832
+- **[mickamy/sql-tap](https://github.com/mickamy/sql-tap)** ⭐ 857
   ![Go](https://img.shields.io/badge/-Go-cyan)
   Watch SQL traffic in real-time with a TUI
 
-- **[HKUDS/FastCode](https://github.com/HKUDS/FastCode)** ⭐ 754
+- **[vercel-labs/portless](https://github.com/vercel-labs/portless)** ⭐ 842
+  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
+  Replace port numbers with stable, named .localhost URLs. For humans and agents.
+
+- **[HKUDS/FastCode](https://github.com/HKUDS/FastCode)** ⭐ 774
   ![Python](https://img.shields.io/badge/-Python-blue)
   FastCode: Accelerating and Streamlining Your Code Understanding
 
-- **[vigorX777/ai-daily-digest](https://github.com/vigorX777/ai-daily-digest)** ⭐ 733
-  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
-  从 Andrej Karpathy 推荐的 90 顶级技术博客中抓取最新文章，AI 多维评分筛选，生成一份每日精选日报。更多可见公众号：懂点儿AI
-
 ### 📈 Monthly Trending
 
-- **[HKUDS/nanobot](https://github.com/HKUDS/nanobot)** ⭐ 20,706
+- **[HKUDS/nanobot](https://github.com/HKUDS/nanobot)** ⭐ 20,848
   ![Python](https://img.shields.io/badge/-Python-blue)
   "🐈 nanobot: The Ultra-Lightweight OpenClaw"
 
-- **[VoltAgent/awesome-openclaw-skills](https://github.com/VoltAgent/awesome-openclaw-skills)** ⭐ 16,064
+- **[VoltAgent/awesome-openclaw-skills](https://github.com/VoltAgent/awesome-openclaw-skills)** ⭐ 16,202
   ![None](https://img.shields.io/badge/-None-lightgrey)
   The awesome collection of OpenClaw Skills. Formerly known as Moltbot, originally Clawdbot.
 
-- **[xai-org/x-algorithm](https://github.com/xai-org/x-algorithm)** ⭐ 15,501
+- **[xai-org/x-algorithm](https://github.com/xai-org/x-algorithm)** ⭐ 15,513
   ![Rust](https://img.shields.io/badge/-Rust-brown)
   Algorithm powering the For You feed on X
 
-- **[sipeed/picoclaw](https://github.com/sipeed/picoclaw)** ⭐ 14,134
+- **[sipeed/picoclaw](https://github.com/sipeed/picoclaw)** ⭐ 14,515
   ![Go](https://img.shields.io/badge/-Go-cyan)
   Tiny, Fast, and Deployable anywhere — automate the mundane, unleash your creativity
 
-- **[qwibitai/nanoclaw](https://github.com/qwibitai/nanoclaw)** ⭐ 9,002
-  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
-  A lightweight alternative to Clawdbot / OpenClaw that runs in containers for security. Connects to WhatsApp, has memory, scheduled jobs, and runs directly on Anthropic's Agents SDK
-
-- **[cloudflare/moltworker](https://github.com/cloudflare/moltworker)** ⭐ 8,838
-  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
-  Run OpenClaw, (formerly Moltbot, formerly Clawdbot) on Cloudflare Workers
-
-- **[zeroclaw-labs/zeroclaw](https://github.com/zeroclaw-labs/zeroclaw)** ⭐ 8,742
+- **[zeroclaw-labs/zeroclaw](https://github.com/zeroclaw-labs/zeroclaw)** ⭐ 9,758
   ![Rust](https://img.shields.io/badge/-Rust-brown)
   Fast, small, and fully autonomous AI assistant infrastructure — deploy anywhere, swap anything 🦀
 
-- **[QwenLM/Qwen3-TTS](https://github.com/QwenLM/Qwen3-TTS)** ⭐ 7,824
+- **[qwibitai/nanoclaw](https://github.com/qwibitai/nanoclaw)** ⭐ 9,097
+  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
+  A lightweight alternative to Clawdbot / OpenClaw that runs in containers for security. Connects to WhatsApp, has memory, scheduled jobs, and runs directly on Anthropic's Agents SDK
+
+- **[cloudflare/moltworker](https://github.com/cloudflare/moltworker)** ⭐ 8,856
+  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
+  Run OpenClaw, (formerly Moltbot, formerly Clawdbot) on Cloudflare Workers
+
+- **[QwenLM/Qwen3-TTS](https://github.com/QwenLM/Qwen3-TTS)** ⭐ 7,843
   ![Python](https://img.shields.io/badge/-Python-blue)
   Qwen3-TTS is an open-source series of TTS models developed by the Qwen team at Alibaba Cloud, supporting stable, expressive, and streaming speech generation, free-form voice design, and vivid voice cloning.
 
@@ -484,58 +485,58 @@ See [kubernetes-announce@](https://groups.google.com/forum/#!forum/kubernetes-an
 | Skill | Status |
 |-------|--------|
 | Java | 🟡 Learning |
-| Python | ⚪ Planned |
-| JavaScript | ⚪ Planned |
-| TypeScript | 🟡 Learning |
-| Go | 🔴 Beginner |
+| Python | 🟡 Learning |
+| JavaScript | 🟢 Proficient |
+| TypeScript | 🟢 Proficient |
+| Go | 🟡 Learning |
 
 ### Frameworks
 
 | Skill | Status |
 |-------|--------|
-| React | 🟢 Proficient |
-| Spring Boot | 🟡 Learning |
-| Django | 🟢 Proficient |
-| Node.js | 🟢 Proficient |
-| Next.js | 🟢 Proficient |
+| React | 🟡 Learning |
+| Spring Boot | ⚪ Planned |
+| Django | 🟡 Learning |
+| Node.js | ⚪ Planned |
+| Next.js | 🔴 Beginner |
 
 ### Cybersecurity
 
 | Skill | Status |
 |-------|--------|
-| Penetration Testing | 🟡 Learning |
+| Penetration Testing | 🟢 Proficient |
 | Web Security | 🔴 Beginner |
-| Network Security | 🟢 Proficient |
+| Network Security | ⚪ Planned |
 | OWASP | ⚪ Planned |
 
 ### Ai Ml
 
 | Skill | Status |
 |-------|--------|
-| Machine Learning | 🔴 Beginner |
-| Deep Learning | 🟡 Learning |
-| NLP | ⚪ Planned |
-| Computer Vision | ⚪ Planned |
-| TensorFlow | ⚪ Planned |
-| PyTorch | 🟢 Proficient |
+| Machine Learning | 🟢 Proficient |
+| Deep Learning | ⚪ Planned |
+| NLP | 🟡 Learning |
+| Computer Vision | 🔴 Beginner |
+| TensorFlow | 🟢 Proficient |
+| PyTorch | 🔴 Beginner |
 
 ### Devops
 
 | Skill | Status |
 |-------|--------|
-| Docker | 🟡 Learning |
+| Docker | 🟢 Proficient |
 | Kubernetes | ⚪ Planned |
-| CI/CD | 🟢 Proficient |
+| CI/CD | 🟡 Learning |
 | AWS | ⚪ Planned |
-| Azure | 🟢 Proficient |
+| Azure | 🔴 Beginner |
 
 ### Other
 
 | Skill | Status |
 |-------|--------|
 | Blockchain | 🟡 Learning |
-| Web3 | 🟢 Proficient |
-| Cloud Computing | ⚪ Planned |
+| Web3 | ⚪ Planned |
+| Cloud Computing | 🔴 Beginner |
 
 </details>
 
