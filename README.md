@@ -46,35 +46,43 @@
 
 ### 📑 Hacker News
 
-- **[European Tech Alternatives](https://eutechmap.com/map)**
-  *<p>Article URL: <a href="https://eutechmap.com/map">https://eutechmap.com/map</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=47070142">https://news.ycombinator.com/item?id=4707...*
-  📅 Thu, 19 Feb 2026 05:07:37 +0000
+- **[Show HN: An encrypted, local, cross-platform journaling app](https://github.com/fjrevoredo/mini-diarium)**
+  *<p>Article URL: <a href="https://github.com/fjrevoredo/mini-diarium">https://github.com/fjrevoredo/mini-diarium</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=47072863">https:/...*
+  📅 Thu, 19 Feb 2026 11:54:21 +0000
+
+- **[ShannonMax: A Library to Optimize Emacs Keybindings with Information Theory](https://github.com/sstraust/shannonmax)**
+  *<p>Article URL: <a href="https://github.com/sstraust/shannonmax">https://github.com/sstraust/shannonmax</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=47072603">https://news.yc...*
+  📅 Thu, 19 Feb 2026 11:15:38 +0000
+
+- **[Bridging Elixir and Python with Oban](https://oban.pro/articles/bridging-with-oban)**
+  *<p>Article URL: <a href="https://oban.pro/articles/bridging-with-oban">https://oban.pro/articles/bridging-with-oban</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=47072539">htt...*
+  📅 Thu, 19 Feb 2026 11:07:15 +0000
+
+- **[Show HN: A physically-based GPU ray tracer written in Julia](https://makie.org/website/blogposts/raytracing/)**
+  *<p>We ported pbrt-v4 to Julia and built it into a Makie backend. Any Makie plot can now be rendered with physically-based path tracing.<p>Julia compiles user-defined physics directly into GPU kernels,...*
+  📅 Thu, 19 Feb 2026 10:55:13 +0000
+
+- **[Old School Visual Effects: The Cloud Tank (2010)](http://singlemindedmovieblog.blogspot.com/2010/04/old-school-effects-cloud-tank.html)**
+  *<p>Article URL: <a href="http://singlemindedmovieblog.blogspot.com/2010/04/old-school-effects-cloud-tank.html">http://singlemindedmovieblog.blogspot.com/2010/04/old-school-effects-cloud-tank.html</a><...*
+  📅 Thu, 19 Feb 2026 06:43:53 +0000
 
 - **[Show HN: A Lisp where each function call runs a Docker container](https://github.com/a11ce/docker-lisp)**
   *<p>Article URL: <a href="https://github.com/a11ce/docker-lisp">https://github.com/a11ce/docker-lisp</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=47069876">https://news.ycombi...*
   📅 Thu, 19 Feb 2026 04:19:20 +0000
 
-- **[Ukranian controls Home Assistant over LoRa radio when their power grid goes down](https://old.reddit.com/r/homeassistant/comments/1r8ftc0/i_control_my_home_assistant_over_lora_radio_when/)**
-  *<p>Article URL: <a href="https://old.reddit.com/r/homeassistant/comments/1r8ftc0/i_control_my_home_assistant_over_lora_radio_when/">https://old.reddit.com/r/homeassistant/comments/1r8ftc0/i_control_my...*
-  📅 Thu, 19 Feb 2026 03:56:29 +0000
-
-- **[Electrobun v1: Build fast, tiny, and cross-platform desktop apps with TypeScript](https://blackboard.sh/blog/electrobun-v1/)**
-  *<p>I'm building a commercial macOS app with Electrobun [1]. I have previously written the same app with Tauri. I'll say that, while I love Tauri, using Electrobun has been an absolute breeze. I got th...*
-  📅 Thu, 19 Feb 2026 03:46:07 +0000
-
-- **[Anthropic officially bans using subscription auth for third party use](https://code.claude.com/docs/en/legal-and-compliance)**
-  *<p>Article URL: <a href="https://code.claude.com/docs/en/legal-and-compliance">https://code.claude.com/docs/en/legal-and-compliance</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?...*
-  📅 Thu, 19 Feb 2026 02:52:26 +0000
-
-- **[Step 3.5 Flash: Fast Enough to Think. Reliable Enough to Act](https://static.stepfun.com/blog/step-3.5-flash/)**
-  *<p>Article URL: <a href="https://static.stepfun.com/blog/step-3.5-flash/">https://static.stepfun.com/blog/step-3.5-flash/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=4706917...*
-  📅 Thu, 19 Feb 2026 02:32:00 +0000
-
 ### 📑 TechCrunch
+
+- **[This VC’s best advice for building a founding team](https://techcrunch.com/2026/02/19/this-vcs-best-advice-for-building-a-founding-team/)**
+  *One of the most consequential decisions early-stage founders have to make is who they will bring on as their founding team. The first five to 10 employees will have a massive impact on the company cul...*
+  📅 Thu, 19 Feb 2026 12:30:00 +0000
+
+- **[Reliance unveils $110B AI investment plan as India ramps up tech ambitions](https://techcrunch.com/2026/02/19/reliance-unveils-110b-ai-investment-plan-as-india-ramps-up-tech-ambitions/)**
+  *Reliance has begun building multi-gigawatt AI data centers in Jamnagar, with more than 120 MW of capacity expected to come online in 2026....*
+  📅 Thu, 19 Feb 2026 11:39:17 +0000
 
 - **[OpenAI taps Tata for 100MW AI data center capacity in India, eyes 1GW](https://techcrunch.com/2026/02/18/openai-taps-tata-for-100mw-ai-data-center-capacity-in-india-eyes-1gw/)**
   *OpenAI also plans to expand its presence in India with new offices in Mumbai and Bengaluru later this year....*
@@ -92,29 +100,19 @@
   *The Def Con hacking conference banned hackers Pablos Holman and Vincenzo Iozzo, as well as former MIT Media Lab director Joichi Ito, from attending the annual conference after their reported connectio...*
   📅 Wed, 18 Feb 2026 22:04:13 +0000
 
-- **[Is your startup’s check engine light on? Google Cloud’s VP explains what to do](https://techcrunch.com/video/is-your-startups-check-engine-light-on-google-clouds-vp-explains-what-to-do/)**
-  *Startup founders are being pushed to move faster than ever, using AI while facing tighter funding, rising infrastructure costs, and more pressure to show real traction early. Cloud credits, access to ...*
-  📅 Wed, 18 Feb 2026 21:07:00 +0000
-
-- **[A startup called Germ becomes the first private messenger that launches directly from Bluesky’s app](https://techcrunch.com/2026/02/18/a-startup-called-germ-becomes-the-first-private-messenger-that-launches-directly-from-blueskys-app/)**
-  *Social network Bluesky now offers private messaging by integrating the startup Germ's E2E encrypted messenger natively in its app....*
-  📅 Wed, 18 Feb 2026 20:57:48 +0000
-
 ### 📑 Dev.to
 
-- **[Automating Technical Blog Localization with Gemini CLI Agent Skills [GDE]](https://dev.to/gde/automating-technical-blog-localization-with-gemini-cli-agent-skills-gde-5fm2)**
-  *<h2>
-  
-  
-  The Use Case: Scaling Content to Global Tech Communities
-</h2>
+- **[Do You Want to Learn About Our Lord and Savior SOLID?](https://dev.to/asvid/do-you-want-to-learn-about-our-lord-and-savior-solid-15ka)**
+  *<p>I woke up with the flu, felt adventurous, and, for a while, wanted to disrupt things. So this one is going to be about not praising the SOLID principles.</p>
 
-<p>When content writers write English blog posts, they often want to distribute them to different tech communities to share...*
-  📅 Thu, 19 Feb 2026 06:40:45 +0000
+<p>There are no rocks that you could h...*
+  📅 Thu, 19 Feb 2026 12:37:28 +0000
 
-- **[Enterprise Integration Patterns Every Architect Should Know](https://dev.to/kancherla_venkatadileep/enterprise-integration-patterns-every-architect-should-know-1h5p)**
-  *<p>Modern enterprises run on dozens of systems—ERPs, CRMs, cloud services, data platforms, and third-party APIs. Without a solid integration strategy, these systems become silos that slow down the bus...*
-  📅 Thu, 19 Feb 2026 06:38:50 +0000
+- **[Open Source vs Proprietary LLMs: The Real Cost Breakdown](https://dev.to/lightwheel10/open-source-vs-proprietary-llms-the-real-cost-breakdown-21pg)**
+  *<p><em>Originally published on <a href="https://kaelresearch.com/blog/open-source-vs-proprietary-llms" rel="noopener noreferrer">Kael Research</a></em></p>
+
+<p><strong>TL;DR:</strong> Below 1B tokens/...*
+  📅 Thu, 19 Feb 2026 12:35:29 +0000
 
 </details>
 
@@ -122,103 +120,103 @@
 
 ### 📈 Daily Trending
 
-- **[yeuxuan/openclaw-docs](https://github.com/yeuxuan/openclaw-docs)** ⭐ 25
+- **[yeuxuan/openclaw-docs](https://github.com/yeuxuan/openclaw-docs)** ⭐ 47
   ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
   openclaw 剖析、拆解、教程在线文档
 
-- **[vigneshbrb/vibe-sdd-demo](https://github.com/vigneshbrb/vibe-sdd-demo)** ⭐ 8
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
+- **[Yoahoug/kiro-stack](https://github.com/Yoahoug/kiro-stack)** ⭐ 40
+  ![Python](https://img.shields.io/badge/-Python-blue)
   None
 
-- **[AsharibAli/ramadan-prompting-nights](https://github.com/AsharibAli/ramadan-prompting-nights)** ⭐ 7
-  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
-  Scenario-based prompting competition. 30 nights. 30 real-world coding scenarios
+- **[stephenmaiya64-oss/Marymike](https://github.com/stephenmaiya64-oss/Marymike)** ⭐ 24
+  ![None](https://img.shields.io/badge/-None-lightgrey)
+  None
 
-- **[imbue-bit/TurboTCP](https://github.com/imbue-bit/TurboTCP)** ⭐ 6
-  ![C++](https://img.shields.io/badge/-C++-pink)
-  在内核层面优化TCP的发包速度与稳健性。
-
-- **[JadenJSJ/yt-watch-later-tools](https://github.com/JadenJSJ/yt-watch-later-tools)** ⭐ 6
+- **[JadenJSJ/yt-watch-later-tools](https://github.com/JadenJSJ/yt-watch-later-tools)** ⭐ 17
   ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
   Userscript to automate removing videos from YouTube Watch Later. Say bye to "Maximum playlist size exceeded"
 
-- **[Yoahoug/kiro-stack](https://github.com/Yoahoug/kiro-stack)** ⭐ 5
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  None
+- **[RightNow-AI/picolm](https://github.com/RightNow-AI/picolm)** ⭐ 15
+  ![C](https://img.shields.io/badge/-C-lightgrey)
+  Run a 1-billion parameter LLM on a $10 board with 256MB RAM
 
-- **[LorenzMeier/mavlink-m](https://github.com/LorenzMeier/mavlink-m)** ⭐ 5
+- **[AsharibAli/ramadan-prompting-nights](https://github.com/AsharibAli/ramadan-prompting-nights)** ⭐ 14
+  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
+  A scenario-based prompting competition exclusively for GIAIC students.
+
+- **[LorenzMeier/mavlink-m](https://github.com/LorenzMeier/mavlink-m)** ⭐ 12
   ![None](https://img.shields.io/badge/-None-lightgrey)
   MAVLink Military Messages
 
-- **[michellemayes/terrarium](https://github.com/michellemayes/terrarium)** ⭐ 4
-  ![Rust](https://img.shields.io/badge/-Rust-brown)
-  A tiny terrarium to view your TSX components. Lightweight Mac app built with Tauri & Rust.
+- **[lich-uct/cdd2026](https://github.com/lich-uct/cdd2026)** ⭐ 9
+  ![Jupyter Notebook](https://img.shields.io/badge/-Jupyter Notebook-lightgrey)
+  None
 
 ### 📈 Weekly Trending
 
-- **[zeroclaw-labs/zeroclaw](https://github.com/zeroclaw-labs/zeroclaw)** ⭐ 13,953
+- **[zeroclaw-labs/zeroclaw](https://github.com/zeroclaw-labs/zeroclaw)** ⭐ 14,568
   ![Rust](https://img.shields.io/badge/-Rust-brown)
   Fast, small, and fully autonomous AI assistant infrastructure — deploy anywhere, swap anything 🦀
 
-- **[bwya77/vscode-dark-islands](https://github.com/bwya77/vscode-dark-islands)** ⭐ 3,626
+- **[bwya77/vscode-dark-islands](https://github.com/bwya77/vscode-dark-islands)** ⭐ 3,642
   ![PowerShell](https://img.shields.io/badge/-PowerShell-lightgrey)
   VSCode theme based off the easemate IDE and Jetbrains islands theme
 
-- **[HKUDS/ClawWork](https://github.com/HKUDS/ClawWork)** ⭐ 2,921
+- **[HKUDS/ClawWork](https://github.com/HKUDS/ClawWork)** ⭐ 3,277
   ![Python](https://img.shields.io/badge/-Python-blue)
   "ClawWork: OpenClaw as Your AI Coworker - 💰 $10K earned in 7 Hours"
 
-- **[millionco/react-doctor](https://github.com/millionco/react-doctor)** ⭐ 2,313
+- **[millionco/react-doctor](https://github.com/millionco/react-doctor)** ⭐ 2,669
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   Let coding agents diagnose and fix your React code
 
-- **[vercel-labs/portless](https://github.com/vercel-labs/portless)** ⭐ 1,171
+- **[vercel-labs/portless](https://github.com/vercel-labs/portless)** ⭐ 1,220
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   Replace port numbers with stable, named .localhost URLs. For humans and agents.
 
-- **[Conway-Research/automaton](https://github.com/Conway-Research/automaton)** ⭐ 1,129
+- **[Conway-Research/automaton](https://github.com/Conway-Research/automaton)** ⭐ 1,202
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   The first AI that can earn its own existence, replicate, and evolve — without needing a human
 
-- **[Zaneham/BarraCUDA](https://github.com/Zaneham/BarraCUDA)** ⭐ 907
+- **[Zaneham/BarraCUDA](https://github.com/Zaneham/BarraCUDA)** ⭐ 982
   ![C](https://img.shields.io/badge/-C-lightgrey)
   Open-source CUDA compiler targeting AMD GPUs (and more in the future!). Compiles .cu to GFX11 machine code.
 
-- **[mickamy/sql-tap](https://github.com/mickamy/sql-tap)** ⭐ 901
+- **[mickamy/sql-tap](https://github.com/mickamy/sql-tap)** ⭐ 904
   ![Go](https://img.shields.io/badge/-Go-cyan)
   Watch SQL traffic in real-time with a TUI
 
 ### 📈 Monthly Trending
 
-- **[HKUDS/nanobot](https://github.com/HKUDS/nanobot)** ⭐ 21,563
+- **[HKUDS/nanobot](https://github.com/HKUDS/nanobot)** ⭐ 21,668
   ![Python](https://img.shields.io/badge/-Python-blue)
   "🐈 nanobot: The Ultra-Lightweight OpenClaw"
 
-- **[VoltAgent/awesome-openclaw-skills](https://github.com/VoltAgent/awesome-openclaw-skills)** ⭐ 16,754
+- **[VoltAgent/awesome-openclaw-skills](https://github.com/VoltAgent/awesome-openclaw-skills)** ⭐ 16,852
   ![None](https://img.shields.io/badge/-None-lightgrey)
   The awesome collection of OpenClaw Skills. Formerly known as Moltbot, originally Clawdbot.
 
-- **[sipeed/picoclaw](https://github.com/sipeed/picoclaw)** ⭐ 15,949
+- **[sipeed/picoclaw](https://github.com/sipeed/picoclaw)** ⭐ 16,118
   ![Go](https://img.shields.io/badge/-Go-cyan)
   Tiny, Fast, and Deployable anywhere — automate the mundane, unleash your creativity
 
-- **[zeroclaw-labs/zeroclaw](https://github.com/zeroclaw-labs/zeroclaw)** ⭐ 13,953
+- **[zeroclaw-labs/zeroclaw](https://github.com/zeroclaw-labs/zeroclaw)** ⭐ 14,568
   ![Rust](https://img.shields.io/badge/-Rust-brown)
   Fast, small, and fully autonomous AI assistant infrastructure — deploy anywhere, swap anything 🦀
 
-- **[qwibitai/nanoclaw](https://github.com/qwibitai/nanoclaw)** ⭐ 9,330
+- **[qwibitai/nanoclaw](https://github.com/qwibitai/nanoclaw)** ⭐ 9,382
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   A lightweight alternative to Clawdbot / OpenClaw that runs in containers for security. Connects to WhatsApp, has memory, scheduled jobs, and runs directly on Anthropic's Agents SDK
 
-- **[cloudflare/moltworker](https://github.com/cloudflare/moltworker)** ⭐ 8,936
+- **[cloudflare/moltworker](https://github.com/cloudflare/moltworker)** ⭐ 8,951
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   Run OpenClaw, (formerly Moltbot, formerly Clawdbot) on Cloudflare Workers
 
-- **[QwenLM/Qwen3-TTS](https://github.com/QwenLM/Qwen3-TTS)** ⭐ 7,965
+- **[QwenLM/Qwen3-TTS](https://github.com/QwenLM/Qwen3-TTS)** ⭐ 7,988
   ![Python](https://img.shields.io/badge/-Python-blue)
   Qwen3-TTS is an open-source series of TTS models developed by the Qwen team at Alibaba Cloud, supporting stable, expressive, and streaming speech generation, free-form voice design, and vivid voice cloning.
 
-- **[anthropics/knowledge-work-plugins](https://github.com/anthropics/knowledge-work-plugins)** ⭐ 7,538
+- **[anthropics/knowledge-work-plugins](https://github.com/anthropics/knowledge-work-plugins)** ⭐ 7,551
   ![Python](https://img.shields.io/badge/-Python-blue)
   Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork
 
@@ -483,17 +481,17 @@ See [kubernetes-announce@](https://groups.google.com/forum/#!forum/kubernetes-an
 | Skill | Status |
 |-------|--------|
 | Java | ⚪ Planned |
-| Python | 🟢 Proficient |
-| JavaScript | 🟡 Learning |
-| TypeScript | ⚪ Planned |
-| Go | 🟢 Proficient |
+| Python | ⚪ Planned |
+| JavaScript | 🔴 Beginner |
+| TypeScript | 🟢 Proficient |
+| Go | 🟡 Learning |
 
 ### Frameworks
 
 | Skill | Status |
 |-------|--------|
 | React | 🟡 Learning |
-| Spring Boot | 🔴 Beginner |
+| Spring Boot | 🟢 Proficient |
 | Django | ⚪ Planned |
 | Node.js | 🟢 Proficient |
 | Next.js | 🔴 Beginner |
@@ -502,39 +500,39 @@ See [kubernetes-announce@](https://groups.google.com/forum/#!forum/kubernetes-an
 
 | Skill | Status |
 |-------|--------|
-| Penetration Testing | 🔴 Beginner |
-| Web Security | 🔴 Beginner |
-| Network Security | ⚪ Planned |
-| OWASP | ⚪ Planned |
+| Penetration Testing | ⚪ Planned |
+| Web Security | 🟡 Learning |
+| Network Security | 🟢 Proficient |
+| OWASP | 🟢 Proficient |
 
 ### Ai Ml
 
 | Skill | Status |
 |-------|--------|
-| Machine Learning | 🔴 Beginner |
+| Machine Learning | ⚪ Planned |
 | Deep Learning | ⚪ Planned |
-| NLP | ⚪ Planned |
-| Computer Vision | 🔴 Beginner |
-| TensorFlow | 🟡 Learning |
-| PyTorch | ⚪ Planned |
+| NLP | 🟢 Proficient |
+| Computer Vision | 🟡 Learning |
+| TensorFlow | ⚪ Planned |
+| PyTorch | 🔴 Beginner |
 
 ### Devops
 
 | Skill | Status |
 |-------|--------|
-| Docker | ⚪ Planned |
-| Kubernetes | 🔴 Beginner |
-| CI/CD | 🟢 Proficient |
-| AWS | 🔴 Beginner |
+| Docker | 🟡 Learning |
+| Kubernetes | 🟡 Learning |
+| CI/CD | 🔴 Beginner |
+| AWS | 🟢 Proficient |
 | Azure | 🟡 Learning |
 
 ### Other
 
 | Skill | Status |
 |-------|--------|
-| Blockchain | 🟡 Learning |
-| Web3 | 🔴 Beginner |
-| Cloud Computing | 🔴 Beginner |
+| Blockchain | ⚪ Planned |
+| Web3 | ⚪ Planned |
+| Cloud Computing | 🟡 Learning |
 
 </details>
 
