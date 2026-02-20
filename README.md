@@ -46,37 +46,38 @@
 
 ### 📑 Hacker News
 
-- **[Reading the undocumented MEMS accelerometer on Apple Silicon MacBooks via iokit](https://github.com/olvvier/apple-silicon-accelerometer)**
-  *<p>Article URL: <a href="https://github.com/olvvier/apple-silicon-accelerometer">https://github.com/olvvier/apple-silicon-accelerometer</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/i...*
-  📅 Fri, 20 Feb 2026 05:06:40 +0000
+- **[Hyperbound (YC S23, Series A) needs a Engineer with something to prove](https://www.ycombinator.com/companies/hyperbound/jobs/UCvdGiu-a-full-stack-engineer-with-something-to-prove)**
+  *<p>Article URL: <a href="https://www.ycombinator.com/companies/hyperbound/jobs/UCvdGiu-a-full-stack-engineer-with-something-to-prove">https://www.ycombinator.com/companies/hyperbound/jobs/UCvdGiu-a-fu...*
+  📅 Fri, 20 Feb 2026 12:01:14 +0000
 
-- **[Fast KV Compaction via Attention Matching](https://arxiv.org/abs/2602.16284)**
-  *<p>Article URL: <a href="https://arxiv.org/abs/2602.16284">https://arxiv.org/abs/2602.16284</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=47083882">https://news.ycombinator.co...*
-  📅 Fri, 20 Feb 2026 04:46:37 +0000
+- **[Minions – Stripe's Coding Agents Part 2](https://stripe.dev/blog/minions-stripes-one-shot-end-to-end-coding-agents-part-2)**
+  *<p>Article URL: <a href="https://stripe.dev/blog/minions-stripes-one-shot-end-to-end-coding-agents-part-2">https://stripe.dev/blog/minions-stripes-one-shot-end-to-end-coding-agents-part-2</a></p>
+<p>C...*
+  📅 Fri, 20 Feb 2026 11:20:02 +0000
 
-- **[Mystery donor gives Japanese city $3.6M in gold bars to fix water system](https://www.bbc.com/news/articles/c3ew5jlqz87o)**
-  *<p>Article URL: <a href="https://www.bbc.com/news/articles/c3ew5jlqz87o">https://www.bbc.com/news/articles/c3ew5jlqz87o</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=47083735"...*
-  📅 Fri, 20 Feb 2026 04:27:51 +0000
+- **[Ask HN: How to measure how much data one can effectively process or understand?](https://news.ycombinator.com/item?id=47086423)**
+  *<p>Is there a scale of how much data one can effectively process, something similar to the "Kardashev scale for data"? What would be a name for such a thing? During Memgraph's Community Call (https://...*
+  📅 Fri, 20 Feb 2026 11:02:36 +0000
 
-- **[Consistency diffusion language models: Up to 14x faster, no quality loss](https://www.together.ai/blog/consistency-diffusion-language-models)**
-  *<p>Article URL: <a href="https://www.together.ai/blog/consistency-diffusion-language-models">https://www.together.ai/blog/consistency-diffusion-language-models</a></p>
-<p>Comments URL: <a href="https:...*
-  📅 Fri, 20 Feb 2026 04:15:58 +0000
+- **[The path to ubiquitous AI (17k tokens/sec)](https://taalas.com/the-path-to-ubiquitous-ai/)**
+  *<p>Article URL: <a href="https://taalas.com/the-path-to-ubiquitous-ai/">https://taalas.com/the-path-to-ubiquitous-ai/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=47086181">h...*
+  📅 Fri, 20 Feb 2026 10:32:52 +0000
 
-- **[An AI Agent Published a Hit Piece on Me – The Operator Came Forward](https://theshamblog.com/an-ai-agent-wrote-a-hit-piece-on-me-part-4/)**
-  *<p>Article URL: <a href="https://theshamblog.com/an-ai-agent-wrote-a-hit-piece-on-me-part-4/">https://theshamblog.com/an-ai-agent-wrote-a-hit-piece-on-me-part-4/</a></p>
+- **[SwiftUI Agent Skill: Build Better Views with AI](https://www.avanderlee.com/ai-development/swiftui-agent-skill-build-better-views-with-ai/)**
+  *<p>Article URL: <a href="https://www.avanderlee.com/ai-development/swiftui-agent-skill-build-better-views-with-ai/">https://www.avanderlee.com/ai-development/swiftui-agent-skill-build-better-views-wit...*
+  📅 Fri, 20 Feb 2026 10:31:17 +0000
+
+- **[I tried building my startup entirely on European infrastructure](https://www.coinerella.com/made-in-eu-it-was-harder-than-i-thought/)**
+  *<p>Article URL: <a href="https://www.coinerella.com/made-in-eu-it-was-harder-than-i-thought/">https://www.coinerella.com/made-in-eu-it-was-harder-than-i-thought/</a></p>
 <p>Comments URL: <a href="http...*
-  📅 Fri, 20 Feb 2026 03:05:08 +0000
-
-- **[Pi for Excel: AI sidebar add-in for Excel, powered by Pi](https://github.com/tmustier/pi-for-excel)**
-  *<p>Article URL: <a href="https://github.com/tmustier/pi-for-excel">https://github.com/tmustier/pi-for-excel</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=47082854">https://new...*
-  📅 Fri, 20 Feb 2026 02:20:06 +0000
+  📅 Fri, 20 Feb 2026 09:02:05 +0000
 
 ### 📑 TechCrunch
+
+- **[UAE’s G42 teams up with Cerebras to deploy 8 exaflops of compute in India](https://techcrunch.com/2026/02/20/uaes-g42-teams-up-with-cerebras-to-deploy-8-exaflops-of-compute-in-india/)**
+  *Abu Dhabi-based tech company G42 has partnered with U.S.-based chipmaker Cerebras to deploy eight exaflops of compute through a new system in India...*
+  📅 Fri, 20 Feb 2026 11:58:15 +0000
 
 - **[General Catalyst commits $5B to India over five years](https://techcrunch.com/2026/02/19/general-catalyst-commits-5b-to-india-over-five-years/)**
   *The pledge marks a sharp jump from General Catalyst's earlier $500 million–$1 billion India earmark....*
@@ -98,19 +99,20 @@
   *The FBI says hacks that trick ATMs into spitting out cash on demand are rising, with hundreds of attacks in the past year alone netting hackers millions in stolen bills....*
   📅 Thu, 19 Feb 2026 22:31:34 +0000
 
-- **[At a critical moment, Snap loses a top Specs exec](https://techcrunch.com/2026/02/19/at-a-critical-moment-snap-loses-a-top-specs-exec/)**
-  *As Snap readies the public release of its long-awaited VR glasses, one of the key executives on the project has left the company....*
-  📅 Thu, 19 Feb 2026 22:30:36 +0000
-
 ### 📑 Dev.to
 
-- **[I Built Vector-Only Search First. Here's Why I Had to Rewrite It.](https://dev.to/rosen_hristov/i-built-vector-only-search-first-heres-why-i-had-to-rewrite-it-4dh0)**
-  *<p>I spent three weeks building a pure vector search for an e-commerce product catalog. Embedded everything with <code>multilingual-e5-large</code>, loaded it into Qdrant, and ran my first test querie...*
-  📅 Fri, 20 Feb 2026 06:32:07 +0000
+- **[Building CoinFlow: My First Personal Finance App (Now in Open Testing)](https://dev.to/app_droid_41580a2eb6/building-coinflow-my-first-personal-finance-app-now-in-open-testing-5e0a)**
+  *<p>🚀 I Launched My First Android App – CoinFlow (Open Testing Now Live)</p>
 
-- **[Building a Persistent Dark Mode in HarmonyOS with ArkTS Preferences](https://dev.to/harmonyos/building-a-persistent-dark-mode-in-harmonyos-with-arkts-preferences-3pol)**
-  *<p><a href="https://forums.developer.huawei.com/forumPortal/en/topic/0201194259065460045?ha_source=dev-shequ&amp;ha_sourceId=89000192" rel="noopener noreferrer">Read the original article：Building a Pe...*
-  📅 Fri, 20 Feb 2026 06:32:00 +0000
+<p>After months of late-night development sessions, debugging, redesigning, and rethinking UX decisions… I finally publishe...*
+  📅 Fri, 20 Feb 2026 12:31:30 +0000
+
+- **[Laravel Notifications in Practice: Mail, Database, Queues, and Clean Testing](https://dev.to/blamsa0mine/laravel-notifications-le-guide-pratique-mail-database-et-performance-18hm)**
+  *<p>Notifications look simple at first—until your app grows. You start by sending a quick email from a controller, but soon you need more:</p>
+
+<ul>
+<li>  Email <strong>and</strong> in-app notification...*
+  📅 Fri, 20 Feb 2026 12:21:14 +0000
 
 </details>
 
@@ -118,103 +120,103 @@
 
 ### 📈 Daily Trending
 
-- **[ShinMegamiBoson/OpenPlanter](https://github.com/ShinMegamiBoson/OpenPlanter)** ⭐ 133
+- **[ShinMegamiBoson/OpenPlanter](https://github.com/ShinMegamiBoson/OpenPlanter)** ⭐ 294
   ![Python](https://img.shields.io/badge/-Python-blue)
   None
 
-- **[cis2042/UX3-skill](https://github.com/cis2042/UX3-skill)** ⭐ 12
-  ![None](https://img.shields.io/badge/-None-lightgrey)
-  UX3- the Art of Experience Design
-
-- **[Shubhamsaboo/gemini-artboard](https://github.com/Shubhamsaboo/gemini-artboard)** ⭐ 11
+- **[Shubhamsaboo/gemini-artboard](https://github.com/Shubhamsaboo/gemini-artboard)** ⭐ 23
   ![HTML](https://img.shields.io/badge/-HTML-lightgrey)
   Self-contained creative coding playground for Gemini 3.1 Pro
 
-- **[rodrigonbarreto/dry_params](https://github.com/rodrigonbarreto/dry_params)** ⭐ 5
+- **[cis2042/UX3-skill](https://github.com/cis2042/UX3-skill)** ⭐ 17
+  ![None](https://img.shields.io/badge/-None-lightgrey)
+  UX3- the Art of Experience Design
+
+- **[WistfulHopes/DBZ1](https://github.com/WistfulHopes/DBZ1)** ⭐ 13
+  ![C++](https://img.shields.io/badge/-C++-pink)
+  Dragon Ball Z Budokai HD Recompiled
+
+- **[rocket4ce/live_flow](https://github.com/rocket4ce/live_flow)** ⭐ 9
+  ![Elixir](https://img.shields.io/badge/-Elixir-lightgrey)
+  None
+
+- **[WistfulHopes/RB2](https://github.com/WistfulHopes/RB2)** ⭐ 8
+  ![C++](https://img.shields.io/badge/-C++-pink)
+  Dragon Ball Raging Blast 2 Recompiled
+
+- **[rodrigonbarreto/dry_params](https://github.com/rodrigonbarreto/dry_params)** ⭐ 8
   ![Ruby](https://img.shields.io/badge/-Ruby-lightgrey)
   None
 
-- **[obra/iMessagePrinter](https://github.com/obra/iMessagePrinter)** ⭐ 4
-  ![Swift](https://img.shields.io/badge/-Swift-lightgrey)
-  macOS app to browse iMessage conversations and export them as formatted PDFs
-
-- **[NadeeshaMedagama/dev-choreo_architecture](https://github.com/NadeeshaMedagama/dev-choreo_architecture)** ⭐ 4
-  ![HTML](https://img.shields.io/badge/-HTML-lightgrey)
-  AI assistant delivering context-aware Choreo documentation answers using RAG.
-
-- **[NadeeshaMedagama/repo-sync_architecture](https://github.com/NadeeshaMedagama/repo-sync_architecture)** ⭐ 4
-  ![HTML](https://img.shields.io/badge/-HTML-lightgrey)
-  Interactive diagram showing RepoSync pipeline syncing repositories to RAG databases.
-
-- **[chrisvoncsefalvay/clawventure](https://github.com/chrisvoncsefalvay/clawventure)** ⭐ 3
+- **[membranedev/membranedev](https://github.com/membranedev/membranedev)** ⭐ 7
   ![None](https://img.shields.io/badge/-None-lightgrey)
-  Interactive fiction engine for Claude Code
+  None
 
 ### 📈 Weekly Trending
 
-- **[HKUDS/ClawWork](https://github.com/HKUDS/ClawWork)** ⭐ 4,112
+- **[HKUDS/ClawWork](https://github.com/HKUDS/ClawWork)** ⭐ 4,329
   ![Python](https://img.shields.io/badge/-Python-blue)
   "ClawWork: OpenClaw as Your AI Coworker - 💰 $10K earned in 7 Hours"
 
-- **[bwya77/vscode-dark-islands](https://github.com/bwya77/vscode-dark-islands)** ⭐ 3,682
+- **[bwya77/vscode-dark-islands](https://github.com/bwya77/vscode-dark-islands)** ⭐ 3,696
   ![PowerShell](https://img.shields.io/badge/-PowerShell-lightgrey)
   VSCode theme based off the easemate IDE and Jetbrains islands theme
 
-- **[vercel-labs/portless](https://github.com/vercel-labs/portless)** ⭐ 1,556
+- **[vercel-labs/portless](https://github.com/vercel-labs/portless)** ⭐ 1,666
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   Replace port numbers with stable, named .localhost URLs. For humans and agents.
 
-- **[Conway-Research/automaton](https://github.com/Conway-Research/automaton)** ⭐ 1,512
+- **[Conway-Research/automaton](https://github.com/Conway-Research/automaton)** ⭐ 1,599
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   The first AI that can earn its own existence, replicate, and evolve — without needing a human
 
-- **[nicobailon/visual-explainer](https://github.com/nicobailon/visual-explainer)** ⭐ 1,271
+- **[nicobailon/visual-explainer](https://github.com/nicobailon/visual-explainer)** ⭐ 1,502
   ![HTML](https://img.shields.io/badge/-HTML-lightgrey)
   Agent skill + prompt templates that generate rich HTML pages for visual diff reviews, architecture overviews, plan audits, data tables, and project recaps
 
-- **[Zaneham/BarraCUDA](https://github.com/Zaneham/BarraCUDA)** ⭐ 1,113
+- **[Zaneham/BarraCUDA](https://github.com/Zaneham/BarraCUDA)** ⭐ 1,153
   ![C](https://img.shields.io/badge/-C-lightgrey)
   Open-source CUDA compiler targeting AMD GPUs (and more in the future!). Compiles .cu to GFX11 machine code.
 
-- **[agenticnotetaking/arscontexta](https://github.com/agenticnotetaking/arscontexta)** ⭐ 1,041
+- **[agenticnotetaking/arscontexta](https://github.com/agenticnotetaking/arscontexta)** ⭐ 1,108
   ![Shell](https://img.shields.io/badge/-Shell-lightgrey)
   Claude Code plugin that generates individualized knowledge systems from conversation. You describe how you think and work, have a conversation and get a complete second brain as markdown files you own.
 
-- **[AlexsJones/llmfit](https://github.com/AlexsJones/llmfit)** ⭐ 975
+- **[AlexsJones/llmfit](https://github.com/AlexsJones/llmfit)** ⭐ 1,049
   ![Rust](https://img.shields.io/badge/-Rust-brown)
   157 models. 30 providers. One command to find what runs on your hardware.
 
 ### 📈 Monthly Trending
 
-- **[HKUDS/nanobot](https://github.com/HKUDS/nanobot)** ⭐ 22,012
+- **[HKUDS/nanobot](https://github.com/HKUDS/nanobot)** ⭐ 22,104
   ![Python](https://img.shields.io/badge/-Python-blue)
   "🐈 nanobot: The Ultra-Lightweight OpenClaw"
 
-- **[VoltAgent/awesome-openclaw-skills](https://github.com/VoltAgent/awesome-openclaw-skills)** ⭐ 17,075
+- **[VoltAgent/awesome-openclaw-skills](https://github.com/VoltAgent/awesome-openclaw-skills)** ⭐ 17,172
   ![None](https://img.shields.io/badge/-None-lightgrey)
   The awesome collection of OpenClaw Skills. Formerly known as Moltbot, originally Clawdbot.
 
-- **[sipeed/picoclaw](https://github.com/sipeed/picoclaw)** ⭐ 16,601
+- **[sipeed/picoclaw](https://github.com/sipeed/picoclaw)** ⭐ 16,745
   ![Go](https://img.shields.io/badge/-Go-cyan)
   Tiny, Fast, and Deployable anywhere — automate the mundane, unleash your creativity
 
-- **[zeroclaw-labs/zeroclaw](https://github.com/zeroclaw-labs/zeroclaw)** ⭐ 15,235
+- **[zeroclaw-labs/zeroclaw](https://github.com/zeroclaw-labs/zeroclaw)** ⭐ 15,455
   ![Rust](https://img.shields.io/badge/-Rust-brown)
   Fast, small, and fully autonomous AI assistant infrastructure — deploy anywhere, swap anything 🦀
 
-- **[qwibitai/nanoclaw](https://github.com/qwibitai/nanoclaw)** ⭐ 9,539
+- **[qwibitai/nanoclaw](https://github.com/qwibitai/nanoclaw)** ⭐ 9,607
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   A lightweight alternative to Clawdbot / OpenClaw that runs in containers for security. Connects to WhatsApp, has memory, scheduled jobs, and runs directly on Anthropic's Agents SDK
 
-- **[cloudflare/moltworker](https://github.com/cloudflare/moltworker)** ⭐ 8,984
+- **[cloudflare/moltworker](https://github.com/cloudflare/moltworker)** ⭐ 8,999
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   Run OpenClaw, (formerly Moltbot, formerly Clawdbot) on Cloudflare Workers
 
-- **[anthropics/knowledge-work-plugins](https://github.com/anthropics/knowledge-work-plugins)** ⭐ 7,587
+- **[anthropics/knowledge-work-plugins](https://github.com/anthropics/knowledge-work-plugins)** ⭐ 7,599
   ![Python](https://img.shields.io/badge/-Python-blue)
   Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork
 
-- **[lukilabs/beautiful-mermaid](https://github.com/lukilabs/beautiful-mermaid)** ⭐ 7,199
+- **[lukilabs/beautiful-mermaid](https://github.com/lukilabs/beautiful-mermaid)** ⭐ 7,211
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   None
 
@@ -481,28 +483,28 @@ See [kubernetes-announce@](https://groups.google.com/forum/#!forum/kubernetes-an
 
 | Skill | Status |
 |-------|--------|
-| Java | ⚪ Planned |
-| Python | ⚪ Planned |
-| JavaScript | 🟡 Learning |
-| TypeScript | 🔴 Beginner |
-| Go | 🟡 Learning |
+| Java | 🟡 Learning |
+| Python | 🟢 Proficient |
+| JavaScript | ⚪ Planned |
+| TypeScript | ⚪ Planned |
+| Go | ⚪ Planned |
 
 ### Frameworks
 
 | Skill | Status |
 |-------|--------|
-| React | 🟡 Learning |
-| Spring Boot | 🔴 Beginner |
-| Django | 🟡 Learning |
-| Node.js | 🟢 Proficient |
-| Next.js | 🟢 Proficient |
+| React | 🔴 Beginner |
+| Spring Boot | 🟡 Learning |
+| Django | ⚪ Planned |
+| Node.js | 🟡 Learning |
+| Next.js | 🟡 Learning |
 
 ### Cybersecurity
 
 | Skill | Status |
 |-------|--------|
 | Penetration Testing | 🟢 Proficient |
-| Web Security | 🟡 Learning |
+| Web Security | ⚪ Planned |
 | Network Security | ⚪ Planned |
 | OWASP | 🔴 Beginner |
 
@@ -510,30 +512,30 @@ See [kubernetes-announce@](https://groups.google.com/forum/#!forum/kubernetes-an
 
 | Skill | Status |
 |-------|--------|
-| Machine Learning | ⚪ Planned |
+| Machine Learning | 🟡 Learning |
 | Deep Learning | 🟢 Proficient |
 | NLP | 🟡 Learning |
 | Computer Vision | 🟢 Proficient |
-| TensorFlow | ⚪ Planned |
-| PyTorch | 🟢 Proficient |
+| TensorFlow | 🟡 Learning |
+| PyTorch | ⚪ Planned |
 
 ### Devops
 
 | Skill | Status |
 |-------|--------|
 | Docker | 🔴 Beginner |
-| Kubernetes | 🟢 Proficient |
-| CI/CD | ⚪ Planned |
-| AWS | ⚪ Planned |
+| Kubernetes | 🔴 Beginner |
+| CI/CD | 🟢 Proficient |
+| AWS | 🟢 Proficient |
 | Azure | 🟡 Learning |
 
 ### Other
 
 | Skill | Status |
 |-------|--------|
-| Blockchain | 🟢 Proficient |
-| Web3 | 🟢 Proficient |
-| Cloud Computing | ⚪ Planned |
+| Blockchain | ⚪ Planned |
+| Web3 | 🔴 Beginner |
+| Cloud Computing | 🟡 Learning |
 
 </details>
 
