@@ -7,7 +7,7 @@
 ![AI & ML](https://img.shields.io/badge/-AI%20&%20ML-blue) ![CyberSecurity](https://img.shields.io/badge/-CyberSecurity-red) ![Full Stack Development](https://img.shields.io/badge/-Full%20Stack%20Development-green)
 
 [![Auto Update](https://img.shields.io/badge/Auto%20Update-Enabled-success)](https://github.com/yourusername/tech-dashboard/actions)
-[![Last Updated](https://img.shields.io/badge/Last%20Updated-February 21, 2026-blue)](https://github.com/yourusername/tech-dashboard)
+[![Last Updated](https://img.shields.io/badge/Last%20Updated-February 22, 2026-blue)](https://github.com/yourusername/tech-dashboard)
 
 *Automatically updated every 6 hours with the latest tech news, trending repositories, and learning resources.*
 
@@ -46,38 +46,44 @@
 
 ### 📑 Hacker News
 
-- **[What Not to Write on Your Security Clearance Form](https://milk.com/wall-o-shame/security_clearance.html)**
-  *<p>Article URL: <a href="https://milk.com/wall-o-shame/security_clearance.html">https://milk.com/wall-o-shame/security_clearance.html</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/ite...*
-  📅 Sat, 21 Feb 2026 17:08:12 +0000
+- **[How I use Claude Code: Separation of planning and execution](https://boristane.com/blog/how-i-use-claude-code/)**
+  *<p>Article URL: <a href="https://boristane.com/blog/how-i-use-claude-code/">https://boristane.com/blog/how-i-use-claude-code/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=471...*
+  📅 Sun, 22 Feb 2026 00:29:05 +0000
 
-- **[The Nekonomicon – Nekochan.net Archive, Updated](http://nekonomicon.irixnet.org/)**
-  *<p>Article URL: <a href="http://nekonomicon.irixnet.org/">http://nekonomicon.irixnet.org/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=47102208">https://news.ycombinator.com/...*
-  📅 Sat, 21 Feb 2026 16:27:01 +0000
+- **[Are compilers deterministic?](https://blog.onepatchdown.net/2026/02/22/are-compilers-deterministic-nerd-version/)**
+  *<p>Article URL: <a href="https://blog.onepatchdown.net/2026/02/22/are-compilers-deterministic-nerd-version/">https://blog.onepatchdown.net/2026/02/22/are-compilers-deterministic-nerd-version/</a></p>
+...*
+  📅 Sun, 22 Feb 2026 00:21:05 +0000
 
-- **[Show HN: Iron-Wolf – Wolfenstein 3D source port in Rust](https://github.com/Ragnaroek/iron-wolf)**
-  *<p>The goal is to have a pixel, mod-friendly perfect recreation of Wolfenstein 3D in Rust.</p>
-<hr />
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=47101890">https://news.ycombinator....*
-  📅 Sat, 21 Feb 2026 15:52:20 +0000
+- **[Evidence of the bouba-kiki effect in naïve baby chicks](https://www.science.org/doi/10.1126/science.adq7188)**
+  *<p>Article URL: <a href="https://www.science.org/doi/10.1126/science.adq7188">https://www.science.org/doi/10.1126/science.adq7188</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id...*
+  📅 Sat, 21 Feb 2026 21:51:58 +0000
 
-- **[macOS's Little-Known Command-Line Sandboxing Tool (2025)](https://igorstechnoclub.com/sandbox-exec/)**
-  *<p>Article URL: <a href="https://igorstechnoclub.com/sandbox-exec/">https://igorstechnoclub.com/sandbox-exec/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=47101200">https://n...*
-  📅 Sat, 21 Feb 2026 14:34:45 +0000
+- **[Why is Claude an Electron app?](https://www.dbreunig.com/2026/02/21/why-is-claude-an-electron-app.html)**
+  *<p>Article URL: <a href="https://www.dbreunig.com/2026/02/21/why-is-claude-an-electron-app.html">https://www.dbreunig.com/2026/02/21/why-is-claude-an-electron-app.html</a></p>
+<p>Comments URL: <a href...*
+  📅 Sat, 21 Feb 2026 21:28:13 +0000
 
-- **[CXMT has been offering DDR4 chips at about half the prevailing market rate](https://www.koreaherald.com/article/10679206)**
-  *<p>Article URL: <a href="https://www.koreaherald.com/article/10679206">https://www.koreaherald.com/article/10679206</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=47101171">htt...*
-  📅 Sat, 21 Feb 2026 14:32:16 +0000
+- **[Show HN: Llama 3.1 70B on a single RTX 3090 via NVMe-to-GPU bypassing the CPU](https://github.com/xaskasdf/ntransformer)**
+  *<p>Hi everyone, I'm kinda involved in some retrogaming and with some experiments I ran into the following question: "It would be possible to run transformer models bypassing the cpu/ram, connecting th...*
+  📅 Sat, 21 Feb 2026 20:57:30 +0000
 
-- **[Padlet (YC W13) Is Hiring in San Francisco and Singapore](https://padlet.jobs)**
-  *<p>Article URL: <a href="https://padlet.jobs">https://padlet.jobs</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=47099982">https://news.ycombinator.com/item?id=47099982</a></p>...*
-  📅 Sat, 21 Feb 2026 12:02:14 +0000
+- **[Online Pebble Development](https://cloudpebble.repebble.com/)**
+  *<p>Article URL: <a href="https://cloudpebble.repebble.com/">https://cloudpebble.repebble.com/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=47104613">https://news.ycombinator....*
+  📅 Sat, 21 Feb 2026 20:50:46 +0000
 
 ### 📑 TechCrunch
+
+- **[Sam Altman would like remind you that humans use a lot of energy, too](https://techcrunch.com/2026/02/21/sam-altman-would-like-remind-you-that-humans-use-a-lot-of-energy-too/)**
+  *"It also takes a lot of energy to train a human."...*
+  📅 Sat, 21 Feb 2026 21:38:01 +0000
+
+- **[Wikipedia blacklists Archive.today after alleged DDoS attack](https://techcrunch.com/2026/02/21/wikipedia-blacklists-archive-today-after-alleged-ddos-attack/)**
+  *Wikipedia editors have decided to remove all links to Archive.today, a web archiving service that they said has been linked to more than 695,000 times across the online encyclopedia....*
+  📅 Sat, 21 Feb 2026 20:20:15 +0000
 
 - **[Microsoft’s new gaming CEO vows not to flood the ecosystem with ‘endless AI slop’](https://techcrunch.com/2026/02/21/microsofts-new-gaming-ceo-vows-not-to-flood-the-ecosystem-with-endless-ai-slop/)**
   *Is Microsoft's gaming division doubling down on AI?...*
@@ -95,29 +101,15 @@
   *Lowest ticket prices to TechCrunch Disrupt 2026 end February 27. Up to $680 off individual passes and up to 30% off group passes. Register before they go up to join 10,000 founders, tech operators, an...*
   📅 Sat, 21 Feb 2026 15:00:00 +0000
 
-- **[India’s Sarvam launches Indus AI chat app as competition heats up](https://techcrunch.com/2026/02/20/indias-sarvam-launches-indus-ai-chat-app-as-competition-heats-up/)**
-  *Sarvam's Indus chat app is currently available in beta....*
-  📅 Sat, 21 Feb 2026 01:00:00 +0000
-
-- **[The creator economy’s ad revenue problem and India’s AI ambitions](https://techcrunch.com/video/the-creator-economys-ad-revenue-problem-and-indias-ai-ambitions/)**
-  *The&#160;creator&#160;economy is evolving fast, and ad revenue alone&#160;isn&#8217;t&#160;cutting it anymore.&#160;YouTubers are launching product lines,&#160;acquiring&#160;startups, and building ac...*
-  📅 Fri, 20 Feb 2026 23:00:00 +0000
-
 ### 📑 Dev.to
 
-- **[The $100k AWS Routing Trap: S3 + NAT Gateways (and how to fix it with Terraform)](https://dev.to/ntctech/the-100k-aws-routing-trap-s3-nat-gateways-and-how-to-fix-it-with-terraform-41fo)**
-  *<h2>
-  
-  
-  The $100k AWS Routing Trap: S3 + NAT Gateways
-</h2>
+- **[2D Raytracing](https://dev.to/no_arms_studio/2d-raytracing-lbp)**
+  *<p>&lt; First thing I would like to say is that thank you all, I have hade a massive influx of followers and I thank you all for it. But anyway time to get to my approach of raytracing in scratch. Fir...*
+  📅 Sun, 22 Feb 2026 01:10:41 +0000
 
-<p>Your "secure by default" AWS architecture is probably bleeding money, and it has nothing to do with over-provisioned EC2 instances....*
-  📅 Sat, 21 Feb 2026 18:19:31 +0000
-
-- **[The 11 Most Popular NuGet Packages to Know in 2026 (updated!)](https://dev.to/polymorphicguy/the-11-most-popular-nuget-packages-to-know-in-2026-updated-20f5)**
-  *<p>In the .NET ecosystem, NuGet remains the primary package manager for dependencies — and some libraries continue to dominate because they solve core development challenges efficiently. Below, I show...*
-  📅 Sat, 21 Feb 2026 18:11:48 +0000
+- **[Cursor deleted all the comments in my file](https://dev.to/nedcodes/cursor-deleted-all-the-comments-in-my-file-30ad)**
+  *<p>I asked Cursor to clean up a utility file, and I was just expecting it to extract some constants and tighten up the formatting. I go to open the file later and... all the comments are gone. WTF.</p...*
+  📅 Sun, 22 Feb 2026 01:08:47 +0000
 
 </details>
 
@@ -125,105 +117,105 @@
 
 ### 📈 Daily Trending
 
-- **[CraftyGeezer/Kalshi-Polymarket-Ai-bot](https://github.com/CraftyGeezer/Kalshi-Polymarket-Ai-bot)** ⭐ 262
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  None
-
-- **[vercel-labs/visual-json](https://github.com/vercel-labs/visual-json)** ⭐ 188
+- **[odaysec/ResearchHub](https://github.com/odaysec/ResearchHub)** ⭐ 23
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
-  The Visual JSON Editor. Schema-aware, embeddable, extensible.
+  Search, scrape, and analyze any website. used Firecrawl. ® Extract structured content, discover sitemaps, and research the web with a professional-grade toolkit built on the Firecrawl API.
 
-- **[hamelsmu/claude-review-loop](https://github.com/hamelsmu/claude-review-loop)** ⭐ 187
-  ![Shell](https://img.shields.io/badge/-Shell-lightgrey)
-  Claude Code plugin: automated code review loop with Codex
-
-- **[dnakov/litter](https://github.com/dnakov/litter)** ⭐ 168
-  ![Swift](https://img.shields.io/badge/-Swift-lightgrey)
-  None
-
-- **[johnrobert730000-creator/Fake-usdt-sender-software-and-flash-free-test](https://github.com/johnrobert730000-creator/Fake-usdt-sender-software-and-flash-free-test)** ⭐ 37
+- **[ridvandirt-dot/PythonMath](https://github.com/ridvandirt-dot/PythonMath)** ⭐ 1
   ![None](https://img.shields.io/badge/-None-lightgrey)
-  None
+  "This project serves as a comprehensive guide that explains mathematical operations ranging from middle school level to advanced calculus using Python. It aims to clarify these operations not only through existing libraries but also by exploring the underlying algorithms and methodologies those libraries utilize."
 
-- **[killernay/election-69-OCR-result](https://github.com/killernay/election-69-OCR-result)** ⭐ 33
+- **[Lynx-0001/Basic-UI-Mod](https://github.com/Lynx-0001/Basic-UI-Mod)** ⭐ 1
+  ![C#](https://img.shields.io/badge/-C#-lightgrey)
+  Basic UI Mod is a free, lightweight HUD overlay for Anthro Heat that gives you real-time visibility into each character's arousal and climax state. See live arousal and climax progress bars, track climax counts, all in a simple, always-on-screen display. Toggle it on or off with a single key and cycle between characters instantly.
+
+- **[Ratnesh-181998/AWS-Services-For-Data-Engineering-With-Projects](https://github.com/Ratnesh-181998/AWS-Services-For-Data-Engineering-With-Projects)** ⭐ 1
   ![None](https://img.shields.io/badge/-None-lightgrey)
-  Official 2026 Thai election results (ผลเลือกตั้ง 2569) OCR-extracted from กกต. Form สส.6/1 as machine-readable JSON
+  AWS Services For Data Engineering With Projects
 
-- **[perryvegehan/Packet_analyzer](https://github.com/perryvegehan/Packet_analyzer)** ⭐ 28
-  ![C++](https://img.shields.io/badge/-C++-pink)
-  None
+- **[nazdeeki/Nazdeeki-2.0](https://github.com/nazdeeki/Nazdeeki-2.0)** ⭐ 1
+  ![None](https://img.shields.io/badge/-None-lightgrey)
+  Nazdeeki 2.0
 
-- **[catuniversec/MeowNiverse](https://github.com/catuniversec/MeowNiverse)** ⭐ 23
-  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
-  Astronaut Cats | Einstein's physics meets a curious cat. An experiment where C++ and Assembly calculate time dilation for an astronaut cat.
+- **[OutstandingRetard/cryptotavern](https://github.com/OutstandingRetard/cryptotavern)** ⭐ 1
+  ![None](https://img.shields.io/badge/-None-lightgrey)
+  CryptoTavern — Safe AI Agents for Crypto (2026)
+
+- **[max-jang/homebridge-smartprugio](https://github.com/max-jang/homebridge-smartprugio)** ⭐ 1
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
+  푸르지오 스마트홈 비공식 API로 보일러/전등을 Homebridge(HomeKit)에서 제어하는 플러그인
+
+- **[SaltyMold/Cheatsheet-Numworks](https://github.com/SaltyMold/Cheatsheet-Numworks)** ⭐ 1
+  ![C](https://img.shields.io/badge/-C-lightgrey)
+  Display cheatsheet or whatever you want on your Numworks calculator
 
 ### 📈 Weekly Trending
 
-- **[HKUDS/ClawWork](https://github.com/HKUDS/ClawWork)** ⭐ 4,777
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  "ClawWork: OpenClaw as Your AI Coworker - 💰 $10K earned in 7 Hours"
-
-- **[nicobailon/visual-explainer](https://github.com/nicobailon/visual-explainer)** ⭐ 2,144
+- **[nicobailon/visual-explainer](https://github.com/nicobailon/visual-explainer)** ⭐ 2,212
   ![HTML](https://img.shields.io/badge/-HTML-lightgrey)
   Agent skill + prompt templates that generate rich HTML pages for visual diff reviews, architecture overviews, plan audits, data tables, and project recaps
 
-- **[vercel-labs/portless](https://github.com/vercel-labs/portless)** ⭐ 1,928
-  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
-  Replace port numbers with stable, named .localhost URLs. For humans and agents.
-
-- **[agenticnotetaking/arscontexta](https://github.com/agenticnotetaking/arscontexta)** ⭐ 1,434
-  ![Shell](https://img.shields.io/badge/-Shell-lightgrey)
-  Claude Code plugin that generates individualized knowledge systems from conversation. You describe how you think and work, have a conversation and get a complete second brain as markdown files you own.
-
-- **[nullclaw/nullclaw](https://github.com/nullclaw/nullclaw)** ⭐ 1,414
+- **[nullclaw/nullclaw](https://github.com/nullclaw/nullclaw)** ⭐ 1,505
   ![Zig](https://img.shields.io/badge/-Zig-lightgrey)
   Fastest, smallest, and fully autonomous AI assistant infrastructure written in Zig
 
-- **[AlexsJones/llmfit](https://github.com/AlexsJones/llmfit)** ⭐ 1,275
-  ![Rust](https://img.shields.io/badge/-Rust-brown)
-  157 models. 30 providers. One command to find what runs on your hardware.
-
-- **[Zaneham/BarraCUDA](https://github.com/Zaneham/BarraCUDA)** ⭐ 1,241
+- **[Zaneham/BarraCUDA](https://github.com/Zaneham/BarraCUDA)** ⭐ 1,260
   ![C](https://img.shields.io/badge/-C-lightgrey)
   Open-source CUDA compiler targeting AMD GPUs (and more in the future!). Compiles .cu to GFX11/12 machine code.
 
-- **[pinchtab/pinchtab](https://github.com/pinchtab/pinchtab)** ⭐ 1,070
-  ![Go](https://img.shields.io/badge/-Go-cyan)
-  High-performance browser automation bridge and multi-instance orchestrator with advanced stealth injection and real-time dashboard.
+- **[ShinMegamiBoson/OpenPlanter](https://github.com/ShinMegamiBoson/OpenPlanter)** ⭐ 797
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  None
+
+- **[DataExpert-io/ai-engineer-handbook](https://github.com/DataExpert-io/ai-engineer-handbook)** ⭐ 775
+  ![None](https://img.shields.io/badge/-None-lightgrey)
+  All the links, books, and creators you need to follow to stay up to date with AI!
+
+- **[RightNow-AI/picolm](https://github.com/RightNow-AI/picolm)** ⭐ 522
+  ![C](https://img.shields.io/badge/-C-lightgrey)
+  Run a 1-billion parameter LLM on a $10 board with 256MB RAM
+
+- **[Daniel-Dias001/Polymarket-rsi-macd-index-trading-bot](https://github.com/Daniel-Dias001/Polymarket-rsi-macd-index-trading-bot)** ⭐ 513
+  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
+  Real-time polymarket trading bot that combines monitoring with strategy logic for Polymarket's 15-minute prediction markets.
+
+- **[CraftyGeezer/Kalshi-Polymarket-Ai-bot](https://github.com/CraftyGeezer/Kalshi-Polymarket-Ai-bot)** ⭐ 391
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  None
 
 ### 📈 Monthly Trending
 
-- **[HKUDS/nanobot](https://github.com/HKUDS/nanobot)** ⭐ 22,598
+- **[HKUDS/nanobot](https://github.com/HKUDS/nanobot)** ⭐ 22,728
   ![Python](https://img.shields.io/badge/-Python-blue)
   "🐈 nanobot: The Ultra-Lightweight OpenClaw"
 
-- **[VoltAgent/awesome-openclaw-skills](https://github.com/VoltAgent/awesome-openclaw-skills)** ⭐ 17,621
+- **[VoltAgent/awesome-openclaw-skills](https://github.com/VoltAgent/awesome-openclaw-skills)** ⭐ 17,697
   ![None](https://img.shields.io/badge/-None-lightgrey)
   The awesome collection of OpenClaw Skills. Formerly known as Moltbot, originally Clawdbot.
 
-- **[sipeed/picoclaw](https://github.com/sipeed/picoclaw)** ⭐ 17,387
+- **[sipeed/picoclaw](https://github.com/sipeed/picoclaw)** ⭐ 17,503
   ![Go](https://img.shields.io/badge/-Go-cyan)
   Tiny, Fast, and Deployable anywhere — automate the mundane, unleash your creativity
 
-- **[zeroclaw-labs/zeroclaw](https://github.com/zeroclaw-labs/zeroclaw)** ⭐ 16,246
+- **[zeroclaw-labs/zeroclaw](https://github.com/zeroclaw-labs/zeroclaw)** ⭐ 16,397
   ![Rust](https://img.shields.io/badge/-Rust-brown)
   Fast, small, and fully autonomous AI assistant infrastructure — deploy anywhere, swap anything 🦀
 
-- **[qwibitai/nanoclaw](https://github.com/qwibitai/nanoclaw)** ⭐ 10,513
+- **[qwibitai/nanoclaw](https://github.com/qwibitai/nanoclaw)** ⭐ 10,848
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   A lightweight alternative to Clawdbot / OpenClaw that runs in containers for security. Connects to WhatsApp, has memory, scheduled jobs, and runs directly on Anthropic's Agents SDK
 
-- **[jamiepine/voicebox](https://github.com/jamiepine/voicebox)** ⭐ 9,111
+- **[jamiepine/voicebox](https://github.com/jamiepine/voicebox)** ⭐ 9,453
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   The open-source voice synthesis studio powered by Qwen3-TTS.
 
-- **[cloudflare/moltworker](https://github.com/cloudflare/moltworker)** ⭐ 9,037
+- **[cloudflare/moltworker](https://github.com/cloudflare/moltworker)** ⭐ 9,042
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   Run OpenClaw, (formerly Moltbot, formerly Clawdbot) on Cloudflare Workers
 
-- **[anthropics/knowledge-work-plugins](https://github.com/anthropics/knowledge-work-plugins)** ⭐ 7,650
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork
+- **[lukilabs/beautiful-mermaid](https://github.com/lukilabs/beautiful-mermaid)** ⭐ 7,247
+  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
+  None
 
 ## 🚀 Latest Releases
 
@@ -490,57 +482,57 @@ See [kubernetes-announce@](https://groups.google.com/forum/#!forum/kubernetes-an
 |-------|--------|
 | Java | 🟢 Proficient |
 | Python | 🔴 Beginner |
-| JavaScript | 🔴 Beginner |
+| JavaScript | 🟢 Proficient |
 | TypeScript | 🟢 Proficient |
-| Go | ⚪ Planned |
+| Go | 🟢 Proficient |
 
 ### Frameworks
 
 | Skill | Status |
 |-------|--------|
-| React | 🟢 Proficient |
-| Spring Boot | 🔴 Beginner |
+| React | ⚪ Planned |
+| Spring Boot | ⚪ Planned |
 | Django | 🟡 Learning |
-| Node.js | 🔴 Beginner |
-| Next.js | 🟡 Learning |
+| Node.js | ⚪ Planned |
+| Next.js | 🔴 Beginner |
 
 ### Cybersecurity
 
 | Skill | Status |
 |-------|--------|
-| Penetration Testing | 🟢 Proficient |
-| Web Security | 🔴 Beginner |
+| Penetration Testing | 🟡 Learning |
+| Web Security | 🟡 Learning |
 | Network Security | 🔴 Beginner |
-| OWASP | ⚪ Planned |
+| OWASP | 🟡 Learning |
 
 ### Ai Ml
 
 | Skill | Status |
 |-------|--------|
-| Machine Learning | ⚪ Planned |
-| Deep Learning | ⚪ Planned |
-| NLP | 🟢 Proficient |
+| Machine Learning | 🟡 Learning |
+| Deep Learning | 🟡 Learning |
+| NLP | 🟡 Learning |
 | Computer Vision | 🔴 Beginner |
-| TensorFlow | 🔴 Beginner |
-| PyTorch | 🔴 Beginner |
+| TensorFlow | 🟡 Learning |
+| PyTorch | 🟢 Proficient |
 
 ### Devops
 
 | Skill | Status |
 |-------|--------|
-| Docker | 🟡 Learning |
-| Kubernetes | 🟡 Learning |
+| Docker | 🔴 Beginner |
+| Kubernetes | 🔴 Beginner |
 | CI/CD | ⚪ Planned |
-| AWS | 🟢 Proficient |
-| Azure | 🟢 Proficient |
+| AWS | ⚪ Planned |
+| Azure | 🔴 Beginner |
 
 ### Other
 
 | Skill | Status |
 |-------|--------|
-| Blockchain | ⚪ Planned |
-| Web3 | 🟡 Learning |
-| Cloud Computing | ⚪ Planned |
+| Blockchain | 🟡 Learning |
+| Web3 | ⚪ Planned |
+| Cloud Computing | 🟡 Learning |
 
 </details>
 
@@ -558,7 +550,7 @@ This dashboard is automatically updated every 6 hours using GitHub Actions. The 
 
 <div align="center">
 
-**Last Updated:** February 21, 2026
+**Last Updated:** February 22, 2026
 
 Made with ❤️ and automated with GitHub Actions
 
