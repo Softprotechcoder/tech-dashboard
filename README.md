@@ -77,6 +77,10 @@
 
 ### 📑 TechCrunch
 
+- **[Wispr Flow launches an Android app for AI-powered dictation](https://techcrunch.com/2026/02/23/wispr-flow-launches-an-android-app-for-ai-powered-dictation/)**
+  *AI-powered dictation startup Wispr Flow has launched its Android app today. The company released its app for Mac and Windows first, then launched on iOS in June 2025. On iOS, users could use Wispr Flo...*
+  📅 Mon, 23 Feb 2026 08:01:00 +0000
+
 - **[Apple might take a new approach to announcing its next products](https://techcrunch.com/2026/02/22/apple-might-take-a-new-approach-to-announcing-its-next-products/)**
   *Apple has invited the tech press to a “special Apple experience” on March 4, but it might unfold a bit differently than the company's standard press event....*
   📅 Sun, 22 Feb 2026 23:08:08 +0000
@@ -97,25 +101,16 @@
   *Netflix board member Susan Rice had predicted that corporations that “take a knee” to Trump will be “held accountable” when Democrats return to power....*
   📅 Sun, 22 Feb 2026 17:39:55 +0000
 
-- **[TechCrunch Mobility: Waymo makes its defense](https://techcrunch.com/2026/02/22/techcrunch-mobility-waymo-makes-its-defense/)**
-  *Welcome back to TechCrunch Mobility — your central hub for news and insights on the future of transportation....*
-  📅 Sun, 22 Feb 2026 17:05:00 +0000
-
 ### 📑 Dev.to
 
-- **[Why Fat Models Hurt Laravel Projects More Than You Think](https://dev.to/laracopilot/why-fat-models-hurt-laravel-projects-more-than-you-think-mk8)**
-  *<p><a class="article-body-image-wrapper" href="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fupl...*
-  📅 Mon, 23 Feb 2026 06:42:24 +0000
+- **[I built a $7/mo tool to kill my runway anxiety in 48 hours.](https://dev.to/alexbuilder/i-built-a-7mo-tool-to-kill-my-runway-anxiety-in-48-hours-555i)**
+  *<p>Hey fellow bootstrappers,I'm a solo founder building in public. For months, I was waking up at 3AM mentally calculating how many months of runway I had left.So I built Runway Rocket - a stupid-simp...*
+  📅 Mon, 23 Feb 2026 12:31:14 +0000
 
-- **[🚨 Chrome Under Attack: The CSS Zero-Day That Shocked 2026 🤯](https://dev.to/usman_awan/chrome-under-attack-the-css-zero-day-that-shocked-2026-586o)**
-  *<h2>
-  
-  
-  Understanding CVE-2026-2441: Chrome’s CSS Zero-Day Vulnerability
-</h2>
-
-<p>In mid-February 2026, <strong>Google</strong> patched a critical use-after-free flaw in Chrome’s CSS engine <cod...*
-  📅 Mon, 23 Feb 2026 06:40:49 +0000
+- **[The European Accessibility Act Is the New GDPR — And You're Already Late](https://dev.to/petrilahdelma/the-european-accessibility-act-is-the-new-gdpr-and-youre-already-late-1i14)**
+  *<p>*<em>The EAA is now law. Fines are rolling in. France sued four retailers. Norway imposed daily penalties on a health app. Here's the 7 violations hiding in your codebase — with code fixes.<br />
+*...*
+  📅 Mon, 23 Feb 2026 12:25:20 +0000
 
 </details>
 
@@ -123,103 +118,103 @@
 
 ### 📈 Daily Trending
 
-- **[BilalG1/openslack](https://github.com/BilalG1/openslack)** ⭐ 16
+- **[sangrokjung/claude-forge](https://github.com/sangrokjung/claude-forge)** ⭐ 40
+  ![Shell](https://img.shields.io/badge/-Shell-lightgrey)
+  Production-grade configuration framework for Claude Code
+
+- **[BilalG1/openslack](https://github.com/BilalG1/openslack)** ⭐ 23
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   Open-source Slack
 
-- **[wapp1/wapp](https://github.com/wapp1/wapp)** ⭐ 12
+- **[Dhravya/agent-captcha](https://github.com/Dhravya/agent-captcha)** ⭐ 22
+  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
+  CAPTCHA that only agents can pass 
+
+- **[wapp1/wapp](https://github.com/wapp1/wapp)** ⭐ 15
   ![None](https://img.shields.io/badge/-None-lightgrey)
   📺 A native app for Android & Android TV. Seamlessly watch your favorite anime, sync your progress with AniList in real-time, manage downloads for offline viewing, and enjoy full subtitle control. Built for a smooth experience. ✨
 
-- **[taigrr/spank](https://github.com/taigrr/spank)** ⭐ 8
+- **[wataame/claude-code-explain-risk](https://github.com/wataame/claude-code-explain-risk)** ⭐ 13
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
+  Claude Code の許可ダイアログに、操作のリスクを分かりやすく表示するツール
+
+- **[jrl290/RNodeTHV4](https://github.com/jrl290/RNodeTHV4)** ⭐ 13
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  Standalone Reticulum over LoRa and WiFi Node - Firmware for Heltec V4
+
+- **[taigrr/spank](https://github.com/taigrr/spank)** ⭐ 12
   ![Go](https://img.shields.io/badge/-Go-cyan)
   Slap your MacBook, it yells back. Uses Apple Silicon accelerometer via IOKit HID.
 
-- **[guruminion777/CarJunk](https://github.com/guruminion777/CarJunk)** ⭐ 7
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
-  None
-
-- **[guruminion777/Tools-For_web_scraping](https://github.com/guruminion777/Tools-For_web_scraping)** ⭐ 7
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  None
-
-- **[guruminion777/libgdx](https://github.com/guruminion777/libgdx)** ⭐ 7
+- **[t3tra-dev/zerocast](https://github.com/t3tra-dev/zerocast)** ⭐ 12
   ![C](https://img.shields.io/badge/-C-lightgrey)
-  None
-
-- **[guruminion777/nifi-examples](https://github.com/guruminion777/nifi-examples)** ⭐ 7
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
-  None
-
-- **[guruminion777/Ruby-pro-1923745](https://github.com/guruminion777/Ruby-pro-1923745)** ⭐ 7
-  ![Ruby](https://img.shields.io/badge/-Ruby-lightgrey)
-  None
+  "zerocast" is a lossy compression technology boasting the highest compression ratio in history.
 
 ### 📈 Weekly Trending
 
-- **[ShinMegamiBoson/OpenPlanter](https://github.com/ShinMegamiBoson/OpenPlanter)** ⭐ 1,090
+- **[ShinMegamiBoson/OpenPlanter](https://github.com/ShinMegamiBoson/OpenPlanter)** ⭐ 1,140
   ![Python](https://img.shields.io/badge/-Python-blue)
   None
 
-- **[CraftyGeezer/Kalshi-Polymarket-Ai-bot](https://github.com/CraftyGeezer/Kalshi-Polymarket-Ai-bot)** ⭐ 681
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  None
-
-- **[RightNow-AI/picolm](https://github.com/RightNow-AI/picolm)** ⭐ 671
-  ![C](https://img.shields.io/badge/-C-lightgrey)
-  Run a 1-billion parameter LLM on a $10 board with 256MB RAM
-
-- **[Daniel-Dias001/Polymarket-rsi-macd-index-trading-bot](https://github.com/Daniel-Dias001/Polymarket-rsi-macd-index-trading-bot)** ⭐ 610
-  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
-  Polymarket trading bot that combines monitoring with strategy logic for Polymarket's 15-minute prediction markets. Polymarket || Polymarket Bot || Polymarket Copy Bot || Polymarket Copy Trading Bot || Polymarket Typescript Bot || Polymarket bot || Polymarket || Polymarket || Polymarket || Polymarket || Polymarket ||  Polymarket
-
-- **[Leonxlnx/taste-skill](https://github.com/Leonxlnx/taste-skill)** ⭐ 604
+- **[Leonxlnx/taste-skill](https://github.com/Leonxlnx/taste-skill)** ⭐ 734
   ![None](https://img.shields.io/badge/-None-lightgrey)
   Taste-Skill (High-Agency Frontend) - gives your AI good taste. stops the AI from generating boring, generic, "slop" 
 
-- **[olvvier/apple-silicon-accelerometer](https://github.com/olvvier/apple-silicon-accelerometer)** ⭐ 541
+- **[CraftyGeezer/Kalshi-Polymarket-Ai-bot](https://github.com/CraftyGeezer/Kalshi-Polymarket-Ai-bot)** ⭐ 703
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  None
+
+- **[RightNow-AI/picolm](https://github.com/RightNow-AI/picolm)** ⭐ 690
+  ![C](https://img.shields.io/badge/-C-lightgrey)
+  Run a 1-billion parameter LLM on a $10 board with 256MB RAM
+
+- **[olvvier/apple-silicon-accelerometer](https://github.com/olvvier/apple-silicon-accelerometer)** ⭐ 579
   ![Python](https://img.shields.io/badge/-Python-blue)
   reading the undocumented mems accelerometer + gyroscope on apple silicon macbooks via iokit hid
 
-- **[TraderAlice/OpenAlice](https://github.com/TraderAlice/OpenAlice)** ⭐ 470
+- **[TraderAlice/OpenAlice](https://github.com/TraderAlice/OpenAlice)** ⭐ 521
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   File-driven AI trading agent engine for crypto and securities markets
 
-- **[Pickle-Pixel/ApplyPilot](https://github.com/Pickle-Pixel/ApplyPilot)** ⭐ 365
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  AI agent that applies to jobs for you. Any site. Any form.
+- **[Kirubel125/Kalshi-Claw](https://github.com/Kirubel125/Kalshi-Claw)** ⭐ 513
+  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
+  None
+
+- **[Daniel-Dias001/Polymarket-rsi-macd-index-trading-bot](https://github.com/Daniel-Dias001/Polymarket-rsi-macd-index-trading-bot)** ⭐ 473
+  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
+  Polymarket trading bot that combines monitoring with strategy logic for Polymarket's 15-minute prediction markets. Polymarket || Polymarket Bot || Polymarket Copy Bot || Polymarket Copy Trading Bot || Polymarket Typescript Bot || Polymarket bot || Polymarket || Polymarket || Polymarket || Polymarket || Polymarket ||  Polymarket
 
 ### 📈 Monthly Trending
 
-- **[HKUDS/nanobot](https://github.com/HKUDS/nanobot)** ⭐ 23,455
+- **[HKUDS/nanobot](https://github.com/HKUDS/nanobot)** ⭐ 23,602
   ![Python](https://img.shields.io/badge/-Python-blue)
   "🐈 nanobot: The Ultra-Lightweight OpenClaw"
 
-- **[VoltAgent/awesome-openclaw-skills](https://github.com/VoltAgent/awesome-openclaw-skills)** ⭐ 18,361
+- **[VoltAgent/awesome-openclaw-skills](https://github.com/VoltAgent/awesome-openclaw-skills)** ⭐ 18,525
   ![None](https://img.shields.io/badge/-None-lightgrey)
   The awesome collection of OpenClaw Skills. Formerly known as Moltbot, originally Clawdbot.
 
-- **[sipeed/picoclaw](https://github.com/sipeed/picoclaw)** ⭐ 18,267
+- **[sipeed/picoclaw](https://github.com/sipeed/picoclaw)** ⭐ 18,426
   ![Go](https://img.shields.io/badge/-Go-cyan)
   Tiny, Fast, and Deployable anywhere — automate the mundane, unleash your creativity
 
-- **[zeroclaw-labs/zeroclaw](https://github.com/zeroclaw-labs/zeroclaw)** ⭐ 17,253
+- **[zeroclaw-labs/zeroclaw](https://github.com/zeroclaw-labs/zeroclaw)** ⭐ 17,448
   ![Rust](https://img.shields.io/badge/-Rust-brown)
   Fast, small, and fully autonomous AI assistant infrastructure — deploy anywhere, swap anything 🦀
 
-- **[qwibitai/nanoclaw](https://github.com/qwibitai/nanoclaw)** ⭐ 12,610
+- **[qwibitai/nanoclaw](https://github.com/qwibitai/nanoclaw)** ⭐ 12,878
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   A lightweight alternative to Clawdbot / OpenClaw that runs in containers for security. Connects to WhatsApp, has memory, scheduled jobs, and runs directly on Anthropic's Agents SDK
 
-- **[jamiepine/voicebox](https://github.com/jamiepine/voicebox)** ⭐ 10,227
+- **[jamiepine/voicebox](https://github.com/jamiepine/voicebox)** ⭐ 10,318
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   The open-source voice synthesis studio powered by Qwen3-TTS.
 
-- **[cloudflare/moltworker](https://github.com/cloudflare/moltworker)** ⭐ 9,094
+- **[cloudflare/moltworker](https://github.com/cloudflare/moltworker)** ⭐ 9,111
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   Run OpenClaw, (formerly Moltbot, formerly Clawdbot) on Cloudflare Workers
 
-- **[lukilabs/beautiful-mermaid](https://github.com/lukilabs/beautiful-mermaid)** ⭐ 7,279
+- **[lukilabs/beautiful-mermaid](https://github.com/lukilabs/beautiful-mermaid)** ⭐ 7,286
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   None
 
@@ -486,49 +481,49 @@ See [kubernetes-announce@](https://groups.google.com/forum/#!forum/kubernetes-an
 
 | Skill | Status |
 |-------|--------|
-| Java | 🔴 Beginner |
-| Python | 🔴 Beginner |
-| JavaScript | 🔴 Beginner |
+| Java | 🟡 Learning |
+| Python | 🟡 Learning |
+| JavaScript | 🟡 Learning |
 | TypeScript | ⚪ Planned |
-| Go | 🟡 Learning |
+| Go | 🔴 Beginner |
 
 ### Frameworks
 
 | Skill | Status |
 |-------|--------|
-| React | 🔴 Beginner |
-| Spring Boot | 🔴 Beginner |
-| Django | 🟢 Proficient |
-| Node.js | 🔴 Beginner |
-| Next.js | 🟡 Learning |
+| React | 🟢 Proficient |
+| Spring Boot | ⚪ Planned |
+| Django | 🔴 Beginner |
+| Node.js | ⚪ Planned |
+| Next.js | 🔴 Beginner |
 
 ### Cybersecurity
 
 | Skill | Status |
 |-------|--------|
-| Penetration Testing | 🟢 Proficient |
-| Web Security | 🔴 Beginner |
+| Penetration Testing | 🔴 Beginner |
+| Web Security | 🟢 Proficient |
 | Network Security | 🟡 Learning |
-| OWASP | 🔴 Beginner |
+| OWASP | 🟢 Proficient |
 
 ### Ai Ml
 
 | Skill | Status |
 |-------|--------|
-| Machine Learning | 🟢 Proficient |
-| Deep Learning | 🟢 Proficient |
-| NLP | 🟢 Proficient |
+| Machine Learning | 🟡 Learning |
+| Deep Learning | ⚪ Planned |
+| NLP | ⚪ Planned |
 | Computer Vision | 🟢 Proficient |
-| TensorFlow | 🟡 Learning |
-| PyTorch | ⚪ Planned |
+| TensorFlow | 🟢 Proficient |
+| PyTorch | 🟢 Proficient |
 
 ### Devops
 
 | Skill | Status |
 |-------|--------|
-| Docker | 🟡 Learning |
-| Kubernetes | 🔴 Beginner |
-| CI/CD | 🟢 Proficient |
+| Docker | 🔴 Beginner |
+| Kubernetes | ⚪ Planned |
+| CI/CD | 🔴 Beginner |
 | AWS | 🟡 Learning |
 | Azure | 🟢 Proficient |
 
@@ -536,8 +531,8 @@ See [kubernetes-announce@](https://groups.google.com/forum/#!forum/kubernetes-an
 
 | Skill | Status |
 |-------|--------|
-| Blockchain | 🟡 Learning |
-| Web3 | 🟢 Proficient |
+| Blockchain | 🔴 Beginner |
+| Web3 | 🟡 Learning |
 | Cloud Computing | 🟢 Proficient |
 
 </details>
