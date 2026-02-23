@@ -103,31 +103,19 @@
 
 ### 📑 Dev.to
 
-- **[Coding Agents for Software Engineers](https://dev.to/arsenikavalchuk/coding-agents-for-software-engineers-73p)**
-  *<h3>
+- **[Why Fat Models Hurt Laravel Projects More Than You Think](https://dev.to/laracopilot/why-fat-models-hurt-laravel-projects-more-than-you-think-mk8)**
+  *<p><a class="article-body-image-wrapper" href="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fupl...*
+  📅 Mon, 23 Feb 2026 06:42:24 +0000
+
+- **[🚨 Chrome Under Attack: The CSS Zero-Day That Shocked 2026 🤯](https://dev.to/usman_awan/chrome-under-attack-the-css-zero-day-that-shocked-2026-586o)**
+  *<h2>
   
   
-  Architecture, Context, and Efficient Usage
-</h3>
-
-
-
-
-<h2>
-  
-  
-  1️⃣ What Is a Coding Agent?
+  Understanding CVE-2026-2441: Chrome’s CSS Zero-Day Vulnerability
 </h2>
 
-<p>A coding agent is <strong>not just an LLM</strong>.</p>
-
-<p>It is a system:<br />
-<...*
-  📅 Mon, 23 Feb 2026 01:02:36 +0000
-
-- **[341 Malicious AI Agent Skills, 1.5M Leaked Tokens — I Built the Fix](https://dev.to/ariangogani/341-malicious-ai-agent-skills-15m-leaked-tokens-i-built-the-fix-161c)**
-  *<p>Three weeks ago, OpenClaw went from zero to 135K GitHub stars. Then it collapsed: 18,000 exposed instances, 341 malicious skills on ClawHub, 1.5 million leaked API tokens, and a one-click RCE explo...*
-  📅 Mon, 23 Feb 2026 00:58:23 +0000
+<p>In mid-February 2026, <strong>Google</strong> patched a critical use-after-free flaw in Chrome’s CSS engine <cod...*
+  📅 Mon, 23 Feb 2026 06:40:49 +0000
 
 </details>
 
@@ -135,103 +123,103 @@
 
 ### 📈 Daily Trending
 
-- **[fern-api/setup-fern-cli](https://github.com/fern-api/setup-fern-cli)** ⭐ 2
-  ![None](https://img.shields.io/badge/-None-lightgrey)
-  A GitHub Action that installs the Fern CLI into a workflow using npm.
-
-- **[jhonatanf19/FRONTEND-GRUPO3](https://github.com/jhonatanf19/FRONTEND-GRUPO3)** ⭐ 1
+- **[BilalG1/openslack](https://github.com/BilalG1/openslack)** ⭐ 16
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
-  None
+  Open-source Slack
 
-- **[LuanTeixeiraMeira/management-systeam](https://github.com/LuanTeixeiraMeira/management-systeam)** ⭐ 1
-  ![Java](https://img.shields.io/badge/-Java-orange)
-  None
-
-- **[yuriqramos/CLT-Runner-NoneClass](https://github.com/yuriqramos/CLT-Runner-NoneClass)** ⭐ 1
-  ![Game Maker Language](https://img.shields.io/badge/-Game Maker Language-lightgrey)
-  Projeto feito durante o curso NoneClass, que propôs a criação de um endless runner por conta própria.
-
-- **[santiagovillalba066-glitch/Regalo-dely](https://github.com/santiagovillalba066-glitch/Regalo-dely)** ⭐ 1
+- **[wapp1/wapp](https://github.com/wapp1/wapp)** ⭐ 12
   ![None](https://img.shields.io/badge/-None-lightgrey)
-  Prueba
+  📺 A native app for Android & Android TV. Seamlessly watch your favorite anime, sync your progress with AniList in real-time, manage downloads for offline viewing, and enjoy full subtitle control. Built for a smooth experience. ✨
 
-- **[luisu404/frontend-desafio-freses](https://github.com/luisu404/frontend-desafio-freses)** ⭐ 1
-  ![CSS](https://img.shields.io/badge/-CSS-lightgrey)
-  None
+- **[taigrr/spank](https://github.com/taigrr/spank)** ⭐ 8
+  ![Go](https://img.shields.io/badge/-Go-cyan)
+  Slap your MacBook, it yells back. Uses Apple Silicon accelerometer via IOKit HID.
 
-- **[guruminion777/CarJunk](https://github.com/guruminion777/CarJunk)** ⭐ 1
+- **[guruminion777/CarJunk](https://github.com/guruminion777/CarJunk)** ⭐ 7
   ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
   None
 
-- **[AmuAmirabbas/AmuTube](https://github.com/AmuAmirabbas/AmuTube)** ⭐ 1
+- **[guruminion777/Tools-For_web_scraping](https://github.com/guruminion777/Tools-For_web_scraping)** ⭐ 7
   ![Python](https://img.shields.io/badge/-Python-blue)
-  A professional YouTube video and playlist downloader with a modern GUI.
+  None
+
+- **[guruminion777/libgdx](https://github.com/guruminion777/libgdx)** ⭐ 7
+  ![C](https://img.shields.io/badge/-C-lightgrey)
+  None
+
+- **[guruminion777/nifi-examples](https://github.com/guruminion777/nifi-examples)** ⭐ 7
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
+  None
+
+- **[guruminion777/Ruby-pro-1923745](https://github.com/guruminion777/Ruby-pro-1923745)** ⭐ 7
+  ![Ruby](https://img.shields.io/badge/-Ruby-lightgrey)
+  None
 
 ### 📈 Weekly Trending
 
-- **[ShinMegamiBoson/OpenPlanter](https://github.com/ShinMegamiBoson/OpenPlanter)** ⭐ 1,032
+- **[ShinMegamiBoson/OpenPlanter](https://github.com/ShinMegamiBoson/OpenPlanter)** ⭐ 1,090
   ![Python](https://img.shields.io/badge/-Python-blue)
   None
 
-- **[RightNow-AI/picolm](https://github.com/RightNow-AI/picolm)** ⭐ 660
+- **[CraftyGeezer/Kalshi-Polymarket-Ai-bot](https://github.com/CraftyGeezer/Kalshi-Polymarket-Ai-bot)** ⭐ 681
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  None
+
+- **[RightNow-AI/picolm](https://github.com/RightNow-AI/picolm)** ⭐ 671
   ![C](https://img.shields.io/badge/-C-lightgrey)
   Run a 1-billion parameter LLM on a $10 board with 256MB RAM
 
-- **[CraftyGeezer/Kalshi-Polymarket-Ai-bot](https://github.com/CraftyGeezer/Kalshi-Polymarket-Ai-bot)** ⭐ 657
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  None
-
-- **[Daniel-Dias001/Polymarket-rsi-macd-index-trading-bot](https://github.com/Daniel-Dias001/Polymarket-rsi-macd-index-trading-bot)** ⭐ 602
+- **[Daniel-Dias001/Polymarket-rsi-macd-index-trading-bot](https://github.com/Daniel-Dias001/Polymarket-rsi-macd-index-trading-bot)** ⭐ 610
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   Polymarket trading bot that combines monitoring with strategy logic for Polymarket's 15-minute prediction markets. Polymarket || Polymarket Bot || Polymarket Copy Bot || Polymarket Copy Trading Bot || Polymarket Typescript Bot || Polymarket bot || Polymarket || Polymarket || Polymarket || Polymarket || Polymarket ||  Polymarket
 
-- **[Leonxlnx/taste-skill](https://github.com/Leonxlnx/taste-skill)** ⭐ 566
+- **[Leonxlnx/taste-skill](https://github.com/Leonxlnx/taste-skill)** ⭐ 604
   ![None](https://img.shields.io/badge/-None-lightgrey)
   Taste-Skill (High-Agency Frontend) - gives your AI good taste. stops the AI from generating boring, generic, "slop" 
 
-- **[olvvier/apple-silicon-accelerometer](https://github.com/olvvier/apple-silicon-accelerometer)** ⭐ 441
+- **[olvvier/apple-silicon-accelerometer](https://github.com/olvvier/apple-silicon-accelerometer)** ⭐ 541
   ![Python](https://img.shields.io/badge/-Python-blue)
   reading the undocumented mems accelerometer + gyroscope on apple silicon macbooks via iokit hid
 
-- **[TraderAlice/OpenAlice](https://github.com/TraderAlice/OpenAlice)** ⭐ 407
+- **[TraderAlice/OpenAlice](https://github.com/TraderAlice/OpenAlice)** ⭐ 470
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   File-driven AI trading agent engine for crypto and securities markets
 
-- **[Pickle-Pixel/ApplyPilot](https://github.com/Pickle-Pixel/ApplyPilot)** ⭐ 357
+- **[Pickle-Pixel/ApplyPilot](https://github.com/Pickle-Pixel/ApplyPilot)** ⭐ 365
   ![Python](https://img.shields.io/badge/-Python-blue)
   AI agent that applies to jobs for you. Any site. Any form.
 
 ### 📈 Monthly Trending
 
-- **[HKUDS/nanobot](https://github.com/HKUDS/nanobot)** ⭐ 23,319
+- **[HKUDS/nanobot](https://github.com/HKUDS/nanobot)** ⭐ 23,455
   ![Python](https://img.shields.io/badge/-Python-blue)
   "🐈 nanobot: The Ultra-Lightweight OpenClaw"
 
-- **[VoltAgent/awesome-openclaw-skills](https://github.com/VoltAgent/awesome-openclaw-skills)** ⭐ 18,198
+- **[VoltAgent/awesome-openclaw-skills](https://github.com/VoltAgent/awesome-openclaw-skills)** ⭐ 18,361
   ![None](https://img.shields.io/badge/-None-lightgrey)
   The awesome collection of OpenClaw Skills. Formerly known as Moltbot, originally Clawdbot.
 
-- **[sipeed/picoclaw](https://github.com/sipeed/picoclaw)** ⭐ 18,126
+- **[sipeed/picoclaw](https://github.com/sipeed/picoclaw)** ⭐ 18,267
   ![Go](https://img.shields.io/badge/-Go-cyan)
   Tiny, Fast, and Deployable anywhere — automate the mundane, unleash your creativity
 
-- **[zeroclaw-labs/zeroclaw](https://github.com/zeroclaw-labs/zeroclaw)** ⭐ 17,083
+- **[zeroclaw-labs/zeroclaw](https://github.com/zeroclaw-labs/zeroclaw)** ⭐ 17,253
   ![Rust](https://img.shields.io/badge/-Rust-brown)
   Fast, small, and fully autonomous AI assistant infrastructure — deploy anywhere, swap anything 🦀
 
-- **[qwibitai/nanoclaw](https://github.com/qwibitai/nanoclaw)** ⭐ 12,348
+- **[qwibitai/nanoclaw](https://github.com/qwibitai/nanoclaw)** ⭐ 12,610
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   A lightweight alternative to Clawdbot / OpenClaw that runs in containers for security. Connects to WhatsApp, has memory, scheduled jobs, and runs directly on Anthropic's Agents SDK
 
-- **[jamiepine/voicebox](https://github.com/jamiepine/voicebox)** ⭐ 10,143
+- **[jamiepine/voicebox](https://github.com/jamiepine/voicebox)** ⭐ 10,227
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   The open-source voice synthesis studio powered by Qwen3-TTS.
 
-- **[cloudflare/moltworker](https://github.com/cloudflare/moltworker)** ⭐ 9,076
+- **[cloudflare/moltworker](https://github.com/cloudflare/moltworker)** ⭐ 9,094
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   Run OpenClaw, (formerly Moltbot, formerly Clawdbot) on Cloudflare Workers
 
-- **[lukilabs/beautiful-mermaid](https://github.com/lukilabs/beautiful-mermaid)** ⭐ 7,271
+- **[lukilabs/beautiful-mermaid](https://github.com/lukilabs/beautiful-mermaid)** ⭐ 7,279
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   None
 
@@ -498,59 +486,59 @@ See [kubernetes-announce@](https://groups.google.com/forum/#!forum/kubernetes-an
 
 | Skill | Status |
 |-------|--------|
-| Java | 🟢 Proficient |
-| Python | 🟢 Proficient |
-| JavaScript | 🟢 Proficient |
-| TypeScript | 🟡 Learning |
-| Go | 🔴 Beginner |
+| Java | 🔴 Beginner |
+| Python | 🔴 Beginner |
+| JavaScript | 🔴 Beginner |
+| TypeScript | ⚪ Planned |
+| Go | 🟡 Learning |
 
 ### Frameworks
 
 | Skill | Status |
 |-------|--------|
-| React | ⚪ Planned |
-| Spring Boot | ⚪ Planned |
+| React | 🔴 Beginner |
+| Spring Boot | 🔴 Beginner |
 | Django | 🟢 Proficient |
-| Node.js | 🟡 Learning |
-| Next.js | ⚪ Planned |
+| Node.js | 🔴 Beginner |
+| Next.js | 🟡 Learning |
 
 ### Cybersecurity
 
 | Skill | Status |
 |-------|--------|
-| Penetration Testing | 🔴 Beginner |
-| Web Security | 🟢 Proficient |
-| Network Security | 🔴 Beginner |
-| OWASP | 🟡 Learning |
+| Penetration Testing | 🟢 Proficient |
+| Web Security | 🔴 Beginner |
+| Network Security | 🟡 Learning |
+| OWASP | 🔴 Beginner |
 
 ### Ai Ml
 
 | Skill | Status |
 |-------|--------|
 | Machine Learning | 🟢 Proficient |
-| Deep Learning | 🟡 Learning |
+| Deep Learning | 🟢 Proficient |
 | NLP | 🟢 Proficient |
-| Computer Vision | ⚪ Planned |
-| TensorFlow | 🔴 Beginner |
-| PyTorch | 🔴 Beginner |
+| Computer Vision | 🟢 Proficient |
+| TensorFlow | 🟡 Learning |
+| PyTorch | ⚪ Planned |
 
 ### Devops
 
 | Skill | Status |
 |-------|--------|
-| Docker | 🟢 Proficient |
-| Kubernetes | 🟢 Proficient |
-| CI/CD | 🟡 Learning |
-| AWS | 🔴 Beginner |
-| Azure | ⚪ Planned |
+| Docker | 🟡 Learning |
+| Kubernetes | 🔴 Beginner |
+| CI/CD | 🟢 Proficient |
+| AWS | 🟡 Learning |
+| Azure | 🟢 Proficient |
 
 ### Other
 
 | Skill | Status |
 |-------|--------|
-| Blockchain | 🟢 Proficient |
+| Blockchain | 🟡 Learning |
 | Web3 | 🟢 Proficient |
-| Cloud Computing | 🟡 Learning |
+| Cloud Computing | 🟢 Proficient |
 
 </details>
 
