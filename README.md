@@ -46,71 +46,77 @@
 
 ### 📑 Hacker News
 
-- **[We hid backdoors in ~40MB binaries and asked AI + Ghidra to find them](https://quesma.com/blog/introducing-binaryaudit/)**
-  *<p>Article URL: <a href="https://quesma.com/blog/introducing-binaryaudit/">https://quesma.com/blog/introducing-binaryaudit/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=47111...*
-  📅 Sun, 22 Feb 2026 14:50:44 +0000
+- **[US Gov Deploys Grok as Nutrition Bot, It Advises for Rectal Use of Vegetables](https://futurism.com/artificial-intelligence/us-government-grok-nutrition)**
+  *<p>Article URL: <a href="https://futurism.com/artificial-intelligence/us-government-grok-nutrition">https://futurism.com/artificial-intelligence/us-government-grok-nutrition</a></p>
+<p>Comments URL: <...*
+  📅 Mon, 23 Feb 2026 18:11:12 +0000
 
-- **[Man accidentally gains control of 7k robot vacuums](https://www.popsci.com/technology/robot-vacuum-army/)**
-  *<p>Article URL: <a href="https://www.popsci.com/technology/robot-vacuum-army/">https://www.popsci.com/technology/robot-vacuum-army/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?...*
-  📅 Sun, 22 Feb 2026 14:44:42 +0000
+- **[ASML unveils EUV light source advance that could yield 50% more chips by 2030](https://www.reuters.com/world/china/asml-unveils-euv-light-source-advance-that-could-yield-50-more-chips-by-2030-2026-02-23/)**
+  *<p>Article URL: <a href="https://www.reuters.com/world/china/asml-unveils-euv-light-source-advance-that-could-yield-50-more-chips-by-2030-2026-02-23/">https://www.reuters.com/world/china/asml-unveils-...*
+  📅 Mon, 23 Feb 2026 17:18:41 +0000
 
-- **[Iran students stage first large anti-government protests since deadly crackdown](https://www.bbc.com/news/articles/c5yj2kzkrj0o)**
-  *<p>Article URL: <a href="https://www.bbc.com/news/articles/c5yj2kzkrj0o">https://www.bbc.com/news/articles/c5yj2kzkrj0o</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=47111067"...*
-  📅 Sun, 22 Feb 2026 13:59:40 +0000
+- **[What it means that Ubuntu is using Rust](https://smallcultfollowing.com/babysteps/blog/2026/02/23/ubuntu-rustnation/)**
+  *<p>Article URL: <a href="https://smallcultfollowing.com/babysteps/blog/2026/02/23/ubuntu-rustnation/">https://smallcultfollowing.com/babysteps/blog/2026/02/23/ubuntu-rustnation/</a></p>
+<p>Comments UR...*
+  📅 Mon, 23 Feb 2026 17:15:14 +0000
 
-- **[I put New Zealand behind a $1 paywall](https://rename.world/)**
-  *<p>Article URL: <a href="https://rename.world/">https://rename.world/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=47111042">https://news.ycombinator.com/item?id=47111042</a>...*
-  📅 Sun, 22 Feb 2026 13:57:18 +0000
+- **[Decided to fly to the US to buy some hard drives](https://old.reddit.com/r/DataHoarder/comments/1rb9ot4/decided_to_fly_to_the_us_to_buy_some_hard_drives)**
+  *<p>Article URL: <a href="https://old.reddit.com/r/DataHoarder/comments/1rb9ot4/decided_to_fly_to_the_us_to_buy_some_hard_drives">https://old.reddit.com/r/DataHoarder/comments/1rb9ot4/decided_to_fly_to...*
+  📅 Mon, 23 Feb 2026 17:01:39 +0000
 
-- **[Volatility: The volatile memory forensic extraction framework](https://github.com/volatilityfoundation/volatility3)**
-  *<p>Article URL: <a href="https://github.com/volatilityfoundation/volatility3">https://github.com/volatilityfoundation/volatility3</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id...*
-  📅 Sun, 22 Feb 2026 13:20:07 +0000
+- **[Hadrius (YC W23) Is Hiring Designers Who Code](https://www.ycombinator.com/companies/hadrius/jobs/ObynDF9-senior-product-designer)**
+  *<p>Article URL: <a href="https://www.ycombinator.com/companies/hadrius/jobs/ObynDF9-senior-product-designer">https://www.ycombinator.com/companies/hadrius/jobs/ObynDF9-senior-product-designer</a></p>
+...*
+  📅 Mon, 23 Feb 2026 17:00:43 +0000
 
-- **[The Dance Floor Is Disappearing in a Sea of Phones](https://www.bloomberg.com/news/features/2026-02-20/a-boom-in-electronic-dance-music-is-changing-club-culture)**
-  *<p>Article URL: <a href="https://www.bloomberg.com/news/features/2026-02-20/a-boom-in-electronic-dance-music-is-changing-club-culture">https://www.bloomberg.com/news/features/2026-02-20/a-boom-in-elec...*
-  📅 Sun, 22 Feb 2026 12:41:37 +0000
+- **[AI is destroying open source, and it's not even good yet [video]](https://www.youtube.com/watch?v=bZJ7A1QoUEI)**
+  *<p>Article URL: <a href="https://www.youtube.com/watch?v=bZJ7A1QoUEI">https://www.youtube.com/watch?v=bZJ7A1QoUEI</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=47125019">https...*
+  📅 Mon, 23 Feb 2026 17:00:15 +0000
 
 ### 📑 TechCrunch
 
-- **[Wispr Flow launches an Android app for AI-powered dictation](https://techcrunch.com/2026/02/23/wispr-flow-launches-an-android-app-for-ai-powered-dictation/)**
-  *AI-powered dictation startup Wispr Flow has launched its Android app today. The company released its app for Mac and Windows first, then launched on iOS in June 2025. On iOS, users could use Wispr Flo...*
-  📅 Mon, 23 Feb 2026 08:01:00 +0000
+- **[Americans are destroying Flock surveillance cameras](https://techcrunch.com/2026/02/23/americans-are-destroying-flock-surveillance-cameras/)**
+  *While some cities are moving to end their contracts with Flock over its links to ICE, others are taking matters into their own hands....*
+  📅 Mon, 23 Feb 2026 18:49:49 +0000
 
-- **[Apple might take a new approach to announcing its next products](https://techcrunch.com/2026/02/22/apple-might-take-a-new-approach-to-announcing-its-next-products/)**
-  *Apple has invited the tech press to a “special Apple experience” on March 4, but it might unfold a bit differently than the company's standard press event....*
-  📅 Sun, 22 Feb 2026 23:08:08 +0000
+- **[OpenAI calls in the consultants for its enterprise push](https://techcrunch.com/2026/02/23/openai-calls-in-the-consultants-for-its-enterprise-push/)**
+  *OpenAI is partnering with four consulting giants in an effort to see more adoption of its OpenAI Frontier AI agent platform....*
+  📅 Mon, 23 Feb 2026 18:11:08 +0000
 
-- **[Can the creator economy stay afloat in a flood of AI slop?](https://techcrunch.com/2026/02/22/can-the-creator-economy-stay-afloat-in-a-flood-of-ai-slop/)**
-  *On the latest episode of Equity, we debated what’s next for the creator economy, and whether there will be any room for the next generation of creators to stand out....*
-  📅 Sun, 22 Feb 2026 22:15:58 +0000
+- **[Guide Labs debuts a new kind of interpretable LLM](https://techcrunch.com/2026/02/23/guide-labs-debuts-a-new-kind-of-interpretable-llm/)**
+  *The company open-sourced an 8 billion parameter LLM, Steerling-8B, trained with a new architecture designed to make its actions easily interpretable....*
+  📅 Mon, 23 Feb 2026 17:53:28 +0000
 
-- **[Bill Gurley says that right now, the worst thing you can do for your career is play it safe](https://techcrunch.com/2026/02/22/bill-gurley-says-that-right-now-the-worst-thing-you-can-do-for-your-career-is-play-it-safe/)**
-  *"The number one thing is to get out of your head this ideal that gets passed around in the self-help world: 'go get a mentor,' and everyone runs out and cold calls someone that's ridiculously too high...*
-  📅 Sun, 22 Feb 2026 21:08:50 +0000
+- **[Particle’s AI news app listens to podcasts for interesting clips so you you don’t have to](https://techcrunch.com/2026/02/23/particles-ai-news-app-listens-to-podcasts-for-interesting-clips-so-you-you-dont-have-to/)**
+  *AI news app Particle can now pull in key moments from podcasts, letting readers instantly play short, relevant clips alongside related stories....*
+  📅 Mon, 23 Feb 2026 16:55:40 +0000
 
-- **[Quantonation’s double-sized second fund shows quantum still has believers](https://techcrunch.com/2026/02/22/quantonations-double-sized-second-fund-shows-quantum-still-has-believers/)**
-  *Quantonation Ventures, a venture firm investing in quantum and physics-based startups, has closed its oversubscribed second fund at €220 million, or approximately $260 million. That’s more than twice ...*
-  📅 Sun, 22 Feb 2026 18:00:00 +0000
+- **[Spotify rolls out AI-powered  Prompted Playlists to the U.K. and other markets](https://techcrunch.com/2026/02/23/spotify-ai-prompted-playlists-uk-markets/)**
+  *Spotify continues to test its AI-powered “Prompted Playlists” feature, now rolling out the tool to Premium subscribers in the U.K., Ireland, Australia, and Sweden....*
+  📅 Mon, 23 Feb 2026 16:50:36 +0000
 
-- **[Trump says Netflix will face ‘consequences’ if it doesn’t fire board member Susan Rice](https://techcrunch.com/2026/02/22/trump-says-netflix-will-face-consequences-if-it-doesnt-fire-board-member-susan-rice/)**
-  *Netflix board member Susan Rice had predicted that corporations that “take a knee” to Trump will be “held accountable” when Democrats return to power....*
-  📅 Sun, 22 Feb 2026 17:39:55 +0000
+- **[Finnish quantum unicorn IQM set to go public](https://techcrunch.com/2026/02/23/finnish-quantum-unicorn-iqm-set-to-go-public/)**
+  *Finnish unicorn IQM plans to go public via a special purpose acquisition company (SPAC) valuing the company at approximately $1.8 billion — joining the growing cohort of quantum computing companies li...*
+  📅 Mon, 23 Feb 2026 16:41:22 +0000
 
 ### 📑 Dev.to
 
-- **[I built a $7/mo tool to kill my runway anxiety in 48 hours.](https://dev.to/alexbuilder/i-built-a-7mo-tool-to-kill-my-runway-anxiety-in-48-hours-555i)**
-  *<p>Hey fellow bootstrappers,I'm a solo founder building in public. For months, I was waking up at 3AM mentally calculating how many months of runway I had left.So I built Runway Rocket - a stupid-simp...*
-  📅 Mon, 23 Feb 2026 12:31:14 +0000
+- **[Deploy Your MCP Server to Google Cloud Run (For Free)](https://dev.to/ialijr/deploy-your-mcp-server-to-google-cloud-run-for-free-5d7k)**
+  *<h2>
+  
+  
+  Introduction
+</h2>
 
-- **[The European Accessibility Act Is the New GDPR — And You're Already Late](https://dev.to/petrilahdelma/the-european-accessibility-act-is-the-new-gdpr-and-youre-already-late-1i14)**
-  *<p>*<em>The EAA is now law. Fines are rolling in. France sued four retailers. Norway imposed daily penalties on a health app. Here's the 7 violations hiding in your codebase — with code fixes.<br />
-*...*
-  📅 Mon, 23 Feb 2026 12:25:20 +0000
+<p>You've built an MCP server. It works on localhost. Your AI assistant can call tools, fetch data, and do useful things, as long as everything runs on your machine.</...*
+  📅 Mon, 23 Feb 2026 18:47:58 +0000
+
+- **[Self-Hosting Mem0: A Complete Docker Deployment Guide](https://dev.to/mem0/self-hosting-mem0-a-complete-docker-deployment-guide-154i)**
+  *<p>You ship an AI assistant, users love it, and then legal asks where the conversation data lives.</p>
+
+<p>Nobody has a great answer when the memory layer runs on someone else's servers, priced at wha...*
+  📅 Mon, 23 Feb 2026 18:47:15 +0000
 
 </details>
 
@@ -118,103 +124,103 @@
 
 ### 📈 Daily Trending
 
-- **[sangrokjung/claude-forge](https://github.com/sangrokjung/claude-forge)** ⭐ 40
+- **[xM0kht4r/VEN0m-Ransomware](https://github.com/xM0kht4r/VEN0m-Ransomware)** ⭐ 84
+  ![Rust](https://img.shields.io/badge/-Rust-brown)
+  Fully undetectable and evasive ransomware written in Rust, leveraging a BYOVD technique to disable AV/EDR solutions on the infected systems.
+
+- **[sangrokjung/claude-forge](https://github.com/sangrokjung/claude-forge)** ⭐ 84
   ![Shell](https://img.shields.io/badge/-Shell-lightgrey)
   Production-grade configuration framework for Claude Code
 
-- **[BilalG1/openslack](https://github.com/BilalG1/openslack)** ⭐ 23
-  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
-  Open-source Slack
-
-- **[Dhravya/agent-captcha](https://github.com/Dhravya/agent-captcha)** ⭐ 22
-  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
-  CAPTCHA that only agents can pass 
-
-- **[wapp1/wapp](https://github.com/wapp1/wapp)** ⭐ 15
-  ![None](https://img.shields.io/badge/-None-lightgrey)
-  📺 A native app for Android & Android TV. Seamlessly watch your favorite anime, sync your progress with AniList in real-time, manage downloads for offline viewing, and enjoy full subtitle control. Built for a smooth experience. ✨
-
-- **[wataame/claude-code-explain-risk](https://github.com/wataame/claude-code-explain-risk)** ⭐ 13
+- **[direkturcrypto/polymarket-terminal](https://github.com/direkturcrypto/polymarket-terminal)** ⭐ 45
   ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
-  Claude Code の許可ダイアログに、操作のリスクを分かりやすく表示するツール
+  Copy, Scalping & Sniper for polymarket
 
-- **[jrl290/RNodeTHV4](https://github.com/jrl290/RNodeTHV4)** ⭐ 13
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  Standalone Reticulum over LoRa and WiFi Node - Firmware for Heltec V4
-
-- **[taigrr/spank](https://github.com/taigrr/spank)** ⭐ 12
-  ![Go](https://img.shields.io/badge/-Go-cyan)
-  Slap your MacBook, it yells back. Uses Apple Silicon accelerometer via IOKit HID.
-
-- **[t3tra-dev/zerocast](https://github.com/t3tra-dev/zerocast)** ⭐ 12
+- **[t3tra-dev/zerocast](https://github.com/t3tra-dev/zerocast)** ⭐ 37
   ![C](https://img.shields.io/badge/-C-lightgrey)
   "zerocast" is a lossy compression technology boasting the highest compression ratio in history.
 
+- **[datavorous/challenges](https://github.com/datavorous/challenges)** ⭐ 34
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  Various coding challenges to push the limits of computing
+
+- **[kitlangton/tailcode](https://github.com/kitlangton/tailcode)** ⭐ 32
+  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
+  None
+
+- **[ArcticEnnrichentCenter/DFCD-cyberdeck-files](https://github.com/ArcticEnnrichentCenter/DFCD-cyberdeck-files)** ⭐ 30
+  ![None](https://img.shields.io/badge/-None-lightgrey)
+  CAD files for DFCD cyberdeck
+
+- **[Dhravya/agent-captcha](https://github.com/Dhravya/agent-captcha)** ⭐ 29
+  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
+  CAPTCHA that only agents can pass 
+
 ### 📈 Weekly Trending
 
-- **[ShinMegamiBoson/OpenPlanter](https://github.com/ShinMegamiBoson/OpenPlanter)** ⭐ 1,140
+- **[ShinMegamiBoson/OpenPlanter](https://github.com/ShinMegamiBoson/OpenPlanter)** ⭐ 1,193
   ![Python](https://img.shields.io/badge/-Python-blue)
   None
 
-- **[Leonxlnx/taste-skill](https://github.com/Leonxlnx/taste-skill)** ⭐ 734
+- **[Leonxlnx/taste-skill](https://github.com/Leonxlnx/taste-skill)** ⭐ 847
   ![None](https://img.shields.io/badge/-None-lightgrey)
   Taste-Skill (High-Agency Frontend) - gives your AI good taste. stops the AI from generating boring, generic, "slop" 
 
-- **[CraftyGeezer/Kalshi-Polymarket-Ai-bot](https://github.com/CraftyGeezer/Kalshi-Polymarket-Ai-bot)** ⭐ 703
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  None
-
-- **[RightNow-AI/picolm](https://github.com/RightNow-AI/picolm)** ⭐ 690
+- **[RightNow-AI/picolm](https://github.com/RightNow-AI/picolm)** ⭐ 710
   ![C](https://img.shields.io/badge/-C-lightgrey)
   Run a 1-billion parameter LLM on a $10 board with 256MB RAM
 
-- **[olvvier/apple-silicon-accelerometer](https://github.com/olvvier/apple-silicon-accelerometer)** ⭐ 579
+- **[CraftyGeezer/Kalshi-Polymarket-Ai-bot](https://github.com/CraftyGeezer/Kalshi-Polymarket-Ai-bot)** ⭐ 709
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  None
+
+- **[olvvier/apple-silicon-accelerometer](https://github.com/olvvier/apple-silicon-accelerometer)** ⭐ 656
   ![Python](https://img.shields.io/badge/-Python-blue)
   reading the undocumented mems accelerometer + gyroscope on apple silicon macbooks via iokit hid
 
-- **[TraderAlice/OpenAlice](https://github.com/TraderAlice/OpenAlice)** ⭐ 521
+- **[TraderAlice/OpenAlice](https://github.com/TraderAlice/OpenAlice)** ⭐ 568
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   File-driven AI trading agent engine for crypto and securities markets
 
-- **[Kirubel125/Kalshi-Claw](https://github.com/Kirubel125/Kalshi-Claw)** ⭐ 513
+- **[Kirubel125/Kalshi-Claw](https://github.com/Kirubel125/Kalshi-Claw)** ⭐ 540
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   None
 
-- **[Daniel-Dias001/Polymarket-rsi-macd-index-trading-bot](https://github.com/Daniel-Dias001/Polymarket-rsi-macd-index-trading-bot)** ⭐ 473
+- **[Daniel-Dias001/Polymarket-rsi-macd-index-trading-bot](https://github.com/Daniel-Dias001/Polymarket-rsi-macd-index-trading-bot)** ⭐ 480
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   Polymarket trading bot that combines monitoring with strategy logic for Polymarket's 15-minute prediction markets. Polymarket || Polymarket Bot || Polymarket Copy Bot || Polymarket Copy Trading Bot || Polymarket Typescript Bot || Polymarket bot || Polymarket || Polymarket || Polymarket || Polymarket || Polymarket ||  Polymarket
 
 ### 📈 Monthly Trending
 
-- **[HKUDS/nanobot](https://github.com/HKUDS/nanobot)** ⭐ 23,602
+- **[HKUDS/nanobot](https://github.com/HKUDS/nanobot)** ⭐ 23,775
   ![Python](https://img.shields.io/badge/-Python-blue)
   "🐈 nanobot: The Ultra-Lightweight OpenClaw"
 
-- **[VoltAgent/awesome-openclaw-skills](https://github.com/VoltAgent/awesome-openclaw-skills)** ⭐ 18,525
+- **[VoltAgent/awesome-openclaw-skills](https://github.com/VoltAgent/awesome-openclaw-skills)** ⭐ 18,672
   ![None](https://img.shields.io/badge/-None-lightgrey)
   The awesome collection of OpenClaw Skills. Formerly known as Moltbot, originally Clawdbot.
 
-- **[sipeed/picoclaw](https://github.com/sipeed/picoclaw)** ⭐ 18,426
+- **[sipeed/picoclaw](https://github.com/sipeed/picoclaw)** ⭐ 18,612
   ![Go](https://img.shields.io/badge/-Go-cyan)
   Tiny, Fast, and Deployable anywhere — automate the mundane, unleash your creativity
 
-- **[zeroclaw-labs/zeroclaw](https://github.com/zeroclaw-labs/zeroclaw)** ⭐ 17,448
+- **[zeroclaw-labs/zeroclaw](https://github.com/zeroclaw-labs/zeroclaw)** ⭐ 17,636
   ![Rust](https://img.shields.io/badge/-Rust-brown)
   Fast, small, and fully autonomous AI assistant infrastructure — deploy anywhere, swap anything 🦀
 
-- **[qwibitai/nanoclaw](https://github.com/qwibitai/nanoclaw)** ⭐ 12,878
+- **[qwibitai/nanoclaw](https://github.com/qwibitai/nanoclaw)** ⭐ 13,127
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   A lightweight alternative to Clawdbot / OpenClaw that runs in containers for security. Connects to WhatsApp, has memory, scheduled jobs, and runs directly on Anthropic's Agents SDK
 
-- **[jamiepine/voicebox](https://github.com/jamiepine/voicebox)** ⭐ 10,318
+- **[jamiepine/voicebox](https://github.com/jamiepine/voicebox)** ⭐ 10,436
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   The open-source voice synthesis studio powered by Qwen3-TTS.
 
-- **[cloudflare/moltworker](https://github.com/cloudflare/moltworker)** ⭐ 9,111
+- **[cloudflare/moltworker](https://github.com/cloudflare/moltworker)** ⭐ 9,125
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   Run OpenClaw, (formerly Moltbot, formerly Clawdbot) on Cloudflare Workers
 
-- **[lukilabs/beautiful-mermaid](https://github.com/lukilabs/beautiful-mermaid)** ⭐ 7,286
+- **[lukilabs/beautiful-mermaid](https://github.com/lukilabs/beautiful-mermaid)** ⭐ 7,399
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   None
 
@@ -481,28 +487,28 @@ See [kubernetes-announce@](https://groups.google.com/forum/#!forum/kubernetes-an
 
 | Skill | Status |
 |-------|--------|
-| Java | 🟡 Learning |
+| Java | 🔴 Beginner |
 | Python | 🟡 Learning |
 | JavaScript | 🟡 Learning |
-| TypeScript | ⚪ Planned |
-| Go | 🔴 Beginner |
+| TypeScript | 🟡 Learning |
+| Go | 🟡 Learning |
 
 ### Frameworks
 
 | Skill | Status |
 |-------|--------|
-| React | 🟢 Proficient |
-| Spring Boot | ⚪ Planned |
+| React | 🔴 Beginner |
+| Spring Boot | 🟢 Proficient |
 | Django | 🔴 Beginner |
-| Node.js | ⚪ Planned |
+| Node.js | 🟢 Proficient |
 | Next.js | 🔴 Beginner |
 
 ### Cybersecurity
 
 | Skill | Status |
 |-------|--------|
-| Penetration Testing | 🔴 Beginner |
-| Web Security | 🟢 Proficient |
+| Penetration Testing | 🟢 Proficient |
+| Web Security | 🔴 Beginner |
 | Network Security | 🟡 Learning |
 | OWASP | 🟢 Proficient |
 
@@ -510,9 +516,9 @@ See [kubernetes-announce@](https://groups.google.com/forum/#!forum/kubernetes-an
 
 | Skill | Status |
 |-------|--------|
-| Machine Learning | 🟡 Learning |
+| Machine Learning | ⚪ Planned |
 | Deep Learning | ⚪ Planned |
-| NLP | ⚪ Planned |
+| NLP | 🟢 Proficient |
 | Computer Vision | 🟢 Proficient |
 | TensorFlow | 🟢 Proficient |
 | PyTorch | 🟢 Proficient |
@@ -523,17 +529,17 @@ See [kubernetes-announce@](https://groups.google.com/forum/#!forum/kubernetes-an
 |-------|--------|
 | Docker | 🔴 Beginner |
 | Kubernetes | ⚪ Planned |
-| CI/CD | 🔴 Beginner |
-| AWS | 🟡 Learning |
-| Azure | 🟢 Proficient |
+| CI/CD | 🟢 Proficient |
+| AWS | ⚪ Planned |
+| Azure | 🟡 Learning |
 
 ### Other
 
 | Skill | Status |
 |-------|--------|
-| Blockchain | 🔴 Beginner |
-| Web3 | 🟡 Learning |
-| Cloud Computing | 🟢 Proficient |
+| Blockchain | 🟡 Learning |
+| Web3 | ⚪ Planned |
+| Cloud Computing | 🔴 Beginner |
 
 </details>
 
