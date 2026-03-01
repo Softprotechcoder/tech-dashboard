@@ -46,87 +46,82 @@
 
 ### 📑 Hacker News
 
-- **[Why is the first C++ (m)allocation always 72 KB?](https://joelsiks.com/posts/cpp-emergency-pool-72kb-allocation/)**
-  *<p>Article URL: <a href="https://joelsiks.com/posts/cpp-emergency-pool-72kb-allocation/">https://joelsiks.com/posts/cpp-emergency-pool-72kb-allocation/</a></p>
+- **[6 Practices that turned AI from prototyper to workhorse (106 PRs in 14 days)](https://news.ycombinator.com/item?id=47208471)**
+  *<p>1. <i>Specs and plans are source code</i>: Specs and plans live in git alongside source code, not in chat history. A new agent reads arch.md for the big picture, then its specific spec. You always ...*
+  📅 Sun, 01 Mar 2026 17:02:15 +0000
+
+- **[I Built a Scheme Compiler with AI in 4 Days](https://matthewphillips.info/programming/posts/i-built-a-scheme-compiler-with-ai/)**
+  *<p>Article URL: <a href="https://matthewphillips.info/programming/posts/i-built-a-scheme-compiler-with-ai/">https://matthewphillips.info/programming/posts/i-built-a-scheme-compiler-with-ai/</a></p>
+<p...*
+  📅 Sun, 01 Mar 2026 16:58:03 +0000
+
+- **[When does MCP make sense vs CLI?](https://ejholmes.github.io/2026/02/28/mcp-is-dead-long-live-the-cli.html)**
+  *<p>Article URL: <a href="https://ejholmes.github.io/2026/02/28/mcp-is-dead-long-live-the-cli.html">https://ejholmes.github.io/2026/02/28/mcp-is-dead-long-live-the-cli.html</a></p>
+<p>Comments URL: <a ...*
+  📅 Sun, 01 Mar 2026 16:54:49 +0000
+
+- **[Show HN: Audio Toolkit for Agents](https://github.com/shiehn/sas-audio-processor)**
+  *<p>Article URL: <a href="https://github.com/shiehn/sas-audio-processor">https://github.com/shiehn/sas-audio-processor</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=47207806">h...*
+  📅 Sun, 01 Mar 2026 15:52:02 +0000
+
+- **[Lil' Fun Langs' Guts](https://taylor.town/scrapscript-001)**
+  *<p>Article URL: <a href="https://taylor.town/scrapscript-001">https://taylor.town/scrapscript-001</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=47207531">https://news.ycombina...*
+  📅 Sun, 01 Mar 2026 15:23:42 +0000
+
+- **[New iron nanomaterial wipes out cancer cells without harming healthy tissue](https://www.sciencedaily.com/releases/2026/02/260228093456.htm)**
+  *<p>Article URL: <a href="https://www.sciencedaily.com/releases/2026/02/260228093456.htm">https://www.sciencedaily.com/releases/2026/02/260228093456.htm</a></p>
 <p>Comments URL: <a href="https://news.y...*
-  📅 Sun, 01 Mar 2026 09:27:34 +0000
-
-- **[Show HN: Terminal-Style Portfolio on the Internet](https://kuber.studio/)**
-  *<p>Posted about this last year, since then learned a lot, changed a lot and can still say it's the best Terminal-Style Portfolio Website on The Internet</p>
-<hr />
-<p>Comments URL: <a href="https://ne...*
-  📅 Sun, 01 Mar 2026 09:26:59 +0000
-
-- **[Decision trees – the unreasonable power of nested decision rules](https://mlu-explain.github.io/decision-tree/)**
-  *<p>Article URL: <a href="https://mlu-explain.github.io/decision-tree/">https://mlu-explain.github.io/decision-tree/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=47204964">htt...*
-  📅 Sun, 01 Mar 2026 08:55:52 +0000
-
-- **[Switch to Claude without starting over](https://claude.com/import-memory)**
-  *<p>Article URL: <a href="https://claude.com/import-memory">https://claude.com/import-memory</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=47204571">https://news.ycombinator.co...*
-  📅 Sun, 01 Mar 2026 07:36:52 +0000
-
-- **[10-202: Introduction to Modern AI (CMU)](https://modernaicourse.org)**
-  *<p>Article URL: <a href="https://modernaicourse.org">https://modernaicourse.org</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=47204559">https://news.ycombinator.com/item?id=47...*
-  📅 Sun, 01 Mar 2026 07:35:03 +0000
-
-- **[The Science of Detecting LLM-Generated Text (2024)](https://dl.acm.org/doi/10.1145/3624725)**
-  *<p>Article URL: <a href="https://dl.acm.org/doi/10.1145/3624725">https://dl.acm.org/doi/10.1145/3624725</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=47202864">https://news.yc...*
-  📅 Sun, 01 Mar 2026 02:09:41 +0000
+  📅 Sun, 01 Mar 2026 15:09:55 +0000
 
 ### 📑 TechCrunch
 
-- **[The trap Anthropic built for itself](https://techcrunch.com/2026/02/28/the-trap-anthropic-built-for-itself/)**
-  *Anthropic, OpenAI, Google DeepMind and others have long promised to govern themselves responsibly. Now, in the absence of rules, there's not a lot to protect them....*
-  📅 Sun, 01 Mar 2026 00:08:58 +0000
+- **[Google looks to tackle longstanding RCS spam in India — but not alone](https://techcrunch.com/2026/03/01/google-looks-to-tackle-longstanding-rcs-spam-in-india-but-not-alone/)**
+  *Google is integrating carrier-level filtering into RCS in India through a partnership with Airtel to strengthen protections against spam....*
+  📅 Sun, 01 Mar 2026 17:30:00 +0000
 
-- **[Why did Netflix back down from its deal to acquire Warner Bros.?](https://techcrunch.com/2026/02/28/why-did-netflix-back-down-from-its-deal-to-acquire-warner-bros/)**
-  *Netflix's co-CEO reportedly told Trump, "I took your advice."...*
-  📅 Sat, 28 Feb 2026 22:07:48 +0000
+- **[Investors spill what they aren’t looking for anymore in AI SaaS companies](https://techcrunch.com/2026/03/01/investors-spill-what-they-arent-looking-for-anymore-in-ai-saas-companies/)**
+  *TechCrunch spoke with VCs to learn what investors aren't looking for in AI SaaS startups anymore....*
+  📅 Sun, 01 Mar 2026 17:00:00 +0000
 
-- **[What to know about the landmark Warner Bros. Discovery sale](https://techcrunch.com/2026/02/28/warner-bros-netflix-paramount-acquisition-timeline-wbd/)**
-  *Learn more about Paramount's planned acquisition of Warner Bros. Discovery — a historic Hollywood megadeal valued at $111 billion — as it continues to develop....*
-  📅 Sat, 28 Feb 2026 21:28:06 +0000
+- **[OpenAI reveals more details about its agreement with the Pentagon](https://techcrunch.com/2026/03/01/openai-shares-more-details-about-its-agreement-with-the-pentagon/)**
+  *By CEO Sam Altman’s own admission, OpenAI’s deal with the Department of Defense was “definitely rushed,” and “the optics don’t look good.”...*
+  📅 Sun, 01 Mar 2026 16:30:10 +0000
 
-- **[Anthropic’s Claude rises to No. 2 in the App Store following Pentagon dispute](https://techcrunch.com/2026/02/28/anthropics-claude-rises-to-no-2-in-the-app-store-following-pentagon-dispute/)**
+- **[Honor says its ‘Robot phone’ with moving camera can dance to music](https://techcrunch.com/2026/03/01/honor-says-its-robot-phone-with-moving-camera-can-dance-to-music/)**
+  *Honor first teased its &#8220;Robot phone&#8221; with a movable camera arm earlier this year. Ahead of the Mobile World Congress (MWC) in Barcelona, the Chinese company provided more details about the...*
+  📅 Sun, 01 Mar 2026 15:30:00 +0000
+
+- **[Honor launches its new slim foldable Magic V6 with a 6,600 mAh battery](https://techcrunch.com/2026/03/01/honor-launches-its-new-slim-foldable-magic-v6-with-a-6600-mah-battery/)**
+  *Honor also previewed battery tech that could take foldable batteries over 7,000 mAh mark...*
+  📅 Sun, 01 Mar 2026 15:13:09 +0000
+
+- **[Anthropic’s Claude rises to No. 1 in the App Store following Pentagon dispute](https://techcrunch.com/2026/03/01/anthropics-claude-rises-to-no-2-in-the-app-store-following-pentagon-dispute/)**
   *Anthropic’s chatbot Claude seems to have benefited from the attention around the company’s fraught negotiations with the Pentagon....*
-  📅 Sat, 28 Feb 2026 21:05:06 +0000
-
-- **[The billion-dollar infrastructure deals powering the AI boom](https://techcrunch.com/2026/02/28/billion-dollar-infrastructure-deals-ai-boom-data-centers-openai-oracle-nvidia-microsoft-google-meta/)**
-  *Here's everything we know about the biggest AI infrastructure projects, including major spending from Meta, Oracle, Microsoft, Google, and OpenAI....*
-  📅 Sat, 28 Feb 2026 20:41:55 +0000
-
-- **[OpenAI’s Sam Altman announces Pentagon deal with ‘technical safeguards’](https://techcrunch.com/2026/02/28/openais-sam-altman-announces-pentagon-deal-with-technical-safeguards/)**
-  *OpenAI's CEO claims its new defense contract includes protections addressing the same issues that became a flashpoint for Anthropic....*
-  📅 Sat, 28 Feb 2026 16:17:36 +0000
+  📅 Sun, 01 Mar 2026 14:48:58 +0000
 
 ### 📑 Dev.to
 
-- **[JavaScript Promises: From Pending Proposals to Bollywood Bliss – A Desi Guide to Async Magic](https://dev.to/ritam369/javascript-promises-from-pending-proposals-to-bollywood-bliss-a-desi-guide-to-async-magic-gbp)**
-  *<h2>
+- **[MicroGPT: The Lightweight AI Agent Explained](https://dev.to/onsen/microgpt-the-lightweight-ai-agent-explained-2mj5)**
+  *<h1>
   
   
-  Introduction
-</h2>
+  MicroGPT: The Lightweight AI Agent Explained
+</h1>
 
-<p>Hello my fellow coders and curious minds! <br />
-If you've ever dived into asynchronous JavaScript, you know Promises are like that reliable friend who handles the ...*
-  📅 Sun, 01 Mar 2026 12:26:49 +0000
+<p><strong>Meta Description:</strong> Discover what MicroGPT is, how it works, and whether this autonomous AI agent framework is right ...*
+  📅 Sun, 01 Mar 2026 18:08:16 +0000
 
-- **[Unsaid: Turning Reactive Messages Into Intentional Conversations](https://dev.to/preeti_yadav/unsaid-turning-reactive-messages-into-intentional-conversations-2iop)**
-  *<p><em>This is a submission for the <a href="https://dev.to/challenges/weekend-2026-02-28">DEV Weekend Challenge: Community</a></em></p>
-
-<h2>
+- **[Serverless Cold Starts: Understanding and Mitigating](https://dev.to/matt_frank_usa/serverless-cold-starts-understanding-and-mitigating-4bl)**
+  *<h1>
   
   
-  The Community
-</h2>
+  Serverless Cold Starts: Understanding and Mitigating Performance Bottlenecks
+</h1>
 
-<p>I built Unsaid for people...*
-  📅 Sun, 01 Mar 2026 12:24:50 +0000
+<p>You've just deployed your shiny new serverless function, and your first API call takes 3 seconds to ...*
+  📅 Sun, 01 Mar 2026 18:00:59 +0000
 
 </details>
 
@@ -134,103 +129,103 @@ If you've ever dived into asynchronous JavaScript, you know Promises are like th
 
 ### 📈 Daily Trending
 
-- **[timo3a-comon/market-url-torzon](https://github.com/timo3a-comon/market-url-torzon)** ⭐ 55
+- **[World-Open-Graph/br-acc](https://github.com/World-Open-Graph/br-acc)** ⭐ 348
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  World Transparency Graph public codebase
+
+- **[smartcmd/MinecraftConsoles](https://github.com/smartcmd/MinecraftConsoles)** ⭐ 149
+  ![C++](https://img.shields.io/badge/-C++-pink)
+  A certain block game
+
+- **[timo3a-comon/market-url-torzon](https://github.com/timo3a-comon/market-url-torzon)** ⭐ 65
   ![None](https://img.shields.io/badge/-None-lightgrey)
   Market URL TorZon
 
-- **[ullyheglas/onion-torzon-link-market](https://github.com/ullyheglas/onion-torzon-link-market)** ⭐ 45
+- **[ullyheglas/onion-torzon-link-market](https://github.com/ullyheglas/onion-torzon-link-market)** ⭐ 63
   ![None](https://img.shields.io/badge/-None-lightgrey)
   Onion TorZon Link Market
 
-- **[Jstrom2022/tvbox-Swift](https://github.com/Jstrom2022/tvbox-Swift)** ⭐ 42
-  ![Swift](https://img.shields.io/badge/-Swift-lightgrey)
-  TVBox-Swift 是一套基于原生 Swift & SwiftUI 构建的跨平台多媒体应用核心工程。它同时支持 macOS 和 iOS 设备，致力于在双端提供无缝、现代且极其流畅的视听体验。
-
-- **[Harih7/5-stage-pipelined-MIPS-RISC-V-like-processor](https://github.com/Harih7/5-stage-pipelined-MIPS-RISC-V-like-processor)** ⭐ 35
-  ![Verilog](https://img.shields.io/badge/-Verilog-lightgrey)
-  A 5-stage pipelined MIPS processor implemented in Verilog featuring hazard detection, data forwarding, and branch handling.
-
-- **[vsingla6e2/torzon-darknet-link](https://github.com/vsingla6e2/torzon-darknet-link)** ⭐ 34
-  ![None](https://img.shields.io/badge/-None-lightgrey)
-  TorZon Darknet Link
-
-- **[vmikuxin/torzon-marketplace](https://github.com/vmikuxin/torzon-marketplace)** ⭐ 34
-  ![None](https://img.shields.io/badge/-None-lightgrey)
-  TorZon Marketplace
-
-- **[traderwillhu/market_dashboard](https://github.com/traderwillhu/market_dashboard)** ⭐ 31
+- **[traderwillhu/market_dashboard](https://github.com/traderwillhu/market_dashboard)** ⭐ 61
   ![HTML](https://img.shields.io/badge/-HTML-lightgrey)
   None
 
-- **[cporter202/openclaw-api-list](https://github.com/cporter202/openclaw-api-list)** ⭐ 29
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
-  This GitHub repo is a list of APIs you can plug into your OpenClaw bot to make it run like a powerhouse!
+- **[Jstrom2022/tvbox-Swift](https://github.com/Jstrom2022/tvbox-Swift)** ⭐ 52
+  ![Swift](https://img.shields.io/badge/-Swift-lightgrey)
+  TVBox-Swift 是一套基于原生 Swift & SwiftUI 构建的跨平台多媒体应用核心工程。它同时支持 macOS 和 iOS 设备，致力于在双端提供无缝、现代且极其流畅的视听体验。
+
+- **[Harih7/5-stage-pipelined-MIPS-RISC-V-like-processor](https://github.com/Harih7/5-stage-pipelined-MIPS-RISC-V-like-processor)** ⭐ 50
+  ![Verilog](https://img.shields.io/badge/-Verilog-lightgrey)
+  A 5-stage pipelined MIPS processor implemented in Verilog featuring hazard detection, data forwarding, and branch handling.
+
+- **[vsingla6e2/torzon-darknet-link](https://github.com/vsingla6e2/torzon-darknet-link)** ⭐ 45
+  ![None](https://img.shields.io/badge/-None-lightgrey)
+  TorZon Darknet Link
 
 ### 📈 Weekly Trending
 
-- **[RightNow-AI/openfang](https://github.com/RightNow-AI/openfang)** ⭐ 6,604
+- **[RightNow-AI/openfang](https://github.com/RightNow-AI/openfang)** ⭐ 7,116
   ![Rust](https://img.shields.io/badge/-Rust-brown)
   Open-source Agent Operating System
 
-- **[anthropics/financial-services-plugins](https://github.com/anthropics/financial-services-plugins)** ⭐ 4,982
+- **[anthropics/financial-services-plugins](https://github.com/anthropics/financial-services-plugins)** ⭐ 5,037
   ![Python](https://img.shields.io/badge/-Python-blue)
   None
 
-- **[cloudflare/vinext](https://github.com/cloudflare/vinext)** ⭐ 4,807
+- **[cloudflare/vinext](https://github.com/cloudflare/vinext)** ⭐ 4,882
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   Vite plugin that reimplements the Next.js API surface — deploy anywhere
 
-- **[Panniantong/Agent-Reach](https://github.com/Panniantong/Agent-Reach)** ⭐ 3,276
+- **[Panniantong/Agent-Reach](https://github.com/Panniantong/Agent-Reach)** ⭐ 3,377
   ![Python](https://img.shields.io/badge/-Python-blue)
   Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.
 
-- **[agentscope-ai/CoPaw](https://github.com/agentscope-ai/CoPaw)** ⭐ 2,767
+- **[agentscope-ai/CoPaw](https://github.com/agentscope-ai/CoPaw)** ⭐ 3,106
   ![Python](https://img.shields.io/badge/-Python-blue)
   Your Personal AI Assistant; easy to install, deploy on your own machine or on the cloud; supports multiple chat apps with easily extensible capabilities.
 
-- **[peteromallet/dataclaw](https://github.com/peteromallet/dataclaw)** ⭐ 1,656
+- **[peteromallet/dataclaw](https://github.com/peteromallet/dataclaw)** ⭐ 1,673
   ![Python](https://img.shields.io/badge/-Python-blue)
   None
 
-- **[Polymarket/polymarket-cli](https://github.com/Polymarket/polymarket-cli)** ⭐ 1,371
+- **[Polymarket/polymarket-cli](https://github.com/Polymarket/polymarket-cli)** ⭐ 1,391
   ![Rust](https://img.shields.io/badge/-Rust-brown)
   None
 
-- **[mgechev/skills-best-practices](https://github.com/mgechev/skills-best-practices)** ⭐ 916
-  ![None](https://img.shields.io/badge/-None-lightgrey)
-  Write professional-grade skills for agents, validate them using LLMs, and maintain a lean context window.
+- **[Lakr233/vphone-cli](https://github.com/Lakr233/vphone-cli)** ⭐ 1,181
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  None
 
 ### 📈 Monthly Trending
 
-- **[HKUDS/nanobot](https://github.com/HKUDS/nanobot)** ⭐ 27,090
+- **[HKUDS/nanobot](https://github.com/HKUDS/nanobot)** ⭐ 27,188
   ![Python](https://img.shields.io/badge/-Python-blue)
   "🐈 nanobot: The Ultra-Lightweight OpenClaw"
 
-- **[zeroclaw-labs/zeroclaw](https://github.com/zeroclaw-labs/zeroclaw)** ⭐ 21,461
+- **[zeroclaw-labs/zeroclaw](https://github.com/zeroclaw-labs/zeroclaw)** ⭐ 21,590
   ![Rust](https://img.shields.io/badge/-Rust-brown)
   Fast, small, and fully autonomous AI assistant infrastructure — deploy anywhere, swap anything 🦀
 
-- **[sipeed/picoclaw](https://github.com/sipeed/picoclaw)** ⭐ 21,232
+- **[sipeed/picoclaw](https://github.com/sipeed/picoclaw)** ⭐ 21,288
   ![Go](https://img.shields.io/badge/-Go-cyan)
   Tiny, Fast, and Deployable anywhere — automate the mundane, unleash your creativity
 
-- **[qwibitai/nanoclaw](https://github.com/qwibitai/nanoclaw)** ⭐ 16,809
+- **[qwibitai/nanoclaw](https://github.com/qwibitai/nanoclaw)** ⭐ 16,914
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   A lightweight alternative to Clawdbot / OpenClaw that runs in containers for security. Connects to WhatsApp, has memory, scheduled jobs, and runs directly on Anthropic's Agents SDK
 
-- **[hesamsheikh/awesome-openclaw-usecases](https://github.com/hesamsheikh/awesome-openclaw-usecases)** ⭐ 13,991
+- **[hesamsheikh/awesome-openclaw-usecases](https://github.com/hesamsheikh/awesome-openclaw-usecases)** ⭐ 14,357
   ![None](https://img.shields.io/badge/-None-lightgrey)
   A community collection of OpenClaw use cases for making life easier.
 
-- **[AlexsJones/llmfit](https://github.com/AlexsJones/llmfit)** ⭐ 7,241
+- **[AlexsJones/llmfit](https://github.com/AlexsJones/llmfit)** ⭐ 7,373
   ![Rust](https://img.shields.io/badge/-Rust-brown)
   497 models. 133 providers. One command to find what runs on your hardware.
 
-- **[RightNow-AI/openfang](https://github.com/RightNow-AI/openfang)** ⭐ 6,604
+- **[RightNow-AI/openfang](https://github.com/RightNow-AI/openfang)** ⭐ 7,116
   ![Rust](https://img.shields.io/badge/-Rust-brown)
   Open-source Agent Operating System
 
-- **[HKUDS/ClawWork](https://github.com/HKUDS/ClawWork)** ⭐ 5,951
+- **[HKUDS/ClawWork](https://github.com/HKUDS/ClawWork)** ⭐ 5,971
   ![Python](https://img.shields.io/badge/-Python-blue)
   "ClawWork: OpenClaw as Your AI Coworker - 💰 $10K earned in 7 Hours"
 
@@ -500,59 +495,59 @@ See [kubernetes-announce@](https://groups.google.com/forum/#!forum/kubernetes-an
 
 | Skill | Status |
 |-------|--------|
-| Java | ⚪ Planned |
+| Java | 🟢 Proficient |
 | Python | 🟢 Proficient |
 | JavaScript | 🟢 Proficient |
-| TypeScript | 🟢 Proficient |
+| TypeScript | 🔴 Beginner |
 | Go | 🔴 Beginner |
 
 ### Frameworks
 
 | Skill | Status |
 |-------|--------|
-| React | 🟢 Proficient |
-| Spring Boot | 🟢 Proficient |
-| Django | ⚪ Planned |
-| Node.js | ⚪ Planned |
-| Next.js | ⚪ Planned |
+| React | 🔴 Beginner |
+| Spring Boot | 🟡 Learning |
+| Django | 🔴 Beginner |
+| Node.js | 🟢 Proficient |
+| Next.js | 🟡 Learning |
 
 ### Cybersecurity
 
 | Skill | Status |
 |-------|--------|
-| Penetration Testing | ⚪ Planned |
+| Penetration Testing | 🔴 Beginner |
 | Web Security | 🟢 Proficient |
 | Network Security | 🟢 Proficient |
-| OWASP | 🟢 Proficient |
+| OWASP | ⚪ Planned |
 
 ### Ai Ml
 
 | Skill | Status |
 |-------|--------|
-| Machine Learning | 🔴 Beginner |
-| Deep Learning | 🔴 Beginner |
+| Machine Learning | ⚪ Planned |
+| Deep Learning | ⚪ Planned |
 | NLP | 🟡 Learning |
 | Computer Vision | ⚪ Planned |
-| TensorFlow | 🟡 Learning |
+| TensorFlow | 🟢 Proficient |
 | PyTorch | 🟡 Learning |
 
 ### Devops
 
 | Skill | Status |
 |-------|--------|
-| Docker | 🟡 Learning |
+| Docker | 🔴 Beginner |
 | Kubernetes | 🟡 Learning |
-| CI/CD | 🟢 Proficient |
-| AWS | 🟢 Proficient |
-| Azure | 🟢 Proficient |
+| CI/CD | 🔴 Beginner |
+| AWS | ⚪ Planned |
+| Azure | 🟡 Learning |
 
 ### Other
 
 | Skill | Status |
 |-------|--------|
-| Blockchain | ⚪ Planned |
+| Blockchain | 🟡 Learning |
 | Web3 | ⚪ Planned |
-| Cloud Computing | 🟢 Proficient |
+| Cloud Computing | 🟡 Learning |
 
 </details>
 
