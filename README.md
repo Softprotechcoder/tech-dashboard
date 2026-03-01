@@ -46,6 +46,24 @@
 
 ### 📑 Hacker News
 
+- **[The Science of Detecting LLM-Generated Text](https://dl.acm.org/doi/10.1145/3624725)**
+  *<p>Article URL: <a href="https://dl.acm.org/doi/10.1145/3624725">https://dl.acm.org/doi/10.1145/3624725</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=47202864">https://news.yc...*
+  📅 Sun, 01 Mar 2026 02:09:41 +0000
+
+- **[Samsung Galaxy update removes Android recovery menu tools, including sideloading](https://9to5google.com/2026/02/27/samsung-galaxy-update-android-recovery-menu-removed/)**
+  *<p>Article URL: <a href="https://9to5google.com/2026/02/27/samsung-galaxy-update-android-recovery-menu-removed/">https://9to5google.com/2026/02/27/samsung-galaxy-update-android-recovery-menu-removed/<...*
+  📅 Sun, 01 Mar 2026 01:59:00 +0000
+
+- **[Microgpt](http://karpathy.github.io/2026/02/12/microgpt/)**
+  *<p>Article URL: <a href="http://karpathy.github.io/2026/02/12/microgpt/">http://karpathy.github.io/2026/02/12/microgpt/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=47202708"...*
+  📅 Sun, 01 Mar 2026 01:39:26 +0000
+
+- **[Running a One Trillion-Parameter LLM Locally on AMD Ryzen AI Max+ Cluster](https://www.amd.com/en/developer/resources/technical-articles/2026/how-to-run-a-one-trillion-parameter-llm-locally-an-amd.html)**
+  *<p>Article URL: <a href="https://www.amd.com/en/developer/resources/technical-articles/2026/how-to-run-a-one-trillion-parameter-llm-locally-an-amd.html">https://www.amd.com/en/developer/resources/tech...*
+  📅 Sun, 01 Mar 2026 01:24:54 +0000
+
 - **[Show HN: Xmloxide – an agent made rust replacement for libxml2](https://github.com/jonwiggins/xmloxide)**
   *<p>Recently several AI labs have published experiments where they tried to get AI coding agents to complete large software projects.<p>- Cursor attempted to make a browser from scratch: <a href="https...*
   📅 Sat, 28 Feb 2026 23:44:41 +0000
@@ -54,25 +72,6 @@
   *<p>Article URL: <a href="https://dl.acm.org/doi/fullHtml/10.1145/238386.238611">https://dl.acm.org/doi/fullHtml/10.1145/238386.238611</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/ite...*
   📅 Sat, 28 Feb 2026 22:19:36 +0000
-
-- **[Building a Minimal Transformer for 10-digit Addition](https://alexlitzenberger.com/blog/post.html?post=/building_a_minimal_transformer_for_10_digit_addition)**
-  *<p>Article URL: <a href="https://alexlitzenberger.com/blog/post.html?post=/building_a_minimal_transformer_for_10_digit_addition">https://alexlitzenberger.com/blog/post.html?post=/building_a_minimal_tr...*
-  📅 Sat, 28 Feb 2026 22:10:21 +0000
-
-- **[We do not think Anthropic should be designated as a supply chain risk](https://twitter.com/OpenAI/status/2027846016423321831)**
-  *<p>Article URL: <a href="https://twitter.com/OpenAI/status/2027846016423321831">https://twitter.com/OpenAI/status/2027846016423321831</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/ite...*
-  📅 Sat, 28 Feb 2026 21:24:16 +0000
-
-- **[MinIO Is Dead, Long Live MinIO](https://blog.vonng.com/en/db/minio-resurrect/)**
-  *<p>Article URL: <a href="https://blog.vonng.com/en/db/minio-resurrect/">https://blog.vonng.com/en/db/minio-resurrect/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=47200342">h...*
-  📅 Sat, 28 Feb 2026 21:16:53 +0000
-
-- **[Our Agreement with the Department of War](https://openai.com/index/our-agreement-with-the-department-of-war)**
-  *<p>Article URL: <a href="https://openai.com/index/our-agreement-with-the-department-of-war">https://openai.com/index/our-agreement-with-the-department-of-war</a></p>
-<p>Comments URL: <a href="https://...*
-  📅 Sat, 28 Feb 2026 20:35:29 +0000
 
 ### 📑 TechCrunch
 
@@ -102,15 +101,21 @@
 
 ### 📑 Dev.to
 
-- **[VSDD: The AI Coding Methodology Actually Worth Stealing](https://dev.to/midastools/vsdd-the-ai-coding-methodology-actually-worth-stealing-35ah)**
-  *<p>There is a methodology getting attention on Hacker News today called Verified Spec-Driven Development (VSDD). 130+ points, dozens of comments, and for once the discussion is actually useful.</p>
+- **[When Power Centralizes in the Frontend Ecosystem — Should We Be Alarmed?](https://dev.to/ezhil_sivarajsr/when-power-centralizes-in-the-frontend-ecosystem-should-we-be-alarmed-36l4)**
+  *<p><em>A research-aware analysis of Vercel's growing influence, React's direction, and the ecosystem fighting back.</em></p>
 
-<...*
-  📅 Sun, 01 Mar 2026 01:13:47 +0000
 
-- **[Your Benchmarks Are Lying to You (And This 148-Star Crate Knows Why)](https://dev.to/ticktockbent/your-benchmarks-are-lying-to-you-and-this-148-star-crate-knows-why-213h)**
-  *<p>Microbenchmarks lie. Not maliciously, just structurally. You write a tight loop, measure it a thousand times, compare two implementations, and declare a winner. Except your CPU was thermally thrott...*
-  📅 Sun, 01 Mar 2026 01:11:54 +0000
+
+
+<p>Over the last few years, the frontend world has experienced an unpre...*
+  📅 Sun, 01 Mar 2026 06:31:58 +0000
+
+- **[The lost-in-the-middle problem and why retrieval beats stuffing](https://dev.to/anajuliabit/the-lost-in-the-middle-problem-and-why-retrieval-beats-stuffing-1h37)**
+  *<p>Your agent has a 200K token context window. So you dump everything in there — MEMORY.md, daily logs, project notes, old conversations — and figure the model will sort it out. It won't.</p>
+
+<h2>
+  ...*
+  📅 Sun, 01 Mar 2026 06:27:55 +0000
 
 </details>
 
@@ -118,105 +123,105 @@
 
 ### 📈 Daily Trending
 
-- **[ahmetb/etcdedit](https://github.com/ahmetb/etcdedit)** ⭐ 2
-  ![Go](https://img.shields.io/badge/-Go-cyan)
-  Directly edit Kubernetes resources stored in etcd
+- **[0xAstroAlpha/office-design-toolkit](https://github.com/0xAstroAlpha/office-design-toolkit)** ⭐ 21
+  ![None](https://img.shields.io/badge/-None-lightgrey)
+  None
 
-- **[TTONREE14/YT-Downloader](https://github.com/TTONREE14/YT-Downloader)** ⭐ 2
+- **[cporter202/openclaw-api-list](https://github.com/cporter202/openclaw-api-list)** ⭐ 12
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
+  This GitHub repo is a list of APIs you can plug into your OpenClaw bot to make it run like a powerhouse!
+
+- **[Harih7/5-stage-pipelined-MIPS-RISC-V-like-processor](https://github.com/Harih7/5-stage-pipelined-MIPS-RISC-V-like-processor)** ⭐ 9
+  ![Verilog](https://img.shields.io/badge/-Verilog-lightgrey)
+  A 5-stage pipelined MIPS processor implemented in Verilog featuring hazard detection, data forwarding, and branch handling.
+
+- **[zmattmanz/flock-detection](https://github.com/zmattmanz/flock-detection)** ⭐ 7
+  ![C++](https://img.shields.io/badge/-C++-pink)
+  None
+
+- **[isadfrn/youtube-channel-text-extract](https://github.com/isadfrn/youtube-channel-text-extract)** ⭐ 5
+  ![None](https://img.shields.io/badge/-None-lightgrey)
+  None
+
+- **[filliptm/ComfyUI-FL-PixelGen](https://github.com/filliptm/ComfyUI-FL-PixelGen)** ⭐ 4
   ![Python](https://img.shields.io/badge/-Python-blue)
-  Terminal-based YouTube downloader for Linux. Download from channels, playlists, or individual videos.
+  FL PixelGen - Pixel-space diffusion text-to-image generation and LoRA training nodes for ComfyUI
 
-- **[zanwenfu/vynnai-agent](https://github.com/zanwenfu/vynnai-agent)** ⭐ 2
+- **[EngineeringSample/Human_Typing_Composer](https://github.com/EngineeringSample/Human_Typing_Composer)** ⭐ 4
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
+  Enable Chrome to simulate human input when outputting text. Open development syntax.
+
+- **[thusinh1969/perplexity](https://github.com/thusinh1969/perplexity)** ⭐ 3
   ![Python](https://img.shields.io/badge/-Python-blue)
-  VYNN AI Agent Backend is a standalone agent execution system for financial analysis. It orchestrates LLM-based agents to scrape historical financial data, build valuation models, analyze real-time financial news, and generate structured financial reports, with a focus on modularity and reproducible execution.
-
-- **[BTC-Prediction/RealClubPenguin](https://github.com/BTC-Prediction/RealClubPenguin)** ⭐ 2
-  ![None](https://img.shields.io/badge/-None-lightgrey)
-  None
-
-- **[Spandana-N-S/Own-AI-Website-Builder-AISiteSculptor-](https://github.com/Spandana-N-S/Own-AI-Website-Builder-AISiteSculptor-)** ⭐ 1
-  ![None](https://img.shields.io/badge/-None-lightgrey)
-  None
-
-- **[Spandana-N-S/Full-Stack-AI-SaaS-App-NexusAI-Hub-](https://github.com/Spandana-N-S/Full-Stack-AI-SaaS-App-NexusAI-Hub-)** ⭐ 1
-  ![None](https://img.shields.io/badge/-None-lightgrey)
-  None
-
-- **[Gurehmat/Eportfolio-retro](https://github.com/Gurehmat/Eportfolio-retro)** ⭐ 1
-  ![HTML](https://img.shields.io/badge/-HTML-lightgrey)
-  None
-
-- **[venkata-murari-sunkara/ML-Supervised-Ensemble-Methods-Projects](https://github.com/venkata-murari-sunkara/ML-Supervised-Ensemble-Methods-Projects)** ⭐ 1
-  ![Jupyter Notebook](https://img.shields.io/badge/-Jupyter Notebook-lightgrey)
-  None
+  Mimic Perplexity with multi-agent framework
 
 ### 📈 Weekly Trending
 
-- **[RightNow-AI/openfang](https://github.com/RightNow-AI/openfang)** ⭐ 5,664
+- **[RightNow-AI/openfang](https://github.com/RightNow-AI/openfang)** ⭐ 6,085
   ![Rust](https://img.shields.io/badge/-Rust-brown)
   Open-source Agent Operating System
 
-- **[anthropics/financial-services-plugins](https://github.com/anthropics/financial-services-plugins)** ⭐ 4,893
+- **[anthropics/financial-services-plugins](https://github.com/anthropics/financial-services-plugins)** ⭐ 4,938
   ![Python](https://img.shields.io/badge/-Python-blue)
   None
 
-- **[cloudflare/vinext](https://github.com/cloudflare/vinext)** ⭐ 4,720
+- **[cloudflare/vinext](https://github.com/cloudflare/vinext)** ⭐ 4,751
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   Vite plugin that reimplements the Next.js API surface — deploy anywhere
 
-- **[Panniantong/Agent-Reach](https://github.com/Panniantong/Agent-Reach)** ⭐ 3,056
+- **[Panniantong/Agent-Reach](https://github.com/Panniantong/Agent-Reach)** ⭐ 3,160
   ![Python](https://img.shields.io/badge/-Python-blue)
   Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.
 
-- **[agentscope-ai/CoPaw](https://github.com/agentscope-ai/CoPaw)** ⭐ 2,045
+- **[agentscope-ai/CoPaw](https://github.com/agentscope-ai/CoPaw)** ⭐ 2,416
   ![Python](https://img.shields.io/badge/-Python-blue)
   Your Personal AI Assistant; easy to install, deploy on your own machine or on the cloud; supports multiple chat apps with easily extensible capabilities.
 
-- **[peteromallet/dataclaw](https://github.com/peteromallet/dataclaw)** ⭐ 1,612
+- **[peteromallet/dataclaw](https://github.com/peteromallet/dataclaw)** ⭐ 1,631
   ![Python](https://img.shields.io/badge/-Python-blue)
   None
 
-- **[Polymarket/polymarket-cli](https://github.com/Polymarket/polymarket-cli)** ⭐ 1,337
+- **[Polymarket/polymarket-cli](https://github.com/Polymarket/polymarket-cli)** ⭐ 1,357
   ![Rust](https://img.shields.io/badge/-Rust-brown)
   None
 
-- **[mgechev/skills-best-practices](https://github.com/mgechev/skills-best-practices)** ⭐ 888
+- **[mgechev/skills-best-practices](https://github.com/mgechev/skills-best-practices)** ⭐ 903
   ![None](https://img.shields.io/badge/-None-lightgrey)
   Write professional-grade skills for agents, validate them using LLMs, and maintain a lean context window.
 
 ### 📈 Monthly Trending
 
-- **[HKUDS/nanobot](https://github.com/HKUDS/nanobot)** ⭐ 26,902
+- **[HKUDS/nanobot](https://github.com/HKUDS/nanobot)** ⭐ 26,977
   ![Python](https://img.shields.io/badge/-Python-blue)
   "🐈 nanobot: The Ultra-Lightweight OpenClaw"
 
-- **[zeroclaw-labs/zeroclaw](https://github.com/zeroclaw-labs/zeroclaw)** ⭐ 21,191
+- **[zeroclaw-labs/zeroclaw](https://github.com/zeroclaw-labs/zeroclaw)** ⭐ 21,319
   ![Rust](https://img.shields.io/badge/-Rust-brown)
-  Fast, small, and fully autonomous AI assistant Operating System — deploy anywhere, swap anything 🦀
+  Fast, small, and fully autonomous AI assistant framework — deploy anywhere, swap anything 🦀
 
-- **[sipeed/picoclaw](https://github.com/sipeed/picoclaw)** ⭐ 21,136
+- **[sipeed/picoclaw](https://github.com/sipeed/picoclaw)** ⭐ 21,183
   ![Go](https://img.shields.io/badge/-Go-cyan)
   Tiny, Fast, and Deployable anywhere — automate the mundane, unleash your creativity
 
-- **[qwibitai/nanoclaw](https://github.com/qwibitai/nanoclaw)** ⭐ 16,599
+- **[qwibitai/nanoclaw](https://github.com/qwibitai/nanoclaw)** ⭐ 16,690
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   A lightweight alternative to Clawdbot / OpenClaw that runs in containers for security. Connects to WhatsApp, has memory, scheduled jobs, and runs directly on Anthropic's Agents SDK
 
-- **[hesamsheikh/awesome-openclaw-usecases](https://github.com/hesamsheikh/awesome-openclaw-usecases)** ⭐ 13,270
+- **[hesamsheikh/awesome-openclaw-usecases](https://github.com/hesamsheikh/awesome-openclaw-usecases)** ⭐ 13,634
   ![None](https://img.shields.io/badge/-None-lightgrey)
   A community collection of OpenClaw use cases for making life easier.
 
-- **[AlexsJones/llmfit](https://github.com/AlexsJones/llmfit)** ⭐ 6,979
+- **[AlexsJones/llmfit](https://github.com/AlexsJones/llmfit)** ⭐ 7,110
   ![Rust](https://img.shields.io/badge/-Rust-brown)
   497 models. 133 providers. One command to find what runs on your hardware.
 
-- **[HKUDS/ClawWork](https://github.com/HKUDS/ClawWork)** ⭐ 5,912
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  "ClawWork: OpenClaw as Your AI Coworker - 💰 $10K earned in 7 Hours"
-
-- **[RightNow-AI/openfang](https://github.com/RightNow-AI/openfang)** ⭐ 5,664
+- **[RightNow-AI/openfang](https://github.com/RightNow-AI/openfang)** ⭐ 6,085
   ![Rust](https://img.shields.io/badge/-Rust-brown)
   Open-source Agent Operating System
+
+- **[HKUDS/ClawWork](https://github.com/HKUDS/ClawWork)** ⭐ 5,931
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  "ClawWork: OpenClaw as Your AI Coworker - 💰 $10K earned in 7 Hours"
 
 ## 🚀 Latest Releases
 
@@ -484,58 +489,58 @@ See [kubernetes-announce@](https://groups.google.com/forum/#!forum/kubernetes-an
 
 | Skill | Status |
 |-------|--------|
-| Java | 🔴 Beginner |
+| Java | ⚪ Planned |
 | Python | 🔴 Beginner |
 | JavaScript | 🟢 Proficient |
-| TypeScript | 🟢 Proficient |
-| Go | 🟡 Learning |
+| TypeScript | 🔴 Beginner |
+| Go | ⚪ Planned |
 
 ### Frameworks
 
 | Skill | Status |
 |-------|--------|
 | React | 🔴 Beginner |
-| Spring Boot | 🟡 Learning |
-| Django | ⚪ Planned |
-| Node.js | 🟢 Proficient |
+| Spring Boot | 🔴 Beginner |
+| Django | 🟡 Learning |
+| Node.js | ⚪ Planned |
 | Next.js | 🟡 Learning |
 
 ### Cybersecurity
 
 | Skill | Status |
 |-------|--------|
-| Penetration Testing | 🟡 Learning |
-| Web Security | 🟡 Learning |
-| Network Security | 🟡 Learning |
-| OWASP | 🟢 Proficient |
+| Penetration Testing | 🔴 Beginner |
+| Web Security | ⚪ Planned |
+| Network Security | 🟢 Proficient |
+| OWASP | 🟡 Learning |
 
 ### Ai Ml
 
 | Skill | Status |
 |-------|--------|
 | Machine Learning | 🟢 Proficient |
-| Deep Learning | ⚪ Planned |
-| NLP | 🟢 Proficient |
-| Computer Vision | 🟡 Learning |
-| TensorFlow | ⚪ Planned |
-| PyTorch | ⚪ Planned |
+| Deep Learning | 🟢 Proficient |
+| NLP | ⚪ Planned |
+| Computer Vision | 🔴 Beginner |
+| TensorFlow | 🟢 Proficient |
+| PyTorch | 🟡 Learning |
 
 ### Devops
 
 | Skill | Status |
 |-------|--------|
-| Docker | 🟢 Proficient |
-| Kubernetes | ⚪ Planned |
-| CI/CD | ⚪ Planned |
-| AWS | ⚪ Planned |
-| Azure | 🔴 Beginner |
+| Docker | 🟡 Learning |
+| Kubernetes | 🟡 Learning |
+| CI/CD | 🔴 Beginner |
+| AWS | 🔴 Beginner |
+| Azure | 🟡 Learning |
 
 ### Other
 
 | Skill | Status |
 |-------|--------|
-| Blockchain | 🔴 Beginner |
-| Web3 | 🔴 Beginner |
+| Blockchain | 🟡 Learning |
+| Web3 | 🟢 Proficient |
 | Cloud Computing | 🟢 Proficient |
 
 </details>
