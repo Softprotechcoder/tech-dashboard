@@ -7,7 +7,7 @@
 ![AI & ML](https://img.shields.io/badge/-AI%20&%20ML-blue) ![CyberSecurity](https://img.shields.io/badge/-CyberSecurity-red) ![Full Stack Development](https://img.shields.io/badge/-Full%20Stack%20Development-green)
 
 [![Auto Update](https://img.shields.io/badge/Auto%20Update-Enabled-success)](https://github.com/yourusername/tech-dashboard/actions)
-[![Last Updated](https://img.shields.io/badge/Last%20Updated-March 01, 2026-blue)](https://github.com/yourusername/tech-dashboard)
+[![Last Updated](https://img.shields.io/badge/Last%20Updated-March 02, 2026-blue)](https://github.com/yourusername/tech-dashboard)
 
 *Automatically updated every 6 hours with the latest tech news, trending repositories, and learning resources.*
 
@@ -46,36 +46,41 @@
 
 ### 📑 Hacker News
 
-- **[6 Practices that turned AI from prototyper to workhorse (106 PRs in 14 days)](https://news.ycombinator.com/item?id=47208471)**
-  *<p>1. <i>Specs and plans are source code</i>: Specs and plans live in git alongside source code, not in chat history. A new agent reads arch.md for the big picture, then its specific spec. You always ...*
-  📅 Sun, 01 Mar 2026 17:02:15 +0000
+- **[Allegations of insider trading over prediction-market bets tied to Iran conflict](https://www.morningstar.com/news/marketwatch/20260301140/allegations-of-insider-trading-over-prediction-market-bets-tied-to-iran-conflict)**
+  *<p>Article URL: <a href="https://www.morningstar.com/news/marketwatch/20260301140/allegations-of-insider-trading-over-prediction-market-bets-tied-to-iran-conflict">https://www.morningstar.com/news/mar...*
+  📅 Sun, 01 Mar 2026 22:39:27 +0000
 
-- **[I Built a Scheme Compiler with AI in 4 Days](https://matthewphillips.info/programming/posts/i-built-a-scheme-compiler-with-ai/)**
-  *<p>Article URL: <a href="https://matthewphillips.info/programming/posts/i-built-a-scheme-compiler-with-ai/">https://matthewphillips.info/programming/posts/i-built-a-scheme-compiler-with-ai/</a></p>
-<p...*
-  📅 Sun, 01 Mar 2026 16:58:03 +0000
+- **[Little Free Library Books](https://littlefreelibrary.org/)**
+  *<p>Article URL: <a href="https://littlefreelibrary.org/">https://littlefreelibrary.org/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=47211280">https://news.ycombinator.com/it...*
+  📅 Sun, 01 Mar 2026 22:18:10 +0000
 
-- **[When does MCP make sense vs CLI?](https://ejholmes.github.io/2026/02/28/mcp-is-dead-long-live-the-cli.html)**
-  *<p>Article URL: <a href="https://ejholmes.github.io/2026/02/28/mcp-is-dead-long-live-the-cli.html">https://ejholmes.github.io/2026/02/28/mcp-is-dead-long-live-the-cli.html</a></p>
-<p>Comments URL: <a ...*
-  📅 Sun, 01 Mar 2026 16:54:49 +0000
+- **[WebMCP is available for early preview](https://developer.chrome.com/blog/webmcp-epp)**
+  *<p>Article URL: <a href="https://developer.chrome.com/blog/webmcp-epp">https://developer.chrome.com/blog/webmcp-epp</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=47211249">htt...*
+  📅 Sun, 01 Mar 2026 22:13:58 +0000
 
-- **[Show HN: Audio Toolkit for Agents](https://github.com/shiehn/sas-audio-processor)**
-  *<p>Article URL: <a href="https://github.com/shiehn/sas-audio-processor">https://github.com/shiehn/sas-audio-processor</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=47207806">h...*
-  📅 Sun, 01 Mar 2026 15:52:02 +0000
+- **[South Korean Police Lose Seized Crypto by Posting Password Online](https://gizmodo.com/south-korean-police-lose-seized-crypto-by-posting-password-online-2000728191)**
+  *<p>Article URL: <a href="https://gizmodo.com/south-korean-police-lose-seized-crypto-by-posting-password-online-2000728191">https://gizmodo.com/south-korean-police-lose-seized-crypto-by-posting-passwor...*
+  📅 Sun, 01 Mar 2026 21:52:16 +0000
 
-- **[Lil' Fun Langs' Guts](https://taylor.town/scrapscript-001)**
-  *<p>Article URL: <a href="https://taylor.town/scrapscript-001">https://taylor.town/scrapscript-001</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=47207531">https://news.ycombina...*
-  📅 Sun, 01 Mar 2026 15:23:42 +0000
+- **[Are the Mysteries of Quantum Mechanics Beginning to Dissolve?](https://www.quantamagazine.org/are-the-mysteries-of-quantum-mechanics-beginning-to-dissolve-20260213/)**
+  *<p>Article URL: <a href="https://www.quantamagazine.org/are-the-mysteries-of-quantum-mechanics-beginning-to-dissolve-20260213/">https://www.quantamagazine.org/are-the-mysteries-of-quantum-mechanics-be...*
+  📅 Sun, 01 Mar 2026 21:33:19 +0000
 
-- **[New iron nanomaterial wipes out cancer cells without harming healthy tissue](https://www.sciencedaily.com/releases/2026/02/260228093456.htm)**
-  *<p>Article URL: <a href="https://www.sciencedaily.com/releases/2026/02/260228093456.htm">https://www.sciencedaily.com/releases/2026/02/260228093456.htm</a></p>
-<p>Comments URL: <a href="https://news.y...*
-  📅 Sun, 01 Mar 2026 15:09:55 +0000
+- **[How the Government Deceived Congress in the Debate over Surveillance Powers (2013)](https://www.eff.org/deeplinks/2013/06/director-national-intelligences-word-games-explained-how-government-deceived)**
+  *<p>Article URL: <a href="https://www.eff.org/deeplinks/2013/06/director-national-intelligences-word-games-explained-how-government-deceived">https://www.eff.org/deeplinks/2013/06/director-national-int...*
+  📅 Sun, 01 Mar 2026 20:55:22 +0000
 
 ### 📑 TechCrunch
+
+- **[Polymarket saw $529M traded on bets tied to bombing of Iran](https://techcrunch.com/2026/03/01/polymarket-saw-529m-traded-on-bets-tied-to-bombing-of-iran/)**
+  *Six newly-created accounts made a profit of $1 million by correctly betting that the U.S. would strike Iran by February 28....*
+  📅 Sun, 01 Mar 2026 19:05:35 +0000
+
+- **[Let’s explore the best alternatives to Discord](https://techcrunch.com/2026/03/01/best-discord-alternatives-age-verification-identity-privacy/)**
+  *With many users feeling uneasy about Discord's new age verification requirement, here are some alternatives that could be worth exploring....*
+  📅 Sun, 01 Mar 2026 19:00:01 +0000
 
 - **[Google looks to tackle longstanding RCS spam in India — but not alone](https://techcrunch.com/2026/03/01/google-looks-to-tackle-longstanding-rcs-spam-in-india-but-not-alone/)**
   *Google is integrating carrier-level filtering into RCS in India through a partnership with Airtel to strengthen protections against spam....*
@@ -93,35 +98,27 @@
   *Honor first teased its &#8220;Robot phone&#8221; with a movable camera arm earlier this year. Ahead of the Mobile World Congress (MWC) in Barcelona, the Chinese company provided more details about the...*
   📅 Sun, 01 Mar 2026 15:30:00 +0000
 
-- **[Honor launches its new slim foldable Magic V6 with a 6,600 mAh battery](https://techcrunch.com/2026/03/01/honor-launches-its-new-slim-foldable-magic-v6-with-a-6600-mah-battery/)**
-  *Honor also previewed battery tech that could take foldable batteries over 7,000 mAh mark...*
-  📅 Sun, 01 Mar 2026 15:13:09 +0000
-
-- **[Anthropic’s Claude rises to No. 1 in the App Store following Pentagon dispute](https://techcrunch.com/2026/03/01/anthropics-claude-rises-to-no-2-in-the-app-store-following-pentagon-dispute/)**
-  *Anthropic’s chatbot Claude seems to have benefited from the attention around the company’s fraught negotiations with the Pentagon....*
-  📅 Sun, 01 Mar 2026 14:48:58 +0000
-
 ### 📑 Dev.to
 
-- **[MicroGPT: The Lightweight AI Agent Explained](https://dev.to/onsen/microgpt-the-lightweight-ai-agent-explained-2mj5)**
+- **[Compose Shared Element Transitions: Seamless Screen Animations](https://dev.to/myougatheaxo/compose-shared-element-transitions-seamless-screen-animations-45hj)**
   *<h1>
   
   
-  MicroGPT: The Lightweight AI Agent Explained
+  Compose Shared Element Transitions: Seamless Screen Animations
 </h1>
 
-<p><strong>Meta Description:</strong> Discover what MicroGPT is, how it works, and whether this autonomous AI agent framework is right ...*
-  📅 Sun, 01 Mar 2026 18:08:16 +0000
+<p>Jetpack Compose's SharedTransitionLayout enables stunning animations when navigating between screens. Let's explor...*
+  📅 Mon, 02 Mar 2026 01:11:37 +0000
 
-- **[Serverless Cold Starts: Understanding and Mitigating](https://dev.to/matt_frank_usa/serverless-cold-starts-understanding-and-mitigating-4bl)**
+- **[Kotlin Scope Functions: let, run, with, apply, also — Complete Guide](https://dev.to/myougatheaxo/kotlin-scope-functions-let-run-with-apply-also-complete-guide-470j)**
   *<h1>
   
   
-  Serverless Cold Starts: Understanding and Mitigating Performance Bottlenecks
+  Kotlin Scope Functions: let, run, with, apply, also — Complete Guide
 </h1>
 
-<p>You've just deployed your shiny new serverless function, and your first API call takes 3 seconds to ...*
-  📅 Sun, 01 Mar 2026 18:00:59 +0000
+<p>Kotlin's scope functions are powerful tools that let you execute code blocks in the context of an object. Th...*
+  📅 Mon, 02 Mar 2026 01:11:34 +0000
 
 </details>
 
@@ -129,105 +126,105 @@
 
 ### 📈 Daily Trending
 
-- **[World-Open-Graph/br-acc](https://github.com/World-Open-Graph/br-acc)** ⭐ 348
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  World Transparency Graph public codebase
+- **[Keely-Ai/JAX-F2D2](https://github.com/Keely-Ai/JAX-F2D2)** ⭐ 2
+  ![Jupyter Notebook](https://img.shields.io/badge/-Jupyter Notebook-lightgrey)
+  JAX implementation of F2D2: Joint Distillation for Fast Likelihood Evaluation and Sampling in Flow-based Models (https://arxiv.org/abs/2512.02636)
 
-- **[smartcmd/MinecraftConsoles](https://github.com/smartcmd/MinecraftConsoles)** ⭐ 149
+- **[babeinlovexd/Insane-Sound-System](https://github.com/babeinlovexd/Insane-Sound-System)** ⭐ 2
   ![C++](https://img.shields.io/badge/-C++-pink)
-  A certain block game
+  🚀 Insane Sound System V4: Das ultimative ESP32-S3 & D1 Mini Custom-Board! Bietet High-Fidelity I2S-Audio mit nahtlosem Hardware-Mux-Switching zwischen WLAN (ESPHome) & Bluetooth. Inkl. 2x15W Class-D Amp, 4-Zonen WS2811 LED-Steuerung & smarter Klima-Überwachung. Open-Source Multiroom-Audio auf einem neuen Level! 🎧🔊
 
-- **[timo3a-comon/market-url-torzon](https://github.com/timo3a-comon/market-url-torzon)** ⭐ 65
+- **[mattcr77/Calculadora-de-Performance-do-Atendimento](https://github.com/mattcr77/Calculadora-de-Performance-do-Atendimento)** ⭐ 1
   ![None](https://img.shields.io/badge/-None-lightgrey)
-  Market URL TorZon
+  Calculadora de Performance do Atendimento
 
-- **[ullyheglas/onion-torzon-link-market](https://github.com/ullyheglas/onion-torzon-link-market)** ⭐ 63
+- **[Dippp10/auto-repo-1772413804-24](https://github.com/Dippp10/auto-repo-1772413804-24)** ⭐ 1
   ![None](https://img.shields.io/badge/-None-lightgrey)
-  Onion TorZon Link Market
-
-- **[traderwillhu/market_dashboard](https://github.com/traderwillhu/market_dashboard)** ⭐ 61
-  ![HTML](https://img.shields.io/badge/-HTML-lightgrey)
   None
 
-- **[Jstrom2022/tvbox-Swift](https://github.com/Jstrom2022/tvbox-Swift)** ⭐ 52
-  ![Swift](https://img.shields.io/badge/-Swift-lightgrey)
-  TVBox-Swift 是一套基于原生 Swift & SwiftUI 构建的跨平台多媒体应用核心工程。它同时支持 macOS 和 iOS 设备，致力于在双端提供无缝、现代且极其流畅的视听体验。
-
-- **[Harih7/5-stage-pipelined-MIPS-RISC-V-like-processor](https://github.com/Harih7/5-stage-pipelined-MIPS-RISC-V-like-processor)** ⭐ 50
-  ![Verilog](https://img.shields.io/badge/-Verilog-lightgrey)
-  A 5-stage pipelined MIPS processor implemented in Verilog featuring hazard detection, data forwarding, and branch handling.
-
-- **[vsingla6e2/torzon-darknet-link](https://github.com/vsingla6e2/torzon-darknet-link)** ⭐ 45
+- **[l1teSG/JFelipeDev](https://github.com/l1teSG/JFelipeDev)** ⭐ 1
   ![None](https://img.shields.io/badge/-None-lightgrey)
-  TorZon Darknet Link
+  Portafolio de JFelipeDev 🚀 | Web & Mobile (React, Astro, React Native) | Game Dev (Godot/GDScript) | Creador de Dirty Road 🌱⚽  
+
+- **[Dippp10/auto-repo-1772413314-1](https://github.com/Dippp10/auto-repo-1772413314-1)** ⭐ 1
+  ![None](https://img.shields.io/badge/-None-lightgrey)
+  None
+
+- **[Dippp10/auto-repo-1772413877-27](https://github.com/Dippp10/auto-repo-1772413877-27)** ⭐ 1
+  ![None](https://img.shields.io/badge/-None-lightgrey)
+  None
+
+- **[Elmahrosa/Unity-Care-Hospital](https://github.com/Elmahrosa/Unity-Care-Hospital)** ⭐ 1
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
+  None
 
 ### 📈 Weekly Trending
 
-- **[RightNow-AI/openfang](https://github.com/RightNow-AI/openfang)** ⭐ 7,116
+- **[RightNow-AI/openfang](https://github.com/RightNow-AI/openfang)** ⭐ 7,516
   ![Rust](https://img.shields.io/badge/-Rust-brown)
   Open-source Agent Operating System
 
-- **[anthropics/financial-services-plugins](https://github.com/anthropics/financial-services-plugins)** ⭐ 5,037
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  None
-
-- **[cloudflare/vinext](https://github.com/cloudflare/vinext)** ⭐ 4,882
+- **[cloudflare/vinext](https://github.com/cloudflare/vinext)** ⭐ 4,945
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   Vite plugin that reimplements the Next.js API surface — deploy anywhere
 
-- **[Panniantong/Agent-Reach](https://github.com/Panniantong/Agent-Reach)** ⭐ 3,377
+- **[Panniantong/Agent-Reach](https://github.com/Panniantong/Agent-Reach)** ⭐ 3,418
   ![Python](https://img.shields.io/badge/-Python-blue)
   Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.
 
-- **[agentscope-ai/CoPaw](https://github.com/agentscope-ai/CoPaw)** ⭐ 3,106
+- **[agentscope-ai/CoPaw](https://github.com/agentscope-ai/CoPaw)** ⭐ 3,300
   ![Python](https://img.shields.io/badge/-Python-blue)
   Your Personal AI Assistant; easy to install, deploy on your own machine or on the cloud; supports multiple chat apps with easily extensible capabilities.
 
-- **[peteromallet/dataclaw](https://github.com/peteromallet/dataclaw)** ⭐ 1,673
+- **[peteromallet/dataclaw](https://github.com/peteromallet/dataclaw)** ⭐ 1,687
   ![Python](https://img.shields.io/badge/-Python-blue)
   None
 
-- **[Polymarket/polymarket-cli](https://github.com/Polymarket/polymarket-cli)** ⭐ 1,391
+- **[Lakr233/vphone-cli](https://github.com/Lakr233/vphone-cli)** ⭐ 1,483
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  None
+
+- **[Polymarket/polymarket-cli](https://github.com/Polymarket/polymarket-cli)** ⭐ 1,404
   ![Rust](https://img.shields.io/badge/-Rust-brown)
   None
 
-- **[Lakr233/vphone-cli](https://github.com/Lakr233/vphone-cli)** ⭐ 1,181
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  None
+- **[ForLoopCodes/contextplus](https://github.com/ForLoopCodes/contextplus)** ⭐ 1,060
+  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
+  Semantic Intelligence for Large-Scale Engineering. Context+ is an MCP server designed for developers who demand 99% accuracy. By combining Tree-sitter AST parsing, Spectral Clustering, and Obsidian-style linking, Context+ turns a massive codebase into a searchable, hierarchical feature graph.
 
 ### 📈 Monthly Trending
 
-- **[HKUDS/nanobot](https://github.com/HKUDS/nanobot)** ⭐ 27,188
+- **[HKUDS/nanobot](https://github.com/HKUDS/nanobot)** ⭐ 27,244
   ![Python](https://img.shields.io/badge/-Python-blue)
   "🐈 nanobot: The Ultra-Lightweight OpenClaw"
 
-- **[zeroclaw-labs/zeroclaw](https://github.com/zeroclaw-labs/zeroclaw)** ⭐ 21,590
+- **[zeroclaw-labs/zeroclaw](https://github.com/zeroclaw-labs/zeroclaw)** ⭐ 21,682
   ![Rust](https://img.shields.io/badge/-Rust-brown)
   Fast, small, and fully autonomous AI assistant infrastructure — deploy anywhere, swap anything 🦀
 
-- **[sipeed/picoclaw](https://github.com/sipeed/picoclaw)** ⭐ 21,288
+- **[sipeed/picoclaw](https://github.com/sipeed/picoclaw)** ⭐ 21,334
   ![Go](https://img.shields.io/badge/-Go-cyan)
   Tiny, Fast, and Deployable anywhere — automate the mundane, unleash your creativity
 
-- **[qwibitai/nanoclaw](https://github.com/qwibitai/nanoclaw)** ⭐ 16,914
-  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
-  A lightweight alternative to Clawdbot / OpenClaw that runs in containers for security. Connects to WhatsApp, has memory, scheduled jobs, and runs directly on Anthropic's Agents SDK
-
-- **[hesamsheikh/awesome-openclaw-usecases](https://github.com/hesamsheikh/awesome-openclaw-usecases)** ⭐ 14,357
+- **[hesamsheikh/awesome-openclaw-usecases](https://github.com/hesamsheikh/awesome-openclaw-usecases)** ⭐ 14,614
   ![None](https://img.shields.io/badge/-None-lightgrey)
   A community collection of OpenClaw use cases for making life easier.
 
-- **[AlexsJones/llmfit](https://github.com/AlexsJones/llmfit)** ⭐ 7,373
+- **[AlexsJones/llmfit](https://github.com/AlexsJones/llmfit)** ⭐ 7,567
   ![Rust](https://img.shields.io/badge/-Rust-brown)
-  497 models. 133 providers. One command to find what runs on your hardware.
+  Hundreds models & providers. One command to find what runs on your hardware.
 
-- **[RightNow-AI/openfang](https://github.com/RightNow-AI/openfang)** ⭐ 7,116
+- **[RightNow-AI/openfang](https://github.com/RightNow-AI/openfang)** ⭐ 7,516
   ![Rust](https://img.shields.io/badge/-Rust-brown)
   Open-source Agent Operating System
 
-- **[HKUDS/ClawWork](https://github.com/HKUDS/ClawWork)** ⭐ 5,971
+- **[HKUDS/ClawWork](https://github.com/HKUDS/ClawWork)** ⭐ 5,983
   ![Python](https://img.shields.io/badge/-Python-blue)
   "ClawWork: OpenClaw as Your AI Coworker - 💰 $10K earned in 7 Hours"
+
+- **[millionco/react-doctor](https://github.com/millionco/react-doctor)** ⭐ 5,110
+  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
+  Let coding agents diagnose and fix your React code
 
 ## 🚀 Latest Releases
 
@@ -495,41 +492,41 @@ See [kubernetes-announce@](https://groups.google.com/forum/#!forum/kubernetes-an
 
 | Skill | Status |
 |-------|--------|
-| Java | 🟢 Proficient |
-| Python | 🟢 Proficient |
-| JavaScript | 🟢 Proficient |
-| TypeScript | 🔴 Beginner |
+| Java | ⚪ Planned |
+| Python | 🟡 Learning |
+| JavaScript | ⚪ Planned |
+| TypeScript | ⚪ Planned |
 | Go | 🔴 Beginner |
 
 ### Frameworks
 
 | Skill | Status |
 |-------|--------|
-| React | 🔴 Beginner |
-| Spring Boot | 🟡 Learning |
+| React | 🟢 Proficient |
+| Spring Boot | 🟢 Proficient |
 | Django | 🔴 Beginner |
-| Node.js | 🟢 Proficient |
-| Next.js | 🟡 Learning |
+| Node.js | ⚪ Planned |
+| Next.js | ⚪ Planned |
 
 ### Cybersecurity
 
 | Skill | Status |
 |-------|--------|
-| Penetration Testing | 🔴 Beginner |
-| Web Security | 🟢 Proficient |
-| Network Security | 🟢 Proficient |
-| OWASP | ⚪ Planned |
+| Penetration Testing | 🟡 Learning |
+| Web Security | ⚪ Planned |
+| Network Security | 🟡 Learning |
+| OWASP | 🔴 Beginner |
 
 ### Ai Ml
 
 | Skill | Status |
 |-------|--------|
-| Machine Learning | ⚪ Planned |
-| Deep Learning | ⚪ Planned |
-| NLP | 🟡 Learning |
+| Machine Learning | 🟡 Learning |
+| Deep Learning | 🔴 Beginner |
+| NLP | ⚪ Planned |
 | Computer Vision | ⚪ Planned |
-| TensorFlow | 🟢 Proficient |
-| PyTorch | 🟡 Learning |
+| TensorFlow | ⚪ Planned |
+| PyTorch | 🟢 Proficient |
 
 ### Devops
 
@@ -538,16 +535,16 @@ See [kubernetes-announce@](https://groups.google.com/forum/#!forum/kubernetes-an
 | Docker | 🔴 Beginner |
 | Kubernetes | 🟡 Learning |
 | CI/CD | 🔴 Beginner |
-| AWS | ⚪ Planned |
+| AWS | 🔴 Beginner |
 | Azure | 🟡 Learning |
 
 ### Other
 
 | Skill | Status |
 |-------|--------|
-| Blockchain | 🟡 Learning |
-| Web3 | ⚪ Planned |
-| Cloud Computing | 🟡 Learning |
+| Blockchain | 🔴 Beginner |
+| Web3 | 🟢 Proficient |
+| Cloud Computing | 🟢 Proficient |
 
 </details>
 
@@ -565,7 +562,7 @@ This dashboard is automatically updated every 6 hours using GitHub Actions. The 
 
 <div align="center">
 
-**Last Updated:** March 01, 2026
+**Last Updated:** March 02, 2026
 
 Made with ❤️ and automated with GitHub Actions
 
