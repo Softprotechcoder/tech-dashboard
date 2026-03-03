@@ -46,37 +46,40 @@
 
 ### 📑 Hacker News
 
-- **[I've been running GrapheneOS on my Pixel Fold for over half a year](https://blog.matthewbrunelle.com/8-4-months-of-daily-driving-grapheneos/)**
-  *<p>Article URL: <a href="https://blog.matthewbrunelle.com/8-4-months-of-daily-driving-grapheneos/">https://blog.matthewbrunelle.com/8-4-months-of-daily-driving-grapheneos/</a></p>
-<p>Comments URL: <a ...*
-  📅 Tue, 03 Mar 2026 05:18:24 +0000
+- **[The Xkcd thing, now interactive](https://editor.p5js.org/isohedral/full/vJa5RiZWs)**
+  *<p>Article URL: <a href="https://editor.p5js.org/isohedral/full/vJa5RiZWs">https://editor.p5js.org/isohedral/full/vJa5RiZWs</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=47230...*
+  📅 Tue, 03 Mar 2026 10:56:52 +0000
 
-- **[Intent-Based Commits](https://github.com/adamveld12/ghost)**
-  *<p>Article URL: <a href="https://github.com/adamveld12/ghost">https://github.com/adamveld12/ghost</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=47227999">https://news.ycombina...*
-  📅 Tue, 03 Mar 2026 04:20:37 +0000
+- **[The beauty and terror of modding Windows](https://windowsread.me/p/windhawk-explained)**
+  *<p>Article URL: <a href="https://windowsread.me/p/windhawk-explained">https://windowsread.me/p/windhawk-explained</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=47230663">https...*
+  📅 Tue, 03 Mar 2026 10:49:05 +0000
 
-- **[The Excommunicated Devs Making Games with AI](https://www.tyleo.com/blog/the-excommunicated-devs-making-games-with-ai)**
-  *<p>Article URL: <a href="https://www.tyleo.com/blog/the-excommunicated-devs-making-games-with-ai">https://www.tyleo.com/blog/the-excommunicated-devs-making-games-with-ai</a></p>
-<p>Comments URL: <a hr...*
-  📅 Tue, 03 Mar 2026 02:16:52 +0000
+- **[China's 450kmph bullet train is the fastest ever built](https://www.executivetraveller.com/news/china-cr450-world-s-fastest-bullet-train)**
+  *<p>Article URL: <a href="https://www.executivetraveller.com/news/china-cr450-world-s-fastest-bullet-train">https://www.executivetraveller.com/news/china-cr450-world-s-fastest-bullet-train</a></p>
+<p>C...*
+  📅 Tue, 03 Mar 2026 10:28:36 +0000
 
-- **[Ars Technica fires reporter after AI controversy involving fabricated quotes](https://futurism.com/artificial-intelligence/ars-technica-fires-reporter-ai-quotes)**
-  *<p>Article URL: <a href="https://futurism.com/artificial-intelligence/ars-technica-fires-reporter-ai-quotes">https://futurism.com/artificial-intelligence/ars-technica-fires-reporter-ai-quotes</a></p>
-...*
-  📅 Tue, 03 Mar 2026 01:12:30 +0000
+- **[Privacy-preserving age and identity verification via anonymous credentials](https://blog.cryptographyengineering.com/2026/03/02/anonymous-credentials-an-illustrated-primer/)**
+  *<p>Article URL: <a href="https://blog.cryptographyengineering.com/2026/03/02/anonymous-credentials-an-illustrated-primer/">https://blog.cryptographyengineering.com/2026/03/02/anonymous-credentials-an-...*
+  📅 Tue, 03 Mar 2026 08:58:30 +0000
 
-- **[Physicists developing a quantum computer that’s entirely open source](https://physics.aps.org/articles/v19/24)**
-  *<p>Article URL: <a href="https://physics.aps.org/articles/v19/24">https://physics.aps.org/articles/v19/24</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=47225726">https://news....*
-  📅 Mon, 02 Mar 2026 23:22:50 +0000
+- **[Arm's Cortex X925: Reaching Desktop Performance](https://chipsandcheese.com/p/arms-cortex-x925-reaching-desktop)**
+  *<p>Article URL: <a href="https://chipsandcheese.com/p/arms-cortex-x925-reaching-desktop">https://chipsandcheese.com/p/arms-cortex-x925-reaching-desktop</a></p>
+<p>Comments URL: <a href="https://news.y...*
+  📅 Tue, 03 Mar 2026 07:34:47 +0000
 
-- **[Seed of Might Color Correction Process (2023) [pdf]](https://andrewvanner.github.io/som/SoM_CC_Process_Day.pdf)**
-  *<p>Article URL: <a href="https://andrewvanner.github.io/som/SoM_CC_Process_Day.pdf">https://andrewvanner.github.io/som/SoM_CC_Process_Day.pdf</a></p>
-<p>Comments URL: <a href="https://news.ycombinator...*
-  📅 Mon, 02 Mar 2026 22:49:47 +0000
+- **[I built a pint-sized Macintosh](https://www.jeffgeerling.com/blog/2026/pint-sized-macintosh-pico-micro-mac/)**
+  *<p>Article URL: <a href="https://www.jeffgeerling.com/blog/2026/pint-sized-macintosh-pico-micro-mac/">https://www.jeffgeerling.com/blog/2026/pint-sized-macintosh-pico-micro-mac/</a></p>
+<p>Comments UR...*
+  📅 Tue, 03 Mar 2026 07:06:22 +0000
 
 ### 📑 TechCrunch
+
+- **[The candidate that Silicon Valley built is now the one they want to tear down](https://techcrunch.com/2026/03/03/the-candidate-that-silicon-valley-built-is-now-the-one-they-want-to-tear-down/)**
+  *Ethan Agarwal, a 40-year-old tech entrepreneur with no political background, told TechCrunch on Monday evening that he is running for California's 17th congressional district....*
+  📅 Tue, 03 Mar 2026 12:30:00 +0000
 
 - **[Cursor has reportedly surpassed $2B in annualized revenue](https://techcrunch.com/2026/03/02/cursor-has-reportedly-surpassed-2b-in-annualized-revenue/)**
   *The four-year-old startup saw its revenue run rate double over the past three months, according to one Bloomberg source....*
@@ -98,22 +101,23 @@
   *The Japan-based company reportedly aimed for a public valuation of at least ¥1.5 trillion ($10 billion)....*
   📅 Mon, 02 Mar 2026 23:01:57 +0000
 
-- **[No one has a good plan for how AI companies should work with the government](https://techcrunch.com/2026/03/02/openai-anthropic-department-of-defense-war-hegseth-ai-companies-work-with-us-government/)**
-  *As OpenAI transitions from a wildly successful consumer startup into a piece of national security infrastructure, the company seems unequipped to manage its new responsibilities....*
-  📅 Mon, 02 Mar 2026 22:59:10 +0000
-
 ### 📑 Dev.to
 
-- **[From Deadlocks to Green Streaks: Building an AI Greenhouse with Gemini in 36 Hours](https://dev.to/jowi00000/from-deadlocks-to-green-streaks-building-an-ai-greenhouse-with-gemini-in-36-hours-15gf)**
-  *<p><em>This is a submission for the <a href="https://dev.to/challenges/mlh-built-with-google-gemini-02-25-26">Built with Google Gemini: Writing Challenge</a></em></p>
+- **[The Backend Setup Every Developer Should Follow](https://dev.to/naweli_verma/the-backend-setup-every-developer-should-follow-3d03)**
+  *<p>Before you write your backend code, it is very important to have a clean and organized setup — one that helps you scale, debug, and collaborate better.</p>
 
+<p>There are 6 major layers of it.</p>
 
-<div class="crayons-card c-embe...*
-  📅 Tue, 03 Mar 2026 06:30:30 +0000
+...*
+  📅 Tue, 03 Mar 2026 12:27:59 +0000
 
-- **[Niyə hələ də Linux işlətmirik, ya da işlədə bilmirik?](https://dev.to/jalilabdulla/niy-hl-d-linux-isltmirik-ya-da-isld-bilmirik-2ef8)**
-  *<p>Keçən ilədək son 20 il ərzində Windows XP-dən 11-ə kimi hamısını istifadə etmişəm. Ənənəvi olaraq öyrəşmişik ki, kompüter deyəndə ağıla Windows gəlir. Amma son vaxtlar qəribə bir tendensiya var: hə...*
-  📅 Tue, 03 Mar 2026 06:20:41 +0000
+- **[React.memo Is Not Enough — 4 Performance Fixes Senior Devs Actually Use](https://dev.to/harsh2644/reactmemo-is-not-enough-4-performance-fixes-senior-devs-actually-use-25h4)**
+  *<p>Last month, I opened our React dashboard and watched it take <strong>6 full seconds</strong> to load.</p>
+
+<p>Six seconds. In 2026. Unacceptable.</p>
+
+<p>Users were complaining. Bounce rate was cli...*
+  📅 Tue, 03 Mar 2026 12:26:04 +0000
 
 </details>
 
@@ -121,103 +125,103 @@
 
 ### 📈 Daily Trending
 
-- **[adamveld12/ghost](https://github.com/adamveld12/ghost)** ⭐ 21
+- **[adamveld12/ghost](https://github.com/adamveld12/ghost)** ⭐ 85
   ![Shell](https://img.shields.io/badge/-Shell-lightgrey)
   Git is the coding agent
 
-- **[TPD94/PornHubRichPresence](https://github.com/TPD94/PornHubRichPresence)** ⭐ 8
+- **[heri1845/Polymarket-trading-tool](https://github.com/heri1845/Polymarket-trading-tool)** ⭐ 63
+  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
+  polymarket trading bot. polymarket copy trading bot
+
+- **[FireRedTeam/FireRedVAD](https://github.com/FireRedTeam/FireRedVAD)** ⭐ 31
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  A SOTA Industrial-Grade Voice Activity Detection & Audio Event Detection, supporting 100+ languages, outperforming Silero-VAD, TEN-VAD, FunASR-VAD and WebRTC-VAD
+
+- **[arjunkmrm/recall](https://github.com/arjunkmrm/recall)** ⭐ 23
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  a skill for claude code and codex to recall past conversations
+
+- **[hengfengliya/awesome-cli-agent-prompts](https://github.com/hengfengliya/awesome-cli-agent-prompts)** ⭐ 17
+  ![None](https://img.shields.io/badge/-None-lightgrey)
+  None
+
+- **[TPD94/PornHubRichPresence](https://github.com/TPD94/PornHubRichPresence)** ⭐ 17
   ![Python](https://img.shields.io/badge/-Python-blue)
   Discord Rich Presence for PornHub.
 
-- **[arjunkmrm/recall](https://github.com/arjunkmrm/recall)** ⭐ 8
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  a skill for claude code to recall past conversations
+- **[terqz-galina/torzon-link-market](https://github.com/terqz-galina/torzon-link-market)** ⭐ 16
+  ![None](https://img.shields.io/badge/-None-lightgrey)
+  TorZon Link Market
 
-- **[bddiudiu/cpa-codex-auth-sweep-cliproxy](https://github.com/bddiudiu/cpa-codex-auth-sweep-cliproxy)** ⭐ 7
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  基于CLI Proxy API批量巡检Codex授权，统计总数/401失效/周限额，并支持确认后自动删除401。
-
-- **[QuantumPixelator/LORD4.07_keygen](https://github.com/QuantumPixelator/LORD4.07_keygen)** ⭐ 7
-  ![Pascal](https://img.shields.io/badge/-Pascal-lightgrey)
-  Keygen and patcher for Legend of the Red Dragon 4.07
-
-- **[6x-u/snapVault](https://github.com/6x-u/snapVault)** ⭐ 5
-  ![C#](https://img.shields.io/badge/-C#-lightgrey)
-  None
-
-- **[nstance-dev/nstance](https://github.com/nstance-dev/nstance)** ⭐ 5
-  ![Go](https://img.shields.io/badge/-Go-cyan)
-  Next-gen VM auto-scaler for AWS, Google Cloud, and Proxmox, with (optional) support for Kubernetes
-
-- **[dpejoh/Adwaita-Colors-Home](https://github.com/dpejoh/Adwaita-Colors-Home)** ⭐ 5
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
-  Official companion extension for the Adwaita Colors icon theme. Syncs your icon theme with your GNOME accent color automatically, and lets you install, update, and manage Adwaita Colors variants from a simple preferences UI. Requires GNOME 47+.
+- **[snu-sf-class/swpp202601](https://github.com/snu-sf-class/swpp202601)** ⭐ 15
+  ![Shell](https://img.shields.io/badge/-Shell-lightgrey)
+  Principles and Practices of Software Development Main Repository
 
 ### 📈 Weekly Trending
 
-- **[maderix/ANE](https://github.com/maderix/ANE)** ⭐ 2,937
+- **[maderix/ANE](https://github.com/maderix/ANE)** ⭐ 3,627
   ![Objective-C](https://img.shields.io/badge/-Objective-C-lightgrey)
   Training neural networks on Apple Neural Engine via reverse-engineered private APIs
 
-- **[Lakr233/vphone-cli](https://github.com/Lakr233/vphone-cli)** ⭐ 2,768
+- **[Lakr233/vphone-cli](https://github.com/Lakr233/vphone-cli)** ⭐ 2,848
   ![Python](https://img.shields.io/badge/-Python-blue)
   None
 
-- **[ringhyacinth/Star-Office-UI](https://github.com/ringhyacinth/Star-Office-UI)** ⭐ 1,482
+- **[ringhyacinth/Star-Office-UI](https://github.com/ringhyacinth/Star-Office-UI)** ⭐ 1,624
   ![HTML](https://img.shields.io/badge/-HTML-lightgrey)
   A pixel office for your AI crew: turn invisible work states into a cozy little space with characters, daily notes, and guest agents. Code under MIT; art assets for non-commercial learning only.
 
-- **[ylytdeng/wechat-decrypt](https://github.com/ylytdeng/wechat-decrypt)** ⭐ 1,363
+- **[ylytdeng/wechat-decrypt](https://github.com/ylytdeng/wechat-decrypt)** ⭐ 1,393
   ![Python](https://img.shields.io/badge/-Python-blue)
   WeChat 4.0 database decryptor - extract keys from memory, decrypt SQLCipher 4 databases, real-time message monitor
 
-- **[ForLoopCodes/contextplus](https://github.com/ForLoopCodes/contextplus)** ⭐ 1,217
+- **[ForLoopCodes/contextplus](https://github.com/ForLoopCodes/contextplus)** ⭐ 1,251
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   Semantic Intelligence for Large-Scale Engineering. Context+ is an MCP server designed for developers who demand 99% accuracy. By combining Tree-sitter AST parsing, Spectral Clustering, and Obsidian-style linking, Context+ turns a massive codebase into a searchable, hierarchical feature graph.
 
-- **[World-Open-Graph/br-acc](https://github.com/World-Open-Graph/br-acc)** ⭐ 1,077
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  World Transparency Graph public codebase (🚧 website in progress)
-
-- **[smartcmd/MinecraftConsoles](https://github.com/smartcmd/MinecraftConsoles)** ⭐ 1,049
+- **[smartcmd/MinecraftConsoles](https://github.com/smartcmd/MinecraftConsoles)** ⭐ 1,157
   ![C++](https://img.shields.io/badge/-C++-pink)
   A certain block game
 
-- **[apple/python-apple-fm-sdk](https://github.com/apple/python-apple-fm-sdk)** ⭐ 801
+- **[World-Open-Graph/br-acc](https://github.com/World-Open-Graph/br-acc)** ⭐ 1,096
   ![Python](https://img.shields.io/badge/-Python-blue)
-  Python bindings for access to the on-device model at the core of Apple Intelligence through the Foundation Models framework
+  World Transparency Graph public codebase (🚧 website in progress)
+
+- **[34306/vphone-aio](https://github.com/34306/vphone-aio)** ⭐ 818
+  ![Shell](https://img.shields.io/badge/-Shell-lightgrey)
+  1 script run the vphone
 
 ### 📈 Monthly Trending
 
-- **[zeroclaw-labs/zeroclaw](https://github.com/zeroclaw-labs/zeroclaw)** ⭐ 22,388
-  ![Rust](https://img.shields.io/badge/-Rust-brown)
-  Fast, small, and fully autonomous AI assistant infrastructure — deploy anywhere, swap anything 🦀
-
-- **[sipeed/picoclaw](https://github.com/sipeed/picoclaw)** ⭐ 21,716
+- **[sipeed/picoclaw](https://github.com/sipeed/picoclaw)** ⭐ 21,792
   ![Go](https://img.shields.io/badge/-Go-cyan)
   Tiny, Fast, and Deployable anywhere — automate the mundane, unleash your creativity
 
-- **[hesamsheikh/awesome-openclaw-usecases](https://github.com/hesamsheikh/awesome-openclaw-usecases)** ⭐ 16,365
+- **[zeroclaw-labs/zeroclaw](https://github.com/zeroclaw-labs/zeroclaw)** ⭐ 21,530
+  ![Rust](https://img.shields.io/badge/-Rust-brown)
+  Fast, small, and fully autonomous AI assistant infrastructure — deploy anywhere, swap anything 🦀
+
+- **[hesamsheikh/awesome-openclaw-usecases](https://github.com/hesamsheikh/awesome-openclaw-usecases)** ⭐ 16,768
   ![None](https://img.shields.io/badge/-None-lightgrey)
   A community collection of OpenClaw use cases for making life easier.
 
-- **[AlexsJones/llmfit](https://github.com/AlexsJones/llmfit)** ⭐ 9,611
+- **[AlexsJones/llmfit](https://github.com/AlexsJones/llmfit)** ⭐ 9,898
   ![Rust](https://img.shields.io/badge/-Rust-brown)
   Hundreds of models & providers. One command to find what runs on your hardware.
 
-- **[RightNow-AI/openfang](https://github.com/RightNow-AI/openfang)** ⭐ 9,301
+- **[RightNow-AI/openfang](https://github.com/RightNow-AI/openfang)** ⭐ 9,464
   ![Rust](https://img.shields.io/badge/-Rust-brown)
   Open-source Agent Operating System
 
-- **[HKUDS/ClawWork](https://github.com/HKUDS/ClawWork)** ⭐ 6,194
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  "ClawWork: OpenClaw as Your AI Coworker - 💰 $15K earned in 11 Hours"
-
-- **[agentscope-ai/CoPaw](https://github.com/agentscope-ai/CoPaw)** ⭐ 5,999
+- **[agentscope-ai/CoPaw](https://github.com/agentscope-ai/CoPaw)** ⭐ 6,715
   ![Python](https://img.shields.io/badge/-Python-blue)
   Your Personal AI Assistant; easy to install, deploy on your own machine or on the cloud; supports multiple chat apps with easily extensible capabilities.
 
-- **[cloudflare/vinext](https://github.com/cloudflare/vinext)** ⭐ 5,450
+- **[HKUDS/ClawWork](https://github.com/HKUDS/ClawWork)** ⭐ 6,243
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  "ClawWork: OpenClaw as Your AI Coworker - 💰 $15K earned in 11 Hours"
+
+- **[cloudflare/vinext](https://github.com/cloudflare/vinext)** ⭐ 5,582
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   Vite plugin that reimplements the Next.js API surface — deploy anywhere
 
@@ -487,59 +491,59 @@ See [kubernetes-announce@](https://groups.google.com/forum/#!forum/kubernetes-an
 
 | Skill | Status |
 |-------|--------|
-| Java | ⚪ Planned |
-| Python | 🟢 Proficient |
-| JavaScript | ⚪ Planned |
-| TypeScript | 🟡 Learning |
-| Go | ⚪ Planned |
+| Java | 🟢 Proficient |
+| Python | ⚪ Planned |
+| JavaScript | 🟢 Proficient |
+| TypeScript | ⚪ Planned |
+| Go | 🟢 Proficient |
 
 ### Frameworks
 
 | Skill | Status |
 |-------|--------|
 | React | 🟢 Proficient |
-| Spring Boot | 🔴 Beginner |
+| Spring Boot | ⚪ Planned |
 | Django | 🟢 Proficient |
-| Node.js | 🔴 Beginner |
+| Node.js | ⚪ Planned |
 | Next.js | 🔴 Beginner |
 
 ### Cybersecurity
 
 | Skill | Status |
 |-------|--------|
-| Penetration Testing | 🟢 Proficient |
-| Web Security | 🟡 Learning |
-| Network Security | 🔴 Beginner |
-| OWASP | 🟢 Proficient |
+| Penetration Testing | 🟡 Learning |
+| Web Security | 🟢 Proficient |
+| Network Security | ⚪ Planned |
+| OWASP | 🔴 Beginner |
 
 ### Ai Ml
 
 | Skill | Status |
 |-------|--------|
 | Machine Learning | 🟡 Learning |
-| Deep Learning | 🟡 Learning |
-| NLP | 🟡 Learning |
-| Computer Vision | 🟡 Learning |
-| TensorFlow | 🟡 Learning |
-| PyTorch | 🔴 Beginner |
+| Deep Learning | 🟢 Proficient |
+| NLP | ⚪ Planned |
+| Computer Vision | ⚪ Planned |
+| TensorFlow | ⚪ Planned |
+| PyTorch | 🟡 Learning |
 
 ### Devops
 
 | Skill | Status |
 |-------|--------|
-| Docker | 🔴 Beginner |
+| Docker | 🟢 Proficient |
 | Kubernetes | ⚪ Planned |
-| CI/CD | 🔴 Beginner |
-| AWS | 🟢 Proficient |
+| CI/CD | 🟢 Proficient |
+| AWS | ⚪ Planned |
 | Azure | 🟡 Learning |
 
 ### Other
 
 | Skill | Status |
 |-------|--------|
-| Blockchain | ⚪ Planned |
-| Web3 | 🔴 Beginner |
-| Cloud Computing | 🔴 Beginner |
+| Blockchain | 🟡 Learning |
+| Web3 | 🟢 Proficient |
+| Cloud Computing | 🟢 Proficient |
 
 </details>
 
