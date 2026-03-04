@@ -7,7 +7,7 @@
 ![AI & ML](https://img.shields.io/badge/-AI%20&%20ML-blue) ![CyberSecurity](https://img.shields.io/badge/-CyberSecurity-red) ![Full Stack Development](https://img.shields.io/badge/-Full%20Stack%20Development-green)
 
 [![Auto Update](https://img.shields.io/badge/Auto%20Update-Enabled-success)](https://github.com/yourusername/tech-dashboard/actions)
-[![Last Updated](https://img.shields.io/badge/Last%20Updated-March 03, 2026-blue)](https://github.com/yourusername/tech-dashboard)
+[![Last Updated](https://img.shields.io/badge/Last%20Updated-March 04, 2026-blue)](https://github.com/yourusername/tech-dashboard)
 
 *Automatically updated every 6 hours with the latest tech news, trending repositories, and learning resources.*
 
@@ -46,75 +46,88 @@
 
 ### 📑 Hacker News
 
-- **[El Paso ICE Camp East Montana under quarantine after measles outbreak](https://www.elpasotimes.com/story/news/immigration/2026/03/03/el-paso-ice-camp-east-montana-quarantine-after-measles-outbreak/88962085007/)**
-  *<p>Article URL: <a href="https://www.elpasotimes.com/story/news/immigration/2026/03/03/el-paso-ice-camp-east-montana-quarantine-after-measles-outbreak/88962085007/">https://www.elpasotimes.com/story/n...*
-  📅 Tue, 03 Mar 2026 18:26:18 +0000
+- **[Cancel ChatGPT AI boycott surges after OpenAI pentagon military deal](https://www.euronews.com/next/2026/03/02/cancel-chatgpt-ai-boycott-surges-after-openai-pentagon-military-deal)**
+  *<p>Article URL: <a href="https://www.euronews.com/next/2026/03/02/cancel-chatgpt-ai-boycott-surges-after-openai-pentagon-military-deal">https://www.euronews.com/next/2026/03/02/cancel-chatgpt-ai-boyco...*
+  📅 Wed, 04 Mar 2026 00:10:38 +0000
 
-- **[You are going to get priced out of the best AI coding tools](https://newsletter.danielpaleka.com/p/you-are-going-to-get-priced-out-of)**
-  *<p>Article URL: <a href="https://newsletter.danielpaleka.com/p/you-are-going-to-get-priced-out-of">https://newsletter.danielpaleka.com/p/you-are-going-to-get-priced-out-of</a></p>
+- **[Lenovo's New ThinkPads Score 10/10 for Repairability](https://www.ifixit.com/News/115827/new-thinkpads-score-perfect-10-repairability)**
+  *<p>Article URL: <a href="https://www.ifixit.com/News/115827/new-thinkpads-score-perfect-10-repairability">https://www.ifixit.com/News/115827/new-thinkpads-score-perfect-10-repairability</a></p>
+<p>Com...*
+  📅 Tue, 03 Mar 2026 23:34:05 +0000
+
+- **[Talos: Hardware accelerator for deep convolutional neural networks](https://talos.wtf/)**
+  *<p>Article URL: <a href="https://talos.wtf/">https://talos.wtf/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=47240441">https://news.ycombinator.com/item?id=47240441</a></p>
+<...*
+  📅 Tue, 03 Mar 2026 23:11:11 +0000
+
+- **[Helsinki just went a full year without a single traffic death](https://www.politico.eu/article/helsinki-no-traffic-death-roads-eu-accident-finland-driving-transport/)**
+  *<p>Article URL: <a href="https://www.politico.eu/article/helsinki-no-traffic-death-roads-eu-accident-finland-driving-transport/">https://www.politico.eu/article/helsinki-no-traffic-death-roads-eu-acci...*
+  📅 Tue, 03 Mar 2026 22:49:54 +0000
+
+- **[Don't make me talk to your chatbot](https://raymyers.org/post/dont-make-me-talk-to-your-chatbot/)**
+  *<p>Article URL: <a href="https://raymyers.org/post/dont-make-me-talk-to-your-chatbot/">https://raymyers.org/post/dont-make-me-talk-to-your-chatbot/</a></p>
+<p>Comments URL: <a href="https://news.ycomb...*
+  📅 Tue, 03 Mar 2026 22:24:06 +0000
+
+- **[Voxile: A ray-traced game made in its own engine and programming language](https://elbowgreasegames.substack.com/p/voxray-games-pushes-major-update)**
+  *<p>Article URL: <a href="https://elbowgreasegames.substack.com/p/voxray-games-pushes-major-update">https://elbowgreasegames.substack.com/p/voxray-games-pushes-major-update</a></p>
 <p>Comments URL: <a ...*
-  📅 Tue, 03 Mar 2026 18:02:04 +0000
-
-- **[GPT‑5.3 Instant](https://openai.com/index/gpt-5-3-instant/)**
-  *<p>Article URL: <a href="https://openai.com/index/gpt-5-3-instant/">https://openai.com/index/gpt-5-3-instant/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=47236169">https://n...*
-  📅 Tue, 03 Mar 2026 17:57:33 +0000
-
-- **[Claude is an Electron App because we've lost native](https://tonsky.me/blog/fall-of-native/)**
-  *<p>Article URL: <a href="https://tonsky.me/blog/fall-of-native/">https://tonsky.me/blog/fall-of-native/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=47235430">https://news.yc...*
-  📅 Tue, 03 Mar 2026 17:09:15 +0000
-
-- **[Pass-Through of Tariffs: Evidence from European Wine Imports](https://www.nber.org/202603/digest/pass-through-tariffs-evidence-european-wine-imports)**
-  *<p>Article URL: <a href="https://www.nber.org/202603/digest/pass-through-tariffs-evidence-european-wine-imports">https://www.nber.org/202603/digest/pass-through-tariffs-evidence-european-wine-imports<...*
-  📅 Tue, 03 Mar 2026 16:47:15 +0000
-
-- **[When AI Writes the Software, Who Verifies It?](https://leodemoura.github.io/blog/2026/02/28/when-ai-writes-the-worlds-software.html)**
-  *<p>Article URL: <a href="https://leodemoura.github.io/blog/2026/02/28/when-ai-writes-the-worlds-software.html">https://leodemoura.github.io/blog/2026/02/28/when-ai-writes-the-worlds-software.html</a><...*
-  📅 Tue, 03 Mar 2026 16:34:53 +0000
+  📅 Tue, 03 Mar 2026 21:10:27 +0000
 
 ### 📑 TechCrunch
 
-- **[X says it will suspend creators from revenue-sharing program for unlabeled AI posts of ‘armed conflict’](https://techcrunch.com/2026/03/03/x-says-it-will-suspend-creators-from-revenue-sharing-program-for-unlabeled-ai-posts-of-armed-conflict/)**
-  *Creators who break the rules will get a 3-month suspend, and if they continue to violate the policy, they'll be banned....*
-  📅 Tue, 03 Mar 2026 18:27:47 +0000
+- **[Why AI startups are selling the same equity at two different prices](https://techcrunch.com/2026/03/03/why-ai-startups-are-selling-the-same-equity-at-two-different-prices/)**
+  *Some AI founders are using a novel valuation mechanism to manufacture unicorn status....*
+  📅 Wed, 04 Mar 2026 00:31:25 +0000
 
-- **[The new MacBook Pro laptops are up to $400 more expensive than their predecessors, thanks to the RAM shortage](https://techcrunch.com/2026/03/03/the-new-macbook-pro-laptops-are-up-to-400-more-expensive-than-their-predecessors-thanks-to-the-ram-shortage/)**
-  *With the demands for more computers and data centers to power AI, the market is experiencing a shortage of RAM, causing memory prices to surge....*
-  📅 Tue, 03 Mar 2026 17:39:35 +0000
+- **[A suite of government hacking tools targeting iPhones is now being used by cybercriminals](https://techcrunch.com/2026/03/03/a-suite-of-government-hacking-tools-targeting-iphones-is-now-being-used-by-cybercriminals/)**
+  *Security researchers say exploits used by governments to hack into iPhones have been found to be used by cybercriminals. They warned of an emerging market for "secondhand" exploits....*
+  📅 Tue, 03 Mar 2026 23:27:31 +0000
 
-- **[Hacked traffic cams and hijacked TVs: How cyber operations supported the war against Iran](https://techcrunch.com/2026/03/03/hacked-traffic-cams-and-hijacked-tvs-how-cyber-operations-supported-the-war-against-iran/)**
-  *After U.S. and Israeli forces started bombing Iran, reports say cyber operations have disrupted communications, supported surveillance activities, and have been used in psychological operations....*
-  📅 Tue, 03 Mar 2026 17:37:59 +0000
+- **[Alibaba’s Qwen tech lead steps down after major AI push](https://techcrunch.com/2026/03/03/alibabas-qwen-tech-lead-steps-down-after-major-ai-push/)**
+  *Reactions rippled through Alibaba's Qwen team after tech lead Junyang Lin stepped down following a major model launch....*
+  📅 Tue, 03 Mar 2026 23:16:36 +0000
 
-- **[Activist investor Elliott takes a $1B stake in Pinterest, betting on AI-driven growth](https://techcrunch.com/2026/03/03/activist-investor-elliot-takes-a-1b-stake-in-pinterest-betting-on-ai-driven-growth/)**
-  *The news comes as Pinterest has faced serious headwinds. Shares tumbled over the past year, with disappointing earnings, layoffs affecting 15% of its workforce, a declining ad business, and increased ...*
-  📅 Tue, 03 Mar 2026 17:27:37 +0000
+- **[Just three companies dominated the $189B in VC investments last month](https://techcrunch.com/2026/03/03/openai-anthropic-waymo-dominated-189-billion-vc-investments-february-crunchbase-report/)**
+  *Crunchbase data shows a record $189 billion of global venture capital flowed to startups last month, with AI startups nabbing 90% of the capital....*
+  📅 Tue, 03 Mar 2026 22:38:58 +0000
 
-- **[Apple’s rumored MacBook Neo, a lower-cost, colorful laptop, could launch this week](https://techcrunch.com/2026/03/03/apple-macbook-neo-a-low-cost-colorful-laptop-could-launch-this-week/)**
-  *This would mark the first time Apple competes with cheaper hardware like the Chromebook....*
-  📅 Tue, 03 Mar 2026 17:22:42 +0000
+- **[TikTok down for some in US, thanks to second Oracle outage since sale](https://techcrunch.com/2026/03/03/tiktok-down-for-some-in-u-s-thanks-to-second-oracle-outage-since-sale/)**
+  *TikTok experienced a similar outage just days after ByteDance divested the app's U.S. operations....*
+  📅 Tue, 03 Mar 2026 22:33:57 +0000
 
-- **[Amid new competition, Chrome speeds up its release schedule](https://techcrunch.com/2026/03/03/amid-new-competition-chrome-speeds-up-its-release-schedule/)**
-  *Google Chrome will begin shipping new releases every two weeks in September, instead of monthly....*
-  📅 Tue, 03 Mar 2026 17:00:00 +0000
+- **[AI companies are spending millions to thwart this former tech exec’s congressional bid](https://techcrunch.com/2026/03/03/ai-companies-are-spending-millions-to-thwart-this-former-tech-execs-congressional-bid/)**
+  *A tech billionaire-backed super PAC is spending $125 million to undercut candidates pushing for AI regulation. New York's Alex Bores, a former tech executive himself, is one of them....*
+  📅 Tue, 03 Mar 2026 21:44:09 +0000
 
 ### 📑 Dev.to
 
-- **[VXFS is Done!](https://dev.to/lucashooghof/vxfs-is-done-50po)**
-  *<h2>
+- **[We Red-Teamed Our Own AI Agent (And It Failed Spectacularly)](https://dev.to/jtil4201/we-red-teamed-our-own-ai-agent-and-it-failed-spectacularly-22mb)**
+  *<h1>
   
   
-  Its finally done but what have i actaully inplemented
-</h2>
+  We Red-Teamed Our Own AI Agent (And It Failed Spectacularly)
+</h1>
 
-<p>I have made 3 tools i have mkVXFS which makes the filesystem upon a file<br />
-I have made a mkdirVXFS which will create a ...*
-  📅 Tue, 03 Mar 2026 18:28:53 +0000
+<p><em>How a casual conversation dumped our entire infrastructure in 60 seconds</em></p>
 
-- **[Apache Geode 2.0: Revival, Reinvention, and the Road Ahead](https://dev.to/theasf/apache-geode-20-revival-reinvention-and-the-road-ahead-48o5)**
-  *<p>Originally published at <a href="https://news.apache.org/foundation/entry/apache-geode-2-0-revival-reinvention-and-the-road-ahead" rel="noopener noreferrer">https://news.apache.org/foundation/entry...*
-  📅 Tue, 03 Mar 2026 18:22:06 +0000
+
+
+
+<p>Your AI agent knows eve...*
+  📅 Wed, 04 Mar 2026 01:11:52 +0000
+
+- **[Why AI Agents Need a Knowledge Graph, Not Just Memory](https://dev.to/sruthi_a_d59eeac85da1abc6/why-ai-agents-need-a-knowledge-graph-not-just-memory-h62)**
+  *<p>Every AI agent framework in 2026 has some form of memory. Store a key-value pair, retrieve it later, maybe add a TTL. Problem solved, right?</p>
+
+<p>Not even close.</p>
+
+<h2>
+  
+  
+  The Memory Pro...*
+  📅 Wed, 04 Mar 2026 01:11:26 +0000
 
 </details>
 
@@ -122,103 +135,103 @@ I have made a mkdirVXFS which will create a ...*
 
 ### 📈 Daily Trending
 
-- **[adamveld12/ghost](https://github.com/adamveld12/ghost)** ⭐ 109
-  ![Shell](https://img.shields.io/badge/-Shell-lightgrey)
-  Git is the coding agent
+- **[Doobzi/DoobzisDeepSleep](https://github.com/Doobzi/DoobzisDeepSleep)** ⭐ 2
+  ![C#](https://img.shields.io/badge/-C#-lightgrey)
+  Doobzi's Deep Sleep - A Rust-inspired offline loot plugin for Unturned (RocketMod v4)
 
-- **[heri1845/Polymarket-trading-tool](https://github.com/heri1845/Polymarket-trading-tool)** ⭐ 106
-  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
-  polymarket trading bot. polymarket copy trading bot
-
-- **[FireRedTeam/FireRedVAD](https://github.com/FireRedTeam/FireRedVAD)** ⭐ 47
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  A SOTA Industrial-Grade Voice Activity Detection & Audio Event Detection, supporting 100+ languages, outperforming Silero-VAD, TEN-VAD, FunASR-VAD and WebRTC-VAD
-
-- **[arjunkmrm/recall](https://github.com/arjunkmrm/recall)** ⭐ 43
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  a skill for claude code and codex to recall past conversations
-
-- **[binance/binance-skills-hub](https://github.com/binance/binance-skills-hub)** ⭐ 39
+- **[Menna-Ahmed-Ibrahim-Cloud/Cloud-Healthcare-Management-Architecture](https://github.com/Menna-Ahmed-Ibrahim-Cloud/Cloud-Healthcare-Management-Architecture)** ⭐ 1
   ![None](https://img.shields.io/badge/-None-lightgrey)
-  Binance Skills Hub is an open skills marketplace that gives AI agents native access to crypto
-
-- **[marketingjuliancongdanh79-pixel/skill-generator](https://github.com/marketingjuliancongdanh79-pixel/skill-generator)** ⭐ 35
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  Bộ công cụ tạo AI Skill từ ý tưởng — Dành cho Antigravity, Claude Code, Cursor, Windsurf. Đánh giá 100/100 S-tier. 
-
-- **[officialasishkumar/migrate-yt](https://github.com/officialasishkumar/migrate-yt)** ⭐ 30
-  ![Go](https://img.shields.io/badge/-Go-cyan)
   None
 
-- **[zclllyybb/multi-agent-todo](https://github.com/zclllyybb/multi-agent-todo)** ⭐ 23
+- **[forrestzzp/CEOAgent.net](https://github.com/forrestzzp/CEOAgent.net)** ⭐ 1
+  ![None](https://img.shields.io/badge/-None-lightgrey)
+  CEOAgent.net is not just another AI chat tool. It is the first “AI Enterprise Operating System” in human history — a closed-loop decision-making and execution system that simulates a CEO plus a full C-suite executive team, delivering end-to-end AI collaboration capabilities from strategy to execution for businesses and professionals anywhere…
+
+- **[Dippp10/auto-repo-1772586108-7](https://github.com/Dippp10/auto-repo-1772586108-7)** ⭐ 1
+  ![None](https://img.shields.io/badge/-None-lightgrey)
+  None
+
+- **[Dippp10/auto-repo-1772586488-25](https://github.com/Dippp10/auto-repo-1772586488-25)** ⭐ 1
+  ![None](https://img.shields.io/badge/-None-lightgrey)
+  None
+
+- **[DaniiTheFox/esp32-fake-keyboard-template](https://github.com/DaniiTheFox/esp32-fake-keyboard-template)** ⭐ 1
+  ![C++](https://img.shields.io/badge/-C++-pink)
+  a small script to turn esp32 into a rubber ducky (unfinished but working)
+
+- **[BenBryner/xumm3r](https://github.com/BenBryner/xumm3r)** ⭐ 1
+  ![HTML](https://img.shields.io/badge/-HTML-lightgrey)
+  portfolio site
+
+- **[yuwxd/OCR-Tool](https://github.com/yuwxd/OCR-Tool)** ⭐ 1
   ![Python](https://img.shields.io/badge/-Python-blue)
-  A persistent, daemon-based multi-agent system that leverages opencode to automatically discover, plan, implement, and review code changes across a codebase.
+  Open source OCR tool, easy to use
 
 ### 📈 Weekly Trending
 
-- **[maderix/ANE](https://github.com/maderix/ANE)** ⭐ 4,281
+- **[maderix/ANE](https://github.com/maderix/ANE)** ⭐ 4,567
   ![Objective-C](https://img.shields.io/badge/-Objective-C-lightgrey)
   Training neural networks on Apple Neural Engine via reverse-engineered private APIs
 
-- **[Lakr233/vphone-cli](https://github.com/Lakr233/vphone-cli)** ⭐ 2,885
+- **[Lakr233/vphone-cli](https://github.com/Lakr233/vphone-cli)** ⭐ 2,897
   ![Python](https://img.shields.io/badge/-Python-blue)
   None
 
-- **[ringhyacinth/Star-Office-UI](https://github.com/ringhyacinth/Star-Office-UI)** ⭐ 1,733
+- **[ringhyacinth/Star-Office-UI](https://github.com/ringhyacinth/Star-Office-UI)** ⭐ 1,758
   ![HTML](https://img.shields.io/badge/-HTML-lightgrey)
   A pixel office for your OpenClaw: turn invisible work states into a cozy little space with characters, daily notes, and guest agents. Code under MIT; art assets for non-commercial learning only.
 
-- **[ylytdeng/wechat-decrypt](https://github.com/ylytdeng/wechat-decrypt)** ⭐ 1,410
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  WeChat 4.0 database decryptor - extract keys from memory, decrypt SQLCipher 4 databases, real-time message monitor
-
-- **[smartcmd/MinecraftConsoles](https://github.com/smartcmd/MinecraftConsoles)** ⭐ 1,321
+- **[smartcmd/MinecraftConsoles](https://github.com/smartcmd/MinecraftConsoles)** ⭐ 1,703
   ![C++](https://img.shields.io/badge/-C++-pink)
   A certain block game
 
-- **[ForLoopCodes/contextplus](https://github.com/ForLoopCodes/contextplus)** ⭐ 1,280
-  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
-  Semantic Intelligence for Large-Scale Engineering. Context+ is an MCP server designed for developers who demand 99% accuracy. By combining Tree-sitter AST parsing, Spectral Clustering, and Obsidian-style linking, Context+ turns a massive codebase into a searchable, hierarchical feature graph.
+- **[ylytdeng/wechat-decrypt](https://github.com/ylytdeng/wechat-decrypt)** ⭐ 1,413
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  WeChat 4.0 database decryptor - extract keys from memory, decrypt SQLCipher 4 databases, real-time message monitor
 
-- **[World-Open-Graph/br-acc](https://github.com/World-Open-Graph/br-acc)** ⭐ 1,156
+- **[ForLoopCodes/contextplus](https://github.com/ForLoopCodes/contextplus)** ⭐ 1,297
+  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
+  Semantic Intelligence for Large-Scale Engineering. Context+ is an MCP server designed for developers who demand 99% accuracy. By combining RAG, Tree-sitter AST, Spectral Clustering, and Obsidian-style linking, Context+ turns a massive codebase into a searchable, hierarchical feature graph.
+
+- **[World-Open-Graph/br-acc](https://github.com/World-Open-Graph/br-acc)** ⭐ 1,192
   ![Python](https://img.shields.io/badge/-Python-blue)
   World Transparency Graph public codebase (🚧 website in progress)
 
-- **[open-pencil/open-pencil](https://github.com/open-pencil/open-pencil)** ⭐ 854
+- **[open-pencil/open-pencil](https://github.com/open-pencil/open-pencil)** ⭐ 986
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   AI-native design editor. Open-source Figma alternative.
 
 ### 📈 Monthly Trending
 
-- **[sipeed/picoclaw](https://github.com/sipeed/picoclaw)** ⭐ 21,844
+- **[sipeed/picoclaw](https://github.com/sipeed/picoclaw)** ⭐ 21,883
   ![Go](https://img.shields.io/badge/-Go-cyan)
   Tiny, Fast, and Deployable anywhere — automate the mundane, unleash your creativity
 
-- **[zeroclaw-labs/zeroclaw](https://github.com/zeroclaw-labs/zeroclaw)** ⭐ 21,639
+- **[zeroclaw-labs/zeroclaw](https://github.com/zeroclaw-labs/zeroclaw)** ⭐ 21,697
   ![Rust](https://img.shields.io/badge/-Rust-brown)
   Fast, small, and fully autonomous AI assistant infrastructure — deploy anywhere, swap anything 🦀
 
-- **[hesamsheikh/awesome-openclaw-usecases](https://github.com/hesamsheikh/awesome-openclaw-usecases)** ⭐ 17,024
+- **[hesamsheikh/awesome-openclaw-usecases](https://github.com/hesamsheikh/awesome-openclaw-usecases)** ⭐ 17,161
   ![None](https://img.shields.io/badge/-None-lightgrey)
   A community collection of OpenClaw use cases for making life easier.
 
-- **[AlexsJones/llmfit](https://github.com/AlexsJones/llmfit)** ⭐ 10,189
+- **[AlexsJones/llmfit](https://github.com/AlexsJones/llmfit)** ⭐ 10,379
   ![Rust](https://img.shields.io/badge/-Rust-brown)
   Hundreds of models & providers. One command to find what runs on your hardware.
 
-- **[RightNow-AI/openfang](https://github.com/RightNow-AI/openfang)** ⭐ 9,584
+- **[RightNow-AI/openfang](https://github.com/RightNow-AI/openfang)** ⭐ 9,643
   ![Rust](https://img.shields.io/badge/-Rust-brown)
   Open-source Agent Operating System
 
-- **[agentscope-ai/CoPaw](https://github.com/agentscope-ai/CoPaw)** ⭐ 7,067
+- **[agentscope-ai/CoPaw](https://github.com/agentscope-ai/CoPaw)** ⭐ 7,246
   ![Python](https://img.shields.io/badge/-Python-blue)
   Your Personal AI Assistant; easy to install, deploy on your own machine or on the cloud; supports multiple chat apps with easily extensible capabilities.
 
-- **[HKUDS/ClawWork](https://github.com/HKUDS/ClawWork)** ⭐ 6,286
+- **[HKUDS/ClawWork](https://github.com/HKUDS/ClawWork)** ⭐ 6,305
   ![Python](https://img.shields.io/badge/-Python-blue)
   "ClawWork: OpenClaw as Your AI Coworker - 💰 $15K earned in 11 Hours"
 
-- **[cloudflare/vinext](https://github.com/cloudflare/vinext)** ⭐ 5,683
+- **[cloudflare/vinext](https://github.com/cloudflare/vinext)** ⭐ 5,748
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   Vite plugin that reimplements the Next.js API surface — deploy anywhere
 
@@ -486,41 +499,41 @@ See [kubernetes-announce@](https://groups.google.com/forum/#!forum/kubernetes-an
 
 | Skill | Status |
 |-------|--------|
-| Java | ⚪ Planned |
+| Java | 🟢 Proficient |
 | Python | 🟡 Learning |
-| JavaScript | 🟡 Learning |
+| JavaScript | 🔴 Beginner |
 | TypeScript | 🔴 Beginner |
-| Go | 🟢 Proficient |
+| Go | 🟡 Learning |
 
 ### Frameworks
 
 | Skill | Status |
 |-------|--------|
-| React | 🟡 Learning |
-| Spring Boot | ⚪ Planned |
+| React | 🟢 Proficient |
+| Spring Boot | 🟢 Proficient |
 | Django | 🟡 Learning |
-| Node.js | 🔴 Beginner |
+| Node.js | ⚪ Planned |
 | Next.js | 🟢 Proficient |
 
 ### Cybersecurity
 
 | Skill | Status |
 |-------|--------|
-| Penetration Testing | 🟢 Proficient |
+| Penetration Testing | ⚪ Planned |
 | Web Security | 🟡 Learning |
-| Network Security | 🔴 Beginner |
-| OWASP | ⚪ Planned |
+| Network Security | 🟢 Proficient |
+| OWASP | 🔴 Beginner |
 
 ### Ai Ml
 
 | Skill | Status |
 |-------|--------|
-| Machine Learning | 🟢 Proficient |
-| Deep Learning | 🟡 Learning |
-| NLP | 🟡 Learning |
-| Computer Vision | 🟡 Learning |
-| TensorFlow | 🟡 Learning |
-| PyTorch | 🟡 Learning |
+| Machine Learning | 🔴 Beginner |
+| Deep Learning | 🔴 Beginner |
+| NLP | 🔴 Beginner |
+| Computer Vision | 🔴 Beginner |
+| TensorFlow | 🟢 Proficient |
+| PyTorch | 🔴 Beginner |
 
 ### Devops
 
@@ -528,17 +541,17 @@ See [kubernetes-announce@](https://groups.google.com/forum/#!forum/kubernetes-an
 |-------|--------|
 | Docker | ⚪ Planned |
 | Kubernetes | ⚪ Planned |
-| CI/CD | ⚪ Planned |
-| AWS | 🔴 Beginner |
+| CI/CD | 🟡 Learning |
+| AWS | 🟢 Proficient |
 | Azure | 🟢 Proficient |
 
 ### Other
 
 | Skill | Status |
 |-------|--------|
-| Blockchain | 🟡 Learning |
-| Web3 | 🟡 Learning |
-| Cloud Computing | 🔴 Beginner |
+| Blockchain | 🟢 Proficient |
+| Web3 | 🟢 Proficient |
+| Cloud Computing | 🟢 Proficient |
 
 </details>
 
@@ -556,7 +569,7 @@ This dashboard is automatically updated every 6 hours using GitHub Actions. The 
 
 <div align="center">
 
-**Last Updated:** March 03, 2026
+**Last Updated:** March 04, 2026
 
 Made with ❤️ and automated with GitHub Actions
 
