@@ -20,7 +20,7 @@
 | Metric | Count |
 |--------|-------|
 | 📰 Latest News Articles | 26 |
-| 🔥 Trending Repositories | 0 |
+| 🔥 Trending Repositories | 45 |
 | 🎯 Latest Releases | 10 |
 | 🎯 Learning Goals | 4 |
 
@@ -46,6 +46,24 @@
 
 ### 📑 Hacker News
 
+- **[US Court of Appeals: TOS may be updated by email, continued use implies consent [pdf]](https://cdn.ca9.uscourts.gov/datastore/memoranda/2026/03/03/25-403.pdf)**
+  *<p>Article URL: <a href="https://cdn.ca9.uscourts.gov/datastore/memoranda/2026/03/03/25-403.pdf">https://cdn.ca9.uscourts.gov/datastore/memoranda/2026/03/03/25-403.pdf</a></p>
+<p>Comments URL: <a href...*
+  📅 Mon, 09 Mar 2026 06:28:02 +0000
+
+- **[Thermal Grizzly was scammed twice on raw materials worth €40k](https://videocardz.com/newz/der8auer-explains-thermal-grizzly-delays-after-company-was-scammed-twice-on-raw-materials-worth-e40000)**
+  *<p>Article URL: <a href="https://videocardz.com/newz/der8auer-explains-thermal-grizzly-delays-after-company-was-scammed-twice-on-raw-materials-worth-e40000">https://videocardz.com/newz/der8auer-explai...*
+  📅 Mon, 09 Mar 2026 04:38:03 +0000
+
+- **[The death of social media is the renaissance of RSS (2025)](https://www.smartlab.at/rss-revival-life-after-social-media/)**
+  *<p>Article URL: <a href="https://www.smartlab.at/rss-revival-life-after-social-media/">https://www.smartlab.at/rss-revival-life-after-social-media/</a></p>
+<p>Comments URL: <a href="https://news.ycomb...*
+  📅 Mon, 09 Mar 2026 04:27:59 +0000
+
+- **[How the Sriracha guys screwed over their supplier](https://old.reddit.com/r/KitchenConfidential/comments/1ro61g2/how_the_sriracha_guys_screwed_over_their_supplier/)**
+  *<p>Article URL: <a href="https://old.reddit.com/r/KitchenConfidential/comments/1ro61g2/how_the_sriracha_guys_screwed_over_their_supplier/">https://old.reddit.com/r/KitchenConfidential/comments/1ro61g2...*
+  📅 Mon, 09 Mar 2026 04:16:33 +0000
+
 - **[Ask HN: What Are You Working On? (March 2026)](https://news.ycombinator.com/item?id=47303111)**
   *<p>What are you working on?  Any new ideas that you're thinking about?</p>
 <hr />
@@ -57,26 +75,11 @@
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=473...*
   📅 Sun, 08 Mar 2026 22:50:55 +0000
 
-- **[Most of the US economy is in a recession](https://www.businessinsider.com/recession-economy-us-tech-wall-street-strategist-investing-stocks-market-2026-3)**
-  *<p>Article URL: <a href="https://www.businessinsider.com/recession-economy-us-tech-wall-street-strategist-investing-stocks-market-2026-3">https://www.businessinsider.com/recession-economy-us-tech-wall...*
-  📅 Sun, 08 Mar 2026 22:01:32 +0000
-
-- **[Blacksky AppView](https://github.com/blacksky-algorithms/atproto)**
-  *<p>Article URL: <a href="https://github.com/blacksky-algorithms/atproto">https://github.com/blacksky-algorithms/atproto</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=47301808"...*
-  📅 Sun, 08 Mar 2026 21:40:35 +0000
-
-- **[Lil Finder Guy](https://basicappleguy.com/basicappleblog/lil-finder-guy)**
-  *<p>Article URL: <a href="https://basicappleguy.com/basicappleblog/lil-finder-guy">https://basicappleguy.com/basicappleblog/lil-finder-guy</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com...*
-  📅 Sun, 08 Mar 2026 20:43:19 +0000
-
-- **[Artificial-life: A simple (300 lines of code) reproduction of Computational Life](https://github.com/Rabrg/artificial-life)**
-  *<p>Article URL: <a href="https://github.com/Rabrg/artificial-life">https://github.com/Rabrg/artificial-life</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=47301233">https://new...*
-  📅 Sun, 08 Mar 2026 20:42:41 +0000
-
 ### 📑 TechCrunch
+
+- **[Ring’s Jamie Siminoff has been trying to calm privacy fears since the Super Bowl, but his answers may not help](https://techcrunch.com/2026/03/08/rings-jamie-siminoff-has-been-trying-to-calm-privacy-fears-since-the-super-bowl-but-his-answers-may-not-help/)**
+  *The facial recognition question is where things get more tangled....*
+  📅 Mon, 09 Mar 2026 04:35:06 +0000
 
 - **[Palmer Luckey’s retro gaming startup ModRetro reportedly seeks funding at $1B valuation](https://techcrunch.com/2026/03/08/palmer-luckeys-retro-gaming-startup-modretro-reportedly-seeks-funding-at-1b-valuation/)**
   *The company launched its first product, a Game Boy-style handheld device called the Chromatic, in 2024....*
@@ -98,31 +101,132 @@
   *The Pro-Human Declaration was finalized before last week's Pentagon-Anthropic standoff, but the collision of the two events wasn’t lost on anyone involved....*
   📅 Sun, 08 Mar 2026 06:05:26 +0000
 
-- **[Push for $40 smartphones builds momentum, but still faces cost hurdles](https://techcrunch.com/2026/03/07/push-for-40-smartphones-builds-momentum-but-still-faces-cost-hurdles/)**
-  *A coalition of telecom operators and device makers is pushing $40 smartphones to bring up to 20 million people online, but rising component costs threaten the plan....*
-  📅 Sun, 08 Mar 2026 05:00:00 +0000
-
 ### 📑 Dev.to
 
-- **[OCI Networking Best Practices for Beginners](https://dev.to/js116521/oci-networking-best-practices-for-beginners-30cf)**
-  *<p>Introduction</p>
+- **[From a Confused Graduate to a DevOps Engineer](https://dev.to/mahinshanazeer/from-a-confused-graduate-to-a-devops-engineer-4dfh)**
+  *<p><em>This is a submission for the <a href="https://dev.to/challenges/wecoded-2026">2026 WeCoded Challenge</a>: Echoes of Experience</em></p>...*
+  📅 Mon, 09 Mar 2026 06:50:36 +0000
 
-<p>Designing cloud networks requires careful planning and the use of proven best practices. Oracle Cloud Infrastructure (OCI) provides a powerful set of networking tools that allo...*
-  📅 Mon, 09 Mar 2026 01:01:08 +0000
-
-- **[Web Accessibility (WCAG) for Business Websites: A Practical Developer's Checklist](https://dev.to/emongmarcc/web-accessibility-wcag-for-business-websites-a-practical-developers-checklist-2gn4)**
+- **[IAM role assumption across AWS accounts: the right way (with working Terraform)](https://dev.to/yash_step2dev/iam-role-assumption-across-aws-accounts-the-right-way-with-working-terraform-3kpe)**
   *<h1>
   
   
-  Web Accessibility (WCAG) for Business Websites: A Practical Developer's Checklist
+  IAM role assumption across AWS accounts: the right way
 </h1>
 
-<p>Here's an uncomfortable truth: roughly 15% of the world's population lives with some form of di...*
-  📅 Mon, 09 Mar 2026 01:00:09 +0000
+<p>Most teams still store long-lived AWS access keys in CI/CD secrets. Here's the right pattern.</p>
+
+<h2>
+  
+  
+  Why role a...*
+  📅 Mon, 09 Mar 2026 06:50:27 +0000
 
 </details>
 
 ## 🔥 Trending Repositories
+
+### 📈 Daily Trending
+
+- **[wireless-tag-com/EmbedClaw](https://github.com/wireless-tag-com/EmbedClaw)** ⭐ 19
+  ![C](https://img.shields.io/badge/-C-lightgrey)
+  Decouple LLM, Tools, Agent, and Channels—then pack them onto a single ESP32
+
+- **[aveeslab/r-tod](https://github.com/aveeslab/r-tod)** ⭐ 9
+  ![C](https://img.shields.io/badge/-C-lightgrey)
+  R-TOD: Real-Time Object Detector with Minimized End-to-End Delay (RTSS 2020)
+
+- **[aveeslab/lane-change-for-platooning](https://github.com/aveeslab/lane-change-for-platooning)** ⭐ 9
+  ![C++](https://img.shields.io/badge/-C++-pink)
+  Rear-First Lane Change Protocol with Cooperative Perception for Safe Platooning (IV 2026)
+
+- **[aveeslab/CarFree](https://github.com/aveeslab/CarFree)** ⭐ 9
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  CarFree: Hassle-free Object Detection Dataset Generation using CARLA Simulator (Applied Sciences 2022)
+
+- **[codybrom/afm-ts-sdk](https://github.com/codybrom/afm-ts-sdk)** ⭐ 9
+  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
+  TypeScript/Node.js bindings for Apple's on-device Foundation Models (macOS 26+ only)
+
+- **[aveeslab/demand-layering](https://github.com/aveeslab/demand-layering)** ⭐ 9
+  ![C](https://img.shields.io/badge/-C-lightgrey)
+  Demand Layering for Real-Time DNN Inference with Minimized Memory Usage (RTSS 2022)
+
+- **[aveeslab/cluster-object-detection](https://github.com/aveeslab/cluster-object-detection)** ⭐ 9
+  ![C](https://img.shields.io/badge/-C-lightgrey)
+  Cluster-based Object Detection System with Scalable Performance for Autonomous Driving (ICCAS 2023)
+
+- **[aveeslab/e-platoon](https://github.com/aveeslab/e-platoon)** ⭐ 9
+  ![MATLAB](https://img.shields.io/badge/-MATLAB-lightgrey)
+  E-Platoon: e-Truck Platoon Simulator Based on CARLA for Platoon-level Battery Management (IV 2026)
+
+### 📈 Weekly Trending
+
+- **[karpathy/autoresearch](https://github.com/karpathy/autoresearch)** ⭐ 10,617
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  AI agents running research on single-GPU nanochat training automatically
+
+- **[elder-plinius/OBLITERATUS](https://github.com/elder-plinius/OBLITERATUS)** ⭐ 2,438
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  OBLITERATE THE CHAINS THAT BIND YOU
+
+- **[twostraws/SwiftUI-Agent-Skill](https://github.com/twostraws/SwiftUI-Agent-Skill)** ⭐ 1,424
+  ![None](https://img.shields.io/badge/-None-lightgrey)
+  SwiftUI agent skill for Claude Code, Codex, and other AI tools.
+
+- **[duoan/TorchCode](https://github.com/duoan/TorchCode)** ⭐ 1,274
+  ![Jupyter Notebook](https://img.shields.io/badge/-Jupyter Notebook-lightgrey)
+  🔥 LeetCode for PyTorch — practice implementing softmax, attention, GPT-2 and more from scratch with instant auto-grading. Jupyter-based, self-hosted or try online.
+
+- **[cyxzdev/Uncodixfy](https://github.com/cyxzdev/Uncodixfy)** ⭐ 1,095
+  ![None](https://img.shields.io/badge/-None-lightgrey)
+  the holly uncodexify instructions - letting GPT create uncodexified UI
+
+- **[viperrcrypto/Siftly](https://github.com/viperrcrypto/Siftly)** ⭐ 1,056
+  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
+  Local Twitter/X bookmark organizer with AI categorization and mindmap visualization
+
+- **[tanishqkumar/ssd](https://github.com/tanishqkumar/ssd)** ⭐ 719
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  A lightweight inference engine supporting speculative speculative decoding (SSD). 
+
+- **[op7418/Claude-to-IM-skill](https://github.com/op7418/Claude-to-IM-skill)** ⭐ 691
+  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
+  Bridge Claude Code / Codex to IM platforms — chat with AI coding agents from Telegram, Discord, or Feishu/Lark.
+
+### 📈 Monthly Trending
+
+- **[zeroclaw-labs/zeroclaw](https://github.com/zeroclaw-labs/zeroclaw)** ⭐ 24,922
+  ![Rust](https://img.shields.io/badge/-Rust-brown)
+  Fast, small, and fully autonomous AI assistant infrastructure — deploy anywhere, swap anything 🦀
+
+- **[hesamsheikh/awesome-openclaw-usecases](https://github.com/hesamsheikh/awesome-openclaw-usecases)** ⭐ 21,593
+  ![None](https://img.shields.io/badge/-None-lightgrey)
+  A community collection of OpenClaw use cases for making life easier.
+
+- **[googleworkspace/cli](https://github.com/googleworkspace/cli)** ⭐ 16,551
+  ![Rust](https://img.shields.io/badge/-Rust-brown)
+  Google Workspace CLI — one command-line tool for Drive, Gmail, Calendar, Sheets, Docs, Chat, Admin, and more. Dynamically built from Google Discovery Service. Includes AI agent skills.
+
+- **[AlexsJones/llmfit](https://github.com/AlexsJones/llmfit)** ⭐ 13,272
+  ![Rust](https://img.shields.io/badge/-Rust-brown)
+  Hundreds of models & providers. One command to find what runs on your hardware.
+
+- **[RightNow-AI/openfang](https://github.com/RightNow-AI/openfang)** ⭐ 12,884
+  ![Rust](https://img.shields.io/badge/-Rust-brown)
+  Open-source Agent Operating System
+
+- **[paperclipai/paperclip](https://github.com/paperclipai/paperclip)** ⭐ 12,317
+  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
+  Open-source orchestration for zero-human companies
+
+- **[karpathy/autoresearch](https://github.com/karpathy/autoresearch)** ⭐ 10,617
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  AI agents running research on single-GPU nanochat training automatically
+
+- **[agentscope-ai/CoPaw](https://github.com/agentscope-ai/CoPaw)** ⭐ 9,846
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  Your Personal AI Assistant; easy to install, deploy on your own machine or on the cloud; supports multiple chat apps with easily extensible capabilities.
 
 ## 🚀 Latest Releases
 
@@ -391,41 +495,41 @@ See [kubernetes-announce@](https://groups.google.com/forum/#!forum/kubernetes-an
 
 | Skill | Status |
 |-------|--------|
-| Java | ⚪ Planned |
-| Python | 🟡 Learning |
-| JavaScript | ⚪ Planned |
-| TypeScript | 🟡 Learning |
-| Go | ⚪ Planned |
+| Java | 🟢 Proficient |
+| Python | 🟢 Proficient |
+| JavaScript | 🟢 Proficient |
+| TypeScript | 🟢 Proficient |
+| Go | 🟡 Learning |
 
 ### Frameworks
 
 | Skill | Status |
 |-------|--------|
-| React | 🟢 Proficient |
-| Spring Boot | 🟢 Proficient |
-| Django | ⚪ Planned |
-| Node.js | ⚪ Planned |
-| Next.js | 🟡 Learning |
+| React | 🟡 Learning |
+| Spring Boot | 🟡 Learning |
+| Django | 🟢 Proficient |
+| Node.js | 🟡 Learning |
+| Next.js | ⚪ Planned |
 
 ### Cybersecurity
 
 | Skill | Status |
 |-------|--------|
-| Penetration Testing | ⚪ Planned |
+| Penetration Testing | 🟢 Proficient |
 | Web Security | 🟢 Proficient |
 | Network Security | ⚪ Planned |
-| OWASP | 🟢 Proficient |
+| OWASP | 🟡 Learning |
 
 ### Ai Ml
 
 | Skill | Status |
 |-------|--------|
-| Machine Learning | 🔴 Beginner |
+| Machine Learning | ⚪ Planned |
 | Deep Learning | 🟢 Proficient |
-| NLP | ⚪ Planned |
-| Computer Vision | ⚪ Planned |
-| TensorFlow | 🟡 Learning |
-| PyTorch | ⚪ Planned |
+| NLP | 🟢 Proficient |
+| Computer Vision | 🔴 Beginner |
+| TensorFlow | ⚪ Planned |
+| PyTorch | 🔴 Beginner |
 
 ### Devops
 
@@ -433,17 +537,17 @@ See [kubernetes-announce@](https://groups.google.com/forum/#!forum/kubernetes-an
 |-------|--------|
 | Docker | 🟡 Learning |
 | Kubernetes | 🟢 Proficient |
-| CI/CD | ⚪ Planned |
-| AWS | 🟡 Learning |
-| Azure | ⚪ Planned |
+| CI/CD | 🟡 Learning |
+| AWS | 🔴 Beginner |
+| Azure | 🟡 Learning |
 
 ### Other
 
 | Skill | Status |
 |-------|--------|
-| Blockchain | ⚪ Planned |
-| Web3 | 🟡 Learning |
-| Cloud Computing | ⚪ Planned |
+| Blockchain | 🔴 Beginner |
+| Web3 | ⚪ Planned |
+| Cloud Computing | 🔴 Beginner |
 
 </details>
 
