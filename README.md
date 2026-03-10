@@ -7,7 +7,7 @@
 ![AI & ML](https://img.shields.io/badge/-AI%20&%20ML-blue) ![CyberSecurity](https://img.shields.io/badge/-CyberSecurity-red) ![Full Stack Development](https://img.shields.io/badge/-Full%20Stack%20Development-green)
 
 [![Auto Update](https://img.shields.io/badge/Auto%20Update-Enabled-success)](https://github.com/yourusername/tech-dashboard/actions)
-[![Last Updated](https://img.shields.io/badge/Last%20Updated-March 09, 2026-blue)](https://github.com/yourusername/tech-dashboard)
+[![Last Updated](https://img.shields.io/badge/Last%20Updated-March 10, 2026-blue)](https://github.com/yourusername/tech-dashboard)
 
 *Automatically updated every 6 hours with the latest tech news, trending repositories, and learning resources.*
 
@@ -46,73 +46,75 @@
 
 ### 📑 Hacker News
 
-- **[Uber is letting women avoid male drivers and riders in the US](https://www.dexerto.com/entertainment/uber-is-letting-women-avoid-male-drivers-and-riders-in-the-us-3229899/)**
-  *<p>Article URL: <a href="https://www.dexerto.com/entertainment/uber-is-letting-women-avoid-male-drivers-and-riders-in-the-us-3229899/">https://www.dexerto.com/entertainment/uber-is-letting-women-avoid...*
-  📅 Mon, 09 Mar 2026 17:59:23 +0000
+- **[It looks like the “JVG algorithm” only wins on tiny numbers](https://scottaaronson.blog/?p=9615)**
+  *<p>Article URL: <a href="https://scottaaronson.blog/?p=9615">https://scottaaronson.blog/?p=9615</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=47317739">https://news.ycombinato...*
+  📅 Tue, 10 Mar 2026 00:35:19 +0000
 
-- **[Show HN: The Mog Programming Language](https://moglang.org)**
-  *<p>Article URL: <a href="https://moglang.org">https://moglang.org</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=47312728">https://news.ycombinator.com/item?id=47312728</a></p>...*
-  📅 Mon, 09 Mar 2026 17:57:00 +0000
+- **[Two Years of Emacs Solo: 35 Modules, Zero External Packages, and a Full Refactor](https://www.rahuljuliato.com/posts/emacs-solo-two-years)**
+  *<p>Article URL: <a href="https://www.rahuljuliato.com/posts/emacs-solo-two-years">https://www.rahuljuliato.com/posts/emacs-solo-two-years</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com...*
+  📅 Tue, 10 Mar 2026 00:16:44 +0000
 
-- **[The Government Told Courts It Could Easily Refund Tariffs. Now It Says It Can't](https://www.techdirt.com/2026/03/09/the-government-told-courts-it-could-easily-refund-unlawful-tariffs-now-it-says-it-cant/)**
-  *<p>Article URL: <a href="https://www.techdirt.com/2026/03/09/the-government-told-courts-it-could-easily-refund-unlawful-tariffs-now-it-says-it-cant/">https://www.techdirt.com/2026/03/09/the-government...*
-  📅 Mon, 09 Mar 2026 17:53:47 +0000
+- **[Iran's attacks on Amazon data centers in UAE, Bahrain signal a new kind of war](https://fortune.com/2026/03/09/irans-attacks-on-amazon-data-centers-in-uae-bahrain-signal-a-new-kind-of-war-as-ai-plays-an-increasingly-strategic-role-analysts-say/)**
+  *<p>Article URL: <a href="https://fortune.com/2026/03/09/irans-attacks-on-amazon-data-centers-in-uae-bahrain-signal-a-new-kind-of-war-as-ai-plays-an-increasingly-strategic-role-analysts-say/">https://f...*
+  📅 Tue, 10 Mar 2026 00:11:48 +0000
 
-- **[Fixfest is a global gathering of repairers, tinkerers, and activists](https://fixfest.therestartproject.org/)**
-  *<p>Article URL: <a href="https://fixfest.therestartproject.org/">https://fixfest.therestartproject.org/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=47312329">https://news.yc...*
-  📅 Mon, 09 Mar 2026 17:34:27 +0000
+- **[Rendezvous with Rama](https://blog.engora.com/2026/03/rendezvous-with-rama.html)**
+  *<p>Article URL: <a href="https://blog.engora.com/2026/03/rendezvous-with-rama.html">https://blog.engora.com/2026/03/rendezvous-with-rama.html</a></p>
+<p>Comments URL: <a href="https://news.ycombinator...*
+  📅 Mon, 09 Mar 2026 21:34:45 +0000
 
-- **[Building a Procedural Hex Map with Wave Function Collapse](https://felixturner.github.io/hex-map-wfc/article/)**
-  *<p>Article URL: <a href="https://felixturner.github.io/hex-map-wfc/article/">https://felixturner.github.io/hex-map-wfc/article/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=4...*
-  📅 Mon, 09 Mar 2026 17:02:22 +0000
+- **[So you want to write an “app” (2025)](https://arcanenibble.github.io/so-you-want-to-write-an-app.html)**
+  *<p>Article URL: <a href="https://arcanenibble.github.io/so-you-want-to-write-an-app.html">https://arcanenibble.github.io/so-you-want-to-write-an-app.html</a></p>
+<p>Comments URL: <a href="https://news...*
+  📅 Mon, 09 Mar 2026 20:50:59 +0000
 
-- **[DARPA's new X-76 Experimental Plane](https://www.darpa.mil/news/2026/darpa-new-x-76-speed-of-jet-freedom-of-helicopter)**
-  *<p>Article URL: <a href="https://www.darpa.mil/news/2026/darpa-new-x-76-speed-of-jet-freedom-of-helicopter">https://www.darpa.mil/news/2026/darpa-new-x-76-speed-of-jet-freedom-of-helicopter</a></p>
-<p...*
-  📅 Mon, 09 Mar 2026 16:54:31 +0000
+- **[Oracle is building yesterday's data centers with tomorrow's debt](https://www.cnbc.com/2026/03/09/oracle-is-building-yesterdays-data-centers-with-tomorrows-debt.html)**
+  *<p>Article URL: <a href="https://www.cnbc.com/2026/03/09/oracle-is-building-yesterdays-data-centers-with-tomorrows-debt.html">https://www.cnbc.com/2026/03/09/oracle-is-building-yesterdays-data-centers...*
+  📅 Mon, 09 Mar 2026 20:36:43 +0000
 
 ### 📑 TechCrunch
 
-- **[Periwinkle is making self-hosted social media on Bluesky’s AT Protocol even easier](https://techcrunch.com/2026/03/09/periwinkle-at-protocol-bluesky-self-hosted-social-media/)**
-  *Periwinkle offers managed hosting for AT Protocol users who want social media accounts on their own domains, with backups, storage, and migration tools....*
-  📅 Mon, 09 Mar 2026 18:18:25 +0000
+- **[Founders Fund nears $6 billion close for latest growth fund, sources say](https://techcrunch.com/2026/03/09/founders-fund-nears-6-billion-close-for-latest-growth-fund-sources-say/)**
+  *The firm is raising this growth fund less than a year after closing its previous $4.6 billion vehicle....*
+  📅 Tue, 10 Mar 2026 01:03:48 +0000
 
-- **[OpenAI acquires Promptfoo to secure its AI agents](https://techcrunch.com/2026/03/09/openai-acquires-promptfoo-to-secure-its-ai-agents/)**
-  *This deal underscores how frontier labs are scrambling to prove their technology can be used safely in critical business operations....*
-  📅 Mon, 09 Mar 2026 17:49:04 +0000
+- **[Electric air taxis are about to take flight in 26 states](https://techcrunch.com/2026/03/09/electric-air-taxis-are-about-to-take-flight-in-26-states/)**
+  *The federal government has selected eight proposals to test electric aircraft across 26 states....*
+  📅 Mon, 09 Mar 2026 22:30:35 +0000
 
-- **[GM figured out how to navigate EV uncertainty with the Chevy Bolt](https://techcrunch.com/2026/03/09/gm-figured-out-how-to-navigate-ev-uncertainty-with-the-chevy-bolt/)**
-  *The 2027 Chevy Bolt might not be a groundbreaking new EV, but incremental improvements have made it better without inflating the price....*
-  📅 Mon, 09 Mar 2026 17:29:58 +0000
+- **[OpenAI and Google employees rush to Anthropic’s defense in DOD lawsuit](https://techcrunch.com/2026/03/09/openai-and-google-employees-rush-to-anthropics-defense-in-dod-lawsuit/)**
+  *More than 30 OpenAI and Google DeepMind employees signed onto a statement supporting Anthropic's lawsuit against the Defense Department after the agency labeled the AI firm a supply-chain risk, accord...*
+  📅 Mon, 09 Mar 2026 21:15:17 +0000
 
-- **[Anthropic sues Defense Department over supply chain risk designation](https://techcrunch.com/2026/03/09/anthropic-sues-defense-department-over-supply-chain-risk-designation/)**
-  *Anthropic filed suit against the Department of Defense on Monday after the agency labeled it a supply chain risk. The complaint calls the DOD's actions "unprecedented and unlawful."...*
-  📅 Mon, 09 Mar 2026 17:25:40 +0000
+- **[Anthropic launches code review tool to check flood of AI-generated code](https://techcrunch.com/2026/03/09/anthropic-launches-code-review-tool-to-check-flood-of-ai-generated-code/)**
+  *Anthropic launched Code Review in Claude Code, a multi-agent system that automatically analyzes AI-generated code, flags logic errors, and helps enterprise developers manage the growing volume of code...*
+  📅 Mon, 09 Mar 2026 19:41:34 +0000
 
-- **[Slate Auto changes CEO months ahead of affordable EV launch](https://techcrunch.com/2026/03/09/slate-auto-changes-ceo-months-ahead-of-affordable-ev-launch/)**
-  *Former Amazon Marketplace vice president Peter Faricy is the new person in charge of the company....*
-  📅 Mon, 09 Mar 2026 16:14:30 +0000
+- **[Bluesky CEO Jay Graber steps down](https://techcrunch.com/2026/03/09/bluesky-ceo-jay-graber-steps-down/)**
+  *Graber explained that, as a more mature company, Bluesky needs a "seasoned operator focused on scaling and execution." Graber said she feels better suited to building Bluesky's technology itself....*
+  📅 Mon, 09 Mar 2026 19:32:05 +0000
 
-- **[Xprize founder Peter Diamandis launches new contest to manifest a new Star Trek](https://techcrunch.com/2026/03/09/xprize-founder-peter-diamandis-launches-new-contest-to-manifest-a-new-star-trek/)**
-  *The famed author and investor has launched the Future Vision Xprize with sponsors like Google, Marc Benioff, Ben Horowitz, to fund optimistic sci-fi films....*
-  📅 Mon, 09 Mar 2026 16:00:00 +0000
+- **[It looks like the DOJ isn’t going to break up Live Nation and Ticketmaster](https://techcrunch.com/2026/03/09/it-looks-like-the-doj-isnt-going-to-break-up-live-nation-and-ticketmaster/)**
+  *The DOJ and Live Nation agreed to a tentative settlement, but dozens of state attorneys general don't want to drop the lawsuit....*
+  📅 Mon, 09 Mar 2026 18:49:48 +0000
 
 ### 📑 Dev.to
 
-- **[My Tech Learning Journey as an Intern](https://dev.to/devi1701/my-tech-learning-journey-as-an-intern-32bb)**
-  *<p>This blog is a space where I document my journey in the technology field as an MCA student and an intern. Through these posts, I share the projects I am currently working on, the technical concepts...*
-  📅 Mon, 09 Mar 2026 18:35:20 +0000
+- **[FAQ: Synthetic Identity Fraud Detection and Prevention](https://dev.to/tiamatenity/faq-synthetic-identity-fraud-detection-and-prevention-5h30)**
+  *<h2>
+  
+  
+  TL;DR
+</h2>
 
-- **[Python selenium architecture](https://dev.to/s_sundharam_ab27cf9523823/python-selenium-architecture-3el1)**
-  *<p>-&gt; Selenium is a popular framework for web automation and testing </p>
+<p><strong>Synthetic identity fraud costs $5-6B annually and is growing faster than any other fraud type. Unlike traditional identity theft, synthetic fraud creates entirely ...*
+  📅 Tue, 10 Mar 2026 01:01:40 +0000
 
-<p>-&gt; This architecture is crucial for effectively using Selenium in automating browser interactions</p>
-
-<p>-&gt; The ...*
-  📅 Mon, 09 Mar 2026 18:34:10 +0000
+- **[I Analyzed 10,000 Manus AI Tasks and Found 73% of Credit Waste Comes from Just 3 Patterns](https://dev.to/rafsilva85/i-analyzed-10000-manus-ai-tasks-and-found-73-of-credit-waste-comes-from-just-3-patterns-iip)**
+  *<p>After spending 3 months tracking every single Manus AI task I ran — over 10,000 tasks across web development, data analysis, research, and automation — I discovered something that changed how I use...*
+  📅 Tue, 10 Mar 2026 00:59:47 +0000
 
 </details>
 
@@ -120,105 +122,105 @@
 
 ### 📈 Daily Trending
 
-- **[knowsuchagency/mcp2cli](https://github.com/knowsuchagency/mcp2cli)** ⭐ 299
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  Turn any MCP server or OpenAPI spec into a CLI — at runtime, with zero codegen
+- **[Jacob-A11/React-Python](https://github.com/Jacob-A11/React-Python)** ⭐ 2
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
+  NPM wrapper for pythonxyc, a compiler that transpiles Python-like PythonXY code into React JSX, with CLI tools for setup, compile, and watch workflows.
 
-- **[get-Lucid/Lucid](https://github.com/get-Lucid/Lucid)** ⭐ 100
+- **[Jacob-A11/React-Node-ecommerce](https://github.com/Jacob-A11/React-Node-ecommerce)** ⭐ 2
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
+  Full stack eCommerce app with a React frontend and a Node/Express REST API featuring JWT auth and MongoDB (Mongoose).
+
+- **[Jacob-A11/NEXT-WORDPRESS](https://github.com/Jacob-A11/NEXT-WORDPRESS)** ⭐ 2
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
-  An intelligence layer grounding autonomous agents in verified, real-time knowledge at scale.
+  Next.js WordPress starter that uses WPGraphQL to build a fast, SEO-friendly static site with blog/pages/posts, search, RSS, and sitemap, ready for Netlify or Vercel.
 
-- **[jasoniylx/YimMenu-V2](https://github.com/jasoniylx/YimMenu-V2)** ⭐ 48
+- **[BUGG1N/cortex-mcp](https://github.com/BUGG1N/cortex-mcp)** ⭐ 2
+  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
+  Portfolio memory for AI agents.  Transforms your real project history into structured context that any AI assistant can query in real time.
+
+- **[Jacob-A11/Nextjs-Contentful-Blog](https://github.com/Jacob-A11/Nextjs-Contentful-Blog)** ⭐ 2
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
+  Next.js blog app integrated with Contentful, styled with Tailwind CSS, and set up for Firebase deployment.
+
+- **[Jacob-A11/React-FastAPI-Docker-MongoDB](https://github.com/Jacob-A11/React-FastAPI-Docker-MongoDB)** ⭐ 2
+  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
+  FARM stack template with a FastAPI backend, React (Vite) frontend, MongoDB, and Docker Compose for dev and production, plus OAuth2 SSO and OpenAPI docs.
+
+- **[5771323yang/fDTdHNrOYM](https://github.com/5771323yang/fDTdHNrOYM)** ⭐ 1
   ![None](https://img.shields.io/badge/-None-lightgrey)
-  Experimental menu for GTA 5: Enhanced & Legacy
+  【Java计算机毕业设计分享】基于Python的图书管理系统，MySQL Java开发 毕业设计 实战项目【附源码、文档报告、代码讲解】
 
-- **[NousResearch/hermes-agent-self-evolution](https://github.com/NousResearch/hermes-agent-self-evolution)** ⭐ 45
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  ⚒ Evolutionary self-improvement for Hermes Agent — optimize skills, prompts, and code using DSPy + GEPA
-
-- **[Maguvarshini/ARc_4.1_RAG](https://github.com/Maguvarshini/ARc_4.1_RAG)** ⭐ 38
+- **[emperorbj/task-tracker](https://github.com/emperorbj/task-tracker)** ⭐ 1
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
-  None
-
-- **[codetesla51/uthman_dotfiles](https://github.com/codetesla51/uthman_dotfiles)** ⭐ 35
-  ![CSS](https://img.shields.io/badge/-CSS-lightgrey)
-  Arch Linux · Hyprland · Matugen dynamic theming dotfiles
-
-- **[aravinthkrishna143/Servo-Control-ESP8266-Blynk-OLED-temp-humidity](https://github.com/aravinthkrishna143/Servo-Control-ESP8266-Blynk-OLED-temp-humidity)** ⭐ 25
-  ![C](https://img.shields.io/badge/-C-lightgrey)
-  ESP8266 NodeMCU project to control two servos using Blynk with OLED display showing simulated temperature and humidity.
-
-- **[ersinkoc/project-bootstrap](https://github.com/ersinkoc/project-bootstrap)** ⭐ 25
-  ![Python](https://img.shields.io/badge/-Python-blue)
   None
 
 ### 📈 Weekly Trending
 
-- **[karpathy/autoresearch](https://github.com/karpathy/autoresearch)** ⭐ 14,725
+- **[karpathy/autoresearch](https://github.com/karpathy/autoresearch)** ⭐ 16,396
   ![Python](https://img.shields.io/badge/-Python-blue)
   AI agents running research on single-GPU nanochat training automatically
 
-- **[elder-plinius/OBLITERATUS](https://github.com/elder-plinius/OBLITERATUS)** ⭐ 2,540
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  OBLITERATE THE CHAINS THAT BIND YOU
-
-- **[twostraws/SwiftUI-Agent-Skill](https://github.com/twostraws/SwiftUI-Agent-Skill)** ⭐ 1,552
+- **[twostraws/SwiftUI-Agent-Skill](https://github.com/twostraws/SwiftUI-Agent-Skill)** ⭐ 1,608
   ![None](https://img.shields.io/badge/-None-lightgrey)
   SwiftUI agent skill for Claude Code, Codex, and other AI tools.
 
-- **[duoan/TorchCode](https://github.com/duoan/TorchCode)** ⭐ 1,400
+- **[duoan/TorchCode](https://github.com/duoan/TorchCode)** ⭐ 1,418
   ![Jupyter Notebook](https://img.shields.io/badge/-Jupyter Notebook-lightgrey)
   🔥 LeetCode for PyTorch — practice implementing softmax, attention, GPT-2 and more from scratch with instant auto-grading. Jupyter-based, self-hosted or try online.
 
-- **[viperrcrypto/Siftly](https://github.com/viperrcrypto/Siftly)** ⭐ 1,226
+- **[viperrcrypto/Siftly](https://github.com/viperrcrypto/Siftly)** ⭐ 1,276
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   Local Twitter/X bookmark organizer with AI categorization and mindmap visualization
 
-- **[cyxzdev/Uncodixfy](https://github.com/cyxzdev/Uncodixfy)** ⭐ 1,190
+- **[cyxzdev/Uncodixfy](https://github.com/cyxzdev/Uncodixfy)** ⭐ 1,227
   ![None](https://img.shields.io/badge/-None-lightgrey)
   the holly uncodexify instructions - letting GPT create uncodexified UI
 
-- **[BigBodyCobain/Shadowbroker](https://github.com/BigBodyCobain/Shadowbroker)** ⭐ 945
-  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
-  Open-source intelligence for the global theater. Track everything from the corporate/private jets of the wealthy, and spy satellites, to seismic events in one unified interface. The knowledge is available to all but rarely aggregated in the open, until now.
-
-- **[HKUDS/CLI-Anything](https://github.com/HKUDS/CLI-Anything)** ⭐ 936
+- **[HKUDS/CLI-Anything](https://github.com/HKUDS/CLI-Anything)** ⭐ 1,143
   ![Python](https://img.shields.io/badge/-Python-blue)
   CLI-Anything: Making ALL Software Agent-Native
 
+- **[BigBodyCobain/Shadowbroker](https://github.com/BigBodyCobain/Shadowbroker)** ⭐ 1,049
+  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
+  Open-source intelligence for the global theater. Track everything from the corporate/private jets of the wealthy, and spy satellites, to seismic events in one unified interface. The knowledge is available to all but rarely aggregated in the open, until now.
+
+- **[jackwener/twitter-cli](https://github.com/jackwener/twitter-cli)** ⭐ 1,042
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  A CLI for Twitter/X — feed, bookmarks, and user timeline in terminal
+
 ### 📈 Monthly Trending
 
-- **[zeroclaw-labs/zeroclaw](https://github.com/zeroclaw-labs/zeroclaw)** ⭐ 25,233
+- **[zeroclaw-labs/zeroclaw](https://github.com/zeroclaw-labs/zeroclaw)** ⭐ 25,295
   ![Rust](https://img.shields.io/badge/-Rust-brown)
   Fast, small, and fully autonomous AI assistant infrastructure — deploy anywhere, swap anything 🦀
 
-- **[hesamsheikh/awesome-openclaw-usecases](https://github.com/hesamsheikh/awesome-openclaw-usecases)** ⭐ 22,090
-  ![None](https://img.shields.io/badge/-None-lightgrey)
-  A community collection of OpenClaw use cases for making life easier.
-
-- **[googleworkspace/cli](https://github.com/googleworkspace/cli)** ⭐ 17,013
+- **[googleworkspace/cli](https://github.com/googleworkspace/cli)** ⭐ 17,233
   ![Rust](https://img.shields.io/badge/-Rust-brown)
   Google Workspace CLI — one command-line tool for Drive, Gmail, Calendar, Sheets, Docs, Chat, Admin, and more. Dynamically built from Google Discovery Service. Includes AI agent skills.
 
-- **[karpathy/autoresearch](https://github.com/karpathy/autoresearch)** ⭐ 14,725
+- **[karpathy/autoresearch](https://github.com/karpathy/autoresearch)** ⭐ 16,397
   ![Python](https://img.shields.io/badge/-Python-blue)
   AI agents running research on single-GPU nanochat training automatically
 
-- **[paperclipai/paperclip](https://github.com/paperclipai/paperclip)** ⭐ 13,801
+- **[paperclipai/paperclip](https://github.com/paperclipai/paperclip)** ⭐ 14,257
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   Open-source orchestration for zero-human companies
 
-- **[AlexsJones/llmfit](https://github.com/AlexsJones/llmfit)** ⭐ 13,598
+- **[AlexsJones/llmfit](https://github.com/AlexsJones/llmfit)** ⭐ 13,681
   ![Rust](https://img.shields.io/badge/-Rust-brown)
   Hundreds of models & providers. One command to find what runs on your hardware.
 
-- **[RightNow-AI/openfang](https://github.com/RightNow-AI/openfang)** ⭐ 13,171
+- **[RightNow-AI/openfang](https://github.com/RightNow-AI/openfang)** ⭐ 13,245
   ![Rust](https://img.shields.io/badge/-Rust-brown)
   Open-source Agent Operating System
 
-- **[openai/symphony](https://github.com/openai/symphony)** ⭐ 10,196
+- **[openai/symphony](https://github.com/openai/symphony)** ⭐ 10,302
   ![Elixir](https://img.shields.io/badge/-Elixir-lightgrey)
   Symphony turns project work into isolated, autonomous implementation runs, allowing teams to manage work instead of supervising coding agents.
+
+- **[agentscope-ai/CoPaw](https://github.com/agentscope-ai/CoPaw)** ⭐ 10,130
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  Your Personal AI Assistant; easy to install, deploy on your own machine or on the cloud; supports multiple chat apps with easily extensible capabilities.
 
 ## 🚀 Latest Releases
 
@@ -486,28 +488,28 @@ See [kubernetes-announce@](https://groups.google.com/forum/#!forum/kubernetes-an
 | Skill | Status |
 |-------|--------|
 | Java | 🟡 Learning |
-| Python | ⚪ Planned |
-| JavaScript | 🟡 Learning |
-| TypeScript | 🟡 Learning |
+| Python | 🟢 Proficient |
+| JavaScript | 🔴 Beginner |
+| TypeScript | ⚪ Planned |
 | Go | 🟡 Learning |
 
 ### Frameworks
 
 | Skill | Status |
 |-------|--------|
-| React | 🟢 Proficient |
-| Spring Boot | 🟢 Proficient |
-| Django | 🔴 Beginner |
-| Node.js | 🔴 Beginner |
+| React | ⚪ Planned |
+| Spring Boot | 🔴 Beginner |
+| Django | ⚪ Planned |
+| Node.js | ⚪ Planned |
 | Next.js | ⚪ Planned |
 
 ### Cybersecurity
 
 | Skill | Status |
 |-------|--------|
-| Penetration Testing | 🔴 Beginner |
-| Web Security | 🟡 Learning |
-| Network Security | ⚪ Planned |
+| Penetration Testing | 🟢 Proficient |
+| Web Security | ⚪ Planned |
+| Network Security | 🔴 Beginner |
 | OWASP | 🟢 Proficient |
 
 ### Ai Ml
@@ -517,8 +519,8 @@ See [kubernetes-announce@](https://groups.google.com/forum/#!forum/kubernetes-an
 | Machine Learning | 🟢 Proficient |
 | Deep Learning | 🟡 Learning |
 | NLP | ⚪ Planned |
-| Computer Vision | 🟢 Proficient |
-| TensorFlow | ⚪ Planned |
+| Computer Vision | ⚪ Planned |
+| TensorFlow | 🟢 Proficient |
 | PyTorch | 🟡 Learning |
 
 ### Devops
@@ -527,17 +529,17 @@ See [kubernetes-announce@](https://groups.google.com/forum/#!forum/kubernetes-an
 |-------|--------|
 | Docker | 🟡 Learning |
 | Kubernetes | ⚪ Planned |
-| CI/CD | 🟢 Proficient |
-| AWS | ⚪ Planned |
+| CI/CD | 🔴 Beginner |
+| AWS | 🟡 Learning |
 | Azure | 🟢 Proficient |
 
 ### Other
 
 | Skill | Status |
 |-------|--------|
-| Blockchain | ⚪ Planned |
-| Web3 | ⚪ Planned |
-| Cloud Computing | 🟡 Learning |
+| Blockchain | 🟢 Proficient |
+| Web3 | 🟡 Learning |
+| Cloud Computing | 🟢 Proficient |
 
 </details>
 
@@ -555,7 +557,7 @@ This dashboard is automatically updated every 6 hours using GitHub Actions. The 
 
 <div align="center">
 
-**Last Updated:** March 09, 2026
+**Last Updated:** March 10, 2026
 
 Made with ❤️ and automated with GitHub Actions
 
