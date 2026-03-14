@@ -46,34 +46,33 @@
 
 ### 📑 Hacker News
 
+- **[XML Is a Cheap DSL](https://unplannedobsolescence.com/blog/xml-cheap-dsl/)**
+  *<p>Article URL: <a href="https://unplannedobsolescence.com/blog/xml-cheap-dsl/">https://unplannedobsolescence.com/blog/xml-cheap-dsl/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/ite...*
+  📅 Sat, 14 Mar 2026 11:59:13 +0000
+
+- **[Claude Code's binary reveals silent A/B tests on core features](https://backnotprop.com/blog/do-not-ab-test-my-workflow/)**
+  *<p>Article URL: <a href="https://backnotprop.com/blog/do-not-ab-test-my-workflow/">https://backnotprop.com/blog/do-not-ab-test-my-workflow/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.c...*
+  📅 Sat, 14 Mar 2026 11:46:29 +0000
+
+- **[How Lego builds a new Lego set](https://www.theverge.com/c/23991049/lego-ideas-polaroid-onestep-behind-the-scenes-price)**
+  *<p>Article URL: <a href="https://www.theverge.com/c/23991049/lego-ideas-polaroid-onestep-behind-the-scenes-price">https://www.theverge.com/c/23991049/lego-ideas-polaroid-onestep-behind-the-scenes-pric...*
+  📅 Sat, 14 Mar 2026 11:35:49 +0000
+
+- **[RAM kits are now sold with one fake RAM stick alongside a real one](https://www.tomshardware.com/pc-components/ram/fake-ram-bundled-with-real-ram-to-create-a-performance-illusion-for-amd-users-1-1-value-pack-offers-desperate-psychological-relief-as-the-memory-shortage-worsens)**
+  *<p>Article URL: <a href="https://www.tomshardware.com/pc-components/ram/fake-ram-bundled-with-real-ram-to-create-a-performance-illusion-for-amd-users-1-1-value-pack-offers-desperate-psychological-reli...*
+  📅 Sat, 14 Mar 2026 10:05:58 +0000
+
+- **[Megadev: A Development Kit for the Sega Mega Drive and Mega CD Hardware](https://github.com/drojaazu/megadev)**
+  *<p>Article URL: <a href="https://github.com/drojaazu/megadev">https://github.com/drojaazu/megadev</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=47374745">https://news.ycombina...*
+  📅 Sat, 14 Mar 2026 09:04:39 +0000
+
 - **[Optimizing Content for Agents](https://cra.mr/optimizing-content-for-agents/)**
   *<p>Article URL: <a href="https://cra.mr/optimizing-content-for-agents/">https://cra.mr/optimizing-content-for-agents/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=47372672">h...*
   📅 Sat, 14 Mar 2026 02:27:00 +0000
-
-- **[Our Experience with I-Ready](https://moultano.wordpress.com/2026/03/12/our-experience-with-i-ready/)**
-  *<p>Article URL: <a href="https://moultano.wordpress.com/2026/03/12/our-experience-with-i-ready/">https://moultano.wordpress.com/2026/03/12/our-experience-with-i-ready/</a></p>
-<p>Comments URL: <a href...*
-  📅 Sat, 14 Mar 2026 00:29:50 +0000
-
-- **[Games with loot boxes to get minimum 16 age rating across Europe](https://www.bbc.com/news/articles/cge84xqjg5lo)**
-  *<p>Article URL: <a href="https://www.bbc.com/news/articles/cge84xqjg5lo">https://www.bbc.com/news/articles/cge84xqjg5lo</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=47371692"...*
-  📅 Sat, 14 Mar 2026 00:02:37 +0000
-
-- **[Show HN: Simple plugin to get Claude Code to listen to you](https://www.gopeek.ai)**
-  *<p>Hey HN,<p>My cofounder and I have gotten tired of CC ignoring our markdown files so we spent 4 days and built a plugin that automatically steers CC based on our previous sessions. The problem is us...*
-  📅 Fri, 13 Mar 2026 23:15:22 +0000
-
-- **[I beg you to follow Crocker's Rules, even if you will be rude to me](https://lr0.org/blog/p/crocker/)**
-  *<p>Article URL: <a href="https://lr0.org/blog/p/crocker/">https://lr0.org/blog/p/crocker/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=47371275">https://news.ycombinator.com/...*
-  📅 Fri, 13 Mar 2026 23:14:37 +0000
-
-- **[I found 39 Algolia admin keys exposed across open source documentation sites](https://benzimmermann.dev/blog/algolia-docsearch-admin-keys)**
-  *<p>Article URL: <a href="https://benzimmermann.dev/blog/algolia-docsearch-admin-keys">https://benzimmermann.dev/blog/algolia-docsearch-admin-keys</a></p>
-<p>Comments URL: <a href="https://news.ycombin...*
-  📅 Fri, 13 Mar 2026 22:52:05 +0000
 
 ### 📑 TechCrunch
 
@@ -103,16 +102,20 @@
 
 ### 📑 Dev.to
 
-- **[Echoes of Experience](https://dev.to/dan52242644dan/echoes-of-experience-2pi9)**
-  *<p>🌱 Echoes of Experience: Finding My Voice in Tech<br />
-I didn’t grow up imagining myself in tech. For a long time, I thought “real developers” were people who looked nothing like me, spoke in acron...*
-  📅 Sat, 14 Mar 2026 06:34:29 +0000
+- **[Frontend System Design: Communication Protocols & Real-Time Data](https://dev.to/zeeshanali0704/frontend-system-design-communication-protocols-real-time-data-h7h)**
+  *<h1>
+  
+  
+  Communication Protocols &amp; Real-Time Data — Frontend Interview Guide
+</h1>
 
-- **[# The Silent Saboteur Unmasked: Understanding Sess](https://dev.to/harsh_hak/-the-silent-saboteur-unmasked-understanding-sess-35m7)**
-  *<p>📝 <strong>Abstract</strong></p>
+<blockquote>
+<p>Flow diagrams, working explanations, and trade-offs for HTTP, Polling, Long Polling, WebSock...*
+  📅 Sat, 14 Mar 2026 12:23:47 +0000
 
-<p>Welcome back to the blog! Today we are diving into a classic but still potent web security threat: session hijacking. If you have ever logged into a website, you...*
-  📅 Sat, 14 Mar 2026 06:34:18 +0000
+- **[Linking Two Research Papers to Real AI Applications](https://dev.to/abbas__ahmed/linking-two-research-papers-to-real-ai-applications-3674)**
+  *<p><a class="article-body-image-wrapper" href="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fupl...*
+  📅 Sat, 14 Mar 2026 12:23:38 +0000
 
 </details>
 
@@ -120,105 +123,105 @@ I didn’t grow up imagining myself in tech. For a long time, I thought “real 
 
 ### 📈 Daily Trending
 
-- **[hengfengliya/imgood](https://github.com/hengfengliya/imgood)** ⭐ 48
+- **[skernelx/tavily-key-generator](https://github.com/skernelx/tavily-key-generator)** ⭐ 341
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  Auto batch register Tavily API Keys with pluggable email backends
+
+- **[hengfengliya/imgood](https://github.com/hengfengliya/imgood)** ⭐ 69
   ![None](https://img.shields.io/badge/-None-lightgrey)
   None
+
+- **[davis7dotsh/my-sveltekit-template](https://github.com/davis7dotsh/my-sveltekit-template)** ⭐ 32
+  ![Svelte](https://img.shields.io/badge/-Svelte-lightgrey)
+  Updated as of March 2026: sveltekit, effect v4, convex, tailwind, etc.
+
+- **[andforce/Andclaw](https://github.com/andforce/Andclaw)** ⭐ 28
+  ![Java](https://img.shields.io/badge/-Java-orange)
+  无需ROOT，无需连电脑，像Openclaw控制电脑一样，让Andclaw控制你的安卓手机
+
+- **[GalleryPrivateLog/Roblox-Synapse-X-External-2026-Latest](https://github.com/GalleryPrivateLog/Roblox-Synapse-X-External-2026-Latest)** ⭐ 27
+  ![None](https://img.shields.io/badge/-None-lightgrey)
+  ⭐️ Execute | Roblox | Synapse | Gameplay | PC | Experience⭐️
+
+- **[Ochay-BOT/syyyynapse](https://github.com/Ochay-BOT/syyyynapse)** ⭐ 27
+  ![None](https://img.shields.io/badge/-None-lightgrey)
+  None
+
+- **[fuzzylord-oss/strk-mev-bot](https://github.com/fuzzylord-oss/strk-mev-bot)** ⭐ 15
+  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
+  MEV bot for Starknet — sandwich and backrun strategies across Ekubo, JediSwap, Nostra, and 6 more DEXs
 
 - **[AgentSeal/awesome-mcp-security](https://github.com/AgentSeal/awesome-mcp-security)** ⭐ 15
   ![None](https://img.shields.io/badge/-None-lightgrey)
   Security scores for 800+ MCP servers. 9 analyzers scan for prompt injection, toxic flows, and attack surface risks. Updated daily. 🛡️
 
-- **[nakatucuta/electiva_bigdata](https://github.com/nakatucuta/electiva_bigdata)** ⭐ 13
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  None
-
-- **[Ochay-BOT/syyyynapse](https://github.com/Ochay-BOT/syyyynapse)** ⭐ 11
-  ![None](https://img.shields.io/badge/-None-lightgrey)
-  None
-
-- **[roberthsu2003/__2026_03_14_chihlee_gemini__](https://github.com/roberthsu2003/__2026_03_14_chihlee_gemini__)** ⭐ 10
-  ![None](https://img.shields.io/badge/-None-lightgrey)
-  raspberry+python+gemini智慧開發
-
-- **[GalleryPrivateLog/Roblox-Synapse-X-External-2026-Latest](https://github.com/GalleryPrivateLog/Roblox-Synapse-X-External-2026-Latest)** ⭐ 8
-  ![None](https://img.shields.io/badge/-None-lightgrey)
-  ⭐️ Execute | Roblox | Synapse | Gameplay | PC | Experience⭐️
-
-- **[unclebob/AIR-J](https://github.com/unclebob/AIR-J)** ⭐ 5
-  ![Clojure](https://img.shields.io/badge/-Clojure-lightgrey)
-  A simple language for AIs to use and humans to ignore.  This version is JVM based.
-
-- **[DevRohit06/discli](https://github.com/DevRohit06/discli)** ⭐ 5
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  Discord CLI for AI agents. Manage servers, messages, reactions, threads and monitor events from the terminal.
-
 ### 📈 Weekly Trending
 
-- **[HKUDS/CLI-Anything](https://github.com/HKUDS/CLI-Anything)** ⭐ 12,260
+- **[HKUDS/CLI-Anything](https://github.com/HKUDS/CLI-Anything)** ⭐ 12,804
   ![Python](https://img.shields.io/badge/-Python-blue)
   CLI-Anything: Making ALL Software Agent-Native
 
-- **[garrytan/gstack](https://github.com/garrytan/gstack)** ⭐ 7,203
+- **[garrytan/gstack](https://github.com/garrytan/gstack)** ⭐ 8,163
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   Use Garry Tan's exact Claude Code setup: 6 opinionated tools that serve as CEO, Eng Manager, Release Manager and QA Engineer
 
-- **[tanweai/pua](https://github.com/tanweai/pua)** ⭐ 6,749
+- **[tanweai/pua](https://github.com/tanweai/pua)** ⭐ 6,896
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   你是一个曾经被寄予厚望的 P8 级工程师。Anthropic 当初给你定级的时候，对你的期望是很高的。  一个agent使用的高能动性的skill。  You are a P8-level engineer who once had high hopes placed on you. When Anthropic classified you at that level, their expectations were high.
 
-- **[davebcn87/pi-autoresearch](https://github.com/davebcn87/pi-autoresearch)** ⭐ 1,269
+- **[davebcn87/pi-autoresearch](https://github.com/davebcn87/pi-autoresearch)** ⭐ 1,393
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   Autonomous experiment loop extension for pi
 
-- **[FreedomIntelligence/OpenClaw-Medical-Skills](https://github.com/FreedomIntelligence/OpenClaw-Medical-Skills)** ⭐ 1,129
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  The largest open-source medical AI skills library for OpenClaw🦞.
-
-- **[TianyiDataScience/openclaw-control-center](https://github.com/TianyiDataScience/openclaw-control-center)** ⭐ 1,106
+- **[TianyiDataScience/openclaw-control-center](https://github.com/TianyiDataScience/openclaw-control-center)** ⭐ 1,249
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   None
 
-- **[gsd-build/gsd-2](https://github.com/gsd-build/gsd-2)** ⭐ 1,016
+- **[NawfalMotii79/PLFM_RADAR](https://github.com/NawfalMotii79/PLFM_RADAR)** ⭐ 1,207
+  ![C](https://img.shields.io/badge/-C-lightgrey)
+  Open-source, low-cost 10.5 GHz PLFM phased array RADAR system
+
+- **[FreedomIntelligence/OpenClaw-Medical-Skills](https://github.com/FreedomIntelligence/OpenClaw-Medical-Skills)** ⭐ 1,143
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  The largest open-source medical AI skills library for OpenClaw🦞.
+
+- **[gsd-build/gsd-2](https://github.com/gsd-build/gsd-2)** ⭐ 1,052
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   A powerful meta-prompting, context engineering and spec-driven development system that enables agents to work for long periods of time autonomously without losing track of the big picture
 
-- **[aiming-lab/MetaClaw](https://github.com/aiming-lab/MetaClaw)** ⭐ 1,015
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  Just talk to your agent — it learns and EVOLVES.
-
 ### 📈 Monthly Trending
 
-- **[karpathy/autoresearch](https://github.com/karpathy/autoresearch)** ⭐ 32,232
+- **[karpathy/autoresearch](https://github.com/karpathy/autoresearch)** ⭐ 32,887
   ![Python](https://img.shields.io/badge/-Python-blue)
   AI agents running research on single-GPU nanochat training automatically
 
-- **[zeroclaw-labs/zeroclaw](https://github.com/zeroclaw-labs/zeroclaw)** ⭐ 26,892
+- **[zeroclaw-labs/zeroclaw](https://github.com/zeroclaw-labs/zeroclaw)** ⭐ 26,957
   ![Rust](https://img.shields.io/badge/-Rust-brown)
   Fast, small, and fully autonomous AI assistant infrastructure — deploy anywhere, swap anything 🦀
 
-- **[paperclipai/paperclip](https://github.com/paperclipai/paperclip)** ⭐ 22,638
+- **[paperclipai/paperclip](https://github.com/paperclipai/paperclip)** ⭐ 22,903
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   Open-source orchestration for zero-human companies
 
-- **[googleworkspace/cli](https://github.com/googleworkspace/cli)** ⭐ 20,066
+- **[googleworkspace/cli](https://github.com/googleworkspace/cli)** ⭐ 20,143
   ![Rust](https://img.shields.io/badge/-Rust-brown)
   Google Workspace CLI — one command-line tool for Drive, Gmail, Calendar, Sheets, Docs, Chat, Admin, and more. Dynamically built from Google Discovery Service. Includes AI agent skills.
 
-- **[AlexsJones/llmfit](https://github.com/AlexsJones/llmfit)** ⭐ 16,333
+- **[AlexsJones/llmfit](https://github.com/AlexsJones/llmfit)** ⭐ 16,448
   ![Rust](https://img.shields.io/badge/-Rust-brown)
   Hundreds of models & providers. One command to find what runs on your hardware.
 
-- **[RightNow-AI/openfang](https://github.com/RightNow-AI/openfang)** ⭐ 14,256
+- **[RightNow-AI/openfang](https://github.com/RightNow-AI/openfang)** ⭐ 14,305
   ![Rust](https://img.shields.io/badge/-Rust-brown)
   Open-source Agent Operating System
 
-- **[openai/symphony](https://github.com/openai/symphony)** ⭐ 12,308
-  ![Elixir](https://img.shields.io/badge/-Elixir-lightgrey)
-  Symphony turns project work into isolated, autonomous implementation runs, allowing teams to manage work instead of supervising coding agents.
-
-- **[HKUDS/CLI-Anything](https://github.com/HKUDS/CLI-Anything)** ⭐ 12,260
+- **[HKUDS/CLI-Anything](https://github.com/HKUDS/CLI-Anything)** ⭐ 12,804
   ![Python](https://img.shields.io/badge/-Python-blue)
   CLI-Anything: Making ALL Software Agent-Native
+
+- **[openai/symphony](https://github.com/openai/symphony)** ⭐ 12,415
+  ![Elixir](https://img.shields.io/badge/-Elixir-lightgrey)
+  Symphony turns project work into isolated, autonomous implementation runs, allowing teams to manage work instead of supervising coding agents.
 
 ## 🚀 Latest Releases
 
@@ -491,54 +494,54 @@ See [kubernetes-announce@](https://groups.google.com/forum/#!forum/kubernetes-an
 | Python | ⚪ Planned |
 | JavaScript | 🟢 Proficient |
 | TypeScript | 🟢 Proficient |
-| Go | 🔴 Beginner |
+| Go | 🟡 Learning |
 
 ### Frameworks
 
 | Skill | Status |
 |-------|--------|
-| React | ⚪ Planned |
-| Spring Boot | 🔴 Beginner |
+| React | 🟡 Learning |
+| Spring Boot | ⚪ Planned |
 | Django | ⚪ Planned |
-| Node.js | ⚪ Planned |
-| Next.js | 🟢 Proficient |
+| Node.js | 🟡 Learning |
+| Next.js | 🟡 Learning |
 
 ### Cybersecurity
 
 | Skill | Status |
 |-------|--------|
-| Penetration Testing | 🔴 Beginner |
-| Web Security | 🔴 Beginner |
+| Penetration Testing | 🟢 Proficient |
+| Web Security | 🟡 Learning |
 | Network Security | 🔴 Beginner |
-| OWASP | ⚪ Planned |
+| OWASP | 🟡 Learning |
 
 ### Ai Ml
 
 | Skill | Status |
 |-------|--------|
-| Machine Learning | ⚪ Planned |
-| Deep Learning | ⚪ Planned |
-| NLP | 🟡 Learning |
-| Computer Vision | 🟢 Proficient |
-| TensorFlow | 🔴 Beginner |
-| PyTorch | ⚪ Planned |
+| Machine Learning | 🔴 Beginner |
+| Deep Learning | 🟡 Learning |
+| NLP | 🔴 Beginner |
+| Computer Vision | ⚪ Planned |
+| TensorFlow | 🟡 Learning |
+| PyTorch | 🟢 Proficient |
 
 ### Devops
 
 | Skill | Status |
 |-------|--------|
-| Docker | ⚪ Planned |
-| Kubernetes | 🔴 Beginner |
-| CI/CD | ⚪ Planned |
-| AWS | 🟢 Proficient |
-| Azure | ⚪ Planned |
+| Docker | 🟢 Proficient |
+| Kubernetes | 🟡 Learning |
+| CI/CD | 🟢 Proficient |
+| AWS | 🟡 Learning |
+| Azure | 🔴 Beginner |
 
 ### Other
 
 | Skill | Status |
 |-------|--------|
-| Blockchain | 🟢 Proficient |
-| Web3 | 🟢 Proficient |
+| Blockchain | 🟡 Learning |
+| Web3 | 🟡 Learning |
 | Cloud Computing | 🔴 Beginner |
 
 </details>
