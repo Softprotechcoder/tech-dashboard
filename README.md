@@ -46,36 +46,51 @@
 
 ### 📑 Hacker News
 
-- **[Generating All 32-Bit Primes (Part I)](https://hnlyman.github.io/pages/prime32_I.html)**
-  *<p>Article URL: <a href="https://hnlyman.github.io/pages/prime32_I.html">https://hnlyman.github.io/pages/prime32_I.html</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=47386441"...*
-  📅 Sun, 15 Mar 2026 11:42:01 +0000
+- **[Tech companies defeat bill as AI drains local water supplies](https://www.theolympus.net/13531/)**
+  *<p>Article URL: <a href="https://www.theolympus.net/13531/">https://www.theolympus.net/13531/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=47389858">https://news.ycombinator....*
+  📅 Sun, 15 Mar 2026 17:49:54 +0000
 
-- **[A Visual Introduction to Machine Learning](https://r2d3.us/visual-intro-to-machine-learning-part-1/)**
-  *<p>Article URL: <a href="https://r2d3.us/visual-intro-to-machine-learning-part-1/">https://r2d3.us/visual-intro-to-machine-learning-part-1/</a></p>
+- **[Grandparents are glued to their phones, families are worried [video]](https://www.bbc.com/reel/video/p0n61dg3/grandparents-are-glued-to-their-phones-families-are-worried)**
+  *<p>Article URL: <a href="https://www.bbc.com/reel/video/p0n61dg3/grandparents-are-glued-to-their-phones-families-are-worried">https://www.bbc.com/reel/video/p0n61dg3/grandparents-are-glued-to-their-ph...*
+  📅 Sun, 15 Mar 2026 17:43:19 +0000
+
+- **[SuperTux 0.7.0](https://github.com/SuperTux/supertux/releases/tag/v0.7.0)**
+  *<p>Article URL: <a href="https://github.com/SuperTux/supertux/releases/tag/v0.7.0">https://github.com/SuperTux/supertux/releases/tag/v0.7.0</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.c...*
-  📅 Sun, 15 Mar 2026 10:47:35 +0000
+  📅 Sun, 15 Mar 2026 17:00:35 +0000
 
-- **[$96 3D-printed rocket that recalculates its mid-air trajectory using a $5 sensor](https://github.com/novatic14/MANPADS-System-Launcher-and-Rocket)**
-  *<p>Article URL: <a href="https://github.com/novatic14/MANPADS-System-Launcher-and-Rocket">https://github.com/novatic14/MANPADS-System-Launcher-and-Rocket</a></p>
-<p>Comments URL: <a href="https://news...*
-  📅 Sun, 15 Mar 2026 10:15:47 +0000
+- **[In Memoriam: John W. Addison, my PhD advisor](https://billwadge.com/2026/03/15/in-memoriam-john-w-addison-jr-my-phd-advisor/)**
+  *<p>Article URL: <a href="https://billwadge.com/2026/03/15/in-memoriam-john-w-addison-jr-my-phd-advisor/">https://billwadge.com/2026/03/15/in-memoriam-john-w-addison-jr-my-phd-advisor/</a></p>
+<p>Comme...*
+  📅 Sun, 15 Mar 2026 15:46:19 +0000
 
-- **[The Appalling Stupidity of Spotify's AI DJ](https://www.charlespetzold.com/blog/2026/02/The-Appalling-Stupidity-of-Spotifys-AI-DJ.html)**
-  *<p>Article URL: <a href="https://www.charlespetzold.com/blog/2026/02/The-Appalling-Stupidity-of-Spotifys-AI-DJ.html">https://www.charlespetzold.com/blog/2026/02/The-Appalling-Stupidity-of-Spotifys-AI-...*
-  📅 Sun, 15 Mar 2026 08:04:55 +0000
+- **[UMD Scientists Create 'Smart Underwear' to Measure Human Flatulence](https://cbmg.umd.edu/news-events/news/brantley-hall-umd-scientists-create-smart-underwear-measure-human-flatulence)**
+  *<p>Article URL: <a href="https://cbmg.umd.edu/news-events/news/brantley-hall-umd-scientists-create-smart-underwear-measure-human-flatulence">https://cbmg.umd.edu/news-events/news/brantley-hall-umd-sci...*
+  📅 Sun, 15 Mar 2026 15:45:24 +0000
 
-- **[Rack-mount hydroponics](https://sa.lj.am/rack-mount-hydroponics/)**
-  *<p>Article URL: <a href="https://sa.lj.am/rack-mount-hydroponics/">https://sa.lj.am/rack-mount-hydroponics/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=47384352">https://new...*
-  📅 Sun, 15 Mar 2026 04:23:43 +0000
-
-- **[A most elegant TCP hole punching algorithm](https://robertsdotpm.github.io/cryptography/tcp_hole_punching.html)**
-  *<p>Article URL: <a href="https://robertsdotpm.github.io/cryptography/tcp_hole_punching.html">https://robertsdotpm.github.io/cryptography/tcp_hole_punching.html</a></p>
-<p>Comments URL: <a href="https:...*
-  📅 Sun, 15 Mar 2026 03:29:17 +0000
+- **[Show HN: GDSL – 800 line kernel: Lisp subset in 500, C subset in 1300](https://firthemouse.github.io/)**
+  *<p>Article URL: <a href="https://firthemouse.github.io/">https://firthemouse.github.io/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=47388479">https://news.ycombinator.com/it...*
+  📅 Sun, 15 Mar 2026 15:40:13 +0000
 
 ### 📑 TechCrunch
+
+- **[Unacademy to be acquired by upGrad in share-swap deal as India’s edtech sector consolidates](https://techcrunch.com/2026/03/15/unacademy-to-be-acquired-by-upgrad-in-share-swap-deal-as-indias-edtech-sector-consolidates/)**
+  *The deal comes after Unacademy’s valuation plunged from $3.5B to under $500M, as India’s once-booming edtech sector struggles....*
+  📅 Sun, 15 Mar 2026 17:19:47 +0000
+
+- **[TechCrunch Mobility: Travis Kalanick’s return proves it really is 2016 again](https://techcrunch.com/2026/03/15/techcrunch-mobility-travis-kalanicks-return-proves-it-really-is-2016-again/)**
+  *Welcome back to TechCrunch Mobility — your central hub for news and insights on the future of transportation....*
+  📅 Sun, 15 Mar 2026 16:05:00 +0000
+
+- **[Wiz investor unpacks Google’s $32B acquisition](https://techcrunch.com/2026/03/15/wiz-investor-unpacks-googles-32b-acquisition/)**
+  *Shardul Shah of Index Ventures walks us through Google's biggest acquisition ever....*
+  📅 Sun, 15 Mar 2026 15:30:33 +0000
+
+- **[Rivian’s RJ Scaringe thinks we’re doing robots all wrong](https://techcrunch.com/2026/03/15/rivians-rj-scaringe-thinks-were-doing-robots-all-wrong/)**
+  *Rivian CEO RJ Scaringe shares his thoughts and plans for his newest startup, Mind Robotics....*
+  📅 Sun, 15 Mar 2026 14:30:00 +0000
 
 - **[The MacBook Neo is ‘the most repairable MacBook’ in years, according to iFixit](https://techcrunch.com/2026/03/14/the-macbook-neo-is-the-most-repairable-macbook-in-years-according-to-ifixit/)**
   *Apple’s new MacBook Neo isn’t just the most affordable MacBook — it’s also the company's most repairable laptop in “about fourteen years."...*
@@ -85,32 +100,15 @@
   *The Army described this as a single enterprise contract consolidating more than 120 separate "procurement actions."...*
   📅 Sat, 14 Mar 2026 20:47:47 +0000
 
-- **[Honda is killing its EVs — and any chance of competing in the future](https://techcrunch.com/2026/03/14/honda-is-killing-its-evs-and-any-chance-of-competing-in-the-future/)**
-  *Honda's decision to kill its three EVs for the U.S. market will reverberate far beyond North America....*
-  📅 Sat, 14 Mar 2026 17:23:24 +0000
-
-- **[Meta reportedly considering layoffs that could affect 20% of the company](https://techcrunch.com/2026/03/14/meta-reportedly-considering-layoffs-that-could-affect-20-of-the-company/)**
-  *These layoffs could help Facebook's parent company offset its aggressive spending on AI infrastructure, as well as AI-related acquisitions and hiring....*
-  📅 Sat, 14 Mar 2026 16:28:42 +0000
-
-- **[As people look for ways to make new friends, here are the apps promising to help](https://techcrunch.com/2026/03/14/as-people-look-for-ways-to-make-new-friends-here-are-the-apps-promising-to-help/)**
-  *We've compiled a list of friendship apps, from friend discovery platforms like BFF to event-focused ones like Timeleft....*
-  📅 Sat, 14 Mar 2026 16:00:00 +0000
-
-- **[How to use the new ChatGPT app integrations, including DoorDash, Spotify, Uber, and others](https://techcrunch.com/2026/03/14/how-to-use-the-new-chatgpt-app-integrations-including-doordash-spotify-uber-and-others/)**
-  *Learn how to use Spotify, Canva, Figma, Expedia, and other apps directly in ChatGPT....*
-  📅 Sat, 14 Mar 2026 13:00:00 +0000
-
 ### 📑 Dev.to
 
-- **[Node.js Internals: Read This Before Your Next Backend Interview](https://dev.to/kunal_dev/nodejs-internals-read-this-before-your-next-backend-interview-49ja)**
-  *<p>I was reading the <code>Node.js</code> <strong>official documentation</strong> to understand how <code>Node.js</code> actually works internally. <br />
-But honestly some parts felt a bit <strong>ha...*
-  📅 Sun, 15 Mar 2026 12:20:29 +0000
+- **[Ethni-CITY: The New Travel App](https://dev.to/ebukae/ethni-city-the-new-travel-app-3o64)**
+  *<p>If you're chronically online like I am, you're used to seeing tons of reels of people who travel to all these "authentic" destinations: Sao paulo, Marrakech, Cairo, Bangkok, and Bali. On Instagram ...*
+  📅 Sun, 15 Mar 2026 18:22:52 +0000
 
-- **[The Agentic Web Is Coming: Why Websites Will Soon Talk to AI Agents](https://dev.to/safdarali25/the-agentic-web-is-coming-why-websites-will-soon-talk-to-ai-agents-efp)**
-  *<p>For years, websites were built for <strong>humans</strong>. Now they are increasingly being built—or at least prepared—for <strong>AI agents</strong>. This shift is quietly changing how the web wor...*
-  📅 Sun, 15 Mar 2026 12:19:49 +0000
+- **[How I Built Encrypted Bluetooth Team Sync in Flutter — AES-256-GCM, ECDH, CRDTs, Zero Servers](https://dev.to/redgridtactical/how-i-built-encrypted-bluetooth-team-sync-in-flutter-aes-256-gcm-ecdh-crdts-zero-servers-40e2)**
+  *<p>There are plenty of places where cell towers don't exist. Mountains, forests, remote wilderness where the only infrastructure is what you carry. When your team spreads out across a few kilometers, ...*
+  📅 Sun, 15 Mar 2026 18:20:28 +0000
 
 </details>
 
@@ -118,105 +116,105 @@ But honestly some parts felt a bit <strong>ha...*
 
 ### 📈 Daily Trending
 
-- **[aiming-lab/AutoResearchClaw](https://github.com/aiming-lab/AutoResearchClaw)** ⭐ 112
+- **[aiming-lab/AutoResearchClaw](https://github.com/aiming-lab/AutoResearchClaw)** ⭐ 248
   ![Python](https://img.shields.io/badge/-Python-blue)
   Fully autonomous research from idea to paper. Chat an Idea. Get a Paper. Fully Autonomous. 🦞
 
-- **[sstklen/trump-code](https://github.com/sstklen/trump-code)** ⭐ 75
+- **[sstklen/trump-code](https://github.com/sstklen/trump-code)** ⭐ 167
   ![Python](https://img.shields.io/badge/-Python-blue)
   AI cryptanalysis of Trump's social media posts × stock market impact. 31.5M models tested, 551 survivors, 61.3% hit rate. Live dashboard + open data + API.
 
-- **[collaborator-ai/collab-public](https://github.com/collaborator-ai/collab-public)** ⭐ 44
+- **[deusyu/translate-book](https://github.com/deusyu/translate-book)** ⭐ 124
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  Claude Code skill that translates entire books (PDF/DOCX/EPUB) into any language using parallel subagents
+
+- **[collaborator-ai/collab-public](https://github.com/collaborator-ai/collab-public)** ⭐ 114
   ![Shell](https://img.shields.io/badge/-Shell-lightgrey)
   Collaborator is a place to build with agents.
 
-- **[get-Lucid/Lucid-Subnet](https://github.com/get-Lucid/Lucid-Subnet)** ⭐ 26
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  Bittensor subnet for real-time knowledge verification. Miners serve live package, API, and documentation data. Validators score on accuracy and freshness.
-
-- **[Lum1104/Understand-Anything](https://github.com/Lum1104/Understand-Anything)** ⭐ 17
+- **[Lum1104/Understand-Anything](https://github.com/Lum1104/Understand-Anything)** ⭐ 103
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   Claude Code skills that turn any codebase into an interactive knowledge graph you can explore, search, and ask questions about.
 
-- **[Foundation42/CASSANDRA](https://github.com/Foundation42/CASSANDRA)** ⭐ 15
-  ![Zig](https://img.shields.io/badge/-Zig-lightgrey)
-  OSINT:  Live map of the world's signals — news, ships, planes, and whatever comes next.
+- **[JoshKale/jobs](https://github.com/JoshKale/jobs)** ⭐ 101
+  ![HTML](https://img.shields.io/badge/-HTML-lightgrey)
+  None
 
-- **[regulatory-md/spec](https://github.com/regulatory-md/spec)** ⭐ 15
-  ![None](https://img.shields.io/badge/-None-lightgrey)
-  REGULATORY.md — Open standard for AI agent compliance mapping. ASF-14 in the Agentik Safety Framework.
+- **[kaima2022/ABCard](https://github.com/kaima2022/ABCard)** ⭐ 90
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  None
 
-- **[safeguard-md/spec](https://github.com/safeguard-md/spec)** ⭐ 14
-  ![None](https://img.shields.io/badge/-None-lightgrey)
-  SAFEGUARD.md — Open standard for AI agent pre-deployment safety audits. ASF-01 in the Agentik Safety Framework.
+- **[th3ee9ine/wechat-claw-skill](https://github.com/th3ee9ine/wechat-claw-skill)** ⭐ 51
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  微信公众号技能库，整合多种公众号能力，便于快速调用。
 
 ### 📈 Weekly Trending
 
-- **[garrytan/gstack](https://github.com/garrytan/gstack)** ⭐ 12,284
+- **[garrytan/gstack](https://github.com/garrytan/gstack)** ⭐ 13,174
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   Use Garry Tan's exact Claude Code setup: 6 opinionated tools that serve as CEO, Eng Manager, Release Manager and QA Engineer
 
-- **[davebcn87/pi-autoresearch](https://github.com/davebcn87/pi-autoresearch)** ⭐ 1,723
+- **[davebcn87/pi-autoresearch](https://github.com/davebcn87/pi-autoresearch)** ⭐ 1,787
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   Autonomous experiment loop extension for pi
 
-- **[TianyiDataScience/openclaw-control-center](https://github.com/TianyiDataScience/openclaw-control-center)** ⭐ 1,602
+- **[TianyiDataScience/openclaw-control-center](https://github.com/TianyiDataScience/openclaw-control-center)** ⭐ 1,690
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   Turn OpenClaw from a black box into a local control center you can see, trust, and control.
 
-- **[gsd-build/gsd-2](https://github.com/gsd-build/gsd-2)** ⭐ 1,259
-  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
-  A powerful meta-prompting, context engineering and spec-driven development system that enables agents to work for long periods of time autonomously without losing track of the big picture
-
-- **[pasky/chrome-cdp-skill](https://github.com/pasky/chrome-cdp-skill)** ⭐ 1,219
+- **[pasky/chrome-cdp-skill](https://github.com/pasky/chrome-cdp-skill)** ⭐ 1,335
   ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
   Give your AI agent access to your live Chrome session — works out of the box, connects to tabs you already have open
 
-- **[aiming-lab/MetaClaw](https://github.com/aiming-lab/MetaClaw)** ⭐ 1,199
+- **[gsd-build/gsd-2](https://github.com/gsd-build/gsd-2)** ⭐ 1,315
+  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
+  A powerful meta-prompting, context engineering and spec-driven development system that enables agents to work for long periods of time autonomously without losing track of the big picture
+
+- **[aiming-lab/MetaClaw](https://github.com/aiming-lab/MetaClaw)** ⭐ 1,264
   ![Python](https://img.shields.io/badge/-Python-blue)
   Just talk to your agent — it learns and EVOLVES.
 
-- **[wanshuiyin/Auto-claude-code-research-in-sleep](https://github.com/wanshuiyin/Auto-claude-code-research-in-sleep)** ⭐ 1,144
+- **[wanshuiyin/Auto-claude-code-research-in-sleep](https://github.com/wanshuiyin/Auto-claude-code-research-in-sleep)** ⭐ 1,255
   ![Python](https://img.shields.io/badge/-Python-blue)
   ARIS ⚔️ (Auto-Research-In-Sleep) — Claude Code skills for autonomous ML research: cross-model review loops, idea discovery, and experiment automation via Codex MCP
 
-- **[knowsuchagency/mcp2cli](https://github.com/knowsuchagency/mcp2cli)** ⭐ 1,033
+- **[knowsuchagency/mcp2cli](https://github.com/knowsuchagency/mcp2cli)** ⭐ 1,089
   ![Python](https://img.shields.io/badge/-Python-blue)
   Turn any MCP, OpenAPI, or GraphQL server into a CLI — at runtime, with zero codegen
 
 ### 📈 Monthly Trending
 
-- **[karpathy/autoresearch](https://github.com/karpathy/autoresearch)** ⭐ 35,202
+- **[karpathy/autoresearch](https://github.com/karpathy/autoresearch)** ⭐ 35,846
   ![Python](https://img.shields.io/badge/-Python-blue)
   AI agents running research on single-GPU nanochat training automatically
 
-- **[paperclipai/paperclip](https://github.com/paperclipai/paperclip)** ⭐ 23,745
+- **[paperclipai/paperclip](https://github.com/paperclipai/paperclip)** ⭐ 23,990
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   Open-source orchestration for zero-human companies
 
-- **[googleworkspace/cli](https://github.com/googleworkspace/cli)** ⭐ 20,428
+- **[googleworkspace/cli](https://github.com/googleworkspace/cli)** ⭐ 20,506
   ![Rust](https://img.shields.io/badge/-Rust-brown)
   Google Workspace CLI — one command-line tool for Drive, Gmail, Calendar, Sheets, Docs, Chat, Admin, and more. Dynamically built from Google Discovery Service. Includes AI agent skills.
 
-- **[AlexsJones/llmfit](https://github.com/AlexsJones/llmfit)** ⭐ 16,811
+- **[AlexsJones/llmfit](https://github.com/AlexsJones/llmfit)** ⭐ 16,906
   ![Rust](https://img.shields.io/badge/-Rust-brown)
   Hundreds of models & providers. One command to find what runs on your hardware.
 
-- **[HKUDS/CLI-Anything](https://github.com/HKUDS/CLI-Anything)** ⭐ 14,635
+- **[HKUDS/CLI-Anything](https://github.com/HKUDS/CLI-Anything)** ⭐ 14,992
   ![Python](https://img.shields.io/badge/-Python-blue)
   CLI-Anything: Making ALL Software Agent-Native
 
-- **[RightNow-AI/openfang](https://github.com/RightNow-AI/openfang)** ⭐ 14,459
+- **[RightNow-AI/openfang](https://github.com/RightNow-AI/openfang)** ⭐ 14,492
   ![Rust](https://img.shields.io/badge/-Rust-brown)
   Open-source Agent Operating System
 
-- **[openai/symphony](https://github.com/openai/symphony)** ⭐ 12,691
-  ![Elixir](https://img.shields.io/badge/-Elixir-lightgrey)
-  Symphony turns project work into isolated, autonomous implementation runs, allowing teams to manage work instead of supervising coding agents.
-
-- **[garrytan/gstack](https://github.com/garrytan/gstack)** ⭐ 12,285
+- **[garrytan/gstack](https://github.com/garrytan/gstack)** ⭐ 13,174
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   Use Garry Tan's exact Claude Code setup: 6 opinionated tools that serve as CEO, Eng Manager, Release Manager and QA Engineer
+
+- **[openai/symphony](https://github.com/openai/symphony)** ⭐ 12,738
+  ![Elixir](https://img.shields.io/badge/-Elixir-lightgrey)
+  Symphony turns project work into isolated, autonomous implementation runs, allowing teams to manage work instead of supervising coding agents.
 
 ## 🚀 Latest Releases
 
@@ -485,59 +483,59 @@ See [kubernetes-announce@](https://groups.google.com/forum/#!forum/kubernetes-an
 
 | Skill | Status |
 |-------|--------|
-| Java | ⚪ Planned |
-| Python | 🟡 Learning |
-| JavaScript | 🟢 Proficient |
+| Java | 🟡 Learning |
+| Python | 🟢 Proficient |
+| JavaScript | 🔴 Beginner |
 | TypeScript | ⚪ Planned |
-| Go | 🟡 Learning |
+| Go | 🟢 Proficient |
 
 ### Frameworks
 
 | Skill | Status |
 |-------|--------|
-| React | 🔴 Beginner |
-| Spring Boot | 🟢 Proficient |
-| Django | 🟢 Proficient |
-| Node.js | 🟡 Learning |
-| Next.js | ⚪ Planned |
+| React | 🟢 Proficient |
+| Spring Boot | 🔴 Beginner |
+| Django | 🟡 Learning |
+| Node.js | 🔴 Beginner |
+| Next.js | 🔴 Beginner |
 
 ### Cybersecurity
 
 | Skill | Status |
 |-------|--------|
-| Penetration Testing | ⚪ Planned |
+| Penetration Testing | 🟡 Learning |
 | Web Security | ⚪ Planned |
-| Network Security | 🟡 Learning |
+| Network Security | ⚪ Planned |
 | OWASP | 🟡 Learning |
 
 ### Ai Ml
 
 | Skill | Status |
 |-------|--------|
-| Machine Learning | 🔴 Beginner |
-| Deep Learning | 🟡 Learning |
-| NLP | 🟡 Learning |
-| Computer Vision | ⚪ Planned |
-| TensorFlow | ⚪ Planned |
+| Machine Learning | 🟢 Proficient |
+| Deep Learning | 🔴 Beginner |
+| NLP | ⚪ Planned |
+| Computer Vision | 🔴 Beginner |
+| TensorFlow | 🔴 Beginner |
 | PyTorch | ⚪ Planned |
 
 ### Devops
 
 | Skill | Status |
 |-------|--------|
-| Docker | 🟢 Proficient |
+| Docker | ⚪ Planned |
 | Kubernetes | 🔴 Beginner |
-| CI/CD | 🟢 Proficient |
-| AWS | 🟢 Proficient |
-| Azure | 🟢 Proficient |
+| CI/CD | 🔴 Beginner |
+| AWS | ⚪ Planned |
+| Azure | 🟡 Learning |
 
 ### Other
 
 | Skill | Status |
 |-------|--------|
-| Blockchain | 🟡 Learning |
-| Web3 | 🟢 Proficient |
-| Cloud Computing | 🟢 Proficient |
+| Blockchain | 🔴 Beginner |
+| Web3 | ⚪ Planned |
+| Cloud Computing | 🔴 Beginner |
 
 </details>
 
