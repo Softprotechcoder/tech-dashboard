@@ -46,33 +46,35 @@
 
 ### 📑 Hacker News
 
-- **[Why AI systems don't learn – On autonomous learning from cognitive science](https://arxiv.org/abs/2603.15381)**
-  *<p>Article URL: <a href="https://arxiv.org/abs/2603.15381">https://arxiv.org/abs/2603.15381</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=47418722">https://news.ycombinator.co...*
-  📅 Tue, 17 Mar 2026 21:42:39 +0000
+- **[Switzerland Built an Alternative to BGP](https://www.theregister.com/2026/03/17/switzerland_bgp_alternative/)**
+  *<p>Article URL: <a href="https://www.theregister.com/2026/03/17/switzerland_bgp_alternative/">https://www.theregister.com/2026/03/17/switzerland_bgp_alternative/</a></p>
+<p>Comments URL: <a href="http...*
+  📅 Wed, 18 Mar 2026 05:44:23 +0000
 
-- **[Mistral AI Releases Forge](https://mistral.ai/news/forge)**
-  *<p>Article URL: <a href="https://mistral.ai/news/forge">https://mistral.ai/news/forge</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=47418295">https://news.ycombinator.com/item...*
-  📅 Tue, 17 Mar 2026 21:04:26 +0000
+- **[SSH has no Host header](https://blog.exe.dev/ssh-host-header)**
+  *<p>Article URL: <a href="https://blog.exe.dev/ssh-host-header">https://blog.exe.dev/ssh-host-header</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=47421828">https://news.ycombi...*
+  📅 Wed, 18 Mar 2026 05:18:02 +0000
 
-- **[Meta and TikTok let harmful content rise to drove engagement, say whistleblowers](https://www.bbc.com/news/articles/cqj9kgxqjwjo)**
-  *<p>Article URL: <a href="https://www.bbc.com/news/articles/cqj9kgxqjwjo">https://www.bbc.com/news/articles/cqj9kgxqjwjo</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=47417814"...*
-  📅 Tue, 17 Mar 2026 20:24:33 +0000
+- **[Forget Flags and Scripts: Just Rename the File](https://robertsdotpm.github.io/software_engineering/program_names_as_input.html)**
+  *<p>Article URL: <a href="https://robertsdotpm.github.io/software_engineering/program_names_as_input.html">https://robertsdotpm.github.io/software_engineering/program_names_as_input.html</a></p>
+<p>Com...*
+  📅 Wed, 18 Mar 2026 04:11:20 +0000
 
-- **[Get Shit Done: A Meta-Prompting, Context Engineering and Spec-Driven Dev System](https://github.com/gsd-build/get-shit-done)**
-  *<p>Article URL: <a href="https://github.com/gsd-build/get-shit-done">https://github.com/gsd-build/get-shit-done</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=47417804">https:/...*
-  📅 Tue, 17 Mar 2026 20:23:39 +0000
+- **[Have a Fucking Website](https://www.otherstrangeness.com/2026/03/14/have-a-fucking-website/)**
+  *<p>Article URL: <a href="https://www.otherstrangeness.com/2026/03/14/have-a-fucking-website/">https://www.otherstrangeness.com/2026/03/14/have-a-fucking-website/</a></p>
+<p>Comments URL: <a href="http...*
+  📅 Wed, 18 Mar 2026 03:53:42 +0000
 
-- **[Launch HN: Kita (YC W26) – Automate credit review in emerging markets](https://news.ycombinator.com/item?id=47417335)**
-  *<p>Hey HN! We’re Carmel and Rhea, the founders of Kita (<a href="https://www.usekita.com/">https://www.usekita.com/</a>). We automate credit review for lenders in emerging markets using VLMs.<p>In man...*
-  📅 Tue, 17 Mar 2026 19:46:29 +0000
+- **[Launch an autonomous AI agent with sandboxed execution in 2 lines of code](https://amaiya.github.io/onprem/examples_agent.html)**
+  *<p>Article URL: <a href="https://amaiya.github.io/onprem/examples_agent.html">https://amaiya.github.io/onprem/examples_agent.html</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id...*
+  📅 Wed, 18 Mar 2026 01:10:19 +0000
 
-- **[Meta Horizon Worlds on Meta Quest is being discontinued](https://communityforums.atmeta.com/blog/AnnouncementsBlog/updates-to-your-meta-quest-experience-in-2026/1369435)**
-  *<p>Article URL: <a href="https://communityforums.atmeta.com/blog/AnnouncementsBlog/updates-to-your-meta-quest-experience-in-2026/1369435">https://communityforums.atmeta.com/blog/AnnouncementsBlog/upda...*
-  📅 Tue, 17 Mar 2026 19:17:16 +0000
+- **[The pleasures of poor product design](https://www.inconspicuous.info/p/the-pleasures-of-poor-product-design)**
+  *<p>Article URL: <a href="https://www.inconspicuous.info/p/the-pleasures-of-poor-product-design">https://www.inconspicuous.info/p/the-pleasures-of-poor-product-design</a></p>
+<p>Comments URL: <a href="...*
+  📅 Wed, 18 Mar 2026 01:00:45 +0000
 
 ### 📑 TechCrunch
 
@@ -102,16 +104,21 @@
 
 ### 📑 Dev.to
 
-- **[Securing Cloud Credentials in Regulated Environments: Mitigating Leakage Risks with Enhanced Distribution Controls](https://dev.to/alitron/securing-cloud-credentials-in-regulated-environments-mitigating-leakage-risks-with-enhanced-33ko)**
-  *<p><a class="article-body-image-wrapper" href="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fupl...*
-  📅 Wed, 18 Mar 2026 01:19:54 +0000
+- **[$99 vs $49 vs $5: The Honest Landing Page Builder Comparison](https://dev.to/abirbuilds/99-vs-49-vs-5-the-honest-landing-page-builder-comparison-23e6)**
+  *<p>If you have ever searched for a landing page builder, you already know how this goes.<br />
+You find a tool that looks good. You click pricing. You see $99 a month. You close the tab.<br />
+This ha...*
+  📅 Wed, 18 Mar 2026 06:48:12 +0000
 
-- **[Built this after watching Claude install packages that don't exist. Turns out closing the feedback loop is all it needed.](https://dev.to/tuckerschreiber/built-this-after-watching-claude-install-packages-that-dont-exist-turns-out-closing-the-feedback-13c5)**
-  *<div class="ltag__link">
-  <a class="ltag__link__link" href="https://dev.to/tuckerschreiber">
-    <div class="ltag__link__pic">
-      <img alt="tuckerschreiber" src="https://media2.dev.to/dynamic/imag...*
-  📅 Wed, 18 Mar 2026 01:14:00 +0000
+- **[How We Built an AI Agent in 48 Hours](https://dev.to/emma_schmidt_/how-we-built-an-ai-agent-in-48-hours-1l4p)**
+  *<h2>
+  
+  
+  Executive Summary
+</h2>
+
+<p>AI agent development is the engineering discipline of designing autonomous software systems that perceive context, reason over structured and unstructured data...*
+  📅 Wed, 18 Mar 2026 06:47:05 +0000
 
 </details>
 
@@ -123,99 +130,99 @@
   ![Solidity](https://img.shields.io/badge/-Solidity-lightgrey)
   Uniswap V3 arbitrage bot 2026 – mempool sniper with real profits
 
-- **[raphaelbarbosaqwerty/shazam-cli](https://github.com/raphaelbarbosaqwerty/shazam-cli)** ⭐ 3
-  ![Elixir](https://img.shields.io/badge/-Elixir-lightgrey)
-  Autonomous AI Agent Teams
-
-- **[LeonardoQuerci/Curso-Gratuito-PHP](https://github.com/LeonardoQuerci/Curso-Gratuito-PHP)** ⭐ 2
+- **[Albert-Weasker/socialplugscam](https://github.com/Albert-Weasker/socialplugscam)** ⭐ 56
   ![None](https://img.shields.io/badge/-None-lightgrey)
-  Projeto desenvolvido na disciplina DevOps, para aprendermos utilizar o versionamento de códigos em equipes
+  Evidence Archive & Victim Support for SocialPlug.io Fraud. Documenting non-delivery, refund stalling, and fake engagement patterns by CB Solutions OÜ (Estonia). Before you pay, read the archive.
 
-- **[timesentry/agentsentry](https://github.com/timesentry/agentsentry)** ⭐ 2
-  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
-  Lightweight agent chronometry tooling
-
-- **[lipingtababa/harness-engineering-playbook](https://github.com/lipingtababa/harness-engineering-playbook)** ⭐ 2
+- **[lifedever/claude-rules](https://github.com/lifedever/claude-rules)** ⭐ 11
   ![None](https://img.shields.io/badge/-None-lightgrey)
-  A practical framework to ship quality software with AI agents in team environments
+  Coding standards for AI coding assistants. Auto-detect tech stack, generate project rules. Works with Claude Code, Cursor, Windsurf, GitHub Copilot.
 
-- **[3886370410/ZUZNvIDDyZ](https://github.com/3886370410/ZUZNvIDDyZ)** ⭐ 1
+- **[hasaneyldrm/exercises-dataset](https://github.com/hasaneyldrm/exercises-dataset)** ⭐ 9
   ![None](https://img.shields.io/badge/-None-lightgrey)
-  【Python计算机毕业设计分享】基于Python的贫困生资助管理系统，MySQL Python开发 毕业设计 实战项目【附源码、文档报告、代码讲解】
-
-- **[5771323yang/nbcJKEilXr](https://github.com/5771323yang/nbcJKEilXr)** ⭐ 1
-  ![None](https://img.shields.io/badge/-None-lightgrey)
-  【Java计算机毕业设计分享】基于SpringBoot的校园二手物品置换系统，MySQL Java开发 毕业设计 实战项目【附源码、文档报告、代码讲解】
-
-- **[mramey-dev/martins-aquarium](https://github.com/mramey-dev/martins-aquarium)** ⭐ 1
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
   None
+
+- **[ruihanglix/zoro](https://github.com/ruihanglix/zoro)** ⭐ 8
+  ![Rust](https://img.shields.io/badge/-Rust-brown)
+  Read papers in your language. Let AI manage your library. | 用母语读论文，让 AI 管理文献库。
+
+- **[little-daimi/ProtoCMiner](https://github.com/little-daimi/ProtoCMiner)** ⭐ 7
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  An automatically proto-c reverse IDA plugin
+
+- **[shynloc/CloudFlare-R2-LocalPicManager](https://github.com/shynloc/CloudFlare-R2-LocalPicManager)** ⭐ 7
+  ![HTML](https://img.shields.io/badge/-HTML-lightgrey)
+  基于Cloudflare R2 + Worker搭建图床管理器，使用本地可运行的HTML即可实现图片上传，文件夹管理，图片二次裁切，复制插图链接等功能。
+
+- **[notque/ai-overkill](https://github.com/notque/ai-overkill)** ⭐ 6
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  the ai system i use, just point your ai system to it and ask it if anything is useful to incorporate into yours.
 
 ### 📈 Weekly Trending
 
-- **[NVIDIA/NemoClaw](https://github.com/NVIDIA/NemoClaw)** ⭐ 4,254
-  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
-  NVIDIA plugin for secure installation of OpenClaw
-
-- **[aiming-lab/AutoResearchClaw](https://github.com/aiming-lab/AutoResearchClaw)** ⭐ 4,156
+- **[aiming-lab/AutoResearchClaw](https://github.com/aiming-lab/AutoResearchClaw)** ⭐ 5,035
   ![Python](https://img.shields.io/badge/-Python-blue)
   Fully autonomous & self-evolving research from idea to paper. Chat an Idea. Get a Paper. 🦞
 
-- **[calesthio/Crucix](https://github.com/calesthio/Crucix)** ⭐ 3,070
+- **[NVIDIA/NemoClaw](https://github.com/NVIDIA/NemoClaw)** ⭐ 4,792
+  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
+  NVIDIA plugin for secure installation of OpenClaw
+
+- **[calesthio/Crucix](https://github.com/calesthio/Crucix)** ⭐ 3,359
   ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
   Your personal intelligence agent. Watches the world from multiple data sources and pings you when something changes.
 
-- **[webadderall/Recordly](https://github.com/webadderall/Recordly)** ⭐ 2,350
+- **[webadderall/Recordly](https://github.com/webadderall/Recordly)** ⭐ 2,387
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
-  A free, open-source Screen Studio alternative that adds auto-zoom, cursor animations and more to your screen recordings. Substantially modifies the OpenScreen foundation.
+  A free, open-source Screen Studio alternative that adds auto-zoom, cursor animations and more to your screen recordings.
 
-- **[pasky/chrome-cdp-skill](https://github.com/pasky/chrome-cdp-skill)** ⭐ 2,061
+- **[pasky/chrome-cdp-skill](https://github.com/pasky/chrome-cdp-skill)** ⭐ 2,108
   ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
   Give your AI agent access to your live Chrome session — works out of the box, connects to tabs you already have open
 
-- **[Narcooo/inkos](https://github.com/Narcooo/inkos)** ⭐ 1,444
-  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
-  Autonomous novel writing CLI agent — AI agents write, audit, and revise novels with human review gates
-
-- **[MoonshotAI/Attention-Residuals](https://github.com/MoonshotAI/Attention-Residuals)** ⭐ 1,393
+- **[MoonshotAI/Attention-Residuals](https://github.com/MoonshotAI/Attention-Residuals)** ⭐ 1,573
   ![None](https://img.shields.io/badge/-None-lightgrey)
   None
 
-- **[jackwener/opencli](https://github.com/jackwener/opencli)** ⭐ 1,361
+- **[Narcooo/inkos](https://github.com/Narcooo/inkos)** ⭐ 1,524
+  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
+  Autonomous novel writing CLI agent — AI agents write, audit, and revise novels with human review gates
+
+- **[jackwener/opencli](https://github.com/jackwener/opencli)** ⭐ 1,440
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   Make any website your CLI. A powerful, AI-native runtime for seamless browser automation and dynamic web data extraction.
 
 ### 📈 Monthly Trending
 
-- **[karpathy/autoresearch](https://github.com/karpathy/autoresearch)** ⭐ 40,464
+- **[karpathy/autoresearch](https://github.com/karpathy/autoresearch)** ⭐ 40,890
   ![Python](https://img.shields.io/badge/-Python-blue)
   AI agents running research on single-GPU nanochat training automatically
 
-- **[paperclipai/paperclip](https://github.com/paperclipai/paperclip)** ⭐ 28,080
+- **[paperclipai/paperclip](https://github.com/paperclipai/paperclip)** ⭐ 28,300
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   Open-source orchestration for zero-human companies
 
-- **[googleworkspace/cli](https://github.com/googleworkspace/cli)** ⭐ 21,215
-  ![Rust](https://img.shields.io/badge/-Rust-brown)
-  Google Workspace CLI — one command-line tool for Drive, Gmail, Calendar, Sheets, Docs, Chat, Admin, and more. Dynamically built from Google Discovery Service. Includes AI agent skills.
-
-- **[garrytan/gstack](https://github.com/garrytan/gstack)** ⭐ 20,700
+- **[garrytan/gstack](https://github.com/garrytan/gstack)** ⭐ 21,621
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   Use Garry Tan's exact Claude Code setup: 10 opinionated tools that serve as CEO, Eng Manager, Release Manager, Doc Engineer, and QA
 
-- **[HKUDS/CLI-Anything](https://github.com/HKUDS/CLI-Anything)** ⭐ 17,774
+- **[googleworkspace/cli](https://github.com/googleworkspace/cli)** ⭐ 21,275
+  ![Rust](https://img.shields.io/badge/-Rust-brown)
+  Google Workspace CLI — one command-line tool for Drive, Gmail, Calendar, Sheets, Docs, Chat, Admin, and more. Dynamically built from Google Discovery Service. Includes AI agent skills.
+
+- **[HKUDS/CLI-Anything](https://github.com/HKUDS/CLI-Anything)** ⭐ 18,060
   ![Python](https://img.shields.io/badge/-Python-blue)
   CLI-Anything: Making ALL Software Agent-Native
 
-- **[RightNow-AI/openfang](https://github.com/RightNow-AI/openfang)** ⭐ 14,804
+- **[RightNow-AI/openfang](https://github.com/RightNow-AI/openfang)** ⭐ 14,833
   ![Rust](https://img.shields.io/badge/-Rust-brown)
   Open-source Agent Operating System
 
-- **[openai/symphony](https://github.com/openai/symphony)** ⭐ 13,207
+- **[openai/symphony](https://github.com/openai/symphony)** ⭐ 13,255
   ![Elixir](https://img.shields.io/badge/-Elixir-lightgrey)
   Symphony turns project work into isolated, autonomous implementation runs, allowing teams to manage work instead of supervising coding agents.
 
-- **[agentscope-ai/CoPaw](https://github.com/agentscope-ai/CoPaw)** ⭐ 12,465
+- **[agentscope-ai/CoPaw](https://github.com/agentscope-ai/CoPaw)** ⭐ 12,521
   ![Python](https://img.shields.io/badge/-Python-blue)
   Your Personal AI Assistant; easy to install, deploy on your own machine or on the cloud; supports multiple chat apps with easily extensible capabilities.
 
@@ -487,58 +494,58 @@ See [kubernetes-announce@](https://groups.google.com/forum/#!forum/kubernetes-an
 | Skill | Status |
 |-------|--------|
 | Java | ⚪ Planned |
-| Python | 🔴 Beginner |
-| JavaScript | 🟡 Learning |
-| TypeScript | ⚪ Planned |
-| Go | 🟡 Learning |
+| Python | 🟡 Learning |
+| JavaScript | ⚪ Planned |
+| TypeScript | 🟢 Proficient |
+| Go | ⚪ Planned |
 
 ### Frameworks
 
 | Skill | Status |
 |-------|--------|
-| React | ⚪ Planned |
-| Spring Boot | ⚪ Planned |
-| Django | 🟢 Proficient |
-| Node.js | 🟢 Proficient |
-| Next.js | 🟢 Proficient |
+| React | 🔴 Beginner |
+| Spring Boot | 🟡 Learning |
+| Django | ⚪ Planned |
+| Node.js | 🔴 Beginner |
+| Next.js | 🔴 Beginner |
 
 ### Cybersecurity
 
 | Skill | Status |
 |-------|--------|
-| Penetration Testing | 🟡 Learning |
-| Web Security | 🟡 Learning |
-| Network Security | 🟢 Proficient |
-| OWASP | ⚪ Planned |
+| Penetration Testing | ⚪ Planned |
+| Web Security | ⚪ Planned |
+| Network Security | 🔴 Beginner |
+| OWASP | 🟢 Proficient |
 
 ### Ai Ml
 
 | Skill | Status |
 |-------|--------|
-| Machine Learning | 🟡 Learning |
-| Deep Learning | ⚪ Planned |
+| Machine Learning | ⚪ Planned |
+| Deep Learning | 🔴 Beginner |
 | NLP | 🟡 Learning |
-| Computer Vision | 🔴 Beginner |
-| TensorFlow | 🔴 Beginner |
-| PyTorch | 🟢 Proficient |
+| Computer Vision | 🟡 Learning |
+| TensorFlow | 🟢 Proficient |
+| PyTorch | ⚪ Planned |
 
 ### Devops
 
 | Skill | Status |
 |-------|--------|
-| Docker | 🔴 Beginner |
-| Kubernetes | 🟡 Learning |
-| CI/CD | 🔴 Beginner |
-| AWS | 🟡 Learning |
+| Docker | ⚪ Planned |
+| Kubernetes | 🟢 Proficient |
+| CI/CD | 🟢 Proficient |
+| AWS | 🟢 Proficient |
 | Azure | 🟢 Proficient |
 
 ### Other
 
 | Skill | Status |
 |-------|--------|
-| Blockchain | 🟢 Proficient |
-| Web3 | ⚪ Planned |
-| Cloud Computing | 🟢 Proficient |
+| Blockchain | ⚪ Planned |
+| Web3 | 🔴 Beginner |
+| Cloud Computing | ⚪ Planned |
 
 </details>
 
