@@ -46,71 +46,72 @@
 
 ### 📑 Hacker News
 
-- **[Entso-E final report on Iberian 2025 blackout](https://www.entsoe.eu/publications/blackout/28-april-2025-iberian-blackout/)**
-  *<p>Article URL: <a href="https://www.entsoe.eu/publications/blackout/28-april-2025-iberian-blackout/">https://www.entsoe.eu/publications/blackout/28-april-2025-iberian-blackout/</a></p>
-<p>Comments UR...*
-  📅 Fri, 20 Mar 2026 11:03:27 +0000
+- **[Delve – Fake Compliance as a Service](https://substack.com/home/post/p-191342187)**
+  *<p>Article URL: <a href="https://substack.com/home/post/p-191342187">https://substack.com/home/post/p-191342187</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=47458310">https:/...*
+  📅 Fri, 20 Mar 2026 18:03:45 +0000
 
-- **[3M's PFAS exit killed the supply chain for two-phase immersion cooling in DCs](https://thecoolingreport.com/intel.html)**
-  *<p>Article URL: <a href="https://thecoolingreport.com/intel.html">https://thecoolingreport.com/intel.html</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=47452828">https://news....*
-  📅 Fri, 20 Mar 2026 10:46:15 +0000
+- **[Launch HN: Sitefire (YC W26) – Automating actions to improve AI visibility](https://news.ycombinator.com/item?id=47457472)**
+  *<p>Hi HN! We're Vincent and Jochen from sitefire (<a href="https://sitefire.ai">https://sitefire.ai</a>). Our platform makes it easy for brands to improve their visibility in AI search.<p>We’ve been w...*
+  📅 Fri, 20 Mar 2026 17:05:38 +0000
 
-- **[Show HN: Sonar – A tiny CLI to see and kill whatever's running on localhost](https://github.com/RasKrebs/sonar)**
-  *<p>Article URL: <a href="https://github.com/RasKrebs/sonar">https://github.com/RasKrebs/sonar</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=47452515">https://news.ycombinator....*
-  📅 Fri, 20 Mar 2026 09:59:56 +0000
+- **[MacBook M5 Pro and Qwen3.5 = Local AI Security System](https://www.sharpai.org/benchmark/)**
+  *<p>Article URL: <a href="https://www.sharpai.org/benchmark/">https://www.sharpai.org/benchmark/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=47457107">https://news.ycombinato...*
+  📅 Fri, 20 Mar 2026 16:41:42 +0000
 
-- **[Cursor Composer 2 is just Kimi K2.5 with RL](https://twitter.com/fynnso/status/2034706304875602030)**
-  *<p>Article URL: <a href="https://twitter.com/fynnso/status/2034706304875602030">https://twitter.com/fynnso/status/2034706304875602030</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/ite...*
-  📅 Fri, 20 Mar 2026 09:41:51 +0000
+- **[90% of crypto's Illinois primary spending failed to achieve its objective](https://www.mollywhite.net/micro/entry/202603172318)**
+  *<p>Article URL: <a href="https://www.mollywhite.net/micro/entry/202603172318">https://www.mollywhite.net/micro/entry/202603172318</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id...*
+  📅 Fri, 20 Mar 2026 16:34:04 +0000
 
-- **[The Soul of a Pedicab Driver](https://www.sheldonbrown.com/pedicab.html)**
-  *<p>Article URL: <a href="https://www.sheldonbrown.com/pedicab.html">https://www.sheldonbrown.com/pedicab.html</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=47452399">https://n...*
-  📅 Fri, 20 Mar 2026 09:40:56 +0000
+- **[Oregon school cell phone ban: 'Engaged students, joyful teachers'](https://portlandtribune.com/2026/03/18/oregon-school-cell-phone-ban-engaged-students-joyful-teachers/)**
+  *<p>Article URL: <a href="https://portlandtribune.com/2026/03/18/oregon-school-cell-phone-ban-engaged-students-joyful-teachers/">https://portlandtribune.com/2026/03/18/oregon-school-cell-phone-ban-enga...*
+  📅 Fri, 20 Mar 2026 15:39:19 +0000
 
-- **[ArXiv Declares Independence from Cornell](https://www.science.org/content/article/arxiv-pioneering-preprint-server-declares-independence-cornell)**
-  *<p>Article URL: <a href="https://www.science.org/content/article/arxiv-pioneering-preprint-server-declares-independence-cornell">https://www.science.org/content/article/arxiv-pioneering-preprint-serve...*
-  📅 Fri, 20 Mar 2026 04:24:11 +0000
+- **[Having Kids (2019)](https://paulgraham.com/kids.html)**
+  *<p>Article URL: <a href="https://paulgraham.com/kids.html">https://paulgraham.com/kids.html</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=47455489">https://news.ycombinator.co...*
+  📅 Fri, 20 Mar 2026 14:56:03 +0000
 
 ### 📑 TechCrunch
 
-- **[The best AI investment might be in energy tech](https://techcrunch.com/2026/03/20/the-best-ai-investment-might-be-in-energy-tech/)**
-  *Power has become one of the biggest bottlenecks in rolling out new AI data centers. That's creating an opening for investors....*
-  📅 Fri, 20 Mar 2026 12:00:00 +0000
+- **[Why scientists can’t get a laugh](https://techcrunch.com/2026/03/20/why-scientists-cant-get-a-laugh/)**
+  *Humor is hard to pull off in front of a cold audience, full stop....*
+  📅 Fri, 20 Mar 2026 17:39:06 +0000
 
-- **[These AI notetaking devices can help you record and transcribe your meetings](https://techcrunch.com/2026/03/20/ai-notetaker-hardware-devices-pins-pendants-record-transcribe/)**
-  *These physical notetakers transcribe audio and give users summaries and action items of meetings using AI. Some even offer live translation....*
-  📅 Fri, 20 Mar 2026 11:31:38 +0000
+- **[A French Navy officer accidentally leaked the location of an aircraft carrier by logging his run on Strava](https://techcrunch.com/2026/03/20/a-french-navy-officer-accidentally-leaked-the-location-of-an-aircraft-carrier-by-logging-his-run-on-strava/)**
+  *A French naval officer went on a run around the deck of the Charles de Gaulle aircraft carrier, inadvertently leaking the warship's location when he uploaded the workout to Strava....*
+  📅 Fri, 20 Mar 2026 17:21:18 +0000
 
-- **[Amazon acquires Rivr, maker of a stair-climbing delivery robot](https://techcrunch.com/2026/03/19/amazon-acquires-rivr-maker-of-a-stair-climbing-delivery-robot/)**
-  *Amazon and Jeff Bezos had previously invested in the startup. The deal signals the e-commerce giant's interest in doorstep delivery....*
-  📅 Thu, 19 Mar 2026 23:28:37 +0000
+- **[WordPress.com now lets AI agents write and publish posts, and more](https://techcrunch.com/2026/03/20/wordpress-com-now-lets-ai-agents-write-and-publish-posts-and-more/)**
+  *New AI agents on WordPress.com could lower barriers to publishing while increasing machine-generated content across the web....*
+  📅 Fri, 20 Mar 2026 16:43:09 +0000
 
-- **[Jeff Bezos reportedly wants $100 billion to buy and transform old manufacturing firms with AI](https://techcrunch.com/2026/03/19/jeff-bezos-reportedly-wants-100-billion-to-buy-and-transform-old-manufacturing-firms-with-ai/)**
-  *The Amazon magnate has a new project centered around acquiring industrial firms and revamping them with AI technology....*
-  📅 Thu, 19 Mar 2026 22:09:24 +0000
+- **[Jeff Bezos’ Blue Origin enters the space data center game](https://techcrunch.com/2026/03/20/jeff-bezos-blue-origin-enters-the-space-data-center-game/)**
+  *"Project Sunrise" would include more than 50,000 satellites performing high-energy compute on orbit....*
+  📅 Fri, 20 Mar 2026 16:27:43 +0000
 
-- **[Employees had to restrain a dancing humanoid robot after it went wild at a California restaurant](https://techcrunch.com/2026/03/19/restaurant-dancing-robot-went-wild-hot-pot-cupertino-haidilao-agibot/)**
-  *A dancing robot in a Haidilao hot pot restaurant boogied down a little too hard....*
-  📅 Thu, 19 Mar 2026 21:13:50 +0000
+- **[US accuses Iran’s government of operating hacktivist group that hacked Stryker](https://techcrunch.com/2026/03/20/u-s-accuses-irans-government-of-operating-hacktivist-group-that-hacked-stryker/)**
+  *The U.S. Justice Department said an Iranian security ministry operates the fake activist persona known as Handala, which claimed responsibility for the destructive hack targeting medical tech giant St...*
+  📅 Fri, 20 Mar 2026 16:18:57 +0000
 
-- **[Polymarket continues its partnership spree with a Major League Baseball deal](https://techcrunch.com/2026/03/19/polymarket-continues-its-partnership-spree-with-a-major-league-baseball-deal/)**
-  *MLB is only the latest in a string of recently announced partnerships involving the prediction market....*
-  📅 Thu, 19 Mar 2026 19:46:30 +0000
+- **[Trump’s AI framework targets state laws, shifts child safety burden to parents](https://techcrunch.com/2026/03/20/trumps-ai-framework-targets-state-laws-shifts-child-safety-burden-to-parents/)**
+  *Trump’s AI framework pushes federal preemption of state laws, emphasizes innovation, and shifts responsibility for child safety toward parents while laying out lighter-touch rules for tech companies....*
+  📅 Fri, 20 Mar 2026 16:14:04 +0000
 
 ### 📑 Dev.to
 
-- **[12 Things Nobody Tells You About Building a Production RAG System](https://dev.to/snathan/12-things-nobody-tells-you-about-building-a-production-rag-system-1pp1)**
-  *<p>I spent several months building <a href="https://ask360.app" rel="noopener noreferrer">Ask360</a>, a multi-tenant RAG platform that lets anyone upload documents and deploy an AI assistant with sour...*
-  📅 Fri, 20 Mar 2026 12:31:00 +0000
+- **[Echoes of Experience: What Building Real Systems Taught Me About Being a Developer](https://dev.to/gilly7/echoes-of-experience-what-building-real-systems-taught-me-about-being-a-developer-591i)**
+  *<p><strong>Introduction</strong></p>
 
-- **[NordPass vs Dashlane 2026: Which Password Manager Wins for Developers?](https://dev.to/theawesomeblog/nordpass-vs-dashlane-2026-which-password-manager-wins-for-developers-5f57)**
-  *<blockquote>
-<p><strong>TL;DR:</strong> <a href="https://www.dashlane.com/" rel="noopener noreferrer">Dashlane</a> wins for solo developers who want premium features and don't mind paying $4.99/month....*
-  📅 Fri, 20 Mar 2026 12:29:12 +0000
+<p>When people imagine a software developer, they often picture someone writing elegant code in a quiet environment.<br />
+My experience has been very different.<...*
+  📅 Fri, 20 Mar 2026 18:20:33 +0000
+
+- **[Light and Shadow Settings - Unreal Engine](https://dev.to/adbhut/light-and-shadow-settings-unreal-engine-298p)**
+  *<p>For someone who has been working with Unreal Engine for just about a year, the learning curve can feel pretty steep. The engine exposes a huge number of properties and console variables, and when y...*
+  📅 Fri, 20 Mar 2026 18:10:53 +0000
 
 </details>
 
@@ -118,103 +119,103 @@
 
 ### 📈 Daily Trending
 
-- **[nullpo-head/sutatikku](https://github.com/nullpo-head/sutatikku)** ⭐ 51
+- **[nullpo-head/sutatikku](https://github.com/nullpo-head/sutatikku)** ⭐ 59
   ![Rust](https://img.shields.io/badge/-Rust-brown)
   Turn any executables to a single binary ELF application
 
-- **[skill-sonar/Skill-Sonar](https://github.com/skill-sonar/Skill-Sonar)** ⭐ 38
+- **[skill-sonar/Skill-Sonar](https://github.com/skill-sonar/Skill-Sonar)** ⭐ 46
   ![None](https://img.shields.io/badge/-None-lightgrey)
   A lifecycle guard skill.
 
-- **[thesophiaxu/contextd](https://github.com/thesophiaxu/contextd)** ⭐ 26
-  ![Swift](https://img.shields.io/badge/-Swift-lightgrey)
-  An efficient macOS app that continuously captures your screen activity, summarizes it with an LLM, and makes it available for other local tools.
-
-- **[wuyao4/c2a-py](https://github.com/wuyao4/c2a-py)** ⭐ 26
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  None
-
-- **[killop/code-review-skill](https://github.com/killop/code-review-skill)** ⭐ 26
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  None
-
-- **[lehdqlsl/opencode-claude-auth-sync](https://github.com/lehdqlsl/opencode-claude-auth-sync)** ⭐ 25
+- **[lehdqlsl/opencode-claude-auth-sync](https://github.com/lehdqlsl/opencode-claude-auth-sync)** ⭐ 43
   ![Shell](https://img.shields.io/badge/-Shell-lightgrey)
   Sync Claude CLI credentials to OpenCode — no separate Anthropic login needed
 
-- **[jnMetaCode/superpowers-zh](https://github.com/jnMetaCode/superpowers-zh)** ⭐ 23
+- **[thesophiaxu/contextd](https://github.com/thesophiaxu/contextd)** ⭐ 31
+  ![Swift](https://img.shields.io/badge/-Swift-lightgrey)
+  An efficient macOS app that continuously captures your screen activity, summarizes it with an LLM, and makes it available for other local tools.
+
+- **[jnMetaCode/superpowers-zh](https://github.com/jnMetaCode/superpowers-zh)** ⭐ 31
   ![Shell](https://img.shields.io/badge/-Shell-lightgrey)
   AI 编程超能力中文版 — superpowers 完整汉化 + 中国特色 skills（Gitee/Coding 工作流、中文排版、MCP 构建）
 
-- **[7836246/cursoride2api](https://github.com/7836246/cursoride2api)** ⭐ 23
+- **[shahidshabbir-se/opencode-anthropic-oauth](https://github.com/shahidshabbir-se/opencode-anthropic-oauth)** ⭐ 31
+  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
+  OpenCode plugin for Anthropic Claude Pro/Max OAuth login — no Claude Code needed.
+
+- **[7836246/cursoride2api](https://github.com/7836246/cursoride2api)** ⭐ 30
   ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
   Cursor IDE API 逆向工程教程
 
+- **[killop/code-review-skill](https://github.com/killop/code-review-skill)** ⭐ 27
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  None
+
 ### 📈 Weekly Trending
 
-- **[NVIDIA/NemoClaw](https://github.com/NVIDIA/NemoClaw)** ⭐ 13,951
+- **[NVIDIA/NemoClaw](https://github.com/NVIDIA/NemoClaw)** ⭐ 14,175
   ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
-  NVIDIA plugin for secure installation of OpenClaw
+  Run OpenClaw securely inside NVIDIA OpenShell with managed inference
 
-- **[aiming-lab/AutoResearchClaw](https://github.com/aiming-lab/AutoResearchClaw)** ⭐ 7,001
+- **[aiming-lab/AutoResearchClaw](https://github.com/aiming-lab/AutoResearchClaw)** ⭐ 7,085
   ![Python](https://img.shields.io/badge/-Python-blue)
   Fully autonomous & self-evolving research from idea to paper. Chat an Idea. Get a Paper. 🦞
 
-- **[calesthio/Crucix](https://github.com/calesthio/Crucix)** ⭐ 5,422
+- **[calesthio/Crucix](https://github.com/calesthio/Crucix)** ⭐ 5,621
   ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
   Your personal intelligence agent. Watches the world from multiple data sources and pings you when something changes.
 
-- **[jackwener/opencli](https://github.com/jackwener/opencli)** ⭐ 2,814
+- **[jackwener/opencli](https://github.com/jackwener/opencli)** ⭐ 3,015
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
-  Make any website your CLI. A powerful, AI-native runtime for seamless browser automation and dynamic web data extraction.
+  Make Any Website & Tool Your CLI. A universal CLI Hub and AI-native runtime. Transform any website, Electron app, or local binary into a standardized command-line interface. Built for AI Agents to discover, learn, and execute tools seamlessly via a unified AGENT.md integration.
 
-- **[MoonshotAI/Attention-Residuals](https://github.com/MoonshotAI/Attention-Residuals)** ⭐ 2,113
+- **[MoonshotAI/Attention-Residuals](https://github.com/MoonshotAI/Attention-Residuals)** ⭐ 2,149
   ![None](https://img.shields.io/badge/-None-lightgrey)
   None
 
-- **[HKUDS/ClawTeam](https://github.com/HKUDS/ClawTeam)** ⭐ 1,857
+- **[HKUDS/ClawTeam](https://github.com/HKUDS/ClawTeam)** ⭐ 1,996
   ![Python](https://img.shields.io/badge/-Python-blue)
   ClawTeam: Agent Swarm Intelligence (One Command → Full Automation)
 
-- **[VoltAgent/awesome-codex-subagents](https://github.com/VoltAgent/awesome-codex-subagents)** ⭐ 1,706
+- **[VoltAgent/awesome-codex-subagents](https://github.com/VoltAgent/awesome-codex-subagents)** ⭐ 1,798
   ![None](https://img.shields.io/badge/-None-lightgrey)
   A collection of 130+ specialized Codex subagents covering a wide range of development use cases.
 
-- **[skernelx/tavily-key-generator](https://github.com/skernelx/tavily-key-generator)** ⭐ 1,337
+- **[skernelx/tavily-key-generator](https://github.com/skernelx/tavily-key-generator)** ⭐ 1,338
   ![Python](https://img.shields.io/badge/-Python-blue)
   Multi-service toolkit for Tavily and Firecrawl signup automation, key validation, and isolated proxy pools.
 
 ### 📈 Monthly Trending
 
-- **[karpathy/autoresearch](https://github.com/karpathy/autoresearch)** ⭐ 44,610
+- **[karpathy/autoresearch](https://github.com/karpathy/autoresearch)** ⭐ 45,362
   ![Python](https://img.shields.io/badge/-Python-blue)
   AI agents running research on single-GPU nanochat training automatically
 
-- **[garrytan/gstack](https://github.com/garrytan/gstack)** ⭐ 30,935
+- **[garrytan/gstack](https://github.com/garrytan/gstack)** ⭐ 31,857
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   Use Garry Tan's exact Claude Code setup: 15 opinionated tools that serve as CEO, Designer, Eng Manager, Release Manager, Doc Engineer, and QA
 
-- **[paperclipai/paperclip](https://github.com/paperclipai/paperclip)** ⭐ 30,293
+- **[paperclipai/paperclip](https://github.com/paperclipai/paperclip)** ⭐ 30,493
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   Open-source orchestration for zero-human companies
 
-- **[googleworkspace/cli](https://github.com/googleworkspace/cli)** ⭐ 21,731
+- **[googleworkspace/cli](https://github.com/googleworkspace/cli)** ⭐ 21,776
   ![Rust](https://img.shields.io/badge/-Rust-brown)
   Google Workspace CLI — one command-line tool for Drive, Gmail, Calendar, Sheets, Docs, Chat, Admin, and more. Dynamically built from Google Discovery Service. Includes AI agent skills.
 
-- **[HKUDS/CLI-Anything](https://github.com/HKUDS/CLI-Anything)** ⭐ 19,757
+- **[HKUDS/CLI-Anything](https://github.com/HKUDS/CLI-Anything)** ⭐ 19,893
   ![Python](https://img.shields.io/badge/-Python-blue)
   CLI-Anything: Making ALL Software Agent-Native
 
-- **[RightNow-AI/openfang](https://github.com/RightNow-AI/openfang)** ⭐ 15,055
+- **[RightNow-AI/openfang](https://github.com/RightNow-AI/openfang)** ⭐ 15,079
   ![Rust](https://img.shields.io/badge/-Rust-brown)
   Open-source Agent Operating System
 
-- **[NVIDIA/NemoClaw](https://github.com/NVIDIA/NemoClaw)** ⭐ 13,951
+- **[NVIDIA/NemoClaw](https://github.com/NVIDIA/NemoClaw)** ⭐ 14,175
   ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
-  NVIDIA plugin for secure installation of OpenClaw
+  Run OpenClaw securely inside NVIDIA OpenShell with managed inference
 
-- **[openai/symphony](https://github.com/openai/symphony)** ⭐ 13,603
+- **[openai/symphony](https://github.com/openai/symphony)** ⭐ 13,634
   ![Elixir](https://img.shields.io/badge/-Elixir-lightgrey)
   Symphony turns project work into isolated, autonomous implementation runs, allowing teams to manage work instead of supervising coding agents.
 
@@ -485,51 +486,51 @@ See [kubernetes-announce@](https://groups.google.com/forum/#!forum/kubernetes-an
 
 | Skill | Status |
 |-------|--------|
-| Java | 🟡 Learning |
-| Python | 🟡 Learning |
-| JavaScript | ⚪ Planned |
-| TypeScript | 🟢 Proficient |
-| Go | 🔴 Beginner |
+| Java | 🟢 Proficient |
+| Python | 🟢 Proficient |
+| JavaScript | 🟢 Proficient |
+| TypeScript | 🔴 Beginner |
+| Go | 🟡 Learning |
 
 ### Frameworks
 
 | Skill | Status |
 |-------|--------|
-| React | 🟢 Proficient |
-| Spring Boot | 🟡 Learning |
-| Django | 🟢 Proficient |
-| Node.js | 🟡 Learning |
-| Next.js | ⚪ Planned |
+| React | 🟡 Learning |
+| Spring Boot | ⚪ Planned |
+| Django | 🔴 Beginner |
+| Node.js | 🟢 Proficient |
+| Next.js | 🟢 Proficient |
 
 ### Cybersecurity
 
 | Skill | Status |
 |-------|--------|
-| Penetration Testing | 🟡 Learning |
+| Penetration Testing | ⚪ Planned |
 | Web Security | 🟢 Proficient |
 | Network Security | 🔴 Beginner |
-| OWASP | ⚪ Planned |
+| OWASP | 🔴 Beginner |
 
 ### Ai Ml
 
 | Skill | Status |
 |-------|--------|
 | Machine Learning | 🟡 Learning |
-| Deep Learning | 🟢 Proficient |
-| NLP | 🟢 Proficient |
-| Computer Vision | 🟢 Proficient |
-| TensorFlow | 🟡 Learning |
-| PyTorch | 🟢 Proficient |
+| Deep Learning | ⚪ Planned |
+| NLP | ⚪ Planned |
+| Computer Vision | ⚪ Planned |
+| TensorFlow | ⚪ Planned |
+| PyTorch | 🟡 Learning |
 
 ### Devops
 
 | Skill | Status |
 |-------|--------|
-| Docker | 🔴 Beginner |
-| Kubernetes | 🟡 Learning |
-| CI/CD | 🟢 Proficient |
-| AWS | 🟢 Proficient |
-| Azure | 🟢 Proficient |
+| Docker | 🟢 Proficient |
+| Kubernetes | 🟢 Proficient |
+| CI/CD | 🟡 Learning |
+| AWS | 🟡 Learning |
+| Azure | ⚪ Planned |
 
 ### Other
 
@@ -537,7 +538,7 @@ See [kubernetes-announce@](https://groups.google.com/forum/#!forum/kubernetes-an
 |-------|--------|
 | Blockchain | 🟢 Proficient |
 | Web3 | 🟢 Proficient |
-| Cloud Computing | ⚪ Planned |
+| Cloud Computing | 🔴 Beginner |
 
 </details>
 
