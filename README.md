@@ -20,7 +20,7 @@
 | Metric | Count |
 |--------|-------|
 | 📰 Latest News Articles | 26 |
-| 🔥 Trending Repositories | 0 |
+| 🔥 Trending Repositories | 45 |
 | 🎯 Latest Releases | 10 |
 | 🎯 Learning Goals | 4 |
 
@@ -46,34 +46,31 @@
 
 ### 📑 Hacker News
 
-- **[Claude Code: Channels](https://code.claude.com/docs/en/channels)**
+- **[Kin: Semantic version control that tracks code as entities, not files](https://github.com/firelock-ai/kin)**
+  *<p>Article URL: <a href="https://github.com/firelock-ai/kin">https://github.com/firelock-ai/kin</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=47450514">https://news.ycombinato...*
+  📅 Fri, 20 Mar 2026 04:31:01 +0000
+
+- **[ArXiv Declares Independence from Cornell](https://www.science.org/content/article/arxiv-pioneering-preprint-server-declares-independence-cornell)**
+  *<p>Article URL: <a href="https://www.science.org/content/article/arxiv-pioneering-preprint-server-declares-independence-cornell">https://www.science.org/content/article/arxiv-pioneering-preprint-serve...*
+  📅 Fri, 20 Mar 2026 04:24:11 +0000
+
+- **[Physicists Trace Sun's Magnetic Engine, 200k Kilometers Below Surface](https://news.njit.edu/njit-physicists-trace-sun%E2%80%99s-magnetic-engine-200000-kilometers-below-surface)**
+  *<p>Article URL: <a href="https://news.njit.edu/njit-physicists-trace-sun%E2%80%99s-magnetic-engine-200000-kilometers-below-surface">https://news.njit.edu/njit-physicists-trace-sun%E2%80%99s-magnetic-e...*
+  📅 Fri, 20 Mar 2026 02:12:41 +0000
+
+- **[Full Disclosure: A Third (and Fourth) Azure Sign-In Log Bypass Found](https://trustedsec.com/blog/full-disclosure-a-third-and-fourth-azure-sign-in-log-bypass-found)**
+  *<p>Article URL: <a href="https://trustedsec.com/blog/full-disclosure-a-third-and-fourth-azure-sign-in-log-bypass-found">https://trustedsec.com/blog/full-disclosure-a-third-and-fourth-azure-sign-in-log...*
+  📅 Fri, 20 Mar 2026 01:09:45 +0000
+
+- **[Drugwars for the TI-82/83/83 Calculators (2011)](https://gist.github.com/mattmanning/1002653/b7a1e88479a10eaae3bd5298b8b2c86e16fb4404)**
+  *<p>Article URL: <a href="https://gist.github.com/mattmanning/1002653/b7a1e88479a10eaae3bd5298b8b2c86e16fb4404">https://gist.github.com/mattmanning/1002653/b7a1e88479a10eaae3bd5298b8b2c86e16fb4404</a><...*
+  📅 Fri, 20 Mar 2026 00:26:47 +0000
+
+- **[Push events into a running session with channels](https://code.claude.com/docs/en/channels)**
   *<p>Article URL: <a href="https://code.claude.com/docs/en/channels">https://code.claude.com/docs/en/channels</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=47448524">https://new...*
   📅 Fri, 20 Mar 2026 00:22:08 +0000
-
-- **[Wayland set the Linux Desktop back by 10 years](https://omar.yt/posts/wayland-set-the-linux-desktop-back-by-10-years)**
-  *<p>Article URL: <a href="https://omar.yt/posts/wayland-set-the-linux-desktop-back-by-10-years">https://omar.yt/posts/wayland-set-the-linux-desktop-back-by-10-years</a></p>
-<p>Comments URL: <a href="ht...*
-  📅 Fri, 20 Mar 2026 00:01:40 +0000
-
-- **[The Day I Discovered Type Design](https://www.marksimonson.com/notebook/view/the-day-i-discovered-type-design/)**
-  *<p>Article URL: <a href="https://www.marksimonson.com/notebook/view/the-day-i-discovered-type-design/">https://www.marksimonson.com/notebook/view/the-day-i-discovered-type-design/</a></p>
-<p>Comments ...*
-  📅 Thu, 19 Mar 2026 23:08:37 +0000
-
-- **[Bombarding gamblers with offers greatly increases betting and gambling harm](https://www.bristol.ac.uk/news/2026/march/bombarding-gamblers-with-offers-greatly-increases-betting-and-gambling-harm.html)**
-  *<p>Article URL: <a href="https://www.bristol.ac.uk/news/2026/march/bombarding-gamblers-with-offers-greatly-increases-betting-and-gambling-harm.html">https://www.bristol.ac.uk/news/2026/march/bombardin...*
-  📅 Thu, 19 Mar 2026 22:59:18 +0000
-
-- **[Be intentional about how AI changes your codebase](https://aicode.swerdlow.dev)**
-  *<p>Article URL: <a href="https://aicode.swerdlow.dev">https://aicode.swerdlow.dev</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=47446373">https://news.ycombinator.com/item?id=...*
-  📅 Thu, 19 Mar 2026 21:23:24 +0000
-
-- **[EsoLang-Bench: Evaluating Genuine Reasoning in LLMs via Esoteric Languages](https://esolang-bench.vercel.app/)**
-  *<p>Article URL: <a href="https://esolang-bench.vercel.app/">https://esolang-bench.vercel.app/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=47446021">https://news.ycombinator....*
-  📅 Thu, 19 Mar 2026 21:01:03 +0000
 
 ### 📑 TechCrunch
 
@@ -103,23 +100,127 @@
 
 ### 📑 Dev.to
 
-- **[Yazi: The Blazing-Fast Terminal File Manager for Developers](https://dev.to/starmorph/yazi-the-blazing-fast-terminal-file-manager-for-developers-39h1)**
+- **[Map & Set: The Underrated Heroes of JavaScript](https://dev.to/kunal_dev/map-set-the-underrated-heroes-of-javascript-4ad7)**
+  *<p>While writing the blog on <strong>Array method</strong>, I have came across some topics that are new to me and <code>Map</code> and <code>Set</code> are one of them.</p>
+
+<p>If you’d like to explor...*
+  📅 Fri, 20 Mar 2026 06:38:34 +0000
+
+- **[How to Harden OpenClaw in 5 Minutes — Before and After a Real Prompt Injection Attack](https://dev.to/onoz1169/how-to-harden-openclaw-in-5-minutes-before-and-after-a-real-prompt-injection-attack-2d66)**
   *<h1>
   
   
-  Yazi: The Blazing-Fast Terminal File Manager for Developers
+  How to Secure OpenClaw in 5 Minutes — Before and After a Real Prompt Injection Attack
 </h1>
 
-<p><strong>TL;DR:</strong> Yazi is a blazing-fast, async terminal file manager built in Rust with image previews, vim ke...*
-  📅 Fri, 20 Mar 2026 01:11:21 +0000
-
-- **[Best Mac Mini for Running Local LLMs and OpenClaw: Complete Pricing & Buying Guide (2026)](https://dev.to/starmorph/best-mac-mini-for-running-local-llms-and-openclaw-complete-pricing-buying-guide-2026-2226)**
-  *<p><strong>TL;DR:</strong> The Mac Mini M4 Pro with 48GB RAM ($1,599 new) is the sweet spot for local LLMs — it runs 70B parameter models like Llama 3.1 70B comfortably. The 24GB M4 base ($599) handle...*
-  📅 Fri, 20 Mar 2026 01:11:18 +0000
+<p>In my <a href="https://dev.to/onoz1169/i-asked-openclaw-to-summarize-a-file-it-tried-to-ste...*
+  📅 Fri, 20 Mar 2026 06:35:26 +0000
 
 </details>
 
 ## 🔥 Trending Repositories
+
+### 📈 Daily Trending
+
+- **[nullpo-head/sutatikku](https://github.com/nullpo-head/sutatikku)** ⭐ 43
+  ![Rust](https://img.shields.io/badge/-Rust-brown)
+  Turn any executables to a single binary ELF application
+
+- **[jnMetaCode/superpowers-zh](https://github.com/jnMetaCode/superpowers-zh)** ⭐ 17
+  ![Shell](https://img.shields.io/badge/-Shell-lightgrey)
+  AI 编程超能力中文版 — superpowers 完整汉化 + 中国特色 skills（Gitee/Coding 工作流、中文排版、MCP 构建）
+
+- **[thesophiaxu/contextd](https://github.com/thesophiaxu/contextd)** ⭐ 15
+  ![Swift](https://img.shields.io/badge/-Swift-lightgrey)
+  An efficient macOS app that continuously captures your screen activity, summarizes it with an LLM, and makes it available for other local tools.
+
+- **[wuyao4/c2a-py](https://github.com/wuyao4/c2a-py)** ⭐ 15
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  None
+
+- **[zhengnaichuan2022/S3T-Former](https://github.com/zhengnaichuan2022/S3T-Former)** ⭐ 15
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  Official implementation of "S3T-Former: A Purely Spike-Driven State-Space Topology Transformer for Skeleton Action Recognition
+
+- **[dotCipher/opencode-anthropic-user-agent-plugin](https://github.com/dotCipher/opencode-anthropic-user-agent-plugin)** ⭐ 14
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
+  None
+
+- **[jung-wan-kim/autoresearch-builder](https://github.com/jung-wan-kim/autoresearch-builder)** ⭐ 14
+  ![Shell](https://img.shields.io/badge/-Shell-lightgrey)
+  Autonomous experiment loop for any project type (ML/Web/Flutter/Java). Inspired by karpathy/autoresearch, adapted for Claude Code.
+
+- **[charbelochoa/Node-Panda](https://github.com/charbelochoa/Node-Panda)** ⭐ 9
+  ![C++](https://img.shields.io/badge/-C++-pink)
+  Node Panda es un potente gestor de conocimiento local desarrollado en C++ nativo. Conecta notas Markdown mediante un grafo interactivo y sirve como el motor de memoria principal para ecosistemas de IA destacando por su rendimiento extremo, total privacidad y exportación directa de contexto estructurado para LLMs.
+
+### 📈 Weekly Trending
+
+- **[NVIDIA/NemoClaw](https://github.com/NVIDIA/NemoClaw)** ⭐ 13,328
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
+  NVIDIA plugin for secure installation of OpenClaw
+
+- **[aiming-lab/AutoResearchClaw](https://github.com/aiming-lab/AutoResearchClaw)** ⭐ 6,894
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  Fully autonomous & self-evolving research from idea to paper. Chat an Idea. Get a Paper. 🦞
+
+- **[calesthio/Crucix](https://github.com/calesthio/Crucix)** ⭐ 5,241
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
+  Your personal intelligence agent. Watches the world from multiple data sources and pings you when something changes.
+
+- **[jackwener/opencli](https://github.com/jackwener/opencli)** ⭐ 2,657
+  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
+  Make any website your CLI. A powerful, AI-native runtime for seamless browser automation and dynamic web data extraction.
+
+- **[MoonshotAI/Attention-Residuals](https://github.com/MoonshotAI/Attention-Residuals)** ⭐ 2,060
+  ![None](https://img.shields.io/badge/-None-lightgrey)
+  None
+
+- **[HKUDS/ClawTeam](https://github.com/HKUDS/ClawTeam)** ⭐ 1,774
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  ClawTeam: Agent Swarm Intelligence (One Command → Full Automation)
+
+- **[VoltAgent/awesome-codex-subagents](https://github.com/VoltAgent/awesome-codex-subagents)** ⭐ 1,608
+  ![None](https://img.shields.io/badge/-None-lightgrey)
+  A collection of 130+ specialized Codex subagents covering a wide range of development use cases.
+
+- **[skernelx/tavily-key-generator](https://github.com/skernelx/tavily-key-generator)** ⭐ 1,335
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  Multi-service toolkit for Tavily and Firecrawl signup automation, key validation, and isolated proxy pools.
+
+### 📈 Monthly Trending
+
+- **[karpathy/autoresearch](https://github.com/karpathy/autoresearch)** ⭐ 44,123
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  AI agents running research on single-GPU nanochat training automatically
+
+- **[paperclipai/paperclip](https://github.com/paperclipai/paperclip)** ⭐ 30,103
+  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
+  Open-source orchestration for zero-human companies
+
+- **[garrytan/gstack](https://github.com/garrytan/gstack)** ⭐ 29,617
+  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
+  Use Garry Tan's exact Claude Code setup: 15 opinionated tools that serve as CEO, Designer, Eng Manager, Release Manager, Doc Engineer, and QA
+
+- **[googleworkspace/cli](https://github.com/googleworkspace/cli)** ⭐ 21,687
+  ![Rust](https://img.shields.io/badge/-Rust-brown)
+  Google Workspace CLI — one command-line tool for Drive, Gmail, Calendar, Sheets, Docs, Chat, Admin, and more. Dynamically built from Google Discovery Service. Includes AI agent skills.
+
+- **[HKUDS/CLI-Anything](https://github.com/HKUDS/CLI-Anything)** ⭐ 19,539
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  CLI-Anything: Making ALL Software Agent-Native
+
+- **[RightNow-AI/openfang](https://github.com/RightNow-AI/openfang)** ⭐ 15,027
+  ![Rust](https://img.shields.io/badge/-Rust-brown)
+  Open-source Agent Operating System
+
+- **[openai/symphony](https://github.com/openai/symphony)** ⭐ 13,568
+  ![Elixir](https://img.shields.io/badge/-Elixir-lightgrey)
+  Symphony turns project work into isolated, autonomous implementation runs, allowing teams to manage work instead of supervising coding agents.
+
+- **[NVIDIA/NemoClaw](https://github.com/NVIDIA/NemoClaw)** ⭐ 13,328
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
+  NVIDIA plugin for secure installation of OpenClaw
 
 ## 🚀 Latest Releases
 
@@ -221,15 +322,15 @@ See [kubernetes-announce@](https://groups.google.com/forum/#!forum/kubernetes-an
 
 ### 📦 docker/compose
 
-**[v5.1.0](https://github.com/docker/compose/releases/tag/v5.1.0)** `v5.1.0`
+**[v5.1.1](https://github.com/docker/compose/releases/tag/v5.1.1)** `v5.1.1`
 
-📅 Released: February 24, 2026
+📅 Released: March 20, 2026
 
 ## What's Changed
 
 ### 🐛 Fixes
-* emit container status events after network reconnection (fixes #13524) by @MaheshThakur9152 in https://github.com/docker/compose/pull/13529
-* Fix potential nil poi...
+* Only pass ConsoleSize to ExecAttach when TTY is enabled by @mikesir87 in https://github.com/docker/compose/pull/13616
+* Fix deadlock in ttyWriter.Done() by @maks21...
 
 ---
 
@@ -388,51 +489,51 @@ See [kubernetes-announce@](https://groups.google.com/forum/#!forum/kubernetes-an
 
 | Skill | Status |
 |-------|--------|
-| Java | 🔴 Beginner |
-| Python | ⚪ Planned |
-| JavaScript | 🟢 Proficient |
-| TypeScript | ⚪ Planned |
-| Go | ⚪ Planned |
+| Java | ⚪ Planned |
+| Python | 🟢 Proficient |
+| JavaScript | 🔴 Beginner |
+| TypeScript | 🟡 Learning |
+| Go | 🟡 Learning |
 
 ### Frameworks
 
 | Skill | Status |
 |-------|--------|
-| React | 🔴 Beginner |
-| Spring Boot | 🔴 Beginner |
+| React | 🟢 Proficient |
+| Spring Boot | 🟡 Learning |
 | Django | 🔴 Beginner |
-| Node.js | 🔴 Beginner |
-| Next.js | 🟢 Proficient |
+| Node.js | 🟢 Proficient |
+| Next.js | 🔴 Beginner |
 
 ### Cybersecurity
 
 | Skill | Status |
 |-------|--------|
-| Penetration Testing | 🔴 Beginner |
+| Penetration Testing | ⚪ Planned |
 | Web Security | ⚪ Planned |
-| Network Security | 🟢 Proficient |
+| Network Security | 🟡 Learning |
 | OWASP | 🟡 Learning |
 
 ### Ai Ml
 
 | Skill | Status |
 |-------|--------|
-| Machine Learning | ⚪ Planned |
-| Deep Learning | 🟡 Learning |
-| NLP | 🔴 Beginner |
-| Computer Vision | 🟡 Learning |
-| TensorFlow | 🟢 Proficient |
-| PyTorch | 🔴 Beginner |
+| Machine Learning | 🔴 Beginner |
+| Deep Learning | 🟢 Proficient |
+| NLP | ⚪ Planned |
+| Computer Vision | ⚪ Planned |
+| TensorFlow | 🔴 Beginner |
+| PyTorch | 🟢 Proficient |
 
 ### Devops
 
 | Skill | Status |
 |-------|--------|
-| Docker | 🟡 Learning |
-| Kubernetes | ⚪ Planned |
-| CI/CD | 🟢 Proficient |
-| AWS | 🟡 Learning |
-| Azure | 🔴 Beginner |
+| Docker | ⚪ Planned |
+| Kubernetes | 🔴 Beginner |
+| CI/CD | ⚪ Planned |
+| AWS | 🔴 Beginner |
+| Azure | 🟡 Learning |
 
 ### Other
 
@@ -440,7 +541,7 @@ See [kubernetes-announce@](https://groups.google.com/forum/#!forum/kubernetes-an
 |-------|--------|
 | Blockchain | ⚪ Planned |
 | Web3 | 🔴 Beginner |
-| Cloud Computing | 🔴 Beginner |
+| Cloud Computing | 🟡 Learning |
 
 </details>
 
