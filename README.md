@@ -7,7 +7,7 @@
 ![AI & ML](https://img.shields.io/badge/-AI%20&%20ML-blue) ![CyberSecurity](https://img.shields.io/badge/-CyberSecurity-red) ![Full Stack Development](https://img.shields.io/badge/-Full%20Stack%20Development-green)
 
 [![Auto Update](https://img.shields.io/badge/Auto%20Update-Enabled-success)](https://github.com/yourusername/tech-dashboard/actions)
-[![Last Updated](https://img.shields.io/badge/Last%20Updated-March 19, 2026-blue)](https://github.com/yourusername/tech-dashboard)
+[![Last Updated](https://img.shields.io/badge/Last%20Updated-March 20, 2026-blue)](https://github.com/yourusername/tech-dashboard)
 
 *Automatically updated every 6 hours with the latest tech news, trending repositories, and learning resources.*
 
@@ -20,7 +20,7 @@
 | Metric | Count |
 |--------|-------|
 | 📰 Latest News Articles | 26 |
-| 🔥 Trending Repositories | 45 |
+| 🔥 Trending Repositories | 0 |
 | 🎯 Latest Releases | 10 |
 | 🎯 Learning Goals | 4 |
 
@@ -46,179 +46,80 @@
 
 ### 📑 Hacker News
 
-- **[Noq: n0's new QUIC implementation in Rust](https://www.iroh.computer/blog/noq-announcement)**
-  *<p>Article URL: <a href="https://www.iroh.computer/blog/noq-announcement">https://www.iroh.computer/blog/noq-announcement</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=4744358...*
-  📅 Thu, 19 Mar 2026 18:17:15 +0000
+- **[Claude Code: Channels](https://code.claude.com/docs/en/channels)**
+  *<p>Article URL: <a href="https://code.claude.com/docs/en/channels">https://code.claude.com/docs/en/channels</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=47448524">https://new...*
+  📅 Fri, 20 Mar 2026 00:22:08 +0000
 
-- **[Connecticut and the 1 Kilometer Effect](https://alearningaday.blog/2026/03/19/connecticut-and-the-1-kilometer-effect/)**
-  *<p>Article URL: <a href="https://alearningaday.blog/2026/03/19/connecticut-and-the-1-kilometer-effect/">https://alearningaday.blog/2026/03/19/connecticut-and-the-1-kilometer-effect/</a></p>
-<p>Comment...*
-  📅 Thu, 19 Mar 2026 17:52:11 +0000
+- **[Wayland set the Linux Desktop back by 10 years](https://omar.yt/posts/wayland-set-the-linux-desktop-back-by-10-years)**
+  *<p>Article URL: <a href="https://omar.yt/posts/wayland-set-the-linux-desktop-back-by-10-years">https://omar.yt/posts/wayland-set-the-linux-desktop-back-by-10-years</a></p>
+<p>Comments URL: <a href="ht...*
+  📅 Fri, 20 Mar 2026 00:01:40 +0000
 
-- **[UK's Ofcom has today fined 4chan £450k for not having age checks in place](https://www.ofcom.org.uk/online-safety/illegal-and-harmful-content/4chan-fined-450000-for-not-protecting-children-from-online-pornography)**
-  *<p>Article URL: <a href="https://www.ofcom.org.uk/online-safety/illegal-and-harmful-content/4chan-fined-450000-for-not-protecting-children-from-online-pornography">https://www.ofcom.org.uk/online-safe...*
-  📅 Thu, 19 Mar 2026 17:27:33 +0000
+- **[The Day I Discovered Type Design](https://www.marksimonson.com/notebook/view/the-day-i-discovered-type-design/)**
+  *<p>Article URL: <a href="https://www.marksimonson.com/notebook/view/the-day-i-discovered-type-design/">https://www.marksimonson.com/notebook/view/the-day-i-discovered-type-design/</a></p>
+<p>Comments ...*
+  📅 Thu, 19 Mar 2026 23:08:37 +0000
 
-- **[An update on Steam / GOG changes for OpenTTD](https://www.openttd.org/news/2026/03/19/steam-changes-update)**
-  *<p>Article URL: <a href="https://www.openttd.org/news/2026/03/19/steam-changes-update">https://www.openttd.org/news/2026/03/19/steam-changes-update</a></p>
-<p>Comments URL: <a href="https://news.ycomb...*
-  📅 Thu, 19 Mar 2026 17:27:17 +0000
+- **[Bombarding gamblers with offers greatly increases betting and gambling harm](https://www.bristol.ac.uk/news/2026/march/bombarding-gamblers-with-offers-greatly-increases-betting-and-gambling-harm.html)**
+  *<p>Article URL: <a href="https://www.bristol.ac.uk/news/2026/march/bombarding-gamblers-with-offers-greatly-increases-betting-and-gambling-harm.html">https://www.bristol.ac.uk/news/2026/march/bombardin...*
+  📅 Thu, 19 Mar 2026 22:59:18 +0000
 
-- **[How to Not Pay Your Taxes](https://taylor.town/succession-000)**
-  *<p>Article URL: <a href="https://taylor.town/succession-000">https://taylor.town/succession-000</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=47442699">https://news.ycombinato...*
-  📅 Thu, 19 Mar 2026 17:16:36 +0000
+- **[Be intentional about how AI changes your codebase](https://aicode.swerdlow.dev)**
+  *<p>Article URL: <a href="https://aicode.swerdlow.dev">https://aicode.swerdlow.dev</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=47446373">https://news.ycombinator.com/item?id=...*
+  📅 Thu, 19 Mar 2026 21:23:24 +0000
 
-- **[Android: Balancing Openness and Choice with Safety](https://android-developers.googleblog.com/2026/03/android-developer-verification.html)**
-  *<p>Article URL: <a href="https://android-developers.googleblog.com/2026/03/android-developer-verification.html">https://android-developers.googleblog.com/2026/03/android-developer-verification.html</a...*
-  📅 Thu, 19 Mar 2026 17:16:04 +0000
+- **[EsoLang-Bench: Evaluating Genuine Reasoning in LLMs via Esoteric Languages](https://esolang-bench.vercel.app/)**
+  *<p>Article URL: <a href="https://esolang-bench.vercel.app/">https://esolang-bench.vercel.app/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=47446021">https://news.ycombinator....*
+  📅 Thu, 19 Mar 2026 21:01:03 +0000
 
 ### 📑 TechCrunch
 
-- **[Geothermal startup Fervo catapults itself over the ‘valley of death’](https://techcrunch.com/2026/03/19/geothermal-startup-fervo-catapults-itself-over-the-valley-of-death/)**
-  *Fervo landed a large new loan with terms that strongly suggest the company's most turbulent days are behind it....*
-  📅 Thu, 19 Mar 2026 18:26:26 +0000
+- **[Amazon acquires Rivr, maker of a stair-climbing delivery robot](https://techcrunch.com/2026/03/19/amazon-acquires-rivr-maker-of-a-stair-climbing-delivery-robot/)**
+  *Amazon and Jeff Bezos had previously invested in the startup. The deal signals the e-commerce giant's interest in doorstep delivery....*
+  📅 Thu, 19 Mar 2026 23:28:37 +0000
 
-- **[Meta rolls out new AI content enforcement systems while reducing reliance on third-party vendors](https://techcrunch.com/2026/03/19/meta-rolls-out-new-ai-content-enforcement-systems-while-reducing-reliance-on-third-party-vendors/)**
-  *Meta believes these AI systems can detect more violations with greater accuracy, better prevent scams, respond more quickly to real-world events, and reduce over-enforcement....*
-  📅 Thu, 19 Mar 2026 17:24:13 +0000
+- **[Jeff Bezos reportedly wants $100 billion to buy and transform old manufacturing firms with AI](https://techcrunch.com/2026/03/19/jeff-bezos-reportedly-wants-100-billion-to-buy-and-transform-old-manufacturing-firms-with-ai/)**
+  *The Amazon magnate has a new project centered around acquiring industrial firms and revamping them with AI technology....*
+  📅 Thu, 19 Mar 2026 22:09:24 +0000
 
-- **[Google introduces a new way for users to sideload Android apps that still protects against scams](https://techcrunch.com/2026/03/19/google-introduces-a-new-way-for-users-to-sideload-android-apps-that-still-protects-against-scams/)**
-  *Google is making Android sideloading easier with a new advanced setting that lets users disable app verification after a multistep security process....*
-  📅 Thu, 19 Mar 2026 17:00:00 +0000
+- **[Employees had to restrain a dancing humanoid robot after it went wild at a California restaurant](https://techcrunch.com/2026/03/19/restaurant-dancing-robot-went-wild-hot-pot-cupertino-haidilao-agibot/)**
+  *A dancing robot in a Haidilao hot pot restaurant boogied down a little too hard....*
+  📅 Thu, 19 Mar 2026 21:13:50 +0000
 
-- **[DoorDash launches a new ‘Tasks’ app that pays couriers to submit videos to train AI](https://techcrunch.com/2026/03/19/doordash-launches-a-new-tasks-app-that-pays-couriers-to-submit-videos-to-train-ai/)**
-  *Delivery couriers will be able to earn money by completing activities like filming everyday tasks or recording themselves speaking in another language....*
-  📅 Thu, 19 Mar 2026 16:14:00 +0000
+- **[Polymarket continues its partnership spree with a Major League Baseball deal](https://techcrunch.com/2026/03/19/polymarket-continues-its-partnership-spree-with-a-major-league-baseball-deal/)**
+  *MLB is only the latest in a string of recently announced partnerships involving the prediction market....*
+  📅 Thu, 19 Mar 2026 19:46:30 +0000
 
-- **[Meta decides not to shut down Horizon Worlds on VR after all](https://techcrunch.com/2026/03/19/meta-decides-not-to-shut-down-horizon-worlds-on-vr-after-all/)**
-  *Horizon Worlds was once a cornerstone of Meta's plans to build a social metaverse -- four years later, the company almost shut it down....*
-  📅 Thu, 19 Mar 2026 15:36:32 +0000
+- **[Online bot traffic will exceed human traffic by 2027, Cloudflare CEO says](https://techcrunch.com/2026/03/19/online-bot-traffic-will-exceed-human-traffic-by-2027-cloudflare-ceo-says/)**
+  *AI bots may outnumber humans online by 2027, says Cloudflare CEO Matthew Prince, as generative AI agents dramatically increase web traffic and infrastructure demands....*
+  📅 Thu, 19 Mar 2026 19:09:02 +0000
 
-- **[FBI seizes pro-Iranian hacking group’s websites after destructive Stryker hack](https://techcrunch.com/2026/03/19/fbi-seizes-pro-iranian-hacking-groups-websites-after-destructive-stryker-hack/)**
-  *The FBI and the Justice Department took down two websites linked to the pro-Iranian hacktivist group Handala, which last week hacked medical tech giant Stryker....*
-  📅 Thu, 19 Mar 2026 15:10:32 +0000
+- **[Bluesky announces $100M Series B after CEO transition](https://techcrunch.com/2026/03/19/bluesky-announces-100m-series-b-after-ceo-transition/)**
+  *The additional funds have been used to scale Bluesky's team, while the company continues to develop Bluesky's app and the underlying ATProto that powers it....*
+  📅 Thu, 19 Mar 2026 19:00:00 +0000
 
 ### 📑 Dev.to
 
-- **[Sub Agent that executes Claude AI CLI requirements in a work-pipeline](https://dev.to/ucjung/sub-agent-that-executes-claude-ai-cli-requirements-in-a-work-pipeline-3lpk)**
-  *<h2>
+- **[Yazi: The Blazing-Fast Terminal File Manager for Developers](https://dev.to/starmorph/yazi-the-blazing-fast-terminal-file-manager-for-developers-39h1)**
+  *<h1>
   
   
-  <img alt=" " height="450" src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fupload...*
-  📅 Thu, 19 Mar 2026 18:40:58 +0000
+  Yazi: The Blazing-Fast Terminal File Manager for Developers
+</h1>
 
-- **[How I replaced Sentry and the rest for Good: The $0 Telegram Alerting Hack](https://dev.to/playfulprogramming/how-i-replaced-sentry-and-the-rest-for-good-the-0-telegram-alerting-hack-2ecl)**
-  *<p>Most production applications need some form of <strong>real-time alerting</strong>.<br />
-When something goes wrong — a payment fails, an API crashes, or a user submits a contact form — someone nee...*
-  📅 Thu, 19 Mar 2026 18:37:54 +0000
+<p><strong>TL;DR:</strong> Yazi is a blazing-fast, async terminal file manager built in Rust with image previews, vim ke...*
+  📅 Fri, 20 Mar 2026 01:11:21 +0000
+
+- **[Best Mac Mini for Running Local LLMs and OpenClaw: Complete Pricing & Buying Guide (2026)](https://dev.to/starmorph/best-mac-mini-for-running-local-llms-and-openclaw-complete-pricing-buying-guide-2026-2226)**
+  *<p><strong>TL;DR:</strong> The Mac Mini M4 Pro with 48GB RAM ($1,599 new) is the sweet spot for local LLMs — it runs 70B parameter models like Llama 3.1 70B comfortably. The 24GB M4 base ($599) handle...*
+  📅 Fri, 20 Mar 2026 01:11:18 +0000
 
 </details>
 
 ## 🔥 Trending Repositories
-
-### 📈 Daily Trending
-
-- **[truongduy2611/app-store-preflight-skills](https://github.com/truongduy2611/app-store-preflight-skills)** ⭐ 167
-  ![None](https://img.shields.io/badge/-None-lightgrey)
-  AI agent skill to scan iOS/macOS projects for App Store rejection patterns before submission
-
-- **[tuanhavinalink/nikaya](https://github.com/tuanhavinalink/nikaya)** ⭐ 53
-  ![None](https://img.shields.io/badge/-None-lightgrey)
-  Đại Tạng Kinh Nikaya - Phật học Tinh Hoa - Đạo Phật chính tông
-
-- **[stvlynn/dingtalk-wukong-skills](https://github.com/stvlynn/dingtalk-wukong-skills)** ⭐ 51
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  钉钉生态与专业文档处理的 Agent 技能精选集。A curated collection of Agent Skills for DingTalk and professional document processing.
-
-- **[vaayne/mori](https://github.com/vaayne/mori)** ⭐ 47
-  ![Swift](https://img.shields.io/badge/-Swift-lightgrey)
-  A native macOS workspace terminal organized around Projects and Worktrees, powered by tmux and libghostty
-
-- **[nolanaechan/VehiClaw](https://github.com/nolanaechan/VehiClaw)** ⭐ 44
-  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
-  Open-source AI agent for car head units.
-
-- **[addyosmani/agent-engineer](https://github.com/addyosmani/agent-engineer)** ⭐ 42
-  ![None](https://img.shields.io/badge/-None-lightgrey)
-  Agent Engineer - a practical course for software engineers
-
-- **[mucsbr/ppt-agent-workflow-san](https://github.com/mucsbr/ppt-agent-workflow-san)** ⭐ 41
-  ![None](https://img.shields.io/badge/-None-lightgrey)
-  渐进交互式ppt生成skill
-
-- **[dharshini1316/StratusIQ](https://github.com/dharshini1316/StratusIQ)** ⭐ 41
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  StratusIQ is an intelligent cloud infrastructure platform that not only detects issues but also fixes them. It scans environments, analyzes Terraform, and identifies cost, security, and reliability risks, then generates safe, actionable fixes with built-in validation and rollback support.
-
-### 📈 Weekly Trending
-
-- **[NVIDIA/NemoClaw](https://github.com/NVIDIA/NemoClaw)** ⭐ 11,753
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
-  NVIDIA plugin for secure installation of OpenClaw
-
-- **[aiming-lab/AutoResearchClaw](https://github.com/aiming-lab/AutoResearchClaw)** ⭐ 6,700
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  Fully autonomous & self-evolving research from idea to paper. Chat an Idea. Get a Paper. 🦞
-
-- **[calesthio/Crucix](https://github.com/calesthio/Crucix)** ⭐ 5,049
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
-  Your personal intelligence agent. Watches the world from multiple data sources and pings you when something changes.
-
-- **[jackwener/opencli](https://github.com/jackwener/opencli)** ⭐ 2,353
-  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
-  Make any website your CLI. A powerful, AI-native runtime for seamless browser automation and dynamic web data extraction.
-
-- **[pasky/chrome-cdp-skill](https://github.com/pasky/chrome-cdp-skill)** ⭐ 2,292
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
-  Give your AI agent access to your live Chrome session — works out of the box, connects to tabs you already have open
-
-- **[MoonshotAI/Attention-Residuals](https://github.com/MoonshotAI/Attention-Residuals)** ⭐ 1,987
-  ![None](https://img.shields.io/badge/-None-lightgrey)
-  None
-
-- **[HKUDS/ClawTeam](https://github.com/HKUDS/ClawTeam)** ⭐ 1,605
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  ClawTeam: Agent Swarm Intelligence (One Command → Full Automation)
-
-- **[uditgoenka/autoresearch](https://github.com/uditgoenka/autoresearch)** ⭐ 1,483
-  ![Shell](https://img.shields.io/badge/-Shell-lightgrey)
-  Claude Autoresearch Skill — Autonomous goal-directed iteration for Claude Code. Inspired by Karpathy's autoresearch. Modify → Verify → Keep/Discard → Repeat forever.
-
-### 📈 Monthly Trending
-
-- **[karpathy/autoresearch](https://github.com/karpathy/autoresearch)** ⭐ 43,411
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  AI agents running research on single-GPU nanochat training automatically
-
-- **[paperclipai/paperclip](https://github.com/paperclipai/paperclip)** ⭐ 29,731
-  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
-  Open-source orchestration for zero-human companies
-
-- **[garrytan/gstack](https://github.com/garrytan/gstack)** ⭐ 27,122
-  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
-  Use Garry Tan's exact Claude Code setup: 15 opinionated tools that serve as CEO, Designer, Eng Manager, Release Manager, Doc Engineer, and QA
-
-- **[googleworkspace/cli](https://github.com/googleworkspace/cli)** ⭐ 21,622
-  ![Rust](https://img.shields.io/badge/-Rust-brown)
-  Google Workspace CLI — one command-line tool for Drive, Gmail, Calendar, Sheets, Docs, Chat, Admin, and more. Dynamically built from Google Discovery Service. Includes AI agent skills.
-
-- **[HKUDS/CLI-Anything](https://github.com/HKUDS/CLI-Anything)** ⭐ 19,270
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  CLI-Anything: Making ALL Software Agent-Native
-
-- **[RightNow-AI/openfang](https://github.com/RightNow-AI/openfang)** ⭐ 14,984
-  ![Rust](https://img.shields.io/badge/-Rust-brown)
-  Open-source Agent Operating System
-
-- **[openai/symphony](https://github.com/openai/symphony)** ⭐ 13,498
-  ![Elixir](https://img.shields.io/badge/-Elixir-lightgrey)
-  Symphony turns project work into isolated, autonomous implementation runs, allowing teams to manage work instead of supervising coding agents.
-
-- **[agentscope-ai/CoPaw](https://github.com/agentscope-ai/CoPaw)** ⭐ 12,700
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  Your Personal AI Assistant; easy to install, deploy on your own machine or on the cloud; supports multiple chat apps with easily extensible capabilities.
 
 ## 🚀 Latest Releases
 
@@ -489,7 +390,7 @@ See [kubernetes-announce@](https://groups.google.com/forum/#!forum/kubernetes-an
 |-------|--------|
 | Java | 🔴 Beginner |
 | Python | ⚪ Planned |
-| JavaScript | 🔴 Beginner |
+| JavaScript | 🟢 Proficient |
 | TypeScript | ⚪ Planned |
 | Go | ⚪ Planned |
 
@@ -497,19 +398,19 @@ See [kubernetes-announce@](https://groups.google.com/forum/#!forum/kubernetes-an
 
 | Skill | Status |
 |-------|--------|
-| React | 🟢 Proficient |
+| React | 🔴 Beginner |
 | Spring Boot | 🔴 Beginner |
-| Django | 🟡 Learning |
-| Node.js | 🟢 Proficient |
-| Next.js | ⚪ Planned |
+| Django | 🔴 Beginner |
+| Node.js | 🔴 Beginner |
+| Next.js | 🟢 Proficient |
 
 ### Cybersecurity
 
 | Skill | Status |
 |-------|--------|
-| Penetration Testing | ⚪ Planned |
-| Web Security | 🟢 Proficient |
-| Network Security | 🟡 Learning |
+| Penetration Testing | 🔴 Beginner |
+| Web Security | ⚪ Planned |
+| Network Security | 🟢 Proficient |
 | OWASP | 🟡 Learning |
 
 ### Ai Ml
@@ -517,29 +418,29 @@ See [kubernetes-announce@](https://groups.google.com/forum/#!forum/kubernetes-an
 | Skill | Status |
 |-------|--------|
 | Machine Learning | ⚪ Planned |
-| Deep Learning | 🔴 Beginner |
+| Deep Learning | 🟡 Learning |
 | NLP | 🔴 Beginner |
-| Computer Vision | 🔴 Beginner |
-| TensorFlow | ⚪ Planned |
-| PyTorch | 🟡 Learning |
+| Computer Vision | 🟡 Learning |
+| TensorFlow | 🟢 Proficient |
+| PyTorch | 🔴 Beginner |
 
 ### Devops
 
 | Skill | Status |
 |-------|--------|
-| Docker | 🔴 Beginner |
+| Docker | 🟡 Learning |
 | Kubernetes | ⚪ Planned |
-| CI/CD | 🟡 Learning |
-| AWS | 🟢 Proficient |
-| Azure | 🟡 Learning |
+| CI/CD | 🟢 Proficient |
+| AWS | 🟡 Learning |
+| Azure | 🔴 Beginner |
 
 ### Other
 
 | Skill | Status |
 |-------|--------|
-| Blockchain | 🟡 Learning |
-| Web3 | ⚪ Planned |
-| Cloud Computing | ⚪ Planned |
+| Blockchain | ⚪ Planned |
+| Web3 | 🔴 Beginner |
+| Cloud Computing | 🔴 Beginner |
 
 </details>
 
@@ -557,7 +458,7 @@ This dashboard is automatically updated every 6 hours using GitHub Actions. The 
 
 <div align="center">
 
-**Last Updated:** March 19, 2026
+**Last Updated:** March 20, 2026
 
 Made with ❤️ and automated with GitHub Actions
 
