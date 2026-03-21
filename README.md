@@ -46,34 +46,37 @@
 
 ### 📑 Hacker News
 
+- **[Atuin v18.13 – better search, a PTY proxy, and AI for your shell](https://blog.atuin.sh/atuin-v18-13/)**
+  *<p>Article URL: <a href="https://blog.atuin.sh/atuin-v18-13/">https://blog.atuin.sh/atuin-v18-13/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=47465824">https://news.ycombina...*
+  📅 Sat, 21 Mar 2026 10:35:20 +0000
+
+- **[Blocking Internet Archive Won't Stop AI, but Will Erase Web's Historical Record](https://www.eff.org/deeplinks/2026/03/blocking-internet-archive-wont-stop-ai-it-will-erase-webs-historical-record)**
+  *<p>Article URL: <a href="https://www.eff.org/deeplinks/2026/03/blocking-internet-archive-wont-stop-ai-it-will-erase-webs-historical-record">https://www.eff.org/deeplinks/2026/03/blocking-internet-arch...*
+  📅 Sat, 21 Mar 2026 07:30:16 +0000
+
 - **[FFmpeg 101 (2024)](https://blogs.igalia.com/llepage/ffmpeg-101/)**
   *<p>Article URL: <a href="https://blogs.igalia.com/llepage/ffmpeg-101/">https://blogs.igalia.com/llepage/ffmpeg-101/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=47463547">htt...*
   📅 Sat, 21 Mar 2026 02:47:13 +0000
-
-- **[purl: a curl-esque CLI for making HTTP requests that require payment](https://www.purl.dev/)**
-  *<p>Article URL: <a href="https://www.purl.dev/">https://www.purl.dev/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=47463354">https://news.ycombinator.com/item?id=47463354</a>...*
-  📅 Sat, 21 Mar 2026 02:09:08 +0000
-
-- **[Traces of Evil](https://www.tracesofevil.com/)**
-  *<p>Article URL: <a href="https://www.tracesofevil.com/">https://www.tracesofevil.com/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=47462915">https://news.ycombinator.com/item...*
-  📅 Sat, 21 Mar 2026 00:54:27 +0000
 
 - **[Linux Applications Programming by Example: The Fundamental APIs (2nd Edition)](https://github.com/arnoldrobbins/LinuxByExample-2e)**
   *<p>Article URL: <a href="https://github.com/arnoldrobbins/LinuxByExample-2e">https://github.com/arnoldrobbins/LinuxByExample-2e</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=4...*
   📅 Fri, 20 Mar 2026 23:57:22 +0000
 
-- **[Show HN: Red Grid Link – peer-to-peer team tracking over Bluetooth, no servers](https://github.com/RedGridTactical/RedGridLink)**
-  *<p>I go on a lot of backcountry trips where I barely get cell service. If my group splits, nobody knows knows where anyone is until you regroup at camp or at your destination. You can buy Garmin radio...*
-  📅 Fri, 20 Mar 2026 22:25:51 +0000
-
 - **[Ghostling](https://github.com/ghostty-org/ghostling)**
   *<p>Article URL: <a href="https://github.com/ghostty-org/ghostling">https://github.com/ghostty-org/ghostling</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=47461378">https://new...*
   📅 Fri, 20 Mar 2026 22:11:37 +0000
+
+- **[Show HN: We built a terminal-only Bluesky / AT Proto client written in Fortran](https://github.com/FormerLab/fortransky)**
+  *<p>Yes, that Fortran.</p>
+<hr />
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=47461321">https://news.ycombinator.com/item?id=47461321</a></p>
+<p>Points: 92</p>
+<p># Comments: 47</p>...*
+  📅 Fri, 20 Mar 2026 22:06:51 +0000
 
 ### 📑 TechCrunch
 
@@ -103,15 +106,19 @@
 
 ### 📑 Dev.to
 
-- **[I Replaced Google Drive with a Home Server That Costs Almost Nothing](https://dev.to/avgskully/i-replaced-google-drive-with-a-home-server-that-costs-almost-nothing-2c6l)**
-  *<p>I was paying ₹650/month for Google One's 2TB plan. That's ₹6,500 a year — for storage I don't own, on servers I don't control, where my photos could be used to train AI models.</p>
+- **[Astrology Meets AI: Building a Free Self-Discovery Tool](https://dev.to/eonlee/astrology-meets-ai-building-a-free-self-discovery-tool-4j9h)**
+  *<h2>
+  
+  
+  The Cosmos in Your Browser: A Developer's Journey into AI Mysticism
+</h2>
 
-<p>Then I looke...*
-  📅 Sat, 21 Mar 2026 06:27:20 +0000
+<p>Let's face it: as developers, we love to build things. We build APIs, we deploy containers, and we optimize d...*
+  📅 Sat, 21 Mar 2026 12:27:02 +0000
 
-- **[Optimizing for Zero: Building a High-Performance Browser Runner with No Budget](https://dev.to/getinfotoyou/optimizing-for-zero-building-a-high-performance-browser-runner-with-no-budget-1mf4)**
-  *<p>We have all been there: you have five minutes to kill between tasks, you search for a quick game, and you are immediately met with a 30-second unskippable ad, a request for your email, or a 'limite...*
-  📅 Sat, 21 Mar 2026 06:02:58 +0000
+- **[How I Deployed My First Production App on AWS EC2 — Every Mistake I Made](https://dev.to/codephoenix86/how-i-deployed-my-first-production-app-on-aws-ec2-every-mistake-i-made-4e8e)**
+  *<p>I am a third-year computer science student at IIIT Sonepat. Recently, I deployed my chat application, FastChat, on a live AWS EC2 server with HTTPS support, a domain name, and a proper Nginx revers...*
+  📅 Sat, 21 Mar 2026 12:26:50 +0000
 
 </details>
 
@@ -119,103 +126,103 @@
 
 ### 📈 Daily Trending
 
-- **[arinnem/stitchSkill](https://github.com/arinnem/stitchSkill)** ⭐ 6
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
+- **[zhu1090093659/spec_driven_develop](https://github.com/zhu1090093659/spec_driven_develop)** ⭐ 43
+  ![Shell](https://img.shields.io/badge/-Shell-lightgrey)
   None
 
-- **[fdhhhdjd/class-prometheus-grafana-telegram-alerts](https://github.com/fdhhhdjd/class-prometheus-grafana-telegram-alerts)** ⭐ 6
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
-  🚨 This project is a complete, containerized monitoring environment designed to simulate real-world application metrics, visualize them, and automatically send alerts to a Telegram chat.
-
-- **[robertohluna/jido_claw](https://github.com/robertohluna/jido_claw)** ⭐ 5
-  ![Elixir](https://img.shields.io/badge/-Elixir-lightgrey)
-  JidoClaw — Open-source OpenClaw alternative built on Jido for Elixir/OTP. AI agent CLI with swarm orchestration, 30 tools, multi-provider support, and live terminal display.
-
-- **[ProfAlex2021/CC2026BD](https://github.com/ProfAlex2021/CC2026BD)** ⭐ 4
-  ![TSQL](https://img.shields.io/badge/-TSQL-lightgrey)
+- **[victorsosaMx/vsWaybar-Studio](https://github.com/victorsosaMx/vsWaybar-Studio)** ⭐ 40
+  ![Python](https://img.shields.io/badge/-Python-blue)
   None
 
-- **[MatchaOnMuffins/orchestrator](https://github.com/MatchaOnMuffins/orchestrator)** ⭐ 3
-  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
-  Orchestrate agents in a swarm
-
-- **[cy-888/OpeN64](https://github.com/cy-888/OpeN64)** ⭐ 3
+- **[Quantumderdisengage/ROBLOX-UNIVERSAL-SC-2026](https://github.com/Quantumderdisengage/ROBLOX-UNIVERSAL-SC-2026)** ⭐ 22
   ![None](https://img.shields.io/badge/-None-lightgrey)
-  An open source N64 motherboard recreation made in KiCAD.
+  🔥🎯 Roblox universal hack script 2026 — god mode, fly, noclip, ESP, infinite jump, auto-farm, aimbot. kill aura. Works Krnl/Fluxus/Solara. Undetected
 
-- **[nessielabs/codequiz](https://github.com/nessielabs/codequiz)** ⭐ 3
+- **[DeciGladiator/synapse-script-hub-roblox-download](https://github.com/DeciGladiator/synapse-script-hub-roblox-download)** ⭐ 22
   ![None](https://img.shields.io/badge/-None-lightgrey)
-  Duolingo for your codebase — a Claude Code skill that quizzes you on your own code with XP, spaced repetition, and mastery tracking
+  The ultimate Synapse Script Hub on GitHub. High-speed automation and professional Lua control for modern Roblox gaming environments.
 
-- **[byowork/manga](https://github.com/byowork/manga)** ⭐ 3
-  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
-  A modern, fast manga reader powered by Byo Cáo — built with Astro, React & Cloudflare Workers
+- **[VectorHazeSleeve/geometry-dash-hack](https://github.com/VectorHazeSleeve/geometry-dash-hack)** ⭐ 22
+  ![None](https://img.shields.io/badge/-None-lightgrey)
+  Optimize level completion with the Geometry Dash Hack toolkit on GitHub. Advanced features for professional speed control and automation.
+
+- **[AquaCzarBrace/FPS_Internet_Optimizer](https://github.com/AquaCzarBrace/FPS_Internet_Optimizer)** ⭐ 22
+  ![None](https://img.shields.io/badge/-None-lightgrey)
+  Premium FPS Booster & Ping Optimizer with Lifetime Access.
+
+- **[CabinetmakerExhibit/vape-v4-pro-client](https://github.com/CabinetmakerExhibit/vape-v4-pro-client)** ⭐ 22
+  ![None](https://img.shields.io/badge/-None-lightgrey)
+  An industry-leading ghost client for Minecraft that provides a comprehensive suite of highly customizable combat and movement modules designed for seamless integration.
+
+- **[Boulderzummask/discord-webhook-automation](https://github.com/Boulderzummask/discord-webhook-automation)** ⭐ 22
+  ![None](https://img.shields.io/badge/-None-lightgrey)
+  A high-performance automation script designed to interface with the Discord API for sending scheduled, rich-embed notifications and data logs via secure webhooks.
 
 ### 📈 Weekly Trending
 
-- **[NVIDIA/NemoClaw](https://github.com/NVIDIA/NemoClaw)** ⭐ 14,449
+- **[NVIDIA/NemoClaw](https://github.com/NVIDIA/NemoClaw)** ⭐ 14,586
   ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
   Run OpenClaw securely inside NVIDIA OpenShell with managed inference
 
-- **[aiming-lab/AutoResearchClaw](https://github.com/aiming-lab/AutoResearchClaw)** ⭐ 7,174
+- **[aiming-lab/AutoResearchClaw](https://github.com/aiming-lab/AutoResearchClaw)** ⭐ 7,246
   ![Python](https://img.shields.io/badge/-Python-blue)
   Fully autonomous & self-evolving research from idea to paper. Chat an Idea. Get a Paper. 🦞
 
-- **[MoonshotAI/Attention-Residuals](https://github.com/MoonshotAI/Attention-Residuals)** ⭐ 2,292
+- **[MoonshotAI/Attention-Residuals](https://github.com/MoonshotAI/Attention-Residuals)** ⭐ 2,349
   ![None](https://img.shields.io/badge/-None-lightgrey)
   None
 
-- **[HKUDS/ClawTeam](https://github.com/HKUDS/ClawTeam)** ⭐ 2,184
+- **[HKUDS/ClawTeam](https://github.com/HKUDS/ClawTeam)** ⭐ 2,309
   ![Python](https://img.shields.io/badge/-Python-blue)
   ClawTeam: Agent Swarm Intelligence (One Command → Full Automation)
 
-- **[VoltAgent/awesome-codex-subagents](https://github.com/VoltAgent/awesome-codex-subagents)** ⭐ 1,887
-  ![None](https://img.shields.io/badge/-None-lightgrey)
-  A collection of 130+ specialized Codex subagents covering a wide range of development use cases.
-
-- **[Lum1104/Understand-Anything](https://github.com/Lum1104/Understand-Anything)** ⭐ 1,607
+- **[Lum1104/Understand-Anything](https://github.com/Lum1104/Understand-Anything)** ⭐ 1,966
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   Claude Code skills that turn any codebase into an interactive knowledge graph you can explore, search, and ask questions about (Multi-platform e.g., Codex are supported).
 
-- **[zerobootdev/zeroboot](https://github.com/zerobootdev/zeroboot)** ⭐ 1,483
+- **[VoltAgent/awesome-codex-subagents](https://github.com/VoltAgent/awesome-codex-subagents)** ⭐ 1,918
+  ![None](https://img.shields.io/badge/-None-lightgrey)
+  A collection of 130+ specialized Codex subagents covering a wide range of development use cases.
+
+- **[zerobootdev/zeroboot](https://github.com/zerobootdev/zeroboot)** ⭐ 1,596
   ![Rust](https://img.shields.io/badge/-Rust-brown)
   Sub-millisecond VM sandboxes for AI agents via copy-on-write forking
 
-- **[cnlimiter/codex-manager](https://github.com/cnlimiter/codex-manager)** ⭐ 1,260
+- **[cnlimiter/codex-manager](https://github.com/cnlimiter/codex-manager)** ⭐ 1,282
   ![Python](https://img.shields.io/badge/-Python-blue)
   None
 
 ### 📈 Monthly Trending
 
-- **[karpathy/autoresearch](https://github.com/karpathy/autoresearch)** ⭐ 46,488
+- **[karpathy/autoresearch](https://github.com/karpathy/autoresearch)** ⭐ 47,075
   ![Python](https://img.shields.io/badge/-Python-blue)
   AI agents running research on single-GPU nanochat training automatically
 
-- **[garrytan/gstack](https://github.com/garrytan/gstack)** ⭐ 33,102
+- **[garrytan/gstack](https://github.com/garrytan/gstack)** ⭐ 33,840
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   Use Garry Tan's exact Claude Code setup: 15 opinionated tools that serve as CEO, Designer, Eng Manager, Release Manager, Doc Engineer, and QA
 
-- **[paperclipai/paperclip](https://github.com/paperclipai/paperclip)** ⭐ 30,744
+- **[paperclipai/paperclip](https://github.com/paperclipai/paperclip)** ⭐ 30,896
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   Open-source orchestration for zero-human companies
 
-- **[googleworkspace/cli](https://github.com/googleworkspace/cli)** ⭐ 21,833
+- **[googleworkspace/cli](https://github.com/googleworkspace/cli)** ⭐ 21,863
   ![Rust](https://img.shields.io/badge/-Rust-brown)
   Google Workspace CLI — one command-line tool for Drive, Gmail, Calendar, Sheets, Docs, Chat, Admin, and more. Dynamically built from Google Discovery Service. Includes AI agent skills.
 
-- **[HKUDS/CLI-Anything](https://github.com/HKUDS/CLI-Anything)** ⭐ 20,071
+- **[HKUDS/CLI-Anything](https://github.com/HKUDS/CLI-Anything)** ⭐ 20,202
   ![Python](https://img.shields.io/badge/-Python-blue)
   CLI-Anything: Making ALL Software Agent-Native
 
-- **[RightNow-AI/openfang](https://github.com/RightNow-AI/openfang)** ⭐ 15,129
+- **[RightNow-AI/openfang](https://github.com/RightNow-AI/openfang)** ⭐ 15,148
   ![Rust](https://img.shields.io/badge/-Rust-brown)
   Open-source Agent Operating System
 
-- **[NVIDIA/NemoClaw](https://github.com/NVIDIA/NemoClaw)** ⭐ 14,449
+- **[NVIDIA/NemoClaw](https://github.com/NVIDIA/NemoClaw)** ⭐ 14,586
   ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
   Run OpenClaw securely inside NVIDIA OpenShell with managed inference
 
-- **[openai/symphony](https://github.com/openai/symphony)** ⭐ 13,660
+- **[openai/symphony](https://github.com/openai/symphony)** ⭐ 13,683
   ![Elixir](https://img.shields.io/badge/-Elixir-lightgrey)
   Symphony turns project work into isolated, autonomous implementation runs, allowing teams to manage work instead of supervising coding agents.
 
@@ -486,59 +493,59 @@ See [kubernetes-announce@](https://groups.google.com/forum/#!forum/kubernetes-an
 
 | Skill | Status |
 |-------|--------|
-| Java | 🟢 Proficient |
+| Java | ⚪ Planned |
 | Python | 🟡 Learning |
-| JavaScript | 🟢 Proficient |
-| TypeScript | 🟢 Proficient |
-| Go | 🟡 Learning |
+| JavaScript | ⚪ Planned |
+| TypeScript | 🟡 Learning |
+| Go | 🔴 Beginner |
 
 ### Frameworks
 
 | Skill | Status |
 |-------|--------|
-| React | 🔴 Beginner |
-| Spring Boot | 🟡 Learning |
+| React | ⚪ Planned |
+| Spring Boot | 🔴 Beginner |
 | Django | 🔴 Beginner |
-| Node.js | ⚪ Planned |
+| Node.js | 🟢 Proficient |
 | Next.js | 🔴 Beginner |
 
 ### Cybersecurity
 
 | Skill | Status |
 |-------|--------|
-| Penetration Testing | 🔴 Beginner |
+| Penetration Testing | 🟢 Proficient |
 | Web Security | 🟢 Proficient |
 | Network Security | 🟢 Proficient |
-| OWASP | ⚪ Planned |
+| OWASP | 🔴 Beginner |
 
 ### Ai Ml
 
 | Skill | Status |
 |-------|--------|
 | Machine Learning | 🟡 Learning |
-| Deep Learning | ⚪ Planned |
+| Deep Learning | 🔴 Beginner |
 | NLP | ⚪ Planned |
-| Computer Vision | 🔴 Beginner |
-| TensorFlow | 🟢 Proficient |
-| PyTorch | ⚪ Planned |
+| Computer Vision | 🟢 Proficient |
+| TensorFlow | ⚪ Planned |
+| PyTorch | 🟡 Learning |
 
 ### Devops
 
 | Skill | Status |
 |-------|--------|
-| Docker | 🔴 Beginner |
-| Kubernetes | 🟡 Learning |
-| CI/CD | 🔴 Beginner |
-| AWS | 🟢 Proficient |
+| Docker | 🟢 Proficient |
+| Kubernetes | ⚪ Planned |
+| CI/CD | 🟢 Proficient |
+| AWS | 🔴 Beginner |
 | Azure | 🟡 Learning |
 
 ### Other
 
 | Skill | Status |
 |-------|--------|
-| Blockchain | 🟢 Proficient |
-| Web3 | 🟢 Proficient |
-| Cloud Computing | 🟡 Learning |
+| Blockchain | 🟡 Learning |
+| Web3 | 🔴 Beginner |
+| Cloud Computing | ⚪ Planned |
 
 </details>
 
