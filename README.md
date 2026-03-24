@@ -46,33 +46,41 @@
 
 ### 📑 Hacker News
 
-- **[AI boom risks widening wealth divide, says BlackRock's Larry Fink](https://www.theguardian.com/technology/2026/mar/23/ai-boom-risks-widening-wealth-divide-blackrock-larry-fink)**
-  *<p>Article URL: <a href="https://www.theguardian.com/technology/2026/mar/23/ai-boom-risks-widening-wealth-divide-blackrock-larry-fink">https://www.theguardian.com/technology/2026/mar/23/ai-boom-risks-...*
-  📅 Mon, 23 Mar 2026 23:32:17 +0000
+- **[Log File Viewer for the Terminal](https://lnav.org/)**
+  *<p>Article URL: <a href="https://lnav.org/">https://lnav.org/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=47498924">https://news.ycombinator.com/item?id=47498924</a></p>
+<p>...*
+  📅 Tue, 24 Mar 2026 05:32:53 +0000
 
-- **[Pentagon Adopts New Limits for Journalists After Court Loss](https://www.nytimes.com/2026/03/23/business/media/pentagon-closes-journalists-work-area.html)**
-  *<p>Article URL: <a href="https://www.nytimes.com/2026/03/23/business/media/pentagon-closes-journalists-work-area.html">https://www.nytimes.com/2026/03/23/business/media/pentagon-closes-journalists-wor...*
-  📅 Mon, 23 Mar 2026 23:02:01 +0000
+- **[Microsoft blocks trick to unlock native NVMe driver, but workarounds still exist](https://www.tomshardware.com/software/windows/microsoft-blocks-the-registry-hack-trick-that-unlocked-native-nvme-performance-on-windows-11)**
+  *<p>Article URL: <a href="https://www.tomshardware.com/software/windows/microsoft-blocks-the-registry-hack-trick-that-unlocked-native-nvme-performance-on-windows-11">https://www.tomshardware.com/softwa...*
+  📅 Tue, 24 Mar 2026 05:00:21 +0000
+
+- **[Ubisoft's death by a thousand cuts](https://www.thegamebusiness.com/p/ubisofts-death-by-a-thousand-cuts)**
+  *<p>Article URL: <a href="https://www.thegamebusiness.com/p/ubisofts-death-by-a-thousand-cuts">https://www.thegamebusiness.com/p/ubisofts-death-by-a-thousand-cuts</a></p>
+<p>Comments URL: <a href="http...*
+  📅 Tue, 24 Mar 2026 02:15:40 +0000
+
+- **[Sunsetting the Techempower Framework Benchmarks](https://github.com/TechEmpower/FrameworkBenchmarks/issues/10932)**
+  *<p>Article URL: <a href="https://github.com/TechEmpower/FrameworkBenchmarks/issues/10932">https://github.com/TechEmpower/FrameworkBenchmarks/issues/10932</a></p>
+<p>Comments URL: <a href="https://news...*
+  📅 Tue, 24 Mar 2026 01:54:03 +0000
+
+- **[Epoch confirms GPT5.4 Pro solved a frontier math open problem](https://epoch.ai/frontiermath/open-problems/ramsey-hypergraphs)**
+  *<p>Article URL: <a href="https://epoch.ai/frontiermath/open-problems/ramsey-hypergraphs">https://epoch.ai/frontiermath/open-problems/ramsey-hypergraphs</a></p>
+<p>Comments URL: <a href="https://news.y...*
+  📅 Tue, 24 Mar 2026 01:53:09 +0000
 
 - **[Windows 3.1 tiled background .bmp archive](https://github.com/andreasjansson/win-3.1-backgrounds)**
   *<p>Article URL: <a href="https://github.com/andreasjansson/win-3.1-backgrounds">https://github.com/andreasjansson/win-3.1-backgrounds</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/ite...*
   📅 Mon, 23 Mar 2026 22:52:35 +0000
 
-- **[IRIX 3dfx Voodoo driver and glide2x IRIX port](https://sdz-mods.com/index.php/2026/03/23/irix-3dfx-voodoo-driver-glide2x-irix-port/)**
-  *<p>Article URL: <a href="https://sdz-mods.com/index.php/2026/03/23/irix-3dfx-voodoo-driver-glide2x-irix-port/">https://sdz-mods.com/index.php/2026/03/23/irix-3dfx-voodoo-driver-glide2x-irix-port/</a><...*
-  📅 Mon, 23 Mar 2026 22:37:15 +0000
-
-- **[Hacker mints $80M USD worth of USR stablecoins](https://bfmtimes.com/hacker-mints-80-million-worth-of-fake-stablecoins-and-swaps-them-for-eth/)**
-  *<p>Article URL: <a href="https://bfmtimes.com/hacker-mints-80-million-worth-of-fake-stablecoins-and-swaps-them-for-eth/">https://bfmtimes.com/hacker-mints-80-million-worth-of-fake-stablecoins-and-swap...*
-  📅 Mon, 23 Mar 2026 22:01:15 +0000
-
-- **[Claude Code Cheat Sheet](https://cc.storyfox.cz)**
-  *<p>Article URL: <a href="https://cc.storyfox.cz">https://cc.storyfox.cz</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=47495527">https://news.ycombinator.com/item?id=47495527</...*
-  📅 Mon, 23 Mar 2026 21:44:20 +0000
-
 ### 📑 TechCrunch
+
+- **[Delve halts demos, Insight Partners scrubs investment post amid ‘fake compliance’ allegations](https://techcrunch.com/2026/03/23/delve-halts-demos-insight-partners-scrubs-investment-post-amid-fake-compliance-allegations/)**
+  *After a whistleblower alleged that the startup fabricated audit evidence, its prominent Series A investor removed an article detailing why it led the deal....*
+  📅 Tue, 24 Mar 2026 05:26:20 +0000
 
 - **[Emil Michael, now a senior Pentagon official, says he’ll never forgive Uber investors who ousted him and Kalanick](https://techcrunch.com/2026/03/23/emil-michael-now-a-senior-pentagon-official-says-hell-never-forgive-uber-investors-who-ousted-him-and-kalanick/)**
   *When asked whether he was still "salty" about about being shown the door at Uber, alongside co-founder Travis Kalanick, Michael didn't equivocate. "I'll never forget that, nor forgive," he said....*
@@ -94,25 +102,15 @@
   *Apple Maps may soon serve ads in top results when users search on terms like "restaurants."...*
   📅 Mon, 23 Mar 2026 22:33:03 +0000
 
-- **[Someone has publicly leaked an exploit kit that can hack millions of iPhones](https://techcrunch.com/2026/03/23/someone-has-publicly-leaked-an-exploit-kit-that-can-hack-millions-of-iphones/)**
-  *Leaked "DarkSword" exploits published to GitHub allow hackers and cybercriminals to target iPhone users running old versions of iOS with spyware, according to cybersecurity researchers....*
-  📅 Mon, 23 Mar 2026 20:42:41 +0000
-
 ### 📑 Dev.to
 
-- **[Every Command Shows Its Savings: contextzip: 200 40](https://dev.to/ji_ai/every-command-shows-its-savings-contextzip-200-40-1knm)**
-  *<p>After every command, ContextZip appends one line:<br />
-</p>
+- **[Your Email Sounds Too Aggressive and You Know It. Here's How to Fix It in 2 Minutes](https://dev.to/skippy_magnificent_8cce24/your-email-sounds-too-aggressive-and-you-know-it-heres-how-to-fix-it-in-2-minutes-5coc)**
+  *<p>You wrote it fast. You wrote it honest. And now you're looking at it and you know — you know — it's too much. It's not wrong. Everything in it is true. But the way it's written, the heat in the sen...*
+  📅 Tue, 24 Mar 2026 06:45:44 +0000
 
-<div class="highlight js-code-highlight">
-<pre class="highlight plaintext"><code>💾 contextzip: 8,421 → 312 chars (96% saved)
-</code></p...*
-  📅 Tue, 24 Mar 2026 00:57:48 +0000
-
-- **[Analyzing Akamai BMP 4.1.3 - Part 2](https://dev.to/xve-e/analyzing-akamai-bmp-413-part-2-31k3)**
-  *<p><a href="https://dev.to/xve-e/analyzing-akamai-bmp-413-part-1-for-noobs-learn-4pmm">PART 1</a><br />
-This article was uploaded to a self-published website because the engine here doesn't support KA...*
-  📅 Tue, 24 Mar 2026 00:49:06 +0000
+- **[useMediaQuery: Complete Guide to Responsive Design in React](https://dev.to/childrentime/usemediaquery-complete-guide-to-responsive-design-in-react-4n1k)**
+  *<p>CSS media queries handle most responsive styling, but sometimes your React components need to know about the viewport, user preferences, or device capabilities at the JavaScript level. Maybe you ne...*
+  📅 Tue, 24 Mar 2026 06:40:51 +0000
 
 </details>
 
@@ -120,103 +118,103 @@ This article was uploaded to a self-published website because the engine here do
 
 ### 📈 Daily Trending
 
-- **[aymericzip/intlayer-vite-lit-template](https://github.com/aymericzip/intlayer-vite-lit-template)** ⭐ 3
-  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
-  None
-
-- **[BarackChen/antigravtiy-pixel-game](https://github.com/BarackChen/antigravtiy-pixel-game)** ⭐ 2
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
-  None
-
-- **[Rushikesh-Yeole/Neokey](https://github.com/Rushikesh-Yeole/Neokey)** ⭐ 2
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
-  Neokey is a zero-knowledge vaultless password platform that doesn't store your passwords or identity.
-
-- **[3886370410/BLzTGxjzXW](https://github.com/3886370410/BLzTGxjzXW)** ⭐ 1
-  ![None](https://img.shields.io/badge/-None-lightgrey)
-  None
-
-- **[Raresney/Cybersecurity-portfolio](https://github.com/Raresney/Cybersecurity-portfolio)** ⭐ 1
+- **[yangruoliu/VideoDetective](https://github.com/yangruoliu/VideoDetective)** ⭐ 36
   ![Python](https://img.shields.io/badge/-Python-blue)
-  Cybersecurity portfolio — hands-on projects, labs, and notes covering ethical hacking, threat analysis, honeypots, malware analysis, and network security. Built with Python, Bash, Scapy, and Nmap.
+  VideoDetective: Clue Hunting via both Extrinsic Query and Intrinsic Relevance for Long Video Understanding
 
-- **[5771323yang/BBryIzOuXe](https://github.com/5771323yang/BBryIzOuXe)** ⭐ 1
+- **[0xShe/PHP-Code-Audit-Skill](https://github.com/0xShe/PHP-Code-Audit-Skill)** ⭐ 27
   ![None](https://img.shields.io/badge/-None-lightgrey)
   None
 
-- **[opengit1234/work1234](https://github.com/opengit1234/work1234)** ⭐ 1
-  ![None](https://img.shields.io/badge/-None-lightgrey)
-  my secendwork
+- **[LimHyungTae/Awesome-PhD-CV](https://github.com/LimHyungTae/Awesome-PhD-CV)** ⭐ 17
+  ![TeX](https://img.shields.io/badge/-TeX-lightgrey)
+  Curated academic CV templates and guidelines for PhD students, researchers, and faculty job applicants.
 
-- **[syncscripts404/Sync-Backpacks](https://github.com/syncscripts404/Sync-Backpacks)** ⭐ 1
-  ![Lua](https://img.shields.io/badge/-Lua-lightgrey)
-  Backpacks with persistent stash + synced prop - Works with ox_inventory & qb-inventory
+- **[kcchien/claude-code-statusline](https://github.com/kcchien/claude-code-statusline)** ⭐ 10
+  ![Shell](https://img.shields.io/badge/-Shell-lightgrey)
+  A beautiful, information-dense status line for Claude Code — gradient progress bar, smart hiding, git status, cost tracking, and more.
+
+- **[mrdoob/Starter-Kit-Racing](https://github.com/mrdoob/Starter-Kit-Racing)** ⭐ 10
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
+  Basic template for a racing game.
+
+- **[stuudev/bagsy](https://github.com/stuudev/bagsy)** ⭐ 9
+  ![Go](https://img.shields.io/badge/-Go-cyan)
+  AI Trading Agent for all coins on @BagsApp
+
+- **[duo121/weixin-agent](https://github.com/duo121/weixin-agent)** ⭐ 7
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
+  AI-native bridge CLI for attaching WeChat to a local Codex session
+
+- **[T3-Content/mailto-copy](https://github.com/T3-Content/mailto-copy)** ⭐ 7
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
+  None
 
 ### 📈 Weekly Trending
 
-- **[danveloper/flash-moe](https://github.com/danveloper/flash-moe)** ⭐ 1,669
+- **[danveloper/flash-moe](https://github.com/danveloper/flash-moe)** ⭐ 1,717
   ![Objective-C](https://img.shields.io/badge/-Objective-C-lightgrey)
   Running a big model on a small laptop
 
-- **[dontbesilent2025/dbskill](https://github.com/dontbesilent2025/dbskill)** ⭐ 1,252
+- **[dontbesilent2025/dbskill](https://github.com/dontbesilent2025/dbskill)** ⭐ 1,310
   ![None](https://img.shields.io/badge/-None-lightgrey)
   dontbesilent 的商业诊断 Skills for Claude Code
 
-- **[math-inc/OpenGauss](https://github.com/math-inc/OpenGauss)** ⭐ 1,061
+- **[math-inc/OpenGauss](https://github.com/math-inc/OpenGauss)** ⭐ 1,067
   ![Python](https://img.shields.io/badge/-Python-blue)
   None
 
-- **[lxf746/any-auto-register](https://github.com/lxf746/any-auto-register)** ⭐ 1,029
+- **[lxf746/any-auto-register](https://github.com/lxf746/any-auto-register)** ⭐ 1,042
   ![Python](https://img.shields.io/badge/-Python-blue)
   None
 
-- **[louislva/claude-peers-mcp](https://github.com/louislva/claude-peers-mcp)** ⭐ 946
+- **[louislva/claude-peers-mcp](https://github.com/louislva/claude-peers-mcp)** ⭐ 992
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   Allow all your Claude Codes to message each other ad-hoc!
 
-- **[mattprusak/autoresearch-genealogy](https://github.com/mattprusak/autoresearch-genealogy)** ⭐ 905
+- **[mattprusak/autoresearch-genealogy](https://github.com/mattprusak/autoresearch-genealogy)** ⭐ 908
   ![None](https://img.shields.io/badge/-None-lightgrey)
   Structured prompts, vault templates, and archive guides for AI-assisted genealogy research. Built for Claude Code.
 
-- **[truongduy2611/app-store-preflight-skills](https://github.com/truongduy2611/app-store-preflight-skills)** ⭐ 896
+- **[truongduy2611/app-store-preflight-skills](https://github.com/truongduy2611/app-store-preflight-skills)** ⭐ 907
   ![None](https://img.shields.io/badge/-None-lightgrey)
   AI agent skill to scan iOS/macOS projects for App Store rejection patterns before submission
 
-- **[BryanLunduke/DoesItAgeVerify](https://github.com/BryanLunduke/DoesItAgeVerify)** ⭐ 776
-  ![None](https://img.shields.io/badge/-None-lightgrey)
-  The age verification status of Open Source Operating Systems
+- **[eze-is/web-access](https://github.com/eze-is/web-access)** ⭐ 868
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
+  给 Claude Code 装上完整联网能力的 skill：三层通道调度 + 浏览器 CDP + 并行分治
 
 ### 📈 Monthly Trending
 
-- **[karpathy/autoresearch](https://github.com/karpathy/autoresearch)** ⭐ 52,234
+- **[karpathy/autoresearch](https://github.com/karpathy/autoresearch)** ⭐ 52,803
   ![Python](https://img.shields.io/badge/-Python-blue)
   AI agents running research on single-GPU nanochat training automatically
 
-- **[garrytan/gstack](https://github.com/garrytan/gstack)** ⭐ 41,986
+- **[garrytan/gstack](https://github.com/garrytan/gstack)** ⭐ 43,059
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   Use Garry Tan's exact Claude Code setup: 15 opinionated tools that serve as CEO, Designer, Eng Manager, Release Manager, Doc Engineer, and QA
 
-- **[paperclipai/paperclip](https://github.com/paperclipai/paperclip)** ⭐ 32,223
+- **[paperclipai/paperclip](https://github.com/paperclipai/paperclip)** ⭐ 32,314
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   Open-source orchestration for zero-human companies
 
-- **[googleworkspace/cli](https://github.com/googleworkspace/cli)** ⭐ 22,255
+- **[googleworkspace/cli](https://github.com/googleworkspace/cli)** ⭐ 22,287
   ![Rust](https://img.shields.io/badge/-Rust-brown)
   Google Workspace CLI — one command-line tool for Drive, Gmail, Calendar, Sheets, Docs, Chat, Admin, and more. Dynamically built from Google Discovery Service. Includes AI agent skills.
 
-- **[HKUDS/CLI-Anything](https://github.com/HKUDS/CLI-Anything)** ⭐ 21,912
+- **[HKUDS/CLI-Anything](https://github.com/HKUDS/CLI-Anything)** ⭐ 22,131
   ![Python](https://img.shields.io/badge/-Python-blue)
   CLI-Anything: Making ALL Software Agent-Native
 
-- **[NVIDIA/NemoClaw](https://github.com/NVIDIA/NemoClaw)** ⭐ 15,924
+- **[NVIDIA/NemoClaw](https://github.com/NVIDIA/NemoClaw)** ⭐ 16,028
   ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
   Run OpenClaw more securely inside NVIDIA OpenShell with managed inference
 
-- **[RightNow-AI/openfang](https://github.com/RightNow-AI/openfang)** ⭐ 15,357
+- **[RightNow-AI/openfang](https://github.com/RightNow-AI/openfang)** ⭐ 15,378
   ![Rust](https://img.shields.io/badge/-Rust-brown)
   Open-source Agent Operating System
 
-- **[openai/symphony](https://github.com/openai/symphony)** ⭐ 13,889
+- **[openai/symphony](https://github.com/openai/symphony)** ⭐ 13,910
   ![Elixir](https://img.shields.io/badge/-Elixir-lightgrey)
   Symphony turns project work into isolated, autonomous implementation runs, allowing teams to manage work instead of supervising coding agents.
 
@@ -486,59 +484,59 @@ See [kubernetes-announce@](https://groups.google.com/forum/#!forum/kubernetes-an
 
 | Skill | Status |
 |-------|--------|
-| Java | 🔴 Beginner |
-| Python | 🔴 Beginner |
-| JavaScript | 🔴 Beginner |
+| Java | ⚪ Planned |
+| Python | 🟡 Learning |
+| JavaScript | 🟡 Learning |
 | TypeScript | 🟢 Proficient |
-| Go | ⚪ Planned |
+| Go | 🟢 Proficient |
 
 ### Frameworks
 
 | Skill | Status |
 |-------|--------|
-| React | 🟢 Proficient |
-| Spring Boot | ⚪ Planned |
-| Django | ⚪ Planned |
+| React | 🔴 Beginner |
+| Spring Boot | 🟢 Proficient |
+| Django | 🔴 Beginner |
 | Node.js | ⚪ Planned |
-| Next.js | ⚪ Planned |
+| Next.js | 🔴 Beginner |
 
 ### Cybersecurity
 
 | Skill | Status |
 |-------|--------|
-| Penetration Testing | 🟢 Proficient |
+| Penetration Testing | 🟡 Learning |
 | Web Security | 🟢 Proficient |
-| Network Security | ⚪ Planned |
-| OWASP | 🟡 Learning |
+| Network Security | 🟢 Proficient |
+| OWASP | ⚪ Planned |
 
 ### Ai Ml
 
 | Skill | Status |
 |-------|--------|
-| Machine Learning | ⚪ Planned |
+| Machine Learning | 🟡 Learning |
 | Deep Learning | 🔴 Beginner |
-| NLP | 🟢 Proficient |
+| NLP | 🟡 Learning |
 | Computer Vision | 🔴 Beginner |
-| TensorFlow | ⚪ Planned |
-| PyTorch | 🟢 Proficient |
+| TensorFlow | 🔴 Beginner |
+| PyTorch | ⚪ Planned |
 
 ### Devops
 
 | Skill | Status |
 |-------|--------|
-| Docker | 🔴 Beginner |
-| Kubernetes | 🟡 Learning |
-| CI/CD | ⚪ Planned |
-| AWS | 🟡 Learning |
-| Azure | ⚪ Planned |
+| Docker | ⚪ Planned |
+| Kubernetes | ⚪ Planned |
+| CI/CD | 🟢 Proficient |
+| AWS | 🟢 Proficient |
+| Azure | 🟢 Proficient |
 
 ### Other
 
 | Skill | Status |
 |-------|--------|
 | Blockchain | 🟡 Learning |
-| Web3 | ⚪ Planned |
-| Cloud Computing | 🟡 Learning |
+| Web3 | 🟢 Proficient |
+| Cloud Computing | ⚪ Planned |
 
 </details>
 
