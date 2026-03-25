@@ -46,71 +46,79 @@
 
 ### 📑 Hacker News
 
-- **[I tried to prove I'm not AI. My aunt wasn't convinced](https://www.bbc.com/future/article/20260324-i-tried-to-prove-im-not-an-ai-deepfake)**
-  *<p>Article URL: <a href="https://www.bbc.com/future/article/20260324-i-tried-to-prove-im-not-an-ai-deepfake">https://www.bbc.com/future/article/20260324-i-tried-to-prove-im-not-an-ai-deepfake</a></p>
-...*
-  📅 Wed, 25 Mar 2026 10:28:49 +0000
+- **[Meta and Google found liable in social media addiction trial](https://www.bbc.co.uk/news/articles/c747x7gz249o)**
+  *<p>Article URL: <a href="https://www.bbc.co.uk/news/articles/c747x7gz249o">https://www.bbc.co.uk/news/articles/c747x7gz249o</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=47520...*
+  📅 Wed, 25 Mar 2026 17:43:17 +0000
 
-- **[Meta told to pay $375M for misleading users over child safety](https://www.bbc.com/news/articles/cql75dn07n2o)**
-  *<p>Article URL: <a href="https://www.bbc.com/news/articles/cql75dn07n2o">https://www.bbc.com/news/articles/cql75dn07n2o</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=47514916"...*
-  📅 Wed, 25 Mar 2026 08:52:50 +0000
+- **[Meta and YouTube Found Negligent in Landmark Social Media Addiction Case](https://www.nytimes.com/2026/03/25/technology/social-media-trial-verdict.html)**
+  *<p>Article URL: <a href="https://www.nytimes.com/2026/03/25/technology/social-media-trial-verdict.html">https://www.nytimes.com/2026/03/25/technology/social-media-trial-verdict.html</a></p>
+<p>Comment...*
+  📅 Wed, 25 Mar 2026 17:29:33 +0000
 
-- **[Why I forked httpx](https://tildeweb.nl/~michiel/httpxyz.html)**
-  *<p>Article URL: <a href="https://tildeweb.nl/~michiel/httpxyz.html">https://tildeweb.nl/~michiel/httpxyz.html</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=47514603">https://n...*
-  📅 Wed, 25 Mar 2026 08:05:17 +0000
+- **[Tracy Kidder, Author of 'The Soul of a New Machine,' Dies at 80](https://www.nytimes.com/2026/03/25/books/tracy-kidder-dead.html)**
+  *<p>Article URL: <a href="https://www.nytimes.com/2026/03/25/books/tracy-kidder-dead.html">https://www.nytimes.com/2026/03/25/books/tracy-kidder-dead.html</a></p>
+<p>Comments URL: <a href="https://news...*
+  📅 Wed, 25 Mar 2026 16:43:08 +0000
 
-- **[TurboQuant: Redefining AI efficiency with extreme compression](https://research.google/blog/turboquant-redefining-ai-efficiency-with-extreme-compression/)**
-  *<p>Article URL: <a href="https://research.google/blog/turboquant-redefining-ai-efficiency-with-extreme-compression/">https://research.google/blog/turboquant-redefining-ai-efficiency-with-extreme-compr...*
-  📅 Wed, 25 Mar 2026 05:00:54 +0000
+- **[Jury says Meta knowingly harmed children for profit, awarding landmark verdict](https://www.latimes.com/business/story/2026-03-25/jury-says-meta-knowingly-harmed-children-for-profit-awarding-landmark-verdict)**
+  *<p>Article URL: <a href="https://www.latimes.com/business/story/2026-03-25/jury-says-meta-knowingly-harmed-children-for-profit-awarding-landmark-verdict">https://www.latimes.com/business/story/2026-03...*
+  📅 Wed, 25 Mar 2026 16:31:15 +0000
 
-- **[Show HN: DuckDB community extension for prefiltered HNSW using ACORN-1](https://github.com/cigrainger/duckdb-hnsw-acorn)**
-  *<p>Hey folks! As someone doing hybrid search daily and wishing I could have a pgvector-like experience but with actual prefiltered approximate nearest neighbours, I decided to just take a punt on impl...*
-  📅 Wed, 25 Mar 2026 03:28:04 +0000
+- **[Slovenian officials blame Israeli firm Black Cube for trying to manipulate vote](https://www.wsj.com/world/europe/spies-lies-and-fake-investors-in-disguise-how-plotters-tried-to-flip-a-european-election-1f42b39a)**
+  *<p>Article URL: <a href="https://www.wsj.com/world/europe/spies-lies-and-fake-investors-in-disguise-how-plotters-tried-to-flip-a-european-election-1f42b39a">https://www.wsj.com/world/europe/spies-lies...*
+  📅 Wed, 25 Mar 2026 16:24:15 +0000
 
-- **[VitruvianOS – Desktop Linux Inspired by the BeOS](https://v-os.dev)**
-  *<p>Article URL: <a href="https://v-os.dev">https://v-os.dev</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=47512816">https://news.ycombinator.com/item?id=47512816</a></p>
-<p>Po...*
-  📅 Wed, 25 Mar 2026 03:17:06 +0000
+- **[Quantization from the Ground Up](https://ngrok.com/blog/quantization)**
+  *<p>Article URL: <a href="https://ngrok.com/blog/quantization">https://ngrok.com/blog/quantization</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=47519295">https://news.ycombina...*
+  📅 Wed, 25 Mar 2026 16:06:34 +0000
 
 ### 📑 TechCrunch
 
-- **[Lucid Bots raises $20M to keep up with demand for its window-washing drones](https://techcrunch.com/2026/03/25/lucid-bots-raises-20m-to-keep-up-with-demand-for-its-window-washing-drones/)**
-  *Lucid Bots has seen demand accelerate over the last year for its window cleaning drones and power washing robots....*
-  📅 Wed, 25 Mar 2026 11:00:00 +0000
+- **[Jury finds Meta and Google negligent in landmark social media addiction trial](https://techcrunch.com/2026/03/25/jury-finds-meta-and-youtube-negligent-in-landmark-social-media-addiction-trial/)**
+  *The jury says Meta and YouTube will have to pay $3 million in damages....*
+  📅 Wed, 25 Mar 2026 17:50:36 +0000
 
-- **[A former Thiel fellow’s startup just launched a drone it says can replace police helicopters](https://techcrunch.com/2026/03/24/a-former-thiel-fellows-startup-just-launched-a-drone-it-says-can-replace-police-helicopters/)**
-  *Brinc launched its newest 911 response drone this week, as the company seeks to expand its prominence in the public safety industry....*
-  📅 Wed, 25 Mar 2026 02:30:00 +0000
+- **[Meta is cutting several hundred jobs](https://techcrunch.com/2026/03/25/meta-is-cutting-several-hundred-jobs/)**
+  *The cuts will impact employees in the U.S. and other international markets....*
+  📅 Wed, 25 Mar 2026 17:49:07 +0000
 
-- **[Amazon just bought a startup making kid-size humanoid robots](https://techcrunch.com/2026/03/24/amazon-just-bought-a-startup-making-kid-size-humanoid-robots/)**
-  *The acquisition of Fauna Robotics is the second robotics startup Amazon has purchased this month....*
-  📅 Wed, 25 Mar 2026 00:53:39 +0000
+- **[Apple overhauls its app developer platform with 100 new metrics, more tools](https://techcrunch.com/2026/03/25/apple-overhauls-its-app-developer-platform-with-100-new-metrics-more-tools/)**
+  *Apple is adding 100+ new App Store Connect metrics, giving developers deeper, first-party insights into monetization, subscriptions, and user behavior as it doubles down on its app ecosystem in the AI...*
+  📅 Wed, 25 Mar 2026 17:26:46 +0000
 
-- **[With $3.5B in fresh capital, Kleiner Perkins is going all in on AI](https://techcrunch.com/2026/03/24/with-3-5b-in-fresh-capital-kleiner-perkins-is-going-all-in-on-ai/)**
-  *The fundraise includes $1 billion for investing in early-stage startups, and $2.5 billion for late-stage growth businesses....*
-  📅 Wed, 25 Mar 2026 00:47:20 +0000
+- **[Bernie Sanders and AOC propose a ban on data center construction](https://techcrunch.com/2026/03/25/bernie-sanders-and-aoc-propose-a-ban-on-data-center-construction/)**
+  *Senator Bernie Sanders and Rep. Alexandria Ocasio-Cortez introduced companion legislation to halt construction on new data centers until Congress passes comprehensive AI regulation....*
+  📅 Wed, 25 Mar 2026 17:15:50 +0000
 
-- **[New Mexico just handed Meta its first courtroom defeat over child safety, and the rest of the country is watching](https://techcrunch.com/2026/03/24/new-mexico-just-handed-meta-its-first-courtroom-defeat-over-child-safety-and-the-rest-of-the-country-is-watching/)**
-  *The dollar amount isn’t as important as the fact that this is the first jury verdict of its kind against Meta over harm to young people....*
-  📅 Wed, 25 Mar 2026 00:14:12 +0000
+- **[DeleteMe acquires social media security tool Block Party](https://techcrunch.com/2026/03/25/deleteme-acquires-social-media-security-tool-block-party/)**
+  *Tracey Chou founded Block Party in 2018 as a tool to help people stay safe from targeted harassment on Twitter, inspired by her own experiences....*
+  📅 Wed, 25 Mar 2026 16:51:56 +0000
 
-- **[Lululemon bets Epoch Biodesign can eat its shorts, literally](https://techcrunch.com/2026/03/24/lululemon-bets-epoch-biodesign-can-eat-its-shorts-literally/)**
-  *Startup Epoch Biodesign uses enzymes to break plastic waste down into monomers, the chemical building blocks that can be used to make new plastic....*
-  📅 Wed, 25 Mar 2026 00:01:00 +0000
+- **[Google launches Lyria 3 Pro music generation model](https://techcrunch.com/2026/03/25/google-launches-lyria-3-pro-music-generation-model/)**
+  *Google is launching Lyria 3 Pro, an upgraded music model that generates longer, more customizable tracks, as it expands AI music tools across Gemini, enterprise products, and other services....*
+  📅 Wed, 25 Mar 2026 16:37:43 +0000
 
 ### 📑 Dev.to
 
-- **[InfiniBand Is Losing the Fabric War. Here's What That Changes for Your Architecture.](https://dev.to/ntctech/infiniband-is-losing-the-fabric-war-heres-what-that-changes-for-your-architecture-15em)**
-  *<p>The InfiniBand vs RoCEv2 decision has been settled at the hyperscaler level — and the answer is Ethernet. Broadcom's March 2026 earnings confirmed it: roughly 70% of new AI infrastructure deploymen...*
-  📅 Wed, 25 Mar 2026 12:43:58 +0000
+- **[I finally published a side project I wrote 4 years ago](https://dev.to/yashdatir/i-finally-published-a-side-project-i-wrote-4-years-ago-46il)**
+  *<p>In 2021, I was building a Node.js CLI tool and got frustrated with how bare <code>console.log</code> looks when you're trying to give users meaningful output. So I wrote a small utility class — som...*
+  📅 Wed, 25 Mar 2026 18:36:44 +0000
 
-- **[Google Lighthouse for Beginners: A Real Portfolio Optimization Case Study](https://dev.to/azfar731/google-lighthouse-for-beginners-a-real-portfolio-optimization-case-study-5f62)**
-  *<p>Okay, so you’ve learned what Google Lighthouse is, how it works, and what the metrics mean. But most tutorials stop there instead of showing you how to actually improve them.<br />
-For that purpose...*
-  📅 Wed, 25 Mar 2026 12:43:12 +0000
+- **[Setup a DNS hosted zone in Route53 in AWS.](https://dev.to/jonah_blessy/setup-a-dns-hosted-zone-in-route53-in-aws-71j)**
+  *<p>Go to Route 53<br />
+Create a Hosted Zone<br />
+Enter:</p>
+
+<ul>
+<li>Domain name e.g. <code>jonahblessy.com</code>
+</li>
+<li>Type as Public hosted zone</li>
+</ul>
+
+<p>AWS automatically creates:</p>...*
+  📅 Wed, 25 Mar 2026 18:36:19 +0000
 
 </details>
 
@@ -118,103 +126,103 @@ For that purpose...*
 
 ### 📈 Daily Trending
 
-- **[runesleo/ai-health-vault](https://github.com/runesleo/ai-health-vault)** ⭐ 74
+- **[runesleo/ai-health-vault](https://github.com/runesleo/ai-health-vault)** ⭐ 124
   ![None](https://img.shields.io/badge/-None-lightgrey)
   用 AI + Obsidian 为自己和家人搭建私有化健康管理系统。模板 + Prompt + 搭建指南。
 
-- **[xuanyuanzhifeng/easytshark](https://github.com/xuanyuanzhifeng/easytshark)** ⭐ 68
+- **[xuanyuanzhifeng/easytshark](https://github.com/xuanyuanzhifeng/easytshark)** ⭐ 100
   ![C](https://img.shields.io/badge/-C-lightgrey)
   一款开源的简洁好用的网络抓包分析软件
 
-- **[Gerstep/positioning-plugin](https://github.com/Gerstep/positioning-plugin)** ⭐ 25
+- **[ryfineZ/codex-session-patcher](https://github.com/ryfineZ/codex-session-patcher)** ⭐ 86
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  A lightweight Python tool to clean AI refusal responses from Codex CLI session files
+
+- **[apechurch/polymarket-copy-trading-bot](https://github.com/apechurch/polymarket-copy-trading-bot)** ⭐ 82
+  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
+  polymarket copytrading bot A TypeScript/Node bot that mirrors a target Polymarket trader’s activity and places similar orders from your account
+
+- **[giggles53/Lossless-Scaling-Update-FPS](https://github.com/giggles53/Lossless-Scaling-Update-FPS)** ⭐ 70
+  ![None](https://img.shields.io/badge/-None-lightgrey)
+  Lossless Scaling is a PC utility that enhances image quality and frame rates in games using upscaling and frame generation algorithms
+
+- **[duckydunken/ToX-Fortnite-Optimizer-2026-Update-v2.4](https://github.com/duckydunken/ToX-Fortnite-Optimizer-2026-Update-v2.4)** ⭐ 69
+  ![None](https://img.shields.io/badge/-None-lightgrey)
+  An Optimization Tool Specifically Designed for Fortnite, Featuring Hundreds of Fortnite-Specific Tweaks!
+
+- **[kormixzorotop54/Xeno](https://github.com/kormixzorotop54/Xeno)** ⭐ 63
+  ![C++](https://img.shields.io/badge/-C++-pink)
+  Xeno Executor (2026) — High-performance LUA Scripting Environment for Roblox. Features 100% UNC stability, fast execution, and a secure debugging sandbox. Optimized for the latest engine updates.
+
+- **[Gerstep/positioning-plugin](https://github.com/Gerstep/positioning-plugin)** ⭐ 52
   ![None](https://img.shields.io/badge/-None-lightgrey)
   Claude Code plugin: structured positioning statement exercise for startups and teams
 
-- **[charmlinn/blueprint3d-modern](https://github.com/charmlinn/blueprint3d-modern)** ⭐ 19
-  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
-  A modern TypeScript-based rewrite of blueprint3d — faster, cleaner, and actively maintained.
-
-- **[dongatory/dotgears](https://github.com/dongatory/dotgears)** ⭐ 19
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  We develop and publish bite-sized mobile games. Our games are light-hearted, easy to understand, kid-friendly, extremely difficult and incredibly fun.
-
-- **[MetapriseAI/OrgKernel](https://github.com/MetapriseAI/OrgKernel)** ⭐ 18
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  Open-source trust layer for AI agents — cryptographic agent identity (Ed25519), instance-scoped execution tokens, SHA-256 hash-chained audit logging, and enterprise SSO/SCIM federation. The security foundation powering every agent in the Metaprise AURA platform.
-
-- **[nashsu/opencli-rs-skill](https://github.com/nashsu/opencli-rs-skill)** ⭐ 14
-  ![None](https://img.shields.io/badge/-None-lightgrey)
-  The perfect companion for ClaudeCode/OpenClaw/Agent, Give your AI Agent the ability to reach information across the entire web, fetching real-time data from Bilibili, Zhihu, Twitter/X, YouTube, Weibo, Reddit, Facebook, Instagram, TikTok, Notion, Cursor and 55+ platforms with natural language — reusing your Chrome login session, no API keys needed. 
-
-- **[AlexAI-MCP/PlantOntology](https://github.com/AlexAI-MCP/PlantOntology)** ⭐ 14
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  The worlds first open-source plant knowledge graph ? 10,888+ species with OpenCrab semantic architecture
-
 ### 📈 Weekly Trending
 
-- **[slavingia/skills](https://github.com/slavingia/skills)** ⭐ 1,500
+- **[slavingia/skills](https://github.com/slavingia/skills)** ⭐ 2,066
   ![None](https://img.shields.io/badge/-None-lightgrey)
   Claude Code skills based on The Minimalist Entrepreneur by Sahil Lavingia
 
-- **[dontbesilent2025/dbskill](https://github.com/dontbesilent2025/dbskill)** ⭐ 1,492
+- **[dontbesilent2025/dbskill](https://github.com/dontbesilent2025/dbskill)** ⭐ 1,534
   ![None](https://img.shields.io/badge/-None-lightgrey)
   dontbesilent 的商业诊断 Skills for Claude Code
 
-- **[zarazhangrui/codebase-to-course](https://github.com/zarazhangrui/codebase-to-course)** ⭐ 1,326
+- **[zarazhangrui/codebase-to-course](https://github.com/zarazhangrui/codebase-to-course)** ⭐ 1,433
   ![None](https://img.shields.io/badge/-None-lightgrey)
   A Claude Code skill that turns any codebase into a beautiful, interactive single-page HTML course for non-technical vibe coders.
 
-- **[louislva/claude-peers-mcp](https://github.com/louislva/claude-peers-mcp)** ⭐ 1,153
+- **[louislva/claude-peers-mcp](https://github.com/louislva/claude-peers-mcp)** ⭐ 1,178
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   Allow all your Claude Codes to message each other ad-hoc!
 
-- **[math-inc/OpenGauss](https://github.com/math-inc/OpenGauss)** ⭐ 1,083
+- **[math-inc/OpenGauss](https://github.com/math-inc/OpenGauss)** ⭐ 1,084
   ![Python](https://img.shields.io/badge/-Python-blue)
   None
 
-- **[truongduy2611/app-store-preflight-skills](https://github.com/truongduy2611/app-store-preflight-skills)** ⭐ 935
+- **[truongduy2611/app-store-preflight-skills](https://github.com/truongduy2611/app-store-preflight-skills)** ⭐ 942
   ![None](https://img.shields.io/badge/-None-lightgrey)
   AI agent skill to scan iOS/macOS projects for App Store rejection patterns before submission
 
-- **[wong2/weixin-agent-sdk](https://github.com/wong2/weixin-agent-sdk)** ⭐ 885
-  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
-  微信Clawbot接入任意Agent
-
-- **[dou-jiang/codex-console](https://github.com/dou-jiang/codex-console)** ⭐ 866
+- **[dou-jiang/codex-console](https://github.com/dou-jiang/codex-console)** ⭐ 918
   ![Python](https://img.shields.io/badge/-Python-blue)
   codex-console 是一个集成化控制台项目，支持任务管理、批量处理、数据导出、自动上传、日志查看与打包支持。
 
+- **[wong2/weixin-agent-sdk](https://github.com/wong2/weixin-agent-sdk)** ⭐ 889
+  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
+  微信Clawbot接入任意Agent
+
 ### 📈 Monthly Trending
 
-- **[karpathy/autoresearch](https://github.com/karpathy/autoresearch)** ⭐ 55,322
+- **[karpathy/autoresearch](https://github.com/karpathy/autoresearch)** ⭐ 55,749
   ![Python](https://img.shields.io/badge/-Python-blue)
   AI agents running research on single-GPU nanochat training automatically
 
-- **[garrytan/gstack](https://github.com/garrytan/gstack)** ⭐ 46,405
+- **[garrytan/gstack](https://github.com/garrytan/gstack)** ⭐ 47,065
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   Use Garry Tan's exact Claude Code setup: 15 opinionated tools that serve as CEO, Designer, Eng Manager, Release Manager, Doc Engineer, and QA
 
-- **[paperclipai/paperclip](https://github.com/paperclipai/paperclip)** ⭐ 32,866
+- **[paperclipai/paperclip](https://github.com/paperclipai/paperclip)** ⭐ 33,017
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   Open-source orchestration for zero-human companies
 
-- **[HKUDS/CLI-Anything](https://github.com/HKUDS/CLI-Anything)** ⭐ 22,896
+- **[HKUDS/CLI-Anything](https://github.com/HKUDS/CLI-Anything)** ⭐ 23,003
   ![Python](https://img.shields.io/badge/-Python-blue)
   CLI-Anything: Making ALL Software Agent-Native
 
-- **[googleworkspace/cli](https://github.com/googleworkspace/cli)** ⭐ 22,474
+- **[googleworkspace/cli](https://github.com/googleworkspace/cli)** ⭐ 22,517
   ![Rust](https://img.shields.io/badge/-Rust-brown)
   Google Workspace CLI — one command-line tool for Drive, Gmail, Calendar, Sheets, Docs, Chat, Admin, and more. Dynamically built from Google Discovery Service. Includes AI agent skills.
 
-- **[NVIDIA/NemoClaw](https://github.com/NVIDIA/NemoClaw)** ⭐ 16,543
+- **[NVIDIA/NemoClaw](https://github.com/NVIDIA/NemoClaw)** ⭐ 16,666
   ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
   Run OpenClaw more securely inside NVIDIA OpenShell with managed inference
 
-- **[RightNow-AI/openfang](https://github.com/RightNow-AI/openfang)** ⭐ 15,511
+- **[RightNow-AI/openfang](https://github.com/RightNow-AI/openfang)** ⭐ 15,529
   ![Rust](https://img.shields.io/badge/-Rust-brown)
   Open-source Agent Operating System
 
-- **[openai/symphony](https://github.com/openai/symphony)** ⭐ 14,003
+- **[openai/symphony](https://github.com/openai/symphony)** ⭐ 14,026
   ![Elixir](https://img.shields.io/badge/-Elixir-lightgrey)
   Symphony turns project work into isolated, autonomous implementation runs, allowing teams to manage work instead of supervising coding agents.
 
@@ -487,19 +495,19 @@ This is a security release.
 
 | Skill | Status |
 |-------|--------|
-| Java | 🟢 Proficient |
-| Python | 🔴 Beginner |
-| JavaScript | ⚪ Planned |
+| Java | ⚪ Planned |
+| Python | ⚪ Planned |
+| JavaScript | 🟡 Learning |
 | TypeScript | 🔴 Beginner |
-| Go | ⚪ Planned |
+| Go | 🟡 Learning |
 
 ### Frameworks
 
 | Skill | Status |
 |-------|--------|
-| React | 🟡 Learning |
+| React | 🔴 Beginner |
 | Spring Boot | ⚪ Planned |
-| Django | 🟢 Proficient |
+| Django | 🟡 Learning |
 | Node.js | ⚪ Planned |
 | Next.js | 🟡 Learning |
 
@@ -509,29 +517,29 @@ This is a security release.
 |-------|--------|
 | Penetration Testing | ⚪ Planned |
 | Web Security | 🟡 Learning |
-| Network Security | 🟡 Learning |
-| OWASP | 🔴 Beginner |
+| Network Security | 🟢 Proficient |
+| OWASP | 🟢 Proficient |
 
 ### Ai Ml
 
 | Skill | Status |
 |-------|--------|
 | Machine Learning | 🔴 Beginner |
-| Deep Learning | 🟡 Learning |
+| Deep Learning | ⚪ Planned |
 | NLP | 🔴 Beginner |
-| Computer Vision | 🟡 Learning |
-| TensorFlow | ⚪ Planned |
+| Computer Vision | 🔴 Beginner |
+| TensorFlow | 🟡 Learning |
 | PyTorch | 🟢 Proficient |
 
 ### Devops
 
 | Skill | Status |
 |-------|--------|
-| Docker | 🟢 Proficient |
-| Kubernetes | 🟢 Proficient |
-| CI/CD | ⚪ Planned |
+| Docker | 🟡 Learning |
+| Kubernetes | 🟡 Learning |
+| CI/CD | 🟡 Learning |
 | AWS | 🟢 Proficient |
-| Azure | 🟡 Learning |
+| Azure | ⚪ Planned |
 
 ### Other
 
@@ -539,7 +547,7 @@ This is a security release.
 |-------|--------|
 | Blockchain | 🟢 Proficient |
 | Web3 | 🟡 Learning |
-| Cloud Computing | ⚪ Planned |
+| Cloud Computing | 🟢 Proficient |
 
 </details>
 
