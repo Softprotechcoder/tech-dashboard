@@ -46,30 +46,30 @@
 
 ### 📑 Hacker News
 
+- **[Hold on to Your Hardware](https://xn--gckvb8fzb.com/hold-on-to-your-hardware/)**
+  *<p>Article URL: <a href="https://xn--gckvb8fzb.com/hold-on-to-your-hardware/">https://xn--gckvb8fzb.com/hold-on-to-your-hardware/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id...*
+  📅 Fri, 27 Mar 2026 10:10:41 +0000
+
+- **[A Faster Alternative to Jq](https://micahkepe.com/blog/jsongrep/)**
+  *<p>Article URL: <a href="https://micahkepe.com/blog/jsongrep/">https://micahkepe.com/blog/jsongrep/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=47539825">https://news.ycombi...*
+  📅 Fri, 27 Mar 2026 07:12:26 +0000
+
+- **[The European AllSky7 fireball network](https://www.allsky7.net/#archive)**
+  *<p>Article URL: <a href="https://www.allsky7.net/#archive">https://www.allsky7.net/#archive</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=47539767">https://news.ycombinator.co...*
+  📅 Fri, 27 Mar 2026 07:00:49 +0000
+
 - **[Schedule tasks on the web](https://code.claude.com/docs/en/web-scheduled-tasks)**
   *<p>Article URL: <a href="https://code.claude.com/docs/en/web-scheduled-tasks">https://code.claude.com/docs/en/web-scheduled-tasks</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id...*
   📅 Fri, 27 Mar 2026 04:47:15 +0000
 
-- **[HandyMKV for MakeMKV and HandBrake Automation](https://github.com/dmars8047/handymkv)**
-  *<p>Article URL: <a href="https://github.com/dmars8047/handymkv">https://github.com/dmars8047/handymkv</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=47538433">https://news.ycom...*
-  📅 Fri, 27 Mar 2026 02:19:12 +0000
-
 - **[Agent-to-agent pair programming](https://axeldelafosse.com/blog/agent-to-agent-pair-programming)**
   *<p>Article URL: <a href="https://axeldelafosse.com/blog/agent-to-agent-pair-programming">https://axeldelafosse.com/blog/agent-to-agent-pair-programming</a></p>
 <p>Comments URL: <a href="https://news.y...*
   📅 Fri, 27 Mar 2026 01:47:55 +0000
-
-- **[From 0% to 36% on Day 1 of ARC-AGI-3](https://www.symbolica.ai/blog/arc-agi-3)**
-  *<p>Article URL: <a href="https://www.symbolica.ai/blog/arc-agi-3">https://www.symbolica.ai/blog/arc-agi-3</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=47538078">https://news....*
-  📅 Fri, 27 Mar 2026 01:32:10 +0000
-
-- **[Chicago artist creates tourism posters for city's neighborhoods](https://www.chicagotribune.com/2026/03/25/chicago-neighborhood-posters/)**
-  *<p>Article URL: <a href="https://www.chicagotribune.com/2026/03/25/chicago-neighborhood-posters/">https://www.chicagotribune.com/2026/03/25/chicago-neighborhood-posters/</a></p>
-<p>Comments URL: <a hr...*
-  📅 Thu, 26 Mar 2026 23:18:38 +0000
 
 - **[Show HN: I put an AI agent on a $7/month VPS with IRC as its transport layer](https://georgelarson.me/writing/2026-03-23-nullclaw-doorman/)**
   *<p>The stack: two agents on separate boxes. The public one (nullclaw) is a 678 KB Zig binary using ~1 MB RAM, connected to an Ergo IRC server. Visitors talk to it via a gamja web client embedded in my...*
@@ -103,15 +103,13 @@
 
 ### 📑 Dev.to
 
-- **[Inside a Cyber Attack: How Hackers Think, Operate, and Exploit Systems](https://dev.to/zerocool_2012/inside-a-cyber-attack-how-hackers-think-operate-and-exploit-systems-3mp3)**
-  *<p><strong>Introduction</strong><br />
-When a cyber attack makes headlines, the story is often simplified: a system was hacked, data was stolen, and damage was done.<br />
-But behind every successful ...*
-  📅 Fri, 27 Mar 2026 06:49:34 +0000
+- **[Strategy vs. Execution: How Leaders Set Technical Vision](https://dev.to/juststevemcd/strategy-vs-execution-how-leaders-set-technical-vision-44k2)**
+  *<p>There is a version of technical leadership that looks like this: you are deep in a sprint, your team is shipping, the product roadmap is clear, and everyone knows what they are building. Everything...*
+  📅 Fri, 27 Mar 2026 12:36:35 +0000
 
-- **[How I built a SaaS that sends AI-written Stripe reports every Monday — and what I learned](https://dev.to/agarridodev/how-i-built-a-saas-that-sends-ai-written-stripe-reports-every-monday-and-what-i-learned-5dae)**
-  *<p>I've been building Autoreport for the past few months alongside my day job. The idea was simple: every Monday morning, get a PDF in your inbox with your Stripe numbers from the previous week — no d...*
-  📅 Fri, 27 Mar 2026 06:47:34 +0000
+- **[How to Find a User's Rank Based on Points Using Django ORM](https://dev.to/j471n/how-to-find-a-users-rank-based-on-points-using-django-orm-43ce)**
+  *<p>If you're building something like a leaderboard, a fitness tracker, or any competitive feature, ranking users by their score is something you'll run into pretty quickly. It sounds simple — "just so...*
+  📅 Fri, 27 Mar 2026 12:36:32 +0000
 
 </details>
 
@@ -119,103 +117,103 @@ But behind every successful ...*
 
 ### 📈 Daily Trending
 
-- **[DIVESH294/fashion-ecommerce-website](https://github.com/DIVESH294/fashion-ecommerce-website)** ⭐ 24
+- **[KusumaHadiman/EORMC](https://github.com/KusumaHadiman/EORMC)** ⭐ 158
   ![None](https://img.shields.io/badge/-None-lightgrey)
   None
 
-- **[yinsn/sortify-resources](https://github.com/yinsn/sortify-resources)** ⭐ 12
-  ![None](https://img.shields.io/badge/-None-lightgrey)
-  The first LLM agent that autonomously operates live ranking optimization — from tool to operator
+- **[Meowmycks/trustme](https://github.com/Meowmycks/trustme)** ⭐ 34
+  ![C](https://img.shields.io/badge/-C-lightgrey)
+  BOF to impersonate TrustedInstaller via DISM API trigger and thread impersonation
 
-- **[lk-eternal/feishu-cursor-bridge](https://github.com/lk-eternal/feishu-cursor-bridge)** ⭐ 11
-  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
-  None
-
-- **[yizhiyanhua-ai/fireworks-skill-memory](https://github.com/yizhiyanhua-ai/fireworks-skill-memory)** ⭐ 9
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  Persistent, per-skill experience memory for Claude Code
-
-- **[harven-droid/claude-code-handbook-cn](https://github.com/harven-droid/claude-code-handbook-cn)** ⭐ 7
-  ![None](https://img.shields.io/badge/-None-lightgrey)
-  原文：freeCodeCamp《The Claude Code Handbook》 发布日期：2026年3月25日 译者：大瑜，公众号#大瑜聊AI ，个人微信helloaigc2023，欢迎各位链接。
-
-- **[Lomnus-ai/BrainBench](https://github.com/Lomnus-ai/BrainBench)** ⭐ 7
+- **[Lomnus-ai/BrainBench](https://github.com/Lomnus-ai/BrainBench)** ⭐ 33
   ![Python](https://img.shields.io/badge/-Python-blue)
   Official implementation of the BrainBench Dataset
 
-- **[jierry2028/Eternity](https://github.com/jierry2028/Eternity)** ⭐ 6
+- **[Justineo/working-with-ai](https://github.com/Justineo/working-with-ai)** ⭐ 32
   ![HTML](https://img.shields.io/badge/-HTML-lightgrey)
-  机场注册脚本
+  Working with AI - presentation slides
 
-- **[Shinei-Nouzen-Arch/FPGA-Agent-skills](https://github.com/Shinei-Nouzen-Arch/FPGA-Agent-skills)** ⭐ 6
-  ![Verilog](https://img.shields.io/badge/-Verilog-lightgrey)
+- **[yizhiyanhua-ai/fireworks-skill-memory](https://github.com/yizhiyanhua-ai/fireworks-skill-memory)** ⭐ 30
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  Persistent, per-skill experience memory for Claude Code
+
+- **[DIVESH294/fashion-ecommerce-website](https://github.com/DIVESH294/fashion-ecommerce-website)** ⭐ 28
+  ![None](https://img.shields.io/badge/-None-lightgrey)
   None
+
+- **[AGI4Sci/openteam-studio-public](https://github.com/AGI4Sci/openteam-studio-public)** ⭐ 24
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
+  openteam-studio public version
+
+- **[DoublePigeon/RegentCardsAnimeRework](https://github.com/DoublePigeon/RegentCardsAnimeRework)** ⭐ 20
+  ![None](https://img.shields.io/badge/-None-lightgrey)
+  Reworking card portraits of Regent from the game Slay the Spire 2 in a cute, colorful anime style!
 
 ### 📈 Weekly Trending
 
-- **[slavingia/skills](https://github.com/slavingia/skills)** ⭐ 3,729
+- **[slavingia/skills](https://github.com/slavingia/skills)** ⭐ 3,884
   ![None](https://img.shields.io/badge/-None-lightgrey)
   Claude Code skills based on The Minimalist Entrepreneur by Sahil Lavingia
 
-- **[zarazhangrui/codebase-to-course](https://github.com/zarazhangrui/codebase-to-course)** ⭐ 1,828
+- **[zarazhangrui/codebase-to-course](https://github.com/zarazhangrui/codebase-to-course)** ⭐ 1,901
   ![None](https://img.shields.io/badge/-None-lightgrey)
   A Claude Code skill that turns any codebase into a beautiful, interactive single-page HTML course for non-technical vibe coders.
 
-- **[HKUDS/OpenSpace](https://github.com/HKUDS/OpenSpace)** ⭐ 1,350
+- **[HKUDS/OpenSpace](https://github.com/HKUDS/OpenSpace)** ⭐ 1,385
   ![Python](https://img.shields.io/badge/-Python-blue)
   "OpenSpace: Make Your Agents: Smarter, Low-Cost, Self-Evolving" -- Community: https://open-space.cloud/
 
-- **[louislva/claude-peers-mcp](https://github.com/louislva/claude-peers-mcp)** ⭐ 1,270
+- **[louislva/claude-peers-mcp](https://github.com/louislva/claude-peers-mcp)** ⭐ 1,280
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   Allow all your Claude Codes to message each other ad-hoc!
 
-- **[alvinunreal/awesome-opensource-ai](https://github.com/alvinunreal/awesome-opensource-ai)** ⭐ 1,146
+- **[alvinunreal/awesome-opensource-ai](https://github.com/alvinunreal/awesome-opensource-ai)** ⭐ 1,273
   ![None](https://img.shields.io/badge/-None-lightgrey)
   Curated list of the best truly open-source AI projects, models, tools, and infrastructure.
 
-- **[dou-jiang/codex-console](https://github.com/dou-jiang/codex-console)** ⭐ 1,085
+- **[dou-jiang/codex-console](https://github.com/dou-jiang/codex-console)** ⭐ 1,112
   ![Python](https://img.shields.io/badge/-Python-blue)
   codex-console 是一个集成化控制台项目，支持任务管理、批量处理、数据导出、自动上传、日志查看与打包支持。
 
-- **[GAIR-NLP/daVinci-MagiHuman](https://github.com/GAIR-NLP/daVinci-MagiHuman)** ⭐ 962
+- **[GAIR-NLP/daVinci-MagiHuman](https://github.com/GAIR-NLP/daVinci-MagiHuman)** ⭐ 989
   ![Python](https://img.shields.io/badge/-Python-blue)
   None
 
-- **[wong2/weixin-agent-sdk](https://github.com/wong2/weixin-agent-sdk)** ⭐ 927
+- **[wong2/weixin-agent-sdk](https://github.com/wong2/weixin-agent-sdk)** ⭐ 930
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   微信Clawbot接入任意Agent
 
 ### 📈 Monthly Trending
 
-- **[karpathy/autoresearch](https://github.com/karpathy/autoresearch)** ⭐ 57,708
+- **[karpathy/autoresearch](https://github.com/karpathy/autoresearch)** ⭐ 58,009
   ![Python](https://img.shields.io/badge/-Python-blue)
   AI agents running research on single-GPU nanochat training automatically
 
-- **[garrytan/gstack](https://github.com/garrytan/gstack)** ⭐ 50,765
+- **[garrytan/gstack](https://github.com/garrytan/gstack)** ⭐ 51,482
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   Use Garry Tan's exact Claude Code setup: 15 opinionated tools that serve as CEO, Designer, Eng Manager, Release Manager, Doc Engineer, and QA
 
-- **[paperclipai/paperclip](https://github.com/paperclipai/paperclip)** ⭐ 34,236
+- **[paperclipai/paperclip](https://github.com/paperclipai/paperclip)** ⭐ 34,682
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   Open-source orchestration for zero-human companies
 
-- **[HKUDS/CLI-Anything](https://github.com/HKUDS/CLI-Anything)** ⭐ 23,736
+- **[HKUDS/CLI-Anything](https://github.com/HKUDS/CLI-Anything)** ⭐ 23,848
   ![Python](https://img.shields.io/badge/-Python-blue)
   CLI-Anything: Making ALL Software Agent-Native
 
-- **[googleworkspace/cli](https://github.com/googleworkspace/cli)** ⭐ 22,696
+- **[googleworkspace/cli](https://github.com/googleworkspace/cli)** ⭐ 22,732
   ![Rust](https://img.shields.io/badge/-Rust-brown)
   Google Workspace CLI — one command-line tool for Drive, Gmail, Calendar, Sheets, Docs, Chat, Admin, and more. Dynamically built from Google Discovery Service. Includes AI agent skills.
 
-- **[NVIDIA/NemoClaw](https://github.com/NVIDIA/NemoClaw)** ⭐ 17,132
+- **[NVIDIA/NemoClaw](https://github.com/NVIDIA/NemoClaw)** ⭐ 17,191
   ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
   Run OpenClaw more securely inside NVIDIA OpenShell with managed inference
 
-- **[openai/symphony](https://github.com/openai/symphony)** ⭐ 14,101
+- **[openai/symphony](https://github.com/openai/symphony)** ⭐ 14,112
   ![Elixir](https://img.shields.io/badge/-Elixir-lightgrey)
   Symphony turns project work into isolated, autonomous implementation runs, allowing teams to manage work instead of supervising coding agents.
 
-- **[tanweai/pua](https://github.com/tanweai/pua)** ⭐ 12,651
+- **[tanweai/pua](https://github.com/tanweai/pua)** ⭐ 12,783
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   你是一个曾经被寄予厚望的 P8 级工程师。Anthropic 当初给你定级的时候，对你的期望是很高的。  一个agent使用的高能动性的skill。  Your AI has been placed on a PIP. 30 days to show improvement.
 
@@ -486,8 +484,8 @@ This is a security release.
 
 | Skill | Status |
 |-------|--------|
-| Java | 🟡 Learning |
-| Python | 🟢 Proficient |
+| Java | 🟢 Proficient |
+| Python | 🟡 Learning |
 | JavaScript | 🔴 Beginner |
 | TypeScript | 🟡 Learning |
 | Go | 🟡 Learning |
@@ -499,26 +497,26 @@ This is a security release.
 | React | 🟢 Proficient |
 | Spring Boot | ⚪ Planned |
 | Django | 🔴 Beginner |
-| Node.js | 🟡 Learning |
-| Next.js | 🟡 Learning |
+| Node.js | ⚪ Planned |
+| Next.js | 🟢 Proficient |
 
 ### Cybersecurity
 
 | Skill | Status |
 |-------|--------|
-| Penetration Testing | 🟢 Proficient |
+| Penetration Testing | 🟡 Learning |
 | Web Security | 🔴 Beginner |
-| Network Security | 🟡 Learning |
+| Network Security | 🔴 Beginner |
 | OWASP | 🔴 Beginner |
 
 ### Ai Ml
 
 | Skill | Status |
 |-------|--------|
-| Machine Learning | 🟡 Learning |
-| Deep Learning | 🟢 Proficient |
-| NLP | 🔴 Beginner |
-| Computer Vision | 🟢 Proficient |
+| Machine Learning | 🟢 Proficient |
+| Deep Learning | 🟡 Learning |
+| NLP | ⚪ Planned |
+| Computer Vision | 🟡 Learning |
 | TensorFlow | ⚪ Planned |
 | PyTorch | ⚪ Planned |
 
@@ -526,19 +524,19 @@ This is a security release.
 
 | Skill | Status |
 |-------|--------|
-| Docker | 🟢 Proficient |
-| Kubernetes | ⚪ Planned |
-| CI/CD | ⚪ Planned |
+| Docker | ⚪ Planned |
+| Kubernetes | 🟢 Proficient |
+| CI/CD | 🟢 Proficient |
 | AWS | 🟢 Proficient |
-| Azure | 🟡 Learning |
+| Azure | 🟢 Proficient |
 
 ### Other
 
 | Skill | Status |
 |-------|--------|
 | Blockchain | 🔴 Beginner |
-| Web3 | 🔴 Beginner |
-| Cloud Computing | 🔴 Beginner |
+| Web3 | 🟡 Learning |
+| Cloud Computing | 🟡 Learning |
 
 </details>
 
