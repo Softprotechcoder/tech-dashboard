@@ -46,32 +46,33 @@
 
 ### 📑 Hacker News
 
+- **[The United States is driving a public health emergency of international concern](https://www.bmj.com/content/392/bmj-2026-089474)**
+  *<p>Article URL: <a href="https://www.bmj.com/content/392/bmj-2026-089474">https://www.bmj.com/content/392/bmj-2026-089474</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=4756059...*
+  📅 Sun, 29 Mar 2026 05:20:48 +0000
+
+- **[OpenYak – An open-source Cowork that runs any model and owns your filesystem](https://github.com/openyak/desktop)**
+  *<p>Article URL: <a href="https://github.com/openyak/desktop">https://github.com/openyak/desktop</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=47560380">https://news.ycombinato...*
+  📅 Sun, 29 Mar 2026 04:26:13 +0000
+
 - **[Alzheimer's disease mortality among taxi and ambulance drivers (2024)](https://www.bmj.com/content/387/bmj-2024-082194)**
   *<p>Article URL: <a href="https://www.bmj.com/content/387/bmj-2024-082194">https://www.bmj.com/content/387/bmj-2024-082194</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=4755948...*
   📅 Sun, 29 Mar 2026 00:53:30 +0000
 
+- **[Attie.ai](https://attie.ai/login)**
+  *<p>Article URL: <a href="https://attie.ai/login">https://attie.ai/login</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=47559026">https://news.ycombinator.com/item?id=47559026</...*
+  📅 Sat, 28 Mar 2026 23:33:42 +0000
+
 - **[South Korea Mandates Solar Panels for Public Parking Lots](https://www.reutersconnect.com/item/south-korea-mandates-solar-panels-for-public-parking-lots/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX01UMU5VUlBITzAwMFZKRjFZQQ)**
   *<p>Article URL: <a href="https://www.reutersconnect.com/item/south-korea-mandates-solar-panels-for-public-parking-lots/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX01UMU5VUlBITzAwMFZKRjFZQQ">https://www.reute...*
   📅 Sat, 28 Mar 2026 23:29:04 +0000
 
-- **[Computer chip material inspired by the human brain could slash AI energy use](https://www.cam.ac.uk/research/news/new-computer-chip-material-inspired-by-the-human-brain-could-slash-ai-energy-use)**
-  *<p>Article URL: <a href="https://www.cam.ac.uk/research/news/new-computer-chip-material-inspired-by-the-human-brain-could-slash-ai-energy-use">https://www.cam.ac.uk/research/news/new-computer-chip-mat...*
-  📅 Sat, 28 Mar 2026 23:04:14 +0000
-
-- **[TreeTrek – A raw Git repository viewer web app](https://repo.autonoma.ca/treetrek)**
-  *<p>Article URL: <a href="https://repo.autonoma.ca/treetrek">https://repo.autonoma.ca/treetrek</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=47558843">https://news.ycombinator....*
-  📅 Sat, 28 Mar 2026 23:03:35 +0000
-
 - **[Sealing Paper Packaging Without Adhesives](https://www.fraunhofer.de/en/press/research-news/2026/march-2026/sealing-paper-packaging-without-adhesives.html)**
   *<p>Article URL: <a href="https://www.fraunhofer.de/en/press/research-news/2026/march-2026/sealing-paper-packaging-without-adhesives.html">https://www.fraunhofer.de/en/press/research-news/2026/march-20...*
   📅 Sat, 28 Mar 2026 22:50:49 +0000
-
-- **[Stop picking my Go version for me](https://blog.howardjohn.info/posts/go-mod-version/)**
-  *<p>Article URL: <a href="https://blog.howardjohn.info/posts/go-mod-version/">https://blog.howardjohn.info/posts/go-mod-version/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=4...*
-  📅 Sat, 28 Mar 2026 22:15:31 +0000
 
 ### 📑 TechCrunch
 
@@ -101,22 +102,25 @@
 
 ### 📑 Dev.to
 
-- **[AitherOS vs AutoGen: Which Multi-Agent Framework Should You Use in 2026?](https://dev.to/aither_os/aitheros-vs-autogen-which-multi-agent-framework-should-you-use-in-2026-3b4e)**
+- **[LLM APIs for AI Agents: Anthropic vs OpenAI vs Google AI (AN Score Data)](https://dev.to/supertrained/llm-apis-for-ai-agents-anthropic-vs-openai-vs-google-ai-an-score-data-3e1j)**
   *<h1>
   
   
-  AitherOS vs AutoGen: Which Multi-Agent Framework Should You Use in 2026?
+  LLM APIs for AI Agents: Anthropic vs OpenAI vs Google AI (AN Score Data)
 </h1>
 
-<p>In 2026, the choice between AitherOS and AutoGen for multi-agent AI orchestration depends primarily on y...*
-  📅 Sun, 29 Mar 2026 01:23:15 +0000
+<p>Every agent framework tutorial says "add your OpenAI API key." But if you're building an agent system fo...*
+  📅 Sun, 29 Mar 2026 06:50:31 +0000
 
-- **[Thermal-Aware Power Management: Throttling Algorithms & Sustained Performance](https://dev.to/beefedai/thermal-aware-power-management-throttling-algorithms-sustained-performance-10gp)**
-  *<ul>
-<li>From heat to numbers: building a practical thermal model</li>
-<li>Reactive throttling: trip points, fans and last-second fixes</li>
-<li>Predictive throttling: forecasting temperature to prese...*
-  📅 Sun, 29 Mar 2026 01:07:07 +0000
+- **[Talent Oversupply: How Less Prestigious Firms Can Attract Top-Tier Candidates Amid Economic Shifts](https://dev.to/svetlix/talent-oversupply-how-less-prestigious-firms-can-attract-top-tier-candidates-amid-economic-shifts-34g5)**
+  *<h2>
+  
+  
+  System Reconstruction: Talent Oversupply Dynamics
+</h2>
+
+<p>The current job market is undergoing a seismic shift, driven by economic downturns, industry-specific layoffs, and the normaliz...*
+  📅 Sun, 29 Mar 2026 06:50:18 +0000
 
 </details>
 
@@ -124,103 +128,103 @@
 
 ### 📈 Daily Trending
 
-- **[ap5z/blooket-links](https://github.com/ap5z/blooket-links)** ⭐ 7
+- **[uppark/accio](https://github.com/uppark/accio)** ⭐ 36
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  None
+
+- **[ap5z/blooket-links](https://github.com/ap5z/blooket-links)** ⭐ 8
   ![None](https://img.shields.io/badge/-None-lightgrey)
   Method on how to get blooket links to proxy your site.
+
+- **[epcdiy/fileDeleter](https://github.com/epcdiy/fileDeleter)** ⭐ 7
+  ![Java](https://img.shields.io/badge/-Java-orange)
+  美团删除用户照片复现程序
+
+- **[gsd-build/context-packet](https://github.com/gsd-build/context-packet)** ⭐ 5
+  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
+  File-based context resolution for AI agent DAG workflows. Three primitives, zero dependencies.
+
+- **[egerev/claude-status-line](https://github.com/egerev/claude-status-line)** ⭐ 5
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  Rich status bar for Claude Code — context, cache, rate limits, prompt estimates
 
 - **[MrAnujBabu/Naveen-Bharat-Install](https://github.com/MrAnujBabu/Naveen-Bharat-Install)** ⭐ 5
   ![None](https://img.shields.io/badge/-None-lightgrey)
    📥 Installation Instructions    
 
-- **[araneasweb/devflakes](https://github.com/araneasweb/devflakes)** ⭐ 2
-  ![Nix](https://img.shields.io/badge/-Nix-lightgrey)
-  None
-
-- **[feelingsonice/MemoryBank](https://github.com/feelingsonice/MemoryBank)** ⭐ 2
+- **[feelingsonice/MemoryBank](https://github.com/feelingsonice/MemoryBank)** ⭐ 3
   ![Rust](https://img.shields.io/badge/-Rust-brown)
   None
 
-- **[SHAKAR-AFZAL/mcdonalds-sales-analytics-dashboard](https://github.com/SHAKAR-AFZAL/mcdonalds-sales-analytics-dashboard)** ⭐ 2
-  ![None](https://img.shields.io/badge/-None-lightgrey)
-  Interactive Excel dashboard analyzing South America sales performance with insights on profit, customer satisfaction, and regional trends.
-
-- **[3886370410/mkuWZrvogI](https://github.com/3886370410/mkuWZrvogI)** ⭐ 1
-  ![None](https://img.shields.io/badge/-None-lightgrey)
-  【Java计算机毕业设计分享】基于鸿蒙平台的日记本管理系统，MySQL Java开发 毕业设计 实战项目【附源码、文档报告、代码讲解】
-
-- **[erick-gomes/desafio-go-calculadora](https://github.com/erick-gomes/desafio-go-calculadora)** ⭐ 1
-  ![Go](https://img.shields.io/badge/-Go-cyan)
-  Este é um projeto simples de calculadora desenvolvido em Go para praticar os conceitos básicos da linguagem, pacotes e testes unitários.
-
-- **[Dippp10/auto-repo-1774747148-18](https://github.com/Dippp10/auto-repo-1774747148-18)** ⭐ 1
-  ![None](https://img.shields.io/badge/-None-lightgrey)
+- **[Cu2-OH-2CO3/huoyiwei-meaning-of-life](https://github.com/Cu2-OH-2CO3/huoyiwei-meaning-of-life)** ⭐ 3
+  ![Kotlin](https://img.shields.io/badge/-Kotlin-lightgrey)
   None
 
 ### 📈 Weekly Trending
 
-- **[slavingia/skills](https://github.com/slavingia/skills)** ⭐ 4,987
+- **[slavingia/skills](https://github.com/slavingia/skills)** ⭐ 5,082
   ![None](https://img.shields.io/badge/-None-lightgrey)
   Claude Code skills based on The Minimalist Entrepreneur by Sahil Lavingia
 
-- **[magnum6actual/flipoff](https://github.com/magnum6actual/flipoff)** ⭐ 2,066
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
-  Free split-flap display emulator for any TV. The classic flip-board look, without the $3,500 hardware.
-
-- **[HKUDS/OpenSpace](https://github.com/HKUDS/OpenSpace)** ⭐ 1,943
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  "OpenSpace: Make Your Agents: Smarter, Low-Cost, Self-Evolving" -- Community: https://open-space.cloud/
-
-- **[alvinunreal/awesome-opensource-ai](https://github.com/alvinunreal/awesome-opensource-ai)** ⭐ 1,746
-  ![None](https://img.shields.io/badge/-None-lightgrey)
-  Curated list of the best truly open-source AI projects, models, tools, and infrastructure.
-
-- **[larksuite/cli](https://github.com/larksuite/cli)** ⭐ 1,706
+- **[larksuite/cli](https://github.com/larksuite/cli)** ⭐ 2,184
   ![Go](https://img.shields.io/badge/-Go-cyan)
   A command-line tool for Lark/Feishu Open Platform — built for humans and AI Agents. Covers core business domains including Messenger, Docs, Base, Sheets, Calendar, Mail, Tasks, Meetings, and more, with 200+ commands and 19 AI Agent Skills.
 
-- **[elder-plinius/G0DM0D3](https://github.com/elder-plinius/G0DM0D3)** ⭐ 1,505
+- **[magnum6actual/flipoff](https://github.com/magnum6actual/flipoff)** ⭐ 2,172
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
+  Free split-flap display emulator for any TV. The classic flip-board look, without the $3,500 hardware.
+
+- **[HKUDS/OpenSpace](https://github.com/HKUDS/OpenSpace)** ⭐ 2,082
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  "OpenSpace: Make Your Agents: Smarter, Low-Cost, Self-Evolving" -- Community: https://open-space.cloud/
+
+- **[alvinunreal/awesome-opensource-ai](https://github.com/alvinunreal/awesome-opensource-ai)** ⭐ 1,794
+  ![None](https://img.shields.io/badge/-None-lightgrey)
+  Curated list of the best truly open-source AI projects, models, tools, and infrastructure.
+
+- **[elder-plinius/G0DM0D3](https://github.com/elder-plinius/G0DM0D3)** ⭐ 1,633
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   LIBERATED AI CHAT
 
-- **[opa334/darksword-kexploit](https://github.com/opa334/darksword-kexploit)** ⭐ 991
+- **[opa334/darksword-kexploit](https://github.com/opa334/darksword-kexploit)** ⭐ 999
   ![Objective-C](https://img.shields.io/badge/-Objective-C-lightgrey)
   iOS <=26.0.1 DarkSword Kernel Exploit reimplemented in Objective-C
 
-- **[nashsu/opencli-rs](https://github.com/nashsu/opencli-rs)** ⭐ 931
+- **[nashsu/opencli-rs](https://github.com/nashsu/opencli-rs)** ⭐ 945
   ![Rust](https://img.shields.io/badge/-Rust-brown)
   Opencli-rs is a  Blazing fast, memory-safe command-line tool — Fetch information from any website with a single command. Covers Twitter/X, Reddit, YouTube, HackerNews, Bilibili, Zhihu, Xiaohongshu, and 55+ sites, with support for controlling Electron desktop apps, integrating local CLI tools (gh, docker, kubectl)
 
 ### 📈 Monthly Trending
 
-- **[karpathy/autoresearch](https://github.com/karpathy/autoresearch)** ⭐ 59,621
+- **[karpathy/autoresearch](https://github.com/karpathy/autoresearch)** ⭐ 59,851
   ![Python](https://img.shields.io/badge/-Python-blue)
   AI agents running research on single-GPU nanochat training automatically
 
-- **[garrytan/gstack](https://github.com/garrytan/gstack)** ⭐ 54,124
+- **[garrytan/gstack](https://github.com/garrytan/gstack)** ⭐ 54,497
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   Use Garry Tan's exact Claude Code setup: 15 opinionated tools that serve as CEO, Designer, Eng Manager, Release Manager, Doc Engineer, and QA
 
-- **[paperclipai/paperclip](https://github.com/paperclipai/paperclip)** ⭐ 37,119
+- **[paperclipai/paperclip](https://github.com/paperclipai/paperclip)** ⭐ 37,462
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   Open-source orchestration for zero-human companies
 
-- **[HKUDS/CLI-Anything](https://github.com/HKUDS/CLI-Anything)** ⭐ 24,331
+- **[HKUDS/CLI-Anything](https://github.com/HKUDS/CLI-Anything)** ⭐ 24,431
   ![Python](https://img.shields.io/badge/-Python-blue)
   CLI-Anything: Making ALL Software Agent-Native
 
-- **[googleworkspace/cli](https://github.com/googleworkspace/cli)** ⭐ 22,913
+- **[googleworkspace/cli](https://github.com/googleworkspace/cli)** ⭐ 22,946
   ![Rust](https://img.shields.io/badge/-Rust-brown)
   Google Workspace CLI — one command-line tool for Drive, Gmail, Calendar, Sheets, Docs, Chat, Admin, and more. Dynamically built from Google Discovery Service. Includes AI agent skills.
 
-- **[NVIDIA/NemoClaw](https://github.com/NVIDIA/NemoClaw)** ⭐ 17,485
+- **[NVIDIA/NemoClaw](https://github.com/NVIDIA/NemoClaw)** ⭐ 17,519
   ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
   Run OpenClaw more securely inside NVIDIA OpenShell with managed inference
 
-- **[tanweai/pua](https://github.com/tanweai/pua)** ⭐ 13,065
+- **[tanweai/pua](https://github.com/tanweai/pua)** ⭐ 13,099
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   你是一个曾经被寄予厚望的 P8 级工程师。Anthropic 当初给你定级的时候，对你的期望是很高的。  一个agent使用的高能动性的skill。  Your AI has been placed on a PIP. 30 days to show improvement.
 
-- **[THU-MAIC/OpenMAIC](https://github.com/THU-MAIC/OpenMAIC)** ⭐ 12,956
+- **[THU-MAIC/OpenMAIC](https://github.com/THU-MAIC/OpenMAIC)** ⭐ 13,015
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   Open Multi-Agent Interactive Classroom — Get an immersive, multi-agent learning experience in just one click
 
@@ -491,20 +495,20 @@ This is a security release.
 
 | Skill | Status |
 |-------|--------|
-| Java | ⚪ Planned |
+| Java | 🟡 Learning |
 | Python | 🟡 Learning |
-| JavaScript | 🔴 Beginner |
-| TypeScript | 🟡 Learning |
-| Go | 🟢 Proficient |
+| JavaScript | ⚪ Planned |
+| TypeScript | 🟢 Proficient |
+| Go | 🔴 Beginner |
 
 ### Frameworks
 
 | Skill | Status |
 |-------|--------|
 | React | 🔴 Beginner |
-| Spring Boot | 🔴 Beginner |
-| Django | 🟢 Proficient |
-| Node.js | 🟡 Learning |
+| Spring Boot | 🟢 Proficient |
+| Django | 🔴 Beginner |
+| Node.js | ⚪ Planned |
 | Next.js | 🟡 Learning |
 
 ### Cybersecurity
@@ -513,37 +517,37 @@ This is a security release.
 |-------|--------|
 | Penetration Testing | 🟢 Proficient |
 | Web Security | 🟢 Proficient |
-| Network Security | 🔴 Beginner |
-| OWASP | 🟢 Proficient |
+| Network Security | ⚪ Planned |
+| OWASP | ⚪ Planned |
 
 ### Ai Ml
 
 | Skill | Status |
 |-------|--------|
-| Machine Learning | 🟡 Learning |
+| Machine Learning | ⚪ Planned |
 | Deep Learning | 🟡 Learning |
-| NLP | 🟢 Proficient |
-| Computer Vision | 🟢 Proficient |
-| TensorFlow | ⚪ Planned |
-| PyTorch | 🔴 Beginner |
+| NLP | ⚪ Planned |
+| Computer Vision | 🟡 Learning |
+| TensorFlow | 🟡 Learning |
+| PyTorch | 🟡 Learning |
 
 ### Devops
 
 | Skill | Status |
 |-------|--------|
-| Docker | ⚪ Planned |
-| Kubernetes | 🟢 Proficient |
+| Docker | 🟡 Learning |
+| Kubernetes | 🔴 Beginner |
 | CI/CD | 🟡 Learning |
-| AWS | 🔴 Beginner |
-| Azure | 🔴 Beginner |
+| AWS | 🟡 Learning |
+| Azure | 🟡 Learning |
 
 ### Other
 
 | Skill | Status |
 |-------|--------|
-| Blockchain | 🔴 Beginner |
+| Blockchain | 🟢 Proficient |
 | Web3 | 🟢 Proficient |
-| Cloud Computing | 🟡 Learning |
+| Cloud Computing | 🔴 Beginner |
 
 </details>
 
