@@ -7,7 +7,7 @@
 ![AI & ML](https://img.shields.io/badge/-AI%20&%20ML-blue) ![CyberSecurity](https://img.shields.io/badge/-CyberSecurity-red) ![Full Stack Development](https://img.shields.io/badge/-Full%20Stack%20Development-green)
 
 [![Auto Update](https://img.shields.io/badge/Auto%20Update-Enabled-success)](https://github.com/yourusername/tech-dashboard/actions)
-[![Last Updated](https://img.shields.io/badge/Last%20Updated-March 29, 2026-blue)](https://github.com/yourusername/tech-dashboard)
+[![Last Updated](https://img.shields.io/badge/Last%20Updated-March 30, 2026-blue)](https://github.com/yourusername/tech-dashboard)
 
 *Automatically updated every 6 hours with the latest tech news, trending repositories, and learning resources.*
 
@@ -20,7 +20,7 @@
 | Metric | Count |
 |--------|-------|
 | 📰 Latest News Articles | 26 |
-| 🔥 Trending Repositories | 45 |
+| 🔥 Trending Repositories | 0 |
 | 🎯 Latest Releases | 10 |
 | 🎯 Learning Goals | 4 |
 
@@ -46,35 +46,46 @@
 
 ### 📑 Hacker News
 
-- **[C++26 is done ISO C++ standards meeting, Trip Report](https://herbsutter.com/2026/03/29/c26-is-done-trip-report-march-2026-iso-c-standards-meeting-london-croydon-uk/)**
-  *<p>Article URL: <a href="https://herbsutter.com/2026/03/29/c26-is-done-trip-report-march-2026-iso-c-standards-meeting-london-croydon-uk/">https://herbsutter.com/2026/03/29/c26-is-done-trip-report-marc...*
-  📅 Sun, 29 Mar 2026 17:46:12 +0000
+- **[There is No Spoon. A software engineers primer for demystified ML](https://github.com/dreddnafious/thereisnospoon)**
+  *<p>Article URL: <a href="https://github.com/dreddnafious/thereisnospoon">https://github.com/dreddnafious/thereisnospoon</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=47568080"...*
+  📅 Sun, 29 Mar 2026 22:28:11 +0000
 
-- **[Neovim 0.12.0](https://github.com/neovim/neovim/releases/tag/v0.12.0)**
-  *<p>Article URL: <a href="https://github.com/neovim/neovim/releases/tag/v0.12.0">https://github.com/neovim/neovim/releases/tag/v0.12.0</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/ite...*
-  📅 Sun, 29 Mar 2026 17:39:55 +0000
+- **[Coding Agents Could Make Free Software Matter Again](https://www.gjlondon.com/blog/ai-agents-could-make-free-software-matter-again/)**
+  *<p>Article URL: <a href="https://www.gjlondon.com/blog/ai-agents-could-make-free-software-matter-again/">https://www.gjlondon.com/blog/ai-agents-could-make-free-software-matter-again/</a></p>
+<p>Comme...*
+  📅 Sun, 29 Mar 2026 22:21:34 +0000
 
-- **[Netscape News Feed Straight Out of the Late 00s](https://isp.netscape.com/)**
-  *<p>Article URL: <a href="https://isp.netscape.com/">https://isp.netscape.com/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=47565264">https://news.ycombinator.com/item?id=4756...*
-  📅 Sun, 29 Mar 2026 17:34:20 +0000
+- **[Claude Code runs Git reset –hard origin/main against project repo every 10 mins](https://github.com/anthropics/claude-code/issues/40710)**
+  *<p>Article URL: <a href="https://github.com/anthropics/claude-code/issues/40710">https://github.com/anthropics/claude-code/issues/40710</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/i...*
+  📅 Sun, 29 Mar 2026 22:15:06 +0000
 
-- **[First Western Digital, now Sony: The tech giant suspends SD card sales](https://mashable.com/article/sony-sd-card-sales-suspended-memory-shortage)**
-  *<p>Article URL: <a href="https://mashable.com/article/sony-sd-card-sales-suspended-memory-shortage">https://mashable.com/article/sony-sd-card-sales-suspended-memory-shortage</a></p>
-<p>Comments URL: <...*
-  📅 Sun, 29 Mar 2026 17:14:59 +0000
+- **[Show HN: Crazierl – An Erlang Operating System](https://crazierl.org/demo/)**
+  *<p>Crazierl is an experimental/hobby operating system based around BEAM.<p>I've linked the browser based demo; I don’t recommend using a phone; it does work, slowly, on the phones I tested, but it’s v...*
+  📅 Sun, 29 Mar 2026 20:38:26 +0000
 
-- **[The rise and fall of IBM's 4 Pi aerospace computers: an illustrated history](https://www.righto.com/2026/03/ibm-4-pi-computer-history.html)**
-  *<p>Article URL: <a href="https://www.righto.com/2026/03/ibm-4-pi-computer-history.html">https://www.righto.com/2026/03/ibm-4-pi-computer-history.html</a></p>
-<p>Comments URL: <a href="https://news.yco...*
-  📅 Sun, 29 Mar 2026 16:26:55 +0000
+- **[The road signs that teach travellers about France](https://www.bbc.com/travel/article/20260327-the-road-signs-that-teach-travellers-about-france)**
+  *<p>Article URL: <a href="https://www.bbc.com/travel/article/20260327-the-road-signs-that-teach-travellers-about-france">https://www.bbc.com/travel/article/20260327-the-road-signs-that-teach-travellers...*
+  📅 Sun, 29 Mar 2026 20:30:02 +0000
 
-- **[The bot situation on the internet is worse than you could imagine](https://gladeart.com/blog/the-bot-situation-on-the-internet-is-actually-worse-than-you-could-imagine-heres-why)**
-  *<p><a href="https://web.archive.org/web/20260329052632/https://gladeart.com/blog/the-bot-situation-on-the-internet-is-actually-worse-than-you-could-imagine-heres-why" rel="nofollow">https://web.archiv...*
-  📅 Sun, 29 Mar 2026 16:17:30 +0000
+- **[ChatGPT won't let you type until Cloudflare reads your React state](https://www.buchodi.com/chatgpt-wont-let-you-type-until-cloudflare-reads-your-react-state-i-decrypted-the-program-that-does-it/)**
+  *<p>Article URL: <a href="https://www.buchodi.com/chatgpt-wont-let-you-type-until-cloudflare-reads-your-react-state-i-decrypted-the-program-that-does-it/">https://www.buchodi.com/chatgpt-wont-let-you-t...*
+  📅 Sun, 29 Mar 2026 20:21:05 +0000
 
 ### 📑 TechCrunch
+
+- **[The Pixel 10a doesn’t have a camera bump, and it’s great](https://techcrunch.com/2026/03/29/google-pixel-10a-review-camera-bump-performance-ai-chip/)**
+  *The Google Pixel 10a can lay flat on a table, but otherwise the company hasn't brought a ton of upgrades to its newest budget smartphone....*
+  📅 Sun, 29 Mar 2026 21:30:00 +0000
+
+- **[YouTube CEO says the best YouTubers will ‘never leave their home’](https://techcrunch.com/2026/03/29/youtube-ceo-says-the-best-youtubers-will-never-leave-their-home/)**
+  *CEO Neal Mohan insisted that he isn’t worried about Netflix luring away YouTube's most popular creators....*
+  📅 Sun, 29 Mar 2026 21:17:52 +0000
+
+- **[‘Project Hail Mary’ becomes Amazon MGM’s biggest box office hit](https://techcrunch.com/2026/03/29/project-hail-mary-becomes-amazon-mgms-biggest-box-office-hit/)**
+  *Amazon’s bet on “Project Hail Mary” has paid off handsomely....*
+  📅 Sun, 29 Mar 2026 19:50:57 +0000
 
 - **[Sora’s shutdown could be a reality check moment for AI video](https://techcrunch.com/2026/03/29/soras-shutdown-could-be-a-reality-check-moment-for-ai-video/)**
   *Is this just normal corporate strategy, or are we about to see a broader pullback on AI-generated video?...*
@@ -88,136 +99,21 @@
   *SXSW made some changes this year, but some founders loved it all the same....*
   📅 Sun, 29 Mar 2026 14:01:00 +0000
 
-- **[Bluesky leans into AI with Attie, an app for building custom feeds](https://techcrunch.com/2026/03/28/bluesky-leans-into-ai-with-attie-an-app-for-building-custom-feeds/)**
-  *Bluesky’s new app Attie uses AI to help people build custom feeds the open social networking protocol atproto....*
-  📅 Sat, 28 Mar 2026 23:00:00 +0000
-
-- **[Mark Zuckerberg texted Elon Musk to offer help with DOGE](https://techcrunch.com/2026/03/28/mark-zuckerberg-texted-elon-musk-to-offer-help-with-doge/)**
-  *While the relationship was once thorny enough that Musk challenged Zuckerberg to a cagefight, things seem to have warmed up by the early days of the second Trump administration....*
-  📅 Sat, 28 Mar 2026 21:23:58 +0000
-
-- **[Stanford study outlines dangers of asking AI chatbots for personal advice](https://techcrunch.com/2026/03/28/stanford-study-outlines-dangers-of-asking-ai-chatbots-for-personal-advice/)**
-  *While there’s been plenty of debate about AI sycophancy, a new study by Stanford computer scientists attempts to measure how harmful that tendency might be....*
-  📅 Sat, 28 Mar 2026 20:45:54 +0000
-
 ### 📑 Dev.to
 
-- **[Weekly Challenge #5 : The CSS‑Only Secret Menu 🔐](https://dev.to/bingkahu/weekly-challenge-5-the-css-only-secret-menu-a4f)**
-  *<p>Today is the 30th, and we’re back with <strong>Weekly Challenge #5</strong>.<br /><br />
-This one’s sneaky, weird, and honestly super satisfying when you get it right.</p>
+- **[O que aprendi usando Lovable por 8 meses para criar sites bonitos, padronizados e fáceis de manter](https://dev.to/raphmoraes/o-que-aprendi-usando-lovable-por-8-meses-para-criar-sites-bonitos-padronizados-e-faceis-de-manter-4m1)**
+  *<p>Nesse final de semana decidi dar um upgrade no meu website e em poucas horas fui capaz de me repaginar a identidade visual utilizando Lovable.</p>
 
-<p>You’re building a <st...*
-  📅 Sun, 29 Mar 2026 18:20:49 +0000
+<p>Bonito, estruturado, com vídeo no hero gerado ...*
+  📅 Mon, 30 Mar 2026 01:31:05 +0000
 
-- **[Temporal Has a Free Durable Workflow Engine That Never Loses Your State](https://dev.to/0012303/temporal-has-a-free-durable-workflow-engine-that-never-loses-your-state-2obb)**
-  *<p>What happens when your payment processing crashes mid-transaction? With regular code — data loss. With Temporal — it resumes exactly where it left off. Temporal makes your workflows durable, reliab...*
-  📅 Sun, 29 Mar 2026 18:20:43 +0000
+- **[Mamba-UNet: UNet-Like Pure Visual Mamba for Medical Image Segmentation](https://dev.to/paperium/mamba-unet-unet-like-pure-visual-mamba-for-medical-image-segmentation-g83)**
+  *<p>{{ $json.postContent }}</p>...*
+  📅 Mon, 30 Mar 2026 01:30:06 +0000
 
 </details>
 
 ## 🔥 Trending Repositories
-
-### 📈 Daily Trending
-
-- **[hitmux/HitCC](https://github.com/hitmux/HitCC)** ⭐ 189
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  Complete reverse-engineering documentation of the full logic of Claude Code CLI Node.js version v2.1.84
-
-- **[walkinglabs/awesome-harness-engineering](https://github.com/walkinglabs/awesome-harness-engineering)** ⭐ 176
-  ![None](https://img.shields.io/badge/-None-lightgrey)
-  🛠️ Awesome tools & guides for harness engineering.
-
-- **[yetone/voice-input-src](https://github.com/yetone/voice-input-src)** ⭐ 143
-  ![None](https://img.shields.io/badge/-None-lightgrey)
-  None
-
-- **[marswaveai/ColaMD](https://github.com/marswaveai/ColaMD)** ⭐ 128
-  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
-  The Agent Native Markdown Editor.
-
-- **[SunWeb3Sec/llm-sast-scanner](https://github.com/SunWeb3Sec/llm-sast-scanner)** ⭐ 62
-  ![None](https://img.shields.io/badge/-None-lightgrey)
-  A SAST skill that gives AI coding agents structured vulnerability detection across 34 vulnerability classes.
-
-- **[nutterplayer7093/Lossless-Scaling-Pro-2026](https://github.com/nutterplayer7093/Lossless-Scaling-Pro-2026)** ⭐ 60
-  ![None](https://img.shields.io/badge/-None-lightgrey)
-  Lossless Scaling is a PC utility that enhances image quality and frame rates in games using upscaling and frame generation algorithms
-
-- **[Tokido-ki/Polymarket-arbitrage-bot](https://github.com/Tokido-ki/Polymarket-arbitrage-bot)** ⭐ 59
-  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
-  polymarket trading bot polymarket arbitrage bot polymarket trading bot polymarket arbitrage bot polymarket trading bot polymarket arbitrage bot polymarket trading bot polymarket arbitrage bot polymarket trading bot polymarket arbitrage bot polymarket trading bot polymarket arbitrage bot polymarket trading bot polymarket arbitrage bot polymarket-bot
-
-- **[vanithak2k05/empowerher](https://github.com/vanithak2k05/empowerher)** ⭐ 58
-  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
-  None
-
-### 📈 Weekly Trending
-
-- **[slavingia/skills](https://github.com/slavingia/skills)** ⭐ 5,305
-  ![None](https://img.shields.io/badge/-None-lightgrey)
-  Claude Code skills based on The Minimalist Entrepreneur by Sahil Lavingia
-
-- **[larksuite/cli](https://github.com/larksuite/cli)** ⭐ 2,884
-  ![Go](https://img.shields.io/badge/-Go-cyan)
-  A command-line tool for Lark/Feishu Open Platform — built for humans and AI Agents. Covers core business domains including Messenger, Docs, Base, Sheets, Calendar, Mail, Tasks, Meetings, and more, with 200+ commands and 19 AI Agent Skills.
-
-- **[HKUDS/OpenSpace](https://github.com/HKUDS/OpenSpace)** ⭐ 2,376
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  "OpenSpace: Make Your Agents: Smarter, Low-Cost, Self-Evolving" -- Community: https://open-space.cloud/
-
-- **[magnum6actual/flipoff](https://github.com/magnum6actual/flipoff)** ⭐ 2,357
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
-  Free split-flap display emulator for any TV. The classic flip-board look, without the $3,500 hardware.
-
-- **[elder-plinius/G0DM0D3](https://github.com/elder-plinius/G0DM0D3)** ⭐ 1,926
-  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
-  LIBERATED AI CHAT
-
-- **[alvinunreal/awesome-opensource-ai](https://github.com/alvinunreal/awesome-opensource-ai)** ⭐ 1,900
-  ![None](https://img.shields.io/badge/-None-lightgrey)
-  Curated list of the best truly open-source AI projects, models, tools, and infrastructure.
-
-- **[opa334/darksword-kexploit](https://github.com/opa334/darksword-kexploit)** ⭐ 1,025
-  ![Objective-C](https://img.shields.io/badge/-Objective-C-lightgrey)
-  iOS <=26.0.1 DarkSword Kernel Exploit reimplemented in Objective-C
-
-- **[nashsu/opencli-rs](https://github.com/nashsu/opencli-rs)** ⭐ 977
-  ![Rust](https://img.shields.io/badge/-Rust-brown)
-  Opencli-rs is a  Blazing fast, memory-safe command-line tool — Fetch information from any website with a single command. Covers Twitter/X, Reddit, YouTube, HackerNews, Bilibili, Zhihu, Xiaohongshu, and 55+ sites, with support for controlling Electron desktop apps, integrating local CLI tools (gh, docker, kubectl)
-
-### 📈 Monthly Trending
-
-- **[karpathy/autoresearch](https://github.com/karpathy/autoresearch)** ⭐ 60,395
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  AI agents running research on single-GPU nanochat training automatically
-
-- **[garrytan/gstack](https://github.com/garrytan/gstack)** ⭐ 55,310
-  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
-  Use Garry Tan's exact Claude Code setup: 15 opinionated tools that serve as CEO, Designer, Eng Manager, Release Manager, Doc Engineer, and QA
-
-- **[paperclipai/paperclip](https://github.com/paperclipai/paperclip)** ⭐ 38,547
-  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
-  Open-source orchestration for zero-human companies
-
-- **[HKUDS/CLI-Anything](https://github.com/HKUDS/CLI-Anything)** ⭐ 24,651
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  CLI-Anything: Making ALL Software Agent-Native
-
-- **[googleworkspace/cli](https://github.com/googleworkspace/cli)** ⭐ 23,030
-  ![Rust](https://img.shields.io/badge/-Rust-brown)
-  Google Workspace CLI — one command-line tool for Drive, Gmail, Calendar, Sheets, Docs, Chat, Admin, and more. Dynamically built from Google Discovery Service. Includes AI agent skills.
-
-- **[NVIDIA/NemoClaw](https://github.com/NVIDIA/NemoClaw)** ⭐ 17,603
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
-  Run OpenClaw more securely inside NVIDIA OpenShell with managed inference
-
-- **[tanweai/pua](https://github.com/tanweai/pua)** ⭐ 13,176
-  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
-  你是一个曾经被寄予厚望的 P8 级工程师。Anthropic 当初给你定级的时候，对你的期望是很高的。  一个agent使用的高能动性的skill。  Your AI has been placed on a PIP. 30 days to show improvement.
-
-- **[THU-MAIC/OpenMAIC](https://github.com/THU-MAIC/OpenMAIC)** ⭐ 13,149
-  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
-  Open Multi-Agent Interactive Classroom — Get an immersive, multi-agent learning experience in just one click
 
 ## 🚀 Latest Releases
 
@@ -486,10 +382,10 @@ This is a security release.
 
 | Skill | Status |
 |-------|--------|
-| Java | 🟡 Learning |
-| Python | ⚪ Planned |
+| Java | 🔴 Beginner |
+| Python | 🔴 Beginner |
 | JavaScript | 🟢 Proficient |
-| TypeScript | 🟡 Learning |
+| TypeScript | 🔴 Beginner |
 | Go | 🟢 Proficient |
 
 ### Frameworks
@@ -498,7 +394,7 @@ This is a security release.
 |-------|--------|
 | React | 🟢 Proficient |
 | Spring Boot | ⚪ Planned |
-| Django | 🟡 Learning |
+| Django | 🟢 Proficient |
 | Node.js | 🟡 Learning |
 | Next.js | ⚪ Planned |
 
@@ -507,37 +403,37 @@ This is a security release.
 | Skill | Status |
 |-------|--------|
 | Penetration Testing | ⚪ Planned |
-| Web Security | 🔴 Beginner |
-| Network Security | ⚪ Planned |
-| OWASP | 🟢 Proficient |
+| Web Security | 🟡 Learning |
+| Network Security | 🟡 Learning |
+| OWASP | ⚪ Planned |
 
 ### Ai Ml
 
 | Skill | Status |
 |-------|--------|
-| Machine Learning | 🟡 Learning |
-| Deep Learning | ⚪ Planned |
-| NLP | 🟡 Learning |
-| Computer Vision | ⚪ Planned |
-| TensorFlow | 🔴 Beginner |
-| PyTorch | 🟡 Learning |
+| Machine Learning | ⚪ Planned |
+| Deep Learning | 🟡 Learning |
+| NLP | 🟢 Proficient |
+| Computer Vision | 🟡 Learning |
+| TensorFlow | ⚪ Planned |
+| PyTorch | 🔴 Beginner |
 
 ### Devops
 
 | Skill | Status |
 |-------|--------|
-| Docker | 🟢 Proficient |
-| Kubernetes | ⚪ Planned |
-| CI/CD | 🟢 Proficient |
-| AWS | ⚪ Planned |
-| Azure | ⚪ Planned |
+| Docker | 🔴 Beginner |
+| Kubernetes | 🟡 Learning |
+| CI/CD | 🟡 Learning |
+| AWS | 🟢 Proficient |
+| Azure | 🟢 Proficient |
 
 ### Other
 
 | Skill | Status |
 |-------|--------|
-| Blockchain | 🔴 Beginner |
-| Web3 | 🟡 Learning |
+| Blockchain | 🟢 Proficient |
+| Web3 | 🔴 Beginner |
 | Cloud Computing | 🔴 Beginner |
 
 </details>
@@ -556,7 +452,7 @@ This dashboard is automatically updated every 6 hours using GitHub Actions. The 
 
 <div align="center">
 
-**Last Updated:** March 29, 2026
+**Last Updated:** March 30, 2026
 
 Made with ❤️ and automated with GitHub Actions
 
