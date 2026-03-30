@@ -46,36 +46,50 @@
 
 ### 📑 Hacker News
 
-- **[AI and bots have officially taken over the internet](https://www.cnbc.com/2026/03/26/ai-bots-humans-internet.html)**
-  *<p>Article URL: <a href="https://www.cnbc.com/2026/03/26/ai-bots-humans-internet.html">https://www.cnbc.com/2026/03/26/ai-bots-humans-internet.html</a></p>
-<p>Comments URL: <a href="https://news.ycomb...*
-  📅 Mon, 30 Mar 2026 06:29:17 +0000
+- **[How the AI Bubble Bursts](https://martinvol.pe/blog/2026/03/30/how-the-ai-bubble-bursts/)**
+  *<p>Article URL: <a href="https://martinvol.pe/blog/2026/03/30/how-the-ai-bubble-bursts/">https://martinvol.pe/blog/2026/03/30/how-the-ai-bubble-bursts/</a></p>
+<p>Comments URL: <a href="https://news.y...*
+  📅 Mon, 30 Mar 2026 12:28:36 +0000
 
-- **[15 years, one server, 8GB RAM and 500k users – how Webminal refuses to die](https://community.webminal.org/t/15-years-one-server-8gb-ram-and-500k-users-how-webminal-refuses-to-die/8803)**
-  *<p>Article URL: <a href="https://community.webminal.org/t/15-years-one-server-8gb-ram-and-500k-users-how-webminal-refuses-to-die/8803">https://community.webminal.org/t/15-years-one-server-8gb-ram-and-...*
-  📅 Mon, 30 Mar 2026 06:08:53 +0000
+- **[Ask HN: Where have you found the coding limits of current models?](https://news.ycombinator.com/item?id=47573224)**
+  *<p>I'd love to hear where you've run into the limits of current coding models, whether it's based on lines of code, systems integration, databases, etc.</p>
+<hr />
+<p>Comments URL: <a href="https://ne...*
+  📅 Mon, 30 Mar 2026 12:08:47 +0000
 
-- **[The curious case of retro demo scene graphics](https://www.datagubbe.se/aipixels/)**
-  *<p>Article URL: <a href="https://www.datagubbe.se/aipixels/">https://www.datagubbe.se/aipixels/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=47570666">https://news.ycombinato...*
-  📅 Mon, 30 Mar 2026 05:27:18 +0000
+- **[Ghostmoon.app – The Swiss Army Knife for your macOS menu bar](https://www.mgrunwald.com/ghostmoon/)**
+  *<p>Article URL: <a href="https://www.mgrunwald.com/ghostmoon/">https://www.mgrunwald.com/ghostmoon/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=47572910">https://news.ycombi...*
+  📅 Mon, 30 Mar 2026 11:25:50 +0000
 
-- **[HD Audio Driver for Windows 98SE / Me](https://github.com/andrew-hoffman/wdmhda)**
-  *<p>Article URL: <a href="https://github.com/andrew-hoffman/wdmhda">https://github.com/andrew-hoffman/wdmhda</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=47570547">https://new...*
-  📅 Mon, 30 Mar 2026 05:01:07 +0000
+- **[Mathematical methods and human thought in the age of AI](https://arxiv.org/abs/2603.26524)**
+  *<p>Article URL: <a href="https://arxiv.org/abs/2603.26524">https://arxiv.org/abs/2603.26524</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=47572771">https://news.ycombinator.co...*
+  📅 Mon, 30 Mar 2026 11:05:37 +0000
 
-- **[VHDL's Crown Jewel](https://www.sigasi.com/opinion/jan/vhdls-crown-jewel/)**
-  *<p>Article URL: <a href="https://www.sigasi.com/opinion/jan/vhdls-crown-jewel/">https://www.sigasi.com/opinion/jan/vhdls-crown-jewel/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/ite...*
-  📅 Mon, 30 Mar 2026 04:39:15 +0000
+- **[Hamilton-Jacobi-Bellman Equation: Reinforcement Learning and Diffusion Models](https://dani2442.github.io/posts/continuous-rl/)**
+  *<p>Article URL: <a href="https://dani2442.github.io/posts/continuous-rl/">https://dani2442.github.io/posts/continuous-rl/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=4757149...*
+  📅 Mon, 30 Mar 2026 07:34:04 +0000
 
-- **[Copilot edited an ad into my PR](https://notes.zachmanson.com/copilot-edited-an-ad-into-my-pr/)**
-  *<p>Article URL: <a href="https://notes.zachmanson.com/copilot-edited-an-ad-into-my-pr/">https://notes.zachmanson.com/copilot-edited-an-ad-into-my-pr/</a></p>
-<p>Comments URL: <a href="https://news.yco...*
-  📅 Mon, 30 Mar 2026 04:04:31 +0000
+- **[Show HN: The Alphabetical Clock](https://boat.horse/clock/)**
+  *<p>Article URL: <a href="https://boat.horse/clock/">https://boat.horse/clock/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=47571401">https://news.ycombinator.com/item?id=4757...*
+  📅 Mon, 30 Mar 2026 07:19:20 +0000
 
 ### 📑 TechCrunch
+
+- **[Mistral AI raises $830M in debt to set up a data center near Paris](https://techcrunch.com/2026/03/30/mistral-ai-raises-830m-in-debt-to-set-up-a-data-center-near-paris/)**
+  *Mistral aims to start operating the data center by the second quarter of 2026....*
+  📅 Mon, 30 Mar 2026 12:49:51 +0000
+
+- **[Qodo raises $70M for code verification as AI coding scales](https://techcrunch.com/2026/03/30/qodo-bets-on-code-verification-as-ai-coding-scales-raises-70m/)**
+  *As AI floods software development with code, Qodo is betting the real challenge is making sure it actually works....*
+  📅 Mon, 30 Mar 2026 12:30:00 +0000
+
+- **[Starcloud raises $170 million Series Ato build data centers in space](https://techcrunch.com/2026/03/30/starcloud-raises-170-million-series-ato-build-data-centers-in-space/)**
+  *Starcloud becomes the fastest Y Combinator startup to reach unicorn status, just 17 months after demo day....*
+  📅 Mon, 30 Mar 2026 11:00:00 +0000
 
 - **[Why OpenAI really shut down Sora](https://techcrunch.com/2026/03/29/why-openai-really-shut-down-sora/)**
   *OpenAI's decision last week to shut down Sora, its AI video-generation tool, just six months after releasing it to the public raised immediate suspicions. The app had invited users to upload their own...*
@@ -89,27 +103,20 @@
   *CEO Neal Mohan insisted that he isn’t worried about Netflix luring away YouTube's most popular creators....*
   📅 Sun, 29 Mar 2026 21:17:52 +0000
 
-- **[‘Project Hail Mary’ becomes Amazon MGM’s biggest box office hit](https://techcrunch.com/2026/03/29/project-hail-mary-becomes-amazon-mgms-biggest-box-office-hit/)**
-  *Amazon’s bet on “Project Hail Mary” has paid off handsomely....*
-  📅 Sun, 29 Mar 2026 19:50:57 +0000
-
-- **[Sora’s shutdown could be a reality check moment for AI video](https://techcrunch.com/2026/03/29/soras-shutdown-could-be-a-reality-check-moment-for-ai-video/)**
-  *Is this just normal corporate strategy, or are we about to see a broader pullback on AI-generated video?...*
-  📅 Sun, 29 Mar 2026 16:30:00 +0000
-
-- **[TechCrunch Mobility: When a robotaxi has to call 911](https://techcrunch.com/2026/03/29/techcrunch-mobility-when-a-robotaxi-has-to-call-911/)**
-  *Welcome back to TechCrunch Mobility — your central hub for news and insights on the future of transportation....*
-  📅 Sun, 29 Mar 2026 16:05:00 +0000
-
 ### 📑 Dev.to
 
-- **[Amazon Bedrock Beginner Guide: A Complete Deep Dive into AWS Generative AI](https://dev.to/pratik_26/amazon-bedrock-beginner-guide-a-complete-deep-dive-into-aws-generative-ai-c5e)**
-  *<p>👋 Hey there! This is Pratik, a Senior DevOps Consultant with a strong background in automating and optimizing cloud infrastructure, particularly on AWS. Over the years, I have designed and implemen...*
-  📅 Mon, 30 Mar 2026 07:06:55 +0000
+- **[When Debugging Became Belonging: What Nearly 15 Years of Helping Developers Taught Me](https://dev.to/darkbranchcore/when-debugging-became-belonging-what-nearly-15-years-of-helping-developers-taught-me-3amg)**
+  *<p>The first time code made me question my place in tech, it was not elegant.</p>
 
-- **[Will AI Replace Software Testers? The Truth About AI in Software Testing](https://dev.to/morrismoses149/will-ai-replace-software-testers-the-truth-about-ai-in-software-testing-530b)**
-  *<p>The rise of AI in software testing has created both excitement and uncertainty across the tech industry. Tools are getting smarter, automation is becoming more adaptive, and testing cycles are spee...*
-  📅 Mon, 30 Mar 2026 07:04:37 +0000
+<p>It was not cinematic either, unless your favorite genre is “junior developer stares at legacy JavaScript while sil...*
+  📅 Mon, 30 Mar 2026 12:54:16 +0000
+
+- **[Code Review Rules: The Last Stand of Human Judgment in the AI Era](https://dev.to/psavelis/code-review-rules-the-last-stand-of-human-judgment-in-the-ai-era-1f1b)**
+  *<p><strong>Code Review Rules: The Last Stand of Human Judgment in the AI Era</strong></p>
+
+<p>In 2026, AI agents are shipping PRs faster than any human ever could.<br /><br />
+The engineering bar has ...*
+  📅 Mon, 30 Mar 2026 12:52:12 +0000
 
 </details>
 
@@ -117,103 +124,103 @@
 
 ### 📈 Daily Trending
 
-- **[apextechnicalc/AI-free-talking](https://github.com/apextechnicalc/AI-free-talking)** ⭐ 18
+- **[titanwings/colleague-skill](https://github.com/titanwings/colleague-skill)** ⭐ 154
   ![Python](https://img.shields.io/badge/-Python-blue)
-  None
+  你们搞大模型的就是码奸，你们已经害死前端兄弟了，还要害死后端兄弟，测试兄弟，运维兄弟，害死网安兄弟，害死ic兄弟，最后害死自己害死全人类
 
-- **[apextechnicalc/AI-Web-search](https://github.com/apextechnicalc/AI-Web-search)** ⭐ 18
-  ![HTML](https://img.shields.io/badge/-HTML-lightgrey)
-  None
-
-- **[SakthiVarunishaa07/Expense-Tracker](https://github.com/SakthiVarunishaa07/Expense-Tracker)** ⭐ 18
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  Simple Python Expenses Tracker
-
-- **[better-bytes-academy/awesome-testing](https://github.com/better-bytes-academy/awesome-testing)** ⭐ 17
-  ![None](https://img.shields.io/badge/-None-lightgrey)
-  None
-
-- **[toby-bridges/api-relay-audit](https://github.com/toby-bridges/api-relay-audit)** ⭐ 16
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  Security audit tool for third-party AI API relay/proxy services. Detects hidden prompt injection, prompt leakage, instruction override, and context truncation.
-
-- **[vladartym/always-fit-resume](https://github.com/vladartym/always-fit-resume)** ⭐ 16
+- **[vladartym/always-fit-resume](https://github.com/vladartym/always-fit-resume)** ⭐ 51
   ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
   A resume builder that auto-scales font size and line spacing to always fit on one page. Powered by pretext for instant, DOM-free text measurement.
 
-- **[mithra3003/ECommerce-Sales-Analysis](https://github.com/mithra3003/ECommerce-Sales-Analysis)** ⭐ 14
+- **[toby-bridges/api-relay-audit](https://github.com/toby-bridges/api-relay-audit)** ⭐ 47
   ![Python](https://img.shields.io/badge/-Python-blue)
-  This project explores e-commerce sales data using Python. It focuses on identifying top products, analyzing monthly sales patterns, and understanding customer purchasing behavior using basic data analysis and visualization.
+  Security audit tool for third-party AI API relay/proxy services. Detects hidden prompt injection, prompt leakage, instruction override, and context truncation.
 
-- **[ThanatosXingYu/Hikvision-iSecureFucker](https://github.com/ThanatosXingYu/Hikvision-iSecureFucker)** ⭐ 11
+- **[WillowHe/EvoOpt_oppangu_optimization_model](https://github.com/WillowHe/EvoOpt_oppangu_optimization_model)** ⭐ 46
   ![Python](https://img.shields.io/badge/-Python-blue)
-  iSecueFucker 是一个面向 海康威视教育综合安防管理平台 iSecure Center 的 API 测试工具，目标是把 AK/SK 鉴权调试流程做成可视化、可复用、可持续迭代的工程化项目。
+  A set of solutions is provided, leveraging Openpangu - 7B as the base model for fine - tuning and application of large language models (LLMs) in operations research optimization tasks. 
+
+- **[Gokuld102/ai-traffic-signal-optimization](https://github.com/Gokuld102/ai-traffic-signal-optimization)** ⭐ 32
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  AI-based smart traffic signal optimization using YOLO, OpenCV, and Machine Learning
+
+- **[Naveennaveentamil/ai-traffic-signal-optimization](https://github.com/Naveennaveentamil/ai-traffic-signal-optimization)** ⭐ 29
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  None
+
+- **[SakthiVarunishaa07/Expense-Tracker](https://github.com/SakthiVarunishaa07/Expense-Tracker)** ⭐ 26
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  Simple Python Expenses Tracker
+
+- **[apollosenvy/kernel-anvil](https://github.com/apollosenvy/kernel-anvil)** ⭐ 26
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  Profile-guided GPU kernel optimizer for AMD/RDNA3. Auto-tunes llama.cpp MMVQ kernels per model shape. 2x decode speedup on 7900 XTX.
 
 ### 📈 Weekly Trending
 
-- **[larksuite/cli](https://github.com/larksuite/cli)** ⭐ 4,002
+- **[larksuite/cli](https://github.com/larksuite/cli)** ⭐ 4,433
   ![Go](https://img.shields.io/badge/-Go-cyan)
   A command-line tool for Lark/Feishu Open Platform — built for humans and AI Agents. Covers core business domains including Messenger, Docs, Base, Sheets, Calendar, Mail, Tasks, Meetings, and more, with 200+ commands and 19 AI Agent Skills.
 
-- **[HKUDS/OpenSpace](https://github.com/HKUDS/OpenSpace)** ⭐ 2,573
+- **[HKUDS/OpenSpace](https://github.com/HKUDS/OpenSpace)** ⭐ 2,699
   ![Python](https://img.shields.io/badge/-Python-blue)
   "OpenSpace: Make Your Agents: Smarter, Low-Cost, Self-Evolving" -- Community: https://open-space.cloud/
 
-- **[magnum6actual/flipoff](https://github.com/magnum6actual/flipoff)** ⭐ 2,446
+- **[magnum6actual/flipoff](https://github.com/magnum6actual/flipoff)** ⭐ 2,467
   ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
   Free split-flap display emulator for any TV. The classic flip-board look, without the $3,500 hardware.
 
-- **[elder-plinius/G0DM0D3](https://github.com/elder-plinius/G0DM0D3)** ⭐ 2,056
+- **[elder-plinius/G0DM0D3](https://github.com/elder-plinius/G0DM0D3)** ⭐ 2,112
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   LIBERATED AI CHAT
 
-- **[alvinunreal/awesome-opensource-ai](https://github.com/alvinunreal/awesome-opensource-ai)** ⭐ 1,958
+- **[alvinunreal/awesome-opensource-ai](https://github.com/alvinunreal/awesome-opensource-ai)** ⭐ 1,991
   ![None](https://img.shields.io/badge/-None-lightgrey)
   Curated list of the best truly open-source AI projects, models, tools, and infrastructure.
 
-- **[nashsu/opencli-rs](https://github.com/nashsu/opencli-rs)** ⭐ 997
-  ![Rust](https://img.shields.io/badge/-Rust-brown)
-  Opencli-rs is a  Blazing fast, memory-safe command-line tool — Fetch information from any website with a single command. Covers Twitter/X, Reddit, YouTube, HackerNews, Bilibili, Zhihu, Xiaohongshu, and 55+ sites, with support for controlling Electron desktop apps, integrating local CLI tools (gh, docker, kubectl)
-
-- **[qiuzhi2046/Qclaw](https://github.com/qiuzhi2046/Qclaw)** ⭐ 971
+- **[qiuzhi2046/Qclaw](https://github.com/qiuzhi2046/Qclaw)** ⭐ 1,141
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   不用命令行，小白也能轻松玩转 OpenClaw
 
-- **[facebookresearch/tribev2](https://github.com/facebookresearch/tribev2)** ⭐ 943
+- **[nashsu/opencli-rs](https://github.com/nashsu/opencli-rs)** ⭐ 1,010
+  ![Rust](https://img.shields.io/badge/-Rust-brown)
+  Opencli-rs is a  Blazing fast, memory-safe command-line tool — Fetch information from any website with a single command. Covers Twitter/X, Reddit, YouTube, HackerNews, Bilibili, Zhihu, Xiaohongshu, and 55+ sites, with support for controlling Electron desktop apps, integrating local CLI tools (gh, docker, kubectl)
+
+- **[facebookresearch/tribev2](https://github.com/facebookresearch/tribev2)** ⭐ 978
   ![Jupyter Notebook](https://img.shields.io/badge/-Jupyter Notebook-lightgrey)
   This repository contains the code to train and evaluate TRIBE v2, a multimodal model for brain response prediction
 
 ### 📈 Monthly Trending
 
-- **[karpathy/autoresearch](https://github.com/karpathy/autoresearch)** ⭐ 60,949
+- **[karpathy/autoresearch](https://github.com/karpathy/autoresearch)** ⭐ 61,308
   ![Python](https://img.shields.io/badge/-Python-blue)
   AI agents running research on single-GPU nanochat training automatically
 
-- **[garrytan/gstack](https://github.com/garrytan/gstack)** ⭐ 56,213
+- **[garrytan/gstack](https://github.com/garrytan/gstack)** ⭐ 56,851
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
-  Use Garry Tan's exact Claude Code setup: 15 opinionated tools that serve as CEO, Designer, Eng Manager, Release Manager, Doc Engineer, and QA
+  Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve as CEO, Designer, Eng Manager, Release Manager, Doc Engineer, and QA
 
-- **[paperclipai/paperclip](https://github.com/paperclipai/paperclip)** ⭐ 39,524
+- **[paperclipai/paperclip](https://github.com/paperclipai/paperclip)** ⭐ 40,122
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   Open-source orchestration for zero-human companies
 
-- **[HKUDS/CLI-Anything](https://github.com/HKUDS/CLI-Anything)** ⭐ 24,904
+- **[HKUDS/CLI-Anything](https://github.com/HKUDS/CLI-Anything)** ⭐ 25,061
   ![Python](https://img.shields.io/badge/-Python-blue)
   CLI-Anything: Making ALL Software Agent-Native
 
-- **[googleworkspace/cli](https://github.com/googleworkspace/cli)** ⭐ 23,108
+- **[googleworkspace/cli](https://github.com/googleworkspace/cli)** ⭐ 23,150
   ![Rust](https://img.shields.io/badge/-Rust-brown)
   Google Workspace CLI — one command-line tool for Drive, Gmail, Calendar, Sheets, Docs, Chat, Admin, and more. Dynamically built from Google Discovery Service. Includes AI agent skills.
 
-- **[NVIDIA/NemoClaw](https://github.com/NVIDIA/NemoClaw)** ⭐ 17,694
+- **[NVIDIA/NemoClaw](https://github.com/NVIDIA/NemoClaw)** ⭐ 17,743
   ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
   Run OpenClaw more securely inside NVIDIA OpenShell with managed inference
 
-- **[chenglou/pretext](https://github.com/chenglou/pretext)** ⭐ 14,248
+- **[chenglou/pretext](https://github.com/chenglou/pretext)** ⭐ 16,551
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   None
 
-- **[tanweai/pua](https://github.com/tanweai/pua)** ⭐ 13,430
+- **[tanweai/pua](https://github.com/tanweai/pua)** ⭐ 13,628
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   你是一个曾经被寄予厚望的 P8 级工程师。Anthropic 当初给你定级的时候，对你的期望是很高的。  一个agent使用的高能动性的skill。  Your AI has been placed on a PIP. 30 days to show improvement.
 
@@ -484,39 +491,39 @@ This is a security release.
 
 | Skill | Status |
 |-------|--------|
-| Java | 🟡 Learning |
-| Python | ⚪ Planned |
-| JavaScript | ⚪ Planned |
+| Java | 🔴 Beginner |
+| Python | 🔴 Beginner |
+| JavaScript | 🟡 Learning |
 | TypeScript | 🟡 Learning |
-| Go | 🟡 Learning |
+| Go | ⚪ Planned |
 
 ### Frameworks
 
 | Skill | Status |
 |-------|--------|
-| React | 🟡 Learning |
-| Spring Boot | ⚪ Planned |
-| Django | 🟡 Learning |
-| Node.js | 🔴 Beginner |
+| React | 🔴 Beginner |
+| Spring Boot | 🔴 Beginner |
+| Django | 🔴 Beginner |
+| Node.js | 🟡 Learning |
 | Next.js | 🟡 Learning |
 
 ### Cybersecurity
 
 | Skill | Status |
 |-------|--------|
-| Penetration Testing | 🟡 Learning |
-| Web Security | 🟢 Proficient |
-| Network Security | 🔴 Beginner |
-| OWASP | 🟡 Learning |
+| Penetration Testing | 🟢 Proficient |
+| Web Security | 🟡 Learning |
+| Network Security | 🟢 Proficient |
+| OWASP | ⚪ Planned |
 
 ### Ai Ml
 
 | Skill | Status |
 |-------|--------|
-| Machine Learning | 🔴 Beginner |
+| Machine Learning | 🟡 Learning |
 | Deep Learning | 🔴 Beginner |
 | NLP | 🔴 Beginner |
-| Computer Vision | ⚪ Planned |
+| Computer Vision | 🟡 Learning |
 | TensorFlow | 🔴 Beginner |
 | PyTorch | 🟢 Proficient |
 
@@ -524,17 +531,17 @@ This is a security release.
 
 | Skill | Status |
 |-------|--------|
-| Docker | ⚪ Planned |
-| Kubernetes | 🟡 Learning |
+| Docker | 🟡 Learning |
+| Kubernetes | 🔴 Beginner |
 | CI/CD | 🟢 Proficient |
-| AWS | 🟢 Proficient |
+| AWS | ⚪ Planned |
 | Azure | ⚪ Planned |
 
 ### Other
 
 | Skill | Status |
 |-------|--------|
-| Blockchain | 🟡 Learning |
+| Blockchain | 🔴 Beginner |
 | Web3 | 🟢 Proficient |
 | Cloud Computing | 🔴 Beginner |
 
