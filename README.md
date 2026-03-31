@@ -46,70 +46,71 @@
 
 ### 📑 Hacker News
 
-- **[Anthropic: Claude Code users hitting usage limits 'way faster than expected'](https://www.theregister.com/2026/03/31/anthropic_claude_code_limits/)**
-  *<p>Article URL: <a href="https://www.theregister.com/2026/03/31/anthropic_claude_code_limits/">https://www.theregister.com/2026/03/31/anthropic_claude_code_limits/</a></p>
-<p>Comments URL: <a href="ht...*
-  📅 Tue, 31 Mar 2026 12:11:29 +0000
+- **[OkCupid gave 3M dating-app photos to facial recognition firm, FTC says](https://arstechnica.com/tech-policy/2026/03/okcupid-match-pay-no-fine-for-sharing-user-photos-with-facial-recognition-firm/)**
+  *<p>Article URL: <a href="https://arstechnica.com/tech-policy/2026/03/okcupid-match-pay-no-fine-for-sharing-user-photos-with-facial-recognition-firm/">https://arstechnica.com/tech-policy/2026/03/okcupi...*
+  📅 Tue, 31 Mar 2026 17:55:04 +0000
 
-- **[U.S. stocks are set to deliver their worst quarter in nearly four years](https://www.wsj.com/finance/stocks/wall-street-is-finishing-the-worst-quarter-for-stocks-in-four-years-31ac41ea)**
-  *<p>Article URL: <a href="https://www.wsj.com/finance/stocks/wall-street-is-finishing-the-worst-quarter-for-stocks-in-four-years-31ac41ea">https://www.wsj.com/finance/stocks/wall-street-is-finishing-th...*
-  📅 Tue, 31 Mar 2026 11:53:04 +0000
+- **[I Decompiled the White House's New App](https://blog.thereallo.dev/blog/decompiling-the-white-house-app)**
+  *<p>Article URL: <a href="https://blog.thereallo.dev/blog/decompiling-the-white-house-app">https://blog.thereallo.dev/blog/decompiling-the-white-house-app</a></p>
+<p>Comments URL: <a href="https://news...*
+  📅 Tue, 31 Mar 2026 17:47:42 +0000
 
-- **[Combinators](https://tinyapl.rubenverg.com/docs/info/combinators)**
-  *<p>Article URL: <a href="https://tinyapl.rubenverg.com/docs/info/combinators">https://tinyapl.rubenverg.com/docs/info/combinators</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id...*
-  📅 Tue, 31 Mar 2026 11:49:03 +0000
+- **[Ask HN: Academic study on AI's impact on software development – want to join?](https://news.ycombinator.com/item?id=47590261)**
+  *<p>Would you like to participate in a study on AI’s impact on software development? We are researchers at New York University and City, University of London conducting an interview study on how new AI...*
+  📅 Tue, 31 Mar 2026 16:57:34 +0000
 
-- **[Show HN: Pardus Browser- a browser for AI agents without Chromium](https://github.com/JasonHonKL/PardusBrowser/tree/main)**
-  *<p>Article URL: <a href="https://github.com/JasonHonKL/PardusBrowser/tree/main">https://github.com/JasonHonKL/PardusBrowser/tree/main</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/ite...*
-  📅 Tue, 31 Mar 2026 10:21:33 +0000
+- **[Cohere Transcribe: Speech Recognition](https://cohere.com/blog/transcribe)**
+  *<p>Article URL: <a href="https://cohere.com/blog/transcribe">https://cohere.com/blog/transcribe</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=47589818">https://news.ycombinato...*
+  📅 Tue, 31 Mar 2026 16:27:02 +0000
 
-- **[7,655 Ransomware Claims in One Year: Group, Sector, and Country Breakdown](https://ciphercue.com/blog/7655-ransomware-claims-march-2025-to-march-2026)**
-  *<p>Article URL: <a href="https://ciphercue.com/blog/7655-ransomware-claims-march-2025-to-march-2026">https://ciphercue.com/blog/7655-ransomware-claims-march-2025-to-march-2026</a></p>
-<p>Comments URL:...*
-  📅 Tue, 31 Mar 2026 10:02:34 +0000
+- **[Forth VM and compiler written in C++ and Scryer Prolog](https://github.com/no382001/forth-vm)**
+  *<p>Article URL: <a href="https://github.com/no382001/forth-vm">https://github.com/no382001/forth-vm</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=47589732">https://news.ycombi...*
+  📅 Tue, 31 Mar 2026 16:21:20 +0000
 
-- **[Claude Code's source code has been leaked via a map file in their NPM registry](https://twitter.com/Fried_rice/status/2038894956459290963)**
-  *<p>Article URL: <a href="https://twitter.com/Fried_rice/status/2038894956459290963">https://twitter.com/Fried_rice/status/2038894956459290963</a></p>
+- **[Scotty: A beautiful SSH task runner](https://freek.dev/3064-scotty-a-beautiful-ssh-task-runner)**
+  *<p>Article URL: <a href="https://freek.dev/3064-scotty-a-beautiful-ssh-task-runner">https://freek.dev/3064-scotty-a-beautiful-ssh-task-runner</a></p>
 <p>Comments URL: <a href="https://news.ycombinator...*
-  📅 Tue, 31 Mar 2026 09:00:40 +0000
+  📅 Tue, 31 Mar 2026 16:12:29 +0000
 
 ### 📑 TechCrunch
 
-- **[Google is now letting users in the US change their Gmail address](https://techcrunch.com/2026/03/31/google-is-now-letting-users-in-the-us-change-their-gmail-address/)**
-  *Users will be able to change their username only once every 12 months. Plus, they won't be able to delete their new email address for that period of time....*
-  📅 Tue, 31 Mar 2026 12:30:26 +0000
+- **[Go play this secret game in your TikTok DMs](https://techcrunch.com/2026/03/31/go-play-this-secret-game-in-your-tiktok-dms/)**
+  *The game is available globally and can be accessed in both one-on-one DM chats and in group chats....*
+  📅 Tue, 31 Mar 2026 18:47:47 +0000
 
-- **[Airbnb is introducing a private car pick-up service](https://techcrunch.com/2026/03/31/airbnb-private-car-pick-up-service-welcome-pickups/)**
-  *Airbnb is partnering with transportation company Welcome Pickups to let users book a private car service during their trip....*
-  📅 Tue, 31 Mar 2026 09:00:00 +0000
+- **[Caller ID app Truecaller hits 500 million monthly users](https://techcrunch.com/2026/03/31/caller-id-app-truecaller-hits-500-million-monthly-users/)**
+  *Truecaller now has more than 4 million paying users across the world....*
+  📅 Tue, 31 Mar 2026 18:40:59 +0000
 
-- **[The Silicon Valley congressional race is getting ugly](https://techcrunch.com/2026/03/31/the-silicon-valley-congressional-race-is-getting-ugly/)**
-  *The primary isn&#8217;t until early June, but the CA-17 race between five-term incumbent Ro Khanna and tech founder Ethan Agarwal is already getting nasty. Agarwal entered the race in March, backed by...*
-  📅 Tue, 31 Mar 2026 07:23:06 +0000
+- **[Social gaming platform Rec Room, once valued at $3.5B, is shutting down](https://techcrunch.com/2026/03/31/social-gaming-platform-rec-room-once-valued-at-3-5b-is-shutting-down/)**
+  *Rec Room, the social platform for user-generated games and virtual experiences, will shutter on June 1....*
+  📅 Tue, 31 Mar 2026 18:05:13 +0000
 
-- **[Allbirds is selling for $39 million. It raised nearly 10 times that amount in its IPO.](https://techcrunch.com/2026/03/30/allbirds-is-selling-for-39-million-it-raised-nearly-10-times-that-amount-in-its-ipo/)**
-  *The collapse of the brand, which was originally venture-backed and that went public in 2021,  has been well-documented....*
-  📅 Tue, 31 Mar 2026 05:30:20 +0000
+- **[Alexa+ gets new food ordering experiences with Uber Eats and Grubhub](https://techcrunch.com/2026/03/31/alexa-plus-new-food-ordering-experiences-with-uber-eats-and-grubhub/)**
+  *You can now order from Uber Eats and Grubhub using Alexa+, an experience Amazon says will be similar to chatting with a waiter at a restaurant or placing an order at a drive-thru....*
+  📅 Tue, 31 Mar 2026 17:41:35 +0000
 
-- **[15% of Americans say they’d be willing to work for an AI boss, according to new poll](https://techcrunch.com/2026/03/30/ai-work-boss-supervisor-us-quinnipiac-poll/)**
-  *According to a Quinnipiac University poll, 15% of Americans say they'd be willing to have a job where their direct supervisor was an AI program that assigned tasks and set schedules....*
-  📅 Mon, 30 Mar 2026 23:41:48 +0000
+- **[Whoop’s valuation just tripled to $10 billion](https://techcrunch.com/2026/03/31/whoop-valuation-10b-series-g-fundraise/)**
+  *The fitness tracking startup just closed a $575 million Series G with Cristiano Ronaldo and LeBron James among its investors. The obvious question looming over a round of this size at this valuation: ...*
+  📅 Tue, 31 Mar 2026 16:58:25 +0000
 
-- **[Popular AI gateway startup LiteLLM ditches controversial startup Delve](https://techcrunch.com/2026/03/30/popular-ai-gateway-startup-litellm-ditches-controversial-startup-delve/)**
-  *LiteLLM had obtained two security compliance certifications via Delve and fell victim to some horrific credential-stealing malware last week....*
-  📅 Mon, 30 Mar 2026 23:08:12 +0000
+- **[Uber increases stake in WeRide as robotaxi partnership ramps up in Dubai](https://techcrunch.com/2026/03/31/uber-increases-stake-in-weride-as-robotaxi-partnership-ramps-up-in-dubai/)**
+  *Uber and WeRide have launched robotaxi operations without a human safety operator in Dubai as part of a broader expansion in the Middle East....*
+  📅 Tue, 31 Mar 2026 16:26:26 +0000
 
 ### 📑 Dev.to
 
-- **[Be honest: are we still becoming better developers, or just faster at assembling code with tools we barely understand? Shipping fast feels good until the bug shows up in production and nobody really knows why.](https://dev.to/dhruvjoshi9/be-honest-are-we-still-becoming-better-developers-or-just-faster-at-assembling-code-with-tools-we-3he6)**
-  *...*
-  📅 Tue, 31 Mar 2026 12:42:46 +0000
+- **[SQLite Interface Handler: Understanding the sqlite3 Core Structure](https://dev.to/lovestaco/sqlite-interface-handler-understanding-the-sqlite3-core-structure-2976)**
+  *<p><em>Hello, I'm Maneshwar. I'm building git-lrc, an AI code reviewer that runs on every commit. It is free, unlimited, and source-available on Github. <a href="https://github.com/HexmosTech/git-lrc"...*
+  📅 Tue, 31 Mar 2026 18:39:45 +0000
 
-- **[Shipping a Perl CLI as a single file with App::FatPacker](https://dev.to/perldean/shipping-a-perl-cli-as-a-single-file-with-appfatpacker-586d)**
-  *<p>Modern software distribution has converged on a simple idea: ship a self-contained artifact. Whether that means a statically linked binary, a container image, or a snap/flatpak, the benefits are th...*
-  📅 Tue, 31 Mar 2026 12:41:49 +0000
+- **[Help Me!!](https://dev.to/tyler_biffle_1ca74cc0e8ee/help-me-4cn6)**
+  *<p>I encountered an issue with Git that I’ve been unable to fully resolve.</p>
+
+<p>While I’ve successfully addressed most related problems, one issue still remains. Specifically, the git clone command...*
+  📅 Tue, 31 Mar 2026 18:39:38 +0000
 
 </details>
 
@@ -117,103 +118,103 @@
 
 ### 📈 Daily Trending
 
-- **[instructkr/claude-code](https://github.com/instructkr/claude-code)** ⭐ 21,188
+- **[instructkr/claw-code](https://github.com/instructkr/claw-code)** ⭐ 46,132
   ![Python](https://img.shields.io/badge/-Python-blue)
-  An independent Python feature port of Claude Code, entirely rewritting from scratch using oh-my-codex. Educational Purpose only.
+  Better Harness Tools, not merely storing the archive of leaked Claude Code but also make real things done. Now rewriting in Rust.
 
-- **[ChinaSiro/claude-code-sourcemap](https://github.com/ChinaSiro/claude-code-sourcemap)** ⭐ 2,262
-  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
-  None
-
-- **[sanbuphy/claude-code-source-code](https://github.com/sanbuphy/claude-code-source-code)** ⭐ 583
-  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
-  Claude Code v2.1.88 Source Code
-
-- **[nirholas/claude-code](https://github.com/nirholas/claude-code)** ⭐ 426
+- **[nirholas/claude-code](https://github.com/nirholas/claude-code)** ⭐ 4,214
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.
 
-- **[chatgptprojects/claude-code](https://github.com/chatgptprojects/claude-code)** ⭐ 290
+- **[ChinaSiro/claude-code-sourcemap](https://github.com/ChinaSiro/claude-code-sourcemap)** ⭐ 4,054
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   None
 
-- **[hangsman/claude-code-source](https://github.com/hangsman/claude-code-source)** ⭐ 252
+- **[sanbuphy/claude-code-source-code](https://github.com/sanbuphy/claude-code-source-code)** ⭐ 2,949
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
-  claude code source map v2.1.88
+  Claude Code v2.1.88 Source Code
 
-- **[averygan/reclip](https://github.com/averygan/reclip)** ⭐ 155
-  ![HTML](https://img.shields.io/badge/-HTML-lightgrey)
-  Download videos from almost any website. Lightweight, self-hosted media downloader with a clean web UI.
+- **[Kuberwastaken/claude-code](https://github.com/Kuberwastaken/claude-code)** ⭐ 2,018
+  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
+  Claude Code's Source Code & Breakdown from a leaked map file in their NPM registry
 
-- **[oboard/claude-code-rev](https://github.com/oboard/claude-code-rev)** ⭐ 151
+- **[chatgptprojects/claude-code](https://github.com/chatgptprojects/claude-code)** ⭐ 1,014
+  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
+  https://x.com/paidev
+
+- **[tvytlx/claude-code-deep-dive](https://github.com/tvytlx/claude-code-deep-dive)** ⭐ 840
+  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
+  Claude Code 源码深度研究报告
+
+- **[oboard/claude-code-rev](https://github.com/oboard/claude-code-rev)** ⭐ 787
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   Runnable ClaudeCode source code
 
 ### 📈 Weekly Trending
 
-- **[instructkr/claude-code](https://github.com/instructkr/claude-code)** ⭐ 21,191
+- **[instructkr/claw-code](https://github.com/instructkr/claw-code)** ⭐ 46,133
   ![Python](https://img.shields.io/badge/-Python-blue)
-  An independent Python feature port of Claude Code, entirely rewritting from scratch using oh-my-codex. Educational Purpose only.
+  Better Harness Tools, not merely storing the archive of leaked Claude Code but also make real things done. Now rewriting in Rust.
 
-- **[larksuite/cli](https://github.com/larksuite/cli)** ⭐ 5,303
+- **[larksuite/cli](https://github.com/larksuite/cli)** ⭐ 5,414
   ![Go](https://img.shields.io/badge/-Go-cyan)
   The official Lark/Feishu CLI tool, maintained by the larksuite team — built for humans and AI Agents. Covers core business domains including Messenger, Docs, Base, Sheets, Calendar, Mail, Tasks, Meetings, and more, with 200+ commands and 19 AI Agent Skills.
 
-- **[openai/codex-plugin-cc](https://github.com/openai/codex-plugin-cc)** ⭐ 4,402
+- **[openai/codex-plugin-cc](https://github.com/openai/codex-plugin-cc)** ⭐ 5,224
   ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
   Use Codex from Claude Code to review code or delegate tasks.
 
-- **[TheTom/turboquant_plus](https://github.com/TheTom/turboquant_plus)** ⭐ 3,147
+- **[nirholas/claude-code](https://github.com/nirholas/claude-code)** ⭐ 4,214
+  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
+  Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.
+
+- **[ChinaSiro/claude-code-sourcemap](https://github.com/ChinaSiro/claude-code-sourcemap)** ⭐ 4,054
+  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
+  None
+
+- **[TheTom/turboquant_plus](https://github.com/TheTom/turboquant_plus)** ⭐ 3,590
   ![Python](https://img.shields.io/badge/-Python-blue)
   None
 
-- **[titanwings/colleague-skill](https://github.com/titanwings/colleague-skill)** ⭐ 3,008
+- **[titanwings/colleague-skill](https://github.com/titanwings/colleague-skill)** ⭐ 3,307
   ![Python](https://img.shields.io/badge/-Python-blue)
   将冰冷的离别化为温暖的 Skill，欢迎加入数字生命1.0！
 
-- **[magnum6actual/flipoff](https://github.com/magnum6actual/flipoff)** ⭐ 2,534
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
-  Free split-flap display emulator for any TV. The classic flip-board look, without the $3,500 hardware.
-
-- **[elder-plinius/G0DM0D3](https://github.com/elder-plinius/G0DM0D3)** ⭐ 2,355
+- **[sanbuphy/claude-code-source-code](https://github.com/sanbuphy/claude-code-source-code)** ⭐ 2,949
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
-  LIBERATED AI CHAT
-
-- **[ChinaSiro/claude-code-sourcemap](https://github.com/ChinaSiro/claude-code-sourcemap)** ⭐ 2,263
-  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
-  None
+  Claude Code v2.1.88 Source Code
 
 ### 📈 Monthly Trending
 
-- **[karpathy/autoresearch](https://github.com/karpathy/autoresearch)** ⭐ 62,348
+- **[karpathy/autoresearch](https://github.com/karpathy/autoresearch)** ⭐ 62,595
   ![Python](https://img.shields.io/badge/-Python-blue)
   AI agents running research on single-GPU nanochat training automatically
 
-- **[garrytan/gstack](https://github.com/garrytan/gstack)** ⭐ 58,922
+- **[garrytan/gstack](https://github.com/garrytan/gstack)** ⭐ 59,309
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve as CEO, Designer, Eng Manager, Release Manager, Doc Engineer, and QA
 
-- **[paperclipai/paperclip](https://github.com/paperclipai/paperclip)** ⭐ 41,925
+- **[instructkr/claw-code](https://github.com/instructkr/claw-code)** ⭐ 46,133
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  Better Harness Tools, not merely storing the archive of leaked Claude Code but also make real things done. Now rewriting in Rust.
+
+- **[paperclipai/paperclip](https://github.com/paperclipai/paperclip)** ⭐ 42,336
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   Open-source orchestration for zero-human companies
 
-- **[HKUDS/CLI-Anything](https://github.com/HKUDS/CLI-Anything)** ⭐ 25,499
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  CLI-Anything: Making ALL Software Agent-Native
-
-- **[chenglou/pretext](https://github.com/chenglou/pretext)** ⭐ 25,262
+- **[chenglou/pretext](https://github.com/chenglou/pretext)** ⭐ 26,499
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   None
 
-- **[googleworkspace/cli](https://github.com/googleworkspace/cli)** ⭐ 23,289
+- **[HKUDS/CLI-Anything](https://github.com/HKUDS/CLI-Anything)** ⭐ 25,598
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  CLI-Anything: Making ALL Software Agent-Native
+
+- **[googleworkspace/cli](https://github.com/googleworkspace/cli)** ⭐ 23,335
   ![Rust](https://img.shields.io/badge/-Rust-brown)
   Google Workspace CLI — one command-line tool for Drive, Gmail, Calendar, Sheets, Docs, Chat, Admin, and more. Dynamically built from Google Discovery Service. Includes AI agent skills.
 
-- **[instructkr/claude-code](https://github.com/instructkr/claude-code)** ⭐ 21,197
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  An independent Python feature port of Claude Code, entirely rewritting from scratch using oh-my-codex. Educational Purpose only.
-
-- **[NVIDIA/NemoClaw](https://github.com/NVIDIA/NemoClaw)** ⭐ 17,899
+- **[NVIDIA/NemoClaw](https://github.com/NVIDIA/NemoClaw)** ⭐ 17,938
   ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
   Run OpenClaw more securely inside NVIDIA OpenShell with managed inference
 
@@ -484,10 +485,10 @@ This is a security release.
 
 | Skill | Status |
 |-------|--------|
-| Java | 🟢 Proficient |
-| Python | 🟢 Proficient |
+| Java | 🟡 Learning |
+| Python | ⚪ Planned |
 | JavaScript | 🟡 Learning |
-| TypeScript | ⚪ Planned |
+| TypeScript | 🔴 Beginner |
 | Go | 🔴 Beginner |
 
 ### Frameworks
@@ -495,48 +496,48 @@ This is a security release.
 | Skill | Status |
 |-------|--------|
 | React | 🔴 Beginner |
-| Spring Boot | 🔴 Beginner |
+| Spring Boot | 🟡 Learning |
 | Django | ⚪ Planned |
-| Node.js | ⚪ Planned |
+| Node.js | 🟢 Proficient |
 | Next.js | 🟢 Proficient |
 
 ### Cybersecurity
 
 | Skill | Status |
 |-------|--------|
-| Penetration Testing | 🔴 Beginner |
-| Web Security | 🔴 Beginner |
-| Network Security | 🟡 Learning |
-| OWASP | 🟢 Proficient |
+| Penetration Testing | 🟢 Proficient |
+| Web Security | 🟢 Proficient |
+| Network Security | 🟢 Proficient |
+| OWASP | 🔴 Beginner |
 
 ### Ai Ml
 
 | Skill | Status |
 |-------|--------|
 | Machine Learning | 🟡 Learning |
-| Deep Learning | 🔴 Beginner |
+| Deep Learning | 🟡 Learning |
 | NLP | ⚪ Planned |
-| Computer Vision | 🟢 Proficient |
+| Computer Vision | ⚪ Planned |
 | TensorFlow | 🟢 Proficient |
-| PyTorch | ⚪ Planned |
+| PyTorch | 🟢 Proficient |
 
 ### Devops
 
 | Skill | Status |
 |-------|--------|
-| Docker | 🟢 Proficient |
-| Kubernetes | 🔴 Beginner |
-| CI/CD | ⚪ Planned |
+| Docker | ⚪ Planned |
+| Kubernetes | ⚪ Planned |
+| CI/CD | 🔴 Beginner |
 | AWS | ⚪ Planned |
-| Azure | 🟢 Proficient |
+| Azure | ⚪ Planned |
 
 ### Other
 
 | Skill | Status |
 |-------|--------|
-| Blockchain | 🟢 Proficient |
-| Web3 | ⚪ Planned |
-| Cloud Computing | 🔴 Beginner |
+| Blockchain | ⚪ Planned |
+| Web3 | 🟡 Learning |
+| Cloud Computing | ⚪ Planned |
 
 </details>
 
