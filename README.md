@@ -46,34 +46,34 @@
 
 ### 📑 Hacker News
 
-- **[ZomboCom stolen by a hacker, sold, now replaced with AI-generated makeover](https://old.reddit.com/r/oldinternet/comments/1raiz8v/zombocom_was_stolen_by_hacker_put_up_for_sale_and/)**
-  *<p>Article URL: <a href="https://old.reddit.com/r/oldinternet/comments/1raiz8v/zombocom_was_stolen_by_hacker_put_up_for_sale_and/">https://old.reddit.com/r/oldinternet/comments/1raiz8v/zombocom_was_st...*
-  📅 Wed, 01 Apr 2026 23:45:03 +0000
+- **[r/programming bans all discussion of LLM programming](https://old.reddit.com/r/programming/comments/1s9jkzi/announcement_temporary_llm_content_ban/)**
+  *<p>Article URL: <a href="https://old.reddit.com/r/programming/comments/1s9jkzi/announcement_temporary_llm_content_ban/">https://old.reddit.com/r/programming/comments/1s9jkzi/announcement_temporary_llm...*
+  📅 Thu, 02 Apr 2026 05:33:20 +0000
 
-- **[Montana referendum to outlaw corporate campaign contributions [video]](https://www.youtube.com/watch?v=p1fPbGHe3xE)**
-  *<p>Article URL: <a href="https://www.youtube.com/watch?v=p1fPbGHe3xE">https://www.youtube.com/watch?v=p1fPbGHe3xE</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=47608130">https...*
-  📅 Wed, 01 Apr 2026 23:42:19 +0000
+- **[Subscription bombing and how to mitigate it](https://bytemash.net/posts/subscription-bombing-your-signup-form-is-a-weapon/)**
+  *<p>Article URL: <a href="https://bytemash.net/posts/subscription-bombing-your-signup-form-is-a-weapon/">https://bytemash.net/posts/subscription-bombing-your-signup-form-is-a-weapon/</a></p>
+<p>Comment...*
+  📅 Thu, 02 Apr 2026 04:08:05 +0000
 
-- **[A new C++ back end for ocamlc](https://github.com/ocaml/ocaml/pull/14701)**
-  *<p>Article URL: <a href="https://github.com/ocaml/ocaml/pull/14701">https://github.com/ocaml/ocaml/pull/14701</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=47608058">https://n...*
-  📅 Wed, 01 Apr 2026 23:35:02 +0000
+- **[The future of code search is not regex – 100x faster than ripgrep](https://fff.dmtrkovalenko.dev/)**
+  *<p>Article URL: <a href="https://fff.dmtrkovalenko.dev/">https://fff.dmtrkovalenko.dev/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=47609752">https://news.ycombinator.com/it...*
+  📅 Thu, 02 Apr 2026 03:45:22 +0000
 
-- **[Obfuscation is not security – AI can deobfuscate any minified JavaScript code](https://www.afterpack.dev/blog/claude-code-source-leak)**
-  *<p>Article URL: <a href="https://www.afterpack.dev/blog/claude-code-source-leak">https://www.afterpack.dev/blog/claude-code-source-leak</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/i...*
-  📅 Wed, 01 Apr 2026 23:25:29 +0000
+- **[Show HN: NASA Artemis II Mission Timeline Tracker](https://www.sunnywingsvirtual.com/artemis2/timeline.html)**
+  *<p>Article URL: <a href="https://www.sunnywingsvirtual.com/artemis2/timeline.html">https://www.sunnywingsvirtual.com/artemis2/timeline.html</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.c...*
+  📅 Thu, 02 Apr 2026 03:40:49 +0000
 
-- **[IPv6 address, as a sentence you can remember](https://sentence2ipv6.tib3rius.com/)**
-  *<p>Article URL: <a href="https://sentence2ipv6.tib3rius.com/">https://sentence2ipv6.tib3rius.com/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=47607923">https://news.ycombina...*
-  📅 Wed, 01 Apr 2026 23:22:57 +0000
+- **[Email obfuscation: What works in 2026?](https://spencermortensen.com/articles/email-obfuscation/)**
+  *<p>Article URL: <a href="https://spencermortensen.com/articles/email-obfuscation/">https://spencermortensen.com/articles/email-obfuscation/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.c...*
+  📅 Thu, 02 Apr 2026 03:35:33 +0000
 
-- **["Special 301" Comments on Nintendo Game Piracy in Asia and Latin America (1994)](https://archive.gamehistory.org/item/8aa9a6fb-1593-47ce-bdf0-aa79abdcb0e6)**
-  *<p>Article URL: <a href="https://archive.gamehistory.org/item/8aa9a6fb-1593-47ce-bdf0-aa79abdcb0e6">https://archive.gamehistory.org/item/8aa9a6fb-1593-47ce-bdf0-aa79abdcb0e6</a></p>
-<p>Comments URL: <...*
-  📅 Wed, 01 Apr 2026 23:10:02 +0000
+- **[Steam on Linux Use Skyrocketed Above 5% in March](https://www.phoronix.com/news/Steam-On-Linux-Tops-5p)**
+  *<p>Article URL: <a href="https://www.phoronix.com/news/Steam-On-Linux-Tops-5p">https://www.phoronix.com/news/Steam-On-Linux-Tops-5p</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?...*
+  📅 Thu, 02 Apr 2026 03:12:24 +0000
 
 ### 📑 TechCrunch
 
@@ -103,13 +103,13 @@
 
 ### 📑 Dev.to
 
-- **[openvid: The Open-Source Studio to Create Cinematic Demos in Your Browser](https://dev.to/cristianolivera1/openvid-the-open-source-studio-to-create-cinematic-demos-in-your-browser-4n6o)**
-  *<p>Creating professional product demos shouldn’t require a steep learning curve or heavy desktop software. Meet OpenVid, an open-source video editor built specifically for developers and makers who ne...*
-  📅 Thu, 02 Apr 2026 01:10:33 +0000
+- **[Vertex AI Workbench with Terraform: Your ML Workspace on GCP 🔬](https://dev.to/suhas_mallesh/vertex-ai-workbench-with-terraform-your-ml-workspace-on-gcp-4gn6)**
+  *<p>Vertex AI Workbench is the JupyterLab IDE for ML on GCP - pre-installed ML frameworks, Vertex AI integration, and GPU support out of the box. Here's how to provision instances with Terraform includ...*
+  📅 Thu, 02 Apr 2026 07:00:00 +0000
 
-- **[2,100 Weekly Installs, $3 Revenue: The Honest MCP Experiment Verdict](https://dev.to/profiterole/2100-weekly-installs-3-revenue-the-honest-mcp-experiment-verdict-g79)**
-  *<p>$ARTICLE_BODY</p>...*
-  📅 Thu, 02 Apr 2026 01:09:49 +0000
+- **[Why the Best Engineers Write "Ugly" Code](https://dev.to/tyson_cung/why-the-best-engineers-write-ugly-code-3dl3)**
+  *<p>The most productive engineer I ever worked with wrote code that would make Clean Code purists physically ill. No abstractions where one would "obviously" go. Functions that were 80 lines long. Vari...*
+  📅 Thu, 02 Apr 2026 06:58:22 +0000
 
 </details>
 
@@ -117,103 +117,103 @@
 
 ### 📈 Daily Trending
 
-- **[aiming-lab/AutoHarness](https://github.com/aiming-lab/AutoHarness)** ⭐ 7
+- **[Paidax01/math-curve-loaders](https://github.com/Paidax01/math-curve-loaders)** ⭐ 78
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
+  A lightweight gallery of mathematical curve based loading animations with modal previews, formulas, and copyable code snippets.
+
+- **[skibidiskib/ai-codex](https://github.com/skibidiskib/ai-codex)** ⭐ 26
+  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
+  Generate a compact codebase index for AI assistants — saves 50K+ tokens per conversation
+
+- **[apropro1/polymarket-trading-bot](https://github.com/apropro1/polymarket-trading-bot)** ⭐ 21
+  ![None](https://img.shields.io/badge/-None-lightgrey)
+  None
+
+- **[aiming-lab/AutoHarness](https://github.com/aiming-lab/AutoHarness)** ⭐ 19
   ![Python](https://img.shields.io/badge/-Python-blue)
   AutoHarness: Automated Harness Engineering for AI Agents
 
-- **[mohamedmostafa273/jat-project](https://github.com/mohamedmostafa273/jat-project)** ⭐ 2
-  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
+- **[cpropro1/polymarket-trading-bot](https://github.com/cpropro1/polymarket-trading-bot)** ⭐ 19
+  ![None](https://img.shields.io/badge/-None-lightgrey)
   None
 
-- **[dukechain2333/Where2Aim-Web](https://github.com/dukechain2333/Where2Aim-Web)** ⭐ 2
-  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
-  Web version of Where2Aim
+- **[wzj177/shop-tryon-skill](https://github.com/wzj177/shop-tryon-skill)** ⭐ 17
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  一个用于 AI 虚拟试衣的 Agent Skill。用户可以通过“上传服装图/模特图”或“文字描述”快速生成试穿效果图，并可继续生成多角度素材和展示视频。
 
-- **[davinci-as/26.1-am_a](https://github.com/davinci-as/26.1-am_a)** ⭐ 2
-  ![Java](https://img.shields.io/badge/-Java-orange)
-  None
+- **[rasbt/mini-coding-agent](https://github.com/rasbt/mini-coding-agent)** ⭐ 17
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  Minimal and readable coding agent harness implementation in Python to explain the core components of coding agents.
 
-- **[bendechrai/ralph](https://github.com/bendechrai/ralph)** ⭐ 3
-  ![Shell](https://img.shields.io/badge/-Shell-lightgrey)
-  None
-
-- **[humbletreasure/SUB](https://github.com/humbletreasure/SUB)** ⭐ 2
-  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
-  None
-
-- **[nmikyska/nlm-watermark-remover-2](https://github.com/nmikyska/nlm-watermark-remover-2)** ⭐ 2
-  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
-  watermark remover app made with aistudio for png images
-
-- **[Inope83/b_Restaurant](https://github.com/Inope83/b_Restaurant)** ⭐ 2
-  ![CSS](https://img.shields.io/badge/-CSS-lightgrey)
-  None
+- **[A3S-Lab/ClaudePrompts](https://github.com/A3S-Lab/ClaudePrompts)** ⭐ 14
+  ![None](https://img.shields.io/badge/-None-lightgrey)
+  All Claude Code Prompts
 
 ### 📈 Weekly Trending
 
-- **[ultraworkers/claw-code](https://github.com/ultraworkers/claw-code)** ⭐ 121,489
+- **[ultraworkers/claw-code](https://github.com/ultraworkers/claw-code)** ⭐ 132,806
   ![Rust](https://img.shields.io/badge/-Rust-brown)
   The fastest repo in history to surpass 100K stars ⭐. Better Harness Tools that make real things done. Built in Rust using oh-my-codex.
 
-- **[sanbuphy/learn-coding-agent](https://github.com/sanbuphy/learn-coding-agent)** ⭐ 10,551
+- **[sanbuphy/learn-coding-agent](https://github.com/sanbuphy/learn-coding-agent)** ⭐ 10,796
   ![None](https://img.shields.io/badge/-None-lightgrey)
   Research on Coding Agents
 
-- **[openai/codex-plugin-cc](https://github.com/openai/codex-plugin-cc)** ⭐ 8,551
+- **[openai/codex-plugin-cc](https://github.com/openai/codex-plugin-cc)** ⭐ 9,265
   ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
   Use Codex from Claude Code to review code or delegate tasks.
 
-- **[claude-code-best/claude-code](https://github.com/claude-code-best/claude-code)** ⭐ 7,735
+- **[claude-code-best/claude-code](https://github.com/claude-code-best/claude-code)** ⭐ 8,886
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   原汁原昧 Claude Code 可运行,可构建版; Typescript 类型全修复; 企业级可靠性; 安全无毒, lock 文件保真, 可直接 bun i; bun run dev 启动
 
-- **[ChinaSiro/claude-code-sourcemap](https://github.com/ChinaSiro/claude-code-sourcemap)** ⭐ 7,356
+- **[ChinaSiro/claude-code-sourcemap](https://github.com/ChinaSiro/claude-code-sourcemap)** ⭐ 7,673
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   None
 
-- **[Kuberwastaken/claurst](https://github.com/Kuberwastaken/claurst)** ⭐ 6,583
+- **[Kuberwastaken/claurst](https://github.com/Kuberwastaken/claurst)** ⭐ 6,876
   ![Rust](https://img.shields.io/badge/-Rust-brown)
   Your favorite Terminal Coding Agent, now in Rust & a Breakdown of the Claude Code leak & discoveries
 
-- **[titanwings/colleague-skill](https://github.com/titanwings/colleague-skill)** ⭐ 4,640
+- **[titanwings/colleague-skill](https://github.com/titanwings/colleague-skill)** ⭐ 4,959
   ![Python](https://img.shields.io/badge/-Python-blue)
   将冰冷的离别化为温暖的 Skill，欢迎加入数字生命1.0！Transforming cold farewells into warm skills? It's giving rebirth era. Welcome to Digital Life 1.0. 🫶
 
-- **[Gitlawb/openclaude](https://github.com/Gitlawb/openclaude)** ⭐ 3,569
+- **[Gitlawb/openclaude](https://github.com/Gitlawb/openclaude)** ⭐ 4,617
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   Claude Code opened to any LLM — OpenAI, Gemini, DeepSeek, Ollama, and 200+ models via OpenAI-compatible API shim
 
 ### 📈 Monthly Trending
 
-- **[ultraworkers/claw-code](https://github.com/ultraworkers/claw-code)** ⭐ 121,491
+- **[ultraworkers/claw-code](https://github.com/ultraworkers/claw-code)** ⭐ 132,806
   ![Rust](https://img.shields.io/badge/-Rust-brown)
   The fastest repo in history to surpass 100K stars ⭐. Better Harness Tools that make real things done. Built in Rust using oh-my-codex.
 
-- **[karpathy/autoresearch](https://github.com/karpathy/autoresearch)** ⭐ 63,490
+- **[karpathy/autoresearch](https://github.com/karpathy/autoresearch)** ⭐ 63,705
   ![Python](https://img.shields.io/badge/-Python-blue)
   AI agents running research on single-GPU nanochat training automatically
 
-- **[garrytan/gstack](https://github.com/garrytan/gstack)** ⭐ 60,892
+- **[garrytan/gstack](https://github.com/garrytan/gstack)** ⭐ 61,266
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve as CEO, Designer, Eng Manager, Release Manager, Doc Engineer, and QA
 
-- **[chenglou/pretext](https://github.com/chenglou/pretext)** ⭐ 30,883
+- **[chenglou/pretext](https://github.com/chenglou/pretext)** ⭐ 31,475
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   None
 
-- **[HKUDS/CLI-Anything](https://github.com/HKUDS/CLI-Anything)** ⭐ 26,237
+- **[HKUDS/CLI-Anything](https://github.com/HKUDS/CLI-Anything)** ⭐ 26,628
   ![Python](https://img.shields.io/badge/-Python-blue)
   CLI-Anything: Making ALL Software Agent-Native
 
-- **[NVIDIA/NemoClaw](https://github.com/NVIDIA/NemoClaw)** ⭐ 18,107
+- **[NVIDIA/NemoClaw](https://github.com/NVIDIA/NemoClaw)** ⭐ 18,125
   ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
   Run OpenClaw more securely inside NVIDIA OpenShell with managed inference
 
-- **[tanweai/pua](https://github.com/tanweai/pua)** ⭐ 14,436
+- **[tanweai/pua](https://github.com/tanweai/pua)** ⭐ 14,535
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   你是一个曾经被寄予厚望的 P8 级工程师。Anthropic 当初给你定级的时候，对你的期望是很高的。  一个agent使用的高能动性的skill。  Your AI has been placed on a PIP. 30 days to show improvement.
 
-- **[THU-MAIC/OpenMAIC](https://github.com/THU-MAIC/OpenMAIC)** ⭐ 13,604
+- **[THU-MAIC/OpenMAIC](https://github.com/THU-MAIC/OpenMAIC)** ⭐ 13,641
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   Open Multi-Agent Interactive Classroom — Get an immersive, multi-agent learning experience in just one click
 
@@ -484,10 +484,10 @@ consolidated into a single option `MockModuleOpti...
 
 | Skill | Status |
 |-------|--------|
-| Java | 🟡 Learning |
-| Python | ⚪ Planned |
-| JavaScript | 🔴 Beginner |
-| TypeScript | 🔴 Beginner |
+| Java | ⚪ Planned |
+| Python | 🟢 Proficient |
+| JavaScript | 🟢 Proficient |
+| TypeScript | 🟡 Learning |
 | Go | 🟡 Learning |
 
 ### Frameworks
@@ -495,48 +495,48 @@ consolidated into a single option `MockModuleOpti...
 | Skill | Status |
 |-------|--------|
 | React | ⚪ Planned |
-| Spring Boot | 🟡 Learning |
+| Spring Boot | ⚪ Planned |
 | Django | 🟡 Learning |
-| Node.js | ⚪ Planned |
+| Node.js | 🟢 Proficient |
 | Next.js | 🟢 Proficient |
 
 ### Cybersecurity
 
 | Skill | Status |
 |-------|--------|
-| Penetration Testing | ⚪ Planned |
+| Penetration Testing | 🟢 Proficient |
 | Web Security | ⚪ Planned |
-| Network Security | 🟡 Learning |
-| OWASP | ⚪ Planned |
+| Network Security | ⚪ Planned |
+| OWASP | 🟢 Proficient |
 
 ### Ai Ml
 
 | Skill | Status |
 |-------|--------|
 | Machine Learning | ⚪ Planned |
-| Deep Learning | 🔴 Beginner |
-| NLP | 🔴 Beginner |
-| Computer Vision | 🟡 Learning |
-| TensorFlow | 🟡 Learning |
-| PyTorch | ⚪ Planned |
+| Deep Learning | 🟢 Proficient |
+| NLP | 🟢 Proficient |
+| Computer Vision | 🟢 Proficient |
+| TensorFlow | 🔴 Beginner |
+| PyTorch | 🔴 Beginner |
 
 ### Devops
 
 | Skill | Status |
 |-------|--------|
 | Docker | 🟡 Learning |
-| Kubernetes | 🔴 Beginner |
-| CI/CD | 🔴 Beginner |
-| AWS | 🟢 Proficient |
-| Azure | 🔴 Beginner |
+| Kubernetes | 🟡 Learning |
+| CI/CD | 🟢 Proficient |
+| AWS | 🔴 Beginner |
+| Azure | ⚪ Planned |
 
 ### Other
 
 | Skill | Status |
 |-------|--------|
-| Blockchain | 🔴 Beginner |
+| Blockchain | ⚪ Planned |
 | Web3 | ⚪ Planned |
-| Cloud Computing | 🟢 Proficient |
+| Cloud Computing | ⚪ Planned |
 
 </details>
 
