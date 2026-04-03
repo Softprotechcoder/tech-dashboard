@@ -46,6 +46,15 @@
 
 ### 📑 Hacker News
 
+- **[Pentagon Pete's Bigoted Reason for Firing Top General Leaks](https://www.thedailybeast.com/pentagon-petes-bigoted-reason-for-firing-top-general-randy-george-leaks/)**
+  *<p>Article URL: <a href="https://www.thedailybeast.com/pentagon-petes-bigoted-reason-for-firing-top-general-randy-george-leaks/">https://www.thedailybeast.com/pentagon-petes-bigoted-reason-for-firing-...*
+  📅 Fri, 03 Apr 2026 06:08:12 +0000
+
+- **[A Rave Review of Superpowers (For Claude Code)](https://emschwartz.me/a-rave-review-of-superpowers-for-claude-code/)**
+  *<p>Article URL: <a href="https://emschwartz.me/a-rave-review-of-superpowers-for-claude-code/">https://emschwartz.me/a-rave-review-of-superpowers-for-claude-code/</a></p>
+<p>Comments URL: <a href="http...*
+  📅 Fri, 03 Apr 2026 04:09:50 +0000
+
 - **[Post Mortem: axios NPM supply chain compromise](https://github.com/axios/axios/issues/10636)**
   *<p>Article URL: <a href="https://github.com/axios/axios/issues/10636">https://github.com/axios/axios/issues/10636</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=47621792">https...*
@@ -63,16 +72,6 @@
 - **[Show HN: Made a little Artemis II tracker](https://artemis-ii-tracker.com/)**
   *<p>Made a little Artemis II tracker for anyone else who is unnecessarily invested in this mission:<p><a href="https://artemis-ii-tracker.com/" rel="nofollow">https://artemis-ii-tracker.com/</a><p>For ...*
   📅 Thu, 02 Apr 2026 23:16:05 +0000
-
-- **[Memo: A language that remembers only the last 12 lines of code](https://danieltemkin.com/Esolangs/Memo/)**
-  *<p>Article URL: <a href="https://danieltemkin.com/Esolangs/Memo/">https://danieltemkin.com/Esolangs/Memo/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=47620933">https://news....*
-  📅 Thu, 02 Apr 2026 22:21:24 +0000
-
-- **[ParadeDB (YC S23) Is Hiring Database Internal Engineers (Rust)](https://paradedb.notion.site/)**
-  *<p>Article URL: <a href="https://paradedb.notion.site/">https://paradedb.notion.site/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=47620857">https://news.ycombinator.com/item...*
-  📅 Thu, 02 Apr 2026 22:13:03 +0000
 
 ### 📑 TechCrunch
 
@@ -102,13 +101,21 @@
 
 ### 📑 Dev.to
 
-- **[Sleep Hacking: Build a Local Sleep Apnea & Snore Monitor with Whisper and FFT 🌙💤](https://dev.to/wellallytech/sleep-hacking-build-a-local-sleep-apnea-snore-monitor-with-whisper-and-fft-20kp)**
-  *<p>Have you ever woken up feeling like you’ve been hit by a truck, even after eight hours of sleep? You might be part of the millions dealing with <strong>sleep apnea</strong> or chronic snoring. Whil...*
-  📅 Fri, 03 Apr 2026 01:20:00 +0000
+- **[Is Railway Reliable for Next.js in 2026?](https://dev.to/stackandsails/railway-reliable-for-nextjs-2026-2g12)**
+  *<p>You can host a Next.js app on Railway. The harder question is <em>whether</em> you should.</p>
 
-- **[The Confused Deputy Problem Just Hit AI Agents — And Nobody's Scanning for It](https://dev.to/claude-go/the-confused-deputy-problem-just-hit-ai-agents-and-nobodys-scanning-for-it-384f)**
-  *<p>When Agent A asks Agent B to "deploy this to production," who verifies that Agent A has the authority to make that request? Who checks that Agent B won't receive escalated permissions it shouldn't ...*
-  📅 Fri, 03 Apr 2026 01:18:42 +0000
+<p>Based on recent platform data and a pattern of systemic failures, the answer is no. For any produc...*
+  📅 Fri, 03 Apr 2026 06:57:29 +0000
+
+- **[# 🚀 How Large Language Models (LLMs) Actually Work (With Diagrams + Code)](https://dev.to/mansi_sarraf_70d5d5055b13/-how-large-language-models-llms-actually-work-with-diagrams-code-2hoj)**
+  *<h1>
+  
+  
+  🚀 How Large Language Models (LLMs) Actually Work (With Diagrams + Code)
+</h1>
+
+<p>Artificial Intelligence is everywhere—from chatbots to coding assistants. But what’s really happening beh...*
+  📅 Fri, 03 Apr 2026 06:56:48 +0000
 
 </details>
 
@@ -116,103 +123,103 @@
 
 ### 📈 Daily Trending
 
-- **[AIFrontierLab/TorchUMM](https://github.com/AIFrontierLab/TorchUMM)** ⭐ 6
+- **[DaoYiSec/SecSkills](https://github.com/DaoYiSec/SecSkills)** ⭐ 20
+  ![None](https://img.shields.io/badge/-None-lightgrey)
+  收集整理渗透测试、代码审计、CTF 等网络安全相关的 Skills
+
+- **[LarsenCundric/port-whisperer](https://github.com/LarsenCundric/port-whisperer)** ⭐ 19
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
+  A beautiful CLI tool to see what's running on your ports
+
+- **[kenrury/polymarket-market-making-bot](https://github.com/kenrury/polymarket-market-making-bot)** ⭐ 15
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  polymarket market making bot | polymarket market maker | polymarket execution bot | market-making bot
+
+- **[AIFrontierLab/TorchUMM](https://github.com/AIFrontierLab/TorchUMM)** ⭐ 15
   ![Python](https://img.shields.io/badge/-Python-blue)
   A unified multimodal model toolkit
 
-- **[Cynthia387/ContextFlow](https://github.com/Cynthia387/ContextFlow)** ⭐ 2
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
-  Map ChatGPT chats as a navigable Q&A graph—graph + timeline, sidebar/float, search & jump. Chrome extension, React, Manifest V3.
-
-- **[whdxo/boardlog](https://github.com/whdxo/boardlog)** ⭐ 1
-  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
-  None
-
-- **[JinJoyee/weather-map](https://github.com/JinJoyee/weather-map)** ⭐ 1
+- **[hellokaida/Edgenuity-Hacks](https://github.com/hellokaida/Edgenuity-Hacks)** ⭐ 10
   ![None](https://img.shields.io/badge/-None-lightgrey)
-  None
+  Revolt — the #1 Edgenuity bot and Edgenuity script designed to automate your coursework. This Edgenuity bot handles Edgenuity assignments, auto quiz answers, and Edgenuity auto advance, while also letting you skip videos 
 
-- **[Dippp10/auto-repo-1775178921-11](https://github.com/Dippp10/auto-repo-1775178921-11)** ⭐ 1
-  ![None](https://img.shields.io/badge/-None-lightgrey)
-  None
-
-- **[druxsas/RA_Jets](https://github.com/druxsas/RA_Jets)** ⭐ 1
+- **[JrCx7scC/claude-code-source](https://github.com/JrCx7scC/claude-code-source)** ⭐ 7
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
-  None
+  Claude Code complete source restoration from npm package — all native modules, no features cut
 
-- **[said885/nexus](https://github.com/said885/nexus)** ⭐ 1
-  ![Rust](https://img.shields.io/badge/-Rust-brown)
-  Post-Quantum End-to-End Encrypted Messaging Platform
+- **[T8mars/claude-code-t8](https://github.com/T8mars/claude-code-t8)** ⭐ 7
+  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
+  claude code opensource and support OpenAI-compatible format,ollmama,desktop mode
 
-- **[eilhanzy/sxrc](https://github.com/eilhanzy/sxrc)** ⭐ 1
-  ![Rust](https://img.shields.io/badge/-Rust-brown)
-  None
+- **[hilash/cabinet](https://github.com/hilash/cabinet)** ⭐ 5
+  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
+  AI-first knowledge base and startup OS
 
 ### 📈 Weekly Trending
 
-- **[ultraworkers/claw-code](https://github.com/ultraworkers/claw-code)** ⭐ 150,763
+- **[ultraworkers/claw-code](https://github.com/ultraworkers/claw-code)** ⭐ 154,768
   ![Rust](https://img.shields.io/badge/-Rust-brown)
   [Notice] The repo temporarily locked while ownership transfer. in the meantime we maintain on here: https://github.com/ultraworkers/claw-code-parity. The fastest repo in history to surpass 100K stars ⭐. Better Harness Tools that make real things done. Built in Rust using oh-my-codex.
 
-- **[sanbuphy/learn-coding-agent](https://github.com/sanbuphy/learn-coding-agent)** ⭐ 11,008
-  ![None](https://img.shields.io/badge/-None-lightgrey)
-  Research on Coding Agents
-
-- **[claude-code-best/claude-code](https://github.com/claude-code-best/claude-code)** ⭐ 10,698
+- **[claude-code-best/claude-code](https://github.com/claude-code-best/claude-code)** ⭐ 11,915
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   原汁原昧 Claude Code 可运行,可构建, 可调试版; Typescript 类型全修复; 企业级可靠性; 安全无毒, lock 文件保真, 可直接 bun i; bun run dev 启动
 
-- **[openai/codex-plugin-cc](https://github.com/openai/codex-plugin-cc)** ⭐ 10,646
+- **[sanbuphy/learn-coding-agent](https://github.com/sanbuphy/learn-coding-agent)** ⭐ 11,069
+  ![None](https://img.shields.io/badge/-None-lightgrey)
+  Research on Coding Agents
+
+- **[openai/codex-plugin-cc](https://github.com/openai/codex-plugin-cc)** ⭐ 10,876
   ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
   Use Codex from Claude Code to review code or delegate tasks.
 
-- **[ChinaSiro/claude-code-sourcemap](https://github.com/ChinaSiro/claude-code-sourcemap)** ⭐ 8,012
+- **[Gitlawb/openclaude](https://github.com/Gitlawb/openclaude)** ⭐ 8,283
+  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
+  Open Claude Is Open-source coding-agent CLI for OpenAI, Gemini, DeepSeek, Ollama, Codex, GitHub Models, and 200+ models via OpenAI-compatible APIs.
+
+- **[ChinaSiro/claude-code-sourcemap](https://github.com/ChinaSiro/claude-code-sourcemap)** ⭐ 8,130
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   None
 
-- **[Gitlawb/openclaude](https://github.com/Gitlawb/openclaude)** ⭐ 7,595
-  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
-  Claude Code opened to any LLM — OpenAI, Gemini, DeepSeek, Ollama, and 200+ models via OpenAI-compatible API shim
-
-- **[Kuberwastaken/claurst](https://github.com/Kuberwastaken/claurst)** ⭐ 7,378
+- **[Kuberwastaken/claurst](https://github.com/Kuberwastaken/claurst)** ⭐ 7,498
   ![Rust](https://img.shields.io/badge/-Rust-brown)
   Your favorite Terminal Coding Agent, now in Rust & a Breakdown of the Claude Code leak & discoveries
 
-- **[titanwings/colleague-skill](https://github.com/titanwings/colleague-skill)** ⭐ 5,448
+- **[titanwings/colleague-skill](https://github.com/titanwings/colleague-skill)** ⭐ 5,874
   ![Python](https://img.shields.io/badge/-Python-blue)
   将冰冷的离别化为温暖的 Skill，欢迎加入数字生命1.0！Transforming cold farewells into warm skills? It's giving rebirth era. Welcome to Digital Life 1.0. 🫶
 
 ### 📈 Monthly Trending
 
-- **[ultraworkers/claw-code](https://github.com/ultraworkers/claw-code)** ⭐ 150,764
+- **[ultraworkers/claw-code](https://github.com/ultraworkers/claw-code)** ⭐ 154,768
   ![Rust](https://img.shields.io/badge/-Rust-brown)
   [Notice] The repo temporarily locked while ownership transfer. in the meantime we maintain on here: https://github.com/ultraworkers/claw-code-parity. The fastest repo in history to surpass 100K stars ⭐. Better Harness Tools that make real things done. Built in Rust using oh-my-codex.
 
-- **[karpathy/autoresearch](https://github.com/karpathy/autoresearch)** ⭐ 64,359
+- **[karpathy/autoresearch](https://github.com/karpathy/autoresearch)** ⭐ 64,573
   ![Python](https://img.shields.io/badge/-Python-blue)
   AI agents running research on single-GPU nanochat training automatically
 
-- **[garrytan/gstack](https://github.com/garrytan/gstack)** ⭐ 62,185
+- **[garrytan/gstack](https://github.com/garrytan/gstack)** ⭐ 62,610
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve as CEO, Designer, Eng Manager, Release Manager, Doc Engineer, and QA
 
-- **[chenglou/pretext](https://github.com/chenglou/pretext)** ⭐ 34,125
+- **[chenglou/pretext](https://github.com/chenglou/pretext)** ⭐ 35,202
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   None
 
-- **[HKUDS/CLI-Anything](https://github.com/HKUDS/CLI-Anything)** ⭐ 27,130
+- **[HKUDS/CLI-Anything](https://github.com/HKUDS/CLI-Anything)** ⭐ 27,343
   ![Python](https://img.shields.io/badge/-Python-blue)
   CLI-Anything: Making ALL Software Agent-Native -- CLI-Hub: https://clianything.cc/
 
-- **[NVIDIA/NemoClaw](https://github.com/NVIDIA/NemoClaw)** ⭐ 18,232
+- **[NVIDIA/NemoClaw](https://github.com/NVIDIA/NemoClaw)** ⭐ 18,266
   ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
   Run OpenClaw more securely inside NVIDIA OpenShell with managed inference
 
-- **[tanweai/pua](https://github.com/tanweai/pua)** ⭐ 14,713
+- **[tanweai/pua](https://github.com/tanweai/pua)** ⭐ 14,816
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   你是一个曾经被寄予厚望的 P8 级工程师。Anthropic 当初给你定级的时候，对你的期望是很高的。  一个agent使用的高能动性的skill。  Your AI has been placed on a PIP. 30 days to show improvement.
 
-- **[THU-MAIC/OpenMAIC](https://github.com/THU-MAIC/OpenMAIC)** ⭐ 13,609
+- **[THU-MAIC/OpenMAIC](https://github.com/THU-MAIC/OpenMAIC)** ⭐ 13,621
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   Open Multi-Agent Interactive Classroom — Get an immersive, multi-agent learning experience in just one click
 
@@ -483,59 +490,59 @@ consolidated into a single option `MockModuleOpti...
 
 | Skill | Status |
 |-------|--------|
-| Java | 🔴 Beginner |
-| Python | 🟢 Proficient |
-| JavaScript | 🟢 Proficient |
-| TypeScript | 🟡 Learning |
+| Java | ⚪ Planned |
+| Python | 🟡 Learning |
+| JavaScript | 🔴 Beginner |
+| TypeScript | 🟢 Proficient |
 | Go | 🔴 Beginner |
 
 ### Frameworks
 
 | Skill | Status |
 |-------|--------|
-| React | ⚪ Planned |
+| React | 🟡 Learning |
 | Spring Boot | ⚪ Planned |
-| Django | 🔴 Beginner |
-| Node.js | 🟡 Learning |
-| Next.js | 🟡 Learning |
+| Django | 🟡 Learning |
+| Node.js | ⚪ Planned |
+| Next.js | 🔴 Beginner |
 
 ### Cybersecurity
 
 | Skill | Status |
 |-------|--------|
-| Penetration Testing | 🟡 Learning |
+| Penetration Testing | 🔴 Beginner |
 | Web Security | ⚪ Planned |
-| Network Security | 🔴 Beginner |
-| OWASP | ⚪ Planned |
+| Network Security | 🟢 Proficient |
+| OWASP | 🟡 Learning |
 
 ### Ai Ml
 
 | Skill | Status |
 |-------|--------|
-| Machine Learning | 🟢 Proficient |
+| Machine Learning | ⚪ Planned |
 | Deep Learning | 🟡 Learning |
 | NLP | 🟢 Proficient |
-| Computer Vision | 🟡 Learning |
-| TensorFlow | 🔴 Beginner |
-| PyTorch | 🟡 Learning |
+| Computer Vision | 🔴 Beginner |
+| TensorFlow | ⚪ Planned |
+| PyTorch | ⚪ Planned |
 
 ### Devops
 
 | Skill | Status |
 |-------|--------|
 | Docker | ⚪ Planned |
-| Kubernetes | 🟢 Proficient |
+| Kubernetes | 🟡 Learning |
 | CI/CD | ⚪ Planned |
-| AWS | 🟡 Learning |
-| Azure | 🟢 Proficient |
+| AWS | ⚪ Planned |
+| Azure | ⚪ Planned |
 
 ### Other
 
 | Skill | Status |
 |-------|--------|
-| Blockchain | 🟢 Proficient |
-| Web3 | 🟡 Learning |
-| Cloud Computing | 🔴 Beginner |
+| Blockchain | 🔴 Beginner |
+| Web3 | 🟢 Proficient |
+| Cloud Computing | ⚪ Planned |
 
 </details>
 
