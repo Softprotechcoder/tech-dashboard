@@ -46,32 +46,33 @@
 
 ### 📑 Hacker News
 
-- **[Pentagon Pete's Bigoted Reason for Firing Top General Leaks](https://www.thedailybeast.com/pentagon-petes-bigoted-reason-for-firing-top-general-randy-george-leaks/)**
-  *<p>Article URL: <a href="https://www.thedailybeast.com/pentagon-petes-bigoted-reason-for-firing-top-general-randy-george-leaks/">https://www.thedailybeast.com/pentagon-petes-bigoted-reason-for-firing-...*
-  📅 Fri, 03 Apr 2026 06:08:12 +0000
+- **[H.264 Streaming Fees: What Changed, Who's Affected, and What It Means](https://www.streamingmedia.com/Articles/ReadArticle.aspx?ArticleID=173935)**
+  *<p>Article URL: <a href="https://www.streamingmedia.com/Articles/ReadArticle.aspx?ArticleID=173935">https://www.streamingmedia.com/Articles/ReadArticle.aspx?ArticleID=173935</a></p>
+<p>Comments URL: <...*
+  📅 Fri, 03 Apr 2026 11:20:28 +0000
 
-- **[A Rave Review of Superpowers (For Claude Code)](https://emschwartz.me/a-rave-review-of-superpowers-for-claude-code/)**
-  *<p>Article URL: <a href="https://emschwartz.me/a-rave-review-of-superpowers-for-claude-code/">https://emschwartz.me/a-rave-review-of-superpowers-for-claude-code/</a></p>
-<p>Comments URL: <a href="http...*
-  📅 Fri, 03 Apr 2026 04:09:50 +0000
+- **[Bun: cgroup-aware AvailableParallelism / HardwareConcurrency on Linux](https://github.com/oven-sh/bun/pull/28801)**
+  *<p>Article URL: <a href="https://github.com/oven-sh/bun/pull/28801">https://github.com/oven-sh/bun/pull/28801</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=47625311">https://n...*
+  📅 Fri, 03 Apr 2026 11:09:58 +0000
 
-- **[Post Mortem: axios NPM supply chain compromise](https://github.com/axios/axios/issues/10636)**
-  *<p>Article URL: <a href="https://github.com/axios/axios/issues/10636">https://github.com/axios/axios/issues/10636</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=47621792">https...*
-  📅 Fri, 03 Apr 2026 00:00:19 +0000
+- **['Fatal decision': EU slammed for caving to US pressure on digital rules](https://www.politico.eu/article/fatal-decision-eu-slammed-for-caving-to-us-pressure-on-digital-rules/)**
+  *<p>Article URL: <a href="https://www.politico.eu/article/fatal-decision-eu-slammed-for-caving-to-us-pressure-on-digital-rules/">https://www.politico.eu/article/fatal-decision-eu-slammed-for-caving-to-...*
+  📅 Fri, 03 Apr 2026 10:58:51 +0000
 
-- **[Tor Alva: The Tallest 3D-Printed Building in the World](https://cacm.acm.org/blogcacm/tor-alva-the-tallest-3d-printed-building-in-the-world/)**
-  *<p>Article URL: <a href="https://cacm.acm.org/blogcacm/tor-alva-the-tallest-3d-printed-building-in-the-world/">https://cacm.acm.org/blogcacm/tor-alva-the-tallest-3d-printed-building-in-the-world/</a><...*
-  📅 Thu, 02 Apr 2026 23:26:01 +0000
+- **[RiskReady-open-source GRC platform with MCP gateway and human-approved mutations](https://github.com/riskreadyeu/riskready-community)**
+  *<p>Article URL: <a href="https://github.com/riskreadyeu/riskready-community">https://github.com/riskreadyeu/riskready-community</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=4...*
+  📅 Fri, 03 Apr 2026 10:40:25 +0000
 
-- **[A Few Good Magazines From the 70s and 80s](https://www.bi6.us/CO/MG.HTML)**
-  *<p>Article URL: <a href="https://www.bi6.us/CO/MG.HTML">https://www.bi6.us/CO/MG.HTML</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=47621448">https://news.ycombinator.com/item...*
-  📅 Thu, 02 Apr 2026 23:17:26 +0000
+- **[Switzerland hosts 'CERN of semiconductor research'](https://www.swissinfo.ch/eng/swiss-ai/switzerland-hosts-cern-of-semiconductor-research/91015332)**
+  *<p>Article URL: <a href="https://www.swissinfo.ch/eng/swiss-ai/switzerland-hosts-cern-of-semiconductor-research/91015332">https://www.swissinfo.ch/eng/swiss-ai/switzerland-hosts-cern-of-semiconductor-...*
+  📅 Fri, 03 Apr 2026 10:01:50 +0000
 
-- **[Show HN: Made a little Artemis II tracker](https://artemis-ii-tracker.com/)**
-  *<p>Made a little Artemis II tracker for anyone else who is unnecessarily invested in this mission:<p><a href="https://artemis-ii-tracker.com/" rel="nofollow">https://artemis-ii-tracker.com/</a><p>For ...*
-  📅 Thu, 02 Apr 2026 23:16:05 +0000
+- **[Show HN: European alternatives to Google, Apple, Dropbox and 120 US apps](https://only-eu.eu/en/)**
+  *<p>Article URL: <a href="https://only-eu.eu/en/">https://only-eu.eu/en/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=47624741">https://news.ycombinator.com/item?id=47624741</...*
+  📅 Fri, 03 Apr 2026 09:37:24 +0000
 
 ### 📑 TechCrunch
 
@@ -101,21 +102,23 @@
 
 ### 📑 Dev.to
 
-- **[Is Railway Reliable for Next.js in 2026?](https://dev.to/stackandsails/railway-reliable-for-nextjs-2026-2g12)**
-  *<p>You can host a Next.js app on Railway. The harder question is <em>whether</em> you should.</p>
-
-<p>Based on recent platform data and a pattern of systemic failures, the answer is no. For any produc...*
-  📅 Fri, 03 Apr 2026 06:57:29 +0000
-
-- **[# 🚀 How Large Language Models (LLMs) Actually Work (With Diagrams + Code)](https://dev.to/mansi_sarraf_70d5d5055b13/-how-large-language-models-llms-actually-work-with-diagrams-code-2hoj)**
-  *<h1>
+- **[Database Performance Issues in Production: Identifying and Resolving Masked Problems from Small-Scale Testing](https://dev.to/denlava/database-performance-issues-in-production-identifying-and-resolving-masked-problems-from-4981)**
+  *<h2>
   
   
-  🚀 How Large Language Models (LLMs) Actually Work (With Diagrams + Code)
-</h1>
+  Introduction: The Hidden Pitfalls of Database Performance
+</h2>
 
-<p>Artificial Intelligence is everywhere—from chatbots to coding assistants. But what’s really happening beh...*
-  📅 Fri, 03 Apr 2026 06:56:48 +0000
+<p>Imagine a query that zips through your test environment, returning results in milliseconds. You deploy it to production...*
+  📅 Fri, 03 Apr 2026 12:30:30 +0000
+
+- **[Days Since Last Credential Leak: 0](https://dev.to/mahou_anisphia/days-since-last-credential-leak-0-4oh7)**
+  *<p>I run a homelab. I name my servers after astronomical phenomena. It runs beautifully for 2 years. </p>
+
+<p>But at the same time, I committed my Authelia user database to git.</p>
+
+<p>Not to a priva...*
+  📅 Fri, 03 Apr 2026 12:28:29 +0000
 
 </details>
 
@@ -123,103 +126,103 @@
 
 ### 📈 Daily Trending
 
-- **[DaoYiSec/SecSkills](https://github.com/DaoYiSec/SecSkills)** ⭐ 20
-  ![None](https://img.shields.io/badge/-None-lightgrey)
-  收集整理渗透测试、代码审计、CTF 等网络安全相关的 Skills
-
-- **[LarsenCundric/port-whisperer](https://github.com/LarsenCundric/port-whisperer)** ⭐ 19
+- **[LarsenCundric/port-whisperer](https://github.com/LarsenCundric/port-whisperer)** ⭐ 139
   ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
   A beautiful CLI tool to see what's running on your ports
 
-- **[kenrury/polymarket-market-making-bot](https://github.com/kenrury/polymarket-market-making-bot)** ⭐ 15
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  polymarket market making bot | polymarket market maker | polymarket execution bot | market-making bot
-
-- **[AIFrontierLab/TorchUMM](https://github.com/AIFrontierLab/TorchUMM)** ⭐ 15
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  A unified multimodal model toolkit
-
-- **[hellokaida/Edgenuity-Hacks](https://github.com/hellokaida/Edgenuity-Hacks)** ⭐ 10
-  ![None](https://img.shields.io/badge/-None-lightgrey)
-  Revolt — the #1 Edgenuity bot and Edgenuity script designed to automate your coursework. This Edgenuity bot handles Edgenuity assignments, auto quiz answers, and Edgenuity auto advance, while also letting you skip videos 
-
-- **[JrCx7scC/claude-code-source](https://github.com/JrCx7scC/claude-code-source)** ⭐ 7
+- **[JrCx7scC/claude-code-source](https://github.com/JrCx7scC/claude-code-source)** ⭐ 53
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   Claude Code complete source restoration from npm package — all native modules, no features cut
 
-- **[T8mars/claude-code-t8](https://github.com/T8mars/claude-code-t8)** ⭐ 7
+- **[DaoYiSec/SecSkills](https://github.com/DaoYiSec/SecSkills)** ⭐ 28
+  ![None](https://img.shields.io/badge/-None-lightgrey)
+  收集整理渗透测试、代码审计、CTF 等网络安全相关的 Skills
+
+- **[kenrury/polymarket-market-making-bot](https://github.com/kenrury/polymarket-market-making-bot)** ⭐ 26
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  polymarket market making bot | polymarket market maker | polymarket execution bot | market-making bot
+
+- **[Wechat-ggGitHub/claude-code-deep-dive](https://github.com/Wechat-ggGitHub/claude-code-deep-dive)** ⭐ 23
+  ![None](https://img.shields.io/badge/-None-lightgrey)
+  Claude Code 源码深度解读 - 27篇全流程剖析
+
+- **[T8mars/claude-code-t8](https://github.com/T8mars/claude-code-t8)** ⭐ 19
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   claude code opensource and support OpenAI-compatible format,ollmama,desktop mode
 
-- **[hilash/cabinet](https://github.com/hilash/cabinet)** ⭐ 5
+- **[AIFrontierLab/TorchUMM](https://github.com/AIFrontierLab/TorchUMM)** ⭐ 19
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  A unified multimodal model toolkit
+
+- **[hilash/cabinet](https://github.com/hilash/cabinet)** ⭐ 18
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   AI-first knowledge base and startup OS
 
 ### 📈 Weekly Trending
 
-- **[ultraworkers/claw-code](https://github.com/ultraworkers/claw-code)** ⭐ 154,768
+- **[ultraworkers/claw-code](https://github.com/ultraworkers/claw-code)** ⭐ 158,163
   ![Rust](https://img.shields.io/badge/-Rust-brown)
   [Notice] The repo temporarily locked while ownership transfer. in the meantime we maintain on here: https://github.com/ultraworkers/claw-code-parity. The fastest repo in history to surpass 100K stars ⭐. Better Harness Tools that make real things done. Built in Rust using oh-my-codex.
 
-- **[claude-code-best/claude-code](https://github.com/claude-code-best/claude-code)** ⭐ 11,915
+- **[claude-code-best/claude-code](https://github.com/claude-code-best/claude-code)** ⭐ 12,748
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   原汁原昧 Claude Code 可运行,可构建, 可调试版; Typescript 类型全修复; 企业级可靠性; 安全无毒, lock 文件保真, 可直接 bun i; bun run dev 启动
 
-- **[sanbuphy/learn-coding-agent](https://github.com/sanbuphy/learn-coding-agent)** ⭐ 11,069
+- **[sanbuphy/learn-coding-agent](https://github.com/sanbuphy/learn-coding-agent)** ⭐ 11,124
   ![None](https://img.shields.io/badge/-None-lightgrey)
   Research on Coding Agents
 
-- **[openai/codex-plugin-cc](https://github.com/openai/codex-plugin-cc)** ⭐ 10,876
+- **[openai/codex-plugin-cc](https://github.com/openai/codex-plugin-cc)** ⭐ 11,063
   ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
   Use Codex from Claude Code to review code or delegate tasks.
 
-- **[Gitlawb/openclaude](https://github.com/Gitlawb/openclaude)** ⭐ 8,283
+- **[Gitlawb/openclaude](https://github.com/Gitlawb/openclaude)** ⭐ 9,116
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   Open Claude Is Open-source coding-agent CLI for OpenAI, Gemini, DeepSeek, Ollama, Codex, GitHub Models, and 200+ models via OpenAI-compatible APIs.
 
-- **[ChinaSiro/claude-code-sourcemap](https://github.com/ChinaSiro/claude-code-sourcemap)** ⭐ 8,130
+- **[ChinaSiro/claude-code-sourcemap](https://github.com/ChinaSiro/claude-code-sourcemap)** ⭐ 8,210
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   None
 
-- **[Kuberwastaken/claurst](https://github.com/Kuberwastaken/claurst)** ⭐ 7,498
+- **[Kuberwastaken/claurst](https://github.com/Kuberwastaken/claurst)** ⭐ 7,597
   ![Rust](https://img.shields.io/badge/-Rust-brown)
   Your favorite Terminal Coding Agent, now in Rust & a Breakdown of the Claude Code leak & discoveries
 
-- **[titanwings/colleague-skill](https://github.com/titanwings/colleague-skill)** ⭐ 5,874
+- **[titanwings/colleague-skill](https://github.com/titanwings/colleague-skill)** ⭐ 6,299
   ![Python](https://img.shields.io/badge/-Python-blue)
   将冰冷的离别化为温暖的 Skill，欢迎加入数字生命1.0！Transforming cold farewells into warm skills? It's giving rebirth era. Welcome to Digital Life 1.0. 🫶
 
 ### 📈 Monthly Trending
 
-- **[ultraworkers/claw-code](https://github.com/ultraworkers/claw-code)** ⭐ 154,768
+- **[ultraworkers/claw-code](https://github.com/ultraworkers/claw-code)** ⭐ 158,164
   ![Rust](https://img.shields.io/badge/-Rust-brown)
   [Notice] The repo temporarily locked while ownership transfer. in the meantime we maintain on here: https://github.com/ultraworkers/claw-code-parity. The fastest repo in history to surpass 100K stars ⭐. Better Harness Tools that make real things done. Built in Rust using oh-my-codex.
 
-- **[karpathy/autoresearch](https://github.com/karpathy/autoresearch)** ⭐ 64,573
+- **[karpathy/autoresearch](https://github.com/karpathy/autoresearch)** ⭐ 64,754
   ![Python](https://img.shields.io/badge/-Python-blue)
   AI agents running research on single-GPU nanochat training automatically
 
-- **[garrytan/gstack](https://github.com/garrytan/gstack)** ⭐ 62,610
+- **[garrytan/gstack](https://github.com/garrytan/gstack)** ⭐ 62,885
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve as CEO, Designer, Eng Manager, Release Manager, Doc Engineer, and QA
 
-- **[chenglou/pretext](https://github.com/chenglou/pretext)** ⭐ 35,202
+- **[chenglou/pretext](https://github.com/chenglou/pretext)** ⭐ 36,221
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   None
 
-- **[HKUDS/CLI-Anything](https://github.com/HKUDS/CLI-Anything)** ⭐ 27,343
+- **[HKUDS/CLI-Anything](https://github.com/HKUDS/CLI-Anything)** ⭐ 27,514
   ![Python](https://img.shields.io/badge/-Python-blue)
   CLI-Anything: Making ALL Software Agent-Native -- CLI-Hub: https://clianything.cc/
 
-- **[NVIDIA/NemoClaw](https://github.com/NVIDIA/NemoClaw)** ⭐ 18,266
+- **[NVIDIA/NemoClaw](https://github.com/NVIDIA/NemoClaw)** ⭐ 18,294
   ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
   Run OpenClaw more securely inside NVIDIA OpenShell with managed inference
 
-- **[tanweai/pua](https://github.com/tanweai/pua)** ⭐ 14,816
+- **[tanweai/pua](https://github.com/tanweai/pua)** ⭐ 14,920
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   你是一个曾经被寄予厚望的 P8 级工程师。Anthropic 当初给你定级的时候，对你的期望是很高的。  一个agent使用的高能动性的skill。  Your AI has been placed on a PIP. 30 days to show improvement.
 
-- **[THU-MAIC/OpenMAIC](https://github.com/THU-MAIC/OpenMAIC)** ⭐ 13,621
+- **[THU-MAIC/OpenMAIC](https://github.com/THU-MAIC/OpenMAIC)** ⭐ 13,666
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   Open Multi-Agent Interactive Classroom — Get an immersive, multi-agent learning experience in just one click
 
@@ -490,48 +493,48 @@ consolidated into a single option `MockModuleOpti...
 
 | Skill | Status |
 |-------|--------|
-| Java | ⚪ Planned |
-| Python | 🟡 Learning |
-| JavaScript | 🔴 Beginner |
-| TypeScript | 🟢 Proficient |
-| Go | 🔴 Beginner |
+| Java | 🟡 Learning |
+| Python | ⚪ Planned |
+| JavaScript | ⚪ Planned |
+| TypeScript | 🔴 Beginner |
+| Go | 🟢 Proficient |
 
 ### Frameworks
 
 | Skill | Status |
 |-------|--------|
-| React | 🟡 Learning |
-| Spring Boot | ⚪ Planned |
-| Django | 🟡 Learning |
-| Node.js | ⚪ Planned |
-| Next.js | 🔴 Beginner |
+| React | 🟢 Proficient |
+| Spring Boot | 🟢 Proficient |
+| Django | 🔴 Beginner |
+| Node.js | 🔴 Beginner |
+| Next.js | 🟢 Proficient |
 
 ### Cybersecurity
 
 | Skill | Status |
 |-------|--------|
-| Penetration Testing | 🔴 Beginner |
+| Penetration Testing | 🟡 Learning |
 | Web Security | ⚪ Planned |
-| Network Security | 🟢 Proficient |
+| Network Security | 🟡 Learning |
 | OWASP | 🟡 Learning |
 
 ### Ai Ml
 
 | Skill | Status |
 |-------|--------|
-| Machine Learning | ⚪ Planned |
-| Deep Learning | 🟡 Learning |
-| NLP | 🟢 Proficient |
-| Computer Vision | 🔴 Beginner |
-| TensorFlow | ⚪ Planned |
+| Machine Learning | 🟡 Learning |
+| Deep Learning | 🔴 Beginner |
+| NLP | 🔴 Beginner |
+| Computer Vision | 🟢 Proficient |
+| TensorFlow | 🟢 Proficient |
 | PyTorch | ⚪ Planned |
 
 ### Devops
 
 | Skill | Status |
 |-------|--------|
-| Docker | ⚪ Planned |
-| Kubernetes | 🟡 Learning |
+| Docker | 🔴 Beginner |
+| Kubernetes | 🟢 Proficient |
 | CI/CD | ⚪ Planned |
 | AWS | ⚪ Planned |
 | Azure | ⚪ Planned |
@@ -540,9 +543,9 @@ consolidated into a single option `MockModuleOpti...
 
 | Skill | Status |
 |-------|--------|
-| Blockchain | 🔴 Beginner |
-| Web3 | 🟢 Proficient |
-| Cloud Computing | ⚪ Planned |
+| Blockchain | 🟡 Learning |
+| Web3 | 🟡 Learning |
+| Cloud Computing | 🔴 Beginner |
 
 </details>
 
