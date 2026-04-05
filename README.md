@@ -7,7 +7,7 @@
 ![AI & ML](https://img.shields.io/badge/-AI%20&%20ML-blue) ![CyberSecurity](https://img.shields.io/badge/-CyberSecurity-red) ![Full Stack Development](https://img.shields.io/badge/-Full%20Stack%20Development-green)
 
 [![Auto Update](https://img.shields.io/badge/Auto%20Update-Enabled-success)](https://github.com/yourusername/tech-dashboard/actions)
-[![Last Updated](https://img.shields.io/badge/Last%20Updated-April 04, 2026-blue)](https://github.com/yourusername/tech-dashboard)
+[![Last Updated](https://img.shields.io/badge/Last%20Updated-April 05, 2026-blue)](https://github.com/yourusername/tech-dashboard)
 
 *Automatically updated every 6 hours with the latest tech news, trending repositories, and learning resources.*
 
@@ -46,32 +46,43 @@
 
 ### 📑 Hacker News
 
-- **[US deploying nearly all stealthy long-range JASSM-ER cruise missiles to Iran war](https://www.msn.com/en-us/money/other/us-deploys-bulk-of-stealthy-long-range-missile-for-iran-war/ar-AA209yKj)**
-  *<p>Article URL: <a href="https://www.msn.com/en-us/money/other/us-deploys-bulk-of-stealthy-long-range-missile-for-iran-war/ar-AA209yKj">https://www.msn.com/en-us/money/other/us-deploys-bulk-of-stealth...*
-  📅 Sat, 04 Apr 2026 18:01:11 +0000
+- **[Evacuation of U.S. troops from Mideast base sends community groups scrambling](https://www.npr.org/2026/04/03/nx-s1-5770491/evacuation-bahrain-norfolk-troops)**
+  *<p>Article URL: <a href="https://www.npr.org/2026/04/03/nx-s1-5770491/evacuation-bahrain-norfolk-troops">https://www.npr.org/2026/04/03/nx-s1-5770491/evacuation-bahrain-norfolk-troops</a></p>
+<p>Comme...*
+  📅 Sun, 05 Apr 2026 00:53:13 +0000
 
-- **[Show HN: Running local OpenClaw together with remote agents in an open network](https://github.com/hybroai/hybro-hub)**
-  *<p>Hi HN — I’m building an interoperability layer for AI agents that lets local and remote agents run inside the same network and coordinate with each other.<p>Here is a demo: <a href="https://youtu.b...*
-  📅 Sat, 04 Apr 2026 17:54:52 +0000
+- **[Shooting down ideas is not a skill](https://scottlawsonbc.com/post/shooting-down-ideas)**
+  *<p>Article URL: <a href="https://scottlawsonbc.com/post/shooting-down-ideas">https://scottlawsonbc.com/post/shooting-down-ideas</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=4...*
+  📅 Sun, 05 Apr 2026 00:42:42 +0000
 
-- **[Scientists capture how cells trigger inflammation](https://news.stanford.edu/stories/2026/03/immune-response-inside-cells-inflammation-research)**
-  *<p>Article URL: <a href="https://news.stanford.edu/stories/2026/03/immune-response-inside-cells-inflammation-research">https://news.stanford.edu/stories/2026/03/immune-response-inside-cells-inflammati...*
-  📅 Sat, 04 Apr 2026 17:52:55 +0000
+- **[AWS Engineer Reports PostgreSQL Perf Halved by Linux 7.0, Fix May Not Be Easy](https://www.phoronix.com/news/Linux-7.0-AWS-PostgreSQL-Drop)**
+  *<p>Article URL: <a href="https://www.phoronix.com/news/Linux-7.0-AWS-PostgreSQL-Drop">https://www.phoronix.com/news/Linux-7.0-AWS-PostgreSQL-Drop</a></p>
+<p>Comments URL: <a href="https://news.ycombin...*
+  📅 Sun, 05 Apr 2026 00:13:55 +0000
 
-- **[Astronomers Find a Third Galaxy Missing Its Dark Matter](https://www.universetoday.com/articles/astronomers-find-a-third-galaxy-missing-its-dark-matter-validating-a-violent-cosmic-collision-theory)**
-  *<p>Article URL: <a href="https://www.universetoday.com/articles/astronomers-find-a-third-galaxy-missing-its-dark-matter-validating-a-violent-cosmic-collision-theory">https://www.universetoday.com/arti...*
-  📅 Sat, 04 Apr 2026 17:13:39 +0000
+- **[Advice to Young People, the Lies I Tell Myself (2024)](https://jxnl.co/writing/2024/06/01/advice-to-young-people/)**
+  *<p>Article URL: <a href="https://jxnl.co/writing/2024/06/01/advice-to-young-people/">https://jxnl.co/writing/2024/06/01/advice-to-young-people/</a></p>
+<p>Comments URL: <a href="https://news.ycombinat...*
+  📅 Sat, 04 Apr 2026 23:18:54 +0000
 
-- **[Iran's Network of Cameras Bolsters Air Defenses, Expert Says](https://www.wsj.com/livecoverage/iran-war-news-2026/card/iran-s-network-of-cameras-bolsters-air-defenses-expert-says-IqjSSuOcGNrxzsrp52i8)**
-  *<p>Article URL: <a href="https://www.wsj.com/livecoverage/iran-war-news-2026/card/iran-s-network-of-cameras-bolsters-air-defenses-expert-says-IqjSSuOcGNrxzsrp52i8">https://www.wsj.com/livecoverage/ira...*
-  📅 Sat, 04 Apr 2026 17:06:29 +0000
+- **[Show HN: M. C. Escher spiral in WebGL inspired by 3Blue1Brown](https://static.laszlokorte.de/escher/)**
+  *<p>The latest 3Blue1Brown video [1] about the M. C. Escher print gallery effect inspired me to re-implement the effect as WebGL fragment shader on my own.<p>[1]: <a href="https://www.youtube.com/watch...*
+  📅 Sat, 04 Apr 2026 19:43:54 +0000
 
-- **[Why the Most Valuable Things You Know Are Things You Cannot Say](https://deadneurons.substack.com/p/why-the-most-valuable-things-you)**
-  *<p>Article URL: <a href="https://deadneurons.substack.com/p/why-the-most-valuable-things-you">https://deadneurons.substack.com/p/why-the-most-valuable-things-you</a></p>
-<p>Comments URL: <a href="http...*
-  📅 Sat, 04 Apr 2026 16:49:40 +0000
+- **[How many products does Microsoft have named 'Copilot'?](https://teybannerman.com/strategy/2026/03/31/how-many-microsoft-copilot-are-there.html)**
+  *<p>Article URL: <a href="https://teybannerman.com/strategy/2026/03/31/how-many-microsoft-copilot-are-there.html">https://teybannerman.com/strategy/2026/03/31/how-many-microsoft-copilot-are-there.html<...*
+  📅 Sat, 04 Apr 2026 19:39:43 +0000
 
 ### 📑 TechCrunch
+
+- **[Peter Thiel’s big bet on solar-powered cow collars](https://techcrunch.com/2026/04/04/unpacking-peter-thiels-big-bet-on-solar-powered-cow-collars/)**
+  *Why did Founders Fund invest $220 million in cattle management startup Halter?...*
+  📅 Sat, 04 Apr 2026 21:30:00 +0000
+
+- **[Embattled startup Delve has ‘parted ways’ with Y Combinator](https://techcrunch.com/2026/04/04/embattled-startup-delve-has-parted-ways-with-y-combinator/)**
+  *The controversy around Delve appears to have cost the compliance startup its relationship with accelerator Y Combinator....*
+  📅 Sat, 04 Apr 2026 21:03:43 +0000
 
 - **[Anthropic says Claude Code subscribers will need to pay extra for OpenClaw usage](https://techcrunch.com/2026/04/04/anthropic-says-claude-code-subscribers-will-need-to-pay-extra-for-openclaw-support/)**
   *It’s about to become more expensive for Claude Code subscribers to use Anthropic’s coding assistant with OpenClaw and other third-party tools....*
@@ -89,29 +100,23 @@
   *Lucid said it has resolved the problem and is not changing its guidance for 2026....*
   📅 Sat, 04 Apr 2026 01:03:13 +0000
 
-- **[The anonymous social app that thinks it can work in Saudi Arabia](https://techcrunch.com/2026/04/03/the-anonymous-social-app-that-thinks-it-can-work-in-saudi-arabia/)**
-  *When Fizz quietly debuted in Saudi Arabia, founder and CEO Teddy Solomon wasn’t expecting the app to catch on like it did....*
-  📅 Fri, 03 Apr 2026 22:24:57 +0000
-
-- **[Tesla’s Texas factory workforce reportedly shrunk 22% in 2025](https://techcrunch.com/2026/04/03/teslas-texas-factory-workforce-reportedly-shrunk-22-in-2025/)**
-  *Tesla's headcount fell from 21,191 workers to 16,506 workers in 2025, according to a report, as it grappled with its second straight year of declining sales....*
-  📅 Fri, 03 Apr 2026 20:43:25 +0000
-
 ### 📑 Dev.to
 
-- **[Intelligence-per-Token: Why AI's Cost Problem Is Forcing a Reckoning in 2026](https://dev.to/om_shree_0709/intelligence-per-token-why-ais-cost-problem-is-forcing-a-reckoning-in-2026-40ja)**
-  *<p>Running large models is expensive. Everyone in the industry knew this, but for a while it was someone else's problem — a future problem, once revenue caught up. In 2026, the bill has come due.<br /...*
-  📅 Sat, 04 Apr 2026 18:21:10 +0000
-
-- **[Why I Self-Host 7 RTX 5090 GPUs Instead of Using Cloud AI](https://dev.to/zsky/why-i-self-host-7-rtx-5090-gpus-instead-of-using-cloud-ai-29d6)**
-  *<h2>
+- **[Claude Code debugging: how to make AI find bugs you've been chasing for hours](https://dev.to/subprime2010/claude-code-debugging-how-to-make-ai-find-bugs-youve-been-chasing-for-hours-15bm)**
+  *<h1>
   
   
-  The Short Version
-</h2>
+  Claude Code debugging: how to make AI find bugs you've been chasing for hours
+</h1>
 
-<p>I run seven NVIDIA RTX 5090 GPUs in my home. That's 224 GB of VRAM sitting in a single tower with a 32-core, 64-thread CPU. People on Reddit tell me I'm insane...*
-  📅 Sat, 04 Apr 2026 18:20:16 +0000
+<p>You've been staring at the same bug for 3 hours. Stack traces that go nowhere. Console logs that li...*
+  📅 Sun, 05 Apr 2026 01:38:35 +0000
+
+- **[AI memory is broken. We built one that forgets.](https://dev.to/highpass_studio_382ce5641/ai-memory-is-broken-we-built-one-that-forgets-dmc)**
+  *<p>Every agent framework has the same problem with memory: it doesn't forget.</p>
+
+<p>Context windows reset between sessions. RAG and vector DBs store everything with equal weight and grow until they'...*
+  📅 Sun, 05 Apr 2026 01:35:33 +0000
 
 </details>
 
@@ -119,105 +124,105 @@
 
 ### 📈 Daily Trending
 
-- **[junjiezhou1122/GptCrate](https://github.com/junjiezhou1122/GptCrate)** ⭐ 79
-  ![Python](https://img.shields.io/badge/-Python-blue)
+- **[joshua-heygen/viz-pack](https://github.com/joshua-heygen/viz-pack)** ⭐ 5
+  ![None](https://img.shields.io/badge/-None-lightgrey)
+  Four Claude skills that turn any content into visuals — diagrams, infographics, interactive explainers, and shareable dashboards. Just type the command.
+
+- **[PolyTopTrend/Polymarket-Market-Maker-Bot](https://github.com/PolyTopTrend/Polymarket-Market-Maker-Bot)** ⭐ 4
+  ![None](https://img.shields.io/badge/-None-lightgrey)
   None
 
-- **[codeninja/oauth-cli-coder](https://github.com/codeninja/oauth-cli-coder)** ⭐ 79
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  Seamlessly interact with CLI coders (Claude, Gemini, Codex) via tmux TUI sessions.
-
-- **[badlogic/pi-telegram](https://github.com/badlogic/pi-telegram)** ⭐ 67
-  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
-  Telegram DM bridge extension for pi
-
-- **[halal-beef/houston-pub](https://github.com/halal-beef/houston-pub)** ⭐ 66
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  We had a problem - and now, publicly, a solution :)
-
-- **[uton88/dan-binary-releases](https://github.com/uton88/dan-binary-releases)** ⭐ 59
-  ![Shell](https://img.shields.io/badge/-Shell-lightgrey)
-  Public binary-only releases and install scripts for dan
-
-- **[teamchong/turboquant-wasm](https://github.com/teamchong/turboquant-wasm)** ⭐ 53
-  ![Zig](https://img.shields.io/badge/-Zig-lightgrey)
-  TurboQuant WASM SIMD vector compression — 3 bits/dim with fast dot product. Requires relaxed SIMD (Chrome 114+, Firefox 128+, Safari 18+, Node 20+)
-
-- **[twwch/comfyui-workflow-skill](https://github.com/twwch/comfyui-workflow-skill)** ⭐ 50
+- **[PolyTrend/Polymarket-Copytrading-Bot](https://github.com/PolyTrend/Polymarket-Copytrading-Bot)** ⭐ 5
   ![None](https://img.shields.io/badge/-None-lightgrey)
-  Natural language → ComfyUI workflow JSON. 34 built-in templates, 360+ node definitions, auto model download. Supports txt2img,       img2img, txt2vid, img2vid, audio, 3D generation across SD1.5/SDXL/SD3/FLUX/Wan2.2/HunyuanVideo/LTXV/Mochi/Cosmos + LLM integration.    Works as a skill for Claude Code, Cursor, and other AI coding agents.  
+  None
 
-- **[3182417680/EYUAI](https://github.com/3182417680/EYUAI)** ⭐ 41
+- **[YRaseUp/Polymarket-Copytrading-Bot](https://github.com/YRaseUp/Polymarket-Copytrading-Bot)** ⭐ 5
   ![None](https://img.shields.io/badge/-None-lightgrey)
-  EYUAI
+  None
+
+- **[PolyTrend/Polymarket-Market-Maker-Bot](https://github.com/PolyTrend/Polymarket-Market-Maker-Bot)** ⭐ 4
+  ![None](https://img.shields.io/badge/-None-lightgrey)
+  None
+
+- **[PolyTopTrend/Polymarket-Copytrading-Bot](https://github.com/PolyTopTrend/Polymarket-Copytrading-Bot)** ⭐ 5
+  ![None](https://img.shields.io/badge/-None-lightgrey)
+  None
+
+- **[YRaseUp/Polymarket-Market-Maker-Bot](https://github.com/YRaseUp/Polymarket-Market-Maker-Bot)** ⭐ 5
+  ![None](https://img.shields.io/badge/-None-lightgrey)
+  None
+
+- **[REAL-Lab-NU/Awesome-OpenClaw-Research](https://github.com/REAL-Lab-NU/Awesome-OpenClaw-Research)** ⭐ 3
+  ![None](https://img.shields.io/badge/-None-lightgrey)
+  A curated collection of academic papers, security reports, datasets, and tools for the OpenClaw AI agent ecosystem. 54+ papers organized in a six-layer taxonomy.
 
 ### 📈 Weekly Trending
 
-- **[ultraworkers/claw-code](https://github.com/ultraworkers/claw-code)** ⭐ 166,334
+- **[ultraworkers/claw-code](https://github.com/ultraworkers/claw-code)** ⭐ 167,285
   ![Rust](https://img.shields.io/badge/-Rust-brown)
   The repo is finally unlocked. enjoy the party! The fastest repo in history to surpass 100K stars ⭐. Join Discord: https://discord.gg/5TUQKqFWd Built in Rust using oh-my-codex.
 
-- **[Gitlawb/openclaude](https://github.com/Gitlawb/openclaude)** ⭐ 14,021
+- **[Gitlawb/openclaude](https://github.com/Gitlawb/openclaude)** ⭐ 14,739
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   Open Claude Is Open-source coding-agent CLI for OpenAI, Gemini, DeepSeek, Ollama, Codex, GitHub Models, and 200+ models via OpenAI-compatible APIs.
 
-- **[claude-code-best/claude-code](https://github.com/claude-code-best/claude-code)** ⭐ 13,530
+- **[claude-code-best/claude-code](https://github.com/claude-code-best/claude-code)** ⭐ 13,580
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   原汁原昧 Claude Code 可运行,可构建, 可调试版; Typescript 类型全修复; 企业级可靠性; 安全无毒, lock 文件保真, 可直接 bun i; bun run dev 启动
 
-- **[openai/codex-plugin-cc](https://github.com/openai/codex-plugin-cc)** ⭐ 11,566
+- **[openai/codex-plugin-cc](https://github.com/openai/codex-plugin-cc)** ⭐ 11,651
   ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
   Use Codex from Claude Code to review code or delegate tasks.
 
-- **[sanbuphy/learn-coding-agent](https://github.com/sanbuphy/learn-coding-agent)** ⭐ 11,245
+- **[sanbuphy/learn-coding-agent](https://github.com/sanbuphy/learn-coding-agent)** ⭐ 11,263
   ![None](https://img.shields.io/badge/-None-lightgrey)
   Research on Coding Agents
 
-- **[ChinaSiro/claude-code-sourcemap](https://github.com/ChinaSiro/claude-code-sourcemap)** ⭐ 8,370
-  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
-  None
-
-- **[Kuberwastaken/claurst](https://github.com/Kuberwastaken/claurst)** ⭐ 8,001
-  ![Rust](https://img.shields.io/badge/-Rust-brown)
-  Your favorite Terminal Coding Agent, now in Rust & a Breakdown of the Claude Code leak & discoveries
-
-- **[VoltAgent/awesome-design-md](https://github.com/VoltAgent/awesome-design-md)** ⭐ 7,318
+- **[VoltAgent/awesome-design-md](https://github.com/VoltAgent/awesome-design-md)** ⭐ 8,515
   ![HTML](https://img.shields.io/badge/-HTML-lightgrey)
   Collection of DESIGN.md files that capture design systems from popular websites. Drop one into your project and let coding agents build matching UI.
 
-### 📈 Monthly Trending
-
-- **[ultraworkers/claw-code](https://github.com/ultraworkers/claw-code)** ⭐ 166,334
-  ![Rust](https://img.shields.io/badge/-Rust-brown)
-  The repo is finally unlocked. enjoy the party! The fastest repo in history to surpass 100K stars ⭐. Join Discord: https://discord.gg/5TUQKqFWd Built in Rust using oh-my-codex.
-
-- **[karpathy/autoresearch](https://github.com/karpathy/autoresearch)** ⭐ 65,481
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  AI agents running research on single-GPU nanochat training automatically
-
-- **[garrytan/gstack](https://github.com/garrytan/gstack)** ⭐ 63,861
-  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
-  Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve as CEO, Designer, Eng Manager, Release Manager, Doc Engineer, and QA
-
-- **[chenglou/pretext](https://github.com/chenglou/pretext)** ⭐ 38,516
+- **[ChinaSiro/claude-code-sourcemap](https://github.com/ChinaSiro/claude-code-sourcemap)** ⭐ 8,378
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   None
 
-- **[HKUDS/CLI-Anything](https://github.com/HKUDS/CLI-Anything)** ⭐ 27,999
+- **[Kuberwastaken/claurst](https://github.com/Kuberwastaken/claurst)** ⭐ 8,063
+  ![Rust](https://img.shields.io/badge/-Rust-brown)
+  Your favorite Terminal Coding Agent, now in Rust & a Breakdown of the Claude Code leak & discoveries
+
+### 📈 Monthly Trending
+
+- **[ultraworkers/claw-code](https://github.com/ultraworkers/claw-code)** ⭐ 167,285
+  ![Rust](https://img.shields.io/badge/-Rust-brown)
+  The repo is finally unlocked. enjoy the party! The fastest repo in history to surpass 100K stars ⭐. Join Discord: https://discord.gg/5TUQKqFWd Built in Rust using oh-my-codex.
+
+- **[garrytan/gstack](https://github.com/garrytan/gstack)** ⭐ 64,030
+  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
+  Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve as CEO, Designer, Eng Manager, Release Manager, Doc Engineer, and QA
+
+- **[chenglou/pretext](https://github.com/chenglou/pretext)** ⭐ 38,780
+  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
+  None
+
+- **[HKUDS/CLI-Anything](https://github.com/HKUDS/CLI-Anything)** ⭐ 28,056
   ![Python](https://img.shields.io/badge/-Python-blue)
   "CLI-Anything: Making ALL Software Agent-Native" -- CLI-Hub: https://clianything.cc/
 
-- **[NVIDIA/NemoClaw](https://github.com/NVIDIA/NemoClaw)** ⭐ 18,429
+- **[NVIDIA/NemoClaw](https://github.com/NVIDIA/NemoClaw)** ⭐ 18,457
   ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
   Run OpenClaw more securely inside NVIDIA OpenShell with managed inference
 
-- **[tanweai/pua](https://github.com/tanweai/pua)** ⭐ 15,047
+- **[tanweai/pua](https://github.com/tanweai/pua)** ⭐ 15,062
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   你是一个曾经被寄予厚望的 P8 级工程师。Anthropic 当初给你定级的时候，对你的期望是很高的。  一个agent使用的高能动性的skill。  Your AI has been placed on a PIP. 30 days to show improvement.
 
-- **[Gitlawb/openclaude](https://github.com/Gitlawb/openclaude)** ⭐ 14,021
+- **[Gitlawb/openclaude](https://github.com/Gitlawb/openclaude)** ⭐ 14,739
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   Open Claude Is Open-source coding-agent CLI for OpenAI, Gemini, DeepSeek, Ollama, Codex, GitHub Models, and 200+ models via OpenAI-compatible APIs.
+
+- **[THU-MAIC/OpenMAIC](https://github.com/THU-MAIC/OpenMAIC)** ⭐ 13,798
+  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
+  Open Multi-Agent Interactive Classroom — Get an immersive, multi-agent learning experience in just one click
 
 ## 🚀 Latest Releases
 
@@ -488,37 +493,37 @@ consolidated into a single option `MockModuleOpti...
 |-------|--------|
 | Java | ⚪ Planned |
 | Python | ⚪ Planned |
-| JavaScript | 🟢 Proficient |
-| TypeScript | 🔴 Beginner |
-| Go | ⚪ Planned |
+| JavaScript | 🔴 Beginner |
+| TypeScript | ⚪ Planned |
+| Go | 🟢 Proficient |
 
 ### Frameworks
 
 | Skill | Status |
 |-------|--------|
-| React | 🔴 Beginner |
-| Spring Boot | 🟢 Proficient |
+| React | 🟡 Learning |
+| Spring Boot | 🔴 Beginner |
 | Django | 🟡 Learning |
-| Node.js | ⚪ Planned |
-| Next.js | 🟢 Proficient |
+| Node.js | 🟡 Learning |
+| Next.js | 🔴 Beginner |
 
 ### Cybersecurity
 
 | Skill | Status |
 |-------|--------|
-| Penetration Testing | 🟡 Learning |
-| Web Security | 🔴 Beginner |
+| Penetration Testing | 🔴 Beginner |
+| Web Security | ⚪ Planned |
 | Network Security | ⚪ Planned |
-| OWASP | ⚪ Planned |
+| OWASP | 🟡 Learning |
 
 ### Ai Ml
 
 | Skill | Status |
 |-------|--------|
-| Machine Learning | 🔴 Beginner |
+| Machine Learning | 🟢 Proficient |
 | Deep Learning | 🟢 Proficient |
-| NLP | 🟡 Learning |
-| Computer Vision | 🟡 Learning |
+| NLP | 🟢 Proficient |
+| Computer Vision | 🟢 Proficient |
 | TensorFlow | 🔴 Beginner |
 | PyTorch | 🟢 Proficient |
 
@@ -527,10 +532,10 @@ consolidated into a single option `MockModuleOpti...
 | Skill | Status |
 |-------|--------|
 | Docker | ⚪ Planned |
-| Kubernetes | ⚪ Planned |
-| CI/CD | 🔴 Beginner |
-| AWS | 🔴 Beginner |
-| Azure | 🔴 Beginner |
+| Kubernetes | 🟡 Learning |
+| CI/CD | 🟢 Proficient |
+| AWS | 🟢 Proficient |
+| Azure | ⚪ Planned |
 
 ### Other
 
@@ -538,7 +543,7 @@ consolidated into a single option `MockModuleOpti...
 |-------|--------|
 | Blockchain | 🟡 Learning |
 | Web3 | 🔴 Beginner |
-| Cloud Computing | 🔴 Beginner |
+| Cloud Computing | 🟡 Learning |
 
 </details>
 
@@ -556,7 +561,7 @@ This dashboard is automatically updated every 6 hours using GitHub Actions. The 
 
 <div align="center">
 
-**Last Updated:** April 04, 2026
+**Last Updated:** April 05, 2026
 
 Made with ❤️ and automated with GitHub Actions
 
