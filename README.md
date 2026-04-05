@@ -46,37 +46,52 @@
 
 ### 📑 Hacker News
 
-- **[Hightouch (YC S19) Is Hiring](https://hightouch.com/careers#open-positions)**
-  *<p>Article URL: <a href="https://hightouch.com/careers#open-positions">https://hightouch.com/careers#open-positions</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=47648499">htt...*
-  📅 Sun, 05 Apr 2026 12:03:17 +0000
+- **[Reaffirming our commitment to child safety in the face of EuropeanUnion inaction](https://blog.google/company-news/inside-google/around-the-globe/google-europe/reaffirming-commitment-to-child-safety/)**
+  *<p>Article URL: <a href="https://blog.google/company-news/inside-google/around-the-globe/google-europe/reaffirming-commitment-to-child-safety/">https://blog.google/company-news/inside-google/around-th...*
+  📅 Sun, 05 Apr 2026 17:20:10 +0000
 
-- **[Ubuntu now requires more RAM than Windows 11](https://www.howtogeek.com/ubuntu-now-requires-more-ram-than-windows-11/)**
-  *<p>Article URL: <a href="https://www.howtogeek.com/ubuntu-now-requires-more-ram-than-windows-11/">https://www.howtogeek.com/ubuntu-now-requires-more-ram-than-windows-11/</a></p>
-<p>Comments URL: <a hr...*
-  📅 Sun, 05 Apr 2026 11:57:25 +0000
+- **[From birds to brains: My path to the fusiform face area (2024)](https://www.kavliprize.org/nancy-kanwisher-autobiography)**
+  *<p>Article URL: <a href="https://www.kavliprize.org/nancy-kanwisher-autobiography">https://www.kavliprize.org/nancy-kanwisher-autobiography</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.c...*
+  📅 Sun, 05 Apr 2026 17:08:55 +0000
 
-- **[Sad Story of My Google Workspace Account Suspension](https://zencapital.substack.com/p/sad-story-of-my-google-workspace)**
-  *<p>Article URL: <a href="https://zencapital.substack.com/p/sad-story-of-my-google-workspace">https://zencapital.substack.com/p/sad-story-of-my-google-workspace</a></p>
-<p>Comments URL: <a href="https:...*
-  📅 Sun, 05 Apr 2026 11:48:13 +0000
+- **[The Melanesian: Dark-skinned people with blonde hair region of Oceania](https://guardian.ng/life/the-melanesian-dark-skinned-people-with-blonde-hair/)**
+  *<p>Article URL: <a href="https://guardian.ng/life/the-melanesian-dark-skinned-people-with-blonde-hair/">https://guardian.ng/life/the-melanesian-dark-skinned-people-with-blonde-hair/</a></p>
+<p>Comment...*
+  📅 Sun, 05 Apr 2026 16:21:51 +0000
 
-- **[The threat is comfortable drift toward not understanding what you're doing](https://ergosphere.blog/posts/the-machines-are-fine/)**
-  *<p>Article URL: <a href="https://ergosphere.blog/posts/the-machines-are-fine/">https://ergosphere.blog/posts/the-machines-are-fine/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?...*
-  📅 Sun, 05 Apr 2026 09:57:25 +0000
+- **[Codex is switching to API pricing based usage for all users](https://help.openai.com/en/articles/20001106-codex-rate-card)**
+  *<p>Article URL: <a href="https://help.openai.com/en/articles/20001106-codex-rate-card">https://help.openai.com/en/articles/20001106-codex-rate-card</a></p>
+<p>Comments URL: <a href="https://news.ycomb...*
+  📅 Sun, 05 Apr 2026 15:58:08 +0000
 
-- **[Talk like caveman](https://github.com/JuliusBrussee/caveman)**
-  *<p>Article URL: <a href="https://github.com/JuliusBrussee/caveman">https://github.com/JuliusBrussee/caveman</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=47647455">https://new...*
-  📅 Sun, 05 Apr 2026 08:56:18 +0000
+- **[Computational Physics (2nd Edition)](https://websites.umich.edu/~mejn/cp2/)**
+  *<p>Article URL: <a href="https://websites.umich.edu/~mejn/cp2/">https://websites.umich.edu/~mejn/cp2/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=47650502">https://news.ycom...*
+  📅 Sun, 05 Apr 2026 15:38:18 +0000
 
-- **[Lisette a little language inspired by Rust that compiles to Go](https://lisette.run/)**
-  *<p>Article URL: <a href="https://lisette.run/">https://lisette.run/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=47646843">https://news.ycombinator.com/item?id=47646843</a></...*
-  📅 Sun, 05 Apr 2026 06:57:19 +0000
+- **[Program analysis using random interpretation (2005) [pdf]](https://sigplan.org/Awards/Dissertation/2005_gulwani.pdf)**
+  *<p>Article URL: <a href="https://sigplan.org/Awards/Dissertation/2005_gulwani.pdf">https://sigplan.org/Awards/Dissertation/2005_gulwani.pdf</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.c...*
+  📅 Sun, 05 Apr 2026 15:25:28 +0000
 
 ### 📑 TechCrunch
+
+- **[As people look for ways to make new friends, here are the apps promising to help](https://techcrunch.com/2026/04/05/as-people-look-for-ways-to-make-new-friends-here-are-the-apps-promising-to-help/)**
+  *We've compiled a list of friendship apps, from friend discovery platforms like BFF to event-focused ones like Timeleft....*
+  📅 Sun, 05 Apr 2026 18:01:37 +0000
+
+- **[TechCrunch Mobility: ‘A stunning lack of transparency’](https://techcrunch.com/2026/04/05/techcrunch-mobility-a-stunning-lack-of-transparency/)**
+  *Welcome back to TechCrunch Mobility — your central hub for news and insights on the future of transportation. T...*
+  📅 Sun, 05 Apr 2026 16:05:00 +0000
+
+- **[Can orbital data centers help justify a massive valuation for SpaceX?](https://techcrunch.com/2026/04/05/can-orbital-data-centers-help-justify-a-massive-valuation-for-spacex/)**
+  *On the latest episode of TechCrunch’s Equity podcast, we debated Elon Musk's vision for data centers in space....*
+  📅 Sun, 05 Apr 2026 15:40:58 +0000
+
+- **[In Japan, the robot isn’t coming for your job; it’s filling the one nobody wants](https://techcrunch.com/2026/04/05/japan-is-proving-experimental-physical-ai-is-ready-for-the-real-world/)**
+  *Driven by labor shortages, Japan is pushing physical AI from pilot projects into real-world deployment....*
+  📅 Sun, 05 Apr 2026 14:00:00 +0000
 
 - **[Peter Thiel’s big bet on solar-powered cow collars](https://techcrunch.com/2026/04/04/unpacking-peter-thiels-big-bet-on-solar-powered-cow-collars/)**
   *Why did Founders Fund invest $220 million in cattle management startup Halter?...*
@@ -86,36 +101,33 @@
   *The controversy around Delve appears to have cost the compliance startup its relationship with accelerator Y Combinator....*
   📅 Sat, 04 Apr 2026 21:03:43 +0000
 
-- **[Anthropic says Claude Code subscribers will need to pay extra for OpenClaw usage](https://techcrunch.com/2026/04/04/anthropic-says-claude-code-subscribers-will-need-to-pay-extra-for-openclaw-support/)**
-  *It’s about to become more expensive for Claude Code subscribers to use Anthropic’s coding assistant with OpenClaw and other third-party tools....*
-  📅 Sat, 04 Apr 2026 16:32:22 +0000
-
-- **[After fighting malware for decades, this cybersecurity veteran is now hacking drones](https://techcrunch.com/2026/04/04/after-fighting-malware-for-decades-this-cybersecurity-veteran-is-now-hacking-drones/)**
-  *Mikko Hyppönen is one of the most recognizable faces of the cybersecurity industry. After fighting computer viruses, worms, and malware, for more than 35 years, he tells TechCrunch why he is now worki...*
-  📅 Sat, 04 Apr 2026 13:00:00 +0000
-
-- **[Anthropic is having a moment in the private markets; SpaceX could spoil the party](https://techcrunch.com/2026/04/03/anthropic-is-having-a-moment-in-the-private-markets-spacex-could-spoil-the-party/)**
-  *Glen Anderson, president of Rainmaker Securities, says the secondary market for private shares has never been more active — with Anthropic the hottest trade around, OpenAI losing ground, and SpaceX's ...*
-  📅 Sat, 04 Apr 2026 01:31:00 +0000
-
-- **[Lucid blames dip in Q1 sales on seat supplier issue](https://techcrunch.com/2026/04/03/lucid-blames-dip-in-q1-sales-on-seat-supplier-issue/)**
-  *Lucid said it has resolved the problem and is not changing its guidance for 2026....*
-  📅 Sat, 04 Apr 2026 01:03:13 +0000
-
 ### 📑 Dev.to
 
-- **[Getting Started With Seal Report: Mapping Restrictions to SQL User-Defined Functions](https://dev.to/vladg_dev/getting-started-with-seal-report-mapping-restrictions-to-sql-user-defined-functions-4p33)**
-  *<p>This is the sixth post in the series.</p>
+- **[KVerify: A Two-Year Journey to Get Validation Right](https://dev.to/tessoir/kverify-a-two-year-journey-to-get-validation-right-4h8o)**
+  *<h1>
+  
+  
+  KVerify: A Two-Year Journey to Get Validation Right
+</h1>
 
-<p>It is quite common that restrictions applied at the <strong>data model property level</strong> (regardless of their origin—expression filters, static o...*
-  📅 Sun, 05 Apr 2026 12:28:58 +0000
+<p>In December 2023, I wrote <a href="https://medium.com/@kuryanov.stanislav.olegovich/simplifying-data-validation-in-ktor-with-...*
+  📅 Sun, 05 Apr 2026 18:23:15 +0000
 
-- **[The Living Library of Access: Mapping the Hidden Architecture of Equity](https://dev.to/peculiarlibrarian/the-living-library-of-access-mapping-the-hidden-architecture-of-equity-15cf)**
-  *<p><em>This is a submission for the <a href="https://dev.to/challenges/wecoded-2026">2026 WeCoded Challenge</a>: Frontend Art</em></p>
+- **[Dark Dish Lab: A Cursed Recipe Generator](https://dev.to/zoe_lin_0653/dark-dish-lab-a-cursed-recipe-generator-4lj1)**
+  *<h2>
+  
+  
+  What I Built
+</h2>
 
-<blockquote>
-<p><strong>What if history wasn’t written—but compu...*
-  📅 Sun, 05 Apr 2026 12:28:18 +0000
+<p>Dark Dish Lab is a tiny, delightfully useless web app that generates cursed food or drink recipes.</p>
+
+<p>You pick:</p>
+
+<ul>
+<li>Hated ingredients</li>
+<li>Flavor...*
+  📅 Sun, 05 Apr 2026 18:21:11 +0000
 
 </details>
 
@@ -123,9 +135,13 @@
 
 ### 📈 Daily Trending
 
-- **[alchaincyf/nuwa-skill](https://github.com/alchaincyf/nuwa-skill)** ⭐ 230
+- **[alchaincyf/nuwa-skill](https://github.com/alchaincyf/nuwa-skill)** ⭐ 479
   ![None](https://img.shields.io/badge/-None-lightgrey)
   你想蒸馏的下一个员工，何必是同事。蒸馏任何人的思维方式——心智模型、决策启发式、表达DNA。Distill how anyone thinks.
+
+- **[alchaincyf/steve-jobs-skill](https://github.com/alchaincyf/steve-jobs-skill)** ⭐ 191
+  ![None](https://img.shields.io/badge/-None-lightgrey)
+  乔布斯.skill — Steve Jobs的认知操作系统。6个心智模型 + 8条决策启发式 + 完整表达DNA。由女娲.skill生成。
 
 - **[WidthChordLoot/star-df44fc](https://github.com/WidthChordLoot/star-df44fc)** ⭐ 109
   ![None](https://img.shields.io/badge/-None-lightgrey)
@@ -143,83 +159,79 @@
   ![None](https://img.shields.io/badge/-None-lightgrey)
   None
 
-- **[Powerzursubway/star-edbdbb](https://github.com/Powerzursubway/star-edbdbb)** ⭐ 109
-  ![None](https://img.shields.io/badge/-None-lightgrey)
-  None
-
 - **[PorterPillar/star-eb21a1](https://github.com/PorterPillar/star-eb21a1)** ⭐ 109
   ![None](https://img.shields.io/badge/-None-lightgrey)
   None
 
-- **[Enamelvuenchant/star-a66f49](https://github.com/Enamelvuenchant/star-a66f49)** ⭐ 109
+- **[Powerzursubway/star-edbdbb](https://github.com/Powerzursubway/star-edbdbb)** ⭐ 109
   ![None](https://img.shields.io/badge/-None-lightgrey)
   None
 
 ### 📈 Weekly Trending
 
-- **[ultraworkers/claw-code](https://github.com/ultraworkers/claw-code)** ⭐ 169,267
+- **[ultraworkers/claw-code](https://github.com/ultraworkers/claw-code)** ⭐ 170,222
   ![Rust](https://img.shields.io/badge/-Rust-brown)
   The repo is finally unlocked. enjoy the party! The fastest repo in history to surpass 100K stars ⭐. Join Discord: https://discord.gg/5TUQKqFWd Built in Rust using oh-my-codex.
 
-- **[Gitlawb/openclaude](https://github.com/Gitlawb/openclaude)** ⭐ 15,473
+- **[Gitlawb/openclaude](https://github.com/Gitlawb/openclaude)** ⭐ 15,986
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   Open Claude Is Open-source coding-agent CLI for OpenAI, Gemini, DeepSeek, Ollama, Codex, GitHub Models, and 200+ models via OpenAI-compatible APIs.
 
-- **[claude-code-best/claude-code](https://github.com/claude-code-best/claude-code)** ⭐ 13,772
+- **[claude-code-best/claude-code](https://github.com/claude-code-best/claude-code)** ⭐ 13,871
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   原汁原昧 Claude Code 可运行,可构建, 可调试版; Typescript 类型全修复; 企业级可靠性; 安全无毒, lock 文件保真, 可直接 bun i; bun run dev 启动
 
-- **[openai/codex-plugin-cc](https://github.com/openai/codex-plugin-cc)** ⭐ 11,768
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
-  Use Codex from Claude Code to review code or delegate tasks.
-
-- **[sanbuphy/learn-coding-agent](https://github.com/sanbuphy/learn-coding-agent)** ⭐ 11,313
-  ![None](https://img.shields.io/badge/-None-lightgrey)
-  Research on Coding Agents
-
-- **[VoltAgent/awesome-design-md](https://github.com/VoltAgent/awesome-design-md)** ⭐ 10,966
+- **[VoltAgent/awesome-design-md](https://github.com/VoltAgent/awesome-design-md)** ⭐ 13,384
   ![HTML](https://img.shields.io/badge/-HTML-lightgrey)
   Collection of DESIGN.md files that capture design systems from popular websites. Drop one into your project and let coding agents build matching UI.
 
-- **[ChinaSiro/claude-code-sourcemap](https://github.com/ChinaSiro/claude-code-sourcemap)** ⭐ 8,417
+- **[openai/codex-plugin-cc](https://github.com/openai/codex-plugin-cc)** ⭐ 11,844
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
+  Use Codex from Claude Code to review code or delegate tasks.
+
+- **[sanbuphy/learn-coding-agent](https://github.com/sanbuphy/learn-coding-agent)** ⭐ 11,329
+  ![None](https://img.shields.io/badge/-None-lightgrey)
+  Research on Coding Agents
+
+- **[ChinaSiro/claude-code-sourcemap](https://github.com/ChinaSiro/claude-code-sourcemap)** ⭐ 8,443
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   None
 
-- **[Kuberwastaken/claurst](https://github.com/Kuberwastaken/claurst)** ⭐ 8,134
+- **[Kuberwastaken/claurst](https://github.com/Kuberwastaken/claurst)** ⭐ 8,200
   ![Rust](https://img.shields.io/badge/-Rust-brown)
   Your favorite Terminal Coding Agent, now in Rust & a Breakdown of the Claude Code leak & discoveries
 
 ### 📈 Monthly Trending
 
-- **[ultraworkers/claw-code](https://github.com/ultraworkers/claw-code)** ⭐ 169,267
+- **[ultraworkers/claw-code](https://github.com/ultraworkers/claw-code)** ⭐ 170,222
   ![Rust](https://img.shields.io/badge/-Rust-brown)
   The repo is finally unlocked. enjoy the party! The fastest repo in history to surpass 100K stars ⭐. Join Discord: https://discord.gg/5TUQKqFWd Built in Rust using oh-my-codex.
 
-- **[garrytan/gstack](https://github.com/garrytan/gstack)** ⭐ 64,304
+- **[garrytan/gstack](https://github.com/garrytan/gstack)** ⭐ 64,498
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve as CEO, Designer, Eng Manager, Release Manager, Doc Engineer, and QA
 
-- **[chenglou/pretext](https://github.com/chenglou/pretext)** ⭐ 39,182
+- **[chenglou/pretext](https://github.com/chenglou/pretext)** ⭐ 39,383
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
-  None
+  Fast, accurate & comprehensive text measurement & layout
 
-- **[HKUDS/CLI-Anything](https://github.com/HKUDS/CLI-Anything)** ⭐ 28,239
+- **[HKUDS/CLI-Anything](https://github.com/HKUDS/CLI-Anything)** ⭐ 28,356
   ![Python](https://img.shields.io/badge/-Python-blue)
   "CLI-Anything: Making ALL Software Agent-Native" -- CLI-Hub: https://clianything.cc/
 
-- **[NVIDIA/NemoClaw](https://github.com/NVIDIA/NemoClaw)** ⭐ 18,486
+- **[NVIDIA/NemoClaw](https://github.com/NVIDIA/NemoClaw)** ⭐ 18,506
   ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
   Run OpenClaw more securely inside NVIDIA OpenShell with managed inference
 
-- **[Gitlawb/openclaude](https://github.com/Gitlawb/openclaude)** ⭐ 15,474
+- **[Gitlawb/openclaude](https://github.com/Gitlawb/openclaude)** ⭐ 15,986
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   Open Claude Is Open-source coding-agent CLI for OpenAI, Gemini, DeepSeek, Ollama, Codex, GitHub Models, and 200+ models via OpenAI-compatible APIs.
 
-- **[tanweai/pua](https://github.com/tanweai/pua)** ⭐ 15,110
+- **[tanweai/pua](https://github.com/tanweai/pua)** ⭐ 15,149
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   你是一个曾经被寄予厚望的 P8 级工程师。Anthropic 当初给你定级的时候，对你的期望是很高的。  一个agent使用的高能动性的skill。  Your AI has been placed on a PIP. 30 days to show improvement.
 
-- **[THU-MAIC/OpenMAIC](https://github.com/THU-MAIC/OpenMAIC)** ⭐ 13,852
+- **[THU-MAIC/OpenMAIC](https://github.com/THU-MAIC/OpenMAIC)** ⭐ 13,882
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   Open Multi-Agent Interactive Classroom — Get an immersive, multi-agent learning experience in just one click
 
@@ -490,28 +502,28 @@ consolidated into a single option `MockModuleOpti...
 
 | Skill | Status |
 |-------|--------|
-| Java | 🟢 Proficient |
-| Python | 🔴 Beginner |
-| JavaScript | 🟢 Proficient |
-| TypeScript | ⚪ Planned |
-| Go | ⚪ Planned |
+| Java | ⚪ Planned |
+| Python | ⚪ Planned |
+| JavaScript | ⚪ Planned |
+| TypeScript | 🟡 Learning |
+| Go | 🔴 Beginner |
 
 ### Frameworks
 
 | Skill | Status |
 |-------|--------|
-| React | 🔴 Beginner |
-| Spring Boot | 🔴 Beginner |
-| Django | 🟡 Learning |
-| Node.js | ⚪ Planned |
-| Next.js | 🟡 Learning |
+| React | 🟢 Proficient |
+| Spring Boot | ⚪ Planned |
+| Django | 🟢 Proficient |
+| Node.js | 🟢 Proficient |
+| Next.js | 🟢 Proficient |
 
 ### Cybersecurity
 
 | Skill | Status |
 |-------|--------|
-| Penetration Testing | 🔴 Beginner |
-| Web Security | 🟢 Proficient |
+| Penetration Testing | 🟢 Proficient |
+| Web Security | 🟡 Learning |
 | Network Security | 🟡 Learning |
 | OWASP | ⚪ Planned |
 
@@ -521,27 +533,27 @@ consolidated into a single option `MockModuleOpti...
 |-------|--------|
 | Machine Learning | 🔴 Beginner |
 | Deep Learning | 🔴 Beginner |
-| NLP | 🔴 Beginner |
+| NLP | ⚪ Planned |
 | Computer Vision | 🟡 Learning |
-| TensorFlow | 🔴 Beginner |
-| PyTorch | ⚪ Planned |
+| TensorFlow | 🟡 Learning |
+| PyTorch | 🟡 Learning |
 
 ### Devops
 
 | Skill | Status |
 |-------|--------|
-| Docker | ⚪ Planned |
-| Kubernetes | 🟢 Proficient |
-| CI/CD | ⚪ Planned |
+| Docker | 🟢 Proficient |
+| Kubernetes | ⚪ Planned |
+| CI/CD | 🟢 Proficient |
 | AWS | ⚪ Planned |
-| Azure | 🟢 Proficient |
+| Azure | 🟡 Learning |
 
 ### Other
 
 | Skill | Status |
 |-------|--------|
 | Blockchain | 🔴 Beginner |
-| Web3 | ⚪ Planned |
+| Web3 | 🟡 Learning |
 | Cloud Computing | 🔴 Beginner |
 
 </details>
