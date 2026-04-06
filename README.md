@@ -46,35 +46,41 @@
 
 ### 📑 Hacker News
 
-- **[Apex Protocol – An open MCP-based standard for AI agent trading](https://apexstandard.org/)**
-  *<p>Article URL: <a href="https://apexstandard.org/">https://apexstandard.org/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=47655618">https://news.ycombinator.com/item?id=4765...*
-  📅 Mon, 06 Apr 2026 00:50:32 +0000
+- **[SideX – A Tauri-based port of Visual Studio Code](https://github.com/Sidenai/sidex)**
+  *<p>Article URL: <a href="https://github.com/Sidenai/sidex">https://github.com/Sidenai/sidex</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=47657699">https://news.ycombinator.co...*
+  📅 Mon, 06 Apr 2026 06:49:42 +0000
 
-- **[Employers use your personal data to figure out the lowest salary you'll accept](https://www.marketwatch.com/story/employers-are-using-your-personal-data-to-figure-out-the-lowest-salary-youll-accept-c2b968fb)**
-  *<p>Article URL: <a href="https://www.marketwatch.com/story/employers-are-using-your-personal-data-to-figure-out-the-lowest-salary-youll-accept-c2b968fb">https://www.marketwatch.com/story/employers-are...*
-  📅 Mon, 06 Apr 2026 00:29:08 +0000
+- **[Winners of the 2026 Kokuyo Design Awards](https://spoon-tamago.com/winners-of-the-2026-kokuyo-design-awards/)**
+  *<p>Article URL: <a href="https://spoon-tamago.com/winners-of-the-2026-kokuyo-design-awards/">https://spoon-tamago.com/winners-of-the-2026-kokuyo-design-awards/</a></p>
+<p>Comments URL: <a href="https:...*
+  📅 Mon, 06 Apr 2026 03:32:23 +0000
 
-- **[Show HN: I built a tiny LLM to demystify how language models work](https://github.com/arman-bd/guppylm)**
-  *<p>Built a ~9M param LLM from scratch to understand how they actually work. Vanilla transformer, 60K synthetic conversations, ~130 lines of PyTorch. Trains in 5 min on a free Colab T4. The fish thinks...*
-  📅 Mon, 06 Apr 2026 00:20:12 +0000
+- **[Media scraper Gallery-dl is moving to Codeberg after receiving a DMCA notice](https://github.com/mikf/gallery-dl/discussions/9304)**
+  *<p>Article URL: <a href="https://github.com/mikf/gallery-dl/discussions/9304">https://github.com/mikf/gallery-dl/discussions/9304</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id...*
+  📅 Mon, 06 Apr 2026 03:28:04 +0000
 
-- **[Show HN: YouTube search barely works, I made a search form with advanced filters](https://playlists.at/youtube/search/)**
-  *<p>Article URL: <a href="https://playlists.at/youtube/search/">https://playlists.at/youtube/search/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=47655392">https://news.ycombi...*
-  📅 Mon, 06 Apr 2026 00:18:26 +0000
+- **[An open-source 240-antenna array to bounce signals off the Moon](https://moonrf.com/)**
+  *<p>Article URL: <a href="https://moonrf.com/">https://moonrf.com/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=47656622">https://news.ycombinator.com/item?id=47656622</a></p>...*
+  📅 Mon, 06 Apr 2026 03:22:42 +0000
 
-- **[Recall – local multimodal semantic search for your files](https://github.com/aayu22809/Recall)**
-  *<p>Article URL: <a href="https://github.com/aayu22809/Recall">https://github.com/aayu22809/Recall</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=47655335">https://news.ycombina...*
-  📅 Mon, 06 Apr 2026 00:09:14 +0000
+- **[The 1987 game “The Last Ninja” was 40 kilobytes](https://twitter.com/exQUIZitely/status/2040777977521398151)**
+  *<p>Article URL: <a href="https://twitter.com/exQUIZitely/status/2040777977521398151">https://twitter.com/exQUIZitely/status/2040777977521398151</a></p>
+<p>Comments URL: <a href="https://news.ycombinat...*
+  📅 Mon, 06 Apr 2026 03:03:22 +0000
 
-- **[Show HN: Modo – I built an open-source alternative to Kiro, Cursor, and Windsurf](https://github.com/mohshomis/modo)**
-  *<p>Article URL: <a href="https://github.com/mohshomis/modo">https://github.com/mohshomis/modo</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=47655268">https://news.ycombinator....*
-  📅 Sun, 05 Apr 2026 23:59:10 +0000
+- **[Case study: recovery of a corrupted 12 TB multi-device pool](https://github.com/kdave/btrfs-progs/issues/1107)**
+  *<p>Article URL: <a href="https://github.com/kdave/btrfs-progs/issues/1107">https://github.com/kdave/btrfs-progs/issues/1107</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=47656...*
+  📅 Mon, 06 Apr 2026 02:28:40 +0000
 
 ### 📑 TechCrunch
+
+- **[The Xiaomi 17 Ultra has some impressive add-ons that make snapping photos really fun](https://techcrunch.com/2026/04/06/xiaomi-17-ultra-review-camera-leica-specs-photography-kit-pro/)**
+  *The Xiaomi 17 Ultra gives you a ton of options to play around with images, including preset filters and hardware add-ons....*
+  📅 Mon, 06 Apr 2026 07:00:00 +0000
 
 - **[Polymarket took down wagers tied to rescue of downed Air Force officer](https://techcrunch.com/2026/04/05/polymarket-took-down-wagers-tied-to-rescue-of-downed-air-force-officer/)**
   *A Democratic congressman had harsh criticism for Polymarket for allowing users to bet on the date the U.S. would confirm the rescue of Air Force service members shot down over Iran....*
@@ -96,19 +102,21 @@
   *On the latest episode of TechCrunch’s Equity podcast, we debated Elon Musk's vision for data centers in space....*
   📅 Sun, 05 Apr 2026 15:40:58 +0000
 
-- **[In Japan, the robot isn’t coming for your job; it’s filling the one nobody wants](https://techcrunch.com/2026/04/05/japan-is-proving-experimental-physical-ai-is-ready-for-the-real-world/)**
-  *Driven by labor shortages, Japan is pushing physical AI from pilot projects into real-world deployment....*
-  📅 Sun, 05 Apr 2026 14:00:00 +0000
-
 ### 📑 Dev.to
 
-- **[8 Machine Learning Projects for Software Engineers to Build in 2026](https://dev.to/nyson_mark/8-machine-learning-projects-for-software-engineers-to-build-in-2026-3705)**
-  *<p>Most ML project lists are built for data science students. This one is built for software engineers who already know how to ship production code and want to demonstrate ML competence to hiring team...*
-  📅 Mon, 06 Apr 2026 01:32:53 +0000
+- **[Your Next Employer Already Knows the Lowest Salary You will Accept. An Algorithm Told Them.](https://dev.to/adioof/your-next-employer-already-knows-the-lowest-salary-you-will-accept-an-algorithm-told-them-1mkl)**
+  *<p>Your potential future employer knows how much they can lowball you on salary... and you aren't even aware of it.</p>
 
-- **[How to Publish and Share a Power BI Report Online](https://dev.to/brian_muriithi/how-to-publish-and-share-a-power-bi-report-online-316j)**
-  *<p>As we continue to explore Data Science and Analytics, this weeks deliverable was to work on an electronics sales dashboard in PowerBI and publish it online. This is a common request in data analyti...*
-  📅 Mon, 06 Apr 2026 01:28:59 +0000
+<p>A MarketWatch article from last week uncovered something that many of us in ...*
+  📅 Mon, 06 Apr 2026 07:05:26 +0000
+
+- **[Multichannel AI Agent: Shared Memory Across Messaging Platforms](https://dev.to/aws/multichannel-ai-agent-shared-memory-across-messaging-platforms-56j4)**
+  *<blockquote>
+<p>Build an AI chatbot that remembers users across WhatsApp and Instagram using Amazon Bedrock AgentCore, unified identity, and DynamoDB message buffering</p>
+</blockquote>
+
+<p>You send a...*
+  📅 Mon, 06 Apr 2026 07:00:00 +0000
 
 </details>
 
@@ -116,105 +124,105 @@
 
 ### 📈 Daily Trending
 
-- **[Dippp10/auto-repo-1775438241-10](https://github.com/Dippp10/auto-repo-1775438241-10)** ⭐ 1
+- **[will2025btc/buffett-perspective](https://github.com/will2025btc/buffett-perspective)** ⭐ 25
   ![None](https://img.shields.io/badge/-None-lightgrey)
+  巴菲特思维操作系统 | Warren Buffett Cognitive Framework - Claude Code Skill
+
+- **[whwh1233/StepFlow-Duck](https://github.com/whwh1233/StepFlow-Duck)** ⭐ 20
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
+  cpa+duck结合体
+
+- **[h5htrs4t95-alt/skill-engineering-hub](https://github.com/h5htrs4t95-alt/skill-engineering-hub)** ⭐ 14
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  A Skill Engineering Platform prototype for registry, lifecycle, scorecard, governance, promotion, and golden-path driven skill development.
+
+- **[Aadhijah/studyAi](https://github.com/Aadhijah/studyAi)** ⭐ 12
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
   None
 
-- **[realzwen/discord-botu-php-baglama](https://github.com/realzwen/discord-botu-php-baglama)** ⭐ 1
-  ![None](https://img.shields.io/badge/-None-lightgrey)
-  None
-
-- **[CatoXP/Proyectos-Personales](https://github.com/CatoXP/Proyectos-Personales)** ⭐ 1
-  ![Jupyter Notebook](https://img.shields.io/badge/-Jupyter Notebook-lightgrey)
-  None
-
-- **[hoainho/canvasdown](https://github.com/hoainho/canvasdown)** ⭐ 1
+- **[amadeusprotocol/polymarket-trading-bot](https://github.com/amadeusprotocol/polymarket-trading-bot)** ⭐ 10
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   None
 
-- **[Dippp10/auto-repo-1775438493-22](https://github.com/Dippp10/auto-repo-1775438493-22)** ⭐ 1
-  ![None](https://img.shields.io/badge/-None-lightgrey)
-  None
-
-- **[Melani-wq/contol-medicamentos](https://github.com/Melani-wq/contol-medicamentos)** ⭐ 0
+- **[AdeleZhu/teacher-skill](https://github.com/AdeleZhu/teacher-skill)** ⭐ 8
   ![Python](https://img.shields.io/badge/-Python-blue)
+  蒸馏你的老师 —— 把老师的教学方式、性格特点和学科知识提取成 AI 技能文件，让 AI 像你的老师一样给你讲题。Inspired by colleague-skill（同事skill）。
+
+- **[prabhatbhatiaa/Credlytic](https://github.com/prabhatbhatiaa/Credlytic)** ⭐ 9
+  ![None](https://img.shields.io/badge/-None-lightgrey)
   None
 
-- **[xixilove486/World-Structure-Model](https://github.com/xixilove486/World-Structure-Model)** ⭐ 1
-  ![None](https://img.shields.io/badge/-None-lightgrey)
-  Universe Model — A unified framework from quantum physics to civilization, built on one principle: information is the foundation of all structure. 宇宙模型——从量子物理到文明的统一框架，建立在一个原则上：信息是一切结构的基底。
-
-- **[Dippp10/auto-repo-1775438285-12](https://github.com/Dippp10/auto-repo-1775438285-12)** ⭐ 1
-  ![None](https://img.shields.io/badge/-None-lightgrey)
+- **[wxtsky/CodeIsland](https://github.com/wxtsky/CodeIsland)** ⭐ 8
+  ![Swift](https://img.shields.io/badge/-Swift-lightgrey)
   None
 
 ### 📈 Weekly Trending
 
-- **[ultraworkers/claw-code](https://github.com/ultraworkers/claw-code)** ⭐ 170,984
+- **[ultraworkers/claw-code](https://github.com/ultraworkers/claw-code)** ⭐ 171,812
   ![Rust](https://img.shields.io/badge/-Rust-brown)
   The repo is finally unlocked. enjoy the party! The fastest repo in history to surpass 100K stars ⭐. Join Discord: https://discord.gg/5TUQKqFWd Built in Rust using oh-my-codex.
 
-- **[Gitlawb/openclaude](https://github.com/Gitlawb/openclaude)** ⭐ 16,492
-  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
-  Open Claude Is Open-source coding-agent CLI for OpenAI, Gemini, DeepSeek, Ollama, Codex, GitHub Models, and 200+ models via OpenAI-compatible APIs.
-
-- **[VoltAgent/awesome-design-md](https://github.com/VoltAgent/awesome-design-md)** ⭐ 15,298
+- **[VoltAgent/awesome-design-md](https://github.com/VoltAgent/awesome-design-md)** ⭐ 17,264
   ![HTML](https://img.shields.io/badge/-HTML-lightgrey)
   Collection of DESIGN.md files that capture design systems from popular websites. Drop one into your project and let coding agents build matching UI.
 
-- **[claude-code-best/claude-code](https://github.com/claude-code-best/claude-code)** ⭐ 13,904
+- **[Gitlawb/openclaude](https://github.com/Gitlawb/openclaude)** ⭐ 16,753
+  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
+  Open Claude Is Open-source coding-agent CLI for OpenAI, Gemini, DeepSeek, Ollama, Codex, GitHub Models, and 200+ models via OpenAI-compatible APIs.
+
+- **[claude-code-best/claude-code](https://github.com/claude-code-best/claude-code)** ⭐ 13,986
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   原汁原昧 Claude Code 可运行,可构建, 可调试版; Typescript 类型全修复; 企业级可靠性; 安全无毒, lock 文件保真, 可直接 bun i; bun run dev 启动
 
-- **[sanbuphy/learn-coding-agent](https://github.com/sanbuphy/learn-coding-agent)** ⭐ 11,335
+- **[sanbuphy/learn-coding-agent](https://github.com/sanbuphy/learn-coding-agent)** ⭐ 11,349
   ![None](https://img.shields.io/badge/-None-lightgrey)
   Research on Coding Agents
 
-- **[ChinaSiro/claude-code-sourcemap](https://github.com/ChinaSiro/claude-code-sourcemap)** ⭐ 8,455
+- **[ChinaSiro/claude-code-sourcemap](https://github.com/ChinaSiro/claude-code-sourcemap)** ⭐ 8,471
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   None
 
-- **[Kuberwastaken/claurst](https://github.com/Kuberwastaken/claurst)** ⭐ 8,297
+- **[Kuberwastaken/claurst](https://github.com/Kuberwastaken/claurst)** ⭐ 8,368
   ![Rust](https://img.shields.io/badge/-Rust-brown)
   Your favorite Terminal Coding Agent, now in Rust & a Breakdown of the Claude Code leak & discoveries
 
-- **[emdash-cms/emdash](https://github.com/emdash-cms/emdash)** ⭐ 7,442
+- **[emdash-cms/emdash](https://github.com/emdash-cms/emdash)** ⭐ 7,529
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   EmDash is a full-stack TypeScript CMS based on Astro; the spiritual successor to WordPress
 
 ### 📈 Monthly Trending
 
-- **[ultraworkers/claw-code](https://github.com/ultraworkers/claw-code)** ⭐ 170,984
+- **[ultraworkers/claw-code](https://github.com/ultraworkers/claw-code)** ⭐ 171,812
   ![Rust](https://img.shields.io/badge/-Rust-brown)
   The repo is finally unlocked. enjoy the party! The fastest repo in history to surpass 100K stars ⭐. Join Discord: https://discord.gg/5TUQKqFWd Built in Rust using oh-my-codex.
 
-- **[garrytan/gstack](https://github.com/garrytan/gstack)** ⭐ 64,675
+- **[garrytan/gstack](https://github.com/garrytan/gstack)** ⭐ 64,848
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve as CEO, Designer, Eng Manager, Release Manager, Doc Engineer, and QA
 
-- **[HKUDS/CLI-Anything](https://github.com/HKUDS/CLI-Anything)** ⭐ 28,397
+- **[HKUDS/CLI-Anything](https://github.com/HKUDS/CLI-Anything)** ⭐ 28,491
   ![Python](https://img.shields.io/badge/-Python-blue)
   "CLI-Anything: Making ALL Software Agent-Native" -- CLI-Hub: https://clianything.cc/
 
-- **[NVIDIA/NemoClaw](https://github.com/NVIDIA/NemoClaw)** ⭐ 18,526
+- **[NVIDIA/NemoClaw](https://github.com/NVIDIA/NemoClaw)** ⭐ 18,543
   ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
   Run OpenClaw more securely inside NVIDIA OpenShell with managed inference
 
-- **[Gitlawb/openclaude](https://github.com/Gitlawb/openclaude)** ⭐ 16,492
-  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
-  Open Claude Is Open-source coding-agent CLI for OpenAI, Gemini, DeepSeek, Ollama, Codex, GitHub Models, and 200+ models via OpenAI-compatible APIs.
-
-- **[VoltAgent/awesome-design-md](https://github.com/VoltAgent/awesome-design-md)** ⭐ 15,298
+- **[VoltAgent/awesome-design-md](https://github.com/VoltAgent/awesome-design-md)** ⭐ 17,264
   ![HTML](https://img.shields.io/badge/-HTML-lightgrey)
   Collection of DESIGN.md files that capture design systems from popular websites. Drop one into your project and let coding agents build matching UI.
 
-- **[tanweai/pua](https://github.com/tanweai/pua)** ⭐ 15,152
+- **[Gitlawb/openclaude](https://github.com/Gitlawb/openclaude)** ⭐ 16,753
+  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
+  Open Claude Is Open-source coding-agent CLI for OpenAI, Gemini, DeepSeek, Ollama, Codex, GitHub Models, and 200+ models via OpenAI-compatible APIs.
+
+- **[tanweai/pua](https://github.com/tanweai/pua)** ⭐ 15,183
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   你是一个曾经被寄予厚望的 P8 级工程师。Anthropic 当初给你定级的时候，对你的期望是很高的。  一个agent使用的高能动性的skill。  Your AI has been placed on a PIP. 30 days to show improvement.
 
-- **[THU-MAIC/OpenMAIC](https://github.com/THU-MAIC/OpenMAIC)** ⭐ 13,906
+- **[claude-code-best/claude-code](https://github.com/claude-code-best/claude-code)** ⭐ 13,986
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
-  Open Multi-Agent Interactive Classroom — Get an immersive, multi-agent learning experience in just one click
+  原汁原昧 Claude Code 可运行,可构建, 可调试版; Typescript 类型全修复; 企业级可靠性; 安全无毒, lock 文件保真, 可直接 bun i; bun run dev 启动
 
 ## 🚀 Latest Releases
 
@@ -483,28 +491,28 @@ consolidated into a single option `MockModuleOpti...
 
 | Skill | Status |
 |-------|--------|
-| Java | 🔴 Beginner |
+| Java | 🟡 Learning |
 | Python | 🔴 Beginner |
-| JavaScript | ⚪ Planned |
-| TypeScript | ⚪ Planned |
-| Go | 🟢 Proficient |
+| JavaScript | 🟢 Proficient |
+| TypeScript | 🟡 Learning |
+| Go | 🟡 Learning |
 
 ### Frameworks
 
 | Skill | Status |
 |-------|--------|
-| React | 🟡 Learning |
-| Spring Boot | ⚪ Planned |
+| React | 🟢 Proficient |
+| Spring Boot | 🟢 Proficient |
 | Django | 🟡 Learning |
-| Node.js | 🔴 Beginner |
-| Next.js | 🟢 Proficient |
+| Node.js | 🟢 Proficient |
+| Next.js | 🟡 Learning |
 
 ### Cybersecurity
 
 | Skill | Status |
 |-------|--------|
-| Penetration Testing | 🔴 Beginner |
-| Web Security | ⚪ Planned |
+| Penetration Testing | 🟢 Proficient |
+| Web Security | 🟡 Learning |
 | Network Security | 🟢 Proficient |
 | OWASP | 🔴 Beginner |
 
@@ -512,28 +520,28 @@ consolidated into a single option `MockModuleOpti...
 
 | Skill | Status |
 |-------|--------|
-| Machine Learning | 🟢 Proficient |
-| Deep Learning | 🟡 Learning |
-| NLP | 🟡 Learning |
-| Computer Vision | 🔴 Beginner |
-| TensorFlow | 🟡 Learning |
-| PyTorch | 🔴 Beginner |
+| Machine Learning | 🔴 Beginner |
+| Deep Learning | 🔴 Beginner |
+| NLP | ⚪ Planned |
+| Computer Vision | 🟢 Proficient |
+| TensorFlow | 🟢 Proficient |
+| PyTorch | ⚪ Planned |
 
 ### Devops
 
 | Skill | Status |
 |-------|--------|
-| Docker | 🟢 Proficient |
-| Kubernetes | 🔴 Beginner |
+| Docker | ⚪ Planned |
+| Kubernetes | 🟢 Proficient |
 | CI/CD | ⚪ Planned |
-| AWS | 🟢 Proficient |
-| Azure | 🟡 Learning |
+| AWS | 🟡 Learning |
+| Azure | ⚪ Planned |
 
 ### Other
 
 | Skill | Status |
 |-------|--------|
-| Blockchain | 🔴 Beginner |
+| Blockchain | 🟡 Learning |
 | Web3 | 🔴 Beginner |
 | Cloud Computing | 🟢 Proficient |
 
