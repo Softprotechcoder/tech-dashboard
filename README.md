@@ -46,19 +46,14 @@
 
 ### 📑 Hacker News
 
-- **[Solod – A Subset of Go That Translates to C](https://github.com/solod-dev/solod)**
+- **[Solod – A subset of Go that translates to C](https://github.com/solod-dev/solod)**
   *<p>Article URL: <a href="https://github.com/solod-dev/solod">https://github.com/solod-dev/solod</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=47669337">https://news.ycombinato...*
   📅 Tue, 07 Apr 2026 00:48:01 +0000
 
-- **[After 20 years I turned off Google Adsense for my websites](https://blog.ericgoldman.org/archives/2025/06/after-20-years-i-turned-off-google-adsense-for-my-websites.htm)**
+- **[After 20 years I turned off Google Adsense for my websites (2025)](https://blog.ericgoldman.org/archives/2025/06/after-20-years-i-turned-off-google-adsense-for-my-websites.htm)**
   *<p>Article URL: <a href="https://blog.ericgoldman.org/archives/2025/06/after-20-years-i-turned-off-google-adsense-for-my-websites.htm">https://blog.ericgoldman.org/archives/2025/06/after-20-years-i-tu...*
   📅 Mon, 06 Apr 2026 23:23:28 +0000
-
-- **[The back story behind the first "$1.8B" dollar "AI Company"](https://garymarcus.substack.com/p/the-back-story-behind-the-first-18)**
-  *<p>Article URL: <a href="https://garymarcus.substack.com/p/the-back-story-behind-the-first-18">https://garymarcus.substack.com/p/the-back-story-behind-the-first-18</a></p>
-<p>Comments URL: <a href="ht...*
-  📅 Mon, 06 Apr 2026 23:16:27 +0000
 
 - **[Anthropic expands partnership with Google and Broadcom for next-gen compute](https://www.anthropic.com/news/google-broadcom-partnership-compute)**
   *<p>Article URL: <a href="https://www.anthropic.com/news/google-broadcom-partnership-compute">https://www.anthropic.com/news/google-broadcom-partnership-compute</a></p>
@@ -70,11 +65,26 @@
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=47667672">https://new...*
   📅 Mon, 06 Apr 2026 21:49:34 +0000
 
-- **[Ask HN: How do you handle marketing as a solo technical founder?](https://news.ycombinator.com/item?id=47667504)**
-  *<p>I've shipped multiple products over the past few years. Every single one followed the same pattern: build, post, get 12 likes from friends, a bit of organic traction, then nothing. Back to coding a...*
-  📅 Mon, 06 Apr 2026 21:36:47 +0000
+- **[Peptides: where to begin?](https://www.science.org/content/blog-post/ah-peptides-where-begin)**
+  *<p>Article URL: <a href="https://www.science.org/content/blog-post/ah-peptides-where-begin">https://www.science.org/content/blog-post/ah-peptides-where-begin</a></p>
+<p>Comments URL: <a href="https://...*
+  📅 Mon, 06 Apr 2026 21:22:03 +0000
+
+- **[HackerRank (YC S11) Is Hiring](https://news.ycombinator.com/item?id=47667011)**
+  *<p>Comments URL: <a href="https://news.ycombinator.com/item?id=47667011">https://news.ycombinator.com/item?id=47667011</a></p>
+<p>Points: 0</p>
+<p># Comments: 0</p>...*
+  📅 Mon, 06 Apr 2026 21:00:00 +0000
 
 ### 📑 TechCrunch
+
+- **[AI startup Rocket offers vibe McKinsey-style reports at a fraction of the cost](https://techcrunch.com/2026/04/06/indian-startup-rocket-wants-its-ai-to-do-mckinsey-style-consulting-at-a-fraction-of-the-cost/)**
+  *Rocket's new AI platform combines strategy, product building, and competitive intelligence, aiming to move beyond code generation....*
+  📅 Tue, 07 Apr 2026 05:30:00 +0000
+
+- **[AI design platform Picsart launches a creator monetization program](https://techcrunch.com/2026/04/06/ai-design-platform-picsart-launches-a-creator-monetization-program/)**
+  *The program invites creators to create original content with Picsart tools for a specific campaign, share it on their social channels, and earn revenue based on how their audience engages....*
+  📅 Tue, 07 Apr 2026 04:01:00 +0000
 
 - **[OpenAI alums have been quietly investing from a new, potentially $100M fund](https://techcrunch.com/2026/04/06/openai-alums-have-been-quietly-investing-from-a-new-potentially-100m-fund/)**
   *Zero Shot, a new venture capital fund with deep ties to OpenAI, is aiming to raise $100 million for its first fund. It has already written some checks....*
@@ -92,33 +102,17 @@
   *Netflix says the app gives children access to an "ever-growing" library of games for kids....*
   📅 Mon, 06 Apr 2026 18:21:49 +0000
 
-- **[Why safety regulators closed their investigation into Tesla’s remote parking feature](https://techcrunch.com/2026/04/06/tesla-actually-smart-summon-nhtsa-investigation-smart-parking/)**
-  *The NHTSA closed its investigation into Tesla's "Actually Smart Summon" feature, saying that only a fraction of cases resulted in an incident and that no incidents resulted in injury. Tesla has also i...*
-  📅 Mon, 06 Apr 2026 18:17:23 +0000
-
-- **[Iran threatens ‘Stargate’ AI data centers](https://techcrunch.com/2026/04/06/iran-threatens-stargate-ai-data-centers/)**
-  *Iran said it will target U.S.-linked data centers with new missile strikes, as the war between the U.S. and Iran escalates....*
-  📅 Mon, 06 Apr 2026 18:06:28 +0000
-
 ### 📑 Dev.to
 
-- **[DE Interviews Are Brutal Now, And the Jobs Aren't Even There](https://dev.to/datadriven/de-interviews-are-brutal-now-and-the-jobs-arent-even-there-1d64)**
-  *<p>I've been through more <strong>interview</strong> loops than I can count at this point. Some were great. Some were absurd theater. But the loops I'm hearing about now, from friends still actively s...*
-  📅 Tue, 07 Apr 2026 01:22:05 +0000
+- **[Prisma in Production: Patterns and Pitfalls After a Dozen Projects](https://dev.to/whoffagents/prisma-in-production-patterns-and-pitfalls-after-a-dozen-projects-2ep8)**
+  *<p>Prisma is the best ORM for TypeScript applications. After using it across a dozen projects, here are the patterns that make it genuinely excellent -- and the pitfalls that catch developers the firs...*
+  📅 Tue, 07 Apr 2026 06:58:22 +0000
 
-- **[[Rust Guide] 3.3. Data Types - Compound Types](https://dev.to/someb1oody/rust-guide-33-data-types-compound-types-gj2)**
-  *<h1>
-  
-  
-  3.3.0. Before the Main Text
-</h1>
+- **[Landing Pages That Convert for Developer Tools: Patterns That Actually Work](https://dev.to/whoffagents/landing-pages-that-convert-for-developer-tools-patterns-that-actually-work-3c8k)**
+  *<p>A landing page that doesn't convert is just a brochure. Here's what actually moves visitors to buyers for developer tools.</p>
 
-<p>Welcome to Chapter 3 of your Rust self-study. There are 6 sections in total:</p>
-
-<ul>
-<li>Variables and Mutability</li>
-<li>Data Types: Scalar Types...*
-  📅 Tue, 07 Apr 2026 01:20:29 +0000
+<p>I've shipped 6 products on whoffagents.com. These are the patterns...*
+  📅 Tue, 07 Apr 2026 06:57:55 +0000
 
 </details>
 
@@ -126,103 +120,103 @@
 
 ### 📈 Daily Trending
 
-- **[HotCode2025/LosSinChamba-Tercer-Semestre-](https://github.com/HotCode2025/LosSinChamba-Tercer-Semestre-)** ⭐ 5
+- **[Toneuaboost71/starred-0562a51](https://github.com/Toneuaboost71/starred-0562a51)** ⭐ 209
   ![None](https://img.shields.io/badge/-None-lightgrey)
   None
 
-- **[sodam-ai/AI-Harness-Scorecard_One-Click_Kit](https://github.com/sodam-ai/AI-Harness-Scorecard_One-Click_Kit)** ⭐ 5
-  ![Batchfile](https://img.shields.io/badge/-Batchfile-lightgrey)
-  AI Harness Scorecard 원클릭 설치, 실행 bat 파일
-
-- **[franchisemodernizer/franchise-ai-operations-toolkit](https://github.com/franchisemodernizer/franchise-ai-operations-toolkit)** ⭐ 3
+- **[CivilDukeHunt/starred-077842e](https://github.com/CivilDukeHunt/starred-077842e)** ⭐ 209
   ![None](https://img.shields.io/badge/-None-lightgrey)
-  A curated list of AI tools and resources for franchise operators to modernize their operations.
+  None
 
-- **[michnaugh1/libreoffice_markcitation](https://github.com/michnaugh1/libreoffice_markcitation)** ⭐ 2
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  An extension for Libreoffice for attorneys to mark citations and construct a Table of Authorities.
+- **[WarlordProvide/starred-be27b8c](https://github.com/WarlordProvide/starred-be27b8c)** ⭐ 209
+  ![None](https://img.shields.io/badge/-None-lightgrey)
+  None
 
-- **[xssdoctor/cspt_research](https://github.com/xssdoctor/cspt_research)** ⭐ 2
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
-  this is everything
+- **[SmokeLightRoute94/starred-eeae8f6](https://github.com/SmokeLightRoute94/starred-eeae8f6)** ⭐ 209
+  ![None](https://img.shields.io/badge/-None-lightgrey)
+  None
 
-- **[Adaimade/RustClaw](https://github.com/Adaimade/RustClaw)** ⭐ 2
-  ![Rust](https://img.shields.io/badge/-Rust-brown)
-  Lean Rust AI agent: 6MB binary, 7.9MB RAM. OpenClaw replacement. Telegram + Discord + GitHub auto-PR. Ollama/Anthropic support.
+- **[ExitTailorWrench/starred-52eef7a](https://github.com/ExitTailorWrench/starred-52eef7a)** ⭐ 209
+  ![None](https://img.shields.io/badge/-None-lightgrey)
+  None
 
-- **[NaoTomori0/Y.U.I.](https://github.com/NaoTomori0/Y.U.I.)** ⭐ 1
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  Yielding Universal Intelligence
+- **[Enamelvuenchant/starred-0dc6f85](https://github.com/Enamelvuenchant/starred-0dc6f85)** ⭐ 209
+  ![None](https://img.shields.io/badge/-None-lightgrey)
+  None
 
-- **[Dippp10/auto-repo-1775524850-26](https://github.com/Dippp10/auto-repo-1775524850-26)** ⭐ 1
+- **[portallaborervision/starred-f437e86](https://github.com/portallaborervision/starred-f437e86)** ⭐ 209
+  ![None](https://img.shields.io/badge/-None-lightgrey)
+  None
+
+- **[Moonyogirder/starred-108409d](https://github.com/Moonyogirder/starred-108409d)** ⭐ 209
   ![None](https://img.shields.io/badge/-None-lightgrey)
   None
 
 ### 📈 Weekly Trending
 
-- **[Gitlawb/openclaude](https://github.com/Gitlawb/openclaude)** ⭐ 18,050
+- **[Gitlawb/openclaude](https://github.com/Gitlawb/openclaude)** ⭐ 18,290
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   Open Claude Is Open-source coding-agent CLI for OpenAI, Gemini, DeepSeek, Ollama, Codex, GitHub Models, and 200+ models via OpenAI-compatible APIs.
 
-- **[santifer/career-ops](https://github.com/santifer/career-ops)** ⭐ 11,297
+- **[santifer/career-ops](https://github.com/santifer/career-ops)** ⭐ 12,686
   ![Go](https://img.shields.io/badge/-Go-cyan)
   AI-powered job search system built on Claude Code. 14 skill modes, Go dashboard, PDF generation, batch processing.
 
-- **[emdash-cms/emdash](https://github.com/emdash-cms/emdash)** ⭐ 7,824
+- **[emdash-cms/emdash](https://github.com/emdash-cms/emdash)** ⭐ 7,905
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   EmDash is a full-stack TypeScript CMS based on Astro; the spiritual successor to WordPress
 
-- **[ultraworkers/claw-code-parity](https://github.com/ultraworkers/claw-code-parity)** ⭐ 6,545
-  ![Rust](https://img.shields.io/badge/-Rust-brown)
-  Join Discord: https://discord.gg/5TUQKqFWd /  claw-code Rust port parity work - it is temporary work while claw-code repo is doing migration
-
-- **[HKUDS/OpenHarness](https://github.com/HKUDS/OpenHarness)** ⭐ 6,264
+- **[HKUDS/OpenHarness](https://github.com/HKUDS/OpenHarness)** ⭐ 6,632
   ![Python](https://img.shields.io/badge/-Python-blue)
   "OpenHarness: Open Agent Harness"
 
-- **[JuliusBrussee/caveman](https://github.com/JuliusBrussee/caveman)** ⭐ 4,177
+- **[ultraworkers/claw-code-parity](https://github.com/ultraworkers/claw-code-parity)** ⭐ 6,567
+  ![Rust](https://img.shields.io/badge/-Rust-brown)
+  Join Discord: https://discord.gg/5TUQKqFWd /  claw-code Rust port parity work - it is temporary work while claw-code repo is doing migration
+
+- **[JuliusBrussee/caveman](https://github.com/JuliusBrussee/caveman)** ⭐ 4,563
   ![Python](https://img.shields.io/badge/-Python-blue)
   🪨 why use many token when few token do trick — Claude Code skill that cuts 65% of tokens by talking like caveman
 
-- **[kevinrgu/autoagent](https://github.com/kevinrgu/autoagent)** ⭐ 3,587
+- **[kevinrgu/autoagent](https://github.com/kevinrgu/autoagent)** ⭐ 3,646
   ![Python](https://img.shields.io/badge/-Python-blue)
   autonomous harness engineering
 
-- **[0xGF/boneyard](https://github.com/0xGF/boneyard)** ⭐ 3,125
-  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
-  Auto generated skeleton loading framework
+- **[safishamsi/graphify](https://github.com/safishamsi/graphify)** ⭐ 3,269
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  AI coding assistant skill (Claude Code, Codex, OpenCode, OpenClaw). Turn any folder of code, docs, papers, or images into a queryable knowledge graph
 
 ### 📈 Monthly Trending
 
-- **[ultraworkers/claw-code](https://github.com/ultraworkers/claw-code)** ⭐ 173,936
+- **[ultraworkers/claw-code](https://github.com/ultraworkers/claw-code)** ⭐ 174,785
   ![Rust](https://img.shields.io/badge/-Rust-brown)
   The repo is finally unlocked. enjoy the party! The fastest repo in history to surpass 100K stars ⭐. Join Discord: https://discord.gg/5TUQKqFWd Built in Rust using oh-my-codex.
 
-- **[garrytan/gstack](https://github.com/garrytan/gstack)** ⭐ 65,505
+- **[garrytan/gstack](https://github.com/garrytan/gstack)** ⭐ 65,799
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve as CEO, Designer, Eng Manager, Release Manager, Doc Engineer, and QA
 
-- **[VoltAgent/awesome-design-md](https://github.com/VoltAgent/awesome-design-md)** ⭐ 22,992
+- **[VoltAgent/awesome-design-md](https://github.com/VoltAgent/awesome-design-md)** ⭐ 25,223
   ![HTML](https://img.shields.io/badge/-HTML-lightgrey)
   Collection of DESIGN.md files that capture design systems from popular websites. Drop one into your project and let coding agents build matching UI.
 
-- **[NVIDIA/NemoClaw](https://github.com/NVIDIA/NemoClaw)** ⭐ 18,619
+- **[NVIDIA/NemoClaw](https://github.com/NVIDIA/NemoClaw)** ⭐ 18,646
   ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
   Run OpenClaw more securely inside NVIDIA OpenShell with managed inference
 
-- **[Gitlawb/openclaude](https://github.com/Gitlawb/openclaude)** ⭐ 18,050
+- **[Gitlawb/openclaude](https://github.com/Gitlawb/openclaude)** ⭐ 18,290
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   Open Claude Is Open-source coding-agent CLI for OpenAI, Gemini, DeepSeek, Ollama, Codex, GitHub Models, and 200+ models via OpenAI-compatible APIs.
 
-- **[claude-code-best/claude-code](https://github.com/claude-code-best/claude-code)** ⭐ 14,193
+- **[claude-code-best/claude-code](https://github.com/claude-code-best/claude-code)** ⭐ 14,384
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   原汁原昧 Claude Code 可运行,可构建, 可调试版; Typescript 类型全修复; 企业级可靠性; 安全无毒, lock 文件保真, 可直接 bun i; bun run dev 启动
 
-- **[THU-MAIC/OpenMAIC](https://github.com/THU-MAIC/OpenMAIC)** ⭐ 14,013
+- **[THU-MAIC/OpenMAIC](https://github.com/THU-MAIC/OpenMAIC)** ⭐ 14,052
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   Open Multi-Agent Interactive Classroom — Get an immersive, multi-agent learning experience in just one click
 
-- **[jackwener/opencli](https://github.com/jackwener/opencli)** ⭐ 13,674
+- **[jackwener/opencli](https://github.com/jackwener/opencli)** ⭐ 13,805
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   Make Any Website & Tool Your CLI. A universal CLI Hub and AI-native runtime. Transform any website, Electron app, or local binary into a standardized command-line interface. Built for AI Agents to discover, learn, and execute tools seamlessly via a unified AGENT.md integration.
 
@@ -493,11 +487,11 @@ consolidated into a single option `MockModuleOpti...
 
 | Skill | Status |
 |-------|--------|
-| Java | ⚪ Planned |
-| Python | 🟢 Proficient |
-| JavaScript | 🟢 Proficient |
-| TypeScript | ⚪ Planned |
-| Go | 🔴 Beginner |
+| Java | 🟢 Proficient |
+| Python | 🟡 Learning |
+| JavaScript | 🟡 Learning |
+| TypeScript | 🟡 Learning |
+| Go | 🟡 Learning |
 
 ### Frameworks
 
@@ -506,46 +500,46 @@ consolidated into a single option `MockModuleOpti...
 | React | 🔴 Beginner |
 | Spring Boot | 🔴 Beginner |
 | Django | 🔴 Beginner |
-| Node.js | 🟢 Proficient |
-| Next.js | 🟡 Learning |
+| Node.js | ⚪ Planned |
+| Next.js | 🔴 Beginner |
 
 ### Cybersecurity
 
 | Skill | Status |
 |-------|--------|
-| Penetration Testing | ⚪ Planned |
+| Penetration Testing | 🟡 Learning |
 | Web Security | 🟢 Proficient |
-| Network Security | 🟡 Learning |
-| OWASP | 🟡 Learning |
+| Network Security | 🔴 Beginner |
+| OWASP | 🟢 Proficient |
 
 ### Ai Ml
 
 | Skill | Status |
 |-------|--------|
-| Machine Learning | 🟡 Learning |
-| Deep Learning | 🔴 Beginner |
-| NLP | ⚪ Planned |
+| Machine Learning | 🟢 Proficient |
+| Deep Learning | 🟡 Learning |
+| NLP | 🔴 Beginner |
 | Computer Vision | 🟡 Learning |
-| TensorFlow | 🟢 Proficient |
-| PyTorch | 🟡 Learning |
+| TensorFlow | ⚪ Planned |
+| PyTorch | ⚪ Planned |
 
 ### Devops
 
 | Skill | Status |
 |-------|--------|
-| Docker | 🟢 Proficient |
+| Docker | 🔴 Beginner |
 | Kubernetes | 🟡 Learning |
 | CI/CD | 🟢 Proficient |
 | AWS | 🟢 Proficient |
-| Azure | 🔴 Beginner |
+| Azure | ⚪ Planned |
 
 ### Other
 
 | Skill | Status |
 |-------|--------|
 | Blockchain | 🟢 Proficient |
-| Web3 | 🟢 Proficient |
-| Cloud Computing | 🔴 Beginner |
+| Web3 | 🟡 Learning |
+| Cloud Computing | ⚪ Planned |
 
 </details>
 
