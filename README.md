@@ -46,37 +46,44 @@
 
 ### 📑 Hacker News
 
-- **[Solod – A subset of Go that translates to C](https://github.com/solod-dev/solod)**
-  *<p>Article URL: <a href="https://github.com/solod-dev/solod">https://github.com/solod-dev/solod</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=47669337">https://news.ycombinato...*
-  📅 Tue, 07 Apr 2026 00:48:01 +0000
+- **[Show HN: A cartographer's attempt to realistically map Tolkien's world](https://www.intofarlands.com/atlasofarda)**
+  *<p>Article URL: <a href="https://www.intofarlands.com/atlasofarda">https://www.intofarlands.com/atlasofarda</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=47674027">https://new...*
+  📅 Tue, 07 Apr 2026 12:12:15 +0000
 
-- **[After 20 years I turned off Google Adsense for my websites (2025)](https://blog.ericgoldman.org/archives/2025/06/after-20-years-i-turned-off-google-adsense-for-my-websites.htm)**
-  *<p>Article URL: <a href="https://blog.ericgoldman.org/archives/2025/06/after-20-years-i-turned-off-google-adsense-for-my-websites.htm">https://blog.ericgoldman.org/archives/2025/06/after-20-years-i-tu...*
-  📅 Mon, 06 Apr 2026 23:23:28 +0000
+- **[Show HN: Pion/handoff – Move WebRTC out of browser and into Go](https://github.com/pion/handoff)**
+  *<p>Article URL: <a href="https://github.com/pion/handoff">https://github.com/pion/handoff</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=47673880">https://news.ycombinator.com/...*
+  📅 Tue, 07 Apr 2026 12:01:51 +0000
 
-- **[Anthropic expands partnership with Google and Broadcom for next-gen compute](https://www.anthropic.com/news/google-broadcom-partnership-compute)**
-  *<p>Article URL: <a href="https://www.anthropic.com/news/google-broadcom-partnership-compute">https://www.anthropic.com/news/google-broadcom-partnership-compute</a></p>
-<p>Comments URL: <a href="https:...*
-  📅 Mon, 06 Apr 2026 21:52:08 +0000
+- **[LLM may be standardizing human expression – and subtly influencing how we think](https://dornsife.usc.edu/news/stories/ai-may-be-making-us-think-and-write-more-alike/)**
+  *<p>Article URL: <a href="https://dornsife.usc.edu/news/stories/ai-may-be-making-us-think-and-write-more-alike/">https://dornsife.usc.edu/news/stories/ai-may-be-making-us-think-and-write-more-alike/</a...*
+  📅 Tue, 07 Apr 2026 11:29:02 +0000
 
-- **[Show HN: Hippo, biologically inspired memory for AI agents](https://github.com/kitfunso/hippo-memory)**
-  *<p>Article URL: <a href="https://github.com/kitfunso/hippo-memory">https://github.com/kitfunso/hippo-memory</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=47667672">https://new...*
-  📅 Mon, 06 Apr 2026 21:49:34 +0000
+- **[Show HN: Stop paying for Dropbox/Google Drive, use your own S3 bucket instead](https://locker.dev)**
+  *<p>Last week SWYX nerd-sniped me into building an Open-source Dropbox.<p>Here is Locker: the ultimate open-source Google Drive/box/Dropbox alternative 
+- Provider agnostic (S3, R2, vercel blob, local)...*
+  📅 Tue, 07 Apr 2026 11:12:17 +0000
 
-- **[Peptides: where to begin?](https://www.science.org/content/blog-post/ah-peptides-where-begin)**
-  *<p>Article URL: <a href="https://www.science.org/content/blog-post/ah-peptides-where-begin">https://www.science.org/content/blog-post/ah-peptides-where-begin</a></p>
-<p>Comments URL: <a href="https://...*
-  📅 Mon, 06 Apr 2026 21:22:03 +0000
+- **[DeiMOS – A Superoptimizer for the MOS 6502](https://aransentin.github.io/deimos/)**
+  *<p>Article URL: <a href="https://aransentin.github.io/deimos/">https://aransentin.github.io/deimos/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=47673379">https://news.ycombi...*
+  📅 Tue, 07 Apr 2026 11:10:22 +0000
 
-- **[HackerRank (YC S11) Is Hiring](https://news.ycombinator.com/item?id=47667011)**
-  *<p>Comments URL: <a href="https://news.ycombinator.com/item?id=47667011">https://news.ycombinator.com/item?id=47667011</a></p>
-<p>Points: 0</p>
-<p># Comments: 0</p>...*
-  📅 Mon, 06 Apr 2026 21:00:00 +0000
+- **[Show HN: Brutalist Concrete Laptop Stand (2024)](https://sam-burns.com/posts/concrete-laptop-stand/)**
+  *<p>Article URL: <a href="https://sam-burns.com/posts/concrete-laptop-stand/">https://sam-burns.com/posts/concrete-laptop-stand/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=4...*
+  📅 Tue, 07 Apr 2026 11:07:44 +0000
 
 ### 📑 TechCrunch
+
+- **[Hermeus raises $350M to build autonomous hypersonic fighters](https://techcrunch.com/2026/04/07/hermeus-raises-350m-to-build-autonomous-hypersonic-fighters/)**
+  *The defense aviation startup is coming off two successful flight demonstrations, and with the next one, it's aiming to go supersonic....*
+  📅 Tue, 07 Apr 2026 12:30:00 +0000
+
+- **[Spotify’s prompted playlist feature will now work for podcasts, too](https://techcrunch.com/2026/04/07/spotifys-prompted-playlist-feature-will-now-work-for-podcasts-too/)**
+  *Spotify will now allow users to input natural language prompts to create podcast playlist....*
+  📅 Tue, 07 Apr 2026 12:00:00 +0000
 
 - **[AI startup Rocket offers vibe McKinsey-style reports at a fraction of the cost](https://techcrunch.com/2026/04/06/indian-startup-rocket-wants-its-ai-to-do-mckinsey-style-consulting-at-a-fraction-of-the-cost/)**
   *Rocket's new AI platform combines strategy, product building, and competitive intelligence, aiming to move beyond code generation....*
@@ -94,25 +101,18 @@
   *The most recent electric vehicle sales data provided a grim picture — at least for new EVs. Used EVs are moving in the opposite direction....*
   📅 Mon, 06 Apr 2026 21:15:09 +0000
 
-- **[Google quietly launched an AI dictation app that works offline](https://techcrunch.com/2026/04/06/google-quietly-releases-an-offline-first-ai-dictation-app-on-ios/)**
-  *Google's new offline-first dictation app uses Gemma AI models to take on the apps like Wispr Flow....*
-  📅 Mon, 06 Apr 2026 18:54:33 +0000
-
-- **[Netflix is expanding into kids’ games with a new stand-alone app](https://techcrunch.com/2026/04/06/netflix-launches-a-standalone-app-for-kids-games/)**
-  *Netflix says the app gives children access to an "ever-growing" library of games for kids....*
-  📅 Mon, 06 Apr 2026 18:21:49 +0000
-
 ### 📑 Dev.to
 
-- **[Prisma in Production: Patterns and Pitfalls After a Dozen Projects](https://dev.to/whoffagents/prisma-in-production-patterns-and-pitfalls-after-a-dozen-projects-2ep8)**
-  *<p>Prisma is the best ORM for TypeScript applications. After using it across a dozen projects, here are the patterns that make it genuinely excellent -- and the pitfalls that catch developers the firs...*
-  📅 Tue, 07 Apr 2026 06:58:22 +0000
+- **[A 2 AM Integration Failure That Changed How I Design Systems Forever](https://dev.to/integration-maestro/a-2-am-integration-failure-that-changed-how-i-design-systems-forever-275p)**
+  *<p><strong>Black Friday doesn't break systems.</strong><br />
+It reveals them.</p>
 
-- **[Landing Pages That Convert for Developer Tools: Patterns That Actually Work](https://dev.to/whoffagents/landing-pages-that-convert-for-developer-tools-patterns-that-actually-work-3c8k)**
-  *<p>A landing page that doesn't convert is just a brochure. Here's what actually moves visitors to buyers for developer tools.</p>
+<p>This story is about one of those moments — not because everything went down, but because it almost did. And becau...*
+  📅 Tue, 07 Apr 2026 12:51:02 +0000
 
-<p>I've shipped 6 products on whoffagents.com. These are the patterns...*
-  📅 Tue, 07 Apr 2026 06:57:55 +0000
+- **[Small models, big ideas: what Google Gemma and MoE mean for developers](https://dev.to/extractdata/small-models-big-ideas-what-google-gemma-and-moe-mean-for-developers-3038)**
+  *<p>We at zyte-devrel try to stay plugged into what is happening in the AI and developer tooling space, not just because it is interesting, but because a lot of it starts having real implications for h...*
+  📅 Tue, 07 Apr 2026 12:50:03 +0000
 
 </details>
 
@@ -154,71 +154,71 @@
 
 ### 📈 Weekly Trending
 
-- **[Gitlawb/openclaude](https://github.com/Gitlawb/openclaude)** ⭐ 18,290
+- **[Gitlawb/openclaude](https://github.com/Gitlawb/openclaude)** ⭐ 18,562
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   Open Claude Is Open-source coding-agent CLI for OpenAI, Gemini, DeepSeek, Ollama, Codex, GitHub Models, and 200+ models via OpenAI-compatible APIs.
 
-- **[santifer/career-ops](https://github.com/santifer/career-ops)** ⭐ 12,686
-  ![Go](https://img.shields.io/badge/-Go-cyan)
+- **[santifer/career-ops](https://github.com/santifer/career-ops)** ⭐ 14,500
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
   AI-powered job search system built on Claude Code. 14 skill modes, Go dashboard, PDF generation, batch processing.
 
-- **[emdash-cms/emdash](https://github.com/emdash-cms/emdash)** ⭐ 7,905
+- **[emdash-cms/emdash](https://github.com/emdash-cms/emdash)** ⭐ 8,005
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   EmDash is a full-stack TypeScript CMS based on Astro; the spiritual successor to WordPress
 
-- **[HKUDS/OpenHarness](https://github.com/HKUDS/OpenHarness)** ⭐ 6,632
+- **[milla-jovovich/mempalace](https://github.com/milla-jovovich/mempalace)** ⭐ 7,600
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  The highest-scoring AI memory system ever benchmarked. And it's free.
+
+- **[HKUDS/OpenHarness](https://github.com/HKUDS/OpenHarness)** ⭐ 6,901
   ![Python](https://img.shields.io/badge/-Python-blue)
   "OpenHarness: Open Agent Harness"
 
-- **[ultraworkers/claw-code-parity](https://github.com/ultraworkers/claw-code-parity)** ⭐ 6,567
+- **[ultraworkers/claw-code-parity](https://github.com/ultraworkers/claw-code-parity)** ⭐ 6,575
   ![Rust](https://img.shields.io/badge/-Rust-brown)
   Join Discord: https://discord.gg/5TUQKqFWd /  claw-code Rust port parity work - it is temporary work while claw-code repo is doing migration
 
-- **[JuliusBrussee/caveman](https://github.com/JuliusBrussee/caveman)** ⭐ 4,563
+- **[JuliusBrussee/caveman](https://github.com/JuliusBrussee/caveman)** ⭐ 5,165
   ![Python](https://img.shields.io/badge/-Python-blue)
   🪨 why use many token when few token do trick — Claude Code skill that cuts 65% of tokens by talking like caveman
 
-- **[kevinrgu/autoagent](https://github.com/kevinrgu/autoagent)** ⭐ 3,646
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  autonomous harness engineering
-
-- **[safishamsi/graphify](https://github.com/safishamsi/graphify)** ⭐ 3,269
+- **[safishamsi/graphify](https://github.com/safishamsi/graphify)** ⭐ 4,589
   ![Python](https://img.shields.io/badge/-Python-blue)
   AI coding assistant skill (Claude Code, Codex, OpenCode, OpenClaw). Turn any folder of code, docs, papers, or images into a queryable knowledge graph
 
 ### 📈 Monthly Trending
 
-- **[ultraworkers/claw-code](https://github.com/ultraworkers/claw-code)** ⭐ 174,785
+- **[ultraworkers/claw-code](https://github.com/ultraworkers/claw-code)** ⭐ 175,556
   ![Rust](https://img.shields.io/badge/-Rust-brown)
   The repo is finally unlocked. enjoy the party! The fastest repo in history to surpass 100K stars ⭐. Join Discord: https://discord.gg/5TUQKqFWd Built in Rust using oh-my-codex.
 
-- **[garrytan/gstack](https://github.com/garrytan/gstack)** ⭐ 65,799
+- **[garrytan/gstack](https://github.com/garrytan/gstack)** ⭐ 66,084
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve as CEO, Designer, Eng Manager, Release Manager, Doc Engineer, and QA
 
-- **[VoltAgent/awesome-design-md](https://github.com/VoltAgent/awesome-design-md)** ⭐ 25,223
+- **[VoltAgent/awesome-design-md](https://github.com/VoltAgent/awesome-design-md)** ⭐ 27,477
   ![HTML](https://img.shields.io/badge/-HTML-lightgrey)
   Collection of DESIGN.md files that capture design systems from popular websites. Drop one into your project and let coding agents build matching UI.
 
-- **[NVIDIA/NemoClaw](https://github.com/NVIDIA/NemoClaw)** ⭐ 18,646
+- **[NVIDIA/NemoClaw](https://github.com/NVIDIA/NemoClaw)** ⭐ 18,680
   ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
   Run OpenClaw more securely inside NVIDIA OpenShell with managed inference
 
-- **[Gitlawb/openclaude](https://github.com/Gitlawb/openclaude)** ⭐ 18,290
+- **[Gitlawb/openclaude](https://github.com/Gitlawb/openclaude)** ⭐ 18,562
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   Open Claude Is Open-source coding-agent CLI for OpenAI, Gemini, DeepSeek, Ollama, Codex, GitHub Models, and 200+ models via OpenAI-compatible APIs.
 
-- **[claude-code-best/claude-code](https://github.com/claude-code-best/claude-code)** ⭐ 14,384
+- **[claude-code-best/claude-code](https://github.com/claude-code-best/claude-code)** ⭐ 14,519
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   原汁原昧 Claude Code 可运行,可构建, 可调试版; Typescript 类型全修复; 企业级可靠性; 安全无毒, lock 文件保真, 可直接 bun i; bun run dev 启动
 
-- **[THU-MAIC/OpenMAIC](https://github.com/THU-MAIC/OpenMAIC)** ⭐ 14,052
+- **[santifer/career-ops](https://github.com/santifer/career-ops)** ⭐ 14,500
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
+  AI-powered job search system built on Claude Code. 14 skill modes, Go dashboard, PDF generation, batch processing.
+
+- **[THU-MAIC/OpenMAIC](https://github.com/THU-MAIC/OpenMAIC)** ⭐ 14,191
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   Open Multi-Agent Interactive Classroom — Get an immersive, multi-agent learning experience in just one click
-
-- **[jackwener/opencli](https://github.com/jackwener/opencli)** ⭐ 13,805
-  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
-  Make Any Website & Tool Your CLI. A universal CLI Hub and AI-native runtime. Transform any website, Electron app, or local binary into a standardized command-line interface. Built for AI Agents to discover, learn, and execute tools seamlessly via a unified AGENT.md integration.
 
 ## 🚀 Latest Releases
 
@@ -487,10 +487,10 @@ consolidated into a single option `MockModuleOpti...
 
 | Skill | Status |
 |-------|--------|
-| Java | 🟢 Proficient |
-| Python | 🟡 Learning |
+| Java | 🔴 Beginner |
+| Python | ⚪ Planned |
 | JavaScript | 🟡 Learning |
-| TypeScript | 🟡 Learning |
+| TypeScript | 🔴 Beginner |
 | Go | 🟡 Learning |
 
 ### Frameworks
@@ -498,48 +498,48 @@ consolidated into a single option `MockModuleOpti...
 | Skill | Status |
 |-------|--------|
 | React | 🔴 Beginner |
-| Spring Boot | 🔴 Beginner |
+| Spring Boot | 🟢 Proficient |
 | Django | 🔴 Beginner |
 | Node.js | ⚪ Planned |
-| Next.js | 🔴 Beginner |
+| Next.js | 🟢 Proficient |
 
 ### Cybersecurity
 
 | Skill | Status |
 |-------|--------|
-| Penetration Testing | 🟡 Learning |
+| Penetration Testing | 🔴 Beginner |
 | Web Security | 🟢 Proficient |
-| Network Security | 🔴 Beginner |
-| OWASP | 🟢 Proficient |
+| Network Security | 🟡 Learning |
+| OWASP | ⚪ Planned |
 
 ### Ai Ml
 
 | Skill | Status |
 |-------|--------|
-| Machine Learning | 🟢 Proficient |
+| Machine Learning | ⚪ Planned |
 | Deep Learning | 🟡 Learning |
-| NLP | 🔴 Beginner |
-| Computer Vision | 🟡 Learning |
-| TensorFlow | ⚪ Planned |
-| PyTorch | ⚪ Planned |
+| NLP | ⚪ Planned |
+| Computer Vision | 🟢 Proficient |
+| TensorFlow | 🟡 Learning |
+| PyTorch | 🟢 Proficient |
 
 ### Devops
 
 | Skill | Status |
 |-------|--------|
-| Docker | 🔴 Beginner |
+| Docker | 🟢 Proficient |
 | Kubernetes | 🟡 Learning |
 | CI/CD | 🟢 Proficient |
-| AWS | 🟢 Proficient |
-| Azure | ⚪ Planned |
+| AWS | 🔴 Beginner |
+| Azure | 🟢 Proficient |
 
 ### Other
 
 | Skill | Status |
 |-------|--------|
-| Blockchain | 🟢 Proficient |
-| Web3 | 🟡 Learning |
-| Cloud Computing | ⚪ Planned |
+| Blockchain | ⚪ Planned |
+| Web3 | 🔴 Beginner |
+| Cloud Computing | 🟡 Learning |
 
 </details>
 
