@@ -46,15 +46,24 @@
 
 ### 📑 Hacker News
 
+- **[Process Manager for Autonomous AI Agents](https://botctl.dev/)**
+  *<p>Article URL: <a href="https://botctl.dev/">https://botctl.dev/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=47699814">https://news.ycombinator.com/item?id=47699814</a></p>...*
+  📅 Thu, 09 Apr 2026 06:00:55 +0000
+
+- **[Open Source Security at Astral](https://astral.sh/blog/open-source-security-at-astral)**
+  *<p>Article URL: <a href="https://astral.sh/blog/open-source-security-at-astral">https://astral.sh/blog/open-source-security-at-astral</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/ite...*
+  📅 Thu, 09 Apr 2026 04:11:55 +0000
+
+- **[Newly created Polymarket accounts win big on well-timed Iran ceasefire bets](https://www.theguardian.com/business/2026/apr/08/polymarket-trump-us-iran-ceasefire)**
+  *<p>Article URL: <a href="https://www.theguardian.com/business/2026/apr/08/polymarket-trump-us-iran-ceasefire">https://www.theguardian.com/business/2026/apr/08/polymarket-trump-us-iran-ceasefire</a></p...*
+  📅 Thu, 09 Apr 2026 00:55:46 +0000
+
 - **[LittleSnitch for Linux](https://obdev.at/products/littlesnitch-linux/index.html)**
   *<p>Article URL: <a href="https://obdev.at/products/littlesnitch-linux/index.html">https://obdev.at/products/littlesnitch-linux/index.html</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com...*
   📅 Thu, 09 Apr 2026 00:26:08 +0000
-
-- **[Show HN: Tired of logic in useEffect, I built a class-based React state manager](https://thales.me/posts/why-i-built-snapstate/)**
-  *<p>Article URL: <a href="https://thales.me/posts/why-i-built-snapstate/">https://thales.me/posts/why-i-built-snapstate/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=47696760"...*
-  📅 Wed, 08 Apr 2026 21:53:36 +0000
 
 - **[Show HN: Is Hormuz open yet?](https://www.ishormuzopenyet.com/)**
   *<p>I built this because I was interested in the data. Didn't fully get it to what I wanted, but thought I'd share it nonetheless. Maybe someone has better data sources they could share!<p>Turns out li...*
@@ -63,16 +72,6 @@
 - **[John Deere to pay $99M in right-to-repair settlement](https://www.thedrive.com/news/john-deere-to-pay-99-million-in-monumental-right-to-repair-settlement)**
   *<p>Article URL: <a href="https://www.thedrive.com/news/john-deere-to-pay-99-million-in-monumental-right-to-repair-settlement">https://www.thedrive.com/news/john-deere-to-pay-99-million-in-monumental-r...*
   📅 Wed, 08 Apr 2026 20:46:27 +0000
-
-- **[USB for Software Developers: An introduction to writing userspace USB drivers](https://werwolv.net/posts/usb_for_sw_devs/)**
-  *<p>Article URL: <a href="https://werwolv.net/posts/usb_for_sw_devs/">https://werwolv.net/posts/usb_for_sw_devs/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=47695012">https:/...*
-  📅 Wed, 08 Apr 2026 19:23:34 +0000
-
-- **[Expanding Swift's IDE Support](https://swift.org/blog/expanding-swift-ide-support/)**
-  *<p>Article URL: <a href="https://swift.org/blog/expanding-swift-ide-support/">https://swift.org/blog/expanding-swift-ide-support/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id...*
-  📅 Wed, 08 Apr 2026 19:21:41 +0000
 
 ### 📑 TechCrunch
 
@@ -84,7 +83,7 @@
   *An Avride autonomous vehicle near Austin hit the duck, facing backlash from the community. "It didn't slow down or hesitate at all, just steamrolled right through," according to a witness....*
   📅 Wed, 08 Apr 2026 21:19:07 +0000
 
-- **[AI agent Poke makes setting up automations as easy as sending a text](https://techcrunch.com/2026/04/08/poke-makes-ai-agents-as-easy-as-sending-a-text/)**
+- **[Poke makes using AI agents as easy as sending a text](https://techcrunch.com/2026/04/08/poke-makes-ai-agents-as-easy-as-sending-a-text/)**
   *Poke brings AI agents to everyday users via text message by handling tasks and automations without complex setup, apps, or technical know-how....*
   📅 Wed, 08 Apr 2026 21:05:13 +0000
 
@@ -102,17 +101,15 @@
 
 ### 📑 Dev.to
 
-- **[EU Compliance, Programmable: The API That Turns 19 EU Regulations Into JSON](https://dev.to/sofianehamlaoui/eu-compliance-programmable-the-api-that-turns-19-eu-regulations-into-json-21m)**
-  *<p><a class="article-body-image-wrapper" href="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fupl...*
-  📅 Thu, 09 Apr 2026 01:19:42 +0000
+- **[I Stopped Paying for AI CLI Chaos: This Local Gateway Makes Claude Code, Codex, and Gemini Work as One](https://dev.to/yiyaoai/i-stopped-paying-for-ai-cli-chaos-this-local-gateway-makes-claude-code-codex-and-gemini-work-as-59hl)**
+  *<p>If you are juggling <strong>Claude Code</strong>, <strong>Codex CLI</strong>, <strong>Gemini CLI</strong>, and random API keys across different providers, the setup gets ugly fast.</p>
 
-- **[Day 2: Marketplace Platform - AI System Design in Seconds](https://dev.to/matt_frank_usa/day-2-marketplace-platform-ai-system-design-in-seconds-14b5)**
-  *<p>  
-  
-</p>
+<p>Differen...*
+  📅 Thu, 09 Apr 2026 07:08:09 +0000
 
-<p>Building a two-sided marketplace is one of the most interesting system design challenges you'll encounter. You're not just designing a single application, you're orchestrating intera...*
-  📅 Thu, 09 Apr 2026 01:05:31 +0000
+- **[Google Maps Scraping: Extract Business Data, Reviews, and Local SEO Info](https://dev.to/agenthustler/google-maps-scraping-extract-business-data-reviews-and-local-seo-info-2fn2)**
+  *<p>Google Maps is one of the richest sources of local business data on the internet. From restaurant ratings and opening hours to customer reviews and contact information, the platform holds a treasur...*
+  📅 Thu, 09 Apr 2026 07:06:10 +0000
 
 </details>
 
@@ -120,103 +117,103 @@
 
 ### 📈 Daily Trending
 
-- **[gmorivastec/TC2005B_AD2026_502_1](https://github.com/gmorivastec/TC2005B_AD2026_502_1)** ⭐ 2
-  ![C#](https://img.shields.io/badge/-C#-lightgrey)
-  None
+- **[QLHazyCoder/codex-oauth-automation-extension](https://github.com/QLHazyCoder/codex-oauth-automation-extension)** ⭐ 39
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
+  Chrome扩展：支持OpenAI OAuth注册、验证码获取、CPA回调验证与自动恢复
 
-- **[Dippp10/auto-repo-1775696789-9](https://github.com/Dippp10/auto-repo-1775696789-9)** ⭐ 1
+- **[Txcap/Real-Flash-USDT-nd-BTC-Generator-2026](https://github.com/Txcap/Real-Flash-USDT-nd-BTC-Generator-2026)** ⭐ 19
   ![None](https://img.shields.io/badge/-None-lightgrey)
   None
 
-- **[Dippp10/auto-repo-1775696660-3](https://github.com/Dippp10/auto-repo-1775696660-3)** ⭐ 1
-  ![None](https://img.shields.io/badge/-None-lightgrey)
-  None
+- **[1270011/claude-buddy](https://github.com/1270011/claude-buddy)** ⭐ 14
+  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
+  Keep Your Claude Code Buddy Forever — permanent coding companion that survives every update
 
-- **[CatFatOw/neetcode-submissions](https://github.com/CatFatOw/neetcode-submissions)** ⭐ 1
+- **[TracyWang95/AnythingButLaw](https://github.com/TracyWang95/AnythingButLaw)** ⭐ 14
+  ![None](https://img.shields.io/badge/-None-lightgrey)
+  法外功夫 — Non-legal business skills for lawyers. 9 analytical frameworks (decision analysis, game theory, contract design, accounting, finance, economics, statistics) as a Claude Code AgentSkill.
+
+- **[863401402/she-love-me](https://github.com/863401402/she-love-me)** ⭐ 13
   ![Python](https://img.shields.io/badge/-Python-blue)
-  My NeetCode.io problem submissions
+  None
 
-- **[Dippp10/auto-repo-1775696945-18](https://github.com/Dippp10/auto-repo-1775696945-18)** ⭐ 1
+- **[CrankZ/li-calendar](https://github.com/CrankZ/li-calendar)** ⭐ 14
+  ![Rust](https://img.shields.io/badge/-Rust-brown)
+  跨平台的桌面日历，支持显示农历、节假日、调休、节气等信息
+
+- **[khishan/project-namma-ration](https://github.com/khishan/project-namma-ration)** ⭐ 13
   ![None](https://img.shields.io/badge/-None-lightgrey)
   None
 
-- **[arielsy/fintrack](https://github.com/arielsy/fintrack)** ⭐ 1
-  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
-  Personal finance app built with Next.js, TypeScript and PostgreSQL
-
-- **[eschnei/buddagatchi](https://github.com/eschnei/buddagatchi)** ⭐ 2
-  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
-  None
-
-- **[josetinga/enterprise-network-lab](https://github.com/josetinga/enterprise-network-lab)** ⭐ 1
+- **[Nagendhra-web/memory-bank](https://github.com/Nagendhra-web/memory-bank)** ⭐ 11
   ![None](https://img.shields.io/badge/-None-lightgrey)
-  Multi-site enterprise network lab built in Packet Tracer featuring VLAN segmentation, inter-VLAN routing, OSPF dynamic routing with redistribution, NAT (PAT), DHCP with relay, ACL-based traffic control, and HSRP for gateway redundancy.
+  Persistent memory for Claude Code, 3-5x longer sessions, zero wasted tokens
 
 ### 📈 Weekly Trending
 
-- **[milla-jovovich/mempalace](https://github.com/milla-jovovich/mempalace)** ⭐ 27,406
+- **[milla-jovovich/mempalace](https://github.com/milla-jovovich/mempalace)** ⭐ 29,789
   ![Python](https://img.shields.io/badge/-Python-blue)
   The highest-scoring AI memory system ever benchmarked. And it's free.
 
-- **[santifer/career-ops](https://github.com/santifer/career-ops)** ⭐ 24,568
+- **[santifer/career-ops](https://github.com/santifer/career-ops)** ⭐ 25,606
   ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
   AI-powered job search system built on Claude Code. 14 skill modes, Go dashboard, PDF generation, batch processing.
 
-- **[safishamsi/graphify](https://github.com/safishamsi/graphify)** ⭐ 12,846
+- **[safishamsi/graphify](https://github.com/safishamsi/graphify)** ⭐ 14,258
   ![Python](https://img.shields.io/badge/-Python-blue)
   AI coding assistant skill (Claude Code, Codex, OpenCode, OpenClaw, Factory Droid, Trae). Turn any folder of code, docs, papers, or images into a queryable knowledge graph
 
-- **[JuliusBrussee/caveman](https://github.com/JuliusBrussee/caveman)** ⭐ 7,516
+- **[JuliusBrussee/caveman](https://github.com/JuliusBrussee/caveman)** ⭐ 7,850
   ![Python](https://img.shields.io/badge/-Python-blue)
   🪨 why use many token when few token do trick — Claude Code skill that cuts 65% of tokens by talking like caveman
 
-- **[alchaincyf/nuwa-skill](https://github.com/alchaincyf/nuwa-skill)** ⭐ 3,862
+- **[alchaincyf/nuwa-skill](https://github.com/alchaincyf/nuwa-skill)** ⭐ 4,576
   ![Python](https://img.shields.io/badge/-Python-blue)
   你想蒸馏的下一个员工，何必是同事。蒸馏任何人的思维方式——心智模型、决策启发式、表达DNA。Distill how anyone thinks.
 
-- **[farzaa/clicky](https://github.com/farzaa/clicky)** ⭐ 2,233
+- **[farzaa/clicky](https://github.com/farzaa/clicky)** ⭐ 2,397
   ![Swift](https://img.shields.io/badge/-Swift-lightgrey)
   None
 
-- **[GitFrog1111/badclaude](https://github.com/GitFrog1111/badclaude)** ⭐ 1,496
+- **[GitFrog1111/badclaude](https://github.com/GitFrog1111/badclaude)** ⭐ 1,586
   ![HTML](https://img.shields.io/badge/-HTML-lightgrey)
   None
 
-- **[LaurieWired/tailslayer](https://github.com/LaurieWired/tailslayer)** ⭐ 1,376
+- **[LaurieWired/tailslayer](https://github.com/LaurieWired/tailslayer)** ⭐ 1,459
   ![C++](https://img.shields.io/badge/-C++-pink)
   Library for reducing tail latency in RAM reads
 
 ### 📈 Monthly Trending
 
-- **[ultraworkers/claw-code](https://github.com/ultraworkers/claw-code)** ⭐ 178,358
+- **[ultraworkers/claw-code](https://github.com/ultraworkers/claw-code)** ⭐ 178,795
   ![Rust](https://img.shields.io/badge/-Rust-brown)
   The repo is finally unlocked. enjoy the party! The fastest repo in history to surpass 100K stars ⭐. Join Discord: https://discord.gg/5TUQKqFWd Built in Rust using oh-my-codex.
 
-- **[garrytan/gstack](https://github.com/garrytan/gstack)** ⭐ 67,371
+- **[garrytan/gstack](https://github.com/garrytan/gstack)** ⭐ 67,574
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve as CEO, Designer, Eng Manager, Release Manager, Doc Engineer, and QA
 
-- **[VoltAgent/awesome-design-md](https://github.com/VoltAgent/awesome-design-md)** ⭐ 34,895
+- **[VoltAgent/awesome-design-md](https://github.com/VoltAgent/awesome-design-md)** ⭐ 36,042
   ![None](https://img.shields.io/badge/-None-lightgrey)
   Collection of DESIGN.md files that capture design systems from popular websites. Drop one into your project and let coding agents build matching UI.
 
-- **[milla-jovovich/mempalace](https://github.com/milla-jovovich/mempalace)** ⭐ 27,406
+- **[milla-jovovich/mempalace](https://github.com/milla-jovovich/mempalace)** ⭐ 29,790
   ![Python](https://img.shields.io/badge/-Python-blue)
   The highest-scoring AI memory system ever benchmarked. And it's free.
 
-- **[santifer/career-ops](https://github.com/santifer/career-ops)** ⭐ 24,568
+- **[santifer/career-ops](https://github.com/santifer/career-ops)** ⭐ 25,606
   ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
   AI-powered job search system built on Claude Code. 14 skill modes, Go dashboard, PDF generation, batch processing.
 
-- **[Gitlawb/openclaude](https://github.com/Gitlawb/openclaude)** ⭐ 19,695
+- **[Gitlawb/openclaude](https://github.com/Gitlawb/openclaude)** ⭐ 19,804
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   Open Claude Is Open-source coding-agent CLI for OpenAI, Gemini, DeepSeek, Ollama, Codex, GitHub Models, and 200+ models via OpenAI-compatible APIs.
 
-- **[NVIDIA/NemoClaw](https://github.com/NVIDIA/NemoClaw)** ⭐ 18,783
+- **[NVIDIA/NemoClaw](https://github.com/NVIDIA/NemoClaw)** ⭐ 18,799
   ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
   Run OpenClaw more securely inside NVIDIA OpenShell with managed inference
 
-- **[claude-code-best/claude-code](https://github.com/claude-code-best/claude-code)** ⭐ 14,862
+- **[claude-code-best/claude-code](https://github.com/claude-code-best/claude-code)** ⭐ 14,978
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   原汁原昧 Claude Code 可运行,可构建, 可调试版; Typescript 类型全修复; 企业级可靠性; 安全无毒, lock 文件保真, 可直接 bun i; bun run dev 启动
 
@@ -489,9 +486,9 @@ consolidated into a single option `MockModuleOpti...
 |-------|--------|
 | Java | 🟡 Learning |
 | Python | 🟢 Proficient |
-| JavaScript | 🟡 Learning |
-| TypeScript | 🔴 Beginner |
-| Go | 🟢 Proficient |
+| JavaScript | 🔴 Beginner |
+| TypeScript | 🟡 Learning |
+| Go | 🔴 Beginner |
 
 ### Frameworks
 
@@ -500,44 +497,44 @@ consolidated into a single option `MockModuleOpti...
 | React | ⚪ Planned |
 | Spring Boot | ⚪ Planned |
 | Django | 🟢 Proficient |
-| Node.js | ⚪ Planned |
-| Next.js | 🟢 Proficient |
+| Node.js | 🟡 Learning |
+| Next.js | ⚪ Planned |
 
 ### Cybersecurity
 
 | Skill | Status |
 |-------|--------|
-| Penetration Testing | 🟢 Proficient |
+| Penetration Testing | ⚪ Planned |
 | Web Security | 🔴 Beginner |
-| Network Security | 🔴 Beginner |
-| OWASP | 🔴 Beginner |
+| Network Security | 🟢 Proficient |
+| OWASP | ⚪ Planned |
 
 ### Ai Ml
 
 | Skill | Status |
 |-------|--------|
-| Machine Learning | 🔴 Beginner |
-| Deep Learning | 🔴 Beginner |
-| NLP | 🔴 Beginner |
+| Machine Learning | ⚪ Planned |
+| Deep Learning | 🟢 Proficient |
+| NLP | ⚪ Planned |
 | Computer Vision | 🟡 Learning |
-| TensorFlow | ⚪ Planned |
-| PyTorch | 🔴 Beginner |
+| TensorFlow | 🟡 Learning |
+| PyTorch | ⚪ Planned |
 
 ### Devops
 
 | Skill | Status |
 |-------|--------|
-| Docker | ⚪ Planned |
-| Kubernetes | ⚪ Planned |
-| CI/CD | 🟡 Learning |
-| AWS | 🟡 Learning |
+| Docker | 🔴 Beginner |
+| Kubernetes | 🟢 Proficient |
+| CI/CD | ⚪ Planned |
+| AWS | 🟢 Proficient |
 | Azure | ⚪ Planned |
 
 ### Other
 
 | Skill | Status |
 |-------|--------|
-| Blockchain | ⚪ Planned |
+| Blockchain | 🟡 Learning |
 | Web3 | 🟡 Learning |
 | Cloud Computing | 🔴 Beginner |
 
