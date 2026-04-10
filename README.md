@@ -46,36 +46,37 @@
 
 ### 📑 Hacker News
 
-- **[The tool that won't let AI say anything it can't cite](https://github.com/grainulation/grainulator)**
-  *<p>Article URL: <a href="https://github.com/grainulation/grainulator">https://github.com/grainulation/grainulator</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=47714239">https...*
-  📅 Fri, 10 Apr 2026 06:09:47 +0000
+- **[Intel 486 CPU announced April 10, 1989](https://dfarq.homeip.net/intel-486-cpu-announced-april-10-1989/)**
+  *<p>Article URL: <a href="https://dfarq.homeip.net/intel-486-cpu-announced-april-10-1989/">https://dfarq.homeip.net/intel-486-cpu-announced-april-10-1989/</a></p>
+<p>Comments URL: <a href="https://news...*
+  📅 Fri, 10 Apr 2026 12:03:34 +0000
 
-- **[YouTube locked my accounts and I can't cancel my subscription](https://pocketables.com/2026/04/ai-music-corporate-control-and-the-creator-who-cant-even-leave.html)**
-  *<p>Article URL: <a href="https://pocketables.com/2026/04/ai-music-corporate-control-and-the-creator-who-cant-even-leave.html">https://pocketables.com/2026/04/ai-music-corporate-control-and-the-creator...*
-  📅 Fri, 10 Apr 2026 05:03:22 +0000
+- **[White House staff told not to place bets on prediction markets](https://www.bbc.co.uk/news/articles/cgld65x396go)**
+  *<p>Article URL: <a href="https://www.bbc.co.uk/news/articles/cgld65x396go">https://www.bbc.co.uk/news/articles/cgld65x396go</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=47716...*
+  📅 Fri, 10 Apr 2026 11:47:08 +0000
 
-- **[CollectWise (YC F24) Is Hiring](https://www.ycombinator.com/companies/collectwise/jobs/Ktc6m6o-ai-agent-engineer)**
-  *<p>Article URL: <a href="https://www.ycombinator.com/companies/collectwise/jobs/Ktc6m6o-ai-agent-engineer">https://www.ycombinator.com/companies/collectwise/jobs/Ktc6m6o-ai-agent-engineer</a></p>
-<p>C...*
-  📅 Fri, 10 Apr 2026 04:43:05 +0000
+- **[FBI used iPhone notification data to retrieve deleted Signal messages](https://9to5mac.com/2026/04/09/fbi-used-iphone-notification-data-to-retrieve-deleted-signal-messages/)**
+  *<p>Article URL: <a href="https://9to5mac.com/2026/04/09/fbi-used-iphone-notification-data-to-retrieve-deleted-signal-messages/">https://9to5mac.com/2026/04/09/fbi-used-iphone-notification-data-to-retr...*
+  📅 Fri, 10 Apr 2026 11:29:04 +0000
 
-- **[Afrika Bambaataa, hip-hop pioneer, has died](https://www.bbc.co.uk/news/articles/c2evppm30p7o)**
-  *<p>Article URL: <a href="https://www.bbc.co.uk/news/articles/c2evppm30p7o">https://www.bbc.co.uk/news/articles/c2evppm30p7o</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=47713...*
-  📅 Fri, 10 Apr 2026 04:17:28 +0000
+- **[Microsoft suspends dev accounts for high-profile open source projects](https://www.bleepingcomputer.com/news/microsoft/microsoft-suspends-dev-accounts-for-high-profile-open-source-projects/)**
+  *<p>Article URL: <a href="https://www.bleepingcomputer.com/news/microsoft/microsoft-suspends-dev-accounts-for-high-profile-open-source-projects/">https://www.bleepingcomputer.com/news/microsoft/microso...*
+  📅 Fri, 10 Apr 2026 11:20:51 +0000
 
-- **[Installing OpenBSD on the Pomera DM250{,XY?}](https://jcs.org/2026/04/09/openbsd-dm250)**
-  *<p>Article URL: <a href="https://jcs.org/2026/04/09/openbsd-dm250">https://jcs.org/2026/04/09/openbsd-dm250</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=47713265">https://new...*
-  📅 Fri, 10 Apr 2026 03:29:14 +0000
+- **[France Launches Government Linux Desktop Plan as Windows Exit Begins](https://www.numerique.gouv.fr/sinformer/espace-presse/souverainete-numerique-reduction-dependances-extra-europeennes/)**
+  *<p>Article URL: <a href="https://www.numerique.gouv.fr/sinformer/espace-presse/souverainete-numerique-reduction-dependances-extra-europeennes/">https://www.numerique.gouv.fr/sinformer/espace-presse/so...*
+  📅 Fri, 10 Apr 2026 10:37:33 +0000
 
-- **[The Raft consensus algorithm explained through "Mean Girls" (2019)](https://www.cockroachlabs.com/blog/raft-is-so-fetch/)**
-  *<p>Article URL: <a href="https://www.cockroachlabs.com/blog/raft-is-so-fetch/">https://www.cockroachlabs.com/blog/raft-is-so-fetch/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?...*
-  📅 Fri, 10 Apr 2026 03:03:14 +0000
+- **[Show HN: Keeper – embedded secret store for Go (help me break it)](https://github.com/agberohq/keeper)**
+  *<p>Keeper is an embeddable secret store (Argon2id, XChaCha20-Poly1305 by default). Four security levels, audit chains, crash-safe rotation. Vault is overkill for most use cases. This is for when  you ...*
+  📅 Fri, 10 Apr 2026 08:53:33 +0000
 
 ### 📑 TechCrunch
+
+- **[Snap gets closer to releasing new AI glasses after years-long hiatus](https://techcrunch.com/2026/04/10/snap-gets-closer-to-releasing-new-ai-glasses-after-years-long-hiatus/)**
+  *Specs has long been teasing the next version of its augmented reality glasses. A new partnership with Qualcomm promises some movement in that department....*
+  📅 Fri, 10 Apr 2026 12:00:00 +0000
 
 - **[Florida AG to probe OpenAI, alleging possible connection to FSU shooting](https://techcrunch.com/2026/04/09/florida-ag-to-probe-openai-alleging-possible-connection-to-fsu-shooting/)**
   *Florida Attorney General James Uthmeier plans to investigate OpenAI for its alleged harm to minors, potential to threaten national security, and its possible link to a shooting at Florida State Univer...*
@@ -97,27 +98,25 @@
   *All resources at its U.S. factory are aimed at the upcoming Atlas SUV....*
   📅 Thu, 09 Apr 2026 21:01:36 +0000
 
-- **[Florida AG announces investigation into OpenAI over shooting that allegedly involved ChatGPT](https://techcrunch.com/2026/04/09/florida-ag-investigation-openai-chatgpt-shooting/)**
-  *ChatGPT had reportedly been used to plan the attack that killed two and injured five at Florida State University last April. The family of one victim has said that they plan to sue OpenAI over the inc...*
-  📅 Thu, 09 Apr 2026 20:11:55 +0000
-
 ### 📑 Dev.to
 
-- **["Attention Is All You Need" Paper tahun 2017 yang mengubah dunia kecerdasan buatan, dijelaskan tanpa perlu latar belakang teknis.](https://dev.to/ardisaurus/attention-is-all-you-need-paper-tahun-2017-yang-mengubah-dunia-kecerdasan-buatan-dijelaskan-593h)**
+- **[Unit Testing Alertmanager Routing and Inhibition Rules](https://dev.to/frosnerd/unit-testing-alertmanager-routing-and-inhibition-rules-1hj4)**
   *<h2>
   
   
-  🌍 Mengapa paper ini begitu penting?
+  Introduction
 </h2>
 
-<p>Sebelum 2017, komputer sangat kesulitan memahami dan menghasilkan bahasa manusia. Para peneliti sudah mencoba berbagai pendekatan, tapi semua...*
-  📅 Fri, 10 Apr 2026 07:15:33 +0000
+<p>There are three ways to find out your alertmanager routing tree is broken. You catch it during a careful review before anything goes wrong. You wake up at 3am to a ...*
+  📅 Fri, 10 Apr 2026 12:40:12 +0000
 
-- **["CliGate Now Has a Built-in AI Assistant That Can Configure Your Proxy For You"](https://dev.to/yiyaoai/cligate-now-has-a-built-in-ai-assistant-that-can-configure-your-proxy-for-you-doc)**
-  *<p>Most local dev tools give you a config file and a README. If something breaks, you're on your own.</p>
-
-<p>CliGate just shipped something different: a <strong>built-in AI assistant</strong> that li...*
-  📅 Fri, 10 Apr 2026 07:08:13 +0000
+- **[Working on NoonLaunch which helps founders launch and get discovered.
+https://noonlaunch.com](https://dev.to/avinashvagh/working-on-noonlaunch-which-helps-founders-launch-and-get-discoveredhttpsnoonlaunchcom-1ona)**
+  *<div class="crayons-card c-embed text-styles text-styles--secondary">
+    <div class="c-embed__content">
+      <div class="c-embed__body flex items-center justify-between">
+        <a class="c-link fw...*
+  📅 Fri, 10 Apr 2026 12:38:17 +0000
 
 </details>
 
@@ -125,103 +124,103 @@
 
 ### 📈 Daily Trending
 
-- **[AMAP-ML/SkillClaw](https://github.com/AMAP-ML/SkillClaw)** ⭐ 98
+- **[AMAP-ML/SkillClaw](https://github.com/AMAP-ML/SkillClaw)** ⭐ 172
   ![Python](https://img.shields.io/badge/-Python-blue)
   Let Skills Evolve Collectively with Agentic Evolver 
 
-- **[a2447813206/codex-register](https://github.com/a2447813206/codex-register)** ⭐ 12
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  None
+- **[klsf/codex-register](https://github.com/klsf/codex-register)** ⭐ 128
+  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
+  用于批量注册 OpenAI 账号、登录生成 `auth` 授权文件，以及批量检查凭证剩余可用额度。
 
-- **[chiyou-debug/MyCV](https://github.com/chiyou-debug/MyCV)** ⭐ 11
-  ![Vue](https://img.shields.io/badge/-Vue-lightgrey)
-  一款基于 Vue3 + Element Plus 开发的个人简历在线编辑工具，支持实时预览、PDF 导出等功能。
+- **[CasinoLabs/casino-coinflip-game](https://github.com/CasinoLabs/casino-coinflip-game)** ⭐ 61
+  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
+  stand alone online casino betting game, ready to import in casino platform.
 
-- **[twwch/workflow-skill](https://github.com/twwch/workflow-skill)** ⭐ 7
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  一句话描述你想要的工作流，自动生成 Coze / Dify / ComfyUI 平台可直接导入的完整工作流定义文件——包括节点配置、连线、布局和所有平台特有的格式要求。
+- **[MarchLiu/hypatia](https://github.com/MarchLiu/hypatia)** ⭐ 62
+  ![Rust](https://img.shields.io/badge/-Rust-brown)
+  "We can wander through the stacks of the Library of Alexandria, imagining the scrolls and the knowledge they contain. Its destruction is a warning: all we have is transient.”--Alberto Manguel
 
-- **[LinYS77/PI-agentteam](https://github.com/LinYS77/PI-agentteam)** ⭐ 7
+- **[CasinoLabs/casino-mine-game](https://github.com/CasinoLabs/casino-mine-game)** ⭐ 60
+  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
+  stand alone online casino betting game, ready to import in casino platform.
+
+- **[antfu/tsnapi](https://github.com/antfu/tsnapi)** ⭐ 48
+  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
+  Library public API snapshot testing for runtime exports and type declarations.
+
+- **[DIYgod/cloudflare-edge-tts](https://github.com/DIYgod/cloudflare-edge-tts)** ⭐ 46
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   None
 
-- **[donma/CopilotClawD](https://github.com/donma/CopilotClawD)** ⭐ 7
-  ![C#](https://img.shields.io/badge/-C#-lightgrey)
-  透過 Telegram 操控你本機程式碼的 AI Agent，由 GitHub Copilot SDK 驅動
-
-- **[Wiintosh/Wiintosh](https://github.com/Wiintosh/Wiintosh)** ⭐ 6
-  ![Shell](https://img.shields.io/badge/-Shell-lightgrey)
-  Hackintoshing the Wii and Wii U
-
-- **[zwbao/bioinformatics-god-skill](https://github.com/zwbao/bioinformatics-god-skill)** ⭐ 5
-  ![None](https://img.shields.io/badge/-None-lightgrey)
-  生物信息学之神.skill — 综合50位顶级学者的集体智慧操作系统 | God of Bioinformatics: Collective cognitive OS from 50 top scholars
+- **[Pawandeep-prog/Snapframe](https://github.com/Pawandeep-prog/Snapframe)** ⭐ 25
+  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
+  Local Screenshot generator for play store and app store
 
 ### 📈 Weekly Trending
 
-- **[milla-jovovich/mempalace](https://github.com/milla-jovovich/mempalace)** ⭐ 37,523
+- **[milla-jovovich/mempalace](https://github.com/milla-jovovich/mempalace)** ⭐ 38,807
   ![Python](https://img.shields.io/badge/-Python-blue)
   The highest-scoring AI memory system ever benchmarked. And it's free.
 
-- **[santifer/career-ops](https://github.com/santifer/career-ops)** ⭐ 28,170
+- **[santifer/career-ops](https://github.com/santifer/career-ops)** ⭐ 28,642
   ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
   AI-powered job search system built on Claude Code. 14 skill modes, Go dashboard, PDF generation, batch processing.
 
-- **[JuliusBrussee/caveman](https://github.com/JuliusBrussee/caveman)** ⭐ 9,315
+- **[JuliusBrussee/caveman](https://github.com/JuliusBrussee/caveman)** ⭐ 9,821
   ![Python](https://img.shields.io/badge/-Python-blue)
   🪨 why use many token when few token do trick — Claude Code skill that cuts 65% of tokens by talking like caveman
 
-- **[alchaincyf/nuwa-skill](https://github.com/alchaincyf/nuwa-skill)** ⭐ 6,013
+- **[alchaincyf/nuwa-skill](https://github.com/alchaincyf/nuwa-skill)** ⭐ 6,368
   ![Python](https://img.shields.io/badge/-Python-blue)
   你想蒸馏的下一个员工，何必是同事。蒸馏任何人的思维方式——心智模型、决策启发式、表达DNA。Distill how anyone thinks.
 
-- **[farzaa/clicky](https://github.com/farzaa/clicky)** ⭐ 3,302
+- **[farzaa/clicky](https://github.com/farzaa/clicky)** ⭐ 3,411
   ![Swift](https://img.shields.io/badge/-Swift-lightgrey)
   None
 
-- **[alchaincyf/zhangxuefeng-skill](https://github.com/alchaincyf/zhangxuefeng-skill)** ⭐ 2,590
+- **[alchaincyf/zhangxuefeng-skill](https://github.com/alchaincyf/zhangxuefeng-skill)** ⭐ 2,932
   ![None](https://img.shields.io/badge/-None-lightgrey)
   张雪峰.skill — 张雪峰的认知操作系统。高考志愿/考研/职业规划的实战思维框架。由女娲.skill生成。
 
-- **[xixu-me/awesome-persona-distill-skills](https://github.com/xixu-me/awesome-persona-distill-skills)** ⭐ 2,215
+- **[xixu-me/awesome-persona-distill-skills](https://github.com/xixu-me/awesome-persona-distill-skills)** ⭐ 2,577
   ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
   同事.skill、前任.skill、女娲.skill、自己.skill、乔布斯.skill……
 
-- **[GitFrog1111/badclaude](https://github.com/GitFrog1111/badclaude)** ⭐ 1,825
+- **[GitFrog1111/badclaude](https://github.com/GitFrog1111/badclaude)** ⭐ 1,879
   ![HTML](https://img.shields.io/badge/-HTML-lightgrey)
   None
 
 ### 📈 Monthly Trending
 
-- **[ultraworkers/claw-code](https://github.com/ultraworkers/claw-code)** ⭐ 180,089
+- **[ultraworkers/claw-code](https://github.com/ultraworkers/claw-code)** ⭐ 180,379
   ![Rust](https://img.shields.io/badge/-Rust-brown)
   The repo is finally unlocked. enjoy the party! The fastest repo in history to surpass 100K stars ⭐. Join Discord: https://discord.gg/5TUQKqFWd Built in Rust using oh-my-codex.
 
-- **[VoltAgent/awesome-design-md](https://github.com/VoltAgent/awesome-design-md)** ⭐ 39,651
+- **[VoltAgent/awesome-design-md](https://github.com/VoltAgent/awesome-design-md)** ⭐ 40,511
   ![None](https://img.shields.io/badge/-None-lightgrey)
-  Collection of DESIGN.md files that capture design systems from popular websites. Drop one into your project and let coding agents build matching UI.
+  A collection of DESIGN.md files inspired by popular brand design systems. Drop one into your project and let coding agents generate a matching UI.
 
-- **[milla-jovovich/mempalace](https://github.com/milla-jovovich/mempalace)** ⭐ 37,523
+- **[milla-jovovich/mempalace](https://github.com/milla-jovovich/mempalace)** ⭐ 38,807
   ![Python](https://img.shields.io/badge/-Python-blue)
   The highest-scoring AI memory system ever benchmarked. And it's free.
 
-- **[santifer/career-ops](https://github.com/santifer/career-ops)** ⭐ 28,170
+- **[santifer/career-ops](https://github.com/santifer/career-ops)** ⭐ 28,642
   ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
   AI-powered job search system built on Claude Code. 14 skill modes, Go dashboard, PDF generation, batch processing.
 
-- **[Gitlawb/openclaude](https://github.com/Gitlawb/openclaude)** ⭐ 20,231
+- **[Gitlawb/openclaude](https://github.com/Gitlawb/openclaude)** ⭐ 20,303
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   Open Claude Is Open-source coding-agent CLI for OpenAI, Gemini, DeepSeek, Ollama, Codex, GitHub Models, and 200+ models via OpenAI-compatible APIs.
 
-- **[NVIDIA/NemoClaw](https://github.com/NVIDIA/NemoClaw)** ⭐ 18,865
-  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
-  Run OpenClaw more securely inside NVIDIA OpenShell with managed inference
-
-- **[safishamsi/graphify](https://github.com/safishamsi/graphify)** ⭐ 18,649
+- **[safishamsi/graphify](https://github.com/safishamsi/graphify)** ⭐ 19,420
   ![Python](https://img.shields.io/badge/-Python-blue)
   AI coding assistant skill (Claude Code, Codex, OpenCode, Cursor, Gemini CLI, OpenClaw, Factory Droid, Trae). Turn any folder of code, docs, papers, or images into a queryable knowledge graph
 
-- **[claude-code-best/claude-code](https://github.com/claude-code-best/claude-code)** ⭐ 15,186
+- **[NVIDIA/NemoClaw](https://github.com/NVIDIA/NemoClaw)** ⭐ 18,884
+  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
+  Run OpenClaw more securely inside NVIDIA OpenShell with managed inference
+
+- **[claude-code-best/claude-code](https://github.com/claude-code-best/claude-code)** ⭐ 15,250
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   原汁原昧 Claude Code 可运行,可构建, 可调试版; Typescript 类型全修复; 企业级可靠性; 安全无毒, lock 文件保真, 可直接 bun i; bun run dev 启动
 
@@ -492,38 +491,38 @@ consolidated into a single option `MockModuleOpti...
 | Skill | Status |
 |-------|--------|
 | Java | 🟡 Learning |
-| Python | 🔴 Beginner |
+| Python | 🟡 Learning |
 | JavaScript | 🟢 Proficient |
 | TypeScript | 🔴 Beginner |
-| Go | 🟡 Learning |
+| Go | 🔴 Beginner |
 
 ### Frameworks
 
 | Skill | Status |
 |-------|--------|
-| React | 🟢 Proficient |
-| Spring Boot | ⚪ Planned |
-| Django | 🔴 Beginner |
+| React | 🔴 Beginner |
+| Spring Boot | 🔴 Beginner |
+| Django | ⚪ Planned |
 | Node.js | 🟢 Proficient |
-| Next.js | 🟡 Learning |
+| Next.js | 🟢 Proficient |
 
 ### Cybersecurity
 
 | Skill | Status |
 |-------|--------|
-| Penetration Testing | 🟡 Learning |
-| Web Security | 🔴 Beginner |
-| Network Security | 🔴 Beginner |
-| OWASP | 🔴 Beginner |
+| Penetration Testing | ⚪ Planned |
+| Web Security | ⚪ Planned |
+| Network Security | ⚪ Planned |
+| OWASP | ⚪ Planned |
 
 ### Ai Ml
 
 | Skill | Status |
 |-------|--------|
-| Machine Learning | 🔴 Beginner |
-| Deep Learning | 🔴 Beginner |
-| NLP | ⚪ Planned |
-| Computer Vision | ⚪ Planned |
+| Machine Learning | 🟢 Proficient |
+| Deep Learning | 🟡 Learning |
+| NLP | 🟡 Learning |
+| Computer Vision | 🔴 Beginner |
 | TensorFlow | ⚪ Planned |
 | PyTorch | 🟡 Learning |
 
@@ -531,18 +530,18 @@ consolidated into a single option `MockModuleOpti...
 
 | Skill | Status |
 |-------|--------|
-| Docker | 🟡 Learning |
-| Kubernetes | 🟢 Proficient |
+| Docker | 🟢 Proficient |
+| Kubernetes | 🔴 Beginner |
 | CI/CD | 🔴 Beginner |
-| AWS | 🟡 Learning |
-| Azure | 🟡 Learning |
+| AWS | ⚪ Planned |
+| Azure | 🟢 Proficient |
 
 ### Other
 
 | Skill | Status |
 |-------|--------|
-| Blockchain | 🟢 Proficient |
-| Web3 | 🟢 Proficient |
+| Blockchain | 🔴 Beginner |
+| Web3 | 🔴 Beginner |
 | Cloud Computing | ⚪ Planned |
 
 </details>
