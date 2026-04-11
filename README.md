@@ -46,34 +46,33 @@
 
 ### 📑 Hacker News
 
+- **[Tesla's supervised self-driving software gets Dutch okay, first in Europe](https://www.reuters.com/business/teslas-self-driving-software-gets-dutch-go-ahead-boost-eu-ambitions-2026-04-10/)**
+  *<p>Article URL: <a href="https://www.reuters.com/business/teslas-self-driving-software-gets-dutch-go-ahead-boost-eu-ambitions-2026-04-10/">https://www.reuters.com/business/teslas-self-driving-software...*
+  📅 Sat, 11 Apr 2026 06:22:01 +0000
+
+- **[20 Years on AWS and Never Not My Job](https://www.daemonology.net/blog/2026-04-11-20-years-on-AWS-and-never-not-my-job.html)**
+  *<p>Article URL: <a href="https://www.daemonology.net/blog/2026-04-11-20-years-on-AWS-and-never-not-my-job.html">https://www.daemonology.net/blog/2026-04-11-20-years-on-AWS-and-never-not-my-job.html</a...*
+  📅 Sat, 11 Apr 2026 05:31:10 +0000
+
+- **[Productive Procrastination](https://www.maxvanijsselmuiden.nl/blog/productive-procrastination/)**
+  *<p>Article URL: <a href="https://www.maxvanijsselmuiden.nl/blog/productive-procrastination/">https://www.maxvanijsselmuiden.nl/blog/productive-procrastination/</a></p>
+<p>Comments URL: <a href="https:...*
+  📅 Sat, 11 Apr 2026 05:21:21 +0000
+
+- **[Great at gaming? US air traffic control wants you to apply](https://www.bbc.com/news/articles/ce84rvx0e6do)**
+  *<p>Article URL: <a href="https://www.bbc.com/news/articles/ce84rvx0e6do">https://www.bbc.com/news/articles/ce84rvx0e6do</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=47727575"...*
+  📅 Sat, 11 Apr 2026 05:04:17 +0000
+
+- **[Quien – A better WHOIS lookup tool](https://github.com/retlehs/quien/)**
+  *<p>Article URL: <a href="https://github.com/retlehs/quien/">https://github.com/retlehs/quien/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=47727076">https://news.ycombinator....*
+  📅 Sat, 11 Apr 2026 03:31:30 +0000
+
 - **[Artemis II safely splashes down](https://www.cbsnews.com/live-updates/artemis-ii-splashdown-return/)**
   *<p>Article URL: <a href="https://www.cbsnews.com/live-updates/artemis-ii-splashdown-return/">https://www.cbsnews.com/live-updates/artemis-ii-splashdown-return/</a></p>
 <p>Comments URL: <a href="https:...*
   📅 Sat, 11 Apr 2026 00:10:51 +0000
-
-- **[Italo Calvino: A Traveller in a World of Uncertainty](https://www.historytoday.com/archive/portrait-author-historian/italo-calvino-traveller-world-uncertainty)**
-  *<p>Article URL: <a href="https://www.historytoday.com/archive/portrait-author-historian/italo-calvino-traveller-world-uncertainty">https://www.historytoday.com/archive/portrait-author-historian/italo-...*
-  📅 Fri, 10 Apr 2026 23:48:07 +0000
-
-- **[Sam Altman's response to Molotov cocktail incident](https://blog.samaltman.com/2279512)**
-  *<p>Article URL: <a href="https://blog.samaltman.com/2279512">https://blog.samaltman.com/2279512</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=47724921">https://news.ycombinato...*
-  📅 Fri, 10 Apr 2026 23:05:48 +0000
-
-- **[Filing the corners off my MacBooks](https://kentwalters.com/posts/corners/)**
-  *<p>Article URL: <a href="https://kentwalters.com/posts/corners/">https://kentwalters.com/posts/corners/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=47724352">https://news.yc...*
-  📅 Fri, 10 Apr 2026 22:16:40 +0000
-
-- **[Installing Every* Firefox Extension](https://jack.cab/blog/every-firefox-extension)**
-  *<p>Article URL: <a href="https://jack.cab/blog/every-firefox-extension">https://jack.cab/blog/every-firefox-extension</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=47724118">h...*
-  📅 Fri, 10 Apr 2026 21:56:33 +0000
-
-- **[Nowhere is safe](https://steveblank.com/2026/04/09/nowhere-is-safe/)**
-  *<p>Article URL: <a href="https://steveblank.com/2026/04/09/nowhere-is-safe/">https://steveblank.com/2026/04/09/nowhere-is-safe/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=4...*
-  📅 Fri, 10 Apr 2026 19:27:58 +0000
 
 ### 📑 TechCrunch
 
@@ -103,22 +102,15 @@
 
 ### 📑 Dev.to
 
-- **[Why Chunking Is the Biggest Mistake in RAG Systems](https://dev.to/ranjancse/why-chunking-is-the-biggest-mistake-in-rag-systems-50cm)**
-  *<p>Retrieval-Augmented Generation (RAG) has become the default architecture for building AI-powered document intelligence systems. Most implementations follow the same pattern:</p>
+- **[Automate Your Links: A Developer's Guide to the toui.io API](https://dev.to/thebrecht/automate-your-links-a-developers-guide-to-the-touiio-api-gam)**
+  *<p>Your marketing team just dropped 50 product URLs into a shared spreadsheet. Subject line: "Flash sale this weekend -- need trackable links for all of these by Friday."</p>
 
-<ol>
-<li>Split doc...*
-  📅 Sat, 11 Apr 2026 01:13:21 +0000
+<p>You open the spreadsh...*
+  📅 Sat, 11 Apr 2026 06:46:41 +0000
 
-- **[Finding meaning in text, an experiment in document clustering](https://dev.to/sidharth/finding-meaning-in-text-an-experiment-in-document-clustering-2fme)**
-  *<h2>
-  
-  
-  Problem
-</h2>
-
-<p>For an assignment in the University of British Columbia's CPSC330 course in Applied Machine Learning, we were tasked with categorizing titles pulled from <a href="https:...*
-  📅 Sat, 11 Apr 2026 01:13:21 +0000
+- **[How to Turn a 1-Hour YouTube Video into 10 Viral Clips Using AI](https://dev.to/kyle_clipspeedai/how-to-turn-a-1-hour-youtube-video-into-10-viral-clips-using-ai-3aen)**
+  *<p>If you've ever recorded a long YouTube video or livestream and stared at the timeline wondering how to squeeze out the best moments — you're not alone. Most creators waste 5–10 hours per week doing...*
+  📅 Sat, 11 Apr 2026 06:39:39 +0000
 
 </details>
 
@@ -126,103 +118,103 @@
 
 ### 📈 Daily Trending
 
-- **[ailingqu/nanobananas-api-guide](https://github.com/ailingqu/nanobananas-api-guide)** ⭐ 4
-  ![None](https://img.shields.io/badge/-None-lightgrey)
-  Claude Code Skill for NanoBananas.AI API — AI image & video generation with 5 image models, 4 video models, Python/Node.js/cURL examples, and pricing reference.
+- **[xuange520/ruishu-mcp](https://github.com/xuange520/ruishu-mcp)** ⭐ 18
+  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
+  🚀 专为 AI Agent 打造的瑞数防爬流量净化 MCP 工具 / An MCP Tool for AI Agents to Stealthily Bypass and Purify Ruishu WAF Traffic
 
-- **[Hona/temple-oc](https://github.com/Hona/temple-oc)** ⭐ 3
+- **[ZhangHanDong/hermes-book](https://github.com/ZhangHanDong/hermes-book)** ⭐ 17
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
+  Hermes Agent Book
+
+- **[Hona/temple-oc](https://github.com/Hona/temple-oc)** ⭐ 14
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   Public domain coding station for OpenCode. HolyC first. White field. Red frame. Oracle ready.
 
-- **[Gastonfoncea/Justkill](https://github.com/Gastonfoncea/Justkill)** ⭐ 2
-  ![None](https://img.shields.io/badge/-None-lightgrey)
+- **[nuraddin-abdusharipov/Jarvis-ai](https://github.com/nuraddin-abdusharipov/Jarvis-ai)** ⭐ 10
+  ![Python](https://img.shields.io/badge/-Python-blue)
   None
 
-- **[Moncef37i/portfoliov2](https://github.com/Moncef37i/portfoliov2)** ⭐ 2
-  ![SCSS](https://img.shields.io/badge/-SCSS-lightgrey)
-  None
+- **[shinkuan/Waifuland](https://github.com/shinkuan/Waifuland)** ⭐ 10
+  ![C++](https://img.shields.io/badge/-C++-pink)
+  A Linux desktop Live2D model viewer that renders characters as transparent Wayland overlay windows using wlr-layer-shell.
 
-- **[BaselAshraf81/vibellm](https://github.com/BaselAshraf81/vibellm)** ⭐ 2
+- **[cv-cat/HeadlineApis](https://github.com/cv-cat/HeadlineApis)** ⭐ 7
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
+  Headline(TouTiao) 今日头条算法逆向
+
+- **[cv-cat/WechatOAApis](https://github.com/cv-cat/WechatOAApis)** ⭐ 7
   ![Python](https://img.shields.io/badge/-Python-blue)
-  LLM randomizer, generate random weights and structure.
+  WeChat Official Accounts 微信公众号算法逆向
 
-- **[qurixion/congenial-waffle](https://github.com/qurixion/congenial-waffle)** ⭐ 2
+- **[inureyes/gyeol](https://github.com/inureyes/gyeol)** ⭐ 7
   ![Python](https://img.shields.io/badge/-Python-blue)
-  A Google Maps lead generation tool that extracts business information and scrapes contact details from websites.
-
-- **[barafares/Fixdz](https://github.com/barafares/Fixdz)** ⭐ 1
-  ![None](https://img.shields.io/badge/-None-lightgrey)
-  an app to report issues inside algeria
-
-- **[gtxaspec/jz-aes](https://github.com/gtxaspec/jz-aes)** ⭐ 1
-  ![C](https://img.shields.io/badge/-C-lightgrey)
   None
 
 ### 📈 Weekly Trending
 
-- **[milla-jovovich/mempalace](https://github.com/milla-jovovich/mempalace)** ⭐ 40,080
+- **[milla-jovovich/mempalace](https://github.com/milla-jovovich/mempalace)** ⭐ 40,503
   ![Python](https://img.shields.io/badge/-Python-blue)
   The highest-scoring AI memory system ever benchmarked. And it's free.
 
-- **[alchaincyf/nuwa-skill](https://github.com/alchaincyf/nuwa-skill)** ⭐ 6,618
+- **[alchaincyf/nuwa-skill](https://github.com/alchaincyf/nuwa-skill)** ⭐ 6,821
   ![Python](https://img.shields.io/badge/-Python-blue)
   你想蒸馏的下一个员工，何必是同事。蒸馏任何人的思维方式——心智模型、决策启发式、表达DNA。Distill how anyone thinks.
 
-- **[farzaa/clicky](https://github.com/farzaa/clicky)** ⭐ 3,566
+- **[farzaa/clicky](https://github.com/farzaa/clicky)** ⭐ 3,606
   ![Swift](https://img.shields.io/badge/-Swift-lightgrey)
   None
 
-- **[alchaincyf/zhangxuefeng-skill](https://github.com/alchaincyf/zhangxuefeng-skill)** ⭐ 3,106
-  ![None](https://img.shields.io/badge/-None-lightgrey)
-  张雪峰.skill — 张雪峰的认知操作系统。高考志愿/考研/职业规划的实战思维框架。由女娲.skill生成。
-
-- **[xixu-me/awesome-persona-distill-skills](https://github.com/xixu-me/awesome-persona-distill-skills)** ⭐ 2,852
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
-  同事.skill, 女娲.skill, 前任.skill… Curated list of Agent Skills centered on people, relationships, commemorative scenes, and methodological perspectives
-
-- **[garrytan/gbrain](https://github.com/garrytan/gbrain)** ⭐ 2,504
+- **[garrytan/gbrain](https://github.com/garrytan/gbrain)** ⭐ 3,273
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   Garry's Opinionated OpenClaw/Hermes Agent Brain
 
-- **[LaurieWired/tailslayer](https://github.com/LaurieWired/tailslayer)** ⭐ 1,912
+- **[alchaincyf/zhangxuefeng-skill](https://github.com/alchaincyf/zhangxuefeng-skill)** ⭐ 3,233
+  ![None](https://img.shields.io/badge/-None-lightgrey)
+  张雪峰.skill — 张雪峰的认知操作系统。高考志愿/考研/职业规划的实战思维框架。由女娲.skill生成。
+
+- **[xixu-me/awesome-persona-distill-skills](https://github.com/xixu-me/awesome-persona-distill-skills)** ⭐ 2,956
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
+  同事.skill, 女娲.skill, 前任.skill… Curated list of Agent Skills centered on people, relationships, commemorative scenes, and methodological perspectives
+
+- **[LaurieWired/tailslayer](https://github.com/LaurieWired/tailslayer)** ⭐ 1,938
   ![C++](https://img.shields.io/badge/-C++-pink)
   Library for reducing tail latency in RAM reads
 
-- **[hotcoffeeshake/tong-jincheng-skill](https://github.com/hotcoffeeshake/tong-jincheng-skill)** ⭐ 1,518
+- **[alchaincyf/hermes-agent-orange-book](https://github.com/alchaincyf/hermes-agent-orange-book)** ⭐ 1,586
   ![None](https://img.shields.io/badge/-None-lightgrey)
-  童锦程视角 Skill — 用深情祖师爷的思维框架分析人际关系
+  Hermes Agent 从入门到精通 · 橙皮书系列 · Nous Research 开源 AI Agent 框架实战指南
 
 ### 📈 Monthly Trending
 
-- **[ultraworkers/claw-code](https://github.com/ultraworkers/claw-code)** ⭐ 180,803
+- **[ultraworkers/claw-code](https://github.com/ultraworkers/claw-code)** ⭐ 181,002
   ![Rust](https://img.shields.io/badge/-Rust-brown)
   The repo is finally unlocked. enjoy the party! The fastest repo in history to surpass 100K stars ⭐. Join Discord: https://discord.gg/5TUQKqFWd Built in Rust using oh-my-codex.
 
-- **[VoltAgent/awesome-design-md](https://github.com/VoltAgent/awesome-design-md)** ⭐ 41,670
+- **[VoltAgent/awesome-design-md](https://github.com/VoltAgent/awesome-design-md)** ⭐ 42,201
   ![None](https://img.shields.io/badge/-None-lightgrey)
   A collection of DESIGN.md files inspired by popular brand design systems. Drop one into your project and let coding agents generate a matching UI.
 
-- **[milla-jovovich/mempalace](https://github.com/milla-jovovich/mempalace)** ⭐ 40,080
+- **[milla-jovovich/mempalace](https://github.com/milla-jovovich/mempalace)** ⭐ 40,503
   ![Python](https://img.shields.io/badge/-Python-blue)
   The highest-scoring AI memory system ever benchmarked. And it's free.
 
-- **[santifer/career-ops](https://github.com/santifer/career-ops)** ⭐ 29,416
+- **[santifer/career-ops](https://github.com/santifer/career-ops)** ⭐ 29,683
   ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
   AI-powered job search system built on Claude Code. 14 skill modes, Go dashboard, PDF generation, batch processing.
 
-- **[Gitlawb/openclaude](https://github.com/Gitlawb/openclaude)** ⭐ 20,458
-  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
-  Open Claude Is Open-source coding-agent CLI for OpenAI, Gemini, DeepSeek, Ollama, Codex, GitHub Models, and 200+ models via OpenAI-compatible APIs.
-
-- **[safishamsi/graphify](https://github.com/safishamsi/graphify)** ⭐ 20,292
+- **[safishamsi/graphify](https://github.com/safishamsi/graphify)** ⭐ 20,712
   ![Python](https://img.shields.io/badge/-Python-blue)
   AI coding assistant skill (Claude Code, Codex, OpenCode, Cursor, Gemini CLI, OpenClaw, Factory Droid, Trae). Turn any folder of code, docs, papers, images, videos, or YouTube links into a queryable knowledge graph
 
-- **[NVIDIA/NemoClaw](https://github.com/NVIDIA/NemoClaw)** ⭐ 18,917
+- **[Gitlawb/openclaude](https://github.com/Gitlawb/openclaude)** ⭐ 20,497
+  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
+  Open Claude Is Open-source coding-agent CLI for OpenAI, Gemini, DeepSeek, Ollama, Codex, GitHub Models, and 200+ models via OpenAI-compatible APIs.
+
+- **[NVIDIA/NemoClaw](https://github.com/NVIDIA/NemoClaw)** ⭐ 18,928
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   Run OpenClaw more securely inside NVIDIA OpenShell with managed inference
 
-- **[claude-code-best/claude-code](https://github.com/claude-code-best/claude-code)** ⭐ 15,294
+- **[claude-code-best/claude-code](https://github.com/claude-code-best/claude-code)** ⭐ 15,326
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   原汁原昧 Claude Code 可运行,可构建, 可调试版; Typescript 类型全修复; 企业级可靠性; 安全无毒, lock 文件保真, 可直接 bun i; bun run dev 启动
 
@@ -492,28 +484,28 @@ consolidated into a single option `MockModuleOpti...
 
 | Skill | Status |
 |-------|--------|
-| Java | ⚪ Planned |
-| Python | 🟡 Learning |
-| JavaScript | 🟡 Learning |
+| Java | 🟢 Proficient |
+| Python | ⚪ Planned |
+| JavaScript | 🟢 Proficient |
 | TypeScript | 🟡 Learning |
-| Go | 🟢 Proficient |
+| Go | ⚪ Planned |
 
 ### Frameworks
 
 | Skill | Status |
 |-------|--------|
-| React | ⚪ Planned |
-| Spring Boot | 🔴 Beginner |
+| React | 🟡 Learning |
+| Spring Boot | ⚪ Planned |
 | Django | 🔴 Beginner |
-| Node.js | ⚪ Planned |
-| Next.js | 🟡 Learning |
+| Node.js | 🔴 Beginner |
+| Next.js | 🔴 Beginner |
 
 ### Cybersecurity
 
 | Skill | Status |
 |-------|--------|
 | Penetration Testing | ⚪ Planned |
-| Web Security | 🟡 Learning |
+| Web Security | 🔴 Beginner |
 | Network Security | 🟢 Proficient |
 | OWASP | ⚪ Planned |
 
@@ -521,30 +513,30 @@ consolidated into a single option `MockModuleOpti...
 
 | Skill | Status |
 |-------|--------|
-| Machine Learning | 🟡 Learning |
-| Deep Learning | 🟢 Proficient |
-| NLP | 🟡 Learning |
-| Computer Vision | 🔴 Beginner |
+| Machine Learning | ⚪ Planned |
+| Deep Learning | 🟡 Learning |
+| NLP | ⚪ Planned |
+| Computer Vision | ⚪ Planned |
 | TensorFlow | ⚪ Planned |
-| PyTorch | 🔴 Beginner |
+| PyTorch | 🟡 Learning |
 
 ### Devops
 
 | Skill | Status |
 |-------|--------|
-| Docker | 🟡 Learning |
-| Kubernetes | 🟡 Learning |
-| CI/CD | ⚪ Planned |
+| Docker | ⚪ Planned |
+| Kubernetes | 🟢 Proficient |
+| CI/CD | 🟡 Learning |
 | AWS | ⚪ Planned |
-| Azure | 🟡 Learning |
+| Azure | ⚪ Planned |
 
 ### Other
 
 | Skill | Status |
 |-------|--------|
-| Blockchain | 🔴 Beginner |
-| Web3 | ⚪ Planned |
-| Cloud Computing | ⚪ Planned |
+| Blockchain | 🟡 Learning |
+| Web3 | 🟢 Proficient |
+| Cloud Computing | 🟡 Learning |
 
 </details>
 
