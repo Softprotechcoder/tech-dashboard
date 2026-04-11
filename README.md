@@ -46,35 +46,43 @@
 
 ### 📑 Hacker News
 
-- **[France's government is ditching Windows for Linux, says US tech a strategic risk](https://www.xda-developers.com/frances-government-ditching-windows-for-linux/)**
-  *<p>Article URL: <a href="https://www.xda-developers.com/frances-government-ditching-windows-for-linux/">https://www.xda-developers.com/frances-government-ditching-windows-for-linux/</a></p>
-<p>Comment...*
-  📅 Sat, 11 Apr 2026 08:25:14 +0000
+- **[Small models also found the vulnerabilities that Mythos found](https://aisle.com/blog/ai-cybersecurity-after-mythos-the-jagged-frontier)**
+  *<p>Article URL: <a href="https://aisle.com/blog/ai-cybersecurity-after-mythos-the-jagged-frontier">https://aisle.com/blog/ai-cybersecurity-after-mythos-the-jagged-frontier</a></p>
+<p>Comments URL: <a ...*
+  📅 Sat, 11 Apr 2026 16:47:28 +0000
 
-- **[Show HN: Pardonned.com – A searchable database of US Pardons](https://news.ycombinator.com/item?id=47727960)**
-  *<p><a href="https://pardonned.com" rel="nofollow">https://pardonned.com</a><p>Inspired by the videos of Liz Oyer, I wanted to be able to verify her claims and just look up all the pardons more easily....*
-  📅 Sat, 11 Apr 2026 06:19:25 +0000
+- **[Phone Trips](http://www.wideweb.com/phonetrips/)**
+  *<p>Article URL: <a href="http://www.wideweb.com/phonetrips/">http://www.wideweb.com/phonetrips/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=47731998">https://news.ycombinato...*
+  📅 Sat, 11 Apr 2026 16:43:40 +0000
 
-- **[20 years on AWS and never not my job](https://www.daemonology.net/blog/2026-04-11-20-years-on-AWS-and-never-not-my-job.html)**
-  *<p>Article URL: <a href="https://www.daemonology.net/blog/2026-04-11-20-years-on-AWS-and-never-not-my-job.html">https://www.daemonology.net/blog/2026-04-11-20-years-on-AWS-and-never-not-my-job.html</a...*
-  📅 Sat, 11 Apr 2026 05:31:10 +0000
+- **[The disturbing white paper Red Hat is trying to erase from the internet](https://www.osnews.com/story/144776/the-disturbing-white-paper-red-hat-is-trying-to-erase-from-the-internet/)**
+  *<p>Article URL: <a href="https://www.osnews.com/story/144776/the-disturbing-white-paper-red-hat-is-trying-to-erase-from-the-internet/">https://www.osnews.com/story/144776/the-disturbing-white-paper-re...*
+  📅 Sat, 11 Apr 2026 16:38:50 +0000
 
-- **[Productive Procrastination](https://www.maxvanijsselmuiden.nl/blog/productive-procrastination/)**
-  *<p>Article URL: <a href="https://www.maxvanijsselmuiden.nl/blog/productive-procrastination/">https://www.maxvanijsselmuiden.nl/blog/productive-procrastination/</a></p>
-<p>Comments URL: <a href="https:...*
-  📅 Sat, 11 Apr 2026 05:21:21 +0000
+- **[Keeping a Postgres Queue Healthy](https://planetscale.com/blog/keeping-a-postgres-queue-healthy)**
+  *<p>Article URL: <a href="https://planetscale.com/blog/keeping-a-postgres-queue-healthy">https://planetscale.com/blog/keeping-a-postgres-queue-healthy</a></p>
+<p>Comments URL: <a href="https://news.yco...*
+  📅 Sat, 11 Apr 2026 16:24:08 +0000
 
-- **[Quien – A better WHOIS lookup tool](https://github.com/retlehs/quien/)**
-  *<p>Article URL: <a href="https://github.com/retlehs/quien/">https://github.com/retlehs/quien/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=47727076">https://news.ycombinator....*
-  📅 Sat, 11 Apr 2026 03:31:30 +0000
+- **[Rockstar Games Hacked, Hackers Threaten a Massive Data Leak If Not Paid Ransom](https://kotaku.com/rockstar-games-reportedly-hacked-massive-data-leak-ransom-gta-6-shinyhunters-2000686858)**
+  *<p>Article URL: <a href="https://kotaku.com/rockstar-games-reportedly-hacked-massive-data-leak-ransom-gta-6-shinyhunters-2000686858">https://kotaku.com/rockstar-games-reportedly-hacked-massive-data-le...*
+  📅 Sat, 11 Apr 2026 16:04:52 +0000
 
-- **[Artemis II safely splashes down](https://www.cbsnews.com/live-updates/artemis-ii-splashdown-return/)**
-  *<p>Article URL: <a href="https://www.cbsnews.com/live-updates/artemis-ii-splashdown-return/">https://www.cbsnews.com/live-updates/artemis-ii-splashdown-return/</a></p>
-<p>Comments URL: <a href="https:...*
-  📅 Sat, 11 Apr 2026 00:10:51 +0000
+- **[Advanced Mac Substitute is an API-level reimplementation of 1980s-era Mac OS](https://www.v68k.org/advanced-mac-substitute/)**
+  *<p>Article URL: <a href="https://www.v68k.org/advanced-mac-substitute/">https://www.v68k.org/advanced-mac-substitute/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=47731506">h...*
+  📅 Sat, 11 Apr 2026 15:39:19 +0000
 
 ### 📑 TechCrunch
+
+- **[Sam Altman responds to ‘incendiary’ New Yorker article after attack on his home](https://techcrunch.com/2026/04/11/sam-altman-responds-to-incendiary-new-yorker-article-after-attack-on-his-home/)**
+  *The OpenAI CEO's new blog post responds to both an apparent attack on his home and an in-depth New Yorker profile raising questions about his trustworthiness....*
+  📅 Sat, 11 Apr 2026 17:18:22 +0000
+
+- **[Nvidia-backed SiFive hits $3.65 billion valuation for open AI chips](https://techcrunch.com/2026/04/11/nvidia-backed-sifive-hits-3-65-billion-valuation-for-open-ai-chips/)**
+  *The deal is interesting for a number of reasons, including that SiFive's chip designs are based on RISC-V, not x86 or ARM....*
+  📅 Sat, 11 Apr 2026 14:03:00 +0000
 
 - **[NASA Artemis II splashes down in Pacific Ocean in ‘perfect’ landing for Moon mission](https://techcrunch.com/2026/04/10/nasa-artemis-ii-landing-pacific-ocean-splash-down/)**
   *The Integrity craft splashed down in the Pacific Ocean off the coast of San Diego just after 5:07 p.m. Pacific Time....*
@@ -92,33 +100,25 @@
   *Ascend Elements said that it will be filing for Chapter 11 bankruptcy in the wake of a canceled government grant and a challenging market for lithium-ion batteries....*
   📅 Fri, 10 Apr 2026 19:16:52 +0000
 
-- **[Stalking victim sues OpenAI, claims ChatGPT fueled her abuser’s delusions and ignored her warnings](https://techcrunch.com/2026/04/10/stalking-victim-sues-openai-claims-chatgpt-fueled-her-abusers-delusions-and-ignored-her-warnings/)**
-  *OpenAI ignored three warnings that a ChatGPT user was dangerous — including its own mass-casualty flag — while he stalked and harassed his ex-girlfriend, a new lawsuit alleges....*
-  📅 Fri, 10 Apr 2026 16:41:34 +0000
-
-- **[TechCrunch is heading to Tokyo — and bringing the Startup Battlefield with it](https://techcrunch.com/2026/04/10/techcrunch-is-heading-to-tokyo-and-bringing-the-startup-battlefield-with-it/)**
-  *SusHi Tech 2026 is zeroing in on four technology domains reshaping society: AI, Robotics, Resilience, and Entertainment. Expect live demos of humanoid robots, sessions on autonomous driving's software...*
-  📅 Fri, 10 Apr 2026 16:38:43 +0000
-
 ### 📑 Dev.to
 
-- **[I built a local screen reader that reads your screen aloud — no cloud, no API keys](https://dev.to/paradisecy/i-built-a-local-screen-reader-that-reads-your-screen-aloud-no-cloud-no-api-keys-m9)**
-  *<p>I got tired of switching between reading and listening, so I built <strong>sttts</strong> — a local pipeline that watches any region of your screen, OCRs it, and speaks it aloud in real time. Every...*
-  📅 Sat, 11 Apr 2026 12:30:17 +0000
-
-- **[SQL Concepts and Practical Application](https://dev.to/noelmwamilab/sql-concepts-and-practical-application-17dd)**
+- **[Building a Figma to GitHub token pipeline that actually works](https://dev.to/alexandersstudi/building-a-figma-to-github-token-pipeline-that-actually-works-3o0o)**
   *<h2>
   
   
-  1. DDL vs DML
+  The problem
 </h2>
 
-<p>SQL commands are mainly divided into:</p>
+<p>Picture this. It is a Friday afternoon. Your team is getting ready for a big release. The design team decided earlier that week to tweak the primary brand colour. Th...*
+  📅 Sat, 11 Apr 2026 18:24:01 +0000
 
-<ul>
-<li>
-<strong>DDL (Data Definition Language):</strong> Used to define and structure database objects such as tables....*
-  📅 Sat, 11 Apr 2026 12:24:07 +0000
+- **[Claude Managed Agents Deep Dive: Anthropic's New AI Agent Infrastructure (2026)](https://dev.to/bean_bean/claude-managed-agents-deep-dive-anthropics-new-ai-agent-infrastructure-2026-3286)**
+  *<blockquote>
+<p><em>Originally published on <a href="https://nextfuture.io.vn/blog/claude-managed-agents-deep-dive-anthropic-2026" rel="noopener noreferrer">NextFuture</a></em></p>
+</blockquote>
+
+<p><...*
+  📅 Sat, 11 Apr 2026 18:17:51 +0000
 
 </details>
 
@@ -126,103 +126,103 @@
 
 ### 📈 Daily Trending
 
+- **[alchaincyf/obsidian-ai-orange-book](https://github.com/alchaincyf/obsidian-ai-orange-book)** ⭐ 93
+  ![None](https://img.shields.io/badge/-None-lightgrey)
+  Obsidian + Claude Code: Rebuild Your Second Brain with AI · 橙皮书系列 · 用AI重建你的第二大脑
+
+- **[suandimam/Free-FL-Studio-25.2.5-PC-Edition](https://github.com/suandimam/Free-FL-Studio-25.2.5-PC-Edition)** ⭐ 54
+  ![C++](https://img.shields.io/badge/-C++-pink)
+  Download Free FL Studio 25.2.5 2026. Professional music production software with advanced audio engine, AI tools, and large plugin collection. Ideal for beatmaking, mixing, and sound design. Fast and easy installation.
+
+- **[ArielMartinezz/Character-Creator-Female-Crimson-Desert-Mod](https://github.com/ArielMartinezz/Character-Creator-Female-Crimson-Desert-Mod)** ⭐ 52
+  ![C++](https://img.shields.io/badge/-C++-pink)
+  Download Character Creator Female mod for Crimson Desert. Expanded customization with new hairstyles, faces, body morphs, outfits, and accessories. Create more beautiful and diverse female characters with high-quality textures and presets.
+
 - **[cloudgen/ciao](https://github.com/cloudgen/ciao)** ⭐ 49
   ![None](https://img.shields.io/badge/-None-lightgrey)
   None
 
-- **[suandimam/Free-FL-Studio-25.2.5-PC-Edition](https://github.com/suandimam/Free-FL-Studio-25.2.5-PC-Edition)** ⭐ 42
-  ![C++](https://img.shields.io/badge/-C++-pink)
-  Download Free FL Studio 25.2.5 2026. Professional music production software with advanced audio engine, AI tools, and large plugin collection. Ideal for beatmaking, mixing, and sound design. Fast and easy installation.
+- **[NYCU-Chung/my-claude-devteam](https://github.com/NYCU-Chung/my-claude-devteam)** ⭐ 44
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
+  An engineering team in a box for Claude Code — 12 specialized agents, 15 automation hooks, and the P7/P9/P10 methodology.
 
-- **[ArielMartinezz/Character-Creator-Female-Crimson-Desert-Mod](https://github.com/ArielMartinezz/Character-Creator-Female-Crimson-Desert-Mod)** ⭐ 41
-  ![C++](https://img.shields.io/badge/-C++-pink)
-  Download Character Creator Female mod for Crimson Desert. Expanded customization with new hairstyles, faces, body morphs, outfits, and accessories. Create more beautiful and diverse female characters with high-quality textures and presets.
-
-- **[xuange520/ruishu-mcp](https://github.com/xuange520/ruishu-mcp)** ⭐ 32
+- **[xuange520/ruishu-mcp](https://github.com/xuange520/ruishu-mcp)** ⭐ 39
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   🚀 专为 AI Agent 打造的瑞数防爬流量净化 MCP 工具 / An MCP Tool for AI Agents to Stealthily Bypass and Purify Ruishu WAF Traffic
 
-- **[ZhangHanDong/hermes-book](https://github.com/ZhangHanDong/hermes-book)** ⭐ 29
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
-  Hermes Agent Book
-
-- **[HJCheng0602/nanoPD](https://github.com/HJCheng0602/nanoPD)** ⭐ 26
+- **[HJCheng0602/nanoPD](https://github.com/HJCheng0602/nanoPD)** ⭐ 40
   ![Python](https://img.shields.io/badge/-Python-blue)
   A from-scratch Prefill/Decode disaggregation inference engine for LLMs
 
-- **[Hona/temple-oc](https://github.com/Hona/temple-oc)** ⭐ 20
-  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
-  Public domain coding station for OpenCode. HolyC first. White field. Red frame. Oracle ready.
-
-- **[shinkuan/Waifuland](https://github.com/shinkuan/Waifuland)** ⭐ 18
-  ![C++](https://img.shields.io/badge/-C++-pink)
-  A Linux desktop Live2D model viewer that renders characters as transparent Wayland overlay windows using wlr-layer-shell.
+- **[ZhangHanDong/hermes-book](https://github.com/ZhangHanDong/hermes-book)** ⭐ 38
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
+  Hermes Agent Book
 
 ### 📈 Weekly Trending
 
-- **[milla-jovovich/mempalace](https://github.com/milla-jovovich/mempalace)** ⭐ 40,959
+- **[milla-jovovich/mempalace](https://github.com/milla-jovovich/mempalace)** ⭐ 41,435
   ![Python](https://img.shields.io/badge/-Python-blue)
   The highest-scoring AI memory system ever benchmarked. And it's free.
 
-- **[alchaincyf/nuwa-skill](https://github.com/alchaincyf/nuwa-skill)** ⭐ 7,063
+- **[alchaincyf/nuwa-skill](https://github.com/alchaincyf/nuwa-skill)** ⭐ 7,332
   ![Python](https://img.shields.io/badge/-Python-blue)
   你想蒸馏的下一个员工，何必是同事。蒸馏任何人的思维方式——心智模型、决策启发式、表达DNA。Distill how anyone thinks.
 
-- **[garrytan/gbrain](https://github.com/garrytan/gbrain)** ⭐ 3,859
+- **[garrytan/gbrain](https://github.com/garrytan/gbrain)** ⭐ 4,481
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   Garry's Opinionated OpenClaw/Hermes Agent Brain
 
-- **[farzaa/clicky](https://github.com/farzaa/clicky)** ⭐ 3,675
-  ![Swift](https://img.shields.io/badge/-Swift-lightgrey)
-  None
-
-- **[alchaincyf/zhangxuefeng-skill](https://github.com/alchaincyf/zhangxuefeng-skill)** ⭐ 3,553
+- **[alchaincyf/zhangxuefeng-skill](https://github.com/alchaincyf/zhangxuefeng-skill)** ⭐ 4,129
   ![None](https://img.shields.io/badge/-None-lightgrey)
   张雪峰.skill — 张雪峰的认知操作系统。高考志愿/考研/职业规划的实战思维框架。由女娲.skill生成。
 
-- **[xixu-me/awesome-persona-distill-skills](https://github.com/xixu-me/awesome-persona-distill-skills)** ⭐ 3,068
+- **[farzaa/clicky](https://github.com/farzaa/clicky)** ⭐ 3,739
+  ![Swift](https://img.shields.io/badge/-Swift-lightgrey)
+  None
+
+- **[xixu-me/awesome-persona-distill-skills](https://github.com/xixu-me/awesome-persona-distill-skills)** ⭐ 3,154
   ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
   同事.skill, 女娲.skill, 前任.skill… Curated list of Agent Skills centered on people, relationships, commemorative scenes, and methodological perspectives
 
-- **[LaurieWired/tailslayer](https://github.com/LaurieWired/tailslayer)** ⭐ 1,971
+- **[LaurieWired/tailslayer](https://github.com/LaurieWired/tailslayer)** ⭐ 2,002
   ![C++](https://img.shields.io/badge/-C++-pink)
   Library for reducing tail latency in RAM reads
 
-- **[alchaincyf/hermes-agent-orange-book](https://github.com/alchaincyf/hermes-agent-orange-book)** ⭐ 1,670
+- **[alchaincyf/hermes-agent-orange-book](https://github.com/alchaincyf/hermes-agent-orange-book)** ⭐ 1,763
   ![None](https://img.shields.io/badge/-None-lightgrey)
   Hermes Agent 从入门到精通 · 橙皮书系列 · Nous Research 开源 AI Agent 框架实战指南
 
 ### 📈 Monthly Trending
 
-- **[ultraworkers/claw-code](https://github.com/ultraworkers/claw-code)** ⭐ 181,192
+- **[ultraworkers/claw-code](https://github.com/ultraworkers/claw-code)** ⭐ 181,405
   ![Rust](https://img.shields.io/badge/-Rust-brown)
   The repo is finally unlocked. enjoy the party! The fastest repo in history to surpass 100K stars ⭐. Join Discord: https://discord.gg/5TUQKqFWd Built in Rust using oh-my-codex.
 
-- **[VoltAgent/awesome-design-md](https://github.com/VoltAgent/awesome-design-md)** ⭐ 42,803
+- **[VoltAgent/awesome-design-md](https://github.com/VoltAgent/awesome-design-md)** ⭐ 43,408
   ![None](https://img.shields.io/badge/-None-lightgrey)
   A collection of DESIGN.md files inspired by popular brand design systems. Drop one into your project and let coding agents generate a matching UI.
 
-- **[milla-jovovich/mempalace](https://github.com/milla-jovovich/mempalace)** ⭐ 40,959
+- **[milla-jovovich/mempalace](https://github.com/milla-jovovich/mempalace)** ⭐ 41,435
   ![Python](https://img.shields.io/badge/-Python-blue)
   The highest-scoring AI memory system ever benchmarked. And it's free.
 
-- **[santifer/career-ops](https://github.com/santifer/career-ops)** ⭐ 30,023
+- **[santifer/career-ops](https://github.com/santifer/career-ops)** ⭐ 30,406
   ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
   AI-powered job search system built on Claude Code. 14 skill modes, Go dashboard, PDF generation, batch processing.
 
-- **[safishamsi/graphify](https://github.com/safishamsi/graphify)** ⭐ 21,204
+- **[safishamsi/graphify](https://github.com/safishamsi/graphify)** ⭐ 21,757
   ![Python](https://img.shields.io/badge/-Python-blue)
   AI coding assistant skill (Claude Code, Codex, OpenCode, Cursor, Gemini CLI, OpenClaw, Factory Droid, Trae). Turn any folder of code, docs, papers, images, videos, or YouTube links into a queryable knowledge graph
 
-- **[Gitlawb/openclaude](https://github.com/Gitlawb/openclaude)** ⭐ 20,543
+- **[Gitlawb/openclaude](https://github.com/Gitlawb/openclaude)** ⭐ 20,623
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   Open Claude Is Open-source coding-agent CLI for OpenAI, Gemini, DeepSeek, Ollama, Codex, GitHub Models, and 200+ models via OpenAI-compatible APIs.
 
-- **[NVIDIA/NemoClaw](https://github.com/NVIDIA/NemoClaw)** ⭐ 18,944
+- **[NVIDIA/NemoClaw](https://github.com/NVIDIA/NemoClaw)** ⭐ 18,954
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   Run OpenClaw more securely inside NVIDIA OpenShell with managed inference
 
-- **[JuliusBrussee/caveman](https://github.com/JuliusBrussee/caveman)** ⭐ 15,998
+- **[JuliusBrussee/caveman](https://github.com/JuliusBrussee/caveman)** ⭐ 17,541
   ![Python](https://img.shields.io/badge/-Python-blue)
   🪨 why use many token when few token do trick — Claude Code skill that cuts 65% of tokens by talking like caveman
 
@@ -492,18 +492,18 @@ consolidated into a single option `MockModuleOpti...
 
 | Skill | Status |
 |-------|--------|
-| Java | 🟡 Learning |
-| Python | 🟢 Proficient |
+| Java | 🔴 Beginner |
+| Python | 🔴 Beginner |
 | JavaScript | 🔴 Beginner |
 | TypeScript | 🟡 Learning |
-| Go | ⚪ Planned |
+| Go | 🟢 Proficient |
 
 ### Frameworks
 
 | Skill | Status |
 |-------|--------|
-| React | 🟡 Learning |
-| Spring Boot | 🔴 Beginner |
+| React | 🔴 Beginner |
+| Spring Boot | 🟡 Learning |
 | Django | ⚪ Planned |
 | Node.js | 🟢 Proficient |
 | Next.js | 🟢 Proficient |
@@ -512,39 +512,39 @@ consolidated into a single option `MockModuleOpti...
 
 | Skill | Status |
 |-------|--------|
-| Penetration Testing | 🟢 Proficient |
-| Web Security | 🟡 Learning |
-| Network Security | ⚪ Planned |
+| Penetration Testing | ⚪ Planned |
+| Web Security | 🔴 Beginner |
+| Network Security | 🔴 Beginner |
 | OWASP | ⚪ Planned |
 
 ### Ai Ml
 
 | Skill | Status |
 |-------|--------|
-| Machine Learning | 🟡 Learning |
-| Deep Learning | ⚪ Planned |
-| NLP | 🟡 Learning |
-| Computer Vision | 🟡 Learning |
-| TensorFlow | ⚪ Planned |
-| PyTorch | 🟢 Proficient |
+| Machine Learning | 🟢 Proficient |
+| Deep Learning | 🔴 Beginner |
+| NLP | 🟢 Proficient |
+| Computer Vision | 🟢 Proficient |
+| TensorFlow | 🟡 Learning |
+| PyTorch | 🟡 Learning |
 
 ### Devops
 
 | Skill | Status |
 |-------|--------|
-| Docker | ⚪ Planned |
+| Docker | 🔴 Beginner |
 | Kubernetes | 🔴 Beginner |
-| CI/CD | ⚪ Planned |
-| AWS | ⚪ Planned |
-| Azure | 🟡 Learning |
+| CI/CD | 🟢 Proficient |
+| AWS | 🔴 Beginner |
+| Azure | 🔴 Beginner |
 
 ### Other
 
 | Skill | Status |
 |-------|--------|
-| Blockchain | 🟢 Proficient |
-| Web3 | ⚪ Planned |
-| Cloud Computing | 🟡 Learning |
+| Blockchain | 🔴 Beginner |
+| Web3 | 🟢 Proficient |
+| Cloud Computing | 🔴 Beginner |
 
 </details>
 
