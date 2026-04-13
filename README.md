@@ -46,35 +46,40 @@
 
 ### 📑 Hacker News
 
-- **[Taking on CUDA with ROCm: 'One Step After Another'](https://www.eetimes.com/taking-on-cuda-with-rocm-one-step-after-another/)**
-  *<p>Article URL: <a href="https://www.eetimes.com/taking-on-cuda-with-rocm-one-step-after-another/">https://www.eetimes.com/taking-on-cuda-with-rocm-one-step-after-another/</a></p>
-<p>Comments URL: <a ...*
-  📅 Sun, 12 Apr 2026 22:38:45 +0000
-
-- **[Tech valuations are back to pre-AI boom levels](https://www.apollo.com/wealth/the-daily-spark/tech-valuations-back-to-pre-ai-boom-levels)**
-  *<p>Article URL: <a href="https://www.apollo.com/wealth/the-daily-spark/tech-valuations-back-to-pre-ai-boom-levels">https://www.apollo.com/wealth/the-daily-spark/tech-valuations-back-to-pre-ai-boom-lev...*
-  📅 Sun, 12 Apr 2026 22:13:22 +0000
-
-- **[A Perfectable Programming Language](https://alok.github.io/lean-pages/perfectable-lean/)**
-  *<p>Article URL: <a href="https://alok.github.io/lean-pages/perfectable-lean/">https://alok.github.io/lean-pages/perfectable-lean/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id...*
-  📅 Sun, 12 Apr 2026 21:11:24 +0000
-
-- **[Uncharted island soon to appear on nautical charts](https://www.awi.de/en/about-us/service/press/single-view/unkartierte-insel-demnaechst-auf-seekarten-verzeichnet.html)**
-  *<p>Article URL: <a href="https://www.awi.de/en/about-us/service/press/single-view/unkartierte-insel-demnaechst-auf-seekarten-verzeichnet.html">https://www.awi.de/en/about-us/service/press/single-view/...*
-  📅 Sun, 12 Apr 2026 20:30:11 +0000
-
-- **[Google removes "Doki Doki Literature Club" from Google Play](https://bsky.app/profile/serenityforge.com/post/3mj3r4nbiws2t)**
-  *<p>Article URL: <a href="https://bsky.app/profile/serenityforge.com/post/3mj3r4nbiws2t">https://bsky.app/profile/serenityforge.com/post/3mj3r4nbiws2t</a></p>
+- **[The Economics of Software Teams: Why Most Engineering Orgs Are Flying Blind](https://www.viktorcessan.com/the-economics-of-software-teams/)**
+  *<p>Article URL: <a href="https://www.viktorcessan.com/the-economics-of-software-teams/">https://www.viktorcessan.com/the-economics-of-software-teams/</a></p>
 <p>Comments URL: <a href="https://news.yco...*
-  📅 Sun, 12 Apr 2026 19:53:08 +0000
+  📅 Mon, 13 Apr 2026 05:45:32 +0000
 
-- **[The peril of laziness lost](https://bcantrill.dtrace.org/2026/04/12/the-peril-of-laziness-lost/)**
-  *<p>Article URL: <a href="https://bcantrill.dtrace.org/2026/04/12/the-peril-of-laziness-lost/">https://bcantrill.dtrace.org/2026/04/12/the-peril-of-laziness-lost/</a></p>
-<p>Comments URL: <a href="http...*
-  📅 Sun, 12 Apr 2026 19:44:40 +0000
+- **[X Randomly Banning Users for "Inauthentic Behavior"](https://old.reddit.com/r/LinusTechTips/comments/1rsdk7i/anybody_here_talking_about_the_massive/)**
+  *<p>Article URL: <a href="https://old.reddit.com/r/LinusTechTips/comments/1rsdk7i/anybody_here_talking_about_the_massive/">https://old.reddit.com/r/LinusTechTips/comments/1rsdk7i/anybody_here_talking_a...*
+  📅 Mon, 13 Apr 2026 05:39:24 +0000
+
+- **[A Canonical Generalization of OBDD](https://arxiv.org/abs/2604.05537)**
+  *<p>Article URL: <a href="https://arxiv.org/abs/2604.05537">https://arxiv.org/abs/2604.05537</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=47747595">https://news.ycombinator.co...*
+  📅 Mon, 13 Apr 2026 04:26:15 +0000
+
+- **[Haunt, the 70s text adventure game, is now playable on a website](https://haunt.madebywindmill.com)**
+  *<p>Article URL: <a href="https://haunt.madebywindmill.com">https://haunt.madebywindmill.com</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=47747248">https://news.ycombinator.co...*
+  📅 Mon, 13 Apr 2026 03:31:02 +0000
+
+- **[Apple's accidental moat: How the "AI Loser" may end up winning](https://adlrocha.substack.com/p/adlrocha-how-the-ai-loser-may-end)**
+  *<p>Article URL: <a href="https://adlrocha.substack.com/p/adlrocha-how-the-ai-loser-may-end">https://adlrocha.substack.com/p/adlrocha-how-the-ai-loser-may-end</a></p>
+<p>Comments URL: <a href="https://...*
+  📅 Mon, 13 Apr 2026 02:53:10 +0000
+
+- **[All elementary functions from a single binary operator](https://arxiv.org/abs/2603.21852)**
+  *<p>Article URL: <a href="https://arxiv.org/abs/2603.21852">https://arxiv.org/abs/2603.21852</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=47746610">https://news.ycombinator.co...*
+  📅 Mon, 13 Apr 2026 01:49:32 +0000
 
 ### 📑 TechCrunch
+
+- **[The largest orbital compute cluster is open for business](https://techcrunch.com/2026/04/13/the-largest-orbital-compute-cluster-is-open-for-business/)**
+  *Kepler Communications is flying 40 GPUs in Earth orbit. And its latest customer is Sophia Space....*
+  📅 Mon, 13 Apr 2026 07:01:00 +0000
 
 - **[Trump officials may be encouraging banks to test Anthropic’s Mythos model](https://techcrunch.com/2026/04/12/trump-officials-may-be-encouraging-banks-to-test-anthropics-mythos-model/)**
   *The report is particularly surprising since the Department of Defense recently declared Anthropic a supply-chain risk....*
@@ -96,23 +101,29 @@
   *The rise of AI has brought an avalanche of new terms and slang. Here is a glossary with definitions of some of the most important words and phrases you might encounter....*
   📅 Sun, 12 Apr 2026 15:07:08 +0000
 
-- **[At the HumanX conference, everyone was talking about Claude](https://techcrunch.com/2026/04/12/at-the-humanx-conference-everyone-was-talking-about-claude/)**
-  *Anthropic was the star of the show at San Francisco's AI-centric conference....*
-  📅 Sun, 12 Apr 2026 15:00:00 +0000
-
 ### 📑 Dev.to
 
-- **[The Prompt Engineering Guide for Every Viral AI Art Trend in 2026](https://dev.to/midastools/the-prompt-engineering-guide-for-every-viral-ai-art-trend-in-2026-39ca)**
-  *<p>Every few weeks, a new AI art trend takes over social media. Ghibli portraits. Action figure boxes. Pet-to-human transformations. The "hug your younger self" trend.</p>
+- **[Building a Home Personal Assistant with Claude Managed Agents](https://dev.to/trknhr/building-a-home-personal-assistant-with-claude-managed-agents-5a8f)**
+  *<h2>
+  
+  
+  Introduction
+</h2>
 
-<p>The problem: most people...*
-  📅 Mon, 13 Apr 2026 01:36:57 +0000
+<p>Claude Managed Agents was just announced, so I tried using it to build a personal assistant for household tasks.</p>
 
-- **[I Replaced SQLite with a Rust Database in My AI Robot — Here's What Happened](https://dev.to/motedb/i-replaced-sqlite-with-a-rust-database-in-my-ai-robot-heres-what-happened-1n6k)**
-  *<p>I used SQLite for everything.</p>
+<p>What I wanted was pretty simple: an AI I ca...*
+  📅 Mon, 13 Apr 2026 07:46:16 +0000
 
-<p>For years, it was my default answer to "where do I store stuff." Config files, sensor logs, user data, even model outputs — SQLite handled it. When I started b...*
-  📅 Mon, 13 Apr 2026 01:36:15 +0000
+- **[Welcome to the World of SQL](https://dev.to/adev3loper/welcome-to-the-world-of-sql-3aoo)**
+  *<h2>
+  
+  
+  Your First Step into Data Analysis
+</h2>
+
+<p>You might have wondered how your favorite streaming app instantly recommends the perfect movie, or how your bank retrieves your transaction hi...*
+  📅 Mon, 13 Apr 2026 07:45:12 +0000
 
 </details>
 
@@ -120,103 +131,103 @@
 
 ### 📈 Daily Trending
 
-- **[wujx2001/GPLQ](https://github.com/wujx2001/GPLQ)** ⭐ 4
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  GPLQ release code
+- **[shaom/svg-hand-drawn-skill](https://github.com/shaom/svg-hand-drawn-skill)** ⭐ 31
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
+  None
 
-- **[antdv-next/admin](https://github.com/antdv-next/admin)** ⭐ 3
-  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
-  Antdv Next Admin
-
-- **[0xAstroAlpha/Vidtory-Seedance-2.0-Drama-Studio](https://github.com/0xAstroAlpha/Vidtory-Seedance-2.0-Drama-Studio)** ⭐ 4
+- **[0xAstroAlpha/Vidtory-Seedance-2.0-Drama-Studio](https://github.com/0xAstroAlpha/Vidtory-Seedance-2.0-Drama-Studio)** ⭐ 20
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   AI-powered storyboard and short film creation tool — Vidtory Drama Studio
 
-- **[farukfree/dfgf](https://github.com/farukfree/dfgf)** ⭐ 2
-  ![None](https://img.shields.io/badge/-None-lightgrey)
-  fddfgg
-
-- **[JackMaDaddy/Web3Hermes](https://github.com/JackMaDaddy/Web3Hermes)** ⭐ 2
-  ![None](https://img.shields.io/badge/-None-lightgrey)
-  Hermes-Agent 中文版 WebUI，便于中国用户使用。由 https://github.com/nesquena/hermes-webui 修改而来
-
-- **[TechxTry/ZenBoard](https://github.com/TechxTry/ZenBoard)** ⭐ 2
-  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
-  苦于禅道原生的跨项目统计和复杂查询？ZenBoard 为此而生。它能安全、只读地抽取你的禅道数据并存储在易于二次开发的 PostgreSQL 中，附带一个清爽美观的 Web 面板，让你随时掌控项目进度与团队工时。
-
-- **[Rockyfreez/dgdgh](https://github.com/Rockyfreez/dgdgh)** ⭐ 2
-  ![None](https://img.shields.io/badge/-None-lightgrey)
-  https://x.com/AirdropBrotherX/status/2043020679893913847?s=20
-
-- **[tomasfauro/cs2-omz](https://github.com/tomasfauro/cs2-omz)** ⭐ 2
+- **[AlanYu04/excalidraw-generator-skill](https://github.com/AlanYu04/excalidraw-generator-skill)** ⭐ 11
   ![Python](https://img.shields.io/badge/-Python-blue)
-  None
+  Excalidraw Generator is a flexible diagram design skill for creating and editing Excalidraw figures. It can generate structured visuals from descriptions, revise existing diagrams, adapt layouts to journal, conference, or slide-deck conventions, and apply custom styles defined by the user.
+
+- **[liyupi/cbti-test](https://github.com/liyupi/cbti-test)** ⭐ 9
+  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
+  🧑‍💻 CBTI - 程序员行为类型测试 | 你是 SUDO 还是 NULL？30 道题测出你的编程人格。27 种程序员人格类型，融合 Vibe Coding / AI 编程 / 996 / 删库跑路等热梗。Next.js + TypeScript 开发，纯前端无后端。
+
+- **[Higangssh/winclipshot](https://github.com/Higangssh/winclipshot)** ⭐ 8
+  ![Go](https://img.shields.io/badge/-Go-cyan)
+  Windows clipboard-to-path helper for terminal CLIs like Claude Code. Screenshot with Win+Shift+S, paste the saved path with Ctrl+V
+
+- **[wujx2001/GPLQ](https://github.com/wujx2001/GPLQ)** ⭐ 7
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  Official PyTorch implementation of GPLQ: A General, Practical, and Lightning QAT Method for Vision Transformers (NeurIPS 2025)
+
+- **[YiRuiRong/auto_xhs_agent](https://github.com/YiRuiRong/auto_xhs_agent)** ⭐ 7
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  一个基于 FastAPI 的小红书内容自动化项目
+
+- **[zlwng/dongjiao-anmo-](https://github.com/zlwng/dongjiao-anmo-)** ⭐ 6
+  ![None](https://img.shields.io/badge/-None-lightgrey)
+  仿东郊到家源码，仿东郊到家源码-最新，仿东郊到家上门服务源码，陪玩源码，康悦到家，上门按摩，按摩源码，洗浴源码，上门服务源码，到家服务源码，上门美甲源码
 
 ### 📈 Weekly Trending
 
-- **[farzaa/clicky](https://github.com/farzaa/clicky)** ⭐ 3,950
+- **[farzaa/clicky](https://github.com/farzaa/clicky)** ⭐ 3,984
   ![Swift](https://img.shields.io/badge/-Swift-lightgrey)
   None
 
-- **[alchaincyf/hermes-agent-orange-book](https://github.com/alchaincyf/hermes-agent-orange-book)** ⭐ 2,121
+- **[alchaincyf/hermes-agent-orange-book](https://github.com/alchaincyf/hermes-agent-orange-book)** ⭐ 2,187
   ![None](https://img.shields.io/badge/-None-lightgrey)
   Hermes Agent 从入门到精通 · 橙皮书系列 · Nous Research 开源 AI Agent 框架实战指南
 
-- **[yizhiyanhua-ai/fireworks-tech-graph](https://github.com/yizhiyanhua-ai/fireworks-tech-graph)** ⭐ 1,588
+- **[yizhiyanhua-ai/fireworks-tech-graph](https://github.com/yizhiyanhua-ai/fireworks-tech-graph)** ⭐ 1,734
   ![Python](https://img.shields.io/badge/-Python-blue)
   Claude Code skill for generating production-quality SVG+PNG technical diagrams. Supports 8 diagram types, 5 visual styles, and deep AI/Agent domain knowledge.
 
-- **[mattmireles/gemma-tuner-multimodal](https://github.com/mattmireles/gemma-tuner-multimodal)** ⭐ 1,231
+- **[mattmireles/gemma-tuner-multimodal](https://github.com/mattmireles/gemma-tuner-multimodal)** ⭐ 1,239
   ![Python](https://img.shields.io/badge/-Python-blue)
   Fine-tune Gemma 4 and 3n with audio, images and text on Apple Silicon, using PyTorch and Metal Performance Shaders.
 
-- **[nashsu/llm_wiki](https://github.com/nashsu/llm_wiki)** ⭐ 928
-  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
-  LLM Wiki is a cross-platform desktop application that turns your documents into an organized, interlinked knowledge base — automatically. Instead of traditional RAG (retrieve-and-answer from scratch every time), the LLM incrementally builds and maintains a persistent wiki from your sources。
-
-- **[QLHazyCoder/codex-oauth-automation-extension](https://github.com/QLHazyCoder/codex-oauth-automation-extension)** ⭐ 914
+- **[QLHazyCoder/codex-oauth-automation-extension](https://github.com/QLHazyCoder/codex-oauth-automation-extension)** ⭐ 1,063
   ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
   Chrome扩展：支持OpenAI OAuth注册、验证码获取、CPA回调验证与自动恢复
 
-- **[phuryn/claude-usage](https://github.com/phuryn/claude-usage)** ⭐ 878
+- **[nashsu/llm_wiki](https://github.com/nashsu/llm_wiki)** ⭐ 1,001
+  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
+  LLM Wiki is a cross-platform desktop application that turns your documents into an organized, interlinked knowledge base — automatically. Instead of traditional RAG (retrieve-and-answer from scratch every time), the LLM incrementally builds and maintains a persistent wiki from your sources。
+
+- **[phuryn/claude-usage](https://github.com/phuryn/claude-usage)** ⭐ 882
   ![Python](https://img.shields.io/badge/-Python-blue)
   A local dashboard for tracking your Claude Code token usage, costs, and session history. Pro and Max subscribers get a progress bar. This gives you the full picture.
 
-- **[joeynyc/hermes-hudui](https://github.com/joeynyc/hermes-hudui)** ⭐ 703
+- **[joeynyc/hermes-hudui](https://github.com/joeynyc/hermes-hudui)** ⭐ 757
   ![Python](https://img.shields.io/badge/-Python-blue)
   Web UI consciousness monitor for Hermes — the AI agent with persistent memory
 
 ### 📈 Monthly Trending
 
-- **[ultraworkers/claw-code](https://github.com/ultraworkers/claw-code)** ⭐ 182,537
+- **[ultraworkers/claw-code](https://github.com/ultraworkers/claw-code)** ⭐ 182,792
   ![Rust](https://img.shields.io/badge/-Rust-brown)
   The repo is finally unlocked. enjoy the party! The fastest repo in history to surpass 100K stars ⭐. Join Discord: https://discord.gg/5TUQKqFWd Built in Rust using oh-my-codex.
 
-- **[VoltAgent/awesome-design-md](https://github.com/VoltAgent/awesome-design-md)** ⭐ 45,778
+- **[VoltAgent/awesome-design-md](https://github.com/VoltAgent/awesome-design-md)** ⭐ 46,843
   ![None](https://img.shields.io/badge/-None-lightgrey)
   A collection of DESIGN.md files inspired by popular brand design systems. Drop one into your project and let coding agents generate a matching UI.
 
-- **[MemPalace/mempalace](https://github.com/MemPalace/mempalace)** ⭐ 43,516
+- **[MemPalace/mempalace](https://github.com/MemPalace/mempalace)** ⭐ 43,945
   ![Python](https://img.shields.io/badge/-Python-blue)
   The highest-scoring AI memory system ever benchmarked. And it's free.
 
-- **[santifer/career-ops](https://github.com/santifer/career-ops)** ⭐ 31,773
+- **[santifer/career-ops](https://github.com/santifer/career-ops)** ⭐ 32,032
   ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
   AI-powered job search system built on Claude Code. 14 skill modes, Go dashboard, PDF generation, batch processing.
 
-- **[safishamsi/graphify](https://github.com/safishamsi/graphify)** ⭐ 23,655
+- **[safishamsi/graphify](https://github.com/safishamsi/graphify)** ⭐ 24,139
   ![Python](https://img.shields.io/badge/-Python-blue)
   AI coding assistant skill (Claude Code, Codex, OpenCode, Cursor, Gemini CLI, GitHub Copilot CLI, OpenClaw, Factory Droid, Trae, Google Antigravity). Turn any folder of code, docs, papers, images, or videos into a queryable knowledge graph
 
-- **[JuliusBrussee/caveman](https://github.com/JuliusBrussee/caveman)** ⭐ 21,840
+- **[JuliusBrussee/caveman](https://github.com/JuliusBrussee/caveman)** ⭐ 22,843
   ![Python](https://img.shields.io/badge/-Python-blue)
   🪨 why use many token when few token do trick — Claude Code skill that cuts 65% of tokens by talking like caveman
 
-- **[Gitlawb/openclaude](https://github.com/Gitlawb/openclaude)** ⭐ 20,977
+- **[Gitlawb/openclaude](https://github.com/Gitlawb/openclaude)** ⭐ 21,030
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   Open Claude Is Open-source coding-agent CLI for OpenAI, Gemini, DeepSeek, Ollama, Codex, GitHub Models, and 200+ models via OpenAI-compatible APIs.
 
-- **[NVIDIA/NemoClaw](https://github.com/NVIDIA/NemoClaw)** ⭐ 19,070
+- **[NVIDIA/NemoClaw](https://github.com/NVIDIA/NemoClaw)** ⭐ 19,097
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   Run OpenClaw more securely inside NVIDIA OpenShell with managed inference
 
@@ -486,9 +497,9 @@ consolidated into a single option `MockModuleOpti...
 
 | Skill | Status |
 |-------|--------|
-| Java | 🔴 Beginner |
-| Python | 🟢 Proficient |
-| JavaScript | 🟡 Learning |
+| Java | ⚪ Planned |
+| Python | 🟡 Learning |
+| JavaScript | 🔴 Beginner |
 | TypeScript | 🔴 Beginner |
 | Go | ⚪ Planned |
 
@@ -496,39 +507,39 @@ consolidated into a single option `MockModuleOpti...
 
 | Skill | Status |
 |-------|--------|
-| React | 🟡 Learning |
+| React | 🔴 Beginner |
 | Spring Boot | 🔴 Beginner |
-| Django | 🟢 Proficient |
+| Django | 🟡 Learning |
 | Node.js | 🔴 Beginner |
-| Next.js | 🟡 Learning |
+| Next.js | ⚪ Planned |
 
 ### Cybersecurity
 
 | Skill | Status |
 |-------|--------|
-| Penetration Testing | 🔴 Beginner |
-| Web Security | ⚪ Planned |
+| Penetration Testing | ⚪ Planned |
+| Web Security | 🔴 Beginner |
 | Network Security | 🟢 Proficient |
-| OWASP | ⚪ Planned |
+| OWASP | 🟢 Proficient |
 
 ### Ai Ml
 
 | Skill | Status |
 |-------|--------|
-| Machine Learning | 🟢 Proficient |
-| Deep Learning | 🟡 Learning |
+| Machine Learning | 🟡 Learning |
+| Deep Learning | 🟢 Proficient |
 | NLP | 🟡 Learning |
-| Computer Vision | 🟡 Learning |
-| TensorFlow | ⚪ Planned |
-| PyTorch | 🟡 Learning |
+| Computer Vision | 🟢 Proficient |
+| TensorFlow | 🔴 Beginner |
+| PyTorch | 🟢 Proficient |
 
 ### Devops
 
 | Skill | Status |
 |-------|--------|
-| Docker | 🔴 Beginner |
-| Kubernetes | 🟡 Learning |
-| CI/CD | 🟡 Learning |
+| Docker | 🟢 Proficient |
+| Kubernetes | 🟢 Proficient |
+| CI/CD | ⚪ Planned |
 | AWS | 🟡 Learning |
 | Azure | 🟡 Learning |
 
@@ -537,7 +548,7 @@ consolidated into a single option `MockModuleOpti...
 | Skill | Status |
 |-------|--------|
 | Blockchain | 🟡 Learning |
-| Web3 | ⚪ Planned |
+| Web3 | 🟡 Learning |
 | Cloud Computing | 🟡 Learning |
 
 </details>
