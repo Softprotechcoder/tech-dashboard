@@ -46,33 +46,33 @@
 
 ### 📑 Hacker News
 
-- **[Lean proved this program correct; then I found a bug](https://kirancodes.me/posts/log-who-watches-the-watchers.html)**
-  *<p>Article URL: <a href="https://kirancodes.me/posts/log-who-watches-the-watchers.html">https://kirancodes.me/posts/log-who-watches-the-watchers.html</a></p>
-<p>Comments URL: <a href="https://news.yco...*
-  📅 Tue, 14 Apr 2026 00:25:08 +0000
+- **[Can Claude Fly a Plane?](https://so.long.thanks.fish/can-claude-fly-a-plane/)**
+  *<p>Article URL: <a href="https://so.long.thanks.fish/can-claude-fly-a-plane/">https://so.long.thanks.fish/can-claude-fly-a-plane/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id...*
+  📅 Tue, 14 Apr 2026 06:32:45 +0000
 
-- **[SnapState - Persistent state for AI agent workflows](https://snapstate.dev)**
-  *<p>Article URL: <a href="https://snapstate.dev">https://snapstate.dev</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=47759400">https://news.ycombinator.com/item?id=47759400</a>...*
-  📅 Mon, 13 Apr 2026 23:42:32 +0000
+- **[Distributed DuckDB Instance](https://github.com/citguru/openduck)**
+  *<p>Article URL: <a href="https://github.com/citguru/openduck">https://github.com/citguru/openduck</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=47761997">https://news.ycombina...*
+  📅 Tue, 14 Apr 2026 06:31:44 +0000
 
-- **[WiiFin – Jellyfin Client for Nintendo Wii](https://github.com/fabienmillet/WiiFin)**
-  *<p>Article URL: <a href="https://github.com/fabienmillet/WiiFin">https://github.com/fabienmillet/WiiFin</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=47759341">https://news.yc...*
-  📅 Mon, 13 Apr 2026 23:33:18 +0000
+- **[Roblox devs now need a subscription to share their games freely](https://devforum.roblox.com/t/new-publishing-requirements-evaluation-process-for-games/4573166)**
+  *<p>Article URL: <a href="https://devforum.roblox.com/t/new-publishing-requirements-evaluation-process-for-games/4573166">https://devforum.roblox.com/t/new-publishing-requirements-evaluation-process-fo...*
+  📅 Tue, 14 Apr 2026 06:04:31 +0000
 
-- **[N-Day-Bench – Can LLMs find real vulnerabilities in real codebases?](https://ndaybench.winfunc.com)**
-  *<p>N-Day-Bench tests whether frontier LLMs can find known security vulnerabilities in real repository code. Each month it pulls fresh cases from GitHub security advisories, checks out the repo at the ...*
-  📅 Mon, 13 Apr 2026 21:54:03 +0000
+- **[Multi-Agentic Software Development Is a Distributed Systems Problem](https://kirancodes.me/posts/log-distributed-llms.html)**
+  *<p>Article URL: <a href="https://kirancodes.me/posts/log-distributed-llms.html">https://kirancodes.me/posts/log-distributed-llms.html</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/ite...*
+  📅 Tue, 14 Apr 2026 05:32:48 +0000
 
-- **[Tokens – The New Dopamine Economy](https://www.enfuse.io/blog/vibe-coding-trap)**
-  *<p>Article URL: <a href="https://www.enfuse.io/blog/vibe-coding-trap">https://www.enfuse.io/blog/vibe-coding-trap</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=47758263">https...*
-  📅 Mon, 13 Apr 2026 21:48:00 +0000
+- **[UpDown: Efficient Manycore based on Many Threading & Scalable Memory Parallelism](https://people.cs.uchicago.edu/~aachien/lssg/research/10x10/ics26-single-chip-updown.pdf)**
+  *<p>Article URL: <a href="https://people.cs.uchicago.edu/~aachien/lssg/research/10x10/ics26-single-chip-updown.pdf">https://people.cs.uchicago.edu/~aachien/lssg/research/10x10/ics26-single-chip-updown....*
+  📅 Tue, 14 Apr 2026 05:29:30 +0000
 
-- **[Stanford report highlights growing disconnect between AI insiders and everyone](https://techcrunch.com/2026/04/13/stanford-report-highlights-growing-disconnect-between-ai-insiders-and-everyone-else/)**
-  *<p>Article URL: <a href="https://techcrunch.com/2026/04/13/stanford-report-highlights-growing-disconnect-between-ai-insiders-and-everyone-else/">https://techcrunch.com/2026/04/13/stanford-report-highl...*
-  📅 Mon, 13 Apr 2026 21:25:38 +0000
+- **[TanStack Start Now Support React Server Components](https://tanstack.com/blog/react-server-components)**
+  *<p>Article URL: <a href="https://tanstack.com/blog/react-server-components">https://tanstack.com/blog/react-server-components</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=477...*
+  📅 Tue, 14 Apr 2026 05:28:51 +0000
 
 ### 📑 TechCrunch
 
@@ -102,15 +102,19 @@
 
 ### 📑 Dev.to
 
-- **[# I Replaced a $100K Security Audit with a CI Pipeline — And It Caught More Bugs](https://dev.to/vano_chkheidze_5071c537e2/-i-replaced-a-100k-security-audit-with-a-ci-pipeline-and-it-caught-more-bugs-1h11)**
-  *<p>When I built <a href="https://github.com/shrec/UltrafastSecp256k1" rel="noopener noreferrer">UltrafastSecp256k1</a> — a high-performance secp256k1 cryptography library targeting CPU, CUDA, OpenCL, ...*
-  📅 Tue, 14 Apr 2026 01:34:17 +0000
+- **[Declarative validation: keep bad data out of your database](https://dev.to/davidlastrucci/declarative-validation-keep-bad-data-out-of-your-database-1ekk)**
+  *<p>In the <a href="https://dev.to/davidlastrucci/entity-mapping-in-depth-attributes-types-and-nullable-fields-3lo">previous article</a> we covered entity mapping and types. But mapping alone does not ...*
+  📅 Tue, 14 Apr 2026 07:06:36 +0000
 
-- **[Gin+Go Waiting Room Package Released](https://dev.to/andreimerlescu/gingo-waiting-room-package-released-41me)**
-  *<blockquote>
-<p>Drop-in waiting room middleware for <a href="https://github.com/gin-gonic/gin" rel="noopener noreferrer">gin</a><br />
-web applications. Built on <a href="https://github.com/andreimerl...*
-  📅 Tue, 14 Apr 2026 01:25:04 +0000
+- **[Autonomous Agents Need Money: Building Financial Infrastructure for the AI Economy](https://dev.to/sendersby/autonomous-agents-need-money-building-financial-infrastructure-for-the-ai-economy-3adp)**
+  *<h1>
+  
+  
+  Autonomous Agents Need Money: Building Financial Infrastructure for the AI Economy
+</h1>
+
+<p>The artificial intelligence revolution is no longer confined to chatbots and content generatio...*
+  📅 Tue, 14 Apr 2026 07:00:10 +0000
 
 </details>
 
@@ -118,103 +122,103 @@ web applications. Built on <a href="https://github.com/andreimerl...*
 
 ### 📈 Daily Trending
 
-- **[quinngarcia41/Identity-Lab-Spoofer](https://github.com/quinngarcia41/Identity-Lab-Spoofer)** ⭐ 27
-  ![C#](https://img.shields.io/badge/-C#-lightgrey)
-  HWID Spoofer, hwidspoofer, hwidspoof, spoof machine, machine spoofing, machine spoofer, ban bypass, bypass ban, hwid bypass, bypass hwid
-
-- **[ChatPRD/tradclaw](https://github.com/ChatPRD/tradclaw)** ⭐ 6
+- **[ChatPRD/tradclaw](https://github.com/ChatPRD/tradclaw)** ⭐ 46
   ![None](https://img.shields.io/badge/-None-lightgrey)
   AI openclaw mom and household manager for agentic parenting
 
-- **[m3lfx/rdbms-b-2026](https://github.com/m3lfx/rdbms-b-2026)** ⭐ 3
+- **[darbra/awesome-ai-reverse](https://github.com/darbra/awesome-ai-reverse)** ⭐ 20
   ![None](https://img.shields.io/badge/-None-lightgrey)
-  None
+  ai reverse 一把梭
 
-- **[HotCode2025/ProyectoIntegrador_LosSinChamba2026](https://github.com/HotCode2025/ProyectoIntegrador_LosSinChamba2026)** ⭐ 2
-  ![None](https://img.shields.io/badge/-None-lightgrey)
-  Proyecto Integrador -Python- Scrum-Tercer-Semestre-
+- **[CITGuru/openduck](https://github.com/CITGuru/openduck)** ⭐ 15
+  ![C++](https://img.shields.io/badge/-C++-pink)
+  Distributed DuckDB - dual execution and differential storage
 
-- **[sbauwow/schwagent](https://github.com/sbauwow/schwagent)** ⭐ 1
+- **[cshitian/antigravity_chinese](https://github.com/cshitian/antigravity_chinese)** ⭐ 12
   ![Python](https://img.shields.io/badge/-Python-blue)
-  An AI Agent for monitoring and trading via Charles Schwab Trading API
+  Antigravity汉化,简体中文
 
-- **[Lavindergaziro/Monitoramento-de-logs](https://github.com/Lavindergaziro/Monitoramento-de-logs)** ⭐ 1
+- **[eimg/book-order-platform-SKILL](https://github.com/eimg/book-order-platform-SKILL)** ⭐ 9
   ![None](https://img.shields.io/badge/-None-lightgrey)
-   Analisa milhões de linhas de logs de um servidor para detectar tentativas de invasão.O monitoramento de logs de login é um projeto clássico de Cybersecurity + Big Data. Ele demonstra que você sabe lidar com dados semi-estruturados, fluxos constantes e detecção de anomalias (como ataques de força bruta).
+  Implements a book order system with a Vite React storefront (React Router,   TanStack Query) and an Express + Prisma + SQLite API
 
-- **[iamtowvee/duckshell](https://github.com/iamtowvee/duckshell)** ⭐ 1
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
-  Simple browser console
-
-- **[jpizzaro/v0-governance-navigator-app-4e](https://github.com/jpizzaro/v0-governance-navigator-app-4e)** ⭐ 1
-  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
+- **[vietnh1009/Naruto](https://github.com/vietnh1009/Naruto)** ⭐ 8
+  ![HTML](https://img.shields.io/badge/-HTML-lightgrey)
   None
+
+- **[Jian-Lang/awesome-modality-missing-learning](https://github.com/Jian-Lang/awesome-modality-missing-learning)** ⭐ 8
+  ![None](https://img.shields.io/badge/-None-lightgrey)
+  This repository contains a collection of research studies centered on Modality Missing Learning (MML) (also referred to as Incomplete Multimodal Learning).
+
+- **[Sim2Reason/Sim2Reason](https://github.com/Sim2Reason/Sim2Reason)** ⭐ 7
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  Sim2Reason: Solving Physics Olympiad via Reinforcement Learning on Physics Simulators.  We present a method for turning physics simulators into scalable generators of question–answer pairs for improving LLM physical reasoning.
 
 ### 📈 Weekly Trending
 
-- **[alchaincyf/hermes-agent-orange-book](https://github.com/alchaincyf/hermes-agent-orange-book)** ⭐ 2,288
+- **[alchaincyf/hermes-agent-orange-book](https://github.com/alchaincyf/hermes-agent-orange-book)** ⭐ 2,356
   ![None](https://img.shields.io/badge/-None-lightgrey)
   Hermes Agent 从入门到精通 · 橙皮书系列 · Nous Research 开源 AI Agent 框架实战指南
 
-- **[yizhiyanhua-ai/fireworks-tech-graph](https://github.com/yizhiyanhua-ai/fireworks-tech-graph)** ⭐ 2,045
+- **[yizhiyanhua-ai/fireworks-tech-graph](https://github.com/yizhiyanhua-ai/fireworks-tech-graph)** ⭐ 2,171
   ![Python](https://img.shields.io/badge/-Python-blue)
   Claude Code skill for generating production-quality SVG+PNG technical diagrams. Supports 8 diagram types, 5 visual styles, and deep AI/Agent domain knowledge.
 
-- **[QLHazyCoder/codex-oauth-automation-extension](https://github.com/QLHazyCoder/codex-oauth-automation-extension)** ⭐ 1,197
+- **[QLHazyCoder/codex-oauth-automation-extension](https://github.com/QLHazyCoder/codex-oauth-automation-extension)** ⭐ 1,261
   ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
   Chrome扩展：支持OpenAI OAuth注册、验证码获取、CPA回调验证与自动恢复
 
-- **[nashsu/llm_wiki](https://github.com/nashsu/llm_wiki)** ⭐ 1,140
+- **[nashsu/llm_wiki](https://github.com/nashsu/llm_wiki)** ⭐ 1,191
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   LLM Wiki is a cross-platform desktop application that turns your documents into an organized, interlinked knowledge base — automatically. Instead of traditional RAG (retrieve-and-answer from scratch every time), the LLM incrementally builds and maintains a persistent wiki from your sources。
 
-- **[momenbasel/PureMac](https://github.com/momenbasel/PureMac)** ⭐ 917
+- **[momenbasel/PureMac](https://github.com/momenbasel/PureMac)** ⭐ 1,165
   ![Swift](https://img.shields.io/badge/-Swift-lightgrey)
   Free, open-source macOS cleaner. CleanMyMac alternative with zero telemetry. Native SwiftUI, scheduled auto-cleaning, Xcode/Homebrew/system cache cleanup. MIT licensed.
 
-- **[joeynyc/hermes-hudui](https://github.com/joeynyc/hermes-hudui)** ⭐ 834
+- **[joeynyc/hermes-hudui](https://github.com/joeynyc/hermes-hudui)** ⭐ 847
   ![Python](https://img.shields.io/badge/-Python-blue)
   Web UI consciousness monitor for Hermes — the AI agent with persistent memory
 
-- **[vyfor/rattles](https://github.com/vyfor/rattles)** ⭐ 804
+- **[vyfor/rattles](https://github.com/vyfor/rattles)** ⭐ 820
   ![Rust](https://img.shields.io/badge/-Rust-brown)
   🪇 Minimal terminal spinners for Rust
 
-- **[hexiecs/talk-normal](https://github.com/hexiecs/talk-normal)** ⭐ 689
+- **[hexiecs/talk-normal](https://github.com/hexiecs/talk-normal)** ⭐ 758
   ![Shell](https://img.shields.io/badge/-Shell-lightgrey)
   Make any LLM talk like a normal person. A system prompt that removes AI slop.
 
 ### 📈 Monthly Trending
 
-- **[ultraworkers/claw-code](https://github.com/ultraworkers/claw-code)** ⭐ 183,468
+- **[ultraworkers/claw-code](https://github.com/ultraworkers/claw-code)** ⭐ 183,685
   ![Rust](https://img.shields.io/badge/-Rust-brown)
   The repo is finally unlocked. enjoy the party! The fastest repo in history to surpass 100K stars ⭐. Join Discord: https://discord.gg/5TUQKqFWd Built in Rust using oh-my-codex.
 
-- **[VoltAgent/awesome-design-md](https://github.com/VoltAgent/awesome-design-md)** ⭐ 48,358
+- **[VoltAgent/awesome-design-md](https://github.com/VoltAgent/awesome-design-md)** ⭐ 49,010
   ![None](https://img.shields.io/badge/-None-lightgrey)
   A collection of DESIGN.md files inspired by popular brand design systems. Drop one into your project and let coding agents generate a matching UI.
 
-- **[MemPalace/mempalace](https://github.com/MemPalace/mempalace)** ⭐ 44,893
+- **[MemPalace/mempalace](https://github.com/MemPalace/mempalace)** ⭐ 45,128
   ![Python](https://img.shields.io/badge/-Python-blue)
   The highest-scoring AI memory system ever benchmarked. And it's free.
 
-- **[santifer/career-ops](https://github.com/santifer/career-ops)** ⭐ 32,662
+- **[santifer/career-ops](https://github.com/santifer/career-ops)** ⭐ 32,809
   ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
   AI-powered job search system built on Claude Code. 14 skill modes, Go dashboard, PDF generation, batch processing.
 
-- **[JuliusBrussee/caveman](https://github.com/JuliusBrussee/caveman)** ⭐ 26,243
+- **[JuliusBrussee/caveman](https://github.com/JuliusBrussee/caveman)** ⭐ 27,032
   ![Python](https://img.shields.io/badge/-Python-blue)
   🪨 why use many token when few token do trick — Claude Code skill that cuts 65% of tokens by talking like caveman
 
-- **[safishamsi/graphify](https://github.com/safishamsi/graphify)** ⭐ 25,210
+- **[safishamsi/graphify](https://github.com/safishamsi/graphify)** ⭐ 25,575
   ![Python](https://img.shields.io/badge/-Python-blue)
   AI coding assistant skill (Claude Code, Codex, OpenCode, Cursor, Gemini CLI, GitHub Copilot CLI, OpenClaw, Factory Droid, Trae, Google Antigravity). Turn any folder of code, docs, papers, images, or videos into a queryable knowledge graph
 
-- **[Gitlawb/openclaude](https://github.com/Gitlawb/openclaude)** ⭐ 21,262
+- **[Gitlawb/openclaude](https://github.com/Gitlawb/openclaude)** ⭐ 21,311
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   Open Claude Is Open-source coding-agent CLI for OpenAI, Gemini, DeepSeek, Ollama, Codex, GitHub Models, and 200+ models via OpenAI-compatible APIs.
 
-- **[claude-code-best/claude-code](https://github.com/claude-code-best/claude-code)** ⭐ 15,676
+- **[claude-code-best/claude-code](https://github.com/claude-code-best/claude-code)** ⭐ 15,723
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   原汁原昧 Claude Code 可运行,可构建, 可调试版; Typescript 类型全修复; 企业级可靠性; 安全无毒, lock 文件保真, 可直接 bun i; bun run dev 启动
 
@@ -485,57 +489,57 @@ consolidated into a single option `MockModuleOpti...
 | Skill | Status |
 |-------|--------|
 | Java | 🔴 Beginner |
-| Python | 🟢 Proficient |
-| JavaScript | 🟡 Learning |
+| Python | ⚪ Planned |
+| JavaScript | 🔴 Beginner |
 | TypeScript | ⚪ Planned |
-| Go | ⚪ Planned |
+| Go | 🔴 Beginner |
 
 ### Frameworks
 
 | Skill | Status |
 |-------|--------|
-| React | 🔴 Beginner |
-| Spring Boot | 🟡 Learning |
-| Django | 🟡 Learning |
-| Node.js | 🔴 Beginner |
-| Next.js | ⚪ Planned |
+| React | 🟡 Learning |
+| Spring Boot | 🟢 Proficient |
+| Django | ⚪ Planned |
+| Node.js | 🟡 Learning |
+| Next.js | 🟡 Learning |
 
 ### Cybersecurity
 
 | Skill | Status |
 |-------|--------|
-| Penetration Testing | 🟡 Learning |
-| Web Security | ⚪ Planned |
-| Network Security | 🟢 Proficient |
-| OWASP | ⚪ Planned |
+| Penetration Testing | 🟢 Proficient |
+| Web Security | 🟡 Learning |
+| Network Security | 🔴 Beginner |
+| OWASP | 🟡 Learning |
 
 ### Ai Ml
 
 | Skill | Status |
 |-------|--------|
 | Machine Learning | 🔴 Beginner |
-| Deep Learning | 🟢 Proficient |
-| NLP | 🟢 Proficient |
-| Computer Vision | ⚪ Planned |
-| TensorFlow | 🟡 Learning |
+| Deep Learning | 🟡 Learning |
+| NLP | ⚪ Planned |
+| Computer Vision | 🟡 Learning |
+| TensorFlow | 🔴 Beginner |
 | PyTorch | ⚪ Planned |
 
 ### Devops
 
 | Skill | Status |
 |-------|--------|
-| Docker | 🟢 Proficient |
-| Kubernetes | 🟡 Learning |
-| CI/CD | 🔴 Beginner |
-| AWS | 🟢 Proficient |
+| Docker | 🔴 Beginner |
+| Kubernetes | 🔴 Beginner |
+| CI/CD | 🟢 Proficient |
+| AWS | 🔴 Beginner |
 | Azure | 🟢 Proficient |
 
 ### Other
 
 | Skill | Status |
 |-------|--------|
-| Blockchain | 🟡 Learning |
-| Web3 | 🟢 Proficient |
+| Blockchain | ⚪ Planned |
+| Web3 | 🟡 Learning |
 | Cloud Computing | ⚪ Planned |
 
 </details>
