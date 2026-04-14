@@ -46,74 +46,74 @@
 
 ### 📑 Hacker News
 
-- **[Ask HN: I quit my job over weaponized robots to start my own venture](https://news.ycombinator.com/item?id=47764215)**
-  *<p>Two weeks ago, I quit my job at a robotics company. I was working with high-end hardware (Boston Dynamics, Unitree), but I found out they were planning to mount teleoperated weapons on the robotic ...*
-  📅 Tue, 14 Apr 2026 11:31:19 +0000
+- **[40% of lost calories globally are from beef, needing 33 cal of feed per 1 cal](https://iopscience.iop.org/article/10.1088/2976-601X/ae4f6b)**
+  *<p>Article URL: <a href="https://iopscience.iop.org/article/10.1088/2976-601X/ae4f6b">https://iopscience.iop.org/article/10.1088/2976-601X/ae4f6b</a></p>
+<p>Comments URL: <a href="https://news.ycombin...*
+  📅 Tue, 14 Apr 2026 18:14:29 +0000
 
-- **[The Case Against Gameplay Loops](https://blog.joeyschutz.com/the-case-against-gameplay-loops/)**
-  *<p>Article URL: <a href="https://blog.joeyschutz.com/the-case-against-gameplay-loops/">https://blog.joeyschutz.com/the-case-against-gameplay-loops/</a></p>
-<p>Comments URL: <a href="https://news.ycomb...*
-  📅 Tue, 14 Apr 2026 11:26:25 +0000
+- **[I wrote to Flock's privacy contact to opt out of their domestic spying program](https://honeypot.net/2026/04/14/i-wrote-to-flocks-privacy.html)**
+  *<p>Article URL: <a href="https://honeypot.net/2026/04/14/i-wrote-to-flocks-privacy.html">https://honeypot.net/2026/04/14/i-wrote-to-flocks-privacy.html</a></p>
+<p>Comments URL: <a href="https://news.y...*
+  📅 Tue, 14 Apr 2026 17:47:00 +0000
 
-- **[NimConf 2026: Dates Announced, Registrations Open](https://nim-lang.org/blog/2026/04/07/nimconf-2026.html)**
-  *<p>Article URL: <a href="https://nim-lang.org/blog/2026/04/07/nimconf-2026.html">https://nim-lang.org/blog/2026/04/07/nimconf-2026.html</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/i...*
-  📅 Tue, 14 Apr 2026 11:19:10 +0000
+- **[OpenSSL 4.0.0](https://github.com/openssl/openssl/releases/tag/openssl-4.0.0)**
+  *<p>Article URL: <a href="https://github.com/openssl/openssl/releases/tag/openssl-4.0.0">https://github.com/openssl/openssl/releases/tag/openssl-4.0.0</a></p>
+<p>Comments URL: <a href="https://news.yco...*
+  📅 Tue, 14 Apr 2026 17:45:34 +0000
 
-- **[What is jj and why should I care?](https://steveklabnik.github.io/jujutsu-tutorial/introduction/what-is-jj-and-why-should-i-care.html)**
-  *<p>Article URL: <a href="https://steveklabnik.github.io/jujutsu-tutorial/introduction/what-is-jj-and-why-should-i-care.html">https://steveklabnik.github.io/jujutsu-tutorial/introduction/what-is-jj-and...*
-  📅 Tue, 14 Apr 2026 10:33:39 +0000
+- **[Show HN: Plain – The full-stack Python framework designed for humans and agents](https://github.com/dropseed/plain)**
+  *<p>Article URL: <a href="https://github.com/dropseed/plain">https://github.com/dropseed/plain</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=47768750">https://news.ycombinator....*
+  📅 Tue, 14 Apr 2026 17:43:17 +0000
 
-- **[Ransomware Is Growing Three Times Faster Than the Spending Meant to Stop It](https://ciphercue.com/blog/ransomware-claims-grew-faster-than-security-spend-2025)**
-  *<p>Article URL: <a href="https://ciphercue.com/blog/ransomware-claims-grew-faster-than-security-spend-2025">https://ciphercue.com/blog/ransomware-claims-grew-faster-than-security-spend-2025</a></p>
-<p...*
-  📅 Tue, 14 Apr 2026 08:52:12 +0000
+- **[Turn your best AI prompts into one-click tools in Chrome](https://blog.google/products-and-platforms/products/chrome/skills-in-chrome/)**
+  *<p>Article URL: <a href="https://blog.google/products-and-platforms/products/chrome/skills-in-chrome/">https://blog.google/products-and-platforms/products/chrome/skills-in-chrome/</a></p>
+<p>Comments ...*
+  📅 Tue, 14 Apr 2026 17:09:43 +0000
 
-- **[Backblaze has stopped backing up your data](https://rareese.com/posts/backblaze/)**
-  *<p>Article URL: <a href="https://rareese.com/posts/backblaze/">https://rareese.com/posts/backblaze/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=47762864">https://news.ycombi...*
-  📅 Tue, 14 Apr 2026 08:30:27 +0000
+- **[Modifying FileZilla to Workaround Bambu 3D Printer's FTP Issue](https://lantian.pub/en/article/modify-computer/modify-filezilla-workaround-bambu-3d-printer-ftp-issue.lantian/)**
+  *<p>Article URL: <a href="https://lantian.pub/en/article/modify-computer/modify-filezilla-workaround-bambu-3d-printer-ftp-issue.lantian/">https://lantian.pub/en/article/modify-computer/modify-filezilla...*
+  📅 Tue, 14 Apr 2026 17:06:49 +0000
 
 ### 📑 TechCrunch
 
-- **[Lucid Motors names new CEO, lands more money from Uber and Saudis](https://techcrunch.com/2026/04/14/lucid-motors-names-new-ceo-lands-more-money-from-uber-and-saudis/)**
-  *The search for a new CEO, which lasted over a year following the sudden resignation of Peter Rawlinson, is finally over....*
-  📅 Tue, 14 Apr 2026 12:22:22 +0000
+- **[Someone planted backdoors in dozens of WordPress plug-ins used in thousands of websites](https://techcrunch.com/2026/04/14/someone-planted-backdoors-in-dozens-of-wordpress-plugins-used-in-thousands-of-websites/)**
+  *Dozens of WordPress plug-ins were allegedly hijacked to push malware after they were sold to a new corporate owner....*
+  📅 Tue, 14 Apr 2026 18:31:34 +0000
 
-- **[Inertia moves to commercialize one of the world’s most elaborate science experiments](https://techcrunch.com/2026/04/14/inertia-moves-to-commercialize-one-of-the-worlds-most-elaborate-science-experiments/)**
-  *Inertia has signed three agreements with the Lawrence Livermore National Lab, paving the way for the company to bring its pioneering fusion reactor to market....*
-  📅 Tue, 14 Apr 2026 09:00:00 +0000
+- **[Anthropic co-founder confirms the company briefed the Trump administration on Mythos](https://techcrunch.com/2026/04/14/anthropic-co-founder-confirms-the-company-briefed-the-trump-administration-on-mythos/)**
+  *In an interview at the Semafor World Economy summit this week, Anthropic co-founder Jack Clark explained why the company was still engaged with the U.S. government while simultaneously suing them....*
+  📅 Tue, 14 Apr 2026 18:09:12 +0000
 
-- **[An Amazon warehouse worker died on the job at Oregon facility](https://techcrunch.com/2026/04/13/an-amazon-warehouse-worker-died-on-the-job-at-oregon-facility/)**
-  *Though Amazon has faced issues with warehouse safety, the company said that the death was not work related....*
-  📅 Tue, 14 Apr 2026 00:26:18 +0000
+- **[London gets closer to its first robotaxi service as Waymo begins testing](https://techcrunch.com/2026/04/14/london-gets-closer-to-its-first-robotaxi-service-as-waymo-begins-testing/)**
+  *Waymo's commercial service will eventually follow testing if the U.K. government approves....*
+  📅 Tue, 14 Apr 2026 18:00:09 +0000
 
-- **[OpenAI has bought AI personal finance startup Hiro](https://techcrunch.com/2026/04/13/openai-has-bought-ai-personal-finance-startup-hiro/)**
-  *The acquisition indicates a capability that OpenAI is building into ChatGPT: financial planning....*
-  📅 Tue, 14 Apr 2026 00:23:33 +0000
+- **[YouTube livestreams will now hold back ads during peak engagement to protect the vibe](https://techcrunch.com/2026/04/14/youtube-livestreams-will-now-hold-back-ads-during-peak-engagement-to-protect-the-vibe/)**
+  *Until now, the only way to avoid seeing ads was by paying for a YouTube Premium subscription....*
+  📅 Tue, 14 Apr 2026 17:18:20 +0000
 
-- **[Uber and Nuro begin testing premium robotaxi service in San Francisco](https://techcrunch.com/2026/04/13/uber-nuro-san-francisco-testing-premium-robotaxi-service/)**
-  *Uber employees can now hail a Lucid robotaxi as part of the testing....*
-  📅 Mon, 13 Apr 2026 21:11:58 +0000
+- **[Max Hodak’s Science Corp. is preparing to place its first sensor in a human brain](https://techcrunch.com/2026/04/14/max-hodaks-science-corp-is-preparing-to-place-its-first-sensor-in-a-human-brain/)**
+  *The device could help address multiple neurological conditions if it proves successful. One early use could be delivering gentle electrical stimulation to damaged brain or spinal cord cells to encoura...*
+  📅 Tue, 14 Apr 2026 17:13:03 +0000
 
-- **[Microsoft is officially killing its Outlook Lite app next month](https://techcrunch.com/2026/04/13/microsoft-is-officially-killing-its-outlook-lite-app-next-month/)**
-  *Launched in 2022, Outlook Lite is a lightweight version of the regular Outlook app, designed for Android phones with limited storage and regions with slower internet connections. The app had already b...*
-  📅 Mon, 13 Apr 2026 20:59:12 +0000
+- **[Google adds AI Skills to Chrome to help you save favorite workflows](https://techcrunch.com/2026/04/14/google-adds-ai-skills-to-chrome-to-help-you-save-favorite-workflows/)**
+  *Google is adding “Skills” to Chrome, letting users save and reuse AI prompts across websites. The feature builds on Gemini’s browser integration....*
+  📅 Tue, 14 Apr 2026 17:00:00 +0000
 
 ### 📑 Dev.to
 
-- **[How to Add Enterprise SSO to Your AI App With Kinde: SAML, OIDC, and Beyond](https://dev.to/sholajegede/how-to-add-enterprise-sso-to-your-ai-app-with-kinde-saml-oidc-and-beyond-438a)**
-  *<p><em>Enterprise buyers will not deploy your AI app without SSO. Here is everything you need to know to pass that security review.</em></p>
+- **[The 5 Hardest Problems in Context Engineering Right Now](https://dev.to/kinlane/the-5-hardest-problems-in-context-engineering-right-now-3a38)**
+  *<p>Context engineering is not prompt engineering. It is an emerging discipline focused on optimizing context windows for AI agents, translating upstream APIs and MCP servers into efficient tool interf...*
+  📅 Tue, 14 Apr 2026 18:55:46 +0000
 
-<p>In this article, you will learn:</p>
+- **[Claude Code vs Codex](https://dev.to/100hum_patel/claude-code-vs-codex-4ndi)**
+  *<p>I’ve been spending time with both Claude Code and Codex lately, and the more I use them, the more I feel this is the wrong question to ask:</p>
 
-<ul>
-<li>Why ente...*
-  📅 Tue, 14 Apr 2026 12:47:33 +0000
+<p>“Which one is better?”</p>
 
-- **[Automate Your Edit: AI Genre-Specific Workflows for YouTube Editors](https://dev.to/ken_deng_ai/automate-your-edit-ai-genre-specific-workflows-for-youtube-editors-2ee1)**
-  *<p>Sifting through hours of raw footage is the bane of every video editor's existence. For independent editors serving YouTube creators, time spent logging is time not spent on high-value creative wor...*
-  📅 Tue, 14 Apr 2026 12:41:40 +0000
+<p>I get why people a...*
+  📅 Tue, 14 Apr 2026 18:50:50 +0000
 
 </details>
 
@@ -121,103 +121,103 @@
 
 ### 📈 Daily Trending
 
-- **[CITGuru/openduck](https://github.com/CITGuru/openduck)** ⭐ 141
+- **[CITGuru/openduck](https://github.com/CITGuru/openduck)** ⭐ 248
   ![C++](https://img.shields.io/badge/-C++-pink)
   Distributed DuckDB - dual execution and differential storage
 
-- **[5ec1cff/FuseFixer](https://github.com/5ec1cff/FuseFixer)** ⭐ 84
-  ![C](https://img.shields.io/badge/-C-lightgrey)
-  None
-
-- **[ChatPRD/tradclaw](https://github.com/ChatPRD/tradclaw)** ⭐ 67
+- **[ChatPRD/tradclaw](https://github.com/ChatPRD/tradclaw)** ⭐ 117
   ![None](https://img.shields.io/badge/-None-lightgrey)
   AI openclaw mom and household manager for agentic parenting
 
-- **[darbra/awesome-ai-reverse](https://github.com/darbra/awesome-ai-reverse)** ⭐ 54
-  ![None](https://img.shields.io/badge/-None-lightgrey)
-  ai reverse 一把梭
+- **[5ec1cff/FuseFixer](https://github.com/5ec1cff/FuseFixer)** ⭐ 115
+  ![C](https://img.shields.io/badge/-C-lightgrey)
+  None
 
-- **[baidu/ERNIE-Image](https://github.com/baidu/ERNIE-Image)** ⭐ 47
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  ERNIE-Image is an open text-to-image generation model developed by the ERNIE-Image team at Baidu. It is built on a single-stream Diffusion Transformer (DiT), with only 8B DiT parameters, it reaches state-of-the-art performance among open-weight text-to-image models.
-
-- **[earendil-works/pi-review](https://github.com/earendil-works/pi-review)** ⭐ 39
+- **[earendil-works/pi-review](https://github.com/earendil-works/pi-review)** ⭐ 102
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   A review extension for Pi
 
-- **[xenials8/torzon-onion-links](https://github.com/xenials8/torzon-onion-links)** ⭐ 34
+- **[darbra/awesome-ai-reverse](https://github.com/darbra/awesome-ai-reverse)** ⭐ 64
   ![None](https://img.shields.io/badge/-None-lightgrey)
-  TorZon Onion Links
+  ai reverse 一把梭
 
-- **[Jsnzkpg/pansou](https://github.com/Jsnzkpg/pansou)** ⭐ 19
-  ![HTML](https://img.shields.io/badge/-HTML-lightgrey)
-  裤佬全网盘搜，纯前端打造，资源覆盖国内大部分主流网盘，以及嗅探网络公开分享和TG网盘资源分享频道，一键搜索便可展示所有匹配的资源，且设置了智能缓存和镜像代理加速
+- **[LIDR-academy/manual-SDD](https://github.com/LIDR-academy/manual-SDD)** ⭐ 64
+  ![None](https://img.shields.io/badge/-None-lightgrey)
+  None
+
+- **[baidu/ERNIE-Image](https://github.com/baidu/ERNIE-Image)** ⭐ 63
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  ERNIE-Image is an open text-to-image generation model developed by the ERNIE-Image team at Baidu. It is built on a single-stream Diffusion Transformer (DiT), with only 8B DiT parameters, it reaches state-of-the-art performance among open-weight text-to-image models.
+
+- **[bchao1/paper-finder](https://github.com/bchao1/paper-finder)** ⭐ 62
+  ![None](https://img.shields.io/badge/-None-lightgrey)
+  Claude skill for finding ML research papers.
 
 ### 📈 Weekly Trending
 
-- **[alchaincyf/hermes-agent-orange-book](https://github.com/alchaincyf/hermes-agent-orange-book)** ⭐ 2,403
+- **[alchaincyf/hermes-agent-orange-book](https://github.com/alchaincyf/hermes-agent-orange-book)** ⭐ 2,426
   ![None](https://img.shields.io/badge/-None-lightgrey)
   Hermes Agent 从入门到精通 · 橙皮书系列 · Nous Research 开源 AI Agent 框架实战指南
 
-- **[yizhiyanhua-ai/fireworks-tech-graph](https://github.com/yizhiyanhua-ai/fireworks-tech-graph)** ⭐ 2,270
+- **[yizhiyanhua-ai/fireworks-tech-graph](https://github.com/yizhiyanhua-ai/fireworks-tech-graph)** ⭐ 2,349
   ![Python](https://img.shields.io/badge/-Python-blue)
   Claude Code skill for generating production-quality SVG+PNG technical diagrams. Supports 8 diagram types, 5 visual styles, and deep AI/Agent domain knowledge.
 
-- **[momenbasel/PureMac](https://github.com/momenbasel/PureMac)** ⭐ 1,348
+- **[momenbasel/PureMac](https://github.com/momenbasel/PureMac)** ⭐ 1,447
   ![Swift](https://img.shields.io/badge/-Swift-lightgrey)
   Free, open-source macOS cleaner. CleanMyMac alternative with zero telemetry. Native SwiftUI, scheduled auto-cleaning, Xcode/Homebrew/system cache cleanup. MIT licensed.
 
-- **[QLHazyCoder/codex-oauth-automation-extension](https://github.com/QLHazyCoder/codex-oauth-automation-extension)** ⭐ 1,329
+- **[QLHazyCoder/codex-oauth-automation-extension](https://github.com/QLHazyCoder/codex-oauth-automation-extension)** ⭐ 1,359
   ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
   Chrome扩展：支持OpenAI OAuth注册、验证码获取、CPA回调验证与自动恢复
 
-- **[nashsu/llm_wiki](https://github.com/nashsu/llm_wiki)** ⭐ 1,248
+- **[nashsu/llm_wiki](https://github.com/nashsu/llm_wiki)** ⭐ 1,280
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   LLM Wiki is a cross-platform desktop application that turns your documents into an organized, interlinked knowledge base — automatically. Instead of traditional RAG (retrieve-and-answer from scratch every time), the LLM incrementally builds and maintains a persistent wiki from your sources。
 
-- **[joeynyc/hermes-hudui](https://github.com/joeynyc/hermes-hudui)** ⭐ 856
+- **[joeynyc/hermes-hudui](https://github.com/joeynyc/hermes-hudui)** ⭐ 873
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   Web UI consciousness monitor for Hermes — the AI agent with persistent memory
 
-- **[vyfor/rattles](https://github.com/vyfor/rattles)** ⭐ 833
+- **[vyfor/rattles](https://github.com/vyfor/rattles)** ⭐ 843
   ![Rust](https://img.shields.io/badge/-Rust-brown)
   🪇 Minimal terminal spinners for Rust
 
-- **[hexiecs/talk-normal](https://github.com/hexiecs/talk-normal)** ⭐ 786
+- **[hexiecs/talk-normal](https://github.com/hexiecs/talk-normal)** ⭐ 819
   ![Shell](https://img.shields.io/badge/-Shell-lightgrey)
   Make any LLM talk like a normal person. A system prompt that removes AI slop.
 
 ### 📈 Monthly Trending
 
-- **[ultraworkers/claw-code](https://github.com/ultraworkers/claw-code)** ⭐ 183,917
+- **[ultraworkers/claw-code](https://github.com/ultraworkers/claw-code)** ⭐ 184,108
   ![Rust](https://img.shields.io/badge/-Rust-brown)
   The repo is finally unlocked. enjoy the party! The fastest repo in history to surpass 100K stars ⭐. Join Discord: https://discord.gg/5TUQKqFWd Built in Rust using oh-my-codex.
 
-- **[VoltAgent/awesome-design-md](https://github.com/VoltAgent/awesome-design-md)** ⭐ 49,817
+- **[VoltAgent/awesome-design-md](https://github.com/VoltAgent/awesome-design-md)** ⭐ 50,421
   ![None](https://img.shields.io/badge/-None-lightgrey)
   A collection of DESIGN.md files inspired by popular brand design systems. Drop one into your project and let coding agents generate a matching UI.
 
-- **[MemPalace/mempalace](https://github.com/MemPalace/mempalace)** ⭐ 45,427
+- **[MemPalace/mempalace](https://github.com/MemPalace/mempalace)** ⭐ 45,720
   ![Python](https://img.shields.io/badge/-Python-blue)
   The highest-scoring AI memory system ever benchmarked. And it's free.
 
-- **[santifer/career-ops](https://github.com/santifer/career-ops)** ⭐ 32,972
+- **[santifer/career-ops](https://github.com/santifer/career-ops)** ⭐ 33,136
   ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
   AI-powered job search system built on Claude Code. 14 skill modes, Go dashboard, PDF generation, batch processing.
 
-- **[JuliusBrussee/caveman](https://github.com/JuliusBrussee/caveman)** ⭐ 28,046
+- **[JuliusBrussee/caveman](https://github.com/JuliusBrussee/caveman)** ⭐ 29,146
   ![Python](https://img.shields.io/badge/-Python-blue)
   🪨 why use many token when few token do trick — Claude Code skill that cuts 65% of tokens by talking like caveman
 
-- **[safishamsi/graphify](https://github.com/safishamsi/graphify)** ⭐ 25,917
+- **[safishamsi/graphify](https://github.com/safishamsi/graphify)** ⭐ 26,209
   ![Python](https://img.shields.io/badge/-Python-blue)
   AI coding assistant skill (Claude Code, Codex, OpenCode, Cursor, Gemini CLI, GitHub Copilot CLI, OpenClaw, Factory Droid, Trae, Google Antigravity). Turn any folder of code, docs, papers, images, or videos into a queryable knowledge graph
 
-- **[Gitlawb/openclaude](https://github.com/Gitlawb/openclaude)** ⭐ 21,364
+- **[Gitlawb/openclaude](https://github.com/Gitlawb/openclaude)** ⭐ 21,461
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   Open Claude Is Open-source coding-agent CLI for OpenAI, Gemini, DeepSeek, Ollama, Codex, GitHub Models, and 200+ models via OpenAI-compatible APIs.
 
-- **[claude-code-best/claude-code](https://github.com/claude-code-best/claude-code)** ⭐ 15,774
+- **[claude-code-best/claude-code](https://github.com/claude-code-best/claude-code)** ⭐ 15,800
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   原汁原昧 Claude Code 可运行,可构建, 可调试版; Typescript 类型全修复; 企业级可靠性; 安全无毒, lock 文件保真, 可直接 bun i; bun run dev 启动
 
@@ -488,27 +488,27 @@ consolidated into a single option `MockModuleOpti...
 | Skill | Status |
 |-------|--------|
 | Java | 🔴 Beginner |
-| Python | ⚪ Planned |
-| JavaScript | ⚪ Planned |
-| TypeScript | 🔴 Beginner |
+| Python | 🟡 Learning |
+| JavaScript | 🟡 Learning |
+| TypeScript | 🟡 Learning |
 | Go | 🟢 Proficient |
 
 ### Frameworks
 
 | Skill | Status |
 |-------|--------|
-| React | ⚪ Planned |
+| React | 🟢 Proficient |
 | Spring Boot | 🔴 Beginner |
-| Django | 🟡 Learning |
-| Node.js | 🔴 Beginner |
-| Next.js | ⚪ Planned |
+| Django | ⚪ Planned |
+| Node.js | 🟡 Learning |
+| Next.js | 🔴 Beginner |
 
 ### Cybersecurity
 
 | Skill | Status |
 |-------|--------|
-| Penetration Testing | 🔴 Beginner |
-| Web Security | 🟡 Learning |
+| Penetration Testing | 🟡 Learning |
+| Web Security | 🟢 Proficient |
 | Network Security | 🔴 Beginner |
 | OWASP | 🔴 Beginner |
 
@@ -516,30 +516,30 @@ consolidated into a single option `MockModuleOpti...
 
 | Skill | Status |
 |-------|--------|
-| Machine Learning | 🟡 Learning |
-| Deep Learning | 🟡 Learning |
-| NLP | ⚪ Planned |
-| Computer Vision | 🟢 Proficient |
-| TensorFlow | 🟢 Proficient |
-| PyTorch | 🟢 Proficient |
+| Machine Learning | 🟢 Proficient |
+| Deep Learning | 🟢 Proficient |
+| NLP | 🟢 Proficient |
+| Computer Vision | 🟡 Learning |
+| TensorFlow | 🔴 Beginner |
+| PyTorch | 🔴 Beginner |
 
 ### Devops
 
 | Skill | Status |
 |-------|--------|
-| Docker | 🟢 Proficient |
-| Kubernetes | 🔴 Beginner |
-| CI/CD | 🟢 Proficient |
-| AWS | 🟢 Proficient |
-| Azure | 🔴 Beginner |
+| Docker | 🟡 Learning |
+| Kubernetes | 🟡 Learning |
+| CI/CD | ⚪ Planned |
+| AWS | 🔴 Beginner |
+| Azure | 🟡 Learning |
 
 ### Other
 
 | Skill | Status |
 |-------|--------|
 | Blockchain | ⚪ Planned |
-| Web3 | 🟡 Learning |
-| Cloud Computing | 🔴 Beginner |
+| Web3 | 🔴 Beginner |
+| Cloud Computing | 🟢 Proficient |
 
 </details>
 
