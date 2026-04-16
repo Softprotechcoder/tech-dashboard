@@ -46,74 +46,69 @@
 
 ### 📑 Hacker News
 
-- **[Show HN: 48 absurd web projects – one every month](https://news.ycombinator.com/item?id=47792026)**
-  *<p>A year ago I posted here about a small experiment:
-<a href="https://news.ycombinator.com/item?id=44162363">https://news.ycombinator.com/item?id=44162363</a><p>I build one absurd web project every m...*
-  📅 Thu, 16 Apr 2026 12:29:33 +0000
+- **[Qwen3.6-35B-A3B on my laptop drew me a better pelican than Claude Opus 4.7](https://simonwillison.net/2026/Apr/16/qwen-beats-opus/)**
+  *<p>Article URL: <a href="https://simonwillison.net/2026/Apr/16/qwen-beats-opus/">https://simonwillison.net/2026/Apr/16/qwen-beats-opus/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/i...*
+  📅 Thu, 16 Apr 2026 17:37:20 +0000
 
-- **[€54k spike in 13h from unrestricted Firebase browser key accessing Gemini APIs](https://discuss.ai.google.dev/t/unexpected-54k-billing-spike-in-13-hours-firebase-browser-key-without-api-restrictions-used-for-gemini-requests/140262)**
-  *<p>Article URL: <a href="https://discuss.ai.google.dev/t/unexpected-54k-billing-spike-in-13-hours-firebase-browser-key-without-api-restrictions-used-for-gemini-requests/140262">https://discuss.ai.goog...*
-  📅 Thu, 16 Apr 2026 12:13:30 +0000
+- **[Codex for Almost Everything](https://openai.com/index/codex-for-almost-everything/)**
+  *<p>Article URL: <a href="https://openai.com/index/codex-for-almost-everything/">https://openai.com/index/codex-for-almost-everything/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/ite...*
+  📅 Thu, 16 Apr 2026 17:12:19 +0000
 
-- **[Apple accelerates eco progress with highest-ever recycled materials](https://www.apple.com/newsroom/2026/04/apple-accelerates-progress-with-highest-ever-recycled-material-in-its-products/)**
-  *<p>Article URL: <a href="https://www.apple.com/newsroom/2026/04/apple-accelerates-progress-with-highest-ever-recycled-material-in-its-products/">https://www.apple.com/newsroom/2026/04/apple-accelerate...*
-  📅 Thu, 16 Apr 2026 12:11:17 +0000
+- **[Japan implements language proficiency requirements for certain visa applicants](https://www.japantimes.co.jp/news/2026/04/15/japan/society/jlpt-visa-requirement/)**
+  *<p>Article URL: <a href="https://www.japantimes.co.jp/news/2026/04/15/japan/society/jlpt-visa-requirement/">https://www.japantimes.co.jp/news/2026/04/15/japan/society/jlpt-visa-requirement/</a></p>
+<p...*
+  📅 Thu, 16 Apr 2026 16:53:32 +0000
 
-- **[Ancient DNA reveals pervasive directional selection across West Eurasia [pdf]](https://reich.hms.harvard.edu/sites/reich.hms.harvard.edu/files/inline-files/2026_Akbari_Nature_selection_0.pdf)**
-  *<p>Article URL: <a href="https://reich.hms.harvard.edu/sites/reich.hms.harvard.edu/files/inline-files/2026_Akbari_Nature_selection_0.pdf">https://reich.hms.harvard.edu/sites/reich.hms.harvard.edu/file...*
-  📅 Thu, 16 Apr 2026 10:57:13 +0000
+- **[Launch HN: Kampala (YC W26) – Reverse-Engineer Apps into APIs](https://www.zatanna.ai/kampala)**
+  *<p>Hey! I am Alex and together with my co-founder Tarun built Kampala (<a href="https://www.zatanna.ai/kampala">https://www.zatanna.ai/kampala</a>). It’s a man-in-the-middle (MITM) style proxy that al...*
+  📅 Thu, 16 Apr 2026 15:19:54 +0000
 
-- **[AI cybersecurity is not proof of work](https://antirez.com/news/163)**
-  *<p>Article URL: <a href="https://antirez.com/news/163">https://antirez.com/news/163</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=47791236">https://news.ycombinator.com/item?i...*
-  📅 Thu, 16 Apr 2026 10:48:00 +0000
+- **[We gave an AI a 3 year retail lease and asked it to make a profit](https://andonlabs.com/blog/andon-market-launch)**
+  *<p>Article URL: <a href="https://andonlabs.com/blog/andon-market-launch">https://andonlabs.com/blog/andon-market-launch</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=47794391"...*
+  📅 Thu, 16 Apr 2026 15:13:13 +0000
 
-- **[Codex Hacked a Samsung TV](https://blog.calif.io/p/codex-hacked-a-samsung-tv)**
-  *<p>Article URL: <a href="https://blog.calif.io/p/codex-hacked-a-samsung-tv">https://blog.calif.io/p/codex-hacked-a-samsung-tv</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=477...*
-  📅 Thu, 16 Apr 2026 10:44:45 +0000
+- **[Laravel raised money and now injects ads directly into your agent](https://techstackups.com/articles/laravel-raised-money-and-now-injects-ads-directly-into-your-agent/)**
+  *<p>Article URL: <a href="https://techstackups.com/articles/laravel-raised-money-and-now-injects-ads-directly-into-your-agent/">https://techstackups.com/articles/laravel-raised-money-and-now-injects-ad...*
+  📅 Thu, 16 Apr 2026 14:51:13 +0000
 
 ### 📑 TechCrunch
 
-- **[Canva’s AI assistant can now call various tools to make designs for you](https://techcrunch.com/2026/04/16/canvas-ai-assistant-can-now-call-various-tools-to-make-designs-for-you/)**
-  *The latest version of Canva's AI assistant lets users create editable designs with text prompts....*
-  📅 Thu, 16 Apr 2026 13:00:00 +0000
+- **[European police email 75,000 people asking them to stop DDoS attacks](https://techcrunch.com/2026/04/16/european-police-email-75000-people-asking-them-to-stop-ddos-attacks/)**
+  *Europol coordinated an operation against for-hire distributed denial-of-service (DDoS) services, including the arrest of four people and the takedown of 53 domains....*
+  📅 Thu, 16 Apr 2026 18:53:09 +0000
 
-- **[Fashion retailer Express left customers’ personal data and order details exposed to the internet](https://techcrunch.com/2026/04/16/fashion-retailer-express-left-customers-personal-data-and-order-details-exposed-to-the-internet/)**
-  *Retail giant Express was publicly spilling customer information to the open web. The bug is now fixed after TechCrunch alerted Express, but the company would not say if it plans to notify customers....*
-  📅 Thu, 16 Apr 2026 12:39:56 +0000
+- **[Anthropic CPO leaves Figma’s board after reports he will offer a competing product](https://techcrunch.com/2026/04/16/anthropic-cpo-leaves-figmas-board-after-reports-he-will-offer-a-competing-product/)**
+  *Krieger's departure and any forthcoming design tools will be another data point for investors who fear the SaaSpocalypse — that the largest AI labs will come to dominate software businesses, a thesis ...*
+  📅 Thu, 16 Apr 2026 18:28:42 +0000
 
-- **[This simulation startup wants to be the Cursor for physical AI](https://techcrunch.com/2026/04/16/this-simulation-startup-wants-to-be-the-cursor-for-physical-ai/)**
-  *Antioch raised a $8.5 million seed round to create simulation tools for a new generation of robot builders....*
-  📅 Thu, 16 Apr 2026 12:30:00 +0000
+- **[It’s not just you — Bluesky is (sorta) down](https://techcrunch.com/2026/04/16/its-not-just-you-bluesky-is-sorta-down/)**
+  *Bluesky has been experiencing ongoing service disruptions since just before 3 a.m. ET....*
+  📅 Thu, 16 Apr 2026 17:11:20 +0000
 
-- **[DeepL, known for text translation, now wants to translate your voice](https://techcrunch.com/2026/04/16/deepl-known-for-text-translation-now-wants-to-translate-your-voice/)**
-  *DeepL says its tech could be used for real-time translation with meeting tools like Zoom and Microsoft Teams...*
-  📅 Thu, 16 Apr 2026 08:00:00 +0000
+- **[Everything we like is a psyop](https://techcrunch.com/2026/04/16/everything-we-like-is-a-psyop/)**
+  *If culture is shaped by TikTok's algorithmic feed, then it's time for us to decide where we draw the line between necessary marketing and inauthentic growth hacking....*
+  📅 Thu, 16 Apr 2026 17:03:18 +0000
 
-- **[Amazon-backed X-energy files to raise up to $800M in IPO](https://techcrunch.com/2026/04/15/amazon-backed-x-energy-files-to-raise-up-to-800m-in-ipo/)**
-  *Nuclear startup X-energy hit the road today to sell prospective investors on its initial public offering....*
-  📅 Wed, 15 Apr 2026 22:44:26 +0000
+- **[Google now lets you explore the web side-by-side with AI Mode](https://techcrunch.com/2026/04/16/google-now-lets-you-explore-the-web-side-by-side-with-ai-mode/)**
+  *Now, when you're using AI Mode on Chrome desktop, clicking a link will open the web page side-by-side with AI Mode....*
+  📅 Thu, 16 Apr 2026 17:00:00 +0000
 
-- **[Ford EV and tech chief leaving automaker](https://techcrunch.com/2026/04/15/ford-ev-and-tech-chief-leaving-automaker/)**
-  *Doug Field had stints at Apple and Tesla before joining Ford in 2021....*
-  📅 Wed, 15 Apr 2026 21:52:05 +0000
+- **[Two Americans sentenced for helping North Korea steal $5 million in fake IT worker scheme](https://techcrunch.com/2026/04/16/two-americans-sentenced-for-helping-north-korea-steal-5-million-in-fake-it-worker-scheme/)**
+  *The U.S. Department of Justice announced that two Americans were sentenced to years in prison for helping the North Korean government place fake IT workers in U.S. companies....*
+  📅 Thu, 16 Apr 2026 16:16:51 +0000
 
 ### 📑 Dev.to
 
-- **[How dashboards work part 2](https://dev.to/brandon_woondc/how-dashboards-work-part-2-1adb)**
-  *<h1>
-  
-  
-  Building a Dynamic Dashboard with Flask, Jinja2, HTML, CSS, and JavaScript
-</h1>
+- **[TPU Mythbusting: cost and usage](https://dev.to/googleai/tpu-mythbusting-cost-and-usage-50ch)**
+  *<p>TPUs are foundational to Google’s AI capabilities and can be equally transformative for your projects. However, keeping track of a niche technology like Tensor Processing Units amidst the rapid evo...*
+  📅 Thu, 16 Apr 2026 18:54:26 +0000
 
-<p>Dashboards are one of the most common and valuable interfaces in modern web applications. They provide...*
-  📅 Thu, 16 Apr 2026 13:02:04 +0000
-
-- **[I got tired of writing the same 200 lines of boilerplate for every API, so I built a compiled language to eliminate it](https://dev.to/nynrathod/i-got-tired-of-writing-the-same-200-lines-of-boilerplate-for-every-api-so-i-built-a-compiled-ie5)**
-  *<p>Every side project I start does the same thing to me. New idea. Open editor. Spend 2-3 days on things that had nothing to do with the idea itself. Setting up auth, writing CRUD handlers I'd written...*
-  📅 Thu, 16 Apr 2026 13:00:00 +0000
+- **[TPU Mythbusting: the general perception](https://dev.to/googleai/tpu-mythbusting-the-general-perception-5585)**
+  *<p>The IT world has been deeply immersed in the AI revolution over the past two years. Terms like <a href="https://cloud.google.com/generative-ai-studio?utm_campaign=CDR_0x73f0e2c4_default_b464231968&...*
+  📅 Thu, 16 Apr 2026 18:50:29 +0000
 
 </details>
 
@@ -121,103 +116,103 @@
 
 ### 📈 Daily Trending
 
-- **[wbh604/UZI-Skill](https://github.com/wbh604/UZI-Skill)** ⭐ 168
+- **[wbh604/UZI-Skill](https://github.com/wbh604/UZI-Skill)** ⭐ 305
   ![Python](https://img.shields.io/badge/-Python-blue)
   冰冷的钱就这样流进我的口袋-游资（UZI）Skills — 51位投资大佬帮你看盘 · 22维数据 × 180条量化规则 × 17种机构分析方法 · A股/港股/美股 
 
-- **[assai-id/nemesis](https://github.com/assai-id/nemesis)** ⭐ 88
+- **[assai-id/nemesis](https://github.com/assai-id/nemesis)** ⭐ 167
   ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
   None
 
-- **[monero-protocol/polymarket-arbitrage-bot](https://github.com/monero-protocol/polymarket-arbitrage-bot)** ⭐ 48
+- **[coindesk-protocol/polymarket-trading-bot](https://github.com/coindesk-protocol/polymarket-trading-bot)** ⭐ 101
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
-  polymarket arbitrage bot polymarket arbitrage bot polymarket arbitrage bot polymarket arbitrage bot polymarket arbitrage bot polymarket arbitrage bot polymarket arbitrage bot polymarket arbitrage bot polymarket arbitrage bot polymarket arbitrage bot polymarket arbitrage bot polymarket arbitrage bot polymarket arbitrage bot 
+  polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot
 
-- **[monero-protocol/polymarket-copy-trading-bot](https://github.com/monero-protocol/polymarket-copy-trading-bot)** ⭐ 48
-  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
-  polymarket copy trading Bot polymarket copy trading Bot polymarket copy trading Bot polymarket copy trading Bot polymarket copy trading Bot polymarket copy trading Bot polymarket copytrading bot polymarket copytrading bot polymarket copytrading bot polymarket copytrading bot polymarket copytrading bot polymarket copytrading bot polymarket copytrade
-
-- **[hypertp/Polymarket-market-maker-bot](https://github.com/hypertp/Polymarket-market-maker-bot)** ⭐ 38
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
-  Polymarket Market Maker, Liquidity, Copy Trading & Automated Trading Engine Production-ready Polymarket trading bot designed for market making, liquidity provision, spread capture, and automated trading on the Polymarket CLOB (Central Limit Order Book).  Polymarket Market Maker Bot, Polymarket Market Maket Bot, Polymarket Market Maker Bot.
-
-- **[SteveTheKiller/KillerPDF](https://github.com/SteveTheKiller/KillerPDF)** ⭐ 37
+- **[SteveTheKiller/KillerPDF](https://github.com/SteveTheKiller/KillerPDF)** ⭐ 92
   ![C#](https://img.shields.io/badge/-C#-lightgrey)
   Portable PDF editor for Windows. GPLv3. No installer, no account, no subscription, no telemetry.
 
-- **[rexa-developer/tiks](https://github.com/rexa-developer/tiks)** ⭐ 36
+- **[monero-protocol/polymarket-arbitrage-bot](https://github.com/monero-protocol/polymarket-arbitrage-bot)** ⭐ 68
+  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
+  polymarket arbitrage bot polymarket arbitrage bot polymarket arbitrage bot polymarket arbitrage bot polymarket arbitrage bot polymarket arbitrage bot polymarket arbitrage bot polymarket arbitrage bot polymarket arbitrage bot polymarket arbitrage bot polymarket arbitrage bot polymarket arbitrage bot polymarket arbitrage bot 
+
+- **[monero-protocol/polymarket-copy-trading-bot](https://github.com/monero-protocol/polymarket-copy-trading-bot)** ⭐ 68
+  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
+  polymarket copy trading Bot polymarket copy trading Bot polymarket copy trading Bot polymarket copy trading Bot polymarket copy trading Bot polymarket copy trading Bot polymarket copytrading bot polymarket copytrading bot polymarket copytrading bot polymarket copytrading bot polymarket copytrading bot polymarket copytrading bot polymarket copytrade
+
+- **[rexa-developer/tiks](https://github.com/rexa-developer/tiks)** ⭐ 60
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   Procedural UI sounds for the web. Zero audio files. Pure synthesis.
 
-- **[dnakov/kittyfarm](https://github.com/dnakov/kittyfarm)** ⭐ 33
-  ![Swift](https://img.shields.io/badge/-Swift-lightgrey)
+- **[uriafranko/pi-rollback](https://github.com/uriafranko/pi-rollback)** ⭐ 52
+  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   None
 
 ### 📈 Weekly Trending
 
-- **[yizhiyanhua-ai/fireworks-tech-graph](https://github.com/yizhiyanhua-ai/fireworks-tech-graph)** ⭐ 3,218
+- **[yizhiyanhua-ai/fireworks-tech-graph](https://github.com/yizhiyanhua-ai/fireworks-tech-graph)** ⭐ 3,312
   ![Python](https://img.shields.io/badge/-Python-blue)
   Claude Code skill for generating production-quality SVG+PNG technical diagrams. Supports 8 diagram types, 5 visual styles, and deep AI/Agent domain knowledge.
 
-- **[AgentSeal/codeburn](https://github.com/AgentSeal/codeburn)** ⭐ 1,975
+- **[AgentSeal/codeburn](https://github.com/AgentSeal/codeburn)** ⭐ 2,117
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   See where your AI coding tokens go. Interactive TUI dashboard for Claude Code, Codex, and Cursor cost observability.
 
-- **[OpenMOSS/MOSS-TTS-Nano](https://github.com/OpenMOSS/MOSS-TTS-Nano)** ⭐ 1,167
+- **[OpenMOSS/MOSS-TTS-Nano](https://github.com/OpenMOSS/MOSS-TTS-Nano)** ⭐ 1,213
   ![Python](https://img.shields.io/badge/-Python-blue)
   MOSS-TTS-Nano is an open-source multilingual tiny speech generation model from MOSI.AI and the OpenMOSS team. With only 0.1B parameters, it is designed for realtime speech generation, can run directly on CPU without a GPU, and keeps the deployment stack simple enough for local demos, web serving, and lightweight product integration.
 
-- **[alchaincyf/darwin-skill](https://github.com/alchaincyf/darwin-skill)** ⭐ 928
-  ![HTML](https://img.shields.io/badge/-HTML-lightgrey)
-  达尔文.skill —— 一个让你的Skill无限进化的系统：评估→改进→测试→保留或回滚 | Autoresearch-inspired autonomous skill optimization for Claude Code. Evaluate, improve, test, keep or revert.
-
-- **[Mouseww/anything-analyzer](https://github.com/Mouseww/anything-analyzer)** ⭐ 925
+- **[Mouseww/anything-analyzer](https://github.com/Mouseww/anything-analyzer)** ⭐ 1,006
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   利用 browser + CDP capture + AI analysis  傻瓜式生成 注册机 | 2API | 其他浏览器或应用行为 的协议分析文档
 
-- **[vyfor/rattles](https://github.com/vyfor/rattles)** ⭐ 875
-  ![Rust](https://img.shields.io/badge/-Rust-brown)
-  🪇 Minimal terminal spinners for Rust
+- **[alchaincyf/darwin-skill](https://github.com/alchaincyf/darwin-skill)** ⭐ 949
+  ![HTML](https://img.shields.io/badge/-HTML-lightgrey)
+  达尔文.skill —— 一个让你的Skill无限进化的系统：评估→改进→测试→保留或回滚 | Autoresearch-inspired autonomous skill optimization for Claude Code. Evaluate, improve, test, keep or revert.
 
-- **[sterlingcrispin/nothing-ever-happens](https://github.com/sterlingcrispin/nothing-ever-happens)** ⭐ 782
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  Polymarket bot that buys "No" on all non-sports markets
-
-- **[vercel-labs/wterm](https://github.com/vercel-labs/wterm)** ⭐ 772
+- **[vercel-labs/wterm](https://github.com/vercel-labs/wterm)** ⭐ 943
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   A terminal emulator for the web
 
+- **[vyfor/rattles](https://github.com/vyfor/rattles)** ⭐ 878
+  ![Rust](https://img.shields.io/badge/-Rust-brown)
+  🪇 Minimal terminal spinners for Rust
+
+- **[sterlingcrispin/nothing-ever-happens](https://github.com/sterlingcrispin/nothing-ever-happens)** ⭐ 794
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  Polymarket bot that buys "No" on all non-sports markets
+
 ### 📈 Monthly Trending
 
-- **[ultraworkers/claw-code](https://github.com/ultraworkers/claw-code)** ⭐ 185,137
+- **[ultraworkers/claw-code](https://github.com/ultraworkers/claw-code)** ⭐ 185,258
   ![Rust](https://img.shields.io/badge/-Rust-brown)
   The repo is finally unlocked. enjoy the party! The fastest repo in history to surpass 100K stars ⭐. Join Discord: https://discord.gg/5TUQKqFWd Built in Rust using oh-my-codex.
 
-- **[VoltAgent/awesome-design-md](https://github.com/VoltAgent/awesome-design-md)** ⭐ 55,468
+- **[VoltAgent/awesome-design-md](https://github.com/VoltAgent/awesome-design-md)** ⭐ 56,124
   ![None](https://img.shields.io/badge/-None-lightgrey)
   A collection of DESIGN.md files inspired by popular brand design systems. Drop one into your project and let coding agents generate a matching UI.
 
-- **[MemPalace/mempalace](https://github.com/MemPalace/mempalace)** ⭐ 46,934
+- **[MemPalace/mempalace](https://github.com/MemPalace/mempalace)** ⭐ 47,058
   ![Python](https://img.shields.io/badge/-Python-blue)
   The best-benchmarked open-source AI memory system. And it's free.
 
-- **[santifer/career-ops](https://github.com/santifer/career-ops)** ⭐ 34,619
+- **[santifer/career-ops](https://github.com/santifer/career-ops)** ⭐ 34,879
   ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
   AI-powered job search system built on Claude Code. 14 skill modes, Go dashboard, PDF generation, batch processing.
 
-- **[JuliusBrussee/caveman](https://github.com/JuliusBrussee/caveman)** ⭐ 33,806
+- **[JuliusBrussee/caveman](https://github.com/JuliusBrussee/caveman)** ⭐ 34,670
   ![Python](https://img.shields.io/badge/-Python-blue)
   🪨 why use many token when few token do trick — Claude Code skill that cuts 65% of tokens by talking like caveman
 
-- **[safishamsi/graphify](https://github.com/safishamsi/graphify)** ⭐ 27,946
+- **[safishamsi/graphify](https://github.com/safishamsi/graphify)** ⭐ 28,143
   ![Python](https://img.shields.io/badge/-Python-blue)
   AI coding assistant skill (Claude Code, Codex, OpenCode, Cursor, Gemini CLI, GitHub Copilot CLI, OpenClaw, Factory Droid, Trae, Google Antigravity). Turn any folder of code, docs, papers, images, or videos into a queryable knowledge graph
 
-- **[Gitlawb/openclaude](https://github.com/Gitlawb/openclaude)** ⭐ 21,919
+- **[Gitlawb/openclaude](https://github.com/Gitlawb/openclaude)** ⭐ 21,986
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   Open Claude Is Open-source coding-agent CLI for OpenAI, Gemini, DeepSeek, Ollama, Codex, GitHub Models, and 200+ models via OpenAI-compatible APIs.
 
-- **[claude-code-best/claude-code](https://github.com/claude-code-best/claude-code)** ⭐ 16,035
+- **[claude-code-best/claude-code](https://github.com/claude-code-best/claude-code)** ⭐ 16,052
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   原汁原昧 Claude Code 可运行,可构建, 可调试版; Typescript 类型全修复; 企业级可靠性; 安全无毒, lock 文件保真, 可直接 bun i; bun run dev 启动
 
@@ -228,11 +223,18 @@
 
 ### 📦 microsoft/vscode
 
-**[1.116.0](https://github.com/microsoft/vscode/releases/tag/1.116.0)** `1.116.0`
+**[v0.44.1](https://github.com/microsoft/vscode/releases/tag/v0.44.1)** `v0.44.1`
 
-📅 Released: April 15, 2026
+📅 Released: April 16, 2026
 
-https://code.visualstudio.com/updates/v1_116...
+
+
+## Changes:
+
+* #310652: Update Copilot version
+* #310361: Update Copilot dependencies to version 1.0.28
+
+This list of changes was [auto generated](https://dev.azure.com/monacotools/Monaco/_build/res...
 
 ---
 
@@ -353,14 +355,16 @@ consolidated into a single option `MockModuleOpti...
 
 ### 📦 rust-lang/rust
 
-**[Rust 1.94.1](https://github.com/rust-lang/rust/releases/tag/1.94.1)** `1.94.1`
+**[Rust 1.95.0](https://github.com/rust-lang/rust/releases/tag/1.95.0)** `1.95.0`
 
-📅 Released: March 26, 2026
+📅 Released: April 16, 2026
 
-<a id="1.94.1"></a>
+<a id="1.95-Language"></a>
 
-- [Fix `std::thread::spawn` on wasm32-wasip1-threads](https://github.com/rust-lang/rust/pull/153634)
-- [Remove new methods added to `std::os::windows::fs::OpenOptionsExt`](https:/...
+## Language
+
+- [Stabilize `if let` guards on match arms](https://github.com/rust-lang/rust/pull/141295)
+- [`irrefutable_let_patterns` lint no longer lints on let chains](ht...
 
 ---
 
@@ -489,48 +493,48 @@ consolidated into a single option `MockModuleOpti...
 
 | Skill | Status |
 |-------|--------|
-| Java | ⚪ Planned |
-| Python | 🟢 Proficient |
-| JavaScript | ⚪ Planned |
+| Java | 🔴 Beginner |
+| Python | 🟡 Learning |
+| JavaScript | 🔴 Beginner |
 | TypeScript | 🔴 Beginner |
-| Go | 🔴 Beginner |
+| Go | 🟡 Learning |
 
 ### Frameworks
 
 | Skill | Status |
 |-------|--------|
-| React | 🔴 Beginner |
-| Spring Boot | 🔴 Beginner |
+| React | 🟢 Proficient |
+| Spring Boot | 🟢 Proficient |
 | Django | 🟡 Learning |
 | Node.js | ⚪ Planned |
-| Next.js | 🔴 Beginner |
+| Next.js | 🟡 Learning |
 
 ### Cybersecurity
 
 | Skill | Status |
 |-------|--------|
-| Penetration Testing | 🟡 Learning |
+| Penetration Testing | ⚪ Planned |
 | Web Security | 🟢 Proficient |
-| Network Security | 🟢 Proficient |
+| Network Security | 🔴 Beginner |
 | OWASP | 🟢 Proficient |
 
 ### Ai Ml
 
 | Skill | Status |
 |-------|--------|
-| Machine Learning | 🟡 Learning |
-| Deep Learning | 🔴 Beginner |
-| NLP | 🔴 Beginner |
-| Computer Vision | ⚪ Planned |
+| Machine Learning | 🟢 Proficient |
+| Deep Learning | ⚪ Planned |
+| NLP | ⚪ Planned |
+| Computer Vision | 🔴 Beginner |
 | TensorFlow | 🔴 Beginner |
-| PyTorch | ⚪ Planned |
+| PyTorch | 🟢 Proficient |
 
 ### Devops
 
 | Skill | Status |
 |-------|--------|
 | Docker | 🟢 Proficient |
-| Kubernetes | 🔴 Beginner |
+| Kubernetes | 🟢 Proficient |
 | CI/CD | ⚪ Planned |
 | AWS | 🔴 Beginner |
 | Azure | 🟡 Learning |
@@ -539,9 +543,9 @@ consolidated into a single option `MockModuleOpti...
 
 | Skill | Status |
 |-------|--------|
-| Blockchain | ⚪ Planned |
-| Web3 | 🟢 Proficient |
-| Cloud Computing | 🟡 Learning |
+| Blockchain | 🟢 Proficient |
+| Web3 | ⚪ Planned |
+| Cloud Computing | 🟢 Proficient |
 
 </details>
 
