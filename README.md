@@ -46,10 +46,14 @@
 
 ### 📑 Hacker News
 
-- **[How to Host a Blog on a Subdirectory Instead of a Subdomain](https://www.davidma.org/blog/2025-11-14-host-your-blog-on-a-subdirectory/)**
-  *<p>Article URL: <a href="https://www.davidma.org/blog/2025-11-14-host-your-blog-on-a-subdirectory/">https://www.davidma.org/blog/2025-11-14-host-your-blog-on-a-subdirectory/</a></p>
-<p>Comments URL: <...*
-  📅 Fri, 17 Apr 2026 22:53:18 +0000
+- **[Show HN: I made a calculator that works over disjoint sets of intervals](https://victorpoughon.github.io/interval-calculator/)**
+  *<p>I've been studying interval arithmetic for the past few weeks and it's a really interesting field because while there is a ton of super interesting research published over the past decades, it has ...*
+  📅 Sat, 18 Apr 2026 01:15:43 +0000
+
+- **[Casus Belli Engineering](https://marcosmagueta.com/blog/casus-belli-engineering/)**
+  *<p>Article URL: <a href="https://marcosmagueta.com/blog/casus-belli-engineering/">https://marcosmagueta.com/blog/casus-belli-engineering/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com...*
+  📅 Sat, 18 Apr 2026 01:14:02 +0000
 
 - **[Landmark ancient-genome study shows surprise acceleration of human evolution](https://www.nature.com/articles/d41586-026-01204-5)**
   *<p>Related: <i>Ancient DNA reveals pervasive directional selection across West Eurasia [pdf]</i> - <a href="https://news.ycombinator.com/item?id=47791282">https://news.ycombinator.com/item?id=47791282...*
@@ -64,16 +68,16 @@
   *<p>Article URL: <a href="https://www.ycombinator.com/companies/arc-prize-foundation/jobs/AKZRZDN-platform-engineer-benchmark-lead">https://www.ycombinator.com/companies/arc-prize-foundation/jobs/AKZRZ...*
   📅 Fri, 17 Apr 2026 21:00:08 +0000
 
-- **[Even "cat readme.txt" is not safe](https://blog.calif.io/p/mad-bugs-even-cat-readmetxt-is-not)**
+- **["cat readme.txt" is not safe if you use iTerm2](https://blog.calif.io/p/mad-bugs-even-cat-readmetxt-is-not)**
   *<p>Article URL: <a href="https://blog.calif.io/p/mad-bugs-even-cat-readmetxt-is-not">https://blog.calif.io/p/mad-bugs-even-cat-readmetxt-is-not</a></p>
 <p>Comments URL: <a href="https://news.ycombinat...*
   📅 Fri, 17 Apr 2026 18:43:32 +0000
 
-- **[All 12 moonwalkers had "lunar hay fever" from dust smelling like gunpowder (2018)](https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/The_toxic_side_of_the_Moon)**
-  *<p>Article URL: <a href="https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/The_toxic_side_of_the_Moon">https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/The_tox...*
-  📅 Fri, 17 Apr 2026 18:17:01 +0000
-
 ### 📑 TechCrunch
+
+- **[Once close enough for an acquisition, Stripe and Airwallex are now going after each other](https://techcrunch.com/2026/04/17/once-close-enough-for-an-acquisition-stripe-and-airwallex-are-now-going-after-each-other/)**
+  *For most of its life, Airwallex and Stripe have mostly operated in different geographies, selling to different buyers. That's changing....*
+  📅 Sat, 18 Apr 2026 05:20:11 +0000
 
 - **[Sam Altman’s project World looks to scale its human verification empire. First stop: Tinder.](https://techcrunch.com/2026/04/17/sam-altmans-project-world-looks-to-scale-its-human-verification-empire-first-stop-tinder/)**
   *World, which has raised eyebrows (but also a lot of interest) with its Orb-centered anonymous verification project, is looking to expand its influence via a bevy of new partnerships....*
@@ -95,25 +99,15 @@
   *There's a lot more code — but it's a lot more expensive and requires a lot more rewriting....*
   📅 Fri, 17 Apr 2026 18:42:45 +0000
 
-- **[Hackers are abusing unpatched Windows security flaws to hack into organizations](https://techcrunch.com/2026/04/17/hackers-are-abusing-unpatched-windows-security-flaws-to-hack-into-organizations/)**
-  *A security researcher published details of three security vulnerabilities in Windows Defender, and the code used to exploit them. Now, hackers are taking advantage of the vulnerabilities in real-life ...*
-  📅 Fri, 17 Apr 2026 17:48:46 +0000
-
 ### 📑 Dev.to
 
-- **[GraphQL vs REST: 18 Claims Fact-Checked with Primary Sources (2026)](https://dev.to/wundergraph/graphql-vs-rest-18-claims-fact-checked-with-primary-sources-2026-117l)**
-  *<p>What happens if we take a scientific approach to analyzing the most common claims about GraphQL vs REST? You might be thinking that you know the answer to most of these claims, and even I thought I...*
-  📅 Sat, 18 Apr 2026 01:23:38 +0000
+- **[How to Always Reply from Your Custom Domain Email in Gmail](https://dev.to/rdjarbeng/how-to-always-reply-from-your-custom-domain-email-in-gmail-9i5)**
+  *<p>You’ve done the hard work. You followed the steps in the earlier post to <a href="https://dev.to/rdjarbeng/how-to-get-a-free-professional-custom-domain-email-steps-for-beginners-on-gmail-9pj">get a...*
+  📅 Sat, 18 Apr 2026 06:55:00 +0000
 
-- **[Jibun Corp's AI Hub Reaches 35 Providers: Adding SiliconFlow and Novita AI](https://dev.to/kanta13jp1/jibun-corps-ai-hub-reaches-35-providers-adding-siliconflow-and-novita-ai-moa)**
-  *<h1>
-  
-  
-  Jibun Corp's AI Hub Reaches 35 Providers: Adding SiliconFlow and Novita AI
-</h1>
-
-<p>We just crossed 35 providers in our unified AI Hub feature. Today we're adding two more OpenAI-compati...*
-  📅 Sat, 18 Apr 2026 01:22:33 +0000
+- **[Extending a Video with Angular, Veo 3.1 Lite, Firebase Cloud Functions, and Firebase Cloud Storage](https://dev.to/gde/extending-a-video-with-angular-veo-31-lite-firebase-cloud-functions-and-firebase-cloud-storage-4ik9)**
+  *<p>Google released the Veo 3.1 Lite model for AI video generation in the Gemini API, Gemini in Vertex AI, and Gemini AI Studio. This model solves a common developer pain point: generating high-quality...*
+  📅 Sat, 18 Apr 2026 06:50:21 +0000
 
 </details>
 
@@ -121,103 +115,103 @@
 
 ### 📈 Daily Trending
 
-- **[ravisaiteja15/BLINKIT-ANALYSIS-DASHBOARD-](https://github.com/ravisaiteja15/BLINKIT-ANALYSIS-DASHBOARD-)** ⭐ 1
+- **[Quorinex/Freebuff2API](https://github.com/Quorinex/Freebuff2API)** ⭐ 26
+  ![Go](https://img.shields.io/badge/-Go-cyan)
+  None
+
+- **[Lakr233/bgclick-rev-skill](https://github.com/Lakr233/bgclick-rev-skill)** ⭐ 20
   ![None](https://img.shields.io/badge/-None-lightgrey)
   None
 
-- **[LevTsaturyan/credit_scoring](https://github.com/LevTsaturyan/credit_scoring)** ⭐ 1
-  ![Jupyter Notebook](https://img.shields.io/badge/-Jupyter Notebook-lightgrey)
-  None
+- **[GXDEVS/grouter](https://github.com/GXDEVS/grouter)** ⭐ 9
+  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
+  Universal AI router — OAuth + API Key providers behind one OpenAI-compatible endpoint.
 
-- **[jvlara/irb-fzf-history](https://github.com/jvlara/irb-fzf-history)** ⭐ 1
-  ![Ruby](https://img.shields.io/badge/-Ruby-lightgrey)
-  All the powers of fzf on your ruby history!
-
-- **[Xin-MediaGeek/research-pipeline](https://github.com/Xin-MediaGeek/research-pipeline)** ⭐ 1
+- **[LucieEveille/kiwi-mem](https://github.com/LucieEveille/kiwi-mem)** ⭐ 8
   ![Python](https://img.shields.io/badge/-Python-blue)
-  A multi-step research feasibility assessment pipeline built with Streamlit. Given a research direction, the pipeline screens literature, extracts evidence, and generates a structured feasibility report.
+  🥝 AI 伴侣记忆系统 — 向量搜索、记忆热度、Dream 睡眠整合、日历层级摘要，为 AI 陪伴场景而生。
 
-- **[valdesyx/ip-developing](https://github.com/valdesyx/ip-developing)** ⭐ 1
-  ![None](https://img.shields.io/badge/-None-lightgrey)
-  trying to figure out the systems of a vpn
+- **[geohot/factoring](https://github.com/geohot/factoring)** ⭐ 7
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  the search for a polynomial time factoring algorithm
 
-- **[Menaga-V/Employee-Attrition-Prediction-using-ML](https://github.com/Menaga-V/Employee-Attrition-Prediction-using-ML)** ⭐ 0
-  ![None](https://img.shields.io/badge/-None-lightgrey)
-  None
-
-- **[janastemers27/Mega_Event](https://github.com/janastemers27/Mega_Event)** ⭐ 1
+- **[flashusdt4/Transferable-Flash-USDT-And-Software](https://github.com/flashusdt4/Transferable-Flash-USDT-And-Software)** ⭐ 5
   ![HTML](https://img.shields.io/badge/-HTML-lightgrey)
-  None
+  Trc20, Erc20, Bep20 Flash USDT And Flash USDT Making Software Available 
 
-- **[IvanGav/CyberSeagull5](https://github.com/IvanGav/CyberSeagull5)** ⭐ 1
-  ![None](https://img.shields.io/badge/-None-lightgrey)
-  The Finale
+- **[chubbyxiaopangdun/knowledge-hunter](https://github.com/chubbyxiaopangdun/knowledge-hunter)** ⭐ 4
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  🎯 知识猎手 - 自动化内容监控系统，支持小宇宙播客、YouTube、B站、Twitter等多平台内容自动转录与飞书同步
+
+- **[guimaizi/facai](https://github.com/guimaizi/facai)** ⭐ 5
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  facai网安工具
 
 ### 📈 Weekly Trending
 
-- **[AgentSeal/codeburn](https://github.com/AgentSeal/codeburn)** ⭐ 2,575
+- **[AgentSeal/codeburn](https://github.com/AgentSeal/codeburn)** ⭐ 2,618
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   See where your AI coding tokens go. Interactive TUI dashboard for Claude Code, Codex, and Cursor cost observability.
 
-- **[Nightmare-Eclipse/RedSun](https://github.com/Nightmare-Eclipse/RedSun)** ⭐ 1,353
+- **[Nightmare-Eclipse/RedSun](https://github.com/Nightmare-Eclipse/RedSun)** ⭐ 1,395
   ![C++](https://img.shields.io/badge/-C++-pink)
   The Red Sun vulnerability repository
 
-- **[vercel-labs/wterm](https://github.com/vercel-labs/wterm)** ⭐ 1,337
+- **[vercel-labs/wterm](https://github.com/vercel-labs/wterm)** ⭐ 1,386
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   A terminal emulator for the web
 
-- **[Mouseww/anything-analyzer](https://github.com/Mouseww/anything-analyzer)** ⭐ 1,276
+- **[Mouseww/anything-analyzer](https://github.com/Mouseww/anything-analyzer)** ⭐ 1,306
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   全能协议分析工具：浏览器抓包 + MITM 代理 + 指纹伪装 + AI 分析 + MCP Server 无缝对接 AI Agent/IDE   |  All-in-one protocol analysis toolkit — built-in browser capture, MITM proxy, JS hooks, fingerprint spoofing, AI analysis & MCP server for agent integration
 
-- **[alchaincyf/darwin-skill](https://github.com/alchaincyf/darwin-skill)** ⭐ 1,099
+- **[alchaincyf/darwin-skill](https://github.com/alchaincyf/darwin-skill)** ⭐ 1,122
   ![HTML](https://img.shields.io/badge/-HTML-lightgrey)
   达尔文.skill —— 一个让你的Skill无限进化的系统：评估→改进→测试→保留或回滚 | Autoresearch-inspired autonomous skill optimization for Claude Code. Evaluate, improve, test, keep or revert.
 
-- **[browser-use/video-use](https://github.com/browser-use/video-use)** ⭐ 948
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  None
-
-- **[Robbyant/lingbot-map](https://github.com/Robbyant/lingbot-map)** ⭐ 911
+- **[Robbyant/lingbot-map](https://github.com/Robbyant/lingbot-map)** ⭐ 1,063
   ![Python](https://img.shields.io/badge/-Python-blue)
   A feed-forward 3D foundation model for reconstructing scenes from streaming data
 
-- **[lewislulu/html-ppt-skill](https://github.com/lewislulu/html-ppt-skill)** ⭐ 908
+- **[browser-use/video-use](https://github.com/browser-use/video-use)** ⭐ 1,048
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  None
+
+- **[lewislulu/html-ppt-skill](https://github.com/lewislulu/html-ppt-skill)** ⭐ 982
   ![HTML](https://img.shields.io/badge/-HTML-lightgrey)
   HTML PPT Studio — AgentSkill with 24 themes, 31 layouts, 20+ animations for building professional HTML presentations
 
 ### 📈 Monthly Trending
 
-- **[ultraworkers/claw-code](https://github.com/ultraworkers/claw-code)** ⭐ 185,725
+- **[ultraworkers/claw-code](https://github.com/ultraworkers/claw-code)** ⭐ 185,801
   ![Rust](https://img.shields.io/badge/-Rust-brown)
   The repo is finally unlocked. enjoy the party! The fastest repo in history to surpass 100K stars ⭐. Join Discord: https://discord.gg/5TUQKqFWd Built in Rust using oh-my-codex.
 
-- **[VoltAgent/awesome-design-md](https://github.com/VoltAgent/awesome-design-md)** ⭐ 58,191
+- **[VoltAgent/awesome-design-md](https://github.com/VoltAgent/awesome-design-md)** ⭐ 58,401
   ![None](https://img.shields.io/badge/-None-lightgrey)
   A collection of DESIGN.md files inspired by popular brand design systems. Drop one into your project and let coding agents generate a matching UI.
 
-- **[MemPalace/mempalace](https://github.com/MemPalace/mempalace)** ⭐ 47,570
+- **[MemPalace/mempalace](https://github.com/MemPalace/mempalace)** ⭐ 47,634
   ![Python](https://img.shields.io/badge/-Python-blue)
   The best-benchmarked open-source AI memory system. And it's free.
 
-- **[JuliusBrussee/caveman](https://github.com/JuliusBrussee/caveman)** ⭐ 36,934
+- **[JuliusBrussee/caveman](https://github.com/JuliusBrussee/caveman)** ⭐ 37,115
   ![Python](https://img.shields.io/badge/-Python-blue)
   🪨 why use many token when few token do trick — Claude Code skill that cuts 65% of tokens by talking like caveman
 
-- **[santifer/career-ops](https://github.com/santifer/career-ops)** ⭐ 35,651
+- **[santifer/career-ops](https://github.com/santifer/career-ops)** ⭐ 35,734
   ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
   AI-powered job search system built on Claude Code. 14 skill modes, Go dashboard, PDF generation, batch processing.
 
-- **[safishamsi/graphify](https://github.com/safishamsi/graphify)** ⭐ 29,132
+- **[safishamsi/graphify](https://github.com/safishamsi/graphify)** ⭐ 29,309
   ![Python](https://img.shields.io/badge/-Python-blue)
   AI coding assistant skill (Claude Code, Codex, OpenCode, Cursor, Gemini CLI, GitHub Copilot CLI, OpenClaw, Factory Droid, Trae, Google Antigravity). Turn any folder of code, docs, papers, images, or videos into a queryable knowledge graph
 
-- **[Gitlawb/openclaude](https://github.com/Gitlawb/openclaude)** ⭐ 22,296
+- **[Gitlawb/openclaude](https://github.com/Gitlawb/openclaude)** ⭐ 22,333
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   Open Claude Is Open-source coding-agent CLI for OpenAI, Gemini, DeepSeek, Ollama, Codex, GitHub Models, and 200+ models via OpenAI-compatible APIs.
 
-- **[claude-code-best/claude-code](https://github.com/claude-code-best/claude-code)** ⭐ 16,166
+- **[claude-code-best/claude-code](https://github.com/claude-code-best/claude-code)** ⭐ 16,177
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   原汁原昧 Claude Code 可运行,可构建, 可调试版; Typescript 类型全修复; 企业级可靠性; 安全无毒, lock 文件保真, 可直接 bun i; bun run dev 启动
 
@@ -498,59 +492,59 @@ consolidated into a single option `MockModuleOpti...
 
 | Skill | Status |
 |-------|--------|
-| Java | ⚪ Planned |
-| Python | ⚪ Planned |
-| JavaScript | 🟢 Proficient |
-| TypeScript | ⚪ Planned |
-| Go | 🔴 Beginner |
+| Java | 🔴 Beginner |
+| Python | 🟡 Learning |
+| JavaScript | 🔴 Beginner |
+| TypeScript | 🔴 Beginner |
+| Go | ⚪ Planned |
 
 ### Frameworks
 
 | Skill | Status |
 |-------|--------|
-| React | 🟡 Learning |
-| Spring Boot | 🟢 Proficient |
-| Django | ⚪ Planned |
-| Node.js | 🟢 Proficient |
-| Next.js | ⚪ Planned |
+| React | 🟢 Proficient |
+| Spring Boot | 🟡 Learning |
+| Django | 🟡 Learning |
+| Node.js | ⚪ Planned |
+| Next.js | 🟡 Learning |
 
 ### Cybersecurity
 
 | Skill | Status |
 |-------|--------|
-| Penetration Testing | 🟢 Proficient |
-| Web Security | ⚪ Planned |
-| Network Security | 🔴 Beginner |
+| Penetration Testing | 🟡 Learning |
+| Web Security | 🟢 Proficient |
+| Network Security | 🟡 Learning |
 | OWASP | 🔴 Beginner |
 
 ### Ai Ml
 
 | Skill | Status |
 |-------|--------|
-| Machine Learning | ⚪ Planned |
-| Deep Learning | 🔴 Beginner |
-| NLP | 🔴 Beginner |
+| Machine Learning | 🟡 Learning |
+| Deep Learning | 🟡 Learning |
+| NLP | 🟡 Learning |
 | Computer Vision | 🔴 Beginner |
-| TensorFlow | 🔴 Beginner |
-| PyTorch | 🟢 Proficient |
+| TensorFlow | 🟡 Learning |
+| PyTorch | 🔴 Beginner |
 
 ### Devops
 
 | Skill | Status |
 |-------|--------|
-| Docker | 🟡 Learning |
-| Kubernetes | 🟡 Learning |
-| CI/CD | 🟡 Learning |
-| AWS | ⚪ Planned |
-| Azure | 🟢 Proficient |
+| Docker | 🟢 Proficient |
+| Kubernetes | ⚪ Planned |
+| CI/CD | 🟢 Proficient |
+| AWS | 🟢 Proficient |
+| Azure | ⚪ Planned |
 
 ### Other
 
 | Skill | Status |
 |-------|--------|
-| Blockchain | ⚪ Planned |
-| Web3 | 🟡 Learning |
-| Cloud Computing | ⚪ Planned |
+| Blockchain | 🟡 Learning |
+| Web3 | 🟢 Proficient |
+| Cloud Computing | 🔴 Beginner |
 
 </details>
 
