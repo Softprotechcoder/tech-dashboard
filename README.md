@@ -20,7 +20,7 @@
 | Metric | Count |
 |--------|-------|
 | 📰 Latest News Articles | 26 |
-| 🔥 Trending Repositories | 0 |
+| 🔥 Trending Repositories | 45 |
 | 🎯 Latest Releases | 10 |
 | 🎯 Learning Goals | 4 |
 
@@ -46,34 +46,44 @@
 
 ### 📑 Hacker News
 
-- **[The quiet disappearance of the free-range childhood](https://bigthink.com/mind-behavior/the-quiet-disappearance-of-the-free-range-childhood/)**
-  *<p>Article URL: <a href="https://bigthink.com/mind-behavior/the-quiet-disappearance-of-the-free-range-childhood/">https://bigthink.com/mind-behavior/the-quiet-disappearance-of-the-free-range-childhood...*
-  📅 Sat, 18 Apr 2026 11:43:57 +0000
+- **[Graphs That Explain the State of AI in 2026](https://spectrum.ieee.org/state-of-ai-index-2026)**
+  *<p>Article URL: <a href="https://spectrum.ieee.org/state-of-ai-index-2026">https://spectrum.ieee.org/state-of-ai-index-2026</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=47817...*
+  📅 Sat, 18 Apr 2026 17:12:44 +0000
 
-- **[State of Kdenlive](https://kdenlive.org/news/2026/state-2026/)**
-  *<p>Article URL: <a href="https://kdenlive.org/news/2026/state-2026/">https://kdenlive.org/news/2026/state-2026/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=47815118">https:/...*
-  📅 Sat, 18 Apr 2026 11:42:37 +0000
+- **[UpCodes (YC S17) Is Hiring SDRs to Help Make Construction More Productive](https://up.codes/careers?utm_source=HN)**
+  *<p>Article URL: <a href="https://up.codes/careers?utm_source=HN">https://up.codes/careers?utm_source=HN</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=47817473">https://news.yc...*
+  📅 Sat, 18 Apr 2026 17:01:56 +0000
 
-- **[Claude Code Opus 4.7 keeps checking on malware](https://news.ycombinator.com/item?id=47814832)**
-  *<p>So during development, at every task I start, I see a line like this:<p>`Own bug file — not malware.`<p>It seems that it's obsessively checking if it's working on malware production.<p>In another s...*
-  📅 Sat, 18 Apr 2026 10:46:17 +0000
+- **[The USDA's gardening zones have shifted. (Interactive app and map)](https://apps.npr.org/plant-hardiness-garden-map/)**
+  *<p>Article URL: <a href="https://apps.npr.org/plant-hardiness-garden-map/">https://apps.npr.org/plant-hardiness-garden-map/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=47817...*
+  📅 Sat, 18 Apr 2026 16:31:25 +0000
 
-- **[Category Theory Illustrated – Orders](https://abuseofnotation.github.io/category-theory-illustrated/04_order/)**
-  *<p>Article URL: <a href="https://abuseofnotation.github.io/category-theory-illustrated/04_order/">https://abuseofnotation.github.io/category-theory-illustrated/04_order/</a></p>
-<p>Comments URL: <a hr...*
-  📅 Sat, 18 Apr 2026 06:40:47 +0000
+- **[The electromechanical angle computer inside the B-52 bomber's star tracker](https://www.righto.com/2026/04/B-52-star-tracker-angle-computer.html)**
+  *<p>Article URL: <a href="https://www.righto.com/2026/04/B-52-star-tracker-angle-computer.html">https://www.righto.com/2026/04/B-52-star-tracker-angle-computer.html</a></p>
+<p>Comments URL: <a href="ht...*
+  📅 Sat, 18 Apr 2026 16:26:47 +0000
 
-- **[Amiga Graphics](https://amiga.lychesis.net/)**
-  *<p>Article URL: <a href="https://amiga.lychesis.net/">https://amiga.lychesis.net/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=47813566">https://news.ycombinator.com/item?id=...*
-  📅 Sat, 18 Apr 2026 06:20:04 +0000
+- **[Opus 4.7 to 4.6 Inflation is ~45%](https://tokens.billchambers.me/leaderboard)**
+  *<p>Article URL: <a href="https://tokens.billchambers.me/leaderboard">https://tokens.billchambers.me/leaderboard</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=47816960">https:/...*
+  📅 Sat, 18 Apr 2026 16:05:43 +0000
 
-- **[Show HN: Sfsym – Export Apple SF Symbols as Vector SVG/PDF/PNG](https://github.com/yapstudios/sfsym)**
-  *<p>I found myself reaching for SF Symbols' 'Copy Image As…' quite often during agentic design sessions, so I made a command-line tool that the agent can use by itself. It exports Apple SF Symbols as S...*
-  📅 Sat, 18 Apr 2026 03:44:54 +0000
+- **[Amazon is discontinuing Kindle for PC on June 30th](https://goodereader.com/blog/kindle/amazon-is-discontinuing-kindle-for-pc-on-june-30th)**
+  *<p>Article URL: <a href="https://goodereader.com/blog/kindle/amazon-is-discontinuing-kindle-for-pc-on-june-30th">https://goodereader.com/blog/kindle/amazon-is-discontinuing-kindle-for-pc-on-june-30th<...*
+  📅 Sat, 18 Apr 2026 15:54:37 +0000
 
 ### 📑 TechCrunch
+
+- **[Anthropic’s relationship with the Trump administration seems to be thawing](https://techcrunch.com/2026/04/18/anthropics-relationship-with-the-trump-administration-seems-to-be-thawing/)**
+  *Despite recently being designated a supply-chain risk by the Pentagon, Anthropic is still talking to high-level members of the Trump administration....*
+  📅 Sat, 18 Apr 2026 14:56:48 +0000
+
+- **[The App Store is booming again, and AI may be why](https://techcrunch.com/2026/04/18/the-app-store-is-booming-again-and-ai-may-be-why/)**
+  *New data from Appfigures shows a swell of new app launches in 2026, suggesting AI tools could be fueling a mobile software boom....*
+  📅 Sat, 18 Apr 2026 13:00:00 +0000
 
 - **[Once close enough for an acquisition, Stripe and Airwallex are now going after each other](https://techcrunch.com/2026/04/17/once-close-enough-for-an-acquisition-stripe-and-airwallex-are-now-going-after-each-other/)**
   *For most of its life, Airwallex and Stripe have mostly operated in different geographies, selling to different buyers. That's changing....*
@@ -91,34 +101,123 @@
   *Nicholas Moore hacked into three U.S. government networks using stolen credentials, and then bragged about it and posted victims' personal data on Instagram under the handle @ihackedthegovernment....*
   📅 Fri, 17 Apr 2026 20:16:13 +0000
 
-- **[Sources: Cursor in talks to raise $2B+ at $50B valuation as enterprise growth surges](https://techcrunch.com/2026/04/17/sources-cursor-in-talks-to-raise-2b-at-50b-valuation-as-enterprise-growth-surges/)**
-  *Returning backers a16z and Thrive are expected to lead the round....*
-  📅 Fri, 17 Apr 2026 19:17:26 +0000
-
-- **[‘Tokenmaxxing’ is making developers less productive than they think](https://techcrunch.com/2026/04/17/tokenmaxxing-is-making-developers-less-productive-than-they-think/)**
-  *There's a lot more code — but it's a lot more expensive and requires a lot more rewriting....*
-  📅 Fri, 17 Apr 2026 18:42:45 +0000
-
 ### 📑 Dev.to
 
-- **[I Built a Skill Registration Framework for AI Agents in 3000 Lines of TypeScript](https://dev.to/vardhineediganesh877ui/i-built-a-skill-registration-framework-for-ai-agents-in-3000-lines-of-typescript-28db)**
-  *<p>I was tired of every AI agent framework having a different way to register tools. So I built one that works for all of them.</p>
+- **[Introducing @accesslint/jest: progressive accessibility testing for Jest](https://dev.to/cameron-accesslint/introducing-accesslintjest-progressive-accessibility-testing-for-jest-3i7j)**
+  *<p>This post is for the team rolling out accessibility testing: developer tooling, CI platform, design systems, frontend tooling, or their engineering managers. Enabling accessibility tests on greenfi...*
+  📅 Sat, 18 Apr 2026 18:18:18 +0000
 
-<div class="highlight js-code-highlight">
-<pre class="highlight pla...*
-  📅 Sat, 18 Apr 2026 12:29:00 +0000
+- **[Building Systems, Not Just Code](https://dev.to/chaitanyakukwas1/building-systems-not-just-code-4deg)**
+  *<p>Strong fundamentals don’t just improve code—they shape how systems are built.</p>
 
-- **[Cloud sync is a feature you’re paying for with your privacy](https://dev.to/phlx0/the-case-for-offline-first-developer-tools-4fec)**
-  *<p>Open a new app. Create an account. Verify your email. Choose a plan. Grant permissions. Now you can take notes.</p>
-
-<p>This is the default in 2026. And most developers just accept it.</p>
-
-<p>I've...*
-  📅 Sat, 18 Apr 2026 12:23:28 +0000
+<p>Working deeply with Core Java sharpened my approach to problem-solving, from designing scalable object models t...*
+  📅 Sat, 18 Apr 2026 18:17:38 +0000
 
 </details>
 
 ## 🔥 Trending Repositories
+
+### 📈 Daily Trending
+
+- **[Quorinex/Freebuff2API](https://github.com/Quorinex/Freebuff2API)** ⭐ 156
+  ![Go](https://img.shields.io/badge/-Go-cyan)
+  🚀 OpenAI-compatible Freebuff proxy with dynamic free-agent tracking, token rotation, and ready-to-use Docker deployment.
+
+- **[EvoLinkAI/awesome-gpt-image-2-prompts](https://github.com/EvoLinkAI/awesome-gpt-image-2-prompts)** ⭐ 121
+  ![None](https://img.shields.io/badge/-None-lightgrey)
+  Curated GPT-Image-2 prompts and image examples across portraits, posters, UI mockups, character sheets, and community experiments.
+
+- **[VoltAgent/awesome-claude-design](https://github.com/VoltAgent/awesome-claude-design)** ⭐ 97
+  ![None](https://img.shields.io/badge/-None-lightgrey)
+  Awesome Claude Design: 68 ready-to-use design system inspirations in DESIGN.md format. Drop one in, scaffold a full UI in one shot.
+
+- **[nizarlbogos/Windrose-Game-Server-Docker](https://github.com/nizarlbogos/Windrose-Game-Server-Docker)** ⭐ 56
+  ![C++](https://img.shields.io/badge/-C++-pink)
+  Docker container for running a Windrose dedicated server. Easy self-hosting solution with Wine and SteamCMD for the pirate survival game Windrose.
+
+- **[chabba1234/Claude-Design-By-Anthropic](https://github.com/chabba1234/Claude-Design-By-Anthropic)** ⭐ 55
+  ![C++](https://img.shields.io/badge/-C++-pink)
+  Download Free Claude Desktop - Designed by Anthropic is a beautiful and free desktop application for Claude AI. Enjoy fast chatting, advanced coding, writing assistance, and a modern elegant interface optimized for Windows users.
+
+- **[aidanBoi123/AutoDesk-AutoCad-2026-Desktop](https://github.com/aidanBoi123/AutoDesk-AutoCad-2026-Desktop)** ⭐ 52
+  ![C++](https://img.shields.io/badge/-C++-pink)
+  Free CAD 2026 PC Desktop Version is the latest optimized edition of professional CAD software. Offers powerful 2D and 3D design tools with improved performance and modern interface for Windows.
+
+- **[Lakr233/bgclick-rev-skill](https://github.com/Lakr233/bgclick-rev-skill)** ⭐ 47
+  ![None](https://img.shields.io/badge/-None-lightgrey)
+  None
+
+- **[infixity24/Extreme-Injector-v3.7.3-Dll-Injector](https://github.com/infixity24/Extreme-Injector-v3.7.3-Dll-Injector)** ⭐ 44
+  ![C++](https://img.shields.io/badge/-C++-pink)
+  Extreme Injector v3.7.3 is a powerful and easy-to-use DLL injector for Windows. Supports Manual Map, Stealth mode, Auto-Inject, and multiple injection methods. Ideal for developers and single-player game modding.
+
+### 📈 Weekly Trending
+
+- **[AgentSeal/codeburn](https://github.com/AgentSeal/codeburn)** ⭐ 2,687
+  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
+  See where your AI coding tokens go. Interactive TUI dashboard for Claude Code, Codex, and Cursor cost observability.
+
+- **[Robbyant/lingbot-map](https://github.com/Robbyant/lingbot-map)** ⭐ 1,651
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  A feed-forward 3D foundation model for reconstructing scenes from streaming data
+
+- **[Nightmare-Eclipse/RedSun](https://github.com/Nightmare-Eclipse/RedSun)** ⭐ 1,476
+  ![C++](https://img.shields.io/badge/-C++-pink)
+  The Red Sun vulnerability repository
+
+- **[vercel-labs/wterm](https://github.com/vercel-labs/wterm)** ⭐ 1,432
+  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
+  A terminal emulator for the web
+
+- **[Mouseww/anything-analyzer](https://github.com/Mouseww/anything-analyzer)** ⭐ 1,344
+  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
+  全能协议分析工具：浏览器抓包 + MITM 代理 + 指纹伪装 + AI 分析 + MCP Server 无缝对接 AI Agent/IDE   |  All-in-one protocol analysis toolkit — built-in browser capture, MITM proxy, JS hooks, fingerprint spoofing, AI analysis & MCP server for agent integration
+
+- **[alchaincyf/darwin-skill](https://github.com/alchaincyf/darwin-skill)** ⭐ 1,184
+  ![HTML](https://img.shields.io/badge/-HTML-lightgrey)
+  达尔文.skill —— 一个让你的Skill无限进化的系统：评估→改进→测试→保留或回滚 | Autoresearch-inspired autonomous skill optimization for Claude Code. Evaluate, improve, test, keep or revert.
+
+- **[browser-use/video-use](https://github.com/browser-use/video-use)** ⭐ 1,182
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  None
+
+- **[lewislulu/html-ppt-skill](https://github.com/lewislulu/html-ppt-skill)** ⭐ 1,124
+  ![HTML](https://img.shields.io/badge/-HTML-lightgrey)
+  HTML PPT Studio — AgentSkill with 24 themes, 31 layouts, 20+ animations for building professional HTML presentations
+
+### 📈 Monthly Trending
+
+- **[ultraworkers/claw-code](https://github.com/ultraworkers/claw-code)** ⭐ 185,966
+  ![Rust](https://img.shields.io/badge/-Rust-brown)
+  The repo is finally unlocked. enjoy the party! The fastest repo in history to surpass 100K stars ⭐. Join Discord: https://discord.gg/5TUQKqFWd Built in Rust using oh-my-codex.
+
+- **[VoltAgent/awesome-design-md](https://github.com/VoltAgent/awesome-design-md)** ⭐ 59,191
+  ![None](https://img.shields.io/badge/-None-lightgrey)
+  A collection of DESIGN.md files inspired by popular brand design systems. Drop one into your project and let coding agents generate a matching UI.
+
+- **[MemPalace/mempalace](https://github.com/MemPalace/mempalace)** ⭐ 47,807
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  The best-benchmarked open-source AI memory system. And it's free.
+
+- **[JuliusBrussee/caveman](https://github.com/JuliusBrussee/caveman)** ⭐ 37,632
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  🪨 why use many token when few token do trick — Claude Code skill that cuts 65% of tokens by talking like caveman
+
+- **[santifer/career-ops](https://github.com/santifer/career-ops)** ⭐ 35,932
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
+  AI-powered job search system built on Claude Code. 14 skill modes, Go dashboard, PDF generation, batch processing.
+
+- **[safishamsi/graphify](https://github.com/safishamsi/graphify)** ⭐ 29,726
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  AI coding assistant skill (Claude Code, Codex, OpenCode, Cursor, Gemini CLI, GitHub Copilot CLI, OpenClaw, Factory Droid, Trae, Google Antigravity). Turn any folder of code, docs, papers, images, or videos into a queryable knowledge graph
+
+- **[Gitlawb/openclaude](https://github.com/Gitlawb/openclaude)** ⭐ 22,433
+  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
+  Open Claude Is Open-source coding-agent CLI for OpenAI, Gemini, DeepSeek, Ollama, Codex, GitHub Models, and 200+ models via OpenAI-compatible APIs.
+
+- **[claude-code-best/claude-code](https://github.com/claude-code-best/claude-code)** ⭐ 16,226
+  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
+  原汁原昧 Claude Code 可运行,可构建, 可调试版; Typescript 类型全修复; 企业级可靠性; 安全无毒, lock 文件保真, 可直接 bun i; bun run dev 启动
 
 ## 🚀 Latest Releases
 
@@ -397,20 +496,20 @@ consolidated into a single option `MockModuleOpti...
 
 | Skill | Status |
 |-------|--------|
-| Java | 🟡 Learning |
-| Python | 🔴 Beginner |
-| JavaScript | ⚪ Planned |
-| TypeScript | 🟡 Learning |
-| Go | ⚪ Planned |
+| Java | 🟢 Proficient |
+| Python | 🟢 Proficient |
+| JavaScript | 🔴 Beginner |
+| TypeScript | ⚪ Planned |
+| Go | 🟡 Learning |
 
 ### Frameworks
 
 | Skill | Status |
 |-------|--------|
 | React | 🟢 Proficient |
-| Spring Boot | 🟢 Proficient |
-| Django | 🟡 Learning |
-| Node.js | 🟡 Learning |
+| Spring Boot | ⚪ Planned |
+| Django | 🔴 Beginner |
+| Node.js | 🟢 Proficient |
 | Next.js | 🟢 Proficient |
 
 ### Cybersecurity
@@ -418,20 +517,20 @@ consolidated into a single option `MockModuleOpti...
 | Skill | Status |
 |-------|--------|
 | Penetration Testing | 🟡 Learning |
-| Web Security | ⚪ Planned |
-| Network Security | 🔴 Beginner |
-| OWASP | 🟢 Proficient |
+| Web Security | 🔴 Beginner |
+| Network Security | 🟢 Proficient |
+| OWASP | ⚪ Planned |
 
 ### Ai Ml
 
 | Skill | Status |
 |-------|--------|
-| Machine Learning | 🟡 Learning |
+| Machine Learning | 🔴 Beginner |
 | Deep Learning | 🟢 Proficient |
-| NLP | 🔴 Beginner |
+| NLP | 🟢 Proficient |
 | Computer Vision | ⚪ Planned |
-| TensorFlow | 🟡 Learning |
-| PyTorch | 🟢 Proficient |
+| TensorFlow | 🟢 Proficient |
+| PyTorch | 🔴 Beginner |
 
 ### Devops
 
@@ -439,17 +538,17 @@ consolidated into a single option `MockModuleOpti...
 |-------|--------|
 | Docker | ⚪ Planned |
 | Kubernetes | 🟢 Proficient |
-| CI/CD | 🟡 Learning |
-| AWS | ⚪ Planned |
-| Azure | 🟢 Proficient |
+| CI/CD | 🔴 Beginner |
+| AWS | 🟡 Learning |
+| Azure | ⚪ Planned |
 
 ### Other
 
 | Skill | Status |
 |-------|--------|
-| Blockchain | ⚪ Planned |
-| Web3 | ⚪ Planned |
-| Cloud Computing | ⚪ Planned |
+| Blockchain | 🔴 Beginner |
+| Web3 | 🟡 Learning |
+| Cloud Computing | 🟡 Learning |
 
 </details>
 
