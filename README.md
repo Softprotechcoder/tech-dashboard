@@ -20,7 +20,7 @@
 | Metric | Count |
 |--------|-------|
 | 📰 Latest News Articles | 26 |
-| 🔥 Trending Repositories | 45 |
+| 🔥 Trending Repositories | 0 |
 | 🎯 Latest Releases | 10 |
 | 🎯 Learning Goals | 4 |
 
@@ -46,32 +46,32 @@
 
 ### 📑 Hacker News
 
-- **[Show HN: I made a calculator that works over disjoint sets of intervals](https://victorpoughon.github.io/interval-calculator/)**
-  *<p>I've been studying interval arithmetic for the past few weeks and it's a really interesting field because while there is a ton of super interesting research published over the past decades, it has ...*
-  📅 Sat, 18 Apr 2026 01:15:43 +0000
+- **[The quiet disappearance of the free-range childhood](https://bigthink.com/mind-behavior/the-quiet-disappearance-of-the-free-range-childhood/)**
+  *<p>Article URL: <a href="https://bigthink.com/mind-behavior/the-quiet-disappearance-of-the-free-range-childhood/">https://bigthink.com/mind-behavior/the-quiet-disappearance-of-the-free-range-childhood...*
+  📅 Sat, 18 Apr 2026 11:43:57 +0000
 
-- **[Casus Belli Engineering](https://marcosmagueta.com/blog/casus-belli-engineering/)**
-  *<p>Article URL: <a href="https://marcosmagueta.com/blog/casus-belli-engineering/">https://marcosmagueta.com/blog/casus-belli-engineering/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com...*
-  📅 Sat, 18 Apr 2026 01:14:02 +0000
+- **[State of Kdenlive](https://kdenlive.org/news/2026/state-2026/)**
+  *<p>Article URL: <a href="https://kdenlive.org/news/2026/state-2026/">https://kdenlive.org/news/2026/state-2026/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=47815118">https:/...*
+  📅 Sat, 18 Apr 2026 11:42:37 +0000
 
-- **[Landmark ancient-genome study shows surprise acceleration of human evolution](https://www.nature.com/articles/d41586-026-01204-5)**
-  *<p>Related: <i>Ancient DNA reveals pervasive directional selection across West Eurasia [pdf]</i> - <a href="https://news.ycombinator.com/item?id=47791282">https://news.ycombinator.com/item?id=47791282...*
-  📅 Fri, 17 Apr 2026 22:30:28 +0000
+- **[Claude Code Opus 4.7 keeps checking on malware](https://news.ycombinator.com/item?id=47814832)**
+  *<p>So during development, at every task I start, I see a line like this:<p>`Own bug file — not malware.`<p>It seems that it's obsessively checking if it's working on malware production.<p>In another s...*
+  📅 Sat, 18 Apr 2026 10:46:17 +0000
 
-- **[A simplified model of Fil-C](https://www.corsix.org/content/simplified-model-of-fil-c)**
-  *<p>Article URL: <a href="https://www.corsix.org/content/simplified-model-of-fil-c">https://www.corsix.org/content/simplified-model-of-fil-c</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.c...*
-  📅 Fri, 17 Apr 2026 21:38:20 +0000
+- **[Category Theory Illustrated – Orders](https://abuseofnotation.github.io/category-theory-illustrated/04_order/)**
+  *<p>Article URL: <a href="https://abuseofnotation.github.io/category-theory-illustrated/04_order/">https://abuseofnotation.github.io/category-theory-illustrated/04_order/</a></p>
+<p>Comments URL: <a hr...*
+  📅 Sat, 18 Apr 2026 06:40:47 +0000
 
-- **[Arc Prize Foundation (YC W26) Is Hiring a Platform Engineer for ARC-AGI-4](https://www.ycombinator.com/companies/arc-prize-foundation/jobs/AKZRZDN-platform-engineer-benchmark-lead)**
-  *<p>Article URL: <a href="https://www.ycombinator.com/companies/arc-prize-foundation/jobs/AKZRZDN-platform-engineer-benchmark-lead">https://www.ycombinator.com/companies/arc-prize-foundation/jobs/AKZRZ...*
-  📅 Fri, 17 Apr 2026 21:00:08 +0000
+- **[Amiga Graphics](https://amiga.lychesis.net/)**
+  *<p>Article URL: <a href="https://amiga.lychesis.net/">https://amiga.lychesis.net/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=47813566">https://news.ycombinator.com/item?id=...*
+  📅 Sat, 18 Apr 2026 06:20:04 +0000
 
-- **["cat readme.txt" is not safe if you use iTerm2](https://blog.calif.io/p/mad-bugs-even-cat-readmetxt-is-not)**
-  *<p>Article URL: <a href="https://blog.calif.io/p/mad-bugs-even-cat-readmetxt-is-not">https://blog.calif.io/p/mad-bugs-even-cat-readmetxt-is-not</a></p>
-<p>Comments URL: <a href="https://news.ycombinat...*
-  📅 Fri, 17 Apr 2026 18:43:32 +0000
+- **[Show HN: Sfsym – Export Apple SF Symbols as Vector SVG/PDF/PNG](https://github.com/yapstudios/sfsym)**
+  *<p>I found myself reaching for SF Symbols' 'Copy Image As…' quite often during agentic design sessions, so I made a command-line tool that the agent can use by itself. It exports Apple SF Symbols as S...*
+  📅 Sat, 18 Apr 2026 03:44:54 +0000
 
 ### 📑 TechCrunch
 
@@ -101,119 +101,24 @@
 
 ### 📑 Dev.to
 
-- **[How to Always Reply from Your Custom Domain Email in Gmail](https://dev.to/rdjarbeng/how-to-always-reply-from-your-custom-domain-email-in-gmail-9i5)**
-  *<p>You’ve done the hard work. You followed the steps in the earlier post to <a href="https://dev.to/rdjarbeng/how-to-get-a-free-professional-custom-domain-email-steps-for-beginners-on-gmail-9pj">get a...*
-  📅 Sat, 18 Apr 2026 06:55:00 +0000
+- **[I Built a Skill Registration Framework for AI Agents in 3000 Lines of TypeScript](https://dev.to/vardhineediganesh877ui/i-built-a-skill-registration-framework-for-ai-agents-in-3000-lines-of-typescript-28db)**
+  *<p>I was tired of every AI agent framework having a different way to register tools. So I built one that works for all of them.</p>
 
-- **[Extending a Video with Angular, Veo 3.1 Lite, Firebase Cloud Functions, and Firebase Cloud Storage](https://dev.to/gde/extending-a-video-with-angular-veo-31-lite-firebase-cloud-functions-and-firebase-cloud-storage-4ik9)**
-  *<p>Google released the Veo 3.1 Lite model for AI video generation in the Gemini API, Gemini in Vertex AI, and Gemini AI Studio. This model solves a common developer pain point: generating high-quality...*
-  📅 Sat, 18 Apr 2026 06:50:21 +0000
+<div class="highlight js-code-highlight">
+<pre class="highlight pla...*
+  📅 Sat, 18 Apr 2026 12:29:00 +0000
+
+- **[Cloud sync is a feature you’re paying for with your privacy](https://dev.to/phlx0/the-case-for-offline-first-developer-tools-4fec)**
+  *<p>Open a new app. Create an account. Verify your email. Choose a plan. Grant permissions. Now you can take notes.</p>
+
+<p>This is the default in 2026. And most developers just accept it.</p>
+
+<p>I've...*
+  📅 Sat, 18 Apr 2026 12:23:28 +0000
 
 </details>
 
 ## 🔥 Trending Repositories
-
-### 📈 Daily Trending
-
-- **[Quorinex/Freebuff2API](https://github.com/Quorinex/Freebuff2API)** ⭐ 26
-  ![Go](https://img.shields.io/badge/-Go-cyan)
-  None
-
-- **[Lakr233/bgclick-rev-skill](https://github.com/Lakr233/bgclick-rev-skill)** ⭐ 20
-  ![None](https://img.shields.io/badge/-None-lightgrey)
-  None
-
-- **[GXDEVS/grouter](https://github.com/GXDEVS/grouter)** ⭐ 9
-  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
-  Universal AI router — OAuth + API Key providers behind one OpenAI-compatible endpoint.
-
-- **[LucieEveille/kiwi-mem](https://github.com/LucieEveille/kiwi-mem)** ⭐ 8
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  🥝 AI 伴侣记忆系统 — 向量搜索、记忆热度、Dream 睡眠整合、日历层级摘要，为 AI 陪伴场景而生。
-
-- **[geohot/factoring](https://github.com/geohot/factoring)** ⭐ 7
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  the search for a polynomial time factoring algorithm
-
-- **[flashusdt4/Transferable-Flash-USDT-And-Software](https://github.com/flashusdt4/Transferable-Flash-USDT-And-Software)** ⭐ 5
-  ![HTML](https://img.shields.io/badge/-HTML-lightgrey)
-  Trc20, Erc20, Bep20 Flash USDT And Flash USDT Making Software Available 
-
-- **[chubbyxiaopangdun/knowledge-hunter](https://github.com/chubbyxiaopangdun/knowledge-hunter)** ⭐ 4
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  🎯 知识猎手 - 自动化内容监控系统，支持小宇宙播客、YouTube、B站、Twitter等多平台内容自动转录与飞书同步
-
-- **[guimaizi/facai](https://github.com/guimaizi/facai)** ⭐ 5
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  facai网安工具
-
-### 📈 Weekly Trending
-
-- **[AgentSeal/codeburn](https://github.com/AgentSeal/codeburn)** ⭐ 2,618
-  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
-  See where your AI coding tokens go. Interactive TUI dashboard for Claude Code, Codex, and Cursor cost observability.
-
-- **[Nightmare-Eclipse/RedSun](https://github.com/Nightmare-Eclipse/RedSun)** ⭐ 1,395
-  ![C++](https://img.shields.io/badge/-C++-pink)
-  The Red Sun vulnerability repository
-
-- **[vercel-labs/wterm](https://github.com/vercel-labs/wterm)** ⭐ 1,386
-  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
-  A terminal emulator for the web
-
-- **[Mouseww/anything-analyzer](https://github.com/Mouseww/anything-analyzer)** ⭐ 1,306
-  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
-  全能协议分析工具：浏览器抓包 + MITM 代理 + 指纹伪装 + AI 分析 + MCP Server 无缝对接 AI Agent/IDE   |  All-in-one protocol analysis toolkit — built-in browser capture, MITM proxy, JS hooks, fingerprint spoofing, AI analysis & MCP server for agent integration
-
-- **[alchaincyf/darwin-skill](https://github.com/alchaincyf/darwin-skill)** ⭐ 1,122
-  ![HTML](https://img.shields.io/badge/-HTML-lightgrey)
-  达尔文.skill —— 一个让你的Skill无限进化的系统：评估→改进→测试→保留或回滚 | Autoresearch-inspired autonomous skill optimization for Claude Code. Evaluate, improve, test, keep or revert.
-
-- **[Robbyant/lingbot-map](https://github.com/Robbyant/lingbot-map)** ⭐ 1,063
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  A feed-forward 3D foundation model for reconstructing scenes from streaming data
-
-- **[browser-use/video-use](https://github.com/browser-use/video-use)** ⭐ 1,048
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  None
-
-- **[lewislulu/html-ppt-skill](https://github.com/lewislulu/html-ppt-skill)** ⭐ 982
-  ![HTML](https://img.shields.io/badge/-HTML-lightgrey)
-  HTML PPT Studio — AgentSkill with 24 themes, 31 layouts, 20+ animations for building professional HTML presentations
-
-### 📈 Monthly Trending
-
-- **[ultraworkers/claw-code](https://github.com/ultraworkers/claw-code)** ⭐ 185,801
-  ![Rust](https://img.shields.io/badge/-Rust-brown)
-  The repo is finally unlocked. enjoy the party! The fastest repo in history to surpass 100K stars ⭐. Join Discord: https://discord.gg/5TUQKqFWd Built in Rust using oh-my-codex.
-
-- **[VoltAgent/awesome-design-md](https://github.com/VoltAgent/awesome-design-md)** ⭐ 58,401
-  ![None](https://img.shields.io/badge/-None-lightgrey)
-  A collection of DESIGN.md files inspired by popular brand design systems. Drop one into your project and let coding agents generate a matching UI.
-
-- **[MemPalace/mempalace](https://github.com/MemPalace/mempalace)** ⭐ 47,634
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  The best-benchmarked open-source AI memory system. And it's free.
-
-- **[JuliusBrussee/caveman](https://github.com/JuliusBrussee/caveman)** ⭐ 37,115
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  🪨 why use many token when few token do trick — Claude Code skill that cuts 65% of tokens by talking like caveman
-
-- **[santifer/career-ops](https://github.com/santifer/career-ops)** ⭐ 35,734
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
-  AI-powered job search system built on Claude Code. 14 skill modes, Go dashboard, PDF generation, batch processing.
-
-- **[safishamsi/graphify](https://github.com/safishamsi/graphify)** ⭐ 29,309
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  AI coding assistant skill (Claude Code, Codex, OpenCode, Cursor, Gemini CLI, GitHub Copilot CLI, OpenClaw, Factory Droid, Trae, Google Antigravity). Turn any folder of code, docs, papers, images, or videos into a queryable knowledge graph
-
-- **[Gitlawb/openclaude](https://github.com/Gitlawb/openclaude)** ⭐ 22,333
-  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
-  Open Claude Is Open-source coding-agent CLI for OpenAI, Gemini, DeepSeek, Ollama, Codex, GitHub Models, and 200+ models via OpenAI-compatible APIs.
-
-- **[claude-code-best/claude-code](https://github.com/claude-code-best/claude-code)** ⭐ 16,177
-  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
-  原汁原昧 Claude Code 可运行,可构建, 可调试版; Typescript 类型全修复; 企业级可靠性; 安全无毒, lock 文件保真, 可直接 bun i; bun run dev 启动
 
 ## 🚀 Latest Releases
 
@@ -492,10 +397,10 @@ consolidated into a single option `MockModuleOpti...
 
 | Skill | Status |
 |-------|--------|
-| Java | 🔴 Beginner |
-| Python | 🟡 Learning |
-| JavaScript | 🔴 Beginner |
-| TypeScript | 🔴 Beginner |
+| Java | 🟡 Learning |
+| Python | 🔴 Beginner |
+| JavaScript | ⚪ Planned |
+| TypeScript | 🟡 Learning |
 | Go | ⚪ Planned |
 
 ### Frameworks
@@ -503,48 +408,48 @@ consolidated into a single option `MockModuleOpti...
 | Skill | Status |
 |-------|--------|
 | React | 🟢 Proficient |
-| Spring Boot | 🟡 Learning |
+| Spring Boot | 🟢 Proficient |
 | Django | 🟡 Learning |
-| Node.js | ⚪ Planned |
-| Next.js | 🟡 Learning |
+| Node.js | 🟡 Learning |
+| Next.js | 🟢 Proficient |
 
 ### Cybersecurity
 
 | Skill | Status |
 |-------|--------|
 | Penetration Testing | 🟡 Learning |
-| Web Security | 🟢 Proficient |
-| Network Security | 🟡 Learning |
-| OWASP | 🔴 Beginner |
+| Web Security | ⚪ Planned |
+| Network Security | 🔴 Beginner |
+| OWASP | 🟢 Proficient |
 
 ### Ai Ml
 
 | Skill | Status |
 |-------|--------|
 | Machine Learning | 🟡 Learning |
-| Deep Learning | 🟡 Learning |
-| NLP | 🟡 Learning |
-| Computer Vision | 🔴 Beginner |
+| Deep Learning | 🟢 Proficient |
+| NLP | 🔴 Beginner |
+| Computer Vision | ⚪ Planned |
 | TensorFlow | 🟡 Learning |
-| PyTorch | 🔴 Beginner |
+| PyTorch | 🟢 Proficient |
 
 ### Devops
 
 | Skill | Status |
 |-------|--------|
-| Docker | 🟢 Proficient |
-| Kubernetes | ⚪ Planned |
-| CI/CD | 🟢 Proficient |
-| AWS | 🟢 Proficient |
-| Azure | ⚪ Planned |
+| Docker | ⚪ Planned |
+| Kubernetes | 🟢 Proficient |
+| CI/CD | 🟡 Learning |
+| AWS | ⚪ Planned |
+| Azure | 🟢 Proficient |
 
 ### Other
 
 | Skill | Status |
 |-------|--------|
-| Blockchain | 🟡 Learning |
-| Web3 | 🟢 Proficient |
-| Cloud Computing | 🔴 Beginner |
+| Blockchain | ⚪ Planned |
+| Web3 | ⚪ Planned |
+| Cloud Computing | ⚪ Planned |
 
 </details>
 
