@@ -46,90 +46,84 @@
 
 ### 📑 Hacker News
 
-- **[Tesla Hid Fatal Accidents to Continue Testing Autonomous Driving (French)](https://www.rts.ch/info/monde/2026/article/tesla-dissimule-des-milliers-d-incidents-de-conduite-autonome-mortels-29214161.html)**
-  *<p>Article URL: <a href="https://www.rts.ch/info/monde/2026/article/tesla-dissimule-des-milliers-d-incidents-de-conduite-autonome-mortels-29214161.html">https://www.rts.ch/info/monde/2026/article/tesl...*
-  📅 Mon, 20 Apr 2026 12:12:19 +0000
+- **[The Palantir's Stasi Protocols](https://professorsigmund.com/praxis/palantir-stasi-protocols.html)**
+  *<p>Article URL: <a href="https://professorsigmund.com/praxis/palantir-stasi-protocols.html">https://professorsigmund.com/praxis/palantir-stasi-protocols.html</a></p>
+<p>Comments URL: <a href="https://...*
+  📅 Mon, 20 Apr 2026 18:01:23 +0000
 
-- **[NASA Artemis Posters](https://www.nasa.gov/gallery/artemis/)**
-  *<p>Article URL: <a href="https://www.nasa.gov/gallery/artemis/">https://www.nasa.gov/gallery/artemis/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=47833092">https://news.ycom...*
-  📅 Mon, 20 Apr 2026 12:05:08 +0000
+- **[At Long Last, InfoWars Is Ours](https://theonion.info/)**
+  *<p>Article URL: <a href="https://theonion.info/">https://theonion.info/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=47837620">https://news.ycombinator.com/item?id=47837620</...*
+  📅 Mon, 20 Apr 2026 17:24:45 +0000
 
-- **[Why macOS27 won't be supporting Intel anymore](https://twitter.com/Lina_Hoshino/status/2046112493320458649)**
-  *<p>Article URL: <a href="https://twitter.com/Lina_Hoshino/status/2046112493320458649">https://twitter.com/Lina_Hoshino/status/2046112493320458649</a></p>
-<p>Comments URL: <a href="https://news.ycombin...*
-  📅 Mon, 20 Apr 2026 11:58:04 +0000
+- **[At long last, InfoWars is ours](https://theonion.com/at-long-last-infowars-is-ours/)**
+  *<p>Article URL: <a href="https://theonion.com/at-long-last-infowars-is-ours/">https://theonion.com/at-long-last-infowars-is-ours/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id...*
+  📅 Mon, 20 Apr 2026 17:23:58 +0000
 
-- **[A Pascal's Wager for AI Doomers](https://pluralistic.net/2026/04/16/pascals-wager/)**
-  *<p>Article URL: <a href="https://pluralistic.net/2026/04/16/pascals-wager/">https://pluralistic.net/2026/04/16/pascals-wager/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=478...*
-  📅 Mon, 20 Apr 2026 11:42:17 +0000
+- **[Bloom (YC P26) Is Hiring](https://www.ycombinator.com/companies/trybloom/jobs)**
+  *<p>Article URL: <a href="https://www.ycombinator.com/companies/trybloom/jobs">https://www.ycombinator.com/companies/trybloom/jobs</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id...*
+  📅 Mon, 20 Apr 2026 17:00:45 +0000
 
-- **[Figma's woes compound with Claude Design](https://martinalderson.com/posts/figmas-woes-compound-with-claude-design/)**
-  *<p>Article URL: <a href="https://martinalderson.com/posts/figmas-woes-compound-with-claude-design/">https://martinalderson.com/posts/figmas-woes-compound-with-claude-design/</a></p>
-<p>Comments URL: <...*
-  📅 Mon, 20 Apr 2026 10:26:35 +0000
+- **[The Theory of Interstellar Trade [pdf] (1978)](https://www.princeton.edu/~pkrugman/interstellar.pdf)**
+  *<p>Article URL: <a href="https://www.princeton.edu/~pkrugman/interstellar.pdf">https://www.princeton.edu/~pkrugman/interstellar.pdf</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?...*
+  📅 Mon, 20 Apr 2026 16:57:10 +0000
 
-- **[M 7.4 earthquake – 100 km ENE of Miyako, Japan](https://earthquake.usgs.gov/earthquakes/eventpage/us6000sri7/)**
-  *<p>Article URL: <a href="https://earthquake.usgs.gov/earthquakes/eventpage/us6000sri7/">https://earthquake.usgs.gov/earthquakes/eventpage/us6000sri7/</a></p>
-<p>Comments URL: <a href="https://news.yco...*
-  📅 Mon, 20 Apr 2026 10:04:40 +0000
+- **[We accepted surveillance as default](https://vivianvoss.net/blog/why-we-accepted-surveillance)**
+  *<p>Article URL: <a href="https://vivianvoss.net/blog/why-we-accepted-surveillance">https://vivianvoss.net/blog/why-we-accepted-surveillance</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.c...*
+  📅 Mon, 20 Apr 2026 16:34:25 +0000
 
 ### 📑 TechCrunch
 
-- **[OpenAI’s existential questions](https://techcrunch.com/2026/04/19/openais-existential-questions/)**
-  *On the latest episode of Equity, we discuss OpenAI's latest acquisitions and whether they address "two big existential problems" for the company....*
-  📅 Sun, 19 Apr 2026 21:24:06 +0000
+- **[North Korea hackers blamed for $290M crypto theft](https://techcrunch.com/2026/04/20/north-korea-hackers-blamed-for-290m-crypto-theft/)**
+  *The hack against Kelp DAO is the largest crypto heist of the year so far....*
+  📅 Mon, 20 Apr 2026 17:04:05 +0000
 
-- **[The 12-month window](https://techcrunch.com/2026/04/19/the-12-month-window/)**
-  *A lot of AI startups exist partly because the foundation models haven't expanded into their category yet. As many jokingly acknowledge, that won't last forever....*
-  📅 Sun, 19 Apr 2026 19:30:00 +0000
+- **[Mastodon says its flagship server was hit by a DDoS attack](https://techcrunch.com/2026/04/20/mastodon-says-its-flagship-server-was-hit-by-a-ddos-attack/)**
+  *The DDoS attack against Mastodon's flagship server comes less than a week after Bluesky was targeted with junk web traffic....*
+  📅 Mon, 20 Apr 2026 16:58:33 +0000
 
-- **[Blue Origin’s New Glenn put a customer satellite in the wrong orbit during its third launch](https://techcrunch.com/2026/04/19/blue-origins-new-glenn-put-a-customer-satellite-in-the-wrong-orbit-during-its-third-launch/)**
-  *The first major failure of Blue Origin's new heavy-launch system could create delays to its ambition to help NASA and the Trump administration return to the Moon....*
-  📅 Sun, 19 Apr 2026 19:02:09 +0000
+- **[FAA orders investigation into Blue Origin’s New Glenn mishap](https://techcrunch.com/2026/04/20/faa-orders-investigation-into-blue-origins-new-glenn-mishap/)**
+  *The New Glenn rocket will have to stay grounded while the company investigates what caused the apparent failure of its upper stage....*
+  📅 Mon, 20 Apr 2026 16:11:41 +0000
 
-- **[Robots beat human records at Beijing half-marathon](https://techcrunch.com/2026/04/19/robots-beat-human-records-at-beijing-half-marathon/)**
-  *The winning time is a massive improvement over last year’s race, when the fastest robot finished in two hours and 40 minutes....*
-  📅 Sun, 19 Apr 2026 18:44:00 +0000
+- **[NSA spies are reportedly using Anthropic’s Mythos, despite Pentagon feud](https://techcrunch.com/2026/04/20/nsa-spies-are-reportedly-using-anthropics-mythos-despite-pentagon-feud/)**
+  *NSA is said to be using Anthropic's restricted Mythos AI model....*
+  📅 Mon, 20 Apr 2026 16:06:21 +0000
 
-- **[Palantir posts mini-manifesto denouncing inclusivity and ‘regressive’ cultures](https://techcrunch.com/2026/04/19/palantir-posts-mini-manifesto-denouncing-regressive-and-harmful-cultures/)**
-  *Palantir's ideological bent has come under more scrutiny as it's worked with ICE and positioned itself as a defender of "the West."...*
-  📅 Sun, 19 Apr 2026 16:30:00 +0000
+- **[WhatsApp is testing a premium subscription, but it is mainly cosmetic](https://techcrunch.com/2026/04/20/whatsapp-is-testing-a-premium-subscription-put-it-is-mainly-cosmetic/)**
+  *WhatsApp is testing a subscription after Meta debuted a similar subscription for Instagram earlier this year....*
+  📅 Mon, 20 Apr 2026 15:59:26 +0000
 
-- **[TechCrunch Mobility: Uber enters its assetmaxxing era](https://techcrunch.com/2026/04/19/techcrunch-mobility-uber-enters-its-assetmaxxing-era/)**
-  *Welcome back to TechCrunch Mobility, your hub for the future of transportation and now, more than ever, how AI is playing a part....*
-  📅 Sun, 19 Apr 2026 16:01:00 +0000
+- **[CEO and CFO suddenly depart AI nuclear power upstart Fermi](https://techcrunch.com/2026/04/20/fermi-ceo-and-cfo-depart-texas-nuclear-power-ai/)**
+  *The startup, co-founded by former U.S. Energy Secretary Rick Perry, has faced headwinds with its AI campus in Texas....*
+  📅 Mon, 20 Apr 2026 15:30:19 +0000
 
 ### 📑 Dev.to
 
-- **[I turned on auto-approve in Claude Code and broke CI in 30 minutes](https://dev.to/kenimo49/i-turned-on-auto-approve-in-claude-code-and-broke-ci-in-30-minutes-1g1a)**
-  *<h2>
-  
-  
-  The day my agent started grading its own homework
-</h2>
+- **[Sensitive Data Exposure - The Bug That Looks Like a Feature Working Correctly](https://dev.to/safron/sensitive-data-exposure-the-bug-that-looks-like-a-feature-working-correctly-1djh)**
+  *<p>The API response came back 200. The data was correct. The test passed.</p>
 
-<p>I turned on <code>--dangerously-skip-permissions</code> in Claude Code. Code was flying. Files created themselves. Tests ran au...*
-  📅 Mon, 20 Apr 2026 13:00:00 +0000
+<p>Nobody noticed the response body also contained the user's hashed <br />
+password, their internal account ID, a debug ...*
+  📅 Mon, 20 Apr 2026 18:48:57 +0000
 
-- **[Zero-Copy Parsers: Rust Pipelines That Outrun JSON](https://dev.to/speed_engineer/zero-copy-parsers-rust-pipelines-that-outrun-json-3fij)**
-  *<p>When memory copies become your bottleneck, Rust’s zero-copy parsing delivers 200% throughput gains while cutting memory usage by 65% </p>
-
-
-
-
-<h3>
-  
-  
-  Zero-Copy Parsers: Rust Pipelines That Out...*
-  📅 Mon, 20 Apr 2026 13:00:00 +0000
+- **[When should you use canary deployments?](https://dev.to/coderabbitai/when-should-you-use-canary-deployments-2ch9)**
+  *<p>One solution for a tricky or high-risk deployment is to leverage a canary deployment. In a canary deployment, new features are rolled out to a small subset of your customer base with no fanfare. If...*
+  📅 Mon, 20 Apr 2026 18:42:22 +0000
 
 </details>
 
 ## 🔥 Trending Repositories
 
 ### 📈 Daily Trending
+
+- **[ArcaneNibble/awawausb](https://github.com/ArcaneNibble/awawausb)** ⭐ 102
+  ![Rust](https://img.shields.io/badge/-Rust-brown)
+  WebUSB for fopses
 
 - **[3joshua5z06ne0illsynkx717/Flash-USDT-Sender](https://github.com/3joshua5z06ne0illsynkx717/Flash-USDT-Sender)** ⭐ 67
   ![Python](https://img.shields.io/badge/-Python-blue)
@@ -139,95 +133,91 @@
   ![Python](https://img.shields.io/badge/-Python-blue)
   Exodus Fake Balance — Native balance overlay tool for Exodus wallet with real-time spoofing across BTC, ETH, SOL, XRP and 200+ assets, persistent hooks, and screenshot-safe display rendering
 
+- **[knit-finances/polymarket-arbitrage-bot](https://github.com/knit-finances/polymarket-arbitrage-bot)** ⭐ 65
+  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
+  None
+
+- **[lemini-protocol/polymarket-copytrading-bot](https://github.com/lemini-protocol/polymarket-copytrading-bot)** ⭐ 65
+  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
+  None
+
+- **[ovoment/ovo-local-llm](https://github.com/ovoment/ovo-local-llm)** ⭐ 44
+  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
+  Local Claude Code for Apple Silicon — AI coding agent + chat + image gen, zero cloud. MLX · Ollama/OpenAI API compatible.
+
+- **[vuciv/artblock](https://github.com/vuciv/artblock)** ⭐ 42
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
+  Every ad on the internet, replaced with fine art from public museum and NASA collections.
+
 - **[vincosty/USDT-Flasher-Hydra-Edition](https://github.com/vincosty/USDT-Flasher-Hydra-Edition)** ⭐ 43
   ![None](https://img.shields.io/badge/-None-lightgrey)
   flash btc / eth / usdt / ltc sender 🔥 fake crypto sender 🔥 flash usdt flash btc sender flash bitcoin sender fake bitcoin sender fake ethereum sender flash crypto flash crypto flash btc eth usdt ltc fake crypto sender fake crypto sender fake crypto sender 
 
-- **[suinkimme/boj-archive](https://github.com/suinkimme/boj-archive)** ⭐ 39
-  ![HTML](https://img.shields.io/badge/-HTML-lightgrey)
-  백준 온라인 저지(acmicpc.net) 서비스 종료에 따른 공익 목적 아카이브
-
-- **[esutcu/planb-lpm](https://github.com/esutcu/planb-lpm)** ⭐ 28
-  ![C++](https://img.shields.io/badge/-C++-pink)
-  None
-
-- **[ovoment/ovo-local-llm](https://github.com/ovoment/ovo-local-llm)** ⭐ 22
-  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
-  Local Claude Code for Apple Silicon — AI coding agent + chat + image gen, zero cloud. MLX · Ollama/OpenAI API compatible.
-
-- **[vuciv/artblock](https://github.com/vuciv/artblock)** ⭐ 22
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
-  Every ad on the internet, replaced with fine art from public museum and NASA collections.
-
-- **[ArcaneNibble/awawausb](https://github.com/ArcaneNibble/awawausb)** ⭐ 19
-  ![Rust](https://img.shields.io/badge/-Rust-brown)
-  WebUSB for fopses
-
 ### 📈 Weekly Trending
 
-- **[kyegomez/OpenMythos](https://github.com/kyegomez/OpenMythos)** ⭐ 3,036
+- **[kyegomez/OpenMythos](https://github.com/kyegomez/OpenMythos)** ⭐ 3,745
   ![Python](https://img.shields.io/badge/-Python-blue)
   A theoretical reconstruction of the Claude Mythos architecture, built from first principles using the available research literature.
 
-- **[browser-use/browser-harness](https://github.com/browser-use/browser-harness)** ⭐ 3,001
+- **[browser-use/browser-harness](https://github.com/browser-use/browser-harness)** ⭐ 3,346
   ![Python](https://img.shields.io/badge/-Python-blue)
   Self-healing browser harness that enables LLMs to complete any task.
 
-- **[Robbyant/lingbot-map](https://github.com/Robbyant/lingbot-map)** ⭐ 2,941
+- **[Robbyant/lingbot-map](https://github.com/Robbyant/lingbot-map)** ⭐ 3,133
   ![Python](https://img.shields.io/badge/-Python-blue)
   A feed-forward 3D foundation model for reconstructing scenes from streaming data
 
-- **[vercel-labs/wterm](https://github.com/vercel-labs/wterm)** ⭐ 2,175
+- **[vercel-labs/wterm](https://github.com/vercel-labs/wterm)** ⭐ 2,196
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   A terminal emulator for the web
 
-- **[Nightmare-Eclipse/RedSun](https://github.com/Nightmare-Eclipse/RedSun)** ⭐ 1,612
-  ![C++](https://img.shields.io/badge/-C++-pink)
-  The Red Sun vulnerability repository
-
-- **[lewislulu/html-ppt-skill](https://github.com/lewislulu/html-ppt-skill)** ⭐ 1,594
+- **[lewislulu/html-ppt-skill](https://github.com/lewislulu/html-ppt-skill)** ⭐ 1,639
   ![HTML](https://img.shields.io/badge/-HTML-lightgrey)
   HTML PPT Studio — AgentSkill with 24 themes, 31 layouts, 20+ animations for building professional HTML presentations
 
-- **[Manavarya09/design-extract](https://github.com/Manavarya09/design-extract)** ⭐ 1,118
+- **[Nightmare-Eclipse/RedSun](https://github.com/Nightmare-Eclipse/RedSun)** ⭐ 1,633
+  ![C++](https://img.shields.io/badge/-C++-pink)
+  The Red Sun vulnerability repository
+
+- **[Manavarya09/design-extract](https://github.com/Manavarya09/design-extract)** ⭐ 1,136
   ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
   Extract any website's complete design system with one command. DTCG tokens, semantic+primitive+composite, MCP server for Claude Code/Cursor/Windsurf, multi-platform emitters (iOS SwiftUI, Android Compose, Flutter, WordPress), Tailwind v4, Figma variables, shadcn/ui, CSS health audit, WCAG remediation, Chrome extension. MIT, Playwright, Node 20+.
 
-- **[BuilderPulse/BuilderPulse](https://github.com/BuilderPulse/BuilderPulse)** ⭐ 1,003
+- **[BuilderPulse/BuilderPulse](https://github.com/BuilderPulse/BuilderPulse)** ⭐ 1,014
   ![None](https://img.shields.io/badge/-None-lightgrey)
   AI-powered daily intelligence for indie hackers and builders. 20 questions, 10+ sources, every morning.
 
 ### 📈 Monthly Trending
 
-- **[ultraworkers/claw-code](https://github.com/ultraworkers/claw-code)** ⭐ 186,566
+- **[ultraworkers/claw-code](https://github.com/ultraworkers/claw-code)** ⭐ 186,665
   ![Rust](https://img.shields.io/badge/-Rust-brown)
   The repo is finally unlocked. enjoy the party! The fastest repo in history to surpass 100K stars ⭐. Join Discord: https://discord.gg/5TUQKqFWd Built in Rust using oh-my-codex.
 
-- **[VoltAgent/awesome-design-md](https://github.com/VoltAgent/awesome-design-md)** ⭐ 61,088
+- **[VoltAgent/awesome-design-md](https://github.com/VoltAgent/awesome-design-md)** ⭐ 61,343
   ![None](https://img.shields.io/badge/-None-lightgrey)
   A collection of DESIGN.md files inspired by popular brand design systems. Drop one into your project and let coding agents generate a matching UI.
 
-- **[MemPalace/mempalace](https://github.com/MemPalace/mempalace)** ⭐ 48,359
+- **[MemPalace/mempalace](https://github.com/MemPalace/mempalace)** ⭐ 48,439
   ![Python](https://img.shields.io/badge/-Python-blue)
   The best-benchmarked open-source AI memory system. And it's free.
 
-- **[JuliusBrussee/caveman](https://github.com/JuliusBrussee/caveman)** ⭐ 39,890
+- **[JuliusBrussee/caveman](https://github.com/JuliusBrussee/caveman)** ⭐ 40,386
   ![Python](https://img.shields.io/badge/-Python-blue)
   🪨 why use many token when few token do trick — Claude Code skill that cuts 65% of tokens by talking like caveman
 
-- **[santifer/career-ops](https://github.com/santifer/career-ops)** ⭐ 36,736
+- **[santifer/career-ops](https://github.com/santifer/career-ops)** ⭐ 36,872
   ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
   AI-powered job search system built on Claude Code. 14 skill modes, Go dashboard, PDF generation, batch processing.
 
-- **[safishamsi/graphify](https://github.com/safishamsi/graphify)** ⭐ 31,077
+- **[safishamsi/graphify](https://github.com/safishamsi/graphify)** ⭐ 31,281
   ![Python](https://img.shields.io/badge/-Python-blue)
   AI coding assistant skill (Claude Code, Codex, OpenCode, Cursor, Gemini CLI, GitHub Copilot CLI, OpenClaw, Factory Droid, Trae, Google Antigravity). Turn any folder of code, docs, papers, images, or videos into a queryable knowledge graph
 
-- **[Gitlawb/openclaude](https://github.com/Gitlawb/openclaude)** ⭐ 22,814
+- **[Gitlawb/openclaude](https://github.com/Gitlawb/openclaude)** ⭐ 22,873
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   Open Claude Is Open-source coding-agent CLI for OpenAI, Gemini, DeepSeek, Ollama, Codex, GitHub Models, and 200+ models via OpenAI-compatible APIs.
 
-- **[claude-code-best/claude-code](https://github.com/claude-code-best/claude-code)** ⭐ 16,461
+- **[claude-code-best/claude-code](https://github.com/claude-code-best/claude-code)** ⭐ 16,480
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   原汁原昧 Claude Code 可运行,可构建, 可调试版; Typescript 类型全修复; 企业级可靠性; 安全无毒, lock 文件保真, 可直接 bun i; bun run dev 启动
 
@@ -238,10 +228,9 @@
 
 ### 📦 microsoft/vscode
 
-**[v0.44.2](https://github.com/microsoft/vscode/releases/tag/v0.44.2)** `v0.44.2`
+**[copilot/0.44.2](https://github.com/microsoft/vscode/releases/tag/v0.44.2)** `v0.44.2`
 
 📅 Released: April 20, 2026
-
 
 
 ## Changes:
@@ -249,7 +238,7 @@
 * #310942: Update Copilot version
 * #310857: [cherry-pick] Handle showing weekly and session rate limit data
 
-This list of changes was [auto generated](https://dev.azure.com/monacotools...
+This list of changes was [auto generated](https://dev.azure.com/monaco...
 
 ---
 
@@ -508,28 +497,28 @@ consolidated into a single option `MockModuleOpti...
 
 | Skill | Status |
 |-------|--------|
-| Java | ⚪ Planned |
+| Java | 🟢 Proficient |
 | Python | 🔴 Beginner |
-| JavaScript | ⚪ Planned |
+| JavaScript | 🟡 Learning |
 | TypeScript | 🟢 Proficient |
-| Go | 🔴 Beginner |
+| Go | ⚪ Planned |
 
 ### Frameworks
 
 | Skill | Status |
 |-------|--------|
-| React | 🟡 Learning |
-| Spring Boot | 🟢 Proficient |
-| Django | 🟢 Proficient |
-| Node.js | 🔴 Beginner |
-| Next.js | 🔴 Beginner |
+| React | 🔴 Beginner |
+| Spring Boot | 🔴 Beginner |
+| Django | ⚪ Planned |
+| Node.js | 🟡 Learning |
+| Next.js | ⚪ Planned |
 
 ### Cybersecurity
 
 | Skill | Status |
 |-------|--------|
 | Penetration Testing | ⚪ Planned |
-| Web Security | 🟢 Proficient |
+| Web Security | ⚪ Planned |
 | Network Security | 🔴 Beginner |
 | OWASP | ⚪ Planned |
 
@@ -537,30 +526,30 @@ consolidated into a single option `MockModuleOpti...
 
 | Skill | Status |
 |-------|--------|
-| Machine Learning | ⚪ Planned |
-| Deep Learning | 🟢 Proficient |
+| Machine Learning | 🟡 Learning |
+| Deep Learning | 🔴 Beginner |
 | NLP | 🟡 Learning |
 | Computer Vision | ⚪ Planned |
-| TensorFlow | 🔴 Beginner |
-| PyTorch | 🟡 Learning |
+| TensorFlow | ⚪ Planned |
+| PyTorch | ⚪ Planned |
 
 ### Devops
 
 | Skill | Status |
 |-------|--------|
-| Docker | ⚪ Planned |
-| Kubernetes | 🟡 Learning |
-| CI/CD | ⚪ Planned |
-| AWS | 🟢 Proficient |
+| Docker | 🟡 Learning |
+| Kubernetes | 🟢 Proficient |
+| CI/CD | 🟡 Learning |
+| AWS | ⚪ Planned |
 | Azure | 🟢 Proficient |
 
 ### Other
 
 | Skill | Status |
 |-------|--------|
-| Blockchain | 🔴 Beginner |
-| Web3 | 🟡 Learning |
-| Cloud Computing | 🟡 Learning |
+| Blockchain | 🟡 Learning |
+| Web3 | 🔴 Beginner |
+| Cloud Computing | ⚪ Planned |
 
 </details>
 
