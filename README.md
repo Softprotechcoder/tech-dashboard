@@ -20,7 +20,7 @@
 | Metric | Count |
 |--------|-------|
 | 📰 Latest News Articles | 26 |
-| 🔥 Trending Repositories | 45 |
+| 🔥 Trending Repositories | 15 |
 | 🎯 Latest Releases | 10 |
 | 🎯 Learning Goals | 4 |
 
@@ -46,73 +46,72 @@
 
 ### 📑 Hacker News
 
-- **[Show HN: VidStudio, a browser based video editor that doesn't upload your files](https://vidstudio.app/video-editor)**
-  *<p>Hi HN,
-I built VidStudio, a privacy focused video editor that runs in the browser. I tried to keep it as frictionless as possible, so there are no accounts and no uploads. Everything is persisted o...*
-  📅 Tue, 21 Apr 2026 11:58:16 +0000
+- **[Framework Laptop 13 Pro](https://frame.work/laptop13pro)**
+  *<p>Article URL: <a href="https://frame.work/laptop13pro">https://frame.work/laptop13pro</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=47852177">https://news.ycombinator.com/it...*
+  📅 Tue, 21 Apr 2026 18:00:34 +0000
 
-- **[Tim Cook's Impeccable Timing](https://stratechery.com/2026/tim-cooks-impeccable-timing/)**
-  *<p>Article URL: <a href="https://stratechery.com/2026/tim-cooks-impeccable-timing/">https://stratechery.com/2026/tim-cooks-impeccable-timing/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator...*
-  📅 Tue, 21 Apr 2026 11:30:03 +0000
+- **[Cal.diy: open-source community edition of cal.com](https://github.com/calcom/cal.diy)**
+  *<p>Article URL: <a href="https://github.com/calcom/cal.diy">https://github.com/calcom/cal.diy</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=47852155">https://news.ycombinator....*
+  📅 Tue, 21 Apr 2026 17:58:21 +0000
 
-- **[Laws of Software Engineering](https://lawsofsoftwareengineering.com)**
-  *<p>Article URL: <a href="https://lawsofsoftwareengineering.com">https://lawsofsoftwareengineering.com</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=47847179">https://news.ycom...*
-  📅 Tue, 21 Apr 2026 11:04:56 +0000
+- **[Meta capturing employee mouse movements, keystrokes for AI training data](https://economictimes.indiatimes.com/tech/technology/meta-to-start-capturing-employee-mouse-movements-keystrokes-for-ai-training-data/articleshow/130422612.cms?from=mdr)**
+  *<p>Article URL: <a href="https://economictimes.indiatimes.com/tech/technology/meta-to-start-capturing-employee-mouse-movements-keystrokes-for-ai-training-data/articleshow/130422612.cms?from=mdr">https...*
+  📅 Tue, 21 Apr 2026 17:40:39 +0000
 
-- **[Apple ignores DMA interoperability requests and contradicts own documentation](https://fsfe.org/news/2026/news-20260420-01.html)**
-  *<p>Article URL: <a href="https://fsfe.org/news/2026/news-20260420-01.html">https://fsfe.org/news/2026/news-20260420-01.html</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=47847...*
-  📅 Tue, 21 Apr 2026 10:57:53 +0000
+- **[Britannica11.org – a structured edition of the 1911 Encyclopædia Britannica](https://britannica11.org/)**
+  *<p>Article URL: <a href="https://britannica11.org/">https://britannica11.org/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=47851885">https://news.ycombinator.com/item?id=4785...*
+  📅 Tue, 21 Apr 2026 17:33:50 +0000
 
-- **[A type-safe, realtime collaborative Graph Database in a CRDT](https://codemix.com/graph)**
-  *<p>Article URL: <a href="https://codemix.com/graph">https://codemix.com/graph</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=47846946">https://news.ycombinator.com/item?id=4784...*
-  📅 Tue, 21 Apr 2026 10:33:24 +0000
+- **[The Vercel breach: OAuth attack exposes risk in platform environment variables](https://www.trendmicro.com/en_us/research/26/d/vercel-breach-oauth-supply-chain.html)**
+  *<p><i>Vercel April 2026 security incident</i> - <a href="https://news.ycombinator.com/item?id=47824463">https://news.ycombinator.com/item?id=47824463</a> - April 2026 (485 comments)<p><i>A Roblox chea...*
+  📅 Tue, 21 Apr 2026 17:14:35 +0000
 
-- **[Louis Zocchi, inventor of the d100, has died](https://icv2.com/articles/news/view/62176/r-i-p-louis-zocchi-the-godfather-dice)**
-  *<p>Article URL: <a href="https://icv2.com/articles/news/view/62176/r-i-p-louis-zocchi-the-godfather-dice">https://icv2.com/articles/news/view/62176/r-i-p-louis-zocchi-the-godfather-dice</a></p>
-<p>Com...*
-  📅 Tue, 21 Apr 2026 06:19:15 +0000
+- **[Ibuilt a tiny Unix‑like 'OS' with shell and filesystem for Arduino UNO (2KB RAM)](https://github.com/Arc1011/KernelUNO)**
+  *<p>Article URL: <a href="https://github.com/Arc1011/KernelUNO">https://github.com/Arc1011/KernelUNO</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=47851630">https://news.ycombi...*
+  📅 Tue, 21 Apr 2026 17:14:26 +0000
 
 ### 📑 TechCrunch
 
-- **[With US spy laws set to expire, lawmakers are split over protecting Americans from warrantless surveillance](https://techcrunch.com/2026/04/21/with-us-spy-laws-set-to-expire-lawmakers-are-split-over-protecting-americans-from-warrantless-surveillance/)**
-  *Some lawmakers are calling for widespread reforms following years of surveillance scandals and abuses across successive U.S. administrations. But even if the spy law known as Section 702 expires on Ap...*
-  📅 Tue, 21 Apr 2026 13:00:00 +0000
+- **[Sam Altman throws shade at Anthropic’s cyber model, Mythos: ‘fear-based marketing’](https://techcrunch.com/2026/04/21/sam-altman-throws-shade-at-anthropics-cyber-model-mythos-fear-based-marketing/)**
+  *The AI industry's mudslinging continues....*
+  📅 Tue, 21 Apr 2026 18:51:52 +0000
 
-- **[What’s the key to better vegan cheese? Microbreweries, one startup says](https://techcrunch.com/2026/04/21/whats-the-key-to-better-vegan-cheese-microbreweries-one-startup-says/)**
-  *AuX Labs says it has found a better way to make vegan cheese that tastes and feels like the real thing — and costs the same....*
-  📅 Tue, 21 Apr 2026 13:00:00 +0000
+- **[A look at Tim Cook’s 15-year legacy as CEO of Apple](https://techcrunch.com/2026/04/21/apple-tim-cook-ceo-15-year-legacy-timeline/)**
+  *Cook, who joined Apple in 1998, succeeded Steve Jobs as CEO in 2011 and went on to transform Apple into a $4 trillion powerhouse....*
+  📅 Tue, 21 Apr 2026 17:40:20 +0000
 
-- **[Cash App is targeting a new kind of customer: 6-12 year olds](https://techcrunch.com/2026/04/21/cash-app-is-targeting-a-new-kind-of-customer-6-12-year-olds/)**
-  *Tech companies are constantly on the hunt for new customers, and Cash App, the fintech company owned by Jack Dorsey&#8217;s Block, believes it has found a promising new demographic: children. The comp...*
-  📅 Tue, 21 Apr 2026 13:00:00 +0000
+- **[Clarifai deletes 3 million photos that OkCupid provided to train facial recognition AI, report says](https://techcrunch.com/2026/04/21/clarifai-okcupid-facial-recognition-ai-ftc-settlement/)**
+  *The photo deletion comes after an FTC settlement with Clarifai. The company had asked OkCupid — whose executives had invested in Clarifai — to share data in 2014, according to court documents....*
+  📅 Tue, 21 Apr 2026 17:11:01 +0000
 
-- **[GRAI believes AI can make music more social, not replace artists](https://techcrunch.com/2026/04/21/grai-believes-ai-can-make-music-more-social-not-replace-artists/)**
-  *AI music startup GRAI says fans want to remix tracks, not generate songs from scratch....*
-  📅 Tue, 21 Apr 2026 13:00:00 +0000
+- **[Former Pinterest team redesigns email with Extra — and it’s actually good](https://techcrunch.com/2026/04/21/former-pinterest-team-redesigns-email-with-extra-and-its-actually-good/)**
+  *Extra, from a team of former Pinterest designers and engineers, reimagines email around your life instead of the traditional inbox....*
+  📅 Tue, 21 Apr 2026 16:00:00 +0000
 
-- **[Yelp’s updated AI assistant can answer questions and book a restaurant or service in one conversation](https://techcrunch.com/2026/04/21/yelps-updated-ai-assistant-can-answer-questions-and-book-a-restaurant-or-service-in-one-conversation/)**
-  *Yelp said that users can ask questions about a restaurant and place an order or book a table in one conversation...*
-  📅 Tue, 21 Apr 2026 11:00:00 +0000
+- **[AI Dungeon maker Latitude unveils Voyage, a platform for creating AI-powered RPGs](https://techcrunch.com/2026/04/21/voyage-is-an-ai-rpg-platform-for-creating-custom-gaming-worlds-with-ai-generated-npc-interactions/)**
+  *Latitude's new AI-native platform, Voyage, aims to help gamers create their very own role-playing game....*
+  📅 Tue, 21 Apr 2026 16:00:00 +0000
 
-- **[Blue Energy raises $380M to build grid-scale nuclear reactors in shipyards](https://techcrunch.com/2026/04/21/blue-energy-raises-380m-to-build-grid-scale-nuclear-reactors-in-shipyards/)**
-  *By building reactors in shipyards, Blue Energy says it will tame nuclear power's cost problems, giving it access to cheaper financing....*
-  📅 Tue, 21 Apr 2026 10:00:00 +0000
+- **[Ransomware negotiator pleads guilty to helping ransomware gang](https://techcrunch.com/2026/04/21/ransomware-negotiator-pleads-guilty-to-helping-ransomware-gang/)**
+  *A former employee of a cybersecurity firm pleaded guilty to aiding ransomware criminals to maximize their profits, with the goal of taking a cut of the ransom....*
+  📅 Tue, 21 Apr 2026 15:56:53 +0000
 
 ### 📑 Dev.to
 
-- **[The "Platform Tax" Is Real - Why Developers Are Moving Back to AWS (2026)](https://dev.to/parag477/the-platform-tax-is-real-why-developers-are-moving-back-to-aws-2026-1com)**
-  *<p>There's a phrase we keep hearing in founder Slack groups, Reddit threads, and Twitter conversations about infrastructure costs. It comes up when someone posts their monthly Vercel bill, or when a s...*
-  📅 Tue, 21 Apr 2026 12:56:25 +0000
+- **[🙏🏻🙏🏻🙏🏻🙏🏻💪🏻💪🏻💪🏻💪🏻](https://dev.to/jon_at_backboardio/-1n79)**
+  *<div class="ltag__link--embedded">
+  <div class="crayons-story ">
+  <a class="crayons-story__hidden-navigation-link" href="https://dev.to/ranjancse/building-conversational-intelligence-with-backboard-...*
+  📅 Tue, 21 Apr 2026 18:47:22 +0000
 
-- **[How to Create a Zero Knowledge DApp: From Zero to Production, Case 1: zk Escrow](https://dev.to/lovingzizi/how-to-create-a-zero-knowledge-dapp-from-zero-to-production-case-1-zk-escrow-1kgj)**
-  *<p>This article is about understanding an end-to-end zk application from a full-stack, end-to-end perspective.</p>
-
-<p>It uses the <a href="https://github.com/JetHalo/zk-Escrow" rel="noopener noreferr...*
-  📅 Tue, 21 Apr 2026 12:54:18 +0000
+- **[Your Ridge Parameter Is PageRank's Damping Factor (and Why BLAS Beats GPU for Mid-Sized KRR)](https://dev.to/ki-mathias/your-ridge-parameter-is-pageranks-damping-factor-and-why-blas-beats-gpu-for-mid-sized-krr-4hac)**
+  *<blockquote>
+<p>The ridge parameter λ in kernel regression and the damping factor d in PageRank are the same object. Both create a spectral gap. Both stabilize an otherwise-unstable iteration. Once yo...*
+  📅 Tue, 21 Apr 2026 18:45:29 +0000
 
 </details>
 
@@ -120,105 +119,37 @@ I built VidStudio, a privacy focused video editor that runs in the browser. I tr
 
 ### 📈 Daily Trending
 
-- **[QuantBots-Collective/polymarket-copy-trading-bot](https://github.com/QuantBots-Collective/polymarket-copy-trading-bot)** ⭐ 70
+- **[QuantBots-Collective/polymarket-copy-trading-bot](https://github.com/QuantBots-Collective/polymarket-copy-trading-bot)** ⭐ 90
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   polymarket copy trading bot, polymarket trading bot,polymarket copy trading bot, polymarket trading bot,polymarket copy trading bot, polymarket trading bot,polymarket copy trading bot, polymarket trading bot,polymarket copy trading bot, polymarket trading bot,polymarket copy trading bot, polymarket trading bot 
+
+- **[yaojingang/geo-citation-lab](https://github.com/yaojingang/geo-citation-lab)** ⭐ 88
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  A dataset and analysis pipeline for studying how AI search engines select and use citations.
+
+- **[unicircle-finance/polymarket-copytrading-bot](https://github.com/unicircle-finance/polymarket-copytrading-bot)** ⭐ 59
+  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
+  polymarket copytrading bot polymarket copytrading bot polymarket copytrading bot polymarket copytrading bot polymarket copytrading bot polymarket copytrading bot polymarket copytrading bot polymarket copytrading bot polymarket copytrading bot polymarket copytrading bot polymarket copytrading bot polymarket copytrading bot polymarket copytrading bot
+
+- **[unicircle-finance/polymarket-arbitrage-bot](https://github.com/unicircle-finance/polymarket-arbitrage-bot)** ⭐ 59
+  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
+  polymarket arbitrage bot polymarket arbitrage bot polymarket arbitrage bot polymarket arbitrage bot polymarket arbitrage bot polymarket arbitrage bot polymarket arbitrage bot polymarket arbitrage bot polymarket arbitrage bot polymarket arbitrage bot polymarket arbitrage bot polymarket arbitrage bot polymarket arbitrage bot polymarket arbitrage bot 
+
+- **[lydiahallie/demo-issue-tracker](https://github.com/lydiahallie/demo-issue-tracker)** ⭐ 53
+  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
+  None
 
 - **[martinSammy9a/Bitcoin-Flasher](https://github.com/martinSammy9a/Bitcoin-Flasher)** ⭐ 50
   ![None](https://img.shields.io/badge/-None-lightgrey)
   flash btc / eth / usdt / ltc sender 🔥 fake crypto sender 🔥 flash usdt flash btc sender flash bitcoin sender fake bitcoin sender fake ethereum sender flash crypto flash crypto flash btc eth usdt ltc fake crypto sender fake crypto sender fake crypto sender btc sender
 
+- **[ciccoxnex/cross-chain-arb-scanner](https://github.com/ciccoxnex/cross-chain-arb-scanner)** ⭐ 50
+  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
+  bot using flash loan smart contract that scans multiple DEXs across different blockchains to find profitable price differences for WETH/LINK. It estimates real profit after fees, sends alerts, and can optionally execute trades
+
 - **[celentanelite/USDT-Flasher](https://github.com/celentanelite/USDT-Flasher)** ⭐ 50
   ![None](https://img.shields.io/badge/-None-lightgrey)
   flash btc / eth / usdt / ltc sender 🔥 fake crypto sender 🔥 flash usdt flash btc sender flash bitcoin sender fake bitcoin sender fake ethereum sender flash crypto flash crypto flash btc eth usdt ltc fake crypto sender fake crypto sender fake crypto sender btc sender
-
-- **[yaojingang/geo-citation-lab](https://github.com/yaojingang/geo-citation-lab)** ⭐ 43
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  A dataset and analysis pipeline for studying how AI search engines select and use citations.
-
-- **[3s4r46kra7m1ertqdm7792/Exodus-Fake-Balance](https://github.com/3s4r46kra7m1ertqdm7792/Exodus-Fake-Balance)** ⭐ 35
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  Exodus Fake Balance — Native balance overlay tool for Exodus wallet with real-time spoofing across BTC, ETH, SOL, XRP and 200+ assets, persistent hooks, and screenshot-safe display rendering
-
-- **[Pedrozz13755/Lottie-Whatsapp](https://github.com/Pedrozz13755/Lottie-Whatsapp)** ⭐ 27
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
-  None
-
-- **[heider-x/vela](https://github.com/heider-x/vela)** ⭐ 27
-  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
-  AI-powered IDE for novel writing — local LLM + RAG, privacy-first, BYOK. For web fiction authors and creative writers.
-
-- **[doanlong1412/HA-Optimizer](https://github.com/doanlong1412/HA-Optimizer)** ⭐ 24
-  ![HTML](https://img.shields.io/badge/-HTML-lightgrey)
-  None
-
-### 📈 Weekly Trending
-
-- **[kyegomez/OpenMythos](https://github.com/kyegomez/OpenMythos)** ⭐ 5,413
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  A theoretical reconstruction of the Claude Mythos architecture, built from first principles using the available research literature.
-
-- **[browser-use/browser-harness](https://github.com/browser-use/browser-harness)** ⭐ 4,063
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  Self-healing browser harness that enables LLMs to complete any task.
-
-- **[Robbyant/lingbot-map](https://github.com/Robbyant/lingbot-map)** ⭐ 3,722
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  A feed-forward 3D foundation model for reconstructing scenes from streaming data
-
-- **[alchaincyf/huashu-design](https://github.com/alchaincyf/huashu-design)** ⭐ 1,756
-  ![HTML](https://img.shields.io/badge/-HTML-lightgrey)
-  Huashu Design · HTML-native design skill for Claude Code · Claude Code 里 HTML 原生的设计 skill · 高保真原型 / 幻灯片 / 动画 + 20 设计哲学 + 5 维评审 + MP4 导出 · Agent-agnostic
-
-- **[lewislulu/html-ppt-skill](https://github.com/lewislulu/html-ppt-skill)** ⭐ 1,727
-  ![HTML](https://img.shields.io/badge/-HTML-lightgrey)
-  HTML PPT Studio — AgentSkill with 24 themes, 31 layouts, 20+ animations for building professional HTML presentations
-
-- **[Nightmare-Eclipse/RedSun](https://github.com/Nightmare-Eclipse/RedSun)** ⭐ 1,663
-  ![C++](https://img.shields.io/badge/-C++-pink)
-  The Red Sun vulnerability repository
-
-- **[Manavarya09/design-extract](https://github.com/Manavarya09/design-extract)** ⭐ 1,211
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
-  Extract any website's complete design system with one command. DTCG tokens, semantic+primitive+composite, MCP server for Claude Code/Cursor/Windsurf, multi-platform emitters (iOS SwiftUI, Android Compose, Flutter, WordPress), Tailwind v4, Figma variables, shadcn/ui, CSS health audit, WCAG remediation, Chrome extension. MIT, Playwright, Node 20+.
-
-- **[cathrynlavery/diagram-design](https://github.com/cathrynlavery/diagram-design)** ⭐ 1,074
-  ![HTML](https://img.shields.io/badge/-HTML-lightgrey)
-  Thirteen editorial diagram types for Claude Code. Self-contained HTML + SVG. No shadows, no Mermaid-slop.
-
-### 📈 Monthly Trending
-
-- **[ultraworkers/claw-code](https://github.com/ultraworkers/claw-code)** ⭐ 186,997
-  ![Rust](https://img.shields.io/badge/-Rust-brown)
-  The repo is finally unlocked. enjoy the party! The fastest repo in history to surpass 100K stars ⭐. Join Discord: https://discord.gg/5TUQKqFWd Built in Rust using oh-my-codex.
-
-- **[VoltAgent/awesome-design-md](https://github.com/VoltAgent/awesome-design-md)** ⭐ 62,076
-  ![None](https://img.shields.io/badge/-None-lightgrey)
-  A collection of DESIGN.md files inspired by popular brand design systems. Drop one into your project and let coding agents generate a matching UI.
-
-- **[MemPalace/mempalace](https://github.com/MemPalace/mempalace)** ⭐ 48,658
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  The best-benchmarked open-source AI memory system. And it's free.
-
-- **[JuliusBrussee/caveman](https://github.com/JuliusBrussee/caveman)** ⭐ 41,552
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  🪨 why use many token when few token do trick — Claude Code skill that cuts 65% of tokens by talking like caveman
-
-- **[santifer/career-ops](https://github.com/santifer/career-ops)** ⭐ 37,548
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
-  AI-powered job search system built on Claude Code. 14 skill modes, Go dashboard, PDF generation, batch processing.
-
-- **[safishamsi/graphify](https://github.com/safishamsi/graphify)** ⭐ 31,753
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  AI coding assistant skill (Claude Code, Codex, OpenCode, Cursor, Gemini CLI, GitHub Copilot CLI, OpenClaw, Factory Droid, Trae, Google Antigravity). Turn any folder of code, docs, papers, images, or videos into a queryable knowledge graph
-
-- **[Gitlawb/openclaude](https://github.com/Gitlawb/openclaude)** ⭐ 22,981
-  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
-  Open Claude Is Open-source coding-agent CLI for OpenAI, Gemini, DeepSeek, Ollama, Codex, GitHub Models, and 200+ models via OpenAI-compatible APIs.
-
-- **[claude-code-best/claude-code](https://github.com/claude-code-best/claude-code)** ⭐ 16,566
-  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
-  原汁原昧 Claude Code 可运行,可构建, 可调试版; Typescript 类型全修复; 企业级可靠性; 安全无毒, lock 文件保真, 可直接 bun i; bun run dev 启动
 
 ## 🚀 Latest Releases
 
@@ -496,59 +427,59 @@ consolidated into a single option `MockModuleOpti...
 
 | Skill | Status |
 |-------|--------|
-| Java | 🟢 Proficient |
-| Python | 🟢 Proficient |
-| JavaScript | 🟢 Proficient |
-| TypeScript | 🔴 Beginner |
-| Go | 🟢 Proficient |
+| Java | 🟡 Learning |
+| Python | ⚪ Planned |
+| JavaScript | ⚪ Planned |
+| TypeScript | 🟡 Learning |
+| Go | 🔴 Beginner |
 
 ### Frameworks
 
 | Skill | Status |
 |-------|--------|
-| React | 🔴 Beginner |
-| Spring Boot | 🔴 Beginner |
-| Django | 🔴 Beginner |
-| Node.js | 🟢 Proficient |
-| Next.js | ⚪ Planned |
+| React | ⚪ Planned |
+| Spring Boot | ⚪ Planned |
+| Django | 🟡 Learning |
+| Node.js | ⚪ Planned |
+| Next.js | 🟢 Proficient |
 
 ### Cybersecurity
 
 | Skill | Status |
 |-------|--------|
 | Penetration Testing | 🟡 Learning |
-| Web Security | ⚪ Planned |
-| Network Security | 🔴 Beginner |
-| OWASP | 🟢 Proficient |
+| Web Security | 🔴 Beginner |
+| Network Security | 🟡 Learning |
+| OWASP | ⚪ Planned |
 
 ### Ai Ml
 
 | Skill | Status |
 |-------|--------|
-| Machine Learning | 🟢 Proficient |
-| Deep Learning | 🔴 Beginner |
-| NLP | 🔴 Beginner |
-| Computer Vision | 🔴 Beginner |
-| TensorFlow | 🔴 Beginner |
-| PyTorch | ⚪ Planned |
+| Machine Learning | 🔴 Beginner |
+| Deep Learning | 🟢 Proficient |
+| NLP | ⚪ Planned |
+| Computer Vision | ⚪ Planned |
+| TensorFlow | 🟡 Learning |
+| PyTorch | 🟡 Learning |
 
 ### Devops
 
 | Skill | Status |
 |-------|--------|
-| Docker | ⚪ Planned |
-| Kubernetes | 🟡 Learning |
-| CI/CD | 🔴 Beginner |
-| AWS | 🔴 Beginner |
+| Docker | 🟡 Learning |
+| Kubernetes | 🟢 Proficient |
+| CI/CD | 🟡 Learning |
+| AWS | 🟢 Proficient |
 | Azure | 🟢 Proficient |
 
 ### Other
 
 | Skill | Status |
 |-------|--------|
-| Blockchain | ⚪ Planned |
+| Blockchain | 🟡 Learning |
 | Web3 | 🟢 Proficient |
-| Cloud Computing | ⚪ Planned |
+| Cloud Computing | 🟡 Learning |
 
 </details>
 
