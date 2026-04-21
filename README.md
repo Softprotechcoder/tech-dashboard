@@ -46,38 +46,40 @@
 
 ### 📑 Hacker News
 
-- **[How to Make a Fast Dynamic Language Interpreter](https://zef-lang.dev/implementation)**
-  *<p>Article URL: <a href="https://zef-lang.dev/implementation">https://zef-lang.dev/implementation</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=47843194">https://news.ycombina...*
-  📅 Tue, 21 Apr 2026 00:48:07 +0000
+- **[Less human AI agents, please](https://nial.se/blog/less-human-ai-agents-please/)**
+  *<p>Article URL: <a href="https://nial.se/blog/less-human-ai-agents-please/">https://nial.se/blog/less-human-ai-agents-please/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=478...*
+  📅 Tue, 21 Apr 2026 06:58:08 +0000
 
-- **[Even 'uncensored' models can't say what they want](https://morgin.ai/articles/even-uncensored-models-cant-say-what-they-want.html)**
-  *<p>Article URL: <a href="https://morgin.ai/articles/even-uncensored-models-cant-say-what-they-want.html">https://morgin.ai/articles/even-uncensored-models-cant-say-what-they-want.html</a></p>
-<p>Comme...*
-  📅 Mon, 20 Apr 2026 22:43:29 +0000
+- **[Using Changesets in a polyglot monorepo](https://luke.hsiao.dev/blog/changesets-polyglot-monorepo/)**
+  *<p>Article URL: <a href="https://luke.hsiao.dev/blog/changesets-polyglot-monorepo/">https://luke.hsiao.dev/blog/changesets-polyglot-monorepo/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator...*
+  📅 Tue, 21 Apr 2026 06:25:50 +0000
 
-- **[Monero Community Crowdfunding System](https://ccs.getmonero.org/ideas/)**
-  *<p>Article URL: <a href="https://ccs.getmonero.org/ideas/">https://ccs.getmonero.org/ideas/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=47841149">https://news.ycombinator.co...*
-  📅 Mon, 20 Apr 2026 21:33:15 +0000
+- **[Louis Zocchi, inventor of the d100, has died](https://icv2.com/articles/news/view/62176/r-i-p-louis-zocchi-the-godfather-dice)**
+  *<p>Article URL: <a href="https://icv2.com/articles/news/view/62176/r-i-p-louis-zocchi-the-godfather-dice">https://icv2.com/articles/news/view/62176/r-i-p-louis-zocchi-the-godfather-dice</a></p>
+<p>Com...*
+  📅 Tue, 21 Apr 2026 06:19:15 +0000
 
-- **[Jujutsu megamerges for fun and profit](https://isaaccorbrey.com/notes/jujutsu-megamerges-for-fun-and-profit)**
-  *<p>Article URL: <a href="https://isaaccorbrey.com/notes/jujutsu-megamerges-for-fun-and-profit">https://isaaccorbrey.com/notes/jujutsu-megamerges-for-fun-and-profit</a></p>
-<p>Comments URL: <a href="ht...*
-  📅 Mon, 20 Apr 2026 21:32:10 +0000
+- **[A mad undertaking: An undefinitive guide to the Aadam Jacobs collection](https://aadamjacobscollection.org/)**
+  *<p>Article URL: <a href="https://aadamjacobscollection.org/">https://aadamjacobscollection.org/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=47845187">https://news.ycombinato...*
+  📅 Tue, 21 Apr 2026 06:12:41 +0000
 
-- **[OpenAI ad partner now selling ChatGPT ad placements based on “prompt relevance”](https://www.adweek.com/media/exclusive-leaked-deck-reveals-stackadapts-playbook-for-chatgpt-ads/)**
-  *<p>Article URL: <a href="https://www.adweek.com/media/exclusive-leaked-deck-reveals-stackadapts-playbook-for-chatgpt-ads/">https://www.adweek.com/media/exclusive-leaked-deck-reveals-stackadapts-playbo...*
-  📅 Mon, 20 Apr 2026 21:20:52 +0000
+- **[Types and Neural Networks](https://www.brunogavranovic.com/posts/2026-04-20-types-and-neural-networks.html)**
+  *<p>Article URL: <a href="https://www.brunogavranovic.com/posts/2026-04-20-types-and-neural-networks.html">https://www.brunogavranovic.com/posts/2026-04-20-types-and-neural-networks.html</a></p>
+<p>Com...*
+  📅 Tue, 21 Apr 2026 05:59:53 +0000
 
-- **[Show HN: Holos – QEMU/KVM with a compose-style YAML, GPUs and health checks](https://github.com/zeroecco/holos)**
-  *<p>I got tired of libvirt XML and Vagrant's Ruby/reload dance for single-host VM stacks, so I built a compose-style runtime directly on QEMU/KVM.<p>What's there: GPU passthrough as a first-class primi...*
-  📅 Mon, 20 Apr 2026 21:13:49 +0000
+- **[The Beauty of Bonsai Styles](https://longwoodgardens.org/blog/2023-05-17/beauty-bonsai-styles)**
+  *<p>Article URL: <a href="https://longwoodgardens.org/blog/2023-05-17/beauty-bonsai-styles">https://longwoodgardens.org/blog/2023-05-17/beauty-bonsai-styles</a></p>
+<p>Comments URL: <a href="https://ne...*
+  📅 Tue, 21 Apr 2026 04:31:30 +0000
 
 ### 📑 TechCrunch
 
 - **[Who is John Ternus, the incoming Apple CEO?](https://techcrunch.com/2026/04/20/who-is-john-ternus-the-incoming-apple-ceo/)**
-  *After 15 years, Tim Cook will hand off his role as Apple CEO to John Ternus, senior vice president of hardware engineering....*
+  *Starting on September 1, Ternus will lead one of the world's most valuable companies, but if you're not a dedicated Apple enthusiast, you've probably never heard of this man, who has largely remained ...*
   📅 Tue, 21 Apr 2026 01:02:04 +0000
 
 - **[Anthropic takes $5B from Amazon and pledges $100B in cloud spending in return](https://techcrunch.com/2026/04/20/anthropic-takes-5b-from-amazon-and-pledges-100b-in-cloud-spending-in-return/)**
@@ -102,25 +104,21 @@
 
 ### 📑 Dev.to
 
-- **[นอนไม่หลับ ข้อมูลหาย 8 กู้คืน และย้ายข้อมูล](https://dev.to/thanawat_wonchai/nnaimhlab-khmuulhaay-8-kuukhuuen-aelayaaykhmuul-b49)**
+- **[Android Development Is About to Change Forever: Google Rebuilds the Toolchain for Agents — 70% Fewer Tokens, 3x Faster](https://dev.to/wonderlab/android-development-is-about-to-change-forever-google-rebuilds-the-toolchain-for-agents-70-adb)**
   *<h2>
   
   
-  สรุปโดยย่อ (fTL;DR)
+  More Than "Another AI in the IDE"
 </h2>
 
-<p>หากคุณอัปเกรดเป็น Insomnia 8.0 แล้วไม่สามารถเข้าถึงคอลเลกชันของคุณได้ ข้อมูลของคุณอาจยังคงอยู่ในดิสก์ คู่มือนี้จะแนะนำขั้นตอนการค้นหา กู้คืนจากฐานข้อมูล SQLi...*
-  📅 Tue, 21 Apr 2026 01:42:15 +0000
+<p>If Google had just added another Copilot-style assistant to Android Studio, that wouldn't be worth a dedicated article.</p>
 
-- **[تشريح بنية بث الفيديو في نيويورك تايمز: بناء محرك استخراج عالي الأداء باستخدام HLS و FFmpeg](https://dev.to/yqqwe/tshryh-bny-bth-lfydyw-fy-nywywrk-tymz-bn-mhrk-stkhrj-ly-ld-bstkhdm-hls-w-ffmpeg-20cn)**
-  *<h2>
-  
-  
-  مقدمة
-</h2>
+<p>What they've ac...*
+  📅 Tue, 21 Apr 2026 07:20:28 +0000
 
-<p>كمطورين، غالباً ما ننبهر بكيفية إدارة المنصات العالمية لتوزيع بيانات الوسائط المتعددة على نطاق واسع. تتبع صحيفة نيويورك تايمز (NYTimes)، وهي مؤسسة إعلامية رائدة عالمياً، ب...*
-  📅 Tue, 21 Apr 2026 01:41:37 +0000
+- **[Claude Design vs Figma, Lovable, v0: What's Different](https://dev.to/monkfromearth/claude-design-vs-figma-lovable-v0-whats-different-44mi)**
+  *<p><strong>TL;DR:</strong> Figma, Lovable, v0, and Claude Design are not the same tool. They pick different starting points: <strong>the design file, an idea, a component prompt, your codebase.</stron...*
+  📅 Tue, 21 Apr 2026 07:20:09 +0000
 
 </details>
 
@@ -128,103 +126,103 @@
 
 ### 📈 Daily Trending
 
-- **[pang83/jungbok](https://github.com/pang83/jungbok)** ⭐ 4
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  보조사업 중복수급 자동검토
-
-- **[renatogroffe/arquitetura-foundry-mcps_2026-04](https://github.com/renatogroffe/arquitetura-foundry-mcps_2026-04)** ⭐ 4
-  ![None](https://img.shields.io/badge/-None-lightgrey)
-  Exemplo de arquitetura de referência para soluções de IA utilizando MCPs, Microsoft Foundry e serviços do Microsoft Azure.
-
-- **[khianvaliente13-design/Apply](https://github.com/khianvaliente13-design/Apply)** ⭐ 2
-  ![HTML](https://img.shields.io/badge/-HTML-lightgrey)
-  My Portfolio
-
-- **[KSubedi/llm-select](https://github.com/KSubedi/llm-select)** ⭐ 2
+- **[Pedrozz13755/Lottie-Whatsapp](https://github.com/Pedrozz13755/Lottie-Whatsapp)** ⭐ 17
   ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
-  Chrome extension to quickly select something to give reference to LLM.
-
-- **[cangjielanguage-sig/ACEHarness](https://github.com/cangjielanguage-sig/ACEHarness)** ⭐ 2
-  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
-  企业级 AI Multi-Agent 智能协作系统 -- 状态机驱动 / Supervisor 智能路由 / 对抗式迭代 / 对话式创建 Your team of AIs, collaborating to get work done.
-
-- **[JPvalto92/Power-BI---Superstore-](https://github.com/JPvalto92/Power-BI---Superstore-)** ⭐ 1
-  ![None](https://img.shields.io/badge/-None-lightgrey)
-  Objetivo de analizar el rendimiento de ventas, la rentabilidad y el comportamiento de productos a partir del dataset Superstore.
-
-- **[Yaser-mohsen/css-projict](https://github.com/Yaser-mohsen/css-projict)** ⭐ 1
-  ![HTML](https://img.shields.io/badge/-HTML-lightgrey)
   None
 
-- **[rayandcherry/Blender2BambuStudio](https://github.com/rayandcherry/Blender2BambuStudio)** ⭐ 1
+- **[QuantBots-Collective/polymarket-copy-trading-bot](https://github.com/QuantBots-Collective/polymarket-copy-trading-bot)** ⭐ 14
+  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
+  polymarket copy trading bot, polymarket trading bot,polymarket copy trading bot, polymarket trading bot,polymarket copy trading bot, polymarket trading bot,polymarket copy trading bot, polymarket trading bot,polymarket copy trading bot, polymarket trading bot,polymarket copy trading bot, polymarket trading bot 
+
+- **[AlphaLedger-Labs/polymarket-copy-trading-bot](https://github.com/AlphaLedger-Labs/polymarket-copy-trading-bot)** ⭐ 10
+  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
+  Polymarket copy trading bot, Polymarket trading bot - monitor and mirror target wallet trades (BTC 15m/minute markets, sports-style intervals).
+
+- **[pizlonator/zef](https://github.com/pizlonator/zef)** ⭐ 8
+  ![HTML](https://img.shields.io/badge/-HTML-lightgrey)
+  Zef Programming Language
+
+- **[chloe-yang-jiali/geo-seo-skills](https://github.com/chloe-yang-jiali/geo-seo-skills)** ⭐ 8
   ![None](https://img.shields.io/badge/-None-lightgrey)
-  A Claude Code skill that exports colored Blender models to Bambu Studio for multi-color AMS printing via native OBJ+MTL — no Silk addon required.
+  Chloe关于SEO/GEO的AI Skills合集
+
+- **[YNOGA226/GAEFeat](https://github.com/YNOGA226/GAEFeat)** ⭐ 7
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  None
+
+- **[Jasonxu1225/TacticGen](https://github.com/Jasonxu1225/TacticGen)** ⭐ 7
+  ![None](https://img.shields.io/badge/-None-lightgrey)
+  ''TacticGen: Grounding Adaptable and Scalable Generation of Football Tactics'' Official Repository
+
+- **[m1iktea/iq-tax-evaluator](https://github.com/m1iktea/iq-tax-evaluator)** ⭐ 6
+  ![None](https://img.shields.io/badge/-None-lightgrey)
+  None
 
 ### 📈 Weekly Trending
 
-- **[kyegomez/OpenMythos](https://github.com/kyegomez/OpenMythos)** ⭐ 4,295
+- **[kyegomez/OpenMythos](https://github.com/kyegomez/OpenMythos)** ⭐ 4,794
   ![Python](https://img.shields.io/badge/-Python-blue)
   A theoretical reconstruction of the Claude Mythos architecture, built from first principles using the available research literature.
 
-- **[browser-use/browser-harness](https://github.com/browser-use/browser-harness)** ⭐ 3,611
+- **[browser-use/browser-harness](https://github.com/browser-use/browser-harness)** ⭐ 3,858
   ![Python](https://img.shields.io/badge/-Python-blue)
   Self-healing browser harness that enables LLMs to complete any task.
 
-- **[Robbyant/lingbot-map](https://github.com/Robbyant/lingbot-map)** ⭐ 3,282
+- **[Robbyant/lingbot-map](https://github.com/Robbyant/lingbot-map)** ⭐ 3,540
   ![Python](https://img.shields.io/badge/-Python-blue)
   A feed-forward 3D foundation model for reconstructing scenes from streaming data
 
-- **[lewislulu/html-ppt-skill](https://github.com/lewislulu/html-ppt-skill)** ⭐ 1,657
+- **[lewislulu/html-ppt-skill](https://github.com/lewislulu/html-ppt-skill)** ⭐ 1,695
   ![HTML](https://img.shields.io/badge/-HTML-lightgrey)
   HTML PPT Studio — AgentSkill with 24 themes, 31 layouts, 20+ animations for building professional HTML presentations
 
-- **[Nightmare-Eclipse/RedSun](https://github.com/Nightmare-Eclipse/RedSun)** ⭐ 1,643
+- **[Nightmare-Eclipse/RedSun](https://github.com/Nightmare-Eclipse/RedSun)** ⭐ 1,652
   ![C++](https://img.shields.io/badge/-C++-pink)
   The Red Sun vulnerability repository
 
-- **[Manavarya09/design-extract](https://github.com/Manavarya09/design-extract)** ⭐ 1,157
+- **[Manavarya09/design-extract](https://github.com/Manavarya09/design-extract)** ⭐ 1,185
   ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
   Extract any website's complete design system with one command. DTCG tokens, semantic+primitive+composite, MCP server for Claude Code/Cursor/Windsurf, multi-platform emitters (iOS SwiftUI, Android Compose, Flutter, WordPress), Tailwind v4, Figma variables, shadcn/ui, CSS health audit, WCAG remediation, Chrome extension. MIT, Playwright, Node 20+.
 
-- **[wbh604/UZI-Skill](https://github.com/wbh604/UZI-Skill)** ⭐ 970
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  冰冷的钱就这样流进我温暖的口袋-游资（UZI）Skills — 51位投资大佬帮你看盘 · 22维数据 × 180条量化规则 × 17种机构分析方法 · A股/港股/美股 
-
-- **[cathrynlavery/diagram-design](https://github.com/cathrynlavery/diagram-design)** ⭐ 969
+- **[cathrynlavery/diagram-design](https://github.com/cathrynlavery/diagram-design)** ⭐ 1,033
   ![HTML](https://img.shields.io/badge/-HTML-lightgrey)
   Thirteen editorial diagram types for Claude Code. Self-contained HTML + SVG. No shadows, no Mermaid-slop.
 
+- **[wbh604/UZI-Skill](https://github.com/wbh604/UZI-Skill)** ⭐ 1,012
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  冰冷的钱就这样流进我温暖的口袋-游资（UZI）Skills — 51位投资大佬帮你看盘 · 22维数据 × 180条量化规则 × 17种机构分析方法 · A股/港股/美股 
+
 ### 📈 Monthly Trending
 
-- **[ultraworkers/claw-code](https://github.com/ultraworkers/claw-code)** ⭐ 186,750
+- **[ultraworkers/claw-code](https://github.com/ultraworkers/claw-code)** ⭐ 186,866
   ![Rust](https://img.shields.io/badge/-Rust-brown)
   The repo is finally unlocked. enjoy the party! The fastest repo in history to surpass 100K stars ⭐. Join Discord: https://discord.gg/5TUQKqFWd Built in Rust using oh-my-codex.
 
-- **[VoltAgent/awesome-design-md](https://github.com/VoltAgent/awesome-design-md)** ⭐ 61,538
+- **[VoltAgent/awesome-design-md](https://github.com/VoltAgent/awesome-design-md)** ⭐ 61,816
   ![None](https://img.shields.io/badge/-None-lightgrey)
   A collection of DESIGN.md files inspired by popular brand design systems. Drop one into your project and let coding agents generate a matching UI.
 
-- **[MemPalace/mempalace](https://github.com/MemPalace/mempalace)** ⭐ 48,497
+- **[MemPalace/mempalace](https://github.com/MemPalace/mempalace)** ⭐ 48,562
   ![Python](https://img.shields.io/badge/-Python-blue)
   The best-benchmarked open-source AI memory system. And it's free.
 
-- **[JuliusBrussee/caveman](https://github.com/JuliusBrussee/caveman)** ⭐ 40,757
+- **[JuliusBrussee/caveman](https://github.com/JuliusBrussee/caveman)** ⭐ 41,114
   ![Python](https://img.shields.io/badge/-Python-blue)
   🪨 why use many token when few token do trick — Claude Code skill that cuts 65% of tokens by talking like caveman
 
-- **[santifer/career-ops](https://github.com/santifer/career-ops)** ⭐ 37,176
+- **[santifer/career-ops](https://github.com/santifer/career-ops)** ⭐ 37,389
   ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
   AI-powered job search system built on Claude Code. 14 skill modes, Go dashboard, PDF generation, batch processing.
 
-- **[safishamsi/graphify](https://github.com/safishamsi/graphify)** ⭐ 31,410
+- **[safishamsi/graphify](https://github.com/safishamsi/graphify)** ⭐ 31,587
   ![Python](https://img.shields.io/badge/-Python-blue)
   AI coding assistant skill (Claude Code, Codex, OpenCode, Cursor, Gemini CLI, GitHub Copilot CLI, OpenClaw, Factory Droid, Trae, Google Antigravity). Turn any folder of code, docs, papers, images, or videos into a queryable knowledge graph
 
-- **[Gitlawb/openclaude](https://github.com/Gitlawb/openclaude)** ⭐ 22,911
+- **[Gitlawb/openclaude](https://github.com/Gitlawb/openclaude)** ⭐ 22,951
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   Open Claude Is Open-source coding-agent CLI for OpenAI, Gemini, DeepSeek, Ollama, Codex, GitHub Models, and 200+ models via OpenAI-compatible APIs.
 
-- **[claude-code-best/claude-code](https://github.com/claude-code-best/claude-code)** ⭐ 16,498
+- **[claude-code-best/claude-code](https://github.com/claude-code-best/claude-code)** ⭐ 16,528
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   原汁原昧 Claude Code 可运行,可构建, 可调试版; Typescript 类型全修复; 企业级可靠性; 安全无毒, lock 文件保真, 可直接 bun i; bun run dev 启动
 
@@ -504,47 +502,47 @@ consolidated into a single option `MockModuleOpti...
 
 | Skill | Status |
 |-------|--------|
-| Java | 🟢 Proficient |
-| Python | 🟢 Proficient |
-| JavaScript | ⚪ Planned |
-| TypeScript | 🟢 Proficient |
+| Java | 🟡 Learning |
+| Python | ⚪ Planned |
+| JavaScript | 🟡 Learning |
+| TypeScript | 🟡 Learning |
 | Go | ⚪ Planned |
 
 ### Frameworks
 
 | Skill | Status |
 |-------|--------|
-| React | 🟡 Learning |
-| Spring Boot | 🔴 Beginner |
+| React | 🟢 Proficient |
+| Spring Boot | 🟡 Learning |
 | Django | 🟡 Learning |
-| Node.js | 🟢 Proficient |
-| Next.js | 🟢 Proficient |
+| Node.js | 🟡 Learning |
+| Next.js | 🔴 Beginner |
 
 ### Cybersecurity
 
 | Skill | Status |
 |-------|--------|
 | Penetration Testing | 🟡 Learning |
-| Web Security | 🟡 Learning |
-| Network Security | 🔴 Beginner |
-| OWASP | ⚪ Planned |
+| Web Security | ⚪ Planned |
+| Network Security | 🟢 Proficient |
+| OWASP | 🟡 Learning |
 
 ### Ai Ml
 
 | Skill | Status |
 |-------|--------|
-| Machine Learning | ⚪ Planned |
+| Machine Learning | 🟢 Proficient |
 | Deep Learning | 🟢 Proficient |
-| NLP | 🔴 Beginner |
+| NLP | 🟡 Learning |
 | Computer Vision | 🟢 Proficient |
-| TensorFlow | 🟡 Learning |
-| PyTorch | 🔴 Beginner |
+| TensorFlow | 🔴 Beginner |
+| PyTorch | ⚪ Planned |
 
 ### Devops
 
 | Skill | Status |
 |-------|--------|
-| Docker | 🔴 Beginner |
+| Docker | 🟢 Proficient |
 | Kubernetes | 🟢 Proficient |
 | CI/CD | 🟢 Proficient |
 | AWS | 🟢 Proficient |
@@ -554,9 +552,9 @@ consolidated into a single option `MockModuleOpti...
 
 | Skill | Status |
 |-------|--------|
-| Blockchain | 🔴 Beginner |
-| Web3 | 🔴 Beginner |
-| Cloud Computing | 🟢 Proficient |
+| Blockchain | 🟡 Learning |
+| Web3 | 🟡 Learning |
+| Cloud Computing | ⚪ Planned |
 
 </details>
 
