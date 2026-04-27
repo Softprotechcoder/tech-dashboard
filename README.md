@@ -46,34 +46,39 @@
 
 ### 📑 Hacker News
 
-- **[Google banks on AI edge to catch up to cloud rivals Amazon and Microsoft](https://www.ft.com/content/2429f0f0-b685-4747-b425-bf8001a2e94c)**
-  *<p>Article URL: <a href="https://www.ft.com/content/2429f0f0-b685-4747-b425-bf8001a2e94c">https://www.ft.com/content/2429f0f0-b685-4747-b425-bf8001a2e94c</a></p>
-<p>Comments URL: <a href="https://news...*
-  📅 Mon, 27 Apr 2026 00:34:30 +0000
+- **[The Mushroom That Makes People Have the Exact Same Hallucination](https://www.vice.com/en/article/meet-the-mushroom-that-make-people-have-the-exact-same-hallucination/)**
+  *<p>Article URL: <a href="https://www.vice.com/en/article/meet-the-mushroom-that-make-people-have-the-exact-same-hallucination/">https://www.vice.com/en/article/meet-the-mushroom-that-make-people-have-...*
+  📅 Mon, 27 Apr 2026 07:21:17 +0000
 
-- **[Show HN: Startup Equity Adventure Game](https://options-game-polymathrobotics.pythonanywhere.com/)**
-  *<p>I put this together (with Claude) as a semi-gamified way for folks to learn about startup equity. Take a look, and share your scorecard :)</p>
-<hr />
-<p>Comments URL: <a href="https://news.ycombina...*
-  📅 Sun, 26 Apr 2026 22:14:59 +0000
+- **[The Prompt API](https://developer.chrome.com/docs/ai/prompt-api)**
+  *<p>Article URL: <a href="https://developer.chrome.com/docs/ai/prompt-api">https://developer.chrome.com/docs/ai/prompt-api</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=4791702...*
+  📅 Mon, 27 Apr 2026 02:18:58 +0000
+
+- **[EvanFlow – A TDD driven feedback loop for Claude Code](https://github.com/evanklem/evanflow)**
+  *<p>Article URL: <a href="https://github.com/evanklem/evanflow">https://github.com/evanklem/evanflow</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=47916909">https://news.ycombi...*
+  📅 Mon, 27 Apr 2026 01:56:39 +0000
+
+- **[TurboQuant: A first-principles walkthrough](https://arkaung.github.io/interactive-turboquant/)**
+  *<p>Article URL: <a href="https://arkaung.github.io/interactive-turboquant/">https://arkaung.github.io/interactive-turboquant/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=479...*
+  📅 Mon, 27 Apr 2026 01:54:32 +0000
+
+- **[FreeBSD Device Drivers Book](https://github.com/ebrandi/FDD-book)**
+  *<p>Article URL: <a href="https://github.com/ebrandi/FDD-book">https://github.com/ebrandi/FDD-book</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=47915632">https://news.ycombina...*
+  📅 Sun, 26 Apr 2026 22:53:06 +0000
 
 - **[Butterflies are in decline across North America, a look at the Western Monarch](https://www.smithsonianmag.com/science-nature/butterflies-are-in-dramatic-decline-across-north-america-a-close-look-at-the-western-monarch-shows-why-180988582/)**
   *<p>Article URL: <a href="https://www.smithsonianmag.com/science-nature/butterflies-are-in-dramatic-decline-across-north-america-a-close-look-at-the-western-monarch-shows-why-180988582/">https://www.sm...*
   📅 Sun, 26 Apr 2026 21:23:20 +0000
 
-- **[Show HN: Tiao, A two-player turn-based board game](https://playtiao.com)**
-  *<p>Hi HN,<p>I built this digital version of Tiao, a two-player turn based strategy board game. Think Checkers meets Go. It's free, runs in the browser, has multiplayer, AI, over the board mode and a l...*
-  📅 Sun, 26 Apr 2026 20:59:07 +0000
-
-- **[Show HN: AI memory with biological decay (52% recall)](https://github.com/sachitrafa/YourMemory)**
-  *<p>Most RAG setups fail because they treat memory like a static filing cabinet. When every transient bug fix or abandoned rule is stored forever, the context window eventually chokes on noise, spiking...*
-  📅 Sun, 26 Apr 2026 20:58:31 +0000
-
-- **[Sawe becomes first athlete to run a sub-two-hour marathon in a competitive race](https://www.bbc.com/sport/athletics/articles/crm1m7e0zwzo)**
-  *<p><a href="https://www.letsrun.com/news/2026/04/15930-sabastian-sawe-shatters-the-2-hour-barrier-at-2026-london-marathon/" rel="nofollow">https://www.letsrun.com/news/2026/04/15930-sabastian-sawe-sh....*
-  📅 Sun, 26 Apr 2026 20:56:30 +0000
-
 ### 📑 TechCrunch
+
+- **[Truecaller faces mounting pressures as its growth matures](https://techcrunch.com/2026/04/26/truecaller-faces-mounting-pressures-as-its-growth-matures/)**
+  *As growth slows, Truecaller is leaning on subscriptions, business services, and new features to sustain momentum beyond India....*
+  📅 Mon, 27 Apr 2026 03:00:00 +0000
 
 - **[The Stanford freshmen who want to rule the world . . . will probably read this book and try even harder](https://techcrunch.com/2026/04/26/the-stanford-freshmen-who-want-to-rule-the-world-will-probably-read-this-book-and-try-even-harder/)**
   *Can a book like this actually change anything? Or does the spotlight, as it always seems to, send more students racing to the place?...*
@@ -95,24 +100,26 @@
   *Someone’s offering an unusual deal for a 13-acre property in Mill Valley, just north of South Francisco....*
   📅 Sun, 26 Apr 2026 15:30:00 +0000
 
-- **[SpeakOn’s dictation device is a good idea marred by platform limitations](https://techcrunch.com/2026/04/26/speakons-dictation-device-is-a-good-idea-marred-by-platform-limitations/)**
-  *This $129 device uses MagSafe to stick on the back of an iPhone to power transcription across apps...*
-  📅 Sun, 26 Apr 2026 15:00:00 +0000
-
 ### 📑 Dev.to
 
-- **[Your LLM Bill Is Too High. Here's How to Fix It (Part 1)](https://dev.to/zhang-liz/your-llm-bill-is-too-high-heres-how-to-fix-it-part-1-1in1)**
-  *<p>The cheapest LLM call is the one you do not make.</p>
+- **[Building Real-Time Chat That Doesn’t Break at Scale (and Actually Uses AI Properly)](https://dev.to/smartguy666/building-real-time-chat-that-doesnt-break-at-scale-and-actually-uses-ai-properly-3pd8)**
+  *<p>Building Real-Time Chat That Doesn’t Break at Scale (and Actually Uses AI Properly)</p>
 
-<p>Everyone building with LLMs eventually hits the same wall. The prototype<br />
-works, usage climbs, and suddenly the API bill starts doing ...*
-  📅 Mon, 27 Apr 2026 01:49:54 +0000
+<p>Most teams underestimate chat. When you try to go past the demo, complexity rears its ugly head pretty qu...*
+  📅 Mon, 27 Apr 2026 07:52:10 +0000
 
-- **[Most Flask Apps Miss This: Auditable Input Validation & Detecting Unvalidated Routes](https://dev.to/blaine_wils_45095dc2c68f6/most-flask-apps-miss-this-auditable-input-validation-detecting-unvalidated-routes-5cjp)**
-  *<p>Flask gives you a lot of flexibility—but input validation is often an afterthought.</p>
+- **[AI Form Builders Are Becoming Table Stakes. MCP Form Operations Are the Hard Part.](https://dev.to/lovanaut55/ai-form-builders-are-becoming-table-stakes-mcp-form-operations-are-the-hard-part-22ia)**
+  *<p>AI form builders are useful.</p>
 
-<p>In my day job, I work in application security across architecture, engineering, and operations. A big par...*
-  📅 Mon, 27 Apr 2026 01:25:43 +0000
+<p>You type:<br />
+</p>
+
+<div class="highlight js-code-highlight">
+<pre class="highlight plaintext"><code>Create a webinar registration form.
+</code></pre>
+
+</div>...*
+  📅 Mon, 27 Apr 2026 07:51:14 +0000
 
 </details>
 
@@ -120,103 +127,103 @@ works, usage climbs, and suddenly the API bill starts doing ...*
 
 ### 📈 Daily Trending
 
-- **[ultraworkers/hbackup](https://github.com/ultraworkers/hbackup)** ⭐ 5
+- **[evanklem/evanflow](https://github.com/evanklem/evanflow)** ⭐ 154
+  ![Shell](https://img.shields.io/badge/-Shell-lightgrey)
+  A TDD-driven iterative feedback loop for software development. 16 cohesive Claude Code skills walk an idea from brainstorm → plan → execute → tdd → iterate, with checkpoints throughout.
+
+- **[maria-rcks/clawd.rip](https://github.com/maria-rcks/clawd.rip)** ⭐ 22
+  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
+  Everything that *went* wrong with Claude.
+
+- **[ultraworkers/hbackup](https://github.com/ultraworkers/hbackup)** ⭐ 13
   ![Rust](https://img.shields.io/badge/-Rust-brown)
   Backup and restore tool for Hermes Agent + OpenClaw installations
 
-- **[snedea/recursive-llm](https://github.com/snedea/recursive-llm)** ⭐ 2
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  RecurseKit -- runtime for processing inputs beyond LLM context window limits using the Recursive Language Model pattern
-
-- **[darteagaleon/Proyecto_IE_XX](https://github.com/darteagaleon/Proyecto_IE_XX)** ⭐ 1
+- **[ravenkim/techsalary](https://github.com/ravenkim/techsalary)** ⭐ 9
   ![None](https://img.shields.io/badge/-None-lightgrey)
-  Repositorio donde los aprendices crearan las ramas para cada uno de los modulos apartir de la estrucutra base.
+  💰 IT 직종 연봉 정보 사이트 모음 | A curated list of tech salary resources for Korean and global developers  
 
-- **[IzQant/training_session](https://github.com/IzQant/training_session)** ⭐ 1
-  ![None](https://img.shields.io/badge/-None-lightgrey)
-  일반인/아마추어 대상 훈련 및 식단 관리 서비스
-
-- **[SuperCatQR/bilibili_user_clone](https://github.com/SuperCatQR/bilibili_user_clone)** ⭐ 1
+- **[reportingtools/instagram-reporting-tool](https://github.com/reportingtools/instagram-reporting-tool)** ⭐ 8
   ![Python](https://img.shields.io/badge/-Python-blue)
-  抓取n站目标用户主页的所有发布内容。发现bug提交issue
+  Instagram Reporting Tool. This tool automates the process of reporting Instagram profiles that may violate the platform's policies. You can quickly report spam accounts, fake profiles, and other violations. This guide will help you with the software easily.
 
-- **[jon-devlapaz/gbc](https://github.com/jon-devlapaz/gbc)** ⭐ 1
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  Local FastAPI tool for Claude Code — workspace audit, session search, live cost tracking. DMG aesthetic.
-
-- **[m44686066-creator/Abebe](https://github.com/m44686066-creator/Abebe)** ⭐ 1
-  ![HTML](https://img.shields.io/badge/-HTML-lightgrey)
+- **[VR-LabX/BioVerse](https://github.com/VR-LabX/BioVerse)** ⭐ 7
+  ![C#](https://img.shields.io/badge/-C#-lightgrey)
   None
 
-- **[rajan-daniel/nextJSDemo](https://github.com/rajan-daniel/nextJSDemo)** ⭐ 1
-  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
+- **[akfc58/codex-heartbeat-wake](https://github.com/akfc58/codex-heartbeat-wake)** ⭐ 6
+  ![Shell](https://img.shields.io/badge/-Shell-lightgrey)
   None
+
+- **[HongliLiu1/STAR-main](https://github.com/HongliLiu1/STAR-main)** ⭐ 6
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  [TCSVT 2026] STAR: Semantic-Temporal Adaptive Representation Learning for Few-Shot Action Recognition
 
 ### 📈 Weekly Trending
 
-- **[op7418/guizang-ppt-skill](https://github.com/op7418/guizang-ppt-skill)** ⭐ 3,016
+- **[op7418/guizang-ppt-skill](https://github.com/op7418/guizang-ppt-skill)** ⭐ 3,216
   ![HTML](https://img.shields.io/badge/-HTML-lightgrey)
   A Claude Code Skill that turns prompts into horizontal-swipe magazine-style HTML decks — 10 layouts, 5 curated themes, WebGL hero backgrounds, single-file output.
 
-- **[Einsia/OpenChronicle](https://github.com/Einsia/OpenChronicle)** ⭐ 1,429
+- **[Einsia/OpenChronicle](https://github.com/Einsia/OpenChronicle)** ⭐ 1,497
   ![Python](https://img.shields.io/badge/-Python-blue)
   None
 
-- **[ConardLi/garden-skills](https://github.com/ConardLi/garden-skills)** ⭐ 1,386
+- **[ConardLi/garden-skills](https://github.com/ConardLi/garden-skills)** ⭐ 1,460
   ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
   ConardLi's open-source Skills collection, featuring web design, knowledge retrieval, image generation, and more.
 
-- **[deepseek-ai/TileKernels](https://github.com/deepseek-ai/TileKernels)** ⭐ 1,221
+- **[deepseek-ai/TileKernels](https://github.com/deepseek-ai/TileKernels)** ⭐ 1,244
   ![Python](https://img.shields.io/badge/-Python-blue)
   A kernel library written in tilelang
 
-- **[victorchen96/deepseek_v4_rolepaly_instruct](https://github.com/victorchen96/deepseek_v4_rolepaly_instruct)** ⭐ 1,083
+- **[victorchen96/deepseek_v4_rolepaly_instruct](https://github.com/victorchen96/deepseek_v4_rolepaly_instruct)** ⭐ 1,177
   ![None](https://img.shields.io/badge/-None-lightgrey)
   对于DeepSeek-V4角色扮演的特殊控制指令的说明
 
-- **[openclaw/clawsweeper](https://github.com/openclaw/clawsweeper)** ⭐ 1,014
+- **[openclaw/clawsweeper](https://github.com/openclaw/clawsweeper)** ⭐ 1,071
   ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
   ClawSweeper scans all issues and PRs and suggest what we can close, and why. It runs every PR / Issue once a week.
 
-- **[therealaleph/MasterHttpRelayVPN-RUST](https://github.com/therealaleph/MasterHttpRelayVPN-RUST)** ⭐ 749
-  ![Rust](https://img.shields.io/badge/-Rust-brown)
-  Rust port of @masterking32's MasterHttpRelayVPN — all credit to @masterking32 for the original idea and Python implementation. Free DPI bypass via a Google Apps Script relay with TLS SNI concealment. CLI + cross-platform desktop UI, HTTP + SOCKS5 proxy, no runtime deps.
+- **[freestylefly/awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2)** ⭐ 938
+  ![None](https://img.shields.io/badge/-None-lightgrey)
+  Prompt as Code | GPT-Image2 工业级提示词引擎与模板库 - 329个案例逆向工程，13套工业级模板
 
-- **[Russell-cell/PPT-Design-Prompt](https://github.com/Russell-cell/PPT-Design-Prompt)** ⭐ 715
+- **[Russell-cell/PPT-Design-Prompt](https://github.com/Russell-cell/PPT-Design-Prompt)** ⭐ 777
   ![Python](https://img.shields.io/badge/-Python-blue)
   None
 
 ### 📈 Monthly Trending
 
-- **[ultraworkers/claw-code](https://github.com/ultraworkers/claw-code)** ⭐ 188,598
+- **[ultraworkers/claw-code](https://github.com/ultraworkers/claw-code)** ⭐ 188,696
   ![Rust](https://img.shields.io/badge/-Rust-brown)
   The repo is finally unlocked. enjoy the party! The fastest repo in history to surpass 100K stars ⭐. Join Discord: https://discord.gg/5TUQKqFWd Built in Rust using oh-my-codex.
 
-- **[VoltAgent/awesome-design-md](https://github.com/VoltAgent/awesome-design-md)** ⭐ 66,052
+- **[VoltAgent/awesome-design-md](https://github.com/VoltAgent/awesome-design-md)** ⭐ 66,304
   ![None](https://img.shields.io/badge/-None-lightgrey)
   A collection of DESIGN.md files inspired by popular brand design systems. Drop one into your project and let coding agents generate a matching UI.
 
-- **[MemPalace/mempalace](https://github.com/MemPalace/mempalace)** ⭐ 49,835
+- **[MemPalace/mempalace](https://github.com/MemPalace/mempalace)** ⭐ 49,904
   ![Python](https://img.shields.io/badge/-Python-blue)
   The best-benchmarked open-source AI memory system. And it's free.
 
-- **[JuliusBrussee/caveman](https://github.com/JuliusBrussee/caveman)** ⭐ 47,206
+- **[JuliusBrussee/caveman](https://github.com/JuliusBrussee/caveman)** ⭐ 47,426
   ![Python](https://img.shields.io/badge/-Python-blue)
   🪨 why use many token when few token do trick — Claude Code skill that cuts 65% of tokens by talking like caveman
 
-- **[santifer/career-ops](https://github.com/santifer/career-ops)** ⭐ 40,025
+- **[santifer/career-ops](https://github.com/santifer/career-ops)** ⭐ 40,112
   ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
   AI-powered job search system built on Claude Code. 14 skill modes, Go dashboard, PDF generation, batch processing.
 
-- **[safishamsi/graphify](https://github.com/safishamsi/graphify)** ⭐ 35,609
+- **[safishamsi/graphify](https://github.com/safishamsi/graphify)** ⭐ 35,888
   ![Python](https://img.shields.io/badge/-Python-blue)
   AI coding assistant skill (Claude Code, Codex, OpenCode, Cursor, Gemini CLI, GitHub Copilot CLI, OpenClaw, Factory Droid, Trae, Google Antigravity). Turn any folder of code, docs, papers, images, or videos into a queryable knowledge graph
 
-- **[Gitlawb/openclaude](https://github.com/Gitlawb/openclaude)** ⭐ 24,552
+- **[Gitlawb/openclaude](https://github.com/Gitlawb/openclaude)** ⭐ 24,598
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   Open Claude Is Open-source coding-agent CLI for OpenAI, Gemini, DeepSeek, Ollama, Codex, GitHub Models, and 200+ models via OpenAI-compatible APIs.
 
-- **[claude-code-best/claude-code](https://github.com/claude-code-best/claude-code)** ⭐ 16,979
+- **[claude-code-best/claude-code](https://github.com/claude-code-best/claude-code)** ⭐ 17,008
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   原汁原昧 Claude Code 可运行,可构建, 可调试版; Typescript 类型全修复; 企业级可靠性; 安全无毒, lock 文件保真, 可直接 bun i; bun run dev 启动
 
@@ -490,41 +497,41 @@ consolidated into a single option `MockModuleOpti...
 
 | Skill | Status |
 |-------|--------|
-| Java | 🟢 Proficient |
-| Python | ⚪ Planned |
+| Java | 🟡 Learning |
+| Python | 🔴 Beginner |
 | JavaScript | 🔴 Beginner |
 | TypeScript | 🟡 Learning |
-| Go | 🔴 Beginner |
+| Go | 🟢 Proficient |
 
 ### Frameworks
 
 | Skill | Status |
 |-------|--------|
-| React | 🟡 Learning |
-| Spring Boot | 🟡 Learning |
-| Django | ⚪ Planned |
-| Node.js | ⚪ Planned |
-| Next.js | 🟢 Proficient |
+| React | 🔴 Beginner |
+| Spring Boot | 🔴 Beginner |
+| Django | 🟡 Learning |
+| Node.js | 🔴 Beginner |
+| Next.js | 🟡 Learning |
 
 ### Cybersecurity
 
 | Skill | Status |
 |-------|--------|
-| Penetration Testing | 🔴 Beginner |
-| Web Security | ⚪ Planned |
+| Penetration Testing | ⚪ Planned |
+| Web Security | 🔴 Beginner |
 | Network Security | 🟡 Learning |
-| OWASP | ⚪ Planned |
+| OWASP | 🟡 Learning |
 
 ### Ai Ml
 
 | Skill | Status |
 |-------|--------|
-| Machine Learning | 🟡 Learning |
+| Machine Learning | 🟢 Proficient |
 | Deep Learning | 🟢 Proficient |
-| NLP | 🔴 Beginner |
-| Computer Vision | 🟢 Proficient |
+| NLP | 🟢 Proficient |
+| Computer Vision | ⚪ Planned |
 | TensorFlow | 🟡 Learning |
-| PyTorch | 🟢 Proficient |
+| PyTorch | 🟡 Learning |
 
 ### Devops
 
@@ -532,17 +539,17 @@ consolidated into a single option `MockModuleOpti...
 |-------|--------|
 | Docker | 🟢 Proficient |
 | Kubernetes | 🔴 Beginner |
-| CI/CD | 🟢 Proficient |
-| AWS | ⚪ Planned |
-| Azure | 🟢 Proficient |
+| CI/CD | 🟡 Learning |
+| AWS | 🟢 Proficient |
+| Azure | 🔴 Beginner |
 
 ### Other
 
 | Skill | Status |
 |-------|--------|
-| Blockchain | ⚪ Planned |
-| Web3 | 🟡 Learning |
-| Cloud Computing | 🟢 Proficient |
+| Blockchain | 🔴 Beginner |
+| Web3 | 🔴 Beginner |
+| Cloud Computing | ⚪ Planned |
 
 </details>
 
