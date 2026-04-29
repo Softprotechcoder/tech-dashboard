@@ -46,36 +46,38 @@
 
 ### 📑 Hacker News
 
-- **[We decreased our LLM costs with Opus](https://www.mendral.com/blog/frontier-model-lower-costs)**
-  *<p>Article URL: <a href="https://www.mendral.com/blog/frontier-model-lower-costs">https://www.mendral.com/blog/frontier-model-lower-costs</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com...*
-  📅 Wed, 29 Apr 2026 00:57:12 +0000
+- **[Wire to Replace Signal as Standard in the Bundestag](https://www.heise.de/en/news/Digital-Sovereignty-Wire-to-Replace-Signal-as-Standard-in-the-Bundestag-11275755.html)**
+  *<p>Article URL: <a href="https://www.heise.de/en/news/Digital-Sovereignty-Wire-to-Replace-Signal-as-Standard-in-the-Bundestag-11275755.html">https://www.heise.de/en/news/Digital-Sovereignty-Wire-to-Re...*
+  📅 Wed, 29 Apr 2026 07:31:00 +0000
 
-- **[Claude system prompt bug wastes user money and bricks managed agents](https://github.com/anthropics/claude-code/issues/49363)**
-  *<p>Article URL: <a href="https://github.com/anthropics/claude-code/issues/49363">https://github.com/anthropics/claude-code/issues/49363</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/i...*
-  📅 Tue, 28 Apr 2026 23:59:57 +0000
+- **[Low-Compilation-Cost Register Allocation in LLVM-Based Binary Translation](https://dl.acm.org/doi/abs/10.1145/3767295.3803591)**
+  *<p>Article URL: <a href="https://dl.acm.org/doi/abs/10.1145/3767295.3803591">https://dl.acm.org/doi/abs/10.1145/3767295.3803591</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=4...*
+  📅 Wed, 29 Apr 2026 06:47:53 +0000
 
-- **[ChatGPT serves ads. Here's the full attribution loop](https://www.buchodi.com/how-chatgpt-serves-ads-heres-the-full-attribution-loop/)**
-  *<p>Article URL: <a href="https://www.buchodi.com/how-chatgpt-serves-ads-heres-the-full-attribution-loop/">https://www.buchodi.com/how-chatgpt-serves-ads-heres-the-full-attribution-loop/</a></p>
-<p>Com...*
-  📅 Tue, 28 Apr 2026 23:54:14 +0000
+- **[Germany Overtakes US in Ammunition Production Capacity](https://www.newsweek.com/germany-overtakes-us-in-ammunition-production-capacity-11886409)**
+  *<p>Article URL: <a href="https://www.newsweek.com/germany-overtakes-us-in-ammunition-production-capacity-11886409">https://www.newsweek.com/germany-overtakes-us-in-ammunition-production-capacity-11886...*
+  📅 Wed, 29 Apr 2026 06:46:42 +0000
 
-- **[Claude for Creative Work](https://www.anthropic.com/news/claude-for-creative-work)**
-  *<p>Article URL: <a href="https://www.anthropic.com/news/claude-for-creative-work">https://www.anthropic.com/news/claude-for-creative-work</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com...*
-  📅 Tue, 28 Apr 2026 23:46:56 +0000
+- **[HardenedBSD Is Now Officially on Radicle](https://hardenedbsd.org/article/shawn-webb/2026-04-26/hardenedbsd-officially-radicle)**
+  *<p>Article URL: <a href="https://hardenedbsd.org/article/shawn-webb/2026-04-26/hardenedbsd-officially-radicle">https://hardenedbsd.org/article/shawn-webb/2026-04-26/hardenedbsd-officially-radicle</a><...*
+  📅 Wed, 29 Apr 2026 06:38:44 +0000
 
-- **[Apple CMF (Color-Matching Functions) 2026](https://www.lttlabs.com/articles/2026/04/11/apple-studio-display-xdr-display-testing-results)**
-  *<p>Article URL: <a href="https://www.lttlabs.com/articles/2026/04/11/apple-studio-display-xdr-display-testing-results">https://www.lttlabs.com/articles/2026/04/11/apple-studio-display-xdr-display-test...*
-  📅 Tue, 28 Apr 2026 23:43:53 +0000
+- **[Bugs Rust won't catch](https://corrode.dev/blog/bugs-rust-wont-catch/)**
+  *<p>Article URL: <a href="https://corrode.dev/blog/bugs-rust-wont-catch/">https://corrode.dev/blog/bugs-rust-wont-catch/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=47943499"...*
+  📅 Wed, 29 Apr 2026 02:19:11 +0000
 
-- **[Carrot Disclosure: Forgejo](https://dustri.org/b/carrot-disclosure-forgejo.html)**
-  *<p>Article URL: <a href="https://dustri.org/b/carrot-disclosure-forgejo.html">https://dustri.org/b/carrot-disclosure-forgejo.html</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id...*
-  📅 Tue, 28 Apr 2026 22:14:29 +0000
+- **[When the Internet Was a Place](https://www.frontporchrepublic.com/2025/09/when-the-internet-was-a-place/)**
+  *<p>Article URL: <a href="https://www.frontporchrepublic.com/2025/09/when-the-internet-was-a-place/">https://www.frontporchrepublic.com/2025/09/when-the-internet-was-a-place/</a></p>
+<p>Comments URL: <...*
+  📅 Wed, 29 Apr 2026 01:36:52 +0000
 
 ### 📑 TechCrunch
+
+- **[How one venture firm is investing in an increasingly fragmented world](https://techcrunch.com/2026/04/28/how-one-venture-firm-is-navigating-an-increasingly-fragmented-world/)**
+  *Geopolitical turmoil has made venture investing challenging, leading Kompas VC to carve out a niche in startups focused on the physical world....*
+  📅 Wed, 29 Apr 2026 03:00:00 +0000
 
 - **[At his OpenAI trial, Musk relitigates an old friendship](https://techcrunch.com/2026/04/28/at-his-openai-trial-musk-relitigates-an-old-friendship/)**
   *It's a story Musk has told before -- in interviews and to author Walter Isaacson for his bestselling biography of Musk -- but Tuesday was the first time he said it under oath....*
@@ -97,25 +99,21 @@
   *After Anthropic refused to allow the DoD to use its AI for domestic mass surveillance and autonomous weapons, Google has signed a new contract with the department....*
   📅 Tue, 28 Apr 2026 18:15:00 +0000
 
-- **[Paragon is not collaborating with Italian authorities probing spyware attacks, report says](https://techcrunch.com/2026/04/28/paragon-is-not-collaborating-with-italian-authorities-probing-spyware-attacks-report-says/)**
-  *Despite promising to help determine what happened with the hacks targeting journalists and activists in Italy, Israeli American spyware maker Paragon has reportedly not responded to authorities’ reque...*
-  📅 Tue, 28 Apr 2026 17:46:47 +0000
-
 ### 📑 Dev.to
 
-- **[Indie Dev ASO Complete Guide — Climbing App Store Rankings with Optimization](https://dev.to/kanta13jp1/indie-dev-aso-complete-guide-climbing-app-store-rankings-with-optimization-3089)**
-  *<h1>
-  
-  
-  Indie Dev ASO Complete Guide — Climbing App Store Rankings with Optimization
-</h1>
+- **[The Accordion Pattern: Why I stopped writing one fat LLM prompt](https://dev.to/hidekimori/the-accordion-pattern-why-i-stopped-writing-one-fat-llm-prompt-18mb)**
+  *<p>Most structured-extraction tutorials look the same. Take a document, write one big prompt that says "extract A, B, C, D, E, F", get JSON back. Done.</p>
 
-<p>Building a great app is only half the battle — users need to find it. App Store Optimization (ASO) i...*
-  📅 Wed, 29 Apr 2026 02:02:25 +0000
+<p>This works on short inputs.</p>
 
-- **[Build Your First MCP Server in Python in 10 Minutes](https://dev.to/nebulagg/build-your-first-mcp-server-in-python-in-10-minutes-2eij)**
-  *<p>MCP (Model Context Protocol) crossed <strong>97 million monthly installs</strong> in March 2026 — faster adoption than React hit in its first three years. Chrome just shipped a DevTools MCP server....*
-  📅 Wed, 29 Apr 2026 02:02:22 +0000
+<p>It q...*
+  📅 Wed, 29 Apr 2026 07:51:20 +0000
+
+- **[Flowise MCP RCE: What CVE-2026-40933 Teaches About Agent Security](https://dev.to/tokenmixai/flowise-mcp-rce-what-cve-2026-40933-teaches-about-agent-security-1p6g)**
+  *<p>Flowise MCP RCE is not just another patch note. It is a warning about how agent builders handle Model Context Protocol servers, especially STDIO-based tools.</p>
+
+<p>The full TokenMix.ai version is...*
+  📅 Wed, 29 Apr 2026 07:42:47 +0000
 
 </details>
 
@@ -123,103 +121,103 @@
 
 ### 📈 Daily Trending
 
-- **[avacocloud/SNI-XHTTP-V1.1](https://github.com/avacocloud/SNI-XHTTP-V1.1)** ⭐ 6
+- **[amirshaker000/netlify-relay](https://github.com/amirshaker000/netlify-relay)** ⭐ 33
   ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
   None
 
-- **[fr4ct4ldemo/Verification-with-components-v2-](https://github.com/fr4ct4ldemo/Verification-with-components-v2-)** ⭐ 5
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
-  A feature-rich Discord verification bot built with discord.js. Includes customizable verify panels, category lockdown on setup, role-based access, blacklist/whitelist system, cooldowns, captcha support, verification logs, and stats tracking.
-
-- **[Yat-ming666/Ghost-Bits-](https://github.com/Yat-ming666/Ghost-Bits-)** ⭐ 4
-  ![None](https://img.shields.io/badge/-None-lightgrey)
-  Ghost Bits(幽灵比特)攻击手法字典
-
-- **[AugustineFulgur/GhostBitsGenerator](https://github.com/AugustineFulgur/GhostBitsGenerator)** ⭐ 4
+- **[AugustineFulgur/GhostBitsGenerator](https://github.com/AugustineFulgur/GhostBitsGenerator)** ⭐ 19
   ![Java](https://img.shields.io/badge/-Java-orange)
   None
 
-- **[Billy-loop/os-review](https://github.com/Billy-loop/os-review)** ⭐ 3
-  ![None](https://img.shields.io/badge/-None-lightgrey)
+- **[avacocloud/SNI-XHTTP-V1.1](https://github.com/avacocloud/SNI-XHTTP-V1.1)** ⭐ 13
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
   None
 
-- **[Wang-xjtu/UniT](https://github.com/Wang-xjtu/UniT)** ⭐ 2
-  ![None](https://img.shields.io/badge/-None-lightgrey)
-  UniT: Unified Geometry Learning With Group Autoregressive Transformer
-
-- **[1ee/CyberScanner-Pro](https://github.com/1ee/CyberScanner-Pro)** ⭐ 2
+- **[CortexReach/llm-deploy](https://github.com/CortexReach/llm-deploy)** ⭐ 10
   ![Python](https://img.shields.io/badge/-Python-blue)
-  Simple cybersecurity scanner for web applications
+  Sanitized vLLM deployment example for Qwen3.6-35B-A3B-FP8.
 
-- **[1000ji0/Inner-Heart_AI-Chatbot](https://github.com/1000ji0/Inner-Heart_AI-Chatbot)** ⭐ 2
+- **[lxqwind/GhostBits-WAF-Bypass-Toolkit](https://github.com/lxqwind/GhostBits-WAF-Bypass-Toolkit)** ⭐ 9
   ![Python](https://img.shields.io/badge/-Python-blue)
-  Gemini 2.5 Flash 기반 멀티 에이전트 공감 채팅 웹앱 | RAG 지식베이스 + NVC 이론 적용 | Google Apps Script
+  针对 Java 幽灵比特位漏洞的 WAF 绕过辅助工具，支持敏感字符替换、payload 编码与命令生成，帮助快速突破文件读取场景的安全过滤限制。
+
+- **[robzolkos/pi-nocchio](https://github.com/robzolkos/pi-nocchio)** ⭐ 8
+  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
+  A tiny Pi package that adds a CLI flag for printing Pi's assembled system prompt.
+
+- **[avacocloud/netlify-XHHTP](https://github.com/avacocloud/netlify-XHHTP)** ⭐ 8
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
+  None
+
+- **[cellinlab/wdwbmnbwl](https://github.com/cellinlab/wdwbmnbwl)** ⭐ 7
+  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
+  None
 
 ### 📈 Weekly Trending
 
-- **[op7418/guizang-ppt-skill](https://github.com/op7418/guizang-ppt-skill)** ⭐ 3,844
+- **[op7418/guizang-ppt-skill](https://github.com/op7418/guizang-ppt-skill)** ⭐ 4,000
   ![HTML](https://img.shields.io/badge/-HTML-lightgrey)
   A Claude Code Skill that turns prompts into horizontal-swipe magazine-style HTML decks — 10 layouts, 5 curated themes, WebGL hero backgrounds, single-file output.
 
-- **[freestylefly/awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2)** ⭐ 1,726
+- **[nexu-io/open-design](https://github.com/nexu-io/open-design)** ⭐ 2,416
+  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
+  🎨 Local-first, open-source alternative to Anthropic's Claude Design. ⚡ 19 Skills · ✨ 71 brand-grade Design Systems · 🖼️ sandboxed preview · 📦 HTML/PDF/PPTX export. 🤖 Runs on Claude Code / Codex / Cursor / Gemini CLI / OpenCode / Qwen.
+
+- **[freestylefly/awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2)** ⭐ 1,886
   ![None](https://img.shields.io/badge/-None-lightgrey)
   Prompt as Code | GPT-Image2 工业级提示词引擎与模板库 - 329个案例逆向工程，13套工业级模板，且不断更新中。
 
-- **[victorchen96/deepseek_v4_rolepaly_instruct](https://github.com/victorchen96/deepseek_v4_rolepaly_instruct)** ⭐ 1,460
+- **[victorchen96/deepseek_v4_rolepaly_instruct](https://github.com/victorchen96/deepseek_v4_rolepaly_instruct)** ⭐ 1,485
   ![None](https://img.shields.io/badge/-None-lightgrey)
   对于DeepSeek-V4角色扮演的特殊控制指令的说明
 
-- **[nexu-io/open-design](https://github.com/nexu-io/open-design)** ⭐ 1,390
-  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
-  🎨 Local-first open replica of Anthropic's Claude Design. ⚡ 19 Skills · ✨ 71 brand-grade Design Systems · 🖼️ sandboxed preview · 📦 HTML/PDF/PPTX export. 🤖 Runs on Claude Code / Codex / Cursor / Gemini CLI / OpenCode / Qwen.
-
-- **[openclaw/clawsweeper](https://github.com/openclaw/clawsweeper)** ⭐ 1,278
+- **[openclaw/clawsweeper](https://github.com/openclaw/clawsweeper)** ⭐ 1,296
   ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
   ClawSweeper scans all issues and PRs and suggest what we can close, and why. It runs every PR / Issue once a week.
 
-- **[0x0funky/agent-sprite-forge](https://github.com/0x0funky/agent-sprite-forge)** ⭐ 1,046
+- **[0x0funky/agent-sprite-forge](https://github.com/0x0funky/agent-sprite-forge)** ⭐ 1,081
   ![Python](https://img.shields.io/badge/-Python-blue)
   Agent Skill for generating 2D sprite sheets and map, transparent PNG frames, and animated GIFs from prompts.
 
-- **[GammaLabTechnologies/harmonist](https://github.com/GammaLabTechnologies/harmonist)** ⭐ 841
+- **[GammaLabTechnologies/harmonist](https://github.com/GammaLabTechnologies/harmonist)** ⭐ 859
   ![Python](https://img.shields.io/badge/-Python-blue)
   Portable AI agent orchestration with mechanical protocol enforcement. 186 agents, zero runtime dependencies.
 
-- **[future-agi/future-agi](https://github.com/future-agi/future-agi)** ⭐ 709
+- **[future-agi/future-agi](https://github.com/future-agi/future-agi)** ⭐ 716
   ![Python](https://img.shields.io/badge/-Python-blue)
   Open-source, end-to-end platform for evaluating, observing, and improving LLM and AI agent applications. Tracing · Evals · Simulations · Datasets · Gateway · Guardrails. Self-hostable. Apache 2.0.
 
 ### 📈 Monthly Trending
 
-- **[ultraworkers/claw-code](https://github.com/ultraworkers/claw-code)** ⭐ 189,070
+- **[ultraworkers/claw-code](https://github.com/ultraworkers/claw-code)** ⭐ 189,119
   ![Rust](https://img.shields.io/badge/-Rust-brown)
   The repo is finally unlocked. enjoy the party! The fastest repo in history to surpass 100K stars ⭐. Join Discord: https://discord.gg/5TUQKqFWd Built in Rust using oh-my-codex.
 
-- **[VoltAgent/awesome-design-md](https://github.com/VoltAgent/awesome-design-md)** ⭐ 67,570
+- **[VoltAgent/awesome-design-md](https://github.com/VoltAgent/awesome-design-md)** ⭐ 67,752
   ![None](https://img.shields.io/badge/-None-lightgrey)
   A collection of DESIGN.md files inspired by popular brand design systems. Drop one into your project and let coding agents generate a matching UI.
 
-- **[MemPalace/mempalace](https://github.com/MemPalace/mempalace)** ⭐ 50,211
+- **[MemPalace/mempalace](https://github.com/MemPalace/mempalace)** ⭐ 50,257
   ![Python](https://img.shields.io/badge/-Python-blue)
   The best-benchmarked open-source AI memory system. And it's free.
 
-- **[JuliusBrussee/caveman](https://github.com/JuliusBrussee/caveman)** ⭐ 49,336
+- **[JuliusBrussee/caveman](https://github.com/JuliusBrussee/caveman)** ⭐ 49,594
   ![Python](https://img.shields.io/badge/-Python-blue)
   🪨 why use many token when few token do trick — Claude Code skill that cuts 65% of tokens by talking like caveman
 
-- **[santifer/career-ops](https://github.com/santifer/career-ops)** ⭐ 40,691
+- **[santifer/career-ops](https://github.com/santifer/career-ops)** ⭐ 40,785
   ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
   AI-powered job search system built on Claude Code. 14 skill modes, Go dashboard, PDF generation, batch processing.
 
-- **[safishamsi/graphify](https://github.com/safishamsi/graphify)** ⭐ 37,379
+- **[safishamsi/graphify](https://github.com/safishamsi/graphify)** ⭐ 37,590
   ![Python](https://img.shields.io/badge/-Python-blue)
   AI coding assistant skill (Claude Code, Codex, OpenCode, Cursor, Gemini CLI, GitHub Copilot CLI, OpenClaw, Factory Droid, Trae, Google Antigravity). Turn any folder of code, docs, papers, images, or videos into a queryable knowledge graph
 
-- **[Gitlawb/openclaude](https://github.com/Gitlawb/openclaude)** ⭐ 24,877
+- **[Gitlawb/openclaude](https://github.com/Gitlawb/openclaude)** ⭐ 24,906
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   Open Claude Is Open-source coding-agent CLI for OpenAI, Gemini, DeepSeek, Ollama, Codex, GitHub Models, and 200+ models via OpenAI-compatible APIs.
 
-- **[claude-code-best/claude-code](https://github.com/claude-code-best/claude-code)** ⭐ 17,170
+- **[claude-code-best/claude-code](https://github.com/claude-code-best/claude-code)** ⭐ 17,214
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   原汁原昧 Claude Code 可运行,可构建, 可调试版; Typescript 类型全修复; 企业级可靠性; 安全无毒, lock 文件保真, 可直接 bun i; bun run dev 启动
 
@@ -495,38 +493,38 @@ consolidated into a single option `MockModuleOpti...
 |-------|--------|
 | Java | 🔴 Beginner |
 | Python | ⚪ Planned |
-| JavaScript | 🟡 Learning |
-| TypeScript | 🟢 Proficient |
-| Go | ⚪ Planned |
+| JavaScript | 🟢 Proficient |
+| TypeScript | 🟡 Learning |
+| Go | 🟢 Proficient |
 
 ### Frameworks
 
 | Skill | Status |
 |-------|--------|
-| React | ⚪ Planned |
-| Spring Boot | 🟡 Learning |
-| Django | 🔴 Beginner |
-| Node.js | 🟡 Learning |
-| Next.js | 🟢 Proficient |
+| React | 🟢 Proficient |
+| Spring Boot | ⚪ Planned |
+| Django | 🟢 Proficient |
+| Node.js | 🔴 Beginner |
+| Next.js | 🟡 Learning |
 
 ### Cybersecurity
 
 | Skill | Status |
 |-------|--------|
-| Penetration Testing | 🟢 Proficient |
-| Web Security | ⚪ Planned |
+| Penetration Testing | 🔴 Beginner |
+| Web Security | 🔴 Beginner |
 | Network Security | 🟡 Learning |
-| OWASP | 🔴 Beginner |
+| OWASP | 🟡 Learning |
 
 ### Ai Ml
 
 | Skill | Status |
 |-------|--------|
-| Machine Learning | 🔴 Beginner |
-| Deep Learning | 🟡 Learning |
-| NLP | 🔴 Beginner |
-| Computer Vision | 🔴 Beginner |
-| TensorFlow | 🔴 Beginner |
+| Machine Learning | 🟡 Learning |
+| Deep Learning | 🟢 Proficient |
+| NLP | 🟡 Learning |
+| Computer Vision | ⚪ Planned |
+| TensorFlow | 🟢 Proficient |
 | PyTorch | 🟡 Learning |
 
 ### Devops
@@ -534,8 +532,8 @@ consolidated into a single option `MockModuleOpti...
 | Skill | Status |
 |-------|--------|
 | Docker | 🟢 Proficient |
-| Kubernetes | 🟡 Learning |
-| CI/CD | ⚪ Planned |
+| Kubernetes | 🟢 Proficient |
+| CI/CD | 🔴 Beginner |
 | AWS | 🔴 Beginner |
 | Azure | ⚪ Planned |
 
@@ -544,8 +542,8 @@ consolidated into a single option `MockModuleOpti...
 | Skill | Status |
 |-------|--------|
 | Blockchain | 🟡 Learning |
-| Web3 | ⚪ Planned |
-| Cloud Computing | 🟡 Learning |
+| Web3 | 🔴 Beginner |
+| Cloud Computing | ⚪ Planned |
 
 </details>
 
