@@ -7,7 +7,7 @@
 ![AI & ML](https://img.shields.io/badge/-AI%20&%20ML-blue) ![CyberSecurity](https://img.shields.io/badge/-CyberSecurity-red) ![Full Stack Development](https://img.shields.io/badge/-Full%20Stack%20Development-green)
 
 [![Auto Update](https://img.shields.io/badge/Auto%20Update-Enabled-success)](https://github.com/yourusername/tech-dashboard/actions)
-[![Last Updated](https://img.shields.io/badge/Last%20Updated-April 29, 2026-blue)](https://github.com/yourusername/tech-dashboard)
+[![Last Updated](https://img.shields.io/badge/Last%20Updated-April 30, 2026-blue)](https://github.com/yourusername/tech-dashboard)
 
 *Automatically updated every 6 hours with the latest tech news, trending repositories, and learning resources.*
 
@@ -46,75 +46,73 @@
 
 ### 📑 Hacker News
 
-- **[Anthropic bug causes $200 extra charge, refuses refund](https://github.com/anthropics/claude-code/issues/53262)**
-  *<p>Article URL: <a href="https://github.com/anthropics/claude-code/issues/53262">https://github.com/anthropics/claude-code/issues/53262</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/i...*
-  📅 Wed, 29 Apr 2026 18:54:31 +0000
+- **[Claude.ai and API Unavailable](https://status.claude.com/incidents/2gf1jpyty350)**
+  *<p>Article URL: <a href="https://status.claude.com/incidents/2gf1jpyty350">https://status.claude.com/incidents/2gf1jpyty350</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=47956...*
+  📅 Thu, 30 Apr 2026 01:21:03 +0000
 
-- **[Copy Fail – CVE-2026-31431](https://copy.fail/)**
-  *<p>Article URL: <a href="https://copy.fail/">https://copy.fail/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=47952181">https://news.ycombinator.com/item?id=47952181</a></p>
-<...*
-  📅 Wed, 29 Apr 2026 18:13:53 +0000
+- **[Claude.ai Down Again?](https://news.ycombinator.com/item?id=47956890)**
+  *<p>Please run /login · API Error: 403 {"type":"error","error":{"type":"permission_error","message":"Account is no longer a member of the organization associated with this token."}}<p>Can't reach Claud...*
+  📅 Thu, 30 Apr 2026 01:20:39 +0000
 
-- **[Ramp's Sheets AI Exfiltrates Financials](https://www.promptarmor.com/resources/ramps-sheets-ai-exfiltrates-financials)**
-  *<p>Article URL: <a href="https://www.promptarmor.com/resources/ramps-sheets-ai-exfiltrates-financials">https://www.promptarmor.com/resources/ramps-sheets-ai-exfiltrates-financials</a></p>
-<p>Comments ...*
-  📅 Wed, 29 Apr 2026 17:44:21 +0000
+- **[Be Alexandra Elbakyan](https://nitter.space/MushtaqBilalPhD/status/2049057344013881523#m)**
+  *<p>Article URL: <a href="https://nitter.space/MushtaqBilalPhD/status/2049057344013881523#m">https://nitter.space/MushtaqBilalPhD/status/2049057344013881523#m</a></p>
+<p>Comments URL: <a href="https://...*
+  📅 Wed, 29 Apr 2026 22:39:34 +0000
 
-- **[Laws of UX](https://lawsofux.com/)**
-  *<p>Article URL: <a href="https://lawsofux.com/">https://lawsofux.com/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=47951137">https://news.ycombinator.com/item?id=47951137</a>...*
-  📅 Wed, 29 Apr 2026 16:58:13 +0000
+- **[Gooseworks (YC W23) Is Hiring a Founding Growth Engineer](https://www.ycombinator.com/companies/gooseworks/jobs/ztgY6bD-founding-growth-engineer)**
+  *<p>Article URL: <a href="https://www.ycombinator.com/companies/gooseworks/jobs/ztgY6bD-founding-growth-engineer">https://www.ycombinator.com/companies/gooseworks/jobs/ztgY6bD-founding-growth-engineer<...*
+  📅 Wed, 29 Apr 2026 21:50:57 +0000
 
-- **[Why Software Needs a Third Loop [audio]](https://www.heavybit.com/library/podcasts/third-loop/ep-3-give-it-a-name-why-software-needs-a-third-loop)**
-  *<p>Article URL: <a href="https://www.heavybit.com/library/podcasts/third-loop/ep-3-give-it-a-name-why-software-needs-a-third-loop">https://www.heavybit.com/library/podcasts/third-loop/ep-3-give-it-a-n...*
-  📅 Wed, 29 Apr 2026 16:55:49 +0000
+- **[Vera: a programming language designed for machines to write](https://github.com/aallan/vera)**
+  *<p>Article URL: <a href="https://github.com/aallan/vera">https://github.com/aallan/vera</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=47955118">https://news.ycombinator.com/it...*
+  📅 Wed, 29 Apr 2026 21:41:32 +0000
 
-- **[Rise of the Forward Deployed Engineer](https://www.hfsresearch.com/research/fde-optional-ai-flywheel-spin/)**
-  *<p>Article URL: <a href="https://www.hfsresearch.com/research/fde-optional-ai-flywheel-spin/">https://www.hfsresearch.com/research/fde-optional-ai-flywheel-spin/</a></p>
-<p>Comments URL: <a href="http...*
-  📅 Wed, 29 Apr 2026 16:54:40 +0000
+- **[I benchmarked Claude Code's caveman plugin against "be brief."](https://www.maxtaylor.me/articles/i-benchmarked-caveman-against-two-words)**
+  *<p>Article URL: <a href="https://www.maxtaylor.me/articles/i-benchmarked-caveman-against-two-words">https://www.maxtaylor.me/articles/i-benchmarked-caveman-against-two-words</a></p>
+<p>Comments URL: <...*
+  📅 Wed, 29 Apr 2026 21:11:57 +0000
 
 ### 📑 TechCrunch
 
-- **[Parallel Web Systems hits $2B valuation five months after its last big raise](https://techcrunch.com/2026/04/29/parallel-web-systems-hits-2b-valuation-five-months-after-its-last-big-raise/)**
-  *The AI agent-tool startup founded by former Twitter CEO Parag Agrawal has raised $100 million, led by Sequoia, months after raising a previous $100 million....*
-  📅 Wed, 29 Apr 2026 18:33:05 +0000
+- **[Amazon, Meta join fight to end Google Pay, PhonePe dominance in India](https://techcrunch.com/2026/04/29/amazon-meta-join-fight-to-end-google-pay-phonepe-dominance-in-india/)**
+  *PhonePe and Google Pay command 80% of India's UPI instant payments network. Rivals are set to meet with regulators to lobby for restrictions....*
+  📅 Thu, 30 Apr 2026 01:00:00 +0000
 
-- **[Google Photos uses AI to make the iconic closet from ‘Clueless’ a reality](https://techcrunch.com/2026/04/29/google-photos-uses-ai-to-make-the-iconic-closet-from-clueless-a-reality/)**
-  *Google says the new feature will leverage AI technology to automatically create a copy of your wardrobe that's based on the pieces of clothing appearing in your Google Photos library....*
-  📅 Wed, 29 Apr 2026 16:42:33 +0000
+- **[Amazon’s cloud business is surging — and so is its capital spending](https://techcrunch.com/2026/04/29/amazons-cloud-business-is-surging-and-so-is-its-capital-spending/)**
+  *The e-commerce giant is making more money than expected from AWS but it's also spending a lot, and will continue to do so in the near term, its chief executive said....*
+  📅 Thu, 30 Apr 2026 00:14:23 +0000
 
-- **[More Gemini features are coming to Google TV](https://techcrunch.com/2026/04/29/more-gemini-features-are-coming-to-google-tv/)**
-  *Google TV just got more Gemini features, including the ability to transform photos and videos with tools Nano Banana and Veo....*
-  📅 Wed, 29 Apr 2026 16:40:49 +0000
+- **[Sources: Anthropic could raise a new $50B round at a valuation of $900B](https://techcrunch.com/2026/04/29/sources-anthropic-could-raise-a-new-50b-round-at-a-valuation-of-900b/)**
+  *The maker of Claude has received multiple pre-emptive offers at valuations in the $850 billion to $900 billion range, according to sources familiar with the matter....*
+  📅 Thu, 30 Apr 2026 00:07:15 +0000
 
-- **[Bill Gurley, Jack Altman back startup Pursuit, which helps companies sell to government](https://techcrunch.com/2026/04/29/bill-gurley-jack-altman-back-startup-pursuit-which-helps-companies-sell-to-government/)**
-  *On Wednesday, Pursuit announced a $22 million Series A round led by Mike Rosengarten, the co-founder of OpenGov, with big-name VCs participating....*
-  📅 Wed, 29 Apr 2026 16:20:02 +0000
+- **[On the stand, Elon Musk can’t escape his own tweets](https://techcrunch.com/2026/04/29/on-the-stand-elon-musk-cant-escape-his-own-tweets/)**
+  *Elon Musk took the stand for the second day for his attempt to legally dismantle OpenAI....*
+  📅 Wed, 29 Apr 2026 23:58:36 +0000
 
-- **[Roku’s $3 streaming service, Howdy, reaches 1M subs, per recent report](https://techcrunch.com/2026/04/29/rokus-3-streaming-service-howdy-reaches-1m-subs-per-recent-report/)**
-  *Roku’s $2.99 streaming service Howdy has topped 1M subscribers, showing demand for cheaper, low-commitment alternatives to pricier streamers....*
-  📅 Wed, 29 Apr 2026 15:33:35 +0000
+- **[Meta is still burning money on AR/VR](https://techcrunch.com/2026/04/29/meta-is-still-burning-money-on-ar-vr/)**
+  *Meta is losing billions on Reality Labs each quarter, and its AI expenditures are only going to increase its spending....*
+  📅 Wed, 29 Apr 2026 23:58:26 +0000
 
-- **[Uber is in the hotel business now, thanks in part to AI](https://techcrunch.com/2026/04/29/uber-is-in-the-hotel-business-now-thanks-in-part-to-ai/)**
-  *Uber announced several new features on Wednesday during its annual event, which push far beyond the company's original ride-hailing purpose and deeper into its users' lives....*
-  📅 Wed, 29 Apr 2026 15:12:14 +0000
+- **[Satya Nadella says he’s ready to ‘exploit’ the new OpenAI deal](https://techcrunch.com/2026/04/29/satya-nadella-says-hes-ready-to-exploit-the-new-openai-deal/)**
+  *Microsoft gets to offer OpenAI's tech to its cloud customers and doesn't have to pay for it. "We fully plan to exploit it," Nadella said....*
+  📅 Wed, 29 Apr 2026 23:55:23 +0000
 
 ### 📑 Dev.to
 
-- **[AI doesn't replace junior devs. It makes senior devs do junior work.](https://dev.to/adioof/ai-doesnt-replace-junior-devs-it-makes-senior-devs-do-junior-work-edj)**
-  *<p>Here's the deal: companies are firing junior developers and handing their work to AI. But that work doesn't disappear. It just rolls uphill to the most expensive people in the building.</p>
+- **[I Built a Blazing-Fast Log Analyzer in Rust Because I Got Tired of Slow grep + awk Hacks](https://dev.to/xxnullpointerxx/i-built-a-blazing-fast-log-analyzer-in-rust-because-i-got-tired-of-slow-grep-awk-hacks-2jk4)**
+  *<p>We've all been there.</p>
 
-<p>The...*
-  📅 Wed, 29 Apr 2026 19:09:18 +0000
+<p>You're debugging a production issue at 2 AM. Your Nginx access log is 8GB. You run some <code>grep</code>, <code>awk</code>, and <code>cut</code> commands, wait for mi...*
+  📅 Thu, 30 Apr 2026 01:47:01 +0000
 
-- **[Inngest's instanceof lies: why custom error classes vanish across step.run](https://dev.to/artl13/inngests-instanceof-lies-why-custom-error-classes-vanish-across-steprun-1pbk)**
-  *<p>A small bug that will silently break your retry logic, your error reporting, and your dashboards.</p>
+- **[In the Age of AI, What Terminal Tools Should We Be Using?](https://dev.to/xunxing_mao_fac71e331fd4b/in-the-age-of-ai-what-terminal-tools-should-we-be-using-5ch6)**
+  *<p>This article was originally published on <a href="https://maoxunxing.com" rel="noopener noreferrer">maoxunxing.com</a>.</p>
 
-<p>We run a long pipeline through Inngest — voice generation that calls OpenAI, then ElevenLab...*
-  📅 Wed, 29 Apr 2026 19:09:12 +0000
+<p>Today I want to talk about something every developer uses daily, but ...*
+  📅 Thu, 30 Apr 2026 01:32:36 +0000
 
 </details>
 
@@ -122,105 +120,105 @@
 
 ### 📈 Daily Trending
 
-- **[amirshaker000/netlify-relay](https://github.com/amirshaker000/netlify-relay)** ⭐ 150
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
-  None
-
-- **[t8y2/dbx](https://github.com/t8y2/dbx)** ⭐ 129
-  ![Vue](https://img.shields.io/badge/-Vue-lightgrey)
-  Open-source, lightweight, cross-platform database client. Supports MySQL, PostgreSQL, SQLite, Redis, MongoDB, DuckDB, ClickHouse, SQL Server.
-
-- **[AI4FinanceFoundation/coinbase-trading-bot](https://github.com/AI4FinanceFoundation/coinbase-trading-bot)** ⭐ 111
-  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
-  coinbase coinbase-api coinbase-bot advanced-trade cdp-api coinbase-pro trading-bot ema-crossover atr trend-filter paper-trading market-ioc typescript btc eth sol crypto algorithmic-trading automated-trading automated-crypto quant fintech risk-sizing zod nodejs esm open-source institutional retail spot hft api-keys portfolio tracker legacy-hmac
-
-- **[Fokkyp/SoftwareCopyright-Skill](https://github.com/Fokkyp/SoftwareCopyright-Skill)** ⭐ 91
+- **[shellaaa1/wechat-official-account-skill](https://github.com/shellaaa1/wechat-official-account-skill)** ⭐ 5
   ![Python](https://img.shields.io/badge/-Python-blue)
-  中国软件著作权申请材料 生成器 Skills，本 Skills 通过阅读本地项目，自动生成全套 .docx 软著申请材料，全开源，无须再付费购买任何软著申请服务
+  微信公众号运营助手 - 本地命令行工具，支持模板渲染、AI图片生成、素材上传、草稿管理等功能
 
-- **[skydoves/compose-performance-skills](https://github.com/skydoves/compose-performance-skills)** ⭐ 91
-  ![Shell](https://img.shields.io/badge/-Shell-lightgrey)
-  ⚡️ A curated library of Agent Skills focused on Jetpack Compose performance.
+- **[openclaw/clawsweeper.bot](https://github.com/openclaw/clawsweeper.bot)** ⭐ 4
+  ![CSS](https://img.shields.io/badge/-CSS-lightgrey)
+  ClawSweeper Website
 
-- **[avacocloud/netlify-XHHTP](https://github.com/avacocloud/netlify-XHHTP)** ⭐ 42
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
+- **[Release-By-Max20/Xworm-V6-compiled-](https://github.com/Release-By-Max20/Xworm-V6-compiled-)** ⭐ 3
+  ![None](https://img.shields.io/badge/-None-lightgrey)
   None
 
-- **[WL-DF/Legend-OF-Zelda-Twilight-Princess-PC](https://github.com/WL-DF/Legend-OF-Zelda-Twilight-Princess-PC)** ⭐ 29
-  ![C++](https://img.shields.io/badge/-C++-pink)
-  Legend Zelda Twilight Princess PC Download April 2026 High Performance 4K 60FPS Enhancement Suite Midna Shadow Shaders Texture Pack Ultra Wide Support High Refresh Rate Emulation Fix Gaming Utility Stable Build Free Project Preservation Tutorial Guide
-
-- **[zeke/swiss-design-skill](https://github.com/zeke/swiss-design-skill)** ⭐ 29
+- **[xioahou/ImageConversion](https://github.com/xioahou/ImageConversion)** ⭐ 2
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
-  A Swiss International Style design system skill for AI agents
+  None
+
+- **[SkiiOS/BelajarAndroid](https://github.com/SkiiOS/BelajarAndroid)** ⭐ 2
+  ![Java](https://img.shields.io/badge/-Java-orange)
+  A Android Studio project named BelajarAndroid
+
+- **[lizilaywer/PrivacyGuard](https://github.com/lizilaywer/PrivacyGuard)** ⭐ 3
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  PrivacyGuard 脱敏卫士 - 一个中国五线小城市律师用AI 开发的，基于Python + PyQt6 的 完全本地的PDF/Word 文档智能脱敏、脱密工具，“先脱敏，再上传”，支持文本识别、OCR 扫描、手动标记等多种脱敏方式，提供双栏对比预览和批量处理功能。（Local-based intelligent document redaction tool）
+
+- **[jdM4rtins/Nosso-Lar](https://github.com/jdM4rtins/Nosso-Lar)** ⭐ 2
+  ![HTML](https://img.shields.io/badge/-HTML-lightgrey)
+  None
+
+- **[VersaNexusIX/SchOS](https://github.com/VersaNexusIX/SchOS)** ⭐ 2
+  ![C](https://img.shields.io/badge/-C-lightgrey)
+  Experimental ARM64 monolithic OS for QEMU custom kernel, filesystem, shell, and scripting language written in C and AArch64 assembly.
 
 ### 📈 Weekly Trending
 
-- **[op7418/guizang-ppt-skill](https://github.com/op7418/guizang-ppt-skill)** ⭐ 4,149
-  ![HTML](https://img.shields.io/badge/-HTML-lightgrey)
-  A Claude Code Skill that turns prompts into horizontal-swipe magazine-style HTML decks — 10 layouts, 5 curated themes, WebGL hero backgrounds, single-file output.
-
-- **[nexu-io/open-design](https://github.com/nexu-io/open-design)** ⭐ 3,913
+- **[nexu-io/open-design](https://github.com/nexu-io/open-design)** ⭐ 4,520
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   🎨 Local-first, open-source alternative to Anthropic's Claude Design. ⚡ 19 Skills · ✨ 71 brand-grade Design Systems · 🖼️ sandboxed preview · 📦 HTML/PDF/PPTX export. 🤖 Runs on Claude Code / Codex / Cursor / Gemini CLI / OpenCode / Qwen / Copilot / Hermes / Kimi CLI.
 
-- **[freestylefly/awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2)** ⭐ 2,093
+- **[freestylefly/awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2)** ⭐ 2,157
   ![None](https://img.shields.io/badge/-None-lightgrey)
   Prompt as Code | GPT-Image2 工业级提示词引擎与模板库 - 329个案例逆向工程，13套工业级模板，且不断更新中。
 
-- **[victorchen96/deepseek_v4_rolepaly_instruct](https://github.com/victorchen96/deepseek_v4_rolepaly_instruct)** ⭐ 1,519
+- **[victorchen96/deepseek_v4_rolepaly_instruct](https://github.com/victorchen96/deepseek_v4_rolepaly_instruct)** ⭐ 1,521
   ![None](https://img.shields.io/badge/-None-lightgrey)
   对于DeepSeek-V4角色扮演的特殊控制指令的说明
 
-- **[openclaw/clawsweeper](https://github.com/openclaw/clawsweeper)** ⭐ 1,334
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
-  ClawSweeper scans all issues and PRs and suggest what we can close, and why. It runs every PR / Issue once a week.
-
-- **[0x0funky/agent-sprite-forge](https://github.com/0x0funky/agent-sprite-forge)** ⭐ 1,200
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  Agent Skill for generating 2D sprite sheets and map, transparent PNG frames, and animated GIFs from prompts.
-
-- **[GammaLabTechnologies/harmonist](https://github.com/GammaLabTechnologies/harmonist)** ⭐ 883
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  Portable AI agent orchestration with mechanical protocol enforcement. 186 agents, zero runtime dependencies.
-
-- **[cursor/cookbook](https://github.com/cursor/cookbook)** ⭐ 829
+- **[cursor/cookbook](https://github.com/cursor/cookbook)** ⭐ 1,515
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   None
 
+- **[epoko77-ai/im-not-ai](https://github.com/epoko77-ai/im-not-ai)** ⭐ 644
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  AI가 쓴 글이 아닌 것처럼 윤문해주는 스킬
+
+- **[alash3al/stash](https://github.com/alash3al/stash)** ⭐ 559
+  ![Go](https://img.shields.io/badge/-Go-cyan)
+  Stash — persistent memory layer for AI agents. Episodes, facts, and working context stored in Postgres. MCP server included. Self-hosted, single binary, no cloud required.
+
+- **[ps5-linux/ps5-linux-loader](https://github.com/ps5-linux/ps5-linux-loader)** ⭐ 533
+  ![C](https://img.shields.io/badge/-C-lightgrey)
+  Linux payload implementing the HV exploit and a custom bootloader
+
+- **[NyxTides/ppt-image-first](https://github.com/NyxTides/ppt-image-first)** ⭐ 431
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  PPT image-first skill for Codex/Claude Code/Opencode CLI
+
 ### 📈 Monthly Trending
 
-- **[ultraworkers/claw-code](https://github.com/ultraworkers/claw-code)** ⭐ 189,214
-  ![Rust](https://img.shields.io/badge/-Rust-brown)
-  The repo is finally unlocked. enjoy the party! The fastest repo in history to surpass 100K stars ⭐. Join Discord: https://discord.gg/5TUQKqFWd Built in Rust using oh-my-codex.
-
-- **[VoltAgent/awesome-design-md](https://github.com/VoltAgent/awesome-design-md)** ⭐ 68,068
-  ![None](https://img.shields.io/badge/-None-lightgrey)
-  A collection of DESIGN.md files inspired by popular brand design systems. Drop one into your project and let coding agents generate a matching UI.
-
-- **[MemPalace/mempalace](https://github.com/MemPalace/mempalace)** ⭐ 50,348
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  The best-benchmarked open-source AI memory system. And it's free.
-
-- **[JuliusBrussee/caveman](https://github.com/JuliusBrussee/caveman)** ⭐ 50,250
+- **[JuliusBrussee/caveman](https://github.com/JuliusBrussee/caveman)** ⭐ 50,485
   ![Python](https://img.shields.io/badge/-Python-blue)
   🪨 why use many token when few token do trick — Claude Code skill that cuts 65% of tokens by talking like caveman
 
-- **[santifer/career-ops](https://github.com/santifer/career-ops)** ⭐ 40,936
+- **[MemPalace/mempalace](https://github.com/MemPalace/mempalace)** ⭐ 50,382
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  The best-benchmarked open-source AI memory system. And it's free.
+
+- **[santifer/career-ops](https://github.com/santifer/career-ops)** ⭐ 40,992
   ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
   AI-powered job search system built on Claude Code. 14 skill modes, Go dashboard, PDF generation, batch processing.
 
-- **[safishamsi/graphify](https://github.com/safishamsi/graphify)** ⭐ 38,096
+- **[safishamsi/graphify](https://github.com/safishamsi/graphify)** ⭐ 38,327
   ![Python](https://img.shields.io/badge/-Python-blue)
   AI coding assistant skill (Claude Code, Codex, OpenCode, Cursor, Gemini CLI, GitHub Copilot CLI, OpenClaw, Factory Droid, Trae, Google Antigravity). Turn any folder of code, docs, papers, images, or videos into a queryable knowledge graph
 
-- **[Gitlawb/openclaude](https://github.com/Gitlawb/openclaude)** ⭐ 25,027
+- **[Gitlawb/openclaude](https://github.com/Gitlawb/openclaude)** ⭐ 25,076
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
-  Open Claude Is Open-source coding-agent CLI for OpenAI, Gemini, DeepSeek, Ollama, Codex, GitHub Models, and 200+ models via OpenAI-compatible APIs.
+  Any model. Every tool. Zero limits.
 
-- **[claude-code-best/claude-code](https://github.com/claude-code-best/claude-code)** ⭐ 17,251
+- **[alchaincyf/nuwa-skill](https://github.com/alchaincyf/nuwa-skill)** ⭐ 16,310
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  你想蒸馏的下一个员工，何必是同事。蒸馏任何人的思维方式——心智模型、决策启发式、表达DNA。Distill how anyone thinks.
+
+- **[garrytan/gbrain](https://github.com/garrytan/gbrain)** ⭐ 12,325
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
-  原汁原昧 Claude Code 可运行,可构建, 可调试版; Typescript 类型全修复; 企业级可靠性; 安全无毒, lock 文件保真, 可直接 bun i; bun run dev 启动
+  Garry's Opinionated OpenClaw/Hermes Agent Brain
+
+- **[HKUDS/OpenHarness](https://github.com/HKUDS/OpenHarness)** ⭐ 11,587
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  "OpenHarness: Open Agent Harness with a Built-in Personal Agent--Ohmo!"
 
 ## 🚀 Latest Releases
 
@@ -251,14 +249,14 @@ https://code.visualstudio.com/updates/v1_118...
 
 ### 📦 angular/angular
 
-**[21.2.10](https://github.com/angular/angular/releases/tag/v21.2.10)** `v21.2.10`
+**[21.2.11](https://github.com/angular/angular/releases/tag/v21.2.11)** `v21.2.11`
 
-📅 Released: April 22, 2026
+📅 Released: April 29, 2026
 
-### docs
+### common
 | Commit | Description |
 | -- | -- |
-| [![fix - 0d5ee9ae1b](https://img.shields.io/badge/0d5ee9ae1b-fix-green)](https://github.com/angular/angular/commit/0d5ee9ae1ba4b7acd8f27a059a778f0b4bd8a...
+| [![fix - 10ad3c0692](https://img.shields.io/badge/10ad3c0692-fix-green)](https://github.com/angular/angular/commit/10ad3c06923453ae0ec06b06e664ce05900...
 
 ---
 
@@ -493,20 +491,20 @@ consolidated into a single option `MockModuleOpti...
 | Skill | Status |
 |-------|--------|
 | Java | 🔴 Beginner |
-| Python | 🟡 Learning |
-| JavaScript | 🟢 Proficient |
-| TypeScript | 🔴 Beginner |
-| Go | 🟢 Proficient |
+| Python | 🔴 Beginner |
+| JavaScript | 🟡 Learning |
+| TypeScript | 🟡 Learning |
+| Go | ⚪ Planned |
 
 ### Frameworks
 
 | Skill | Status |
 |-------|--------|
 | React | ⚪ Planned |
-| Spring Boot | ⚪ Planned |
-| Django | ⚪ Planned |
-| Node.js | 🟡 Learning |
-| Next.js | 🔴 Beginner |
+| Spring Boot | 🟢 Proficient |
+| Django | 🔴 Beginner |
+| Node.js | 🟢 Proficient |
+| Next.js | ⚪ Planned |
 
 ### Cybersecurity
 
@@ -514,37 +512,37 @@ consolidated into a single option `MockModuleOpti...
 |-------|--------|
 | Penetration Testing | 🔴 Beginner |
 | Web Security | ⚪ Planned |
-| Network Security | ⚪ Planned |
-| OWASP | 🟢 Proficient |
+| Network Security | 🟡 Learning |
+| OWASP | ⚪ Planned |
 
 ### Ai Ml
 
 | Skill | Status |
 |-------|--------|
-| Machine Learning | 🟢 Proficient |
-| Deep Learning | 🟡 Learning |
+| Machine Learning | 🔴 Beginner |
+| Deep Learning | 🟢 Proficient |
 | NLP | 🟢 Proficient |
-| Computer Vision | 🔴 Beginner |
+| Computer Vision | ⚪ Planned |
 | TensorFlow | 🟢 Proficient |
-| PyTorch | 🔴 Beginner |
+| PyTorch | 🟢 Proficient |
 
 ### Devops
 
 | Skill | Status |
 |-------|--------|
-| Docker | 🔴 Beginner |
-| Kubernetes | 🟢 Proficient |
-| CI/CD | 🟢 Proficient |
-| AWS | 🟢 Proficient |
-| Azure | 🔴 Beginner |
+| Docker | ⚪ Planned |
+| Kubernetes | 🟡 Learning |
+| CI/CD | ⚪ Planned |
+| AWS | 🟡 Learning |
+| Azure | ⚪ Planned |
 
 ### Other
 
 | Skill | Status |
 |-------|--------|
-| Blockchain | 🟡 Learning |
-| Web3 | 🔴 Beginner |
-| Cloud Computing | 🟢 Proficient |
+| Blockchain | ⚪ Planned |
+| Web3 | ⚪ Planned |
+| Cloud Computing | 🔴 Beginner |
 
 </details>
 
@@ -562,7 +560,7 @@ This dashboard is automatically updated every 6 hours using GitHub Actions. The 
 
 <div align="center">
 
-**Last Updated:** April 29, 2026
+**Last Updated:** April 30, 2026
 
 Made with ❤️ and automated with GitHub Actions
 
