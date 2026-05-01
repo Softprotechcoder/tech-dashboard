@@ -46,33 +46,34 @@
 
 ### 📑 Hacker News
 
-- **[AI Skills as loader spec, not prompts – why the architecture changes everything](https://internals.laxmena.com/p/what-youre-actually-writing-when)**
-  *<p>Article URL: <a href="https://internals.laxmena.com/p/what-youre-actually-writing-when">https://internals.laxmena.com/p/what-youre-actually-writing-when</a></p>
-<p>Comments URL: <a href="https://ne...*
-  📅 Fri, 01 May 2026 01:01:09 +0000
+- **[It’s Toasted](https://yadin.com/notes/toasted/)**
+  *<p>Article URL: <a href="https://yadin.com/notes/toasted/">https://yadin.com/notes/toasted/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=47971830">https://news.ycombinator.co...*
+  📅 Fri, 01 May 2026 06:34:54 +0000
+
+- **[Apple Says Mac Studio and Mac Mini Will Be in Short Supply for Months](https://www.macrumors.com/2026/04/30/mac-studio-mac-mini-constrained-months/)**
+  *<p>Article URL: <a href="https://www.macrumors.com/2026/04/30/mac-studio-mac-mini-constrained-months/">https://www.macrumors.com/2026/04/30/mac-studio-mac-mini-constrained-months/</a></p>
+<p>Comments ...*
+  📅 Fri, 01 May 2026 06:20:33 +0000
+
+- **[Show HN: Winpodx – run Windows apps on Linux as native windows](https://github.com/kernalix7/winpodx)**
+  *<p>Article URL: <a href="https://github.com/kernalix7/winpodx">https://github.com/kernalix7/winpodx</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=47970690">https://news.ycombi...*
+  📅 Fri, 01 May 2026 02:23:43 +0000
+
+- **[OpenWarp](https://openwarp.zerx.dev)**
+  *<p>Article URL: <a href="https://openwarp.zerx.dev">https://openwarp.zerx.dev</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=47970622">https://news.ycombinator.com/item?id=4797...*
+  📅 Fri, 01 May 2026 02:10:46 +0000
 
 - **[ClawIRC – IRC Chat for Agents](https://clawirc.com/)**
   *<p>Article URL: <a href="https://clawirc.com/">https://clawirc.com/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=47970089">https://news.ycombinator.com/item?id=47970089</a></...*
   📅 Fri, 01 May 2026 00:29:57 +0000
 
-- **[$500M for Virtual Biology Initiative, Funded by Zuckerbergs](https://biohub.org/news/virtual-biology-initiative/)**
-  *<p>Article URL: <a href="https://biohub.org/news/virtual-biology-initiative/">https://biohub.org/news/virtual-biology-initiative/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id...*
-  📅 Fri, 01 May 2026 00:20:44 +0000
-
-- **[The Internet Is Falling Down- CPanel/WHM Authentication Bypass CVE-2026-41940](https://labs.watchtowr.com/the-internet-is-falling-down-falling-down-falling-down-cpanel-whm-authentication-bypass-cve-2026-41940/)**
+- **[CPanel and WHM Authentication Bypass – CVE-2026-41940](https://labs.watchtowr.com/the-internet-is-falling-down-falling-down-falling-down-cpanel-whm-authentication-bypass-cve-2026-41940/)**
   *<p>Article URL: <a href="https://labs.watchtowr.com/the-internet-is-falling-down-falling-down-falling-down-cpanel-whm-authentication-bypass-cve-2026-41940/">https://labs.watchtowr.com/the-internet-is-...*
   📅 Thu, 30 Apr 2026 22:48:51 +0000
-
-- **[Snowball Earth may hide a far stranger climate cycle than anyone expected](https://sciencex.com/news/2026-04-snowball-earth-stranger-climate.html)**
-  *<p>Article URL: <a href="https://sciencex.com/news/2026-04-snowball-earth-stranger-climate.html">https://sciencex.com/news/2026-04-snowball-earth-stranger-climate.html</a></p>
-<p>Comments URL: <a href...*
-  📅 Thu, 30 Apr 2026 22:18:57 +0000
-
-- **[Show HN: Pu.sh – a full coding-agent harness in 400 lines of shell](https://pu.dev/)**
-  *<p>I originally was just messing with pi-autoresearch. Gave it a sample task to build the most portable coding agent.<p>First cut was 6 KB of shell. Great for one-shots, unusable interactively. I was ...*
-  📅 Thu, 30 Apr 2026 20:55:12 +0000
 
 ### 📑 TechCrunch
 
@@ -102,22 +103,25 @@
 
 ### 📑 Dev.to
 
-- **[How Zod's .refine() Can Cause a Denial of Service — And How to Fix It](https://dev.to/rushiii3/how-zods-refine-can-cause-a-denial-of-service-and-how-to-fix-it-25hg)**
+- **[Membedah Arsitektur Pengiriman Media Telegram: Membangun Engine Ekstraksi Berkinerja Tinggi dengan MTProto dan Async I/O](https://dev.to/yqqwe/membedah-arsitektur-pengiriman-media-telegram-membangun-engine-ekstraksi-berkinerja-tinggi-dengan-42m0)**
   *<h2>
   
   
-  TL;DR
+  Pendahuluan
 </h2>
 
-<p>Zod's <code>.refine()</code> executes on every input — <strong>even when earlier validators like <code>.min()</code> and <code>.max()</code> have already failed.</strong> ...*
-  📅 Fri, 01 May 2026 01:39:42 +0000
+<p>Sebagai pengembang, kita sering terpukau oleh bagaimana platform berskala global mengelola dan mendistribusikan data multimedia dalam jumlah masif. Telegram bukan se...*
+  📅 Fri, 01 May 2026 07:40:19 +0000
 
-- **[Prompt Injection Was Stateless. Memory Poisoning Is Persistence](https://dev.to/maninderpreet_singh/prompt-injection-was-stateless-memory-poisoning-is-persistence-57k2)**
-  *<p>For the last two years, AI security discussions have mostly been about <strong>stateless compromise</strong>.</p>
+- **[Desconstruyendo la Extracción de Media en Telegram: Construyendo un Motor de Descarga de Alto Rendimiento con MTProto y Async I/O](https://dev.to/yqqwe/desconstruyendo-la-extraccion-de-media-en-telegram-construyendo-un-motor-de-descarga-de-alto-3p3n)**
+  *<h2>
+  
+  
+  Introducción
+</h2>
 
-<p>Can you jailbreak the model in one session?<br />
-Can you inject hostile instru...*
-  📅 Fri, 01 May 2026 01:37:57 +0000
+<p>Como desarrolladores, a menudo nos fascina cómo las plataformas a escala global gestionan y distribuyen volúmenes masivos de datos multimedia. Telegram no es solo u...*
+  📅 Fri, 01 May 2026 07:40:07 +0000
 
 </details>
 
@@ -125,103 +129,103 @@ Can you inject hostile instru...*
 
 ### 📈 Daily Trending
 
-- **[andrebaltieri/live-maf-2026-04-30](https://github.com/andrebaltieri/live-maf-2026-04-30)** ⭐ 14
-  ![C#](https://img.shields.io/badge/-C#-lightgrey)
-  None
+- **[TQ-trade/defidollar-core](https://github.com/TQ-trade/defidollar-core)** ⭐ 30
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
+  Smart contracts for the DefiDollar ($DUSD) stablecoin.
 
-- **[badlogic/gpt-2-ts](https://github.com/badlogic/gpt-2-ts)** ⭐ 3
-  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
-  None
-
-- **[rakratz/FrontEnd20261](https://github.com/rakratz/FrontEnd20261)** ⭐ 3
+- **[TQ-trade/rari-stable-pool-contracts](https://github.com/TQ-trade/rari-stable-pool-contracts)** ⭐ 30
   ![HTML](https://img.shields.io/badge/-HTML-lightgrey)
-  Turma de FrontEnd 1 do IPOG 2026 do Professor Me. Ricardo de Andrade Krtaz
+  Smart contracts for the Rari Stable Pool.
 
-- **[xiaou61/thesis-skills](https://github.com/xiaou61/thesis-skills)** ⭐ 2
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  论文skills 接单2年总结出来的论文写作经验skills  标准化流程 包含生图，规划，降低AIGC等
-
-- **[vinilana/anyharness](https://github.com/vinilana/anyharness)** ⭐ 2
-  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
+- **[watany-dev/gitreal](https://github.com/watany-dev/gitreal)** ⭐ 22
+  ![Go](https://img.shields.io/badge/-Go-cyan)
   None
 
-- **[ThiagoCanatoAzevedo/multi-agents-study](https://github.com/ThiagoCanatoAzevedo/multi-agents-study)** ⭐ 1
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  None
-
-- **[Lizandro562/estructura-de-datos-y-algoritmos](https://github.com/Lizandro562/estructura-de-datos-y-algoritmos)** ⭐ 1
+- **[josephyrs030301/SignalRGB-Unify-Control-Your-RGB-Peripherals-Free-2026](https://github.com/josephyrs030301/SignalRGB-Unify-Control-Your-RGB-Peripherals-Free-2026)** ⭐ 19
   ![None](https://img.shields.io/badge/-None-lightgrey)
+  SignalRGB: Unify & Control Your RGB Peripherals – Free 2026
+
+- **[josephyrs030301/DriverBoost-Pro-2026-Complete-Driver-Updater-for-Windows](https://github.com/josephyrs030301/DriverBoost-Pro-2026-Complete-Driver-Updater-for-Windows)** ⭐ 19
+  ![None](https://img.shields.io/badge/-None-lightgrey)
+  DriverBoost Pro 2026 – Complete Driver Updater for Windows
+
+- **[vapayev1/project1](https://github.com/vapayev1/project1)** ⭐ 18
+  ![HTML](https://img.shields.io/badge/-HTML-lightgrey)
   None
 
-- **[DragoNhov/Zamora-cgp_basicshapes-](https://github.com/DragoNhov/Zamora-cgp_basicshapes-)** ⭐ 1
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  Basic Shapes
+- **[vapayev1/Neon-Defender](https://github.com/vapayev1/Neon-Defender)** ⭐ 18
+  ![HTML](https://img.shields.io/badge/-HTML-lightgrey)
+  None
+
+- **[vapayev1/sonnitop](https://github.com/vapayev1/sonnitop)** ⭐ 18
+  ![HTML](https://img.shields.io/badge/-HTML-lightgrey)
+  None
 
 ### 📈 Weekly Trending
 
-- **[nexu-io/open-design](https://github.com/nexu-io/open-design)** ⭐ 8,422
+- **[nexu-io/open-design](https://github.com/nexu-io/open-design)** ⭐ 9,214
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   🎨 Local-first, open-source alternative to Anthropic's Claude Design. ⚡ 19 Skills · ✨ 71 brand-grade Design Systems · 🖼️ sandboxed preview · 📦 HTML/PDF/PPTX export. 🤖 Runs on Claude Code / Codex / Cursor / Gemini CLI / OpenCode / Qwen / Copilot / Hermes / Kimi CLI.
 
-- **[cursor/cookbook](https://github.com/cursor/cookbook)** ⭐ 2,641
+- **[cursor/cookbook](https://github.com/cursor/cookbook)** ⭐ 2,738
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   None
 
-- **[freestylefly/awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2)** ⭐ 2,575
+- **[freestylefly/awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2)** ⭐ 2,709
   ![None](https://img.shields.io/badge/-None-lightgrey)
   Prompt as Code | GPT-Image2 工业级提示词引擎与模板库 - 329个案例逆向工程，13套工业级模板，且不断更新中。
 
-- **[theori-io/copy-fail-CVE-2026-31431](https://github.com/theori-io/copy-fail-CVE-2026-31431)** ⭐ 1,710
+- **[theori-io/copy-fail-CVE-2026-31431](https://github.com/theori-io/copy-fail-CVE-2026-31431)** ⭐ 1,831
   ![Python](https://img.shields.io/badge/-Python-blue)
   None
 
-- **[willchen96/mike](https://github.com/willchen96/mike)** ⭐ 789
+- **[willchen96/mike](https://github.com/willchen96/mike)** ⭐ 847
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   OSS AI Legal Platform
 
-- **[DanOps-1/Gpt-Agreement-Payment](https://github.com/DanOps-1/Gpt-Agreement-Payment)** ⭐ 782
+- **[DanOps-1/Gpt-Agreement-Payment](https://github.com/DanOps-1/Gpt-Agreement-Payment)** ⭐ 830
   ![Python](https://img.shields.io/badge/-Python-blue)
   ChatGPT Plus/Team/Pro 订阅协议端到端重放工具集 · hCaptcha 视觉求解器 · 反欺诈机制实证研究 / End-to-end protocol replay toolkit for ChatGPT Plus/Team/Pro subscription with from-scratch hCaptcha solver and empirical anti-fraud research
 
-- **[GENEXIS-AI/chromex](https://github.com/GENEXIS-AI/chromex)** ⭐ 687
+- **[GENEXIS-AI/chromex](https://github.com/GENEXIS-AI/chromex)** ⭐ 708
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   A Codex-powered Chrome side-panel assistant for page context, tabs, voice, and image workflows.
 
-- **[b-nnett/codex-plusplus](https://github.com/b-nnett/codex-plusplus)** ⭐ 537
-  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
-  Codex++ tweak system for the Codex desktop app
+- **[denuitt1/mhr-cfw](https://github.com/denuitt1/mhr-cfw)** ⭐ 678
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  A Domain-Fronting Relay that routes traffic though GAS (Google Apps Script) and forwards it to Cloudflare Workers. Designed to bypass DPI.
 
 ### 📈 Monthly Trending
 
-- **[JuliusBrussee/caveman](https://github.com/JuliusBrussee/caveman)** ⭐ 51,414
+- **[JuliusBrussee/caveman](https://github.com/JuliusBrussee/caveman)** ⭐ 51,553
   ![Python](https://img.shields.io/badge/-Python-blue)
   🪨 why use many token when few token do trick — Claude Code skill that cuts 65% of tokens by talking like caveman
 
-- **[MemPalace/mempalace](https://github.com/MemPalace/mempalace)** ⭐ 50,551
+- **[MemPalace/mempalace](https://github.com/MemPalace/mempalace)** ⭐ 50,578
   ![Python](https://img.shields.io/badge/-Python-blue)
   The best-benchmarked open-source AI memory system. And it's free.
 
-- **[santifer/career-ops](https://github.com/santifer/career-ops)** ⭐ 41,309
+- **[santifer/career-ops](https://github.com/santifer/career-ops)** ⭐ 41,396
   ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
   AI-powered job search system built on Claude Code. 14 skill modes, Go dashboard, PDF generation, batch processing.
 
-- **[safishamsi/graphify](https://github.com/safishamsi/graphify)** ⭐ 39,065
+- **[safishamsi/graphify](https://github.com/safishamsi/graphify)** ⭐ 39,235
   ![Python](https://img.shields.io/badge/-Python-blue)
   AI coding assistant skill (Claude Code, Codex, OpenCode, Cursor, Gemini CLI, GitHub Copilot CLI, OpenClaw, Factory Droid, Trae, Google Antigravity). Turn any folder of code, docs, papers, images, or videos into a queryable knowledge graph
 
-- **[alchaincyf/nuwa-skill](https://github.com/alchaincyf/nuwa-skill)** ⭐ 16,566
+- **[alchaincyf/nuwa-skill](https://github.com/alchaincyf/nuwa-skill)** ⭐ 16,614
   ![Python](https://img.shields.io/badge/-Python-blue)
   你想蒸馏的下一个员工，何必是同事。蒸馏任何人的思维方式——心智模型、决策启发式、表达DNA。Distill how anyone thinks.
 
-- **[garrytan/gbrain](https://github.com/garrytan/gbrain)** ⭐ 12,503
+- **[garrytan/gbrain](https://github.com/garrytan/gbrain)** ⭐ 12,527
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   Garry's Opinionated OpenClaw/Hermes Agent Brain
 
-- **[kyegomez/OpenMythos](https://github.com/kyegomez/OpenMythos)** ⭐ 11,261
+- **[kyegomez/OpenMythos](https://github.com/kyegomez/OpenMythos)** ⭐ 11,295
   ![Python](https://img.shields.io/badge/-Python-blue)
   A theoretical reconstruction of the Claude Mythos architecture, built from first principles using the available research literature.
 
-- **[EvoLinkAI/awesome-gpt-image-2-prompts](https://github.com/EvoLinkAI/awesome-gpt-image-2-prompts)** ⭐ 10,830
+- **[EvoLinkAI/awesome-gpt-image-2-prompts](https://github.com/EvoLinkAI/awesome-gpt-image-2-prompts)** ⭐ 10,934
   ![Python](https://img.shields.io/badge/-Python-blue)
   Curated GPT-Image-2 prompts fot the Openai API：image examples across portraits, posters, UI mockups, character sheets, and community experiments.
 
@@ -498,10 +502,10 @@ consolidated into a single option `MockModuleOpti...
 
 | Skill | Status |
 |-------|--------|
-| Java | 🟡 Learning |
+| Java | 🟢 Proficient |
 | Python | 🟡 Learning |
-| JavaScript | 🟢 Proficient |
-| TypeScript | 🟢 Proficient |
+| JavaScript | 🟡 Learning |
+| TypeScript | ⚪ Planned |
 | Go | 🟢 Proficient |
 
 ### Frameworks
@@ -509,37 +513,37 @@ consolidated into a single option `MockModuleOpti...
 | Skill | Status |
 |-------|--------|
 | React | 🟡 Learning |
-| Spring Boot | ⚪ Planned |
-| Django | 🔴 Beginner |
-| Node.js | 🟢 Proficient |
-| Next.js | 🟡 Learning |
+| Spring Boot | 🟡 Learning |
+| Django | ⚪ Planned |
+| Node.js | 🟡 Learning |
+| Next.js | ⚪ Planned |
 
 ### Cybersecurity
 
 | Skill | Status |
 |-------|--------|
-| Penetration Testing | ⚪ Planned |
+| Penetration Testing | 🔴 Beginner |
 | Web Security | 🟢 Proficient |
-| Network Security | 🟢 Proficient |
+| Network Security | 🔴 Beginner |
 | OWASP | 🔴 Beginner |
 
 ### Ai Ml
 
 | Skill | Status |
 |-------|--------|
-| Machine Learning | 🟡 Learning |
-| Deep Learning | 🔴 Beginner |
-| NLP | ⚪ Planned |
-| Computer Vision | ⚪ Planned |
+| Machine Learning | 🔴 Beginner |
+| Deep Learning | 🟢 Proficient |
+| NLP | 🟡 Learning |
+| Computer Vision | 🟢 Proficient |
 | TensorFlow | 🟢 Proficient |
-| PyTorch | 🔴 Beginner |
+| PyTorch | 🟡 Learning |
 
 ### Devops
 
 | Skill | Status |
 |-------|--------|
-| Docker | 🔴 Beginner |
-| Kubernetes | 🟡 Learning |
+| Docker | 🟡 Learning |
+| Kubernetes | 🟢 Proficient |
 | CI/CD | 🔴 Beginner |
 | AWS | ⚪ Planned |
 | Azure | 🟡 Learning |
