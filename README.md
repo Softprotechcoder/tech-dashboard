@@ -46,33 +46,32 @@
 
 ### 📑 Hacker News
 
-- **[Spirit Airlines Is Winding Down All Operations](https://www.spiritrestructuring.com/)**
-  *<p>Article URL: <a href="https://www.spiritrestructuring.com/">https://www.spiritrestructuring.com/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=47983873">https://news.ycombi...*
-  📅 Sat, 02 May 2026 06:28:00 +0000
+- **[The Century-Long Pause in Fundamental Physics](https://danieltan.weblog.lol/2026/05/the-century-long-pause-in-fundamental-physics)**
+  *<p>Article URL: <a href="https://danieltan.weblog.lol/2026/05/the-century-long-pause-in-fundamental-physics">https://danieltan.weblog.lol/2026/05/the-century-long-pause-in-fundamental-physics</a></p>
+...*
+  📅 Sat, 02 May 2026 12:13:11 +0000
 
-- **[Show HN: Stop playing my matchstick puzzles, start building your own in seconds](https://mathstick.github.io)**
-  *<p>Article URL: <a href="https://mathstick.github.io">https://mathstick.github.io</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=47983485">https://news.ycombinator.com/item?id=...*
-  📅 Sat, 02 May 2026 05:04:39 +0000
+- **[GameStop Preparing Offer for eBay](https://www.wsj.com/business/deals/gamestop-preparing-offer-for-ebay-1678e6de)**
+  *<p>Article URL: <a href="https://www.wsj.com/business/deals/gamestop-preparing-offer-for-ebay-1678e6de">https://www.wsj.com/business/deals/gamestop-preparing-offer-for-ebay-1678e6de</a></p>
+<p>Comment...*
+  📅 Sat, 02 May 2026 10:55:25 +0000
 
-- **[CollectWise (YC F24) Is Hiring](https://www.ycombinator.com/companies/collectwise/jobs/rEWfZ6R-senior-forward-deployed-engineer)**
-  *<p>Article URL: <a href="https://www.ycombinator.com/companies/collectwise/jobs/rEWfZ6R-senior-forward-deployed-engineer">https://www.ycombinator.com/companies/collectwise/jobs/rEWfZ6R-senior-forward-...*
-  📅 Sat, 02 May 2026 04:43:20 +0000
+- **[Show HN: Piruetas – A self-hosted diary app I built for my girlfriend](https://piruet.app)**
+  *<p>I searched for a simple, self-hosted journal app for my girlfriend and everything I found was either too
+complex, too feature-heavy, too feature-less for what I needed or required trusting a cloud ...*
+  📅 Sat, 02 May 2026 10:42:55 +0000
 
-- **[Why does it take so long to release black fan versions?](https://www.noctua.at/en/expertise/blog/how-can-it-take-so-long-to-release-black-fan-versions)**
-  *<p>Article URL: <a href="https://www.noctua.at/en/expertise/blog/how-can-it-take-so-long-to-release-black-fan-versions">https://www.noctua.at/en/expertise/blog/how-can-it-take-so-long-to-release-black...*
-  📅 Sat, 02 May 2026 04:38:04 +0000
+- **[Show HN: Mljar Studio – local AI data analyst that saves analysis as notebooks](https://mljar.com/)**
+  *<p>Hi HN,<p>I’ve been working on mljar-supervised (open-source AutoML for tabular data) for a few years. Recently I built a desktop app around it called MLJAR Studio.<p>The idea is simple: you talk to...*
+  📅 Sat, 02 May 2026 10:21:31 +0000
 
-- **[Ask.com has closed](https://www.ask.com/)**
-  *<p>Article URL: <a href="https://www.ask.com/">https://www.ask.com/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=47983226">https://news.ycombinator.com/item?id=47983226</a></...*
-  📅 Sat, 02 May 2026 04:12:35 +0000
+- **[How fast is a macOS VM, and how small could it be?](https://eclecticlight.co/2026/05/02/how-fast-is-a-macos-vm-and-how-small-could-it-be/)**
+  *<p>Article URL: <a href="https://eclecticlight.co/2026/05/02/how-fast-is-a-macos-vm-and-how-small-could-it-be/">https://eclecticlight.co/2026/05/02/how-fast-is-a-macos-vm-and-how-small-could-it-be/</a...*
+  📅 Sat, 02 May 2026 09:30:49 +0000
 
-- **[K3k: Kubernetes in Kubernetes](https://github.com/rancher/k3k)**
-  *<p>Article URL: <a href="https://github.com/rancher/k3k">https://github.com/rancher/k3k</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=47983176">https://news.ycombinator.com/it...*
-  📅 Sat, 02 May 2026 04:00:42 +0000
+- **[Show HN: Browser-based light pollution simulator using real photometric data](https://iesna.eu/?wasm=skyglow_demo)**
+  *<p>Hi HN — author here. iesna.eu is a browser-based ecosystem for working with photometric data: parsing standard luminaire files (LDT/EULUMDAT, IES LM-63, Oxytech, ATLA-S001), running design calculat...*
+  📅 Sat, 02 May 2026 09:08:18 +0000
 
 ### 📑 TechCrunch
 
@@ -102,19 +101,25 @@
 
 ### 📑 Dev.to
 
-- **[Why Deno 2.0’s npm compatibility made us drop Node.js 22 for our CLI tools](https://dev.to/johalputt/why-deno-20s-npm-compatibility-made-us-drop-nodejs-22-for-our-cli-tools-5bhb)**
+- **[The gay jailbreak: I ran the viral technique against my own production prompts and here's what I found](https://dev.to/jtorchia/the-gay-jailbreak-i-ran-the-viral-technique-against-my-own-production-prompts-and-heres-what-i-4017)**
   *<h1>
   
   
-  Why Deno 2.0’s npm Compatibility Made Us Drop Node.js 22 for Our CLI Tools
+  The gay jailbreak: I ran the viral technique against my own production prompts and here's what I found
 </h1>
 
-<p>For 18 months, our team built internal and customer-facing CLI tools exclusively on Node.js 22. We lea...*
-  📅 Sat, 02 May 2026 07:11:57 +0000
+<p>524 points on Hacker News. The thread blows up. The jailbreak technique ev...*
+  📅 Sat, 02 May 2026 12:31:22 +0000
 
-- **[The Browser That Brought Its Own AI](https://dev.to/vivian-voss/the-browser-that-brought-its-own-ai-30fd)**
-  *<p><a class="article-body-image-wrapper" href="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fupl...*
-  📅 Sat, 02 May 2026 07:05:51 +0000
+- **[The gay jailbreak: probé la técnica viral sobre mis propios prompts de producción y esto encontré](https://dev.to/jtorchia/the-gay-jailbreak-probe-la-tecnica-viral-sobre-mis-propios-prompts-de-produccion-y-esto-encontre-42h7)**
+  *<h1>
+  
+  
+  The gay jailbreak: probé la técnica viral sobre mis propios prompts de producción y esto encontré
+</h1>
+
+<p>524 puntos en Hacker News. El thread explota. La técnica de jailbreak que todos...*
+  📅 Sat, 02 May 2026 12:31:17 +0000
 
 </details>
 
@@ -122,103 +127,103 @@
 
 ### 📈 Daily Trending
 
-- **[CloakdDev/solana-go](https://github.com/CloakdDev/solana-go)** ⭐ 36
+- **[vibeforge1111/keep-codex-fast](https://github.com/vibeforge1111/keep-codex-fast)** ⭐ 55
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  A backup-first Codex skill for keeping local Codex state fast, clean, and recoverable.
+
+- **[CloakdDev/solana-go](https://github.com/CloakdDev/solana-go)** ⭐ 52
   ![Go](https://img.shields.io/badge/-Go-cyan)
   None
 
-- **[CloakdDev/sol_buddy](https://github.com/CloakdDev/sol_buddy)** ⭐ 31
+- **[Teaonly/SKILL.make](https://github.com/Teaonly/SKILL.make)** ⭐ 42
+  ![Shell](https://img.shields.io/badge/-Shell-lightgrey)
+  Specification and Tools for Makefile-formatted Agent Skills.
+
+- **[CloakdDev/sol_buddy](https://github.com/CloakdDev/sol_buddy)** ⭐ 32
   ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
   None
 
-- **[CloakdDev/raydium-frontend](https://github.com/CloakdDev/raydium-frontend)** ⭐ 19
+- **[CloakdDev/raydium-frontend](https://github.com/CloakdDev/raydium-frontend)** ⭐ 23
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   None
 
-- **[copula08-del/gas-private-relay](https://github.com/copula08-del/gas-private-relay)** ⭐ 6
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  A domain-fronted local proxy that uses **Google Apps Script (GAS)** as the public relay layer and a **private server backend** as the final egress.
-
-- **[mrdrvt99/YouProEXTRA](https://github.com/mrdrvt99/YouProEXTRA)** ⭐ 6
-  ![None](https://img.shields.io/badge/-None-lightgrey)
-  YouPro and YTLite IPA build
-
-- **[VirtualHotBar/PECMD-Pro-Max](https://github.com/VirtualHotBar/PECMD-Pro-Max)** ⭐ 4
-  ![None](https://img.shields.io/badge/-None-lightgrey)
-  PECMD Expert Skill for AI Agent
-
-- **[ardi-work/wa-summary](https://github.com/ardi-work/wa-summary)** ⭐ 4
+- **[Aestheticsuraj234/chaicode-mobiledev-2026](https://github.com/Aestheticsuraj234/chaicode-mobiledev-2026)** ⭐ 15
   ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
-  chrome extension for whatsapp summary
+  None
 
-- **[ineqien0302-a11y/share-truyen](https://github.com/ineqien0302-a11y/share-truyen)** ⭐ 4
-  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
-  share free để cùng nhau học hỏi ( không thương mại dưới bất cứ hình thức nào )
+- **[jfinal/aifei](https://github.com/jfinal/aifei)** ⭐ 14
+  ![Java](https://img.shields.io/badge/-Java-orange)
+  Aifei is the world's first AI coding framework
+
+- **[mrdrvt99/YouProEXTRA](https://github.com/mrdrvt99/YouProEXTRA)** ⭐ 12
+  ![None](https://img.shields.io/badge/-None-lightgrey)
+  YouPro/YTLite/YTKillerPlus IPA build
 
 ### 📈 Weekly Trending
 
-- **[nexu-io/open-design](https://github.com/nexu-io/open-design)** ⭐ 12,826
+- **[nexu-io/open-design](https://github.com/nexu-io/open-design)** ⭐ 13,816
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   🎨 Local-first, open-source alternative to Anthropic's Claude Design. ⚡ 19 Skills · ✨ 71 brand-grade Design Systems 🖼 Generate web · desktop · mobile prototypes · slides · images · videos · HyperFrames 📦 Sandboxed preview · HTML/PDF/PPTX/MP4 export 🤖 Runs on Claude Code / Codex / Cursor / Gemini / OpenCode / Qwen / Copilot / Hermes / Kimi CLI.
 
-- **[cursor/cookbook](https://github.com/cursor/cookbook)** ⭐ 3,003
+- **[cursor/cookbook](https://github.com/cursor/cookbook)** ⭐ 3,054
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   None
 
-- **[theori-io/copy-fail-CVE-2026-31431](https://github.com/theori-io/copy-fail-CVE-2026-31431)** ⭐ 2,636
+- **[theori-io/copy-fail-CVE-2026-31431](https://github.com/theori-io/copy-fail-CVE-2026-31431)** ⭐ 2,808
   ![Python](https://img.shields.io/badge/-Python-blue)
   None
 
-- **[denuitt1/mhr-cfw](https://github.com/denuitt1/mhr-cfw)** ⭐ 1,386
+- **[denuitt1/mhr-cfw](https://github.com/denuitt1/mhr-cfw)** ⭐ 1,510
   ![Python](https://img.shields.io/badge/-Python-blue)
   A Domain-Fronting Relay that routes traffic though GAS (Google Apps Script) and forwards it to Cloudflare Workers. Designed to bypass DPI.
 
-- **[willchen96/mike](https://github.com/willchen96/mike)** ⭐ 1,163
+- **[willchen96/mike](https://github.com/willchen96/mike)** ⭐ 1,242
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   OSS AI Legal Platform
 
-- **[darrylmorley/whatcable](https://github.com/darrylmorley/whatcable)** ⭐ 931
+- **[darrylmorley/whatcable](https://github.com/darrylmorley/whatcable)** ⭐ 1,092
   ![Swift](https://img.shields.io/badge/-Swift-lightgrey)
   macOS menu bar app that tells you, in plain English, what each USB-C cable plugged into your Mac can actually do
 
-- **[DanOps-1/Gpt-Agreement-Payment](https://github.com/DanOps-1/Gpt-Agreement-Payment)** ⭐ 889
+- **[DanOps-1/Gpt-Agreement-Payment](https://github.com/DanOps-1/Gpt-Agreement-Payment)** ⭐ 897
   ![Python](https://img.shields.io/badge/-Python-blue)
   ChatGPT Plus/Team/Pro 订阅协议端到端重放工具集 · hCaptcha 视觉求解器 · 反欺诈机制实证研究 / End-to-end protocol replay toolkit for ChatGPT Plus/Team/Pro subscription with from-scratch hCaptcha solver and empirical anti-fraud research
 
-- **[b-nnett/codex-plusplus](https://github.com/b-nnett/codex-plusplus)** ⭐ 788
+- **[b-nnett/codex-plusplus](https://github.com/b-nnett/codex-plusplus)** ⭐ 809
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   Codex++ tweak system for the Codex desktop app
 
 ### 📈 Monthly Trending
 
-- **[JuliusBrussee/caveman](https://github.com/JuliusBrussee/caveman)** ⭐ 52,137
+- **[JuliusBrussee/caveman](https://github.com/JuliusBrussee/caveman)** ⭐ 52,270
   ![Python](https://img.shields.io/badge/-Python-blue)
   🪨 why use many token when few token do trick — Claude Code skill that cuts 65% of tokens by talking like caveman
 
-- **[MemPalace/mempalace](https://github.com/MemPalace/mempalace)** ⭐ 50,698
+- **[MemPalace/mempalace](https://github.com/MemPalace/mempalace)** ⭐ 50,733
   ![Python](https://img.shields.io/badge/-Python-blue)
   The best-benchmarked open-source AI memory system. And it's free.
 
-- **[santifer/career-ops](https://github.com/santifer/career-ops)** ⭐ 41,670
+- **[santifer/career-ops](https://github.com/santifer/career-ops)** ⭐ 41,716
   ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
   AI-powered job search system built on Claude Code. 14 skill modes, Go dashboard, PDF generation, batch processing.
 
-- **[safishamsi/graphify](https://github.com/safishamsi/graphify)** ⭐ 40,107
+- **[safishamsi/graphify](https://github.com/safishamsi/graphify)** ⭐ 40,322
   ![Python](https://img.shields.io/badge/-Python-blue)
   AI coding assistant skill (Claude Code, Codex, OpenCode, Cursor, Gemini CLI, and more). Turn any folder of code, SQL schemas, R scripts, shell scripts, docs, papers, images, or videos into a queryable knowledge graph. App code + database schema + infrastructure in one graph.
 
-- **[alchaincyf/nuwa-skill](https://github.com/alchaincyf/nuwa-skill)** ⭐ 16,759
+- **[alchaincyf/nuwa-skill](https://github.com/alchaincyf/nuwa-skill)** ⭐ 16,818
   ![Python](https://img.shields.io/badge/-Python-blue)
   你想蒸馏的下一个员工，何必是同事。蒸馏任何人的思维方式——心智模型、决策启发式、表达DNA。Distill how anyone thinks.
 
-- **[nexu-io/open-design](https://github.com/nexu-io/open-design)** ⭐ 12,826
+- **[nexu-io/open-design](https://github.com/nexu-io/open-design)** ⭐ 13,816
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   🎨 Local-first, open-source alternative to Anthropic's Claude Design. ⚡ 19 Skills · ✨ 71 brand-grade Design Systems 🖼 Generate web · desktop · mobile prototypes · slides · images · videos · HyperFrames 📦 Sandboxed preview · HTML/PDF/PPTX/MP4 export 🤖 Runs on Claude Code / Codex / Cursor / Gemini / OpenCode / Qwen / Copilot / Hermes / Kimi CLI.
 
-- **[garrytan/gbrain](https://github.com/garrytan/gbrain)** ⭐ 12,671
+- **[garrytan/gbrain](https://github.com/garrytan/gbrain)** ⭐ 12,699
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   Garry's Opinionated OpenClaw/Hermes Agent Brain
 
-- **[kyegomez/OpenMythos](https://github.com/kyegomez/OpenMythos)** ⭐ 11,373
+- **[kyegomez/OpenMythos](https://github.com/kyegomez/OpenMythos)** ⭐ 11,405
   ![Python](https://img.shields.io/badge/-Python-blue)
   A theoretical reconstruction of the Claude Mythos architecture, built from first principles using the available research literature.
 
@@ -496,18 +501,18 @@ consolidated into a single option `MockModuleOpti...
 | Skill | Status |
 |-------|--------|
 | Java | 🔴 Beginner |
-| Python | 🟡 Learning |
+| Python | 🔴 Beginner |
 | JavaScript | 🟡 Learning |
-| TypeScript | 🟢 Proficient |
-| Go | ⚪ Planned |
+| TypeScript | 🔴 Beginner |
+| Go | 🟡 Learning |
 
 ### Frameworks
 
 | Skill | Status |
 |-------|--------|
-| React | 🟡 Learning |
+| React | ⚪ Planned |
 | Spring Boot | 🟡 Learning |
-| Django | 🔴 Beginner |
+| Django | 🟡 Learning |
 | Node.js | 🟡 Learning |
 | Next.js | ⚪ Planned |
 
@@ -515,9 +520,9 @@ consolidated into a single option `MockModuleOpti...
 
 | Skill | Status |
 |-------|--------|
-| Penetration Testing | 🔴 Beginner |
-| Web Security | 🟢 Proficient |
-| Network Security | 🔴 Beginner |
+| Penetration Testing | 🟡 Learning |
+| Web Security | 🔴 Beginner |
+| Network Security | ⚪ Planned |
 | OWASP | 🟢 Proficient |
 
 ### Ai Ml
@@ -525,9 +530,9 @@ consolidated into a single option `MockModuleOpti...
 | Skill | Status |
 |-------|--------|
 | Machine Learning | 🔴 Beginner |
-| Deep Learning | 🟡 Learning |
-| NLP | 🟡 Learning |
-| Computer Vision | 🟢 Proficient |
+| Deep Learning | ⚪ Planned |
+| NLP | ⚪ Planned |
+| Computer Vision | 🔴 Beginner |
 | TensorFlow | 🟢 Proficient |
 | PyTorch | 🟡 Learning |
 
@@ -535,19 +540,19 @@ consolidated into a single option `MockModuleOpti...
 
 | Skill | Status |
 |-------|--------|
-| Docker | 🟢 Proficient |
+| Docker | ⚪ Planned |
 | Kubernetes | 🟢 Proficient |
-| CI/CD | 🔴 Beginner |
+| CI/CD | ⚪ Planned |
 | AWS | ⚪ Planned |
-| Azure | 🟡 Learning |
+| Azure | ⚪ Planned |
 
 ### Other
 
 | Skill | Status |
 |-------|--------|
 | Blockchain | 🟢 Proficient |
-| Web3 | 🔴 Beginner |
-| Cloud Computing | ⚪ Planned |
+| Web3 | 🟡 Learning |
+| Cloud Computing | 🟢 Proficient |
 
 </details>
 
