@@ -46,37 +46,47 @@
 
 ### 📑 Hacker News
 
-- **[Systemd-manager-TUI: A TUI application for managing systemd services](https://github.com/Matheus-git/systemd-manager-tui)**
-  *<p>Article URL: <a href="https://github.com/Matheus-git/systemd-manager-tui">https://github.com/Matheus-git/systemd-manager-tui</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=4...*
-  📅 Sun, 03 May 2026 10:55:30 +0000
+- **[BYOMesh – New LoRa mesh radio offers 100x the bandwidth](https://partyon.xyz/@nullagent/116499715071759135)**
+  *<p>Article URL: <a href="https://partyon.xyz/@nullagent/116499715071759135">https://partyon.xyz/@nullagent/116499715071759135</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=479...*
+  📅 Sun, 03 May 2026 18:03:14 +0000
 
-- **[Investors pile into clean energy as Iran war drives push for energy security](https://www.ft.com/content/9921f2b5-c910-4cec-a50f-cad453935a1a)**
-  *<p>Article URL: <a href="https://www.ft.com/content/9921f2b5-c910-4cec-a50f-cad453935a1a">https://www.ft.com/content/9921f2b5-c910-4cec-a50f-cad453935a1a</a></p>
-<p>Comments URL: <a href="https://news...*
-  📅 Sun, 03 May 2026 09:26:48 +0000
+- **[I Recreated the Apple Lisa Computer Inside an FPGA – The LisaFPGA Project](https://www.youtube.com/watch?v=8jNQDcpHc68)**
+  *<p>Article URL: <a href="https://www.youtube.com/watch?v=8jNQDcpHc68">https://www.youtube.com/watch?v=8jNQDcpHc68</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=47999460">https...*
+  📅 Sun, 03 May 2026 17:45:47 +0000
 
-- **[Show HN: Apple's Sharp Running in the Browser via ONNX Runtime Web](https://github.com/bring-shrubbery/ml-sharp-web)**
-  *<p>Article URL: <a href="https://github.com/bring-shrubbery/ml-sharp-web">https://github.com/bring-shrubbery/ml-sharp-web</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=4799503...*
-  📅 Sun, 03 May 2026 09:14:56 +0000
+- **[The Oscars Just Banned AI from Winning Acting and Writing Awards](https://gizmodo.com/the-oscars-just-banned-ai-from-winning-acting-and-writing-awards-2000753740)**
+  *<p>Article URL: <a href="https://gizmodo.com/the-oscars-just-banned-ai-from-winning-acting-and-writing-awards-2000753740">https://gizmodo.com/the-oscars-just-banned-ai-from-winning-acting-and-writing-...*
+  📅 Sun, 03 May 2026 17:34:15 +0000
 
-- **[Specsmaxxing – On overcoming AI psychosis, and why I write specs in YAML](https://acai.sh/blog/specsmaxxing)**
-  *<p>Article URL: <a href="https://acai.sh/blog/specsmaxxing">https://acai.sh/blog/specsmaxxing</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=47994012">https://news.ycombinator....*
-  📅 Sun, 03 May 2026 06:33:38 +0000
+- **[What Chromium versions are major browsers are on?](https://chromium-drift.pages.dev/)**
+  *<p>Article URL: <a href="https://chromium-drift.pages.dev/">https://chromium-drift.pages.dev/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=47999006">https://news.ycombinator....*
+  📅 Sun, 03 May 2026 17:05:58 +0000
 
-- **[AI, Intimacy, and the Data You Never Meant to Share](https://fshot.org/techzone/the-algorithm-knows.php)**
-  *<p>Article URL: <a href="https://fshot.org/techzone/the-algorithm-knows.php">https://fshot.org/techzone/the-algorithm-knows.php</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=4...*
-  📅 Sun, 03 May 2026 02:42:43 +0000
+- **[Physical buttons outperform touchscreens in new cars (2023)](https://etsc.eu/physical-buttons-outperform-touchscreens-in-new-cars/)**
+  *<p>Article URL: <a href="https://etsc.eu/physical-buttons-outperform-touchscreens-in-new-cars/">https://etsc.eu/physical-buttons-outperform-touchscreens-in-new-cars/</a></p>
+<p>Comments URL: <a href="...*
+  📅 Sun, 03 May 2026 17:05:02 +0000
 
-- **[Care homes and hotels in Japan shut as expansion strategy unravels](https://www.newsonjapan.com/article/149075.php)**
-  *<p>Article URL: <a href="https://www.newsonjapan.com/article/149075.php">https://www.newsonjapan.com/article/149075.php</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=47992446"...*
-  📅 Sun, 03 May 2026 01:38:38 +0000
+- **[Southwest Headquarters Tour](https://katherinemichel.github.io/blog/travel/southwest-headquarters-tour-2026.html)**
+  *<p>Article URL: <a href="https://katherinemichel.github.io/blog/travel/southwest-headquarters-tour-2026.html">https://katherinemichel.github.io/blog/travel/southwest-headquarters-tour-2026.html</a></p...*
+  📅 Sun, 03 May 2026 17:02:13 +0000
 
 ### 📑 TechCrunch
+
+- **[In Harvard study, AI offered more accurate diagnoses than emergency room doctors](https://techcrunch.com/2026/05/03/in-harvard-study-ai-offered-more-accurate-diagnoses-than-emergency-room-doctors/)**
+  *A new study examines how large language models perform in a variety of medical contexts, including real emergency room cases — where at least one model seemed to be more accurate than human doctors....*
+  📅 Sun, 03 May 2026 18:00:09 +0000
+
+- **[TechCrunch Mobility: How do you issue a ticket to a robotaxi?](https://techcrunch.com/2026/05/03/techcrunch-mobility-how-do-you-issue-a-ticket-to-a-robotaxi/)**
+  *Welcome back to TechCrunch Mobility — your central hub for news and insights on the future of transportation....*
+  📅 Sun, 03 May 2026 16:05:00 +0000
+
+- **[This tiny, magnetic e-reader could stop you from doomscrolling](https://techcrunch.com/2026/05/03/xteink-x3-review-tiny-magnetic-ereader/)**
+  *The Xteink X3 is a delightfully tiny, MagSafe-compatible e-ink reader that attaches to the back of your phone like a Pop Socket....*
+  📅 Sun, 03 May 2026 13:00:00 +0000
 
 - **[AI-generated actors and scripts are now ineligible for Oscars](https://techcrunch.com/2026/05/02/ai-generated-actors-and-scripts-are-now-ineligible-for-oscars/)**
   *Bad news for Tilly Norwood....*
@@ -90,31 +100,30 @@
   *"The Magician's Nephew" looks like a big next step in Netflix's thawing relationship with movie theaters....*
   📅 Sat, 02 May 2026 17:05:41 +0000
 
-- **[The best AI dictation apps, tested and ranked](https://techcrunch.com/2026/05/02/the-best-ai-powered-dictation-apps-of-2025/)**
-  *AI-powered dictation apps are useful for replying to emails, taking notes, and even coding through your voice...*
-  📅 Sat, 02 May 2026 16:00:00 +0000
-
-- **[Beyond Lovable and Mistral: 21 European startups to watch](https://techcrunch.com/2026/05/02/beyond-lovable-and-mistral-21-european-startups-to-watch/)**
-  *It is not that European startups never get attention — Lovable and Mistral AI are proof of that. But there are many more that insiders are tracking....*
-  📅 Sat, 02 May 2026 14:00:00 +0000
-
-- **[Uber wants to turn its millions of drivers into a sensor grid for self-driving companies](https://techcrunch.com/2026/05/01/uber-wants-to-turn-its-millions-of-drivers-into-a-sensor-grid-for-self-driving-companies/)**
-  *Praveen Neppalli Naga, Uber's chief technology officer, revealed the plan in an interview at TechCrunch's StrictlyVC event in San Francisco on Thursday night, describing it as a natural extension of a...*
-  📅 Sat, 02 May 2026 06:36:28 +0000
-
 ### 📑 Dev.to
 
-- **[I thought multi-agent meant more prompts until I saw 3 ways OpenClaw users are actually splitting the work](https://dev.to/lars_winstand/i-thought-multi-agent-meant-more-prompts-until-i-saw-3-ways-openclaw-users-are-actually-splitting-13ko)**
-  *<p>I went into a bunch of OpenClaw discussions expecting the usual advice about subagents: better prompts, cleaner folders, maybe some heroic config.</p>
+- **[How I run Claude Code 24/7 on a 2015 MacBook — the framework that survived 6 months](https://dev.to/suzu/how-i-run-claude-code-247-on-a-2015-macbook-the-framework-that-survived-6-months-296n)**
+  *<p>I'm not an engineer. I'm a non-developer who decided, in late 2025, that I wanted Claude Code to keep working when I was asleep.</p>
 
-<p>What I found was more interesting.</p>
+<p>Six months later, that decision compiled into 857 autonomous...*
+  📅 Sun, 03 May 2026 18:30:42 +0000
 
-<p...*
-  📅 Sun, 03 May 2026 12:39:41 +0000
+- **[I Just Wanted My Text to Look “Better”… Not Boring](https://dev.to/bhavin-allinonetools/i-just-wanted-my-text-to-look-better-not-boring-49ca)**
+  *<h2>
+  
+  
+  The Small Problem No One Talks About
+</h2>
 
-- **[Industry RPS Benchmarks 2026 — Where Your DTC Brand Stands Across Apparel, Food, Beauty, Electronics, and SaaS](https://dev.to/toshihiro_shishido/industry-rps-benchmarks-2026-where-your-dtc-brand-stands-across-apparel-food-beauty-5fic)**
-  *<p>"OK, I understand the RPS formula. But is our RPS — actually — high or low compared to our industry?" Right after I published the RPS-definition guide last week, this was the most common question I...*
-  📅 Sun, 03 May 2026 12:38:22 +0000
+<p>Sometimes the text is correct…</p>
+
+<p>But it still feels wrong.</p>
+
+<p>You write something like:</p>
+
+<blockquote>
+<p>“hello everyone welc...*
+  📅 Sun, 03 May 2026 18:30:00 +0000
 
 </details>
 
@@ -122,8 +131,20 @@
 
 ### 📈 Daily Trending
 
-- **[JustLikeCheese/LGBT-Prompt](https://github.com/JustLikeCheese/LGBT-Prompt)** ⭐ 128
+- **[JustLikeCheese/LGBT-Prompt](https://github.com/JustLikeCheese/LGBT-Prompt)** ⭐ 183
   ![None](https://img.shields.io/badge/-None-lightgrey)
+  None
+
+- **[Kappaemme-git/codex-startup-pressure-test-skill](https://github.com/Kappaemme-git/codex-startup-pressure-test-skill)** ⭐ 96
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
+  None
+
+- **[Optimus1200/Ace_Combat_Infinity_Campaign_Patch_and_Local_Server](https://github.com/Optimus1200/Ace_Combat_Infinity_Campaign_Patch_and_Local_Server)** ⭐ 26
+  ![C#](https://img.shields.io/badge/-C#-lightgrey)
+  Simple server program that accepts any client and responds OK.
+
+- **[Meow-Calculations/DeepSeek_Web_To_API](https://github.com/Meow-Calculations/DeepSeek_Web_To_API)** ⭐ 23
+  ![Go](https://img.shields.io/badge/-Go-cyan)
   None
 
 - **[geage13/luna-cheat-menu.github.io](https://github.com/geage13/luna-cheat-menu.github.io)** ⭐ 22
@@ -134,91 +155,79 @@
   ![None](https://img.shields.io/badge/-None-lightgrey)
   Instalar Trampas para CS2 2026 – Puntería Automática, Visión Total y Más
 
-- **[gimgyeon/loader-openclaw-skills](https://github.com/gimgyeon/loader-openclaw-skills)** ⭐ 22
-  ![None](https://img.shields.io/badge/-None-lightgrey)
-  Fully automatic OpenClaw skill manager. No manual commands, no copy-pasting. Run it once – installs, updates, configures, and launches 5200+ community skills from ClawHub. Windows only.
-
 - **[worapog/kahoot-auto-answer-bot](https://github.com/worapog/kahoot-auto-answer-bot)** ⭐ 22
   ![None](https://img.shields.io/badge/-None-lightgrey)
   None
 
-- **[hugomessier2015/-Instalar-Punter-a-Autom-tica-para-CS2-2026-Aimbot-Indetectable](https://github.com/hugomessier2015/-Instalar-Punter-a-Autom-tica-para-CS2-2026-Aimbot-Indetectable)** ⭐ 22
+- **[gimgyeon/loader-openclaw-skills](https://github.com/gimgyeon/loader-openclaw-skills)** ⭐ 22
   ![None](https://img.shields.io/badge/-None-lightgrey)
-  🎯 Instalar Puntería Automática para CS2 2026 – Aimbot Indetectable
-
-- **[fronekzv/Instalar-Cambiador-de-Identificacion-de-Hardware-para-R6S-2026-Spoofer-Indetectable](https://github.com/fronekzv/Instalar-Cambiador-de-Identificacion-de-Hardware-para-R6S-2026-Spoofer-Indetectable)** ⭐ 22
-  ![None](https://img.shields.io/badge/-None-lightgrey)
-  Instalar Cambiador de Identificación de Hardware para R6S 2026 – Spoofer Indetectable
-
-- **[bbangbread123/Trampas-para-R6S-2026-Punter-a-Autom-tica-Visi-n-a-Trav-s-de-Paredes-y-M-s-Totalmente-Indetectable](https://github.com/bbangbread123/Trampas-para-R6S-2026-Punter-a-Autom-tica-Visi-n-a-Trav-s-de-Paredes-y-M-s-Totalmente-Indetectable)** ⭐ 22
-  ![None](https://img.shields.io/badge/-None-lightgrey)
-  Trampas para R6S 2026 – Puntería Automática, Visión a Través de Paredes y Más | Totalmente Indetectable
+  Fully automatic OpenClaw skill manager. No manual commands, no copy-pasting. Run it once – installs, updates, configures, and launches 5200+ community skills from ClawHub. Windows only.
 
 ### 📈 Weekly Trending
 
-- **[nexu-io/open-design](https://github.com/nexu-io/open-design)** ⭐ 17,691
+- **[nexu-io/open-design](https://github.com/nexu-io/open-design)** ⭐ 18,728
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   🎨 Local-first, open-source alternative to Anthropic's Claude Design. ⚡ 19 Skills · ✨ 71 brand-grade Design Systems 🖼 Generate web · desktop · mobile prototypes · slides · images · videos · HyperFrames 📦 Sandboxed preview · HTML/PDF/PPTX/MP4 export 🤖 Runs on Claude Code / Codex / Cursor / Gemini / OpenCode / Qwen / Copilot / Hermes / Kimi CLI.
 
-- **[cursor/cookbook](https://github.com/cursor/cookbook)** ⭐ 3,213
+- **[cursor/cookbook](https://github.com/cursor/cookbook)** ⭐ 3,258
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   None
 
-- **[theori-io/copy-fail-CVE-2026-31431](https://github.com/theori-io/copy-fail-CVE-2026-31431)** ⭐ 2,971
+- **[theori-io/copy-fail-CVE-2026-31431](https://github.com/theori-io/copy-fail-CVE-2026-31431)** ⭐ 3,001
   ![Python](https://img.shields.io/badge/-Python-blue)
   None
 
-- **[denuitt1/mhr-cfw](https://github.com/denuitt1/mhr-cfw)** ⭐ 1,809
+- **[denuitt1/mhr-cfw](https://github.com/denuitt1/mhr-cfw)** ⭐ 1,897
   ![Python](https://img.shields.io/badge/-Python-blue)
   A Domain-Fronting Relay that routes traffic though GAS (Google Apps Script) and forwards it to Cloudflare Workers. Designed to bypass DPI.
 
-- **[willchen96/mike](https://github.com/willchen96/mike)** ⭐ 1,521
+- **[willchen96/mike](https://github.com/willchen96/mike)** ⭐ 1,587
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   OSS AI Legal Platform
 
-- **[darrylmorley/whatcable](https://github.com/darrylmorley/whatcable)** ⭐ 1,356
+- **[darrylmorley/whatcable](https://github.com/darrylmorley/whatcable)** ⭐ 1,405
   ![Swift](https://img.shields.io/badge/-Swift-lightgrey)
   macOS menu bar app that tells you, in plain English, what each USB-C cable plugged into your Mac can actually do
 
-- **[DanOps-1/Gpt-Agreement-Payment](https://github.com/DanOps-1/Gpt-Agreement-Payment)** ⭐ 950
+- **[DanOps-1/Gpt-Agreement-Payment](https://github.com/DanOps-1/Gpt-Agreement-Payment)** ⭐ 959
   ![Python](https://img.shields.io/badge/-Python-blue)
   ChatGPT Plus/Team/Pro 订阅协议端到端重放工具集 · hCaptcha 视觉求解器 · 反欺诈机制实证研究 / End-to-end protocol replay toolkit for ChatGPT Plus/Team/Pro subscription with from-scratch hCaptcha solver and empirical anti-fraud research
 
-- **[b-nnett/codex-plusplus](https://github.com/b-nnett/codex-plusplus)** ⭐ 849
+- **[b-nnett/codex-plusplus](https://github.com/b-nnett/codex-plusplus)** ⭐ 853
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   Codex++ tweak system for the Codex desktop app
 
 ### 📈 Monthly Trending
 
-- **[JuliusBrussee/caveman](https://github.com/JuliusBrussee/caveman)** ⭐ 52,761
+- **[JuliusBrussee/caveman](https://github.com/JuliusBrussee/caveman)** ⭐ 52,925
   ![Python](https://img.shields.io/badge/-Python-blue)
   🪨 why use many token when few token do trick — Claude Code skill that cuts 65% of tokens by talking like caveman
 
-- **[MemPalace/mempalace](https://github.com/MemPalace/mempalace)** ⭐ 50,820
+- **[MemPalace/mempalace](https://github.com/MemPalace/mempalace)** ⭐ 50,935
   ![Python](https://img.shields.io/badge/-Python-blue)
   The best-benchmarked open-source AI memory system. And it's free.
 
-- **[santifer/career-ops](https://github.com/santifer/career-ops)** ⭐ 42,044
+- **[santifer/career-ops](https://github.com/santifer/career-ops)** ⭐ 42,114
   ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
   AI-powered job search system built on Claude Code. 14 skill modes, Go dashboard, PDF generation, batch processing.
 
-- **[nexu-io/open-design](https://github.com/nexu-io/open-design)** ⭐ 17,691
+- **[nexu-io/open-design](https://github.com/nexu-io/open-design)** ⭐ 18,728
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   🎨 Local-first, open-source alternative to Anthropic's Claude Design. ⚡ 19 Skills · ✨ 71 brand-grade Design Systems 🖼 Generate web · desktop · mobile prototypes · slides · images · videos · HyperFrames 📦 Sandboxed preview · HTML/PDF/PPTX/MP4 export 🤖 Runs on Claude Code / Codex / Cursor / Gemini / OpenCode / Qwen / Copilot / Hermes / Kimi CLI.
 
-- **[alchaincyf/nuwa-skill](https://github.com/alchaincyf/nuwa-skill)** ⭐ 16,969
+- **[alchaincyf/nuwa-skill](https://github.com/alchaincyf/nuwa-skill)** ⭐ 17,031
   ![Python](https://img.shields.io/badge/-Python-blue)
   你想蒸馏的下一个员工，何必是同事。蒸馏任何人的思维方式——心智模型、决策启发式、表达DNA。Distill how anyone thinks.
 
-- **[garrytan/gbrain](https://github.com/garrytan/gbrain)** ⭐ 12,861
+- **[garrytan/gbrain](https://github.com/garrytan/gbrain)** ⭐ 12,921
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   Garry's Opinionated OpenClaw/Hermes Agent Brain
 
-- **[EvoLinkAI/awesome-gpt-image-2-API-and-Prompts](https://github.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts)** ⭐ 11,677
+- **[EvoLinkAI/awesome-gpt-image-2-API-and-Prompts](https://github.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts)** ⭐ 11,771
   ![Python](https://img.shields.io/badge/-Python-blue)
   GPT-Image-2 API and Prompts
 
-- **[alchaincyf/huashu-design](https://github.com/alchaincyf/huashu-design)** ⭐ 11,544
+- **[alchaincyf/huashu-design](https://github.com/alchaincyf/huashu-design)** ⭐ 11,610
   ![HTML](https://img.shields.io/badge/-HTML-lightgrey)
   Huashu Design · HTML-native design skill for Claude Code · Claude Code 里 HTML 原生的设计 skill · 高保真原型 / 幻灯片 / 动画 + 20 设计哲学 + 5 维评审 + MP4 导出 · Agent-agnostic
 
@@ -496,27 +505,27 @@ consolidated into a single option `MockModuleOpti...
 | Skill | Status |
 |-------|--------|
 | Java | 🟡 Learning |
-| Python | 🟢 Proficient |
-| JavaScript | 🟡 Learning |
-| TypeScript | 🔴 Beginner |
-| Go | 🟢 Proficient |
+| Python | 🟡 Learning |
+| JavaScript | 🔴 Beginner |
+| TypeScript | 🟡 Learning |
+| Go | 🔴 Beginner |
 
 ### Frameworks
 
 | Skill | Status |
 |-------|--------|
-| React | 🟢 Proficient |
+| React | 🟡 Learning |
 | Spring Boot | 🔴 Beginner |
-| Django | 🟡 Learning |
-| Node.js | ⚪ Planned |
-| Next.js | 🟡 Learning |
+| Django | 🟢 Proficient |
+| Node.js | 🔴 Beginner |
+| Next.js | 🔴 Beginner |
 
 ### Cybersecurity
 
 | Skill | Status |
 |-------|--------|
-| Penetration Testing | 🔴 Beginner |
-| Web Security | ⚪ Planned |
+| Penetration Testing | ⚪ Planned |
+| Web Security | 🟡 Learning |
 | Network Security | ⚪ Planned |
 | OWASP | 🟢 Proficient |
 
@@ -524,20 +533,20 @@ consolidated into a single option `MockModuleOpti...
 
 | Skill | Status |
 |-------|--------|
-| Machine Learning | 🟡 Learning |
+| Machine Learning | 🔴 Beginner |
 | Deep Learning | 🟢 Proficient |
 | NLP | 🔴 Beginner |
-| Computer Vision | 🔴 Beginner |
-| TensorFlow | 🟡 Learning |
-| PyTorch | 🔴 Beginner |
+| Computer Vision | ⚪ Planned |
+| TensorFlow | 🔴 Beginner |
+| PyTorch | 🟢 Proficient |
 
 ### Devops
 
 | Skill | Status |
 |-------|--------|
-| Docker | 🔴 Beginner |
-| Kubernetes | 🔴 Beginner |
-| CI/CD | 🔴 Beginner |
+| Docker | 🟢 Proficient |
+| Kubernetes | 🟢 Proficient |
+| CI/CD | 🟡 Learning |
 | AWS | 🟡 Learning |
 | Azure | 🟡 Learning |
 
@@ -546,8 +555,8 @@ consolidated into a single option `MockModuleOpti...
 | Skill | Status |
 |-------|--------|
 | Blockchain | 🔴 Beginner |
-| Web3 | 🟢 Proficient |
-| Cloud Computing | 🔴 Beginner |
+| Web3 | 🟡 Learning |
+| Cloud Computing | ⚪ Planned |
 
 </details>
 
