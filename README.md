@@ -20,7 +20,7 @@
 | Metric | Count |
 |--------|-------|
 | 📰 Latest News Articles | 26 |
-| 🔥 Trending Repositories | 0 |
+| 🔥 Trending Repositories | 45 |
 | 🎯 Latest Releases | 10 |
 | 🎯 Learning Goals | 4 |
 
@@ -46,31 +46,33 @@
 
 ### 📑 Hacker News
 
-- **[Maryland Is First to Ban A.I.-Driven Price Increases in Grocery Stores](https://www.nytimes.com/2026/05/01/business/surveillance-pricing-groceries-maryland.html)**
+- **[Specsmaxxing – On overcoming AI psychosis, and why I write specs in YAML](https://acai.sh/blog/specsmaxxing)**
+  *<p>Article URL: <a href="https://acai.sh/blog/specsmaxxing">https://acai.sh/blog/specsmaxxing</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=47994012">https://news.ycombinator....*
+  📅 Sun, 03 May 2026 06:33:38 +0000
+
+- **[Kimi K2.6 just beat Claude, GPT-5.5, and Gemini in a coding challenge](https://thinkpol.ca/2026/04/30/an-open-weights-chinese-model-just-beat-claude-gpt-5-5-and-gemini-in-a-programming-challenge/)**
+  *<p>Article URL: <a href="https://thinkpol.ca/2026/04/30/an-open-weights-chinese-model-just-beat-claude-gpt-5-5-and-gemini-in-a-programming-challenge/">https://thinkpol.ca/2026/04/30/an-open-weights-ch...*
+  📅 Sun, 03 May 2026 04:05:28 +0000
+
+- **[Windows API is Successful Cross-Platform API (2024)](https://retrocoding.net/windows-api-is-successful-cross-platform-api)**
+  *<p>Article URL: <a href="https://retrocoding.net/windows-api-is-successful-cross-platform-api">https://retrocoding.net/windows-api-is-successful-cross-platform-api</a></p>
+<p>Comments URL: <a href="ht...*
+  📅 Sun, 03 May 2026 02:53:29 +0000
+
+- **[Open source does not imply open community](https://blog.feld.me/posts/2026/04/open-source-does-not-imply-open-community/)**
+  *<p>Article URL: <a href="https://blog.feld.me/posts/2026/04/open-source-does-not-imply-open-community/">https://blog.feld.me/posts/2026/04/open-source-does-not-imply-open-community/</a></p>
+<p>Comment...*
+  📅 Sun, 03 May 2026 02:36:09 +0000
+
+- **[Care homes and hotels in Japan shut as expansion strategy unravels](https://www.newsonjapan.com/article/149075.php)**
+  *<p>Article URL: <a href="https://www.newsonjapan.com/article/149075.php">https://www.newsonjapan.com/article/149075.php</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=47992446"...*
+  📅 Sun, 03 May 2026 01:38:38 +0000
+
+- **[Maryland to ban A.I.-driven price increases in grocery stores](https://www.nytimes.com/2026/05/01/business/surveillance-pricing-groceries-maryland.html)**
   *<p>Article URL: <a href="https://www.nytimes.com/2026/05/01/business/surveillance-pricing-groceries-maryland.html">https://www.nytimes.com/2026/05/01/business/surveillance-pricing-groceries-maryland.h...*
   📅 Sun, 03 May 2026 01:24:09 +0000
-
-- **[Am I the only one who hates delivery robots?](https://www.latimes.com/entertainment-arts/story/2026-04-14/delivery-robots-creating-problems-glendale-ban)**
-  *<p>Article URL: <a href="https://www.latimes.com/entertainment-arts/story/2026-04-14/delivery-robots-creating-problems-glendale-ban">https://www.latimes.com/entertainment-arts/story/2026-04-14/deliver...*
-  📅 Sun, 03 May 2026 00:31:58 +0000
-
-- **[A Couple Million Lines of Haskell: Production Engineering at Mercury](https://blog.haskell.org/a-couple-million-lines-of-haskell/)**
-  *<p>Article URL: <a href="https://blog.haskell.org/a-couple-million-lines-of-haskell/">https://blog.haskell.org/a-couple-million-lines-of-haskell/</a></p>
-<p>Comments URL: <a href="https://news.ycombin...*
-  📅 Sun, 03 May 2026 00:01:14 +0000
-
-- **[Waymo Drives Off with South Bay Man's Luggage](https://sfist.com/2026/05/01/waymo-drives-off-with-south-bay-mans-luggage-after-trunk-fails-to-open/)**
-  *<p>Article URL: <a href="https://sfist.com/2026/05/01/waymo-drives-off-with-south-bay-mans-luggage-after-trunk-fails-to-open/">https://sfist.com/2026/05/01/waymo-drives-off-with-south-bay-mans-luggage...*
-  📅 Sat, 02 May 2026 23:04:42 +0000
-
-- **[Tesla owner won $10k in court for Tesla's FSD lies. Tesla is still fighting him](https://electrek.co/2026/05/02/this-tesla-owner-won-10k-in-court-for-teslas-fsd-lies-tesla-is-still-fighting-him/)**
-  *<p>Article URL: <a href="https://electrek.co/2026/05/02/this-tesla-owner-won-10k-in-court-for-teslas-fsd-lies-tesla-is-still-fighting-him/">https://electrek.co/2026/05/02/this-tesla-owner-won-10k-in-c...*
-  📅 Sat, 02 May 2026 22:45:23 +0000
-
-- **[Voice-AI-for-Beginners – A curated learning path for developers](https://github.com/mahimairaja/voiceai)**
-  *<p>Article URL: <a href="https://github.com/mahimairaja/voiceai">https://github.com/mahimairaja/voiceai</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=47991018">https://news.yc...*
-  📅 Sat, 02 May 2026 22:03:15 +0000
 
 ### 📑 TechCrunch
 
@@ -100,17 +102,122 @@
 
 ### 📑 Dev.to
 
-- **[I always worried my own READMEs disagreed with my own repos. So I built README Clew.](https://dev.to/earlgreyhot1701d/i-always-worried-my-own-readmes-disagreed-with-my-own-repos-so-i-built-readme-clew-42i5)**
-  *<p>I write a lot of READMEs. I ship faster than I document. I work with AI agents that write code in seconds and READMEs in minutes, and somewhere between the first commit and the third refactor, the ...*
-  📅 Sun, 03 May 2026 01:48:40 +0000
+- **[I Built a Multi-Agent AI Pen Tester Because AI Coding Tools Are Shipping Vulnerable Code](https://dev.to/aaronsood10/i-built-a-multi-agent-ai-pen-tester-because-ai-coding-tools-are-shipping-vulnerable-code-6bd)**
+  *<p>AI coding assistants are everywhere. Developers are shipping code faster than ever using Claude, Copilot, and Cursor.<br />
+They're also shipping SQL injection, hardcoded secrets, broken authentica...*
+  📅 Sun, 03 May 2026 07:35:14 +0000
 
-- **[GCP in Action: Building a Persistent AI Assistant with GCE, Hermes Agent, and Telegram](https://dev.to/erikqin/gcp-in-action-building-a-persistent-ai-assistant-with-gce-hermes-agent-and-telegram-1h9f)**
-  *<p>For years, the dream of a truly autonomous, always-on AI assistant has felt just out of reach — a concept relegated to-fi or limited by fragile, stateless nature of most chat interfaces. We’ve grow...*
-  📅 Sun, 03 May 2026 01:43:16 +0000
+- **[LinkedIn Quietly Migrated From ProseMirror to Quill — and Broke Every Browser Automation Tool That Touched the Composer](https://dev.to/achiya-automation/linkedin-quietly-migrated-from-prosemirror-to-quill-and-broke-every-browser-automation-tool-that-4927)**
+  *<p>I shipped a fix to my MCP server last week for LinkedIn's ProseMirror composer. It worked. Two days later, every LinkedIn post automation broke.</p>
+
+<p>This is the post-mortem of what changed, how...*
+  📅 Sun, 03 May 2026 07:34:07 +0000
 
 </details>
 
 ## 🔥 Trending Repositories
+
+### 📈 Daily Trending
+
+- **[JustLikeCheese/LGBT-Prompt](https://github.com/JustLikeCheese/LGBT-Prompt)** ⭐ 38
+  ![None](https://img.shields.io/badge/-None-lightgrey)
+  None
+
+- **[Meow-Calculations/DeepSeek_Web_To_API](https://github.com/Meow-Calculations/DeepSeek_Web_To_API)** ⭐ 19
+  ![Go](https://img.shields.io/badge/-Go-cyan)
+  None
+
+- **[geage13/luna-cheat-menu.github.io](https://github.com/geage13/luna-cheat-menu.github.io)** ⭐ 12
+  ![None](https://img.shields.io/badge/-None-lightgrey)
+  Luna mod menu 2026 for GTA V
+
+- **[worapog/kahoot-auto-answer-bot](https://github.com/worapog/kahoot-auto-answer-bot)** ⭐ 12
+  ![None](https://img.shields.io/badge/-None-lightgrey)
+  None
+
+- **[fronekzv/FOR-EDUCATIONAL-RESEARCH-ONLY-Install-Fortnite-Aimbot-2026-Undetectable-Aim-Assist](https://github.com/fronekzv/FOR-EDUCATIONAL-RESEARCH-ONLY-Install-Fortnite-Aimbot-2026-Undetectable-Aim-Assist)** ⭐ 12
+  ![None](https://img.shields.io/badge/-None-lightgrey)
+  FOR EDUCATIONAL & RESEARCH ONLY Install Fortnite Aimbot 2026 – Undetectable Aim Assist
+
+- **[baohungprosh1/R6-Recoil-Control-Aim-bot-Assist-Research-2026-](https://github.com/baohungprosh1/R6-Recoil-Control-Aim-bot-Assist-Research-2026-)** ⭐ 12
+  ![None](https://img.shields.io/badge/-None-lightgrey)
+  R6 Recoil Control & Aim bot Assist Research (2026)
+
+- **[cyruss0804/Descargar-Trampas-para-Fortnite-2026-Punteria-Autom-tica-Vision-Total-y-Mas](https://github.com/cyruss0804/Descargar-Trampas-para-Fortnite-2026-Punteria-Autom-tica-Vision-Total-y-Mas)** ⭐ 12
+  ![None](https://img.shields.io/badge/-None-lightgrey)
+  Descargar Trampas para Fortnite 2026 – Punteria Automática, Vision Total y Mas
+
+- **[fronekzv/Instalar-Visi-n-a-Trav-s-de-Paredes-para-R6S-2026-Wallhack-Indetectable](https://github.com/fronekzv/Instalar-Visi-n-a-Trav-s-de-Paredes-para-R6S-2026-Wallhack-Indetectable)** ⭐ 11
+  ![None](https://img.shields.io/badge/-None-lightgrey)
+  Instalar Visión a Través de Paredes para R6S 2026 – Wallhack Indetectable
+
+### 📈 Weekly Trending
+
+- **[nexu-io/open-design](https://github.com/nexu-io/open-design)** ⭐ 16,975
+  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
+  🎨 Local-first, open-source alternative to Anthropic's Claude Design. ⚡ 19 Skills · ✨ 71 brand-grade Design Systems 🖼 Generate web · desktop · mobile prototypes · slides · images · videos · HyperFrames 📦 Sandboxed preview · HTML/PDF/PPTX/MP4 export 🤖 Runs on Claude Code / Codex / Cursor / Gemini / OpenCode / Qwen / Copilot / Hermes / Kimi CLI.
+
+- **[cursor/cookbook](https://github.com/cursor/cookbook)** ⭐ 3,180
+  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
+  None
+
+- **[theori-io/copy-fail-CVE-2026-31431](https://github.com/theori-io/copy-fail-CVE-2026-31431)** ⭐ 2,945
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  None
+
+- **[denuitt1/mhr-cfw](https://github.com/denuitt1/mhr-cfw)** ⭐ 1,738
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  A Domain-Fronting Relay that routes traffic though GAS (Google Apps Script) and forwards it to Cloudflare Workers. Designed to bypass DPI.
+
+- **[willchen96/mike](https://github.com/willchen96/mike)** ⭐ 1,476
+  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
+  OSS AI Legal Platform
+
+- **[darrylmorley/whatcable](https://github.com/darrylmorley/whatcable)** ⭐ 1,317
+  ![Swift](https://img.shields.io/badge/-Swift-lightgrey)
+  macOS menu bar app that tells you, in plain English, what each USB-C cable plugged into your Mac can actually do
+
+- **[DanOps-1/Gpt-Agreement-Payment](https://github.com/DanOps-1/Gpt-Agreement-Payment)** ⭐ 922
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  ChatGPT Plus/Team/Pro 订阅协议端到端重放工具集 · hCaptcha 视觉求解器 · 反欺诈机制实证研究 / End-to-end protocol replay toolkit for ChatGPT Plus/Team/Pro subscription with from-scratch hCaptcha solver and empirical anti-fraud research
+
+- **[b-nnett/codex-plusplus](https://github.com/b-nnett/codex-plusplus)** ⭐ 840
+  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
+  Codex++ tweak system for the Codex desktop app
+
+### 📈 Monthly Trending
+
+- **[JuliusBrussee/caveman](https://github.com/JuliusBrussee/caveman)** ⭐ 52,640
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  🪨 why use many token when few token do trick — Claude Code skill that cuts 65% of tokens by talking like caveman
+
+- **[MemPalace/mempalace](https://github.com/MemPalace/mempalace)** ⭐ 50,804
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  The best-benchmarked open-source AI memory system. And it's free.
+
+- **[santifer/career-ops](https://github.com/santifer/career-ops)** ⭐ 41,975
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
+  AI-powered job search system built on Claude Code. 14 skill modes, Go dashboard, PDF generation, batch processing.
+
+- **[nexu-io/open-design](https://github.com/nexu-io/open-design)** ⭐ 16,975
+  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
+  🎨 Local-first, open-source alternative to Anthropic's Claude Design. ⚡ 19 Skills · ✨ 71 brand-grade Design Systems 🖼 Generate web · desktop · mobile prototypes · slides · images · videos · HyperFrames 📦 Sandboxed preview · HTML/PDF/PPTX/MP4 export 🤖 Runs on Claude Code / Codex / Cursor / Gemini / OpenCode / Qwen / Copilot / Hermes / Kimi CLI.
+
+- **[alchaincyf/nuwa-skill](https://github.com/alchaincyf/nuwa-skill)** ⭐ 16,924
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  你想蒸馏的下一个员工，何必是同事。蒸馏任何人的思维方式——心智模型、决策启发式、表达DNA。Distill how anyone thinks.
+
+- **[garrytan/gbrain](https://github.com/garrytan/gbrain)** ⭐ 12,811
+  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
+  Garry's Opinionated OpenClaw/Hermes Agent Brain
+
+- **[EvoLinkAI/awesome-gpt-image-2-API-and-Prompts](https://github.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts)** ⭐ 11,602
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  GPT-Image-2 API and Prompts
+
+- **[kyegomez/OpenMythos](https://github.com/kyegomez/OpenMythos)** ⭐ 11,487
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  A theoretical reconstruction of the Claude Mythos architecture, built from first principles using the available research literature.
 
 ## 🚀 Latest Releases
 
@@ -385,28 +492,28 @@ consolidated into a single option `MockModuleOpti...
 
 | Skill | Status |
 |-------|--------|
-| Java | 🟢 Proficient |
-| Python | 🔴 Beginner |
+| Java | ⚪ Planned |
+| Python | ⚪ Planned |
 | JavaScript | 🟢 Proficient |
-| TypeScript | 🟡 Learning |
+| TypeScript | 🔴 Beginner |
 | Go | ⚪ Planned |
 
 ### Frameworks
 
 | Skill | Status |
 |-------|--------|
-| React | 🟢 Proficient |
+| React | ⚪ Planned |
 | Spring Boot | 🔴 Beginner |
 | Django | ⚪ Planned |
 | Node.js | 🟡 Learning |
-| Next.js | 🔴 Beginner |
+| Next.js | ⚪ Planned |
 
 ### Cybersecurity
 
 | Skill | Status |
 |-------|--------|
 | Penetration Testing | ⚪ Planned |
-| Web Security | 🟡 Learning |
+| Web Security | ⚪ Planned |
 | Network Security | ⚪ Planned |
 | OWASP | 🟢 Proficient |
 
@@ -414,30 +521,30 @@ consolidated into a single option `MockModuleOpti...
 
 | Skill | Status |
 |-------|--------|
-| Machine Learning | 🔴 Beginner |
-| Deep Learning | 🟢 Proficient |
-| NLP | 🔴 Beginner |
-| Computer Vision | 🔴 Beginner |
-| TensorFlow | 🟡 Learning |
-| PyTorch | 🟢 Proficient |
+| Machine Learning | 🟢 Proficient |
+| Deep Learning | 🔴 Beginner |
+| NLP | 🟢 Proficient |
+| Computer Vision | ⚪ Planned |
+| TensorFlow | ⚪ Planned |
+| PyTorch | 🟡 Learning |
 
 ### Devops
 
 | Skill | Status |
 |-------|--------|
-| Docker | 🔴 Beginner |
-| Kubernetes | 🟢 Proficient |
-| CI/CD | 🔴 Beginner |
-| AWS | 🟢 Proficient |
-| Azure | 🟢 Proficient |
+| Docker | ⚪ Planned |
+| Kubernetes | ⚪ Planned |
+| CI/CD | 🟡 Learning |
+| AWS | 🟡 Learning |
+| Azure | 🔴 Beginner |
 
 ### Other
 
 | Skill | Status |
 |-------|--------|
-| Blockchain | 🟢 Proficient |
-| Web3 | 🔴 Beginner |
-| Cloud Computing | 🟡 Learning |
+| Blockchain | 🟡 Learning |
+| Web3 | 🟢 Proficient |
+| Cloud Computing | 🟢 Proficient |
 
 </details>
 
