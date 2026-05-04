@@ -46,6 +46,16 @@
 
 ### 📑 Hacker News
 
+- **[Stitch Together Lots of Little HTML Pages with Navigations for Interactions](https://blog.jim-nielsen.com/2026/small-html-pages/)**
+  *<p>Article URL: <a href="https://blog.jim-nielsen.com/2026/small-html-pages/">https://blog.jim-nielsen.com/2026/small-html-pages/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id...*
+  📅 Mon, 04 May 2026 04:43:36 +0000
+
+- **[Humanoid Robot Actuators](https://www.firgelli.com/pages/humanoid-robot-actuators)**
+  *<p>Article URL: <a href="https://www.firgelli.com/pages/humanoid-robot-actuators">https://www.firgelli.com/pages/humanoid-robot-actuators</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com...*
+  📅 Mon, 04 May 2026 03:42:09 +0000
+
 - **[The text mode lie: why modern TUIs are a nightmare for accessibility](https://xogium.me/the-text-mode-lie-why-modern-tuis-are-a-nightmare-for-accessibility)**
   *<p>Article URL: <a href="https://xogium.me/the-text-mode-lie-why-modern-tuis-are-a-nightmare-for-accessibility">https://xogium.me/the-text-mode-lie-why-modern-tuis-are-a-nightmare-for-accessibility</a...*
   📅 Sun, 03 May 2026 23:59:02 +0000
@@ -60,22 +70,20 @@
 <p>Comments URL: <a href="https://news.ycombinator.com...*
   📅 Sun, 03 May 2026 23:12:02 +0000
 
-- **[Agentic Coding Is a Trap](https://larsfaye.com/articles/agentic-coding-is-a-trap)**
-  *<p>Article URL: <a href="https://larsfaye.com/articles/agentic-coding-is-a-trap">https://larsfaye.com/articles/agentic-coding-is-a-trap</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/i...*
-  📅 Sun, 03 May 2026 22:52:07 +0000
-
-- **[DeepClaude – Claude Code agent loop with DeepSeek V4 Pro, 17x cheaper](https://github.com/aattaran/deepclaude)**
+- **[DeepClaude – Claude Code agent loop with DeepSeek V4 Pro](https://github.com/aattaran/deepclaude)**
   *<p>Article URL: <a href="https://github.com/aattaran/deepclaude">https://github.com/aattaran/deepclaude</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=48002136">https://news.yc...*
   📅 Sun, 03 May 2026 22:13:20 +0000
 
-- **[Introduction to Atom](https://validator.w3.org/feed/docs/atom.html)**
-  *<p>Article URL: <a href="https://validator.w3.org/feed/docs/atom.html">https://validator.w3.org/feed/docs/atom.html</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=48002089">htt...*
-  📅 Sun, 03 May 2026 22:08:47 +0000
-
 ### 📑 TechCrunch
+
+- **[Nicolas Sauvage is betting on the boring parts of AI](https://techcrunch.com/2026/05/04/nicolas-sauvage-is-betting-on-the-boring-parts-of-ai/)**
+  *The portfolio he has assembled since 2019 is dotted with technologies that have become more widely interesting to VCs over the last year:...*
+  📅 Mon, 04 May 2026 07:10:18 +0000
+
+- **[We’ll take it: a TikToker rallies pledges to buy Spirit Airlines after its abrupt weekend collapse](https://techcrunch.com/2026/05/03/well-take-it-a-tiktoker-rallies-pledges-to-buy-spirit-airlines-after-its-abrupt-weekend-collapse/)**
+  *Within hours he'd thrown up a website — a janky, one-hour job, by his own admission — and by Sunday, 36,000 "founding patrons" had pledged nearly $23 million, crashing his servers in the process....*
+  📅 Mon, 04 May 2026 02:02:25 +0000
 
 - **[‘This is fine’ creator says AI startup stole his art](https://techcrunch.com/2026/05/03/this-is-fine-creator-says-ai-startup-stole-his-art/)**
   *The ad comes from Artisan, the AI startup behind billboards urging businesses to "stop hiring humans."...*
@@ -93,31 +101,21 @@
   *The Xteink X3 is a delightfully tiny, MagSafe-compatible e-ink reader that attaches to the back of your phone like a Pop Socket....*
   📅 Sun, 03 May 2026 13:00:00 +0000
 
-- **[AI-generated actors and scripts are now ineligible for Oscars](https://techcrunch.com/2026/05/02/ai-generated-actors-and-scripts-are-now-ineligible-for-oscars/)**
-  *Bad news for Tilly Norwood....*
-  📅 Sat, 02 May 2026 21:54:58 +0000
-
-- **[Farewell, Jeeves: Ask.com shuts down](https://techcrunch.com/2026/05/02/farewell-jeeves-ask-com-shuts-down/)**
-  *Owner IAC says it's discontinuing its search business....*
-  📅 Sat, 02 May 2026 21:11:28 +0000
-
 ### 📑 Dev.to
 
-- **[How I Built an Agentic Coding CLI from Scratch](https://dev.to/vigp17/how-i-built-an-agentic-coding-cli-from-scratch-2ob5)**
-  *<p>I wanted to understand how AI coding tools actually work under the hood. Not just use them — but build one myself.</p>
+- **[Ingress Migration Strategy: From Deprecated Controllers to Gateway API](https://dev.to/matthiasbruns/ingress-migration-strategy-from-deprecated-controllers-to-gateway-api-1607)**
+  *<p>The Kubernetes community's announcement of Ingress NGINX's retirement in March 2026 has created an urgent need for migration planning across thousands of production clusters. With <a href="https://...*
+  📅 Mon, 04 May 2026 08:07:24 +0000
 
-<p>So I built <strong>AgentCode</strong>: an open-source, multi-model agentic...*
-  📅 Mon, 04 May 2026 01:22:48 +0000
-
-- **[From Script to Browser: Migrating My First Custom Solana Keypair](https://dev.to/gorilaprada/from-script-to-browser-migrating-my-first-custom-solana-keypair-45cg)**
-  *<h2>
+- **[Revolutionize the comparison of Mistral 2 and RAG: What Fails](https://dev.to/johalputt/revolutionize-the-comparison-of-mistral-2-and-rag-what-fails-4jl3)**
+  *<h1>
   
   
-  What I Did
-</h2>
+  Revolutionize Mistral 2 vs RAG Comparisons: What Fails and How to Fix It
+</h1>
 
-<p>I used a simple JavaScript script and the @solana/kit library to programmatically generate a new keypair, saved the secret key to a local .json file, and then wrote a...*
-  📅 Mon, 04 May 2026 01:17:53 +0000
+<p>Comparing Mistral 2, the widely adopted open-source large language model, to Retrieval-Augmented Generat...*
+  📅 Mon, 04 May 2026 08:06:29 +0000
 
 </details>
 
@@ -125,103 +123,103 @@
 
 ### 📈 Daily Trending
 
+- **[WeritoP/LInjector-FORKED-](https://github.com/WeritoP/LInjector-FORKED-)** ⭐ 459
+  ![None](https://img.shields.io/badge/-None-lightgrey)
+  🔨 LInjector. An open-source Luau Script IDE allowing easy integration with diverse purposes. Working version at the website below. ⬇️
+
 - **[WeritoP/FL-STUDIO-PATCHER](https://github.com/WeritoP/FL-STUDIO-PATCHER)** ⭐ 450
   ![None](https://img.shields.io/badge/-None-lightgrey)
   Fl Stduio patch for lifetime works
 
-- **[Vuks1n/mhr-ggate](https://github.com/Vuks1n/mhr-ggate)** ⭐ 6
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  yep
+- **[pixelxzen/phantom-motion](https://github.com/pixelxzen/phantom-motion)** ⭐ 38
+  ![HTML](https://img.shields.io/badge/-HTML-lightgrey)
+  Phantom-Motion is an incredibly powerful, epic interactive dynamic visual storytelling generator. Its capabilities are limited only by the bounds of your imagination! 它是一个极其硬核的史诗级交互式动态视觉叙事生成器。它的实力只取决于你的想象力高低！
 
-- **[wiolett-industries/gateway](https://github.com/wiolett-industries/gateway)** ⭐ 3
-  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
-  Self-hosted infrastructure control plane for reverse proxies, Docker workloads, certificates, databases, logs, monitoring, status pages, and automation.
-
-- **[rwalperium/Python-Space-Sim](https://github.com/rwalperium/Python-Space-Sim)** ⭐ 1
-  ![None](https://img.shields.io/badge/-None-lightgrey)
-  Universe simulator built using Python
-
-- **[amanning3390/deepswarm](https://github.com/amanning3390/deepswarm)** ⭐ 2
+- **[amanning3390/deepswarm](https://github.com/amanning3390/deepswarm)** ⭐ 25
   ![Python](https://img.shields.io/badge/-Python-blue)
   None
 
-- **[Msun207/Siege-defence](https://github.com/Msun207/Siege-defence)** ⭐ 1
-  ![HTML](https://img.shields.io/badge/-HTML-lightgrey)
-  Ai generated grid based game
+- **[Vuks1n/mhr-ggate](https://github.com/Vuks1n/mhr-ggate)** ⭐ 13
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  Fixing!!!
 
-- **[IncognitoJohn/React_CarouselandProjects](https://github.com/IncognitoJohn/React_CarouselandProjects)** ⭐ 1
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
-  React Sucks!!!
+- **[iamagenius00/wild-week-athens-26](https://github.com/iamagenius00/wild-week-athens-26)** ⭐ 8
+  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
+  Codex-reconstructed study clone of the Wild Week Athens 2026 page
 
-- **[changjun9238/chronic-diet-app](https://github.com/changjun9238/chronic-diet-app)** ⭐ 1
-  ![None](https://img.shields.io/badge/-None-lightgrey)
+- **[AIAgeDev211/MiniML](https://github.com/AIAgeDev211/MiniML)** ⭐ 9
+  ![C++](https://img.shields.io/badge/-C++-pink)
+  None
+
+- **[brian-pratama-putra/go-finance-goal-api](https://github.com/brian-pratama-putra/go-finance-goal-api)** ⭐ 7
+  ![Go](https://img.shields.io/badge/-Go-cyan)
   None
 
 ### 📈 Weekly Trending
 
-- **[nexu-io/open-design](https://github.com/nexu-io/open-design)** ⭐ 19,643
+- **[nexu-io/open-design](https://github.com/nexu-io/open-design)** ⭐ 20,898
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   🎨 Local-first, open-source alternative to Anthropic's Claude Design. ⚡ 19 Skills · ✨ 71 brand-grade Design Systems 🖼 Generate web · desktop · mobile prototypes · slides · images · videos · HyperFrames 📦 Sandboxed preview · HTML/PDF/PPTX/MP4 export 🤖 Runs on Claude Code / Codex / Cursor / Gemini / OpenCode / Qwen / Copilot / Hermes / Kimi CLI.
 
-- **[theori-io/copy-fail-CVE-2026-31431](https://github.com/theori-io/copy-fail-CVE-2026-31431)** ⭐ 3,022
+- **[theori-io/copy-fail-CVE-2026-31431](https://github.com/theori-io/copy-fail-CVE-2026-31431)** ⭐ 3,067
   ![Python](https://img.shields.io/badge/-Python-blue)
   None
 
-- **[willchen96/mike](https://github.com/willchen96/mike)** ⭐ 1,692
+- **[willchen96/mike](https://github.com/willchen96/mike)** ⭐ 1,759
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   OSS AI Legal Platform
 
-- **[darrylmorley/whatcable](https://github.com/darrylmorley/whatcable)** ⭐ 1,454
+- **[darrylmorley/whatcable](https://github.com/darrylmorley/whatcable)** ⭐ 1,519
   ![Swift](https://img.shields.io/badge/-Swift-lightgrey)
   macOS menu bar app that tells you, in plain English, what each USB-C cable plugged into your Mac can actually do
 
-- **[b-nnett/codex-plusplus](https://github.com/b-nnett/codex-plusplus)** ⭐ 858
-  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
-  Codex++ tweak system for the Codex desktop app
-
-- **[mattpocock/dictionary-of-ai-coding](https://github.com/mattpocock/dictionary-of-ai-coding)** ⭐ 851
+- **[mattpocock/dictionary-of-ai-coding](https://github.com/mattpocock/dictionary-of-ai-coding)** ⭐ 878
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   AI coding jargon, explained in plain English.
 
-- **[wrongly-cuddly-obsession/NTSB_FOIA_MU5735](https://github.com/wrongly-cuddly-obsession/NTSB_FOIA_MU5735)** ⭐ 811
+- **[b-nnett/codex-plusplus](https://github.com/b-nnett/codex-plusplus)** ⭐ 864
+  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
+  Codex++ tweak system for the Codex desktop app
+
+- **[wrongly-cuddly-obsession/NTSB_FOIA_MU5735](https://github.com/wrongly-cuddly-obsession/NTSB_FOIA_MU5735)** ⭐ 838
   ![None](https://img.shields.io/badge/-None-lightgrey)
   None
 
-- **[t8y2/dbx](https://github.com/t8y2/dbx)** ⭐ 777
+- **[t8y2/dbx](https://github.com/t8y2/dbx)** ⭐ 788
   ![Vue](https://img.shields.io/badge/-Vue-lightgrey)
   15MB，lightweight, cross-platform database client. Supports MySQL, PostgreSQL, SQLite, Redis, MongoDB, DuckDB, ClickHouse, SQL Server and more.
 
 ### 📈 Monthly Trending
 
-- **[MemPalace/mempalace](https://github.com/MemPalace/mempalace)** ⭐ 50,975
+- **[MemPalace/mempalace](https://github.com/MemPalace/mempalace)** ⭐ 51,016
   ![Python](https://img.shields.io/badge/-Python-blue)
   The best-benchmarked open-source AI memory system. And it's free.
 
-- **[nexu-io/open-design](https://github.com/nexu-io/open-design)** ⭐ 19,643
+- **[nexu-io/open-design](https://github.com/nexu-io/open-design)** ⭐ 20,898
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   🎨 Local-first, open-source alternative to Anthropic's Claude Design. ⚡ 19 Skills · ✨ 71 brand-grade Design Systems 🖼 Generate web · desktop · mobile prototypes · slides · images · videos · HyperFrames 📦 Sandboxed preview · HTML/PDF/PPTX/MP4 export 🤖 Runs on Claude Code / Codex / Cursor / Gemini / OpenCode / Qwen / Copilot / Hermes / Kimi CLI.
 
-- **[alchaincyf/nuwa-skill](https://github.com/alchaincyf/nuwa-skill)** ⭐ 17,038
+- **[alchaincyf/nuwa-skill](https://github.com/alchaincyf/nuwa-skill)** ⭐ 17,098
   ![Python](https://img.shields.io/badge/-Python-blue)
   你想蒸馏的下一个员工，何必是同事。蒸馏任何人的思维方式——心智模型、决策启发式、表达DNA。Distill how anyone thinks.
 
-- **[garrytan/gbrain](https://github.com/garrytan/gbrain)** ⭐ 12,965
+- **[garrytan/gbrain](https://github.com/garrytan/gbrain)** ⭐ 13,008
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   Garry's Opinionated OpenClaw/Hermes Agent Brain
 
-- **[EvoLinkAI/awesome-gpt-image-2-API-and-Prompts](https://github.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts)** ⭐ 11,812
+- **[EvoLinkAI/awesome-gpt-image-2-API-and-Prompts](https://github.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts)** ⭐ 11,912
   ![Python](https://img.shields.io/badge/-Python-blue)
   GPT-Image-2 API and Prompts
 
-- **[alchaincyf/huashu-design](https://github.com/alchaincyf/huashu-design)** ⭐ 11,651
+- **[alchaincyf/huashu-design](https://github.com/alchaincyf/huashu-design)** ⭐ 11,713
   ![HTML](https://img.shields.io/badge/-HTML-lightgrey)
   Huashu Design · HTML-native design skill for Claude Code · Claude Code 里 HTML 原生的设计 skill · 高保真原型 / 幻灯片 / 动画 + 20 设计哲学 + 5 维评审 + MP4 导出 · Agent-agnostic
 
-- **[kyegomez/OpenMythos](https://github.com/kyegomez/OpenMythos)** ⭐ 11,583
+- **[kyegomez/OpenMythos](https://github.com/kyegomez/OpenMythos)** ⭐ 11,612
   ![Python](https://img.shields.io/badge/-Python-blue)
   A theoretical reconstruction of the Claude Mythos architecture, built from first principles using the available research literature.
 
-- **[google-labs-code/design.md](https://github.com/google-labs-code/design.md)** ⭐ 11,399
+- **[google-labs-code/design.md](https://github.com/google-labs-code/design.md)** ⭐ 11,444
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   A format specification for describing a visual identity to coding agents. DESIGN.md gives agents a persistent, structured understanding of a design system.
 
@@ -498,10 +496,10 @@ consolidated into a single option `MockModuleOpti...
 
 | Skill | Status |
 |-------|--------|
-| Java | 🔴 Beginner |
+| Java | 🟢 Proficient |
 | Python | 🔴 Beginner |
-| JavaScript | ⚪ Planned |
-| TypeScript | ⚪ Planned |
+| JavaScript | 🔴 Beginner |
+| TypeScript | 🔴 Beginner |
 | Go | 🔴 Beginner |
 
 ### Frameworks
@@ -509,48 +507,48 @@ consolidated into a single option `MockModuleOpti...
 | Skill | Status |
 |-------|--------|
 | React | 🟢 Proficient |
-| Spring Boot | 🔴 Beginner |
-| Django | 🟡 Learning |
+| Spring Boot | ⚪ Planned |
+| Django | 🟢 Proficient |
 | Node.js | 🔴 Beginner |
-| Next.js | 🔴 Beginner |
+| Next.js | ⚪ Planned |
 
 ### Cybersecurity
 
 | Skill | Status |
 |-------|--------|
 | Penetration Testing | 🔴 Beginner |
-| Web Security | 🔴 Beginner |
-| Network Security | 🔴 Beginner |
+| Web Security | 🟢 Proficient |
+| Network Security | 🟡 Learning |
 | OWASP | ⚪ Planned |
 
 ### Ai Ml
 
 | Skill | Status |
 |-------|--------|
-| Machine Learning | 🔴 Beginner |
+| Machine Learning | 🟡 Learning |
 | Deep Learning | 🔴 Beginner |
-| NLP | 🔴 Beginner |
-| Computer Vision | ⚪ Planned |
-| TensorFlow | 🟢 Proficient |
-| PyTorch | 🟢 Proficient |
+| NLP | 🟡 Learning |
+| Computer Vision | 🟡 Learning |
+| TensorFlow | 🟡 Learning |
+| PyTorch | 🟡 Learning |
 
 ### Devops
 
 | Skill | Status |
 |-------|--------|
-| Docker | 🟢 Proficient |
-| Kubernetes | ⚪ Planned |
+| Docker | 🟡 Learning |
+| Kubernetes | 🟢 Proficient |
 | CI/CD | 🟡 Learning |
-| AWS | 🟡 Learning |
-| Azure | 🟡 Learning |
+| AWS | ⚪ Planned |
+| Azure | 🔴 Beginner |
 
 ### Other
 
 | Skill | Status |
 |-------|--------|
-| Blockchain | ⚪ Planned |
+| Blockchain | 🟡 Learning |
 | Web3 | 🔴 Beginner |
-| Cloud Computing | 🟡 Learning |
+| Cloud Computing | 🔴 Beginner |
 
 </details>
 
