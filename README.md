@@ -46,35 +46,41 @@
 
 ### 📑 Hacker News
 
-- **[Bun is being ported from Zig to Rust](https://github.com/oven-sh/bun/commit/46d3bc29f270fa881dd5730ef1549e88407701a5)**
-  *<p>Article URL: <a href="https://github.com/oven-sh/bun/commit/46d3bc29f270fa881dd5730ef1549e88407701a5">https://github.com/oven-sh/bun/commit/46d3bc29f270fa881dd5730ef1549e88407701a5</a></p>
-<p>Comme...*
-  📅 Tue, 05 May 2026 01:08:17 +0000
+- **[Async Rust never left the MVP state](https://tweedegolf.nl/en/blog/237/async-rust-never-left-the-mvp-state)**
+  *<p>Article URL: <a href="https://tweedegolf.nl/en/blog/237/async-rust-never-left-the-mvp-state">https://tweedegolf.nl/en/blog/237/async-rust-never-left-the-mvp-state</a></p>
+<p>Comments URL: <a href="...*
+  📅 Tue, 05 May 2026 07:26:03 +0000
 
-- **[Y Combinator's Stake in OpenAI (0.6%)](https://daringfireball.net/2026/05/y_combinators_stake_in_openai)**
-  *<p>Article URL: <a href="https://daringfireball.net/2026/05/y_combinators_stake_in_openai">https://daringfireball.net/2026/05/y_combinators_stake_in_openai</a></p>
-<p>Comments URL: <a href="https://ne...*
-  📅 Tue, 05 May 2026 00:09:01 +0000
+- **[Lessons for Agentic Coding: What should we do when code is cheap?](https://www.dbreunig.com/2026/05/04/10-lessons-for-agentic-coding.html)**
+  *<p>Article URL: <a href="https://www.dbreunig.com/2026/05/04/10-lessons-for-agentic-coding.html">https://www.dbreunig.com/2026/05/04/10-lessons-for-agentic-coding.html</a></p>
+<p>Comments URL: <a href...*
+  📅 Tue, 05 May 2026 07:05:25 +0000
 
-- **[SprintiQ – open-source sprint planning for Claude Code](https://github.com/SprintiQ-Incorporated/sprintiq)**
-  *<p>Article URL: <a href="https://github.com/SprintiQ-Incorporated/sprintiq">https://github.com/SprintiQ-Incorporated/sprintiq</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=480...*
-  📅 Mon, 04 May 2026 22:52:48 +0000
+- **[Kids bypass age verification with fake moustaches](https://www.theregister.com/2026/05/04/uk_online_safety_act_age_checks_subvert/)**
+  *<p>Article URL: <a href="https://www.theregister.com/2026/05/04/uk_online_safety_act_age_checks_subvert/">https://www.theregister.com/2026/05/04/uk_online_safety_act_age_checks_subvert/</a></p>
+<p>Com...*
+  📅 Tue, 05 May 2026 04:36:24 +0000
 
-- **[Agent Skills](https://addyosmani.com/blog/agent-skills/)**
-  *<p>Article URL: <a href="https://addyosmani.com/blog/agent-skills/">https://addyosmani.com/blog/agent-skills/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=48015397">https://n...*
-  📅 Mon, 04 May 2026 21:40:42 +0000
+- **[About 10% of AMC movie showings sell zero tickets. This site finds them](https://walzr.com/empty-screenings)**
+  *<p>Article URL: <a href="https://walzr.com/empty-screenings">https://walzr.com/empty-screenings</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=48018066">https://news.ycombinato...*
+  📅 Tue, 05 May 2026 04:33:22 +0000
 
-- **['Point of no return': New Orleans relocation must start now due to sea level](https://www.theguardian.com/us-news/2026/may/04/new-orleans-sea-levels-relocation-climate-crisis)**
-  *<p>Article URL: <a href="https://www.theguardian.com/us-news/2026/may/04/new-orleans-sea-levels-relocation-climate-crisis">https://www.theguardian.com/us-news/2026/may/04/new-orleans-sea-levels-reloca...*
-  📅 Mon, 04 May 2026 21:25:55 +0000
+- **[2-D Mathematical Curves](https://www.2dcurves.com/)**
+  *<p>Article URL: <a href="https://www.2dcurves.com/">https://www.2dcurves.com/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=48018034">https://news.ycombinator.com/item?id=4801...*
+  📅 Tue, 05 May 2026 04:27:32 +0000
 
-- **[Formatting a 25M-line codebase overnight](https://stripe.dev/blog/formatting-an-entire-25-million-line-codebase-overnight-the-rubyfmt-story)**
-  *<p>Article URL: <a href="https://stripe.dev/blog/formatting-an-entire-25-million-line-codebase-overnight-the-rubyfmt-story">https://stripe.dev/blog/formatting-an-entire-25-million-line-codebase-overni...*
-  📅 Mon, 04 May 2026 20:11:53 +0000
+- **[Train Your Own LLM from Scratch](https://github.com/angelos-p/llm-from-scratch)**
+  *<p>Article URL: <a href="https://github.com/angelos-p/llm-from-scratch">https://github.com/angelos-p/llm-from-scratch</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=48017948">h...*
+  📅 Tue, 05 May 2026 04:09:17 +0000
 
 ### 📑 TechCrunch
+
+- **[As workers worry about AI, Nvidia’s Jensen Huang says AI is ‘creating an enormous number of jobs’](https://techcrunch.com/2026/05/04/as-workers-worry-about-ai-nvidias-jensen-huang-says-ai-is-creating-an-enormous-number-of-jobs/)**
+  *The Nvidia CEO seems to feel that claims of AI's job-killing potential have been greatly exaggerated....*
+  📅 Tue, 05 May 2026 03:31:54 +0000
 
 - **[Geothermal startup Fervo Energy to raise up to $1.3B in IPO](https://techcrunch.com/2026/05/04/geothermal-startup-fervo-energy-to-raise-up-to-1-3b-in-ipo/)**
   *Enhanced geothermal startup Fervo Energy’s IPO could value the company at up to $6.5 billion....*
@@ -96,21 +102,23 @@
   *Katie Haun announced on Monday that $1 billion has been raised across new funds to continue the firm’s thesis of backing crypto and blockchain startups....*
   📅 Mon, 04 May 2026 19:12:15 +0000
 
-- **[Hackers are mass-exploiting the cPanel bug to gain control of thousands of websites](https://techcrunch.com/2026/05/04/hackers-are-still-exploiting-the-cpanel-bug-to-gain-control-of-thousands-of-websites/)**
-  *Days after the disclosure of a critical vulnerability in popular web hosting software cPanel and WHM, hackers are now targeting and hacking thousands of vulnerable websites....*
-  📅 Mon, 04 May 2026 18:02:18 +0000
-
 ### 📑 Dev.to
 
-- **[The History of Expanso (Part 6): Data Controls are a One-Way Street](https://dev.to/david_aronchick_ea415de50/the-history-of-expanso-part-6-data-controls-are-a-one-way-street-3j7c)**
-  *<p><em>The below is a continuation of the series on the history of Expanso. Today, we're talking about the third and final unchangeable law of data: the ever-tightening web of data controls. Read the ...*
-  📅 Tue, 05 May 2026 01:55:22 +0000
+- **[Building a Translation Pipeline for International Contract Bidding](https://dev.to/diogoheleno/building-a-translation-pipeline-for-international-contract-bidding-465j)**
+  *<h1>
+  
+  
+  Building a Translation Pipeline for International Contract Bidding
+</h1>
 
-- **[Codex /goal and OpenGUI: long-running tasks need state](https://dev.to/fenix_23505d14df386c00ced/codex-goal-and-opengui-long-running-tasks-need-state-1c61)**
-  *<p>Long-running agents tend to fail in the second half.</p>
+<p>If your company bids on international contracts, you've probably dealt with the translation bottleneck. Techni...*
+  📅 Tue, 05 May 2026 07:48:19 +0000
 
-<p>The first step is often fine. Fix a CI failure, open an app, tap a button, search for a keyword. Models can produce a reasonable first a...*
-  📅 Tue, 05 May 2026 01:55:19 +0000
+- **[Flutter Mobile Test Automation: The Complete Guide](https://dev.to/drizzdev/flutter-mobile-test-automation-the-complete-guide-37g3)**
+  *<p>"We picked Flutter because it promised one codebase for everything. But now we have three separate testing strategies, and none of them work well."</p>
+
+<p>That sentence keeps coming up in every co...*
+  📅 Tue, 05 May 2026 07:41:29 +0000
 
 </details>
 
@@ -118,103 +126,103 @@
 
 ### 📈 Daily Trending
 
-- **[testfully/agent-skills](https://github.com/testfully/agent-skills)** ⭐ 4
+- **[shouryan01/Nikon-Recipes](https://github.com/shouryan01/Nikon-Recipes)** ⭐ 24
   ![None](https://img.shields.io/badge/-None-lightgrey)
-  Testfully's official collection of agent skills
-
-- **[xileyyds/kedaya-bridge](https://github.com/xileyyds/kedaya-bridge)** ⭐ 3
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
   None
 
-- **[dinesh-git17/codex-pet-rate-rings](https://github.com/dinesh-git17/codex-pet-rate-rings)** ⭐ 3
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
-  A local Codex skill that wraps your desktop pet in live 5-hour and weekly rate-limit rings.
+- **[skydoves/compose-animations](https://github.com/skydoves/compose-animations)** ⭐ 12
+  ![Kotlin](https://img.shields.io/badge/-Kotlin-lightgrey)
+  ⚡️ A collection of Jetpack Compose animations for the best practices. Tweak literals at the top of any file, save, and watch the motion morph in real-time.
 
-- **[EDM115/java-y1](https://github.com/EDM115/java-y1)** ⭐ 2
-  ![Java](https://img.shields.io/badge/-Java-orange)
-  Some Java from my first year of CS
+- **[mphinance/alpha-skills](https://github.com/mphinance/alpha-skills)** ⭐ 5
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  AI-powered trading skills for Claude/Gemini agents. Backtesting, edge research, market analysis, strategy design, and more.
 
-- **[EDM115/java-y3](https://github.com/EDM115/java-y3)** ⭐ 2
-  ![Java](https://img.shields.io/badge/-Java-orange)
-  Some Java from my third year of CS
+- **[autogame-17/prism](https://github.com/autogame-17/prism)** ⭐ 5
+  ![Go](https://img.shields.io/badge/-Go-cyan)
+  Prism — a one-click desktop LLM gateway. Embeds 37 providers (OpenAI / Anthropic / Gemini / Bedrock / …) behind one OpenAI-compatible endpoint, with Cloudflare Tunnel built in. AGPL-3.0.
 
-- **[EDM115/sql-y2](https://github.com/EDM115/sql-y2)** ⭐ 2
-  ![PLSQL](https://img.shields.io/badge/-PLSQL-lightgrey)
-  Some SQL from my second year of CS
+- **[tsoding/raylib-sml](https://github.com/tsoding/raylib-sml)** ⭐ 5
+  ![C](https://img.shields.io/badge/-C-lightgrey)
+  Raylib Bindings for Moscow ML
 
-- **[EDM115/cpp-y2](https://github.com/EDM115/cpp-y2)** ⭐ 2
-  ![C++](https://img.shields.io/badge/-C++-pink)
-  Some C++ from my second year of CS
+- **[rdmsr/sectorllm](https://github.com/rdmsr/sectorllm)** ⭐ 4
+  ![Assembly](https://img.shields.io/badge/-Assembly-lightgrey)
+  The world's smallest llama2 inference engine
 
-- **[EDM115/sql-y1](https://github.com/EDM115/sql-y1)** ⭐ 2
-  ![None](https://img.shields.io/badge/-None-lightgrey)
-  Some SQL from my first year of CS
+- **[anthnykr/multi-codex-pets](https://github.com/anthnykr/multi-codex-pets)** ⭐ 4
+  ![Swift](https://img.shields.io/badge/-Swift-lightgrey)
+  None
+
+- **[phonopy/phonors](https://github.com/phonopy/phonors)** ⭐ 4
+  ![Rust](https://img.shields.io/badge/-Rust-brown)
+  A Python module implemented in Rust for Phonopy
 
 ### 📈 Weekly Trending
 
-- **[theori-io/copy-fail-CVE-2026-31431](https://github.com/theori-io/copy-fail-CVE-2026-31431)** ⭐ 3,171
+- **[theori-io/copy-fail-CVE-2026-31431](https://github.com/theori-io/copy-fail-CVE-2026-31431)** ⭐ 3,209
   ![Python](https://img.shields.io/badge/-Python-blue)
   Copy Fail (CVE-2026-31431): 9-year-old Linux kernel LPE found by Theori's Xint Code
 
-- **[willchen96/mike](https://github.com/willchen96/mike)** ⭐ 2,030
+- **[willchen96/mike](https://github.com/willchen96/mike)** ⭐ 2,066
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   OSS AI Legal Platform
 
-- **[darrylmorley/whatcable](https://github.com/darrylmorley/whatcable)** ⭐ 1,734
+- **[darrylmorley/whatcable](https://github.com/darrylmorley/whatcable)** ⭐ 1,765
   ![Swift](https://img.shields.io/badge/-Swift-lightgrey)
   macOS menu bar app that tells you, in plain English, what each USB-C cable plugged into your Mac can actually do
 
-- **[aattaran/deepclaude](https://github.com/aattaran/deepclaude)** ⭐ 1,046
+- **[aattaran/deepclaude](https://github.com/aattaran/deepclaude)** ⭐ 1,148
   ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
   Use Claude Code's autonomous agent loop with DeepSeek V4 Pro, OpenRouter, or any Anthropic-compatible backend. Same UX, 17x cheaper.
 
-- **[mattpocock/dictionary-of-ai-coding](https://github.com/mattpocock/dictionary-of-ai-coding)** ⭐ 972
+- **[mattpocock/dictionary-of-ai-coding](https://github.com/mattpocock/dictionary-of-ai-coding)** ⭐ 997
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   AI coding jargon, explained in plain English.
 
-- **[wrongly-cuddly-obsession/NTSB_FOIA_MU5735](https://github.com/wrongly-cuddly-obsession/NTSB_FOIA_MU5735)** ⭐ 888
+- **[wrongly-cuddly-obsession/NTSB_FOIA_MU5735](https://github.com/wrongly-cuddly-obsession/NTSB_FOIA_MU5735)** ⭐ 906
   ![None](https://img.shields.io/badge/-None-lightgrey)
   None
 
-- **[t8y2/dbx](https://github.com/t8y2/dbx)** ⭐ 847
+- **[t8y2/dbx](https://github.com/t8y2/dbx)** ⭐ 857
   ![Vue](https://img.shields.io/badge/-Vue-lightgrey)
   15MB，lightweight, cross-platform database client. Supports MySQL, PostgreSQL, SQLite, Redis, MongoDB, DuckDB, ClickHouse, SQL Server and more.
 
-- **[Fokkyp/SoftwareCopyright-Skill](https://github.com/Fokkyp/SoftwareCopyright-Skill)** ⭐ 695
+- **[Fokkyp/SoftwareCopyright-Skill](https://github.com/Fokkyp/SoftwareCopyright-Skill)** ⭐ 702
   ![Python](https://img.shields.io/badge/-Python-blue)
   中国软件著作权申请材料 生成器 Skills，本 Skills 通过阅读本地项目，自动生成全套 .docx 软著申请材料，全开源，无须再付费购买任何软著申请服务
 
 ### 📈 Monthly Trending
 
-- **[nexu-io/open-design](https://github.com/nexu-io/open-design)** ⭐ 24,167
+- **[nexu-io/open-design](https://github.com/nexu-io/open-design)** ⭐ 25,283
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   🎨 Local-first, open-source alternative to Anthropic's Claude Design. ⚡ 19 Skills · ✨ 71 brand-grade Design Systems 🖼 Generate web · desktop · mobile prototypes · slides · images · videos · HyperFrames 📦 Sandboxed preview · HTML/PDF/PPTX/MP4 export 🤖 Runs on Claude Code / Codex / Cursor / Gemini / OpenCode / Qwen / Copilot / Hermes / Kimi CLI.
 
-- **[EvoLinkAI/awesome-gpt-image-2-API-and-Prompts](https://github.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts)** ⭐ 12,092
+- **[EvoLinkAI/awesome-gpt-image-2-API-and-Prompts](https://github.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts)** ⭐ 12,185
   ![Python](https://img.shields.io/badge/-Python-blue)
   GPT-Image-2 API and Prompts
 
-- **[alchaincyf/huashu-design](https://github.com/alchaincyf/huashu-design)** ⭐ 11,850
+- **[alchaincyf/huashu-design](https://github.com/alchaincyf/huashu-design)** ⭐ 11,901
   ![HTML](https://img.shields.io/badge/-HTML-lightgrey)
   Huashu Design · HTML-native design skill for Claude Code · Claude Code 里 HTML 原生的设计 skill · 高保真原型 / 幻灯片 / 动画 + 20 设计哲学 + 5 维评审 + MP4 导出 · Agent-agnostic
 
-- **[kyegomez/OpenMythos](https://github.com/kyegomez/OpenMythos)** ⭐ 11,687
+- **[kyegomez/OpenMythos](https://github.com/kyegomez/OpenMythos)** ⭐ 11,719
   ![Python](https://img.shields.io/badge/-Python-blue)
   A theoretical reconstruction of the Claude Mythos architecture, built from first principles using the available research literature.
 
-- **[google-labs-code/design.md](https://github.com/google-labs-code/design.md)** ⭐ 11,543
+- **[google-labs-code/design.md](https://github.com/google-labs-code/design.md)** ⭐ 11,571
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   A format specification for describing a visual identity to coding agents. DESIGN.md gives agents a persistent, structured understanding of a design system.
 
-- **[browser-use/browser-harness](https://github.com/browser-use/browser-harness)** ⭐ 10,341
+- **[browser-use/browser-harness](https://github.com/browser-use/browser-harness)** ⭐ 10,436
   ![Python](https://img.shields.io/badge/-Python-blue)
   Browser Harness | Self-healing harness that enables LLMs to complete any task.
 
-- **[h4ckf0r0day/obscura](https://github.com/h4ckf0r0day/obscura)** ⭐ 10,106
+- **[h4ckf0r0day/obscura](https://github.com/h4ckf0r0day/obscura)** ⭐ 10,178
   ![Rust](https://img.shields.io/badge/-Rust-brown)
   The headless browser for AI agents and web scraping
 
-- **[KKKKhazix/khazix-skills](https://github.com/KKKKhazix/khazix-skills)** ⭐ 7,974
+- **[KKKKhazix/khazix-skills](https://github.com/KKKKhazix/khazix-skills)** ⭐ 8,003
   ![Python](https://img.shields.io/badge/-Python-blue)
   数字生命卡兹克开源的 AI Skills 合集
 
@@ -491,59 +499,59 @@ consolidated into a single option `MockModuleOpti...
 
 | Skill | Status |
 |-------|--------|
-| Java | 🔴 Beginner |
-| Python | 🟡 Learning |
+| Java | ⚪ Planned |
+| Python | ⚪ Planned |
 | JavaScript | 🟡 Learning |
-| TypeScript | 🟡 Learning |
-| Go | 🔴 Beginner |
+| TypeScript | 🔴 Beginner |
+| Go | ⚪ Planned |
 
 ### Frameworks
 
 | Skill | Status |
 |-------|--------|
-| React | 🔴 Beginner |
-| Spring Boot | 🟡 Learning |
-| Django | 🟡 Learning |
-| Node.js | 🟡 Learning |
-| Next.js | 🟢 Proficient |
+| React | ⚪ Planned |
+| Spring Boot | 🔴 Beginner |
+| Django | 🟢 Proficient |
+| Node.js | ⚪ Planned |
+| Next.js | 🔴 Beginner |
 
 ### Cybersecurity
 
 | Skill | Status |
 |-------|--------|
-| Penetration Testing | 🟡 Learning |
-| Web Security | 🟢 Proficient |
-| Network Security | 🔴 Beginner |
+| Penetration Testing | 🔴 Beginner |
+| Web Security | 🔴 Beginner |
+| Network Security | 🟡 Learning |
 | OWASP | 🟢 Proficient |
 
 ### Ai Ml
 
 | Skill | Status |
 |-------|--------|
-| Machine Learning | 🟢 Proficient |
+| Machine Learning | 🟡 Learning |
 | Deep Learning | 🟢 Proficient |
-| NLP | 🔴 Beginner |
-| Computer Vision | 🔴 Beginner |
-| TensorFlow | 🟡 Learning |
-| PyTorch | 🟢 Proficient |
+| NLP | 🟡 Learning |
+| Computer Vision | 🟡 Learning |
+| TensorFlow | 🟢 Proficient |
+| PyTorch | 🔴 Beginner |
 
 ### Devops
 
 | Skill | Status |
 |-------|--------|
-| Docker | 🟢 Proficient |
-| Kubernetes | 🟡 Learning |
-| CI/CD | ⚪ Planned |
-| AWS | 🟡 Learning |
-| Azure | 🟢 Proficient |
+| Docker | 🟡 Learning |
+| Kubernetes | 🟢 Proficient |
+| CI/CD | 🟢 Proficient |
+| AWS | ⚪ Planned |
+| Azure | 🔴 Beginner |
 
 ### Other
 
 | Skill | Status |
 |-------|--------|
 | Blockchain | 🟡 Learning |
-| Web3 | ⚪ Planned |
-| Cloud Computing | 🟢 Proficient |
+| Web3 | 🔴 Beginner |
+| Cloud Computing | 🟡 Learning |
 
 </details>
 
