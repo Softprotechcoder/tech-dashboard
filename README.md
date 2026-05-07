@@ -20,7 +20,7 @@
 | Metric | Count |
 |--------|-------|
 | 📰 Latest News Articles | 26 |
-| 🔥 Trending Repositories | 45 |
+| 🔥 Trending Repositories | 44 |
 | 🎯 Latest Releases | 10 |
 | 🎯 Learning Goals | 4 |
 
@@ -46,75 +46,77 @@
 
 ### 📑 Hacker News
 
-- **[GovernGPT (YC W24) Is Hiring Engineers to Build Thinking Systems in Montreal](https://www.ycombinator.com/companies/governgpt/jobs/hRyltS0-backend-engineer-thinking-systems)**
-  *<p>Article URL: <a href="https://www.ycombinator.com/companies/governgpt/jobs/hRyltS0-backend-engineer-thinking-systems">https://www.ycombinator.com/companies/governgpt/jobs/hRyltS0-backend-engineer-t...*
-  📅 Thu, 07 May 2026 12:01:13 +0000
+- **[AI Slop Is Killing Online Communities](https://rmoff.net/2026/05/06/ai-slop-is-killing-online-communities/)**
+  *<p>Article URL: <a href="https://rmoff.net/2026/05/06/ai-slop-is-killing-online-communities/">https://rmoff.net/2026/05/06/ai-slop-is-killing-online-communities/</a></p>
+<p>Comments URL: <a href="http...*
+  📅 Thu, 07 May 2026 18:46:25 +0000
 
-- **[Grand Theft Oil Futures: Insider traders keep making a killing at our expense](https://paulkrugman.substack.com/p/grand-theft-oil-futures)**
-  *<p>Article URL: <a href="https://paulkrugman.substack.com/p/grand-theft-oil-futures">https://paulkrugman.substack.com/p/grand-theft-oil-futures</a></p>
-<p>Comments URL: <a href="https://news.ycombinat...*
-  📅 Thu, 07 May 2026 11:10:24 +0000
+- **[Natural Language Autoencoders: Turning Claude's Thoughts into Text](https://www.anthropic.com/research/natural-language-autoencoders)**
+  *<p>Article URL: <a href="https://www.anthropic.com/research/natural-language-autoencoders">https://www.anthropic.com/research/natural-language-autoencoders</a></p>
+<p>Comments URL: <a href="https://ne...*
+  📅 Thu, 07 May 2026 17:54:02 +0000
 
-- **[LinkedIn profile visitor lists belong to the people, says Noyb](https://www.theregister.com/offbeat/2026/05/05/noyb-cries-foul-on-linkedin-withholding-profile-visitor-data/5225338)**
-  *<p>Article URL: <a href="https://www.theregister.com/offbeat/2026/05/05/noyb-cries-foul-on-linkedin-withholding-profile-visitor-data/5225338">https://www.theregister.com/offbeat/2026/05/05/noyb-cries-...*
-  📅 Thu, 07 May 2026 11:08:43 +0000
+- **[Brazil's Pix Payment System Faces Pressure from Visa and Mastercard](https://www.elciudadano.com/en/brazils-pix-payment-system-faces-pressure-from-visa-and-mastercard/04/04/)**
+  *<p>Article URL: <a href="https://www.elciudadano.com/en/brazils-pix-payment-system-faces-pressure-from-visa-and-mastercard/04/04/">https://www.elciudadano.com/en/brazils-pix-payment-system-faces-press...*
+  📅 Thu, 07 May 2026 17:42:58 +0000
 
-- **[Agent-harness-kit scaffolding for multi-agent workflows (MCP, provider-agnostic)](https://ahk.cardor.dev)**
-  *<p>Article URL: <a href="https://ahk.cardor.dev">https://ahk.cardor.dev</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=48047826">https://news.ycombinator.com/item?id=48047826</...*
-  📅 Thu, 07 May 2026 10:45:59 +0000
+- **[Principles for agent-native CLIs](https://twitter.com/trevin/status/2051316002730991795)**
+  *<p>Article URL: <a href="https://twitter.com/trevin/status/2051316002730991795">https://twitter.com/trevin/status/2051316002730991795</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/ite...*
+  📅 Thu, 07 May 2026 17:40:05 +0000
 
-- **[Making LLM Training Faster with Unsloth and NVIDIA](https://unsloth.ai/blog/nvidia-collab)**
-  *<p>Article URL: <a href="https://unsloth.ai/blog/nvidia-collab">https://unsloth.ai/blog/nvidia-collab</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=48046397">https://news.ycom...*
-  📅 Thu, 07 May 2026 07:15:11 +0000
+- **[Agents need control flow, not more prompts](https://bsuh.bearblog.dev/agents-need-control-flow/)**
+  *<p>Article URL: <a href="https://bsuh.bearblog.dev/agents-need-control-flow/">https://bsuh.bearblog.dev/agents-need-control-flow/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id...*
+  📅 Thu, 07 May 2026 16:43:35 +0000
 
-- **[Show HN: Agent-skills-eval – Test whether Agent Skills improve outputs](https://github.com/darkrishabh/agent-skills-eval)**
-  *<p>Article URL: <a href="https://github.com/darkrishabh/agent-skills-eval">https://github.com/darkrishabh/agent-skills-eval</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=48046...*
-  📅 Thu, 07 May 2026 06:12:25 +0000
+- **[Chrome removes claim of On-device Al not sending data to Google Servers](https://old.reddit.com/r/chrome/comments/1t5qayz/chrome_removes_claim_of_ondevice_al_not_sending/)**
+  *<p>Article URL: <a href="https://old.reddit.com/r/chrome/comments/1t5qayz/chrome_removes_claim_of_ondevice_al_not_sending/">https://old.reddit.com/r/chrome/comments/1t5qayz/chrome_removes_claim_of_ond...*
+  📅 Thu, 07 May 2026 15:56:33 +0000
 
 ### 📑 TechCrunch
 
-- **[Spotify’s AI DJ now supports French, German, Italian and Brazilian Portuguese](https://techcrunch.com/2026/05/07/spotifys-ai-dj-now-supports-french-german-italian-and-brazilian-portuguese/)**
-  *Spotify's AI DJ feature now supports French, German, Italian, and Brazilian Portuguese....*
-  📅 Thu, 07 May 2026 12:20:04 +0000
+- **[Elon Musk’s lawsuit is putting OpenAI’s safety record under the microscope](https://techcrunch.com/2026/05/07/elon-musks-lawsuit-is-putting-openais-safety-record-under-the-microscope/)**
+  *Can Sam Altman—or any CEO—be trusted with super intelligence?...*
+  📅 Thu, 07 May 2026 19:21:21 +0000
 
-- **[Five architects of the AI economy explain where the wheels are coming off](https://techcrunch.com/2026/05/06/five-architects-of-the-ai-economy-explain-where-the-wheels-are-coming-off/)**
-  *Earlier this week, five people who touch every layer of the AI supply chain sat down at the Milken Global Conference in Beverly Hills, where they talked with TechCrunch about everything from chip shor...*
-  📅 Thu, 07 May 2026 05:25:10 +0000
+- **[Bumble is getting rid of the swipe, CEO says](https://techcrunch.com/2026/05/07/bumble-is-getting-rid-of-the-swipe-ceo-says/)**
+  *"We are going to be saying goodbye to the swipe," CEO Whitney Wolfe Herd said....*
+  📅 Thu, 07 May 2026 19:06:17 +0000
 
-- **[A 20-minute pitch wins Indian startup Pronto backing from Lachy Groom](https://techcrunch.com/2026/05/06/a-20-minute-pitch-wins-indian-startup-pronto-backing-from-lachy-groom/)**
-  *The investment comes as Pronto scales to 26,000 daily bookings and the market heads toward a potential $18 billion size....*
-  📅 Wed, 06 May 2026 22:30:00 +0000
+- **[Tome, another Goodreads book-tracker rival, shuts down](https://techcrunch.com/2026/05/07/tome-another-goodreads-booktracker-rival-shuts-down/)**
+  *Built on the back of the sizable and influential BookTok community -- creators who discuss and review books on TikTok -- the app offered readers a place to chronicle and rate their books, get recommen...*
+  📅 Thu, 07 May 2026 18:38:58 +0000
 
-- **[Barry Diller trusts Sam Altman. But ‘trust is irrelevant’ as AGI nears, he says.](https://techcrunch.com/2026/05/06/barry-diller-trusts-sam-altman-but-trust-is-irrelevant-as-agi-nears-he-says/)**
-  *Barry Diller defended OpenAI CEO Sam Altman, while warning that AGI remains an unpredictable force needing guardrails....*
-  📅 Wed, 06 May 2026 21:57:56 +0000
+- **[Could Lovable’s automatic 10% pay raise be the cure for toxic cultures?](https://techcrunch.com/2026/05/07/could-lovables-automatic-10-pay-raise-be-the-cure-for-toxic-cultures/)**
+  *Stockholm-based vibe-coding platform Lovable is offering employees an automatic 10% raise as a way to sidestep classic corporate politics....*
+  📅 Thu, 07 May 2026 18:36:29 +0000
 
-- **[Snap says its $400M deal with Perplexity ‘amicably ended’](https://techcrunch.com/2026/05/06/snap-says-its-400m-deal-with-perplexity-amicably-ended/)**
-  *The deal, announced last November, would have seen Perplexity's AI search engine integrated directly into Snapchat....*
-  📅 Wed, 06 May 2026 21:43:24 +0000
+- **[Hackers hack victims hacked by other hackers](https://techcrunch.com/2026/05/07/hackers-hack-victims-hacked-by-other-hackers/)**
+  *An unknown group of hackers is breaking into systems previously breached by the cybercrime group TeamPCP. Once inside, the hackers immediately kick out TeamPCP and remove its hacking tools from the vi...*
+  📅 Thu, 07 May 2026 18:28:52 +0000
 
-- **[Is xAI a neocloud now?](https://techcrunch.com/2026/05/06/is-xai-a-neocloud-now/)**
-  *xAI's real business may be more about building data centers than training AI models....*
-  📅 Wed, 06 May 2026 21:32:55 +0000
+- **[Kalshi doubles valuation in 5 months, hitting $22B](https://techcrunch.com/2026/05/07/kalshi-doubles-valuation-in-5-months-hitting-22-billion/)**
+  *Prediction market startup Kalshi has raised a $1 billion Series F round led by Coatue....*
+  📅 Thu, 07 May 2026 18:02:59 +0000
 
 ### 📑 Dev.to
 
-- **[What a WordPress Specialist Should Bring Beyond Installing Plugins](https://dev.to/elliemiguel/what-a-wordpress-specialist-should-bring-beyond-installing-plugins-2fgh)**
-  *<p>I've inherited sites that "worked" for months and then stopped bringing leads overnight. That moment — when a site stops being a passive asset and becomes a business risk — is where a real speciali...*
-  📅 Thu, 07 May 2026 13:22:00 +0000
+- **[I built something I think more developers should be using](https://dev.to/the-missing-pink/i-built-something-i-think-more-developers-should-be-using-f7a)**
+  *<p>I don't post often. But this one matters to me.</p>
 
-- **[The Smart Way to Share State —Master useContext in React](https://dev.to/kathirvel-s/the-smart-way-to-share-state-master-usecontext-in-react-3ehe)**
-  *<h2>
+<p>Yesterday I attended a presentation by Rob van der Veer (Chief AI Officer at SIG, founder of the OWASP AI Exchange), and it pushed me to fina...*
+  📅 Thu, 07 May 2026 19:18:05 +0000
+
+- **[ayat saadati — Complete Guide](https://dev.to/sahand1987/ayat-saadati-complete-guide-232l)**
+  *<h1>
   
   
-  The Prop Drilling Problem Every React Developer Hits
-</h2>
+  AyatUtils: Your Go-To Python Toolkit
+</h1>
 
-<p>Welcome back to <strong>Let’s Master React Hooks Together</strong> — the series where we learn React Hooks the practical way...*
-  📅 Thu, 07 May 2026 13:20:40 +0000
+<p>Alright, let's talk about AyatUtils. If you've ever found yourself writing the same helper functions over and over again across different pr...*
+  📅 Thu, 07 May 2026 19:10:36 +0000
 
 </details>
 
@@ -126,99 +128,99 @@
   ![Python](https://img.shields.io/badge/-Python-blue)
   ethereum wallet recovery password multithread tool, baked from pyethrecover and pyethereum, for using keystore v3 json file to help recover your lost password if you know some phrases using both brute and wordlist technique, start + end words, whole ascii or just numbers
 
-- **[SXai-lab/prediction-market-arbitrage](https://github.com/SXai-lab/prediction-market-arbitrage)** ⭐ 121
+- **[SXai-lab/prediction-market-arbitrage](https://github.com/SXai-lab/prediction-market-arbitrage)** ⭐ 137
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   Polymarket套利交易机器人 Polymarket套利机器人 机器人 arbitrage trading bot polymarket arbitrage bot Polymarket套利交易机器人 Polymarket套利机器人 机器人 arbitrage trading bot polymarket arbitrage bot Polymarket套利交易机器人 Polymarket套利机器人 机器人 arbitrage trading bot polymarket arbitrage bot Polymarket套利交易机器人 Polymarket套利机器人 机器人 arbitrage trading bot polymarket arbitrage bot Polymarket
 
-- **[SXai-lab/prediction-market-copytrade](https://github.com/SXai-lab/prediction-market-copytrade)** ⭐ 120
+- **[SXai-lab/prediction-market-copytrade](https://github.com/SXai-lab/prediction-market-copytrade)** ⭐ 136
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   Polymarket copy trade Polymarket跟单交易 Polymarket copytrading bot  Polymarket跟单交易机器人 Copytrading Polymarket  Polymarket跟单交易 Polymarket copy trade Polymarket跟单交易 Polymarket copytrading bot  Polymarket跟单交易机器人 Copytrading Polymarket  Polymarket跟单交易 Polymarket copy trade Polymarket跟单交易 Polymarket copytrading bot  Polymarket跟单交易机器人 Copytrading Polymarket 
 
-- **[JeanDupuis68/polymarket-arbitrage](https://github.com/JeanDupuis68/polymarket-arbitrage)** ⭐ 102
+- **[JeanDupuis68/polymarket-arbitrage](https://github.com/JeanDupuis68/polymarket-arbitrage)** ⭐ 124
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   💊Polymarket arbitrage trading bot Polymarket arbitrage bot polymarket bot Polymarket arbitrage trading bot Polymarket arbitrage bot polymarket bot Polymarket arbitrage trading bot Polymarket arbitrage bot polymarket bot Polymarket arbitrage trading bot Polymarket arbitrage bot polymarket bot Polymarket arbitrage trading bot Polymarket arbitrage bo
 
-- **[JeanDupuis68/polymarket-copytrade](https://github.com/JeanDupuis68/polymarket-copytrade)** ⭐ 102
+- **[JeanDupuis68/polymarket-copytrade](https://github.com/JeanDupuis68/polymarket-copytrade)** ⭐ 123
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   🌿polymarket copy trade polymarket copytrading bot copytrading polymarket polymarket copy trade polymarket copytrading bot copytrading polymarket polymarket copy trade polymarket copytrading bot copytrading polymarket polymarket copy trade polymarket copytrading bot copytrading polymarket polymarket copy trade polymarket copytrading bot copytrading
 
-- **[iam567/LifeManga](https://github.com/iam567/LifeManga)** ⭐ 49
+- **[iam567/LifeManga](https://github.com/iam567/LifeManga)** ⭐ 118
   ![Swift](https://img.shields.io/badge/-Swift-lightgrey)
   ios swift swiftui openai gpt-image manga ai-art
 
-- **[NordenGof/Norder-Here](https://github.com/NordenGof/Norder-Here)** ⭐ 49
-  ![None](https://img.shields.io/badge/-None-lightgrey)
-  None
+- **[wojtczyk/trust](https://github.com/wojtczyk/trust)** ⭐ 67
+  ![Rust](https://img.shields.io/badge/-Rust-brown)
+  TRUST – Coding Rust like it's 1989
 
-- **[BertecKol/Bertex-Here](https://github.com/BertecKol/Bertex-Here)** ⭐ 47
-  ![None](https://img.shields.io/badge/-None-lightgrey)
-  None
+- **[blcktuzinLab/ton-sniper-bot](https://github.com/blcktuzinLab/ton-sniper-bot)** ⭐ 40
+  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
+  open-source TON Sniper Bot. Zero-delay token sniping on STON.fi & DeDust with Telegram/Twitter social sniper. Non-custodial
 
 ### 📈 Weekly Trending
 
-- **[darrylmorley/whatcable](https://github.com/darrylmorley/whatcable)** ⭐ 2,086
+- **[darrylmorley/whatcable](https://github.com/darrylmorley/whatcable)** ⭐ 2,096
   ![Swift](https://img.shields.io/badge/-Swift-lightgrey)
   macOS menu bar app that tells you, in plain English, what each USB-C cable plugged into your Mac can actually do
 
-- **[aattaran/deepclaude](https://github.com/aattaran/deepclaude)** ⭐ 1,542
+- **[aattaran/deepclaude](https://github.com/aattaran/deepclaude)** ⭐ 1,572
   ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
   Use Claude Code's autonomous agent loop with DeepSeek V4 Pro, OpenRouter, or any Anthropic-compatible backend. Same UX, 17x cheaper.
 
-- **[mattpocock/dictionary-of-ai-coding](https://github.com/mattpocock/dictionary-of-ai-coding)** ⭐ 1,192
+- **[mattpocock/dictionary-of-ai-coding](https://github.com/mattpocock/dictionary-of-ai-coding)** ⭐ 1,209
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   AI coding jargon, explained in plain English.
 
-- **[XBuilderLAB/cheat-on-content](https://github.com/XBuilderLAB/cheat-on-content)** ⭐ 911
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  Content is already a cheat-code race—whoever cracks the patterns first wins the traffic. Your auto-evolving ops expert that learns YOUR account, not the global average. The Claude Code workflow behind 1M followers in 1 month.
-
-- **[crafter-station/petdex](https://github.com/crafter-station/petdex)** ⭐ 908
-  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
-  Public gallery of animated Codex pets
-
-- **[yaojingang/yao-open-prompts](https://github.com/yaojingang/yao-open-prompts)** ⭐ 890
+- **[yaojingang/yao-open-prompts](https://github.com/yaojingang/yao-open-prompts)** ⭐ 1,069
   ![Python](https://img.shields.io/badge/-Python-blue)
   Yao Open Prompts：中文 AI 提示词库，覆盖工作、学习、内容、营销和生活场景
 
-- **[vibeforge1111/keep-codex-fast](https://github.com/vibeforge1111/keep-codex-fast)** ⭐ 844
+- **[XBuilderLAB/cheat-on-content](https://github.com/XBuilderLAB/cheat-on-content)** ⭐ 989
   ![Python](https://img.shields.io/badge/-Python-blue)
-  A backup-first Codex skill for keeping local Codex state fast, clean, and recoverable.
+  Content is already a cheat-code race—whoever cracks the patterns first wins the traffic. Your auto-evolving ops expert that learns YOUR account, not the global average. The Claude Code workflow behind 1M followers in 1 month.
 
-- **[jherrodthomas/automotive-skills-suite](https://github.com/jherrodthomas/automotive-skills-suite)** ⭐ 834
+- **[crafter-station/petdex](https://github.com/crafter-station/petdex)** ⭐ 946
+  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
+  Public gallery of animated Codex pets
+
+- **[jherrodthomas/automotive-skills-suite](https://github.com/jherrodthomas/automotive-skills-suite)** ⭐ 893
   ![None](https://img.shields.io/badge/-None-lightgrey)
   100+ installable Claude skills covering Engineering areas such as, ISO 26262 functional safety, ISO/SAE 21434 cybersecurity, ISO 21448 SOTIF, AIAG-VDA quality (APQP/PPAP/FMEA), Automotive SPICE, and continuous improvement tools — every builder paired with a confirmation reviewer.
 
+- **[strukto-ai/mirage](https://github.com/strukto-ai/mirage)** ⭐ 874
+  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
+  A Unified Virtual Filesystem For AI Agents
+
 ### 📈 Monthly Trending
 
-- **[nexu-io/open-design](https://github.com/nexu-io/open-design)** ⭐ 31,600
+- **[nexu-io/open-design](https://github.com/nexu-io/open-design)** ⭐ 32,013
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   🎨 Local-first, open-source alternative to Anthropic's Claude Design. ⚡ 19 Skills · ✨ 71 brand-grade Design Systems 🖼 Generate web · desktop · mobile prototypes · slides · images · videos · HyperFrames 📦 Sandboxed preview · HTML/PDF/PPTX/MP4 export 🤖 Runs on Claude Code / Codex / Cursor / Gemini / OpenCode / Qwen / Copilot / Hermes / Kimi CLI.
 
-- **[EvoLinkAI/awesome-gpt-image-2-API-and-Prompts](https://github.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts)** ⭐ 12,804
+- **[EvoLinkAI/awesome-gpt-image-2-API-and-Prompts](https://github.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts)** ⭐ 12,921
   ![Python](https://img.shields.io/badge/-Python-blue)
   GPT-Image-2 API and Prompts
 
-- **[alchaincyf/huashu-design](https://github.com/alchaincyf/huashu-design)** ⭐ 12,465
+- **[alchaincyf/huashu-design](https://github.com/alchaincyf/huashu-design)** ⭐ 12,501
   ![HTML](https://img.shields.io/badge/-HTML-lightgrey)
   Huashu Design · HTML-native design skill for Claude Code · Claude Code 里 HTML 原生的设计 skill · 高保真原型 / 幻灯片 / 动画 + 20 设计哲学 + 5 维评审 + MP4 导出 · Agent-agnostic
 
-- **[kyegomez/OpenMythos](https://github.com/kyegomez/OpenMythos)** ⭐ 12,179
+- **[kyegomez/OpenMythos](https://github.com/kyegomez/OpenMythos)** ⭐ 12,206
   ![Python](https://img.shields.io/badge/-Python-blue)
   A theoretical reconstruction of the Claude Mythos architecture, built from first principles using the available research literature.
 
-- **[google-labs-code/design.md](https://github.com/google-labs-code/design.md)** ⭐ 11,971
+- **[google-labs-code/design.md](https://github.com/google-labs-code/design.md)** ⭐ 12,012
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   A format specification for describing a visual identity to coding agents. DESIGN.md gives agents a persistent, structured understanding of a design system.
 
-- **[browser-use/browser-harness](https://github.com/browser-use/browser-harness)** ⭐ 11,313
+- **[browser-use/browser-harness](https://github.com/browser-use/browser-harness)** ⭐ 11,376
   ![Python](https://img.shields.io/badge/-Python-blue)
   Browser Harness | Self-healing harness that enables LLMs to complete any task.
 
-- **[h4ckf0r0day/obscura](https://github.com/h4ckf0r0day/obscura)** ⭐ 10,818
+- **[h4ckf0r0day/obscura](https://github.com/h4ckf0r0day/obscura)** ⭐ 10,876
   ![Rust](https://img.shields.io/badge/-Rust-brown)
   The headless browser for AI agents and web scraping
 
-- **[browser-use/video-use](https://github.com/browser-use/video-use)** ⭐ 6,722
+- **[browser-use/video-use](https://github.com/browser-use/video-use)** ⭐ 6,783
   ![Python](https://img.shields.io/badge/-Python-blue)
   Edit videos with coding agents
 
@@ -495,21 +497,21 @@ The API i...
 
 | Skill | Status |
 |-------|--------|
-| Java | ⚪ Planned |
+| Java | 🟡 Learning |
 | Python | 🟢 Proficient |
-| JavaScript | 🟢 Proficient |
+| JavaScript | ⚪ Planned |
 | TypeScript | 🟡 Learning |
-| Go | 🔴 Beginner |
+| Go | ⚪ Planned |
 
 ### Frameworks
 
 | Skill | Status |
 |-------|--------|
-| React | 🔴 Beginner |
-| Spring Boot | ⚪ Planned |
-| Django | 🟢 Proficient |
+| React | 🟡 Learning |
+| Spring Boot | 🟢 Proficient |
+| Django | 🟡 Learning |
 | Node.js | ⚪ Planned |
-| Next.js | ⚪ Planned |
+| Next.js | 🟢 Proficient |
 
 ### Cybersecurity
 
@@ -524,12 +526,12 @@ The API i...
 
 | Skill | Status |
 |-------|--------|
-| Machine Learning | 🟢 Proficient |
-| Deep Learning | 🔴 Beginner |
+| Machine Learning | ⚪ Planned |
+| Deep Learning | 🟡 Learning |
 | NLP | 🟡 Learning |
-| Computer Vision | 🟢 Proficient |
-| TensorFlow | 🔴 Beginner |
-| PyTorch | 🟡 Learning |
+| Computer Vision | 🔴 Beginner |
+| TensorFlow | 🟡 Learning |
+| PyTorch | 🔴 Beginner |
 
 ### Devops
 
@@ -537,17 +539,17 @@ The API i...
 |-------|--------|
 | Docker | 🔴 Beginner |
 | Kubernetes | 🟡 Learning |
-| CI/CD | 🔴 Beginner |
-| AWS | 🟡 Learning |
-| Azure | 🟢 Proficient |
+| CI/CD | 🟡 Learning |
+| AWS | 🔴 Beginner |
+| Azure | ⚪ Planned |
 
 ### Other
 
 | Skill | Status |
 |-------|--------|
 | Blockchain | 🔴 Beginner |
-| Web3 | ⚪ Planned |
-| Cloud Computing | ⚪ Planned |
+| Web3 | 🟡 Learning |
+| Cloud Computing | 🟢 Proficient |
 
 </details>
 
