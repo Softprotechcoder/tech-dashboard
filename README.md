@@ -46,37 +46,39 @@
 
 ### 📑 Hacker News
 
+- **[GovernGPT (YC W24) Is Hiring Engineers to Build Thinking Systems in Montreal](https://www.ycombinator.com/companies/governgpt/jobs/hRyltS0-backend-engineer-thinking-systems)**
+  *<p>Article URL: <a href="https://www.ycombinator.com/companies/governgpt/jobs/hRyltS0-backend-engineer-thinking-systems">https://www.ycombinator.com/companies/governgpt/jobs/hRyltS0-backend-engineer-t...*
+  📅 Thu, 07 May 2026 12:01:13 +0000
+
+- **[Grand Theft Oil Futures: Insider traders keep making a killing at our expense](https://paulkrugman.substack.com/p/grand-theft-oil-futures)**
+  *<p>Article URL: <a href="https://paulkrugman.substack.com/p/grand-theft-oil-futures">https://paulkrugman.substack.com/p/grand-theft-oil-futures</a></p>
+<p>Comments URL: <a href="https://news.ycombinat...*
+  📅 Thu, 07 May 2026 11:10:24 +0000
+
+- **[LinkedIn profile visitor lists belong to the people, says Noyb](https://www.theregister.com/offbeat/2026/05/05/noyb-cries-foul-on-linkedin-withholding-profile-visitor-data/5225338)**
+  *<p>Article URL: <a href="https://www.theregister.com/offbeat/2026/05/05/noyb-cries-foul-on-linkedin-withholding-profile-visitor-data/5225338">https://www.theregister.com/offbeat/2026/05/05/noyb-cries-...*
+  📅 Thu, 07 May 2026 11:08:43 +0000
+
+- **[Agent-harness-kit scaffolding for multi-agent workflows (MCP, provider-agnostic)](https://ahk.cardor.dev)**
+  *<p>Article URL: <a href="https://ahk.cardor.dev">https://ahk.cardor.dev</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=48047826">https://news.ycombinator.com/item?id=48047826</...*
+  📅 Thu, 07 May 2026 10:45:59 +0000
+
+- **[Making LLM Training Faster with Unsloth and NVIDIA](https://unsloth.ai/blog/nvidia-collab)**
+  *<p>Article URL: <a href="https://unsloth.ai/blog/nvidia-collab">https://unsloth.ai/blog/nvidia-collab</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=48046397">https://news.ycom...*
+  📅 Thu, 07 May 2026 07:15:11 +0000
+
 - **[Show HN: Agent-skills-eval – Test whether Agent Skills improve outputs](https://github.com/darkrishabh/agent-skills-eval)**
   *<p>Article URL: <a href="https://github.com/darkrishabh/agent-skills-eval">https://github.com/darkrishabh/agent-skills-eval</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=48046...*
   📅 Thu, 07 May 2026 06:12:25 +0000
 
-- **[Building the TD4 4-Bit CPU](https://jayakody2000lk.blogspot.com/2026/05/building-td4-4-bit-cpu.html)**
-  *<p>Article URL: <a href="https://jayakody2000lk.blogspot.com/2026/05/building-td4-4-bit-cpu.html">https://jayakody2000lk.blogspot.com/2026/05/building-td4-4-bit-cpu.html</a></p>
-<p>Comments URL: <a hr...*
-  📅 Thu, 07 May 2026 04:25:43 +0000
-
-- **[ProgramBench: Can Language Models Rebuild Programs from Scratch?](https://arxiv.org/abs/2605.03546)**
-  *<p>Article URL: <a href="https://arxiv.org/abs/2605.03546">https://arxiv.org/abs/2605.03546</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=48045174">https://news.ycombinator.co...*
-  📅 Thu, 07 May 2026 03:46:15 +0000
-
-- **[Diskless Linux boot using ZFS, iSCSI and PXE](https://aniket.foo/posts/20260505-netboot/)**
-  *<p>Article URL: <a href="https://aniket.foo/posts/20260505-netboot/">https://aniket.foo/posts/20260505-netboot/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=48045012">https:/...*
-  📅 Thu, 07 May 2026 03:13:24 +0000
-
-- **[Permacomputing Principles](https://permacomputing.net/principles/)**
-  *<p>Article URL: <a href="https://permacomputing.net/principles/">https://permacomputing.net/principles/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=48044638">https://news.yc...*
-  📅 Thu, 07 May 2026 02:18:23 +0000
-
-- **[The Vatican's Website in Latin](https://www.vatican.va/latin/latin_index.html)**
-  *<p>Article URL: <a href="https://www.vatican.va/latin/latin_index.html">https://www.vatican.va/latin/latin_index.html</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=48044311">h...*
-  📅 Thu, 07 May 2026 01:26:03 +0000
-
 ### 📑 TechCrunch
+
+- **[Spotify’s AI DJ now supports French, German, Italian and Brazilian Portuguese](https://techcrunch.com/2026/05/07/spotifys-ai-dj-now-supports-french-german-italian-and-brazilian-portuguese/)**
+  *Spotify's AI DJ feature now supports French, German, Italian, and Brazilian Portuguese....*
+  📅 Thu, 07 May 2026 12:20:04 +0000
 
 - **[Five architects of the AI economy explain where the wheels are coming off](https://techcrunch.com/2026/05/06/five-architects-of-the-ai-economy-explain-where-the-wheels-are-coming-off/)**
   *Earlier this week, five people who touch every layer of the AI supply chain sat down at the Milken Global Conference in Beverly Hills, where they talked with TechCrunch about everything from chip shor...*
@@ -98,34 +100,21 @@
   *xAI's real business may be more about building data centers than training AI models....*
   📅 Wed, 06 May 2026 21:32:55 +0000
 
-- **[Insurance startup Corgi hits $1.3B valuation 4 months after its Series A](https://techcrunch.com/2026/05/06/insurance-startup-corgi-hits-1-3b-valuation-4-months-after-its-series-a/)**
-  *Corgi announced on Wednesday a $160 million Series B, led by TCV, valuing the startup at $1.3 billion....*
-  📅 Wed, 06 May 2026 20:39:16 +0000
-
 ### 📑 Dev.to
 
-- **[Building Safety-Critical APIs: A Guide to Linear Types and Austral Implementation](https://dev.to/fullagenticstack/building-safety-critical-apis-a-guide-to-linear-types-and-austral-implementation-3bcm)**
+- **[What a WordPress Specialist Should Bring Beyond Installing Plugins](https://dev.to/elliemiguel/what-a-wordpress-specialist-should-bring-beyond-installing-plugins-2fgh)**
+  *<p>I've inherited sites that "worked" for months and then stopped bringing leads overnight. That moment — when a site stops being a passive asset and becomes a business risk — is where a real speciali...*
+  📅 Thu, 07 May 2026 13:22:00 +0000
+
+- **[The Smart Way to Share State —Master useContext in React](https://dev.to/kathirvel-s/the-smart-way-to-share-state-master-usecontext-in-react-3ehe)**
   *<h2>
   
   
-  1. Introduction to the Linear Paradigm in API Design
+  The Prop Drilling Problem Every React Developer Hits
 </h2>
 
-<p>In the design of safety-critical systems, the management of resource lifecycles represents the primary vector for catastroph...*
-  📅 Thu, 07 May 2026 08:14:35 +0000
-
-- **[Building a Real-Time Amazon Sales Tracker with Scraper API: Complete Python Guide](https://dev.to/loopsthings/building-a-real-time-amazon-sales-tracker-with-scraper-api-complete-python-guide-519j)**
-  *<h2>
-  
-  
-  TL;DR
-</h2>
-
-<p>Amazon doesn't expose sales data via any official API. Every "sales tracker tool" estimates from BSR (Best Seller Rank) signals. This tutorial shows you how to:</p>
-
-<ol>
-...*
-  📅 Thu, 07 May 2026 08:10:42 +0000
+<p>Welcome back to <strong>Let’s Master React Hooks Together</strong> — the series where we learn React Hooks the practical way...*
+  📅 Thu, 07 May 2026 13:20:40 +0000
 
 </details>
 
@@ -133,103 +122,103 @@
 
 ### 📈 Daily Trending
 
-- **[NamKhoa-07/wallet-recovery-seed](https://github.com/NamKhoa-07/wallet-recovery-seed)** ⭐ 199
+- **[NamKhoa-07/wallet-recovery-seed](https://github.com/NamKhoa-07/wallet-recovery-seed)** ⭐ 363
   ![Python](https://img.shields.io/badge/-Python-blue)
   ethereum wallet recovery password multithread tool, baked from pyethrecover and pyethereum, for using keystore v3 json file to help recover your lost password if you know some phrases using both brute and wordlist technique, start + end words, whole ascii or just numbers
+
+- **[SXai-lab/prediction-market-arbitrage](https://github.com/SXai-lab/prediction-market-arbitrage)** ⭐ 121
+  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
+  Polymarket套利交易机器人 Polymarket套利机器人 机器人 arbitrage trading bot polymarket arbitrage bot Polymarket套利交易机器人 Polymarket套利机器人 机器人 arbitrage trading bot polymarket arbitrage bot Polymarket套利交易机器人 Polymarket套利机器人 机器人 arbitrage trading bot polymarket arbitrage bot Polymarket套利交易机器人 Polymarket套利机器人 机器人 arbitrage trading bot polymarket arbitrage bot Polymarket
+
+- **[SXai-lab/prediction-market-copytrade](https://github.com/SXai-lab/prediction-market-copytrade)** ⭐ 120
+  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
+  Polymarket copy trade Polymarket跟单交易 Polymarket copytrading bot  Polymarket跟单交易机器人 Copytrading Polymarket  Polymarket跟单交易 Polymarket copy trade Polymarket跟单交易 Polymarket copytrading bot  Polymarket跟单交易机器人 Copytrading Polymarket  Polymarket跟单交易 Polymarket copy trade Polymarket跟单交易 Polymarket copytrading bot  Polymarket跟单交易机器人 Copytrading Polymarket 
+
+- **[JeanDupuis68/polymarket-arbitrage](https://github.com/JeanDupuis68/polymarket-arbitrage)** ⭐ 102
+  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
+  💊Polymarket arbitrage trading bot Polymarket arbitrage bot polymarket bot Polymarket arbitrage trading bot Polymarket arbitrage bot polymarket bot Polymarket arbitrage trading bot Polymarket arbitrage bot polymarket bot Polymarket arbitrage trading bot Polymarket arbitrage bot polymarket bot Polymarket arbitrage trading bot Polymarket arbitrage bo
+
+- **[JeanDupuis68/polymarket-copytrade](https://github.com/JeanDupuis68/polymarket-copytrade)** ⭐ 102
+  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
+  🌿polymarket copy trade polymarket copytrading bot copytrading polymarket polymarket copy trade polymarket copytrading bot copytrading polymarket polymarket copy trade polymarket copytrading bot copytrading polymarket polymarket copy trade polymarket copytrading bot copytrading polymarket polymarket copy trade polymarket copytrading bot copytrading
+
+- **[iam567/LifeManga](https://github.com/iam567/LifeManga)** ⭐ 49
+  ![Swift](https://img.shields.io/badge/-Swift-lightgrey)
+  ios swift swiftui openai gpt-image manga ai-art
+
+- **[NordenGof/Norder-Here](https://github.com/NordenGof/Norder-Here)** ⭐ 49
+  ![None](https://img.shields.io/badge/-None-lightgrey)
+  None
 
 - **[BertecKol/Bertex-Here](https://github.com/BertecKol/Bertex-Here)** ⭐ 47
   ![None](https://img.shields.io/badge/-None-lightgrey)
   None
 
-- **[SXai-lab/prediction-market-arbitrage](https://github.com/SXai-lab/prediction-market-arbitrage)** ⭐ 43
-  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
-  Polymarket套利交易机器人 Polymarket套利机器人 机器人 arbitrage trading bot polymarket arbitrage bot Polymarket套利交易机器人 Polymarket套利机器人 机器人 arbitrage trading bot polymarket arbitrage bot Polymarket套利交易机器人 Polymarket套利机器人 机器人 arbitrage trading bot polymarket arbitrage bot Polymarket套利交易机器人 Polymarket套利机器人 机器人 arbitrage trading bot polymarket arbitrage bot Polymarket
-
-- **[SXai-lab/prediction-market-copytrade](https://github.com/SXai-lab/prediction-market-copytrade)** ⭐ 42
-  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
-  Polymarket copy trade Polymarket跟单交易 Polymarket copytrading bot  Polymarket跟单交易机器人 Copytrading Polymarket  Polymarket跟单交易 Polymarket copy trade Polymarket跟单交易 Polymarket copytrading bot  Polymarket跟单交易机器人 Copytrading Polymarket  Polymarket跟单交易 Polymarket copy trade Polymarket跟单交易 Polymarket copytrading bot  Polymarket跟单交易机器人 Copytrading Polymarket 
-
-- **[1TDSPO-26/front-1sem-aula-07](https://github.com/1TDSPO-26/front-1sem-aula-07)** ⭐ 21
-  ![HTML](https://img.shields.io/badge/-HTML-lightgrey)
-  None
-
-- **[Mutual-Luo/Awesome-Sparse-Attention-Video-Diffusion](https://github.com/Mutual-Luo/Awesome-Sparse-Attention-Video-Diffusion)** ⭐ 18
-  ![None](https://img.shields.io/badge/-None-lightgrey)
-  Awesome Video Diffusion Transformers Sparse Attention Papers
-
-- **[ailyProject/Natural-Language-Hardware-Development](https://github.com/ailyProject/Natural-Language-Hardware-Development)** ⭐ 13
-  ![None](https://img.shields.io/badge/-None-lightgrey)
-  未来，大部分人都将使用自然语言进行硬件开发，而本书则是为了让新时代开发者进行项目开发所写
-
-- **[m-sec-org/wafkiller](https://github.com/m-sec-org/wafkiller)** ⭐ 12
-  ![Go](https://img.shields.io/badge/-Go-cyan)
-  Make WAF Bypassing Greate Again!
-
 ### 📈 Weekly Trending
 
-- **[darrylmorley/whatcable](https://github.com/darrylmorley/whatcable)** ⭐ 2,070
+- **[darrylmorley/whatcable](https://github.com/darrylmorley/whatcable)** ⭐ 2,086
   ![Swift](https://img.shields.io/badge/-Swift-lightgrey)
   macOS menu bar app that tells you, in plain English, what each USB-C cable plugged into your Mac can actually do
 
-- **[aattaran/deepclaude](https://github.com/aattaran/deepclaude)** ⭐ 1,521
+- **[aattaran/deepclaude](https://github.com/aattaran/deepclaude)** ⭐ 1,542
   ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
   Use Claude Code's autonomous agent loop with DeepSeek V4 Pro, OpenRouter, or any Anthropic-compatible backend. Same UX, 17x cheaper.
 
-- **[mattpocock/dictionary-of-ai-coding](https://github.com/mattpocock/dictionary-of-ai-coding)** ⭐ 1,174
+- **[mattpocock/dictionary-of-ai-coding](https://github.com/mattpocock/dictionary-of-ai-coding)** ⭐ 1,192
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   AI coding jargon, explained in plain English.
 
-- **[crafter-station/petdex](https://github.com/crafter-station/petdex)** ⭐ 846
-  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
-  Public gallery of animated Codex pets
-
-- **[XBuilderLAB/cheat-on-content](https://github.com/XBuilderLAB/cheat-on-content)** ⭐ 845
+- **[XBuilderLAB/cheat-on-content](https://github.com/XBuilderLAB/cheat-on-content)** ⭐ 911
   ![Python](https://img.shields.io/badge/-Python-blue)
   Content is already a cheat-code race—whoever cracks the patterns first wins the traffic. Your auto-evolving ops expert that learns YOUR account, not the global average. The Claude Code workflow behind 1M followers in 1 month.
 
-- **[vibeforge1111/keep-codex-fast](https://github.com/vibeforge1111/keep-codex-fast)** ⭐ 832
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  A backup-first Codex skill for keeping local Codex state fast, clean, and recoverable.
+- **[crafter-station/petdex](https://github.com/crafter-station/petdex)** ⭐ 908
+  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
+  Public gallery of animated Codex pets
 
-- **[jherrodthomas/automotive-skills-suite](https://github.com/jherrodthomas/automotive-skills-suite)** ⭐ 787
-  ![None](https://img.shields.io/badge/-None-lightgrey)
-  100+ installable Claude skills covering Engineering areas such as, ISO 26262 functional safety, ISO/SAE 21434 cybersecurity, ISO 21448 SOTIF, AIAG-VDA quality (APQP/PPAP/FMEA), Automotive SPICE, and continuous improvement tools — every builder paired with a confirmation reviewer.
-
-- **[yaojingang/yao-open-prompts](https://github.com/yaojingang/yao-open-prompts)** ⭐ 709
+- **[yaojingang/yao-open-prompts](https://github.com/yaojingang/yao-open-prompts)** ⭐ 890
   ![Python](https://img.shields.io/badge/-Python-blue)
   Yao Open Prompts：中文 AI 提示词库，覆盖工作、学习、内容、营销和生活场景
 
+- **[vibeforge1111/keep-codex-fast](https://github.com/vibeforge1111/keep-codex-fast)** ⭐ 844
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  A backup-first Codex skill for keeping local Codex state fast, clean, and recoverable.
+
+- **[jherrodthomas/automotive-skills-suite](https://github.com/jherrodthomas/automotive-skills-suite)** ⭐ 834
+  ![None](https://img.shields.io/badge/-None-lightgrey)
+  100+ installable Claude skills covering Engineering areas such as, ISO 26262 functional safety, ISO/SAE 21434 cybersecurity, ISO 21448 SOTIF, AIAG-VDA quality (APQP/PPAP/FMEA), Automotive SPICE, and continuous improvement tools — every builder paired with a confirmation reviewer.
+
 ### 📈 Monthly Trending
 
-- **[nexu-io/open-design](https://github.com/nexu-io/open-design)** ⭐ 31,202
+- **[nexu-io/open-design](https://github.com/nexu-io/open-design)** ⭐ 31,600
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   🎨 Local-first, open-source alternative to Anthropic's Claude Design. ⚡ 19 Skills · ✨ 71 brand-grade Design Systems 🖼 Generate web · desktop · mobile prototypes · slides · images · videos · HyperFrames 📦 Sandboxed preview · HTML/PDF/PPTX/MP4 export 🤖 Runs on Claude Code / Codex / Cursor / Gemini / OpenCode / Qwen / Copilot / Hermes / Kimi CLI.
 
-- **[EvoLinkAI/awesome-gpt-image-2-API-and-Prompts](https://github.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts)** ⭐ 12,719
+- **[EvoLinkAI/awesome-gpt-image-2-API-and-Prompts](https://github.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts)** ⭐ 12,804
   ![Python](https://img.shields.io/badge/-Python-blue)
   GPT-Image-2 API and Prompts
 
-- **[alchaincyf/huashu-design](https://github.com/alchaincyf/huashu-design)** ⭐ 12,420
+- **[alchaincyf/huashu-design](https://github.com/alchaincyf/huashu-design)** ⭐ 12,465
   ![HTML](https://img.shields.io/badge/-HTML-lightgrey)
   Huashu Design · HTML-native design skill for Claude Code · Claude Code 里 HTML 原生的设计 skill · 高保真原型 / 幻灯片 / 动画 + 20 设计哲学 + 5 维评审 + MP4 导出 · Agent-agnostic
 
-- **[kyegomez/OpenMythos](https://github.com/kyegomez/OpenMythos)** ⭐ 12,149
+- **[kyegomez/OpenMythos](https://github.com/kyegomez/OpenMythos)** ⭐ 12,179
   ![Python](https://img.shields.io/badge/-Python-blue)
   A theoretical reconstruction of the Claude Mythos architecture, built from first principles using the available research literature.
 
-- **[google-labs-code/design.md](https://github.com/google-labs-code/design.md)** ⭐ 11,935
+- **[google-labs-code/design.md](https://github.com/google-labs-code/design.md)** ⭐ 11,971
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   A format specification for describing a visual identity to coding agents. DESIGN.md gives agents a persistent, structured understanding of a design system.
 
-- **[browser-use/browser-harness](https://github.com/browser-use/browser-harness)** ⭐ 11,236
+- **[browser-use/browser-harness](https://github.com/browser-use/browser-harness)** ⭐ 11,313
   ![Python](https://img.shields.io/badge/-Python-blue)
   Browser Harness | Self-healing harness that enables LLMs to complete any task.
 
-- **[h4ckf0r0day/obscura](https://github.com/h4ckf0r0day/obscura)** ⭐ 10,751
+- **[h4ckf0r0day/obscura](https://github.com/h4ckf0r0day/obscura)** ⭐ 10,818
   ![Rust](https://img.shields.io/badge/-Rust-brown)
   The headless browser for AI agents and web scraping
 
-- **[browser-use/video-use](https://github.com/browser-use/video-use)** ⭐ 6,651
+- **[browser-use/video-use](https://github.com/browser-use/video-use)** ⭐ 6,722
   ![Python](https://img.shields.io/badge/-Python-blue)
   Edit videos with coding agents
 
@@ -348,15 +337,21 @@ See [kubernetes-announce@](https://groups.google.com/forum/#!forum/kubernetes-an
 
 ### 📦 nodejs/node
 
-**[2026-05-05, Version 26.0.0 (Current), @RafaelGSS](https://github.com/nodejs/node/releases/tag/v26.0.0)** `v26.0.0`
+**[2026-05-07, Version 26.1.0 (Current), @aduh95](https://github.com/nodejs/node/releases/tag/v26.1.0)** `v26.1.0`
 
-📅 Released: May 05, 2026
-
-
+📅 Released: May 07, 2026
 
 
-We're excited to announce the release of Node.js 26! Highlights include the Temporal API enabled by default,
-updates to the V8 JavaScript engine to 14.6, Undici to 8.0, and several important deprec...
+
+
+### Notable Changes
+
+#### Experimental `node:ffi` module
+
+Node.js now includes an experimental `node:ffi` module for loading dynamic
+libraries and calling native symbols from JavaScript.
+
+The API i...
 
 ---
 
@@ -500,49 +495,49 @@ updates to the V8 JavaScript engine to 14.6, Undici to 8.0, and several importan
 
 | Skill | Status |
 |-------|--------|
-| Java | 🟢 Proficient |
+| Java | ⚪ Planned |
 | Python | 🟢 Proficient |
-| JavaScript | 🔴 Beginner |
-| TypeScript | 🔴 Beginner |
+| JavaScript | 🟢 Proficient |
+| TypeScript | 🟡 Learning |
 | Go | 🔴 Beginner |
 
 ### Frameworks
 
 | Skill | Status |
 |-------|--------|
-| React | 🟡 Learning |
-| Spring Boot | 🔴 Beginner |
-| Django | 🟡 Learning |
-| Node.js | 🔴 Beginner |
-| Next.js | 🟢 Proficient |
+| React | 🔴 Beginner |
+| Spring Boot | ⚪ Planned |
+| Django | 🟢 Proficient |
+| Node.js | ⚪ Planned |
+| Next.js | ⚪ Planned |
 
 ### Cybersecurity
 
 | Skill | Status |
 |-------|--------|
-| Penetration Testing | 🟡 Learning |
-| Web Security | 🟢 Proficient |
-| Network Security | ⚪ Planned |
-| OWASP | ⚪ Planned |
+| Penetration Testing | 🟢 Proficient |
+| Web Security | 🔴 Beginner |
+| Network Security | 🟢 Proficient |
+| OWASP | 🔴 Beginner |
 
 ### Ai Ml
 
 | Skill | Status |
 |-------|--------|
-| Machine Learning | ⚪ Planned |
-| Deep Learning | ⚪ Planned |
-| NLP | 🟢 Proficient |
-| Computer Vision | 🟡 Learning |
-| TensorFlow | ⚪ Planned |
+| Machine Learning | 🟢 Proficient |
+| Deep Learning | 🔴 Beginner |
+| NLP | 🟡 Learning |
+| Computer Vision | 🟢 Proficient |
+| TensorFlow | 🔴 Beginner |
 | PyTorch | 🟡 Learning |
 
 ### Devops
 
 | Skill | Status |
 |-------|--------|
-| Docker | 🟢 Proficient |
-| Kubernetes | 🟢 Proficient |
-| CI/CD | ⚪ Planned |
+| Docker | 🔴 Beginner |
+| Kubernetes | 🟡 Learning |
+| CI/CD | 🔴 Beginner |
 | AWS | 🟡 Learning |
 | Azure | 🟢 Proficient |
 
@@ -550,9 +545,9 @@ updates to the V8 JavaScript engine to 14.6, Undici to 8.0, and several importan
 
 | Skill | Status |
 |-------|--------|
-| Blockchain | 🟢 Proficient |
-| Web3 | 🟢 Proficient |
-| Cloud Computing | 🟡 Learning |
+| Blockchain | 🔴 Beginner |
+| Web3 | ⚪ Planned |
+| Cloud Computing | ⚪ Planned |
 
 </details>
 
