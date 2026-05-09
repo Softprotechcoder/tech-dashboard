@@ -46,32 +46,29 @@
 
 ### 📑 Hacker News
 
-- **[I built GitHub Store to 12,500 stars in 6 months – I started at 16](https://github-store.org/blog/how-i-built-github-store/)**
-  *<p>Article URL: <a href="https://github-store.org/blog/how-i-built-github-store/">https://github-store.org/blog/how-i-built-github-store/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com...*
-  📅 Sat, 09 May 2026 01:06:46 +0000
+- **[Mythos 'Discovered' a CVE in Its Training Data and That's Still Worrying](https://rival.security/posts/mythos-discovered-a-cve-already-in-its-training-data---and-thats-still-worrying)**
+  *<p>Article URL: <a href="https://rival.security/posts/mythos-discovered-a-cve-already-in-its-training-data---and-thats-still-worrying">https://rival.security/posts/mythos-discovered-a-cve-already-in-i...*
+  📅 Sat, 09 May 2026 07:17:05 +0000
 
-- **[Tesla Model Y Passes NHTSA's New 'Advanced Driver Assistance System' Tests](https://www.nhtsa.gov/press-releases/tesla-model-y-first-vehicle-pass-nhtsa-new-advanced-driver-assistance-system-tests)**
-  *<p>Article URL: <a href="https://www.nhtsa.gov/press-releases/tesla-model-y-first-vehicle-pass-nhtsa-new-advanced-driver-assistance-system-tests">https://www.nhtsa.gov/press-releases/tesla-model-y-fir...*
-  📅 Fri, 08 May 2026 23:37:55 +0000
+- **[EU calls VPNs "a loophole that needs closing" in age verification push](https://cyberinsider.com/eu-calls-vpns-a-loophole-that-needs-closing-in-age-verification-push/)**
+  *<p>Article URL: <a href="https://cyberinsider.com/eu-calls-vpns-a-loophole-that-needs-closing-in-age-verification-push/">https://cyberinsider.com/eu-calls-vpns-a-loophole-that-needs-closing-in-age-ver...*
+  📅 Sat, 09 May 2026 05:52:12 +0000
 
-- **[Compound drivers of Antarctic sea ice loss and Southern Ocean destratification](https://www.science.org/doi/10.1126/sciadv.aeb0166)**
-  *<p>Article URL: <a href="https://www.science.org/doi/10.1126/sciadv.aeb0166">https://www.science.org/doi/10.1126/sciadv.aeb0166</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=4...*
-  📅 Fri, 08 May 2026 22:00:22 +0000
+- **[Using Claude Code: The unreasonable effectiveness of HTML](https://twitter.com/trq212/status/2052809885763747935)**
+  *<p>Examples: <a href="https://thariqs.github.io/html-effectiveness/" rel="nofollow">https://thariqs.github.io/html-effectiveness/</a><p>Related: <a href="https://simonwillison.net/2026/May/8/unreasona...*
+  📅 Sat, 09 May 2026 04:53:52 +0000
+
+- **[Over 97% of the 'Linux' Foundation's Budget Goes Not to Linux](https://techrights.org/n/2026/05/08/Over_97_of_the_Linux_Foundation_s_Budget_Goes_Not_to_Linux.shtml)**
+  *<p>Article URL: <a href="https://techrights.org/n/2026/05/08/Over_97_of_the_Linux_Foundation_s_Budget_Goes_Not_to_Linux.shtml">https://techrights.org/n/2026/05/08/Over_97_of_the_Linux_Foundation_s_Bud...*
+  📅 Sat, 09 May 2026 03:21:06 +0000
+
+- **[A recent experience with ChatGPT 5.5 Pro](https://gowers.wordpress.com/2026/05/08/a-recent-experience-with-chatgpt-5-5-pro/)**
+  *<p><a href="https://twitter.com/wtgowers/status/2052830948685676605" rel="nofollow">https://twitter.com/wtgowers/status/2052830948685676605</a><p><a href="https://xcancel.com/wtgowers/status/205283094...*
+  📅 Sat, 09 May 2026 02:41:42 +0000
 
 - **[Meta Shuts Down End-to-End Encryption for Instagram Messaging](https://www.pcmag.com/news/meta-shuts-down-end-to-end-encryption-for-instagram-dms-messaging)**
   *<p>Article URL: <a href="https://www.pcmag.com/news/meta-shuts-down-end-to-end-encryption-for-instagram-dms-messaging">https://www.pcmag.com/news/meta-shuts-down-end-to-end-encryption-for-instagram-dm...*
   📅 Fri, 08 May 2026 21:47:47 +0000
-
-- **[Non-determinism is an issue with patching CVEs](https://flox.dev/blog/achieving-rapid-cve-remediation-in-an-era-of-escalating-vulnerabilities/)**
-  *<p>Article URL: <a href="https://flox.dev/blog/achieving-rapid-cve-remediation-in-an-era-of-escalating-vulnerabilities/">https://flox.dev/blog/achieving-rapid-cve-remediation-in-an-era-of-escalating-v...*
-  📅 Fri, 08 May 2026 21:23:07 +0000
-
-- **[Mux (YC W16) Is Hiring](https://www.mux.com/jobs)**
-  *<p>Article URL: <a href="https://www.mux.com/jobs">https://www.mux.com/jobs</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=48068732">https://news.ycombinator.com/item?id=480687...*
-  📅 Fri, 08 May 2026 21:02:32 +0000
 
 ### 📑 TechCrunch
 
@@ -101,15 +98,15 @@
 
 ### 📑 Dev.to
 
-- **[The Co-Founder Vetting System Nobody Talks About (Until It's Too Late)](https://dev.to/ariauser13/the-co-founder-vetting-system-nobody-talks-about-until-its-too-late-k79)**
-  *<p>Most startup advice skips the awkward part: how do you actually find and evaluate a business partner before you're legally and financially entangled with the wrong person?</p>
+- **[shk: A Local-First Security Guardrail CLI for AI Coding Agents](https://dev.to/tim_yone/shk-a-local-first-security-guardrail-cli-for-ai-coding-agents-3mg5)**
+  *<p>Secret scanning often starts at Git. AI coding agents can make that too late.</p>
 
-<p>I've seen two kin...*
-  📅 Sat, 09 May 2026 01:47:40 +0000
+<p>They can read local files, summarize logs, run commands, and transform sensitive context before anything is com...*
+  📅 Sat, 09 May 2026 07:41:25 +0000
 
-- **[How I Built a Multi-Sport AI Coach on iOS as a Solo Developer — Architecture Decisions That Actually Mattered](https://dev.to/benjamin_pires_59127eddff/how-i-built-a-multi-sport-ai-coach-on-ios-as-a-solo-developer-architecture-decisions-that-22l9)**
-  *<p>Most articles about building AI apps focus on the model. This one focuses on everything around the model — the architecture decisions that determined whether the product would actually ship, actual...*
-  📅 Sat, 09 May 2026 01:47:25 +0000
+- **[The Vault That Stays Open: Microsoft Edge](https://dev.to/vivian-voss/the-vault-that-stays-open-microsoft-edge-cleartext-passwords-and-the-memory-of-an-already-open-4dnj)**
+  *<p><a class="article-body-image-wrapper" href="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fupl...*
+  📅 Sat, 09 May 2026 07:41:23 +0000
 
 </details>
 
@@ -117,103 +114,103 @@
 
 ### 📈 Daily Trending
 
-- **[ckolivas/ckpool](https://github.com/ckolivas/ckpool)** ⭐ 6
-  ![C](https://img.shields.io/badge/-C-lightgrey)
+- **[GALIAIS/k_i_r_o-register](https://github.com/GALIAIS/k_i_r_o-register)** ⭐ 45
+  ![Python](https://img.shields.io/badge/-Python-blue)
   None
 
-- **[davrisjen/Instagram-Reporting-Bot](https://github.com/davrisjen/Instagram-Reporting-Bot)** ⭐ 4
+- **[nickvasilescu/hermes-desktop-os1](https://github.com/nickvasilescu/hermes-desktop-os1)** ⭐ 24
+  ![Swift](https://img.shields.io/badge/-Swift-lightgrey)
+  Hermes Desktop - OS1 Edition: native macOS workspace for Hermes Agent on Orgo cloud computers and SSH hosts
+
+- **[wangrujun2016/auto-resume](https://github.com/wangrujun2016/auto-resume)** ⭐ 24
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  None
+
+- **[killervillsy/SessionToJson](https://github.com/killervillsy/SessionToJson)** ⭐ 18
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
+  None
+
+- **[shengshu-ai/minWM](https://github.com/shengshu-ai/minWM)** ⭐ 17
+  ![None](https://img.shields.io/badge/-None-lightgrey)
+  A Minimal and Elegant Framework for Real-Time Interactive World Models
+
+- **[davrisjen/Instagram-Reporting-Bot](https://github.com/davrisjen/Instagram-Reporting-Bot)** ⭐ 16
   ![Python](https://img.shields.io/badge/-Python-blue)
   This tool automates the process of reporting Instagram accounts that may violate the platform's policies..
 
-- **[dragonscraper/bookmyshow-scraper](https://github.com/dragonscraper/bookmyshow-scraper)** ⭐ 3
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
-  this is an old scraper for bookmyshow  i made it two years ago it does  need some changes 
-
-- **[masonthemaker/palmprint](https://github.com/masonthemaker/palmprint)** ⭐ 3
+- **[0xUnixIO/NodeGet-StatusShow](https://github.com/0xUnixIO/NodeGet-StatusShow)** ⭐ 14
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
-  Hand-gesture and facial-expression verification instead of CAPTCHAs, with human-in-the-loop consent for AI agents
+  https://github.com/NodeSeekDev/NodeGet-StatusShow
 
-- **[cezarmezzalira/afya-aep-2026](https://github.com/cezarmezzalira/afya-aep-2026)** ⭐ 3
-  ![Java](https://img.shields.io/badge/-Java-orange)
+- **[yuxaoxao/dot-ai](https://github.com/yuxaoxao/dot-ai)** ⭐ 13
+  ![PHP](https://img.shields.io/badge/-PHP-lightgrey)
   None
-
-- **[LiZhuoRan0/Weekly-Report-Aggregator](https://github.com/LiZhuoRan0/Weekly-Report-Aggregator)** ⭐ 3
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  Receive weekly reports from QQ email and the designated local folder, and integrate and send them.
-
-- **[Shigma-dev/test](https://github.com/Shigma-dev/test)** ⭐ 2
-  ![None](https://img.shields.io/badge/-None-lightgrey)
-  None
-
-- **[Makers-01/MakersPets](https://github.com/Makers-01/MakersPets)** ⭐ 2
-  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
-  国产大模型桌宠
 
 ### 📈 Weekly Trending
 
-- **[V4bel/dirtyfrag](https://github.com/V4bel/dirtyfrag)** ⭐ 2,906
+- **[V4bel/dirtyfrag](https://github.com/V4bel/dirtyfrag)** ⭐ 3,065
   ![C](https://img.shields.io/badge/-C-lightgrey)
   None
 
-- **[antirez/ds4](https://github.com/antirez/ds4)** ⭐ 2,509
+- **[antirez/ds4](https://github.com/antirez/ds4)** ⭐ 2,871
   ![C](https://img.shields.io/badge/-C-lightgrey)
   DeepSeek 4 Flash local inference engine for Metal
 
-- **[aattaran/deepclaude](https://github.com/aattaran/deepclaude)** ⭐ 1,644
+- **[aattaran/deepclaude](https://github.com/aattaran/deepclaude)** ⭐ 1,652
   ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
   Use Claude Code's autonomous agent loop with DeepSeek V4 Pro, OpenRouter, or any Anthropic-compatible backend. Same UX, 17x cheaper.
 
-- **[strukto-ai/mirage](https://github.com/strukto-ai/mirage)** ⭐ 1,453
+- **[strukto-ai/mirage](https://github.com/strukto-ai/mirage)** ⭐ 1,518
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   A Unified Virtual Filesystem For AI Agents
 
-- **[yaojingang/yao-open-prompts](https://github.com/yaojingang/yao-open-prompts)** ⭐ 1,378
+- **[yaojingang/yao-open-prompts](https://github.com/yaojingang/yao-open-prompts)** ⭐ 1,417
   ![Python](https://img.shields.io/badge/-Python-blue)
   Yao Open Prompts：中文 AI 提示词库，覆盖工作、学习、内容、营销和生活场景
 
-- **[XBuilderLAB/cheat-on-content](https://github.com/XBuilderLAB/cheat-on-content)** ⭐ 1,220
+- **[XBuilderLAB/cheat-on-content](https://github.com/XBuilderLAB/cheat-on-content)** ⭐ 1,285
   ![Shell](https://img.shields.io/badge/-Shell-lightgrey)
   You're reading this. The skill predicted it. A workflow that turns every post into a calibrated experiment—score, blind-predict, retro, evolve. The future doesn't reward effort, it rewards those who see the pattern first. 1M followers in a month — not luck, system.
 
-- **[MayersScott/rkn-block-checker](https://github.com/MayersScott/rkn-block-checker)** ⭐ 807
+- **[MayersScott/rkn-block-checker](https://github.com/MayersScott/rkn-block-checker)** ⭐ 863
   ![Python](https://img.shields.io/badge/-Python-blue)
   Diagnose RKN/TSPU internet blocks layer by layer (DNS, TCP, TLS, HTTP)
 
-- **[lightseekorg/tokenspeed](https://github.com/lightseekorg/tokenspeed)** ⭐ 788
+- **[lightseekorg/tokenspeed](https://github.com/lightseekorg/tokenspeed)** ⭐ 816
   ![Python](https://img.shields.io/badge/-Python-blue)
   TokenSpeed is a speed-of-light LLM inference engine.
 
 ### 📈 Monthly Trending
 
-- **[nexu-io/open-design](https://github.com/nexu-io/open-design)** ⭐ 34,065
+- **[nexu-io/open-design](https://github.com/nexu-io/open-design)** ⭐ 34,466
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   🎨 Local-first, open-source alternative to Anthropic's Claude Design. ⚡ 19 Skills · ✨ 71 brand-grade Design Systems 🖼 Generate web · desktop · mobile prototypes · slides · images · videos · HyperFrames 📦 Sandboxed preview · HTML/PDF/PPTX/MP4 export 🤖 Runs on Claude Code / Codex / Cursor / Gemini / OpenCode / Qwen / Copilot / Hermes / Kimi CLI.
 
-- **[EvoLinkAI/awesome-gpt-image-2-API-and-Prompts](https://github.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts)** ⭐ 13,518
+- **[EvoLinkAI/awesome-gpt-image-2-API-and-Prompts](https://github.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts)** ⭐ 13,614
   ![Python](https://img.shields.io/badge/-Python-blue)
   GPT-Image-2 API and Prompts
 
-- **[alchaincyf/huashu-design](https://github.com/alchaincyf/huashu-design)** ⭐ 12,700
+- **[alchaincyf/huashu-design](https://github.com/alchaincyf/huashu-design)** ⭐ 12,749
   ![HTML](https://img.shields.io/badge/-HTML-lightgrey)
   Huashu Design · HTML-native design skill for Claude Code · Claude Code 里 HTML 原生的设计 skill · 高保真原型 / 幻灯片 / 动画 + 20 设计哲学 + 5 维评审 + MP4 导出 · Agent-agnostic
 
-- **[kyegomez/OpenMythos](https://github.com/kyegomez/OpenMythos)** ⭐ 12,283
+- **[kyegomez/OpenMythos](https://github.com/kyegomez/OpenMythos)** ⭐ 12,296
   ![Python](https://img.shields.io/badge/-Python-blue)
   A theoretical reconstruction of the Claude Mythos architecture, built from first principles using the available research literature.
 
-- **[google-labs-code/design.md](https://github.com/google-labs-code/design.md)** ⭐ 12,210
+- **[google-labs-code/design.md](https://github.com/google-labs-code/design.md)** ⭐ 12,244
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   A format specification for describing a visual identity to coding agents. DESIGN.md gives agents a persistent, structured understanding of a design system.
 
-- **[browser-use/browser-harness](https://github.com/browser-use/browser-harness)** ⭐ 11,691
+- **[browser-use/browser-harness](https://github.com/browser-use/browser-harness)** ⭐ 11,751
   ![Python](https://img.shields.io/badge/-Python-blue)
   Browser Harness | Self-healing harness that enables LLMs to complete any task.
 
-- **[h4ckf0r0day/obscura](https://github.com/h4ckf0r0day/obscura)** ⭐ 11,137
+- **[h4ckf0r0day/obscura](https://github.com/h4ckf0r0day/obscura)** ⭐ 11,178
   ![Rust](https://img.shields.io/badge/-Rust-brown)
   The headless browser for AI agents and web scraping
 
-- **[browser-use/video-use](https://github.com/browser-use/video-use)** ⭐ 6,963
+- **[browser-use/video-use](https://github.com/browser-use/video-use)** ⭐ 6,997
   ![Python](https://img.shields.io/badge/-Python-blue)
   Edit videos with coding agents
 
@@ -490,58 +487,58 @@ The API i...
 
 | Skill | Status |
 |-------|--------|
-| Java | 🟢 Proficient |
+| Java | ⚪ Planned |
 | Python | 🔴 Beginner |
 | JavaScript | ⚪ Planned |
-| TypeScript | 🟢 Proficient |
-| Go | 🟡 Learning |
+| TypeScript | 🔴 Beginner |
+| Go | 🟢 Proficient |
 
 ### Frameworks
 
 | Skill | Status |
 |-------|--------|
-| React | 🟡 Learning |
+| React | ⚪ Planned |
 | Spring Boot | 🟡 Learning |
-| Django | 🟡 Learning |
+| Django | 🟢 Proficient |
 | Node.js | 🔴 Beginner |
-| Next.js | ⚪ Planned |
+| Next.js | 🔴 Beginner |
 
 ### Cybersecurity
 
 | Skill | Status |
 |-------|--------|
-| Penetration Testing | 🟢 Proficient |
-| Web Security | 🟢 Proficient |
+| Penetration Testing | 🟡 Learning |
+| Web Security | ⚪ Planned |
 | Network Security | 🔴 Beginner |
-| OWASP | 🟢 Proficient |
+| OWASP | 🔴 Beginner |
 
 ### Ai Ml
 
 | Skill | Status |
 |-------|--------|
-| Machine Learning | 🟢 Proficient |
-| Deep Learning | ⚪ Planned |
-| NLP | 🟢 Proficient |
-| Computer Vision | 🔴 Beginner |
-| TensorFlow | 🟡 Learning |
-| PyTorch | 🟢 Proficient |
+| Machine Learning | ⚪ Planned |
+| Deep Learning | 🟢 Proficient |
+| NLP | 🔴 Beginner |
+| Computer Vision | ⚪ Planned |
+| TensorFlow | 🟢 Proficient |
+| PyTorch | ⚪ Planned |
 
 ### Devops
 
 | Skill | Status |
 |-------|--------|
-| Docker | 🟡 Learning |
-| Kubernetes | 🟢 Proficient |
-| CI/CD | 🟢 Proficient |
-| AWS | 🟡 Learning |
-| Azure | 🔴 Beginner |
+| Docker | ⚪ Planned |
+| Kubernetes | 🔴 Beginner |
+| CI/CD | 🔴 Beginner |
+| AWS | 🟢 Proficient |
+| Azure | 🟡 Learning |
 
 ### Other
 
 | Skill | Status |
 |-------|--------|
 | Blockchain | 🟢 Proficient |
-| Web3 | 🔴 Beginner |
+| Web3 | 🟢 Proficient |
 | Cloud Computing | 🟡 Learning |
 
 </details>
