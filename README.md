@@ -20,7 +20,7 @@
 | Metric | Count |
 |--------|-------|
 | 📰 Latest News Articles | 26 |
-| 🔥 Trending Repositories | 45 |
+| 🔥 Trending Repositories | 0 |
 | 🎯 Latest Releases | 10 |
 | 🎯 Learning Goals | 4 |
 
@@ -46,29 +46,33 @@
 
 ### 📑 Hacker News
 
-- **[Mythos 'Discovered' a CVE in Its Training Data and That's Still Worrying](https://rival.security/posts/mythos-discovered-a-cve-already-in-its-training-data---and-thats-still-worrying)**
-  *<p>Article URL: <a href="https://rival.security/posts/mythos-discovered-a-cve-already-in-its-training-data---and-thats-still-worrying">https://rival.security/posts/mythos-discovered-a-cve-already-in-i...*
-  📅 Sat, 09 May 2026 07:17:05 +0000
+- **[Internet Archive Switzerland](https://internetarchive.ch/)**
+  *<p>Article URL: <a href="https://internetarchive.ch/">https://internetarchive.ch/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=48074265">https://news.ycombinator.com/item?id=...*
+  📅 Sat, 09 May 2026 12:00:30 +0000
 
-- **[EU calls VPNs "a loophole that needs closing" in age verification push](https://cyberinsider.com/eu-calls-vpns-a-loophole-that-needs-closing-in-age-verification-push/)**
-  *<p>Article URL: <a href="https://cyberinsider.com/eu-calls-vpns-a-loophole-that-needs-closing-in-age-verification-push/">https://cyberinsider.com/eu-calls-vpns-a-loophole-that-needs-closing-in-age-ver...*
-  📅 Sat, 09 May 2026 05:52:12 +0000
+- **[Forking the Web](https://dillo-browser.org/lab/web-fork/)**
+  *<p>Article URL: <a href="https://dillo-browser.org/lab/web-fork/">https://dillo-browser.org/lab/web-fork/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=48074087">https://news....*
+  📅 Sat, 09 May 2026 11:33:07 +0000
+
+- **[Killswitch: Per-function short-circuit mitigation primitive](https://lwn.net/ml/all/20260507070547.2268452-1-sashal@kernel.org/)**
+  *<p>Article URL: <a href="https://lwn.net/ml/all/20260507070547.2268452-1-sashal@kernel.org/">https://lwn.net/ml/all/20260507070547.2268452-1-sashal@kernel.org/</a></p>
+<p>Comments URL: <a href="https:...*
+  📅 Sat, 09 May 2026 09:14:05 +0000
+
+- **[LLMs Corrupt Your Documents When You Delegate](https://arxiv.org/abs/2604.15597)**
+  *<p>Article URL: <a href="https://arxiv.org/abs/2604.15597">https://arxiv.org/abs/2604.15597</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=48073246">https://news.ycombinator.co...*
+  📅 Sat, 09 May 2026 08:44:34 +0000
 
 - **[Using Claude Code: The unreasonable effectiveness of HTML](https://twitter.com/trq212/status/2052809885763747935)**
   *<p>Examples: <a href="https://thariqs.github.io/html-effectiveness/" rel="nofollow">https://thariqs.github.io/html-effectiveness/</a><p>Related: <a href="https://simonwillison.net/2026/May/8/unreasona...*
   📅 Sat, 09 May 2026 04:53:52 +0000
 
-- **[Over 97% of the 'Linux' Foundation's Budget Goes Not to Linux](https://techrights.org/n/2026/05/08/Over_97_of_the_Linux_Foundation_s_Budget_Goes_Not_to_Linux.shtml)**
-  *<p>Article URL: <a href="https://techrights.org/n/2026/05/08/Over_97_of_the_Linux_Foundation_s_Budget_Goes_Not_to_Linux.shtml">https://techrights.org/n/2026/05/08/Over_97_of_the_Linux_Foundation_s_Bud...*
-  📅 Sat, 09 May 2026 03:21:06 +0000
-
 - **[A recent experience with ChatGPT 5.5 Pro](https://gowers.wordpress.com/2026/05/08/a-recent-experience-with-chatgpt-5-5-pro/)**
   *<p><a href="https://twitter.com/wtgowers/status/2052830948685676605" rel="nofollow">https://twitter.com/wtgowers/status/2052830948685676605</a><p><a href="https://xcancel.com/wtgowers/status/205283094...*
   📅 Sat, 09 May 2026 02:41:42 +0000
-
-- **[Meta Shuts Down End-to-End Encryption for Instagram Messaging](https://www.pcmag.com/news/meta-shuts-down-end-to-end-encryption-for-instagram-dms-messaging)**
-  *<p>Article URL: <a href="https://www.pcmag.com/news/meta-shuts-down-end-to-end-encryption-for-instagram-dms-messaging">https://www.pcmag.com/news/meta-shuts-down-end-to-end-encryption-for-instagram-dm...*
-  📅 Fri, 08 May 2026 21:47:47 +0000
 
 ### 📑 TechCrunch
 
@@ -98,121 +102,23 @@
 
 ### 📑 Dev.to
 
-- **[shk: A Local-First Security Guardrail CLI for AI Coding Agents](https://dev.to/tim_yone/shk-a-local-first-security-guardrail-cli-for-ai-coding-agents-3mg5)**
-  *<p>Secret scanning often starts at Git. AI coding agents can make that too late.</p>
+- **[The Node.js Event Loop Explained](https://dev.to/satyasootar/the-nodejs-event-loop-explained-5bgh)**
+  *<p>Hello readers 👋, welcome to the 4th blog in our Node.js journey!</p>
 
-<p>They can read local files, summarize logs, run commands, and transform sensitive context before anything is com...*
-  📅 Sat, 09 May 2026 07:41:25 +0000
+<p>In the last few posts, we installed Node.js, explored what it is, and uncovered why it's so fast for web applications. We ke...*
+  📅 Sat, 09 May 2026 12:45:37 +0000
 
-- **[The Vault That Stays Open: Microsoft Edge](https://dev.to/vivian-voss/the-vault-that-stays-open-microsoft-edge-cleartext-passwords-and-the-memory-of-an-already-open-4dnj)**
-  *<p><a class="article-body-image-wrapper" href="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fupl...*
-  📅 Sat, 09 May 2026 07:41:23 +0000
+- **[How computers work: An Overview.](https://dev.to/muzammiltanwar/how-computers-work-an-overview-2o2h)**
+  *<p><strong>Overview</strong></p>
+
+<p>We all use computers in most aspects of our lives, especially if you are a programmer or in the IT industry.</p>
+
+<p>But did you ever think how these machines are ...*
+  📅 Sat, 09 May 2026 12:43:12 +0000
 
 </details>
 
 ## 🔥 Trending Repositories
-
-### 📈 Daily Trending
-
-- **[GALIAIS/k_i_r_o-register](https://github.com/GALIAIS/k_i_r_o-register)** ⭐ 45
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  None
-
-- **[nickvasilescu/hermes-desktop-os1](https://github.com/nickvasilescu/hermes-desktop-os1)** ⭐ 24
-  ![Swift](https://img.shields.io/badge/-Swift-lightgrey)
-  Hermes Desktop - OS1 Edition: native macOS workspace for Hermes Agent on Orgo cloud computers and SSH hosts
-
-- **[wangrujun2016/auto-resume](https://github.com/wangrujun2016/auto-resume)** ⭐ 24
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  None
-
-- **[killervillsy/SessionToJson](https://github.com/killervillsy/SessionToJson)** ⭐ 18
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
-  None
-
-- **[shengshu-ai/minWM](https://github.com/shengshu-ai/minWM)** ⭐ 17
-  ![None](https://img.shields.io/badge/-None-lightgrey)
-  A Minimal and Elegant Framework for Real-Time Interactive World Models
-
-- **[davrisjen/Instagram-Reporting-Bot](https://github.com/davrisjen/Instagram-Reporting-Bot)** ⭐ 16
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  This tool automates the process of reporting Instagram accounts that may violate the platform's policies..
-
-- **[0xUnixIO/NodeGet-StatusShow](https://github.com/0xUnixIO/NodeGet-StatusShow)** ⭐ 14
-  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
-  https://github.com/NodeSeekDev/NodeGet-StatusShow
-
-- **[yuxaoxao/dot-ai](https://github.com/yuxaoxao/dot-ai)** ⭐ 13
-  ![PHP](https://img.shields.io/badge/-PHP-lightgrey)
-  None
-
-### 📈 Weekly Trending
-
-- **[V4bel/dirtyfrag](https://github.com/V4bel/dirtyfrag)** ⭐ 3,065
-  ![C](https://img.shields.io/badge/-C-lightgrey)
-  None
-
-- **[antirez/ds4](https://github.com/antirez/ds4)** ⭐ 2,871
-  ![C](https://img.shields.io/badge/-C-lightgrey)
-  DeepSeek 4 Flash local inference engine for Metal
-
-- **[aattaran/deepclaude](https://github.com/aattaran/deepclaude)** ⭐ 1,652
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
-  Use Claude Code's autonomous agent loop with DeepSeek V4 Pro, OpenRouter, or any Anthropic-compatible backend. Same UX, 17x cheaper.
-
-- **[strukto-ai/mirage](https://github.com/strukto-ai/mirage)** ⭐ 1,518
-  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
-  A Unified Virtual Filesystem For AI Agents
-
-- **[yaojingang/yao-open-prompts](https://github.com/yaojingang/yao-open-prompts)** ⭐ 1,417
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  Yao Open Prompts：中文 AI 提示词库，覆盖工作、学习、内容、营销和生活场景
-
-- **[XBuilderLAB/cheat-on-content](https://github.com/XBuilderLAB/cheat-on-content)** ⭐ 1,285
-  ![Shell](https://img.shields.io/badge/-Shell-lightgrey)
-  You're reading this. The skill predicted it. A workflow that turns every post into a calibrated experiment—score, blind-predict, retro, evolve. The future doesn't reward effort, it rewards those who see the pattern first. 1M followers in a month — not luck, system.
-
-- **[MayersScott/rkn-block-checker](https://github.com/MayersScott/rkn-block-checker)** ⭐ 863
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  Diagnose RKN/TSPU internet blocks layer by layer (DNS, TCP, TLS, HTTP)
-
-- **[lightseekorg/tokenspeed](https://github.com/lightseekorg/tokenspeed)** ⭐ 816
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  TokenSpeed is a speed-of-light LLM inference engine.
-
-### 📈 Monthly Trending
-
-- **[nexu-io/open-design](https://github.com/nexu-io/open-design)** ⭐ 34,466
-  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
-  🎨 Local-first, open-source alternative to Anthropic's Claude Design. ⚡ 19 Skills · ✨ 71 brand-grade Design Systems 🖼 Generate web · desktop · mobile prototypes · slides · images · videos · HyperFrames 📦 Sandboxed preview · HTML/PDF/PPTX/MP4 export 🤖 Runs on Claude Code / Codex / Cursor / Gemini / OpenCode / Qwen / Copilot / Hermes / Kimi CLI.
-
-- **[EvoLinkAI/awesome-gpt-image-2-API-and-Prompts](https://github.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts)** ⭐ 13,614
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  GPT-Image-2 API and Prompts
-
-- **[alchaincyf/huashu-design](https://github.com/alchaincyf/huashu-design)** ⭐ 12,749
-  ![HTML](https://img.shields.io/badge/-HTML-lightgrey)
-  Huashu Design · HTML-native design skill for Claude Code · Claude Code 里 HTML 原生的设计 skill · 高保真原型 / 幻灯片 / 动画 + 20 设计哲学 + 5 维评审 + MP4 导出 · Agent-agnostic
-
-- **[kyegomez/OpenMythos](https://github.com/kyegomez/OpenMythos)** ⭐ 12,296
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  A theoretical reconstruction of the Claude Mythos architecture, built from first principles using the available research literature.
-
-- **[google-labs-code/design.md](https://github.com/google-labs-code/design.md)** ⭐ 12,244
-  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
-  A format specification for describing a visual identity to coding agents. DESIGN.md gives agents a persistent, structured understanding of a design system.
-
-- **[browser-use/browser-harness](https://github.com/browser-use/browser-harness)** ⭐ 11,751
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  Browser Harness | Self-healing harness that enables LLMs to complete any task.
-
-- **[h4ckf0r0day/obscura](https://github.com/h4ckf0r0day/obscura)** ⭐ 11,178
-  ![Rust](https://img.shields.io/badge/-Rust-brown)
-  The headless browser for AI agents and web scraping
-
-- **[browser-use/video-use](https://github.com/browser-use/video-use)** ⭐ 6,997
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  Edit videos with coding agents
 
 ## 🚀 Latest Releases
 
@@ -487,40 +393,40 @@ The API i...
 
 | Skill | Status |
 |-------|--------|
-| Java | ⚪ Planned |
-| Python | 🔴 Beginner |
+| Java | 🔴 Beginner |
+| Python | ⚪ Planned |
 | JavaScript | ⚪ Planned |
-| TypeScript | 🔴 Beginner |
-| Go | 🟢 Proficient |
+| TypeScript | 🟢 Proficient |
+| Go | 🔴 Beginner |
 
 ### Frameworks
 
 | Skill | Status |
 |-------|--------|
-| React | ⚪ Planned |
-| Spring Boot | 🟡 Learning |
-| Django | 🟢 Proficient |
-| Node.js | 🔴 Beginner |
+| React | 🟡 Learning |
+| Spring Boot | 🔴 Beginner |
+| Django | ⚪ Planned |
+| Node.js | 🟢 Proficient |
 | Next.js | 🔴 Beginner |
 
 ### Cybersecurity
 
 | Skill | Status |
 |-------|--------|
-| Penetration Testing | 🟡 Learning |
-| Web Security | ⚪ Planned |
-| Network Security | 🔴 Beginner |
-| OWASP | 🔴 Beginner |
+| Penetration Testing | ⚪ Planned |
+| Web Security | 🔴 Beginner |
+| Network Security | 🟢 Proficient |
+| OWASP | ⚪ Planned |
 
 ### Ai Ml
 
 | Skill | Status |
 |-------|--------|
-| Machine Learning | ⚪ Planned |
+| Machine Learning | 🟡 Learning |
 | Deep Learning | 🟢 Proficient |
 | NLP | 🔴 Beginner |
-| Computer Vision | ⚪ Planned |
-| TensorFlow | 🟢 Proficient |
+| Computer Vision | 🟢 Proficient |
+| TensorFlow | ⚪ Planned |
 | PyTorch | ⚪ Planned |
 
 ### Devops
@@ -528,18 +434,18 @@ The API i...
 | Skill | Status |
 |-------|--------|
 | Docker | ⚪ Planned |
-| Kubernetes | 🔴 Beginner |
-| CI/CD | 🔴 Beginner |
-| AWS | 🟢 Proficient |
-| Azure | 🟡 Learning |
+| Kubernetes | 🟡 Learning |
+| CI/CD | ⚪ Planned |
+| AWS | 🟡 Learning |
+| Azure | 🔴 Beginner |
 
 ### Other
 
 | Skill | Status |
 |-------|--------|
-| Blockchain | 🟢 Proficient |
-| Web3 | 🟢 Proficient |
-| Cloud Computing | 🟡 Learning |
+| Blockchain | ⚪ Planned |
+| Web3 | 🟡 Learning |
+| Cloud Computing | 🔴 Beginner |
 
 </details>
 
