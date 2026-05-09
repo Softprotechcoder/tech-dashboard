@@ -7,7 +7,7 @@
 ![AI & ML](https://img.shields.io/badge/-AI%20&%20ML-blue) ![CyberSecurity](https://img.shields.io/badge/-CyberSecurity-red) ![Full Stack Development](https://img.shields.io/badge/-Full%20Stack%20Development-green)
 
 [![Auto Update](https://img.shields.io/badge/Auto%20Update-Enabled-success)](https://github.com/yourusername/tech-dashboard/actions)
-[![Last Updated](https://img.shields.io/badge/Last%20Updated-May 08, 2026-blue)](https://github.com/yourusername/tech-dashboard)
+[![Last Updated](https://img.shields.io/badge/Last%20Updated-May 09, 2026-blue)](https://github.com/yourusername/tech-dashboard)
 
 *Automatically updated every 6 hours with the latest tech news, trending repositories, and learning resources.*
 
@@ -46,81 +46,70 @@
 
 ### 📑 Hacker News
 
-- **[AI Is Breaking Two Vulnerability Cultures](https://www.jefftk.com/p/ai-is-breaking-two-vulnerability-cultures)**
-  *<p>Article URL: <a href="https://www.jefftk.com/p/ai-is-breaking-two-vulnerability-cultures">https://www.jefftk.com/p/ai-is-breaking-two-vulnerability-cultures</a></p>
-<p>Comments URL: <a href="https:...*
-  📅 Fri, 08 May 2026 17:55:08 +0000
+- **[I built GitHub Store to 12,500 stars in 6 months – I started at 16](https://github-store.org/blog/how-i-built-github-store/)**
+  *<p>Article URL: <a href="https://github-store.org/blog/how-i-built-github-store/">https://github-store.org/blog/how-i-built-github-store/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com...*
+  📅 Sat, 09 May 2026 01:06:46 +0000
 
-- **[Apple, Intel have reached preliminary chip-making deal](https://www.reuters.com/business/apple-intel-have-reached-preliminary-chip-making-deal-wsj-reports-2026-05-08/)**
-  *<p>Article URL: <a href="https://www.reuters.com/business/apple-intel-have-reached-preliminary-chip-making-deal-wsj-reports-2026-05-08/">https://www.reuters.com/business/apple-intel-have-reached-preli...*
-  📅 Fri, 08 May 2026 17:25:21 +0000
+- **[Tesla Model Y Passes NHTSA's New 'Advanced Driver Assistance System' Tests](https://www.nhtsa.gov/press-releases/tesla-model-y-first-vehicle-pass-nhtsa-new-advanced-driver-assistance-system-tests)**
+  *<p>Article URL: <a href="https://www.nhtsa.gov/press-releases/tesla-model-y-first-vehicle-pass-nhtsa-new-advanced-driver-assistance-system-tests">https://www.nhtsa.gov/press-releases/tesla-model-y-fir...*
+  📅 Fri, 08 May 2026 23:37:55 +0000
 
-- **[Court to DOGE: Asking ChatGPT 'Is This DEI?' Is Not Proper Legal Process](https://www.techdirt.com/2026/05/08/court-to-doge-bros-asking-chatgpt-yo-is-this-dei-is-not-proper-legal-process-also-a-first-amendment-violation/)**
-  *<p>Article URL: <a href="https://www.techdirt.com/2026/05/08/court-to-doge-bros-asking-chatgpt-yo-is-this-dei-is-not-proper-legal-process-also-a-first-amendment-violation/">https://www.techdirt.com/20...*
-  📅 Fri, 08 May 2026 17:14:52 +0000
+- **[Compound drivers of Antarctic sea ice loss and Southern Ocean destratification](https://www.science.org/doi/10.1126/sciadv.aeb0166)**
+  *<p>Article URL: <a href="https://www.science.org/doi/10.1126/sciadv.aeb0166">https://www.science.org/doi/10.1126/sciadv.aeb0166</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=4...*
+  📅 Fri, 08 May 2026 22:00:22 +0000
 
-- **[Bjarne Stroustrup: How do I deal with memory leaks? (2022)](https://www.stroustrup.com/bs_faq2.html#memory-leaks)**
-  *<p>Article URL: <a href="https://www.stroustrup.com/bs_faq2.html#memory-leaks">https://www.stroustrup.com/bs_faq2.html#memory-leaks</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?...*
-  📅 Fri, 08 May 2026 17:06:59 +0000
+- **[Meta Shuts Down End-to-End Encryption for Instagram Messaging](https://www.pcmag.com/news/meta-shuts-down-end-to-end-encryption-for-instagram-dms-messaging)**
+  *<p>Article URL: <a href="https://www.pcmag.com/news/meta-shuts-down-end-to-end-encryption-for-instagram-dms-messaging">https://www.pcmag.com/news/meta-shuts-down-end-to-end-encryption-for-instagram-dm...*
+  📅 Fri, 08 May 2026 21:47:47 +0000
 
-- **[Cartoon Network Flash Games](https://www.webdesignmuseum.org/flash-game-exhibitions/cartoon-network-flash-games)**
-  *<p>Article URL: <a href="https://www.webdesignmuseum.org/flash-game-exhibitions/cartoon-network-flash-games">https://www.webdesignmuseum.org/flash-game-exhibitions/cartoon-network-flash-games</a></p>
-...*
-  📅 Fri, 08 May 2026 16:29:52 +0000
+- **[Non-determinism is an issue with patching CVEs](https://flox.dev/blog/achieving-rapid-cve-remediation-in-an-era-of-escalating-vulnerabilities/)**
+  *<p>Article URL: <a href="https://flox.dev/blog/achieving-rapid-cve-remediation-in-an-era-of-escalating-vulnerabilities/">https://flox.dev/blog/achieving-rapid-cve-remediation-in-an-era-of-escalating-v...*
+  📅 Fri, 08 May 2026 21:23:07 +0000
 
-- **[Serving a website on a Raspberry Pi Zero running in RAM](https://btxx.org/posts/memory/)**
-  *<p>Article URL: <a href="https://btxx.org/posts/memory/">https://btxx.org/posts/memory/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=48064312">https://news.ycombinator.com/it...*
-  📅 Fri, 08 May 2026 15:10:35 +0000
+- **[Mux (YC W16) Is Hiring](https://www.mux.com/jobs)**
+  *<p>Article URL: <a href="https://www.mux.com/jobs">https://www.mux.com/jobs</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=48068732">https://news.ycombinator.com/item?id=480687...*
+  📅 Fri, 08 May 2026 21:02:32 +0000
 
 ### 📑 TechCrunch
 
+- **[Laid-off Oracle workers tried to negotiate better severance. Oracle said no.](https://techcrunch.com/2026/05/08/laid-off-oracle-workers-tried-to-negotiate-better-severance-oracle-said-no/)**
+  *Some found out they didn't qualify for WARN Act protections like two-months notice because the company had classified them as remote workers....*
+  📅 Fri, 08 May 2026 22:59:05 +0000
+
+- **[San Francisco’s housing market has lost its mind](https://techcrunch.com/2026/05/08/san-franciscos-housing-market-has-lost-its-mind/)**
+  *The invisible force behind all of this is no mystery to anyone paying attention to the city's tech economy. San Francisco is home to some of the most valuable private companies in the world, and their...*
+  📅 Fri, 08 May 2026 22:32:31 +0000
+
+- **[Prime Video follows Netflix and Disney by adding a TikTok-like ‘Clips’ feed in its app](https://techcrunch.com/2026/05/08/prime-video-follows-netflix-and-disney-by-adding-a-tiktok-like-clips-feed-in-its-app/)**
+  *The Clips feed aims to enable discovery by offering users a scrollable feed with short snippets of shows and movies....*
+  📅 Fri, 08 May 2026 20:50:03 +0000
+
+- **[Intel’s comeback story is even wilder than it seems](https://techcrunch.com/2026/05/08/intels-comeback-story-is-even-wilder-than-it-seems/)**
+  *Intel's stock has risen a stunning 490% over the past year, a bet by Wall Street that may be running well ahead of the company's actual turnaround....*
+  📅 Fri, 08 May 2026 20:02:52 +0000
+
 - **[Cloudflare says AI made 1,100 jobs obsolete, even as revenue hit a record high](https://techcrunch.com/2026/05/08/cloudflare-says-ai-made-1100-jobs-obsolete-even-as-revenue-hit-a-record-high/)**
-  *CloudFlare announced its first large-scale layoff. CEO Matthew Prince says because of AI efficiency gains, the company doesn't need as many support roles....*
+  *Cloudflare announced its first large-scale layoff. CEO Matthew Prince says because of AI efficiency gains, the company doesn't need as many support roles....*
   📅 Fri, 08 May 2026 18:33:21 +0000
 
 - **[Porsche shutters e-bike, battery, software subsidiaries as part of company overhaul](https://techcrunch.com/2026/05/08/porsche-shutters-e-bike-battery-software-subsidiaries-as-part-of-company-overhaul/)**
-  *More than 500 people will be affected by the closures....*
+  *More than 500 people will be affected by the closures. “We must refocus on our core business,” Porsche CEO and executive chair Michael Leiters said in a statement. "This is the indispensable foundatio...*
   📅 Fri, 08 May 2026 18:25:29 +0000
-
-- **[Mother Ventures is looking at moms as the ‘economic engine’](https://techcrunch.com/2026/05/08/mother-ventures-is-looking-at-moms-as-the-economic-engine/)**
-  *The VC firm, which focuses on mothers as consumers, raised a $10 million debut fund....*
-  📅 Fri, 08 May 2026 17:46:08 +0000
-
-- **[Uber partner Avride is under investigation for self-driving crashes](https://techcrunch.com/2026/05/08/uber-partner-avride-is-under-investigation-for-self-driving-crashes/)**
-  *The National Highway Traffic Safety Administration has opened an investigation into Avride after identifying more than a dozen crashes and one minor injury....*
-  📅 Fri, 08 May 2026 17:33:46 +0000
-
-- **[Poland says hackers breached water treatment plants, and the US is facing the same threat](https://techcrunch.com/2026/05/08/poland-says-hackers-breached-water-treatment-plants-and-the-u-s-is-facing-the-same-threat/)**
-  *A report by Poland’s top intelligence agency accused Russia of sabotage and hacking activities against the country’s military and civilian infrastructure....*
-  📅 Fri, 08 May 2026 17:20:37 +0000
-
-- **[US defense contractor who sold hacking tools to Russian broker ordered to pay $10M to former employers](https://techcrunch.com/2026/05/08/u-s-defense-contractor-who-sold-hacking-tools-to-russian-broker-ordered-to-pay-10-million-to-former-employers/)**
-  *Former cybersecurity executive Peter Williams stole several surveillance and hacking tools and sold them for $1.3 million to a Russian broker that works with Putin’s government....*
-  📅 Fri, 08 May 2026 16:43:19 +0000
 
 ### 📑 Dev.to
 
-- **[Understanding Reinforcement Learning with Neural Networks Part 1: Learning Without Correct Answers](https://dev.to/rijultp/understanding-reinforcement-learning-with-neural-networks-part-1-learning-without-correct-answers-47ld)**
-  *<p>In this article, we will explore <strong>reinforcement learning with neural networks</strong>.</p>
+- **[The Co-Founder Vetting System Nobody Talks About (Until It's Too Late)](https://dev.to/ariauser13/the-co-founder-vetting-system-nobody-talks-about-until-its-too-late-k79)**
+  *<p>Most startup advice skips the awkward part: how do you actually find and evaluate a business partner before you're legally and financially entangled with the wrong person?</p>
 
-<p>Let’s start with a simple example.</p>
+<p>I've seen two kin...*
+  📅 Sat, 09 May 2026 01:47:40 +0000
 
-<h2>
-  
-  
-  Choosing Between Two Snack Places
-</h2>
-
-...*
-  📅 Fri, 08 May 2026 18:50:27 +0000
-
-- **[AI-Powered ERP System with Gemma 26B MoE](https://dev.to/kheai/ai-powered-erp-system-with-gemma-26b-moe-2l5i)**
-  *<p><em>This is a submission for the <a href="https://dev.to/challenges/google-gemma-2026-05-06">Gemma 4 Challenge: Build with Gemma 4</a></em></p>
-
-<p><a class="article-body-image-wrapper" href="https...*
-  📅 Fri, 08 May 2026 18:49:02 +0000
+- **[How I Built a Multi-Sport AI Coach on iOS as a Solo Developer — Architecture Decisions That Actually Mattered](https://dev.to/benjamin_pires_59127eddff/how-i-built-a-multi-sport-ai-coach-on-ios-as-a-solo-developer-architecture-decisions-that-22l9)**
+  *<p>Most articles about building AI apps focus on the model. This one focuses on everything around the model — the architecture decisions that determined whether the product would actually ship, actual...*
+  📅 Sat, 09 May 2026 01:47:25 +0000
 
 </details>
 
@@ -128,103 +117,103 @@
 
 ### 📈 Daily Trending
 
-- **[nooncheetahstart/Kahoot-tools-AI](https://github.com/nooncheetahstart/Kahoot-tools-AI)** ⭐ 106
+- **[ckolivas/ckpool](https://github.com/ckolivas/ckpool)** ⭐ 6
+  ![C](https://img.shields.io/badge/-C-lightgrey)
+  None
+
+- **[davrisjen/Instagram-Reporting-Bot](https://github.com/davrisjen/Instagram-Reporting-Bot)** ⭐ 4
   ![Python](https://img.shields.io/badge/-Python-blue)
-  Kahoot || Kahoot helper || Kahoot tools || Kahoot ai
+  This tool automates the process of reporting Instagram accounts that may violate the platform's policies..
 
-- **[Tremorfitzapplaud/1tamilmv-telegram-bot](https://github.com/Tremorfitzapplaud/1tamilmv-telegram-bot)** ⭐ 105
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  1tamilmv || 1tamilmv telegram || 1tamilmv bot || WD_1tamilmv_v2_bot
+- **[dragonscraper/bookmyshow-scraper](https://github.com/dragonscraper/bookmyshow-scraper)** ⭐ 3
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
+  this is an old scraper for bookmyshow  i made it two years ago it does  need some changes 
 
-- **[ckpxgfnksd-max/uap-release-analyzer](https://github.com/ckpxgfnksd-max/uap-release-analyzer)** ⭐ 47
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  A Claude skill for analyzing tranches of declassified UAP/UFO documents (war.gov PURSUE, FBI Vault, NARA, AARO). Inventory + text extraction + entity surfacing + standardized 11-section REPORT.md.
-
-- **[GordenSun/CuiMao](https://github.com/GordenSun/CuiMao)** ⭐ 47
-  ![HTML](https://img.shields.io/badge/-HTML-lightgrey)
-  眼睛跟着鼠标旋转。
-
-- **[mitsuhiko/pi-ds4](https://github.com/mitsuhiko/pi-ds4)** ⭐ 46
+- **[masonthemaker/palmprint](https://github.com/masonthemaker/palmprint)** ⭐ 3
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
-  Run deepseek4 locally on metal right from within Pi
+  Hand-gesture and facial-expression verification instead of CAPTCHAs, with human-in-the-loop consent for AI agents
 
-- **[duguying/100M](https://github.com/duguying/100M)** ⭐ 41
+- **[cezarmezzalira/afya-aep-2026](https://github.com/cezarmezzalira/afya-aep-2026)** ⭐ 3
+  ![Java](https://img.shields.io/badge/-Java-orange)
+  None
+
+- **[LiZhuoRan0/Weekly-Report-Aggregator](https://github.com/LiZhuoRan0/Weekly-Report-Aggregator)** ⭐ 3
   ![Python](https://img.shields.io/badge/-Python-blue)
-  training your 0.1B llm from zero
+  Receive weekly reports from QQ email and the designated local folder, and integrate and send them.
 
-- **[iphoenixon/youtube-sandbox](https://github.com/iphoenixon/youtube-sandbox)** ⭐ 41
+- **[Shigma-dev/test](https://github.com/Shigma-dev/test)** ⭐ 2
   ![None](https://img.shields.io/badge/-None-lightgrey)
   None
 
-- **[chencore/autoresearch-crypto](https://github.com/chencore/autoresearch-crypto)** ⭐ 39
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  autoresearch-crypto
+- **[Makers-01/MakersPets](https://github.com/Makers-01/MakersPets)** ⭐ 2
+  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
+  国产大模型桌宠
 
 ### 📈 Weekly Trending
 
-- **[V4bel/dirtyfrag](https://github.com/V4bel/dirtyfrag)** ⭐ 2,651
+- **[V4bel/dirtyfrag](https://github.com/V4bel/dirtyfrag)** ⭐ 2,906
   ![C](https://img.shields.io/badge/-C-lightgrey)
   None
 
-- **[antirez/ds4](https://github.com/antirez/ds4)** ⭐ 2,204
+- **[antirez/ds4](https://github.com/antirez/ds4)** ⭐ 2,509
   ![C](https://img.shields.io/badge/-C-lightgrey)
   DeepSeek 4 Flash local inference engine for Metal
 
-- **[aattaran/deepclaude](https://github.com/aattaran/deepclaude)** ⭐ 1,635
+- **[aattaran/deepclaude](https://github.com/aattaran/deepclaude)** ⭐ 1,644
   ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
   Use Claude Code's autonomous agent loop with DeepSeek V4 Pro, OpenRouter, or any Anthropic-compatible backend. Same UX, 17x cheaper.
 
-- **[strukto-ai/mirage](https://github.com/strukto-ai/mirage)** ⭐ 1,380
+- **[strukto-ai/mirage](https://github.com/strukto-ai/mirage)** ⭐ 1,453
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   A Unified Virtual Filesystem For AI Agents
 
-- **[yaojingang/yao-open-prompts](https://github.com/yaojingang/yao-open-prompts)** ⭐ 1,362
+- **[yaojingang/yao-open-prompts](https://github.com/yaojingang/yao-open-prompts)** ⭐ 1,378
   ![Python](https://img.shields.io/badge/-Python-blue)
   Yao Open Prompts：中文 AI 提示词库，覆盖工作、学习、内容、营销和生活场景
 
-- **[XBuilderLAB/cheat-on-content](https://github.com/XBuilderLAB/cheat-on-content)** ⭐ 1,201
+- **[XBuilderLAB/cheat-on-content](https://github.com/XBuilderLAB/cheat-on-content)** ⭐ 1,220
   ![Shell](https://img.shields.io/badge/-Shell-lightgrey)
   You're reading this. The skill predicted it. A workflow that turns every post into a calibrated experiment—score, blind-predict, retro, evolve. The future doesn't reward effort, it rewards those who see the pattern first. 1M followers in a month — not luck, system.
 
-- **[crafter-station/petdex](https://github.com/crafter-station/petdex)** ⭐ 1,105
-  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
-  Public gallery of animated Codex pets
-
-- **[vibeforge1111/keep-codex-fast](https://github.com/vibeforge1111/keep-codex-fast)** ⭐ 910
+- **[MayersScott/rkn-block-checker](https://github.com/MayersScott/rkn-block-checker)** ⭐ 807
   ![Python](https://img.shields.io/badge/-Python-blue)
-  A backup-first Codex skill for keeping local Codex state fast, clean, and recoverable.
+  Diagnose RKN/TSPU internet blocks layer by layer (DNS, TCP, TLS, HTTP)
+
+- **[lightseekorg/tokenspeed](https://github.com/lightseekorg/tokenspeed)** ⭐ 788
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  TokenSpeed is a speed-of-light LLM inference engine.
 
 ### 📈 Monthly Trending
 
-- **[nexu-io/open-design](https://github.com/nexu-io/open-design)** ⭐ 33,770
+- **[nexu-io/open-design](https://github.com/nexu-io/open-design)** ⭐ 34,065
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   🎨 Local-first, open-source alternative to Anthropic's Claude Design. ⚡ 19 Skills · ✨ 71 brand-grade Design Systems 🖼 Generate web · desktop · mobile prototypes · slides · images · videos · HyperFrames 📦 Sandboxed preview · HTML/PDF/PPTX/MP4 export 🤖 Runs on Claude Code / Codex / Cursor / Gemini / OpenCode / Qwen / Copilot / Hermes / Kimi CLI.
 
-- **[EvoLinkAI/awesome-gpt-image-2-API-and-Prompts](https://github.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts)** ⭐ 13,451
+- **[EvoLinkAI/awesome-gpt-image-2-API-and-Prompts](https://github.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts)** ⭐ 13,518
   ![Python](https://img.shields.io/badge/-Python-blue)
   GPT-Image-2 API and Prompts
 
-- **[alchaincyf/huashu-design](https://github.com/alchaincyf/huashu-design)** ⭐ 12,668
+- **[alchaincyf/huashu-design](https://github.com/alchaincyf/huashu-design)** ⭐ 12,700
   ![HTML](https://img.shields.io/badge/-HTML-lightgrey)
   Huashu Design · HTML-native design skill for Claude Code · Claude Code 里 HTML 原生的设计 skill · 高保真原型 / 幻灯片 / 动画 + 20 设计哲学 + 5 维评审 + MP4 导出 · Agent-agnostic
 
-- **[kyegomez/OpenMythos](https://github.com/kyegomez/OpenMythos)** ⭐ 12,271
+- **[kyegomez/OpenMythos](https://github.com/kyegomez/OpenMythos)** ⭐ 12,283
   ![Python](https://img.shields.io/badge/-Python-blue)
   A theoretical reconstruction of the Claude Mythos architecture, built from first principles using the available research literature.
 
-- **[google-labs-code/design.md](https://github.com/google-labs-code/design.md)** ⭐ 12,180
+- **[google-labs-code/design.md](https://github.com/google-labs-code/design.md)** ⭐ 12,210
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   A format specification for describing a visual identity to coding agents. DESIGN.md gives agents a persistent, structured understanding of a design system.
 
-- **[browser-use/browser-harness](https://github.com/browser-use/browser-harness)** ⭐ 11,638
+- **[browser-use/browser-harness](https://github.com/browser-use/browser-harness)** ⭐ 11,691
   ![Python](https://img.shields.io/badge/-Python-blue)
   Browser Harness | Self-healing harness that enables LLMs to complete any task.
 
-- **[h4ckf0r0day/obscura](https://github.com/h4ckf0r0day/obscura)** ⭐ 11,111
+- **[h4ckf0r0day/obscura](https://github.com/h4ckf0r0day/obscura)** ⭐ 11,137
   ![Rust](https://img.shields.io/badge/-Rust-brown)
   The headless browser for AI agents and web scraping
 
-- **[browser-use/video-use](https://github.com/browser-use/video-use)** ⭐ 6,926
+- **[browser-use/video-use](https://github.com/browser-use/video-use)** ⭐ 6,963
   ![Python](https://img.shields.io/badge/-Python-blue)
   Edit videos with coding agents
 
@@ -502,57 +491,57 @@ The API i...
 | Skill | Status |
 |-------|--------|
 | Java | 🟢 Proficient |
-| Python | 🟢 Proficient |
-| JavaScript | 🔴 Beginner |
-| TypeScript | 🔴 Beginner |
-| Go | 🟢 Proficient |
+| Python | 🔴 Beginner |
+| JavaScript | ⚪ Planned |
+| TypeScript | 🟢 Proficient |
+| Go | 🟡 Learning |
 
 ### Frameworks
 
 | Skill | Status |
 |-------|--------|
-| React | ⚪ Planned |
-| Spring Boot | 🔴 Beginner |
+| React | 🟡 Learning |
+| Spring Boot | 🟡 Learning |
 | Django | 🟡 Learning |
 | Node.js | 🔴 Beginner |
-| Next.js | 🟢 Proficient |
+| Next.js | ⚪ Planned |
 
 ### Cybersecurity
 
 | Skill | Status |
 |-------|--------|
-| Penetration Testing | ⚪ Planned |
-| Web Security | ⚪ Planned |
-| Network Security | ⚪ Planned |
-| OWASP | ⚪ Planned |
+| Penetration Testing | 🟢 Proficient |
+| Web Security | 🟢 Proficient |
+| Network Security | 🔴 Beginner |
+| OWASP | 🟢 Proficient |
 
 ### Ai Ml
 
 | Skill | Status |
 |-------|--------|
 | Machine Learning | 🟢 Proficient |
-| Deep Learning | 🟡 Learning |
+| Deep Learning | ⚪ Planned |
 | NLP | 🟢 Proficient |
 | Computer Vision | 🔴 Beginner |
-| TensorFlow | 🟢 Proficient |
+| TensorFlow | 🟡 Learning |
 | PyTorch | 🟢 Proficient |
 
 ### Devops
 
 | Skill | Status |
 |-------|--------|
-| Docker | 🔴 Beginner |
-| Kubernetes | 🔴 Beginner |
-| CI/CD | 🔴 Beginner |
+| Docker | 🟡 Learning |
+| Kubernetes | 🟢 Proficient |
+| CI/CD | 🟢 Proficient |
 | AWS | 🟡 Learning |
-| Azure | ⚪ Planned |
+| Azure | 🔴 Beginner |
 
 ### Other
 
 | Skill | Status |
 |-------|--------|
 | Blockchain | 🟢 Proficient |
-| Web3 | ⚪ Planned |
+| Web3 | 🔴 Beginner |
 | Cloud Computing | 🟡 Learning |
 
 </details>
@@ -571,7 +560,7 @@ This dashboard is automatically updated every 6 hours using GitHub Actions. The 
 
 <div align="center">
 
-**Last Updated:** May 08, 2026
+**Last Updated:** May 09, 2026
 
 Made with ❤️ and automated with GitHub Actions
 
