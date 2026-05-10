@@ -46,32 +46,34 @@
 
 ### 📑 Hacker News
 
-- **[Debian must ship reproducible packages](https://lists.debian.org/debian-devel-announce/2026/05/msg00001.html)**
-  *<p>Article URL: <a href="https://lists.debian.org/debian-devel-announce/2026/05/msg00001.html">https://lists.debian.org/debian-devel-announce/2026/05/msg00001.html</a></p>
-<p>Comments URL: <a href="ht...*
-  📅 Sun, 10 May 2026 05:26:03 +0000
+- **[The left-wing case for AI](https://www.seangoedecke.com/the-left-wing-case-for-ai/)**
+  *<p>Article URL: <a href="https://www.seangoedecke.com/the-left-wing-case-for-ai/">https://www.seangoedecke.com/the-left-wing-case-for-ai/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com...*
+  📅 Sun, 10 May 2026 12:01:03 +0000
 
-- **[Scouting's Real Crisis Is Not Marketing. It Is Decades of Neglect.](https://www.untendedfire.org/2026/05/09/scoutings-real-crisis-is-not-marketing-it-is-decades-of-neglect/)**
-  *<p>Article URL: <a href="https://www.untendedfire.org/2026/05/09/scoutings-real-crisis-is-not-marketing-it-is-decades-of-neglect/">https://www.untendedfire.org/2026/05/09/scoutings-real-crisis-is-not-...*
-  📅 Sun, 10 May 2026 04:47:45 +0000
+- **[9 Mothers (YC P26) Is Hiring](https://jobs.ashbyhq.com/9-mothers?utm_source=x8pZ4B3P3Q)**
+  *<p>Article URL: <a href="https://jobs.ashbyhq.com/9-mothers?utm_source=x8pZ4B3P3Q">https://jobs.ashbyhq.com/9-mothers?utm_source=x8pZ4B3P3Q</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.c...*
+  📅 Sun, 10 May 2026 12:00:11 +0000
 
-- **[Gemini API File Search is now multimodal](https://blog.google/innovation-and-ai/technology/developers-tools/expanded-gemini-api-file-search-multimodal-rag/)**
-  *<p>Article URL: <a href="https://blog.google/innovation-and-ai/technology/developers-tools/expanded-gemini-api-file-search-multimodal-rag/">https://blog.google/innovation-and-ai/technology/developers-...*
-  📅 Sun, 10 May 2026 03:22:02 +0000
+- **[Space Cadet Pinball on Linux](https://brennan.io/2026/05/09/pinball-and-escrow/)**
+  *<p>Article URL: <a href="https://brennan.io/2026/05/09/pinball-and-escrow/">https://brennan.io/2026/05/09/pinball-and-escrow/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=480...*
+  📅 Sun, 10 May 2026 11:22:02 +0000
 
-- **[Show HN: Building a web server in assembly to give my life (a lack of) meaning](https://github.com/imtomt/ymawky)**
-  *<p>This is ymawky, a static file web server for MacOS written entirely in ARM64 assembly. It supports GET, PUT, DELETE, HEAD, and OPTIONS requests, and supports Range: bytes=X-Y headers (which allows ...*
-  📅 Sun, 10 May 2026 03:01:44 +0000
+- **[Replacing a 3 GB SQLite db with a 10 MB FST (finite state transducer) binary](https://til.andrew-quinn.me/posts/replacing-a-3-gb-sqlite-database-with-a-7-mb-fst-finite-state-trandsucer-binary/)**
+  *<p>Article URL: <a href="https://til.andrew-quinn.me/posts/replacing-a-3-gb-sqlite-database-with-a-7-mb-fst-finite-state-trandsucer-binary/">https://til.andrew-quinn.me/posts/replacing-a-3-gb-sqlite-d...*
+  📅 Sun, 10 May 2026 10:33:06 +0000
 
-- **[Sparse Cholesky Elimination Tree](https://www.reidatcheson.com/sparse/linear/cholesky/2026/04/09/etree.html)**
-  *<p>Article URL: <a href="https://www.reidatcheson.com/sparse/linear/cholesky/2026/04/09/etree.html">https://www.reidatcheson.com/sparse/linear/cholesky/2026/04/09/etree.html</a></p>
-<p>Comments URL: <...*
-  📅 Sun, 10 May 2026 01:52:55 +0000
+- **[Think Linear Algebra (2023)](https://allendowney.github.io/ThinkLinearAlgebra/index.html)**
+  *<p>Article URL: <a href="https://allendowney.github.io/ThinkLinearAlgebra/index.html">https://allendowney.github.io/ThinkLinearAlgebra/index.html</a></p>
+<p>Comments URL: <a href="https://news.ycombin...*
+  📅 Sun, 10 May 2026 09:40:33 +0000
 
-- **[Show HN: Rust but Lisp](https://github.com/ThatXliner/rust-but-lisp)**
-  *<p>Article URL: <a href="https://github.com/ThatXliner/rust-but-lisp">https://github.com/ThatXliner/rust-but-lisp</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=48078575">https...*
-  📅 Sat, 09 May 2026 21:46:27 +0000
+- **[FreeBSD – A Lesson in Poor Defaults](https://vez.mrsk.me/freebsd-defaults)**
+  *<p>Article URL: <a href="https://vez.mrsk.me/freebsd-defaults">https://vez.mrsk.me/freebsd-defaults</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=48082342">https://news.ycombi...*
+  📅 Sun, 10 May 2026 09:27:11 +0000
 
 ### 📑 TechCrunch
 
@@ -101,19 +103,26 @@
 
 ### 📑 Dev.to
 
-- **[63. Confusion Matrix: What Your Model Got Wrong and Why](https://dev.to/yakhilesh/63-confusion-matrix-what-your-model-got-wrong-and-why-3lgi)**
-  *<p>Your model has 95% accuracy. You ship it.</p>
+- **[TripSync — A Three-Tier Gemma 4 Travel Planner Running Live on Flask](https://dev.to/nightowl/-tripsync-a-three-tier-gemma-4-travel-planner-running-live-on-flask-3iki)**
+  *<p>This is a submission for the <a href="https://dev.to/challenges/google-gemma-2026-05-06">Gemma 4 Challenge: Build With Gemma 4</a>.</p>
 
-<p>Three weeks later someone tells you it's missing 40% of actual fraud cases.</p>
 
-<p>You check. The dataset had 95% legit transactions and 5% fraud....*
-  📅 Sun, 10 May 2026 07:51:27 +0000
 
-- **[62. Naive Bayes: Fast, Simple, Surprisingly Effective](https://dev.to/yakhilesh/62-naive-bayes-fast-simple-surprisingly-effective-31m9)**
-  *<p>Your email spam filter makes a decision in milliseconds. Thousands of words. Instant classification.</p>
 
-<p>Most of the algorithms we've covered so far would struggle with that. KNN needs to compu...*
-  📅 Sun, 10 May 2026 07:49:58 +0000
+<h2>
+  
+  
+  What I Built
+</h2>
+
+<p>TripSync is a live AI...*
+  📅 Sun, 10 May 2026 12:52:07 +0000
+
+- **[All Roads Lead to AI Rome](https://dev.to/vektor_memory_43f51a32376/all-roads-lead-to-ai-rome-16f)**
+  *<p>We built incredible AI tools. Then we built walls between them, and forgot to lay the road infrastructure.</p>
+
+<p><a class="article-body-image-wrapper" href="https://media2.dev.to/dynamic/image/wi...*
+  📅 Sun, 10 May 2026 12:43:39 +0000
 
 </details>
 
@@ -121,103 +130,103 @@
 
 ### 📈 Daily Trending
 
-- **[Rhythmplocutter/printer-offline-fix](https://github.com/Rhythmplocutter/printer-offline-fix)** ⭐ 77
+- **[thakur-works/DarkGPT](https://github.com/thakur-works/DarkGPT)** ⭐ 531
+  ![None](https://img.shields.io/badge/-None-lightgrey)
+  Darkgpt mod free #chatgpt
+
+- **[thakur-works/Velocity-Executor](https://github.com/thakur-works/Velocity-Executor)** ⭐ 528
+  ![None](https://img.shields.io/badge/-None-lightgrey)
+  This repository contains Velocity Executor — a free Roblox script executor for PC built for fast injection, stable performance, and easy access. Includes Level 8 execution in 2026 with no ads, no key checkpoints, and no extra verification.
+
+- **[iampedii/WhiteDNS](https://github.com/iampedii/WhiteDNS)** ⭐ 137
+  ![Kotlin](https://img.shields.io/badge/-Kotlin-lightgrey)
+  Source-available Android DNS tunneling client with VPN and proxy modes, backed by MasterDNS & StormDNS.
+
+- **[Rhythmplocutter/printer-offline-fix](https://github.com/Rhythmplocutter/printer-offline-fix)** ⭐ 111
   ![PowerShell](https://img.shields.io/badge/-PowerShell-lightgrey)
   printer offline fix || printer offline || printer offline driver || printer offline fix windows
 
-- **[zhengkid/AutoTTS](https://github.com/zhengkid/AutoTTS)** ⭐ 12
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  The offical repo for "LLMs Improving LLMs: Agentic Discovery for Test-Time Scaling"
+- **[huangserva/3DCellForge](https://github.com/huangserva/3DCellForge)** ⭐ 63
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
+  AI-powered interactive 3D cell generation and exploration studio.
 
-- **[3440869867/image-multi-asset-extractor](https://github.com/3440869867/image-multi-asset-extractor)** ⭐ 12
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  Automatically split multi-object asset sheets into individual transparent PNG assets with background removal and manifest generation.
-
-- **[capitalparser/notebooklm-wiki-pipeline](https://github.com/capitalparser/notebooklm-wiki-pipeline)** ⭐ 8
-  ![None](https://img.shields.io/badge/-None-lightgrey)
-  None
-
-- **[yigehaozi/To-Reach-All-Easily](https://github.com/yigehaozi/To-Reach-All-Easily)** ⭐ 6
+- **[cclank/cell-architecture-studio](https://github.com/cclank/cell-architecture-studio)** ⭐ 35
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
-  None
+  Interactive 3D cell architecture gallery built with React and Three.js
 
-- **[aslzoda1/font](https://github.com/aslzoda1/font)** ⭐ 4
-  ![HTML](https://img.shields.io/badge/-HTML-lightgrey)
-  None
+- **[virgo777/buddyme](https://github.com/virgo777/buddyme)** ⭐ 31
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  Lightweight agent framework with layered personality evolution, three-tier skill loading and heartbeat memory system.
 
-- **[aslzoda1/remove-underline-link](https://github.com/aslzoda1/remove-underline-link)** ⭐ 4
-  ![HTML](https://img.shields.io/badge/-HTML-lightgrey)
-  None
-
-- **[aslzoda1/breakout-og-frame](https://github.com/aslzoda1/breakout-og-frame)** ⭐ 4
-  ![HTML](https://img.shields.io/badge/-HTML-lightgrey)
+- **[capitalparser/notebooklm-wiki-pipeline](https://github.com/capitalparser/notebooklm-wiki-pipeline)** ⭐ 26
+  ![None](https://img.shields.io/badge/-None-lightgrey)
   None
 
 ### 📈 Weekly Trending
 
-- **[antirez/ds4](https://github.com/antirez/ds4)** ⭐ 5,083
+- **[antirez/ds4](https://github.com/antirez/ds4)** ⭐ 5,443
   ![C](https://img.shields.io/badge/-C-lightgrey)
   DeepSeek 4 Flash local inference engine for Metal
 
-- **[V4bel/dirtyfrag](https://github.com/V4bel/dirtyfrag)** ⭐ 3,804
+- **[V4bel/dirtyfrag](https://github.com/V4bel/dirtyfrag)** ⭐ 3,922
   ![C](https://img.shields.io/badge/-C-lightgrey)
   None
 
-- **[vercel-labs/zero-native](https://github.com/vercel-labs/zero-native)** ⭐ 1,863
+- **[vercel-labs/zero-native](https://github.com/vercel-labs/zero-native)** ⭐ 2,025
   ![Zig](https://img.shields.io/badge/-Zig-lightgrey)
   Build desktop + mobile apps with Zig and web UI
 
-- **[strukto-ai/mirage](https://github.com/strukto-ai/mirage)** ⭐ 1,669
+- **[strukto-ai/mirage](https://github.com/strukto-ai/mirage)** ⭐ 1,701
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   A Unified Virtual Filesystem For AI Agents
 
-- **[yaojingang/yao-open-prompts](https://github.com/yaojingang/yao-open-prompts)** ⭐ 1,515
+- **[yaojingang/yao-open-prompts](https://github.com/yaojingang/yao-open-prompts)** ⭐ 1,533
   ![Python](https://img.shields.io/badge/-Python-blue)
   Yao Open Prompts：中文 AI 提示词库，覆盖工作、学习、内容、营销和生活场景
 
-- **[XBuilderLAB/cheat-on-content](https://github.com/XBuilderLAB/cheat-on-content)** ⭐ 1,467
+- **[XBuilderLAB/cheat-on-content](https://github.com/XBuilderLAB/cheat-on-content)** ⭐ 1,505
   ![Shell](https://img.shields.io/badge/-Shell-lightgrey)
   You're reading this. The skill predicted it. A workflow that turns every post into a calibrated experiment—score, blind-predict, retro, evolve. The future doesn't reward effort, it rewards those who see the pattern first. 1M followers in a month — not luck, system.
 
-- **[lightseekorg/tokenspeed](https://github.com/lightseekorg/tokenspeed)** ⭐ 873
+- **[lightseekorg/tokenspeed](https://github.com/lightseekorg/tokenspeed)** ⭐ 882
   ![Python](https://img.shields.io/badge/-Python-blue)
   TokenSpeed is a speed-of-light LLM inference engine.
 
-- **[zarazhangrui/beautiful-html-templates](https://github.com/zarazhangrui/beautiful-html-templates)** ⭐ 647
+- **[zarazhangrui/beautiful-html-templates](https://github.com/zarazhangrui/beautiful-html-templates)** ⭐ 684
   ![HTML](https://img.shields.io/badge/-HTML-lightgrey)
   A library of HTML slide templates designed so any coding agent can pick the right one and produce a beautiful deck on the user's behalf, automatically.
 
 ### 📈 Monthly Trending
 
-- **[nexu-io/open-design](https://github.com/nexu-io/open-design)** ⭐ 35,549
+- **[nexu-io/open-design](https://github.com/nexu-io/open-design)** ⭐ 35,753
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   🎨 Local-first, open-source alternative to Anthropic's Claude Design. ⚡ 19 Skills · ✨ 71 brand-grade Design Systems 🖼 Generate web · desktop · mobile prototypes · slides · images · videos · HyperFrames 📦 Sandboxed preview · HTML/PDF/PPTX/MP4 export 🤖 Runs on Claude Code / Codex / Cursor / Gemini / OpenCode / Qwen / Copilot / Hermes / Kimi CLI.
 
-- **[EvoLinkAI/awesome-gpt-image-2-API-and-Prompts](https://github.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts)** ⭐ 13,738
+- **[EvoLinkAI/awesome-gpt-image-2-API-and-Prompts](https://github.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts)** ⭐ 13,763
   ![Python](https://img.shields.io/badge/-Python-blue)
   GPT-Image-2 API and Prompts
 
-- **[alchaincyf/huashu-design](https://github.com/alchaincyf/huashu-design)** ⭐ 12,906
+- **[alchaincyf/huashu-design](https://github.com/alchaincyf/huashu-design)** ⭐ 12,956
   ![HTML](https://img.shields.io/badge/-HTML-lightgrey)
   Huashu Design · HTML-native design skill for Claude Code · Claude Code 里 HTML 原生的设计 skill · 高保真原型 / 幻灯片 / 动画 + 20 设计哲学 + 5 维评审 + MP4 导出 · Agent-agnostic
 
-- **[kyegomez/OpenMythos](https://github.com/kyegomez/OpenMythos)** ⭐ 12,326
+- **[kyegomez/OpenMythos](https://github.com/kyegomez/OpenMythos)** ⭐ 12,337
   ![Python](https://img.shields.io/badge/-Python-blue)
   A theoretical reconstruction of the Claude Mythos architecture, built from first principles using the available research literature.
 
-- **[browser-use/browser-harness](https://github.com/browser-use/browser-harness)** ⭐ 11,877
+- **[browser-use/browser-harness](https://github.com/browser-use/browser-harness)** ⭐ 11,903
   ![Python](https://img.shields.io/badge/-Python-blue)
   Browser Harness | Self-healing harness that enables LLMs to complete any task.
 
-- **[h4ckf0r0day/obscura](https://github.com/h4ckf0r0day/obscura)** ⭐ 11,325
+- **[h4ckf0r0day/obscura](https://github.com/h4ckf0r0day/obscura)** ⭐ 11,353
   ![Rust](https://img.shields.io/badge/-Rust-brown)
   The headless browser for AI agents and web scraping
 
-- **[browser-use/video-use](https://github.com/browser-use/video-use)** ⭐ 7,070
+- **[browser-use/video-use](https://github.com/browser-use/video-use)** ⭐ 7,103
   ![Python](https://img.shields.io/badge/-Python-blue)
   Edit videos with coding agents
 
-- **[op7418/guizang-ppt-skill](https://github.com/op7418/guizang-ppt-skill)** ⭐ 6,138
+- **[op7418/guizang-ppt-skill](https://github.com/op7418/guizang-ppt-skill)** ⭐ 6,187
   ![HTML](https://img.shields.io/badge/-HTML-lightgrey)
   A Claude Code Skill that turns prompts into horizontal-swipe magazine-style HTML decks — 10 layouts, 5 curated themes, WebGL hero backgrounds, single-file output.
 
@@ -494,38 +503,38 @@ The API i...
 
 | Skill | Status |
 |-------|--------|
-| Java | 🟢 Proficient |
+| Java | ⚪ Planned |
 | Python | ⚪ Planned |
 | JavaScript | 🟢 Proficient |
-| TypeScript | ⚪ Planned |
-| Go | 🔴 Beginner |
+| TypeScript | 🟢 Proficient |
+| Go | ⚪ Planned |
 
 ### Frameworks
 
 | Skill | Status |
 |-------|--------|
-| React | 🟡 Learning |
-| Spring Boot | 🟢 Proficient |
-| Django | 🟢 Proficient |
-| Node.js | 🔴 Beginner |
+| React | 🔴 Beginner |
+| Spring Boot | 🟡 Learning |
+| Django | 🔴 Beginner |
+| Node.js | 🟢 Proficient |
 | Next.js | 🟢 Proficient |
 
 ### Cybersecurity
 
 | Skill | Status |
 |-------|--------|
-| Penetration Testing | ⚪ Planned |
+| Penetration Testing | 🟡 Learning |
 | Web Security | 🟢 Proficient |
 | Network Security | ⚪ Planned |
-| OWASP | ⚪ Planned |
+| OWASP | 🟢 Proficient |
 
 ### Ai Ml
 
 | Skill | Status |
 |-------|--------|
-| Machine Learning | 🟡 Learning |
-| Deep Learning | 🟢 Proficient |
-| NLP | 🔴 Beginner |
+| Machine Learning | 🟢 Proficient |
+| Deep Learning | 🔴 Beginner |
+| NLP | ⚪ Planned |
 | Computer Vision | ⚪ Planned |
 | TensorFlow | ⚪ Planned |
 | PyTorch | 🟡 Learning |
@@ -534,9 +543,9 @@ The API i...
 
 | Skill | Status |
 |-------|--------|
-| Docker | 🟢 Proficient |
+| Docker | ⚪ Planned |
 | Kubernetes | 🟡 Learning |
-| CI/CD | ⚪ Planned |
+| CI/CD | 🟢 Proficient |
 | AWS | 🟢 Proficient |
 | Azure | ⚪ Planned |
 
@@ -544,9 +553,9 @@ The API i...
 
 | Skill | Status |
 |-------|--------|
-| Blockchain | ⚪ Planned |
-| Web3 | 🟢 Proficient |
-| Cloud Computing | 🟡 Learning |
+| Blockchain | 🟢 Proficient |
+| Web3 | 🟡 Learning |
+| Cloud Computing | ⚪ Planned |
 
 </details>
 
