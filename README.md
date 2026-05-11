@@ -46,32 +46,33 @@
 
 ### 📑 Hacker News
 
+- **[Mythos Finds a Curl Vulnerability](https://daniel.haxx.se/blog/2026/05/11/mythos-finds-a-curl-vulnerability/)**
+  *<p>Article URL: <a href="https://daniel.haxx.se/blog/2026/05/11/mythos-finds-a-curl-vulnerability/">https://daniel.haxx.se/blog/2026/05/11/mythos-finds-a-curl-vulnerability/</a></p>
+<p>Comments URL: <...*
+  📅 Mon, 11 May 2026 06:39:08 +0000
+
+- **[7 lines of code, 3 minutes: Implement a programming language (2010)](https://matt.might.net/articles/implementing-a-programming-language/)**
+  *<p>Article URL: <a href="https://matt.might.net/articles/implementing-a-programming-language/">https://matt.might.net/articles/implementing-a-programming-language/</a></p>
+<p>Comments URL: <a href="ht...*
+  📅 Mon, 11 May 2026 04:34:40 +0000
+
+- **[The Greatest Shot in Television: James Burke Had One Chance to Nail This Scene (2024)](https://www.openculture.com/2024/10/the-greatest-shot-in-television.html)**
+  *<p>Article URL: <a href="https://www.openculture.com/2024/10/the-greatest-shot-in-television.html">https://www.openculture.com/2024/10/the-greatest-shot-in-television.html</a></p>
+<p>Comments URL: <a ...*
+  📅 Mon, 11 May 2026 02:43:34 +0000
+
+- **[Show HN: adamsreview – better multi-agent PR reviews for Claude Code](https://github.com/adamjgmiller/adamsreview)**
+  *<p>I built adamsreview, a Claude Code plugin that runs deeper, multi-stage PR reviews using parallel sub-agents, validation passes, persistent JSON state, and optional ensemble review via Codex CLI an...*
+  📅 Mon, 11 May 2026 02:06:29 +0000
+
 - **[I'm going back to writing code by hand](https://blog.k10s.dev/im-going-back-to-writing-code-by-hand/)**
   *<p>Article URL: <a href="https://blog.k10s.dev/im-going-back-to-writing-code-by-hand/">https://blog.k10s.dev/im-going-back-to-writing-code-by-hand/</a></p>
 <p>Comments URL: <a href="https://news.ycomb...*
   📅 Mon, 11 May 2026 01:23:51 +0000
 
-- **[Make America AI ready: Strengths, weaknesses, and recommendations](https://blog.citp.princeton.edu/2026/05/05/make-america-ai-ready-strengths-weaknesses-and-recommendations/)**
-  *<p>Article URL: <a href="https://blog.citp.princeton.edu/2026/05/05/make-america-ai-ready-strengths-weaknesses-and-recommendations/">https://blog.citp.princeton.edu/2026/05/05/make-america-ai-ready-st...*
-  📅 Mon, 11 May 2026 00:10:34 +0000
-
-- **[You Need AI That Reduces Maintenance Costs](https://www.jamesshore.com/v2/blog/2026/you-need-ai-that-reduces-your-maintenance-costs)**
+- **[An AI coding agent, used to write code, needs to reduce your maintenance costs](https://www.jamesshore.com/v2/blog/2026/you-need-ai-that-reduces-your-maintenance-costs)**
   *<p>Article URL: <a href="https://www.jamesshore.com/v2/blog/2026/you-need-ai-that-reduces-your-maintenance-costs">https://www.jamesshore.com/v2/blog/2026/you-need-ai-that-reduces-your-maintenance-cost...*
   📅 Sun, 10 May 2026 23:39:55 +0000
-
-- **[PS3 Emulator Devs Politely Ask That People Stop Flooding It with AI PRs](https://kotaku.com/playstation-3-emulator-devs-politely-ask-that-people-stop-flooding-it-with-ai-code-pull-requests-2000694656)**
-  *<p>Article URL: <a href="https://kotaku.com/playstation-3-emulator-devs-politely-ask-that-people-stop-flooding-it-with-ai-code-pull-requests-2000694656">https://kotaku.com/playstation-3-emulator-devs-...*
-  📅 Sun, 10 May 2026 23:36:48 +0000
-
-- **[Running local models on an M4 with 24GB memory](https://jola.dev/posts/running-local-models-on-m4)**
-  *<p>Article URL: <a href="https://jola.dev/posts/running-local-models-on-m4">https://jola.dev/posts/running-local-models-on-m4</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=480...*
-  📅 Sun, 10 May 2026 23:09:10 +0000
-
-- **[How Fast Does Claude, Acting as a User Space IP Stack, Respond to Pings?](https://dunkels.com/adam/claude-user-space-ip-stack-ping/)**
-  *<p>Article URL: <a href="https://dunkels.com/adam/claude-user-space-ip-stack-ping/">https://dunkels.com/adam/claude-user-space-ip-stack-ping/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator...*
-  📅 Sun, 10 May 2026 23:02:31 +0000
 
 ### 📑 TechCrunch
 
@@ -101,19 +102,13 @@
 
 ### 📑 Dev.to
 
-- **[Multi-Paxos vs Strong-Sync Primary/Replica vs Raft: Which HA Model Actually Gets You RPO=0 in 2026?](https://dev.to/seekdb/multi-paxos-vs-strong-sync-primaryreplica-vs-raft-which-ha-model-actually-gets-you-rpo0-in-2026-4aea)**
-  *<p><em>An architect’s breakdown: quorum DR, split-brain, leases — and why “wait for the standby” isn’t the same as “survive minority failures.”</em></p>
+- **[Playbook de Teste de Servidor MCP: Manual + Automatizado com Apidog](https://dev.to/lucas_ferreira/playbook-de-teste-de-servidor-mcp-manual-automatizado-com-apidog-19b1)**
+  *<p>Uma postagem “Ableton Live MCP” no Show HN alcançou 118 pontos e 78 comentários no início desta semana. O padrão já é familiar: alguém escreveu um servidor do Model Context Protocol para uma ferram...*
+  📅 Mon, 11 May 2026 08:55:11 +0000
 
-<p><a class="article-body-image-wrapper" href=...*
-  📅 Mon, 11 May 2026 02:00:33 +0000
-
-- **[非本科工程師的踩坑心得：環境數據處理，為什麼跟線上課程教的都不一樣？](https://dev.to/arne_env/fei-ben-ke-gong-cheng-shi-de-cai-keng-xin-de-huan-jing-shu-ju-chu-li-wei-shi-mo-gen-xian-shang-ke-cheng-jiao-de-du-bu-yang--144g)**
-  *<p>我是一名環境工程師。因為工作上有很多數據彙整業務，半路出家學了 Python，想把那些重複性的 Excel 作業自動化。</p>
-
-<p>一開始，我嘗試把線上課程學到的 Pandas 技巧，套用到政府公開資料(Open data)跟實驗室的檢測報告上。結果，我卻迎來了嚴重的撞牆期。</p>
-
-<p>我發現，不是我的程式碼寫錯了，而是環境科學領域的數據，根本不符合主流資料科學課程裡那種「完美、...*
-  📅 Mon, 11 May 2026 02:00:00 +0000
+- **[Python in Data Analytics: A Practical Starting Point](https://dev.to/muriuki_kahuthu_54/python-in-data-analytics-a-practical-starting-point-55lh)**
+  *<p>I started learning Python not because I wanted to become a software developer, but because I kept hitting walls in Excel. I work in data analytics and business intelligence, and my career has cut a...*
+  📅 Mon, 11 May 2026 08:44:45 +0000
 
 </details>
 
@@ -121,105 +116,105 @@
 
 ### 📈 Daily Trending
 
-- **[itsuzef/goalkeeper](https://github.com/itsuzef/goalkeeper)** ⭐ 3
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  Set durable goals. Approve at the gate. Contract-driven autonomous goal execution for Claude Code. A subagent judge gates completion against an explicit Definition of Done.
-
-- **[sweetk-dev/11-IITP-DABT-MCP](https://github.com/sweetk-dev/11-IITP-DABT-MCP)** ⭐ 3
+- **[ai-twinkle/Hub](https://github.com/ai-twinkle/Hub)** ⭐ 81
   ![None](https://img.shields.io/badge/-None-lightgrey)
-  11. 문화관광정보 제공을 위한 MCP(Model Context Protocol) 호스트 및 서버구성
+  Twinkle Hub — community feedback / feature requests for hub.twinkleai.tw
 
-- **[lenhattung/SU26-SE2041-PRJ301](https://github.com/lenhattung/SU26-SE2041-PRJ301)** ⭐ 3
-  ![None](https://img.shields.io/badge/-None-lightgrey)
-  None
+- **[Longbridges/polymarket-kalshi-arbitrage-bot](https://github.com/Longbridges/polymarket-kalshi-arbitrage-bot)** ⭐ 47
+  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
+  polymarket trading bot, polymarket bot, polymarket kalshi trading bot, polymarket trading bot, polymarket bot, polymarket kalshi trading bot, polymarket trading bot, polymarket bot, polymarket kalshi trading bot, polymarket trading bot, polymarket bot, polymarket kalshi trading bot, polymarket trading bot, polymarket bot
 
-- **[BTspaceC/SAS-FAS-analyst](https://github.com/BTspaceC/SAS-FAS-analyst)** ⭐ 2
-  ![None](https://img.shields.io/badge/-None-lightgrey)
-  Structured Adversarial Synthesis - Financial Analysis System
+- **[sanzoI-tech/polymarket-kalshi-arbitrage-bot](https://github.com/sanzoI-tech/polymarket-kalshi-arbitrage-bot)** ⭐ 48
+  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
+  polymarket trading bot, polymarket bot, polymarket kalshi trading bot, polymarket trading bot, polymarket bot, polymarket kalshi trading bot, polymarket trading bot, polymarket bot, polymarket kalshi trading bot, polymarket trading bot, polymarket bot, polymarket kalshi trading bot, kalshi, prediction-markets, arbitrage, typescript, clob
 
-- **[ulrichheringer/flow.engine](https://github.com/ulrichheringer/flow.engine)** ⭐ 3
-  ![Kotlin](https://img.shields.io/badge/-Kotlin-lightgrey)
-  None
-
-- **[Noah0115/StoreApiTool-Electron](https://github.com/Noah0115/StoreApiTool-Electron)** ⭐ 2
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
-  基于 Electron 的 Microsoft Store 文件直链查询工具
-
-- **[Evan007H/bs-writer](https://github.com/Evan007H/bs-writer)** ⭐ 2
-  ![None](https://img.shields.io/badge/-None-lightgrey)
-  None
-
-- **[microtec9/IACC](https://github.com/microtec9/IACC)** ⭐ 1
+- **[hero8152/Infinite-Canvas](https://github.com/hero8152/Infinite-Canvas)** ⭐ 24
   ![HTML](https://img.shields.io/badge/-HTML-lightgrey)
-  None
+  Supports comfyui/API calls/modelscope calls
+
+- **[Drakkar-Softwares/polymarket-kalshi-arbitrage-bot](https://github.com/Drakkar-Softwares/polymarket-kalshi-arbitrage-bot)** ⭐ 20
+  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
+   polymarket trading bot, polymarket bot, polymarket kalshi trading bot,polymarket trading bot, polymarket bot, polymarket kalshi trading bot,polymarket trading bot, polymarket bot, polymarket kalshi trading bot,polymarket trading bot, polymarket bot, polymarket kalshi trading bot,polymarket trading bot, polymarket bot, polymarket kalshi trading bot
+
+- **[Liu-PenPen/skill-review](https://github.com/Liu-PenPen/skill-review)** ⭐ 15
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
+  给  Skill 做 code review 的 Skill
+
+- **[chris0214/Blender-MMD-Physics-Addons](https://github.com/chris0214/Blender-MMD-Physics-Addons)** ⭐ 14
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  适用于Blender4.2+版本的MMD实时物理模拟插件
+
+- **[eeviriyi/NodeGet-SingBox-Panel](https://github.com/eeviriyi/NodeGet-SingBox-Panel)** ⭐ 12
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
+  NodeGet Dashboard extension for managing sing-box configs
 
 ### 📈 Weekly Trending
 
-- **[antirez/ds4](https://github.com/antirez/ds4)** ⭐ 6,289
+- **[antirez/ds4](https://github.com/antirez/ds4)** ⭐ 6,837
   ![C](https://img.shields.io/badge/-C-lightgrey)
   DeepSeek 4 Flash local inference engine for Metal
 
-- **[V4bel/dirtyfrag](https://github.com/V4bel/dirtyfrag)** ⭐ 4,027
+- **[V4bel/dirtyfrag](https://github.com/V4bel/dirtyfrag)** ⭐ 4,107
   ![C](https://img.shields.io/badge/-C-lightgrey)
   None
 
-- **[vercel-labs/zero-native](https://github.com/vercel-labs/zero-native)** ⭐ 2,322
+- **[vercel-labs/zero-native](https://github.com/vercel-labs/zero-native)** ⭐ 2,421
   ![Zig](https://img.shields.io/badge/-Zig-lightgrey)
   Build desktop + mobile apps with Zig and web UI
 
-- **[strukto-ai/mirage](https://github.com/strukto-ai/mirage)** ⭐ 1,799
+- **[strukto-ai/mirage](https://github.com/strukto-ai/mirage)** ⭐ 1,836
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   A Unified Virtual Filesystem For AI Agents
 
-- **[yaojingang/yao-open-prompts](https://github.com/yaojingang/yao-open-prompts)** ⭐ 1,562
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  Yao Open Prompts：中文 AI 提示词库，覆盖工作、学习、内容、营销和生活场景
-
-- **[XBuilderLAB/cheat-on-content](https://github.com/XBuilderLAB/cheat-on-content)** ⭐ 1,563
+- **[XBuilderLAB/cheat-on-content](https://github.com/XBuilderLAB/cheat-on-content)** ⭐ 1,607
   ![Shell](https://img.shields.io/badge/-Shell-lightgrey)
   You're reading this. The skill predicted it. A workflow that turns every post into a calibrated experiment—score, blind-predict, retro, evolve. The future doesn't reward effort, it rewards those who see the pattern first. 1M followers in a month — not luck, system.
 
-- **[lightseekorg/tokenspeed](https://github.com/lightseekorg/tokenspeed)** ⭐ 909
+- **[yaojingang/yao-open-prompts](https://github.com/yaojingang/yao-open-prompts)** ⭐ 1,604
   ![Python](https://img.shields.io/badge/-Python-blue)
-  TokenSpeed is a speed-of-light LLM inference engine.
+  Yao Open Prompts：中文 AI 提示词库，覆盖工作、学习、内容、营销和生活场景
 
-- **[huangserva/3DCellForge](https://github.com/huangserva/3DCellForge)** ⭐ 794
+- **[huangserva/3DCellForge](https://github.com/huangserva/3DCellForge)** ⭐ 1,061
   ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
   AI-powered interactive 3D cell generation and exploration studio.
 
+- **[lightseekorg/tokenspeed](https://github.com/lightseekorg/tokenspeed)** ⭐ 934
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  TokenSpeed is a speed-of-light LLM inference engine.
+
 ### 📈 Monthly Trending
 
-- **[nexu-io/open-design](https://github.com/nexu-io/open-design)** ⭐ 36,266
+- **[nexu-io/open-design](https://github.com/nexu-io/open-design)** ⭐ 36,762
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   🎨 Local-first, open-source alternative to Anthropic's Claude Design. ⚡ 19 Skills · ✨ 71 brand-grade Design Systems 🖼 Generate web · desktop · mobile prototypes · slides · images · videos · HyperFrames 📦 Sandboxed preview · HTML/PDF/PPTX/MP4 export 🤖 Runs on Claude Code / Codex / Cursor / Gemini / OpenCode / Qwen / Copilot / Hermes / Kimi CLI.
 
-- **[EvoLinkAI/awesome-gpt-image-2-API-and-Prompts](https://github.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts)** ⭐ 13,804
+- **[EvoLinkAI/awesome-gpt-image-2-API-and-Prompts](https://github.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts)** ⭐ 13,867
   ![Python](https://img.shields.io/badge/-Python-blue)
   GPT-Image-2 API and Prompts
 
-- **[alchaincyf/huashu-design](https://github.com/alchaincyf/huashu-design)** ⭐ 13,044
+- **[alchaincyf/huashu-design](https://github.com/alchaincyf/huashu-design)** ⭐ 13,124
   ![HTML](https://img.shields.io/badge/-HTML-lightgrey)
   Huashu Design · HTML-native design skill for Claude Code · Claude Code 里 HTML 原生的设计 skill · 高保真原型 / 幻灯片 / 动画 + 20 设计哲学 + 5 维评审 + MP4 导出 · Agent-agnostic
 
-- **[kyegomez/OpenMythos](https://github.com/kyegomez/OpenMythos)** ⭐ 12,372
+- **[kyegomez/OpenMythos](https://github.com/kyegomez/OpenMythos)** ⭐ 12,388
   ![Python](https://img.shields.io/badge/-Python-blue)
   A theoretical reconstruction of the Claude Mythos architecture, built from first principles using the available research literature.
 
-- **[browser-use/browser-harness](https://github.com/browser-use/browser-harness)** ⭐ 11,975
+- **[browser-use/browser-harness](https://github.com/browser-use/browser-harness)** ⭐ 12,064
   ![Python](https://img.shields.io/badge/-Python-blue)
   Browser Harness | Self-healing harness that enables LLMs to complete any task.
 
-- **[h4ckf0r0day/obscura](https://github.com/h4ckf0r0day/obscura)** ⭐ 11,426
+- **[h4ckf0r0day/obscura](https://github.com/h4ckf0r0day/obscura)** ⭐ 11,473
   ![Rust](https://img.shields.io/badge/-Rust-brown)
   The headless browser for AI agents and web scraping
 
-- **[browser-use/video-use](https://github.com/browser-use/video-use)** ⭐ 7,158
+- **[browser-use/video-use](https://github.com/browser-use/video-use)** ⭐ 7,187
   ![Python](https://img.shields.io/badge/-Python-blue)
   Edit videos with coding agents
 
-- **[op7418/guizang-ppt-skill](https://github.com/op7418/guizang-ppt-skill)** ⭐ 6,295
-  ![HTML](https://img.shields.io/badge/-HTML-lightgrey)
-  A Claude Code Skill that turns prompts into horizontal-swipe magazine-style HTML decks — 10 layouts, 5 curated themes, WebGL hero backgrounds, single-file output.
+- **[antirez/ds4](https://github.com/antirez/ds4)** ⭐ 6,837
+  ![C](https://img.shields.io/badge/-C-lightgrey)
+  DeepSeek 4 Flash local inference engine for Metal
 
 ## 🚀 Latest Releases
 
@@ -496,9 +491,9 @@ The API i...
 |-------|--------|
 | Java | 🔴 Beginner |
 | Python | 🟡 Learning |
-| JavaScript | 🔴 Beginner |
-| TypeScript | 🟢 Proficient |
-| Go | 🔴 Beginner |
+| JavaScript | 🟡 Learning |
+| TypeScript | 🟡 Learning |
+| Go | ⚪ Planned |
 
 ### Frameworks
 
@@ -508,7 +503,7 @@ The API i...
 | Spring Boot | 🟢 Proficient |
 | Django | ⚪ Planned |
 | Node.js | 🔴 Beginner |
-| Next.js | 🟢 Proficient |
+| Next.js | 🟡 Learning |
 
 ### Cybersecurity
 
@@ -516,37 +511,37 @@ The API i...
 |-------|--------|
 | Penetration Testing | ⚪ Planned |
 | Web Security | ⚪ Planned |
-| Network Security | 🔴 Beginner |
+| Network Security | 🟡 Learning |
 | OWASP | 🟢 Proficient |
 
 ### Ai Ml
 
 | Skill | Status |
 |-------|--------|
-| Machine Learning | 🔴 Beginner |
-| Deep Learning | 🔴 Beginner |
-| NLP | 🔴 Beginner |
-| Computer Vision | 🔴 Beginner |
-| TensorFlow | 🟢 Proficient |
-| PyTorch | ⚪ Planned |
+| Machine Learning | 🟡 Learning |
+| Deep Learning | 🟢 Proficient |
+| NLP | 🟢 Proficient |
+| Computer Vision | 🟢 Proficient |
+| TensorFlow | ⚪ Planned |
+| PyTorch | 🟢 Proficient |
 
 ### Devops
 
 | Skill | Status |
 |-------|--------|
-| Docker | 🟢 Proficient |
-| Kubernetes | 🟢 Proficient |
-| CI/CD | 🔴 Beginner |
-| AWS | ⚪ Planned |
-| Azure | 🟡 Learning |
+| Docker | ⚪ Planned |
+| Kubernetes | ⚪ Planned |
+| CI/CD | 🟢 Proficient |
+| AWS | 🟡 Learning |
+| Azure | ⚪ Planned |
 
 ### Other
 
 | Skill | Status |
 |-------|--------|
-| Blockchain | ⚪ Planned |
+| Blockchain | 🔴 Beginner |
 | Web3 | 🔴 Beginner |
-| Cloud Computing | 🔴 Beginner |
+| Cloud Computing | 🟢 Proficient |
 
 </details>
 
