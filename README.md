@@ -46,69 +46,74 @@
 
 ### 📑 Hacker News
 
-- **[Mythos Finds a Curl Vulnerability](https://daniel.haxx.se/blog/2026/05/11/mythos-finds-a-curl-vulnerability/)**
-  *<p>Article URL: <a href="https://daniel.haxx.se/blog/2026/05/11/mythos-finds-a-curl-vulnerability/">https://daniel.haxx.se/blog/2026/05/11/mythos-finds-a-curl-vulnerability/</a></p>
-<p>Comments URL: <...*
-  📅 Mon, 11 May 2026 06:39:08 +0000
+- **[Out with the JavaScript, in with the HTML](https://blog.jim-nielsen.com/2026/out-with-js-in-with-html/)**
+  *<p>Article URL: <a href="https://blog.jim-nielsen.com/2026/out-with-js-in-with-html/">https://blog.jim-nielsen.com/2026/out-with-js-in-with-html/</a></p>
+<p>Comments URL: <a href="https://news.ycombin...*
+  📅 Mon, 11 May 2026 14:19:56 +0000
 
-- **[7 lines of code, 3 minutes: Implement a programming language (2010)](https://matt.might.net/articles/implementing-a-programming-language/)**
-  *<p>Article URL: <a href="https://matt.might.net/articles/implementing-a-programming-language/">https://matt.might.net/articles/implementing-a-programming-language/</a></p>
-<p>Comments URL: <a href="ht...*
-  📅 Mon, 11 May 2026 04:34:40 +0000
+- **[Checkmate in Iran](https://www.theatlantic.com/international/2026/05/iran-war-trump-losing/687094/)**
+  *<p>Article URL: <a href="https://www.theatlantic.com/international/2026/05/iran-war-trump-losing/687094/">https://www.theatlantic.com/international/2026/05/iran-war-trump-losing/687094/</a></p>
+<p>Com...*
+  📅 Mon, 11 May 2026 13:53:27 +0000
 
-- **[The Greatest Shot in Television: James Burke Had One Chance to Nail This Scene (2024)](https://www.openculture.com/2024/10/the-greatest-shot-in-television.html)**
-  *<p>Article URL: <a href="https://www.openculture.com/2024/10/the-greatest-shot-in-television.html">https://www.openculture.com/2024/10/the-greatest-shot-in-television.html</a></p>
-<p>Comments URL: <a ...*
-  📅 Mon, 11 May 2026 02:43:34 +0000
+- **[I keep tripping over "true, false, true"](https://allthingssmitty.com/2026/05/11/i-keep-tripping-over-true-false-true/)**
+  *<p>Article URL: <a href="https://allthingssmitty.com/2026/05/11/i-keep-tripping-over-true-false-true/">https://allthingssmitty.com/2026/05/11/i-keep-tripping-over-true-false-true/</a></p>
+<p>Comments ...*
+  📅 Mon, 11 May 2026 12:42:25 +0000
 
-- **[Show HN: adamsreview – better multi-agent PR reviews for Claude Code](https://github.com/adamjgmiller/adamsreview)**
-  *<p>I built adamsreview, a Claude Code plugin that runs deeper, multi-stage PR reviews using parallel sub-agents, validation passes, persistent JSON state, and optional ensemble review via Codex CLI an...*
-  📅 Mon, 11 May 2026 02:06:29 +0000
+- **[European Money Pours into Palantir](https://english.elpais.com/economy-and-business/branded/2026-04-11/european-money-pours-into-palantir-over-100-asset-managers-and-banks-boost-their-investments-in-the-controversial-tech-company.html)**
+  *<p>Article URL: <a href="https://english.elpais.com/economy-and-business/branded/2026-04-11/european-money-pours-into-palantir-over-100-asset-managers-and-banks-boost-their-investments-in-the-controve...*
+  📅 Mon, 11 May 2026 11:27:08 +0000
 
-- **[I'm going back to writing code by hand](https://blog.k10s.dev/im-going-back-to-writing-code-by-hand/)**
-  *<p>Article URL: <a href="https://blog.k10s.dev/im-going-back-to-writing-code-by-hand/">https://blog.k10s.dev/im-going-back-to-writing-code-by-hand/</a></p>
-<p>Comments URL: <a href="https://news.ycomb...*
-  📅 Mon, 11 May 2026 01:23:51 +0000
+- **[Ratty – A terminal emulator with inline 3D graphics](https://ratty-term.org/)**
+  *<p>Article URL: <a href="https://ratty-term.org/">https://ratty-term.org/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=48093100">https://news.ycombinator.com/item?id=48093100...*
+  📅 Mon, 11 May 2026 10:13:04 +0000
 
-- **[An AI coding agent, used to write code, needs to reduce your maintenance costs](https://www.jamesshore.com/v2/blog/2026/you-need-ai-that-reduces-your-maintenance-costs)**
-  *<p>Article URL: <a href="https://www.jamesshore.com/v2/blog/2026/you-need-ai-that-reduces-your-maintenance-costs">https://www.jamesshore.com/v2/blog/2026/you-need-ai-that-reduces-your-maintenance-cost...*
-  📅 Sun, 10 May 2026 23:39:55 +0000
+- **[All Those A.I. Note Takers? They're Making Lawyers Nervous](https://www.nytimes.com/2026/05/09/business/dealbook/ai-notetakers-legal-risk.html)**
+  *<p>Article URL: <a href="https://www.nytimes.com/2026/05/09/business/dealbook/ai-notetakers-legal-risk.html">https://www.nytimes.com/2026/05/09/business/dealbook/ai-notetakers-legal-risk.html</a></p>
+...*
+  📅 Mon, 11 May 2026 10:04:47 +0000
 
 ### 📑 TechCrunch
 
-- **[Get ready for the whisper-filled office of the future](https://techcrunch.com/2026/05/10/get-ready-for-the-whisper-filled-office-of-the-future/)**
-  *How will work setups change if we spend more and more time talking to our computers?...*
-  📅 Sun, 10 May 2026 21:15:30 +0000
+- **[NYT’s Wordle to become a TV game show](https://techcrunch.com/2026/05/11/nyts-wordle-to-become-a-tv-game-show/)**
+  *The popular mobile puzzle game will become a TV game show next year....*
+  📅 Mon, 11 May 2026 14:23:25 +0000
 
-- **[Anthropic says ‘evil’ portrayals of AI were responsible for Claude’s blackmail attempts](https://techcrunch.com/2026/05/10/anthropic-says-evil-portrayals-of-ai-were-responsible-for-claudes-blackmail-attempts/)**
-  *Fictional portrayals of artificial intelligence can have a real effect on AI models, according to Anthropic....*
-  📅 Sun, 10 May 2026 20:40:41 +0000
+- **[TikTok launches an ad-free subscription plan in the UK](https://techcrunch.com/2026/05/11/tiktok-launches-an-ad-free-subscription-plan-in-the-uk/)**
+  *Users who sign up for the plan won’t see ads on TikTok, and their data won’t be used for advertising purposes....*
+  📅 Mon, 11 May 2026 14:05:47 +0000
 
-- **[Uber has always wanted to be more than a ride; now it has reason to hurry](https://techcrunch.com/2026/05/10/uber-has-always-wanted-to-be-more-than-a-ride-now-it-has-reason-to-hurry/)**
-  *The company has been trying to embed itself inside the AV industry — as a data provider, an investor, and a distribution platform — but the consumer-facing bet may be just as important....*
-  📅 Sun, 10 May 2026 18:08:54 +0000
+- **[There aren’t enough rockets for space data centers. Cowboy Space raised $275 million to build them.](https://techcrunch.com/2026/05/11/there-arent-enough-rockets-for-space-data-centers-cowboy-space-raised-275-million-to-build-them/)**
+  *Cowboy Space Corporation wants to put data centers in orbit. First, it has to build the rockets to get them there....*
+  📅 Mon, 11 May 2026 13:00:00 +0000
 
-- **[TechCrunch Mobility: Lime’s IPO gamble](https://techcrunch.com/2026/05/10/techcrunch-mobility-limes-ipo-gamble/)**
-  *Welcome back to TechCrunch Mobility, your hub for the future of transportation and now, more than ever, how AI is playing a part....*
-  📅 Sun, 10 May 2026 16:05:00 +0000
+- **[Discord launches Nitro Rewards, giving subscribers access to the base tier of Xbox Game Pass for no extra cost](https://techcrunch.com/2026/05/11/discord-launches-nitro-rewards-giving-subscribers-access-to-the-base-tier-of-xbox-game-pass-for-no-extra-cost/)**
+  *Discord's Nitro Rewards program will give Nitro subscribers access to Xbox Game Pass, and discounts from Logitech, SteelSeries, and other gaming brands....*
+  📅 Mon, 11 May 2026 13:00:00 +0000
 
-- **[We’re feeling cynical about xAI’s big deal with Anthropic](https://techcrunch.com/2026/05/10/were-feeling-cynical-about-xais-big-deal-with-anthropic/)**
-  *On the latest episode of the Equity podcast, we discussed what xAI's deal with Anthropic might mean for parent company SpaceX....*
-  📅 Sun, 10 May 2026 15:34:25 +0000
+- **[Venmo’s biggest makeover in years comes at a very interesting time](https://techcrunch.com/2026/05/11/venmos-biggest-makeover-in-years-comes-at-a-very-interesting-time/)**
+  *The timing is notable. PayPal, which owns Venmo, is restructuring to spin Venmo off as a standalone business unit — a move widely seen as laying the groundwork for a potential sale. Stripe has reporte...*
+  📅 Mon, 11 May 2026 12:00:00 +0000
 
-- **[The hottest place for startups to strike a deal? The F1 paddock](https://techcrunch.com/2026/05/10/the-hottest-place-for-startups-to-strike-a-deal-the-f1-paddock/)**
-  *F1 Grands Prix have emerged as a new place to see and be seen if you are a founder or investor....*
-  📅 Sun, 10 May 2026 15:13:07 +0000
+- **[Korea’s biggest manufacturers back Config, the TSMC of robot data](https://techcrunch.com/2026/05/11/koreas-biggest-manufacturers-back-config-the-tsmc-of-robot-data/)**
+  *Samsung, Hyundai and LG just bet on the startup that wants to be robotics' data backbone....*
+  📅 Mon, 11 May 2026 10:58:00 +0000
 
 ### 📑 Dev.to
 
-- **[Playbook de Teste de Servidor MCP: Manual + Automatizado com Apidog](https://dev.to/lucas_ferreira/playbook-de-teste-de-servidor-mcp-manual-automatizado-com-apidog-19b1)**
-  *<p>Uma postagem “Ableton Live MCP” no Show HN alcançou 118 pontos e 78 comentários no início desta semana. O padrão já é familiar: alguém escreveu um servidor do Model Context Protocol para uma ferram...*
-  📅 Mon, 11 May 2026 08:55:11 +0000
+- **[Scrapefast: Smallest and fastest FREE web scraping API](https://dev.to/shreyvijayvargiya/scrapefast-smallest-and-fastest-free-web-scraping-api-57le)**
+  *<p>Hello folks!!</p>
 
-- **[Python in Data Analytics: A Practical Starting Point](https://dev.to/muriuki_kahuthu_54/python-in-data-analytics-a-practical-starting-point-55lh)**
-  *<p>I started learning Python not because I wanted to become a software developer, but because I kept hitting walls in Excel. I work in data analytics and business intelligence, and my career has cut a...*
-  📅 Mon, 11 May 2026 08:44:45 +0000
+<p><a href="https://github.com/shreyvijayvargiya/scrapefast/" rel="noopener noreferrer">https://github.com/shreyvijayvargiya/scrapefast/</a></p>
+
+<p>I’ve built the smallest and f...*
+  📅 Mon, 11 May 2026 14:26:15 +0000
+
+- **[Synthadoc: Routing at Scale, Quality Gates, and the Knowledge Backend Pattern](https://dev.to/paul_chen_90371fe7426cb44/synthadoc-routing-at-scale-quality-gates-and-the-knowledge-backend-pattern-lil)**
+  *<p><a class="article-body-image-wrapper" href="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fupl...*
+  📅 Mon, 11 May 2026 14:21:30 +0000
 
 </details>
 
@@ -116,103 +121,103 @@
 
 ### 📈 Daily Trending
 
-- **[ai-twinkle/Hub](https://github.com/ai-twinkle/Hub)** ⭐ 81
-  ![None](https://img.shields.io/badge/-None-lightgrey)
-  Twinkle Hub — community feedback / feature requests for hub.twinkleai.tw
-
-- **[Longbridges/polymarket-kalshi-arbitrage-bot](https://github.com/Longbridges/polymarket-kalshi-arbitrage-bot)** ⭐ 47
+- **[Longbridges/polymarket-kalshi-arbitrage-bot](https://github.com/Longbridges/polymarket-kalshi-arbitrage-bot)** ⭐ 137
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   polymarket trading bot, polymarket bot, polymarket kalshi trading bot, polymarket trading bot, polymarket bot, polymarket kalshi trading bot, polymarket trading bot, polymarket bot, polymarket kalshi trading bot, polymarket trading bot, polymarket bot, polymarket kalshi trading bot, polymarket trading bot, polymarket bot
 
-- **[sanzoI-tech/polymarket-kalshi-arbitrage-bot](https://github.com/sanzoI-tech/polymarket-kalshi-arbitrage-bot)** ⭐ 48
+- **[sanzoI-tech/polymarket-kalshi-arbitrage-bot](https://github.com/sanzoI-tech/polymarket-kalshi-arbitrage-bot)** ⭐ 136
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   polymarket trading bot, polymarket bot, polymarket kalshi trading bot, polymarket trading bot, polymarket bot, polymarket kalshi trading bot, polymarket trading bot, polymarket bot, polymarket kalshi trading bot, polymarket trading bot, polymarket bot, polymarket kalshi trading bot, kalshi, prediction-markets, arbitrage, typescript, clob
 
-- **[hero8152/Infinite-Canvas](https://github.com/hero8152/Infinite-Canvas)** ⭐ 24
-  ![HTML](https://img.shields.io/badge/-HTML-lightgrey)
-  Supports comfyui/API calls/modelscope calls
+- **[ai-twinkle/Hub](https://github.com/ai-twinkle/Hub)** ⭐ 100
+  ![None](https://img.shields.io/badge/-None-lightgrey)
+  Twinkle Hub — community feedback / feature requests for hub.twinkleai.tw
 
-- **[Drakkar-Softwares/polymarket-kalshi-arbitrage-bot](https://github.com/Drakkar-Softwares/polymarket-kalshi-arbitrage-bot)** ⭐ 20
+- **[Drakkar-Softwares/polymarket-kalshi-arbitrage-bot](https://github.com/Drakkar-Softwares/polymarket-kalshi-arbitrage-bot)** ⭐ 70
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
    polymarket trading bot, polymarket bot, polymarket kalshi trading bot,polymarket trading bot, polymarket bot, polymarket kalshi trading bot,polymarket trading bot, polymarket bot, polymarket kalshi trading bot,polymarket trading bot, polymarket bot, polymarket kalshi trading bot,polymarket trading bot, polymarket bot, polymarket kalshi trading bot
 
-- **[Liu-PenPen/skill-review](https://github.com/Liu-PenPen/skill-review)** ⭐ 15
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
-  给  Skill 做 code review 的 Skill
+- **[hero8152/Infinite-Canvas](https://github.com/hero8152/Infinite-Canvas)** ⭐ 57
+  ![HTML](https://img.shields.io/badge/-HTML-lightgrey)
+  Supports comfyui/API calls/modelscope calls
 
-- **[chris0214/Blender-MMD-Physics-Addons](https://github.com/chris0214/Blender-MMD-Physics-Addons)** ⭐ 14
+- **[RadiusTanner94/CapCut-Pro-2026-Full-Cracked-Version](https://github.com/RadiusTanner94/CapCut-Pro-2026-Full-Cracked-Version)** ⭐ 32
+  ![None](https://img.shields.io/badge/-None-lightgrey)
+  CapCut Pro 2026 full activated version. All premium features, templates, effects, AI tools and Pro subscription unlocked. Best CapCut Pro with no watermark, unlimited exports and full access. Easy installation. Complete video editing software for TikTok, YouTube and professional use.
+
+- **[norika1207-lab/alfred-butler](https://github.com/norika1207-lab/alfred-butler)** ⭐ 29
   ![Python](https://img.shields.io/badge/-Python-blue)
-  适用于Blender4.2+版本的MMD实时物理模拟插件
+  None
 
-- **[eeviriyi/NodeGet-SingBox-Panel](https://github.com/eeviriyi/NodeGet-SingBox-Panel)** ⭐ 12
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
-  NodeGet Dashboard extension for managing sing-box configs
+- **[simonlin1212/a-stock-data](https://github.com/simonlin1212/a-stock-data)** ⭐ 26
+  ![None](https://img.shields.io/badge/-None-lightgrey)
+  A 股全栈数据工具包 — 6层架构 · 15个端点 · 7个数据源 | AI Skill for China A-Share Market Data
 
 ### 📈 Weekly Trending
 
-- **[antirez/ds4](https://github.com/antirez/ds4)** ⭐ 6,837
+- **[antirez/ds4](https://github.com/antirez/ds4)** ⭐ 7,097
   ![C](https://img.shields.io/badge/-C-lightgrey)
   DeepSeek 4 Flash local inference engine for Metal
 
-- **[V4bel/dirtyfrag](https://github.com/V4bel/dirtyfrag)** ⭐ 4,107
+- **[V4bel/dirtyfrag](https://github.com/V4bel/dirtyfrag)** ⭐ 4,153
   ![C](https://img.shields.io/badge/-C-lightgrey)
   None
 
-- **[vercel-labs/zero-native](https://github.com/vercel-labs/zero-native)** ⭐ 2,421
+- **[vercel-labs/zero-native](https://github.com/vercel-labs/zero-native)** ⭐ 2,518
   ![Zig](https://img.shields.io/badge/-Zig-lightgrey)
   Build desktop + mobile apps with Zig and web UI
 
-- **[strukto-ai/mirage](https://github.com/strukto-ai/mirage)** ⭐ 1,836
+- **[strukto-ai/mirage](https://github.com/strukto-ai/mirage)** ⭐ 1,874
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   A Unified Virtual Filesystem For AI Agents
 
-- **[XBuilderLAB/cheat-on-content](https://github.com/XBuilderLAB/cheat-on-content)** ⭐ 1,607
+- **[XBuilderLAB/cheat-on-content](https://github.com/XBuilderLAB/cheat-on-content)** ⭐ 1,638
   ![Shell](https://img.shields.io/badge/-Shell-lightgrey)
   You're reading this. The skill predicted it. A workflow that turns every post into a calibrated experiment—score, blind-predict, retro, evolve. The future doesn't reward effort, it rewards those who see the pattern first. 1M followers in a month — not luck, system.
 
-- **[yaojingang/yao-open-prompts](https://github.com/yaojingang/yao-open-prompts)** ⭐ 1,604
+- **[yaojingang/yao-open-prompts](https://github.com/yaojingang/yao-open-prompts)** ⭐ 1,617
   ![Python](https://img.shields.io/badge/-Python-blue)
   Yao Open Prompts：中文 AI 提示词库，覆盖工作、学习、内容、营销和生活场景
 
-- **[huangserva/3DCellForge](https://github.com/huangserva/3DCellForge)** ⭐ 1,061
+- **[huangserva/3DCellForge](https://github.com/huangserva/3DCellForge)** ⭐ 1,219
   ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
   AI-powered interactive 3D cell generation and exploration studio.
 
-- **[lightseekorg/tokenspeed](https://github.com/lightseekorg/tokenspeed)** ⭐ 934
+- **[BigPizzaV3/CodexPlusPlus](https://github.com/BigPizzaV3/CodexPlusPlus)** ⭐ 952
   ![Python](https://img.shields.io/badge/-Python-blue)
-  TokenSpeed is a speed-of-light LLM inference engine.
+  一个CodexApp的增强工具
 
 ### 📈 Monthly Trending
 
-- **[nexu-io/open-design](https://github.com/nexu-io/open-design)** ⭐ 36,762
+- **[nexu-io/open-design](https://github.com/nexu-io/open-design)** ⭐ 37,097
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   🎨 Local-first, open-source alternative to Anthropic's Claude Design. ⚡ 19 Skills · ✨ 71 brand-grade Design Systems 🖼 Generate web · desktop · mobile prototypes · slides · images · videos · HyperFrames 📦 Sandboxed preview · HTML/PDF/PPTX/MP4 export 🤖 Runs on Claude Code / Codex / Cursor / Gemini / OpenCode / Qwen / Copilot / Hermes / Kimi CLI.
 
-- **[EvoLinkAI/awesome-gpt-image-2-API-and-Prompts](https://github.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts)** ⭐ 13,867
+- **[EvoLinkAI/awesome-gpt-image-2-API-and-Prompts](https://github.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts)** ⭐ 13,895
   ![Python](https://img.shields.io/badge/-Python-blue)
   GPT-Image-2 API and Prompts
 
-- **[alchaincyf/huashu-design](https://github.com/alchaincyf/huashu-design)** ⭐ 13,124
+- **[alchaincyf/huashu-design](https://github.com/alchaincyf/huashu-design)** ⭐ 13,178
   ![HTML](https://img.shields.io/badge/-HTML-lightgrey)
   Huashu Design · HTML-native design skill for Claude Code · Claude Code 里 HTML 原生的设计 skill · 高保真原型 / 幻灯片 / 动画 + 20 设计哲学 + 5 维评审 + MP4 导出 · Agent-agnostic
 
-- **[kyegomez/OpenMythos](https://github.com/kyegomez/OpenMythos)** ⭐ 12,388
+- **[kyegomez/OpenMythos](https://github.com/kyegomez/OpenMythos)** ⭐ 12,401
   ![Python](https://img.shields.io/badge/-Python-blue)
   A theoretical reconstruction of the Claude Mythos architecture, built from first principles using the available research literature.
 
-- **[browser-use/browser-harness](https://github.com/browser-use/browser-harness)** ⭐ 12,064
+- **[browser-use/browser-harness](https://github.com/browser-use/browser-harness)** ⭐ 12,128
   ![Python](https://img.shields.io/badge/-Python-blue)
   Browser Harness | Self-healing harness that enables LLMs to complete any task.
 
-- **[h4ckf0r0day/obscura](https://github.com/h4ckf0r0day/obscura)** ⭐ 11,473
+- **[h4ckf0r0day/obscura](https://github.com/h4ckf0r0day/obscura)** ⭐ 11,503
   ![Rust](https://img.shields.io/badge/-Rust-brown)
   The headless browser for AI agents and web scraping
 
-- **[browser-use/video-use](https://github.com/browser-use/video-use)** ⭐ 7,187
+- **[browser-use/video-use](https://github.com/browser-use/video-use)** ⭐ 7,205
   ![Python](https://img.shields.io/badge/-Python-blue)
   Edit videos with coding agents
 
-- **[antirez/ds4](https://github.com/antirez/ds4)** ⭐ 6,837
+- **[antirez/ds4](https://github.com/antirez/ds4)** ⭐ 7,097
   ![C](https://img.shields.io/badge/-C-lightgrey)
   DeepSeek 4 Flash local inference engine for Metal
 
@@ -489,58 +494,58 @@ The API i...
 
 | Skill | Status |
 |-------|--------|
-| Java | 🔴 Beginner |
-| Python | 🟡 Learning |
-| JavaScript | 🟡 Learning |
+| Java | 🟡 Learning |
+| Python | ⚪ Planned |
+| JavaScript | ⚪ Planned |
 | TypeScript | 🟡 Learning |
-| Go | ⚪ Planned |
+| Go | 🟡 Learning |
 
 ### Frameworks
 
 | Skill | Status |
 |-------|--------|
 | React | 🟡 Learning |
-| Spring Boot | 🟢 Proficient |
+| Spring Boot | 🟡 Learning |
 | Django | ⚪ Planned |
 | Node.js | 🔴 Beginner |
-| Next.js | 🟡 Learning |
+| Next.js | 🟢 Proficient |
 
 ### Cybersecurity
 
 | Skill | Status |
 |-------|--------|
-| Penetration Testing | ⚪ Planned |
+| Penetration Testing | 🟢 Proficient |
 | Web Security | ⚪ Planned |
-| Network Security | 🟡 Learning |
+| Network Security | ⚪ Planned |
 | OWASP | 🟢 Proficient |
 
 ### Ai Ml
 
 | Skill | Status |
 |-------|--------|
-| Machine Learning | 🟡 Learning |
-| Deep Learning | 🟢 Proficient |
-| NLP | 🟢 Proficient |
-| Computer Vision | 🟢 Proficient |
-| TensorFlow | ⚪ Planned |
+| Machine Learning | 🟢 Proficient |
+| Deep Learning | 🟡 Learning |
+| NLP | ⚪ Planned |
+| Computer Vision | 🟡 Learning |
+| TensorFlow | 🟢 Proficient |
 | PyTorch | 🟢 Proficient |
 
 ### Devops
 
 | Skill | Status |
 |-------|--------|
-| Docker | ⚪ Planned |
-| Kubernetes | ⚪ Planned |
+| Docker | 🟡 Learning |
+| Kubernetes | 🔴 Beginner |
 | CI/CD | 🟢 Proficient |
 | AWS | 🟡 Learning |
-| Azure | ⚪ Planned |
+| Azure | 🟡 Learning |
 
 ### Other
 
 | Skill | Status |
 |-------|--------|
-| Blockchain | 🔴 Beginner |
-| Web3 | 🔴 Beginner |
+| Blockchain | 🟡 Learning |
+| Web3 | 🟢 Proficient |
 | Cloud Computing | 🟢 Proficient |
 
 </details>
