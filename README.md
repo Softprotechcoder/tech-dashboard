@@ -21,7 +21,7 @@
 |--------|-------|
 | 📰 Latest News Articles | 26 |
 | 🔥 Trending Repositories | 45 |
-| 🎯 Latest Releases | 1 |
+| 🎯 Latest Releases | 10 |
 | 🎯 Learning Goals | 4 |
 
 ## 🎯 Current Focus
@@ -46,79 +46,88 @@
 
 ### 📑 Hacker News
 
-- **[UnDUNE II](https://liquidream.itch.io/undune2)**
-  *<p>Article URL: <a href="https://liquidream.itch.io/undune2">https://liquidream.itch.io/undune2</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=48107404">https://news.ycombinato...*
-  📅 Tue, 12 May 2026 12:38:45 +0000
+- **[CERT is releasing six CVEs for serious security vulnerabilities in dnsmasq](https://lists.thekelleys.org.uk/pipermail/dnsmasq-discuss/2026q2/018471.html)**
+  *<p>Article URL: <a href="https://lists.thekelleys.org.uk/pipermail/dnsmasq-discuss/2026q2/018471.html">https://lists.thekelleys.org.uk/pipermail/dnsmasq-discuss/2026q2/018471.html</a></p>
+<p>Comments ...*
+  📅 Tue, 12 May 2026 18:12:28 +0000
 
-- **[Don't hijack my mouse pointer](https://ruky.me/dont-hijack-my-pointer/)**
-  *<p>Article URL: <a href="https://ruky.me/dont-hijack-my-pointer/">https://ruky.me/dont-hijack-my-pointer/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=48107027">https://news....*
-  📅 Tue, 12 May 2026 12:00:55 +0000
+- **[Show HN: Needle: We Distilled Gemini Tool Calling into a 26M Model](https://github.com/cactus-compute/needle)**
+  *<p>Hey HN, Henry here from Cactus. We open-sourced Needle, a 26M parameter function-calling (tool use) model. It runs at 6000 tok/s prefill and 1200 tok/s decode on consumer devices.<p>We were always ...*
+  📅 Tue, 12 May 2026 18:03:11 +0000
 
-- **[Text Blaze (YC W21) Is Hiring for a No-AI Summer Internship](https://www.ycombinator.com/companies/text-blaze/jobs/P4CCN62-the-blaze-no-ai-summer-internship)**
-  *<p>Article URL: <a href="https://www.ycombinator.com/companies/text-blaze/jobs/P4CCN62-the-blaze-no-ai-summer-internship">https://www.ycombinator.com/companies/text-blaze/jobs/P4CCN62-the-blaze-no-ai-...*
-  📅 Tue, 12 May 2026 12:00:46 +0000
+- **[Quack: The DuckDB Client-Server Protocol](https://duckdb.org/2026/05/12/quack-remote-protocol)**
+  *<p>Article URL: <a href="https://duckdb.org/2026/05/12/quack-remote-protocol">https://duckdb.org/2026/05/12/quack-remote-protocol</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id...*
+  📅 Tue, 12 May 2026 17:54:12 +0000
 
-- **[EU to crack down on TikTok, Instagram's 'addictive design' targeting kids](https://www.cnbc.com/2026/05/12/tiktok-instagram-social-media-addictive-eu-crack-down.html)**
-  *<p>Article URL: <a href="https://www.cnbc.com/2026/05/12/tiktok-instagram-social-media-addictive-eu-crack-down.html">https://www.cnbc.com/2026/05/12/tiktok-instagram-social-media-addictive-eu-crack-do...*
-  📅 Tue, 12 May 2026 11:00:07 +0000
+- **[Dead.Letter (CVE-2026-45185) – How XBOW found an unauthenticated RCE on Exim](https://xbow.com/blog/dead-letter-cve-2026-45185-xbow-found-rce-exim)**
+  *<p>Article URL: <a href="https://xbow.com/blog/dead-letter-cve-2026-45185-xbow-found-rce-exim">https://xbow.com/blog/dead-letter-cve-2026-45185-xbow-found-rce-exim</a></p>
+<p>Comments URL: <a href="ht...*
+  📅 Tue, 12 May 2026 17:52:34 +0000
 
-- **[Coursera and Udemy are now one company](https://blog.coursera.org/coursera-and-udemy-are-now-one-company-creating-the-worlds-most-comprehensive-skills-platform/)**
-  *<p>Article URL: <a href="https://blog.coursera.org/coursera-and-udemy-are-now-one-company-creating-the-worlds-most-comprehensive-skills-platform/">https://blog.coursera.org/coursera-and-udemy-are-now-...*
-  📅 Tue, 12 May 2026 10:37:44 +0000
+- **[Reimagining the mouse pointer for the AI era](https://deepmind.google/blog/ai-pointer/)**
+  *<p>Article URL: <a href="https://deepmind.google/blog/ai-pointer/">https://deepmind.google/blog/ai-pointer/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=48111581">https://new...*
+  📅 Tue, 12 May 2026 17:40:13 +0000
 
-- **[A HN post with negative points – how?](https://news.ycombinator.com/item?id=48104663)**
-  *<p>Article URL: <a href="https://news.ycombinator.com/item?id=48104663">https://news.ycombinator.com/item?id=48104663</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=48106316">h...*
-  📅 Tue, 12 May 2026 10:29:24 +0000
+- **[Googlebook](https://googlebook.google/)**
+  *<p><a href="https://www.reddit.com/r/Android/comments/1tb8xls/introducing_googlebook_a_new_category_of_laptops/" rel="nofollow">https://www.reddit.com/r/Android/comments/1tb8xls/introducin...</a></p>
+...*
+  📅 Tue, 12 May 2026 17:37:36 +0000
 
 ### 📑 TechCrunch
 
-- **[Instructure strikes deal with hackers who breached it twice](https://techcrunch.com/2026/05/12/instructure-strikes-deal-with-hackers-who-breached-it-twice/)**
-  *The maker of the Canvas school software said it "reached an agreement" with the hackers, but provided no guarantees that the hackers would not release the data or keep their word....*
-  📅 Tue, 12 May 2026 13:34:04 +0000
+- **[Kevin Hartz’s A* just closed its third fund with $450 million](https://techcrunch.com/2026/05/12/kevin-hartzs-a-just-closed-its-third-fund-with-450-million/)**
+  *Early-stage venture firm A* Capital just took the wraps off its $450 million Fund III....*
+  📅 Tue, 12 May 2026 18:45:05 +0000
 
-- **[Dessn raises $6M for its production focused design tool](https://techcrunch.com/2026/05/12/dessn-raises-6m-for-its-production-focused-design-tool/)**
-  *A new startup called Dessn has raised $6M to build AI-powered design tools that work directly with production codebases....*
-  📅 Tue, 12 May 2026 13:00:00 +0000
+- **[Former Tesla exec and Heron Power CEO Drew Baglino has founded a heat pump startup](https://techcrunch.com/2026/05/12/former-tesla-exec-and-heron-power-ceo-drew-baglino-has-founded-a-heat-pump-startup/)**
+  *Sadi Thermal Machines is Drew Baglino's second startup since leaving Tesla in 2024....*
+  📅 Tue, 12 May 2026 18:14:58 +0000
 
-- **[TikTok now wants to be the place you book the trip you just saw on TikTok](https://techcrunch.com/2026/05/12/tiktok-now-wants-to-be-the-place-you-book-the-trip-you-just-saw-on-tiktok/)**
-  *TikTok is systematically converting its discovery engine into a transaction layer, which both deepens user retention and opens entirely new revenue streams for its new owners....*
-  📅 Tue, 12 May 2026 13:00:00 +0000
+- **[Musk mulled handing OpenAI to his children, Altman testifies](https://techcrunch.com/2026/05/12/musk-mulled-handing-openai-to-his-children-altman-testifies/)**
+  *OpenAI's CEO recalls a "particularly hair-raising" conversation with the SpaceX founder....*
+  📅 Tue, 12 May 2026 18:05:15 +0000
 
-- **[AI is turning connected cars into pothole-finding machines](https://techcrunch.com/2026/05/12/ai-is-turning-connected-cars-into-pothole-finding-machines/)**
+- **[Anthropic warns investors against secondary platforms offering access to its shares](https://techcrunch.com/2026/05/12/anthropic-warns-investors-against-secondary-platforms-offering-access-to-its-shares/)**
+  *The company named Open Doors Partners, Unicorns Exchange, Pachamama Capital, Lionheart Ventures, Hiive, Forge Global, Sydecar and Upmarket as companies that are not authorized to provide access to buy...*
+  📅 Tue, 12 May 2026 17:36:34 +0000
+
+- **[Potholes cost cities millions: This company is using AI and trucks to fix them](https://techcrunch.com/2026/05/12/potholes-cost-cities-millions-samsara-using-ai-trucks-fix/)**
   *Fleet management company Samsara has developed an AI model to detect different kinds of potholes and gauge how fast they're deteriorating....*
-  📅 Tue, 12 May 2026 13:00:00 +0000
+  📅 Tue, 12 May 2026 17:33:29 +0000
 
-- **[Spotify’s launches a Wrapped-style recap of your entire listening history](https://techcrunch.com/2026/05/12/spotifys-launches-a-wrapped-style-recap-of-your-entire-listening-history/)**
-  *Spotify's new feature will show you the number of unique songs that you listened to until now...*
-  📅 Tue, 12 May 2026 12:44:00 +0000
-
-- **[AI voice startup Vapi hits $500M valuation after winning Amazon Ring over 40 rivals](https://techcrunch.com/2026/05/12/vapi-hits-500m-valuation-as-amazon-ring-chose-its-ai-platform-over-40-rivals/)**
-  *Vapi says its enterprise business has grown 10-fold since early 2025 as companies shift customer support and sales calls to AI agents....*
-  📅 Tue, 12 May 2026 11:30:00 +0000
+- **[Report: Google and SpaceX in talks to put data centers into orbit](https://techcrunch.com/2026/05/12/report-google-and-spacex-in-talks-to-put-data-centers-into-orbit/)**
+  *Google and SpaceX are in talks to build data centers in orbit, pitching space as the future home for AI compute, even as costs today remain far higher than on the ground....*
+  📅 Tue, 12 May 2026 17:30:57 +0000
 
 ### 📑 Dev.to
 
-- **[Building a Browser-Side Document Comparison Tool: Privacy-First .docx Diffing with JavaScript](https://dev.to/bruce_huang_576f71890f95e/building-a-browser-side-document-comparison-tool-privacy-first-docx-diffing-with-javascript-253e)**
-  *<p>1、The Problem — Why lawyers overpay for document comparison<br />
-2、Architecture — JSZip + LCS paragraph alignment + word-level diff<br />
-3、Implementation Details<br />
-  Extracting text from .doc...*
-  📅 Tue, 12 May 2026 13:50:24 +0000
+- **[I Built a Free Browser Games Website Because Games Became Too Complicated](https://dev.to/thesahibsingh/i-built-a-free-browser-games-website-because-games-became-too-complicated-2cpg)**
+  *<h1>
+  
+  
+  I Built a Free Browser Games Website Because I Miss Simple Online Games
+</h1>
 
-- **[How Mutation Testing Exposes the Truth (PHP 2026 Edition)](https://dev.to/codecraft_diary_3d13677fb/how-mutation-testing-exposes-the-truth-php-2026-edition-1m1l)**
-  *<p>You've got 85% code coverage. Your CI pipeline is green. You ship to production — and things break in ways your tests never caught. Sound familiar?</p>
+<p>Most online games today either ask you to install an app, create an account, watch too many ads, or deal ...*
+  📅 Tue, 12 May 2026 19:17:13 +0000
 
-<p>I've been there. And for a long time, I t...*
-  📅 Tue, 12 May 2026 13:50:00 +0000
+- **[Ace These 5 Backend Concepts to Become a Senior Engineer](https://dev.to/artemooon/ace-these-5-backend-concepts-to-become-a-senior-engineer-59dd)**
+  *<p>Nowadays, AI can help ship almost every backend feature in a few minutes, but it does not replace the fundamentals you need to understand when your agent is moving in the wrong direction.</p>
+
+<p>C...*
+  📅 Tue, 12 May 2026 19:11:26 +0000
 
 </details>
 
 ## 🔥 Trending Repositories
 
 ### 📈 Daily Trending
+
+- **[RadianceToadAmend/Fortnite-Cheats-2026](https://github.com/RadianceToadAmend/Fortnite-Cheats-2026)** ⭐ 521
+  ![None](https://img.shields.io/badge/-None-lightgrey)
+  ⭐️ Fortnite Cheats 2026 | Aimbot ESP WH | Triggerbot NoRecoil Glow | Skin Changer | AntiAFK Auto Farm Heal | Mod Menu Loader Injector | Full Version Latest Build Pro | PC Epic Windows 10/11 ⭐️
 
 - **[RadianceToadAmend/ARC-Raiders-External-Tool](https://github.com/RadianceToadAmend/ARC-Raiders-External-Tool)** ⭐ 521
   ![C++](https://img.shields.io/badge/-C++-pink)
@@ -128,95 +137,91 @@
   ![Python](https://img.shields.io/badge/-Python-blue)
   The cs2 external helper tool is a software utility designed for gamers and developers. It provides a set of features to enhance the gaming experience, including a customizable overlay. The tool is particularly useful for users who want to access additional information during gameplay.
 
-- **[ywnd1144/Gopay_plus_automatic](https://github.com/ywnd1144/Gopay_plus_automatic)** ⭐ 283
+- **[ywnd1144/Gopay_plus_automatic](https://github.com/ywnd1144/Gopay_plus_automatic)** ⭐ 470
   ![Python](https://img.shields.io/badge/-Python-blue)
   None
 
-- **[Nick-Baumann/gobbo-ai](https://github.com/Nick-Baumann/gobbo-ai)** ⭐ 123
-  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
-  GRRRBLEHHH!
-
-- **[agentara/skills](https://github.com/agentara/skills)** ⭐ 122
+- **[TheRunicDev/MaaNTE](https://github.com/TheRunicDev/MaaNTE)** ⭐ 186
   ![None](https://img.shields.io/badge/-None-lightgrey)
-  Original and practical skills for AI builders.
+  MaaNTE Neverness to Everness (NTE) MAAFramework  强力驱动！QQ交流群 异环小助手，由 Automation assistant for Neverness to Everness Auto fishing, auto-sell fish, auto-buy bait. Features: auto coffee making, cafe revenue extraction, auto-skip story dialogue, auto-claim daily rewards.
 
-- **[ltyzen/KMSAutoTool](https://github.com/ltyzen/KMSAutoTool)** ⭐ 62
+- **[ltyzen/KMSAutoTool](https://github.com/ltyzen/KMSAutoTool)** ⭐ 184
   ![C++](https://img.shields.io/badge/-C++-pink)
   System license utility Windows product key manager Office license assistant Volume Licensing tool HWID management system deployment utility desktop OS setup enterprise license emulator digital license helper software repository installer package system verification tool.
 
-- **[ZJunCher/xiaoyan-ai-dev-assistant](https://github.com/ZJunCher/xiaoyan-ai-dev-assistant)** ⭐ 62
-  ![Java](https://img.shields.io/badge/-Java-orange)
-  基于 RAG 混合检索与多轮记忆的 AI 研发助手，支持团队知识问答，也适合新手学习 RAG 应用开发。
+- **[sunyouzhi2003/LSFG-Desktop](https://github.com/sunyouzhi2003/LSFG-Desktop)** ⭐ 177
+  ![C++](https://img.shields.io/badge/-C++-pink)
+  Lossless Scaling 2026: Universal Frame Generation LSFG 3. Multi-frame gen: X2, X3, X4 multiplier for extreme FPS. AI Upscaling: LS1, FSR 3.1, NIS. Smooth gaming on Steam Deck, handhelds, and Android (LSFG-VK). Fix stuttering, low latency mode, VRR support, 4K spatial scaling, G-Sync compatible.
 
-- **[LeromNeri/NexonD-Here](https://github.com/LeromNeri/NexonD-Here)** ⭐ 52
-  ![None](https://img.shields.io/badge/-None-lightgrey)
-  None
+- **[mark9-droid/TomodachiPC](https://github.com/mark9-droid/TomodachiPC)** ⭐ 172
+  ![C++](https://img.shields.io/badge/-C++-pink)
+  Tomodachi Life Living The Dream PC: Ultimate Mii manager and life simulator. Virtual island community, custom apartment editor, food preferences database, gift system. Mii personality maker, character interaction logs, voice synthesizer, QR code gallery, daily events tracker, dream collection, island news.
 
 ### 📈 Weekly Trending
 
-- **[antirez/ds4](https://github.com/antirez/ds4)** ⭐ 7,893
+- **[antirez/ds4](https://github.com/antirez/ds4)** ⭐ 8,006
   ![C](https://img.shields.io/badge/-C-lightgrey)
   DeepSeek 4 Flash local inference engine for Metal and CUDA
 
-- **[V4bel/dirtyfrag](https://github.com/V4bel/dirtyfrag)** ⭐ 4,286
+- **[V4bel/dirtyfrag](https://github.com/V4bel/dirtyfrag)** ⭐ 4,311
   ![C](https://img.shields.io/badge/-C-lightgrey)
   None
 
-- **[vercel-labs/zero-native](https://github.com/vercel-labs/zero-native)** ⭐ 2,829
+- **[vercel-labs/zero-native](https://github.com/vercel-labs/zero-native)** ⭐ 2,868
   ![Zig](https://img.shields.io/badge/-Zig-lightgrey)
   Build desktop + mobile apps with Zig and web UI
 
-- **[strukto-ai/mirage](https://github.com/strukto-ai/mirage)** ⭐ 2,025
+- **[strukto-ai/mirage](https://github.com/strukto-ai/mirage)** ⭐ 2,047
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   A Unified Virtual Filesystem For AI Agents
 
-- **[yaojingang/yao-open-prompts](https://github.com/yaojingang/yao-open-prompts)** ⭐ 1,809
+- **[yaojingang/yao-open-prompts](https://github.com/yaojingang/yao-open-prompts)** ⭐ 1,822
   ![Python](https://img.shields.io/badge/-Python-blue)
   Yao Open Prompts：中文 AI 提示词库，覆盖工作、学习、内容、营销和生活场景
 
-- **[huangserva/3DCellForge](https://github.com/huangserva/3DCellForge)** ⭐ 1,645
+- **[huangserva/3DCellForge](https://github.com/huangserva/3DCellForge)** ⭐ 1,691
   ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
   AI-powered interactive 3D cell generation and exploration studio.
 
-- **[BigPizzaV3/CodexPlusPlus](https://github.com/BigPizzaV3/CodexPlusPlus)** ⭐ 1,418
+- **[BigPizzaV3/CodexPlusPlus](https://github.com/BigPizzaV3/CodexPlusPlus)** ⭐ 1,490
   ![Python](https://img.shields.io/badge/-Python-blue)
   An enhanced tool for CodexApp, striving to make Codex better to use and more comfortable 一个CodexApp的增强工具，努力让Codex变得更好用更舒服
 
-- **[lightseekorg/tokenspeed](https://github.com/lightseekorg/tokenspeed)** ⭐ 966
+- **[lightseekorg/tokenspeed](https://github.com/lightseekorg/tokenspeed)** ⭐ 971
   ![Python](https://img.shields.io/badge/-Python-blue)
   TokenSpeed is a speed-of-light LLM inference engine.
 
 ### 📈 Monthly Trending
 
-- **[nexu-io/open-design](https://github.com/nexu-io/open-design)** ⭐ 38,089
+- **[nexu-io/open-design](https://github.com/nexu-io/open-design)** ⭐ 38,293
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   🎨 Local-first, open-source alternative to Anthropic's Claude Design. ⚡ 19 Skills · ✨ 71 brand-grade Design Systems 🖼 Generate web · desktop · mobile prototypes · slides · images · videos · HyperFrames 📦 Sandboxed preview · HTML/PDF/PPTX/MP4 export 🤖 Runs on Claude Code / Codex / Cursor / Gemini / OpenCode / Qwen / Copilot / Hermes / Kimi CLI.
 
-- **[EvoLinkAI/awesome-gpt-image-2-API-and-Prompts](https://github.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts)** ⭐ 14,019
+- **[EvoLinkAI/awesome-gpt-image-2-API-and-Prompts](https://github.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts)** ⭐ 14,044
   ![Python](https://img.shields.io/badge/-Python-blue)
   GPT-Image-2 API and Prompts
 
-- **[alchaincyf/huashu-design](https://github.com/alchaincyf/huashu-design)** ⭐ 13,362
+- **[alchaincyf/huashu-design](https://github.com/alchaincyf/huashu-design)** ⭐ 13,394
   ![HTML](https://img.shields.io/badge/-HTML-lightgrey)
   Huashu Design · HTML-native design skill for Claude Code · Claude Code 里 HTML 原生的设计 skill · 高保真原型 / 幻灯片 / 动画 + 20 设计哲学 + 5 维评审 + MP4 导出 · Agent-agnostic
 
-- **[kyegomez/OpenMythos](https://github.com/kyegomez/OpenMythos)** ⭐ 12,483
+- **[kyegomez/OpenMythos](https://github.com/kyegomez/OpenMythos)** ⭐ 12,497
   ![Python](https://img.shields.io/badge/-Python-blue)
   A theoretical reconstruction of the Claude Mythos architecture, built from first principles using the available research literature.
 
-- **[browser-use/browser-harness](https://github.com/browser-use/browser-harness)** ⭐ 12,270
+- **[browser-use/browser-harness](https://github.com/browser-use/browser-harness)** ⭐ 12,294
   ![Python](https://img.shields.io/badge/-Python-blue)
   Browser Harness | Self-healing harness that enables LLMs to complete any task.
 
-- **[h4ckf0r0day/obscura](https://github.com/h4ckf0r0day/obscura)** ⭐ 11,882
+- **[h4ckf0r0day/obscura](https://github.com/h4ckf0r0day/obscura)** ⭐ 11,925
   ![Rust](https://img.shields.io/badge/-Rust-brown)
   The headless browser for AI agents and web scraping
 
-- **[antirez/ds4](https://github.com/antirez/ds4)** ⭐ 7,893
+- **[antirez/ds4](https://github.com/antirez/ds4)** ⭐ 8,006
   ![C](https://img.shields.io/badge/-C-lightgrey)
   DeepSeek 4 Flash local inference engine for Metal and CUDA
 
-- **[op7418/guizang-ppt-skill](https://github.com/op7418/guizang-ppt-skill)** ⭐ 7,743
+- **[op7418/guizang-ppt-skill](https://github.com/op7418/guizang-ppt-skill)** ⭐ 7,873
   ![HTML](https://img.shields.io/badge/-HTML-lightgrey)
   A Claude Code Skill that turns prompts into horizontal-swipe magazine-style HTML decks — 10 layouts, 5 curated themes, WebGL hero backgrounds, single-file output.
 
@@ -227,11 +232,146 @@
 
 ### 📦 microsoft/vscode
 
-**[1.119.0](https://github.com/microsoft/vscode/releases/tag/1.119.0)** `1.119.0`
+**[1.119.1](https://github.com/microsoft/vscode/releases/tag/1.119.1)** `1.119.1`
+
+📅 Released: May 12, 2026
+
+The update addresses these [issues](https://github.com/Microsoft/vscode/issues?q=is%3Aissue+milestone%3A1.119.1+is%3Aclosed+)
+
+https://code.visualstudio.com/updates/v1_119...
+
+---
+
+### 📦 facebook/react
+
+**[19.2.6 (May 6th, 2026)](https://github.com/facebook/react/releases/tag/v19.2.6)** `v19.2.6`
 
 📅 Released: May 06, 2026
 
-https://code.visualstudio.com/updates/v1_119...
+## React Server Components
+
+- Type hardening and performance improvements
+ ([#36425](https://github.com/facebook/react/pull/36425) by @eps1lon and @unstubbable)...
+
+---
+
+### 📦 angular/angular
+
+**[21.2.12](https://github.com/angular/angular/releases/tag/v21.2.12)** `v21.2.12`
+
+📅 Released: May 06, 2026
+
+### core
+| Commit | Description |
+| -- | -- |
+| [![fix - fe13bb669d](https://img.shields.io/badge/fe13bb669d-fix-green)](https://github.com/angular/angular/commit/fe13bb669d2bfab4713623d17b41c430aa0a6...
+
+---
+
+### 📦 vuejs/vue
+
+**[v2.7.16 "Swan Song"](https://github.com/vuejs/vue/releases/tag/v2.7.16)** `v2.7.16`
+
+📅 Released: December 24, 2023
+
+**This is the final release for Vue 2.**
+
+Vue 2 will reach End of Life on December 31st, 2023. For more details, please read this [blog post](https://blog.vuejs.org/posts/vue-2-eol).
+
+Please refer...
+
+---
+
+### 📦 tensorflow/tensorflow
+
+**[TensorFlow 2.21.0](https://github.com/tensorflow/tensorflow/releases/tag/v2.21.0)** `v2.21.0`
+
+📅 Released: March 06, 2026
+
+# Release 2.21.0
+
+## TensorFlow
+
+### Breaking Changes
+
+* Support for Python 3.9 has been removed starting with TF 2.21.
+* The TensorBoard (TB) dependency has been removed starting with TF 2.21....
+
+---
+
+### 📦 pytorch/pytorch
+
+**[PyTorch 2.11.0 Release](https://github.com/pytorch/pytorch/releases/tag/v2.11.0)** `v2.11.0`
+
+📅 Released: March 23, 2026
+
+# PyTorch 2.11.0 Release Notes
+- [Highlights](#highlights)
+- [Backwards Incompatible Changes](#backwards-incompatible-changes)
+- [Deprecations](#deprecations)
+- [New Features](#new-features)
+- [I...
+
+---
+
+### 📦 kubernetes/kubernetes
+
+**[v1.36.1](https://github.com/kubernetes/kubernetes/releases/tag/v1.36.1)** `v1.36.1`
+
+📅 Released: May 12, 2026
+
+
+See [kubernetes-announce@](https://groups.google.com/forum/#!forum/kubernetes-announce). Additional binary downloads are linked in the [CHANGELOG](https://github.com/kubernetes/kubernetes/blob/master...
+
+---
+
+### 📦 docker/compose
+
+**[v5.1.3](https://github.com/docker/compose/releases/tag/v5.1.3)** `v5.1.3`
+
+📅 Released: April 15, 2026
+
+## What's Changed
+### 🐛 Fixes
+* fix: provider output handling and watch rebuild re-invocation by @glours in https://github.com/docker/compose/pull/13732
+
+### 🔧  Internal
+* Add Docker Desktop Logs...
+
+---
+
+### 📦 nodejs/node
+
+**[2026-05-07, Version 26.1.0 (Current), @aduh95](https://github.com/nodejs/node/releases/tag/v26.1.0)** `v26.1.0`
+
+📅 Released: May 07, 2026
+
+
+
+
+### Notable Changes
+
+#### Experimental `node:ffi` module
+
+Node.js now includes an experimental `node:ffi` module for loading dynamic
+libraries and calling native symbols from JavaScript.
+
+The API i...
+
+---
+
+### 📦 rust-lang/rust
+
+**[Rust 1.95.0](https://github.com/rust-lang/rust/releases/tag/1.95.0)** `1.95.0`
+
+📅 Released: April 16, 2026
+
+<a id="1.95-Language"></a>
+
+## Language
+
+- [Stabilize `if let` guards on match arms](https://github.com/rust-lang/rust/pull/141295)
+- [`irrefutable_let_patterns` lint no longer lints on let chains](ht...
 
 ---
 
@@ -360,59 +500,59 @@ https://code.visualstudio.com/updates/v1_119...
 
 | Skill | Status |
 |-------|--------|
-| Java | ⚪ Planned |
-| Python | 🟡 Learning |
-| JavaScript | 🔴 Beginner |
-| TypeScript | 🔴 Beginner |
-| Go | 🟢 Proficient |
+| Java | 🔴 Beginner |
+| Python | 🟢 Proficient |
+| JavaScript | 🟢 Proficient |
+| TypeScript | 🟡 Learning |
+| Go | 🔴 Beginner |
 
 ### Frameworks
 
 | Skill | Status |
 |-------|--------|
-| React | 🟡 Learning |
-| Spring Boot | 🔴 Beginner |
-| Django | 🔴 Beginner |
-| Node.js | 🟢 Proficient |
-| Next.js | ⚪ Planned |
+| React | 🔴 Beginner |
+| Spring Boot | 🟡 Learning |
+| Django | 🟢 Proficient |
+| Node.js | ⚪ Planned |
+| Next.js | 🔴 Beginner |
 
 ### Cybersecurity
 
 | Skill | Status |
 |-------|--------|
-| Penetration Testing | 🟢 Proficient |
-| Web Security | ⚪ Planned |
+| Penetration Testing | 🔴 Beginner |
+| Web Security | 🔴 Beginner |
 | Network Security | 🟢 Proficient |
-| OWASP | 🟢 Proficient |
+| OWASP | ⚪ Planned |
 
 ### Ai Ml
 
 | Skill | Status |
 |-------|--------|
-| Machine Learning | ⚪ Planned |
+| Machine Learning | 🟢 Proficient |
 | Deep Learning | 🟡 Learning |
-| NLP | ⚪ Planned |
+| NLP | 🟢 Proficient |
 | Computer Vision | ⚪ Planned |
-| TensorFlow | 🟡 Learning |
-| PyTorch | 🔴 Beginner |
+| TensorFlow | ⚪ Planned |
+| PyTorch | 🟡 Learning |
 
 ### Devops
 
 | Skill | Status |
 |-------|--------|
-| Docker | 🟡 Learning |
+| Docker | 🔴 Beginner |
 | Kubernetes | ⚪ Planned |
-| CI/CD | 🔴 Beginner |
-| AWS | ⚪ Planned |
+| CI/CD | 🟡 Learning |
+| AWS | 🟢 Proficient |
 | Azure | 🟢 Proficient |
 
 ### Other
 
 | Skill | Status |
 |-------|--------|
-| Blockchain | 🟡 Learning |
-| Web3 | 🟢 Proficient |
-| Cloud Computing | 🟢 Proficient |
+| Blockchain | 🔴 Beginner |
+| Web3 | 🟡 Learning |
+| Cloud Computing | ⚪ Planned |
 
 </details>
 
