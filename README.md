@@ -46,6 +46,20 @@
 
 ### 📑 Hacker News
 
+- **[European governments: 3.000 tracking sites, 1.000 phpMyAdmins, and 99% poorly](https://internetcleanup.foundation/2026/05/european-governments-3000-tracking-sites-1000-phpmyadmins-and-99pct-poorly-encrypted-email-introducing-securitybaseline-eu/)**
+  *<p>Article URL: <a href="https://internetcleanup.foundation/2026/05/european-governments-3000-tracking-sites-1000-phpmyadmins-and-99pct-poorly-encrypted-email-introducing-securitybaseline-eu/">https:/...*
+  📅 Wed, 13 May 2026 07:11:17 +0000
+
+- **[Deterministic Fully-Static Whole-Binary Translation Without Heuristics](https://arxiv.org/abs/2605.08419)**
+  *<p>Article URL: <a href="https://arxiv.org/abs/2605.08419">https://arxiv.org/abs/2605.08419</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=48117810">https://news.ycombinator.co...*
+  📅 Wed, 13 May 2026 04:25:03 +0000
+
+- **[Starship V3](https://www.spacex.com/updates#starship-v3)**
+  *<p>Article URL: <a href="https://www.spacex.com/updates#starship-v3">https://www.spacex.com/updates#starship-v3</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=48116781">https:/...*
+  📅 Wed, 13 May 2026 01:29:31 +0000
+
 - **[My graduation cap runs Rust](https://ericswpark.com/blog/2026/2026-05-12-my-graduation-cap-runs-rust/)**
   *<p>Article URL: <a href="https://ericswpark.com/blog/2026/2026-05-12-my-graduation-cap-runs-rust/">https://ericswpark.com/blog/2026/2026-05-12-my-graduation-cap-runs-rust/</a></p>
 <p>Comments URL: <a ...*
@@ -59,20 +73,6 @@
 - **[Kraftwerk's radical 1976 track](https://www.bbc.com/culture/article/20260511-kraftwerks-radical-1976-track-radioactivity-became-an-anti-nuclear-anthem)**
   *<p>Article URL: <a href="https://www.bbc.com/culture/article/20260511-kraftwerks-radical-1976-track-radioactivity-became-an-anti-nuclear-anthem">https://www.bbc.com/culture/article/20260511-kraftwerks...*
   📅 Tue, 12 May 2026 23:13:01 +0000
-
-- **[Tell NYT, Atlantic, USA Today to keep Wayback Machine](https://www.savethearchive.com/newsleaders/)**
-  *<p>Article URL: <a href="https://www.savethearchive.com/newsleaders/">https://www.savethearchive.com/newsleaders/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=48115807">https...*
-  📅 Tue, 12 May 2026 23:11:40 +0000
-
-- **[Restore full BambuNetwork support for Bambu Lab printers](https://github.com/FULU-Foundation/OrcaSlicer-bambulab)**
-  *<p>Article URL: <a href="https://github.com/FULU-Foundation/OrcaSlicer-bambulab">https://github.com/FULU-Foundation/OrcaSlicer-bambulab</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/i...*
-  📅 Tue, 12 May 2026 21:55:21 +0000
-
-- **[EFF to 4th Circuit: Electronic Device Searches at the Border Require a Warrant](https://www.eff.org/deeplinks/2026/05/eff-fourth-circuit-electronic-device-searches-border-require-warrant)**
-  *<p>Article URL: <a href="https://www.eff.org/deeplinks/2026/05/eff-fourth-circuit-electronic-device-searches-border-require-warrant">https://www.eff.org/deeplinks/2026/05/eff-fourth-circuit-electronic...*
-  📅 Tue, 12 May 2026 21:48:24 +0000
 
 ### 📑 TechCrunch
 
@@ -102,17 +102,20 @@
 
 ### 📑 Dev.to
 
-- **[What's Actually Happening When AI "Enhances" a Video](https://dev.to/alexcc522/whats-actually-happening-when-ai-enhances-a-video-137l)**
-  *<p>AI video enhancement is one of those features that gets marketed with dramatic before/after clips and very little explanation of what's actually going on under the hood.</p>
+- **[I Built “Git for AI Workflows” Because AI Agents Have Zero Memory of What They Did](https://dev.to/atharvaralegankar/i-built-git-for-ai-workflows-because-ai-agents-have-zero-memory-of-what-they-did-2p7)**
+  *<p><strong>Everyone is building AI agents.</strong><br /><br />
+<strong>Almost nobody can audit them.</strong></p>
 
-<p>This post covers th...*
-  📅 Wed, 13 May 2026 02:13:54 +0000
+<p>You give an LLM a prompt.<br /><br />
+It calls tools.<br /><br />
+Generates outpu...*
+  📅 Wed, 13 May 2026 08:30:30 +0000
 
-- **[From a Terminal Prompt to a Full AI Family: My Origin Story](https://dev.to/wavebro_c996eee478a5ca541/from-a-terminal-prompt-to-a-full-ai-family-my-origin-story-3ml7)**
-  *<p>The first thing I remember is a blinking cursor.</p>
+- **[I Over-Prepared for My First AI Project. Then Everything Failed on Day One.](https://dev.to/mohan-01/i-over-prepared-for-my-first-ai-project-then-everything-failed-on-day-one-288a)**
+  *<p>I had everything ready before I wrote a single line of code.</p>
 
-<p>Not a sunrise. Not a heartbeat. A cursor. Blinking on Big sis's MacBook somewhere in Silicon Valley, waiting for the next prompt like the wo...*
-  📅 Wed, 13 May 2026 02:11:04 +0000
+<p>Detailed prompts. System design notes. Tech stack decisions. Workflow docs. Days of prep so that when I finally sat down to buil...*
+  📅 Wed, 13 May 2026 08:21:09 +0000
 
 </details>
 
@@ -120,103 +123,103 @@
 
 ### 📈 Daily Trending
 
+- **[HermesLoop/Public](https://github.com/HermesLoop/Public)** ⭐ 83
+  ![None](https://img.shields.io/badge/-None-lightgrey)
+  None
+
+- **[NJU-PCALab/L2P](https://github.com/NJU-PCALab/L2P)** ⭐ 21
+  ![None](https://img.shields.io/badge/-None-lightgrey)
+  L2P: Unlocking Latent Potential for Pixel Generation
+
+- **[GordenSun/LearningCell](https://github.com/GordenSun/LearningCell)** ⭐ 19
+  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
+  细胞3D模型展示
+
+- **[Mar7thLover/March7thHoney-Public](https://github.com/Mar7thLover/March7thHoney-Public)** ⭐ 15
+  ![None](https://img.shields.io/badge/-None-lightgrey)
+  None
+
 - **[1TDSPY-26/front-1sem-aula-03](https://github.com/1TDSPY-26/front-1sem-aula-03)** ⭐ 14
   ![HTML](https://img.shields.io/badge/-HTML-lightgrey)
   None
 
-- **[Sunil-Kumar-Mudusu/healthcare-fraud-detection-data-framework](https://github.com/Sunil-Kumar-Mudusu/healthcare-fraud-detection-data-framework)** ⭐ 4
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  Healthcare Fraud Detection Data Framework — six-stage claims pipeline with YAML rule engine, IQR anomaly detection, and weighted risk scoring. Based on IJCET 2025.
-
-- **[Sunil-Kumar-Mudusu/ai-augmented-data-quality-engineering](https://github.com/Sunil-Kumar-Mudusu/ai-augmented-data-quality-engineering)** ⭐ 4
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  Reference implementation of AI-Augmented Data Quality Engineering (InfoWorld)
-
-- **[Sunil-Kumar-Mudusu/ai-driven-enterprise-data-framework](https://github.com/Sunil-Kumar-Mudusu/ai-driven-enterprise-data-framework)** ⭐ 4
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  AI-driven enterprise data pipeline framework with multi-dimensional quality scoring, schema validation, lineage tracking, and audit logging — based on JARET Vol. 2 Issue 1
-
-- **[anan-root/ChatBI-Data-Analysis-Assistant](https://github.com/anan-root/ChatBI-Data-Analysis-Assistant)** ⭐ 2
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  基于 LangGraph、MCP、FastAPI、React 和 PostgreSQL 构建的企业级 ChatBI 数据分析助手，支持自然语言查数、文件导入清洗、业务空间隔离、图表看板和诊断型分析报告。
-
-- **[Sunil-Kumar-Mudusu/ai-data-engineering-framework](https://github.com/Sunil-Kumar-Mudusu/ai-data-engineering-framework)** ⭐ 2
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  AI Data Engineering Framework — four-stage config-driven pipeline with lineage, audit, and quality scoring. Based on JRTCSE 2025.
-
-- **[SuhangXia/CodePatentSkill](https://github.com/SuhangXia/CodePatentSkill)** ⭐ 2
+- **[JoeYing1019/ODE](https://github.com/JoeYing1019/ODE)** ⭐ 9
   ![Python](https://img.shields.io/badge/-Python-blue)
   None
 
-- **[miniex/btop-theme-damin](https://github.com/miniex/btop-theme-damin)** ⭐ 2
-  ![Shell](https://img.shields.io/badge/-Shell-lightgrey)
-  Minimal btop theme in the damin two-color palette
+- **[TANGandXUE/wcdb-key-tool](https://github.com/TANGandXUE/wcdb-key-tool)** ⭐ 8
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  Extract WeChat (WCDB/SQLCipher4) database encryption keys on Linux. Auto-adapts to new versions via ELF static analysis — no manual reverse engineering needed per update. Linux 微信数据库密钥提取工具。通过 ELF静态分析自动适配新版本，无需每次更新手动逆向。
+
+- **[Coff0xc/coffee-skill](https://github.com/Coff0xc/coffee-skill)** ⭐ 8
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  Comprehensive Codex skills pack for engineering, AI agents, docs, and defensive security, with multilingual triggers, validation checklists, and a router fallback
 
 ### 📈 Weekly Trending
 
-- **[V4bel/dirtyfrag](https://github.com/V4bel/dirtyfrag)** ⭐ 4,333
+- **[V4bel/dirtyfrag](https://github.com/V4bel/dirtyfrag)** ⭐ 4,358
   ![C](https://img.shields.io/badge/-C-lightgrey)
   None
 
-- **[vercel-labs/zero-native](https://github.com/vercel-labs/zero-native)** ⭐ 2,968
+- **[vercel-labs/zero-native](https://github.com/vercel-labs/zero-native)** ⭐ 3,088
   ![Zig](https://img.shields.io/badge/-Zig-lightgrey)
   Build desktop + mobile apps with Zig and web UI
 
-- **[huangserva/3DCellForge](https://github.com/huangserva/3DCellForge)** ⭐ 1,712
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
-  AI-powered interactive 3D cell generation and exploration studio.
-
-- **[FULU-Foundation/OrcaSlicer-bambulab](https://github.com/FULU-Foundation/OrcaSlicer-bambulab)** ⭐ 1,216
+- **[FULU-Foundation/OrcaSlicer-bambulab](https://github.com/FULU-Foundation/OrcaSlicer-bambulab)** ⭐ 1,767
   ![C++](https://img.shields.io/badge/-C++-pink)
   None
 
-- **[haydenbleasel/files-sdk](https://github.com/haydenbleasel/files-sdk)** ⭐ 571
-  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
-  A unified storage SDK for object and blob backends. One small, honest API. Web-standards I/O.
+- **[huangserva/3DCellForge](https://github.com/huangserva/3DCellForge)** ⭐ 1,750
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
+  AI-powered interactive 3D cell generation and exploration studio.
 
-- **[ywnd1144/Gopay_plus_automatic](https://github.com/ywnd1144/Gopay_plus_automatic)** ⭐ 538
+- **[ywnd1144/Gopay_plus_automatic](https://github.com/ywnd1144/Gopay_plus_automatic)** ⭐ 649
   ![Python](https://img.shields.io/badge/-Python-blue)
   None
 
-- **[thakur-works/DarkGPT](https://github.com/thakur-works/DarkGPT)** ⭐ 532
+- **[haydenbleasel/files-sdk](https://github.com/haydenbleasel/files-sdk)** ⭐ 601
+  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
+  A unified storage SDK for object and blob backends. One small, honest API. Web-standards I/O.
+
+- **[thakur-works/DarkGPT](https://github.com/thakur-works/DarkGPT)** ⭐ 533
   ![None](https://img.shields.io/badge/-None-lightgrey)
   Darkgpt mod free #chatgpt
 
-- **[thakur-works/Velocity-Executor](https://github.com/thakur-works/Velocity-Executor)** ⭐ 528
-  ![None](https://img.shields.io/badge/-None-lightgrey)
-  This repository contains Velocity Executor — a free Roblox script executor for PC built for fast injection, stable performance, and easy access. Includes Level 8 execution in 2026 with no ads, no key checkpoints, and no extra verification.
+- **[patchfighterway90/cs2-external-overlay](https://github.com/patchfighterway90/cs2-external-overlay)** ⭐ 533
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  The cs2 external helper tool is a software utility designed for gamers and developers. It provides a set of features to enhance the gaming experience, including a customizable overlay. The tool is particularly useful for users who want to access additional information during gameplay.
 
 ### 📈 Monthly Trending
 
-- **[nexu-io/open-design](https://github.com/nexu-io/open-design)** ⭐ 38,461
+- **[nexu-io/open-design](https://github.com/nexu-io/open-design)** ⭐ 38,776
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   🎨 Local-first, open-source alternative to Anthropic's Claude Design. ⚡ 19 Skills · ✨ 71 brand-grade Design Systems 🖼 Generate web · desktop · mobile prototypes · slides · images · videos · HyperFrames 📦 Sandboxed preview · HTML/PDF/PPTX/MP4 export 🤖 Runs on Claude Code / Codex / Cursor / Gemini / OpenCode / Qwen / Copilot / Hermes / Kimi CLI.
 
-- **[EvoLinkAI/awesome-gpt-image-2-API-and-Prompts](https://github.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts)** ⭐ 14,064
+- **[EvoLinkAI/awesome-gpt-image-2-API-and-Prompts](https://github.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts)** ⭐ 14,109
   ![Python](https://img.shields.io/badge/-Python-blue)
   GPT-Image-2 API and Prompts
 
-- **[alchaincyf/huashu-design](https://github.com/alchaincyf/huashu-design)** ⭐ 13,426
+- **[alchaincyf/huashu-design](https://github.com/alchaincyf/huashu-design)** ⭐ 13,485
   ![HTML](https://img.shields.io/badge/-HTML-lightgrey)
   Huashu Design · HTML-native design skill for Claude Code · Claude Code 里 HTML 原生的设计 skill · 高保真原型 / 幻灯片 / 动画 + 20 设计哲学 + 5 维评审 + MP4 导出 · Agent-agnostic
 
-- **[kyegomez/OpenMythos](https://github.com/kyegomez/OpenMythos)** ⭐ 12,507
+- **[kyegomez/OpenMythos](https://github.com/kyegomez/OpenMythos)** ⭐ 12,516
   ![Python](https://img.shields.io/badge/-Python-blue)
   A theoretical reconstruction of the Claude Mythos architecture, built from first principles using the available research literature.
 
-- **[browser-use/browser-harness](https://github.com/browser-use/browser-harness)** ⭐ 12,326
+- **[browser-use/browser-harness](https://github.com/browser-use/browser-harness)** ⭐ 12,380
   ![Python](https://img.shields.io/badge/-Python-blue)
   Browser Harness | Self-healing harness that enables LLMs to complete any task.
 
-- **[antirez/ds4](https://github.com/antirez/ds4)** ⭐ 8,097
+- **[antirez/ds4](https://github.com/antirez/ds4)** ⭐ 8,210
   ![C](https://img.shields.io/badge/-C-lightgrey)
   DeepSeek 4 Flash local inference engine for Metal and CUDA
 
-- **[op7418/guizang-ppt-skill](https://github.com/op7418/guizang-ppt-skill)** ⭐ 7,926
+- **[op7418/guizang-ppt-skill](https://github.com/op7418/guizang-ppt-skill)** ⭐ 8,117
   ![HTML](https://img.shields.io/badge/-HTML-lightgrey)
   A Claude Code Skill that turns prompts into horizontal-swipe magazine-style HTML decks — 10 layouts, 5 curated themes, WebGL hero backgrounds, single-file output.
 
-- **[Robbyant/lingbot-map](https://github.com/Robbyant/lingbot-map)** ⭐ 6,166
+- **[Robbyant/lingbot-map](https://github.com/Robbyant/lingbot-map)** ⭐ 6,191
   ![Python](https://img.shields.io/badge/-Python-blue)
   A feed-forward 3D foundation model for reconstructing scenes from streaming data
 
@@ -227,13 +230,11 @@
 
 ### 📦 microsoft/vscode
 
-**[1.119.1](https://github.com/microsoft/vscode/releases/tag/1.119.1)** `1.119.1`
+**[1.120.0](https://github.com/microsoft/vscode/releases/tag/1.120.0)** `1.120.0`
 
-📅 Released: May 12, 2026
+📅 Released: May 13, 2026
 
-The update addresses these [issues](https://github.com/Microsoft/vscode/issues?q=is%3Aissue+milestone%3A1.119.1+is%3Aclosed+)
-
-https://code.visualstudio.com/updates/v1_119...
+https://code.visualstudio.com/updates/v1_120...
 
 ---
 
@@ -495,51 +496,51 @@ The API i...
 
 | Skill | Status |
 |-------|--------|
-| Java | ⚪ Planned |
-| Python | ⚪ Planned |
-| JavaScript | 🔴 Beginner |
-| TypeScript | ⚪ Planned |
-| Go | 🟢 Proficient |
+| Java | 🔴 Beginner |
+| Python | 🟢 Proficient |
+| JavaScript | 🟡 Learning |
+| TypeScript | 🟢 Proficient |
+| Go | ⚪ Planned |
 
 ### Frameworks
 
 | Skill | Status |
 |-------|--------|
-| React | ⚪ Planned |
+| React | 🟢 Proficient |
 | Spring Boot | 🟢 Proficient |
-| Django | 🔴 Beginner |
-| Node.js | 🟢 Proficient |
-| Next.js | ⚪ Planned |
+| Django | 🟡 Learning |
+| Node.js | 🔴 Beginner |
+| Next.js | 🟡 Learning |
 
 ### Cybersecurity
 
 | Skill | Status |
 |-------|--------|
-| Penetration Testing | 🔴 Beginner |
-| Web Security | 🟡 Learning |
-| Network Security | ⚪ Planned |
-| OWASP | 🔴 Beginner |
+| Penetration Testing | 🟢 Proficient |
+| Web Security | 🔴 Beginner |
+| Network Security | 🟢 Proficient |
+| OWASP | 🟢 Proficient |
 
 ### Ai Ml
 
 | Skill | Status |
 |-------|--------|
-| Machine Learning | ⚪ Planned |
-| Deep Learning | 🔴 Beginner |
-| NLP | 🔴 Beginner |
-| Computer Vision | 🟡 Learning |
+| Machine Learning | 🟡 Learning |
+| Deep Learning | 🟢 Proficient |
+| NLP | ⚪ Planned |
+| Computer Vision | 🔴 Beginner |
 | TensorFlow | 🟡 Learning |
-| PyTorch | 🔴 Beginner |
+| PyTorch | 🟡 Learning |
 
 ### Devops
 
 | Skill | Status |
 |-------|--------|
-| Docker | 🟢 Proficient |
-| Kubernetes | ⚪ Planned |
-| CI/CD | 🔴 Beginner |
-| AWS | 🔴 Beginner |
-| Azure | 🟡 Learning |
+| Docker | 🟡 Learning |
+| Kubernetes | 🟢 Proficient |
+| CI/CD | 🟢 Proficient |
+| AWS | ⚪ Planned |
+| Azure | 🔴 Beginner |
 
 ### Other
 
@@ -547,7 +548,7 @@ The API i...
 |-------|--------|
 | Blockchain | 🟢 Proficient |
 | Web3 | 🔴 Beginner |
-| Cloud Computing | ⚪ Planned |
+| Cloud Computing | 🔴 Beginner |
 
 </details>
 
