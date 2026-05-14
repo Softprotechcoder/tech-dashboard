@@ -46,34 +46,38 @@
 
 ### 📑 Hacker News
 
-- **[What the Hell Was Going on with Cigarette Ads in the 70s?](https://tohippo.com/what-the-hell-was-going-on-with-cigarette-ads-in-the-70s/)**
-  *<p>Article URL: <a href="https://tohippo.com/what-the-hell-was-going-on-with-cigarette-ads-in-the-70s/">https://tohippo.com/what-the-hell-was-going-on-with-cigarette-ads-in-the-70s/</a></p>
-<p>Comment...*
-  📅 Thu, 14 May 2026 07:25:59 +0000
+- **[USDA Projects Smallest US Wheat Harvest Since 1972 Due to Plains Drought](https://www.agweb.com/news/usda-projects-smallest-us-wheat-harvest-1972-due-plains-drought)**
+  *<p>Article URL: <a href="https://www.agweb.com/news/usda-projects-smallest-us-wheat-harvest-1972-due-plains-drought">https://www.agweb.com/news/usda-projects-smallest-us-wheat-harvest-1972-due-plains-...*
+  📅 Thu, 14 May 2026 13:17:57 +0000
 
-- **[Claude for Small Business](https://www.anthropic.com/news/claude-for-small-business)**
-  *<p>Article URL: <a href="https://www.anthropic.com/news/claude-for-small-business">https://www.anthropic.com/news/claude-for-small-business</a></p>
+- **[The Whole Anthropic Kerfuffle](https://twitter.com/josevalim/status/2054887621336174799)**
+  *<p>Article URL: <a href="https://twitter.com/josevalim/status/2054887621336174799">https://twitter.com/josevalim/status/2054887621336174799</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.c...*
-  📅 Thu, 14 May 2026 03:59:35 +0000
+  📅 Thu, 14 May 2026 13:08:00 +0000
 
-- **[Arena AI Model ELO History](https://mayerwin.github.io/AI-Arena-History/)**
-  *<p>Hi HN,<p>I built a live tracker to visualize the lifecycle and performance changes of flagship AI models.<p>We've all experienced the phenomenon where a flagship model feels amazing at launch, but ...*
-  📅 Thu, 14 May 2026 03:19:05 +0000
+- **[Claude Account Suspended Seconds After Purchase?](https://news.ycombinator.com/item?id=48134808)**
+  *<p>I literally created a new account, pressed submit on the credit card dialog, the purchase goes through and i get logged out. I try to log in, and it says I'm banned. I check my mail box and I see a...*
+  📅 Thu, 14 May 2026 13:01:52 +0000
 
-- **[A Claude Code and Codex Skill for Deliberate Skill Development](https://github.com/DrCatHicks/learning-opportunities)**
-  *<p>Article URL: <a href="https://github.com/DrCatHicks/learning-opportunities">https://github.com/DrCatHicks/learning-opportunities</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?...*
-  📅 Thu, 14 May 2026 03:13:31 +0000
+- **[Computer Hobby Movement in Canada](https://museum.eecs.yorku.ca/exhibits/show/hobby_canada/hobby_canada)**
+  *<p>Article URL: <a href="https://museum.eecs.yorku.ca/exhibits/show/hobby_canada/hobby_canada">https://museum.eecs.yorku.ca/exhibits/show/hobby_canada/hobby_canada</a></p>
+<p>Comments URL: <a href="ht...*
+  📅 Thu, 14 May 2026 12:57:27 +0000
 
-- **[Microsoft BitLocker – YellowKey zero-day exploit](https://www.tomshardware.com/tech-industry/cyber-security/microsoft-bitlocker-protected-drives-can-now-be-opened-with-just-some-files-on-a-usb-stick-yellowkey-zero-day-exploit-demonstrates-an-apparent-backdoor)**
-  *<p>Article URL: <a href="https://www.tomshardware.com/tech-industry/cyber-security/microsoft-bitlocker-protected-drives-can-now-be-opened-with-just-some-files-on-a-usb-stick-yellowkey-zero-day-exploit...*
-  📅 Thu, 14 May 2026 02:45:08 +0000
+- **[Sam Altman's Business Dealings Under GOP Scrutiny Ahead of OpenAI's IPO](https://www.wsj.com/tech/ai/sam-altmans-business-dealings-under-gop-scrutiny-ahead-of-openais-ipo-52c1cc4d)**
+  *<p>Article URL: <a href="https://www.wsj.com/tech/ai/sam-altmans-business-dealings-under-gop-scrutiny-ahead-of-openais-ipo-52c1cc4d">https://www.wsj.com/tech/ai/sam-altmans-business-dealings-under-gop...*
+  📅 Thu, 14 May 2026 12:27:29 +0000
 
-- **[Show HN: Nibble](https://github.com/glouw/nibble)**
-  *<p>An attempt at a single pass LLVM frontend in ~3000 lines of C without external dependencies, malloc, or an AST. Included are some graphical examples. The IR isn't perfect, and the README touches on...*
-  📅 Thu, 14 May 2026 01:46:45 +0000
+- **[The Siri for Families Apple Will Never Build](https://taoofmac.com/space/blog/2026/05/14/1220)**
+  *<p>Article URL: <a href="https://taoofmac.com/space/blog/2026/05/14/1220">https://taoofmac.com/space/blog/2026/05/14/1220</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=4813408...*
+  📅 Thu, 14 May 2026 11:47:47 +0000
 
 ### 📑 TechCrunch
+
+- **[Uber to open 2 campuses in India to support product development, operations](https://techcrunch.com/2026/05/14/uber-to-open-2-campuses-in-india-to-support-product-development-operations/)**
+  *Uber plans to open two new engineering campuses with a capacity of nearly 10,000 people in India by the end of 2027....*
+  📅 Thu, 14 May 2026 13:43:27 +0000
 
 - **[Who decides what AI tells you? Campbell Brown, once Meta’s news chief, has thoughts](https://techcrunch.com/2026/05/13/who-decides-what-ai-tells-you-campbell-brown-once-metas-news-chief-has-thoughts/)**
   *"The conversation is sort of happening in Silicon Valley around one thing, and a totally different conversation is happening among consumers."...*
@@ -95,19 +99,18 @@
   *The head of product for Claude Code and Cowork says that the next big step for AI is proactivity....*
   📅 Wed, 13 May 2026 19:28:06 +0000
 
-- **[This is what some of the world’s largest banks of malware look like stacked as hard drives](https://techcrunch.com/2026/05/13/this-is-what-some-of-the-worlds-largest-banks-of-malware-look-like-stacked-as-hard-drives/)**
-  *What would some of the world's largest repositories of malware look like if they were stacked as hard drives, one on top of the other?...*
-  📅 Wed, 13 May 2026 18:12:29 +0000
-
 ### 📑 Dev.to
 
-- **[Arena ELO History: el gráfico que expone cómo se degradan los LLM](https://dev.to/lu1tr0n/arena-elo-history-el-grafico-que-expone-como-se-degradan-los-llm-27ll)**
-  *<p>Un investigador independiente acaba de publicar una herramienta que expone uno de los patrones peor documentados de la industria de la inteligencia artificial: los modelos de lenguaje grandes se de...*
-  📅 Thu, 14 May 2026 08:19:46 +0000
+- **[I Spent 3 Hours Watching My Benchmark Hang, Then 6 Seconds to Fix It](https://dev.to/motedb/i-spent-3-hours-watching-my-benchmark-hang-then-6-seconds-to-fix-it-2fl9)**
+  *<p>Three hours. That's how long <code>bench_column_index</code> ran before I realized it wasn't going anywhere.</p>
 
-- **[AGEF explained: a portable evidence format for AI agent sessions](https://dev.to/radotsvetkov/agef-explained-a-portable-evidence-format-for-ai-agent-sessions-40fn)**
-  *<p>If you ship AI-assisted code in a regulated codebase and somebody asks "show me what the agent did", you have about a week before that question turns into a finding. The data exists somewhere. It i...*
-  📅 Thu, 14 May 2026 08:19:44 +0000
+<p>I was preparing for moteDB v0.2.0 and running the usual performance suite. Twelv...*
+  📅 Thu, 14 May 2026 13:30:36 +0000
+
+- **[Structured Output in .NET Agents](https://dev.to/lukaswalter/structured-output-in-net-agents-26fo)**
+  *<blockquote>
+<p><em>This is Part 8 of my series on the Microsoft Agent Framework. You can read the original post over on <a href="https://www.lukaswalter.dev/posts/agentframework_1_8/" rel="noopener n...*
+  📅 Thu, 14 May 2026 13:30:00 +0000
 
 </details>
 
@@ -115,103 +118,103 @@
 
 ### 📈 Daily Trending
 
-- **[B3hnamR/PsiphonOverMITM](https://github.com/B3hnamR/PsiphonOverMITM)** ⭐ 65
+- **[B3hnamR/PsiphonOverMITM](https://github.com/B3hnamR/PsiphonOverMITM)** ⭐ 262
   ![PowerShell](https://img.shields.io/badge/-PowerShell-lightgrey)
   None
 
-- **[David-patrick-chuks/Kyro-Protocol](https://github.com/David-patrick-chuks/Kyro-Protocol)** ⭐ 19
+- **[rubybeeguide56/Lightroom-Classic-2026-Full-CRACKED](https://github.com/rubybeeguide56/Lightroom-Classic-2026-Full-CRACKED)** ⭐ 43
   ![None](https://img.shields.io/badge/-None-lightgrey)
-  Kyro Protocol is an on-chain financial infrastructure built on the Stellar network that enables AI agents (AgentKyro) to own wallets, hold USDC, execute payments, and transact autonomously.
+  Lightroom Classic 2026 full activated version with all modules unlocked. Latest release with Camera Raw, AI features, advanced editing tools and premium presets. Easy installation, no subscription required. Complete professional photo editing software.
 
-- **[sbhattap/claude-pee](https://github.com/sbhattap/claude-pee)** ⭐ 16
-  ![Rust](https://img.shields.io/badge/-Rust-brown)
-  Use Claude Code programmatically as an interactive user
-
-- **[CyberSealNull/CcCompanion](https://github.com/CyberSealNull/CcCompanion)** ⭐ 16
-  ![Swift](https://img.shields.io/badge/-Swift-lightgrey)
-  Bring Claude Code to your iPhone. Open-source iOS client + tiny Python push server. Local-first, runs on your own Mac and your own phone.
-
-- **[Equality-Machine/claude-p](https://github.com/Equality-Machine/claude-p)** ⭐ 13
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  None
-
-- **[SocrAIte/Market-Impact-Radar](https://github.com/SocrAIte/Market-Impact-Radar)** ⭐ 10
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  一个可自部署的私域金融新闻监测与市场影响分析系统。按预测市场影响力排序全球财经新闻，生成中文摘要与影响路径，并推送到企业微信。
-
-- **[itaygen/week6](https://github.com/itaygen/week6)** ⭐ 9
+- **[scarletskinksewer89/Affinity-Designer-2-Full-Cracked](https://github.com/scarletskinksewer89/Affinity-Designer-2-Full-Cracked)** ⭐ 43
   ![None](https://img.shields.io/badge/-None-lightgrey)
-  None
+  Affinity Designer 2 activated version. All professional vector tools, pixel persona, export persona, advanced typography, symbols, constraints, and StudioLink features unlocked. Latest version with complete access to all tools and functions. Fast, powerful, and precise vector, pixel, and photo editing software. Easy installation, no subscription
 
-- **[isilderrr1/NeuralForge](https://github.com/isilderrr1/NeuralForge)** ⭐ 9
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  Local-first platform for fine-tuning LLMs on consumer GPUs. QLoRA training, live monitoring, GGUF export. Built with PyTorch + FastAPI + React.
+- **[Feathershustare/Microsoft-365-2026-Full-Cracked-Lifetime](https://github.com/Feathershustare/Microsoft-365-2026-Full-Cracked-Lifetime)** ⭐ 43
+  ![None](https://img.shields.io/badge/-None-lightgrey)
+  Microsoft 365 2026 full activated version (Lifetime). All applications included: Word, Excel, PowerPoint, Outlook, OneNote, Access, Publisher, Teams, OneDrive + all premium features unlocked. Latest version with full desktop apps and cloud integration. No subscription required. Easy installation, ready to use on Windows.
+
+- **[femtotaxioscillator/4K-Video-Downloader-2026-Full-Cracked](https://github.com/femtotaxioscillator/4K-Video-Downloader-2026-Full-Cracked)** ⭐ 42
+  ![None](https://img.shields.io/badge/-None-lightgrey)
+  4K Video Downloader Plus 2026 full activated version. All premium features unlocked: unlimited downloads, 4K/8K/60FPS support, subtitles, playlist & channel downloading, Smart Mode, and ad-free experience. Latest version with full access to all sites (YouTube, Vimeo, TikTok, Instagram, etc.). Easy installation, ready to use.
+
+- **[Sharefilabel/Adobe-After-Effects-2026-Full-Cracked](https://github.com/Sharefilabel/Adobe-After-Effects-2026-Full-Cracked)** ⭐ 42
+  ![None](https://img.shields.io/badge/-None-lightgrey)
+  Adobe After Effects 2026 full activated version. All features, plugins, expressions, 3D camera tracker, advanced effects, and Motion Graphics templates unlocked. Latest version with full access to Adobe ecosystem. Professional motion graphics, visual effects, and compositing software. Easy installation, ready for production.
+
+- **[Featheryeneedle/Adobe-Substance-3D-Painter-2026-Full-Cracked](https://github.com/Featheryeneedle/Adobe-Substance-3D-Painter-2026-Full-Cracked)** ⭐ 42
+  ![None](https://img.shields.io/badge/-None-lightgrey)
+  Adobe Substance 3D Painter 2026 full activated version. All advanced features, materials, smart materials, procedural tools, and export options unlocked. Latest version with full access to Substance ecosystem. Professional texturing solution for 3D artists and game developers. Easy installation, ready to use.
+
+- **[BlendAdministrator/Adobe-Fresco-2026-Full-Cracked-Producer](https://github.com/BlendAdministrator/Adobe-Fresco-2026-Full-Cracked-Producer)** ⭐ 41
+  ![None](https://img.shields.io/badge/-None-lightgrey)
+  Adobe Fresco 2026 full activated version. All premium brushes, live brushes, vector tools, and Pro features unlocked. Latest version with full access to Adobe’s Fresco ecosystem. Easy installation, ready for professional digital painting and sketching on desktop and iPad.
 
 ### 📈 Weekly Trending
 
-- **[vercel-labs/zero-native](https://github.com/vercel-labs/zero-native)** ⭐ 3,364
+- **[vercel-labs/zero-native](https://github.com/vercel-labs/zero-native)** ⭐ 3,404
   ![Zig](https://img.shields.io/badge/-Zig-lightgrey)
   Build desktop + mobile apps with Zig and web UI
 
-- **[FULU-Foundation/OrcaSlicer-bambulab](https://github.com/FULU-Foundation/OrcaSlicer-bambulab)** ⭐ 3,112
+- **[FULU-Foundation/OrcaSlicer-bambulab](https://github.com/FULU-Foundation/OrcaSlicer-bambulab)** ⭐ 3,362
   ![C++](https://img.shields.io/badge/-C++-pink)
   None
 
-- **[huangserva/3DCellForge](https://github.com/huangserva/3DCellForge)** ⭐ 1,907
+- **[huangserva/3DCellForge](https://github.com/huangserva/3DCellForge)** ⭐ 1,981
   ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
   AI-powered interactive 3D model generation, inspection, and presentation studio.
 
-- **[Nightmare-Eclipse/YellowKey](https://github.com/Nightmare-Eclipse/YellowKey)** ⭐ 1,214
+- **[Nightmare-Eclipse/YellowKey](https://github.com/Nightmare-Eclipse/YellowKey)** ⭐ 1,461
   ![None](https://img.shields.io/badge/-None-lightgrey)
   YellowKey Bitlocker Bypass Vulnerability
 
-- **[ywnd1144/Gopay_plus_automatic](https://github.com/ywnd1144/Gopay_plus_automatic)** ⭐ 737
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  None
-
-- **[HermannBjorgvin/Clawdmeter](https://github.com/HermannBjorgvin/Clawdmeter)** ⭐ 733
+- **[HermannBjorgvin/Clawdmeter](https://github.com/HermannBjorgvin/Clawdmeter)** ⭐ 790
   ![C](https://img.shields.io/badge/-C-lightgrey)
   ESP32 desk dashboard that shows Claude Code usage
 
-- **[haydenbleasel/files-sdk](https://github.com/haydenbleasel/files-sdk)** ⭐ 656
+- **[ywnd1144/Gopay_plus_automatic](https://github.com/ywnd1144/Gopay_plus_automatic)** ⭐ 751
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  None
+
+- **[haydenbleasel/files-sdk](https://github.com/haydenbleasel/files-sdk)** ⭐ 664
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   A unified storage SDK for object and blob backends. One small, honest API. Web-standards I/O.
 
-- **[TencentARC/Pixal3D](https://github.com/TencentARC/Pixal3D)** ⭐ 565
+- **[TencentARC/Pixal3D](https://github.com/TencentARC/Pixal3D)** ⭐ 600
   ![Python](https://img.shields.io/badge/-Python-blue)
   [SIGGRAPH 2026] Pixal3D: Pixel-Aligned 3D Generation from Images
 
 ### 📈 Monthly Trending
 
-- **[nexu-io/open-design](https://github.com/nexu-io/open-design)** ⭐ 39,695
+- **[nexu-io/open-design](https://github.com/nexu-io/open-design)** ⭐ 39,983
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   🎨 Local-first, open-source alternative to Anthropic's Claude Design. ⚡ 19 Skills · ✨ 71 brand-grade Design Systems 🖼 Generate web · desktop · mobile prototypes · slides · images · videos · HyperFrames 📦 Sandboxed preview · HTML/PDF/PPTX/MP4 export 🤖 Runs on Claude Code / Codex / Cursor / Gemini / OpenCode / Qwen / Copilot / Hermes / Kimi CLI.
 
-- **[EvoLinkAI/awesome-gpt-image-2-API-and-Prompts](https://github.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts)** ⭐ 14,229
+- **[EvoLinkAI/awesome-gpt-image-2-API-and-Prompts](https://github.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts)** ⭐ 14,270
   ![Python](https://img.shields.io/badge/-Python-blue)
   GPT-Image-2 API and Prompts
 
-- **[alchaincyf/huashu-design](https://github.com/alchaincyf/huashu-design)** ⭐ 13,609
+- **[alchaincyf/huashu-design](https://github.com/alchaincyf/huashu-design)** ⭐ 13,664
   ![HTML](https://img.shields.io/badge/-HTML-lightgrey)
   Huashu Design · HTML-native design skill for Claude Code · Claude Code 里 HTML 原生的设计 skill · 高保真原型 / 幻灯片 / 动画 + 20 设计哲学 + 5 维评审 + MP4 导出 · Agent-agnostic
 
-- **[kyegomez/OpenMythos](https://github.com/kyegomez/OpenMythos)** ⭐ 12,698
+- **[kyegomez/OpenMythos](https://github.com/kyegomez/OpenMythos)** ⭐ 12,786
   ![Python](https://img.shields.io/badge/-Python-blue)
   A theoretical reconstruction of the Claude Mythos architecture, built from first principles using the available research literature.
 
-- **[browser-use/browser-harness](https://github.com/browser-use/browser-harness)** ⭐ 12,555
+- **[browser-use/browser-harness](https://github.com/browser-use/browser-harness)** ⭐ 12,587
   ![Python](https://img.shields.io/badge/-Python-blue)
   Browser Harness | Self-healing harness that enables LLMs to complete any task.
 
-- **[antirez/ds4](https://github.com/antirez/ds4)** ⭐ 8,517
+- **[antirez/ds4](https://github.com/antirez/ds4)** ⭐ 8,623
   ![C](https://img.shields.io/badge/-C-lightgrey)
   DeepSeek 4 Flash local inference engine for Metal and CUDA
 
-- **[op7418/guizang-ppt-skill](https://github.com/op7418/guizang-ppt-skill)** ⭐ 8,515
+- **[op7418/guizang-ppt-skill](https://github.com/op7418/guizang-ppt-skill)** ⭐ 8,611
   ![HTML](https://img.shields.io/badge/-HTML-lightgrey)
   A Claude Code Skill that turns prompts into horizontal-swipe magazine-style HTML decks — 10 layouts, 5 curated themes, WebGL hero backgrounds, single-file output.
 
-- **[Robbyant/lingbot-map](https://github.com/Robbyant/lingbot-map)** ⭐ 6,290
+- **[Robbyant/lingbot-map](https://github.com/Robbyant/lingbot-map)** ⭐ 6,303
   ![Python](https://img.shields.io/badge/-Python-blue)
   A feed-forward 3D foundation model for reconstructing scenes from streaming data
 
@@ -490,58 +493,58 @@ The API i...
 | Skill | Status |
 |-------|--------|
 | Java | 🟢 Proficient |
-| Python | 🔴 Beginner |
-| JavaScript | 🔴 Beginner |
-| TypeScript | 🔴 Beginner |
-| Go | 🟢 Proficient |
+| Python | 🟢 Proficient |
+| JavaScript | 🟢 Proficient |
+| TypeScript | ⚪ Planned |
+| Go | ⚪ Planned |
 
 ### Frameworks
 
 | Skill | Status |
 |-------|--------|
-| React | 🟢 Proficient |
-| Spring Boot | 🟢 Proficient |
-| Django | 🟡 Learning |
-| Node.js | 🟢 Proficient |
-| Next.js | 🟡 Learning |
+| React | 🔴 Beginner |
+| Spring Boot | ⚪ Planned |
+| Django | 🟢 Proficient |
+| Node.js | 🟡 Learning |
+| Next.js | 🔴 Beginner |
 
 ### Cybersecurity
 
 | Skill | Status |
 |-------|--------|
-| Penetration Testing | ⚪ Planned |
-| Web Security | ⚪ Planned |
-| Network Security | 🔴 Beginner |
-| OWASP | 🟢 Proficient |
+| Penetration Testing | 🟡 Learning |
+| Web Security | 🟡 Learning |
+| Network Security | 🟡 Learning |
+| OWASP | ⚪ Planned |
 
 ### Ai Ml
 
 | Skill | Status |
 |-------|--------|
 | Machine Learning | 🔴 Beginner |
-| Deep Learning | 🟡 Learning |
-| NLP | 🟡 Learning |
-| Computer Vision | 🔴 Beginner |
-| TensorFlow | 🔴 Beginner |
+| Deep Learning | 🔴 Beginner |
+| NLP | ⚪ Planned |
+| Computer Vision | 🟢 Proficient |
+| TensorFlow | ⚪ Planned |
 | PyTorch | 🟡 Learning |
 
 ### Devops
 
 | Skill | Status |
 |-------|--------|
-| Docker | 🟢 Proficient |
-| Kubernetes | 🟢 Proficient |
+| Docker | 🟡 Learning |
+| Kubernetes | ⚪ Planned |
 | CI/CD | 🟡 Learning |
 | AWS | ⚪ Planned |
-| Azure | 🔴 Beginner |
+| Azure | 🟡 Learning |
 
 ### Other
 
 | Skill | Status |
 |-------|--------|
-| Blockchain | 🔴 Beginner |
-| Web3 | 🟢 Proficient |
-| Cloud Computing | 🔴 Beginner |
+| Blockchain | ⚪ Planned |
+| Web3 | 🟡 Learning |
+| Cloud Computing | 🟢 Proficient |
 
 </details>
 
