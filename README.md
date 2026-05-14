@@ -46,71 +46,71 @@
 
 ### 📑 Hacker News
 
-- **[USDA Projects Smallest US Wheat Harvest Since 1972 Due to Plains Drought](https://www.agweb.com/news/usda-projects-smallest-us-wheat-harvest-1972-due-plains-drought)**
-  *<p>Article URL: <a href="https://www.agweb.com/news/usda-projects-smallest-us-wheat-harvest-1972-due-plains-drought">https://www.agweb.com/news/usda-projects-smallest-us-wheat-harvest-1972-due-plains-...*
-  📅 Thu, 14 May 2026 13:17:57 +0000
+- **[The Power of a Free Popsicle (2018)](https://www.gsb.stanford.edu/insights/power-free-popsicle)**
+  *<p>Article URL: <a href="https://www.gsb.stanford.edu/insights/power-free-popsicle">https://www.gsb.stanford.edu/insights/power-free-popsicle</a></p>
+<p>Comments URL: <a href="https://news.ycombinator...*
+  📅 Thu, 14 May 2026 18:33:47 +0000
 
-- **[The Whole Anthropic Kerfuffle](https://twitter.com/josevalim/status/2054887621336174799)**
-  *<p>Article URL: <a href="https://twitter.com/josevalim/status/2054887621336174799">https://twitter.com/josevalim/status/2054887621336174799</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.c...*
-  📅 Thu, 14 May 2026 13:08:00 +0000
+- **[Understanding the Linux Kernel: The Linux Kernel Startup](https://internals-for-interns.com/posts/linux-kernel-startup/)**
+  *<p>Article URL: <a href="https://internals-for-interns.com/posts/linux-kernel-startup/">https://internals-for-interns.com/posts/linux-kernel-startup/</a></p>
+<p>Comments URL: <a href="https://news.yco...*
+  📅 Thu, 14 May 2026 18:25:10 +0000
 
-- **[Claude Account Suspended Seconds After Purchase?](https://news.ycombinator.com/item?id=48134808)**
-  *<p>I literally created a new account, pressed submit on the credit card dialog, the purchase goes through and i get logged out. I try to log in, and it says I'm banned. I check my mail box and I see a...*
-  📅 Thu, 14 May 2026 13:01:52 +0000
+- **[First public macOS kernel memory corruption exploit on Apple M5](https://blog.calif.io/p/first-public-kernel-memory-corruption)**
+  *<p>Article URL: <a href="https://blog.calif.io/p/first-public-kernel-memory-corruption">https://blog.calif.io/p/first-public-kernel-memory-corruption</a></p>
+<p>Comments URL: <a href="https://news.yco...*
+  📅 Thu, 14 May 2026 18:25:09 +0000
 
-- **[Computer Hobby Movement in Canada](https://museum.eecs.yorku.ca/exhibits/show/hobby_canada/hobby_canada)**
-  *<p>Article URL: <a href="https://museum.eecs.yorku.ca/exhibits/show/hobby_canada/hobby_canada">https://museum.eecs.yorku.ca/exhibits/show/hobby_canada/hobby_canada</a></p>
-<p>Comments URL: <a href="ht...*
-  📅 Thu, 14 May 2026 12:57:27 +0000
+- **[God Damn AI is making me dumb](https://jpain.io/god-damn-ai-is-making-me-dumb/)**
+  *<p>Article URL: <a href="https://jpain.io/god-damn-ai-is-making-me-dumb/">https://jpain.io/god-damn-ai-is-making-me-dumb/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=4813914...*
+  📅 Thu, 14 May 2026 18:19:28 +0000
 
-- **[Sam Altman's Business Dealings Under GOP Scrutiny Ahead of OpenAI's IPO](https://www.wsj.com/tech/ai/sam-altmans-business-dealings-under-gop-scrutiny-ahead-of-openais-ipo-52c1cc4d)**
-  *<p>Article URL: <a href="https://www.wsj.com/tech/ai/sam-altmans-business-dealings-under-gop-scrutiny-ahead-of-openais-ipo-52c1cc4d">https://www.wsj.com/tech/ai/sam-altmans-business-dealings-under-gop...*
-  📅 Thu, 14 May 2026 12:27:29 +0000
+- **[You Don't Align an AI, You Align with It](https://danieltan.weblog.lol/2026/05/you-dont-align-an-ai-you-align-with-it)**
+  *<p>Article URL: <a href="https://danieltan.weblog.lol/2026/05/you-dont-align-an-ai-you-align-with-it">https://danieltan.weblog.lol/2026/05/you-dont-align-an-ai-you-align-with-it</a></p>
+<p>Comments UR...*
+  📅 Thu, 14 May 2026 18:19:13 +0000
 
-- **[The Siri for Families Apple Will Never Build](https://taoofmac.com/space/blog/2026/05/14/1220)**
-  *<p>Article URL: <a href="https://taoofmac.com/space/blog/2026/05/14/1220">https://taoofmac.com/space/blog/2026/05/14/1220</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=4813408...*
-  📅 Thu, 14 May 2026 11:47:47 +0000
+- **[Grok Build](https://x.ai/news/grok-build-cli)**
+  *<p>Article URL: <a href="https://x.ai/news/grok-build-cli">https://x.ai/news/grok-build-cli</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=48139115">https://news.ycombinator.co...*
+  📅 Thu, 14 May 2026 18:17:55 +0000
 
 ### 📑 TechCrunch
 
-- **[Uber to open 2 campuses in India to support product development, operations](https://techcrunch.com/2026/05/14/uber-to-open-2-campuses-in-india-to-support-product-development-operations/)**
-  *Uber plans to open two new engineering campuses with a capacity of nearly 10,000 people in India by the end of 2027....*
-  📅 Thu, 14 May 2026 13:43:27 +0000
+- **[OpenAI is reportedly preparing legal action against Apple; it wouldn’t be the first partner to feel burned](https://techcrunch.com/2026/05/14/openai-is-reportedly-preparing-legal-action-against-apple-it-wouldnt-be-the-first-partner-to-feel-burned/)**
+  *According to Bloomberg, OpenAI has enlisted an outside law firm to work through its options....*
+  📅 Thu, 14 May 2026 19:12:03 +0000
 
-- **[Who decides what AI tells you? Campbell Brown, once Meta’s news chief, has thoughts](https://techcrunch.com/2026/05/13/who-decides-what-ai-tells-you-campbell-brown-once-metas-news-chief-has-thoughts/)**
-  *"The conversation is sort of happening in Silicon Valley around one thing, and a totally different conversation is happening among consumers."...*
-  📅 Thu, 14 May 2026 06:05:31 +0000
+- **[Clawdmeter turns your Claude Code usage stats into a tiny desktop dashboard](https://techcrunch.com/2026/05/14/clawdmeter-turns-your-claude-code-usage-stats-into-a-tiny-desktop-dashboard/)**
+  *A new open source gadget called Clawdmeter turns Claude Code usage stats into a tiny desktop dashboard for AI coding power users....*
+  📅 Thu, 14 May 2026 19:05:01 +0000
 
-- **[Clio’s $500M milestone arrives just as Anthropic ups the ante](https://techcrunch.com/2026/05/13/clios-500m-milestone-arrives-just-as-anthropic-ups-the-ante/)**
-  *Legal tech startups, including Clio, which just hit $500 million in ARR, are seeing massive customer adoption....*
-  📅 Thu, 14 May 2026 05:24:39 +0000
+- **[YouTube viewers watch 2 billion hours of Shorts on TVs each month](https://techcrunch.com/2026/05/14/youtube-viewers-watch-2-billion-hours-of-shorts-on-tvs-each-month/)**
+  *Short-form video is built for mobile, so it may seem counterintuitive, but it's true: YouTube Shorts are becoming quite popular on the big screen....*
+  📅 Thu, 14 May 2026 18:56:43 +0000
 
-- **[Notion just turned its workspace into a hub for AI agents](https://techcrunch.com/2026/05/13/notion-just-turned-its-workspace-into-a-hub-for-ai-agents/)**
-  *Notion’s new developer platform lets teams connect AI agents, external data sources, and custom code directly into their workspace as the company pushes deeper into agentic productivity software....*
-  📅 Wed, 13 May 2026 21:45:09 +0000
+- **[Cerebras raises $5.5B, then stock pops $108%, in the first huge tech IPO of 2026](https://techcrunch.com/2026/05/14/cerebras-raises-5-5b-kicking-off-2026s-ipo-season-with-a-bang/)**
+  *A year ago, it looked like this day would never happen for Cerebras....*
+  📅 Thu, 14 May 2026 16:30:02 +0000
 
-- **[Musk’s xAI is running nearly 50 gas turbines unchecked at its Mississippi data center](https://techcrunch.com/2026/05/13/musks-xai-is-running-nearly-50-gas-turbines-unchecked-at-its-mississippi-data-center/)**
-  *Gas turbines at xAI's Colossus 2 data center have drawn a lawsuit over the company's use of "mobile" gas turbines as power plants....*
-  📅 Wed, 13 May 2026 19:49:42 +0000
+- **[OpenAI says hackers stole some data after latest code security issue](https://techcrunch.com/2026/05/14/openai-says-hackers-stole-some-data-after-latest-code-security-issue/)**
+  *OpenAI said the damage was limited to the employees’ devices, and did not affect user data nor its production systems, and none of its intellectual property was stolen....*
+  📅 Thu, 14 May 2026 16:25:20 +0000
 
-- **[Anthropic’s Cat Wu says that, in the future, AI will anticipate your needs before you know what they are](https://techcrunch.com/2026/05/13/anthropics-cat-wu-says-that-in-the-future-ai-will-anticipate-your-needs-before-you-know-what-they-are/)**
-  *The head of product for Claude Code and Cowork says that the next big step for AI is proactivity....*
-  📅 Wed, 13 May 2026 19:28:06 +0000
+- **[Spotify to adopt Apple’s new video podcast tech, offering creators easier cross-platform distribution](https://techcrunch.com/2026/05/14/spotify-to-adopt-apples-new-video-podcast-tech-offering-creators-easier-cross-platform-distribution/)**
+  *Spotify will let creators distribute and monetize video podcasts on Apple Podcasts using Apple’s HLS streaming technology, without changing their existing workflows....*
+  📅 Thu, 14 May 2026 15:42:18 +0000
 
 ### 📑 Dev.to
 
-- **[I Spent 3 Hours Watching My Benchmark Hang, Then 6 Seconds to Fix It](https://dev.to/motedb/i-spent-3-hours-watching-my-benchmark-hang-then-6-seconds-to-fix-it-2fl9)**
-  *<p>Three hours. That's how long <code>bench_column_index</code> ran before I realized it wasn't going anywhere.</p>
+- **[I kept saying the same five things in every doc review. So I made them defaults.](https://dev.to/wordcaster/i-kept-saying-the-same-five-things-in-every-doc-review-so-i-made-them-defaults-3lo4)**
+  *<p>In <a href="https://dev.to/wordcaster/what-ai-actually-changed-about-my-work-as-a-technical-writer-2edh">my last piece</a>, I wrote about how AI changed my work as a technical writer. I closed with...*
+  📅 Thu, 14 May 2026 19:23:09 +0000
 
-<p>I was preparing for moteDB v0.2.0 and running the usual performance suite. Twelv...*
-  📅 Thu, 14 May 2026 13:30:36 +0000
-
-- **[Structured Output in .NET Agents](https://dev.to/lukaswalter/structured-output-in-net-agents-26fo)**
-  *<blockquote>
-<p><em>This is Part 8 of my series on the Microsoft Agent Framework. You can read the original post over on <a href="https://www.lukaswalter.dev/posts/agentframework_1_8/" rel="noopener n...*
-  📅 Thu, 14 May 2026 13:30:00 +0000
+- **[I Have a Toy for You and You Will Like It: How to Play with the UVerify Sandbox](https://dev.to/uverify/i-have-a-toy-for-you-and-you-will-like-it-how-to-play-with-the-uverify-sandbox-204p)**
+  *<p>If you read the <a href="https://dev.to/blog/sandbox-yano-yaci-store">previous article on the sandbox internals</a>, you already know that there is a local playground, what it is made of, and rough...*
+  📅 Thu, 14 May 2026 19:20:34 +0000
 
 </details>
 
@@ -118,103 +118,103 @@
 
 ### 📈 Daily Trending
 
-- **[B3hnamR/PsiphonOverMITM](https://github.com/B3hnamR/PsiphonOverMITM)** ⭐ 262
+- **[S4rdenz/gta-5-mod-menu](https://github.com/S4rdenz/gta-5-mod-menu)** ⭐ 516
+  ![None](https://img.shields.io/badge/-None-lightgrey)
+  🚀 Dominate GTA V servers with this free, reliable FiveM mod menu featuring ESP, aimbot, and more, designed for Steam and Epic Games versions.
+
+- **[B3hnamR/PsiphonOverMITM](https://github.com/B3hnamR/PsiphonOverMITM)** ⭐ 330
   ![PowerShell](https://img.shields.io/badge/-PowerShell-lightgrey)
   None
 
-- **[rubybeeguide56/Lightroom-Classic-2026-Full-CRACKED](https://github.com/rubybeeguide56/Lightroom-Classic-2026-Full-CRACKED)** ⭐ 43
-  ![None](https://img.shields.io/badge/-None-lightgrey)
-  Lightroom Classic 2026 full activated version with all modules unlocked. Latest release with Camera Raw, AI features, advanced editing tools and premium presets. Easy installation, no subscription required. Complete professional photo editing software.
+- **[Juwluuu/Subnautica-2-Release](https://github.com/Juwluuu/Subnautica-2-Release)** ⭐ 211
+  ![C++](https://img.shields.io/badge/-C++-pink)
+  Subnautica 2: Early Access release, Have Multiplayer 4-player co-op multiplayer, Planet Zazura exploration, DNA BioMod system, Tadpole modular submersible, new Leviathans list, CICADA crash site lore. Xbox Game Pass, Steam preload, base building blueprints, ocean currents, crafting recipes
 
-- **[scarletskinksewer89/Affinity-Designer-2-Full-Cracked](https://github.com/scarletskinksewer89/Affinity-Designer-2-Full-Cracked)** ⭐ 43
-  ![None](https://img.shields.io/badge/-None-lightgrey)
-  Affinity Designer 2 activated version. All professional vector tools, pixel persona, export persona, advanced typography, symbols, constraints, and StudioLink features unlocked. Latest version with complete access to all tools and functions. Fast, powerful, and precise vector, pixel, and photo editing software. Easy installation, no subscription
+- **[DARKHOLEUM/VoidStrap-For-Roblox](https://github.com/DARKHOLEUM/VoidStrap-For-Roblox)** ⭐ 197
+  ![C#](https://img.shields.io/badge/-C#-lightgrey)
+  VoidStrap: Roblox bootstrapper, launcher utility. FFlag Editor, FastFlags, FPS Unlocker, memory trimmer, CPU watcher. UI customization, Aero theme, AniWatch layout, Nvidia Profile Inspector, .NET 10. Font sharpening, skybox changer, Join-Game Notify, AppSettings JSON, client optimization.
 
-- **[Feathershustare/Microsoft-365-2026-Full-Cracked-Lifetime](https://github.com/Feathershustare/Microsoft-365-2026-Full-Cracked-Lifetime)** ⭐ 43
-  ![None](https://img.shields.io/badge/-None-lightgrey)
-  Microsoft 365 2026 full activated version (Lifetime). All applications included: Word, Excel, PowerPoint, Outlook, OneNote, Access, Publisher, Teams, OneDrive + all premium features unlocked. Latest version with full desktop apps and cloud integration. No subscription required. Easy installation, ready to use on Windows.
+- **[jiaoyanming0-bot/OPAutoClicker](https://github.com/jiaoyanming0-bot/OPAutoClicker)** ⭐ 177
+  ![C#](https://img.shields.io/badge/-C#-lightgrey)
+  OP Auto Clicker: Fast click interval, milliseconds, seconds. Left, right, middle button. keyboard auto clicker Single, double, triple click. Repeat until stopped, fixed count. Current location, pick coordinates. Hotkey trigger, start stop shortcut. Record playback, macro, Roblox AFK, Minecraft, mouse emulator, portable. 
 
-- **[femtotaxioscillator/4K-Video-Downloader-2026-Full-Cracked](https://github.com/femtotaxioscillator/4K-Video-Downloader-2026-Full-Cracked)** ⭐ 42
-  ![None](https://img.shields.io/badge/-None-lightgrey)
-  4K Video Downloader Plus 2026 full activated version. All premium features unlocked: unlimited downloads, 4K/8K/60FPS support, subtitles, playlist & channel downloading, Smart Mode, and ad-free experience. Latest version with full access to all sites (YouTube, Vimeo, TikTok, Instagram, etc.). Easy installation, ready to use.
+- **[mcjavarp/Manager2026](https://github.com/mcjavarp/Manager2026)** ⭐ 140
+  ![C++](https://img.shields.io/badge/-C++-pink)
+  Free IDM. Browser integration, Chrome extension, Firefox addon, Edge module. Download accelerator, segment downloading, resume capability, scheduler. Video grabber, stream detector, batch download. Trial reset, registry cleaner, site analyzer, grabber guide, portable, dark mode.
 
-- **[Sharefilabel/Adobe-After-Effects-2026-Full-Cracked](https://github.com/Sharefilabel/Adobe-After-Effects-2026-Full-Cracked)** ⭐ 42
-  ![None](https://img.shields.io/badge/-None-lightgrey)
-  Adobe After Effects 2026 full activated version. All features, plugins, expressions, 3D camera tracker, advanced effects, and Motion Graphics templates unlocked. Latest version with full access to Adobe ecosystem. Professional motion graphics, visual effects, and compositing software. Easy installation, ready for production.
+- **[septimawaTi/downloads](https://github.com/septimawaTi/downloads)** ⭐ 101
+  ![Ruby](https://img.shields.io/badge/-Ruby-lightgrey)
+  Fix wrong comma dotfiles addition
 
-- **[Featheryeneedle/Adobe-Substance-3D-Painter-2026-Full-Cracked](https://github.com/Featheryeneedle/Adobe-Substance-3D-Painter-2026-Full-Cracked)** ⭐ 42
-  ![None](https://img.shields.io/badge/-None-lightgrey)
-  Adobe Substance 3D Painter 2026 full activated version. All advanced features, materials, smart materials, procedural tools, and export options unlocked. Latest version with full access to Substance ecosystem. Professional texturing solution for 3D artists and game developers. Easy installation, ready to use.
-
-- **[BlendAdministrator/Adobe-Fresco-2026-Full-Cracked-Producer](https://github.com/BlendAdministrator/Adobe-Fresco-2026-Full-Cracked-Producer)** ⭐ 41
-  ![None](https://img.shields.io/badge/-None-lightgrey)
-  Adobe Fresco 2026 full activated version. All premium brushes, live brushes, vector tools, and Pro features unlocked. Latest version with full access to Adobe’s Fresco ecosystem. Easy installation, ready for professional digital painting and sketching on desktop and iPad.
+- **[Callous-0923/agent-study](https://github.com/Callous-0923/agent-study)** ⭐ 59
+  ![HTML](https://img.shields.io/badge/-HTML-lightgrey)
+  28章AI Agent全栈课程：从ReAct循环到Claude Code逆向、MCP/A2A协议、RAG、DSPy、生产可观测性——全部为可运行Python文件，面试导向。
 
 ### 📈 Weekly Trending
 
-- **[vercel-labs/zero-native](https://github.com/vercel-labs/zero-native)** ⭐ 3,404
-  ![Zig](https://img.shields.io/badge/-Zig-lightgrey)
-  Build desktop + mobile apps with Zig and web UI
-
-- **[FULU-Foundation/OrcaSlicer-bambulab](https://github.com/FULU-Foundation/OrcaSlicer-bambulab)** ⭐ 3,362
+- **[FULU-Foundation/OrcaSlicer-bambulab](https://github.com/FULU-Foundation/OrcaSlicer-bambulab)** ⭐ 3,747
   ![C++](https://img.shields.io/badge/-C++-pink)
   None
 
-- **[huangserva/3DCellForge](https://github.com/huangserva/3DCellForge)** ⭐ 1,981
+- **[vercel-labs/zero-native](https://github.com/vercel-labs/zero-native)** ⭐ 3,467
+  ![Zig](https://img.shields.io/badge/-Zig-lightgrey)
+  Build desktop + mobile apps with Zig and web UI
+
+- **[huangserva/3DCellForge](https://github.com/huangserva/3DCellForge)** ⭐ 2,003
   ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
   AI-powered interactive 3D model generation, inspection, and presentation studio.
 
-- **[Nightmare-Eclipse/YellowKey](https://github.com/Nightmare-Eclipse/YellowKey)** ⭐ 1,461
+- **[Nightmare-Eclipse/YellowKey](https://github.com/Nightmare-Eclipse/YellowKey)** ⭐ 1,636
   ![None](https://img.shields.io/badge/-None-lightgrey)
   YellowKey Bitlocker Bypass Vulnerability
 
-- **[HermannBjorgvin/Clawdmeter](https://github.com/HermannBjorgvin/Clawdmeter)** ⭐ 790
+- **[HermannBjorgvin/Clawdmeter](https://github.com/HermannBjorgvin/Clawdmeter)** ⭐ 839
   ![C](https://img.shields.io/badge/-C-lightgrey)
   ESP32 desk dashboard that shows Claude Code usage
 
-- **[ywnd1144/Gopay_plus_automatic](https://github.com/ywnd1144/Gopay_plus_automatic)** ⭐ 751
+- **[ywnd1144/Gopay_plus_automatic](https://github.com/ywnd1144/Gopay_plus_automatic)** ⭐ 781
   ![Python](https://img.shields.io/badge/-Python-blue)
   None
 
-- **[haydenbleasel/files-sdk](https://github.com/haydenbleasel/files-sdk)** ⭐ 664
+- **[simonlin1212/a-stock-data](https://github.com/simonlin1212/a-stock-data)** ⭐ 669
+  ![None](https://img.shields.io/badge/-None-lightgrey)
+  A 股全栈数据工具包 — 6层架构 · 15个端点 · 7个数据源 | AI Skill for China A-Share Market Data
+
+- **[haydenbleasel/files-sdk](https://github.com/haydenbleasel/files-sdk)** ⭐ 667
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   A unified storage SDK for object and blob backends. One small, honest API. Web-standards I/O.
 
-- **[TencentARC/Pixal3D](https://github.com/TencentARC/Pixal3D)** ⭐ 600
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  [SIGGRAPH 2026] Pixal3D: Pixel-Aligned 3D Generation from Images
-
 ### 📈 Monthly Trending
 
-- **[nexu-io/open-design](https://github.com/nexu-io/open-design)** ⭐ 39,983
+- **[nexu-io/open-design](https://github.com/nexu-io/open-design)** ⭐ 40,278
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   🎨 Local-first, open-source alternative to Anthropic's Claude Design. ⚡ 19 Skills · ✨ 71 brand-grade Design Systems 🖼 Generate web · desktop · mobile prototypes · slides · images · videos · HyperFrames 📦 Sandboxed preview · HTML/PDF/PPTX/MP4 export 🤖 Runs on Claude Code / Codex / Cursor / Gemini / OpenCode / Qwen / Copilot / Hermes / Kimi CLI.
 
-- **[EvoLinkAI/awesome-gpt-image-2-API-and-Prompts](https://github.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts)** ⭐ 14,270
+- **[EvoLinkAI/awesome-gpt-image-2-API-and-Prompts](https://github.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts)** ⭐ 14,289
   ![Python](https://img.shields.io/badge/-Python-blue)
   GPT-Image-2 API and Prompts
 
-- **[alchaincyf/huashu-design](https://github.com/alchaincyf/huashu-design)** ⭐ 13,664
+- **[alchaincyf/huashu-design](https://github.com/alchaincyf/huashu-design)** ⭐ 13,700
   ![HTML](https://img.shields.io/badge/-HTML-lightgrey)
   Huashu Design · HTML-native design skill for Claude Code · Claude Code 里 HTML 原生的设计 skill · 高保真原型 / 幻灯片 / 动画 + 20 设计哲学 + 5 维评审 + MP4 导出 · Agent-agnostic
 
-- **[kyegomez/OpenMythos](https://github.com/kyegomez/OpenMythos)** ⭐ 12,786
+- **[kyegomez/OpenMythos](https://github.com/kyegomez/OpenMythos)** ⭐ 12,846
   ![Python](https://img.shields.io/badge/-Python-blue)
   A theoretical reconstruction of the Claude Mythos architecture, built from first principles using the available research literature.
 
-- **[browser-use/browser-harness](https://github.com/browser-use/browser-harness)** ⭐ 12,587
+- **[browser-use/browser-harness](https://github.com/browser-use/browser-harness)** ⭐ 12,630
   ![Python](https://img.shields.io/badge/-Python-blue)
   Browser Harness | Self-healing harness that enables LLMs to complete any task.
 
-- **[antirez/ds4](https://github.com/antirez/ds4)** ⭐ 8,623
+- **[antirez/ds4](https://github.com/antirez/ds4)** ⭐ 8,731
   ![C](https://img.shields.io/badge/-C-lightgrey)
   DeepSeek 4 Flash local inference engine for Metal and CUDA
 
-- **[op7418/guizang-ppt-skill](https://github.com/op7418/guizang-ppt-skill)** ⭐ 8,611
+- **[op7418/guizang-ppt-skill](https://github.com/op7418/guizang-ppt-skill)** ⭐ 8,655
   ![HTML](https://img.shields.io/badge/-HTML-lightgrey)
   A Claude Code Skill that turns prompts into horizontal-swipe magazine-style HTML decks — 10 layouts, 5 curated themes, WebGL hero backgrounds, single-file output.
 
-- **[Robbyant/lingbot-map](https://github.com/Robbyant/lingbot-map)** ⭐ 6,303
+- **[Robbyant/lingbot-map](https://github.com/Robbyant/lingbot-map)** ⭐ 6,316
   ![Python](https://img.shields.io/badge/-Python-blue)
   A feed-forward 3D foundation model for reconstructing scenes from streaming data
 
@@ -493,9 +493,9 @@ The API i...
 | Skill | Status |
 |-------|--------|
 | Java | 🟢 Proficient |
-| Python | 🟢 Proficient |
-| JavaScript | 🟢 Proficient |
-| TypeScript | ⚪ Planned |
+| Python | ⚪ Planned |
+| JavaScript | 🔴 Beginner |
+| TypeScript | 🔴 Beginner |
 | Go | ⚪ Planned |
 
 ### Frameworks
@@ -503,29 +503,29 @@ The API i...
 | Skill | Status |
 |-------|--------|
 | React | 🔴 Beginner |
-| Spring Boot | ⚪ Planned |
-| Django | 🟢 Proficient |
-| Node.js | 🟡 Learning |
-| Next.js | 🔴 Beginner |
+| Spring Boot | 🟡 Learning |
+| Django | 🟡 Learning |
+| Node.js | ⚪ Planned |
+| Next.js | 🟡 Learning |
 
 ### Cybersecurity
 
 | Skill | Status |
 |-------|--------|
-| Penetration Testing | 🟡 Learning |
-| Web Security | 🟡 Learning |
-| Network Security | 🟡 Learning |
-| OWASP | ⚪ Planned |
+| Penetration Testing | 🟢 Proficient |
+| Web Security | 🔴 Beginner |
+| Network Security | 🟢 Proficient |
+| OWASP | 🟢 Proficient |
 
 ### Ai Ml
 
 | Skill | Status |
 |-------|--------|
 | Machine Learning | 🔴 Beginner |
-| Deep Learning | 🔴 Beginner |
-| NLP | ⚪ Planned |
+| Deep Learning | 🟡 Learning |
+| NLP | 🟢 Proficient |
 | Computer Vision | 🟢 Proficient |
-| TensorFlow | ⚪ Planned |
+| TensorFlow | 🟢 Proficient |
 | PyTorch | 🟡 Learning |
 
 ### Devops
@@ -533,18 +533,18 @@ The API i...
 | Skill | Status |
 |-------|--------|
 | Docker | 🟡 Learning |
-| Kubernetes | ⚪ Planned |
-| CI/CD | 🟡 Learning |
-| AWS | ⚪ Planned |
-| Azure | 🟡 Learning |
+| Kubernetes | 🟡 Learning |
+| CI/CD | ⚪ Planned |
+| AWS | 🟢 Proficient |
+| Azure | 🔴 Beginner |
 
 ### Other
 
 | Skill | Status |
 |-------|--------|
 | Blockchain | ⚪ Planned |
-| Web3 | 🟡 Learning |
-| Cloud Computing | 🟢 Proficient |
+| Web3 | ⚪ Planned |
+| Cloud Computing | ⚪ Planned |
 
 </details>
 
