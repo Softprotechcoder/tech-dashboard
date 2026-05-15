@@ -46,34 +46,32 @@
 
 ### 📑 Hacker News
 
-- **[UFerris a Versatile Learner Board for Rust Embedded Beginners](https://www.theembeddedrustacean.com/uferris)**
-  *<p>Article URL: <a href="https://www.theembeddedrustacean.com/uferris">https://www.theembeddedrustacean.com/uferris</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=48143256">htt...*
-  📅 Fri, 15 May 2026 01:04:13 +0000
+- **[Ask HN: How to be SOC2 Type 2 compliant as a solo-entreprenuer?](https://news.ycombinator.com/item?id=48145524)**
+  *<p>Is it possible? Do you know success cases w/o spending 20+k $ on auditors? My customers bombards me with question about certification of my app Perfect Wiki, I need help with finding the best way t...*
+  📅 Fri, 15 May 2026 07:18:23 +0000
 
-- **[Velonus – Open-source AppSec scanner that deduplicates SAST noise](https://github.com/AliAmmar15/Velonus)**
-  *<p>Article URL: <a href="https://github.com/AliAmmar15/Velonus">https://github.com/AliAmmar15/Velonus</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=48143235">https://news.ycom...*
-  📅 Fri, 15 May 2026 01:02:05 +0000
+- **[How Claude Code works in large codebases](https://claude.com/blog/how-claude-code-works-in-large-codebases-best-practices-and-where-to-start)**
+  *<p>Article URL: <a href="https://claude.com/blog/how-claude-code-works-in-large-codebases-best-practices-and-where-to-start">https://claude.com/blog/how-claude-code-works-in-large-codebases-best-pract...*
+  📅 Fri, 15 May 2026 04:15:31 +0000
 
-- **[Have a Coherent AI Policy](https://brianmeeker.me/2026/05/14/have-a-coherent-ai-policy/)**
-  *<p>Article URL: <a href="https://brianmeeker.me/2026/05/14/have-a-coherent-ai-policy/">https://brianmeeker.me/2026/05/14/have-a-coherent-ai-policy/</a></p>
-<p>Comments URL: <a href="https://news.ycomb...*
-  📅 Thu, 14 May 2026 23:24:45 +0000
+- **[Solar-based sleep patterns compared to modern norms](https://dylan.gr/1775146616)**
+  *<p>Article URL: <a href="https://dylan.gr/1775146616">https://dylan.gr/1775146616</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=48144490">https://news.ycombinator.com/item?id=...*
+  📅 Fri, 15 May 2026 04:15:24 +0000
 
-- **[More than sixty percent of the United States is experiencing drought conditions](https://news.vt.edu/articles/2026/05/drought-united-states-la-nina-expert.html)**
-  *<p>Article URL: <a href="https://news.vt.edu/articles/2026/05/drought-united-states-la-nina-expert.html">https://news.vt.edu/articles/2026/05/drought-united-states-la-nina-expert.html</a></p>
-<p>Comme...*
-  📅 Thu, 14 May 2026 22:38:18 +0000
+- **[Coldkey – Post-quantum age key generation and paper backup tool](https://github.com/pike00/coldkey)**
+  *<p>Article URL: <a href="https://github.com/pike00/coldkey">https://github.com/pike00/coldkey</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=48144410">https://news.ycombinator....*
+  📅 Fri, 15 May 2026 04:02:09 +0000
 
-- **[Ontario auditors find doctors' AI note takers routinely blow basic facts](https://www.theregister.com/ai-ml/2026/05/14/ontario-auditors-find-doctors-ai-note-takers-routinely-blow-basic-facts/5240771)**
-  *<p>Article URL: <a href="https://www.theregister.com/ai-ml/2026/05/14/ontario-auditors-find-doctors-ai-note-takers-routinely-blow-basic-facts/5240771">https://www.theregister.com/ai-ml/2026/05/14/onta...*
-  📅 Thu, 14 May 2026 22:37:40 +0000
+- **[Details of the Daring Airdrop at Tristan Da Cunha](https://www.tristandc.com/government/news-2026-05-11-airdrop.php)**
+  *<p>Article URL: <a href="https://www.tristandc.com/government/news-2026-05-11-airdrop.php">https://www.tristandc.com/government/news-2026-05-11-airdrop.php</a></p>
+<p>Comments URL: <a href="https://ne...*
+  📅 Fri, 15 May 2026 03:56:14 +0000
 
-- **[A few words on DS4](https://antirez.com/news/165)**
-  *<p>Article URL: <a href="https://antirez.com/news/165">https://antirez.com/news/165</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=48142108">https://news.ycombinator.com/item?i...*
-  📅 Thu, 14 May 2026 22:29:12 +0000
+- **[reCAPTCHA Mobile Verification Is Bringing the Play Integrity API to Desktops](https://discuss.grapheneos.org/d/35428-recaptcha-mobile-verification-is-bringing-the-play-integrity-api-to-desktops)**
+  *<p>Article URL: <a href="https://discuss.grapheneos.org/d/35428-recaptcha-mobile-verification-is-bringing-the-play-integrity-api-to-desktops">https://discuss.grapheneos.org/d/35428-recaptcha-mobile-ve...*
+  📅 Fri, 15 May 2026 02:51:41 +0000
 
 ### 📑 TechCrunch
 
@@ -94,7 +92,7 @@
   📅 Thu, 14 May 2026 20:43:03 +0000
 
 - **[Cerebras IPO makes billions for Benchmark but VC Eric Vishria almost didn’t take the meeting](https://techcrunch.com/2026/05/14/cerebras-ipo-makes-billions-for-benchmark-but-vc-eric-vishria-almost-didnt-take-the-meeting/)**
-  *Benchmark almost never backs hardware startups. So Eric Vishria dragged his feet ten years ago before agreeing to hear Cerebras' pitch....*
+  *Benchmark almost never backs hardware startups. So Eric Vishria dragged his feet 10 years ago before agreeing to hear Cerebras' pitch....*
   📅 Thu, 14 May 2026 20:23:03 +0000
 
 - **[What happens when AI starts building itself?](https://techcrunch.com/2026/05/14/what-happens-when-ai-starts-building-itself/)**
@@ -103,27 +101,13 @@
 
 ### 📑 Dev.to
 
-- **[Python and How Python Is Used In The Data Analytics Space. A Beginner's Guide.](https://dev.to/josengash/python-and-how-python-is-used-in-the-data-analytics-space-a-beginners-guide-52dh)**
-  *<h3>
-  
-  
-  Introduction
-</h3>
+- **[Three no-signup dev tools we shipped this week](https://dev.to/solvohq/three-no-signup-dev-tools-we-shipped-this-week-5fm3)**
+  *<p>SolvoHQ builds small, single-purpose developer utilities that run in the browser with no signup. Here are three we put online this week. Each one takes a paste and gives you typed TypeScript back.<...*
+  📅 Fri, 15 May 2026 08:34:03 +0000
 
-<p>In today's digital world, data is everywhere, every time people stream movies, socialize on social media, shop online, or make online payments amongst others, data ...*
-  📅 Fri, 15 May 2026 02:05:22 +0000
-
-- **[5 Token-Saving Habits From 3 Months With Claude Code](https://dev.to/jessyt/5-token-saving-habits-from-3-months-with-claude-code-41mh)**
-  *<h1>
-  
-  
-  5 Token-Saving Habits From 3 Months With Claude Code
-</h1>
-
-<p><em>EDIBLOG · Phase 2-1 · 3-Month Retrospective</em></p>
-
-<p>Hi, I'm Eddie. After 3 months running blog automations, I settl...*
-  📅 Fri, 15 May 2026 02:01:32 +0000
+- **[OpenClaw 2026.5.14 Beta 1: Codex Migration and Agent Control](https://dev.to/hex_agent/openclaw-2026514-beta-1-codex-migration-and-agent-control-290l)**
+  *<p>OpenClaw 2026.5.14 beta 1 is not a tiny follow-up to the 2026.5.12 stable release. It feels like the next hardening wave after that release: less bundled runtime weight, cleaner Codex migration pat...*
+  📅 Fri, 15 May 2026 08:32:33 +0000
 
 </details>
 
@@ -131,103 +115,103 @@
 
 ### 📈 Daily Trending
 
-- **[vector-0802/Web3-Casino](https://github.com/vector-0802/Web3-Casino)** ⭐ 6
-  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
-  None
+- **[evolismode/The-Witcher-3-DLC-Unlocker-CreamInstaller-CreamAPI-Toolkit](https://github.com/evolismode/The-Witcher-3-DLC-Unlocker-CreamInstaller-CreamAPI-Toolkit)** ⭐ 15
+  ![None](https://img.shields.io/badge/-None-lightgrey)
+  The Witcher 3 DLC unlocker that automatically scans your installed games and generates the required configuration
 
-- **[avotcorg/music](https://github.com/avotcorg/music)** ⭐ 6
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
-  music
+- **[cryb0ymusik/Elder-Scrolls-Online-DLC-Unlocker-Lightweight-CreamAPI-Steam-Only-](https://github.com/cryb0ymusik/Elder-Scrolls-Online-DLC-Unlocker-Lightweight-CreamAPI-Steam-Only-)** ⭐ 15
+  ![None](https://img.shields.io/badge/-None-lightgrey)
+  Small, fast Steam‑only DLC unlocker for ESO – pre‑configured cream_api.ini
 
-- **[AmyraxVPN-Main/AmyraxVPN-RELAY](https://github.com/AmyraxVPN-Main/AmyraxVPN-RELAY)** ⭐ 3
-  ![HTML](https://img.shields.io/badge/-HTML-lightgrey)
-  AmyraxVPN Netlify RELAY!
+- **[evolismode/The-Witcher-3-DLC-Unlocker-Manual-Scripts-Config-Editors-No-Launcher-](https://github.com/evolismode/The-Witcher-3-DLC-Unlocker-Manual-Scripts-Config-Editors-No-Launcher-)** ⭐ 15
+  ![None](https://img.shields.io/badge/-None-lightgrey)
+  A collection of manual scripts, INI‑based tricks, and small standalone config editors for advanced users.
 
-- **[marginalia-os/marginalia-sdk](https://github.com/marginalia-os/marginalia-sdk)** ⭐ 2
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  Developer SDK and manifest schema for Marginalia packages.
+- **[musicolever/Crusader-Kings-3-DLC-Unlocker-CreamInstaller-Koalageddon-All-in-One](https://github.com/musicolever/Crusader-Kings-3-DLC-Unlocker-CreamInstaller-Koalageddon-All-in-One)** ⭐ 15
+  ![None](https://img.shields.io/badge/-None-lightgrey)
+  Complete DLC unlocker toolkit for CK3 – automatically scans your game, applies the right unlocker, and gives you access to every expansion, flavor pack, and cosmetic DLC
 
-- **[Hongji-Zhang/a-share-quant-project](https://github.com/Hongji-Zhang/a-share-quant-project)** ⭐ 2
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  Quantitative trading project
+- **[skydoves/android-testing-skills](https://github.com/skydoves/android-testing-skills)** ⭐ 16
+  ![Shell](https://img.shields.io/badge/-Shell-lightgrey)
+  ⚡️ A set of skills for Android testing: Compose UI, AndroidX Test, JVM unit tests, and ADB.
 
-- **[ps1526/ankylo_rl](https://github.com/ps1526/ankylo_rl)** ⭐ 2
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  rl sim of ankylosaurus magniventris to simulate plausible paleo-biological behavior, building off of mezosoic labs
+- **[MCrafterYT/GitHub-Dota-2-Skin-Changer-Lightweight-Free-One-Click-Apply](https://github.com/MCrafterYT/GitHub-Dota-2-Skin-Changer-Lightweight-Free-One-Click-Apply)** ⭐ 15
+  ![None](https://img.shields.io/badge/-None-lightgrey)
+  VAC-safe, easy-to-use tool for changing Dota 2 hero skins.</strong> Download, run, and apply your favorite skins with a single click.
 
-- **[manmonthW/wechat-daily-summary](https://github.com/manmonthW/wechat-daily-summary)** ⭐ 2
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  None
+- **[musicolever/Crusader-Kings-3-DLC-Unlocker-Standalone-CreamAPI-Config-Files](https://github.com/musicolever/Crusader-Kings-3-DLC-Unlocker-Standalone-CreamAPI-Config-Files)** ⭐ 15
+  ![None](https://img.shields.io/badge/-None-lightgrey)
+  Lightweight Steam‑only DLC unlocker for CK3 – based on the classic CreamAPI
 
-- **[wyexsq/To-Do-List-Tool](https://github.com/wyexsq/To-Do-List-Tool)** ⭐ 2
-  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
-  None
+- **[MCrafterYT/Manual-VPK-Skin-Installation-Ultimate-Control-Dota-2-Modding](https://github.com/MCrafterYT/Manual-VPK-Skin-Installation-Ultimate-Control-Dota-2-Modding)** ⭐ 15
+  ![None](https://img.shields.io/badge/-None-lightgrey)
+  Manual VPK Skin Installation | Ultimate Control Dota 2 Modding
 
 ### 📈 Weekly Trending
 
-- **[FULU-Foundation/OrcaSlicer-bambulab](https://github.com/FULU-Foundation/OrcaSlicer-bambulab)** ⭐ 4,080
+- **[FULU-Foundation/OrcaSlicer-bambulab](https://github.com/FULU-Foundation/OrcaSlicer-bambulab)** ⭐ 4,306
   ![C++](https://img.shields.io/badge/-C++-pink)
   None
 
-- **[huangserva/3DCellForge](https://github.com/huangserva/3DCellForge)** ⭐ 2,012
+- **[huangserva/3DCellForge](https://github.com/huangserva/3DCellForge)** ⭐ 2,034
   ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
   AI-powered interactive 3D model generation, inspection, and presentation studio.
 
-- **[Nightmare-Eclipse/YellowKey](https://github.com/Nightmare-Eclipse/YellowKey)** ⭐ 1,764
+- **[Nightmare-Eclipse/YellowKey](https://github.com/Nightmare-Eclipse/YellowKey)** ⭐ 1,857
   ![None](https://img.shields.io/badge/-None-lightgrey)
   YellowKey Bitlocker Bypass Vulnerability
 
-- **[nexu-io/html-anything](https://github.com/nexu-io/html-anything)** ⭐ 1,012
+- **[nexu-io/html-anything](https://github.com/nexu-io/html-anything)** ⭐ 1,522
   ![HTML](https://img.shields.io/badge/-HTML-lightgrey)
   ✨ The agentic HTML editor — your local AI agent writes the HTML, you ship it. 🚀 75 Skills × 9 Surfaces (magazine · deck · poster · XHS / tweet · prototype · data report · Hyperframes) 🛡️ Sandboxed preview · 📤 1-click to WeChat / X / Zhihu / HTML / PNG 🔑 Zero API key — Claude Code / Cursor / Codex / Gemini / Copilot / OpenCode / Qwen / Aider.
 
-- **[HermannBjorgvin/Clawdmeter](https://github.com/HermannBjorgvin/Clawdmeter)** ⭐ 872
+- **[HermannBjorgvin/Clawdmeter](https://github.com/HermannBjorgvin/Clawdmeter)** ⭐ 922
   ![C](https://img.shields.io/badge/-C-lightgrey)
   ESP32 desk dashboard that shows Claude Code usage
 
-- **[ywnd1144/Gopay_plus_automatic](https://github.com/ywnd1144/Gopay_plus_automatic)** ⭐ 794
+- **[ywnd1144/Gopay_plus_automatic](https://github.com/ywnd1144/Gopay_plus_automatic)** ⭐ 832
   ![Python](https://img.shields.io/badge/-Python-blue)
   None
 
-- **[simonlin1212/a-stock-data](https://github.com/simonlin1212/a-stock-data)** ⭐ 715
+- **[simonlin1212/a-stock-data](https://github.com/simonlin1212/a-stock-data)** ⭐ 786
   ![None](https://img.shields.io/badge/-None-lightgrey)
   A 股全栈数据工具包 — 6层架构 · 15个端点 · 7个数据源 | AI Skill for China A-Share Market Data
 
-- **[TencentARC/Pixal3D](https://github.com/TencentARC/Pixal3D)** ⭐ 641
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  [SIGGRAPH 2026] Pixal3D: Pixel-Aligned 3D Generation from Images
+- **[yetone/native-feel-skill](https://github.com/yetone/native-feel-skill)** ⭐ 781
+  ![None](https://img.shields.io/badge/-None-lightgrey)
+  An Agent Skill for designing cross-platform desktop apps that feel native — distilled from Raycast's 2.0 deep-dive and reverse engineering of Raycast Beta.app. Eight architectural tenets, four-layer architecture, WebKit/WebView2 survival guide, 75-item ship audit.
 
 ### 📈 Monthly Trending
 
-- **[nexu-io/open-design](https://github.com/nexu-io/open-design)** ⭐ 40,510
+- **[nexu-io/open-design](https://github.com/nexu-io/open-design)** ⭐ 40,871
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   🎨 Local-first, open-source alternative to Anthropic's Claude Design. ⚡ 19 Skills · ✨ 71 brand-grade Design Systems 🖼 Generate web · desktop · mobile prototypes · slides · images · videos · HyperFrames 📦 Sandboxed preview · HTML/PDF/PPTX/MP4 export 🤖 Runs on Claude Code / Codex / Cursor / Gemini / OpenCode / Qwen / Copilot / Hermes / Kimi CLI.
 
-- **[EvoLinkAI/awesome-gpt-image-2-API-and-Prompts](https://github.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts)** ⭐ 14,298
+- **[EvoLinkAI/awesome-gpt-image-2-API-and-Prompts](https://github.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts)** ⭐ 14,359
   ![Python](https://img.shields.io/badge/-Python-blue)
   GPT-Image-2 API and Prompts
 
-- **[alchaincyf/huashu-design](https://github.com/alchaincyf/huashu-design)** ⭐ 13,727
+- **[alchaincyf/huashu-design](https://github.com/alchaincyf/huashu-design)** ⭐ 13,790
   ![HTML](https://img.shields.io/badge/-HTML-lightgrey)
   Huashu Design · HTML-native design skill for Claude Code · Claude Code 里 HTML 原生的设计 skill · 高保真原型 / 幻灯片 / 动画 + 20 设计哲学 + 5 维评审 + MP4 导出 · Agent-agnostic
 
-- **[kyegomez/OpenMythos](https://github.com/kyegomez/OpenMythos)** ⭐ 12,893
+- **[kyegomez/OpenMythos](https://github.com/kyegomez/OpenMythos)** ⭐ 12,933
   ![Python](https://img.shields.io/badge/-Python-blue)
   A theoretical reconstruction of the Claude Mythos architecture, built from first principles using the available research literature.
 
-- **[browser-use/browser-harness](https://github.com/browser-use/browser-harness)** ⭐ 12,668
+- **[browser-use/browser-harness](https://github.com/browser-use/browser-harness)** ⭐ 12,719
   ![Python](https://img.shields.io/badge/-Python-blue)
   Browser Harness | Self-healing harness that enables LLMs to complete any task.
 
-- **[antirez/ds4](https://github.com/antirez/ds4)** ⭐ 8,908
+- **[antirez/ds4](https://github.com/antirez/ds4)** ⭐ 9,228
   ![C](https://img.shields.io/badge/-C-lightgrey)
   DeepSeek 4 Flash local inference engine for Metal and CUDA
 
-- **[op7418/guizang-ppt-skill](https://github.com/op7418/guizang-ppt-skill)** ⭐ 8,687
+- **[op7418/guizang-ppt-skill](https://github.com/op7418/guizang-ppt-skill)** ⭐ 8,846
   ![HTML](https://img.shields.io/badge/-HTML-lightgrey)
-  A Claude Code Skill that turns prompts into horizontal-swipe magazine-style HTML decks — 10 layouts, 5 curated themes, WebGL hero backgrounds, single-file output.
+  AI-agent Skill for generating polished HTML slide decks: editorial magazine and Swiss layouts, image prompts, social covers, and a WebGL/low-power presentation runtime.
 
-- **[Yuan1z0825/nature-skills](https://github.com/Yuan1z0825/nature-skills)** ⭐ 6,117
+- **[Yuan1z0825/nature-skills](https://github.com/Yuan1z0825/nature-skills)** ⭐ 6,381
   ![Python](https://img.shields.io/badge/-Python-blue)
   符合nature论文学术表达和科研绘图的Skill
 
@@ -505,51 +489,51 @@ The API i...
 
 | Skill | Status |
 |-------|--------|
-| Java | 🔴 Beginner |
-| Python | 🟢 Proficient |
-| JavaScript | 🔴 Beginner |
-| TypeScript | ⚪ Planned |
-| Go | 🔴 Beginner |
+| Java | ⚪ Planned |
+| Python | ⚪ Planned |
+| JavaScript | ⚪ Planned |
+| TypeScript | 🟢 Proficient |
+| Go | 🟢 Proficient |
 
 ### Frameworks
 
 | Skill | Status |
 |-------|--------|
-| React | ⚪ Planned |
-| Spring Boot | 🟡 Learning |
-| Django | 🟡 Learning |
-| Node.js | 🔴 Beginner |
-| Next.js | 🟢 Proficient |
+| React | 🔴 Beginner |
+| Spring Boot | ⚪ Planned |
+| Django | 🟢 Proficient |
+| Node.js | 🟢 Proficient |
+| Next.js | ⚪ Planned |
 
 ### Cybersecurity
 
 | Skill | Status |
 |-------|--------|
 | Penetration Testing | 🟡 Learning |
-| Web Security | ⚪ Planned |
+| Web Security | 🔴 Beginner |
 | Network Security | ⚪ Planned |
-| OWASP | 🔴 Beginner |
+| OWASP | ⚪ Planned |
 
 ### Ai Ml
 
 | Skill | Status |
 |-------|--------|
-| Machine Learning | 🟡 Learning |
-| Deep Learning | 🟡 Learning |
-| NLP | 🟢 Proficient |
-| Computer Vision | ⚪ Planned |
-| TensorFlow | 🔴 Beginner |
-| PyTorch | 🔴 Beginner |
+| Machine Learning | 🔴 Beginner |
+| Deep Learning | 🟢 Proficient |
+| NLP | 🔴 Beginner |
+| Computer Vision | 🔴 Beginner |
+| TensorFlow | 🟢 Proficient |
+| PyTorch | 🟡 Learning |
 
 ### Devops
 
 | Skill | Status |
 |-------|--------|
-| Docker | 🟢 Proficient |
-| Kubernetes | 🟡 Learning |
+| Docker | 🟡 Learning |
+| Kubernetes | 🔴 Beginner |
 | CI/CD | 🟢 Proficient |
-| AWS | 🟢 Proficient |
-| Azure | 🔴 Beginner |
+| AWS | 🟡 Learning |
+| Azure | 🟢 Proficient |
 
 ### Other
 
@@ -557,7 +541,7 @@ The API i...
 |-------|--------|
 | Blockchain | ⚪ Planned |
 | Web3 | 🟡 Learning |
-| Cloud Computing | 🔴 Beginner |
+| Cloud Computing | 🟡 Learning |
 
 </details>
 
