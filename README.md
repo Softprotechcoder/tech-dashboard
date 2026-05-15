@@ -7,7 +7,7 @@
 ![AI & ML](https://img.shields.io/badge/-AI%20&%20ML-blue) ![CyberSecurity](https://img.shields.io/badge/-CyberSecurity-red) ![Full Stack Development](https://img.shields.io/badge/-Full%20Stack%20Development-green)
 
 [![Auto Update](https://img.shields.io/badge/Auto%20Update-Enabled-success)](https://github.com/yourusername/tech-dashboard/actions)
-[![Last Updated](https://img.shields.io/badge/Last%20Updated-May 14, 2026-blue)](https://github.com/yourusername/tech-dashboard)
+[![Last Updated](https://img.shields.io/badge/Last%20Updated-May 15, 2026-blue)](https://github.com/yourusername/tech-dashboard)
 
 *Automatically updated every 6 hours with the latest tech news, trending repositories, and learning resources.*
 
@@ -46,71 +46,84 @@
 
 ### 📑 Hacker News
 
-- **[The Power of a Free Popsicle (2018)](https://www.gsb.stanford.edu/insights/power-free-popsicle)**
-  *<p>Article URL: <a href="https://www.gsb.stanford.edu/insights/power-free-popsicle">https://www.gsb.stanford.edu/insights/power-free-popsicle</a></p>
-<p>Comments URL: <a href="https://news.ycombinator...*
-  📅 Thu, 14 May 2026 18:33:47 +0000
+- **[UFerris a Versatile Learner Board for Rust Embedded Beginners](https://www.theembeddedrustacean.com/uferris)**
+  *<p>Article URL: <a href="https://www.theembeddedrustacean.com/uferris">https://www.theembeddedrustacean.com/uferris</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=48143256">htt...*
+  📅 Fri, 15 May 2026 01:04:13 +0000
 
-- **[Understanding the Linux Kernel: The Linux Kernel Startup](https://internals-for-interns.com/posts/linux-kernel-startup/)**
-  *<p>Article URL: <a href="https://internals-for-interns.com/posts/linux-kernel-startup/">https://internals-for-interns.com/posts/linux-kernel-startup/</a></p>
-<p>Comments URL: <a href="https://news.yco...*
-  📅 Thu, 14 May 2026 18:25:10 +0000
+- **[Velonus – Open-source AppSec scanner that deduplicates SAST noise](https://github.com/AliAmmar15/Velonus)**
+  *<p>Article URL: <a href="https://github.com/AliAmmar15/Velonus">https://github.com/AliAmmar15/Velonus</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=48143235">https://news.ycom...*
+  📅 Fri, 15 May 2026 01:02:05 +0000
 
-- **[First public macOS kernel memory corruption exploit on Apple M5](https://blog.calif.io/p/first-public-kernel-memory-corruption)**
-  *<p>Article URL: <a href="https://blog.calif.io/p/first-public-kernel-memory-corruption">https://blog.calif.io/p/first-public-kernel-memory-corruption</a></p>
-<p>Comments URL: <a href="https://news.yco...*
-  📅 Thu, 14 May 2026 18:25:09 +0000
+- **[Have a Coherent AI Policy](https://brianmeeker.me/2026/05/14/have-a-coherent-ai-policy/)**
+  *<p>Article URL: <a href="https://brianmeeker.me/2026/05/14/have-a-coherent-ai-policy/">https://brianmeeker.me/2026/05/14/have-a-coherent-ai-policy/</a></p>
+<p>Comments URL: <a href="https://news.ycomb...*
+  📅 Thu, 14 May 2026 23:24:45 +0000
 
-- **[God Damn AI is making me dumb](https://jpain.io/god-damn-ai-is-making-me-dumb/)**
-  *<p>Article URL: <a href="https://jpain.io/god-damn-ai-is-making-me-dumb/">https://jpain.io/god-damn-ai-is-making-me-dumb/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=4813914...*
-  📅 Thu, 14 May 2026 18:19:28 +0000
+- **[More than sixty percent of the United States is experiencing drought conditions](https://news.vt.edu/articles/2026/05/drought-united-states-la-nina-expert.html)**
+  *<p>Article URL: <a href="https://news.vt.edu/articles/2026/05/drought-united-states-la-nina-expert.html">https://news.vt.edu/articles/2026/05/drought-united-states-la-nina-expert.html</a></p>
+<p>Comme...*
+  📅 Thu, 14 May 2026 22:38:18 +0000
 
-- **[You Don't Align an AI, You Align with It](https://danieltan.weblog.lol/2026/05/you-dont-align-an-ai-you-align-with-it)**
-  *<p>Article URL: <a href="https://danieltan.weblog.lol/2026/05/you-dont-align-an-ai-you-align-with-it">https://danieltan.weblog.lol/2026/05/you-dont-align-an-ai-you-align-with-it</a></p>
-<p>Comments UR...*
-  📅 Thu, 14 May 2026 18:19:13 +0000
+- **[Ontario auditors find doctors' AI note takers routinely blow basic facts](https://www.theregister.com/ai-ml/2026/05/14/ontario-auditors-find-doctors-ai-note-takers-routinely-blow-basic-facts/5240771)**
+  *<p>Article URL: <a href="https://www.theregister.com/ai-ml/2026/05/14/ontario-auditors-find-doctors-ai-note-takers-routinely-blow-basic-facts/5240771">https://www.theregister.com/ai-ml/2026/05/14/onta...*
+  📅 Thu, 14 May 2026 22:37:40 +0000
 
-- **[Grok Build](https://x.ai/news/grok-build-cli)**
-  *<p>Article URL: <a href="https://x.ai/news/grok-build-cli">https://x.ai/news/grok-build-cli</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=48139115">https://news.ycombinator.co...*
-  📅 Thu, 14 May 2026 18:17:55 +0000
+- **[A few words on DS4](https://antirez.com/news/165)**
+  *<p>Article URL: <a href="https://antirez.com/news/165">https://antirez.com/news/165</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=48142108">https://news.ycombinator.com/item?i...*
+  📅 Thu, 14 May 2026 22:29:12 +0000
 
 ### 📑 TechCrunch
 
-- **[OpenAI is reportedly preparing legal action against Apple; it wouldn’t be the first partner to feel burned](https://techcrunch.com/2026/05/14/openai-is-reportedly-preparing-legal-action-against-apple-it-wouldnt-be-the-first-partner-to-feel-burned/)**
-  *According to Bloomberg, OpenAI has enlisted an outside law firm to work through its options....*
-  📅 Thu, 14 May 2026 19:12:03 +0000
+- **[What the jury will actually decide in the case of Elon Musk vs. Sam Altman](https://techcrunch.com/2026/05/14/what-the-jury-will-actually-decide-in-the-case-of-elon-musk-vs-sam-altman/)**
+  *Here's what the biggest tech court case of the year is all about....*
+  📅 Thu, 14 May 2026 22:47:51 +0000
 
-- **[Clawdmeter turns your Claude Code usage stats into a tiny desktop dashboard](https://techcrunch.com/2026/05/14/clawdmeter-turns-your-claude-code-usage-stats-into-a-tiny-desktop-dashboard/)**
-  *A new open source gadget called Clawdmeter turns Claude Code usage stats into a tiny desktop dashboard for AI coding power users....*
-  📅 Thu, 14 May 2026 19:05:01 +0000
+- **[Elon Musk’s SpaceXAI has been bleeding staff since its merger](https://techcrunch.com/2026/05/14/elon-musks-spacexai-has-been-bleeding-staff-since-its-merger/)**
+  *More than 50 employees have reportedly left Elon Musk’s newly merged SpaceXAI since February, raising questions about burnout, leadership changes, talent poaching, and whether liquidity events weakene...*
+  📅 Thu, 14 May 2026 21:30:44 +0000
 
-- **[YouTube viewers watch 2 billion hours of Shorts on TVs each month](https://techcrunch.com/2026/05/14/youtube-viewers-watch-2-billion-hours-of-shorts-on-tvs-each-month/)**
-  *Short-form video is built for mobile, so it may seem counterintuitive, but it's true: YouTube Shorts are becoming quite popular on the big screen....*
-  📅 Thu, 14 May 2026 18:56:43 +0000
+- **[OpenAI says Codex is coming to your phone](https://techcrunch.com/2026/05/14/openai-says-codex-is-coming-to-your-phone/)**
+  *The update gives users enhanced flexibility over how they can manage their workflows....*
+  📅 Thu, 14 May 2026 20:58:55 +0000
 
-- **[Cerebras raises $5.5B, then stock pops $108%, in the first huge tech IPO of 2026](https://techcrunch.com/2026/05/14/cerebras-raises-5-5b-kicking-off-2026s-ipo-season-with-a-bang/)**
-  *A year ago, it looked like this day would never happen for Cerebras....*
-  📅 Thu, 14 May 2026 16:30:02 +0000
+- **[Lovable just backed a company that’s looking to bring vibe coding to hardware](https://techcrunch.com/2026/05/14/lovable-just-backed-a-company-thats-looking-to-bring-vibe-coding-to-hardware/)**
+  *Hardware company Atech raised $800,000 in pre-seed funding, including from a16z’s scout fund, Sequoia Scout Fund, and Nordic Makers....*
+  📅 Thu, 14 May 2026 20:43:03 +0000
 
-- **[OpenAI says hackers stole some data after latest code security issue](https://techcrunch.com/2026/05/14/openai-says-hackers-stole-some-data-after-latest-code-security-issue/)**
-  *OpenAI said the damage was limited to the employees’ devices, and did not affect user data nor its production systems, and none of its intellectual property was stolen....*
-  📅 Thu, 14 May 2026 16:25:20 +0000
+- **[Cerebras IPO makes billions for Benchmark but VC Eric Vishria almost didn’t take the meeting](https://techcrunch.com/2026/05/14/cerebras-ipo-makes-billions-for-benchmark-but-vc-eric-vishria-almost-didnt-take-the-meeting/)**
+  *Benchmark almost never backs hardware startups. So Eric Vishria dragged his feet ten years ago before agreeing to hear Cerebras' pitch....*
+  📅 Thu, 14 May 2026 20:23:03 +0000
 
-- **[Spotify to adopt Apple’s new video podcast tech, offering creators easier cross-platform distribution](https://techcrunch.com/2026/05/14/spotify-to-adopt-apples-new-video-podcast-tech-offering-creators-easier-cross-platform-distribution/)**
-  *Spotify will let creators distribute and monetize video podcasts on Apple Podcasts using Apple’s HLS streaming technology, without changing their existing workflows....*
-  📅 Thu, 14 May 2026 15:42:18 +0000
+- **[What happens when AI starts building itself?](https://techcrunch.com/2026/05/14/what-happens-when-ai-starts-building-itself/)**
+  *Richard Socher's new $650 million startup wants to build an AI that can research and improve itself indefinitely — and he insists it will actually ship products....*
+  📅 Thu, 14 May 2026 19:57:20 +0000
 
 ### 📑 Dev.to
 
-- **[I kept saying the same five things in every doc review. So I made them defaults.](https://dev.to/wordcaster/i-kept-saying-the-same-five-things-in-every-doc-review-so-i-made-them-defaults-3lo4)**
-  *<p>In <a href="https://dev.to/wordcaster/what-ai-actually-changed-about-my-work-as-a-technical-writer-2edh">my last piece</a>, I wrote about how AI changed my work as a technical writer. I closed with...*
-  📅 Thu, 14 May 2026 19:23:09 +0000
+- **[Python and How Python Is Used In The Data Analytics Space. A Beginner's Guide.](https://dev.to/josengash/python-and-how-python-is-used-in-the-data-analytics-space-a-beginners-guide-52dh)**
+  *<h3>
+  
+  
+  Introduction
+</h3>
 
-- **[I Have a Toy for You and You Will Like It: How to Play with the UVerify Sandbox](https://dev.to/uverify/i-have-a-toy-for-you-and-you-will-like-it-how-to-play-with-the-uverify-sandbox-204p)**
-  *<p>If you read the <a href="https://dev.to/blog/sandbox-yano-yaci-store">previous article on the sandbox internals</a>, you already know that there is a local playground, what it is made of, and rough...*
-  📅 Thu, 14 May 2026 19:20:34 +0000
+<p>In today's digital world, data is everywhere, every time people stream movies, socialize on social media, shop online, or make online payments amongst others, data ...*
+  📅 Fri, 15 May 2026 02:05:22 +0000
+
+- **[5 Token-Saving Habits From 3 Months With Claude Code](https://dev.to/jessyt/5-token-saving-habits-from-3-months-with-claude-code-41mh)**
+  *<h1>
+  
+  
+  5 Token-Saving Habits From 3 Months With Claude Code
+</h1>
+
+<p><em>EDIBLOG · Phase 2-1 · 3-Month Retrospective</em></p>
+
+<p>Hi, I'm Eddie. After 3 months running blog automations, I settl...*
+  📅 Fri, 15 May 2026 02:01:32 +0000
 
 </details>
 
@@ -118,105 +131,105 @@
 
 ### 📈 Daily Trending
 
-- **[S4rdenz/gta-5-mod-menu](https://github.com/S4rdenz/gta-5-mod-menu)** ⭐ 516
-  ![None](https://img.shields.io/badge/-None-lightgrey)
-  🚀 Dominate GTA V servers with this free, reliable FiveM mod menu featuring ESP, aimbot, and more, designed for Steam and Epic Games versions.
-
-- **[B3hnamR/PsiphonOverMITM](https://github.com/B3hnamR/PsiphonOverMITM)** ⭐ 330
-  ![PowerShell](https://img.shields.io/badge/-PowerShell-lightgrey)
+- **[vector-0802/Web3-Casino](https://github.com/vector-0802/Web3-Casino)** ⭐ 6
+  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   None
 
-- **[Juwluuu/Subnautica-2-Release](https://github.com/Juwluuu/Subnautica-2-Release)** ⭐ 211
-  ![C++](https://img.shields.io/badge/-C++-pink)
-  Subnautica 2: Early Access release, Have Multiplayer 4-player co-op multiplayer, Planet Zazura exploration, DNA BioMod system, Tadpole modular submersible, new Leviathans list, CICADA crash site lore. Xbox Game Pass, Steam preload, base building blueprints, ocean currents, crafting recipes
+- **[avotcorg/music](https://github.com/avotcorg/music)** ⭐ 6
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
+  music
 
-- **[DARKHOLEUM/VoidStrap-For-Roblox](https://github.com/DARKHOLEUM/VoidStrap-For-Roblox)** ⭐ 197
-  ![C#](https://img.shields.io/badge/-C#-lightgrey)
-  VoidStrap: Roblox bootstrapper, launcher utility. FFlag Editor, FastFlags, FPS Unlocker, memory trimmer, CPU watcher. UI customization, Aero theme, AniWatch layout, Nvidia Profile Inspector, .NET 10. Font sharpening, skybox changer, Join-Game Notify, AppSettings JSON, client optimization.
-
-- **[jiaoyanming0-bot/OPAutoClicker](https://github.com/jiaoyanming0-bot/OPAutoClicker)** ⭐ 177
-  ![C#](https://img.shields.io/badge/-C#-lightgrey)
-  OP Auto Clicker: Fast click interval, milliseconds, seconds. Left, right, middle button. keyboard auto clicker Single, double, triple click. Repeat until stopped, fixed count. Current location, pick coordinates. Hotkey trigger, start stop shortcut. Record playback, macro, Roblox AFK, Minecraft, mouse emulator, portable. 
-
-- **[mcjavarp/Manager2026](https://github.com/mcjavarp/Manager2026)** ⭐ 140
-  ![C++](https://img.shields.io/badge/-C++-pink)
-  Free IDM. Browser integration, Chrome extension, Firefox addon, Edge module. Download accelerator, segment downloading, resume capability, scheduler. Video grabber, stream detector, batch download. Trial reset, registry cleaner, site analyzer, grabber guide, portable, dark mode.
-
-- **[septimawaTi/downloads](https://github.com/septimawaTi/downloads)** ⭐ 101
-  ![Ruby](https://img.shields.io/badge/-Ruby-lightgrey)
-  Fix wrong comma dotfiles addition
-
-- **[Callous-0923/agent-study](https://github.com/Callous-0923/agent-study)** ⭐ 59
+- **[AmyraxVPN-Main/AmyraxVPN-RELAY](https://github.com/AmyraxVPN-Main/AmyraxVPN-RELAY)** ⭐ 3
   ![HTML](https://img.shields.io/badge/-HTML-lightgrey)
-  28章AI Agent全栈课程：从ReAct循环到Claude Code逆向、MCP/A2A协议、RAG、DSPy、生产可观测性——全部为可运行Python文件，面试导向。
+  AmyraxVPN Netlify RELAY!
+
+- **[marginalia-os/marginalia-sdk](https://github.com/marginalia-os/marginalia-sdk)** ⭐ 2
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  Developer SDK and manifest schema for Marginalia packages.
+
+- **[Hongji-Zhang/a-share-quant-project](https://github.com/Hongji-Zhang/a-share-quant-project)** ⭐ 2
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  Quantitative trading project
+
+- **[ps1526/ankylo_rl](https://github.com/ps1526/ankylo_rl)** ⭐ 2
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  rl sim of ankylosaurus magniventris to simulate plausible paleo-biological behavior, building off of mezosoic labs
+
+- **[manmonthW/wechat-daily-summary](https://github.com/manmonthW/wechat-daily-summary)** ⭐ 2
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  None
+
+- **[wyexsq/To-Do-List-Tool](https://github.com/wyexsq/To-Do-List-Tool)** ⭐ 2
+  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
+  None
 
 ### 📈 Weekly Trending
 
-- **[FULU-Foundation/OrcaSlicer-bambulab](https://github.com/FULU-Foundation/OrcaSlicer-bambulab)** ⭐ 3,747
+- **[FULU-Foundation/OrcaSlicer-bambulab](https://github.com/FULU-Foundation/OrcaSlicer-bambulab)** ⭐ 4,080
   ![C++](https://img.shields.io/badge/-C++-pink)
   None
 
-- **[vercel-labs/zero-native](https://github.com/vercel-labs/zero-native)** ⭐ 3,467
-  ![Zig](https://img.shields.io/badge/-Zig-lightgrey)
-  Build desktop + mobile apps with Zig and web UI
-
-- **[huangserva/3DCellForge](https://github.com/huangserva/3DCellForge)** ⭐ 2,003
+- **[huangserva/3DCellForge](https://github.com/huangserva/3DCellForge)** ⭐ 2,012
   ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
   AI-powered interactive 3D model generation, inspection, and presentation studio.
 
-- **[Nightmare-Eclipse/YellowKey](https://github.com/Nightmare-Eclipse/YellowKey)** ⭐ 1,636
+- **[Nightmare-Eclipse/YellowKey](https://github.com/Nightmare-Eclipse/YellowKey)** ⭐ 1,764
   ![None](https://img.shields.io/badge/-None-lightgrey)
   YellowKey Bitlocker Bypass Vulnerability
 
-- **[HermannBjorgvin/Clawdmeter](https://github.com/HermannBjorgvin/Clawdmeter)** ⭐ 839
+- **[nexu-io/html-anything](https://github.com/nexu-io/html-anything)** ⭐ 1,012
+  ![HTML](https://img.shields.io/badge/-HTML-lightgrey)
+  ✨ The agentic HTML editor — your local AI agent writes the HTML, you ship it. 🚀 75 Skills × 9 Surfaces (magazine · deck · poster · XHS / tweet · prototype · data report · Hyperframes) 🛡️ Sandboxed preview · 📤 1-click to WeChat / X / Zhihu / HTML / PNG 🔑 Zero API key — Claude Code / Cursor / Codex / Gemini / Copilot / OpenCode / Qwen / Aider.
+
+- **[HermannBjorgvin/Clawdmeter](https://github.com/HermannBjorgvin/Clawdmeter)** ⭐ 872
   ![C](https://img.shields.io/badge/-C-lightgrey)
   ESP32 desk dashboard that shows Claude Code usage
 
-- **[ywnd1144/Gopay_plus_automatic](https://github.com/ywnd1144/Gopay_plus_automatic)** ⭐ 781
+- **[ywnd1144/Gopay_plus_automatic](https://github.com/ywnd1144/Gopay_plus_automatic)** ⭐ 794
   ![Python](https://img.shields.io/badge/-Python-blue)
   None
 
-- **[simonlin1212/a-stock-data](https://github.com/simonlin1212/a-stock-data)** ⭐ 669
+- **[simonlin1212/a-stock-data](https://github.com/simonlin1212/a-stock-data)** ⭐ 715
   ![None](https://img.shields.io/badge/-None-lightgrey)
   A 股全栈数据工具包 — 6层架构 · 15个端点 · 7个数据源 | AI Skill for China A-Share Market Data
 
-- **[haydenbleasel/files-sdk](https://github.com/haydenbleasel/files-sdk)** ⭐ 667
-  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
-  A unified storage SDK for object and blob backends. One small, honest API. Web-standards I/O.
+- **[TencentARC/Pixal3D](https://github.com/TencentARC/Pixal3D)** ⭐ 641
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  [SIGGRAPH 2026] Pixal3D: Pixel-Aligned 3D Generation from Images
 
 ### 📈 Monthly Trending
 
-- **[nexu-io/open-design](https://github.com/nexu-io/open-design)** ⭐ 40,278
+- **[nexu-io/open-design](https://github.com/nexu-io/open-design)** ⭐ 40,510
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   🎨 Local-first, open-source alternative to Anthropic's Claude Design. ⚡ 19 Skills · ✨ 71 brand-grade Design Systems 🖼 Generate web · desktop · mobile prototypes · slides · images · videos · HyperFrames 📦 Sandboxed preview · HTML/PDF/PPTX/MP4 export 🤖 Runs on Claude Code / Codex / Cursor / Gemini / OpenCode / Qwen / Copilot / Hermes / Kimi CLI.
 
-- **[EvoLinkAI/awesome-gpt-image-2-API-and-Prompts](https://github.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts)** ⭐ 14,289
+- **[EvoLinkAI/awesome-gpt-image-2-API-and-Prompts](https://github.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts)** ⭐ 14,298
   ![Python](https://img.shields.io/badge/-Python-blue)
   GPT-Image-2 API and Prompts
 
-- **[alchaincyf/huashu-design](https://github.com/alchaincyf/huashu-design)** ⭐ 13,700
+- **[alchaincyf/huashu-design](https://github.com/alchaincyf/huashu-design)** ⭐ 13,727
   ![HTML](https://img.shields.io/badge/-HTML-lightgrey)
   Huashu Design · HTML-native design skill for Claude Code · Claude Code 里 HTML 原生的设计 skill · 高保真原型 / 幻灯片 / 动画 + 20 设计哲学 + 5 维评审 + MP4 导出 · Agent-agnostic
 
-- **[kyegomez/OpenMythos](https://github.com/kyegomez/OpenMythos)** ⭐ 12,846
+- **[kyegomez/OpenMythos](https://github.com/kyegomez/OpenMythos)** ⭐ 12,893
   ![Python](https://img.shields.io/badge/-Python-blue)
   A theoretical reconstruction of the Claude Mythos architecture, built from first principles using the available research literature.
 
-- **[browser-use/browser-harness](https://github.com/browser-use/browser-harness)** ⭐ 12,630
+- **[browser-use/browser-harness](https://github.com/browser-use/browser-harness)** ⭐ 12,668
   ![Python](https://img.shields.io/badge/-Python-blue)
   Browser Harness | Self-healing harness that enables LLMs to complete any task.
 
-- **[antirez/ds4](https://github.com/antirez/ds4)** ⭐ 8,731
+- **[antirez/ds4](https://github.com/antirez/ds4)** ⭐ 8,908
   ![C](https://img.shields.io/badge/-C-lightgrey)
   DeepSeek 4 Flash local inference engine for Metal and CUDA
 
-- **[op7418/guizang-ppt-skill](https://github.com/op7418/guizang-ppt-skill)** ⭐ 8,655
+- **[op7418/guizang-ppt-skill](https://github.com/op7418/guizang-ppt-skill)** ⭐ 8,687
   ![HTML](https://img.shields.io/badge/-HTML-lightgrey)
   A Claude Code Skill that turns prompts into horizontal-swipe magazine-style HTML decks — 10 layouts, 5 curated themes, WebGL hero backgrounds, single-file output.
 
-- **[Robbyant/lingbot-map](https://github.com/Robbyant/lingbot-map)** ⭐ 6,316
+- **[Yuan1z0825/nature-skills](https://github.com/Yuan1z0825/nature-skills)** ⭐ 6,117
   ![Python](https://img.shields.io/badge/-Python-blue)
-  A feed-forward 3D foundation model for reconstructing scenes from streaming data
+  符合nature论文学术表达和科研绘图的Skill
 
 ## 🚀 Latest Releases
 
@@ -492,49 +505,49 @@ The API i...
 
 | Skill | Status |
 |-------|--------|
-| Java | 🟢 Proficient |
-| Python | ⚪ Planned |
+| Java | 🔴 Beginner |
+| Python | 🟢 Proficient |
 | JavaScript | 🔴 Beginner |
-| TypeScript | 🔴 Beginner |
-| Go | ⚪ Planned |
+| TypeScript | ⚪ Planned |
+| Go | 🔴 Beginner |
 
 ### Frameworks
 
 | Skill | Status |
 |-------|--------|
-| React | 🔴 Beginner |
+| React | ⚪ Planned |
 | Spring Boot | 🟡 Learning |
 | Django | 🟡 Learning |
-| Node.js | ⚪ Planned |
-| Next.js | 🟡 Learning |
+| Node.js | 🔴 Beginner |
+| Next.js | 🟢 Proficient |
 
 ### Cybersecurity
 
 | Skill | Status |
 |-------|--------|
-| Penetration Testing | 🟢 Proficient |
-| Web Security | 🔴 Beginner |
-| Network Security | 🟢 Proficient |
-| OWASP | 🟢 Proficient |
+| Penetration Testing | 🟡 Learning |
+| Web Security | ⚪ Planned |
+| Network Security | ⚪ Planned |
+| OWASP | 🔴 Beginner |
 
 ### Ai Ml
 
 | Skill | Status |
 |-------|--------|
-| Machine Learning | 🔴 Beginner |
+| Machine Learning | 🟡 Learning |
 | Deep Learning | 🟡 Learning |
 | NLP | 🟢 Proficient |
-| Computer Vision | 🟢 Proficient |
-| TensorFlow | 🟢 Proficient |
-| PyTorch | 🟡 Learning |
+| Computer Vision | ⚪ Planned |
+| TensorFlow | 🔴 Beginner |
+| PyTorch | 🔴 Beginner |
 
 ### Devops
 
 | Skill | Status |
 |-------|--------|
-| Docker | 🟡 Learning |
+| Docker | 🟢 Proficient |
 | Kubernetes | 🟡 Learning |
-| CI/CD | ⚪ Planned |
+| CI/CD | 🟢 Proficient |
 | AWS | 🟢 Proficient |
 | Azure | 🔴 Beginner |
 
@@ -543,8 +556,8 @@ The API i...
 | Skill | Status |
 |-------|--------|
 | Blockchain | ⚪ Planned |
-| Web3 | ⚪ Planned |
-| Cloud Computing | ⚪ Planned |
+| Web3 | 🟡 Learning |
+| Cloud Computing | 🔴 Beginner |
 
 </details>
 
@@ -562,7 +575,7 @@ This dashboard is automatically updated every 6 hours using GitHub Actions. The 
 
 <div align="center">
 
-**Last Updated:** May 14, 2026
+**Last Updated:** May 15, 2026
 
 Made with ❤️ and automated with GitHub Actions
 
