@@ -46,21 +46,25 @@
 
 ### 📑 Hacker News
 
-- **['No Way to Prevent This,' Says Only Package Manager Where This Regularly Happens](https://kevinpatel.xyz/posts/no-way-to-prevent-this/)**
-  *<p>Article URL: <a href="https://kevinpatel.xyz/posts/no-way-to-prevent-this/">https://kevinpatel.xyz/posts/no-way-to-prevent-this/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?...*
-  📅 Sat, 16 May 2026 00:36:02 +0000
+- **[The CTF scene is dead](https://kabir.au/blog/the-ctf-scene-is-dead)**
+  *<p>Article URL: <a href="https://kabir.au/blog/the-ctf-scene-is-dead">https://kabir.au/blog/the-ctf-scene-is-dead</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=48157559">https...*
+  📅 Sat, 16 May 2026 07:01:55 +0000
 
-- **[I broke AppLovin's mediation cipher protocol](https://www.buchodi.com/i-broke-applovins-mediation-cipher-protocol/)**
-  *<p>Article URL: <a href="https://www.buchodi.com/i-broke-applovins-mediation-cipher-protocol/">https://www.buchodi.com/i-broke-applovins-mediation-cipher-protocol/</a></p>
-<p>Comments URL: <a href="ht...*
-  📅 Sat, 16 May 2026 00:35:01 +0000
+- **[California's Battery Array Is as Powerful as 12 Nuclear Power Plants](https://zolairenergy.com/californias-battery-array-is-as-powerful-as-12-nuclear-power-plants-heres-whats-on-the-horizon/)**
+  *<p>Article URL: <a href="https://zolairenergy.com/californias-battery-array-is-as-powerful-as-12-nuclear-power-plants-heres-whats-on-the-horizon/">https://zolairenergy.com/californias-battery-array-is...*
+  📅 Sat, 16 May 2026 03:42:30 +0000
 
 - **[Show HN: Epiq – Distributed Git based issue tracker TUI](https://ljtn.github.io/epiq/)**
   *<p>Issue trackers typically live outside of your workflow, with poor ergonomics. Epiq aims to solve that, bringing issue tracking into your terminal. Multi-user collaboration is achieved via git using...*
   📅 Sat, 16 May 2026 00:18:03 +0000
 
-- **[The main thing about P2P meth is that there's so much of it (2022)](https://dynomight.net/p2p-meth/)**
+- **[NYT and vaping: How to lie by saying only true things (2022)](https://gwern.net/vaping)**
+  *<p>Article URL: <a href="https://gwern.net/vaping">https://gwern.net/vaping</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=48155555">https://news.ycombinator.com/item?id=481555...*
+  📅 Sat, 16 May 2026 00:15:53 +0000
+
+- **[The main thing about P2P meth is that there's so much of it (2021)](https://dynomight.net/p2p-meth/)**
   *<p>Article URL: <a href="https://dynomight.net/p2p-meth/">https://dynomight.net/p2p-meth/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=48155324">https://news.ycombinator.com/...*
   📅 Fri, 15 May 2026 23:37:32 +0000
@@ -69,11 +73,6 @@
   *<p>Article URL: <a href="https://www.erlang.org/news/188">https://www.erlang.org/news/188</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=48155297">https://news.ycombinator.com/...*
   📅 Fri, 15 May 2026 23:33:32 +0000
-
-- **[Spectre Programming Language](https://spectre-docs.pages.dev)**
-  *<p>Article URL: <a href="https://spectre-docs.pages.dev">https://spectre-docs.pages.dev</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=48155159">https://news.ycombinator.com/it...*
-  📅 Fri, 15 May 2026 23:14:51 +0000
 
 ### 📑 TechCrunch
 
@@ -103,18 +102,23 @@
 
 ### 📑 Dev.to
 
-- **[Demystifying Solana’s Architecture: The Web2 Analogy That Helped Me Finally Understand Accounts](https://dev.to/rexreus/demystifying-solanas-architecture-the-web2-analogy-that-helped-me-finally-understand-accounts-37fp)**
-  *<p>As we approach the end of <strong>Epoch 1 of the 100 Days of Solana</strong>, it’s time to look back at the core concepts that form the bedrock of everything we build on this network.</p>
+- **[Inside Systems 01: Your Verification Process Did Not Break. It Was Replaced.](https://dev.to/chandravanshi/inside-systems-01-your-verification-process-did-not-break-it-was-replaced-4bee)**
+  *<p><strong>Why fluent AI outputs quietly replace verification habits without announcing the change</strong></p>
 
-<p>When ...*
-  📅 Sat, 16 May 2026 02:00:23 +0000
+<h2>
+  
+  
+  The Rule Vikram Built
+</h2>
 
-- **[Cutting Room Now Available on macOS](https://dev.to/nickvalenciatech/cutting-room-now-available-on-macos-nm9)**
-  *<p>Cutting Room AI now runs on macOS. If you edit in DaVinci Resolve Studio on a Mac, you can control your timeline with plain English.</p>
+<p>Vikram had a rule he followed for seven ye...*
+  📅 Sat, 16 May 2026 07:46:00 +0000
 
-<p><strong>What It Does</strong><br />
-You type something l...*
-  📅 Sat, 16 May 2026 01:49:16 +0000
+- **[Deploying Metabase on AWS ECS (Fargate) with PostgreSQL (RDS)](https://dev.to/ikoh_sylva/deploying-metabase-on-aws-ecs-fargate-with-postgresql-rds-41pa)**
+  *<p>At some point in your cloud journey, you stop just deploying applications and start thinking about data, persistence, and real-world architecture.</p>
+
+<p>Because most production applications don’t...*
+  📅 Sat, 16 May 2026 07:42:54 +0000
 
 </details>
 
@@ -122,103 +126,103 @@ You type something l...*
 
 ### 📈 Daily Trending
 
-- **[harry-leon/Smart-Automated-Car-Wash-Management-System](https://github.com/harry-leon/Smart-Automated-Car-Wash-Management-System)** ⭐ 3
-  ![None](https://img.shields.io/badge/-None-lightgrey)
-  None
+- **[shootthesound/comfyui-mesh](https://github.com/shootthesound/comfyui-mesh)** ⭐ 15
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  Split FLUX.2 across two GPUs (LAN or same-machine) — NVENC compresses activations live on the wire. Icarus (ComfyUI node) + Daedalus (back-half server).
 
-- **[MistWeatherMedia/weatherscan-v2](https://github.com/MistWeatherMedia/weatherscan-v2)** ⭐ 2
+- **[matthart1983/diskwatch](https://github.com/matthart1983/diskwatch)** ⭐ 11
+  ![Rust](https://img.shields.io/badge/-Rust-brown)
+  Single-host, read-only disk diagnostics TUI. Sibling to netwatch and syswatch.
+
+- **[mrdoob/reframe](https://github.com/mrdoob/reframe)** ⭐ 10
   ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
-  Weatherscan v2 (2005-2022) simulation in HTML/JS/CSS
+  Webapp for framing a video clip and exporting an MP4.
 
-- **[roverdiani/GCEmu](https://github.com/roverdiani/GCEmu)** ⭐ 2
-  ![Java](https://img.shields.io/badge/-Java-orange)
-  A Grand Chase Season 1 emulator written in Java
+- **[zimingttkx/QuantumFlow](https://github.com/zimingttkx/QuantumFlow)** ⭐ 9
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  QuantumFlow - Distributed LLM inference scheduling framework with multi-backend support (vLLM, TGI, SGLang), adaptive scheduling strategies, and cluster management.
 
-- **[lifeineth/lie](https://github.com/lifeineth/lie)** ⭐ 2
+- **[NabiKAZ/arvancloud-bypass](https://github.com/NabiKAZ/arvancloud-bypass)** ⭐ 5
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
+  Node.js library to bypass ArvanCloud CDN JavaScript challenges without a browser
+
+- **[hatsugai/MC68000-x-2-Virtual-Memory-System](https://github.com/hatsugai/MC68000-x-2-Virtual-Memory-System)** ⭐ 3
   ![None](https://img.shields.io/badge/-None-lightgrey)
   None
 
-- **[Flotealy/vm_scanner](https://github.com/Flotealy/vm_scanner)** ⭐ 2
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  None
-
-- **[renawxs/Love-Site](https://github.com/renawxs/Love-Site)** ⭐ 2
-  ![HTML](https://img.shields.io/badge/-HTML-lightgrey)
-  Site feito com HTML, CSS e JavaScript 
-
-- **[ThearaGithub/Online-Shop-System](https://github.com/ThearaGithub/Online-Shop-System)** ⭐ 2
+- **[Mapleawaa/PVE-Tools-Go](https://github.com/Mapleawaa/PVE-Tools-Go)** ⭐ 3
   ![None](https://img.shields.io/badge/-None-lightgrey)
-  Phone Shop Website.
+  适用于Proxmox VE 的 一站式运维解决方案。覆盖 VM 生命周期运维、宿主机网络 / 防火墙 / IPv6、GPU / PCI 直通、系统维护与第三方生态集成。
 
-- **[sanfranscino/stupid-rules](https://github.com/sanfranscino/stupid-rules)** ⭐ 2
+- **[whiteaxesing/cita-dekra](https://github.com/whiteaxesing/cita-dekra)** ⭐ 3
   ![Python](https://img.shields.io/badge/-Python-blue)
-  None
+  Agendador automático de citas DEKRA Costa Rica
 
 ### 📈 Weekly Trending
 
-- **[FULU-Foundation/OrcaSlicer-bambulab](https://github.com/FULU-Foundation/OrcaSlicer-bambulab)** ⭐ 4,677
+- **[FULU-Foundation/OrcaSlicer-bambulab](https://github.com/FULU-Foundation/OrcaSlicer-bambulab)** ⭐ 4,723
   ![C++](https://img.shields.io/badge/-C++-pink)
   None
 
-- **[Nightmare-Eclipse/YellowKey](https://github.com/Nightmare-Eclipse/YellowKey)** ⭐ 2,444
+- **[Nightmare-Eclipse/YellowKey](https://github.com/Nightmare-Eclipse/YellowKey)** ⭐ 2,597
   ![None](https://img.shields.io/badge/-None-lightgrey)
   YellowKey Bitlocker Bypass Vulnerability
 
-- **[huangserva/3DCellForge](https://github.com/huangserva/3DCellForge)** ⭐ 2,061
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
-  AI-powered interactive 3D model generation, inspection, and presentation studio.
-
-- **[nexu-io/html-anything](https://github.com/nexu-io/html-anything)** ⭐ 2,003
+- **[nexu-io/html-anything](https://github.com/nexu-io/html-anything)** ⭐ 2,159
   ![HTML](https://img.shields.io/badge/-HTML-lightgrey)
   ✨ The agentic HTML editor — your local AI agent writes the HTML, you ship it. 🚀 75 Skills × 9 Surfaces (magazine · deck · poster · XHS / tweet · prototype · data report · Hyperframes) 🛡️ Sandboxed preview · 📤 1-click to WeChat / X / Zhihu / HTML / PNG 🔑 Zero API key — Claude Code / Cursor / Codex / Gemini / Copilot / OpenCode / Qwen / Aider.
 
-- **[yetone/native-feel-skill](https://github.com/yetone/native-feel-skill)** ⭐ 1,075
+- **[huangserva/3DCellForge](https://github.com/huangserva/3DCellForge)** ⭐ 2,067
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
+  AI-powered interactive 3D model generation, inspection, and presentation studio.
+
+- **[yetone/native-feel-skill](https://github.com/yetone/native-feel-skill)** ⭐ 1,123
   ![None](https://img.shields.io/badge/-None-lightgrey)
   An Agent Skill for designing cross-platform desktop apps that feel native — distilled from Raycast's 2.0 deep-dive and reverse engineering of Raycast Beta.app. Eight architectural tenets, four-layer architecture, WebKit/WebView2 survival guide, 75-item ship audit.
 
-- **[HermannBjorgvin/Clawdmeter](https://github.com/HermannBjorgvin/Clawdmeter)** ⭐ 1,006
+- **[HermannBjorgvin/Clawdmeter](https://github.com/HermannBjorgvin/Clawdmeter)** ⭐ 1,028
   ![C](https://img.shields.io/badge/-C-lightgrey)
   ESP32 desk dashboard that shows Claude Code usage
 
-- **[simonlin1212/a-stock-data](https://github.com/simonlin1212/a-stock-data)** ⭐ 886
+- **[simonlin1212/a-stock-data](https://github.com/simonlin1212/a-stock-data)** ⭐ 917
   ![None](https://img.shields.io/badge/-None-lightgrey)
   A 股全栈数据工具包 — 6层架构 · 15个端点 · 7个数据源 | AI Skill for China A-Share Market Data
 
-- **[ywnd1144/Gopay_plus_automatic](https://github.com/ywnd1144/Gopay_plus_automatic)** ⭐ 876
+- **[ywnd1144/Gopay_plus_automatic](https://github.com/ywnd1144/Gopay_plus_automatic)** ⭐ 885
   ![Python](https://img.shields.io/badge/-Python-blue)
   None
 
 ### 📈 Monthly Trending
 
-- **[nexu-io/open-design](https://github.com/nexu-io/open-design)** ⭐ 41,678
+- **[nexu-io/open-design](https://github.com/nexu-io/open-design)** ⭐ 41,888
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   🎨 Local-first, open-source alternative to Anthropic's Claude Design. ⚡ 19 Skills · ✨ 71 brand-grade Design Systems 🖼 Generate web · desktop · mobile prototypes · slides · images · videos · HyperFrames 📦 Sandboxed preview · HTML/PDF/PPTX/MP4 export 🤖 Runs on Claude Code / Codex / Cursor / Gemini / OpenCode / Qwen / Copilot / Hermes / Kimi CLI.
 
-- **[EvoLinkAI/awesome-gpt-image-2-API-and-Prompts](https://github.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts)** ⭐ 14,497
+- **[EvoLinkAI/awesome-gpt-image-2-API-and-Prompts](https://github.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts)** ⭐ 14,574
   ![Python](https://img.shields.io/badge/-Python-blue)
   GPT-Image-2 API and Prompts
 
-- **[alchaincyf/huashu-design](https://github.com/alchaincyf/huashu-design)** ⭐ 13,869
+- **[alchaincyf/huashu-design](https://github.com/alchaincyf/huashu-design)** ⭐ 13,901
   ![HTML](https://img.shields.io/badge/-HTML-lightgrey)
   Huashu Design · HTML-native design skill for Claude Code · Claude Code 里 HTML 原生的设计 skill · 高保真原型 / 幻灯片 / 动画 + 20 设计哲学 + 5 维评审 + MP4 导出 · Agent-agnostic
 
-- **[kyegomez/OpenMythos](https://github.com/kyegomez/OpenMythos)** ⭐ 12,987
+- **[kyegomez/OpenMythos](https://github.com/kyegomez/OpenMythos)** ⭐ 13,003
   ![Python](https://img.shields.io/badge/-Python-blue)
   A theoretical reconstruction of the Claude Mythos architecture, built from first principles using the available research literature.
 
-- **[browser-use/browser-harness](https://github.com/browser-use/browser-harness)** ⭐ 12,812
+- **[browser-use/browser-harness](https://github.com/browser-use/browser-harness)** ⭐ 12,839
   ![Python](https://img.shields.io/badge/-Python-blue)
   Browser Harness | Self-healing harness that enables LLMs to complete any task.
 
-- **[antirez/ds4](https://github.com/antirez/ds4)** ⭐ 9,744
+- **[antirez/ds4](https://github.com/antirez/ds4)** ⭐ 9,825
   ![C](https://img.shields.io/badge/-C-lightgrey)
   DeepSeek 4 Flash local inference engine for Metal and CUDA
 
-- **[op7418/guizang-ppt-skill](https://github.com/op7418/guizang-ppt-skill)** ⭐ 8,988
+- **[op7418/guizang-ppt-skill](https://github.com/op7418/guizang-ppt-skill)** ⭐ 9,075
   ![HTML](https://img.shields.io/badge/-HTML-lightgrey)
   AI-agent Skill for generating polished HTML slide decks: editorial magazine and Swiss layouts, image prompts, social covers, and a WebGL/low-power presentation runtime.
 
-- **[Yuan1z0825/nature-skills](https://github.com/Yuan1z0825/nature-skills)** ⭐ 6,664
+- **[Yuan1z0825/nature-skills](https://github.com/Yuan1z0825/nature-skills)** ⭐ 6,811
   ![Python](https://img.shields.io/badge/-Python-blue)
   符合nature论文学术表达和科研绘图的Skill
 
@@ -496,10 +500,10 @@ The API i...
 
 | Skill | Status |
 |-------|--------|
-| Java | 🔴 Beginner |
+| Java | ⚪ Planned |
 | Python | 🟢 Proficient |
-| JavaScript | ⚪ Planned |
-| TypeScript | 🟢 Proficient |
+| JavaScript | 🟡 Learning |
+| TypeScript | ⚪ Planned |
 | Go | 🟡 Learning |
 
 ### Frameworks
@@ -507,18 +511,18 @@ The API i...
 | Skill | Status |
 |-------|--------|
 | React | ⚪ Planned |
-| Spring Boot | 🟡 Learning |
-| Django | 🔴 Beginner |
-| Node.js | 🟡 Learning |
-| Next.js | ⚪ Planned |
+| Spring Boot | 🟢 Proficient |
+| Django | 🟢 Proficient |
+| Node.js | ⚪ Planned |
+| Next.js | 🟡 Learning |
 
 ### Cybersecurity
 
 | Skill | Status |
 |-------|--------|
-| Penetration Testing | 🟢 Proficient |
-| Web Security | 🔴 Beginner |
-| Network Security | ⚪ Planned |
+| Penetration Testing | 🔴 Beginner |
+| Web Security | 🟡 Learning |
+| Network Security | 🔴 Beginner |
 | OWASP | 🟢 Proficient |
 
 ### Ai Ml
@@ -529,26 +533,26 @@ The API i...
 | Deep Learning | 🟢 Proficient |
 | NLP | 🔴 Beginner |
 | Computer Vision | ⚪ Planned |
-| TensorFlow | 🟢 Proficient |
-| PyTorch | 🟡 Learning |
+| TensorFlow | 🟡 Learning |
+| PyTorch | 🟢 Proficient |
 
 ### Devops
 
 | Skill | Status |
 |-------|--------|
-| Docker | ⚪ Planned |
-| Kubernetes | 🟡 Learning |
+| Docker | 🟡 Learning |
+| Kubernetes | 🔴 Beginner |
 | CI/CD | ⚪ Planned |
-| AWS | 🟡 Learning |
+| AWS | 🔴 Beginner |
 | Azure | 🔴 Beginner |
 
 ### Other
 
 | Skill | Status |
 |-------|--------|
-| Blockchain | ⚪ Planned |
-| Web3 | 🟢 Proficient |
-| Cloud Computing | 🔴 Beginner |
+| Blockchain | 🟢 Proficient |
+| Web3 | 🔴 Beginner |
+| Cloud Computing | ⚪ Planned |
 
 </details>
 
