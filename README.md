@@ -7,7 +7,7 @@
 ![AI & ML](https://img.shields.io/badge/-AI%20&%20ML-blue) ![CyberSecurity](https://img.shields.io/badge/-CyberSecurity-red) ![Full Stack Development](https://img.shields.io/badge/-Full%20Stack%20Development-green)
 
 [![Auto Update](https://img.shields.io/badge/Auto%20Update-Enabled-success)](https://github.com/yourusername/tech-dashboard/actions)
-[![Last Updated](https://img.shields.io/badge/Last%20Updated-May 18, 2026-blue)](https://github.com/yourusername/tech-dashboard)
+[![Last Updated](https://img.shields.io/badge/Last%20Updated-May 19, 2026-blue)](https://github.com/yourusername/tech-dashboard)
 
 *Automatically updated every 6 hours with the latest tech news, trending repositories, and learning resources.*
 
@@ -46,40 +46,49 @@
 
 ### 📑 Hacker News
 
-- **[Agora-1: The Multi-Agent World Model](https://odyssey.ml/introducing-agora-1)**
-  *<p>Article URL: <a href="https://odyssey.ml/introducing-agora-1">https://odyssey.ml/introducing-agora-1</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=48183748">https://news.yc...*
-  📅 Mon, 18 May 2026 18:43:30 +0000
+- **[Anthropic co-founder to present AI encyclical alongside Pope Leo XIV](https://www.vaticannews.va/en/pope/news/2026-05/pope-leo-xiv-first-encyclical-magnifica-humanitas.html)**
+  *<p>Article URL: <a href="https://www.vaticannews.va/en/pope/news/2026-05/pope-leo-xiv-first-encyclical-magnifica-humanitas.html">https://www.vaticannews.va/en/pope/news/2026-05/pope-leo-xiv-first-ency...*
+  📅 Mon, 18 May 2026 23:18:10 +0000
 
-- **[Haiku OS runs on M1 Macs now](https://discuss.haiku-os.org/t/my-haiku-arm64-progress/19044?page=2)**
-  *<p>Article URL: <a href="https://discuss.haiku-os.org/t/my-haiku-arm64-progress/19044?page=2">https://discuss.haiku-os.org/t/my-haiku-arm64-progress/19044?page=2</a></p>
-<p>Comments URL: <a href="http...*
-  📅 Mon, 18 May 2026 18:30:55 +0000
+- **[Click (2016)](https://clickclickclick.click/)**
+  *<p>Article URL: <a href="https://clickclickclick.click/">https://clickclickclick.click/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=48187054">https://news.ycombinator.com/it...*
+  📅 Mon, 18 May 2026 23:03:02 +0000
 
-- **[Haiku OS runs on M1 Macs now](https://www.osnews.com/story/144985/haiku-os-runs-on-m1-macs-now/)**
-  *<p>Article URL: <a href="https://www.osnews.com/story/144985/haiku-os-runs-on-m1-macs-now/">https://www.osnews.com/story/144985/haiku-os-runs-on-m1-macs-now/</a></p>
-<p>Comments URL: <a href="https://...*
-  📅 Mon, 18 May 2026 18:17:21 +0000
+- **[Alignment pretraining: AI discourse creates self-fulfilling (mis)alignment](https://arxiv.org/abs/2601.10160)**
+  *<p>Article URL: <a href="https://arxiv.org/abs/2601.10160">https://arxiv.org/abs/2601.10160</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=48185938">https://news.ycombinator.co...*
+  📅 Mon, 18 May 2026 21:29:13 +0000
 
-- **[At least 100 deaths reported in Ebola outbreak in DR Congo](https://www.bbc.com/news/articles/cq6pz60p996o)**
-  *<p>Article URL: <a href="https://www.bbc.com/news/articles/cq6pz60p996o">https://www.bbc.com/news/articles/cq6pz60p996o</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=48183060"...*
-  📅 Mon, 18 May 2026 17:57:13 +0000
+- **[Shutterstock to pay $35M over hard-to-cancel subscriptions](https://www.ftc.gov/news-events/news/press-releases/2026/05/shutterstock-pay-35-million-settle-ftc-allegations-over-illegal-subscription-cancellation-practices)**
+  *<p>Article URL: <a href="https://www.ftc.gov/news-events/news/press-releases/2026/05/shutterstock-pay-35-million-settle-ftc-allegations-over-illegal-subscription-cancellation-practices">https://www.ft...*
+  📅 Mon, 18 May 2026 19:50:09 +0000
 
-- **[Cutting inference cold starts by 40x with LP, FUSE, C/R, and CUDA-checkpoint](https://modal.com/blog/truly-serverless-gpus)**
-  *<p>Article URL: <a href="https://modal.com/blog/truly-serverless-gpus">https://modal.com/blog/truly-serverless-gpus</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=48183038">htt...*
-  📅 Mon, 18 May 2026 17:56:26 +0000
+- **[The FBI Wants to Buy Nationwide Access to License Plate Readers](https://www.404media.co/the-fbi-wants-to-buy-nationwide-access-to-license-plate-readers/)**
+  *<p>Article URL: <a href="https://www.404media.co/the-fbi-wants-to-buy-nationwide-access-to-license-plate-readers/">https://www.404media.co/the-fbi-wants-to-buy-nationwide-access-to-license-plate-reade...*
+  📅 Mon, 18 May 2026 19:28:59 +0000
 
-- **[Iran will impose fees on subsea internet cables in Strait of Hormuz](https://www.cnn.com/2026/05/17/middleeast/iran-hormuz-undersea-cables-intl)**
-  *<p>Article URL: <a href="https://www.cnn.com/2026/05/17/middleeast/iran-hormuz-undersea-cables-intl">https://www.cnn.com/2026/05/17/middleeast/iran-hormuz-undersea-cables-intl</a></p>
-<p>Comments URL:...*
-  📅 Mon, 18 May 2026 17:55:55 +0000
+- **[Hyperpolyglot Lisp: Common Lisp, Racket, Clojure, Emacs Lisp](https://hyperpolyglot.org/lisp)**
+  *<p>Article URL: <a href="https://hyperpolyglot.org/lisp">https://hyperpolyglot.org/lisp</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=48184322">https://news.ycombinator.com/it...*
+  📅 Mon, 18 May 2026 19:27:25 +0000
 
 ### 📑 TechCrunch
 
+- **[OSHA probing worker death at SpaceX’s Starbase site](https://techcrunch.com/2026/05/18/osha-probing-worker-death-at-spacexs-starbase-site/)**
+  *The death is the latest worker safety issue at the Starbase facility, which has a higher injury rate than all other SpaceX sites....*
+  📅 Mon, 18 May 2026 21:55:02 +0000
+
+- **[SandboxAQ brings its drug discovery models to Claude — no PhD in computing required](https://techcrunch.com/2026/05/18/sandboxaq-brings-its-drug-discovery-models-to-claude-no-phd-in-computing-required/)**
+  *Other venture-backed companies like Chai Discovery and Isomorphic Labs have raced to build better models. SandboxAQ is betting that access is the bigger obstacle and that Claude solves it....*
+  📅 Mon, 18 May 2026 21:29:31 +0000
+
+- **[Anthropic has acquired the dev tools startup used by OpenAI, Google, and Cloudflare](https://techcrunch.com/2026/05/18/anthropic-has-acquired-the-dev-tools-startup-used-by-openai-google-and-cloudflare/)**
+  *Stainless, a New York-based startup, founded in 2022, rose to prominence in the emerging AI industry for automating the creation and maintenance of software development kits, or SDKs — the libraries d...*
+  📅 Mon, 18 May 2026 19:27:52 +0000
+
 - **[Elon Musk has lost his lawsuit against Sam Altman and OpenAI](https://techcrunch.com/2026/05/18/elon-musk-has-lost-his-lawsuit-against-sam-altman-and-openai/)**
-  *Elon Musk's claim that he was mistreated by his OpenAI cofounders failed after nine California jurors decided in a unanimous verdict that his lawsuits had been filed too late....*
+  *Elon Musk's claim that he was mistreated by his OpenAI co-founders failed after nine California jurors decided in a unanimous verdict that his lawsuits had been filed too late....*
   📅 Mon, 18 May 2026 17:34:43 +0000
 
 - **[NYC Health + Hospitals says hackers stole medical data and fingerprints during breach affecting at least 1.8 million people](https://techcrunch.com/2026/05/18/nyc-health-and-hospitals-says-hackers-stole-medical-data-and-fingerprints-during-breach-affecting-at-least-1-8-million-people/)**
@@ -90,40 +99,24 @@
   *The app is similar to a meeting notetaker — you can record doctor visits, and it will return an AI summary of the meeting, with the next steps, all of which you share with family and friends if you wa...*
   📅 Mon, 18 May 2026 15:26:00 +0000
 
-- **[Amazon’s new Alexa+ powered feature can generate podcast episodes](https://techcrunch.com/2026/05/18/amazons-new-alexa-powered-feature-can-generate-podcast-episodes/)**
-  *Amazon’s Alexa+ can now generate custom AI podcasts on demand, as the company expands its assistant into a personalized AI content platform....*
-  📅 Mon, 18 May 2026 14:56:47 +0000
-
-- **[Open source tool maker Grafana Labs says hackers stole its code, refuses to pay ransom](https://techcrunch.com/2026/05/18/open-source-tool-maker-grafana-labs-says-hackers-stole-its-code-refuses-to-pay-ransom/)**
-  *The open source project said hackers stole its codebase and threatened to publish its source code if the company did not pay....*
-  📅 Mon, 18 May 2026 13:42:19 +0000
-
-- **[South Korea’s LetinAR is building optics behind AI glasses](https://techcrunch.com/2026/05/18/south-koreas-letinar-is-building-the-optics-behind-ai-glasses/)**
-  *A lens the size of a thumbnail — and the South Korean startup that makes it — could become the optical backbone of the AI glasses era....*
-  📅 Mon, 18 May 2026 11:00:00 +0000
-
 ### 📑 Dev.to
 
-- **[Front Controller: The Pattern That Unifies Your Web Application's Entry Point](https://dev.to/r3d_cr0wn/front-controller-el-patron-que-unifica-el-punto-de-entrada-de-tu-aplicacion-web-3l9b)**
-  *<blockquote>
-<p><em>Part of the series: Enterprise Application Architecture Patterns — Martin Fowler</em></p>
-</blockquote>
+- **[How Gemma 4 Can Help Solve the Trillion-Dollar Oversight in Women’s Health](https://dev.to/innacampo/how-gemma-4-can-help-solve-the-trillion-dollar-oversight-in-womens-health-3i0f)**
+  *<p><em>This is a submission for the <a href="https://dev.to/challenges/google-gemma-2026-05-06">Gemma 4 Challenge: Build with Gemma 4</a></em></p>
 
 
 
 
-<h2>
-  
-  
-  The Problem You've Probably Already Faced
-</h2>
+<p>By 2030, an estimated 1.2 billion women will b...*
+  📅 Tue, 19 May 2026 02:17:23 +0000
 
-<p>You're ...*
-  📅 Mon, 18 May 2026 19:22:49 +0000
+- **[I bought yamlfuneral.com](https://dev.to/0xarchitect/i-bought-yamlfuneralcom-1lpf)**
+  *<p>I've rewritten the same CloudFormation template from scratch more times than I want to admit.</p>
 
-- **[Beyong New and Delete: from auto_ptr to unique_ptr](https://dev.to/legacycpp/beyong-new-and-delete-from-autoptr-to-uniqueptr-5e35)**
-  *<p>This guide walks through a legacy pattern built around <code>std::auto_ptr</code>, something still found in many older C++ codebases. The pattern usually involves a helper like <code>cdup</code> th...*
-  📅 Mon, 18 May 2026 19:22:14 +0000
+<p>The drill never changes.</p>
+
+<p>The design session goes well. The diagram looks clean. Everyon...*
+  📅 Tue, 19 May 2026 01:54:53 +0000
 
 </details>
 
@@ -131,105 +124,105 @@
 
 ### 📈 Daily Trending
 
-- **[Doorman11991/smallcode](https://github.com/Doorman11991/smallcode)** ⭐ 388
+- **[he4rt/marketing-extension](https://github.com/he4rt/marketing-extension)** ⭐ 21
   ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
-  AI coding agent optimized for small LLMs. 87% benchmark with 4B-active model.
+  Chrome extension that passively captures X/Twitter GraphQL responses to track community engagement. Exports structured JSON for He4rt Hub ingestion.
 
-- **[xw7872081123/wallpaper-engine-steam](https://github.com/xw7872081123/wallpaper-engine-steam)** ⭐ 292
+- **[kelvinagyareyeboah/kelvinagyareyeboah](https://github.com/kelvinagyareyeboah/kelvinagyareyeboah)** ⭐ 5
+  ![None](https://img.shields.io/badge/-None-lightgrey)
+  About the author
+
+- **[ki-mutaku/re-recaptcha](https://github.com/ki-mutaku/re-recaptcha)** ⭐ 4
+  ![None](https://img.shields.io/badge/-None-lightgrey)
+  reCAPTCHAのような画像当てゲームを機械学習で当てるプロジェクト
+
+- **[Sid00011/zparty](https://github.com/Sid00011/zparty)** ⭐ 3
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  Automated web penetration testing framework - 30+ vuln modules, local AI exploit engine, Tor anonymity, live browser UI. Built in Python with asyncio.
+
+- **[pbykannan/DoIP-Test-Tool](https://github.com/pbykannan/DoIP-Test-Tool)** ⭐ 3
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  A python test tool for DoIP in windows
+
+- **[lukasn9/HackathonRotterdam](https://github.com/lukasn9/HackathonRotterdam)** ⭐ 2
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
-  Free Wallpaper Engine Steam: download PC windows 11, steam workshop downloader bypass, high CPU RAM usage fix, android apk mobile sync. 4k anime live wallpaper, black screen crash on startup, corsair icue razer chroma integration, ui32.exe error solution, scene web wallpaper, mobile connection pin, custom playlist screensaver, 
+  None
 
-- **[thongthaibm/Lossless-Scaling-LSFG](https://github.com/thongthaibm/Lossless-Scaling-LSFG)** ⭐ 289
-  ![C#](https://img.shields.io/badge/-C#-lightgrey)
-  Lossless Scaling github steam android: LSFG 3 frame generation steam, uncap FPS low end PC, AMD FSR NIS scaling, cursor lag fix. Double FPS laptop guide, windowed to borderless fullscreen, ghosting artifact solution, capture API DXGI GDI, half refresh rate VSync. Crack free bypass, anime4k setup, steam version latest release, latency reduction
+- **[lks59k/AI-Text-Analyzer](https://github.com/lks59k/AI-Text-Analyzer)** ⭐ 2
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
+  Une extension web dédier pour la détection de texte AI
 
-- **[ZoyaMalhotra/DualSenseX-DSX-Steam-Edition](https://github.com/ZoyaMalhotra/DualSenseX-DSX-Steam-Edition)** ⭐ 145
-  ![C++](https://img.shields.io/badge/-C++-pink)
-  DualSenseX Steam: DSX free download github, adaptive triggers test mod PC, audio to haptics setup, Xbox 360 DualShock 4 emulation. ViGEmBus driver error fix, Bluetooth audio latency, Cyberpunk 2077 controller mod, non-steam games controller not working, DS4Windows alternative. Paliverse crack bypass, BSOD crash fix, Steam Xbox Extended Feature
-
-- **[haiddrrs/Steam-Tools](https://github.com/haiddrrs/Steam-Tools)** ⭐ 144
-  ![C#](https://img.shields.io/badge/-C#-lightgrey)
-  Lua Steam Tools: SteamTools download free PC latest version, lua manifest generator github, steamtools safe to use account ban risk, BeyondDimension SteamTools source code, unlock free steam games dlc unlocker, watt toolkit alternative, steamtools exe local ticket bypass, lua tools manifest downloader, st-setup virus total malware scan, steamtools
-
-- **[AbhishekK130804/Claude-Mythos-AI-Anthropic-App](https://github.com/AbhishekK130804/Claude-Mythos-AI-Anthropic-App)** ⭐ 143
-  ![C#](https://img.shields.io/badge/-C#-lightgrey)
-  Claude pro free Mythos design Opus Cowork  Sonnet AI Anthropic App: download free PC android apk iOS, Anthropic Claude API key setup, Claude roleplay mythos client, SillyTavern Claude prompt formatting, custom system prompt jailbreak, Mythos AI creative writing app, Claude 3.5 Sonnet Opus API cost, open source LLM frontend, Claude reverse proxy 
-
-- **[lynote-ai/humanize-text](https://github.com/lynote-ai/humanize-text)** ⭐ 115
+- **[mrjonlamb/dms-identity-resolution-attribution](https://github.com/mrjonlamb/dms-identity-resolution-attribution)** ⭐ 2
   ![Python](https://img.shields.io/badge/-Python-blue)
-  Open-source Al text humanizationtoolkit. 4 proven methods totransform Al-generated text intonatural human writing. Translationchain, LLM rewriting, detection-guided feedback loop, and mixed-engine processing.
-
-- **[Mariosmallwmjl91422/Flash-USDT-Sender](https://github.com/Mariosmallwmjl91422/Flash-USDT-Sender)** ⭐ 46
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  Flash USDT Sender — Multi-network flash transaction tool for USDT, BTC, and ETH with configurable duration, custom gas settings, ERC-20/TRC-20/BEP-20 support, and block explorer-visible confirmations
+  A patented identity resolution and closed-loop attribution algorithm for automotive retail. Programmatically bridges de-identified DMS sales data with digital publisher IP logs using household matching and immutable VIN verification to solve the walk-in attribution blind spot safely and securely.
 
 ### 📈 Weekly Trending
 
-- **[Nightmare-Eclipse/YellowKey](https://github.com/Nightmare-Eclipse/YellowKey)** ⭐ 3,363
-  ![None](https://img.shields.io/badge/-None-lightgrey)
-  YellowKey Bitlocker Bypass Vulnerability
-
-- **[vercel-labs/zero](https://github.com/vercel-labs/zero)** ⭐ 2,225
+- **[vercel-labs/zero](https://github.com/vercel-labs/zero)** ⭐ 2,313
   ![C](https://img.shields.io/badge/-C-lightgrey)
   The programming language for agents
 
-- **[yetone/native-feel-skill](https://github.com/yetone/native-feel-skill)** ⭐ 1,305
+- **[yetone/native-feel-skill](https://github.com/yetone/native-feel-skill)** ⭐ 1,311
   ![None](https://img.shields.io/badge/-None-lightgrey)
   An Agent Skill for designing cross-platform desktop apps that feel native — distilled from Raycast's 2.0 deep-dive and reverse engineering of Raycast Beta.app. Eight architectural tenets, four-layer architecture, WebKit/WebView2 survival guide, 75-item ship audit.
 
-- **[facebookresearch/vggt-omega](https://github.com/facebookresearch/vggt-omega)** ⭐ 952
+- **[facebookresearch/vggt-omega](https://github.com/facebookresearch/vggt-omega)** ⭐ 993
   ![Python](https://img.shields.io/badge/-Python-blue)
   [CVPR 2026 Oral] VGGT Omega
 
-- **[ywnd1144/Gopay_plus_automatic](https://github.com/ywnd1144/Gopay_plus_automatic)** ⭐ 929
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  None
-
-- **[DenisSergeevitch/agents-best-practices](https://github.com/DenisSergeevitch/agents-best-practices)** ⭐ 808
+- **[DenisSergeevitch/agents-best-practices](https://github.com/DenisSergeevitch/agents-best-practices)** ⭐ 818
   ![None](https://img.shields.io/badge/-None-lightgrey)
   Provider-neutral Agent Skill for Codex, Claude Code, and agentic harness design.
 
-- **[Kappaemme-git/codex-complexity-optimizer](https://github.com/Kappaemme-git/codex-complexity-optimizer)** ⭐ 738
+- **[DuskMosquito/Lossless-Scaling-Desktop-2026](https://github.com/DuskMosquito/Lossless-Scaling-Desktop-2026)** ⭐ 776
+  ![C](https://img.shields.io/badge/-C-lightgrey)
+  ⭐️ Lossless Scaling Desktop 2026 | Setup Installer v1.0 | Patch Activator Keygen | License Key Pre-Activated | Full Version Latest Build Pro | Optimize Resolution Scaling | Enhance Performance Graphics | Get Desktop App Windows 10/11 PC | Direct Genuine Original x64 | Download Install Loader Mod ⭐️
+
+- **[Kappaemme-git/codex-complexity-optimizer](https://github.com/Kappaemme-git/codex-complexity-optimizer)** ⭐ 751
   ![Python](https://img.shields.io/badge/-Python-blue)
   Codex skill for safe codebase complexity analysis and performance optimization reports
 
-- **[DepthFirstDisclosures/Nginx-Rift](https://github.com/DepthFirstDisclosures/Nginx-Rift)** ⭐ 704
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  exploit for CVE-2026-42945
+- **[boona13/mykonos-island-voxels](https://github.com/boona13/mykonos-island-voxels)** ⭐ 640
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
+  A browser-based isometric island builder with the soft, sun-bleached look of Mykonos. Vanilla ES modules, no bundler, mobile-friendly.
+
+- **[Juwluuu/Subnautica-2-Release](https://github.com/Juwluuu/Subnautica-2-Release)** ⭐ 621
+  ![C++](https://img.shields.io/badge/-C++-pink)
+  Subnautica 2: Early Access release, Have Multiplayer 4-player co-op multiplayer, Planet Zazura exploration, DNA BioMod system, Tadpole modular submersible, new Leviathans list, CICADA crash site lore. Xbox Game Pass, Steam preload, base building blueprints, ocean currents, crafting recipes
 
 ### 📈 Monthly Trending
 
-- **[nexu-io/open-design](https://github.com/nexu-io/open-design)** ⭐ 44,931
+- **[nexu-io/open-design](https://github.com/nexu-io/open-design)** ⭐ 45,284
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   🎨 Local-first, open-source alternative to Anthropic's Claude Design. ⚡ 19 Skills · ✨ 71 brand-grade Design Systems 🖼 Generate web · desktop · mobile prototypes · slides · images · videos · HyperFrames 📦 Sandboxed preview · HTML/PDF/PPTX/MP4 export 🤖 Runs on Claude Code / Codex / Cursor / Gemini / OpenCode / Qwen / Copilot / Hermes / Kimi CLI.
 
-- **[alchaincyf/huashu-design](https://github.com/alchaincyf/huashu-design)** ⭐ 14,189
-  ![HTML](https://img.shields.io/badge/-HTML-lightgrey)
-  Huashu Design · HTML-native design skill for Claude Code · Claude Code 里 HTML 原生的设计 skill · 高保真原型 / 幻灯片 / 动画 + 20 设计哲学 + 5 维评审 + MP4 导出 · Agent-agnostic
-
-- **[antirez/ds4](https://github.com/antirez/ds4)** ⭐ 10,613
+- **[antirez/ds4](https://github.com/antirez/ds4)** ⭐ 10,662
   ![C](https://img.shields.io/badge/-C-lightgrey)
   DeepSeek 4 Flash local inference engine for Metal and CUDA
 
-- **[op7418/guizang-ppt-skill](https://github.com/op7418/guizang-ppt-skill)** ⭐ 9,818
+- **[op7418/guizang-ppt-skill](https://github.com/op7418/guizang-ppt-skill)** ⭐ 9,858
   ![HTML](https://img.shields.io/badge/-HTML-lightgrey)
   AI-agent Skill for generating polished HTML slide decks: editorial magazine and Swiss layouts, image prompts, social covers, and a WebGL/low-power presentation runtime.
 
-- **[Yuan1z0825/nature-skills](https://github.com/Yuan1z0825/nature-skills)** ⭐ 8,336
+- **[Yuan1z0825/nature-skills](https://github.com/Yuan1z0825/nature-skills)** ⭐ 8,414
   ![Python](https://img.shields.io/badge/-Python-blue)
   符合nature论文学术表达和科研绘图的Skill
 
-- **[anthropics/claude-for-legal](https://github.com/anthropics/claude-for-legal)** ⭐ 7,108
+- **[anthropics/claude-for-legal](https://github.com/anthropics/claude-for-legal)** ⭐ 7,141
   ![Python](https://img.shields.io/badge/-Python-blue)
   A suite of plugins for legal workflows
 
-- **[FULU-Foundation/OrcaSlicer-bambulab](https://github.com/FULU-Foundation/OrcaSlicer-bambulab)** ⭐ 5,891
+- **[FULU-Foundation/OrcaSlicer-bambulab](https://github.com/FULU-Foundation/OrcaSlicer-bambulab)** ⭐ 5,927
   ![C++](https://img.shields.io/badge/-C++-pink)
   None
 
-- **[freestylefly/awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2)** ⭐ 5,595
+- **[freestylefly/awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2)** ⭐ 5,606
   ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
   Prompt as Code | GPT-Image2 工业级提示词引擎与模板库，370+ 个案例逆向工程，20+ 套工业级模板，并提炼出Skills，持续更新中
+
+- **[tw93/Kami](https://github.com/tw93/Kami)** ⭐ 5,420
+  ![HTML](https://img.shields.io/badge/-HTML-lightgrey)
+  👩‍🚒 Good content deserves good paper.
 
 ## 🚀 Latest Releases
 
@@ -505,58 +498,58 @@ The API i...
 
 | Skill | Status |
 |-------|--------|
-| Java | 🟡 Learning |
-| Python | 🔴 Beginner |
-| JavaScript | 🟡 Learning |
+| Java | ⚪ Planned |
+| Python | 🟢 Proficient |
+| JavaScript | 🔴 Beginner |
 | TypeScript | 🔴 Beginner |
-| Go | 🟢 Proficient |
+| Go | 🟡 Learning |
 
 ### Frameworks
 
 | Skill | Status |
 |-------|--------|
-| React | 🔴 Beginner |
-| Spring Boot | 🔴 Beginner |
+| React | 🟡 Learning |
+| Spring Boot | 🟡 Learning |
 | Django | 🟡 Learning |
-| Node.js | 🔴 Beginner |
-| Next.js | 🟢 Proficient |
+| Node.js | 🟡 Learning |
+| Next.js | 🔴 Beginner |
 
 ### Cybersecurity
 
 | Skill | Status |
 |-------|--------|
-| Penetration Testing | 🟢 Proficient |
-| Web Security | 🟡 Learning |
+| Penetration Testing | 🟡 Learning |
+| Web Security | 🔴 Beginner |
 | Network Security | 🔴 Beginner |
-| OWASP | ⚪ Planned |
+| OWASP | 🟢 Proficient |
 
 ### Ai Ml
 
 | Skill | Status |
 |-------|--------|
-| Machine Learning | 🔴 Beginner |
-| Deep Learning | 🟡 Learning |
-| NLP | 🔴 Beginner |
-| Computer Vision | 🔴 Beginner |
-| TensorFlow | ⚪ Planned |
-| PyTorch | 🟢 Proficient |
+| Machine Learning | ⚪ Planned |
+| Deep Learning | 🔴 Beginner |
+| NLP | 🟢 Proficient |
+| Computer Vision | 🟢 Proficient |
+| TensorFlow | 🟢 Proficient |
+| PyTorch | ⚪ Planned |
 
 ### Devops
 
 | Skill | Status |
 |-------|--------|
-| Docker | 🔴 Beginner |
-| Kubernetes | 🟡 Learning |
-| CI/CD | ⚪ Planned |
-| AWS | 🟢 Proficient |
-| Azure | ⚪ Planned |
+| Docker | ⚪ Planned |
+| Kubernetes | 🔴 Beginner |
+| CI/CD | 🟢 Proficient |
+| AWS | ⚪ Planned |
+| Azure | 🔴 Beginner |
 
 ### Other
 
 | Skill | Status |
 |-------|--------|
-| Blockchain | 🔴 Beginner |
-| Web3 | 🟢 Proficient |
+| Blockchain | 🟡 Learning |
+| Web3 | ⚪ Planned |
 | Cloud Computing | ⚪ Planned |
 
 </details>
@@ -575,7 +568,7 @@ This dashboard is automatically updated every 6 hours using GitHub Actions. The 
 
 <div align="center">
 
-**Last Updated:** May 18, 2026
+**Last Updated:** May 19, 2026
 
 Made with ❤️ and automated with GitHub Actions
 
