@@ -46,34 +46,40 @@
 
 ### 📑 Hacker News
 
-- **[Anthropic co-founder to present AI encyclical alongside Pope Leo XIV](https://www.vaticannews.va/en/pope/news/2026-05/pope-leo-xiv-first-encyclical-magnifica-humanitas.html)**
-  *<p>Article URL: <a href="https://www.vaticannews.va/en/pope/news/2026-05/pope-leo-xiv-first-encyclical-magnifica-humanitas.html">https://www.vaticannews.va/en/pope/news/2026-05/pope-leo-xiv-first-ency...*
-  📅 Mon, 18 May 2026 23:18:10 +0000
+- **[My domain got abused on GitHub Pages](https://meertens.dev/blog/github-enables-domain-abuse/)**
+  *<p>Article URL: <a href="https://meertens.dev/blog/github-enables-domain-abuse/">https://meertens.dev/blog/github-enables-domain-abuse/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/i...*
+  📅 Tue, 19 May 2026 07:28:59 +0000
 
-- **[Click (2016)](https://clickclickclick.click/)**
-  *<p>Article URL: <a href="https://clickclickclick.click/">https://clickclickclick.click/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=48187054">https://news.ycombinator.com/it...*
-  📅 Mon, 18 May 2026 23:03:02 +0000
+- **[Mini Shai-Hulud Strikes Again: 314 npm Packages Compromised](https://safedep.io/mini-shai-hulud-strikes-again-314-npm-packages-compromised/)**
+  *<p>Article URL: <a href="https://safedep.io/mini-shai-hulud-strikes-again-314-npm-packages-compromised/">https://safedep.io/mini-shai-hulud-strikes-again-314-npm-packages-compromised/</a></p>
+<p>Comme...*
+  📅 Tue, 19 May 2026 05:04:49 +0000
 
-- **[Alignment pretraining: AI discourse creates self-fulfilling (mis)alignment](https://arxiv.org/abs/2601.10160)**
-  *<p>Article URL: <a href="https://arxiv.org/abs/2601.10160">https://arxiv.org/abs/2601.10160</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=48185938">https://news.ycombinator.co...*
-  📅 Mon, 18 May 2026 21:29:13 +0000
+- **[Mug Shots: A Small Town Noir (2014)](https://theappendix.net/issues/2014/4/mug-shots-a-small-town-noir)**
+  *<p>Article URL: <a href="https://theappendix.net/issues/2014/4/mug-shots-a-small-town-noir">https://theappendix.net/issues/2014/4/mug-shots-a-small-town-noir</a></p>
+<p>Comments URL: <a href="https://...*
+  📅 Tue, 19 May 2026 04:39:31 +0000
 
-- **[Shutterstock to pay $35M over hard-to-cancel subscriptions](https://www.ftc.gov/news-events/news/press-releases/2026/05/shutterstock-pay-35-million-settle-ftc-allegations-over-illegal-subscription-cancellation-practices)**
-  *<p>Article URL: <a href="https://www.ftc.gov/news-events/news/press-releases/2026/05/shutterstock-pay-35-million-settle-ftc-allegations-over-illegal-subscription-cancellation-practices">https://www.ft...*
-  📅 Mon, 18 May 2026 19:50:09 +0000
+- **[PyTorch Landscape](https://pytorch.landscape2.io)**
+  *<p>Article URL: <a href="https://pytorch.landscape2.io">https://pytorch.landscape2.io</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=48189178">https://news.ycombinator.com/item...*
+  📅 Tue, 19 May 2026 04:29:39 +0000
 
-- **[The FBI Wants to Buy Nationwide Access to License Plate Readers](https://www.404media.co/the-fbi-wants-to-buy-nationwide-access-to-license-plate-readers/)**
-  *<p>Article URL: <a href="https://www.404media.co/the-fbi-wants-to-buy-nationwide-access-to-license-plate-readers/">https://www.404media.co/the-fbi-wants-to-buy-nationwide-access-to-license-plate-reade...*
-  📅 Mon, 18 May 2026 19:28:59 +0000
+- **[Codex-maxxing](https://jxnl.co/writing/2026/05/10/codex-maxxing/)**
+  *<p>Article URL: <a href="https://jxnl.co/writing/2026/05/10/codex-maxxing/">https://jxnl.co/writing/2026/05/10/codex-maxxing/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=481...*
+  📅 Tue, 19 May 2026 04:24:45 +0000
 
-- **[Hyperpolyglot Lisp: Common Lisp, Racket, Clojure, Emacs Lisp](https://hyperpolyglot.org/lisp)**
-  *<p>Article URL: <a href="https://hyperpolyglot.org/lisp">https://hyperpolyglot.org/lisp</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=48184322">https://news.ycombinator.com/it...*
-  📅 Mon, 18 May 2026 19:27:25 +0000
+- **[Show HN: Hsrs – Type-Safe Haskell Bindings Generator for Rust](https://github.com/harmont-dev/hsrs)**
+  *<p>Hey everyone! I've been working on hsrs, a type-safe Haskell Bindings Generator for Rust.<p>I couldn't really find any bindings generator that would create type-safe, rich bindings for Haskell from...*
+  📅 Tue, 19 May 2026 04:06:09 +0000
 
 ### 📑 TechCrunch
+
+- **[Theo Baker spent four years investigating Stanford. Before he leaves, here’s what he found.](https://techcrunch.com/2026/05/18/theo-baker-spent-four-years-investigating-stanford-before-he-leaves-heres-what-he-found/)**
+  *"There's a common refrain among [young] people in this world that it's easier to raise money for a startup right now than to get an internship. Which is remarkable, right?"...*
+  📅 Tue, 19 May 2026 05:50:49 +0000
 
 - **[OSHA probing worker death at SpaceX’s Starbase site](https://techcrunch.com/2026/05/18/osha-probing-worker-death-at-spacexs-starbase-site/)**
   *The death is the latest worker safety issue at the Starbase facility, which has a higher injury rate than all other SpaceX sites....*
@@ -95,28 +101,20 @@
   *The New York public healthcare system said hackers stole personal and medical data, and scans of biometrics — including fingerprints — in one of the largest recorded breaches of 2026....*
   📅 Mon, 18 May 2026 16:32:33 +0000
 
-- **[Kin Health raises $9M to build an AI notetaker for patients](https://techcrunch.com/2026/05/18/kin-health-raises-9m-to-build-an-ai-notetaker-for-patients/)**
-  *The app is similar to a meeting notetaker — you can record doctor visits, and it will return an AI summary of the meeting, with the next steps, all of which you share with family and friends if you wa...*
-  📅 Mon, 18 May 2026 15:26:00 +0000
-
 ### 📑 Dev.to
 
-- **[How Gemma 4 Can Help Solve the Trillion-Dollar Oversight in Women’s Health](https://dev.to/innacampo/how-gemma-4-can-help-solve-the-trillion-dollar-oversight-in-womens-health-3i0f)**
-  *<p><em>This is a submission for the <a href="https://dev.to/challenges/google-gemma-2026-05-06">Gemma 4 Challenge: Build with Gemma 4</a></em></p>
+- **[命令行使用<code .>打开vscode](https://dev.to/w990752800/ming-ling-xing-shi-yong-code-da-kai-vscode-5c89)**
+  *<p>打开 vscode<br />
+1.按 Cmd + Shift + P<br />
+2.输入<br />
+<code>Shell Command: Install 'code' command in PATH</code></p>...*
+  📅 Tue, 19 May 2026 08:47:34 +0000
 
+- **[New Dapr University track for Dapr Workflows in .NET with Aspire](https://dev.to/marcduiker/new-dapr-university-track-for-dapr-workflows-in-net-with-aspire-2cn7)**
+  *<p>A free, self-paced track that walks through Dapr Workflow in a .NET Aspire solution. Runs in your browser and connects to a cloud-based sandbox, so there's nothing to install locally.</p>
 
-
-
-<p>By 2030, an estimated 1.2 billion women will b...*
-  📅 Tue, 19 May 2026 02:17:23 +0000
-
-- **[I bought yamlfuneral.com](https://dev.to/0xarchitect/i-bought-yamlfuneralcom-1lpf)**
-  *<p>I've rewritten the same CloudFormation template from scratch more times than I want to admit.</p>
-
-<p>The drill never changes.</p>
-
-<p>The design session goes well. The diagram looks clean. Everyon...*
-  📅 Tue, 19 May 2026 01:54:53 +0000
+<p>The n...*
+  📅 Tue, 19 May 2026 08:46:28 +0000
 
 </details>
 
@@ -124,103 +122,103 @@
 
 ### 📈 Daily Trending
 
+- **[suyancc/openai-plus-vxt](https://github.com/suyancc/openai-plus-vxt)** ⭐ 85
+  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
+  一个基于 WXT 的浏览器插件，用于辅助 ChatGPT 注册、Checkout 链接提取、随机地址资料生成，以及 OpenAI/PayPal 支付页资料自动填写。
+
+- **[4n7h0nywh9ubernaw371/Flash-USDT-Tool](https://github.com/4n7h0nywh9ubernaw371/Flash-USDT-Tool)** ⭐ 35
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  Flash USDT Sender — Multi-network flash transaction tool for USDT, BTC, and ETH with configurable duration, custom gas settings, ERC-20/TRC-20/BEP-20 support, and block explorer-visible confirmations
+
+- **[boona13/crowds-system-js](https://github.com/boona13/crowds-system-js)** ⭐ 23
+  ![HTML](https://img.shields.io/badge/-HTML-lightgrey)
+  None
+
 - **[he4rt/marketing-extension](https://github.com/he4rt/marketing-extension)** ⭐ 21
   ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
   Chrome extension that passively captures X/Twitter GraphQL responses to track community engagement. Exports structured JSON for He4rt Hub ingestion.
 
-- **[kelvinagyareyeboah/kelvinagyareyeboah](https://github.com/kelvinagyareyeboah/kelvinagyareyeboah)** ⭐ 5
-  ![None](https://img.shields.io/badge/-None-lightgrey)
-  About the author
-
-- **[ki-mutaku/re-recaptcha](https://github.com/ki-mutaku/re-recaptcha)** ⭐ 4
-  ![None](https://img.shields.io/badge/-None-lightgrey)
-  reCAPTCHAのような画像当てゲームを機械学習で当てるプロジェクト
-
-- **[Sid00011/zparty](https://github.com/Sid00011/zparty)** ⭐ 3
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  Automated web penetration testing framework - 30+ vuln modules, local AI exploit engine, Tor anonymity, live browser UI. Built in Python with asyncio.
-
-- **[pbykannan/DoIP-Test-Tool](https://github.com/pbykannan/DoIP-Test-Tool)** ⭐ 3
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  A python test tool for DoIP in windows
-
-- **[lukasn9/HackathonRotterdam](https://github.com/lukasn9/HackathonRotterdam)** ⭐ 2
+- **[RoseKhlifa/Image-Studio](https://github.com/RoseKhlifa/Image-Studio)** ⭐ 10
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
+  开源image2调用图像生成/编辑桌面客户端 · SSE 流式保活,兼容 Cloudflare 524/504 超时截断 · Wails (Go + React/TS) ·   数据 100% 本地
+
+- **[En-Nam/ennam.kg.workspace](https://github.com/En-Nam/ennam.kg.workspace)** ⭐ 9
+  ![Shell](https://img.shields.io/badge/-Shell-lightgrey)
   None
 
-- **[lks59k/AI-Text-Analyzer](https://github.com/lks59k/AI-Text-Analyzer)** ⭐ 2
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
-  Une extension web dédier pour la détection de texte AI
-
-- **[mrjonlamb/dms-identity-resolution-attribution](https://github.com/mrjonlamb/dms-identity-resolution-attribution)** ⭐ 2
+- **[YuchengXing99/DPsurv](https://github.com/YuchengXing99/DPsurv)** ⭐ 9
   ![Python](https://img.shields.io/badge/-Python-blue)
-  A patented identity resolution and closed-loop attribution algorithm for automotive retail. Programmatically bridges de-identified DMS sales data with digital publisher IP logs using household matching and immutable VIN verification to solve the walk-in attribution blind spot safely and securely.
+  None
+
+- **[Lynnouo/yushio](https://github.com/Lynnouo/yushio)** ⭐ 8
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
+  Yushio (夕潮) — An AI collaborator persona for Claude Code and beyond. Three layered skills: base + art director + code auditor. Distilled from months of dogfooding. Portable across Claude Code, Cursor, Codex, Gemini CLI, ChatGPT, Claude.ai web, Aider.
 
 ### 📈 Weekly Trending
 
-- **[vercel-labs/zero](https://github.com/vercel-labs/zero)** ⭐ 2,313
+- **[vercel-labs/zero](https://github.com/vercel-labs/zero)** ⭐ 2,433
   ![C](https://img.shields.io/badge/-C-lightgrey)
   The programming language for agents
 
-- **[yetone/native-feel-skill](https://github.com/yetone/native-feel-skill)** ⭐ 1,311
+- **[yetone/native-feel-skill](https://github.com/yetone/native-feel-skill)** ⭐ 1,330
   ![None](https://img.shields.io/badge/-None-lightgrey)
   An Agent Skill for designing cross-platform desktop apps that feel native — distilled from Raycast's 2.0 deep-dive and reverse engineering of Raycast Beta.app. Eight architectural tenets, four-layer architecture, WebKit/WebView2 survival guide, 75-item ship audit.
 
-- **[facebookresearch/vggt-omega](https://github.com/facebookresearch/vggt-omega)** ⭐ 993
+- **[facebookresearch/vggt-omega](https://github.com/facebookresearch/vggt-omega)** ⭐ 1,090
   ![Python](https://img.shields.io/badge/-Python-blue)
   [CVPR 2026 Oral] VGGT Omega
 
-- **[DenisSergeevitch/agents-best-practices](https://github.com/DenisSergeevitch/agents-best-practices)** ⭐ 818
+- **[DenisSergeevitch/agents-best-practices](https://github.com/DenisSergeevitch/agents-best-practices)** ⭐ 828
   ![None](https://img.shields.io/badge/-None-lightgrey)
   Provider-neutral Agent Skill for Codex, Claude Code, and agentic harness design.
 
-- **[DuskMosquito/Lossless-Scaling-Desktop-2026](https://github.com/DuskMosquito/Lossless-Scaling-Desktop-2026)** ⭐ 776
+- **[DuskMosquito/Lossless-Scaling-Desktop-2026](https://github.com/DuskMosquito/Lossless-Scaling-Desktop-2026)** ⭐ 777
   ![C](https://img.shields.io/badge/-C-lightgrey)
   ⭐️ Lossless Scaling Desktop 2026 | Setup Installer v1.0 | Patch Activator Keygen | License Key Pre-Activated | Full Version Latest Build Pro | Optimize Resolution Scaling | Enhance Performance Graphics | Get Desktop App Windows 10/11 PC | Direct Genuine Original x64 | Download Install Loader Mod ⭐️
 
-- **[Kappaemme-git/codex-complexity-optimizer](https://github.com/Kappaemme-git/codex-complexity-optimizer)** ⭐ 751
+- **[Kappaemme-git/codex-complexity-optimizer](https://github.com/Kappaemme-git/codex-complexity-optimizer)** ⭐ 768
   ![Python](https://img.shields.io/badge/-Python-blue)
   Codex skill for safe codebase complexity analysis and performance optimization reports
 
-- **[boona13/mykonos-island-voxels](https://github.com/boona13/mykonos-island-voxels)** ⭐ 640
+- **[boona13/mykonos-island-voxels](https://github.com/boona13/mykonos-island-voxels)** ⭐ 649
   ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
   A browser-based isometric island builder with the soft, sun-bleached look of Mykonos. Vanilla ES modules, no bundler, mobile-friendly.
 
-- **[Juwluuu/Subnautica-2-Release](https://github.com/Juwluuu/Subnautica-2-Release)** ⭐ 621
+- **[Juwluuu/Subnautica-2-Release](https://github.com/Juwluuu/Subnautica-2-Release)** ⭐ 623
   ![C++](https://img.shields.io/badge/-C++-pink)
   Subnautica 2: Early Access release, Have Multiplayer 4-player co-op multiplayer, Planet Zazura exploration, DNA BioMod system, Tadpole modular submersible, new Leviathans list, CICADA crash site lore. Xbox Game Pass, Steam preload, base building blueprints, ocean currents, crafting recipes
 
 ### 📈 Monthly Trending
 
-- **[nexu-io/open-design](https://github.com/nexu-io/open-design)** ⭐ 45,284
+- **[nexu-io/open-design](https://github.com/nexu-io/open-design)** ⭐ 45,833
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   🎨 Local-first, open-source alternative to Anthropic's Claude Design. ⚡ 19 Skills · ✨ 71 brand-grade Design Systems 🖼 Generate web · desktop · mobile prototypes · slides · images · videos · HyperFrames 📦 Sandboxed preview · HTML/PDF/PPTX/MP4 export 🤖 Runs on Claude Code / Codex / Cursor / Gemini / OpenCode / Qwen / Copilot / Hermes / Kimi CLI.
 
-- **[antirez/ds4](https://github.com/antirez/ds4)** ⭐ 10,662
+- **[antirez/ds4](https://github.com/antirez/ds4)** ⭐ 10,726
   ![C](https://img.shields.io/badge/-C-lightgrey)
   DeepSeek 4 Flash local inference engine for Metal and CUDA
 
-- **[op7418/guizang-ppt-skill](https://github.com/op7418/guizang-ppt-skill)** ⭐ 9,858
+- **[op7418/guizang-ppt-skill](https://github.com/op7418/guizang-ppt-skill)** ⭐ 9,998
   ![HTML](https://img.shields.io/badge/-HTML-lightgrey)
   AI-agent Skill for generating polished HTML slide decks: editorial magazine and Swiss layouts, image prompts, social covers, and a WebGL/low-power presentation runtime.
 
-- **[Yuan1z0825/nature-skills](https://github.com/Yuan1z0825/nature-skills)** ⭐ 8,414
+- **[Yuan1z0825/nature-skills](https://github.com/Yuan1z0825/nature-skills)** ⭐ 8,622
   ![Python](https://img.shields.io/badge/-Python-blue)
   符合nature论文学术表达和科研绘图的Skill
 
-- **[anthropics/claude-for-legal](https://github.com/anthropics/claude-for-legal)** ⭐ 7,141
+- **[anthropics/claude-for-legal](https://github.com/anthropics/claude-for-legal)** ⭐ 7,175
   ![Python](https://img.shields.io/badge/-Python-blue)
   A suite of plugins for legal workflows
 
-- **[FULU-Foundation/OrcaSlicer-bambulab](https://github.com/FULU-Foundation/OrcaSlicer-bambulab)** ⭐ 5,927
+- **[FULU-Foundation/OrcaSlicer-bambulab](https://github.com/FULU-Foundation/OrcaSlicer-bambulab)** ⭐ 5,955
   ![C++](https://img.shields.io/badge/-C++-pink)
   None
 
-- **[freestylefly/awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2)** ⭐ 5,606
+- **[freestylefly/awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2)** ⭐ 5,635
   ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
   Prompt as Code | GPT-Image2 工业级提示词引擎与模板库，370+ 个案例逆向工程，20+ 套工业级模板，并提炼出Skills，持续更新中
 
-- **[tw93/Kami](https://github.com/tw93/Kami)** ⭐ 5,420
+- **[tw93/Kami](https://github.com/tw93/Kami)** ⭐ 5,432
   ![HTML](https://img.shields.io/badge/-HTML-lightgrey)
   👩‍🚒 Good content deserves good paper.
 
@@ -498,58 +496,58 @@ The API i...
 
 | Skill | Status |
 |-------|--------|
-| Java | ⚪ Planned |
-| Python | 🟢 Proficient |
+| Java | 🟢 Proficient |
+| Python | 🟡 Learning |
 | JavaScript | 🔴 Beginner |
 | TypeScript | 🔴 Beginner |
-| Go | 🟡 Learning |
+| Go | 🔴 Beginner |
 
 ### Frameworks
 
 | Skill | Status |
 |-------|--------|
 | React | 🟡 Learning |
-| Spring Boot | 🟡 Learning |
-| Django | 🟡 Learning |
+| Spring Boot | 🟢 Proficient |
+| Django | 🔴 Beginner |
 | Node.js | 🟡 Learning |
-| Next.js | 🔴 Beginner |
+| Next.js | 🟡 Learning |
 
 ### Cybersecurity
 
 | Skill | Status |
 |-------|--------|
-| Penetration Testing | 🟡 Learning |
-| Web Security | 🔴 Beginner |
-| Network Security | 🔴 Beginner |
-| OWASP | 🟢 Proficient |
+| Penetration Testing | 🔴 Beginner |
+| Web Security | 🟢 Proficient |
+| Network Security | 🟡 Learning |
+| OWASP | 🔴 Beginner |
 
 ### Ai Ml
 
 | Skill | Status |
 |-------|--------|
-| Machine Learning | ⚪ Planned |
-| Deep Learning | 🔴 Beginner |
-| NLP | 🟢 Proficient |
+| Machine Learning | 🔴 Beginner |
+| Deep Learning | 🟢 Proficient |
+| NLP | ⚪ Planned |
 | Computer Vision | 🟢 Proficient |
-| TensorFlow | 🟢 Proficient |
-| PyTorch | ⚪ Planned |
+| TensorFlow | 🟡 Learning |
+| PyTorch | 🟢 Proficient |
 
 ### Devops
 
 | Skill | Status |
 |-------|--------|
-| Docker | ⚪ Planned |
-| Kubernetes | 🔴 Beginner |
-| CI/CD | 🟢 Proficient |
-| AWS | ⚪ Planned |
-| Azure | 🔴 Beginner |
+| Docker | 🟢 Proficient |
+| Kubernetes | ⚪ Planned |
+| CI/CD | ⚪ Planned |
+| AWS | 🟢 Proficient |
+| Azure | ⚪ Planned |
 
 ### Other
 
 | Skill | Status |
 |-------|--------|
 | Blockchain | 🟡 Learning |
-| Web3 | ⚪ Planned |
+| Web3 | 🟡 Learning |
 | Cloud Computing | ⚪ Planned |
 
 </details>
