@@ -7,7 +7,7 @@
 ![AI & ML](https://img.shields.io/badge/-AI%20&%20ML-blue) ![CyberSecurity](https://img.shields.io/badge/-CyberSecurity-red) ![Full Stack Development](https://img.shields.io/badge/-Full%20Stack%20Development-green)
 
 [![Auto Update](https://img.shields.io/badge/Auto%20Update-Enabled-success)](https://github.com/yourusername/tech-dashboard/actions)
-[![Last Updated](https://img.shields.io/badge/Last%20Updated-May 19, 2026-blue)](https://github.com/yourusername/tech-dashboard)
+[![Last Updated](https://img.shields.io/badge/Last%20Updated-May 20, 2026-blue)](https://github.com/yourusername/tech-dashboard)
 
 *Automatically updated every 6 hours with the latest tech news, trending repositories, and learning resources.*
 
@@ -46,80 +46,73 @@
 
 ### 📑 Hacker News
 
-- **[Disney Erased FiveThirtyEight](https://www.natesilver.net/p/disney-erased-fivethirtyeight)**
-  *<p>Article URL: <a href="https://www.natesilver.net/p/disney-erased-fivethirtyeight">https://www.natesilver.net/p/disney-erased-fivethirtyeight</a></p>
-<p>Comments URL: <a href="https://news.ycombinat...*
-  📅 Tue, 19 May 2026 18:56:25 +0000
+- **[Railway Blocked by Google Cloud](https://status.railway.com/?date=20260519)**
+  *<p>Article URL: <a href="https://status.railway.com/?date=20260519">https://status.railway.com/?date=20260519</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=48201484">https://n...*
+  📅 Wed, 20 May 2026 00:23:54 +0000
 
-- **[Google changes its search box](https://blog.google/products-and-platforms/products/search/search-io-2026/)**
-  *<p><a href="https://www.nytimes.com/2026/05/19/business/google-seach-bar-ai-gemini.html?unlocked_article_code=1.jlA.95yh.ptfBUHf-rBtB&amp;smid=url-share" rel="nofollow">https://www.nytimes.com/2026/05...*
-  📅 Tue, 19 May 2026 18:34:27 +0000
+- **[GitHub is investigating unauthorized access to their internal repositories](https://twitter.com/github/status/2056884788179726685)**
+  *<p>Article URL: <a href="https://twitter.com/github/status/2056884788179726685">https://twitter.com/github/status/2056884788179726685</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/ite...*
+  📅 Wed, 20 May 2026 00:01:18 +0000
 
-- **[Deciphering the Hashihara Castle Town Map](https://www.obayashi.co.jp/en/kikan_obayashi/detail/kikan_64_project.html)**
-  *<p>Article URL: <a href="https://www.obayashi.co.jp/en/kikan_obayashi/detail/kikan_64_project.html">https://www.obayashi.co.jp/en/kikan_obayashi/detail/kikan_64_project.html</a></p>
-<p>Comments URL: <...*
-  📅 Tue, 19 May 2026 18:04:58 +0000
+- **[Remove–AI–Watermarks – CLI and library for removing AI watermarks from images](https://github.com/wiltodelta/remove-ai-watermarks)**
+  *<p>Article URL: <a href="https://github.com/wiltodelta/remove-ai-watermarks">https://github.com/wiltodelta/remove-ai-watermarks</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=4...*
+  📅 Tue, 19 May 2026 22:30:31 +0000
 
-- **['Capitalism has to become more humane': a Stanford economist on big tech](https://www.theguardian.com/books/2026/may/18/big-tech-monopolies-democracy-mordecai-kurz)**
-  *<p>Article URL: <a href="https://www.theguardian.com/books/2026/may/18/big-tech-monopolies-democracy-mordecai-kurz">https://www.theguardian.com/books/2026/may/18/big-tech-monopolies-democracy-mordecai...*
-  📅 Tue, 19 May 2026 17:57:22 +0000
+- **[OpenAI Adopts Google's SynthID Watermark for AI Images with Verification Tool](https://openai.com/index/advancing-content-provenance/)**
+  *<p>Article URL: <a href="https://openai.com/index/advancing-content-provenance/">https://openai.com/index/advancing-content-provenance/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/i...*
+  📅 Tue, 19 May 2026 19:34:30 +0000
 
-- **[Gemini Omni](https://deepmind.google/models/gemini-omni/)**
-  *<p>Article URL: <a href="https://deepmind.google/models/gemini-omni/">https://deepmind.google/models/gemini-omni/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=48196609">https...*
-  📅 Tue, 19 May 2026 17:46:19 +0000
+- **[Dumb ways for an open source project to die](https://nesbitt.io/2026/05/19/dumb-ways-for-an-open-source-project-to-die.html)**
+  *<p>Article URL: <a href="https://nesbitt.io/2026/05/19/dumb-ways-for-an-open-source-project-to-die.html">https://nesbitt.io/2026/05/19/dumb-ways-for-an-open-source-project-to-die.html</a></p>
+<p>Comme...*
+  📅 Tue, 19 May 2026 19:22:56 +0000
 
-- **[Gemini 3.5 Flash](https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-5/)**
-  *<p><a href="https://ai.google.dev/gemini-api/docs/models/gemini-3.5-flash" rel="nofollow">https://ai.google.dev/gemini-api/docs/models/gemini-3.5-flas...</a></p>
-<hr />
-<p>Comments URL: <a href="https...*
-  📅 Tue, 19 May 2026 17:43:45 +0000
+- **[Mistral AI acquires Emmi AI](https://www.emmi.ai/news/mistral-ai-acquires-emmi-ai)**
+  *<p>Article URL: <a href="https://www.emmi.ai/news/mistral-ai-acquires-emmi-ai">https://www.emmi.ai/news/mistral-ai-acquires-emmi-ai</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?...*
+  📅 Tue, 19 May 2026 19:14:12 +0000
 
 ### 📑 TechCrunch
 
-- **[Google takes a page out of Meta’s book, announces new audio-powered smart glasses](https://techcrunch.com/2026/05/19/google-takes-a-page-out-of-metas-book-announces-new-audio-powered-smart-glasses/)**
-  *Google is calling the new devices "audio glasses," in that users will be able to issue verbal commands to them and get things done via its ecosystem of apps and services, including Gemini....*
-  📅 Tue, 19 May 2026 19:15:31 +0000
+- **[Google just declared itself a contender in AI design at IO 2026](https://techcrunch.com/2026/05/19/ai-design-tools-are-the-next-big-battleground-and-google-is-going-all-in-at-io-2026/)**
+  *Google says it's designed the app to be accessible to everyone, from teachers to small business owners....*
+  📅 Tue, 19 May 2026 21:33:30 +0000
 
-- **[Google’s Genie world model can now simulate real streets with Street View](https://techcrunch.com/2026/05/19/googles-genie-world-model-can-now-simulate-real-streets-with-street-view/)**
-  *Google DeepMind is integrating Street View with Project Genie to create immersive, interactive world simulations for robotics, gaming, and travel, allowing users to explore environments, weather chang...*
-  📅 Tue, 19 May 2026 17:51:39 +0000
-
-- **[With Gemini 3.5 Flash, Google bets its next AI wave on agents, not chatbots](https://techcrunch.com/2026/05/19/with-gemini-3-5-flash-google-bets-its-next-ai-wave-on-agents-not-chatbots/)**
-  *Google launched Gemini 3.5 Flash, its most powerful coding and agentic AI model yet, at the company's annual developer conference. It is capable of autonomously executing complex tasks and building so...*
-  📅 Tue, 19 May 2026 17:51:30 +0000
-
-- **[How to use Google’s new information agents](https://techcrunch.com/2026/05/19/how-to-use-googles-new-information-agents/)**
-  *Google is launching AI-powered “information agents” that can monitor topics in the background and proactively alert users to updates and changes....*
-  📅 Tue, 19 May 2026 17:50:00 +0000
-
-- **[Google Search as you know it is over](https://techcrunch.com/2026/05/19/google-search-as-you-know-it-is-over/)**
-  *Google is transforming Search from a list of links into an AI-powered experience filled with conversational answers, autonomous agents, and interactive interfaces — a shift that could further reduce t...*
-  📅 Tue, 19 May 2026 17:46:00 +0000
-
-- **[Google’s AI now lets you talk to your Gmail inbox](https://techcrunch.com/2026/05/19/googles-ai-now-lets-you-talk-to-your-gmail-inbox/)**
+- **[You can now talk to your Gmail inbox, as seen at Google IO 2026](https://techcrunch.com/2026/05/19/you-can-now-talk-to-your-gmail-inbox-as-seen-at-google-io-2026/)**
   *Google expands Gmail’s AI Inbox with conversational voice search, letting users ask Gemini to find buried email details....*
-  📅 Tue, 19 May 2026 17:45:00 +0000
+  📅 Tue, 19 May 2026 21:25:31 +0000
+
+- **[How to use Google’s new AI agents to go beyond your standard searches](https://techcrunch.com/2026/05/19/how-to-use-googles-new-ai-agents-to-go-beyond-your-standard-searches/)**
+  *Google is launching AI-powered “information agents” that can monitor topics in the background and proactively alert users to updates and changes....*
+  📅 Tue, 19 May 2026 21:16:25 +0000
+
+- **[Discord enables end-to-end encrypted voice and video calling for every user](https://techcrunch.com/2026/05/19/discord-enables-end-to-end-encrypted-voice-and-video-calling-for-every-user/)**
+  *Good news! Discord's hundreds of millions of users now have their communications scrambled, so not even Discord can see them....*
+  📅 Tue, 19 May 2026 21:14:08 +0000
+
+- **[Mach Industries just spent $50M to solve a major defense tech problem](https://techcrunch.com/2026/05/19/mach-industries-just-spent-50m-to-solve-a-major-defense-tech-problem/)**
+  *Mach says the acquisition meaningfully improves unit economics across its five vehicle programs at exactly the moment the company is starting to scale....*
+  📅 Tue, 19 May 2026 21:09:56 +0000
+
+- **[From teen hacker to Iron Dome researcher, this founder raised $28M to fight AI phishing](https://techcrunch.com/2026/05/19/from-teen-hacker-to-iron-dome-researcher-this-founder-raised-28m-to-fight-ai-phishing/)**
+  *Ocean, an agentic email security platform, claims its AI can thoroughly analyze the context of every incoming email to detect fraud and impersonation attempts....*
+  📅 Tue, 19 May 2026 21:08:51 +0000
 
 ### 📑 Dev.to
 
-- **[Gemma-San — A Teacher in Every Pocket.](https://dev.to/thecodedaniel/gemma-san-a-teacher-in-every-pocket-16g6)**
-  *<p><em>This is a submission for the <a href="https://dev.to/challenges/google-gemma-2026-05-06">Gemma 4 Challenge: Build with Gemma 4</a></em></p>
+- **["How I discovered a hidden 146W power draw on NVIDIA A100 GPUs (and built an open‑source fix)”](https://dev.to/mikebains41debug/how-i-discovered-a-hidden-146w-power-draw-on-nvidia-a100-gpus-and-built-an-open-source-fix-1n8h)**
+  *<p><strong>How I discovered a hidden 146W power draw on NVIDIA A100 GPUs (and built an open‑source fix)</strong></p>
 
-<h2>
-  
-  
-  What I Built
-</h2>
+<p><em>TL;DR: <code>nvidia-smi</code> reported 0% utilization, but the GPU was dra...*
+  📅 Wed, 20 May 2026 02:17:23 +0000
 
-<p><strong>Gemma-Sa...*
-  📅 Tue, 19 May 2026 19:33:57 +0000
-
-- **[The top 15 developer productivity tools in 2026](https://dev.to/coderabbitai/the-top-15-developer-productivity-tools-in-2026-1nb6)**
-  *<p><em>Meta: Discover the 15 best developer productivity tools in 2026. Compare AI coding agents, automation, code review, and engineering intelligence platforms.</em></p>
-
-<p>The rise of developer pr...*
-  📅 Tue, 19 May 2026 19:31:08 +0000
+- **[How to use feature flags in JavaScript and TypeScript](https://dev.to/flaggy/how-to-use-feature-flags-in-javascript-and-typescript-9k7)**
+  *<p>A practical guide to implementing <a href="https://flaggy.io/features/flags/" rel="noopener noreferrer">feature flags</a> in JS/TS: what they are, when to use them, and how to avoid the traps that ...*
+  📅 Wed, 20 May 2026 02:17:00 +0000
 
 </details>
 
@@ -127,41 +120,41 @@
 
 ### 📈 Daily Trending
 
-- **[Glazenovatag/hyperliquid-whale-order-tracking](https://github.com/Glazenovatag/hyperliquid-whale-order-tracking)** ⭐ 324
+- **[6c696e68/gpt_signup_hybrid](https://github.com/6c696e68/gpt_signup_hybrid)** ⭐ 8
   ![Python](https://img.shields.io/badge/-Python-blue)
-  A real, working Hyperliquid whale tracker not a placeholder. The synthetic-message test passed and the WebSocket subscribe / reconnect logic was verified live.
+  None
 
-- **[littlefrogyq/UE4SS-Subnautica-2](https://github.com/littlefrogyq/UE4SS-Subnautica-2)** ⭐ 202
-  ![C++](https://img.shields.io/badge/-C++-pink)
-  UE4SS Subnautica 2: UE4SS download github latest version, Subnautica 2 UE5 mod loader setup, xinput1_4.dll dwmapi.dll injector error. REUE4SS UE4SS-settings.ini config, console modding commands, Subnautica 2 crashes on launch fix, dump SDK C++ blueprints, Live Viewport object spacer, GuiConsole visible toggle. Unreal Engine 5.5 compatibility,
+- **[1TDSPY-26/front-1sem-aula-05](https://github.com/1TDSPY-26/front-1sem-aula-05)** ⭐ 7
+  ![HTML](https://img.shields.io/badge/-HTML-lightgrey)
+  None
 
-- **[nhutdang198/AI-Final-fantasy-6-remake](https://github.com/nhutdang198/AI-Final-fantasy-6-remake)** ⭐ 190
-  ![C++](https://img.shields.io/badge/-C++-pink)
-  ai final fantasy 6 remake: Release download free github fan made game pcwatch viral 3d trailer, , hironobu sakaguchi awesome tweet reaction, square enix 20 years kitase. desusanJP x video, sabin phantom train suplex ai, tina terra theme bgm teaser, ai slop controversy reddit, akitoshi kawazu response, play pixel remaster hd graphics mod.
+- **[renatogroffe/kubernetes-mcp-vscode-githubcopilot](https://github.com/renatogroffe/kubernetes-mcp-vscode-githubcopilot)** ⭐ 3
+  ![None](https://img.shields.io/badge/-None-lightgrey)
+  Configurações para uso do MCP Server do Kubernetes (npm) com Visual Studio Code + GitHub Copilot. 
 
-- **[bishopscode/Yoshi-and-the-Mysterious-Book-PC](https://github.com/bishopscode/Yoshi-and-the-Mysterious-Book-PC)** ⭐ 170
-  ![C#](https://img.shields.io/badge/-C#-lightgrey)
-  Yoshi and the Mysterious Book review metacritic release date PC: download yoshi game ryujinx yuzu emulator config, yosshī to fukashigi no zukan rom, prod keys title keys zip. nintendo switch 2 emulator pc, shaders cache free download, fitgirl repack  rumors, good-feel mr e encyclopedia, controls mapping keyboard, 60 fps hack mo
+- **[y-g-jiang/Jiangtherapee-sony-compressed-raw-hq-decoder](https://github.com/y-g-jiang/Jiangtherapee-sony-compressed-raw-hq-decoder)** ⭐ 3
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  None
 
-- **[FoundZiGu/GuJumpgate](https://github.com/FoundZiGu/GuJumpgate)** ⭐ 160
+- **[James-Kabingu/Ganji-Protocol](https://github.com/James-Kabingu/Ganji-Protocol)** ⭐ 2
+  ![None](https://img.shields.io/badge/-None-lightgrey)
+  A forex manipulation detection and signal intelligence system for East African currency markets. Detects central bank intervention and institutional manipulation in KES, UGX, TZS, and RWF pairs.
+
+- **[xxxEEEilish/edu_rag](https://github.com/xxxEEEilish/edu_rag)** ⭐ 2
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  Retrieve Knowledge, Empower Learning.
+
+- **[qwe605052330/claduio](https://github.com/qwe605052330/claduio)** ⭐ 2
   ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
   None
 
-- **[SalhaNabil/CloakBrowser](https://github.com/SalhaNabil/CloakBrowser)** ⭐ 154
-  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
-  CloakBrowser Github: anti-detect browser download, source-level chromium patches, browser fingerprinting spoofing, multi-accounting tool, canvas webgl modification, proxy manager http socks5, cookie isolation, session import export, user-agent switcher, puppeteer playwright automation api, profile sharing, web scraping free, github 
-
-- **[suyancc/openai-plus-vxt](https://github.com/suyancc/openai-plus-vxt)** ⭐ 146
-  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
-  一个基于 WXT 的浏览器插件，用于辅助 ChatGPT 注册、Checkout 链接提取、随机地址资料生成，以及 OpenAI/PayPal 支付页资料自动填写。
-
-- **[redteamfortress/PhantomKiller](https://github.com/redteamfortress/PhantomKiller)** ⭐ 41
-  ![C++](https://img.shields.io/badge/-C++-pink)
-  Another BYOVD process killer. works on all EDR's. fully signed.
+- **[dajun666/schoology-mcp](https://github.com/dajun666/schoology-mcp)** ⭐ 2
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  mcp for schoology--specifically for PAUSD
 
 ### 📈 Weekly Trending
 
-- **[vercel-labs/zero](https://github.com/vercel-labs/zero)** ⭐ 2,988
+- **[vercel-labs/zerolang](https://github.com/vercel-labs/zerolang)** ⭐ 3,289
   ![C](https://img.shields.io/badge/-C-lightgrey)
   The programming language for agents
 
@@ -169,15 +162,15 @@
   ![None](https://img.shields.io/badge/-None-lightgrey)
   An Agent Skill for designing cross-platform desktop apps that feel native — distilled from Raycast's 2.0 deep-dive and reverse engineering of Raycast Beta.app. Eight architectural tenets, four-layer architecture, WebKit/WebView2 survival guide, 75-item ship audit.
 
-- **[facebookresearch/vggt-omega](https://github.com/facebookresearch/vggt-omega)** ⭐ 1,197
+- **[facebookresearch/vggt-omega](https://github.com/facebookresearch/vggt-omega)** ⭐ 1,230
   ![Python](https://img.shields.io/badge/-Python-blue)
   [CVPR 2026 Oral] VGGT Omega
 
-- **[DenisSergeevitch/agents-best-practices](https://github.com/DenisSergeevitch/agents-best-practices)** ⭐ 843
+- **[DenisSergeevitch/agents-best-practices](https://github.com/DenisSergeevitch/agents-best-practices)** ⭐ 854
   ![None](https://img.shields.io/badge/-None-lightgrey)
   Provider-neutral Agent Skill for Codex, Claude Code, and agentic harness design.
 
-- **[Kappaemme-git/codex-complexity-optimizer](https://github.com/Kappaemme-git/codex-complexity-optimizer)** ⭐ 784
+- **[Kappaemme-git/codex-complexity-optimizer](https://github.com/Kappaemme-git/codex-complexity-optimizer)** ⭐ 788
   ![Python](https://img.shields.io/badge/-Python-blue)
   Codex skill for safe codebase complexity analysis and performance optimization reports
 
@@ -185,47 +178,47 @@
   ![C](https://img.shields.io/badge/-C-lightgrey)
   ⭐️ Lossless Scaling Desktop 2026 | Setup Installer v1.0 | Patch Activator Keygen | License Key Pre-Activated | Full Version Latest Build Pro | Optimize Resolution Scaling | Enhance Performance Graphics | Get Desktop App Windows 10/11 PC | Direct Genuine Original x64 | Download Install Loader Mod ⭐️
 
-- **[Doorman11991/smallcode](https://github.com/Doorman11991/smallcode)** ⭐ 690
+- **[Doorman11991/smallcode](https://github.com/Doorman11991/smallcode)** ⭐ 730
   ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
   AI coding agent optimized for small LLMs. 87% benchmark with 4B-active model.
 
-- **[boona13/mykonos-island-voxels](https://github.com/boona13/mykonos-island-voxels)** ⭐ 656
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
-  A browser-based isometric island builder with the soft, sun-bleached look of Mykonos. Vanilla ES modules, no bundler, mobile-friendly.
+- **[cdanielc293/Jenny-Mod-All-Versions](https://github.com/cdanielc293/Jenny-Mod-All-Versions)** ⭐ 670
+  ![C#](https://img.shields.io/badge/-C#-lightgrey)
+  Jenny Mod: Minecraft 1.12.2 Java download, Bedrock addon, Pocket Edition PE mcpack, Android APK. SchnuriTV original, Ellie companion, Slime Girl. Forge loader setup, Fabric port, custom animations, interactive skins. Installation guide, dependency files, .jar download, crash fix, portable.
 
 ### 📈 Monthly Trending
 
-- **[nexu-io/open-design](https://github.com/nexu-io/open-design)** ⭐ 46,517
+- **[nexu-io/open-design](https://github.com/nexu-io/open-design)** ⭐ 46,793
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   🎨 Local-first, open-source alternative to Anthropic's Claude Design. ⚡ 19 Skills · ✨ 71 brand-grade Design Systems 🖼 Generate web · desktop · mobile prototypes · slides · images · videos · HyperFrames 📦 Sandboxed preview · HTML/PDF/PPTX/MP4 export 🤖 Runs on Claude Code / Codex / Cursor / Gemini / OpenCode / Qwen / Copilot / Hermes / Kimi CLI.
 
-- **[antirez/ds4](https://github.com/antirez/ds4)** ⭐ 10,805
+- **[antirez/ds4](https://github.com/antirez/ds4)** ⭐ 10,847
   ![C](https://img.shields.io/badge/-C-lightgrey)
   DeepSeek 4 Flash local inference engine for Metal and CUDA
 
-- **[op7418/guizang-ppt-skill](https://github.com/op7418/guizang-ppt-skill)** ⭐ 10,270
+- **[op7418/guizang-ppt-skill](https://github.com/op7418/guizang-ppt-skill)** ⭐ 10,348
   ![HTML](https://img.shields.io/badge/-HTML-lightgrey)
   AI-agent Skill for generating polished HTML slide decks: editorial magazine and Swiss layouts, image prompts, social covers, and a WebGL/low-power presentation runtime.
 
-- **[Yuan1z0825/nature-skills](https://github.com/Yuan1z0825/nature-skills)** ⭐ 8,860
+- **[Yuan1z0825/nature-skills](https://github.com/Yuan1z0825/nature-skills)** ⭐ 8,909
   ![Python](https://img.shields.io/badge/-Python-blue)
   符合nature论文学术表达和科研绘图的Skill
 
-- **[anthropics/claude-for-legal](https://github.com/anthropics/claude-for-legal)** ⭐ 7,235
+- **[anthropics/claude-for-legal](https://github.com/anthropics/claude-for-legal)** ⭐ 7,259
   ![Python](https://img.shields.io/badge/-Python-blue)
   A suite of plugins for legal workflows
 
-- **[FULU-Foundation/OrcaSlicer-bambulab](https://github.com/FULU-Foundation/OrcaSlicer-bambulab)** ⭐ 6,031
+- **[FULU-Foundation/OrcaSlicer-bambulab](https://github.com/FULU-Foundation/OrcaSlicer-bambulab)** ⭐ 6,068
   ![C++](https://img.shields.io/badge/-C++-pink)
   None
 
-- **[freestylefly/awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2)** ⭐ 5,654
+- **[freestylefly/awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2)** ⭐ 5,663
   ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
   Prompt as Code | GPT-Image2 工业级提示词引擎与模板库，370+ 个案例逆向工程，20+ 套工业级模板，并提炼出Skills，持续更新中
 
-- **[tw93/Kami](https://github.com/tw93/Kami)** ⭐ 5,450
-  ![HTML](https://img.shields.io/badge/-HTML-lightgrey)
-  👩‍🚒 Good content deserves good paper.
+- **[ConardLi/garden-skills](https://github.com/ConardLi/garden-skills)** ⭐ 5,386
+  ![CSS](https://img.shields.io/badge/-CSS-lightgrey)
+  ConardLi's open-source Skills collection, featuring web design, knowledge retrieval, image generation, and more.
 
 ## 🚀 Latest Releases
 
@@ -501,58 +494,58 @@ The API i...
 
 | Skill | Status |
 |-------|--------|
-| Java | 🟡 Learning |
-| Python | 🟡 Learning |
+| Java | 🟢 Proficient |
+| Python | 🟢 Proficient |
 | JavaScript | 🟢 Proficient |
-| TypeScript | 🔴 Beginner |
+| TypeScript | ⚪ Planned |
 | Go | 🟢 Proficient |
 
 ### Frameworks
 
 | Skill | Status |
 |-------|--------|
-| React | 🟢 Proficient |
-| Spring Boot | 🟡 Learning |
-| Django | ⚪ Planned |
-| Node.js | 🟡 Learning |
-| Next.js | 🔴 Beginner |
+| React | 🔴 Beginner |
+| Spring Boot | 🔴 Beginner |
+| Django | 🟡 Learning |
+| Node.js | 🟢 Proficient |
+| Next.js | 🟡 Learning |
 
 ### Cybersecurity
 
 | Skill | Status |
 |-------|--------|
-| Penetration Testing | 🟢 Proficient |
-| Web Security | ⚪ Planned |
-| Network Security | ⚪ Planned |
+| Penetration Testing | ⚪ Planned |
+| Web Security | 🟢 Proficient |
+| Network Security | 🟢 Proficient |
 | OWASP | 🔴 Beginner |
 
 ### Ai Ml
 
 | Skill | Status |
 |-------|--------|
-| Machine Learning | 🟡 Learning |
-| Deep Learning | 🟡 Learning |
+| Machine Learning | 🔴 Beginner |
+| Deep Learning | ⚪ Planned |
 | NLP | 🟡 Learning |
-| Computer Vision | ⚪ Planned |
-| TensorFlow | 🔴 Beginner |
-| PyTorch | ⚪ Planned |
+| Computer Vision | 🔴 Beginner |
+| TensorFlow | 🟡 Learning |
+| PyTorch | 🟡 Learning |
 
 ### Devops
 
 | Skill | Status |
 |-------|--------|
-| Docker | 🟢 Proficient |
+| Docker | 🟡 Learning |
 | Kubernetes | 🟡 Learning |
-| CI/CD | 🔴 Beginner |
-| AWS | ⚪ Planned |
+| CI/CD | 🟢 Proficient |
+| AWS | 🔴 Beginner |
 | Azure | 🟡 Learning |
 
 ### Other
 
 | Skill | Status |
 |-------|--------|
-| Blockchain | 🟢 Proficient |
-| Web3 | 🟢 Proficient |
+| Blockchain | 🟡 Learning |
+| Web3 | ⚪ Planned |
 | Cloud Computing | 🟡 Learning |
 
 </details>
@@ -571,7 +564,7 @@ This dashboard is automatically updated every 6 hours using GitHub Actions. The 
 
 <div align="center">
 
-**Last Updated:** May 19, 2026
+**Last Updated:** May 20, 2026
 
 Made with ❤️ and automated with GitHub Actions
 
