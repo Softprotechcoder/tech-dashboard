@@ -20,7 +20,7 @@
 | Metric | Count |
 |--------|-------|
 | 📰 Latest News Articles | 26 |
-| 🔥 Trending Repositories | 45 |
+| 🔥 Trending Repositories | 30 |
 | 🎯 Latest Releases | 10 |
 | 🎯 Learning Goals | 4 |
 
@@ -46,70 +46,77 @@
 
 ### 📑 Hacker News
 
-- **[Typewise (YC S22) Is Hiring an AI Growth Engineer (Zurich or Remote)](https://www.ycombinator.com/companies/typewise/jobs/HmCzfBK-ai-growth-engineer)**
-  *<p>Article URL: <a href="https://www.ycombinator.com/companies/typewise/jobs/HmCzfBK-ai-growth-engineer">https://www.ycombinator.com/companies/typewise/jobs/HmCzfBK-ai-growth-engineer</a></p>
-<p>Comme...*
-  📅 Thu, 21 May 2026 08:01:53 +0000
+- **[Google's Antigravity Bait and Switch](https://www.0xsid.com/blog/antigravity-bait-n-switch)**
+  *<p>Article URL: <a href="https://www.0xsid.com/blog/antigravity-bait-n-switch">https://www.0xsid.com/blog/antigravity-bait-n-switch</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?...*
+  📅 Thu, 21 May 2026 13:50:59 +0000
 
-- **[Vivaldi 8.0](https://vivaldi.com/blog/vivaldi-on-desktop-8-0/)**
-  *<p>Article URL: <a href="https://vivaldi.com/blog/vivaldi-on-desktop-8-0/">https://vivaldi.com/blog/vivaldi-on-desktop-8-0/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=48219...*
-  📅 Thu, 21 May 2026 07:21:55 +0000
+- **[AI is just unauthorised plagiarism at a bigger scale](https://axelk.ee/ai-is-just-unauthorised-plagiarism-at-a-bigger-scale/)**
+  *<p>Article URL: <a href="https://axelk.ee/ai-is-just-unauthorised-plagiarism-at-a-bigger-scale/">https://axelk.ee/ai-is-just-unauthorised-plagiarism-at-a-bigger-scale/</a></p>
+<p>Comments URL: <a href...*
+  📅 Thu, 21 May 2026 13:38:12 +0000
 
-- **[Haskell Foundation 2026 Update](https://discourse.haskell.org/t/haskell-foundation-2026-update/14136)**
-  *<p>Article URL: <a href="https://discourse.haskell.org/t/haskell-foundation-2026-update/14136">https://discourse.haskell.org/t/haskell-foundation-2026-update/14136</a></p>
-<p>Comments URL: <a href="ht...*
-  📅 Thu, 21 May 2026 02:13:23 +0000
+- **[Hating AI Is Good](https://www.thehandbasket.co/p/hating-ai-is-good-actually)**
+  *<p>Article URL: <a href="https://www.thehandbasket.co/p/hating-ai-is-good-actually">https://www.thehandbasket.co/p/hating-ai-is-good-actually</a></p>
+<p>Comments URL: <a href="https://news.ycombinator...*
+  📅 Thu, 21 May 2026 13:36:06 +0000
 
-- **[What is a Demand Coop](https://cahootzcoops.com/blog/what-is-a-demand-coop)**
-  *<p>Article URL: <a href="https://cahootzcoops.com/blog/what-is-a-demand-coop">https://cahootzcoops.com/blog/what-is-a-demand-coop</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id...*
-  📅 Thu, 21 May 2026 01:20:52 +0000
+- **[US employers spend more than $1.5B a year to fight labor unions, report finds](https://www.theguardian.com/us-news/2026/may/20/how-much-companies-spend-fight-unions)**
+  *<p>Article URL: <a href="https://www.theguardian.com/us-news/2026/may/20/how-much-companies-spend-fight-unions">https://www.theguardian.com/us-news/2026/may/20/how-much-companies-spend-fight-unions</a...*
+  📅 Thu, 21 May 2026 13:25:41 +0000
 
-- **[Intuit to lay off over 3k employees to refocus on AI](https://techcrunch.com/2026/05/20/intuit-to-lay-off-over-3000-employees-to-refocus-on-ai/)**
-  *<p>Article URL: <a href="https://techcrunch.com/2026/05/20/intuit-to-lay-off-over-3000-employees-to-refocus-on-ai/">https://techcrunch.com/2026/05/20/intuit-to-lay-off-over-3000-employees-to-refocus-o...*
-  📅 Thu, 21 May 2026 00:36:01 +0000
+- **[Magic the Gathering format: Fun 40](https://fabiensanglard.net/mtg/fun//index.html)**
+  *<p>Article URL: <a href="https://fabiensanglard.net/mtg/fun//index.html">https://fabiensanglard.net/mtg/fun//index.html</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=48222105"...*
+  📅 Thu, 21 May 2026 13:13:36 +0000
 
-- **[The Letter S, by Donald Knuth (1980) [pdf]](https://gwern.net/doc/design/typography/1980-knuth.pdf)**
-  *<p>Article URL: <a href="https://gwern.net/doc/design/typography/1980-knuth.pdf">https://gwern.net/doc/design/typography/1980-knuth.pdf</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/i...*
-  📅 Wed, 20 May 2026 23:58:51 +0000
+- **[A Bipartisan Amendment Would End Police License Plate Tracking Nationwide](https://www.wired.com/story/a-bipartisan-amendment-would-end-police-license-plate-tracking-nationwide/)**
+  *<p>Article URL: <a href="https://www.wired.com/story/a-bipartisan-amendment-would-end-police-license-plate-tracking-nationwide/">https://www.wired.com/story/a-bipartisan-amendment-would-end-police-lic...*
+  📅 Thu, 21 May 2026 12:58:18 +0000
 
 ### 📑 TechCrunch
 
-- **[Truecaller gets into the eSIM business to diversify its revenue streams](https://techcrunch.com/2026/05/20/truecaller-gets-into-the-esim-business-to-diversify-its-revenue-streams/)**
-  *The company said its plans will range from 1 GB over 7 days to 20 GB over 30 days. Initially, the launch will make the eSIM product available in 29 countries....*
-  📅 Thu, 21 May 2026 06:00:00 +0000
+- **[Waymo pauses Atlanta service as its robotaxis keep driving into floods](https://techcrunch.com/2026/05/21/waymo-pauses-atlanta-service-as-its-robotaxis-keep-driving-into-floods/)**
+  *Waymo's robotaxi service is now suspended in both Atlanta and San Antonio, as the company works to stop its vehicles from driving into flooded roads....*
+  📅 Thu, 21 May 2026 14:27:46 +0000
 
-- **[General Catalyst just led a $63M bet on India’s travel payments market](https://techcrunch.com/2026/05/20/indian-travel-fintech-scapia-more-than-doubles-valuation-to-over-500m-in-a-year/)**
-  *Scapia, an Indian startup that combines travel booking with co-branded credit cards and mobile payments, said the deal doubles its valuation....*
-  📅 Thu, 21 May 2026 05:52:38 +0000
+- **[The Path, founded by Tony Robbins and Calm alums, hopes to offer safer AI therapy](https://techcrunch.com/2026/05/21/the-path-founded-by-tony-robbins-and-calm-alums-wants-to-offer-safer-ai-therapy/)**
+  *The Path says its AI model has scored 95 on the mental health safety AI benchmark, Vera-MH. This compares to a top score of 65 for the consumer bots....*
+  📅 Thu, 21 May 2026 14:00:00 +0000
 
-- **[Imperagen raises £5 million to use quantum physics, AI on enzyme engineering](https://techcrunch.com/2026/05/20/imperagen-raises-5-million-to-redefine-enzyme-engineering/)**
-  *Biotech company Imperagen announced on Thursday a £5 million ($6.7 million) seed round led by PXN Ventures, with participation from IQ Capital and Northern Gritstone....*
-  📅 Thu, 21 May 2026 04:00:00 +0000
+- **[Hark raises $700M Series A for its secretive “universal” AI interface](https://techcrunch.com/2026/05/21/hark-raises-700m-series-a-for-its-secretive-universal-ai-interface/)**
+  *Brett Adcock's new AI startup is now valued at $6 billion by its investors....*
+  📅 Thu, 21 May 2026 14:00:00 +0000
 
-- **[Jensen Huang says he’s found a ‘brand new’ $200B market for Nvidia](https://techcrunch.com/2026/05/20/jensen-huang-says-hes-found-a-brand-new-200b-market-for-nvidia/)**
-  *The next big thing for Nvidia will be CPUs for AI agents, $200 billion worth, CEO Jensen Huang predicts....*
-  📅 Thu, 21 May 2026 00:28:31 +0000
+- **[Maka Kids is redefining kids’ screen time with a streaming app optimized for well-being, not engagement](https://techcrunch.com/2026/05/21/maka-kids-is-redefining-kids-screen-time-with-a-streaming-app-optimized-for-well-being-not-engagement/)**
+  *Maka Kids is building a streaming app for children ages zero to six featuring content designed for healthy development. The startup has now raised $3 million in seed funding to scale its platform....*
+  📅 Thu, 21 May 2026 14:00:00 +0000
 
-- **[Anthropic says it’s about to have its first profitable quarter](https://techcrunch.com/2026/05/20/anthropic-says-its-about-to-have-its-first-profitable-quarter/)**
-  *Anthropic has told its investors that it will more than double revenue to around $10.9 billion in its second quarter....*
-  📅 Thu, 21 May 2026 00:21:21 +0000
+- **[Google is pitching an AI agent ecosystem to consumers who may not buy it](https://techcrunch.com/2026/05/21/google-is-pitching-an-ai-agent-ecosystem-to-consumers-who-may-not-buy-it/)**
+  *The AI agents are coming. A lot of them....*
+  📅 Thu, 21 May 2026 13:52:23 +0000
 
-- **[The SpaceX IPO filing is filled with AI bets, Starship dreams, and Elon Musk at the center](https://techcrunch.com/2026/05/20/the-spacex-ipo-filing-ai-bets-starship-dreams-elon-musk/)**
-  *SpaceX has finally made the contents of its IPO filing public, weeks ahead of what is expected to be the largest IPO ever and one that will make Musk the CEO, CTO, and chairman of the board....*
-  📅 Wed, 20 May 2026 23:03:02 +0000
+- **[Wayve’s self-driving tech is headed to US cars made by Stellantis](https://techcrunch.com/2026/05/21/wayves-self-driving-tech-is-headed-to-us-cars-made-by-stellantis/)**
+  *Wayve's self-driving tech will show up in Stellantis vehicles in 2028....*
+  📅 Thu, 21 May 2026 13:46:07 +0000
 
 ### 📑 Dev.to
 
-- **[Como Usar Qwen 3.7 Grátis?](https://dev.to/lucas_ferreira/como-usar-qwen-37-gratis-27ej)**
-  *<p>A Alibaba lançou o Qwen 3.7 discretamente. Os modelos de prévia <code>Qwen3.7-Max-Preview</code> e <code>Qwen3.7-Plus-Preview</code> apareceram primeiro em uma arena pública de modelos em 14 de mai...*
-  📅 Thu, 21 May 2026 08:57:25 +0000
+- **[How Stripe Took 48 Hours and 3 API Calls to Break My Freelance Income Stream in Lagos](https://dev.to/global-creator-lab/how-stripe-took-48-hours-and-3-api-calls-to-break-my-freelance-income-stream-in-lagos-25d9)**
+  *<h2>
+  
+  
+  The Problem We Were Actually Solving
+</h2>
 
-- **[I turned my daily job hunt into a semi-automated workflow in Cursor.](https://dev.to/buildandcodewithraman/i-turned-my-daily-job-hunt-into-a-semi-automated-workflow-in-cursor-5ahm)**
-  *<p>Every morning used to look the same: scroll LinkedIn alerts -&gt; open a JD  -&gt; tailor my resume -&gt; Easy Apply or an external form -&gt; repeat. Lots of context-switching, easy to miss steps,...*
-  📅 Thu, 21 May 2026 08:56:34 +0000
+<p>I freelanced full-time for a US-based crypto startup that paid monthly via PayPal. The first transfer of $6,400 arrived in March 2024. By th...*
+  📅 Thu, 21 May 2026 14:32:53 +0000
+
+- **[Pretty normal](https://dev.to/ben/pretty-normal-1893)**
+  *<div class="ltag__link--embedded">
+  <div class="crayons-story ">
+  <a class="crayons-story__hidden-navigation-link" href="https://dev.to/harsh2644/i-used-to-get-excited-about-new-tools-now-i-feel-tir...*
+  📅 Thu, 21 May 2026 14:30:16 +0000
 
 </details>
 
@@ -117,105 +124,71 @@
 
 ### 📈 Daily Trending
 
-- **[jazzband/web3-devkit-cli](https://github.com/jazzband/web3-devkit-cli)** ⭐ 43
+- **[zzzhhh1/mg-Koyeb](https://github.com/zzzhhh1/mg-Koyeb)** ⭐ 96
+  ![Shell](https://img.shields.io/badge/-Shell-lightgrey)
+  基于 Koyeb + Cloudflare Argo 隧道的 VLESS 安全单兵节点，详细纯小白视频教程，点击下方视频链接
+
+- **[jazzband/web3-devkit-cli](https://github.com/jazzband/web3-devkit-cli)** ⭐ 94
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   Web3 DevKit is an open-source CLI that helps developers bootstrap dApps, generate smart contracts, test RPCs, manage wallets, deploy contracts, and monitor on-chain activity across EVM and Solana.
 
-- **[YinqiBai962/D-ARL](https://github.com/YinqiBai962/D-ARL)** ⭐ 24
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  None
-
-- **[Margele/OpenZen](https://github.com/Margele/OpenZen)** ⭐ 20
+- **[Margele/OpenZen](https://github.com/Margele/OpenZen)** ⭐ 53
   ![Java](https://img.shields.io/badge/-Java-orange)
-  打不过Zen
+  打得过Zen
 
-- **[Eynzof/hermes-agent-cn-desktop](https://github.com/Eynzof/hermes-agent-cn-desktop)** ⭐ 18
-  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
-  Hermes Agent CN desktop app, Windows-First, built with Tauri, Typescript and Rust
-
-- **[jiangmuran/claude-in-box](https://github.com/jiangmuran/claude-in-box)** ⭐ 16
-  ![Go](https://img.shields.io/badge/-Go-cyan)
-  Portable Claude Code dev environment in a Docker container — multi-session, hook-driven, web-managed, with transparent SOCKS5. Runs on a Raspberry Pi.
-
-- **[haiquanlu/Mix-Quant](https://github.com/haiquanlu/Mix-Quant)** ⭐ 15
+- **[zqbxdev/webchat2api](https://github.com/zqbxdev/webchat2api)** ⭐ 52
   ![Python](https://img.shields.io/badge/-Python-blue)
-  None
+  OpenAI-compatible Web Chat API proxy with GPT/Grok account management
 
-- **[pc-style/supply-chain-guard](https://github.com/pc-style/supply-chain-guard)** ⭐ 13
+- **[Eynzof/hermes-agent-cn-desktop](https://github.com/Eynzof/hermes-agent-cn-desktop)** ⭐ 48
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
-  Local supply-chain install gate for npm packages and VS Code extensions with Socket, Codex, and PI review support.
+  Hermes Agent CN desktop app, Windows-First, built with Tauri, Typescript and Rust. Isolated Hermes Agent core insides. 
 
-- **[JiaoTangXQ/obsidian-theme](https://github.com/JiaoTangXQ/obsidian-theme)** ⭐ 9
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
-  obsidian 美化页面样式
+- **[DEEIX-AI/DEEIX-Chat](https://github.com/DEEIX-AI/DEEIX-Chat)** ⭐ 45
+  ![Go](https://img.shields.io/badge/-Go-cyan)
+  An enterprise AI workspace for model routing, multimodal chat, files, tools, billing, identity, and operations.
+
+- **[LingyiChen-AI/boris-prompts](https://github.com/LingyiChen-AI/boris-prompts)** ⭐ 44
+  ![None](https://img.shields.io/badge/-None-lightgrey)
+  boris-prompts
+
+- **[davidichalfyorov-wq/openxiv](https://github.com/davidichalfyorov-wq/openxiv)** ⭐ 31
+  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
+  OpenXiv is an AT Protocol preprint server with source-based submissions, public provenance, typed endorsements, OAI-PMH, and Bluesky federation.
 
 ### 📈 Weekly Trending
 
-- **[vercel-labs/zerolang](https://github.com/vercel-labs/zerolang)** ⭐ 4,078
+- **[vercel-labs/zerolang](https://github.com/vercel-labs/zerolang)** ⭐ 4,131
   ![C](https://img.shields.io/badge/-C-lightgrey)
   The programming language for agents
 
-- **[FoundZiGu/GuJumpgate](https://github.com/FoundZiGu/GuJumpgate)** ⭐ 1,158
+- **[FoundZiGu/GuJumpgate](https://github.com/FoundZiGu/GuJumpgate)** ⭐ 1,300
   ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
   None
 
-- **[thananon/9arm-skills](https://github.com/thananon/9arm-skills)** ⭐ 1,041
+- **[thananon/9arm-skills](https://github.com/thananon/9arm-skills)** ⭐ 1,114
   ![Shell](https://img.shields.io/badge/-Shell-lightgrey)
   None
 
-- **[DenisSergeevitch/agents-best-practices](https://github.com/DenisSergeevitch/agents-best-practices)** ⭐ 921
-  ![None](https://img.shields.io/badge/-None-lightgrey)
-  Provider-neutral Agent Skill for Codex, Claude Code, and agentic harness design.
-
-- **[Doorman11991/smallcode](https://github.com/Doorman11991/smallcode)** ⭐ 918
+- **[Doorman11991/smallcode](https://github.com/Doorman11991/smallcode)** ⭐ 993
   ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
   AI coding agent optimized for small LLMs. 87% benchmark with 4B-active model.
 
-- **[Kappaemme-git/codex-complexity-optimizer](https://github.com/Kappaemme-git/codex-complexity-optimizer)** ⭐ 808
+- **[DenisSergeevitch/agents-best-practices](https://github.com/DenisSergeevitch/agents-best-practices)** ⭐ 930
+  ![None](https://img.shields.io/badge/-None-lightgrey)
+  Provider-neutral Agent Skill for Codex, Claude Code, and agentic harness design.
+
+- **[Kappaemme-git/codex-complexity-optimizer](https://github.com/Kappaemme-git/codex-complexity-optimizer)** ⭐ 810
   ![Python](https://img.shields.io/badge/-Python-blue)
   Codex skill for safe codebase complexity analysis and performance optimization reports
 
-- **[xw7872081123/wallpaper-engine-steam](https://github.com/xw7872081123/wallpaper-engine-steam)** ⭐ 648
+- **[xw7872081123/wallpaper-engine-steam](https://github.com/xw7872081123/wallpaper-engine-steam)** ⭐ 675
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   Free Wallpaper Engine Steam: download PC windows 11, steam workshop downloader bypass, high CPU RAM usage fix, android apk mobile sync. 4k anime live wallpaper, black screen crash on startup, corsair icue razer chroma integration, ui32.exe error solution, scene web wallpaper, mobile connection pin, custom playlist screensaver, 
 
-- **[BasZ4ll/Stable-Diffusion-WebUI](https://github.com/BasZ4ll/Stable-Diffusion-WebUI)** ⭐ 634
+- **[BasZ4ll/Stable-Diffusion-WebUI](https://github.com/BasZ4ll/Stable-Diffusion-WebUI)** ⭐ 657
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   Stable Diffusion: webui automatic1111 download free, comfyui setup guide, sdxl checkpoint safetensors, lora model civitai, controlnet extension github. SD WebUI Forge launcher, low VRAM optimization, xformers command line arguments, python torch cuda error fix, out of memory solution, txt2img img2img, inpainting, realesrgan upscaler, local pc insta
-
-### 📈 Monthly Trending
-
-- **[nexu-io/open-design](https://github.com/nexu-io/open-design)** ⭐ 48,408
-  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
-  🎨 Local-first, open-source alternative to Anthropic's Claude Design. ⚡ 19 Skills · ✨ 71 brand-grade Design Systems 🖼 Generate web · desktop · mobile prototypes · slides · images · videos · HyperFrames 📦 Sandboxed preview · HTML/PDF/PPTX/MP4 export 🤖 Runs on Claude Code / Codex / Cursor / Gemini / OpenCode / Qwen / Copilot / Hermes / Kimi CLI.
-
-- **[antirez/ds4](https://github.com/antirez/ds4)** ⭐ 11,073
-  ![C](https://img.shields.io/badge/-C-lightgrey)
-  DeepSeek 4 Flash local inference engine for Metal and CUDA
-
-- **[op7418/guizang-ppt-skill](https://github.com/op7418/guizang-ppt-skill)** ⭐ 10,831
-  ![HTML](https://img.shields.io/badge/-HTML-lightgrey)
-  AI-agent Skill for generating polished HTML slide decks: editorial magazine and Swiss layouts, image prompts, social covers, and a WebGL/low-power presentation runtime.
-
-- **[Yuan1z0825/nature-skills](https://github.com/Yuan1z0825/nature-skills)** ⭐ 9,760
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  符合nature论文学术表达和科研绘图的Skill
-
-- **[FULU-Foundation/OrcaSlicer-bambulab](https://github.com/FULU-Foundation/OrcaSlicer-bambulab)** ⭐ 6,216
-  ![C++](https://img.shields.io/badge/-C++-pink)
-  None
-
-- **[freestylefly/awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2)** ⭐ 5,770
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
-  Prompt as Code | GPT-Image2 工业级提示词引擎与模板库，370+ 个案例逆向工程，20+ 套工业级模板，并提炼出Skills，持续更新中
-
-- **[V4bel/dirtyfrag](https://github.com/V4bel/dirtyfrag)** ⭐ 4,710
-  ![C](https://img.shields.io/badge/-C-lightgrey)
-  None
-
-- **[nexu-io/html-anything](https://github.com/nexu-io/html-anything)** ⭐ 4,379
-  ![HTML](https://img.shields.io/badge/-HTML-lightgrey)
-  ✨ The agentic HTML editor — your local AI agent writes the HTML, you ship it. 🚀 75 Skills × 9 Surfaces (magazine · deck · poster · XHS / tweet · prototype · data report · Hyperframes) 🛡️ Sandboxed preview · 📤 1-click to WeChat / X / Zhihu / HTML / PNG 🔑 Zero API key — Claude Code / Cursor / Codex / Gemini / Copilot / OpenCode / Qwen / Aider.
 
 ## 🚀 Latest Releases
 
@@ -488,46 +461,46 @@ See [kubernetes-announce@](https://groups.google.com/forum/#!forum/kubernetes-an
 | Skill | Status |
 |-------|--------|
 | Java | 🔴 Beginner |
-| Python | 🔴 Beginner |
-| JavaScript | 🔴 Beginner |
-| TypeScript | 🔴 Beginner |
+| Python | 🟡 Learning |
+| JavaScript | 🟢 Proficient |
+| TypeScript | ⚪ Planned |
 | Go | 🔴 Beginner |
 
 ### Frameworks
 
 | Skill | Status |
 |-------|--------|
-| React | ⚪ Planned |
-| Spring Boot | 🟡 Learning |
-| Django | 🟢 Proficient |
-| Node.js | 🟢 Proficient |
-| Next.js | 🔴 Beginner |
+| React | 🟡 Learning |
+| Spring Boot | ⚪ Planned |
+| Django | ⚪ Planned |
+| Node.js | 🟡 Learning |
+| Next.js | 🟡 Learning |
 
 ### Cybersecurity
 
 | Skill | Status |
 |-------|--------|
-| Penetration Testing | 🟢 Proficient |
-| Web Security | 🟢 Proficient |
+| Penetration Testing | ⚪ Planned |
+| Web Security | 🟡 Learning |
 | Network Security | 🟢 Proficient |
-| OWASP | 🔴 Beginner |
+| OWASP | 🟡 Learning |
 
 ### Ai Ml
 
 | Skill | Status |
 |-------|--------|
-| Machine Learning | 🟡 Learning |
-| Deep Learning | 🔴 Beginner |
+| Machine Learning | 🔴 Beginner |
+| Deep Learning | ⚪ Planned |
 | NLP | 🔴 Beginner |
-| Computer Vision | ⚪ Planned |
-| TensorFlow | 🟢 Proficient |
-| PyTorch | 🔴 Beginner |
+| Computer Vision | 🟡 Learning |
+| TensorFlow | ⚪ Planned |
+| PyTorch | ⚪ Planned |
 
 ### Devops
 
 | Skill | Status |
 |-------|--------|
-| Docker | ⚪ Planned |
+| Docker | 🟡 Learning |
 | Kubernetes | 🔴 Beginner |
 | CI/CD | 🟢 Proficient |
 | AWS | 🔴 Beginner |
@@ -539,7 +512,7 @@ See [kubernetes-announce@](https://groups.google.com/forum/#!forum/kubernetes-an
 |-------|--------|
 | Blockchain | 🟡 Learning |
 | Web3 | ⚪ Planned |
-| Cloud Computing | ⚪ Planned |
+| Cloud Computing | 🟢 Proficient |
 
 </details>
 
