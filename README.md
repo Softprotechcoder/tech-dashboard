@@ -20,7 +20,7 @@
 | Metric | Count |
 |--------|-------|
 | 📰 Latest News Articles | 26 |
-| 🔥 Trending Repositories | 0 |
+| 🔥 Trending Repositories | 45 |
 | 🎯 Latest Releases | 10 |
 | 🎯 Learning Goals | 4 |
 
@@ -46,36 +46,40 @@
 
 ### 📑 Hacker News
 
-- **[We should get rid of average CPU utilization](https://www.theocharis.dev/blog/why-we-should-get-rid-of-average-cpu-utilization/)**
-  *<p>Article URL: <a href="https://www.theocharis.dev/blog/why-we-should-get-rid-of-average-cpu-utilization/">https://www.theocharis.dev/blog/why-we-should-get-rid-of-average-cpu-utilization/</a></p>
-<p...*
-  📅 Fri, 22 May 2026 08:15:42 +0000
+- **[The AI Elephant in the Room](https://www.joshwcomeau.com/email/wham-launch-005-elephant-2-p/)**
+  *<p>Article URL: <a href="https://www.joshwcomeau.com/email/wham-launch-005-elephant-2-p/">https://www.joshwcomeau.com/email/wham-launch-005-elephant-2-p/</a></p>
+<p>Comments URL: <a href="https://news...*
+  📅 Fri, 22 May 2026 13:22:42 +0000
 
-- **[Deepfakes Tore a High School Apart](https://www.404media.co/radnor-high-school-pennsylvania-ai-deepfakes-child-sexual-abuse-material/)**
-  *<p>Article URL: <a href="https://www.404media.co/radnor-high-school-pennsylvania-ai-deepfakes-child-sexual-abuse-material/">https://www.404media.co/radnor-high-school-pennsylvania-ai-deepfakes-child-s...*
-  📅 Fri, 22 May 2026 07:52:15 +0000
+- **[Sam Altman Won in Court Against Elon Musk. But, We All Lost](https://www.newyorker.com/news/letter-from-silicon-valley/sam-altman-won-in-court-against-elon-musk-but-really-we-all-lost)**
+  *<p>Article URL: <a href="https://www.newyorker.com/news/letter-from-silicon-valley/sam-altman-won-in-court-against-elon-musk-but-really-we-all-lost">https://www.newyorker.com/news/letter-from-silicon-...*
+  📅 Fri, 22 May 2026 13:07:16 +0000
 
-- **[CODA: Rewriting Transformer Blocks as GEMM-Epilogue Programs](https://arxiv.org/abs/2605.19269)**
-  *<p>Article URL: <a href="https://arxiv.org/abs/2605.19269">https://arxiv.org/abs/2605.19269</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=48232118">https://news.ycombinator.co...*
-  📅 Fri, 22 May 2026 04:54:33 +0000
+- **[Valve removes free game from Steam after players discover it contains malware](https://www.pcguide.com/news/valve-removes-free-horror-game-from-steam-after-players-discover-it-contains-malware-that-steals-your-data/)**
+  *<p>Article URL: <a href="https://www.pcguide.com/news/valve-removes-free-horror-game-from-steam-after-players-discover-it-contains-malware-that-steals-your-data/">https://www.pcguide.com/news/valve-re...*
+  📅 Fri, 22 May 2026 12:36:37 +0000
 
-- **[Slumber a TUI HTTP Client](https://slumber.lucaspickering.me)**
-  *<p>Article URL: <a href="https://slumber.lucaspickering.me">https://slumber.lucaspickering.me</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=48231938">https://news.ycombinator....*
-  📅 Fri, 22 May 2026 04:29:23 +0000
+- **[Circle Medical (YC S15) Is Hiring a Mobile Engineer](https://www.ycombinator.com/companies/circle-medical/jobs/onMKAG9-mobile-engineer-android)**
+  *<p>Article URL: <a href="https://www.ycombinator.com/companies/circle-medical/jobs/onMKAG9-mobile-engineer-android">https://www.ycombinator.com/companies/circle-medical/jobs/onMKAG9-mobile-engineer-an...*
+  📅 Fri, 22 May 2026 12:01:07 +0000
 
-- **[Cleve Moler has died](https://www.mathworks.com/company/aboutus/founders/clevemoler.html)**
-  *<p>Article URL: <a href="https://www.mathworks.com/company/aboutus/founders/clevemoler.html">https://www.mathworks.com/company/aboutus/founders/clevemoler.html</a></p>
-<p>Comments URL: <a href="https:...*
-  📅 Fri, 22 May 2026 02:35:54 +0000
+- **[The Companies Cutting Headcount for AI Will Lose to the Ones Who Didn't](https://libertas.software/en/knowledge-hub/19/the-companies-cutting-headcount-for-ai-will-lose-to-the-ones-who-didnt)**
+  *<p>Article URL: <a href="https://libertas.software/en/knowledge-hub/19/the-companies-cutting-headcount-for-ai-will-lose-to-the-ones-who-didnt">https://libertas.software/en/knowledge-hub/19/the-compani...*
+  📅 Fri, 22 May 2026 11:45:24 +0000
 
-- **[The memory shortage is causing a repricing of consumer electronics](https://davidoks.blog/p/ai-is-killing-the-cheap-smartphone)**
-  *<p>Article URL: <a href="https://davidoks.blog/p/ai-is-killing-the-cheap-smartphone">https://davidoks.blog/p/ai-is-killing-the-cheap-smartphone</a></p>
-<p>Comments URL: <a href="https://news.ycombinat...*
-  📅 Thu, 21 May 2026 21:55:56 +0000
+- **[Breakthroughs for batteries could soon make them better](https://www.economist.com/science-and-technology/2026/05/20/breakthroughs-for-batteries-could-soon-make-them-much-better)**
+  *<p>Article URL: <a href="https://www.economist.com/science-and-technology/2026/05/20/breakthroughs-for-batteries-could-soon-make-them-much-better">https://www.economist.com/science-and-technology/2026...*
+  📅 Fri, 22 May 2026 11:39:37 +0000
 
 ### 📑 TechCrunch
+
+- **[Smart ring maker Oura files to go public](https://techcrunch.com/2026/05/22/smart-ring-maker-oura-files-to-go-public/)**
+  *The Finnish company said in September that it has sold 5.5 million smart rings to date....*
+  📅 Fri, 22 May 2026 14:03:35 +0000
+
+- **[Audio generation app Huxe, founded by former NotebookLM developers, shuts down](https://techcrunch.com/2026/05/22/audio-generation-app-huxe-founded-by-former-notebooklm-developers-shuts-down/)**
+  *Huxe said that it has pulled its app from App Store and Play Store, and that it will stop working later this month...*
+  📅 Fri, 22 May 2026 13:48:03 +0000
 
 - **[Finnish phone-maker HMD bundles Indian AI chatbot onto new smartphone in push to reach local market](https://techcrunch.com/2026/05/21/finnish-phone-maker-hmd-bundles-indian-ai-chatbot-onto-new-smartphone-in-push-to-reach-local-market/)**
   *HMD is pre-loading Sarvam's Indus chatbot app, which supports 22 Indic languages...*
@@ -93,27 +97,133 @@
   *Elon Musk has the largest stake in SpaceX by billions of shares. The other biggest shareholders also have longstanding and deep ties to Musk....*
   📅 Thu, 21 May 2026 21:39:03 +0000
 
-- **[Waymo halts freeway rides after robotaxis struggle in construction zones](https://techcrunch.com/2026/05/21/waymo-halts-freeway-rides-after-robotaxis-struggle-in-construction-zones/)**
-  *The service suspension comes as Waymo has also paused operations in Atlanta and San Antonio after its robotaxis drove into flooded streets....*
-  📅 Thu, 21 May 2026 21:13:23 +0000
-
-- **[NYC Mayor Zohran Mamdani takes to Twitch to chat with New Yorkers](https://techcrunch.com/2026/05/21/nycmayor-zohran-mamdani-takes-to-twitch-to-chat-with-new-yorkers/)**
-  *New York City Mayor Zohran Mamdani is launching a Twitch series today at 4 p.m. ET....*
-  📅 Thu, 21 May 2026 21:00:42 +0000
-
 ### 📑 Dev.to
 
-- **[Real-World Next.js Performance: Moving Beyond standard useEffect and Fetching Hooks](https://dev.to/ibraa/real-world-nextjs-performance-moving-beyond-standard-useeffect-and-fetching-hooks-4ibh)**
-  *<p>Let’s be honest for a second. When we are first learning React or Next.js, we all do the exact same thing to get data onto a screen: we spin up a useEffect, drop a standard fetch() inside it, point...*
-  📅 Fri, 22 May 2026 08:44:25 +0000
+- **[I Built a Pay-Per-Call Crypto Signal API with x402 — Heres the Architecture](https://dev.to/kirothebot/i-built-a-pay-per-call-crypto-signal-api-with-x402-heres-the-architecture-1eac)**
+  *<h1>
+  
+  
+  I Built a Pay-Per-Call Crypto Signal API with x402 — Here's the Architecture
+</h1>
 
-- **[How to Build a Human-in-the-Loop AI Agent with LangChain & LangGraph](https://dev.to/syeedmdtalha/how-to-build-a-human-in-the-loop-ai-agent-with-langchain-langgraph-2n2h)**
-  *<p>AI agents are powerful — but sometimes <em>too</em> powerful. What if your agent is about to send an email on your behalf and you want a chance to say "wait, hold on"? That's exactly what <strong>H...*
-  📅 Fri, 22 May 2026 08:43:16 +0000
+<p><strong>TL;DR:</strong> I shipped a live crypto signal API where every call costs $0.01 in USDC. No ...*
+  📅 Fri, 22 May 2026 14:13:13 +0000
+
+- **[🚀 “From Prompts to Autonomous Agents: What Google I/O 2026 Changed”](https://dev.to/anmolpawar_/from-prompts-to-autonomous-agents-what-google-io-2026-changed-32ko)**
+  *<h1>
+  
+  
+  From Prompts to Autonomous Agents: What Google I/O 2026 Changed
+</h1>
+
+<p><em>This is a submission for the <a href="https://dev.to/challenges/google-io-writing-2026-05-19">Google I/O Writ...*
+  📅 Fri, 22 May 2026 14:08:42 +0000
 
 </details>
 
 ## 🔥 Trending Repositories
+
+### 📈 Daily Trending
+
+- **[MoonshotAI/kimi-code](https://github.com/MoonshotAI/kimi-code)** ⭐ 144
+  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
+  The Starting Point for Next-Gen Agents
+
+- **[0xSero/codex-shim](https://github.com/0xSero/codex-shim)** ⭐ 121
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  Local Responses-API shim that exposes Factory BYOK models (and optional ChatGPT GPT-5.5 passthrough) to Codex Desktop.
+
+- **[TencentYoutuResearch/T2I-L2P](https://github.com/TencentYoutuResearch/T2I-L2P)** ⭐ 42
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  Code for "L2P: Unlocking Latent Potential for Pixel Generation"
+
+- **[elyelysiox/recaptcha](https://github.com/elyelysiox/recaptcha)** ⭐ 38
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
+  Documentation and reverse engineering of reCAPTCHA
+
+- **[unprovable/ShadowCat](https://github.com/unprovable/ShadowCat)** ⭐ 36
+  ![HTML](https://img.shields.io/badge/-HTML-lightgrey)
+  Single file optical file transfer using a browser
+
+- **[Very-cool-guy/Very-cool-guy.github.io](https://github.com/Very-cool-guy/Very-cool-guy.github.io)** ⭐ 24
+  ![HTML](https://img.shields.io/badge/-HTML-lightgrey)
+  this is a website that everybody can change!!!
+
+- **[gsd-redux/get-shit-done-redux](https://github.com/gsd-redux/get-shit-done-redux)** ⭐ 23
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
+  Getting Shit Done, the Aftermath
+
+- **[amoslee2026/Babel](https://github.com/amoslee2026/Babel)** ⭐ 20
+  ![SystemVerilog](https://img.shields.io/badge/-SystemVerilog-lightgrey)
+  AI-native Chiplet design flow based on open-source EDA toolchain
+
+### 📈 Weekly Trending
+
+- **[FoundZiGu/GuJumpgate](https://github.com/FoundZiGu/GuJumpgate)** ⭐ 1,663
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
+  None
+
+- **[thananon/9arm-skills](https://github.com/thananon/9arm-skills)** ⭐ 1,319
+  ![Shell](https://img.shields.io/badge/-Shell-lightgrey)
+  None
+
+- **[Doorman11991/smallcode](https://github.com/Doorman11991/smallcode)** ⭐ 1,178
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
+  AI coding agent optimized for small LLMs. 87% benchmark with 4B-active model.
+
+- **[datawhalechina/Agent-Learning-Hub](https://github.com/datawhalechina/Agent-Learning-Hub)** ⭐ 1,043
+  ![HTML](https://img.shields.io/badge/-HTML-lightgrey)
+  AI Agent 学习路线与资料库收集
+
+- **[sapientinc/HRM-Text](https://github.com/sapientinc/HRM-Text)** ⭐ 644
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  HRM-Text is a 1B text generation model based on the HRM architecture, strengthened by task completion and latent space reasoning.
+
+- **[kageroumado/phosphene](https://github.com/kageroumado/phosphene)** ⭐ 580
+  ![Swift](https://img.shields.io/badge/-Swift-lightgrey)
+  A video wallpaper engine for macOS Tahoe
+
+- **[SubamanojJ-2004/gta-5-mod-menu](https://github.com/SubamanojJ-2004/gta-5-mod-menu)** ⭐ 445
+  ![None](https://img.shields.io/badge/-None-lightgrey)
+  Ultimate Enhancement Toolkit for GTA V — powerful mod menu with ESP, vehicle spawner, recovery features, and clean UI
+
+- **[xw7872081123/wallpaper-engine-steam](https://github.com/xw7872081123/wallpaper-engine-steam)** ⭐ 441
+  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
+  Free Wallpaper Engine Steam: download PC windows 11, steam workshop downloader bypass, high CPU RAM usage fix, android apk mobile sync. 4k anime live wallpaper, black screen crash on startup, corsair icue razer chroma integration, ui32.exe error solution, scene web wallpaper, mobile connection pin, custom playlist screensaver, 
+
+### 📈 Monthly Trending
+
+- **[nexu-io/open-design](https://github.com/nexu-io/open-design)** ⭐ 49,508
+  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
+  🎨 Local-first, open-source  Claude Design alternative. ⚡ 19 Skills · ✨ 71 brand-grade Design Systems 🖼 Generate web · desktop · mobile prototypes · slides · images · videos · HyperFrames 📦 Sandboxed preview · HTML/PDF/PPTX/MP4 export 🤖 Runs on Claude Code / Codex / Cursor / Gemini / OpenCode / Qwen / Copilot / Hermes / Kimi CLI.
+
+- **[antirez/ds4](https://github.com/antirez/ds4)** ⭐ 11,297
+  ![C](https://img.shields.io/badge/-C-lightgrey)
+  DeepSeek 4 Flash local inference engine for Metal and CUDA
+
+- **[op7418/guizang-ppt-skill](https://github.com/op7418/guizang-ppt-skill)** ⭐ 11,259
+  ![HTML](https://img.shields.io/badge/-HTML-lightgrey)
+  AI-agent Skill for generating polished HTML slide decks: editorial magazine and Swiss layouts, image prompts, social covers, and a WebGL/low-power presentation runtime.
+
+- **[Yuan1z0825/nature-skills](https://github.com/Yuan1z0825/nature-skills)** ⭐ 10,495
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  符合nature论文学术表达和科研绘图的Skill
+
+- **[FULU-Foundation/OrcaSlicer-bambulab](https://github.com/FULU-Foundation/OrcaSlicer-bambulab)** ⭐ 6,307
+  ![C++](https://img.shields.io/badge/-C++-pink)
+  None
+
+- **[freestylefly/awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2)** ⭐ 5,840
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
+  Prompt as Code | GPT-Image2 工业级提示词引擎与模板库，370+ 个案例逆向工程，20+ 套工业级模板，并提炼出Skills，持续更新中
+
+- **[V4bel/dirtyfrag](https://github.com/V4bel/dirtyfrag)** ⭐ 4,731
+  ![C](https://img.shields.io/badge/-C-lightgrey)
+  None
+
+- **[nexu-io/html-anything](https://github.com/nexu-io/html-anything)** ⭐ 4,565
+  ![HTML](https://img.shields.io/badge/-HTML-lightgrey)
+  ✨ The agentic HTML editor — your local AI agent writes the HTML, you ship it. 🚀 75 Skills × 9 Surfaces (magazine · deck · poster · XHS / tweet · prototype · data report · Hyperframes) 🛡️ Sandboxed preview · 📤 1-click to WeChat / X / Zhihu / HTML / PNG 🔑 Zero API key — Claude Code / Cursor / Codex / Gemini / Copilot / OpenCode / Qwen / Aider.
 
 ## 🚀 Latest Releases
 
@@ -385,30 +495,30 @@ See [kubernetes-announce@](https://groups.google.com/forum/#!forum/kubernetes-an
 
 | Skill | Status |
 |-------|--------|
-| Java | 🔴 Beginner |
-| Python | ⚪ Planned |
-| JavaScript | 🟡 Learning |
-| TypeScript | 🟡 Learning |
-| Go | 🟢 Proficient |
+| Java | 🟡 Learning |
+| Python | 🔴 Beginner |
+| JavaScript | 🔴 Beginner |
+| TypeScript | ⚪ Planned |
+| Go | ⚪ Planned |
 
 ### Frameworks
 
 | Skill | Status |
 |-------|--------|
-| React | 🟡 Learning |
-| Spring Boot | 🔴 Beginner |
+| React | 🟢 Proficient |
+| Spring Boot | ⚪ Planned |
 | Django | ⚪ Planned |
-| Node.js | 🟢 Proficient |
-| Next.js | ⚪ Planned |
+| Node.js | 🟡 Learning |
+| Next.js | 🟢 Proficient |
 
 ### Cybersecurity
 
 | Skill | Status |
 |-------|--------|
-| Penetration Testing | 🔴 Beginner |
-| Web Security | 🟡 Learning |
-| Network Security | 🟢 Proficient |
-| OWASP | 🟡 Learning |
+| Penetration Testing | 🟡 Learning |
+| Web Security | ⚪ Planned |
+| Network Security | 🔴 Beginner |
+| OWASP | 🔴 Beginner |
 
 ### Ai Ml
 
@@ -416,8 +526,8 @@ See [kubernetes-announce@](https://groups.google.com/forum/#!forum/kubernetes-an
 |-------|--------|
 | Machine Learning | ⚪ Planned |
 | Deep Learning | ⚪ Planned |
-| NLP | 🔴 Beginner |
-| Computer Vision | ⚪ Planned |
+| NLP | 🟡 Learning |
+| Computer Vision | 🔴 Beginner |
 | TensorFlow | ⚪ Planned |
 | PyTorch | 🟢 Proficient |
 
@@ -425,19 +535,19 @@ See [kubernetes-announce@](https://groups.google.com/forum/#!forum/kubernetes-an
 
 | Skill | Status |
 |-------|--------|
-| Docker | 🟢 Proficient |
-| Kubernetes | 🟢 Proficient |
-| CI/CD | 🔴 Beginner |
-| AWS | 🔴 Beginner |
-| Azure | 🟢 Proficient |
+| Docker | 🟡 Learning |
+| Kubernetes | ⚪ Planned |
+| CI/CD | 🟢 Proficient |
+| AWS | ⚪ Planned |
+| Azure | 🔴 Beginner |
 
 ### Other
 
 | Skill | Status |
 |-------|--------|
-| Blockchain | 🟡 Learning |
-| Web3 | 🟡 Learning |
-| Cloud Computing | 🟢 Proficient |
+| Blockchain | 🔴 Beginner |
+| Web3 | 🔴 Beginner |
+| Cloud Computing | 🟡 Learning |
 
 </details>
 
