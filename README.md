@@ -20,7 +20,7 @@
 | Metric | Count |
 |--------|-------|
 | 📰 Latest News Articles | 26 |
-| 🔥 Trending Repositories | 45 |
+| 🔥 Trending Repositories | 0 |
 | 🎯 Latest Releases | 10 |
 | 🎯 Learning Goals | 4 |
 
@@ -46,36 +46,40 @@
 
 ### 📑 Hacker News
 
-- **[It is time to build a new internet](https://mrmarket.bearblog.dev/it-is-time-to-build-a-new-internet/)**
-  *<p>Article URL: <a href="https://mrmarket.bearblog.dev/it-is-time-to-build-a-new-internet/">https://mrmarket.bearblog.dev/it-is-time-to-build-a-new-internet/</a></p>
-<p>Comments URL: <a href="https://...*
-  📅 Fri, 22 May 2026 02:19:53 +0000
+- **[We should get rid of average CPU utilization](https://www.theocharis.dev/blog/why-we-should-get-rid-of-average-cpu-utilization/)**
+  *<p>Article URL: <a href="https://www.theocharis.dev/blog/why-we-should-get-rid-of-average-cpu-utilization/">https://www.theocharis.dev/blog/why-we-should-get-rid-of-average-cpu-utilization/</a></p>
+<p...*
+  📅 Fri, 22 May 2026 08:15:42 +0000
 
-- **[Samsung chip workers will get an average $340k bonus as AI profits soar](https://qz.com/samsung-chip-workers-bonus-ai-profits-052126)**
-  *<p>Article URL: <a href="https://qz.com/samsung-chip-workers-bonus-ai-profits-052126">https://qz.com/samsung-chip-workers-bonus-ai-profits-052126</a></p>
-<p>Comments URL: <a href="https://news.ycombin...*
-  📅 Fri, 22 May 2026 01:30:45 +0000
+- **[Deepfakes Tore a High School Apart](https://www.404media.co/radnor-high-school-pennsylvania-ai-deepfakes-child-sexual-abuse-material/)**
+  *<p>Article URL: <a href="https://www.404media.co/radnor-high-school-pennsylvania-ai-deepfakes-child-sexual-abuse-material/">https://www.404media.co/radnor-high-school-pennsylvania-ai-deepfakes-child-s...*
+  📅 Fri, 22 May 2026 07:52:15 +0000
 
-- **[The IBM-ification of Google?](https://zeroshot.bearblog.dev/google-is-shattering-under-its-own-weight-the-ibm-ification-of-google/)**
-  *<p>Article URL: <a href="https://zeroshot.bearblog.dev/google-is-shattering-under-its-own-weight-the-ibm-ification-of-google/">https://zeroshot.bearblog.dev/google-is-shattering-under-its-own-weight-t...*
-  📅 Thu, 21 May 2026 23:30:10 +0000
+- **[CODA: Rewriting Transformer Blocks as GEMM-Epilogue Programs](https://arxiv.org/abs/2605.19269)**
+  *<p>Article URL: <a href="https://arxiv.org/abs/2605.19269">https://arxiv.org/abs/2605.19269</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=48232118">https://news.ycombinator.co...*
+  📅 Fri, 22 May 2026 04:54:33 +0000
 
-- **[Uv is fantastic, but its package management UX is a mess](https://www.loopwerk.io/articles/2026/uv-ux-mess/)**
-  *<p>Article URL: <a href="https://www.loopwerk.io/articles/2026/uv-ux-mess/">https://www.loopwerk.io/articles/2026/uv-ux-mess/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=482...*
-  📅 Thu, 21 May 2026 20:56:36 +0000
+- **[Slumber a TUI HTTP Client](https://slumber.lucaspickering.me)**
+  *<p>Article URL: <a href="https://slumber.lucaspickering.me">https://slumber.lucaspickering.me</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=48231938">https://news.ycombinator....*
+  📅 Fri, 22 May 2026 04:29:23 +0000
 
-- **[Multi-Stream LLMs: new paper on parallelizing/separating prompts, thinking, I/O](https://arxiv.org/abs/2605.12460)**
-  *<p>Article URL: <a href="https://arxiv.org/abs/2605.12460">https://arxiv.org/abs/2605.12460</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=48227923">https://news.ycombinator.co...*
-  📅 Thu, 21 May 2026 19:37:26 +0000
+- **[Cleve Moler has died](https://www.mathworks.com/company/aboutus/founders/clevemoler.html)**
+  *<p>Article URL: <a href="https://www.mathworks.com/company/aboutus/founders/clevemoler.html">https://www.mathworks.com/company/aboutus/founders/clevemoler.html</a></p>
+<p>Comments URL: <a href="https:...*
+  📅 Fri, 22 May 2026 02:35:54 +0000
 
-- **[Using Kagi Search with Low Vision](https://veroniiiica.com/using-kagi-search-with-low-vision/)**
-  *<p>Article URL: <a href="https://veroniiiica.com/using-kagi-search-with-low-vision/">https://veroniiiica.com/using-kagi-search-with-low-vision/</a></p>
+- **[The memory shortage is causing a repricing of consumer electronics](https://davidoks.blog/p/ai-is-killing-the-cheap-smartphone)**
+  *<p>Article URL: <a href="https://davidoks.blog/p/ai-is-killing-the-cheap-smartphone">https://davidoks.blog/p/ai-is-killing-the-cheap-smartphone</a></p>
 <p>Comments URL: <a href="https://news.ycombinat...*
-  📅 Thu, 21 May 2026 19:32:16 +0000
+  📅 Thu, 21 May 2026 21:55:56 +0000
 
 ### 📑 TechCrunch
+
+- **[Finnish phone-maker HMD bundles Indian AI chatbot onto new smartphone in push to reach local market](https://techcrunch.com/2026/05/21/finnish-phone-maker-hmd-bundles-indian-ai-chatbot-onto-new-smartphone-in-push-to-reach-local-market/)**
+  *HMD is pre-loading Sarvam's Indus chatbot app, which supports 22 Indic languages...*
+  📅 Fri, 22 May 2026 06:41:28 +0000
 
 - **[Waymo expands pause to four cities as robotaxis keep driving into floods](https://techcrunch.com/2026/05/21/waymo-pauses-service-in-four-cities-as-robotaxis-keep-driving-into-floods/)**
   *Waymo's robotaxi service is now suspended in both Atlanta and San Antonio, as the company works to stop its vehicles from driving into flooded roads....*
@@ -97,137 +101,19 @@
   *New York City Mayor Zohran Mamdani is launching a Twitch series today at 4 p.m. ET....*
   📅 Thu, 21 May 2026 21:00:42 +0000
 
-- **[Spotify and Universal Music strike deal allowing fan-made AI covers and remixes](https://techcrunch.com/2026/05/21/spotify-and-universal-music-strike-deal-allowing-fan-made-ai-covers-and-remixes/)**
-  *Spotify is partnering with  Universal Music Group￼ to let Premium subscribers create AI-generated song covers and remixes, with participating artists receiving a share of the revenue....*
-  📅 Thu, 21 May 2026 19:45:00 +0000
-
 ### 📑 Dev.to
 
-- **[Overhauling the API for Digital Creators in the Least Connected Regions of the World](https://dev.to/dev-architecture-blog/overhauling-the-api-for-digital-creators-in-the-least-connected-regions-of-the-world-46b4)**
-  *<h2>
-  
-  
-  The Problem We Were Actually Solving
-</h2>
+- **[Real-World Next.js Performance: Moving Beyond standard useEffect and Fetching Hooks](https://dev.to/ibraa/real-world-nextjs-performance-moving-beyond-standard-useeffect-and-fetching-hooks-4ibh)**
+  *<p>Let’s be honest for a second. When we are first learning React or Next.js, we all do the exact same thing to get data onto a screen: we spin up a useEffect, drop a standard fetch() inside it, point...*
+  📅 Fri, 22 May 2026 08:44:25 +0000
 
-<p>When I first started looking at the issue, we were getting an average of 50,000 failed login attempts every month for users in these countri...*
-  📅 Fri, 22 May 2026 02:27:29 +0000
-
-- **[AiLang: An AI-First Language Focused on Deterministic Execution](https://dev.to/todd_henderson_e43e8836a7/ailang-an-ai-first-language-focused-on-deterministic-execution-4mio)**
-  *<h1>
-  
-  
-  AiLang — GitHub Finish-Up-A-Thon Challenge Submission
-</h1>
-
-<p><em>This is a submission for the <a href="https://dev.to/challenges/github-2026-05-21">GitHub Finish-Up-A-Thon Challenge</a...*
-  📅 Fri, 22 May 2026 02:20:31 +0000
+- **[How to Build a Human-in-the-Loop AI Agent with LangChain & LangGraph](https://dev.to/syeedmdtalha/how-to-build-a-human-in-the-loop-ai-agent-with-langchain-langgraph-2n2h)**
+  *<p>AI agents are powerful — but sometimes <em>too</em> powerful. What if your agent is about to send an email on your behalf and you want a chance to say "wait, hold on"? That's exactly what <strong>H...*
+  📅 Fri, 22 May 2026 08:43:16 +0000
 
 </details>
 
 ## 🔥 Trending Repositories
-
-### 📈 Daily Trending
-
-- **[aslzoda1/w24](https://github.com/aslzoda1/w24)** ⭐ 5
-  ![HTML](https://img.shields.io/badge/-HTML-lightgrey)
-  None
-
-- **[aslzoda1/241](https://github.com/aslzoda1/241)** ⭐ 5
-  ![C](https://img.shields.io/badge/-C-lightgrey)
-  None
-
-- **[aslzoda1/c221](https://github.com/aslzoda1/c221)** ⭐ 5
-  ![C](https://img.shields.io/badge/-C-lightgrey)
-  None
-
-- **[aslzoda1/c216](https://github.com/aslzoda1/c216)** ⭐ 5
-  ![C](https://img.shields.io/badge/-C-lightgrey)
-  None
-
-- **[aslzoda1/c211](https://github.com/aslzoda1/c211)** ⭐ 5
-  ![C](https://img.shields.io/badge/-C-lightgrey)
-  None
-
-- **[aslzoda1/c158](https://github.com/aslzoda1/c158)** ⭐ 5
-  ![C](https://img.shields.io/badge/-C-lightgrey)
-  None
-
-- **[aslzoda1/c152](https://github.com/aslzoda1/c152)** ⭐ 5
-  ![C](https://img.shields.io/badge/-C-lightgrey)
-  None
-
-- **[aslzoda1/c143](https://github.com/aslzoda1/c143)** ⭐ 5
-  ![C](https://img.shields.io/badge/-C-lightgrey)
-  None
-
-### 📈 Weekly Trending
-
-- **[FoundZiGu/GuJumpgate](https://github.com/FoundZiGu/GuJumpgate)** ⭐ 1,462
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
-  None
-
-- **[thananon/9arm-skills](https://github.com/thananon/9arm-skills)** ⭐ 1,168
-  ![Shell](https://img.shields.io/badge/-Shell-lightgrey)
-  None
-
-- **[Doorman11991/smallcode](https://github.com/Doorman11991/smallcode)** ⭐ 1,086
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
-  AI coding agent optimized for small LLMs. 87% benchmark with 4B-active model.
-
-- **[sapientinc/HRM-Text](https://github.com/sapientinc/HRM-Text)** ⭐ 631
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  HRM-Text is a 1B text generation model based on the HRM architecture, strengthened by task completion and latent space reasoning.
-
-- **[xw7872081123/wallpaper-engine-steam](https://github.com/xw7872081123/wallpaper-engine-steam)** ⭐ 617
-  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
-  Free Wallpaper Engine Steam: download PC windows 11, steam workshop downloader bypass, high CPU RAM usage fix, android apk mobile sync. 4k anime live wallpaper, black screen crash on startup, corsair icue razer chroma integration, ui32.exe error solution, scene web wallpaper, mobile connection pin, custom playlist screensaver, 
-
-- **[datawhalechina/Agent-Learning-Hub](https://github.com/datawhalechina/Agent-Learning-Hub)** ⭐ 606
-  ![None](https://img.shields.io/badge/-None-lightgrey)
-  AI Agent 学习路线与资料库收集
-
-- **[BasZ4ll/Stable-Diffusion-WebUI](https://github.com/BasZ4ll/Stable-Diffusion-WebUI)** ⭐ 597
-  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
-  Stable Diffusion: webui automatic1111 download free, comfyui setup guide, sdxl checkpoint safetensors, lora model civitai, controlnet extension github. SD WebUI Forge launcher, low VRAM optimization, xformers command line arguments, python torch cuda error fix, out of memory solution, txt2img img2img, inpainting, realesrgan upscaler, local pc insta
-
-- **[arnabchoudhury404/hydra-launcher](https://github.com/arnabchoudhury404/hydra-launcher)** ⭐ 596
-  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
-  hydralauncher: Hydra Launcher download free PC library  fontes links baixar , hydralauncher github,  trusted sources url list, steam verde download, hydralauncher github source code, no download available hydra launcher fix. Embedded bittorrent client setup, repack scraper json megathread, hydra cloud save files sync, python rpc server error
-
-### 📈 Monthly Trending
-
-- **[nexu-io/open-design](https://github.com/nexu-io/open-design)** ⭐ 49,038
-  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
-  🎨 Local-first, open-source alternative to Claude Design. ⚡ 19 Skills · ✨ 71 brand-grade Design Systems 🖼 Generate web · desktop · mobile prototypes · slides · images · videos · HyperFrames 📦 Sandboxed preview · HTML/PDF/PPTX/MP4 export 🤖 Runs on Claude Code / Codex / Cursor / Gemini / OpenCode / Qwen / Copilot / Hermes / Kimi CLI.
-
-- **[antirez/ds4](https://github.com/antirez/ds4)** ⭐ 11,193
-  ![C](https://img.shields.io/badge/-C-lightgrey)
-  DeepSeek 4 Flash local inference engine for Metal and CUDA
-
-- **[op7418/guizang-ppt-skill](https://github.com/op7418/guizang-ppt-skill)** ⭐ 10,985
-  ![HTML](https://img.shields.io/badge/-HTML-lightgrey)
-  AI-agent Skill for generating polished HTML slide decks: editorial magazine and Swiss layouts, image prompts, social covers, and a WebGL/low-power presentation runtime.
-
-- **[Yuan1z0825/nature-skills](https://github.com/Yuan1z0825/nature-skills)** ⭐ 10,090
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  符合nature论文学术表达和科研绘图的Skill
-
-- **[FULU-Foundation/OrcaSlicer-bambulab](https://github.com/FULU-Foundation/OrcaSlicer-bambulab)** ⭐ 6,278
-  ![C++](https://img.shields.io/badge/-C++-pink)
-  None
-
-- **[freestylefly/awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2)** ⭐ 5,798
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
-  Prompt as Code | GPT-Image2 工业级提示词引擎与模板库，370+ 个案例逆向工程，20+ 套工业级模板，并提炼出Skills，持续更新中
-
-- **[V4bel/dirtyfrag](https://github.com/V4bel/dirtyfrag)** ⭐ 4,720
-  ![C](https://img.shields.io/badge/-C-lightgrey)
-  None
-
-- **[nexu-io/html-anything](https://github.com/nexu-io/html-anything)** ⭐ 4,482
-  ![HTML](https://img.shields.io/badge/-HTML-lightgrey)
-  ✨ The agentic HTML editor — your local AI agent writes the HTML, you ship it. 🚀 75 Skills × 9 Surfaces (magazine · deck · poster · XHS / tweet · prototype · data report · Hyperframes) 🛡️ Sandboxed preview · 📤 1-click to WeChat / X / Zhihu / HTML / PNG 🔑 Zero API key — Claude Code / Cursor / Codex / Gemini / Copilot / OpenCode / Qwen / Aider.
 
 ## 🚀 Latest Releases
 
@@ -499,59 +385,59 @@ See [kubernetes-announce@](https://groups.google.com/forum/#!forum/kubernetes-an
 
 | Skill | Status |
 |-------|--------|
-| Java | 🟢 Proficient |
-| Python | 🟢 Proficient |
-| JavaScript | 🟢 Proficient |
-| TypeScript | ⚪ Planned |
+| Java | 🔴 Beginner |
+| Python | ⚪ Planned |
+| JavaScript | 🟡 Learning |
+| TypeScript | 🟡 Learning |
 | Go | 🟢 Proficient |
 
 ### Frameworks
 
 | Skill | Status |
 |-------|--------|
-| React | ⚪ Planned |
-| Spring Boot | 🟡 Learning |
+| React | 🟡 Learning |
+| Spring Boot | 🔴 Beginner |
 | Django | ⚪ Planned |
 | Node.js | 🟢 Proficient |
-| Next.js | 🟡 Learning |
+| Next.js | ⚪ Planned |
 
 ### Cybersecurity
 
 | Skill | Status |
 |-------|--------|
-| Penetration Testing | 🟡 Learning |
-| Web Security | ⚪ Planned |
-| Network Security | ⚪ Planned |
+| Penetration Testing | 🔴 Beginner |
+| Web Security | 🟡 Learning |
+| Network Security | 🟢 Proficient |
 | OWASP | 🟡 Learning |
 
 ### Ai Ml
 
 | Skill | Status |
 |-------|--------|
-| Machine Learning | 🟢 Proficient |
-| Deep Learning | 🟢 Proficient |
-| NLP | 🟢 Proficient |
-| Computer Vision | 🟡 Learning |
-| TensorFlow | 🔴 Beginner |
+| Machine Learning | ⚪ Planned |
+| Deep Learning | ⚪ Planned |
+| NLP | 🔴 Beginner |
+| Computer Vision | ⚪ Planned |
+| TensorFlow | ⚪ Planned |
 | PyTorch | 🟢 Proficient |
 
 ### Devops
 
 | Skill | Status |
 |-------|--------|
-| Docker | 🟡 Learning |
-| Kubernetes | ⚪ Planned |
-| CI/CD | 🟢 Proficient |
+| Docker | 🟢 Proficient |
+| Kubernetes | 🟢 Proficient |
+| CI/CD | 🔴 Beginner |
 | AWS | 🔴 Beginner |
-| Azure | 🟡 Learning |
+| Azure | 🟢 Proficient |
 
 ### Other
 
 | Skill | Status |
 |-------|--------|
-| Blockchain | ⚪ Planned |
+| Blockchain | 🟡 Learning |
 | Web3 | 🟡 Learning |
-| Cloud Computing | 🔴 Beginner |
+| Cloud Computing | 🟢 Proficient |
 
 </details>
 
