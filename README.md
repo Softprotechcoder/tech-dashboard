@@ -46,36 +46,46 @@
 
 ### 📑 Hacker News
 
-- **[I Miss Terry Pratchett](https://www.mahl.me/blog/the-spell-that-wouldnt-leave/)**
-  *<p>Article URL: <a href="https://www.mahl.me/blog/the-spell-that-wouldnt-leave/">https://www.mahl.me/blog/the-spell-that-wouldnt-leave/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/i...*
-  📅 Sat, 23 May 2026 12:35:28 +0000
+- **[Texas woman arrested for Facebook post about town water quality](https://reclaimthenet.org/texas-woman-arrested-for-facebook-post-about-town-water-quality)**
+  *<p>Article URL: <a href="https://reclaimthenet.org/texas-woman-arrested-for-facebook-post-about-town-water-quality">https://reclaimthenet.org/texas-woman-arrested-for-facebook-post-about-town-water-qu...*
+  📅 Sat, 23 May 2026 18:02:42 +0000
 
-- **[80386 Microcode Disassembled](https://www.reenigne.org/blog/80386-microcode-disassembled/)**
-  *<p>Article URL: <a href="https://www.reenigne.org/blog/80386-microcode-disassembled/">https://www.reenigne.org/blog/80386-microcode-disassembled/</a></p>
-<p>Comments URL: <a href="https://news.ycombin...*
-  📅 Sat, 23 May 2026 12:11:43 +0000
+- **[Iowa lawmakers to mandate students take Center for Intellectual Freedom classes](https://www.kcrg.com/2026/05/20/iowa-lawmakers-move-mandate-students-take-center-intellectual-freedom-classes-amid-low-enrollment/)**
+  *<p>Article URL: <a href="https://www.kcrg.com/2026/05/20/iowa-lawmakers-move-mandate-students-take-center-intellectual-freedom-classes-amid-low-enrollment/">https://www.kcrg.com/2026/05/20/iowa-lawmak...*
+  📅 Sat, 23 May 2026 18:02:11 +0000
 
-- **[Making Deep Learning Go Brrrr from First Principles](https://horace.io/brrr_intro.html)**
-  *<p>Article URL: <a href="https://horace.io/brrr_intro.html">https://horace.io/brrr_intro.html</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=48246889">https://news.ycombinator....*
-  📅 Sat, 23 May 2026 11:50:22 +0000
+- **[Reverse engineering circuitry in a Spacelab computer from 1980](https://www.righto.com/2026/05/reverse-engineering-spacelab-computer.html)**
+  *<p>Article URL: <a href="https://www.righto.com/2026/05/reverse-engineering-spacelab-computer.html">https://www.righto.com/2026/05/reverse-engineering-spacelab-computer.html</a></p>
+<p>Comments URL: <...*
+  📅 Sat, 23 May 2026 16:24:50 +0000
 
-- **[DHS Quits Granting Green Cards–Almost](https://www.cato.org/blog/dhs-quits-granting-green-cards-almost-entirely)**
-  *<p>Article URL: <a href="https://www.cato.org/blog/dhs-quits-granting-green-cards-almost-entirely">https://www.cato.org/blog/dhs-quits-granting-green-cards-almost-entirely</a></p>
-<p>Comments URL: <a ...*
-  📅 Sat, 23 May 2026 11:18:23 +0000
+- **[Evaluating Spec CPU2026](https://chipsandcheese.com/p/evaluating-spec-cpu2026)**
+  *<p>Article URL: <a href="https://chipsandcheese.com/p/evaluating-spec-cpu2026">https://chipsandcheese.com/p/evaluating-spec-cpu2026</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?...*
+  📅 Sat, 23 May 2026 16:13:22 +0000
 
-- **[US tech firms share Dutch regulator officials' names with Senate](https://www.dutchnews.nl/2026/05/us-tech-firms-share-dutch-regulator-officials-names-with-senate/)**
-  *<p>Article URL: <a href="https://www.dutchnews.nl/2026/05/us-tech-firms-share-dutch-regulator-officials-names-with-senate/">https://www.dutchnews.nl/2026/05/us-tech-firms-share-dutch-regulator-officia...*
-  📅 Sat, 23 May 2026 10:57:14 +0000
+- **[Italy Cancels Boeing Pegasus Order, Shifting to Airbus A330 MRTT](https://www.euronews.com/my-europe/2026/05/21/italy-moves-to-airbus-a330-tankers-in-major-nato-aligned-shift)**
+  *<p>Article URL: <a href="https://www.euronews.com/my-europe/2026/05/21/italy-moves-to-airbus-a330-tankers-in-major-nato-aligned-shift">https://www.euronews.com/my-europe/2026/05/21/italy-moves-to-airb...*
+  📅 Sat, 23 May 2026 16:02:43 +0000
 
-- **[BambuStudio has been violating PrusaSlicer AGPL license since their fork](https://xcancel.com/josefprusa/status/2054602354851254330)**
-  *<p>Article URL: <a href="https://xcancel.com/josefprusa/status/2054602354851254330">https://xcancel.com/josefprusa/status/2054602354851254330</a></p>
-<p>Comments URL: <a href="https://news.ycombinator...*
-  📅 Sat, 23 May 2026 08:24:57 +0000
+- **[Lisp in Vim (2019)](https://susam.net/lisp-in-vim.html)**
+  *<p>Article URL: <a href="https://susam.net/lisp-in-vim.html">https://susam.net/lisp-in-vim.html</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=48248238">https://news.ycombinato...*
+  📅 Sat, 23 May 2026 14:55:59 +0000
 
 ### 📑 TechCrunch
+
+- **[These special phone and app features can help protect you from spyware](https://techcrunch.com/2026/05/23/you-dont-have-to-click-anything-to-get-hacked-anymore-heres-how-to-fight-back/)**
+  *Apple, Meta, and Google offer special security modes that provide your devices more secure against targeted spyware attacks. Here are how those modes work, what they do, and how to switch them on....*
+  📅 Sat, 23 May 2026 16:00:00 +0000
+
+- **[Ferrari is using IBM’s AI to create F1 superfans](https://techcrunch.com/2026/05/23/ferrari-is-using-ai-to-create-f1-superfans/)**
+  *IBM and Scuderia Ferrari HP take TechCrunch inside how they are redefining the fan experience....*
+  📅 Sat, 23 May 2026 15:08:00 +0000
+
+- **[Nuclear startup Deep Fission says it’s going public, again, and I have questions](https://techcrunch.com/2026/05/23/nuclear-startup-deep-fission-says-its-going-public-again-and-i-have-questions/)**
+  *Deep Fission is seeking an IPO that could raise $157 million, though investors may have trouble buying the nuclear startup's story....*
+  📅 Sat, 23 May 2026 14:50:00 +0000
 
 - **[Elon Musk has given up on solar power (on Earth)](https://techcrunch.com/2026/05/23/elon-musk-has-given-up-on-solar-power-on-earth/)**
   *Elon Muks's xAI has gone all in on natural gas, while SpaceX is obsessed with orbital data centers. What happened to the "solar-electric economy" he promised?...*
@@ -89,47 +99,21 @@
   *People used AI on a spectrogram image of cockpit recordings to reconstruct them, forcing the NTSB to temporarily block access to its docket system....*
   📅 Fri, 22 May 2026 23:03:33 +0000
 
-- **[SpaceX launches Starship V3 for the first time, but loses booster on return](https://techcrunch.com/2026/05/22/spacex-launches-starship-v3-for-the-first-time-but-loses-booster-on-return/)**
-  *The company had a mostly successful first launch of its upgraded Starship V3, which it needs to power its many ambitious goals in the years to come....*
-  📅 Fri, 22 May 2026 22:55:57 +0000
-
-- **[Blue Origin cleared to fly New Glenn mega-rocket after April mishap](https://techcrunch.com/2026/05/22/blue-origin-cleared-to-fly-new-glenn-mega-rocket-after-april-mishap/)**
-  *Jeff Bezos' rocket company confirmed an engine failure led to the loss of an AST SpaceMobile satellite last month, but offered little detail....*
-  📅 Fri, 22 May 2026 21:37:17 +0000
-
-- **[Google goes for the glitter with disco-ball icons: ‘Are y’all sure you still want this?’](https://techcrunch.com/2026/05/22/google-goes-for-the-glitter-with-disco-ball-icons-are-yall-sure-you-still-want-this/)**
-  *You can now disco ball-ify your entire Pixel home screen, says Google....*
-  📅 Fri, 22 May 2026 21:02:36 +0000
-
 ### 📑 Dev.to
 
-- **[A Field Guide to Human–AI Relations (For the Newly Bewildered Mortal)](https://dev.to/narnaiezzsshaa/a-field-guide-to-human-ai-relations-for-the-newly-bewildered-mortal-42k9)**
-  *<p><em>An illustrated bestiary of the creatures you accidentally summon when you open a text box.</em></p>
+- **[Build a streaming UI without overcomplicating it](https://dev.to/vimaltwit/build-a-streaming-ui-without-overcomplicating-it-1m3f)**
+  *<p>If you are building a UI that needs to show progress, logs, or live updates, you do not need to jump straight to WebSockets. In many cases, SSE is the simpler and more appropriate choice.It is a br...*
+  📅 Sat, 23 May 2026 18:53:40 +0000
 
-
-
-
-<h2>
+- **[The Cost of Kernel CVE Patching Frequency in SLA Commitments](https://dev.to/merbayerp/the-cost-of-kernel-cve-patching-frequency-in-sla-commitments-5fm0)**
+  *<h2>
   
   
-  The Oracle You Keep Asking About Your Ex
+  The Dilemma of SLA Commitments and Kernel Patching
 </h2>
 
-<p>Humans approach this shim...*
-  📅 Sat, 23 May 2026 12:55:39 +0000
-
-- **[The AI Agent That Learns While It Works — A Complete Guide to Hermes Agent](https://dev.to/aditya_007/the-ai-agent-that-learns-while-it-works-a-complete-guide-to-hermes-agent-n2n)**
-  *<p><em>This is a submission for the <a href="https://dev.to/challenges/hermes-agent-2026-05-15">Hermes Agent Challenge</a></em></p>
-
-
-
-
-<h2>
-  
-  
-  Most AI Agents Are Goldfish. Hermes Is Different.
-<...*
-  📅 Sat, 23 May 2026 12:55:26 +0000
+<p>While trying to push the SLA of a production ERP system to 99.999%, critical security vulnerabilities (CVEs) in the underlying...*
+  📅 Sat, 23 May 2026 18:52:37 +0000
 
 </details>
 
@@ -137,105 +121,105 @@
 
 ### 📈 Daily Trending
 
+- **[bonus-2026/casino-bonus](https://github.com/bonus-2026/casino-bonus)** ⭐ 173
+  ![None](https://img.shields.io/badge/-None-lightgrey)
+  Casino Bonus guide featuring a $250 USD no deposit welcome reward for new users with promo code DROP. Explore crypto casino bonuses, cashback systems, welcome offers, and gaming platform features
+
 - **[gokulgml/polymarket-copy-trading-bot](https://github.com/gokulgml/polymarket-copy-trading-bot)** ⭐ 136
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   polymarket trading bot,polymarket copy trading bot,polymarket trading bot,polymarket copy trading bot,polymarket trading bot,polymarket copy trading bot,polymarket trading bot,polymarket copy trading bot,polymarket trading bot,polymarket copy trading bot,polymarket trading bot,polymarket copy trading bot,
 
-- **[resonancegnatassess/Lossless-Scaling](https://github.com/resonancegnatassess/Lossless-Scaling)** ⭐ 83
+- **[resonancegnatassess/Lossless-Scaling](https://github.com/resonancegnatassess/Lossless-Scaling)** ⭐ 113
   ![Python](https://img.shields.io/badge/-Python-blue)
   Powerful upscaling and frame generation tool with LSFG technology for sharper visuals and higher FPS. One-command install.
 
-- **[bryanyzhu/agentic-ai-system-course](https://github.com/bryanyzhu/agentic-ai-system-course)** ⭐ 63
-  ![Shell](https://img.shields.io/badge/-Shell-lightgrey)
-  Use agent to learn agent - A skeleton course on how to design, build, and operate production AI agents 
+- **[Signal-Market-Engine/polymarket-trading-bot](https://github.com/Signal-Market-Engine/polymarket-trading-bot)** ⭐ 79
+  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
+  polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot
 
-- **[wordpress-gcb/gutenberg-control-blocks-lite](https://github.com/wordpress-gcb/gutenberg-control-blocks-lite)** ⭐ 60
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
-  None
+- **[Alpha-Vector-Core/polymarket-trading-bot](https://github.com/Alpha-Vector-Core/polymarket-trading-bot)** ⭐ 79
+  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
+  polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot
 
-- **[aref-vc/tufte-claude-skill](https://github.com/aref-vc/tufte-claude-skill)** ⭐ 27
-  ![HTML](https://img.shields.io/badge/-HTML-lightgrey)
-  Claude Code skill that turns 'make me a chart' into a Tufte-compliant chart. Distilled from Edward Tufte's three foundational books.
+- **[Alpha-Vector-Core/polymarket-arbitrage-trading-bot](https://github.com/Alpha-Vector-Core/polymarket-arbitrage-trading-bot)** ⭐ 79
+  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
+  polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot
 
-- **[zarifboevv13/21.05.2026-](https://github.com/zarifboevv13/21.05.2026-)** ⭐ 25
-  ![None](https://img.shields.io/badge/-None-lightgrey)
-  None
+- **[Quantum-Probability-Forge/polymarket-arbitrage-trading-bot](https://github.com/Quantum-Probability-Forge/polymarket-arbitrage-trading-bot)** ⭐ 79
+  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
+  polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot
 
-- **[zarifboevv13/ali2](https://github.com/zarifboevv13/ali2)** ⭐ 25
-  ![None](https://img.shields.io/badge/-None-lightgrey)
-  None
-
-- **[zarifboevv13/topshiriq4](https://github.com/zarifboevv13/topshiriq4)** ⭐ 25
-  ![None](https://img.shields.io/badge/-None-lightgrey)
-  None
+- **[Quantum-Probability-Forge/polymarket-trading-bot](https://github.com/Quantum-Probability-Forge/polymarket-trading-bot)** ⭐ 79
+  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
+  polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot
 
 ### 📈 Weekly Trending
 
-- **[FoundZiGu/GuJumpgate](https://github.com/FoundZiGu/GuJumpgate)** ⭐ 1,962
+- **[FoundZiGu/GuJumpgate](https://github.com/FoundZiGu/GuJumpgate)** ⭐ 2,033
   ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
   None
 
-- **[thananon/9arm-skills](https://github.com/thananon/9arm-skills)** ⭐ 1,759
+- **[thananon/9arm-skills](https://github.com/thananon/9arm-skills)** ⭐ 1,837
   ![Shell](https://img.shields.io/badge/-Shell-lightgrey)
   None
 
-- **[Doorman11991/smallcode](https://github.com/Doorman11991/smallcode)** ⭐ 1,257
+- **[Doorman11991/smallcode](https://github.com/Doorman11991/smallcode)** ⭐ 1,283
   ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
   AI coding agent optimized for small LLMs. 87% benchmark with 4B-active model.
 
-- **[datawhalechina/Agent-Learning-Hub](https://github.com/datawhalechina/Agent-Learning-Hub)** ⭐ 1,177
+- **[datawhalechina/Agent-Learning-Hub](https://github.com/datawhalechina/Agent-Learning-Hub)** ⭐ 1,205
   ![HTML](https://img.shields.io/badge/-HTML-lightgrey)
   AI Agent 学习路线与资料库收集
 
-- **[sapientinc/HRM-Text](https://github.com/sapientinc/HRM-Text)** ⭐ 663
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  HRM-Text is a 1B text generation model based on the HRM architecture, strengthened by task completion and latent space reasoning.
-
-- **[perplexityai/bumblebee](https://github.com/perplexityai/bumblebee)** ⭐ 655
+- **[perplexityai/bumblebee](https://github.com/perplexityai/bumblebee)** ⭐ 842
   ![Go](https://img.shields.io/badge/-Go-cyan)
   Read-only developer endpoint scanner for on-disk package, extension, and developer-tool metadata, built to check exposure to known software supply-chain compromises.
 
-- **[kageroumado/phosphene](https://github.com/kageroumado/phosphene)** ⭐ 613
+- **[sapientinc/HRM-Text](https://github.com/sapientinc/HRM-Text)** ⭐ 671
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  HRM-Text is a 1B text generation model based on the HRM architecture, strengthened by task completion and latent space reasoning.
+
+- **[kageroumado/phosphene](https://github.com/kageroumado/phosphene)** ⭐ 623
   ![Swift](https://img.shields.io/badge/-Swift-lightgrey)
   A video wallpaper engine for macOS Tahoe
 
-- **[lynote-ai/humanize-text](https://github.com/lynote-ai/humanize-text)** ⭐ 510
+- **[lynote-ai/humanize-text](https://github.com/lynote-ai/humanize-text)** ⭐ 536
   ![Python](https://img.shields.io/badge/-Python-blue)
   Free open-source AI text humanizer to convert AI-generated content into undetectable, human-like writing. Bypass Turnitin, GPTZero, and all major AI detectors. No sign-up required. Try our unlimited free online tool
 
 ### 📈 Monthly Trending
 
-- **[nexu-io/open-design](https://github.com/nexu-io/open-design)** ⭐ 50,303
+- **[nexu-io/open-design](https://github.com/nexu-io/open-design)** ⭐ 50,505
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   🎨 Local-first, open-source  Claude Design alternative. ⚡ 19 Skills · ✨ 71 brand-grade Design Systems 🖼 Generate web · desktop · mobile prototypes · slides · images · videos · HyperFrames 📦 Sandboxed preview · HTML/PDF/PPTX/MP4 export 🤖 Runs on Claude Code / Codex / Cursor / Gemini / OpenCode / Qwen / Copilot / Hermes / Kimi CLI.
 
-- **[antirez/ds4](https://github.com/antirez/ds4)** ⭐ 11,483
+- **[antirez/ds4](https://github.com/antirez/ds4)** ⭐ 11,539
   ![C](https://img.shields.io/badge/-C-lightgrey)
   DeepSeek 4 Flash local inference engine for Metal and CUDA
 
-- **[Yuan1z0825/nature-skills](https://github.com/Yuan1z0825/nature-skills)** ⭐ 10,820
+- **[Yuan1z0825/nature-skills](https://github.com/Yuan1z0825/nature-skills)** ⭐ 10,908
   ![Python](https://img.shields.io/badge/-Python-blue)
   符合nature论文学术表达和科研绘图的Skill
 
-- **[FULU-Foundation/OrcaSlicer-bambulab](https://github.com/FULU-Foundation/OrcaSlicer-bambulab)** ⭐ 6,372
+- **[FULU-Foundation/OrcaSlicer-bambulab](https://github.com/FULU-Foundation/OrcaSlicer-bambulab)** ⭐ 6,401
   ![C++](https://img.shields.io/badge/-C++-pink)
   None
 
-- **[freestylefly/awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2)** ⭐ 5,932
+- **[freestylefly/awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2)** ⭐ 6,041
   ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
   Prompt as Code | GPT-Image2 工业级提示词引擎与模板库，370+ 个案例逆向工程，20+ 套工业级模板，并提炼出Skills，持续更新中
 
-- **[V4bel/dirtyfrag](https://github.com/V4bel/dirtyfrag)** ⭐ 4,739
+- **[V4bel/dirtyfrag](https://github.com/V4bel/dirtyfrag)** ⭐ 4,745
   ![C](https://img.shields.io/badge/-C-lightgrey)
   None
 
-- **[nexu-io/html-anything](https://github.com/nexu-io/html-anything)** ⭐ 4,655
-  ![HTML](https://img.shields.io/badge/-HTML-lightgrey)
-  ✨ The agentic HTML editor — your local AI agent writes the HTML, you ship it. 🚀 75 Skills × 9 Surfaces (magazine · deck · poster · XHS / tweet · prototype · data report · Hyperframes) 🛡️ Sandboxed preview · 📤 1-click to WeChat / X / Zhihu / HTML / PNG 🔑 Zero API key — Claude Code / Cursor / Codex / Gemini / Copilot / OpenCode / Qwen / Aider.
-
-- **[BigPizzaV3/CodexPlusPlus](https://github.com/BigPizzaV3/CodexPlusPlus)** ⭐ 4,610
+- **[BigPizzaV3/CodexPlusPlus](https://github.com/BigPizzaV3/CodexPlusPlus)** ⭐ 4,717
   ![Rust](https://img.shields.io/badge/-Rust-brown)
   An enhanced tool for CodexApp, striving to make Codex better to use and more comfortable 一个CodexApp的增强工具，努力让Codex变得更好用更舒服
+
+- **[nexu-io/html-anything](https://github.com/nexu-io/html-anything)** ⭐ 4,675
+  ![HTML](https://img.shields.io/badge/-HTML-lightgrey)
+  ✨ The agentic HTML editor — your local AI agent writes the HTML, you ship it. 🚀 75 Skills × 9 Surfaces (magazine · deck · poster · XHS / tweet · prototype · data report · Hyperframes) 🛡️ Sandboxed preview · 📤 1-click to WeChat / X / Zhihu / HTML / PNG 🔑 Zero API key — Claude Code / Cursor / Codex / Gemini / Copilot / OpenCode / Qwen / Aider.
 
 ## 🚀 Latest Releases
 
@@ -507,19 +491,19 @@ See [kubernetes-announce@](https://groups.google.com/forum/#!forum/kubernetes-an
 
 | Skill | Status |
 |-------|--------|
-| Java | 🟡 Learning |
-| Python | 🟡 Learning |
+| Java | 🔴 Beginner |
+| Python | ⚪ Planned |
 | JavaScript | 🟢 Proficient |
-| TypeScript | 🟢 Proficient |
-| Go | 🔴 Beginner |
+| TypeScript | 🟡 Learning |
+| Go | 🟡 Learning |
 
 ### Frameworks
 
 | Skill | Status |
 |-------|--------|
-| React | 🟢 Proficient |
+| React | 🟡 Learning |
 | Spring Boot | 🟡 Learning |
-| Django | ⚪ Planned |
+| Django | 🟢 Proficient |
 | Node.js | 🟢 Proficient |
 | Next.js | ⚪ Planned |
 
@@ -527,39 +511,39 @@ See [kubernetes-announce@](https://groups.google.com/forum/#!forum/kubernetes-an
 
 | Skill | Status |
 |-------|--------|
-| Penetration Testing | 🟢 Proficient |
-| Web Security | ⚪ Planned |
-| Network Security | ⚪ Planned |
-| OWASP | 🟢 Proficient |
+| Penetration Testing | 🔴 Beginner |
+| Web Security | 🟡 Learning |
+| Network Security | 🟢 Proficient |
+| OWASP | 🔴 Beginner |
 
 ### Ai Ml
 
 | Skill | Status |
 |-------|--------|
-| Machine Learning | 🟢 Proficient |
-| Deep Learning | ⚪ Planned |
-| NLP | 🔴 Beginner |
-| Computer Vision | 🟡 Learning |
-| TensorFlow | 🟢 Proficient |
+| Machine Learning | ⚪ Planned |
+| Deep Learning | 🔴 Beginner |
+| NLP | 🟢 Proficient |
+| Computer Vision | 🟢 Proficient |
+| TensorFlow | 🟡 Learning |
 | PyTorch | ⚪ Planned |
 
 ### Devops
 
 | Skill | Status |
 |-------|--------|
-| Docker | 🔴 Beginner |
-| Kubernetes | 🔴 Beginner |
-| CI/CD | 🔴 Beginner |
-| AWS | 🟢 Proficient |
+| Docker | 🟡 Learning |
+| Kubernetes | ⚪ Planned |
+| CI/CD | ⚪ Planned |
+| AWS | 🟡 Learning |
 | Azure | 🔴 Beginner |
 
 ### Other
 
 | Skill | Status |
 |-------|--------|
-| Blockchain | 🟢 Proficient |
+| Blockchain | 🔴 Beginner |
 | Web3 | 🟡 Learning |
-| Cloud Computing | 🟡 Learning |
+| Cloud Computing | 🟢 Proficient |
 
 </details>
 
