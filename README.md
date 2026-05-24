@@ -20,7 +20,7 @@
 | Metric | Count |
 |--------|-------|
 | 📰 Latest News Articles | 26 |
-| 🔥 Trending Repositories | 45 |
+| 🔥 Trending Repositories | 0 |
 | 🎯 Latest Releases | 10 |
 | 🎯 Learning Goals | 4 |
 
@@ -46,37 +46,53 @@
 
 ### 📑 Hacker News
 
-- **[Childhood Computing](https://susam.net/childhood-computing.html)**
-  *<p>Article URL: <a href="https://susam.net/childhood-computing.html">https://susam.net/childhood-computing.html</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=48256597">https:/...*
-  📅 Sun, 24 May 2026 12:07:34 +0000
+- **[Don't know where your data is from? Bayesian modeling for unknown coordinates](https://christopherkrapu.com/blog/2026/dont-know-where-your-data-is-from/)**
+  *<p>Article URL: <a href="https://christopherkrapu.com/blog/2026/dont-know-where-your-data-is-from/">https://christopherkrapu.com/blog/2026/dont-know-where-your-data-is-from/</a></p>
+<p>Comments URL: <...*
+  📅 Sun, 24 May 2026 17:18:52 +0000
 
-- **[Mastering Dyalog APL](https://mastering.dyalog.com/README.html)**
-  *<p>Article URL: <a href="https://mastering.dyalog.com/README.html">https://mastering.dyalog.com/README.html</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=48256475">https://new...*
-  📅 Sun, 24 May 2026 11:42:15 +0000
+- **[Flick (YC F25) Is Hiring Front End Engineer to Build Figma for AI Filmmaking](https://www.ycombinator.com/companies/flick/jobs/Tdu6FH6-senior-frontend-engineer)**
+  *<p>Article URL: <a href="https://www.ycombinator.com/companies/flick/jobs/Tdu6FH6-senior-frontend-engineer">https://www.ycombinator.com/companies/flick/jobs/Tdu6FH6-senior-frontend-engineer</a></p>
+<p...*
+  📅 Sun, 24 May 2026 17:00:46 +0000
 
-- **[The Worlds Left to Conquer](https://ludic.mataroa.blog/blog/the-worlds-left-to-conquer/)**
-  *<p>Article URL: <a href="https://ludic.mataroa.blog/blog/the-worlds-left-to-conquer/">https://ludic.mataroa.blog/blog/the-worlds-left-to-conquer/</a></p>
-<p>Comments URL: <a href="https://news.ycombin...*
-  📅 Sun, 24 May 2026 10:48:48 +0000
+- **[FreeBSD Foundation Executive Director Tries Daily Driving FreeBSD on Laptop](https://www.phoronix.com/news/FreeBSD-On-Laptop-Driver)**
+  *<p>Article URL: <a href="https://www.phoronix.com/news/FreeBSD-On-Laptop-Driver">https://www.phoronix.com/news/FreeBSD-On-Laptop-Driver</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/i...*
+  📅 Sun, 24 May 2026 16:36:26 +0000
 
-- **[Greg Brockman: Inside the 72 Hours That Almost Killed OpenAI](https://fs.blog/knowledge-project-podcast/greg-brockman/)**
-  *<p>Article URL: <a href="https://fs.blog/knowledge-project-podcast/greg-brockman/">https://fs.blog/knowledge-project-podcast/greg-brockman/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.c...*
-  📅 Sun, 24 May 2026 08:29:38 +0000
+- **[Memory has grown to nearly two-thirds of AI chip component costs](https://epoch.ai/data-insights/ai-chip-component-cost-shares)**
+  *<p>Article URL: <a href="https://epoch.ai/data-insights/ai-chip-component-cost-shares">https://epoch.ai/data-insights/ai-chip-component-cost-shares</a></p>
+<p>Comments URL: <a href="https://news.ycomb...*
+  📅 Sun, 24 May 2026 16:31:29 +0000
 
-- **[All Lean Books and Where to Find Them](https://lakesare.brick.do/all-lean-books-and-where-to-find-them-x2nYwjM3AwBQ)**
-  *<p>Article URL: <a href="https://lakesare.brick.do/all-lean-books-and-where-to-find-them-x2nYwjM3AwBQ">https://lakesare.brick.do/all-lean-books-and-where-to-find-them-x2nYwjM3AwBQ</a></p>
-<p>Comments ...*
-  📅 Sun, 24 May 2026 08:13:32 +0000
+- **[Ruby for Good](https://ti.to/codeforgood/rubyforgood)**
+  *<p>Article URL: <a href="https://ti.to/codeforgood/rubyforgood">https://ti.to/codeforgood/rubyforgood</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=48258254">https://news.ycom...*
+  📅 Sun, 24 May 2026 15:49:19 +0000
 
-- **[Amazon Web Services – Four Years and Out](https://www.adventuresinoss.com/aws-four-years/)**
-  *<p>Article URL: <a href="https://www.adventuresinoss.com/aws-four-years/">https://www.adventuresinoss.com/aws-four-years/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=4825447...*
-  📅 Sun, 24 May 2026 04:51:22 +0000
+- **[Usborne 1980s Computer Books](https://usborne.com/us/books/computer-and-coding-books)**
+  *<p>Article URL: <a href="https://usborne.com/us/books/computer-and-coding-books">https://usborne.com/us/books/computer-and-coding-books</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/i...*
+  📅 Sun, 24 May 2026 15:43:00 +0000
 
 ### 📑 TechCrunch
+
+- **[Xreal, Google’s smartglasses partner, thinks it has finally mastered this notoriously tricky industry](https://techcrunch.com/2026/05/24/xreal-googles-smartglasses-partner-thinks-it-has-finally-mastered-this-notoriously-tricky-industry/)**
+  *Chi Xu, the founder and CEO of XREAL, thinks the smart glasses business has finally reached a turning point....*
+  📅 Sun, 24 May 2026 19:00:00 +0000
+
+- **[6 kitchen gadgets that make adulting feel easier](https://techcrunch.com/2026/05/24/6-kitchen-gadgets-that-make-adulting-feel-easier/)**
+  *From a robot stirring your soup to a bread machine that kneads your dough, here are 6 gadgets that may make you feel like you’ve won adulthood....*
+  📅 Sun, 24 May 2026 17:00:00 +0000
+
+- **[TechCrunch Mobility: Robotaxi reality check](https://techcrunch.com/2026/05/24/techcrunch-mobility-robotaxi-reality-check/)**
+  *Welcome back to TechCrunch Mobility — your central hub for news and insights on the future of transportation....*
+  📅 Sun, 24 May 2026 16:05:00 +0000
+
+- **[I tried Amazon’s Bee wearable and am both intrigued and slightly creeped out](https://techcrunch.com/2026/05/24/i-tried-amazons-bee-wearable-and-am-both-intrigued-and-slightly-creeped-out/)**
+  *Like other AI wearables, Amazon's Bee offers an odd combination of convenience and privacy anxiety....*
+  📅 Sun, 24 May 2026 15:00:00 +0000
 
 - **[The Dreamie alarm clock got me to stop using my phone in bed](https://techcrunch.com/2026/05/24/the-dreamie-alarm-clock-got-me-to-stop-using-my-phone-in-bed/)**
   *What sets Dreamie apart from all of the other fancy alarm clocks is laughably simple: It can play podcasts....*
@@ -86,37 +102,10 @@
   *SolarSquare could be valued at up to $500 million in the financing expected to close next month....*
   📅 Sat, 23 May 2026 20:03:13 +0000
 
-- **[These special phone and app features can help protect you from spyware](https://techcrunch.com/2026/05/23/you-dont-have-to-click-anything-to-get-hacked-anymore-heres-how-to-fight-back/)**
-  *Apple, Meta, and Google offer special security modes that provide your devices more secure against targeted spyware attacks. Here are how those modes work, what they do, and how to switch them on....*
-  📅 Sat, 23 May 2026 16:00:00 +0000
-
-- **[Ferrari is using IBM’s AI to create F1 superfans](https://techcrunch.com/2026/05/23/ferrari-is-using-ai-to-create-f1-superfans/)**
-  *IBM and Scuderia Ferrari HP take TechCrunch inside how they are redefining the fan experience....*
-  📅 Sat, 23 May 2026 15:08:00 +0000
-
-- **[Nuclear startup Deep Fission says it’s going public, again, and I have questions](https://techcrunch.com/2026/05/23/nuclear-startup-deep-fission-says-its-going-public-again-and-i-have-questions/)**
-  *Deep Fission is seeking an IPO that could raise $157 million, though investors may have trouble buying the nuclear startup's story....*
-  📅 Sat, 23 May 2026 14:50:00 +0000
-
-- **[Elon Musk has given up on solar power (on Earth)](https://techcrunch.com/2026/05/23/elon-musk-has-given-up-on-solar-power-on-earth/)**
-  *Elon Muks's xAI has gone all in on natural gas, while SpaceX is obsessed with orbital data centers. What happened to the "solar-electric economy" he promised?...*
-  📅 Sat, 23 May 2026 13:00:00 +0000
-
 ### 📑 Dev.to
 
-- **[I built an AI IDE where the AI tries to hack its own code here's how the swarm works](https://dev.to/malgatyuvraj/i-built-an-ai-ide-where-the-ai-tries-to-hack-its-own-code-heres-how-the-swarm-works-28a5)**
-  *<p>Most AI coding tools are built to assist you.</p>
-
-<p>Rogue Studio is built to attack you — specifically, to attack <br />
-the code it just wrote for you, find every vulnerability, and <br />
-force...*
-  📅 Sun, 24 May 2026 12:48:50 +0000
-
-- **[From Govhack Win to Something That Actually Matters](https://dev.to/ujja/from-govhack-win-to-something-that-actually-matters-2mmi)**
-  *<p><em>This is a submission for the <a href="https://dev.to/challenges/github-2026-05-21">GitHub Finish-Up-A-Thon Challenge</a></em></p>
-
-
-
+- **[I built a local first AI CCTV assistant using Gemma 4 + Frigate](https://dev.to/dhanushreddy29/i-built-a-local-first-ai-cctv-assistant-using-gemma-4-frigate-42m8)**
+  *<p><em>This is a submission for the <a href="https://dev.to/challenges/google-gemma-2026-05-06">Gemma 4 Challenge: Build with Gemma 4</a></em></p>
 
 <h2>
   
@@ -124,114 +113,24 @@ force...*
   What I Built
 </h2>
 
-<p>Project Haven is an AI-...*
-  📅 Sun, 24 May 2026 12:46:29 +0000
+<p>I Built a local-...*
+  📅 Sun, 24 May 2026 18:48:26 +0000
+
+- **[CrowdShield AI — Smart Stadium Operating System & Crowd Intelligence Platform](https://dev.to/abhisek_d36645346a8/crowdshield-ai-smart-stadium-operating-system-crowd-intelligence-platform-4m6e)**
+  *<p><em>This is a submission for the <a href="https://dev.to/challenges/github-2026-05-21">GitHub Finish-Up-A-Thon Challenge</a></em></p>
+
+<h2>
+  
+  
+  What I Built
+</h2>
+
+<p>CrowdShield AI is a live p...*
+  📅 Sun, 24 May 2026 18:43:53 +0000
 
 </details>
 
 ## 🔥 Trending Repositories
-
-### 📈 Daily Trending
-
-- **[modaic-ai/gepa-viz](https://github.com/modaic-ai/gepa-viz)** ⭐ 75
-  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
-  Interactive live visualizer for gepa runs
-
-- **[anandhi1086/Food-Donation-Platform](https://github.com/anandhi1086/Food-Donation-Platform)** ⭐ 68
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
-  A Food Donation Platform is a web/mobile-based application developed to reduce food wastage and help needy people by connecting food donors with NGOs, volunteers, and shelters. The platform enables restaurants, hotels, supermarkets, and individuals to donate excess food quickly and efficiently.  
-
-- **[maowuzz/chatgpt-session-forge](https://github.com/maowuzz/chatgpt-session-forge)** ⭐ 63
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
-  ChatGPT 会话管理与 CPA/sub2api/Cockpit 导出工具 / Local ChatGPT session manager and CPA/sub2api/Cockpit exporter
-
-- **[zclllyybb/lofisu-identity-engine](https://github.com/zclllyybb/lofisu-identity-engine)** ⭐ 51
-  ![None](https://img.shields.io/badge/-None-lightgrey)
-  卖课，卖课，还是tmd卖课！
-
-- **[Indhuja536/Youtube_project](https://github.com/Indhuja536/Youtube_project)** ⭐ 43
-  ![HTML](https://img.shields.io/badge/-HTML-lightgrey)
-  None
-
-- **[itskeerthana20-sudo/CLEANDIGI](https://github.com/itskeerthana20-sudo/CLEANDIGI)** ⭐ 38
-  ![HTML](https://img.shields.io/badge/-HTML-lightgrey)
-  CleanDigi is a smart digital cleaning app designed to help users organize and optimize their devices effortlessly. It removes junk files, clears cache, manages storage, and improves device performance with a simple and user friendly interface. The app helps keep phones fast, clean, and efficient for everyday use.
-
-- **[arpithama14-netizen/todo_list](https://github.com/arpithama14-netizen/todo_list)** ⭐ 36
-  ![CSS](https://img.shields.io/badge/-CSS-lightgrey)
-  None
-
-- **[batman634/coral-reef](https://github.com/batman634/coral-reef)** ⭐ 35
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  None
-
-### 📈 Weekly Trending
-
-- **[FoundZiGu/GuJumpgate](https://github.com/FoundZiGu/GuJumpgate)** ⭐ 2,231
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
-  None
-
-- **[thananon/9arm-skills](https://github.com/thananon/9arm-skills)** ⭐ 1,944
-  ![Shell](https://img.shields.io/badge/-Shell-lightgrey)
-  None
-
-- **[perplexityai/bumblebee](https://github.com/perplexityai/bumblebee)** ⭐ 1,820
-  ![Go](https://img.shields.io/badge/-Go-cyan)
-  Read-only developer endpoint scanner for on-disk package, extension, and developer-tool metadata, built to check exposure to known software supply-chain compromises.
-
-- **[Doorman11991/smallcode](https://github.com/Doorman11991/smallcode)** ⭐ 1,361
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
-  AI coding agent optimized for small LLMs. 87% benchmark with 4B-active model.
-
-- **[sapientinc/HRM-Text](https://github.com/sapientinc/HRM-Text)** ⭐ 697
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  HRM-Text is a 1B text generation model based on the HRM architecture, strengthened by task completion and latent space reasoning.
-
-- **[kageroumado/phosphene](https://github.com/kageroumado/phosphene)** ⭐ 640
-  ![Swift](https://img.shields.io/badge/-Swift-lightgrey)
-  A video wallpaper engine for macOS Tahoe
-
-- **[lynote-ai/humanize-text](https://github.com/lynote-ai/humanize-text)** ⭐ 601
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  Free open-source AI text humanizer to convert AI-generated content into undetectable, human-like writing. Bypass Turnitin, GPTZero, and all major AI detectors. No sign-up required. Try our unlimited free online tool
-
-- **[basketikun/infinite-canvas](https://github.com/basketikun/infinite-canvas)** ⭐ 467
-  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
-  面向AI创作的开源无限画布工作台，集成 AI 生图、参考图编辑、画布编排、对话助手、提示词库和素材管理等功能。
-
-### 📈 Monthly Trending
-
-- **[nexu-io/open-design](https://github.com/nexu-io/open-design)** ⭐ 50,976
-  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
-  🎨 Local-first, open-source  Claude Design alternative. ⚡ 19 Skills · ✨ 71 brand-grade Design Systems 🖼 Generate web · desktop · mobile prototypes · slides · images · videos · HyperFrames 📦 Sandboxed preview · HTML/PDF/PPTX/MP4 export 🤖 Runs on Claude Code / Codex / Cursor / Gemini / OpenCode / Qwen / Copilot / Hermes / Kimi CLI.
-
-- **[antirez/ds4](https://github.com/antirez/ds4)** ⭐ 11,623
-  ![C](https://img.shields.io/badge/-C-lightgrey)
-  DeepSeek 4 Flash local inference engine for Metal and CUDA
-
-- **[FULU-Foundation/OrcaSlicer-bambulab](https://github.com/FULU-Foundation/OrcaSlicer-bambulab)** ⭐ 6,440
-  ![C++](https://img.shields.io/badge/-C++-pink)
-  None
-
-- **[freestylefly/awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2)** ⭐ 6,258
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
-  Prompt as Code | GPT-Image2 工业级提示词引擎与模板库，370+ 个案例逆向工程，20+ 套工业级模板，并提炼出Skills，持续更新中
-
-- **[BigPizzaV3/CodexPlusPlus](https://github.com/BigPizzaV3/CodexPlusPlus)** ⭐ 4,950
-  ![Rust](https://img.shields.io/badge/-Rust-brown)
-  An enhanced tool for CodexApp, striving to make Codex better to use and more comfortable 一个CodexApp的增强工具，努力让Codex变得更好用更舒服
-
-- **[nexu-io/html-anything](https://github.com/nexu-io/html-anything)** ⭐ 4,756
-  ![HTML](https://img.shields.io/badge/-HTML-lightgrey)
-  ✨ The agentic HTML editor — your local AI agent writes the HTML, you ship it. 🚀 75 Skills × 9 Surfaces (magazine · deck · poster · XHS / tweet · prototype · data report · Hyperframes) 🛡️ Sandboxed preview · 📤 1-click to WeChat / X / Zhihu / HTML / PNG 🔑 Zero API key — Claude Code / Cursor / Codex / Gemini / Copilot / OpenCode / Qwen / Aider.
-
-- **[V4bel/dirtyfrag](https://github.com/V4bel/dirtyfrag)** ⭐ 4,752
-  ![C](https://img.shields.io/badge/-C-lightgrey)
-  None
-
-- **[vercel-labs/zerolang](https://github.com/vercel-labs/zerolang)** ⭐ 4,435
-  ![C](https://img.shields.io/badge/-C-lightgrey)
-  The programming language for agents
 
 ## 🚀 Latest Releases
 
@@ -504,8 +403,8 @@ See [kubernetes-announce@](https://groups.google.com/forum/#!forum/kubernetes-an
 | Skill | Status |
 |-------|--------|
 | Java | 🟢 Proficient |
-| Python | 🟡 Learning |
-| JavaScript | 🟢 Proficient |
+| Python | 🟢 Proficient |
+| JavaScript | ⚪ Planned |
 | TypeScript | 🟢 Proficient |
 | Go | 🟡 Learning |
 
@@ -514,48 +413,48 @@ See [kubernetes-announce@](https://groups.google.com/forum/#!forum/kubernetes-an
 | Skill | Status |
 |-------|--------|
 | React | ⚪ Planned |
-| Spring Boot | 🟢 Proficient |
-| Django | 🟢 Proficient |
-| Node.js | 🔴 Beginner |
+| Spring Boot | 🔴 Beginner |
+| Django | ⚪ Planned |
+| Node.js | 🟢 Proficient |
 | Next.js | 🟢 Proficient |
 
 ### Cybersecurity
 
 | Skill | Status |
 |-------|--------|
-| Penetration Testing | 🟢 Proficient |
-| Web Security | 🟡 Learning |
-| Network Security | ⚪ Planned |
-| OWASP | 🟢 Proficient |
+| Penetration Testing | 🟡 Learning |
+| Web Security | 🟢 Proficient |
+| Network Security | 🔴 Beginner |
+| OWASP | 🔴 Beginner |
 
 ### Ai Ml
 
 | Skill | Status |
 |-------|--------|
-| Machine Learning | 🟢 Proficient |
-| Deep Learning | 🔴 Beginner |
+| Machine Learning | 🟡 Learning |
+| Deep Learning | 🟢 Proficient |
 | NLP | ⚪ Planned |
-| Computer Vision | 🔴 Beginner |
-| TensorFlow | 🟢 Proficient |
+| Computer Vision | 🟡 Learning |
+| TensorFlow | 🟡 Learning |
 | PyTorch | ⚪ Planned |
 
 ### Devops
 
 | Skill | Status |
 |-------|--------|
-| Docker | 🔴 Beginner |
-| Kubernetes | ⚪ Planned |
-| CI/CD | 🟡 Learning |
-| AWS | ⚪ Planned |
-| Azure | 🟢 Proficient |
+| Docker | ⚪ Planned |
+| Kubernetes | 🟡 Learning |
+| CI/CD | 🟢 Proficient |
+| AWS | 🔴 Beginner |
+| Azure | 🟡 Learning |
 
 ### Other
 
 | Skill | Status |
 |-------|--------|
-| Blockchain | ⚪ Planned |
-| Web3 | 🟡 Learning |
-| Cloud Computing | 🔴 Beginner |
+| Blockchain | 🟡 Learning |
+| Web3 | 🔴 Beginner |
+| Cloud Computing | 🟡 Learning |
 
 </details>
 
