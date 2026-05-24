@@ -46,34 +46,32 @@
 
 ### 📑 Hacker News
 
-- **[The day my ping took countermeasures](https://blog.cloudflare.com/the-day-my-ping-took-countermeasures/)**
-  *<p>Article URL: <a href="https://blog.cloudflare.com/the-day-my-ping-took-countermeasures/">https://blog.cloudflare.com/the-day-my-ping-took-countermeasures/</a></p>
-<p>Comments URL: <a href="https://...*
-  📅 Sun, 24 May 2026 02:02:05 +0000
+- **[Amazon Web Services – Four Years and Out](https://www.adventuresinoss.com/aws-four-years/)**
+  *<p>Article URL: <a href="https://www.adventuresinoss.com/aws-four-years/">https://www.adventuresinoss.com/aws-four-years/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=4825447...*
+  📅 Sun, 24 May 2026 04:51:22 +0000
+
+- **[The C++ Standard Library Has Been Walking Itself Back for Fifteen Years](https://hftuniversity.com/post/the-c-standard-library-has-been-walking-itself-back-for-fifteen-years-and-the-receipts-are-public)**
+  *<p>Article URL: <a href="https://hftuniversity.com/post/the-c-standard-library-has-been-walking-itself-back-for-fifteen-years-and-the-receipts-are-public">https://hftuniversity.com/post/the-c-standard...*
+  📅 Sun, 24 May 2026 04:34:46 +0000
+
+- **[Why is Vivado 2026.1 dropping Linux support for free tier?](https://adaptivesupport.amd.com/s/question/0D5Pd00001YQLdMKAX/why-is-vivado-20261-dropping-linux-support-for-free-tier-?language=en_US)**
+  *<p>Article URL: <a href="https://adaptivesupport.amd.com/s/question/0D5Pd00001YQLdMKAX/why-is-vivado-20261-dropping-linux-support-for-free-tier-?language=en_US">https://adaptivesupport.amd.com/s/quest...*
+  📅 Sun, 24 May 2026 04:14:52 +0000
+
+- **[The C64 Dead Test Font](https://www.masswerk.at/nowgobang/2026/c64-dead-test-font)**
+  *<p>Article URL: <a href="https://www.masswerk.at/nowgobang/2026/c64-dead-test-font">https://www.masswerk.at/nowgobang/2026/c64-dead-test-font</a></p>
+<p>Comments URL: <a href="https://news.ycombinator...*
+  📅 Sun, 24 May 2026 03:57:01 +0000
+
+- **[Alexander Grothendieck Revolutionized 20th-Century Mathematics](https://www.quantamagazine.org/how-alexander-grothendieck-revolutionized-20th-century-mathematics-20260520/)**
+  *<p>Article URL: <a href="https://www.quantamagazine.org/how-alexander-grothendieck-revolutionized-20th-century-mathematics-20260520/">https://www.quantamagazine.org/how-alexander-grothendieck-revoluti...*
+  📅 Sun, 24 May 2026 03:19:02 +0000
 
 - **[Microsoft open-sources "the earliest DOS source code discovered to date"](https://arstechnica.com/gadgets/2026/04/microsoft-open-sources-the-earliest-dos-source-code-discovered-to-date/)**
   *<p><a href="https://opensource.microsoft.com/blog/2026/04/28/continuing-the-story-of-early-dos-development/" rel="nofollow">https://opensource.microsoft.com/blog/2026/04/28/continuing-...</a></p>
 <hr ...*
   📅 Sun, 24 May 2026 01:21:13 +0000
-
-- **[Scammers are abusing an internal Microsoft account to send spam links](https://techcrunch.com/2026/05/21/scammers-are-abusing-an-internal-microsoft-account-to-send-spam/)**
-  *<p>Article URL: <a href="https://techcrunch.com/2026/05/21/scammers-are-abusing-an-internal-microsoft-account-to-send-spam/">https://techcrunch.com/2026/05/21/scammers-are-abusing-an-internal-microsof...*
-  📅 Sun, 24 May 2026 00:51:32 +0000
-
-- **[Wake up! 16b](https://hellmood.111mb.de/wake_up_16b_writeup.html)**
-  *<p>Article URL: <a href="https://hellmood.111mb.de/wake_up_16b_writeup.html">https://hellmood.111mb.de/wake_up_16b_writeup.html</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=4...*
-  📅 Sun, 24 May 2026 00:30:50 +0000
-
-- **[When does learning from data work (math starting from basic probability)](https://prateekchandrajha.github.io/vc-rademacher.html)**
-  *<p>Article URL: <a href="https://prateekchandrajha.github.io/vc-rademacher.html">https://prateekchandrajha.github.io/vc-rademacher.html</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/i...*
-  📅 Sat, 23 May 2026 23:58:34 +0000
-
-- **[ICE Awards $25M Iris-Scanning Contract to Bi2 Technologies](https://www.projectsaltbox.com/p/ice-awards-25-million-iris-scanning)**
-  *<p>Article URL: <a href="https://www.projectsaltbox.com/p/ice-awards-25-million-iris-scanning">https://www.projectsaltbox.com/p/ice-awards-25-million-iris-scanning</a></p>
-<p>Comments URL: <a href="ht...*
-  📅 Sat, 23 May 2026 23:39:43 +0000
 
 ### 📑 TechCrunch
 
@@ -103,19 +101,54 @@
 
 ### 📑 Dev.to
 
-- **[When a 200-Line CPQ Quote Takes 30 Seconds: Where to Look First](https://dev.to/sapotacorp/when-a-200-line-cpq-quote-takes-30-seconds-where-to-look-first-434e)**
-  *<p>Enterprise deals do not have ten line items. They have two hundred, sometimes more. The same CPQ quote page that loads in 2 seconds for a small quote takes 30 to 45 seconds for a large one. Sales r...*
-  📅 Sun, 24 May 2026 02:09:58 +0000
+- **[Enhancing the AI Blog System: SQLite Support and Streamlined Publishing Features](https://dev.to/parth_girme_87f58cfe997c7/enhancing-the-ai-blog-system-sqlite-support-and-streamlined-publishing-features-59f7)**
+  *<h1>
+  
+  
+  Enhancing the AI Blog System: A Deep Dive into SQLite Integration and Workflow Optimization
+</h1>
 
-- **[SOQL Selectivity: Avoiding Full Table Scans on Million-Row Objects](https://dev.to/sapotacorp/soql-selectivity-avoiding-full-table-scans-on-million-row-objects-30cn)**
-  *<p>A Salesforce org grew from 50,000 Cases to 5 million Cases over four years. Apex code that processed Cases used to complete in 200ms. The same code now takes 30 seconds when it completes at all; so...*
-  📅 Sun, 24 May 2026 02:09:53 +0000
+<p><a class="article-body-image-wrapper" href="https://media2.dev.to/dynamic/image/width...*
+  📅 Sun, 24 May 2026 08:07:09 +0000
+
+- **[I Fine-Tuned Gemma 4 on an Emotion Dataset Using a Single GPU](https://dev.to/sujankoirala021/i-fine-tuned-gemma-4-on-an-emotion-dataset-using-a-single-gpu-e72)**
+  *<p><em>This is a submission for the <a href="https://dev.to/challenges/google-gemma-2026-05-06">Gemma 4 Challenge: Write About Gemma 4</a></em></p>
+
+
+
+
+<p>When Google dropped Gemma 4 in April 2025, my...*
+  📅 Sun, 24 May 2026 08:06:04 +0000
 
 </details>
 
 ## 🔥 Trending Repositories
 
 ### 📈 Daily Trending
+
+- **[modaic-ai/gepa-viz](https://github.com/modaic-ai/gepa-viz)** ⭐ 42
+  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
+  Interactive live visualizer for gepa runs
+
+- **[maowuzz/chatgpt-session-forge](https://github.com/maowuzz/chatgpt-session-forge)** ⭐ 42
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
+  ChatGPT 会话管理与 CPA/sub2api/Cockpit 导出工具 / Local ChatGPT session manager and CPA/sub2api/Cockpit exporter
+
+- **[zclllyybb/lofisu-identity-engine](https://github.com/zclllyybb/lofisu-identity-engine)** ⭐ 34
+  ![None](https://img.shields.io/badge/-None-lightgrey)
+  卖课，卖课，还是tmd卖课！
+
+- **[madhusundar240/Smart-AI-Healthcare](https://github.com/madhusundar240/Smart-AI-Healthcare)** ⭐ 23
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  A real-time AI and Machine Learning based healthcare application that predicts diseases from user symptoms using text, voice, and image inputs. The system supports multilingual communication, severity analysis, diet recommendations, PDF report generation, and nearby hospital navigation for smart medical assistance.
+
+- **[Gnaveenchander06/weather_app](https://github.com/Gnaveenchander06/weather_app)** ⭐ 16
+  ![CSS](https://img.shields.io/badge/-CSS-lightgrey)
+  None
+
+- **[highkay/keytoauth](https://github.com/highkay/keytoauth)** ⭐ 16
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  一个自动icloud取码到登录chatgpt取auth session最后转cpa+sub2api的脚本
 
 - **[SmithVestibule/Hytale-Mods-Windows-2026](https://github.com/SmithVestibule/Hytale-Mods-Windows-2026)** ⭐ 16
   ![None](https://img.shields.io/badge/-None-lightgrey)
@@ -125,95 +158,71 @@
   ![None](https://img.shields.io/badge/-None-lightgrey)
   ⭐️ Revo Uninstaller Pro 2026 | Uninstall Software Windows 10/11 | Complete Removal Tool | Setup Installer v5.0 | Activation Keygen License | Full Version Pre-Activated | Cleanup Junk Files | Manage Installed Programs | Latest Build Pro Updated | Get Desktop Genuine Original | Uninstaller Utility PC ⭐️
 
-- **[Cascadethroughspark/Spotify-Premium-Crack-2026](https://github.com/Cascadethroughspark/Spotify-Premium-Crack-2026)** ⭐ 16
-  ![None](https://img.shields.io/badge/-None-lightgrey)
-  ⭐️ Spotify Premium 2026 | Setup Installer v1.0 | Keygen License Key | Full Version Pre-Activated | Latest Build Pro | Bypass Activation Loader | Unlimited Music Streaming | Offline Downloads | High-Quality Audio | Get Desktop Version for Windows 10/11 PC | Enjoy All Features 2026 ⭐️
-
-- **[VisibleChefCraft/Ads-Power-Crack-Latest-TS](https://github.com/VisibleChefCraft/Ads-Power-Crack-Latest-TS)** ⭐ 14
-  ![None](https://img.shields.io/badge/-None-lightgrey)
-  ⭐️ Ads-Power Proxy Tool | Multi-Account Manager | Login Automation | Session Control Bypass | User-Agent Rotator | IP Rotation Manager | API Integration Tool | Full Version v3.5 | Latest Build 2026 | Windows 10/11 PC | Setup Installer Serial Key Pre-Activated ⭐️
-
-- **[Forestterbreak/SolidWorks-cracked](https://github.com/Forestterbreak/SolidWorks-cracked)** ⭐ 14
-  ![None](https://img.shields.io/badge/-None-lightgrey)
-  SolidWorks — 3D parametric design, simulation, PDM, rendering, electrical design, and technical communication.
-
-- **[OilGiraffeSing/4K-Video-Downloader-Plus-cracked](https://github.com/OilGiraffeSing/4K-Video-Downloader-Plus-cracked)** ⭐ 13
-  ![None](https://img.shields.io/badge/-None-lightgrey)
-  4K Video Downloader Plus — Download 4K and 8K videos, playlists, channels, and subtitles from YouTube, TikTok, and social.
-
-- **[firestokercloak/Battlefield-External-Crack-2026](https://github.com/firestokercloak/Battlefield-External-Crack-2026)** ⭐ 13
-  ![None](https://img.shields.io/badge/-None-lightgrey)
-  ⭐️ Battlefield-External Aimbot | ESP WH Wallhack Triggerbot NoRecoil | Glow Skin Changer RageHack Legit | Speedhack Fly BunnyHop NoClip | AntiAFK Auto Farm Auto Heal | Macro Mod Menu Loader Injector | HWID Spoofer Bypass Undetected | PC Steam 2026 Latest Build ⭐️
-
-- **[powersoldierduct/Boris-FX-Mocha-PRO-Crack](https://github.com/powersoldierduct/Boris-FX-Mocha-PRO-Crack)** ⭐ 12
-  ![None](https://img.shields.io/badge/-None-lightgrey)
-  ⭐️ Boris-FX-Mocha Download | Visual Effects Compositor v2023 | Setup Installer | Activation Key | License Key Pre-Activated | Full Version Serial | Latest Build Pro Updated | Get Desktop Working Windows 10/11 PC | Premium Loader Mod | Motion Graphics Software ⭐️
-
 ### 📈 Weekly Trending
 
-- **[FoundZiGu/GuJumpgate](https://github.com/FoundZiGu/GuJumpgate)** ⭐ 2,065
+- **[FoundZiGu/GuJumpgate](https://github.com/FoundZiGu/GuJumpgate)** ⭐ 2,150
   ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
   None
 
-- **[thananon/9arm-skills](https://github.com/thananon/9arm-skills)** ⭐ 1,865
+- **[thananon/9arm-skills](https://github.com/thananon/9arm-skills)** ⭐ 1,919
   ![Shell](https://img.shields.io/badge/-Shell-lightgrey)
   None
 
-- **[Doorman11991/smallcode](https://github.com/Doorman11991/smallcode)** ⭐ 1,321
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
-  AI coding agent optimized for small LLMs. 87% benchmark with 4B-active model.
-
-- **[perplexityai/bumblebee](https://github.com/perplexityai/bumblebee)** ⭐ 1,321
+- **[perplexityai/bumblebee](https://github.com/perplexityai/bumblebee)** ⭐ 1,599
   ![Go](https://img.shields.io/badge/-Go-cyan)
   Read-only developer endpoint scanner for on-disk package, extension, and developer-tool metadata, built to check exposure to known software supply-chain compromises.
 
-- **[sapientinc/HRM-Text](https://github.com/sapientinc/HRM-Text)** ⭐ 678
+- **[Doorman11991/smallcode](https://github.com/Doorman11991/smallcode)** ⭐ 1,344
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
+  AI coding agent optimized for small LLMs. 87% benchmark with 4B-active model.
+
+- **[sapientinc/HRM-Text](https://github.com/sapientinc/HRM-Text)** ⭐ 692
   ![Python](https://img.shields.io/badge/-Python-blue)
   HRM-Text is a 1B text generation model based on the HRM architecture, strengthened by task completion and latent space reasoning.
 
-- **[kageroumado/phosphene](https://github.com/kageroumado/phosphene)** ⭐ 628
+- **[kageroumado/phosphene](https://github.com/kageroumado/phosphene)** ⭐ 634
   ![Swift](https://img.shields.io/badge/-Swift-lightgrey)
   A video wallpaper engine for macOS Tahoe
 
-- **[lynote-ai/humanize-text](https://github.com/lynote-ai/humanize-text)** ⭐ 561
+- **[lynote-ai/humanize-text](https://github.com/lynote-ai/humanize-text)** ⭐ 582
   ![Python](https://img.shields.io/badge/-Python-blue)
   Free open-source AI text humanizer to convert AI-generated content into undetectable, human-like writing. Bypass Turnitin, GPTZero, and all major AI detectors. No sign-up required. Try our unlimited free online tool
 
-- **[xw7872081123/wallpaper-engine-steam](https://github.com/xw7872081123/wallpaper-engine-steam)** ⭐ 455
+- **[basketikun/infinite-canvas](https://github.com/basketikun/infinite-canvas)** ⭐ 461
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
-  Free Wallpaper Engine Steam: download PC windows 11, steam workshop downloader bypass, high CPU RAM usage fix, android apk mobile sync. 4k anime live wallpaper, black screen crash on startup, corsair icue razer chroma integration, ui32.exe error solution, scene web wallpaper, mobile connection pin, custom playlist screensaver, 
+  面向AI创作的开源无限画布工作台，集成 AI 生图、参考图编辑、画布编排、对话助手、提示词库和素材管理等功能。
 
 ### 📈 Monthly Trending
 
-- **[nexu-io/open-design](https://github.com/nexu-io/open-design)** ⭐ 50,659
+- **[nexu-io/open-design](https://github.com/nexu-io/open-design)** ⭐ 50,844
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   🎨 Local-first, open-source  Claude Design alternative. ⚡ 19 Skills · ✨ 71 brand-grade Design Systems 🖼 Generate web · desktop · mobile prototypes · slides · images · videos · HyperFrames 📦 Sandboxed preview · HTML/PDF/PPTX/MP4 export 🤖 Runs on Claude Code / Codex / Cursor / Gemini / OpenCode / Qwen / Copilot / Hermes / Kimi CLI.
 
-- **[antirez/ds4](https://github.com/antirez/ds4)** ⭐ 11,569
+- **[antirez/ds4](https://github.com/antirez/ds4)** ⭐ 11,591
   ![C](https://img.shields.io/badge/-C-lightgrey)
   DeepSeek 4 Flash local inference engine for Metal and CUDA
 
-- **[FULU-Foundation/OrcaSlicer-bambulab](https://github.com/FULU-Foundation/OrcaSlicer-bambulab)** ⭐ 6,423
+- **[FULU-Foundation/OrcaSlicer-bambulab](https://github.com/FULU-Foundation/OrcaSlicer-bambulab)** ⭐ 6,431
   ![C++](https://img.shields.io/badge/-C++-pink)
   None
 
-- **[freestylefly/awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2)** ⭐ 6,117
+- **[freestylefly/awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2)** ⭐ 6,212
   ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
   Prompt as Code | GPT-Image2 工业级提示词引擎与模板库，370+ 个案例逆向工程，20+ 套工业级模板，并提炼出Skills，持续更新中
 
-- **[V4bel/dirtyfrag](https://github.com/V4bel/dirtyfrag)** ⭐ 4,751
-  ![C](https://img.shields.io/badge/-C-lightgrey)
-  None
-
-- **[BigPizzaV3/CodexPlusPlus](https://github.com/BigPizzaV3/CodexPlusPlus)** ⭐ 4,750
+- **[BigPizzaV3/CodexPlusPlus](https://github.com/BigPizzaV3/CodexPlusPlus)** ⭐ 4,862
   ![Rust](https://img.shields.io/badge/-Rust-brown)
   An enhanced tool for CodexApp, striving to make Codex better to use and more comfortable 一个CodexApp的增强工具，努力让Codex变得更好用更舒服
 
-- **[nexu-io/html-anything](https://github.com/nexu-io/html-anything)** ⭐ 4,696
+- **[V4bel/dirtyfrag](https://github.com/V4bel/dirtyfrag)** ⭐ 4,752
+  ![C](https://img.shields.io/badge/-C-lightgrey)
+  None
+
+- **[nexu-io/html-anything](https://github.com/nexu-io/html-anything)** ⭐ 4,729
   ![HTML](https://img.shields.io/badge/-HTML-lightgrey)
   ✨ The agentic HTML editor — your local AI agent writes the HTML, you ship it. 🚀 75 Skills × 9 Surfaces (magazine · deck · poster · XHS / tweet · prototype · data report · Hyperframes) 🛡️ Sandboxed preview · 📤 1-click to WeChat / X / Zhihu / HTML / PNG 🔑 Zero API key — Claude Code / Cursor / Codex / Gemini / Copilot / OpenCode / Qwen / Aider.
 
-- **[vercel-labs/zerolang](https://github.com/vercel-labs/zerolang)** ⭐ 4,409
+- **[vercel-labs/zerolang](https://github.com/vercel-labs/zerolang)** ⭐ 4,424
   ![C](https://img.shields.io/badge/-C-lightgrey)
   The programming language for agents
 
@@ -488,57 +497,57 @@ See [kubernetes-announce@](https://groups.google.com/forum/#!forum/kubernetes-an
 | Skill | Status |
 |-------|--------|
 | Java | 🟡 Learning |
-| Python | 🟢 Proficient |
-| JavaScript | 🔴 Beginner |
-| TypeScript | 🔴 Beginner |
+| Python | ⚪ Planned |
+| JavaScript | 🟢 Proficient |
+| TypeScript | 🟢 Proficient |
 | Go | ⚪ Planned |
 
 ### Frameworks
 
 | Skill | Status |
 |-------|--------|
-| React | 🔴 Beginner |
-| Spring Boot | 🟡 Learning |
+| React | 🟡 Learning |
+| Spring Boot | 🟢 Proficient |
 | Django | 🟢 Proficient |
-| Node.js | 🟢 Proficient |
+| Node.js | ⚪ Planned |
 | Next.js | 🟢 Proficient |
 
 ### Cybersecurity
 
 | Skill | Status |
 |-------|--------|
-| Penetration Testing | 🔴 Beginner |
+| Penetration Testing | 🟢 Proficient |
 | Web Security | 🟢 Proficient |
-| Network Security | 🟡 Learning |
-| OWASP | ⚪ Planned |
+| Network Security | 🔴 Beginner |
+| OWASP | 🟢 Proficient |
 
 ### Ai Ml
 
 | Skill | Status |
 |-------|--------|
-| Machine Learning | ⚪ Planned |
-| Deep Learning | ⚪ Planned |
-| NLP | 🟢 Proficient |
+| Machine Learning | 🔴 Beginner |
+| Deep Learning | 🟢 Proficient |
+| NLP | 🟡 Learning |
 | Computer Vision | 🟡 Learning |
-| TensorFlow | 🟢 Proficient |
-| PyTorch | 🟡 Learning |
+| TensorFlow | 🟡 Learning |
+| PyTorch | ⚪ Planned |
 
 ### Devops
 
 | Skill | Status |
 |-------|--------|
-| Docker | 🟢 Proficient |
+| Docker | 🟡 Learning |
 | Kubernetes | 🟢 Proficient |
-| CI/CD | 🟡 Learning |
-| AWS | ⚪ Planned |
-| Azure | 🟢 Proficient |
+| CI/CD | 🟢 Proficient |
+| AWS | 🟢 Proficient |
+| Azure | 🟡 Learning |
 
 ### Other
 
 | Skill | Status |
 |-------|--------|
-| Blockchain | 🔴 Beginner |
-| Web3 | ⚪ Planned |
+| Blockchain | ⚪ Planned |
+| Web3 | 🟡 Learning |
 | Cloud Computing | 🟡 Learning |
 
 </details>
