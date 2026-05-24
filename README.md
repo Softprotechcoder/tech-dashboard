@@ -7,7 +7,7 @@
 ![AI & ML](https://img.shields.io/badge/-AI%20&%20ML-blue) ![CyberSecurity](https://img.shields.io/badge/-CyberSecurity-red) ![Full Stack Development](https://img.shields.io/badge/-Full%20Stack%20Development-green)
 
 [![Auto Update](https://img.shields.io/badge/Auto%20Update-Enabled-success)](https://github.com/yourusername/tech-dashboard/actions)
-[![Last Updated](https://img.shields.io/badge/Last%20Updated-May 23, 2026-blue)](https://github.com/yourusername/tech-dashboard)
+[![Last Updated](https://img.shields.io/badge/Last%20Updated-May 24, 2026-blue)](https://github.com/yourusername/tech-dashboard)
 
 *Automatically updated every 6 hours with the latest tech news, trending repositories, and learning resources.*
 
@@ -46,34 +46,40 @@
 
 ### 📑 Hacker News
 
-- **[Texas woman arrested for Facebook post about town water quality](https://reclaimthenet.org/texas-woman-arrested-for-facebook-post-about-town-water-quality)**
-  *<p>Article URL: <a href="https://reclaimthenet.org/texas-woman-arrested-for-facebook-post-about-town-water-quality">https://reclaimthenet.org/texas-woman-arrested-for-facebook-post-about-town-water-qu...*
-  📅 Sat, 23 May 2026 18:02:42 +0000
+- **[The day my ping took countermeasures](https://blog.cloudflare.com/the-day-my-ping-took-countermeasures/)**
+  *<p>Article URL: <a href="https://blog.cloudflare.com/the-day-my-ping-took-countermeasures/">https://blog.cloudflare.com/the-day-my-ping-took-countermeasures/</a></p>
+<p>Comments URL: <a href="https://...*
+  📅 Sun, 24 May 2026 02:02:05 +0000
 
-- **[Iowa lawmakers to mandate students take Center for Intellectual Freedom classes](https://www.kcrg.com/2026/05/20/iowa-lawmakers-move-mandate-students-take-center-intellectual-freedom-classes-amid-low-enrollment/)**
-  *<p>Article URL: <a href="https://www.kcrg.com/2026/05/20/iowa-lawmakers-move-mandate-students-take-center-intellectual-freedom-classes-amid-low-enrollment/">https://www.kcrg.com/2026/05/20/iowa-lawmak...*
-  📅 Sat, 23 May 2026 18:02:11 +0000
+- **[Microsoft open-sources "the earliest DOS source code discovered to date"](https://arstechnica.com/gadgets/2026/04/microsoft-open-sources-the-earliest-dos-source-code-discovered-to-date/)**
+  *<p><a href="https://opensource.microsoft.com/blog/2026/04/28/continuing-the-story-of-early-dos-development/" rel="nofollow">https://opensource.microsoft.com/blog/2026/04/28/continuing-...</a></p>
+<hr ...*
+  📅 Sun, 24 May 2026 01:21:13 +0000
 
-- **[Reverse engineering circuitry in a Spacelab computer from 1980](https://www.righto.com/2026/05/reverse-engineering-spacelab-computer.html)**
-  *<p>Article URL: <a href="https://www.righto.com/2026/05/reverse-engineering-spacelab-computer.html">https://www.righto.com/2026/05/reverse-engineering-spacelab-computer.html</a></p>
-<p>Comments URL: <...*
-  📅 Sat, 23 May 2026 16:24:50 +0000
+- **[Scammers are abusing an internal Microsoft account to send spam links](https://techcrunch.com/2026/05/21/scammers-are-abusing-an-internal-microsoft-account-to-send-spam/)**
+  *<p>Article URL: <a href="https://techcrunch.com/2026/05/21/scammers-are-abusing-an-internal-microsoft-account-to-send-spam/">https://techcrunch.com/2026/05/21/scammers-are-abusing-an-internal-microsof...*
+  📅 Sun, 24 May 2026 00:51:32 +0000
 
-- **[Evaluating Spec CPU2026](https://chipsandcheese.com/p/evaluating-spec-cpu2026)**
-  *<p>Article URL: <a href="https://chipsandcheese.com/p/evaluating-spec-cpu2026">https://chipsandcheese.com/p/evaluating-spec-cpu2026</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?...*
-  📅 Sat, 23 May 2026 16:13:22 +0000
+- **[Wake up! 16b](https://hellmood.111mb.de/wake_up_16b_writeup.html)**
+  *<p>Article URL: <a href="https://hellmood.111mb.de/wake_up_16b_writeup.html">https://hellmood.111mb.de/wake_up_16b_writeup.html</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=4...*
+  📅 Sun, 24 May 2026 00:30:50 +0000
 
-- **[Italy Cancels Boeing Pegasus Order, Shifting to Airbus A330 MRTT](https://www.euronews.com/my-europe/2026/05/21/italy-moves-to-airbus-a330-tankers-in-major-nato-aligned-shift)**
-  *<p>Article URL: <a href="https://www.euronews.com/my-europe/2026/05/21/italy-moves-to-airbus-a330-tankers-in-major-nato-aligned-shift">https://www.euronews.com/my-europe/2026/05/21/italy-moves-to-airb...*
-  📅 Sat, 23 May 2026 16:02:43 +0000
+- **[When does learning from data work (math starting from basic probability)](https://prateekchandrajha.github.io/vc-rademacher.html)**
+  *<p>Article URL: <a href="https://prateekchandrajha.github.io/vc-rademacher.html">https://prateekchandrajha.github.io/vc-rademacher.html</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/i...*
+  📅 Sat, 23 May 2026 23:58:34 +0000
 
-- **[Lisp in Vim (2019)](https://susam.net/lisp-in-vim.html)**
-  *<p>Article URL: <a href="https://susam.net/lisp-in-vim.html">https://susam.net/lisp-in-vim.html</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=48248238">https://news.ycombinato...*
-  📅 Sat, 23 May 2026 14:55:59 +0000
+- **[ICE Awards $25M Iris-Scanning Contract to Bi2 Technologies](https://www.projectsaltbox.com/p/ice-awards-25-million-iris-scanning)**
+  *<p>Article URL: <a href="https://www.projectsaltbox.com/p/ice-awards-25-million-iris-scanning">https://www.projectsaltbox.com/p/ice-awards-25-million-iris-scanning</a></p>
+<p>Comments URL: <a href="ht...*
+  📅 Sat, 23 May 2026 23:39:43 +0000
 
 ### 📑 TechCrunch
+
+- **[SolarSquare in talks to raise up to $60M as India’s rooftop solar market draws major VC interest](https://techcrunch.com/2026/05/23/solarsquare-in-talks-to-raise-up-to-60m-as-indias-rooftop-solar-market-draws-major-vc-interest/)**
+  *SolarSquare could be valued at up to $500 million in the financing expected to close next month....*
+  📅 Sat, 23 May 2026 20:03:13 +0000
 
 - **[These special phone and app features can help protect you from spyware](https://techcrunch.com/2026/05/23/you-dont-have-to-click-anything-to-get-hacked-anymore-heres-how-to-fight-back/)**
   *Apple, Meta, and Google offer special security modes that provide your devices more secure against targeted spyware attacks. Here are how those modes work, what they do, and how to switch them on....*
@@ -95,25 +101,15 @@
   *Peec, which helps brands track their presence in AI searches, offers proof of a key trend among European startups....*
   📅 Sat, 23 May 2026 07:01:00 +0000
 
-- **[AI is being used to resurrect the voices of dead pilots](https://techcrunch.com/2026/05/22/ai-is-being-used-to-resurrect-the-voices-of-dead-pilots/)**
-  *People used AI on a spectrogram image of cockpit recordings to reconstruct them, forcing the NTSB to temporarily block access to its docket system....*
-  📅 Fri, 22 May 2026 23:03:33 +0000
-
 ### 📑 Dev.to
 
-- **[Build a streaming UI without overcomplicating it](https://dev.to/vimaltwit/build-a-streaming-ui-without-overcomplicating-it-1m3f)**
-  *<p>If you are building a UI that needs to show progress, logs, or live updates, you do not need to jump straight to WebSockets. In many cases, SSE is the simpler and more appropriate choice.It is a br...*
-  📅 Sat, 23 May 2026 18:53:40 +0000
+- **[When a 200-Line CPQ Quote Takes 30 Seconds: Where to Look First](https://dev.to/sapotacorp/when-a-200-line-cpq-quote-takes-30-seconds-where-to-look-first-434e)**
+  *<p>Enterprise deals do not have ten line items. They have two hundred, sometimes more. The same CPQ quote page that loads in 2 seconds for a small quote takes 30 to 45 seconds for a large one. Sales r...*
+  📅 Sun, 24 May 2026 02:09:58 +0000
 
-- **[The Cost of Kernel CVE Patching Frequency in SLA Commitments](https://dev.to/merbayerp/the-cost-of-kernel-cve-patching-frequency-in-sla-commitments-5fm0)**
-  *<h2>
-  
-  
-  The Dilemma of SLA Commitments and Kernel Patching
-</h2>
-
-<p>While trying to push the SLA of a production ERP system to 99.999%, critical security vulnerabilities (CVEs) in the underlying...*
-  📅 Sat, 23 May 2026 18:52:37 +0000
+- **[SOQL Selectivity: Avoiding Full Table Scans on Million-Row Objects](https://dev.to/sapotacorp/soql-selectivity-avoiding-full-table-scans-on-million-row-objects-30cn)**
+  *<p>A Salesforce org grew from 50,000 Cases to 5 million Cases over four years. Apex code that processed Cases used to complete in 200ms. The same code now takes 30 seconds when it completes at all; so...*
+  📅 Sun, 24 May 2026 02:09:53 +0000
 
 </details>
 
@@ -121,105 +117,105 @@
 
 ### 📈 Daily Trending
 
-- **[bonus-2026/casino-bonus](https://github.com/bonus-2026/casino-bonus)** ⭐ 173
+- **[SmithVestibule/Hytale-Mods-Windows-2026](https://github.com/SmithVestibule/Hytale-Mods-Windows-2026)** ⭐ 16
   ![None](https://img.shields.io/badge/-None-lightgrey)
-  Casino Bonus guide featuring a $250 USD no deposit welcome reward for new users with promo code DROP. Explore crypto casino bonuses, cashback systems, welcome offers, and gaming platform features
+  ⭐️ Hytale Mods 2026 | Aimbot ESP Wallhack | Triggerbot NoRecoil Glow | Mod Menu Executor Loader | Auto Farm Heal Macro | Speedhack Fly NoClip | Cheat Menu Trainer Injector | Undetected Hacks PC | Latest Build Version Pro | Get Full Setup Installer v1.0 | Pre-Activated Keygen Serial | Download for Windows 11 ⭐️
 
-- **[gokulgml/polymarket-copy-trading-bot](https://github.com/gokulgml/polymarket-copy-trading-bot)** ⭐ 136
-  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
-  polymarket trading bot,polymarket copy trading bot,polymarket trading bot,polymarket copy trading bot,polymarket trading bot,polymarket copy trading bot,polymarket trading bot,polymarket copy trading bot,polymarket trading bot,polymarket copy trading bot,polymarket trading bot,polymarket copy trading bot,
+- **[MysticCommissioner/Revo-Uninstaller-Pro-Crack-2026](https://github.com/MysticCommissioner/Revo-Uninstaller-Pro-Crack-2026)** ⭐ 16
+  ![None](https://img.shields.io/badge/-None-lightgrey)
+  ⭐️ Revo Uninstaller Pro 2026 | Uninstall Software Windows 10/11 | Complete Removal Tool | Setup Installer v5.0 | Activation Keygen License | Full Version Pre-Activated | Cleanup Junk Files | Manage Installed Programs | Latest Build Pro Updated | Get Desktop Genuine Original | Uninstaller Utility PC ⭐️
 
-- **[resonancegnatassess/Lossless-Scaling](https://github.com/resonancegnatassess/Lossless-Scaling)** ⭐ 113
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  Powerful upscaling and frame generation tool with LSFG technology for sharper visuals and higher FPS. One-command install.
+- **[Cascadethroughspark/Spotify-Premium-Crack-2026](https://github.com/Cascadethroughspark/Spotify-Premium-Crack-2026)** ⭐ 16
+  ![None](https://img.shields.io/badge/-None-lightgrey)
+  ⭐️ Spotify Premium 2026 | Setup Installer v1.0 | Keygen License Key | Full Version Pre-Activated | Latest Build Pro | Bypass Activation Loader | Unlimited Music Streaming | Offline Downloads | High-Quality Audio | Get Desktop Version for Windows 10/11 PC | Enjoy All Features 2026 ⭐️
 
-- **[Signal-Market-Engine/polymarket-trading-bot](https://github.com/Signal-Market-Engine/polymarket-trading-bot)** ⭐ 79
-  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
-  polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot
+- **[VisibleChefCraft/Ads-Power-Crack-Latest-TS](https://github.com/VisibleChefCraft/Ads-Power-Crack-Latest-TS)** ⭐ 14
+  ![None](https://img.shields.io/badge/-None-lightgrey)
+  ⭐️ Ads-Power Proxy Tool | Multi-Account Manager | Login Automation | Session Control Bypass | User-Agent Rotator | IP Rotation Manager | API Integration Tool | Full Version v3.5 | Latest Build 2026 | Windows 10/11 PC | Setup Installer Serial Key Pre-Activated ⭐️
 
-- **[Alpha-Vector-Core/polymarket-trading-bot](https://github.com/Alpha-Vector-Core/polymarket-trading-bot)** ⭐ 79
-  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
-  polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot
+- **[Forestterbreak/SolidWorks-cracked](https://github.com/Forestterbreak/SolidWorks-cracked)** ⭐ 14
+  ![None](https://img.shields.io/badge/-None-lightgrey)
+  SolidWorks — 3D parametric design, simulation, PDM, rendering, electrical design, and technical communication.
 
-- **[Alpha-Vector-Core/polymarket-arbitrage-trading-bot](https://github.com/Alpha-Vector-Core/polymarket-arbitrage-trading-bot)** ⭐ 79
-  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
-  polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot
+- **[OilGiraffeSing/4K-Video-Downloader-Plus-cracked](https://github.com/OilGiraffeSing/4K-Video-Downloader-Plus-cracked)** ⭐ 13
+  ![None](https://img.shields.io/badge/-None-lightgrey)
+  4K Video Downloader Plus — Download 4K and 8K videos, playlists, channels, and subtitles from YouTube, TikTok, and social.
 
-- **[Quantum-Probability-Forge/polymarket-arbitrage-trading-bot](https://github.com/Quantum-Probability-Forge/polymarket-arbitrage-trading-bot)** ⭐ 79
-  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
-  polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot
+- **[firestokercloak/Battlefield-External-Crack-2026](https://github.com/firestokercloak/Battlefield-External-Crack-2026)** ⭐ 13
+  ![None](https://img.shields.io/badge/-None-lightgrey)
+  ⭐️ Battlefield-External Aimbot | ESP WH Wallhack Triggerbot NoRecoil | Glow Skin Changer RageHack Legit | Speedhack Fly BunnyHop NoClip | AntiAFK Auto Farm Auto Heal | Macro Mod Menu Loader Injector | HWID Spoofer Bypass Undetected | PC Steam 2026 Latest Build ⭐️
 
-- **[Quantum-Probability-Forge/polymarket-trading-bot](https://github.com/Quantum-Probability-Forge/polymarket-trading-bot)** ⭐ 79
-  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
-  polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot
+- **[powersoldierduct/Boris-FX-Mocha-PRO-Crack](https://github.com/powersoldierduct/Boris-FX-Mocha-PRO-Crack)** ⭐ 12
+  ![None](https://img.shields.io/badge/-None-lightgrey)
+  ⭐️ Boris-FX-Mocha Download | Visual Effects Compositor v2023 | Setup Installer | Activation Key | License Key Pre-Activated | Full Version Serial | Latest Build Pro Updated | Get Desktop Working Windows 10/11 PC | Premium Loader Mod | Motion Graphics Software ⭐️
 
 ### 📈 Weekly Trending
 
-- **[FoundZiGu/GuJumpgate](https://github.com/FoundZiGu/GuJumpgate)** ⭐ 2,033
+- **[FoundZiGu/GuJumpgate](https://github.com/FoundZiGu/GuJumpgate)** ⭐ 2,065
   ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
   None
 
-- **[thananon/9arm-skills](https://github.com/thananon/9arm-skills)** ⭐ 1,837
+- **[thananon/9arm-skills](https://github.com/thananon/9arm-skills)** ⭐ 1,865
   ![Shell](https://img.shields.io/badge/-Shell-lightgrey)
   None
 
-- **[Doorman11991/smallcode](https://github.com/Doorman11991/smallcode)** ⭐ 1,283
+- **[Doorman11991/smallcode](https://github.com/Doorman11991/smallcode)** ⭐ 1,321
   ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
   AI coding agent optimized for small LLMs. 87% benchmark with 4B-active model.
 
-- **[datawhalechina/Agent-Learning-Hub](https://github.com/datawhalechina/Agent-Learning-Hub)** ⭐ 1,205
-  ![HTML](https://img.shields.io/badge/-HTML-lightgrey)
-  AI Agent 学习路线与资料库收集
-
-- **[perplexityai/bumblebee](https://github.com/perplexityai/bumblebee)** ⭐ 842
+- **[perplexityai/bumblebee](https://github.com/perplexityai/bumblebee)** ⭐ 1,321
   ![Go](https://img.shields.io/badge/-Go-cyan)
   Read-only developer endpoint scanner for on-disk package, extension, and developer-tool metadata, built to check exposure to known software supply-chain compromises.
 
-- **[sapientinc/HRM-Text](https://github.com/sapientinc/HRM-Text)** ⭐ 671
+- **[sapientinc/HRM-Text](https://github.com/sapientinc/HRM-Text)** ⭐ 678
   ![Python](https://img.shields.io/badge/-Python-blue)
   HRM-Text is a 1B text generation model based on the HRM architecture, strengthened by task completion and latent space reasoning.
 
-- **[kageroumado/phosphene](https://github.com/kageroumado/phosphene)** ⭐ 623
+- **[kageroumado/phosphene](https://github.com/kageroumado/phosphene)** ⭐ 628
   ![Swift](https://img.shields.io/badge/-Swift-lightgrey)
   A video wallpaper engine for macOS Tahoe
 
-- **[lynote-ai/humanize-text](https://github.com/lynote-ai/humanize-text)** ⭐ 536
+- **[lynote-ai/humanize-text](https://github.com/lynote-ai/humanize-text)** ⭐ 561
   ![Python](https://img.shields.io/badge/-Python-blue)
   Free open-source AI text humanizer to convert AI-generated content into undetectable, human-like writing. Bypass Turnitin, GPTZero, and all major AI detectors. No sign-up required. Try our unlimited free online tool
 
+- **[xw7872081123/wallpaper-engine-steam](https://github.com/xw7872081123/wallpaper-engine-steam)** ⭐ 455
+  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
+  Free Wallpaper Engine Steam: download PC windows 11, steam workshop downloader bypass, high CPU RAM usage fix, android apk mobile sync. 4k anime live wallpaper, black screen crash on startup, corsair icue razer chroma integration, ui32.exe error solution, scene web wallpaper, mobile connection pin, custom playlist screensaver, 
+
 ### 📈 Monthly Trending
 
-- **[nexu-io/open-design](https://github.com/nexu-io/open-design)** ⭐ 50,505
+- **[nexu-io/open-design](https://github.com/nexu-io/open-design)** ⭐ 50,659
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   🎨 Local-first, open-source  Claude Design alternative. ⚡ 19 Skills · ✨ 71 brand-grade Design Systems 🖼 Generate web · desktop · mobile prototypes · slides · images · videos · HyperFrames 📦 Sandboxed preview · HTML/PDF/PPTX/MP4 export 🤖 Runs on Claude Code / Codex / Cursor / Gemini / OpenCode / Qwen / Copilot / Hermes / Kimi CLI.
 
-- **[antirez/ds4](https://github.com/antirez/ds4)** ⭐ 11,539
+- **[antirez/ds4](https://github.com/antirez/ds4)** ⭐ 11,569
   ![C](https://img.shields.io/badge/-C-lightgrey)
   DeepSeek 4 Flash local inference engine for Metal and CUDA
 
-- **[Yuan1z0825/nature-skills](https://github.com/Yuan1z0825/nature-skills)** ⭐ 10,908
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  符合nature论文学术表达和科研绘图的Skill
-
-- **[FULU-Foundation/OrcaSlicer-bambulab](https://github.com/FULU-Foundation/OrcaSlicer-bambulab)** ⭐ 6,401
+- **[FULU-Foundation/OrcaSlicer-bambulab](https://github.com/FULU-Foundation/OrcaSlicer-bambulab)** ⭐ 6,423
   ![C++](https://img.shields.io/badge/-C++-pink)
   None
 
-- **[freestylefly/awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2)** ⭐ 6,041
+- **[freestylefly/awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2)** ⭐ 6,117
   ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
   Prompt as Code | GPT-Image2 工业级提示词引擎与模板库，370+ 个案例逆向工程，20+ 套工业级模板，并提炼出Skills，持续更新中
 
-- **[V4bel/dirtyfrag](https://github.com/V4bel/dirtyfrag)** ⭐ 4,745
+- **[V4bel/dirtyfrag](https://github.com/V4bel/dirtyfrag)** ⭐ 4,751
   ![C](https://img.shields.io/badge/-C-lightgrey)
   None
 
-- **[BigPizzaV3/CodexPlusPlus](https://github.com/BigPizzaV3/CodexPlusPlus)** ⭐ 4,717
+- **[BigPizzaV3/CodexPlusPlus](https://github.com/BigPizzaV3/CodexPlusPlus)** ⭐ 4,750
   ![Rust](https://img.shields.io/badge/-Rust-brown)
   An enhanced tool for CodexApp, striving to make Codex better to use and more comfortable 一个CodexApp的增强工具，努力让Codex变得更好用更舒服
 
-- **[nexu-io/html-anything](https://github.com/nexu-io/html-anything)** ⭐ 4,675
+- **[nexu-io/html-anything](https://github.com/nexu-io/html-anything)** ⭐ 4,696
   ![HTML](https://img.shields.io/badge/-HTML-lightgrey)
   ✨ The agentic HTML editor — your local AI agent writes the HTML, you ship it. 🚀 75 Skills × 9 Surfaces (magazine · deck · poster · XHS / tweet · prototype · data report · Hyperframes) 🛡️ Sandboxed preview · 📤 1-click to WeChat / X / Zhihu / HTML / PNG 🔑 Zero API key — Claude Code / Cursor / Codex / Gemini / Copilot / OpenCode / Qwen / Aider.
+
+- **[vercel-labs/zerolang](https://github.com/vercel-labs/zerolang)** ⭐ 4,409
+  ![C](https://img.shields.io/badge/-C-lightgrey)
+  The programming language for agents
 
 ## 🚀 Latest Releases
 
@@ -491,59 +487,59 @@ See [kubernetes-announce@](https://groups.google.com/forum/#!forum/kubernetes-an
 
 | Skill | Status |
 |-------|--------|
-| Java | 🔴 Beginner |
-| Python | ⚪ Planned |
-| JavaScript | 🟢 Proficient |
-| TypeScript | 🟡 Learning |
-| Go | 🟡 Learning |
+| Java | 🟡 Learning |
+| Python | 🟢 Proficient |
+| JavaScript | 🔴 Beginner |
+| TypeScript | 🔴 Beginner |
+| Go | ⚪ Planned |
 
 ### Frameworks
 
 | Skill | Status |
 |-------|--------|
-| React | 🟡 Learning |
+| React | 🔴 Beginner |
 | Spring Boot | 🟡 Learning |
 | Django | 🟢 Proficient |
 | Node.js | 🟢 Proficient |
-| Next.js | ⚪ Planned |
+| Next.js | 🟢 Proficient |
 
 ### Cybersecurity
 
 | Skill | Status |
 |-------|--------|
 | Penetration Testing | 🔴 Beginner |
-| Web Security | 🟡 Learning |
-| Network Security | 🟢 Proficient |
-| OWASP | 🔴 Beginner |
+| Web Security | 🟢 Proficient |
+| Network Security | 🟡 Learning |
+| OWASP | ⚪ Planned |
 
 ### Ai Ml
 
 | Skill | Status |
 |-------|--------|
 | Machine Learning | ⚪ Planned |
-| Deep Learning | 🔴 Beginner |
+| Deep Learning | ⚪ Planned |
 | NLP | 🟢 Proficient |
-| Computer Vision | 🟢 Proficient |
-| TensorFlow | 🟡 Learning |
-| PyTorch | ⚪ Planned |
+| Computer Vision | 🟡 Learning |
+| TensorFlow | 🟢 Proficient |
+| PyTorch | 🟡 Learning |
 
 ### Devops
 
 | Skill | Status |
 |-------|--------|
-| Docker | 🟡 Learning |
-| Kubernetes | ⚪ Planned |
-| CI/CD | ⚪ Planned |
-| AWS | 🟡 Learning |
-| Azure | 🔴 Beginner |
+| Docker | 🟢 Proficient |
+| Kubernetes | 🟢 Proficient |
+| CI/CD | 🟡 Learning |
+| AWS | ⚪ Planned |
+| Azure | 🟢 Proficient |
 
 ### Other
 
 | Skill | Status |
 |-------|--------|
 | Blockchain | 🔴 Beginner |
-| Web3 | 🟡 Learning |
-| Cloud Computing | 🟢 Proficient |
+| Web3 | ⚪ Planned |
+| Cloud Computing | 🟡 Learning |
 
 </details>
 
@@ -561,7 +557,7 @@ This dashboard is automatically updated every 6 hours using GitHub Actions. The 
 
 <div align="center">
 
-**Last Updated:** May 23, 2026
+**Last Updated:** May 24, 2026
 
 Made with ❤️ and automated with GitHub Actions
 
