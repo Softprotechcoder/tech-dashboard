@@ -20,7 +20,7 @@
 | Metric | Count |
 |--------|-------|
 | 📰 Latest News Articles | 26 |
-| 🔥 Trending Repositories | 30 |
+| 🔥 Trending Repositories | 45 |
 | 🎯 Latest Releases | 10 |
 | 🎯 Learning Goals | 4 |
 
@@ -46,32 +46,47 @@
 
 ### 📑 Hacker News
 
-- **[Netherlands Seizes 800 Servers, Arrests 2 for Aiding Cyberattacks](https://krebsonsecurity.com/2026/05/netherlands-seizes-800-servers-arrests-2-for-aiding-cyberattacks/)**
-  *<p>Article URL: <a href="https://krebsonsecurity.com/2026/05/netherlands-seizes-800-servers-arrests-2-for-aiding-cyberattacks/">https://krebsonsecurity.com/2026/05/netherlands-seizes-800-servers-arres...*
-  📅 Mon, 25 May 2026 13:56:39 +0000
+- **[The bootstrapper's EU stack for under €10 per month](https://eualternative.eu/guides/bootstrapper-free-tier-eu-stack/)**
+  *<p>Article URL: <a href="https://eualternative.eu/guides/bootstrapper-free-tier-eu-stack/">https://eualternative.eu/guides/bootstrapper-free-tier-eu-stack/</a></p>
+<p>Comments URL: <a href="https://ne...*
+  📅 Mon, 25 May 2026 18:37:05 +0000
 
-- **[2026 HIPAA Security Rule Update](https://medcurity.com/hipaa-security-rule-2026-update/)**
-  *<p>Article URL: <a href="https://medcurity.com/hipaa-security-rule-2026-update/">https://medcurity.com/hipaa-security-rule-2026-update/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/i...*
-  📅 Mon, 25 May 2026 13:55:28 +0000
+- **[Alaska's oil revival sparks a new energy rush Into the Arctic](https://fortune.com/2026/05/24/alaska-oil-revival-energy-investment-arctic-drilling-national-petroleum-reserve-npra/)**
+  *<p>Article URL: <a href="https://fortune.com/2026/05/24/alaska-oil-revival-energy-investment-arctic-drilling-national-petroleum-reserve-npra/">https://fortune.com/2026/05/24/alaska-oil-revival-energy-...*
+  📅 Mon, 25 May 2026 18:20:46 +0000
 
-- **[Pope Leo XIV says AI must serve humanity, not the powerful few](https://religionnews.com/2026/05/25/in-his-first-encyclical-pope-leo-xiv-says-ai-must-serve-humanity-not-the-powerful-few/)**
-  *<p>Article URL: <a href="https://religionnews.com/2026/05/25/in-his-first-encyclical-pope-leo-xiv-says-ai-must-serve-humanity-not-the-powerful-few/">https://religionnews.com/2026/05/25/in-his-first-en...*
-  📅 Mon, 25 May 2026 13:17:58 +0000
+- **[California moves to exempt Linux from its age-verification law after backlash](https://www.tomshardware.com/software/linux/california-moves-to-exempt-linux-from-its-upcoming-age-verification-law-after-backlash-over-forcing-operating-systems-to-collect-users-ages-amendment-proposed-by-the-same-lawmaker-who-wrote-the-original-law)**
+  *<p>Article URL: <a href="https://www.tomshardware.com/software/linux/california-moves-to-exempt-linux-from-its-upcoming-age-verification-law-after-backlash-over-forcing-operating-systems-to-collect-us...*
+  📅 Mon, 25 May 2026 18:19:58 +0000
 
-- **[Pope Leo: opaque AI run by few firms risks "New Forms of Dehumanization"](https://variety.com/2026/biz/global/pope-leo-ai-encyclical-algorithms-threaten-dehumanisation-1236758186/)**
-  *<p>Article URL: <a href="https://variety.com/2026/biz/global/pope-leo-ai-encyclical-algorithms-threaten-dehumanisation-1236758186/">https://variety.com/2026/biz/global/pope-leo-ai-encyclical-algorithm...*
-  📅 Mon, 25 May 2026 13:12:40 +0000
+- **[Weave (YC W25) is hiring ML, AI, product, & design engineers](https://jobs.ashbyhq.com/workweave)**
+  *<p>Article URL: <a href="https://jobs.ashbyhq.com/workweave">https://jobs.ashbyhq.com/workweave</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=48269937">https://news.ycombinato...*
+  📅 Mon, 25 May 2026 18:18:26 +0000
 
-- **[Microsoft pulls plug on plans for 244-acre data center in Caledonia](https://www.tmj4.com/news/racine-county/microsoft-pulls-plug-on-plans-for-244-acre-data-center-in-caledonia-after-community-pushback)**
-  *<p>Article URL: <a href="https://www.tmj4.com/news/racine-county/microsoft-pulls-plug-on-plans-for-244-acre-data-center-in-caledonia-after-community-pushback">https://www.tmj4.com/news/racine-county/m...*
-  📅 Mon, 25 May 2026 13:09:53 +0000
+- **[Exit IP VPN servers mitigation rollout](https://mullvad.net/en/help/exit-ip-vpn-servers-mitigation-rollout)**
+  *<p>Article URL: <a href="https://mullvad.net/en/help/exit-ip-vpn-servers-mitigation-rollout">https://mullvad.net/en/help/exit-ip-vpn-servers-mitigation-rollout</a></p>
+<p>Comments URL: <a href="https:...*
+  📅 Mon, 25 May 2026 17:45:11 +0000
 
-- **[Search engines alternatives now that Google isn't Google anymore](https://techcrunch.com/2026/05/21/six-search-engines-worth-trying-now-that-google-isnt-really-google-anymore/)**
-  *<p>Article URL: <a href="https://techcrunch.com/2026/05/21/six-search-engines-worth-trying-now-that-google-isnt-really-google-anymore/">https://techcrunch.com/2026/05/21/six-search-engines-worth-tryin...*
-  📅 Mon, 25 May 2026 12:27:11 +0000
+- **[RentFlow (YC S24) Is Hiring](https://www.ycombinator.com/companies/rentflow/jobs/V2yneIE-senior-ai-ml-lead)**
+  *<p>Article URL: <a href="https://www.ycombinator.com/companies/rentflow/jobs/V2yneIE-senior-ai-ml-lead">https://www.ycombinator.com/companies/rentflow/jobs/V2yneIE-senior-ai-ml-lead</a></p>
+<p>Comment...*
+  📅 Mon, 25 May 2026 17:00:27 +0000
 
 ### 📑 TechCrunch
+
+- **[What ClickUp’s mass layoff tells us about the future of work](https://techcrunch.com/2026/05/25/what-clickups-mass-layoff-tells-us-about-the-future-of-work/)**
+  *The nine-year-old startup is replacing hundreds of employees with thousands of AI agents....*
+  📅 Mon, 25 May 2026 16:00:00 +0000
+
+- **[The pope’s AI encyclical isn’t really about AI](https://techcrunch.com/2026/05/25/the-popes-ai-encyclical-isnt-really-about-ai/)**
+  *Pope Leo XIV's first encyclical uses AI as a lens to diagnose older problems: concentrated power, eroding democracy, and a tech elite that shapes the world to its own advantage....*
+  📅 Mon, 25 May 2026 15:09:41 +0000
+
+- **[The pitch trick that helped an eSports startup raise $20M when VCs only wanted AI](https://techcrunch.com/2026/05/25/the-pitch-trick-that-helped-an-esports-startup-raise-20m-when-vcs-only-wanted-ai/)**
+  *Earlier this year, Lucra Sports founder and CEO Dylan Robbins did something that no one else has ever done. And he shared several secrets on how he did it....*
+  📅 Mon, 25 May 2026 15:00:00 +0000
 
 - **[Startup Battlefield 200 applications close in days: Apply before May 27](https://techcrunch.com/2026/05/25/startup-battlefield-200-applications-close-in-days-apply-before-may-27/)**
   *The deadline to apply or nominate for Startup Battlefield 200 is May 27. This is your shot at VC access, global visibility, TechCrunch coverage, and $100,000. Apply now....*
@@ -85,39 +100,26 @@
   *We're in the transition period -- all of us....*
   📅 Sun, 24 May 2026 21:39:21 +0000
 
-- **[Xreal, Google’s smartglasses partner, thinks it has finally mastered this notoriously tricky industry](https://techcrunch.com/2026/05/24/xreal-googles-smartglasses-partner-thinks-it-has-finally-mastered-this-notoriously-tricky-industry/)**
-  *Chi Xu, the founder and CEO of XREAL, thinks the smart glasses business has finally reached a turning point....*
-  📅 Sun, 24 May 2026 19:00:00 +0000
-
-- **[6 kitchen gadgets that make adulting feel easier](https://techcrunch.com/2026/05/24/6-kitchen-gadgets-that-make-adulting-feel-easier/)**
-  *From a robot stirring your soup to a bread machine that kneads your dough, here are 6 gadgets that may make you feel like you’ve won adulthood....*
-  📅 Sun, 24 May 2026 17:00:00 +0000
-
-- **[TechCrunch Mobility: Robotaxi reality check](https://techcrunch.com/2026/05/24/techcrunch-mobility-robotaxi-reality-check/)**
-  *Welcome back to TechCrunch Mobility — your central hub for news and insights on the future of transportation....*
-  📅 Sun, 24 May 2026 16:05:00 +0000
-
 ### 📑 Dev.to
 
-- **[Prisma Query Logging and PostgreSQL: Where the ORM Ends and the Database Begins](https://dev.to/jtorchia/prisma-query-logging-and-postgresql-where-the-orm-ends-and-the-database-begins-34k3)**
-  *<h1>
-  
-  
-  Prisma Query Logging and PostgreSQL: Where the ORM Ends and the Database Begins
-</h1>
+- **[How Secure LoRa Communication Devices Work: Building the Future of Private and Long-Range Connectivity Author: Shivam Wakade | Founder, PrivSR](https://dev.to/shivam_wakade_privsr/how-secure-lora-communication-devices-work-building-the-future-of-private-and-long-range-26e8)**
+  *<p>Author: Shivam Wakade | Founder, PrivSR<br />
+Introduction</p>
 
-<p>I turned on query logging in Prisma, watched queries rolling into the console, and assumed I had ...*
-  📅 Mon, 25 May 2026 14:30:35 +0000
+<p>Communication has become one of the most important parts of modern life. From personal messaging and business operations to emerge...*
+  📅 Mon, 25 May 2026 19:05:09 +0000
 
-- **[Prisma query logging y PostgreSQL: dónde termina el ORM y empieza la base](https://dev.to/jtorchia/prisma-query-logging-y-postgresql-donde-termina-el-orm-y-empieza-la-base-6io)**
-  *<h1>
-  
-  
-  Prisma query logging y PostgreSQL: dónde termina el ORM y empieza la base
-</h1>
+- **[How I Rebuilt an RPG Map Editor with Rust, React, and WASM](https://dev.to/thexper_f46a597a4e23988d2/reworking-the-rpg-map-editor-10g0)**
+  *<p>Replacing a map editor sounds like a frontend task.</p>
 
-<p>Activé query logging en Prisma, vi los queries llegando a la consola, y asumí que tenía visibilidad com...*
-  📅 Mon, 25 May 2026 14:30:31 +0000
+<p>It is not.</p>
+
+<p>A browser-based RPG map editor lives inside a product loop:</p>
+
+<ol>
+<li>Create a map.</li>
+<li>Open it in the editor...*
+  📅 Mon, 25 May 2026 18:55:25 +0000
 
 </details>
 
@@ -125,71 +127,105 @@
 
 ### 📈 Daily Trending
 
-- **[StanGibson/polymarket-copy-trading-bot](https://github.com/StanGibson/polymarket-copy-trading-bot)** ⭐ 126
+- **[StanGibson/polymarket-copy-trading-bot](https://github.com/StanGibson/polymarket-copy-trading-bot)** ⭐ 132
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   polymarket trading bot,polymarket copy trading bot,polymarket trading bot,polymarket copy trading bot,polymarket trading bot,polymarket copy trading bot,polymarket trading bot,polymarket copy trading bot,polymarket trading bot,polymarket copy trading bot,polymarket trading bot,polymarket copy trading bot,
 
-- **[RAJAOMASON/polymarket-trading-bot](https://github.com/RAJAOMASON/polymarket-trading-bot)** ⭐ 124
+- **[RAJAOMASON/polymarket-trading-bot](https://github.com/RAJAOMASON/polymarket-trading-bot)** ⭐ 132
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   polymarket trading bot, polymarket trading bot, polymarket trading bot, polymarket trading bot, polymarket trading bot, polymarket trading bot, polymarket trading bot, polymarket trading bot, polymarket trading bot, polymarket trading bot, polymarket trading bot, polymarket trading bot, polymarket trading bot, polymarket trading bot
 
-- **[realrossmanngroup/no_ai_slop_writing_rules](https://github.com/realrossmanngroup/no_ai_slop_writing_rules)** ⭐ 91
+- **[realrossmanngroup/no_ai_slop_writing_rules](https://github.com/realrossmanngroup/no_ai_slop_writing_rules)** ⭐ 130
   ![None](https://img.shields.io/badge/-None-lightgrey)
   Claude Code reference: write in Louis Rossmann's voice, never like AI slop. Portable CLAUDE.md plus skills.
 
-- **[rahuldr556/AST-Guided-LLM-Code-Review_System](https://github.com/rahuldr556/AST-Guided-LLM-Code-Review_System)** ⭐ 48
+- **[BJTUpupil/AscendFHE](https://github.com/BJTUpupil/AscendFHE)** ⭐ 101
+  ![C++](https://img.shields.io/badge/-C++-pink)
+  None
+
+- **[rahuldr556/AST-Guided-LLM-Code-Review_System](https://github.com/rahuldr556/AST-Guided-LLM-Code-Review_System)** ⭐ 52
   ![Python](https://img.shields.io/badge/-Python-blue)
   None
 
-- **[kirthika1307/UPI-Fraud-Detection-using-ML](https://github.com/kirthika1307/UPI-Fraud-Detection-using-ML)** ⭐ 44
+- **[kirthika1307/UPI-Fraud-Detection-using-ML](https://github.com/kirthika1307/UPI-Fraud-Detection-using-ML)** ⭐ 46
   ![None](https://img.shields.io/badge/-None-lightgrey)
   None
 
-- **[Hemani-S/legal-case--prediction-project](https://github.com/Hemani-S/legal-case--prediction-project)** ⭐ 36
-  ![Jupyter Notebook](https://img.shields.io/badge/-Jupyter Notebook-lightgrey)
-  None
-
-- **[foru17/make-x-great-again](https://github.com/foru17/make-x-great-again)** ⭐ 29
+- **[foru17/make-x-great-again](https://github.com/foru17/make-x-great-again)** ⭐ 40
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   Make X Great Again — passive ambient browser extension that makes X usable: spam shield, KOL signal score, profile digest, social graph hints. Public-good, open source.
 
-- **[JasonLam08/cursor_agent_status_light](https://github.com/JasonLam08/cursor_agent_status_light)** ⭐ 29
-  ![C++](https://img.shields.io/badge/-C++-pink)
-  A BLE-powered status light for Cursor Agent, using ESP32-C3 to visualize AI coding states such as thinking, busy,  success, error, and waiting for user action. 基于 ESP32-C3 的 Cursor Agent BLE 状态灯，用红绿灯直观显示 AI 编程过程中的思考、忙碌、成功、错误以及等待用户操作 等状态。
+- **[jaideep005/churn_retention_system](https://github.com/jaideep005/churn_retention_system)** ⭐ 38
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  None
 
 ### 📈 Weekly Trending
 
-- **[FoundZiGu/GuJumpgate](https://github.com/FoundZiGu/GuJumpgate)** ⭐ 2,491
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
-  None
-
-- **[perplexityai/bumblebee](https://github.com/perplexityai/bumblebee)** ⭐ 2,421
+- **[perplexityai/bumblebee](https://github.com/perplexityai/bumblebee)** ⭐ 2,524
   ![Go](https://img.shields.io/badge/-Go-cyan)
   Read-only developer endpoint scanner for on-disk package, extension, and developer-tool metadata, built to check exposure to known software supply-chain compromises.
 
-- **[thananon/9arm-skills](https://github.com/thananon/9arm-skills)** ⭐ 2,075
+- **[FoundZiGu/GuJumpgate](https://github.com/FoundZiGu/GuJumpgate)** ⭐ 2,522
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
+  None
+
+- **[thananon/9arm-skills](https://github.com/thananon/9arm-skills)** ⭐ 2,130
   ![Shell](https://img.shields.io/badge/-Shell-lightgrey)
   None
 
-- **[open-gsd/get-shit-done-redux](https://github.com/open-gsd/get-shit-done-redux)** ⭐ 739
+- **[open-gsd/get-shit-done-redux](https://github.com/open-gsd/get-shit-done-redux)** ⭐ 805
   ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
   Getting Shit Done, the Aftermath
 
-- **[kageroumado/phosphene](https://github.com/kageroumado/phosphene)** ⭐ 664
+- **[kageroumado/phosphene](https://github.com/kageroumado/phosphene)** ⭐ 666
   ![Swift](https://img.shields.io/badge/-Swift-lightgrey)
   A video wallpaper engine for macOS Tahoe
 
-- **[Tong89/smartNode](https://github.com/Tong89/smartNode)** ⭐ 610
+- **[Tong89/smartNode](https://github.com/Tong89/smartNode)** ⭐ 639
   ![Python](https://img.shields.io/badge/-Python-blue)
   None
 
-- **[0xSero/codex-shim](https://github.com/0xSero/codex-shim)** ⭐ 549
+- **[0xSero/codex-shim](https://github.com/0xSero/codex-shim)** ⭐ 575
   ![Python](https://img.shields.io/badge/-Python-blue)
   Local Responses-API shim that exposes Factory BYOK models (and optional ChatGPT GPT-5.5 passthrough) to Codex Desktop.
 
-- **[run-liyi/wechatpay](https://github.com/run-liyi/wechatpay)** ⭐ 476
+- **[run-liyi/wechatpay](https://github.com/run-liyi/wechatpay)** ⭐ 499
   ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
   微信账单分析工具 - 基于Electron的可视化账单分析应用
+
+### 📈 Monthly Trending
+
+- **[nexu-io/open-design](https://github.com/nexu-io/open-design)** ⭐ 51,966
+  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
+  🎨 Local-first, open-source  Claude Design alternative. ⚡ 19 Skills · ✨ 71 brand-grade Design Systems 🖼 Generate web · desktop · mobile prototypes · slides · images · videos · HyperFrames 📦 Sandboxed preview · HTML/PDF/PPTX/MP4 export 🤖 Runs on Claude Code / Codex / Cursor / Gemini / OpenCode / Qwen / Copilot / Hermes / Kimi CLI.
+
+- **[antirez/ds4](https://github.com/antirez/ds4)** ⭐ 11,821
+  ![C](https://img.shields.io/badge/-C-lightgrey)
+  DeepSeek 4 Flash local inference engine for Metal and CUDA
+
+- **[FULU-Foundation/OrcaSlicer-bambulab](https://github.com/FULU-Foundation/OrcaSlicer-bambulab)** ⭐ 6,507
+  ![C++](https://img.shields.io/badge/-C++-pink)
+  None
+
+- **[BigPizzaV3/CodexPlusPlus](https://github.com/BigPizzaV3/CodexPlusPlus)** ⭐ 5,664
+  ![Rust](https://img.shields.io/badge/-Rust-brown)
+  An enhanced tool for CodexApp, striving to make Codex better to use and more comfortable 一个CodexApp的增强工具，努力让Codex变得更好用更舒服
+
+- **[nexu-io/html-anything](https://github.com/nexu-io/html-anything)** ⭐ 4,944
+  ![HTML](https://img.shields.io/badge/-HTML-lightgrey)
+  ✨ The agentic HTML editor — your local AI agent writes the HTML, you ship it. 🚀 75 Skills × 9 Surfaces (magazine · deck · poster · XHS / tweet · prototype · data report · Hyperframes) 🛡️ Sandboxed preview · 📤 1-click to WeChat / X / Zhihu / HTML / PNG 🔑 Zero API key — Claude Code / Cursor / Codex / Gemini / Copilot / OpenCode / Qwen / Aider.
+
+- **[V4bel/dirtyfrag](https://github.com/V4bel/dirtyfrag)** ⭐ 4,763
+  ![C](https://img.shields.io/badge/-C-lightgrey)
+  None
+
+- **[vercel-labs/zerolang](https://github.com/vercel-labs/zerolang)** ⭐ 4,501
+  ![C](https://img.shields.io/badge/-C-lightgrey)
+  The programming language for agents
+
+- **[denuitt1/mhr-cfw](https://github.com/denuitt1/mhr-cfw)** ⭐ 4,123
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  A Domain-Fronting Relay that routes traffic though GAS (Google Apps Script) and forwards it to Cloudflare Workers. Designed to bypass DPI.
 
 ## 🚀 Latest Releases
 
@@ -463,17 +499,17 @@ See [kubernetes-announce@](https://groups.google.com/forum/#!forum/kubernetes-an
 |-------|--------|
 | Java | 🔴 Beginner |
 | Python | 🔴 Beginner |
-| JavaScript | 🟡 Learning |
-| TypeScript | 🔴 Beginner |
-| Go | 🟡 Learning |
+| JavaScript | 🔴 Beginner |
+| TypeScript | 🟢 Proficient |
+| Go | 🟢 Proficient |
 
 ### Frameworks
 
 | Skill | Status |
 |-------|--------|
 | React | ⚪ Planned |
-| Spring Boot | ⚪ Planned |
-| Django | ⚪ Planned |
+| Spring Boot | 🔴 Beginner |
+| Django | 🟢 Proficient |
 | Node.js | ⚪ Planned |
 | Next.js | 🔴 Beginner |
 
@@ -481,38 +517,38 @@ See [kubernetes-announce@](https://groups.google.com/forum/#!forum/kubernetes-an
 
 | Skill | Status |
 |-------|--------|
-| Penetration Testing | 🔴 Beginner |
-| Web Security | 🔴 Beginner |
-| Network Security | 🔴 Beginner |
-| OWASP | 🟡 Learning |
+| Penetration Testing | 🟢 Proficient |
+| Web Security | 🟡 Learning |
+| Network Security | ⚪ Planned |
+| OWASP | ⚪ Planned |
 
 ### Ai Ml
 
 | Skill | Status |
 |-------|--------|
-| Machine Learning | 🟡 Learning |
+| Machine Learning | 🟢 Proficient |
 | Deep Learning | 🟡 Learning |
-| NLP | 🔴 Beginner |
+| NLP | ⚪ Planned |
 | Computer Vision | 🟡 Learning |
-| TensorFlow | 🔴 Beginner |
-| PyTorch | 🟢 Proficient |
+| TensorFlow | 🟢 Proficient |
+| PyTorch | 🔴 Beginner |
 
 ### Devops
 
 | Skill | Status |
 |-------|--------|
-| Docker | ⚪ Planned |
-| Kubernetes | ⚪ Planned |
-| CI/CD | ⚪ Planned |
-| AWS | ⚪ Planned |
-| Azure | 🟡 Learning |
+| Docker | 🟢 Proficient |
+| Kubernetes | 🟡 Learning |
+| CI/CD | 🟡 Learning |
+| AWS | 🟡 Learning |
+| Azure | ⚪ Planned |
 
 ### Other
 
 | Skill | Status |
 |-------|--------|
-| Blockchain | 🟢 Proficient |
-| Web3 | ⚪ Planned |
+| Blockchain | ⚪ Planned |
+| Web3 | 🟡 Learning |
 | Cloud Computing | ⚪ Planned |
 
 </details>
