@@ -46,6 +46,24 @@
 
 ### 📑 Hacker News
 
+- **[Show HN: Geomatic – a command-driven geometry studio enabled with autodiff](https://www.tinyvolt.com/geomatic)**
+  *<p>All commands have the format `output = \func inputs` or just `\function inputs`. Points and scalars are built on the fly. Eg `\line a b` to an empty canvas creates points `a` and `b`, and joins the...*
+  📅 Mon, 25 May 2026 08:25:00 +0000
+
+- **[Why Do We Sleep Under Blankets, Even on the Hottest Nights? (2017)](https://www.atlasobscura.com/articles/blankets-summer-hot)**
+  *<p>Article URL: <a href="https://www.atlasobscura.com/articles/blankets-summer-hot">https://www.atlasobscura.com/articles/blankets-summer-hot</a></p>
+<p>Comments URL: <a href="https://news.ycombinator...*
+  📅 Mon, 25 May 2026 05:33:31 +0000
+
+- **[Jira Is Turing-Complete](https://seriot.ch/computation/jira.html)**
+  *<p>Article URL: <a href="https://seriot.ch/computation/jira.html">https://seriot.ch/computation/jira.html</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=48263253">https://news....*
+  📅 Mon, 25 May 2026 03:54:14 +0000
+
+- **[The Eternal Sloptember](https://geohot.github.io//blog/jekyll/update/2026/05/24/the-eternal-sloptember.html)**
+  *<p>Article URL: <a href="https://geohot.github.io//blog/jekyll/update/2026/05/24/the-eternal-sloptember.html">https://geohot.github.io//blog/jekyll/update/2026/05/24/the-eternal-sloptember.html</a></p...*
+  📅 Mon, 25 May 2026 03:47:24 +0000
+
 - **[A fundamental principle of aeronautical engineering has been overturned](https://www.wired.com/story/a-fundamental-principle-of-aeronautical-engineering-has-been-overturned/)**
   *<p>Article URL: <a href="https://www.wired.com/story/a-fundamental-principle-of-aeronautical-engineering-has-been-overturned/">https://www.wired.com/story/a-fundamental-principle-of-aeronautical-engin...*
   📅 Sun, 24 May 2026 19:10:26 +0000
@@ -54,26 +72,6 @@
   *<p>Article URL: <a href="https://ikesau.co/blog/defeating-git-rigour-fatigue-with-jujutsu/">https://ikesau.co/blog/defeating-git-rigour-fatigue-with-jujutsu/</a></p>
 <p>Comments URL: <a href="https://...*
   📅 Sun, 24 May 2026 18:39:10 +0000
-
-- **[Migrating from Go to Rust](https://corrode.dev/learn/migration-guides/go-to-rust/)**
-  *<p>Article URL: <a href="https://corrode.dev/learn/migration-guides/go-to-rust/">https://corrode.dev/learn/migration-guides/go-to-rust/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/i...*
-  📅 Sun, 24 May 2026 18:31:42 +0000
-
-- **[Flick (YC F25) Is Hiring Front End Engineer to Build Figma for AI Filmmaking](https://www.ycombinator.com/companies/flick/jobs/Tdu6FH6-senior-frontend-engineer)**
-  *<p>Article URL: <a href="https://www.ycombinator.com/companies/flick/jobs/Tdu6FH6-senior-frontend-engineer">https://www.ycombinator.com/companies/flick/jobs/Tdu6FH6-senior-frontend-engineer</a></p>
-<p...*
-  📅 Sun, 24 May 2026 17:00:46 +0000
-
-- **[Memory has grown to nearly two-thirds of AI chip component costs](https://epoch.ai/data-insights/ai-chip-component-cost-shares)**
-  *<p>Article URL: <a href="https://epoch.ai/data-insights/ai-chip-component-cost-shares">https://epoch.ai/data-insights/ai-chip-component-cost-shares</a></p>
-<p>Comments URL: <a href="https://news.ycomb...*
-  📅 Sun, 24 May 2026 16:31:29 +0000
-
-- **[Ruby for Good](https://ti.to/codeforgood/rubyforgood)**
-  *<p>Article URL: <a href="https://ti.to/codeforgood/rubyforgood">https://ti.to/codeforgood/rubyforgood</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=48258254">https://news.ycom...*
-  📅 Sun, 24 May 2026 15:49:19 +0000
 
 ### 📑 TechCrunch
 
@@ -103,16 +101,30 @@
 
 ### 📑 Dev.to
 
-- **[Topical Authority Architecture](https://dev.to/joseph_anady_214bacedf939/topical-authority-architecture-pp0)**
-  *<blockquote>
-<p><strong>Originally published at <a href="https://www.thatdevpro.com/insights/framework-topicalauthority/" rel="noopener noreferrer">thatdevpro.com</a>.</strong> This framework referenc...*
-  📅 Mon, 25 May 2026 02:34:00 +0000
+- **[Absolute vs Relative Paths](https://dev.to/aryan_vaishnani_067dd66e0/absolute-vs-relative-paths-1hmb)**
+  *<p>Paths are used to locate files and directories in Linux.</p>
 
-- **[Inside Hermes Agent's Session Memory: What X-Hermes-Session-Id Actually Does](https://dev.to/pulkitgovrani/inside-hermes-agents-session-memory-what-x-hermes-session-id-actually-does-1p0d)**
-  *<p><em>This is a submission for the <a href="https://dev.to/challenges/hermes-agent-2026-05-15">Hermes Agent Challenge</a>: Write About Hermes Agent</em></p>
+<p><strong>1. Absolute Path</strong></p>
 
-<p>The header looks trivial. One line. Bu...*
-  📅 Mon, 25 May 2026 02:30:00 +0000
+<p>An absolute path starts from the root directory:</p>
+
+<p>/</p>
+
+<p>It shows the complete l...*
+  📅 Mon, 25 May 2026 09:38:32 +0000
+
+- **[File Types (Regular, Directory, Link, Device, Socket, Pipe)](https://dev.to/aryan_vaishnani_067dd66e0/file-types-regular-directory-link-device-socket-pipe-29c3)**
+  *<p>In Linux, everything is treated as a file.</p>
+
+<p>Linux supports different file types for:</p>
+
+<ol>
+<li>Data storage</li>
+<li>Directories</li>
+<li>Hardware devices</li>
+<li>Communication</li>
+<li...*
+  📅 Mon, 25 May 2026 09:36:03 +0000
 
 </details>
 
@@ -120,103 +132,103 @@
 
 ### 📈 Daily Trending
 
+- **[realrossmanngroup/no_ai_slop_writing_rules](https://github.com/realrossmanngroup/no_ai_slop_writing_rules)** ⭐ 48
+  ![None](https://img.shields.io/badge/-None-lightgrey)
+  Claude Code reference: write in Louis Rossmann's voice, never like AI slop. Portable CLAUDE.md plus skills.
+
+- **[kirthika1307/UPI-Fraud-Detection-using-ML](https://github.com/kirthika1307/UPI-Fraud-Detection-using-ML)** ⭐ 37
+  ![None](https://img.shields.io/badge/-None-lightgrey)
+  None
+
+- **[Hemani-S/legal-case--prediction-project](https://github.com/Hemani-S/legal-case--prediction-project)** ⭐ 31
+  ![Jupyter Notebook](https://img.shields.io/badge/-Jupyter Notebook-lightgrey)
+  None
+
+- **[rahuldr556/AST-Guided-LLM-Code-Review_System](https://github.com/rahuldr556/AST-Guided-LLM-Code-Review_System)** ⭐ 28
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  None
+
+- **[AnanthNarayanangit/Nanu-voice-reminder](https://github.com/AnanthNarayanangit/Nanu-voice-reminder)** ⭐ 27
+  ![HTML](https://img.shields.io/badge/-HTML-lightgrey)
+  None
+
 - **[gonefunctor/ariel](https://github.com/gonefunctor/ariel)** ⭐ 23
   ![C](https://img.shields.io/badge/-C-lightgrey)
   AArch64 EL2 hypervisor for QEMU virt that boots at EL2
 
-- **[realrossmanngroup/no_ai_slop_writing_rules](https://github.com/realrossmanngroup/no_ai_slop_writing_rules)** ⭐ 19
-  ![None](https://img.shields.io/badge/-None-lightgrey)
-  Claude Code reference: write in Louis Rossmann's voice, never like AI slop. Portable CLAUDE.md plus skills.
+- **[Srinivasan-03/reconfigurable-antenna](https://github.com/Srinivasan-03/reconfigurable-antenna)** ⭐ 17
+  ![AMPL](https://img.shields.io/badge/-AMPL-lightgrey)
+  Reconfigurable microstrip patch antenna for V2V communication at 5.9 GHz, simulated in CST Studio Suite 2025 with PIN diode switching for dual-frequency operation.
 
-- **[Jarred-Sumner/xmac](https://github.com/Jarred-Sumner/xmac)** ⭐ 4
-  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
-  Download and extract macOS SDKs from Apple's public CDN for cross-compilation. Like xwin, but for macOS.
-
-- **[hzauzxb/code_label_img](https://github.com/hzauzxb/code_label_img)** ⭐ 3
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  Multi-Agent Rich-Text Image Annotation via VLM Coding
-
-- **[datallmhub/agentflow4j-cookbook](https://github.com/datallmhub/agentflow4j-cookbook)** ⭐ 2
-  ![Java](https://img.shields.io/badge/-Java-orange)
-  Runnable multi-agent LLM workflow examples in Java — RAG, ticket triage, web research, Slack bot, batch processing — with AgentFlow4J and Spring AI.
-
-- **[mnwaight/claude-tts-wsl](https://github.com/mnwaight/claude-tts-wsl)** ⭐ 2
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  Claude Code TTS and voice hook setup for WSL2 — hooks, scripts, and config for speech input and spoken responses.
-
-- **[jandex-int/Jandex_Obfuscation](https://github.com/jandex-int/Jandex_Obfuscation)** ⭐ 2
-  ![None](https://img.shields.io/badge/-None-lightgrey)
-  Hi-T Obfuscation / Primary Html.JS.PY
-
-- **[ChengyuanOCT/CPP_HPC_FEM](https://github.com/ChengyuanOCT/CPP_HPC_FEM)** ⭐ 2
-  ![Cuda](https://img.shields.io/badge/-Cuda-lightgrey)
-  A FEM thermal project for welding
+- **[johilrohan92-prog/Fingerprint-Based-Blood-Group-Detection-Using--vision-transformer-and--ensemble-learning](https://github.com/johilrohan92-prog/Fingerprint-Based-Blood-Group-Detection-Using--vision-transformer-and--ensemble-learning)** ⭐ 16
+  ![Jupyter Notebook](https://img.shields.io/badge/-Jupyter Notebook-lightgrey)
+  None
 
 ### 📈 Weekly Trending
 
-- **[FoundZiGu/GuJumpgate](https://github.com/FoundZiGu/GuJumpgate)** ⭐ 2,354
+- **[FoundZiGu/GuJumpgate](https://github.com/FoundZiGu/GuJumpgate)** ⭐ 2,454
   ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
   None
 
-- **[perplexityai/bumblebee](https://github.com/perplexityai/bumblebee)** ⭐ 2,184
+- **[perplexityai/bumblebee](https://github.com/perplexityai/bumblebee)** ⭐ 2,328
   ![Go](https://img.shields.io/badge/-Go-cyan)
   Read-only developer endpoint scanner for on-disk package, extension, and developer-tool metadata, built to check exposure to known software supply-chain compromises.
 
-- **[thananon/9arm-skills](https://github.com/thananon/9arm-skills)** ⭐ 2,000
+- **[thananon/9arm-skills](https://github.com/thananon/9arm-skills)** ⭐ 2,045
   ![Shell](https://img.shields.io/badge/-Shell-lightgrey)
   None
 
-- **[kageroumado/phosphene](https://github.com/kageroumado/phosphene)** ⭐ 654
-  ![Swift](https://img.shields.io/badge/-Swift-lightgrey)
-  A video wallpaper engine for macOS Tahoe
-
-- **[open-gsd/get-shit-done-redux](https://github.com/open-gsd/get-shit-done-redux)** ⭐ 583
+- **[open-gsd/get-shit-done-redux](https://github.com/open-gsd/get-shit-done-redux)** ⭐ 679
   ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
   Getting Shit Done, the Aftermath
 
-- **[Tong89/smartNode](https://github.com/Tong89/smartNode)** ⭐ 517
+- **[kageroumado/phosphene](https://github.com/kageroumado/phosphene)** ⭐ 663
+  ![Swift](https://img.shields.io/badge/-Swift-lightgrey)
+  A video wallpaper engine for macOS Tahoe
+
+- **[Tong89/smartNode](https://github.com/Tong89/smartNode)** ⭐ 575
   ![Python](https://img.shields.io/badge/-Python-blue)
   None
 
-- **[0xSero/codex-shim](https://github.com/0xSero/codex-shim)** ⭐ 477
+- **[0xSero/codex-shim](https://github.com/0xSero/codex-shim)** ⭐ 504
   ![Python](https://img.shields.io/badge/-Python-blue)
   Local Responses-API shim that exposes Factory BYOK models (and optional ChatGPT GPT-5.5 passthrough) to Codex Desktop.
 
-- **[Jawaz-Keyzor/FL-Studio-2026-Producer-Edition-Unlock](https://github.com/Jawaz-Keyzor/FL-Studio-2026-Producer-Edition-Unlock)** ⭐ 429
-  ![None](https://img.shields.io/badge/-None-lightgrey)
-  Full feature activation for FL Studio 2026 Producer Edition. Enables all plugins, VST support, audio export without restrictions, and lifetime updates. Educational tool for studying DAW architecture.
+- **[run-liyi/wechatpay](https://github.com/run-liyi/wechatpay)** ⭐ 448
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
+  微信账单分析工具 - 基于Electron的可视化账单分析应用
 
 ### 📈 Monthly Trending
 
-- **[nexu-io/open-design](https://github.com/nexu-io/open-design)** ⭐ 51,335
+- **[nexu-io/open-design](https://github.com/nexu-io/open-design)** ⭐ 51,653
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   🎨 Local-first, open-source  Claude Design alternative. ⚡ 19 Skills · ✨ 71 brand-grade Design Systems 🖼 Generate web · desktop · mobile prototypes · slides · images · videos · HyperFrames 📦 Sandboxed preview · HTML/PDF/PPTX/MP4 export 🤖 Runs on Claude Code / Codex / Cursor / Gemini / OpenCode / Qwen / Copilot / Hermes / Kimi CLI.
 
-- **[antirez/ds4](https://github.com/antirez/ds4)** ⭐ 11,703
+- **[antirez/ds4](https://github.com/antirez/ds4)** ⭐ 11,759
   ![C](https://img.shields.io/badge/-C-lightgrey)
   DeepSeek 4 Flash local inference engine for Metal and CUDA
 
-- **[FULU-Foundation/OrcaSlicer-bambulab](https://github.com/FULU-Foundation/OrcaSlicer-bambulab)** ⭐ 6,468
+- **[FULU-Foundation/OrcaSlicer-bambulab](https://github.com/FULU-Foundation/OrcaSlicer-bambulab)** ⭐ 6,479
   ![C++](https://img.shields.io/badge/-C++-pink)
   None
 
-- **[BigPizzaV3/CodexPlusPlus](https://github.com/BigPizzaV3/CodexPlusPlus)** ⭐ 5,158
+- **[BigPizzaV3/CodexPlusPlus](https://github.com/BigPizzaV3/CodexPlusPlus)** ⭐ 5,465
   ![Rust](https://img.shields.io/badge/-Rust-brown)
   An enhanced tool for CodexApp, striving to make Codex better to use and more comfortable 一个CodexApp的增强工具，努力让Codex变得更好用更舒服
 
-- **[nexu-io/html-anything](https://github.com/nexu-io/html-anything)** ⭐ 4,813
+- **[nexu-io/html-anything](https://github.com/nexu-io/html-anything)** ⭐ 4,885
   ![HTML](https://img.shields.io/badge/-HTML-lightgrey)
   ✨ The agentic HTML editor — your local AI agent writes the HTML, you ship it. 🚀 75 Skills × 9 Surfaces (magazine · deck · poster · XHS / tweet · prototype · data report · Hyperframes) 🛡️ Sandboxed preview · 📤 1-click to WeChat / X / Zhihu / HTML / PNG 🔑 Zero API key — Claude Code / Cursor / Codex / Gemini / Copilot / OpenCode / Qwen / Aider.
 
-- **[V4bel/dirtyfrag](https://github.com/V4bel/dirtyfrag)** ⭐ 4,751
+- **[V4bel/dirtyfrag](https://github.com/V4bel/dirtyfrag)** ⭐ 4,758
   ![C](https://img.shields.io/badge/-C-lightgrey)
   None
 
-- **[vercel-labs/zerolang](https://github.com/vercel-labs/zerolang)** ⭐ 4,463
+- **[vercel-labs/zerolang](https://github.com/vercel-labs/zerolang)** ⭐ 4,482
   ![C](https://img.shields.io/badge/-C-lightgrey)
   The programming language for agents
 
-- **[denuitt1/mhr-cfw](https://github.com/denuitt1/mhr-cfw)** ⭐ 4,036
+- **[denuitt1/mhr-cfw](https://github.com/denuitt1/mhr-cfw)** ⭐ 4,050
   ![Python](https://img.shields.io/badge/-Python-blue)
   A Domain-Fronting Relay that routes traffic though GAS (Google Apps Script) and forwards it to Cloudflare Workers. Designed to bypass DPI.
 
@@ -490,11 +502,11 @@ See [kubernetes-announce@](https://groups.google.com/forum/#!forum/kubernetes-an
 
 | Skill | Status |
 |-------|--------|
-| Java | 🟡 Learning |
-| Python | 🟡 Learning |
-| JavaScript | ⚪ Planned |
-| TypeScript | ⚪ Planned |
-| Go | 🟢 Proficient |
+| Java | ⚪ Planned |
+| Python | 🔴 Beginner |
+| JavaScript | 🟡 Learning |
+| TypeScript | 🟢 Proficient |
+| Go | 🟡 Learning |
 
 ### Frameworks
 
@@ -502,47 +514,47 @@ See [kubernetes-announce@](https://groups.google.com/forum/#!forum/kubernetes-an
 |-------|--------|
 | React | ⚪ Planned |
 | Spring Boot | 🔴 Beginner |
-| Django | 🟢 Proficient |
-| Node.js | 🔴 Beginner |
-| Next.js | 🔴 Beginner |
+| Django | 🔴 Beginner |
+| Node.js | ⚪ Planned |
+| Next.js | 🟢 Proficient |
 
 ### Cybersecurity
 
 | Skill | Status |
 |-------|--------|
-| Penetration Testing | 🟢 Proficient |
-| Web Security | 🔴 Beginner |
+| Penetration Testing | 🟡 Learning |
+| Web Security | 🟢 Proficient |
 | Network Security | 🔴 Beginner |
-| OWASP | 🟢 Proficient |
+| OWASP | 🟡 Learning |
 
 ### Ai Ml
 
 | Skill | Status |
 |-------|--------|
-| Machine Learning | 🟡 Learning |
-| Deep Learning | 🟡 Learning |
-| NLP | 🟢 Proficient |
-| Computer Vision | 🟡 Learning |
-| TensorFlow | ⚪ Planned |
-| PyTorch | 🔴 Beginner |
+| Machine Learning | 🔴 Beginner |
+| Deep Learning | ⚪ Planned |
+| NLP | ⚪ Planned |
+| Computer Vision | 🟢 Proficient |
+| TensorFlow | 🟢 Proficient |
+| PyTorch | 🟢 Proficient |
 
 ### Devops
 
 | Skill | Status |
 |-------|--------|
-| Docker | 🟡 Learning |
-| Kubernetes | 🟢 Proficient |
-| CI/CD | ⚪ Planned |
-| AWS | 🔴 Beginner |
-| Azure | 🟡 Learning |
+| Docker | 🟢 Proficient |
+| Kubernetes | 🟡 Learning |
+| CI/CD | 🔴 Beginner |
+| AWS | ⚪ Planned |
+| Azure | 🟢 Proficient |
 
 ### Other
 
 | Skill | Status |
 |-------|--------|
-| Blockchain | 🔴 Beginner |
+| Blockchain | 🟢 Proficient |
 | Web3 | ⚪ Planned |
-| Cloud Computing | 🔴 Beginner |
+| Cloud Computing | 🟢 Proficient |
 
 </details>
 
