@@ -46,36 +46,37 @@
 
 ### 📑 Hacker News
 
-- **[Does Anybody Actually Like React?](https://jsx.lol)**
-  *<p>Article URL: <a href="https://jsx.lol">https://jsx.lol</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=48274077">https://news.ycombinator.com/item?id=48274077</a></p>
-<p>Poin...*
-  📅 Tue, 26 May 2026 01:55:15 +0000
+- **[DynIP – Dynamic DNS with RFC 2136, IPv6, DNSSEC, and BYOD](https://dynip.dev/)**
+  *<p>Article URL: <a href="https://dynip.dev/">https://dynip.dev/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=48276363">https://news.ycombinator.com/item?id=48276363</a></p>
+<...*
+  📅 Tue, 26 May 2026 07:35:20 +0000
 
-- **[Browser-based file encryption tool using WebCrypto](https://secvant.com/)**
-  *<p>Article URL: <a href="https://secvant.com/">https://secvant.com/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=48274018">https://news.ycombinator.com/item?id=48274018</a></...*
-  📅 Tue, 26 May 2026 01:45:33 +0000
+- **[Ask HN: Is anyone working at least 4 hours daily on an Apple Vision Pro?](https://news.ycombinator.com/item?id=48275508)**
+  *<p>I asked this in 2024 and would love to see the change: https://news.ycombinator.com/item?id=41748125</p>
+<hr />
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=48275508">https://news...*
+  📅 Tue, 26 May 2026 05:49:35 +0000
 
-- **[TP-7 Field Recorder](https://teenage.engineering/products/tp-7)**
-  *<p>Article URL: <a href="https://teenage.engineering/products/tp-7">https://teenage.engineering/products/tp-7</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=48273531">https://n...*
-  📅 Tue, 26 May 2026 00:27:43 +0000
+- **[Logseq Doctor: Heal your flat old Markdown files before importing them to Logseq](https://github.com/andreoliwa/logseq-doctor)**
+  *<p>Article URL: <a href="https://github.com/andreoliwa/logseq-doctor">https://github.com/andreoliwa/logseq-doctor</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=48275462">https...*
+  📅 Tue, 26 May 2026 05:43:25 +0000
 
-- **[CVE-2026-28952: Apple macOS 26.5 Kernel Vuln found by Claude](https://support.apple.com/en-us/127115)**
-  *<p>Article URL: <a href="https://support.apple.com/en-us/127115">https://support.apple.com/en-us/127115</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=48273169">https://news.yc...*
-  📅 Mon, 25 May 2026 23:40:40 +0000
+- **[The User Is Visibly Frustrated](https://pscanf.com/s/354/)**
+  *<p>Article URL: <a href="https://pscanf.com/s/354/">https://pscanf.com/s/354/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=48275059">https://news.ycombinator.com/item?id=4827...*
+  📅 Tue, 26 May 2026 04:39:03 +0000
 
-- **[Performance of Rust Language [pdf]](https://github.com/yugr/rust-slides/)**
-  *<p>Article URL: <a href="https://github.com/yugr/rust-slides/">https://github.com/yugr/rust-slides/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=48273147">https://news.ycombi...*
-  📅 Mon, 25 May 2026 23:37:31 +0000
+- **[Motorola phones have started hijacking the Amazon app to insert affiliate codes](https://9to5google.com/2026/05/25/motorola-amazon-app-hijacking-behavior/)**
+  *<p>Article URL: <a href="https://9to5google.com/2026/05/25/motorola-amazon-app-hijacking-behavior/">https://9to5google.com/2026/05/25/motorola-amazon-app-hijacking-behavior/</a></p>
+<p>Comments URL: <...*
+  📅 Tue, 26 May 2026 03:56:09 +0000
 
-- **[Nobody cracks open a programming book anymore](https://unix.foo/posts/nobody-cracks-open-a-programming-book/)**
-  *<p>Article URL: <a href="https://unix.foo/posts/nobody-cracks-open-a-programming-book/">https://unix.foo/posts/nobody-cracks-open-a-programming-book/</a></p>
-<p>Comments URL: <a href="https://news.yco...*
-  📅 Mon, 25 May 2026 23:21:57 +0000
+- **[Earthion: A New Mega Drive-Style Shoot-Em-Up](https://earthiongame.com/)**
+  *<p>Article URL: <a href="https://earthiongame.com/">https://earthiongame.com/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=48274711">https://news.ycombinator.com/item?id=4827...*
+  📅 Tue, 26 May 2026 03:42:23 +0000
 
 ### 📑 TechCrunch
 
@@ -105,25 +106,30 @@
 
 ### 📑 Dev.to
 
-- **[From Template to Production-Shaped: An AI-Native Dev Flow for Go Side Projects](https://dev.to/kanchen_lin_331136af621d/from-template-to-production-shaped-an-ai-native-dev-flow-for-go-side-projects-245g)**
-  *<p>I wanted my next side project to <em>look</em> like the kind of code I'd ship at work — hexagonal architecture, sqlc, depguard, integration tests — without the usual side-project tax of spending th...*
-  📅 Tue, 26 May 2026 02:07:42 +0000
-
-- **[Idempotency Keys: The API Pattern That Saves You From Duplicate Payments and Phantom Records](https://dev.to/apikumo/idempotency-keys-the-api-pattern-that-saves-you-from-duplicate-payments-and-phantom-records-51b2)**
-  *<h1>
+- **[The floor problem: why every admin product wastes 3 months on the same foundation](https://dev.to/coreola/the-floor-problem-why-every-admin-product-wastes-3-months-on-the-same-foundation-3pdk)**
+  *<h2>
   
   
-  Idempotency Keys: The API Pattern That Saves You From Duplicate Payments and Phantom Records
-</h1>
+  Every admin product starts by rebuilding the same eight things — auth, RBAC, tables, forms, theming, i18n, feature flags, routing. None of it is the product. Here's why this keeps happeni...*
+  📅 Tue, 26 May 2026 09:30:36 +0000
 
-<p>Your user clicks "Pay" and nothing happens. So they click again. Your server process...*
-  📅 Tue, 26 May 2026 02:07:37 +0000
+- **[Turn Your Ideas into Great Products](https://dev.to/foundey_eadc3df7af9a10298/turn-your-ideas-into-great-products-4g5o)**
+  *<p>The distance between a great idea and a great product is almost entirely filled by design decisions. Not technical architecture. Not feature completeness. Not go-to-market strategy. Design decision...*
+  📅 Tue, 26 May 2026 09:29:39 +0000
 
 </details>
 
 ## 🔥 Trending Repositories
 
 ### 📈 Daily Trending
+
+- **[SeemSeam/plan-tree](https://github.com/SeemSeam/plan-tree)** ⭐ 30
+  ![None](https://img.shields.io/badge/-None-lightgrey)
+  Codex skill for maintaining structured planning document trees
+
+- **[deermiya/visio-skill](https://github.com/deermiya/visio-skill)** ⭐ 14
+  ![PowerShell](https://img.shields.io/badge/-PowerShell-lightgrey)
+  None
 
 - **[vaamonde/ai-network-senac-tit](https://github.com/vaamonde/ai-network-senac-tit)** ⭐ 12
   ![None](https://img.shields.io/badge/-None-lightgrey)
@@ -133,95 +139,87 @@
   ![None](https://img.shields.io/badge/-None-lightgrey)
   Software repository — parsed from GitHub.
 
+- **[Shuo-Zheng/MML-FSAR](https://github.com/Shuo-Zheng/MML-FSAR)** ⭐ 11
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  PyTorch implementation of Multi-stage Metric Learning with CLIP-based Adaptation for Few-shot Action Recognition.
+
+- **[opencrewmanspigot/Unnamed-ESP](https://github.com/opencrewmanspigot/Unnamed-ESP)** ⭐ 11
+  ![None](https://img.shields.io/badge/-None-lightgrey)
+  Player ESP for Roblox, fully undetectable, uses Synapse's built in drawing API
+
+- **[baskduf/harness-starter-kit](https://github.com/baskduf/harness-starter-kit)** ⭐ 11
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  Repo-native harness engineering starter kit for coding agents.
+
 - **[PoolSocialTower/Folx-Pro-Crack](https://github.com/PoolSocialTower/Folx-Pro-Crack)** ⭐ 11
-  ![None](https://img.shields.io/badge/-None-lightgrey)
-  Software repository — parsed from GitHub.
-
-- **[Bufferiuneedle/IM-Magic-Partition-Resizer-cracked](https://github.com/Bufferiuneedle/IM-Magic-Partition-Resizer-cracked)** ⭐ 10
-  ![None](https://img.shields.io/badge/-None-lightgrey)
-  IM-Magic Partition Resizer — extend system C drive without data loss or system reboot required.
-
-- **[GripIndustrialPivot/GetDataBack-Pro-cracked](https://github.com/GripIndustrialPivot/GetDataBack-Pro-cracked)** ⭐ 9
-  ![None](https://img.shields.io/badge/-None-lightgrey)
-  GetDataBack Pro — NTFS and FAT file system recovery after crash, deletion, or format.
-
-- **[rayrouteline20/eset-password-recovery](https://github.com/rayrouteline20/eset-password-recovery)** ⭐ 9
-  ![None](https://img.shields.io/badge/-None-lightgrey)
-  Can read the lock password hash of the ESET AV form the registry and cracks it via bruteforce.
-
-- **[novaprivatefury/MiniTool-Power-Data-Recovery](https://github.com/novaprivatefury/MiniTool-Power-Data-Recovery)** ⭐ 9
-  ![None](https://img.shields.io/badge/-None-lightgrey)
-  MiniTool Power Data Recovery — recover deleted, formatted, and inaccessible drive data on Windows. Fully compatible with Windows 10/11 (64-bit). Updated for 2026 with regular maintenance and community support.
-
-- **[cubeweavermultiply/Daemon-Tools-Pro-Crack](https://github.com/cubeweavermultiply/Daemon-Tools-Pro-Crack)** ⭐ 9
   ![None](https://img.shields.io/badge/-None-lightgrey)
   Software repository — parsed from GitHub.
 
 ### 📈 Weekly Trending
 
-- **[perplexityai/bumblebee](https://github.com/perplexityai/bumblebee)** ⭐ 2,589
+- **[perplexityai/bumblebee](https://github.com/perplexityai/bumblebee)** ⭐ 2,708
   ![Go](https://img.shields.io/badge/-Go-cyan)
   Read-only developer endpoint scanner for on-disk package, extension, and developer-tool metadata, built to check exposure to known software supply-chain compromises.
 
-- **[thananon/9arm-skills](https://github.com/thananon/9arm-skills)** ⭐ 2,187
+- **[thananon/9arm-skills](https://github.com/thananon/9arm-skills)** ⭐ 2,293
   ![Shell](https://img.shields.io/badge/-Shell-lightgrey)
   None
 
-- **[open-gsd/get-shit-done-redux](https://github.com/open-gsd/get-shit-done-redux)** ⭐ 865
+- **[joeseesun/wechat-radar](https://github.com/joeseesun/wechat-radar)** ⭐ 1,105
+  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
+  微信聊天情报看板：聚合群聊信号、话题、链接和趋势
+
+- **[open-gsd/get-shit-done-redux](https://github.com/open-gsd/get-shit-done-redux)** ⭐ 941
   ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
   Getting Shit Done, the Aftermath
 
-- **[Tong89/smartNode](https://github.com/Tong89/smartNode)** ⭐ 721
+- **[Tong89/smartNode](https://github.com/Tong89/smartNode)** ⭐ 857
   ![Python](https://img.shields.io/badge/-Python-blue)
   None
 
-- **[kageroumado/phosphene](https://github.com/kageroumado/phosphene)** ⭐ 673
+- **[kageroumado/phosphene](https://github.com/kageroumado/phosphene)** ⭐ 680
   ![Swift](https://img.shields.io/badge/-Swift-lightgrey)
   A video wallpaper engine for macOS Tahoe
 
-- **[0xSero/codex-shim](https://github.com/0xSero/codex-shim)** ⭐ 594
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  Local Responses-API shim that exposes Factory BYOK models (and optional ChatGPT GPT-5.5 passthrough) to Codex Desktop.
-
-- **[run-liyi/wechatpay](https://github.com/run-liyi/wechatpay)** ⭐ 544
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
-  微信账单分析工具 - 基于Electron的可视化账单分析应用
-
-- **[MoonshotAI/kimi-code](https://github.com/MoonshotAI/kimi-code)** ⭐ 522
+- **[MoonshotAI/kimi-code](https://github.com/MoonshotAI/kimi-code)** ⭐ 641
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   The Starting Point for Next-Gen Agents
 
+- **[run-liyi/wechatpay](https://github.com/run-liyi/wechatpay)** ⭐ 637
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
+  微信账单分析工具 - 基于Electron的可视化账单分析应用
+
 ### 📈 Monthly Trending
 
-- **[nexu-io/open-design](https://github.com/nexu-io/open-design)** ⭐ 52,171
+- **[nexu-io/open-design](https://github.com/nexu-io/open-design)** ⭐ 52,499
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   🎨 Local-first, open-source  Claude Design alternative. ⚡ 19 Skills · ✨ 71 brand-grade Design Systems 🖼 Generate web · desktop · mobile prototypes · slides · images · videos · HyperFrames 📦 Sandboxed preview · HTML/PDF/PPTX/MP4 export 🤖 Runs on Claude Code / Codex / Cursor / Gemini / OpenCode / Qwen / Copilot / Hermes / Kimi CLI.
 
-- **[antirez/ds4](https://github.com/antirez/ds4)** ⭐ 11,864
+- **[antirez/ds4](https://github.com/antirez/ds4)** ⭐ 11,902
   ![C](https://img.shields.io/badge/-C-lightgrey)
   DeepSeek 4 Flash local inference engine for Metal and CUDA
 
-- **[FULU-Foundation/OrcaSlicer-bambulab](https://github.com/FULU-Foundation/OrcaSlicer-bambulab)** ⭐ 6,524
+- **[FULU-Foundation/OrcaSlicer-bambulab](https://github.com/FULU-Foundation/OrcaSlicer-bambulab)** ⭐ 6,532
   ![C++](https://img.shields.io/badge/-C++-pink)
   None
 
-- **[BigPizzaV3/CodexPlusPlus](https://github.com/BigPizzaV3/CodexPlusPlus)** ⭐ 5,774
+- **[BigPizzaV3/CodexPlusPlus](https://github.com/BigPizzaV3/CodexPlusPlus)** ⭐ 6,023
   ![Rust](https://img.shields.io/badge/-Rust-brown)
   An enhanced tool for CodexApp, striving to make Codex better to use and more comfortable 一个CodexApp的增强工具，努力让Codex变得更好用更舒服
 
-- **[nexu-io/html-anything](https://github.com/nexu-io/html-anything)** ⭐ 4,966
+- **[nexu-io/html-anything](https://github.com/nexu-io/html-anything)** ⭐ 5,024
   ![HTML](https://img.shields.io/badge/-HTML-lightgrey)
   ✨ The agentic HTML editor — your local AI agent writes the HTML, you ship it. 🚀 75 Skills × 9 Surfaces (magazine · deck · poster · XHS / tweet · prototype · data report · Hyperframes) 🛡️ Sandboxed preview · 📤 1-click to WeChat / X / Zhihu / HTML / PNG 🔑 Zero API key — Claude Code / Cursor / Codex / Gemini / Copilot / OpenCode / Qwen / Aider.
 
-- **[V4bel/dirtyfrag](https://github.com/V4bel/dirtyfrag)** ⭐ 4,763
+- **[V4bel/dirtyfrag](https://github.com/V4bel/dirtyfrag)** ⭐ 4,766
   ![C](https://img.shields.io/badge/-C-lightgrey)
   None
 
-- **[vercel-labs/zerolang](https://github.com/vercel-labs/zerolang)** ⭐ 4,518
+- **[vercel-labs/zerolang](https://github.com/vercel-labs/zerolang)** ⭐ 4,532
   ![C](https://img.shields.io/badge/-C-lightgrey)
   The programming language for agents
 
-- **[denuitt1/mhr-cfw](https://github.com/denuitt1/mhr-cfw)** ⭐ 4,181
+- **[denuitt1/mhr-cfw](https://github.com/denuitt1/mhr-cfw)** ⭐ 4,222
   ![Python](https://img.shields.io/badge/-Python-blue)
   A Domain-Fronting Relay that routes traffic though GAS (Google Apps Script) and forwards it to Cloudflare Workers. Designed to bypass DPI.
 
@@ -495,21 +493,21 @@ See [kubernetes-announce@](https://groups.google.com/forum/#!forum/kubernetes-an
 
 | Skill | Status |
 |-------|--------|
-| Java | 🔴 Beginner |
-| Python | 🟢 Proficient |
-| JavaScript | 🟡 Learning |
-| TypeScript | ⚪ Planned |
+| Java | ⚪ Planned |
+| Python | 🔴 Beginner |
+| JavaScript | 🟢 Proficient |
+| TypeScript | 🔴 Beginner |
 | Go | 🟢 Proficient |
 
 ### Frameworks
 
 | Skill | Status |
 |-------|--------|
-| React | ⚪ Planned |
-| Spring Boot | 🟡 Learning |
+| React | 🔴 Beginner |
+| Spring Boot | 🟢 Proficient |
 | Django | 🔴 Beginner |
-| Node.js | 🟢 Proficient |
-| Next.js | 🔴 Beginner |
+| Node.js | 🔴 Beginner |
+| Next.js | 🟢 Proficient |
 
 ### Cybersecurity
 
@@ -518,36 +516,36 @@ See [kubernetes-announce@](https://groups.google.com/forum/#!forum/kubernetes-an
 | Penetration Testing | 🔴 Beginner |
 | Web Security | 🔴 Beginner |
 | Network Security | 🔴 Beginner |
-| OWASP | 🔴 Beginner |
+| OWASP | 🟡 Learning |
 
 ### Ai Ml
 
 | Skill | Status |
 |-------|--------|
-| Machine Learning | 🟢 Proficient |
-| Deep Learning | 🟢 Proficient |
-| NLP | 🟢 Proficient |
-| Computer Vision | 🔴 Beginner |
+| Machine Learning | 🟡 Learning |
+| Deep Learning | ⚪ Planned |
+| NLP | 🟡 Learning |
+| Computer Vision | 🟢 Proficient |
 | TensorFlow | 🔴 Beginner |
-| PyTorch | 🟢 Proficient |
+| PyTorch | 🟡 Learning |
 
 ### Devops
 
 | Skill | Status |
 |-------|--------|
-| Docker | 🟢 Proficient |
-| Kubernetes | 🟢 Proficient |
-| CI/CD | 🔴 Beginner |
+| Docker | ⚪ Planned |
+| Kubernetes | 🔴 Beginner |
+| CI/CD | 🟡 Learning |
 | AWS | 🔴 Beginner |
-| Azure | 🟢 Proficient |
+| Azure | 🟡 Learning |
 
 ### Other
 
 | Skill | Status |
 |-------|--------|
-| Blockchain | 🟢 Proficient |
-| Web3 | 🟡 Learning |
-| Cloud Computing | 🟡 Learning |
+| Blockchain | 🔴 Beginner |
+| Web3 | ⚪ Planned |
+| Cloud Computing | 🟢 Proficient |
 
 </details>
 
