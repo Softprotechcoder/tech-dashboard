@@ -46,39 +46,50 @@
 
 ### 📑 Hacker News
 
-- **[DynIP – Dynamic DNS with RFC 2136, IPv6, DNSSEC, and BYOD](https://dynip.dev/)**
-  *<p>Article URL: <a href="https://dynip.dev/">https://dynip.dev/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=48276363">https://news.ycombinator.com/item?id=48276363</a></p>
-<...*
-  📅 Tue, 26 May 2026 07:35:20 +0000
+- **[C64 Basic: Game Map Overhead "Camera View"](https://retrogamecoders.com/overhead-camera-view/)**
+  *<p>Article URL: <a href="https://retrogamecoders.com/overhead-camera-view/">https://retrogamecoders.com/overhead-camera-view/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=482...*
+  📅 Tue, 26 May 2026 13:47:39 +0000
 
-- **[Ask HN: Is anyone working at least 4 hours daily on an Apple Vision Pro?](https://news.ycombinator.com/item?id=48275508)**
-  *<p>I asked this in 2024 and would love to see the change: https://news.ycombinator.com/item?id=41748125</p>
-<hr />
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=48275508">https://news...*
-  📅 Tue, 26 May 2026 05:49:35 +0000
+- **[Spain blocks prediction markets Polymarket, Kalshi over lack of gambling licence](https://www.reuters.com/business/spain-blocks-prediction-markets-polymarket-kalshi-over-lack-gambling-licences-2026-05-26/)**
+  *<p>Article URL: <a href="https://www.reuters.com/business/spain-blocks-prediction-markets-polymarket-kalshi-over-lack-gambling-licences-2026-05-26/">https://www.reuters.com/business/spain-blocks-predi...*
+  📅 Tue, 26 May 2026 13:08:13 +0000
 
-- **[Logseq Doctor: Heal your flat old Markdown files before importing them to Logseq](https://github.com/andreoliwa/logseq-doctor)**
-  *<p>Article URL: <a href="https://github.com/andreoliwa/logseq-doctor">https://github.com/andreoliwa/logseq-doctor</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=48275462">https...*
-  📅 Tue, 26 May 2026 05:43:25 +0000
+- **[Outsourcing plus LocalAI will soon become more economical vs. Frontier labs](https://www.signalbloom.ai/posts/outsourcing-plus-localai-will-soon-become-more-economical-vs-frontier-labs/)**
+  *<p>Article URL: <a href="https://www.signalbloom.ai/posts/outsourcing-plus-localai-will-soon-become-more-economical-vs-frontier-labs/">https://www.signalbloom.ai/posts/outsourcing-plus-localai-will-so...*
+  📅 Tue, 26 May 2026 12:08:33 +0000
 
-- **[The User Is Visibly Frustrated](https://pscanf.com/s/354/)**
-  *<p>Article URL: <a href="https://pscanf.com/s/354/">https://pscanf.com/s/354/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=48275059">https://news.ycombinator.com/item?id=4827...*
-  📅 Tue, 26 May 2026 04:39:03 +0000
+- **[Eagle 3.1: Collaboration Between the EAGLE Team, vLLM Team, and TorchSpec Team](https://vllm.ai/blog/2026-05-26-eagle-3-1)**
+  *<p>Article URL: <a href="https://vllm.ai/blog/2026-05-26-eagle-3-1">https://vllm.ai/blog/2026-05-26-eagle-3-1</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=48278407">https://n...*
+  📅 Tue, 26 May 2026 11:46:10 +0000
 
-- **[Motorola phones have started hijacking the Amazon app to insert affiliate codes](https://9to5google.com/2026/05/25/motorola-amazon-app-hijacking-behavior/)**
-  *<p>Article URL: <a href="https://9to5google.com/2026/05/25/motorola-amazon-app-hijacking-behavior/">https://9to5google.com/2026/05/25/motorola-amazon-app-hijacking-behavior/</a></p>
-<p>Comments URL: <...*
-  📅 Tue, 26 May 2026 03:56:09 +0000
+- **[Netherlands blocks US takeover of vital digital supplier](https://www.politico.eu/article/netherlands-blocks-us-takeover-vital-digital-supplier/)**
+  *<p>Article URL: <a href="https://www.politico.eu/article/netherlands-blocks-us-takeover-vital-digital-supplier/">https://www.politico.eu/article/netherlands-blocks-us-takeover-vital-digital-supplier/<...*
+  📅 Tue, 26 May 2026 11:46:08 +0000
 
-- **[Earthion: A New Mega Drive-Style Shoot-Em-Up](https://earthiongame.com/)**
-  *<p>Article URL: <a href="https://earthiongame.com/">https://earthiongame.com/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=48274711">https://news.ycombinator.com/item?id=4827...*
-  📅 Tue, 26 May 2026 03:42:23 +0000
+- **[GitHub Actions down again today](https://www.githubstatus.com/?today)**
+  *<p>Article URL: <a href="https://www.githubstatus.com/?today">https://www.githubstatus.com/?today</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=48278374">https://news.ycombina...*
+  📅 Tue, 26 May 2026 11:42:58 +0000
 
 ### 📑 TechCrunch
+
+- **[Spotify now lets you stream narrated magazine articles, too](https://techcrunch.com/2026/05/26/spotify-now-lets-you-stream-narrated-magazine-articles-too/)**
+  *Spotify is adding narrated magazine articles to its app as it expands beyond music into audiobooks, podcasts, AI audio, and more....*
+  📅 Tue, 26 May 2026 14:38:05 +0000
+
+- **[TechCrunch Disrupt 2026 Early Bird ticket rates end May 29](https://techcrunch.com/2026/05/26/techcrunch-disrupt-2026-early-bird-ticket-rates-end-may-29/)**
+  *Save up to $410 on your TechCrunch Disrupt 2026 pass before prices increase on May 29 at 11:59 p.m. PT. Register here to join the tech epicenter in San Francisco....*
+  📅 Tue, 26 May 2026 14:00:00 +0000
+
+- **[7-Eleven data breach affects over 185,000 people’s personal data](https://techcrunch.com/2026/05/26/7-eleven-data-breach-affects-over-185000-peoples-personal-data/)**
+  *The data breach included names, dates-of-birth, postal addresses, and Social Security numbers, according to a state government listing....*
+  📅 Tue, 26 May 2026 13:04:56 +0000
+
+- **[Amazon fulfillment competitor Stord raises $250M at $3B valuation](https://techcrunch.com/2026/05/26/amazon-fulfillment-competitor-stord-raises-250m-at-3b-valuation/)**
+  *Stord was founded in 2015 by then-college students CEO Sean Henry  and CTO Jacob Boudreau while they were still at Georgia Tech....*
+  📅 Tue, 26 May 2026 12:00:00 +0000
 
 - **[What ClickUp’s mass layoff tells us about the future of work](https://techcrunch.com/2026/05/25/what-clickups-mass-layoff-tells-us-about-the-future-of-work/)**
   *The nine-year-old startup is replacing hundreds of employees with thousands of AI agents....*
@@ -88,34 +99,33 @@
   *Pope Leo XIV's first encyclical uses AI as a lens to diagnose older problems: concentrated power, eroding democracy, and a tech elite that shapes the world to its own advantage....*
   📅 Mon, 25 May 2026 15:09:41 +0000
 
-- **[The pitch trick that helped an eSports startup raise $20M when VCs only wanted AI](https://techcrunch.com/2026/05/25/the-pitch-trick-that-helped-an-esports-startup-raise-20m-when-vcs-only-wanted-ai/)**
-  *Earlier this year, Lucra Sports founder and CEO Dylan Robbins did something that no one else has ever done. And he shared several secrets on how he did it....*
-  📅 Mon, 25 May 2026 15:00:00 +0000
-
-- **[Startup Battlefield 200 applications close in days: Apply before May 27](https://techcrunch.com/2026/05/25/startup-battlefield-200-applications-close-in-days-apply-before-may-27/)**
-  *The deadline to apply or nominate for Startup Battlefield 200 is May 27. This is your shot at VC access, global visibility, TechCrunch coverage, and $100,000. Apply now....*
-  📅 Mon, 25 May 2026 14:30:00 +0000
-
-- **[5 days left: Save up to $410 on TechCrunch Disrupt 2026 passes before prices increase](https://techcrunch.com/2026/05/25/5-days-left-save-up-to-410-on-techcrunch-disrupt-2026-passes-before-prices-increase/)**
-  *Early Bird savings for TechCrunch Disrupt 2026 in San Francisco end May 29 at 11:59 p.m. PT. Register now to save up to $410 before prices increase....*
-  📅 Mon, 25 May 2026 14:00:00 +0000
-
-- **[Everyone is navigating AI security in real time — even Google](https://techcrunch.com/2026/05/24/everyone-is-navigating-ai-security-in-real-time-even-google/)**
-  *We're in the transition period -- all of us....*
-  📅 Sun, 24 May 2026 21:39:21 +0000
-
 ### 📑 Dev.to
 
-- **[The floor problem: why every admin product wastes 3 months on the same foundation](https://dev.to/coreola/the-floor-problem-why-every-admin-product-wastes-3-months-on-the-same-foundation-3pdk)**
+- **[SQL Semantic Validation for LLM-Generated Queries](https://dev.to/leo_gu_475098bd7f84e326ed/sql-semantic-validation-for-llm-generated-queries-3bee)**
+  *<p>LLM-generated SQL can be perfectly valid syntactically and still fail in real systems.</p>
+
+<p>That’s because syntax validation alone does not answer questions like:</p>
+
+<p>Does the table actually...*
+  📅 Tue, 26 May 2026 14:42:15 +0000
+
+- **[Panduan Instalasi Cert di Windows dan Macos](https://dev.to/devajie/panduan-instalasi-cert-di-windows-dan-macos-2d63)**
   *<h2>
   
   
-  Every admin product starts by rebuilding the same eight things — auth, RBAC, tables, forms, theming, i18n, feature flags, routing. None of it is the product. Here's why this keeps happeni...*
-  📅 Tue, 26 May 2026 09:30:36 +0000
+  Panduan Install Sertifikat di Windows
+</h2>
 
-- **[Turn Your Ideas into Great Products](https://dev.to/foundey_eadc3df7af9a10298/turn-your-ideas-into-great-products-4g5o)**
-  *<p>The distance between a great idea and a great product is almost entirely filled by design decisions. Not technical architecture. Not feature completeness. Not go-to-market strategy. Design decision...*
-  📅 Tue, 26 May 2026 09:29:39 +0000
+<h3>
+  
+  
+  A. Install Sertifikat CRT / CER (Root CA / Intermediate)
+</h3>
+
+<blockquote>
+<p>Double-click file sertifikat (.crt / .cer)<br />
+...*
+  📅 Tue, 26 May 2026 14:41:30 +0000
 
 </details>
 
@@ -123,91 +133,91 @@
 
 ### 📈 Daily Trending
 
-- **[SeemSeam/plan-tree](https://github.com/SeemSeam/plan-tree)** ⭐ 30
+- **[ai-best-tools/ai-image-video-gen](https://github.com/ai-best-tools/ai-image-video-gen)** ⭐ 64
+  ![None](https://img.shields.io/badge/-None-lightgrey)
+  Millions of users trust this AI tool for realistic image and video generation. Advanced editing, full privacy protection, automatic deletion after every session. The highest-rated option in 2026. Try it free today https://tinyurl.com/gen-img-video 
+
+- **[paraschopra/make-pages-interactive](https://github.com/paraschopra/make-pages-interactive)** ⭐ 56
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
+  None
+
+- **[SeemSeam/plan-tree](https://github.com/SeemSeam/plan-tree)** ⭐ 38
   ![None](https://img.shields.io/badge/-None-lightgrey)
   Codex skill for maintaining structured planning document trees
 
-- **[deermiya/visio-skill](https://github.com/deermiya/visio-skill)** ⭐ 14
-  ![PowerShell](https://img.shields.io/badge/-PowerShell-lightgrey)
+- **[weisparrow/dreamseed-pool](https://github.com/weisparrow/dreamseed-pool)** ⭐ 36
+  ![None](https://img.shields.io/badge/-None-lightgrey)
+  DreamSeed 种梦计划 AI 创造者大赛参赛作品 · 公开众筹分奖项目(税后净奖金 90% 以平台 token 形式回馈助梦者)
+
+- **[Abrahamhannah/Neurodesk-AI-dashboard](https://github.com/Abrahamhannah/Neurodesk-AI-dashboard)** ⭐ 32
+  ![CSS](https://img.shields.io/badge/-CSS-lightgrey)
+  A futuristic AI-powered productivity dashboard with glassmorphism UI and smart assistant features.
+
+- **[ace-trump-tech/DeltaForce-OBS-Locker](https://github.com/ace-trump-tech/DeltaForce-OBS-Locker)** ⭐ 30
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  三角洲行动OBS锁头插件 – 基于OBS渲染注入的智能锁头辅助，支持QQ音乐/网易云联精准骨骼识别、平滑自瞄、压枪抑制，稳定过检，提升击杀效率。动加载。DeltaForce OBS Lockhead Plugin – Smart aim assist via OBS injection, supports QQ Music/NetEase Cloud integration. Bone recognition, smooth aimbot, recoil control, stable anti-cheat bypass.
+
+- **[cellinlab/how-pi-agent-works](https://github.com/cellinlab/how-pi-agent-works)** ⭐ 29
+  ![None](https://img.shields.io/badge/-None-lightgrey)
+  Pi Agent 原理与实现
+
+- **[DHIVAKARG-CODER/expense-compass](https://github.com/DHIVAKARG-CODER/expense-compass)** ⭐ 29
+  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   None
-
-- **[vaamonde/ai-network-senac-tit](https://github.com/vaamonde/ai-network-senac-tit)** ⭐ 12
-  ![None](https://img.shields.io/badge/-None-lightgrey)
-  Repositório do Curso de IA para Redes de Computadores do SENAC Lapa Tito
-
-- **[WoodHelmsman/Macrium-Reflect-Crack](https://github.com/WoodHelmsman/Macrium-Reflect-Crack)** ⭐ 11
-  ![None](https://img.shields.io/badge/-None-lightgrey)
-  Software repository — parsed from GitHub.
-
-- **[Shuo-Zheng/MML-FSAR](https://github.com/Shuo-Zheng/MML-FSAR)** ⭐ 11
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  PyTorch implementation of Multi-stage Metric Learning with CLIP-based Adaptation for Few-shot Action Recognition.
-
-- **[opencrewmanspigot/Unnamed-ESP](https://github.com/opencrewmanspigot/Unnamed-ESP)** ⭐ 11
-  ![None](https://img.shields.io/badge/-None-lightgrey)
-  Player ESP for Roblox, fully undetectable, uses Synapse's built in drawing API
-
-- **[baskduf/harness-starter-kit](https://github.com/baskduf/harness-starter-kit)** ⭐ 11
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  Repo-native harness engineering starter kit for coding agents.
-
-- **[PoolSocialTower/Folx-Pro-Crack](https://github.com/PoolSocialTower/Folx-Pro-Crack)** ⭐ 11
-  ![None](https://img.shields.io/badge/-None-lightgrey)
-  Software repository — parsed from GitHub.
 
 ### 📈 Weekly Trending
 
-- **[perplexityai/bumblebee](https://github.com/perplexityai/bumblebee)** ⭐ 2,708
+- **[perplexityai/bumblebee](https://github.com/perplexityai/bumblebee)** ⭐ 2,932
   ![Go](https://img.shields.io/badge/-Go-cyan)
   Read-only developer endpoint scanner for on-disk package, extension, and developer-tool metadata, built to check exposure to known software supply-chain compromises.
 
-- **[thananon/9arm-skills](https://github.com/thananon/9arm-skills)** ⭐ 2,293
+- **[thananon/9arm-skills](https://github.com/thananon/9arm-skills)** ⭐ 2,320
   ![Shell](https://img.shields.io/badge/-Shell-lightgrey)
   None
 
-- **[joeseesun/wechat-radar](https://github.com/joeseesun/wechat-radar)** ⭐ 1,105
-  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
-  微信聊天情报看板：聚合群聊信号、话题、链接和趋势
-
-- **[open-gsd/get-shit-done-redux](https://github.com/open-gsd/get-shit-done-redux)** ⭐ 941
+- **[open-gsd/get-shit-done-redux](https://github.com/open-gsd/get-shit-done-redux)** ⭐ 1,003
   ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
   Getting Shit Done, the Aftermath
 
-- **[Tong89/smartNode](https://github.com/Tong89/smartNode)** ⭐ 857
+- **[Tong89/smartNode](https://github.com/Tong89/smartNode)** ⭐ 945
   ![Python](https://img.shields.io/badge/-Python-blue)
   None
 
-- **[kageroumado/phosphene](https://github.com/kageroumado/phosphene)** ⭐ 680
-  ![Swift](https://img.shields.io/badge/-Swift-lightgrey)
-  A video wallpaper engine for macOS Tahoe
-
-- **[MoonshotAI/kimi-code](https://github.com/MoonshotAI/kimi-code)** ⭐ 641
-  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
-  The Starting Point for Next-Gen Agents
-
-- **[run-liyi/wechatpay](https://github.com/run-liyi/wechatpay)** ⭐ 637
+- **[run-liyi/wechatpay](https://github.com/run-liyi/wechatpay)** ⭐ 693
   ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
   微信账单分析工具 - 基于Electron的可视化账单分析应用
 
+- **[MoonshotAI/kimi-code](https://github.com/MoonshotAI/kimi-code)** ⭐ 685
+  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
+  The Starting Point for Next-Gen Agents
+
+- **[kageroumado/phosphene](https://github.com/kageroumado/phosphene)** ⭐ 681
+  ![Swift](https://img.shields.io/badge/-Swift-lightgrey)
+  A video wallpaper engine for macOS Tahoe
+
+- **[0xSero/codex-shim](https://github.com/0xSero/codex-shim)** ⭐ 624
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  Local Responses-API shim that exposes Factory BYOK models (and optional ChatGPT GPT-5.5 passthrough) to Codex Desktop.
+
 ### 📈 Monthly Trending
 
-- **[nexu-io/open-design](https://github.com/nexu-io/open-design)** ⭐ 52,499
+- **[nexu-io/open-design](https://github.com/nexu-io/open-design)** ⭐ 52,702
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   🎨 Local-first, open-source  Claude Design alternative. ⚡ 19 Skills · ✨ 71 brand-grade Design Systems 🖼 Generate web · desktop · mobile prototypes · slides · images · videos · HyperFrames 📦 Sandboxed preview · HTML/PDF/PPTX/MP4 export 🤖 Runs on Claude Code / Codex / Cursor / Gemini / OpenCode / Qwen / Copilot / Hermes / Kimi CLI.
 
-- **[antirez/ds4](https://github.com/antirez/ds4)** ⭐ 11,902
+- **[antirez/ds4](https://github.com/antirez/ds4)** ⭐ 11,949
   ![C](https://img.shields.io/badge/-C-lightgrey)
   DeepSeek 4 Flash local inference engine for Metal and CUDA
 
-- **[FULU-Foundation/OrcaSlicer-bambulab](https://github.com/FULU-Foundation/OrcaSlicer-bambulab)** ⭐ 6,532
+- **[FULU-Foundation/OrcaSlicer-bambulab](https://github.com/FULU-Foundation/OrcaSlicer-bambulab)** ⭐ 6,540
   ![C++](https://img.shields.io/badge/-C++-pink)
   None
 
-- **[BigPizzaV3/CodexPlusPlus](https://github.com/BigPizzaV3/CodexPlusPlus)** ⭐ 6,023
+- **[BigPizzaV3/CodexPlusPlus](https://github.com/BigPizzaV3/CodexPlusPlus)** ⭐ 6,184
   ![Rust](https://img.shields.io/badge/-Rust-brown)
   An enhanced tool for CodexApp, striving to make Codex better to use and more comfortable 一个CodexApp的增强工具，努力让Codex变得更好用更舒服
 
-- **[nexu-io/html-anything](https://github.com/nexu-io/html-anything)** ⭐ 5,024
+- **[nexu-io/html-anything](https://github.com/nexu-io/html-anything)** ⭐ 5,065
   ![HTML](https://img.shields.io/badge/-HTML-lightgrey)
   ✨ The agentic HTML editor — your local AI agent writes the HTML, you ship it. 🚀 75 Skills × 9 Surfaces (magazine · deck · poster · XHS / tweet · prototype · data report · Hyperframes) 🛡️ Sandboxed preview · 📤 1-click to WeChat / X / Zhihu / HTML / PNG 🔑 Zero API key — Claude Code / Cursor / Codex / Gemini / Copilot / OpenCode / Qwen / Aider.
 
@@ -215,11 +225,11 @@
   ![C](https://img.shields.io/badge/-C-lightgrey)
   None
 
-- **[vercel-labs/zerolang](https://github.com/vercel-labs/zerolang)** ⭐ 4,532
+- **[vercel-labs/zerolang](https://github.com/vercel-labs/zerolang)** ⭐ 4,545
   ![C](https://img.shields.io/badge/-C-lightgrey)
   The programming language for agents
 
-- **[denuitt1/mhr-cfw](https://github.com/denuitt1/mhr-cfw)** ⭐ 4,222
+- **[denuitt1/mhr-cfw](https://github.com/denuitt1/mhr-cfw)** ⭐ 4,238
   ![Python](https://img.shields.io/badge/-Python-blue)
   A Domain-Fronting Relay that routes traffic though GAS (Google Apps Script) and forwards it to Cloudflare Workers. Designed to bypass DPI.
 
@@ -493,29 +503,29 @@ See [kubernetes-announce@](https://groups.google.com/forum/#!forum/kubernetes-an
 
 | Skill | Status |
 |-------|--------|
-| Java | ⚪ Planned |
-| Python | 🔴 Beginner |
-| JavaScript | 🟢 Proficient |
+| Java | 🟢 Proficient |
+| Python | 🟢 Proficient |
+| JavaScript | 🟡 Learning |
 | TypeScript | 🔴 Beginner |
-| Go | 🟢 Proficient |
+| Go | 🟡 Learning |
 
 ### Frameworks
 
 | Skill | Status |
 |-------|--------|
-| React | 🔴 Beginner |
-| Spring Boot | 🟢 Proficient |
-| Django | 🔴 Beginner |
-| Node.js | 🔴 Beginner |
-| Next.js | 🟢 Proficient |
+| React | ⚪ Planned |
+| Spring Boot | ⚪ Planned |
+| Django | 🟢 Proficient |
+| Node.js | 🟢 Proficient |
+| Next.js | ⚪ Planned |
 
 ### Cybersecurity
 
 | Skill | Status |
 |-------|--------|
-| Penetration Testing | 🔴 Beginner |
-| Web Security | 🔴 Beginner |
-| Network Security | 🔴 Beginner |
+| Penetration Testing | ⚪ Planned |
+| Web Security | ⚪ Planned |
+| Network Security | ⚪ Planned |
 | OWASP | 🟡 Learning |
 
 ### Ai Ml
@@ -524,28 +534,28 @@ See [kubernetes-announce@](https://groups.google.com/forum/#!forum/kubernetes-an
 |-------|--------|
 | Machine Learning | 🟡 Learning |
 | Deep Learning | ⚪ Planned |
-| NLP | 🟡 Learning |
-| Computer Vision | 🟢 Proficient |
-| TensorFlow | 🔴 Beginner |
-| PyTorch | 🟡 Learning |
+| NLP | 🔴 Beginner |
+| Computer Vision | ⚪ Planned |
+| TensorFlow | ⚪ Planned |
+| PyTorch | 🟢 Proficient |
 
 ### Devops
 
 | Skill | Status |
 |-------|--------|
-| Docker | ⚪ Planned |
+| Docker | 🔴 Beginner |
 | Kubernetes | 🔴 Beginner |
-| CI/CD | 🟡 Learning |
-| AWS | 🔴 Beginner |
-| Azure | 🟡 Learning |
+| CI/CD | 🟢 Proficient |
+| AWS | 🟢 Proficient |
+| Azure | 🟢 Proficient |
 
 ### Other
 
 | Skill | Status |
 |-------|--------|
-| Blockchain | 🔴 Beginner |
+| Blockchain | 🟢 Proficient |
 | Web3 | ⚪ Planned |
-| Cloud Computing | 🟢 Proficient |
+| Cloud Computing | ⚪ Planned |
 
 </details>
 
