@@ -46,6 +46,25 @@
 
 ### 📑 Hacker News
 
+- **[A Eureka machine that thinks like nature and explores what AI cannot](https://iisc.ac.in/a-eureka-machine-that-thinks-like-nature-and-explores-what-ai-cannot/)**
+  *<p>Article URL: <a href="https://iisc.ac.in/a-eureka-machine-that-thinks-like-nature-and-explores-what-ai-cannot/">https://iisc.ac.in/a-eureka-machine-that-thinks-like-nature-and-explores-what-ai-cann...*
+  📅 Thu, 28 May 2026 06:40:31 +0000
+
+- **[Hallucinate – Massively Multiplayer Online Rave](https://hallucinate.site)**
+  *<p>Article URL: <a href="https://hallucinate.site">https://hallucinate.site</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=48304260">https://news.ycombinator.com/item?id=483042...*
+  📅 Thu, 28 May 2026 03:50:01 +0000
+
+- **[Biff is a command line datetime Swiss army knife](https://github.com/BurntSushi/biff)**
+  *<p>Article URL: <a href="https://github.com/BurntSushi/biff">https://github.com/BurntSushi/biff</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=48303881">https://news.ycombinato...*
+  📅 Thu, 28 May 2026 02:58:44 +0000
+
+- **[RamAIn (YC W26) Is Hiring](https://www.ycombinator.com/companies/ramain/jobs/hqvmyKN-founding-gtm-engineer)**
+  *<p>Article URL: <a href="https://www.ycombinator.com/companies/ramain/jobs/hqvmyKN-founding-gtm-engineer">https://www.ycombinator.com/companies/ramain/jobs/hqvmyKN-founding-gtm-engineer</a></p>
+<p>Com...*
+  📅 Thu, 28 May 2026 02:21:11 +0000
+
 - **[Google employee charged with $1M Polymarket insider trading bet on search term](https://www.cnbc.com/2026/05/27/google-employee-polymarket-insider-trading.html)**
   *<p>Article URL: <a href="https://www.cnbc.com/2026/05/27/google-employee-polymarket-insider-trading.html">https://www.cnbc.com/2026/05/27/google-employee-polymarket-insider-trading.html</a></p>
 <p>Com...*
@@ -56,24 +75,11 @@
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=48302745">https://news.ycombinator.com/it...*
   📅 Thu, 28 May 2026 00:40:26 +0000
 
-- **[FBI Arrests CIA Official with $40M in Gold Bars in His Home](https://www.nytimes.com/2026/05/27/us/politics/fbi-arrest-cia-official-gold-bars.html)**
-  *<p>Article URL: <a href="https://www.nytimes.com/2026/05/27/us/politics/fbi-arrest-cia-official-gold-bars.html">https://www.nytimes.com/2026/05/27/us/politics/fbi-arrest-cia-official-gold-bars.html</a...*
-  📅 Wed, 27 May 2026 23:23:29 +0000
-
-- **[Pelica (YC P25) Is Hiring](https://www.ycombinator.com/companies/pelica/jobs/MDeC49o-machine-learning-engineer)**
-  *<p>Article URL: <a href="https://www.ycombinator.com/companies/pelica/jobs/MDeC49o-machine-learning-engineer">https://www.ycombinator.com/companies/pelica/jobs/MDeC49o-machine-learning-engineer</a></p...*
-  📅 Wed, 27 May 2026 22:52:15 +0000
-
-- **[Show HN: Open-Source AI Racing Harness](https://www.elodin.systems/post/elodin-ai-grand-prix-race-sim-harness)**
-  *<p>Hi I'm Dan from Elodin, making an open source real-time capable flight software simulation.<p>For AI Grand Prix contestants, the wait for the Round 1 virtual qualifier simulation has been grueling....*
-  📅 Wed, 27 May 2026 20:37:42 +0000
-
-- **[YouTube to automatically label AI-generated videos](https://blog.youtube/news-and-events/improving-ai-labels-viewers-creators/)**
-  *<p><a href="https://variety.com/2026/digital/news/youtube-ai-video-labels-automatic-detection-1236758865/" rel="nofollow">https://variety.com/2026/digital/news/youtube-ai-video-label...</a></p>
-<hr />...*
-  📅 Wed, 27 May 2026 20:00:51 +0000
-
 ### 📑 TechCrunch
+
+- **[Vertu wants CEOs to run companies from an AI foldable starting at $6,880](https://techcrunch.com/2026/05/28/vertu-wants-ceos-to-run-companies-from-an-ai-foldable-starting-at-6880/)**
+  *Built on top of the open-source Hermes project, Vertu's new foldable combines AI-agent workflows, enterprise integrations, and ultra-premium luxury finishes....*
+  📅 Thu, 28 May 2026 07:00:00 +0000
 
 - **[Google engineer charged with insider trading after making $1.2M on Polymarket](https://techcrunch.com/2026/05/27/google-engineer-charged-with-insider-trading-after-making-1-2m-on-polymarket/)**
   *According to the complaint, a Google engineer risked over $2.7 million on wagers related to Google's 2025 Year in Search campaign....*
@@ -95,27 +101,19 @@
   *Snowflake has signed a new, enormous five-year deal with Amazon to secure chips for AI usage. Nvidia is once again being put on notice....*
   📅 Wed, 27 May 2026 20:10:00 +0000
 
-- **[Payroll startup Remote says it grew revenue 50% per employee without adding headcount](https://techcrunch.com/2026/05/27/payroll-startup-remote-says-it-grew-revenue-50-per-employee-without-adding-headcount/)**
-  *Payroll service provider Remote recently surpassed $300 million in annual recurring revenue (ARR) and became cash-flow positive, thanks to a 50% increase in revenue per employee resulting from AI adop...*
-  📅 Wed, 27 May 2026 19:39:45 +0000
-
 ### 📑 Dev.to
 
-- **[Readsb ADS-B Aircraft Local State Archive](https://dev.to/johnnyfitz/readsb-ads-b-aircraft-local-state-archive-cik)**
-  *<h2>
-  
-  
-  Introduction
-</h2>
+- **[The Next Decade of Data Engineering: From Modern Data Stack to Data Engineering Harness](https://dev.to/seatunnel/the-next-decade-of-data-engineering-from-modern-data-stack-to-data-engineering-harness-4cjo)**
+  *<p><a class="article-body-image-wrapper" href="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fupl...*
+  📅 Thu, 28 May 2026 09:44:46 +0000
 
-<p>If you are feeding air traffic data to any of the ADS-B/ModeS aggregators, this post will show you how to create a local historical aircraft state dataset that you ...*
-  📅 Thu, 28 May 2026 02:06:16 +0000
-
-- **[The Veltrix Event Engine Blew Up Because We Trusted the Defaults](https://dev.to/built-from-africa/the-veltrix-event-engine-blew-up-because-we-trusted-the-defaults-2he3)**
-  *<p>The Problem We Were Actually Solving</p>
-
-<p>We had built a single-node event-processing pipeline that could run 9,000 events per second with sub-10 ms latency on synthetic data—until real traffic ...*
-  📅 Thu, 28 May 2026 02:05:51 +0000
+- **[Tell me which LLM and cloud base suitable for creating agentic coding AI. it's all coverup the BMDA like
+1. Business Understanding
+2. Model / Architecture Design
+3. Agile Development
+4. Deployment & Monitoring](https://dev.to/ananth_r_d397caa9d8c68cb0/tell-me-which-is-suitable-for-creating-agentic-coding-ai-its-all-coverup-the-bmda-like-1-2o8)**
+  *...*
+  📅 Thu, 28 May 2026 09:38:30 +0000
 
 </details>
 
@@ -123,103 +121,103 @@
 
 ### 📈 Daily Trending
 
-- **[Fruit03246565/fruitorchestra](https://github.com/Fruit03246565/fruitorchestra)** ⭐ 5
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  The missing memory layer for multi-agent systems
-
-- **[marvinified/voctar](https://github.com/marvinified/voctar)** ⭐ 5
+- **[ShadowSpread/polymarket-auto-trading](https://github.com/ShadowSpread/polymarket-auto-trading)** ⭐ 92
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
-  Simple TypeScript library with RAG primitives for embeddings, chunking, storage, and semantic retrieval.
+  polymarket trading bot, polymarket auto trading bot, polymarket profitable bot, polymarket, trading bot, polymarket trading bot, polymarket arbitrage bot, polymarket arbitrage bot, polymarket trading bot, polymarket auto trading bot, polymarket profitable bot, polymarket trading bot, polymarket auto trading bot, polymarket profitable bot, 
 
-- **[Renato-SI/Bom-de-Guerra-](https://github.com/Renato-SI/Bom-de-Guerra-)** ⭐ 3
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  Desafio da Disciplina de PP1
-
-- **[rickshagravell/Crypto-testnet-journals](https://github.com/rickshagravell/Crypto-testnet-journals)** ⭐ 3
-  ![None](https://img.shields.io/badge/-None-lightgrey)
-  My notes while exploring blockchain and web3 ecosystems.
-
-- **[Kyeong1024/antigravity-cli-harness](https://github.com/Kyeong1024/antigravity-cli-harness)** ⭐ 2
-  ![None](https://img.shields.io/badge/-None-lightgrey)
-  Ported version of revfactory/harness for Antigravity CLI (Apache-2.0)
-
-- **[chius-me/awesome-selfhosted-cn](https://github.com/chius-me/awesome-selfhosted-cn)** ⭐ 2
-  ![None](https://img.shields.io/badge/-None-lightgrey)
+- **[stagas/hallucinate](https://github.com/stagas/hallucinate)** ⭐ 46
+  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   None
 
-- **[rickshagravell/Smart-contract-learning](https://github.com/rickshagravell/Smart-contract-learning)** ⭐ 2
-  ![None](https://img.shields.io/badge/-None-lightgrey)
-  # Smart Contract Learning  Basic experiments while learning smart contracts and blockchain development.
+- **[XuToWei/Image-To-UI](https://github.com/XuToWei/Image-To-UI)** ⭐ 23
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  Image-to-UI Codex skill: convert game UI screenshots and sliced sprites into ui_structure.json.
 
-- **[rickshagravell/Faucet-resources](https://github.com/rickshagravell/Faucet-resources)** ⭐ 2
+- **[OnlyTerp/prompt-cache-skills](https://github.com/OnlyTerp/prompt-cache-skills)** ⭐ 22
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  Drop-in prompt-caching fixes for the LLM agent harness you use. Point your AI coding agent at this repo and it ships the patches.
+
+- **[ATOM00blue/machine-learning-library](https://github.com/ATOM00blue/machine-learning-library)** ⭐ 20
   ![None](https://img.shields.io/badge/-None-lightgrey)
-  # Faucet Resources  Useful blockchain faucet resources for testing and development purposes.
+  A hand-curated library of the best machine learning education — 590 docs (78 arXiv papers, 474 course lectures from Stanford/MIT/Karpathy/fast.ai, 38 explainer articles), normalized to Markdown with full provenance. A clean ML corpus/dataset for learning, RAG, and fine-tuning.
+
+- **[Dilpreetxsandu/medisense-ai](https://github.com/Dilpreetxsandu/medisense-ai)** ⭐ 19
+  ![HTML](https://img.shields.io/badge/-HTML-lightgrey)
+  None
+
+- **[chaxiu/munk-ai](https://github.com/chaxiu/munk-ai)** ⭐ 14
+  ![None](https://img.shields.io/badge/-None-lightgrey)
+  AI testing infrastructure for Harness Engineering across Android, iOS, and Web.
+
+- **[HQian-AI/CollabBench](https://github.com/HQian-AI/CollabBench)** ⭐ 14
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
+  None
 
 ### 📈 Weekly Trending
 
-- **[open-gsd/get-shit-done-redux](https://github.com/open-gsd/get-shit-done-redux)** ⭐ 1,348
+- **[open-gsd/get-shit-done-redux](https://github.com/open-gsd/get-shit-done-redux)** ⭐ 1,429
   ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
   Getting Shit Done, the Aftermath
 
-- **[MoonshotAI/kimi-code](https://github.com/MoonshotAI/kimi-code)** ⭐ 890
+- **[OpenBMB/PilotDeck](https://github.com/OpenBMB/PilotDeck)** ⭐ 1,115
+  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
+  Task-oriented AI Agent productivity platform
+
+- **[MoonshotAI/kimi-code](https://github.com/MoonshotAI/kimi-code)** ⭐ 936
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   The Starting Point for Next-Gen Agents
 
-- **[0xSero/codex-shim](https://github.com/0xSero/codex-shim)** ⭐ 660
+- **[0xSero/codex-shim](https://github.com/0xSero/codex-shim)** ⭐ 667
   ![Python](https://img.shields.io/badge/-Python-blue)
   Local Responses-API shim that exposes Factory BYOK models (and optional ChatGPT GPT-5.5 passthrough) to Codex Desktop.
 
-- **[study8677/awesome-architecture](https://github.com/study8677/awesome-architecture)** ⭐ 575
+- **[study8677/awesome-architecture](https://github.com/study8677/awesome-architecture)** ⭐ 636
   ![Vue](https://img.shields.io/badge/-Vue-lightgrey)
   🗺️ Think like a software architect, not just a coder — 21 architecture maps (incl. AI gateway, RAG, agents, inference serving, vector DB) + a language-agnostic system-design tutorial. Every template links to real open-source prototypes. 中英文双语。
 
-- **[zhaoyue4810/pianke](https://github.com/zhaoyue4810/pianke)** ⭐ 502
+- **[zhaoyue4810/pianke](https://github.com/zhaoyue4810/pianke)** ⭐ 521
   ![Python](https://img.shields.io/badge/-Python-blue)
   None
 
-- **[UditAkhourii/adhd](https://github.com/UditAkhourii/adhd)** ⭐ 357
+- **[op7418/guizang-social-card-skill](https://github.com/op7418/guizang-social-card-skill)** ⭐ 509
+  ![HTML](https://img.shields.io/badge/-HTML-lightgrey)
+  🪧 Claude Code / Codex skill — generate Xiaohongshu carousels & WeChat 21:9+1:1 cover pairs. Editorial × Swiss visual systems, 28 layouts, 10 themes, single-file HTML → PNG. 小红书图文 + 公众号封面对
+
+- **[UditAkhourii/adhd](https://github.com/UditAkhourii/adhd)** ⭐ 399
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   ADHD — a skill for coding agents. Tree-of-thought with pruning, built on the Claude Agent SDK. Fans out parallel divergent thoughts under different cognitive frames, scores, prunes traps, deepens the survivors. The no-brainer skill for creative and interdisciplinary work.
 
-- **[VILA-Lab/FigMirror](https://github.com/VILA-Lab/FigMirror)** ⭐ 333
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  An Automated AI Agent Tool for Plotting Your Data in Any Paper's Figure Style.
-
-- **[jianshuo/ccglass](https://github.com/jianshuo/ccglass)** ⭐ 314
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
-  See what your coding agent (Claude Code, Codex, Kimi) sends to the model — local proxy + web dashboard
-
 ### 📈 Monthly Trending
 
-- **[antirez/ds4](https://github.com/antirez/ds4)** ⭐ 12,170
+- **[antirez/ds4](https://github.com/antirez/ds4)** ⭐ 12,260
   ![C](https://img.shields.io/badge/-C-lightgrey)
   DeepSeek 4 Flash local inference engine for Metal and CUDA
 
-- **[BigPizzaV3/CodexPlusPlus](https://github.com/BigPizzaV3/CodexPlusPlus)** ⭐ 7,172
+- **[BigPizzaV3/CodexPlusPlus](https://github.com/BigPizzaV3/CodexPlusPlus)** ⭐ 7,542
   ![Rust](https://img.shields.io/badge/-Rust-brown)
   An enhanced tool for CodexApp, striving to make Codex better to use and more comfortable 一个CodexApp的增强工具，努力让Codex变得更好用更舒服
 
-- **[FULU-Foundation/OrcaSlicer-bambulab](https://github.com/FULU-Foundation/OrcaSlicer-bambulab)** ⭐ 6,590
+- **[FULU-Foundation/OrcaSlicer-bambulab](https://github.com/FULU-Foundation/OrcaSlicer-bambulab)** ⭐ 6,605
   ![C++](https://img.shields.io/badge/-C++-pink)
   None
 
-- **[nexu-io/html-anything](https://github.com/nexu-io/html-anything)** ⭐ 5,213
+- **[nexu-io/html-anything](https://github.com/nexu-io/html-anything)** ⭐ 5,261
   ![HTML](https://img.shields.io/badge/-HTML-lightgrey)
   ✨ The agentic HTML editor — your local AI agent writes the HTML, you ship it. 🚀 75 Skills × 9 Surfaces (magazine · deck · poster · XHS / tweet · prototype · data report · Hyperframes) 🛡️ Sandboxed preview · 📤 1-click to WeChat / X / Zhihu / HTML / PNG 🔑 Zero API key — Claude Code / Cursor / Codex / Gemini / Copilot / OpenCode / Qwen / Aider.
 
-- **[V4bel/dirtyfrag](https://github.com/V4bel/dirtyfrag)** ⭐ 4,775
+- **[V4bel/dirtyfrag](https://github.com/V4bel/dirtyfrag)** ⭐ 4,782
   ![C](https://img.shields.io/badge/-C-lightgrey)
   None
 
-- **[vercel-labs/zerolang](https://github.com/vercel-labs/zerolang)** ⭐ 4,601
+- **[vercel-labs/zerolang](https://github.com/vercel-labs/zerolang)** ⭐ 4,627
   ![C](https://img.shields.io/badge/-C-lightgrey)
   The programming language for agents
 
-- **[darrylmorley/whatcable](https://github.com/darrylmorley/whatcable)** ⭐ 4,507
+- **[darrylmorley/whatcable](https://github.com/darrylmorley/whatcable)** ⭐ 4,601
   ![Swift](https://img.shields.io/badge/-Swift-lightgrey)
   macOS menu bar app that tells you, in plain English, what each USB-C cable plugged into your Mac can actually do
 
-- **[vercel-labs/zero-native](https://github.com/vercel-labs/zero-native)** ⭐ 4,015
+- **[vercel-labs/zero-native](https://github.com/vercel-labs/zero-native)** ⭐ 4,020
   ![Zig](https://img.shields.io/badge/-Zig-lightgrey)
   Build desktop + mobile apps with Zig and web UI
 
@@ -230,11 +228,12 @@
 
 ### 📦 microsoft/vscode
 
-**[1.121.0](https://github.com/microsoft/vscode/releases/tag/1.121.0)** `1.121.0`
+**[1.122.0](https://github.com/microsoft/vscode/releases/tag/1.122.0)** `1.122.0`
 
-📅 Released: May 20, 2026
+📅 Released: May 28, 2026
 
-https://code.visualstudio.com/updates/v1_121...
+https://code.visualstudio.com/updates/v1_122
+...
 
 ---
 
@@ -493,57 +492,57 @@ See [kubernetes-announce@](https://groups.google.com/forum/#!forum/kubernetes-an
 
 | Skill | Status |
 |-------|--------|
-| Java | ⚪ Planned |
-| Python | ⚪ Planned |
-| JavaScript | ⚪ Planned |
-| TypeScript | 🟢 Proficient |
-| Go | 🟢 Proficient |
+| Java | 🟢 Proficient |
+| Python | 🔴 Beginner |
+| JavaScript | 🔴 Beginner |
+| TypeScript | 🟡 Learning |
+| Go | 🔴 Beginner |
 
 ### Frameworks
 
 | Skill | Status |
 |-------|--------|
 | React | ⚪ Planned |
-| Spring Boot | 🟡 Learning |
-| Django | 🟢 Proficient |
+| Spring Boot | 🔴 Beginner |
+| Django | 🔴 Beginner |
 | Node.js | 🟢 Proficient |
-| Next.js | 🟢 Proficient |
+| Next.js | ⚪ Planned |
 
 ### Cybersecurity
 
 | Skill | Status |
 |-------|--------|
-| Penetration Testing | ⚪ Planned |
-| Web Security | 🔴 Beginner |
-| Network Security | 🔴 Beginner |
-| OWASP | 🔴 Beginner |
+| Penetration Testing | 🟡 Learning |
+| Web Security | 🟢 Proficient |
+| Network Security | 🟡 Learning |
+| OWASP | ⚪ Planned |
 
 ### Ai Ml
 
 | Skill | Status |
 |-------|--------|
 | Machine Learning | 🔴 Beginner |
-| Deep Learning | ⚪ Planned |
-| NLP | 🟡 Learning |
-| Computer Vision | ⚪ Planned |
-| TensorFlow | 🔴 Beginner |
-| PyTorch | 🟢 Proficient |
+| Deep Learning | 🟡 Learning |
+| NLP | 🟢 Proficient |
+| Computer Vision | 🟡 Learning |
+| TensorFlow | ⚪ Planned |
+| PyTorch | ⚪ Planned |
 
 ### Devops
 
 | Skill | Status |
 |-------|--------|
-| Docker | 🟡 Learning |
-| Kubernetes | 🟡 Learning |
-| CI/CD | 🔴 Beginner |
-| AWS | ⚪ Planned |
+| Docker | 🔴 Beginner |
+| Kubernetes | 🟢 Proficient |
+| CI/CD | 🟡 Learning |
+| AWS | 🔴 Beginner |
 | Azure | 🟢 Proficient |
 
 ### Other
 
 | Skill | Status |
 |-------|--------|
-| Blockchain | 🔴 Beginner |
+| Blockchain | 🟡 Learning |
 | Web3 | 🟢 Proficient |
 | Cloud Computing | 🟡 Learning |
 
