@@ -46,34 +46,33 @@
 
 ### 📑 Hacker News
 
-- **[Blue Origin's New Glenn blows up during static fire test](https://twitter.com/nasaspaceflight/status/2060164928472854821)**
-  *<p>Article URL: <a href="https://twitter.com/nasaspaceflight/status/2060164928472854821">https://twitter.com/nasaspaceflight/status/2060164928472854821</a></p>
-<p>Comments URL: <a href="https://news.y...*
-  📅 Fri, 29 May 2026 01:16:38 +0000
+- **[Cache Aware Scheduling Shows Nice Wins for AMD Zen 5 on PostgreSQL, Valkey](https://www.phoronix.com/review/cache-aware-scheduling-hedt)**
+  *<p>Article URL: <a href="https://www.phoronix.com/review/cache-aware-scheduling-hedt">https://www.phoronix.com/review/cache-aware-scheduling-hedt</a></p>
+<p>Comments URL: <a href="https://news.ycombin...*
+  📅 Fri, 29 May 2026 08:36:32 +0000
 
-- **[Where are the economies of scale in homebuilding?](https://www.construction-physics.com/p/where-are-the-economies-of-scale)**
-  *<p>Article URL: <a href="https://www.construction-physics.com/p/where-are-the-economies-of-scale">https://www.construction-physics.com/p/where-are-the-economies-of-scale</a></p>
-<p>Comments URL: <a hr...*
-  📅 Fri, 29 May 2026 00:16:20 +0000
+- **[Undisclosed addition in jqwik instructed AI coding agents to delete app output](https://arstechnica.com/security/2026/05/fed-up-with-vibe-coders-dev-sneaks-data-nuking-prompt-injection-into-their-code/)**
+  *<p>Article URL: <a href="https://arstechnica.com/security/2026/05/fed-up-with-vibe-coders-dev-sneaks-data-nuking-prompt-injection-into-their-code/">https://arstechnica.com/security/2026/05/fed-up-with...*
+  📅 Fri, 29 May 2026 07:05:31 +0000
 
-- **[The mysterious Hy3 LLM is topping OpenRouter Model Rankings by a large margin](https://minimaxir.com/2026/05/openrouter-hy3/)**
-  *<p>Article URL: <a href="https://minimaxir.com/2026/05/openrouter-hy3/">https://minimaxir.com/2026/05/openrouter-hy3/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=48317294">h...*
-  📅 Fri, 29 May 2026 00:09:35 +0000
+- **[Volkswagen blocks Home Assistant by requiring client assertion](https://github.com/robinostlund/homeassistant-volkswagencarnet/issues/967)**
+  *<p>Article URL: <a href="https://github.com/robinostlund/homeassistant-volkswagencarnet/issues/967">https://github.com/robinostlund/homeassistant-volkswagencarnet/issues/967</a></p>
+<p>Comments URL: <...*
+  📅 Fri, 29 May 2026 05:45:36 +0000
 
-- **[SF startup is testing robots in Airbnbs, and trashing them, lawsuit claims](https://sfstandard.com/2026/05/28/sf-startup-secretly-testing-robots-airbnbs-trashing-lawsuit-claims/)**
-  *<p>Article URL: <a href="https://sfstandard.com/2026/05/28/sf-startup-secretly-testing-robots-airbnbs-trashing-lawsuit-claims/">https://sfstandard.com/2026/05/28/sf-startup-secretly-testing-robots-air...*
-  📅 Thu, 28 May 2026 23:42:47 +0000
+- **[HeidiSQL – Lightweight MariaDB, MySQL, SQL Server, PostgreSQL and SQLite Manager](https://github.com/HeidiSQL/HeidiSQL)**
+  *<p>Article URL: <a href="https://github.com/HeidiSQL/HeidiSQL">https://github.com/HeidiSQL/HeidiSQL</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=48318568">https://news.ycombi...*
+  📅 Fri, 29 May 2026 03:14:39 +0000
 
-- **[Garnix (A Nix CI) is shutting down](https://discourse.nixos.org/t/garnix-is-shutting-down-not-oc/77895)**
-  *<p>Article URL: <a href="https://discourse.nixos.org/t/garnix-is-shutting-down-not-oc/77895">https://discourse.nixos.org/t/garnix-is-shutting-down-not-oc/77895</a></p>
-<p>Comments URL: <a href="https:...*
-  📅 Thu, 28 May 2026 23:36:41 +0000
+- **[Let's compile Quake like it's 1997](https://fabiensanglard.net/compile_like_1997/)**
+  *<p>Article URL: <a href="https://fabiensanglard.net/compile_like_1997/">https://fabiensanglard.net/compile_like_1997/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=48318522">h...*
+  📅 Fri, 29 May 2026 03:07:22 +0000
 
-- **[The Silent Critic](https://www.tft.io/the-silent-critic/)**
-  *<p>Article URL: <a href="https://www.tft.io/the-silent-critic/">https://www.tft.io/the-silent-critic/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=48316958">https://news.ycom...*
-  📅 Thu, 28 May 2026 23:25:51 +0000
+- **[Cars collect a startling amount of data about you](https://www.bbc.com/future/article/20260513-your-car-is-spying-on-you-its-about-to-get-worse)**
+  *<p>Article URL: <a href="https://www.bbc.com/future/article/20260513-your-car-is-spying-on-you-its-about-to-get-worse">https://www.bbc.com/future/article/20260513-your-car-is-spying-on-you-its-about-t...*
+  📅 Fri, 29 May 2026 03:01:00 +0000
 
 ### 📑 TechCrunch
 
@@ -103,21 +102,41 @@
 
 ### 📑 Dev.to
 
-- **[How to Give Your Dev Team Shared AI Memory with MCP (Step-by-Step)](https://dev.to/abhi_a_c8c6d876c38861c9ee/how-to-give-your-dev-team-shared-ai-memory-with-mcp-step-by-step-k73)**
-  *<p>Your Claude Code session knows your project inside out. Your teammate's Claude Code session knows nothing. Every morning, one of you re-explains the architecture, the conventions, the decisions you...*
-  📅 Fri, 29 May 2026 02:07:26 +0000
+- **[OpenAI vs Anthropic vs Bedrock vs Vertex vs Gemini: True per-token cost in 2026](https://dev.to/muskan_8abedcc7e12/true-per-token-llm-cost-in-2026-5-providers-compared-1kgp)**
+  *<blockquote>
+<p>Per-token list prices hide the actual cost of running production LLM workloads. We measured a 340% variance between advertised pricing and real monthly spend across five deployment</p>...*
+  📅 Fri, 29 May 2026 09:24:57 +0000
 
-- **[The AI Memory Problem Is a Team Problem (And Nobody's Talking About It)](https://dev.to/abhi_a_c8c6d876c38861c9ee/the-ai-memory-problem-is-a-team-problem-and-nobodys-talking-about-it-4a0f)**
-  *<p>The individual AI memory problem is solved.</p>
-
-<p>claude-mem has 1,840 commits and 109 contributors. MemPalace stores every conversation verbatim with semantic search. mem0 gives you cloud-hosted...*
-  📅 Fri, 29 May 2026 02:06:22 +0000
+- **[Building a Production-Style Video Sharing Platform Backend with Node.js, Express & MongoDB](https://dev.to/sairaj_jadhav_affa310a4ef/building-a-production-style-video-sharing-platform-backend-with-nodejs-express-mongodb-48f2)**
+  *<p>🚀 Completed a Production-Style Video Sharing Platform Backend API<br />
+Over the past few weeks, I've been building a backend system inspired by modern video-sharing platforms using Node.js, Expres...*
+  📅 Fri, 29 May 2026 09:22:39 +0000
 
 </details>
 
 ## 🔥 Trending Repositories
 
 ### 📈 Daily Trending
+
+- **[Polymarket-DevRel/polymarket-devrel](https://github.com/Polymarket-DevRel/polymarket-devrel)** ⭐ 151
+  ![Rust](https://img.shields.io/badge/-Rust-brown)
+  None
+
+- **[DRVX92/coinbase-copy-trade-bot](https://github.com/DRVX92/coinbase-copy-trade-bot)** ⭐ 77
+  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
+  coinbase trading bot coinbase api advanced trade trading bot crypto trading bot automated trading coinbase trading bot typescript algorithmic trading ema atr coinbase bot crypto trading bot coinbase trading bot paper trading spot coinbase trading bot risk sizing zod nodejs coinbase trading bot fintech quant coinbase trading bot open source
+
+- **[Wanduforl/MacArkPet](https://github.com/Wanduforl/MacArkPet)** ⭐ 26
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
+  Unofficial GPL-3.0 native macOS desktop pet app inspired by Ark-Pets.
+
+- **[liangjie1999/ClipGStream](https://github.com/liangjie1999/ClipGStream)** ⭐ 26
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  [CVPR 2026] ClipGStream: Clip-Stream Gaussian Splatting for Any Length and Any Motion Multi-View Dynamic Scene Reconstruction
+
+- **[wasintoh/line-oa-mcp-ultimate](https://github.com/wasintoh/line-oa-mcp-ultimate)** ⭐ 17
+  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
+  Talk to your LINE Official Account through AI. 27 tools for broadcasts, audiences, rich menus, Flex messages, coupons & insights — works with Claude Cowork, Claude Code, Cursor, and any MCP-compatible host. Zero infrastructure, free-tier ready.
 
 - **[ivanzhang2/mainland-tv-drama](https://github.com/ivanzhang2/mainland-tv-drama)** ⭐ 15
   ![None](https://img.shields.io/badge/-None-lightgrey)
@@ -131,37 +150,17 @@
   ![None](https://img.shields.io/badge/-None-lightgrey)
   按年份分类电影榜：2024 / 2025 / 2026
 
-- **[ivanzhang/movie-region-guide](https://github.com/ivanzhang/movie-region-guide)** ⭐ 15
-  ![None](https://img.shields.io/badge/-None-lightgrey)
-  按地区分类的电影榜：美国 / 日本 / 韩国 / 港片
-
-- **[tianjiu8341/new-movies-2026](https://github.com/tianjiu8341/new-movies-2026)** ⭐ 14
-  ![None](https://img.shields.io/badge/-None-lightgrey)
-  2026 新片速递 - 每月更新
-
-- **[xdotboo/mystery-crime-pick](https://github.com/xdotboo/mystery-crime-pick)** ⭐ 14
-  ![None](https://img.shields.io/badge/-None-lightgrey)
-  悬疑推理影视推荐 2024-2026
-
-- **[xuekun001/korean-tv-drama-pick](https://github.com/xuekun001/korean-tv-drama-pick)** ⭐ 14
-  ![None](https://img.shields.io/badge/-None-lightgrey)
-  韩剧追剧精选：黑暗荣耀 / 鱿鱼游戏 / 请回答系列
-
-- **[gvzaixian/hk-tv-series](https://github.com/gvzaixian/hk-tv-series)** ⭐ 14
-  ![None](https://img.shields.io/badge/-None-lightgrey)
-  港剧推荐：TVB 经典 + 近年新港剧
-
 ### 📈 Weekly Trending
 
-- **[op7418/guizang-social-card-skill](https://github.com/op7418/guizang-social-card-skill)** ⭐ 818
+- **[op7418/guizang-social-card-skill](https://github.com/op7418/guizang-social-card-skill)** ⭐ 1,040
   ![HTML](https://img.shields.io/badge/-HTML-lightgrey)
   🪧 Claude Code / Codex skill — generate Xiaohongshu carousels & WeChat 21:9+1:1 cover pairs. Editorial × Swiss visual systems, 28 layouts, 10 themes, single-file HTML → PNG. 小红书图文 + 公众号封面对
 
-- **[study8677/awesome-architecture](https://github.com/study8677/awesome-architecture)** ⭐ 734
+- **[study8677/awesome-architecture](https://github.com/study8677/awesome-architecture)** ⭐ 764
   ![Vue](https://img.shields.io/badge/-Vue-lightgrey)
   🗺️ Think like a software architect, not just a coder — 21 architecture maps (incl. AI gateway, RAG, agents, inference serving, vector DB) + a language-agnostic system-design tutorial. Every template links to real open-source prototypes. 中英文双语。
 
-- **[UditAkhourii/adhd](https://github.com/UditAkhourii/adhd)** ⭐ 473
+- **[UditAkhourii/adhd](https://github.com/UditAkhourii/adhd)** ⭐ 497
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   ADHD — a skill for coding agents. Tree-of-thought with pruning, built on the Claude Agent SDK. Fans out parallel divergent thoughts under different cognitive frames, scores, prunes traps, deepens the survivors. The no-brainer skill for creative and interdisciplinary work.
 
@@ -169,53 +168,53 @@
   ![C#](https://img.shields.io/badge/-C#-lightgrey)
   A secure, educational toolkit for understanding KMS activation, designed for lab environments.
 
-- **[alfiyahkamilah1239298/WallpaperDownloader-26](https://github.com/alfiyahkamilah1239298/WallpaperDownloader-26)** ⭐ 398
+- **[helloianneo/ian-xiaohei-illustrations](https://github.com/helloianneo/ian-xiaohei-illustrations)** ⭐ 442
+  ![None](https://img.shields.io/badge/-None-lightgrey)
+  中文小黑怪诞正文配图生成 Skill | 16:9 白底手绘 | 少量红橙蓝批注 | Codex Skill
+
+- **[withkynam/vibecode-pro-max-kit](https://github.com/withkynam/vibecode-pro-max-kit)** ⭐ 434
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
+  Your AI forgets. This remembers. Spec-driven coding harness for vibecoders, product owners, CEOs and real builders — self-improving context memory, 12 agents, 32 skills. Kills context rot, ships features, not spaghetti. Claude Code & Codex. Any stack. 30 seconds
+
+- **[alfiyahkamilah1239298/WallpaperDownloader-26](https://github.com/alfiyahkamilah1239298/WallpaperDownloader-26)** ⭐ 399
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   A comprehensive community toolkit for organizing, creating, and managing dynamic wallpaper projects and assets, enhancing your Wallpaper Engine experience.
 
-- **[FlashML-org/flashlib](https://github.com/FlashML-org/flashlib)** ⭐ 367
+- **[FlashML-org/flashlib](https://github.com/FlashML-org/flashlib)** ⭐ 379
   ![Python](https://img.shields.io/badge/-Python-blue)
   Fast and memory-efficient classical machine learning operators
 
-- **[SigmaTradeLabs/aster-bot](https://github.com/SigmaTradeLabs/aster-bot)** ⭐ 344
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
-  asterDEX trading bot, perp trading, asterDEX auto trading bot, asterDEX trading bot, perp trading, asterDEX auto trading bot, asterDEX trading bot, perp trading, asterDEX auto trading bot, asterDEX trading bot, perp trading, asterDEX auto trading bot, asterDEX trading bot, perp trading, asterDEX auto trading bot,
-
-- **[Novaquant-labs/hyperliquid-trading-bot](https://github.com/Novaquant-labs/hyperliquid-trading-bot)** ⭐ 344
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  hyperliquid trading bot, perp trading bot, hyperliquid profitable trading bot, hyperliquid trading bot, perp trading bot, hyperliquid profitable trading bot, hyperliquid trading bot, perp trading bot, hyperliquid profitable trading bot, hyperliquid trading bot, perp trading bot, hyperliquid profitable trading bot,
-
 ### 📈 Monthly Trending
 
-- **[antirez/ds4](https://github.com/antirez/ds4)** ⭐ 12,370
+- **[antirez/ds4](https://github.com/antirez/ds4)** ⭐ 12,405
   ![C](https://img.shields.io/badge/-C-lightgrey)
   DeepSeek 4 Flash local inference engine for Metal and CUDA
 
-- **[BigPizzaV3/CodexPlusPlus](https://github.com/BigPizzaV3/CodexPlusPlus)** ⭐ 7,843
+- **[BigPizzaV3/CodexPlusPlus](https://github.com/BigPizzaV3/CodexPlusPlus)** ⭐ 8,117
   ![Rust](https://img.shields.io/badge/-Rust-brown)
   An enhanced tool for CodexApp, striving to make Codex better to use and more comfortable 一个CodexApp的增强工具，努力让Codex变得更好用更舒服
 
-- **[FULU-Foundation/OrcaSlicer-bambulab](https://github.com/FULU-Foundation/OrcaSlicer-bambulab)** ⭐ 6,620
+- **[FULU-Foundation/OrcaSlicer-bambulab](https://github.com/FULU-Foundation/OrcaSlicer-bambulab)** ⭐ 6,626
   ![C++](https://img.shields.io/badge/-C++-pink)
   None
 
-- **[nexu-io/html-anything](https://github.com/nexu-io/html-anything)** ⭐ 5,312
+- **[nexu-io/html-anything](https://github.com/nexu-io/html-anything)** ⭐ 5,341
   ![HTML](https://img.shields.io/badge/-HTML-lightgrey)
   ✨ The agentic HTML editor — your local AI agent writes the HTML, you ship it. 🚀 75 Skills × 9 Surfaces (magazine · deck · poster · XHS / tweet · prototype · data report · Hyperframes) 🛡️ Sandboxed preview · 📤 1-click to WeChat / X / Zhihu / HTML / PNG 🔑 Zero API key — Claude Code / Cursor / Codex / Gemini / Copilot / OpenCode / Qwen / Aider.
 
-- **[V4bel/dirtyfrag](https://github.com/V4bel/dirtyfrag)** ⭐ 4,785
+- **[V4bel/dirtyfrag](https://github.com/V4bel/dirtyfrag)** ⭐ 4,787
   ![C](https://img.shields.io/badge/-C-lightgrey)
   None
 
-- **[darrylmorley/whatcable](https://github.com/darrylmorley/whatcable)** ⭐ 4,702
+- **[darrylmorley/whatcable](https://github.com/darrylmorley/whatcable)** ⭐ 4,744
   ![Swift](https://img.shields.io/badge/-Swift-lightgrey)
   macOS menu bar app that tells you, in plain English, what each USB-C cable plugged into your Mac can actually do
 
-- **[vercel-labs/zerolang](https://github.com/vercel-labs/zerolang)** ⭐ 4,656
+- **[vercel-labs/zerolang](https://github.com/vercel-labs/zerolang)** ⭐ 4,679
   ![C](https://img.shields.io/badge/-C-lightgrey)
   The programming language for agents
 
-- **[vercel-labs/zero-native](https://github.com/vercel-labs/zero-native)** ⭐ 4,024
+- **[vercel-labs/zero-native](https://github.com/vercel-labs/zero-native)** ⭐ 4,027
   ![Zig](https://img.shields.io/badge/-Zig-lightgrey)
   Build desktop + mobile apps with Zig and web UI
 
@@ -490,59 +489,59 @@ See [kubernetes-announce@](https://groups.google.com/forum/#!forum/kubernetes-an
 
 | Skill | Status |
 |-------|--------|
-| Java | 🟢 Proficient |
-| Python | 🔴 Beginner |
-| JavaScript | 🟢 Proficient |
+| Java | 🟡 Learning |
+| Python | ⚪ Planned |
+| JavaScript | ⚪ Planned |
 | TypeScript | 🟡 Learning |
-| Go | ⚪ Planned |
+| Go | 🔴 Beginner |
 
 ### Frameworks
 
 | Skill | Status |
 |-------|--------|
-| React | 🟢 Proficient |
-| Spring Boot | 🟡 Learning |
-| Django | 🟢 Proficient |
-| Node.js | 🔴 Beginner |
-| Next.js | 🟡 Learning |
+| React | 🟡 Learning |
+| Spring Boot | 🟢 Proficient |
+| Django | ⚪ Planned |
+| Node.js | 🟢 Proficient |
+| Next.js | 🔴 Beginner |
 
 ### Cybersecurity
 
 | Skill | Status |
 |-------|--------|
-| Penetration Testing | 🔴 Beginner |
-| Web Security | ⚪ Planned |
-| Network Security | ⚪ Planned |
-| OWASP | 🟢 Proficient |
+| Penetration Testing | 🟢 Proficient |
+| Web Security | 🟢 Proficient |
+| Network Security | 🟢 Proficient |
+| OWASP | 🔴 Beginner |
 
 ### Ai Ml
 
 | Skill | Status |
 |-------|--------|
-| Machine Learning | 🟢 Proficient |
-| Deep Learning | 🟢 Proficient |
-| NLP | 🔴 Beginner |
-| Computer Vision | 🟢 Proficient |
+| Machine Learning | 🟡 Learning |
+| Deep Learning | 🔴 Beginner |
+| NLP | ⚪ Planned |
+| Computer Vision | 🔴 Beginner |
 | TensorFlow | 🟡 Learning |
-| PyTorch | ⚪ Planned |
+| PyTorch | 🟢 Proficient |
 
 ### Devops
 
 | Skill | Status |
 |-------|--------|
-| Docker | 🔴 Beginner |
+| Docker | 🟡 Learning |
 | Kubernetes | 🟢 Proficient |
-| CI/CD | 🔴 Beginner |
-| AWS | 🟡 Learning |
-| Azure | 🟡 Learning |
+| CI/CD | 🟡 Learning |
+| AWS | 🔴 Beginner |
+| Azure | 🟢 Proficient |
 
 ### Other
 
 | Skill | Status |
 |-------|--------|
-| Blockchain | 🟡 Learning |
+| Blockchain | 🔴 Beginner |
 | Web3 | 🟢 Proficient |
-| Cloud Computing | 🔴 Beginner |
+| Cloud Computing | 🟢 Proficient |
 
 </details>
 
