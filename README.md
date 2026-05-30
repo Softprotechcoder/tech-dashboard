@@ -46,6 +46,21 @@
 
 ### 📑 Hacker News
 
+- **[OpenRCT2 v0.5.1 "Swamp Castle" released Last version to support Windows 7](https://openrct2.io/blog/2026/05/openrct2-v0.5.1-released)**
+  *<p>Article URL: <a href="https://openrct2.io/blog/2026/05/openrct2-v0.5.1-released">https://openrct2.io/blog/2026/05/openrct2-v0.5.1-released</a></p>
+<p>Comments URL: <a href="https://news.ycombinator...*
+  📅 Sat, 30 May 2026 06:00:32 +0000
+
+- **[Perry Compiles TypeScript directly to executables using SWC and LLVM](https://www.perryts.com/)**
+  *<p>Article URL: <a href="https://www.perryts.com/">https://www.perryts.com/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=48332151">https://news.ycombinator.com/item?id=483321...*
+  📅 Sat, 30 May 2026 03:14:25 +0000
+
+- **[Naphtha shortages in Japan](https://www.nippon.com/en/japan-data/h02783/)**
+  *<p>Article URL: <a href="https://www.nippon.com/en/japan-data/h02783/">https://www.nippon.com/en/japan-data/h02783/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=48331786">htt...*
+  📅 Sat, 30 May 2026 02:20:40 +0000
+
 - **[Ember.js 7.0](https://blog.emberjs.com/ember-released-7-0/)**
   *<p>Article URL: <a href="https://blog.emberjs.com/ember-released-7-0/">https://blog.emberjs.com/ember-released-7-0/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=48330902">htt...*
@@ -60,20 +75,6 @@
   *<p>Article URL: <a href="https://www.quandri.io/engineering-blog/mcp-is-dead">https://www.quandri.io/engineering-blog/mcp-is-dead</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id...*
   📅 Fri, 29 May 2026 22:56:49 +0000
-
-- **[Free full BGP feed. IPv4 and IPv6](https://lukasz.bromirski.net/post/bgp-w-labie-3/)**
-  *<p>Article URL: <a href="https://lukasz.bromirski.net/post/bgp-w-labie-3/">https://lukasz.bromirski.net/post/bgp-w-labie-3/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=48330...*
-  📅 Fri, 29 May 2026 22:21:58 +0000
-
-- **[The Last Technical Interview](https://steve-yegge.medium.com/the-last-technical-interview-bc13ddcf4564)**
-  *<p>Article URL: <a href="https://steve-yegge.medium.com/the-last-technical-interview-bc13ddcf4564">https://steve-yegge.medium.com/the-last-technical-interview-bc13ddcf4564</a></p>
-<p>Comments URL: <a ...*
-  📅 Fri, 29 May 2026 19:58:56 +0000
-
-- **[The California state assembly has passed the 'Protect Our Games Act'](https://www.invenglobal.com/articles/22330/stop-killing-games-movement-gains-momentum-california-assembly-passes-game-protection-bill)**
-  *<p>Article URL: <a href="https://www.invenglobal.com/articles/22330/stop-killing-games-movement-gains-momentum-california-assembly-passes-game-protection-bill">https://www.invenglobal.com/articles/223...*
-  📅 Fri, 29 May 2026 19:55:56 +0000
 
 ### 📑 TechCrunch
 
@@ -103,20 +104,19 @@
 
 ### 📑 Dev.to
 
-- **[I Didn't Want to Open Excel Just to Generate Sequential Numbers in VS Code](https://dev.to/almiraj/i-didnt-want-to-open-excel-just-to-generate-sequential-numbers-in-vs-code-508h)**
-  *<p>While working in VS Code, I occasionally need sequential numbers.</p>
+- **["The AI did it" won't save you when EU regulators come knocking](https://dev.to/thegatewayguy/the-ai-did-it-wont-save-you-when-eu-regulators-come-knocking-3nlb)**
+  *<p>The EU Cyber Resilience Act has been on everyone's "we'll deal with it later" list since it entered into force in December 2024. Later is arriving: vulnerability reporting requirements kick in Sept...*
+  📅 Sat, 30 May 2026 08:09:23 +0000
 
-<p>Something like this:<br />
-</p>
+- **[The Moment the Runtime Became Your Enemy](https://dev.to/built-from-africa/the-moment-the-runtime-became-your-enemy-2do)**
+  *<h2>
+  
+  
+  The Problem We Were Actually Solving
+</h2>
 
-<div class="highlight js-code-highlight">
-<pre class="highlight plaintext"><code>user_001
-...*
-  📅 Sat, 30 May 2026 02:03:00 +0000
-
-- **[I Built a Q&A Bot for My Docs and Almost Gave Up (Here's What Worked)](https://dev.to/__c1b9e06dc90a7e0a676b/i-built-a-qa-bot-for-my-docs-and-almost-gave-up-heres-what-worked-1kgj)**
-  *<p>A few months ago, I decided to build a Q&amp;A bot for my project’s documentation. You know the dream: users type a question, and the bot answers instantly from the docs. No more digging through pa...*
-  📅 Sat, 30 May 2026 02:01:00 +0000
+<p>Our Treasure Hunt Engine indexes 1.2 TB of JSON event logs from Veltrix operators, then answers sub-second queries like give me all log line...*
+  📅 Sat, 30 May 2026 08:06:49 +0000
 
 </details>
 
@@ -124,99 +124,99 @@
 
 ### 📈 Daily Trending
 
-- **[xyurt/object-pool](https://github.com/xyurt/object-pool)** ⭐ 3
-  ![C](https://img.shields.io/badge/-C-lightgrey)
-  C89 fixed object pool with preallocated memory and O(1) reuse, avoiding heap allocation and fragmentation.
+- **[kitlangton/cellshot](https://github.com/kitlangton/cellshot)** ⭐ 25
+  ![Rust](https://img.shields.io/badge/-Rust-brown)
+  None
 
-- **[JustasMasiulis/ida_buddy](https://github.com/JustasMasiulis/ida_buddy)** ⭐ 3
+- **[wwe-dog/ppt-image2-editable-rebuild](https://github.com/wwe-dog/ppt-image2-editable-rebuild)** ⭐ 21
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  一个基于截图/参考图重建可编辑 PPT 的 Codex skill。先用 image2/imagegen 生成单页视觉参考图，再以局部截图保留复杂插图、图标、地图等视觉资产，同时用 PPT 文本框和形状重建标题、正文、卡片、箭头、标签、结论条等可编辑元素。
+
+- **[YonghaoZhao722/cc-sanitizer](https://github.com/YonghaoZhao722/cc-sanitizer)** ⭐ 18
+  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
+  Fix Claude Code's "Invalid signature in thinking block" error when switching models
+
+- **[zgwl/chinese-buy-us-stock-guide](https://github.com/zgwl/chinese-buy-us-stock-guide)** ⭐ 17
+  ![None](https://img.shields.io/badge/-None-lightgrey)
+  美股指南
+
+- **[lucidrains/kalmanformer](https://github.com/lucidrains/kalmanformer)** ⭐ 9
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  Implementation of Kalmanformer, modeling the Kalman gain with a transformer
+
+- **[JustasMasiulis/ida_buddy](https://github.com/JustasMasiulis/ida_buddy)** ⭐ 8
   ![Python](https://img.shields.io/badge/-Python-blue)
   None
 
-- **[MythScience/MythScience](https://github.com/MythScience/MythScience)** ⭐ 2
+- **[heartmore/icloud-hme](https://github.com/heartmore/icloud-hme)** ⭐ 7
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  iCloud Hide My Email auto-generator with web UI and scheduler
+
+- **[xiao-yuling/sci-figure](https://github.com/xiao-yuling/sci-figure)** ⭐ 5
   ![None](https://img.shields.io/badge/-None-lightgrey)
-  以科学的方法、严谨的态度，构建中国神话传说的结构化数字工程。
-
-- **[Xoggai/xoggai-agent](https://github.com/Xoggai/xoggai-agent)** ⭐ 2
-  ![None](https://img.shields.io/badge/-None-lightgrey)
-  Silent intelligence. Autonomous execution. Infinite possibilities.
-
-- **[HenzoRyck/InvoiceInstalllments](https://github.com/HenzoRyck/InvoiceInstalllments)** ⭐ 2
-  ![Java](https://img.shields.io/badge/-Java-orange)
-  Java project for studying OOP concepts with invoice and payment modeling.
-
-- **[junglivre/proxmox-backup-client-arm64](https://github.com/junglivre/proxmox-backup-client-arm64)** ⭐ 2
-  ![None](https://img.shields.io/badge/-None-lightgrey)
-  Little collections of some proxmox-backup-client arm64 for different distros.
-
-- **[1616856/SwayFxDotfiles](https://github.com/1616856/SwayFxDotfiles)** ⭐ 2
-  ![Shell](https://img.shields.io/badge/-Shell-lightgrey)
-  None
-
-- **[makisekurisu0827/context-compactor](https://github.com/makisekurisu0827/context-compactor)** ⭐ 2
-  ![None](https://img.shields.io/badge/-None-lightgrey)
-  A Claude Code skill that rolls long conversations into one self-updating summary to stop context overflow and keep answers coherent. 滚动压缩上下文，防止 Claude Code 长对话变笨。
+  AI skill for scientific figure generation, tuned for SCI and Elsevier-style manuscript figures with Python and R examples.
 
 ### 📈 Weekly Trending
 
-- **[op7418/guizang-social-card-skill](https://github.com/op7418/guizang-social-card-skill)** ⭐ 1,172
+- **[op7418/guizang-social-card-skill](https://github.com/op7418/guizang-social-card-skill)** ⭐ 1,206
   ![HTML](https://img.shields.io/badge/-HTML-lightgrey)
   🪧 Claude Code / Codex skill — generate Xiaohongshu carousels & WeChat 21:9+1:1 cover pairs. Editorial × Swiss visual systems, 28 layouts, 10 themes, single-file HTML → PNG. 小红书图文 + 公众号封面对
 
-- **[helloianneo/ian-xiaohei-illustrations](https://github.com/helloianneo/ian-xiaohei-illustrations)** ⭐ 837
+- **[helloianneo/ian-xiaohei-illustrations](https://github.com/helloianneo/ian-xiaohei-illustrations)** ⭐ 949
   ![None](https://img.shields.io/badge/-None-lightgrey)
   中文小黑怪诞正文配图生成 Skill | 16:9 白底手绘 | 少量红橙蓝批注 | Codex Skill
 
-- **[UditAkhourii/adhd](https://github.com/UditAkhourii/adhd)** ⭐ 516
-  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
-  ADHD — a skill for coding agents. Tree-of-thought with pruning, built on the Claude Agent SDK. Fans out parallel divergent thoughts under different cognitive frames, scores, prunes traps, deepens the survivors. The no-brainer skill for creative and interdisciplinary work.
-
-- **[withkynam/vibecode-pro-max-kit](https://github.com/withkynam/vibecode-pro-max-kit)** ⭐ 507
+- **[withkynam/vibecode-pro-max-kit](https://github.com/withkynam/vibecode-pro-max-kit)** ⭐ 533
   ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
   Your AI forgets. This remembers. Spec-driven coding harness for vibecoders, product owners, CEOs and real builders — self-improving context memory, 12 agents, 32 skills. Kills context rot, ships features, not spaghetti. Claude Code & Codex. Any stack. 30 seconds
+
+- **[UditAkhourii/adhd](https://github.com/UditAkhourii/adhd)** ⭐ 526
+  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
+  ADHD — a skill for coding agents. Tree-of-thought with pruning, built on the Claude & Codex Agent SDK. Fans out parallel divergent thoughts under different cognitive frames, scores, prunes traps, deepens the survivors. The no-brainer skill for creative and interdisciplinary work.
+
+- **[Michaelliv/pi-dynamic-workflows](https://github.com/Michaelliv/pi-dynamic-workflows)** ⭐ 469
+  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
+  None
+
+- **[baoweise-bot/aimili-vpngate](https://github.com/baoweise-bot/aimili-vpngate)** ⭐ 462
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  aimili-vpngate是一个借助vpngate.net让Linux用干净ip出站的代理工具。
 
 - **[harrietteehisqu7759383/kms-pico-latest-april-2026](https://github.com/harrietteehisqu7759383/kms-pico-latest-april-2026)** ⭐ 449
   ![C#](https://img.shields.io/badge/-C#-lightgrey)
   A secure, educational toolkit for understanding KMS activation, designed for lab environments.
 
-- **[Michaelliv/pi-dynamic-workflows](https://github.com/Michaelliv/pi-dynamic-workflows)** ⭐ 438
-  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
-  None
-
-- **[baoweise-bot/aimili-vpngate](https://github.com/baoweise-bot/aimili-vpngate)** ⭐ 418
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  aimili-vpngate是一个借助vpngate.net让Linux用干净ip出站的代理工具。
-
-- **[alfiyahkamilah1239298/WallpaperDownloader-26](https://github.com/alfiyahkamilah1239298/WallpaperDownloader-26)** ⭐ 400
-  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
-  A comprehensive community toolkit for organizing, creating, and managing dynamic wallpaper projects and assets, enhancing your Wallpaper Engine experience.
+- **[MatinSenPai/SenPaiScanner](https://github.com/MatinSenPai/SenPaiScanner)** ⭐ 412
+  ![Go](https://img.shields.io/badge/-Go-cyan)
+  A light-weight scanner for Cloudflare IPs, written in Golang
 
 ### 📈 Monthly Trending
 
-- **[antirez/ds4](https://github.com/antirez/ds4)** ⭐ 12,475
+- **[antirez/ds4](https://github.com/antirez/ds4)** ⭐ 12,488
   ![C](https://img.shields.io/badge/-C-lightgrey)
   DeepSeek 4 Flash local inference engine for Metal and CUDA
 
-- **[BigPizzaV3/CodexPlusPlus](https://github.com/BigPizzaV3/CodexPlusPlus)** ⭐ 8,391
+- **[BigPizzaV3/CodexPlusPlus](https://github.com/BigPizzaV3/CodexPlusPlus)** ⭐ 8,585
   ![Rust](https://img.shields.io/badge/-Rust-brown)
   An enhanced tool for CodexApp, striving to make Codex better to use and more comfortable 一个CodexApp的增强工具，努力让Codex变得更好用更舒服
 
-- **[FULU-Foundation/OrcaSlicer-bambulab](https://github.com/FULU-Foundation/OrcaSlicer-bambulab)** ⭐ 6,645
+- **[FULU-Foundation/OrcaSlicer-bambulab](https://github.com/FULU-Foundation/OrcaSlicer-bambulab)** ⭐ 6,654
   ![C++](https://img.shields.io/badge/-C++-pink)
   None
 
-- **[nexu-io/html-anything](https://github.com/nexu-io/html-anything)** ⭐ 5,375
+- **[nexu-io/html-anything](https://github.com/nexu-io/html-anything)** ⭐ 5,398
   ![HTML](https://img.shields.io/badge/-HTML-lightgrey)
   ✨ The agentic HTML editor — your local AI agent writes the HTML, you ship it. 🚀 75 Skills × 9 Surfaces (magazine · deck · poster · XHS / tweet · prototype · data report · Hyperframes) 🛡️ Sandboxed preview · 📤 1-click to WeChat / X / Zhihu / HTML / PNG 🔑 Zero API key — Claude Code / Cursor / Codex / Gemini / Copilot / OpenCode / Qwen / Aider.
 
-- **[darrylmorley/whatcable](https://github.com/darrylmorley/whatcable)** ⭐ 4,804
+- **[darrylmorley/whatcable](https://github.com/darrylmorley/whatcable)** ⭐ 4,820
   ![Swift](https://img.shields.io/badge/-Swift-lightgrey)
   macOS menu bar app that tells you, in plain English, what each USB-C cable plugged into your Mac can actually do
 
-- **[V4bel/dirtyfrag](https://github.com/V4bel/dirtyfrag)** ⭐ 4,789
+- **[V4bel/dirtyfrag](https://github.com/V4bel/dirtyfrag)** ⭐ 4,788
   ![C](https://img.shields.io/badge/-C-lightgrey)
   None
 
-- **[vercel-labs/zerolang](https://github.com/vercel-labs/zerolang)** ⭐ 4,705
+- **[vercel-labs/zerolang](https://github.com/vercel-labs/zerolang)** ⭐ 4,712
   ![C](https://img.shields.io/badge/-C-lightgrey)
   The programming language for agents
 
@@ -496,59 +496,59 @@ See [kubernetes-announce@](https://groups.google.com/forum/#!forum/kubernetes-an
 
 | Skill | Status |
 |-------|--------|
-| Java | 🟡 Learning |
-| Python | ⚪ Planned |
-| JavaScript | 🔴 Beginner |
+| Java | 🔴 Beginner |
+| Python | 🟡 Learning |
+| JavaScript | ⚪ Planned |
 | TypeScript | 🟢 Proficient |
-| Go | ⚪ Planned |
+| Go | 🟢 Proficient |
 
 ### Frameworks
 
 | Skill | Status |
 |-------|--------|
-| React | 🟡 Learning |
+| React | 🔴 Beginner |
 | Spring Boot | 🔴 Beginner |
-| Django | 🟡 Learning |
-| Node.js | 🟡 Learning |
-| Next.js | 🟡 Learning |
+| Django | 🔴 Beginner |
+| Node.js | 🟢 Proficient |
+| Next.js | 🟢 Proficient |
 
 ### Cybersecurity
 
 | Skill | Status |
 |-------|--------|
 | Penetration Testing | 🔴 Beginner |
-| Web Security | 🟡 Learning |
-| Network Security | 🔴 Beginner |
-| OWASP | ⚪ Planned |
+| Web Security | 🔴 Beginner |
+| Network Security | ⚪ Planned |
+| OWASP | 🟢 Proficient |
 
 ### Ai Ml
 
 | Skill | Status |
 |-------|--------|
-| Machine Learning | 🔴 Beginner |
-| Deep Learning | ⚪ Planned |
+| Machine Learning | 🟢 Proficient |
+| Deep Learning | 🟢 Proficient |
 | NLP | 🔴 Beginner |
 | Computer Vision | ⚪ Planned |
-| TensorFlow | 🟡 Learning |
+| TensorFlow | 🔴 Beginner |
 | PyTorch | 🟢 Proficient |
 
 ### Devops
 
 | Skill | Status |
 |-------|--------|
-| Docker | 🟡 Learning |
-| Kubernetes | 🟢 Proficient |
-| CI/CD | 🟢 Proficient |
+| Docker | 🔴 Beginner |
+| Kubernetes | 🔴 Beginner |
+| CI/CD | ⚪ Planned |
 | AWS | 🔴 Beginner |
-| Azure | 🟡 Learning |
+| Azure | ⚪ Planned |
 
 ### Other
 
 | Skill | Status |
 |-------|--------|
-| Blockchain | 🟢 Proficient |
-| Web3 | 🟢 Proficient |
-| Cloud Computing | 🔴 Beginner |
+| Blockchain | 🔴 Beginner |
+| Web3 | ⚪ Planned |
+| Cloud Computing | ⚪ Planned |
 
 </details>
 
