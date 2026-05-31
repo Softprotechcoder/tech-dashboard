@@ -46,34 +46,35 @@
 
 ### 📑 Hacker News
 
-- **[Microsoft degrades functionality of perpetually-licensed offline products](https://consumerrights.wiki/w/Microsoft_Office_2019_and_2021_for_Mac_view-only_conversion_(2026))**
-  *<p>Article URL: <a href="https://consumerrights.wiki/w/Microsoft_Office_2019_and_2021_for_Mac_view-only_conversion_(2026)">https://consumerrights.wiki/w/Microsoft_Office_2019_and_2021_for_Mac_view-onl...*
-  📅 Sat, 30 May 2026 23:26:13 +0000
+- **[The Website Specification](https://specification.website/)**
+  *<p>Article URL: <a href="https://specification.website/">https://specification.website/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=48343683">https://news.ycombinator.com/it...*
+  📅 Sun, 31 May 2026 07:09:50 +0000
 
-- **[Cheese Paper: a text editor specifically designed for writing](https://brie.gay/cheese-paper/)**
-  *<p>Article URL: <a href="https://brie.gay/cheese-paper/">https://brie.gay/cheese-paper/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=48341407">https://news.ycombinator.com/it...*
-  📅 Sat, 30 May 2026 22:58:41 +0000
+- **[Telli (YC F24) is hiring in engineering, design, and GTM [Berlin, on-site]](https://hi.telli.com/join-us)**
+  *<p>Article URL: <a href="https://hi.telli.com/join-us">https://hi.telli.com/join-us</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=48343635">https://news.ycombinator.com/item?i...*
+  📅 Sun, 31 May 2026 07:00:50 +0000
 
-- **[Shantell Sans](https://shantellsans.com/process)**
-  *<p>Article URL: <a href="https://shantellsans.com/process">https://shantellsans.com/process</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=48341062">https://news.ycombinator.co...*
-  📅 Sat, 30 May 2026 22:06:38 +0000
+- **[The ~500kB NBSDGames 6 managed to be published ahead of GTA 6](https://github.com/abakh/nbsdgames/releases)**
+  *<p>Article URL: <a href="https://github.com/abakh/nbsdgames/releases">https://github.com/abakh/nbsdgames/releases</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=48343445">https...*
+  📅 Sun, 31 May 2026 06:18:28 +0000
 
-- **[The AV2 Video Standard Has Released (Final v1.0 Specification)](https://av2.aomedia.org)**
-  *<p>Article URL: <a href="https://av2.aomedia.org">https://av2.aomedia.org</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=48340910">https://news.ycombinator.com/item?id=48340910...*
-  📅 Sat, 30 May 2026 21:46:18 +0000
+- **[Avian Visitors](https://theodore.net/projects/AvianVisitors/)**
+  *<p>Article URL: <a href="https://theodore.net/projects/AvianVisitors/">https://theodore.net/projects/AvianVisitors/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=48343424">htt...*
+  📅 Sun, 31 May 2026 06:13:59 +0000
 
-- **[Rotary GPU: Exploring Local Execution for Large MoE Models Under Limited VRAM](https://arxiv.org/abs/2605.29135)**
-  *<p>Article URL: <a href="https://arxiv.org/abs/2605.29135">https://arxiv.org/abs/2605.29135</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=48340616">https://news.ycombinator.co...*
-  📅 Sat, 30 May 2026 21:05:40 +0000
+- **[A pictorial introduction to differential geometry (2017)](https://arxiv.org/abs/1709.08492)**
+  *<p>Article URL: <a href="https://arxiv.org/abs/1709.08492">https://arxiv.org/abs/1709.08492</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=48343287">https://news.ycombinator.co...*
+  📅 Sun, 31 May 2026 05:30:18 +0000
 
-- **[Design Engineering Magazine](https://interfaces.dev/)**
-  *<p>Article URL: <a href="https://interfaces.dev/">https://interfaces.dev/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=48340448">https://news.ycombinator.com/item?id=48340448...*
-  📅 Sat, 30 May 2026 20:46:54 +0000
+- **[Show HN: Komi-learn – continuous memory and self-improvement for coding agents](https://github.com/kurikomi-labs/komi-learn)**
+  *<p>Article URL: <a href="https://github.com/kurikomi-labs/komi-learn">https://github.com/kurikomi-labs/komi-learn</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=48343216">https...*
+  📅 Sun, 31 May 2026 05:11:40 +0000
 
 ### 📑 TechCrunch
 
@@ -103,25 +104,15 @@
 
 ### 📑 Dev.to
 
-- **[Run Gemma-4 E2B-it with llama.cpp on Raspberry Pi4](https://dev.to/0xkoji/run-gemma-4-e2b-it-with-llamacpp-on-raspberry-pi4-3a1m)**
-  *<p>Tested Gemma-4 E2B-it on Raspberry Pi 4.</p>
+- **[Stop Fighting Your AI Coding Agent: A Developer's Guide to Thinking in Collaboration, Not Commands](https://dev.to/obrainwave/stop-fighting-your-ai-coding-agent-a-developers-guide-to-thinking-in-collaboration-not-commands-nmi)**
+  *<p>Most developers treat AI coding agents like a search engine that writes code. That is the root of every frustration. This guide reframes how you think about AI pair programming so you spend less ti...*
+  📅 Sun, 31 May 2026 08:30:06 +0000
 
-<p>the way to convert Gemma-4 E2B-it to gguf<br />
-</p>
-<div class="ltag__link--embedded">
-  <div class="crayons-story ">
-  <a class="crayons-story__hi...*
-  📅 Sun, 31 May 2026 02:19:42 +0000
+- **[One Playwright Selector Trick Nobody Talks About: getByRole](https://dev.to/sian-agency/one-playwright-selector-trick-nobody-talks-about-getbyrole-100e)**
+  *<p>Everyone reaches for <code>page.locator(".some-class")</code> first. They shouldn't.</p>
 
-- **[How to test your code effectively: a practical testing tutorial](https://dev.to/therizwansaleem/how-to-test-your-code-effectively-a-practical-testing-tutorial-3028)**
-  *<h1>
-  
-  
-  How to test your code effectively: a practical testing tutorial
-</h1>
-
-<p>Unit, integration, and end-to-end (E2E) testing form a pyramid of verification: fast, cheap unit tests guard busi...*
-  📅 Sun, 31 May 2026 02:00:17 +0000
+<p><code>getByRole</code> is the most stable selector in Playwright and almost nobody uses it for scraping....*
+  📅 Sun, 31 May 2026 08:30:00 +0000
 
 </details>
 
@@ -129,103 +120,103 @@
 
 ### 📈 Daily Trending
 
-- **[polymaxi2/polymarket-arbitrage-trading-bot](https://github.com/polymaxi2/polymarket-arbitrage-trading-bot)** ⭐ 50
+- **[polymaxi2/polymarket-arbitrage-trading-bot](https://github.com/polymaxi2/polymarket-arbitrage-trading-bot)** ⭐ 203
   ![None](https://img.shields.io/badge/-None-lightgrey)
   polymarket trading bot polymarket bot polymarket bot polymarket bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket bot polymarket bot polymarket bot polymarket trading bot polymarket bot polymarket bot polymarket trading bot
 
-- **[yossiehrenfeld5372/oss-maintainer-report](https://github.com/yossiehrenfeld5372/oss-maintainer-report)** ⭐ 3
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  CLI that audits repository maintainer-readiness and writes Markdown or JSON reports
+- **[veryyoldman/metamask-openclaw](https://github.com/veryyoldman/metamask-openclaw)** ⭐ 111
+  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
+  🦊 OpenClaw — a safety-first MetaMask SDK toolkit & AI-agent skill. Connect wallets, read balances, sign messages and send transactions on Ethereum, Polygon, Base, Arbitrum & all EVM chains. TypeScript-first, one-line connect, never touches your seed phrase.
 
-- **[gmapsscraper/google-maps-agent-skills](https://github.com/gmapsscraper/google-maps-agent-skills)** ⭐ 3
+- **[gmapsscraper/google-maps-agent-skills](https://github.com/gmapsscraper/google-maps-agent-skills)** ⭐ 20
   ![None](https://img.shields.io/badge/-None-lightgrey)
   Claude Code / OpenClaw skills for Google Maps lead    generation. Scrape businesses, extract emails, analyze competitors,    write cold outreach — powered by gmapsscraper.io API.
 
-- **[kitaharata/rvwasm](https://github.com/kitaharata/rvwasm)** ⭐ 2
-  ![Go](https://img.shields.io/badge/-Go-cyan)
-  RISC-V emulator for Web written in Go/WebAssembly. It supports OpenSBI, Linux, virtio, and diagnostics. feat. GPT-5.5
-
-- **[jmonster/pocketflare](https://github.com/jmonster/pocketflare)** ⭐ 2
+- **[jarvisjustinj-arch/TaskMaster-ReactNative](https://github.com/jarvisjustinj-arch/TaskMaster-ReactNative)** ⭐ 19
   ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
-  Open Source backend running on 1 Cloudflare Worker
+  A modern React Native starter project for task management with clean structure and beginner-friendly code.
 
-- **[sabuchandess/open-directory-media-kit](https://github.com/sabuchandess/open-directory-media-kit)** ⭐ 2
-  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
+- **[luoshi2025/skill-antifragile](https://github.com/luoshi2025/skill-antifragile)** ⭐ 8
+  ![None](https://img.shields.io/badge/-None-lightgrey)
+  Antifragile debate skill: A proposes, B finds gaps, God's-hand fuses. Three-step adversarial review for any plan or decision.
+
+- **[vietnh1009/RAG-pipeline-visualizer](https://github.com/vietnh1009/RAG-pipeline-visualizer)** ⭐ 8
+  ![Python](https://img.shields.io/badge/-Python-blue)
   None
 
-- **[amrrish21/autotrade_bot](https://github.com/amrrish21/autotrade_bot)** ⭐ 2
+- **[azzselloo-sudo/qwen3-korean-voice-clone](https://github.com/azzselloo-sudo/qwen3-korean-voice-clone)** ⭐ 6
   ![Python](https://img.shields.io/badge/-Python-blue)
-  An automated trading bot integrated with the Upstox brokerage API.
+  1분 녹음으로 만드는 한국어 보이스 클론 — Qwen3-TTS Colab Quickstart
 
-- **[Estellanini/MofuPaw](https://github.com/Estellanini/MofuPaw)** ⭐ 2
-  ![Swift](https://img.shields.io/badge/-Swift-lightgrey)
-  MofuPaw · 萌爪，一只毛茸茸的 AI 赛博桌面宠物，住在你的 Mac 里
+- **[giginet/apple-icon-composer-skill](https://github.com/giginet/apple-icon-composer-skill)** ⭐ 6
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  Create and validate Apple Icon Composer .icon packages — installable as a Claude Code plugin, a Codex plugin, or a gh skill.
 
 ### 📈 Weekly Trending
 
-- **[op7418/guizang-social-card-skill](https://github.com/op7418/guizang-social-card-skill)** ⭐ 1,641
+- **[op7418/guizang-social-card-skill](https://github.com/op7418/guizang-social-card-skill)** ⭐ 1,793
   ![HTML](https://img.shields.io/badge/-HTML-lightgrey)
   🪧 Claude Code / Codex skill — generate Xiaohongshu carousels & WeChat 21:9+1:1 cover pairs. Editorial × Swiss visual systems, 28 layouts, 10 themes, single-file HTML → PNG. 小红书图文 + 公众号封面对
 
-- **[helloianneo/ian-xiaohei-illustrations](https://github.com/helloianneo/ian-xiaohei-illustrations)** ⭐ 1,148
+- **[helloianneo/ian-xiaohei-illustrations](https://github.com/helloianneo/ian-xiaohei-illustrations)** ⭐ 1,250
   ![None](https://img.shields.io/badge/-None-lightgrey)
   中文小黑怪诞正文配图生成 Skill | 16:9 白底手绘 | 少量红橙蓝批注 | Codex Skill
 
-- **[UditAkhourii/adhd](https://github.com/UditAkhourii/adhd)** ⭐ 603
-  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
-  ADHD — a skill for coding agents. Tree-of-thought with pruning, built on the Claude & Codex Agent SDK. Fans out parallel divergent thoughts under different cognitive frames, scores, prunes traps, deepens the survivors. The no-brainer skill for creative and interdisciplinary work.
-
-- **[withkynam/vibecode-pro-max-kit](https://github.com/withkynam/vibecode-pro-max-kit)** ⭐ 598
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
-  Your AI forgets. This remembers. Spec-driven coding harness for vibecoders, product owners, CEOs and real builders — self-improving context memory, 12 agents, 32 skills. Kills context rot, ships features, not spaghetti. Claude Code & Codex. Any stack. 30 seconds
-
-- **[MatinSenPai/SenPaiScanner](https://github.com/MatinSenPai/SenPaiScanner)** ⭐ 596
-  ![Go](https://img.shields.io/badge/-Go-cyan)
-  A light-weight scanner for Cloudflare IPs, written in Golang
-
-- **[Michaelliv/pi-dynamic-workflows](https://github.com/Michaelliv/pi-dynamic-workflows)** ⭐ 578
-  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
-  None
-
-- **[Sophomoresty/gemini-web2api](https://github.com/Sophomoresty/gemini-web2api)** ⭐ 542
+- **[Sophomoresty/gemini-web2api](https://github.com/Sophomoresty/gemini-web2api)** ⭐ 669
   ![Python](https://img.shields.io/badge/-Python-blue)
   Convert Google Gemini web into OpenAI-compatible API. Zero auth, cross-platform, single file.
 
-- **[baoweise-bot/aimili-vpngate](https://github.com/baoweise-bot/aimili-vpngate)** ⭐ 512
+- **[MatinSenPai/SenPaiScanner](https://github.com/MatinSenPai/SenPaiScanner)** ⭐ 647
+  ![Go](https://img.shields.io/badge/-Go-cyan)
+  A light-weight scanner for Cloudflare IPs, written in Golang
+
+- **[withkynam/vibecode-pro-max-kit](https://github.com/withkynam/vibecode-pro-max-kit)** ⭐ 627
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
+  Your AI forgets. This remembers. Spec-driven coding harness for vibecoders, product owners, CEOs and real builders — self-improving context memory, 12 agents, 32 skills. Kills context rot, ships features, not spaghetti. Claude Code & Codex. Any stack. 30 seconds
+
+- **[UditAkhourii/adhd](https://github.com/UditAkhourii/adhd)** ⭐ 627
+  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
+  ADHD — a skill for coding agents. Tree-of-thought with pruning, built on the Claude & Codex Agent SDK. Fans out parallel divergent thoughts under different cognitive frames, scores, prunes traps, deepens the survivors. The no-brainer skill for creative and interdisciplinary work.
+
+- **[Michaelliv/pi-dynamic-workflows](https://github.com/Michaelliv/pi-dynamic-workflows)** ⭐ 599
+  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
+  None
+
+- **[baoweise-bot/aimili-vpngate](https://github.com/baoweise-bot/aimili-vpngate)** ⭐ 538
   ![Python](https://img.shields.io/badge/-Python-blue)
   aimili-vpngate是一个借助vpngate.net让Linux用干净ip出站的代理工具。
 
 ### 📈 Monthly Trending
 
-- **[antirez/ds4](https://github.com/antirez/ds4)** ⭐ 12,563
+- **[antirez/ds4](https://github.com/antirez/ds4)** ⭐ 12,576
   ![C](https://img.shields.io/badge/-C-lightgrey)
   DeepSeek 4 Flash local inference engine for Metal and CUDA
 
-- **[BigPizzaV3/CodexPlusPlus](https://github.com/BigPizzaV3/CodexPlusPlus)** ⭐ 8,932
+- **[BigPizzaV3/CodexPlusPlus](https://github.com/BigPizzaV3/CodexPlusPlus)** ⭐ 9,088
   ![Rust](https://img.shields.io/badge/-Rust-brown)
   An enhanced tool for CodexApp, striving to make Codex better to use and more comfortable 一个CodexApp的增强工具，努力让Codex变得更好用更舒服
 
-- **[FULU-Foundation/OrcaSlicer-bambulab](https://github.com/FULU-Foundation/OrcaSlicer-bambulab)** ⭐ 6,671
+- **[FULU-Foundation/OrcaSlicer-bambulab](https://github.com/FULU-Foundation/OrcaSlicer-bambulab)** ⭐ 6,677
   ![C++](https://img.shields.io/badge/-C++-pink)
   None
 
-- **[nexu-io/html-anything](https://github.com/nexu-io/html-anything)** ⭐ 5,450
+- **[nexu-io/html-anything](https://github.com/nexu-io/html-anything)** ⭐ 5,499
   ![HTML](https://img.shields.io/badge/-HTML-lightgrey)
   ✨ The agentic HTML editor — your local AI agent writes the HTML, you ship it. 🚀 75 Skills × 9 Surfaces (magazine · deck · poster · XHS / tweet · prototype · data report · Hyperframes) 🛡️ Sandboxed preview · 📤 1-click to WeChat / X / Zhihu / HTML / PNG 🔑 Zero API key — Claude Code / Cursor / Codex / Gemini / Copilot / OpenCode / Qwen / Aider.
 
-- **[V4bel/dirtyfrag](https://github.com/V4bel/dirtyfrag)** ⭐ 4,786
+- **[V4bel/dirtyfrag](https://github.com/V4bel/dirtyfrag)** ⭐ 4,789
   ![C](https://img.shields.io/badge/-C-lightgrey)
   None
 
-- **[vercel-labs/zerolang](https://github.com/vercel-labs/zerolang)** ⭐ 4,736
+- **[vercel-labs/zerolang](https://github.com/vercel-labs/zerolang)** ⭐ 4,744
   ![C](https://img.shields.io/badge/-C-lightgrey)
   The programming language for agents
 
-- **[vercel-labs/zero-native](https://github.com/vercel-labs/zero-native)** ⭐ 4,037
+- **[vercel-labs/zero-native](https://github.com/vercel-labs/zero-native)** ⭐ 4,040
   ![Zig](https://img.shields.io/badge/-Zig-lightgrey)
   Build desktop + mobile apps with Zig and web UI
 
-- **[perplexityai/bumblebee](https://github.com/perplexityai/bumblebee)** ⭐ 3,988
+- **[perplexityai/bumblebee](https://github.com/perplexityai/bumblebee)** ⭐ 3,998
   ![Go](https://img.shields.io/badge/-Go-cyan)
   Read-only developer endpoint scanner for on-disk package, extension, and developer-tool metadata, built to check exposure to known software supply-chain compromises.
 
@@ -502,58 +493,58 @@ See [kubernetes-announce@](https://groups.google.com/forum/#!forum/kubernetes-an
 | Skill | Status |
 |-------|--------|
 | Java | 🟡 Learning |
-| Python | ⚪ Planned |
-| JavaScript | 🟢 Proficient |
-| TypeScript | ⚪ Planned |
-| Go | 🔴 Beginner |
+| Python | 🟡 Learning |
+| JavaScript | 🔴 Beginner |
+| TypeScript | 🟢 Proficient |
+| Go | 🟡 Learning |
 
 ### Frameworks
 
 | Skill | Status |
 |-------|--------|
 | React | 🟡 Learning |
-| Spring Boot | 🟢 Proficient |
+| Spring Boot | 🔴 Beginner |
 | Django | 🟡 Learning |
-| Node.js | 🔴 Beginner |
-| Next.js | ⚪ Planned |
+| Node.js | 🟡 Learning |
+| Next.js | 🟢 Proficient |
 
 ### Cybersecurity
 
 | Skill | Status |
 |-------|--------|
-| Penetration Testing | 🟢 Proficient |
-| Web Security | 🔴 Beginner |
-| Network Security | 🟡 Learning |
-| OWASP | 🟡 Learning |
+| Penetration Testing | ⚪ Planned |
+| Web Security | 🟢 Proficient |
+| Network Security | 🔴 Beginner |
+| OWASP | 🟢 Proficient |
 
 ### Ai Ml
 
 | Skill | Status |
 |-------|--------|
 | Machine Learning | 🟢 Proficient |
-| Deep Learning | 🟡 Learning |
-| NLP | 🟡 Learning |
-| Computer Vision | 🟡 Learning |
-| TensorFlow | 🟡 Learning |
-| PyTorch | ⚪ Planned |
+| Deep Learning | ⚪ Planned |
+| NLP | ⚪ Planned |
+| Computer Vision | ⚪ Planned |
+| TensorFlow | 🔴 Beginner |
+| PyTorch | 🔴 Beginner |
 
 ### Devops
 
 | Skill | Status |
 |-------|--------|
-| Docker | ⚪ Planned |
-| Kubernetes | 🔴 Beginner |
+| Docker | 🟢 Proficient |
+| Kubernetes | 🟡 Learning |
 | CI/CD | ⚪ Planned |
-| AWS | 🟡 Learning |
-| Azure | 🟢 Proficient |
+| AWS | 🟢 Proficient |
+| Azure | 🔴 Beginner |
 
 ### Other
 
 | Skill | Status |
 |-------|--------|
-| Blockchain | 🟡 Learning |
+| Blockchain | 🔴 Beginner |
 | Web3 | 🟢 Proficient |
-| Cloud Computing | 🟡 Learning |
+| Cloud Computing | 🟢 Proficient |
 
 </details>
 
