@@ -46,73 +46,73 @@
 
 ### 📑 Hacker News
 
-- **[Backpressure is all you need](https://www.lucasfcosta.com/blog/backpressure-is-all-you-need)**
-  *<p>Article URL: <a href="https://www.lucasfcosta.com/blog/backpressure-is-all-you-need">https://www.lucasfcosta.com/blog/backpressure-is-all-you-need</a></p>
-<p>Comments URL: <a href="https://news.yco...*
-  📅 Sun, 31 May 2026 12:11:27 +0000
+- **[Deflock hits 100k ALPRs Mapped in USA](https://deflock.org/)**
+  *<p>Article URL: <a href="https://deflock.org/">https://deflock.org/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=48347370">https://news.ycombinator.com/item?id=48347370</a></...*
+  📅 Sun, 31 May 2026 17:04:10 +0000
 
-- **[Dav2d](https://jbkempf.com/blog/2026/dav2d/)**
-  *<p>Article URL: <a href="https://jbkempf.com/blog/2026/dav2d/">https://jbkempf.com/blog/2026/dav2d/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=48344961">https://news.ycombi...*
-  📅 Sun, 31 May 2026 11:44:45 +0000
+- **[The Speed of Prototyping in the Age of AI](https://darylcecile.net/notes/speed-of-prototyping-age-of-ai)**
+  *<p>Article URL: <a href="https://darylcecile.net/notes/speed-of-prototyping-age-of-ai">https://darylcecile.net/notes/speed-of-prototyping-age-of-ai</a></p>
+<p>Comments URL: <a href="https://news.ycomb...*
+  📅 Sun, 31 May 2026 16:37:34 +0000
 
-- **[London's Free Roof Terraces](https://diamondgeezer.blogspot.com/2026/05/londons-free-roof-terraces.html)**
-  *<p>Article URL: <a href="https://diamondgeezer.blogspot.com/2026/05/londons-free-roof-terraces.html">https://diamondgeezer.blogspot.com/2026/05/londons-free-roof-terraces.html</a></p>
-<p>Comments URL:...*
-  📅 Sun, 31 May 2026 07:16:18 +0000
+- **[Creatine raise brain energy levels and slow Alzheimer's cognitive decline by 30%](https://thesciverse.org/scientists-found-that-the-creatine-supplement-millions-take-for-muscle-gains-is-quietly-raising-brain-energy-levels-and-slowing-early-alzheimers-cognitive-decline-by-30/)**
+  *<p>Article URL: <a href="https://thesciverse.org/scientists-found-that-the-creatine-supplement-millions-take-for-muscle-gains-is-quietly-raising-brain-energy-levels-and-slowing-early-alzheimers-cognit...*
+  📅 Sun, 31 May 2026 16:19:34 +0000
 
-- **[The Website Specification](https://specification.website/)**
-  *<p>Article URL: <a href="https://specification.website/">https://specification.website/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=48343683">https://news.ycombinator.com/it...*
-  📅 Sun, 31 May 2026 07:09:50 +0000
+- **[Chibil: A C compiler targeting .NET IL](https://github.com/MichalStrehovsky/chibil)**
+  *<p>Article URL: <a href="https://github.com/MichalStrehovsky/chibil">https://github.com/MichalStrehovsky/chibil</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=48346660">https:/...*
+  📅 Sun, 31 May 2026 15:46:32 +0000
 
-- **[Telli (YC F24) is hiring in engineering, design, and GTM [Berlin, on-site]](https://hi.telli.com/join-us)**
-  *<p>Article URL: <a href="https://hi.telli.com/join-us">https://hi.telli.com/join-us</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=48343635">https://news.ycombinator.com/item?i...*
-  📅 Sun, 31 May 2026 07:00:50 +0000
+- **[Daily pill can double survival time for deadliest cancer, trial shows](https://www.theguardian.com/society/2026/may/31/daily-pill-daraxonrasib-double-survival-time-pancreatic-pancreas-cancer-clinical-trial)**
+  *<p>Article URL: <a href="https://www.theguardian.com/society/2026/may/31/daily-pill-daraxonrasib-double-survival-time-pancreatic-pancreas-cancer-clinical-trial">https://www.theguardian.com/society/202...*
+  📅 Sun, 31 May 2026 15:43:29 +0000
 
-- **[Avian Visitors](https://theodore.net/projects/AvianVisitors/)**
-  *<p>Article URL: <a href="https://theodore.net/projects/AvianVisitors/">https://theodore.net/projects/AvianVisitors/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=48343424">htt...*
-  📅 Sun, 31 May 2026 06:13:59 +0000
+- **[1-Bit Bonsai Image 4B Image Generation for Local Devices](https://prismml.com/news/bonsai-image-4b)**
+  *<p>Article URL: <a href="https://prismml.com/news/bonsai-image-4b">https://prismml.com/news/bonsai-image-4b</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=48346257">https://new...*
+  📅 Sun, 31 May 2026 15:04:52 +0000
 
 ### 📑 TechCrunch
+
+- **[This weekend’s two biggest movies were both directed by YouTubers](https://techcrunch.com/2026/05/31/this-weekends-two-biggest-movies-were-both-directed-by-youtubers/)**
+  *The YouTube-to-prestige-horror pipeline is looking very strong....*
+  📅 Sun, 31 May 2026 18:34:58 +0000
+
+- **[‘This is fine’ artist KC Green reaches agreement with AI startup Artisan](https://techcrunch.com/2026/05/31/this-is-fine-artist-kc-green-reaches-agreement-with-ai-startup-artisan/)**
+  *The startup has apparently taken down the ads using KC Green's "This is fine" meme....*
+  📅 Sun, 31 May 2026 18:28:17 +0000
+
+- **[TechCrunch Mobility: It doesn’t matter that people hate the Ferrari Luce](https://techcrunch.com/2026/05/31/techcrunch-mobility-it-doesnt-matter-that-people-hate-the-ferrari-luce/)**
+  *Welcome back to TechCrunch Mobility, your hub for the future of transportation and now, more than ever, how AI is playing a part....*
+  📅 Sun, 31 May 2026 16:05:00 +0000
+
+- **[Making sense of the debate over AI psychosis](https://techcrunch.com/2026/05/31/making-sense-of-the-debate-over-ai-psychosis/)**
+  *On the latest episode of Equity, we debate whether tech CEOs are "uniquely prone to AI psychosis."...*
+  📅 Sun, 31 May 2026 15:30:00 +0000
+
+- **[Black founders raise highest amount of quarterly funding since 2022, but there’s a catch](https://techcrunch.com/2026/05/31/black-founders-raise-highest-amount-of-quarterly-funding-since-2022-but-theres-a-catch/)**
+  *Speaking to TechCrunch, Crunchbase’s head of research Gené Teare, said the factors holding back Black founders include “access to networks, relationships, and early introductions."...*
+  📅 Sun, 31 May 2026 15:00:00 +0000
 
 - **[What happens in Vega$: steroids, swimmers, and a billion-dollar hustle](https://techcrunch.com/2026/05/31/i-went-to-the-so-called-steroid-olympics-to-understand-why-silicon-valley-is-obsessed-with-peptides/)**
   *The Enhanced Games — a singular sporting competition where a majority of the athletes were on performance enhancing drugs — may herald a new business model that the tech industry is ready to embrace....*
   📅 Sun, 31 May 2026 13:00:00 +0000
 
-- **[SoftBank says it will invest up to €75 billion to build French data centers](https://techcrunch.com/2026/05/30/softbank-says-it-will-invest-up-to-e75-billion-to-build-french-data-centers/)**
-  *The goal, the firm said, is to develop and operate up to 5 gigawatts of additional data center capacity....*
-  📅 Sat, 30 May 2026 21:45:00 +0000
-
-- **[This weekend’s two biggest movies were both directed by YouTubers](https://techcrunch.com/2026/05/30/this-weekends-two-biggest-movies-were-both-directed-by-youtubers/)**
-  *The YouTube-to-prestige-horror pipeline is looking very strong....*
-  📅 Sat, 30 May 2026 21:12:37 +0000
-
-- **[Snap alums unveil Ghost Angels fund](https://techcrunch.com/2026/05/30/snap-alums-unveil-ghost-angels-fund/)**
-  *A group of 20 Snap alumni has come together to launch a fund called Ghost Angels to back the next generation of social media....*
-  📅 Sat, 30 May 2026 17:00:00 +0000
-
-- **[‘What a joke’: Github Copilot’s new token-based billing spurs consternation among devs](https://techcrunch.com/2026/05/30/what-a-joke-github-copilots-new-token-based-billing-spurs-consternation-among-devs/)**
-  *The golden age of Microsoft's Github Copilot appears to be at an end....*
-  📅 Sat, 30 May 2026 16:30:00 +0000
-
-- **[Meta is reportedly developing an AI pendant](https://techcrunch.com/2026/05/30/meta-is-reportedly-developing-an-ai-pendant/)**
-  *Meta seems to be making big bets on AI-powered hardware....*
-  📅 Sat, 30 May 2026 15:59:58 +0000
-
 ### 📑 Dev.to
 
-- **[Polly wants a transcript: giving agents ears and a voice, on your own machine](https://dev.to/drakulavich/polly-wants-a-transcript-giving-agents-ears-and-a-voice-on-your-own-machine-165)**
-  *<p>Half the messages I send my coding agents these days start life as a voice note. I'm walking the dog, an idea lands, I mumble it into my phone, and later something turns it into text an agent can a...*
-  📅 Sun, 31 May 2026 13:11:25 +0000
+- **[peektea: brewing a terminal file browser with Bubble Tea](https://dev.to/lovestaco/peektea-brewing-a-terminal-file-browser-with-bubble-tea-4jg1)**
+  *<p><em>Hello, I'm Maneshwar. I'm building git-lrc, a Micro AI code reviewer that runs on every commit. It is free and source-available on Github. <a href="https://github.com/HexmosTech/git-lrc" rel="n...*
+  📅 Sun, 31 May 2026 19:00:22 +0000
 
-- **[AI coding assistants make junior devs faster and worse at the same time](https://dev.to/adioof/ai-coding-assistants-make-junior-devs-faster-and-worse-at-the-same-time-1ngp)**
-  *<p>Copilot gives juniors the speed of a mid-level dev with the judgment of an intern. That's not a compliment to anyone involved.</p>
+- **[Building a Friendly Data Assistant](https://dev.to/hopebestworld/building-a-friendly-data-assistant-4gd2)**
+  *<p><em>This is a submission for the <a href="https://dev.to/challenges/hermes-agent-2026-05-15">Hermes Agent Challenge</a>: Write About Hermes Agent</em></p>
 
-<p>I have been assessing PRs submitted by junior developers for s...*
-  📅 Sun, 31 May 2026 13:09:59 +0000
+<p>Hello, DEV friends! 👋</p>
+
+<p>If you h...*
+  📅 Sun, 31 May 2026 18:53:06 +0000
 
 </details>
 
@@ -120,103 +120,103 @@
 
 ### 📈 Daily Trending
 
+- **[pewdiepie-archdaemon/odysseus](https://github.com/pewdiepie-archdaemon/odysseus)** ⭐ 3,667
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
+  Self-hosted AI workspace. 
+
 - **[polymaxi2/polymarket-arbitrage-trading-bot](https://github.com/polymaxi2/polymarket-arbitrage-trading-bot)** ⭐ 203
   ![None](https://img.shields.io/badge/-None-lightgrey)
   polymarket trading bot polymarket bot polymarket bot polymarket bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket bot polymarket bot polymarket bot polymarket trading bot polymarket bot polymarket bot polymarket trading bot
 
-- **[veryyoldman/metamask-openclaw](https://github.com/veryyoldman/metamask-openclaw)** ⭐ 146
+- **[veryyoldman/metamask-openclaw](https://github.com/veryyoldman/metamask-openclaw)** ⭐ 176
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   🦊 OpenClaw — a safety-first MetaMask SDK toolkit & AI-agent skill. Connect wallets, read balances, sign messages and send transactions on Ethereum, Polygon, Base, Arbitrum & all EVM chains. TypeScript-first, one-line connect, never touches your seed phrase.
 
-- **[BarneyD66/open-warehouse-system](https://github.com/BarneyD66/open-warehouse-system)** ⭐ 91
+- **[BarneyD66/open-warehouse-system](https://github.com/BarneyD66/open-warehouse-system)** ⭐ 122
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   Chinese-first open-source WMS starter for cross-border warehouse, fulfillment, inventory, billing, returns, and 3PL operations.
 
-- **[ringdataanimate/CrimsonDesert-Trainer-2026](https://github.com/ringdataanimate/CrimsonDesert-Trainer-2026)** ⭐ 45
+- **[PentesterFlow/agent](https://github.com/PentesterFlow/agent)** ⭐ 104
+  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
+  Agentic offensive-security in your terminal
+
+- **[asz798838958/aBaiAutoplus](https://github.com/asz798838958/aBaiAutoplus)** ⭐ 86
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  多平台 AI 账号自动注册与管理 · 协议化付款一键开通 ChatGPT Plus
+
+- **[cochransullivan52536512/LEGO-Batman-Legacy-of-the-Dark-Knight-PC-2026](https://github.com/cochransullivan52536512/LEGO-Batman-Legacy-of-the-Dark-Knight-PC-2026)** ⭐ 77
   ![C++](https://img.shields.io/badge/-C++-pink)
-  Global hotkey trainer for Crimson Desert (offline, educational). Features: God Mode, Infinite Health, One-Hit Kill, Infinite Stamina, No Reload, Infinite Money, Super Speed, Infinite Jump. Written in C++ with WinAPI.
+  Easy-to-use PC utility and installer for LEGO Batman: Legacy of the Dark Knight, featuring a simple .exe setup. Built for speed and accessibility.
 
-- **[dharshini676-it/p2p_blockchain](https://github.com/dharshini676-it/p2p_blockchain)** ⭐ 35
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
-  None
-
-- **[gmapsscraper/google-maps-agent-skills](https://github.com/gmapsscraper/google-maps-agent-skills)** ⭐ 33
-  ![None](https://img.shields.io/badge/-None-lightgrey)
-  Claude Code / OpenClaw skills for Google Maps lead    generation. Scrape businesses, extract emails, analyze competitors,    write cold outreach — powered by gmapsscraper.io API.
-
-- **[jarvisjustinj-arch/TaskMaster-ReactNative](https://github.com/jarvisjustinj-arch/TaskMaster-ReactNative)** ⭐ 23
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
-  A modern React Native starter project for task management with clean structure and beginner-friendly code.
-
-- **[IRNova/NovaRadar](https://github.com/IRNova/NovaRadar)** ⭐ 21
+- **[docker-desktop-windows/docker-desktop](https://github.com/docker-desktop-windows/docker-desktop)** ⭐ 77
   ![Go](https://img.shields.io/badge/-Go-cyan)
-  Nova Radar is a desktop IP scanner built with Go + React. It scans Cloudflare IP ranges from multiple selectable sources, performs real two-phase verification (TCP + TLS handshake), and outputs working IPs sorted by latency. Built by Nova Proxy Group.
+  docker desktop windows mac install download free windows 11 github wsl2 kubernetes
 
 ### 📈 Weekly Trending
 
-- **[op7418/guizang-social-card-skill](https://github.com/op7418/guizang-social-card-skill)** ⭐ 1,878
+- **[pewdiepie-archdaemon/odysseus](https://github.com/pewdiepie-archdaemon/odysseus)** ⭐ 3,668
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
+  Self-hosted AI workspace. 
+
+- **[op7418/guizang-social-card-skill](https://github.com/op7418/guizang-social-card-skill)** ⭐ 2,001
   ![HTML](https://img.shields.io/badge/-HTML-lightgrey)
   🪧 Claude Code / Codex skill — generate Xiaohongshu carousels & WeChat 21:9+1:1 cover pairs. Editorial × Swiss visual systems, 28 layouts, 10 themes, single-file HTML → PNG. 小红书图文 + 公众号封面对
 
-- **[helloianneo/ian-xiaohei-illustrations](https://github.com/helloianneo/ian-xiaohei-illustrations)** ⭐ 1,314
+- **[helloianneo/ian-xiaohei-illustrations](https://github.com/helloianneo/ian-xiaohei-illustrations)** ⭐ 1,407
   ![None](https://img.shields.io/badge/-None-lightgrey)
   中文小黑怪诞正文配图生成 Skill | 16:9 白底手绘 | 少量红橙蓝批注 | Codex Skill
 
-- **[Sophomoresty/gemini-web2api](https://github.com/Sophomoresty/gemini-web2api)** ⭐ 746
+- **[Sophomoresty/gemini-web2api](https://github.com/Sophomoresty/gemini-web2api)** ⭐ 843
   ![Python](https://img.shields.io/badge/-Python-blue)
   Convert Google Gemini web into OpenAI-compatible API. Zero auth, cross-platform, single file.
 
-- **[MatinSenPai/SenPaiScanner](https://github.com/MatinSenPai/SenPaiScanner)** ⭐ 709
+- **[MatinSenPai/SenPaiScanner](https://github.com/MatinSenPai/SenPaiScanner)** ⭐ 778
   ![Go](https://img.shields.io/badge/-Go-cyan)
   A light-weight scanner for Cloudflare IPs, written in Golang
 
-- **[withkynam/vibecode-pro-max-kit](https://github.com/withkynam/vibecode-pro-max-kit)** ⭐ 644
+- **[GordenSun/GordenPPTSkill](https://github.com/GordenSun/GordenPPTSkill)** ⭐ 733
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  AI-friendly PPT builder skill: 17 hand-polished Chinese PPTX templates + non-destructive text-only editing tools (python-pptx based). Pick a template, write edits.json, build a real .pptx with the layout intact. Personal/research use only.
+
+- **[withkynam/vibecode-pro-max-kit](https://github.com/withkynam/vibecode-pro-max-kit)** ⭐ 662
   ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
   Your AI forgets. This remembers. Spec-driven coding harness for vibecoders, product owners, CEOs and real builders — self-improving context memory, 12 agents, 32 skills. Kills context rot, ships features, not spaghetti. Claude Code & Codex. Any stack. 30 seconds
 
-- **[UditAkhourii/adhd](https://github.com/UditAkhourii/adhd)** ⭐ 635
+- **[UditAkhourii/adhd](https://github.com/UditAkhourii/adhd)** ⭐ 650
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   ADHD — a skill for coding agents. Tree-of-thought with pruning, built on the Claude & Codex Agent SDK. Fans out parallel divergent thoughts under different cognitive frames, scores, prunes traps, deepens the survivors. The no-brainer skill for creative and interdisciplinary work.
 
-- **[Michaelliv/pi-dynamic-workflows](https://github.com/Michaelliv/pi-dynamic-workflows)** ⭐ 614
-  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
-  None
-
-- **[baoweise-bot/aimili-vpngate](https://github.com/baoweise-bot/aimili-vpngate)** ⭐ 584
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  aimili-vpngate是一个借助vpngate.net让Linux用干净ip出站的代理工具。
-
 ### 📈 Monthly Trending
 
-- **[antirez/ds4](https://github.com/antirez/ds4)** ⭐ 12,591
+- **[antirez/ds4](https://github.com/antirez/ds4)** ⭐ 12,616
   ![C](https://img.shields.io/badge/-C-lightgrey)
   DeepSeek 4 Flash local inference engine for Metal and CUDA
 
-- **[BigPizzaV3/CodexPlusPlus](https://github.com/BigPizzaV3/CodexPlusPlus)** ⭐ 9,219
+- **[BigPizzaV3/CodexPlusPlus](https://github.com/BigPizzaV3/CodexPlusPlus)** ⭐ 9,424
   ![Rust](https://img.shields.io/badge/-Rust-brown)
   An enhanced tool for CodexApp, striving to make Codex better to use and more comfortable 一个CodexApp的增强工具，努力让Codex变得更好用更舒服
 
-- **[FULU-Foundation/OrcaSlicer-bambulab](https://github.com/FULU-Foundation/OrcaSlicer-bambulab)** ⭐ 6,680
+- **[FULU-Foundation/OrcaSlicer-bambulab](https://github.com/FULU-Foundation/OrcaSlicer-bambulab)** ⭐ 6,691
   ![C++](https://img.shields.io/badge/-C++-pink)
   None
 
-- **[nexu-io/html-anything](https://github.com/nexu-io/html-anything)** ⭐ 5,531
+- **[nexu-io/html-anything](https://github.com/nexu-io/html-anything)** ⭐ 5,564
   ![HTML](https://img.shields.io/badge/-HTML-lightgrey)
   ✨ The agentic HTML editor — your local AI agent writes the HTML, you ship it. 🚀 75 Skills × 9 Surfaces (magazine · deck · poster · XHS / tweet · prototype · data report · Hyperframes) 🛡️ Sandboxed preview · 📤 1-click to WeChat / X / Zhihu / HTML / PNG 🔑 Zero API key — Claude Code / Cursor / Codex / Gemini / Copilot / OpenCode / Qwen / Aider.
 
-- **[V4bel/dirtyfrag](https://github.com/V4bel/dirtyfrag)** ⭐ 4,790
+- **[V4bel/dirtyfrag](https://github.com/V4bel/dirtyfrag)** ⭐ 4,791
   ![C](https://img.shields.io/badge/-C-lightgrey)
   None
 
-- **[vercel-labs/zerolang](https://github.com/vercel-labs/zerolang)** ⭐ 4,750
+- **[vercel-labs/zerolang](https://github.com/vercel-labs/zerolang)** ⭐ 4,754
   ![C](https://img.shields.io/badge/-C-lightgrey)
   The programming language for agents
 
-- **[vercel-labs/zero-native](https://github.com/vercel-labs/zero-native)** ⭐ 4,045
+- **[vercel-labs/zero-native](https://github.com/vercel-labs/zero-native)** ⭐ 4,048
   ![Zig](https://img.shields.io/badge/-Zig-lightgrey)
   Build desktop + mobile apps with Zig and web UI
 
-- **[perplexityai/bumblebee](https://github.com/perplexityai/bumblebee)** ⭐ 4,012
+- **[perplexityai/bumblebee](https://github.com/perplexityai/bumblebee)** ⭐ 4,033
   ![Go](https://img.shields.io/badge/-Go-cyan)
   Read-only developer endpoint scanner for on-disk package, extension, and developer-tool metadata, built to check exposure to known software supply-chain compromises.
 
@@ -492,51 +492,51 @@ See [kubernetes-announce@](https://groups.google.com/forum/#!forum/kubernetes-an
 
 | Skill | Status |
 |-------|--------|
-| Java | 🟢 Proficient |
-| Python | 🟢 Proficient |
+| Java | 🟡 Learning |
+| Python | 🔴 Beginner |
 | JavaScript | ⚪ Planned |
-| TypeScript | 🟢 Proficient |
-| Go | 🟢 Proficient |
+| TypeScript | ⚪ Planned |
+| Go | 🔴 Beginner |
 
 ### Frameworks
 
 | Skill | Status |
 |-------|--------|
-| React | 🟢 Proficient |
+| React | 🟡 Learning |
 | Spring Boot | 🟡 Learning |
-| Django | ⚪ Planned |
-| Node.js | ⚪ Planned |
-| Next.js | ⚪ Planned |
+| Django | 🟡 Learning |
+| Node.js | 🟡 Learning |
+| Next.js | 🟡 Learning |
 
 ### Cybersecurity
 
 | Skill | Status |
 |-------|--------|
-| Penetration Testing | 🔴 Beginner |
+| Penetration Testing | ⚪ Planned |
 | Web Security | ⚪ Planned |
-| Network Security | ⚪ Planned |
-| OWASP | 🟡 Learning |
+| Network Security | 🔴 Beginner |
+| OWASP | ⚪ Planned |
 
 ### Ai Ml
 
 | Skill | Status |
 |-------|--------|
-| Machine Learning | 🟡 Learning |
-| Deep Learning | 🔴 Beginner |
-| NLP | ⚪ Planned |
+| Machine Learning | ⚪ Planned |
+| Deep Learning | 🟢 Proficient |
+| NLP | 🟢 Proficient |
 | Computer Vision | 🟡 Learning |
-| TensorFlow | ⚪ Planned |
-| PyTorch | 🟡 Learning |
+| TensorFlow | 🟢 Proficient |
+| PyTorch | ⚪ Planned |
 
 ### Devops
 
 | Skill | Status |
 |-------|--------|
-| Docker | 🔴 Beginner |
-| Kubernetes | 🟢 Proficient |
-| CI/CD | 🟡 Learning |
-| AWS | 🟡 Learning |
-| Azure | ⚪ Planned |
+| Docker | 🟢 Proficient |
+| Kubernetes | 🟡 Learning |
+| CI/CD | 🔴 Beginner |
+| AWS | 🟢 Proficient |
+| Azure | 🟢 Proficient |
 
 ### Other
 
@@ -544,7 +544,7 @@ See [kubernetes-announce@](https://groups.google.com/forum/#!forum/kubernetes-an
 |-------|--------|
 | Blockchain | 🔴 Beginner |
 | Web3 | ⚪ Planned |
-| Cloud Computing | ⚪ Planned |
+| Cloud Computing | 🟡 Learning |
 
 </details>
 
