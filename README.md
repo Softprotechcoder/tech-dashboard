@@ -7,7 +7,7 @@
 ![AI & ML](https://img.shields.io/badge/-AI%20&%20ML-blue) ![CyberSecurity](https://img.shields.io/badge/-CyberSecurity-red) ![Full Stack Development](https://img.shields.io/badge/-Full%20Stack%20Development-green)
 
 [![Auto Update](https://img.shields.io/badge/Auto%20Update-Enabled-success)](https://github.com/yourusername/tech-dashboard/actions)
-[![Last Updated](https://img.shields.io/badge/Last%20Updated-May 31, 2026-blue)](https://github.com/yourusername/tech-dashboard)
+[![Last Updated](https://img.shields.io/badge/Last%20Updated-June 01, 2026-blue)](https://github.com/yourusername/tech-dashboard)
 
 *Automatically updated every 6 hours with the latest tech news, trending repositories, and learning resources.*
 
@@ -46,35 +46,40 @@
 
 ### 📑 Hacker News
 
-- **[Deflock hits 100k ALPRs Mapped in USA](https://deflock.org/)**
-  *<p>Article URL: <a href="https://deflock.org/">https://deflock.org/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=48347370">https://news.ycombinator.com/item?id=48347370</a></...*
-  📅 Sun, 31 May 2026 17:04:10 +0000
+- **[Shift from a Leader-Follower to a Leader-Leader Approach](https://www.practicalengineering.management/p/shift-from-a-leader-follower-to-a)**
+  *<p>Article URL: <a href="https://www.practicalengineering.management/p/shift-from-a-leader-follower-to-a">https://www.practicalengineering.management/p/shift-from-a-leader-follower-to-a</a></p>
+<p>Com...*
+  📅 Mon, 01 Jun 2026 02:03:03 +0000
 
-- **[The Speed of Prototyping in the Age of AI](https://darylcecile.net/notes/speed-of-prototyping-age-of-ai)**
-  *<p>Article URL: <a href="https://darylcecile.net/notes/speed-of-prototyping-age-of-ai">https://darylcecile.net/notes/speed-of-prototyping-age-of-ai</a></p>
-<p>Comments URL: <a href="https://news.ycomb...*
-  📅 Sun, 31 May 2026 16:37:34 +0000
+- **[Karpathy LLM Wiki pattern integrated into Obsidian agenic workflow](https://github.com/pssah4/vault-operator)**
+  *<p>Article URL: <a href="https://github.com/pssah4/vault-operator">https://github.com/pssah4/vault-operator</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=48351115">https://new...*
+  📅 Mon, 01 Jun 2026 00:03:11 +0000
 
-- **[Creatine raise brain energy levels and slow Alzheimer's cognitive decline by 30%](https://thesciverse.org/scientists-found-that-the-creatine-supplement-millions-take-for-muscle-gains-is-quietly-raising-brain-energy-levels-and-slowing-early-alzheimers-cognitive-decline-by-30/)**
-  *<p>Article URL: <a href="https://thesciverse.org/scientists-found-that-the-creatine-supplement-millions-take-for-muscle-gains-is-quietly-raising-brain-energy-levels-and-slowing-early-alzheimers-cognit...*
-  📅 Sun, 31 May 2026 16:19:34 +0000
+- **[Chuwi Minibook X: the netbook we deserve](https://tylercipriani.com/blog/2026/05/28/chuwi-minibook-x/)**
+  *<p>Article URL: <a href="https://tylercipriani.com/blog/2026/05/28/chuwi-minibook-x/">https://tylercipriani.com/blog/2026/05/28/chuwi-minibook-x/</a></p>
+<p>Comments URL: <a href="https://news.ycombin...*
+  📅 Sun, 31 May 2026 22:59:50 +0000
 
-- **[Chibil: A C compiler targeting .NET IL](https://github.com/MichalStrehovsky/chibil)**
-  *<p>Article URL: <a href="https://github.com/MichalStrehovsky/chibil">https://github.com/MichalStrehovsky/chibil</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=48346660">https:/...*
-  📅 Sun, 31 May 2026 15:46:32 +0000
+- **[It's Not Just X. It's Y](https://mail.cyberneticforests.com/its-not-just-data-its-post-training/)**
+  *<p>Article URL: <a href="https://mail.cyberneticforests.com/its-not-just-data-its-post-training/">https://mail.cyberneticforests.com/its-not-just-data-its-post-training/</a></p>
+<p>Comments URL: <a hr...*
+  📅 Sun, 31 May 2026 21:57:48 +0000
 
-- **[Daily pill can double survival time for deadliest cancer, trial shows](https://www.theguardian.com/society/2026/may/31/daily-pill-daraxonrasib-double-survival-time-pancreatic-pancreas-cancer-clinical-trial)**
-  *<p>Article URL: <a href="https://www.theguardian.com/society/2026/may/31/daily-pill-daraxonrasib-double-survival-time-pancreatic-pancreas-cancer-clinical-trial">https://www.theguardian.com/society/202...*
-  📅 Sun, 31 May 2026 15:43:29 +0000
+- **['Backrooms' Stuns with $81M Debut](https://variety.com/2026/film/box-office/backrooms-box-office-record-opening-weekend-obsession-jumps-star-wars-crumbles-1236763355/)**
+  *<p>Article URL: <a href="https://variety.com/2026/film/box-office/backrooms-box-office-record-opening-weekend-obsession-jumps-star-wars-crumbles-1236763355/">https://variety.com/2026/film/box-office/b...*
+  📅 Sun, 31 May 2026 19:27:44 +0000
 
-- **[1-Bit Bonsai Image 4B Image Generation for Local Devices](https://prismml.com/news/bonsai-image-4b)**
-  *<p>Article URL: <a href="https://prismml.com/news/bonsai-image-4b">https://prismml.com/news/bonsai-image-4b</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=48346257">https://new...*
-  📅 Sun, 31 May 2026 15:04:52 +0000
+- **[Codex just found a "workaround" of not having sudo on my PC](https://twitter.com/i/status/2060746160558543217)**
+  *<p>Article URL: <a href="https://twitter.com/i/status/2060746160558543217">https://twitter.com/i/status/2060746160558543217</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=48348...*
+  📅 Sun, 31 May 2026 18:57:48 +0000
 
 ### 📑 TechCrunch
+
+- **[Erin Brockovich takes aim at data center secrecy](https://techcrunch.com/2026/05/31/erin-brockovich-takes-aim-at-data-center-secrecy/)**
+  *Environmental activist Erin Brockovich has a new mission....*
+  📅 Sun, 31 May 2026 21:05:14 +0000
 
 - **[This weekend’s two biggest movies were both directed by YouTubers](https://techcrunch.com/2026/05/31/this-weekends-two-biggest-movies-were-both-directed-by-youtubers/)**
   *The YouTube-to-prestige-horror pipeline is looking very strong....*
@@ -96,23 +101,23 @@
   *Speaking to TechCrunch, Crunchbase’s head of research Gené Teare, said the factors holding back Black founders include “access to networks, relationships, and early introductions."...*
   📅 Sun, 31 May 2026 15:00:00 +0000
 
-- **[What happens in Vega$: steroids, swimmers, and a billion-dollar hustle](https://techcrunch.com/2026/05/31/i-went-to-the-so-called-steroid-olympics-to-understand-why-silicon-valley-is-obsessed-with-peptides/)**
-  *The Enhanced Games — a singular sporting competition where a majority of the athletes were on performance enhancing drugs — may herald a new business model that the tech industry is ready to embrace....*
-  📅 Sun, 31 May 2026 13:00:00 +0000
-
 ### 📑 Dev.to
 
-- **[peektea: brewing a terminal file browser with Bubble Tea](https://dev.to/lovestaco/peektea-brewing-a-terminal-file-browser-with-bubble-tea-4jg1)**
-  *<p><em>Hello, I'm Maneshwar. I'm building git-lrc, a Micro AI code reviewer that runs on every commit. It is free and source-available on Github. <a href="https://github.com/HexmosTech/git-lrc" rel="n...*
-  📅 Sun, 31 May 2026 19:00:22 +0000
+- **[AI vendor selection is not software procurement](https://dev.to/b0gy/ai-vendor-selection-is-not-software-procurement-5jj)**
+  *<p>When you buy a SaaS tool, your data sits in someone else's database. When you buy an AI service, your data flows <em>through</em> someone else's model. It has the posibiliy to become training data....*
+  📅 Mon, 01 Jun 2026 02:42:49 +0000
 
-- **[Building a Friendly Data Assistant](https://dev.to/hopebestworld/building-a-friendly-data-assistant-4gd2)**
-  *<p><em>This is a submission for the <a href="https://dev.to/challenges/hermes-agent-2026-05-15">Hermes Agent Challenge</a>: Write About Hermes Agent</em></p>
+- **[I Built an SEO Tool That Lied to Me. So I Rebuilt It.](https://dev.to/codepurse/i-built-an-seo-tool-that-lied-to-me-so-i-rebuilt-it-1217)**
+  *<p><em>This is a submission for the <a href="https://dev.to/challenges/github-2026-05-21">GitHub Finish-Up-A-Thon Challenge</a>.</em></p>
 
-<p>Hello, DEV friends! 👋</p>
+<h2>
+  
+  
+  What I Built
+</h2>
 
-<p>If you h...*
-  📅 Sun, 31 May 2026 18:53:06 +0000
+<p><a href="https://github.c...*
+  📅 Mon, 01 Jun 2026 02:37:59 +0000
 
 </details>
 
@@ -120,105 +125,105 @@
 
 ### 📈 Daily Trending
 
-- **[pewdiepie-archdaemon/odysseus](https://github.com/pewdiepie-archdaemon/odysseus)** ⭐ 3,667
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
-  Self-hosted AI workspace. 
-
-- **[polymaxi2/polymarket-arbitrage-trading-bot](https://github.com/polymaxi2/polymarket-arbitrage-trading-bot)** ⭐ 203
+- **[HarborRanger/Autodesk-Civil-3D-Crack-2026](https://github.com/HarborRanger/Autodesk-Civil-3D-Crack-2026)** ⭐ 12
   ![None](https://img.shields.io/badge/-None-lightgrey)
-  polymarket trading bot polymarket bot polymarket bot polymarket bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket bot polymarket bot polymarket bot polymarket trading bot polymarket bot polymarket bot polymarket trading bot
+  ⭐️ Autodesk Civil 3D 2026 | Download Full Version | Setup Installer v26 | Activation Keygen | License Key Pre-Activated | Latest Build Pro | Patch Mod | Get Premium Features | Civil Engineering Design Software for Windows 10/11 PC | Direct Genuine Original x64 ⭐️
 
-- **[veryyoldman/metamask-openclaw](https://github.com/veryyoldman/metamask-openclaw)** ⭐ 176
-  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
-  🦊 OpenClaw — a safety-first MetaMask SDK toolkit & AI-agent skill. Connect wallets, read balances, sign messages and send transactions on Ethereum, Polygon, Base, Arbitrum & all EVM chains. TypeScript-first, one-line connect, never touches your seed phrase.
+- **[Claspfluwrinkle/Capture-One-Pro-Crack](https://github.com/Claspfluwrinkle/Capture-One-Pro-Crack)** ⭐ 11
+  ![None](https://img.shields.io/badge/-None-lightgrey)
+  Software repository — parsed from GitHub.
 
-- **[BarneyD66/open-warehouse-system](https://github.com/BarneyD66/open-warehouse-system)** ⭐ 122
-  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
-  Chinese-first open-source WMS starter for cross-border warehouse, fulfillment, inventory, billing, returns, and 3PL operations.
+- **[Shadowunderpropagate/AdsPower-Business-Cracked](https://github.com/Shadowunderpropagate/AdsPower-Business-Cracked)** ⭐ 11
+  ![None](https://img.shields.io/badge/-None-lightgrey)
+  Organizes multiple account environments with profile-level configuration and access control.
 
-- **[PentesterFlow/agent](https://github.com/PentesterFlow/agent)** ⭐ 104
-  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
-  Agentic offensive-security in your terminal
+- **[Apparitionyamend/Disk-Drill-Pro-Cracked-2026](https://github.com/Apparitionyamend/Disk-Drill-Pro-Cracked-2026)** ⭐ 10
+  ![None](https://img.shields.io/badge/-None-lightgrey)
+  Recovers deleted files from internal drives and removable media with deep scan.
 
-- **[asz798838958/aBaiAutoplus](https://github.com/asz798838958/aBaiAutoplus)** ⭐ 86
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  多平台 AI 账号自动注册与管理 · 协议化付款一键开通 ChatGPT Plus
+- **[RapidsTigerMode/ChimeraTool-Crack](https://github.com/RapidsTigerMode/ChimeraTool-Crack)** ⭐ 10
+  ![None](https://img.shields.io/badge/-None-lightgrey)
+  Software repository — parsed from GitHub.
 
-- **[cochransullivan52536512/LEGO-Batman-Legacy-of-the-Dark-Knight-PC-2026](https://github.com/cochransullivan52536512/LEGO-Batman-Legacy-of-the-Dark-Knight-PC-2026)** ⭐ 77
-  ![C++](https://img.shields.io/badge/-C++-pink)
-  Easy-to-use PC utility and installer for LEGO Batman: Legacy of the Dark Knight, featuring a simple .exe setup. Built for speed and accessibility.
+- **[widthslayercloak/iTop-Data-Recovery-Pro-2026](https://github.com/widthslayercloak/iTop-Data-Recovery-Pro-2026)** ⭐ 10
+  ![None](https://img.shields.io/badge/-None-lightgrey)
+  ⭐️ iTop Data Recovery Pro 2026 | Full Version Installer v10.5 | Setup Activation Key | Pre-Activated License | Latest Build Pro Updated | Data Restore Software | Undelete Recovery Tool | Windows 11 PC | Easy File Retrieval | Restore Deleted Files | Direct Download Genuine Original ⭐️
 
-- **[docker-desktop-windows/docker-desktop](https://github.com/docker-desktop-windows/docker-desktop)** ⭐ 77
-  ![Go](https://img.shields.io/badge/-Go-cyan)
-  docker desktop windows mac install download free windows 11 github wsl2 kubernetes
+- **[GentleWainwright/Soundpad-Full-Crackeds-last](https://github.com/GentleWainwright/Soundpad-Full-Crackeds-last)** ⭐ 9
+  ![None](https://img.shields.io/badge/-None-lightgrey)
+  💡🎮 Soundpad 2026 - Professional soundboard software with hotkeys, voice changer, audio effects, microphone support and unlimited sound playback for streamers and gamers.
+
+- **[Crownofpassage/Remo-Repair-Cracked-2026](https://github.com/Crownofpassage/Remo-Repair-Cracked-2026)** ⭐ 9
+  ![None](https://img.shields.io/badge/-None-lightgrey)
+  Remo Repair fixes corrupted videos photos and documents on Windows and Mac.
 
 ### 📈 Weekly Trending
 
-- **[pewdiepie-archdaemon/odysseus](https://github.com/pewdiepie-archdaemon/odysseus)** ⭐ 3,668
+- **[pewdiepie-archdaemon/odysseus](https://github.com/pewdiepie-archdaemon/odysseus)** ⭐ 8,503
   ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
   Self-hosted AI workspace. 
 
-- **[op7418/guizang-social-card-skill](https://github.com/op7418/guizang-social-card-skill)** ⭐ 2,001
+- **[op7418/guizang-social-card-skill](https://github.com/op7418/guizang-social-card-skill)** ⭐ 2,094
   ![HTML](https://img.shields.io/badge/-HTML-lightgrey)
   🪧 Claude Code / Codex skill — generate Xiaohongshu carousels & WeChat 21:9+1:1 cover pairs. Editorial × Swiss visual systems, 28 layouts, 10 themes, single-file HTML → PNG. 小红书图文 + 公众号封面对
 
-- **[helloianneo/ian-xiaohei-illustrations](https://github.com/helloianneo/ian-xiaohei-illustrations)** ⭐ 1,407
+- **[helloianneo/ian-xiaohei-illustrations](https://github.com/helloianneo/ian-xiaohei-illustrations)** ⭐ 1,455
   ![None](https://img.shields.io/badge/-None-lightgrey)
   中文小黑怪诞正文配图生成 Skill | 16:9 白底手绘 | 少量红橙蓝批注 | Codex Skill
 
-- **[Sophomoresty/gemini-web2api](https://github.com/Sophomoresty/gemini-web2api)** ⭐ 843
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  Convert Google Gemini web into OpenAI-compatible API. Zero auth, cross-platform, single file.
-
-- **[MatinSenPai/SenPaiScanner](https://github.com/MatinSenPai/SenPaiScanner)** ⭐ 778
-  ![Go](https://img.shields.io/badge/-Go-cyan)
-  A light-weight scanner for Cloudflare IPs, written in Golang
-
-- **[GordenSun/GordenPPTSkill](https://github.com/GordenSun/GordenPPTSkill)** ⭐ 733
+- **[GordenSun/GordenPPTSkill](https://github.com/GordenSun/GordenPPTSkill)** ⭐ 948
   ![Python](https://img.shields.io/badge/-Python-blue)
   AI-friendly PPT builder skill: 17 hand-polished Chinese PPTX templates + non-destructive text-only editing tools (python-pptx based). Pick a template, write edits.json, build a real .pptx with the layout intact. Personal/research use only.
 
-- **[withkynam/vibecode-pro-max-kit](https://github.com/withkynam/vibecode-pro-max-kit)** ⭐ 662
+- **[Sophomoresty/gemini-web2api](https://github.com/Sophomoresty/gemini-web2api)** ⭐ 913
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  Convert Google Gemini web into OpenAI-compatible API. Zero auth, cross-platform, single file.
+
+- **[MatinSenPai/SenPaiScanner](https://github.com/MatinSenPai/SenPaiScanner)** ⭐ 804
+  ![Go](https://img.shields.io/badge/-Go-cyan)
+  A light-weight scanner for Cloudflare IPs, written in Golang
+
+- **[withkynam/vibecode-pro-max-kit](https://github.com/withkynam/vibecode-pro-max-kit)** ⭐ 668
   ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
   Your AI forgets. This remembers. Spec-driven coding harness for vibecoders, product owners, CEOs and real builders — self-improving context memory, 12 agents, 32 skills. Kills context rot, ships features, not spaghetti. Claude Code & Codex. Any stack. 30 seconds
 
-- **[UditAkhourii/adhd](https://github.com/UditAkhourii/adhd)** ⭐ 650
+- **[Michaelliv/pi-dynamic-workflows](https://github.com/Michaelliv/pi-dynamic-workflows)** ⭐ 636
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
-  ADHD — a skill for coding agents. Tree-of-thought with pruning, built on the Claude & Codex Agent SDK. Fans out parallel divergent thoughts under different cognitive frames, scores, prunes traps, deepens the survivors. The no-brainer skill for creative and interdisciplinary work.
+  None
 
 ### 📈 Monthly Trending
 
-- **[antirez/ds4](https://github.com/antirez/ds4)** ⭐ 12,616
+- **[antirez/ds4](https://github.com/antirez/ds4)** ⭐ 12,631
   ![C](https://img.shields.io/badge/-C-lightgrey)
   DeepSeek 4 Flash local inference engine for Metal and CUDA
 
-- **[BigPizzaV3/CodexPlusPlus](https://github.com/BigPizzaV3/CodexPlusPlus)** ⭐ 9,424
+- **[BigPizzaV3/CodexPlusPlus](https://github.com/BigPizzaV3/CodexPlusPlus)** ⭐ 9,679
   ![Rust](https://img.shields.io/badge/-Rust-brown)
   An enhanced tool for CodexApp, striving to make Codex better to use and more comfortable 一个CodexApp的增强工具，努力让Codex变得更好用更舒服
 
-- **[FULU-Foundation/OrcaSlicer-bambulab](https://github.com/FULU-Foundation/OrcaSlicer-bambulab)** ⭐ 6,691
+- **[pewdiepie-archdaemon/odysseus](https://github.com/pewdiepie-archdaemon/odysseus)** ⭐ 8,503
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
+  Self-hosted AI workspace. 
+
+- **[FULU-Foundation/OrcaSlicer-bambulab](https://github.com/FULU-Foundation/OrcaSlicer-bambulab)** ⭐ 6,697
   ![C++](https://img.shields.io/badge/-C++-pink)
   None
 
-- **[nexu-io/html-anything](https://github.com/nexu-io/html-anything)** ⭐ 5,564
+- **[nexu-io/html-anything](https://github.com/nexu-io/html-anything)** ⭐ 5,603
   ![HTML](https://img.shields.io/badge/-HTML-lightgrey)
   ✨ The agentic HTML editor — your local AI agent writes the HTML, you ship it. 🚀 75 Skills × 9 Surfaces (magazine · deck · poster · XHS / tweet · prototype · data report · Hyperframes) 🛡️ Sandboxed preview · 📤 1-click to WeChat / X / Zhihu / HTML / PNG 🔑 Zero API key — Claude Code / Cursor / Codex / Gemini / Copilot / OpenCode / Qwen / Aider.
 
-- **[V4bel/dirtyfrag](https://github.com/V4bel/dirtyfrag)** ⭐ 4,791
+- **[V4bel/dirtyfrag](https://github.com/V4bel/dirtyfrag)** ⭐ 4,792
   ![C](https://img.shields.io/badge/-C-lightgrey)
   None
 
-- **[vercel-labs/zerolang](https://github.com/vercel-labs/zerolang)** ⭐ 4,754
+- **[vercel-labs/zerolang](https://github.com/vercel-labs/zerolang)** ⭐ 4,764
   ![C](https://img.shields.io/badge/-C-lightgrey)
   The programming language for agents
 
-- **[vercel-labs/zero-native](https://github.com/vercel-labs/zero-native)** ⭐ 4,048
+- **[vercel-labs/zero-native](https://github.com/vercel-labs/zero-native)** ⭐ 4,058
   ![Zig](https://img.shields.io/badge/-Zig-lightgrey)
   Build desktop + mobile apps with Zig and web UI
-
-- **[perplexityai/bumblebee](https://github.com/perplexityai/bumblebee)** ⭐ 4,033
-  ![Go](https://img.shields.io/badge/-Go-cyan)
-  Read-only developer endpoint scanner for on-disk package, extension, and developer-tool metadata, built to check exposure to known software supply-chain compromises.
 
 ## 🚀 Latest Releases
 
@@ -492,59 +497,59 @@ See [kubernetes-announce@](https://groups.google.com/forum/#!forum/kubernetes-an
 
 | Skill | Status |
 |-------|--------|
-| Java | 🟡 Learning |
-| Python | 🔴 Beginner |
-| JavaScript | ⚪ Planned |
-| TypeScript | ⚪ Planned |
-| Go | 🔴 Beginner |
+| Java | ⚪ Planned |
+| Python | 🟡 Learning |
+| JavaScript | 🟢 Proficient |
+| TypeScript | 🟡 Learning |
+| Go | 🟡 Learning |
 
 ### Frameworks
 
 | Skill | Status |
 |-------|--------|
-| React | 🟡 Learning |
+| React | 🔴 Beginner |
 | Spring Boot | 🟡 Learning |
-| Django | 🟡 Learning |
-| Node.js | 🟡 Learning |
-| Next.js | 🟡 Learning |
+| Django | 🟢 Proficient |
+| Node.js | ⚪ Planned |
+| Next.js | 🟢 Proficient |
 
 ### Cybersecurity
 
 | Skill | Status |
 |-------|--------|
 | Penetration Testing | ⚪ Planned |
-| Web Security | ⚪ Planned |
-| Network Security | 🔴 Beginner |
-| OWASP | ⚪ Planned |
+| Web Security | 🔴 Beginner |
+| Network Security | ⚪ Planned |
+| OWASP | 🔴 Beginner |
 
 ### Ai Ml
 
 | Skill | Status |
 |-------|--------|
 | Machine Learning | ⚪ Planned |
-| Deep Learning | 🟢 Proficient |
+| Deep Learning | ⚪ Planned |
 | NLP | 🟢 Proficient |
 | Computer Vision | 🟡 Learning |
-| TensorFlow | 🟢 Proficient |
+| TensorFlow | 🟡 Learning |
 | PyTorch | ⚪ Planned |
 
 ### Devops
 
 | Skill | Status |
 |-------|--------|
-| Docker | 🟢 Proficient |
-| Kubernetes | 🟡 Learning |
+| Docker | 🔴 Beginner |
+| Kubernetes | 🔴 Beginner |
 | CI/CD | 🔴 Beginner |
 | AWS | 🟢 Proficient |
-| Azure | 🟢 Proficient |
+| Azure | 🔴 Beginner |
 
 ### Other
 
 | Skill | Status |
 |-------|--------|
 | Blockchain | 🔴 Beginner |
-| Web3 | ⚪ Planned |
-| Cloud Computing | 🟡 Learning |
+| Web3 | 🟡 Learning |
+| Cloud Computing | 🔴 Beginner |
 
 </details>
 
@@ -562,7 +567,7 @@ This dashboard is automatically updated every 6 hours using GitHub Actions. The 
 
 <div align="center">
 
-**Last Updated:** May 31, 2026
+**Last Updated:** June 01, 2026
 
 Made with ❤️ and automated with GitHub Actions
 
