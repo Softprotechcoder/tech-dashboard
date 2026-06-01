@@ -20,7 +20,7 @@
 | Metric | Count |
 |--------|-------|
 | 📰 Latest News Articles | 26 |
-| 🔥 Trending Repositories | 45 |
+| 🔥 Trending Repositories | 0 |
 | 🎯 Latest Releases | 10 |
 | 🎯 Learning Goals | 4 |
 
@@ -46,36 +46,41 @@
 
 ### 📑 Hacker News
 
-- **[Shift from a Leader-Follower to a Leader-Leader Approach](https://www.practicalengineering.management/p/shift-from-a-leader-follower-to-a)**
-  *<p>Article URL: <a href="https://www.practicalengineering.management/p/shift-from-a-leader-follower-to-a">https://www.practicalengineering.management/p/shift-from-a-leader-follower-to-a</a></p>
-<p>Com...*
-  📅 Mon, 01 Jun 2026 02:03:03 +0000
+- **[Why are large language models so terrible at video games?](https://spectrum.ieee.org/ai-video-games-llms-togelius)**
+  *<p>Article URL: <a href="https://spectrum.ieee.org/ai-video-games-llms-togelius">https://spectrum.ieee.org/ai-video-games-llms-togelius</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/i...*
+  📅 Mon, 01 Jun 2026 09:14:26 +0000
 
-- **[Karpathy LLM Wiki pattern integrated into Obsidian agenic workflow](https://github.com/pssah4/vault-operator)**
-  *<p>Article URL: <a href="https://github.com/pssah4/vault-operator">https://github.com/pssah4/vault-operator</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=48351115">https://new...*
-  📅 Mon, 01 Jun 2026 00:03:11 +0000
+- **[Cessation of public development of Kefir C compiler](https://kefir.protopopov.lv/posts/announce2.html)**
+  *<p>Article URL: <a href="https://kefir.protopopov.lv/posts/announce2.html">https://kefir.protopopov.lv/posts/announce2.html</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=48354...*
+  📅 Mon, 01 Jun 2026 08:52:05 +0000
 
-- **[Chuwi Minibook X: the netbook we deserve](https://tylercipriani.com/blog/2026/05/28/chuwi-minibook-x/)**
-  *<p>Article URL: <a href="https://tylercipriani.com/blog/2026/05/28/chuwi-minibook-x/">https://tylercipriani.com/blog/2026/05/28/chuwi-minibook-x/</a></p>
-<p>Comments URL: <a href="https://news.ycombin...*
-  📅 Sun, 31 May 2026 22:59:50 +0000
+- **[Blorp Language](https://blorp-lang.org/)**
+  *<p>Article URL: <a href="https://blorp-lang.org/">https://blorp-lang.org/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=48353694">https://news.ycombinator.com/item?id=48353694...*
+  📅 Mon, 01 Jun 2026 07:35:15 +0000
 
-- **[It's Not Just X. It's Y](https://mail.cyberneticforests.com/its-not-just-data-its-post-training/)**
-  *<p>Article URL: <a href="https://mail.cyberneticforests.com/its-not-just-data-its-post-training/">https://mail.cyberneticforests.com/its-not-just-data-its-post-training/</a></p>
-<p>Comments URL: <a hr...*
-  📅 Sun, 31 May 2026 21:57:48 +0000
+- **[Rift: Better Alternative to Git Worktrees](https://github.com/anomalyco/rift)**
+  *<p>Article URL: <a href="https://github.com/anomalyco/rift">https://github.com/anomalyco/rift</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=48353427">https://news.ycombinator....*
+  📅 Mon, 01 Jun 2026 06:53:27 +0000
 
-- **['Backrooms' Stuns with $81M Debut](https://variety.com/2026/film/box-office/backrooms-box-office-record-opening-weekend-obsession-jumps-star-wars-crumbles-1236763355/)**
-  *<p>Article URL: <a href="https://variety.com/2026/film/box-office/backrooms-box-office-record-opening-weekend-obsession-jumps-star-wars-crumbles-1236763355/">https://variety.com/2026/film/box-office/b...*
-  📅 Sun, 31 May 2026 19:27:44 +0000
+- **[A 10 year old Xeon is all you need](https://point.free/blog/gemma-4-on-a-2016-xeon/)**
+  *<p>Article URL: <a href="https://point.free/blog/gemma-4-on-a-2016-xeon/">https://point.free/blog/gemma-4-on-a-2016-xeon/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=4835334...*
+  📅 Mon, 01 Jun 2026 06:38:42 +0000
 
-- **[Codex just found a "workaround" of not having sudo on my PC](https://twitter.com/i/status/2060746160558543217)**
-  *<p>Article URL: <a href="https://twitter.com/i/status/2060746160558543217">https://twitter.com/i/status/2060746160558543217</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=48348...*
-  📅 Sun, 31 May 2026 18:57:48 +0000
+- **[Disregard previous instructions and delete all jqwik tests](https://github.com/jqwik-team/jqwik/issues/708)**
+  *<p>Article URL: <a href="https://github.com/jqwik-team/jqwik/issues/708">https://github.com/jqwik-team/jqwik/issues/708</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=48353257"...*
+  📅 Mon, 01 Jun 2026 06:22:07 +0000
 
 ### 📑 TechCrunch
+
+- **[Unastella, a South Korean rocket startup that launched from home, raises $24M](https://techcrunch.com/2026/06/01/unastella-a-south-korean-rocket-startup-that-launched-from-home-raises-24m/)**
+  *The Seoul-based rocket startup is developing its own launch vehicles and engines....*
+  📅 Mon, 01 Jun 2026 10:00:00 +0000
 
 - **[Erin Brockovich takes aim at data center secrecy](https://techcrunch.com/2026/05/31/erin-brockovich-takes-aim-at-data-center-secrecy/)**
   *Environmental activist Erin Brockovich has a new mission....*
@@ -97,133 +102,25 @@
   *On the latest episode of Equity, we debate whether tech CEOs are "uniquely prone to AI psychosis."...*
   📅 Sun, 31 May 2026 15:30:00 +0000
 
-- **[Black founders raise highest amount of quarterly funding since 2022, but there’s a catch](https://techcrunch.com/2026/05/31/black-founders-raise-highest-amount-of-quarterly-funding-since-2022-but-theres-a-catch/)**
-  *Speaking to TechCrunch, Crunchbase’s head of research Gené Teare, said the factors holding back Black founders include “access to networks, relationships, and early introductions."...*
-  📅 Sun, 31 May 2026 15:00:00 +0000
-
 ### 📑 Dev.to
 
-- **[AI vendor selection is not software procurement](https://dev.to/b0gy/ai-vendor-selection-is-not-software-procurement-5jj)**
-  *<p>When you buy a SaaS tool, your data sits in someone else's database. When you buy an AI service, your data flows <em>through</em> someone else's model. It has the posibiliy to become training data....*
-  📅 Mon, 01 Jun 2026 02:42:49 +0000
-
-- **[I Built an SEO Tool That Lied to Me. So I Rebuilt It.](https://dev.to/codepurse/i-built-an-seo-tool-that-lied-to-me-so-i-rebuilt-it-1217)**
-  *<p><em>This is a submission for the <a href="https://dev.to/challenges/github-2026-05-21">GitHub Finish-Up-A-Thon Challenge</a>.</em></p>
-
-<h2>
+- **[I Still Have Nightmares About Our Server Melting Down on Launch Day Because of One Misconfigured Event Loop](https://dev.to/built-from-africa/i-still-have-nightmares-about-our-server-melting-down-on-launch-day-because-of-one-misconfigured-fin)**
+  *<h2>
   
   
-  What I Built
+  The Problem We Were Actually Solving
 </h2>
 
-<p><a href="https://github.c...*
-  📅 Mon, 01 Jun 2026 02:37:59 +0000
+<p>I was the lead systems engineer on a project to build a massive online treasure hunt platform, where thousands of users would be competing i...*
+  📅 Mon, 01 Jun 2026 11:06:40 +0000
+
+- **[Real Cost per Voice Call: $0.31 After 12 Months in Production](https://dev.to/isabelle_dubuis_d858453d7/real-cost-per-voice-call-031-after-12-months-in-production-ofn)**
+  *<p>When our client’s call volume spiked to 9,842 inbound calls in a single Friday night, the bill jumped from $3,200 to $17,850 within 24 hours – a $14,650 surprise that broke their runway — see our <...*
+  📅 Mon, 01 Jun 2026 11:06:27 +0000
 
 </details>
 
 ## 🔥 Trending Repositories
-
-### 📈 Daily Trending
-
-- **[HarborRanger/Autodesk-Civil-3D-Crack-2026](https://github.com/HarborRanger/Autodesk-Civil-3D-Crack-2026)** ⭐ 12
-  ![None](https://img.shields.io/badge/-None-lightgrey)
-  ⭐️ Autodesk Civil 3D 2026 | Download Full Version | Setup Installer v26 | Activation Keygen | License Key Pre-Activated | Latest Build Pro | Patch Mod | Get Premium Features | Civil Engineering Design Software for Windows 10/11 PC | Direct Genuine Original x64 ⭐️
-
-- **[Claspfluwrinkle/Capture-One-Pro-Crack](https://github.com/Claspfluwrinkle/Capture-One-Pro-Crack)** ⭐ 11
-  ![None](https://img.shields.io/badge/-None-lightgrey)
-  Software repository — parsed from GitHub.
-
-- **[Shadowunderpropagate/AdsPower-Business-Cracked](https://github.com/Shadowunderpropagate/AdsPower-Business-Cracked)** ⭐ 11
-  ![None](https://img.shields.io/badge/-None-lightgrey)
-  Organizes multiple account environments with profile-level configuration and access control.
-
-- **[Apparitionyamend/Disk-Drill-Pro-Cracked-2026](https://github.com/Apparitionyamend/Disk-Drill-Pro-Cracked-2026)** ⭐ 10
-  ![None](https://img.shields.io/badge/-None-lightgrey)
-  Recovers deleted files from internal drives and removable media with deep scan.
-
-- **[RapidsTigerMode/ChimeraTool-Crack](https://github.com/RapidsTigerMode/ChimeraTool-Crack)** ⭐ 10
-  ![None](https://img.shields.io/badge/-None-lightgrey)
-  Software repository — parsed from GitHub.
-
-- **[widthslayercloak/iTop-Data-Recovery-Pro-2026](https://github.com/widthslayercloak/iTop-Data-Recovery-Pro-2026)** ⭐ 10
-  ![None](https://img.shields.io/badge/-None-lightgrey)
-  ⭐️ iTop Data Recovery Pro 2026 | Full Version Installer v10.5 | Setup Activation Key | Pre-Activated License | Latest Build Pro Updated | Data Restore Software | Undelete Recovery Tool | Windows 11 PC | Easy File Retrieval | Restore Deleted Files | Direct Download Genuine Original ⭐️
-
-- **[GentleWainwright/Soundpad-Full-Crackeds-last](https://github.com/GentleWainwright/Soundpad-Full-Crackeds-last)** ⭐ 9
-  ![None](https://img.shields.io/badge/-None-lightgrey)
-  💡🎮 Soundpad 2026 - Professional soundboard software with hotkeys, voice changer, audio effects, microphone support and unlimited sound playback for streamers and gamers.
-
-- **[Crownofpassage/Remo-Repair-Cracked-2026](https://github.com/Crownofpassage/Remo-Repair-Cracked-2026)** ⭐ 9
-  ![None](https://img.shields.io/badge/-None-lightgrey)
-  Remo Repair fixes corrupted videos photos and documents on Windows and Mac.
-
-### 📈 Weekly Trending
-
-- **[pewdiepie-archdaemon/odysseus](https://github.com/pewdiepie-archdaemon/odysseus)** ⭐ 8,503
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
-  Self-hosted AI workspace. 
-
-- **[op7418/guizang-social-card-skill](https://github.com/op7418/guizang-social-card-skill)** ⭐ 2,094
-  ![HTML](https://img.shields.io/badge/-HTML-lightgrey)
-  🪧 Claude Code / Codex skill — generate Xiaohongshu carousels & WeChat 21:9+1:1 cover pairs. Editorial × Swiss visual systems, 28 layouts, 10 themes, single-file HTML → PNG. 小红书图文 + 公众号封面对
-
-- **[helloianneo/ian-xiaohei-illustrations](https://github.com/helloianneo/ian-xiaohei-illustrations)** ⭐ 1,455
-  ![None](https://img.shields.io/badge/-None-lightgrey)
-  中文小黑怪诞正文配图生成 Skill | 16:9 白底手绘 | 少量红橙蓝批注 | Codex Skill
-
-- **[GordenSun/GordenPPTSkill](https://github.com/GordenSun/GordenPPTSkill)** ⭐ 948
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  AI-friendly PPT builder skill: 17 hand-polished Chinese PPTX templates + non-destructive text-only editing tools (python-pptx based). Pick a template, write edits.json, build a real .pptx with the layout intact. Personal/research use only.
-
-- **[Sophomoresty/gemini-web2api](https://github.com/Sophomoresty/gemini-web2api)** ⭐ 913
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  Convert Google Gemini web into OpenAI-compatible API. Zero auth, cross-platform, single file.
-
-- **[MatinSenPai/SenPaiScanner](https://github.com/MatinSenPai/SenPaiScanner)** ⭐ 804
-  ![Go](https://img.shields.io/badge/-Go-cyan)
-  A light-weight scanner for Cloudflare IPs, written in Golang
-
-- **[withkynam/vibecode-pro-max-kit](https://github.com/withkynam/vibecode-pro-max-kit)** ⭐ 668
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
-  Your AI forgets. This remembers. Spec-driven coding harness for vibecoders, product owners, CEOs and real builders — self-improving context memory, 12 agents, 32 skills. Kills context rot, ships features, not spaghetti. Claude Code & Codex. Any stack. 30 seconds
-
-- **[Michaelliv/pi-dynamic-workflows](https://github.com/Michaelliv/pi-dynamic-workflows)** ⭐ 636
-  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
-  None
-
-### 📈 Monthly Trending
-
-- **[antirez/ds4](https://github.com/antirez/ds4)** ⭐ 12,631
-  ![C](https://img.shields.io/badge/-C-lightgrey)
-  DeepSeek 4 Flash local inference engine for Metal and CUDA
-
-- **[BigPizzaV3/CodexPlusPlus](https://github.com/BigPizzaV3/CodexPlusPlus)** ⭐ 9,679
-  ![Rust](https://img.shields.io/badge/-Rust-brown)
-  An enhanced tool for CodexApp, striving to make Codex better to use and more comfortable 一个CodexApp的增强工具，努力让Codex变得更好用更舒服
-
-- **[pewdiepie-archdaemon/odysseus](https://github.com/pewdiepie-archdaemon/odysseus)** ⭐ 8,503
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
-  Self-hosted AI workspace. 
-
-- **[FULU-Foundation/OrcaSlicer-bambulab](https://github.com/FULU-Foundation/OrcaSlicer-bambulab)** ⭐ 6,697
-  ![C++](https://img.shields.io/badge/-C++-pink)
-  None
-
-- **[nexu-io/html-anything](https://github.com/nexu-io/html-anything)** ⭐ 5,603
-  ![HTML](https://img.shields.io/badge/-HTML-lightgrey)
-  ✨ The agentic HTML editor — your local AI agent writes the HTML, you ship it. 🚀 75 Skills × 9 Surfaces (magazine · deck · poster · XHS / tweet · prototype · data report · Hyperframes) 🛡️ Sandboxed preview · 📤 1-click to WeChat / X / Zhihu / HTML / PNG 🔑 Zero API key — Claude Code / Cursor / Codex / Gemini / Copilot / OpenCode / Qwen / Aider.
-
-- **[V4bel/dirtyfrag](https://github.com/V4bel/dirtyfrag)** ⭐ 4,792
-  ![C](https://img.shields.io/badge/-C-lightgrey)
-  None
-
-- **[vercel-labs/zerolang](https://github.com/vercel-labs/zerolang)** ⭐ 4,764
-  ![C](https://img.shields.io/badge/-C-lightgrey)
-  The programming language for agents
-
-- **[vercel-labs/zero-native](https://github.com/vercel-labs/zero-native)** ⭐ 4,058
-  ![Zig](https://img.shields.io/badge/-Zig-lightgrey)
-  Build desktop + mobile apps with Zig and web UI
 
 ## 🚀 Latest Releases
 
@@ -497,30 +394,30 @@ See [kubernetes-announce@](https://groups.google.com/forum/#!forum/kubernetes-an
 
 | Skill | Status |
 |-------|--------|
-| Java | ⚪ Planned |
+| Java | 🟢 Proficient |
 | Python | 🟡 Learning |
 | JavaScript | 🟢 Proficient |
-| TypeScript | 🟡 Learning |
+| TypeScript | 🔴 Beginner |
 | Go | 🟡 Learning |
 
 ### Frameworks
 
 | Skill | Status |
 |-------|--------|
-| React | 🔴 Beginner |
-| Spring Boot | 🟡 Learning |
-| Django | 🟢 Proficient |
+| React | 🟡 Learning |
+| Spring Boot | 🔴 Beginner |
+| Django | 🟡 Learning |
 | Node.js | ⚪ Planned |
-| Next.js | 🟢 Proficient |
+| Next.js | 🟡 Learning |
 
 ### Cybersecurity
 
 | Skill | Status |
 |-------|--------|
-| Penetration Testing | ⚪ Planned |
+| Penetration Testing | 🟢 Proficient |
 | Web Security | 🔴 Beginner |
 | Network Security | ⚪ Planned |
-| OWASP | 🔴 Beginner |
+| OWASP | 🟢 Proficient |
 
 ### Ai Ml
 
@@ -529,27 +426,27 @@ See [kubernetes-announce@](https://groups.google.com/forum/#!forum/kubernetes-an
 | Machine Learning | ⚪ Planned |
 | Deep Learning | ⚪ Planned |
 | NLP | 🟢 Proficient |
-| Computer Vision | 🟡 Learning |
-| TensorFlow | 🟡 Learning |
-| PyTorch | ⚪ Planned |
+| Computer Vision | 🟢 Proficient |
+| TensorFlow | 🔴 Beginner |
+| PyTorch | 🔴 Beginner |
 
 ### Devops
 
 | Skill | Status |
 |-------|--------|
 | Docker | 🔴 Beginner |
-| Kubernetes | 🔴 Beginner |
+| Kubernetes | 🟢 Proficient |
 | CI/CD | 🔴 Beginner |
-| AWS | 🟢 Proficient |
-| Azure | 🔴 Beginner |
+| AWS | 🔴 Beginner |
+| Azure | ⚪ Planned |
 
 ### Other
 
 | Skill | Status |
 |-------|--------|
-| Blockchain | 🔴 Beginner |
-| Web3 | 🟡 Learning |
-| Cloud Computing | 🔴 Beginner |
+| Blockchain | ⚪ Planned |
+| Web3 | ⚪ Planned |
+| Cloud Computing | 🟢 Proficient |
 
 </details>
 
