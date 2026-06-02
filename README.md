@@ -46,75 +46,77 @@
 
 ### 📑 Hacker News
 
-- **[Americans don't know how to fight AI. So they're fighting data centers](https://www.vox.com/future-perfect/490350/data-center-moratoria-ai-backlash)**
-  *<p>Article URL: <a href="https://www.vox.com/future-perfect/490350/data-center-moratoria-ai-backlash">https://www.vox.com/future-perfect/490350/data-center-moratoria-ai-backlash</a></p>
-<p>Comments UR...*
-  📅 Tue, 02 Jun 2026 15:32:06 +0000
+- **[The advertising cartel coming to your web browser](https://blog.zgp.org/the-advertising-cartel-coming-to-your-web-browser/)**
+  *<p>Article URL: <a href="https://blog.zgp.org/the-advertising-cartel-coming-to-your-web-browser/">https://blog.zgp.org/the-advertising-cartel-coming-to-your-web-browser/</a></p>
+<p>Comments URL: <a hr...*
+  📅 Tue, 02 Jun 2026 19:39:25 +0000
 
-- **[Meta repeatedly snubs EU body over Facebook and Instagram user bans](https://www.bbc.com/news/articles/c152yvwjwkko)**
-  *<p>Article URL: <a href="https://www.bbc.com/news/articles/c152yvwjwkko">https://www.bbc.com/news/articles/c152yvwjwkko</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=48371224"...*
-  📅 Tue, 02 Jun 2026 15:03:43 +0000
+- **[Open Repair Data Standard – Open Repair Alliance](https://openrepair.org/open-data/open-standard/)**
+  *<p>Article URL: <a href="https://openrepair.org/open-data/open-standard/">https://openrepair.org/open-data/open-standard/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=4837515...*
+  📅 Tue, 02 Jun 2026 19:37:10 +0000
 
-- **[Preparing for KDE Plasma's Last X11-Supported Release](https://blog.davidedmundson.co.uk/blog/596/)**
-  *<p>Article URL: <a href="https://blog.davidedmundson.co.uk/blog/596/">https://blog.davidedmundson.co.uk/blog/596/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=48370588">https...*
-  📅 Tue, 02 Jun 2026 14:16:30 +0000
+- **[Gmail thinks I'm stupid, so I left](https://moddedbear.com/gmail-thinks-im-stupid-so-i-left)**
+  *<p>Article URL: <a href="https://moddedbear.com/gmail-thinks-im-stupid-so-i-left">https://moddedbear.com/gmail-thinks-im-stupid-so-i-left</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com...*
+  📅 Tue, 02 Jun 2026 19:27:40 +0000
 
-- **[Fidonet: Technology, Use, Tools, and History (1993)](https://www.fidonet.org/inet92_Randy_Bush.txt)**
-  *<p>Article URL: <a href="https://www.fidonet.org/inet92_Randy_Bush.txt">https://www.fidonet.org/inet92_Randy_Bush.txt</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=48370291">h...*
-  📅 Tue, 02 Jun 2026 13:53:52 +0000
+- **[HP re-releases classic computer science calculator: The HP-16C](https://hpcalcs.com/product/hp-16c-collectors-edition/)**
+  *<p>Article URL: <a href="https://hpcalcs.com/product/hp-16c-collectors-edition/">https://hpcalcs.com/product/hp-16c-collectors-edition/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/i...*
+  📅 Tue, 02 Jun 2026 19:02:40 +0000
 
-- **[A walking tour of surveillance infrastructure in Seattle](https://coveillance.org/a-walking-tour-of-surveillance-infrastructure-in-seattle/)**
-  *<p>Article URL: <a href="https://coveillance.org/a-walking-tour-of-surveillance-infrastructure-in-seattle/">https://coveillance.org/a-walking-tour-of-surveillance-infrastructure-in-seattle/</a></p>
-<p...*
-  📅 Tue, 02 Jun 2026 13:24:32 +0000
+- **[Launch HN: Rudus (YC P26) – AI for concrete contractors](https://news.ycombinator.com/item?id=48374528)**
+  *<p>Hi HN, we’re Rishi and Sahil. We’ve developed Rudus (<a href="https://www.rudus.ai/">https://www.rudus.ai/</a>), an AI-powered takeoff and estimation platform built for concrete subcontractors.<p>T...*
+  📅 Tue, 02 Jun 2026 18:51:09 +0000
 
-- **[Expanding Project Glasswing](https://www.anthropic.com/news/expanding-project-glasswing)**
-  *<p>Article URL: <a href="https://www.anthropic.com/news/expanding-project-glasswing">https://www.anthropic.com/news/expanding-project-glasswing</a></p>
-<p>Comments URL: <a href="https://news.ycombinat...*
-  📅 Tue, 02 Jun 2026 13:15:14 +0000
+- **[MAI-Code-1-Flash](https://microsoft.ai/news/introducingmai-code-1-flash/)**
+  *<p><a href="https://microsoft.ai/models/mai-code-1-flash/" rel="nofollow">https://microsoft.ai/models/mai-code-1-flash/</a><p><a href="https://microsoft.ai/pdf/MAI-Code-1-Flash-Model-Card.PDF" rel="no...*
+  📅 Tue, 02 Jun 2026 18:47:07 +0000
 
 ### 📑 TechCrunch
 
-- **[OpenAI launches new Codex tools for white-collar work](https://techcrunch.com/2026/06/02/openai-launches-new-codex-tools-for-white-collar-work/)**
-  *OpenAI is getting serious about courting enterprise users. On Tuesday, the AI lab released a new set of capabilities for Codex, meant to expand the agentic tool&#8217;s uses in the workplace. Together...*
-  📅 Tue, 02 Jun 2026 16:00:00 +0000
+- **[Cyberdecks are having a moment, rejecting big tech surveillance with style and substance](https://techcrunch.com/2026/06/02/cyberdeck-tiktok-trend-reject-big-tech/)**
+  *Over the last few months, these DIY hardware communities have exploded in popularity as people on social media show off their solar-powered game emulators, pocket-sized ereaders, and clamshell purse c...*
+  📅 Tue, 02 Jun 2026 20:20:00 +0000
 
-- **[Board, the new game startup from Mirror founder Brynn Putnam, raises $20M, has already sold thousands](https://techcrunch.com/2026/06/02/board-the-new-game-startup-from-mirror-founder-brynn-putnam-raises-20m-has-already-sold-thousands/)**
-  *Board, the startup building what it calls "together tech" designed to bring people into the same room, has closed a Series A led by Union Square Ventures....*
-  📅 Tue, 02 Jun 2026 15:56:08 +0000
+- **[Uber caps employee AI spending after blowing through budget in four months](https://techcrunch.com/2026/06/02/uber-caps-employee-ai-spending-after-blowing-through-budget-in-four-months/)**
+  *Uber's cutback has occurred after the company had reportedly encouraged staff to use AI as much as possible....*
+  📅 Tue, 02 Jun 2026 19:11:48 +0000
 
-- **[Password manager Dashlane says hackers stole some customers’ password vaults](https://techcrunch.com/2026/06/02/password-manager-dashlane-says-hackers-stole-some-customers-password-vaults/)**
-  *The password manager giant said hackers were able to 'brute-force' its two-factor system, allowing them to access customer accounts and download their password vaults....*
-  📅 Tue, 02 Jun 2026 15:40:11 +0000
+- **[New Microsoft tool lets devs spin up AI behavior tests using text descriptions](https://techcrunch.com/2026/06/02/new-microsoft-tool-lets-devs-spin-up-ai-behavior-tests-using-text-descriptions/)**
+  *Microsoft on Tuesday took the wraps off Adaptive Spec-driven Scoring for Evaluation and Regression Testing, an open source framework for spinning up AI evaluations....*
+  📅 Tue, 02 Jun 2026 19:02:21 +0000
 
-- **[Turning your purse into a cyberdeck is the most fun way to resist big tech](https://techcrunch.com/2026/06/02/turning-your-purse-into-a-cyberdeck-is-the-most-fun-way-to-resist-big-tech/)**
-  *The women building these over-the-top, bedazzled cyberdecks aren’t in it for the glitter alone. This trend is reaching its peak at a time when people feel powerless against big tech....*
-  📅 Tue, 02 Jun 2026 15:24:40 +0000
+- **[A startup, Everand, is now bundling e-books, audiobooks, and book clubs in challenge to Amazon](https://techcrunch.com/2026/06/02/a-startup-everand-is-now-bundling-ebooks-audiobooks-and-book-clubs-in-challenge-to-amazon/)**
+  *A new reading subscription from Everand offers access to both e-books and audiobooks, and Fable's book club community....*
+  📅 Tue, 02 Jun 2026 18:31:22 +0000
 
-- **[How Europe’s AI strategy diverges from Silicon Valley’s](https://techcrunch.com/2026/06/02/how-europes-ai-strategy-diverges-from-silicon-valleys/)**
-  *The global AI race is often framed as a battle between the United States and China. But at VivaTech, Europe is expected to make the case for an entirely different model....*
-  📅 Tue, 02 Jun 2026 15:05:00 +0000
+- **[Martin Scorsese becomes the latest — and most unlikely — Hollywood voice for AI](https://techcrunch.com/2026/06/02/martin-scorsese-becomes-the-latest-and-most-unlikely-hollywood-voice-for-ai/)**
+  *The caveat is that one of the world's most famous living directors is using the tech solely for storyboarding....*
+  📅 Tue, 02 Jun 2026 18:16:53 +0000
 
-- **[Meta tests ‘Series’ for episodic Reels on Instagram and Facebook](https://techcrunch.com/2026/06/02/meta-tests-series-for-episodic-reels-on-instagram-and-facebook/)**
-  *Meta told TechCrunch that it's considering ways to monetize the new feature, but didn't share specifics on what that could look like....*
-  📅 Tue, 02 Jun 2026 15:00:00 +0000
+- **[Microsoft launches Scout, an OpenClaw-inspired personal assistant](https://techcrunch.com/2026/06/02/microsoft-launches-scout-an-openclaw-inspired-personal-assistant/)**
+  *Launched at Build, Microsoft Scout is a new AI assistant meant to bring the power and flexibility of OpenClaw into the Microsoft 365 system....*
+  📅 Tue, 02 Jun 2026 18:02:44 +0000
 
 ### 📑 Dev.to
 
-- **[CodeRabbit Review 2026: Specialist PR Review, the $24/Month Question, and Who Should Actually Pay For It](https://dev.to/jovan_chan_9500711396d4e6/coderabbit-review-2026-specialist-pr-review-the-24month-question-and-who-should-actually-pay-5452)**
-  *<blockquote>
-<p>This article was originally published on <a href="https://aicoderscope.com/blog/coderabbit-review-2026/" rel="noopener noreferrer">aicoderscope.com</a></p>
-</blockquote>
+- **[5 Angular Features Developers Should Actually Pay Attention to in 2026](https://dev.to/niharikapujari/5-angular-features-developers-should-actually-pay-attention-to-in-2026-1735)**
+  *<h2>
+  
+  
+  Introduction
+</h2>
 
-<p>Most AI co...*
-  📅 Tue, 02 Jun 2026 15:55:35 +0000
+<p>Angular has changed a lot over the past few releases.</p>
 
-- **[O Paradoxo dos 70/30: A aceleração da IA aliada à experiência humana](https://dev.to/pachicodes/o-paradoxo-dos-7030-a-aceleracao-da-ia-aliada-a-experiencia-humana-3o8)**
-  *<p>Tenho aproveitado meu tempo sem trabalhar pra estudar, enfim a vida de quem trabalha com tecnologia né? E um dos meus maiores focos tem sido IA, seus usos, como ela entra e pode ser aplicada em áre...*
-  📅 Tue, 02 Jun 2026 15:55:18 +0000
+<p>Between Signals, standalone components, modern template syntax, and rendering improvements, Angular fe...*
+  📅 Tue, 02 Jun 2026 20:25:47 +0000
+
+- **[How I built a Go middleware for Stripe-style idempotency-key handling](https://dev.to/eben-vranken/how-i-built-a-go-middleware-for-stripe-style-idempotency-key-handling-4nlh)**
+  *<p>Retries in payment and order APIs are a classic footgun. Your client times out, retries the request, and you've just charged someone twice. The fix is idempotency-key handling, but getting it right...*
+  📅 Tue, 02 Jun 2026 20:22:00 +0000
 
 </details>
 
@@ -122,21 +124,25 @@
 
 ### 📈 Daily Trending
 
-- **[b-nnett/goose](https://github.com/b-nnett/goose)** ⭐ 320
+- **[b-nnett/goose](https://github.com/b-nnett/goose)** ⭐ 594
   ![Rust](https://img.shields.io/badge/-Rust-brown)
   Goose Swift proof-of-concept README
 
-- **[Ching0346mi7/Flash-USDT-Sender](https://github.com/Ching0346mi7/Flash-USDT-Sender)** ⭐ 95
+- **[Ching0346mi7/Flash-USDT-Sender](https://github.com/Ching0346mi7/Flash-USDT-Sender)** ⭐ 96
   ![Python](https://img.shields.io/badge/-Python-blue)
   Flash USDT Sender — Multi-network flash transaction tool for USDT, BTC, and ETH with configurable duration, custom gas settings, ERC-20/TRC-20/BEP-20 support, and block explorer-visible confirmations
-
-- **[001x1/Multi-Crypto-Flashing-Tool](https://github.com/001x1/Multi-Crypto-Flashing-Tool)** ⭐ 86
-  ![None](https://img.shields.io/badge/-None-lightgrey)
-  ✅ https://cryptoflasher.net ✅
 
 - **[CWS6206/secureboot-inspector](https://github.com/CWS6206/secureboot-inspector)** ⭐ 62
   ![C#](https://img.shields.io/badge/-C#-lightgrey)
   Mit diesem Tool kann geprüft werden, ob die neusten ScrureBoot-Zertifikate korrekt installiert sind.
+
+- **[torvalds/ScrollWheel](https://github.com/torvalds/ScrollWheel)** ⭐ 61
+  ![C](https://img.shields.io/badge/-C-lightgrey)
+  Minimalist RP2350 magnetic sensor scroll wheel toy project
+
+- **[sautrikroy17/DSA-Interview-Playbook](https://github.com/sautrikroy17/DSA-Interview-Playbook)** ⭐ 59
+  ![None](https://img.shields.io/badge/-None-lightgrey)
+  Crack any interview using this 80/20 DSA playbook
 
 - **[SpireCrabFoyer/Tarkov-Map-Tool](https://github.com/SpireCrabFoyer/Tarkov-Map-Tool)** ⭐ 51
   ![None](https://img.shields.io/badge/-None-lightgrey)
@@ -150,75 +156,71 @@
   ![None](https://img.shields.io/badge/-None-lightgrey)
   A universal tool designed for unlocking DLCs in Steam, Epic Games, Ubisoft and more
 
-- **[catduc/Exodus-Fake-Balance](https://github.com/catduc/Exodus-Fake-Balance)** ⭐ 49
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  Exodus Fake Balance — Native balance overlay tool for Exodus wallet with real-time spoofing across BTC, ETH, SOL, XRP and 200+ assets, persistent hooks, and screenshot-safe display rendering
-
 ### 📈 Weekly Trending
 
-- **[pewdiepie-archdaemon/odysseus](https://github.com/pewdiepie-archdaemon/odysseus)** ⭐ 28,302
+- **[pewdiepie-archdaemon/odysseus](https://github.com/pewdiepie-archdaemon/odysseus)** ⭐ 31,513
   ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
   Self-hosted AI workspace. 
 
-- **[op7418/guizang-social-card-skill](https://github.com/op7418/guizang-social-card-skill)** ⭐ 2,563
+- **[op7418/guizang-social-card-skill](https://github.com/op7418/guizang-social-card-skill)** ⭐ 2,577
   ![HTML](https://img.shields.io/badge/-HTML-lightgrey)
   🪧 Claude Code / Codex skill — generate Xiaohongshu carousels & WeChat 21:9+1:1 cover pairs. Editorial × Swiss visual systems, 28 layouts, 10 themes, single-file HTML → PNG. 小红书图文 + 公众号封面对
 
-- **[helloianneo/ian-xiaohei-illustrations](https://github.com/helloianneo/ian-xiaohei-illustrations)** ⭐ 1,723
+- **[helloianneo/ian-xiaohei-illustrations](https://github.com/helloianneo/ian-xiaohei-illustrations)** ⭐ 1,734
   ![None](https://img.shields.io/badge/-None-lightgrey)
   中文小黑怪诞正文配图生成 Skill | 16:9 白底手绘 | 少量红橙蓝批注 | Codex Skill
 
-- **[GordenSun/GordenPPTSkill](https://github.com/GordenSun/GordenPPTSkill)** ⭐ 1,539
+- **[GordenSun/GordenPPTSkill](https://github.com/GordenSun/GordenPPTSkill)** ⭐ 1,549
   ![Python](https://img.shields.io/badge/-Python-blue)
   AI-friendly PPT builder skill: 17 hand-polished Chinese PPTX templates + non-destructive text-only editing tools (python-pptx based). Pick a template, write edits.json, build a real .pptx with the layout intact. Personal/research use only.
 
-- **[Gloridust/WechatOnCloud](https://github.com/Gloridust/WechatOnCloud)** ⭐ 1,225
+- **[Gloridust/WechatOnCloud](https://github.com/Gloridust/WechatOnCloud)** ⭐ 1,298
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   云微WOC，云微信，自由连接
 
-- **[Sophomoresty/gemini-web2api](https://github.com/Sophomoresty/gemini-web2api)** ⭐ 1,218
+- **[Sophomoresty/gemini-web2api](https://github.com/Sophomoresty/gemini-web2api)** ⭐ 1,231
   ![Python](https://img.shields.io/badge/-Python-blue)
   Convert Google Gemini web into OpenAI-compatible API. Zero auth, cross-platform, single file.
 
-- **[asz798838958/aBaiAutoplus](https://github.com/asz798838958/aBaiAutoplus)** ⭐ 896
+- **[asz798838958/aBaiAutoplus](https://github.com/asz798838958/aBaiAutoplus)** ⭐ 962
   ![Python](https://img.shields.io/badge/-Python-blue)
   多平台 AI 账号自动注册与管理 · 协议化付款一键开通 ChatGPT Plus
 
-- **[MatinSenPai/SenPaiScanner](https://github.com/MatinSenPai/SenPaiScanner)** ⭐ 884
+- **[MatinSenPai/SenPaiScanner](https://github.com/MatinSenPai/SenPaiScanner)** ⭐ 897
   ![Go](https://img.shields.io/badge/-Go-cyan)
   A light-weight scanner for Cloudflare IPs, written in Golang
 
 ### 📈 Monthly Trending
 
-- **[pewdiepie-archdaemon/odysseus](https://github.com/pewdiepie-archdaemon/odysseus)** ⭐ 28,302
+- **[pewdiepie-archdaemon/odysseus](https://github.com/pewdiepie-archdaemon/odysseus)** ⭐ 31,514
   ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
   Self-hosted AI workspace. 
 
-- **[antirez/ds4](https://github.com/antirez/ds4)** ⭐ 12,780
+- **[antirez/ds4](https://github.com/antirez/ds4)** ⭐ 12,786
   ![C](https://img.shields.io/badge/-C-lightgrey)
   DeepSeek 4 Flash local inference engine for Metal and CUDA
 
-- **[BigPizzaV3/CodexPlusPlus](https://github.com/BigPizzaV3/CodexPlusPlus)** ⭐ 11,377
+- **[BigPizzaV3/CodexPlusPlus](https://github.com/BigPizzaV3/CodexPlusPlus)** ⭐ 11,414
   ![Rust](https://img.shields.io/badge/-Rust-brown)
   An enhanced tool for CodexApp, striving to make Codex better to use and more comfortable 一个CodexApp的增强工具，努力让Codex变得更好用更舒服
 
-- **[FULU-Foundation/OrcaSlicer-bambulab](https://github.com/FULU-Foundation/OrcaSlicer-bambulab)** ⭐ 6,740
+- **[FULU-Foundation/OrcaSlicer-bambulab](https://github.com/FULU-Foundation/OrcaSlicer-bambulab)** ⭐ 6,743
   ![C++](https://img.shields.io/badge/-C++-pink)
   None
 
-- **[nexu-io/html-anything](https://github.com/nexu-io/html-anything)** ⭐ 5,858
+- **[nexu-io/html-anything](https://github.com/nexu-io/html-anything)** ⭐ 5,874
   ![HTML](https://img.shields.io/badge/-HTML-lightgrey)
   ✨ The agentic HTML editor — your local AI agent writes the HTML, you ship it. 🚀 75 Skills × 9 Surfaces (magazine · deck · poster · XHS / tweet · prototype · data report · Hyperframes) 🛡️ Sandboxed preview · 📤 1-click to WeChat / X / Zhihu / HTML / PNG 🔑 Zero API key — Claude Code / Cursor / Codex / Gemini / Copilot / OpenCode / Qwen / Aider.
 
-- **[vercel-labs/zerolang](https://github.com/vercel-labs/zerolang)** ⭐ 4,804
+- **[vercel-labs/zerolang](https://github.com/vercel-labs/zerolang)** ⭐ 4,809
   ![C](https://img.shields.io/badge/-C-lightgrey)
   The programming language for agents
 
-- **[V4bel/dirtyfrag](https://github.com/V4bel/dirtyfrag)** ⭐ 4,804
+- **[V4bel/dirtyfrag](https://github.com/V4bel/dirtyfrag)** ⭐ 4,806
   ![C](https://img.shields.io/badge/-C-lightgrey)
   None
 
-- **[microsoft/SkillOpt](https://github.com/microsoft/SkillOpt)** ⭐ 4,399
+- **[microsoft/SkillOpt](https://github.com/microsoft/SkillOpt)** ⭐ 4,425
   ![Python](https://img.shields.io/badge/-Python-blue)
   SkillOpt is a text-space optimizer that trains reusable natural-language skills for frozen LLM agents through trajectory-driven edits, validation-gated updates, and deployable best_skill.md artifacts.
 
@@ -497,59 +499,59 @@ architectures, it has become apparent...
 
 | Skill | Status |
 |-------|--------|
-| Java | ⚪ Planned |
-| Python | 🟢 Proficient |
-| JavaScript | 🔴 Beginner |
-| TypeScript | 🟢 Proficient |
-| Go | 🟢 Proficient |
+| Java | 🔴 Beginner |
+| Python | 🟡 Learning |
+| JavaScript | 🟢 Proficient |
+| TypeScript | 🔴 Beginner |
+| Go | 🟡 Learning |
 
 ### Frameworks
 
 | Skill | Status |
 |-------|--------|
-| React | 🟢 Proficient |
-| Spring Boot | 🟡 Learning |
-| Django | 🔴 Beginner |
+| React | 🔴 Beginner |
+| Spring Boot | 🟢 Proficient |
+| Django | ⚪ Planned |
 | Node.js | 🟡 Learning |
-| Next.js | 🟡 Learning |
+| Next.js | 🔴 Beginner |
 
 ### Cybersecurity
 
 | Skill | Status |
 |-------|--------|
 | Penetration Testing | ⚪ Planned |
-| Web Security | ⚪ Planned |
-| Network Security | 🔴 Beginner |
-| OWASP | 🟡 Learning |
+| Web Security | 🟡 Learning |
+| Network Security | ⚪ Planned |
+| OWASP | 🔴 Beginner |
 
 ### Ai Ml
 
 | Skill | Status |
 |-------|--------|
-| Machine Learning | 🔴 Beginner |
-| Deep Learning | 🟡 Learning |
-| NLP | 🟢 Proficient |
-| Computer Vision | 🔴 Beginner |
-| TensorFlow | ⚪ Planned |
-| PyTorch | 🟢 Proficient |
+| Machine Learning | ⚪ Planned |
+| Deep Learning | 🟢 Proficient |
+| NLP | 🔴 Beginner |
+| Computer Vision | ⚪ Planned |
+| TensorFlow | 🟢 Proficient |
+| PyTorch | ⚪ Planned |
 
 ### Devops
 
 | Skill | Status |
 |-------|--------|
 | Docker | 🟢 Proficient |
-| Kubernetes | 🟡 Learning |
+| Kubernetes | ⚪ Planned |
 | CI/CD | 🟡 Learning |
-| AWS | 🔴 Beginner |
-| Azure | 🔴 Beginner |
+| AWS | 🟡 Learning |
+| Azure | ⚪ Planned |
 
 ### Other
 
 | Skill | Status |
 |-------|--------|
-| Blockchain | 🟢 Proficient |
+| Blockchain | 🔴 Beginner |
 | Web3 | 🟡 Learning |
-| Cloud Computing | 🟢 Proficient |
+| Cloud Computing | 🔴 Beginner |
 
 </details>
 
