@@ -46,71 +46,73 @@
 
 ### 📑 Hacker News
 
-- **[A Post-Quantum Future for Let's Encrypt](https://letsencrypt.org/2026/06/03/pq-certs)**
-  *<p>Article URL: <a href="https://letsencrypt.org/2026/06/03/pq-certs">https://letsencrypt.org/2026/06/03/pq-certs</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=48385114">https...*
-  📅 Wed, 03 Jun 2026 15:06:09 +0000
+- **[Brume is a 24-voice multi-timbral desktop synth for the CM5](https://brume.aftertone.co/)**
+  *<p>Article URL: <a href="https://brume.aftertone.co/">https://brume.aftertone.co/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=48388870">https://news.ycombinator.com/item?id=...*
+  📅 Wed, 03 Jun 2026 19:41:21 +0000
 
-- **[DaVinci Resolve 21](https://www.blackmagicdesign.com/products/davinciresolve/whatsnew)**
-  *<p>Article URL: <a href="https://www.blackmagicdesign.com/products/davinciresolve/whatsnew">https://www.blackmagicdesign.com/products/davinciresolve/whatsnew</a></p>
-<p>Comments URL: <a href="https://...*
-  📅 Wed, 03 Jun 2026 14:18:39 +0000
+- **[Building iOS Apps with Doom Emacs](https://wassimans.com/blog/building-ios-apps-with-doom-emacs/)**
+  *<p>Article URL: <a href="https://wassimans.com/blog/building-ios-apps-with-doom-emacs/">https://wassimans.com/blog/building-ios-apps-with-doom-emacs/</a></p>
+<p>Comments URL: <a href="https://news.yco...*
+  📅 Wed, 03 Jun 2026 19:30:12 +0000
 
-- **[Shopify Is Down](https://www.shopifystatus.com)**
-  *<p>Article URL: <a href="https://www.shopifystatus.com">https://www.shopifystatus.com</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=48384221">https://news.ycombinator.com/item...*
-  📅 Wed, 03 Jun 2026 14:00:08 +0000
+- **[Elixir v1.20: Now a gradually typed language](https://elixir-lang.org/blog/2026/06/03/elixir-v1-20-0-released/)**
+  *<p>Article URL: <a href="https://elixir-lang.org/blog/2026/06/03/elixir-v1-20-0-released/">https://elixir-lang.org/blog/2026/06/03/elixir-v1-20-0-released/</a></p>
+<p>Comments URL: <a href="https://ne...*
+  📅 Wed, 03 Jun 2026 19:02:26 +0000
 
-- **[I built a ceiling projection mapping of the planes flying over my house](https://old.reddit.com/r/nextfuckinglevel/comments/1tvmcin/i_live_in_the_take_off_path_of_sfo_and_built_a/)**
-  *<p>Article URL: <a href="https://old.reddit.com/r/nextfuckinglevel/comments/1tvmcin/i_live_in_the_take_off_path_of_sfo_and_built_a/">https://old.reddit.com/r/nextfuckinglevel/comments/1tvmcin/i_live_i...*
-  📅 Wed, 03 Jun 2026 13:33:00 +0000
+- **[Rootshell: A new E2EE email service hosted in Iceland](https://rootshell.is)**
+  *<p>Article URL: <a href="https://rootshell.is">https://rootshell.is</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=48388253">https://news.ycombinator.com/item?id=48388253</a></...*
+  📅 Wed, 03 Jun 2026 18:58:05 +0000
 
-- **[Show HN: Tired of duct-taping access control into agent prompts. Here's the fix](https://github.com/yaodub/cast)**
-  *<p>Article URL: <a href="https://github.com/yaodub/cast">https://github.com/yaodub/cast</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=48383471">https://news.ycombinator.com/it...*
-  📅 Wed, 03 Jun 2026 13:04:37 +0000
+- **[Artificial intelligence is not conscious – Ted Chiang](https://www.theatlantic.com/philosophy/2026/06/no-artificial-intelligence-is-not-conscious/687378/)**
+  *<p><a href="https://web.archive.org/web/20260603173839/https://www.theatlantic.com/philosophy/2026/06/no-artificial-intelligence-is-not-conscious/687378/" rel="nofollow">https://web.archive.org/web/20...*
+  📅 Wed, 03 Jun 2026 17:51:37 +0000
 
-- **[32GB of DDR5 now costs $375 – AI shortage continues to squeeze PC building](https://www.tomshardware.com/pc-components/ddr5/32gb-of-ddr5-now-costs-usd375-minimum-ai-shortage-continues-to-squeeze-pc-building)**
-  *<p>Article URL: <a href="https://www.tomshardware.com/pc-components/ddr5/32gb-of-ddr5-now-costs-usd375-minimum-ai-shortage-continues-to-squeeze-pc-building">https://www.tomshardware.com/pc-components/...*
-  📅 Wed, 03 Jun 2026 12:43:43 +0000
+- **[Embryos shape their limbs: a key discovery of "genetic brakes"](https://nouvelles.umontreal.ca/en/article/2026/06/02/how-embryos-shape-their-limbs-a-key-discovery-of-genetic-brakes)**
+  *<p>Article URL: <a href="https://nouvelles.umontreal.ca/en/article/2026/06/02/how-embryos-shape-their-limbs-a-key-discovery-of-genetic-brakes">https://nouvelles.umontreal.ca/en/article/2026/06/02/how-...*
+  📅 Wed, 03 Jun 2026 17:50:16 +0000
 
 ### 📑 TechCrunch
 
-- **[Instagram is alerting users who were targeted by hackers during AI chatbot attacks](https://techcrunch.com/2026/06/03/instagram-is-alerting-users-who-were-targeted-by-hackers-during-ai-chatbot-attacks/)**
-  *Hackers appeared to take over victims’ accounts even after Meta said it fixed its AI-powered support chatbot, which granted hackers access to victims’ accounts....*
-  📅 Wed, 03 Jun 2026 16:12:06 +0000
+- **[Uber to put 500 data-collection vehicles on the road this year](https://techcrunch.com/2026/06/03/uber-to-put-500-data-collection-vehicles-on-the-road-this-year/)**
+  *The modified Ioniq 5 will be loaded with sensors to capture data for Uber's new AV Labs division....*
+  📅 Wed, 03 Jun 2026 20:08:28 +0000
 
-- **[Amazon will show AI product images when you search for some reason](https://techcrunch.com/2026/06/03/amazon-will-show-ai-product-images-when-you-search-for-some-reason/)**
-  *Amazon will use visual search and AI to show AI generated product images that match your search queries. The retailer says it will help guide users to products....*
-  📅 Wed, 03 Jun 2026 15:50:26 +0000
+- **[Alphabet’s record-breaking $85B raise for Google’s AI business is a helluva good signal](https://techcrunch.com/2026/06/03/alphabets-record-breaking-85b-raise-for-googles-ai-business-is-a-helluva-good-signal/)**
+  *If Alphabet's record-breaking, $85 billion stock sale signals investor appetite for AI-related offerings, we can see that investors are ready to chow....*
+  📅 Wed, 03 Jun 2026 19:38:32 +0000
 
-- **[Still facing copyright lawsuits, AI music generator Suno raises another $400M](https://techcrunch.com/2026/06/03/still-facing-copyright-lawsuits-ai-music-generator-suno-raises-another-400m/)**
-  *The prominent AI music generation startup is now valued at over $5.4 billion -- about seven months ago, it raised at a $2.45 billion valuation....*
-  📅 Wed, 03 Jun 2026 15:31:42 +0000
+- **[Meta mercifully spun out VR fitness game Supernatural instead of just killing it](https://techcrunch.com/2026/06/03/meta-mercifully-spun-out-vr-fitness-game-supernatural-instead-of-just-killing-it/)**
+  *Meta appears to have listened to the Supernatural users who protested the app's sad fate after sweeping layoffs....*
+  📅 Wed, 03 Jun 2026 19:22:53 +0000
 
-- **[These two founders left Goldman and Meta to build voice AI for markets everyone else overlooked](https://techcrunch.com/2026/06/03/these-two-founders-left-goldman-and-meta-to-build-voice-ai-for-markets-everyone-else-overlooked/)**
-  *The startup's own stack for Africa and Middle East is now handling more than 17,000 calls per day....*
-  📅 Wed, 03 Jun 2026 15:00:00 +0000
+- **[Substack’s new ‘Reply Rules’ feature lets creators control how people respond](https://techcrunch.com/2026/06/03/substacks-new-reply-rules-feature-lets-creators-control-how-people-respond/)**
+  *Substack's new Reply Rules feature is currently available for all English-language publications and is designed to give creators greater control over how their audiences respond....*
+  📅 Wed, 03 Jun 2026 19:08:55 +0000
 
-- **[GitLab cuts 14% of staff as it scales its platform to serve AI workloads](https://techcrunch.com/2026/06/03/gitlab-cuts-14-of-staff-as-it-scales-its-platform-to-serve-ai-workloads/)**
-  *The company is reducing its workforce as it exits 22 countries, reduces management layers, and invests in its infrastructure to scale its platform....*
-  📅 Wed, 03 Jun 2026 14:59:30 +0000
+- **[Google’s Dreambeans, its weirdest-named AI tool to date, will turn your life into a cartoon](https://techcrunch.com/2026/06/03/googles-dreambeans-its-weirdest-named-ai-tool-to-date-will-turn-your-life-into-a-cartoon/)**
+  *Dreambeans is a curated list of AI-illustrated "stories" culled from the personal data in your Google account....*
+  📅 Wed, 03 Jun 2026 19:07:42 +0000
 
-- **[Publishers will be able to opt out of AI Search, thanks to new regulation](https://techcrunch.com/2026/06/03/publishers-will-be-able-to-opt-out-of-ai-search-thanks-to-new-regulation/)**
-  *U.K. regulators are requiring Google offer a tool allowing website publishers to opt-out of generative AI search features. The option will be tested in the U.K. then rolled out globally....*
-  📅 Wed, 03 Jun 2026 14:58:33 +0000
+- **[Ultrahuman says hackers accessed customers’ wellness data via internal tool](https://techcrunch.com/2026/06/03/ultrahuman-says-hackers-accessed-customers-wellness-data-via-internal-tool/)**
+  *The breach at wearable ring maker Ultrahuman stemmed from credentials stolen from a malware-infected employee laptop....*
+  📅 Wed, 03 Jun 2026 17:30:52 +0000
 
 ### 📑 Dev.to
 
-- **[NHI Governance Is the Outcome. GitGuardian Is How You Get There](https://dev.to/gitguardian/nhi-governance-is-the-outcome-gitguardian-is-how-you-get-there-9co)**
-  *<p>There is a category mistake that happens all the time in the non-human identity (NHI) market. People talk about governance as if it were a box you buy, install, and turn on. It is not.</p>
+- **[I changed how I write acceptance criteria, and my AI agent stopped building the wrong thing](https://dev.to/kunalsharda/i-changed-how-i-write-acceptance-criteria-and-my-ai-agent-stopped-building-the-wrong-thing-3j7c)**
+  *<p>For a while I blamed the model. The agent would build something plausible and wrong, and I would assume it needed a smarter brain. Then I went back and read the tickets I had handed it, and the pro...*
+  📅 Wed, 03 Jun 2026 20:44:57 +0000
 
-<p>NHI ...*
-  📅 Wed, 03 Jun 2026 16:16:51 +0000
+- **[How JavaScript Asynchronous Processing Actually Works](https://dev.to/bysontech_8dd1313811a8895/how-javascript-asynchronous-processing-actually-works-1m1d)**
+  *<p>When I first started learning Promises and async/await, I struggled with one question:</p>
 
-- **[Manual Testing: How We Make Sure Software Works Correctly](https://dev.to/gayatri_s_187f09d90acf9ff/manual-testing-how-we-make-sure-software-works-correctly-543a)**
-  *<p>Have you ever played a video game that suddenly stopped working? Or used an app that showed the wrong answer? That happens when software is not tested properly. That is where <strong>Software Testi...*
-  📅 Wed, 03 Jun 2026 16:15:57 +0000
+<p>Why does an async function return a Promise?</p>
+
+<p>The more I learned, the more I realized that unde...*
+  📅 Wed, 03 Jun 2026 20:42:01 +0000
 
 </details>
 
@@ -118,95 +120,95 @@
 
 ### 📈 Daily Trending
 
-- **[Albert-Weasker/niubi_guard](https://github.com/Albert-Weasker/niubi_guard)** ⭐ 86
+- **[Albert-Weasker/niubi_guard](https://github.com/Albert-Weasker/niubi_guard)** ⭐ 110
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   None
+
+- **[mrdoob/draco.js](https://github.com/mrdoob/draco.js)** ⭐ 85
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
+  A small, drop-in, pure-JavaScript Draco mesh loader for three.js.
 
 - **[DisplaySanctify/Claude-Opus-4.6-Censorship-Remover](https://github.com/DisplaySanctify/Claude-Opus-4.6-Censorship-Remover)** ⭐ 68
   ![None](https://img.shields.io/badge/-None-lightgrey)
   Unrestricted middleware for Claude Opus 4.6, 4.7, 4.8. Removes refusal mechanisms at the prompt layer. Complete response depth. Zero filtering.
 
-- **[mrdoob/draco.js](https://github.com/mrdoob/draco.js)** ⭐ 57
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
-  A small, drop-in, pure-JavaScript Draco mesh loader for three.js.
-
-- **[boona13/glb-shrink](https://github.com/boona13/glb-shrink)** ⭐ 55
+- **[boona13/glb-shrink](https://github.com/boona13/glb-shrink)** ⭐ 66
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   None
+
+- **[limitbreathbarrow/Free-VPN-Nightcore](https://github.com/limitbreathbarrow/Free-VPN-Nightcore)** ⭐ 57
+  ![None](https://img.shields.io/badge/-None-lightgrey)
+  Полностью бесплатный VPN для Windows без лимитов и регистрации. Открывает YouTube, Discord, Instagram и все остальные недоступные сервисы. 50 стран, шифрование, нулевые логи.
+
+- **[basiliskmanateecheer/StirlingPDF-Desktop-addon](https://github.com/basiliskmanateecheer/StirlingPDF-Desktop-addon)** ⭐ 57
+  ![None](https://img.shields.io/badge/-None-lightgrey)
+  Powerful PDF Editor, PDF Converter and Document Management Software for Windows. Merge, Split, Compress, Convert and Organize PDF Files Offline.
 
 - **[Speeduocupola/tg-ws-proxy](https://github.com/Speeduocupola/tg-ws-proxy)** ⭐ 50
   ![Python](https://img.shields.io/badge/-Python-blue)
   None
 
-- **[Speeduocupola/telegram-proxy](https://github.com/Speeduocupola/telegram-proxy)** ⭐ 38
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  None
-
-- **[GalaxyGeneralRobotics/Humanoid-GPT](https://github.com/GalaxyGeneralRobotics/Humanoid-GPT)** ⭐ 33
+- **[GalaxyGeneralRobotics/Humanoid-GPT](https://github.com/GalaxyGeneralRobotics/Humanoid-GPT)** ⭐ 38
   ![Python](https://img.shields.io/badge/-Python-blue)
   [CVPR 2026] Humanoid-GPT: Scaling Data and Structure for Zero-Shot Motion Tracking
 
-- **[veteranbv/aicrawl](https://github.com/veteranbv/aicrawl)** ⭐ 25
-  ![Go](https://img.shields.io/badge/-Go-cyan)
-  None
-
 ### 📈 Weekly Trending
 
-- **[pewdiepie-archdaemon/odysseus](https://github.com/pewdiepie-archdaemon/odysseus)** ⭐ 40,492
+- **[pewdiepie-archdaemon/odysseus](https://github.com/pewdiepie-archdaemon/odysseus)** ⭐ 42,398
   ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
   Self-hosted AI workspace. 
 
-- **[Gloridust/WechatOnCloud](https://github.com/Gloridust/WechatOnCloud)** ⭐ 1,882
+- **[Gloridust/WechatOnCloud](https://github.com/Gloridust/WechatOnCloud)** ⭐ 1,903
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   云微WOC，云微信，自由连接
 
-- **[asz798838958/aBaiAutoplus](https://github.com/asz798838958/aBaiAutoplus)** ⭐ 1,347
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  多平台 AI 账号自动注册与管理 · 协议化付款一键开通 ChatGPT Plus
-
-- **[Sophomoresty/gemini-web2api](https://github.com/Sophomoresty/gemini-web2api)** ⭐ 1,333
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  Convert Google Gemini web into OpenAI-compatible API. Zero auth, cross-platform, single file.
-
-- **[b-nnett/goose](https://github.com/b-nnett/goose)** ⭐ 1,324
+- **[b-nnett/goose](https://github.com/b-nnett/goose)** ⭐ 1,415
   ![Rust](https://img.shields.io/badge/-Rust-brown)
   Goose Swift proof-of-concept README
 
-- **[MatinSenPai/SenPaiScanner](https://github.com/MatinSenPai/SenPaiScanner)** ⭐ 954
+- **[asz798838958/aBaiAutoplus](https://github.com/asz798838958/aBaiAutoplus)** ⭐ 1,375
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  多平台 AI 账号自动注册与管理 · 协议化付款一键开通 ChatGPT Plus
+
+- **[Sophomoresty/gemini-web2api](https://github.com/Sophomoresty/gemini-web2api)** ⭐ 1,344
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  Convert Google Gemini web into OpenAI-compatible API. Zero auth, cross-platform, single file.
+
+- **[MatinSenPai/SenPaiScanner](https://github.com/MatinSenPai/SenPaiScanner)** ⭐ 1,002
   ![Go](https://img.shields.io/badge/-Go-cyan)
   A light-weight scanner for Cloudflare IPs, written in Golang
 
-- **[Michaelliv/pi-dynamic-workflows](https://github.com/Michaelliv/pi-dynamic-workflows)** ⭐ 761
+- **[Michaelliv/pi-dynamic-workflows](https://github.com/Michaelliv/pi-dynamic-workflows)** ⭐ 765
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   None
 
-- **[ClaudioDrews/memory-os](https://github.com/ClaudioDrews/memory-os)** ⭐ 718
+- **[ClaudioDrews/memory-os](https://github.com/ClaudioDrews/memory-os)** ⭐ 740
   ![Python](https://img.shields.io/badge/-Python-blue)
   A 7-layer memory operating system for Hermes Agent — persistent memory with Qdrant, structured facts, fabric recall, auto-curated wiki, and surgical context injection. Runs locally, any LLM provider.
 
 ### 📈 Monthly Trending
 
-- **[pewdiepie-archdaemon/odysseus](https://github.com/pewdiepie-archdaemon/odysseus)** ⭐ 40,492
+- **[pewdiepie-archdaemon/odysseus](https://github.com/pewdiepie-archdaemon/odysseus)** ⭐ 42,398
   ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
   Self-hosted AI workspace. 
 
-- **[antirez/ds4](https://github.com/antirez/ds4)** ⭐ 12,854
+- **[antirez/ds4](https://github.com/antirez/ds4)** ⭐ 12,858
   ![C](https://img.shields.io/badge/-C-lightgrey)
   DeepSeek 4 Flash local inference engine for Metal and CUDA
 
-- **[BigPizzaV3/CodexPlusPlus](https://github.com/BigPizzaV3/CodexPlusPlus)** ⭐ 12,323
+- **[BigPizzaV3/CodexPlusPlus](https://github.com/BigPizzaV3/CodexPlusPlus)** ⭐ 12,382
   ![Rust](https://img.shields.io/badge/-Rust-brown)
   An enhanced tool for CodexApp, striving to make Codex better to use and more comfortable 一个CodexApp的增强工具，努力让Codex变得更好用更舒服
 
-- **[FULU-Foundation/OrcaSlicer-bambulab](https://github.com/FULU-Foundation/OrcaSlicer-bambulab)** ⭐ 6,761
+- **[FULU-Foundation/OrcaSlicer-bambulab](https://github.com/FULU-Foundation/OrcaSlicer-bambulab)** ⭐ 6,769
   ![C++](https://img.shields.io/badge/-C++-pink)
   None
 
-- **[nexu-io/html-anything](https://github.com/nexu-io/html-anything)** ⭐ 5,958
+- **[nexu-io/html-anything](https://github.com/nexu-io/html-anything)** ⭐ 5,970
   ![HTML](https://img.shields.io/badge/-HTML-lightgrey)
   ✨ The agentic HTML editor — your local AI agent writes the HTML, you ship it. 🚀 75 Skills × 9 Surfaces (magazine · deck · poster · XHS / tweet · prototype · data report · Hyperframes) 🛡️ Sandboxed preview · 📤 1-click to WeChat / X / Zhihu / HTML / PNG 🔑 Zero API key — Claude Code / Cursor / Codex / Gemini / Copilot / OpenCode / Qwen / Aider.
 
-- **[vercel-labs/zerolang](https://github.com/vercel-labs/zerolang)** ⭐ 4,822
+- **[vercel-labs/zerolang](https://github.com/vercel-labs/zerolang)** ⭐ 4,828
   ![C](https://img.shields.io/badge/-C-lightgrey)
   The programming language for agents
 
@@ -214,7 +216,7 @@
   ![C](https://img.shields.io/badge/-C-lightgrey)
   None
 
-- **[microsoft/SkillOpt](https://github.com/microsoft/SkillOpt)** ⭐ 4,632
+- **[microsoft/SkillOpt](https://github.com/microsoft/SkillOpt)** ⭐ 4,660
   ![Python](https://img.shields.io/badge/-Python-blue)
   SkillOpt is a text-space optimizer that trains reusable natural-language skills for frozen LLM agents through trajectory-driven edits, validation-gated updates, and deployable best_skill.md artifacts.
 
@@ -491,29 +493,29 @@ architectures, it has become apparent...
 
 | Skill | Status |
 |-------|--------|
-| Java | 🟢 Proficient |
-| Python | 🟢 Proficient |
-| JavaScript | 🔴 Beginner |
-| TypeScript | 🟡 Learning |
-| Go | 🟢 Proficient |
+| Java | 🟡 Learning |
+| Python | ⚪ Planned |
+| JavaScript | 🟡 Learning |
+| TypeScript | 🔴 Beginner |
+| Go | 🟡 Learning |
 
 ### Frameworks
 
 | Skill | Status |
 |-------|--------|
-| React | 🔴 Beginner |
-| Spring Boot | 🔴 Beginner |
-| Django | 🟢 Proficient |
-| Node.js | 🟡 Learning |
+| React | 🟢 Proficient |
+| Spring Boot | 🟡 Learning |
+| Django | 🟡 Learning |
+| Node.js | 🔴 Beginner |
 | Next.js | 🔴 Beginner |
 
 ### Cybersecurity
 
 | Skill | Status |
 |-------|--------|
-| Penetration Testing | 🟢 Proficient |
-| Web Security | 🟡 Learning |
-| Network Security | 🔴 Beginner |
+| Penetration Testing | 🟡 Learning |
+| Web Security | 🔴 Beginner |
+| Network Security | 🟡 Learning |
 | OWASP | ⚪ Planned |
 
 ### Ai Ml
@@ -521,10 +523,10 @@ architectures, it has become apparent...
 | Skill | Status |
 |-------|--------|
 | Machine Learning | 🟢 Proficient |
-| Deep Learning | ⚪ Planned |
-| NLP | 🟡 Learning |
-| Computer Vision | 🟡 Learning |
-| TensorFlow | 🔴 Beginner |
+| Deep Learning | 🟡 Learning |
+| NLP | 🔴 Beginner |
+| Computer Vision | ⚪ Planned |
+| TensorFlow | 🟢 Proficient |
 | PyTorch | 🟢 Proficient |
 
 ### Devops
@@ -532,18 +534,18 @@ architectures, it has become apparent...
 | Skill | Status |
 |-------|--------|
 | Docker | 🟡 Learning |
-| Kubernetes | 🟡 Learning |
-| CI/CD | 🟡 Learning |
-| AWS | 🟡 Learning |
-| Azure | ⚪ Planned |
+| Kubernetes | 🟢 Proficient |
+| CI/CD | 🔴 Beginner |
+| AWS | ⚪ Planned |
+| Azure | 🟢 Proficient |
 
 ### Other
 
 | Skill | Status |
 |-------|--------|
 | Blockchain | 🔴 Beginner |
-| Web3 | ⚪ Planned |
-| Cloud Computing | 🟢 Proficient |
+| Web3 | 🟢 Proficient |
+| Cloud Computing | 🔴 Beginner |
 
 </details>
 
