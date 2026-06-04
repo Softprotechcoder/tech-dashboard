@@ -46,36 +46,40 @@
 
 ### 📑 Hacker News
 
+- **[UK media fails to disclose defence sector links in nearly 60% of cases](https://aoav.org.uk/2026/military-experts-or-arms-industry-insiders-uk-media-fails-to-disclose-defence-sector-links-in-nearly-60-of-cases/)**
+  *<p>Article URL: <a href="https://aoav.org.uk/2026/military-experts-or-arms-industry-insiders-uk-media-fails-to-disclose-defence-sector-links-in-nearly-60-of-cases/">https://aoav.org.uk/2026/military-e...*
+  📅 Thu, 04 Jun 2026 08:45:36 +0000
+
 - **[I built a vulnerable app and spent $1,500 seeing if LLMs could hack it](https://kasra.blog/blog/i-spent-1500-seeing-if-llms-could-hack-my-app/)**
   *<p>Article URL: <a href="https://kasra.blog/blog/i-spent-1500-seeing-if-llms-could-hack-my-app/">https://kasra.blog/blog/i-spent-1500-seeing-if-llms-could-hack-my-app/</a></p>
 <p>Comments URL: <a href...*
   📅 Thu, 04 Jun 2026 00:56:32 +0000
 
-- **[U.S. to Dismantle System Tracking Atlantic Currents That Are at Risk of Collapse](https://e360.yale.edu/digest/trump-ooi-amoc)**
+- **[U.S. to dismantle system tracking Atlantic currents that are at risk of collapse](https://e360.yale.edu/digest/trump-ooi-amoc)**
   *<p>Article URL: <a href="https://e360.yale.edu/digest/trump-ooi-amoc">https://e360.yale.edu/digest/trump-ooi-amoc</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=48392232">https...*
   📅 Thu, 04 Jun 2026 00:44:13 +0000
+
+- **[Dumbphone 2](https://dumb.co/)**
+  *<p>Article URL: <a href="https://dumb.co/">https://dumb.co/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=48392203">https://news.ycombinator.com/item?id=48392203</a></p>
+<p>Po...*
+  📅 Thu, 04 Jun 2026 00:41:09 +0000
 
 - **[The ways we contain Claude across products](https://www.anthropic.com/engineering/how-we-contain-claude)**
   *<p>Article URL: <a href="https://www.anthropic.com/engineering/how-we-contain-claude">https://www.anthropic.com/engineering/how-we-contain-claude</a></p>
 <p>Comments URL: <a href="https://news.ycombin...*
   📅 Thu, 04 Jun 2026 00:27:52 +0000
 
-- **[The Ü Programming Language](https://github.com/Panzerschrek/U-00DC-Sprache/)**
-  *<p>Article URL: <a href="https://github.com/Panzerschrek/U-00DC-Sprache/">https://github.com/Panzerschrek/U-00DC-Sprache/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=4839183...*
-  📅 Thu, 04 Jun 2026 00:00:04 +0000
-
-- **["They're made out of weights"](https://maxleiter.com/blog/weights)**
-  *<p>Article URL: <a href="https://maxleiter.com/blog/weights">https://maxleiter.com/blog/weights</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=48391611">https://news.ycombinato...*
-  📅 Wed, 03 Jun 2026 23:37:18 +0000
-
-- **[Journey to JPEG XL: open-source experiments shaped the future of image coding](https://opensource.googleblog.com/2026/06/journey-to-jpeg-xl-how-open-source-experiments-shaped-the-future-of-image-coding.html)**
-  *<p>Article URL: <a href="https://opensource.googleblog.com/2026/06/journey-to-jpeg-xl-how-open-source-experiments-shaped-the-future-of-image-coding.html">https://opensource.googleblog.com/2026/06/jour...*
-  📅 Wed, 03 Jun 2026 21:55:23 +0000
+- **[Failing grades soar with AI usage, dwindling math skills in Berkeley CS classes](https://www.dailycal.org/news/campus/academics/failing-grades-soar-as-professors-see-greater-ai-usage-dwindling-math-skills-in-uc-berkeley/article_16fad0bf-02cb-4b8c-8d88-888ffd9f8608.html)**
+  *<p>Article URL: <a href="https://www.dailycal.org/news/campus/academics/failing-grades-soar-as-professors-see-greater-ai-usage-dwindling-math-skills-in-uc-berkeley/article_16fad0bf-02cb-4b8c-8d88-888f...*
+  📅 Thu, 04 Jun 2026 00:18:02 +0000
 
 ### 📑 TechCrunch
+
+- **[Benchmark raises its first-ever growth fund as part of $2B capital raise](https://techcrunch.com/2026/06/03/benchmark-raises-its-first-ever-growth-fund-as-part-of-2b-capital-raise/)**
+  *The legendary abandons its more than 20 year tradition of keeping its funds to about $425 million....*
+  📅 Thu, 04 Jun 2026 03:52:15 +0000
 
 - **[Quick commerce FirstClub doubles valuation to $255M in nine months](https://techcrunch.com/2026/06/03/firstclub-doubles-valuation-to-255m-in-nine-months-on-quality-first-grocery-bet/)**
   *The Bengaluru startup has crossed 1 million orders and reached a $50 million annualized GMV run rate within a year of launch....*
@@ -97,21 +101,20 @@
   *If Alphabet's record-breaking $85 billion stock sale signals investor appetite for AI-related offerings, we can see that investors are ready to chow....*
   📅 Wed, 03 Jun 2026 19:38:32 +0000
 
-- **[Meta mercifully spun out VR fitness game Supernatural instead of just killing it](https://techcrunch.com/2026/06/03/meta-mercifully-spun-out-vr-fitness-game-supernatural-instead-of-just-killing-it/)**
-  *Meta appears to have listened to the Supernatural users who protested the app's sad fate after sweeping layoffs....*
-  📅 Wed, 03 Jun 2026 19:22:53 +0000
-
 ### 📑 Dev.to
 
-- **[Why I built a free, offline pet weight tracker (no account, kg/lb, runs on your phone)](https://dev.to/kunstudio/why-i-built-a-free-offline-pet-weight-tracker-no-account-kglb-runs-on-your-phone-4448)**
-  *<p>A 0.3 kg drop in a cat looks like nothing on a sticky note. Spread across three months, it can be the first measurable sign that something is wrong — long before appetite or behavior visibly change...*
-  📅 Thu, 04 Jun 2026 02:39:26 +0000
+- **[How to Build a Browser Tool and Sell It on Gumroad — A Complete Guide](https://dev.to/xueboyang1985/how-to-build-a-browser-tool-and-sell-it-on-gumroad-a-complete-guide-h2o)**
+  *<p>I built 24 browser-based tools. Here is the complete technical guide for building your own and selling PRO licenses on Gumroad.</p>
 
-- **[Why I Built an Open-Source Online Judge Instead of Maintaining a Legacy One](https://dev.to/werlang/why-i-built-an-open-source-online-judge-instead-of-maintaining-a-legacy-one-51gh)**
-  *<p>For years, IFSul – Campus Charqueadas, a federal institute in southern Brazil, has hosted programming marathons for both high school and undergraduate students.</p>
+<h2>
+  
+  
+  Architecture: One HTML File + GitHub Pages + Gumroa...*
+  📅 Thu, 04 Jun 2026 09:37:32 +0000
 
-<p>Like many educational instit...*
-  📅 Thu, 04 Jun 2026 02:33:44 +0000
+- **[ISP Proxy vs Residential Proxy: What Actually Matters for Web Scraping?](https://dev.to/9proxy/isp-proxy-vs-residential-proxy-what-actually-matters-for-web-scraping-186n)**
+  *<p>I once spent nearly a week trying to fix a web scraper that, on paper, had absolutely no reason to fail. The target website wasn't using aggressive, visible defense walls. My script spaced out requ...*
+  📅 Thu, 04 Jun 2026 09:37:22 +0000
 
 </details>
 
@@ -119,103 +122,103 @@
 
 ### 📈 Daily Trending
 
-- **[GhoulPikemanVolt/TechSmith-Snagit-crack](https://github.com/GhoulPikemanVolt/TechSmith-Snagit-crack)** ⭐ 12
-  ![None](https://img.shields.io/badge/-None-lightgrey)
-  TechSmith Snagit - Advanced screen capture and recording software for quick communication. Comprehensive guide with setup instructions, feature highlights.
+- **[Jasionf/smart-home-button](https://github.com/Jasionf/smart-home-button)** ⭐ 42
+  ![C++](https://img.shields.io/badge/-C++-pink)
+  None
 
-- **[ZettaSnailStar/autodesk-revit-crack](https://github.com/ZettaSnailStar/autodesk-revit-crack)** ⭐ 11
-  ![None](https://img.shields.io/badge/-None-lightgrey)
-  Autodesk Revit - Building Information Modeling (BIM) software for architectural design. Comprehensive guide with setup instructions, feature highlights.
+- **[boona13/sprite-lab](https://github.com/boona13/sprite-lab)** ⭐ 36
+  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
+  None
 
-- **[Nightbinpath/exitlag-crack](https://github.com/Nightbinpath/exitlag-crack)** ⭐ 10
-  ![None](https://img.shields.io/badge/-None-lightgrey)
-  Exitlag - Gaming VPN to reduce latency, ping, and packet loss for optimal performance. Comprehensive guide with setup instructions, feature highlights.
+- **[Gojaehyeon/took](https://github.com/Gojaehyeon/took)** ⭐ 33
+  ![Swift](https://img.shields.io/badge/-Swift-lightgrey)
+  단축어로 받은 할 일을 잠금화면 Live Activity·위젯에 큼직하게 띄우고 바로 체크하는 iOS 투두 앱
 
-- **[SmashGeninFilter48/lumion-crack](https://github.com/SmashGeninFilter48/lumion-crack)** ⭐ 10
+- **[helloianneo/ian-xiaohei-scenes](https://github.com/helloianneo/ian-xiaohei-scenes)** ⭐ 22
   ![None](https://img.shields.io/badge/-None-lightgrey)
-  Lumion - Fast 3D rendering software for architectural visualization. Comprehensive guide with setup instructions, feature highlights.
+  Xiaohei 2.0 Codex Skill for Chinese real-object article illustrations and long-scroll story images
 
-- **[magmaagentstare/Internet-Manager-Download-crack](https://github.com/magmaagentstare/Internet-Manager-Download-crack)** ⭐ 9
+- **[ApprenticeTrek55/4k-video-downloader-crack](https://github.com/ApprenticeTrek55/4k-video-downloader-crack)** ⭐ 18
+  ![None](https://img.shields.io/badge/-None-lightgrey)
+  None
+
+- **[lxxgg92/xianxin-design-workflow](https://github.com/lxxgg92/xianxin-design-workflow)** ⭐ 18
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
+  A complete AI-powered workflow for UI/UX designers, from design systems to final delivery.
+
+- **[magmaagentstare/Internet-Manager-Download-crack](https://github.com/magmaagentstare/Internet-Manager-Download-crack)** ⭐ 17
   ![None](https://img.shields.io/badge/-None-lightgrey)
   Internet Manager Download - High-speed download accelerator and file management utility. Comprehensive guide with setup instructions, feature highlights.
 
-- **[SandstoneAlbatross/Supremo-REMOTE-DESKTOP-crack](https://github.com/SandstoneAlbatross/Supremo-REMOTE-DESKTOP-crack)** ⭐ 9
+- **[ZettaSnailStar/autodesk-revit-crack](https://github.com/ZettaSnailStar/autodesk-revit-crack)** ⭐ 17
   ![None](https://img.shields.io/badge/-None-lightgrey)
-  Supremo REMOTE DESKTOP - Secure remote desktop access and control software. Comprehensive guide with setup instructions, feature highlights.
-
-- **[MonitorHeat54/FL-Studio-21-crack](https://github.com/MonitorHeat54/FL-Studio-21-crack)** ⭐ 9
-  ![None](https://img.shields.io/badge/-None-lightgrey)
-  FL Studio 21 - Complete software music production environment and digital audio workstation. Comprehensive guide with setup instructions, feature highlights.
-
-- **[Teamcherope68/Affinity-Designer-2-crack](https://github.com/Teamcherope68/Affinity-Designer-2-crack)** ⭐ 9
-  ![None](https://img.shields.io/badge/-None-lightgrey)
-  Affinity Designer 2 - Award-winning vector graphics software for UI design and illustrations. Comprehensive guide with setup instructions, feature highlights.
+  Autodesk Revit - Building Information Modeling (BIM) software for architectural design. Comprehensive guide with setup instructions, feature highlights.
 
 ### 📈 Weekly Trending
 
-- **[pewdiepie-archdaemon/odysseus](https://github.com/pewdiepie-archdaemon/odysseus)** ⭐ 44,272
+- **[pewdiepie-archdaemon/odysseus](https://github.com/pewdiepie-archdaemon/odysseus)** ⭐ 46,993
   ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
   Self-hosted AI workspace. 
 
-- **[Gloridust/WechatOnCloud](https://github.com/Gloridust/WechatOnCloud)** ⭐ 1,953
+- **[Gloridust/WechatOnCloud](https://github.com/Gloridust/WechatOnCloud)** ⭐ 2,015
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   云微WOC，云微信，自由连接
 
-- **[b-nnett/goose](https://github.com/b-nnett/goose)** ⭐ 1,476
-  ![Rust](https://img.shields.io/badge/-Rust-brown)
-  Goose Swift proof-of-concept README
-
-- **[asz798838958/aBaiAutoplus](https://github.com/asz798838958/aBaiAutoplus)** ⭐ 1,403
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  多平台 AI 账号自动注册与管理 · 协议化付款一键开通 ChatGPT Plus
-
-- **[zgwl/chinese-buy-us-stock-guide](https://github.com/zgwl/chinese-buy-us-stock-guide)** ⭐ 1,227
+- **[zgwl/chinese-buy-us-stock-guide](https://github.com/zgwl/chinese-buy-us-stock-guide)** ⭐ 2,012
   ![None](https://img.shields.io/badge/-None-lightgrey)
   美股指南
 
-- **[cpaczek/skylight](https://github.com/cpaczek/skylight)** ⭐ 822
+- **[b-nnett/goose](https://github.com/b-nnett/goose)** ⭐ 1,536
+  ![Rust](https://img.shields.io/badge/-Rust-brown)
+  Goose Swift proof-of-concept README
+
+- **[asz798838958/aBaiAutoplus](https://github.com/asz798838958/aBaiAutoplus)** ⭐ 1,443
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  多平台 AI 账号自动注册与管理 · 协议化付款一键开通 ChatGPT Plus
+
+- **[cpaczek/skylight](https://github.com/cpaczek/skylight)** ⭐ 976
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   Project the aircraft passing overhead onto your ceiling in real time, from an RTL-SDR — with a live sky layer (sun, moon, stars, ISS) and where each plane is headed.
 
-- **[ClaudioDrews/memory-os](https://github.com/ClaudioDrews/memory-os)** ⭐ 762
+- **[ClaudioDrews/memory-os](https://github.com/ClaudioDrews/memory-os)** ⭐ 782
   ![Python](https://img.shields.io/badge/-Python-blue)
   A 7-layer memory operating system for Hermes Agent — persistent memory with Qdrant, structured facts, fabric recall, auto-curated wiki, and surgical context injection. Runs locally, any LLM provider.
 
-- **[SenhorH/tab-labeler](https://github.com/SenhorH/tab-labeler)** ⭐ 561
+- **[SenhorH/tab-labeler](https://github.com/SenhorH/tab-labeler)** ⭐ 548
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   Rename browser tabs locally and bring order to chaotic sessions.
 
 ### 📈 Monthly Trending
 
-- **[pewdiepie-archdaemon/odysseus](https://github.com/pewdiepie-archdaemon/odysseus)** ⭐ 44,272
+- **[pewdiepie-archdaemon/odysseus](https://github.com/pewdiepie-archdaemon/odysseus)** ⭐ 46,993
   ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
   Self-hosted AI workspace. 
 
-- **[antirez/ds4](https://github.com/antirez/ds4)** ⭐ 12,875
-  ![C](https://img.shields.io/badge/-C-lightgrey)
-  DeepSeek 4 Flash local inference engine for Metal and CUDA
-
-- **[BigPizzaV3/CodexPlusPlus](https://github.com/BigPizzaV3/CodexPlusPlus)** ⭐ 12,564
+- **[BigPizzaV3/CodexPlusPlus](https://github.com/BigPizzaV3/CodexPlusPlus)** ⭐ 12,943
   ![Rust](https://img.shields.io/badge/-Rust-brown)
   An enhanced tool for CodexApp, striving to make Codex better to use and more comfortable 一个CodexApp的增强工具，努力让Codex变得更好用更舒服
 
-- **[FULU-Foundation/OrcaSlicer-bambulab](https://github.com/FULU-Foundation/OrcaSlicer-bambulab)** ⭐ 6,775
+- **[antirez/ds4](https://github.com/antirez/ds4)** ⭐ 12,903
+  ![C](https://img.shields.io/badge/-C-lightgrey)
+  DeepSeek 4 Flash local inference engine for Metal and CUDA
+
+- **[FULU-Foundation/OrcaSlicer-bambulab](https://github.com/FULU-Foundation/OrcaSlicer-bambulab)** ⭐ 6,777
   ![C++](https://img.shields.io/badge/-C++-pink)
   None
 
-- **[nexu-io/html-anything](https://github.com/nexu-io/html-anything)** ⭐ 5,990
+- **[nexu-io/html-anything](https://github.com/nexu-io/html-anything)** ⭐ 6,008
   ![HTML](https://img.shields.io/badge/-HTML-lightgrey)
   ✨ The agentic HTML editor — your local AI agent writes the HTML, you ship it. 🚀 75 Skills × 9 Surfaces (magazine · deck · poster · XHS / tweet · prototype · data report · Hyperframes) 🛡️ Sandboxed preview · 📤 1-click to WeChat / X / Zhihu / HTML / PNG 🔑 Zero API key — Claude Code / Cursor / Codex / Gemini / Copilot / OpenCode / Qwen / Aider.
 
-- **[vercel-labs/zerolang](https://github.com/vercel-labs/zerolang)** ⭐ 4,838
+- **[vercel-labs/zerolang](https://github.com/vercel-labs/zerolang)** ⭐ 4,849
   ![C](https://img.shields.io/badge/-C-lightgrey)
   The programming language for agents
 
-- **[V4bel/dirtyfrag](https://github.com/V4bel/dirtyfrag)** ⭐ 4,813
+- **[V4bel/dirtyfrag](https://github.com/V4bel/dirtyfrag)** ⭐ 4,815
   ![C](https://img.shields.io/badge/-C-lightgrey)
   None
 
-- **[microsoft/SkillOpt](https://github.com/microsoft/SkillOpt)** ⭐ 4,703
+- **[microsoft/SkillOpt](https://github.com/microsoft/SkillOpt)** ⭐ 4,802
   ![Python](https://img.shields.io/badge/-Python-blue)
   SkillOpt is a text-space optimizer that trains reusable natural-language skills for frozen LLM agents through trajectory-driven edits, validation-gated updates, and deployable best_skill.md artifacts.
 
@@ -492,19 +495,19 @@ architectures, it has become apparent...
 
 | Skill | Status |
 |-------|--------|
-| Java | 🟡 Learning |
-| Python | ⚪ Planned |
-| JavaScript | ⚪ Planned |
+| Java | ⚪ Planned |
+| Python | 🟢 Proficient |
+| JavaScript | 🟢 Proficient |
 | TypeScript | 🔴 Beginner |
-| Go | 🟢 Proficient |
+| Go | 🟡 Learning |
 
 ### Frameworks
 
 | Skill | Status |
 |-------|--------|
-| React | 🟢 Proficient |
+| React | 🔴 Beginner |
 | Spring Boot | 🟢 Proficient |
-| Django | ⚪ Planned |
+| Django | 🟡 Learning |
 | Node.js | 🟢 Proficient |
 | Next.js | 🔴 Beginner |
 
@@ -513,30 +516,30 @@ architectures, it has become apparent...
 | Skill | Status |
 |-------|--------|
 | Penetration Testing | 🟢 Proficient |
-| Web Security | 🟢 Proficient |
-| Network Security | 🟡 Learning |
-| OWASP | ⚪ Planned |
+| Web Security | 🔴 Beginner |
+| Network Security | 🟢 Proficient |
+| OWASP | 🔴 Beginner |
 
 ### Ai Ml
 
 | Skill | Status |
 |-------|--------|
-| Machine Learning | ⚪ Planned |
-| Deep Learning | ⚪ Planned |
-| NLP | ⚪ Planned |
-| Computer Vision | ⚪ Planned |
-| TensorFlow | 🟡 Learning |
+| Machine Learning | 🟡 Learning |
+| Deep Learning | 🟢 Proficient |
+| NLP | 🟡 Learning |
+| Computer Vision | 🟡 Learning |
+| TensorFlow | 🔴 Beginner |
 | PyTorch | ⚪ Planned |
 
 ### Devops
 
 | Skill | Status |
 |-------|--------|
-| Docker | ⚪ Planned |
-| Kubernetes | ⚪ Planned |
-| CI/CD | ⚪ Planned |
-| AWS | 🟡 Learning |
-| Azure | 🔴 Beginner |
+| Docker | 🟡 Learning |
+| Kubernetes | 🟢 Proficient |
+| CI/CD | 🟡 Learning |
+| AWS | ⚪ Planned |
+| Azure | 🟡 Learning |
 
 ### Other
 
@@ -544,7 +547,7 @@ architectures, it has become apparent...
 |-------|--------|
 | Blockchain | ⚪ Planned |
 | Web3 | ⚪ Planned |
-| Cloud Computing | 🟢 Proficient |
+| Cloud Computing | 🔴 Beginner |
 
 </details>
 
