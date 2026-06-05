@@ -46,35 +46,40 @@
 
 ### 📑 Hacker News
 
-- **[Meta enables adb on deprecated Portal devices](https://fb.watch/HxPu0fSyeH/)**
-  *<p>Article URL: <a href="https://fb.watch/HxPu0fSyeH/">https://fb.watch/HxPu0fSyeH/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=48406640">https://news.ycombinator.com/item?i...*
-  📅 Fri, 05 Jun 2026 00:44:38 +0000
+- **[Entanglement Builds Space-Time. Now "Magic" Gives It Gravity](https://www.quantamagazine.org/entanglement-builds-space-time-now-magic-gives-it-gravity-20260603/)**
+  *<p>Article URL: <a href="https://www.quantamagazine.org/entanglement-builds-space-time-now-magic-gives-it-gravity-20260603/">https://www.quantamagazine.org/entanglement-builds-space-time-now-magic-giv...*
+  📅 Fri, 05 Jun 2026 08:33:37 +0000
 
-- **[Open Code Review – An AI-powered code review CLI tool](https://github.com/alibaba/open-code-review)**
-  *<p>Article URL: <a href="https://github.com/alibaba/open-code-review">https://github.com/alibaba/open-code-review</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=48406358">https...*
-  📅 Fri, 05 Jun 2026 00:04:29 +0000
+- **[Tracing a powerful GNSS interference source over Europe](https://arxiv.org/abs/2606.03673)**
+  *<p>Article URL: <a href="https://arxiv.org/abs/2606.03673">https://arxiv.org/abs/2606.03673</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=48409664">https://news.ycombinator.co...*
+  📅 Fri, 05 Jun 2026 08:32:16 +0000
 
-- **[South Korean Forums Will Need to Scan Every Images with AI Censorship Tools](https://discuss.privacyguides.net/t/south-korean-online-communities-will-need-to-scan-every-images-with-ai-censorship-tools/38341)**
-  *<p>Article URL: <a href="https://discuss.privacyguides.net/t/south-korean-online-communities-will-need-to-scan-every-images-with-ai-censorship-tools/38341">https://discuss.privacyguides.net/t/south-ko...*
-  📅 Thu, 04 Jun 2026 23:45:56 +0000
+- **[ESP32 Bit Pirate, a Hardware Hacking Tool with WebCLI That Speaks Every Protocol](https://github.com/geo-tp/ESP32-Bit-Pirate)**
+  *<p>Article URL: <a href="https://github.com/geo-tp/ESP32-Bit-Pirate">https://github.com/geo-tp/ESP32-Bit-Pirate</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=48409306">https:/...*
+  📅 Fri, 05 Jun 2026 07:40:04 +0000
 
-- **[Do transformers need three projections? Systematic study of QKV variants](https://arxiv.org/abs/2606.04032)**
-  *<p>Article URL: <a href="https://arxiv.org/abs/2606.04032">https://arxiv.org/abs/2606.04032</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=48405931">https://news.ycombinator.co...*
-  📅 Thu, 04 Jun 2026 23:11:56 +0000
+- **[Changing How We Develop Ladybird](https://ladybird.org/posts/changing-how-we-develop-ladybird/)**
+  *<p>Article URL: <a href="https://ladybird.org/posts/changing-how-we-develop-ladybird/">https://ladybird.org/posts/changing-how-we-develop-ladybird/</a></p>
+<p>Comments URL: <a href="https://news.ycomb...*
+  📅 Fri, 05 Jun 2026 07:26:33 +0000
 
-- **[Latent Agents: A Post-Training Procedure for Internalized Multi-Agent Debate](https://arxiv.org/abs/2604.24881)**
-  *<p>Article URL: <a href="https://arxiv.org/abs/2604.24881">https://arxiv.org/abs/2604.24881</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=48405841">https://news.ycombinator.co...*
-  📅 Thu, 04 Jun 2026 23:01:40 +0000
+- **[There's no escaping it: an exploration of ANSI codes](https://blog.safia.rocks/2025/12/22/ansi-codes/)**
+  *<p>Article URL: <a href="https://blog.safia.rocks/2025/12/22/ansi-codes/">https://blog.safia.rocks/2025/12/22/ansi-codes/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=4840899...*
+  📅 Fri, 05 Jun 2026 07:02:14 +0000
 
-- **[SpaceX, Other Mega IPOs Denied Fast Index Entry by S&P](https://www.bloomberg.com/news/articles/2026-06-04/s-p-dow-jones-keeps-megacap-ipo-rules-as-is-after-consultation)**
-  *<p>Article URL: <a href="https://www.bloomberg.com/news/articles/2026-06-04/s-p-dow-jones-keeps-megacap-ipo-rules-as-is-after-consultation">https://www.bloomberg.com/news/articles/2026-06-04/s-p-dow-j...*
-  📅 Thu, 04 Jun 2026 22:48:19 +0000
+- **[Fine-tuning an LLM to write docs like it's 1995](https://passo.uno/fine-tuning-docs-llm/)**
+  *<p>Article URL: <a href="https://passo.uno/fine-tuning-docs-llm/">https://passo.uno/fine-tuning-docs-llm/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=48408442">https://news....*
+  📅 Fri, 05 Jun 2026 05:46:06 +0000
 
 ### 📑 TechCrunch
+
+- **[Mira Murati steps back into the spotlight, carefully](https://techcrunch.com/2026/06/04/mira-murati-steps-back-into-the-spotlight-carefully/)**
+  *In the current environment, remaining heads down has diminishing returns; at some point, you have to make some noise just to remind the market you exist....*
+  📅 Fri, 05 Jun 2026 05:06:37 +0000
 
 - **[Founders Fund launches game show starring Sam Altman, Palmer Luckey, and other tech elites](https://techcrunch.com/2026/06/04/founders-fund-launches-game-show-starring-sam-altman-palmer-luckey-and-other-tech-elites/)**
   *The debut episode, moderated by Founders Fund chief marketing officer Mike Solana, included a star-studded cast of current tech luminaries....*
@@ -96,19 +101,17 @@
   *On Thursday, June 18, at The Aerospace Corporation Campus, investors, founders, and tech leaders will gather for an evening of conversation exploring some of the most consequential shifts taking place...*
   📅 Thu, 04 Jun 2026 21:30:00 +0000
 
-- **[Startup Battlefield is returning to Australia — here’s what happened the last time we came to Sydney](https://techcrunch.com/2026/06/04/startup-battlefield-is-returning-to-australia-heres-what-happened-the-last-time-we-came-to-sydney/)**
-  *On August 19, Startup Battlefield is returning to Sydney in partnership with Stripe, one of the world's most iconic technology companies. We're taking over Stripe Tour Sydney for a night that the Aust...*
-  📅 Thu, 04 Jun 2026 20:55:38 +0000
-
 ### 📑 Dev.to
 
-- **[Using Microsoft Fabric Shortcuts to Avoid Duplicate Data Copies](https://dev.to/ravikiranpagidi/using-microsoft-fabric-shortcuts-to-avoid-duplicate-data-copies-327e)**
-  *<p>Enterprise data platforms are really good at one thing: creating copies of the same data everywhere. Different teams copy the same curated folders into their own lakehouses, then copy again into an...*
-  📅 Fri, 05 Jun 2026 02:26:28 +0000
+- **[Your AI Vendor Says 'Trust Us' with Your Data. There's a Better Option.](https://dev.to/mininglamp/your-ai-vendor-says-trust-us-with-your-data-theres-a-better-option-pbh)**
+  *<p>Your AI vendor says "trust us" with your data. At the end of June, ByteDance's Doubao (豆包) officially ends its free tier and starts charging for API calls. The discussion in developer communities q...*
+  📅 Fri, 05 Jun 2026 09:24:34 +0000
 
-- **[From Soundwaves to Stress Levels: Building an Affective Computing Pipeline with Wav2Vec 2.0](https://dev.to/wellallytech/from-soundwaves-to-stress-levels-building-an-affective-computing-pipeline-with-wav2vec-20-17b7)**
-  *<p>Have you ever wondered if an AI could "feel" the tension in a room just by listening? 🎙️ In the realm of <strong>Affective Computing</strong>, we are moving beyond simple transcription to understan...*
-  📅 Fri, 05 Jun 2026 02:20:00 +0000
+- **[NVIDIA and Apple Solved the Hardware. Here's What's Left to Build.](https://dev.to/mininglamp/nvidia-and-apple-solved-the-hardware-heres-whats-left-to-build-34ln)**
+  *<p>After GTC 2026, one thing is basically settled: the hardware layer for on-device AI is no longer the bottleneck.</p>
+
+<p>NVIDIA's RTX Spark packs Blackwell GPU + Grace CPU + 128GB unified memory in...*
+  📅 Fri, 05 Jun 2026 09:24:29 +0000
 
 </details>
 
@@ -116,103 +119,103 @@
 
 ### 📈 Daily Trending
 
-- **[veryyoldman/undress-ai-image-video-generator](https://github.com/veryyoldman/undress-ai-image-video-generator)** ⭐ 105
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  AI tool for generating uncensored images and videos
+- **[lucifer1004/VeloQ](https://github.com/lucifer1004/VeloQ)** ⭐ 18
+  ![Rust](https://img.shields.io/badge/-Rust-brown)
+  Agent-friendly GPU profile-query CLI
 
-- **[coinbaselarper/lucideium](https://github.com/coinbaselarper/lucideium)** ⭐ 17
+- **[coinbaselarper/lucideium](https://github.com/coinbaselarper/lucideium)** ⭐ 18
   ![Shell](https://img.shields.io/badge/-Shell-lightgrey)
   Lucideium chromeos mod
+
+- **[chaseai-yt/grill-me-codex](https://github.com/chaseai-yt/grill-me-codex)** ⭐ 18
+  ![None](https://img.shields.io/badge/-None-lightgrey)
+  None
+
+- **[zzszmyf/codefuse](https://github.com/zzszmyf/codefuse)** ⭐ 16
+  ![Go](https://img.shields.io/badge/-Go-cyan)
+  Stop grepping. CodeFuse pre-indexes your codebase so AI agents can cat symbols and ls outlines in stead of rescanning files repeatedly.
+
+- **[TianeJyptTech/tiane-cooking-order-skill](https://github.com/TianeJyptTech/tiane-cooking-order-skill)** ⭐ 15
+  ![None](https://img.shields.io/badge/-None-lightgrey)
+  None
+
+- **[Kairos-HomeWorld/HomeWorld](https://github.com/Kairos-HomeWorld/HomeWorld)** ⭐ 13
+  ![None](https://img.shields.io/badge/-None-lightgrey)
+  None
 
 - **[gonefunctorz/ariel](https://github.com/gonefunctorz/ariel)** ⭐ 12
   ![C](https://img.shields.io/badge/-C-lightgrey)
   AArch64 EL2 hypervisor for QEMU virt that boots at EL2
 
-- **[zzszmyf/codefuse](https://github.com/zzszmyf/codefuse)** ⭐ 11
-  ![Go](https://img.shields.io/badge/-Go-cyan)
-  Stop grepping. CodeFuse pre-indexes your codebase so AI agents can cat symbols and ls outlines in stead of rescanning files repeatedly.
-
-- **[gonefunctorz/poppy](https://github.com/gonefunctorz/poppy)** ⭐ 9
-  ![C](https://img.shields.io/badge/-C-lightgrey)
-  Userspace ELF loader that uses unmodified binaries without execve()
-
-- **[SiliconConch/PickCam](https://github.com/SiliconConch/PickCam)** ⭐ 9
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
-  在时光流逝中,捕捉真实瞬间 - 不修饰,不美化,只记录 
-
-- **[HemomancerCreate/Undown-Tool](https://github.com/HemomancerCreate/Undown-Tool)** ⭐ 8
-  ![None](https://img.shields.io/badge/-None-lightgrey)
-  Best tool for unlock lockdown browser bypass
-
-- **[gonefunctorz/nala](https://github.com/gonefunctorz/nala)** ⭐ 6
-  ![OCaml](https://img.shields.io/badge/-OCaml-lightgrey)
-  Embeddable bytecode VM with runtime mutating opcode mappings
+- **[simonlin1212/globalpercent](https://github.com/simonlin1212/globalpercent)** ⭐ 12
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  全球宏观预期概率面板 (AI Skill) — Polymarket+Kalshi 双源 · 5端点 · 10模块 · 零鉴权 | Global-macro-probability panel skill for AI coding assistants (prediction-market data pipeline)
 
 ### 📈 Weekly Trending
 
-- **[pewdiepie-archdaemon/odysseus](https://github.com/pewdiepie-archdaemon/odysseus)** ⭐ 51,526
+- **[pewdiepie-archdaemon/odysseus](https://github.com/pewdiepie-archdaemon/odysseus)** ⭐ 53,000
   ![Python](https://img.shields.io/badge/-Python-blue)
   Self-hosted AI workspace. 
 
-- **[zgwl/chinese-buy-us-stock-guide](https://github.com/zgwl/chinese-buy-us-stock-guide)** ⭐ 2,791
+- **[zgwl/chinese-buy-us-stock-guide](https://github.com/zgwl/chinese-buy-us-stock-guide)** ⭐ 3,069
   ![None](https://img.shields.io/badge/-None-lightgrey)
   美股指南
 
-- **[b-nnett/goose](https://github.com/b-nnett/goose)** ⭐ 1,886
+- **[b-nnett/goose](https://github.com/b-nnett/goose)** ⭐ 2,029
   ![Rust](https://img.shields.io/badge/-Rust-brown)
   Goose Swift proof-of-concept README
 
-- **[asz798838958/aBaiAutoplus](https://github.com/asz798838958/aBaiAutoplus)** ⭐ 1,485
+- **[asz798838958/aBaiAutoplus](https://github.com/asz798838958/aBaiAutoplus)** ⭐ 1,503
   ![Python](https://img.shields.io/badge/-Python-blue)
   多平台 AI 账号自动注册与管理 · 协议化付款一键开通 ChatGPT Plus
 
-- **[cpaczek/skylight](https://github.com/cpaczek/skylight)** ⭐ 1,230
+- **[cpaczek/skylight](https://github.com/cpaczek/skylight)** ⭐ 1,308
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   Project the aircraft passing overhead onto your ceiling in real time, from an RTL-SDR — with a live sky layer (sun, moon, stars, ISS) and where each plane is headed.
 
-- **[ClaudioDrews/memory-os](https://github.com/ClaudioDrews/memory-os)** ⭐ 829
+- **[ClaudioDrews/memory-os](https://github.com/ClaudioDrews/memory-os)** ⭐ 846
   ![Python](https://img.shields.io/badge/-Python-blue)
   A 7-layer memory operating system for Hermes Agent — persistent memory with Qdrant, structured facts, fabric recall, auto-curated wiki, and surgical context injection. Runs locally, any LLM provider.
 
-- **[qiuqiubuchongle-cloud/chokepoint-atlas](https://github.com/qiuqiubuchongle-cloud/chokepoint-atlas)** ⭐ 559
+- **[qiuqiubuchongle-cloud/chokepoint-atlas](https://github.com/qiuqiubuchongle-cloud/chokepoint-atlas)** ⭐ 567
   ![Python](https://img.shields.io/badge/-Python-blue)
   None
 
-- **[liyue-aigc/female-portrait-director](https://github.com/liyue-aigc/female-portrait-director)** ⭐ 510
-  ![None](https://img.shields.io/badge/-None-lightgrey)
-  A modular Codex Skill for directing and expanding detailed AI female portrait prompts.
+- **[anomalyco/rift](https://github.com/anomalyco/rift)** ⭐ 514
+  ![Rust](https://img.shields.io/badge/-Rust-brown)
+  None
 
 ### 📈 Monthly Trending
 
-- **[pewdiepie-archdaemon/odysseus](https://github.com/pewdiepie-archdaemon/odysseus)** ⭐ 51,526
+- **[pewdiepie-archdaemon/odysseus](https://github.com/pewdiepie-archdaemon/odysseus)** ⭐ 53,000
   ![Python](https://img.shields.io/badge/-Python-blue)
   Self-hosted AI workspace. 
 
-- **[FULU-Foundation/OrcaSlicer-bambulab](https://github.com/FULU-Foundation/OrcaSlicer-bambulab)** ⭐ 6,787
+- **[FULU-Foundation/OrcaSlicer-bambulab](https://github.com/FULU-Foundation/OrcaSlicer-bambulab)** ⭐ 6,788
   ![C++](https://img.shields.io/badge/-C++-pink)
   None
 
-- **[unicity-astrid/sdk-js](https://github.com/unicity-astrid/sdk-js)** ⭐ 6,345
+- **[unicity-astrid/sdk-js](https://github.com/unicity-astrid/sdk-js)** ⭐ 6,613
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   JavaScript / TypeScript SDK for building Astrid OS capsules. Companion to unicity-astrid/sdk-rust.
 
-- **[nexu-io/html-anything](https://github.com/nexu-io/html-anything)** ⭐ 6,071
+- **[nexu-io/html-anything](https://github.com/nexu-io/html-anything)** ⭐ 6,117
   ![HTML](https://img.shields.io/badge/-HTML-lightgrey)
   ✨ The agentic HTML editor — your local AI agent writes the HTML, you ship it. 🚀 75 Skills × 9 Surfaces (magazine · deck · poster · XHS / tweet · prototype · data report · Hyperframes) 🛡️ Sandboxed preview · 📤 1-click to WeChat / X / Zhihu / HTML / PNG 🔑 Zero API key — Claude Code / Cursor / Codex / Gemini / Copilot / OpenCode / Qwen / Aider.
 
-- **[microsoft/SkillOpt](https://github.com/microsoft/SkillOpt)** ⭐ 4,917
+- **[microsoft/SkillOpt](https://github.com/microsoft/SkillOpt)** ⭐ 5,000
   ![Python](https://img.shields.io/badge/-Python-blue)
   SkillOpt is a text-space optimizer that trains reusable natural-language skills for frozen LLM agents through trajectory-driven edits, validation-gated updates, and deployable best_skill.md artifacts.
 
-- **[vercel-labs/zerolang](https://github.com/vercel-labs/zerolang)** ⭐ 4,863
+- **[vercel-labs/zerolang](https://github.com/vercel-labs/zerolang)** ⭐ 4,871
   ![C](https://img.shields.io/badge/-C-lightgrey)
   The programming language for agents
 
-- **[V4bel/dirtyfrag](https://github.com/V4bel/dirtyfrag)** ⭐ 4,816
+- **[V4bel/dirtyfrag](https://github.com/V4bel/dirtyfrag)** ⭐ 4,817
   ![C](https://img.shields.io/badge/-C-lightgrey)
   None
 
-- **[simplifaisoul/osiris](https://github.com/simplifaisoul/osiris)** ⭐ 4,422
+- **[simplifaisoul/osiris](https://github.com/simplifaisoul/osiris)** ⭐ 4,445
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   Open Source Global Intelligence Platform - Real-Time OSINT Dashboard - A Palantir Alternative
 
@@ -223,9 +226,9 @@
 
 ### 📦 microsoft/vscode
 
-**[1.123.0](https://github.com/microsoft/vscode/releases/tag/1.123)** `1.123`
+**[1.123.0](https://github.com/microsoft/vscode/releases/tag/1.123.0)** `1.123.0`
 
-📅 Released: June 03, 2026
+📅 Released: June 05, 2026
 
 https://code.visualstudio.com/updates/v1_123...
 
@@ -489,11 +492,11 @@ architectures, it has become apparent...
 
 | Skill | Status |
 |-------|--------|
-| Java | ⚪ Planned |
-| Python | 🔴 Beginner |
-| JavaScript | ⚪ Planned |
-| TypeScript | ⚪ Planned |
-| Go | 🟡 Learning |
+| Java | 🟡 Learning |
+| Python | 🟢 Proficient |
+| JavaScript | 🟢 Proficient |
+| TypeScript | 🟡 Learning |
+| Go | 🟢 Proficient |
 
 ### Frameworks
 
@@ -501,39 +504,39 @@ architectures, it has become apparent...
 |-------|--------|
 | React | 🟢 Proficient |
 | Spring Boot | ⚪ Planned |
-| Django | 🔴 Beginner |
-| Node.js | ⚪ Planned |
-| Next.js | 🟡 Learning |
+| Django | 🟢 Proficient |
+| Node.js | 🟡 Learning |
+| Next.js | 🔴 Beginner |
 
 ### Cybersecurity
 
 | Skill | Status |
 |-------|--------|
-| Penetration Testing | ⚪ Planned |
-| Web Security | ⚪ Planned |
-| Network Security | ⚪ Planned |
-| OWASP | 🔴 Beginner |
+| Penetration Testing | 🟢 Proficient |
+| Web Security | 🔴 Beginner |
+| Network Security | 🟡 Learning |
+| OWASP | 🟡 Learning |
 
 ### Ai Ml
 
 | Skill | Status |
 |-------|--------|
-| Machine Learning | ⚪ Planned |
-| Deep Learning | ⚪ Planned |
-| NLP | 🔴 Beginner |
+| Machine Learning | 🔴 Beginner |
+| Deep Learning | 🟢 Proficient |
+| NLP | 🟡 Learning |
 | Computer Vision | 🟢 Proficient |
-| TensorFlow | 🟡 Learning |
+| TensorFlow | 🔴 Beginner |
 | PyTorch | 🟡 Learning |
 
 ### Devops
 
 | Skill | Status |
 |-------|--------|
-| Docker | 🟢 Proficient |
-| Kubernetes | 🔴 Beginner |
-| CI/CD | 🟡 Learning |
+| Docker | ⚪ Planned |
+| Kubernetes | 🟢 Proficient |
+| CI/CD | ⚪ Planned |
 | AWS | 🔴 Beginner |
-| Azure | 🟢 Proficient |
+| Azure | ⚪ Planned |
 
 ### Other
 
@@ -541,7 +544,7 @@ architectures, it has become apparent...
 |-------|--------|
 | Blockchain | 🔴 Beginner |
 | Web3 | 🟢 Proficient |
-| Cloud Computing | 🟡 Learning |
+| Cloud Computing | 🟢 Proficient |
 
 </details>
 
