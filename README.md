@@ -46,32 +46,31 @@
 
 ### 📑 Hacker News
 
-- **[S&P 500 rejects SpaceX, also blocking entry for OpenAI and Anthropic](https://arstechnica.com/tech-policy/2026/06/sp-500-blocks-fast-spacex-entry-wont-waive-rule-for-unprofitable-ai-firms/)**
-  *<p>Article URL: <a href="https://arstechnica.com/tech-policy/2026/06/sp-500-blocks-fast-spacex-entry-wont-waive-rule-for-unprofitable-ai-firms/">https://arstechnica.com/tech-policy/2026/06/sp-500-bloc...*
-  📅 Sat, 06 Jun 2026 04:38:36 +0000
+- **[Mbodi AI (YC P25) Is Hiring Founding Machine Learning Engineer (Robotics)](https://www.ycombinator.com/companies/mbodi-ai/jobs/WYAcNkX-founding-machine-learning-engineer)**
+  *<p>Article URL: <a href="https://www.ycombinator.com/companies/mbodi-ai/jobs/WYAcNkX-founding-machine-learning-engineer">https://www.ycombinator.com/companies/mbodi-ai/jobs/WYAcNkX-founding-machine-le...*
+  📅 Sat, 06 Jun 2026 12:00:56 +0000
 
-- **[Pre-Modern Armies for Worldbuilders, Part I: Why They Fight](https://acoup.blog/2026/06/05/collections-pre-modern-armies-for-worldbuilders-part-i-why-they-fight/)**
-  *<p>Article URL: <a href="https://acoup.blog/2026/06/05/collections-pre-modern-armies-for-worldbuilders-part-i-why-they-fight/">https://acoup.blog/2026/06/05/collections-pre-modern-armies-for-worldbuil...*
-  📅 Sat, 06 Jun 2026 03:41:32 +0000
+- **[Google will pay SpaceX $920M per month for compute](https://techcrunch.com/2026/06/05/google-will-pay-spacex-920m-per-month-for-compute/)**
+  *<p>Article URL: <a href="https://techcrunch.com/2026/06/05/google-will-pay-spacex-920m-per-month-for-compute/">https://techcrunch.com/2026/06/05/google-will-pay-spacex-920m-per-month-for-compute/</a><...*
+  📅 Sat, 06 Jun 2026 11:46:15 +0000
 
-- **[Lockdown Mode](https://help.openai.com/en/articles/20001061-lockdown-mode)**
-  *<p>Article URL: <a href="https://help.openai.com/en/articles/20001061-lockdown-mode">https://help.openai.com/en/articles/20001061-lockdown-mode</a></p>
-<p>Comments URL: <a href="https://news.ycombinat...*
-  📅 Sat, 06 Jun 2026 03:36:15 +0000
+- **[Introduction – Rust for Python Programmers](https://microsoft.github.io/RustTraining/python-book/)**
+  *<p>Article URL: <a href="https://microsoft.github.io/RustTraining/python-book/">https://microsoft.github.io/RustTraining/python-book/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/ite...*
+  📅 Sat, 06 Jun 2026 10:52:25 +0000
 
-- **[The back cover of C++: The Language raises questions not answered by front cover](https://devblogs.microsoft.com/oldnewthing/20260605-01/?p=112391)**
-  *<p>Article URL: <a href="https://devblogs.microsoft.com/oldnewthing/20260605-01/?p=112391">https://devblogs.microsoft.com/oldnewthing/20260605-01/?p=112391</a></p>
-<p>Comments URL: <a href="https://ne...*
-  📅 Sat, 06 Jun 2026 03:23:47 +0000
+- **[Do women’s mate preferences change across the ovulatory cycle? (2014) [pdf]](https://www.martiehaselton.com/_files/ugd/3ae410_aeb76edab75f457aae0c14c4c68d93c0.pdf)**
+  *<p>Article URL: <a href="https://www.martiehaselton.com/_files/ugd/3ae410_aeb76edab75f457aae0c14c4c68d93c0.pdf">https://www.martiehaselton.com/_files/ugd/3ae410_aeb76edab75f457aae0c14c4c68d93c0.pdf</a...*
+  📅 Sat, 06 Jun 2026 10:42:09 +0000
 
-- **[Ask HN: Why is the HN crowd so anti-AI?](https://news.ycombinator.com/item?id=48420827)**
-  *<p>Genuine question.<p>Over the past six months, there hasn’t been a single day where I’ve checked the HN Best RSS feed without seeing a post about how AI “writes bad code,” “introduces bugs,” “create...*
-  📅 Sat, 06 Jun 2026 02:31:51 +0000
+- **[The Smart TV in Your LivingRoom Is a Node in the AIScraping Economy](https://blog.includesecurity.com/2026/06/the-smart-tv-in-your-livingroom-is-a-node-in-the-aiscraping-economy/)**
+  *<p>Article URL: <a href="https://blog.includesecurity.com/2026/06/the-smart-tv-in-your-livingroom-is-a-node-in-the-aiscraping-economy/">https://blog.includesecurity.com/2026/06/the-smart-tv-in-your-li...*
+  📅 Sat, 06 Jun 2026 09:17:49 +0000
 
-- **[The intracies of modern camera lens repair (2024)](https://salvagedcircuitry.com/sigma-45mm.html)**
-  *<p>Article URL: <a href="https://salvagedcircuitry.com/sigma-45mm.html">https://salvagedcircuitry.com/sigma-45mm.html</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=48420148">h...*
-  📅 Sat, 06 Jun 2026 00:33:26 +0000
+- **[Zig Zen Update](https://codeberg.org/ziglang/zig/commit/621844bde551ee1a9b8142d7d146d1fa804247a2)**
+  *<p>Article URL: <a href="https://codeberg.org/ziglang/zig/commit/621844bde551ee1a9b8142d7d146d1fa804247a2">https://codeberg.org/ziglang/zig/commit/621844bde551ee1a9b8142d7d146d1fa804247a2</a></p>
+<p>C...*
+  📅 Sat, 06 Jun 2026 08:38:44 +0000
 
 ### 📑 TechCrunch
 
@@ -101,13 +100,21 @@
 
 ### 📑 Dev.to
 
-- **[What Anthropic Actually Said About AI Building Itself](https://dev.to/arjun_adhikari_4ac4ca1052/what-anthropic-actually-said-about-ai-building-itself-4419)**
-  *<p>In June 2026, Anthropic released a report called "When AI builds itself." The headlines made it sound like AI was on the verge of superintelligence in which machines were building better versions o...*
-  📅 Sat, 06 Jun 2026 08:10:19 +0000
+- **[ExcelPy: From Tkinter Prototype to AI-Assisted Workbook Review](https://dev.to/00gizem00/excelpy-from-tkinter-prototype-to-ai-assisted-workbook-review-12ed)**
+  *<p><em>This is a submission for the <a href="https://dev.to/challenges/github-2026-05-21">GitHub Finish-Up-A-Thon Challenge</a></em></p>
 
-- **[When Regex Fails: Using LLMs to Extract Structured Data from Messy Pages](https://dev.to/__c1b9e06dc90a7e0a676b/when-regex-fails-using-llms-to-extract-structured-data-from-messy-pages-2mbg)**
-  *<p>I’ve been doing web scraping for years. For most projects, I lean on BeautifulSoup, cssselect, and a handful of regex patterns. You know the drill: inspect the page, find the selector, extract the ...*
-  📅 Sat, 06 Jun 2026 08:08:15 +0000
+<h2>
+  
+  
+  What I Built
+</h2>
+
+<p>I rebuilt <strong>ExcelPy<...*
+  📅 Sat, 06 Jun 2026 13:01:16 +0000
+
+- **[Show DEV: AIPDFKit -> Free AI-Powered PDF Tools for Developers (No Account Needed)](https://dev.to/karamanbk/show-dev-aipdfkit-free-ai-powered-pdf-tools-for-developers-no-account-needed-4h9l)**
+  *<p>I built AIPDFKit because I kept running into the same friction: needing to do something simple with a PDF -- redact some sensitive info, pull out a table, or convert a document to Markdown -- and e...*
+  📅 Sat, 06 Jun 2026 12:46:18 +0000
 
 </details>
 
@@ -115,103 +122,103 @@
 
 ### 📈 Daily Trending
 
+- **[yuzhworkhard-wq/image-to-code-skill](https://github.com/yuzhworkhard-wq/image-to-code-skill)** ⭐ 50
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  Codex skill for 750px image-to-code reconstruction and transparent PNG slicing
+
+- **[Axhql/Cellkax](https://github.com/Axhql/Cellkax)** ⭐ 36
+  ![None](https://img.shields.io/badge/-None-lightgrey)
+  None
+
+- **[feathercranefix/Minecraft-Utility-Suite](https://github.com/feathercranefix/Minecraft-Utility-Suite)** ⭐ 22
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  Minecraft Utility Suite — tools and configurations for optimizing gameplay and server management on Windows, macOS, and Linux.
+
+- **[popobajwa11/Enterprise-AI-Application-Development-on-Azure](https://github.com/popobajwa11/Enterprise-AI-Application-Development-on-Azure)** ⭐ 20
+  ![None](https://img.shields.io/badge/-None-lightgrey)
+  Prepare for AI-102 certification with Pass4exams. Master Azure AI services, intelligent application development, implementation strategies, and exam success. https://www.pass4exams.com/microsoft/ai-102-questions.html
+
 - **[anthony80188/medical-rag-chatbot](https://github.com/anthony80188/medical-rag-chatbot)** ⭐ 17
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   A medical FAQ chatbot powered by Retrieval-Augmented Generation (RAG) using FastAPI, LangChain, Qdrant, and React.
 
-- **[yuzhworkhard-wq/image-to-code-skill](https://github.com/yuzhworkhard-wq/image-to-code-skill)** ⭐ 17
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  Codex skill for 750px image-to-code reconstruction and transparent PNG slicing
-
-- **[Mr-Erco/Nova-OperatingSystem](https://github.com/Mr-Erco/Nova-OperatingSystem)** ⭐ 10
-  ![HTML](https://img.shields.io/badge/-HTML-lightgrey)
-  A fast and lightweight Operating System for you device
-
-- **[TwelveFacedJanus/metahuman](https://github.com/TwelveFacedJanus/metahuman)** ⭐ 9
+- **[12britz/awesome-free-models](https://github.com/12britz/awesome-free-models)** ⭐ 14
   ![None](https://img.shields.io/badge/-None-lightgrey)
-  None
+  A curated list of free AI models, APIs, and tools you can use without paying a cent.
 
-- **[viper690/zenith-mesh](https://github.com/viper690/zenith-mesh)** ⭐ 8
+- **[m1ckc3s/project-fathom](https://github.com/m1ckc3s/project-fathom)** ⭐ 14
+  ![CSS](https://img.shields.io/badge/-CSS-lightgrey)
+  Tiny React sandbox proving you can fire native iOS haptics from a plain web page (no app) using the WebKit <input switch> control — verified on-device, works after the iOS 26.5 patch.
+
+- **[well-typed/dependent-pattern-matching-zurihac-2026](https://github.com/well-typed/dependent-pattern-matching-zurihac-2026)** ⭐ 13
   ![None](https://img.shields.io/badge/-None-lightgrey)
-  Cloud-native service mesh for resilient microservices communication and observability.
-
-- **[viper690/nova-proxy](https://github.com/viper690/nova-proxy)** ⭐ 5
-  ![None](https://img.shields.io/badge/-None-lightgrey)
-  High-performance Layer 7 proxy and load balancer optimized for edge computing.
-
-- **[kwpark090288-pixel/ICT-AutoTrader](https://github.com/kwpark090288-pixel/ICT-AutoTrader)** ⭐ 4
-  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
-  An automated trading system based on ICT (Inner Circle Trader) concepts, market structure analysis, liquidity, order blocks, and smart money principles
-
-- **[whaine-dev/O-que-mais-gosto-em-pernambuco](https://github.com/whaine-dev/O-que-mais-gosto-em-pernambuco)** ⭐ 4
-  ![HTML](https://img.shields.io/badge/-HTML-lightgrey)
   None
 
 ### 📈 Weekly Trending
 
-- **[pewdiepie-archdaemon/odysseus](https://github.com/pewdiepie-archdaemon/odysseus)** ⭐ 56,574
+- **[pewdiepie-archdaemon/odysseus](https://github.com/pewdiepie-archdaemon/odysseus)** ⭐ 57,236
   ![Python](https://img.shields.io/badge/-Python-blue)
   Self-hosted AI workspace. 
 
-- **[b-nnett/goose](https://github.com/b-nnett/goose)** ⭐ 2,128
+- **[b-nnett/goose](https://github.com/b-nnett/goose)** ⭐ 2,141
   ![Rust](https://img.shields.io/badge/-Rust-brown)
   Goose Swift proof-of-concept README
 
-- **[cpaczek/skylight](https://github.com/cpaczek/skylight)** ⭐ 1,878
+- **[cpaczek/skylight](https://github.com/cpaczek/skylight)** ⭐ 1,948
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   Project the aircraft passing overhead onto your ceiling in real time, from an RTL-SDR — with a live sky layer (sun, moon, stars, ISS) and where each plane is headed.
 
-- **[asz798838958/aBaiAutoplus](https://github.com/asz798838958/aBaiAutoplus)** ⭐ 1,540
+- **[asz798838958/aBaiAutoplus](https://github.com/asz798838958/aBaiAutoplus)** ⭐ 1,547
   ![Python](https://img.shields.io/badge/-Python-blue)
   多平台 AI 账号自动注册与管理 · 协议化付款一键开通 ChatGPT Plus
 
-- **[ClaudioDrews/memory-os](https://github.com/ClaudioDrews/memory-os)** ⭐ 896
+- **[ClaudioDrews/memory-os](https://github.com/ClaudioDrews/memory-os)** ⭐ 918
   ![Python](https://img.shields.io/badge/-Python-blue)
   A 7-layer memory operating system for Hermes Agent — persistent memory with Qdrant, structured facts, fabric recall, auto-curated wiki, and surgical context injection. Runs locally, any LLM provider.
 
-- **[jd-opensource/JoyAI-Echo](https://github.com/jd-opensource/JoyAI-Echo)** ⭐ 628
+- **[jd-opensource/JoyAI-Echo](https://github.com/jd-opensource/JoyAI-Echo)** ⭐ 656
   ![Python](https://img.shields.io/badge/-Python-blue)
   JoyAI-Echo: Pushing the Frontier of Long Audio-Visual Generation
 
-- **[qiuqiubuchongle-cloud/chokepoint-atlas](https://github.com/qiuqiubuchongle-cloud/chokepoint-atlas)** ⭐ 587
+- **[qiuqiubuchongle-cloud/chokepoint-atlas](https://github.com/qiuqiubuchongle-cloud/chokepoint-atlas)** ⭐ 588
   ![Python](https://img.shields.io/badge/-Python-blue)
   None
 
-- **[anomalyco/rift](https://github.com/anomalyco/rift)** ⭐ 534
+- **[anomalyco/rift](https://github.com/anomalyco/rift)** ⭐ 541
   ![Rust](https://img.shields.io/badge/-Rust-brown)
   None
 
 ### 📈 Monthly Trending
 
-- **[pewdiepie-archdaemon/odysseus](https://github.com/pewdiepie-archdaemon/odysseus)** ⭐ 56,575
+- **[pewdiepie-archdaemon/odysseus](https://github.com/pewdiepie-archdaemon/odysseus)** ⭐ 57,236
   ![Python](https://img.shields.io/badge/-Python-blue)
   Self-hosted AI workspace. 
 
-- **[unicity-astrid/sdk-js](https://github.com/unicity-astrid/sdk-js)** ⭐ 7,158
+- **[unicity-astrid/sdk-js](https://github.com/unicity-astrid/sdk-js)** ⭐ 7,452
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   JavaScript / TypeScript SDK for building Astrid OS capsules. Companion to unicity-astrid/sdk-rust.
 
-- **[FULU-Foundation/OrcaSlicer-bambulab](https://github.com/FULU-Foundation/OrcaSlicer-bambulab)** ⭐ 6,799
+- **[FULU-Foundation/OrcaSlicer-bambulab](https://github.com/FULU-Foundation/OrcaSlicer-bambulab)** ⭐ 6,802
   ![C++](https://img.shields.io/badge/-C++-pink)
   None
 
-- **[nexu-io/html-anything](https://github.com/nexu-io/html-anything)** ⭐ 6,176
+- **[nexu-io/html-anything](https://github.com/nexu-io/html-anything)** ⭐ 6,191
   ![HTML](https://img.shields.io/badge/-HTML-lightgrey)
   ✨ The agentic HTML editor — your local AI agent writes the HTML, you ship it. 🚀 75 Skills × 9 Surfaces (magazine · deck · poster · XHS / tweet · prototype · data report · Hyperframes) 🛡️ Sandboxed preview · 📤 1-click to WeChat / X / Zhihu / HTML / PNG 🔑 Zero API key — Claude Code / Cursor / Codex / Gemini / Copilot / OpenCode / Qwen / Aider.
 
-- **[microsoft/SkillOpt](https://github.com/microsoft/SkillOpt)** ⭐ 5,106
+- **[microsoft/SkillOpt](https://github.com/microsoft/SkillOpt)** ⭐ 5,140
   ![Python](https://img.shields.io/badge/-Python-blue)
   SkillOpt is a text-space optimizer that trains reusable natural-language skills for frozen LLM agents through trajectory-driven edits, validation-gated updates, and deployable best_skill.md artifacts.
 
-- **[vercel-labs/zerolang](https://github.com/vercel-labs/zerolang)** ⭐ 4,888
+- **[vercel-labs/zerolang](https://github.com/vercel-labs/zerolang)** ⭐ 4,889
   ![C](https://img.shields.io/badge/-C-lightgrey)
   The programming language for agents
 
-- **[simplifaisoul/osiris](https://github.com/simplifaisoul/osiris)** ⭐ 4,498
+- **[simplifaisoul/osiris](https://github.com/simplifaisoul/osiris)** ⭐ 4,507
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   Open Source Global Intelligence Platform - Real-Time OSINT Dashboard - A Palantir Alternative
 
-- **[perplexityai/bumblebee](https://github.com/perplexityai/bumblebee)** ⭐ 4,301
+- **[perplexityai/bumblebee](https://github.com/perplexityai/bumblebee)** ⭐ 4,306
   ![Go](https://img.shields.io/badge/-Go-cyan)
   Read-only developer endpoint scanner for on-disk package, extension, and developer-tool metadata, built to check exposure to known software supply-chain compromises.
 
@@ -488,8 +495,8 @@ architectures, it has become apparent...
 
 | Skill | Status |
 |-------|--------|
-| Java | 🟢 Proficient |
-| Python | ⚪ Planned |
+| Java | 🔴 Beginner |
+| Python | 🟢 Proficient |
 | JavaScript | 🟡 Learning |
 | TypeScript | 🔴 Beginner |
 | Go | 🔴 Beginner |
@@ -498,20 +505,20 @@ architectures, it has become apparent...
 
 | Skill | Status |
 |-------|--------|
-| React | ⚪ Planned |
-| Spring Boot | ⚪ Planned |
-| Django | 🟢 Proficient |
-| Node.js | 🔴 Beginner |
-| Next.js | 🔴 Beginner |
+| React | 🟡 Learning |
+| Spring Boot | 🟡 Learning |
+| Django | 🔴 Beginner |
+| Node.js | ⚪ Planned |
+| Next.js | 🟢 Proficient |
 
 ### Cybersecurity
 
 | Skill | Status |
 |-------|--------|
-| Penetration Testing | ⚪ Planned |
+| Penetration Testing | 🟡 Learning |
 | Web Security | ⚪ Planned |
-| Network Security | 🟢 Proficient |
-| OWASP | 🔴 Beginner |
+| Network Security | 🔴 Beginner |
+| OWASP | 🟢 Proficient |
 
 ### Ai Ml
 
@@ -519,28 +526,28 @@ architectures, it has become apparent...
 |-------|--------|
 | Machine Learning | ⚪ Planned |
 | Deep Learning | 🔴 Beginner |
-| NLP | 🔴 Beginner |
+| NLP | 🟡 Learning |
 | Computer Vision | 🔴 Beginner |
-| TensorFlow | 🟢 Proficient |
-| PyTorch | ⚪ Planned |
+| TensorFlow | 🟡 Learning |
+| PyTorch | 🔴 Beginner |
 
 ### Devops
 
 | Skill | Status |
 |-------|--------|
-| Docker | 🟢 Proficient |
-| Kubernetes | ⚪ Planned |
-| CI/CD | 🟢 Proficient |
-| AWS | 🔴 Beginner |
-| Azure | 🟢 Proficient |
+| Docker | ⚪ Planned |
+| Kubernetes | 🟢 Proficient |
+| CI/CD | 🔴 Beginner |
+| AWS | ⚪ Planned |
+| Azure | ⚪ Planned |
 
 ### Other
 
 | Skill | Status |
 |-------|--------|
-| Blockchain | 🔴 Beginner |
+| Blockchain | 🟢 Proficient |
 | Web3 | 🟢 Proficient |
-| Cloud Computing | 🔴 Beginner |
+| Cloud Computing | 🟢 Proficient |
 
 </details>
 
