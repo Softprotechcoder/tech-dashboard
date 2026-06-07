@@ -46,34 +46,52 @@
 
 ### 📑 Hacker News
 
-- **[LLMs are eroding my software engineering career and I don't know what to do](https://human-in-the-loop.bearblog.dev/llms-are-eroding-my-software-engineering-career-and-i-dont-know-what-to-do/)**
-  *<p>Article URL: <a href="https://human-in-the-loop.bearblog.dev/llms-are-eroding-my-software-engineering-career-and-i-dont-know-what-to-do/">https://human-in-the-loop.bearblog.dev/llms-are-eroding-my-...*
-  📅 Sun, 07 Jun 2026 12:49:29 +0000
+- **[The curious case of low-protein diets](https://knowablemagazine.org/content/article/living-world/2026/low-protein-diet-animals-live-longer)**
+  *<p>Article URL: <a href="https://knowablemagazine.org/content/article/living-world/2026/low-protein-diet-animals-live-longer">https://knowablemagazine.org/content/article/living-world/2026/low-protein...*
+  📅 Sun, 07 Jun 2026 18:37:17 +0000
 
-- **[Misguided Misstatements Continue to Dismantle Biomedical Research in the U.S.](https://diabetesjournals.org/care/article/49/6/901/164764/Misguided-Brushes-of-a-Pen-Continue-to-Dismantle)**
-  *<p>Article URL: <a href="https://diabetesjournals.org/care/article/49/6/901/164764/Misguided-Brushes-of-a-Pen-Continue-to-Dismantle">https://diabetesjournals.org/care/article/49/6/901/164764/Misguided...*
-  📅 Sun, 07 Jun 2026 12:34:27 +0000
+- **[Leiden Declaration on Artificial Intelligence and Mathematics](https://www.lms.ac.uk/news/leiden-declaration-on-ai-and-mathematics)**
+  *<p>Article URL: <a href="https://www.lms.ac.uk/news/leiden-declaration-on-ai-and-mathematics">https://www.lms.ac.uk/news/leiden-declaration-on-ai-and-mathematics</a></p>
+<p>Comments URL: <a href="http...*
+  📅 Sun, 07 Jun 2026 18:36:36 +0000
 
-- **[9 Mothers (YC P26) Is Hiring](https://9mothers.com/careers)**
-  *<p>Article URL: <a href="https://9mothers.com/careers">https://9mothers.com/careers</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=48433987">https://news.ycombinator.com/item?i...*
-  📅 Sun, 07 Jun 2026 12:00:40 +0000
+- **[My automated doubt development process](https://www.alexself.dev/blog/automated-doubt)**
+  *<p>Article URL: <a href="https://www.alexself.dev/blog/automated-doubt">https://www.alexself.dev/blog/automated-doubt</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=48437305">h...*
+  📅 Sun, 07 Jun 2026 18:17:40 +0000
 
-- **[Scientists ejected from diabetes conference for distributing journal reprints](https://arstechnica.com/science/2026/06/scientists-ejected-from-diabetes-conference-for-distributing-journal-reprints/)**
-  *<p>Article URL: <a href="https://arstechnica.com/science/2026/06/scientists-ejected-from-diabetes-conference-for-distributing-journal-reprints/">https://arstechnica.com/science/2026/06/scientists-ejec...*
-  📅 Sun, 07 Jun 2026 10:10:33 +0000
+- **[Silurus/ooxml: Pixel-faithful Office documents, rendered in the browser](https://github.com/yukiyokotani/office-open-xml-viewer)**
+  *<p>Article URL: <a href="https://github.com/yukiyokotani/office-open-xml-viewer">https://github.com/yukiyokotani/office-open-xml-viewer</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/i...*
+  📅 Sun, 07 Jun 2026 17:22:28 +0000
 
-- **[Efficient and Training-Free Single-Image Diffusion Models](https://arxiv.org/abs/2606.04299)**
-  *<p>Article URL: <a href="https://arxiv.org/abs/2606.04299">https://arxiv.org/abs/2606.04299</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=48433305">https://news.ycombinator.co...*
-  📅 Sun, 07 Jun 2026 09:43:45 +0000
+- **[Powering up a module from the IBM 604: an electronic calculator from 1948](https://www.righto.com/2026/06/ibm-604-thyraton-tube-module.html)**
+  *<p>Article URL: <a href="https://www.righto.com/2026/06/ibm-604-thyraton-tube-module.html">https://www.righto.com/2026/06/ibm-604-thyraton-tube-module.html</a></p>
+<p>Comments URL: <a href="https://ne...*
+  📅 Sun, 07 Jun 2026 17:18:12 +0000
 
-- **[Show HN: Kyushu – A self-hostable WASM sandbox for JavaScript workers](https://kyushu.dev/)**
-  *<p>Article URL: <a href="https://kyushu.dev/">https://kyushu.dev/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=48432722">https://news.ycombinator.com/item?id=48432722</a></p>...*
-  📅 Sun, 07 Jun 2026 07:35:02 +0000
+- **[Proliferate (YC S25) is hiring to building open source Codex](https://www.ycombinator.com/companies/proliferate/jobs/L3copvK-founding-engineer)**
+  *<p>Article URL: <a href="https://www.ycombinator.com/companies/proliferate/jobs/L3copvK-founding-engineer">https://www.ycombinator.com/companies/proliferate/jobs/L3copvK-founding-engineer</a></p>
+<p>C...*
+  📅 Sun, 07 Jun 2026 17:01:17 +0000
 
 ### 📑 TechCrunch
+
+- **[Notion restores access to Anthropic after service disruption](https://techcrunch.com/2026/06/07/notion-restores-access-to-anthropic-after-service-disruption/)**
+  *Notion's head of product said he was "astonished" at “the amount of people RT-ing this."...*
+  📅 Sun, 07 Jun 2026 17:56:22 +0000
+
+- **[OpenAI is still working on that ‘super app’](https://techcrunch.com/2026/06/07/openai-is-still-working-on-that-super-app/)**
+  *"Chat is dead" — at least, according to a senior OpenAI employee....*
+  📅 Sun, 07 Jun 2026 16:23:22 +0000
+
+- **[TechCrunch Mobility: Inside GM’s $900M EV battery gamble](https://techcrunch.com/2026/06/07/inside-gms-900m-ev-battery-gamble/)**
+  *Welcome back to TechCrunch Mobility — your central hub for news and insights on the future of transportation....*
+  📅 Sun, 07 Jun 2026 16:05:00 +0000
+
+- **[Hacked, leaked, and held for ransom: the worst breaches of 2026 so far](https://techcrunch.com/2026/06/07/the-worst-hacks-and-breaches-of-2026-so-far/)**
+  *From a massive DOGE data breach and the hacking of critical energy and water systems to the hack of an FBI surveillance system, here are the most damaging security incidents and data breaches of 2026....*
+  📅 Sun, 07 Jun 2026 14:00:00 +0000
 
 - **[OpenAI unveils Lockdown Mode to protect sensitive data from prompt injection attacks](https://techcrunch.com/2026/06/06/openai-unveils-lockdown-mode-to-protect-sensitive-data-from-prompt-injection-attacks/)**
   *Even with Lockdown Mode, ChatGPT could be still vulnerable to prompt injections, but the goal is to reduce the likelihood that sensitive data gets shared in the process....*
@@ -83,35 +101,17 @@
   *Apple's WWDC nears: Here's what you can look forward to....*
   📅 Sat, 06 Jun 2026 18:13:36 +0000
 
-- **[Sriram Krishnan is leaving his role as White House AI advisor](https://techcrunch.com/2026/06/06/sriram-krishnan-is-leaving-his-role-as-white-house-ai-advisor/)**
-  *Krishnan is reportedly starting a new institution to continue shaping Trump's AI policy....*
-  📅 Sat, 06 Jun 2026 17:42:15 +0000
-
-- **[The Trump administration might take an equity stake in OpenAI](https://techcrunch.com/2026/06/06/the-trump-administration-might-take-an-equity-stake-in-openai/)**
-  *President Donald Trump said he's discussing deals "where the American people can benefit from the success of AI."...*
-  📅 Sat, 06 Jun 2026 16:17:21 +0000
-
-- **[Beyond Instagram: Introducing the next generation of social apps](https://techcrunch.com/2026/06/06/beyond-instagram-introducing-the-next-generation-of-social-apps/)**
-  *These newer social apps offer alternatives to Big Tech’s feeds, focusing on interests, creativity, and community....*
-  📅 Sat, 06 Jun 2026 15:00:00 +0000
-
-- **[Reid Hoffman is leaving Microsoft’s board to go ‘founder mode’ with  startup Manus](https://techcrunch.com/2026/06/05/reid-hoffman-is-leaving-microsofts-board-to-go-founder-mode-with-startup-manus/)**
-  *After a very profitable decade on Microsoft's board, Reid Hoffman is stepping down to focus on his AI drug discovery startup Manus....*
-  📅 Fri, 05 Jun 2026 22:35:01 +0000
-
 ### 📑 Dev.to
 
-- **[PULSE GUARD PROJECT](https://dev.to/sanathkumarp14/pulse-guard-project-3m7b)**
-  *<p>I’m excited to share a project I’ve been building from the ground up: PulseGuard.</p>
+- **[Building a Personal Study Planner Agent in typescript with HazelJS](https://dev.to/nisa_fatima_bcd75fa085b76/building-a-personal-study-planner-agent-in-typescript-with-hazeljs-12g0)**
+  *<p>AI agents become more useful when they are not just chatbots, but small systems that can understand a request, call tools, retrieve knowledge, and return structured results.</p>
 
-<p>It’s a comprehensive monitoring platform designed to give developers and businesses peace of mind. Whether ...*
-  📅 Sun, 07 Jun 2026 13:07:01 +0000
+<p>For this exampl...*
+  📅 Sun, 07 Jun 2026 18:54:46 +0000
 
-- **[AI Agents Don’t Need More Prompts. They Need Execution Boundaries.](https://dev.to/rbuckley_/ai-agents-dont-need-more-prompts-they-need-execution-boundaries-5acg)**
-  *<p>AI agents are moving from chat into action.</p>
-
-<p>They can call tools, send emails, update records, delete data, trigger workflows, deploy code, issue refunds, change IAM permissions, and interac...*
-  📅 Sun, 07 Jun 2026 12:51:34 +0000
+- **[Simple A2A implementation with Strands](https://dev.to/aws-builders/simple-a2a-implementation-with-strands-2n7)**
+  *<p>A2A has become like a standard for enabling agent to agent communication, we could use the a2a-sdk for running and configuring the a2a server and its features such as agent card, agent skills, agen...*
+  📅 Sun, 07 Jun 2026 18:38:48 +0000
 
 </details>
 
@@ -119,103 +119,103 @@
 
 ### 📈 Daily Trending
 
-- **[JimLiu/baoyu-design](https://github.com/JimLiu/baoyu-design)** ⭐ 157
+- **[JimLiu/baoyu-design](https://github.com/JimLiu/baoyu-design)** ⭐ 222
   ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
   Run Claude Design locally as an Agent Skill — Cursor, Claude Code & more. Produce polished UI mockups, prototypes, decks & wireframes as self-contained HTML, without claude.ai/design. Best with Opus 4.8.
 
-- **[ridgekhanice/undress-ai-image-video-generator](https://github.com/ridgekhanice/undress-ai-image-video-generator)** ⭐ 26
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  An easy-to-use AI-powered image and video generation tool designed for Windows
-
-- **[jhljx/RecSys-Industrial-Book](https://github.com/jhljx/RecSys-Industrial-Book)** ⭐ 24
-  ![None](https://img.shields.io/badge/-None-lightgrey)
-  None
-
-- **[TwoSevenOneT/EDRChoker](https://github.com/TwoSevenOneT/EDRChoker)** ⭐ 18
-  ![C#](https://img.shields.io/badge/-C#-lightgrey)
-  A tool uses the QoS Policy (Pacer.sys) to throttle Endpoint Detection and Response (EDR) agents from connecting to the server.
-
-- **[CMC-27/Vibe-App-Wiki](https://github.com/CMC-27/Vibe-App-Wiki)** ⭐ 17
-  ![None](https://img.shields.io/badge/-None-lightgrey)
-  None
-
-- **[cloud-1104/dy_video](https://github.com/cloud-1104/dy_video)** ⭐ 16
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  None
-
-- **[mkhazaeidev/pypi-wheel-downloader](https://github.com/mkhazaeidev/pypi-wheel-downloader)** ⭐ 15
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  Download all available wheel files for the latest release of any PyPI package directly from the official PyPI API.
-
-- **[beijingcao/binance-deribit-btc](https://github.com/beijingcao/binance-deribit-btc)** ⭐ 13
+- **[beijingcao/binance-deribit-btc](https://github.com/beijingcao/binance-deribit-btc)** ⭐ 76
   ![Python](https://img.shields.io/badge/-Python-blue)
   Binance and Deribit BTC cross-exchange arbitrage bot with Redis state recovery, Telegram alerts, and a Flask monitoring dashboard.
 
+- **[Titanbraindex/Disk-Drill-Pro-Recovery](https://github.com/Titanbraindex/Disk-Drill-Pro-Recovery)** ⭐ 66
+  ![None](https://img.shields.io/badge/-None-lightgrey)
+  Disk Drill Professional - The premier data recovery software for Windows. Easily recover deleted files, photos, videos, and documents from any storage device with advanced deep scanning.
+
+- **[Dimensiontashop/Claude-Mythos-AI-App](https://github.com/Dimensiontashop/Claude-Mythos-AI-App)** ⭐ 66
+  ![None](https://img.shields.io/badge/-None-lightgrey)
+  Claude Mythos AI Anthropic App desktop free pro opus frontend client API wrapper Claude 3.5 Sonnet Opus LLM chatbot roleplay jailbreak uncensored character prompt templates
+
+- **[DistributorTouch/Midjourney-Bot-Premium-Desktop](https://github.com/DistributorTouch/Midjourney-Bot-Premium-Desktop)** ⭐ 61
+  ![None](https://img.shields.io/badge/-None-lightgrey)
+  Standalone desktop client for Midjourney API. Unlimited fast hours and bypass Discord UI limitations.
+
+- **[BronzePhoenixBarrier/codex-app](https://github.com/BronzePhoenixBarrier/codex-app)** ⭐ 58
+  ![None](https://img.shields.io/badge/-None-lightgrey)
+  codex app - AI coding tool for writing, reviewing, and debugging code. Comprehensive guide with setup instructions, feature highlights, and system requirements.
+
+- **[branchscholarignite/ElevenLabs-Voice-Cloning-Pro](https://github.com/branchscholarignite/ElevenLabs-Voice-Cloning-Pro)** ⭐ 58
+  ![None](https://img.shields.io/badge/-None-lightgrey)
+  Premium voice synthesis tool. Clone any voice from a 30-second audio clip with zero limits on character count.
+
+- **[MythicShipper/Spectrasonics-Omnisphere-2-Windows](https://github.com/MythicShipper/Spectrasonics-Omnisphere-2-Windows)** ⭐ 58
+  ![None](https://img.shields.io/badge/-None-lightgrey)
+  Flagship synthesizer plugin. Massive 64GB sound library unlocked with all 14,000+ sounds available.
+
 ### 📈 Weekly Trending
 
-- **[b-nnett/goose](https://github.com/b-nnett/goose)** ⭐ 2,199
+- **[b-nnett/goose](https://github.com/b-nnett/goose)** ⭐ 2,232
   ![Rust](https://img.shields.io/badge/-Rust-brown)
   Goose Swift proof-of-concept README
 
-- **[cpaczek/skylight](https://github.com/cpaczek/skylight)** ⭐ 2,183
+- **[cpaczek/skylight](https://github.com/cpaczek/skylight)** ⭐ 2,220
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   Project the aircraft passing overhead onto your ceiling in real time, from an RTL-SDR — with a live sky layer (sun, moon, stars, ISS) and where each plane is headed.
 
-- **[jd-opensource/JoyAI-Echo](https://github.com/jd-opensource/JoyAI-Echo)** ⭐ 799
+- **[jd-opensource/JoyAI-Echo](https://github.com/jd-opensource/JoyAI-Echo)** ⭐ 823
   ![Python](https://img.shields.io/badge/-Python-blue)
   JoyAI-Echo: Pushing the Frontier of Long Audio-Visual Generation
 
-- **[qiuqiubuchongle-cloud/chokepoint-atlas](https://github.com/qiuqiubuchongle-cloud/chokepoint-atlas)** ⭐ 594
+- **[qiuqiubuchongle-cloud/chokepoint-atlas](https://github.com/qiuqiubuchongle-cloud/chokepoint-atlas)** ⭐ 600
   ![Python](https://img.shields.io/badge/-Python-blue)
   None
 
-- **[VAST-AI-Research/TripoSplat](https://github.com/VAST-AI-Research/TripoSplat)** ⭐ 510
+- **[VAST-AI-Research/TripoSplat](https://github.com/VAST-AI-Research/TripoSplat)** ⭐ 516
   ![Python](https://img.shields.io/badge/-Python-blue)
   TripoSplat converts a single 2D image into high-quality and variable number of 3D Gaussians, developed by TripoAI.
 
-- **[tastyeffectco/sandboxes](https://github.com/tastyeffectco/sandboxes)** ⭐ 484
+- **[tastyeffectco/sandboxd](https://github.com/tastyeffectco/sandboxd)** ⭐ 487
   ![Go](https://img.shields.io/badge/-Go-cyan)
   Self-hosted dev sandboxes with preview URLs. One command. No Kubernetes, perfect for coding agents and Saas factories
 
-- **[tiantianGPU/reg-factory](https://github.com/tiantianGPU/reg-factory)** ⭐ 472
+- **[tiantianGPU/reg-factory](https://github.com/tiantianGPU/reg-factory)** ⭐ 475
   ![Python](https://img.shields.io/badge/-Python-blue)
   None
 
-- **[Jane-xiaoer/xiaoer-videolab](https://github.com/Jane-xiaoer/xiaoer-videolab)** ⭐ 459
+- **[Jane-xiaoer/xiaoer-videolab](https://github.com/Jane-xiaoer/xiaoer-videolab)** ⭐ 462
   ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
   One click on the toolbar grabs the current page's video into ~/Downloads — local yt-dlp daemon, 1800+ sites. 小耳抓视频：一键把当前页视频抓到本地。
 
 ### 📈 Monthly Trending
 
-- **[pewdiepie-archdaemon/odysseus](https://github.com/pewdiepie-archdaemon/odysseus)** ⭐ 60,439
+- **[pewdiepie-archdaemon/odysseus](https://github.com/pewdiepie-archdaemon/odysseus)** ⭐ 61,120
   ![Python](https://img.shields.io/badge/-Python-blue)
   Self-hosted AI workspace. 
 
-- **[unicity-astrid/sdk-js](https://github.com/unicity-astrid/sdk-js)** ⭐ 7,772
+- **[unicity-astrid/sdk-js](https://github.com/unicity-astrid/sdk-js)** ⭐ 7,869
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   JavaScript / TypeScript SDK for building Astrid OS capsules. Companion to unicity-astrid/sdk-rust.
 
-- **[FULU-Foundation/OrcaSlicer-bambulab](https://github.com/FULU-Foundation/OrcaSlicer-bambulab)** ⭐ 6,813
+- **[FULU-Foundation/OrcaSlicer-bambulab](https://github.com/FULU-Foundation/OrcaSlicer-bambulab)** ⭐ 6,819
   ![C++](https://img.shields.io/badge/-C++-pink)
   None
 
-- **[nexu-io/html-anything](https://github.com/nexu-io/html-anything)** ⭐ 6,241
+- **[nexu-io/html-anything](https://github.com/nexu-io/html-anything)** ⭐ 6,259
   ![HTML](https://img.shields.io/badge/-HTML-lightgrey)
   ✨ The agentic HTML editor — your local AI agent writes the HTML, you ship it. 🚀 75 Skills × 9 Surfaces (magazine · deck · poster · XHS / tweet · prototype · data report · Hyperframes) 🛡️ Sandboxed preview · 📤 1-click to WeChat / X / Zhihu / HTML / PNG 🔑 Zero API key — Claude Code / Cursor / Codex / Gemini / Copilot / OpenCode / Qwen / Aider.
 
-- **[anthropics/defending-code-reference-harness](https://github.com/anthropics/defending-code-reference-harness)** ⭐ 5,005
+- **[anthropics/defending-code-reference-harness](https://github.com/anthropics/defending-code-reference-harness)** ⭐ 5,061
   ![Python](https://img.shields.io/badge/-Python-blue)
   Skills for threat modeling, scanning, triage, patching, plus an autonomous scanning harness you can /customize
 
-- **[vercel-labs/zerolang](https://github.com/vercel-labs/zerolang)** ⭐ 4,911
+- **[vercel-labs/zerolang](https://github.com/vercel-labs/zerolang)** ⭐ 4,912
   ![C](https://img.shields.io/badge/-C-lightgrey)
   The programming language for agents
 
-- **[simplifaisoul/osiris](https://github.com/simplifaisoul/osiris)** ⭐ 4,576
+- **[simplifaisoul/osiris](https://github.com/simplifaisoul/osiris)** ⭐ 4,599
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   Open Source Global Intelligence Platform - Real-Time OSINT Dashboard - A Palantir Alternative
 
-- **[alibaba/open-code-review](https://github.com/alibaba/open-code-review)** ⭐ 4,406
+- **[alibaba/open-code-review](https://github.com/alibaba/open-code-review)** ⭐ 4,579
   ![Go](https://img.shields.io/badge/-Go-cyan)
   Open-source & free — Battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in fine-tuned ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.
 
@@ -492,59 +492,59 @@ architectures, it has become apparent...
 
 | Skill | Status |
 |-------|--------|
-| Java | ⚪ Planned |
-| Python | 🟡 Learning |
-| JavaScript | 🟡 Learning |
+| Java | 🟢 Proficient |
+| Python | ⚪ Planned |
+| JavaScript | ⚪ Planned |
 | TypeScript | ⚪ Planned |
-| Go | 🟡 Learning |
+| Go | 🟢 Proficient |
 
 ### Frameworks
 
 | Skill | Status |
 |-------|--------|
-| React | 🟢 Proficient |
+| React | ⚪ Planned |
 | Spring Boot | 🟡 Learning |
-| Django | 🔴 Beginner |
-| Node.js | 🟡 Learning |
-| Next.js | 🟢 Proficient |
+| Django | ⚪ Planned |
+| Node.js | 🟢 Proficient |
+| Next.js | 🔴 Beginner |
 
 ### Cybersecurity
 
 | Skill | Status |
 |-------|--------|
-| Penetration Testing | 🟢 Proficient |
-| Web Security | 🟢 Proficient |
-| Network Security | 🔴 Beginner |
-| OWASP | 🔴 Beginner |
+| Penetration Testing | 🟡 Learning |
+| Web Security | 🔴 Beginner |
+| Network Security | ⚪ Planned |
+| OWASP | 🟡 Learning |
 
 ### Ai Ml
 
 | Skill | Status |
 |-------|--------|
-| Machine Learning | ⚪ Planned |
-| Deep Learning | 🟡 Learning |
-| NLP | ⚪ Planned |
-| Computer Vision | 🟡 Learning |
-| TensorFlow | 🔴 Beginner |
-| PyTorch | 🟡 Learning |
+| Machine Learning | 🟡 Learning |
+| Deep Learning | ⚪ Planned |
+| NLP | 🟢 Proficient |
+| Computer Vision | ⚪ Planned |
+| TensorFlow | 🟢 Proficient |
+| PyTorch | 🔴 Beginner |
 
 ### Devops
 
 | Skill | Status |
 |-------|--------|
-| Docker | ⚪ Planned |
+| Docker | 🟡 Learning |
 | Kubernetes | 🟡 Learning |
 | CI/CD | 🔴 Beginner |
-| AWS | 🟢 Proficient |
-| Azure | 🟡 Learning |
+| AWS | 🟡 Learning |
+| Azure | 🔴 Beginner |
 
 ### Other
 
 | Skill | Status |
 |-------|--------|
 | Blockchain | 🟡 Learning |
-| Web3 | 🔴 Beginner |
-| Cloud Computing | 🟡 Learning |
+| Web3 | 🟢 Proficient |
+| Cloud Computing | ⚪ Planned |
 
 </details>
 
