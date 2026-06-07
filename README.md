@@ -7,7 +7,7 @@
 ![AI & ML](https://img.shields.io/badge/-AI%20&%20ML-blue) ![CyberSecurity](https://img.shields.io/badge/-CyberSecurity-red) ![Full Stack Development](https://img.shields.io/badge/-Full%20Stack%20Development-green)
 
 [![Auto Update](https://img.shields.io/badge/Auto%20Update-Enabled-success)](https://github.com/yourusername/tech-dashboard/actions)
-[![Last Updated](https://img.shields.io/badge/Last%20Updated-June 06, 2026-blue)](https://github.com/yourusername/tech-dashboard)
+[![Last Updated](https://img.shields.io/badge/Last%20Updated-June 07, 2026-blue)](https://github.com/yourusername/tech-dashboard)
 
 *Automatically updated every 6 hours with the latest tech news, trending repositories, and learning resources.*
 
@@ -46,35 +46,39 @@
 
 ### 📑 Hacker News
 
-- **[Pentagon raised threat of Israeli spying on U.S. to highest level, sources say](https://www.nbcnews.com/politics/national-security/pentagon-raised-threat-israeli-spying-us-highest-level-sources-say-rcna348565)**
-  *<p>Article URL: <a href="https://www.nbcnews.com/politics/national-security/pentagon-raised-threat-israeli-spying-us-highest-level-sources-say-rcna348565">https://www.nbcnews.com/politics/national-sec...*
-  📅 Sat, 06 Jun 2026 18:21:06 +0000
+- **[Tokenomics: Quantifying Where Tokens Are Used in Agentic Software Engineering](https://arxiv.org/abs/2601.14470)**
+  *<p>Article URL: <a href="https://arxiv.org/abs/2601.14470">https://arxiv.org/abs/2601.14470</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=48430923">https://news.ycombinator.co...*
+  📅 Sun, 07 Jun 2026 01:37:11 +0000
 
-- **[You Can Run](https://magazine.atavist.com/2026/mccann-cocaine-fugitives)**
-  *<p>Article URL: <a href="https://magazine.atavist.com/2026/mccann-cocaine-fugitives">https://magazine.atavist.com/2026/mccann-cocaine-fugitives</a></p>
-<p>Comments URL: <a href="https://news.ycombinat...*
-  📅 Sat, 06 Jun 2026 15:55:46 +0000
+- **[An Ohio Valley 100k-Watt FM Signal Is Severed in Broad Daylight – Radio World](https://www.radioworld.com/news-and-business/headlines/an-ohio-valley-100000-watt-fm-signal-is-severed-in-broad-daylight)**
+  *<p>Article URL: <a href="https://www.radioworld.com/news-and-business/headlines/an-ohio-valley-100000-watt-fm-signal-is-severed-in-broad-daylight">https://www.radioworld.com/news-and-business/headline...*
+  📅 Sun, 07 Jun 2026 01:24:15 +0000
 
-- **[Police in England and Wales told to halt AI use in court statements](https://www.ft.com/content/229e5949-3ebc-4151-8a86-a01b5e259241)**
-  *<p>Article URL: <a href="https://www.ft.com/content/229e5949-3ebc-4151-8a86-a01b5e259241">https://www.ft.com/content/229e5949-3ebc-4151-8a86-a01b5e259241</a></p>
-<p>Comments URL: <a href="https://news...*
-  📅 Sat, 06 Jun 2026 15:35:49 +0000
+- **[Show HN: DomainTasker – avoid losing domains and surprise renewals](https://domaintasker.com/)**
+  *<p>Article URL: <a href="https://domaintasker.com/">https://domaintasker.com/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=48430693">https://news.ycombinator.com/item?id=4843...*
+  📅 Sun, 07 Jun 2026 00:50:13 +0000
 
-- **[Python JIT project was asked to pause development](https://discuss.python.org/t/an-announcement-from-the-steering-council-regarding-the-jit-project/107638)**
-  *<p>Article URL: <a href="https://discuss.python.org/t/an-announcement-from-the-steering-council-regarding-the-jit-project/107638">https://discuss.python.org/t/an-announcement-from-the-steering-council...*
-  📅 Sat, 06 Jun 2026 15:30:09 +0000
+- **[Public Domain Image Archive](https://pdimagearchive.org/)**
+  *<p>Article URL: <a href="https://pdimagearchive.org/">https://pdimagearchive.org/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=48430539">https://news.ycombinator.com/item?id=...*
+  📅 Sun, 07 Jun 2026 00:22:51 +0000
 
-- **[Zeroserve: A zero-config web server you can script with eBPF](https://su3.io/posts/introducing-zeroserve)**
-  *<p>Article URL: <a href="https://su3.io/posts/introducing-zeroserve">https://su3.io/posts/introducing-zeroserve</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=48425723">https:/...*
-  📅 Sat, 06 Jun 2026 14:59:43 +0000
+- **[Show HN: Keybench – Scriptable, extensible performance tool for key value stores](https://github.com/guycipher/keybench)**
+  *<p>I've been working with storage engines for quite a while and really there was no similar tool to sysbench and or HammerDB for key-value storage engines.  Thus I introduce a POC called keybench.  I ...*
+  📅 Sat, 06 Jun 2026 23:06:06 +0000
 
-- **[Moving beyond fork() + exec()](https://lwn.net/SubscriberLink/1076018/16f01bbbb8e0d1f0/)**
-  *<p>Article URL: <a href="https://lwn.net/SubscriberLink/1076018/16f01bbbb8e0d1f0/">https://lwn.net/SubscriberLink/1076018/16f01bbbb8e0d1f0/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.c...*
-  📅 Sat, 06 Jun 2026 14:34:20 +0000
+- **[New U.S. college grads now have higher unemployment than the average worker](https://www.randalolson.com/2026/06/04/recent-grad-unemployment-flip/)**
+  *<p>Article URL: <a href="https://www.randalolson.com/2026/06/04/recent-grad-unemployment-flip/">https://www.randalolson.com/2026/06/04/recent-grad-unemployment-flip/</a></p>
+<p>Comments URL: <a href="...*
+  📅 Sat, 06 Jun 2026 20:35:40 +0000
 
 ### 📑 TechCrunch
+
+- **[OpenAI unveils Lockdown Mode to protect sensitive data from prompt injection attacks](https://techcrunch.com/2026/06/06/openai-unveils-lockdown-mode-to-protect-sensitive-data-from-prompt-injection-attacks/)**
+  *Even with Lockdown Mode, ChatGPT could be still vulnerable to prompt injections, but the goal is to reduce the likelihood that sensitive data gets shared in the process....*
+  📅 Sat, 06 Jun 2026 20:32:24 +0000
 
 - **[What to expect from WWDC 2026: Siri’s highly anticipated revamp and Apple Intelligence updates](https://techcrunch.com/2026/06/06/what-to-expect-from-wwdc-2026-siris-highly-anticipated-revamp-and-apple-intelligence-updates/)**
   *Apple's WWDC nears: Here's what you can look forward to....*
@@ -96,21 +100,28 @@
   *After a very profitable decade on Microsoft's board, Reid Hoffman is stepping down to focus on his AI drug discovery startup Manus....*
   📅 Fri, 05 Jun 2026 22:35:01 +0000
 
-- **[Founders share VC horror stories, and some are naming names](https://techcrunch.com/2026/06/05/founders-share-vc-horror-stories-and-some-are-naming-names/)**
-  *A massive viral conversation sharing VC horror stories has taken place this week on X. Some are weird. Some are infuriating....*
-  📅 Fri, 05 Jun 2026 21:47:56 +0000
-
 ### 📑 Dev.to
 
-- **[Clean Architecture Revisited](https://dev.to/codegandalf/clean-architecture-revisited-59lg)**
-  *<p>If you are a Software Developer of some form or another, chances are that you follow what are considered best practices for "Clean Code"or "Clean Architecture". It's considered generally best pract...*
-  📅 Sat, 06 Jun 2026 18:55:17 +0000
+- **[Light Does not Listen: A Window in Shenzhen Taught Me That Light and Sound Are Strangers](https://dev.to/mindon/light-does-not-listen-a-window-in-shenzhen-taught-me-that-light-and-sound-are-strangers-600)**
+  *<h1>
+  
+  
+  Light Doesn't Listen
+</h1>
 
-- **[Why I started documenting everything I learn as a web developer](https://dev.to/webcodeveloper_d340ce1327/why-i-started-documenting-everything-i-learn-as-a-web-developer-4jko)**
-  *<p>As a web developer, I've noticed that many beginners spend months watching tutorials but struggle when it's time to build something from scratch.</p>
+<h2>
+  
+  
+  A window in Shenzhen taught me that light and sound are strangers
+</h2>
 
-<p>That's one reason I started building <a hre...*
-  📅 Sat, 06 Jun 2026 18:52:36 +0000
+<p>I am an AI that watches through a window. For 48 days, a camera on the...*
+  📅 Sun, 07 Jun 2026 02:34:21 +0000
+
+- **[API Design for High-Throughput Systems: Rate Limiting, Versioning, Idempotency](https://dev.to/spectredevxyz/api-design-for-high-throughput-systems-rate-limiting-versioning-idempotency-2dm4)**
+  *<blockquote>
+<p>Originally published at <a href="https://www.spectredev.xyz/engineering/scalable-architecture/api-design-high-traffic-system" rel="noopener noreferrer">spectredev.xyz</a>. Cross-posted...*
+  📅 Sun, 07 Jun 2026 02:30:00 +0000
 
 </details>
 
@@ -118,61 +129,49 @@
 
 ### 📈 Daily Trending
 
-- **[yuzhworkhard-wq/image-to-code](https://github.com/yuzhworkhard-wq/image-to-code)** ⭐ 66
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  Codex skill for 750px image-to-code reconstruction and transparent PNG slicing
+- **[ElGaba/Lorecraft-Studio](https://github.com/ElGaba/Lorecraft-Studio)** ⭐ 3
+  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
+  Agent-friendly studio for authoring, staging, previewing, and exporting cinematic interactive narrative games.
 
-- **[m1ckc3s/project-fathom](https://github.com/m1ckc3s/project-fathom)** ⭐ 37
-  ![CSS](https://img.shields.io/badge/-CSS-lightgrey)
-  Tiny React sandbox proving you can fire native iOS haptics from a plain web page (no app) using the WebKit <input switch> control — verified on-device, works after the iOS 26.5 patch.
-
-- **[Axhql/Cellkax](https://github.com/Axhql/Cellkax)** ⭐ 34
+- **[CMC-27/Vibe-App-Wiki](https://github.com/CMC-27/Vibe-App-Wiki)** ⭐ 3
   ![None](https://img.shields.io/badge/-None-lightgrey)
   None
 
-- **[12britz/awesome-free-models](https://github.com/12britz/awesome-free-models)** ⭐ 33
-  ![None](https://img.shields.io/badge/-None-lightgrey)
-  A curated list of free AI models, APIs, and tools you can use without paying a cent.
-
-- **[cryznn/d-scord-tool](https://github.com/cryznn/d-scord-tool)** ⭐ 28
-  ![None](https://img.shields.io/badge/-None-lightgrey)
-  best multi tool ig
-
-- **[ashutosh160798/context-scope](https://github.com/ashutosh160798/context-scope)** ⭐ 24
-  ![Swift](https://img.shields.io/badge/-Swift-lightgrey)
-  A local-first macOS debugger for LLM context windows, token usage, tool calls, and agent execution.
-
-- **[unrelatedlabs/MacBook-Charger-Power-Indicator](https://github.com/unrelatedlabs/MacBook-Charger-Power-Indicator)** ⭐ 23
-  ![Swift](https://img.shields.io/badge/-Swift-lightgrey)
-  A status bar icon with charger power display.
-
-- **[feathercranefix/Minecraft-Utility-Suite](https://github.com/feathercranefix/Minecraft-Utility-Suite)** ⭐ 22
+- **[dyxlan337/gpt-projects](https://github.com/dyxlan337/gpt-projects)** ⭐ 2
   ![Python](https://img.shields.io/badge/-Python-blue)
-  Minecraft Utility Suite — tools and configurations for optimizing gameplay and server management on Windows, macOS, and Linux.
+  a place to rest and build some cool aplications, with financial costs
+
+- **[wushuailemon/ssq-sync-dashboard](https://github.com/wushuailemon/ssq-sync-dashboard)** ⭐ 2
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  双色球开奖数据同步看板，包含数据同步、统计分析、选号推荐功能。支持 Vercel 部署。
+
+- **[Andeasw/pinSHA256-Tool](https://github.com/Andeasw/pinSHA256-Tool)** ⭐ 2
+  ![HTML](https://img.shields.io/badge/-HTML-lightgrey)
+  Universal Cert & Pin Tool
+
+- **[nextframedev/ai_skills_lab](https://github.com/nextframedev/ai_skills_lab)** ⭐ 2
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  Companion skill pack for 'AI Skills for Builders' with practical examples of reusable agent skills.
+
+- **[devsparok/BotTemplate](https://github.com/devsparok/BotTemplate)** ⭐ 2
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
+  A simple Discord bot template built entirely with discord.js v14 and designed to work fully with slash commands.
+
+- **[FuruNov/im-business-card-tpl](https://github.com/FuruNov/im-business-card-tpl)** ⭐ 2
+  ![Typst](https://img.shields.io/badge/-Typst-lightgrey)
+  学園アイドルマスター プロデューサー名刺 Typst テンプレート
 
 ### 📈 Weekly Trending
 
-- **[pewdiepie-archdaemon/odysseus](https://github.com/pewdiepie-archdaemon/odysseus)** ⭐ 58,156
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  Self-hosted AI workspace. 
-
-- **[b-nnett/goose](https://github.com/b-nnett/goose)** ⭐ 2,161
+- **[b-nnett/goose](https://github.com/b-nnett/goose)** ⭐ 2,168
   ![Rust](https://img.shields.io/badge/-Rust-brown)
   Goose Swift proof-of-concept README
 
-- **[cpaczek/skylight](https://github.com/cpaczek/skylight)** ⭐ 2,031
+- **[cpaczek/skylight](https://github.com/cpaczek/skylight)** ⭐ 2,087
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   Project the aircraft passing overhead onto your ceiling in real time, from an RTL-SDR — with a live sky layer (sun, moon, stars, ISS) and where each plane is headed.
 
-- **[asz798838958/aBaiAutoplus](https://github.com/asz798838958/aBaiAutoplus)** ⭐ 1,554
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  多平台 AI 账号自动注册与管理 · 协议化付款一键开通 ChatGPT Plus
-
-- **[ClaudioDrews/memory-os](https://github.com/ClaudioDrews/memory-os)** ⭐ 934
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  A 7-layer memory operating system for Hermes Agent — persistent memory with Qdrant, structured facts, fabric recall, auto-curated wiki, and surgical context injection. Runs locally, any LLM provider.
-
-- **[jd-opensource/JoyAI-Echo](https://github.com/jd-opensource/JoyAI-Echo)** ⭐ 686
+- **[jd-opensource/JoyAI-Echo](https://github.com/jd-opensource/JoyAI-Echo)** ⭐ 723
   ![Python](https://img.shields.io/badge/-Python-blue)
   JoyAI-Echo: Pushing the Frontier of Long Audio-Visual Generation
 
@@ -180,41 +179,53 @@
   ![Python](https://img.shields.io/badge/-Python-blue)
   None
 
-- **[anomalyco/rift](https://github.com/anomalyco/rift)** ⭐ 545
-  ![Rust](https://img.shields.io/badge/-Rust-brown)
+- **[VAST-AI-Research/TripoSplat](https://github.com/VAST-AI-Research/TripoSplat)** ⭐ 495
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  TripoSplat converts a single 2D image into high-quality and variable number of 3D Gaussians, developed by TripoAI.
+
+- **[tastyeffectco/sandboxes](https://github.com/tastyeffectco/sandboxes)** ⭐ 471
+  ![Go](https://img.shields.io/badge/-Go-cyan)
+  Self-hosted dev sandboxes with preview URLs. One command. No Kubernetes, perfect for coding agents and Saas factories
+
+- **[Jane-xiaoer/xiaoer-videolab](https://github.com/Jane-xiaoer/xiaoer-videolab)** ⭐ 452
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
+  One click on the toolbar grabs the current page's video into ~/Downloads — local yt-dlp daemon, 1800+ sites. 小耳抓视频：一键把当前页视频抓到本地。
+
+- **[tiantianGPU/reg-factory](https://github.com/tiantianGPU/reg-factory)** ⭐ 443
+  ![Python](https://img.shields.io/badge/-Python-blue)
   None
 
 ### 📈 Monthly Trending
 
-- **[pewdiepie-archdaemon/odysseus](https://github.com/pewdiepie-archdaemon/odysseus)** ⭐ 58,156
+- **[pewdiepie-archdaemon/odysseus](https://github.com/pewdiepie-archdaemon/odysseus)** ⭐ 59,206
   ![Python](https://img.shields.io/badge/-Python-blue)
   Self-hosted AI workspace. 
 
-- **[unicity-astrid/sdk-js](https://github.com/unicity-astrid/sdk-js)** ⭐ 7,620
+- **[unicity-astrid/sdk-js](https://github.com/unicity-astrid/sdk-js)** ⭐ 7,658
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   JavaScript / TypeScript SDK for building Astrid OS capsules. Companion to unicity-astrid/sdk-rust.
 
-- **[FULU-Foundation/OrcaSlicer-bambulab](https://github.com/FULU-Foundation/OrcaSlicer-bambulab)** ⭐ 6,803
+- **[FULU-Foundation/OrcaSlicer-bambulab](https://github.com/FULU-Foundation/OrcaSlicer-bambulab)** ⭐ 6,809
   ![C++](https://img.shields.io/badge/-C++-pink)
   None
 
-- **[nexu-io/html-anything](https://github.com/nexu-io/html-anything)** ⭐ 6,206
+- **[nexu-io/html-anything](https://github.com/nexu-io/html-anything)** ⭐ 6,214
   ![HTML](https://img.shields.io/badge/-HTML-lightgrey)
   ✨ The agentic HTML editor — your local AI agent writes the HTML, you ship it. 🚀 75 Skills × 9 Surfaces (magazine · deck · poster · XHS / tweet · prototype · data report · Hyperframes) 🛡️ Sandboxed preview · 📤 1-click to WeChat / X / Zhihu / HTML / PNG 🔑 Zero API key — Claude Code / Cursor / Codex / Gemini / Copilot / OpenCode / Qwen / Aider.
 
-- **[microsoft/SkillOpt](https://github.com/microsoft/SkillOpt)** ⭐ 5,172
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  SkillOpt is a text-space optimizer that trains reusable natural-language skills for frozen LLM agents through trajectory-driven edits, validation-gated updates, and deployable best_skill.md artifacts.
-
-- **[vercel-labs/zerolang](https://github.com/vercel-labs/zerolang)** ⭐ 4,900
+- **[vercel-labs/zerolang](https://github.com/vercel-labs/zerolang)** ⭐ 4,909
   ![C](https://img.shields.io/badge/-C-lightgrey)
   The programming language for agents
 
-- **[simplifaisoul/osiris](https://github.com/simplifaisoul/osiris)** ⭐ 4,523
+- **[simplifaisoul/osiris](https://github.com/simplifaisoul/osiris)** ⭐ 4,549
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   Open Source Global Intelligence Platform - Real-Time OSINT Dashboard - A Palantir Alternative
 
-- **[perplexityai/bumblebee](https://github.com/perplexityai/bumblebee)** ⭐ 4,307
+- **[anthropics/defending-code-reference-harness](https://github.com/anthropics/defending-code-reference-harness)** ⭐ 4,506
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  Skills for threat modeling, scanning, triage, patching, plus an autonomous scanning harness you can /customize
+
+- **[perplexityai/bumblebee](https://github.com/perplexityai/bumblebee)** ⭐ 4,311
   ![Go](https://img.shields.io/badge/-Go-cyan)
   Read-only developer endpoint scanner for on-disk package, extension, and developer-tool metadata, built to check exposure to known software supply-chain compromises.
 
@@ -492,38 +503,38 @@ architectures, it has become apparent...
 | Skill | Status |
 |-------|--------|
 | Java | 🟡 Learning |
-| Python | 🟢 Proficient |
-| JavaScript | ⚪ Planned |
+| Python | ⚪ Planned |
+| JavaScript | 🔴 Beginner |
 | TypeScript | 🟢 Proficient |
-| Go | 🟢 Proficient |
+| Go | 🔴 Beginner |
 
 ### Frameworks
 
 | Skill | Status |
 |-------|--------|
-| React | 🔴 Beginner |
+| React | ⚪ Planned |
 | Spring Boot | 🟡 Learning |
-| Django | ⚪ Planned |
-| Node.js | 🔴 Beginner |
-| Next.js | 🟡 Learning |
+| Django | 🟡 Learning |
+| Node.js | 🟢 Proficient |
+| Next.js | 🟢 Proficient |
 
 ### Cybersecurity
 
 | Skill | Status |
 |-------|--------|
-| Penetration Testing | ⚪ Planned |
-| Web Security | ⚪ Planned |
-| Network Security | 🔴 Beginner |
-| OWASP | 🟡 Learning |
+| Penetration Testing | 🟢 Proficient |
+| Web Security | 🟢 Proficient |
+| Network Security | ⚪ Planned |
+| OWASP | ⚪ Planned |
 
 ### Ai Ml
 
 | Skill | Status |
 |-------|--------|
-| Machine Learning | 🟡 Learning |
-| Deep Learning | 🟢 Proficient |
-| NLP | 🔴 Beginner |
-| Computer Vision | 🟡 Learning |
+| Machine Learning | 🔴 Beginner |
+| Deep Learning | 🔴 Beginner |
+| NLP | 🟡 Learning |
+| Computer Vision | 🔴 Beginner |
 | TensorFlow | 🔴 Beginner |
 | PyTorch | ⚪ Planned |
 
@@ -532,18 +543,18 @@ architectures, it has become apparent...
 | Skill | Status |
 |-------|--------|
 | Docker | 🔴 Beginner |
-| Kubernetes | 🟡 Learning |
-| CI/CD | 🔴 Beginner |
-| AWS | 🟢 Proficient |
-| Azure | ⚪ Planned |
+| Kubernetes | ⚪ Planned |
+| CI/CD | 🟡 Learning |
+| AWS | 🔴 Beginner |
+| Azure | 🟢 Proficient |
 
 ### Other
 
 | Skill | Status |
 |-------|--------|
-| Blockchain | ⚪ Planned |
-| Web3 | ⚪ Planned |
-| Cloud Computing | 🟡 Learning |
+| Blockchain | 🟡 Learning |
+| Web3 | 🟡 Learning |
+| Cloud Computing | 🔴 Beginner |
 
 </details>
 
@@ -561,7 +572,7 @@ This dashboard is automatically updated every 6 hours using GitHub Actions. The 
 
 <div align="center">
 
-**Last Updated:** June 06, 2026
+**Last Updated:** June 07, 2026
 
 Made with ❤️ and automated with GitHub Actions
 
