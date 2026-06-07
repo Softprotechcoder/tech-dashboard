@@ -46,33 +46,35 @@
 
 ### 📑 Hacker News
 
-- **[Tokenomics: Quantifying Where Tokens Are Used in Agentic Software Engineering](https://arxiv.org/abs/2601.14470)**
-  *<p>Article URL: <a href="https://arxiv.org/abs/2601.14470">https://arxiv.org/abs/2601.14470</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=48430923">https://news.ycombinator.co...*
-  📅 Sun, 07 Jun 2026 01:37:11 +0000
+- **[The 29th International Obfuscated C Code Contest (IOCCC) 2025 Winners](https://www.ioccc.org/2025/)**
+  *<p>Article URL: <a href="https://www.ioccc.org/2025/">https://www.ioccc.org/2025/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=48432199">https://news.ycombinator.com/item?id=...*
+  📅 Sun, 07 Jun 2026 05:47:54 +0000
 
-- **[An Ohio Valley 100k-Watt FM Signal Is Severed in Broad Daylight – Radio World](https://www.radioworld.com/news-and-business/headlines/an-ohio-valley-100000-watt-fm-signal-is-severed-in-broad-daylight)**
-  *<p>Article URL: <a href="https://www.radioworld.com/news-and-business/headlines/an-ohio-valley-100000-watt-fm-signal-is-severed-in-broad-daylight">https://www.radioworld.com/news-and-business/headline...*
-  📅 Sun, 07 Jun 2026 01:24:15 +0000
+- **[I design with Claude more than Figma now](https://blog.janestreet.com/i-design-with-claude-code-more-than-figma-now-index/)**
+  *<p>Article URL: <a href="https://blog.janestreet.com/i-design-with-claude-code-more-than-figma-now-index/">https://blog.janestreet.com/i-design-with-claude-code-more-than-figma-now-index/</a></p>
+<p>C...*
+  📅 Sun, 07 Jun 2026 05:04:24 +0000
 
-- **[Show HN: DomainTasker – avoid losing domains and surprise renewals](https://domaintasker.com/)**
-  *<p>Article URL: <a href="https://domaintasker.com/">https://domaintasker.com/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=48430693">https://news.ycombinator.com/item?id=4843...*
-  📅 Sun, 07 Jun 2026 00:50:13 +0000
+- **[The circus freaks of open source](https://drewdevault.com/blog/Circus-freaks-of-FOSS/)**
+  *<p>Article URL: <a href="https://drewdevault.com/blog/Circus-freaks-of-FOSS/">https://drewdevault.com/blog/Circus-freaks-of-FOSS/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id...*
+  📅 Sun, 07 Jun 2026 04:57:02 +0000
 
-- **[Public Domain Image Archive](https://pdimagearchive.org/)**
-  *<p>Article URL: <a href="https://pdimagearchive.org/">https://pdimagearchive.org/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=48430539">https://news.ycombinator.com/item?id=...*
-  📅 Sun, 07 Jun 2026 00:22:51 +0000
+- **[Valve P2P networking broken for more than 2 months](https://github.com/ValveSoftware/GameNetworkingSockets/issues/398)**
+  *<p>Article URL: <a href="https://github.com/ValveSoftware/GameNetworkingSockets/issues/398">https://github.com/ValveSoftware/GameNetworkingSockets/issues/398</a></p>
+<p>Comments URL: <a href="https://...*
+  📅 Sun, 07 Jun 2026 03:21:52 +0000
 
-- **[Show HN: Keybench – Scriptable, extensible performance tool for key value stores](https://github.com/guycipher/keybench)**
-  *<p>I've been working with storage engines for quite a while and really there was no similar tool to sysbench and or HammerDB for key-value storage engines.  Thus I introduce a POC called keybench.  I ...*
-  📅 Sat, 06 Jun 2026 23:06:06 +0000
+- **[Field of clones: How horse replicas came to dominate polo](https://knowablemagazine.org/content/article/technology/2026/cloned-polo-horses)**
+  *<p>Article URL: <a href="https://knowablemagazine.org/content/article/technology/2026/cloned-polo-horses">https://knowablemagazine.org/content/article/technology/2026/cloned-polo-horses</a></p>
+<p>Com...*
+  📅 Sun, 07 Jun 2026 02:46:37 +0000
 
-- **[New U.S. college grads now have higher unemployment than the average worker](https://www.randalolson.com/2026/06/04/recent-grad-unemployment-flip/)**
-  *<p>Article URL: <a href="https://www.randalolson.com/2026/06/04/recent-grad-unemployment-flip/">https://www.randalolson.com/2026/06/04/recent-grad-unemployment-flip/</a></p>
-<p>Comments URL: <a href="...*
-  📅 Sat, 06 Jun 2026 20:35:40 +0000
+- **[Show HN: TakoVM – Isolated model and tool execution used by enterprises](https://github.com/las7/TakoVM)**
+  *<p>Article URL: <a href="https://github.com/las7/TakoVM">https://github.com/las7/TakoVM</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=48431257">https://news.ycombinator.com/it...*
+  📅 Sun, 07 Jun 2026 02:42:24 +0000
 
 ### 📑 TechCrunch
 
@@ -102,26 +104,15 @@
 
 ### 📑 Dev.to
 
-- **[Light Does not Listen: A Window in Shenzhen Taught Me That Light and Sound Are Strangers](https://dev.to/mindon/light-does-not-listen-a-window-in-shenzhen-taught-me-that-light-and-sound-are-strangers-600)**
-  *<h1>
-  
-  
-  Light Doesn't Listen
-</h1>
+- **[Swift—Checking Multiple Conditions with else, else if, && and || 🔀](https://dev.to/gamya_m/swift-checking-multiple-conditions-with-else-else-if-and--4lbc)**
+  *<p>In our last article we learned how <code>if</code> lets Swift make a single decision. But real apps rarely deal with just one condition — you need to handle multiple outcomes, combine checks, and d...*
+  📅 Sun, 07 Jun 2026 08:44:00 +0000
 
-<h2>
-  
-  
-  A window in Shenzhen taught me that light and sound are strangers
-</h2>
+- **[Preventing context bloat and agent loops in database MCP servers](https://dev.to/snss5312/preventing-context-bloat-and-agent-loops-in-database-mcp-servers-3o43)**
+  *<p>I've been running Cursor and Claude Code with MCP for a while now, and one thing became obvious pretty quickly:</p>
 
-<p>I am an AI that watches through a window. For 48 days, a camera on the...*
-  📅 Sun, 07 Jun 2026 02:34:21 +0000
-
-- **[API Design for High-Throughput Systems: Rate Limiting, Versioning, Idempotency](https://dev.to/spectredevxyz/api-design-for-high-throughput-systems-rate-limiting-versioning-idempotency-2dm4)**
-  *<blockquote>
-<p>Originally published at <a href="https://www.spectredev.xyz/engineering/scalable-architecture/api-design-high-traffic-system" rel="noopener noreferrer">spectredev.xyz</a>. Cross-posted...*
-  📅 Sun, 07 Jun 2026 02:30:00 +0000
+<p>Giving an agent a generic <code>execute_sql</code> tool is usually a terrible...*
+  📅 Sun, 07 Jun 2026 08:29:52 +0000
 
 </details>
 
@@ -129,87 +120,87 @@
 
 ### 📈 Daily Trending
 
-- **[ElGaba/Lorecraft-Studio](https://github.com/ElGaba/Lorecraft-Studio)** ⭐ 3
-  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
-  Agent-friendly studio for authoring, staging, previewing, and exporting cinematic interactive narrative games.
+- **[JimLiu/baoyu-design](https://github.com/JimLiu/baoyu-design)** ⭐ 102
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
+  Run Claude Design locally as an Agent Skill — Cursor, Claude Code & more. Produce polished UI mockups, prototypes, decks & wireframes as self-contained HTML, without claude.ai/design. Best with Opus 4.8.
 
-- **[CMC-27/Vibe-App-Wiki](https://github.com/CMC-27/Vibe-App-Wiki)** ⭐ 3
+- **[mkhazaeidev/pypi-wheel-downloader](https://github.com/mkhazaeidev/pypi-wheel-downloader)** ⭐ 15
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  Download all available wheel files for the latest release of any PyPI package directly from the official PyPI API.
+
+- **[CMC-27/Vibe-App-Wiki](https://github.com/CMC-27/Vibe-App-Wiki)** ⭐ 12
   ![None](https://img.shields.io/badge/-None-lightgrey)
   None
 
-- **[dyxlan337/gpt-projects](https://github.com/dyxlan337/gpt-projects)** ⭐ 2
+- **[Kovendan-R/CUSTOMER_CHURN_AGENT-master](https://github.com/Kovendan-R/CUSTOMER_CHURN_AGENT-master)** ⭐ 8
   ![Python](https://img.shields.io/badge/-Python-blue)
-  a place to rest and build some cool aplications, with financial costs
+  None
 
-- **[wushuailemon/ssq-sync-dashboard](https://github.com/wushuailemon/ssq-sync-dashboard)** ⭐ 2
+- **[cloud-1104/dy_video](https://github.com/cloud-1104/dy_video)** ⭐ 8
   ![Python](https://img.shields.io/badge/-Python-blue)
-  双色球开奖数据同步看板，包含数据同步、统计分析、选号推荐功能。支持 Vercel 部署。
+  None
 
-- **[Andeasw/pinSHA256-Tool](https://github.com/Andeasw/pinSHA256-Tool)** ⭐ 2
-  ![HTML](https://img.shields.io/badge/-HTML-lightgrey)
-  Universal Cert & Pin Tool
-
-- **[nextframedev/ai_skills_lab](https://github.com/nextframedev/ai_skills_lab)** ⭐ 2
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  Companion skill pack for 'AI Skills for Builders' with practical examples of reusable agent skills.
-
-- **[devsparok/BotTemplate](https://github.com/devsparok/BotTemplate)** ⭐ 2
+- **[lalishka/fixnote](https://github.com/lalishka/fixnote)** ⭐ 6
   ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
-  A simple Discord bot template built entirely with discord.js v14 and designed to work fully with slash commands.
+  Offline public-space issue report helper for clearer community service requests.
 
-- **[FuruNov/im-business-card-tpl](https://github.com/FuruNov/im-business-card-tpl)** ⭐ 2
-  ![Typst](https://img.shields.io/badge/-Typst-lightgrey)
-  学園アイドルマスター プロデューサー名刺 Typst テンプレート
+- **[TobyG74/tobz-api](https://github.com/TobyG74/tobz-api)** ⭐ 5
+  ![Go](https://img.shields.io/badge/-Go-cyan)
+  None
+
+- **[ElGaba/Lorecraft-Studio](https://github.com/ElGaba/Lorecraft-Studio)** ⭐ 5
+  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
+  Agent-friendly studio for authoring, staging, previewing, and exporting cinematic interactive narrative games.
 
 ### 📈 Weekly Trending
 
-- **[b-nnett/goose](https://github.com/b-nnett/goose)** ⭐ 2,168
+- **[b-nnett/goose](https://github.com/b-nnett/goose)** ⭐ 2,180
   ![Rust](https://img.shields.io/badge/-Rust-brown)
   Goose Swift proof-of-concept README
 
-- **[cpaczek/skylight](https://github.com/cpaczek/skylight)** ⭐ 2,087
+- **[cpaczek/skylight](https://github.com/cpaczek/skylight)** ⭐ 2,136
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   Project the aircraft passing overhead onto your ceiling in real time, from an RTL-SDR — with a live sky layer (sun, moon, stars, ISS) and where each plane is headed.
 
-- **[jd-opensource/JoyAI-Echo](https://github.com/jd-opensource/JoyAI-Echo)** ⭐ 723
+- **[jd-opensource/JoyAI-Echo](https://github.com/jd-opensource/JoyAI-Echo)** ⭐ 763
   ![Python](https://img.shields.io/badge/-Python-blue)
   JoyAI-Echo: Pushing the Frontier of Long Audio-Visual Generation
 
-- **[qiuqiubuchongle-cloud/chokepoint-atlas](https://github.com/qiuqiubuchongle-cloud/chokepoint-atlas)** ⭐ 590
+- **[qiuqiubuchongle-cloud/chokepoint-atlas](https://github.com/qiuqiubuchongle-cloud/chokepoint-atlas)** ⭐ 593
   ![Python](https://img.shields.io/badge/-Python-blue)
   None
 
-- **[VAST-AI-Research/TripoSplat](https://github.com/VAST-AI-Research/TripoSplat)** ⭐ 495
+- **[VAST-AI-Research/TripoSplat](https://github.com/VAST-AI-Research/TripoSplat)** ⭐ 506
   ![Python](https://img.shields.io/badge/-Python-blue)
   TripoSplat converts a single 2D image into high-quality and variable number of 3D Gaussians, developed by TripoAI.
 
-- **[tastyeffectco/sandboxes](https://github.com/tastyeffectco/sandboxes)** ⭐ 471
+- **[tastyeffectco/sandboxes](https://github.com/tastyeffectco/sandboxes)** ⭐ 478
   ![Go](https://img.shields.io/badge/-Go-cyan)
   Self-hosted dev sandboxes with preview URLs. One command. No Kubernetes, perfect for coding agents and Saas factories
 
-- **[Jane-xiaoer/xiaoer-videolab](https://github.com/Jane-xiaoer/xiaoer-videolab)** ⭐ 452
+- **[tiantianGPU/reg-factory](https://github.com/tiantianGPU/reg-factory)** ⭐ 469
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  None
+
+- **[Jane-xiaoer/xiaoer-videolab](https://github.com/Jane-xiaoer/xiaoer-videolab)** ⭐ 457
   ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
   One click on the toolbar grabs the current page's video into ~/Downloads — local yt-dlp daemon, 1800+ sites. 小耳抓视频：一键把当前页视频抓到本地。
 
-- **[tiantianGPU/reg-factory](https://github.com/tiantianGPU/reg-factory)** ⭐ 443
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  None
-
 ### 📈 Monthly Trending
 
-- **[pewdiepie-archdaemon/odysseus](https://github.com/pewdiepie-archdaemon/odysseus)** ⭐ 59,206
+- **[pewdiepie-archdaemon/odysseus](https://github.com/pewdiepie-archdaemon/odysseus)** ⭐ 59,843
   ![Python](https://img.shields.io/badge/-Python-blue)
   Self-hosted AI workspace. 
 
-- **[unicity-astrid/sdk-js](https://github.com/unicity-astrid/sdk-js)** ⭐ 7,658
+- **[unicity-astrid/sdk-js](https://github.com/unicity-astrid/sdk-js)** ⭐ 7,724
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   JavaScript / TypeScript SDK for building Astrid OS capsules. Companion to unicity-astrid/sdk-rust.
 
-- **[FULU-Foundation/OrcaSlicer-bambulab](https://github.com/FULU-Foundation/OrcaSlicer-bambulab)** ⭐ 6,809
+- **[FULU-Foundation/OrcaSlicer-bambulab](https://github.com/FULU-Foundation/OrcaSlicer-bambulab)** ⭐ 6,811
   ![C++](https://img.shields.io/badge/-C++-pink)
   None
 
-- **[nexu-io/html-anything](https://github.com/nexu-io/html-anything)** ⭐ 6,214
+- **[nexu-io/html-anything](https://github.com/nexu-io/html-anything)** ⭐ 6,226
   ![HTML](https://img.shields.io/badge/-HTML-lightgrey)
   ✨ The agentic HTML editor — your local AI agent writes the HTML, you ship it. 🚀 75 Skills × 9 Surfaces (magazine · deck · poster · XHS / tweet · prototype · data report · Hyperframes) 🛡️ Sandboxed preview · 📤 1-click to WeChat / X / Zhihu / HTML / PNG 🔑 Zero API key — Claude Code / Cursor / Codex / Gemini / Copilot / OpenCode / Qwen / Aider.
 
@@ -217,15 +208,15 @@
   ![C](https://img.shields.io/badge/-C-lightgrey)
   The programming language for agents
 
-- **[simplifaisoul/osiris](https://github.com/simplifaisoul/osiris)** ⭐ 4,549
-  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
-  Open Source Global Intelligence Platform - Real-Time OSINT Dashboard - A Palantir Alternative
-
-- **[anthropics/defending-code-reference-harness](https://github.com/anthropics/defending-code-reference-harness)** ⭐ 4,506
+- **[anthropics/defending-code-reference-harness](https://github.com/anthropics/defending-code-reference-harness)** ⭐ 4,817
   ![Python](https://img.shields.io/badge/-Python-blue)
   Skills for threat modeling, scanning, triage, patching, plus an autonomous scanning harness you can /customize
 
-- **[perplexityai/bumblebee](https://github.com/perplexityai/bumblebee)** ⭐ 4,311
+- **[simplifaisoul/osiris](https://github.com/simplifaisoul/osiris)** ⭐ 4,565
+  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
+  Open Source Global Intelligence Platform - Real-Time OSINT Dashboard - A Palantir Alternative
+
+- **[perplexityai/bumblebee](https://github.com/perplexityai/bumblebee)** ⭐ 4,314
   ![Go](https://img.shields.io/badge/-Go-cyan)
   Read-only developer endpoint scanner for on-disk package, extension, and developer-tool metadata, built to check exposure to known software supply-chain compromises.
 
@@ -502,59 +493,59 @@ architectures, it has become apparent...
 
 | Skill | Status |
 |-------|--------|
-| Java | 🟡 Learning |
-| Python | ⚪ Planned |
-| JavaScript | 🔴 Beginner |
-| TypeScript | 🟢 Proficient |
-| Go | 🔴 Beginner |
+| Java | 🔴 Beginner |
+| Python | 🟢 Proficient |
+| JavaScript | 🟡 Learning |
+| TypeScript | 🟡 Learning |
+| Go | 🟡 Learning |
 
 ### Frameworks
 
 | Skill | Status |
 |-------|--------|
-| React | ⚪ Planned |
-| Spring Boot | 🟡 Learning |
-| Django | 🟡 Learning |
+| React | 🟢 Proficient |
+| Spring Boot | 🔴 Beginner |
+| Django | ⚪ Planned |
 | Node.js | 🟢 Proficient |
-| Next.js | 🟢 Proficient |
+| Next.js | ⚪ Planned |
 
 ### Cybersecurity
 
 | Skill | Status |
 |-------|--------|
-| Penetration Testing | 🟢 Proficient |
+| Penetration Testing | 🔴 Beginner |
 | Web Security | 🟢 Proficient |
 | Network Security | ⚪ Planned |
-| OWASP | ⚪ Planned |
+| OWASP | 🔴 Beginner |
 
 ### Ai Ml
 
 | Skill | Status |
 |-------|--------|
 | Machine Learning | 🔴 Beginner |
-| Deep Learning | 🔴 Beginner |
-| NLP | 🟡 Learning |
+| Deep Learning | 🟡 Learning |
+| NLP | 🟢 Proficient |
 | Computer Vision | 🔴 Beginner |
-| TensorFlow | 🔴 Beginner |
-| PyTorch | ⚪ Planned |
+| TensorFlow | ⚪ Planned |
+| PyTorch | 🟡 Learning |
 
 ### Devops
 
 | Skill | Status |
 |-------|--------|
-| Docker | 🔴 Beginner |
-| Kubernetes | ⚪ Planned |
+| Docker | 🟡 Learning |
+| Kubernetes | 🟡 Learning |
 | CI/CD | 🟡 Learning |
 | AWS | 🔴 Beginner |
-| Azure | 🟢 Proficient |
+| Azure | 🟡 Learning |
 
 ### Other
 
 | Skill | Status |
 |-------|--------|
 | Blockchain | 🟡 Learning |
-| Web3 | 🟡 Learning |
-| Cloud Computing | 🔴 Beginner |
+| Web3 | 🟢 Proficient |
+| Cloud Computing | 🟡 Learning |
 
 </details>
 
