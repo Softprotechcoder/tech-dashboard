@@ -46,32 +46,33 @@
 
 ### 📑 Hacker News
 
-- **[Texas grid flags risks as data centers, crypto sites fail voltage tests](https://www.reuters.com/business/energy/texas-grid-flags-risks-data-centers-crypto-sites-fail-voltage-tests-2026-06-05/)**
-  *<p>Article URL: <a href="https://www.reuters.com/business/energy/texas-grid-flags-risks-data-centers-crypto-sites-fail-voltage-tests-2026-06-05/">https://www.reuters.com/business/energy/texas-grid-fla...*
-  📅 Mon, 08 Jun 2026 02:05:40 +0000
+- **[The Cypherpunk Library](https://www.cypherpunkbooks.com)**
+  *<p>Article URL: <a href="https://www.cypherpunkbooks.com">https://www.cypherpunkbooks.com</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=48442725">https://news.ycombinator.com/...*
+  📅 Mon, 08 Jun 2026 08:32:52 +0000
 
-- **[Algorithmic Monocultures in Hiring](https://algorithmichiring.github.io/)**
-  *<p>Article URL: <a href="https://algorithmichiring.github.io/">https://algorithmichiring.github.io/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=48440549">https://news.ycombi...*
-  📅 Mon, 08 Jun 2026 01:54:54 +0000
+- **[OneDrive data now has an expiry date](https://ms365news.com/blogs/f/your-onedrive-data-now-has-an-expiry-data)**
+  *<p>Article URL: <a href="https://ms365news.com/blogs/f/your-onedrive-data-now-has-an-expiry-data">https://ms365news.com/blogs/f/your-onedrive-data-now-has-an-expiry-data</a></p>
+<p>Comments URL: <a hr...*
+  📅 Mon, 08 Jun 2026 08:11:24 +0000
 
-- **[New drug 'functionally cures' many hepatitis B virus infections](https://www.science.org/content/article/new-drug-functionally-cures-many-hepatitis-b-virus-infections?user_id=66c4bf745d78644b3aa57b08)**
-  *<p>Article URL: <a href="https://www.science.org/content/article/new-drug-functionally-cures-many-hepatitis-b-virus-infections?user_id=66c4bf745d78644b3aa57b08">https://www.science.org/content/article...*
-  📅 Mon, 08 Jun 2026 01:41:42 +0000
+- **[The EU Open Source Strategy](https://digital-strategy.ec.europa.eu/en/policies/open-source-strategy)**
+  *<p>Article URL: <a href="https://digital-strategy.ec.europa.eu/en/policies/open-source-strategy">https://digital-strategy.ec.europa.eu/en/policies/open-source-strategy</a></p>
+<p>Comments URL: <a href...*
+  📅 Mon, 08 Jun 2026 08:00:01 +0000
 
-- **[DeepSeek V4 Pro beats GPT-5.5 Pro on precision](https://runtimewire.com/article/deepseek-v4-pro-beats-gpt-5-5-pro-on-precision)**
-  *<p>Article URL: <a href="https://runtimewire.com/article/deepseek-v4-pro-beats-gpt-5-5-pro-on-precision">https://runtimewire.com/article/deepseek-v4-pro-beats-gpt-5-5-pro-on-precision</a></p>
-<p>Comme...*
-  📅 Mon, 08 Jun 2026 01:39:30 +0000
+- **[Age verification tech could put children at greater risk, says think tank](https://www.computerweekly.com/news/366643835/Age-verification-tech-could-put-children-at-greater-risk-says-think-tank)**
+  *<p>Article URL: <a href="https://www.computerweekly.com/news/366643835/Age-verification-tech-could-put-children-at-greater-risk-says-think-tank">https://www.computerweekly.com/news/366643835/Age-verif...*
+  📅 Mon, 08 Jun 2026 07:40:27 +0000
 
-- **[Teenage Engineering: Introducing APC-2](https://teenage.engineering/products/apc-2)**
-  *<p>Article URL: <a href="https://teenage.engineering/products/apc-2">https://teenage.engineering/products/apc-2</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=48440383">https:/...*
-  📅 Mon, 08 Jun 2026 01:27:22 +0000
+- **[Do agents.md files help coding agents?](https://twitter.com/rasbt/status/2063649136323252397)**
+  *<p><a href="https://xcancel.com/rasbt/status/2063649136323252397" rel="nofollow">https://xcancel.com/rasbt/status/2063649136323252397</a><p><a href="https://arxiv.org/abs/2602.11988" rel="nofollow">ht...*
+  📅 Mon, 08 Jun 2026 05:21:56 +0000
 
-- **[7.8 magnitude earthquake shakes part of southern Philippines. Tsunami possible](https://www.yahoo.com/news/weather-news/articles/as--philippines-earthquake-001322726.html)**
-  *<p>Article URL: <a href="https://www.yahoo.com/news/weather-news/articles/as--philippines-earthquake-001322726.html">https://www.yahoo.com/news/weather-news/articles/as--philippines-earthquake-0013227...*
-  📅 Mon, 08 Jun 2026 01:22:21 +0000
+- **[Richard Scolyer Has Died](https://www.bbc.com/news/articles/c14yz5jg476o)**
+  *<p>Article URL: <a href="https://www.bbc.com/news/articles/c14yz5jg476o">https://www.bbc.com/news/articles/c14yz5jg476o</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=48441242"...*
+  📅 Mon, 08 Jun 2026 04:10:08 +0000
 
 ### 📑 TechCrunch
 
@@ -101,23 +102,28 @@
 
 ### 📑 Dev.to
 
-- **[What I Learned After Building a Signal System from Scratch](https://dev.to/luciano0322/what-i-learned-after-building-a-signal-system-from-scratch-280p)**
-  *<h2>
+- **[Backing Up StarRocks to Hetzner Object Storage](https://dev.to/giveitatry/backing-up-starrocks-to-hetzner-object-storage-32bp)**
+  *<p>A step-by-step guide to configuring an S3-compatible repository on Hetzner and running full backups and restores with StarRocks.</p>
+
+
+
+
+<h2>
   
   
-  Recap
+  Prerequisites
 </h2>
 
-<p>At this point, this series on Signals and fine-grained reactivity is temporarily coming to an end.</p>
+<p>Before you begin, make ...*
+  📅 Mon, 08 Jun 2026 10:16:49 +0000
 
-<p>This article will not introduce new technical details. Instead, ...*
-  📅 Mon, 08 Jun 2026 02:27:19 +0000
+- **[I built a daily logic puzzle site with open-answer checking](https://dev.to/acertijodeldia/i-built-a-daily-logic-puzzle-site-with-open-answer-checking-1f4h)**
+  *<p>I built Riddle of the day, a bilingual daily logic puzzle site:</p>
 
-- **[Organizing How to Use AWS Lake Formation](https://dev.to/aws-builders/organizing-how-to-use-aws-lake-formation-4hhp)**
-  *<blockquote>
-<p><strong>Original Japanese article</strong>: <a href="https://zenn.dev/penginpenguin/articles/5852201b5da278" rel="noopener noreferrer">AWS Lake Formationの使い方について整理してみる</a></p>
-</blockq...*
-  📅 Mon, 08 Jun 2026 02:24:47 +0000
+<p><a href="https://acertijodeldia.com/en/" rel="noopener noreferrer">https://acertijodeldia.com/en/</a></p>
+
+<p>The product is ...*
+  📅 Mon, 08 Jun 2026 10:15:31 +0000
 
 </details>
 
@@ -125,103 +131,103 @@
 
 ### 📈 Daily Trending
 
-- **[Regert888/gpt-outlook-register](https://github.com/Regert888/gpt-outlook-register)** ⭐ 4
+- **[supperzl/ita](https://github.com/supperzl/ita)** ⭐ 78
   ![Python](https://img.shields.io/badge/-Python-blue)
   None
 
-- **[TONRisers/corscheck](https://github.com/TONRisers/corscheck)** ⭐ 3
-  ![Shell](https://img.shields.io/badge/-Shell-lightgrey)
+- **[StalkerLightning/roblox-voice-fix-2026](https://github.com/StalkerLightning/roblox-voice-fix-2026)** ⭐ 29
+  ![HTML](https://img.shields.io/badge/-HTML-lightgrey)
+  GoodbyeDPI · Zapret · DPI bypass 2026 · ⬇ Releases · без Python · один exe · roblox voice fix 2026 · 3-in-1 bypass 2026 · Discord · YouTube · TG · ⬇ Скачать exe · roblox voice fix 2026 · #automation #bypass #chatgpt-fix #discord-fix #dpi-bypass #goodbyedpi #python #russia #telegram-fix #tool #youtube-fix #zapret #telegram #2026 #discord #youtube #d
+
+- **[amap-cvlab/ABot-Earth-0.5](https://github.com/amap-cvlab/ABot-Earth-0.5)** ⭐ 25
+  ![None](https://img.shields.io/badge/-None-lightgrey)
+  Generative 3D Earth Model by AMap-cvlab
+
+- **[canwhite/MicroRAG](https://github.com/canwhite/MicroRAG)** ⭐ 22
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  The minimal implementation of rag
+
+- **[sfee1212/moyutv](https://github.com/sfee1212/moyutv)** ⭐ 11
+  ![Kotlin](https://img.shields.io/badge/-Kotlin-lightgrey)
   None
 
-- **[TONRisers/igraphql-doctor](https://github.com/TONRisers/igraphql-doctor)** ⭐ 3
-  ![Shell](https://img.shields.io/badge/-Shell-lightgrey)
-  None
+- **[assyoucandy/telemt-server-guide](https://github.com/assyoucandy/telemt-server-guide)** ⭐ 9
+  ![HTML](https://img.shields.io/badge/-HTML-lightgrey)
+  telemt (Rust MTProxy) — установка с нуля на Ubuntu, защита от DPI
 
-- **[topboyjomo/imockmaster](https://github.com/topboyjomo/imockmaster)** ⭐ 3
-  ![Shell](https://img.shields.io/badge/-Shell-lightgrey)
-  None
+- **[duliangkuan/autovideo](https://github.com/duliangkuan/autovideo)** ⭐ 9
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  AutoVideo 短视频自动化流水线生成器(展示版). 产品官网 autovideo.fengyunagent.xyz
 
-- **[TheMostX/merge-helper](https://github.com/TheMostX/merge-helper)** ⭐ 3
-  ![Shell](https://img.shields.io/badge/-Shell-lightgrey)
-  None
-
-- **[TheMostX/mockingbird](https://github.com/TheMostX/mockingbird)** ⭐ 3
-  ![Shell](https://img.shields.io/badge/-Shell-lightgrey)
-  None
-
-- **[TheMostX/therestforge](https://github.com/TheMostX/therestforge)** ⭐ 3
-  ![Shell](https://img.shields.io/badge/-Shell-lightgrey)
-  None
-
-- **[TONRisers/push-helper](https://github.com/TONRisers/push-helper)** ⭐ 3
-  ![Shell](https://img.shields.io/badge/-Shell-lightgrey)
-  None
+- **[StellarInsure-Org/stellarinsure-website](https://github.com/StellarInsure-Org/stellarinsure-website)** ⭐ 9
+  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
+  StellarInsure marketing website — editorial minimalist, built with Next.js + shadcn/ui
 
 ### 📈 Weekly Trending
 
-- **[cpaczek/skylight](https://github.com/cpaczek/skylight)** ⭐ 2,271
+- **[cpaczek/skylight](https://github.com/cpaczek/skylight)** ⭐ 2,316
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   Project the aircraft passing overhead onto your ceiling in real time, from an RTL-SDR — with a live sky layer (sun, moon, stars, ISS) and where each plane is headed.
 
-- **[b-nnett/goose](https://github.com/b-nnett/goose)** ⭐ 2,258
+- **[b-nnett/goose](https://github.com/b-nnett/goose)** ⭐ 2,288
   ![Rust](https://img.shields.io/badge/-Rust-brown)
   Goose Swift proof-of-concept README
 
-- **[jd-opensource/JoyAI-Echo](https://github.com/jd-opensource/JoyAI-Echo)** ⭐ 863
+- **[jd-opensource/JoyAI-Echo](https://github.com/jd-opensource/JoyAI-Echo)** ⭐ 967
   ![Python](https://img.shields.io/badge/-Python-blue)
   JoyAI-Echo: Pushing the Frontier of Long Audio-Visual Generation
 
-- **[tastyeffectco/sandboxd](https://github.com/tastyeffectco/sandboxd)** ⭐ 497
+- **[tastyeffectco/sandboxd](https://github.com/tastyeffectco/sandboxd)** ⭐ 506
   ![Go](https://img.shields.io/badge/-Go-cyan)
   Self-hosted dev sandboxes with preview URLs. One command. No Kubernetes, perfect for coding agents and Saas factories
 
-- **[Jane-xiaoer/xiaoer-videolab](https://github.com/Jane-xiaoer/xiaoer-videolab)** ⭐ 469
+- **[Jane-xiaoer/xiaoer-videolab](https://github.com/Jane-xiaoer/xiaoer-videolab)** ⭐ 479
   ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
   One click on the toolbar grabs the current page's video into ~/Downloads — local yt-dlp daemon, 1800+ sites. 小耳抓视频：一键把当前页视频抓到本地。
 
-- **[zenhosta/9drive](https://github.com/zenhosta/9drive)** ⭐ 407
+- **[JimLiu/baoyu-design](https://github.com/JimLiu/baoyu-design)** ⭐ 435
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
+  Run Claude Design locally as an Agent Skill — Cursor, Claude Code & more. Produce polished UI mockups, prototypes, decks & wireframes as self-contained HTML, without claude.ai/design. Best with Opus 4.8.
+
+- **[zenhosta/9drive](https://github.com/zenhosta/9drive)** ⭐ 432
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   9Drive is a storage gateway web app for connecting multiple Google Drive accounts into one virtual storage dashboard. Users can connect Google Drive accounts, track quota, upload files, organize files with virtual folders, preview files, and let the backend route uploads to the Drive account with enough free space.
 
-- **[jeff141/meatshell](https://github.com/jeff141/meatshell)** ⭐ 390
-  ![Rust](https://img.shields.io/badge/-Rust-brown)
-  一个轻量级、低内存占用的 SSH / 终端客户端（A lightweight, low-memory SSH / terminal client）
-
-- **[nevertoday/zhongguo-traditional-colors](https://github.com/nevertoday/zhongguo-traditional-colors)** ⭐ 352
+- **[nevertoday/zhongguo-traditional-colors](https://github.com/nevertoday/zhongguo-traditional-colors)** ⭐ 415
   ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
   中华传统色演示、色卡浏览与颜色知识科普开源项目
 
 ### 📈 Monthly Trending
 
-- **[pewdiepie-archdaemon/odysseus](https://github.com/pewdiepie-archdaemon/odysseus)** ⭐ 61,809
+- **[pewdiepie-archdaemon/odysseus](https://github.com/pewdiepie-archdaemon/odysseus)** ⭐ 62,532
   ![Python](https://img.shields.io/badge/-Python-blue)
   Self-hosted AI workspace. 
 
-- **[unicity-astrid/sdk-js](https://github.com/unicity-astrid/sdk-js)** ⭐ 7,903
+- **[unicity-astrid/sdk-js](https://github.com/unicity-astrid/sdk-js)** ⭐ 8,058
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   JavaScript / TypeScript SDK for building Astrid OS capsules. Companion to unicity-astrid/sdk-rust.
 
-- **[FULU-Foundation/OrcaSlicer-bambulab](https://github.com/FULU-Foundation/OrcaSlicer-bambulab)** ⭐ 6,823
+- **[FULU-Foundation/OrcaSlicer-bambulab](https://github.com/FULU-Foundation/OrcaSlicer-bambulab)** ⭐ 6,825
   ![C++](https://img.shields.io/badge/-C++-pink)
   None
 
-- **[nexu-io/html-anything](https://github.com/nexu-io/html-anything)** ⭐ 6,280
+- **[nexu-io/html-anything](https://github.com/nexu-io/html-anything)** ⭐ 6,334
   ![HTML](https://img.shields.io/badge/-HTML-lightgrey)
   ✨ The agentic HTML editor — your local AI agent writes the HTML, you ship it. 🚀 75 Skills × 9 Surfaces (magazine · deck · poster · XHS / tweet · prototype · data report · Hyperframes) 🛡️ Sandboxed preview · 📤 1-click to WeChat / X / Zhihu / HTML / PNG 🔑 Zero API key — Claude Code / Cursor / Codex / Gemini / Copilot / OpenCode / Qwen / Aider.
 
-- **[anthropics/defending-code-reference-harness](https://github.com/anthropics/defending-code-reference-harness)** ⭐ 5,120
+- **[anthropics/defending-code-reference-harness](https://github.com/anthropics/defending-code-reference-harness)** ⭐ 5,235
   ![Python](https://img.shields.io/badge/-Python-blue)
   Skills for threat modeling, scanning, triage, patching, plus an autonomous scanning harness you can /customize
 
-- **[vercel-labs/zerolang](https://github.com/vercel-labs/zerolang)** ⭐ 4,915
-  ![C](https://img.shields.io/badge/-C-lightgrey)
-  The programming language for agents
-
-- **[alibaba/open-code-review](https://github.com/alibaba/open-code-review)** ⭐ 4,829
+- **[alibaba/open-code-review](https://github.com/alibaba/open-code-review)** ⭐ 5,077
   ![Go](https://img.shields.io/badge/-Go-cyan)
   Open-source & free — Battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in fine-tuned ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.
 
-- **[simplifaisoul/osiris](https://github.com/simplifaisoul/osiris)** ⭐ 4,671
+- **[vercel-labs/zerolang](https://github.com/vercel-labs/zerolang)** ⭐ 4,916
+  ![C](https://img.shields.io/badge/-C-lightgrey)
+  The programming language for agents
+
+- **[simplifaisoul/osiris](https://github.com/simplifaisoul/osiris)** ⭐ 4,789
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   Open Source Global Intelligence Platform - Real-Time OSINT Dashboard - A Palantir Alternative
 
@@ -498,40 +504,40 @@ architectures, it has become apparent...
 
 | Skill | Status |
 |-------|--------|
-| Java | 🟡 Learning |
+| Java | 🔴 Beginner |
 | Python | 🔴 Beginner |
-| JavaScript | 🔴 Beginner |
-| TypeScript | 🟡 Learning |
-| Go | 🟡 Learning |
+| JavaScript | 🟡 Learning |
+| TypeScript | 🟢 Proficient |
+| Go | ⚪ Planned |
 
 ### Frameworks
 
 | Skill | Status |
 |-------|--------|
-| React | 🟡 Learning |
-| Spring Boot | 🟢 Proficient |
+| React | ⚪ Planned |
+| Spring Boot | 🔴 Beginner |
 | Django | 🟢 Proficient |
-| Node.js | ⚪ Planned |
+| Node.js | 🟡 Learning |
 | Next.js | 🟡 Learning |
 
 ### Cybersecurity
 
 | Skill | Status |
 |-------|--------|
-| Penetration Testing | 🟡 Learning |
-| Web Security | 🟡 Learning |
-| Network Security | 🔴 Beginner |
+| Penetration Testing | ⚪ Planned |
+| Web Security | 🟢 Proficient |
+| Network Security | ⚪ Planned |
 | OWASP | 🔴 Beginner |
 
 ### Ai Ml
 
 | Skill | Status |
 |-------|--------|
-| Machine Learning | 🟢 Proficient |
+| Machine Learning | 🟡 Learning |
 | Deep Learning | ⚪ Planned |
-| NLP | ⚪ Planned |
+| NLP | 🟡 Learning |
 | Computer Vision | 🔴 Beginner |
-| TensorFlow | 🟡 Learning |
+| TensorFlow | 🔴 Beginner |
 | PyTorch | 🟡 Learning |
 
 ### Devops
@@ -539,18 +545,18 @@ architectures, it has become apparent...
 | Skill | Status |
 |-------|--------|
 | Docker | ⚪ Planned |
-| Kubernetes | 🟡 Learning |
-| CI/CD | ⚪ Planned |
-| AWS | ⚪ Planned |
-| Azure | 🟢 Proficient |
+| Kubernetes | ⚪ Planned |
+| CI/CD | 🔴 Beginner |
+| AWS | 🟢 Proficient |
+| Azure | ⚪ Planned |
 
 ### Other
 
 | Skill | Status |
 |-------|--------|
-| Blockchain | 🔴 Beginner |
+| Blockchain | ⚪ Planned |
 | Web3 | 🔴 Beginner |
-| Cloud Computing | 🟢 Proficient |
+| Cloud Computing | 🔴 Beginner |
 
 </details>
 
