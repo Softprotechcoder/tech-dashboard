@@ -46,35 +46,48 @@
 
 ### 📑 Hacker News
 
+- **[Port React Compiler to Rust](https://github.com/react/react/pull/36173)**
+  *<p>Article URL: <a href="https://github.com/react/react/pull/36173">https://github.com/react/react/pull/36173</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=48473662">https://n...*
+  📅 Wed, 10 Jun 2026 09:19:55 +0000
+
+- **[European sentiments towards the US hit an all-time low](https://ecfr.eu/publication/home-alone-europeans-are-ready-to-defend-themselves/)**
+  *<p>Article URL: <a href="https://ecfr.eu/publication/home-alone-europeans-are-ready-to-defend-themselves/">https://ecfr.eu/publication/home-alone-europeans-are-ready-to-defend-themselves/</a></p>
+<p>C...*
+  📅 Wed, 10 Jun 2026 08:27:46 +0000
+
+- **[AWS Bedrock to require sharing data with Anthropic for Mythos and future models](https://news.ycombinator.com/item?id=48473166)**
+  *<p>> For Fable 5, Mythos 5, and future models on Bedrock with similar or higher capability levels, Anthropic will require 30-day retention for all traffic on Mythos-class models. Retaining data for a ...*
+  📅 Wed, 10 Jun 2026 08:21:38 +0000
+
+- **[Mercedes‑Benz starts large‑scale production of electric axial flux motor](https://media.mercedes-benz.com/en/article/bebac2af-acdc-465a-9538-adb0bf3d8ccf)**
+  *<p>Article URL: <a href="https://media.mercedes-benz.com/en/article/bebac2af-acdc-465a-9538-adb0bf3d8ccf">https://media.mercedes-benz.com/en/article/bebac2af-acdc-465a-9538-adb0bf3d8ccf</a></p>
+<p>Com...*
+  📅 Wed, 10 Jun 2026 07:44:49 +0000
+
+- **[Vibe coding my way to a healthy family: Introducing Gamow Labs](https://www.ddmckinnon.com/2026/06/09/vibe-coding-my-way-to-a-healthy-family-introducing-gamow-labs/)**
+  *<p>Article URL: <a href="https://www.ddmckinnon.com/2026/06/09/vibe-coding-my-way-to-a-healthy-family-introducing-gamow-labs/">https://www.ddmckinnon.com/2026/06/09/vibe-coding-my-way-to-a-healthy-fam...*
+  📅 Wed, 10 Jun 2026 03:27:47 +0000
+
 - **[Rich Sutton on AI creativity and discovery](https://twitter.com/RichardSSutton/status/2061216087744946656)**
   *<p><a href="https://www.youtube.com/watch?v=K5LAFEjTlBA" rel="nofollow">https://www.youtube.com/watch?v=K5LAFEjTlBA</a></p>
 <hr />
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=484705...*
   📅 Wed, 10 Jun 2026 02:25:24 +0000
 
-- **[German ruling declares Google liable for false answers in AI Overviews](https://the-decoder.com/landmark-german-ruling-declares-googles-ai-overviews-are-googles-own-words-and-makes-it-liable-for-false-answers/)**
-  *<p>Article URL: <a href="https://the-decoder.com/landmark-german-ruling-declares-googles-ai-overviews-are-googles-own-words-and-makes-it-liable-for-false-answers/">https://the-decoder.com/landmark-ger...*
-  📅 Wed, 10 Jun 2026 01:44:13 +0000
-
-- **[macOS Container Machines](https://github.com/apple/container/blob/main/docs/container-machine.md)**
-  *<p>Article URL: <a href="https://github.com/apple/container/blob/main/docs/container-machine.md">https://github.com/apple/container/blob/main/docs/container-machine.md</a></p>
-<p>Comments URL: <a href...*
-  📅 Wed, 10 Jun 2026 00:29:01 +0000
-
-- **[It's death](https://jesseduffield.com/ITS-DEATH/)**
-  *<p>Article URL: <a href="https://jesseduffield.com/ITS-DEATH/">https://jesseduffield.com/ITS-DEATH/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=48469347">https://news.ycombi...*
-  📅 Tue, 09 Jun 2026 23:44:16 +0000
-
-- **[Show HN: Nucleus – A security-hardened, Nix-native container runtime](https://github.com/sig-id/nucleus)**
-  *<p>Hi HN, I've been building Nucleus, a lightweight Linux container runtime focused on two workloads: ephemeral AI-agent sandboxes and declarative NixOS services. It's a single Rust binary, no daemon....*
-  📅 Tue, 09 Jun 2026 23:03:40 +0000
-
-- **[RIP software hackathons. Long live the hardware hackathon](https://blog.oscars.dev/posts/rip-software-hackathons-long-live-the-hardware-hackathon/)**
-  *<p>Article URL: <a href="https://blog.oscars.dev/posts/rip-software-hackathons-long-live-the-hardware-hackathon/">https://blog.oscars.dev/posts/rip-software-hackathons-long-live-the-hardware-hackathon...*
-  📅 Tue, 09 Jun 2026 22:35:57 +0000
-
 ### 📑 TechCrunch
+
+- **[Waymo says it built a better benchmark for comparing robotaxis to humans](https://techcrunch.com/2026/06/10/waymo-says-it-built-a-better-benchmark-for-comparing-robotaxis-to-humans/)**
+  *Waymo created a new computer model to help it better understand how humans behave in crash scenarios that its robotaxis encounter....*
+  📅 Wed, 10 Jun 2026 09:00:00 +0000
+
+- **[Meta signs first AI data center deal in India with Reliance](https://techcrunch.com/2026/06/10/meta-signs-first-ai-data-center-deal-in-india-with-reliance/)**
+  *The 168-megawatt facility will support Meta's global AI computing needs and can be expanded over time....*
+  📅 Wed, 10 Jun 2026 07:05:26 +0000
+
+- **[Top Lucid Motors executive departs amid new CEO’s leadership shakeup](https://techcrunch.com/2026/06/09/top-lucid-motors-executive-departs-amid-new-ceos-leadership-shakeup/)**
+  *The exec, Emad Dlala, has left just a few months after being promoted to SVP of engineering and digital, TechCrunch has learned....*
+  📅 Wed, 10 Jun 2026 03:35:07 +0000
 
 - **[Google just fired a warning shot in the AI subscription price wars](https://techcrunch.com/2026/06/09/google-just-fired-a-warning-shot-in-the-ai-subscription-price-wars/)**
   *Google just made it significantly cheaper to enjoy its budget AI subscription tier....*
@@ -88,40 +101,47 @@
   *GM is developing an entirely new sodium-ion battery chemistry for use in everything from data centers to its own factories....*
   📅 Tue, 09 Jun 2026 21:00:00 +0000
 
-- **[Hey, Siri, here’s what I actually want from AI](https://techcrunch.com/2026/06/09/hey-siri-heres-what-i-actually-want-from-ai/)**
-  *I'm desperate for a personal AI assistant, but do I really want to become the kind of person who can't function without the friendly robot voice in my phone?...*
-  📅 Tue, 09 Jun 2026 20:50:17 +0000
-
-- **[Anthropic’s Fable 5 can make weirdly fun video games with the click of a button](https://techcrunch.com/2026/06/09/anthropics-fable-5-can-make-weirdly-fun-video-games-with-the-click-of-a-button/)**
-  *Anthropic's Claude Fable 5 is going to be a big hit with the web's vibe coders....*
-  📅 Tue, 09 Jun 2026 20:37:49 +0000
-
-- **[Can tech companies learn to love cheaper AI models?](https://techcrunch.com/2026/06/09/can-tech-companies-learn-to-love-cheaper-models/)**
-  *If those same AI workloads can be handled by cheaper models without affecting quality, it would mean a massive shift in the economics of AI....*
-  📅 Tue, 09 Jun 2026 18:56:09 +0000
-
 ### 📑 Dev.to
 
-- **[Building a Price Comparison Platform Is Harder Than It Looks](https://dev.to/wbss/building-a-price-comparison-platform-is-harder-than-it-looks-18f2)**
-  *<p>Price comparison platforms look simple from the outside.</p>
+- **[A quick preflight for Shopify CSV image URLs before import](https://dev.to/_172c9b2760d6c5bc1e8966/a-quick-preflight-for-shopify-csv-image-urls-before-import-2j52)**
+  *<p>When a Shopify product CSV imports but product photos fail, the problem is often not the CSV syntax. It is usually that Shopify cannot fetch one or more image URLs during import.</p>
 
-<p>A search box.<br />
-A few products.<br />
-Some retailer prices.<br />
-A button that sends the user to a store.</p>
+<p>Here is th...*
+  📅 Wed, 10 Jun 2026 09:35:18 +0000
 
-<p>That is what ...*
-  📅 Wed, 10 Jun 2026 02:32:49 +0000
+- **[Why I Stopped Using reset() and end() in PHP (And What I Use Now)](https://dev.to/abdulloh_dev/why-i-stopped-using-reset-and-end-in-php-and-what-i-use-now-3pof)**
+  *<p>If you have been writing PHP for a year or two, you have almost certainly written something like this:<br />
+</p>
 
-- **[I built a tool that generates API docs from your source code - no annotations, no server running, no Swagger config](https://dev.to/joseph_adeola_77d9d786d4d/i-built-a-tool-that-generates-api-docs-from-your-source-code-no-annotations-no-server-running-70c)**
-  *<p>Before I get into it, yes, I know FastAPI gives you <code>/docs</code> out of the box. Yes, I know Spring Boot has SpringDoc. That is exactly why I want to explain what DocuPoints actually does dif...*
-  📅 Wed, 10 Jun 2026 02:32:23 +0000
+<div class="highlight js-code-highlight">
+<pre class="highlight php"><code><span c...*
+  📅 Wed, 10 Jun 2026 09:29:58 +0000
 
 </details>
 
 ## 🔥 Trending Repositories
 
 ### 📈 Daily Trending
+
+- **[alchaincyf/fanbox](https://github.com/alchaincyf/fanbox)** ⭐ 31
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
+  None
+
+- **[HoleMythBall/F95-zone-Sync-Manager](https://github.com/HoleMythBall/F95-zone-Sync-Manager)** ⭐ 21
+  ![None](https://img.shields.io/badge/-None-lightgrey)
+  Best NSFW Game Manager 2026 – Auto Install and Update Mods Fast 
+
+- **[Tom-Babb/ai-marketing-skills-with-by-tom-babb](https://github.com/Tom-Babb/ai-marketing-skills-with-by-tom-babb)** ⭐ 15
+  ![None](https://img.shields.io/badge/-None-lightgrey)
+  None
+
+- **[JiminLee-way/SejongUnivMobile](https://github.com/JiminLee-way/SejongUnivMobile)** ⭐ 14
+  ![Dart](https://img.shields.io/badge/-Dart-lightgrey)
+  비공식 세종대학교 통합 모바일 앱.
+
+- **[tod-zhang/fuck-competitors](https://github.com/tod-zhang/fuck-competitors)** ⭐ 9
+  ![HTML](https://img.shields.io/badge/-HTML-lightgrey)
+  Watch competitors' sitemaps and journal every page change — self-hosted, open-source competitor monitoring (FastAPI + SQLite, one-command Docker).
 
 - **[aslzoda1/j10023](https://github.com/aslzoda1/j10023)** ⭐ 8
   ![Python](https://img.shields.io/badge/-Python-blue)
@@ -131,67 +151,47 @@ A button that sends the user to a store.</p>
   ![C++](https://img.shields.io/badge/-C++-pink)
   None
 
-- **[aslzoda1/j10022](https://github.com/aslzoda1/j10022)** ⭐ 8
-  ![Kotlin](https://img.shields.io/badge/-Kotlin-lightgrey)
-  None
-
-- **[aslzoda1/j10029](https://github.com/aslzoda1/j10029)** ⭐ 8
-  ![C++](https://img.shields.io/badge/-C++-pink)
-  None
-
-- **[aslzoda1/j10035](https://github.com/aslzoda1/j10035)** ⭐ 8
-  ![HTML](https://img.shields.io/badge/-HTML-lightgrey)
-  None
-
 - **[aslzoda1/j9975](https://github.com/aslzoda1/j9975)** ⭐ 8
   ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
   None
 
-- **[aslzoda1/j9923](https://github.com/aslzoda1/j9923)** ⭐ 8
-  ![HTML](https://img.shields.io/badge/-HTML-lightgrey)
-  None
-
-- **[aslzoda1/j9926](https://github.com/aslzoda1/j9926)** ⭐ 8
-  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
-  None
-
 ### 📈 Weekly Trending
 
-- **[diffusionstudio/lottie](https://github.com/diffusionstudio/lottie)** ⭐ 1,544
+- **[diffusionstudio/lottie](https://github.com/diffusionstudio/lottie)** ⭐ 1,828
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
-  Open-source skill and harness for generating production ready Lottie animations with codex/claude code
+  Generate production-ready Lottie animations with Claude Code or Codex
 
-- **[NoopApp/noop](https://github.com/NoopApp/noop)** ⭐ 1,051
+- **[NoopApp/noop](https://github.com/NoopApp/noop)** ⭐ 1,296
   ![Swift](https://img.shields.io/badge/-Swift-lightgrey)
   Offline WHOOP companion — pair your strap over Bluetooth, keep all data on your own device. No cloud, no account, no subscription.
 
-- **[JimLiu/baoyu-design](https://github.com/JimLiu/baoyu-design)** ⭐ 641
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
-  Run Claude Design locally as an Agent Skill — Cursor, Claude Code & more. Produce polished UI mockups, prototypes, decks & wireframes as self-contained HTML, without claude.ai/design. Best with Opus 4.8.
-
-- **[GordenSun/GordenSuperPPTSkills](https://github.com/GordenSun/GordenSuperPPTSkills)** ⭐ 622
+- **[GordenSun/GordenSuperPPTSkills](https://github.com/GordenSun/GordenSuperPPTSkills)** ⭐ 686
   ![Python](https://img.shields.io/badge/-Python-blue)
   AI PPT赛道终结者，史上最最最强 PPT Skill！！！  使用GPT生成豪华的图片格式PPT，然后转换为完全可编辑的PPTX文件。
 
-- **[vorpus/performativeUI](https://github.com/vorpus/performativeUI)** ⭐ 523
+- **[JimLiu/baoyu-design](https://github.com/JimLiu/baoyu-design)** ⭐ 663
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
+  Run Claude Design locally as an Agent Skill — Cursor, Claude Code & more. Produce polished UI mockups, prototypes, decks & wireframes as self-contained HTML, without claude.ai/design. Best with Opus 4.8.
+
+- **[vorpus/performativeUI](https://github.com/vorpus/performativeUI)** ⭐ 541
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   None
 
-- **[amElnagdy/guard-skills](https://github.com/amElnagdy/guard-skills)** ⭐ 518
+- **[amElnagdy/guard-skills](https://github.com/amElnagdy/guard-skills)** ⭐ 529
   ![None](https://img.shields.io/badge/-None-lightgrey)
   Guard skills for coding agents, quality gates that catch AI-generated failure modes in code, tests, and docs
 
-- **[Jane-xiaoer/xiaoer-videolab](https://github.com/Jane-xiaoer/xiaoer-videolab)** ⭐ 494
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
-  One click on the toolbar grabs the current page's video into ~/Downloads — local yt-dlp daemon, 1800+ sites. 小耳抓视频：一键把当前页视频抓到本地。
+- **[MSNightmare/RoguePlanet](https://github.com/MSNightmare/RoguePlanet)** ⭐ 520
+  ![C++](https://img.shields.io/badge/-C++-pink)
+  RoguePlanet Windows Defender Vulnerability
 
-- **[zenhosta/9drive](https://github.com/zenhosta/9drive)** ⭐ 473
-  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
-  9Drive is a storage gateway web app for connecting multiple Google Drive accounts into one virtual storage dashboard. Users can connect Google Drive accounts, track quota, upload files, organize files with virtual folders, preview files, and let the backend route uploads to the Drive account with enough free space.
+- **[jeff141/meatshell](https://github.com/jeff141/meatshell)** ⭐ 499
+  ![Rust](https://img.shields.io/badge/-Rust-brown)
+  一个轻量级、低内存占用的 SSH / 终端客户端（A lightweight, low-memory SSH / terminal client）
 
 ### 📈 Monthly Trending
 
-- **[pewdiepie-archdaemon/odysseus](https://github.com/pewdiepie-archdaemon/odysseus)** ⭐ 65,619
+- **[pewdiepie-archdaemon/odysseus](https://github.com/pewdiepie-archdaemon/odysseus)** ⭐ 66,095
   ![Python](https://img.shields.io/badge/-Python-blue)
   Self-hosted AI workspace. 
 
@@ -199,27 +199,27 @@ A button that sends the user to a store.</p>
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   JavaScript / TypeScript SDK for building Astrid OS capsules. Companion to unicity-astrid/sdk-rust.
 
-- **[alibaba/open-code-review](https://github.com/alibaba/open-code-review)** ⭐ 5,808
+- **[alibaba/open-code-review](https://github.com/alibaba/open-code-review)** ⭐ 5,960
   ![Go](https://img.shields.io/badge/-Go-cyan)
   Open-source & free — Battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in fine-tuned ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.
 
-- **[anthropics/defending-code-reference-harness](https://github.com/anthropics/defending-code-reference-harness)** ⭐ 5,568
+- **[anthropics/defending-code-reference-harness](https://github.com/anthropics/defending-code-reference-harness)** ⭐ 5,618
   ![Python](https://img.shields.io/badge/-Python-blue)
   Skills for threat modeling, scanning, triage, patching, plus an autonomous scanning harness you can /customize
 
-- **[simplifaisoul/osiris](https://github.com/simplifaisoul/osiris)** ⭐ 5,157
+- **[simplifaisoul/osiris](https://github.com/simplifaisoul/osiris)** ⭐ 5,176
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   Open Source Global Intelligence Platform - Real-Time OSINT Dashboard - A Palantir Alternative
 
-- **[vercel-labs/zerolang](https://github.com/vercel-labs/zerolang)** ⭐ 4,949
+- **[vercel-labs/zerolang](https://github.com/vercel-labs/zerolang)** ⭐ 4,953
   ![C++](https://img.shields.io/badge/-C++-pink)
   The Programming Language for Agents
 
-- **[AprilNEA/OpenLogi](https://github.com/AprilNEA/OpenLogi)** ⭐ 4,470
+- **[AprilNEA/OpenLogi](https://github.com/AprilNEA/OpenLogi)** ⭐ 4,494
   ![Rust](https://img.shields.io/badge/-Rust-brown)
   ⚡️A native, local-first alternative to Logitech Options+, written in Rust 🦀 — remap buttons, DPI, and SmartShift over HID++. No account, no telemetry.
 
-- **[perplexityai/bumblebee](https://github.com/perplexityai/bumblebee)** ⭐ 4,364
+- **[perplexityai/bumblebee](https://github.com/perplexityai/bumblebee)** ⭐ 4,369
   ![Go](https://img.shields.io/badge/-Go-cyan)
   Read-only developer endpoint scanner for on-disk package, extension, and developer-tool metadata, built to check exposure to known software supply-chain compromises.
 
@@ -230,9 +230,9 @@ A button that sends the user to a store.</p>
 
 ### 📦 microsoft/vscode
 
-**[1.123.0](https://github.com/microsoft/vscode/releases/tag/1.123.0)** `1.123.0`
+**[1.123.2](https://github.com/microsoft/vscode/releases/tag/1.123.2)** `1.123.2`
 
-📅 Released: June 05, 2026
+📅 Released: June 10, 2026
 
 https://code.visualstudio.com/updates/v1_123...
 
@@ -496,29 +496,29 @@ architectures, it has become apparent...
 
 | Skill | Status |
 |-------|--------|
-| Java | 🔴 Beginner |
-| Python | ⚪ Planned |
+| Java | 🟢 Proficient |
+| Python | 🟡 Learning |
 | JavaScript | ⚪ Planned |
-| TypeScript | 🟡 Learning |
-| Go | ⚪ Planned |
+| TypeScript | ⚪ Planned |
+| Go | 🟡 Learning |
 
 ### Frameworks
 
 | Skill | Status |
 |-------|--------|
-| React | 🟢 Proficient |
-| Spring Boot | 🟢 Proficient |
-| Django | 🟡 Learning |
-| Node.js | 🔴 Beginner |
-| Next.js | ⚪ Planned |
+| React | 🔴 Beginner |
+| Spring Boot | 🔴 Beginner |
+| Django | 🟢 Proficient |
+| Node.js | 🟢 Proficient |
+| Next.js | 🔴 Beginner |
 
 ### Cybersecurity
 
 | Skill | Status |
 |-------|--------|
-| Penetration Testing | ⚪ Planned |
-| Web Security | ⚪ Planned |
-| Network Security | 🟡 Learning |
+| Penetration Testing | 🔴 Beginner |
+| Web Security | 🟡 Learning |
+| Network Security | ⚪ Planned |
 | OWASP | 🔴 Beginner |
 
 ### Ai Ml
@@ -526,28 +526,28 @@ architectures, it has become apparent...
 | Skill | Status |
 |-------|--------|
 | Machine Learning | 🟢 Proficient |
-| Deep Learning | ⚪ Planned |
-| NLP | ⚪ Planned |
-| Computer Vision | 🔴 Beginner |
-| TensorFlow | 🟡 Learning |
+| Deep Learning | 🟡 Learning |
+| NLP | 🟡 Learning |
+| Computer Vision | ⚪ Planned |
+| TensorFlow | 🟢 Proficient |
 | PyTorch | 🔴 Beginner |
 
 ### Devops
 
 | Skill | Status |
 |-------|--------|
-| Docker | 🟡 Learning |
-| Kubernetes | 🟡 Learning |
-| CI/CD | 🟢 Proficient |
-| AWS | ⚪ Planned |
-| Azure | 🟢 Proficient |
+| Docker | 🟢 Proficient |
+| Kubernetes | 🔴 Beginner |
+| CI/CD | 🔴 Beginner |
+| AWS | 🟢 Proficient |
+| Azure | 🟡 Learning |
 
 ### Other
 
 | Skill | Status |
 |-------|--------|
-| Blockchain | 🟡 Learning |
-| Web3 | 🟢 Proficient |
+| Blockchain | ⚪ Planned |
+| Web3 | ⚪ Planned |
 | Cloud Computing | 🟢 Proficient |
 
 </details>
