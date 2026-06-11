@@ -20,7 +20,7 @@
 | Metric | Count |
 |--------|-------|
 | 📰 Latest News Articles | 26 |
-| 🔥 Trending Repositories | 30 |
+| 🔥 Trending Repositories | 45 |
 | 🎯 Latest Releases | 10 |
 | 🎯 Learning Goals | 4 |
 
@@ -46,74 +46,73 @@
 
 ### 📑 Hacker News
 
-- **[Amazon Says Its Data Centers Use 2.5B Gallons of Water](https://www.bloomberg.com/news/articles/2026-06-11/amazon-says-its-data-centers-use-2-5-billion-gallons-of-water)**
-  *<p>Article URL: <a href="https://www.bloomberg.com/news/articles/2026-06-11/amazon-says-its-data-centers-use-2-5-billion-gallons-of-water">https://www.bloomberg.com/news/articles/2026-06-11/amazon-say...*
-  📅 Thu, 11 Jun 2026 14:58:41 +0000
+- **[Who Runs the Ransomware Group 'The Gentlemen?'](https://krebsonsecurity.com/2026/06/who-runs-the-ransomware-group-the-gentlemen/)**
+  *<p>Article URL: <a href="https://krebsonsecurity.com/2026/06/who-runs-the-ransomware-group-the-gentlemen/">https://krebsonsecurity.com/2026/06/who-runs-the-ransomware-group-the-gentlemen/</a></p>
+<p>C...*
+  📅 Thu, 11 Jun 2026 19:23:52 +0000
 
-- **[Driving in America Is Headlight Hell](https://www.theatlantic.com/technology/2026/06/car-headlights-too-bright-adaptive-beams/687488/)**
-  *<p>Article URL: <a href="https://www.theatlantic.com/technology/2026/06/car-headlights-too-bright-adaptive-beams/687488/">https://www.theatlantic.com/technology/2026/06/car-headlights-too-bright-adapt...*
-  📅 Thu, 11 Jun 2026 14:55:59 +0000
+- **[Building agents without harness engineering](https://rajitkhanna.com/agents/)**
+  *<p>Article URL: <a href="https://rajitkhanna.com/agents/">https://rajitkhanna.com/agents/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=48493447">https://news.ycombinator.com/...*
+  📅 Thu, 11 Jun 2026 17:28:52 +0000
 
-- **[AMD Gaslights Security Researcher, Changes Rules Retroactively [video]](https://www.youtube.com/watch?v=4HjWHNLRMB0)**
-  *<p>Article URL: <a href="https://www.youtube.com/watch?v=4HjWHNLRMB0">https://www.youtube.com/watch?v=4HjWHNLRMB0</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=48490946">https...*
-  📅 Thu, 11 Jun 2026 14:35:53 +0000
+- **[Software Is Made Between Commits](https://zed.dev/blog/introducing-deltadb)**
+  *<p>Article URL: <a href="https://zed.dev/blog/introducing-deltadb">https://zed.dev/blog/introducing-deltadb</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=48492533">https://new...*
+  📅 Thu, 11 Jun 2026 16:28:24 +0000
 
-- **[MiMo Code Is Now Released and Open-Source](https://mimo.xiaomi.com/mimocode)**
-  *<p>Article URL: <a href="https://mimo.xiaomi.com/mimocode">https://mimo.xiaomi.com/mimocode</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=48490826">https://news.ycombinator.co...*
-  📅 Thu, 11 Jun 2026 14:27:19 +0000
+- **[Solar generates more energy in US than coal for first time](https://www.theguardian.com/us-news/2026/jun/11/solar-energy-us-coal)**
+  *<p>Article URL: <a href="https://www.theguardian.com/us-news/2026/jun/11/solar-energy-us-coal">https://www.theguardian.com/us-news/2026/jun/11/solar-energy-us-coal</a></p>
+<p>Comments URL: <a href="ht...*
+  📅 Thu, 11 Jun 2026 16:10:05 +0000
 
-- **[Nextcloud Hub 26 Spring: Built together, designed for the future](https://nextcloud.com/blog/nextcloud-hub26-spring/)**
-  *<p>Article URL: <a href="https://nextcloud.com/blog/nextcloud-hub26-spring/">https://nextcloud.com/blog/nextcloud-hub26-spring/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=4...*
-  📅 Thu, 11 Jun 2026 14:17:47 +0000
+- **[Waymo Premier](https://waymo.com/blog/2026/06/waymo-premier/)**
+  *<p>Article URL: <a href="https://waymo.com/blog/2026/06/waymo-premier/">https://waymo.com/blog/2026/06/waymo-premier/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=48492304">h...*
+  📅 Thu, 11 Jun 2026 16:10:02 +0000
 
-- **[Euro-Office: First version of the open-source web office is here](https://www.heise.de/en/news/Euro-Office-First-version-of-the-open-source-web-office-is-here-11322160.html)**
-  *<p>Article URL: <a href="https://www.heise.de/en/news/Euro-Office-First-version-of-the-open-source-web-office-is-here-11322160.html">https://www.heise.de/en/news/Euro-Office-First-version-of-the-open-...*
-  📅 Thu, 11 Jun 2026 14:06:43 +0000
+- **[The RCE that AMD wouldn't fix](https://mrbruh.com/amd2/)**
+  *<p>Article URL: <a href="https://mrbruh.com/amd2/">https://mrbruh.com/amd2/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=48492215">https://news.ycombinator.com/item?id=484922...*
+  📅 Thu, 11 Jun 2026 16:03:40 +0000
 
 ### 📑 TechCrunch
 
-- **[Pool’s new app turns your screenshots into something useful](https://techcrunch.com/2026/06/11/pools-new-app-turns-your-screenshots-into-a-searchable-memory-bank/)**
-  *Pool's new app automatically sorts screenshots into personalized collections, tracks down the original links behind saved content, and helps you rediscover products, recipes, travel ideas, and other t...*
-  📅 Thu, 11 Jun 2026 15:30:00 +0000
+- **[SpaceX SPV investors won’t know their true holdings until post-IPO lock-ups lift](https://techcrunch.com/2026/06/11/spacex-spv-investors-wont-know-their-true-holdings-until-post-ipo-lock-ups-lift/)**
+  *After SpaceX makes its public debut, lower-tier SPV investors face hidden fees, lengthy payout delays, and the  risk of outright fraud....*
+  📅 Thu, 11 Jun 2026 19:58:01 +0000
 
-- **[Microsoft taps Alt Carbon in sign of India’s growing role in carbon removal](https://techcrunch.com/2026/06/11/microsoft-taps-alt-carbon-in-sign-of-indias-growing-rile-in-carbon-removal/)**
-  *Alt Carbon said the agreement followed more than a year of scientific review and due diligence, with Microsoft requiring additional verification and data-sharing measures....*
-  📅 Thu, 11 Jun 2026 15:00:00 +0000
+- **[Bluesky launches group chats, as company shifts focus to community features](https://techcrunch.com/2026/06/11/bluesky-launches-group-chats-as-company-shifts-focus-to-community-features/)**
+  *Bluesky's latest feature is group chats, arriving amid a shift in focus on building features for smaller communities....*
+  📅 Thu, 11 Jun 2026 19:41:05 +0000
 
-- **[DoorDash’s new AI chatbot lets you order with prompts and photos](https://techcrunch.com/2026/06/11/doordashs-new-ai-chatbot-lets-you-order-with-prompts-and-photos/)**
-  *The new chatbot, called Ask DoorDash, allows users to search the app for what they're looking for in their own words instead of having to scroll through restaurants and stores to build a cart....*
-  📅 Thu, 11 Jun 2026 14:23:43 +0000
+- **[Meta’s Edits app is getting an AI assistant and a desktop version](https://techcrunch.com/2026/06/11/metas-edits-app-is-getting-an-ai-assistant-and-a-desktop-version/)**
+  *By integrating an AI assistant directly into Edits, Meta is aiming to keep creators engaged on Instagram as it continues to compete with TikTok and YouTube for creators' attention....*
+  📅 Thu, 11 Jun 2026 17:30:00 +0000
 
-- **[Endurance Energy raises $54M to harness a massive untapped energy source](https://techcrunch.com/2026/06/11/endurance-energy-raises-54m-to-harness-a-massive-untapped-energy-source/)**
-  *SpaceX alumni Andrew Redd is betting the ocean has vast amounts of untapped geothermal energy....*
-  📅 Thu, 11 Jun 2026 14:00:12 +0000
+- **[Coinbase’s new tool can help agents trade and pay for premium research](https://techcrunch.com/2026/06/11/coinbase-debuts-mcp-for-agent-trading/)**
+  *Coinbase's agent can use x402 protocol to get access to data and APIs....*
+  📅 Thu, 11 Jun 2026 17:00:00 +0000
 
-- **[South Korea hits Coupang with $400M+ fine for data breach that affected millions](https://techcrunch.com/2026/06/11/south-korea-hits-coupang-with-400m-fine-for-data-breach-that-affected-millions/)**
-  *South Korean authorities issued the record-breaking fine following a data breach that affected over 30 million customers....*
-  📅 Thu, 11 Jun 2026 13:18:51 +0000
+- **[Quantum Space’s military SPAC is trying to catch SpaceX’s IPO wave](https://techcrunch.com/2026/06/11/quantum-spaces-military-spac-is-trying-to-catch-spacexs-ipo-wave/)**
+  *Quantum Space says SPACs aren't dead as it seeks a $1.2 billion deal to build military spacecraft....*
+  📅 Thu, 11 Jun 2026 16:59:28 +0000
 
-- **[Anthropic taps TCS to scale its enterprise AI deployments](https://techcrunch.com/2026/06/11/anthropic-taps-tcs-to-scale-its-enterprise-ai-deployments/)**
-  *The partnership will see TCS creating a business unit focused on deploying Anthropic's AI models to its customers....*
-  📅 Thu, 11 Jun 2026 11:48:55 +0000
+- **[Deezer’s new tool can identify AI music from Spotify, Apple Music, and others](https://techcrunch.com/2026/06/11/deezers-new-tool-can-identify-ai-music-from-spotify-apple-music-and-others/)**
+  *Deezer introduced a tool that scans playlists from Spotify, Apple Music, and other platforms to identify AI music....*
+  📅 Thu, 11 Jun 2026 16:36:20 +0000
 
 ### 📑 Dev.to
 
-- **[Exotic CRTP: Enforcing Access-Controlled CRTP with C++23 Explicit Object Parameters](https://dev.to/unrays/exotic-crtp-enforcing-access-controlled-crtp-with-c23-explicit-object-parameters-42g3)**
-  *<h2>
-  
-  
-  Polymorphism, Rethought at Compile-Time
-</h2>
+- **[I Sent 40 Follow-Up Emails After Interview Silence — Two Timings Tripled Replies](https://dev.to/charliemorrison/i-sent-40-follow-up-emails-after-interview-silence-two-timings-tripled-replies-89l)**
+  *<p>A thank-you email is the easy part. The hard part is the email you send <em>after</em> — the one where the interview went fine, the manager said "we'll be in touch by Friday," and then it is the fo...*
+  📅 Thu, 11 Jun 2026 19:56:46 +0000
 
-<p>In this article, we will explain how the features of C++23 are revolutionizing the philosophy of static polymorphism. We will also take t...*
-  📅 Thu, 11 Jun 2026 15:25:09 +0000
-
-- **[LiteLLM CVE-2026-42271 Exploited in the Wild — AI Gateway Flaw Chains to Unauthenticated RCE](https://dev.to/vulert_official/litellm-cve-2026-42271-exploited-in-the-wild-ai-gateway-flaw-chains-to-unauthenticated-rce-3d4d)**
-  *<p>AI infrastructure is becoming a serious attack surface. The latest example is LiteLLM <code>CVE-2026-42271</code>, a <code>command</code> injection vulnerability in BerriAI LiteLLM that CISA has ad...*
-  📅 Thu, 11 Jun 2026 15:22:39 +0000
+- **[Have you heard of the Model Context Protocol (MCP) but aren’t quite sure what it is? If so, I invite you to read this concise 4-minute read I wrote about MCP, as well as a live presentation I conducted on the topic.](https://dev.to/callmeizzy/have-you-heard-of-the-model-context-protocol-mcp-but-arent-quite-sure-what-it-is-if-so-i-2dmp)**
+  *<div class="ltag__link--embedded">
+  <div class="crayons-story ">
+  <a class="crayons-story__hidden-navigation-link" href="https://dev.to/callmeizzy/a-crash-course-in-mcp-a-beginners-guide-using-types...*
+  📅 Thu, 11 Jun 2026 19:54:23 +0000
 
 </details>
 
@@ -121,41 +120,75 @@
 
 ### 📈 Daily Trending
 
-- **[MSNightmare/GreatXML](https://github.com/MSNightmare/GreatXML)** ⭐ 183
+- **[MSNightmare/GreatXML](https://github.com/MSNightmare/GreatXML)** ⭐ 241
   ![None](https://img.shields.io/badge/-None-lightgrey)
   GreatXML bitlocker bypass vulnerability
 
-- **[taisly/agent](https://github.com/taisly/agent)** ⭐ 84
+- **[taisly/agent](https://github.com/taisly/agent)** ⭐ 103
   ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
   Taisly Agent Kit: SDK, CLI, examples, and docs for AI agents that publish videos through Taisly.
 
-- **[MiniMax-AI/MSA](https://github.com/MiniMax-AI/MSA)** ⭐ 79
+- **[MiniMax-AI/MSA](https://github.com/MiniMax-AI/MSA)** ⭐ 98
   ![Python](https://img.shields.io/badge/-Python-blue)
   None
 
-- **[pseudoku/Kotinos](https://github.com/pseudoku/Kotinos)** ⭐ 45
+- **[joeseesun/qiaomu-goal-meta-skill](https://github.com/joeseesun/qiaomu-goal-meta-skill)** ⭐ 66
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  Turn vague or complex Codex tasks into strong `/goal` commands with outcome, verification, constraints, boundaries, iteration policy, completion evide
+
+- **[pseudoku/Kotinos](https://github.com/pseudoku/Kotinos)** ⭐ 58
   ![OpenSCAD](https://img.shields.io/badge/-OpenSCAD-lightgrey)
   Ergo Fingertip Shell Mod for HSK Pro
 
-- **[kaor333/Exodus-Fake-Balance](https://github.com/kaor333/Exodus-Fake-Balance)** ⭐ 43
+- **[kaor333/Exodus-Fake-Balance](https://github.com/kaor333/Exodus-Fake-Balance)** ⭐ 52
   ![Python](https://img.shields.io/badge/-Python-blue)
   Exodus Fake Balance — Native balance overlay tool for Exodus wallet with real-time spoofing across BTC, ETH, SOL, XRP and 200+ assets, persistent hooks, and screenshot-safe display rendering
 
-- **[limestonetoadpour/discord-proxy-bypass-2026](https://github.com/limestonetoadpour/discord-proxy-bypass-2026)** ⭐ 40
-  ![HTML](https://img.shields.io/badge/-HTML-lightgrey)
-  ⬇ discord-proxy-bypass-2026.rar в Releases · #discord #proxy #bypass #zapret-discord-youtube #rkn-bypass #no-vpn #dpi-fix #russia-bypass #unblock-discord #discord-not-working
-
-- **[zeptoelderrefinery/youtube-bypass-2026](https://github.com/zeptoelderrefinery/youtube-bypass-2026)** ⭐ 40
-  ![HTML](https://img.shields.io/badge/-HTML-lightgrey)
-  ⬇ youtube-bypass-2026.rar в Releases · #youtube #bypass #zapret-discord-youtube #rkn-bypass #no-vpn #dpi-fix #russia-bypass #unblock-youtube #youtube-blocked #youtube-slow
-
-- **[rbrown101010/rilable](https://github.com/rbrown101010/rilable)** ⭐ 40
+- **[rbrown101010/rilable](https://github.com/rbrown101010/rilable)** ⭐ 48
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   An iPhone app that builds apps — prompt to live web + iOS apps. SwiftUI + Convex + Claude + Daytona + Chorus.
 
+- **[baibanbao/x-made-easy-skill](https://github.com/baibanbao/x-made-easy-skill)** ⭐ 46
+  ![None](https://img.shields.io/badge/-None-lightgrey)
+  A Chinese Made Easy writing skill inspired by Calculus Made Easy
+
+### 📈 Weekly Trending
+
+- **[XiaomiMiMo/MiMo-Code](https://github.com/XiaomiMiMo/MiMo-Code)** ⭐ 4,290
+  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
+  None
+
+- **[shadcn/improve](https://github.com/shadcn/improve)** ⭐ 1,701
+  ![None](https://img.shields.io/badge/-None-lightgrey)
+  Use your most capable model to audit your codebase and write plans for cheaper models to execute.
+
+- **[NoopApp/noop](https://github.com/NoopApp/noop)** ⭐ 1,460
+  ![Swift](https://img.shields.io/badge/-Swift-lightgrey)
+  Offline WHOOP companion — pair your strap over Bluetooth, keep all data on your own device. No cloud, no account, no subscription.
+
+- **[MSNightmare/RoguePlanet](https://github.com/MSNightmare/RoguePlanet)** ⭐ 1,088
+  ![C++](https://img.shields.io/badge/-C++-pink)
+  RoguePlanet Windows Defender Vulnerability
+
+- **[GordenSun/GordenSuperPPTSkills](https://github.com/GordenSun/GordenSuperPPTSkills)** ⭐ 780
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  AI PPT赛道终结者，史上最最最强 PPT Skill！！！  使用GPT生成豪华的图片格式PPT，然后转换为完全可编辑的PPTX文件。
+
+- **[JimLiu/baoyu-design](https://github.com/JimLiu/baoyu-design)** ⭐ 765
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
+  Run Claude Design locally as an Agent Skill — Cursor, Claude Code & more. Produce polished UI mockups, prototypes, decks & wireframes as self-contained HTML, without claude.ai/design. Best with Opus 4.8.
+
+- **[apple/coreai-models](https://github.com/apple/coreai-models)** ⭐ 712
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  Model export recipes, Python primitives, and Swift runtime utilities for on-device AI
+
+- **[vorpus/performativeUI](https://github.com/vorpus/performativeUI)** ⭐ 591
+  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
+  None
+
 ### 📈 Monthly Trending
 
-- **[pewdiepie-archdaemon/odysseus](https://github.com/pewdiepie-archdaemon/odysseus)** ⭐ 67,957
+- **[pewdiepie-archdaemon/odysseus](https://github.com/pewdiepie-archdaemon/odysseus)** ⭐ 68,232
   ![Python](https://img.shields.io/badge/-Python-blue)
   Self-hosted AI workspace. 
 
@@ -163,29 +196,29 @@
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   JavaScript / TypeScript SDK for building Astrid OS capsules. Companion to unicity-astrid/sdk-rust.
 
-- **[alibaba/open-code-review](https://github.com/alibaba/open-code-review)** ⭐ 6,180
+- **[alibaba/open-code-review](https://github.com/alibaba/open-code-review)** ⭐ 6,214
   ![Go](https://img.shields.io/badge/-Go-cyan)
   Open-source & free — Battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in fine-tuned ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.
 
-- **[anthropics/defending-code-reference-harness](https://github.com/anthropics/defending-code-reference-harness)** ⭐ 5,714
+- **[anthropics/defending-code-reference-harness](https://github.com/anthropics/defending-code-reference-harness)** ⭐ 5,729
   ![Python](https://img.shields.io/badge/-Python-blue)
   Skills for threat modeling, scanning, triage, patching, plus an autonomous scanning harness you can /customize
 
-- **[vercel-labs/zerolang](https://github.com/vercel-labs/zerolang)** ⭐ 4,983
+- **[vercel-labs/zerolang](https://github.com/vercel-labs/zerolang)** ⭐ 4,992
   ![C++](https://img.shields.io/badge/-C++-pink)
   The Programming Language for Agents
 
-- **[AprilNEA/OpenLogi](https://github.com/AprilNEA/OpenLogi)** ⭐ 4,664
+- **[AprilNEA/OpenLogi](https://github.com/AprilNEA/OpenLogi)** ⭐ 4,671
   ![Rust](https://img.shields.io/badge/-Rust-brown)
   ⚡️A native, local-first alternative to Logitech Options+, written in Rust 🦀 — remap buttons, DPI, and SmartShift over HID++. No account, no telemetry.
 
-- **[perplexityai/bumblebee](https://github.com/perplexityai/bumblebee)** ⭐ 4,389
+- **[perplexityai/bumblebee](https://github.com/perplexityai/bumblebee)** ⭐ 4,393
   ![Go](https://img.shields.io/badge/-Go-cyan)
   Read-only developer endpoint scanner for on-disk package, extension, and developer-tool metadata, built to check exposure to known software supply-chain compromises.
 
-- **[zgwl/chinese-buy-us-stock-guide](https://github.com/zgwl/chinese-buy-us-stock-guide)** ⭐ 4,143
-  ![None](https://img.shields.io/badge/-None-lightgrey)
-  美股指南
+- **[XiaomiMiMo/MiMo-Code](https://github.com/XiaomiMiMo/MiMo-Code)** ⭐ 4,290
+  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
+  None
 
 ## 🚀 Latest Releases
 
@@ -460,59 +493,59 @@ architectures, it has become apparent...
 
 | Skill | Status |
 |-------|--------|
-| Java | ⚪ Planned |
-| Python | ⚪ Planned |
-| JavaScript | ⚪ Planned |
+| Java | 🔴 Beginner |
+| Python | 🟡 Learning |
+| JavaScript | 🟡 Learning |
 | TypeScript | 🟢 Proficient |
-| Go | 🔴 Beginner |
+| Go | ⚪ Planned |
 
 ### Frameworks
 
 | Skill | Status |
 |-------|--------|
-| React | 🟢 Proficient |
-| Spring Boot | ⚪ Planned |
+| React | 🔴 Beginner |
+| Spring Boot | 🔴 Beginner |
 | Django | ⚪ Planned |
-| Node.js | 🟡 Learning |
-| Next.js | 🟢 Proficient |
+| Node.js | 🟢 Proficient |
+| Next.js | 🔴 Beginner |
 
 ### Cybersecurity
 
 | Skill | Status |
 |-------|--------|
 | Penetration Testing | 🔴 Beginner |
-| Web Security | 🔴 Beginner |
+| Web Security | 🟢 Proficient |
 | Network Security | 🟢 Proficient |
-| OWASP | 🟢 Proficient |
+| OWASP | 🔴 Beginner |
 
 ### Ai Ml
 
 | Skill | Status |
 |-------|--------|
-| Machine Learning | 🟢 Proficient |
-| Deep Learning | 🔴 Beginner |
-| NLP | 🟢 Proficient |
-| Computer Vision | 🟡 Learning |
-| TensorFlow | ⚪ Planned |
-| PyTorch | ⚪ Planned |
+| Machine Learning | 🔴 Beginner |
+| Deep Learning | ⚪ Planned |
+| NLP | ⚪ Planned |
+| Computer Vision | 🔴 Beginner |
+| TensorFlow | 🔴 Beginner |
+| PyTorch | 🟡 Learning |
 
 ### Devops
 
 | Skill | Status |
 |-------|--------|
-| Docker | 🟢 Proficient |
-| Kubernetes | 🟡 Learning |
-| CI/CD | ⚪ Planned |
-| AWS | 🟡 Learning |
+| Docker | 🔴 Beginner |
+| Kubernetes | 🔴 Beginner |
+| CI/CD | 🔴 Beginner |
+| AWS | 🔴 Beginner |
 | Azure | 🔴 Beginner |
 
 ### Other
 
 | Skill | Status |
 |-------|--------|
-| Blockchain | ⚪ Planned |
-| Web3 | ⚪ Planned |
-| Cloud Computing | ⚪ Planned |
+| Blockchain | 🟢 Proficient |
+| Web3 | 🟢 Proficient |
+| Cloud Computing | 🟡 Learning |
 
 </details>
 
