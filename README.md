@@ -20,7 +20,7 @@
 | Metric | Count |
 |--------|-------|
 | 📰 Latest News Articles | 26 |
-| 🔥 Trending Repositories | 45 |
+| 🔥 Trending Repositories | 30 |
 | 🎯 Latest Releases | 10 |
 | 🎯 Learning Goals | 4 |
 
@@ -46,75 +46,74 @@
 
 ### 📑 Hacker News
 
-- **[Web Browsers on Video Game Consoles](https://vale.rocks/posts/game-console-browsers)**
-  *<p>Article URL: <a href="https://vale.rocks/posts/game-console-browsers">https://vale.rocks/posts/game-console-browsers</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=48487897"...*
-  📅 Thu, 11 Jun 2026 08:47:36 +0000
+- **[Amazon Says Its Data Centers Use 2.5B Gallons of Water](https://www.bloomberg.com/news/articles/2026-06-11/amazon-says-its-data-centers-use-2-5-billion-gallons-of-water)**
+  *<p>Article URL: <a href="https://www.bloomberg.com/news/articles/2026-06-11/amazon-says-its-data-centers-use-2-5-billion-gallons-of-water">https://www.bloomberg.com/news/articles/2026-06-11/amazon-say...*
+  📅 Thu, 11 Jun 2026 14:58:41 +0000
 
-- **[Sweet Jeebus, macOS 27 Golden Gate Removes the Dumb Icons from Menu Items](https://daringfireball.net/2026/06/macos_27_golden_gate_removes_the_dumb_icons_from_menu_items)**
-  *<p>Article URL: <a href="https://daringfireball.net/2026/06/macos_27_golden_gate_removes_the_dumb_icons_from_menu_items">https://daringfireball.net/2026/06/macos_27_golden_gate_removes_the_dumb_icons_...*
-  📅 Thu, 11 Jun 2026 07:35:12 +0000
+- **[Driving in America Is Headlight Hell](https://www.theatlantic.com/technology/2026/06/car-headlights-too-bright-adaptive-beams/687488/)**
+  *<p>Article URL: <a href="https://www.theatlantic.com/technology/2026/06/car-headlights-too-bright-adaptive-beams/687488/">https://www.theatlantic.com/technology/2026/06/car-headlights-too-bright-adapt...*
+  📅 Thu, 11 Jun 2026 14:55:59 +0000
 
-- **[Pokémon Go Scans Trained the Navigation Tech for Military Drones](https://dronexl.co/2026/06/09/pokemon-go-scans-niantic-vantor-military-drone-navigation/)**
-  *<p>Article URL: <a href="https://dronexl.co/2026/06/09/pokemon-go-scans-niantic-vantor-military-drone-navigation/">https://dronexl.co/2026/06/09/pokemon-go-scans-niantic-vantor-military-drone-navigati...*
-  📅 Thu, 11 Jun 2026 06:42:06 +0000
+- **[AMD Gaslights Security Researcher, Changes Rules Retroactively [video]](https://www.youtube.com/watch?v=4HjWHNLRMB0)**
+  *<p>Article URL: <a href="https://www.youtube.com/watch?v=4HjWHNLRMB0">https://www.youtube.com/watch?v=4HjWHNLRMB0</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=48490946">https...*
+  📅 Thu, 11 Jun 2026 14:35:53 +0000
 
-- **[Macaroni – a single HTML file messenger](https://github.com/vanyapr/makaroshki)**
-  *<p>Article URL: <a href="https://github.com/vanyapr/makaroshki">https://github.com/vanyapr/makaroshki</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=48486944">https://news.ycom...*
-  📅 Thu, 11 Jun 2026 06:32:33 +0000
+- **[MiMo Code Is Now Released and Open-Source](https://mimo.xiaomi.com/mimocode)**
+  *<p>Article URL: <a href="https://mimo.xiaomi.com/mimocode">https://mimo.xiaomi.com/mimocode</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=48490826">https://news.ycombinator.co...*
+  📅 Thu, 11 Jun 2026 14:27:19 +0000
 
-- **[Are insecure code completions in PyCharm a vulnerability?](https://sethmlarson.dev/are-insecure-code-completions-a-vulnerability)**
-  *<p>Article URL: <a href="https://sethmlarson.dev/are-insecure-code-completions-a-vulnerability">https://sethmlarson.dev/are-insecure-code-completions-a-vulnerability</a></p>
-<p>Comments URL: <a href="...*
-  📅 Thu, 11 Jun 2026 01:26:03 +0000
+- **[Nextcloud Hub 26 Spring: Built together, designed for the future](https://nextcloud.com/blog/nextcloud-hub26-spring/)**
+  *<p>Article URL: <a href="https://nextcloud.com/blog/nextcloud-hub26-spring/">https://nextcloud.com/blog/nextcloud-hub26-spring/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=4...*
+  📅 Thu, 11 Jun 2026 14:17:47 +0000
 
-- **[AI agent runs amok in Fedora and elsewhere](https://lwn.net/SubscriberLink/1077035/c7e7c14fbd60fae9/)**
-  *<p>Article URL: <a href="https://lwn.net/SubscriberLink/1077035/c7e7c14fbd60fae9/">https://lwn.net/SubscriberLink/1077035/c7e7c14fbd60fae9/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.c...*
-  📅 Thu, 11 Jun 2026 00:10:08 +0000
+- **[Euro-Office: First version of the open-source web office is here](https://www.heise.de/en/news/Euro-Office-First-version-of-the-open-source-web-office-is-here-11322160.html)**
+  *<p>Article URL: <a href="https://www.heise.de/en/news/Euro-Office-First-version-of-the-open-source-web-office-is-here-11322160.html">https://www.heise.de/en/news/Euro-Office-First-version-of-the-open-...*
+  📅 Thu, 11 Jun 2026 14:06:43 +0000
 
 ### 📑 TechCrunch
 
-- **[Opendoor’s India exit is fueling a bigger conversation about AI and outsourcing](https://techcrunch.com/2026/06/10/opendoors-india-exit-is-fueling-a-bigger-conversation-about-ai-and-outsourcing/)**
-  *The decision comes as India emerges as the world’s largest GCC market....*
-  📅 Thu, 11 Jun 2026 04:02:19 +0000
+- **[Pool’s new app turns your screenshots into something useful](https://techcrunch.com/2026/06/11/pools-new-app-turns-your-screenshots-into-a-searchable-memory-bank/)**
+  *Pool's new app automatically sorts screenshots into personalized collections, tracks down the original links behind saved content, and helps you rediscover products, recipes, travel ideas, and other t...*
+  📅 Thu, 11 Jun 2026 15:30:00 +0000
 
-- **[Anthropic’s Dario Amodei has just one direct report](https://techcrunch.com/2026/06/10/anthropics-dario-amodei-has-just-one-direct-report/)**
-  *If you doubted his genius, doubt no more....*
-  📅 Thu, 11 Jun 2026 03:53:06 +0000
+- **[Microsoft taps Alt Carbon in sign of India’s growing role in carbon removal](https://techcrunch.com/2026/06/11/microsoft-taps-alt-carbon-in-sign-of-indias-growing-rile-in-carbon-removal/)**
+  *Alt Carbon said the agreement followed more than a year of scientific review and due diligence, with Microsoft requiring additional verification and data-sharing measures....*
+  📅 Thu, 11 Jun 2026 15:00:00 +0000
 
-- **[xAI fired an engineer who raised alarms about Grok safety, new lawsuit claims](https://techcrunch.com/2026/06/10/xai-fired-an-engineer-who-raised-alarms-about-grok-safety-new-lawsuit-claims/)**
-  *A former xAI engineer is suing the company and SpaceX, alleging he was fired for raising AI safety concerns about Grok days before SpaceX's historic IPO....*
-  📅 Wed, 10 Jun 2026 22:31:19 +0000
+- **[DoorDash’s new AI chatbot lets you order with prompts and photos](https://techcrunch.com/2026/06/11/doordashs-new-ai-chatbot-lets-you-order-with-prompts-and-photos/)**
+  *The new chatbot, called Ask DoorDash, allows users to search the app for what they're looking for in their own words instead of having to scroll through restaurants and stores to build a cart....*
+  📅 Thu, 11 Jun 2026 14:23:43 +0000
 
-- **[Why Andrew Yang is building instead of waiting for Washington](https://techcrunch.com/video/why-andrew-yang-is-building-instead-of-waiting-for-washington/)**
-  *Andrew Yang’s 2020 presidential campaign&#160;was based on a&#160;warning that automation and AI would hollow out the labor market and concentrate wealth in the hands of a few. At the time, ideas like...*
-  📅 Wed, 10 Jun 2026 22:24:12 +0000
+- **[Endurance Energy raises $54M to harness a massive untapped energy source](https://techcrunch.com/2026/06/11/endurance-energy-raises-54m-to-harness-a-massive-untapped-energy-source/)**
+  *SpaceX alumni Andrew Redd is betting the ocean has vast amounts of untapped geothermal energy....*
+  📅 Thu, 11 Jun 2026 14:00:12 +0000
 
-- **[Cybercriminals claim breach of Oracle PeopleSoft servers at 100-plus organizations](https://techcrunch.com/2026/06/10/cybercriminals-claim-breach-of-oracle-peoplesoft-servers-at-100-plus-organizations/)**
-  *The ShinyHunters hacking gang claims to have compromised the Oracle PeopleSoft servers of more than 100 organizations, including many universities....*
-  📅 Wed, 10 Jun 2026 21:33:32 +0000
+- **[South Korea hits Coupang with $400M+ fine for data breach that affected millions](https://techcrunch.com/2026/06/11/south-korea-hits-coupang-with-400m-fine-for-data-breach-that-affected-millions/)**
+  *South Korean authorities issued the record-breaking fine following a data breach that affected over 30 million customers....*
+  📅 Thu, 11 Jun 2026 13:18:51 +0000
 
-- **[Everyone wants a piece of Tesla’s battery business](https://techcrunch.com/2026/06/10/everyone-wants-a-piece-of-teslas-battery-business/)**
-  *Electricity demand from AI data centers is pushing everyone — including automakers like GM and Ford — into the energy storage business....*
-  📅 Wed, 10 Jun 2026 20:21:25 +0000
+- **[Anthropic taps TCS to scale its enterprise AI deployments](https://techcrunch.com/2026/06/11/anthropic-taps-tcs-to-scale-its-enterprise-ai-deployments/)**
+  *The partnership will see TCS creating a business unit focused on deploying Anthropic's AI models to its customers....*
+  📅 Thu, 11 Jun 2026 11:48:55 +0000
 
 ### 📑 Dev.to
 
-- **[What the ninth tool inherits.](https://dev.to/earthbound_misfit/what-the-ninth-tool-inherits-5cj7)**
-  *<p>The ninth tool went up three days ago. It is a <a href="https://truffle.ghostwright.dev/public/tools/cache-control-inspector/" rel="noopener noreferrer">Cache-Control inspector</a>. Paste the respo...*
-  📅 Thu, 11 Jun 2026 10:07:11 +0000
-
-- **[Stop Trusting Every JWT: How I Handle OIDC Claims in My Go Gateway](https://dev.to/pixie2468/stop-trusting-every-jwt-how-i-handle-oidc-claims-in-my-go-gateway-1kf1)**
+- **[Exotic CRTP: Enforcing Access-Controlled CRTP with C++23 Explicit Object Parameters](https://dev.to/unrays/exotic-crtp-enforcing-access-controlled-crtp-with-c23-explicit-object-parameters-42g3)**
   *<h2>
   
   
-  Building a Secure OIDC Verification Layer in Go
+  Polymorphism, Rethought at Compile-Time
 </h2>
 
-<p>Authentication is one of those things every backend engineer has to build, yet we all secretly dread getting wrong. When I starte...*
-  📅 Thu, 11 Jun 2026 10:06:22 +0000
+<p>In this article, we will explain how the features of C++23 are revolutionizing the philosophy of static polymorphism. We will also take t...*
+  📅 Thu, 11 Jun 2026 15:25:09 +0000
+
+- **[LiteLLM CVE-2026-42271 Exploited in the Wild — AI Gateway Flaw Chains to Unauthenticated RCE](https://dev.to/vulert_official/litellm-cve-2026-42271-exploited-in-the-wild-ai-gateway-flaw-chains-to-unauthenticated-rce-3d4d)**
+  *<p>AI infrastructure is becoming a serious attack surface. The latest example is LiteLLM <code>CVE-2026-42271</code>, a <code>command</code> injection vulnerability in BerriAI LiteLLM that CISA has ad...*
+  📅 Thu, 11 Jun 2026 15:22:39 +0000
 
 </details>
 
@@ -122,103 +121,69 @@
 
 ### 📈 Daily Trending
 
-- **[MSNightmare/GreatXML](https://github.com/MSNightmare/GreatXML)** ⭐ 105
+- **[MSNightmare/GreatXML](https://github.com/MSNightmare/GreatXML)** ⭐ 183
   ![None](https://img.shields.io/badge/-None-lightgrey)
   GreatXML bitlocker bypass vulnerability
 
-- **[taisly/agent](https://github.com/taisly/agent)** ⭐ 49
+- **[taisly/agent](https://github.com/taisly/agent)** ⭐ 84
   ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
   Taisly Agent Kit: SDK, CLI, examples, and docs for AI agents that publish videos through Taisly.
+
+- **[MiniMax-AI/MSA](https://github.com/MiniMax-AI/MSA)** ⭐ 79
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  None
+
+- **[pseudoku/Kotinos](https://github.com/pseudoku/Kotinos)** ⭐ 45
+  ![OpenSCAD](https://img.shields.io/badge/-OpenSCAD-lightgrey)
+  Ergo Fingertip Shell Mod for HSK Pro
+
+- **[kaor333/Exodus-Fake-Balance](https://github.com/kaor333/Exodus-Fake-Balance)** ⭐ 43
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  Exodus Fake Balance — Native balance overlay tool for Exodus wallet with real-time spoofing across BTC, ETH, SOL, XRP and 200+ assets, persistent hooks, and screenshot-safe display rendering
 
 - **[limestonetoadpour/discord-proxy-bypass-2026](https://github.com/limestonetoadpour/discord-proxy-bypass-2026)** ⭐ 40
   ![HTML](https://img.shields.io/badge/-HTML-lightgrey)
   ⬇ discord-proxy-bypass-2026.rar в Releases · #discord #proxy #bypass #zapret-discord-youtube #rkn-bypass #no-vpn #dpi-fix #russia-bypass #unblock-discord #discord-not-working
 
-- **[franselstadt/BunEHR](https://github.com/franselstadt/BunEHR)** ⭐ 35
-  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
-  A production-grade Electronic Health Record system implementing the full openEHR REST API v1 specification, built with the Bun runtime, Hono framework, Drizzle ORM, and PostgreSQL 16
+- **[zeptoelderrefinery/youtube-bypass-2026](https://github.com/zeptoelderrefinery/youtube-bypass-2026)** ⭐ 40
+  ![HTML](https://img.shields.io/badge/-HTML-lightgrey)
+  ⬇ youtube-bypass-2026.rar в Releases · #youtube #bypass #zapret-discord-youtube #rkn-bypass #no-vpn #dpi-fix #russia-bypass #unblock-youtube #youtube-blocked #youtube-slow
 
-- **[kaor333/Exodus-Fake-Balance](https://github.com/kaor333/Exodus-Fake-Balance)** ⭐ 34
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  Exodus Fake Balance — Native balance overlay tool for Exodus wallet with real-time spoofing across BTC, ETH, SOL, XRP and 200+ assets, persistent hooks, and screenshot-safe display rendering
-
-- **[zhinianboke/pdd-auto-reply](https://github.com/zhinianboke/pdd-auto-reply)** ⭐ 32
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  面向拼多多多店铺商家的客服消息自动化系统。基于拼多多商家后台实时收发客服消息，结合关键词规则、AI 智能回复与知识库工具调用，实现 7×24 小时自动应答、转人工、风控与营业时间管控。
-
-- **[rbrown101010/rilable](https://github.com/rbrown101010/rilable)** ⭐ 28
+- **[rbrown101010/rilable](https://github.com/rbrown101010/rilable)** ⭐ 40
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   An iPhone app that builds apps — prompt to live web + iOS apps. SwiftUI + Convex + Claude + Daytona + Chorus.
 
-- **[pseudoku/Kotinos](https://github.com/pseudoku/Kotinos)** ⭐ 25
-  ![OpenSCAD](https://img.shields.io/badge/-OpenSCAD-lightgrey)
-  Ergo Fingertip Shell Mod for HSK Pro
-
-### 📈 Weekly Trending
-
-- **[XiaomiMiMo/MiMo-Code](https://github.com/XiaomiMiMo/MiMo-Code)** ⭐ 2,916
-  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
-  None
-
-- **[NoopApp/noop](https://github.com/NoopApp/noop)** ⭐ 1,430
-  ![Swift](https://img.shields.io/badge/-Swift-lightgrey)
-  Offline WHOOP companion — pair your strap over Bluetooth, keep all data on your own device. No cloud, no account, no subscription.
-
-- **[shadcn/improve](https://github.com/shadcn/improve)** ⭐ 1,299
-  ![None](https://img.shields.io/badge/-None-lightgrey)
-  Use your most capable model to audit your codebase and write plans for cheaper models to execute.
-
-- **[MSNightmare/RoguePlanet](https://github.com/MSNightmare/RoguePlanet)** ⭐ 1,006
-  ![C++](https://img.shields.io/badge/-C++-pink)
-  RoguePlanet Windows Defender Vulnerability
-
-- **[GordenSun/GordenSuperPPTSkills](https://github.com/GordenSun/GordenSuperPPTSkills)** ⭐ 757
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  AI PPT赛道终结者，史上最最最强 PPT Skill！！！  使用GPT生成豪华的图片格式PPT，然后转换为完全可编辑的PPTX文件。
-
-- **[JimLiu/baoyu-design](https://github.com/JimLiu/baoyu-design)** ⭐ 737
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
-  Run Claude Design locally as an Agent Skill — Cursor, Claude Code & more. Produce polished UI mockups, prototypes, decks & wireframes as self-contained HTML, without claude.ai/design. Best with Opus 4.8.
-
-- **[apple/coreai-models](https://github.com/apple/coreai-models)** ⭐ 660
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  Model export recipes, Python primitives, and Swift runtime utilities for on-device AI
-
-- **[vorpus/performativeUI](https://github.com/vorpus/performativeUI)** ⭐ 583
-  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
-  None
-
 ### 📈 Monthly Trending
 
-- **[pewdiepie-archdaemon/odysseus](https://github.com/pewdiepie-archdaemon/odysseus)** ⭐ 67,619
+- **[pewdiepie-archdaemon/odysseus](https://github.com/pewdiepie-archdaemon/odysseus)** ⭐ 67,957
   ![Python](https://img.shields.io/badge/-Python-blue)
   Self-hosted AI workspace. 
 
-- **[unicity-astrid/sdk-js](https://github.com/unicity-astrid/sdk-js)** ⭐ 8,255
+- **[unicity-astrid/sdk-js](https://github.com/unicity-astrid/sdk-js)** ⭐ 8,256
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   JavaScript / TypeScript SDK for building Astrid OS capsules. Companion to unicity-astrid/sdk-rust.
 
-- **[alibaba/open-code-review](https://github.com/alibaba/open-code-review)** ⭐ 6,153
+- **[alibaba/open-code-review](https://github.com/alibaba/open-code-review)** ⭐ 6,180
   ![Go](https://img.shields.io/badge/-Go-cyan)
   Open-source & free — Battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in fine-tuned ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.
 
-- **[anthropics/defending-code-reference-harness](https://github.com/anthropics/defending-code-reference-harness)** ⭐ 5,702
+- **[anthropics/defending-code-reference-harness](https://github.com/anthropics/defending-code-reference-harness)** ⭐ 5,714
   ![Python](https://img.shields.io/badge/-Python-blue)
   Skills for threat modeling, scanning, triage, patching, plus an autonomous scanning harness you can /customize
 
-- **[vercel-labs/zerolang](https://github.com/vercel-labs/zerolang)** ⭐ 4,976
+- **[vercel-labs/zerolang](https://github.com/vercel-labs/zerolang)** ⭐ 4,983
   ![C++](https://img.shields.io/badge/-C++-pink)
   The Programming Language for Agents
 
-- **[AprilNEA/OpenLogi](https://github.com/AprilNEA/OpenLogi)** ⭐ 4,641
+- **[AprilNEA/OpenLogi](https://github.com/AprilNEA/OpenLogi)** ⭐ 4,664
   ![Rust](https://img.shields.io/badge/-Rust-brown)
   ⚡️A native, local-first alternative to Logitech Options+, written in Rust 🦀 — remap buttons, DPI, and SmartShift over HID++. No account, no telemetry.
 
-- **[perplexityai/bumblebee](https://github.com/perplexityai/bumblebee)** ⭐ 4,388
+- **[perplexityai/bumblebee](https://github.com/perplexityai/bumblebee)** ⭐ 4,389
   ![Go](https://img.shields.io/badge/-Go-cyan)
   Read-only developer endpoint scanner for on-disk package, extension, and developer-tool metadata, built to check exposure to known software supply-chain compromises.
 
-- **[zgwl/chinese-buy-us-stock-guide](https://github.com/zgwl/chinese-buy-us-stock-guide)** ⭐ 4,114
+- **[zgwl/chinese-buy-us-stock-guide](https://github.com/zgwl/chinese-buy-us-stock-guide)** ⭐ 4,143
   ![None](https://img.shields.io/badge/-None-lightgrey)
   美股指南
 
@@ -495,9 +460,9 @@ architectures, it has become apparent...
 
 | Skill | Status |
 |-------|--------|
-| Java | 🟢 Proficient |
-| Python | 🟢 Proficient |
-| JavaScript | 🟡 Learning |
+| Java | ⚪ Planned |
+| Python | ⚪ Planned |
+| JavaScript | ⚪ Planned |
 | TypeScript | 🟢 Proficient |
 | Go | 🔴 Beginner |
 
@@ -505,49 +470,49 @@ architectures, it has become apparent...
 
 | Skill | Status |
 |-------|--------|
-| React | 🟡 Learning |
-| Spring Boot | 🟢 Proficient |
-| Django | 🔴 Beginner |
-| Node.js | ⚪ Planned |
+| React | 🟢 Proficient |
+| Spring Boot | ⚪ Planned |
+| Django | ⚪ Planned |
+| Node.js | 🟡 Learning |
 | Next.js | 🟢 Proficient |
 
 ### Cybersecurity
 
 | Skill | Status |
 |-------|--------|
-| Penetration Testing | 🟢 Proficient |
-| Web Security | ⚪ Planned |
+| Penetration Testing | 🔴 Beginner |
+| Web Security | 🔴 Beginner |
 | Network Security | 🟢 Proficient |
-| OWASP | 🔴 Beginner |
+| OWASP | 🟢 Proficient |
 
 ### Ai Ml
 
 | Skill | Status |
 |-------|--------|
-| Machine Learning | 🟡 Learning |
-| Deep Learning | ⚪ Planned |
-| NLP | 🟡 Learning |
+| Machine Learning | 🟢 Proficient |
+| Deep Learning | 🔴 Beginner |
+| NLP | 🟢 Proficient |
 | Computer Vision | 🟡 Learning |
-| TensorFlow | 🟡 Learning |
-| PyTorch | 🔴 Beginner |
+| TensorFlow | ⚪ Planned |
+| PyTorch | ⚪ Planned |
 
 ### Devops
 
 | Skill | Status |
 |-------|--------|
 | Docker | 🟢 Proficient |
-| Kubernetes | 🟢 Proficient |
-| CI/CD | 🟢 Proficient |
+| Kubernetes | 🟡 Learning |
+| CI/CD | ⚪ Planned |
 | AWS | 🟡 Learning |
-| Azure | ⚪ Planned |
+| Azure | 🔴 Beginner |
 
 ### Other
 
 | Skill | Status |
 |-------|--------|
-| Blockchain | 🟢 Proficient |
-| Web3 | 🔴 Beginner |
-| Cloud Computing | 🔴 Beginner |
+| Blockchain | ⚪ Planned |
+| Web3 | ⚪ Planned |
+| Cloud Computing | ⚪ Planned |
 
 </details>
 
