@@ -46,74 +46,74 @@
 
 ### 📑 Hacker News
 
-- **[WASI 0.3.0 Released](https://github.com/WebAssembly/WASI/releases/tag/v0.3.0)**
-  *<p>Article URL: <a href="https://github.com/WebAssembly/WASI/releases/tag/v0.3.0">https://github.com/WebAssembly/WASI/releases/tag/v0.3.0</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com...*
-  📅 Fri, 12 Jun 2026 13:51:15 +0000
+- **[A Peter Thiel-Backed Tribunal Is Putting Journalists on Trial](https://www.hollywoodreporter.com/business/business-news/peter-thiel-tribunal-journalists-trial-1236617579/)**
+  *<p>Article URL: <a href="https://www.hollywoodreporter.com/business/business-news/peter-thiel-tribunal-journalists-trial-1236617579/">https://www.hollywoodreporter.com/business/business-news/peter-thi...*
+  📅 Fri, 12 Jun 2026 18:40:47 +0000
 
-- **[SpaceX's president is floating a Tesla merger as the company begins trading](https://qz.com/spacex-tesla-merger-gwynne-shotwell-ipo-061226)**
-  *<p>Article URL: <a href="https://qz.com/spacex-tesla-merger-gwynne-shotwell-ipo-061226">https://qz.com/spacex-tesla-merger-gwynne-shotwell-ipo-061226</a></p>
-<p>Comments URL: <a href="https://news.yco...*
-  📅 Fri, 12 Jun 2026 13:47:21 +0000
+- **[I Won't Buy You a Coffee](https://hakkerman.eu/blog/i-wont-buy-you-a-coffee/)**
+  *<p>Article URL: <a href="https://hakkerman.eu/blog/i-wont-buy-you-a-coffee/">https://hakkerman.eu/blog/i-wont-buy-you-a-coffee/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=4...*
+  📅 Fri, 12 Jun 2026 18:37:25 +0000
 
-- **[Hazel (YC W24) Is Hiring a Full Stack Engineer](https://www.ycombinator.com/companies/hazel-2/jobs/3epPWgu-full-stack-engineer-ts-sci)**
-  *<p>Article URL: <a href="https://www.ycombinator.com/companies/hazel-2/jobs/3epPWgu-full-stack-engineer-ts-sci">https://www.ycombinator.com/companies/hazel-2/jobs/3epPWgu-full-stack-engineer-ts-sci</a...*
-  📅 Fri, 12 Jun 2026 13:14:18 +0000
+- **[Cosmodial Sky Atlas](https://killedbyapixel.github.io/Cosmodial/)**
+  *<p>Article URL: <a href="https://killedbyapixel.github.io/Cosmodial/">https://killedbyapixel.github.io/Cosmodial/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=48507571">https...*
+  📅 Fri, 12 Jun 2026 18:20:17 +0000
 
-- **[Encrypted Spaces An architecture for collaborative applications](https://encryptedspaces.org/)**
-  *<p>Article URL: <a href="https://encryptedspaces.org/">https://encryptedspaces.org/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=48503219">https://news.ycombinator.com/item?i...*
-  📅 Fri, 12 Jun 2026 12:22:07 +0000
+- **[I Am Not a Reverse Centaur](https://blog.miguelgrinberg.com/post/i-am-not-a-reverse-centaur)**
+  *<p>Article URL: <a href="https://blog.miguelgrinberg.com/post/i-am-not-a-reverse-centaur">https://blog.miguelgrinberg.com/post/i-am-not-a-reverse-centaur</a></p>
+<p>Comments URL: <a href="https://news...*
+  📅 Fri, 12 Jun 2026 17:53:20 +0000
 
-- **[Maxproof](https://arxiv.org/abs/2606.13473)**
-  *<p>Article URL: <a href="https://arxiv.org/abs/2606.13473">https://arxiv.org/abs/2606.13473</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=48503014">https://news.ycombinator.co...*
-  📅 Fri, 12 Jun 2026 12:00:02 +0000
+- **["Don't You Just Upload It to ChatGPT?"](https://correresmidestino.com/dont-you-just-upload-it-to-chatgpt/)**
+  *<p>Article URL: <a href="https://correresmidestino.com/dont-you-just-upload-it-to-chatgpt/">https://correresmidestino.com/dont-you-just-upload-it-to-chatgpt/</a></p>
+<p>Comments URL: <a href="https://...*
+  📅 Fri, 12 Jun 2026 17:52:46 +0000
 
-- **[David Hockney, Who Restored the Human Form to Art, Dies at 88](https://www.nytimes.com/2026/06/12/arts/design/david-hockney-dead.html)**
-  *<p>Article URL: <a href="https://www.nytimes.com/2026/06/12/arts/design/david-hockney-dead.html">https://www.nytimes.com/2026/06/12/arts/design/david-hockney-dead.html</a></p>
-<p>Comments URL: <a href...*
-  📅 Fri, 12 Jun 2026 11:26:54 +0000
+- **[How to Setup a Local Coding Agent on macOS](https://ikyle.me/blog/2026/how-to-setup-a-local-coding-agent-on-macos)**
+  *<p>Article URL: <a href="https://ikyle.me/blog/2026/how-to-setup-a-local-coding-agent-on-macos">https://ikyle.me/blog/2026/how-to-setup-a-local-coding-agent-on-macos</a></p>
+<p>Comments URL: <a href="...*
+  📅 Fri, 12 Jun 2026 17:34:55 +0000
 
 ### 📑 TechCrunch
 
-- **[SpaceX IPO: Everything you need to know](https://techcrunch.com/2026/06/12/spacex-ipo-everything-you-need-to-know/)**
+- **[SpaceX president Gwynne Shotwell just gave another hint at a Tesla merger](https://techcrunch.com/2026/06/12/spacex-president-gwynne-shotwell-just-gave-another-hint-at-a-tesla-merger/)**
+  *A SpaceX-Tesla merger seems inevitable....*
+  📅 Fri, 12 Jun 2026 19:28:31 +0000
+
+- **[SpaceX IPO: Live updates on everything you need to know](https://techcrunch.com/2026/06/12/spacex-ipo-live-updates-on-everything-you-need-to-know/)**
   *TechCrunch has followed SpaceX's start, struggles, and successes from the early days. And we're here for what happens next too. This package of SpaceX IPO coverage includes who stands to win (and mayb...*
-  📅 Fri, 12 Jun 2026 14:08:54 +0000
+  📅 Fri, 12 Jun 2026 18:36:19 +0000
 
-- **[US surveillance law to expire for first time after lawmakers reject Trump’s controversial pick to lead spy agencies](https://techcrunch.com/2026/06/12/us-spy-law-to-expire-for-first-time-after-lawmakers-reject-trumps-controversial-pick-to-lead-spy-agencies/)**
-  *The spy law known as Section 702, which authorizes the NSA and FBI's warrantless surveillance, will all but certainly expire on Friday for the first time....*
-  📅 Fri, 12 Jun 2026 11:43:32 +0000
+- **[SpaceX shares soar 30% midday, vaulting it to top six most valuable U.S. companies](https://techcrunch.com/2026/06/12/spacex-shares-soar-30-percent-midday-vaulting-it-to-top-six-most-valuable-us-companies/)**
+  *The company made its heavily anticipated debut on Friday, trading higher than its initial $135 IPO price....*
+  📅 Fri, 12 Jun 2026 18:20:50 +0000
 
-- **[Cheaper, faster, and culturally aware, Avataar’s video AI is built for India’s scale](https://techcrunch.com/2026/06/11/cheaper-faster-and-culturally-aware-avataars-video-ai-is-built-for-indias-scale/)**
-  *Avataar AI's distilled video model is priced at $0.005 for every second of generation...*
-  📅 Fri, 12 Jun 2026 04:30:00 +0000
+- **[Mistral is rumored to be raising €3B at €20B valuation](https://techcrunch.com/2026/06/12/mistral-is-rumored-to-be-raising-e3b-at-e20-valuation/)**
+  *The funding round would value the company at around €20 billion (about $23.15 billion), nearly double its Series C valuation of €11.7 billion....*
+  📅 Fri, 12 Jun 2026 17:38:11 +0000
 
-- **[Equal AI raises $30M to screen calls so Indians don’t have to](https://techcrunch.com/2026/06/11/equal-ai-raises-30m-to-screen-calls-so-indians-dont-have-to/)**
-  *Equal AI said that its AI-powered call assistant now has over a million monthly active users....*
-  📅 Fri, 12 Jun 2026 04:30:00 +0000
+- **[Google sues alleged Chinese cybercrime operation that used AI to send scam texts](https://techcrunch.com/2026/06/12/google-sues-alleged-chinese-cybercrime-operation-that-used-ai-to-send-scam-texts/)**
+  *The tech giant said a group called "Outsider Enterprise" used AI to scam hundreds of thousands of victims, sending 2.5 million text messages over a span of two weeks....*
+  📅 Fri, 12 Jun 2026 17:26:08 +0000
 
-- **[Theker just raised $85M to build the factory robot that doesn’t specialize in anything](https://techcrunch.com/2026/06/11/theker-just-raised-85m-to-build-the-factory-robot-that-doesnt-specialize-in-anything/)**
-  *Unlike humanoid robots designed around a fixed form — think Boston Dynamics — Theker's machines are built to be reconfigured....*
-  📅 Fri, 12 Jun 2026 01:48:07 +0000
-
-- **[Jeff Bezos’s Prometheus raises $12B to build an ‘artificial general engineer’ for the physical world](https://techcrunch.com/2026/06/11/jeff-bezoss-prometheus-raises-12b-to-build-an-artificial-general-engineer-for-the-physical-world/)**
-  *The new round values the physical AI startup that aims to automate heavy engineering and drug design at $41 billion....*
-  📅 Fri, 12 Jun 2026 01:04:38 +0000
+- **[Robinhood sees ‘record-breaking’ traffic after SpaceX stock debuts](https://techcrunch.com/2026/06/12/robinhood-sees-record-breaking-traffic-after-spacex-stock-debuts/)**
+  *The trading platform says some customers experienced intermittent disruptions, but those issues have resolved....*
+  📅 Fri, 12 Jun 2026 17:05:06 +0000
 
 ### 📑 Dev.to
 
-- **[Defining Autism: The Shadow and the Object](https://dev.to/raphink/defining-autism-the-shadow-and-the-object-3ca7)**
-  *<p>When I attend tech conferences, people usually know me — if they do — for my work on Cilium and my labs.</p>
+- **[.NET 11 vs .NET 10: We Benchmarked Both on a Real Production App (Should You Upgrade?)](https://dev.to/kirandeepjassalcrypto/net-11-vs-net-10-we-benchmarked-both-on-a-real-production-app-should-you-upgrade-5goh)**
+  *<blockquote>
+<p>Originally published on <a href="https://prepstack.co.in/blog/dotnet-11-vs-dotnet-10-benchmarked-production" rel="noopener noreferrer">PrepStack</a>. Cross-posting the TL;DR here.</p>
+...*
+  📅 Fri, 12 Jun 2026 19:35:58 +0000
 
-<p>That started changing recently. At the last two tech conferences I attended, visitor...*
-  📅 Fri, 12 Jun 2026 14:28:09 +0000
+- **[What Makes An Agent Loop Useful?](https://dev.to/ebonyl/what-makes-an-agent-loop-useful-d5e)**
+  *<p>Over the last few days, my feed has been filled with posts about agent loops.</p>
 
-- **[Day 14 of #100DaysOfClickHouse: Understanding Nodes, Shards, and Replicas](https://dev.to/kanishga_subramani_49ad73/day-14-of-100daysofclickhouse-understanding-nodes-shards-and-replicas-12h5)**
-  *<p>When people first start learning ClickHouse®, they usually focus on SQL queries, table engines, and performance optimization.</p>
-
-<p>But as data grows from millions to billions of rows, architectu...*
-  📅 Fri, 12 Jun 2026 14:24:31 +0000
+<p>The message is usually some variation of the same idea: stop prompting agents one step at a time and start desi...*
+  📅 Fri, 12 Jun 2026 19:32:34 +0000
 
 </details>
 
@@ -121,75 +121,75 @@
 
 ### 📈 Daily Trending
 
-- **[DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail)** ⭐ 575
+- **[DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail)** ⭐ 785
   ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
   Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.
 
-- **[skydoves/compose-nav-graph](https://github.com/skydoves/compose-nav-graph)** ⭐ 122
+- **[skydoves/compose-nav-graph](https://github.com/skydoves/compose-nav-graph)** ⭐ 159
   ![Kotlin](https://img.shields.io/badge/-Kotlin-lightgrey)
   ⛵️ Compose Navigation Graph plugin for Android Studio that visualizes your entire app flow as an interactive map of rendered previews, typed arguments, and transitions.
 
-- **[joeseesun/qiaomu-ai-prd](https://github.com/joeseesun/qiaomu-ai-prd)** ⭐ 71
+- **[lenucksi/aur-malware-check](https://github.com/lenucksi/aur-malware-check)** ⭐ 114
+  ![Shell](https://img.shields.io/badge/-Shell-lightgrey)
+  Detection tools for the June 2026 atomic-lockfile AUR supply-chain attack. Consolidated from community Gists.
+
+- **[joeseesun/qiaomu-ai-prd](https://github.com/joeseesun/qiaomu-ai-prd)** ⭐ 85
   ![Python](https://img.shields.io/badge/-Python-blue)
   Turn one-line product ideas into AI-implementable PRDs with speed-read cards, constraint layers, overdelivery ideas, metrics, and acceptance scripts.
 
-- **[Nanako0129/coralline](https://github.com/Nanako0129/coralline)** ⭐ 49
+- **[Nanako0129/coralline](https://github.com/Nanako0129/coralline)** ⭐ 68
   ![Shell](https://img.shields.io/badge/-Shell-lightgrey)
   🪸 Powerlevel10k-inspired statusline for Claude Code — paste one prompt and your AI interviews you, then installs it
 
-- **[Menahisa/Flash-USDT-Sender](https://github.com/Menahisa/Flash-USDT-Sender)** ⭐ 42
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  Flash USDT Sender — Multi-network flash transaction tool for USDT, BTC, and ETH with configurable duration, custom gas settings, ERC-20/TRC-20/BEP-20 support, and block explorer-visible confirmations
+- **[blader/arbitrage](https://github.com/blader/arbitrage)** ⭐ 50
+  ![None](https://img.shields.io/badge/-None-lightgrey)
+  A Claude Code skill for token arbitrage: keep premium model tokens for judgment, dispatch all code-writing to codex.
 
-- **[bozhouDev/xhs-article-to-images](https://github.com/bozhouDev/xhs-article-to-images)** ⭐ 41
+- **[Boardeentrance/zapret-discord-youtube-1.9.9a](https://github.com/Boardeentrance/zapret-discord-youtube-1.9.9a)** ⭐ 50
+  ![Batchfile](https://img.shields.io/badge/-Batchfile-lightgrey)
+  НОВЫЙ ОБХОД ДИСКОРДА (12.06.2026)
+
+- **[bozhouDev/xhs-article-to-images](https://github.com/bozhouDev/xhs-article-to-images)** ⭐ 47
   ![CSS](https://img.shields.io/badge/-CSS-lightgrey)
   Agent-assisted Markdown article to Xiaohongshu image cards workflow
 
-- **[Jia-Ethan/github-solution-research](https://github.com/Jia-Ethan/github-solution-research)** ⭐ 35
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  Codex skill for GitHub-backed engineering solution research
-
-- **[tricadkost1n/FilipNote](https://github.com/tricadkost1n/FilipNote)** ⭐ 29
-  ![PHP](https://img.shields.io/badge/-PHP-lightgrey)
-  models Vision for object detection
-
 ### 📈 Weekly Trending
 
-- **[XiaomiMiMo/MiMo-Code](https://github.com/XiaomiMiMo/MiMo-Code)** ⭐ 6,041
+- **[XiaomiMiMo/MiMo-Code](https://github.com/XiaomiMiMo/MiMo-Code)** ⭐ 6,565
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   None
 
-- **[shadcn/improve](https://github.com/shadcn/improve)** ⭐ 2,194
+- **[shadcn/improve](https://github.com/shadcn/improve)** ⭐ 2,347
   ![None](https://img.shields.io/badge/-None-lightgrey)
   Use your most capable model to audit your codebase and write plans for cheaper models to execute.
 
-- **[NoopApp/noop](https://github.com/NoopApp/noop)** ⭐ 1,508
+- **[NoopApp/noop](https://github.com/NoopApp/noop)** ⭐ 1,525
   ![Swift](https://img.shields.io/badge/-Swift-lightgrey)
   Offline WHOOP companion — pair your strap over Bluetooth, keep all data on your own device. No cloud, no account, no subscription.
 
-- **[MSNightmare/RoguePlanet](https://github.com/MSNightmare/RoguePlanet)** ⭐ 1,182
+- **[MSNightmare/RoguePlanet](https://github.com/MSNightmare/RoguePlanet)** ⭐ 1,204
   ![C++](https://img.shields.io/badge/-C++-pink)
   RoguePlanet Windows Defender Vulnerability
 
-- **[GordenSun/GordenSuperPPTSkills](https://github.com/GordenSun/GordenSuperPPTSkills)** ⭐ 833
+- **[GordenSun/GordenSuperPPTSkills](https://github.com/GordenSun/GordenSuperPPTSkills)** ⭐ 842
   ![Python](https://img.shields.io/badge/-Python-blue)
   AI PPT赛道终结者，史上最最最强 PPT Skill！！！  使用GPT生成豪华的图片格式PPT，然后转换为完全可编辑的PPTX文件。
 
-- **[JimLiu/baoyu-design](https://github.com/JimLiu/baoyu-design)** ⭐ 819
+- **[JimLiu/baoyu-design](https://github.com/JimLiu/baoyu-design)** ⭐ 825
   ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
   Run Claude Design locally as an Agent Skill — Cursor, Claude Code & more. Produce polished UI mockups, prototypes, decks & wireframes as self-contained HTML, without claude.ai/design. Best with Opus 4.8.
 
-- **[apple/coreai-models](https://github.com/apple/coreai-models)** ⭐ 808
-  ![Python](https://img.shields.io/badge/-Python-blue)
+- **[apple/coreai-models](https://github.com/apple/coreai-models)** ⭐ 823
+  ![Swift](https://img.shields.io/badge/-Swift-lightgrey)
   Model export recipes, Python primitives, and Swift runtime utilities for on-device AI
 
-- **[vorpus/performativeUI](https://github.com/vorpus/performativeUI)** ⭐ 650
-  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
-  None
+- **[DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail)** ⭐ 785
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
+  Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.
 
 ### 📈 Monthly Trending
 
-- **[pewdiepie-archdaemon/odysseus](https://github.com/pewdiepie-archdaemon/odysseus)** ⭐ 69,009
+- **[pewdiepie-archdaemon/odysseus](https://github.com/pewdiepie-archdaemon/odysseus)** ⭐ 69,215
   ![Python](https://img.shields.io/badge/-Python-blue)
   Self-hosted AI workspace. 
 
@@ -197,27 +197,27 @@
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   JavaScript / TypeScript SDK for building Astrid OS capsules. Companion to unicity-astrid/sdk-rust.
 
-- **[alibaba/open-code-review](https://github.com/alibaba/open-code-review)** ⭐ 6,417
-  ![Go](https://img.shields.io/badge/-Go-cyan)
-  Open-source & free — Battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in fine-tuned ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.
-
-- **[XiaomiMiMo/MiMo-Code](https://github.com/XiaomiMiMo/MiMo-Code)** ⭐ 6,041
+- **[XiaomiMiMo/MiMo-Code](https://github.com/XiaomiMiMo/MiMo-Code)** ⭐ 6,565
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   None
 
-- **[anthropics/defending-code-reference-harness](https://github.com/anthropics/defending-code-reference-harness)** ⭐ 5,772
+- **[alibaba/open-code-review](https://github.com/alibaba/open-code-review)** ⭐ 6,438
+  ![Go](https://img.shields.io/badge/-Go-cyan)
+  Open-source & free — Battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in fine-tuned ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.
+
+- **[anthropics/defending-code-reference-harness](https://github.com/anthropics/defending-code-reference-harness)** ⭐ 5,778
   ![Python](https://img.shields.io/badge/-Python-blue)
   Skills for threat modeling, scanning, triage, patching, plus an autonomous scanning harness you can /customize
 
-- **[vercel-labs/zerolang](https://github.com/vercel-labs/zerolang)** ⭐ 5,000
+- **[vercel-labs/zerolang](https://github.com/vercel-labs/zerolang)** ⭐ 5,006
   ![C++](https://img.shields.io/badge/-C++-pink)
   The Programming Language for Agents
 
-- **[AprilNEA/OpenLogi](https://github.com/AprilNEA/OpenLogi)** ⭐ 4,712
+- **[AprilNEA/OpenLogi](https://github.com/AprilNEA/OpenLogi)** ⭐ 4,729
   ![Rust](https://img.shields.io/badge/-Rust-brown)
   ⚡️A native, local-first alternative to Logitech Options+, written in Rust 🦀 — remap buttons, DPI, and SmartShift over HID++. No account, no telemetry.
 
-- **[perplexityai/bumblebee](https://github.com/perplexityai/bumblebee)** ⭐ 4,409
+- **[perplexityai/bumblebee](https://github.com/perplexityai/bumblebee)** ⭐ 4,413
   ![Go](https://img.shields.io/badge/-Go-cyan)
   Read-only developer endpoint scanner for on-disk package, extension, and developer-tool metadata, built to check exposure to known software supply-chain compromises.
 
@@ -495,58 +495,58 @@ architectures, it has become apparent...
 | Skill | Status |
 |-------|--------|
 | Java | 🟡 Learning |
-| Python | 🟢 Proficient |
-| JavaScript | ⚪ Planned |
-| TypeScript | 🟢 Proficient |
-| Go | 🟡 Learning |
+| Python | ⚪ Planned |
+| JavaScript | 🟡 Learning |
+| TypeScript | 🟡 Learning |
+| Go | ⚪ Planned |
 
 ### Frameworks
 
 | Skill | Status |
 |-------|--------|
-| React | 🟢 Proficient |
-| Spring Boot | 🟢 Proficient |
-| Django | 🟡 Learning |
-| Node.js | 🟢 Proficient |
-| Next.js | 🔴 Beginner |
+| React | 🔴 Beginner |
+| Spring Boot | ⚪ Planned |
+| Django | 🟢 Proficient |
+| Node.js | 🔴 Beginner |
+| Next.js | ⚪ Planned |
 
 ### Cybersecurity
 
 | Skill | Status |
 |-------|--------|
-| Penetration Testing | 🟡 Learning |
-| Web Security | 🟢 Proficient |
-| Network Security | ⚪ Planned |
+| Penetration Testing | 🟢 Proficient |
+| Web Security | 🟡 Learning |
+| Network Security | 🔴 Beginner |
 | OWASP | ⚪ Planned |
 
 ### Ai Ml
 
 | Skill | Status |
 |-------|--------|
-| Machine Learning | 🔴 Beginner |
-| Deep Learning | 🟡 Learning |
-| NLP | 🟡 Learning |
+| Machine Learning | 🟢 Proficient |
+| Deep Learning | 🔴 Beginner |
+| NLP | 🔴 Beginner |
 | Computer Vision | 🔴 Beginner |
-| TensorFlow | 🟡 Learning |
+| TensorFlow | 🟢 Proficient |
 | PyTorch | 🟢 Proficient |
 
 ### Devops
 
 | Skill | Status |
 |-------|--------|
-| Docker | ⚪ Planned |
-| Kubernetes | ⚪ Planned |
-| CI/CD | 🟢 Proficient |
-| AWS | 🟡 Learning |
+| Docker | 🔴 Beginner |
+| Kubernetes | 🟢 Proficient |
+| CI/CD | ⚪ Planned |
+| AWS | ⚪ Planned |
 | Azure | 🔴 Beginner |
 
 ### Other
 
 | Skill | Status |
 |-------|--------|
-| Blockchain | 🔴 Beginner |
-| Web3 | 🟢 Proficient |
-| Cloud Computing | 🔴 Beginner |
+| Blockchain | ⚪ Planned |
+| Web3 | ⚪ Planned |
+| Cloud Computing | ⚪ Planned |
 
 </details>
 
