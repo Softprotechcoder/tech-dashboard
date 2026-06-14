@@ -46,34 +46,34 @@
 
 ### 📑 Hacker News
 
+- **[How did Atari apply side art to Arcade Cabinets?](https://arcadeblogger.com/2026/06/14/how-did-atari-apply-side-art-to-arcade-cabinets/)**
+  *<p>Article URL: <a href="https://arcadeblogger.com/2026/06/14/how-did-atari-apply-side-art-to-arcade-cabinets/">https://arcadeblogger.com/2026/06/14/how-did-atari-apply-side-art-to-arcade-cabinets/</a...*
+  📅 Sun, 14 Jun 2026 12:57:33 +0000
+
+- **[The Birth and Death of JavaScript (2014)](https://www.destroyallsoftware.com/talks/the-birth-and-death-of-javascript)**
+  *<p>Article URL: <a href="https://www.destroyallsoftware.com/talks/the-birth-and-death-of-javascript">https://www.destroyallsoftware.com/talks/the-birth-and-death-of-javascript</a></p>
+<p>Comments URL:...*
+  📅 Sun, 14 Jun 2026 12:38:31 +0000
+
+- **[How to Earn a Billion Dollars](https://paulgraham.com/earn.html)**
+  *<p>Article URL: <a href="https://paulgraham.com/earn.html">https://paulgraham.com/earn.html</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=48526360">https://news.ycombinator.co...*
+  📅 Sun, 14 Jun 2026 11:50:48 +0000
+
 - **[Don't trust large context windows](https://garrit.xyz/posts/2026-05-06-dont-trust-large-context-windows)**
   *<p>Article URL: <a href="https://garrit.xyz/posts/2026-05-06-dont-trust-large-context-windows">https://garrit.xyz/posts/2026-05-06-dont-trust-large-context-windows</a></p>
 <p>Comments URL: <a href="ht...*
   📅 Sun, 14 Jun 2026 06:07:09 +0000
-
-- **[Consciousness likely not unique to earthlings, paper says](https://news.ucr.edu/articles/2026/06/10/consciousness-likely-not-unique-earthlings-paper-says)**
-  *<p>Article URL: <a href="https://news.ucr.edu/articles/2026/06/10/consciousness-likely-not-unique-earthlings-paper-says">https://news.ucr.edu/articles/2026/06/10/consciousness-likely-not-unique-earthl...*
-  📅 Sun, 14 Jun 2026 05:27:45 +0000
 
 - **[Tribblix: The retro Illumos distribution](http://tribblix.org/)**
   *<p>Article URL: <a href="http://tribblix.org/">http://tribblix.org/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=48524434">https://news.ycombinator.com/item?id=48524434</a></...*
   📅 Sun, 14 Jun 2026 05:23:12 +0000
 
-- **[Phoenix LiveView 1.2 Released](https://phoenixframework.org/blog/phoenix-liveview-1-2-released)**
+- **[Phoenix LiveView 1.2](https://phoenixframework.org/blog/phoenix-liveview-1-2-released)**
   *<p>Article URL: <a href="https://phoenixframework.org/blog/phoenix-liveview-1-2-released">https://phoenixframework.org/blog/phoenix-liveview-1-2-released</a></p>
 <p>Comments URL: <a href="https://news...*
   📅 Sun, 14 Jun 2026 04:53:51 +0000
-
-- **[Pac-Man, but you're the ghost](https://garrit.xyz/posts/2026-06-13-pac-man-but-you-re-the-ghost)**
-  *<p>Article URL: <a href="https://garrit.xyz/posts/2026-06-13-pac-man-but-you-re-the-ghost">https://garrit.xyz/posts/2026-06-13-pac-man-but-you-re-the-ghost</a></p>
-<p>Comments URL: <a href="https://ne...*
-  📅 Sun, 14 Jun 2026 04:18:45 +0000
-
-- **[Software Architecture Guide (2019)](https://martinfowler.com/architecture/)**
-  *<p>Article URL: <a href="https://martinfowler.com/architecture/">https://martinfowler.com/architecture/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=48524084">https://news.yc...*
-  📅 Sun, 14 Jun 2026 04:07:37 +0000
 
 ### 📑 TechCrunch
 
@@ -103,19 +103,25 @@
 
 ### 📑 Dev.to
 
-- **[A program is a tree — building a Verbose compiler in Verbose](https://dev.to/arcker/a-program-is-a-tree-building-a-verbose-compiler-in-verbose-4927)**
-  *<p><strong>Verbose is a small experimental language I'm building.</strong> Its compiler proves properties about your code — like termination — and emits tiny, readable x86-64 machine code: no runtime,...*
-  📅 Sun, 14 Jun 2026 09:11:25 +0000
+- **[APK Install and App Manager in Rust + Tauri — Building ADB Tools](https://dev.to/hiyoyok/apk-install-and-app-manager-in-rust-tauri-building-adb-tools-3l4g)**
+  *<p>All tests run on an 8-year-old MacBook Air. All results from shipping 7 Mac apps as a solo developer. No sponsored opinion.</p>
 
-- **[How to give Claude (or Cursor) access to your Rails app's activity logs](https://dev.to/dezsirazvan/how-to-give-claude-or-cursor-access-to-your-rails-apps-activity-logs-38m3)**
-  *<p>Ask Claude this, today, with no setup:</p>
+<p>HiyokoKit includes APK installation and an Android app manager. B...*
+  📅 Sun, 14 Jun 2026 13:26:32 +0000
 
-<blockquote>
-<p>"What did user 4421 do in our app yesterday?"</p>
-</blockquote>
+- **[I built a tool that formats messy developer notes into clean GitHub Markdown](https://dev.to/taniy8/i-built-a-tool-that-formats-messy-developer-notes-into-clean-github-markdown-4kbc)**
+  *<h2>
+  
+  
+  The Problem
+</h2>
 
-<p>You will get an answer. It will be confident, specific, and completel...*
-  📅 Sun, 14 Jun 2026 09:08:20 +0000
+<p>Every time I write a PR description, I start with raw notes like this:<br />
+</p>
+
+<div class="highlight js-code-highlight">
+<pre class="highlight plaintext"><code>f...*
+  📅 Sun, 14 Jun 2026 13:22:27 +0000
 
 </details>
 
@@ -123,103 +129,103 @@
 
 ### 📈 Daily Trending
 
-- **[royalbhati/sqltoerdiagram](https://github.com/royalbhati/sqltoerdiagram)** ⭐ 74
+- **[royalbhati/sqltoerdiagram](https://github.com/royalbhati/sqltoerdiagram)** ⭐ 189
   ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
   ER diagram generator. Paste CREATE TABLE statements and get a clean, interactive ERD — runs 100% in your browser, nothing uploaded
 
-- **[fivetaku/fablize](https://github.com/fivetaku/fablize)** ⭐ 54
-  ![Shell](https://img.shields.io/badge/-Shell-lightgrey)
-  A Claude Code plugin that makes Opus behave like Fable — completion, evidence, and verification enforced as procedure. Ships only what a Fable-vs-Opus comparison proved transferable.
-
-- **[rotejin/tomari-guruguru](https://github.com/rotejin/tomari-guruguru)** ⭐ 48
+- **[rotejin/tomari-guruguru](https://github.com/rotejin/tomari-guruguru)** ⭐ 90
   ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
   25方向のマウス追従と口パクに対応したトマリ用ブラウザアバター
 
-- **[bi7x/USDT-BTC-Transaction-Flashing-Tool](https://github.com/bi7x/USDT-BTC-Transaction-Flashing-Tool)** ⭐ 37
-  ![None](https://img.shields.io/badge/-None-lightgrey)
-  None
+- **[fivetaku/fablize](https://github.com/fivetaku/fablize)** ⭐ 75
+  ![Shell](https://img.shields.io/badge/-Shell-lightgrey)
+  A Claude Code plugin that makes Opus behave like Fable — completion, evidence, and verification enforced as procedure. Ships only what a Fable-vs-Opus comparison proved transferable.
 
-- **[alicankiraz1/CodexQB](https://github.com/alicankiraz1/CodexQB)** ⭐ 37
+- **[alicankiraz1/CodexQB](https://github.com/alicankiraz1/CodexQB)** ⭐ 53
   ![Python](https://img.shields.io/badge/-Python-blue)
   CodexQB is a Codex plugin that packages a three-step project planning workflow as a reusable skill.
+
+- **[bi7x/USDT-BTC-Transaction-Flashing-Tool](https://github.com/bi7x/USDT-BTC-Transaction-Flashing-Tool)** ⭐ 42
+  ![None](https://img.shields.io/badge/-None-lightgrey)
+  None
 
 - **[pzr2508/RL_for_Game](https://github.com/pzr2508/RL_for_Game)** ⭐ 33
   ![Python](https://img.shields.io/badge/-Python-blue)
   None
 
-- **[BlazeUp-AI/FlyEye](https://github.com/BlazeUp-AI/FlyEye)** ⭐ 14
-  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
-  None
+- **[Poorna-Repos/opus-fable-mode](https://github.com/Poorna-Repos/opus-fable-mode)** ⭐ 33
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  Make Claude Opus 4.8 behave like the suspended Claude Fable 5 in Claude Code: a behavioral governor, a re-injection hook, and a leak-test harness measured from real logs.
 
-- **[Spikederthrust/Sound-Forge-Pro-Installer](https://github.com/Spikederthrust/Sound-Forge-Pro-Installer)** ⭐ 14
-  ![None](https://img.shields.io/badge/-None-lightgrey)
-  the professional audio editor and mastering studio with 64-bit engine, 32-bit float processing, VST plugin support, and industry-standard tools for music production.
+- **[001TMF/harness-forge](https://github.com/001TMF/harness-forge)** ⭐ 22
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  Turn Claude Code into its own Meta-Harness — a skill that evolves the scaffolding around a fixed model (memory, retrieval, context, prompts) via a native propose→score→Pareto loop. Native reimplementation of Meta-Harness (Lee et al. 2026).
 
 ### 📈 Weekly Trending
 
-- **[XiaomiMiMo/MiMo-Code](https://github.com/XiaomiMiMo/MiMo-Code)** ⭐ 8,098
+- **[XiaomiMiMo/MiMo-Code](https://github.com/XiaomiMiMo/MiMo-Code)** ⭐ 8,184
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   None
 
-- **[shadcn/improve](https://github.com/shadcn/improve)** ⭐ 3,754
-  ![None](https://img.shields.io/badge/-None-lightgrey)
-  Use your most capable model to audit your codebase and write plans for cheaper models to execute.
-
-- **[DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail)** ⭐ 2,232
+- **[DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail)** ⭐ 4,191
   ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
   Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.
 
-- **[MSNightmare/RoguePlanet](https://github.com/MSNightmare/RoguePlanet)** ⭐ 1,259
+- **[shadcn/improve](https://github.com/shadcn/improve)** ⭐ 3,949
+  ![None](https://img.shields.io/badge/-None-lightgrey)
+  Use your most capable model to audit your codebase and write plans for cheaper models to execute.
+
+- **[MSNightmare/RoguePlanet](https://github.com/MSNightmare/RoguePlanet)** ⭐ 1,263
   ![C++](https://img.shields.io/badge/-C++-pink)
   RoguePlanet Windows Defender Vulnerability
 
-- **[SkyBlue997/enableMacosAI](https://github.com/SkyBlue997/enableMacosAI)** ⭐ 1,089
+- **[SkyBlue997/enableMacosAI](https://github.com/SkyBlue997/enableMacosAI)** ⭐ 1,118
   ![Shell](https://img.shields.io/badge/-Shell-lightgrey)
   国行 Mac 一键开启完整 Apple 智能(端侧 + Private Cloud Compute 云端)· macOS 27 / Apple Silicon
 
-- **[apple/coreai-models](https://github.com/apple/coreai-models)** ⭐ 882
+- **[apple/coreai-models](https://github.com/apple/coreai-models)** ⭐ 886
   ![Swift](https://img.shields.io/badge/-Swift-lightgrey)
   Model export recipes, Python primitives, and Swift runtime utilities for on-device AI
 
-- **[plannotator/effective-html](https://github.com/plannotator/effective-html)** ⭐ 768
-  ![HTML](https://img.shields.io/badge/-HTML-lightgrey)
-  Agent skill for elegant and simple html plans, architecture diagrams, or whatever else you can think of.
-
-- **[omnigent-ai/omnigent](https://github.com/omnigent-ai/omnigent)** ⭐ 735
+- **[omnigent-ai/omnigent](https://github.com/omnigent-ai/omnigent)** ⭐ 880
   ![Python](https://img.shields.io/badge/-Python-blue)
   A meta-harness for all your AI agents.  Omnigent provides a common layer over Claude Code, Codex, Pi, and the agents you write yourself: swap or combine harnesses without rewriting, keep them in check with policies and sandboxing, and collaborate in real time on the same live session, from any device.
 
+- **[plannotator/effective-html](https://github.com/plannotator/effective-html)** ⭐ 782
+  ![HTML](https://img.shields.io/badge/-HTML-lightgrey)
+  Agent skill for elegant and simple html plans, architecture diagrams, or whatever else you can think of.
+
 ### 📈 Monthly Trending
 
-- **[pewdiepie-archdaemon/odysseus](https://github.com/pewdiepie-archdaemon/odysseus)** ⭐ 70,391
+- **[pewdiepie-archdaemon/odysseus](https://github.com/pewdiepie-archdaemon/odysseus)** ⭐ 70,577
   ![Python](https://img.shields.io/badge/-Python-blue)
   Self-hosted AI workspace. 
 
-- **[unicity-astrid/sdk-js](https://github.com/unicity-astrid/sdk-js)** ⭐ 8,256
+- **[unicity-astrid/sdk-js](https://github.com/unicity-astrid/sdk-js)** ⭐ 8,257
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   JavaScript / TypeScript SDK for building Astrid OS capsules. Companion to unicity-astrid/sdk-rust.
 
-- **[XiaomiMiMo/MiMo-Code](https://github.com/XiaomiMiMo/MiMo-Code)** ⭐ 8,098
+- **[XiaomiMiMo/MiMo-Code](https://github.com/XiaomiMiMo/MiMo-Code)** ⭐ 8,184
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   None
 
-- **[alibaba/open-code-review](https://github.com/alibaba/open-code-review)** ⭐ 6,734
+- **[alibaba/open-code-review](https://github.com/alibaba/open-code-review)** ⭐ 6,826
   ![Go](https://img.shields.io/badge/-Go-cyan)
   Open-source & free — Battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in fine-tuned ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.
 
-- **[anthropics/defending-code-reference-harness](https://github.com/anthropics/defending-code-reference-harness)** ⭐ 5,825
+- **[anthropics/defending-code-reference-harness](https://github.com/anthropics/defending-code-reference-harness)** ⭐ 5,835
   ![Python](https://img.shields.io/badge/-Python-blue)
   Skills for threat modeling, scanning, triage, patching, plus an autonomous scanning harness you can /customize
 
-- **[AprilNEA/OpenLogi](https://github.com/AprilNEA/OpenLogi)** ⭐ 4,817
+- **[AprilNEA/OpenLogi](https://github.com/AprilNEA/OpenLogi)** ⭐ 4,824
   ![Rust](https://img.shields.io/badge/-Rust-brown)
   ⚡️A native, local-first alternative to Logitech Options+, written in Rust 🦀 — remap buttons, DPI, and SmartShift over HID++. No account, no telemetry.
 
-- **[perplexityai/bumblebee](https://github.com/perplexityai/bumblebee)** ⭐ 4,434
+- **[perplexityai/bumblebee](https://github.com/perplexityai/bumblebee)** ⭐ 4,441
   ![Go](https://img.shields.io/badge/-Go-cyan)
   Read-only developer endpoint scanner for on-disk package, extension, and developer-tool metadata, built to check exposure to known software supply-chain compromises.
 
-- **[helloianneo/ian-xiaohei-illustrations](https://github.com/helloianneo/ian-xiaohei-illustrations)** ⭐ 4,339
+- **[helloianneo/ian-xiaohei-illustrations](https://github.com/helloianneo/ian-xiaohei-illustrations)** ⭐ 4,409
   ![None](https://img.shields.io/badge/-None-lightgrey)
   中文小黑怪诞正文配图生成 Skill | 16:9 白底手绘 | 少量红橙蓝批注 | Codex Skill
 
@@ -496,50 +502,50 @@ architectures, it has become apparent...
 
 | Skill | Status |
 |-------|--------|
-| Java | 🟡 Learning |
-| Python | 🟢 Proficient |
+| Java | 🔴 Beginner |
+| Python | 🔴 Beginner |
 | JavaScript | ⚪ Planned |
-| TypeScript | ⚪ Planned |
-| Go | 🟡 Learning |
+| TypeScript | 🔴 Beginner |
+| Go | 🟢 Proficient |
 
 ### Frameworks
 
 | Skill | Status |
 |-------|--------|
-| React | 🟢 Proficient |
-| Spring Boot | 🟢 Proficient |
-| Django | 🟢 Proficient |
-| Node.js | 🔴 Beginner |
+| React | ⚪ Planned |
+| Spring Boot | 🔴 Beginner |
+| Django | 🟡 Learning |
+| Node.js | 🟡 Learning |
 | Next.js | 🟢 Proficient |
 
 ### Cybersecurity
 
 | Skill | Status |
 |-------|--------|
-| Penetration Testing | ⚪ Planned |
-| Web Security | 🔴 Beginner |
+| Penetration Testing | 🔴 Beginner |
+| Web Security | ⚪ Planned |
 | Network Security | 🔴 Beginner |
-| OWASP | 🟡 Learning |
+| OWASP | 🟢 Proficient |
 
 ### Ai Ml
 
 | Skill | Status |
 |-------|--------|
-| Machine Learning | 🟢 Proficient |
+| Machine Learning | 🟡 Learning |
 | Deep Learning | ⚪ Planned |
-| NLP | 🔴 Beginner |
-| Computer Vision | 🟢 Proficient |
-| TensorFlow | 🟡 Learning |
-| PyTorch | 🟢 Proficient |
+| NLP | ⚪ Planned |
+| Computer Vision | 🔴 Beginner |
+| TensorFlow | 🔴 Beginner |
+| PyTorch | 🔴 Beginner |
 
 ### Devops
 
 | Skill | Status |
 |-------|--------|
-| Docker | 🟡 Learning |
-| Kubernetes | 🟡 Learning |
-| CI/CD | 🟢 Proficient |
-| AWS | 🟡 Learning |
+| Docker | 🟢 Proficient |
+| Kubernetes | 🔴 Beginner |
+| CI/CD | 🔴 Beginner |
+| AWS | 🟢 Proficient |
 | Azure | 🟢 Proficient |
 
 ### Other
@@ -548,7 +554,7 @@ architectures, it has become apparent...
 |-------|--------|
 | Blockchain | 🔴 Beginner |
 | Web3 | 🟢 Proficient |
-| Cloud Computing | ⚪ Planned |
+| Cloud Computing | 🟢 Proficient |
 
 </details>
 
