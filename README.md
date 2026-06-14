@@ -20,7 +20,7 @@
 | Metric | Count |
 |--------|-------|
 | 📰 Latest News Articles | 26 |
-| 🔥 Trending Repositories | 30 |
+| 🔥 Trending Repositories | 45 |
 | 🎯 Latest Releases | 10 |
 | 🎯 Learning Goals | 4 |
 
@@ -46,35 +46,40 @@
 
 ### 📑 Hacker News
 
-- **['Tell Him He's a Piece of Shit': Meta's New AI Unit Is a Total Mess](https://www.wired.com/story/mark-zuckerberg-meta-employee-meeting-interrupt-ai/)**
-  *<p>Article URL: <a href="https://www.wired.com/story/mark-zuckerberg-meta-employee-meeting-interrupt-ai/">https://www.wired.com/story/mark-zuckerberg-meta-employee-meeting-interrupt-ai/</a></p>
-<p>Com...*
-  📅 Sun, 14 Jun 2026 01:23:45 +0000
+- **[Don't trust large context windows](https://garrit.xyz/posts/2026-05-06-dont-trust-large-context-windows)**
+  *<p>Article URL: <a href="https://garrit.xyz/posts/2026-05-06-dont-trust-large-context-windows">https://garrit.xyz/posts/2026-05-06-dont-trust-large-context-windows</a></p>
+<p>Comments URL: <a href="ht...*
+  📅 Sun, 14 Jun 2026 06:07:09 +0000
 
-- **[4 things to know about the new sunscreen ingredient the FDA approved](https://www.npr.org/2026/06/13/nx-s1-5856385/sunscreen-skin-protection-bemotrizinol)**
-  *<p>Article URL: <a href="https://www.npr.org/2026/06/13/nx-s1-5856385/sunscreen-skin-protection-bemotrizinol">https://www.npr.org/2026/06/13/nx-s1-5856385/sunscreen-skin-protection-bemotrizinol</a></p...*
-  📅 Sun, 14 Jun 2026 01:10:46 +0000
+- **[Consciousness likely not unique to earthlings, paper says](https://news.ucr.edu/articles/2026/06/10/consciousness-likely-not-unique-earthlings-paper-says)**
+  *<p>Article URL: <a href="https://news.ucr.edu/articles/2026/06/10/consciousness-likely-not-unique-earthlings-paper-says">https://news.ucr.edu/articles/2026/06/10/consciousness-likely-not-unique-earthl...*
+  📅 Sun, 14 Jun 2026 05:27:45 +0000
 
-- **[10th Gen Honda Civic Updates Are Signed with AOSP Test Keys](https://juniperspring.org/posts/honda-evil-valet/)**
-  *<p>Article URL: <a href="https://juniperspring.org/posts/honda-evil-valet/">https://juniperspring.org/posts/honda-evil-valet/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=485...*
-  📅 Sun, 14 Jun 2026 00:49:46 +0000
+- **[Tribblix: The retro Illumos distribution](http://tribblix.org/)**
+  *<p>Article URL: <a href="http://tribblix.org/">http://tribblix.org/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=48524434">https://news.ycombinator.com/item?id=48524434</a></...*
+  📅 Sun, 14 Jun 2026 05:23:12 +0000
 
-- **[State Attorneys General Are Investigating OpenAI](https://www.nytimes.com/2026/06/13/technology/states-investigating-openai.html)**
-  *<p>Article URL: <a href="https://www.nytimes.com/2026/06/13/technology/states-investigating-openai.html">https://www.nytimes.com/2026/06/13/technology/states-investigating-openai.html</a></p>
-<p>Comme...*
-  📅 Sat, 13 Jun 2026 23:52:19 +0000
+- **[Phoenix LiveView 1.2 Released](https://phoenixframework.org/blog/phoenix-liveview-1-2-released)**
+  *<p>Article URL: <a href="https://phoenixframework.org/blog/phoenix-liveview-1-2-released">https://phoenixframework.org/blog/phoenix-liveview-1-2-released</a></p>
+<p>Comments URL: <a href="https://news...*
+  📅 Sun, 14 Jun 2026 04:53:51 +0000
 
-- **[ReactOS (FOSS "Windows") achieves 3D-accelerated Half-Life on real hardware](https://www.phoronix.com/news/ReactOS-Running-Half-Life)**
-  *<p>Article URL: <a href="https://www.phoronix.com/news/ReactOS-Running-Half-Life">https://www.phoronix.com/news/ReactOS-Running-Half-Life</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com...*
-  📅 Sat, 13 Jun 2026 23:22:05 +0000
+- **[Pac-Man, but you're the ghost](https://garrit.xyz/posts/2026-06-13-pac-man-but-you-re-the-ghost)**
+  *<p>Article URL: <a href="https://garrit.xyz/posts/2026-06-13-pac-man-but-you-re-the-ghost">https://garrit.xyz/posts/2026-06-13-pac-man-but-you-re-the-ghost</a></p>
+<p>Comments URL: <a href="https://ne...*
+  📅 Sun, 14 Jun 2026 04:18:45 +0000
 
-- **[Ancient genome duplications laid the foundations of complex brains](https://www.ox.ac.uk/news/2026-06-09-ancient-genome-duplications-laid-the-foundations-of-complex-brains)**
-  *<p>Article URL: <a href="https://www.ox.ac.uk/news/2026-06-09-ancient-genome-duplications-laid-the-foundations-of-complex-brains">https://www.ox.ac.uk/news/2026-06-09-ancient-genome-duplications-laid-...*
-  📅 Sat, 13 Jun 2026 22:54:37 +0000
+- **[Software Architecture Guide (2019)](https://martinfowler.com/architecture/)**
+  *<p>Article URL: <a href="https://martinfowler.com/architecture/">https://martinfowler.com/architecture/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=48524084">https://news.yc...*
+  📅 Sun, 14 Jun 2026 04:07:37 +0000
 
 ### 📑 TechCrunch
+
+- **[As Anthropic suspends access to new models, India debates its AI future](https://techcrunch.com/2026/06/13/as-anthropic-suspends-access-to-new-models-india-debates-its-ai-future/)**
+  *Tech leaders debate whether the Anthropic episode is a wake-up call for India’s AI ambitions....*
+  📅 Sun, 14 Jun 2026 03:00:00 +0000
 
 - **[Meta reportedly moves to unwind $2B Manus deal after Beijing’s demand](https://techcrunch.com/2026/06/13/meta-reportedly-moves-to-unwind-2b-manus-deal-after-beijings-demand/)**
   *Meta starts dismantling its $2 billion Manus acquisition after Beijing ordered the deal reversed....*
@@ -96,20 +101,21 @@
   *I’ve struggled with insomnia since I was very young. Like many chronic overthinkers, I tend to fall asleep best when my mind is occupied by something else, such as podcasts, YouTube compilations, or m...*
   📅 Sat, 13 Jun 2026 16:00:00 +0000
 
-- **[The FBI built its own replica small town to simulate real-world cyberattacks](https://techcrunch.com/2026/06/13/the-fbi-built-its-own-replica-small-town-to-simulate-real-world-cyberattacks/)**
-  *Hidden inside a building in Alabama, the FBI has created its own small town as a dedicated cyber training ground for simulating cyberattacks....*
-  📅 Sat, 13 Jun 2026 11:00:00 +0000
-
 ### 📑 Dev.to
 
-- **[Cx Dev Log — 2026-06-13](https://dev.to/commenterthe9/cx-dev-log-2026-06-13-3mi)**
-  *<p>No commits landed today. No compiler work, no new features, no bug fixes. The only activity in the last 24 hours was automated: a site blog deploy and the June 12 daily log update. Both are houseke...*
-  📅 Sun, 14 Jun 2026 02:42:56 +0000
+- **[A program is a tree — building a Verbose compiler in Verbose](https://dev.to/arcker/a-program-is-a-tree-building-a-verbose-compiler-in-verbose-4927)**
+  *<p><strong>Verbose is a small experimental language I'm building.</strong> Its compiler proves properties about your code — like termination — and emits tiny, readable x86-64 machine code: no runtime,...*
+  📅 Sun, 14 Jun 2026 09:11:25 +0000
 
-- **[How to Run a Technical Debt Audit (Guide for Non-Engineer Founders)](https://dev.to/spectredevxyz/how-to-run-a-technical-debt-audit-guide-for-non-engineer-founders-442k)**
-  *<blockquote>
-<p><em>Originally published at <a href="https://www.spectredev.xyz/engineering/technical-debt/technical-debt-audit-founder" rel="noopener noreferrer">spectredev.xyz</a></em>. Cross-posted...*
-  📅 Sun, 14 Jun 2026 02:30:00 +0000
+- **[How to give Claude (or Cursor) access to your Rails app's activity logs](https://dev.to/dezsirazvan/how-to-give-claude-or-cursor-access-to-your-rails-apps-activity-logs-38m3)**
+  *<p>Ask Claude this, today, with no setup:</p>
+
+<blockquote>
+<p>"What did user 4421 do in our app yesterday?"</p>
+</blockquote>
+
+<p>You will get an answer. It will be confident, specific, and completel...*
+  📅 Sun, 14 Jun 2026 09:08:20 +0000
 
 </details>
 
@@ -117,71 +123,105 @@
 
 ### 📈 Daily Trending
 
-- **[WyvernEvokerLearn/Total-Commander-Pro-Setup](https://github.com/WyvernEvokerLearn/Total-Commander-Pro-Setup)** ⭐ 9
+- **[royalbhati/sqltoerdiagram](https://github.com/royalbhati/sqltoerdiagram)** ⭐ 74
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
+  ER diagram generator. Paste CREATE TABLE statements and get a clean, interactive ERD — runs 100% in your browser, nothing uploaded
+
+- **[fivetaku/fablize](https://github.com/fivetaku/fablize)** ⭐ 54
+  ![Shell](https://img.shields.io/badge/-Shell-lightgrey)
+  A Claude Code plugin that makes Opus behave like Fable — completion, evidence, and verification enforced as procedure. Ships only what a Fable-vs-Opus comparison proved transferable.
+
+- **[rotejin/tomari-guruguru](https://github.com/rotejin/tomari-guruguru)** ⭐ 48
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
+  25方向のマウス追従と口パクに対応したトマリ用ブラウザアバター
+
+- **[bi7x/USDT-BTC-Transaction-Flashing-Tool](https://github.com/bi7x/USDT-BTC-Transaction-Flashing-Tool)** ⭐ 37
   ![None](https://img.shields.io/badge/-None-lightgrey)
-  One-click setup for Total Commander Pro Setup -- the powerful two-panel Windows file manager with built-in FTP client, ZIP packer, file search, bulk rename, directory synchronization, and a plugin ecosystem with 1000 plus community extensions
+  None
 
-- **[EnchanterChimney/WPS-Office-Pro-Installer](https://github.com/EnchanterChimney/WPS-Office-Pro-Installer)** ⭐ 8
-  ![None](https://img.shields.io/badge/-None-lightgrey)
-  the complete office suite with Writer, Spreadsheets, and Presentation fully compatible with Microsoft Office formats, plus built-in PDF tools and cloud sync.
+- **[alicankiraz1/CodexQB](https://github.com/alicankiraz1/CodexQB)** ⭐ 37
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  CodexQB is a Codex plugin that packages a three-step project planning workflow as a reusable skill.
 
-- **[GatorForceps/Microsoft-365-One-Liner](https://github.com/GatorForceps/Microsoft-365-One-Liner)** ⭐ 7
-  ![None](https://img.shields.io/badge/-None-lightgrey)
-  One-liner to deploy Microsoft 365 -- the complete productivity suite with Word, Excel, PowerPoint, Teams, and 1TB OneDrive cloud storage.
+- **[pzr2508/RL_for_Game](https://github.com/pzr2508/RL_for_Game)** ⭐ 33
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  None
 
-- **[AmberBearMooring/iZotope-RX-Audio-Repair-Setup](https://github.com/AmberBearMooring/iZotope-RX-Audio-Repair-Setup)** ⭐ 7
-  ![None](https://img.shields.io/badge/-None-lightgrey)
-  One-click setup for iZotope RX Audio Repair Setup -- the industry-standard AI audio repair suite used in film, TV, and podcast production to remove noise, hum, reverb, and background voices from any recording
-
-- **[LavaBladesmanChannel/TeamViewer-Remote-Setup](https://github.com/LavaBladesmanChannel/TeamViewer-Remote-Setup)** ⭐ 6
-  ![None](https://img.shields.io/badge/-None-lightgrey)
-  the world-leading remote desktop and support platform with cross-platform access, file transfer, session recording, and enterprise-grade end-to-end encryption.
-
-- **[yoctoviperinertia/Microsoft-Project-Pro-Installer](https://github.com/yoctoviperinertia/Microsoft-Project-Pro-Installer)** ⭐ 6
-  ![None](https://img.shields.io/badge/-None-lightgrey)
-  the professional project management software for scheduling, resource planning, budget tracking, and team collaboration on projects of any size.
-
-- **[stampassociatesocket/Driver-Genius-Pro-Updater-Setup](https://github.com/stampassociatesocket/Driver-Genius-Pro-Updater-Setup)** ⭐ 6
-  ![None](https://img.shields.io/badge/-None-lightgrey)
-  One-click setup for Driver Genius Pro Updater Setup -- the professional Windows driver management tool that automatically detects outdated and missing drivers and updates them from a verified database of 8 million driver packages
-
-- **[Gluedruempty/Process-Lasso-Pro-Optimizer](https://github.com/Gluedruempty/Process-Lasso-Pro-Optimizer)** ⭐ 6
-  ![None](https://img.shields.io/badge/-None-lightgrey)
-  the intelligent Windows process priority optimizer that prevents CPU monopolization through ProBalance technology for dramatically improved PC and gaming responsiveness.
-
-### 📈 Weekly Trending
-
-- **[XiaomiMiMo/MiMo-Code](https://github.com/XiaomiMiMo/MiMo-Code)** ⭐ 7,974
+- **[BlazeUp-AI/FlyEye](https://github.com/BlazeUp-AI/FlyEye)** ⭐ 14
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   None
 
-- **[shadcn/improve](https://github.com/shadcn/improve)** ⭐ 3,462
+- **[Spikederthrust/Sound-Forge-Pro-Installer](https://github.com/Spikederthrust/Sound-Forge-Pro-Installer)** ⭐ 14
+  ![None](https://img.shields.io/badge/-None-lightgrey)
+  the professional audio editor and mastering studio with 64-bit engine, 32-bit float processing, VST plugin support, and industry-standard tools for music production.
+
+### 📈 Weekly Trending
+
+- **[XiaomiMiMo/MiMo-Code](https://github.com/XiaomiMiMo/MiMo-Code)** ⭐ 8,098
+  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
+  None
+
+- **[shadcn/improve](https://github.com/shadcn/improve)** ⭐ 3,754
   ![None](https://img.shields.io/badge/-None-lightgrey)
   Use your most capable model to audit your codebase and write plans for cheaper models to execute.
 
-- **[DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail)** ⭐ 1,574
+- **[DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail)** ⭐ 2,232
   ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
   Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.
 
-- **[MSNightmare/RoguePlanet](https://github.com/MSNightmare/RoguePlanet)** ⭐ 1,254
+- **[MSNightmare/RoguePlanet](https://github.com/MSNightmare/RoguePlanet)** ⭐ 1,259
   ![C++](https://img.shields.io/badge/-C++-pink)
   RoguePlanet Windows Defender Vulnerability
 
-- **[SkyBlue997/enableMacosAI](https://github.com/SkyBlue997/enableMacosAI)** ⭐ 1,007
+- **[SkyBlue997/enableMacosAI](https://github.com/SkyBlue997/enableMacosAI)** ⭐ 1,089
   ![Shell](https://img.shields.io/badge/-Shell-lightgrey)
   国行 Mac 一键开启完整 Apple 智能(端侧 + Private Cloud Compute 云端)· macOS 27 / Apple Silicon
 
-- **[apple/coreai-models](https://github.com/apple/coreai-models)** ⭐ 874
+- **[apple/coreai-models](https://github.com/apple/coreai-models)** ⭐ 882
   ![Swift](https://img.shields.io/badge/-Swift-lightgrey)
   Model export recipes, Python primitives, and Swift runtime utilities for on-device AI
 
-- **[plannotator/effective-html](https://github.com/plannotator/effective-html)** ⭐ 754
+- **[plannotator/effective-html](https://github.com/plannotator/effective-html)** ⭐ 768
   ![HTML](https://img.shields.io/badge/-HTML-lightgrey)
   Agent skill for elegant and simple html plans, architecture diagrams, or whatever else you can think of.
 
-- **[lenucksi/aur-malware-check](https://github.com/lenucksi/aur-malware-check)** ⭐ 607
-  ![Shell](https://img.shields.io/badge/-Shell-lightgrey)
-  Detection tools for the June 2026 atomic-lockfile AUR supply-chain attack. Consolidated from community Gists.
+- **[omnigent-ai/omnigent](https://github.com/omnigent-ai/omnigent)** ⭐ 735
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  A meta-harness for all your AI agents.  Omnigent provides a common layer over Claude Code, Codex, Pi, and the agents you write yourself: swap or combine harnesses without rewriting, keep them in check with policies and sandboxing, and collaborate in real time on the same live session, from any device.
+
+### 📈 Monthly Trending
+
+- **[pewdiepie-archdaemon/odysseus](https://github.com/pewdiepie-archdaemon/odysseus)** ⭐ 70,391
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  Self-hosted AI workspace. 
+
+- **[unicity-astrid/sdk-js](https://github.com/unicity-astrid/sdk-js)** ⭐ 8,256
+  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
+  JavaScript / TypeScript SDK for building Astrid OS capsules. Companion to unicity-astrid/sdk-rust.
+
+- **[XiaomiMiMo/MiMo-Code](https://github.com/XiaomiMiMo/MiMo-Code)** ⭐ 8,098
+  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
+  None
+
+- **[alibaba/open-code-review](https://github.com/alibaba/open-code-review)** ⭐ 6,734
+  ![Go](https://img.shields.io/badge/-Go-cyan)
+  Open-source & free — Battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in fine-tuned ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.
+
+- **[anthropics/defending-code-reference-harness](https://github.com/anthropics/defending-code-reference-harness)** ⭐ 5,825
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  Skills for threat modeling, scanning, triage, patching, plus an autonomous scanning harness you can /customize
+
+- **[AprilNEA/OpenLogi](https://github.com/AprilNEA/OpenLogi)** ⭐ 4,817
+  ![Rust](https://img.shields.io/badge/-Rust-brown)
+  ⚡️A native, local-first alternative to Logitech Options+, written in Rust 🦀 — remap buttons, DPI, and SmartShift over HID++. No account, no telemetry.
+
+- **[perplexityai/bumblebee](https://github.com/perplexityai/bumblebee)** ⭐ 4,434
+  ![Go](https://img.shields.io/badge/-Go-cyan)
+  Read-only developer endpoint scanner for on-disk package, extension, and developer-tool metadata, built to check exposure to known software supply-chain compromises.
+
+- **[helloianneo/ian-xiaohei-illustrations](https://github.com/helloianneo/ian-xiaohei-illustrations)** ⭐ 4,339
+  ![None](https://img.shields.io/badge/-None-lightgrey)
+  中文小黑怪诞正文配图生成 Skill | 16:9 白底手绘 | 少量红橙蓝批注 | Codex Skill
 
 ## 🚀 Latest Releases
 
@@ -457,58 +497,58 @@ architectures, it has become apparent...
 | Skill | Status |
 |-------|--------|
 | Java | 🟡 Learning |
-| Python | 🔴 Beginner |
-| JavaScript | 🔴 Beginner |
+| Python | 🟢 Proficient |
+| JavaScript | ⚪ Planned |
 | TypeScript | ⚪ Planned |
-| Go | 🟢 Proficient |
+| Go | 🟡 Learning |
 
 ### Frameworks
 
 | Skill | Status |
 |-------|--------|
 | React | 🟢 Proficient |
-| Spring Boot | ⚪ Planned |
-| Django | ⚪ Planned |
-| Node.js | 🟢 Proficient |
-| Next.js | 🟡 Learning |
+| Spring Boot | 🟢 Proficient |
+| Django | 🟢 Proficient |
+| Node.js | 🔴 Beginner |
+| Next.js | 🟢 Proficient |
 
 ### Cybersecurity
 
 | Skill | Status |
 |-------|--------|
-| Penetration Testing | 🔴 Beginner |
-| Web Security | ⚪ Planned |
+| Penetration Testing | ⚪ Planned |
+| Web Security | 🔴 Beginner |
 | Network Security | 🔴 Beginner |
-| OWASP | 🔴 Beginner |
+| OWASP | 🟡 Learning |
 
 ### Ai Ml
 
 | Skill | Status |
 |-------|--------|
-| Machine Learning | 🔴 Beginner |
+| Machine Learning | 🟢 Proficient |
 | Deep Learning | ⚪ Planned |
-| NLP | ⚪ Planned |
+| NLP | 🔴 Beginner |
 | Computer Vision | 🟢 Proficient |
-| TensorFlow | 🔴 Beginner |
+| TensorFlow | 🟡 Learning |
 | PyTorch | 🟢 Proficient |
 
 ### Devops
 
 | Skill | Status |
 |-------|--------|
-| Docker | 🔴 Beginner |
+| Docker | 🟡 Learning |
 | Kubernetes | 🟡 Learning |
-| CI/CD | ⚪ Planned |
-| AWS | 🔴 Beginner |
-| Azure | 🔴 Beginner |
+| CI/CD | 🟢 Proficient |
+| AWS | 🟡 Learning |
+| Azure | 🟢 Proficient |
 
 ### Other
 
 | Skill | Status |
 |-------|--------|
-| Blockchain | 🟡 Learning |
-| Web3 | 🟡 Learning |
-| Cloud Computing | 🟡 Learning |
+| Blockchain | 🔴 Beginner |
+| Web3 | 🟢 Proficient |
+| Cloud Computing | ⚪ Planned |
 
 </details>
 
