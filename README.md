@@ -46,73 +46,80 @@
 
 ### 📑 Hacker News
 
-- **[Trinket.io shutting down, so we saved it and hosted it a trinket.strivemath.org](https://trinket.strivemath.org/)**
-  *<p>Article URL: <a href="https://trinket.strivemath.org/">https://trinket.strivemath.org/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=48552723">https://news.ycombinator.com/...*
-  📅 Tue, 16 Jun 2026 09:30:58 +0000
+- **[UK to require ID or face scan before you can make social media accounts](https://www.bleepingcomputer.com/news/security/uk-to-require-id-or-face-scan-before-you-can-make-social-media-accounts/)**
+  *<p>Article URL: <a href="https://www.bleepingcomputer.com/news/security/uk-to-require-id-or-face-scan-before-you-can-make-social-media-accounts/">https://www.bleepingcomputer.com/news/security/uk-to-r...*
+  📅 Tue, 16 Jun 2026 15:39:36 +0000
 
-- **[Feds freaked over Fable 5 after simple 'fix this code' prompt, not jailbreak](https://www.theregister.com/security/2026/06/15/feds-freaked-over-fable-5-after-simple-fix-this-code-prompt-not-jailbreak-says-researcher/5255827)**
-  *<p>Article URL: <a href="https://www.theregister.com/security/2026/06/15/feds-freaked-over-fable-5-after-simple-fix-this-code-prompt-not-jailbreak-says-researcher/5255827">https://www.theregister.com/...*
-  📅 Tue, 16 Jun 2026 09:26:09 +0000
+- **[CJEU: Social networks are the 'publishers' of algorithmically-altered feeds](https://bsky.app/profile/stevepeers.bsky.social/post/3mofdspytds2l)**
+  *<p>Article URL: <a href="https://bsky.app/profile/stevepeers.bsky.social/post/3mofdspytds2l">https://bsky.app/profile/stevepeers.bsky.social/post/3mofdspytds2l</a></p>
+<p>Comments URL: <a href="https:...*
+  📅 Tue, 16 Jun 2026 15:30:26 +0000
 
-- **[Commodore Releases Flip Phone](https://commodore.net/why-a-flip-phone/)**
-  *<p>Article URL: <a href="https://commodore.net/why-a-flip-phone/">https://commodore.net/why-a-flip-phone/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=48552614">https://news....*
-  📅 Tue, 16 Jun 2026 09:15:31 +0000
+- **[Fable ban was never about a jailbreak](https://techcrunch.com/2026/06/15/the-us-governments-anthropic-models-ban-was-never-about-an-ai-jailbreak/)**
+  *<p>Article URL: <a href="https://techcrunch.com/2026/06/15/the-us-governments-anthropic-models-ban-was-never-about-an-ai-jailbreak/">https://techcrunch.com/2026/06/15/the-us-governments-anthropic-mode...*
+  📅 Tue, 16 Jun 2026 15:27:56 +0000
 
-- **[Understanding the rationale behind a rule when trying to circumvent it](https://devblogs.microsoft.com/oldnewthing/20260611-00/?p=112415)**
-  *<p>Article URL: <a href="https://devblogs.microsoft.com/oldnewthing/20260611-00/?p=112415">https://devblogs.microsoft.com/oldnewthing/20260611-00/?p=112415</a></p>
-<p>Comments URL: <a href="https://ne...*
-  📅 Tue, 16 Jun 2026 07:35:27 +0000
+- **[Google Chrome's Next Update Will Mark the End of Popular Ad Blockers](https://tech.slashdot.org/story/26/06/15/205219/google-chromes-next-update-will-mark-the-end-of-popular-ad-blockers)**
+  *<p>Article URL: <a href="https://tech.slashdot.org/story/26/06/15/205219/google-chromes-next-update-will-mark-the-end-of-popular-ad-blockers">https://tech.slashdot.org/story/26/06/15/205219/google-chr...*
+  📅 Tue, 16 Jun 2026 15:05:09 +0000
 
-- **[John Carmack on Fabrice Bellard](https://twitter.com/ID_AA_Carmack/status/2064095424420487226)**
-  *<p><a href="https://xcancel.com/ID_AA_Carmack/status/2064095424420487226" rel="nofollow">https://xcancel.com/ID_AA_Carmack/status/2064095424420487226</a></p>
-<hr />
-<p>Comments URL: <a href="https://n...*
-  📅 Tue, 16 Jun 2026 04:58:15 +0000
+- **[Subquadratic – Introducing SubQ 1.1 Small](https://subq.ai/subq-1-1-small-technical-report)**
+  *<p>Article URL: <a href="https://subq.ai/subq-1-1-small-technical-report">https://subq.ai/subq-1-1-small-technical-report</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=4855616...*
+  📅 Tue, 16 Jun 2026 14:50:10 +0000
 
-- **[The time the x86 emulator team found code so bad they fixed it during emulation](https://devblogs.microsoft.com/oldnewthing/20260615-00/?p=112419)**
-  *<p>Article URL: <a href="https://devblogs.microsoft.com/oldnewthing/20260615-00/?p=112419">https://devblogs.microsoft.com/oldnewthing/20260615-00/?p=112419</a></p>
-<p>Comments URL: <a href="https://ne...*
-  📅 Tue, 16 Jun 2026 04:46:36 +0000
+- **[Running local models is good now](https://vickiboykis.com/2026/06/15/running-local-models-is-good-now/)**
+  *<p>Article URL: <a href="https://vickiboykis.com/2026/06/15/running-local-models-is-good-now/">https://vickiboykis.com/2026/06/15/running-local-models-is-good-now/</a></p>
+<p>Comments URL: <a href="ht...*
+  📅 Tue, 16 Jun 2026 14:36:57 +0000
 
 ### 📑 TechCrunch
 
-- **[ChatGPT’s market share slips below 50% for first time](https://techcrunch.com/2026/06/16/chatgpts-market-share-slips-below-50-for-first-time/)**
-  *The chatbot still remains the most popular AI assistant worldwide with over 1.1 billion monthly users, followed by Gemini with 662 million and Claude with 245 million....*
-  📅 Tue, 16 Jun 2026 10:30:00 +0000
-
-- **[Malaysia’s AI agent-powered messaging app Respond.io raises $62.5M, eyes acquisitions](https://techcrunch.com/2026/06/15/malaysias-respond-io-raises-62-5m-eyes-acquisitions-in-north-america-and-europe/)**
-  *Respond.io, one of Malaysia startups to watch, uses AI agents to handle high volumes of customer inquiries and charges per convo, not per seat....*
-  📅 Tue, 16 Jun 2026 06:59:00 +0000
-
-- **[Sundar Pichai faces boos, walkout at Stanford graduation ceremony over Google’s Israel, ICE ties](https://techcrunch.com/2026/06/15/sundar-pichai-faces-boos-walkout-at-stanford-graduation-ceremony-over-googles-israel-ice-ties/)**
-  *AI is once again at the heart of a college graduation protest — this time for the technology's use in Google's defense contracts....*
-  📅 Mon, 15 Jun 2026 23:51:44 +0000
-
-- **[The US government’s Anthropic models ban was never about an AI jailbreak](https://techcrunch.com/2026/06/15/the-us-governments-anthropic-models-ban-was-never-about-an-ai-jailbreak/)**
-  *The Trump administration's decision that forced Anthropic to pull its latest cybersecurity models could be reactionary, retaliatory, or both, but the message is clear: The AI industry isn't immune fro...*
-  📅 Mon, 15 Jun 2026 21:50:21 +0000
-
-- **[Meta’s new ‘AI Mode’ on Facebook pulls from public info across its platforms](https://techcrunch.com/2026/06/15/metas-new-ai-mode-on-facebook-pulls-from-public-info-across-its-platforms/)**
-  *Meta announced Monday that it's rolling out a wave of new AI features on Facebook, the latest sign of the company's effort to catch up in the AI race and keep users more engaged on the platform....*
-  📅 Mon, 15 Jun 2026 18:30:58 +0000
-
-- **[SpaceX is public: Everything you need to know post-IPO](https://techcrunch.com/2026/06/15/spacex-is-public-everything-you-need-to-know-post-ipo/)**
+- **[SpaceX is public: Everything you need to know post-IPO](https://techcrunch.com/2026/06/16/spacex-is-public-everything-you-need-to-know-post-ipo/)**
   *TechCrunch has followed SpaceX's start, struggles, and successes from the early days. And we're here for what happens next too. This package of SpaceX IPO coverage includes who stands to win (and mayb...*
-  📅 Mon, 15 Jun 2026 18:30:34 +0000
+  📅 Tue, 16 Jun 2026 15:53:12 +0000
+
+- **[India orders temporary ban on Telegram over exam fraud concerns](https://techcrunch.com/2026/06/16/india-temporarily-blocks-access-to-telegram-over-exam-fraud-concerns/)**
+  *The restrictions include a nationwide ban on Telegram until June 22 and a requirement to disable the app's message editing feature....*
+  📅 Tue, 16 Jun 2026 15:49:00 +0000
+
+- **[Payments startup Flutterwave hits $3.2B valuation, backed by Ripple](https://techcrunch.com/2026/06/16/payments-startup-flutterwave-hits-3-2b-valuation-backed-by-ripple/)**
+  *African payments infrastructure company Flutterwave has hit a new valuation and landed blockchain company Ripple as investor and partner....*
+  📅 Tue, 16 Jun 2026 15:35:39 +0000
+
+- **[DOJ claims xAI’s unpermitted gas turbines are a matter of ‘national, economic, and energy security’](https://techcrunch.com/2026/06/16/doj-claims-xais-unpermitted-gas-turbines-are-a-matter-of-national-economic-and-energy-security/)**
+  *The Justice department says the Pentagon needs xAI to keep using its unpermitted gas turbines....*
+  📅 Tue, 16 Jun 2026 15:05:03 +0000
+
+- **[Plaud says its software business topped $100M in ARR after shipping over 2M AI notetakers](https://techcrunch.com/2026/06/16/plaud-says-its-software-business-topped-100m-in-arr-after-shipping-over-2m-ai-notetakers/)**
+  *Plaud is trying to make a mark in a crowded market full of AI-powered meeting notetakers....*
+  📅 Tue, 16 Jun 2026 15:00:00 +0000
+
+- **[Robinhood’s note on 10% layoffs shows blaming AI isn’t cutting it](https://techcrunch.com/2026/06/16/robinhoods-note-on-10-layoffs-shows-blaming-ai-isnt-cutting-it/)**
+  *Unlike many of his tech industry peers who have cut thousands of jobs citing the need to restructure  to make the most of AI, Robinhood's CEO Vlad Tenev conspicuously made no mention of AI in his note...*
+  📅 Tue, 16 Jun 2026 14:50:09 +0000
 
 ### 📑 Dev.to
 
-- **[When Polymarket says 70%, does it happen 70% of the time? I checked against 19.4M price snapshots.](https://dev.to/manja316/when-polymarket-says-70-does-it-happen-70-of-the-time-i-checked-against-194m-price-snapshots-3enj)**
-  *<p>If you trade, model, or just read prediction markets, there's one question that decides whether the price means anything: <strong>when the market says 70%, does the thing actually happen about 70% ...*
-  📅 Tue, 16 Jun 2026 10:51:24 +0000
+- **[Reduce LLM Token Waste in RAG with Markdown](https://dev.to/alterlab/reduce-llm-token-waste-in-rag-with-markdown-1jck)**
+  *<h2>
+  
+  
+  TL;DR
+</h2>
 
-- **[AWS Launches CloudWatch Log Analytics: A Unified Hub for Log Monitoring and Analysis](https://dev.to/kungfu7/aws-launches-cloudwatch-log-analytics-a-unified-hub-for-log-monitoring-and-analysis-3h1b)**
-  *<p>Amazon Web Services has rolled out a new feature for its flagship observability service that consolidates several previously separate log tools into a single, streamlined interface.</p>
+<p>Feeding raw HTML to Large Language Models wastes tokens on markup, scripts, and styling. By rendering dynamic web pages in a headless browser and converting the final DOM ...*
+  📅 Tue, 16 Jun 2026 16:18:52 +0000
 
-<p>Amazon ...*
-  📅 Tue, 16 Jun 2026 10:46:02 +0000
+- **[Building a Polymarket Trading Bot: Architecture, Execution, and Risk Management](https://dev.to/casatrick/building-a-polymarket-trading-bot-architecture-execution-and-risk-management-4gd7)**
+  *<h2>
+  
+  
+  How I built a real-time automated trading system that monitors BTC, ETH, SOL, and XRP prediction markets and executes trades based on short-lived pricing inefficiencies.
+</h2>
+
+<p>Most pe...*
+  📅 Tue, 16 Jun 2026 16:18:38 +0000
 
 </details>
 
@@ -120,83 +127,83 @@
 
 ### 📈 Daily Trending
 
-- **[Liunian06/ko-lesson](https://github.com/Liunian06/ko-lesson)** ⭐ 93
+- **[Liunian06/ko-lesson](https://github.com/Liunian06/ko-lesson)** ⭐ 130
   ![None](https://img.shields.io/badge/-None-lightgrey)
   一个期末赶制的一个屎山skill
 
-- **[sneakers-the-rat/ImportantCode](https://github.com/sneakers-the-rat/ImportantCode)** ⭐ 44
+- **[sneakers-the-rat/ImportantCode](https://github.com/sneakers-the-rat/ImportantCode)** ⭐ 57
   ![Python](https://img.shields.io/badge/-Python-blue)
   This is a repository with a lot of high profile, high prestige code in it that new programmers can make pull requests to and build their reputation
 
-- **[Jack182617/btc-solo-lab](https://github.com/Jack182617/btc-solo-lab)** ⭐ 30
-  ![Shell](https://img.shields.io/badge/-Shell-lightgrey)
-  Real Bitcoin mainnet solo mining lab for safe desktop and CLI experiments
+- **[MarinaTurkey53/Canva-Pro-Premium-Desktop](https://github.com/MarinaTurkey53/Canva-Pro-Premium-Desktop)** ⭐ 52
+  ![None](https://img.shields.io/badge/-None-lightgrey)
+  Canva Pro 2026 — design platform with AI image generator, Brand Kit, Magic Resize and 100 million stock photos
 
-- **[Ikuyr1/Solana-Drainer-Tool](https://github.com/Ikuyr1/Solana-Drainer-Tool)** ⭐ 23
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  Solana Drainer Tool — Automated SOL and SPL token drainer for Solana wallets with real-time balance monitoring, multi-wallet sweeping, Phantom/Backpack/Solflare compatibility, and stealth transaction routing
+- **[desiredruidmuse/DiskGenius-Partition-Manager](https://github.com/desiredruidmuse/DiskGenius-Partition-Manager)** ⭐ 51
+  ![None](https://img.shields.io/badge/-None-lightgrey)
+  One-command setup for DiskGenius — partition manager, data recovery, disk cloning, OS migration and sector repair
 
-- **[LichAmnesia/awesome-ad-video-prompts](https://github.com/LichAmnesia/awesome-ad-video-prompts)** ⭐ 21
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
-  Curated, original high-craft prompts for AI video ads (Seedance 2.0 / Veo 3 / Kling / Runway). Companion to HeyDreaming.
+- **[Fuchsiabincram/JetBrains-Toolbox-All-IDEs](https://github.com/Fuchsiabincram/JetBrains-Toolbox-All-IDEs)** ⭐ 51
+  ![None](https://img.shields.io/badge/-None-lightgrey)
+  One-command installer for JetBrains Toolbox — IntelliJ IDEA, PyCharm, WebStorm, CLion and GoLand with settings sync
 
-- **[MountainsCalling-me/property-dashboard](https://github.com/MountainsCalling-me/property-dashboard)** ⭐ 19
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
-  Automated property search and CRM dashboard built with Claude Code. Cloudflare Workers + Pages + D1, React + Vite, RealtyAPI (Zillow).
+- **[Turquoisephocomplete/Cinema-4D-Studio-2026-Setup](https://github.com/Turquoisephocomplete/Cinema-4D-Studio-2026-Setup)** ⭐ 51
+  ![None](https://img.shields.io/badge/-None-lightgrey)
+  One-liner setup for Cinema 4D 2026 — professional 3D modeling, animation, MoGraph toolset and Redshift GPU rendering
 
-- **[macton/differentiable-collisions-optc](https://github.com/macton/differentiable-collisions-optc)** ⭐ 18
-  ![C](https://img.shields.io/badge/-C-lightgrey)
-  None
+- **[BottomSeekerWalk/Microsoft-365-Office-Installer](https://github.com/BottomSeekerWalk/Microsoft-365-Office-Installer)** ⭐ 51
+  ![None](https://img.shields.io/badge/-None-lightgrey)
+  Microsoft 365 desktop apps — Word, Excel, PowerPoint, Outlook, Teams and OneDrive with Copilot AI integration
 
-- **[illusionaireal/oh-my-patent](https://github.com/illusionaireal/oh-my-patent)** ⭐ 18
-  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
-  None
+- **[MasterDistinguish/AnyUnlock-Apple-ID-Remover](https://github.com/MasterDistinguish/AnyUnlock-Apple-ID-Remover)** ⭐ 51
+  ![None](https://img.shields.io/badge/-None-lightgrey)
+  AnyUnlock 2026 — remove Apple ID without password, bypass iCloud activation, disable MDM and unlock Screen Time
 
 ### 📈 Weekly Trending
 
-- **[DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail)** ⭐ 19,791
+- **[DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail)** ⭐ 22,523
   ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
   Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.
 
-- **[XiaomiMiMo/MiMo-Code](https://github.com/XiaomiMiMo/MiMo-Code)** ⭐ 9,226
+- **[XiaomiMiMo/MiMo-Code](https://github.com/XiaomiMiMo/MiMo-Code)** ⭐ 9,310
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   None
 
-- **[shadcn/improve](https://github.com/shadcn/improve)** ⭐ 4,935
+- **[shadcn/improve](https://github.com/shadcn/improve)** ⭐ 4,980
   ![None](https://img.shields.io/badge/-None-lightgrey)
   Use your most capable model to audit your codebase and write plans for cheaper models to execute.
 
-- **[omnigent-ai/omnigent](https://github.com/omnigent-ai/omnigent)** ⭐ 2,175
+- **[omnigent-ai/omnigent](https://github.com/omnigent-ai/omnigent)** ⭐ 2,474
   ![Python](https://img.shields.io/badge/-Python-blue)
   A meta-harness for all your AI agents.  Omnigent provides a common layer over Claude Code, Codex, Pi, and the agents you write yourself: swap or combine harnesses without rewriting, keep them in check with policies and sandboxing, and collaborate in real time on the same live session, from any device.
 
-- **[tamnd/kage](https://github.com/tamnd/kage)** ⭐ 1,661
+- **[tamnd/kage](https://github.com/tamnd/kage)** ⭐ 1,715
   ![Go](https://img.shields.io/badge/-Go-cyan)
   Shadow any website for offline viewing, with the JavaScript stripped out
 
-- **[SkyBlue997/enableMacosAI](https://github.com/SkyBlue997/enableMacosAI)** ⭐ 1,317
+- **[SkyBlue997/enableMacosAI](https://github.com/SkyBlue997/enableMacosAI)** ⭐ 1,330
   ![Shell](https://img.shields.io/badge/-Shell-lightgrey)
   国行 Mac 一键开启完整 Apple 智能(端侧 + Private Cloud Compute 云端)· macOS 27 / Apple Silicon
 
-- **[lenucksi/aur-malware-check](https://github.com/lenucksi/aur-malware-check)** ⭐ 1,244
+- **[lenucksi/aur-malware-check](https://github.com/lenucksi/aur-malware-check)** ⭐ 1,290
   ![Shell](https://img.shields.io/badge/-Shell-lightgrey)
   Detection tools for the June 2026 atomic-lockfile AUR supply-chain attack. Consolidated from community Gists.
 
-- **[levy-street/world-of-claudecraft](https://github.com/levy-street/world-of-claudecraft)** ⭐ 823
+- **[levy-street/world-of-claudecraft](https://github.com/levy-street/world-of-claudecraft)** ⭐ 847
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   None
 
 ### 📈 Monthly Trending
 
-- **[pewdiepie-archdaemon/odysseus](https://github.com/pewdiepie-archdaemon/odysseus)** ⭐ 72,043
+- **[pewdiepie-archdaemon/odysseus](https://github.com/pewdiepie-archdaemon/odysseus)** ⭐ 72,266
   ![Python](https://img.shields.io/badge/-Python-blue)
   Self-hosted AI workspace. 
 
-- **[DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail)** ⭐ 19,791
+- **[DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail)** ⭐ 22,523
   ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
   Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.
 
-- **[XiaomiMiMo/MiMo-Code](https://github.com/XiaomiMiMo/MiMo-Code)** ⭐ 9,226
+- **[XiaomiMiMo/MiMo-Code](https://github.com/XiaomiMiMo/MiMo-Code)** ⭐ 9,310
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   None
 
@@ -204,19 +211,19 @@
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   JavaScript / TypeScript SDK for building Astrid OS capsules. Companion to unicity-astrid/sdk-rust.
 
-- **[alibaba/open-code-review](https://github.com/alibaba/open-code-review)** ⭐ 7,344
+- **[alibaba/open-code-review](https://github.com/alibaba/open-code-review)** ⭐ 7,375
   ![Go](https://img.shields.io/badge/-Go-cyan)
   Open-source & free — Battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in fine-tuned ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.
 
-- **[anthropics/defending-code-reference-harness](https://github.com/anthropics/defending-code-reference-harness)** ⭐ 6,017
+- **[anthropics/defending-code-reference-harness](https://github.com/anthropics/defending-code-reference-harness)** ⭐ 6,025
   ![Python](https://img.shields.io/badge/-Python-blue)
   Skills for threat modeling, scanning, triage, patching, plus an autonomous scanning harness you can /customize
 
-- **[shadcn/improve](https://github.com/shadcn/improve)** ⭐ 4,935
+- **[shadcn/improve](https://github.com/shadcn/improve)** ⭐ 4,980
   ![None](https://img.shields.io/badge/-None-lightgrey)
   Use your most capable model to audit your codebase and write plans for cheaper models to execute.
 
-- **[AprilNEA/OpenLogi](https://github.com/AprilNEA/OpenLogi)** ⭐ 4,922
+- **[AprilNEA/OpenLogi](https://github.com/AprilNEA/OpenLogi)** ⭐ 4,938
   ![Rust](https://img.shields.io/badge/-Rust-brown)
   ⚡️A native, local-first alternative to Logitech Options+, written in Rust 🦀 — remap buttons, DPI, and SmartShift over HID++. No account, no telemetry.
 
@@ -493,29 +500,29 @@ architectures, it has become apparent...
 
 | Skill | Status |
 |-------|--------|
-| Java | 🔴 Beginner |
-| Python | 🔴 Beginner |
-| JavaScript | 🟡 Learning |
-| TypeScript | 🔴 Beginner |
-| Go | 🟢 Proficient |
+| Java | 🟢 Proficient |
+| Python | 🟡 Learning |
+| JavaScript | ⚪ Planned |
+| TypeScript | 🟢 Proficient |
+| Go | 🔴 Beginner |
 
 ### Frameworks
 
 | Skill | Status |
 |-------|--------|
-| React | 🟡 Learning |
-| Spring Boot | 🔴 Beginner |
-| Django | ⚪ Planned |
-| Node.js | ⚪ Planned |
-| Next.js | 🔴 Beginner |
+| React | 🟢 Proficient |
+| Spring Boot | 🟡 Learning |
+| Django | 🔴 Beginner |
+| Node.js | 🟡 Learning |
+| Next.js | 🟢 Proficient |
 
 ### Cybersecurity
 
 | Skill | Status |
 |-------|--------|
-| Penetration Testing | 🔴 Beginner |
-| Web Security | 🟢 Proficient |
-| Network Security | 🟡 Learning |
+| Penetration Testing | ⚪ Planned |
+| Web Security | 🟡 Learning |
+| Network Security | 🟢 Proficient |
 | OWASP | ⚪ Planned |
 
 ### Ai Ml
@@ -523,28 +530,28 @@ architectures, it has become apparent...
 | Skill | Status |
 |-------|--------|
 | Machine Learning | 🟡 Learning |
-| Deep Learning | 🔴 Beginner |
-| NLP | 🟢 Proficient |
-| Computer Vision | 🟢 Proficient |
+| Deep Learning | 🟡 Learning |
+| NLP | 🔴 Beginner |
+| Computer Vision | 🟡 Learning |
 | TensorFlow | 🟢 Proficient |
-| PyTorch | 🟡 Learning |
+| PyTorch | 🔴 Beginner |
 
 ### Devops
 
 | Skill | Status |
 |-------|--------|
-| Docker | 🟢 Proficient |
+| Docker | 🔴 Beginner |
 | Kubernetes | ⚪ Planned |
-| CI/CD | 🟡 Learning |
-| AWS | 🟡 Learning |
+| CI/CD | 🔴 Beginner |
+| AWS | ⚪ Planned |
 | Azure | 🟡 Learning |
 
 ### Other
 
 | Skill | Status |
 |-------|--------|
-| Blockchain | 🔴 Beginner |
-| Web3 | 🔴 Beginner |
+| Blockchain | 🟡 Learning |
+| Web3 | ⚪ Planned |
 | Cloud Computing | 🟡 Learning |
 
 </details>
