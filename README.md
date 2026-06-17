@@ -46,32 +46,33 @@
 
 ### 📑 Hacker News
 
-- **[Stop Killing Games fails to secure EU law despite 1.3M signatures](https://www.dexerto.com/gaming/stop-killing-games-fails-to-secure-eu-law-despite-1-3m-signatures-3376431/)**
-  *<p>Article URL: <a href="https://www.dexerto.com/gaming/stop-killing-games-fails-to-secure-eu-law-despite-1-3m-signatures-3376431/">https://www.dexerto.com/gaming/stop-killing-games-fails-to-secure-eu...*
-  📅 Wed, 17 Jun 2026 01:40:22 +0000
+- **[U.S. Science Is in Chaos](https://www.scientificamerican.com/article/americas-compact-between-science-and-politics-is-broken/)**
+  *<p>Article URL: <a href="https://www.scientificamerican.com/article/americas-compact-between-science-and-politics-is-broken/">https://www.scientificamerican.com/article/americas-compact-between-scienc...*
+  📅 Wed, 17 Jun 2026 09:54:21 +0000
 
-- **[Wolfram Language and Mathematica Version 15, AI Assistant, Symbolic Music, More](https://writings.stephenwolfram.com/2026/06/launching-version-15-of-wolfram-language-mathematica-built-in-useful-ai-lots-of-new-core-functionality/)**
-  *<p>Article URL: <a href="https://writings.stephenwolfram.com/2026/06/launching-version-15-of-wolfram-language-mathematica-built-in-useful-ai-lots-of-new-core-functionality/">https://writings.stephenwo...*
-  📅 Tue, 16 Jun 2026 23:15:44 +0000
+- **[Show HN: High-Res Neural Cellular Automata](https://cells2pixels.github.io/)**
+  *<p>Neural CAs model self-organizing pattern formation.<p>Now they can generate patterns at HD resolution in real-time, enabled by turning each CA cell into a Neural Field.<p>Try 3 demos: grow a patter...*
+  📅 Wed, 17 Jun 2026 09:28:36 +0000
 
-- **[NLnet announces funding for 67 more open-source projects](https://nlnet.nl/news/2026/20260616-67-new-projects.html)**
-  *<p>Article URL: <a href="https://nlnet.nl/news/2026/20260616-67-new-projects.html">https://nlnet.nl/news/2026/20260616-67-new-projects.html</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.c...*
-  📅 Tue, 16 Jun 2026 23:12:09 +0000
+- **[Most of the CVE-2026-4020 attackers are the same client](https://honeylabs.net/blog/the-cloud-fleet-behind-cve-2026-4020)**
+  *<p>Article URL: <a href="https://honeylabs.net/blog/the-cloud-fleet-behind-cve-2026-4020">https://honeylabs.net/blog/the-cloud-fleet-behind-cve-2026-4020</a></p>
+<p>Comments URL: <a href="https://news...*
+  📅 Wed, 17 Jun 2026 08:47:14 +0000
 
-- **[Humiliating IIS servers for fun and jail time](https://mll.sh/humiliating-iis-servers-for-fun-and-jail-time/)**
-  *<p>Article URL: <a href="https://mll.sh/humiliating-iis-servers-for-fun-and-jail-time/">https://mll.sh/humiliating-iis-servers-for-fun-and-jail-time/</a></p>
-<p>Comments URL: <a href="https://news.yco...*
-  📅 Tue, 16 Jun 2026 22:53:34 +0000
+- **[Hacker News but for Independent Blogs](https://bubbles.town/)**
+  *<p>Article URL: <a href="https://bubbles.town/">https://bubbles.town/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=48567155">https://news.ycombinator.com/item?id=48567155</a>...*
+  📅 Wed, 17 Jun 2026 07:49:44 +0000
 
-- **[GrapheneOS has been ported to Android 17](https://discuss.grapheneos.org/d/36469-grapheneos-has-been-ported-to-android-17-and-official-releases-are-coming-soon)**
-  *<p>Article URL: <a href="https://discuss.grapheneos.org/d/36469-grapheneos-has-been-ported-to-android-17-and-official-releases-are-coming-soon">https://discuss.grapheneos.org/d/36469-grapheneos-has-be...*
-  📅 Tue, 16 Jun 2026 20:34:35 +0000
+- **[The founder's playbook: Building an AI-native startup](https://claude.com/blog/the-founders-playbook)**
+  *<p>Article URL: <a href="https://claude.com/blog/the-founders-playbook">https://claude.com/blog/the-founders-playbook</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=48566832">h...*
+  📅 Wed, 17 Jun 2026 07:04:42 +0000
 
-- **[Show HN: cuTile Rust: Safe, data-race-free GPU kernels in Rust](https://github.com/nvlabs/cutile-rs)**
-  *<p>Article URL: <a href="https://github.com/nvlabs/cutile-rs">https://github.com/nvlabs/cutile-rs</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=48561410">https://news.ycombina...*
-  📅 Tue, 16 Jun 2026 20:17:42 +0000
+- **[From Chesterton's fence to Chesterton's gap](https://stephantul.github.io/blog/unfence/)**
+  *<p>Article URL: <a href="https://stephantul.github.io/blog/unfence/">https://stephantul.github.io/blog/unfence/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=48566727">https:/...*
+  📅 Wed, 17 Jun 2026 06:50:47 +0000
 
 ### 📑 TechCrunch
 
@@ -101,14 +102,17 @@
 
 ### 📑 Dev.to
 
-- **[Registers, Lanes, and Berry Phase: Lifting Siunertaq from Batch Graphs to the Complex Plane](https://dev.to/p_pumulo/registers-lanes-and-berry-phase-lifting-siunertaq-from-batch-graphs-to-the-complex-plane-5164)**
-  *<blockquote>
-<p>The previous article is here: <a href="https://dev.to/p_pumulo/mainframes-monads-and-stack-machines-extending-siunertaq-to-the-batch-layer-5ih">Mainframes, Monads, and Stack Machines: ...*
-  📅 Wed, 17 Jun 2026 02:31:57 +0000
+- **[How I use premortems with Claude and Codex](https://dev.to/pablonax/how-i-use-premortems-with-claude-and-codex-46mm)**
+  *<p>I started using premortems for a boring reason: I did not trust the default review question.</p>
 
-- **[Why Google’s Open Knowledge Format Matters for Developers and Content Creators?](https://dev.to/maskaravivek/why-googles-open-knowledge-format-matters-for-developers-and-content-creators-1mgk)**
-  *<p><a class="article-body-image-wrapper" href="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fupl...*
-  📅 Wed, 17 Jun 2026 02:24:11 +0000
+<p>When I ask a coding agent "does this plan look good?", the answer is usually useful but too poli...*
+  📅 Wed, 17 Jun 2026 10:19:30 +0000
+
+- **[How to Encode Video with H.264 (libx264) Using FFmpeg](https://dev.to/javidjamae/how-to-encode-video-with-h264-libx264-using-ffmpeg-2fpn)**
+  *<p><em>Originally published at <a href="https://www.ffmpeg-micro.com/blog/ffmpeg-libx264-crf-preset-guide" rel="noopener noreferrer">ffmpeg-micro.com</a></em></p>
+
+<p>H.264 is still the default video ...*
+  📅 Wed, 17 Jun 2026 10:17:13 +0000
 
 </details>
 
@@ -116,105 +120,105 @@
 
 ### 📈 Daily Trending
 
-- **[Avenuegrochain/Wuthering-Waves-Cheat](https://github.com/Avenuegrochain/Wuthering-Waves-Cheat)** ⭐ 18
-  ![None](https://img.shields.io/badge/-None-lightgrey)
-  Wuthering Waves Cheat — Windows map radar, echo tracker, route optimizer and performance panel for WuWa
+- **[Plaer1/junction](https://github.com/Plaer1/junction)** ⭐ 490
+  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
+  VS Code chat sidebar for local AI coding agents
 
-- **[BarbDustPliers/Stellar-Data-Recovery-Crack](https://github.com/BarbDustPliers/Stellar-Data-Recovery-Crack)** ⭐ 18
-  ![None](https://img.shields.io/badge/-None-lightgrey)
-  Stellar Data Recovery Crack — recover deleted files, photos and partitions from HDD, SSD and RAID on Windows
-
-- **[GasBladesmith/Wondershare-Filmora-Crack-2026](https://github.com/GasBladesmith/Wondershare-Filmora-Crack-2026)** ⭐ 17
+- **[GasBladesmith/Wondershare-Filmora-Crack-2026](https://github.com/GasBladesmith/Wondershare-Filmora-Crack-2026)** ⭐ 49
   ![None](https://img.shields.io/badge/-None-lightgrey)
   Wondershare Filmora — full premium build for Windows with pro features unlocked. Creative Suite Pro Pack
 
-- **[ManeShopkeeper/Forza-Horizon-6-Trainer](https://github.com/ManeShopkeeper/Forza-Horizon-6-Trainer)** ⭐ 17
+- **[BarbDustPliers/Stellar-Data-Recovery-Crack](https://github.com/BarbDustPliers/Stellar-Data-Recovery-Crack)** ⭐ 49
   ![None](https://img.shields.io/badge/-None-lightgrey)
-  Forza Horizon 6 Trainer — career editor, car roster tools, handling profiles and speed tuning for Windows
+  Stellar Data Recovery Crack — recover deleted files, photos and partitions from HDD, SSD and RAID on Windows
 
-- **[Spiritgrueliminate/SoundPad-Pro-cracked](https://github.com/Spiritgrueliminate/SoundPad-Pro-cracked)** ⭐ 17
+- **[BronzeDeveloper71/Minecraft-Client-Cheat](https://github.com/BronzeDeveloper71/Minecraft-Client-Cheat)** ⭐ 48
+  ![None](https://img.shields.io/badge/-None-lightgrey)
+  Minecraft Client Cheat — Java Edition utility for Windows with FPS tuning, render presets and profile manager
+
+- **[Spiritgrueliminate/SoundPad-Pro-cracked](https://github.com/Spiritgrueliminate/SoundPad-Pro-cracked)** ⭐ 47
   ![None](https://img.shields.io/badge/-None-lightgrey)
   SoundPad Pro — full premium soundboard for Windows with hotkeys and voice chat integration. Audio Tools Pro Pack
 
-- **[gastierchart/PUBG-Mobile-Emulator-Cheat](https://github.com/gastierchart/PUBG-Mobile-Emulator-Cheat)** ⭐ 16
+- **[gastierchart/PUBG-Mobile-Emulator-Cheat](https://github.com/gastierchart/PUBG-Mobile-Emulator-Cheat)** ⭐ 47
   ![None](https://img.shields.io/badge/-None-lightgrey)
   PUBG Mobile Emulator Cheat — play PUBG Mobile on PC with keyboard mapping, HD graphics and FPS tuning on Windows
 
-- **[OrbitLawmakerGrid/DiskDrill-Pro-Cracked](https://github.com/OrbitLawmakerGrid/DiskDrill-Pro-Cracked)** ⭐ 15
+- **[ManeShopkeeper/Forza-Horizon-6-Trainer](https://github.com/ManeShopkeeper/Forza-Horizon-6-Trainer)** ⭐ 46
   ![None](https://img.shields.io/badge/-None-lightgrey)
-  Disk Drill Pro Cracked — recover deleted files from HDD, SSD and USB with deep scan and preview on Windows
+  Forza Horizon 6 Trainer — career editor, car roster tools, handling profiles and speed tuning for Windows
 
-- **[GunnerPattern/NTE-Hack](https://github.com/GunnerPattern/NTE-Hack)** ⭐ 15
+- **[Avenuegrochain/Wuthering-Waves-Cheat](https://github.com/Avenuegrochain/Wuthering-Waves-Cheat)** ⭐ 46
   ![None](https://img.shields.io/badge/-None-lightgrey)
-  NTE Hack — Windows script hub with profile manager, script library and auto-attach for supported apps
+  Wuthering Waves Cheat — Windows map radar, echo tracker, route optimizer and performance panel for WuWa
 
 ### 📈 Weekly Trending
 
-- **[DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail)** ⭐ 25,722
+- **[DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail)** ⭐ 28,236
   ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
   Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.
 
-- **[omnigent-ai/omnigent](https://github.com/omnigent-ai/omnigent)** ⭐ 2,860
+- **[omnigent-ai/omnigent](https://github.com/omnigent-ai/omnigent)** ⭐ 3,195
   ![Python](https://img.shields.io/badge/-Python-blue)
   A meta-harness for all your AI agents.  Omnigent provides a common layer over Claude Code, Codex, Pi, and the agents you write yourself: swap or combine harnesses without rewriting, keep them in check with policies and sandboxing, and collaborate in real time on the same live session, from any device.
 
-- **[tamnd/kage](https://github.com/tamnd/kage)** ⭐ 1,768
+- **[tamnd/kage](https://github.com/tamnd/kage)** ⭐ 1,806
   ![Go](https://img.shields.io/badge/-Go-cyan)
   Shadow any website for offline viewing, with the JavaScript stripped out
 
-- **[lenucksi/aur-malware-check](https://github.com/lenucksi/aur-malware-check)** ⭐ 1,352
+- **[lenucksi/aur-malware-check](https://github.com/lenucksi/aur-malware-check)** ⭐ 1,397
   ![Shell](https://img.shields.io/badge/-Shell-lightgrey)
   Detection tools for the June 2026 atomic-lockfile AUR supply-chain attack. Consolidated from community Gists.
 
-- **[EEliberto/IPA-Download](https://github.com/EEliberto/IPA-Download)** ⭐ 846
+- **[EEliberto/IPA-Download](https://github.com/EEliberto/IPA-Download)** ⭐ 926
   ![Swift](https://img.shields.io/badge/-Swift-lightgrey)
   一款用于安装 IPA 历史版本的工具，适用于获取旧版应用并自动捕获数据包。下载后，可直接通过 AirDrop 传输至 iPhone、iPad 上并安装并使用。
 
-- **[loc567/loc567](https://github.com/loc567/loc567)** ⭐ 784
+- **[loc567/loc567](https://github.com/loc567/loc567)** ⭐ 875
   ![C](https://img.shields.io/badge/-C-lightgrey)
   loc567 是一款完全开源免费的纯网页端iOS模拟定位工具。在线体验地址：https://loc567.com
 
-- **[orange2ai/renwei-writing](https://github.com/orange2ai/renwei-writing)** ⭐ 723
+- **[orange2ai/renwei-writing](https://github.com/orange2ai/renwei-writing)** ⭐ 753
   ![None](https://img.shields.io/badge/-None-lightgrey)
   人味儿写作 · An AI agent skill: edit people's words without erasing the person behind them
 
-- **[joeseesun/qiaomu-goal-meta-skill](https://github.com/joeseesun/qiaomu-goal-meta-skill)** ⭐ 633
+- **[nolangz/pixel2motion](https://github.com/nolangz/pixel2motion)** ⭐ 652
   ![Python](https://img.shields.io/badge/-Python-blue)
-  Turn vague or complex Codex tasks into strong `/goal` commands with outcome, verification, constraints, boundaries, iteration policy, completion evide
+  AI logo animation skill: turn raster logos into smooth SVG animation, animated HTML demos, GIF/video previews, and motion QA evidence.
 
 ### 📈 Monthly Trending
 
-- **[pewdiepie-archdaemon/odysseus](https://github.com/pewdiepie-archdaemon/odysseus)** ⭐ 72,527
+- **[pewdiepie-archdaemon/odysseus](https://github.com/pewdiepie-archdaemon/odysseus)** ⭐ 72,703
   ![Python](https://img.shields.io/badge/-Python-blue)
   Self-hosted AI workspace. 
 
-- **[DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail)** ⭐ 25,722
+- **[DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail)** ⭐ 28,236
   ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
   Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.
 
-- **[XiaomiMiMo/MiMo-Code](https://github.com/XiaomiMiMo/MiMo-Code)** ⭐ 9,388
+- **[XiaomiMiMo/MiMo-Code](https://github.com/XiaomiMiMo/MiMo-Code)** ⭐ 9,483
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   None
 
-- **[anthropics/defending-code-reference-harness](https://github.com/anthropics/defending-code-reference-harness)** ⭐ 6,037
+- **[anthropics/defending-code-reference-harness](https://github.com/anthropics/defending-code-reference-harness)** ⭐ 6,052
   ![Python](https://img.shields.io/badge/-Python-blue)
   Skills for threat modeling, scanning, triage, patching, plus an autonomous scanning harness you can /customize
 
-- **[shadcn/improve](https://github.com/shadcn/improve)** ⭐ 5,019
+- **[shadcn/improve](https://github.com/shadcn/improve)** ⭐ 5,056
   ![None](https://img.shields.io/badge/-None-lightgrey)
   Use your most capable model to audit your codebase and write plans for cheaper models to execute.
 
-- **[AprilNEA/OpenLogi](https://github.com/AprilNEA/OpenLogi)** ⭐ 4,963
+- **[AprilNEA/OpenLogi](https://github.com/AprilNEA/OpenLogi)** ⭐ 5,001
   ![Rust](https://img.shields.io/badge/-Rust-brown)
   ⚡️A native, local-first alternative to Logitech Options+, written in Rust 🦀 — remap buttons, DPI, and SmartShift over HID++. No account, no telemetry.
 
-- **[helloianneo/ian-xiaohei-illustrations](https://github.com/helloianneo/ian-xiaohei-illustrations)** ⭐ 4,895
+- **[helloianneo/ian-xiaohei-illustrations](https://github.com/helloianneo/ian-xiaohei-illustrations)** ⭐ 4,965
   ![None](https://img.shields.io/badge/-None-lightgrey)
   中文小黑怪诞正文配图生成 Skill | 16:9 白底手绘 | 少量红橙蓝批注 | Codex Skill
 
-- **[perplexityai/bumblebee](https://github.com/perplexityai/bumblebee)** ⭐ 4,483
-  ![Go](https://img.shields.io/badge/-Go-cyan)
-  Read-only developer endpoint scanner for on-disk package, extension, and developer-tool metadata, built to check exposure to known software supply-chain compromises.
+- **[zgwl/chinese-buy-us-stock-guide](https://github.com/zgwl/chinese-buy-us-stock-guide)** ⭐ 4,635
+  ![None](https://img.shields.io/badge/-None-lightgrey)
+  美股指南
 
 ## 🚀 Latest Releases
 
@@ -489,59 +493,59 @@ architectures, it has become apparent...
 
 | Skill | Status |
 |-------|--------|
-| Java | 🟡 Learning |
+| Java | 🔴 Beginner |
 | Python | 🔴 Beginner |
-| JavaScript | 🟢 Proficient |
+| JavaScript | ⚪ Planned |
 | TypeScript | 🟢 Proficient |
-| Go | 🔴 Beginner |
+| Go | ⚪ Planned |
 
 ### Frameworks
 
 | Skill | Status |
 |-------|--------|
 | React | 🟢 Proficient |
-| Spring Boot | 🟢 Proficient |
-| Django | 🟢 Proficient |
-| Node.js | 🟢 Proficient |
-| Next.js | ⚪ Planned |
+| Spring Boot | 🔴 Beginner |
+| Django | ⚪ Planned |
+| Node.js | 🟡 Learning |
+| Next.js | 🟢 Proficient |
 
 ### Cybersecurity
 
 | Skill | Status |
 |-------|--------|
-| Penetration Testing | 🟢 Proficient |
-| Web Security | 🔴 Beginner |
+| Penetration Testing | 🟡 Learning |
+| Web Security | 🟡 Learning |
 | Network Security | 🟢 Proficient |
-| OWASP | ⚪ Planned |
+| OWASP | 🔴 Beginner |
 
 ### Ai Ml
 
 | Skill | Status |
 |-------|--------|
-| Machine Learning | 🔴 Beginner |
-| Deep Learning | 🔴 Beginner |
+| Machine Learning | ⚪ Planned |
+| Deep Learning | 🟡 Learning |
 | NLP | ⚪ Planned |
-| Computer Vision | 🟢 Proficient |
-| TensorFlow | 🟢 Proficient |
-| PyTorch | ⚪ Planned |
+| Computer Vision | ⚪ Planned |
+| TensorFlow | 🟡 Learning |
+| PyTorch | 🔴 Beginner |
 
 ### Devops
 
 | Skill | Status |
 |-------|--------|
-| Docker | 🟢 Proficient |
-| Kubernetes | 🔴 Beginner |
-| CI/CD | 🟡 Learning |
-| AWS | ⚪ Planned |
+| Docker | 🔴 Beginner |
+| Kubernetes | 🟡 Learning |
+| CI/CD | ⚪ Planned |
+| AWS | 🟡 Learning |
 | Azure | ⚪ Planned |
 
 ### Other
 
 | Skill | Status |
 |-------|--------|
-| Blockchain | 🔴 Beginner |
+| Blockchain | 🟡 Learning |
 | Web3 | 🟢 Proficient |
-| Cloud Computing | 🟡 Learning |
+| Cloud Computing | ⚪ Planned |
 
 </details>
 
