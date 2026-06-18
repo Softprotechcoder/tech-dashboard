@@ -21,7 +21,7 @@
 |--------|-------|
 | 📰 Latest News Articles | 26 |
 | 🔥 Trending Repositories | 45 |
-| 🎯 Latest Releases | 9 |
+| 🎯 Latest Releases | 10 |
 | 🎯 Learning Goals | 4 |
 
 ## 🎯 Current Focus
@@ -46,36 +46,40 @@
 
 ### 📑 Hacker News
 
-- **[Midjourney Full Body Ultrasonic CT Scanner](https://www.midjourney.com/medical/blogpost)**
-  *<p>Article URL: <a href="https://www.midjourney.com/medical/blogpost">https://www.midjourney.com/medical/blogpost</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=48579718">https...*
-  📅 Thu, 18 Jun 2026 02:08:59 +0000
+- **[I need your clothes, your boots, and your motorcycle](https://rbelmont.mameworld.info/?p=1725)**
+  *<p>Article URL: <a href="https://rbelmont.mameworld.info/?p=1725">https://rbelmont.mameworld.info/?p=1725</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=48582464">https://news....*
+  📅 Thu, 18 Jun 2026 08:28:04 +0000
 
-- **[Midjourney Medical](https://www.midjourney.com/medical)**
-  *<p>Article URL: <a href="https://www.midjourney.com/medical">https://www.midjourney.com/medical</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=48579650">https://news.ycombinato...*
-  📅 Thu, 18 Jun 2026 01:59:51 +0000
+- **[AMD silently removes memory encryption from consumer Ryzen CPUs](https://www.tomshardware.com/pc-components/cpus/amd-silently-removes-memory-encryption-from-consumer-ryzen-cpus-leaving-users-unaware-that-they-may-be-vulnerable-security-feature-vanishes-after-newer-agesa-firmware-amd-engineers-go-radio-silent-when-pressed-about-the-change)**
+  *<p>Article URL: <a href="https://www.tomshardware.com/pc-components/cpus/amd-silently-removes-memory-encryption-from-consumer-ryzen-cpus-leaving-users-unaware-that-they-may-be-vulnerable-security-feat...*
+  📅 Thu, 18 Jun 2026 08:08:00 +0000
 
-- **[Taxonomy of the Occlupanida (parasitoids on bread bag tags)](https://www.horg.com/horg/?page_id=921)**
-  *<p>Article URL: <a href="https://www.horg.com/horg/?page_id=921">https://www.horg.com/horg/?page_id=921</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=48578388">https://news.yc...*
-  📅 Wed, 17 Jun 2026 23:20:38 +0000
+- **[The Forge We Deserve](https://btao.org/posts/2026-05-09-the-forge-we-deserve/)**
+  *<p>Article URL: <a href="https://btao.org/posts/2026-05-09-the-forge-we-deserve/">https://btao.org/posts/2026-05-09-the-forge-we-deserve/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com...*
+  📅 Thu, 18 Jun 2026 07:46:55 +0000
 
-- **[Clojure Hosted on Go](https://github.com/glojurelang/glojure)**
-  *<p>Article URL: <a href="https://github.com/glojurelang/glojure">https://github.com/glojurelang/glojure</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=48578326">https://news.yc...*
-  📅 Wed, 17 Jun 2026 23:14:49 +0000
+- **[The Australian Government to Require SMS/MMS Sender ID Registraion](https://www.acma.gov.au/sms-sender-id-register)**
+  *<p>Article URL: <a href="https://www.acma.gov.au/sms-sender-id-register">https://www.acma.gov.au/sms-sender-id-register</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=48581489"...*
+  📅 Thu, 18 Jun 2026 06:23:24 +0000
 
-- **[Storied Colors – a catalogue of named colors](https://storiedcolors.com/)**
-  *<p>Article URL: <a href="https://storiedcolors.com/">https://storiedcolors.com/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=48577374">https://news.ycombinator.com/item?id=48...*
-  📅 Wed, 17 Jun 2026 21:49:03 +0000
+- **[DeepSeek Introduces Vision](https://chat.deepseek.com/)**
+  *<p>Article URL: <a href="https://chat.deepseek.com/">https://chat.deepseek.com/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=48581458">https://news.ycombinator.com/item?id=48...*
+  📅 Thu, 18 Jun 2026 06:17:40 +0000
 
-- **[Leaked financial docs show OpenAI is losing billions of dollars a year](https://arstechnica.com/ai/2026/06/leaked-financial-docs-show-openai-is-losing-billions-of-dollars-a-year/)**
-  *<p>Article URL: <a href="https://arstechnica.com/ai/2026/06/leaked-financial-docs-show-openai-is-losing-billions-of-dollars-a-year/">https://arstechnica.com/ai/2026/06/leaked-financial-docs-show-opena...*
-  📅 Wed, 17 Jun 2026 21:31:35 +0000
+- **[I Hate Compilers](https://xeiaso.net/notes/2026/anubis-wasm-vendor-binary/)**
+  *<p>Article URL: <a href="https://xeiaso.net/notes/2026/anubis-wasm-vendor-binary/">https://xeiaso.net/notes/2026/anubis-wasm-vendor-binary/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.c...*
+  📅 Thu, 18 Jun 2026 05:10:28 +0000
 
 ### 📑 TechCrunch
+
+- **[NASA picks Eric Schmidt’s rocket company for Mars mission, setting up a race with SpaceX](https://techcrunch.com/2026/06/17/nasa-picks-eric-schmidts-rocket-company-for-mars-mission-setting-up-a-race-with-spacex/)**
+  *Relativity Space—a rocket maker acquired by former Google executive chair Eric Schmidt last year after stumbling on the path to orbit—might just beat SpaceX to Mars....*
+  📅 Thu, 18 Jun 2026 06:26:24 +0000
 
 - **[How to turn off AI in your Google Docs](https://techcrunch.com/2026/06/17/how-to-turn-off-ai-in-your-google-docs/)**
   *Here's what you need to do to get those pesky "write with Gemini" pop-ups to go away....*
@@ -97,23 +101,15 @@
   *Snap's long-awaited smart glasses debut hasn't exactly done wonders for the company's stock....*
   📅 Wed, 17 Jun 2026 20:24:28 +0000
 
-- **[NEA’s Tiffany Luck says enterprises are still figuring out their AI ROI](https://techcrunch.com/video/neas-tiffany-luck-says-enterprises-are-still-figuring-out-their-ai-roi/)**
-  *Tokenmaxxing&#160;was&#160;the hottest trend in Silicon Valley earlier this year, with CEOs encouraging employees to push AI usage as far&#160;as it would go.&#160;Then the bill came due. Uber&#160;re...*
-  📅 Wed, 17 Jun 2026 20:17:38 +0000
-
 ### 📑 Dev.to
 
-- **[Network Protocols for Network Management](https://dev.to/narendran_solaisridharan/network-protocols-for-network-management-2ead)**
-  *<p>Here is the fully consolidated, comprehensive master list of network protocols and standards dedicated strictly to Configuration, Monitoring, Reporting, and Troubleshooting.</p>
+- **[My First Week on DEV — Badges, Game Jams, and Way More Than I Expected](https://dev.to/gamya_m/my-first-week-on-dev-badges-game-jams-and-way-more-than-i-expected-3ec2)**
+  *<p>I joined DEV at the start of January, but it's only really been in the past week or so that things clicked into place — and looking back, it's been a lot more eventful than I expected for "week one...*
+  📅 Thu, 18 Jun 2026 09:55:00 +0000
 
-<p>In reality ever...*
-  📅 Thu, 18 Jun 2026 02:20:25 +0000
-
-- **[Lexicon: AI-powered terminal dictionary you’ll actually enjoy using](https://dev.to/nersisiian/lexicon-ai-powered-terminal-dictionary-youll-actually-enjoy-using-27c0)**
-  *<p>Ever found yourself breaking your flow just to Google a word?</p>
-
-<p>As a developer, I spend most of my day in the terminal. Jumping to a browser just to look up a definition always felt like an u...*
-  📅 Thu, 18 Jun 2026 02:19:57 +0000
+- **[I Replaced 5 Social Media APIs With One Key (and My Code Got Way Simpler)](https://dev.to/olams/i-replaced-5-social-media-apis-with-one-key-and-my-code-got-way-simpler-10k0)**
+  *<p>A while back I was building a side project that needed public data from a few social platforms. Nothing crazy — profiles, posts, some engagement numbers. I figured I'd just grab each platform's off...*
+  📅 Thu, 18 Jun 2026 09:53:00 +0000
 
 </details>
 
@@ -121,103 +117,103 @@
 
 ### 📈 Daily Trending
 
-- **[DecaGrenadier/DLL-Repair-Tool](https://github.com/DecaGrenadier/DLL-Repair-Tool)** ⭐ 10
+- **[MstKail/polymarket-trading-bot-services-polyedge365](https://github.com/MstKail/polymarket-trading-bot-services-polyedge365)** ⭐ 105
   ![None](https://img.shields.io/badge/-None-lightgrey)
-  Fix "MSVCP140.dll is missing" and "VCRUNTIME140.dll not found" errors on Windows 10/11. Repair d3dx9_43.dll, xinput1_3.dll and 50+ missing DLL files in one click. Installs all Visual C++ Redistributable packages, DirectX Runtime and .NET Framework automatically.
+  polymarket trading bot services, polymarket copy trading bot, polymarket arbitrage bot, polymarket hedge bot, polymarket maker bot, polymarket trading bot services, polymarket copy trading bot, polymarket arbitrage bot, polymarket hedge bot, polymarket maker bot, polymarket trading bot services, polymarket copy trading bot, polymarket arbitrage bot
 
-- **[NoonKnightDawn/Memory-Leak-Fixer](https://github.com/NoonKnightDawn/Memory-Leak-Fixer)** ⭐ 10
-  ![None](https://img.shields.io/badge/-None-lightgrey)
-  Fix high RAM usage and memory leaks on Windows 10/11 -- detect leaking processes, clear standby memory, fix Desktop Window Manager memory leak (dwm.exe), resolve "Your computer is low on memory" error. Fix PC getting slower over time.
+- **[atherio-danp/cde-dotnetcc](https://github.com/atherio-danp/cde-dotnetcc)** ⭐ 27
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
+  Claude Code harness for .NET developers
 
-- **[EagleEmbroider/Microphone-Fix-Tool](https://github.com/EagleEmbroider/Microphone-Fix-Tool)** ⭐ 10
-  ![None](https://img.shields.io/badge/-None-lightgrey)
-  Fix microphone not working on Windows 10/11 -- mic not detected, too quiet, not working in Zoom Teams Discord. Fix privacy settings blocking mic, microphone boost missing, audio input after Windows Update. USB, Bluetooth, built-in.
+- **[Try112/cesium-vectortile-gl-plus](https://github.com/Try112/cesium-vectortile-gl-plus)** ⭐ 24
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
+  **cesium-vectortile-gl-plus** 是专为 **CesiumJS** 设计的开源矢量瓦片渲染库。原生 Primitive 实现，**不依赖 ImageryProvider 和 第三方矢量瓦片渲染器**， 支持 MLT/MVT/PBF 与 GeoJSON，兼容 MapLibre 样式规范，可渲染点/线/面/文字注记，支持虚线、贴地、合批优化与 GPU 剔除。
 
-- **[fastpoemstronghold/Disk-Usage-100-Fix](https://github.com/fastpoemstronghold/Disk-Usage-100-Fix)** ⭐ 9
-  ![None](https://img.shields.io/badge/-None-lightgrey)
-  Fix 100% disk usage on Windows 10/11 -- Task Manager shows disk at 100 for no reason. Disable SysMain Superfetch, stop Windows Search indexing, fix AHCI driver, optimize page file. Fix slow PC, disk usage stuck at 100, hard drive constantly running. SSD and HDD.
+- **[natedemoss/cf-recommend](https://github.com/natedemoss/cf-recommend)** ⭐ 16
+  ![C++](https://img.shields.io/badge/-C++-pink)
+  Codeforces CLI tool
 
-- **[ModuleQuality40/Screen-Flickering-Fix](https://github.com/ModuleQuality40/Screen-Flickering-Fix)** ⭐ 9
-  ![None](https://img.shields.io/badge/-None-lightgrey)
-  Fix screen flickering and "display driver stopped responding" on Windows 10/11. Repair monitor flashing, screen tearing, VIDEO_TDR_FAILURE, black screen flashes. Fix display driver crashes for NVIDIA, AMD, Intel. Screen flashing on and off fix.
+- **[JinhuaChenBiggest/IncubativeSecondBrain](https://github.com/JinhuaChenBiggest/IncubativeSecondBrain)** ⭐ 14
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  None
 
-- **[EnsignPilotSucceed/Headphone-Fix-Tool](https://github.com/EnsignPilotSucceed/Headphone-Fix-Tool)** ⭐ 9
+- **[michellemayes/meta-doctor](https://github.com/michellemayes/meta-doctor)** ⭐ 13
   ![None](https://img.shields.io/badge/-None-lightgrey)
-  Fix headphones not working on Windows 10/11 -- no sound in headphones, headset not detected, AirPods no audio, USB headset not recognized, Bluetooth headphones connected but no sound. Fix Realtek jack detection, gaming headset mic, audio crackling and one side not working.
+  Most monitoring tells you something broke. A doctor opens the pull request that fixes it.
 
-- **[DemolisherDeem/BSOD-Repair-Tool](https://github.com/DemolisherDeem/BSOD-Repair-Tool)** ⭐ 8
+- **[LoopBureaucrat/FPS-Drop-Fix-PowerShell](https://github.com/LoopBureaucrat/FPS-Drop-Fix-PowerShell)** ⭐ 11
   ![None](https://img.shields.io/badge/-None-lightgrey)
-  Fix Blue Screen of Death (BSOD) on Windows 10/11 -- repair IRQL_NOT_LESS_OR_EQUAL, CRITICAL_PROCESS_DIED, VIDEO_TDR_FAILURE (nvlddmkm.sys) and all stop codes. Blue screen fix tool with SFC, DISM, crash dump analysis and driver repair.
+  Install FPS Drop Fix via PowerShell — one-command gaming optimizer for Windows 10/11. Fix stuttering, FPS drops, input lag. Valorant, Fortnite, CS2, Apex, Rust.
 
-- **[CrimsonDefender/Audio-Driver-Fixer](https://github.com/CrimsonDefender/Audio-Driver-Fixer)** ⭐ 8
-  ![None](https://img.shields.io/badge/-None-lightgrey)
-  Fix no sound and "No Audio Output Device is installed" on Windows 10/11. Repair Realtek HD Audio driver, fix audio not working after Windows Update, crackling sound, microphone not working. Supports Realtek, NVIDIA, AMD, Intel.
+- **[mmenghancurkan/dynaQRIS](https://github.com/mmenghancurkan/dynaQRIS)** ⭐ 10
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  Dynamic QRIS Python-based generator program.
 
 ### 📈 Weekly Trending
 
-- **[DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail)** ⭐ 32,135
+- **[DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail)** ⭐ 33,967
   ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
   Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.
 
-- **[tamnd/kage](https://github.com/tamnd/kage)** ⭐ 1,866
+- **[tamnd/kage](https://github.com/tamnd/kage)** ⭐ 1,922
   ![Go](https://img.shields.io/badge/-Go-cyan)
   Shadow any website for offline viewing, with the JavaScript stripped out
 
-- **[lenucksi/aur-malware-check](https://github.com/lenucksi/aur-malware-check)** ⭐ 1,465
+- **[lenucksi/aur-malware-check](https://github.com/lenucksi/aur-malware-check)** ⭐ 1,493
   ![Shell](https://img.shields.io/badge/-Shell-lightgrey)
   Detection tools for the June 2026 atomic-lockfile AUR supply-chain attack. Consolidated from community Gists.
 
-- **[EEliberto/IPA-Download](https://github.com/EEliberto/IPA-Download)** ⭐ 1,021
-  ![Swift](https://img.shields.io/badge/-Swift-lightgrey)
-  一款用于安装 IPA 历史版本的工具，适用于获取旧版应用并自动捕获数据包。下载后，可直接通过 AirDrop 传输至 iPhone、iPad 上并安装并使用。
-
-- **[orange2ai/renwei-writing](https://github.com/orange2ai/renwei-writing)** ⭐ 774
-  ![None](https://img.shields.io/badge/-None-lightgrey)
-  人味儿写作 · An AI agent skill: edit people's words without erasing the person behind them
-
-- **[vercel/eve](https://github.com/vercel/eve)** ⭐ 737
+- **[vercel/eve](https://github.com/vercel/eve)** ⭐ 1,052
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   The Framework for Building Agents
 
-- **[nolangz/pixel2motion](https://github.com/nolangz/pixel2motion)** ⭐ 723
+- **[EEliberto/IPA-Download](https://github.com/EEliberto/IPA-Download)** ⭐ 1,048
+  ![Swift](https://img.shields.io/badge/-Swift-lightgrey)
+  一款用于安装 IPA 历史版本的工具，适用于获取旧版应用并自动捕获数据包。下载后，可直接通过 AirDrop 传输至 iPhone、iPad 上并安装并使用。
+
+- **[orange2ai/renwei-writing](https://github.com/orange2ai/renwei-writing)** ⭐ 797
+  ![None](https://img.shields.io/badge/-None-lightgrey)
+  人味儿写作 · An AI agent skill: edit people's words without erasing the person behind them
+
+- **[nolangz/pixel2motion](https://github.com/nolangz/pixel2motion)** ⭐ 758
   ![Python](https://img.shields.io/badge/-Python-blue)
   AI logo animation skill: turn raster logos into smooth SVG animation, animated HTML demos, GIF/video previews, and motion QA evidence.
 
-- **[alchaincyf/loop-engineering-orange-book](https://github.com/alchaincyf/loop-engineering-orange-book)** ⭐ 633
+- **[alchaincyf/loop-engineering-orange-book](https://github.com/alchaincyf/loop-engineering-orange-book)** ⭐ 655
   ![None](https://img.shields.io/badge/-None-lightgrey)
   别再问我什么是 Loop Engineering — 橙皮书系列。A plain-language guide to loop engineering (中文 + English PDF). Free.
 
 ### 📈 Monthly Trending
 
-- **[pewdiepie-archdaemon/odysseus](https://github.com/pewdiepie-archdaemon/odysseus)** ⭐ 73,116
+- **[pewdiepie-archdaemon/odysseus](https://github.com/pewdiepie-archdaemon/odysseus)** ⭐ 73,265
   ![Python](https://img.shields.io/badge/-Python-blue)
   Self-hosted AI workspace. 
 
-- **[DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail)** ⭐ 32,135
+- **[DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail)** ⭐ 33,967
   ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
   Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.
 
-- **[XiaomiMiMo/MiMo-Code](https://github.com/XiaomiMiMo/MiMo-Code)** ⭐ 9,605
+- **[XiaomiMiMo/MiMo-Code](https://github.com/XiaomiMiMo/MiMo-Code)** ⭐ 9,688
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   MiMo Code: Where Models and Agents Co-Evolve
 
-- **[anthropics/defending-code-reference-harness](https://github.com/anthropics/defending-code-reference-harness)** ⭐ 6,069
+- **[anthropics/defending-code-reference-harness](https://github.com/anthropics/defending-code-reference-harness)** ⭐ 6,076
   ![Python](https://img.shields.io/badge/-Python-blue)
   Skills for threat modeling, scanning, triage, patching, plus an autonomous scanning harness you can /customize
 
-- **[shadcn/improve](https://github.com/shadcn/improve)** ⭐ 5,238
+- **[shadcn/improve](https://github.com/shadcn/improve)** ⭐ 5,342
   ![None](https://img.shields.io/badge/-None-lightgrey)
   Use your most capable model to audit your codebase and write plans for cheaper models to execute.
 
-- **[AprilNEA/OpenLogi](https://github.com/AprilNEA/OpenLogi)** ⭐ 5,069
-  ![Rust](https://img.shields.io/badge/-Rust-brown)
-  ⚡️A native, local-first alternative to Logitech Options+, written in Rust 🦀 — remap buttons, DPI, and SmartShift over HID++. No account, no telemetry.
-
-- **[helloianneo/ian-xiaohei-illustrations](https://github.com/helloianneo/ian-xiaohei-illustrations)** ⭐ 5,039
+- **[helloianneo/ian-xiaohei-illustrations](https://github.com/helloianneo/ian-xiaohei-illustrations)** ⭐ 5,140
   ![None](https://img.shields.io/badge/-None-lightgrey)
   中文小黑怪诞正文配图生成 Skill | 16:9 白底手绘 | 少量红橙蓝批注 | Codex Skill
 
-- **[zgwl/chinese-buy-us-stock-guide](https://github.com/zgwl/chinese-buy-us-stock-guide)** ⭐ 4,655
+- **[AprilNEA/OpenLogi](https://github.com/AprilNEA/OpenLogi)** ⭐ 5,094
+  ![Rust](https://img.shields.io/badge/-Rust-brown)
+  ⚡️A native, local-first alternative to Logitech Options+, written in Rust 🦀 — remap buttons, DPI, and SmartShift over HID++. No account, no telemetry.
+
+- **[zgwl/chinese-buy-us-stock-guide](https://github.com/zgwl/chinese-buy-us-stock-guide)** ⭐ 4,681
   ![None](https://img.shields.io/badge/-None-lightgrey)
   美股指南
 
@@ -334,19 +330,34 @@ See [kubernetes-announce@](https://groups.google.com/forum/#!forum/kubernetes-an
 
 ### 📦 nodejs/node
 
-**[2026-06-01, Version 26.3.0 (Current), @aduh95](https://github.com/nodejs/node/releases/tag/v26.3.0)** `v26.3.0`
+**[2026-06-18, Version 26.3.1 (Current), @aduh95](https://github.com/nodejs/node/releases/tag/v26.3.1)** `v26.3.1`
 
-📅 Released: June 01, 2026
+📅 Released: June 18, 2026
 
 
 
+
+This is a security release.
 
 ### Notable Changes
 
-#### Potential changes to macOS Universal Binary availability
+* (CVE-2026-48618) tls: normalize hostname for server identity checks (Matteo Collina) – High
+* (CVE-2026-48933) crypto: guard WebCrypto cipher out...
 
-With Apple and its ecosystem progressively dropping support for Intel-based
-architectures, it has become apparent...
+---
+
+### 📦 rust-lang/rust
+
+**[Rust 1.96.0](https://github.com/rust-lang/rust/releases/tag/1.96.0)** `1.96.0`
+
+📅 Released: May 28, 2026
+
+<a id="1.96.0-Language"></a>
+
+## Language
+
+- [Allow passing `expr` metavariable to `cfg`](https://github.com/rust-lang/rust/pull/146961)
+- [Always coerce never types in tuple expressions](https://gith...
 
 ---
 
@@ -475,30 +486,30 @@ architectures, it has become apparent...
 
 | Skill | Status |
 |-------|--------|
-| Java | 🟢 Proficient |
-| Python | 🟢 Proficient |
-| JavaScript | 🟡 Learning |
+| Java | 🔴 Beginner |
+| Python | 🟡 Learning |
+| JavaScript | ⚪ Planned |
 | TypeScript | 🟢 Proficient |
-| Go | 🟢 Proficient |
+| Go | 🟡 Learning |
 
 ### Frameworks
 
 | Skill | Status |
 |-------|--------|
-| React | 🟢 Proficient |
-| Spring Boot | 🟡 Learning |
-| Django | 🟡 Learning |
+| React | 🔴 Beginner |
+| Spring Boot | 🟢 Proficient |
+| Django | 🔴 Beginner |
 | Node.js | ⚪ Planned |
-| Next.js | 🟢 Proficient |
+| Next.js | 🔴 Beginner |
 
 ### Cybersecurity
 
 | Skill | Status |
 |-------|--------|
-| Penetration Testing | ⚪ Planned |
+| Penetration Testing | 🔴 Beginner |
 | Web Security | 🟢 Proficient |
 | Network Security | ⚪ Planned |
-| OWASP | 🟢 Proficient |
+| OWASP | ⚪ Planned |
 
 ### Ai Ml
 
@@ -506,28 +517,28 @@ architectures, it has become apparent...
 |-------|--------|
 | Machine Learning | 🔴 Beginner |
 | Deep Learning | 🔴 Beginner |
-| NLP | ⚪ Planned |
-| Computer Vision | 🟢 Proficient |
-| TensorFlow | ⚪ Planned |
-| PyTorch | ⚪ Planned |
+| NLP | 🟡 Learning |
+| Computer Vision | ⚪ Planned |
+| TensorFlow | 🟡 Learning |
+| PyTorch | 🟢 Proficient |
 
 ### Devops
 
 | Skill | Status |
 |-------|--------|
-| Docker | 🔴 Beginner |
-| Kubernetes | 🟡 Learning |
+| Docker | 🟡 Learning |
+| Kubernetes | 🟢 Proficient |
 | CI/CD | ⚪ Planned |
-| AWS | 🔴 Beginner |
-| Azure | ⚪ Planned |
+| AWS | 🟢 Proficient |
+| Azure | 🔴 Beginner |
 
 ### Other
 
 | Skill | Status |
 |-------|--------|
-| Blockchain | 🟡 Learning |
-| Web3 | 🔴 Beginner |
-| Cloud Computing | 🟢 Proficient |
+| Blockchain | 🔴 Beginner |
+| Web3 | ⚪ Planned |
+| Cloud Computing | ⚪ Planned |
 
 </details>
 
