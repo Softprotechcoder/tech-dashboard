@@ -7,7 +7,7 @@
 ![AI & ML](https://img.shields.io/badge/-AI%20&%20ML-blue) ![CyberSecurity](https://img.shields.io/badge/-CyberSecurity-red) ![Full Stack Development](https://img.shields.io/badge/-Full%20Stack%20Development-green)
 
 [![Auto Update](https://img.shields.io/badge/Auto%20Update-Enabled-success)](https://github.com/yourusername/tech-dashboard/actions)
-[![Last Updated](https://img.shields.io/badge/Last%20Updated-June 17, 2026-blue)](https://github.com/yourusername/tech-dashboard)
+[![Last Updated](https://img.shields.io/badge/Last%20Updated-June 18, 2026-blue)](https://github.com/yourusername/tech-dashboard)
 
 *Automatically updated every 6 hours with the latest tech news, trending repositories, and learning resources.*
 
@@ -21,7 +21,7 @@
 |--------|-------|
 | 📰 Latest News Articles | 26 |
 | 🔥 Trending Repositories | 45 |
-| 🎯 Latest Releases | 10 |
+| 🎯 Latest Releases | 9 |
 | 🎯 Learning Goals | 4 |
 
 ## 🎯 Current Focus
@@ -46,72 +46,74 @@
 
 ### 📑 Hacker News
 
-- **[The hacker sent by Anthropic to calm the government's nerves about AI safety](https://www.wsj.com/tech/ai/anthropic-mythos-safety-nicholas-carlini-20bceaa3)**
-  *<p>Readable: <a href="https://www.wsj.com/tech/ai/anthropic-mythos-safety-nicholas-carlini-20bceaa3?st=gj26io&amp;reflink=desktopwebshare_permalink" rel="nofollow">https://www.wsj.com/tech/ai/anthropi...*
-  📅 Wed, 17 Jun 2026 19:22:02 +0000
+- **[Midjourney Full Body Ultrasonic CT Scanner](https://www.midjourney.com/medical/blogpost)**
+  *<p>Article URL: <a href="https://www.midjourney.com/medical/blogpost">https://www.midjourney.com/medical/blogpost</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=48579718">https...*
+  📅 Thu, 18 Jun 2026 02:08:59 +0000
 
-- **[AI chemist improves a challenging reaction in medicinal chemistry](https://openai.com/index/ai-chemist-improves-reaction/)**
-  *<p>Article URL: <a href="https://openai.com/index/ai-chemist-improves-reaction/">https://openai.com/index/ai-chemist-improves-reaction/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/i...*
-  📅 Wed, 17 Jun 2026 17:34:20 +0000
+- **[Midjourney Medical](https://www.midjourney.com/medical)**
+  *<p>Article URL: <a href="https://www.midjourney.com/medical">https://www.midjourney.com/medical</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=48579650">https://news.ycombinato...*
+  📅 Thu, 18 Jun 2026 01:59:51 +0000
 
-- **[The Competitive Moat That AI Can't Replicate](https://ghostinthedata.info/posts/2026/2026-06-13-human-connection-moat/)**
-  *<p>Article URL: <a href="https://ghostinthedata.info/posts/2026/2026-06-13-human-connection-moat/">https://ghostinthedata.info/posts/2026/2026-06-13-human-connection-moat/</a></p>
-<p>Comments URL: <a ...*
-  📅 Wed, 17 Jun 2026 17:14:21 +0000
+- **[Taxonomy of the Occlupanida (parasitoids on bread bag tags)](https://www.horg.com/horg/?page_id=921)**
+  *<p>Article URL: <a href="https://www.horg.com/horg/?page_id=921">https://www.horg.com/horg/?page_id=921</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=48578388">https://news.yc...*
+  📅 Wed, 17 Jun 2026 23:20:38 +0000
 
-- **[Trellis AI (YC W24)  hiring a product lead to build agents for healthcare access](https://www.ycombinator.com/companies/trellis-ai/jobs/Cg94htp-product-lead)**
-  *<p>Article URL: <a href="https://www.ycombinator.com/companies/trellis-ai/jobs/Cg94htp-product-lead">https://www.ycombinator.com/companies/trellis-ai/jobs/Cg94htp-product-lead</a></p>
-<p>Comments URL:...*
-  📅 Wed, 17 Jun 2026 17:00:02 +0000
+- **[Clojure Hosted on Go](https://github.com/glojurelang/glojure)**
+  *<p>Article URL: <a href="https://github.com/glojurelang/glojure">https://github.com/glojurelang/glojure</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=48578326">https://news.yc...*
+  📅 Wed, 17 Jun 2026 23:14:49 +0000
 
-- **[Show HN: An 8-bit live gamecast for baseball](https://ribbie.tv/watch)**
-  *<p>Hey HN, I built a website to watch live baseball games in an 8-bit broadcast. It takes live MLB data streams and converts them into near real-time pixel art gamecasts.<p>Been waiting to share this ...*
-  📅 Wed, 17 Jun 2026 16:44:15 +0000
+- **[Storied Colors – a catalogue of named colors](https://storiedcolors.com/)**
+  *<p>Article URL: <a href="https://storiedcolors.com/">https://storiedcolors.com/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=48577374">https://news.ycombinator.com/item?id=48...*
+  📅 Wed, 17 Jun 2026 21:49:03 +0000
 
-- **[Launch HN: Adam (YC W25) – Open-Source AI CAD](https://github.com/Adam-CAD/CADAM)**
-  *<p>Hey HN! I'm Zach from Adam (<a href="https://adam.new/">https://adam.new/</a>). We're building AI agents for mechanical CAD software. We’ve built the company on two fundamental beliefs:<p>- AI will...*
-  📅 Wed, 17 Jun 2026 16:14:04 +0000
+- **[Leaked financial docs show OpenAI is losing billions of dollars a year](https://arstechnica.com/ai/2026/06/leaked-financial-docs-show-openai-is-losing-billions-of-dollars-a-year/)**
+  *<p>Article URL: <a href="https://arstechnica.com/ai/2026/06/leaked-financial-docs-show-openai-is-losing-billions-of-dollars-a-year/">https://arstechnica.com/ai/2026/06/leaked-financial-docs-show-opena...*
+  📅 Wed, 17 Jun 2026 21:31:35 +0000
 
 ### 📑 TechCrunch
 
-- **[FTC lawsuit reveals how subscription scam networks evade app store enforcement](https://techcrunch.com/2026/06/17/ftc-lawsuit-reveals-how-subscription-scam-networks-evade-app-store-enforcement/)**
-  *A new FTC lawsuit reveals how sophisticated subscription app operators can allegedly use shell companies and payment infrastructure to stay active on app stores despite mounting consumer complaints....*
-  📅 Wed, 17 Jun 2026 19:46:16 +0000
+- **[How to turn off AI in your Google Docs](https://techcrunch.com/2026/06/17/how-to-turn-off-ai-in-your-google-docs/)**
+  *Here's what you need to do to get those pesky "write with Gemini" pop-ups to go away....*
+  📅 Thu, 18 Jun 2026 01:23:51 +0000
 
-- **[World leaders want American AI. They just don’t want America to be able to turn it off.](https://techcrunch.com/2026/06/17/world-leaders-want-american-ai-they-just-dont-want-america-to-be-able-to-turn-it-off/)**
-  *French President Macron and Indian PM Modi raised alarms at the G7 summit that the U.S. could cut off access to American AI overnight  — a fear the Anthropic blackout just made real....*
-  📅 Wed, 17 Jun 2026 19:01:19 +0000
+- **[AI is hurting Apple in more ways than one: it may force iPhone price increases](https://techcrunch.com/2026/06/17/ai-is-hurting-apple-in-more-ways-than-one-it-may-force-iphone-price-increases/)**
+  *CEO Tim Cook said in a recent interview that the situation is "unsustainable."...*
+  📅 Wed, 17 Jun 2026 23:28:21 +0000
 
-- **[Anthropic becomes first AI startup to join the Frontier carbon removal coalition](https://techcrunch.com/2026/06/17/anthropic-becomes-first-ai-startup-to-join-the-frontier-carbon-removal-coalition/)**
-  *Anthropic has joined the Frontier coalition, which received another $915M in pledges to fund carbon removal projects....*
-  📅 Wed, 17 Jun 2026 18:30:56 +0000
+- **[Chi-Hua Chien saw Facebook coming — now he says the real AI winners won’t be selling AI](https://techcrunch.com/2026/06/17/chi-hua-chien-saw-facebook-coming-now-he-says-the-real-ai-winners-wont-be-selling-ai/)**
+  *Chi-Hua Chien has spent more than two decades as a venture capitalist, but he thinks like a cultural anthropologist....*
+  📅 Wed, 17 Jun 2026 21:30:50 +0000
 
-- **[Cybercriminals allegedly hacked tens of thousands of Fortinet firewalls used by major companies all over the world](https://techcrunch.com/2026/06/17/cybercriminals-allegedly-hacked-tens-of-thousands-of-fortinet-firewalls-used-by-major-companies-all-over-the-world/)**
-  *An alleged Russian-speaking group of cybercriminals is reportedly compromising and targeting several major companies that use Fortinet Firewalls and VPNs through previously known passwords....*
-  📅 Wed, 17 Jun 2026 18:20:06 +0000
+- **[Roelof Botha joins SpaceX’s board of directors](https://techcrunch.com/2026/06/17/roelof-botha-joins-spacexs-board-of-directors/)**
+  *The former Sequoia Capital leader is filling an "existing vacancy" on SpaceX's board, days after the company went public in the largest IPO ever....*
+  📅 Wed, 17 Jun 2026 20:32:52 +0000
 
-- **[Social media’s next evolution: user-controlled algorithms](https://techcrunch.com/2026/06/17/social-medias-next-evolution-user-controlled-algorithms/)**
-  *Social media feeds are becoming more customizable as platforms like Threads, Instagram, and TikTok introduce tools that let users directly influence the algorithms powering their recommendations....*
-  📅 Wed, 17 Jun 2026 18:19:48 +0000
+- **[After unveiling ridiculously expensive AR glasses, Snap’s stock takes a dive](https://techcrunch.com/2026/06/17/after-unveiling-ridiculously-expensive-ar-glasses-snaps-stock-takes-a-dive/)**
+  *Snap's long-awaited smart glasses debut hasn't exactly done wonders for the company's stock....*
+  📅 Wed, 17 Jun 2026 20:24:28 +0000
 
-- **[World model maker Odyssey nabs $1.45B valuation backed by Amazon and other big names](https://techcrunch.com/2026/06/17/world-model-maker-odyssey-nabs-1-45b-valuation-backed-by-amazon-and-other-big-names/)**
-  *World models are the next big thing in AI beyond LLMs and, with this round, Odyssey has cemented itself as one of the startups to watch....*
-  📅 Wed, 17 Jun 2026 17:43:07 +0000
+- **[NEA’s Tiffany Luck says enterprises are still figuring out their AI ROI](https://techcrunch.com/video/neas-tiffany-luck-says-enterprises-are-still-figuring-out-their-ai-roi/)**
+  *Tokenmaxxing&#160;was&#160;the hottest trend in Silicon Valley earlier this year, with CEOs encouraging employees to push AI usage as far&#160;as it would go.&#160;Then the bill came due. Uber&#160;re...*
+  📅 Wed, 17 Jun 2026 20:17:38 +0000
 
 ### 📑 Dev.to
 
-- **[How I Generated a 100-Million-Pixel Julia Set on a 4 GB RAM PC Using Python](https://dev.to/divyanshusinha136/how-i-generated-a-100-million-pixel-julia-set-on-a-4-gb-ram-pc-using-python-1e2j)**
-  *<p>Fractals have fascinated programmers for decades.</p>
+- **[Network Protocols for Network Management](https://dev.to/narendran_solaisridharan/network-protocols-for-network-management-2ead)**
+  *<p>Here is the fully consolidated, comprehensive master list of network protocols and standards dedicated strictly to Configuration, Monitoring, Reporting, and Troubleshooting.</p>
 
-<p>From the Mandelbrot Set to Julia Sets, these mathematical structures can generate breathtaking patterns from surprisingly simple equations....*
-  📅 Wed, 17 Jun 2026 19:52:22 +0000
+<p>In reality ever...*
+  📅 Thu, 18 Jun 2026 02:20:25 +0000
 
-- **[How I Saved My Bootcamp Project Budget Using AI Data Extraction (A...](https://dev.to/loyaldash/how-i-saved-my-bootcamp-project-budget-using-ai-data-extraction-a-c1k)**
-  *<p>Honestly, how I Saved My Bootcamp Project Budget Using AI Data Extraction (A Complete Guide From Someone Who Just Figured It Out)</p>
+- **[Lexicon: AI-powered terminal dictionary you’ll actually enjoy using](https://dev.to/nersisiian/lexicon-ai-powered-terminal-dictionary-youll-actually-enjoy-using-27c0)**
+  *<p>Ever found yourself breaking your flow just to Google a word?</p>
 
-<p>I have to be honest with you. Three weeks ago, I had no ide...*
-  📅 Wed, 17 Jun 2026 19:52:08 +0000
+<p>As a developer, I spend most of my day in the terminal. Jumping to a browser just to look up a definition always felt like an u...*
+  📅 Thu, 18 Jun 2026 02:19:57 +0000
 
 </details>
 
@@ -119,103 +121,103 @@
 
 ### 📈 Daily Trending
 
-- **[Plaer1/junction](https://github.com/Plaer1/junction)** ⭐ 498
-  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
-  VS Code chat sidebar for local AI coding agents
-
-- **[ApothecarySeize/Maya-2026-Animation-Workflow](https://github.com/ApothecarySeize/Maya-2026-Animation-Workflow)** ⭐ 212
+- **[DecaGrenadier/DLL-Repair-Tool](https://github.com/DecaGrenadier/DLL-Repair-Tool)** ⭐ 10
   ![None](https://img.shields.io/badge/-None-lightgrey)
-  None
+  Fix "MSVCP140.dll is missing" and "VCRUNTIME140.dll not found" errors on Windows 10/11. Repair d3dx9_43.dll, xinput1_3.dll and 50+ missing DLL files in one click. Installs all Visual C++ Redistributable packages, DirectX Runtime and .NET Framework automatically.
 
-- **[Tyxy-R/codex-referral-risk-research](https://github.com/Tyxy-R/codex-referral-risk-research)** ⭐ 151
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  None
-
-- **[aresyn/codex-control-plane-mcp](https://github.com/aresyn/codex-control-plane-mcp)** ⭐ 76
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  Durable MCP control plane for long-running Codex Desktop tasks
-
-- **[world-action-models/awesome-world-action-models](https://github.com/world-action-models/awesome-world-action-models)** ⭐ 65
+- **[NoonKnightDawn/Memory-Leak-Fixer](https://github.com/NoonKnightDawn/Memory-Leak-Fixer)** ⭐ 10
   ![None](https://img.shields.io/badge/-None-lightgrey)
-  None
+  Fix high RAM usage and memory leaks on Windows 10/11 -- detect leaking processes, clear standby memory, fix Desktop Window Manager memory leak (dwm.exe), resolve "Your computer is low on memory" error. Fix PC getting slower over time.
 
-- **[m18809121955/11](https://github.com/m18809121955/11)** ⭐ 48
+- **[EagleEmbroider/Microphone-Fix-Tool](https://github.com/EagleEmbroider/Microphone-Fix-Tool)** ⭐ 10
   ![None](https://img.shields.io/badge/-None-lightgrey)
-  None
+  Fix microphone not working on Windows 10/11 -- mic not detected, too quiet, not working in Zoom Teams Discord. Fix privacy settings blocking mic, microphone boost missing, audio input after Windows Update. USB, Bluetooth, built-in.
 
-- **[nzaki-dev/dialog](https://github.com/nzaki-dev/dialog)** ⭐ 32
-  ![HTML](https://img.shields.io/badge/-HTML-lightgrey)
-  the dialog.org website plain html of 16 Jun 2026
-
-- **[webdown-a/shopify-editions-3d-site](https://github.com/webdown-a/shopify-editions-3d-site)** ⭐ 31
+- **[fastpoemstronghold/Disk-Usage-100-Fix](https://github.com/fastpoemstronghold/Disk-Usage-100-Fix)** ⭐ 9
   ![None](https://img.shields.io/badge/-None-lightgrey)
-  Shopify Editions 3D site Codex skill
+  Fix 100% disk usage on Windows 10/11 -- Task Manager shows disk at 100 for no reason. Disable SysMain Superfetch, stop Windows Search indexing, fix AHCI driver, optimize page file. Fix slow PC, disk usage stuck at 100, hard drive constantly running. SSD and HDD.
+
+- **[ModuleQuality40/Screen-Flickering-Fix](https://github.com/ModuleQuality40/Screen-Flickering-Fix)** ⭐ 9
+  ![None](https://img.shields.io/badge/-None-lightgrey)
+  Fix screen flickering and "display driver stopped responding" on Windows 10/11. Repair monitor flashing, screen tearing, VIDEO_TDR_FAILURE, black screen flashes. Fix display driver crashes for NVIDIA, AMD, Intel. Screen flashing on and off fix.
+
+- **[EnsignPilotSucceed/Headphone-Fix-Tool](https://github.com/EnsignPilotSucceed/Headphone-Fix-Tool)** ⭐ 9
+  ![None](https://img.shields.io/badge/-None-lightgrey)
+  Fix headphones not working on Windows 10/11 -- no sound in headphones, headset not detected, AirPods no audio, USB headset not recognized, Bluetooth headphones connected but no sound. Fix Realtek jack detection, gaming headset mic, audio crackling and one side not working.
+
+- **[DemolisherDeem/BSOD-Repair-Tool](https://github.com/DemolisherDeem/BSOD-Repair-Tool)** ⭐ 8
+  ![None](https://img.shields.io/badge/-None-lightgrey)
+  Fix Blue Screen of Death (BSOD) on Windows 10/11 -- repair IRQL_NOT_LESS_OR_EQUAL, CRITICAL_PROCESS_DIED, VIDEO_TDR_FAILURE (nvlddmkm.sys) and all stop codes. Blue screen fix tool with SFC, DISM, crash dump analysis and driver repair.
+
+- **[CrimsonDefender/Audio-Driver-Fixer](https://github.com/CrimsonDefender/Audio-Driver-Fixer)** ⭐ 8
+  ![None](https://img.shields.io/badge/-None-lightgrey)
+  Fix no sound and "No Audio Output Device is installed" on Windows 10/11. Repair Realtek HD Audio driver, fix audio not working after Windows Update, crackling sound, microphone not working. Supports Realtek, NVIDIA, AMD, Intel.
 
 ### 📈 Weekly Trending
 
-- **[DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail)** ⭐ 30,910
+- **[DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail)** ⭐ 32,135
   ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
   Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.
 
-- **[omnigent-ai/omnigent](https://github.com/omnigent-ai/omnigent)** ⭐ 3,436
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom agents — swap harnesses without rewriting, enforce policies and sandboxing, and collaborate in real time from any device.
-
-- **[tamnd/kage](https://github.com/tamnd/kage)** ⭐ 1,846
+- **[tamnd/kage](https://github.com/tamnd/kage)** ⭐ 1,866
   ![Go](https://img.shields.io/badge/-Go-cyan)
   Shadow any website for offline viewing, with the JavaScript stripped out
 
-- **[lenucksi/aur-malware-check](https://github.com/lenucksi/aur-malware-check)** ⭐ 1,444
+- **[lenucksi/aur-malware-check](https://github.com/lenucksi/aur-malware-check)** ⭐ 1,465
   ![Shell](https://img.shields.io/badge/-Shell-lightgrey)
   Detection tools for the June 2026 atomic-lockfile AUR supply-chain attack. Consolidated from community Gists.
 
-- **[EEliberto/IPA-Download](https://github.com/EEliberto/IPA-Download)** ⭐ 987
+- **[EEliberto/IPA-Download](https://github.com/EEliberto/IPA-Download)** ⭐ 1,021
   ![Swift](https://img.shields.io/badge/-Swift-lightgrey)
   一款用于安装 IPA 历史版本的工具，适用于获取旧版应用并自动捕获数据包。下载后，可直接通过 AirDrop 传输至 iPhone、iPad 上并安装并使用。
 
-- **[loc567/loc567](https://github.com/loc567/loc567)** ⭐ 962
-  ![C](https://img.shields.io/badge/-C-lightgrey)
-  loc567 是一款完全开源免费的纯网页端iOS模拟定位工具。在线体验地址：https://loc567.com
-
-- **[orange2ai/renwei-writing](https://github.com/orange2ai/renwei-writing)** ⭐ 769
+- **[orange2ai/renwei-writing](https://github.com/orange2ai/renwei-writing)** ⭐ 774
   ![None](https://img.shields.io/badge/-None-lightgrey)
   人味儿写作 · An AI agent skill: edit people's words without erasing the person behind them
 
-- **[nolangz/pixel2motion](https://github.com/nolangz/pixel2motion)** ⭐ 702
+- **[vercel/eve](https://github.com/vercel/eve)** ⭐ 737
+  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
+  The Framework for Building Agents
+
+- **[nolangz/pixel2motion](https://github.com/nolangz/pixel2motion)** ⭐ 723
   ![Python](https://img.shields.io/badge/-Python-blue)
   AI logo animation skill: turn raster logos into smooth SVG animation, animated HTML demos, GIF/video previews, and motion QA evidence.
 
+- **[alchaincyf/loop-engineering-orange-book](https://github.com/alchaincyf/loop-engineering-orange-book)** ⭐ 633
+  ![None](https://img.shields.io/badge/-None-lightgrey)
+  别再问我什么是 Loop Engineering — 橙皮书系列。A plain-language guide to loop engineering (中文 + English PDF). Free.
+
 ### 📈 Monthly Trending
 
-- **[pewdiepie-archdaemon/odysseus](https://github.com/pewdiepie-archdaemon/odysseus)** ⭐ 72,986
+- **[pewdiepie-archdaemon/odysseus](https://github.com/pewdiepie-archdaemon/odysseus)** ⭐ 73,116
   ![Python](https://img.shields.io/badge/-Python-blue)
   Self-hosted AI workspace. 
 
-- **[DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail)** ⭐ 30,910
+- **[DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail)** ⭐ 32,135
   ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
   Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.
 
-- **[XiaomiMiMo/MiMo-Code](https://github.com/XiaomiMiMo/MiMo-Code)** ⭐ 9,560
+- **[XiaomiMiMo/MiMo-Code](https://github.com/XiaomiMiMo/MiMo-Code)** ⭐ 9,605
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   MiMo Code: Where Models and Agents Co-Evolve
 
-- **[anthropics/defending-code-reference-harness](https://github.com/anthropics/defending-code-reference-harness)** ⭐ 6,063
+- **[anthropics/defending-code-reference-harness](https://github.com/anthropics/defending-code-reference-harness)** ⭐ 6,069
   ![Python](https://img.shields.io/badge/-Python-blue)
   Skills for threat modeling, scanning, triage, patching, plus an autonomous scanning harness you can /customize
 
-- **[shadcn/improve](https://github.com/shadcn/improve)** ⭐ 5,173
+- **[shadcn/improve](https://github.com/shadcn/improve)** ⭐ 5,238
   ![None](https://img.shields.io/badge/-None-lightgrey)
   Use your most capable model to audit your codebase and write plans for cheaper models to execute.
 
-- **[AprilNEA/OpenLogi](https://github.com/AprilNEA/OpenLogi)** ⭐ 5,044
+- **[AprilNEA/OpenLogi](https://github.com/AprilNEA/OpenLogi)** ⭐ 5,069
   ![Rust](https://img.shields.io/badge/-Rust-brown)
   ⚡️A native, local-first alternative to Logitech Options+, written in Rust 🦀 — remap buttons, DPI, and SmartShift over HID++. No account, no telemetry.
 
-- **[helloianneo/ian-xiaohei-illustrations](https://github.com/helloianneo/ian-xiaohei-illustrations)** ⭐ 5,015
+- **[helloianneo/ian-xiaohei-illustrations](https://github.com/helloianneo/ian-xiaohei-illustrations)** ⭐ 5,039
   ![None](https://img.shields.io/badge/-None-lightgrey)
   中文小黑怪诞正文配图生成 Skill | 16:9 白底手绘 | 少量红橙蓝批注 | Codex Skill
 
-- **[zgwl/chinese-buy-us-stock-guide](https://github.com/zgwl/chinese-buy-us-stock-guide)** ⭐ 4,651
+- **[zgwl/chinese-buy-us-stock-guide](https://github.com/zgwl/chinese-buy-us-stock-guide)** ⭐ 4,655
   ![None](https://img.shields.io/badge/-None-lightgrey)
   美股指南
 
@@ -249,14 +251,14 @@ https://code.visualstudio.com/updates/v1_125...
 
 ### 📦 angular/angular
 
-**[22.0.1](https://github.com/angular/angular/releases/tag/v22.0.1)** `v22.0.1`
+**[22.0.2](https://github.com/angular/angular/releases/tag/v22.0.2)** `v22.0.2`
 
-📅 Released: June 10, 2026
+📅 Released: June 17, 2026
 
 ### common
 | Commit | Description |
 | -- | -- |
-| [![fix - c4b5fa3c92](https://img.shields.io/badge/c4b5fa3c92-fix-green)](https://github.com/angular/angular/commit/c4b5fa3c9263ac127f5053c5a03dd4b6313...
+| [![fix - 94ea403563](https://img.shields.io/badge/94ea403563-fix-green)](https://github.com/angular/angular/commit/94ea4035638db37e938831e3cb0e9562ca3...
 
 ---
 
@@ -293,17 +295,13 @@ Please refer...
 
 ### 📦 pytorch/pytorch
 
-**[PyTorch 2.12.0 Release](https://github.com/pytorch/pytorch/releases/tag/v2.12.0)** `v2.12.0`
+**[PyTorch 2.12.1 Release, bug fix release](https://github.com/pytorch/pytorch/releases/tag/v2.12.1)** `v2.12.1`
 
-📅 Released: May 13, 2026
+📅 Released: June 18, 2026
 
-# PyTorch 2.12.0 Release Notes
-
-- [Highlights](#highlights)
-- [Backwards Incompatible Changes](#backwards-incompatible-changes)
-- [Deprecations](#deprecations)
-- [New Features](#new-features)
-- ...
+This release is meant to fix the following regressions and silent correctness issues:
+## Regression fixes
+- Fix nondeterministic outputs in test_batch_invariance with FLASH_ATTN on NVIDIA B200 GPUs ...
 
 ---
 
@@ -349,21 +347,6 @@ See [kubernetes-announce@](https://groups.google.com/forum/#!forum/kubernetes-an
 
 With Apple and its ecosystem progressively dropping support for Intel-based
 architectures, it has become apparent...
-
----
-
-### 📦 rust-lang/rust
-
-**[Rust 1.96.0](https://github.com/rust-lang/rust/releases/tag/1.96.0)** `1.96.0`
-
-📅 Released: May 28, 2026
-
-<a id="1.96.0-Language"></a>
-
-## Language
-
-- [Allow passing `expr` metavariable to `cfg`](https://github.com/rust-lang/rust/pull/146961)
-- [Always coerce never types in tuple expressions](https://gith...
 
 ---
 
@@ -493,39 +476,39 @@ architectures, it has become apparent...
 | Skill | Status |
 |-------|--------|
 | Java | 🟢 Proficient |
-| Python | 🟡 Learning |
-| JavaScript | 🟢 Proficient |
-| TypeScript | 🔴 Beginner |
-| Go | 🟡 Learning |
+| Python | 🟢 Proficient |
+| JavaScript | 🟡 Learning |
+| TypeScript | 🟢 Proficient |
+| Go | 🟢 Proficient |
 
 ### Frameworks
 
 | Skill | Status |
 |-------|--------|
 | React | 🟢 Proficient |
-| Spring Boot | 🔴 Beginner |
-| Django | 🔴 Beginner |
-| Node.js | 🔴 Beginner |
-| Next.js | ⚪ Planned |
+| Spring Boot | 🟡 Learning |
+| Django | 🟡 Learning |
+| Node.js | ⚪ Planned |
+| Next.js | 🟢 Proficient |
 
 ### Cybersecurity
 
 | Skill | Status |
 |-------|--------|
-| Penetration Testing | 🔴 Beginner |
+| Penetration Testing | ⚪ Planned |
 | Web Security | 🟢 Proficient |
-| Network Security | 🟡 Learning |
-| OWASP | 🟡 Learning |
+| Network Security | ⚪ Planned |
+| OWASP | 🟢 Proficient |
 
 ### Ai Ml
 
 | Skill | Status |
 |-------|--------|
-| Machine Learning | ⚪ Planned |
-| Deep Learning | 🟡 Learning |
+| Machine Learning | 🔴 Beginner |
+| Deep Learning | 🔴 Beginner |
 | NLP | ⚪ Planned |
 | Computer Vision | 🟢 Proficient |
-| TensorFlow | 🟡 Learning |
+| TensorFlow | ⚪ Planned |
 | PyTorch | ⚪ Planned |
 
 ### Devops
@@ -533,18 +516,18 @@ architectures, it has become apparent...
 | Skill | Status |
 |-------|--------|
 | Docker | 🔴 Beginner |
-| Kubernetes | ⚪ Planned |
-| CI/CD | 🟡 Learning |
-| AWS | 🟡 Learning |
-| Azure | 🟡 Learning |
+| Kubernetes | 🟡 Learning |
+| CI/CD | ⚪ Planned |
+| AWS | 🔴 Beginner |
+| Azure | ⚪ Planned |
 
 ### Other
 
 | Skill | Status |
 |-------|--------|
-| Blockchain | ⚪ Planned |
-| Web3 | ⚪ Planned |
-| Cloud Computing | ⚪ Planned |
+| Blockchain | 🟡 Learning |
+| Web3 | 🔴 Beginner |
+| Cloud Computing | 🟢 Proficient |
 
 </details>
 
@@ -562,7 +545,7 @@ This dashboard is automatically updated every 6 hours using GitHub Actions. The 
 
 <div align="center">
 
-**Last Updated:** June 17, 2026
+**Last Updated:** June 18, 2026
 
 Made with ❤️ and automated with GitHub Actions
 
