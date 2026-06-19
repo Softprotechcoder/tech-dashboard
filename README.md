@@ -46,6 +46,26 @@
 
 ### 📑 Hacker News
 
+- **[Project Valhalla, Explained: How a Decade of Work Arrives in JDK 28](https://www.jvm-weekly.com/p/project-valhalla-explained-how-a)**
+  *<p>Article URL: <a href="https://www.jvm-weekly.com/p/project-valhalla-explained-how-a">https://www.jvm-weekly.com/p/project-valhalla-explained-how-a</a></p>
+<p>Comments URL: <a href="https://news.yco...*
+  📅 Fri, 19 Jun 2026 06:35:57 +0000
+
+- **[So You Want to Define a Well-Known URI](https://mnot.net/blog/2026/well_known_uris)**
+  *<p>Article URL: <a href="https://mnot.net/blog/2026/well_known_uris">https://mnot.net/blog/2026/well_known_uris</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=48595331">https:/...*
+  📅 Fri, 19 Jun 2026 06:05:01 +0000
+
+- **[Fable Converted Pylint to Rust](https://pypi.org/project/prylint/)**
+  *<p>Article URL: <a href="https://pypi.org/project/prylint/">https://pypi.org/project/prylint/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=48594733">https://news.ycombinator....*
+  📅 Fri, 19 Jun 2026 04:21:07 +0000
+
+- **[Ice water drowning survival of young patient (2025)](https://www.jacc.org/doi/10.1016/j.jaccas.2025.104885)**
+  *<p>Article URL: <a href="https://www.jacc.org/doi/10.1016/j.jaccas.2025.104885">https://www.jacc.org/doi/10.1016/j.jaccas.2025.104885</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/ite...*
+  📅 Fri, 19 Jun 2026 03:50:25 +0000
+
 - **[Datasette Apps: Host custom HTML applications inside Datasette](https://simonwillison.net/2026/Jun/18/datasette-apps/)**
   *<p>Article URL: <a href="https://simonwillison.net/2026/Jun/18/datasette-apps/">https://simonwillison.net/2026/Jun/18/datasette-apps/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/ite...*
@@ -56,26 +76,11 @@
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=48593694">https://n...*
   📅 Fri, 19 Jun 2026 01:01:13 +0000
 
-- **[Update on Ocean Observatories Initiative](https://www.nsf.gov/news/update-ocean-observatories-initiative)**
-  *<p>Article URL: <a href="https://www.nsf.gov/news/update-ocean-observatories-initiative">https://www.nsf.gov/news/update-ocean-observatories-initiative</a></p>
-<p>Comments URL: <a href="https://news.y...*
-  📅 Thu, 18 Jun 2026 23:41:48 +0000
-
-- **[Zero-Touch OAuth for MCP](https://blog.modelcontextprotocol.io/posts/enterprise-managed-auth/)**
-  *<p>Article URL: <a href="https://blog.modelcontextprotocol.io/posts/enterprise-managed-auth/">https://blog.modelcontextprotocol.io/posts/enterprise-managed-auth/</a></p>
-<p>Comments URL: <a href="http...*
-  📅 Thu, 18 Jun 2026 21:54:10 +0000
-
-- **[Show HN: Are You in the Weights?](https://www.intheweights.com/)**
-  *<p>With more traffic moving off-web and into LLMs, I got curious about what traces we leave "in the weights". My design partner and I built a site in the past few weeks that checks recognition across ...*
-  📅 Thu, 18 Jun 2026 20:49:03 +0000
-
-- **[Zork name origin got an update on Wikipedia](https://www.dpolakovic.space/blogs/zork-part2#update)**
-  *<p>Article URL: <a href="https://www.dpolakovic.space/blogs/zork-part2#update">https://www.dpolakovic.space/blogs/zork-part2#update</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?...*
-  📅 Thu, 18 Jun 2026 20:27:28 +0000
-
 ### 📑 TechCrunch
+
+- **[The US says ASML’s top chip tool may be in China. ASML says it isn’t](https://techcrunch.com/2026/06/19/the-us-says-asmls-top-chip-tool-may-be-in-china-asml-says-it-isnt/)**
+  *There's a commercial logic that cuts against the idea that ASML would risk its export license to arm a Chinese customer....*
+  📅 Fri, 19 Jun 2026 07:59:12 +0000
 
 - **[Telegram ban in India sparks a rush to VPNs, rival apps](https://techcrunch.com/2026/06/18/telegram-ban-in-india-sparks-a-rush-to-vpns-rival-apps/)**
   *Telegram argues India should block specific content, not an entire platform used by millions....*
@@ -97,23 +102,16 @@
   *OpenAI is bulking up before its IPO, landing Transformer co-inventor Noam Shazeer from Google DeepMind and former Trump AI policy official Dean Ball in the same week....*
   📅 Thu, 18 Jun 2026 19:59:22 +0000
 
-- **[The 11 standout startups from YC’s Demo Day, according to VCs](https://techcrunch.com/2026/06/18/the-11-standout-startups-from-ycs-demo-day-according-to-vcs/)**
-  *TechCrunch spoke to investors to find the hottest startups in the Spring 2026 YC batch. Some of them commanded valuations of over $175 million, VCs said....*
-  📅 Thu, 18 Jun 2026 19:52:19 +0000
-
 ### 📑 Dev.to
 
-- **[Dify Agentic Workflow Platform: 5 Hidden Uses of the 145K-Star Open Source AI Stack](https://dev.to/_cbd692d476c5faf3b61bcf/dify-agentic-workflow-platform-5-hidden-uses-of-the-145k-star-open-source-ai-stack-56ai)**
-  *<p>What if you could build a production-ready AI agent workflow in 10 lines of YAML — and have it handle retries, observability, and multi-model routing out of the box?</p>
+- **[PDF xref Table Forensics: Detect Edits From File Structure](https://dev.to/iurii_rogulia/pdf-xref-table-forensics-detect-edits-from-file-structure-3n7i)**
+  *<blockquote>
+<p>Originally published at <a href="https://htpbe.tech/blog/pdf-xref-table-forensics" rel="noopener noreferrer">htpbe.tech</a>. The version on htpbe.tech stays in sync with the latest det...*
+  📅 Fri, 19 Jun 2026 10:00:43 +0000
 
-<p>Dify is an open-source ...*
-  📅 Fri, 19 Jun 2026 03:20:12 +0000
-
-- **[Dify 的 5 个隐藏用法：14.5 万 Star 的开源 AI 工作流平台](https://dev.to/_cbd692d476c5faf3b61bcf/dify-de-5-ge-yin-cang-yong-fa-145-mo-star-de-kai-yuan-ai-gong-zuo-liu-ping-tai-3bc1)**
-  *<p>如果你能用 10 行 YAML 构建一个生产级的 AI Agent 工作流——并且自带重试、可观测性和多模型路由——你会怎么做？</p>
-
-<p>Dify 是一个开源的 LLM 应用开发平台，拥有 145,764 个 GitHub Stars、22,915 个 Fork、460 多位贡献者。它刚刚发布了 v1.14.2（2026 年 5 月），包含安全加固、Agent 基础架构和工作流可靠性...*
-  📅 Fri, 19 Jun 2026 03:20:05 +0000
+- **[llms.txt for AI Discoverability: Should You Add It?](https://dev.to/iurii_rogulia/llmstxt-for-ai-discoverability-should-you-add-it-2hd0)**
+  *<p>You put a robots.txt on your site to tell search crawlers what to ignore. You add a sitemap.xml to help them find everything. These standards work because crawlers visit your site repeatedly — on a...*
+  📅 Fri, 19 Jun 2026 10:00:40 +0000
 
 </details>
 
@@ -121,57 +119,57 @@
 
 ### 📈 Daily Trending
 
-- **[alfaoz/opencode-see-image](https://github.com/alfaoz/opencode-see-image)** ⭐ 5
+- **[LineTonePresent/SimpleChest](https://github.com/LineTonePresent/SimpleChest)** ⭐ 25
+  ![None](https://img.shields.io/badge/-None-lightgrey)
+  SimpleChest!
+
+- **[joeseesun/qiaomu-llm-mcp](https://github.com/joeseesun/qiaomu-llm-mcp)** ⭐ 22
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  把多模型 Provider、本地密钥和 HeavySkill 讨论统一成 MCP 网关 | Local MCP gateway for multi-provider LLM routing, secrets, and HeavySkill discussions.
+
+- **[alfaoz/opencode-see-image](https://github.com/alfaoz/opencode-see-image)** ⭐ 17
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   give non-vision models the ability to see images by routing images to a vision capable model
 
-- **[LilMGenius/skills](https://github.com/LilMGenius/skills)** ⭐ 3
+- **[AI4Maths/awesome-interactive-theorem-prover](https://github.com/AI4Maths/awesome-interactive-theorem-prover)** ⭐ 15
   ![None](https://img.shields.io/badge/-None-lightgrey)
-  Skills for Fake Engineers. Bent from my .claude directory.
+  A curated list of awesome interactive theorem prover frameworks
 
-- **[jwangkun/loops](https://github.com/jwangkun/loops)** ⭐ 3
+- **[rusmanaid/getcontact](https://github.com/rusmanaid/getcontact)** ⭐ 9
+  ![PHP](https://img.shields.io/badge/-PHP-lightgrey)
+  Getcontact Cek
+
+- **[AndrewPrifer/swift-web-bridge](https://github.com/AndrewPrifer/swift-web-bridge)** ⭐ 8
+  ![Swift](https://img.shields.io/badge/-Swift-lightgrey)
+  None
+
+- **[NekyuuYa/SEU-Door](https://github.com/NekyuuYa/SEU-Door)** ⭐ 6
+  ![Kotlin](https://img.shields.io/badge/-Kotlin-lightgrey)
+  东南大学宿舍门禁 NFC/BLE 开门 Android 客户端
+
+- **[jwangkun/loops](https://github.com/jwangkun/loops)** ⭐ 6
   ![Python](https://img.shields.io/badge/-Python-blue)
   Loop（循环） 是一种用于AI编程助手（如 Claude Code、Cursor）的自动化工作流指令集。它通过"执行→检查→修复→重复"的闭环模式，让AI能够自主完成开发任务，直到达到预设目标。
 
-- **[ExistentialRobotics/SERF-mapping](https://github.com/ExistentialRobotics/SERF-mapping)** ⭐ 2
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  None
-
-- **[AndrewPrifer/swift-web-bridge](https://github.com/AndrewPrifer/swift-web-bridge)** ⭐ 2
-  ![Swift](https://img.shields.io/badge/-Swift-lightgrey)
-  None
-
-- **[Judasbloodyishere/securenet-monitor](https://github.com/Judasbloodyishere/securenet-monitor)** ⭐ 2
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  Advanced Network Monitoring & Vulnerability Scanner - Real-time dashboard, automated scanning, CVE detection, ML-based anomaly scoring
-
-- **[Tachoviendo/borrerOS](https://github.com/Tachoviendo/borrerOS)** ⭐ 2
-  ![None](https://img.shields.io/badge/-None-lightgrey)
-  This is the best linux distro of the world. 
-
-- **[lidiankelly21/BaxterBraids](https://github.com/lidiankelly21/BaxterBraids)** ⭐ 2
-  ![None](https://img.shields.io/badge/-None-lightgrey)
-  None
-
 ### 📈 Weekly Trending
 
-- **[tamnd/kage](https://github.com/tamnd/kage)** ⭐ 2,014
+- **[tamnd/kage](https://github.com/tamnd/kage)** ⭐ 2,029
   ![Go](https://img.shields.io/badge/-Go-cyan)
   Shadow any website for offline viewing, with the JavaScript stripped out
 
-- **[vercel/eve](https://github.com/vercel/eve)** ⭐ 1,400
+- **[vercel/eve](https://github.com/vercel/eve)** ⭐ 1,494
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   The Framework for Building Agents
 
-- **[EEliberto/IPA-Download](https://github.com/EEliberto/IPA-Download)** ⭐ 1,074
+- **[EEliberto/IPA-Download](https://github.com/EEliberto/IPA-Download)** ⭐ 1,095
   ![Swift](https://img.shields.io/badge/-Swift-lightgrey)
   一款用于安装 IPA 历史版本的工具，适用于获取旧版应用并自动捕获数据包。下载后，可直接通过 AirDrop 传输至 iPhone、iPad 上并安装并使用。
 
-- **[Waishnav/devspace](https://github.com/Waishnav/devspace)** ⭐ 914
+- **[Waishnav/devspace](https://github.com/Waishnav/devspace)** ⭐ 1,074
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   Turn ChatGPT into Codex
 
-- **[alchaincyf/loop-engineering-orange-book](https://github.com/alchaincyf/loop-engineering-orange-book)** ⭐ 674
+- **[alchaincyf/loop-engineering-orange-book](https://github.com/alchaincyf/loop-engineering-orange-book)** ⭐ 679
   ![None](https://img.shields.io/badge/-None-lightgrey)
   别再问我什么是 Loop Engineering — 橙皮书系列。A plain-language guide to loop engineering (中文 + English PDF). Free.
 
@@ -179,45 +177,45 @@
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   VS Code chat sidebar for local AI coding agents
 
-- **[mrtooher/fable-mode](https://github.com/mrtooher/fable-mode)** ⭐ 500
+- **[mrtooher/fable-mode](https://github.com/mrtooher/fable-mode)** ⭐ 508
   ![None](https://img.shields.io/badge/-None-lightgrey)
   A Claude skill that activates Fable-style agentic behavior: explicit multi-stage planning, sub-agent delegation, and self-verification.
 
-- **[fivetaku/fablize](https://github.com/fivetaku/fablize)** ⭐ 478
+- **[fivetaku/fablize](https://github.com/fivetaku/fablize)** ⭐ 492
   ![Python](https://img.shields.io/badge/-Python-blue)
   A Claude Code plugin that makes Opus behave like Fable — completion, evidence, and verification enforced as procedure. Ships only what a Fable-vs-Opus comparison proved transferable.
 
 ### 📈 Monthly Trending
 
-- **[pewdiepie-archdaemon/odysseus](https://github.com/pewdiepie-archdaemon/odysseus)** ⭐ 73,710
+- **[pewdiepie-archdaemon/odysseus](https://github.com/pewdiepie-archdaemon/odysseus)** ⭐ 73,887
   ![Python](https://img.shields.io/badge/-Python-blue)
   Self-hosted AI workspace. 
 
-- **[DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail)** ⭐ 37,176
+- **[DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail)** ⭐ 38,430
   ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
   Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.
 
-- **[XiaomiMiMo/MiMo-Code](https://github.com/XiaomiMiMo/MiMo-Code)** ⭐ 9,807
+- **[XiaomiMiMo/MiMo-Code](https://github.com/XiaomiMiMo/MiMo-Code)** ⭐ 9,854
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   MiMo Code: Where Models and Agents Co-Evolve
 
-- **[anthropics/defending-code-reference-harness](https://github.com/anthropics/defending-code-reference-harness)** ⭐ 6,089
+- **[anthropics/defending-code-reference-harness](https://github.com/anthropics/defending-code-reference-harness)** ⭐ 6,090
   ![Python](https://img.shields.io/badge/-Python-blue)
   Skills for threat modeling, scanning, triage, patching, plus an autonomous scanning harness you can /customize
 
-- **[shadcn/improve](https://github.com/shadcn/improve)** ⭐ 5,488
+- **[shadcn/improve](https://github.com/shadcn/improve)** ⭐ 5,547
   ![None](https://img.shields.io/badge/-None-lightgrey)
   Use your most capable model to audit your codebase and write plans for cheaper models to execute.
 
-- **[helloianneo/ian-xiaohei-illustrations](https://github.com/helloianneo/ian-xiaohei-illustrations)** ⭐ 5,218
+- **[helloianneo/ian-xiaohei-illustrations](https://github.com/helloianneo/ian-xiaohei-illustrations)** ⭐ 5,254
   ![None](https://img.shields.io/badge/-None-lightgrey)
   中文小黑怪诞正文配图生成 Skill | 16:9 白底手绘 | 少量红橙蓝批注 | Codex Skill
 
-- **[AprilNEA/OpenLogi](https://github.com/AprilNEA/OpenLogi)** ⭐ 5,120
+- **[AprilNEA/OpenLogi](https://github.com/AprilNEA/OpenLogi)** ⭐ 5,135
   ![Rust](https://img.shields.io/badge/-Rust-brown)
   ⚡️A native, local-first alternative to Logitech Options+, written in Rust 🦀 — remap buttons, DPI, and SmartShift over HID++. No account, no telemetry.
 
-- **[zgwl/chinese-buy-us-stock-guide](https://github.com/zgwl/chinese-buy-us-stock-guide)** ⭐ 4,696
+- **[zgwl/chinese-buy-us-stock-guide](https://github.com/zgwl/chinese-buy-us-stock-guide)** ⭐ 4,706
   ![None](https://img.shields.io/badge/-None-lightgrey)
   美股指南
 
@@ -491,10 +489,10 @@ This is a security release.
 | Skill | Status |
 |-------|--------|
 | Java | 🟡 Learning |
-| Python | 🟡 Learning |
+| Python | ⚪ Planned |
 | JavaScript | 🟡 Learning |
 | TypeScript | ⚪ Planned |
-| Go | 🔴 Beginner |
+| Go | 🟡 Learning |
 
 ### Frameworks
 
@@ -502,47 +500,47 @@ This is a security release.
 |-------|--------|
 | React | 🟢 Proficient |
 | Spring Boot | 🔴 Beginner |
-| Django | ⚪ Planned |
-| Node.js | ⚪ Planned |
+| Django | 🟡 Learning |
+| Node.js | 🟡 Learning |
 | Next.js | ⚪ Planned |
 
 ### Cybersecurity
 
 | Skill | Status |
 |-------|--------|
-| Penetration Testing | 🟢 Proficient |
-| Web Security | ⚪ Planned |
-| Network Security | 🟡 Learning |
+| Penetration Testing | ⚪ Planned |
+| Web Security | 🟢 Proficient |
+| Network Security | 🟢 Proficient |
 | OWASP | 🟢 Proficient |
 
 ### Ai Ml
 
 | Skill | Status |
 |-------|--------|
-| Machine Learning | 🟢 Proficient |
-| Deep Learning | 🟡 Learning |
-| NLP | ⚪ Planned |
-| Computer Vision | 🔴 Beginner |
-| TensorFlow | ⚪ Planned |
-| PyTorch | 🔴 Beginner |
+| Machine Learning | 🔴 Beginner |
+| Deep Learning | ⚪ Planned |
+| NLP | 🟡 Learning |
+| Computer Vision | ⚪ Planned |
+| TensorFlow | 🟡 Learning |
+| PyTorch | ⚪ Planned |
 
 ### Devops
 
 | Skill | Status |
 |-------|--------|
-| Docker | 🔴 Beginner |
+| Docker | 🟡 Learning |
 | Kubernetes | ⚪ Planned |
 | CI/CD | ⚪ Planned |
-| AWS | ⚪ Planned |
-| Azure | 🟢 Proficient |
+| AWS | 🔴 Beginner |
+| Azure | ⚪ Planned |
 
 ### Other
 
 | Skill | Status |
 |-------|--------|
 | Blockchain | 🟢 Proficient |
-| Web3 | 🟢 Proficient |
-| Cloud Computing | 🟢 Proficient |
+| Web3 | 🔴 Beginner |
+| Cloud Computing | 🔴 Beginner |
 
 </details>
 
