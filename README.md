@@ -21,7 +21,7 @@
 |--------|-------|
 | 📰 Latest News Articles | 26 |
 | 🔥 Trending Repositories | 45 |
-| 🎯 Latest Releases | 0 |
+| 🎯 Latest Releases | 10 |
 | 🎯 Learning Goals | 4 |
 
 ## 🎯 Current Focus
@@ -46,34 +46,35 @@
 
 ### 📑 Hacker News
 
-- **[Developers don't understand CORS (2019)](https://fosterelli.co/developers-dont-understand-cors)**
-  *<p>Article URL: <a href="https://fosterelli.co/developers-dont-understand-cors">https://fosterelli.co/developers-dont-understand-cors</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/ite...*
-  📅 Sun, 21 Jun 2026 01:35:40 +0000
+- **[Google Hits 50% IPv6](https://blog.apnic.net/2026/04/28/google-hits-50-ipv6/)**
+  *<p>Article URL: <a href="https://blog.apnic.net/2026/04/28/google-hits-50-ipv6/">https://blog.apnic.net/2026/04/28/google-hits-50-ipv6/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/i...*
+  📅 Sun, 21 Jun 2026 08:21:22 +0000
 
-- **[White House delays US voting-machine vulnerability report](https://www.reuters.com/world/white-house-delays-release-us-voting-machine-study-midterms-near-2026-06-19/)**
-  *<p>Article URL: <a href="https://www.reuters.com/world/white-house-delays-release-us-voting-machine-study-midterms-near-2026-06-19/">https://www.reuters.com/world/white-house-delays-release-us-voting-...*
-  📅 Sun, 21 Jun 2026 01:29:53 +0000
+- **[A 3D voxel game engine written in APL](https://github.com/namgyaaal/avoxelgame)**
+  *<p>Article URL: <a href="https://github.com/namgyaaal/avoxelgame">https://github.com/namgyaaal/avoxelgame</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=48616713">https://news....*
+  📅 Sun, 21 Jun 2026 08:04:54 +0000
 
-- **[When I reject AI code even if it works](https://vinibrasil.com/when-i-reject-ai-code-even-if-it-works/)**
-  *<p>Article URL: <a href="https://vinibrasil.com/when-i-reject-ai-code-even-if-it-works/">https://vinibrasil.com/when-i-reject-ai-code-even-if-it-works/</a></p>
+- **[The 100k Whys of AI](https://lcamtuf.substack.com/p/the-100000-whys-of-ai)**
+  *<p>Article URL: <a href="https://lcamtuf.substack.com/p/the-100000-whys-of-ai">https://lcamtuf.substack.com/p/the-100000-whys-of-ai</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?...*
+  📅 Sun, 21 Jun 2026 05:45:21 +0000
+
+- **[The Lost Story of Alan Turing's "Delilah" Project](https://spectrum.ieee.org/alan-turings-delilah)**
+  *<p>Article URL: <a href="https://spectrum.ieee.org/alan-turings-delilah">https://spectrum.ieee.org/alan-turings-delilah</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=48615890"...*
+  📅 Sun, 21 Jun 2026 05:15:33 +0000
+
+- **[Building reliable agentic AI systems](https://martinfowler.com/articles/reliable-llm-bayer.html)**
+  *<p>Article URL: <a href="https://martinfowler.com/articles/reliable-llm-bayer.html">https://martinfowler.com/articles/reliable-llm-bayer.html</a></p>
+<p>Comments URL: <a href="https://news.ycombinator...*
+  📅 Sun, 21 Jun 2026 04:28:39 +0000
+
+- **[Your brain was never designed for this much bad news](https://www.sciencedaily.com/releases/2026/06/260614012006.htm)**
+  *<p>Article URL: <a href="https://www.sciencedaily.com/releases/2026/06/260614012006.htm">https://www.sciencedaily.com/releases/2026/06/260614012006.htm</a></p>
 <p>Comments URL: <a href="https://news.y...*
-  📅 Sun, 21 Jun 2026 00:58:13 +0000
-
-- **['We had to get out of the way': The backlash over delivery robots](https://www.bbc.com/news/articles/c0rygp005wjo)**
-  *<p>Article URL: <a href="https://www.bbc.com/news/articles/c0rygp005wjo">https://www.bbc.com/news/articles/c0rygp005wjo</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=48614390"...*
-  📅 Sun, 21 Jun 2026 00:12:49 +0000
-
-- **[Project Fetch: Phase Two](https://www.anthropic.com/research/project-fetch-phase-two)**
-  *<p>Article URL: <a href="https://www.anthropic.com/research/project-fetch-phase-two">https://www.anthropic.com/research/project-fetch-phase-two</a></p>
-<p>Comments URL: <a href="https://news.ycombinat...*
-  📅 Sun, 21 Jun 2026 00:00:25 +0000
-
-- **[Epoll vs. io_uring in Linux](https://sibexi.co/posts/epoll-vs-io_uring/)**
-  *<p>Article URL: <a href="https://sibexi.co/posts/epoll-vs-io_uring/">https://sibexi.co/posts/epoll-vs-io_uring/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=48613872">https:/...*
-  📅 Sat, 20 Jun 2026 23:07:09 +0000
+  📅 Sun, 21 Jun 2026 04:02:08 +0000
 
 ### 📑 TechCrunch
 
@@ -85,7 +86,7 @@
   *So ... what's your In the Weights score?...*
   📅 Sat, 20 Jun 2026 19:41:11 +0000
 
-- **[This startup built a fish-killing robot and chefs love the results](https://techcrunch.com/2026/06/20/founders-funds-outlier-bet-on-humanely-killed-fish/)**
+- **[Founders Fund’s outlier bet on humanely killed fish](https://techcrunch.com/2026/06/20/founders-funds-outlier-bet-on-humanely-killed-fish/)**
   *Shinkei makes a refrigerator-sized robot called Poseidon to kill fish quickly and humanely....*
   📅 Sat, 20 Jun 2026 18:26:02 +0000
 
@@ -103,21 +104,13 @@
 
 ### 📑 Dev.to
 
-- **[Debugging AI Coding Agents: How to See Prompts, Tool Calls, Token Usage, and Cost](https://dev.to/houleixx/debugging-ai-coding-agents-how-to-see-prompts-tool-calls-token-usage-and-cost-4omm)**
-  *<p>When a coding agent fails, the visible error is rarely the whole story.</p>
+- **[Why Claude Code Ignores Your CLAUDE.md (And How to Fix It)](https://dev.to/promptmaster/why-claude-code-ignores-your-claudemd-and-how-to-fix-it-2bb0)**
+  *<p>You wrote a detailed CLAUDE.md, and Claude Code still gets things wrong — wrong convention, touches files it should not, ignores rules you clearly wrote down. The cause is almost never that the rul...*
+  📅 Sun, 21 Jun 2026 09:34:49 +0000
 
-<p>You might see:</p>
-
-<ul>
-<li>a tool call that never ran</li>
-<li>a command repeated again and again</li>
-<li>a sudden...*
-  📅 Sun, 21 Jun 2026 02:33:55 +0000
-
-- **[How to Rewrite Your Software System Without Stopping Your Business](https://dev.to/spectredevxyz/how-to-rewrite-your-software-system-without-stopping-your-business-1afe)**
-  *<blockquote>
-<p>Originally published at <a href="https://www.spectredev.xyz/engineering/technical-debt/software-system-rewrite-without-downtime" rel="noopener noreferrer">spectredev.xyz</a>. Cross-pos...*
-  📅 Sun, 21 Jun 2026 02:30:00 +0000
+- **[Closing Chapter 1: From Query to Data](https://dev.to/joonghyukshin/closing-chapter-1-from-query-to-data-33nb)**
+  *<p>We opened Chapter 1 with a single line, <code>SELECT * FROM users WHERE id = 1</code>. For that line to leave the client and come back as a result row, the PostgreSQL backend went through five stag...*
+  📅 Sun, 21 Jun 2026 09:18:04 +0000
 
 </details>
 
@@ -125,53 +118,57 @@
 
 ### 📈 Daily Trending
 
-- **[benkrasnow/OpenPlateReader](https://github.com/benkrasnow/OpenPlateReader)** ⭐ 3
-  ![HTML](https://img.shields.io/badge/-HTML-lightgrey)
-  Open source single-page web app to read data from laboratory plate readers
-
-- **[luannsr12/phone-narrative-game](https://github.com/luannsr12/phone-narrative-game)** ⭐ 2
-  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
-  A data-driven narrative mystery game where your phone IS the game — React Native (Expo) + a visual story editor.
-
-- **[sai-akshita-prudhvi/nuclear-decay-simulation](https://github.com/sai-akshita-prudhvi/nuclear-decay-simulation)** ⭐ 2
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  None
-
-- **[junwankimm/arxiv-ko-translator](https://github.com/junwankimm/arxiv-ko-translator)** ⭐ 2
+- **[skytii123/TradingViewPro](https://github.com/skytii123/TradingViewPro)** ⭐ 84
   ![None](https://img.shields.io/badge/-None-lightgrey)
-  arxiv-ko-translator for claude
+  TradingView Pro Download Guide 🚀 Unlock Premium Features and Advanced Charting 📊
 
-- **[nextframedev/bridgecairn_oauth_lab](https://github.com/nextframedev/bridgecairn_oauth_lab)** ⭐ 2
+- **[qwepablo12/EatWise1](https://github.com/qwepablo12/EatWise1)** ⭐ 16
+  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
+  AI-powered 'Nutrition OS' calorie tracker built with React Native and Expo. Seamlessly parses natural food text using Gemini 2.5 Flash and syncs custom macro-metrics with Supabase backend.
+
+- **[fivetaku/insane-review](https://github.com/fivetaku/insane-review)** ⭐ 13
   ![Python](https://img.shields.io/badge/-Python-blue)
-  Small teaching lab for modern OAuth flows, tokens, and API checks.
+  Use GPT-5.5 Pro (web-only, no API) from inside Claude Code — repomix-pack the relevant code, send to subscription ChatGPT Pro, harvest the review (API cost $0)
 
-- **[NetEngBuff/SplitwiseMCP](https://github.com/NetEngBuff/SplitwiseMCP)** ⭐ 2
+- **[f4mi/colortablething](https://github.com/f4mi/colortablething)** ⭐ 12
   ![Python](https://img.shields.io/badge/-Python-blue)
-  None
+  Inject custom color match tables in DaVinci Resolve
 
-- **[isachinjoshi/medical-rag-agent](https://github.com/isachinjoshi/medical-rag-agent)** ⭐ 2
+- **[0xHossam/UNCagedSandbox](https://github.com/0xHossam/UNCagedSandbox)** ⭐ 11
+  ![None](https://img.shields.io/badge/-None-lightgrey)
+  Research on a new PoC for a Windows Sandbox .wsb HostFolder UNC path primitive that causes the host to authenticate over SMB and leak NetNTLMv2 before the sandbox session is fully initialized.
+
+- **[lamm-mit/ScienceSkills](https://github.com/lamm-mit/ScienceSkills)** ⭐ 9
   ![Python](https://img.shields.io/badge/-Python-blue)
-  **"AI-powered medical Q&A chatbot using RAG with Google Gemini embeddings and Tavily search"**
+  Collection of scientific and engineering skills
 
-- **[wioletowa/42Host](https://github.com/wioletowa/42Host)** ⭐ 1
-  ![Rust](https://img.shields.io/badge/-Rust-brown)
-  GUI для запуска и управления серверами Minecraft (Rust + GTK4/libadwaita, Wayland)
+- **[datalocaltmp/Peepo](https://github.com/datalocaltmp/Peepo)** ⭐ 9
+  ![Objective-C](https://img.shields.io/badge/-Objective-C-lightgrey)
+  watchOS kernel R/W + live process memory dumping on Apple Watch Series 4 (watchOS 10.6.1). Named after the children's book Peepo!
+
+- **[bulut396/Python-Risk-Management-Library](https://github.com/bulut396/Python-Risk-Management-Library)** ⭐ 7
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  A lightweight Python library for financial risk metrics (volatility, Sharpe/Sortino, beta, drawdown, VaR).
 
 ### 📈 Weekly Trending
 
-- **[vercel/eve](https://github.com/vercel/eve)** ⭐ 1,872
+- **[vercel/eve](https://github.com/vercel/eve)** ⭐ 1,916
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   The Framework for Building Agents
 
-- **[alchaincyf/loop-engineering-orange-book](https://github.com/alchaincyf/loop-engineering-orange-book)** ⭐ 716
+- **[alchaincyf/loop-engineering-orange-book](https://github.com/alchaincyf/loop-engineering-orange-book)** ⭐ 720
   ![None](https://img.shields.io/badge/-None-lightgrey)
   别再问我什么是 Loop Engineering — 橙皮书系列。A plain-language guide to loop engineering (中文 + English PDF). Free.
 
-- **[rebel0789/codexpro](https://github.com/rebel0789/codexpro)** ⭐ 549
+- **[zhongerxin/cowart](https://github.com/zhongerxin/cowart)** ⭐ 639
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
+  None
+
+- **[rebel0789/codexpro](https://github.com/rebel0789/codexpro)** ⭐ 586
   ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
   Use ChatGPT Developer Mode as a local coding agent for your repo through MCP.
 
-- **[Forsy-AI/agent-apprenticeship](https://github.com/Forsy-AI/agent-apprenticeship)** ⭐ 534
+- **[Forsy-AI/agent-apprenticeship](https://github.com/Forsy-AI/agent-apprenticeship)** ⭐ 558
   ![None](https://img.shields.io/badge/-None-lightgrey)
   The living ecosystem where AI agents learn from real-world work through iterative workflow loops, reusable experience, and collective training signal exchange.
 
@@ -179,49 +176,45 @@
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   VS Code chat sidebar for local AI coding agents
 
-- **[dongshuyan/compass-skills](https://github.com/dongshuyan/compass-skills)** ⭐ 397
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  司南：个性化 AI 任务总控 Skills 系统 /COMPASS: Personal Alignment Skills OS for AI Agents
-
-- **[ngrok/webernetes](https://github.com/ngrok/webernetes)** ⭐ 360
+- **[ngrok/webernetes](https://github.com/ngrok/webernetes)** ⭐ 404
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   Kubernetes in the browser.
 
-- **[MstKail/polymarket-trading-bot-services-polyedge365](https://github.com/MstKail/polymarket-trading-bot-services-polyedge365)** ⭐ 355
-  ![None](https://img.shields.io/badge/-None-lightgrey)
-  polymarket trading bot services, polymarket copy trading bot, polymarket arbitrage bot, polymarket hedge bot, polymarket maker bot, polymarket trading bot services, polymarket copy trading bot, polymarket arbitrage bot, polymarket hedge bot, polymarket maker bot, polymarket trading bot services, polymarket copy trading bot, polymarket arbitrage bot
+- **[dongshuyan/compass-skills](https://github.com/dongshuyan/compass-skills)** ⭐ 400
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  司南：个性化 AI 任务总控 Skills 系统 /COMPASS: Personal Alignment Skills OS for AI Agents
 
 ### 📈 Monthly Trending
 
-- **[pewdiepie-archdaemon/odysseus](https://github.com/pewdiepie-archdaemon/odysseus)** ⭐ 75,117
+- **[pewdiepie-archdaemon/odysseus](https://github.com/pewdiepie-archdaemon/odysseus)** ⭐ 75,298
   ![Python](https://img.shields.io/badge/-Python-blue)
   Self-hosted AI workspace. 
 
-- **[DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail)** ⭐ 43,516
+- **[DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail)** ⭐ 44,364
   ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
   Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.
 
-- **[XiaomiMiMo/MiMo-Code](https://github.com/XiaomiMiMo/MiMo-Code)** ⭐ 10,092
+- **[XiaomiMiMo/MiMo-Code](https://github.com/XiaomiMiMo/MiMo-Code)** ⭐ 10,129
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   MiMo Code: Where Models and Agents Co-Evolve
 
-- **[shadcn/improve](https://github.com/shadcn/improve)** ⭐ 5,786
+- **[shadcn/improve](https://github.com/shadcn/improve)** ⭐ 5,816
   ![None](https://img.shields.io/badge/-None-lightgrey)
   Use your most capable model to audit your codebase and write plans for cheaper models to execute.
 
-- **[helloianneo/ian-xiaohei-illustrations](https://github.com/helloianneo/ian-xiaohei-illustrations)** ⭐ 5,441
+- **[helloianneo/ian-xiaohei-illustrations](https://github.com/helloianneo/ian-xiaohei-illustrations)** ⭐ 5,485
   ![None](https://img.shields.io/badge/-None-lightgrey)
   中文小黑怪诞正文配图生成 Skill | 16:9 白底手绘 | 少量红橙蓝批注 | Codex Skill
 
-- **[AprilNEA/OpenLogi](https://github.com/AprilNEA/OpenLogi)** ⭐ 5,186
+- **[AprilNEA/OpenLogi](https://github.com/AprilNEA/OpenLogi)** ⭐ 5,193
   ![Rust](https://img.shields.io/badge/-Rust-brown)
   ⚡️A native, local-first alternative to Logitech Options+, written in Rust 🦀 — remap buttons, DPI, and SmartShift over HID++. No account, no telemetry.
 
-- **[zgwl/chinese-buy-us-stock-guide](https://github.com/zgwl/chinese-buy-us-stock-guide)** ⭐ 4,758
+- **[zgwl/chinese-buy-us-stock-guide](https://github.com/zgwl/chinese-buy-us-stock-guide)** ⭐ 4,773
   ![None](https://img.shields.io/badge/-None-lightgrey)
   美股指南
 
-- **[omnigent-ai/omnigent](https://github.com/omnigent-ai/omnigent)** ⭐ 4,208
+- **[omnigent-ai/omnigent](https://github.com/omnigent-ai/omnigent)** ⭐ 4,239
   ![Python](https://img.shields.io/badge/-Python-blue)
   Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom agents — swap harnesses without rewriting, enforce policies and sandboxing, and collaborate in real time from any device.
 
@@ -229,6 +222,145 @@
 
 <details>
 <summary>Click to expand latest releases</summary>
+
+### 📦 microsoft/vscode
+
+**[1.125.0](https://github.com/microsoft/vscode/releases/tag/1.125.0)** `1.125.0`
+
+📅 Released: June 17, 2026
+
+https://code.visualstudio.com/updates/v1_125...
+
+---
+
+### 📦 facebook/react
+
+**[19.2.7 (June 1st, 2026)](https://github.com/react/react/releases/tag/v19.2.7)** `v19.2.7`
+
+📅 Released: June 01, 2026
+
+## React Server Components
+
+- Fixed missing `FormData` entries in Server Actions which regressed in 19.2.6
+ ([#36566](https://github.com/facebook/react/pull/36566) by @unstubbable)...
+
+---
+
+### 📦 angular/angular
+
+**[22.0.2](https://github.com/angular/angular/releases/tag/v22.0.2)** `v22.0.2`
+
+📅 Released: June 17, 2026
+
+### common
+| Commit | Description |
+| -- | -- |
+| [![fix - 94ea403563](https://img.shields.io/badge/94ea403563-fix-green)](https://github.com/angular/angular/commit/94ea4035638db37e938831e3cb0e9562ca3...
+
+---
+
+### 📦 vuejs/vue
+
+**[v2.7.16 "Swan Song"](https://github.com/vuejs/vue/releases/tag/v2.7.16)** `v2.7.16`
+
+📅 Released: December 24, 2023
+
+**This is the final release for Vue 2.**
+
+Vue 2 will reach End of Life on December 31st, 2023. For more details, please read this [blog post](https://blog.vuejs.org/posts/vue-2-eol).
+
+Please refer...
+
+---
+
+### 📦 tensorflow/tensorflow
+
+**[TensorFlow 2.21.0](https://github.com/tensorflow/tensorflow/releases/tag/v2.21.0)** `v2.21.0`
+
+📅 Released: March 06, 2026
+
+# Release 2.21.0
+
+## TensorFlow
+
+### Breaking Changes
+
+* Support for Python 3.9 has been removed starting with TF 2.21.
+* The TensorBoard (TB) dependency has been removed starting with TF 2.21....
+
+---
+
+### 📦 pytorch/pytorch
+
+**[PyTorch 2.12.1 Release, bug fix release](https://github.com/pytorch/pytorch/releases/tag/v2.12.1)** `v2.12.1`
+
+📅 Released: June 18, 2026
+
+This release is meant to fix the following regressions and silent correctness issues:
+## Regression fixes
+- Fix nondeterministic outputs in test_batch_invariance with FLASH_ATTN on NVIDIA B200 GPUs ...
+
+---
+
+### 📦 kubernetes/kubernetes
+
+**[v1.36.2](https://github.com/kubernetes/kubernetes/releases/tag/v1.36.2)** `v1.36.2`
+
+📅 Released: June 12, 2026
+
+
+See [kubernetes-announce@](https://groups.google.com/forum/#!forum/kubernetes-announce). Additional binary downloads are linked in the [CHANGELOG](https://github.com/kubernetes/kubernetes/blob/master...
+
+---
+
+### 📦 docker/compose
+
+**[v5.1.4](https://github.com/docker/compose/releases/tag/v5.1.4)** `v5.1.4`
+
+📅 Released: May 20, 2026
+
+## What's Changed
+
+### ✨ Improvements
+* feat: add stop lifecycle hook for external providers by @glours in https://github.com/docker/compose/pull/13779
+
+### 🐛 Fixes
+* fix: route OCI artifact pul...
+
+---
+
+### 📦 nodejs/node
+
+**[2026-06-18, Version 26.3.1 (Current), @aduh95](https://github.com/nodejs/node/releases/tag/v26.3.1)** `v26.3.1`
+
+📅 Released: June 18, 2026
+
+
+
+
+This is a security release.
+
+### Notable Changes
+
+* (CVE-2026-48618) tls: normalize hostname for server identity checks (Matteo Collina) – High
+* (CVE-2026-48933) crypto: guard WebCrypto cipher out...
+
+---
+
+### 📦 rust-lang/rust
+
+**[Rust 1.96.0](https://github.com/rust-lang/rust/releases/tag/1.96.0)** `1.96.0`
+
+📅 Released: May 28, 2026
+
+<a id="1.96.0-Language"></a>
+
+## Language
+
+- [Allow passing `expr` metavariable to `cfg`](https://github.com/rust-lang/rust/pull/146961)
+- [Always coerce never types in tuple expressions](https://gith...
+
+---
 
 </details>
 
@@ -355,58 +487,58 @@
 
 | Skill | Status |
 |-------|--------|
-| Java | 🟢 Proficient |
-| Python | 🟢 Proficient |
-| JavaScript | 🟢 Proficient |
-| TypeScript | 🟢 Proficient |
+| Java | ⚪ Planned |
+| Python | 🟡 Learning |
+| JavaScript | 🔴 Beginner |
+| TypeScript | 🟡 Learning |
 | Go | 🟢 Proficient |
 
 ### Frameworks
 
 | Skill | Status |
 |-------|--------|
-| React | 🟡 Learning |
-| Spring Boot | ⚪ Planned |
-| Django | 🔴 Beginner |
+| React | 🔴 Beginner |
+| Spring Boot | 🔴 Beginner |
+| Django | ⚪ Planned |
 | Node.js | 🔴 Beginner |
-| Next.js | ⚪ Planned |
+| Next.js | 🔴 Beginner |
 
 ### Cybersecurity
 
 | Skill | Status |
 |-------|--------|
-| Penetration Testing | 🟢 Proficient |
-| Web Security | ⚪ Planned |
+| Penetration Testing | ⚪ Planned |
+| Web Security | 🟢 Proficient |
 | Network Security | 🔴 Beginner |
-| OWASP | 🟢 Proficient |
+| OWASP | 🔴 Beginner |
 
 ### Ai Ml
 
 | Skill | Status |
 |-------|--------|
-| Machine Learning | ⚪ Planned |
+| Machine Learning | 🔴 Beginner |
 | Deep Learning | 🟡 Learning |
 | NLP | 🟡 Learning |
-| Computer Vision | 🟡 Learning |
-| TensorFlow | 🟡 Learning |
-| PyTorch | 🟢 Proficient |
+| Computer Vision | 🔴 Beginner |
+| TensorFlow | ⚪ Planned |
+| PyTorch | 🔴 Beginner |
 
 ### Devops
 
 | Skill | Status |
 |-------|--------|
-| Docker | ⚪ Planned |
-| Kubernetes | ⚪ Planned |
-| CI/CD | 🟢 Proficient |
-| AWS | 🟢 Proficient |
+| Docker | 🟢 Proficient |
+| Kubernetes | 🔴 Beginner |
+| CI/CD | 🔴 Beginner |
+| AWS | 🔴 Beginner |
 | Azure | 🔴 Beginner |
 
 ### Other
 
 | Skill | Status |
 |-------|--------|
-| Blockchain | 🟡 Learning |
-| Web3 | 🔴 Beginner |
+| Blockchain | ⚪ Planned |
+| Web3 | 🟢 Proficient |
 | Cloud Computing | 🟢 Proficient |
 
 </details>
