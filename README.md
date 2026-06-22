@@ -7,7 +7,7 @@
 ![AI & ML](https://img.shields.io/badge/-AI%20&%20ML-blue) ![CyberSecurity](https://img.shields.io/badge/-CyberSecurity-red) ![Full Stack Development](https://img.shields.io/badge/-Full%20Stack%20Development-green)
 
 [![Auto Update](https://img.shields.io/badge/Auto%20Update-Enabled-success)](https://github.com/yourusername/tech-dashboard/actions)
-[![Last Updated](https://img.shields.io/badge/Last%20Updated-June 21, 2026-blue)](https://github.com/yourusername/tech-dashboard)
+[![Last Updated](https://img.shields.io/badge/Last%20Updated-June 22, 2026-blue)](https://github.com/yourusername/tech-dashboard)
 
 *Automatically updated every 6 hours with the latest tech news, trending repositories, and learning resources.*
 
@@ -21,7 +21,7 @@
 |--------|-------|
 | 📰 Latest News Articles | 26 |
 | 🔥 Trending Repositories | 45 |
-| 🎯 Latest Releases | 9 |
+| 🎯 Latest Releases | 10 |
 | 🎯 Learning Goals | 4 |
 
 ## 🎯 Current Focus
@@ -46,34 +46,33 @@
 
 ### 📑 Hacker News
 
-- **[Wildcard (YC W25) is hiring an applied ML engineer](https://www.ycombinator.com/companies/wildcard/jobs/SEmo4di-founding-applied-ml-engineer)**
-  *<p>Article URL: <a href="https://www.ycombinator.com/companies/wildcard/jobs/SEmo4di-founding-applied-ml-engineer">https://www.ycombinator.com/companies/wildcard/jobs/SEmo4di-founding-applied-ml-engin...*
-  📅 Sun, 21 Jun 2026 17:00:28 +0000
+- **[Sakana Fugu](https://sakana.ai/fugu/)**
+  *<p>Article URL: <a href="https://sakana.ai/fugu/">https://sakana.ai/fugu/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=48624782">https://news.ycombinator.com/item?id=48624782...*
+  📅 Mon, 22 Jun 2026 02:08:18 +0000
 
-- **[Burnout Is Real in the OSS World, Says John-David Dalton, Creator of Lodash](https://openjsf.org/blog/burnout-is-real-for-open-source-maintainers)**
-  *<p>Article URL: <a href="https://openjsf.org/blog/burnout-is-real-for-open-source-maintainers">https://openjsf.org/blog/burnout-is-real-for-open-source-maintainers</a></p>
+- **[1983 Northern Telecom Commodore Phone](https://www.oldtelephoneroom.ca/1983-northern-telecom-commodore-phone/)**
+  *<p>Article URL: <a href="https://www.oldtelephoneroom.ca/1983-northern-telecom-commodore-phone/">https://www.oldtelephoneroom.ca/1983-northern-telecom-commodore-phone/</a></p>
+<p>Comments URL: <a href...*
+  📅 Mon, 22 Jun 2026 00:34:33 +0000
+
+- **[Petition against Meta's employee training data collection for ML models](https://mcipetition.com/)**
+  *<p>Article URL: <a href="https://mcipetition.com/">https://mcipetition.com/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=48623721">https://news.ycombinator.com/item?id=486237...*
+  📅 Sun, 21 Jun 2026 23:34:07 +0000
+
+- **[Good results fine tuning a local LLM like Qwen 3:0.6B to categorize questions](https://www.teachmecoolstuff.com/viewarticle/fine-tuning-a-local-llm-to-categorize-questions)**
+  *<p>Article URL: <a href="https://www.teachmecoolstuff.com/viewarticle/fine-tuning-a-local-llm-to-categorize-questions">https://www.teachmecoolstuff.com/viewarticle/fine-tuning-a-local-llm-to-categoriz...*
+  📅 Sun, 21 Jun 2026 22:55:23 +0000
+
+- **[Rent collections are down in New York](https://www.politico.com/news/2026/06/21/rent-collections-are-down-in-new-york-and-no-ones-sure-why-00966982)**
+  *<p>Article URL: <a href="https://www.politico.com/news/2026/06/21/rent-collections-are-down-in-new-york-and-no-ones-sure-why-00966982">https://www.politico.com/news/2026/06/21/rent-collections-are-dow...*
+  📅 Sun, 21 Jun 2026 21:54:34 +0000
+
+- **[Did my old job only exist because of fraud?](https://david.newgas.net/did-my-old-job-only-exist-because-of-fraud/)**
+  *<p>Article URL: <a href="https://david.newgas.net/did-my-old-job-only-exist-because-of-fraud/">https://david.newgas.net/did-my-old-job-only-exist-because-of-fraud/</a></p>
 <p>Comments URL: <a href="ht...*
-  📅 Sun, 21 Jun 2026 16:56:18 +0000
-
-- **[The Minimum Viable Unit of Saleable Software](https://brandur.org/minimum-viable-unit)**
-  *<p>Article URL: <a href="https://brandur.org/minimum-viable-unit">https://brandur.org/minimum-viable-unit</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=48620342">https://news....*
-  📅 Sun, 21 Jun 2026 16:41:21 +0000
-
-- **[The early hiring funnel is now breaking on both ends](https://hbr.org/2026/06/ai-has-broken-hiring-heres-how-to-fix-it)**
-  *<p>Article URL: <a href="https://hbr.org/2026/06/ai-has-broken-hiring-heres-how-to-fix-it">https://hbr.org/2026/06/ai-has-broken-hiring-heres-how-to-fix-it</a></p>
-<p>Comments URL: <a href="https://ne...*
-  📅 Sun, 21 Jun 2026 16:14:54 +0000
-
-- **[Prefer duplication over the wrong abstraction (2016)](https://sandimetz.com/blog/2016/1/20/the-wrong-abstraction)**
-  *<p>Article URL: <a href="https://sandimetz.com/blog/2016/1/20/the-wrong-abstraction">https://sandimetz.com/blog/2016/1/20/the-wrong-abstraction</a></p>
-<p>Comments URL: <a href="https://news.ycombinat...*
-  📅 Sun, 21 Jun 2026 16:08:23 +0000
-
-- **[(How to Write a (Lisp) Interpreter (In Python)) (2010)](https://norvig.com/lispy.html)**
-  *<p>Article URL: <a href="https://norvig.com/lispy.html">https://norvig.com/lispy.html</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=48619831">https://news.ycombinator.com/item...*
-  📅 Sun, 21 Jun 2026 15:36:33 +0000
+  📅 Sun, 21 Jun 2026 21:40:53 +0000
 
 ### 📑 TechCrunch
 
@@ -103,29 +102,13 @@
 
 ### 📑 Dev.to
 
-- **[Wiring AI Code Review into a Bitbucket + Jira Workflow](https://dev.to/dev_kiran/wiring-ai-code-review-into-a-bitbucket-jira-workflow-1ke8)**
-  *<p>Hello Devs 👋</p>
+- **[What is Monorepo ?](https://dev.to/abhinav-writes/what-is-monorepo--31dd)**
+  *<p>Have you ever built a full-stack application (without fullstack framework like NextJS), if yes so you might definitely know that you need to build two projects (frontend and backend) and need to wr...*
+  📅 Mon, 22 Jun 2026 02:50:00 +0000
 
-<p>If your team uses Bitbucket + Jira, your workflow probably looks something like this:</p>
-
-<ul>
-<li>Pick a Jira ticket</li>
-<li>Create a branch</li>
-<li>Push code</li>
-<li>Open...*
-  📅 Sun, 21 Jun 2026 19:02:11 +0000
-
-- **[SOLSTICE, A shadow capture game in C](https://dev.to/eliott_636b066417d2278c7b/solstice-a-shadow-capture-game-in-c-mnn)**
-  *<h2>
-  
-  
-  What I Built
-</h2>
-
-<p>A two-player terminal strategy game written in C. No libraries, no graphical engin, just ANSI colors and printf.</p>
-
-<p>Two players place stones on a 9×9 grid. Eac...*
-  📅 Sun, 21 Jun 2026 19:01:33 +0000
+- **[How UUIDs Actually Work: v4 Randomness, v7 Timestamps, and the Collision Math](https://dev.to/anh_qunnguyn_57549060f/how-uuids-actually-work-v4-randomness-v7-timestamps-and-the-collision-math-49pp)**
+  *<p>Every backend developer types <code>uuid()</code> a thousand times before ever asking what those 36 characters actually are. Then one day a senior engineer says "stop using v4 for your primary key,...*
+  📅 Mon, 22 Jun 2026 02:47:00 +0000
 
 </details>
 
@@ -133,103 +116,103 @@
 
 ### 📈 Daily Trending
 
-- **[tianjiangqiji/nova-image-studio](https://github.com/tianjiangqiji/nova-image-studio)** ⭐ 44
-  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
-  自托管的 AI 图像生成工作台 · 自定义模型 · 多模式 · PWA · 实时任务 支持Agent模式，工作台模式，无限画布，反推提示词，提示词广场，GIF生成。前后端任务机制轻量后端；三端兼容 UI：桌面端、平板端、移动端自适应布局
+- **[HackMoonString/SoftMaker-Office-2026](https://github.com/HackMoonString/SoftMaker-Office-2026)** ⭐ 15
+  ![None](https://img.shields.io/badge/-None-lightgrey)
+  softmaker office download windows — SoftMaker Office for Windows 11 & 10. Direct download, install steps and setup guide.
 
-- **[Bronzesobazaar/Wuthering-Waves-External](https://github.com/Bronzesobazaar/Wuthering-Waves-External)** ⭐ 30
-  ![C++](https://img.shields.io/badge/-C++-pink)
-  None
+- **[Blockadezemooring/Steam-Disk-Write-Error-Fix](https://github.com/Blockadezemooring/Steam-Disk-Write-Error-Fix)** ⭐ 15
+  ![None](https://img.shields.io/badge/-None-lightgrey)
+  steam disk write error — Steam Disk Write Error Fix for Windows 11 & 10. Direct repair download and step-by-step fix guide.
 
-- **[Francis1998/nexus-llm-router](https://github.com/Francis1998/nexus-llm-router)** ⭐ 28
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  Intelligent multi-LLM router with task-aware routing strategies, cost optimization, and production safety controls — drop-in OpenAI-compatible API
+- **[ManateeRepel/ArtRage-2026](https://github.com/ManateeRepel/ArtRage-2026)** ⭐ 14
+  ![None](https://img.shields.io/badge/-None-lightgrey)
+  artrage download windows — ArtRage for Windows 11 & 10. Direct download, install steps and setup guide.
 
-- **[ukorvl/swag-mi](https://github.com/ukorvl/swag-mi)** ⭐ 26
-  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
-  Composable React hooks for production-grade wagmi transaction, chain, event, and contract-read workflows.
+- **[NorthGladiator/DNS-Server-Not-Responding-Fix](https://github.com/NorthGladiator/DNS-Server-Not-Responding-Fix)** ⭐ 13
+  ![None](https://img.shields.io/badge/-None-lightgrey)
+  dns server not responding — DNS Server Not Responding Fix for Windows 11 & 10. Direct repair download and step-by-step fix guide.
 
-- **[f4mi/colortablething](https://github.com/f4mi/colortablething)** ⭐ 22
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  Inject custom color match tables in DaVinci Resolve
+- **[TruckerEdge73/Nitro-PDF-Pro-2026](https://github.com/TruckerEdge73/Nitro-PDF-Pro-2026)** ⭐ 13
+  ![None](https://img.shields.io/badge/-None-lightgrey)
+  nitro pdf pro download — Nitro PDF Pro for Windows 11 & 10. Direct download, install steps and setup guide.
 
-- **[windrider-6/ServerS4A12](https://github.com/windrider-6/ServerS4A12)** ⭐ 22
-  ![C#](https://img.shields.io/badge/-C#-lightgrey)
-  None
+- **[Channellunavolt/Avid-Pro-Tools-2026](https://github.com/Channellunavolt/Avid-Pro-Tools-2026)** ⭐ 13
+  ![None](https://img.shields.io/badge/-None-lightgrey)
+  pro tools download windows — Avid Pro Tools for Windows 11 & 10. Direct download, install steps and setup guide.
 
-- **[Francis1998/multi-bot-agentic](https://github.com/Francis1998/multi-bot-agentic)** ⭐ 21
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  Deterministic multi-provider AI-agent orchestrator — ODA loops, GPT/Claude/Gemini/Kimi adapters, safety controls, event log
+- **[Polishcharemain/PhpStorm-2026](https://github.com/Polishcharemain/PhpStorm-2026)** ⭐ 13
+  ![None](https://img.shields.io/badge/-None-lightgrey)
+  phpstorm download windows — JetBrains PhpStorm for Windows 11 & 10. Direct download, install steps and setup guide.
 
-- **[lamm-mit/ScienceSkills](https://github.com/lamm-mit/ScienceSkills)** ⭐ 21
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  Collection of scientific and engineering skills
+- **[MysticColonelSucceed/Error-0x80070005-Fix](https://github.com/MysticColonelSucceed/Error-0x80070005-Fix)** ⭐ 12
+  ![None](https://img.shields.io/badge/-None-lightgrey)
+  error 0x80070005 access is denied — Error 0x80070005 Fix for Windows 11 & 10. Direct repair download and step-by-step fix guide.
 
 ### 📈 Weekly Trending
 
-- **[vercel/eve](https://github.com/vercel/eve)** ⭐ 2,016
+- **[vercel/eve](https://github.com/vercel/eve)** ⭐ 2,097
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   The Framework for Building Agents
 
-- **[zhongerxin/Cowart](https://github.com/zhongerxin/Cowart)** ⭐ 1,083
+- **[zhongerxin/Cowart](https://github.com/zhongerxin/Cowart)** ⭐ 1,310
   ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
   None
 
-- **[alchaincyf/loop-engineering-orange-book](https://github.com/alchaincyf/loop-engineering-orange-book)** ⭐ 724
-  ![None](https://img.shields.io/badge/-None-lightgrey)
-  别再问我什么是 Loop Engineering — 橙皮书系列。A plain-language guide to loop engineering (中文 + English PDF). Free.
-
-- **[rebel0789/codexpro](https://github.com/rebel0789/codexpro)** ⭐ 613
+- **[rebel0789/codexpro](https://github.com/rebel0789/codexpro)** ⭐ 629
   ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
   Use ChatGPT Developer Mode as a local coding agent for your repo through MCP.
 
-- **[Forsy-AI/agent-apprenticeship](https://github.com/Forsy-AI/agent-apprenticeship)** ⭐ 605
+- **[Forsy-AI/agent-apprenticeship](https://github.com/Forsy-AI/agent-apprenticeship)** ⭐ 610
   ![None](https://img.shields.io/badge/-None-lightgrey)
   The living ecosystem where AI agents learn from real-world work through iterative workflow loops, reusable experience, and collective training signal exchange.
 
-- **[Plaer1/junction](https://github.com/Plaer1/junction)** ⭐ 517
+- **[Plaer1/junction](https://github.com/Plaer1/junction)** ⭐ 518
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   VS Code chat sidebar for local AI coding agents
 
-- **[ngrok/webernetes](https://github.com/ngrok/webernetes)** ⭐ 458
+- **[ngrok/webernetes](https://github.com/ngrok/webernetes)** ⭐ 484
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   Kubernetes in the browser.
 
-- **[dongshuyan/compass-skills](https://github.com/dongshuyan/compass-skills)** ⭐ 402
+- **[boogu-project/Boogu-Image](https://github.com/boogu-project/Boogu-Image)** ⭐ 397
   ![Python](https://img.shields.io/badge/-Python-blue)
-  司南：个性化 AI 任务总控 Skills 系统 /COMPASS: Personal Alignment Skills OS for AI Agents
+  Boogu-Image-0.1 is an Apache-2.0 open-source image generation and editing model family that delivers near-closed-source performance with an order of magnitude less data.
+
+- **[MstKail/polymarket-trading-bot-services-polyedge365](https://github.com/MstKail/polymarket-trading-bot-services-polyedge365)** ⭐ 380
+  ![None](https://img.shields.io/badge/-None-lightgrey)
+  polymarket trading bot services, polymarket copy trading bot, polymarket arbitrage bot, polymarket hedge bot, polymarket maker bot, polymarket trading bot services, polymarket copy trading bot, polymarket arbitrage bot, polymarket hedge bot, polymarket maker bot, polymarket trading bot services, polymarket copy trading bot, polymarket arbitrage bot
 
 ### 📈 Monthly Trending
 
-- **[pewdiepie-archdaemon/odysseus](https://github.com/pewdiepie-archdaemon/odysseus)** ⭐ 75,609
+- **[pewdiepie-archdaemon/odysseus](https://github.com/pewdiepie-archdaemon/odysseus)** ⭐ 75,780
   ![Python](https://img.shields.io/badge/-Python-blue)
   Self-hosted AI workspace. 
 
-- **[DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail)** ⭐ 45,470
+- **[DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail)** ⭐ 46,497
   ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
   Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.
 
-- **[XiaomiMiMo/MiMo-Code](https://github.com/XiaomiMiMo/MiMo-Code)** ⭐ 10,165
+- **[XiaomiMiMo/MiMo-Code](https://github.com/XiaomiMiMo/MiMo-Code)** ⭐ 10,201
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   MiMo Code: Where Models and Agents Co-Evolve
 
-- **[shadcn/improve](https://github.com/shadcn/improve)** ⭐ 5,858
+- **[shadcn/improve](https://github.com/shadcn/improve)** ⭐ 5,879
   ![None](https://img.shields.io/badge/-None-lightgrey)
   Use your most capable model to audit your codebase and write plans for cheaper models to execute.
 
-- **[helloianneo/ian-xiaohei-illustrations](https://github.com/helloianneo/ian-xiaohei-illustrations)** ⭐ 5,521
+- **[helloianneo/ian-xiaohei-illustrations](https://github.com/helloianneo/ian-xiaohei-illustrations)** ⭐ 5,554
   ![None](https://img.shields.io/badge/-None-lightgrey)
   中文小黑怪诞正文配图生成 Skill | 16:9 白底手绘 | 少量红橙蓝批注 | Codex Skill
 
-- **[AprilNEA/OpenLogi](https://github.com/AprilNEA/OpenLogi)** ⭐ 5,214
+- **[AprilNEA/OpenLogi](https://github.com/AprilNEA/OpenLogi)** ⭐ 5,217
   ![Rust](https://img.shields.io/badge/-Rust-brown)
   ⚡️A native, local-first alternative to Logitech Options+, written in Rust 🦀 — remap buttons, DPI, and SmartShift over HID++. No account, no telemetry.
 
-- **[zgwl/chinese-buy-us-stock-guide](https://github.com/zgwl/chinese-buy-us-stock-guide)** ⭐ 4,788
+- **[zgwl/chinese-buy-us-stock-guide](https://github.com/zgwl/chinese-buy-us-stock-guide)** ⭐ 4,798
   ![None](https://img.shields.io/badge/-None-lightgrey)
   美股指南
 
-- **[omnigent-ai/omnigent](https://github.com/omnigent-ai/omnigent)** ⭐ 4,298
+- **[omnigent-ai/omnigent](https://github.com/omnigent-ai/omnigent)** ⭐ 4,340
   ![Python](https://img.shields.io/badge/-Python-blue)
   Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom agents — swap harnesses without rewriting, enforce policies and sandboxing, and collaborate in real time from any device.
 
@@ -362,6 +345,21 @@ This is a security release.
 
 ---
 
+### 📦 rust-lang/rust
+
+**[Rust 1.96.0](https://github.com/rust-lang/rust/releases/tag/1.96.0)** `1.96.0`
+
+📅 Released: May 28, 2026
+
+<a id="1.96.0-Language"></a>
+
+## Language
+
+- [Allow passing `expr` metavariable to `cfg`](https://github.com/rust-lang/rust/pull/146961)
+- [Always coerce never types in tuple expressions](https://gith...
+
+---
+
 </details>
 
 ## 🗺️ Learning Roadmap
@@ -488,58 +486,58 @@ This is a security release.
 | Skill | Status |
 |-------|--------|
 | Java | 🟢 Proficient |
-| Python | 🟡 Learning |
-| JavaScript | 🟢 Proficient |
+| Python | 🔴 Beginner |
+| JavaScript | 🟡 Learning |
 | TypeScript | 🔴 Beginner |
-| Go | 🟡 Learning |
+| Go | ⚪ Planned |
 
 ### Frameworks
 
 | Skill | Status |
 |-------|--------|
-| React | 🔴 Beginner |
-| Spring Boot | 🟡 Learning |
-| Django | ⚪ Planned |
-| Node.js | ⚪ Planned |
+| React | 🟢 Proficient |
+| Spring Boot | 🔴 Beginner |
+| Django | 🟡 Learning |
+| Node.js | 🔴 Beginner |
 | Next.js | 🟢 Proficient |
 
 ### Cybersecurity
 
 | Skill | Status |
 |-------|--------|
-| Penetration Testing | 🟡 Learning |
-| Web Security | ⚪ Planned |
-| Network Security | 🔴 Beginner |
-| OWASP | 🔴 Beginner |
+| Penetration Testing | ⚪ Planned |
+| Web Security | 🟢 Proficient |
+| Network Security | 🟡 Learning |
+| OWASP | 🟡 Learning |
 
 ### Ai Ml
 
 | Skill | Status |
 |-------|--------|
-| Machine Learning | 🔴 Beginner |
-| Deep Learning | ⚪ Planned |
+| Machine Learning | ⚪ Planned |
+| Deep Learning | 🟡 Learning |
 | NLP | ⚪ Planned |
-| Computer Vision | ⚪ Planned |
-| TensorFlow | 🟡 Learning |
+| Computer Vision | 🟡 Learning |
+| TensorFlow | ⚪ Planned |
 | PyTorch | 🔴 Beginner |
 
 ### Devops
 
 | Skill | Status |
 |-------|--------|
-| Docker | 🟡 Learning |
+| Docker | 🟢 Proficient |
 | Kubernetes | ⚪ Planned |
-| CI/CD | 🔴 Beginner |
-| AWS | 🔴 Beginner |
-| Azure | 🔴 Beginner |
+| CI/CD | 🟡 Learning |
+| AWS | 🟢 Proficient |
+| Azure | 🟢 Proficient |
 
 ### Other
 
 | Skill | Status |
 |-------|--------|
-| Blockchain | 🟡 Learning |
+| Blockchain | 🟢 Proficient |
 | Web3 | 🔴 Beginner |
-| Cloud Computing | ⚪ Planned |
+| Cloud Computing | 🟡 Learning |
 
 </details>
 
@@ -557,7 +555,7 @@ This dashboard is automatically updated every 6 hours using GitHub Actions. The 
 
 <div align="center">
 
-**Last Updated:** June 21, 2026
+**Last Updated:** June 22, 2026
 
 Made with ❤️ and automated with GitHub Actions
 
