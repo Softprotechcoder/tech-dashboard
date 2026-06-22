@@ -46,73 +46,87 @@
 
 ### 📑 Hacker News
 
-- **[Codex logging bug may write TBs to local SSDs](https://github.com/openai/codex/issues/28224)**
-  *<p>Article URL: <a href="https://github.com/openai/codex/issues/28224">https://github.com/openai/codex/issues/28224</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=48626930">htt...*
-  📅 Mon, 22 Jun 2026 07:30:17 +0000
+- **[Git is forever. I'm building Oak anyways](https://oak.space/blog)**
+  *<p>Article URL: <a href="https://oak.space/blog">https://oak.space/blog</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=48631726">https://news.ycombinator.com/item?id=48631726</...*
+  📅 Mon, 22 Jun 2026 15:37:48 +0000
 
-- **[Investors get real-time view of UK bond market activity for the first time](https://www.fca.org.uk/news/press-releases/investors-get-real-time-view-uk-bond-market-activity-first-time)**
-  *<p>Article URL: <a href="https://www.fca.org.uk/news/press-releases/investors-get-real-time-view-uk-bond-market-activity-first-time">https://www.fca.org.uk/news/press-releases/investors-get-real-time-...*
-  📅 Mon, 22 Jun 2026 07:29:17 +0000
+- **[DHL Set to Transport Goods on New Wind-Powered Cargo Ships](https://www.wsj.com/pro/sustainable-business/dhl-set-to-transport-goods-on-new-wind-powered-cargo-ships-eca5d5a0)**
+  *<p>Article URL: <a href="https://www.wsj.com/pro/sustainable-business/dhl-set-to-transport-goods-on-new-wind-powered-cargo-ships-eca5d5a0">https://www.wsj.com/pro/sustainable-business/dhl-set-to-trans...*
+  📅 Mon, 22 Jun 2026 14:55:51 +0000
 
-- **[GLM 5.2 vs. Opus](https://techstackups.com/comparisons/glm-5.2-vs-opus/)**
-  *<p>Article URL: <a href="https://techstackups.com/comparisons/glm-5.2-vs-opus/">https://techstackups.com/comparisons/glm-5.2-vs-opus/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/ite...*
-  📅 Mon, 22 Jun 2026 07:22:03 +0000
+- **[I built Ponytrail, a local audit trail for AI coding-agent edits](https://github.com/0xroylee/ponytrail)**
+  *<p>Article URL: <a href="https://github.com/0xroylee/ponytrail">https://github.com/0xroylee/ponytrail</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=48631043">https://news.ycom...*
+  📅 Mon, 22 Jun 2026 14:54:59 +0000
 
-- **[Deno Desktop](https://docs.deno.com/runtime/desktop/)**
-  *<p>Article URL: <a href="https://docs.deno.com/runtime/desktop/">https://docs.deno.com/runtime/desktop/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=48626137">https://news.yc...*
-  📅 Mon, 22 Jun 2026 05:38:40 +0000
+- **[Claude Code's "extended thinking" is a summary- not authentic thinking](https://patrickmccanna.net/the-text-in-claude-codes-extended-thinking-output-is-not-authentic/)**
+  *<p>Article URL: <a href="https://patrickmccanna.net/the-text-in-claude-codes-extended-thinking-output-is-not-authentic/">https://patrickmccanna.net/the-text-in-claude-codes-extended-thinking-output-is...*
+  📅 Mon, 22 Jun 2026 14:22:46 +0000
 
-- **[Sakana Fugu](https://sakana.ai/fugu/)**
-  *<p>Article URL: <a href="https://sakana.ai/fugu/">https://sakana.ai/fugu/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=48624782">https://news.ycombinator.com/item?id=48624782...*
-  📅 Mon, 22 Jun 2026 02:08:18 +0000
+- **[Nvidia Halos](https://www.nvidia.com/en-us/ai-trust-center/halos/autonomous-vehicles/)**
+  *<p>Article URL: <a href="https://www.nvidia.com/en-us/ai-trust-center/halos/autonomous-vehicles/">https://www.nvidia.com/en-us/ai-trust-center/halos/autonomous-vehicles/</a></p>
+<p>Comments URL: <a hr...*
+  📅 Mon, 22 Jun 2026 13:57:49 +0000
 
-- **[1983 Northern Telecom Commodore Phone](https://www.oldtelephoneroom.ca/1983-northern-telecom-commodore-phone/)**
-  *<p>Article URL: <a href="https://www.oldtelephoneroom.ca/1983-northern-telecom-commodore-phone/">https://www.oldtelephoneroom.ca/1983-northern-telecom-commodore-phone/</a></p>
-<p>Comments URL: <a href...*
-  📅 Mon, 22 Jun 2026 00:34:33 +0000
+- **[Moebius: 0.2B image inpainting model with 10B-level performance](https://hustvl.github.io/Moebius/)**
+  *<p>Article URL: <a href="https://hustvl.github.io/Moebius/">https://hustvl.github.io/Moebius/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=48630171">https://news.ycombinator....*
+  📅 Mon, 22 Jun 2026 13:53:02 +0000
 
 ### 📑 TechCrunch
 
-- **[Ethan Thornton is trying to do everything all at once](https://techcrunch.com/2026/06/21/ethan-thornton-is-trying-to-do-everything-all-at-once/)**
-  *Mach's approach differs sharply from some of its peers....*
-  📅 Mon, 22 Jun 2026 05:31:59 +0000
+- **[WhatsApp gets new chief as Meta taps India’s CRED founder Kunal Shah, and invests $900M in startup](https://techcrunch.com/2026/06/22/whatsapp-gets-new-chief-as-meta-taps-indias-cred-founder-kunal-shah-and-invests-900m-in-startup/)**
+  *WhatsApp gets a new boss, as Will Cathcart moves to a new role at Meta, while Shah steps down as CEO of Indian fintech giant CRED to replace Cathcart....*
+  📅 Mon, 22 Jun 2026 15:21:42 +0000
 
-- **[Ubisoft co-founder Claude Guillemot dies in plane crash](https://techcrunch.com/2026/06/21/ubisoft-co-founder-claude-guillemot-dies-in-plane-crash/)**
-  *Claude Guillemot, who founded Ubisoft with his four brothers, has died at the age of 69....*
-  📅 Sun, 21 Jun 2026 18:34:31 +0000
+- **[Instagram looks to take on streaming services with longer-form, episodic and live formats for its TV app](https://techcrunch.com/2026/06/22/instagram-looks-to-take-on-streaming-services-with-longer-form-episodic-and-live-formats-for-its-tv-app/)**
+  *Instagram is coming for streaming services like Netflix and Amazon Prime Video as it sets its ambitions for living room viewing....*
+  📅 Mon, 22 Jun 2026 14:14:10 +0000
 
-- **[Polymarket reportedly paid creators to post deceptive videos about fake bets](https://techcrunch.com/2026/06/21/polymarket-reportedly-paid-creators-to-post-deceptive-videos-about-fake-bets/)**
-  *Many of those videos were reportedly filmed on “near-perfect copies” of the Polymarket website, while featuring trades and winnings that were not real....*
-  📅 Sun, 21 Jun 2026 16:35:00 +0000
+- **[The founder conference built for growth: TechCrunch Founder Summit pass rates increase June 26](https://techcrunch.com/2026/06/22/the-founder-conference-built-for-growth-techcrunch-founder-summit-pass-rates-increase-june-26/)**
+  *Save up to $190 on your pass to TechCrunch Founder Summit 2026 by June 26, 11:59 p.m. PT. Designed for founders first on November 4 in Boston. Register today....*
+  📅 Mon, 22 Jun 2026 14:00:00 +0000
 
-- **[TechCrunch Mobility: A new robotaxi scorecard shows China’s dominance](https://techcrunch.com/2026/06/21/techcrunch-mobility-a-new-robotaxi-scorecard-shows-chinas-dominance/)**
-  *Welcome back to TechCrunch Mobility — your central hub for news and insights on the future of transportation....*
-  📅 Sun, 21 Jun 2026 16:05:00 +0000
+- **[Lucid Motors’ new CEO cuts 18% of staff to ‘simplify the company’](https://techcrunch.com/2026/06/22/lucid-motors-new-ceo-cuts-18-of-staff-to-simplify-the-company/)**
+  *The company is also eliminating a production shift at its Arizona factory to align "production plans with anticipated demand."...*
+  📅 Mon, 22 Jun 2026 13:42:59 +0000
 
-- **[When the Trump administration cracks down on Anthropic, who benefits?](https://techcrunch.com/2026/06/21/when-the-trump-administration-cracks-down-on-anthropic-who-benefits/)**
-  *On the new episode of Equity, we discussed what actually prompted the administration's latest moves against Anthropic, and what this might mean for the AI ecosystem....*
-  📅 Sun, 21 Jun 2026 15:28:17 +0000
+- **[Seedcamp raises $320M for its new fund to expand its US footprint](https://techcrunch.com/2026/06/22/seedcamp-raises-320m-for-its-new-fund-to-expand-its-us-footprint/)**
+  *After 18 years of focusing on Europe, early-stage investor Seedcamp said that it has raised $320 million for its latest fund which will see it expanding its presence in the United States....*
+  📅 Mon, 22 Jun 2026 13:37:25 +0000
 
-- **[Beyond Siri: Here are the practical AI features coming to your iPhone in iOS 27](https://techcrunch.com/2026/06/21/beyond-siri-here-are-the-practical-ai-features-coming-to-your-iphone-in-ios-27/)**
-  *Siri’s AI overhaul may have grabbed the headlines at WWDC, but some of Apple’s most useful AI features are arriving elsewhere in iOS 27....*
-  📅 Sun, 21 Jun 2026 14:40:28 +0000
+- **[Klue hack results in data breach at several cybersecurity firms](https://techcrunch.com/2026/06/22/klue-hack-results-in-data-breach-at-several-cybersecurity-firms/)**
+  *Huntress, HackerOne, Jamf, Recorded Future, and Tanium are among the cybersecurity companies that had data stolen following an earlier breach at market research firm Klue....*
+  📅 Mon, 22 Jun 2026 13:36:08 +0000
 
 ### 📑 Dev.to
 
-- **[HTTP 402 Is Back](https://dev.to/get402/http-402-is-back-18ga)**
-  *<p>9|<br />
-    10|# HTTP 402 Is Back: How get402 Revives the Payment Required Status Code<br />
-    11|<br />
-    12|For decades, HTTP 402 "Payment Required" sat dormant in the HTTP specification — a...*
-  📅 Mon, 22 Jun 2026 11:20:43 +0000
+- **[Are We Ignoring Cryptography's Golden Age?](https://dev.to/prabashanadev/are-we-ignoring-cryptographys-golden-age-5h)**
+  *<h2>
+  
+  
+  Unveiling the Elegant Foundations: A Tutorial on the Vigenère Cipher
+</h2>
 
-- **[You Wanted Me to Delete the DB, Right?](https://dev.to/temrel/you-wanted-me-to-delete-the-db-right-151f)**
-  *<p><em>Originally published in <a href="https://spark.temrel.com/?utm_source=devto&amp;utm_medium=social&amp;utm_campaign=repurpose" rel="noopener noreferrer">Temrel</a>, a weekly newsletter on AI eng...*
-  📅 Mon, 22 Jun 2026 11:20:17 +0000
+<h3>
+  
+  
+  Introduction
+</h3>
+
+<p>In an era dominated by the dizzying complexity of zero-knowledge proofs, ho...*
+  📅 Mon, 22 Jun 2026 16:27:49 +0000
+
+- **[Top AI Papers on Hugging Face - 2026-06-22](https://dev.to/y_hnhnhan_2f26de65ffcc4/top-ai-papers-on-hugging-face-2026-06-22-402b)**
+  *<h1>
+  
+  
+  10 paper AI nổi bật nhất trên Hugging Face hôm nay: từ inpainting siêu nhẹ đến benchmark mới cho AI agent
+</h1>
+
+<p>Hôm nay mình tổng hợp 10 paper đang được upvote cao nhất trên Hugging F...*
+  📅 Mon, 22 Jun 2026 16:21:12 +0000
 
 </details>
 
@@ -120,103 +134,103 @@
 
 ### 📈 Daily Trending
 
-- **[HKUDS/AgentSpace](https://github.com/HKUDS/AgentSpace)** ⭐ 124
+- **[HKUDS/AgentSpace](https://github.com/HKUDS/AgentSpace)** ⭐ 176
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   "AgentSpace: Human + Agents. One Team. One Workspace"
 
-- **[WilonityInc/WilonityLoader](https://github.com/WilonityInc/WilonityLoader)** ⭐ 76
+- **[stoneclerkrevitalize/Lossless-Scaling-Download-2026](https://github.com/stoneclerkrevitalize/Lossless-Scaling-Download-2026)** ⭐ 151
+  ![None](https://img.shields.io/badge/-None-lightgrey)
+  ⭐️ Lossless Scaling download full version pre-activated keygen patch activator lifetime license upscaling tool frame generation gaming performance enhancer resolution scaling graphics optimization Windows PC installer loader mod software ⭐️
+
+- **[WilonityInc/WilonityLoader](https://github.com/WilonityInc/WilonityLoader)** ⭐ 97
   ![None](https://img.shields.io/badge/-None-lightgrey)
   Wilonity Loader is a unified launcher that enhances your favorite games with advanced features — intelligent aiming, visual overlays, intuitive UI improvements, and more. All in one free tool, updated regularly with community-driven support.
 
-- **[Restamongembroider/fortnite-utility](https://github.com/Restamongembroider/fortnite-utility)** ⭐ 43
+- **[Restamongembroider/fortnite-utility](https://github.com/Restamongembroider/fortnite-utility)** ⭐ 77
   ![None](https://img.shields.io/badge/-None-lightgrey)
   Fortnite soft aim and radar external pro with overlay intel, storm tracking and build-assist tools for battle royale on Windows.
 
-- **[ingriddaleusag-dotcom/PickTV](https://github.com/ingriddaleusag-dotcom/PickTV)** ⭐ 38
+- **[ingriddaleusag-dotcom/PickTV](https://github.com/ingriddaleusag-dotcom/PickTV)** ⭐ 62
   ![Java](https://img.shields.io/badge/-Java-orange)
   None
 
-- **[VioletPixelPlait/Software-Fl-Sudio](https://github.com/VioletPixelPlait/Software-Fl-Sudio)** ⭐ 22
+- **[VioletPixelPlait/Software-Fl-Sudio](https://github.com/VioletPixelPlait/Software-Fl-Sudio)** ⭐ 45
   ![None](https://img.shields.io/badge/-None-lightgrey)
   SoftwareHub is a simple, lightweight and convenient Windows utility that helps users quickly install FL Studio. The program provides clear step-by-step guidance, automates some installation steps and makes the whole process much easier and faster.
 
-- **[terrense/LLM_path_for_begginers](https://github.com/terrense/LLM_path_for_begginers)** ⭐ 20
-  ![None](https://img.shields.io/badge/-None-lightgrey)
-  None
+- **[ccrpRepo/robot_retargeter](https://github.com/ccrpRepo/robot_retargeter)** ⭐ 37
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  Motion retargeting pipeline from SMPL-X / source robots to target humanoid robots.
 
-- **[tllovesxs/wandao](https://github.com/tllovesxs/wandao)** ⭐ 19
+- **[tllovesxs/wandao](https://github.com/tllovesxs/wandao)** ⭐ 34
   ![Python](https://img.shields.io/badge/-Python-blue)
   万能导：多平台知识库 Markdown 全项目一键导出工具，用自动化代替手动复制粘贴(飞书,语雀,阿里云知识库,知识星球)
 
-- **[HackMoonString/SoftMaker-Office-2026](https://github.com/HackMoonString/SoftMaker-Office-2026)** ⭐ 15
-  ![None](https://img.shields.io/badge/-None-lightgrey)
-  softmaker office download windows — SoftMaker Office for Windows 11 & 10. Direct download, install steps and setup guide.
-
 ### 📈 Weekly Trending
 
-- **[vercel/eve](https://github.com/vercel/eve)** ⭐ 2,194
+- **[vercel/eve](https://github.com/vercel/eve)** ⭐ 2,223
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   The Framework for Building Agents
 
-- **[zhongerxin/Cowart](https://github.com/zhongerxin/Cowart)** ⭐ 1,748
+- **[zhongerxin/Cowart](https://github.com/zhongerxin/Cowart)** ⭐ 1,903
   ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
   None
 
-- **[rebel0789/codexpro](https://github.com/rebel0789/codexpro)** ⭐ 677
+- **[rebel0789/codexpro](https://github.com/rebel0789/codexpro)** ⭐ 700
   ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
   Use ChatGPT Developer Mode as a local coding agent for your repo through MCP.
 
-- **[Forsy-AI/agent-apprenticeship](https://github.com/Forsy-AI/agent-apprenticeship)** ⭐ 640
+- **[Forsy-AI/agent-apprenticeship](https://github.com/Forsy-AI/agent-apprenticeship)** ⭐ 662
   ![None](https://img.shields.io/badge/-None-lightgrey)
   The living ecosystem where AI agents learn from real-world work through iterative workflow loops, reusable experience, and collective training signal exchange.
 
-- **[aidenybai/cnfast](https://github.com/aidenybai/cnfast)** ⭐ 525
-  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
-  Fast drop in replacement for `cn`
-
-- **[Plaer1/junction](https://github.com/Plaer1/junction)** ⭐ 518
-  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
-  VS Code chat sidebar for local AI coding agents
-
-- **[ngrok/webernetes](https://github.com/ngrok/webernetes)** ⭐ 501
-  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
-  Kubernetes in the browser.
-
-- **[lyra81604/zhengxi-views](https://github.com/lyra81604/zhengxi-views)** ⭐ 479
+- **[lyra81604/zhengxi-views](https://github.com/lyra81604/zhengxi-views)** ⭐ 607
   ![Python](https://img.shields.io/badge/-Python-blue)
   可溯源的郑希(易方达基金经理)投研 Agent Skill——基于他全部公开观点原文 + 有原话佐证的投资方法 + 全市场基金真实数据，能溯源问答、按他框架给基金打分，绝不杜撰。⚠️仅研究学习辅助，不构成投资建议‼️website是郑希主页！
 
+- **[aidenybai/cnfast](https://github.com/aidenybai/cnfast)** ⭐ 591
+  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
+  Fast drop in replacement for `cn`
+
+- **[Plaer1/junction](https://github.com/Plaer1/junction)** ⭐ 521
+  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
+  VS Code chat sidebar for local AI coding agents
+
+- **[ngrok/webernetes](https://github.com/ngrok/webernetes)** ⭐ 508
+  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
+  Kubernetes in the browser.
+
 ### 📈 Monthly Trending
 
-- **[pewdiepie-archdaemon/odysseus](https://github.com/pewdiepie-archdaemon/odysseus)** ⭐ 76,008
+- **[pewdiepie-archdaemon/odysseus](https://github.com/pewdiepie-archdaemon/odysseus)** ⭐ 76,177
   ![Python](https://img.shields.io/badge/-Python-blue)
   Self-hosted AI workspace. 
 
-- **[DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail)** ⭐ 48,145
+- **[DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail)** ⭐ 48,974
   ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
   Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.
 
-- **[XiaomiMiMo/MiMo-Code](https://github.com/XiaomiMiMo/MiMo-Code)** ⭐ 10,285
+- **[XiaomiMiMo/MiMo-Code](https://github.com/XiaomiMiMo/MiMo-Code)** ⭐ 10,315
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   MiMo Code: Where Models and Agents Co-Evolve
 
-- **[shadcn/improve](https://github.com/shadcn/improve)** ⭐ 5,916
+- **[shadcn/improve](https://github.com/shadcn/improve)** ⭐ 5,942
   ![None](https://img.shields.io/badge/-None-lightgrey)
   Use your most capable model to audit your codebase and write plans for cheaper models to execute.
 
-- **[helloianneo/ian-xiaohei-illustrations](https://github.com/helloianneo/ian-xiaohei-illustrations)** ⭐ 5,620
+- **[helloianneo/ian-xiaohei-illustrations](https://github.com/helloianneo/ian-xiaohei-illustrations)** ⭐ 5,669
   ![None](https://img.shields.io/badge/-None-lightgrey)
   中文小黑怪诞正文配图生成 Skill | 16:9 白底手绘 | 少量红橙蓝批注 | Codex Skill
 
-- **[AprilNEA/OpenLogi](https://github.com/AprilNEA/OpenLogi)** ⭐ 5,229
+- **[AprilNEA/OpenLogi](https://github.com/AprilNEA/OpenLogi)** ⭐ 5,239
   ![Rust](https://img.shields.io/badge/-Rust-brown)
   ⚡️A native, local-first alternative to Logitech Options+, written in Rust 🦀 — remap buttons, DPI, and SmartShift over HID++. No account, no telemetry.
 
-- **[zgwl/chinese-buy-us-stock-guide](https://github.com/zgwl/chinese-buy-us-stock-guide)** ⭐ 4,817
+- **[zgwl/chinese-buy-us-stock-guide](https://github.com/zgwl/chinese-buy-us-stock-guide)** ⭐ 4,826
   ![None](https://img.shields.io/badge/-None-lightgrey)
   美股指南
 
-- **[omnigent-ai/omnigent](https://github.com/omnigent-ai/omnigent)** ⭐ 4,409
+- **[omnigent-ai/omnigent](https://github.com/omnigent-ai/omnigent)** ⭐ 4,435
   ![Python](https://img.shields.io/badge/-Python-blue)
   Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom agents — swap harnesses without rewriting, enforce policies and sandboxing, and collaborate in real time from any device.
 
@@ -492,56 +506,56 @@ This is a security release.
 | Java | 🟡 Learning |
 | Python | 🟢 Proficient |
 | JavaScript | ⚪ Planned |
-| TypeScript | 🟡 Learning |
-| Go | ⚪ Planned |
+| TypeScript | ⚪ Planned |
+| Go | 🟡 Learning |
 
 ### Frameworks
 
 | Skill | Status |
 |-------|--------|
-| React | 🟡 Learning |
-| Spring Boot | 🔴 Beginner |
-| Django | 🟢 Proficient |
-| Node.js | 🟡 Learning |
+| React | 🔴 Beginner |
+| Spring Boot | 🟢 Proficient |
+| Django | ⚪ Planned |
+| Node.js | 🟢 Proficient |
 | Next.js | ⚪ Planned |
 
 ### Cybersecurity
 
 | Skill | Status |
 |-------|--------|
-| Penetration Testing | ⚪ Planned |
-| Web Security | 🟢 Proficient |
-| Network Security | 🟢 Proficient |
-| OWASP | 🟡 Learning |
+| Penetration Testing | 🟡 Learning |
+| Web Security | 🔴 Beginner |
+| Network Security | 🔴 Beginner |
+| OWASP | ⚪ Planned |
 
 ### Ai Ml
 
 | Skill | Status |
 |-------|--------|
-| Machine Learning | 🔴 Beginner |
-| Deep Learning | 🟢 Proficient |
-| NLP | 🟡 Learning |
-| Computer Vision | ⚪ Planned |
-| TensorFlow | 🔴 Beginner |
+| Machine Learning | 🟡 Learning |
+| Deep Learning | ⚪ Planned |
+| NLP | ⚪ Planned |
+| Computer Vision | 🔴 Beginner |
+| TensorFlow | ⚪ Planned |
 | PyTorch | 🟢 Proficient |
 
 ### Devops
 
 | Skill | Status |
 |-------|--------|
-| Docker | 🔴 Beginner |
-| Kubernetes | ⚪ Planned |
-| CI/CD | 🟡 Learning |
+| Docker | ⚪ Planned |
+| Kubernetes | 🟢 Proficient |
+| CI/CD | 🔴 Beginner |
 | AWS | 🟡 Learning |
-| Azure | 🟡 Learning |
+| Azure | 🟢 Proficient |
 
 ### Other
 
 | Skill | Status |
 |-------|--------|
-| Blockchain | ⚪ Planned |
-| Web3 | 🟢 Proficient |
-| Cloud Computing | ⚪ Planned |
+| Blockchain | 🟢 Proficient |
+| Web3 | 🔴 Beginner |
+| Cloud Computing | 🟢 Proficient |
 
 </details>
 
