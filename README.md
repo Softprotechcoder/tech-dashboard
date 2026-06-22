@@ -46,6 +46,25 @@
 
 ### 📑 Hacker News
 
+- **[Codex logging bug may write TBs to local SSDs](https://github.com/openai/codex/issues/28224)**
+  *<p>Article URL: <a href="https://github.com/openai/codex/issues/28224">https://github.com/openai/codex/issues/28224</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=48626930">htt...*
+  📅 Mon, 22 Jun 2026 07:30:17 +0000
+
+- **[Investors get real-time view of UK bond market activity for the first time](https://www.fca.org.uk/news/press-releases/investors-get-real-time-view-uk-bond-market-activity-first-time)**
+  *<p>Article URL: <a href="https://www.fca.org.uk/news/press-releases/investors-get-real-time-view-uk-bond-market-activity-first-time">https://www.fca.org.uk/news/press-releases/investors-get-real-time-...*
+  📅 Mon, 22 Jun 2026 07:29:17 +0000
+
+- **[GLM 5.2 vs. Opus](https://techstackups.com/comparisons/glm-5.2-vs-opus/)**
+  *<p>Article URL: <a href="https://techstackups.com/comparisons/glm-5.2-vs-opus/">https://techstackups.com/comparisons/glm-5.2-vs-opus/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/ite...*
+  📅 Mon, 22 Jun 2026 07:22:03 +0000
+
+- **[Deno Desktop](https://docs.deno.com/runtime/desktop/)**
+  *<p>Article URL: <a href="https://docs.deno.com/runtime/desktop/">https://docs.deno.com/runtime/desktop/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=48626137">https://news.yc...*
+  📅 Mon, 22 Jun 2026 05:38:40 +0000
+
 - **[Sakana Fugu](https://sakana.ai/fugu/)**
   *<p>Article URL: <a href="https://sakana.ai/fugu/">https://sakana.ai/fugu/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=48624782">https://news.ycombinator.com/item?id=48624782...*
@@ -56,25 +75,11 @@
 <p>Comments URL: <a href...*
   📅 Mon, 22 Jun 2026 00:34:33 +0000
 
-- **[Petition against Meta's employee training data collection for ML models](https://mcipetition.com/)**
-  *<p>Article URL: <a href="https://mcipetition.com/">https://mcipetition.com/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=48623721">https://news.ycombinator.com/item?id=486237...*
-  📅 Sun, 21 Jun 2026 23:34:07 +0000
-
-- **[Good results fine tuning a local LLM like Qwen 3:0.6B to categorize questions](https://www.teachmecoolstuff.com/viewarticle/fine-tuning-a-local-llm-to-categorize-questions)**
-  *<p>Article URL: <a href="https://www.teachmecoolstuff.com/viewarticle/fine-tuning-a-local-llm-to-categorize-questions">https://www.teachmecoolstuff.com/viewarticle/fine-tuning-a-local-llm-to-categoriz...*
-  📅 Sun, 21 Jun 2026 22:55:23 +0000
-
-- **[Rent collections are down in New York](https://www.politico.com/news/2026/06/21/rent-collections-are-down-in-new-york-and-no-ones-sure-why-00966982)**
-  *<p>Article URL: <a href="https://www.politico.com/news/2026/06/21/rent-collections-are-down-in-new-york-and-no-ones-sure-why-00966982">https://www.politico.com/news/2026/06/21/rent-collections-are-dow...*
-  📅 Sun, 21 Jun 2026 21:54:34 +0000
-
-- **[Did my old job only exist because of fraud?](https://david.newgas.net/did-my-old-job-only-exist-because-of-fraud/)**
-  *<p>Article URL: <a href="https://david.newgas.net/did-my-old-job-only-exist-because-of-fraud/">https://david.newgas.net/did-my-old-job-only-exist-because-of-fraud/</a></p>
-<p>Comments URL: <a href="ht...*
-  📅 Sun, 21 Jun 2026 21:40:53 +0000
-
 ### 📑 TechCrunch
+
+- **[Ethan Thornton is trying to do everything all at once](https://techcrunch.com/2026/06/21/ethan-thornton-is-trying-to-do-everything-all-at-once/)**
+  *Mach's approach differs sharply from some of its peers....*
+  📅 Mon, 22 Jun 2026 05:31:59 +0000
 
 - **[Ubisoft co-founder Claude Guillemot dies in plane crash](https://techcrunch.com/2026/06/21/ubisoft-co-founder-claude-guillemot-dies-in-plane-crash/)**
   *Claude Guillemot, who founded Ubisoft with his four brothers, has died at the age of 69....*
@@ -96,19 +101,18 @@
   *Siri’s AI overhaul may have grabbed the headlines at WWDC, but some of Apple’s most useful AI features are arriving elsewhere in iOS 27....*
   📅 Sun, 21 Jun 2026 14:40:28 +0000
 
-- **[Signal’s Meredith Whittaker wants you to remember that AI chatbots ‘are not your friends’](https://techcrunch.com/2026/06/20/signals-meredith-whittaker-wants-you-to-remember-that-ai-chatbots-are-not-your-friends/)**
-  *"These are not your friends. These are not conscious beings. These are not sentient interlocutors.”...*
-  📅 Sat, 20 Jun 2026 20:32:29 +0000
-
 ### 📑 Dev.to
 
-- **[What is Monorepo ?](https://dev.to/abhinav-writes/what-is-monorepo--31dd)**
-  *<p>Have you ever built a full-stack application (without fullstack framework like NextJS), if yes so you might definitely know that you need to build two projects (frontend and backend) and need to wr...*
-  📅 Mon, 22 Jun 2026 02:50:00 +0000
+- **[HTTP 402 Is Back](https://dev.to/get402/http-402-is-back-18ga)**
+  *<p>9|<br />
+    10|# HTTP 402 Is Back: How get402 Revives the Payment Required Status Code<br />
+    11|<br />
+    12|For decades, HTTP 402 "Payment Required" sat dormant in the HTTP specification — a...*
+  📅 Mon, 22 Jun 2026 11:20:43 +0000
 
-- **[How UUIDs Actually Work: v4 Randomness, v7 Timestamps, and the Collision Math](https://dev.to/anh_qunnguyn_57549060f/how-uuids-actually-work-v4-randomness-v7-timestamps-and-the-collision-math-49pp)**
-  *<p>Every backend developer types <code>uuid()</code> a thousand times before ever asking what those 36 characters actually are. Then one day a senior engineer says "stop using v4 for your primary key,...*
-  📅 Mon, 22 Jun 2026 02:47:00 +0000
+- **[You Wanted Me to Delete the DB, Right?](https://dev.to/temrel/you-wanted-me-to-delete-the-db-right-151f)**
+  *<p><em>Originally published in <a href="https://spark.temrel.com/?utm_source=devto&amp;utm_medium=social&amp;utm_campaign=repurpose" rel="noopener noreferrer">Temrel</a>, a weekly newsletter on AI eng...*
+  📅 Mon, 22 Jun 2026 11:20:17 +0000
 
 </details>
 
@@ -116,103 +120,103 @@
 
 ### 📈 Daily Trending
 
+- **[HKUDS/AgentSpace](https://github.com/HKUDS/AgentSpace)** ⭐ 124
+  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
+  "AgentSpace: Human + Agents. One Team. One Workspace"
+
+- **[WilonityInc/WilonityLoader](https://github.com/WilonityInc/WilonityLoader)** ⭐ 76
+  ![None](https://img.shields.io/badge/-None-lightgrey)
+  Wilonity Loader is a unified launcher that enhances your favorite games with advanced features — intelligent aiming, visual overlays, intuitive UI improvements, and more. All in one free tool, updated regularly with community-driven support.
+
+- **[Restamongembroider/fortnite-utility](https://github.com/Restamongembroider/fortnite-utility)** ⭐ 43
+  ![None](https://img.shields.io/badge/-None-lightgrey)
+  Fortnite soft aim and radar external pro with overlay intel, storm tracking and build-assist tools for battle royale on Windows.
+
+- **[ingriddaleusag-dotcom/PickTV](https://github.com/ingriddaleusag-dotcom/PickTV)** ⭐ 38
+  ![Java](https://img.shields.io/badge/-Java-orange)
+  None
+
+- **[VioletPixelPlait/Software-Fl-Sudio](https://github.com/VioletPixelPlait/Software-Fl-Sudio)** ⭐ 22
+  ![None](https://img.shields.io/badge/-None-lightgrey)
+  SoftwareHub is a simple, lightweight and convenient Windows utility that helps users quickly install FL Studio. The program provides clear step-by-step guidance, automates some installation steps and makes the whole process much easier and faster.
+
+- **[terrense/LLM_path_for_begginers](https://github.com/terrense/LLM_path_for_begginers)** ⭐ 20
+  ![None](https://img.shields.io/badge/-None-lightgrey)
+  None
+
+- **[tllovesxs/wandao](https://github.com/tllovesxs/wandao)** ⭐ 19
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  万能导：多平台知识库 Markdown 全项目一键导出工具，用自动化代替手动复制粘贴(飞书,语雀,阿里云知识库,知识星球)
+
 - **[HackMoonString/SoftMaker-Office-2026](https://github.com/HackMoonString/SoftMaker-Office-2026)** ⭐ 15
   ![None](https://img.shields.io/badge/-None-lightgrey)
   softmaker office download windows — SoftMaker Office for Windows 11 & 10. Direct download, install steps and setup guide.
 
-- **[Blockadezemooring/Steam-Disk-Write-Error-Fix](https://github.com/Blockadezemooring/Steam-Disk-Write-Error-Fix)** ⭐ 15
-  ![None](https://img.shields.io/badge/-None-lightgrey)
-  steam disk write error — Steam Disk Write Error Fix for Windows 11 & 10. Direct repair download and step-by-step fix guide.
-
-- **[ManateeRepel/ArtRage-2026](https://github.com/ManateeRepel/ArtRage-2026)** ⭐ 14
-  ![None](https://img.shields.io/badge/-None-lightgrey)
-  artrage download windows — ArtRage for Windows 11 & 10. Direct download, install steps and setup guide.
-
-- **[NorthGladiator/DNS-Server-Not-Responding-Fix](https://github.com/NorthGladiator/DNS-Server-Not-Responding-Fix)** ⭐ 13
-  ![None](https://img.shields.io/badge/-None-lightgrey)
-  dns server not responding — DNS Server Not Responding Fix for Windows 11 & 10. Direct repair download and step-by-step fix guide.
-
-- **[TruckerEdge73/Nitro-PDF-Pro-2026](https://github.com/TruckerEdge73/Nitro-PDF-Pro-2026)** ⭐ 13
-  ![None](https://img.shields.io/badge/-None-lightgrey)
-  nitro pdf pro download — Nitro PDF Pro for Windows 11 & 10. Direct download, install steps and setup guide.
-
-- **[Channellunavolt/Avid-Pro-Tools-2026](https://github.com/Channellunavolt/Avid-Pro-Tools-2026)** ⭐ 13
-  ![None](https://img.shields.io/badge/-None-lightgrey)
-  pro tools download windows — Avid Pro Tools for Windows 11 & 10. Direct download, install steps and setup guide.
-
-- **[Polishcharemain/PhpStorm-2026](https://github.com/Polishcharemain/PhpStorm-2026)** ⭐ 13
-  ![None](https://img.shields.io/badge/-None-lightgrey)
-  phpstorm download windows — JetBrains PhpStorm for Windows 11 & 10. Direct download, install steps and setup guide.
-
-- **[MysticColonelSucceed/Error-0x80070005-Fix](https://github.com/MysticColonelSucceed/Error-0x80070005-Fix)** ⭐ 12
-  ![None](https://img.shields.io/badge/-None-lightgrey)
-  error 0x80070005 access is denied — Error 0x80070005 Fix for Windows 11 & 10. Direct repair download and step-by-step fix guide.
-
 ### 📈 Weekly Trending
 
-- **[vercel/eve](https://github.com/vercel/eve)** ⭐ 2,097
+- **[vercel/eve](https://github.com/vercel/eve)** ⭐ 2,194
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   The Framework for Building Agents
 
-- **[zhongerxin/Cowart](https://github.com/zhongerxin/Cowart)** ⭐ 1,310
+- **[zhongerxin/Cowart](https://github.com/zhongerxin/Cowart)** ⭐ 1,748
   ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
   None
 
-- **[rebel0789/codexpro](https://github.com/rebel0789/codexpro)** ⭐ 629
+- **[rebel0789/codexpro](https://github.com/rebel0789/codexpro)** ⭐ 677
   ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
   Use ChatGPT Developer Mode as a local coding agent for your repo through MCP.
 
-- **[Forsy-AI/agent-apprenticeship](https://github.com/Forsy-AI/agent-apprenticeship)** ⭐ 610
+- **[Forsy-AI/agent-apprenticeship](https://github.com/Forsy-AI/agent-apprenticeship)** ⭐ 640
   ![None](https://img.shields.io/badge/-None-lightgrey)
   The living ecosystem where AI agents learn from real-world work through iterative workflow loops, reusable experience, and collective training signal exchange.
+
+- **[aidenybai/cnfast](https://github.com/aidenybai/cnfast)** ⭐ 525
+  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
+  Fast drop in replacement for `cn`
 
 - **[Plaer1/junction](https://github.com/Plaer1/junction)** ⭐ 518
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   VS Code chat sidebar for local AI coding agents
 
-- **[ngrok/webernetes](https://github.com/ngrok/webernetes)** ⭐ 484
+- **[ngrok/webernetes](https://github.com/ngrok/webernetes)** ⭐ 501
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   Kubernetes in the browser.
 
-- **[boogu-project/Boogu-Image](https://github.com/boogu-project/Boogu-Image)** ⭐ 397
+- **[lyra81604/zhengxi-views](https://github.com/lyra81604/zhengxi-views)** ⭐ 479
   ![Python](https://img.shields.io/badge/-Python-blue)
-  Boogu-Image-0.1 is an Apache-2.0 open-source image generation and editing model family that delivers near-closed-source performance with an order of magnitude less data.
-
-- **[MstKail/polymarket-trading-bot-services-polyedge365](https://github.com/MstKail/polymarket-trading-bot-services-polyedge365)** ⭐ 380
-  ![None](https://img.shields.io/badge/-None-lightgrey)
-  polymarket trading bot services, polymarket copy trading bot, polymarket arbitrage bot, polymarket hedge bot, polymarket maker bot, polymarket trading bot services, polymarket copy trading bot, polymarket arbitrage bot, polymarket hedge bot, polymarket maker bot, polymarket trading bot services, polymarket copy trading bot, polymarket arbitrage bot
+  可溯源的郑希(易方达基金经理)投研 Agent Skill——基于他全部公开观点原文 + 有原话佐证的投资方法 + 全市场基金真实数据，能溯源问答、按他框架给基金打分，绝不杜撰。⚠️仅研究学习辅助，不构成投资建议‼️website是郑希主页！
 
 ### 📈 Monthly Trending
 
-- **[pewdiepie-archdaemon/odysseus](https://github.com/pewdiepie-archdaemon/odysseus)** ⭐ 75,780
+- **[pewdiepie-archdaemon/odysseus](https://github.com/pewdiepie-archdaemon/odysseus)** ⭐ 76,008
   ![Python](https://img.shields.io/badge/-Python-blue)
   Self-hosted AI workspace. 
 
-- **[DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail)** ⭐ 46,497
+- **[DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail)** ⭐ 48,145
   ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
   Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.
 
-- **[XiaomiMiMo/MiMo-Code](https://github.com/XiaomiMiMo/MiMo-Code)** ⭐ 10,201
+- **[XiaomiMiMo/MiMo-Code](https://github.com/XiaomiMiMo/MiMo-Code)** ⭐ 10,285
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   MiMo Code: Where Models and Agents Co-Evolve
 
-- **[shadcn/improve](https://github.com/shadcn/improve)** ⭐ 5,879
+- **[shadcn/improve](https://github.com/shadcn/improve)** ⭐ 5,916
   ![None](https://img.shields.io/badge/-None-lightgrey)
   Use your most capable model to audit your codebase and write plans for cheaper models to execute.
 
-- **[helloianneo/ian-xiaohei-illustrations](https://github.com/helloianneo/ian-xiaohei-illustrations)** ⭐ 5,554
+- **[helloianneo/ian-xiaohei-illustrations](https://github.com/helloianneo/ian-xiaohei-illustrations)** ⭐ 5,620
   ![None](https://img.shields.io/badge/-None-lightgrey)
   中文小黑怪诞正文配图生成 Skill | 16:9 白底手绘 | 少量红橙蓝批注 | Codex Skill
 
-- **[AprilNEA/OpenLogi](https://github.com/AprilNEA/OpenLogi)** ⭐ 5,217
+- **[AprilNEA/OpenLogi](https://github.com/AprilNEA/OpenLogi)** ⭐ 5,229
   ![Rust](https://img.shields.io/badge/-Rust-brown)
   ⚡️A native, local-first alternative to Logitech Options+, written in Rust 🦀 — remap buttons, DPI, and SmartShift over HID++. No account, no telemetry.
 
-- **[zgwl/chinese-buy-us-stock-guide](https://github.com/zgwl/chinese-buy-us-stock-guide)** ⭐ 4,798
+- **[zgwl/chinese-buy-us-stock-guide](https://github.com/zgwl/chinese-buy-us-stock-guide)** ⭐ 4,817
   ![None](https://img.shields.io/badge/-None-lightgrey)
   美股指南
 
-- **[omnigent-ai/omnigent](https://github.com/omnigent-ai/omnigent)** ⭐ 4,340
+- **[omnigent-ai/omnigent](https://github.com/omnigent-ai/omnigent)** ⭐ 4,409
   ![Python](https://img.shields.io/badge/-Python-blue)
   Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom agents — swap harnesses without rewriting, enforce policies and sandboxing, and collaborate in real time from any device.
 
@@ -485,21 +489,21 @@ This is a security release.
 
 | Skill | Status |
 |-------|--------|
-| Java | 🟢 Proficient |
-| Python | 🔴 Beginner |
-| JavaScript | 🟡 Learning |
-| TypeScript | 🔴 Beginner |
+| Java | 🟡 Learning |
+| Python | 🟢 Proficient |
+| JavaScript | ⚪ Planned |
+| TypeScript | 🟡 Learning |
 | Go | ⚪ Planned |
 
 ### Frameworks
 
 | Skill | Status |
 |-------|--------|
-| React | 🟢 Proficient |
+| React | 🟡 Learning |
 | Spring Boot | 🔴 Beginner |
-| Django | 🟡 Learning |
-| Node.js | 🔴 Beginner |
-| Next.js | 🟢 Proficient |
+| Django | 🟢 Proficient |
+| Node.js | 🟡 Learning |
+| Next.js | ⚪ Planned |
 
 ### Cybersecurity
 
@@ -507,37 +511,37 @@ This is a security release.
 |-------|--------|
 | Penetration Testing | ⚪ Planned |
 | Web Security | 🟢 Proficient |
-| Network Security | 🟡 Learning |
+| Network Security | 🟢 Proficient |
 | OWASP | 🟡 Learning |
 
 ### Ai Ml
 
 | Skill | Status |
 |-------|--------|
-| Machine Learning | ⚪ Planned |
-| Deep Learning | 🟡 Learning |
-| NLP | ⚪ Planned |
-| Computer Vision | 🟡 Learning |
-| TensorFlow | ⚪ Planned |
-| PyTorch | 🔴 Beginner |
+| Machine Learning | 🔴 Beginner |
+| Deep Learning | 🟢 Proficient |
+| NLP | 🟡 Learning |
+| Computer Vision | ⚪ Planned |
+| TensorFlow | 🔴 Beginner |
+| PyTorch | 🟢 Proficient |
 
 ### Devops
 
 | Skill | Status |
 |-------|--------|
-| Docker | 🟢 Proficient |
+| Docker | 🔴 Beginner |
 | Kubernetes | ⚪ Planned |
 | CI/CD | 🟡 Learning |
-| AWS | 🟢 Proficient |
-| Azure | 🟢 Proficient |
+| AWS | 🟡 Learning |
+| Azure | 🟡 Learning |
 
 ### Other
 
 | Skill | Status |
 |-------|--------|
-| Blockchain | 🟢 Proficient |
-| Web3 | 🔴 Beginner |
-| Cloud Computing | 🟡 Learning |
+| Blockchain | ⚪ Planned |
+| Web3 | 🟢 Proficient |
+| Cloud Computing | ⚪ Planned |
 
 </details>
 
