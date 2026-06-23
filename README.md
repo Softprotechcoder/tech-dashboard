@@ -46,37 +46,54 @@
 
 ### 📑 Hacker News
 
-- **[AI Built a Nuke and Still Lost](https://www.lwilko.com/blog/i-gave-an-ai-a-civilization)**
-  *<p>Article URL: <a href="https://www.lwilko.com/blog/i-gave-an-ai-a-civilization">https://www.lwilko.com/blog/i-gave-an-ai-a-civilization</a></p>
+- **[Spying on kids to save kids from spying is stupid](https://pluralistic.net/2026/06/23/destroy-the-village/)**
+  *<p>Article URL: <a href="https://pluralistic.net/2026/06/23/destroy-the-village/">https://pluralistic.net/2026/06/23/destroy-the-village/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com...*
-  📅 Tue, 23 Jun 2026 08:16:45 +0000
+  📅 Tue, 23 Jun 2026 14:04:43 +0000
 
-- **[The new HTTP QUERY method explained](https://kreya.app/blog/new-http-query-method-explained/)**
-  *<p>Article URL: <a href="https://kreya.app/blog/new-http-query-method-explained/">https://kreya.app/blog/new-http-query-method-explained/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com...*
-  📅 Tue, 23 Jun 2026 06:05:37 +0000
+- **[MSG Made Dossier on Activists Who Opposed Facial Recognition](https://www.404media.co/madison-square-garden-made-dossier-on-activists-who-opposed-facial-recognition/)**
+  *<p>Article URL: <a href="https://www.404media.co/madison-square-garden-made-dossier-on-activists-who-opposed-facial-recognition/">https://www.404media.co/madison-square-garden-made-dossier-on-activist...*
+  📅 Tue, 23 Jun 2026 13:36:10 +0000
 
-- **[Who Does What? Team Topologies for the Agentic Platform](https://blog.owulveryck.info/2026/06/22/who-does-what-team-topologies-for-the-agentic-platform.html)**
-  *<p>Article URL: <a href="https://blog.owulveryck.info/2026/06/22/who-does-what-team-topologies-for-the-agentic-platform.html">https://blog.owulveryck.info/2026/06/22/who-does-what-team-topologies-for-...*
-  📅 Tue, 23 Jun 2026 04:40:08 +0000
+- **[Oracle shed about 20k roles globally in the last year](https://www.bbc.com/news/articles/c4gy0x0j5deo)**
+  *<p>Article URL: <a href="https://www.bbc.com/news/articles/c4gy0x0j5deo">https://www.bbc.com/news/articles/c4gy0x0j5deo</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=48643620"...*
+  📅 Tue, 23 Jun 2026 11:54:48 +0000
 
-- **[Show HN: A pure ARM64 Assembly web server, now on Linux with CGI for no reason](https://github.com/imtomt/ymawky/tree/linux)**
-  *<p>This is ymawky, a now-dynamic web server written entirely in ARM64 Assembly. I've previously posted about ymawky here: <a href="https://news.ycombinator.com/item?id=48080587">https://news.ycombinat...*
-  📅 Tue, 23 Jun 2026 04:28:14 +0000
+- **[Unlimited OCR: One-Shot Long-Horizon Parsing](https://github.com/baidu/Unlimited-OCR)**
+  *<p>Article URL: <a href="https://github.com/baidu/Unlimited-OCR">https://github.com/baidu/Unlimited-OCR</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=48643426">https://news.yc...*
+  📅 Tue, 23 Jun 2026 11:35:05 +0000
 
-- **[Will It Mythos?](https://swelljoe.com/post/will-it-mythos/)**
-  *<p>Article URL: <a href="https://swelljoe.com/post/will-it-mythos/">https://swelljoe.com/post/will-it-mythos/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=48640196">https://n...*
-  📅 Tue, 23 Jun 2026 04:15:04 +0000
+- **[The Coming Loop](https://lucumr.pocoo.org/2026/6/23/the-coming-loop/)**
+  *<p>Article URL: <a href="https://lucumr.pocoo.org/2026/6/23/the-coming-loop/">https://lucumr.pocoo.org/2026/6/23/the-coming-loop/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id...*
+  📅 Tue, 23 Jun 2026 11:06:41 +0000
 
-- **[Ultralytics YOLO26: Unified Real-Time End-to-End Vision Models](https://arxiv.org/abs/2606.03748)**
-  *<p>Article URL: <a href="https://arxiv.org/abs/2606.03748">https://arxiv.org/abs/2606.03748</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=48639434">https://news.ycombinator.co...*
-  📅 Tue, 23 Jun 2026 02:28:00 +0000
+- **[Apple is going to raise device prices, but when?](https://daringfireball.net/linked/2026/06/22/apple-device-prices-when)**
+  *<p>Article URL: <a href="https://daringfireball.net/linked/2026/06/22/apple-device-prices-when">https://daringfireball.net/linked/2026/06/22/apple-device-prices-when</a></p>
+<p>Comments URL: <a href="...*
+  📅 Tue, 23 Jun 2026 10:54:56 +0000
 
 ### 📑 TechCrunch
 
-- **[The running list: major tech layoffs in 2026 where employers cited AI](https://techcrunch.com/2026/06/22/the-running-list-major-tech-layoffs-in-2026-where-employers-cited-ai/)**
+- **[Meta debuts new, cheaper smart glasses under its own brand](https://techcrunch.com/2026/06/23/meta-debuts-new-cheaper-smart-glasses-under-its-own-brand/)**
+  *The smart glasses are available in several countries starting today in a variety of color and lens combinations....*
+  📅 Tue, 23 Jun 2026 14:11:23 +0000
+
+- **[4 days left to save up to $190 on TechCrunch Founder Summit 2026](https://techcrunch.com/2026/06/23/4-days-left-to-save-up-to-190-on-techcrunch-founder-summit-2026/)**
+  *Four days left to save up to $190 on your pass to TechCrunch Founder Summit 2026 - the ultimate founder bootcamp - before Early Bird rates end on June 26 at 11:59 p.m. PT. Register here....*
+  📅 Tue, 23 Jun 2026 14:00:00 +0000
+
+- **[Ribbie turns real-time baseball stats into arcade-like, pixel art broadcasts](https://techcrunch.com/2026/06/23/ribbie-turns-real-time-baseball-stats-into-arcade-like-pixel-art-broadcasts/)**
+  *Ribbie lets you follow along live with MLB games with a delightful, arcade-inspired interface....*
+  📅 Tue, 23 Jun 2026 13:58:30 +0000
+
+- **[Fika Jobs raises $4M to build a video-first hiring platform where AI agents interview candidates](https://techcrunch.com/2026/06/23/fika-jobs-raises-4m-to-build-a-video-first-hiring-platform-where-ai-agents-interview-candidates/)**
+  *Stockholm-based startup Fika Jobs is building a video-first hiring platform that combines AI interview agents with short-form video profiles, creating something that feels like a cross between LinkedI...*
+  📅 Tue, 23 Jun 2026 13:00:00 +0000
+
+- **[The running list: Major tech layoffs in 2026 where employers cited AI](https://techcrunch.com/2026/06/22/the-running-list-major-tech-layoffs-in-2026-where-employers-cited-ai/)**
   *A running look — in reverse chronological order — at the bigger tech companies that have announced significant layoffs this year with AI as a stated factor....*
   📅 Tue, 23 Jun 2026 01:27:55 +0000
 
@@ -84,33 +101,15 @@
   *OpenAI is using AI to help the open source community better protect itself....*
   📅 Tue, 23 Jun 2026 00:11:31 +0000
 
-- **[Tesla pushes back on Autopilot narrative after fatal Texas crash](https://techcrunch.com/2026/06/22/tesla-pushes-back-on-autopilot-narrative-after-fatal-texas-crash/)**
-  *Whether the Autopilot system was truly active, overridden, or malfunctioning likely won't be resolved until investigators finish combing through the vehicle's data logs....*
-  📅 Mon, 22 Jun 2026 22:59:57 +0000
-
-- **[Shareholders sue Uber’s board over sexual assaults, other incidents](https://techcrunch.com/2026/06/22/shareholders-sue-ubers-board-over-sexual-assaults-other-incidents/)**
-  *The lawsuit, led by a Detroit pension fund, alleges Uber's board and management has cut too many compliance corners, resulting in thousands of lawsuits....*
-  📅 Mon, 22 Jun 2026 22:43:12 +0000
-
-- **[The AI world is getting ‘loopy’](https://techcrunch.com/2026/06/22/the-ai-world-is-getting-loopy/)**
-  *The loop takes agentic AI a step further by authorizing a swarm of agents to work continuously in the background, endlessly....*
-  📅 Mon, 22 Jun 2026 20:53:11 +0000
-
-- **[Microsoft and Chevron plan one of the largest gas-powered data center projects in US](https://techcrunch.com/2026/06/22/microsoft-and-chevron-plan-one-of-the-largest-gas-powered-data-center-projects-in-us/)**
-  *Microsoft inked a 20-year power purchase agreement with Chevron, locking in decades of carbon emissions from a new natural gas power plant....*
-  📅 Mon, 22 Jun 2026 20:37:19 +0000
-
 ### 📑 Dev.to
 
-- **[5 lessons from 5 interviews on AI agents and web scraping](https://dev.to/extractdata/5-lessons-from-5-interviews-on-ai-agents-and-web-scraping-107m)**
-  *<p>Over the last few months, I’ve been interviewing people at Zyte about AI, agents, web scraping, data quality, and what actually changes when LLMs enter developer workflows.</p>
+- **[Glama clones your repo. Smithery proxies your HTTP. mcp.so wants a markdown line.](https://dev.to/kfuras/glama-clones-your-repo-smithery-proxies-your-http-mcpso-wants-a-markdown-line-18f5)**
+  *<p>I spent yesterday afternoon trying to list one MCP server on three catalogs: Glama, Smithery, and mcp.so. I assumed they would be variations of the same thing — git URL goes in, listing comes out.<...*
+  📅 Tue, 23 Jun 2026 14:25:05 +0000
 
-<p>These were not a...*
-  📅 Tue, 23 Jun 2026 08:46:14 +0000
-
-- **[Pressure-Testing My Own Explanations — A Swift Writing Exercise](https://dev.to/gamya_m/pressure-testing-my-own-explanations-a-swift-writing-exercise-58j3)**
-  *<p>When you've worked with a concept long enough, there's a gap that can quietly open up between "I know how this works" and "I can explain <em>exactly</em> why this works, including the edge cases th...*
-  📅 Tue, 23 Jun 2026 08:44:00 +0000
+- **[Why AI agents can't draw SVG (and what to do instead)](https://dev.to/msteja/why-ai-agents-cant-draw-svg-and-what-to-do-instead-1ci)**
+  *<p>Ask any frontier model to "draw an architecture diagram as SVG" and you'll get something that <em>looks</em> like markup and renders like a ransom note: boxes overlapping, labels spilling past thei...*
+  📅 Tue, 23 Jun 2026 14:21:33 +0000
 
 </details>
 
@@ -118,105 +117,105 @@
 
 ### 📈 Daily Trending
 
+- **[bozhouDev/codex-orange-book](https://github.com/bozhouDev/codex-orange-book)** ⭐ 251
+  ![HTML](https://img.shields.io/badge/-HTML-lightgrey)
+  Codex 橙皮书：从安装到实战案例的全链路 Codex 使用指南（非官方开源，含可下载 PDF）
+
 - **[pulsewarriorrank/Lossless-Scaling-Download-2026](https://github.com/pulsewarriorrank/Lossless-Scaling-Download-2026)** ⭐ 197
   ![None](https://img.shields.io/badge/-None-lightgrey)
   ⭐️ Lossless Scaling download full version pre-activated keygen patch activator lifetime license upscaling tool frame generation gaming performance enhancer resolution scaling graphics optimization Windows PC installer loader mod software ⭐️
 
-- **[bozhouDev/codex-orange-book](https://github.com/bozhouDev/codex-orange-book)** ⭐ 105
-  ![HTML](https://img.shields.io/badge/-HTML-lightgrey)
-  Codex 橙皮书：从安装到实战案例的全链路 Codex 使用指南（非官方开源，含可下载 PDF）
-
-- **[goehou/tabbit-toy](https://github.com/goehou/tabbit-toy)** ⭐ 83
+- **[goehou/tabbit-toy](https://github.com/goehou/tabbit-toy)** ⭐ 146
   ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
   这是一个基于tabbit的研究包，可以转化成OAI格式出来，同时增加了会员认证功能和一键提取cookie的浏览器拓展，方便快速本地快速使用claude gpt等模型
 
-- **[WMarok/WilonityV3](https://github.com/WMarok/WilonityV3)** ⭐ 51
-  ![None](https://img.shields.io/badge/-None-lightgrey)
-  Best free executor
-
-- **[Naturekicolumn/Wilonity-Games](https://github.com/Naturekicolumn/Wilonity-Games)** ⭐ 51
+- **[Naturekicolumn/Wilonity-Games](https://github.com/Naturekicolumn/Wilonity-Games)** ⭐ 131
   ![None](https://img.shields.io/badge/-None-lightgrey)
   Wilonity Loader is a unified launcher that enhances your favorite games with advanced features — intelligent aiming, visual overlays, intuitive UI improvements, and more.
 
-- **[lynx4q/USDT-Flasher-Web-Tool](https://github.com/lynx4q/USDT-Flasher-Web-Tool)** ⭐ 35
+- **[ObsidianOwl123/AgentLens](https://github.com/ObsidianOwl123/AgentLens)** ⭐ 80
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  Lightweight AI context compressor for LLM agents
+
+- **[Simpl3x3/ESEILANE](https://github.com/Simpl3x3/ESEILANE)** ⭐ 64
+  ![Ruby](https://img.shields.io/badge/-Ruby-lightgrey)
+  High-performance Knowledge Graph engine for AI, LLMs, and GraphRAG — built for the next generation of intelligent applications.
+
+- **[egorpavlov0/Flash-USDT-Sender](https://github.com/egorpavlov0/Flash-USDT-Sender)** ⭐ 53
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  Flash USDT Sender — Multi-network flash transaction tool for USDT, BTC, and ETH with configurable duration, custom gas settings, ERC-20/TRC-20/BEP-20 support, and block explorer-visible confirmations
+
+- **[lynx4q/USDT-Flasher-Web-Tool](https://github.com/lynx4q/USDT-Flasher-Web-Tool)** ⭐ 52
   ![None](https://img.shields.io/badge/-None-lightgrey)
   None
-
-- **[Pulsedesrace/Wilonity-exploit](https://github.com/Pulsedesrace/Wilonity-exploit)** ⭐ 34
-  ![None](https://img.shields.io/badge/-None-lightgrey)
-  The best loader games magic! Uses 2026 free | undetect 
-
-- **[Her-shey/fastloops](https://github.com/Her-shey/fastloops)** ⭐ 33
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  Fast and one click setup with AI loops — run, check, fix, repeat until done.
 
 ### 📈 Weekly Trending
 
-- **[zhongerxin/Cowart](https://github.com/zhongerxin/Cowart)** ⭐ 2,189
+- **[zhongerxin/Cowart](https://github.com/zhongerxin/Cowart)** ⭐ 2,293
   ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
   None
 
-- **[baidu/Unlimited-OCR](https://github.com/baidu/Unlimited-OCR)** ⭐ 1,147
+- **[baidu/Unlimited-OCR](https://github.com/baidu/Unlimited-OCR)** ⭐ 2,107
   ![Python](https://img.shields.io/badge/-Python-blue)
   Unlimited OCR Works: Welcome the Era of One-shot Long-horizon Parsing.
 
-- **[lyra81604/zhengxi-views](https://github.com/lyra81604/zhengxi-views)** ⭐ 773
+- **[lyra81604/zhengxi-views](https://github.com/lyra81604/zhengxi-views)** ⭐ 858
   ![Python](https://img.shields.io/badge/-Python-blue)
   可溯源的郑希(易方达基金经理)投研 Agent Skill——基于他全部公开观点原文 + 有原话佐证的投资方法 + 全市场基金真实数据，能溯源问答、按他框架给基金打分，绝不杜撰。⚠️仅研究学习辅助，不构成投资建议‼️website是郑希主页！
 
-- **[Forsy-AI/agent-apprenticeship](https://github.com/Forsy-AI/agent-apprenticeship)** ⭐ 745
+- **[Forsy-AI/agent-apprenticeship](https://github.com/Forsy-AI/agent-apprenticeship)** ⭐ 794
   ![None](https://img.shields.io/badge/-None-lightgrey)
   The living ecosystem where AI agents learn from real-world work through iterative workflow loops, reusable experience, and collective training signal exchange.
 
-- **[aidenybai/cnfast](https://github.com/aidenybai/cnfast)** ⭐ 702
+- **[aidenybai/cnfast](https://github.com/aidenybai/cnfast)** ⭐ 734
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   Fast drop in replacement for `cn`
 
-- **[kanavtwtgg/birds.cafe](https://github.com/kanavtwtgg/birds.cafe)** ⭐ 623
+- **[kanavtwtgg/birds.cafe](https://github.com/kanavtwtgg/birds.cafe)** ⭐ 670
   ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
   None
 
-- **[Plaer1/junction](https://github.com/Plaer1/junction)** ⭐ 526
+- **[Plaer1/junction](https://github.com/Plaer1/junction)** ⭐ 528
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   VS Code chat sidebar for local AI coding agents
 
-- **[cloudflare/security-audit-skill](https://github.com/cloudflare/security-audit-skill)** ⭐ 420
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
-  A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings
+- **[sums001/Windows-Copilot-API](https://github.com/sums001/Windows-Copilot-API)** ⭐ 465
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  Reverse engineered Windows Copilot into an OpenAI-compatible API. Access GPT-4 and GPT-5 models through a simple REST interface without API keys or billing.
 
 ### 📈 Monthly Trending
 
-- **[pewdiepie-archdaemon/odysseus](https://github.com/pewdiepie-archdaemon/odysseus)** ⭐ 76,531
+- **[pewdiepie-archdaemon/odysseus](https://github.com/pewdiepie-archdaemon/odysseus)** ⭐ 76,679
   ![Python](https://img.shields.io/badge/-Python-blue)
   Self-hosted AI workspace. 
 
-- **[DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail)** ⭐ 50,836
+- **[DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail)** ⭐ 51,594
   ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
   Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.
 
-- **[XiaomiMiMo/MiMo-Code](https://github.com/XiaomiMiMo/MiMo-Code)** ⭐ 10,403
+- **[XiaomiMiMo/MiMo-Code](https://github.com/XiaomiMiMo/MiMo-Code)** ⭐ 10,456
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   MiMo Code: Where Models and Agents Co-Evolve
 
-- **[shadcn/improve](https://github.com/shadcn/improve)** ⭐ 6,011
+- **[shadcn/improve](https://github.com/shadcn/improve)** ⭐ 6,034
   ![None](https://img.shields.io/badge/-None-lightgrey)
   Use your most capable model to audit your codebase and write plans for cheaper models to execute.
 
-- **[helloianneo/ian-xiaohei-illustrations](https://github.com/helloianneo/ian-xiaohei-illustrations)** ⭐ 5,801
+- **[helloianneo/ian-xiaohei-illustrations](https://github.com/helloianneo/ian-xiaohei-illustrations)** ⭐ 5,853
   ![None](https://img.shields.io/badge/-None-lightgrey)
   中文小黑怪诞正文配图生成 Skill | 16:9 白底手绘 | 少量红橙蓝批注 | Codex Skill
 
-- **[zgwl/chinese-buy-us-stock-guide](https://github.com/zgwl/chinese-buy-us-stock-guide)** ⭐ 4,840
-  ![None](https://img.shields.io/badge/-None-lightgrey)
-  美股指南
-
-- **[omnigent-ai/omnigent](https://github.com/omnigent-ai/omnigent)** ⭐ 4,505
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom agents — swap harnesses without rewriting, enforce policies and sandboxing, and collaborate in real time from any device.
-
-- **[unicity-astrid/book](https://github.com/unicity-astrid/book)** ⭐ 4,461
+- **[unicity-astrid/book](https://github.com/unicity-astrid/book)** ⭐ 5,271
   ![Perl](https://img.shields.io/badge/-Perl-lightgrey)
   The canonical reference for Astrid OS: kernel, capsules, host ABI, the bus, and the security model.
+
+- **[unicity-astrid/handbook](https://github.com/unicity-astrid/handbook)** ⭐ 5,142
+  ![None](https://img.shields.io/badge/-None-lightgrey)
+  How to work on Astrid: the polyrepo, the kernel-is-dumb law, the RFC trigger, contribution tiers, and the release process.
+
+- **[zgwl/chinese-buy-us-stock-guide](https://github.com/zgwl/chinese-buy-us-stock-guide)** ⭐ 4,850
+  ![None](https://img.shields.io/badge/-None-lightgrey)
+  美股指南
 
 ## 🚀 Latest Releases
 
@@ -487,59 +486,59 @@ This is a security release.
 
 | Skill | Status |
 |-------|--------|
-| Java | 🔴 Beginner |
+| Java | 🟢 Proficient |
 | Python | 🟡 Learning |
-| JavaScript | 🟡 Learning |
-| TypeScript | 🟡 Learning |
+| JavaScript | ⚪ Planned |
+| TypeScript | 🔴 Beginner |
 | Go | 🟡 Learning |
 
 ### Frameworks
 
 | Skill | Status |
 |-------|--------|
-| React | 🔴 Beginner |
+| React | 🟢 Proficient |
 | Spring Boot | 🟡 Learning |
-| Django | ⚪ Planned |
-| Node.js | ⚪ Planned |
-| Next.js | 🔴 Beginner |
+| Django | 🟢 Proficient |
+| Node.js | 🟢 Proficient |
+| Next.js | ⚪ Planned |
 
 ### Cybersecurity
 
 | Skill | Status |
 |-------|--------|
 | Penetration Testing | 🟡 Learning |
-| Web Security | 🟡 Learning |
-| Network Security | 🔴 Beginner |
+| Web Security | ⚪ Planned |
+| Network Security | 🟢 Proficient |
 | OWASP | 🔴 Beginner |
 
 ### Ai Ml
 
 | Skill | Status |
 |-------|--------|
-| Machine Learning | 🔴 Beginner |
-| Deep Learning | 🔴 Beginner |
-| NLP | 🟡 Learning |
+| Machine Learning | 🟡 Learning |
+| Deep Learning | 🟢 Proficient |
+| NLP | ⚪ Planned |
 | Computer Vision | ⚪ Planned |
-| TensorFlow | 🟢 Proficient |
-| PyTorch | 🟢 Proficient |
+| TensorFlow | 🟡 Learning |
+| PyTorch | 🔴 Beginner |
 
 ### Devops
 
 | Skill | Status |
 |-------|--------|
 | Docker | ⚪ Planned |
-| Kubernetes | 🔴 Beginner |
-| CI/CD | 🟢 Proficient |
-| AWS | 🟡 Learning |
-| Azure | ⚪ Planned |
+| Kubernetes | ⚪ Planned |
+| CI/CD | 🔴 Beginner |
+| AWS | ⚪ Planned |
+| Azure | 🔴 Beginner |
 
 ### Other
 
 | Skill | Status |
 |-------|--------|
 | Blockchain | 🟢 Proficient |
-| Web3 | 🟢 Proficient |
-| Cloud Computing | ⚪ Planned |
+| Web3 | 🟡 Learning |
+| Cloud Computing | 🔴 Beginner |
 
 </details>
 
