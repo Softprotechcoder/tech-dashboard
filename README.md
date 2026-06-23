@@ -46,34 +46,33 @@
 
 ### 📑 Hacker News
 
-- **[In Praise of Memcached](https://jchri.st/blog/in-praise-of-memcached/)**
-  *<p>Article URL: <a href="https://jchri.st/blog/in-praise-of-memcached/">https://jchri.st/blog/in-praise-of-memcached/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=48638886">h...*
-  📅 Tue, 23 Jun 2026 01:15:05 +0000
+- **[AI Built a Nuke and Still Lost](https://www.lwilko.com/blog/i-gave-an-ai-a-civilization)**
+  *<p>Article URL: <a href="https://www.lwilko.com/blog/i-gave-an-ai-a-civilization">https://www.lwilko.com/blog/i-gave-an-ai-a-civilization</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com...*
+  📅 Tue, 23 Jun 2026 08:16:45 +0000
 
-- **[Polymarket's viral videos showed people winning big, but the bets were fake](https://arstechnica.com/tech-policy/2026/06/polymarkets-viral-videos-showed-people-winning-big-but-the-bets-were-fake/)**
-  *<p>Article URL: <a href="https://arstechnica.com/tech-policy/2026/06/polymarkets-viral-videos-showed-people-winning-big-but-the-bets-were-fake/">https://arstechnica.com/tech-policy/2026/06/polymarkets...*
-  📅 Tue, 23 Jun 2026 00:47:32 +0000
+- **[The new HTTP QUERY method explained](https://kreya.app/blog/new-http-query-method-explained/)**
+  *<p>Article URL: <a href="https://kreya.app/blog/new-http-query-method-explained/">https://kreya.app/blog/new-http-query-method-explained/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com...*
+  📅 Tue, 23 Jun 2026 06:05:37 +0000
 
-- **[ytr: YouTube Radio for Emacs](https://xenodium.com/ytr-youtube-radio-for-emacs)**
-  *<p>Article URL: <a href="https://xenodium.com/ytr-youtube-radio-for-emacs">https://xenodium.com/ytr-youtube-radio-for-emacs</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=48636...*
-  📅 Mon, 22 Jun 2026 21:21:08 +0000
+- **[Who Does What? Team Topologies for the Agentic Platform](https://blog.owulveryck.info/2026/06/22/who-does-what-team-topologies-for-the-agentic-platform.html)**
+  *<p>Article URL: <a href="https://blog.owulveryck.info/2026/06/22/who-does-what-team-topologies-for-the-agentic-platform.html">https://blog.owulveryck.info/2026/06/22/who-does-what-team-topologies-for-...*
+  📅 Tue, 23 Jun 2026 04:40:08 +0000
 
-- **[Runing GLM-5.2 on local hardware](https://unsloth.ai/docs/models/glm-5.2)**
-  *<p>Article URL: <a href="https://unsloth.ai/docs/models/glm-5.2">https://unsloth.ai/docs/models/glm-5.2</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=48636377">https://news.yc...*
-  📅 Mon, 22 Jun 2026 21:21:01 +0000
+- **[Show HN: A pure ARM64 Assembly web server, now on Linux with CGI for no reason](https://github.com/imtomt/ymawky/tree/linux)**
+  *<p>This is ymawky, a now-dynamic web server written entirely in ARM64 Assembly. I've previously posted about ymawky here: <a href="https://news.ycombinator.com/item?id=48080587">https://news.ycombinat...*
+  📅 Tue, 23 Jun 2026 04:28:14 +0000
 
-- **[Kyber (YC W23) Is Hiring a Head of Engineering](https://www.ycombinator.com/companies/kyber/jobs/FGmI8mx-head-of-engineering)**
-  *<p>Article URL: <a href="https://www.ycombinator.com/companies/kyber/jobs/FGmI8mx-head-of-engineering">https://www.ycombinator.com/companies/kyber/jobs/FGmI8mx-head-of-engineering</a></p>
-<p>Comments ...*
-  📅 Mon, 22 Jun 2026 21:00:51 +0000
+- **[Will It Mythos?](https://swelljoe.com/post/will-it-mythos/)**
+  *<p>Article URL: <a href="https://swelljoe.com/post/will-it-mythos/">https://swelljoe.com/post/will-it-mythos/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=48640196">https://n...*
+  📅 Tue, 23 Jun 2026 04:15:04 +0000
 
-- **[Job application asked for my SAT scores](https://mrmarket.lol/job-application-asked-for-my-sat-scores/)**
-  *<p>Article URL: <a href="https://mrmarket.lol/job-application-asked-for-my-sat-scores/">https://mrmarket.lol/job-application-asked-for-my-sat-scores/</a></p>
-<p>Comments URL: <a href="https://news.yco...*
-  📅 Mon, 22 Jun 2026 20:55:17 +0000
+- **[Ultralytics YOLO26: Unified Real-Time End-to-End Vision Models](https://arxiv.org/abs/2606.03748)**
+  *<p>Article URL: <a href="https://arxiv.org/abs/2606.03748">https://arxiv.org/abs/2606.03748</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=48639434">https://news.ycombinator.co...*
+  📅 Tue, 23 Jun 2026 02:28:00 +0000
 
 ### 📑 TechCrunch
 
@@ -81,8 +80,8 @@
   *A running look — in reverse chronological order — at the bigger tech companies that have announced significant layoffs this year with AI as a stated factor....*
   📅 Tue, 23 Jun 2026 01:27:55 +0000
 
-- **[OpenAI launches new initiative to help find and patch open-source bugs](https://techcrunch.com/2026/06/22/openai-launches-new-initiative-to-help-find-and-patch-open-source-bugs/)**
-  *OpenAI is attempting to tackle the security issues of the open source software community....*
+- **[OpenAI launches new initiative to help find and patch open source bugs](https://techcrunch.com/2026/06/22/openai-launches-new-initiative-to-help-find-and-patch-open-source-bugs/)**
+  *OpenAI is using AI to help the open source community better protect itself....*
   📅 Tue, 23 Jun 2026 00:11:31 +0000
 
 - **[Tesla pushes back on Autopilot narrative after fatal Texas crash](https://techcrunch.com/2026/06/22/tesla-pushes-back-on-autopilot-narrative-after-fatal-texas-crash/)**
@@ -103,13 +102,15 @@
 
 ### 📑 Dev.to
 
-- **[I Built the First Purely Learned Frame-by-Frame Tetris AI: Then It Started Cheating](https://dev.to/stat_phantom/i-built-the-first-purely-learned-frame-by-frame-tetris-ai-then-it-started-cheating-322k)**
-  *<p>Greetings all! You might know me from my Snake AI ablation series where I spent an unreasonable amount of time teaching a snake to eat apples. This is a new series. Same researcher, different game,...*
-  📅 Tue, 23 Jun 2026 02:15:00 +0000
+- **[5 lessons from 5 interviews on AI agents and web scraping](https://dev.to/extractdata/5-lessons-from-5-interviews-on-ai-agents-and-web-scraping-107m)**
+  *<p>Over the last few months, I’ve been interviewing people at Zyte about AI, agents, web scraping, data quality, and what actually changes when LLMs enter developer workflows.</p>
 
-- **[Organize email with folders and labels in Nylas](https://dev.to/mqasimca/organize-email-with-folders-and-labels-in-nylas-6n9)**
-  *<p>Gmail organizes mail with labels, where one message can carry several at once. Microsoft, Yahoo, iCloud, and IMAP use folders, where a message lives in exactly one. Build email organization against...*
-  📅 Tue, 23 Jun 2026 02:14:10 +0000
+<p>These were not a...*
+  📅 Tue, 23 Jun 2026 08:46:14 +0000
+
+- **[Pressure-Testing My Own Explanations — A Swift Writing Exercise](https://dev.to/gamya_m/pressure-testing-my-own-explanations-a-swift-writing-exercise-58j3)**
+  *<p>When you've worked with a concept long enough, there's a gap that can quietly open up between "I know how this works" and "I can explain <em>exactly</em> why this works, including the edge cases th...*
+  📅 Tue, 23 Jun 2026 08:44:00 +0000
 
 </details>
 
@@ -117,105 +118,105 @@
 
 ### 📈 Daily Trending
 
-- **[InfernalSwanSucceed/7-Zip-2026](https://github.com/InfernalSwanSucceed/7-Zip-2026)** ⭐ 4
+- **[pulsewarriorrank/Lossless-Scaling-Download-2026](https://github.com/pulsewarriorrank/Lossless-Scaling-Download-2026)** ⭐ 197
   ![None](https://img.shields.io/badge/-None-lightgrey)
-  7zip download — 7-Zip for Windows 11 & 10. Direct download, install steps and setup guide.
+  ⭐️ Lossless Scaling download full version pre-activated keygen patch activator lifetime license upscaling tool frame generation gaming performance enhancer resolution scaling graphics optimization Windows PC installer loader mod software ⭐️
 
-- **[CreekAshConquer/DiskInternals-RAID-Recovery-2026](https://github.com/CreekAshConquer/DiskInternals-RAID-Recovery-2026)** ⭐ 4
+- **[bozhouDev/codex-orange-book](https://github.com/bozhouDev/codex-orange-book)** ⭐ 105
+  ![HTML](https://img.shields.io/badge/-HTML-lightgrey)
+  Codex 橙皮书：从安装到实战案例的全链路 Codex 使用指南（非官方开源，含可下载 PDF）
+
+- **[goehou/tabbit-toy](https://github.com/goehou/tabbit-toy)** ⭐ 83
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
+  这是一个基于tabbit的研究包，可以转化成OAI格式出来，同时增加了会员认证功能和一键提取cookie的浏览器拓展，方便快速本地快速使用claude gpt等模型
+
+- **[WMarok/WilonityV3](https://github.com/WMarok/WilonityV3)** ⭐ 51
   ![None](https://img.shields.io/badge/-None-lightgrey)
-  diskinternals raid recovery download — DiskInternals RAID Recovery for Windows 11 & 10. Direct download, install steps and setup guide.
+  Best free executor
 
-- **[flagpsychiatristdusk/Reg-Organizer-2026](https://github.com/flagpsychiatristdusk/Reg-Organizer-2026)** ⭐ 4
+- **[Naturekicolumn/Wilonity-Games](https://github.com/Naturekicolumn/Wilonity-Games)** ⭐ 51
   ![None](https://img.shields.io/badge/-None-lightgrey)
-  reg organizer download — Reg Organizer for Windows 11 & 10. Direct download, install steps and setup guide.
+  Wilonity Loader is a unified launcher that enhances your favorite games with advanced features — intelligent aiming, visual overlays, intuitive UI improvements, and more.
 
-- **[ClampGiverRotation/ONLYOFFICE-Desktop-2026](https://github.com/ClampGiverRotation/ONLYOFFICE-Desktop-2026)** ⭐ 3
+- **[lynx4q/USDT-Flasher-Web-Tool](https://github.com/lynx4q/USDT-Flasher-Web-Tool)** ⭐ 35
   ![None](https://img.shields.io/badge/-None-lightgrey)
-  onlyoffice desktop download — ONLYOFFICE Desktop for Windows 11 & 10. Direct download, install steps and setup guide.
-
-- **[VirtualVerse64/G-Data-Total-Security-2026](https://github.com/VirtualVerse64/G-Data-Total-Security-2026)** ⭐ 3
-  ![None](https://img.shields.io/badge/-None-lightgrey)
-  g data total security download — G Data Total Security for Windows 11 & 10. Direct download, install steps and setup guide.
-
-- **[pallerana/agentic-loop-engineering-kit](https://github.com/pallerana/agentic-loop-engineering-kit)** ⭐ 3
-  ![Shell](https://img.shields.io/badge/-Shell-lightgrey)
   None
 
-- **[NeutronFlash81/Valhalla-DSP-Bundle-2026](https://github.com/NeutronFlash81/Valhalla-DSP-Bundle-2026)** ⭐ 3
+- **[Pulsedesrace/Wilonity-exploit](https://github.com/Pulsedesrace/Wilonity-exploit)** ⭐ 34
   ![None](https://img.shields.io/badge/-None-lightgrey)
-  valhalla dsp bundle download — Valhalla DSP Bundle for Windows 11 & 10. Direct download, install steps and setup guide.
+  The best loader games magic! Uses 2026 free | undetect 
 
-- **[CatbirdReduce/DisplayFusion-2026](https://github.com/CatbirdReduce/DisplayFusion-2026)** ⭐ 3
-  ![None](https://img.shields.io/badge/-None-lightgrey)
-  displayfusion pro download — DisplayFusion Pro for Windows 11 & 10. Direct download, install steps and setup guide.
+- **[Her-shey/fastloops](https://github.com/Her-shey/fastloops)** ⭐ 33
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  Fast and one click setup with AI loops — run, check, fix, repeat until done.
 
 ### 📈 Weekly Trending
 
-- **[zhongerxin/Cowart](https://github.com/zhongerxin/Cowart)** ⭐ 2,023
+- **[zhongerxin/Cowart](https://github.com/zhongerxin/Cowart)** ⭐ 2,189
   ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
   None
 
-- **[lyra81604/zhengxi-views](https://github.com/lyra81604/zhengxi-views)** ⭐ 683
+- **[baidu/Unlimited-OCR](https://github.com/baidu/Unlimited-OCR)** ⭐ 1,147
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  Unlimited OCR Works: Welcome the Era of One-shot Long-horizon Parsing.
+
+- **[lyra81604/zhengxi-views](https://github.com/lyra81604/zhengxi-views)** ⭐ 773
   ![Python](https://img.shields.io/badge/-Python-blue)
   可溯源的郑希(易方达基金经理)投研 Agent Skill——基于他全部公开观点原文 + 有原话佐证的投资方法 + 全市场基金真实数据，能溯源问答、按他框架给基金打分，绝不杜撰。⚠️仅研究学习辅助，不构成投资建议‼️website是郑希主页！
 
-- **[Forsy-AI/agent-apprenticeship](https://github.com/Forsy-AI/agent-apprenticeship)** ⭐ 683
+- **[Forsy-AI/agent-apprenticeship](https://github.com/Forsy-AI/agent-apprenticeship)** ⭐ 745
   ![None](https://img.shields.io/badge/-None-lightgrey)
   The living ecosystem where AI agents learn from real-world work through iterative workflow loops, reusable experience, and collective training signal exchange.
 
-- **[aidenybai/cnfast](https://github.com/aidenybai/cnfast)** ⭐ 666
+- **[aidenybai/cnfast](https://github.com/aidenybai/cnfast)** ⭐ 702
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   Fast drop in replacement for `cn`
 
-- **[kanavtwtgg/birds.cafe](https://github.com/kanavtwtgg/birds.cafe)** ⭐ 554
+- **[kanavtwtgg/birds.cafe](https://github.com/kanavtwtgg/birds.cafe)** ⭐ 623
   ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
   None
-
-- **[baidu/Unlimited-OCR](https://github.com/baidu/Unlimited-OCR)** ⭐ 528
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  Unlimited OCR Works: Welcome the Era of One-shot Long-horizon Parsing.
 
 - **[Plaer1/junction](https://github.com/Plaer1/junction)** ⭐ 526
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   VS Code chat sidebar for local AI coding agents
 
-- **[MstKail/polymarket-trading-bot-services-polyedge365](https://github.com/MstKail/polymarket-trading-bot-services-polyedge365)** ⭐ 396
-  ![None](https://img.shields.io/badge/-None-lightgrey)
-  polymarket trading bot services, polymarket copy trading bot, polymarket arbitrage bot, polymarket hedge bot, polymarket maker bot, polymarket trading bot services, polymarket copy trading bot, polymarket arbitrage bot, polymarket hedge bot, polymarket maker bot, polymarket trading bot services, polymarket copy trading bot, polymarket arbitrage bot
+- **[cloudflare/security-audit-skill](https://github.com/cloudflare/security-audit-skill)** ⭐ 420
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
+  A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings
 
 ### 📈 Monthly Trending
 
-- **[pewdiepie-archdaemon/odysseus](https://github.com/pewdiepie-archdaemon/odysseus)** ⭐ 76,417
+- **[pewdiepie-archdaemon/odysseus](https://github.com/pewdiepie-archdaemon/odysseus)** ⭐ 76,531
   ![Python](https://img.shields.io/badge/-Python-blue)
   Self-hosted AI workspace. 
 
-- **[DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail)** ⭐ 50,028
+- **[DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail)** ⭐ 50,836
   ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
   Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.
 
-- **[XiaomiMiMo/MiMo-Code](https://github.com/XiaomiMiMo/MiMo-Code)** ⭐ 10,363
+- **[XiaomiMiMo/MiMo-Code](https://github.com/XiaomiMiMo/MiMo-Code)** ⭐ 10,403
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   MiMo Code: Where Models and Agents Co-Evolve
 
-- **[shadcn/improve](https://github.com/shadcn/improve)** ⭐ 5,993
+- **[shadcn/improve](https://github.com/shadcn/improve)** ⭐ 6,011
   ![None](https://img.shields.io/badge/-None-lightgrey)
   Use your most capable model to audit your codebase and write plans for cheaper models to execute.
 
-- **[helloianneo/ian-xiaohei-illustrations](https://github.com/helloianneo/ian-xiaohei-illustrations)** ⭐ 5,716
+- **[helloianneo/ian-xiaohei-illustrations](https://github.com/helloianneo/ian-xiaohei-illustrations)** ⭐ 5,801
   ![None](https://img.shields.io/badge/-None-lightgrey)
   中文小黑怪诞正文配图生成 Skill | 16:9 白底手绘 | 少量红橙蓝批注 | Codex Skill
 
-- **[zgwl/chinese-buy-us-stock-guide](https://github.com/zgwl/chinese-buy-us-stock-guide)** ⭐ 4,829
+- **[zgwl/chinese-buy-us-stock-guide](https://github.com/zgwl/chinese-buy-us-stock-guide)** ⭐ 4,840
   ![None](https://img.shields.io/badge/-None-lightgrey)
   美股指南
 
-- **[omnigent-ai/omnigent](https://github.com/omnigent-ai/omnigent)** ⭐ 4,472
+- **[omnigent-ai/omnigent](https://github.com/omnigent-ai/omnigent)** ⭐ 4,505
   ![Python](https://img.shields.io/badge/-Python-blue)
   Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom agents — swap harnesses without rewriting, enforce policies and sandboxing, and collaborate in real time from any device.
 
-- **[op7418/guizang-social-card-skill](https://github.com/op7418/guizang-social-card-skill)** ⭐ 3,894
-  ![HTML](https://img.shields.io/badge/-HTML-lightgrey)
-  🪧 Claude Code / Codex skill — generate Xiaohongshu carousels & WeChat 21:9+1:1 cover pairs. Editorial × Swiss visual systems, 28 layouts, 10 themes, single-file HTML → PNG. 小红书图文 + 公众号封面对
+- **[unicity-astrid/book](https://github.com/unicity-astrid/book)** ⭐ 4,461
+  ![Perl](https://img.shields.io/badge/-Perl-lightgrey)
+  The canonical reference for Astrid OS: kernel, capsules, host ABI, the bus, and the security model.
 
 ## 🚀 Latest Releases
 
@@ -486,9 +487,9 @@ This is a security release.
 
 | Skill | Status |
 |-------|--------|
-| Java | 🟢 Proficient |
+| Java | 🔴 Beginner |
 | Python | 🟡 Learning |
-| JavaScript | 🔴 Beginner |
+| JavaScript | 🟡 Learning |
 | TypeScript | 🟡 Learning |
 | Go | 🟡 Learning |
 
@@ -499,15 +500,15 @@ This is a security release.
 | React | 🔴 Beginner |
 | Spring Boot | 🟡 Learning |
 | Django | ⚪ Planned |
-| Node.js | 🟡 Learning |
-| Next.js | 🟢 Proficient |
+| Node.js | ⚪ Planned |
+| Next.js | 🔴 Beginner |
 
 ### Cybersecurity
 
 | Skill | Status |
 |-------|--------|
-| Penetration Testing | ⚪ Planned |
-| Web Security | 🟢 Proficient |
+| Penetration Testing | 🟡 Learning |
+| Web Security | 🟡 Learning |
 | Network Security | 🔴 Beginner |
 | OWASP | 🔴 Beginner |
 
@@ -516,28 +517,28 @@ This is a security release.
 | Skill | Status |
 |-------|--------|
 | Machine Learning | 🔴 Beginner |
-| Deep Learning | 🟢 Proficient |
+| Deep Learning | 🔴 Beginner |
 | NLP | 🟡 Learning |
 | Computer Vision | ⚪ Planned |
-| TensorFlow | ⚪ Planned |
+| TensorFlow | 🟢 Proficient |
 | PyTorch | 🟢 Proficient |
 
 ### Devops
 
 | Skill | Status |
 |-------|--------|
-| Docker | 🟡 Learning |
-| Kubernetes | ⚪ Planned |
-| CI/CD | 🔴 Beginner |
-| AWS | 🔴 Beginner |
-| Azure | 🟡 Learning |
+| Docker | ⚪ Planned |
+| Kubernetes | 🔴 Beginner |
+| CI/CD | 🟢 Proficient |
+| AWS | 🟡 Learning |
+| Azure | ⚪ Planned |
 
 ### Other
 
 | Skill | Status |
 |-------|--------|
 | Blockchain | 🟢 Proficient |
-| Web3 | 🔴 Beginner |
+| Web3 | 🟢 Proficient |
 | Cloud Computing | ⚪ Planned |
 
 </details>
