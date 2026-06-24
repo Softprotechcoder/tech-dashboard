@@ -46,33 +46,40 @@
 
 ### 📑 Hacker News
 
-- **[Meta Pauses Employee-Tracking Program Following Internal Data Leak](https://www.wired.com/story/meta-pauses-employee-tracking-program-following-internal-security-breach/)**
-  *<p>Article URL: <a href="https://www.wired.com/story/meta-pauses-employee-tracking-program-following-internal-security-breach/">https://www.wired.com/story/meta-pauses-employee-tracking-program-follow...*
-  📅 Wed, 24 Jun 2026 00:28:41 +0000
+- **[Ashby (YC W19) Is Hiring EMEA Engineers Who Can Design](https://www.ashbyhq.com/careers?ashby_jid=87b96eef-edc1-4de4-adb6-d460126d02f8&utm_source=hn)**
+  *<p>Article URL: <a href="https://www.ashbyhq.com/careers?ashby_jid=87b96eef-edc1-4de4-adb6-d460126d02f8&amp;utm_source=hn">https://www.ashbyhq.com/careers?ashby_jid=87b96eef-edc1-4de4-adb6-d460126d02f...*
+  📅 Wed, 24 Jun 2026 07:01:21 +0000
 
-- **[Show HN: Y – A malleable coding-agent desktop app built with Electron](https://github.com/y-times-y/y)**
-  *<p>Article URL: <a href="https://github.com/y-times-y/y">https://github.com/y-times-y/y</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=48653476">https://news.ycombinator.com/it...*
-  📅 Wed, 24 Jun 2026 00:15:31 +0000
+- **[Raspberry Pi Pico W as USB Wi-Fi Adapter](https://gitlab.com/baiyibai/pico-usb-wifi)**
+  *<p>Article URL: <a href="https://gitlab.com/baiyibai/pico-usb-wifi">https://gitlab.com/baiyibai/pico-usb-wifi</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=48654676">https://n...*
+  📅 Wed, 24 Jun 2026 03:17:47 +0000
 
-- **[Prairieland Defendants Sentenced Today to Prison Terms Ranging from 30-100 Years](https://prairielanddefendants.com/press-release/eight-federal-prairieland-defendants-sentenced-today-to-prison-terms-ranging-from-30-100-years-for-common-protest-activity/)**
-  *<p>Article URL: <a href="https://prairielanddefendants.com/press-release/eight-federal-prairieland-defendants-sentenced-today-to-prison-terms-ranging-from-30-100-years-for-common-protest-activity/">ht...*
-  📅 Tue, 23 Jun 2026 23:54:00 +0000
+- **["Fix" MacBook Neo Cursor Lag: Record 1 Pixel of the Screen Every 10 Seconds](https://gist.github.com/retroplasma/ec21767d0a8380c7ea9c2fbee1c7d6bf)**
+  *<p>Article URL: <a href="https://gist.github.com/retroplasma/ec21767d0a8380c7ea9c2fbee1c7d6bf">https://gist.github.com/retroplasma/ec21767d0a8380c7ea9c2fbee1c7d6bf</a></p>
+<p>Comments URL: <a href="ht...*
+  📅 Wed, 24 Jun 2026 02:38:47 +0000
 
-- **[Vulnerability reports are not special anymore](https://words.filippo.io/vuln-reports/)**
-  *<p>Article URL: <a href="https://words.filippo.io/vuln-reports/">https://words.filippo.io/vuln-reports/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=48653216">https://news.yc...*
-  📅 Tue, 23 Jun 2026 23:42:46 +0000
+- **[The Teensy Executable Revisited](https://www.muppetlabs.com/~breadbox/software/tiny/revisit.html)**
+  *<p>Article URL: <a href="https://www.muppetlabs.com/~breadbox/software/tiny/revisit.html">https://www.muppetlabs.com/~breadbox/software/tiny/revisit.html</a></p>
+<p>Comments URL: <a href="https://news...*
+  📅 Wed, 24 Jun 2026 02:30:13 +0000
 
-- **[Extreme Heat conference cancelled due to extreme heat warning](https://www.lse.ac.uk/granthaminstitute/events/extreme-heat-improving-governance-and-strengthening-action-around-the-world/)**
-  *<p>Article URL: <a href="https://www.lse.ac.uk/granthaminstitute/events/extreme-heat-improving-governance-and-strengthening-action-around-the-world/">https://www.lse.ac.uk/granthaminstitute/events/ext...*
-  📅 Tue, 23 Jun 2026 23:26:43 +0000
+- **[Qwen-AgentWorld: Language World Models for General Agents](https://arxiv.org/abs/2606.24597)**
+  *<p>Article URL: <a href="https://arxiv.org/abs/2606.24597">https://arxiv.org/abs/2606.24597</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=48654351">https://news.ycombinator.co...*
+  📅 Wed, 24 Jun 2026 02:21:47 +0000
 
-- **[Trains halted across Germany because of communication system problem](https://apnews.com/article/germany-trains-halted-communications-radio-problem-deutsche-bahn-e8fd970b2d889f3ae7ce03322d5c726b)**
-  *<p>Article URL: <a href="https://apnews.com/article/germany-trains-halted-communications-radio-problem-deutsche-bahn-e8fd970b2d889f3ae7ce03322d5c726b">https://apnews.com/article/germany-trains-halted-...*
-  📅 Tue, 23 Jun 2026 21:19:44 +0000
+- **[DiffusionBench: Towards Holistic Evaluation of Generative Diffusion Transformers](https://github.com/End2End-Diffusion/diffusion-bench)**
+  *<p>Article URL: <a href="https://github.com/End2End-Diffusion/diffusion-bench">https://github.com/End2End-Diffusion/diffusion-bench</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?...*
+  📅 Wed, 24 Jun 2026 02:12:31 +0000
 
 ### 📑 TechCrunch
+
+- **[How to invest when everything is moving too fast](https://techcrunch.com/2026/06/23/how-to-invest-when-everything-is-moving-too-fast/)**
+  *TechCrunch's StrictlyVC evening in Los Angeles late last week brought together two of the more straight-talking investors working in AI right now. They were as entertaining as they were illuminating....*
+  📅 Wed, 24 Jun 2026 06:26:11 +0000
 
 - **[Walmart-backed Flipkart expands quick-commerce push as Amazon ramps up in India](https://techcrunch.com/2026/06/23/walmart-backed-flipkart-expands-quick-commerce-push-as-amazon-ramps-up-in-india/)**
   *Walmart-backed Flipkart has crossed 1,000 micro-fulfillment centers as Amazon accelerates its own quick-commerce push in India....*
@@ -94,25 +101,47 @@
   *It's unclear why Klue had not revoked the credential after the limited pilot, which hackers then used to breach a system holding keys for accessing customers' data....*
   📅 Tue, 23 Jun 2026 19:43:56 +0000
 
-- **[Mark Zuckerberg wants Meta to launch its own prediction market](https://techcrunch.com/2026/06/23/mark-zuckerberg-wants-meta-to-launch-its-own-prediction-market/)**
-  *The app would be independent of Meta's other social media offerings, although sources told the NYT that those social sites could direct users to engagement with the app....*
-  📅 Tue, 23 Jun 2026 19:19:44 +0000
-
 ### 📑 Dev.to
 
-- **[How WhatsApp Accounts Really Get "Hacked" (and How to Lock Yours Down)](https://dev.to/adev3loper/how-whatsapp-accounts-really-get-hacked-and-how-to-lock-yours-down-2ioj)**
-  *<p>Quick question before you read on. If someone took over your WhatsApp right now, who would they hit first? Your family group? Your clients? The estate WhatsApp where everyone trusts your name? Sit ...*
-  📅 Wed, 24 Jun 2026 02:12:28 +0000
+- **[Swift Closures — Functions You Can Pass Around 📦](https://dev.to/gamya_m/swift-closures-functions-you-can-pass-around-6d7)**
+  *<p>Fair warning: closures are widely considered the hardest topic in Swift. So if you read this and feel your brain doing something uncomfortable, that's completely normal. You're not missing somethin...*
+  📅 Wed, 24 Jun 2026 08:44:00 +0000
 
-- **[S3 Annotations: Three Practical Use Cases in Agent Scenarios](https://dev.to/maisie_oy/s3-annotations-three-practical-use-cases-in-agent-scenarios-ncg)**
-  *<p>S3 objects have historically carried three types of native metadata: system-defined metadata, user-defined metadata (2 KB, immutable after upload), and object tags. With <a href="https://aws.amazon...*
-  📅 Wed, 24 Jun 2026 02:12:12 +0000
+- **[Three Incidents. Four Layers. One Week.](https://dev.to/ndegwaduncan/three-incidents-four-layers-one-week-5acn)**
+  *<h1>
+  
+  
+  Three Incidents. Four Layers. One Week.
+</h1>
+
+<h2>
+  
+  
+  The Same Week the Agentic Web Was Declared Production-Ready, Credential Exfiltration Hit Four Different Layers of the Stack.
+</...*
+  📅 Wed, 24 Jun 2026 08:42:03 +0000
 
 </details>
 
 ## 🔥 Trending Repositories
 
 ### 📈 Daily Trending
+
+- **[sergey6531/Packmate](https://github.com/sergey6531/Packmate)** ⭐ 24
+  ![Java](https://img.shields.io/badge/-Java-orange)
+  Утилита перехвата и анализа трафика для CTF
+
+- **[fhgg888/summer-camp-autofill](https://github.com/fhgg888/summer-camp-autofill)** ⭐ 12
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
+  None
+
+- **[HKUST-C4G/DomainShuttle](https://github.com/HKUST-C4G/DomainShuttle)** ⭐ 12
+  ![None](https://img.shields.io/badge/-None-lightgrey)
+  None
+
+- **[abundantbeing/hermes-browser-extension](https://github.com/abundantbeing/hermes-browser-extension)** ⭐ 9
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
+  Browser-native side panel for Hermes Agent — connect web context to your local Hermes runtime.
 
 - **[SageReminisce/XYplorer-2026](https://github.com/SageReminisce/XYplorer-2026)** ⭐ 9
   ![None](https://img.shields.io/badge/-None-lightgrey)
@@ -122,95 +151,79 @@
   ![None](https://img.shields.io/badge/-None-lightgrey)
   wise disk cleaner download — Wise Disk Cleaner for Windows 11 & 10. Direct download, install steps and setup guide.
 
-- **[Screwkecontrol/Veeam-Agent-2026](https://github.com/Screwkecontrol/Veeam-Agent-2026)** ⭐ 6
-  ![None](https://img.shields.io/badge/-None-lightgrey)
-  veeam agent download — Veeam Agent for Windows 11 & 10. Direct download, install steps and setup guide.
-
-- **[FieldStarfish/Twinmotion-2026](https://github.com/FieldStarfish/Twinmotion-2026)** ⭐ 6
-  ![None](https://img.shields.io/badge/-None-lightgrey)
-  twinmotion download — Twinmotion for Windows 11 & 10. Direct download, install steps and setup guide.
-
-- **[1135782926/ide-wallpaper-rotator](https://github.com/1135782926/ide-wallpaper-rotator)** ⭐ 3
-  ![Kotlin](https://img.shields.io/badge/-Kotlin-lightgrey)
-  None
-
-- **[Crinklyink/Stock-pred](https://github.com/Crinklyink/Stock-pred)** ⭐ 2
+- **[redtecher/FirmCure](https://github.com/redtecher/FirmCure)** ⭐ 7
   ![Python](https://img.shields.io/badge/-Python-blue)
-  It Diddles the stocks ----- more consistent +8 percent for top 1 and top 3 
+  FIRMCURE: Towards Autonomous and Adaptive Rehosting of Linux-Based Firmware
 
-- **[LuWenXuaner/SenseHub-Agent](https://github.com/LuWenXuaner/SenseHub-Agent)** ⭐ 2
-  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
-  多模态感知Agent远程人机交互控制系统
-
-- **[kalhintz/Helm](https://github.com/kalhintz/Helm)** ⭐ 2
-  ![Rust](https://img.shields.io/badge/-Rust-brown)
+- **[Princebhagat001/Library-Management-System](https://github.com/Princebhagat001/Library-Management-System)** ⭐ 6
+  ![HTML](https://img.shields.io/badge/-HTML-lightgrey)
   None
 
 ### 📈 Weekly Trending
 
-- **[baidu/Unlimited-OCR](https://github.com/baidu/Unlimited-OCR)** ⭐ 3,865
+- **[baidu/Unlimited-OCR](https://github.com/baidu/Unlimited-OCR)** ⭐ 4,851
   ![Python](https://img.shields.io/badge/-Python-blue)
   Unlimited OCR Works: Welcome the Era of One-shot Long-horizon Parsing.
 
-- **[zhongerxin/Cowart](https://github.com/zhongerxin/Cowart)** ⭐ 2,386
+- **[zhongerxin/Cowart](https://github.com/zhongerxin/Cowart)** ⭐ 2,526
   ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
   None
 
-- **[lyra81604/zhengxi-views](https://github.com/lyra81604/zhengxi-views)** ⭐ 922
+- **[lyra81604/zhengxi-views](https://github.com/lyra81604/zhengxi-views)** ⭐ 951
   ![Python](https://img.shields.io/badge/-Python-blue)
   可溯源的郑希(易方达基金经理)投研 Agent Skill——基于他全部公开观点原文 + 有原话佐证的投资方法 + 全市场基金真实数据，能溯源问答、按他框架给基金打分，绝不杜撰。⚠️仅研究学习辅助，不构成投资建议‼️website是郑希主页！
 
-- **[Forsy-AI/agent-apprenticeship](https://github.com/Forsy-AI/agent-apprenticeship)** ⭐ 865
+- **[Forsy-AI/agent-apprenticeship](https://github.com/Forsy-AI/agent-apprenticeship)** ⭐ 881
   ![None](https://img.shields.io/badge/-None-lightgrey)
   The living ecosystem where AI agents learn from real-world work through iterative workflow loops, reusable experience, and collective training signal exchange.
 
-- **[aidenybai/cnfast](https://github.com/aidenybai/cnfast)** ⭐ 794
-  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
-  Fast drop in replacement for `cn`
-
-- **[kanavtwtgg/birds.cafe](https://github.com/kanavtwtgg/birds.cafe)** ⭐ 718
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
-  None
-
-- **[bozhouDev/codex-orange-book](https://github.com/bozhouDev/codex-orange-book)** ⭐ 574
+- **[bozhouDev/codex-orange-book](https://github.com/bozhouDev/codex-orange-book)** ⭐ 836
   ![HTML](https://img.shields.io/badge/-HTML-lightgrey)
   Codex 橙皮书：从安装到实战案例的全链路 Codex 使用指南（非官方开源，含可下载 PDF）
 
-- **[sums001/Windows-Copilot-API](https://github.com/sums001/Windows-Copilot-API)** ⭐ 537
+- **[aidenybai/cnfast](https://github.com/aidenybai/cnfast)** ⭐ 820
+  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
+  Fast drop in replacement for `cn`
+
+- **[kanavtwtgg/birds.cafe](https://github.com/kanavtwtgg/birds.cafe)** ⭐ 733
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
+  None
+
+- **[sums001/Windows-Copilot-API](https://github.com/sums001/Windows-Copilot-API)** ⭐ 588
   ![Python](https://img.shields.io/badge/-Python-blue)
   Reverse engineered Windows Copilot into an OpenAI-compatible API. Access GPT-4 and GPT-5 models through a simple REST interface without API keys or billing.
 
 ### 📈 Monthly Trending
 
-- **[pewdiepie-archdaemon/odysseus](https://github.com/pewdiepie-archdaemon/odysseus)** ⭐ 76,948
+- **[pewdiepie-archdaemon/odysseus](https://github.com/pewdiepie-archdaemon/odysseus)** ⭐ 77,059
   ![Python](https://img.shields.io/badge/-Python-blue)
   Self-hosted AI workspace. 
 
-- **[DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail)** ⭐ 52,689
+- **[DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail)** ⭐ 53,442
   ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
   Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.
 
-- **[XiaomiMiMo/MiMo-Code](https://github.com/XiaomiMiMo/MiMo-Code)** ⭐ 10,501
+- **[XiaomiMiMo/MiMo-Code](https://github.com/XiaomiMiMo/MiMo-Code)** ⭐ 10,550
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   MiMo Code: Where Models and Agents Co-Evolve
 
-- **[unicity-astrid/book](https://github.com/unicity-astrid/book)** ⭐ 6,087
+- **[unicity-astrid/book](https://github.com/unicity-astrid/book)** ⭐ 6,633
   ![Perl](https://img.shields.io/badge/-Perl-lightgrey)
   The canonical reference for Astrid OS: kernel, capsules, host ABI, the bus, and the security model.
 
-- **[shadcn/improve](https://github.com/shadcn/improve)** ⭐ 6,072
-  ![None](https://img.shields.io/badge/-None-lightgrey)
-  Use your most capable model to audit your codebase and write plans for cheaper models to execute.
-
-- **[unicity-astrid/handbook](https://github.com/unicity-astrid/handbook)** ⭐ 6,039
+- **[unicity-astrid/handbook](https://github.com/unicity-astrid/handbook)** ⭐ 6,582
   ![None](https://img.shields.io/badge/-None-lightgrey)
   How to work on Astrid: the polyrepo, the kernel-is-dumb law, the RFC trigger, contribution tiers, and the release process.
 
-- **[helloianneo/ian-xiaohei-illustrations](https://github.com/helloianneo/ian-xiaohei-illustrations)** ⭐ 5,889
+- **[shadcn/improve](https://github.com/shadcn/improve)** ⭐ 6,094
+  ![None](https://img.shields.io/badge/-None-lightgrey)
+  Use your most capable model to audit your codebase and write plans for cheaper models to execute.
+
+- **[helloianneo/ian-xiaohei-illustrations](https://github.com/helloianneo/ian-xiaohei-illustrations)** ⭐ 5,946
   ![None](https://img.shields.io/badge/-None-lightgrey)
   中文小黑怪诞正文配图生成 Skill | 16:9 白底手绘 | 少量红橙蓝批注 | Codex Skill
 
-- **[zgwl/chinese-buy-us-stock-guide](https://github.com/zgwl/chinese-buy-us-stock-guide)** ⭐ 4,885
+- **[zgwl/chinese-buy-us-stock-guide](https://github.com/zgwl/chinese-buy-us-stock-guide)** ⭐ 4,977
   ![None](https://img.shields.io/badge/-None-lightgrey)
   美股指南
 
@@ -485,55 +498,55 @@ This is a security release.
 | Python | ⚪ Planned |
 | JavaScript | 🟡 Learning |
 | TypeScript | ⚪ Planned |
-| Go | 🟡 Learning |
+| Go | ⚪ Planned |
 
 ### Frameworks
 
 | Skill | Status |
 |-------|--------|
-| React | 🔴 Beginner |
-| Spring Boot | 🟢 Proficient |
+| React | 🟢 Proficient |
+| Spring Boot | ⚪ Planned |
 | Django | ⚪ Planned |
-| Node.js | 🟡 Learning |
-| Next.js | 🟢 Proficient |
+| Node.js | ⚪ Planned |
+| Next.js | ⚪ Planned |
 
 ### Cybersecurity
 
 | Skill | Status |
 |-------|--------|
-| Penetration Testing | 🟡 Learning |
-| Web Security | 🟡 Learning |
-| Network Security | 🟢 Proficient |
-| OWASP | 🟡 Learning |
+| Penetration Testing | ⚪ Planned |
+| Web Security | 🔴 Beginner |
+| Network Security | ⚪ Planned |
+| OWASP | 🟢 Proficient |
 
 ### Ai Ml
 
 | Skill | Status |
 |-------|--------|
-| Machine Learning | 🟡 Learning |
-| Deep Learning | 🟡 Learning |
-| NLP | 🟢 Proficient |
-| Computer Vision | 🔴 Beginner |
-| TensorFlow | ⚪ Planned |
+| Machine Learning | 🟢 Proficient |
+| Deep Learning | ⚪ Planned |
+| NLP | 🟡 Learning |
+| Computer Vision | 🟢 Proficient |
+| TensorFlow | 🔴 Beginner |
 | PyTorch | ⚪ Planned |
 
 ### Devops
 
 | Skill | Status |
 |-------|--------|
-| Docker | 🟢 Proficient |
-| Kubernetes | ⚪ Planned |
-| CI/CD | 🔴 Beginner |
-| AWS | 🟢 Proficient |
-| Azure | 🔴 Beginner |
+| Docker | ⚪ Planned |
+| Kubernetes | 🟡 Learning |
+| CI/CD | 🟡 Learning |
+| AWS | 🔴 Beginner |
+| Azure | ⚪ Planned |
 
 ### Other
 
 | Skill | Status |
 |-------|--------|
-| Blockchain | 🟡 Learning |
-| Web3 | 🟢 Proficient |
-| Cloud Computing | 🔴 Beginner |
+| Blockchain | ⚪ Planned |
+| Web3 | ⚪ Planned |
+| Cloud Computing | 🟡 Learning |
 
 </details>
 
