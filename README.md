@@ -46,36 +46,52 @@
 
 ### 📑 Hacker News
 
-- **[Ashby (YC W19) Is Hiring EMEA Engineers Who Can Design](https://www.ashbyhq.com/careers?ashby_jid=87b96eef-edc1-4de4-adb6-d460126d02f8&utm_source=hn)**
-  *<p>Article URL: <a href="https://www.ashbyhq.com/careers?ashby_jid=87b96eef-edc1-4de4-adb6-d460126d02f8&amp;utm_source=hn">https://www.ashbyhq.com/careers?ashby_jid=87b96eef-edc1-4de4-adb6-d460126d02f...*
-  📅 Wed, 24 Jun 2026 07:01:21 +0000
+- **[Slate EV truck starts at $24,950](https://www.slate.auto/en)**
+  *<p>Article URL: <a href="https://www.slate.auto/en">https://www.slate.auto/en</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=48659451">https://news.ycombinator.com/item?id=4865...*
+  📅 Wed, 24 Jun 2026 13:26:43 +0000
 
-- **[Raspberry Pi Pico W as USB Wi-Fi Adapter](https://gitlab.com/baiyibai/pico-usb-wifi)**
-  *<p>Article URL: <a href="https://gitlab.com/baiyibai/pico-usb-wifi">https://gitlab.com/baiyibai/pico-usb-wifi</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=48654676">https://n...*
-  📅 Wed, 24 Jun 2026 03:17:47 +0000
+- **[Stealing Is a Skill](https://ben-mini.com/2026/stealing-is-a-skill)**
+  *<p>Article URL: <a href="https://ben-mini.com/2026/stealing-is-a-skill">https://ben-mini.com/2026/stealing-is-a-skill</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=48659165">h...*
+  📅 Wed, 24 Jun 2026 13:08:52 +0000
 
-- **["Fix" MacBook Neo Cursor Lag: Record 1 Pixel of the Screen Every 10 Seconds](https://gist.github.com/retroplasma/ec21767d0a8380c7ea9c2fbee1c7d6bf)**
-  *<p>Article URL: <a href="https://gist.github.com/retroplasma/ec21767d0a8380c7ea9c2fbee1c7d6bf">https://gist.github.com/retroplasma/ec21767d0a8380c7ea9c2fbee1c7d6bf</a></p>
-<p>Comments URL: <a href="ht...*
-  📅 Wed, 24 Jun 2026 02:38:47 +0000
+- **[Founding a company in Germany: €9600, 152 days and I still can't send an invoice](https://paolino.me/founding-a-company-in-germany/)**
+  *<p>Article URL: <a href="https://paolino.me/founding-a-company-in-germany/">https://paolino.me/founding-a-company-in-germany/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=486...*
+  📅 Wed, 24 Jun 2026 12:31:43 +0000
 
-- **[The Teensy Executable Revisited](https://www.muppetlabs.com/~breadbox/software/tiny/revisit.html)**
-  *<p>Article URL: <a href="https://www.muppetlabs.com/~breadbox/software/tiny/revisit.html">https://www.muppetlabs.com/~breadbox/software/tiny/revisit.html</a></p>
-<p>Comments URL: <a href="https://news...*
-  📅 Wed, 24 Jun 2026 02:30:13 +0000
+- **[Reid Hoffman says SpaceX 'not an AI company', xAI 'complete train wreck'](https://fortune.com/2026/06/24/reid-hoffman-spacex-musk-openai-anthropic-gen-z-mistake/)**
+  *<p>Article URL: <a href="https://fortune.com/2026/06/24/reid-hoffman-spacex-musk-openai-anthropic-gen-z-mistake/">https://fortune.com/2026/06/24/reid-hoffman-spacex-musk-openai-anthropic-gen-z-mistake...*
+  📅 Wed, 24 Jun 2026 12:23:59 +0000
 
-- **[Qwen-AgentWorld: Language World Models for General Agents](https://arxiv.org/abs/2606.24597)**
-  *<p>Article URL: <a href="https://arxiv.org/abs/2606.24597">https://arxiv.org/abs/2606.24597</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=48654351">https://news.ycombinator.co...*
-  📅 Wed, 24 Jun 2026 02:21:47 +0000
+- **[Minimus container images are now free](https://images.minimus.io/)**
+  *<p>Article URL: <a href="https://images.minimus.io/">https://images.minimus.io/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=48658361">https://news.ycombinator.com/item?id=48...*
+  📅 Wed, 24 Jun 2026 11:52:12 +0000
 
-- **[DiffusionBench: Towards Holistic Evaluation of Generative Diffusion Transformers](https://github.com/End2End-Diffusion/diffusion-bench)**
-  *<p>Article URL: <a href="https://github.com/End2End-Diffusion/diffusion-bench">https://github.com/End2End-Diffusion/diffusion-bench</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?...*
-  📅 Wed, 24 Jun 2026 02:12:31 +0000
+- **[A deadly fungus that can infect cats and people is spreading](https://www.sciencenews.org/article/deadly-fungus-cats-people-spreading)**
+  *<p>Article URL: <a href="https://www.sciencenews.org/article/deadly-fungus-cats-people-spreading">https://www.sciencenews.org/article/deadly-fungus-cats-people-spreading</a></p>
+<p>Comments URL: <a hr...*
+  📅 Wed, 24 Jun 2026 11:31:20 +0000
 
 ### 📑 TechCrunch
+
+- **[If you want to cut your screen time, just get a Brick](https://techcrunch.com/2026/06/24/if-you-want-to-cut-your-screen-time-just-get-a-brick/)**
+  *After years of struggling to curb my screen time, apparently all I needed was a $59 hunk of plastic....*
+  📅 Wed, 24 Jun 2026 14:01:35 +0000
+
+- **[3 days left to save up to $190 on your TechCrunch Founder Summit 2026 pass](https://techcrunch.com/2026/06/24/3-days-left-to-save-up-to-190-on-techcrunch-founder-summit-2026/)**
+  *You have just 3 days left to save up to $190 on your pass to TechCrunch Founder Summit 2026 before Early Bird rates end on June 26 at 11:59 p.m. PT. Register here....*
+  📅 Wed, 24 Jun 2026 14:00:00 +0000
+
+- **[Valor Equity Partners looks to raise a $2.5B Fund VII, per Bloomberg](https://techcrunch.com/2026/06/24/valor-equity-partners-looks-to-raise-a-2-5b-fund-vii-per-bloomberg/)**
+  *New details have emerged about Valor's latest fund, which last year announced it was raising an unspecified amount of capital....*
+  📅 Wed, 24 Jun 2026 13:58:14 +0000
+
+- **[Slate Auto’s radically simple electric truck starts at $24,950](https://techcrunch.com/2026/06/24/slate-autos-radically-simple-electric-truck-starts-at-24950/)**
+  *The Jeff Bezos-backed startup finally revealed more pricing details for its debut EV, including a $29,950 starting price for the SUV variant, and boosted the base range to 205 miles....*
+  📅 Wed, 24 Jun 2026 12:33:34 +0000
 
 - **[How to invest when everything is moving too fast](https://techcrunch.com/2026/06/23/how-to-invest-when-everything-is-moving-too-fast/)**
   *TechCrunch's StrictlyVC evening in Los Angeles late last week brought together two of the more straight-talking investors working in AI right now. They were as entertaining as they were illuminating....*
@@ -85,41 +101,17 @@
   *Walmart-backed Flipkart has crossed 1,000 micro-fulfillment centers as Amazon accelerates its own quick-commerce push in India....*
   📅 Wed, 24 Jun 2026 00:30:00 +0000
 
-- **[India’s MoEngage bets that the future of marketing is millions of AI agents](https://techcrunch.com/2026/06/23/indias-moengage-bets-marketings-future-on-millions-of-ai-agents/)**
-  *The all-cash deal gives MoEngage access to technology that assigns AI agents to individual customers....*
-  📅 Tue, 23 Jun 2026 23:30:00 +0000
-
-- **[Superhuman acquires AI detection startup GPTZero](https://techcrunch.com/2026/06/23/superhuman-acquires-ai-detection-startup-gptzero/)**
-  *Superhuman, which also has an AI detection tool as part of Grammarly, has snapped up GPTZero....*
-  📅 Tue, 23 Jun 2026 21:48:23 +0000
-
-- **[After betting the firm on Anthropic, Menlo Ventures raises victorious $3B fund](https://techcrunch.com/2026/06/23/after-betting-the-firm-on-anthropic-menlo-ventures-raises-victorious-3b-fund/)**
-  *Menlo has created a solid rep for itself as an AI investor, all based on one gutsy $750 million move in 2024....*
-  📅 Tue, 23 Jun 2026 19:49:55 +0000
-
-- **[Klue says hackers stole credential from 2022 that led to customer data breaches](https://techcrunch.com/2026/06/23/klue-says-hackers-stole-credential-from-2022-that-led-to-customer-data-breaches/)**
-  *It's unclear why Klue had not revoked the credential after the limited pilot, which hackers then used to breach a system holding keys for accessing customers' data....*
-  📅 Tue, 23 Jun 2026 19:43:56 +0000
-
 ### 📑 Dev.to
 
-- **[Swift Closures — Functions You Can Pass Around 📦](https://dev.to/gamya_m/swift-closures-functions-you-can-pass-around-6d7)**
-  *<p>Fair warning: closures are widely considered the hardest topic in Swift. So if you read this and feel your brain doing something uncomfortable, that's completely normal. You're not missing somethin...*
-  📅 Wed, 24 Jun 2026 08:44:00 +0000
+- **[Show the Cookie Consent Banner Only to Visitors Who Legally Need It](https://dev.to/abdullah_afzal/show-the-cookie-consent-banner-only-to-visitors-who-legally-need-it-g6n)**
+  *<p>A cookie consent banner is a legal requirement in some places and optional in others, yet most sites show the same one to every visitor on the planet. The EU and UK want opt-in before any non-essen...*
+  📅 Wed, 24 Jun 2026 13:53:28 +0000
 
-- **[Three Incidents. Four Layers. One Week.](https://dev.to/ndegwaduncan/three-incidents-four-layers-one-week-5acn)**
-  *<h1>
-  
-  
-  Three Incidents. Four Layers. One Week.
-</h1>
+- **[AI Code Review on a Vibe-coded Production App: What Qodo Found That I couldn’t See](https://dev.to/dumebii/ai-code-review-on-a-vibe-coded-production-app-what-qodo-found-that-i-couldnt-see-4p4h)**
+  *<p><a href="https://ozigi.app">Ozigi</a> is a go-to-market engine I mostly built by prompting. </p>
 
-<h2>
-  
-  
-  The Same Week the Agentic Web Was Declared Production-Ready, Credential Exfiltration Hit Four Different Layers of the Stack.
-</...*
-  📅 Wed, 24 Jun 2026 08:42:03 +0000
+<p>The pull request in this article is an example of how code gets made now. In one commit, I had: ...*
+  📅 Wed, 24 Jun 2026 13:52:59 +0000
 
 </details>
 
@@ -127,105 +119,105 @@
 
 ### 📈 Daily Trending
 
+- **[Yu9191/wloc](https://github.com/Yu9191/wloc)** ⭐ 91
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
+  Apple WLOC Location Spoofer
+
+- **[benchflow-ai/awesome-evals](https://github.com/benchflow-ai/awesome-evals)** ⭐ 61
+  ![None](https://img.shields.io/badge/-None-lightgrey)
+  A curated, non-BS library of the best resources for building and evaluating AI agents — papers, blogs, talks, tools, benchmarks. Maintained by BenchFlow.
+
+- **[CircumferenceChief/CapCut-Pro-Crack-2026](https://github.com/CircumferenceChief/CapCut-Pro-Crack-2026)** ⭐ 53
+  ![C++](https://img.shields.io/badge/-C++-pink)
+  ⭐️ Cap Cut Professional Video Editor with Premium Effects Download ⭐️
+
+- **[killernay/HearYourVOICE](https://github.com/killernay/HearYourVOICE)** ⭐ 37
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
+  None
+
+- **[JotaDev66/WaCalls](https://github.com/JotaDev66/WaCalls)** ⭐ 29
+  ![Go](https://img.shields.io/badge/-Go-cyan)
+  None
+
 - **[sergey6531/Packmate](https://github.com/sergey6531/Packmate)** ⭐ 24
   ![Java](https://img.shields.io/badge/-Java-orange)
   Утилита перехвата и анализа трафика для CTF
 
-- **[fhgg888/summer-camp-autofill](https://github.com/fhgg888/summer-camp-autofill)** ⭐ 12
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
-  None
-
-- **[HKUST-C4G/DomainShuttle](https://github.com/HKUST-C4G/DomainShuttle)** ⭐ 12
-  ![None](https://img.shields.io/badge/-None-lightgrey)
-  None
-
-- **[abundantbeing/hermes-browser-extension](https://github.com/abundantbeing/hermes-browser-extension)** ⭐ 9
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
-  Browser-native side panel for Hermes Agent — connect web context to your local Hermes runtime.
-
-- **[SageReminisce/XYplorer-2026](https://github.com/SageReminisce/XYplorer-2026)** ⭐ 9
-  ![None](https://img.shields.io/badge/-None-lightgrey)
-  xyplorer download — XYplorer for Windows 11 & 10. Direct download, install steps and setup guide.
-
-- **[Colonyflucrypt/Wise-Disk-Cleaner-2026](https://github.com/Colonyflucrypt/Wise-Disk-Cleaner-2026)** ⭐ 9
-  ![None](https://img.shields.io/badge/-None-lightgrey)
-  wise disk cleaner download — Wise Disk Cleaner for Windows 11 & 10. Direct download, install steps and setup guide.
-
-- **[redtecher/FirmCure](https://github.com/redtecher/FirmCure)** ⭐ 7
+- **[HKUST-C4G/DomainShuttle](https://github.com/HKUST-C4G/DomainShuttle)** ⭐ 19
   ![Python](https://img.shields.io/badge/-Python-blue)
-  FIRMCURE: Towards Autonomous and Adaptive Rehosting of Linux-Based Firmware
-
-- **[Princebhagat001/Library-Management-System](https://github.com/Princebhagat001/Library-Management-System)** ⭐ 6
-  ![HTML](https://img.shields.io/badge/-HTML-lightgrey)
   None
+
+- **[amplifthq/opentag](https://github.com/amplifthq/opentag)** ⭐ 17
+  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
+  Open-source @agent mentions for Slack and GitHub. OpenTag routes tagged requests to Codex, Claude Code, then returns results in thread.
 
 ### 📈 Weekly Trending
 
-- **[baidu/Unlimited-OCR](https://github.com/baidu/Unlimited-OCR)** ⭐ 4,851
+- **[baidu/Unlimited-OCR](https://github.com/baidu/Unlimited-OCR)** ⭐ 5,561
   ![Python](https://img.shields.io/badge/-Python-blue)
   Unlimited OCR Works: Welcome the Era of One-shot Long-horizon Parsing.
 
-- **[zhongerxin/Cowart](https://github.com/zhongerxin/Cowart)** ⭐ 2,526
+- **[zhongerxin/Cowart](https://github.com/zhongerxin/Cowart)** ⭐ 2,600
   ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
   None
 
-- **[lyra81604/zhengxi-views](https://github.com/lyra81604/zhengxi-views)** ⭐ 951
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  可溯源的郑希(易方达基金经理)投研 Agent Skill——基于他全部公开观点原文 + 有原话佐证的投资方法 + 全市场基金真实数据，能溯源问答、按他框架给基金打分，绝不杜撰。⚠️仅研究学习辅助，不构成投资建议‼️website是郑希主页！
-
-- **[Forsy-AI/agent-apprenticeship](https://github.com/Forsy-AI/agent-apprenticeship)** ⭐ 881
-  ![None](https://img.shields.io/badge/-None-lightgrey)
-  The living ecosystem where AI agents learn from real-world work through iterative workflow loops, reusable experience, and collective training signal exchange.
-
-- **[bozhouDev/codex-orange-book](https://github.com/bozhouDev/codex-orange-book)** ⭐ 836
+- **[bozhouDev/codex-orange-book](https://github.com/bozhouDev/codex-orange-book)** ⭐ 1,041
   ![HTML](https://img.shields.io/badge/-HTML-lightgrey)
   Codex 橙皮书：从安装到实战案例的全链路 Codex 使用指南（非官方开源，含可下载 PDF）
 
-- **[aidenybai/cnfast](https://github.com/aidenybai/cnfast)** ⭐ 820
+- **[lyra81604/zhengxi-views](https://github.com/lyra81604/zhengxi-views)** ⭐ 974
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  可溯源的郑希(易方达基金经理)投研 Agent Skill——基于他全部公开观点原文 + 有原话佐证的投资方法 + 全市场基金真实数据，能溯源问答、按他框架给基金打分，绝不杜撰。⚠️仅研究学习辅助，不构成投资建议‼️website是郑希主页！
+
+- **[Forsy-AI/agent-apprenticeship](https://github.com/Forsy-AI/agent-apprenticeship)** ⭐ 893
+  ![None](https://img.shields.io/badge/-None-lightgrey)
+  The living ecosystem where AI agents learn from real-world work through iterative workflow loops, reusable experience, and collective training signal exchange.
+
+- **[aidenybai/cnfast](https://github.com/aidenybai/cnfast)** ⭐ 843
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   Fast drop in replacement for `cn`
 
-- **[kanavtwtgg/birds.cafe](https://github.com/kanavtwtgg/birds.cafe)** ⭐ 733
+- **[kanavtwtgg/birds.cafe](https://github.com/kanavtwtgg/birds.cafe)** ⭐ 749
   ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
   None
 
-- **[sums001/Windows-Copilot-API](https://github.com/sums001/Windows-Copilot-API)** ⭐ 588
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  Reverse engineered Windows Copilot into an OpenAI-compatible API. Access GPT-4 and GPT-5 models through a simple REST interface without API keys or billing.
+- **[cloudflare/security-audit-skill](https://github.com/cloudflare/security-audit-skill)** ⭐ 612
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
+  A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings
 
 ### 📈 Monthly Trending
 
-- **[pewdiepie-archdaemon/odysseus](https://github.com/pewdiepie-archdaemon/odysseus)** ⭐ 77,059
+- **[pewdiepie-archdaemon/odysseus](https://github.com/pewdiepie-archdaemon/odysseus)** ⭐ 77,182
   ![Python](https://img.shields.io/badge/-Python-blue)
   Self-hosted AI workspace. 
 
-- **[DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail)** ⭐ 53,442
+- **[DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail)** ⭐ 54,094
   ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
   Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.
 
-- **[XiaomiMiMo/MiMo-Code](https://github.com/XiaomiMiMo/MiMo-Code)** ⭐ 10,550
+- **[XiaomiMiMo/MiMo-Code](https://github.com/XiaomiMiMo/MiMo-Code)** ⭐ 10,577
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   MiMo Code: Where Models and Agents Co-Evolve
 
-- **[unicity-astrid/book](https://github.com/unicity-astrid/book)** ⭐ 6,633
+- **[unicity-astrid/book](https://github.com/unicity-astrid/book)** ⭐ 6,852
   ![Perl](https://img.shields.io/badge/-Perl-lightgrey)
   The canonical reference for Astrid OS: kernel, capsules, host ABI, the bus, and the security model.
 
-- **[unicity-astrid/handbook](https://github.com/unicity-astrid/handbook)** ⭐ 6,582
+- **[unicity-astrid/handbook](https://github.com/unicity-astrid/handbook)** ⭐ 6,801
   ![None](https://img.shields.io/badge/-None-lightgrey)
   How to work on Astrid: the polyrepo, the kernel-is-dumb law, the RFC trigger, contribution tiers, and the release process.
 
-- **[shadcn/improve](https://github.com/shadcn/improve)** ⭐ 6,094
+- **[shadcn/improve](https://github.com/shadcn/improve)** ⭐ 6,117
   ![None](https://img.shields.io/badge/-None-lightgrey)
   Use your most capable model to audit your codebase and write plans for cheaper models to execute.
 
-- **[helloianneo/ian-xiaohei-illustrations](https://github.com/helloianneo/ian-xiaohei-illustrations)** ⭐ 5,946
+- **[helloianneo/ian-xiaohei-illustrations](https://github.com/helloianneo/ian-xiaohei-illustrations)** ⭐ 5,974
   ![None](https://img.shields.io/badge/-None-lightgrey)
   中文小黑怪诞正文配图生成 Skill | 16:9 白底手绘 | 少量红橙蓝批注 | Codex Skill
 
-- **[zgwl/chinese-buy-us-stock-guide](https://github.com/zgwl/chinese-buy-us-stock-guide)** ⭐ 4,977
-  ![None](https://img.shields.io/badge/-None-lightgrey)
-  美股指南
+- **[baidu/Unlimited-OCR](https://github.com/baidu/Unlimited-OCR)** ⭐ 5,561
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  Unlimited OCR Works: Welcome the Era of One-shot Long-horizon Parsing.
 
 ## 🚀 Latest Releases
 
@@ -234,11 +226,11 @@
 
 ### 📦 microsoft/vscode
 
-**[1.125.0](https://github.com/microsoft/vscode/releases/tag/1.125.0)** `1.125.0`
+**[1.126.0](https://github.com/microsoft/vscode/releases/tag/1.126.0)** `1.126.0`
 
-📅 Released: June 17, 2026
+📅 Released: June 24, 2026
 
-https://code.visualstudio.com/updates/v1_125...
+https://code.visualstudio.com/updates/v1_126...
 
 ---
 
@@ -494,59 +486,59 @@ This is a security release.
 
 | Skill | Status |
 |-------|--------|
-| Java | ⚪ Planned |
-| Python | ⚪ Planned |
-| JavaScript | 🟡 Learning |
-| TypeScript | ⚪ Planned |
-| Go | ⚪ Planned |
+| Java | 🟡 Learning |
+| Python | 🟡 Learning |
+| JavaScript | 🔴 Beginner |
+| TypeScript | 🔴 Beginner |
+| Go | 🟡 Learning |
 
 ### Frameworks
 
 | Skill | Status |
 |-------|--------|
-| React | 🟢 Proficient |
+| React | ⚪ Planned |
 | Spring Boot | ⚪ Planned |
 | Django | ⚪ Planned |
-| Node.js | ⚪ Planned |
-| Next.js | ⚪ Planned |
+| Node.js | 🟡 Learning |
+| Next.js | 🟢 Proficient |
 
 ### Cybersecurity
 
 | Skill | Status |
 |-------|--------|
 | Penetration Testing | ⚪ Planned |
-| Web Security | 🔴 Beginner |
+| Web Security | ⚪ Planned |
 | Network Security | ⚪ Planned |
-| OWASP | 🟢 Proficient |
+| OWASP | 🟡 Learning |
 
 ### Ai Ml
 
 | Skill | Status |
 |-------|--------|
 | Machine Learning | 🟢 Proficient |
-| Deep Learning | ⚪ Planned |
+| Deep Learning | 🟡 Learning |
 | NLP | 🟡 Learning |
 | Computer Vision | 🟢 Proficient |
-| TensorFlow | 🔴 Beginner |
-| PyTorch | ⚪ Planned |
+| TensorFlow | 🟢 Proficient |
+| PyTorch | 🟢 Proficient |
 
 ### Devops
 
 | Skill | Status |
 |-------|--------|
-| Docker | ⚪ Planned |
-| Kubernetes | 🟡 Learning |
-| CI/CD | 🟡 Learning |
-| AWS | 🔴 Beginner |
-| Azure | ⚪ Planned |
+| Docker | 🟢 Proficient |
+| Kubernetes | 🔴 Beginner |
+| CI/CD | 🔴 Beginner |
+| AWS | ⚪ Planned |
+| Azure | 🟡 Learning |
 
 ### Other
 
 | Skill | Status |
 |-------|--------|
 | Blockchain | ⚪ Planned |
-| Web3 | ⚪ Planned |
-| Cloud Computing | 🟡 Learning |
+| Web3 | 🟢 Proficient |
+| Cloud Computing | 🟢 Proficient |
 
 </details>
 
