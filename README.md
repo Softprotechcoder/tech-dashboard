@@ -7,7 +7,7 @@
 ![AI & ML](https://img.shields.io/badge/-AI%20&%20ML-blue) ![CyberSecurity](https://img.shields.io/badge/-CyberSecurity-red) ![Full Stack Development](https://img.shields.io/badge/-Full%20Stack%20Development-green)
 
 [![Auto Update](https://img.shields.io/badge/Auto%20Update-Enabled-success)](https://github.com/yourusername/tech-dashboard/actions)
-[![Last Updated](https://img.shields.io/badge/Last%20Updated-June 23, 2026-blue)](https://github.com/yourusername/tech-dashboard)
+[![Last Updated](https://img.shields.io/badge/Last%20Updated-June 24, 2026-blue)](https://github.com/yourusername/tech-dashboard)
 
 *Automatically updated every 6 hours with the latest tech news, trending repositories, and learning resources.*
 
@@ -46,37 +46,45 @@
 
 ### 📑 Hacker News
 
-- **[Jerry's Map](http://www.jerrysmap.com/the-map)**
-  *<p><a href="https://www.openculture.com/2026/06/this-man-has-been-drawing-a-map-of-an-imaginary-land-since-1963.html" rel="nofollow">https://www.openculture.com/2026/06/this-man-has-been-drawin...</a>...*
-  📅 Tue, 23 Jun 2026 18:40:22 +0000
+- **[Meta Pauses Employee-Tracking Program Following Internal Data Leak](https://www.wired.com/story/meta-pauses-employee-tracking-program-following-internal-security-breach/)**
+  *<p>Article URL: <a href="https://www.wired.com/story/meta-pauses-employee-tracking-program-following-internal-security-breach/">https://www.wired.com/story/meta-pauses-employee-tracking-program-follow...*
+  📅 Wed, 24 Jun 2026 00:28:41 +0000
 
-- **[Modal Auto Endpoints: Optimized inference you own](https://modal.com/blog/introducing-auto-endpoints)**
-  *<p>Article URL: <a href="https://modal.com/blog/introducing-auto-endpoints">https://modal.com/blog/introducing-auto-endpoints</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=486...*
-  📅 Tue, 23 Jun 2026 18:35:50 +0000
+- **[Show HN: Y – A malleable coding-agent desktop app built with Electron](https://github.com/y-times-y/y)**
+  *<p>Article URL: <a href="https://github.com/y-times-y/y">https://github.com/y-times-y/y</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=48653476">https://news.ycombinator.com/it...*
+  📅 Wed, 24 Jun 2026 00:15:31 +0000
 
-- **[The End of Code Review: Coding Agents Supersede Human Inspection](https://arxiv.org/abs/2606.13175)**
-  *<p>Article URL: <a href="https://arxiv.org/abs/2606.13175">https://arxiv.org/abs/2606.13175</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=48649183">https://news.ycombinator.co...*
-  📅 Tue, 23 Jun 2026 18:24:16 +0000
+- **[Prairieland Defendants Sentenced Today to Prison Terms Ranging from 30-100 Years](https://prairielanddefendants.com/press-release/eight-federal-prairieland-defendants-sentenced-today-to-prison-terms-ranging-from-30-100-years-for-common-protest-activity/)**
+  *<p>Article URL: <a href="https://prairielanddefendants.com/press-release/eight-federal-prairieland-defendants-sentenced-today-to-prison-terms-ranging-from-30-100-years-for-common-protest-activity/">ht...*
+  📅 Tue, 23 Jun 2026 23:54:00 +0000
 
-- **[Fired by Google for creating the Google workspace CLI](https://twitter.com/JPoehnelt/status/2069482265953087602)**
-  *<p><a href="https://xcancel.com/JPoehnelt/status/2069482265953087602" rel="nofollow">https://xcancel.com/JPoehnelt/status/2069482265953087602</a></p>
-<hr />
-<p>Comments URL: <a href="https://news.ycom...*
-  📅 Tue, 23 Jun 2026 18:13:40 +0000
+- **[Vulnerability reports are not special anymore](https://words.filippo.io/vuln-reports/)**
+  *<p>Article URL: <a href="https://words.filippo.io/vuln-reports/">https://words.filippo.io/vuln-reports/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=48653216">https://news.yc...*
+  📅 Tue, 23 Jun 2026 23:42:46 +0000
 
-- **[Swift Package Index joins Apple](https://swiftpackageindex.com/blog/swift-package-index-joins-apple)**
-  *<p>Article URL: <a href="https://swiftpackageindex.com/blog/swift-package-index-joins-apple">https://swiftpackageindex.com/blog/swift-package-index-joins-apple</a></p>
-<p>Comments URL: <a href="https:...*
-  📅 Tue, 23 Jun 2026 18:00:58 +0000
+- **[Extreme Heat conference cancelled due to extreme heat warning](https://www.lse.ac.uk/granthaminstitute/events/extreme-heat-improving-governance-and-strengthening-action-around-the-world/)**
+  *<p>Article URL: <a href="https://www.lse.ac.uk/granthaminstitute/events/extreme-heat-improving-governance-and-strengthening-action-around-the-world/">https://www.lse.ac.uk/granthaminstitute/events/ext...*
+  📅 Tue, 23 Jun 2026 23:26:43 +0000
 
-- **[Claude Tag](https://www.anthropic.com/news/introducing-claude-tag)**
-  *<p>Article URL: <a href="https://www.anthropic.com/news/introducing-claude-tag">https://www.anthropic.com/news/introducing-claude-tag</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/ite...*
-  📅 Tue, 23 Jun 2026 17:09:18 +0000
+- **[Trains halted across Germany because of communication system problem](https://apnews.com/article/germany-trains-halted-communications-radio-problem-deutsche-bahn-e8fd970b2d889f3ae7ce03322d5c726b)**
+  *<p>Article URL: <a href="https://apnews.com/article/germany-trains-halted-communications-radio-problem-deutsche-bahn-e8fd970b2d889f3ae7ce03322d5c726b">https://apnews.com/article/germany-trains-halted-...*
+  📅 Tue, 23 Jun 2026 21:19:44 +0000
 
 ### 📑 TechCrunch
+
+- **[Walmart-backed Flipkart expands quick-commerce push as Amazon ramps up in India](https://techcrunch.com/2026/06/23/walmart-backed-flipkart-expands-quick-commerce-push-as-amazon-ramps-up-in-india/)**
+  *Walmart-backed Flipkart has crossed 1,000 micro-fulfillment centers as Amazon accelerates its own quick-commerce push in India....*
+  📅 Wed, 24 Jun 2026 00:30:00 +0000
+
+- **[India’s MoEngage bets that the future of marketing is millions of AI agents](https://techcrunch.com/2026/06/23/indias-moengage-bets-marketings-future-on-millions-of-ai-agents/)**
+  *The all-cash deal gives MoEngage access to technology that assigns AI agents to individual customers....*
+  📅 Tue, 23 Jun 2026 23:30:00 +0000
+
+- **[Superhuman acquires AI detection startup GPTZero](https://techcrunch.com/2026/06/23/superhuman-acquires-ai-detection-startup-gptzero/)**
+  *Superhuman, which also has an AI detection tool as part of Grammarly, has snapped up GPTZero....*
+  📅 Tue, 23 Jun 2026 21:48:23 +0000
 
 - **[After betting the firm on Anthropic, Menlo Ventures raises victorious $3B fund](https://techcrunch.com/2026/06/23/after-betting-the-firm-on-anthropic-menlo-ventures-raises-victorious-3b-fund/)**
   *Menlo has created a solid rep for itself as an AI investor, all based on one gutsy $750 million move in 2024....*
@@ -90,33 +98,15 @@
   *The app would be independent of Meta's other social media offerings, although sources told the NYT that those social sites could direct users to engagement with the app....*
   📅 Tue, 23 Jun 2026 19:19:44 +0000
 
-- **[Anthropic’s Claude Tag is learning your company, one Slack message at a time](https://techcrunch.com/2026/06/23/anthropics-claude-tag-is-learning-your-company-one-slack-message-at-a-time/)**
-  *Anthropic’s new Claude Tag brings an always-on AI teammate to Slack. But beyond productivity, the feature is a strategic play to capture organizational context, institutional knowledge, and enterprise...*
-  📅 Tue, 23 Jun 2026 17:00:00 +0000
-
-- **[Password manager maker LastPass says hackers stole customer support case data during Klue breach](https://techcrunch.com/2026/06/23/password-manager-maker-lastpass-says-hackers-stole-customer-support-case-data-during-klue-breach/)**
-  *This is the second data breach to affect LastPass customers in recent years, after one of the password manager's tech partners was recently breached....*
-  📅 Tue, 23 Jun 2026 15:12:37 +0000
-
-- **[HaloBraid raises $7M from Seven Seven Six to end the six-hour hair salon appointment](https://techcrunch.com/2026/06/23/halobraid-raises-7m-from-seven-seven-six-to-end-the-six-hour-hair-salon-appointment/)**
-  *HaloBraid aims to help salons speed up braiding with its first device, slated to launch later this year, that acts as a braiding assistant for professional stylists....*
-  📅 Tue, 23 Jun 2026 15:09:38 +0000
-
 ### 📑 Dev.to
 
-- **[I Measured MCP vs Direct API Calls: The Token Math No One Tells You](https://dev.to/mudassirworks/i-measured-mcp-vs-direct-api-calls-the-token-math-no-one-tells-you-371p)**
-  *<p>MCP is having its moment. Every agent framework is wiring tools through it, and for good reason: standardized tool registration, composable servers, a protocol that doesn't force you to reinvent th...*
-  📅 Tue, 23 Jun 2026 19:37:17 +0000
+- **[How WhatsApp Accounts Really Get "Hacked" (and How to Lock Yours Down)](https://dev.to/adev3loper/how-whatsapp-accounts-really-get-hacked-and-how-to-lock-yours-down-2ioj)**
+  *<p>Quick question before you read on. If someone took over your WhatsApp right now, who would they hit first? Your family group? Your clients? The estate WhatsApp where everyone trusts your name? Sit ...*
+  📅 Wed, 24 Jun 2026 02:12:28 +0000
 
-- **[Porque o PostgreSQL é tão queridinho?](https://dev.to/matheusdsilva01/porque-o-postgresql-e-tao-queridinho-3eh0)**
-  *<h2>
-  
-  
-  Introdução
-</h2>
-
-<p>PostgreSQL é um dos bancos de dados relacionais mais populares no mundo por alguns motivos e tudo isso começou como um simples projeto de faculdade, hoje sendo a prin...*
-  📅 Tue, 23 Jun 2026 19:30:46 +0000
+- **[S3 Annotations: Three Practical Use Cases in Agent Scenarios](https://dev.to/maisie_oy/s3-annotations-three-practical-use-cases-in-agent-scenarios-ncg)**
+  *<p>S3 objects have historically carried three types of native metadata: system-defined metadata, user-defined metadata (2 KB, immutable after upload), and object tags. With <a href="https://aws.amazon...*
+  📅 Wed, 24 Jun 2026 02:12:12 +0000
 
 </details>
 
@@ -124,103 +114,103 @@
 
 ### 📈 Daily Trending
 
-- **[bozhouDev/codex-orange-book](https://github.com/bozhouDev/codex-orange-book)** ⭐ 408
-  ![HTML](https://img.shields.io/badge/-HTML-lightgrey)
-  Codex 橙皮书：从安装到实战案例的全链路 Codex 使用指南（非官方开源，含可下载 PDF）
-
-- **[goehou/tabbit-toy](https://github.com/goehou/tabbit-toy)** ⭐ 176
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
-  这是一个基于tabbit的研究包，可以转化成OAI格式出来，同时增加了会员认证功能和一键提取cookie的浏览器拓展，方便快速本地快速使用claude gpt等模型
-
-- **[egorpavlov0/Flash-USDT-Sender](https://github.com/egorpavlov0/Flash-USDT-Sender)** ⭐ 105
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  Flash USDT Sender — Multi-network flash transaction tool for USDT, BTC, and ETH with configurable duration, custom gas settings, ERC-20/TRC-20/BEP-20 support, and block explorer-visible confirmations
-
-- **[ObsidianOwl123/AgentLens](https://github.com/ObsidianOwl123/AgentLens)** ⭐ 80
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  Lightweight AI context compressor for LLM agents
-
-- **[Simpl3x3/ESEILANE](https://github.com/Simpl3x3/ESEILANE)** ⭐ 77
-  ![Ruby](https://img.shields.io/badge/-Ruby-lightgrey)
-  High-performance Knowledge Graph engine for AI, LLMs, and GraphRAG — built for the next generation of intelligent applications.
-
-- **[lynx4q/USDT-Flasher-Web-Tool](https://github.com/lynx4q/USDT-Flasher-Web-Tool)** ⭐ 63
+- **[SageReminisce/XYplorer-2026](https://github.com/SageReminisce/XYplorer-2026)** ⭐ 9
   ![None](https://img.shields.io/badge/-None-lightgrey)
+  xyplorer download — XYplorer for Windows 11 & 10. Direct download, install steps and setup guide.
+
+- **[Colonyflucrypt/Wise-Disk-Cleaner-2026](https://github.com/Colonyflucrypt/Wise-Disk-Cleaner-2026)** ⭐ 9
+  ![None](https://img.shields.io/badge/-None-lightgrey)
+  wise disk cleaner download — Wise Disk Cleaner for Windows 11 & 10. Direct download, install steps and setup guide.
+
+- **[Screwkecontrol/Veeam-Agent-2026](https://github.com/Screwkecontrol/Veeam-Agent-2026)** ⭐ 6
+  ![None](https://img.shields.io/badge/-None-lightgrey)
+  veeam agent download — Veeam Agent for Windows 11 & 10. Direct download, install steps and setup guide.
+
+- **[FieldStarfish/Twinmotion-2026](https://github.com/FieldStarfish/Twinmotion-2026)** ⭐ 6
+  ![None](https://img.shields.io/badge/-None-lightgrey)
+  twinmotion download — Twinmotion for Windows 11 & 10. Direct download, install steps and setup guide.
+
+- **[1135782926/ide-wallpaper-rotator](https://github.com/1135782926/ide-wallpaper-rotator)** ⭐ 3
+  ![Kotlin](https://img.shields.io/badge/-Kotlin-lightgrey)
   None
 
-- **[Weightkyostrike/Software-Acrobat-pro](https://github.com/Weightkyostrike/Software-Acrobat-pro)** ⭐ 57
-  ![None](https://img.shields.io/badge/-None-lightgrey)
-  SoftwareHub is a simple, lightweight and convenient Windows utility that helps users quickly install Adobe Acrobat Pro. The program provides clear step-by-step guidance, automates some installation steps and makes the whole process much easier and faster.
-
-- **[dama-cyber/Casting-Workflow](https://github.com/dama-cyber/Casting-Workflow)** ⭐ 56
+- **[Crinklyink/Stock-pred](https://github.com/Crinklyink/Stock-pred)** ⭐ 2
   ![Python](https://img.shields.io/badge/-Python-blue)
+  It Diddles the stocks ----- more consistent +8 percent for top 1 and top 3 
+
+- **[LuWenXuaner/SenseHub-Agent](https://github.com/LuWenXuaner/SenseHub-Agent)** ⭐ 2
+  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
+  多模态感知Agent远程人机交互控制系统
+
+- **[kalhintz/Helm](https://github.com/kalhintz/Helm)** ⭐ 2
+  ![Rust](https://img.shields.io/badge/-Rust-brown)
   None
 
 ### 📈 Weekly Trending
 
-- **[baidu/Unlimited-OCR](https://github.com/baidu/Unlimited-OCR)** ⭐ 3,073
+- **[baidu/Unlimited-OCR](https://github.com/baidu/Unlimited-OCR)** ⭐ 3,865
   ![Python](https://img.shields.io/badge/-Python-blue)
   Unlimited OCR Works: Welcome the Era of One-shot Long-horizon Parsing.
 
-- **[zhongerxin/Cowart](https://github.com/zhongerxin/Cowart)** ⭐ 2,339
+- **[zhongerxin/Cowart](https://github.com/zhongerxin/Cowart)** ⭐ 2,386
   ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
   None
 
-- **[lyra81604/zhengxi-views](https://github.com/lyra81604/zhengxi-views)** ⭐ 906
+- **[lyra81604/zhengxi-views](https://github.com/lyra81604/zhengxi-views)** ⭐ 922
   ![Python](https://img.shields.io/badge/-Python-blue)
   可溯源的郑希(易方达基金经理)投研 Agent Skill——基于他全部公开观点原文 + 有原话佐证的投资方法 + 全市场基金真实数据，能溯源问答、按他框架给基金打分，绝不杜撰。⚠️仅研究学习辅助，不构成投资建议‼️website是郑希主页！
 
-- **[Forsy-AI/agent-apprenticeship](https://github.com/Forsy-AI/agent-apprenticeship)** ⭐ 829
+- **[Forsy-AI/agent-apprenticeship](https://github.com/Forsy-AI/agent-apprenticeship)** ⭐ 865
   ![None](https://img.shields.io/badge/-None-lightgrey)
   The living ecosystem where AI agents learn from real-world work through iterative workflow loops, reusable experience, and collective training signal exchange.
 
-- **[aidenybai/cnfast](https://github.com/aidenybai/cnfast)** ⭐ 768
+- **[aidenybai/cnfast](https://github.com/aidenybai/cnfast)** ⭐ 794
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   Fast drop in replacement for `cn`
 
-- **[kanavtwtgg/birds.cafe](https://github.com/kanavtwtgg/birds.cafe)** ⭐ 706
+- **[kanavtwtgg/birds.cafe](https://github.com/kanavtwtgg/birds.cafe)** ⭐ 718
   ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
   None
 
-- **[Plaer1/junction](https://github.com/Plaer1/junction)** ⭐ 530
-  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
-  VS Code chat sidebar for local AI coding agents
+- **[bozhouDev/codex-orange-book](https://github.com/bozhouDev/codex-orange-book)** ⭐ 574
+  ![HTML](https://img.shields.io/badge/-HTML-lightgrey)
+  Codex 橙皮书：从安装到实战案例的全链路 Codex 使用指南（非官方开源，含可下载 PDF）
 
-- **[sums001/Windows-Copilot-API](https://github.com/sums001/Windows-Copilot-API)** ⭐ 511
+- **[sums001/Windows-Copilot-API](https://github.com/sums001/Windows-Copilot-API)** ⭐ 537
   ![Python](https://img.shields.io/badge/-Python-blue)
   Reverse engineered Windows Copilot into an OpenAI-compatible API. Access GPT-4 and GPT-5 models through a simple REST interface without API keys or billing.
 
 ### 📈 Monthly Trending
 
-- **[pewdiepie-archdaemon/odysseus](https://github.com/pewdiepie-archdaemon/odysseus)** ⭐ 76,824
+- **[pewdiepie-archdaemon/odysseus](https://github.com/pewdiepie-archdaemon/odysseus)** ⭐ 76,948
   ![Python](https://img.shields.io/badge/-Python-blue)
   Self-hosted AI workspace. 
 
-- **[DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail)** ⭐ 52,127
+- **[DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail)** ⭐ 52,689
   ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
   Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.
 
-- **[XiaomiMiMo/MiMo-Code](https://github.com/XiaomiMiMo/MiMo-Code)** ⭐ 10,480
+- **[XiaomiMiMo/MiMo-Code](https://github.com/XiaomiMiMo/MiMo-Code)** ⭐ 10,501
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   MiMo Code: Where Models and Agents Co-Evolve
 
-- **[shadcn/improve](https://github.com/shadcn/improve)** ⭐ 6,047
-  ![None](https://img.shields.io/badge/-None-lightgrey)
-  Use your most capable model to audit your codebase and write plans for cheaper models to execute.
-
-- **[helloianneo/ian-xiaohei-illustrations](https://github.com/helloianneo/ian-xiaohei-illustrations)** ⭐ 5,872
-  ![None](https://img.shields.io/badge/-None-lightgrey)
-  中文小黑怪诞正文配图生成 Skill | 16:9 白底手绘 | 少量红橙蓝批注 | Codex Skill
-
-- **[unicity-astrid/book](https://github.com/unicity-astrid/book)** ⭐ 5,763
+- **[unicity-astrid/book](https://github.com/unicity-astrid/book)** ⭐ 6,087
   ![Perl](https://img.shields.io/badge/-Perl-lightgrey)
   The canonical reference for Astrid OS: kernel, capsules, host ABI, the bus, and the security model.
 
-- **[unicity-astrid/handbook](https://github.com/unicity-astrid/handbook)** ⭐ 5,638
+- **[shadcn/improve](https://github.com/shadcn/improve)** ⭐ 6,072
+  ![None](https://img.shields.io/badge/-None-lightgrey)
+  Use your most capable model to audit your codebase and write plans for cheaper models to execute.
+
+- **[unicity-astrid/handbook](https://github.com/unicity-astrid/handbook)** ⭐ 6,039
   ![None](https://img.shields.io/badge/-None-lightgrey)
   How to work on Astrid: the polyrepo, the kernel-is-dumb law, the RFC trigger, contribution tiers, and the release process.
 
-- **[zgwl/chinese-buy-us-stock-guide](https://github.com/zgwl/chinese-buy-us-stock-guide)** ⭐ 4,858
+- **[helloianneo/ian-xiaohei-illustrations](https://github.com/helloianneo/ian-xiaohei-illustrations)** ⭐ 5,889
+  ![None](https://img.shields.io/badge/-None-lightgrey)
+  中文小黑怪诞正文配图生成 Skill | 16:9 白底手绘 | 少量红橙蓝批注 | Codex Skill
+
+- **[zgwl/chinese-buy-us-stock-guide](https://github.com/zgwl/chinese-buy-us-stock-guide)** ⭐ 4,885
   ![None](https://img.shields.io/badge/-None-lightgrey)
   美股指南
 
@@ -491,59 +481,59 @@ This is a security release.
 
 | Skill | Status |
 |-------|--------|
-| Java | 🔴 Beginner |
-| Python | 🔴 Beginner |
-| JavaScript | 🔴 Beginner |
-| TypeScript | 🟢 Proficient |
-| Go | ⚪ Planned |
+| Java | ⚪ Planned |
+| Python | ⚪ Planned |
+| JavaScript | 🟡 Learning |
+| TypeScript | ⚪ Planned |
+| Go | 🟡 Learning |
 
 ### Frameworks
 
 | Skill | Status |
 |-------|--------|
-| React | 🟡 Learning |
-| Spring Boot | ⚪ Planned |
-| Django | 🔴 Beginner |
-| Node.js | 🟢 Proficient |
+| React | 🔴 Beginner |
+| Spring Boot | 🟢 Proficient |
+| Django | ⚪ Planned |
+| Node.js | 🟡 Learning |
 | Next.js | 🟢 Proficient |
 
 ### Cybersecurity
 
 | Skill | Status |
 |-------|--------|
-| Penetration Testing | 🔴 Beginner |
+| Penetration Testing | 🟡 Learning |
 | Web Security | 🟡 Learning |
 | Network Security | 🟢 Proficient |
-| OWASP | 🔴 Beginner |
+| OWASP | 🟡 Learning |
 
 ### Ai Ml
 
 | Skill | Status |
 |-------|--------|
-| Machine Learning | 🔴 Beginner |
-| Deep Learning | 🟢 Proficient |
-| NLP | 🟡 Learning |
-| Computer Vision | 🟢 Proficient |
+| Machine Learning | 🟡 Learning |
+| Deep Learning | 🟡 Learning |
+| NLP | 🟢 Proficient |
+| Computer Vision | 🔴 Beginner |
 | TensorFlow | ⚪ Planned |
-| PyTorch | 🔴 Beginner |
+| PyTorch | ⚪ Planned |
 
 ### Devops
 
 | Skill | Status |
 |-------|--------|
-| Docker | ⚪ Planned |
-| Kubernetes | 🔴 Beginner |
-| CI/CD | 🟡 Learning |
-| AWS | 🟡 Learning |
-| Azure | 🟢 Proficient |
+| Docker | 🟢 Proficient |
+| Kubernetes | ⚪ Planned |
+| CI/CD | 🔴 Beginner |
+| AWS | 🟢 Proficient |
+| Azure | 🔴 Beginner |
 
 ### Other
 
 | Skill | Status |
 |-------|--------|
-| Blockchain | 🔴 Beginner |
-| Web3 | ⚪ Planned |
-| Cloud Computing | 🟡 Learning |
+| Blockchain | 🟡 Learning |
+| Web3 | 🟢 Proficient |
+| Cloud Computing | 🔴 Beginner |
 
 </details>
 
@@ -561,7 +551,7 @@ This dashboard is automatically updated every 6 hours using GitHub Actions. The 
 
 <div align="center">
 
-**Last Updated:** June 23, 2026
+**Last Updated:** June 24, 2026
 
 Made with ❤️ and automated with GitHub Actions
 
