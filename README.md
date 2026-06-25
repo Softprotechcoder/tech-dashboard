@@ -46,74 +46,74 @@
 
 ### 📑 Hacker News
 
-- **[Wikipedia Workers in Britain set global first by seeking union recognition](https://utaw.tech/news/wikipedia-recognition)**
-  *<p>Article URL: <a href="https://utaw.tech/news/wikipedia-recognition">https://utaw.tech/news/wikipedia-recognition</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=48669932">htt...*
-  📅 Thu, 25 Jun 2026 07:02:37 +0000
+- **[Countries are competing to see which can carry out mass surveillance the best](https://mullvad.net/en/why-privacy-matters/state-mass-surveillance)**
+  *<p>Article URL: <a href="https://mullvad.net/en/why-privacy-matters/state-mass-surveillance">https://mullvad.net/en/why-privacy-matters/state-mass-surveillance</a></p>
+<p>Comments URL: <a href="https:...*
+  📅 Thu, 25 Jun 2026 13:07:07 +0000
 
-- **[Half-Life 2 in a Browser](https://hl2.slqnt.dev/)**
-  *<p>Article URL: <a href="https://hl2.slqnt.dev/">https://hl2.slqnt.dev/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=48669534">https://news.ycombinator.com/item?id=48669534</...*
-  📅 Thu, 25 Jun 2026 06:00:04 +0000
+- **[Apple announces significant price increases for MacBooks, iPads, more](https://9to5mac.com/2026/06/25/apple-price-increases-mac-ipad-more/)**
+  *<p>Article URL: <a href="https://9to5mac.com/2026/06/25/apple-price-increases-mac-ipad-more/">https://9to5mac.com/2026/06/25/apple-price-increases-mac-ipad-more/</a></p>
+<p>Comments URL: <a href="http...*
+  📅 Thu, 25 Jun 2026 13:02:56 +0000
 
-- **[The Unbearable Cheapness of Open Weight Models](https://jamesoclaire.com/2026/06/25/the-unbearable-cheapness-of-open-weight-models/)**
-  *<p>Article URL: <a href="https://jamesoclaire.com/2026/06/25/the-unbearable-cheapness-of-open-weight-models/">https://jamesoclaire.com/2026/06/25/the-unbearable-cheapness-of-open-weight-models/</a></p...*
-  📅 Thu, 25 Jun 2026 02:51:29 +0000
+- **[Show HN: Secs-man, a secrets manager you can (not) rely on](https://github.com/Fran314/secrets-manager-rs)**
+  *<p>This is a tool to manage encrypted local backups of secrets. The core idea is that it aims to be usable without depending on it, meaning that even if the software disappeared from the face of Earth...*
+  📅 Thu, 25 Jun 2026 12:30:36 +0000
 
-- **[Medical students are using popular research tool to pump out misleading studies](https://www.science.org/content/article/medical-students-are-using-popular-research-tool-pump-out-misleading-studies)**
-  *<p>Article URL: <a href="https://www.science.org/content/article/medical-students-are-using-popular-research-tool-pump-out-misleading-studies">https://www.science.org/content/article/medical-students-...*
-  📅 Thu, 25 Jun 2026 02:30:18 +0000
+- **[Show HN: Turn native language audio into flashcards and shadowing practice](https://lingochunk.com/try)**
+  *<p>Here is a tool I built initially for myself to help with my German and Greek language studies. It started as a hack for creating Anki cards from native language audio. It extracts the words, finds ...*
+  📅 Thu, 25 Jun 2026 11:29:13 +0000
 
-- **[Cloudflare launched self-managed OAuth for all](https://blog.cloudflare.com/oauth-for-all/)**
-  *<p>Article URL: <a href="https://blog.cloudflare.com/oauth-for-all/">https://blog.cloudflare.com/oauth-for-all/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=48668033">https:/...*
-  📅 Thu, 25 Jun 2026 02:18:10 +0000
+- **[LastPass notifies users of yet another data breach](https://9to5mac.com/2026/06/23/lastpass-notifies-users-of-yet-another-data-breach/)**
+  *<p>Article URL: <a href="https://9to5mac.com/2026/06/23/lastpass-notifies-users-of-yet-another-data-breach/">https://9to5mac.com/2026/06/23/lastpass-notifies-users-of-yet-another-data-breach/</a></p>
+...*
+  📅 Thu, 25 Jun 2026 10:28:16 +0000
 
-- **[Zombie unicorns are haunting Silicon Valley](https://www.economist.com/business/2026/06/21/zombie-unicorns-are-haunting-silicon-valley)**
-  *<p>Article URL: <a href="https://www.economist.com/business/2026/06/21/zombie-unicorns-are-haunting-silicon-valley">https://www.economist.com/business/2026/06/21/zombie-unicorns-are-haunting-silicon-v...*
-  📅 Thu, 25 Jun 2026 02:16:15 +0000
+- **[Dolphin Emulator Progress Release 2606](https://dolphin-emu.org/blog/2026/06/25/dolphin-progress-report-release-2606/)**
+  *<p>Article URL: <a href="https://dolphin-emu.org/blog/2026/06/25/dolphin-progress-report-release-2606/">https://dolphin-emu.org/blog/2026/06/25/dolphin-progress-report-release-2606/</a></p>
+<p>Comment...*
+  📅 Thu, 25 Jun 2026 10:20:07 +0000
 
 ### 📑 TechCrunch
+
+- **[2 days left to save up to $190: Join 1,000+ founders and investors at TechCrunch Founder Summit](https://techcrunch.com/2026/06/25/2-days-left-to-save-up-to-190-join-1000-founders-and-investors-at-techcrunch-founder-summit/)**
+  *2 days left to lock in your spot at TechCrunch Founder Summit 2026 and save up to $190 before Early Bird rates expire on June 26 at 11:59 p.m. PT. Register here....*
+  📅 Thu, 25 Jun 2026 14:00:00 +0000
+
+- **[Trump admin proposes axing brake pedal requirement for AVs in a boost for Tesla](https://techcrunch.com/2026/06/25/trump-admin-proposes-axing-brake-pedal-requirement-for-avs-in-a-boost-for-tesla/)**
+  *The Department of Transportation wants to remove the brake pedal requirement for vehicles "designed to be driven exclusively by automated driving systems."...*
+  📅 Thu, 25 Jun 2026 13:58:05 +0000
+
+- **[Adobe acquires image and video enhancement tool maker Topaz Labs](https://techcrunch.com/2026/06/25/adobe-acquires-image-and-video-enhancement-tool-maker-topaz-labs/)**
+  *Adobe said that it will integrate Topaz Labs' tools across its apps....*
+  📅 Thu, 25 Jun 2026 13:30:00 +0000
+
+- **[Amazon ups India bet with fresh $13B AI infrastructure investment](https://techcrunch.com/2026/06/25/amazon-ups-india-bet-with-fresh-13b-ai-infrastructure-investment/)**
+  *Amazon’s latest India investment comes as global tech companies race to expand AI infrastructure in the country....*
+  📅 Thu, 25 Jun 2026 12:00:38 +0000
+
+- **[Cellebrite said it cut off Russia, but Russia used its tools anyway](https://techcrunch.com/2026/06/25/cellebrite-said-it-cut-off-russia-but-russia-used-is-tools-anyway/)**
+  *Security researchers found evidence that Russian authorities hacked the iPhone of a political opponent using a phone-unlocking device made by Cellebrite, even after the company said it would stop sell...*
+  📅 Thu, 25 Jun 2026 10:00:00 +0000
 
 - **[Europe is pushing back on Washington’s chip war](https://techcrunch.com/2026/06/24/europe-is-pushing-back-on-washingtons-chip-war/)**
   *As ASML CEO Christophe Fouquet told TechCrunch in May, what China can currently buy are older-generation deep ultraviolet tools — gear first shipped about a decade ago — the same machines the MATCH Ac...*
   📅 Thu, 25 Jun 2026 00:08:36 +0000
 
-- **[Former Infosys chief has a new startup that wants to challenge the IT services world](https://techcrunch.com/2026/06/24/former-infosys-chief-has-a-new-startup-that-wants-to-challenge-the-it-services-world/)**
-  *Backed by Mayfield and Aramco Ventures, Vishal Sikka’s new venture brings together veterans from SAP, Infosys, and VianAI....*
-  📅 Wed, 24 Jun 2026 23:26:52 +0000
-
-- **[Elon suffers another day short of trillionaire status](https://techcrunch.com/2026/06/24/elon-suffers-another-day-short-of-trillionaire-status/)**
-  *Right now he's merely a several-hundred-billionaire, according to Bloomberg's Billionaires Index....*
-  📅 Wed, 24 Jun 2026 23:09:39 +0000
-
-- **[Cerebras stock plunges after earnings as CEO says margin outlook was misunderstood](https://techcrunch.com/2026/06/24/cerebras-stock-plunges-after-earnings-as-ceo-says-margin-outlook-was-misunderstood/)**
-  *In its first earnings report since going public, the AI chipmaker forecast a narrower gross margin in its core business, scaring investors....*
-  📅 Wed, 24 Jun 2026 22:41:41 +0000
-
-- **[AI was supposed to kill engineering jobs, but new data suggests they’re the most resilient](https://techcrunch.com/2026/06/24/ai-was-supposed-to-kill-engineering-jobs-but-new-data-suggests-theyre-the-most-resilient/)**
-  *While AI dominates the layoff narrative, engineers are actually making up a larger share of new hires, according to SignalFire data....*
-  📅 Wed, 24 Jun 2026 21:56:41 +0000
-
-- **[AI researchers continue to leave Google for its rivals](https://techcrunch.com/2026/06/24/ai-researchers-continue-to-leave-google-for-its-rivals/)**
-  *Top AI researchers Jonas Adler and Alexander Pritzel are leaving Google for Anthropic, following departures from top scientists Noam Shazeer and John Jumper....*
-  📅 Wed, 24 Jun 2026 21:42:07 +0000
-
 ### 📑 Dev.to
 
-- **[Why Full Stack Developers Are Among the Most In-Demand IT Professionals in 2026](https://dev.to/mathu_suthanizeon_994bee/why-full-stack-developers-are-among-the-most-in-demand-it-professionals-in-2026-4806)**
-  *<p>The technology industry continues to evolve at an incredible pace, and organizations are constantly searching for professionals who can adapt to changing business requirements. Among the many roles...*
-  📅 Thu, 25 Jun 2026 08:37:27 +0000
+- **[I Built 20+ Free Dev Tools and a Flip Clock That Turns Old Phones Into a Desk Companion](https://dev.to/jae_moon_4864941ecf7e394b/i-built-20-free-dev-tools-and-a-flip-clock-that-turns-old-phones-into-a-desk-companion-441h)**
+  *<p>We all have an old phone, iPad, or laptop sitting in a drawer.<br />
+I built something to give it a second life — plus 20+ free frontend tools under one domain.<br />
+The Flip Clock Calendar → flip...*
+  📅 Thu, 25 Jun 2026 14:01:42 +0000
 
-- **[Hoplyra: self-hosted orchestration for multi-hop VPN chains](https://dev.to/linchevatel/hoplyra-self-hosted-orchestration-for-multi-hop-vpn-chains-1jb4)**
+- **[How To Build Diy Smart Home Motion Sensor](https://dev.to/samchenreviews/how-to-build-diy-smart-home-motion-sensor-4po8)**
   *<h2>
   
   
-  Hoplyra: self-hosted orchestration for multi-hop VPN chains
-</h2>
-
-<p>Most VPN tools install <strong>one protocol on one server</strong>. Hoplyra covers the full stack: deploy, chain, mon...*
-  📅 Thu, 25 Jun 2026 08:35:57 +0000
+  Building a DIY Motion Sensor from Scratch – The “After the Install” Way Hey there, it’s Nick Creighton, your resident <em>SmartHome Wizardry</em> guide. If you’ve ever stared at a $40 mot...*
+  📅 Thu, 25 Jun 2026 14:01:34 +0000
 
 </details>
 
@@ -125,99 +125,99 @@
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   free claude code ai github desktop pc windows linux macOS proxy server anthropic free api local llm router nvidia nim openrouter deepseek ollama lm studio vscode extension jetbrains cli terminal coding assistant
 
-- **[DrizzleWalker/Lossless-Scaling-Download-2026](https://github.com/DrizzleWalker/Lossless-Scaling-Download-2026)** ⭐ 55
-  ![None](https://img.shields.io/badge/-None-lightgrey)
-  ⭐️ Lossless Scaling download full version pre-activated keygen patch activator lifetime license upscaling tool frame generation gaming performance enhancer resolution scaling graphics optimization Windows PC installer loader mod software ⭐️
-
-- **[PenghaoJiang/auto-paper-collecter](https://github.com/PenghaoJiang/auto-paper-collecter)** ⭐ 20
-  ![HTML](https://img.shields.io/badge/-HTML-lightgrey)
-  📚🔭 Your personal research radar — an LLM-powered tool that auto-aggregates the latest papers for your keywords across arXiv / Crossref / Semantic Scholar / GitHub / RSS.
-
-- **[suphotP/chatgpt-api](https://github.com/suphotP/chatgpt-api)** ⭐ 19
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  Local ChatGPT Web bridge with API, console, opencode integration, and character-game use case
-
-- **[amrita-tifac-cyber-course-repo/OD2627-20CYS402-DSCC](https://github.com/amrita-tifac-cyber-course-repo/OD2627-20CYS402-DSCC)** ⭐ 18
+- **[amrita-tifac-cyber-course-repo/OD2627-20CYS402-DSCC](https://github.com/amrita-tifac-cyber-course-repo/OD2627-20CYS402-DSCC)** ⭐ 38
   ![None](https://img.shields.io/badge/-None-lightgrey)
   Odd Semester 2026-2027: 7th Semester B.Tech CSE (CYS) 2023 Batch - 20CYS402 Distributed Systems and Cloud Computing
 
-- **[lexrus/lex-ghostty-shaders](https://github.com/lexrus/lex-ghostty-shaders)** ⭐ 16
+- **[heheboobes/nebula-engine](https://github.com/heheboobes/nebula-engine)** ⭐ 32
+  ![C++](https://img.shields.io/badge/-C++-pink)
+  Nebula Engine - 2D game engine built on C++ and SFML
+
+- **[lexrus/lex-ghostty-shaders](https://github.com/lexrus/lex-ghostty-shaders)** ⭐ 30
   ![GLSL](https://img.shields.io/badge/-GLSL-lightgrey)
   Custom GLSL shaders for the Ghostty terminal.
 
-- **[maria-rcks/dinorip](https://github.com/maria-rcks/dinorip)** ⭐ 13
+- **[PenghaoJiang/auto-paper-collecter](https://github.com/PenghaoJiang/auto-paper-collecter)** ⭐ 27
+  ![HTML](https://img.shields.io/badge/-HTML-lightgrey)
+  📚🔭 Your personal research radar — an LLM-powered tool that auto-aggregates the latest papers for your keywords across arXiv / Crossref / Semantic Scholar / GitHub / RSS.
+
+- **[suphotP/chatgpt-api](https://github.com/suphotP/chatgpt-api)** ⭐ 26
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  Local ChatGPT Web bridge with API, console, opencode integration, and character-game use case
+
+- **[maria-rcks/dinorip](https://github.com/maria-rcks/dinorip)** ⭐ 18
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   Free & Open Source Texture Ripper
 
-- **[ributtor/ssh-key-manager](https://github.com/ributtor/ssh-key-manager)** ⭐ 12
+- **[goehou/stagewise-manager](https://github.com/goehou/stagewise-manager)** ⭐ 18
   ![Python](https://img.shields.io/badge/-Python-blue)
-  CLI tool to manage SSH keys, configs, and known_hosts across multiple servers
+  这是一个管理stagewise程序的脚本，可以进行账号管理。
 
 ### 📈 Weekly Trending
 
-- **[bozhouDev/codex-orange-book](https://github.com/bozhouDev/codex-orange-book)** ⭐ 1,664
+- **[bozhouDev/codex-orange-book](https://github.com/bozhouDev/codex-orange-book)** ⭐ 1,796
   ![HTML](https://img.shields.io/badge/-HTML-lightgrey)
   Codex 橙皮书：从安装到实战案例的全链路 Codex 使用指南（非官方开源，含可下载 PDF）
 
-- **[lyra81604/zhengxi-views](https://github.com/lyra81604/zhengxi-views)** ⭐ 1,014
+- **[lyra81604/zhengxi-views](https://github.com/lyra81604/zhengxi-views)** ⭐ 1,025
   ![Python](https://img.shields.io/badge/-Python-blue)
   可溯源的郑希(易方达基金经理)投研 Agent Skill——基于他全部公开观点原文 + 有原话佐证的投资方法 + 全市场基金真实数据，能溯源问答、按他框架给基金打分，绝不杜撰。⚠️仅研究学习辅助，不构成投资建议‼️website是郑希主页！
 
-- **[Forsy-AI/agent-apprenticeship](https://github.com/Forsy-AI/agent-apprenticeship)** ⭐ 921
+- **[Forsy-AI/agent-apprenticeship](https://github.com/Forsy-AI/agent-apprenticeship)** ⭐ 927
   ![None](https://img.shields.io/badge/-None-lightgrey)
   The living ecosystem where AI agents learn from real-world work through iterative workflow loops, reusable experience, and collective training signal exchange.
 
-- **[aidenybai/cnfast](https://github.com/aidenybai/cnfast)** ⭐ 899
+- **[aidenybai/cnfast](https://github.com/aidenybai/cnfast)** ⭐ 906
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   Fast drop in replacement for `cn`
 
-- **[kanavtwtgg/birds.cafe](https://github.com/kanavtwtgg/birds.cafe)** ⭐ 783
+- **[kanavtwtgg/birds.cafe](https://github.com/kanavtwtgg/birds.cafe)** ⭐ 786
   ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
   None
 
-- **[sums001/Windows-Copilot-API](https://github.com/sums001/Windows-Copilot-API)** ⭐ 697
+- **[sums001/Windows-Copilot-API](https://github.com/sums001/Windows-Copilot-API)** ⭐ 722
   ![Python](https://img.shields.io/badge/-Python-blue)
   Reverse engineered Windows Copilot into an OpenAI-compatible API. Access GPT-4 and GPT-5 models through a simple REST interface without API keys or billing.
 
-- **[raiyanyahya/recall](https://github.com/raiyanyahya/recall)** ⭐ 503
+- **[raiyanyahya/recall](https://github.com/raiyanyahya/recall)** ⭐ 517
   ![Python](https://img.shields.io/badge/-Python-blue)
   Stop wasting tokens and re-explaining your project every session. Recall gives Claude Code durable memory — entirely offline.
 
-- **[yo-WASSUP/Good-Badminton](https://github.com/yo-WASSUP/Good-Badminton)** ⭐ 497
+- **[yo-WASSUP/Good-Badminton](https://github.com/yo-WASSUP/Good-Badminton)** ⭐ 507
   ![Python](https://img.shields.io/badge/-Python-blue)
   🏸  AI Badminton Hawk-Eye System
 
 ### 📈 Monthly Trending
 
-- **[pewdiepie-archdaemon/odysseus](https://github.com/pewdiepie-archdaemon/odysseus)** ⭐ 77,584
+- **[pewdiepie-archdaemon/odysseus](https://github.com/pewdiepie-archdaemon/odysseus)** ⭐ 77,703
   ![Python](https://img.shields.io/badge/-Python-blue)
   Self-hosted AI workspace. 
 
-- **[DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail)** ⭐ 56,424
+- **[DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail)** ⭐ 57,173
   ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
   Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.
 
-- **[XiaomiMiMo/MiMo-Code](https://github.com/XiaomiMiMo/MiMo-Code)** ⭐ 10,671
+- **[XiaomiMiMo/MiMo-Code](https://github.com/XiaomiMiMo/MiMo-Code)** ⭐ 10,706
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   MiMo Code: Where Models and Agents Co-Evolve
 
-- **[unicity-astrid/book](https://github.com/unicity-astrid/book)** ⭐ 7,185
-  ![Perl](https://img.shields.io/badge/-Perl-lightgrey)
-  The canonical reference for Astrid OS: kernel, capsules, host ABI, the bus, and the security model.
-
-- **[unicity-astrid/handbook](https://github.com/unicity-astrid/handbook)** ⭐ 7,138
-  ![None](https://img.shields.io/badge/-None-lightgrey)
-  How to work on Astrid: the polyrepo, the kernel-is-dumb law, the RFC trigger, contribution tiers, and the release process.
-
-- **[baidu/Unlimited-OCR](https://github.com/baidu/Unlimited-OCR)** ⭐ 6,905
+- **[baidu/Unlimited-OCR](https://github.com/baidu/Unlimited-OCR)** ⭐ 7,474
   ![Python](https://img.shields.io/badge/-Python-blue)
   Unlimited OCR Works: Welcome the Era of One-shot Long-horizon Parsing.
 
-- **[shadcn/improve](https://github.com/shadcn/improve)** ⭐ 6,175
+- **[unicity-astrid/book](https://github.com/unicity-astrid/book)** ⭐ 7,365
+  ![Perl](https://img.shields.io/badge/-Perl-lightgrey)
+  The canonical reference for Astrid OS: kernel, capsules, host ABI, the bus, and the security model.
+
+- **[unicity-astrid/handbook](https://github.com/unicity-astrid/handbook)** ⭐ 7,314
+  ![None](https://img.shields.io/badge/-None-lightgrey)
+  How to work on Astrid: the polyrepo, the kernel-is-dumb law, the RFC trigger, contribution tiers, and the release process.
+
+- **[shadcn/improve](https://github.com/shadcn/improve)** ⭐ 6,185
   ![None](https://img.shields.io/badge/-None-lightgrey)
   Use your most capable model to audit your codebase and write plans for cheaper models to execute.
 
-- **[helloianneo/ian-xiaohei-illustrations](https://github.com/helloianneo/ian-xiaohei-illustrations)** ⭐ 6,072
+- **[helloianneo/ian-xiaohei-illustrations](https://github.com/helloianneo/ian-xiaohei-illustrations)** ⭐ 6,109
   ![None](https://img.shields.io/badge/-None-lightgrey)
   中文小黑怪诞正文配图生成 Skill | 16:9 白底手绘 | 少量红橙蓝批注 | Codex Skill
 
@@ -485,39 +485,39 @@ See [kubernetes-announce@](https://groups.google.com/forum/#!forum/kubernetes-an
 
 | Skill | Status |
 |-------|--------|
-| Java | 🔴 Beginner |
-| Python | 🔴 Beginner |
-| JavaScript | 🟢 Proficient |
+| Java | ⚪ Planned |
+| Python | 🟢 Proficient |
+| JavaScript | ⚪ Planned |
 | TypeScript | ⚪ Planned |
-| Go | 🟢 Proficient |
+| Go | 🟡 Learning |
 
 ### Frameworks
 
 | Skill | Status |
 |-------|--------|
-| React | ⚪ Planned |
+| React | 🟢 Proficient |
 | Spring Boot | 🟡 Learning |
-| Django | ⚪ Planned |
-| Node.js | ⚪ Planned |
+| Django | 🟢 Proficient |
+| Node.js | 🔴 Beginner |
 | Next.js | ⚪ Planned |
 
 ### Cybersecurity
 
 | Skill | Status |
 |-------|--------|
-| Penetration Testing | 🟡 Learning |
-| Web Security | 🟡 Learning |
+| Penetration Testing | 🔴 Beginner |
+| Web Security | ⚪ Planned |
 | Network Security | 🟡 Learning |
-| OWASP | ⚪ Planned |
+| OWASP | 🟡 Learning |
 
 ### Ai Ml
 
 | Skill | Status |
 |-------|--------|
-| Machine Learning | 🟢 Proficient |
-| Deep Learning | 🔴 Beginner |
-| NLP | 🔴 Beginner |
-| Computer Vision | 🔴 Beginner |
+| Machine Learning | ⚪ Planned |
+| Deep Learning | ⚪ Planned |
+| NLP | ⚪ Planned |
+| Computer Vision | 🟢 Proficient |
 | TensorFlow | ⚪ Planned |
 | PyTorch | 🔴 Beginner |
 
@@ -526,17 +526,17 @@ See [kubernetes-announce@](https://groups.google.com/forum/#!forum/kubernetes-an
 | Skill | Status |
 |-------|--------|
 | Docker | 🟢 Proficient |
-| Kubernetes | ⚪ Planned |
-| CI/CD | 🟢 Proficient |
-| AWS | 🟡 Learning |
+| Kubernetes | 🟢 Proficient |
+| CI/CD | 🔴 Beginner |
+| AWS | ⚪ Planned |
 | Azure | 🟢 Proficient |
 
 ### Other
 
 | Skill | Status |
 |-------|--------|
-| Blockchain | 🔴 Beginner |
-| Web3 | ⚪ Planned |
+| Blockchain | ⚪ Planned |
+| Web3 | 🟡 Learning |
 | Cloud Computing | 🟢 Proficient |
 
 </details>
