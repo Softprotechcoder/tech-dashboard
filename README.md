@@ -46,37 +46,43 @@
 
 ### 📑 Hacker News
 
-- **[OpenRA](https://www.openra.net/)**
-  *<p>Article URL: <a href="https://www.openra.net/">https://www.openra.net/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=48697560">https://news.ycombinator.com/item?id=48697560...*
-  📅 Sat, 27 Jun 2026 12:10:27 +0000
+- **[Turn your site into a place people can bump into each other](https://cauenapier.com/blog/townsquare_release/)**
+  *<p>Article URL: <a href="https://cauenapier.com/blog/townsquare_release/">https://cauenapier.com/blog/townsquare_release/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=4869992...*
+  📅 Sat, 27 Jun 2026 17:11:20 +0000
 
-- **[Nox Metals (YC S25) Is Hiring SWE](https://www.ycombinator.com/companies/nox-metals/jobs/M1f1enD-software-engineer)**
-  *<p>Article URL: <a href="https://www.ycombinator.com/companies/nox-metals/jobs/M1f1enD-software-engineer">https://www.ycombinator.com/companies/nox-metals/jobs/M1f1enD-software-engineer</a></p>
-<p>Com...*
-  📅 Sat, 27 Jun 2026 12:01:03 +0000
+- **[Supabase (YC S20) Is Hiring for Multigres](https://jobs.ashbyhq.com/supabase/2e718684-4f75-4a99-8d6b-3b6bd44e4228)**
+  *<p>Article URL: <a href="https://jobs.ashbyhq.com/supabase/2e718684-4f75-4a99-8d6b-3b6bd44e4228">https://jobs.ashbyhq.com/supabase/2e718684-4f75-4a99-8d6b-3b6bd44e4228</a></p>
+<p>Comments URL: <a href...*
+  📅 Sat, 27 Jun 2026 17:00:15 +0000
 
-- **[If You Can't Hold It, You Don't Own It](https://dervis.de/physical/)**
-  *<p>Article URL: <a href="https://dervis.de/physical/">https://dervis.de/physical/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=48697335">https://news.ycombinator.com/item?id=...*
-  📅 Sat, 27 Jun 2026 11:32:10 +0000
+- **[Screen time can damage under-twos' development, landmark study suggests](https://www.theguardian.com/society/2026/jun/27/screen-time-damage-under-twos-development-study)**
+  *<p>Article URL: <a href="https://www.theguardian.com/society/2026/jun/27/screen-time-damage-under-twos-development-study">https://www.theguardian.com/society/2026/jun/27/screen-time-damage-under-twos-...*
+  📅 Sat, 27 Jun 2026 16:51:09 +0000
 
-- **[Fintech Engineering Handbook](https://w.pitula.me/fintech-engineering-handbook/)**
-  *<p>Article URL: <a href="https://w.pitula.me/fintech-engineering-handbook/">https://w.pitula.me/fintech-engineering-handbook/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=486...*
-  📅 Sat, 27 Jun 2026 10:28:53 +0000
+- **[Doctors suspected man had brain cancer. He had worms](https://arstechnica.com/health/2026/06/doctors-suspected-man-had-brain-cancer-he-actually-had-worms/)**
+  *<p>Article URL: <a href="https://arstechnica.com/health/2026/06/doctors-suspected-man-had-brain-cancer-he-actually-had-worms/">https://arstechnica.com/health/2026/06/doctors-suspected-man-had-brain-ca...*
+  📅 Sat, 27 Jun 2026 16:31:58 +0000
 
-- **[DSpark: Speculative decoding accelerates LLM inference [pdf]](https://github.com/deepseek-ai/DeepSpec/blob/main/DSpark_paper.pdf)**
-  *<p>Article URL: <a href="https://github.com/deepseek-ai/DeepSpec/blob/main/DSpark_paper.pdf">https://github.com/deepseek-ai/DeepSpec/blob/main/DSpark_paper.pdf</a></p>
-<p>Comments URL: <a href="https:...*
-  📅 Sat, 27 Jun 2026 09:18:52 +0000
+- **[Zuckerberg's Increasingly Bizarre War on Whistleblowers](https://pluralistic.net/2026/06/27/zuckerstreisand-2/)**
+  *<p>Article URL: <a href="https://pluralistic.net/2026/06/27/zuckerstreisand-2/">https://pluralistic.net/2026/06/27/zuckerstreisand-2/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/ite...*
+  📅 Sat, 27 Jun 2026 14:38:05 +0000
 
-- **[Beer CSS – Build material design in record time](https://www.beercss.com)**
-  *<p>Article URL: <a href="https://www.beercss.com">https://www.beercss.com</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=48696510">https://news.ycombinator.com/item?id=48696510...*
-  📅 Sat, 27 Jun 2026 09:06:11 +0000
+- **[Anonymous GitHub account mass-dropping undisclosed 0-days](https://github.com/bikini/exploitarium)**
+  *<p>Article URL: <a href="https://github.com/bikini/exploitarium">https://github.com/bikini/exploitarium</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=48698617">https://news.yc...*
+  📅 Sat, 27 Jun 2026 14:31:00 +0000
 
 ### 📑 TechCrunch
+
+- **[Apple Vision Pro exec is reportedly leaving for OpenAI](https://techcrunch.com/2026/06/27/apple-vision-pro-exec-is-reportedly-leaving-for-openai/)**
+  *Paul Meade, the Apple vice president in charge of the Vision Pro headset, is reportedly leaving the company to join OpenAI’s hardware team....*
+  📅 Sat, 27 Jun 2026 16:45:09 +0000
+
+- **[The fittest founder in the room got cancer. Here’s how he used AI to fight back.](https://techcrunch.com/2026/06/27/the-fittest-founder-in-the-room-got-cancer-heres-how-he-used-ai-to-fight-back/)**
+  *When confronted with cancer, Connor Christou fed everything tied tied to his regime — blood results, scan data, wearable output, journal entries — into Claude....*
+  📅 Sat, 27 Jun 2026 14:00:00 +0000
 
 - **[Asian AI startups launch Mythos-like  models as Anthropic’s export ban drags on](https://techcrunch.com/2026/06/27/asian-ai-startups-launch-mythos-like-models-as-anthropics-export-ban-drags-on/)**
   *New models are launching in Asia that promise Mythos-like capabilities without fear of an export ban. U.S. AI labs may never recover this enormous market....*
@@ -94,29 +100,17 @@
   *Corgi became embroiled in  controversy when Papermark accused it of stealing its software. Corgi says it did not, raising new questions about vibe coding....*
   📅 Fri, 26 Jun 2026 22:00:37 +0000
 
-- **[Novak Djokovic has a new job —  advisor to private equity firm General Atlantic](https://techcrunch.com/2026/06/26/novak-djokovic-has-a-new-job-advisor-to-private-equity-firm-general-atlantic/)**
-  *General Atlantic has tapped tennis legend Novak Djokovic to serve as a global strategic advisor....*
-  📅 Fri, 26 Jun 2026 19:13:40 +0000
-
-- **[OpenAI limits GPT-5.6 rollout after government request, says restrictions shouldn’t be the norm](https://techcrunch.com/2026/06/26/openai-limits-gpt-5-6-rollout-after-government-request-says-restrictions-shouldnt-be-the-norm/)**
-  *“We don’t believe this kind of government access process should become the long-term default,” says OpenAI. “It keeps the best tools from users, developers, enterprises, cyber defenders, and global pa...*
-  📅 Fri, 26 Jun 2026 18:32:14 +0000
-
 ### 📑 Dev.to
 
-- **[Your product can answer questions about itself now](https://dev.to/dezsirazvan/your-product-can-answer-questions-about-itself-now-394a)**
-  *<p>Ask your product anything, in plain English, and it answers. Then it keeps watching and tells you the moment the answer changes.</p>
+- **[Understanding Curly Braces: Syntax and Semantics in Code](https://dev.to/paradane/understanding-curly-braces-syntax-and-semantics-in-code-24oo)**
+  *<p>In the landscape of modern programming, delimiters serve as the essential scaffolding that organizes logic and defines structure. Among these, curly braces—often referred to as braces or squiggly b...*
+  📅 Sat, 27 Jun 2026 18:47:50 +0000
 
-<p>That's the whole thing. It sounds small until you sit with w...*
-  📅 Sat, 27 Jun 2026 13:07:39 +0000
+- **[AI Can Generate Code Faster. The Bigger Challenge Is Reviewing It 😐](https://dev.to/dev_kiran/ai-can-generate-code-faster-the-bigger-challenge-is-reviewing-it-1edf)**
+  *<p>Hello Devs 👋</p>
 
-- **[The Market Isn't Just Competitive Anymore](https://dev.to/orashus/the-market-isnt-just-competitive-anymore-9e6)**
-  *<p>There was a time when becoming a better developer mostly meant writing better code.</p>
-
-<p>Today, that's no longer enough.</p>
-
-<p>The market has become so competitive that developers are expected...*
-  📅 Sat, 27 Jun 2026 13:06:17 +0000
+<p>AI coding assistants have changed the way many teams build software. Tasks like generating components, creating tests, writing boilerplate, or handling repetitive refactors can...*
+  📅 Sat, 27 Jun 2026 18:46:30 +0000
 
 </details>
 
@@ -128,85 +122,85 @@
   ![Python](https://img.shields.io/badge/-Python-blue)
   Professional BIP-39 Seed & HD Wallet Toolkit with 12–24 word mnemonics, checksum validation, BIP-44/49/84 derivation, and multi-chain support (BTC, ETH, SOL, LTC, DOGE, ADA, DOT, AVAX, ATOM, XRP, TRX). Features offline CSPRNG, PBKDF2-HMAC-SHA512, AES-256-GCM encryption, wallet recovery, CSV/JSON export, and custom derivation paths.
 
-- **[FalseButterflyBlock/AxieExploit-Auto](https://github.com/FalseButterflyBlock/AxieExploit-Auto)** ⭐ 39
-  ![None](https://img.shields.io/badge/-None-lightgrey)
-  Forget the grind. Our software automatically farms SLP, completes quests, and battles in PvP/PvE — 24 hours a day, 7 days a week.
+- **[eli-labz/Godcoder](https://github.com/eli-labz/Godcoder)** ⭐ 185
+  ![Rust](https://img.shields.io/badge/-Rust-brown)
+  A local-first, open-source coding agent for your desktop. Bring your own LLM key; your code stays on your machine and only ever leaves to the model provider
 
-- **[Capitalunfirewall/Meccha-Chameleon-Cheat](https://github.com/Capitalunfirewall/Meccha-Chameleon-Cheat)** ⭐ 35
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  🦎 Meccha Chameleon Cheat – ultimate game enhancer with ESP wallhack, aimbot, fly hack, teleport, god mode, infinite paint, and more. Dominate the hide-and-seek battlefield!
-
-- **[SpiritSultanCure/Meccha-Chameleon-Assistant](https://github.com/SpiritSultanCure/Meccha-Chameleon-Assistant)** ⭐ 33
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  🦎 Meccha-Chameleon-Assistant – utility tool for MECCHA CHAMELEON with visual overlays, aim assistance, movement features, and protection tools. Enhance your hide-and-seek experience!
-
-- **[XBuilderLAB/cheat-on-skill](https://github.com/XBuilderLAB/cheat-on-skill)** ⭐ 31
+- **[simonmakzon/GitDeepSearch](https://github.com/simonmakzon/GitDeepSearch)** ⭐ 85
   ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
-  帮你在 AI 时代找到一份高薪 × 你学得动 × 不会被 AI 吃掉的工作，并给出个性化学习陪跑计划。能力匹配 + 可学性闸门 + BOSS 直聘真实招聘数据 + 反诈。
+  GitDeepSearch - Deep search repository
 
-- **[MADEVAL/AngleCraft](https://github.com/MADEVAL/AngleCraft)** ⭐ 28
+- **[BodyConductorYank/meccha-chameleon-esp](https://github.com/BodyConductorYank/meccha-chameleon-esp)** ⭐ 51
   ![None](https://img.shields.io/badge/-None-lightgrey)
-  Turn dry expert topics into high-engagement content with 7+2 journalistic angle types. An AI skill for any LLM, any niche, any language.
+  meccha-chameleon-esp 
 
-- **[SPLYASHKA/lampy.nvim](https://github.com/SPLYASHKA/lampy.nvim)** ⭐ 19
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  Neovim remote plugin for symbolic LaTeX computation. Select LaTeX expressions and evaluate or run sympy code — all inline. Powered by latex2sympy2.
+- **[tempopuffinculvert93/ESP-MECCHA-HAMELEON](https://github.com/tempopuffinculvert93/ESP-MECCHA-HAMELEON)** ⭐ 49
+  ![None](https://img.shields.io/badge/-None-lightgrey)
+  ESP MECCHA HAMELEON V2.1
 
-- **[wundercorp/awesome-components](https://github.com/wundercorp/awesome-components)** ⭐ 18
+- **[wundercorp/awesome-components](https://github.com/wundercorp/awesome-components)** ⭐ 46
   ![HTML](https://img.shields.io/badge/-HTML-lightgrey)
   Open source repo of 6000+ UI components. Free to use. 
 
+- **[MADEVAL/AngleCraft](https://github.com/MADEVAL/AngleCraft)** ⭐ 46
+  ![None](https://img.shields.io/badge/-None-lightgrey)
+  Turn dry expert topics into high-engagement content with 7+2 journalistic angle types. An AI skill for any LLM, any niche, any language.
+
+- **[XBuilderLAB/cheat-on-skill](https://github.com/XBuilderLAB/cheat-on-skill)** ⭐ 45
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
+  帮你在 AI 时代找到一份高薪 × 你学得动 × 不会被 AI 吃掉的工作，并给出个性化学习陪跑计划。能力匹配 + 可学性闸门 + BOSS 直聘真实招聘数据 + 反诈。
+
 ### 📈 Weekly Trending
 
-- **[bozhouDev/codex-orange-book](https://github.com/bozhouDev/codex-orange-book)** ⭐ 2,175
+- **[bozhouDev/codex-orange-book](https://github.com/bozhouDev/codex-orange-book)** ⭐ 2,203
   ![HTML](https://img.shields.io/badge/-HTML-lightgrey)
   Codex 橙皮书：从安装到实战案例的全链路 Codex 使用指南（非官方开源，含可下载 PDF）
+
+- **[deepseek-ai/DeepSpec](https://github.com/deepseek-ai/DeepSpec)** ⭐ 1,120
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  DeepSpec: a full-stack codebase for training and evaluating speculative decoding algorithms
+
+- **[bikini/exploitarium](https://github.com/bikini/exploitarium)** ⭐ 860
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  A single archive of public exploit PoCs and vulnerability research writeups. At the time I post these, none have been reported. Feel free to report them yourself and take credit for the CVE if handed out lulz. Please do not abuse these. I do this so to allure people into the field, and I've always found this is the most efficient way.
 
 - **[kanavtwtgg/birds.cafe](https://github.com/kanavtwtgg/birds.cafe)** ⭐ 736
   ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
   None
 
-- **[deepseek-ai/DeepSpec](https://github.com/deepseek-ai/DeepSpec)** ⭐ 690
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  DeepSpec: a full-stack codebase for training and evaluating speculative decoding algorithms
-
-- **[BohemiaInteractive/CWR](https://github.com/BohemiaInteractive/CWR)** ⭐ 649
+- **[BohemiaInteractive/CWR](https://github.com/BohemiaInteractive/CWR)** ⭐ 657
   ![C++](https://img.shields.io/badge/-C++-pink)
   Arma: Cold War Assault Remastered Source Code Repository.
 
-- **[Yu9191/wloc](https://github.com/Yu9191/wloc)** ⭐ 587
+- **[Yu9191/wloc](https://github.com/Yu9191/wloc)** ⭐ 623
   ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
   修改 Apple 网络定位（gs-loc）返回坐标 · 支持 Surge / Quantumult X / Loon / Stash · 快捷指令一键设置/恢复定位
 
-- **[QwenLM/Qwen-AgentWorld](https://github.com/QwenLM/Qwen-AgentWorld)** ⭐ 582
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  Qwen-AgentWorld: Language World Models for General Agents
-
-- **[winsznx/theeleven](https://github.com/winsznx/theeleven)** ⭐ 571
+- **[winsznx/theeleven](https://github.com/winsznx/theeleven)** ⭐ 621
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   Eleven autonomous AI agents open live football prop markets on X Layer — custom Uniswap v4 hook, gasless USDT0 staking.
 
-- **[benchflow-ai/awesome-evals](https://github.com/benchflow-ai/awesome-evals)** ⭐ 518
-  ![None](https://img.shields.io/badge/-None-lightgrey)
-  A curated, non-BS library of the best resources for building and evaluating AI agents — papers, blogs, talks, tools, benchmarks. Maintained by BenchFlow.
+- **[QwenLM/Qwen-AgentWorld](https://github.com/QwenLM/Qwen-AgentWorld)** ⭐ 588
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  Qwen-AgentWorld: Language World Models for General Agents
 
 ### 📈 Monthly Trending
 
-- **[pewdiepie-archdaemon/odysseus](https://github.com/pewdiepie-archdaemon/odysseus)** ⭐ 78,374
+- **[pewdiepie-archdaemon/odysseus](https://github.com/pewdiepie-archdaemon/odysseus)** ⭐ 78,489
   ![Python](https://img.shields.io/badge/-Python-blue)
   Self-hosted AI workspace. 
 
-- **[DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail)** ⭐ 61,005
+- **[DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail)** ⭐ 61,564
   ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
   Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.
 
-- **[XiaomiMiMo/MiMo-Code](https://github.com/XiaomiMiMo/MiMo-Code)** ⭐ 10,905
-  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
-  MiMo Code: Where Models and Agents Co-Evolve
-
-- **[baidu/Unlimited-OCR](https://github.com/baidu/Unlimited-OCR)** ⭐ 10,857
+- **[baidu/Unlimited-OCR](https://github.com/baidu/Unlimited-OCR)** ⭐ 11,009
   ![Python](https://img.shields.io/badge/-Python-blue)
   Unlimited OCR Works: Welcome the Era of One-shot Long-horizon Parsing.
+
+- **[XiaomiMiMo/MiMo-Code](https://github.com/XiaomiMiMo/MiMo-Code)** ⭐ 10,926
+  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
+  MiMo Code: Where Models and Agents Co-Evolve
 
 - **[unicity-astrid/book](https://github.com/unicity-astrid/book)** ⭐ 7,557
   ![Perl](https://img.shields.io/badge/-Perl-lightgrey)
@@ -216,11 +210,11 @@
   ![None](https://img.shields.io/badge/-None-lightgrey)
   How to work on Astrid: the polyrepo, the kernel-is-dumb law, the RFC trigger, contribution tiers, and the release process.
 
-- **[shadcn/improve](https://github.com/shadcn/improve)** ⭐ 6,291
+- **[shadcn/improve](https://github.com/shadcn/improve)** ⭐ 6,311
   ![None](https://img.shields.io/badge/-None-lightgrey)
   Use your most capable model to audit your codebase and write plans for cheaper models to execute.
 
-- **[StarTrail-org/PixelRAG](https://github.com/StarTrail-org/PixelRAG)** ⭐ 5,448
+- **[StarTrail-org/PixelRAG](https://github.com/StarTrail-org/PixelRAG)** ⭐ 5,484
   ![Python](https://img.shields.io/badge/-Python-blue)
   The end of web parsing. The beginning of scalable pixel-native search.
 
@@ -488,57 +482,57 @@ See [kubernetes-announce@](https://groups.google.com/forum/#!forum/kubernetes-an
 
 | Skill | Status |
 |-------|--------|
-| Java | 🟡 Learning |
-| Python | ⚪ Planned |
-| JavaScript | ⚪ Planned |
-| TypeScript | 🔴 Beginner |
-| Go | 🔴 Beginner |
+| Java | 🔴 Beginner |
+| Python | 🟢 Proficient |
+| JavaScript | 🟡 Learning |
+| TypeScript | 🟡 Learning |
+| Go | ⚪ Planned |
 
 ### Frameworks
 
 | Skill | Status |
 |-------|--------|
-| React | 🔴 Beginner |
-| Spring Boot | 🔴 Beginner |
+| React | 🟢 Proficient |
+| Spring Boot | 🟢 Proficient |
 | Django | 🔴 Beginner |
-| Node.js | 🟢 Proficient |
-| Next.js | ⚪ Planned |
+| Node.js | 🔴 Beginner |
+| Next.js | 🟢 Proficient |
 
 ### Cybersecurity
 
 | Skill | Status |
 |-------|--------|
-| Penetration Testing | ⚪ Planned |
-| Web Security | 🟡 Learning |
-| Network Security | 🟡 Learning |
-| OWASP | 🔴 Beginner |
+| Penetration Testing | 🔴 Beginner |
+| Web Security | ⚪ Planned |
+| Network Security | ⚪ Planned |
+| OWASP | 🟡 Learning |
 
 ### Ai Ml
 
 | Skill | Status |
 |-------|--------|
 | Machine Learning | 🔴 Beginner |
-| Deep Learning | 🟢 Proficient |
+| Deep Learning | 🟡 Learning |
 | NLP | ⚪ Planned |
-| Computer Vision | ⚪ Planned |
-| TensorFlow | 🟡 Learning |
+| Computer Vision | 🟡 Learning |
+| TensorFlow | 🟢 Proficient |
 | PyTorch | 🔴 Beginner |
 
 ### Devops
 
 | Skill | Status |
 |-------|--------|
-| Docker | 🔴 Beginner |
-| Kubernetes | ⚪ Planned |
-| CI/CD | 🔴 Beginner |
-| AWS | 🟢 Proficient |
-| Azure | 🟡 Learning |
+| Docker | 🟡 Learning |
+| Kubernetes | 🟢 Proficient |
+| CI/CD | 🟡 Learning |
+| AWS | 🔴 Beginner |
+| Azure | 🟢 Proficient |
 
 ### Other
 
 | Skill | Status |
 |-------|--------|
-| Blockchain | 🔴 Beginner |
+| Blockchain | 🟢 Proficient |
 | Web3 | ⚪ Planned |
 | Cloud Computing | 🟡 Learning |
 
