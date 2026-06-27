@@ -7,7 +7,7 @@
 ![AI & ML](https://img.shields.io/badge/-AI%20&%20ML-blue) ![CyberSecurity](https://img.shields.io/badge/-CyberSecurity-red) ![Full Stack Development](https://img.shields.io/badge/-Full%20Stack%20Development-green)
 
 [![Auto Update](https://img.shields.io/badge/Auto%20Update-Enabled-success)](https://github.com/yourusername/tech-dashboard/actions)
-[![Last Updated](https://img.shields.io/badge/Last%20Updated-June 26, 2026-blue)](https://github.com/yourusername/tech-dashboard)
+[![Last Updated](https://img.shields.io/badge/Last%20Updated-June 27, 2026-blue)](https://github.com/yourusername/tech-dashboard)
 
 *Automatically updated every 6 hours with the latest tech news, trending repositories, and learning resources.*
 
@@ -46,36 +46,47 @@
 
 ### 📑 Hacker News
 
-- **[U.S. government will decide who gets to use GPT-5.6](https://www.washingtonpost.com/technology/2026/06/26/openai-says-us-government-will-vet-users-its-latest-ai-model/)**
-  *<p><a href="https://archive.ph/PCQQl" rel="nofollow">https://archive.ph/PCQQl</a></p>
+- **[Show HN: Hacker News on a Train Station Style Flip Board](https://popflame.quickish.space/hn-flipboard/)**
+  *<p>Although the page itself is more just fun to have made and look at (I like the flip sound), the fun part is how I made it to verify the (and I hate to say it) vibe host service I've been working on...*
+  📅 Sat, 27 Jun 2026 00:43:39 +0000
+
+- **[Om](https://daringfireball.net/2026/06/om)**
+  *<p>Article URL: <a href="https://daringfireball.net/2026/06/om">https://daringfireball.net/2026/06/om</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=48693391">https://news.ycom...*
+  📅 Fri, 26 Jun 2026 23:33:46 +0000
+
+- **[US allows Anthropic to release Mythos to 'trusted partners'](https://www.reuters.com/technology/us-releases-anthropic-model-mythos-some-us-companies-semafor-reports-2026-06-26/)**
+  *<p>Article URL: <a href="https://www.reuters.com/technology/us-releases-anthropic-model-mythos-some-us-companies-semafor-reports-2026-06-26/">https://www.reuters.com/technology/us-releases-anthropic-m...*
+  📅 Fri, 26 Jun 2026 22:48:28 +0000
+
+- **[Why does kinetic energy increase quadratically, not linearly, with speed? (2011)](https://physics.stackexchange.com/questions/535/why-does-kinetic-energy-increase-quadratically-not-linearly-with-speed)**
+  *<p>Article URL: <a href="https://physics.stackexchange.com/questions/535/why-does-kinetic-energy-increase-quadratically-not-linearly-with-speed">https://physics.stackexchange.com/questions/535/why-doe...*
+  📅 Fri, 26 Jun 2026 22:43:29 +0000
+
+- **[AI in mathematics is forcing big questions](https://spectrum.ieee.org/ai-in-mathematics)**
+  *<p>Article URL: <a href="https://spectrum.ieee.org/ai-in-mathematics">https://spectrum.ieee.org/ai-in-mathematics</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=48692883">https...*
+  📅 Fri, 26 Jun 2026 22:36:51 +0000
+
+- **[The open source DOCX editor submitted to HN a few weeks ago has been deleted](https://news.ycombinator.com/item?id=48692474)**
+  *<p>The github repo under eigenpal is gone. The web site at docx-editor is 503. No idea what's going on.</p>
 <hr />
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=48690101">https://news.ycombinator.com/item?...*
-  📅 Fri, 26 Jun 2026 18:23:14 +0000
-
-- **[What Is a Nomogram and Why Would It Interest Me?](https://lefakkomies.github.io/pynomo-doc/introduction/introduction.html#what-is-a-nomogram-and-why-would-it-interest-me)**
-  *<p>Article URL: <a href="https://lefakkomies.github.io/pynomo-doc/introduction/introduction.html#what-is-a-nomogram-and-why-would-it-interest-me">https://lefakkomies.github.io/pynomo-doc/introduction/...*
-  📅 Fri, 26 Jun 2026 17:24:25 +0000
-
-- **[Previewing GPT‑5.6 Sol: a next-generation model](https://openai.com/index/previewing-gpt-5-6-sol/)**
-  *<p>System card: <a href="https://deploymentsafety.openai.com/gpt-5-6-preview" rel="nofollow">https://deploymentsafety.openai.com/gpt-5-6-preview</a></p>
-<hr />
-<p>Comments URL: <a href="https://news.y...*
-  📅 Fri, 26 Jun 2026 17:06:55 +0000
-
-- **[Liva AI (YC S25) Is Hiring](https://www.ycombinator.com/companies/liva-ai/jobs/gvtc3Ep-founding-operations-lead)**
-  *<p>Article URL: <a href="https://www.ycombinator.com/companies/liva-ai/jobs/gvtc3Ep-founding-operations-lead">https://www.ycombinator.com/companies/liva-ai/jobs/gvtc3Ep-founding-operations-lead</a></p...*
-  📅 Fri, 26 Jun 2026 17:00:43 +0000
-
-- **[Show HN: Smart model routing directly in Claude, Codex and Cursor](https://github.com/workweave/router)**
-  *<p>We built a model router that plugs into coding agents (e.g. Claude Code, Codex, Cursor, etc.) and intelligently sends requests to the best model to serve them. Here's a quick demo of running it loc...*
-  📅 Fri, 26 Jun 2026 16:40:11 +0000
-
-- **[What is a Lithium-ion capacitor?](https://www.jtekt.co.jp/e/products/capacitor/capacitor_about.html)**
-  *<p>Article URL: <a href="https://www.jtekt.co.jp/e/products/capacitor/capacitor_about.html">https://www.jtekt.co.jp/e/products/capacitor/capacitor_about.html</a></p>
-<p>Comments URL: <a href="https://...*
-  📅 Fri, 26 Jun 2026 15:51:19 +0000
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=48692474">https://news...*
+  📅 Fri, 26 Jun 2026 21:54:59 +0000
 
 ### 📑 TechCrunch
+
+- **[Trump Admin releases Anthropic  Mythos to be used by more than 100 US companies, agencies](https://techcrunch.com/2026/06/26/trump-admin-releases-anthropic-mythos-to-be-used-by-more-than-100-us-companies-agencies/)**
+  *Over 100 companies and government agencies are reportedly authorized to use Mythos 5, including their non-American employees....*
+  📅 Sat, 27 Jun 2026 01:01:37 +0000
+
+- **[FTC gives Musk the OK to acquire SpaceX alumni startup Mesh](https://techcrunch.com/2026/06/26/ftc-gives-musk-the-ok-to-acquire-spacex-alumni-startup-mesh/)**
+  *Mesh came out of stealth in February with a $50 million Series A....*
+  📅 Sat, 27 Jun 2026 00:38:34 +0000
+
+- **[Corgi, the buzzy Y Combinator-backed insurance tech startup, says it didn’t steal an open source product](https://techcrunch.com/2026/06/26/corgi-the-buzzy-y-combinator-backed-insurance-tech-startup-says-it-didnt-steal-an-open-source-product/)**
+  *Corgi became embroiled in  controversy when Papermark accused it of stealing its software. Corgi says it did not, raising new questions about vibe coding....*
+  📅 Fri, 26 Jun 2026 22:00:37 +0000
 
 - **[Novak Djokovic has a new job —  advisor to private equity firm General Atlantic](https://techcrunch.com/2026/06/26/novak-djokovic-has-a-new-job-advisor-to-private-equity-firm-general-atlantic/)**
   *General Atlantic has tapped tennis legend Novak Djokovic to serve as a global strategic advisor....*
@@ -89,29 +100,21 @@
   *The hire marks OpenAI's latest push into India, expanding offices, partnerships and hiring....*
   📅 Fri, 26 Jun 2026 18:19:36 +0000
 
-- **[Why everyone from OpenAI to SpaceX is building their own chips (and turning up the heat on Nvidia)](https://techcrunch.com/video/why-everyone-from-openai-to-spacex-is-building-their-own-chips-and-turning-up-the-heat-on-nvidia/)**
-  *Nvidia has dominated the AI chip market for years, but the era of total dependence might be ending.&#160;&#160; OpenAI just shared its plans to spice things up with&#160;Jalapeño, its custom inference...*
-  📅 Fri, 26 Jun 2026 17:43:22 +0000
-
-- **[Russian hackers were behind $2.5 billion hack of Jaguar Land Rover: Report](https://techcrunch.com/2026/06/26/russian-hackers-were-behind-2-5-billion-hack-of-jaguar-land-rover-report/)**
-  *The hack on car giant Jaguar Land Rover last year was one the most disrupting, damaging, and costly hacks of the last few years....*
-  📅 Fri, 26 Jun 2026 17:29:29 +0000
-
-- **[Tesla settles FSD crash lawsuit as federal investigations continue](https://techcrunch.com/2026/06/26/tesla-settles-fsd-crash-lawsuit-as-federal-investigations-continue/)**
-  *The lawsuit was connected to a fatal 2023 crash involving a vehicle using the company's advanced driver assistance system known as Full Self-Driving....*
-  📅 Fri, 26 Jun 2026 16:32:55 +0000
-
 ### 📑 Dev.to
 
-- **[Building LSTMs with PyTorch and Lightning AI Part 4: Training Step and Initial Predictions](https://dev.to/rijultp/building-lstms-with-pytorch-and-lightning-ai-part-4-training-step-and-initial-predictions-33fj)**
-  *<p>In the <a href="https://dev.to/rijultp/building-lstms-with-pytorch-and-lightning-ai-part-3-finishing-the-lstm-cell-1fo0">previous article</a>, we finished the LSTM cell, explored the forward method...*
-  📅 Fri, 26 Jun 2026 19:20:44 +0000
+- **[Best Cloud Certifications 2026: 12 Certs Ranked by ROI and Salary Impact](https://dev.to/citadel_cloudmanagement_/best-cloud-certifications-2026-12-certs-ranked-by-roi-and-salary-impact-1jo5)**
+  *<p>Certifications are an investment. They cost money, they consume study hours, and they carry an opportunity cost. The question that matters is: which certification returns the most career value per ...*
+  📅 Sat, 27 Jun 2026 02:17:07 +0000
 
-- **[Free esports API for developers — 2026 guide](https://dev.to/domktt/free-esports-api-for-developers-2026-guide-65f)**
-  *<p><em><strong>Original blog</strong></em>: <a href="https://tachiosports.com/blogs/free-esports-api-2026" rel="noopener noreferrer">https://tachiosports.com/blogs/free-esports-api-2026</a></p>
+- **[2026年版・ReactエージェントへのCLAUDE.md実践ガイド](https://dev.to/_7fb6011b57d383122b5a/2026nian-ban-reactezientohenoclaudemdshi-jian-gaido-55n0)**
+  *<h2>
+  
+  
+  なぜルールファイルがAIエージェントに効くのか
+</h2>
 
-<p><s...*
-  📅 Fri, 26 Jun 2026 19:09:19 +0000
+<p>AIエージェント(Claude Code / Cursor / OpenAI Codex CLI など)はプロジェクトルートの設定ファイルを毎セッション読み込む。指示が無い状態では、エージェントは汎用的なコーディング規約を適用するため、React + TypeScript(Vite)特有の慣習——たとえば...*
+  📅 Sat, 27 Jun 2026 02:06:13 +0000
 
 </details>
 
@@ -119,103 +122,103 @@
 
 ### 📈 Daily Trending
 
-- **[Pluviobyte/video-production-skills](https://github.com/Pluviobyte/video-production-skills)** ⭐ 180
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  Reusable AI video production skills library for creation, recreation, motion design, openers, and QA.
+- **[leifstout/dataServiceTyped](https://github.com/leifstout/dataServiceTyped)** ⭐ 6
+  ![Luau](https://img.shields.io/badge/-Luau-lightgrey)
+  None
 
-- **[xiaohuailabs/xiaohu-ip-studio](https://github.com/xiaohuailabs/xiaohu-ip-studio)** ⭐ 140
+- **[AHMUJia/claude-chatmap](https://github.com/AHMUJia/claude-chatmap)** ⭐ 4
   ![HTML](https://img.shields.io/badge/-HTML-lightgrey)
-  开源中文配图技能 + IP 角色库:用「挑认知锚点→现编隐喻→反PPT自检」为中文深度文生成固定角色出演的正文配图
+  claude-chat-index, suitable for Wispterm
 
-- **[Cuimao777/eterna-image2image-skill](https://github.com/Cuimao777/eterna-image2image-skill)** ⭐ 110
-  ![None](https://img.shields.io/badge/-None-lightgrey)
-  Experimental bilingual Codex skill for ETERNA-inspired image2image cinematic color and composition.
-
-- **[xxniiinxx/coinflip-casino](https://github.com/xxniiinxx/coinflip-casino)** ⭐ 103
-  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
-  A full-stack, peer-to-peer coinflip betting game on Solana. Players connect a wallet, create or join on-chain game rooms, and compete head-to-head for 2× the stake. The UI updates in real time over WebSockets, outcomes are resolved on-chain with Orao VRF, and the backend tracks rooms, chat, and match history in MongoDB. 
-
-- **[SlowFencerBushing/TG-WS-PROXY](https://github.com/SlowFencerBushing/TG-WS-PROXY)** ⭐ 63
+- **[BOHAOYUAN/agent-browser-use-sandbox](https://github.com/BOHAOYUAN/agent-browser-use-sandbox)** ⭐ 3
   ![Python](https://img.shields.io/badge/-Python-blue)
-  TG-WS-PROXY
+  None
 
-- **[Lutschippi/DEHUB](https://github.com/Lutschippi/DEHUB)** ⭐ 56
-  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
-  The Ultimate Data Engineering Hub — 500+ Resources, 50+ Tools, Roadmaps & Community for Data Engineers Worldwide
-
-- **[cclank/lanshu-animated-architecture-diagram](https://github.com/cclank/lanshu-animated-architecture-diagram)** ⭐ 56
+- **[BOHAOYUAN/autonomous-manus-agent](https://github.com/BOHAOYUAN/autonomous-manus-agent)** ⭐ 3
   ![Python](https://img.shields.io/badge/-Python-blue)
-  Premium hand-drawn animated architecture diagram Codex skill
+  None
 
-- **[donoaccestag/boilerplates](https://github.com/donoaccestag/boilerplates)** ⭐ 55
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  Create reusable templates and turn them into configurable workloads for homelabs and self-hosted infrastructure. Free and Open-Source.
-
-### 📈 Weekly Trending
-
-- **[bozhouDev/codex-orange-book](https://github.com/bozhouDev/codex-orange-book)** ⭐ 2,125
-  ![HTML](https://img.shields.io/badge/-HTML-lightgrey)
-  Codex 橙皮书：从安装到实战案例的全链路 Codex 使用指南（非官方开源，含可下载 PDF）
-
-- **[lyra81604/zhengxi-views](https://github.com/lyra81604/zhengxi-views)** ⭐ 1,059
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  可溯源的郑希(易方达基金经理)投研 Agent Skill——基于他全部公开观点原文 + 有原话佐证的投资方法 + 全市场基金真实数据，能溯源问答、按他框架给基金打分，绝不杜撰。⚠️仅研究学习辅助，不构成投资建议‼️website是郑希主页！
-
-- **[kanavtwtgg/birds.cafe](https://github.com/kanavtwtgg/birds.cafe)** ⭐ 783
+- **[BOHAOYUAN/vibe-coding-playbook](https://github.com/BOHAOYUAN/vibe-coding-playbook)** ⭐ 3
   ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
   None
 
-- **[BohemiaInteractive/CWR](https://github.com/BohemiaInteractive/CWR)** ⭐ 599
+- **[BOHAOYUAN/knowledge-work-plugins](https://github.com/BOHAOYUAN/knowledge-work-plugins)** ⭐ 3
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
+  None
+
+- **[BOHAOYUAN/BOHAOYUAN](https://github.com/BOHAOYUAN/BOHAOYUAN)** ⭐ 3
+  ![None](https://img.shields.io/badge/-None-lightgrey)
+  None
+
+- **[dangnuoi2004/ransanmoiweb](https://github.com/dangnuoi2004/ransanmoiweb)** ⭐ 2
+  ![HTML](https://img.shields.io/badge/-HTML-lightgrey)
+  None
+
+### 📈 Weekly Trending
+
+- **[bozhouDev/codex-orange-book](https://github.com/bozhouDev/codex-orange-book)** ⭐ 2,147
+  ![HTML](https://img.shields.io/badge/-HTML-lightgrey)
+  Codex 橙皮书：从安装到实战案例的全链路 Codex 使用指南（非官方开源，含可下载 PDF）
+
+- **[kanavtwtgg/birds.cafe](https://github.com/kanavtwtgg/birds.cafe)** ⭐ 735
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
+  None
+
+- **[BohemiaInteractive/CWR](https://github.com/BohemiaInteractive/CWR)** ⭐ 625
   ![C++](https://img.shields.io/badge/-C++-pink)
   Arma: Cold War Assault Remastered Source Code Repository.
 
-- **[QwenLM/Qwen-AgentWorld](https://github.com/QwenLM/Qwen-AgentWorld)** ⭐ 560
+- **[QwenLM/Qwen-AgentWorld](https://github.com/QwenLM/Qwen-AgentWorld)** ⭐ 568
   ![Python](https://img.shields.io/badge/-Python-blue)
   Qwen-AgentWorld: Language World Models for General Agents
 
-- **[yo-WASSUP/Good-Badminton](https://github.com/yo-WASSUP/Good-Badminton)** ⭐ 548
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  🏸  AI Badminton Hawk-Eye System
+- **[Yu9191/wloc](https://github.com/Yu9191/wloc)** ⭐ 468
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
+  修改 Apple 网络定位（gs-loc）返回坐标 · 支持 Surge / Quantumult X / Loon / Stash · 快捷指令一键设置/恢复定位
 
-- **[winsznx/theeleven](https://github.com/winsznx/theeleven)** ⭐ 453
+- **[benchflow-ai/awesome-evals](https://github.com/benchflow-ai/awesome-evals)** ⭐ 467
+  ![None](https://img.shields.io/badge/-None-lightgrey)
+  A curated, non-BS library of the best resources for building and evaluating AI agents — papers, blogs, talks, tools, benchmarks. Maintained by BenchFlow.
+
+- **[winsznx/theeleven](https://github.com/winsznx/theeleven)** ⭐ 460
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   Eleven autonomous AI agents open live football prop markets on X Layer — custom Uniswap v4 hook, gasless USDT0 staking.
 
-- **[HKUDS/AgentSpace](https://github.com/HKUDS/AgentSpace)** ⭐ 453
+- **[HKUDS/AgentSpace](https://github.com/HKUDS/AgentSpace)** ⭐ 455
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   "AgentSpace: Human + Agents. One Team. One Workspace"
 
 ### 📈 Monthly Trending
 
-- **[pewdiepie-archdaemon/odysseus](https://github.com/pewdiepie-archdaemon/odysseus)** ⭐ 78,177
+- **[pewdiepie-archdaemon/odysseus](https://github.com/pewdiepie-archdaemon/odysseus)** ⭐ 78,243
   ![Python](https://img.shields.io/badge/-Python-blue)
   Self-hosted AI workspace. 
 
-- **[DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail)** ⭐ 59,898
+- **[DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail)** ⭐ 60,243
   ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
   Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.
 
-- **[XiaomiMiMo/MiMo-Code](https://github.com/XiaomiMiMo/MiMo-Code)** ⭐ 10,852
+- **[XiaomiMiMo/MiMo-Code](https://github.com/XiaomiMiMo/MiMo-Code)** ⭐ 10,870
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   MiMo Code: Where Models and Agents Co-Evolve
 
-- **[baidu/Unlimited-OCR](https://github.com/baidu/Unlimited-OCR)** ⭐ 10,287
+- **[baidu/Unlimited-OCR](https://github.com/baidu/Unlimited-OCR)** ⭐ 10,419
   ![Python](https://img.shields.io/badge/-Python-blue)
   Unlimited OCR Works: Welcome the Era of One-shot Long-horizon Parsing.
 
-- **[unicity-astrid/book](https://github.com/unicity-astrid/book)** ⭐ 7,565
+- **[unicity-astrid/book](https://github.com/unicity-astrid/book)** ⭐ 7,558
   ![Perl](https://img.shields.io/badge/-Perl-lightgrey)
   The canonical reference for Astrid OS: kernel, capsules, host ABI, the bus, and the security model.
 
-- **[unicity-astrid/handbook](https://github.com/unicity-astrid/handbook)** ⭐ 7,513
+- **[unicity-astrid/handbook](https://github.com/unicity-astrid/handbook)** ⭐ 7,506
   ![None](https://img.shields.io/badge/-None-lightgrey)
   How to work on Astrid: the polyrepo, the kernel-is-dumb law, the RFC trigger, contribution tiers, and the release process.
 
-- **[shadcn/improve](https://github.com/shadcn/improve)** ⭐ 6,263
+- **[shadcn/improve](https://github.com/shadcn/improve)** ⭐ 6,275
   ![None](https://img.shields.io/badge/-None-lightgrey)
   Use your most capable model to audit your codebase and write plans for cheaper models to execute.
 
-- **[StarTrail-org/PixelRAG](https://github.com/StarTrail-org/PixelRAG)** ⭐ 5,409
+- **[StarTrail-org/PixelRAG](https://github.com/StarTrail-org/PixelRAG)** ⭐ 5,422
   ![Python](https://img.shields.io/badge/-Python-blue)
   The end of web parsing. The beginning of scalable pixel-native search.
 
@@ -483,59 +486,59 @@ See [kubernetes-announce@](https://groups.google.com/forum/#!forum/kubernetes-an
 
 | Skill | Status |
 |-------|--------|
-| Java | 🔴 Beginner |
-| Python | 🟡 Learning |
+| Java | 🟢 Proficient |
+| Python | 🔴 Beginner |
 | JavaScript | ⚪ Planned |
 | TypeScript | 🔴 Beginner |
-| Go | 🟡 Learning |
+| Go | ⚪ Planned |
 
 ### Frameworks
 
 | Skill | Status |
 |-------|--------|
-| React | 🟢 Proficient |
-| Spring Boot | 🟡 Learning |
-| Django | 🔴 Beginner |
+| React | 🟡 Learning |
+| Spring Boot | 🟢 Proficient |
+| Django | 🟢 Proficient |
 | Node.js | ⚪ Planned |
-| Next.js | ⚪ Planned |
+| Next.js | 🔴 Beginner |
 
 ### Cybersecurity
 
 | Skill | Status |
 |-------|--------|
-| Penetration Testing | ⚪ Planned |
-| Web Security | ⚪ Planned |
-| Network Security | 🟡 Learning |
-| OWASP | 🔴 Beginner |
+| Penetration Testing | 🟢 Proficient |
+| Web Security | 🟢 Proficient |
+| Network Security | ⚪ Planned |
+| OWASP | 🟡 Learning |
 
 ### Ai Ml
 
 | Skill | Status |
 |-------|--------|
 | Machine Learning | ⚪ Planned |
-| Deep Learning | ⚪ Planned |
-| NLP | 🟢 Proficient |
-| Computer Vision | ⚪ Planned |
-| TensorFlow | 🟢 Proficient |
-| PyTorch | ⚪ Planned |
+| Deep Learning | 🟢 Proficient |
+| NLP | ⚪ Planned |
+| Computer Vision | 🔴 Beginner |
+| TensorFlow | 🟡 Learning |
+| PyTorch | 🟡 Learning |
 
 ### Devops
 
 | Skill | Status |
 |-------|--------|
-| Docker | 🟢 Proficient |
-| Kubernetes | ⚪ Planned |
-| CI/CD | 🟢 Proficient |
-| AWS | ⚪ Planned |
-| Azure | ⚪ Planned |
+| Docker | ⚪ Planned |
+| Kubernetes | 🔴 Beginner |
+| CI/CD | 🔴 Beginner |
+| AWS | 🟢 Proficient |
+| Azure | 🟡 Learning |
 
 ### Other
 
 | Skill | Status |
 |-------|--------|
-| Blockchain | 🟢 Proficient |
-| Web3 | 🟢 Proficient |
-| Cloud Computing | 🟢 Proficient |
+| Blockchain | 🔴 Beginner |
+| Web3 | 🟡 Learning |
+| Cloud Computing | ⚪ Planned |
 
 </details>
 
@@ -553,7 +556,7 @@ This dashboard is automatically updated every 6 hours using GitHub Actions. The 
 
 <div align="center">
 
-**Last Updated:** June 26, 2026
+**Last Updated:** June 27, 2026
 
 Made with ❤️ and automated with GitHub Actions
 
