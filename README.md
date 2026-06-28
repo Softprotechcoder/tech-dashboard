@@ -46,33 +46,39 @@
 
 ### 📑 Hacker News
 
-- **[Response to AI slop is from Robin Williams](https://jayacunzo.com/blog/your-move-chief)**
-  *<p>Article URL: <a href="https://jayacunzo.com/blog/your-move-chief">https://jayacunzo.com/blog/your-move-chief</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=48703452">https:/...*
-  📅 Sun, 28 Jun 2026 01:28:10 +0000
+- **[Can China build its own ASML?](https://nikkei.shorthandstories.com/can-china-build-its-own-asml/)**
+  *<p>Article URL: <a href="https://nikkei.shorthandstories.com/can-china-build-its-own-asml/">https://nikkei.shorthandstories.com/can-china-build-its-own-asml/</a></p>
+<p>Comments URL: <a href="https://...*
+  📅 Sun, 28 Jun 2026 07:45:23 +0000
 
-- **[Show HN: Decomp Academy – Learn to decompile GameCube games into matching C](https://decomp-academy.dev)**
-  *<p>Over the past few months I've been heavily involved in the decompilation community. I've been hands-on decompiling a beloved game from my childhood (Star Fox Adventures). I started this journey wit...*
-  📅 Sun, 28 Jun 2026 01:21:20 +0000
+- **[Bashblog – a single bash script to create blogs](https://github.com/cfenollosa/bashblog)**
+  *<p>Article URL: <a href="https://github.com/cfenollosa/bashblog">https://github.com/cfenollosa/bashblog</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=48704454">https://news.yc...*
+  📅 Sun, 28 Jun 2026 04:48:32 +0000
 
-- **[AMD Strix Halo RDMA Cluster Setup Guide](https://github.com/kyuz0/amd-strix-halo-vllm-toolboxes/blob/main/rdma_cluster/setup_guide.md)**
-  *<p>Article URL: <a href="https://github.com/kyuz0/amd-strix-halo-vllm-toolboxes/blob/main/rdma_cluster/setup_guide.md">https://github.com/kyuz0/amd-strix-halo-vllm-toolboxes/blob/main/rdma_cluster/set...*
-  📅 Sun, 28 Jun 2026 00:46:52 +0000
+- **[Wayfinder Router: deterministic routing of queries between local and hosted LLM](https://github.com/itsthelore/wayfinder-router)**
+  *<p>Article URL: <a href="https://github.com/itsthelore/wayfinder-router">https://github.com/itsthelore/wayfinder-router</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=48704373"...*
+  📅 Sun, 28 Jun 2026 04:31:18 +0000
 
-- **[Choosing a Public DNS Resolver](https://evilbit.de/dns-resolver-guide.html)**
-  *<p>Article URL: <a href="https://evilbit.de/dns-resolver-guide.html">https://evilbit.de/dns-resolver-guide.html</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=48702273">https:/...*
-  📅 Sat, 27 Jun 2026 22:11:28 +0000
+- **[Ford hired AI and sacked humans. It backfired badly](https://www.the-independent.com/tech/ford-ai-automation-human-workers-b3003787.html)**
+  *<p>Article URL: <a href="https://www.the-independent.com/tech/ford-ai-automation-human-workers-b3003787.html">https://www.the-independent.com/tech/ford-ai-automation-human-workers-b3003787.html</a></p...*
+  📅 Sun, 28 Jun 2026 03:09:13 +0000
 
-- **[Show HN: Starglyphs - A constellation puzzle game based on Euler paths](https://starglyphs.com)**
-  *<p>I am a big Dragon Age fan and sunk hundreds of hours into Inquisition. It had this minigame called astrariums where you had to solve these shapes based on constellation guides by tracing stars. I'm...*
-  📅 Sat, 27 Jun 2026 21:50:32 +0000
+- **[Marfa Public Radio Puts You to Sleep](https://www.marfapublicradio.org/podcast/marfa-public-radio-puts-you-to-sleep)**
+  *<p>Article URL: <a href="https://www.marfapublicradio.org/podcast/marfa-public-radio-puts-you-to-sleep">https://www.marfapublicradio.org/podcast/marfa-public-radio-puts-you-to-sleep</a></p>
+<p>Comment...*
+  📅 Sun, 28 Jun 2026 02:23:08 +0000
 
-- **[Michigan spent $1.8B and only created 602 jobs](https://www.msn.com/en-us/money/general/michigan-spent-1-8-billion-and-only-created-602-jobs/ar-AA26Cusu)**
-  *<p>Article URL: <a href="https://www.msn.com/en-us/money/general/michigan-spent-1-8-billion-and-only-created-602-jobs/ar-AA26Cusu">https://www.msn.com/en-us/money/general/michigan-spent-1-8-billion-an...*
-  📅 Sat, 27 Jun 2026 21:44:57 +0000
+- **[Feds Killed Polestar and Spared Volvo](https://www.thedrive.com/news/feds-killed-polestar-and-spared-volvo-that-should-terrify-you)**
+  *<p>Article URL: <a href="https://www.thedrive.com/news/feds-killed-polestar-and-spared-volvo-that-should-terrify-you">https://www.thedrive.com/news/feds-killed-polestar-and-spared-volvo-that-should-te...*
+  📅 Sun, 28 Jun 2026 01:55:21 +0000
 
 ### 📑 TechCrunch
+
+- **[Indian payments chief thinks AI will be heavily involved in next era of digital payment growth](https://techcrunch.com/2026/06/27/indian-payments-chief-thinks-ai-will-be-heavily-involved-in-next-era-of-digital-payment-growth/)**
+  *Dilip Asbe said that newer UPI apps could be more competitive with a viable commercial model...*
+  📅 Sun, 28 Jun 2026 05:00:00 +0000
 
 - **[Instagram is testing more ways to customize ‘Your Algorithm’](https://techcrunch.com/2026/06/27/instagram-is-testing-more-ways-for-users-to-customize-your-algorithm/)**
   *Instagram users could soon see more ways to tune their content....*
@@ -94,26 +100,21 @@
   *New models are launching in Asia that promise Mythos-like capabilities without fear of an export ban. U.S. AI labs may never recover this enormous market....*
   📅 Sat, 27 Jun 2026 12:00:00 +0000
 
-- **[Trump Admin releases Anthropic Mythos to be used by more than 100 US companies, agencies](https://techcrunch.com/2026/06/26/trump-admin-releases-anthropic-mythos-to-be-used-by-more-than-100-us-companies-agencies/)**
-  *Over 100 companies and government agencies are reportedly authorized to use Mythos 5, including their non-American employees....*
-  📅 Sat, 27 Jun 2026 01:01:37 +0000
-
 ### 📑 Dev.to
 
-- **[The Real Cost of Technical Debt: How One Shortcut Became a $2M Problem](https://dev.to/spectredevxyz/the-real-cost-of-technical-debt-how-one-shortcut-became-a-2m-problem-n79)**
-  *<blockquote>
-<p>Originally published at <a href="https://www.spectredev.xyz/engineering/technical-debt/cost-of-technical-debt-startup" rel="noopener noreferrer">spectredev.xyz</a>. Cross-posted here f...*
-  📅 Sun, 28 Jun 2026 02:30:00 +0000
+- **[Day 2 — I Stopped Being a Student and Started Acting Like a DevOps Engineer](https://dev.to/highpee1991/day-2-i-stopped-being-a-student-and-started-acting-like-a-devops-engineer-4kid)**
+  *<p>This is Day 2 of my 90-day cloud engineering challenge. Day 1 was about installing tools and getting familiar with the Azure CLI. Day 2 was different — instead of just running commands to learn syn...*
+  📅 Sun, 28 Jun 2026 08:32:59 +0000
 
-- **[What Loop Engineering Needs From Runtime Infrastructure](https://dev.to/sandbaseai/what-loop-engineering-needs-from-runtime-infrastructure-3ln6)**
-  *<h2>
+- **[A published win rate is the actor auditing itself](https://dev.to/jugeni/a-published-win-rate-is-the-actor-auditing-itself-61c)**
+  *<h1>
   
   
-  Loop Engineering Is A Useful Shift
-</h2>
+  A published win rate is the actor auditing itself
+</h1>
 
-<p><a class="article-body-image-wrapper" href="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=a...*
-  📅 Sun, 28 Jun 2026 02:25:09 +0000
+<p>A signal channel that publishes its own win rate is grading its own homework. The number it advertises comes from the part of t...*
+  📅 Sun, 28 Jun 2026 08:29:06 +0000
 
 </details>
 
@@ -121,103 +122,103 @@
 
 ### 📈 Daily Trending
 
-- **[kelvinagyareyeboah/NFTMarket-GH](https://github.com/kelvinagyareyeboah/NFTMarket-GH)** ⭐ 7
-  ![Solidity](https://img.shields.io/badge/-Solidity-lightgrey)
-  A vibrant NFT minting and trading platform tailored for Ghanaian artists, powered by blockchain! 🇬🇭
-
-- **[haskaomni/sankey-flow](https://github.com/haskaomni/sankey-flow)** ⭐ 4
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
-  A self-contained <sankey-flow> custom element powered by Mermaid Sankey layouts and rich overlay labels.
-
-- **[linux-ur/XMRigProxy-Panel](https://github.com/linux-ur/XMRigProxy-Panel)** ⭐ 3
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
-  A complete XMRig Proxy Dashboard
-
-- **[mindheadllc/adversarial-review](https://github.com/mindheadllc/adversarial-review)** ⭐ 2
-  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
-  Stress-test your work against a panel of several leading AI models that independently try to break it — falsification, not advice. Precision-gated, multi-model adversarial review.
-
-- **[GanymedeNil/poxiaoxing-skills](https://github.com/GanymedeNil/poxiaoxing-skills)** ⭐ 2
+- **[deltabarbershopofficial-cloud/DBD-AutoGrind-Trainer-2026-Extreme](https://github.com/deltabarbershopofficial-cloud/DBD-AutoGrind-Trainer-2026-Extreme)** ⭐ 22
   ![Python](https://img.shields.io/badge/-Python-blue)
-  None
+  Ultimate Dead by Daylight auto-grind trainer Extreme edition with Bloodpoint bot, ESP wallhack, aimbot, and full perk/skin unlocker. Dominate the Fog with our 2026 undetected external tool.
 
-- **[smolfarm/airtroska-macos](https://github.com/smolfarm/airtroska-macos)** ⭐ 2
-  ![Swift](https://img.shields.io/badge/-Swift-lightgrey)
-  None
+- **[AdilMir1433/DBD-AutoGrind-Trainer-2026-Extreme](https://github.com/AdilMir1433/DBD-AutoGrind-Trainer-2026-Extreme)** ⭐ 22
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  Ultimate Dead by Daylight auto-grind trainer Extreme edition with Bloodpoint bot, ESP wallhack, aimbot, and full perk/skin unlocker. Dominate the Fog with our 2026 undetected external tool.
 
-- **[Aybavs/agent-discovery-protocol](https://github.com/Aybavs/agent-discovery-protocol)** ⭐ 2
-  ![None](https://img.shields.io/badge/-None-lightgrey)
-  A vendor-neutral discovery layer for machine-consumable service interfaces on the web.
+- **[AdilMir1433/DBD-AutoGrind-Trainer-2026](https://github.com/AdilMir1433/DBD-AutoGrind-Trainer-2026)** ⭐ 22
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  Ultimate Dead by Daylight auto-grind trainer with Bloodpoint bot, ESP wallhack, aimbot, and full perk/skin unlocker. Dominate the Fog with our 2026 undetected external tool.
 
-- **[riozee/macos-cursor-stopwatch](https://github.com/riozee/macos-cursor-stopwatch)** ⭐ 2
-  ![Swift](https://img.shields.io/badge/-Swift-lightgrey)
-  None
+- **[XFaltixX/DBD-AutoGrind-Trainer-2026-Mega](https://github.com/XFaltixX/DBD-AutoGrind-Trainer-2026-Mega)** ⭐ 22
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  Ultimate Dead by Daylight auto-grind trainer Mega edition with Bloodpoint bot, ESP wallhack, aimbot, and full perk/skin unlocker. Dominate the Fog with our 2026 undetected external tool.
+
+- **[triangkas/DBD-AutoGrind-Trainer-2026-Ultra](https://github.com/triangkas/DBD-AutoGrind-Trainer-2026-Ultra)** ⭐ 22
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  Ultimate Dead by Daylight auto-grind trainer Ultra edition with Bloodpoint bot, ESP wallhack, aimbot, and full perk/skin unlocker. Dominate the Fog with our 2026 undetected external tool.
+
+- **[XFaltixX/DBD-AutoGrind-Trainer-2026](https://github.com/XFaltixX/DBD-AutoGrind-Trainer-2026)** ⭐ 22
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  Ultimate Dead by Daylight auto-grind trainer with Bloodpoint bot, ESP wallhack, aimbot, and full perk/skin unlocker. Dominate the Fog with our 2026 undetected external tool.
+
+- **[Karan10010/DBD-AutoGrind-Trainer-2026-Pro](https://github.com/Karan10010/DBD-AutoGrind-Trainer-2026-Pro)** ⭐ 22
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  Ultimate Dead by Daylight auto-grind trainer Pro edition with Bloodpoint bot, ESP wallhack, aimbot, and full perk/skin unlocker. Dominate the Fog with our 2026 undetected external tool.
+
+- **[BKiptoo/DBD-AutoGrind-Trainer-2026-Pro](https://github.com/BKiptoo/DBD-AutoGrind-Trainer-2026-Pro)** ⭐ 22
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  Ultimate Dead by Daylight auto-grind trainer Pro edition with Bloodpoint bot, ESP wallhack, aimbot, and full perk/skin unlocker. Dominate the Fog with our 2026 undetected external tool.
 
 ### 📈 Weekly Trending
 
-- **[bozhouDev/codex-orange-book](https://github.com/bozhouDev/codex-orange-book)** ⭐ 2,216
+- **[bozhouDev/codex-orange-book](https://github.com/bozhouDev/codex-orange-book)** ⭐ 2,231
   ![HTML](https://img.shields.io/badge/-HTML-lightgrey)
   Codex 橙皮书：从安装到实战案例的全链路 Codex 使用指南（非官方开源，含可下载 PDF）
 
-- **[deepseek-ai/DeepSpec](https://github.com/deepseek-ai/DeepSpec)** ⭐ 1,380
+- **[deepseek-ai/DeepSpec](https://github.com/deepseek-ai/DeepSpec)** ⭐ 1,654
   ![Python](https://img.shields.io/badge/-Python-blue)
   DeepSpec: a full-stack codebase for training and evaluating speculative decoding algorithms
 
-- **[bikini/exploitarium](https://github.com/bikini/exploitarium)** ⭐ 1,250
+- **[bikini/exploitarium](https://github.com/bikini/exploitarium)** ⭐ 1,489
   ![Python](https://img.shields.io/badge/-Python-blue)
   A single archive of public exploit PoCs and vulnerability research writeups. At the time I post these, none have been reported. Feel free to report them yourself and take credit for the CVE if handed out lulz. Please do not abuse these. I do this so to allure people into the field, and I've always found this is the most efficient way.
 
-- **[BohemiaInteractive/CWR](https://github.com/BohemiaInteractive/CWR)** ⭐ 663
-  ![C++](https://img.shields.io/badge/-C++-pink)
-  Arma: Cold War Assault Remastered Source Code Repository.
-
-- **[Yu9191/wloc](https://github.com/Yu9191/wloc)** ⭐ 654
+- **[Yu9191/wloc](https://github.com/Yu9191/wloc)** ⭐ 844
   ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
   修改 Apple 网络定位（gs-loc）返回坐标 · 支持 Surge / Quantumult X / Loon / Stash · 快捷指令一键设置/恢复定位
 
-- **[winsznx/theeleven](https://github.com/winsznx/theeleven)** ⭐ 642
+- **[winsznx/theeleven](https://github.com/winsznx/theeleven)** ⭐ 670
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   Eleven autonomous AI agents open live football prop markets on X Layer — custom Uniswap v4 hook, gasless USDT0 staking.
 
-- **[QwenLM/Qwen-AgentWorld](https://github.com/QwenLM/Qwen-AgentWorld)** ⭐ 597
+- **[BohemiaInteractive/CWR](https://github.com/BohemiaInteractive/CWR)** ⭐ 668
+  ![C++](https://img.shields.io/badge/-C++-pink)
+  Arma: Cold War Assault Remastered Source Code Repository.
+
+- **[QwenLM/Qwen-AgentWorld](https://github.com/QwenLM/Qwen-AgentWorld)** ⭐ 603
   ![Python](https://img.shields.io/badge/-Python-blue)
   Qwen-AgentWorld: Language World Models for General Agents
 
-- **[benchflow-ai/awesome-evals](https://github.com/benchflow-ai/awesome-evals)** ⭐ 535
+- **[benchflow-ai/awesome-evals](https://github.com/benchflow-ai/awesome-evals)** ⭐ 540
   ![None](https://img.shields.io/badge/-None-lightgrey)
   A curated, non-BS library of the best resources for building and evaluating AI agents — papers, blogs, talks, tools, benchmarks. Maintained by BenchFlow.
 
 ### 📈 Monthly Trending
 
-- **[pewdiepie-archdaemon/odysseus](https://github.com/pewdiepie-archdaemon/odysseus)** ⭐ 78,621
+- **[pewdiepie-archdaemon/odysseus](https://github.com/pewdiepie-archdaemon/odysseus)** ⭐ 78,720
   ![Python](https://img.shields.io/badge/-Python-blue)
   Self-hosted AI workspace. 
 
-- **[DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail)** ⭐ 61,873
+- **[DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail)** ⭐ 62,371
   ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
   Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.
 
-- **[baidu/Unlimited-OCR](https://github.com/baidu/Unlimited-OCR)** ⭐ 11,097
+- **[baidu/Unlimited-OCR](https://github.com/baidu/Unlimited-OCR)** ⭐ 11,246
   ![Python](https://img.shields.io/badge/-Python-blue)
   Unlimited OCR Works: Welcome the Era of One-shot Long-horizon Parsing.
 
-- **[XiaomiMiMo/MiMo-Code](https://github.com/XiaomiMiMo/MiMo-Code)** ⭐ 10,939
+- **[XiaomiMiMo/MiMo-Code](https://github.com/XiaomiMiMo/MiMo-Code)** ⭐ 10,953
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   MiMo Code: Where Models and Agents Co-Evolve
 
-- **[unicity-astrid/book](https://github.com/unicity-astrid/book)** ⭐ 7,556
+- **[unicity-astrid/book](https://github.com/unicity-astrid/book)** ⭐ 7,550
   ![Perl](https://img.shields.io/badge/-Perl-lightgrey)
   The canonical reference for Astrid OS: kernel, capsules, host ABI, the bus, and the security model.
 
-- **[unicity-astrid/handbook](https://github.com/unicity-astrid/handbook)** ⭐ 7,505
+- **[unicity-astrid/handbook](https://github.com/unicity-astrid/handbook)** ⭐ 7,498
   ![None](https://img.shields.io/badge/-None-lightgrey)
   How to work on Astrid: the polyrepo, the kernel-is-dumb law, the RFC trigger, contribution tiers, and the release process.
 
-- **[shadcn/improve](https://github.com/shadcn/improve)** ⭐ 6,332
+- **[shadcn/improve](https://github.com/shadcn/improve)** ⭐ 6,343
   ![None](https://img.shields.io/badge/-None-lightgrey)
   Use your most capable model to audit your codebase and write plans for cheaper models to execute.
 
-- **[zgwl/chinese-buy-us-stock-guide](https://github.com/zgwl/chinese-buy-us-stock-guide)** ⭐ 5,358
+- **[zgwl/chinese-buy-us-stock-guide](https://github.com/zgwl/chinese-buy-us-stock-guide)** ⭐ 5,362
   ![None](https://img.shields.io/badge/-None-lightgrey)
   美股指南
 
@@ -485,59 +486,59 @@ See [kubernetes-announce@](https://groups.google.com/forum/#!forum/kubernetes-an
 
 | Skill | Status |
 |-------|--------|
-| Java | ⚪ Planned |
-| Python | 🟡 Learning |
-| JavaScript | 🔴 Beginner |
-| TypeScript | 🟡 Learning |
-| Go | ⚪ Planned |
+| Java | 🔴 Beginner |
+| Python | 🟢 Proficient |
+| JavaScript | ⚪ Planned |
+| TypeScript | 🔴 Beginner |
+| Go | 🔴 Beginner |
 
 ### Frameworks
 
 | Skill | Status |
 |-------|--------|
-| React | 🔴 Beginner |
-| Spring Boot | 🟡 Learning |
-| Django | ⚪ Planned |
-| Node.js | 🟡 Learning |
+| React | 🟢 Proficient |
+| Spring Boot | 🔴 Beginner |
+| Django | 🔴 Beginner |
+| Node.js | 🟢 Proficient |
 | Next.js | ⚪ Planned |
 
 ### Cybersecurity
 
 | Skill | Status |
 |-------|--------|
-| Penetration Testing | ⚪ Planned |
-| Web Security | ⚪ Planned |
-| Network Security | 🔴 Beginner |
-| OWASP | 🔴 Beginner |
+| Penetration Testing | 🔴 Beginner |
+| Web Security | 🟢 Proficient |
+| Network Security | 🟢 Proficient |
+| OWASP | 🟡 Learning |
 
 ### Ai Ml
 
 | Skill | Status |
 |-------|--------|
-| Machine Learning | ⚪ Planned |
-| Deep Learning | 🔴 Beginner |
+| Machine Learning | 🟡 Learning |
+| Deep Learning | 🟢 Proficient |
 | NLP | ⚪ Planned |
-| Computer Vision | 🟢 Proficient |
+| Computer Vision | 🟡 Learning |
 | TensorFlow | 🔴 Beginner |
-| PyTorch | 🔴 Beginner |
+| PyTorch | ⚪ Planned |
 
 ### Devops
 
 | Skill | Status |
 |-------|--------|
-| Docker | 🟡 Learning |
-| Kubernetes | ⚪ Planned |
-| CI/CD | 🟢 Proficient |
+| Docker | 🔴 Beginner |
+| Kubernetes | 🔴 Beginner |
+| CI/CD | ⚪ Planned |
 | AWS | 🟢 Proficient |
-| Azure | 🔴 Beginner |
+| Azure | 🟡 Learning |
 
 ### Other
 
 | Skill | Status |
 |-------|--------|
-| Blockchain | 🟡 Learning |
+| Blockchain | 🟢 Proficient |
 | Web3 | 🟡 Learning |
-| Cloud Computing | 🟡 Learning |
+| Cloud Computing | ⚪ Planned |
 
 </details>
 
