@@ -46,76 +46,72 @@
 
 ### 📑 Hacker News
 
-- **[Pollen (CEO Negus-Fancey, CTO Wright) tried to remove article, and Google helped](https://blog.pragmaticengineer.com/pollen-tried-to-remove-my-article-about-callum-negus-fancey-and-google-is-assisting-to-it/)**
-  *<p>Article URL: <a href="https://blog.pragmaticengineer.com/pollen-tried-to-remove-my-article-about-callum-negus-fancey-and-google-is-assisting-to-it/">https://blog.pragmaticengineer.com/pollen-tried-...*
-  📅 Mon, 29 Jun 2026 09:28:08 +0000
+- **[WATaBoy: JIT-Ing Game Boy Instructions to WASM Beats a Native Interpreter](https://humphri.es/blog/WATaBoy/)**
+  *<p>Article URL: <a href="https://humphri.es/blog/WATaBoy/">https://humphri.es/blog/WATaBoy/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=48720190">https://news.ycombinator.co...*
+  📅 Mon, 29 Jun 2026 15:02:00 +0000
 
-- **[Why did this journal retract two 1940s papers by Max Planck?](https://arstechnica.com/science/2026/06/why-did-this-journal-retract-two-1940s-papers-by-max-planck/)**
-  *<p>Article URL: <a href="https://arstechnica.com/science/2026/06/why-did-this-journal-retract-two-1940s-papers-by-max-planck/">https://arstechnica.com/science/2026/06/why-did-this-journal-retract-two-...*
-  📅 Mon, 29 Jun 2026 08:58:09 +0000
+- **[WebGL Without a GPU](https://microlink.io/blog/webgl-without-a-gpu)**
+  *<p>Article URL: <a href="https://microlink.io/blog/webgl-without-a-gpu">https://microlink.io/blog/webgl-without-a-gpu</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=48720179">h...*
+  📅 Mon, 29 Jun 2026 15:01:15 +0000
 
-- **[US Grid Constraints: Towards 40GW+ of Behind-the-Meter Datacenter by 2028?](https://newsletter.semianalysis.com/p/us-grid-constraints-towards-40gw)**
-  *<p>Article URL: <a href="https://newsletter.semianalysis.com/p/us-grid-constraints-towards-40gw">https://newsletter.semianalysis.com/p/us-grid-constraints-towards-40gw</a></p>
-<p>Comments URL: <a href...*
-  📅 Mon, 29 Jun 2026 07:36:08 +0000
+- **[Data breach exposes up to 14.2M email logins at six ISPs](https://www.bleepingcomputer.com/news/security/data-breach-exposes-up-to-142-million-email-logins-at-six-isps/)**
+  *<p>Article URL: <a href="https://www.bleepingcomputer.com/news/security/data-breach-exposes-up-to-142-million-email-logins-at-six-isps/">https://www.bleepingcomputer.com/news/security/data-breach-expo...*
+  📅 Mon, 29 Jun 2026 14:27:35 +0000
 
-- **[Herdr: Agent multiplexer that lives in your terminal](https://github.com/ogulcancelik/herdr)**
-  *<p>Article URL: <a href="https://github.com/ogulcancelik/herdr">https://github.com/ogulcancelik/herdr</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=48714802">https://news.ycom...*
-  📅 Mon, 29 Jun 2026 04:27:46 +0000
+- **[Mag 7 starting to underperform [pdf]](https://www.apollo.com/content/dam/apolloaem/pdf/daily-spark/2026/jun/28/062826-Mag7.pdf)**
+  *<p>Article URL: <a href="https://www.apollo.com/content/dam/apolloaem/pdf/daily-spark/2026/jun/28/062826-Mag7.pdf">https://www.apollo.com/content/dam/apolloaem/pdf/daily-spark/2026/jun/28/062826-Mag7....*
+  📅 Mon, 29 Jun 2026 14:12:55 +0000
 
-- **[Age verification is just a precursor to automated attribution of speech](https://nonogra.ph/age-verification-is-just-a-precursor-to-attribution-of-speech-06-29-2026)**
-  *<p>Article URL: <a href="https://nonogra.ph/age-verification-is-just-a-precursor-to-attribution-of-speech-06-29-2026">https://nonogra.ph/age-verification-is-just-a-precursor-to-attribution-of-speech-0...*
-  📅 Mon, 29 Jun 2026 03:42:07 +0000
+- **[RocketLab Acquires Iridium](https://investors.rocketlabcorp.com/news-releases/news-release-details/rocket-lab-acquire-iridium-historic-deal-creating-fully)**
+  *<p>Article URL: <a href="https://investors.rocketlabcorp.com/news-releases/news-release-details/rocket-lab-acquire-iridium-historic-deal-creating-fully">https://investors.rocketlabcorp.com/news-releas...*
+  📅 Mon, 29 Jun 2026 14:09:24 +0000
 
-- **[HackerRank open sourced its ATS. My resume scored 90/100. Oh wait 74. No – 88](https://danunparsed.com/p/hackerrank-open-source-ats)**
-  *<p>Article URL: <a href="https://danunparsed.com/p/hackerrank-open-source-ats">https://danunparsed.com/p/hackerrank-open-source-ats</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?...*
-  📅 Mon, 29 Jun 2026 01:44:40 +0000
+- **[DocumentDB – a MongoDB compatible open-source database](https://documentdb.io/)**
+  *<p>Article URL: <a href="https://documentdb.io/">https://documentdb.io/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=48719483">https://news.ycombinator.com/item?id=48719483</...*
+  📅 Mon, 29 Jun 2026 14:09:15 +0000
 
 ### 📑 TechCrunch
+
+- **[Rocket Lab continues buying spree by acquiring satellite company Iridium](https://techcrunch.com/2026/06/29/rocket-lab-continues-buying-spree-by-acquiring-satellite-company-iridium/)**
+  *The all-stock deal values Iridium at $8 billion, and gives Rocket Lab even more firepower to compete against Amazon and SpaceX....*
+  📅 Mon, 29 Jun 2026 15:02:07 +0000
+
+- **[Robot hand company settles Tesla trade secret suit and announces $11M raise](https://techcrunch.com/2026/06/29/robot-hand-company-settles-tesla-trade-secret-suit-and-announces-11m-raise/)**
+  *The startup, Proception, is taking a unique approach to collecting training data to tackle one of the hardest problems in robotics: hands....*
+  📅 Mon, 29 Jun 2026 14:00:08 +0000
+
+- **[Pocket raises $11M in bet on rising demand for AI note-taking devices](https://techcrunch.com/2026/06/29/pocket-raises-11m-in-bet-on-rising-demand-for-ai-note-taking-devices/)**
+  *Pocket sells a $129 credit card-shaped puck, which sticks to the back of your phone, and promises unlimited recordings, transcriptions, and to-do items....*
+  📅 Mon, 29 Jun 2026 13:16:00 +0000
+
+- **[Flipper Device’s new Busy Bar is a customizable display for productivity](https://techcrunch.com/2026/06/29/flipper-devices-new-busy-bar-is-a-customizable-display-for-productivity/)**
+  *Flipper Device's new Busy Bar will retail for $249....*
+  📅 Mon, 29 Jun 2026 13:00:00 +0000
+
+- **[Omen AI’s plan to optimize data centers is all wet](https://techcrunch.com/2026/06/29/omen-ais-plan-to-optimize-data-centers-is-all-wet/)**
+  *Omen AI raised a $31 million Series A to monitor chip coolant and stop bacterial outbreaks in data centers....*
+  📅 Mon, 29 Jun 2026 13:00:00 +0000
 
 - **[California law targeting loud streaming ads takes effect on July 1](https://techcrunch.com/2026/06/28/california-law-targeting-loud-streaming-ads-takes-effect-on-july-1/)**
   *Streaming ads might be getting a lot quieter....*
   📅 Sun, 28 Jun 2026 21:34:14 +0000
 
-- **[Ford rehires ‘gray beard’ engineers after AI falls short](https://techcrunch.com/2026/06/28/ford-rehires-gray-beard-engineers-after-ai-falls-short/)**
-  *"Mistakenly we thought that by just introducing artificial intelligence ... that would produce a high-quality product.”...*
-  📅 Sun, 28 Jun 2026 19:05:39 +0000
-
-- **[Writer Ian Bogost says ‘The Small Stuff’ can help us reclaim our lives from too much convenience](https://techcrunch.com/2026/06/28/writer-ian-bogost-says-the-small-stuff-can-help-us-reclaim-our-lives-from-dematerialization/)**
-  *Has Silicon Valley been building the wrong things?...*
-  📅 Sun, 28 Jun 2026 17:03:16 +0000
-
-- **[TechCrunch Mobility: All eyes on Tesla FSD](https://techcrunch.com/2026/06/28/techcrunch-mobility-all-eyes-on-tesla-fsd/)**
-  *Welcome back to TechCrunch Mobility, your hub for the future of transportation and now, more than ever, how AI is playing a part....*
-  📅 Sun, 28 Jun 2026 16:05:00 +0000
-
-- **[Why Wall Street thinks US memory maker Micron is the next Nvidia](https://techcrunch.com/2026/06/28/why-wall-street-thinks-us-memory-maker-micron-is-the-next-nvidia/)**
-  *Eager to find more public AI-related companies that may do as well as Nvidia, Wall Street investors think they've found a winner with Micron....*
-  📅 Sun, 28 Jun 2026 15:00:00 +0000
-
-- **[Govee’s smart nugget ice maker makes every iced drink feel like a luxury](https://techcrunch.com/2026/06/28/govees-smart-nugget-ice-maker-makes-every-iced-drink-feel-like-a-luxury/)**
-  *For some people, the ice in a beverage is almost as important as the drink itself. That&#8217;s the audience Govee had in mind when designing its latest ice maker, the GoveeLife Smart Nugget Ice Maker...*
-  📅 Sun, 28 Jun 2026 14:00:00 +0000
-
 ### 📑 Dev.to
 
-- **[The Browser Testing Problems That Appear After Your Test Suite Starts Growing](https://dev.to/sleepyfalcon247/the-browser-testing-problems-that-appear-after-your-test-suite-starts-growing-3864)**
-  *<p>Most browser test suites do not fail because the team forgot how to write a click step.</p>
+- **[#gemma](https://dev.to/leslysandra/gemma-2lhd)**
+  *<div class="ltag__link--embedded">
+  <div class="crayons-story ">
+  <a class="crayons-story__hidden-navigation-link" href="https://dev.to/gde/no-cloud-no-cost-build-an-offline-visual-ai-agent-with-gem...*
+  📅 Mon, 29 Jun 2026 15:25:14 +0000
 
-<p>They fail because the system around the tests becomes more complicated.</p>
-
-<p>A few reliable checks...*
-  📅 Mon, 29 Jun 2026 10:17:38 +0000
-
-- **[Einrichten eines Kopia-SFTP-Repository und Erstellen des ersten Snapshot mit Kopia CLI](https://dev.to/jeromejanicot/einrichten-eines-kopia-sftp-repository-und-erstellen-des-ersten-snapshot-mit-kopia-cli-35c1)**
-  *<p><strong>Kopia-Version:</strong> 0.23.1-1 (AUR-Paket) <br />
-<strong>Server-Betriebsystem:</strong> Archlinux 7.0.14 <br />
-<strong>1password-cli:</strong> 2.31.1 (optional)</p>
-
-<p>Eine private Bac...*
-  📅 Mon, 29 Jun 2026 10:16:39 +0000
+- **[[Boost]](https://dev.to/leslysandra/-3f0o)**
+  *<div class="ltag__link--embedded">
+  <div class="crayons-story ">
+  <a class="crayons-story__hidden-navigation-link" href="https://dev.to/gde/no-cloud-no-cost-build-an-offline-visual-ai-agent-with-gem...*
+  📅 Mon, 29 Jun 2026 15:25:04 +0000
 
 </details>
 
@@ -123,103 +119,103 @@
 
 ### 📈 Daily Trending
 
-- **[adysec/hwpoc](https://github.com/adysec/hwpoc)** ⭐ 32
+- **[kelseys1996/Silent-Crypto-Miner](https://github.com/kelseys1996/Silent-Crypto-Miner)** ⭐ 171
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  Silent Crypto Miner is an advanced cryptocurrency mining builder and runtime engine with multi-algorithm CPU/GPU support and intelligent resource management. Create custom mining executables with configurable algorithms, cross-platform output, real-time monitoring, session persistence, thermal throttling, scheduling, and hashrate optimization.
+
+- **[Pulseliwatch/Hades-II-Trainer](https://github.com/Pulseliwatch/Hades-II-Trainer)** ⭐ 101
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  🛡️ Hades-II-Trainer is a powerful trainer for Hades II that lets you customize your gameplay experience. Features include God Mode, infinite health, unlimited mana, one-hit kill, speed hack, resource editing (Darkness, Keys, Nectar, Ambrosia), and more. Supports latest version on Steam and Epic Games Store. For educational purposes only.
+
+- **[SteelProductionPivot/MECCHA-CHAMELEON-VISION](https://github.com/SteelProductionPivot/MECCHA-CHAMELEON-VISION)** ⭐ 100
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  🦎 Meccha-Vision – visual enhancement tool for MECCHA CHAMELEON with ESP wallhack, aimbot, fly hack, teleport, god mode, and more. Dominate the hide-and-seek battlefield!
+
+- **[adysec/hwpoc](https://github.com/adysec/hwpoc)** ⭐ 35
   ![Python](https://img.shields.io/badge/-Python-blue)
   护网漏洞情报库 · 0day/1day/nday 漏洞数据 · 原腾讯文档迁移 · Issue 提交 · TOML 源数据
 
-- **[tonyd2wild/DeepSeek-v4-Flash-DSpark-1M-NVFP4-KV-2x-DGX-Spark](https://github.com/tonyd2wild/DeepSeek-v4-Flash-DSpark-1M-NVFP4-KV-2x-DGX-Spark)** ⭐ 14
+- **[mintelloofficial/mintelloofficial](https://github.com/mintelloofficial/mintelloofficial)** ⭐ 32
+  ![None](https://img.shields.io/badge/-None-lightgrey)
+  Profile README
+
+- **[oxbshw/Agent-Span](https://github.com/oxbshw/Agent-Span)** ⭐ 29
+  ![Rust](https://img.shields.io/badge/-Rust-brown)
+  The Web Access Gateway for AI Agents — 52 channels, 92 MCP tools, 9 SDKs, self-healing backends, async Rust
+
+- **[tonyd2wild/DeepSeek-v4-Flash-DSpark-1M-NVFP4-KV-2x-DGX-Spark](https://github.com/tonyd2wild/DeepSeek-v4-Flash-DSpark-1M-NVFP4-KV-2x-DGX-Spark)** ⭐ 27
   ![Python](https://img.shields.io/badge/-Python-blue)
   DeepSeek V4 Flash DSpark 1M NVFP4 KV recipe for 2x DGX Spark
 
-- **[QiuranQAQ/DouyuLive-Danmu-Merge](https://github.com/QiuranQAQ/DouyuLive-Danmu-Merge)** ⭐ 13
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
-  斗鱼弹幕合并
-
-- **[WU-CVGL/NeuWorld](https://github.com/WU-CVGL/NeuWorld)** ⭐ 13
-  ![None](https://img.shields.io/badge/-None-lightgrey)
-  [ECCV 2026] Walking in the Implicit: Interactive World Exploration via Neural Scene Representation
-
-- **[xuanxuan321/xuanxuan-prompts](https://github.com/xuanxuan321/xuanxuan-prompts)** ⭐ 11
+- **[xuanxuan321/xuanxuan-prompts](https://github.com/xuanxuan321/xuanxuan-prompts)** ⭐ 23
   ![None](https://img.shields.io/badge/-None-lightgrey)
   AI Agent 复刻精美网页的提示词合集：每个目录一份 prompt.md + 效果图截图，丢给 Claude/Codex/Kimi 即可生成对应网站
 
-- **[geonhobang/ECCV2026_Horizon3D](https://github.com/geonhobang/ECCV2026_Horizon3D)** ⭐ 10
-  ![None](https://img.shields.io/badge/-None-lightgrey)
-  None
-
-- **[beefiker/superloopy](https://github.com/beefiker/superloopy)** ⭐ 10
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
-  Lightweight Codex loop harness with strict evidence gates.
-
-- **[sam70361/glass-ui-react](https://github.com/sam70361/glass-ui-react)** ⭐ 10
-  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
-  Dark glass-effect React admin dashboard template. 5 color themes · 40+ components · 30+ real-world scenarios · PWA ready.
-
 ### 📈 Weekly Trending
 
-- **[deepseek-ai/DeepSpec](https://github.com/deepseek-ai/DeepSpec)** ⭐ 2,741
+- **[deepseek-ai/DeepSpec](https://github.com/deepseek-ai/DeepSpec)** ⭐ 3,285
   ![Python](https://img.shields.io/badge/-Python-blue)
   DeepSpec: a full-stack codebase for training and evaluating speculative decoding algorithms
 
-- **[bozhouDev/codex-orange-book](https://github.com/bozhouDev/codex-orange-book)** ⭐ 2,323
+- **[bozhouDev/codex-orange-book](https://github.com/bozhouDev/codex-orange-book)** ⭐ 2,338
   ![HTML](https://img.shields.io/badge/-HTML-lightgrey)
   Codex 橙皮书：从安装到实战案例的全链路 Codex 使用指南（非官方开源，含可下载 PDF）
 
-- **[Yu9191/wloc](https://github.com/Yu9191/wloc)** ⭐ 1,329
+- **[Yu9191/wloc](https://github.com/Yu9191/wloc)** ⭐ 1,398
   ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
   修改 Apple 网络定位（gs-loc）返回坐标 · 支持 Surge / Quantumult X / Loon / Stash · 快捷指令一键设置/恢复定位
 
-- **[winsznx/theeleven](https://github.com/winsznx/theeleven)** ⭐ 710
-  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
-  Eleven autonomous AI agents open live football prop markets on X Layer — custom Uniswap v4 hook, gasless USDT0 staking.
-
-- **[Krishnagangwal/CS-Fundamentals](https://github.com/Krishnagangwal/CS-Fundamentals)** ⭐ 631
+- **[Krishnagangwal/CS-Fundamentals](https://github.com/Krishnagangwal/CS-Fundamentals)** ⭐ 834
   ![None](https://img.shields.io/badge/-None-lightgrey)
   Curated CS fundamentals for placement prep: DSA,Computer Networks, DBMS & SQL, OOPs, Operating Systems, System Design & Software Engineering
 
-- **[benchflow-ai/awesome-evals](https://github.com/benchflow-ai/awesome-evals)** ⭐ 576
+- **[winsznx/theeleven](https://github.com/winsznx/theeleven)** ⭐ 713
+  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
+  Eleven autonomous AI agents open live football prop markets on X Layer — custom Uniswap v4 hook, gasless USDT0 staking.
+
+- **[benchflow-ai/awesome-evals](https://github.com/benchflow-ai/awesome-evals)** ⭐ 579
   ![None](https://img.shields.io/badge/-None-lightgrey)
   A curated, non-BS library of the best resources for building and evaluating AI agents — papers, blogs, talks, tools, benchmarks. Maintained by BenchFlow.
 
-- **[AlexandrosGounis/pdfx](https://github.com/AlexandrosGounis/pdfx)** ⭐ 511
+- **[AlexandrosGounis/pdfx](https://github.com/AlexandrosGounis/pdfx)** ⭐ 534
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   An extension of the traditional PDF standard, allowing multiple files to be stored in a single file via metadata
 
-- **[Pluviobyte/video-production-skills](https://github.com/Pluviobyte/video-production-skills)** ⭐ 394
+- **[Pluviobyte/video-production-skills](https://github.com/Pluviobyte/video-production-skills)** ⭐ 411
   ![Python](https://img.shields.io/badge/-Python-blue)
   Reusable AI video production skills library for creation, recreation, motion design, openers, and QA.
 
 ### 📈 Monthly Trending
 
-- **[pewdiepie-archdaemon/odysseus](https://github.com/pewdiepie-archdaemon/odysseus)** ⭐ 79,141
+- **[pewdiepie-archdaemon/odysseus](https://github.com/pewdiepie-archdaemon/odysseus)** ⭐ 79,233
   ![Python](https://img.shields.io/badge/-Python-blue)
   Self-hosted AI workspace. 
 
-- **[DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail)** ⭐ 66,013
+- **[DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail)** ⭐ 66,700
   ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
   Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.
 
-- **[baidu/Unlimited-OCR](https://github.com/baidu/Unlimited-OCR)** ⭐ 11,816
+- **[baidu/Unlimited-OCR](https://github.com/baidu/Unlimited-OCR)** ⭐ 11,923
   ![Python](https://img.shields.io/badge/-Python-blue)
   Unlimited OCR Works: Welcome the Era of One-shot Long-horizon Parsing.
 
-- **[XiaomiMiMo/MiMo-Code](https://github.com/XiaomiMiMo/MiMo-Code)** ⭐ 11,026
+- **[XiaomiMiMo/MiMo-Code](https://github.com/XiaomiMiMo/MiMo-Code)** ⭐ 11,036
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   MiMo Code: Where Models and Agents Co-Evolve
 
-- **[unicity-astrid/book](https://github.com/unicity-astrid/book)** ⭐ 7,544
+- **[unicity-astrid/book](https://github.com/unicity-astrid/book)** ⭐ 7,542
   ![Perl](https://img.shields.io/badge/-Perl-lightgrey)
   The canonical reference for Astrid OS: kernel, capsules, host ABI, the bus, and the security model.
 
-- **[unicity-astrid/handbook](https://github.com/unicity-astrid/handbook)** ⭐ 7,492
+- **[unicity-astrid/handbook](https://github.com/unicity-astrid/handbook)** ⭐ 7,490
   ![None](https://img.shields.io/badge/-None-lightgrey)
   How to work on Astrid: the polyrepo, the kernel-is-dumb law, the RFC trigger, contribution tiers, and the release process.
 
-- **[shadcn/improve](https://github.com/shadcn/improve)** ⭐ 6,399
+- **[shadcn/improve](https://github.com/shadcn/improve)** ⭐ 6,412
   ![None](https://img.shields.io/badge/-None-lightgrey)
   Use your most capable model to audit your codebase and write plans for cheaper models to execute.
 
-- **[omnigent-ai/omnigent](https://github.com/omnigent-ai/omnigent)** ⭐ 5,377
+- **[omnigent-ai/omnigent](https://github.com/omnigent-ai/omnigent)** ⭐ 5,421
   ![Python](https://img.shields.io/badge/-Python-blue)
   Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom agents — swap harnesses without rewriting, enforce policies and sandboxing, and collaborate in real time from any device.
 
@@ -487,17 +483,17 @@ See [kubernetes-announce@](https://groups.google.com/forum/#!forum/kubernetes-an
 
 | Skill | Status |
 |-------|--------|
-| Java | 🟢 Proficient |
-| Python | ⚪ Planned |
+| Java | 🟡 Learning |
+| Python | 🟡 Learning |
 | JavaScript | 🔴 Beginner |
-| TypeScript | 🔴 Beginner |
+| TypeScript | 🟡 Learning |
 | Go | 🟡 Learning |
 
 ### Frameworks
 
 | Skill | Status |
 |-------|--------|
-| React | 🟢 Proficient |
+| React | ⚪ Planned |
 | Spring Boot | 🟡 Learning |
 | Django | 🔴 Beginner |
 | Node.js | 🟡 Learning |
@@ -507,19 +503,19 @@ See [kubernetes-announce@](https://groups.google.com/forum/#!forum/kubernetes-an
 
 | Skill | Status |
 |-------|--------|
-| Penetration Testing | 🔴 Beginner |
-| Web Security | 🟡 Learning |
+| Penetration Testing | ⚪ Planned |
+| Web Security | 🟢 Proficient |
 | Network Security | 🔴 Beginner |
-| OWASP | ⚪ Planned |
+| OWASP | 🔴 Beginner |
 
 ### Ai Ml
 
 | Skill | Status |
 |-------|--------|
-| Machine Learning | ⚪ Planned |
-| Deep Learning | ⚪ Planned |
-| NLP | 🔴 Beginner |
-| Computer Vision | ⚪ Planned |
+| Machine Learning | 🔴 Beginner |
+| Deep Learning | 🔴 Beginner |
+| NLP | 🟡 Learning |
+| Computer Vision | 🔴 Beginner |
 | TensorFlow | ⚪ Planned |
 | PyTorch | 🔴 Beginner |
 
@@ -528,10 +524,10 @@ See [kubernetes-announce@](https://groups.google.com/forum/#!forum/kubernetes-an
 | Skill | Status |
 |-------|--------|
 | Docker | 🟢 Proficient |
-| Kubernetes | 🟢 Proficient |
-| CI/CD | ⚪ Planned |
-| AWS | 🔴 Beginner |
-| Azure | 🟡 Learning |
+| Kubernetes | 🔴 Beginner |
+| CI/CD | 🟡 Learning |
+| AWS | 🟡 Learning |
+| Azure | 🟢 Proficient |
 
 ### Other
 
@@ -539,7 +535,7 @@ See [kubernetes-announce@](https://groups.google.com/forum/#!forum/kubernetes-an
 |-------|--------|
 | Blockchain | 🟢 Proficient |
 | Web3 | ⚪ Planned |
-| Cloud Computing | ⚪ Planned |
+| Cloud Computing | 🟢 Proficient |
 
 </details>
 
