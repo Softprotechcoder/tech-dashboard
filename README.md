@@ -46,33 +46,32 @@
 
 ### 📑 Hacker News
 
-- **[AI boom risks global financial crash, warn central bankers](https://www.telegraph.co.uk/business/2026/06/28/ai-boom-risks-global-financial-crash-central-bankers-warn/)**
-  *<p>Article URL: <a href="https://www.telegraph.co.uk/business/2026/06/28/ai-boom-risks-global-financial-crash-central-bankers-warn/">https://www.telegraph.co.uk/business/2026/06/28/ai-boom-risks-globa...*
-  📅 Mon, 29 Jun 2026 01:25:04 +0000
+- **[Pollen (CEO Negus-Fancey, CTO Wright) tried to remove article, and Google helped](https://blog.pragmaticengineer.com/pollen-tried-to-remove-my-article-about-callum-negus-fancey-and-google-is-assisting-to-it/)**
+  *<p>Article URL: <a href="https://blog.pragmaticengineer.com/pollen-tried-to-remove-my-article-about-callum-negus-fancey-and-google-is-assisting-to-it/">https://blog.pragmaticengineer.com/pollen-tried-...*
+  📅 Mon, 29 Jun 2026 09:28:08 +0000
 
-- **[Better Images of AI](https://betterimagesofai.org/)**
-  *<p>Article URL: <a href="https://betterimagesofai.org/">https://betterimagesofai.org/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=48713051">https://news.ycombinator.com/item...*
-  📅 Sun, 28 Jun 2026 23:50:58 +0000
+- **[Why did this journal retract two 1940s papers by Max Planck?](https://arstechnica.com/science/2026/06/why-did-this-journal-retract-two-1940s-papers-by-max-planck/)**
+  *<p>Article URL: <a href="https://arstechnica.com/science/2026/06/why-did-this-journal-retract-two-1940s-papers-by-max-planck/">https://arstechnica.com/science/2026/06/why-did-this-journal-retract-two-...*
+  📅 Mon, 29 Jun 2026 08:58:09 +0000
 
-- **[Knowledge Distillation of Black-Box Large Language Models (2024)](https://arxiv.org/abs/2401.07013)**
-  *<p>Article URL: <a href="https://arxiv.org/abs/2401.07013">https://arxiv.org/abs/2401.07013</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=48712420">https://news.ycombinator.co...*
-  📅 Sun, 28 Jun 2026 22:32:04 +0000
-
-- **[Xonaly – Canada's Independent Search Engine](https://xonaly.com/)**
-  *<p>Article URL: <a href="https://xonaly.com/">https://xonaly.com/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=48712324">https://news.ycombinator.com/item?id=48712324</a></p>...*
-  📅 Sun, 28 Jun 2026 22:20:56 +0000
-
-- **[POSIX Is Not a Shell](https://alganet.github.io/blog/2026-06-28-12-POSIX-Is-Not-A-Shell.html)**
-  *<p>Article URL: <a href="https://alganet.github.io/blog/2026-06-28-12-POSIX-Is-Not-A-Shell.html">https://alganet.github.io/blog/2026-06-28-12-POSIX-Is-Not-A-Shell.html</a></p>
+- **[US Grid Constraints: Towards 40GW+ of Behind-the-Meter Datacenter by 2028?](https://newsletter.semianalysis.com/p/us-grid-constraints-towards-40gw)**
+  *<p>Article URL: <a href="https://newsletter.semianalysis.com/p/us-grid-constraints-towards-40gw">https://newsletter.semianalysis.com/p/us-grid-constraints-towards-40gw</a></p>
 <p>Comments URL: <a href...*
-  📅 Sun, 28 Jun 2026 20:39:50 +0000
+  📅 Mon, 29 Jun 2026 07:36:08 +0000
 
-- **[Show HN: Bash4LLM+ – A lightweight, dependency-free Bash wrapper for LLM APIs](https://github.com/kamaludu/bash4llm/)**
-  *<p>Bash4LLM is a single-file Bash wrapper for interacting with LLMs from the terminal.  I created it because I wanted something simple that worked without installing Python, Node, or any other runtime...*
-  📅 Sun, 28 Jun 2026 19:43:10 +0000
+- **[Herdr: Agent multiplexer that lives in your terminal](https://github.com/ogulcancelik/herdr)**
+  *<p>Article URL: <a href="https://github.com/ogulcancelik/herdr">https://github.com/ogulcancelik/herdr</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=48714802">https://news.ycom...*
+  📅 Mon, 29 Jun 2026 04:27:46 +0000
+
+- **[Age verification is just a precursor to automated attribution of speech](https://nonogra.ph/age-verification-is-just-a-precursor-to-attribution-of-speech-06-29-2026)**
+  *<p>Article URL: <a href="https://nonogra.ph/age-verification-is-just-a-precursor-to-attribution-of-speech-06-29-2026">https://nonogra.ph/age-verification-is-just-a-precursor-to-attribution-of-speech-0...*
+  📅 Mon, 29 Jun 2026 03:42:07 +0000
+
+- **[HackerRank open sourced its ATS. My resume scored 90/100. Oh wait 74. No – 88](https://danunparsed.com/p/hackerrank-open-source-ats)**
+  *<p>Article URL: <a href="https://danunparsed.com/p/hackerrank-open-source-ats">https://danunparsed.com/p/hackerrank-open-source-ats</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?...*
+  📅 Mon, 29 Jun 2026 01:44:40 +0000
 
 ### 📑 TechCrunch
 
@@ -102,13 +101,21 @@
 
 ### 📑 Dev.to
 
-- **[React useDebounce Hook: Debounce State & Callbacks (2026)](https://dev.to/childrentime/react-usedebounce-hook-debounce-state-callbacks-2026-5f3g)**
-  *<p>You have a search box. The user types <code>react hooks</code>, and your component fires an API request on every single keystroke — eleven requests for one query, ten of them already stale by the t...*
-  📅 Mon, 29 Jun 2026 02:26:06 +0000
+- **[The Browser Testing Problems That Appear After Your Test Suite Starts Growing](https://dev.to/sleepyfalcon247/the-browser-testing-problems-that-appear-after-your-test-suite-starts-growing-3864)**
+  *<p>Most browser test suites do not fail because the team forgot how to write a click step.</p>
 
-- **[smolagents Is Powerful Because It Runs Code. That Is Also the Boundary.](https://dev.to/doramagic/smolagents-is-powerful-because-it-runs-code-that-is-also-the-boundary-eo0)**
-  *<p>smolagents is attractive because it keeps the agent abstraction small and lets a <code>CodeAgent</code> express actions as Python code. That is not just an implementation detail. It changes the fir...*
-  📅 Mon, 29 Jun 2026 02:21:48 +0000
+<p>They fail because the system around the tests becomes more complicated.</p>
+
+<p>A few reliable checks...*
+  📅 Mon, 29 Jun 2026 10:17:38 +0000
+
+- **[Einrichten eines Kopia-SFTP-Repository und Erstellen des ersten Snapshot mit Kopia CLI](https://dev.to/jeromejanicot/einrichten-eines-kopia-sftp-repository-und-erstellen-des-ersten-snapshot-mit-kopia-cli-35c1)**
+  *<p><strong>Kopia-Version:</strong> 0.23.1-1 (AUR-Paket) <br />
+<strong>Server-Betriebsystem:</strong> Archlinux 7.0.14 <br />
+<strong>1password-cli:</strong> 2.31.1 (optional)</p>
+
+<p>Eine private Bac...*
+  📅 Mon, 29 Jun 2026 10:16:39 +0000
 
 </details>
 
@@ -116,103 +123,103 @@
 
 ### 📈 Daily Trending
 
-- **[sam70361/glass-ui-react](https://github.com/sam70361/glass-ui-react)** ⭐ 4
+- **[adysec/hwpoc](https://github.com/adysec/hwpoc)** ⭐ 32
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  护网漏洞情报库 · 0day/1day/nday 漏洞数据 · 原腾讯文档迁移 · Issue 提交 · TOML 源数据
+
+- **[tonyd2wild/DeepSeek-v4-Flash-DSpark-1M-NVFP4-KV-2x-DGX-Spark](https://github.com/tonyd2wild/DeepSeek-v4-Flash-DSpark-1M-NVFP4-KV-2x-DGX-Spark)** ⭐ 14
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  DeepSeek V4 Flash DSpark 1M NVFP4 KV recipe for 2x DGX Spark
+
+- **[QiuranQAQ/DouyuLive-Danmu-Merge](https://github.com/QiuranQAQ/DouyuLive-Danmu-Merge)** ⭐ 13
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
+  斗鱼弹幕合并
+
+- **[WU-CVGL/NeuWorld](https://github.com/WU-CVGL/NeuWorld)** ⭐ 13
+  ![None](https://img.shields.io/badge/-None-lightgrey)
+  [ECCV 2026] Walking in the Implicit: Interactive World Exploration via Neural Scene Representation
+
+- **[xuanxuan321/xuanxuan-prompts](https://github.com/xuanxuan321/xuanxuan-prompts)** ⭐ 11
+  ![None](https://img.shields.io/badge/-None-lightgrey)
+  AI Agent 复刻精美网页的提示词合集：每个目录一份 prompt.md + 效果图截图，丢给 Claude/Codex/Kimi 即可生成对应网站
+
+- **[geonhobang/ECCV2026_Horizon3D](https://github.com/geonhobang/ECCV2026_Horizon3D)** ⭐ 10
+  ![None](https://img.shields.io/badge/-None-lightgrey)
+  None
+
+- **[beefiker/superloopy](https://github.com/beefiker/superloopy)** ⭐ 10
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
+  Lightweight Codex loop harness with strict evidence gates.
+
+- **[sam70361/glass-ui-react](https://github.com/sam70361/glass-ui-react)** ⭐ 10
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
-  None
-
-- **[chainsandbolts/tochen-driver-poc](https://github.com/chainsandbolts/tochen-driver-poc)** ⭐ 3
-  ![C](https://img.shields.io/badge/-C-lightgrey)
-  regression
-
-- **[notemrovsky/guns-lol-view-bot](https://github.com/notemrovsky/guns-lol-view-bot)** ⭐ 3
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  your guns.lol views are fake and so is your egirlfriend
-
-- **[zhfsoft/CheckDiameterLog](https://github.com/zhfsoft/CheckDiameterLog)** ⭐ 2
-  ![CSS](https://img.shields.io/badge/-CSS-lightgrey)
-  None
-
-- **[KeepIntouch2024/pagewright](https://github.com/KeepIntouch2024/pagewright)** ⭐ 2
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  LLM-orchestrated e-commerce detail-page generator · 电商详情页生成
-
-- **[laolaoyou/benbendejiucai-skill](https://github.com/laolaoyou/benbendejiucai-skill)** ⭐ 2
-  ![None](https://img.shields.io/badge/-None-lightgrey)
-  笨笨的韭菜.skill — B站up景气投资宗师笨总的skill。获得赛博笨总的超景气个人能力。由女娲.skill生成。
-
-- **[in12hacker/project-guardrails-harness](https://github.com/in12hacker/project-guardrails-harness)** ⭐ 2
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  Claude Code skill: build portable, project-specific engineering guardrails & verification harnesses from repository evidence.
-
-- **[zacmia/zolkit](https://github.com/zacmia/zolkit)** ⭐ 2
-  ![None](https://img.shields.io/badge/-None-lightgrey)
-  None
+  Dark glass-effect React admin dashboard template. 5 color themes · 40+ components · 30+ real-world scenarios · PWA ready.
 
 ### 📈 Weekly Trending
 
-- **[deepseek-ai/DeepSpec](https://github.com/deepseek-ai/DeepSpec)** ⭐ 2,318
+- **[deepseek-ai/DeepSpec](https://github.com/deepseek-ai/DeepSpec)** ⭐ 2,741
   ![Python](https://img.shields.io/badge/-Python-blue)
   DeepSpec: a full-stack codebase for training and evaluating speculative decoding algorithms
 
-- **[bozhouDev/codex-orange-book](https://github.com/bozhouDev/codex-orange-book)** ⭐ 2,291
+- **[bozhouDev/codex-orange-book](https://github.com/bozhouDev/codex-orange-book)** ⭐ 2,323
   ![HTML](https://img.shields.io/badge/-HTML-lightgrey)
   Codex 橙皮书：从安装到实战案例的全链路 Codex 使用指南（非官方开源，含可下载 PDF）
 
-- **[bikini/exploitarium](https://github.com/bikini/exploitarium)** ⭐ 2,220
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  A single archive of public exploit PoCs and vulnerability research writeups. At the time I post these, none have been reported. Feel free to report them yourself and take credit for the CVE if handed out lulz. Please do not abuse these. I do this so to allure people into the field, and I've always found this is the most efficient way.
-
-- **[Yu9191/wloc](https://github.com/Yu9191/wloc)** ⭐ 1,117
+- **[Yu9191/wloc](https://github.com/Yu9191/wloc)** ⭐ 1,329
   ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
   修改 Apple 网络定位（gs-loc）返回坐标 · 支持 Surge / Quantumult X / Loon / Stash · 快捷指令一键设置/恢复定位
 
-- **[winsznx/theeleven](https://github.com/winsznx/theeleven)** ⭐ 698
+- **[winsznx/theeleven](https://github.com/winsznx/theeleven)** ⭐ 710
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   Eleven autonomous AI agents open live football prop markets on X Layer — custom Uniswap v4 hook, gasless USDT0 staking.
 
-- **[benchflow-ai/awesome-evals](https://github.com/benchflow-ai/awesome-evals)** ⭐ 564
+- **[Krishnagangwal/CS-Fundamentals](https://github.com/Krishnagangwal/CS-Fundamentals)** ⭐ 631
+  ![None](https://img.shields.io/badge/-None-lightgrey)
+  Curated CS fundamentals for placement prep: DSA,Computer Networks, DBMS & SQL, OOPs, Operating Systems, System Design & Software Engineering
+
+- **[benchflow-ai/awesome-evals](https://github.com/benchflow-ai/awesome-evals)** ⭐ 576
   ![None](https://img.shields.io/badge/-None-lightgrey)
   A curated, non-BS library of the best resources for building and evaluating AI agents — papers, blogs, talks, tools, benchmarks. Maintained by BenchFlow.
 
-- **[AlexandrosGounis/pdfx](https://github.com/AlexandrosGounis/pdfx)** ⭐ 490
+- **[AlexandrosGounis/pdfx](https://github.com/AlexandrosGounis/pdfx)** ⭐ 511
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   An extension of the traditional PDF standard, allowing multiple files to be stored in a single file via metadata
 
-- **[goehou/tabbit-toy](https://github.com/goehou/tabbit-toy)** ⭐ 380
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
-  这是一个基于tabbit的研究包，可以转化成OAI格式出来，同时增加了会员认证功能和一键提取cookie的浏览器拓展，方便快速本地快速使用claude gpt等模型
+- **[Pluviobyte/video-production-skills](https://github.com/Pluviobyte/video-production-skills)** ⭐ 394
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  Reusable AI video production skills library for creation, recreation, motion design, openers, and QA.
 
 ### 📈 Monthly Trending
 
-- **[pewdiepie-archdaemon/odysseus](https://github.com/pewdiepie-archdaemon/odysseus)** ⭐ 79,021
+- **[pewdiepie-archdaemon/odysseus](https://github.com/pewdiepie-archdaemon/odysseus)** ⭐ 79,141
   ![Python](https://img.shields.io/badge/-Python-blue)
   Self-hosted AI workspace. 
 
-- **[DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail)** ⭐ 64,735
+- **[DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail)** ⭐ 66,013
   ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
   Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.
 
-- **[baidu/Unlimited-OCR](https://github.com/baidu/Unlimited-OCR)** ⭐ 11,624
+- **[baidu/Unlimited-OCR](https://github.com/baidu/Unlimited-OCR)** ⭐ 11,816
   ![Python](https://img.shields.io/badge/-Python-blue)
   Unlimited OCR Works: Welcome the Era of One-shot Long-horizon Parsing.
 
-- **[XiaomiMiMo/MiMo-Code](https://github.com/XiaomiMiMo/MiMo-Code)** ⭐ 10,999
+- **[XiaomiMiMo/MiMo-Code](https://github.com/XiaomiMiMo/MiMo-Code)** ⭐ 11,026
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   MiMo Code: Where Models and Agents Co-Evolve
 
-- **[unicity-astrid/book](https://github.com/unicity-astrid/book)** ⭐ 7,547
+- **[unicity-astrid/book](https://github.com/unicity-astrid/book)** ⭐ 7,544
   ![Perl](https://img.shields.io/badge/-Perl-lightgrey)
   The canonical reference for Astrid OS: kernel, capsules, host ABI, the bus, and the security model.
 
-- **[unicity-astrid/handbook](https://github.com/unicity-astrid/handbook)** ⭐ 7,495
+- **[unicity-astrid/handbook](https://github.com/unicity-astrid/handbook)** ⭐ 7,492
   ![None](https://img.shields.io/badge/-None-lightgrey)
   How to work on Astrid: the polyrepo, the kernel-is-dumb law, the RFC trigger, contribution tiers, and the release process.
 
-- **[shadcn/improve](https://github.com/shadcn/improve)** ⭐ 6,384
+- **[shadcn/improve](https://github.com/shadcn/improve)** ⭐ 6,399
   ![None](https://img.shields.io/badge/-None-lightgrey)
   Use your most capable model to audit your codebase and write plans for cheaper models to execute.
 
-- **[omnigent-ai/omnigent](https://github.com/omnigent-ai/omnigent)** ⭐ 5,313
+- **[omnigent-ai/omnigent](https://github.com/omnigent-ai/omnigent)** ⭐ 5,377
   ![Python](https://img.shields.io/badge/-Python-blue)
   Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom agents — swap harnesses without rewriting, enforce policies and sandboxing, and collaborate in real time from any device.
 
@@ -481,57 +488,57 @@ See [kubernetes-announce@](https://groups.google.com/forum/#!forum/kubernetes-an
 | Skill | Status |
 |-------|--------|
 | Java | 🟢 Proficient |
-| Python | 🟡 Learning |
+| Python | ⚪ Planned |
 | JavaScript | 🔴 Beginner |
-| TypeScript | 🟢 Proficient |
-| Go | 🔴 Beginner |
+| TypeScript | 🔴 Beginner |
+| Go | 🟡 Learning |
 
 ### Frameworks
 
 | Skill | Status |
 |-------|--------|
-| React | ⚪ Planned |
-| Spring Boot | ⚪ Planned |
-| Django | ⚪ Planned |
-| Node.js | 🔴 Beginner |
+| React | 🟢 Proficient |
+| Spring Boot | 🟡 Learning |
+| Django | 🔴 Beginner |
+| Node.js | 🟡 Learning |
 | Next.js | ⚪ Planned |
 
 ### Cybersecurity
 
 | Skill | Status |
 |-------|--------|
-| Penetration Testing | ⚪ Planned |
+| Penetration Testing | 🔴 Beginner |
 | Web Security | 🟡 Learning |
 | Network Security | 🔴 Beginner |
-| OWASP | 🔴 Beginner |
+| OWASP | ⚪ Planned |
 
 ### Ai Ml
 
 | Skill | Status |
 |-------|--------|
-| Machine Learning | 🟡 Learning |
-| Deep Learning | 🟡 Learning |
+| Machine Learning | ⚪ Planned |
+| Deep Learning | ⚪ Planned |
 | NLP | 🔴 Beginner |
-| Computer Vision | 🟡 Learning |
-| TensorFlow | 🔴 Beginner |
-| PyTorch | 🟢 Proficient |
+| Computer Vision | ⚪ Planned |
+| TensorFlow | ⚪ Planned |
+| PyTorch | 🔴 Beginner |
 
 ### Devops
 
 | Skill | Status |
 |-------|--------|
-| Docker | 🔴 Beginner |
-| Kubernetes | 🟡 Learning |
-| CI/CD | 🔴 Beginner |
-| AWS | 🟡 Learning |
+| Docker | 🟢 Proficient |
+| Kubernetes | 🟢 Proficient |
+| CI/CD | ⚪ Planned |
+| AWS | 🔴 Beginner |
 | Azure | 🟡 Learning |
 
 ### Other
 
 | Skill | Status |
 |-------|--------|
-| Blockchain | 🔴 Beginner |
-| Web3 | 🟢 Proficient |
+| Blockchain | 🟢 Proficient |
+| Web3 | ⚪ Planned |
 | Cloud Computing | ⚪ Planned |
 
 </details>
