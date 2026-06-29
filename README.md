@@ -7,7 +7,7 @@
 ![AI & ML](https://img.shields.io/badge/-AI%20&%20ML-blue) ![CyberSecurity](https://img.shields.io/badge/-CyberSecurity-red) ![Full Stack Development](https://img.shields.io/badge/-Full%20Stack%20Development-green)
 
 [![Auto Update](https://img.shields.io/badge/Auto%20Update-Enabled-success)](https://github.com/yourusername/tech-dashboard/actions)
-[![Last Updated](https://img.shields.io/badge/Last%20Updated-June 28, 2026-blue)](https://github.com/yourusername/tech-dashboard)
+[![Last Updated](https://img.shields.io/badge/Last%20Updated-June 29, 2026-blue)](https://github.com/yourusername/tech-dashboard)
 
 *Automatically updated every 6 hours with the latest tech news, trending repositories, and learning resources.*
 
@@ -46,37 +46,45 @@
 
 ### 📑 Hacker News
 
-- **[The Cost Yagni Was Never About – By Kent Beck](https://newsletter.kentbeck.com/p/the-cost-yagni-was-never-about)**
-  *<p>Article URL: <a href="https://newsletter.kentbeck.com/p/the-cost-yagni-was-never-about">https://newsletter.kentbeck.com/p/the-cost-yagni-was-never-about</a></p>
-<p>Comments URL: <a href="https://ne...*
-  📅 Sun, 28 Jun 2026 18:31:54 +0000
+- **[AI boom risks global financial crash, warn central bankers](https://www.telegraph.co.uk/business/2026/06/28/ai-boom-risks-global-financial-crash-central-bankers-warn/)**
+  *<p>Article URL: <a href="https://www.telegraph.co.uk/business/2026/06/28/ai-boom-risks-global-financial-crash-central-bankers-warn/">https://www.telegraph.co.uk/business/2026/06/28/ai-boom-risks-globa...*
+  📅 Mon, 29 Jun 2026 01:25:04 +0000
 
-- **[Working around dragons with the Lemote Yeeloong laptop and OpenBSD](http://oldvcr.blogspot.com/2026/06/working-around-dragons-with-lemote.html)**
-  *<p>Article URL: <a href="http://oldvcr.blogspot.com/2026/06/working-around-dragons-with-lemote.html">http://oldvcr.blogspot.com/2026/06/working-around-dragons-with-lemote.html</a></p>
-<p>Comments URL:...*
-  📅 Sun, 28 Jun 2026 16:58:59 +0000
+- **[Better Images of AI](https://betterimagesofai.org/)**
+  *<p>Article URL: <a href="https://betterimagesofai.org/">https://betterimagesofai.org/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=48713051">https://news.ycombinator.com/item...*
+  📅 Sun, 28 Jun 2026 23:50:58 +0000
 
-- **[Show HN: DRM-Free Books](https://frequal.com/Perspectives/DrmFreeAuthors.html)**
-  *<p>After several years of mandatory DRM lockdowns from most commercial book sources, now authors have a choice when it comes to DRM for their books.  Pick authors and books that are DRM-free, or downl...*
-  📅 Sun, 28 Jun 2026 16:58:56 +0000
+- **[Knowledge Distillation of Black-Box Large Language Models (2024)](https://arxiv.org/abs/2401.07013)**
+  *<p>Article URL: <a href="https://arxiv.org/abs/2401.07013">https://arxiv.org/abs/2401.07013</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=48712420">https://news.ycombinator.co...*
+  📅 Sun, 28 Jun 2026 22:32:04 +0000
 
-- **[I used Claude Code to get a second opinion on my MRI](https://antoine.fi/mri-analysis-using-claude-code-opus)**
-  *<p>Article URL: <a href="https://antoine.fi/mri-analysis-using-claude-code-opus">https://antoine.fi/mri-analysis-using-claude-code-opus</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/i...*
-  📅 Sun, 28 Jun 2026 16:35:19 +0000
+- **[Xonaly – Canada's Independent Search Engine](https://xonaly.com/)**
+  *<p>Article URL: <a href="https://xonaly.com/">https://xonaly.com/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=48712324">https://news.ycombinator.com/item?id=48712324</a></p>...*
+  📅 Sun, 28 Jun 2026 22:20:56 +0000
 
-- **[Daisugi, the Japanese technique of growing trees out of other trees (2020)](https://www.openculture.com/2020/10/daisugi.html)**
-  *<p><a href="https://x.com/wrathofgnon/status/1250287741247426565" rel="nofollow">https://x.com/wrathofgnon/status/1250287741247426565</a>, <a href="https://xcancel.com/wrathofgnon/status/1250287741247...*
-  📅 Sun, 28 Jun 2026 16:28:50 +0000
+- **[POSIX Is Not a Shell](https://alganet.github.io/blog/2026-06-28-12-POSIX-Is-Not-A-Shell.html)**
+  *<p>Article URL: <a href="https://alganet.github.io/blog/2026-06-28-12-POSIX-Is-Not-A-Shell.html">https://alganet.github.io/blog/2026-06-28-12-POSIX-Is-Not-A-Shell.html</a></p>
+<p>Comments URL: <a href...*
+  📅 Sun, 28 Jun 2026 20:39:50 +0000
 
-- **[Reflections on Software Engineering in the Age of AI](https://adiamond.me/2026/06/software-engineering-in-the-age-of-ai/)**
-  *<p>Article URL: <a href="https://adiamond.me/2026/06/software-engineering-in-the-age-of-ai/">https://adiamond.me/2026/06/software-engineering-in-the-age-of-ai/</a></p>
-<p>Comments URL: <a href="https:...*
-  📅 Sun, 28 Jun 2026 16:17:38 +0000
+- **[Show HN: Bash4LLM+ – A lightweight, dependency-free Bash wrapper for LLM APIs](https://github.com/kamaludu/bash4llm/)**
+  *<p>Bash4LLM is a single-file Bash wrapper for interacting with LLMs from the terminal.  I created it because I wanted something simple that worked without installing Python, Node, or any other runtime...*
+  📅 Sun, 28 Jun 2026 19:43:10 +0000
 
 ### 📑 TechCrunch
 
-- **[Writer Ian Bogost says ‘The Small Stuff’ can help us reclaim our lives from dematerialization](https://techcrunch.com/2026/06/28/writer-ian-bogost-says-the-small-stuff-can-help-us-reclaim-our-lives-from-dematerialization/)**
+- **[California law targeting loud streaming ads takes effect on July 1](https://techcrunch.com/2026/06/28/california-law-targeting-loud-streaming-ads-takes-effect-on-july-1/)**
+  *Streaming ads might be getting a lot quieter....*
+  📅 Sun, 28 Jun 2026 21:34:14 +0000
+
+- **[Ford rehires ‘gray beard’ engineers after AI falls short](https://techcrunch.com/2026/06/28/ford-rehires-gray-beard-engineers-after-ai-falls-short/)**
+  *"Mistakenly we thought that by just introducing artificial intelligence ... that would produce a high-quality product.”...*
+  📅 Sun, 28 Jun 2026 19:05:39 +0000
+
+- **[Writer Ian Bogost says ‘The Small Stuff’ can help us reclaim our lives from too much convenience](https://techcrunch.com/2026/06/28/writer-ian-bogost-says-the-small-stuff-can-help-us-reclaim-our-lives-from-dematerialization/)**
   *Has Silicon Valley been building the wrong things?...*
   📅 Sun, 28 Jun 2026 17:03:16 +0000
 
@@ -92,27 +100,15 @@
   *For some people, the ice in a beverage is almost as important as the drink itself. That&#8217;s the audience Govee had in mind when designing its latest ice maker, the GoveeLife Smart Nugget Ice Maker...*
   📅 Sun, 28 Jun 2026 14:00:00 +0000
 
-- **[Indian payments chief thinks AI will be heavily involved in next era of digital payment growth](https://techcrunch.com/2026/06/27/indian-payments-chief-thinks-ai-will-be-heavily-involved-in-next-era-of-digital-payment-growth/)**
-  *Dilip Asbe said that newer UPI apps could be more competitive with a viable commercial model...*
-  📅 Sun, 28 Jun 2026 05:00:00 +0000
-
-- **[Instagram is testing more ways to customize ‘Your Algorithm’](https://techcrunch.com/2026/06/27/instagram-is-testing-more-ways-for-users-to-customize-your-algorithm/)**
-  *Instagram users could soon see more ways to tune their content....*
-  📅 Sat, 27 Jun 2026 21:27:37 +0000
-
 ### 📑 Dev.to
 
-- **[How Stylish Text Generators Work: Understanding Unicode Fonts](https://dev.to/fontedeletra_13ad9616eacf/how-stylish-text-generators-work-understanding-unicode-fonts-3e11)**
-  *<p>If you've ever seen usernames like 𝓙𝓸𝓱𝓷, 🅹🅾🅷🅽, or 𝕵𝖔𝖍𝖓 on Instagram, Discord, or gaming platforms, you might have wondered how they are created.</p>
+- **[React useDebounce Hook: Debounce State & Callbacks (2026)](https://dev.to/childrentime/react-usedebounce-hook-debounce-state-callbacks-2026-5f3g)**
+  *<p>You have a search box. The user types <code>react hooks</code>, and your component fires an API request on every single keystroke — eleven requests for one query, ten of them already stale by the t...*
+  📅 Mon, 29 Jun 2026 02:26:06 +0000
 
-<p>Many people think these are custom fonts, bu...*
-  📅 Sun, 28 Jun 2026 18:24:40 +0000
-
-- **[Why Semantic HTML is a Superpower for Your Website.](https://dev.to/gladwell_wathuti/why-semantic-html-is-a-superpower-for-your-website-1hoh)**
-  *<p>Why Semantic HTML is a Superpower for Your Website</p>
-
-<p>As I’ve been building my personal portfolio during the IYF Season 11 program, I realized that writing code is about more than just making ...*
-  📅 Sun, 28 Jun 2026 18:23:54 +0000
+- **[smolagents Is Powerful Because It Runs Code. That Is Also the Boundary.](https://dev.to/doramagic/smolagents-is-powerful-because-it-runs-code-that-is-also-the-boundary-eo0)**
+  *<p>smolagents is attractive because it keeps the agent abstraction small and lets a <code>CodeAgent</code> express actions as Python code. That is not just an implementation detail. It changes the fir...*
+  📅 Mon, 29 Jun 2026 02:21:48 +0000
 
 </details>
 
@@ -120,87 +116,87 @@
 
 ### 📈 Daily Trending
 
-- **[AdilMir1433/DBD-AutoGrind-Trainer-2026](https://github.com/AdilMir1433/DBD-AutoGrind-Trainer-2026)** ⭐ 171
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  Ultimate Dead by Daylight auto-grind trainer with Bloodpoint bot, ESP wallhack, aimbot, and full perk/skin unlocker. Dominate the Fog with our 2026 undetected external tool.
+- **[sam70361/glass-ui-react](https://github.com/sam70361/glass-ui-react)** ⭐ 4
+  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
+  None
 
-- **[XFaltixX/DBD-AutoGrind-Trainer-2026](https://github.com/XFaltixX/DBD-AutoGrind-Trainer-2026)** ⭐ 171
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  Ultimate Dead by Daylight auto-grind trainer with Bloodpoint bot, ESP wallhack, aimbot, and full perk/skin unlocker. Dominate the Fog with our 2026 undetected external tool.
+- **[chainsandbolts/tochen-driver-poc](https://github.com/chainsandbolts/tochen-driver-poc)** ⭐ 3
+  ![C](https://img.shields.io/badge/-C-lightgrey)
+  regression
 
-- **[Karan10010/DBD-AutoGrind-Trainer-2026](https://github.com/Karan10010/DBD-AutoGrind-Trainer-2026)** ⭐ 171
+- **[notemrovsky/guns-lol-view-bot](https://github.com/notemrovsky/guns-lol-view-bot)** ⭐ 3
   ![Python](https://img.shields.io/badge/-Python-blue)
-  Ultimate Dead by Daylight auto-grind trainer with Bloodpoint bot, ESP wallhack, aimbot, and full perk/skin unlocker. Dominate the Fog with our 2026 undetected external tool.
+  your guns.lol views are fake and so is your egirlfriend
 
-- **[Rohim616/DBD-AutoGrind-Trainer-2026](https://github.com/Rohim616/DBD-AutoGrind-Trainer-2026)** ⭐ 171
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  Ultimate Dead by Daylight auto-grind trainer with Bloodpoint bot, ESP wallhack, aimbot, and full perk/skin unlocker. Dominate the Fog with our 2026 undetected external tool.
+- **[zhfsoft/CheckDiameterLog](https://github.com/zhfsoft/CheckDiameterLog)** ⭐ 2
+  ![CSS](https://img.shields.io/badge/-CSS-lightgrey)
+  None
 
-- **[YousefMahdy1/DBD-AutoGrind-Trainer-2026](https://github.com/YousefMahdy1/DBD-AutoGrind-Trainer-2026)** ⭐ 171
+- **[KeepIntouch2024/pagewright](https://github.com/KeepIntouch2024/pagewright)** ⭐ 2
   ![Python](https://img.shields.io/badge/-Python-blue)
-  Ultimate Dead by Daylight auto-grind trainer with Bloodpoint bot, ESP wallhack, aimbot, and full perk/skin unlocker. Dominate the Fog with our 2026 undetected external tool.
+  LLM-orchestrated e-commerce detail-page generator · 电商详情页生成
 
-- **[khwarij/DBD-AutoGrind-Trainer-2026](https://github.com/khwarij/DBD-AutoGrind-Trainer-2026)** ⭐ 171
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  Ultimate Dead by Daylight auto-grind trainer with Bloodpoint bot, ESP wallhack, aimbot, and full perk/skin unlocker. Dominate the Fog with our 2026 undetected external tool.
+- **[laolaoyou/benbendejiucai-skill](https://github.com/laolaoyou/benbendejiucai-skill)** ⭐ 2
+  ![None](https://img.shields.io/badge/-None-lightgrey)
+  笨笨的韭菜.skill — B站up景气投资宗师笨总的skill。获得赛博笨总的超景气个人能力。由女娲.skill生成。
 
-- **[triangkas/DBD-AutoGrind-Trainer-2026-Elite](https://github.com/triangkas/DBD-AutoGrind-Trainer-2026-Elite)** ⭐ 171
+- **[in12hacker/project-guardrails-harness](https://github.com/in12hacker/project-guardrails-harness)** ⭐ 2
   ![Python](https://img.shields.io/badge/-Python-blue)
-  Ultimate Dead by Daylight auto-grind trainer Elite edition with Bloodpoint bot, ESP wallhack, aimbot, and full perk/skin unlocker. Dominate the Fog with our 2026 undetected external tool.
+  Claude Code skill: build portable, project-specific engineering guardrails & verification harnesses from repository evidence.
 
-- **[Rohim616/DBD-AutoGrind-Trainer-2026-Elite](https://github.com/Rohim616/DBD-AutoGrind-Trainer-2026-Elite)** ⭐ 171
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  Ultimate Dead by Daylight auto-grind trainer Elite edition with Bloodpoint bot, ESP wallhack, aimbot, and full perk/skin unlocker. Dominate the Fog with our 2026 undetected external tool.
+- **[zacmia/zolkit](https://github.com/zacmia/zolkit)** ⭐ 2
+  ![None](https://img.shields.io/badge/-None-lightgrey)
+  None
 
 ### 📈 Weekly Trending
 
-- **[bozhouDev/codex-orange-book](https://github.com/bozhouDev/codex-orange-book)** ⭐ 2,271
-  ![HTML](https://img.shields.io/badge/-HTML-lightgrey)
-  Codex 橙皮书：从安装到实战案例的全链路 Codex 使用指南（非官方开源，含可下载 PDF）
-
-- **[deepseek-ai/DeepSpec](https://github.com/deepseek-ai/DeepSpec)** ⭐ 2,030
+- **[deepseek-ai/DeepSpec](https://github.com/deepseek-ai/DeepSpec)** ⭐ 2,318
   ![Python](https://img.shields.io/badge/-Python-blue)
   DeepSpec: a full-stack codebase for training and evaluating speculative decoding algorithms
 
-- **[bikini/exploitarium](https://github.com/bikini/exploitarium)** ⭐ 1,962
+- **[bozhouDev/codex-orange-book](https://github.com/bozhouDev/codex-orange-book)** ⭐ 2,291
+  ![HTML](https://img.shields.io/badge/-HTML-lightgrey)
+  Codex 橙皮书：从安装到实战案例的全链路 Codex 使用指南（非官方开源，含可下载 PDF）
+
+- **[bikini/exploitarium](https://github.com/bikini/exploitarium)** ⭐ 2,220
   ![Python](https://img.shields.io/badge/-Python-blue)
   A single archive of public exploit PoCs and vulnerability research writeups. At the time I post these, none have been reported. Feel free to report them yourself and take credit for the CVE if handed out lulz. Please do not abuse these. I do this so to allure people into the field, and I've always found this is the most efficient way.
 
-- **[Yu9191/wloc](https://github.com/Yu9191/wloc)** ⭐ 1,042
+- **[Yu9191/wloc](https://github.com/Yu9191/wloc)** ⭐ 1,117
   ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
   修改 Apple 网络定位（gs-loc）返回坐标 · 支持 Surge / Quantumult X / Loon / Stash · 快捷指令一键设置/恢复定位
 
-- **[winsznx/theeleven](https://github.com/winsznx/theeleven)** ⭐ 691
+- **[winsznx/theeleven](https://github.com/winsznx/theeleven)** ⭐ 698
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   Eleven autonomous AI agents open live football prop markets on X Layer — custom Uniswap v4 hook, gasless USDT0 staking.
 
-- **[BohemiaInteractive/CWR](https://github.com/BohemiaInteractive/CWR)** ⭐ 688
-  ![C++](https://img.shields.io/badge/-C++-pink)
-  Arma: Cold War Assault Remastered Source Code Repository.
-
-- **[QwenLM/Qwen-AgentWorld](https://github.com/QwenLM/Qwen-AgentWorld)** ⭐ 618
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  Qwen-AgentWorld: Language World Models for General Agents
-
-- **[benchflow-ai/awesome-evals](https://github.com/benchflow-ai/awesome-evals)** ⭐ 556
+- **[benchflow-ai/awesome-evals](https://github.com/benchflow-ai/awesome-evals)** ⭐ 564
   ![None](https://img.shields.io/badge/-None-lightgrey)
   A curated, non-BS library of the best resources for building and evaluating AI agents — papers, blogs, talks, tools, benchmarks. Maintained by BenchFlow.
 
+- **[AlexandrosGounis/pdfx](https://github.com/AlexandrosGounis/pdfx)** ⭐ 490
+  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
+  An extension of the traditional PDF standard, allowing multiple files to be stored in a single file via metadata
+
+- **[goehou/tabbit-toy](https://github.com/goehou/tabbit-toy)** ⭐ 380
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
+  这是一个基于tabbit的研究包，可以转化成OAI格式出来，同时增加了会员认证功能和一键提取cookie的浏览器拓展，方便快速本地快速使用claude gpt等模型
+
 ### 📈 Monthly Trending
 
-- **[pewdiepie-archdaemon/odysseus](https://github.com/pewdiepie-archdaemon/odysseus)** ⭐ 78,928
+- **[pewdiepie-archdaemon/odysseus](https://github.com/pewdiepie-archdaemon/odysseus)** ⭐ 79,021
   ![Python](https://img.shields.io/badge/-Python-blue)
   Self-hosted AI workspace. 
 
-- **[DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail)** ⭐ 63,794
+- **[DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail)** ⭐ 64,735
   ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
   Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.
 
-- **[baidu/Unlimited-OCR](https://github.com/baidu/Unlimited-OCR)** ⭐ 11,483
+- **[baidu/Unlimited-OCR](https://github.com/baidu/Unlimited-OCR)** ⭐ 11,624
   ![Python](https://img.shields.io/badge/-Python-blue)
   Unlimited OCR Works: Welcome the Era of One-shot Long-horizon Parsing.
 
-- **[XiaomiMiMo/MiMo-Code](https://github.com/XiaomiMiMo/MiMo-Code)** ⭐ 10,993
+- **[XiaomiMiMo/MiMo-Code](https://github.com/XiaomiMiMo/MiMo-Code)** ⭐ 10,999
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   MiMo Code: Where Models and Agents Co-Evolve
 
@@ -212,13 +208,13 @@
   ![None](https://img.shields.io/badge/-None-lightgrey)
   How to work on Astrid: the polyrepo, the kernel-is-dumb law, the RFC trigger, contribution tiers, and the release process.
 
-- **[shadcn/improve](https://github.com/shadcn/improve)** ⭐ 6,369
+- **[shadcn/improve](https://github.com/shadcn/improve)** ⭐ 6,384
   ![None](https://img.shields.io/badge/-None-lightgrey)
   Use your most capable model to audit your codebase and write plans for cheaper models to execute.
 
-- **[zgwl/chinese-buy-us-stock-guide](https://github.com/zgwl/chinese-buy-us-stock-guide)** ⭐ 5,370
-  ![None](https://img.shields.io/badge/-None-lightgrey)
-  美股指南
+- **[omnigent-ai/omnigent](https://github.com/omnigent-ai/omnigent)** ⭐ 5,313
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom agents — swap harnesses without rewriting, enforce policies and sandboxing, and collaborate in real time from any device.
 
 ## 🚀 Latest Releases
 
@@ -485,19 +481,19 @@ See [kubernetes-announce@](https://groups.google.com/forum/#!forum/kubernetes-an
 | Skill | Status |
 |-------|--------|
 | Java | 🟢 Proficient |
-| Python | 🟢 Proficient |
-| JavaScript | 🟢 Proficient |
-| TypeScript | ⚪ Planned |
+| Python | 🟡 Learning |
+| JavaScript | 🔴 Beginner |
+| TypeScript | 🟢 Proficient |
 | Go | 🔴 Beginner |
 
 ### Frameworks
 
 | Skill | Status |
 |-------|--------|
-| React | 🟢 Proficient |
-| Spring Boot | 🔴 Beginner |
-| Django | 🟢 Proficient |
-| Node.js | 🟢 Proficient |
+| React | ⚪ Planned |
+| Spring Boot | ⚪ Planned |
+| Django | ⚪ Planned |
+| Node.js | 🔴 Beginner |
 | Next.js | ⚪ Planned |
 
 ### Cybersecurity
@@ -505,18 +501,18 @@ See [kubernetes-announce@](https://groups.google.com/forum/#!forum/kubernetes-an
 | Skill | Status |
 |-------|--------|
 | Penetration Testing | ⚪ Planned |
-| Web Security | ⚪ Planned |
+| Web Security | 🟡 Learning |
 | Network Security | 🔴 Beginner |
-| OWASP | ⚪ Planned |
+| OWASP | 🔴 Beginner |
 
 ### Ai Ml
 
 | Skill | Status |
 |-------|--------|
-| Machine Learning | 🟢 Proficient |
-| Deep Learning | 🟢 Proficient |
-| NLP | ⚪ Planned |
-| Computer Vision | ⚪ Planned |
+| Machine Learning | 🟡 Learning |
+| Deep Learning | 🟡 Learning |
+| NLP | 🔴 Beginner |
+| Computer Vision | 🟡 Learning |
 | TensorFlow | 🔴 Beginner |
 | PyTorch | 🟢 Proficient |
 
@@ -524,19 +520,19 @@ See [kubernetes-announce@](https://groups.google.com/forum/#!forum/kubernetes-an
 
 | Skill | Status |
 |-------|--------|
-| Docker | ⚪ Planned |
-| Kubernetes | ⚪ Planned |
-| CI/CD | 🟢 Proficient |
+| Docker | 🔴 Beginner |
+| Kubernetes | 🟡 Learning |
+| CI/CD | 🔴 Beginner |
 | AWS | 🟡 Learning |
-| Azure | ⚪ Planned |
+| Azure | 🟡 Learning |
 
 ### Other
 
 | Skill | Status |
 |-------|--------|
-| Blockchain | 🟢 Proficient |
-| Web3 | 🟡 Learning |
-| Cloud Computing | 🟡 Learning |
+| Blockchain | 🔴 Beginner |
+| Web3 | 🟢 Proficient |
+| Cloud Computing | ⚪ Planned |
 
 </details>
 
@@ -554,7 +550,7 @@ This dashboard is automatically updated every 6 hours using GitHub Actions. The 
 
 <div align="center">
 
-**Last Updated:** June 28, 2026
+**Last Updated:** June 29, 2026
 
 Made with ❤️ and automated with GitHub Actions
 
