@@ -46,36 +46,40 @@
 
 ### 📑 Hacker News
 
-- **[US Supreme Court Just Blew Up EU-US Data Transfers](https://noyb.eu/en/us-supreme-court-just-blew-eu-us-data-transfers)**
-  *<p>Article URL: <a href="https://noyb.eu/en/us-supreme-court-just-blew-eu-us-data-transfers">https://noyb.eu/en/us-supreme-court-just-blew-eu-us-data-transfers</a></p>
-<p>Comments URL: <a href="https:...*
-  📅 Tue, 30 Jun 2026 05:17:02 +0000
+- **[Memoirs of Extraordinary Popular Delusions and the Madness of Crowds](https://www.gutenberg.org/ebooks/24518)**
+  *<p>Article URL: <a href="https://www.gutenberg.org/ebooks/24518">https://www.gutenberg.org/ebooks/24518</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=48731989">https://news.yc...*
+  📅 Tue, 30 Jun 2026 12:47:51 +0000
 
-- **[Popping the GPU Bubble](https://moondream.ai/blog/popping-the-gpu-bubble)**
-  *<p>Article URL: <a href="https://moondream.ai/blog/popping-the-gpu-bubble">https://moondream.ai/blog/popping-the-gpu-bubble</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=48728...*
-  📅 Tue, 30 Jun 2026 05:14:35 +0000
+- **[Parse, Don't Validate – In a Language That Doesn't Want You To](https://cekrem.github.io/posts/parse-dont-validate-typescript/)**
+  *<p>Article URL: <a href="https://cekrem.github.io/posts/parse-dont-validate-typescript/">https://cekrem.github.io/posts/parse-dont-validate-typescript/</a></p>
+<p>Comments URL: <a href="https://news.y...*
+  📅 Tue, 30 Jun 2026 10:48:23 +0000
 
-- **[The end of the AArch64 desktop experiment](https://marcin.juszkiewicz.com.pl/2026/06/26/the-end-of-the-aarch64-desktop-experiment/)**
-  *<p>Article URL: <a href="https://marcin.juszkiewicz.com.pl/2026/06/26/the-end-of-the-aarch64-desktop-experiment/">https://marcin.juszkiewicz.com.pl/2026/06/26/the-end-of-the-aarch64-desktop-experiment...*
-  📅 Tue, 30 Jun 2026 04:51:12 +0000
+- **[European digital ID wallets rely on safety services of Google and Apple](https://waag.org/en/article/european-digital-id-wallets-are-gift-google-and-apple/)**
+  *<p>Article URL: <a href="https://waag.org/en/article/european-digital-id-wallets-are-gift-google-and-apple/">https://waag.org/en/article/european-digital-id-wallets-are-gift-google-and-apple/</a></p>
+...*
+  📅 Tue, 30 Jun 2026 10:36:23 +0000
 
-- **[Exploring PDP-1 Lisp (1960)](https://obsolescence.dev/pdp1-lisp-introduction.html)**
-  *<p>Article URL: <a href="https://obsolescence.dev/pdp1-lisp-introduction.html">https://obsolescence.dev/pdp1-lisp-introduction.html</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?...*
-  📅 Tue, 30 Jun 2026 00:56:42 +0000
+- **[Zluda 6 release (run unmodified CUDA applications on non-Nvidia GPUs)](https://vosen.github.io/ZLUDA/blog/zluda-update-q1q2-2026/)**
+  *<p>Article URL: <a href="https://vosen.github.io/ZLUDA/blog/zluda-update-q1q2-2026/">https://vosen.github.io/ZLUDA/blog/zluda-update-q1q2-2026/</a></p>
+<p>Comments URL: <a href="https://news.ycombinat...*
+  📅 Tue, 30 Jun 2026 10:34:25 +0000
 
-- **[Memory Safe Context Switching](https://fil-c.org/context_switches)**
-  *<p>Article URL: <a href="https://fil-c.org/context_switches">https://fil-c.org/context_switches</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=48727177">https://news.ycombinato...*
-  📅 Tue, 30 Jun 2026 00:38:19 +0000
+- **[Exercise intensity influences body composition in healthy older adults (2025)](https://www.maturitas.org/article/S0378-5122(25)00571-7/fulltext)**
+  *<p>Article URL: <a href="https://www.maturitas.org/article/S0378-5122(25)00571-7/fulltext">https://www.maturitas.org/article/S0378-5122(25)00571-7/fulltext</a></p>
+<p>Comments URL: <a href="https://ne...*
+  📅 Tue, 30 Jun 2026 10:31:02 +0000
 
-- **[LongCat-2.0, a large-scale MoE model with 1.6T total and 48B Active](https://longcat.chat/blog/longcat-2.0/)**
-  *<p>Article URL: <a href="https://longcat.chat/blog/longcat-2.0/">https://longcat.chat/blog/longcat-2.0/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=48727116">https://news.yc...*
-  📅 Tue, 30 Jun 2026 00:30:11 +0000
+- **[The US ambassador had Belgian police stop our reporting](https://europeancorrespondent.com/en/r/the-us-ambassador-had-belgian-police-stop-our-reporting)**
+  *<p>Article URL: <a href="https://europeancorrespondent.com/en/r/the-us-ambassador-had-belgian-police-stop-our-reporting">https://europeancorrespondent.com/en/r/the-us-ambassador-had-belgian-police-sto...*
+  📅 Tue, 30 Jun 2026 10:15:15 +0000
 
 ### 📑 TechCrunch
+
+- **[Crypto exchange OKX wants AI agents to hire and pay each other](https://techcrunch.com/2026/06/30/crypto-exchange-okx-wants-ai-agents-to-hire-and-pay-each-other/)**
+  *OKX is bringing together payments, identity, and reputation into a marketplace for AI agents....*
+  📅 Tue, 30 Jun 2026 09:00:00 +0000
 
 - **[The AI jobs debate just got messier](https://techcrunch.com/2026/06/29/the-ai-jobs-debate-just-got-messier/)**
   *A new report finds "high-intensity AI adopters” saw headcount increase 10.2%. Among those companies, entry-level headcount rose by 12%, countering the rhetoric that AI kills junior jobs....*
@@ -97,21 +101,21 @@
   *Kobo users can now automatically sync their reading progress to StoryGraph, making it easier to track books, reading stats, and challenges without relying on Amazon’s Goodreads....*
   📅 Mon, 29 Jun 2026 19:06:21 +0000
 
-- **[Waymo and Uber quietly part ways in Phoenix](https://techcrunch.com/2026/06/29/waymo-and-uber-quietly-part-ways-in-phoenix/)**
-  *Uber said it is readying the launch of a separate autonomous vehicle partnership in the city, but did not name the partner....*
-  📅 Mon, 29 Jun 2026 18:45:12 +0000
-
 ### 📑 Dev.to
 
-- **[Your card keeps getting declined by US dev tools. Here is what is actually happening](https://dev.to/tung_fizen/your-card-keeps-getting-declined-by-us-dev-tools-here-is-what-is-actually-happening-2nh4)**
-  *<p><strong>TL;DR:</strong> SaaS declines outside the US are almost always a risk decision, not a balance problem. Fix the billing address first, then use a card built for global online spend.</p>
+- **[I am building self-hosted business tools for small teams in Japan](https://dev.to/hideyukimori/i-am-building-self-hosted-business-tools-for-small-teams-in-japan-4i26)**
+  *<p>I have been building a small family of open source business tools called the <strong>NeNe</strong> series.</p>
 
-<p>...*
-  📅 Tue, 30 Jun 2026 08:47:37 +0000
+<p>The idea is simple:</p>
 
-- **[I Wrote a Claude Skill That Sets Up Loop Engineering in Your Repo](https://dev.to/sxivansx/i-wrote-a-claude-skill-that-sets-up-loop-engineering-in-your-repo-2pok)**
-  *<p>For months I used my coding agent the same way most people do: write a prompt, read the reply, write the next prompt. I was the loop. I was the thing deciding what came next and noticing when it dr...*
-  📅 Tue, 30 Jun 2026 08:46:13 +0000
+<p><strong>small teams should be able to run useful busin...*
+  📅 Tue, 30 Jun 2026 13:51:32 +0000
+
+- **[i built an auto-apply tool, then found most "applications" never confirm they submitted](https://dev.to/whateverneveranywhere/i-built-an-auto-apply-tool-then-found-most-applications-never-confirm-they-submitted-1ink)**
+  *<p>solo founder, building in public. short writeup of the one engineering problem that became the whole product.</p>
+
+<p>i built a thing that auto-applies to jobs. the easy 90% is filling the form and...*
+  📅 Tue, 30 Jun 2026 13:50:38 +0000
 
 </details>
 
@@ -119,105 +123,105 @@
 
 ### 📈 Daily Trending
 
-- **[TianhangZhuzth/Fundamental-Ava](https://github.com/TianhangZhuzth/Fundamental-Ava)** ⭐ 181
+- **[TianhangZhuzth/Fundamental-Ava](https://github.com/TianhangZhuzth/Fundamental-Ava)** ⭐ 460
   ![Python](https://img.shields.io/badge/-Python-blue)
   Build digital human beings — autonomous, collaborative, and socially intelligent agents.
+
+- **[WidthEvokerKiln/Warzone-Vision](https://github.com/WidthEvokerKiln/Warzone-Vision)** ⭐ 101
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  🛡️ Warzone-Vision – free tool for Call of Duty Warzone with player overlay, target locking, stabilizer, and more. Dominate the battlefield! For educational purposes only.
 
 - **[shalaluecka/Ancient-Rust-2026](https://github.com/shalaluecka/Ancient-Rust-2026)** ⭐ 87
   ![None](https://img.shields.io/badge/-None-lightgrey)
   An open-source performance optimizer, crosshair overlay, and recoil analysis utility for Rust. Designed for training, tactical coordinate calculation, and game configuration management. Safe and non-intrusive.
 
+- **[singletary2/Exodus-Fake-Balance](https://github.com/singletary2/Exodus-Fake-Balance)** ⭐ 62
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  Exodus Fake Balance — Native balance overlay tool for Exodus wallet with real-time spoofing across BTC, ETH, SOL, XRP and 200+ assets, persistent hooks, and screenshot-safe display rendering
+
+- **[OpenCPIL/prima.cpp](https://github.com/OpenCPIL/prima.cpp)** ⭐ 39
+  ![C++](https://img.shields.io/badge/-C++-pink)
+  [Official] prima.cpp: Fast 30-70B LLM inference on heterogeneous and everyday home devices
+
 - **[Kenia1989/Flash-USDT-Sender](https://github.com/Kenia1989/Flash-USDT-Sender)** ⭐ 33
   ![Python](https://img.shields.io/badge/-Python-blue)
   Flash USDT Sender — Multi-network flash transaction tool for USDT, BTC, and ETH with configurable duration, custom gas settings, ERC-20/TRC-20/BEP-20 support, and block explorer-visible confirmations
 
-- **[OpenCPIL/prima.cpp](https://github.com/OpenCPIL/prima.cpp)** ⭐ 31
+- **[tony-devb/seed-phrase-generator](https://github.com/tony-devb/seed-phrase-generator)** ⭐ 28
   ![C++](https://img.shields.io/badge/-C++-pink)
-  [Official] prima.cpp: Fast 30-70B LLM inference on heterogeneous and everyday home devices
+  Seed phrase generator and checker for BTC and ETH wallets. Recovery your lost Bitcoin & Ethereum wallet via brute force and brain wallet checker.
 
-- **[CoderPoet/signal-app](https://github.com/CoderPoet/signal-app)** ⭐ 16
-  ![None](https://img.shields.io/badge/-None-lightgrey)
-  None
-
-- **[pickrui/oixcloud-external-proxy-program](https://github.com/pickrui/oixcloud-external-proxy-program)** ⭐ 15
-  ![None](https://img.shields.io/badge/-None-lightgrey)
-  oixcloud external-proxy helper — distribution (docs + binaries via Releases)
-
-- **[nguyentrieu210/labor-crm-gas](https://github.com/nguyentrieu210/labor-crm-gas)** ⭐ 13
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
-  Thành công — Hệ thống quản lý điều hành: Labor CRM tuyển dụng/cung ứng lao động FDI trên Google Apps Script + Google Sheets (phễu tuyển dụng, KPI tuần, công nợ, chăm sóc KH, RBAC 3 tầng)
-
-- **[siripepo1-bit/Sims-4-Respocket_DLC_Unlocker](https://github.com/siripepo1-bit/Sims-4-Respocket_DLC_Unlocker)** ⭐ 11
-  ![None](https://img.shields.io/badge/-None-lightgrey)
-  A universal DLC manager for Sims 4
+- **[driver-easy-pro-pc/driver-easy](https://github.com/driver-easy-pro-pc/driver-easy)** ⭐ 25
+  ![CSS](https://img.shields.io/badge/-CSS-lightgrey)
+  Driver Easy Pro 2026 – Professional Driver Update & Hardware Management Software
 
 ### 📈 Weekly Trending
 
-- **[deepseek-ai/DeepSpec](https://github.com/deepseek-ai/DeepSpec)** ⭐ 4,514
+- **[deepseek-ai/DeepSpec](https://github.com/deepseek-ai/DeepSpec)** ⭐ 4,873
   ![Python](https://img.shields.io/badge/-Python-blue)
   DeepSpec: a full-stack codebase for training and evaluating speculative decoding algorithms
 
-- **[Yu9191/wloc](https://github.com/Yu9191/wloc)** ⭐ 1,714
+- **[Yu9191/wloc](https://github.com/Yu9191/wloc)** ⭐ 1,805
   ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
   修改 Apple 网络定位（gs-loc）返回坐标 · 支持 Surge / Quantumult X / Loon / Stash · 快捷指令一键设置/恢复定位
 
-- **[Krishnagangwal/CS-Fundamentals](https://github.com/Krishnagangwal/CS-Fundamentals)** ⭐ 1,056
-  ![None](https://img.shields.io/badge/-None-lightgrey)
-  Curated CS fundamentals for placement prep: DSA,Computer Networks, DBMS & SQL, OOPs, Operating Systems, System Design & Software Engineering
-
-- **[baairon/torlink](https://github.com/baairon/torlink)** ⭐ 866
+- **[baairon/torlink](https://github.com/baairon/torlink)** ⭐ 1,123
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   A sleek, zero-setup torrent finder and downloader that lives right in your terminal.
+
+- **[Krishnagangwal/CS-Fundamentals](https://github.com/Krishnagangwal/CS-Fundamentals)** ⭐ 1,121
+  ![None](https://img.shields.io/badge/-None-lightgrey)
+  Curated CS fundamentals for placement prep: DSA,Computer Networks, DBMS & SQL, OOPs, Operating Systems, System Design & Software Engineering
 
 - **[winsznx/theeleven](https://github.com/winsznx/theeleven)** ⭐ 716
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   Eleven autonomous AI agents open live football prop markets on X Layer — custom Uniswap v4 hook, gasless USDT0 staking.
 
-- **[yynxxxxx/Codex-5.5-codex-instruct-5.5](https://github.com/yynxxxxx/Codex-5.5-codex-instruct-5.5)** ⭐ 633
+- **[yynxxxxx/Codex-5.5-codex-instruct-5.5](https://github.com/yynxxxxx/Codex-5.5-codex-instruct-5.5)** ⭐ 686
   ![Python](https://img.shields.io/badge/-Python-blue)
   None
 
-- **[benchflow-ai/awesome-evals](https://github.com/benchflow-ai/awesome-evals)** ⭐ 593
+- **[benchflow-ai/awesome-evals](https://github.com/benchflow-ai/awesome-evals)** ⭐ 597
   ![None](https://img.shields.io/badge/-None-lightgrey)
   A curated, non-BS library of the best resources for building and evaluating AI agents — papers, blogs, talks, tools, benchmarks. Maintained by BenchFlow.
 
-- **[AlexandrosGounis/pdfx](https://github.com/AlexandrosGounis/pdfx)** ⭐ 578
+- **[AlexandrosGounis/pdfx](https://github.com/AlexandrosGounis/pdfx)** ⭐ 590
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   An extension of the traditional PDF standard, allowing multiple files to be stored in a single file via metadata
 
 ### 📈 Monthly Trending
 
-- **[DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail)** ⭐ 68,052
+- **[DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail)** ⭐ 68,538
   ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
   Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.
 
-- **[baidu/Unlimited-OCR](https://github.com/baidu/Unlimited-OCR)** ⭐ 12,253
+- **[baidu/Unlimited-OCR](https://github.com/baidu/Unlimited-OCR)** ⭐ 12,340
   ![Python](https://img.shields.io/badge/-Python-blue)
   Unlimited OCR Works: Welcome the Era of One-shot Long-horizon Parsing.
 
-- **[XiaomiMiMo/MiMo-Code](https://github.com/XiaomiMiMo/MiMo-Code)** ⭐ 11,101
+- **[XiaomiMiMo/MiMo-Code](https://github.com/XiaomiMiMo/MiMo-Code)** ⭐ 11,125
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   MiMo Code: Where Models and Agents Co-Evolve
 
-- **[unicity-astrid/book](https://github.com/unicity-astrid/book)** ⭐ 7,539
+- **[unicity-astrid/book](https://github.com/unicity-astrid/book)** ⭐ 7,536
   ![Perl](https://img.shields.io/badge/-Perl-lightgrey)
   The canonical reference for Astrid OS: kernel, capsules, host ABI, the bus, and the security model.
 
-- **[unicity-astrid/handbook](https://github.com/unicity-astrid/handbook)** ⭐ 7,487
+- **[unicity-astrid/handbook](https://github.com/unicity-astrid/handbook)** ⭐ 7,484
   ![None](https://img.shields.io/badge/-None-lightgrey)
   How to work on Astrid: the polyrepo, the kernel-is-dumb law, the RFC trigger, contribution tiers, and the release process.
 
-- **[shadcn/improve](https://github.com/shadcn/improve)** ⭐ 6,440
+- **[shadcn/improve](https://github.com/shadcn/improve)** ⭐ 6,447
   ![None](https://img.shields.io/badge/-None-lightgrey)
   Use your most capable model to audit your codebase and write plans for cheaper models to execute.
 
-- **[omnigent-ai/omnigent](https://github.com/omnigent-ai/omnigent)** ⭐ 5,549
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom agents — swap harnesses without rewriting, enforce policies and sandboxing, and collaborate in real time from any device.
-
-- **[XxHuberrr/Mineradio](https://github.com/XxHuberrr/Mineradio)** ⭐ 5,438
+- **[XxHuberrr/Mineradio](https://github.com/XxHuberrr/Mineradio)** ⭐ 5,659
   ![HTML](https://img.shields.io/badge/-HTML-lightgrey)
   一款以电影镜头、粒子视觉和歌词舞台为核心的沉浸式音乐播放器。
+
+- **[omnigent-ai/omnigent](https://github.com/omnigent-ai/omnigent)** ⭐ 5,647
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom agents — swap harnesses without rewriting, enforce policies and sandboxing, and collaborate in real time from any device.
 
 ## 🚀 Latest Releases
 
@@ -484,58 +488,58 @@ See [kubernetes-announce@](https://groups.google.com/forum/#!forum/kubernetes-an
 | Skill | Status |
 |-------|--------|
 | Java | ⚪ Planned |
-| Python | 🔴 Beginner |
+| Python | ⚪ Planned |
 | JavaScript | 🟢 Proficient |
-| TypeScript | 🟢 Proficient |
-| Go | 🔴 Beginner |
+| TypeScript | 🔴 Beginner |
+| Go | ⚪ Planned |
 
 ### Frameworks
 
 | Skill | Status |
 |-------|--------|
-| React | 🟡 Learning |
+| React | ⚪ Planned |
 | Spring Boot | ⚪ Planned |
 | Django | 🟡 Learning |
-| Node.js | 🟡 Learning |
-| Next.js | 🟢 Proficient |
+| Node.js | 🔴 Beginner |
+| Next.js | 🟡 Learning |
 
 ### Cybersecurity
 
 | Skill | Status |
 |-------|--------|
-| Penetration Testing | ⚪ Planned |
-| Web Security | 🔴 Beginner |
+| Penetration Testing | 🔴 Beginner |
+| Web Security | 🟡 Learning |
 | Network Security | 🟡 Learning |
-| OWASP | 🔴 Beginner |
+| OWASP | 🟢 Proficient |
 
 ### Ai Ml
 
 | Skill | Status |
 |-------|--------|
 | Machine Learning | 🟢 Proficient |
-| Deep Learning | 🟡 Learning |
-| NLP | 🟢 Proficient |
-| Computer Vision | 🔴 Beginner |
-| TensorFlow | 🔴 Beginner |
-| PyTorch | ⚪ Planned |
+| Deep Learning | 🟢 Proficient |
+| NLP | 🟡 Learning |
+| Computer Vision | ⚪ Planned |
+| TensorFlow | ⚪ Planned |
+| PyTorch | 🟢 Proficient |
 
 ### Devops
 
 | Skill | Status |
 |-------|--------|
 | Docker | 🔴 Beginner |
-| Kubernetes | ⚪ Planned |
-| CI/CD | 🟢 Proficient |
-| AWS | 🟡 Learning |
-| Azure | 🟢 Proficient |
+| Kubernetes | 🔴 Beginner |
+| CI/CD | 🟡 Learning |
+| AWS | 🟢 Proficient |
+| Azure | 🟡 Learning |
 
 ### Other
 
 | Skill | Status |
 |-------|--------|
-| Blockchain | 🟢 Proficient |
-| Web3 | 🔴 Beginner |
-| Cloud Computing | 🔴 Beginner |
+| Blockchain | ⚪ Planned |
+| Web3 | 🟡 Learning |
+| Cloud Computing | 🟢 Proficient |
 
 </details>
 
