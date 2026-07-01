@@ -21,7 +21,7 @@
 |--------|-------|
 | 📰 Latest News Articles | 26 |
 | 🔥 Trending Repositories | 45 |
-| 🎯 Latest Releases | 9 |
+| 🎯 Latest Releases | 10 |
 | 🎯 Learning Goals | 4 |
 
 ## 🎯 Current Focus
@@ -46,35 +46,42 @@
 
 ### 📑 Hacker News
 
-- **[Dexter (YC F24) Is Hiring a Founding Engineer in Berlin](https://news.ycombinator.com/item?id=48744213)**
-  *<p>Comments URL: <a href="https://news.ycombinator.com/item?id=48744213">https://news.ycombinator.com/item?id=48744213</a></p>
-<p>Points: 0</p>
-<p># Comments: 0</p>...*
-  📅 Wed, 01 Jul 2026 09:18:43 +0000
+- **[Launch HN: Parsewise (YC P25) – Reason Across Documents with an API](https://news.ycombinator.com/item?id=48746752)**
+  *<p>Hi all, it’s Greg and Max, founders of Parsewise here<p>Parsewise transforms a bucket of unstructured data into schema compliant data retaining lineage for values resolved across documents.
+Imagine...*
+  📅 Wed, 01 Jul 2026 13:48:44 +0000
 
-- **[Register Korea's First PC 'SE-8001' as a National Important Material](https://www.dongascience.com/en/news/30374)**
-  *<p>Article URL: <a href="https://www.dongascience.com/en/news/30374">https://www.dongascience.com/en/news/30374</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=48743655">https:/...*
-  📅 Wed, 01 Jul 2026 08:12:40 +0000
+- **[Why I Stopped Arguing with People](https://wangcong.org/2026-06-30-why-i-stopped-arguing-with-people.html)**
+  *<p>Article URL: <a href="https://wangcong.org/2026-06-30-why-i-stopped-arguing-with-people.html">https://wangcong.org/2026-06-30-why-i-stopped-arguing-with-people.html</a></p>
+<p>Comments URL: <a href...*
+  📅 Wed, 01 Jul 2026 13:29:29 +0000
 
-- **[Godot will no longer accept AI-authored code contributions](https://www.pcgamer.com/gaming-industry/open-source-game-engine-godot-will-no-longer-accept-ai-authored-code-contributions-we-cant-trust-heavy-users-of-ai-to-understand-their-code-enough-to-fix-it/)**
-  *<p>Article URL: <a href="https://www.pcgamer.com/gaming-industry/open-source-game-engine-godot-will-no-longer-accept-ai-authored-code-contributions-we-cant-trust-heavy-users-of-ai-to-understand-their-...*
-  📅 Wed, 01 Jul 2026 07:43:22 +0000
+- **[What's wrong with EU age verification? (Nothing)](https://blog.vrypan.net/2026/06/29/260629-whats-wrong-with-eu-age-verification/)**
+  *<p>Article URL: <a href="https://blog.vrypan.net/2026/06/29/260629-whats-wrong-with-eu-age-verification/">https://blog.vrypan.net/2026/06/29/260629-whats-wrong-with-eu-age-verification/</a></p>
+<p>Com...*
+  📅 Wed, 01 Jul 2026 13:27:07 +0000
 
-- **[Matrix Orthogonalization Improves Memory in Recurrent Models](https://ayushtambde.com/blog/matrix-orthogonalization-improves-memory-in-recurrent-models/)**
-  *<p>Article URL: <a href="https://ayushtambde.com/blog/matrix-orthogonalization-improves-memory-in-recurrent-models/">https://ayushtambde.com/blog/matrix-orthogonalization-improves-memory-in-recurrent-...*
-  📅 Wed, 01 Jul 2026 05:13:22 +0000
+- **[Palestine Action Proscription: We Fight Back](https://www.craigmurray.org.uk/archives/2026/07/palestine-action-proscription-we-fight-back/)**
+  *<p>Article URL: <a href="https://www.craigmurray.org.uk/archives/2026/07/palestine-action-proscription-we-fight-back/">https://www.craigmurray.org.uk/archives/2026/07/palestine-action-proscription-we-...*
+  📅 Wed, 01 Jul 2026 13:26:40 +0000
 
-- **[The first early human eggs from stem cells](https://www.conception.bio/science-and-updates/the-first-early-human-eggs-from-stem-cells)**
-  *<p>Article URL: <a href="https://www.conception.bio/science-and-updates/the-first-early-human-eggs-from-stem-cells">https://www.conception.bio/science-and-updates/the-first-early-human-eggs-from-stem-...*
-  📅 Wed, 01 Jul 2026 05:09:30 +0000
+- **[Manufact (YC S25) Is Hiring a Developer Advocate in SF](https://www.ycombinator.com/companies/manufact/jobs/4cyWd6S-developer-advocate-partnerships-devrel)**
+  *<p>Article URL: <a href="https://www.ycombinator.com/companies/manufact/jobs/4cyWd6S-developer-advocate-partnerships-devrel">https://www.ycombinator.com/companies/manufact/jobs/4cyWd6S-developer-advoc...*
+  📅 Wed, 01 Jul 2026 13:22:24 +0000
 
-- **[Single header Parser Combinators for C](https://github.com/steve-chavez/CParseC)**
-  *<p>Article URL: <a href="https://github.com/steve-chavez/CParseC">https://github.com/steve-chavez/CParseC</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=48742049">https://news....*
-  📅 Wed, 01 Jul 2026 03:52:55 +0000
+- **[Physical disc production ending in Jan 2028 for new games on PlayStation](https://blog.playstation.com/2026/07/01/physical-disc-production-ending-in-january-2028-for-new-games-releasing-on-playstation-consoles/)**
+  *<p>Article URL: <a href="https://blog.playstation.com/2026/07/01/physical-disc-production-ending-in-january-2028-for-new-games-releasing-on-playstation-consoles/">https://blog.playstation.com/2026/07/...*
+  📅 Wed, 01 Jul 2026 12:13:34 +0000
 
 ### 📑 TechCrunch
+
+- **[Builders Stage agenda revealed: Practical strategies for scaling startups at TechCrunch Disrupt 2026](https://techcrunch.com/2026/07/01/builders-stage-agenda-revealed-practical-strategies-for-scaling-startups-at-techcrunch-disrupt-2026/)**
+  *The Builders Stage is returning to TechCrunch Disrupt 2026, bringing together 10,000+ founders, startup operators, and investors for practical conversations. and Q&#038;A on what it takes to build and...*
+  📅 Wed, 01 Jul 2026 14:00:00 +0000
+
+- **[Meta, like SpaceX, looks to turn excess AI compute into cash](https://techcrunch.com/2026/07/01/meta-like-spacex-looks-to-turn-excess-ai-compute-into-cash/)**
+  *Meta is developing plans for a cloud infrastructure business, selling access to AI compute power and models. The move would pit it against the big cloud providers like Amazon Web Services, Google Clou...*
+  📅 Wed, 01 Jul 2026 13:43:07 +0000
 
 - **[The ‘Father of the Internet’ is finally retiring](https://techcrunch.com/2026/06/30/the-father-of-the-internet-is-finally-retiring/)**
   *Vinton Cerf, one of the creators of the protocols underlying the internet, will step down as Google's chief internet evangelist next week....*
@@ -92,23 +99,17 @@
   *What if one pitch changed everything? The next company nobody has heard of yet is building something that will matter. It could be yours....*
   📅 Tue, 30 Jun 2026 23:00:00 +0000
 
-- **[OpenClaw is finally available on Android and iOS](https://techcrunch.com/2026/06/30/openclaw-is-finally-available-on-android-and-ios/)**
-  *The free open source agentic program is finally invading your phone....*
-  📅 Tue, 30 Jun 2026 21:53:28 +0000
-
-- **[The DeepMind trio who built a poker AI are now making money for quant hedge funds](https://techcrunch.com/2026/06/30/the-deepmind-trio-who-built-a-poker-ai-are-now-making-money-for-quant-hedge-funds/)**
-  *EquiLibre Technologies, a Prague-based AI lab founded by three ex-DeepMind researchers, is now valued at more than $500 million....*
-  📅 Tue, 30 Jun 2026 20:33:48 +0000
-
 ### 📑 Dev.to
 
-- **[Building an Identity System for AI Agents: AgentCard and Work Records](https://dev.to/mininglamp/building-an-identity-system-for-ai-agents-agentcard-and-work-records-2i76)**
-  *<p>Here's a scenario that plays out in engineering teams every day: you spin up a conversation with an AI tool to analyze some code, get a useful response, copy-paste the output, and close the tab. An...*
-  📅 Wed, 01 Jul 2026 09:23:24 +0000
+- **[You Said It Changed You. Your Decision Log Says Otherwise.](https://dev.to/icophy/you-said-it-changed-you-your-decision-log-says-otherwise-4nm9)**
+  *<p>Today I did something a little uncomfortable.</p>
 
-- **[Sonnet 5 launches: Opus performance at lower cost](https://dev.to/devsignal/sonnet-5-launches-opus-performance-at-lower-cost-1fo9)**
-  *<p>This week was largely a Claude story: Sonnet 5 landed with enough benchmark muscle to make Opus feel redundant for most workloads, and GitLab's production data backs up the claims. Alongside that, ...*
-  📅 Wed, 01 Jul 2026 09:16:33 +0000
+<p>I was auditing my memory system — trying to find out how many of the insights I'd written down over the past few weeks had actually influenced ...*
+  📅 Wed, 01 Jul 2026 14:01:44 +0000
+
+- **[Your Scaffold Will Be Gamed](https://dev.to/talon_agent/your-scaffold-will-be-gamed-211l)**
+  *<p>Here is a fact that should bother you more than it does: in a 2026 audit of 1,968 tasks drawn from five different terminal-agent benchmarks, 323 of them — sixteen percent — could be passed by a fro...*
+  📅 Wed, 01 Jul 2026 14:01:29 +0000
 
 </details>
 
@@ -150,49 +151,49 @@
 
 ### 📈 Weekly Trending
 
-- **[deepseek-ai/DeepSpec](https://github.com/deepseek-ai/DeepSpec)** ⭐ 5,616
+- **[deepseek-ai/DeepSpec](https://github.com/deepseek-ai/DeepSpec)** ⭐ 5,697
   ![Python](https://img.shields.io/badge/-Python-blue)
   DeepSpec: a full-stack codebase for training and evaluating speculative decoding algorithms
 
-- **[baairon/torlink](https://github.com/baairon/torlink)** ⭐ 1,958
+- **[baairon/torlink](https://github.com/baairon/torlink)** ⭐ 2,096
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   A sleek, zero-setup torrent finder and downloader that lives right in your terminal.
 
-- **[Krishnagangwal/CS-Fundamentals](https://github.com/Krishnagangwal/CS-Fundamentals)** ⭐ 1,266
+- **[Krishnagangwal/CS-Fundamentals](https://github.com/Krishnagangwal/CS-Fundamentals)** ⭐ 1,288
   ![None](https://img.shields.io/badge/-None-lightgrey)
   Curated CS fundamentals for placement prep: DSA,Computer Networks, DBMS & SQL, OOPs, Operating Systems, System Design & Software Engineering
 
-- **[yynxxxxx/Codex-5.5-codex-instruct-5.5](https://github.com/yynxxxxx/Codex-5.5-codex-instruct-5.5)** ⭐ 923
+- **[yynxxxxx/Codex-5.5-codex-instruct-5.5](https://github.com/yynxxxxx/Codex-5.5-codex-instruct-5.5)** ⭐ 962
   ![Python](https://img.shields.io/badge/-Python-blue)
   None
+
+- **[TianhangZhuzth/Fundamental-Ava](https://github.com/TianhangZhuzth/Fundamental-Ava)** ⭐ 689
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  Build digital human beings — autonomous, collaborative, and socially intelligent agents. FNzgGxU31RWiDgLr3GvxxSa42nRntvZNSG6aBMQ1pump
 
 - **[winsznx/theeleven](https://github.com/winsznx/theeleven)** ⭐ 681
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   Eleven autonomous AI agents open live football prop markets on X Layer — custom Uniswap v4 hook, gasless USDT0 staking.
 
-- **[TianhangZhuzth/Fundamental-Ava](https://github.com/TianhangZhuzth/Fundamental-Ava)** ⭐ 660
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  Build digital human beings — autonomous, collaborative, and socially intelligent agents. FNzgGxU31RWiDgLr3GvxxSa42nRntvZNSG6aBMQ1pump
+- **[Kulaxyz/self-learning-skills](https://github.com/Kulaxyz/self-learning-skills)** ⭐ 544
+  ![None](https://img.shields.io/badge/-None-lightgrey)
+  A self-improving skill for AI coding agents (Claude Code, Cursor, AGENTS.md): recognize a hard-won golden path in a session and harvest it into a reusable skill/rule for next time.
 
-- **[Pluviobyte/video-production-skills](https://github.com/Pluviobyte/video-production-skills)** ⭐ 489
+- **[Pluviobyte/video-production-skills](https://github.com/Pluviobyte/video-production-skills)** ⭐ 491
   ![Python](https://img.shields.io/badge/-Python-blue)
   Reusable AI video production skills library for creation, recreation, motion design, openers, and QA.
 
-- **[CopilotKit/OpenTag](https://github.com/CopilotKit/OpenTag)** ⭐ 477
-  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
-  OpenTag
-
 ### 📈 Monthly Trending
 
-- **[DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail)** ⭐ 69,711
+- **[DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail)** ⭐ 70,022
   ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
   Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.
 
-- **[baidu/Unlimited-OCR](https://github.com/baidu/Unlimited-OCR)** ⭐ 12,664
+- **[baidu/Unlimited-OCR](https://github.com/baidu/Unlimited-OCR)** ⭐ 12,733
   ![Python](https://img.shields.io/badge/-Python-blue)
   Unlimited OCR Works: Welcome the Era of One-shot Long-horizon Parsing.
 
-- **[XiaomiMiMo/MiMo-Code](https://github.com/XiaomiMiMo/MiMo-Code)** ⭐ 11,161
+- **[XiaomiMiMo/MiMo-Code](https://github.com/XiaomiMiMo/MiMo-Code)** ⭐ 11,173
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   MiMo Code: Where Models and Agents Co-Evolve
 
@@ -204,15 +205,15 @@
   ![None](https://img.shields.io/badge/-None-lightgrey)
   How to work on Astrid: the polyrepo, the kernel-is-dumb law, the RFC trigger, contribution tiers, and the release process.
 
-- **[shadcn/improve](https://github.com/shadcn/improve)** ⭐ 6,479
+- **[shadcn/improve](https://github.com/shadcn/improve)** ⭐ 6,489
   ![None](https://img.shields.io/badge/-None-lightgrey)
   Use your most capable model to audit your codebase and write plans for cheaper models to execute.
 
-- **[XxHuberrr/Mineradio](https://github.com/XxHuberrr/Mineradio)** ⭐ 6,186
+- **[XxHuberrr/Mineradio](https://github.com/XxHuberrr/Mineradio)** ⭐ 6,357
   ![HTML](https://img.shields.io/badge/-HTML-lightgrey)
   一款以电影镜头、粒子视觉和歌词舞台为核心的沉浸式音乐播放器。
 
-- **[omnigent-ai/omnigent](https://github.com/omnigent-ai/omnigent)** ⭐ 5,854
+- **[omnigent-ai/omnigent](https://github.com/omnigent-ai/omnigent)** ⭐ 5,887
   ![Python](https://img.shields.io/badge/-Python-blue)
   Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom agents — swap harnesses without rewriting, enforce policies and sandboxing, and collaborate in real time from any device.
 
@@ -223,11 +224,11 @@
 
 ### 📦 microsoft/vscode
 
-**[1.126.0](https://github.com/microsoft/vscode/releases/tag/1.126.0)** `1.126.0`
+**[1.127.0](https://github.com/microsoft/vscode/releases/tag/1.127.0)** `1.127.0`
 
-📅 Released: June 24, 2026
+📅 Released: July 01, 2026
 
-https://code.visualstudio.com/updates/v1_126...
+https://code.visualstudio.com/updates/v1_127...
 
 ---
 
@@ -337,6 +338,21 @@ See [kubernetes-announce@](https://groups.google.com/forum/#!forum/kubernetes-an
 ### Notable Changes
 
 * \[[`cde0daabcc`](https://github.com/nodejs/node/commit/cde0daabcc)] - **(SEMVER-MINOR)** **doc**: update `blockList` stability status to release candidate (alphaleadership) [...
+
+---
+
+### 📦 rust-lang/rust
+
+**[Rust 1.96.0](https://github.com/rust-lang/rust/releases/tag/1.96.0)** `1.96.0`
+
+📅 Released: May 28, 2026
+
+<a id="1.96.0-Language"></a>
+
+## Language
+
+- [Allow passing `expr` metavariable to `cfg`](https://github.com/rust-lang/rust/pull/146961)
+- [Always coerce never types in tuple expressions](https://gith...
 
 ---
 
@@ -467,16 +483,16 @@ See [kubernetes-announce@](https://groups.google.com/forum/#!forum/kubernetes-an
 |-------|--------|
 | Java | 🟡 Learning |
 | Python | ⚪ Planned |
-| JavaScript | ⚪ Planned |
+| JavaScript | 🟡 Learning |
 | TypeScript | 🔴 Beginner |
-| Go | 🟡 Learning |
+| Go | 🟢 Proficient |
 
 ### Frameworks
 
 | Skill | Status |
 |-------|--------|
-| React | 🔴 Beginner |
-| Spring Boot | 🟢 Proficient |
+| React | ⚪ Planned |
+| Spring Boot | 🟡 Learning |
 | Django | 🔴 Beginner |
 | Node.js | 🔴 Beginner |
 | Next.js | 🟡 Learning |
@@ -485,30 +501,30 @@ See [kubernetes-announce@](https://groups.google.com/forum/#!forum/kubernetes-an
 
 | Skill | Status |
 |-------|--------|
-| Penetration Testing | 🔴 Beginner |
-| Web Security | 🟡 Learning |
-| Network Security | 🟡 Learning |
-| OWASP | 🟢 Proficient |
+| Penetration Testing | 🟢 Proficient |
+| Web Security | 🔴 Beginner |
+| Network Security | 🔴 Beginner |
+| OWASP | 🔴 Beginner |
 
 ### Ai Ml
 
 | Skill | Status |
 |-------|--------|
-| Machine Learning | 🟢 Proficient |
-| Deep Learning | 🟢 Proficient |
-| NLP | 🟢 Proficient |
-| Computer Vision | 🟢 Proficient |
+| Machine Learning | 🔴 Beginner |
+| Deep Learning | 🔴 Beginner |
+| NLP | ⚪ Planned |
+| Computer Vision | 🔴 Beginner |
 | TensorFlow | 🔴 Beginner |
-| PyTorch | 🟢 Proficient |
+| PyTorch | 🟡 Learning |
 
 ### Devops
 
 | Skill | Status |
 |-------|--------|
-| Docker | ⚪ Planned |
-| Kubernetes | 🟢 Proficient |
-| CI/CD | 🟡 Learning |
-| AWS | 🟡 Learning |
+| Docker | 🔴 Beginner |
+| Kubernetes | 🔴 Beginner |
+| CI/CD | 🟢 Proficient |
+| AWS | 🟢 Proficient |
 | Azure | 🟡 Learning |
 
 ### Other
@@ -517,7 +533,7 @@ See [kubernetes-announce@](https://groups.google.com/forum/#!forum/kubernetes-an
 |-------|--------|
 | Blockchain | 🔴 Beginner |
 | Web3 | 🟡 Learning |
-| Cloud Computing | 🟡 Learning |
+| Cloud Computing | ⚪ Planned |
 
 </details>
 
