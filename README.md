@@ -7,7 +7,7 @@
 ![AI & ML](https://img.shields.io/badge/-AI%20&%20ML-blue) ![CyberSecurity](https://img.shields.io/badge/-CyberSecurity-red) ![Full Stack Development](https://img.shields.io/badge/-Full%20Stack%20Development-green)
 
 [![Auto Update](https://img.shields.io/badge/Auto%20Update-Enabled-success)](https://github.com/yourusername/tech-dashboard/actions)
-[![Last Updated](https://img.shields.io/badge/Last%20Updated-June 30, 2026-blue)](https://github.com/yourusername/tech-dashboard)
+[![Last Updated](https://img.shields.io/badge/Last%20Updated-July 01, 2026-blue)](https://github.com/yourusername/tech-dashboard)
 
 *Automatically updated every 6 hours with the latest tech news, trending repositories, and learning resources.*
 
@@ -46,80 +46,69 @@
 
 ### 📑 Hacker News
 
-- **[Show HN: I made a heatmap of 3400 VCs who are open to cold emails](https://apparent.social/heat-map)**
-  *<p>Article URL: <a href="https://apparent.social/heat-map">https://apparent.social/heat-map</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=48737302">https://news.ycombinator.co...*
-  📅 Tue, 30 Jun 2026 18:38:26 +0000
+- **[Forestiere Underground Gardens](https://en.wikipedia.org/wiki/Forestiere_Underground_Gardens)**
+  *<p>Article URL: <a href="https://en.wikipedia.org/wiki/Forestiere_Underground_Gardens">https://en.wikipedia.org/wiki/Forestiere_Underground_Gardens</a></p>
+<p>Comments URL: <a href="https://news.ycomb...*
+  📅 Wed, 01 Jul 2026 01:23:09 +0000
 
-- **[Tell HN: Installing Cursor on iOS irreversibly changes your privacy settings](https://news.ycombinator.com/item?id=48737226)**
-  *<p>Just hit this today and I'm furious. I installed the Cursor iOS app to see what it had.<p>I've been on `Privacy Mode (Legacy)` for a long time, which is the "Do not store my code" setting. A year o...*
-  📅 Tue, 30 Jun 2026 18:33:59 +0000
+- **[The President Made More Than $1Billon in Crypto Deals](https://www.wsj.com/politics/policy/trump-made-more-than-1-billion-on-crypto-deals-part-of-2025-windfall-ee917d3f)**
+  *<p>Article URL: <a href="https://www.wsj.com/politics/policy/trump-made-more-than-1-billion-on-crypto-deals-part-of-2025-windfall-ee917d3f">https://www.wsj.com/politics/policy/trump-made-more-than-1-b...*
+  📅 Wed, 01 Jul 2026 00:27:56 +0000
 
-- **[Amazon Seller Reveals Rare Glimpse of Shadow Bribery Market](https://www.bloomberg.com/news/articles/2026-06-24/inside-the-shadow-market-selling-access-to-amazon-employees)**
-  *<p>Article URL: <a href="https://www.bloomberg.com/news/articles/2026-06-24/inside-the-shadow-market-selling-access-to-amazon-employees">https://www.bloomberg.com/news/articles/2026-06-24/inside-the-s...*
-  📅 Tue, 30 Jun 2026 18:12:33 +0000
+- **[Department of Commerce has lifted export controls on Claude Fable 5 and Mythos 5](https://twitter.com/AnthropicAI/status/2072106151890809341)**
+  *<p>Article URL: <a href="https://twitter.com/AnthropicAI/status/2072106151890809341">https://twitter.com/AnthropicAI/status/2072106151890809341</a></p>
+<p>Comments URL: <a href="https://news.ycombinat...*
+  📅 Tue, 30 Jun 2026 23:55:12 +0000
 
-- **[Claude Sonnet 5](https://www.anthropic.com/news/claude-sonnet-5)**
-  *<p>Article URL: <a href="https://www.anthropic.com/news/claude-sonnet-5">https://www.anthropic.com/news/claude-sonnet-5</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=48736605"...*
-  📅 Tue, 30 Jun 2026 17:59:52 +0000
+- **[Google copybara: moving code between repositories](https://github.com/google/copybara)**
+  *<p>Article URL: <a href="https://github.com/google/copybara">https://github.com/google/copybara</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=48740698">https://news.ycombinato...*
+  📅 Tue, 30 Jun 2026 23:45:39 +0000
 
-- **[I built a mmWave material classification radar](https://gauthier-lechevalier.com/radar)**
-  *<p>Article URL: <a href="https://gauthier-lechevalier.com/radar">https://gauthier-lechevalier.com/radar</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=48736137">https://news.yc...*
-  📅 Tue, 30 Jun 2026 17:29:36 +0000
+- **[Hatari – Online Atari ST/STE/TT/Falcon Emulator](https://hatari.frama.io/hatari/online/hatari.html)**
+  *<p>Article URL: <a href="https://hatari.frama.io/hatari/online/hatari.html">https://hatari.frama.io/hatari/online/hatari.html</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=487...*
+  📅 Tue, 30 Jun 2026 22:34:23 +0000
 
-- **[Claude Science](https://claude.com/product/claude-science)**
-  *<p>Article URL: <a href="https://claude.com/product/claude-science">https://claude.com/product/claude-science</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=48735770">https://n...*
-  📅 Tue, 30 Jun 2026 17:07:41 +0000
+- **[TabFM: A zero-shot foundation model for tabular data](https://research.google/blog/introducing-tabfm-a-zero-shot-foundation-model-for-tabular-data/)**
+  *<p>Article URL: <a href="https://research.google/blog/introducing-tabfm-a-zero-shot-foundation-model-for-tabular-data/">https://research.google/blog/introducing-tabfm-a-zero-shot-foundation-model-for-...*
+  📅 Tue, 30 Jun 2026 22:08:38 +0000
 
 ### 📑 TechCrunch
+
+- **[Trump drops restrictions on Anthropic’s Mythos and Fable models](https://techcrunch.com/2026/06/30/trump-drops-restrictions-on-anthropics-mythos-and-fable-models/)**
+  *Anthropic said it would begin restoring access to the Fable on July 1....*
+  📅 Wed, 01 Jul 2026 02:16:06 +0000
+
+- **[Wayve launches $85M employee tender offer at $8.5B valuation](https://techcrunch.com/2026/06/30/wayve-launches-85m-employee-tender-offer-at-8-5b-valuation/)**
+  *Wayve’s offering is part of a growing trend of AI startups using employee tenders as a strategic tool to attract and retain talent....*
+  📅 Wed, 01 Jul 2026 02:04:40 +0000
+
+- **[Startup Battlefield Australia application closes in days: Apply before July 6](https://techcrunch.com/2026/06/30/last-chance-to-apply-startup-battlefield-australia-applications-close-july-6/)**
+  *What if one pitch changed everything? The next company nobody has heard of yet is building something that will matter. It could be yours....*
+  📅 Tue, 30 Jun 2026 23:00:00 +0000
+
+- **[OpenClaw is finally available on Android and iOS](https://techcrunch.com/2026/06/30/openclaw-is-finally-available-on-android-and-ios/)**
+  *The free open source agentic program is finally invading your phone....*
+  📅 Tue, 30 Jun 2026 21:53:28 +0000
+
+- **[The DeepMind trio who built a poker AI are now making money for quant hedge funds](https://techcrunch.com/2026/06/30/the-deepmind-trio-who-built-a-poker-ai-are-now-making-money-for-quant-hedge-funds/)**
+  *EquiLibre Technologies, a Prague-based AI lab founded by three ex-DeepMind researchers, is now valued at more than $500 million....*
+  📅 Tue, 30 Jun 2026 20:33:48 +0000
 
 - **[Realta Fusion generates electricity directly from a fusion reaction, an apparent first](https://techcrunch.com/2026/06/30/realta-fusion-generates-electricity-directly-from-a-fusion-reaction-an-apparent-first/)**
   *“We can take power from a plasma,” Kieran Furlong, co-founder and CEO of Realta Fusion, told TechCrunch. The milestone shows “what’s possible,” he added....*
   📅 Tue, 30 Jun 2026 19:12:43 +0000
 
-- **[Google introduces a faster, cheaper image generator with Nano Banana 2 Lite](https://techcrunch.com/2026/06/30/google-introduces-a-faster-cheaper-image-generator-with-nano-banana-2-lite/)**
-  *Google is updating its image generator to make it faster and cheaper, making it a more useful tool for creators looking to make AI content....*
-  📅 Tue, 30 Jun 2026 19:02:38 +0000
-
-- **[Clicks shows off its BlackBerry-inspired phone in a new hands-on video](https://techcrunch.com/2026/06/30/clicks-shows-off-its-blackberry-inspired-phone-in-a-new-hands-on-video/)**
-  *A new video shows the final production version of the upcoming Clicks Communicator, a BlackBerry-like smartphone that runs modern apps....*
-  📅 Tue, 30 Jun 2026 18:34:22 +0000
-
-- **[Nvidia competitor Etched hits $5B valuation, $1B in sales for AI chip](https://techcrunch.com/2026/06/30/nvidia-competitor-etched-hits-5b-valuation-1b-in-sales-for-ai-chip/)**
-  *Nvidia AI chip competitor Etched says it has already booked $1 billion under contract for the inference systems powered by its chip....*
-  📅 Tue, 30 Jun 2026 18:13:02 +0000
-
-- **[Anthropic launches Claude Sonnet 5 as a cheaper way to run agents](https://techcrunch.com/2026/06/30/anthropic-launches-claude-sonnet-5-as-a-cheaper-way-to-run-agents/)**
-  *Anthropic’s Claude Sonnet 5 brings stronger agentic capabilities, lower pricing, and improved safety, positioning the model as a cheaper alternative to Opus, GPT-5.5, and Gemini Pro....*
-  📅 Tue, 30 Jun 2026 18:00:00 +0000
-
-- **[Acti puts AI agents directly into your smartphone keyboard](https://techcrunch.com/2026/06/30/acti-puts-ai-agents-directly-into-your-smartphone-keyboard/)**
-  *Acti is betting the smartphone keyboard is the next home for AI assistants. The startup's new keyboard for iOS and Android works across apps and lets users create custom AI-powered shortcuts using nat...*
-  📅 Tue, 30 Jun 2026 17:52:46 +0000
-
 ### 📑 Dev.to
 
-- **[Inventory Display and Messaging Strategy](https://dev.to/barancevik/inventory-display-and-messaging-strategy-2emj)**
-  *<h1>
-  
-  
-  Stock Messaging Isn't One-Size-Fits-All: A Category-Based Approach
-</h1>
+- **[I Built a Python Tool to Automate Link-Building Research (Using the Google Custom Search API)](https://dev.to/liav_maman_fccea1989cf683/i-built-a-python-tool-to-automate-link-building-research-using-the-google-custom-search-api-220e)**
+  *<p>If you've ever done SEO link building manually, you know the drill: you sit there Googling variations of "submit a guest post" + niche or intitle:"resources" + keyword, opening 40 tabs, and copy-pa...*
+  📅 Wed, 01 Jul 2026 02:18:04 +0000
 
-<p>"Only 3 left in stock!" This kind of urgency messaging is everywhere in e-commerce, and for good reason, it of...*
-  📅 Tue, 30 Jun 2026 19:23:04 +0000
-
-- **[Building an OpenShift 4.18 Cluster from Scratch: Part 1 – The Network Foundation & Utilities Server](https://dev.to/vilan011/building-an-openshift-418-cluster-from-scratch-part-1-the-network-foundation-utilities-server-5g92)**
-  *<blockquote>
-<p><strong>Note:</strong> This is <strong>Part 1</strong> of a multi-part series.</p>
-
-<ul>
-<li>
-<strong>[Part 2: Generating Ignition Configs &amp; VM Prep]</strong> <em>(Coming Soon)</em...*
-  📅 Tue, 30 Jun 2026 19:21:50 +0000
+- **[Decades In, and a Date Field Still Got Me](https://dev.to/maverick_y_4e3300c63f2285/decades-in-and-a-date-field-still-got-me-3e43)**
+  *<p>I've been writing software for a long time. Long enough to have shipped in languages people don't run anymore, long enough to have made just about every mistake in the book at least once. You'd thi...*
+  📅 Wed, 01 Jul 2026 02:14:52 +0000
 
 </details>
 
@@ -127,83 +116,83 @@
 
 ### 📈 Daily Trending
 
-- **[TianhangZhuzth/Fundamental-Ava](https://github.com/TianhangZhuzth/Fundamental-Ava)** ⭐ 566
+- **[Zeeshan2899/System_Backup___Restore](https://github.com/Zeeshan2899/System_Backup___Restore)** ⭐ 223
   ![Python](https://img.shields.io/badge/-Python-blue)
-  Build digital human beings — autonomous, collaborative, and socially intelligent agents.
+  Create system images, backup files, and restore when needed. Protect your data from crashes and malware. Full system backup.
 
-- **[tony-devb/seed-phrase-generator](https://github.com/tony-devb/seed-phrase-generator)** ⭐ 104
-  ![C++](https://img.shields.io/badge/-C++-pink)
-  Seed phrase generator and checker for BTC and ETH wallets. Recovery your lost Bitcoin & Ethereum wallet via brute force and brain wallet checker.
-
-- **[WidthEvokerKiln/Warzone-Vision](https://github.com/WidthEvokerKiln/Warzone-Vision)** ⭐ 101
+- **[zhujingqi/Twitter_Engagement_Tool](https://github.com/zhujingqi/Twitter_Engagement_Tool)** ⭐ 223
   ![Python](https://img.shields.io/badge/-Python-blue)
-  🛡️ Warzone-Vision – free tool for Call of Duty Warzone with player overlay, target locking, stabilizer, and more. Dominate the battlefield! For educational purposes only.
+  Auto-tweet, follow/unfollow, and like/retweet scheduler. Schedule tweets, gain followers, like tweets, and reply to mentions. Grow your Twitter audience.
 
-- **[NeedleWarriorPrime/MECCHA-CHAMELEON-Trainer](https://github.com/NeedleWarriorPrime/MECCHA-CHAMELEON-Trainer)** ⭐ 101
+- **[SrSCK/Virtual_Machine_Manager](https://github.com/SrSCK/Virtual_Machine_Manager)** ⭐ 223
   ![Python](https://img.shields.io/badge/-Python-blue)
-  🦎 Meccha-Chameleon-Trainer – powerful training tool for MECCHA CHAMELEON. Features God Mode, Infinite Paint, Speed Hack, Teleport, Fly, ESP Wallhack, Aimbot, and more. Dominate the hide-and-seek battlefield!
+  Run and manage virtual machines with ease. Supports VMware, VirtualBox, and Hyper-V. Create, start, and stop VMs.
 
-- **[mcosic96/Solara-Execute-New-Update](https://github.com/mcosic96/Solara-Execute-New-Update)** ⭐ 89
-  ![HTML](https://img.shields.io/badge/-HTML-lightgrey)
-  Solara - Best Free Roblox Script Executor for Windows 2026. Instant Lua injection, 500+ scripts, no key required.
+- **[AnonymousDev1494/System_Information_Viewer](https://github.com/AnonymousDev1494/System_Information_Viewer)** ⭐ 223
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  Show detailed hardware and software info. Show processor details, memory usage, graphics card info, and Windows version. Get full system specs.
 
-- **[GabrielaTqm/Nezur-Execute-New-Update](https://github.com/GabrielaTqm/Nezur-Execute-New-Update)** ⭐ 89
-  ![HTML](https://img.shields.io/badge/-HTML-lightgrey)
-  Nezur - Best Free Roblox Script Executor for Windows 2026. Instant Lua injection, 500+ scripts, no key required.
+- **[StephanoEscobarLoayza/Spotify_Playlist_Booster](https://github.com/StephanoEscobarLoayza/Spotify_Playlist_Booster)** ⭐ 223
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  Increase followers, playlist streams, and auto-like songs. Play songs on loop, get fake followers, like all songs, and create playlists automatically. Grow your Spotify presence.
 
-- **[GiridharPilli0/Valex-Execute-New-Update](https://github.com/GiridharPilli0/Valex-Execute-New-Update)** ⭐ 89
-  ![HTML](https://img.shields.io/badge/-HTML-lightgrey)
-  Valex - Best Free Roblox Script Executor for Windows 2026. Instant Lua injection, 500+ scripts, no key required.
+- **[arenaasd/Roblox_BedWars_Auto-Farm___Aimbot](https://github.com/arenaasd/Roblox_BedWars_Auto-Farm___Aimbot)** ⭐ 223
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  Auto-farm, aimbot, and ESP for Roblox BedWars. Automatically break beds, kill enemies, and farm resources.
 
-- **[MMMD1997/Valex-Execute-New-Update](https://github.com/MMMD1997/Valex-Execute-New-Update)** ⭐ 89
-  ![HTML](https://img.shields.io/badge/-HTML-lightgrey)
-  Valex - Best Free Roblox Script Executor for Windows 2026. Instant Lua injection, 500+ scripts, no key required.
+- **[Fdani007/PUBG_Battlegrounds_ESP___Aimbot](https://github.com/Fdani007/PUBG_Battlegrounds_ESP___Aimbot)** ⭐ 223
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  ESP, aimbot, and no recoil for PUBG Battlegrounds. See enemies through walls, auto-aim, and zero recoil. Works with both FPP and TPP.
+
+- **[zaidoonkamil/TikTok_Follower_Farm](https://github.com/zaidoonkamil/TikTok_Follower_Farm)** ⭐ 223
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  Auto-view, like, follow, and comment for TikTok. Get followers, increase views, add likes, and auto-comment. Grow your TikTok presence rapidly.
 
 ### 📈 Weekly Trending
 
-- **[deepseek-ai/DeepSpec](https://github.com/deepseek-ai/DeepSpec)** ⭐ 5,132
+- **[deepseek-ai/DeepSpec](https://github.com/deepseek-ai/DeepSpec)** ⭐ 5,336
   ![Python](https://img.shields.io/badge/-Python-blue)
   DeepSpec: a full-stack codebase for training and evaluating speculative decoding algorithms
 
-- **[Yu9191/wloc](https://github.com/Yu9191/wloc)** ⭐ 1,897
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
-  修改 Apple 网络定位（gs-loc）返回坐标 · 支持 Surge / Quantumult X / Loon / Stash · 快捷指令一键设置/恢复定位
-
-- **[baairon/torlink](https://github.com/baairon/torlink)** ⭐ 1,478
+- **[baairon/torlink](https://github.com/baairon/torlink)** ⭐ 1,720
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   A sleek, zero-setup torrent finder and downloader that lives right in your terminal.
 
-- **[Krishnagangwal/CS-Fundamentals](https://github.com/Krishnagangwal/CS-Fundamentals)** ⭐ 1,201
+- **[Krishnagangwal/CS-Fundamentals](https://github.com/Krishnagangwal/CS-Fundamentals)** ⭐ 1,224
   ![None](https://img.shields.io/badge/-None-lightgrey)
   Curated CS fundamentals for placement prep: DSA,Computer Networks, DBMS & SQL, OOPs, Operating Systems, System Design & Software Engineering
 
-- **[yynxxxxx/Codex-5.5-codex-instruct-5.5](https://github.com/yynxxxxx/Codex-5.5-codex-instruct-5.5)** ⭐ 758
+- **[yynxxxxx/Codex-5.5-codex-instruct-5.5](https://github.com/yynxxxxx/Codex-5.5-codex-instruct-5.5)** ⭐ 830
   ![Python](https://img.shields.io/badge/-Python-blue)
   None
 
-- **[winsznx/theeleven](https://github.com/winsznx/theeleven)** ⭐ 690
+- **[winsznx/theeleven](https://github.com/winsznx/theeleven)** ⭐ 691
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   Eleven autonomous AI agents open live football prop markets on X Layer — custom Uniswap v4 hook, gasless USDT0 staking.
 
-- **[benchflow-ai/awesome-evals](https://github.com/benchflow-ai/awesome-evals)** ⭐ 604
-  ![None](https://img.shields.io/badge/-None-lightgrey)
-  A curated, non-BS library of the best resources for building and evaluating AI agents — papers, blogs, talks, tools, benchmarks. Maintained by BenchFlow.
+- **[TianhangZhuzth/Fundamental-Ava](https://github.com/TianhangZhuzth/Fundamental-Ava)** ⭐ 606
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  Build digital human beings — autonomous, collaborative, and socially intelligent agents. FNzgGxU31RWiDgLr3GvxxSa42nRntvZNSG6aBMQ1pump
 
-- **[AlexandrosGounis/pdfx](https://github.com/AlexandrosGounis/pdfx)** ⭐ 600
+- **[Pluviobyte/video-production-skills](https://github.com/Pluviobyte/video-production-skills)** ⭐ 483
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  Reusable AI video production skills library for creation, recreation, motion design, openers, and QA.
+
+- **[CopilotKit/OpenTag](https://github.com/CopilotKit/OpenTag)** ⭐ 464
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
-  An extension of the traditional PDF standard, allowing multiple files to be stored in a single file via metadata
+  OpenTag
 
 ### 📈 Monthly Trending
 
-- **[DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail)** ⭐ 68,890
+- **[DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail)** ⭐ 69,218
   ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
   Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.
 
-- **[baidu/Unlimited-OCR](https://github.com/baidu/Unlimited-OCR)** ⭐ 12,409
+- **[baidu/Unlimited-OCR](https://github.com/baidu/Unlimited-OCR)** ⭐ 12,520
   ![Python](https://img.shields.io/badge/-Python-blue)
   Unlimited OCR Works: Welcome the Era of One-shot Long-horizon Parsing.
 
-- **[XiaomiMiMo/MiMo-Code](https://github.com/XiaomiMiMo/MiMo-Code)** ⭐ 11,137
+- **[XiaomiMiMo/MiMo-Code](https://github.com/XiaomiMiMo/MiMo-Code)** ⭐ 11,143
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   MiMo Code: Where Models and Agents Co-Evolve
 
@@ -215,15 +204,15 @@
   ![None](https://img.shields.io/badge/-None-lightgrey)
   How to work on Astrid: the polyrepo, the kernel-is-dumb law, the RFC trigger, contribution tiers, and the release process.
 
-- **[shadcn/improve](https://github.com/shadcn/improve)** ⭐ 6,455
+- **[shadcn/improve](https://github.com/shadcn/improve)** ⭐ 6,463
   ![None](https://img.shields.io/badge/-None-lightgrey)
   Use your most capable model to audit your codebase and write plans for cheaper models to execute.
 
-- **[XxHuberrr/Mineradio](https://github.com/XxHuberrr/Mineradio)** ⭐ 5,845
+- **[XxHuberrr/Mineradio](https://github.com/XxHuberrr/Mineradio)** ⭐ 5,936
   ![HTML](https://img.shields.io/badge/-HTML-lightgrey)
   一款以电影镜头、粒子视觉和歌词舞台为核心的沉浸式音乐播放器。
 
-- **[omnigent-ai/omnigent](https://github.com/omnigent-ai/omnigent)** ⭐ 5,729
+- **[omnigent-ai/omnigent](https://github.com/omnigent-ai/omnigent)** ⭐ 5,789
   ![Python](https://img.shields.io/badge/-Python-blue)
   Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom agents — swap harnesses without rewriting, enforce policies and sandboxing, and collaborate in real time from any device.
 
@@ -492,40 +481,40 @@ See [kubernetes-announce@](https://groups.google.com/forum/#!forum/kubernetes-an
 | Skill | Status |
 |-------|--------|
 | Java | 🟢 Proficient |
-| Python | ⚪ Planned |
-| JavaScript | 🔴 Beginner |
+| Python | 🟡 Learning |
+| JavaScript | 🟡 Learning |
 | TypeScript | ⚪ Planned |
-| Go | 🟡 Learning |
+| Go | 🟢 Proficient |
 
 ### Frameworks
 
 | Skill | Status |
 |-------|--------|
-| React | 🟡 Learning |
-| Spring Boot | 🟢 Proficient |
-| Django | 🟢 Proficient |
-| Node.js | 🟡 Learning |
-| Next.js | 🟢 Proficient |
+| React | ⚪ Planned |
+| Spring Boot | 🟡 Learning |
+| Django | 🔴 Beginner |
+| Node.js | 🟢 Proficient |
+| Next.js | 🔴 Beginner |
 
 ### Cybersecurity
 
 | Skill | Status |
 |-------|--------|
-| Penetration Testing | 🔴 Beginner |
-| Web Security | 🔴 Beginner |
+| Penetration Testing | 🟢 Proficient |
+| Web Security | 🟢 Proficient |
 | Network Security | 🔴 Beginner |
-| OWASP | 🟡 Learning |
+| OWASP | ⚪ Planned |
 
 ### Ai Ml
 
 | Skill | Status |
 |-------|--------|
 | Machine Learning | 🔴 Beginner |
-| Deep Learning | ⚪ Planned |
-| NLP | 🟢 Proficient |
-| Computer Vision | 🔴 Beginner |
-| TensorFlow | ⚪ Planned |
-| PyTorch | 🔴 Beginner |
+| Deep Learning | 🔴 Beginner |
+| NLP | ⚪ Planned |
+| Computer Vision | 🟢 Proficient |
+| TensorFlow | 🟢 Proficient |
+| PyTorch | 🟡 Learning |
 
 ### Devops
 
@@ -535,7 +524,7 @@ See [kubernetes-announce@](https://groups.google.com/forum/#!forum/kubernetes-an
 | Kubernetes | 🟡 Learning |
 | CI/CD | 🟢 Proficient |
 | AWS | 🟡 Learning |
-| Azure | 🟡 Learning |
+| Azure | ⚪ Planned |
 
 ### Other
 
@@ -561,7 +550,7 @@ This dashboard is automatically updated every 6 hours using GitHub Actions. The 
 
 <div align="center">
 
-**Last Updated:** June 30, 2026
+**Last Updated:** July 01, 2026
 
 Made with ❤️ and automated with GitHub Actions
 
