@@ -21,7 +21,7 @@
 |--------|-------|
 | 📰 Latest News Articles | 26 |
 | 🔥 Trending Repositories | 45 |
-| 🎯 Latest Releases | 10 |
+| 🎯 Latest Releases | 9 |
 | 🎯 Learning Goals | 4 |
 
 ## 🎯 Current Focus
@@ -46,38 +46,42 @@
 
 ### 📑 Hacker News
 
-- **[Forestiere Underground Gardens](https://en.wikipedia.org/wiki/Forestiere_Underground_Gardens)**
-  *<p>Article URL: <a href="https://en.wikipedia.org/wiki/Forestiere_Underground_Gardens">https://en.wikipedia.org/wiki/Forestiere_Underground_Gardens</a></p>
-<p>Comments URL: <a href="https://news.ycomb...*
-  📅 Wed, 01 Jul 2026 01:23:09 +0000
+- **[Dexter (YC F24) Is Hiring a Founding Engineer in Berlin](https://news.ycombinator.com/item?id=48744213)**
+  *<p>Comments URL: <a href="https://news.ycombinator.com/item?id=48744213">https://news.ycombinator.com/item?id=48744213</a></p>
+<p>Points: 0</p>
+<p># Comments: 0</p>...*
+  📅 Wed, 01 Jul 2026 09:18:43 +0000
 
-- **[The President Made More Than $1Billon in Crypto Deals](https://www.wsj.com/politics/policy/trump-made-more-than-1-billion-on-crypto-deals-part-of-2025-windfall-ee917d3f)**
-  *<p>Article URL: <a href="https://www.wsj.com/politics/policy/trump-made-more-than-1-billion-on-crypto-deals-part-of-2025-windfall-ee917d3f">https://www.wsj.com/politics/policy/trump-made-more-than-1-b...*
-  📅 Wed, 01 Jul 2026 00:27:56 +0000
+- **[Register Korea's First PC 'SE-8001' as a National Important Material](https://www.dongascience.com/en/news/30374)**
+  *<p>Article URL: <a href="https://www.dongascience.com/en/news/30374">https://www.dongascience.com/en/news/30374</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=48743655">https:/...*
+  📅 Wed, 01 Jul 2026 08:12:40 +0000
 
-- **[Department of Commerce has lifted export controls on Claude Fable 5 and Mythos 5](https://twitter.com/AnthropicAI/status/2072106151890809341)**
-  *<p>Article URL: <a href="https://twitter.com/AnthropicAI/status/2072106151890809341">https://twitter.com/AnthropicAI/status/2072106151890809341</a></p>
-<p>Comments URL: <a href="https://news.ycombinat...*
-  📅 Tue, 30 Jun 2026 23:55:12 +0000
+- **[Godot will no longer accept AI-authored code contributions](https://www.pcgamer.com/gaming-industry/open-source-game-engine-godot-will-no-longer-accept-ai-authored-code-contributions-we-cant-trust-heavy-users-of-ai-to-understand-their-code-enough-to-fix-it/)**
+  *<p>Article URL: <a href="https://www.pcgamer.com/gaming-industry/open-source-game-engine-godot-will-no-longer-accept-ai-authored-code-contributions-we-cant-trust-heavy-users-of-ai-to-understand-their-...*
+  📅 Wed, 01 Jul 2026 07:43:22 +0000
 
-- **[Google copybara: moving code between repositories](https://github.com/google/copybara)**
-  *<p>Article URL: <a href="https://github.com/google/copybara">https://github.com/google/copybara</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=48740698">https://news.ycombinato...*
-  📅 Tue, 30 Jun 2026 23:45:39 +0000
+- **[Matrix Orthogonalization Improves Memory in Recurrent Models](https://ayushtambde.com/blog/matrix-orthogonalization-improves-memory-in-recurrent-models/)**
+  *<p>Article URL: <a href="https://ayushtambde.com/blog/matrix-orthogonalization-improves-memory-in-recurrent-models/">https://ayushtambde.com/blog/matrix-orthogonalization-improves-memory-in-recurrent-...*
+  📅 Wed, 01 Jul 2026 05:13:22 +0000
 
-- **[Hatari – Online Atari ST/STE/TT/Falcon Emulator](https://hatari.frama.io/hatari/online/hatari.html)**
-  *<p>Article URL: <a href="https://hatari.frama.io/hatari/online/hatari.html">https://hatari.frama.io/hatari/online/hatari.html</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=487...*
-  📅 Tue, 30 Jun 2026 22:34:23 +0000
+- **[The first early human eggs from stem cells](https://www.conception.bio/science-and-updates/the-first-early-human-eggs-from-stem-cells)**
+  *<p>Article URL: <a href="https://www.conception.bio/science-and-updates/the-first-early-human-eggs-from-stem-cells">https://www.conception.bio/science-and-updates/the-first-early-human-eggs-from-stem-...*
+  📅 Wed, 01 Jul 2026 05:09:30 +0000
 
-- **[TabFM: A zero-shot foundation model for tabular data](https://research.google/blog/introducing-tabfm-a-zero-shot-foundation-model-for-tabular-data/)**
-  *<p>Article URL: <a href="https://research.google/blog/introducing-tabfm-a-zero-shot-foundation-model-for-tabular-data/">https://research.google/blog/introducing-tabfm-a-zero-shot-foundation-model-for-...*
-  📅 Tue, 30 Jun 2026 22:08:38 +0000
+- **[Single header Parser Combinators for C](https://github.com/steve-chavez/CParseC)**
+  *<p>Article URL: <a href="https://github.com/steve-chavez/CParseC">https://github.com/steve-chavez/CParseC</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=48742049">https://news....*
+  📅 Wed, 01 Jul 2026 03:52:55 +0000
 
 ### 📑 TechCrunch
 
+- **[The ‘Father of the Internet’ is finally retiring](https://techcrunch.com/2026/06/30/the-father-of-the-internet-is-finally-retiring/)**
+  *Vinton Cerf, one of the creators of the protocols underlying the internet, will step down as Google's chief internet evangelist next week....*
+  📅 Wed, 01 Jul 2026 03:15:37 +0000
+
 - **[Trump drops restrictions on Anthropic’s Mythos and Fable models](https://techcrunch.com/2026/06/30/trump-drops-restrictions-on-anthropics-mythos-and-fable-models/)**
-  *Anthropic said it would begin restoring access to the Fable on July 1....*
+  *The Trump administration's erratic approach to AI policymaking has left companies across the industry with little clarity about what will govern future model releases....*
   📅 Wed, 01 Jul 2026 02:16:06 +0000
 
 - **[Wayve launches $85M employee tender offer at $8.5B valuation](https://techcrunch.com/2026/06/30/wayve-launches-85m-employee-tender-offer-at-8-5b-valuation/)**
@@ -96,19 +100,15 @@
   *EquiLibre Technologies, a Prague-based AI lab founded by three ex-DeepMind researchers, is now valued at more than $500 million....*
   📅 Tue, 30 Jun 2026 20:33:48 +0000
 
-- **[Realta Fusion generates electricity directly from a fusion reaction, an apparent first](https://techcrunch.com/2026/06/30/realta-fusion-generates-electricity-directly-from-a-fusion-reaction-an-apparent-first/)**
-  *“We can take power from a plasma,” Kieran Furlong, co-founder and CEO of Realta Fusion, told TechCrunch. The milestone shows “what’s possible,” he added....*
-  📅 Tue, 30 Jun 2026 19:12:43 +0000
-
 ### 📑 Dev.to
 
-- **[I Built a Python Tool to Automate Link-Building Research (Using the Google Custom Search API)](https://dev.to/liav_maman_fccea1989cf683/i-built-a-python-tool-to-automate-link-building-research-using-the-google-custom-search-api-220e)**
-  *<p>If you've ever done SEO link building manually, you know the drill: you sit there Googling variations of "submit a guest post" + niche or intitle:"resources" + keyword, opening 40 tabs, and copy-pa...*
-  📅 Wed, 01 Jul 2026 02:18:04 +0000
+- **[Building an Identity System for AI Agents: AgentCard and Work Records](https://dev.to/mininglamp/building-an-identity-system-for-ai-agents-agentcard-and-work-records-2i76)**
+  *<p>Here's a scenario that plays out in engineering teams every day: you spin up a conversation with an AI tool to analyze some code, get a useful response, copy-paste the output, and close the tab. An...*
+  📅 Wed, 01 Jul 2026 09:23:24 +0000
 
-- **[Decades In, and a Date Field Still Got Me](https://dev.to/maverick_y_4e3300c63f2285/decades-in-and-a-date-field-still-got-me-3e43)**
-  *<p>I've been writing software for a long time. Long enough to have shipped in languages people don't run anymore, long enough to have made just about every mistake in the book at least once. You'd thi...*
-  📅 Wed, 01 Jul 2026 02:14:52 +0000
+- **[Sonnet 5 launches: Opus performance at lower cost](https://dev.to/devsignal/sonnet-5-launches-opus-performance-at-lower-cost-1fo9)**
+  *<p>This week was largely a Claude story: Sonnet 5 landed with enough benchmark muscle to make Opus feel redundant for most workloads, and GitLab's production data backs up the claims. Alongside that, ...*
+  📅 Wed, 01 Jul 2026 09:16:33 +0000
 
 </details>
 
@@ -116,13 +116,17 @@
 
 ### 📈 Daily Trending
 
+- **[zhujingqi/Twitter_Engagement_Tool](https://github.com/zhujingqi/Twitter_Engagement_Tool)** ⭐ 224
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  Auto-tweet, follow/unfollow, and like/retweet scheduler. Schedule tweets, gain followers, like tweets, and reply to mentions. Grow your Twitter audience.
+
+- **[StephanoEscobarLoayza/Spotify_Playlist_Booster](https://github.com/StephanoEscobarLoayza/Spotify_Playlist_Booster)** ⭐ 224
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  Increase followers, playlist streams, and auto-like songs. Play songs on loop, get fake followers, like all songs, and create playlists automatically. Grow your Spotify presence.
+
 - **[Zeeshan2899/System_Backup___Restore](https://github.com/Zeeshan2899/System_Backup___Restore)** ⭐ 223
   ![Python](https://img.shields.io/badge/-Python-blue)
   Create system images, backup files, and restore when needed. Protect your data from crashes and malware. Full system backup.
-
-- **[zhujingqi/Twitter_Engagement_Tool](https://github.com/zhujingqi/Twitter_Engagement_Tool)** ⭐ 223
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  Auto-tweet, follow/unfollow, and like/retweet scheduler. Schedule tweets, gain followers, like tweets, and reply to mentions. Grow your Twitter audience.
 
 - **[SrSCK/Virtual_Machine_Manager](https://github.com/SrSCK/Virtual_Machine_Manager)** ⭐ 223
   ![Python](https://img.shields.io/badge/-Python-blue)
@@ -132,14 +136,6 @@
   ![Python](https://img.shields.io/badge/-Python-blue)
   Show detailed hardware and software info. Show processor details, memory usage, graphics card info, and Windows version. Get full system specs.
 
-- **[StephanoEscobarLoayza/Spotify_Playlist_Booster](https://github.com/StephanoEscobarLoayza/Spotify_Playlist_Booster)** ⭐ 223
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  Increase followers, playlist streams, and auto-like songs. Play songs on loop, get fake followers, like all songs, and create playlists automatically. Grow your Spotify presence.
-
-- **[arenaasd/Roblox_BedWars_Auto-Farm___Aimbot](https://github.com/arenaasd/Roblox_BedWars_Auto-Farm___Aimbot)** ⭐ 223
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  Auto-farm, aimbot, and ESP for Roblox BedWars. Automatically break beds, kill enemies, and farm resources.
-
 - **[Fdani007/PUBG_Battlegrounds_ESP___Aimbot](https://github.com/Fdani007/PUBG_Battlegrounds_ESP___Aimbot)** ⭐ 223
   ![Python](https://img.shields.io/badge/-Python-blue)
   ESP, aimbot, and no recoil for PUBG Battlegrounds. See enemies through walls, auto-aim, and zero recoil. Works with both FPP and TPP.
@@ -148,51 +144,55 @@
   ![Python](https://img.shields.io/badge/-Python-blue)
   Auto-view, like, follow, and comment for TikTok. Get followers, increase views, add likes, and auto-comment. Grow your TikTok presence rapidly.
 
+- **[zhaixiansen1023-cpu/QR_Code_Scanner](https://github.com/zhaixiansen1023-cpu/QR_Code_Scanner)** ⭐ 223
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  Scan QR codes and barcodes from images, webcam, or screenshots. Decode instantly and copy to clipboard.
+
 ### 📈 Weekly Trending
 
-- **[deepseek-ai/DeepSpec](https://github.com/deepseek-ai/DeepSpec)** ⭐ 5,336
+- **[deepseek-ai/DeepSpec](https://github.com/deepseek-ai/DeepSpec)** ⭐ 5,616
   ![Python](https://img.shields.io/badge/-Python-blue)
   DeepSpec: a full-stack codebase for training and evaluating speculative decoding algorithms
 
-- **[baairon/torlink](https://github.com/baairon/torlink)** ⭐ 1,720
+- **[baairon/torlink](https://github.com/baairon/torlink)** ⭐ 1,958
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   A sleek, zero-setup torrent finder and downloader that lives right in your terminal.
 
-- **[Krishnagangwal/CS-Fundamentals](https://github.com/Krishnagangwal/CS-Fundamentals)** ⭐ 1,224
+- **[Krishnagangwal/CS-Fundamentals](https://github.com/Krishnagangwal/CS-Fundamentals)** ⭐ 1,266
   ![None](https://img.shields.io/badge/-None-lightgrey)
   Curated CS fundamentals for placement prep: DSA,Computer Networks, DBMS & SQL, OOPs, Operating Systems, System Design & Software Engineering
 
-- **[yynxxxxx/Codex-5.5-codex-instruct-5.5](https://github.com/yynxxxxx/Codex-5.5-codex-instruct-5.5)** ⭐ 830
+- **[yynxxxxx/Codex-5.5-codex-instruct-5.5](https://github.com/yynxxxxx/Codex-5.5-codex-instruct-5.5)** ⭐ 923
   ![Python](https://img.shields.io/badge/-Python-blue)
   None
 
-- **[winsznx/theeleven](https://github.com/winsznx/theeleven)** ⭐ 691
+- **[winsznx/theeleven](https://github.com/winsznx/theeleven)** ⭐ 681
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   Eleven autonomous AI agents open live football prop markets on X Layer — custom Uniswap v4 hook, gasless USDT0 staking.
 
-- **[TianhangZhuzth/Fundamental-Ava](https://github.com/TianhangZhuzth/Fundamental-Ava)** ⭐ 606
+- **[TianhangZhuzth/Fundamental-Ava](https://github.com/TianhangZhuzth/Fundamental-Ava)** ⭐ 660
   ![Python](https://img.shields.io/badge/-Python-blue)
   Build digital human beings — autonomous, collaborative, and socially intelligent agents. FNzgGxU31RWiDgLr3GvxxSa42nRntvZNSG6aBMQ1pump
 
-- **[Pluviobyte/video-production-skills](https://github.com/Pluviobyte/video-production-skills)** ⭐ 483
+- **[Pluviobyte/video-production-skills](https://github.com/Pluviobyte/video-production-skills)** ⭐ 489
   ![Python](https://img.shields.io/badge/-Python-blue)
   Reusable AI video production skills library for creation, recreation, motion design, openers, and QA.
 
-- **[CopilotKit/OpenTag](https://github.com/CopilotKit/OpenTag)** ⭐ 464
+- **[CopilotKit/OpenTag](https://github.com/CopilotKit/OpenTag)** ⭐ 477
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   OpenTag
 
 ### 📈 Monthly Trending
 
-- **[DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail)** ⭐ 69,218
+- **[DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail)** ⭐ 69,711
   ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
   Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.
 
-- **[baidu/Unlimited-OCR](https://github.com/baidu/Unlimited-OCR)** ⭐ 12,520
+- **[baidu/Unlimited-OCR](https://github.com/baidu/Unlimited-OCR)** ⭐ 12,664
   ![Python](https://img.shields.io/badge/-Python-blue)
   Unlimited OCR Works: Welcome the Era of One-shot Long-horizon Parsing.
 
-- **[XiaomiMiMo/MiMo-Code](https://github.com/XiaomiMiMo/MiMo-Code)** ⭐ 11,143
+- **[XiaomiMiMo/MiMo-Code](https://github.com/XiaomiMiMo/MiMo-Code)** ⭐ 11,161
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   MiMo Code: Where Models and Agents Co-Evolve
 
@@ -204,15 +204,15 @@
   ![None](https://img.shields.io/badge/-None-lightgrey)
   How to work on Astrid: the polyrepo, the kernel-is-dumb law, the RFC trigger, contribution tiers, and the release process.
 
-- **[shadcn/improve](https://github.com/shadcn/improve)** ⭐ 6,463
+- **[shadcn/improve](https://github.com/shadcn/improve)** ⭐ 6,479
   ![None](https://img.shields.io/badge/-None-lightgrey)
   Use your most capable model to audit your codebase and write plans for cheaper models to execute.
 
-- **[XxHuberrr/Mineradio](https://github.com/XxHuberrr/Mineradio)** ⭐ 5,936
+- **[XxHuberrr/Mineradio](https://github.com/XxHuberrr/Mineradio)** ⭐ 6,186
   ![HTML](https://img.shields.io/badge/-HTML-lightgrey)
   一款以电影镜头、粒子视觉和歌词舞台为核心的沉浸式音乐播放器。
 
-- **[omnigent-ai/omnigent](https://github.com/omnigent-ai/omnigent)** ⭐ 5,789
+- **[omnigent-ai/omnigent](https://github.com/omnigent-ai/omnigent)** ⭐ 5,854
   ![Python](https://img.shields.io/badge/-Python-blue)
   Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom agents — swap harnesses without rewriting, enforce policies and sandboxing, and collaborate in real time from any device.
 
@@ -337,21 +337,6 @@ See [kubernetes-announce@](https://groups.google.com/forum/#!forum/kubernetes-an
 ### Notable Changes
 
 * \[[`cde0daabcc`](https://github.com/nodejs/node/commit/cde0daabcc)] - **(SEMVER-MINOR)** **doc**: update `blockList` stability status to release candidate (alphaleadership) [...
-
----
-
-### 📦 rust-lang/rust
-
-**[Rust 1.96.0](https://github.com/rust-lang/rust/releases/tag/1.96.0)** `1.96.0`
-
-📅 Released: May 28, 2026
-
-<a id="1.96.0-Language"></a>
-
-## Language
-
-- [Allow passing `expr` metavariable to `cfg`](https://github.com/rust-lang/rust/pull/146961)
-- [Always coerce never types in tuple expressions](https://gith...
 
 ---
 
@@ -480,59 +465,59 @@ See [kubernetes-announce@](https://groups.google.com/forum/#!forum/kubernetes-an
 
 | Skill | Status |
 |-------|--------|
-| Java | 🟢 Proficient |
-| Python | 🟡 Learning |
-| JavaScript | 🟡 Learning |
-| TypeScript | ⚪ Planned |
-| Go | 🟢 Proficient |
+| Java | 🟡 Learning |
+| Python | ⚪ Planned |
+| JavaScript | ⚪ Planned |
+| TypeScript | 🔴 Beginner |
+| Go | 🟡 Learning |
 
 ### Frameworks
 
 | Skill | Status |
 |-------|--------|
-| React | ⚪ Planned |
-| Spring Boot | 🟡 Learning |
+| React | 🔴 Beginner |
+| Spring Boot | 🟢 Proficient |
 | Django | 🔴 Beginner |
-| Node.js | 🟢 Proficient |
-| Next.js | 🔴 Beginner |
+| Node.js | 🔴 Beginner |
+| Next.js | 🟡 Learning |
 
 ### Cybersecurity
 
 | Skill | Status |
 |-------|--------|
-| Penetration Testing | 🟢 Proficient |
-| Web Security | 🟢 Proficient |
-| Network Security | 🔴 Beginner |
-| OWASP | ⚪ Planned |
+| Penetration Testing | 🔴 Beginner |
+| Web Security | 🟡 Learning |
+| Network Security | 🟡 Learning |
+| OWASP | 🟢 Proficient |
 
 ### Ai Ml
 
 | Skill | Status |
 |-------|--------|
-| Machine Learning | 🔴 Beginner |
-| Deep Learning | 🔴 Beginner |
-| NLP | ⚪ Planned |
+| Machine Learning | 🟢 Proficient |
+| Deep Learning | 🟢 Proficient |
+| NLP | 🟢 Proficient |
 | Computer Vision | 🟢 Proficient |
-| TensorFlow | 🟢 Proficient |
-| PyTorch | 🟡 Learning |
+| TensorFlow | 🔴 Beginner |
+| PyTorch | 🟢 Proficient |
 
 ### Devops
 
 | Skill | Status |
 |-------|--------|
 | Docker | ⚪ Planned |
-| Kubernetes | 🟡 Learning |
-| CI/CD | 🟢 Proficient |
+| Kubernetes | 🟢 Proficient |
+| CI/CD | 🟡 Learning |
 | AWS | 🟡 Learning |
-| Azure | ⚪ Planned |
+| Azure | 🟡 Learning |
 
 ### Other
 
 | Skill | Status |
 |-------|--------|
-| Blockchain | 🟡 Learning |
-| Web3 | 🟢 Proficient |
-| Cloud Computing | 🟢 Proficient |
+| Blockchain | 🔴 Beginner |
+| Web3 | 🟡 Learning |
+| Cloud Computing | 🟡 Learning |
 
 </details>
 
