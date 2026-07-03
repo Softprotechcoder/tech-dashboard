@@ -46,33 +46,33 @@
 
 ### 📑 Hacker News
 
-- **[Why Switzerland has 25 gbit internet and America doesn't](https://stefan.schueller.net/posts/the-free-market-lie/)**
-  *<p>Article URL: <a href="https://stefan.schueller.net/posts/the-free-market-lie/">https://stefan.schueller.net/posts/the-free-market-lie/</a></p>
+- **[Valve open source the Steam Machine e-ink screen so you can make your own](https://www.gamingonlinux.com/2026/07/valve-open-source-the-steam-machine-e-ink-screen-so-you-can-make-your-own/)**
+  *<p>Article URL: <a href="https://www.gamingonlinux.com/2026/07/valve-open-source-the-steam-machine-e-ink-screen-so-you-can-make-your-own/">https://www.gamingonlinux.com/2026/07/valve-open-source-the-s...*
+  📅 Fri, 03 Jul 2026 13:01:49 +0000
+
+- **[PostgreSQL and the OOM Killer: Why You Must Use Strict Memory Overcommit](https://www.ubicloud.com/blog/postgresql-and-the-oom-killer-why-we-use-strict-memory-overcommit)**
+  *<p>Article URL: <a href="https://www.ubicloud.com/blog/postgresql-and-the-oom-killer-why-we-use-strict-memory-overcommit">https://www.ubicloud.com/blog/postgresql-and-the-oom-killer-why-we-use-strict-...*
+  📅 Fri, 03 Jul 2026 13:00:31 +0000
+
+- **[Zuckerberg 'Admits' Meta's Layoffs Were Ineffective](https://eshumarneedi.com/2026/07/03/zuckerberg-admits-metas-layoffs-were.html)**
+  *<p>Article URL: <a href="https://eshumarneedi.com/2026/07/03/zuckerberg-admits-metas-layoffs-were.html">https://eshumarneedi.com/2026/07/03/zuckerberg-admits-metas-layoffs-were.html</a></p>
+<p>Comment...*
+  📅 Fri, 03 Jul 2026 12:54:53 +0000
+
+- **[Please Stop the AI Confidence Theater](https://www.elenaverna.com/p/please-stop-the-ai-confidence-theater)**
+  *<p>Article URL: <a href="https://www.elenaverna.com/p/please-stop-the-ai-confidence-theater">https://www.elenaverna.com/p/please-stop-the-ai-confidence-theater</a></p>
+<p>Comments URL: <a href="https:...*
+  📅 Fri, 03 Jul 2026 12:51:17 +0000
+
+- **[Goodebye Forever Probably: Why I'm leaving developer relations](https://whitep4nth3r.com/blog/goodbye-forever-probably/)**
+  *<p>Article URL: <a href="https://whitep4nth3r.com/blog/goodbye-forever-probably/">https://whitep4nth3r.com/blog/goodbye-forever-probably/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com...*
-  📅 Fri, 03 Jul 2026 04:16:17 +0000
+  📅 Fri, 03 Jul 2026 12:27:23 +0000
 
-- **[14× faster embeddings: how we rebuilt the ONNX path in Manticore](https://manticoresearch.com/blog/onnx-embeddings-speedup/)**
-  *<p>Article URL: <a href="https://manticoresearch.com/blog/onnx-embeddings-speedup/">https://manticoresearch.com/blog/onnx-embeddings-speedup/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator...*
-  📅 Fri, 03 Jul 2026 03:49:47 +0000
-
-- **[AI is 'not smart' so what's next in artificial intelligence?](https://www.bbc.com/news/articles/cj6gr0xkyr3o)**
-  *<p>Article URL: <a href="https://www.bbc.com/news/articles/cj6gr0xkyr3o">https://www.bbc.com/news/articles/cj6gr0xkyr3o</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=48769696"...*
-  📅 Fri, 03 Jul 2026 01:42:40 +0000
-
-- **[The Safari MCP server for web developers](https://webkit.org/blog/18136/introducing-the-safari-mcp-server-for-web-developers/)**
-  *<p>Article URL: <a href="https://webkit.org/blog/18136/introducing-the-safari-mcp-server-for-web-developers/">https://webkit.org/blog/18136/introducing-the-safari-mcp-server-for-web-developers/</a></p...*
-  📅 Fri, 03 Jul 2026 01:37:11 +0000
-
-- **[CarPlay Is Additive](https://www.caseyliss.com/2026/7/2/carplay-is-additive-you-dolts)**
-  *<p>Article URL: <a href="https://www.caseyliss.com/2026/7/2/carplay-is-additive-you-dolts">https://www.caseyliss.com/2026/7/2/carplay-is-additive-you-dolts</a></p>
-<p>Comments URL: <a href="https://ne...*
-  📅 Fri, 03 Jul 2026 01:02:45 +0000
-
-- **[An American Privacy Emergency](https://scottaaronson.blog/?p=9902)**
-  *<p>Recent and related:<p><i>Noise infusion banned from statistical products published by Census Bureau</i> - <a href="https://news.ycombinator.com/item?id=48517377">https://news.ycombinator.com/item?i...*
-  📅 Fri, 03 Jul 2026 00:01:06 +0000
+- **[Commodore 64 Basic for PostgreSQL](https://thombrown.blogspot.com/2026/07/load-plcbmbasic81-commodore-64-basic.html)**
+  *<p>Article URL: <a href="https://thombrown.blogspot.com/2026/07/load-plcbmbasic81-commodore-64-basic.html">https://thombrown.blogspot.com/2026/07/load-plcbmbasic81-commodore-64-basic.html</a></p>
+<p>C...*
+  📅 Fri, 03 Jul 2026 09:08:14 +0000
 
 ### 📑 TechCrunch
 
@@ -102,19 +102,13 @@
 
 ### 📑 Dev.to
 
-- **[What I learned about Astro 5 glob loader path resolution in a pnpm monorepo](https://dev.to/morinaga/what-i-learned-about-astro-5-glob-loader-path-resolution-in-a-pnpm-monorepo-2ed4)**
-  *<p><strong>Conclusion first</strong>: Astro 5's <code>glob</code> loader resolves relative <code>base</code> paths from <code>process.cwd()</code> at build time — not from the config file's location. ...*
-  📅 Fri, 03 Jul 2026 08:45:10 +0000
+- **[We tested 62,541 free proxies from GitHub. Only 4% actually work.](https://dev.to/faceless_satine_148164446/we-tested-62541-free-proxies-from-github-only-4-actually-work-404n)**
+  *<p>If you've ever grabbed a "free proxy list" off GitHub, you already know the feeling: you paste 10,000 IPs into your scraper, and approximately none of them connect. I wanted to know exactly <em>how...*
+  📅 Fri, 03 Jul 2026 13:36:55 +0000
 
-- **[Things I Wish Someone Had Told Me Before Starting iOS Development](https://dev.to/gamya_m/things-i-wish-someone-had-told-me-before-starting-ios-development-3o4b)**
-  *<p>When I started learning iOS development, I thought the hardest part would be writing Swift code.</p>
-
-<p>I was wrong.</p>
-
-<p>The real challenges had very little to do with syntax.</p>
-
-<p>Here are...*
-  📅 Fri, 03 Jul 2026 08:44:00 +0000
+- **[AI Didn't Replace My Learning — It Changed How I Learn💻✨](https://dev.to/akanradev/ai-didnt-replace-my-learning-it-changed-how-i-learn-p3f)**
+  *<p>When I first started learning programming, AI became part of my daily routine. I used ChatGPT and Claude almost every day. Isn't just to finish college assignments, but because I genuinely wanted t...*
+  📅 Fri, 03 Jul 2026 13:35:51 +0000
 
 </details>
 
@@ -122,57 +116,57 @@
 
 ### 📈 Daily Trending
 
-- **[xuchonglang/xiaoyinsi-wiki](https://github.com/xuchonglang/xiaoyinsi-wiki)** ⭐ 182
+- **[xuchonglang/investing-for-beginners](https://github.com/xuchonglang/investing-for-beginners)** ⭐ 363
   ![None](https://img.shields.io/badge/-None-lightgrey)
   小隐寺投资百科官方公开索引：美股、期权与加密货币知识框架
+
+- **[Dyuovo/ShuHeng-Skill-Pack](https://github.com/Dyuovo/ShuHeng-Skill-Pack)** ⭐ 66
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  枢衡 Skill Pack：面向个人开发、AI Agent 工作流与电力市场产品构建的可复用技能包，沉淀需求分析、原型设计、代码实现、数据处理、复盘归因与自动化协作能力。A reusable personal skill pack for AI-assisted development, product design, data workflows, and power-market tooling.
 
 - **[surayashivj/xlife](https://github.com/surayashivj/xlife)** ⭐ 51
   ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
   XLife — The Social Finance Layer for X. Chat, pay, invest — all inside X.com.
 
-- **[aipoch/open-science](https://github.com/aipoch/open-science)** ⭐ 30
-  ![None](https://img.shields.io/badge/-None-lightgrey)
-  An open-source, model-agnostic AI workbench for scientific discovery.
+- **[ArcticWolfXZ/claude-code-crypto-devkit](https://github.com/ArcticWolfXZ/claude-code-crypto-devkit)** ⭐ 50
+  ![Shell](https://img.shields.io/badge/-Shell-lightgrey)
+  Crypto toolkit for Claude Code and Codex on macOS: build, test, audit, and deploy EVM and Solana smart contracts.
 
-- **[zerx-lab/FluxDown](https://github.com/zerx-lab/FluxDown)** ⭐ 27
+- **[ArcticWolfXZ/claude-desktop-fable-51-macos](https://github.com/ArcticWolfXZ/claude-desktop-fable-51-macos)** ⭐ 49
+  ![Shell](https://img.shields.io/badge/-Shell-lightgrey)
+  Unlock the hidden Claude Fable 5.1 model on macOS
+
+- **[bryllim/bryl-minimal-design](https://github.com/bryllim/bryl-minimal-design)** ⭐ 43
+  ![None](https://img.shields.io/badge/-None-lightgrey)
+  None
+
+- **[7-e1even/learn-agent](https://github.com/7-e1even/learn-agent)** ⭐ 41
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
+  从零写一个能活下来的 AI Agent：15 课可跑代码，机制从真实产品 Reina 移植 | Build a coding agent from scratch — how Claude Code / Codex / Cursor actually work under the hood. 15 runnable lessons, zero deps.
+
+- **[zerx-lab/FluxDown](https://github.com/zerx-lab/FluxDown)** ⭐ 38
   ![Rust](https://img.shields.io/badge/-Rust-brown)
   Rust 驱动的多协议下载管理器，支持 HTTP/FTP/BitTorrent 磁力链接及 HLS/DASH 流媒体，智能多线程加速与浏览器无缝集成。精美界面，极致性能，永久免费，零广告。
 
-- **[mamidiHarsh2006/laptop_price_predictor](https://github.com/mamidiHarsh2006/laptop_price_predictor)** ⭐ 21
-  ![Jupyter Notebook](https://img.shields.io/badge/-Jupyter Notebook-lightgrey)
-  None
-
-- **[mamidiHarsh2006/structured-output](https://github.com/mamidiHarsh2006/structured-output)** ⭐ 16
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  None
-
-- **[mamidiHarsh2006/pydantic](https://github.com/mamidiHarsh2006/pydantic)** ⭐ 15
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  None
-
-- **[LunaGeller/competitor-analysis-skill](https://github.com/LunaGeller/competitor-analysis-skill)** ⭐ 14
-  ![None](https://img.shields.io/badge/-None-lightgrey)
-  中文 Codex Skill：生成结构化竞品研究和机会判断报告
-
 ### 📈 Weekly Trending
 
-- **[Krishnagangwal/CS-Fundamentals](https://github.com/Krishnagangwal/CS-Fundamentals)** ⭐ 1,464
+- **[Krishnagangwal/CS-Fundamentals](https://github.com/Krishnagangwal/CS-Fundamentals)** ⭐ 1,481
   ![None](https://img.shields.io/badge/-None-lightgrey)
   Curated CS fundamentals for placement prep: DSA,Computer Networks, DBMS & SQL, OOPs, Operating Systems, System Design & Software Engineering
 
-- **[mekos2772/ios-location-spoofer](https://github.com/mekos2772/ios-location-spoofer)** ⭐ 1,192
+- **[mekos2772/ios-location-spoofer](https://github.com/mekos2772/ios-location-spoofer)** ⭐ 1,228
   ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
   Standalone iOS app to spoof GPS location without jailbreak. Includes Shadowrocket/Surge/Loon/QX/Stash module.
 
-- **[yynxxxxx/Codex-5.5-codex-instruct-5.5](https://github.com/yynxxxxx/Codex-5.5-codex-instruct-5.5)** ⭐ 1,161
+- **[yynxxxxx/Codex-5.5-codex-instruct-5.5](https://github.com/yynxxxxx/Codex-5.5-codex-instruct-5.5)** ⭐ 1,207
   ![Python](https://img.shields.io/badge/-Python-blue)
   None
 
-- **[Kulaxyz/self-learning-skills](https://github.com/Kulaxyz/self-learning-skills)** ⭐ 940
+- **[Kulaxyz/self-learning-skills](https://github.com/Kulaxyz/self-learning-skills)** ⭐ 983
   ![None](https://img.shields.io/badge/-None-lightgrey)
   A self-improving skill for AI coding agents (Claude Code, Cursor, AGENTS.md): recognize a hard-won golden path in a session and harvest it into a reusable skill/rule for next time.
 
-- **[TianhangZhuzth/Fundamental-Ava](https://github.com/TianhangZhuzth/Fundamental-Ava)** ⭐ 758
+- **[TianhangZhuzth/Fundamental-Ava](https://github.com/TianhangZhuzth/Fundamental-Ava)** ⭐ 761
   ![Python](https://img.shields.io/badge/-Python-blue)
   Build digital human beings — autonomous, collaborative, and socially intelligent agents. FNzgGxU31RWiDgLr3GvxxSa42nRntvZNSG6aBMQ1pump
 
@@ -180,25 +174,25 @@
   ![Python](https://img.shields.io/badge/-Python-blue)
   CVE-2026-41940 authentication bypass vulnerability proof-of-concept
 
-- **[diinki/linux-antiquity](https://github.com/diinki/linux-antiquity)** ⭐ 520
+- **[diinki/linux-antiquity](https://github.com/diinki/linux-antiquity)** ⭐ 533
   ![QML](https://img.shields.io/badge/-QML-lightgrey)
   A highly tasteful Linux-theme, reminiscent of art-nouveau and old drawings related to astronomy, science, and mythology.
 
-- **[wlzh/dji-4g-vohive-mac](https://github.com/wlzh/dji-4g-vohive-mac)** ⭐ 417
-  ![None](https://img.shields.io/badge/-None-lightgrey)
-  在 Mac（Apple Silicon / Intel）上用 UTM 跑 Linux 虚拟机，把大疆 4G 模块（EG25-G）伪装成移远 Quectel EC25 并部署 vohive 平台的完整步骤
+- **[HUANGCHIHHUNGLeo/claude-real-video](https://github.com/HUANGCHIHHUNGLeo/claude-real-video)** ⭐ 442
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  Let Claude (or any LLM) actually watch a video — scene-aware, deduplicated frames + transcript, from a URL or local file. Runs locally, MIT.
 
 ### 📈 Monthly Trending
 
-- **[DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail)** ⭐ 72,188
+- **[DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail)** ⭐ 72,540
   ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
   Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.
 
-- **[baidu/Unlimited-OCR](https://github.com/baidu/Unlimited-OCR)** ⭐ 13,098
+- **[baidu/Unlimited-OCR](https://github.com/baidu/Unlimited-OCR)** ⭐ 13,132
   ![Python](https://img.shields.io/badge/-Python-blue)
   Unlimited OCR Works: Welcome the Era of One-shot Long-horizon Parsing.
 
-- **[XiaomiMiMo/MiMo-Code](https://github.com/XiaomiMiMo/MiMo-Code)** ⭐ 11,317
+- **[XiaomiMiMo/MiMo-Code](https://github.com/XiaomiMiMo/MiMo-Code)** ⭐ 11,342
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   MiMo Code: Where Models and Agents Co-Evolve
 
@@ -210,15 +204,15 @@
   ![None](https://img.shields.io/badge/-None-lightgrey)
   How to work on Astrid: the polyrepo, the kernel-is-dumb law, the RFC trigger, contribution tiers, and the release process.
 
-- **[shadcn/improve](https://github.com/shadcn/improve)** ⭐ 6,608
+- **[shadcn/improve](https://github.com/shadcn/improve)** ⭐ 6,671
   ![None](https://img.shields.io/badge/-None-lightgrey)
   Use your most capable model to audit your codebase and write plans for cheaper models to execute.
 
-- **[omnigent-ai/omnigent](https://github.com/omnigent-ai/omnigent)** ⭐ 6,098
+- **[omnigent-ai/omnigent](https://github.com/omnigent-ai/omnigent)** ⭐ 6,117
   ![Python](https://img.shields.io/badge/-Python-blue)
   Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom agents — swap harnesses without rewriting, enforce policies and sandboxing, and collaborate in real time from any device.
 
-- **[deepseek-ai/DeepSpec](https://github.com/deepseek-ai/DeepSpec)** ⭐ 5,916
+- **[deepseek-ai/DeepSpec](https://github.com/deepseek-ai/DeepSpec)** ⭐ 5,965
   ![Python](https://img.shields.io/badge/-Python-blue)
   DeepSpec: a full-stack codebase for training and evaluating speculative decoding algorithms
 
@@ -489,59 +483,59 @@ See [kubernetes-announce@](https://groups.google.com/forum/#!forum/kubernetes-an
 
 | Skill | Status |
 |-------|--------|
-| Java | ⚪ Planned |
-| Python | 🟡 Learning |
-| JavaScript | 🔴 Beginner |
-| TypeScript | 🟡 Learning |
-| Go | 🔴 Beginner |
+| Java | 🟡 Learning |
+| Python | 🔴 Beginner |
+| JavaScript | 🟢 Proficient |
+| TypeScript | ⚪ Planned |
+| Go | 🟡 Learning |
 
 ### Frameworks
 
 | Skill | Status |
 |-------|--------|
-| React | 🔴 Beginner |
+| React | ⚪ Planned |
 | Spring Boot | ⚪ Planned |
-| Django | 🟡 Learning |
-| Node.js | 🟢 Proficient |
-| Next.js | 🟢 Proficient |
+| Django | 🟢 Proficient |
+| Node.js | 🔴 Beginner |
+| Next.js | ⚪ Planned |
 
 ### Cybersecurity
 
 | Skill | Status |
 |-------|--------|
-| Penetration Testing | 🟡 Learning |
+| Penetration Testing | ⚪ Planned |
 | Web Security | 🔴 Beginner |
-| Network Security | ⚪ Planned |
-| OWASP | 🟢 Proficient |
+| Network Security | 🟡 Learning |
+| OWASP | 🟡 Learning |
 
 ### Ai Ml
 
 | Skill | Status |
 |-------|--------|
-| Machine Learning | ⚪ Planned |
+| Machine Learning | 🔴 Beginner |
 | Deep Learning | 🟢 Proficient |
 | NLP | ⚪ Planned |
-| Computer Vision | 🟡 Learning |
-| TensorFlow | ⚪ Planned |
-| PyTorch | ⚪ Planned |
+| Computer Vision | 🟢 Proficient |
+| TensorFlow | 🟢 Proficient |
+| PyTorch | 🟢 Proficient |
 
 ### Devops
 
 | Skill | Status |
 |-------|--------|
-| Docker | 🟢 Proficient |
-| Kubernetes | 🔴 Beginner |
-| CI/CD | 🔴 Beginner |
-| AWS | 🔴 Beginner |
-| Azure | 🟡 Learning |
+| Docker | ⚪ Planned |
+| Kubernetes | 🟢 Proficient |
+| CI/CD | 🟢 Proficient |
+| AWS | 🟡 Learning |
+| Azure | ⚪ Planned |
 
 ### Other
 
 | Skill | Status |
 |-------|--------|
-| Blockchain | ⚪ Planned |
-| Web3 | 🟢 Proficient |
-| Cloud Computing | 🟡 Learning |
+| Blockchain | 🔴 Beginner |
+| Web3 | 🟡 Learning |
+| Cloud Computing | 🟢 Proficient |
 
 </details>
 
