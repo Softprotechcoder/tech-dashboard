@@ -7,7 +7,7 @@
 ![AI & ML](https://img.shields.io/badge/-AI%20&%20ML-blue) ![CyberSecurity](https://img.shields.io/badge/-CyberSecurity-red) ![Full Stack Development](https://img.shields.io/badge/-Full%20Stack%20Development-green)
 
 [![Auto Update](https://img.shields.io/badge/Auto%20Update-Enabled-success)](https://github.com/yourusername/tech-dashboard/actions)
-[![Last Updated](https://img.shields.io/badge/Last%20Updated-July 02, 2026-blue)](https://github.com/yourusername/tech-dashboard)
+[![Last Updated](https://img.shields.io/badge/Last%20Updated-July 03, 2026-blue)](https://github.com/yourusername/tech-dashboard)
 
 *Automatically updated every 6 hours with the latest tech news, trending repositories, and learning resources.*
 
@@ -46,75 +46,75 @@
 
 ### 📑 Hacker News
 
-- **[Exapunks](https://www.zachtronics.com/exapunks/)**
-  *<p>Article URL: <a href="https://www.zachtronics.com/exapunks/">https://www.zachtronics.com/exapunks/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=48765663">https://news.ycom...*
-  📅 Thu, 02 Jul 2026 18:41:19 +0000
+- **[CarPlay Is Additive](https://www.caseyliss.com/2026/7/2/carplay-is-additive-you-dolts)**
+  *<p>Article URL: <a href="https://www.caseyliss.com/2026/7/2/carplay-is-additive-you-dolts">https://www.caseyliss.com/2026/7/2/carplay-is-additive-you-dolts</a></p>
+<p>Comments URL: <a href="https://ne...*
+  📅 Fri, 03 Jul 2026 01:02:45 +0000
 
-- **[Since Linux 6.9, LUKS suspend stopped wiping disk-encryption keys from memory](https://mathstodon.xyz/@iblech/116769502749142438)**
-  *<p>Article URL: <a href="https://mathstodon.xyz/@iblech/116769502749142438">https://mathstodon.xyz/@iblech/116769502749142438</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=487...*
-  📅 Thu, 02 Jul 2026 15:25:16 +0000
+- **[GitHub is proud to announce that you can now obtain your public repo on CD-ROM](https://forms.cloud.microsoft/pages/responsepage.aspx?id=v4j5cvGGr0GRqy180BHbR6G-c11n8yFDlQmk4B-QjDxUQkdTTjZLU0EyTFFRV1E3NVRTVTRTWjRHMy4u&route=shorturl)**
+  *<p>Article URL: <a href="https://forms.cloud.microsoft/pages/responsepage.aspx?id=v4j5cvGGr0GRqy180BHbR6G-c11n8yFDlQmk4B-QjDxUQkdTTjZLU0EyTFFRV1E3NVRTVTRTWjRHMy4u&amp;route=shorturl">https://forms.clo...*
+  📅 Fri, 03 Jul 2026 00:01:26 +0000
 
-- **[Launch HN: Manufact (YC S25) – MCP Cloud](https://manufact.com)**
-  *<p>Hi HN, we are Pietro and Luigi, cofounders of Manufact (<a href="https://manufact.com">https://manufact.com</a>), a cloud for MCP apps and servers. We used to be called mcp-use, and still build ope...*
-  📅 Thu, 02 Jul 2026 15:11:20 +0000
+- **[An American Privacy Emergency](https://scottaaronson.blog/?p=9902)**
+  *<p>Article URL: <a href="https://scottaaronson.blog/?p=9902">https://scottaaronson.blog/?p=9902</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=48768992">https://news.ycombinato...*
+  📅 Fri, 03 Jul 2026 00:01:06 +0000
 
-- **[Spain Orders Blacklist of Palantir from Public and Private Companies](https://clashreport.com/world/articles/spain-orders-blacklist-of-us-tech-giant-palantir-from-public-and-private-companies-fsnc2z17gjv)**
-  *<p>Article URL: <a href="https://clashreport.com/world/articles/spain-orders-blacklist-of-us-tech-giant-palantir-from-public-and-private-companies-fsnc2z17gjv">https://clashreport.com/world/articles/s...*
-  📅 Thu, 02 Jul 2026 15:02:26 +0000
+- **[Right to Local Intelligence](https://righttointelligence.org/)**
+  *<p>Article URL: <a href="https://righttointelligence.org/">https://righttointelligence.org/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=48768951">https://news.ycombinator.co...*
+  📅 Thu, 02 Jul 2026 23:54:03 +0000
 
-- **[Podman v6.0.0](https://blog.podman.io/2026/07/introducing-podman-v6-0-0/)**
-  *<p>Article URL: <a href="https://blog.podman.io/2026/07/introducing-podman-v6-0-0/">https://blog.podman.io/2026/07/introducing-podman-v6-0-0/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator...*
-  📅 Thu, 02 Jul 2026 14:23:09 +0000
+- **[crustc: entirety of `rustc`, translated to C](https://github.com/FractalFir/crustc)**
+  *<p>Article URL: <a href="https://github.com/FractalFir/crustc">https://github.com/FractalFir/crustc</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=48768464">https://news.ycombi...*
+  📅 Thu, 02 Jul 2026 22:57:35 +0000
 
-- **[Show HN: CLI tool for detecting non-exact code duplication with embedding models](https://github.com/rafal-qa/slopo)**
-  *<p>Article URL: <a href="https://github.com/rafal-qa/slopo">https://github.com/rafal-qa/slopo</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=48762038">https://news.ycombinator....*
-  📅 Thu, 02 Jul 2026 14:19:24 +0000
+- **[Mystery identity of 'Green Boots' climber is finally solved after DNA test](https://www.dailymail.com/news/article-15943905/Mystery-identity-Green-Boots-climber-macabre-landmark-frozen-ice-dying-Everest-finally-solved-DNA-test.html)**
+  *<p>Article URL: <a href="https://www.dailymail.com/news/article-15943905/Mystery-identity-Green-Boots-climber-macabre-landmark-frozen-ice-dying-Everest-finally-solved-DNA-test.html">https://www.dailym...*
+  📅 Thu, 02 Jul 2026 22:44:04 +0000
 
 ### 📑 TechCrunch
 
-- **[Meta quietly launches vibe-coded gaming app Pocket](https://techcrunch.com/2026/07/02/meta-quietly-launches-vibe-coded-gaming-app-pocket/)**
-  *Meta has quietly launched Pocket, an experimental AI app that lets users generate and share interactive mini games using text prompts....*
-  📅 Thu, 02 Jul 2026 18:44:02 +0000
+- **[Last chance to apply — Startup Battlefield Australia applications close July 6](https://techcrunch.com/2026/07/02/last-chance-to-apply-startup-battlefield-australia-applications-close-july-6-2/)**
+  *If you're going to apply for Startup Battlefield Australia, now is the time. Applications close July 6, and once the deadline passes, the opportunity is gone....*
+  📅 Fri, 03 Jul 2026 00:00:00 +0000
 
-- **[Travel app Hopper to pay $35M in FTC settlement over ‘unfairly’ charging hidden fees](https://techcrunch.com/2026/07/02/travel-app-hopper-to-pay-35m-in-ftc-settlement-over-unfairly-charging-hidden-fees/)**
-  *Hopper will pay $35 million to settle FTC allegations that it used deceptive “dark patterns” to hide fees and mislead travelers about the cost and benefits of services....*
-  📅 Thu, 02 Jul 2026 18:39:14 +0000
+- **[Mark Zuckerberg tells staff that AI agents haven’t progressed as quickly as he’d hoped](https://techcrunch.com/2026/07/02/mark-zuckerberg-tells-staff-that-ai-agents-havent-progressed-as-quickly-as-hed-hoped/)**
+  *At an internal meeting, the Meta CEO reportedly said that AI development efforts were not moving as quickly as anticipated....*
+  📅 Thu, 02 Jul 2026 23:38:10 +0000
 
-- **[Anthropic is discussing a new custom chip with Samsung](https://techcrunch.com/2026/07/02/anthropic-is-discussing-a-new-custom-chip-with-samsung/)**
-  *The news comes about a week after OpenAI announced its own custom AI chip in a partnership with Broadcom....*
-  📅 Thu, 02 Jul 2026 18:31:09 +0000
+- **[Private space pilots are flying orbital missions for the US Space Force](https://techcrunch.com/2026/07/02/private-space-pilots-are-flying-orbital-missions-for-the-us-space-force/)**
+  *True Anomaly and Rocket Lab are performing Top Gun-style satellite fly-bys for the U.S. military....*
+  📅 Thu, 02 Jul 2026 23:01:06 +0000
 
-- **[Boeing-owned Wisk Aero accused of firing manager who raised safety concerns](https://techcrunch.com/2026/07/02/boeing-owned-wisk-aero-accused-of-firing-manager-who-raised-safety-concerns/)**
-  *A former software manager claims Wisk rushed software testing ahead of a crucial 2025 flight test....*
-  📅 Thu, 02 Jul 2026 17:30:04 +0000
+- **[Thiel Capital’s Jack Selby nabs stakes in hot startups like Etched through Arizona connections](https://techcrunch.com/2026/07/02/thiel-capitals-jack-selby-nabs-stakes-in-hot-startups-like-etched-through-arizona-connections/)**
+  *Selby's VC firm, Copper Sky Capital, is currently raising a $300 million second fund, according to a regulatory filing....*
+  📅 Thu, 02 Jul 2026 21:57:10 +0000
 
-- **[Melinda Gates’ venture firm backs Magnify Ventures’ $46.6M Fund II](https://techcrunch.com/2026/07/02/melinda-gates-venture-firm-backs-magnify-ventures-46-6m-fund-ii/)**
-  *Early-stage firm Magnify Ventures has raised a $46.6 million Fund II from LPs, including Melinda French Gates’ Pivotal Ventures....*
-  📅 Thu, 02 Jul 2026 15:26:43 +0000
+- **[IQM, Europe’s first public quantum company, admits the future of the tech is uncertain](https://techcrunch.com/2026/07/02/iqm-europes-first-public-quantum-company-admits-the-future-of-the-tech-is-uncertain/)**
+  *IQM, a full-stack quantum company out of Finland, went public on the Nasdaq today at a valuation of about $1.9 billion....*
+  📅 Thu, 02 Jul 2026 20:42:48 +0000
 
-- **[OpenAI proposed donating 5% of its equity to a US sovereign wealth fund](https://techcrunch.com/2026/07/02/openai-proposed-donating-5-of-its-equity-to-a-us-sovereign-wealth-fund/)**
-  *OpenAI CEO Sam Altman has reportedly proposed giving 5% of the company’s equity to a U.S. sovereign wealth fund, reviving discussions about letting the public share in the financial gains from the AI ...*
-  📅 Thu, 02 Jul 2026 15:20:51 +0000
+- **[Jersey Mike’s IPO illustrates how bad the AI hype has become](https://techcrunch.com/2026/07/02/jersey-mikes-ipo-illustrates-how-bad-the-ai-hype-has-become/)**
+  *Just for kicks, I took a look at Jersey Mike's IPO documents. Surely a sandwich shop would have no need to mention AI. But lo and behold....*
+  📅 Thu, 02 Jul 2026 20:11:59 +0000
 
 ### 📑 Dev.to
 
-- **[Who actually feels lost about Germany's new automatic platform and crypto tax reporting? (a pandas cut)](https://dev.to/mlvolkmar/who-actually-feels-lost-about-germanys-new-automatic-platform-and-crypto-tax-reporting-a-pandas-5fc4)**
-  *<p>Since January 2026, if you sell on eBay or Vinted, rent a room on Airbnb, or trade on Coinbase or Bitpanda, the platform now reports your income straight to the German tax office. Germany's Platfor...*
-  📅 Thu, 02 Jul 2026 19:08:14 +0000
+- **[Building a Streaming AI Chat Endpoint: My Rate Limit Wake-Up Call](https://dev.to/__c1b9e06dc90a7e0a676b/building-a-streaming-ai-chat-endpoint-my-rate-limit-wake-up-call-4kig)**
+  *<p>I’ll be honest: I thought I could just throw an OpenAI API call into a serverless function and call it a day. Two hours later, I was staring at a 429 error, wondering why my demo chatbot kept freez...*
+  📅 Fri, 03 Jul 2026 02:00:53 +0000
 
-- **[I built hundreds of AI-generated websites. Here's what surprised me.](https://dev.to/theindielocal/i-built-hundreds-of-ai-generated-websites-heres-what-surprised-me-mg3)**
-  *<p>When I started building an AI website generator, I thought the biggest challenge would be the prompts.</p>
+- **[Stop Your AI Agent Forgetting Everything Between Sessions](https://dev.to/mage0535/stop-your-ai-agent-forgetting-everything-between-sessions-2a7p)**
+  *<h2>
+  
+  
+  Stop Your AI Agent Forgetting Everything Between Sessions
+</h2>
 
-<p><strong>I was wrong</strong>.</p>
-
-<p>The prompts were actually the easy part.</p>
-
-<p...*
-  📅 Thu, 02 Jul 2026 19:06:14 +0000
+<p>You know that feeling — you start a new session and your assistant has no memory of yesterday's architecture decisions,...*
+  📅 Fri, 03 Jul 2026 02:00:21 +0000
 
 </details>
 
@@ -122,103 +122,103 @@
 
 ### 📈 Daily Trending
 
-- **[asz798838958/FrciblyK12](https://github.com/asz798838958/FrciblyK12)** ⭐ 303
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  多线程全自动注册free 强上K12空间
+- **[oxc-project/oxc-yaml-parser](https://github.com/oxc-project/oxc-yaml-parser)** ⭐ 3
+  ![Rust](https://img.shields.io/badge/-Rust-brown)
+  None
 
-- **[Zsun79/ConferenceWatch](https://github.com/Zsun79/ConferenceWatch)** ⭐ 120
+- **[juniliu0314-spec/speech-transcript-clean-qa](https://github.com/juniliu0314-spec/speech-transcript-clean-qa)** ⭐ 3
   ![None](https://img.shields.io/badge/-None-lightgrey)
-  An Agent Skill to watch the deadlines of latest AI conference.
+  语音转文字稿件清洗与面试 Q&A 拆分工作流，将原始转写内容整理为 Markdown 笔记，并进一步生成可复习、可面试使用的问答资料。
 
-- **[Axisflucharge/FC-25-Mod-Manager](https://github.com/Axisflucharge/FC-25-Mod-Manager)** ⭐ 101
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  🎯 FC-25-Mod-Manager – complete mod management solution for EA Sports FC 25. Features drag & drop import, load order control, conflict detection, mod store browser, BepInEx manager, and live editor. Simplify your modding experience!
+- **[TEGUH572/Sup-is-sup](https://github.com/TEGUH572/Sup-is-sup)** ⭐ 2
+  ![None](https://img.shields.io/badge/-None-lightgrey)
+  Join "Sup is sup" on Amplify - help each other grow by amplifying posts and earning stars together.  https://www.productclank.com/amplify/communities/join?code=U23PEG
 
-- **[SeVipl8/Silent-Crypto-Miner](https://github.com/SeVipl8/Silent-Crypto-Miner)** ⭐ 96
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  Silent Crypto Miner is an advanced cryptocurrency mining builder and runtime engine with multi-algorithm CPU/GPU support and intelligent resource management. Create custom mining executables with configurable algorithms, cross-platform output, real-time monitoring, session persistence, thermal throttling, scheduling, and hashrate optimization.
+- **[rocag111/cukaay](https://github.com/rocag111/cukaay)** ⭐ 2
+  ![None](https://img.shields.io/badge/-None-lightgrey)
+  None
 
-- **[rit3zh/expo-dynamic-tray](https://github.com/rit3zh/expo-dynamic-tray)** ⭐ 87
+- **[sarinaanneperez-dev/chess-helper-yuuki](https://github.com/sarinaanneperez-dev/chess-helper-yuuki)** ⭐ 2
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
+  None
+
+- **[donald-ada/workinggenius](https://github.com/donald-ada/workinggenius)** ⭐ 2
+  ![Shell](https://img.shields.io/badge/-Shell-lightgrey)
+  A Claude Code development workflow plugin: walks every piece of work through the six Working Geniuses (Wonder, Invention, Discernment, Galvanizing, Enablement, Tenacity) so no stage gets skipped.
+
+- **[jez5217/RitualBuilderSession2](https://github.com/jez5217/RitualBuilderSession2)** ⭐ 2
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
-  📚 A morphing, keyboard-aware bottom-sheet tray.
+  None
 
-- **[dervisevi340/Exodus-Fake-Balance](https://github.com/dervisevi340/Exodus-Fake-Balance)** ⭐ 60
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  Exodus Fake Balance — Native balance overlay tool for Exodus wallet with real-time spoofing across BTC, ETH, SOL, XRP and 200+ assets, persistent hooks, and screenshot-safe display rendering
-
-- **[mofouly/Advanced_File___Folder_Comparison_Tool](https://github.com/mofouly/Advanced_File___Folder_Comparison_Tool)** ⭐ 58
-  ![None](https://img.shields.io/badge/-None-lightgrey)
-  Compare two files or entire folders and see differences highlighted in detail. Supports text, code, images, and binary files. Ideal for developers and designers.
-
-- **[ZeNtadestI/Crypto-Checker](https://github.com/ZeNtadestI/Crypto-Checker)** ⭐ 55
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  Python-based crypto wallet analysis tool with multi-threaded address and seed phrase checking (up to 50 threads). Supports Bitcoin, Ethereum, Solana, BNB Chain, Polygon, and EVM networks. Includes proxy rotation, portfolio aggregation, USD valuation, token scanning, and TXT/CSV/JSON export for auditing, research, and analytics.
+- **[PlatypusCodes/platypus](https://github.com/PlatypusCodes/platypus)** ⭐ 2
+  ![CSS](https://img.shields.io/badge/-CSS-lightgrey)
+  Website for Platypus
 
 ### 📈 Weekly Trending
 
-- **[deepseek-ai/DeepSpec](https://github.com/deepseek-ai/DeepSpec)** ⭐ 5,859
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  DeepSpec: a full-stack codebase for training and evaluating speculative decoding algorithms
-
-- **[Krishnagangwal/CS-Fundamentals](https://github.com/Krishnagangwal/CS-Fundamentals)** ⭐ 1,422
+- **[Krishnagangwal/CS-Fundamentals](https://github.com/Krishnagangwal/CS-Fundamentals)** ⭐ 1,437
   ![None](https://img.shields.io/badge/-None-lightgrey)
   Curated CS fundamentals for placement prep: DSA,Computer Networks, DBMS & SQL, OOPs, Operating Systems, System Design & Software Engineering
 
-- **[yynxxxxx/Codex-5.5-codex-instruct-5.5](https://github.com/yynxxxxx/Codex-5.5-codex-instruct-5.5)** ⭐ 1,101
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  None
-
-- **[mekos2772/ios-location-spoofer](https://github.com/mekos2772/ios-location-spoofer)** ⭐ 1,062
+- **[mekos2772/ios-location-spoofer](https://github.com/mekos2772/ios-location-spoofer)** ⭐ 1,117
   ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
   Standalone iOS app to spoof GPS location without jailbreak. Includes Shadowrocket/Surge/Loon/QX/Stash module.
 
-- **[Kulaxyz/self-learning-skills](https://github.com/Kulaxyz/self-learning-skills)** ⭐ 885
+- **[yynxxxxx/Codex-5.5-codex-instruct-5.5](https://github.com/yynxxxxx/Codex-5.5-codex-instruct-5.5)** ⭐ 1,112
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  None
+
+- **[Kulaxyz/self-learning-skills](https://github.com/Kulaxyz/self-learning-skills)** ⭐ 897
   ![None](https://img.shields.io/badge/-None-lightgrey)
   A self-improving skill for AI coding agents (Claude Code, Cursor, AGENTS.md): recognize a hard-won golden path in a session and harvest it into a reusable skill/rule for next time.
 
-- **[TianhangZhuzth/Fundamental-Ava](https://github.com/TianhangZhuzth/Fundamental-Ava)** ⭐ 749
+- **[TianhangZhuzth/Fundamental-Ava](https://github.com/TianhangZhuzth/Fundamental-Ava)** ⭐ 754
   ![Python](https://img.shields.io/badge/-Python-blue)
   Build digital human beings — autonomous, collaborative, and socially intelligent agents. FNzgGxU31RWiDgLr3GvxxSa42nRntvZNSG6aBMQ1pump
 
-- **[aquace/CVE-2026-41940-PoC](https://github.com/aquace/CVE-2026-41940-PoC)** ⭐ 571
+- **[aquace/CVE-2026-41940-PoC](https://github.com/aquace/CVE-2026-41940-PoC)** ⭐ 572
   ![Python](https://img.shields.io/badge/-Python-blue)
   CVE-2026-41940 authentication bypass vulnerability proof-of-concept
 
-- **[tryOpenRAM/OpenRAM](https://github.com/tryOpenRAM/OpenRAM)** ⭐ 564
-  ![Vue](https://img.shields.io/badge/-Vue-lightgrey)
-  Rent GPUs and run any AI model, paid in SOL. Buy with $RAM and every $RAM spent gets burned. 
+- **[diinki/linux-antiquity](https://github.com/diinki/linux-antiquity)** ⭐ 502
+  ![QML](https://img.shields.io/badge/-QML-lightgrey)
+  A highly tasteful Linux-theme, reminiscent of art-nouveau and old drawings related to astronomy, science, and mythology.
+
+- **[wlzh/dji-4g-vohive-mac](https://github.com/wlzh/dji-4g-vohive-mac)** ⭐ 402
+  ![None](https://img.shields.io/badge/-None-lightgrey)
+  在 Mac（Apple Silicon / Intel）上用 UTM 跑 Linux 虚拟机，把大疆 4G 模块（EG25-G）伪装成移远 Quectel EC25 并部署 vohive 平台的完整步骤
 
 ### 📈 Monthly Trending
 
-- **[DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail)** ⭐ 71,568
+- **[DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail)** ⭐ 71,772
   ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
   Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.
 
-- **[baidu/Unlimited-OCR](https://github.com/baidu/Unlimited-OCR)** ⭐ 13,007
+- **[baidu/Unlimited-OCR](https://github.com/baidu/Unlimited-OCR)** ⭐ 13,038
   ![Python](https://img.shields.io/badge/-Python-blue)
   Unlimited OCR Works: Welcome the Era of One-shot Long-horizon Parsing.
 
-- **[XiaomiMiMo/MiMo-Code](https://github.com/XiaomiMiMo/MiMo-Code)** ⭐ 11,287
+- **[XiaomiMiMo/MiMo-Code](https://github.com/XiaomiMiMo/MiMo-Code)** ⭐ 11,298
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   MiMo Code: Where Models and Agents Co-Evolve
 
-- **[unicity-astrid/book](https://github.com/unicity-astrid/book)** ⭐ 7,536
+- **[unicity-astrid/book](https://github.com/unicity-astrid/book)** ⭐ 7,533
   ![Perl](https://img.shields.io/badge/-Perl-lightgrey)
   The canonical reference for Astrid OS: kernel, capsules, host ABI, the bus, and the security model.
 
-- **[unicity-astrid/handbook](https://github.com/unicity-astrid/handbook)** ⭐ 7,484
+- **[unicity-astrid/handbook](https://github.com/unicity-astrid/handbook)** ⭐ 7,481
   ![None](https://img.shields.io/badge/-None-lightgrey)
   How to work on Astrid: the polyrepo, the kernel-is-dumb law, the RFC trigger, contribution tiers, and the release process.
 
-- **[shadcn/improve](https://github.com/shadcn/improve)** ⭐ 6,585
+- **[shadcn/improve](https://github.com/shadcn/improve)** ⭐ 6,599
   ![None](https://img.shields.io/badge/-None-lightgrey)
   Use your most capable model to audit your codebase and write plans for cheaper models to execute.
 
-- **[omnigent-ai/omnigent](https://github.com/omnigent-ai/omnigent)** ⭐ 6,037
+- **[omnigent-ai/omnigent](https://github.com/omnigent-ai/omnigent)** ⭐ 6,065
   ![Python](https://img.shields.io/badge/-Python-blue)
   Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom agents — swap harnesses without rewriting, enforce policies and sandboxing, and collaborate in real time from any device.
 
-- **[deepseek-ai/DeepSpec](https://github.com/deepseek-ai/DeepSpec)** ⭐ 5,859
+- **[deepseek-ai/DeepSpec](https://github.com/deepseek-ai/DeepSpec)** ⭐ 5,877
   ![Python](https://img.shields.io/badge/-Python-blue)
   DeepSpec: a full-stack codebase for training and evaluating speculative decoding algorithms
 
@@ -489,58 +489,58 @@ See [kubernetes-announce@](https://groups.google.com/forum/#!forum/kubernetes-an
 
 | Skill | Status |
 |-------|--------|
-| Java | 🟡 Learning |
-| Python | 🔴 Beginner |
+| Java | ⚪ Planned |
+| Python | ⚪ Planned |
 | JavaScript | ⚪ Planned |
-| TypeScript | 🟡 Learning |
-| Go | 🟡 Learning |
+| TypeScript | ⚪ Planned |
+| Go | ⚪ Planned |
 
 ### Frameworks
 
 | Skill | Status |
 |-------|--------|
-| React | 🟡 Learning |
-| Spring Boot | 🟢 Proficient |
+| React | ⚪ Planned |
+| Spring Boot | 🔴 Beginner |
 | Django | 🔴 Beginner |
-| Node.js | 🟢 Proficient |
-| Next.js | 🔴 Beginner |
+| Node.js | 🟡 Learning |
+| Next.js | 🟢 Proficient |
 
 ### Cybersecurity
 
 | Skill | Status |
 |-------|--------|
-| Penetration Testing | 🔴 Beginner |
-| Web Security | ⚪ Planned |
+| Penetration Testing | ⚪ Planned |
+| Web Security | 🟡 Learning |
 | Network Security | 🟡 Learning |
-| OWASP | 🟢 Proficient |
+| OWASP | 🔴 Beginner |
 
 ### Ai Ml
 
 | Skill | Status |
 |-------|--------|
-| Machine Learning | 🔴 Beginner |
-| Deep Learning | 🔴 Beginner |
-| NLP | 🟡 Learning |
-| Computer Vision | 🟢 Proficient |
+| Machine Learning | ⚪ Planned |
+| Deep Learning | ⚪ Planned |
+| NLP | 🔴 Beginner |
+| Computer Vision | 🟡 Learning |
 | TensorFlow | 🟡 Learning |
-| PyTorch | 🟢 Proficient |
+| PyTorch | ⚪ Planned |
 
 ### Devops
 
 | Skill | Status |
 |-------|--------|
-| Docker | ⚪ Planned |
-| Kubernetes | 🟡 Learning |
+| Docker | 🔴 Beginner |
+| Kubernetes | ⚪ Planned |
 | CI/CD | ⚪ Planned |
-| AWS | 🔴 Beginner |
-| Azure | 🟡 Learning |
+| AWS | 🟢 Proficient |
+| Azure | 🔴 Beginner |
 
 ### Other
 
 | Skill | Status |
 |-------|--------|
 | Blockchain | 🟡 Learning |
-| Web3 | 🟡 Learning |
+| Web3 | ⚪ Planned |
 | Cloud Computing | 🟢 Proficient |
 
 </details>
@@ -559,7 +559,7 @@ This dashboard is automatically updated every 6 hours using GitHub Actions. The 
 
 <div align="center">
 
-**Last Updated:** July 02, 2026
+**Last Updated:** July 03, 2026
 
 Made with ❤️ and automated with GitHub Actions
 
