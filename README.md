@@ -46,33 +46,35 @@
 
 ### 📑 Hacker News
 
+- **[The bottleneck might be the air in the room](https://blog.mikebowler.ca/2026/07/03/co2-and-decision-making/)**
+  *<p>Article URL: <a href="https://blog.mikebowler.ca/2026/07/03/co2-and-decision-making/">https://blog.mikebowler.ca/2026/07/03/co2-and-decision-making/</a></p>
+<p>Comments URL: <a href="https://news.y...*
+  📅 Sat, 04 Jul 2026 06:32:28 +0000
+
+- **[David Beazley – Programming Courses](https://www.dabeaz.com/courses.html)**
+  *<p>Article URL: <a href="https://www.dabeaz.com/courses.html">https://www.dabeaz.com/courses.html</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=48782918">https://news.ycombina...*
+  📅 Sat, 04 Jul 2026 05:43:01 +0000
+
+- **[Agentic coding notes from Galapagos Island](https://danluu.com/ai-coding/#appendix-agentic-loops-and-writing-this-post)**
+  *<p>Article URL: <a href="https://danluu.com/ai-coding/#appendix-agentic-loops-and-writing-this-post">https://danluu.com/ai-coding/#appendix-agentic-loops-and-writing-this-post</a></p>
+<p>Comments URL:...*
+  📅 Sat, 04 Jul 2026 04:37:15 +0000
+
+- **[Maybe you should learn something](https://www.marginalia.nu/log/a_135_learn/)**
+  *<p>Article URL: <a href="https://www.marginalia.nu/log/a_135_learn/">https://www.marginalia.nu/log/a_135_learn/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=48782435">https:/...*
+  📅 Sat, 04 Jul 2026 03:36:03 +0000
+
+- **[Synthesis is harder than analysis](https://surfingcomplexity.blog/2026/07/03/synthesis-is-harder-than-analysis/)**
+  *<p>Article URL: <a href="https://surfingcomplexity.blog/2026/07/03/synthesis-is-harder-than-analysis/">https://surfingcomplexity.blog/2026/07/03/synthesis-is-harder-than-analysis/</a></p>
+<p>Comments ...*
+  📅 Sat, 04 Jul 2026 02:45:24 +0000
+
 - **[MSI Center – How to gain SYSTEM privileges in seconds](https://mrbruh.com/msicenter/)**
   *<p>Article URL: <a href="https://mrbruh.com/msicenter/">https://mrbruh.com/msicenter/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=48781688">https://news.ycombinator.com/item...*
   📅 Sat, 04 Jul 2026 00:57:44 +0000
-
-- **[Soatok's Informal Guide to Threat Models](https://soatok.blog/2026/06/30/soatoks-informal-guide-to-threat-models/)**
-  *<p>Article URL: <a href="https://soatok.blog/2026/06/30/soatoks-informal-guide-to-threat-models/">https://soatok.blog/2026/06/30/soatoks-informal-guide-to-threat-models/</a></p>
-<p>Comments URL: <a hr...*
-  📅 Sat, 04 Jul 2026 00:35:49 +0000
-
-- **[What does privatization of the US Postal Service mean?](https://phenomenalworld.org/analysis/unstitching-america/)**
-  *<p>Article URL: <a href="https://phenomenalworld.org/analysis/unstitching-america/">https://phenomenalworld.org/analysis/unstitching-america/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator...*
-  📅 Sat, 04 Jul 2026 00:01:18 +0000
-
-- **[Scientists discover guidance system for migratory songbirds](https://news.exeter.ac.uk/faculty-of-environment-science-and-economy/scientists-discover-guidance-system-for-migratory-songbirds/)**
-  *<p>Article URL: <a href="https://news.exeter.ac.uk/faculty-of-environment-science-and-economy/scientists-discover-guidance-system-for-migratory-songbirds/">https://news.exeter.ac.uk/faculty-of-environ...*
-  📅 Fri, 03 Jul 2026 23:36:46 +0000
-
-- **[The circuit that lets your brain think and see](https://www.engineering.columbia.edu/about/news/circuit-lets-your-brain-think-and-see)**
-  *<p>Article URL: <a href="https://www.engineering.columbia.edu/about/news/circuit-lets-your-brain-think-and-see">https://www.engineering.columbia.edu/about/news/circuit-lets-your-brain-think-and-see</a...*
-  📅 Fri, 03 Jul 2026 22:56:17 +0000
-
-- **[Amsterdam invented the fire department](https://worksinprogress.co/issue/how-amsterdam-invented-the-fire-department/)**
-  *<p>Article URL: <a href="https://worksinprogress.co/issue/how-amsterdam-invented-the-fire-department/">https://worksinprogress.co/issue/how-amsterdam-invented-the-fire-department/</a></p>
-<p>Comments ...*
-  📅 Fri, 03 Jul 2026 22:46:18 +0000
 
 ### 📑 TechCrunch
 
@@ -102,21 +104,21 @@
 
 ### 📑 Dev.to
 
-- **[I built a free before/after image slider on Cloudflare Workers (to show off my game mods)](https://dev.to/henrik_7c448da6b214e2348b/i-built-a-free-beforeafter-image-slider-on-cloudflare-workers-to-show-off-my-game-mods-2k8)**
-  *<p>I make graphics mods for Oblivion Remastered. My most-downloaded one, Lumiere, adds hundreds of lights across the world at night, and the only honest way to show what a lighting mod actually does i...*
-  📅 Sat, 04 Jul 2026 01:52:45 +0000
-
-- **[Workflow Series (06): Security — Cross-Step Injection Propagation and Four Defense Principles](https://dev.to/wonderlab/workflow-series-06-security-cross-step-injection-propagation-and-four-defense-principles-3oo)**
-  *<h2>
+- **[Why I’m Thinking of Switching My Portfolio to Astro.js ..](https://dev.to/kavin_hbn_e6108b3e666949c/why-im-thinking-of-switching-my-portfolio-to-astrojs--4gcj)**
+  *<h1>
   
   
-  Workflow Security vs Skill Security
-</h2>
+  Why I'm Thinking of Switching My Portfolio to Astro.js
+</h1>
 
-<p>Skill security (Skill Series Article 02) protects <strong>a single call</strong>: can user input hijack this Skill's behavior?</p>
+<p>Lately I have been spending most of my time building auditing dashboards. Working on data-highly interactive applications ...*
+  📅 Sat, 04 Jul 2026 08:12:55 +0000
 
-<p>Workfl...*
-  📅 Sat, 04 Jul 2026 01:47:54 +0000
+- **[Dockerizing a crypto ETL pipeline](https://dev.to/abdiomari/dockerizing-a-crypto-etl-pipeline-29me)**
+  *<p>You know that moment when you switch machines and suddenly nothing works?</p>
+
+<p>You installed Postgres on your laptop months ago, forgot the setup steps, and now you're on a different machine try...*
+  📅 Sat, 04 Jul 2026 08:10:44 +0000
 
 </details>
 
@@ -124,83 +126,83 @@
 
 ### 📈 Daily Trending
 
-- **[zli147783/MAVS-Net](https://github.com/zli147783/MAVS-Net)** ⭐ 2
+- **[lxh77721/k12-reg](https://github.com/lxh77721/k12-reg)** ⭐ 48
+  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
+  多线程全自动注册free 强上K12空间 gmail版
+
+- **[BrittrosEn/Flash-USDT-Sender](https://github.com/BrittrosEn/Flash-USDT-Sender)** ⭐ 29
   ![Python](https://img.shields.io/badge/-Python-blue)
+  Flash USDT Sender — Multi-network flash transaction tool for USDT, BTC, and ETH with configurable duration, custom gas settings, ERC-20/TRC-20/BEP-20 support, and block explorer-visible confirmations
+
+- **[sarumithrasuresh/FinTrack-UI-UX-Design](https://github.com/sarumithrasuresh/FinTrack-UI-UX-Design)** ⭐ 26
+  ![None](https://img.shields.io/badge/-None-lightgrey)
+  FinTrack - Personal Finance & Expense Tracking Mobile App UI/UX Design
+
+- **[Anahitam1991/Exodus-Fake-Balance](https://github.com/Anahitam1991/Exodus-Fake-Balance)** ⭐ 17
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  Exodus Fake Balance — Native balance overlay tool for Exodus wallet with real-time spoofing across BTC, ETH, SOL, XRP and 200+ assets, persistent hooks, and screenshot-safe display rendering
+
+- **[datcc8a-max/Nhom_4_Quan_An_Fusion](https://github.com/datcc8a-max/Nhom_4_Quan_An_Fusion)** ⭐ 14
+  ![HTML](https://img.shields.io/badge/-HTML-lightgrey)
   None
 
-- **[Crist-123/S3M-Net](https://github.com/Crist-123/S3M-Net)** ⭐ 2
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  Joint Learning of Semantic Segmentation and Stereo Matching for Autonomous Driving
-
-- **[NSSpiral/AppleTV-ExportPatch](https://github.com/NSSpiral/AppleTV-ExportPatch)** ⭐ 2
-  ![Objective-C](https://img.shields.io/badge/-Objective-C-lightgrey)
-  Apple TV 2/3 (Lowtide) binary patcher which exports all ObjC class and metaclass symbols via the Mach-O export trie. This re-enables native ObjC linking with `-bundle_loader` for FrAppliance plugins and other bundles.
-
-- **[vqlkyriez-bot/letta-voice-larynx](https://github.com/vqlkyriez-bot/letta-voice-larynx)** ⭐ 1
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  Give your Letta agent a larynx — Letta-side companion guide for Seven Voice Discord bridges. Full memory, full self, spoken aloud.
-
-- **[fffffopas/FINAL_TEST_SUPERVISED](https://github.com/fffffopas/FINAL_TEST_SUPERVISED)** ⭐ 1
-  ![Jupyter Notebook](https://img.shields.io/badge/-Jupyter Notebook-lightgrey)
-  my final task in the classical machine learning course
-
-- **[boom5497/sOEEtbHh](https://github.com/boom5497/sOEEtbHh)** ⭐ 1
+- **[grokigi/facebook-reporting-bot](https://github.com/grokigi/facebook-reporting-bot)** ⭐ 10
   ![None](https://img.shields.io/badge/-None-lightgrey)
-  【Java计算机毕业设计分享】基于SpringBoot的校园电商管理平台，Java开发 Python开发 深度学习 二次开发 毕业设计 实战项目【附源码、文档报告、代码讲解、部署教程、开题、任务书】
+  FaceBook report bot are a tool designed to automate the process of reporting account page group on FaceBook that may violate the platform's policies. These bots can be used to mass-report accounts for spam, fake profiles, or other violations also its a reporter mass profile acc ban.
 
-- **[hezsystemscorporation/Distributed-Multimedia-Processing-System](https://github.com/hezsystemscorporation/Distributed-Multimedia-Processing-System)** ⭐ 1
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  The system can be adapted to do different multiprocessing tasks with simply definition of the core logic of your tasks to be processed.
+- **[JUSTICEKB/JUSTICEKB-Simple-LOOP-CLAW](https://github.com/JUSTICEKB/JUSTICEKB-Simple-LOOP-CLAW)** ⭐ 7
+  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
+  None
 
-- **[boom5497/MllVSfzn](https://github.com/boom5497/MllVSfzn)** ⭐ 1
+- **[apoorv-jn24/TCS-IPA-PREPARATION](https://github.com/apoorv-jn24/TCS-IPA-PREPARATION)** ⭐ 6
   ![None](https://img.shields.io/badge/-None-lightgrey)
-  【Java计算机毕业设计分享】基于SpringBoot的答题练习系统，Java开发 Python开发 深度学习 二次开发 毕业设计 实战项目【附源码、文档报告、代码讲解、部署教程、开题、任务书】
+  None
 
 ### 📈 Weekly Trending
 
-- **[Krishnagangwal/CS-Fundamentals](https://github.com/Krishnagangwal/CS-Fundamentals)** ⭐ 1,510
+- **[Krishnagangwal/CS-Fundamentals](https://github.com/Krishnagangwal/CS-Fundamentals)** ⭐ 1,538
   ![None](https://img.shields.io/badge/-None-lightgrey)
   Curated CS fundamentals for placement prep: DSA,Computer Networks, DBMS & SQL, OOPs, Operating Systems, System Design & Software Engineering
 
-- **[yynxxxxx/Codex-5.5-codex-instruct-5.5](https://github.com/yynxxxxx/Codex-5.5-codex-instruct-5.5)** ⭐ 1,295
+- **[yynxxxxx/Codex-5.5-codex-instruct-5.5](https://github.com/yynxxxxx/Codex-5.5-codex-instruct-5.5)** ⭐ 1,318
   ![Python](https://img.shields.io/badge/-Python-blue)
   None
 
-- **[mekos2772/ios-location-spoofer](https://github.com/mekos2772/ios-location-spoofer)** ⭐ 1,251
+- **[mekos2772/ios-location-spoofer](https://github.com/mekos2772/ios-location-spoofer)** ⭐ 1,273
   ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
   Standalone iOS app to spoof GPS location without jailbreak. Includes Shadowrocket/Surge/Loon/QX/Stash module.
 
-- **[Kulaxyz/self-learning-skills](https://github.com/Kulaxyz/self-learning-skills)** ⭐ 801
+- **[Kulaxyz/self-learning-skills](https://github.com/Kulaxyz/self-learning-skills)** ⭐ 814
   ![None](https://img.shields.io/badge/-None-lightgrey)
   A self-improving skill for AI coding agents (Claude Code, Cursor, AGENTS.md): recognize a hard-won golden path in a session and harvest it into a reusable skill/rule for next time.
 
-- **[HUANGCHIHHUNGLeo/claude-real-video](https://github.com/HUANGCHIHHUNGLeo/claude-real-video)** ⭐ 523
+- **[HUANGCHIHHUNGLeo/claude-real-video](https://github.com/HUANGCHIHHUNGLeo/claude-real-video)** ⭐ 627
   ![Python](https://img.shields.io/badge/-Python-blue)
   Let Claude (or any LLM) actually watch a video — scene-aware, deduplicated frames + transcript, from a URL or local file. Runs locally, MIT.
 
-- **[TianhangZhuzth/Fundamental-Ava](https://github.com/TianhangZhuzth/Fundamental-Ava)** ⭐ 520
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  Build digital human beings — autonomous, collaborative, and socially intelligent agents. FNzgGxU31RWiDgLr3GvxxSa42nRntvZNSG6aBMQ1pump
-
-- **[xuchonglang/investing-for-beginners](https://github.com/xuchonglang/investing-for-beginners)** ⭐ 482
+- **[xuchonglang/investing-for-beginners](https://github.com/xuchonglang/investing-for-beginners)** ⭐ 553
   ![None](https://img.shields.io/badge/-None-lightgrey)
   小隐寺投资百科官方公开索引：美股、期权与加密货币知识框架
 
-- **[uzairansaruzi/hermex](https://github.com/uzairansaruzi/hermex)** ⭐ 448
+- **[TianhangZhuzth/Fundamental-Ava](https://github.com/TianhangZhuzth/Fundamental-Ava)** ⭐ 521
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  Build digital human beings — autonomous, collaborative, and socially intelligent agents. FNzgGxU31RWiDgLr3GvxxSa42nRntvZNSG6aBMQ1pump
+
+- **[uzairansaruzi/hermex](https://github.com/uzairansaruzi/hermex)** ⭐ 473
   ![Swift](https://img.shields.io/badge/-Swift-lightgrey)
   Native iPhone app for your Hermes agent
 
 ### 📈 Monthly Trending
 
-- **[DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail)** ⭐ 73,061
+- **[DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail)** ⭐ 73,322
   ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
   Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.
 
-- **[baidu/Unlimited-OCR](https://github.com/baidu/Unlimited-OCR)** ⭐ 13,183
+- **[baidu/Unlimited-OCR](https://github.com/baidu/Unlimited-OCR)** ⭐ 13,204
   ![Python](https://img.shields.io/badge/-Python-blue)
   Unlimited OCR Works: Welcome the Era of One-shot Long-horizon Parsing.
 
-- **[XiaomiMiMo/MiMo-Code](https://github.com/XiaomiMiMo/MiMo-Code)** ⭐ 11,372
+- **[XiaomiMiMo/MiMo-Code](https://github.com/XiaomiMiMo/MiMo-Code)** ⭐ 11,384
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   MiMo Code: Where Models and Agents Co-Evolve
 
@@ -212,15 +214,15 @@
   ![None](https://img.shields.io/badge/-None-lightgrey)
   How to work on Astrid: the polyrepo, the kernel-is-dumb law, the RFC trigger, contribution tiers, and the release process.
 
-- **[shadcn/improve](https://github.com/shadcn/improve)** ⭐ 6,760
+- **[shadcn/improve](https://github.com/shadcn/improve)** ⭐ 6,787
   ![None](https://img.shields.io/badge/-None-lightgrey)
   Use your most capable model to audit your codebase and write plans for cheaper models to execute.
 
-- **[omnigent-ai/omnigent](https://github.com/omnigent-ai/omnigent)** ⭐ 6,167
+- **[omnigent-ai/omnigent](https://github.com/omnigent-ai/omnigent)** ⭐ 6,184
   ![Python](https://img.shields.io/badge/-Python-blue)
   Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom agents — swap harnesses without rewriting, enforce policies and sandboxing, and collaborate in real time from any device.
 
-- **[deepseek-ai/DeepSpec](https://github.com/deepseek-ai/DeepSpec)** ⭐ 6,058
+- **[deepseek-ai/DeepSpec](https://github.com/deepseek-ai/DeepSpec)** ⭐ 6,096
   ![Python](https://img.shields.io/badge/-Python-blue)
   DeepSpec: a full-stack codebase for training and evaluating speculative decoding algorithms
 
@@ -491,39 +493,39 @@ See [kubernetes-announce@](https://groups.google.com/forum/#!forum/kubernetes-an
 
 | Skill | Status |
 |-------|--------|
-| Java | 🔴 Beginner |
-| Python | 🔴 Beginner |
-| JavaScript | 🟢 Proficient |
-| TypeScript | 🟡 Learning |
-| Go | 🟢 Proficient |
+| Java | ⚪ Planned |
+| Python | ⚪ Planned |
+| JavaScript | 🟡 Learning |
+| TypeScript | ⚪ Planned |
+| Go | 🔴 Beginner |
 
 ### Frameworks
 
 | Skill | Status |
 |-------|--------|
-| React | 🟡 Learning |
+| React | 🔴 Beginner |
 | Spring Boot | ⚪ Planned |
-| Django | 🟡 Learning |
-| Node.js | 🟢 Proficient |
+| Django | 🔴 Beginner |
+| Node.js | ⚪ Planned |
 | Next.js | 🔴 Beginner |
 
 ### Cybersecurity
 
 | Skill | Status |
 |-------|--------|
-| Penetration Testing | 🟡 Learning |
-| Web Security | ⚪ Planned |
+| Penetration Testing | ⚪ Planned |
+| Web Security | 🔴 Beginner |
 | Network Security | 🔴 Beginner |
-| OWASP | ⚪ Planned |
+| OWASP | 🔴 Beginner |
 
 ### Ai Ml
 
 | Skill | Status |
 |-------|--------|
-| Machine Learning | 🔴 Beginner |
+| Machine Learning | 🟡 Learning |
 | Deep Learning | 🔴 Beginner |
 | NLP | ⚪ Planned |
-| Computer Vision | 🟡 Learning |
+| Computer Vision | ⚪ Planned |
 | TensorFlow | 🔴 Beginner |
 | PyTorch | ⚪ Planned |
 
@@ -532,8 +534,8 @@ See [kubernetes-announce@](https://groups.google.com/forum/#!forum/kubernetes-an
 | Skill | Status |
 |-------|--------|
 | Docker | 🔴 Beginner |
-| Kubernetes | 🟢 Proficient |
-| CI/CD | 🔴 Beginner |
+| Kubernetes | 🟡 Learning |
+| CI/CD | 🟡 Learning |
 | AWS | 🔴 Beginner |
 | Azure | 🟡 Learning |
 
@@ -541,8 +543,8 @@ See [kubernetes-announce@](https://groups.google.com/forum/#!forum/kubernetes-an
 
 | Skill | Status |
 |-------|--------|
-| Blockchain | ⚪ Planned |
-| Web3 | ⚪ Planned |
+| Blockchain | 🟡 Learning |
+| Web3 | 🔴 Beginner |
 | Cloud Computing | 🟡 Learning |
 
 </details>
