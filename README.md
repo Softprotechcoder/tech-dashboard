@@ -46,6 +46,10 @@
 
 ### 📑 Hacker News
 
+- **[Astrophysicists Puzzle over Webb’s New Universe](https://www.quantamagazine.org/astrophysicists-puzzle-over-webbs-new-universe-20260702/)**
+  *<p>Article URL: <a href="https://www.quantamagazine.org/astrophysicists-puzzle-over-webbs-new-universe-20260702/">https://www.quantamagazine.org/astrophysicists-puzzle-over-webbs-new-universe-20260702...*
+  📅 Sat, 04 Jul 2026 09:08:09 +0000
+
 - **[The bottleneck might be the air in the room](https://blog.mikebowler.ca/2026/07/03/co2-and-decision-making/)**
   *<p>Article URL: <a href="https://blog.mikebowler.ca/2026/07/03/co2-and-decision-making/">https://blog.mikebowler.ca/2026/07/03/co2-and-decision-making/</a></p>
 <p>Comments URL: <a href="https://news.y...*
@@ -70,11 +74,6 @@
   *<p>Article URL: <a href="https://surfingcomplexity.blog/2026/07/03/synthesis-is-harder-than-analysis/">https://surfingcomplexity.blog/2026/07/03/synthesis-is-harder-than-analysis/</a></p>
 <p>Comments ...*
   📅 Sat, 04 Jul 2026 02:45:24 +0000
-
-- **[MSI Center – How to gain SYSTEM privileges in seconds](https://mrbruh.com/msicenter/)**
-  *<p>Article URL: <a href="https://mrbruh.com/msicenter/">https://mrbruh.com/msicenter/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=48781688">https://news.ycombinator.com/item...*
-  📅 Sat, 04 Jul 2026 00:57:44 +0000
 
 ### 📑 TechCrunch
 
@@ -104,21 +103,13 @@
 
 ### 📑 Dev.to
 
-- **[Why I’m Thinking of Switching My Portfolio to Astro.js ..](https://dev.to/kavin_hbn_e6108b3e666949c/why-im-thinking-of-switching-my-portfolio-to-astrojs--4gcj)**
-  *<h1>
-  
-  
-  Why I'm Thinking of Switching My Portfolio to Astro.js
-</h1>
+- **[Sematic Coherance](https://dev.to/claireg/sematic-coherance-23c1)**
+  *<p>Semantic coherence is not a quality metric or an alignment outcome. It is the structural condition that determines whether meaning remains stable, interpretable, and legitimate as the system accele...*
+  📅 Sat, 04 Jul 2026 12:52:21 +0000
 
-<p>Lately I have been spending most of my time building auditing dashboards. Working on data-highly interactive applications ...*
-  📅 Sat, 04 Jul 2026 08:12:55 +0000
-
-- **[Dockerizing a crypto ETL pipeline](https://dev.to/abdiomari/dockerizing-a-crypto-etl-pipeline-29me)**
-  *<p>You know that moment when you switch machines and suddenly nothing works?</p>
-
-<p>You installed Postgres on your laptop months ago, forgot the setup steps, and now you're on a different machine try...*
-  📅 Sat, 04 Jul 2026 08:10:44 +0000
+- **[Chasing the Light: How the June Solstice Game Jam Turned One Prompt Into a Hundred Different Games](https://dev.to/xenocoregiger31/chasing-the-light-how-the-june-solstice-game-jam-turned-one-prompt-into-a-hundred-different-games-4of)**
+  *<p>Every game jam lives or dies by its theme, and this year's June Solstice Game Jam handed developers something deceptively simple: the longest day of the year. What emerged from that single prompt w...*
+  📅 Sat, 04 Jul 2026 12:52:15 +0000
 
 </details>
 
@@ -126,7 +117,15 @@
 
 ### 📈 Daily Trending
 
-- **[lxh77721/k12-reg](https://github.com/lxh77721/k12-reg)** ⭐ 48
+- **[ylvachifu1992/Silent-Crypto-Miner](https://github.com/ylvachifu1992/Silent-Crypto-Miner)** ⭐ 96
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  Silent Crypto Miner is an advanced cryptocurrency mining builder and runtime engine with multi-algorithm CPU/GPU support and intelligent resource management. Create custom mining executables with configurable algorithms, cross-platform output, real-time monitoring, session persistence, thermal throttling, scheduling, and hashrate optimization.
+
+- **[yynxxxxx/Codex-X](https://github.com/yynxxxxx/Codex-X)** ⭐ 77
+  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
+  Codex Switch & Instruct desktop manager
+
+- **[lxh77721/k12-reg](https://github.com/lxh77721/k12-reg)** ⭐ 75
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   多线程全自动注册free 强上K12空间 gmail版
 
@@ -134,79 +133,71 @@
   ![Python](https://img.shields.io/badge/-Python-blue)
   Flash USDT Sender — Multi-network flash transaction tool for USDT, BTC, and ETH with configurable duration, custom gas settings, ERC-20/TRC-20/BEP-20 support, and block explorer-visible confirmations
 
-- **[sarumithrasuresh/FinTrack-UI-UX-Design](https://github.com/sarumithrasuresh/FinTrack-UI-UX-Design)** ⭐ 26
+- **[sarumithrasuresh/FinTrack-UI-UX-Design](https://github.com/sarumithrasuresh/FinTrack-UI-UX-Design)** ⭐ 28
   ![None](https://img.shields.io/badge/-None-lightgrey)
   FinTrack - Personal Finance & Expense Tracking Mobile App UI/UX Design
+
+- **[datcc8a-max/Nhom_4_Quan_An_Fusion](https://github.com/datcc8a-max/Nhom_4_Quan_An_Fusion)** ⭐ 20
+  ![HTML](https://img.shields.io/badge/-HTML-lightgrey)
+  None
+
+- **[programmersd21/flow](https://github.com/programmersd21/flow)** ⭐ 20
+  ![Go](https://img.shields.io/badge/-Go-cyan)
+  🌊 see your network breathe
 
 - **[Anahitam1991/Exodus-Fake-Balance](https://github.com/Anahitam1991/Exodus-Fake-Balance)** ⭐ 17
   ![Python](https://img.shields.io/badge/-Python-blue)
   Exodus Fake Balance — Native balance overlay tool for Exodus wallet with real-time spoofing across BTC, ETH, SOL, XRP and 200+ assets, persistent hooks, and screenshot-safe display rendering
 
-- **[datcc8a-max/Nhom_4_Quan_An_Fusion](https://github.com/datcc8a-max/Nhom_4_Quan_An_Fusion)** ⭐ 14
-  ![HTML](https://img.shields.io/badge/-HTML-lightgrey)
-  None
-
-- **[grokigi/facebook-reporting-bot](https://github.com/grokigi/facebook-reporting-bot)** ⭐ 10
-  ![None](https://img.shields.io/badge/-None-lightgrey)
-  FaceBook report bot are a tool designed to automate the process of reporting account page group on FaceBook that may violate the platform's policies. These bots can be used to mass-report accounts for spam, fake profiles, or other violations also its a reporter mass profile acc ban.
-
-- **[JUSTICEKB/JUSTICEKB-Simple-LOOP-CLAW](https://github.com/JUSTICEKB/JUSTICEKB-Simple-LOOP-CLAW)** ⭐ 7
-  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
-  None
-
-- **[apoorv-jn24/TCS-IPA-PREPARATION](https://github.com/apoorv-jn24/TCS-IPA-PREPARATION)** ⭐ 6
-  ![None](https://img.shields.io/badge/-None-lightgrey)
-  None
-
 ### 📈 Weekly Trending
 
-- **[Krishnagangwal/CS-Fundamentals](https://github.com/Krishnagangwal/CS-Fundamentals)** ⭐ 1,538
+- **[Krishnagangwal/CS-Fundamentals](https://github.com/Krishnagangwal/CS-Fundamentals)** ⭐ 1,546
   ![None](https://img.shields.io/badge/-None-lightgrey)
   Curated CS fundamentals for placement prep: DSA,Computer Networks, DBMS & SQL, OOPs, Operating Systems, System Design & Software Engineering
 
-- **[yynxxxxx/Codex-5.5-codex-instruct-5.5](https://github.com/yynxxxxx/Codex-5.5-codex-instruct-5.5)** ⭐ 1,318
+- **[yynxxxxx/Codex-5.5-codex-instruct-5.5](https://github.com/yynxxxxx/Codex-5.5-codex-instruct-5.5)** ⭐ 1,342
   ![Python](https://img.shields.io/badge/-Python-blue)
   None
 
-- **[mekos2772/ios-location-spoofer](https://github.com/mekos2772/ios-location-spoofer)** ⭐ 1,273
+- **[mekos2772/ios-location-spoofer](https://github.com/mekos2772/ios-location-spoofer)** ⭐ 1,278
   ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
   Standalone iOS app to spoof GPS location without jailbreak. Includes Shadowrocket/Surge/Loon/QX/Stash module.
 
-- **[Kulaxyz/self-learning-skills](https://github.com/Kulaxyz/self-learning-skills)** ⭐ 814
+- **[Kulaxyz/self-learning-skills](https://github.com/Kulaxyz/self-learning-skills)** ⭐ 820
   ![None](https://img.shields.io/badge/-None-lightgrey)
   A self-improving skill for AI coding agents (Claude Code, Cursor, AGENTS.md): recognize a hard-won golden path in a session and harvest it into a reusable skill/rule for next time.
 
-- **[HUANGCHIHHUNGLeo/claude-real-video](https://github.com/HUANGCHIHHUNGLeo/claude-real-video)** ⭐ 627
+- **[HUANGCHIHHUNGLeo/claude-real-video](https://github.com/HUANGCHIHHUNGLeo/claude-real-video)** ⭐ 668
   ![Python](https://img.shields.io/badge/-Python-blue)
   Let Claude (or any LLM) actually watch a video — scene-aware, deduplicated frames + transcript, from a URL or local file. Runs locally, MIT.
 
-- **[xuchonglang/investing-for-beginners](https://github.com/xuchonglang/investing-for-beginners)** ⭐ 553
+- **[xuchonglang/investing-for-beginners](https://github.com/xuchonglang/investing-for-beginners)** ⭐ 590
   ![None](https://img.shields.io/badge/-None-lightgrey)
   小隐寺投资百科官方公开索引：美股、期权与加密货币知识框架
 
-- **[TianhangZhuzth/Fundamental-Ava](https://github.com/TianhangZhuzth/Fundamental-Ava)** ⭐ 521
+- **[jamesob/local-llm](https://github.com/jamesob/local-llm)** ⭐ 538
+  ![Shell](https://img.shields.io/badge/-Shell-lightgrey)
+  Everything I know about running LLMs locally
+
+- **[TianhangZhuzth/Fundamental-Ava](https://github.com/TianhangZhuzth/Fundamental-Ava)** ⭐ 522
   ![Python](https://img.shields.io/badge/-Python-blue)
   Build digital human beings — autonomous, collaborative, and socially intelligent agents. FNzgGxU31RWiDgLr3GvxxSa42nRntvZNSG6aBMQ1pump
 
-- **[uzairansaruzi/hermex](https://github.com/uzairansaruzi/hermex)** ⭐ 473
-  ![Swift](https://img.shields.io/badge/-Swift-lightgrey)
-  Native iPhone app for your Hermes agent
-
 ### 📈 Monthly Trending
 
-- **[DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail)** ⭐ 73,322
+- **[DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail)** ⭐ 73,496
   ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
   Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.
 
-- **[baidu/Unlimited-OCR](https://github.com/baidu/Unlimited-OCR)** ⭐ 13,204
+- **[baidu/Unlimited-OCR](https://github.com/baidu/Unlimited-OCR)** ⭐ 13,224
   ![Python](https://img.shields.io/badge/-Python-blue)
   Unlimited OCR Works: Welcome the Era of One-shot Long-horizon Parsing.
 
-- **[XiaomiMiMo/MiMo-Code](https://github.com/XiaomiMiMo/MiMo-Code)** ⭐ 11,384
+- **[XiaomiMiMo/MiMo-Code](https://github.com/XiaomiMiMo/MiMo-Code)** ⭐ 11,395
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   MiMo Code: Where Models and Agents Co-Evolve
 
-- **[unicity-astrid/book](https://github.com/unicity-astrid/book)** ⭐ 7,533
+- **[unicity-astrid/book](https://github.com/unicity-astrid/book)** ⭐ 7,534
   ![Perl](https://img.shields.io/badge/-Perl-lightgrey)
   The canonical reference for Astrid OS: kernel, capsules, host ABI, the bus, and the security model.
 
@@ -214,15 +205,15 @@
   ![None](https://img.shields.io/badge/-None-lightgrey)
   How to work on Astrid: the polyrepo, the kernel-is-dumb law, the RFC trigger, contribution tiers, and the release process.
 
-- **[shadcn/improve](https://github.com/shadcn/improve)** ⭐ 6,787
+- **[shadcn/improve](https://github.com/shadcn/improve)** ⭐ 6,800
   ![None](https://img.shields.io/badge/-None-lightgrey)
   Use your most capable model to audit your codebase and write plans for cheaper models to execute.
 
-- **[omnigent-ai/omnigent](https://github.com/omnigent-ai/omnigent)** ⭐ 6,184
+- **[omnigent-ai/omnigent](https://github.com/omnigent-ai/omnigent)** ⭐ 6,195
   ![Python](https://img.shields.io/badge/-Python-blue)
   Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom agents — swap harnesses without rewriting, enforce policies and sandboxing, and collaborate in real time from any device.
 
-- **[deepseek-ai/DeepSpec](https://github.com/deepseek-ai/DeepSpec)** ⭐ 6,096
+- **[deepseek-ai/DeepSpec](https://github.com/deepseek-ai/DeepSpec)** ⭐ 6,120
   ![Python](https://img.shields.io/badge/-Python-blue)
   DeepSpec: a full-stack codebase for training and evaluating speculative decoding algorithms
 
@@ -493,30 +484,30 @@ See [kubernetes-announce@](https://groups.google.com/forum/#!forum/kubernetes-an
 
 | Skill | Status |
 |-------|--------|
-| Java | ⚪ Planned |
-| Python | ⚪ Planned |
+| Java | 🟡 Learning |
+| Python | 🔴 Beginner |
 | JavaScript | 🟡 Learning |
-| TypeScript | ⚪ Planned |
-| Go | 🔴 Beginner |
+| TypeScript | 🟡 Learning |
+| Go | ⚪ Planned |
 
 ### Frameworks
 
 | Skill | Status |
 |-------|--------|
-| React | 🔴 Beginner |
+| React | 🟡 Learning |
 | Spring Boot | ⚪ Planned |
 | Django | 🔴 Beginner |
-| Node.js | ⚪ Planned |
-| Next.js | 🔴 Beginner |
+| Node.js | 🟡 Learning |
+| Next.js | 🟡 Learning |
 
 ### Cybersecurity
 
 | Skill | Status |
 |-------|--------|
 | Penetration Testing | ⚪ Planned |
-| Web Security | 🔴 Beginner |
-| Network Security | 🔴 Beginner |
-| OWASP | 🔴 Beginner |
+| Web Security | 🟢 Proficient |
+| Network Security | ⚪ Planned |
+| OWASP | 🟢 Proficient |
 
 ### Ai Ml
 
@@ -524,28 +515,28 @@ See [kubernetes-announce@](https://groups.google.com/forum/#!forum/kubernetes-an
 |-------|--------|
 | Machine Learning | 🟡 Learning |
 | Deep Learning | 🔴 Beginner |
-| NLP | ⚪ Planned |
-| Computer Vision | ⚪ Planned |
-| TensorFlow | 🔴 Beginner |
-| PyTorch | ⚪ Planned |
+| NLP | 🔴 Beginner |
+| Computer Vision | 🟢 Proficient |
+| TensorFlow | 🟡 Learning |
+| PyTorch | 🔴 Beginner |
 
 ### Devops
 
 | Skill | Status |
 |-------|--------|
 | Docker | 🔴 Beginner |
-| Kubernetes | 🟡 Learning |
-| CI/CD | 🟡 Learning |
-| AWS | 🔴 Beginner |
-| Azure | 🟡 Learning |
+| Kubernetes | 🟢 Proficient |
+| CI/CD | ⚪ Planned |
+| AWS | 🟡 Learning |
+| Azure | ⚪ Planned |
 
 ### Other
 
 | Skill | Status |
 |-------|--------|
-| Blockchain | 🟡 Learning |
-| Web3 | 🔴 Beginner |
-| Cloud Computing | 🟡 Learning |
+| Blockchain | 🔴 Beginner |
+| Web3 | 🟡 Learning |
+| Cloud Computing | ⚪ Planned |
 
 </details>
 
