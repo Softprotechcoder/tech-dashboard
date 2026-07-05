@@ -20,7 +20,7 @@
 | Metric | Count |
 |--------|-------|
 | 📰 Latest News Articles | 26 |
-| 🔥 Trending Repositories | 30 |
+| 🔥 Trending Repositories | 45 |
 | 🎯 Latest Releases | 10 |
 | 🎯 Learning Goals | 4 |
 
@@ -46,35 +46,48 @@
 
 ### 📑 Hacker News
 
-- **[Show HN: KiCad in the Browser](https://demo.pcbjam.com/)**
-  *<p>KiCad, a PCB EDA suite is now working in a browser, you can try it at the link, there's a demo project or you can bring your own. Firefox is best, Chrome is good, Safari is "working".<p>We’re Emerg...*
-  📅 Sun, 05 Jul 2026 12:06:57 +0000
+- **[Moving Back Home Used to Be a Sign of Failure. Now It Shows Financial Savvy](https://www.wsj.com/lifestyle/relationships/living-with-parents-finances-0c35530c)**
+  *<p>Article URL: <a href="https://www.wsj.com/lifestyle/relationships/living-with-parents-finances-0c35530c">https://www.wsj.com/lifestyle/relationships/living-with-parents-finances-0c35530c</a></p>
+<p...*
+  📅 Sun, 05 Jul 2026 17:34:49 +0000
 
-- **[Cannabis Users Face Substantially Higher Risk of Heart Attack](https://www.acc.org/about-acc/press-releases/2025/03/17/15/35/cannabis-users-face-substantially-higher-risk)**
-  *<p>Article URL: <a href="https://www.acc.org/about-acc/press-releases/2025/03/17/15/35/cannabis-users-face-substantially-higher-risk">https://www.acc.org/about-acc/press-releases/2025/03/17/15/35/cann...*
-  📅 Sun, 05 Jul 2026 11:59:27 +0000
+- **[The Computers Used in Movies](https://www.starringthecomputer.com/computers.html)**
+  *<p>Article URL: <a href="https://www.starringthecomputer.com/computers.html">https://www.starringthecomputer.com/computers.html</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=4...*
+  📅 Sun, 05 Jul 2026 17:33:04 +0000
 
-- **[Introduction to Compilers and Language Design](https://dthain.github.io/books/compiler/)**
-  *<p>Article URL: <a href="https://dthain.github.io/books/compiler/">https://dthain.github.io/books/compiler/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=48793454">https://new...*
-  📅 Sun, 05 Jul 2026 11:54:16 +0000
+- **[Taphonomic analysis reveals behavioral & tech capabilities of Homo floresiensis](https://www.science.org/doi/10.1126/sciadv.aeb7219)**
+  *<p>Article URL: <a href="https://www.science.org/doi/10.1126/sciadv.aeb7219">https://www.science.org/doi/10.1126/sciadv.aeb7219</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=4...*
+  📅 Sun, 05 Jul 2026 17:27:46 +0000
 
-- **[Scientist who cleaned space toilet on work now leading Mars exploration](https://www.bbc.com/news/articles/cz758x04g83o)**
-  *<p>Article URL: <a href="https://www.bbc.com/news/articles/cz758x04g83o">https://www.bbc.com/news/articles/cz758x04g83o</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=48792780"...*
-  📅 Sun, 05 Jul 2026 09:55:22 +0000
+- **["These cameras are just like the Eye of Sauron"](https://arxiv.org/abs/2602.09239)**
+  *<p>Article URL: <a href="https://arxiv.org/abs/2602.09239">https://arxiv.org/abs/2602.09239</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=48795830">https://news.ycombinator.co...*
+  📅 Sun, 05 Jul 2026 17:05:57 +0000
 
-- **[Claude Design System Prompt](https://github.com/Trystan-SA/claude-design-system-prompt)**
-  *<p>Article URL: <a href="https://github.com/Trystan-SA/claude-design-system-prompt">https://github.com/Trystan-SA/claude-design-system-prompt</a></p>
-<p>Comments URL: <a href="https://news.ycombinator...*
-  📅 Sun, 05 Jul 2026 08:43:37 +0000
+- **[Mark Zuckerberg tells staff that AI agents haven't progressed enough](https://techcrunch.com/2026/07/02/mark-zuckerberg-tells-staff-that-ai-agents-havent-progressed-as-quickly-as-hed-hoped/)**
+  *<p>Article URL: <a href="https://techcrunch.com/2026/07/02/mark-zuckerberg-tells-staff-that-ai-agents-havent-progressed-as-quickly-as-hed-hoped/">https://techcrunch.com/2026/07/02/mark-zuckerberg-tell...*
+  📅 Sun, 05 Jul 2026 17:05:35 +0000
 
-- **[Knowledge Should Not Be Gated](https://www.formaly.io/blog/knowledge-should-not-be-gated)**
-  *<p>Article URL: <a href="https://www.formaly.io/blog/knowledge-should-not-be-gated">https://www.formaly.io/blog/knowledge-should-not-be-gated</a></p>
-<p>Comments URL: <a href="https://news.ycombinator...*
-  📅 Sun, 05 Jul 2026 07:59:48 +0000
+- **[Zuckerberg's Increasingly Bizarre War on Whistleblowers](https://pluralistic.net/2026/06/27/zuckerstreisand-2/#autodisparagement)**
+  *<p>Article URL: <a href="https://pluralistic.net/2026/06/27/zuckerstreisand-2/#autodisparagement">https://pluralistic.net/2026/06/27/zuckerstreisand-2/#autodisparagement</a></p>
+<p>Comments URL: <a hr...*
+  📅 Sun, 05 Jul 2026 16:11:08 +0000
 
 ### 📑 TechCrunch
+
+- **[Amazon will stop accepting new customers for Mechanical Turk](https://techcrunch.com/2026/07/05/amazon-will-stop-accepting-new-customers-for-mechanical-turk/)**
+  *These may be the last days of Amazon’s Mechanical Turk....*
+  📅 Sun, 05 Jul 2026 17:43:36 +0000
+
+- **[5 desk gadgets that can make your workday better](https://techcrunch.com/2026/07/05/5-desk-gadgets-that-can-make-your-workday-better/)**
+  *The right desk gadgets can help you reduce clutter, stay focused, and add a little extra convenience to your day....*
+  📅 Sun, 05 Jul 2026 15:00:00 +0000
+
+- **[What is Bending Spoons? The little-known AOL and Vimeo owner that’s now public](https://techcrunch.com/2026/07/05/what-is-bending-spoons-everything-to-know-about-aols-acquirer/)**
+  *Bending Spoons remains largely unknown, even as its portfolio of products has served more than a billion people....*
+  📅 Sun, 05 Jul 2026 13:33:32 +0000
 
 - **[Almost 90 new unicorns have been minted so far this year — here they are](https://techcrunch.com/2026/07/05/almost-40-new-unicorns-have-been-minted-so-far-this-year-here-they-are/)**
   *With AI igniting an investor frenzy, more startups are achieving unicorn status every month....*
@@ -88,35 +101,17 @@
   *As part of an ongoing legal dispute with three Hollywood studios, Midjourney is seeking to compel those studios to reveal how they use AI themselves....*
   📅 Sat, 04 Jul 2026 18:00:05 +0000
 
-- **[Alibaba reportedly bans employees from using Claude Code](https://techcrunch.com/2026/07/04/alibaba-reportedly-bans-employees-from-using-claude-code/)**
-  *Alibaba has reportedly classified Claude Code as high-risk software....*
-  📅 Sat, 04 Jul 2026 16:32:08 +0000
-
-- **[What is Mistral AI? Everything to know about the OpenAI competitor](https://techcrunch.com/2026/07/04/what-is-mistral-ai-everything-to-know-about-the-openai-competitor/)**
-  *Mistral AI, which offers some open source AI models, has raised significant funding since its creation in 2023, with the ambition to “put frontier AI in the hands of everyone.”...*
-  📅 Sat, 04 Jul 2026 15:51:32 +0000
-
-- **[The only AI glossary you’ll need this year](https://techcrunch.com/2026/07/03/artificial-intelligence-definition-glossary-hallucinations-guide-to-common-ai-terms/)**
-  *The rise of AI has brought an avalanche of new terms and slang. Here is a glossary with definitions of some of the most important words and phrases you might encounter....*
-  📅 Fri, 03 Jul 2026 21:20:00 +0000
-
 ### 📑 Dev.to
 
-- **[Chrome Extension Volume Booster Adds Unconsented Affiliate Feature, Raising Privacy Concerns](https://dev.to/kserude/chrome-extension-volume-booster-adds-unconsented-affiliate-feature-raising-privacy-concerns-292c)**
-  *<h2>
-  
-  
-  Introduction: Volume Booster’s Stealthy Pivot to Data Monetization
-</h2>
+- **[I Built a Free Browser Gaming Platform – FizGame](https://dev.to/playfizgame/i-built-a-free-browser-gaming-platform-fizgame-2l8)**
+  *<p><strong>🎮 I Built a Free Browser Gaming Platform – FizGame</strong></p>
 
-<p>A widely adopted Chrome extension, <strong>Volume Booster</strong>, with over 2 million users, recently underw...*
-  📅 Sun, 05 Jul 2026 13:02:57 +0000
+<p>Over the past few weeks, I've been working on a side project called FizGame, a free browser gaming platform where anyone ...*
+  📅 Sun, 05 Jul 2026 18:48:56 +0000
 
-- **[Day 60: ClickHouse® Query Profiling – Finding Performance Bottlenecks](https://dev.to/kanishga_subramani_49ad73/day-60-clickhouser-query-profiling-finding-performance-bottlenecks-2hgi)**
-  *<p>When a query becomes slow, the first instinct is often to add more CPU or increase memory. In reality, the problem may have nothing to do with hardware.</p>
-
-<p>A query can be slow because it scans...*
-  📅 Sun, 05 Jul 2026 13:01:49 +0000
+- **[PostgreSQL query planner parameters and prepared statements](https://dev.to/franckpachot/postgresql-query-planner-parameters-and-prepared-statements-3o5a)**
+  *<p>PostgreSQL provides several planner configuration parameters, such as <code>enable_seqscan</code> and <code>enable_indexscan</code>, that influence how execution plans are generated. These settings...*
+  📅 Sun, 05 Jul 2026 18:46:50 +0000
 
 </details>
 
@@ -124,71 +119,105 @@
 
 ### 📈 Daily Trending
 
-- **[Miguok/fable-harness](https://github.com/Miguok/fable-harness)** ⭐ 28
+- **[Miguok/fable-harness](https://github.com/Miguok/fable-harness)** ⭐ 76
   ![Python](https://img.shields.io/badge/-Python-blue)
   Make Claude Code work like a disciplined engineer: OODA, multi-party adversarial review, model routing, fail-then-pass. Distilled from Fable to reinforce the Opus harness.
 
-- **[wanglinsaputra/OmniPost-AI](https://github.com/wanglinsaputra/OmniPost-AI)** ⭐ 25
-  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
-  AI-powered Chrome extension for generating and publishing posts to Facebook, Threads, and X using ChatGPT or Gemini.
+- **[TheColliny/FableClaudeMDForOpus](https://github.com/TheColliny/FableClaudeMDForOpus)** ⭐ 69
+  ![None](https://img.shields.io/badge/-None-lightgrey)
+  A Fable written Claude MD for Opus/Sonnet to give it some of the quality methodology that Fable uses
 
-- **[RennAkira/spicy-monopoly](https://github.com/RennAkira/spicy-monopoly)** ⭐ 25
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  和你的 AI 一起玩的双人棋盘小游戏 · 18+ （A two-player board game you play with your AI — dice, tiles, spicy tasks, all run by code (18+））
-
-- **[tonyd2wild/GLM-5.2-QuantTrio-200K-4x-DGX-Spark](https://github.com/tonyd2wild/GLM-5.2-QuantTrio-200K-4x-DGX-Spark)** ⭐ 21
-  ![Shell](https://img.shields.io/badge/-Shell-lightgrey)
-  Recipe: GLM-5.2 (unpruned QuantTrio Int4-Int8Mix) at 200K ctx with MTP spec decode on a 4x NVIDIA DGX Spark (GB10) cluster
-
-- **[animaios/anima-use-google](https://github.com/animaios/anima-use-google)** ⭐ 18
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
-  MCP server + browser sidecar extension that lets AI agents run Google AI Mode searches using your own logged-in browser session
-
-- **[imjyotiraditya/dmt](https://github.com/imjyotiraditya/dmt)** ⭐ 17
-  ![Kotlin](https://img.shields.io/badge/-Kotlin-lightgrey)
-  a tui-inspired local music player for android. dear music, thanks.
-
-- **[nagisanzenin/engram](https://github.com/nagisanzenin/engram)** ⭐ 15
+- **[nagisanzenin/engram](https://github.com/nagisanzenin/engram)** ⭐ 68
   ![Python](https://img.shields.io/badge/-Python-blue)
   Evidence-based learning engine for Claude Code — first-principles curricula, free-recall verification with receipts, FSRS-scheduled memory, and explorable artifacts. Learn anything; keep it.
 
-- **[engrammemory-labs/engram-lite](https://github.com/engrammemory-labs/engram-lite)** ⭐ 14
+- **[RennAkira/spicy-monopoly](https://github.com/RennAkira/spicy-monopoly)** ⭐ 57
   ![Python](https://img.shields.io/badge/-Python-blue)
-  Local Agentic Memory
+  和你的 AI 一起玩的双人棋盘小游戏 · 18+ （A two-player board game you play with your AI — dice, tiles, spicy tasks, all run by code (18+））
+
+- **[514-labs/dnsglobe](https://github.com/514-labs/dnsglobe)** ⭐ 55
+  ![Rust](https://img.shields.io/badge/-Rust-brown)
+  Global DNS propagation checker TUI — watch a DNS record propagate across 34 public resolvers worldwide, on a world map in your terminal
+
+- **[CYEBRSYSTEM-AliAlame/IntuneToolKit](https://github.com/CYEBRSYSTEM-AliAlame/IntuneToolKit)** ⭐ 42
+  ![PowerShell](https://img.shields.io/badge/-PowerShell-lightgrey)
+  None
+
+- **[u-ichi/compact-plus](https://github.com/u-ichi/compact-plus)** ⭐ 42
+  ![Shell](https://img.shields.io/badge/-Shell-lightgrey)
+  Claude Code plugin: preserve and restore working state around /compact
+
+- **[lucid-softworks/lumen](https://github.com/lucid-softworks/lumen)** ⭐ 38
+  ![Rust](https://img.shields.io/badge/-Rust-brown)
+  A from-scratch JavaScript engine in Rust — std only, zero deps, 100% test262 (53,376/53,376)
 
 ### 📈 Weekly Trending
 
-- **[mekos2772/ios-location-spoofer](https://github.com/mekos2772/ios-location-spoofer)** ⭐ 1,311
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
-  Standalone iOS app to spoof GPS location without jailbreak. Includes Shadowrocket/Surge/Loon/QX/Stash module.
-
-- **[elder-plinius/T3MP3ST](https://github.com/elder-plinius/T3MP3ST)** ⭐ 921
+- **[elder-plinius/T3MP3ST](https://github.com/elder-plinius/T3MP3ST)** ⭐ 1,355
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   autonomous red teaming platform; multi-agent offensive-security meta-harness
 
-- **[HUANGCHIHHUNGLeo/claude-real-video](https://github.com/HUANGCHIHHUNGLeo/claude-real-video)** ⭐ 865
+- **[mekos2772/ios-location-spoofer](https://github.com/mekos2772/ios-location-spoofer)** ⭐ 1,322
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
+  Standalone iOS app to spoof GPS location without jailbreak. Includes Shadowrocket/Surge/Loon/QX/Stash module.
+
+- **[HUANGCHIHHUNGLeo/claude-real-video](https://github.com/HUANGCHIHHUNGLeo/claude-real-video)** ⭐ 914
   ![Python](https://img.shields.io/badge/-Python-blue)
   Let Claude (or any LLM) actually watch a video — scene-aware, deduplicated frames + transcript, from a URL or local file. Runs locally, MIT.
 
-- **[jamesob/local-llm](https://github.com/jamesob/local-llm)** ⭐ 837
+- **[jamesob/local-llm](https://github.com/jamesob/local-llm)** ⭐ 882
   ![Shell](https://img.shields.io/badge/-Shell-lightgrey)
   Everything I know about running LLMs locally
 
-- **[xuchonglang/investing-for-beginners](https://github.com/xuchonglang/investing-for-beginners)** ⭐ 685
+- **[ammaarreshi/Generals-Mac-iOS-iPad](https://github.com/ammaarreshi/Generals-Mac-iOS-iPad)** ⭐ 715
+  ![C++](https://img.shields.io/badge/-C++-pink)
+  Command & Conquer Generals: Zero Hour running natively on macOS, iPhone & iPad — real engine (EA GPL v3 source, via GeneralsX), DXVK/MoltenVK renderer, RTS touch controls. No game assets included.
+
+- **[xuchonglang/investing-for-beginners](https://github.com/xuchonglang/investing-for-beginners)** ⭐ 698
   ![None](https://img.shields.io/badge/-None-lightgrey)
   小隐寺投资百科官方公开索引：美股、期权与加密货币知识框架
 
-- **[jmerelnyc/Talos](https://github.com/jmerelnyc/Talos)** ⭐ 640
+- **[jmerelnyc/Talos](https://github.com/jmerelnyc/Talos)** ⭐ 664
   ![Python](https://img.shields.io/badge/-Python-blue)
   GPU worker client for the Talos network. Pairs with your Talos account, serves open-model inference jobs over a WebSocket, and reports uptime for payouts.
 
-- **[uzairansaruzi/hermex](https://github.com/uzairansaruzi/hermex)** ⭐ 585
+- **[uzairansaruzi/hermex](https://github.com/uzairansaruzi/hermex)** ⭐ 606
   ![Swift](https://img.shields.io/badge/-Swift-lightgrey)
   Native iPhone app for your Hermes agent
 
-- **[ammaarreshi/Generals-Mac-iOS-iPad](https://github.com/ammaarreshi/Generals-Mac-iOS-iPad)** ⭐ 552
-  ![C++](https://img.shields.io/badge/-C++-pink)
-  Command & Conquer Generals: Zero Hour running natively on macOS, iPhone & iPad — real engine (EA GPL v3 source, via GeneralsX), DXVK/MoltenVK renderer, RTS touch controls. No game assets included.
+### 📈 Monthly Trending
+
+- **[DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail)** ⭐ 74,645
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
+  Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.
+
+- **[baidu/Unlimited-OCR](https://github.com/baidu/Unlimited-OCR)** ⭐ 13,344
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  Unlimited OCR Works: Welcome the Era of One-shot Long-horizon Parsing.
+
+- **[XiaomiMiMo/MiMo-Code](https://github.com/XiaomiMiMo/MiMo-Code)** ⭐ 11,463
+  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
+  MiMo Code: Where Models and Agents Co-Evolve
+
+- **[unicity-astrid/book](https://github.com/unicity-astrid/book)** ⭐ 7,533
+  ![Perl](https://img.shields.io/badge/-Perl-lightgrey)
+  The canonical reference for Astrid OS: kernel, capsules, host ABI, the bus, and the security model.
+
+- **[unicity-astrid/handbook](https://github.com/unicity-astrid/handbook)** ⭐ 7,480
+  ![None](https://img.shields.io/badge/-None-lightgrey)
+  How to work on Astrid: the polyrepo, the kernel-is-dumb law, the RFC trigger, contribution tiers, and the release process.
+
+- **[shadcn/improve](https://github.com/shadcn/improve)** ⭐ 6,928
+  ![None](https://img.shields.io/badge/-None-lightgrey)
+  Use your most capable model to audit your codebase and write plans for cheaper models to execute.
+
+- **[omnigent-ai/omnigent](https://github.com/omnigent-ai/omnigent)** ⭐ 6,303
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom agents — swap harnesses without rewriting, enforce policies and sandboxing, and collaborate in real time from any device.
+
+- **[deepseek-ai/DeepSpec](https://github.com/deepseek-ai/DeepSpec)** ⭐ 6,231
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  DeepSpec: a full-stack codebase for training and evaluating speculative decoding algorithms
 
 ## 🚀 Latest Releases
 
@@ -457,59 +486,59 @@ See [kubernetes-announce@](https://groups.google.com/forum/#!forum/kubernetes-an
 
 | Skill | Status |
 |-------|--------|
-| Java | ⚪ Planned |
-| Python | 🔴 Beginner |
-| JavaScript | 🔴 Beginner |
-| TypeScript | 🔴 Beginner |
-| Go | ⚪ Planned |
+| Java | 🔴 Beginner |
+| Python | 🟢 Proficient |
+| JavaScript | 🟡 Learning |
+| TypeScript | ⚪ Planned |
+| Go | 🔴 Beginner |
 
 ### Frameworks
 
 | Skill | Status |
 |-------|--------|
-| React | 🟡 Learning |
+| React | ⚪ Planned |
 | Spring Boot | 🟢 Proficient |
-| Django | ⚪ Planned |
+| Django | 🔴 Beginner |
 | Node.js | 🟡 Learning |
-| Next.js | 🟢 Proficient |
+| Next.js | 🔴 Beginner |
 
 ### Cybersecurity
 
 | Skill | Status |
 |-------|--------|
 | Penetration Testing | 🟡 Learning |
-| Web Security | 🟢 Proficient |
-| Network Security | ⚪ Planned |
-| OWASP | ⚪ Planned |
+| Web Security | 🟡 Learning |
+| Network Security | 🟢 Proficient |
+| OWASP | 🟡 Learning |
 
 ### Ai Ml
 
 | Skill | Status |
 |-------|--------|
-| Machine Learning | 🟢 Proficient |
-| Deep Learning | 🟢 Proficient |
-| NLP | 🔴 Beginner |
-| Computer Vision | 🔴 Beginner |
-| TensorFlow | ⚪ Planned |
-| PyTorch | 🟢 Proficient |
+| Machine Learning | ⚪ Planned |
+| Deep Learning | ⚪ Planned |
+| NLP | 🟡 Learning |
+| Computer Vision | 🟡 Learning |
+| TensorFlow | 🔴 Beginner |
+| PyTorch | 🟡 Learning |
 
 ### Devops
 
 | Skill | Status |
 |-------|--------|
-| Docker | ⚪ Planned |
-| Kubernetes | 🟡 Learning |
-| CI/CD | 🟡 Learning |
-| AWS | 🔴 Beginner |
-| Azure | 🔴 Beginner |
+| Docker | 🔴 Beginner |
+| Kubernetes | ⚪ Planned |
+| CI/CD | 🔴 Beginner |
+| AWS | 🟢 Proficient |
+| Azure | 🟡 Learning |
 
 ### Other
 
 | Skill | Status |
 |-------|--------|
 | Blockchain | ⚪ Planned |
-| Web3 | 🟢 Proficient |
-| Cloud Computing | 🟢 Proficient |
+| Web3 | 🟡 Learning |
+| Cloud Computing | 🔴 Beginner |
 
 </details>
 
