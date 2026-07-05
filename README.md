@@ -20,7 +20,7 @@
 | Metric | Count |
 |--------|-------|
 | 📰 Latest News Articles | 26 |
-| 🔥 Trending Repositories | 45 |
+| 🔥 Trending Repositories | 30 |
 | 🎯 Latest Releases | 10 |
 | 🎯 Learning Goals | 4 |
 
@@ -46,36 +46,39 @@
 
 ### 📑 Hacker News
 
-- **[Is The Economist Always Wrong?](https://economist.com/interactive/finance-and-economics/2026/07/02/is-the-economist-always-wrong)**
-  *<p>Article URL: <a href="https://economist.com/interactive/finance-and-economics/2026/07/02/is-the-economist-always-wrong">https://economist.com/interactive/finance-and-economics/2026/07/02/is-the-eco...*
-  📅 Sun, 05 Jul 2026 06:40:05 +0000
+- **[Show HN: KiCad in the Browser](https://demo.pcbjam.com/)**
+  *<p>KiCad, a PCB EDA suite is now working in a browser, you can try it at the link, there's a demo project or you can bring your own. Firefox is best, Chrome is good, Safari is "working".<p>We’re Emerg...*
+  📅 Sun, 05 Jul 2026 12:06:57 +0000
 
-- **[EV Batteries Are Defying Expectations After Miles](https://www.wsj.com/business/autos/ev-batteries-are-defying-expectations-after-hundreds-of-thousands-of-miles-8579de13)**
-  *<p>Article URL: <a href="https://www.wsj.com/business/autos/ev-batteries-are-defying-expectations-after-hundreds-of-thousands-of-miles-8579de13">https://www.wsj.com/business/autos/ev-batteries-are-def...*
-  📅 Sun, 05 Jul 2026 06:30:40 +0000
+- **[Cannabis Users Face Substantially Higher Risk of Heart Attack](https://www.acc.org/about-acc/press-releases/2025/03/17/15/35/cannabis-users-face-substantially-higher-risk)**
+  *<p>Article URL: <a href="https://www.acc.org/about-acc/press-releases/2025/03/17/15/35/cannabis-users-face-substantially-higher-risk">https://www.acc.org/about-acc/press-releases/2025/03/17/15/35/cann...*
+  📅 Sun, 05 Jul 2026 11:59:27 +0000
 
-- **[sqlite-utils 4.0rc2, mostly written by Claude Fable (for about $149.25)](https://simonwillison.net/2026/Jul/5/sqlite-utils-fable/)**
-  *<p>Article URL: <a href="https://simonwillison.net/2026/Jul/5/sqlite-utils-fable/">https://simonwillison.net/2026/Jul/5/sqlite-utils-fable/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.c...*
-  📅 Sun, 05 Jul 2026 06:19:34 +0000
+- **[Introduction to Compilers and Language Design](https://dthain.github.io/books/compiler/)**
+  *<p>Article URL: <a href="https://dthain.github.io/books/compiler/">https://dthain.github.io/books/compiler/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=48793454">https://new...*
+  📅 Sun, 05 Jul 2026 11:54:16 +0000
 
-- **[Megawatts by Microwave](https://computer.rip/2026-07-04-microwave-and-power.html)**
-  *<p>Article URL: <a href="https://computer.rip/2026-07-04-microwave-and-power.html">https://computer.rip/2026-07-04-microwave-and-power.html</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.c...*
-  📅 Sun, 05 Jul 2026 05:56:03 +0000
+- **[Scientist who cleaned space toilet on work now leading Mars exploration](https://www.bbc.com/news/articles/cz758x04g83o)**
+  *<p>Article URL: <a href="https://www.bbc.com/news/articles/cz758x04g83o">https://www.bbc.com/news/articles/cz758x04g83o</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=48792780"...*
+  📅 Sun, 05 Jul 2026 09:55:22 +0000
 
-- **[Mouse: Precision Editing Tools for AI Coding Agents](https://hic-ai.com)**
-  *<p>Article URL: <a href="https://hic-ai.com">https://hic-ai.com</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=48791380">https://news.ycombinator.com/item?id=48791380</a></p>
-<...*
-  📅 Sun, 05 Jul 2026 05:01:14 +0000
+- **[Claude Design System Prompt](https://github.com/Trystan-SA/claude-design-system-prompt)**
+  *<p>Article URL: <a href="https://github.com/Trystan-SA/claude-design-system-prompt">https://github.com/Trystan-SA/claude-design-system-prompt</a></p>
+<p>Comments URL: <a href="https://news.ycombinator...*
+  📅 Sun, 05 Jul 2026 08:43:37 +0000
 
-- **[Shadcn/UI now defaults to Base UI instead of Radix](https://ui.shadcn.com/docs/changelog)**
-  *<p>Article URL: <a href="https://ui.shadcn.com/docs/changelog">https://ui.shadcn.com/docs/changelog</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=48791328">https://news.ycombi...*
-  📅 Sun, 05 Jul 2026 04:46:08 +0000
+- **[Knowledge Should Not Be Gated](https://www.formaly.io/blog/knowledge-should-not-be-gated)**
+  *<p>Article URL: <a href="https://www.formaly.io/blog/knowledge-should-not-be-gated">https://www.formaly.io/blog/knowledge-should-not-be-gated</a></p>
+<p>Comments URL: <a href="https://news.ycombinator...*
+  📅 Sun, 05 Jul 2026 07:59:48 +0000
 
 ### 📑 TechCrunch
+
+- **[Almost 90 new unicorns have been minted so far this year — here they are](https://techcrunch.com/2026/07/05/almost-40-new-unicorns-have-been-minted-so-far-this-year-here-they-are/)**
+  *With AI igniting an investor frenzy, more startups are achieving unicorn status every month....*
+  📅 Sun, 05 Jul 2026 12:47:39 +0000
 
 - **[New Google commercial imagines a Declaration of Independence written with help from AI](https://techcrunch.com/2026/07/04/new-google-commercial-imagines-a-declaration-of-independence-written-with-help-from-ai/)**
   *Two hundred and fifty years after the signing of the Declaration of Independence, a new commercial asks: What if the Founding Fathers had access to Google Workspace?...*
@@ -97,19 +100,23 @@
   *The rise of AI has brought an avalanche of new terms and slang. Here is a glossary with definitions of some of the most important words and phrases you might encounter....*
   📅 Fri, 03 Jul 2026 21:20:00 +0000
 
-- **[The browser wars aren’t about search anymore — here are the best alternatives to Chrome and Safari](https://techcrunch.com/2026/07/03/as-the-browser-wars-heat-up-here-are-the-hottest-alternatives-to-chrome-and-safari-in-2026/)**
-  *We’ve compiled an overview of some of the top alternative browsers available today aiming to challenge Chrome and Safari....*
-  📅 Fri, 03 Jul 2026 18:43:00 +0000
-
 ### 📑 Dev.to
 
-- **[Anthropic swaps per-developer Claude Code secrets for an OIDC gateway](https://dev.to/leobaniak/anthropic-swaps-per-developer-claude-code-secrets-for-an-oidc-gateway-3go8)**
-  *<p>Every laptop with Claude Code on it tends to collect long-lived secrets like lint. A cloud key here, a service credential there, an API token in a dotfile that outlived two employees. That is the s...*
-  📅 Sun, 05 Jul 2026 08:24:29 +0000
+- **[Chrome Extension Volume Booster Adds Unconsented Affiliate Feature, Raising Privacy Concerns](https://dev.to/kserude/chrome-extension-volume-booster-adds-unconsented-affiliate-feature-raising-privacy-concerns-292c)**
+  *<h2>
+  
+  
+  Introduction: Volume Booster’s Stealthy Pivot to Data Monetization
+</h2>
 
-- **[How to Validate an IBAN (MOD-97 Check Digit, Explained)](https://dev.to/rosariov25/how-to-validate-an-iban-mod-97-check-digit-explained-1436)**
-  *<p>You typed your IBAN, hit send, and the bank threw it straight back: <em>invalid IBAN</em>. The number looks exactly right — same letters, same digits you copied off the invoice — but the transfer w...*
-  📅 Sun, 05 Jul 2026 08:23:59 +0000
+<p>A widely adopted Chrome extension, <strong>Volume Booster</strong>, with over 2 million users, recently underw...*
+  📅 Sun, 05 Jul 2026 13:02:57 +0000
+
+- **[Day 60: ClickHouse® Query Profiling – Finding Performance Bottlenecks](https://dev.to/kanishga_subramani_49ad73/day-60-clickhouser-query-profiling-finding-performance-bottlenecks-2hgi)**
+  *<p>When a query becomes slow, the first instinct is often to add more CPU or increase memory. In reality, the problem may have nothing to do with hardware.</p>
+
+<p>A query can be slow because it scans...*
+  📅 Sun, 05 Jul 2026 13:01:49 +0000
 
 </details>
 
@@ -117,105 +124,71 @@
 
 ### 📈 Daily Trending
 
-- **[animaios/anima-use-google](https://github.com/animaios/anima-use-google)** ⭐ 17
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
-  MCP server + browser sidecar extension that lets AI agents run Google AI Mode searches using your own logged-in browser session
+- **[Miguok/fable-harness](https://github.com/Miguok/fable-harness)** ⭐ 28
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  Make Claude Code work like a disciplined engineer: OODA, multi-party adversarial review, model routing, fail-then-pass. Distilled from Fable to reinforce the Opus harness.
 
-- **[wanglinsaputra/OmniPost-AI](https://github.com/wanglinsaputra/OmniPost-AI)** ⭐ 12
+- **[wanglinsaputra/OmniPost-AI](https://github.com/wanglinsaputra/OmniPost-AI)** ⭐ 25
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   AI-powered Chrome extension for generating and publishing posts to Facebook, Threads, and X using ChatGPT or Gemini.
 
-- **[tonyd2wild/GLM-5.2-QuantTrio-200K-4x-DGX-Spark](https://github.com/tonyd2wild/GLM-5.2-QuantTrio-200K-4x-DGX-Spark)** ⭐ 12
+- **[RennAkira/spicy-monopoly](https://github.com/RennAkira/spicy-monopoly)** ⭐ 25
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  和你的 AI 一起玩的双人棋盘小游戏 · 18+ （A two-player board game you play with your AI — dice, tiles, spicy tasks, all run by code (18+））
+
+- **[tonyd2wild/GLM-5.2-QuantTrio-200K-4x-DGX-Spark](https://github.com/tonyd2wild/GLM-5.2-QuantTrio-200K-4x-DGX-Spark)** ⭐ 21
   ![Shell](https://img.shields.io/badge/-Shell-lightgrey)
   Recipe: GLM-5.2 (unpruned QuantTrio Int4-Int8Mix) at 200K ctx with MTP spec decode on a 4x NVIDIA DGX Spark (GB10) cluster
 
-- **[polaris007/polaris007-repo](https://github.com/polaris007/polaris007-repo)** ⭐ 10
-  ![None](https://img.shields.io/badge/-None-lightgrey)
-  None
+- **[animaios/anima-use-google](https://github.com/animaios/anima-use-google)** ⭐ 18
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
+  MCP server + browser sidecar extension that lets AI agents run Google AI Mode searches using your own logged-in browser session
 
-- **[aijianai/NavoIM](https://github.com/aijianai/NavoIM)** ⭐ 9
-  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
-  Navo IM 是一款注重隐私与实时体验的即时通讯产品。支持端到端加密、频道与 AI 助手等功能。由 Navo 团队开发与维护。
+- **[imjyotiraditya/dmt](https://github.com/imjyotiraditya/dmt)** ⭐ 17
+  ![Kotlin](https://img.shields.io/badge/-Kotlin-lightgrey)
+  a tui-inspired local music player for android. dear music, thanks.
 
-- **[andrihakim146/hermes-second-brain](https://github.com/andrihakim146/hermes-second-brain)** ⭐ 9
+- **[nagisanzenin/engram](https://github.com/nagisanzenin/engram)** ⭐ 15
   ![Python](https://img.shields.io/badge/-Python-blue)
-  AI second brain for Obsidian, controlled from Telegram via Hermes Agent (MCP)
+  Evidence-based learning engine for Claude Code — first-principles curricula, free-recall verification with receipts, FSRS-scheduled memory, and explorable artifacts. Learn anything; keep it.
 
-- **[engrammemory-labs/engram-lite](https://github.com/engrammemory-labs/engram-lite)** ⭐ 8
+- **[engrammemory-labs/engram-lite](https://github.com/engrammemory-labs/engram-lite)** ⭐ 14
   ![Python](https://img.shields.io/badge/-Python-blue)
   Local Agentic Memory
 
-- **[wuhao2343/face-emotion-app](https://github.com/wuhao2343/face-emotion-app)** ⭐ 8
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  本地人脸情绪识别
-
 ### 📈 Weekly Trending
 
-- **[mekos2772/ios-location-spoofer](https://github.com/mekos2772/ios-location-spoofer)** ⭐ 1,298
+- **[mekos2772/ios-location-spoofer](https://github.com/mekos2772/ios-location-spoofer)** ⭐ 1,311
   ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
   Standalone iOS app to spoof GPS location without jailbreak. Includes Shadowrocket/Surge/Loon/QX/Stash module.
 
-- **[HUANGCHIHHUNGLeo/claude-real-video](https://github.com/HUANGCHIHHUNGLeo/claude-real-video)** ⭐ 820
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  Let Claude (or any LLM) actually watch a video — scene-aware, deduplicated frames + transcript, from a URL or local file. Runs locally, MIT.
-
-- **[jamesob/local-llm](https://github.com/jamesob/local-llm)** ⭐ 809
-  ![Shell](https://img.shields.io/badge/-Shell-lightgrey)
-  Everything I know about running LLMs locally
-
-- **[xuchonglang/investing-for-beginners](https://github.com/xuchonglang/investing-for-beginners)** ⭐ 671
-  ![None](https://img.shields.io/badge/-None-lightgrey)
-  小隐寺投资百科官方公开索引：美股、期权与加密货币知识框架
-
-- **[jmerelnyc/Talos](https://github.com/jmerelnyc/Talos)** ⭐ 620
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  GPU worker client for the Talos network. Pairs with your Talos account, serves open-model inference jobs over a WebSocket, and reports uptime for payouts.
-
-- **[elder-plinius/T3MP3ST](https://github.com/elder-plinius/T3MP3ST)** ⭐ 594
+- **[elder-plinius/T3MP3ST](https://github.com/elder-plinius/T3MP3ST)** ⭐ 921
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   autonomous red teaming platform; multi-agent offensive-security meta-harness
 
-- **[uzairansaruzi/hermex](https://github.com/uzairansaruzi/hermex)** ⭐ 577
+- **[HUANGCHIHHUNGLeo/claude-real-video](https://github.com/HUANGCHIHHUNGLeo/claude-real-video)** ⭐ 865
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  Let Claude (or any LLM) actually watch a video — scene-aware, deduplicated frames + transcript, from a URL or local file. Runs locally, MIT.
+
+- **[jamesob/local-llm](https://github.com/jamesob/local-llm)** ⭐ 837
+  ![Shell](https://img.shields.io/badge/-Shell-lightgrey)
+  Everything I know about running LLMs locally
+
+- **[xuchonglang/investing-for-beginners](https://github.com/xuchonglang/investing-for-beginners)** ⭐ 685
+  ![None](https://img.shields.io/badge/-None-lightgrey)
+  小隐寺投资百科官方公开索引：美股、期权与加密货币知识框架
+
+- **[jmerelnyc/Talos](https://github.com/jmerelnyc/Talos)** ⭐ 640
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  GPU worker client for the Talos network. Pairs with your Talos account, serves open-model inference jobs over a WebSocket, and reports uptime for payouts.
+
+- **[uzairansaruzi/hermex](https://github.com/uzairansaruzi/hermex)** ⭐ 585
   ![Swift](https://img.shields.io/badge/-Swift-lightgrey)
   Native iPhone app for your Hermes agent
 
-- **[Kulaxyz/token-diet](https://github.com/Kulaxyz/token-diet)** ⭐ 527
-  ![Shell](https://img.shields.io/badge/-Shell-lightgrey)
-  Always-on token-efficiency skill for coding agents (Claude Code, Codex, Cursor, Windsurf, Cline). ~31% lower bill on average, no loss of correctness.
-
-### 📈 Monthly Trending
-
-- **[DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail)** ⭐ 74,189
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
-  Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.
-
-- **[baidu/Unlimited-OCR](https://github.com/baidu/Unlimited-OCR)** ⭐ 13,293
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  Unlimited OCR Works: Welcome the Era of One-shot Long-horizon Parsing.
-
-- **[XiaomiMiMo/MiMo-Code](https://github.com/XiaomiMiMo/MiMo-Code)** ⭐ 11,433
-  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
-  MiMo Code: Where Models and Agents Co-Evolve
-
-- **[unicity-astrid/book](https://github.com/unicity-astrid/book)** ⭐ 7,535
-  ![Perl](https://img.shields.io/badge/-Perl-lightgrey)
-  The canonical reference for Astrid OS: kernel, capsules, host ABI, the bus, and the security model.
-
-- **[unicity-astrid/handbook](https://github.com/unicity-astrid/handbook)** ⭐ 7,482
-  ![None](https://img.shields.io/badge/-None-lightgrey)
-  How to work on Astrid: the polyrepo, the kernel-is-dumb law, the RFC trigger, contribution tiers, and the release process.
-
-- **[shadcn/improve](https://github.com/shadcn/improve)** ⭐ 6,881
-  ![None](https://img.shields.io/badge/-None-lightgrey)
-  Use your most capable model to audit your codebase and write plans for cheaper models to execute.
-
-- **[omnigent-ai/omnigent](https://github.com/omnigent-ai/omnigent)** ⭐ 6,261
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom agents — swap harnesses without rewriting, enforce policies and sandboxing, and collaborate in real time from any device.
-
-- **[deepseek-ai/DeepSpec](https://github.com/deepseek-ai/DeepSpec)** ⭐ 6,203
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  DeepSpec: a full-stack codebase for training and evaluating speculative decoding algorithms
+- **[ammaarreshi/Generals-Mac-iOS-iPad](https://github.com/ammaarreshi/Generals-Mac-iOS-iPad)** ⭐ 552
+  ![C++](https://img.shields.io/badge/-C++-pink)
+  Command & Conquer Generals: Zero Hour running natively on macOS, iPhone & iPad — real engine (EA GPL v3 source, via GeneralsX), DXVK/MoltenVK renderer, RTS touch controls. No game assets included.
 
 ## 🚀 Latest Releases
 
@@ -484,10 +457,10 @@ See [kubernetes-announce@](https://groups.google.com/forum/#!forum/kubernetes-an
 
 | Skill | Status |
 |-------|--------|
-| Java | 🟡 Learning |
-| Python | ⚪ Planned |
+| Java | ⚪ Planned |
+| Python | 🔴 Beginner |
 | JavaScript | 🔴 Beginner |
-| TypeScript | ⚪ Planned |
+| TypeScript | 🔴 Beginner |
 | Go | ⚪ Planned |
 
 ### Frameworks
@@ -495,48 +468,48 @@ See [kubernetes-announce@](https://groups.google.com/forum/#!forum/kubernetes-an
 | Skill | Status |
 |-------|--------|
 | React | 🟡 Learning |
-| Spring Boot | ⚪ Planned |
-| Django | 🔴 Beginner |
-| Node.js | 🟢 Proficient |
-| Next.js | 🟡 Learning |
+| Spring Boot | 🟢 Proficient |
+| Django | ⚪ Planned |
+| Node.js | 🟡 Learning |
+| Next.js | 🟢 Proficient |
 
 ### Cybersecurity
 
 | Skill | Status |
 |-------|--------|
-| Penetration Testing | 🔴 Beginner |
-| Web Security | 🟡 Learning |
-| Network Security | 🟡 Learning |
-| OWASP | 🟢 Proficient |
+| Penetration Testing | 🟡 Learning |
+| Web Security | 🟢 Proficient |
+| Network Security | ⚪ Planned |
+| OWASP | ⚪ Planned |
 
 ### Ai Ml
 
 | Skill | Status |
 |-------|--------|
-| Machine Learning | 🔴 Beginner |
-| Deep Learning | ⚪ Planned |
-| NLP | ⚪ Planned |
+| Machine Learning | 🟢 Proficient |
+| Deep Learning | 🟢 Proficient |
+| NLP | 🔴 Beginner |
 | Computer Vision | 🔴 Beginner |
-| TensorFlow | 🟡 Learning |
-| PyTorch | ⚪ Planned |
+| TensorFlow | ⚪ Planned |
+| PyTorch | 🟢 Proficient |
 
 ### Devops
 
 | Skill | Status |
 |-------|--------|
-| Docker | 🔴 Beginner |
-| Kubernetes | ⚪ Planned |
-| CI/CD | 🔴 Beginner |
-| AWS | ⚪ Planned |
-| Azure | 🟢 Proficient |
+| Docker | ⚪ Planned |
+| Kubernetes | 🟡 Learning |
+| CI/CD | 🟡 Learning |
+| AWS | 🔴 Beginner |
+| Azure | 🔴 Beginner |
 
 ### Other
 
 | Skill | Status |
 |-------|--------|
 | Blockchain | ⚪ Planned |
-| Web3 | 🟡 Learning |
-| Cloud Computing | 🟡 Learning |
+| Web3 | 🟢 Proficient |
+| Cloud Computing | 🟢 Proficient |
 
 </details>
 
