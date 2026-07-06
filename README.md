@@ -20,7 +20,7 @@
 | Metric | Count |
 |--------|-------|
 | 📰 Latest News Articles | 26 |
-| 🔥 Trending Repositories | 0 |
+| 🔥 Trending Repositories | 45 |
 | 🎯 Latest Releases | 10 |
 | 🎯 Learning Goals | 4 |
 
@@ -46,73 +46,185 @@
 
 ### 📑 Hacker News
 
-- **[Resetting Xbox](https://news.xbox.com/en-us/2026/07/06/resetting-xbox/)**
-  *<p>Article URL: <a href="https://news.xbox.com/en-us/2026/07/06/resetting-xbox/">https://news.xbox.com/en-us/2026/07/06/resetting-xbox/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/i...*
-  📅 Mon, 06 Jul 2026 14:18:23 +0000
+- **[Linux on the Atari Jaguar. No, really.](https://cakehonolulu.github.io/linux-for-jaguar/)**
+  *<p>Article URL: <a href="https://cakehonolulu.github.io/linux-for-jaguar/">https://cakehonolulu.github.io/linux-for-jaguar/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=48808...*
+  📅 Mon, 06 Jul 2026 18:35:54 +0000
 
-- **[Footage Shows Cop Stalking Woman After Surveilling Her with a LPR](https://www.404media.co/footage-shows-cop-stalking-woman-he-met-on-a-tv-set-after-surveilling-her-with-a-license-plate-reader/)**
-  *<p>Article URL: <a href="https://www.404media.co/footage-shows-cop-stalking-woman-he-met-on-a-tv-set-after-surveilling-her-with-a-license-plate-reader/">https://www.404media.co/footage-shows-cop-stalk...*
-  📅 Mon, 06 Jul 2026 13:39:52 +0000
+- **[Pros and Cons of Solo Development](https://johnjeffers.com/pros-and-cons-of-solo-development/)**
+  *<p>Article URL: <a href="https://johnjeffers.com/pros-and-cons-of-solo-development/">https://johnjeffers.com/pros-and-cons-of-solo-development/</a></p>
+<p>Comments URL: <a href="https://news.ycombinat...*
+  📅 Mon, 06 Jul 2026 18:24:34 +0000
 
-- **[Aluminum foil (2021)](https://dernocua.github.io/notes/aluminum-foil.html)**
-  *<p>Article URL: <a href="https://dernocua.github.io/notes/aluminum-foil.html">https://dernocua.github.io/notes/aluminum-foil.html</a></p>
+- **[OpenWrt One – Open Hardware Router](https://openwrt.org/toh/openwrt/one)**
+  *<p>Article URL: <a href="https://openwrt.org/toh/openwrt/one">https://openwrt.org/toh/openwrt/one</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=48808482">https://news.ycombina...*
+  📅 Mon, 06 Jul 2026 18:23:12 +0000
+
+- **[A global workspace in language models](https://www.anthropic.com/research/global-workspace)**
+  *<p>Article URL: <a href="https://www.anthropic.com/research/global-workspace">https://www.anthropic.com/research/global-workspace</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id...*
-  📅 Mon, 06 Jul 2026 13:28:57 +0000
+  📅 Mon, 06 Jul 2026 17:44:08 +0000
 
-- **['There Is No Going Back': The Inside Story of Europe's Rupture with America](https://www.wsj.com/world/europe/european-rupture-with-america-e3a9bb3c)**
-  *<p>Article URL: <a href="https://www.wsj.com/world/europe/european-rupture-with-america-e3a9bb3c">https://www.wsj.com/world/europe/european-rupture-with-america-e3a9bb3c</a></p>
-<p>Comments URL: <a hr...*
-  📅 Mon, 06 Jul 2026 13:27:06 +0000
+- **[Januscape: Guest-to-Host Escape in KVM/x86 [CVE-2026-53359]](https://github.com/V4bel/Januscape)**
+  *<p>Article URL: <a href="https://github.com/V4bel/Januscape">https://github.com/V4bel/Januscape</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=48807908">https://news.ycombinato...*
+  📅 Mon, 06 Jul 2026 17:35:03 +0000
 
-- **[Nintendo announces new product revisions in Europe with replaceable batteries](https://www.nintendo.com/en-gb/Support/Nintendo-Switch-2/Information-about-upcoming-battery-related-revisions-to-some-Nintendo-products-3132901.html)**
-  *<p>Article URL: <a href="https://www.nintendo.com/en-gb/Support/Nintendo-Switch-2/Information-about-upcoming-battery-related-revisions-to-some-Nintendo-products-3132901.html">https://www.nintendo.com/...*
-  📅 Mon, 06 Jul 2026 13:18:16 +0000
-
-- **[Show HN: Scan your AI agents for dangerous capabilities](https://github.com/makerchecker/MakerChecker)**
-  *<p>Article URL: <a href="https://github.com/makerchecker/MakerChecker">https://github.com/makerchecker/MakerChecker</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=48804182">htt...*
-  📅 Mon, 06 Jul 2026 13:17:27 +0000
+- **[OfficeCLI: Office suite for AI agents to read and edit Microsoft Office files](https://github.com/iOfficeAI/OfficeCLI)**
+  *<p>Article URL: <a href="https://github.com/iOfficeAI/OfficeCLI">https://github.com/iOfficeAI/OfficeCLI</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=48807225">https://news.yc...*
+  📅 Mon, 06 Jul 2026 16:47:44 +0000
 
 ### 📑 TechCrunch
 
+- **[You can now customize Siri’s pace and expressivity in the latest iOS 27 beta](https://techcrunch.com/2026/07/06/you-can-now-customize-siris-pace-and-expressivity-in-the-latest-ios-27-beta/)**
+  *The new controls let you control how quickly Siri speaks and expressive its voice is....*
+  📅 Mon, 06 Jul 2026 19:01:59 +0000
+
+- **[Every major tech layoff in 2026 that has name-checked AI](https://techcrunch.com/2026/07/06/the-running-list-major-tech-layoffs-in-2026-where-employers-cited-ai/)**
+  *A running look — in reverse chronological order — at the bigger tech companies that have announced significant layoffs this year with AI as a stated factor....*
+  📅 Mon, 06 Jul 2026 18:35:00 +0000
+
+- **[Amazon competitor Bookshop.org says Kobo eReader support will happen this year after all](https://techcrunch.com/2026/07/06/amazon-competitor-bookshop-org-says-kobo-e-reader-support-will-happen-this-year-after-all/)**
+  *Bookship.org seemed to delay this anticipated partnership again, but tells TechCrunch that it has settled business terms  and is working on integration....*
+  📅 Mon, 06 Jul 2026 18:12:01 +0000
+
+- **[If you use Google, you’re training its AI. Here’s how to opt out.](https://techcrunch.com/2026/07/06/if-you-use-google-youre-training-its-ai-heres-how-to-opt-out/)**
+  *PSA: A change to Google's privacy settings let it train its AI on more of your data. Here's how to opt out....*
+  📅 Mon, 06 Jul 2026 17:04:58 +0000
+
+- **[Apple brings back card payments for Apple Account purchases in India after a four-year hiatus](https://techcrunch.com/2026/07/06/apple-brings-back-card-payments-for-apple-account-purchases-in-india-after-a-four-year-hiatus/)**
+  *Apple has started a phased rollout of card payments for Apple Account purchases in India after adapting to the country's payments framework....*
+  📅 Mon, 06 Jul 2026 16:21:03 +0000
+
 - **[Microsoft lays off nearly 5,000 employees across Xbox, commercial sales](https://techcrunch.com/2026/07/06/microsoft-lays-off-nearly-5000-employees-across-xbox-commercial-sales/)**
   *Microsoft cut around 4,800 roles, or 2.1% of its global workforce, on Monday — the latest in a series of layoffs that’s stoking fears of AI replacing jobs. The layoffs will hit Xbox and commercial sal...*
-  📅 Mon, 06 Jul 2026 15:08:46 +0000
-
-- **[Canadian spy agency says it hacked drug traffickers, extremists and a ransomware gang last year](https://techcrunch.com/2026/07/06/canadian-spy-agency-says-it-hacked-drug-traffickers-extremists-and-a-ransomware-gang-last-year/)**
-  *The hacking operations disclosed in a Canadian spy agency's annual report underscores some pressing national security threats facing the country and its top allies....*
-  📅 Mon, 06 Jul 2026 14:43:59 +0000
-
-- **[How to reserve and change your WhatsApp username](https://techcrunch.com/2026/07/06/how-to-reserve-and-change-your-whatsapp-username/)**
-  *WhatsApp now lets users reserve usernames ahead of the feature’s full rollout, making it possible to connect without sharing a phone number once usernames go live....*
-  📅 Mon, 06 Jul 2026 14:15:30 +0000
-
-- **[Station F ramps up as a launchpad for Europe’s hottest AI startups](https://techcrunch.com/2026/07/06/station-f-ramps-up-as-a-launchpad-for-europes-hottest-ai-startups/)**
-  *Station F, a Paris-based startup hub founded by French billionaire Xavier Niel, is gearing up for a new edition of its F/ai accelerator program in a bid to strengthen its positioning as a stepping sto...*
-  📅 Mon, 06 Jul 2026 13:00:00 +0000
-
-- **[Smart glasses maker Even Realities hits $1B valuation with $150M funding led by Meituan, Tencent](https://techcrunch.com/2026/07/06/smart-glasses-maker-even-realities-hits-1b-valuation-with-150m-funding-led-by-meituan-tencent/)**
-  *Even Realities, an ex-Apple team building camera-free smart glasses, raised $150 million from Meituan and Tencent at a $1 billion valuation....*
-  📅 Mon, 06 Jul 2026 09:00:00 +0000
-
-- **[This humanoid robotics company is going public, but its CEO isn’t promising a robot in your home anytime soon](https://techcrunch.com/2026/07/05/this-humanoid-robotics-company-is-going-public-but-its-ceo-isnt-promising-a-robot-in-your-home-anytime-soon/)**
-  *While other humanoid startups chase sky-high valuations, Agility Robotics is betting its future on execution — and a SPAC....*
-  📅 Mon, 06 Jul 2026 06:05:29 +0000
+  📅 Mon, 06 Jul 2026 15:32:43 +0000
 
 ### 📑 Dev.to
 
-- **[Setting up a local Kubernetes cluster with minikube](https://dev.to/ferztyle/setting-up-a-local-kubernetes-cluster-with-minikube-11l2)**
-  *<p><em>This is part of the</em> <strong><em>Platform Engineering with Go</em></strong> <em>series.</em> <a href="https://ferztyle.me/series/platform-engineering-with-go" rel="noopener noreferrer"><em>...*
-  📅 Mon, 06 Jul 2026 15:07:43 +0000
+- **[No pipeline, no oil spills](https://dev.to/smeldr/no-pipeline-no-oil-spills-23oh)**
+  *<p>At some point in the last decade, shipping a web application started requiring a<br />
+build step. Then a second one. Then a config file for the bundler, a config file for<br />
+the CSS processor, ...*
+  📅 Mon, 06 Jul 2026 19:32:54 +0000
 
-- **[Cohere's Aya 23 Release: A Practical Look at Open, Multilingual Models](https://dev.to/albertomontagnese/coheres-aya-23-release-a-practical-look-at-open-multilingual-models-429e)**
-  *<p>The open-source AI landscape has a new, serious contender for multilingual tasks. Cohere's release of the Aya 23 family, with 8B and 35B parameter open-weight models, provides a much-needed, high-p...*
-  📅 Mon, 06 Jul 2026 15:03:21 +0000
+- **[GitHub Managed Settings vs Ota: Platform Governance vs Execution Governance](https://dev.to/otaready/github-managed-settings-vs-ota-platform-governance-vs-execution-governance-26co)**
+  *<p>GitHub Managed Settings and Ota are not competing products.</p>
+
+<p>They govern different layers of software.</p>
+
+<p>GitHub Managed Settings governs repository configuration on GitHub.</p>
+
+<p>Ota...*
+  📅 Mon, 06 Jul 2026 19:27:40 +0000
 
 </details>
 
 ## 🔥 Trending Repositories
+
+### 📈 Daily Trending
+
+- **[starmiaoa/chatgpt-register-k12](https://github.com/starmiaoa/chatgpt-register-k12)** ⭐ 130
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  ChatGPT register to Sub2API exporter with workspace and alias support
+
+- **[zjp1997720/wechat-article-search](https://github.com/zjp1997720/wechat-article-search)** ⭐ 103
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
+  Search WeChat public account articles by keyword via Sogou WeChat Search. Returns structured JSON — no API key required.
+
+- **[shaohua-pan/StarWAM](https://github.com/shaohua-pan/StarWAM)** ⭐ 72
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  A Generalizable Codebase for World-Action Models
+
+- **[PKU-YuanGroup/OpenAI4S](https://github.com/PKU-YuanGroup/OpenAI4S)** ⭐ 59
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  9.9 元豆包API复刻 Claude Science
+
+- **[SmtimesIWndr/gdid-reversal](https://github.com/SmtimesIWndr/gdid-reversal)** ⭐ 54
+  ![None](https://img.shields.io/badge/-None-lightgrey)
+  None
+
+- **[yaojingang/TokHub](https://github.com/yaojingang/TokHub)** ⭐ 44
+  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
+  AI API 中转站监控、推荐运营与 OpenAI 兼容专属网关系统，支持分层探测、健康评分、用量计量、告警审计和 Docker 自托管。
+
+- **[jiguang132/storyai-3d-director-desk](https://github.com/jiguang132/storyai-3d-director-desk)** ⭐ 34
+  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
+  A browser-based 3D director desk demo built with React, Vite, and Three.js.
+
+- **[V4bel/Januscape](https://github.com/V4bel/Januscape)** ⭐ 28
+  ![C](https://img.shields.io/badge/-C-lightgrey)
+  None
+
+### 📈 Weekly Trending
+
+- **[elder-plinius/T3MP3ST](https://github.com/elder-plinius/T3MP3ST)** ⭐ 2,517
+  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
+  autonomous red teaming platform; multi-agent offensive-security meta-harness
+
+- **[mekos2772/ios-location-spoofer](https://github.com/mekos2772/ios-location-spoofer)** ⭐ 1,425
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
+  Standalone iOS app to spoof GPS location without jailbreak. Includes Shadowrocket/Surge/Loon/QX/Stash module.
+
+- **[HUANGCHIHHUNGLeo/claude-real-video](https://github.com/HUANGCHIHHUNGLeo/claude-real-video)** ⭐ 1,216
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  Let Claude (or any LLM) actually watch a video — scene-aware, deduplicated frames + transcript, from a URL or local file. Runs locally, MIT.
+
+- **[ammaarreshi/Generals-Mac-iOS-iPad](https://github.com/ammaarreshi/Generals-Mac-iOS-iPad)** ⭐ 1,103
+  ![C++](https://img.shields.io/badge/-C++-pink)
+  Command & Conquer Generals: Zero Hour running natively on macOS, iPhone & iPad — real engine (EA GPL v3 source, via GeneralsX), DXVK/MoltenVK renderer, RTS touch controls. No game assets included.
+
+- **[jamesob/local-llm](https://github.com/jamesob/local-llm)** ⭐ 1,043
+  ![Shell](https://img.shields.io/badge/-Shell-lightgrey)
+  Everything I know about running LLMs locally
+
+- **[xuchonglang/investing-for-beginners](https://github.com/xuchonglang/investing-for-beginners)** ⭐ 737
+  ![None](https://img.shields.io/badge/-None-lightgrey)
+  小隐寺投资百科官方公开索引：美股、期权与加密货币知识框架
+
+- **[jmerelnyc/Talos](https://github.com/jmerelnyc/Talos)** ⭐ 722
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  GPU worker client for the Talos network. Pairs with your Talos account, serves open-model inference jobs over a WebSocket, and reports uptime for payouts.
+
+- **[synthetic-sciences/openscience](https://github.com/synthetic-sciences/openscience)** ⭐ 704
+  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
+  The open-source AI workbench for scientific research
+
+### 📈 Monthly Trending
+
+- **[DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail)** ⭐ 75,823
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
+  Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.
+
+- **[baidu/Unlimited-OCR](https://github.com/baidu/Unlimited-OCR)** ⭐ 13,483
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  Unlimited OCR Works: Welcome the Era of One-shot Long-horizon Parsing.
+
+- **[XiaomiMiMo/MiMo-Code](https://github.com/XiaomiMiMo/MiMo-Code)** ⭐ 11,525
+  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
+  MiMo Code: Where Models and Agents Co-Evolve
+
+- **[langchain-ai/openwiki](https://github.com/langchain-ai/openwiki)** ⭐ 7,241
+  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
+  OpenWiki is a CLI that writes and maintains agent documentation for your codebase.
+
+- **[shadcn/improve](https://github.com/shadcn/improve)** ⭐ 7,007
+  ![None](https://img.shields.io/badge/-None-lightgrey)
+  Use your most capable model to audit your codebase and write plans for cheaper models to execute.
+
+- **[omnigent-ai/omnigent](https://github.com/omnigent-ai/omnigent)** ⭐ 6,409
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom agents — swap harnesses without rewriting, enforce policies and sandboxing, and collaborate in real time from any device.
+
+- **[deepseek-ai/DeepSpec](https://github.com/deepseek-ai/DeepSpec)** ⭐ 6,309
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  DeepSpec: a full-stack codebase for training and evaluating speculative decoding algorithms
+
+- **[cobusgreyling/loop-engineering](https://github.com/cobusgreyling/loop-engineering)** ⭐ 6,173
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
+  Practical patterns, starters & CLI tools for loop engineering with AI coding agents. Design systems that prompt and orchestrate agents (inspired by Addy Osmani and Boris Cherny). Includes loop-audit, loop-init, loop-cost.
 
 ## 🚀 Latest Releases
 
@@ -380,17 +492,17 @@ See [kubernetes-announce@](https://groups.google.com/forum/#!forum/kubernetes-an
 | Skill | Status |
 |-------|--------|
 | Java | 🔴 Beginner |
-| Python | 🔴 Beginner |
-| JavaScript | 🔴 Beginner |
+| Python | 🟢 Proficient |
+| JavaScript | 🟢 Proficient |
 | TypeScript | 🟡 Learning |
-| Go | ⚪ Planned |
+| Go | 🟢 Proficient |
 
 ### Frameworks
 
 | Skill | Status |
 |-------|--------|
-| React | 🔴 Beginner |
-| Spring Boot | ⚪ Planned |
+| React | ⚪ Planned |
+| Spring Boot | 🔴 Beginner |
 | Django | ⚪ Planned |
 | Node.js | ⚪ Planned |
 | Next.js | 🔴 Beginner |
@@ -399,39 +511,39 @@ See [kubernetes-announce@](https://groups.google.com/forum/#!forum/kubernetes-an
 
 | Skill | Status |
 |-------|--------|
-| Penetration Testing | 🔴 Beginner |
-| Web Security | ⚪ Planned |
-| Network Security | ⚪ Planned |
-| OWASP | 🔴 Beginner |
+| Penetration Testing | ⚪ Planned |
+| Web Security | 🔴 Beginner |
+| Network Security | 🔴 Beginner |
+| OWASP | 🟢 Proficient |
 
 ### Ai Ml
 
 | Skill | Status |
 |-------|--------|
 | Machine Learning | 🟢 Proficient |
-| Deep Learning | 🔴 Beginner |
-| NLP | 🟡 Learning |
-| Computer Vision | 🟢 Proficient |
-| TensorFlow | 🟢 Proficient |
-| PyTorch | 🟢 Proficient |
+| Deep Learning | 🟢 Proficient |
+| NLP | 🟢 Proficient |
+| Computer Vision | 🔴 Beginner |
+| TensorFlow | 🔴 Beginner |
+| PyTorch | 🔴 Beginner |
 
 ### Devops
 
 | Skill | Status |
 |-------|--------|
-| Docker | 🔴 Beginner |
-| Kubernetes | 🔴 Beginner |
-| CI/CD | 🟢 Proficient |
-| AWS | 🟡 Learning |
-| Azure | 🟢 Proficient |
+| Docker | ⚪ Planned |
+| Kubernetes | ⚪ Planned |
+| CI/CD | ⚪ Planned |
+| AWS | 🔴 Beginner |
+| Azure | 🔴 Beginner |
 
 ### Other
 
 | Skill | Status |
 |-------|--------|
 | Blockchain | ⚪ Planned |
-| Web3 | 🟡 Learning |
-| Cloud Computing | 🟢 Proficient |
+| Web3 | 🟢 Proficient |
+| Cloud Computing | 🔴 Beginner |
 
 </details>
 
