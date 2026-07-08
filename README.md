@@ -46,43 +46,52 @@
 
 ### 📑 Hacker News
 
+- **[GitLost: We Tricked GitHub's AI Agent into Leaking Private Repos](https://noma.security/blog/gitlost-how-we-tricked-githubs-ai-agent-into-leaking-private-repos/)**
+  *<p>Article URL: <a href="https://noma.security/blog/gitlost-how-we-tricked-githubs-ai-agent-into-leaking-private-repos/">https://noma.security/blog/gitlost-how-we-tricked-githubs-ai-agent-into-leaking...*
+  📅 Wed, 08 Jul 2026 05:25:35 +0000
+
+- **[GPT-5.6 Sol, along with Terra and Luna, will launch publicly this Thursday](https://twitter.com/OpenAI/status/2074704958419792299)**
+  *<p>Article URL: <a href="https://twitter.com/OpenAI/status/2074704958419792299">https://twitter.com/OpenAI/status/2074704958419792299</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/ite...*
+  📅 Wed, 08 Jul 2026 04:12:13 +0000
+
+- **[How to Build a Minimal ZFS NAS Without Synology, QNAP, TrueNAS (2024)](https://neil.computer/notes/how-to-setup-minimal-zfs-nas-without-truenas/)**
+  *<p>Article URL: <a href="https://neil.computer/notes/how-to-setup-minimal-zfs-nas-without-truenas/">https://neil.computer/notes/how-to-setup-minimal-zfs-nas-without-truenas/</a></p>
+<p>Comments URL: <...*
+  📅 Wed, 08 Jul 2026 03:59:35 +0000
+
+- **[Copy That Floppy – Cambridge guide for preserving data from fragile floppy disks](https://www.digipres.org/the-floppy-guide/)**
+  *<p>Article URL: <a href="https://www.digipres.org/the-floppy-guide/">https://www.digipres.org/the-floppy-guide/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=48827092">https:/...*
+  📅 Wed, 08 Jul 2026 03:22:31 +0000
+
+- **[LineageOS Statistics](https://stats.lineageos.org)**
+  *<p>Article URL: <a href="https://stats.lineageos.org">https://stats.lineageos.org</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=48826329">https://news.ycombinator.com/item?id=...*
+  📅 Wed, 08 Jul 2026 01:27:39 +0000
+
 - **[Show HN: Chiptune Radio](https://chiptune-radio.alephvoid.com/)**
   *<p>I built a chiptune song generator and its broadcasting algorithmically generated chiptune music.</p>
 <hr />
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=48826094">https://news.yco...*
   📅 Wed, 08 Jul 2026 00:55:19 +0000
 
-- **[An interactive explorer for Benford's Law across real datasets](https://vatsalbakshi.com/blog/benfords-law/)**
-  *<p>Article URL: <a href="https://vatsalbakshi.com/blog/benfords-law/">https://vatsalbakshi.com/blog/benfords-law/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=48825816">https...*
-  📅 Wed, 08 Jul 2026 00:18:39 +0000
-
-- **[Tenda firmware (multiple versions) contains hidden authentication backdoor](https://kb.cert.org/vuls/id/213560)**
-  *<p>Article URL: <a href="https://kb.cert.org/vuls/id/213560">https://kb.cert.org/vuls/id/213560</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=48825749">https://news.ycombinato...*
-  📅 Wed, 08 Jul 2026 00:08:51 +0000
-
-- **[Show HN: Fortress – a stealth Chromium so your agents stop getting blocked](https://github.com/tiliondev/fortress)**
-  *<p>Article URL: <a href="https://github.com/tiliondev/fortress">https://github.com/tiliondev/fortress</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=48825745">https://news.ycom...*
-  📅 Wed, 08 Jul 2026 00:08:21 +0000
-
-- **[Structure and Interpretation of Computer Programs Video Lectures](https://ocw.mit.edu/courses/6-001-structure-and-interpretation-of-computer-programs-spring-2005/video_galleries/video-lectures/)**
-  *<p>Article URL: <a href="https://ocw.mit.edu/courses/6-001-structure-and-interpretation-of-computer-programs-spring-2005/video_galleries/video-lectures/">https://ocw.mit.edu/courses/6-001-structure-an...*
-  📅 Tue, 07 Jul 2026 23:57:29 +0000
-
-- **[A 13th-Century Enumeration Algorithm, Ignored for 700 Years](https://blog.klipse.tech/aboulafia/2026/07/06/a-13th-century-enumeration-algorithm-ignored-for-700-years.html)**
-  *<p>Article URL: <a href="https://blog.klipse.tech/aboulafia/2026/07/06/a-13th-century-enumeration-algorithm-ignored-for-700-years.html">https://blog.klipse.tech/aboulafia/2026/07/06/a-13th-century-enu...*
-  📅 Tue, 07 Jul 2026 23:45:47 +0000
-
 ### 📑 TechCrunch
+
+- **[Hot French startup ZML releases free product to speed inference across lots of AI chips](https://techcrunch.com/2026/07/08/hot-french-startup-zml-releases-free-product-to-speed-inference-across-lots-of-ai-chips/)**
+  *ZML, a hot French AI startup endorsed by Turing Award winner Yann LeCun, has now released ZML/LLMD, software that could make running AI less costly....*
+  📅 Wed, 08 Jul 2026 08:00:00 +0000
+
+- **[AI chip maker SambaNova raises $1B at $11B valuation, 5 months after last mega round](https://techcrunch.com/2026/07/08/sambanova-draws-1b-at-11b-valuation-in-series-f-first-close/)**
+  *AI chip maker SambaNova has raised at an $11B valuation months after Intel was rumored to be trying to buy it for about $1.6 billion....*
+  📅 Wed, 08 Jul 2026 07:16:00 +0000
 
 - **[Final extension: Startup Battlefield Australia applications now close July 20](https://techcrunch.com/2026/07/07/final-extension-startup-battlefield-australia-applications-now-close-july-20/)**
   *If you're building something ambitious, this is a fast track to the people who can move your startup forward....*
   📅 Tue, 07 Jul 2026 22:30:00 +0000
 
 - **[Meta just launched a new AI generator, Muse Image, and users are already pushing back over use of their photos](https://techcrunch.com/2026/07/07/meta-rolls-out-muse-a-new-ai-image-generator/)**
-  *The new image-generating model has numerous use cases, including advertising, decorating and creator-based opportunities....*
+  *The new image-generating model has numerous use cases, including advertising and decorating, and creator-based opportunities....*
   📅 Tue, 07 Jul 2026 22:18:10 +0000
 
 - **[Why the rise of open source AI isn’t hurting Anthropic … yet](https://techcrunch.com/2026/07/07/why-the-rise-of-open-source-ai-isnt-hurting-anthropic-yet/)**
@@ -93,23 +102,17 @@
   *Microsoft is the latest Silicon Valley giant to cut back on its AI spending....*
   📅 Tue, 07 Jul 2026 19:58:20 +0000
 
-- **[Discord admits AI moderation bug wrongfully banned users over harmless images](https://techcrunch.com/2026/07/07/discord-admits-ai-moderation-bug-wrongfully-banned-users-over-harmless-images/)**
-  *The company confirmed that the issue had been affecting accounts since May, with an additional 200 users banned over the weekend before its team identified and fixed the problem....*
-  📅 Tue, 07 Jul 2026 19:28:38 +0000
-
-- **[Google’s Pixel event is set for August 12](https://techcrunch.com/2026/07/07/googles-pixel-event-is-set-for-august-12/)**
-  *Google's upcoming event in August will introduce new Pixel devices....*
-  📅 Tue, 07 Jul 2026 18:38:29 +0000
-
 ### 📑 Dev.to
 
-- **[The Agentic Cost Bottleneck: How Kotro Solves the AI Productivity Paradox](https://dev.to/rameshpandian/the-agentic-cost-bottleneck-how-kotro-solves-the-ai-productivity-paradox-mmb)**
-  *<p>In 2026, the discourse around AI coding assistants has shifted. We are past the "adoption hype." While agents like Cursor and Devin are standard in modern workflows, the expected linear boost in pr...*
-  📅 Wed, 08 Jul 2026 01:43:10 +0000
+- **[Catawiki Publishes Its Expert Estimates in the Page JSON. I Built a Deal Finder on Top](https://dev.to/jdpg23/catawiki-publishes-its-expert-estimates-in-the-page-json-i-built-a-deal-finder-on-top-2k5h)**
+  *<p>Catawiki is an auction site where every lot gets reviewed by a category expert who writes an estimated value range. That estimate is the single most useful number on the page, and it turns out Cata...*
+  📅 Wed, 08 Jul 2026 08:00:20 +0000
 
-- **[PostureGuard: Stop the "Tech Neck" with MediaPipe, Electron, and Real-Time Vision 🚀](https://dev.to/wellallytech/postureguard-stop-the-tech-neck-with-mediapipe-electron-and-real-time-vision-4e1h)**
-  *<p>Are you reading this right now while hunched over like a shrimp? 🥐 If your neck feels like it’s supporting a bowling ball at a 45-degree angle, you aren't alone. "Tech Neck" is the silent productiv...*
-  📅 Wed, 08 Jul 2026 01:35:00 +0000
+- **[Local AI Pipeline: Why Certain Workloads Never Leave the Machine](https://dev.to/ben-witt/local-ai-pipeline-why-certain-workloads-never-leave-the-machine-1393)**
+  *<p>The default assumption is still this: AI means cloud API. You send your text, your audio, or your document to an endpoint, pay per token, and get a result back.</p>
+
+<p>For many tasks, that is perf...*
+  📅 Wed, 08 Jul 2026 08:00:00 +0000
 
 </details>
 
@@ -117,103 +120,103 @@
 
 ### 📈 Daily Trending
 
-- **[sean-hayes58/pet-simulator-99-v2-script](https://github.com/sean-hayes58/pet-simulator-99-v2-script)** ⭐ 10
+- **[bolivestilo/Homekit](https://github.com/bolivestilo/Homekit)** ⭐ 59
+  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
+  Homekit gives any AI agent direct, physical control over Apple Home. Flip lights. Lock doors. Read sensors. Through a single open interface.
+
+- **[ai-twinkle/rlhf-book-zh-tw](https://github.com/ai-twinkle/rlhf-book-zh-tw)** ⭐ 31
+  ![HTML](https://img.shields.io/badge/-HTML-lightgrey)
+  《Reinforcement Learning from Human Feedback》繁體中文全譯本＋每章互動實驗 | Unofficial zh-TW community translation of the RLHF Book with interactive labs
+
+- **[ssrsec/webstrike](https://github.com/ssrsec/webstrike)** ⭐ 20
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  WebStrike 是一套以 Chromium 系浏览器扩展（Manifest V3） 为受控端点的指挥与控制（C2）套件。与传统以进程/驱动为主的 C2 相比，其工作重心落在 浏览器安全域：在合规授权与攻防演练场景下，可显著降低与终端 EDR 在 进程注入、驱动、内核回调 等层面的直接对抗成本，同时将能力锚定在用户 真实访问的 Web 会话 上。
+
+- **[tryaxon/tryaxon-sdk](https://github.com/tryaxon/tryaxon-sdk)** ⭐ 16
+  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
+  Open-source TypeScript SDK for building a private-by-default Unity and Godot copilot with local project scanning, OpenAI integration, code and scene generation, debugging, asset analysis, and review-first file patching.
+
+- **[hassanireza/daryaJahangiri](https://github.com/hassanireza/daryaJahangiri)** ⭐ 12
+  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
+  None
+
+- **[sean-hayes58/pet-simulator-99-v2-script](https://github.com/sean-hayes58/pet-simulator-99-v2-script)** ⭐ 11
   ![HTML](https://img.shields.io/badge/-HTML-lightgrey)
   Valex: Roblox Lua executor & script hub for Pet Simulator 99 on Windows. Auto-updating, keyless automation for grinding, hatching, and quests. Optimized for 2026.
 
-- **[DRM3Labs-OSS/morscan.io](https://github.com/DRM3Labs-OSS/morscan.io)** ⭐ 2
-  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
-  Morpheus AI Block Explorer. Providers, models, sessions, staking, and MOR pricing on Base - indexed in real time, verified with signed provenance receipts.
-
-- **[LeoRoy61/r6s-overwolf-auto-launcher](https://github.com/LeoRoy61/r6s-overwolf-auto-launcher)** ⭐ 2
-  ![PowerShell](https://img.shields.io/badge/-PowerShell-lightgrey)
-  "A lightweight, secure Windows launcher that starts Overwolf alongside Rainbow Six Siege, monitors the session, and cleanly closes Overwolf on game exit."
-
-- **[IdiotFrogs/MemorySeal-Front](https://github.com/IdiotFrogs/MemorySeal-Front)** ⭐ 2
+- **[ctabuyo/FC250-](https://github.com/ctabuyo/FC250-)** ⭐ 11
   ![None](https://img.shields.io/badge/-None-lightgrey)
   None
 
-- **[Gheat1/sctui](https://github.com/Gheat1/sctui)** ⭐ 2
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  ◐ A fast, beautiful TUI for Shortcut — status-grouped stories, instant startup, full keyboard + mouse control
-
-- **[saitejabandaru-in/github-copilot](https://github.com/saitejabandaru-in/github-copilot)** ⭐ 1
+- **[echo-of-machines/fable-advisor](https://github.com/echo-of-machines/fable-advisor)** ⭐ 10
   ![None](https://img.shields.io/badge/-None-lightgrey)
-  GitHub Copilot complete guide - inline completions, Copilot Chat, CLI, and techniques to get expert-level outputs.
-
-- **[letitbe-dull/nz-holidays](https://github.com/letitbe-dull/nz-holidays)** ⭐ 1
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  Aotearoa New Zealand Holiday & School Dates
-
-- **[ibislon/ORTaMcagka](https://github.com/ibislon/ORTaMcagka)** ⭐ 1
-  ![None](https://img.shields.io/badge/-None-lightgrey)
-  【Java计算机毕业设计分享】基于SSM的Vue可视化教学系统管理平台，MySQL Java开发 毕业设计 实战项目【附源码、文档报告、代码讲解】
+  Claude skill: consult a stronger Fable 5 advisor subagent at decision points (Opus orchestrates, Sonnet workers, Fable advises).
 
 ### 📈 Weekly Trending
 
-- **[elder-plinius/T3MP3ST](https://github.com/elder-plinius/T3MP3ST)** ⭐ 3,321
+- **[elder-plinius/T3MP3ST](https://github.com/elder-plinius/T3MP3ST)** ⭐ 3,502
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   autonomous red teaming platform; multi-agent offensive-security meta-harness
 
-- **[synthetic-sciences/openscience](https://github.com/synthetic-sciences/openscience)** ⭐ 1,382
+- **[synthetic-sciences/openscience](https://github.com/synthetic-sciences/openscience)** ⭐ 1,521
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   The open-source AI workbench for scientific research
 
-- **[ammaarreshi/Generals-Mac-iOS-iPad](https://github.com/ammaarreshi/Generals-Mac-iOS-iPad)** ⭐ 1,292
+- **[ammaarreshi/Generals-Mac-iOS-iPad](https://github.com/ammaarreshi/Generals-Mac-iOS-iPad)** ⭐ 1,314
   ![C++](https://img.shields.io/badge/-C++-pink)
   Command & Conquer Generals: Zero Hour running natively on macOS, iPhone & iPad — real engine (EA GPL v3 source, via GeneralsX), DXVK/MoltenVK renderer, RTS touch controls. No game assets included.
 
-- **[jamesob/local-llm](https://github.com/jamesob/local-llm)** ⭐ 1,185
+- **[jamesob/local-llm](https://github.com/jamesob/local-llm)** ⭐ 1,212
   ![Shell](https://img.shields.io/badge/-Shell-lightgrey)
   Everything I know about running LLMs locally
 
-- **[MaximeRivest/riddle](https://github.com/MaximeRivest/riddle)** ⭐ 1,055
-  ![Rust](https://img.shields.io/badge/-Rust-brown)
-  The diary of Tom Riddle for the reMarkable Paper Pro — write with your pen, the page drinks your ink and answers in a flowing hand
-
-- **[Shpigford/knockoff](https://github.com/Shpigford/knockoff)** ⭐ 1,005
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
-  Chrome extension that filters pseudo-brand junk out of Amazon. Buy from real, established brands.
-
-- **[x4gKing/X4G](https://github.com/x4gKing/X4G)** ⭐ 959
+- **[x4gKing/X4G](https://github.com/x4gKing/X4G)** ⭐ 1,171
   ![Python](https://img.shields.io/badge/-Python-blue)
   None
 
-- **[xuchonglang/investing-for-beginners](https://github.com/xuchonglang/investing-for-beginners)** ⭐ 760
+- **[Shpigford/knockoff](https://github.com/Shpigford/knockoff)** ⭐ 1,150
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
+  Chrome extension that filters pseudo-brand junk out of Amazon. Buy from real, established brands.
+
+- **[MaximeRivest/riddle](https://github.com/MaximeRivest/riddle)** ⭐ 1,106
+  ![Rust](https://img.shields.io/badge/-Rust-brown)
+  The diary of Tom Riddle for the reMarkable Paper Pro — write with your pen, the page drinks your ink and answers in a flowing hand
+
+- **[xuchonglang/investing-for-beginners](https://github.com/xuchonglang/investing-for-beginners)** ⭐ 967
   ![None](https://img.shields.io/badge/-None-lightgrey)
   小隐寺投资百科官方公开索引：美股、期权与加密货币知识框架
 
 ### 📈 Monthly Trending
 
-- **[DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail)** ⭐ 76,974
+- **[DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail)** ⭐ 77,273
   ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
   Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.
 
-- **[baidu/Unlimited-OCR](https://github.com/baidu/Unlimited-OCR)** ⭐ 13,626
+- **[baidu/Unlimited-OCR](https://github.com/baidu/Unlimited-OCR)** ⭐ 13,664
   ![Python](https://img.shields.io/badge/-Python-blue)
   Unlimited OCR Works: Welcome the Era of One-shot Long-horizon Parsing.
 
-- **[XiaomiMiMo/MiMo-Code](https://github.com/XiaomiMiMo/MiMo-Code)** ⭐ 11,590
+- **[XiaomiMiMo/MiMo-Code](https://github.com/XiaomiMiMo/MiMo-Code)** ⭐ 11,608
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   MiMo Code: Where Models and Agents Co-Evolve
 
-- **[langchain-ai/openwiki](https://github.com/langchain-ai/openwiki)** ⭐ 9,093
+- **[langchain-ai/openwiki](https://github.com/langchain-ai/openwiki)** ⭐ 9,407
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   OpenWiki is a CLI that writes and maintains agent documentation for your codebase.
 
-- **[shadcn/improve](https://github.com/shadcn/improve)** ⭐ 7,441
+- **[shadcn/improve](https://github.com/shadcn/improve)** ⭐ 7,464
   ![None](https://img.shields.io/badge/-None-lightgrey)
   Use your most capable model to audit your codebase and write plans for cheaper models to execute.
 
-- **[omnigent-ai/omnigent](https://github.com/omnigent-ai/omnigent)** ⭐ 6,646
+- **[omnigent-ai/omnigent](https://github.com/omnigent-ai/omnigent)** ⭐ 6,691
   ![Python](https://img.shields.io/badge/-Python-blue)
   Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom agents — swap harnesses without rewriting, enforce policies and sandboxing, and collaborate in real time from any device.
 
-- **[cobusgreyling/loop-engineering](https://github.com/cobusgreyling/loop-engineering)** ⭐ 6,428
+- **[cobusgreyling/loop-engineering](https://github.com/cobusgreyling/loop-engineering)** ⭐ 6,497
   ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
   Practical patterns, starters & CLI tools for loop engineering with AI coding agents. Design systems that prompt and orchestrate agents (inspired by Addy Osmani and Boris Cherny). Includes loop-audit, loop-init, loop-cost.
 
-- **[deepseek-ai/DeepSpec](https://github.com/deepseek-ai/DeepSpec)** ⭐ 6,402
+- **[deepseek-ai/DeepSpec](https://github.com/deepseek-ai/DeepSpec)** ⭐ 6,426
   ![Python](https://img.shields.io/badge/-Python-blue)
   DeepSpec: a full-stack codebase for training and evaluating speculative decoding algorithms
 
@@ -479,39 +482,39 @@ See [kubernetes-announce@](https://groups.google.com/forum/#!forum/kubernetes-an
 
 | Skill | Status |
 |-------|--------|
-| Java | 🟡 Learning |
-| Python | 🔴 Beginner |
+| Java | 🔴 Beginner |
+| Python | 🟢 Proficient |
 | JavaScript | 🟢 Proficient |
 | TypeScript | 🟢 Proficient |
-| Go | 🟢 Proficient |
+| Go | ⚪ Planned |
 
 ### Frameworks
 
 | Skill | Status |
 |-------|--------|
-| React | 🔴 Beginner |
+| React | 🟢 Proficient |
 | Spring Boot | 🔴 Beginner |
-| Django | 🔴 Beginner |
-| Node.js | 🟡 Learning |
-| Next.js | 🔴 Beginner |
+| Django | ⚪ Planned |
+| Node.js | 🔴 Beginner |
+| Next.js | ⚪ Planned |
 
 ### Cybersecurity
 
 | Skill | Status |
 |-------|--------|
-| Penetration Testing | 🔴 Beginner |
-| Web Security | 🔴 Beginner |
-| Network Security | 🔴 Beginner |
-| OWASP | ⚪ Planned |
+| Penetration Testing | 🟢 Proficient |
+| Web Security | 🟢 Proficient |
+| Network Security | ⚪ Planned |
+| OWASP | 🟢 Proficient |
 
 ### Ai Ml
 
 | Skill | Status |
 |-------|--------|
 | Machine Learning | 🔴 Beginner |
-| Deep Learning | ⚪ Planned |
-| NLP | 🟢 Proficient |
-| Computer Vision | ⚪ Planned |
+| Deep Learning | 🟢 Proficient |
+| NLP | 🟡 Learning |
+| Computer Vision | 🔴 Beginner |
 | TensorFlow | 🟢 Proficient |
 | PyTorch | 🟢 Proficient |
 
@@ -519,19 +522,19 @@ See [kubernetes-announce@](https://groups.google.com/forum/#!forum/kubernetes-an
 
 | Skill | Status |
 |-------|--------|
-| Docker | 🟢 Proficient |
-| Kubernetes | 🟡 Learning |
-| CI/CD | 🟡 Learning |
-| AWS | 🟡 Learning |
+| Docker | ⚪ Planned |
+| Kubernetes | ⚪ Planned |
+| CI/CD | 🔴 Beginner |
+| AWS | 🔴 Beginner |
 | Azure | 🟢 Proficient |
 
 ### Other
 
 | Skill | Status |
 |-------|--------|
-| Blockchain | 🟢 Proficient |
-| Web3 | 🔴 Beginner |
-| Cloud Computing | 🟢 Proficient |
+| Blockchain | 🔴 Beginner |
+| Web3 | ⚪ Planned |
+| Cloud Computing | ⚪ Planned |
 
 </details>
 
