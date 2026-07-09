@@ -20,7 +20,7 @@
 | Metric | Count |
 |--------|-------|
 | 📰 Latest News Articles | 26 |
-| 🔥 Trending Repositories | 0 |
+| 🔥 Trending Repositories | 45 |
 | 🎯 Latest Releases | 10 |
 | 🎯 Learning Goals | 4 |
 
@@ -46,37 +46,38 @@
 
 ### 📑 Hacker News
 
-- **[Rewriting Bun in Rust](https://simonwillison.net/2026/Jul/8/rewriting-bun-in-rust/)**
-  *<p>Article URL: <a href="https://simonwillison.net/2026/Jul/8/rewriting-bun-in-rust/">https://simonwillison.net/2026/Jul/8/rewriting-bun-in-rust/</a></p>
-<p>Comments URL: <a href="https://news.ycombin...*
-  📅 Thu, 09 Jul 2026 01:22:24 +0000
+- **[Why developers are ditching GitHub for Codeberg and self-hosting alternatives](https://www.howtogeek.com/why-developers-are-ditching-github-for-codeberg-and-self-hosting-alternatives/)**
+  *<p>Article URL: <a href="https://www.howtogeek.com/why-developers-are-ditching-github-for-codeberg-and-self-hosting-alternatives/">https://www.howtogeek.com/why-developers-are-ditching-github-for-code...*
+  📅 Thu, 09 Jul 2026 08:22:52 +0000
 
-- **[A software engineering interview question I like: computing the median](https://krisshamloo.com/blog/007)**
-  *<p>Article URL: <a href="https://krisshamloo.com/blog/007">https://krisshamloo.com/blog/007</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=48839434">https://news.ycombinator.co...*
-  📅 Thu, 09 Jul 2026 00:38:02 +0000
+- **[CollectWise (YC F24) Is Hiring](https://www.ycombinator.com/companies/collectwise/jobs/P646Yw6-founding-account-executive)**
+  *<p>Article URL: <a href="https://www.ycombinator.com/companies/collectwise/jobs/P646Yw6-founding-account-executive">https://www.ycombinator.com/companies/collectwise/jobs/P646Yw6-founding-account-exec...*
+  📅 Thu, 09 Jul 2026 07:00:43 +0000
+
+- **[Postgres rewritten in Rust, now passing 100% of the Postgres regression tests](https://github.com/malisper/pgrust)**
+  *<p>Article URL: <a href="https://github.com/malisper/pgrust">https://github.com/malisper/pgrust</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=48841676">https://news.ycombinato...*
+  📅 Thu, 09 Jul 2026 06:18:19 +0000
+
+- **[How Donkey Kong Toppled Atari](https://dfarq.homeip.net/how-donkey-kong-toppled-atari/)**
+  *<p>Article URL: <a href="https://dfarq.homeip.net/how-donkey-kong-toppled-atari/">https://dfarq.homeip.net/how-donkey-kong-toppled-atari/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com...*
+  📅 Thu, 09 Jul 2026 05:34:44 +0000
+
+- **[Spider venom kills varroa mites without harming honeybees](https://connectsci.au/news/news-parent/9703/Spider-venom-kills-varroa-mites-without-harming)**
+  *<p>Article URL: <a href="https://connectsci.au/news/news-parent/9703/Spider-venom-kills-varroa-mites-without-harming">https://connectsci.au/news/news-parent/9703/Spider-venom-kills-varroa-mites-withou...*
+  📅 Thu, 09 Jul 2026 05:14:45 +0000
 
 - **[Remote Attestation](https://www.liamcvw.com/p/remote-attestation)**
   *<p>Article URL: <a href="https://www.liamcvw.com/p/remote-attestation">https://www.liamcvw.com/p/remote-attestation</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=48839397">htt...*
   📅 Thu, 09 Jul 2026 00:32:33 +0000
 
-- **[MIRA: Multiplayer Interactive World Models Trained on Rocket League](https://mira-wm.com/)**
-  *<p><a href="https://mira-wm.com/blog-post/" rel="nofollow">https://mira-wm.com/blog-post/</a></p>
-<hr />
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=48839355">https://news.ycombinat...*
-  📅 Thu, 09 Jul 2026 00:27:57 +0000
-
-- **[John Deere owners will get the right to repair equipment under FTC settlement](https://apnews.com/article/john-deere-right-to-repair-agriculture-equipment-cb7514ffedb95c130a976af661f2bc02)**
-  *<p>Article URL: <a href="https://apnews.com/article/john-deere-right-to-repair-agriculture-equipment-cb7514ffedb95c130a976af661f2bc02">https://apnews.com/article/john-deere-right-to-repair-agriculture...*
-  📅 Wed, 08 Jul 2026 23:37:43 +0000
-
-- **[We made Grok 4.5, GPT-5.5, and Claude build the same apps](https://www.tryai.dev/blog/grok-4.5-vs-gpt-5.5-vs-claude-build-off)**
-  *<p>Article URL: <a href="https://www.tryai.dev/blog/grok-4.5-vs-gpt-5.5-vs-claude-build-off">https://www.tryai.dev/blog/grok-4.5-vs-gpt-5.5-vs-claude-build-off</a></p>
-<p>Comments URL: <a href="https:...*
-  📅 Wed, 08 Jul 2026 23:27:14 +0000
-
 ### 📑 TechCrunch
+
+- **[Truecaller clashes with India’s telecom regulator over anti-spam rules](https://techcrunch.com/2026/07/08/truecaller-clashes-with-indias-telecom-regulator-over-anti-spam-rules/)**
+  *The caller ID company says users are increasingly ignoring and blocking calls from India's dedicated business number series....*
+  📅 Thu, 09 Jul 2026 02:30:00 +0000
 
 - **[Despite ‘misgivings,’ judge approves Elon Musk’s $1.5M SEC settlement](https://techcrunch.com/2026/07/08/despite-misgivings-judge-approves-elon-musks-1-5-million-sec-settlement/)**
   *The saga of Musk's tussle with the SEC over how he disclosed his growing stake in Twitter (now X) has come to an end....*
@@ -98,23 +99,121 @@
   *Like its U.S. counterpart, the European Chips Act aims to foster the semiconductor industry — in part thanks to state subsidies. One of the beneficiaries is QuantumDiamonds, a German startup that appl...*
   📅 Wed, 08 Jul 2026 20:29:50 +0000
 
-- **[Autonomous drone delivery startup Manna plots major US expansion](https://techcrunch.com/2026/07/08/autonomous-drone-delivery-startup-manna-plots-major-u-s-expansion/)**
-  *Manna is launching a U.S. operations and manufacturing facility in Tulsa, Oklahoma, that will eventually employ 1,000 people....*
-  📅 Wed, 08 Jul 2026 20:06:54 +0000
-
 ### 📑 Dev.to
 
-- **[Benchmarking Mitii AI Agent: 78% Success Rate on 500+ Tasks Using a Local Qwen3-Coder (30B)](https://dev.to/codewithshinde/benchmarking-mitii-ai-agent-78-success-rate-on-500-tasks-using-a-local-qwen3-coder-30b-134g)**
-  *<p>Building an AI agent that doesn't just confidently hallucinate but actually writes safe, reliable code is a massive challenge. It is an even bigger challenge when you want to run that agent entirel...*
-  📅 Thu, 09 Jul 2026 01:55:23 +0000
+- **[How to Configure Apache as a Reverse Proxy with mod_proxy](https://dev.to/andrew_wiggins/how-to-configure-apache-as-a-reverse-proxy-with-modproxy-4flf)**
+  *<p>The shape of a typical modern enterprise deployment involves Apache serving as a TLS-terminating reverse proxy sitting in front of upstream application servers like Node.js, Python Gunicorn, or Jav...*
+  📅 Thu, 09 Jul 2026 09:18:37 +0000
 
-- **[Three pitfalls in a dashboard cache lifetime — boot-time restore, TTL, and partial invalidation](https://dev.to/susumun/three-pitfalls-in-a-dashboard-cache-lifetime-boot-time-restore-ttl-and-partial-invalidation-42pp)**
-  *<p>We added a <a href="https://en.wpmm.jp/blog/cache-first-dashboard-ux/" rel="noopener noreferrer">cache-first design to the cross-site updates dashboard</a>, then wired <a href="https://en.wpmm.jp/b...*
-  📅 Thu, 09 Jul 2026 01:43:04 +0000
+- **[How AI answer engines decide which sources to cite](https://dev.to/fokal/how-ai-answer-engines-decide-which-sources-to-cite-20pd)**
+  *<p>Ask ChatGPT, Perplexity, or Google's AI Overviews a real question and you get one synthesized answer with a few citations, not a page of ten blue links. For anyone who publishes on the web, the goa...*
+  📅 Thu, 09 Jul 2026 09:16:06 +0000
 
 </details>
 
 ## 🔥 Trending Repositories
+
+### 📈 Daily Trending
+
+- **[PierIllusionist/MECCHA-CHAMELEON-CamoPhantom](https://github.com/PierIllusionist/MECCHA-CHAMELEON-CamoPhantom)** ⭐ 62
+  ![None](https://img.shields.io/badge/-None-lightgrey)
+  Complete Hack Tool for MECCHA CHAMELEON ESP · Aimbot · Fly Hack · Teleport · God Mode · Infinite Paint
+
+- **[TrapCourierFold/TBH-Mod-Menu](https://github.com/TrapCourierFold/TBH-Mod-Menu)** ⭐ 42
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  ⚡ TBH-Mod-Menu – complete mod menu for TBH: Task Bar Hero. Features God Mode, unlimited money, EXP multiplier, instant kill, game speed hack, and more. Skip the grind and dominate the taskbar!
+
+- **[jcranokc/app-monitor](https://github.com/jcranokc/app-monitor)** ⭐ 39
+  ![Swift](https://img.shields.io/badge/-Swift-lightgrey)
+  Local-first macOS app usage, storage, cleanup, update, and uninstall monitor.
+
+- **[Voltoverbungalow37/Meccha-Chameleon-MecchaWraith](https://github.com/Voltoverbungalow37/Meccha-Chameleon-MecchaWraith)** ⭐ 29
+  ![None](https://img.shields.io/badge/-None-lightgrey)
+  MECCHA CHAMELEON ESP · Aimbot · Fly Hack · Teleport · God Mode · Infinite Paint
+
+- **[Elias569/fintech-app](https://github.com/Elias569/fintech-app)** ⭐ 20
+  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
+  fintech app 
+
+- **[imchine/FinTech-Solution](https://github.com/imchine/FinTech-Solution)** ⭐ 19
+  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
+  FinTech AI Solution for SMEs to calculate financial values
+
+- **[Elias569/fintech-dashboard](https://github.com/Elias569/fintech-dashboard)** ⭐ 19
+  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
+  fintech dashboard for personal finance management which track income and expenses, leverage AI-powered analytics, manage budgets and financial goals, enjoy a dark theme
+
+- **[KORAYTEACHER/fintech-forge](https://github.com/KORAYTEACHER/fintech-forge)** ⭐ 19
+  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
+  fintech forge of AI-powered financial tools and insights to secure authentication and dashboards to empowers developers, analysts, and students to build and extend finance-focused 
+
+### 📈 Weekly Trending
+
+- **[x4gKing/X4G](https://github.com/x4gKing/X4G)** ⭐ 2,736
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  None
+
+- **[synthetic-sciences/openscience](https://github.com/synthetic-sciences/openscience)** ⭐ 1,840
+  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
+  The open-source AI workbench for scientific research
+
+- **[xuchonglang/investing-for-beginners](https://github.com/xuchonglang/investing-for-beginners)** ⭐ 1,492
+  ![None](https://img.shields.io/badge/-None-lightgrey)
+  小隐寺投资百科官方公开索引：美股、期权与加密货币知识框架
+
+- **[Shpigford/knockoff](https://github.com/Shpigford/knockoff)** ⭐ 1,454
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
+  Chrome extension that filters pseudo-brand junk out of Amazon. Buy from real, established brands.
+
+- **[ammaarreshi/Generals-Mac-iOS-iPad](https://github.com/ammaarreshi/Generals-Mac-iOS-iPad)** ⭐ 1,378
+  ![C++](https://img.shields.io/badge/-C++-pink)
+  Command & Conquer Generals: Zero Hour running natively on macOS, iPhone & iPad — real engine (EA GPL v3 source, via GeneralsX), DXVK/MoltenVK renderer, RTS touch controls. No game assets included.
+
+- **[jamesob/local-llm](https://github.com/jamesob/local-llm)** ⭐ 1,288
+  ![Shell](https://img.shields.io/badge/-Shell-lightgrey)
+  Everything I know about running LLMs locally
+
+- **[MaximeRivest/riddle](https://github.com/MaximeRivest/riddle)** ⭐ 1,236
+  ![Rust](https://img.shields.io/badge/-Rust-brown)
+  The diary of Tom Riddle for the reMarkable Paper Pro — write with your pen, the page drinks your ink and answers in a flowing hand
+
+- **[withmarbleapp/os-taxonomy](https://github.com/withmarbleapp/os-taxonomy)** ⭐ 825
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
+  None
+
+### 📈 Monthly Trending
+
+- **[DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail)** ⭐ 78,494
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
+  Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.
+
+- **[baidu/Unlimited-OCR](https://github.com/baidu/Unlimited-OCR)** ⭐ 13,758
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  Unlimited OCR Works: Welcome the Era of One-shot Long-horizon Parsing.
+
+- **[XiaomiMiMo/MiMo-Code](https://github.com/XiaomiMiMo/MiMo-Code)** ⭐ 11,676
+  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
+  MiMo Code: Where Models and Agents Co-Evolve
+
+- **[langchain-ai/openwiki](https://github.com/langchain-ai/openwiki)** ⭐ 9,926
+  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
+  OpenWiki is a CLI that writes and maintains agent documentation for your codebase.
+
+- **[shadcn/improve](https://github.com/shadcn/improve)** ⭐ 7,532
+  ![None](https://img.shields.io/badge/-None-lightgrey)
+  Use your most capable model to audit your codebase and write plans for cheaper models to execute.
+
+- **[omnigent-ai/omnigent](https://github.com/omnigent-ai/omnigent)** ⭐ 6,839
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom agents — swap harnesses without rewriting, enforce policies and sandboxing, and collaborate in real time from any device.
+
+- **[deepseek-ai/DeepSpec](https://github.com/deepseek-ai/DeepSpec)** ⭐ 6,484
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  DeepSpec: a full-stack codebase for training and evaluating speculative decoding algorithms
+
+- **[zhongerxin/Cowart](https://github.com/zhongerxin/Cowart)** ⭐ 4,202
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
+  None
 
 ## 🚀 Latest Releases
 
@@ -381,59 +480,59 @@ Welcome to our newest releaser, [Stewart X Addison](https://github.com/sxa). Fut
 
 | Skill | Status |
 |-------|--------|
-| Java | ⚪ Planned |
-| Python | 🔴 Beginner |
-| JavaScript | ⚪ Planned |
-| TypeScript | ⚪ Planned |
+| Java | 🟡 Learning |
+| Python | ⚪ Planned |
+| JavaScript | 🟡 Learning |
+| TypeScript | 🔴 Beginner |
 | Go | 🟢 Proficient |
 
 ### Frameworks
 
 | Skill | Status |
 |-------|--------|
-| React | 🟡 Learning |
-| Spring Boot | 🔴 Beginner |
-| Django | 🟢 Proficient |
-| Node.js | 🟢 Proficient |
-| Next.js | 🔴 Beginner |
+| React | 🔴 Beginner |
+| Spring Boot | ⚪ Planned |
+| Django | 🟡 Learning |
+| Node.js | ⚪ Planned |
+| Next.js | 🟡 Learning |
 
 ### Cybersecurity
 
 | Skill | Status |
 |-------|--------|
-| Penetration Testing | ⚪ Planned |
+| Penetration Testing | 🟡 Learning |
 | Web Security | 🟢 Proficient |
-| Network Security | 🟢 Proficient |
-| OWASP | 🔴 Beginner |
+| Network Security | 🔴 Beginner |
+| OWASP | ⚪ Planned |
 
 ### Ai Ml
 
 | Skill | Status |
 |-------|--------|
 | Machine Learning | 🔴 Beginner |
-| Deep Learning | 🟢 Proficient |
-| NLP | 🟡 Learning |
-| Computer Vision | ⚪ Planned |
-| TensorFlow | ⚪ Planned |
-| PyTorch | ⚪ Planned |
+| Deep Learning | 🟡 Learning |
+| NLP | ⚪ Planned |
+| Computer Vision | 🟡 Learning |
+| TensorFlow | 🔴 Beginner |
+| PyTorch | 🟢 Proficient |
 
 ### Devops
 
 | Skill | Status |
 |-------|--------|
-| Docker | 🔴 Beginner |
-| Kubernetes | ⚪ Planned |
-| CI/CD | ⚪ Planned |
-| AWS | 🔴 Beginner |
-| Azure | 🟡 Learning |
+| Docker | 🟢 Proficient |
+| Kubernetes | 🔴 Beginner |
+| CI/CD | 🟢 Proficient |
+| AWS | 🟢 Proficient |
+| Azure | 🟢 Proficient |
 
 ### Other
 
 | Skill | Status |
 |-------|--------|
-| Blockchain | 🟢 Proficient |
-| Web3 | 🔴 Beginner |
-| Cloud Computing | 🟡 Learning |
+| Blockchain | 🟡 Learning |
+| Web3 | 🟡 Learning |
+| Cloud Computing | 🔴 Beginner |
 
 </details>
 
