@@ -46,85 +46,73 @@
 
 ### 📑 Hacker News
 
-- **[ActivityPub over ATProto](https://berjon.com/ap-at/)**
-  *<p>Article URL: <a href="https://berjon.com/ap-at/">https://berjon.com/ap-at/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=48859784">https://news.ycombinator.com/item?id=4885...*
-  📅 Fri, 10 Jul 2026 13:40:01 +0000
+- **[How the Terrorist Group Boko Haram Uses Frontier AI](https://casp.ac/reports/ai-enabled-terrorism)**
+  *<p>Article URL: <a href="https://casp.ac/reports/ai-enabled-terrorism">https://casp.ac/reports/ai-enabled-terrorism</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=48863707">htt...*
+  📅 Fri, 10 Jul 2026 18:49:26 +0000
 
-- **[Offline tool to stabilize TV volume using IR control and spike detection](https://github.com/AdBusterOfficial/Adbuster--WinApp)**
-  *<p>Article URL: <a href="https://github.com/AdBusterOfficial/Adbuster--WinApp">https://github.com/AdBusterOfficial/Adbuster--WinApp</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?...*
-  📅 Fri, 10 Jul 2026 13:39:49 +0000
+- **[GPT-5.6 Sol Ultra produces proof of the Cycle Double Cover Conjecture [pdf]](https://cdn.openai.com/pdf/04d1d1e4-bc75-476a-97cf-49055cd98d31/cdc_proof.pdf)**
+  *<p>Article URL: <a href="https://cdn.openai.com/pdf/04d1d1e4-bc75-476a-97cf-49055cd98d31/cdc_proof.pdf">https://cdn.openai.com/pdf/04d1d1e4-bc75-476a-97cf-49055cd98d31/cdc_proof.pdf</a></p>
+<p>Comment...*
+  📅 Fri, 10 Jul 2026 18:29:19 +0000
 
-- **[Proton AG Services is currently experiencing some issues](https://status.proton.me/incidents/01lxtcq155lc)**
-  *<p>Article URL: <a href="https://status.proton.me/incidents/01lxtcq155lc">https://status.proton.me/incidents/01lxtcq155lc</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=4885975...*
-  📅 Fri, 10 Jul 2026 13:36:56 +0000
+- **[New York City to become first in US to ban deceptive subscription practices](https://www.theguardian.com/us-news/2026/jul/10/new-york-city-deceptive-subscriptions-ban)**
+  *<p>Article URL: <a href="https://www.theguardian.com/us-news/2026/jul/10/new-york-city-deceptive-subscriptions-ban">https://www.theguardian.com/us-news/2026/jul/10/new-york-city-deceptive-subscription...*
+  📅 Fri, 10 Jul 2026 18:26:24 +0000
 
-- **[Write code like a human will maintain it](https://unstack.io/write-code-like-a-human-will-maintain-it)**
-  *<p>Article URL: <a href="https://unstack.io/write-code-like-a-human-will-maintain-it">https://unstack.io/write-code-like-a-human-will-maintain-it</a></p>
-<p>Comments URL: <a href="https://news.ycombin...*
-  📅 Fri, 10 Jul 2026 13:33:00 +0000
+- **[War Atlas: An interactive cartography of every named war in human history](https://waratlas.org)**
+  *<p>Article URL: <a href="https://waratlas.org">https://waratlas.org</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=48863080">https://news.ycombinator.com/item?id=48863080</a></...*
+  📅 Fri, 10 Jul 2026 17:52:48 +0000
 
-- **[Successful Companies Go Blind](https://ianreppel.org/how-successful-companies-go-blind/)**
-  *<p>Article URL: <a href="https://ianreppel.org/how-successful-companies-go-blind/">https://ianreppel.org/how-successful-companies-go-blind/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.c...*
-  📅 Fri, 10 Jul 2026 13:31:08 +0000
+- **[The tech of 'Terminator 2' – an oral history (2017)](https://vfxblog.com/2017/08/23/the-tech-of-terminator-2-an-oral-history/)**
+  *<p>Article URL: <a href="https://vfxblog.com/2017/08/23/the-tech-of-terminator-2-an-oral-history/">https://vfxblog.com/2017/08/23/the-tech-of-terminator-2-an-oral-history/</a></p>
+<p>Comments URL: <a ...*
+  📅 Fri, 10 Jul 2026 16:48:41 +0000
 
-- **[Scarf has moved away from Haskell](https://avi.press/posts/2026-07-10-after-7-years-in-production-scarf-has-reluctantly-moved-away-from-haskell.html)**
-  *<p>Article URL: <a href="https://avi.press/posts/2026-07-10-after-7-years-in-production-scarf-has-reluctantly-moved-away-from-haskell.html">https://avi.press/posts/2026-07-10-after-7-years-in-producti...*
-  📅 Fri, 10 Jul 2026 13:30:41 +0000
+- **[Snails' Teeth Beats Spider Silk as Nature's Strongest Material (2015)](https://www.smithsonianmag.com/smart-news/spider-silk-loses-top-spot-natures-strongest-material-snails-teeth-180954346/)**
+  *<p>Article URL: <a href="https://www.smithsonianmag.com/smart-news/spider-silk-loses-top-spot-natures-strongest-material-snails-teeth-180954346/">https://www.smithsonianmag.com/smart-news/spider-silk-...*
+  📅 Fri, 10 Jul 2026 16:37:52 +0000
 
 ### 📑 TechCrunch
 
-- **[After Apple, India’s smartphone manufacturing boom enters new phase with Vivo JV](https://techcrunch.com/2026/07/09/after-apple-indias-smartphone-manufacturing-boom-enters-new-phase-with-vivo-jv/)**
-  *Vivo's joint venture could become a template for Chinese smartphone makers in India....*
-  📅 Fri, 10 Jul 2026 04:36:20 +0000
+- **[Filing: College app Fizz accuses VC of sharing confidential startup information with rival Sidechat](https://techcrunch.com/2026/07/10/filing-college-app-fizz-accuses-vc-of-sharing-confidential-startup-information-with-rival-sidechat/)**
+  *Fizz has expanded its lawsuit against rival Sidechat, alleging that a Maveron VC shared its confidential information obtained during a fundraising meeting with the competing startup....*
+  📅 Fri, 10 Jul 2026 17:42:36 +0000
 
-- **[OpenAI says GPT 5.6 is the ‘preferred model’ for Microsoft Copilot 365 amid breakup chatter](https://techcrunch.com/2026/07/09/openai-says-gpt-5-6-is-the-preferred-model-for-microsoft-copilot-amid-breakup-chatter/)**
-  *OpenAI's new family of models will continue to power Microsoft's suite of workplace and productivity apps....*
-  📅 Fri, 10 Jul 2026 00:16:54 +0000
+- **[SK Hynix raises $26.5B in the biggest foreign IPO in US history, is urged to build new US fabs](https://techcrunch.com/2026/07/10/sk-hynix-raises-26-5b-in-the-biggest-foreign-ipo-in-us-history-is-urged-to-build-new-us-fabs/)**
+  *The AI chip boom just produced its biggest Wall Street moment yet. Now SK Hynix and Samsung are being asked to build U.S. factories....*
+  📅 Fri, 10 Jul 2026 17:17:12 +0000
 
-- **[Don’t want to invest in Elon Musk? Two new ETFs explicitly exclude him](https://techcrunch.com/2026/07/09/dont-want-to-invest-in-elon-musk-two-new-etfs-explicitly-exclude-him/)**
-  *The new exchange-traded funds exclude companies that are founded, controlled, or led by Elon Musk. That means no SpaceX or Tesla....*
-  📅 Fri, 10 Jul 2026 00:13:00 +0000
+- **[A new app, HyperTexting, turns the open web into a scrollable social media-like feed](https://techcrunch.com/2026/07/10/a-new-app-hypertexting-turns-the-open-web-into-a-scrollable-social-media-like-feed/)**
+  *HyperTexting's new app aims to make the open web feel more like social media by turning websites, blogs, newsletters, and podcasts into a scrollable feed, while also making it easier to post to your o...*
+  📅 Fri, 10 Jul 2026 17:11:51 +0000
 
-- **[Fidji Simo steps down from OpenAI’s No. 2 role](https://techcrunch.com/2026/07/09/fidji-simo-steps-down-from-openais-no-2-role/)**
-  *OpenAI's No. 2 executive, Fidji Simo, is stepping down from her full-time role after her medical leave proved longer than expected — a leadership vacuum that comes at a tricky time as the company eyes...*
-  📅 Thu, 09 Jul 2026 23:38:00 +0000
+- **[China is catching up to Elon Musk’s reusable rockets](https://techcrunch.com/2026/07/10/china-is-catching-up-to-elon-musks-reusable-rockets/)**
+  *China's state-owned space company recovered its first orbital rocket booster after launch....*
+  📅 Fri, 10 Jul 2026 16:51:07 +0000
 
-- **[OpenAI launches its new family of models with GPT-5.6](https://techcrunch.com/2026/07/09/openai-launches-its-new-family-of-models-with-gpt-5-6/)**
-  *OpenAI's latest family of models promises improvements across a range of areas, including cybersecurity....*
-  📅 Thu, 09 Jul 2026 22:24:24 +0000
+- **[Disney+ is considering a free streaming tier, report says](https://techcrunch.com/2026/07/10/disney-is-considering-a-free-streaming-tier-report-says/)**
+  *The launch of free content would allow Disney+ to better compete with free services like YouTube and Tubi, which are capturing a growing share of consumers’ viewing time....*
+  📅 Fri, 10 Jul 2026 16:29:05 +0000
 
-- **[An AI agent startup just let its agent run its $100M fundraise](https://techcrunch.com/2026/07/09/an-ai-agent-startup-just-let-its-agent-run-its-100-million-fundraise/)**
-  *Lyzr, a startup that builds AI agents for enterprises, used its own AI agent to raise a $100 million round — proof, evidently, that the product actually works....*
-  📅 Thu, 09 Jul 2026 22:08:58 +0000
+- **[Dumb Co dared me to trade my iPhone for a hacked flip phone](https://techcrunch.com/2026/07/10/dumb-co-dared-me-to-trade-my-iphone-for-a-hacked-flip-phone/)**
+  *Dumb Co sells flip phones that sync to your smartphone, bridging the infinite connectivity of the iPhone and the unrealistic limitations of an early 2000s relic....*
+  📅 Fri, 10 Jul 2026 16:06:49 +0000
 
 ### 📑 Dev.to
 
-- **[A Study on the I-V Characteristics and Physics of BJT and MOSFET via LTspice](https://dev.to/insu/a-study-on-the-i-v-characteristics-and-physics-of-bjt-and-mosfet-via-ltspice-2ce5)**
-  *<ol>
-<li><p>Objective of the Experiment<br />
-The purpose of this experiment is to analyze the operating principles and output characteristic curves of representative transistors, BJT and MOSFET, usin...*
-  📅 Fri, 10 Jul 2026 13:49:48 +0000
+- **[From Natural Language to SQL with AI: Building an Intelligent SQL Query Generator Using Hugging Face and Streamlit](https://dev.to/vincenzo_rafaelllanosni/from-natural-language-to-sql-with-ai-building-an-intelligent-sql-query-generator-using-hugging-3cgj)**
+  *<p>Introduction</p>
 
-- **[I Gave My AI Agent Pipeline a Nervous System with SigNoz](https://dev.to/vezzu_ruthvik/i-gave-my-ai-agent-pipeline-a-nervous-system-with-signoz-2l1f)**
-  *<p><em>A warm-up with SigNoz, before the "Agents of SigNoz" hackathon proper</em></p>
+<p>Writing SQL queries is a fundamental skill for developers, data analysts, and database administrators. However, not everyone knows SQL syntax, and even experienced developers s...*
+  📅 Fri, 10 Jul 2026 18:50:12 +0000
 
+- **[I Was Building a Social App. Then I Accidentally Built an AI Startup.](https://dev.to/mohammadsijan/i-was-building-a-social-app-then-i-accidentally-built-an-ai-startup-4clj)**
+  *<p>A year and a half ago, I wasn't trying to build an AI company.</p>
 
-
-
-<h2>
-  
-  
-  Table of Contents
-</h2>
-
-<ol>
-<li>Why I'm writing this before the hackathon even starts</li>
-<li>...*
-  📅 Fri, 10 Jul 2026 13:45:41 +0000
+<p>I was building a small social platform called <strong>spritex-social</strong> — nothing fancy, just a side project a handful o...*
+  📅 Fri, 10 Jul 2026 18:48:11 +0000
 
 </details>
 
@@ -132,105 +120,105 @@ The purpose of this experiment is to analyze the operating principles and output
 
 ### 📈 Daily Trending
 
-- **[Jane-xiaoer/paper-collage-ad-codex](https://github.com/Jane-xiaoer/paper-collage-ad-codex)** ⭐ 67
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
-  Codex skill for complete paper-cut collage ad production, local IndexTTS-2 voice cloning, animation, audio and MP4 QC
+- **[chordswallowthrust/undress-design](https://github.com/chordswallowthrust/undress-design)** ⭐ 100
+  ![None](https://img.shields.io/badge/-None-lightgrey)
+  AI-powered fashion visualization and virtual try-on toolkit for consent-based garment editing, outfit prototyping, and creative design workflows. https://undress.design/edit?utm_source=gist.github.com/chordswallowthrust/undress-design
 
-- **[yetone/kill-ai-slop](https://github.com/yetone/kill-ai-slop)** ⭐ 61
+- **[yetone/kill-ai-slop](https://github.com/yetone/kill-ai-slop)** ⭐ 93
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   A field guide to the visual & copy tics of AI-generated products — and an Agent Skill that scans your project and strips them out. https://killaislop.com
 
-- **[huey1in/ClaudeX](https://github.com/huey1in/ClaudeX)** ⭐ 52
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  ClaudeX 是一个用于自动化创建 Claude 账号，并保存账号的会话状态等数据的Cli工具
+- **[Jane-xiaoer/paper-collage-ad-codex](https://github.com/Jane-xiaoer/paper-collage-ad-codex)** ⭐ 81
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
+  Codex skill for complete paper-cut collage ad production, local IndexTTS-2 voice cloning, animation, audio and MP4 QC
 
-- **[dongguatanglinux/grok-build-auth](https://github.com/dongguatanglinux/grok-build-auth)** ⭐ 50
+- **[dongguatanglinux/grok-build-auth](https://github.com/dongguatanglinux/grok-build-auth)** ⭐ 79
   ![Python](https://img.shields.io/badge/-Python-blue)
   Protocol research client: x.ai signup → SSO → Grok Build OAuth → CLIProxyAPI auth export (authorized use only)
 
-- **[myfanhua/turb-gpt-free-register](https://github.com/myfanhua/turb-gpt-free-register)** ⭐ 36
+- **[huey1in/ClaudeX](https://github.com/huey1in/ClaudeX)** ⭐ 61
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  ClaudeX 是一个用于自动化创建 Claude 账号，并保存账号的会话状态等数据的Cli工具
+
+- **[myfanhua/turb-gpt-free-register](https://github.com/myfanhua/turb-gpt-free-register)** ⭐ 46
   ![Python](https://img.shields.io/badge/-Python-blue)
   纯协议+指纹浏览器自动GPT FREE注册机+Codex自动接码授权
 
-- **[ComPDF/compdf-self-hosted](https://github.com/ComPDF/compdf-self-hosted)** ⭐ 35
-  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
-  Edit, convert, and transform documents across PDFs, Office formats, HTML, TXT, CSV, RTF, JSON, and images with ComPDF Self-hosted, an open-source PDF platform.
+- **[dboudreau00/Process-Shield-EDR-Framework](https://github.com/dboudreau00/Process-Shield-EDR-Framework)** ⭐ 41
+  ![C#](https://img.shields.io/badge/-C#-lightgrey)
+  Open Source EDR framework for new development - CLI without GUI
 
-- **[waguriagentic/HAR](https://github.com/waguriagentic/HAR)** ⭐ 26
-  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
-  Auto-capture network traffic from Chrome — including requests Chrome DevTools itself misses — view requests live in a desktop app with virtualized timeline, persist sessions to SQLite, and export to HAR or ZIP — with optional sensitive-data redaction.
-
-- **[Nitrogen216/awesome_pets](https://github.com/Nitrogen216/awesome_pets)** ⭐ 25
-  ![None](https://img.shields.io/badge/-None-lightgrey)
-  A growing collection of friendly companions for the Codex App.
+- **[dboudreau00/Countersign-RFP-RFI-RFQ-Studio-for-AI-assisted-Workflows](https://github.com/dboudreau00/Countersign-RFP-RFI-RFQ-Studio-for-AI-assisted-Workflows)** ⭐ 40
+  ![HTML](https://img.shields.io/badge/-HTML-lightgrey)
+  Countersign RFP/RFI/RFQ Studio for organizing documentation, hosting internally, including js + PHP proxy for hosting on panel.
 
 ### 📈 Weekly Trending
 
-- **[x4gKing/X4G](https://github.com/x4gKing/X4G)** ⭐ 3,717
+- **[x4gKing/X4G](https://github.com/x4gKing/X4G)** ⭐ 3,883
   ![Python](https://img.shields.io/badge/-Python-blue)
   None
 
-- **[withmarbleapp/os-taxonomy](https://github.com/withmarbleapp/os-taxonomy)** ⭐ 1,881
+- **[withmarbleapp/os-taxonomy](https://github.com/withmarbleapp/os-taxonomy)** ⭐ 2,027
   ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
   None
 
-- **[Shpigford/knockoff](https://github.com/Shpigford/knockoff)** ⭐ 1,631
+- **[Shpigford/knockoff](https://github.com/Shpigford/knockoff)** ⭐ 1,669
   ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
   Chrome extension that filters pseudo-brand junk out of Amazon. Buy from real, established brands.
 
-- **[ammaarreshi/Generals-Mac-iOS-iPad](https://github.com/ammaarreshi/Generals-Mac-iOS-iPad)** ⭐ 1,399
+- **[ammaarreshi/Generals-Mac-iOS-iPad](https://github.com/ammaarreshi/Generals-Mac-iOS-iPad)** ⭐ 1,402
   ![C++](https://img.shields.io/badge/-C++-pink)
   Command & Conquer Generals: Zero Hour running natively on macOS, iPhone & iPad — real engine (EA GPL v3 source, via GeneralsX), DXVK/MoltenVK renderer, RTS touch controls. No game assets included.
 
-- **[MaximeRivest/riddle](https://github.com/MaximeRivest/riddle)** ⭐ 1,315
+- **[MaximeRivest/riddle](https://github.com/MaximeRivest/riddle)** ⭐ 1,330
   ![Rust](https://img.shields.io/badge/-Rust-brown)
   The diary of Tom Riddle for the reMarkable Paper Pro — write with your pen, the page drinks your ink and answers in a flowing hand
 
-- **[514-labs/dnsglobe](https://github.com/514-labs/dnsglobe)** ⭐ 782
-  ![Rust](https://img.shields.io/badge/-Rust-brown)
-  Global DNS propagation checker TUI — watch a DNS record propagate across 34 public resolvers worldwide, on a world map in your terminal
-
-- **[wouterdebie/davit](https://github.com/wouterdebie/davit)** ⭐ 781
+- **[wouterdebie/davit](https://github.com/wouterdebie/davit)** ⭐ 792
   ![Swift](https://img.shields.io/badge/-Swift-lightgrey)
   A native macOS UI for Apple's platform
 
-- **[yynxxxxx/Codex-X](https://github.com/yynxxxxx/Codex-X)** ⭐ 735
+- **[514-labs/dnsglobe](https://github.com/514-labs/dnsglobe)** ⭐ 792
+  ![Rust](https://img.shields.io/badge/-Rust-brown)
+  Global DNS propagation checker TUI — watch a DNS record propagate across 34 public resolvers worldwide, on a world map in your terminal
+
+- **[yynxxxxx/Codex-X](https://github.com/yynxxxxx/Codex-X)** ⭐ 750
   ![Rust](https://img.shields.io/badge/-Rust-brown)
   Codex Switch & Instruct desktop manager
 
 ### 📈 Monthly Trending
 
-- **[DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail)** ⭐ 79,842
+- **[DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail)** ⭐ 80,039
   ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
   Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.
 
-- **[baidu/Unlimited-OCR](https://github.com/baidu/Unlimited-OCR)** ⭐ 13,897
+- **[baidu/Unlimited-OCR](https://github.com/baidu/Unlimited-OCR)** ⭐ 13,916
   ![Python](https://img.shields.io/badge/-Python-blue)
   Unlimited OCR Works: Welcome the Era of One-shot Long-horizon Parsing.
 
-- **[langchain-ai/openwiki](https://github.com/langchain-ai/openwiki)** ⭐ 10,249
+- **[langchain-ai/openwiki](https://github.com/langchain-ai/openwiki)** ⭐ 10,303
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
-  OpenWiki is a CLI that writes and maintains agent wikis for codebases or purpose memory.
+  OpenWiki is a CLI that writes and maintains agent documentation for your codebase.
 
-- **[omnigent-ai/omnigent](https://github.com/omnigent-ai/omnigent)** ⭐ 6,970
+- **[omnigent-ai/omnigent](https://github.com/omnigent-ai/omnigent)** ⭐ 6,988
   ![Python](https://img.shields.io/badge/-Python-blue)
   Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom agents — swap harnesses without rewriting, enforce policies and sandboxing, and collaborate in real time from any device.
 
-- **[deepseek-ai/DeepSpec](https://github.com/deepseek-ai/DeepSpec)** ⭐ 6,517
+- **[deepseek-ai/DeepSpec](https://github.com/deepseek-ai/DeepSpec)** ⭐ 6,523
   ![Python](https://img.shields.io/badge/-Python-blue)
   DeepSpec: a full-stack codebase for training and evaluating speculative decoding algorithms
 
-- **[zhongerxin/Cowart](https://github.com/zhongerxin/Cowart)** ⭐ 4,302
+- **[zhongerxin/Cowart](https://github.com/zhongerxin/Cowart)** ⭐ 4,315
   ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
   None
 
-- **[elder-plinius/T3MP3ST](https://github.com/elder-plinius/T3MP3ST)** ⭐ 4,273
+- **[elder-plinius/T3MP3ST](https://github.com/elder-plinius/T3MP3ST)** ⭐ 4,303
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   autonomous red teaming platform; multi-agent offensive-security meta-harness
 
-- **[bikini/exploitarium](https://github.com/bikini/exploitarium)** ⭐ 3,850
+- **[x4gKing/X4G](https://github.com/x4gKing/X4G)** ⭐ 3,883
   ![Python](https://img.shields.io/badge/-Python-blue)
-  A single archive of public exploit PoCs and vulnerability research writeups. At the time I post these, none have been reported. Feel free to report them yourself and take credit for the CVE if handed out lulz. Please do not abuse these. I do this so to allure people into the field, and I've always found this is the most efficient way.
+  None
 
 ## 🚀 Latest Releases
 
@@ -499,49 +487,49 @@ Welcome to our newest releaser, [Stewart X Addison](https://github.com/sxa). Fut
 | Skill | Status |
 |-------|--------|
 | Java | 🟢 Proficient |
-| Python | 🟡 Learning |
-| JavaScript | 🟢 Proficient |
-| TypeScript | 🟢 Proficient |
-| Go | 🔴 Beginner |
+| Python | 🔴 Beginner |
+| JavaScript | 🔴 Beginner |
+| TypeScript | ⚪ Planned |
+| Go | 🟢 Proficient |
 
 ### Frameworks
 
 | Skill | Status |
 |-------|--------|
-| React | 🔴 Beginner |
-| Spring Boot | 🟢 Proficient |
-| Django | ⚪ Planned |
+| React | 🟡 Learning |
+| Spring Boot | 🔴 Beginner |
+| Django | 🟡 Learning |
 | Node.js | 🔴 Beginner |
-| Next.js | ⚪ Planned |
+| Next.js | 🟢 Proficient |
 
 ### Cybersecurity
 
 | Skill | Status |
 |-------|--------|
-| Penetration Testing | 🔴 Beginner |
+| Penetration Testing | 🟡 Learning |
 | Web Security | ⚪ Planned |
 | Network Security | 🟢 Proficient |
-| OWASP | 🔴 Beginner |
+| OWASP | 🟢 Proficient |
 
 ### Ai Ml
 
 | Skill | Status |
 |-------|--------|
-| Machine Learning | ⚪ Planned |
-| Deep Learning | 🟡 Learning |
-| NLP | 🟡 Learning |
+| Machine Learning | 🟡 Learning |
+| Deep Learning | 🟢 Proficient |
+| NLP | 🔴 Beginner |
 | Computer Vision | 🔴 Beginner |
-| TensorFlow | 🔴 Beginner |
+| TensorFlow | 🟢 Proficient |
 | PyTorch | 🔴 Beginner |
 
 ### Devops
 
 | Skill | Status |
 |-------|--------|
-| Docker | 🔴 Beginner |
+| Docker | 🟡 Learning |
 | Kubernetes | 🟢 Proficient |
-| CI/CD | ⚪ Planned |
-| AWS | 🟢 Proficient |
+| CI/CD | 🟢 Proficient |
+| AWS | 🟡 Learning |
 | Azure | ⚪ Planned |
 
 ### Other
@@ -550,7 +538,7 @@ Welcome to our newest releaser, [Stewart X Addison](https://github.com/sxa). Fut
 |-------|--------|
 | Blockchain | 🔴 Beginner |
 | Web3 | ⚪ Planned |
-| Cloud Computing | ⚪ Planned |
+| Cloud Computing | 🔴 Beginner |
 
 </details>
 
