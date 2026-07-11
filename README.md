@@ -46,12 +46,17 @@
 
 ### 📑 Hacker News
 
-- **[What's the best way to do authentication in modern applications](https://neciudan.dev/most-secure-way-to-store-auth-token)**
-  *<p>Article URL: <a href="https://neciudan.dev/most-secure-way-to-store-auth-token">https://neciudan.dev/most-secure-way-to-store-auth-token</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.c...*
-  📅 Sat, 11 Jul 2026 06:09:33 +0000
+- **[Networking and the Internet, from First Principles](https://fazamhd.com/mental-models/networking/)**
+  *<p>Article URL: <a href="https://fazamhd.com/mental-models/networking/">https://fazamhd.com/mental-models/networking/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=48871470">h...*
+  📅 Sat, 11 Jul 2026 12:30:40 +0000
 
-- **[The Vintage Beauty of Soviet Control Rooms](https://designyoutrust.com/2018/01/vintage-beauty-soviet-control-rooms/)**
+- **[FCC Approves Test of Space Mirror to Light Night Sky Despite Outcry](https://www.nytimes.com/2026/07/10/climate/fcc-space-mirror.html)**
+  *<p>Article URL: <a href="https://www.nytimes.com/2026/07/10/climate/fcc-space-mirror.html">https://www.nytimes.com/2026/07/10/climate/fcc-space-mirror.html</a></p>
+<p>Comments URL: <a href="https://ne...*
+  📅 Sat, 11 Jul 2026 12:12:34 +0000
+
+- **[The vintage beauty of Soviet control rooms (2018)](https://designyoutrust.com/2018/01/vintage-beauty-soviet-control-rooms/)**
   *<p>Article URL: <a href="https://designyoutrust.com/2018/01/vintage-beauty-soviet-control-rooms/">https://designyoutrust.com/2018/01/vintage-beauty-soviet-control-rooms/</a></p>
 <p>Comments URL: <a hr...*
   📅 Sat, 11 Jul 2026 05:19:41 +0000
@@ -72,11 +77,6 @@
 <hr />
 <p>Comments URL: <a href="https://news.ycombi...*
   📅 Fri, 10 Jul 2026 20:47:09 +0000
-
-- **[GhostLock, a stack-UAF that has existed in ALL Linux distributions for 15 years](https://nebusec.ai/research/ionstack-part-2/)**
-  *<p>Article URL: <a href="https://nebusec.ai/research/ionstack-part-2/">https://nebusec.ai/research/ionstack-part-2/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=48864969">htt...*
-  📅 Fri, 10 Jul 2026 20:43:02 +0000
 
 ### 📑 TechCrunch
 
@@ -106,21 +106,13 @@
 
 ### 📑 Dev.to
 
-- **[Connect Redis, Postgres, and MySQL to Serverless Apps Over HTTPS](https://dev.to/zintrustjs/connect-redis-postgres-and-mysql-to-serverless-apps-over-https-cg)**
-  *<p>Serverless and edge runtimes are great until your app needs a normal TCP database connection.</p>
+- **[How to Prove a Prediction Was Made Before the Event (with OpenTimestamps)](https://dev.to/neu_portal_999f2396dbff8d/how-to-prove-a-prediction-was-made-before-the-event-with-opentimestamps-4p5d)**
+  *<p>Everyone who has ever been right about something loud enough to remember it will tell you they called it. The screenshot arrives after the match, after the candle, after the election. And there is ...*
+  📅 Sat, 11 Jul 2026 12:47:26 +0000
 
-<p>ZedGi works with:</p>
-
-<ul>
-<li>
-<strong>TypeScript / JavaScript SDK</strong>: Cloudflare Worke...*
-  📅 Sat, 11 Jul 2026 07:28:49 +0000
-
-- **[What edge cases would you test for stablecoin checkout webhooks?](https://dev.to/chainpaytopoetic/what-edge-cases-would-you-test-for-stablecoin-checkout-webhooks-12df)**
-  *<p>I'm building ChainPay, a stablecoin checkout for WooCommerce, SaaS products, Telegram sellers, and agent workflows.</p>
-
-<p>The wallet UI is only one part of the problem. The part I keep coming bac...*
-  📅 Sat, 11 Jul 2026 07:27:18 +0000
+- **[A Beginner's Guide to Installing and Using Node.js on Windows](https://dev.to/isaac_james_c15b893fb61c5/a-beginners-guide-to-installing-and-using-nodejs-on-windows-49jc)**
+  *<p>Have you ever wondered how massive modern platforms like Netflix, PayPal, and LinkedIn handle millions of users simultaneously without crashing? The secret weapon behind much of the modern web is N...*
+  📅 Sat, 11 Jul 2026 12:44:45 +0000
 
 </details>
 
@@ -128,99 +120,99 @@
 
 ### 📈 Daily Trending
 
-- **[lilxyzw/NonToon](https://github.com/lilxyzw/NonToon)** ⭐ 23
+- **[lilxyzw/NonToon](https://github.com/lilxyzw/NonToon)** ⭐ 40
   ![HLSL](https://img.shields.io/badge/-HLSL-lightgrey)
   A shader combining PBR and NPR
 
-- **[mrbear1024/ai-content-kb](https://github.com/mrbear1024/ai-content-kb)** ⭐ 20
+- **[mrbear1024/ai-content-kb](https://github.com/mrbear1024/ai-content-kb)** ⭐ 34
   ![None](https://img.shields.io/badge/-None-lightgrey)
   A review-first reference architecture for AI-assisted personal content knowledge systems
 
-- **[lilxyzw/Shader-Core](https://github.com/lilxyzw/Shader-Core)** ⭐ 18
+- **[lilxyzw/Shader-Core](https://github.com/lilxyzw/Shader-Core)** ⭐ 32
   ![C#](https://img.shields.io/badge/-C#-lightgrey)
   None
 
-- **[ZhangSir9901/BBRv3-Onekey](https://github.com/ZhangSir9901/BBRv3-Onekey)** ⭐ 12
+- **[youxiandechilun/Guido](https://github.com/youxiandechilun/Guido)** ⭐ 21
+  ![Java](https://img.shields.io/badge/-Java-orange)
+  景区导览服务 AI 数字人：基于 Spring Boot、Vue 3、UniApp 与本地 RAG 的智能导览系统。
+
+- **[fayazara/pdfstudio](https://github.com/fayazara/pdfstudio)** ⭐ 17
+  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
+  Client-side PDF toolkit — lock, unlock, merge, split & rotate PDFs in the browser. qpdf compiled to WebAssembly, fully typed, files never leave the device.
+
+- **[Haz3-jolt/tappy](https://github.com/Haz3-jolt/tappy)** ⭐ 15
+  ![Kotlin](https://img.shields.io/badge/-Kotlin-lightgrey)
+  None
+
+- **[ZhangSir9901/BBRv3-Onekey](https://github.com/ZhangSir9901/BBRv3-Onekey)** ⭐ 14
   ![Shell](https://img.shields.io/badge/-Shell-lightgrey)
   Debian 12/13 一键安装 XanMod BBRv3 智能优化脚本
 
-- **[SupremeRockTempo/STACK-2026](https://github.com/SupremeRockTempo/STACK-2026)** ⭐ 10
-  ![None](https://img.shields.io/badge/-None-lightgrey)
-  stack takeoff full version download windows — STACK Takeoff for Windows 11 & 10. Direct download, install steps and setup guide.
-
-- **[Jointropattern21/UKey-Spotify-2026](https://github.com/Jointropattern21/UKey-Spotify-2026)** ⭐ 9
-  ![None](https://img.shields.io/badge/-None-lightgrey)
-  ukey spotify downloader full version download windows — UKey Spotify Downloader for Windows 11 & 10. Direct download, install steps and setup guide.
-
-- **[WattAttorney13/AudFree-2026](https://github.com/WattAttorney13/AudFree-2026)** ⭐ 9
-  ![None](https://img.shields.io/badge/-None-lightgrey)
-  audfree spotify converter full version download windows — AudFree Spotify Converter for Windows 11 & 10. Direct download, install steps and setup guide.
-
-- **[DimensionDiplomat/Atera-2026](https://github.com/DimensionDiplomat/Atera-2026)** ⭐ 9
-  ![None](https://img.shields.io/badge/-None-lightgrey)
-  atera full version download windows — Atera for Windows 11 & 10. Direct download, install steps and setup guide.
+- **[BlakQi/grok_reg](https://github.com/BlakQi/grok_reg)** ⭐ 14
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  None
 
 ### 📈 Weekly Trending
 
-- **[withmarbleapp/os-taxonomy](https://github.com/withmarbleapp/os-taxonomy)** ⭐ 2,241
+- **[withmarbleapp/os-taxonomy](https://github.com/withmarbleapp/os-taxonomy)** ⭐ 2,290
   ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
   None
 
-- **[Shpigford/knockoff](https://github.com/Shpigford/knockoff)** ⭐ 1,721
+- **[Shpigford/knockoff](https://github.com/Shpigford/knockoff)** ⭐ 1,734
   ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
   Chrome extension that filters pseudo-brand junk out of Amazon. Buy from real, established brands.
 
-- **[MaximeRivest/riddle](https://github.com/MaximeRivest/riddle)** ⭐ 1,355
+- **[MaximeRivest/riddle](https://github.com/MaximeRivest/riddle)** ⭐ 1,373
   ![Rust](https://img.shields.io/badge/-Rust-brown)
   The diary of Tom Riddle for the reMarkable Paper Pro — write with your pen, the page drinks your ink and answers in a flowing hand
 
-- **[514-labs/dnsglobe](https://github.com/514-labs/dnsglobe)** ⭐ 800
+- **[514-labs/dnsglobe](https://github.com/514-labs/dnsglobe)** ⭐ 807
   ![Rust](https://img.shields.io/badge/-Rust-brown)
   Global DNS propagation checker TUI — watch a DNS record propagate across 34 public resolvers worldwide, on a world map in your terminal
 
-- **[Robbyant/lingbot-world-v2](https://github.com/Robbyant/lingbot-world-v2)** ⭐ 723
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  Infinite Worlds with Versatile Interactions
-
-- **[oso95/scroll-world](https://github.com/oso95/scroll-world)** ⭐ 707
+- **[oso95/scroll-world](https://github.com/oso95/scroll-world)** ⭐ 768
   ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
   A skill that turn any brand into a scrollable 3D world
 
-- **[simonlin1212/Vibe-Research](https://github.com/simonlin1212/Vibe-Research)** ⭐ 698
+- **[Robbyant/lingbot-world-v2](https://github.com/Robbyant/lingbot-world-v2)** ⭐ 752
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  Infinite Worlds with Versatile Interactions
+
+- **[simonlin1212/Vibe-Research](https://github.com/simonlin1212/Vibe-Research)** ⭐ 709
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   Vibe-Research: Your Personal Trading Research Agent · A股/美股/港股 的个人投研 Agent：每日复盘、资讯雷达、个股数据、板块中心、我的持仓、研究记录。Vibe-Research 把数据和功能配齐，由你自己的 AI 驱动投资研究。
 
-- **[Robbyant/lingbot-video](https://github.com/Robbyant/lingbot-video)** ⭐ 653
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  Scaling Mixture-of-Experts Video Pretraining for Embodied Intelligence
+- **[x4gKing/3x-ui-Upgrade](https://github.com/x4gKing/3x-ui-Upgrade)** ⭐ 702
+  ![HTML](https://img.shields.io/badge/-HTML-lightgrey)
+  None
 
 ### 📈 Monthly Trending
 
-- **[DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail)** ⭐ 80,334
+- **[DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail)** ⭐ 80,508
   ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
   Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.
 
-- **[baidu/Unlimited-OCR](https://github.com/baidu/Unlimited-OCR)** ⭐ 13,960
+- **[baidu/Unlimited-OCR](https://github.com/baidu/Unlimited-OCR)** ⭐ 13,977
   ![Python](https://img.shields.io/badge/-Python-blue)
   Unlimited OCR Works: Welcome the Era of One-shot Long-horizon Parsing.
 
-- **[langchain-ai/openwiki](https://github.com/langchain-ai/openwiki)** ⭐ 10,403
+- **[langchain-ai/openwiki](https://github.com/langchain-ai/openwiki)** ⭐ 10,464
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   OpenWiki is a CLI that writes and maintains agent documentation for your codebase.
 
-- **[deepseek-ai/DeepSpec](https://github.com/deepseek-ai/DeepSpec)** ⭐ 6,532
+- **[deepseek-ai/DeepSpec](https://github.com/deepseek-ai/DeepSpec)** ⭐ 6,535
   ![Python](https://img.shields.io/badge/-Python-blue)
   DeepSpec: a full-stack codebase for training and evaluating speculative decoding algorithms
 
-- **[elder-plinius/T3MP3ST](https://github.com/elder-plinius/T3MP3ST)** ⭐ 4,364
+- **[elder-plinius/T3MP3ST](https://github.com/elder-plinius/T3MP3ST)** ⭐ 4,382
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   autonomous red teaming platform; multi-agent offensive-security meta-harness
 
-- **[zhongerxin/Cowart](https://github.com/zhongerxin/Cowart)** ⭐ 4,342
+- **[zhongerxin/Cowart](https://github.com/zhongerxin/Cowart)** ⭐ 4,358
   ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
   None
 
-- **[x4gKing/X4G](https://github.com/x4gKing/X4G)** ⭐ 4,118
+- **[x4gKing/X4G](https://github.com/x4gKing/X4G)** ⭐ 4,277
   ![Python](https://img.shields.io/badge/-Python-blue)
   None
 
@@ -494,29 +486,29 @@ Welcome to our newest releaser, [Stewart X Addison](https://github.com/sxa). Fut
 
 | Skill | Status |
 |-------|--------|
-| Java | 🔴 Beginner |
-| Python | 🟢 Proficient |
-| JavaScript | ⚪ Planned |
+| Java | 🟡 Learning |
+| Python | 🔴 Beginner |
+| JavaScript | 🔴 Beginner |
 | TypeScript | 🟡 Learning |
-| Go | 🟢 Proficient |
+| Go | ⚪ Planned |
 
 ### Frameworks
 
 | Skill | Status |
 |-------|--------|
-| React | 🟢 Proficient |
-| Spring Boot | 🟢 Proficient |
+| React | 🟡 Learning |
+| Spring Boot | 🟡 Learning |
 | Django | 🟡 Learning |
-| Node.js | 🔴 Beginner |
-| Next.js | 🔴 Beginner |
+| Node.js | ⚪ Planned |
+| Next.js | ⚪ Planned |
 
 ### Cybersecurity
 
 | Skill | Status |
 |-------|--------|
 | Penetration Testing | ⚪ Planned |
-| Web Security | 🟢 Proficient |
-| Network Security | 🔴 Beginner |
+| Web Security | ⚪ Planned |
+| Network Security | 🟡 Learning |
 | OWASP | ⚪ Planned |
 
 ### Ai Ml
@@ -525,28 +517,28 @@ Welcome to our newest releaser, [Stewart X Addison](https://github.com/sxa). Fut
 |-------|--------|
 | Machine Learning | 🔴 Beginner |
 | Deep Learning | 🟡 Learning |
-| NLP | 🟡 Learning |
-| Computer Vision | ⚪ Planned |
-| TensorFlow | 🟢 Proficient |
-| PyTorch | 🟡 Learning |
+| NLP | 🟢 Proficient |
+| Computer Vision | 🔴 Beginner |
+| TensorFlow | 🟡 Learning |
+| PyTorch | 🔴 Beginner |
 
 ### Devops
 
 | Skill | Status |
 |-------|--------|
 | Docker | 🟢 Proficient |
-| Kubernetes | 🟢 Proficient |
-| CI/CD | 🟢 Proficient |
-| AWS | 🟢 Proficient |
-| Azure | 🔴 Beginner |
+| Kubernetes | 🔴 Beginner |
+| CI/CD | 🟡 Learning |
+| AWS | 🔴 Beginner |
+| Azure | 🟡 Learning |
 
 ### Other
 
 | Skill | Status |
 |-------|--------|
-| Blockchain | ⚪ Planned |
-| Web3 | ⚪ Planned |
-| Cloud Computing | 🟢 Proficient |
+| Blockchain | 🔴 Beginner |
+| Web3 | 🔴 Beginner |
+| Cloud Computing | 🔴 Beginner |
 
 </details>
 
