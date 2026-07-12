@@ -46,34 +46,36 @@
 
 ### 📑 Hacker News
 
-- **[A pure scheme web programming tool](https://goeteia.dev)**
-  *<p>Article URL: <a href="https://goeteia.dev">https://goeteia.dev</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=48877314">https://news.ycombinator.com/item?id=48877314</a></p>...*
-  📅 Sun, 12 Jul 2026 00:57:18 +0000
+- **[Show HN: Mindwalk – Replay coding-agent sessions on a 3D map of your codebase](https://github.com/cosmtrek/mindwalk)**
+  *<p>Article URL: <a href="https://github.com/cosmtrek/mindwalk">https://github.com/cosmtrek/mindwalk</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=48878682">https://news.ycombi...*
+  📅 Sun, 12 Jul 2026 05:51:32 +0000
 
-- **[A dock that wakes up reliably](https://fabiensanglard.net/tb4/index.html)**
-  *<p>Article URL: <a href="https://fabiensanglard.net/tb4/index.html">https://fabiensanglard.net/tb4/index.html</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=48877269">https://n...*
-  📅 Sun, 12 Jul 2026 00:48:10 +0000
+- **[Why Write Code in 2026](https://softwaredoug.com/blog/2026/07/09/write-code.html)**
+  *<p>Article URL: <a href="https://softwaredoug.com/blog/2026/07/09/write-code.html">https://softwaredoug.com/blog/2026/07/09/write-code.html</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.c...*
+  📅 Sun, 12 Jul 2026 04:15:27 +0000
 
-- **[Long Covid May Physically Damage the Nerves That Control the Stomach](https://www.ijidonline.com/article/S1201-9712(26)00608-9/fulltext)**
-  *<p>Article URL: <a href="https://www.ijidonline.com/article/S1201-9712(26)00608-9/fulltext">https://www.ijidonline.com/article/S1201-9712(26)00608-9/fulltext</a></p>
-<p>Comments URL: <a href="https://...*
-  📅 Sun, 12 Jul 2026 00:35:08 +0000
+- **[Under federal rule, colleges must leave grads better off or lose financial aid](https://www.npr.org/2026/06/30/nx-s1-5835631/turner-camhi-do-no-harm-college-loans)**
+  *<p>Article URL: <a href="https://www.npr.org/2026/06/30/nx-s1-5835631/turner-camhi-do-no-harm-college-loans">https://www.npr.org/2026/06/30/nx-s1-5835631/turner-camhi-do-no-harm-college-loans</a></p>
+...*
+  📅 Sun, 12 Jul 2026 04:00:14 +0000
 
-- **[Martha Lillard, last US polio patient using iron lung, dies at 78 in Oklahoma](https://abcnews.com/US/wireStory/martha-lillard-us-polio-patient-iron-lung-dies-134668491)**
-  *<p>Article URL: <a href="https://abcnews.com/US/wireStory/martha-lillard-us-polio-patient-iron-lung-dies-134668491">https://abcnews.com/US/wireStory/martha-lillard-us-polio-patient-iron-lung-dies-1346...*
-  📅 Sun, 12 Jul 2026 00:32:15 +0000
+- **[Unexpected Solidlike Fracture in Simple Liquids](https://www.quantamagazine.org/we-know-simple-fluids-can-flow-turns-out-some-can-fracture-20260710/)**
+  *<p><a href="https://journals.aps.org/prl/abstract/10.1103/t2vy-32wr" rel="nofollow">https://journals.aps.org/prl/abstract/10.1103/t2vy-32wr</a></p>
+<hr />
+<p>Comments URL: <a href="https://news.ycombi...*
+  📅 Sun, 12 Jul 2026 02:13:46 +0000
 
-- **[A public ledger of cloud outages and the SLA credits they trigger](https://slacreditwatch.com)**
-  *<p>Article URL: <a href="https://slacreditwatch.com">https://slacreditwatch.com</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=48877009">https://news.ycombinator.com/item?id=48...*
-  📅 Sun, 12 Jul 2026 00:02:27 +0000
+- **[The Energetic Costs of Cellular Computation (2012)](https://arxiv.org/abs/1203.5426)**
+  *<p>Article URL: <a href="https://arxiv.org/abs/1203.5426">https://arxiv.org/abs/1203.5426</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=48877613">https://news.ycombinator.com/...*
+  📅 Sun, 12 Jul 2026 01:59:35 +0000
 
-- **[Doctors die. It's not like the rest of us, but it should be (2016)](https://archive.cancerworld.net/featured/how-doctors-die/)**
-  *<p>Article URL: <a href="https://archive.cancerworld.net/featured/how-doctors-die/">https://archive.cancerworld.net/featured/how-doctors-die/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator...*
-  📅 Sat, 11 Jul 2026 23:15:06 +0000
+- **[A Erlang style pure Scheme Webserver and further](https://igropyr.com)**
+  *<p>Article URL: <a href="https://igropyr.com">https://igropyr.com</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=48877344">https://news.ycombinator.com/item?id=48877344</a></p>...*
+  📅 Sun, 12 Jul 2026 01:03:29 +0000
 
 ### 📑 TechCrunch
 
@@ -103,24 +105,21 @@
 
 ### 📑 Dev.to
 
-- **[For the love of the game: a World Cup companion with on-chain betting and Snowflake-ready analytics](https://dev.to/piwe/for-the-love-of-the-game-a-world-cup-companion-with-on-chain-betting-and-snowflake-ready-analytics-2ohj)**
-  *<blockquote>
-<p>Submission for the [DEV Weekend Challenge — Passion Edition].<br />
-(<a href="https://dev.to/challenges/weekend-2026-07-09">https://dev.to/challenges/weekend-2026-07-09</a>)<br />
-The ...*
-  📅 Sun, 12 Jul 2026 01:40:08 +0000
-
-- **[Rivalry Radio: a fake late-night call-in show where two AI superfans argue about anything.](https://dev.to/snipforge/rivalry-radio-a-fake-late-night-call-in-show-where-two-ai-superfans-argue-about-anything-59bn)**
+- **[🤗 Find the Pokemon you are w. PokéAPI, your resume & embeddings](https://dev.to/adriens/find-the-pokemon-you-are-w-pokeapi-your-resume-embeddings-3bb5)**
   *<p><em>This is a submission for <a href="https://dev.to/challenges/weekend-2026-07-09">Weekend Challenge: Passion Edition</a></em></p>
 
 <h2>
   
   
-  What I Built:
+  ❔ What I Built
 </h2>
 
-<p>Rivalry Radio is a fake lat...*
-  📅 Sun, 12 Jul 2026 01:35:17 +0000
+<p>These two last weeks, my t...*
+  📅 Sun, 12 Jul 2026 08:00:47 +0000
+
+- **[The WCAG AA Checklist Every Angular Component Should Pass Before You Ship](https://dev.to/duncanfaulkner/the-wcag-aa-checklist-every-angular-component-should-pass-before-you-ship-3pdn)**
+  *<p>I've been writing Angular for ten years, and for most of them I treated accessibility the way nearly everyone does: as a thing I'd "get to" once the feature worked. It always lost the race to the d...*
+  📅 Sun, 12 Jul 2026 08:00:00 +0000
 
 </details>
 
@@ -128,103 +127,103 @@ The ...*
 
 ### 📈 Daily Trending
 
+- **[xsser/cliproxyapi-cloudflare-stack](https://github.com/xsser/cliproxyapi-cloudflare-stack)** ⭐ 52
+  ![Shell](https://img.shields.io/badge/-Shell-lightgrey)
+  感谢马斯克 让我grok自由，免费注册grok 无数个号。然后cpa自由使用
+
+- **[igorbarshteyn/jlens-gguf](https://github.com/igorbarshteyn/jlens-gguf)** ⭐ 14
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  Interactive Jacobian-Lens visualizer and live steerer for GGUF models on llama.cpp
+
+- **[NextWeb4/lan-file-transfer](https://github.com/NextWeb4/lan-file-transfer)** ⭐ 14
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  Local LAN file transfer desktop app with user/group permissions and audit logs.
+
+- **[zhvhmvrhlmt/Geode](https://github.com/zhvhmvrhlmt/Geode)** ⭐ 10
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
+  None
+
+- **[yigehaozi/relay-status-monitor](https://github.com/yigehaozi/relay-status-monitor)** ⭐ 9
+  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
+  自托管的 AI API 中转站状态监控面板，支持 SUB2API / New API、余额与延迟采集、模型测速、可用率统计及飞书告警。
+
 - **[jeallz/Consulta-obito-receita-federal](https://github.com/jeallz/Consulta-obito-receita-federal)** ⭐ 7
   ![Python](https://img.shields.io/badge/-Python-blue)
   Sistema básico em python para automatizar consulta de óbito através de CPF e data de nascimento no site da Receita Federal
 
-- **[mabmab159/DSW1-M2-JUL26](https://github.com/mabmab159/DSW1-M2-JUL26)** ⭐ 2
-  ![Java](https://img.shields.io/badge/-Java-orange)
-  None
-
-- **[hentaiOS-Infrastructure/mystic-attestationfixer](https://github.com/hentaiOS-Infrastructure/mystic-attestationfixer)** ⭐ 2
-  ![Rust](https://img.shields.io/badge/-Rust-brown)
-  Device side attestation replacer service
-
-- **[yuyuan328/ai-task-manager](https://github.com/yuyuan328/ai-task-manager)** ⭐ 2
+- **[Floxu1/UAC-GATEWAY](https://github.com/Floxu1/UAC-GATEWAY)** ⭐ 5
   ![Python](https://img.shields.io/badge/-Python-blue)
   None
 
-- **[xalonious/Bridgely](https://github.com/xalonious/Bridgely)** ⭐ 2
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
-  A Discord-to-Roblox verification bot with group role syncing, nickname management, custom binds, and profile or game-based verification.
-
-- **[SidyKing/typeghost](https://github.com/SidyKing/typeghost)** ⭐ 2
-  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
-  👻 A teleprompter for your code — replay pre-written code with human-like typing in VS Code or the browser, or mash keys and let the real script come out.
-
-- **[champ96k/Tokenbar](https://github.com/champ96k/Tokenbar)** ⭐ 1
-  ![Makefile](https://img.shields.io/badge/-Makefile-lightgrey)
-  TokenBar is a native macOS menu bar app that shows your AI provider usage at a glance, tokens, cost, credits, and quota - without opening a single dashboard. 
-
-- **[AbdiVibe/AbdiVibe](https://github.com/AbdiVibe/AbdiVibe)** ⭐ 1
-  ![None](https://img.shields.io/badge/-None-lightgrey)
-  None
+- **[PangenomeAI/academic-skills-food-nutrition](https://github.com/PangenomeAI/academic-skills-food-nutrition)** ⭐ 5
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  Open food & nutrition science research skill suite for Claude Code and Codex — multi-agent research/write/review/figure skills + journal author-guideline skills. Initiated by the Food Science Group, University of Melbourne.
 
 ### 📈 Weekly Trending
 
-- **[withmarbleapp/os-taxonomy](https://github.com/withmarbleapp/os-taxonomy)** ⭐ 2,412
+- **[withmarbleapp/os-taxonomy](https://github.com/withmarbleapp/os-taxonomy)** ⭐ 2,507
   ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
   None
 
-- **[Shpigford/knockoff](https://github.com/Shpigford/knockoff)** ⭐ 1,773
+- **[Shpigford/knockoff](https://github.com/Shpigford/knockoff)** ⭐ 1,787
   ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
   Chrome extension that filters pseudo-brand junk out of Amazon. Buy from real, established brands.
 
-- **[oso95/scroll-world](https://github.com/oso95/scroll-world)** ⭐ 892
+- **[oso95/scroll-world](https://github.com/oso95/scroll-world)** ⭐ 973
   ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
   A skill that turn any brand into a scrollable 3D world
 
-- **[x4gKing/3x-ui-Upgrade](https://github.com/x4gKing/3x-ui-Upgrade)** ⭐ 800
-  ![HTML](https://img.shields.io/badge/-HTML-lightgrey)
-  None
-
-- **[Robbyant/lingbot-world-v2](https://github.com/Robbyant/lingbot-world-v2)** ⭐ 797
+- **[Robbyant/lingbot-world-v2](https://github.com/Robbyant/lingbot-world-v2)** ⭐ 840
   ![Python](https://img.shields.io/badge/-Python-blue)
   Infinite Worlds with Versatile Interactions
 
-- **[Robbyant/lingbot-video](https://github.com/Robbyant/lingbot-video)** ⭐ 679
+- **[x4gKing/3x-ui-Upgrade](https://github.com/x4gKing/3x-ui-Upgrade)** ⭐ 812
+  ![HTML](https://img.shields.io/badge/-HTML-lightgrey)
+  None
+
+- **[Robbyant/lingbot-video](https://github.com/Robbyant/lingbot-video)** ⭐ 694
   ![Python](https://img.shields.io/badge/-Python-blue)
   Scaling Mixture-of-Experts Video Pretraining for Embodied Intelligence
 
-- **[Robbyant/lingbot-vision](https://github.com/Robbyant/lingbot-vision)** ⭐ 635
+- **[Robbyant/lingbot-vision](https://github.com/Robbyant/lingbot-vision)** ⭐ 645
   ![Python](https://img.shields.io/badge/-Python-blue)
   Self-supervised learning for spatial perception
 
-- **[op7418/guizang-material-illustration](https://github.com/op7418/guizang-material-illustration)** ⭐ 560
+- **[op7418/guizang-material-illustration](https://github.com/op7418/guizang-material-illustration)** ⭐ 571
   ![None](https://img.shields.io/badge/-None-lightgrey)
   归藏的材质插画 skill：生成带字解释图、图表美化和参考辅助配图。
 
 ### 📈 Monthly Trending
 
-- **[baidu/Unlimited-OCR](https://github.com/baidu/Unlimited-OCR)** ⭐ 14,027
+- **[baidu/Unlimited-OCR](https://github.com/baidu/Unlimited-OCR)** ⭐ 14,042
   ![Python](https://img.shields.io/badge/-Python-blue)
   Unlimited OCR Works: Welcome the Era of One-shot Long-horizon Parsing.
 
-- **[langchain-ai/openwiki](https://github.com/langchain-ai/openwiki)** ⭐ 10,574
+- **[langchain-ai/openwiki](https://github.com/langchain-ai/openwiki)** ⭐ 10,628
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   OpenWiki is a CLI that writes and maintains agent documentation for your codebase.
 
-- **[deepseek-ai/DeepSpec](https://github.com/deepseek-ai/DeepSpec)** ⭐ 6,544
+- **[deepseek-ai/DeepSpec](https://github.com/deepseek-ai/DeepSpec)** ⭐ 6,552
   ![Python](https://img.shields.io/badge/-Python-blue)
   DeepSpec: a full-stack codebase for training and evaluating speculative decoding algorithms
 
-- **[x4gKing/X4G](https://github.com/x4gKing/X4G)** ⭐ 4,505
+- **[x4gKing/X4G](https://github.com/x4gKing/X4G)** ⭐ 4,549
   ![Python](https://img.shields.io/badge/-Python-blue)
   None
 
-- **[elder-plinius/T3MP3ST](https://github.com/elder-plinius/T3MP3ST)** ⭐ 4,438
+- **[elder-plinius/T3MP3ST](https://github.com/elder-plinius/T3MP3ST)** ⭐ 4,458
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   autonomous red teaming platform; multi-agent offensive-security meta-harness
 
-- **[zhongerxin/Cowart](https://github.com/zhongerxin/Cowart)** ⭐ 4,369
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
-  None
-
-- **[JustVugg/colibri](https://github.com/JustVugg/colibri)** ⭐ 4,084
+- **[JustVugg/colibri](https://github.com/JustVugg/colibri)** ⭐ 4,438
   ![C](https://img.shields.io/badge/-C-lightgrey)
   Run GLM-5.2 (744B MoE) on a 25GB-RAM consumer machine — pure C, zero deps, experts streamed from disk. Tiny engine, immense model. 🐦
 
-- **[Yu9191/wloc](https://github.com/Yu9191/wloc)** ⭐ 3,911
+- **[zhongerxin/Cowart](https://github.com/zhongerxin/Cowart)** ⭐ 4,380
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
+  None
+
+- **[Yu9191/wloc](https://github.com/Yu9191/wloc)** ⭐ 3,955
   ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
   修改 Apple 网络定位（gs-loc）返回坐标 · 支持 Surge / Quantumult X / Loon / Stash · 快捷指令一键设置/恢复定位
 
@@ -494,39 +493,39 @@ Welcome to our newest releaser, [Stewart X Addison](https://github.com/sxa). Fut
 
 | Skill | Status |
 |-------|--------|
-| Java | 🔴 Beginner |
-| Python | 🔴 Beginner |
-| JavaScript | 🔴 Beginner |
-| TypeScript | ⚪ Planned |
-| Go | ⚪ Planned |
+| Java | 🟢 Proficient |
+| Python | 🟢 Proficient |
+| JavaScript | 🟡 Learning |
+| TypeScript | 🟡 Learning |
+| Go | 🔴 Beginner |
 
 ### Frameworks
 
 | Skill | Status |
 |-------|--------|
 | React | 🔴 Beginner |
-| Spring Boot | ⚪ Planned |
-| Django | ⚪ Planned |
-| Node.js | ⚪ Planned |
-| Next.js | 🟢 Proficient |
+| Spring Boot | 🔴 Beginner |
+| Django | 🟢 Proficient |
+| Node.js | 🔴 Beginner |
+| Next.js | ⚪ Planned |
 
 ### Cybersecurity
 
 | Skill | Status |
 |-------|--------|
 | Penetration Testing | 🔴 Beginner |
-| Web Security | 🟢 Proficient |
-| Network Security | 🟡 Learning |
-| OWASP | 🟢 Proficient |
+| Web Security | ⚪ Planned |
+| Network Security | 🟢 Proficient |
+| OWASP | 🔴 Beginner |
 
 ### Ai Ml
 
 | Skill | Status |
 |-------|--------|
 | Machine Learning | 🟢 Proficient |
-| Deep Learning | ⚪ Planned |
-| NLP | 🔴 Beginner |
-| Computer Vision | 🟡 Learning |
+| Deep Learning | 🟢 Proficient |
+| NLP | 🟡 Learning |
+| Computer Vision | ⚪ Planned |
 | TensorFlow | ⚪ Planned |
 | PyTorch | 🟡 Learning |
 
@@ -534,19 +533,19 @@ Welcome to our newest releaser, [Stewart X Addison](https://github.com/sxa). Fut
 
 | Skill | Status |
 |-------|--------|
-| Docker | 🟡 Learning |
+| Docker | 🟢 Proficient |
 | Kubernetes | 🔴 Beginner |
 | CI/CD | 🟢 Proficient |
-| AWS | ⚪ Planned |
-| Azure | 🟢 Proficient |
+| AWS | 🔴 Beginner |
+| Azure | 🟡 Learning |
 
 ### Other
 
 | Skill | Status |
 |-------|--------|
 | Blockchain | ⚪ Planned |
-| Web3 | 🔴 Beginner |
-| Cloud Computing | ⚪ Planned |
+| Web3 | 🟡 Learning |
+| Cloud Computing | 🟡 Learning |
 
 </details>
 
