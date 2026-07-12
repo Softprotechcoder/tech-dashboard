@@ -7,7 +7,7 @@
 ![AI & ML](https://img.shields.io/badge/-AI%20&%20ML-blue) ![CyberSecurity](https://img.shields.io/badge/-CyberSecurity-red) ![Full Stack Development](https://img.shields.io/badge/-Full%20Stack%20Development-green)
 
 [![Auto Update](https://img.shields.io/badge/Auto%20Update-Enabled-success)](https://github.com/yourusername/tech-dashboard/actions)
-[![Last Updated](https://img.shields.io/badge/Last%20Updated-July 11, 2026-blue)](https://github.com/yourusername/tech-dashboard)
+[![Last Updated](https://img.shields.io/badge/Last%20Updated-July 12, 2026-blue)](https://github.com/yourusername/tech-dashboard)
 
 *Automatically updated every 6 hours with the latest tech news, trending repositories, and learning resources.*
 
@@ -46,36 +46,44 @@
 
 ### 📑 Hacker News
 
-- **[How to Hide from Killer Drones](https://www.economist.com/science-and-technology/2026/07/08/how-to-hide-from-killer-drones)**
-  *<p>Article URL: <a href="https://www.economist.com/science-and-technology/2026/07/08/how-to-hide-from-killer-drones">https://www.economist.com/science-and-technology/2026/07/08/how-to-hide-from-killer...*
-  📅 Sat, 11 Jul 2026 18:22:02 +0000
+- **[A pure scheme web programming tool](https://goeteia.dev)**
+  *<p>Article URL: <a href="https://goeteia.dev">https://goeteia.dev</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=48877314">https://news.ycombinator.com/item?id=48877314</a></p>...*
+  📅 Sun, 12 Jul 2026 00:57:18 +0000
 
-- **[AI 2040 and the Cult of Intelligence](https://geohot.github.io//blog/jekyll/update/2026/07/11/ai-2040.html)**
-  *<p>Article URL: <a href="https://geohot.github.io//blog/jekyll/update/2026/07/11/ai-2040.html">https://geohot.github.io//blog/jekyll/update/2026/07/11/ai-2040.html</a></p>
-<p>Comments URL: <a href="ht...*
-  📅 Sat, 11 Jul 2026 18:04:01 +0000
+- **[A dock that wakes up reliably](https://fabiensanglard.net/tb4/index.html)**
+  *<p>Article URL: <a href="https://fabiensanglard.net/tb4/index.html">https://fabiensanglard.net/tb4/index.html</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=48877269">https://n...*
+  📅 Sun, 12 Jul 2026 00:48:10 +0000
 
-- **[Who manages the agents?](https://www.off-policy.com/dont-go-quietly-into-the-ai-night/)**
-  *<p>Article URL: <a href="https://www.off-policy.com/dont-go-quietly-into-the-ai-night/">https://www.off-policy.com/dont-go-quietly-into-the-ai-night/</a></p>
-<p>Comments URL: <a href="https://news.yco...*
-  📅 Sat, 11 Jul 2026 18:02:33 +0000
+- **[Long Covid May Physically Damage the Nerves That Control the Stomach](https://www.ijidonline.com/article/S1201-9712(26)00608-9/fulltext)**
+  *<p>Article URL: <a href="https://www.ijidonline.com/article/S1201-9712(26)00608-9/fulltext">https://www.ijidonline.com/article/S1201-9712(26)00608-9/fulltext</a></p>
+<p>Comments URL: <a href="https://...*
+  📅 Sun, 12 Jul 2026 00:35:08 +0000
 
-- **[Prefer Strict Tables in SQLite](https://evanhahn.com/prefer-strict-tables-in-sqlite/)**
-  *<p>Article URL: <a href="https://evanhahn.com/prefer-strict-tables-in-sqlite/">https://evanhahn.com/prefer-strict-tables-in-sqlite/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?...*
-  📅 Sat, 11 Jul 2026 17:33:55 +0000
+- **[Martha Lillard, last US polio patient using iron lung, dies at 78 in Oklahoma](https://abcnews.com/US/wireStory/martha-lillard-us-polio-patient-iron-lung-dies-134668491)**
+  *<p>Article URL: <a href="https://abcnews.com/US/wireStory/martha-lillard-us-polio-patient-iron-lung-dies-134668491">https://abcnews.com/US/wireStory/martha-lillard-us-polio-patient-iron-lung-dies-1346...*
+  📅 Sun, 12 Jul 2026 00:32:15 +0000
 
-- **[BLISS](https://en.wikipedia.org/wiki/BLISS)**
-  *<p>Article URL: <a href="https://en.wikipedia.org/wiki/BLISS">https://en.wikipedia.org/wiki/BLISS</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=48873910">https://news.ycombina...*
-  📅 Sat, 11 Jul 2026 17:30:01 +0000
+- **[A public ledger of cloud outages and the SLA credits they trigger](https://slacreditwatch.com)**
+  *<p>Article URL: <a href="https://slacreditwatch.com">https://slacreditwatch.com</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=48877009">https://news.ycombinator.com/item?id=48...*
+  📅 Sun, 12 Jul 2026 00:02:27 +0000
 
-- **[Leaded Gas Was a Known Poison the Day It Was Invented (2016)](https://www.smithsonianmag.com/smart-news/leaded-gas-poison-invented-180961368/)**
-  *<p>Article URL: <a href="https://www.smithsonianmag.com/smart-news/leaded-gas-poison-invented-180961368/">https://www.smithsonianmag.com/smart-news/leaded-gas-poison-invented-180961368/</a></p>
-<p>Com...*
-  📅 Sat, 11 Jul 2026 17:27:55 +0000
+- **[Doctors die. It's not like the rest of us, but it should be (2016)](https://archive.cancerworld.net/featured/how-doctors-die/)**
+  *<p>Article URL: <a href="https://archive.cancerworld.net/featured/how-doctors-die/">https://archive.cancerworld.net/featured/how-doctors-die/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator...*
+  📅 Sat, 11 Jul 2026 23:15:06 +0000
 
 ### 📑 TechCrunch
+
+- **[Reed Jobs would rather talk about curing cancer than his last name](https://techcrunch.com/2026/07/11/reed-jobs-would-rather-talk-about-curing-cancer-than-his-last-name/)**
+  *When we last sat down with Jobs at TechCrunch Disrupt nearly three years ago, his firm Yosemite was brand new and biotech was still reeling from its post-pandemic crash. Now, the venture outfit has a ...*
+  📅 Sun, 12 Jul 2026 00:16:06 +0000
+
+- **[This slushie machine was a lifesaver during NYC’s heat wave](https://techcrunch.com/2026/07/11/this-slushie-machine-was-a-lifesaver-during-nycs-heat-wave/)**
+  *Last weekend&#8217;s brutal NYC heat wave had me craving a frozen drink almost every afternoon. Normally, that would mean sweating through a walk to 7-Eleven for a slurpee. This time, though, I stayed...*
+  📅 Sat, 11 Jul 2026 22:00:00 +0000
 
 - **[Smart glasses without a camera? Even Realities bets productivity beats recording everyone](https://techcrunch.com/2026/07/11/smart-glasses-without-a-camera-even-realities-bets-productivity-beats-recording-everyone/)**
   *The glasses are targeted at people who might be constantly in meetings, giving presentations, and traveling to countries where different languages are spoken....*
@@ -93,25 +101,26 @@
   *Phia, the shopping startup founded by Bill Gates’ daughter, Phoebe, and her friend Sophia Kianni is under fire for a practice known as “cookie stuffing,” which helped the product receive commissions a...*
   📅 Sat, 11 Jul 2026 00:29:25 +0000
 
-- **[Meta removes controversial AI feature on Instagram after backlash](https://techcrunch.com/2026/07/10/meta-removes-controversial-ai-feature-on-instagram-after-backlash/)**
-  *"Our intent was to provide a useful creative tool and to give people control over whether their public content could be referenced in this way," the company said in a blog post. "We've heard the feedb...*
-  📅 Fri, 10 Jul 2026 23:55:07 +0000
-
-- **[Bluesky’s interim CEO, Toni Schneider, drops the ‘interim’](https://techcrunch.com/2026/07/10/blueskys-interim-ceo-toni-schneider-drops-the-interim/)**
-  *Schneider, who formerly served as the CEO of Automattic and is a partner at True Ventures, says he is "all in" on the unconventional social media platform....*
-  📅 Fri, 10 Jul 2026 21:51:55 +0000
-
 ### 📑 Dev.to
 
-- **[Leetcode for the win!](https://dev.to/xbill/leetcode-for-the-win-3le8)**
-  *<div class="ltag__link--embedded">
-  <div class="crayons-story ">
-  <a class="crayons-story__hidden-navigation-link" href="https://dev.to/gde/grind404-i-turned-my-passion-for-leetcode-into-a-playable-...*
-  📅 Sat, 11 Jul 2026 18:45:00 +0000
+- **[For the love of the game: a World Cup companion with on-chain betting and Snowflake-ready analytics](https://dev.to/piwe/for-the-love-of-the-game-a-world-cup-companion-with-on-chain-betting-and-snowflake-ready-analytics-2ohj)**
+  *<blockquote>
+<p>Submission for the [DEV Weekend Challenge — Passion Edition].<br />
+(<a href="https://dev.to/challenges/weekend-2026-07-09">https://dev.to/challenges/weekend-2026-07-09</a>)<br />
+The ...*
+  📅 Sun, 12 Jul 2026 01:40:08 +0000
 
-- **[Designing an Async Image API Client That Does Not Lie About Completion](https://dev.to/hedging8563/designing-an-async-image-api-client-that-does-not-lie-about-completion-4blm)**
-  *<p>Image generation is where a seemingly simple API client starts to accumulate production bugs. A request may finish inline for one model, return a task for another, or take a longer path when the in...*
-  📅 Sat, 11 Jul 2026 18:35:23 +0000
+- **[Rivalry Radio: a fake late-night call-in show where two AI superfans argue about anything.](https://dev.to/snipforge/rivalry-radio-a-fake-late-night-call-in-show-where-two-ai-superfans-argue-about-anything-59bn)**
+  *<p><em>This is a submission for <a href="https://dev.to/challenges/weekend-2026-07-09">Weekend Challenge: Passion Edition</a></em></p>
+
+<h2>
+  
+  
+  What I Built:
+</h2>
+
+<p>Rivalry Radio is a fake lat...*
+  📅 Sun, 12 Jul 2026 01:35:17 +0000
 
 </details>
 
@@ -119,95 +128,91 @@
 
 ### 📈 Daily Trending
 
-- **[nhevers/project-r0x](https://github.com/nhevers/project-r0x)** ⭐ 122
-  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
-  Official SDK, Claude Code plugin and facilitator docs for r0x, the x402 facilitator for Robinhood Chain.
-
-- **[mrbear1024/ai-content-kb](https://github.com/mrbear1024/ai-content-kb)** ⭐ 58
-  ![None](https://img.shields.io/badge/-None-lightgrey)
-  A review-first reference architecture for AI-assisted personal content knowledge systems
-
-- **[Git-creat7/grokRegister-cpa](https://github.com/Git-creat7/grokRegister-cpa)** ⭐ 58
+- **[jeallz/Consulta-obito-receita-federal](https://github.com/jeallz/Consulta-obito-receita-federal)** ⭐ 7
   ![Python](https://img.shields.io/badge/-Python-blue)
-  Grok 自动注册机 — 注册成功后自动入库 CLIProxyAPI (CPA)：支持本地 auth 目录与远程 Management API 上传
+  Sistema básico em python para automatizar consulta de óbito através de CPF e data de nascimento no site da Receita Federal
 
-- **[Cidinhairia31902/Crypto-Clipper](https://github.com/Cidinhairia31902/Crypto-Clipper)** ⭐ 49
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  Crypto Clipper is a cross-platform clipboard monitoring and builder tool for BTC, ETH, SOL, TRX, LTC, and DOGE address detection. Features include regex matching, address validation, activity logs, custom rules, clipboard history, UI customization, and standalone client generation for Windows, Linux, and macOS with embedded settings.
-
-- **[lilxyzw/NonToon](https://github.com/lilxyzw/NonToon)** ⭐ 48
-  ![HLSL](https://img.shields.io/badge/-HLSL-lightgrey)
-  A shader combining PBR and NPR
-
-- **[fayazara/pdfstudio](https://github.com/fayazara/pdfstudio)** ⭐ 47
-  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
-  Client-side PDF toolkit — lock, unlock, merge, split & rotate PDFs in the browser. qpdf compiled to WebAssembly, fully typed, files never leave the device.
-
-- **[lilxyzw/Shader-Core](https://github.com/lilxyzw/Shader-Core)** ⭐ 39
-  ![C#](https://img.shields.io/badge/-C#-lightgrey)
+- **[mabmab159/DSW1-M2-JUL26](https://github.com/mabmab159/DSW1-M2-JUL26)** ⭐ 2
+  ![Java](https://img.shields.io/badge/-Java-orange)
   None
 
-- **[Subhan-code/Amicro--Micro-transitions-](https://github.com/Subhan-code/Amicro--Micro-transitions-)** ⭐ 34
+- **[hentaiOS-Infrastructure/mystic-attestationfixer](https://github.com/hentaiOS-Infrastructure/mystic-attestationfixer)** ⭐ 2
+  ![Rust](https://img.shields.io/badge/-Rust-brown)
+  Device side attestation replacer service
+
+- **[yuyuan328/ai-task-manager](https://github.com/yuyuan328/ai-task-manager)** ⭐ 2
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  None
+
+- **[xalonious/Bridgely](https://github.com/xalonious/Bridgely)** ⭐ 2
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
+  A Discord-to-Roblox verification bot with group role syncing, nickname management, custom binds, and profile or game-based verification.
+
+- **[SidyKing/typeghost](https://github.com/SidyKing/typeghost)** ⭐ 2
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
+  👻 A teleprompter for your code — replay pre-written code with human-like typing in VS Code or the browser, or mash keys and let the real script come out.
+
+- **[champ96k/Tokenbar](https://github.com/champ96k/Tokenbar)** ⭐ 1
+  ![Makefile](https://img.shields.io/badge/-Makefile-lightgrey)
+  TokenBar is a native macOS menu bar app that shows your AI provider usage at a glance, tokens, cost, credits, and quota - without opening a single dashboard. 
+
+- **[AbdiVibe/AbdiVibe](https://github.com/AbdiVibe/AbdiVibe)** ⭐ 1
+  ![None](https://img.shields.io/badge/-None-lightgrey)
   None
 
 ### 📈 Weekly Trending
 
-- **[withmarbleapp/os-taxonomy](https://github.com/withmarbleapp/os-taxonomy)** ⭐ 2,341
+- **[withmarbleapp/os-taxonomy](https://github.com/withmarbleapp/os-taxonomy)** ⭐ 2,412
   ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
   None
 
-- **[Shpigford/knockoff](https://github.com/Shpigford/knockoff)** ⭐ 1,754
+- **[Shpigford/knockoff](https://github.com/Shpigford/knockoff)** ⭐ 1,773
   ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
   Chrome extension that filters pseudo-brand junk out of Amazon. Buy from real, established brands.
 
-- **[MaximeRivest/riddle](https://github.com/MaximeRivest/riddle)** ⭐ 1,389
-  ![Rust](https://img.shields.io/badge/-Rust-brown)
-  The diary of Tom Riddle for the reMarkable Paper Pro — write with your pen, the page drinks your ink and answers in a flowing hand
-
-- **[oso95/scroll-world](https://github.com/oso95/scroll-world)** ⭐ 815
+- **[oso95/scroll-world](https://github.com/oso95/scroll-world)** ⭐ 892
   ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
   A skill that turn any brand into a scrollable 3D world
 
-- **[514-labs/dnsglobe](https://github.com/514-labs/dnsglobe)** ⭐ 812
-  ![Rust](https://img.shields.io/badge/-Rust-brown)
-  Global DNS propagation checker TUI — watch a DNS record propagate across 34 public resolvers worldwide, on a world map in your terminal
-
-- **[Robbyant/lingbot-world-v2](https://github.com/Robbyant/lingbot-world-v2)** ⭐ 781
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  Infinite Worlds with Versatile Interactions
-
-- **[x4gKing/3x-ui-Upgrade](https://github.com/x4gKing/3x-ui-Upgrade)** ⭐ 765
+- **[x4gKing/3x-ui-Upgrade](https://github.com/x4gKing/3x-ui-Upgrade)** ⭐ 800
   ![HTML](https://img.shields.io/badge/-HTML-lightgrey)
   None
 
-- **[simonlin1212/Vibe-Research](https://github.com/simonlin1212/Vibe-Research)** ⭐ 721
-  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
-  Vibe-Research: Your Personal Trading Research Agent · A股/美股/港股 的个人投研 Agent：每日复盘、资讯雷达、个股数据、板块中心、我的持仓、研究记录。Vibe-Research 把数据和功能配齐，由你自己的 AI 驱动投资研究。
+- **[Robbyant/lingbot-world-v2](https://github.com/Robbyant/lingbot-world-v2)** ⭐ 797
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  Infinite Worlds with Versatile Interactions
+
+- **[Robbyant/lingbot-video](https://github.com/Robbyant/lingbot-video)** ⭐ 679
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  Scaling Mixture-of-Experts Video Pretraining for Embodied Intelligence
+
+- **[Robbyant/lingbot-vision](https://github.com/Robbyant/lingbot-vision)** ⭐ 635
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  Self-supervised learning for spatial perception
+
+- **[op7418/guizang-material-illustration](https://github.com/op7418/guizang-material-illustration)** ⭐ 560
+  ![None](https://img.shields.io/badge/-None-lightgrey)
+  归藏的材质插画 skill：生成带字解释图、图表美化和参考辅助配图。
 
 ### 📈 Monthly Trending
 
-- **[DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail)** ⭐ 80,662
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
-  Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.
-
-- **[baidu/Unlimited-OCR](https://github.com/baidu/Unlimited-OCR)** ⭐ 14,010
+- **[baidu/Unlimited-OCR](https://github.com/baidu/Unlimited-OCR)** ⭐ 14,027
   ![Python](https://img.shields.io/badge/-Python-blue)
   Unlimited OCR Works: Welcome the Era of One-shot Long-horizon Parsing.
 
-- **[langchain-ai/openwiki](https://github.com/langchain-ai/openwiki)** ⭐ 10,530
+- **[langchain-ai/openwiki](https://github.com/langchain-ai/openwiki)** ⭐ 10,574
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   OpenWiki is a CLI that writes and maintains agent documentation for your codebase.
 
-- **[deepseek-ai/DeepSpec](https://github.com/deepseek-ai/DeepSpec)** ⭐ 6,540
+- **[deepseek-ai/DeepSpec](https://github.com/deepseek-ai/DeepSpec)** ⭐ 6,544
   ![Python](https://img.shields.io/badge/-Python-blue)
   DeepSpec: a full-stack codebase for training and evaluating speculative decoding algorithms
 
-- **[x4gKing/X4G](https://github.com/x4gKing/X4G)** ⭐ 4,414
+- **[x4gKing/X4G](https://github.com/x4gKing/X4G)** ⭐ 4,505
   ![Python](https://img.shields.io/badge/-Python-blue)
   None
 
-- **[elder-plinius/T3MP3ST](https://github.com/elder-plinius/T3MP3ST)** ⭐ 4,409
+- **[elder-plinius/T3MP3ST](https://github.com/elder-plinius/T3MP3ST)** ⭐ 4,438
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   autonomous red teaming platform; multi-agent offensive-security meta-harness
 
@@ -215,7 +220,11 @@
   ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
   None
 
-- **[Yu9191/wloc](https://github.com/Yu9191/wloc)** ⭐ 3,896
+- **[JustVugg/colibri](https://github.com/JustVugg/colibri)** ⭐ 4,084
+  ![C](https://img.shields.io/badge/-C-lightgrey)
+  Run GLM-5.2 (744B MoE) on a 25GB-RAM consumer machine — pure C, zero deps, experts streamed from disk. Tiny engine, immense model. 🐦
+
+- **[Yu9191/wloc](https://github.com/Yu9191/wloc)** ⭐ 3,911
   ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
   修改 Apple 网络定位（gs-loc）返回坐标 · 支持 Surge / Quantumult X / Loon / Stash · 快捷指令一键设置/恢复定位
 
@@ -486,58 +495,58 @@ Welcome to our newest releaser, [Stewart X Addison](https://github.com/sxa). Fut
 | Skill | Status |
 |-------|--------|
 | Java | 🔴 Beginner |
-| Python | ⚪ Planned |
-| JavaScript | ⚪ Planned |
-| TypeScript | 🟡 Learning |
-| Go | 🟡 Learning |
+| Python | 🔴 Beginner |
+| JavaScript | 🔴 Beginner |
+| TypeScript | ⚪ Planned |
+| Go | ⚪ Planned |
 
 ### Frameworks
 
 | Skill | Status |
 |-------|--------|
-| React | 🟢 Proficient |
-| Spring Boot | 🔴 Beginner |
-| Django | 🟢 Proficient |
-| Node.js | 🔴 Beginner |
-| Next.js | ⚪ Planned |
+| React | 🔴 Beginner |
+| Spring Boot | ⚪ Planned |
+| Django | ⚪ Planned |
+| Node.js | ⚪ Planned |
+| Next.js | 🟢 Proficient |
 
 ### Cybersecurity
 
 | Skill | Status |
 |-------|--------|
-| Penetration Testing | 🟡 Learning |
-| Web Security | 🟡 Learning |
-| Network Security | ⚪ Planned |
-| OWASP | 🔴 Beginner |
+| Penetration Testing | 🔴 Beginner |
+| Web Security | 🟢 Proficient |
+| Network Security | 🟡 Learning |
+| OWASP | 🟢 Proficient |
 
 ### Ai Ml
 
 | Skill | Status |
 |-------|--------|
-| Machine Learning | ⚪ Planned |
-| Deep Learning | 🟢 Proficient |
-| NLP | 🟢 Proficient |
-| Computer Vision | 🔴 Beginner |
-| TensorFlow | 🔴 Beginner |
-| PyTorch | ⚪ Planned |
+| Machine Learning | 🟢 Proficient |
+| Deep Learning | ⚪ Planned |
+| NLP | 🔴 Beginner |
+| Computer Vision | 🟡 Learning |
+| TensorFlow | ⚪ Planned |
+| PyTorch | 🟡 Learning |
 
 ### Devops
 
 | Skill | Status |
 |-------|--------|
-| Docker | ⚪ Planned |
-| Kubernetes | 🟢 Proficient |
-| CI/CD | 🔴 Beginner |
-| AWS | 🔴 Beginner |
-| Azure | ⚪ Planned |
+| Docker | 🟡 Learning |
+| Kubernetes | 🔴 Beginner |
+| CI/CD | 🟢 Proficient |
+| AWS | ⚪ Planned |
+| Azure | 🟢 Proficient |
 
 ### Other
 
 | Skill | Status |
 |-------|--------|
-| Blockchain | 🟡 Learning |
-| Web3 | 🟡 Learning |
-| Cloud Computing | 🟡 Learning |
+| Blockchain | ⚪ Planned |
+| Web3 | 🔴 Beginner |
+| Cloud Computing | ⚪ Planned |
 
 </details>
 
@@ -555,7 +564,7 @@ This dashboard is automatically updated every 6 hours using GitHub Actions. The 
 
 <div align="center">
 
-**Last Updated:** July 11, 2026
+**Last Updated:** July 12, 2026
 
 Made with ❤️ and automated with GitHub Actions
 
