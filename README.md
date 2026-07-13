@@ -46,34 +46,34 @@
 
 ### 📑 Hacker News
 
+- **[Quadrupling code performance with a "useless" if](https://purplesyringa.moe/blog/quadrupling-code-performance-with-a-useless-if/)**
+  *<p>Article URL: <a href="https://purplesyringa.moe/blog/quadrupling-code-performance-with-a-useless-if/">https://purplesyringa.moe/blog/quadrupling-code-performance-with-a-useless-if/</a></p>
+<p>Comme...*
+  📅 Mon, 13 Jul 2026 07:37:06 +0000
+
+- **[Backtrack-Free Cursive](https://mmapped.blog/posts/52-backtrack-free-cursive)**
+  *<p>Article URL: <a href="https://mmapped.blog/posts/52-backtrack-free-cursive">https://mmapped.blog/posts/52-backtrack-free-cursive</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?...*
+  📅 Mon, 13 Jul 2026 06:08:12 +0000
+
+- **[Sam Neill has died](https://www.theguardian.com/film/2026/jul/13/sam-neill-death-actor-dies-aged-78)**
+  *<p>Article URL: <a href="https://www.theguardian.com/film/2026/jul/13/sam-neill-death-actor-dies-aged-78">https://www.theguardian.com/film/2026/jul/13/sam-neill-death-actor-dies-aged-78</a></p>
+<p>Com...*
+  📅 Mon, 13 Jul 2026 06:02:11 +0000
+
+- **[Beavis Ultrasound PnP ISA Sound Card Replica](https://github.com/schlae/BeavisUltrasound)**
+  *<p>Article URL: <a href="https://github.com/schlae/BeavisUltrasound">https://github.com/schlae/BeavisUltrasound</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=48888193">https:/...*
+  📅 Mon, 13 Jul 2026 05:15:14 +0000
+
+- **[Count Binface](https://countbinface.com)**
+  *<p>Article URL: <a href="https://countbinface.com">https://countbinface.com</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=48887753">https://news.ycombinator.com/item?id=488877...*
+  📅 Mon, 13 Jul 2026 04:00:54 +0000
+
 - **[Ask HN: Add flag for AI-generated articles](https://news.ycombinator.com/item?id=48886741)**
   *<p>Should HN add the ability to flag articles as AI-generated? This doesn't have to act as a regular flag, i.e., it won't de-rank the article; it could just show up as an indicator, allowing others (l...*
   📅 Mon, 13 Jul 2026 01:24:20 +0000
-
-- **[MacKenzie Scott's giving, in quality-adjusted life years](https://maxghenis.com/mackenzie-scott-qaly/)**
-  *<p>Article URL: <a href="https://maxghenis.com/mackenzie-scott-qaly/">https://maxghenis.com/mackenzie-scott-qaly/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=48886311">https...*
-  📅 Mon, 13 Jul 2026 00:18:16 +0000
-
-- **[Circular Obstacle Pathfinding (2017)](https://redblobgames.github.io/circular-obstacle-pathfinding/)**
-  *<p>Article URL: <a href="https://redblobgames.github.io/circular-obstacle-pathfinding/">https://redblobgames.github.io/circular-obstacle-pathfinding/</a></p>
-<p>Comments URL: <a href="https://news.yco...*
-  📅 Sun, 12 Jul 2026 23:42:41 +0000
-
-- **[Designing and assembling my first PCB](https://vilkeliskis.com/b/2026/0711.html)**
-  *<p>Article URL: <a href="https://vilkeliskis.com/b/2026/0711.html">https://vilkeliskis.com/b/2026/0711.html</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=48885728">https://new...*
-  📅 Sun, 12 Jul 2026 22:56:56 +0000
-
-- **[Architecture Description Languages [pdf]](https://ics.uci.edu/~taylor/documents/2000-ADLs-TSE.pdf)**
-  *<p>Article URL: <a href="https://ics.uci.edu/~taylor/documents/2000-ADLs-TSE.pdf">https://ics.uci.edu/~taylor/documents/2000-ADLs-TSE.pdf</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com...*
-  📅 Sun, 12 Jul 2026 22:54:07 +0000
-
-- **[Why Vanilla JavaScript](https://guseyn.com/html/posts/why-vanilla-js.html)**
-  *<p>Article URL: <a href="https://guseyn.com/html/posts/why-vanilla-js.html">https://guseyn.com/html/posts/why-vanilla-js.html</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=488...*
-  📅 Sun, 12 Jul 2026 22:53:51 +0000
 
 ### 📑 TechCrunch
 
@@ -103,23 +103,13 @@
 
 ### 📑 Dev.to
 
-- **[Position Evaluator — A Chess Diagnostic for Your Daily Decisions](https://dev.to/semtione/position-evaluator-a-chess-diagnostic-for-your-daily-decisions-3omj)**
-  *<p><em>This is a submission for <a href="https://dev.to/challenges/weekend-2026-07-09">Weekend Challenge: Passion Edition</a></em></p>
+- **[Is My Store WebMCP and UCP Ready? What Agent Checkout Actually Needs](https://dev.to/benjifisher/is-my-store-webmcp-and-ucp-ready-what-agent-checkout-actually-needs-48pk)**
+  *<p>The short answer: WebMCP is the part of agent commerce your customers' browser will handle — and <a href="https://ucpchecker.com/blog/mcp-vs-ucp-vs-ap2-whats-the-difference" rel="noopener noreferre...*
+  📅 Mon, 13 Jul 2026 08:41:34 +0000
 
-<h2>
-  
-  
-  What I Built
-</h2>
-
-<p>I've been obsessed with ches...*
-  📅 Mon, 13 Jul 2026 01:44:28 +0000
-
-- **[I Built a Memory Layer for LLM Agents That Knows Which Facts Go Stale](https://dev.to/rouche01/i-built-a-memory-layer-for-llm-agents-that-knows-which-facts-go-stale-1mg5)**
-  *<p>VoltMem didn't start because I kept hitting bugs in production agents.</p>
-
-<p>It started with a conversation about how memory actually works — why some beliefs stick for decades while others evapo...*
-  📅 Mon, 13 Jul 2026 01:42:18 +0000
+- **[Setting Up a Production CI/CD Pipeline for a Python/Django App](https://dev.to/saint_vandora/setting-up-a-production-cicd-pipeline-for-a-pythondjango-app-593d)**
+  *<p>A practical walkthrough of building a complete GitHub Actions pipeline for a Django project, from a multi-stage Dockerfile through vulnerability scanning to zero-downtime deploys via SSH. This is t...*
+  📅 Mon, 13 Jul 2026 08:38:07 +0000
 
 </details>
 
@@ -127,103 +117,103 @@
 
 ### 📈 Daily Trending
 
-- **[Arman-Luthra/aftr](https://github.com/Arman-Luthra/aftr)** ⭐ 3
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
-  Puppeteer for After Effects. Use AE with Claude Code to make production-ready videos.
-
-- **[qvq325/Intelligent-Traffic](https://github.com/qvq325/Intelligent-Traffic)** ⭐ 2
+- **[schlae/BeavisUltrasound](https://github.com/schlae/BeavisUltrasound)** ⭐ 23
   ![Python](https://img.shields.io/badge/-Python-blue)
+  Open source clone of the Gravis Ultrasound PnP
+
+- **[umr-x/umr-x](https://github.com/umr-x/umr-x)** ⭐ 16
+  ![None](https://img.shields.io/badge/-None-lightgrey)
+  Portfolio
+
+- **[solenovex/rust-ai-agent](https://github.com/solenovex/rust-ai-agent)** ⭐ 13
+  ![Rust](https://img.shields.io/badge/-Rust-brown)
   None
 
-- **[johnalpha911/Victor-games](https://github.com/johnalpha911/Victor-games)** ⭐ 2
+- **[taeyunwoo/DexHOI2Sim](https://github.com/taeyunwoo/DexHOI2Sim)** ⭐ 8
   ![Python](https://img.shields.io/badge/-Python-blue)
-   Repo full of anki vector sdk games and useful information 
+   Replicate MANO hand-object interactions in MuJoCo & IsaacGym and evaluate grasp success — a benchmark for HOI generation.
 
-- **[ClearRain0015/Network_sniffer](https://github.com/ClearRain0015/Network_sniffer)** ⭐ 2
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  None
-
-- **[ibislon/GjWBJgAHUt](https://github.com/ibislon/GjWBJgAHUt)** ⭐ 1
+- **[Pythoughts-labs/claude-master](https://github.com/Pythoughts-labs/claude-master)** ⭐ 8
   ![None](https://img.shields.io/badge/-None-lightgrey)
-  【Java计算机毕业设计分享】基于SSM的文斋网上书城管理系统，MySQL Java开发 毕业设计 实战项目【附源码、文档报告、代码讲解】
+  Architect-first delegation for Claude Code and OpenCode. A Fable/Opus session routes implementation to Codex, the OpenCode provider pool, local Pi ($0), or autonomous Pythinker, then reviews every diff.
 
-- **[ThiagoMartinsSoftware/production-quality-tracker](https://github.com/ThiagoMartinsSoftware/production-quality-tracker)** ⭐ 1
+- **[LeifDiao/grok-privacy-guard](https://github.com/LeifDiao/grok-privacy-guard)** ⭐ 6
+  ![Shell](https://img.shields.io/badge/-Shell-lightgrey)
+  给 Grok CLI 加一层代码库隐私防护：防止代码库在你不知情时被上传，并在每次启动时检测提醒 · A codebase-privacy guard for Grok CLI — prevent silent upload, detect on every launch
+
+- **[TeamRetroHQ/teamretro-skills](https://github.com/TeamRetroHQ/teamretro-skills)** ⭐ 5
   ![None](https://img.shields.io/badge/-None-lightgrey)
-  Sistema web para registrar, acompanhar e gerenciar não conformidades entre a pré-montagem e as linhas de produção, melhorando a comunicação, a rastreabilidade e o tempo de resposta.
+  AI session retrospectives — skills and prompts that let your AI agents bring their feedback to your retro
 
-- **[wuyong5656/guanjuzhe-mvp](https://github.com/wuyong5656/guanjuzhe-mvp)** ⭐ 1
-  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
-  观局者 AI 管理思维教练前后端 Demo
-
-- **[javedmuzmil/bull-market](https://github.com/javedmuzmil/bull-market)** ⭐ 1
-  ![None](https://img.shields.io/badge/-None-lightgrey)
-  BAST POD SITE
+- **[UIseries/ai-robot](https://github.com/UIseries/ai-robot)** ⭐ 5
+  ![C](https://img.shields.io/badge/-C-lightgrey)
+  RK3506 Voice Robot An embedded AI voice assistant running on the Rockchip RK3506 development board. Pure C, single-threaded event loop, zero dynamic memory allocation.
 
 ### 📈 Weekly Trending
 
-- **[withmarbleapp/os-taxonomy](https://github.com/withmarbleapp/os-taxonomy)** ⭐ 2,714
+- **[withmarbleapp/os-taxonomy](https://github.com/withmarbleapp/os-taxonomy)** ⭐ 2,809
   ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
   None
 
-- **[Robbyant/lingbot-world-v2](https://github.com/Robbyant/lingbot-world-v2)** ⭐ 932
+- **[Robbyant/lingbot-world-v2](https://github.com/Robbyant/lingbot-world-v2)** ⭐ 971
   ![Python](https://img.shields.io/badge/-Python-blue)
   Infinite Worlds with Versatile Interactions
 
-- **[x4gKing/3x-ui-Upgrade](https://github.com/x4gKing/3x-ui-Upgrade)** ⭐ 890
+- **[x4gKing/3x-ui-Upgrade](https://github.com/x4gKing/3x-ui-Upgrade)** ⭐ 899
   ![HTML](https://img.shields.io/badge/-HTML-lightgrey)
   None
 
-- **[Robbyant/lingbot-video](https://github.com/Robbyant/lingbot-video)** ⭐ 712
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  Scaling Mixture-of-Experts Video Pretraining for Embodied Intelligence
-
-- **[mereyabdenbekuly-ctrl/clodex-ide](https://github.com/mereyabdenbekuly-ctrl/clodex-ide)** ⭐ 640
-  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
-  Local-first, zero-trust agentic IDE for verifiable autonomous software development.
-
-- **[vinhhien112/Three.js-Object-Sculptor-Codex-Plugin](https://github.com/vinhhien112/Three.js-Object-Sculptor-Codex-Plugin)** ⭐ 619
+- **[vinhhien112/Three.js-Object-Sculptor-Codex-Plugin](https://github.com/vinhhien112/Three.js-Object-Sculptor-Codex-Plugin)** ⭐ 745
   ![Python](https://img.shields.io/badge/-Python-blue)
   Codex plugin that turns attached object images into code-only, animation-ready procedural Three.js models.
 
-- **[op7418/guizang-material-illustration](https://github.com/op7418/guizang-material-illustration)** ⭐ 589
+- **[Robbyant/lingbot-video](https://github.com/Robbyant/lingbot-video)** ⭐ 730
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  Scaling Mixture-of-Experts Video Pretraining for Embodied Intelligence
+
+- **[mereyabdenbekuly-ctrl/clodex-ide](https://github.com/mereyabdenbekuly-ctrl/clodex-ide)** ⭐ 691
+  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
+  Local-first, zero-trust agentic IDE for verifiable autonomous software development.
+
+- **[op7418/guizang-material-illustration](https://github.com/op7418/guizang-material-illustration)** ⭐ 614
   ![None](https://img.shields.io/badge/-None-lightgrey)
   归藏的材质插画 skill：生成带字解释图、图表美化和参考辅助配图。
 
-- **[xiaotianfotos/homerail](https://github.com/xiaotianfotos/homerail)** ⭐ 487
-  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
-  Voice-first local agent orchestration runtime for auditable DAG workflows.
+- **[Robbyant/lingbot-vla-v2](https://github.com/Robbyant/lingbot-vla-v2)** ⭐ 497
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  From Foundation to Application
 
 ### 📈 Monthly Trending
 
-- **[baidu/Unlimited-OCR](https://github.com/baidu/Unlimited-OCR)** ⭐ 14,109
+- **[baidu/Unlimited-OCR](https://github.com/baidu/Unlimited-OCR)** ⭐ 14,132
   ![Python](https://img.shields.io/badge/-Python-blue)
   Unlimited OCR Works: Welcome the Era of One-shot Long-horizon Parsing.
 
-- **[langchain-ai/openwiki](https://github.com/langchain-ai/openwiki)** ⭐ 10,764
+- **[langchain-ai/openwiki](https://github.com/langchain-ai/openwiki)** ⭐ 10,824
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   OpenWiki is a CLI that writes and maintains agent documentation for your codebase.
 
-- **[JustVugg/colibri](https://github.com/JustVugg/colibri)** ⭐ 6,597
+- **[JustVugg/colibri](https://github.com/JustVugg/colibri)** ⭐ 7,616
   ![C](https://img.shields.io/badge/-C-lightgrey)
   Run GLM-5.2 (744B MoE) on a 25GB-RAM consumer machine — pure C, zero deps, experts streamed from disk. Tiny engine, immense model. 🐦
 
-- **[deepseek-ai/DeepSpec](https://github.com/deepseek-ai/DeepSpec)** ⭐ 6,585
+- **[deepseek-ai/DeepSpec](https://github.com/deepseek-ai/DeepSpec)** ⭐ 6,602
   ![Python](https://img.shields.io/badge/-Python-blue)
   DeepSpec: a full-stack codebase for training and evaluating speculative decoding algorithms
 
-- **[x4gKing/X4G](https://github.com/x4gKing/X4G)** ⭐ 4,852
+- **[x4gKing/X4G](https://github.com/x4gKing/X4G)** ⭐ 4,894
   ![Python](https://img.shields.io/badge/-Python-blue)
   None
 
-- **[elder-plinius/T3MP3ST](https://github.com/elder-plinius/T3MP3ST)** ⭐ 4,534
+- **[elder-plinius/T3MP3ST](https://github.com/elder-plinius/T3MP3ST)** ⭐ 4,567
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   autonomous red teaming platform; multi-agent offensive-security meta-harness
 
-- **[zhongerxin/Cowart](https://github.com/zhongerxin/Cowart)** ⭐ 4,430
+- **[zhongerxin/Cowart](https://github.com/zhongerxin/Cowart)** ⭐ 4,477
   ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
   None
 
-- **[Yu9191/wloc](https://github.com/Yu9191/wloc)** ⭐ 4,170
+- **[Yu9191/wloc](https://github.com/Yu9191/wloc)** ⭐ 4,328
   ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
   修改 Apple 网络定位（gs-loc）返回坐标 · 支持 Surge / Quantumult X / Loon / Stash · 快捷指令一键设置/恢复定位
 
@@ -493,59 +483,59 @@ Welcome to our newest releaser, [Stewart X Addison](https://github.com/sxa). Fut
 
 | Skill | Status |
 |-------|--------|
-| Java | 🟡 Learning |
-| Python | 🔴 Beginner |
-| JavaScript | 🟡 Learning |
-| TypeScript | ⚪ Planned |
-| Go | 🟡 Learning |
+| Java | ⚪ Planned |
+| Python | 🟢 Proficient |
+| JavaScript | ⚪ Planned |
+| TypeScript | 🔴 Beginner |
+| Go | 🟢 Proficient |
 
 ### Frameworks
 
 | Skill | Status |
 |-------|--------|
 | React | 🟢 Proficient |
-| Spring Boot | 🟡 Learning |
+| Spring Boot | 🟢 Proficient |
 | Django | 🟡 Learning |
 | Node.js | 🟢 Proficient |
-| Next.js | 🟡 Learning |
+| Next.js | ⚪ Planned |
 
 ### Cybersecurity
 
 | Skill | Status |
 |-------|--------|
-| Penetration Testing | 🟡 Learning |
-| Web Security | ⚪ Planned |
-| Network Security | 🟢 Proficient |
-| OWASP | 🟢 Proficient |
+| Penetration Testing | ⚪ Planned |
+| Web Security | 🟢 Proficient |
+| Network Security | 🔴 Beginner |
+| OWASP | ⚪ Planned |
 
 ### Ai Ml
 
 | Skill | Status |
 |-------|--------|
-| Machine Learning | 🔴 Beginner |
+| Machine Learning | 🟢 Proficient |
 | Deep Learning | 🟢 Proficient |
-| NLP | ⚪ Planned |
+| NLP | 🟡 Learning |
 | Computer Vision | 🟢 Proficient |
-| TensorFlow | 🟡 Learning |
-| PyTorch | ⚪ Planned |
+| TensorFlow | 🟢 Proficient |
+| PyTorch | 🟢 Proficient |
 
 ### Devops
 
 | Skill | Status |
 |-------|--------|
 | Docker | 🔴 Beginner |
-| Kubernetes | ⚪ Planned |
-| CI/CD | ⚪ Planned |
-| AWS | ⚪ Planned |
+| Kubernetes | 🔴 Beginner |
+| CI/CD | 🟡 Learning |
+| AWS | 🔴 Beginner |
 | Azure | 🟡 Learning |
 
 ### Other
 
 | Skill | Status |
 |-------|--------|
-| Blockchain | 🟡 Learning |
-| Web3 | 🟢 Proficient |
-| Cloud Computing | 🔴 Beginner |
+| Blockchain | 🔴 Beginner |
+| Web3 | 🟡 Learning |
+| Cloud Computing | ⚪ Planned |
 
 </details>
 
