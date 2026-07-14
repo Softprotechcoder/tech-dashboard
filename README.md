@@ -46,37 +46,39 @@
 
 ### 📑 Hacker News
 
-- **[MorphoHDL: A minimalistic language for growing circuits](https://paradigms-of-intelligence.github.io/morpho/)**
-  *<p>Article URL: <a href="https://paradigms-of-intelligence.github.io/morpho/">https://paradigms-of-intelligence.github.io/morpho/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id...*
-  📅 Tue, 14 Jul 2026 01:17:30 +0000
+- **[OpenAI's Ad Business Is on Pace to Miss Its Own Forecast by 90%, Analyst Says](https://www.adweek.com/media/openais-ad-business-is-on-pace-to-miss-its-own-forecast-by-90-analyst-says/)**
+  *<p>Article URL: <a href="https://www.adweek.com/media/openais-ad-business-is-on-pace-to-miss-its-own-forecast-by-90-analyst-says/">https://www.adweek.com/media/openais-ad-business-is-on-pace-to-miss-i...*
+  📅 Tue, 14 Jul 2026 05:21:02 +0000
 
-- **[ESBMC-Arduino: Closing the Deployment Gap for Formal Verification](https://arxiv.org/abs/2607.08550)**
-  *<p>Article URL: <a href="https://arxiv.org/abs/2607.08550">https://arxiv.org/abs/2607.08550</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=48901020">https://news.ycombinator.co...*
-  📅 Tue, 14 Jul 2026 00:58:55 +0000
+- **[YouTrackDB is a general-use object-oriented graph database](https://github.com/JetBrains/youtrackdb)**
+  *<p>Article URL: <a href="https://github.com/JetBrains/youtrackdb">https://github.com/JetBrains/youtrackdb</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=48902026">https://news....*
+  📅 Tue, 14 Jul 2026 03:39:55 +0000
 
-- **[The Git history command deserves more attention](https://lalitm.com/post/git-history/)**
-  *<p>Article URL: <a href="https://lalitm.com/post/git-history/">https://lalitm.com/post/git-history/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=48901010">https://news.ycombi...*
-  📅 Tue, 14 Jul 2026 00:57:11 +0000
+- **[Our Amish Language](https://www.thedial.world/articles/news/amish-pennsylvania-dutch)**
+  *<p>Article URL: <a href="https://www.thedial.world/articles/news/amish-pennsylvania-dutch">https://www.thedial.world/articles/news/amish-pennsylvania-dutch</a></p>
+<p>Comments URL: <a href="https://ne...*
+  📅 Tue, 14 Jul 2026 02:40:41 +0000
 
-- **[What did SFFA vs. Harvard reveal about admissions?](https://sorting-machine.pages.dev/)**
-  *<p>Article URL: <a href="https://sorting-machine.pages.dev/">https://sorting-machine.pages.dev/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=48900796">https://news.ycombinato...*
-  📅 Tue, 14 Jul 2026 00:26:43 +0000
+- **[Japan develops a method to recover up to 90% of lithium from used EV batteries](https://tech.supercarblondie.com/japan-recovers-up-to-90-of-lithium-from-used-ev-batteries/)**
+  *<p>Article URL: <a href="https://tech.supercarblondie.com/japan-recovers-up-to-90-of-lithium-from-used-ev-batteries/">https://tech.supercarblondie.com/japan-recovers-up-to-90-of-lithium-from-used-ev-b...*
+  📅 Tue, 14 Jul 2026 02:27:20 +0000
 
-- **[Success may not matter if you aren't doing what you love](https://12gramsofcarbon.com/p/founders-guide-success-may-not-matter)**
-  *<p>Article URL: <a href="https://12gramsofcarbon.com/p/founders-guide-success-may-not-matter">https://12gramsofcarbon.com/p/founders-guide-success-may-not-matter</a></p>
-<p>Comments URL: <a href="http...*
-  📅 Tue, 14 Jul 2026 00:26:00 +0000
+- **[Fundamentals of Wireless Communication (2005)](https://web.stanford.edu/~dntse/wireless_book.html)**
+  *<p>Article URL: <a href="https://web.stanford.edu/~dntse/wireless_book.html">https://web.stanford.edu/~dntse/wireless_book.html</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=4...*
+  📅 Tue, 14 Jul 2026 02:10:19 +0000
 
-- **[Turn your singing voice into printable notes (in the browser)](https://om-intelligence.ch/projects/vocal-notation/vocal-notation.html)**
-  *<p>Article URL: <a href="https://om-intelligence.ch/projects/vocal-notation/vocal-notation.html">https://om-intelligence.ch/projects/vocal-notation/vocal-notation.html</a></p>
-<p>Comments URL: <a href...*
-  📅 Tue, 14 Jul 2026 00:10:36 +0000
+- **[Satellite Tracker – Live Map of Starlink and 30k Satellites](https://satellitemap.space/)**
+  *<p>Article URL: <a href="https://satellitemap.space/">https://satellitemap.space/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=48901356">https://news.ycombinator.com/item?id=...*
+  📅 Tue, 14 Jul 2026 01:55:24 +0000
 
 ### 📑 TechCrunch
+
+- **[Already rich, already successful, why the last wave of tech winners is grinding again](https://techcrunch.com/2026/07/13/already-rich-already-successful-why-the-last-wave-of-tech-winners-is-grinding-again/)**
+  *They're rolling up their sleeves again, seemingly out of fear of missing AI's defining moment and, presumably, the irresistible allure of making even more money -- potentially a lot more....*
+  📅 Tue, 14 Jul 2026 02:46:42 +0000
 
 - **[Uber’s product chief on hotels, robotaxis, and why the company doesn’t want to be “everything for everyone”](https://techcrunch.com/2026/07/13/ubers-product-chief-on-hotels-robotaxis-and-why-the-company-doesnt-want-to-be-everything-for-everyone/)**
   *Uber Chief Product Officer Sachin Kansal walks TechCrunch through the company's financial-services ambitions, its increasingly complicated relationship with Waymo, its new AV Labs data operation, and ...*
@@ -98,23 +100,17 @@
   *Of all the debates raging about the potential downsides of AI, there is one worry causing the most hand-wringing among AI enthusiasts in Silicon Valley — that the giant AI labs that sell proprietary m...*
   📅 Mon, 13 Jul 2026 20:59:00 +0000
 
-- **[Apple says former employee exploited ‘rare’ bug to download confidential files after leaving for OpenAI](https://techcrunch.com/2026/07/13/apple-says-former-employee-exploited-rare-bug-to-download-confidential-files-after-leaving-for-openai/)**
-  *Apple would not comment on the "security breach," which allegedly allowed a former employee to download sensitive files from Apple's network long after he departed the company for rival OpenAI....*
-  📅 Mon, 13 Jul 2026 20:00:17 +0000
-
 ### 📑 Dev.to
 
-- **[I Spent the Past Few Weeks Building a Cinema App with React & Firebase 🎬](https://dev.to/japam28/i-spent-the-past-few-weeks-building-a-cinema-app-with-react-firebase-5f0l)**
-  *<p>Like many developers, I started this project with a simple idea:</p>
+- **[Australian Exchange Rates: A Free Currency Converter API for Developers](https://dev.to/mathiasahlgren/australian-exchange-rates-a-free-currency-converter-api-for-developers-58i6)**
+  *<p><strong>If you build software for Australian businesses, exchange rates are rarely “just another data point.”</strong></p>
 
-<p>"What if there was a place that made discovering films feel intentional again?"</p>
+<p>They affect invoice calculations, cross-border e-commerce, tax reporti...*
+  📅 Tue, 14 Jul 2026 07:44:38 +0000
 
-<p>That idea eventually became Cineaste...*
-  📅 Tue, 14 Jul 2026 01:28:53 +0000
-
-- **[How Zero-Knowledge Encryption Actually Works (with the Web Crypto API)](https://dev.to/sudeepbhandari/how-zero-knowledge-encryption-actually-works-with-the-web-crypto-api-1f53)**
-  *<p><strong>"Zero-knowledge"</strong> gets thrown around a lot in privacy marketing, but it has a precise, testable meaning: the server operator has no ability to read your data — not as a policy promi...*
-  📅 Tue, 14 Jul 2026 01:21:53 +0000
+- **[The 33k-token preamble is a bet. Here's how to check if it's paying off.](https://dev.to/wrencalloway/the-33k-token-preamble-is-a-bet-heres-how-to-check-if-its-paying-off-3d5h)**
+  *<p>Somebody put a logging proxy between two coding agents and the model, asked each of them to reply with the single word "OK," and watched what went over the wire. Claude Code shipped roughly 33,000 ...*
+  📅 Tue, 14 Jul 2026 07:37:23 +0000
 
 </details>
 
@@ -122,103 +118,103 @@
 
 ### 📈 Daily Trending
 
+- **[TobiasLee/Rebuttal-Skill](https://github.com/TobiasLee/Rebuttal-Skill)** ⭐ 32
+  ![None](https://img.shields.io/badge/-None-lightgrey)
+  None
+
 - **[0xNikoDev/robinhood-ai-dev-sniper](https://github.com/0xNikoDev/robinhood-ai-dev-sniper)** ⭐ 20
   ![Go](https://img.shields.io/badge/-Go-cyan)
   🏹 RobinHood — AI Dev Sniper: high-performance Go trading bot for Ethereum & EVM chains. Uniswap V2/V3 sniper with Flashbots bundle protection, multi-wallet coordinated buys, real-time mempool monitoring, AI deving autopilot, Twitter/X signal parsing, top-dev tracking, volume bot and ERC-20 token creator. Base, BNB Chain, Arbitrum.
 
-- **[r3b1s/pi-repair-layer](https://github.com/r3b1s/pi-repair-layer)** ⭐ 4
+- **[andry-lebedev/neobank-primitives](https://github.com/andry-lebedev/neobank-primitives)** ⭐ 19
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   None
 
-- **[navamog/ZoE-GBA](https://github.com/navamog/ZoE-GBA)** ⭐ 2
-  ![None](https://img.shields.io/badge/-None-lightgrey)
-  존 오브 엔더스 GBA 게임 한글패치
+- **[macong0420/topic-material-collector](https://github.com/macong0420/topic-material-collector)** ⭐ 18
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  Open-source Codex skill for researching, timestamping, downloading, clipping, and cataloging video-first materials.
 
-- **[hammadirshad123/DFIR](https://github.com/hammadirshad123/DFIR)** ⭐ 1
-  ![None](https://img.shields.io/badge/-None-lightgrey)
-  None
+- **[wowitsjack/ENCORE](https://github.com/wowitsjack/ENCORE)** ⭐ 14
+  ![Shell](https://img.shields.io/badge/-Shell-lightgrey)
+  Experimental loader for Ableton Live 12+ on Linux using WINE
 
-- **[luancabral1/Openbank](https://github.com/luancabral1/Openbank)** ⭐ 1
+- **[1296018244/grok-manager](https://github.com/1296018244/grok-manager)** ⭐ 11
+  ![Go](https://img.shields.io/badge/-Go-cyan)
+  CLIProxyAPI plugin: xAI/Grok live-check, cleanup, autoban (public build, no SSO convert)
+
+- **[AnkurGaur2007/Smart-Timetable-Generator](https://github.com/AnkurGaur2007/Smart-Timetable-Generator)** ⭐ 9
   ![Java](https://img.shields.io/badge/-Java-orange)
-  Full-stack banking management system (customers, accounts, transfers, reports) built with Java 21, Spring Boot and MySQL.
+  A Java-based Smart Timetable Generator that uses backtracking to create conflict-free university schedules with support for room allocation, faculty availability, and timetable visualization.
 
-- **[alphaparkinc/genpark-openrouter-latency-balancer-skill](https://github.com/alphaparkinc/genpark-openrouter-latency-balancer-skill)** ⭐ 1
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  Balance routing based on model response time latency
-
-- **[lixontop12345-coder/DarkX-Roblox-External](https://github.com/lixontop12345-coder/DarkX-Roblox-External)** ⭐ 1
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  its a roblox da hood external, whit aimlock, silent aim, esp, speed, etc
-
-- **[ruanvictorsj/python](https://github.com/ruanvictorsj/python)** ⭐ 1
-  ![None](https://img.shields.io/badge/-None-lightgrey)
-  Python exercises, automation scripts and projects developed during my learning journey.
+- **[liyunjie-phd/PaperBridge](https://github.com/liyunjie-phd/PaperBridge)** ⭐ 7
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
+  PaperBridge 是一个运行在 Windows 本地的中英文 LaTeX 论文修改工具
 
 ### 📈 Weekly Trending
 
-- **[withmarbleapp/os-taxonomy](https://github.com/withmarbleapp/os-taxonomy)** ⭐ 2,921
+- **[withmarbleapp/os-taxonomy](https://github.com/withmarbleapp/os-taxonomy)** ⭐ 2,968
   ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
   None
 
-- **[Robbyant/lingbot-world-v2](https://github.com/Robbyant/lingbot-world-v2)** ⭐ 1,033
+- **[Robbyant/lingbot-world-v2](https://github.com/Robbyant/lingbot-world-v2)** ⭐ 1,069
   ![Python](https://img.shields.io/badge/-Python-blue)
   Infinite Worlds with Versatile Interactions
 
-- **[x4gKing/3x-ui-Upgrade](https://github.com/x4gKing/3x-ui-Upgrade)** ⭐ 959
+- **[x4gKing/3x-ui-Upgrade](https://github.com/x4gKing/3x-ui-Upgrade)** ⭐ 975
   ![HTML](https://img.shields.io/badge/-HTML-lightgrey)
   None
 
-- **[vinhhien112/Three.js-Object-Sculptor-Codex-Plugin](https://github.com/vinhhien112/Three.js-Object-Sculptor-Codex-Plugin)** ⭐ 859
+- **[vinhhien112/Three.js-Object-Sculptor-Codex-Plugin](https://github.com/vinhhien112/Three.js-Object-Sculptor-Codex-Plugin)** ⭐ 918
   ![Python](https://img.shields.io/badge/-Python-blue)
   Codex plugin that turns attached object images into code-only, animation-ready procedural Three.js models.
 
-- **[Robbyant/lingbot-video](https://github.com/Robbyant/lingbot-video)** ⭐ 758
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  Scaling Mixture-of-Experts Video Pretraining for Embodied Intelligence
-
-- **[mereyabdenbekuly-ctrl/clodex-ide](https://github.com/mereyabdenbekuly-ctrl/clodex-ide)** ⭐ 696
-  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
-  Local-first, zero-trust agentic IDE for verifiable autonomous software development.
-
-- **[littledivy/mimic](https://github.com/littledivy/mimic)** ⭐ 692
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  Intercept any app, then call it from Python like a library
-
-- **[MDX-Tom/gpt-5.6-instruct](https://github.com/MDX-Tom/gpt-5.6-instruct)** ⭐ 680
+- **[MDX-Tom/gpt-5.6-instruct](https://github.com/MDX-Tom/gpt-5.6-instruct)** ⭐ 818
   ![Python](https://img.shields.io/badge/-Python-blue)
   A Codex CLI jailbreak prompt and test pack for gpt-5.6-sol. 针对 gpt-5.6 系列的 Codex CLI 破甲提示词与测试包。
 
+- **[littledivy/mimic](https://github.com/littledivy/mimic)** ⭐ 794
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  Intercept any app, then call it from Python like a library
+
+- **[Robbyant/lingbot-video](https://github.com/Robbyant/lingbot-video)** ⭐ 775
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  Scaling Mixture-of-Experts Video Pretraining for Embodied Intelligence
+
+- **[mereyabdenbekuly-ctrl/clodex-ide](https://github.com/mereyabdenbekuly-ctrl/clodex-ide)** ⭐ 699
+  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
+  Local-first, zero-trust agentic IDE for verifiable autonomous software development.
+
 ### 📈 Monthly Trending
 
-- **[baidu/Unlimited-OCR](https://github.com/baidu/Unlimited-OCR)** ⭐ 14,186
+- **[baidu/Unlimited-OCR](https://github.com/baidu/Unlimited-OCR)** ⭐ 14,211
   ![Python](https://img.shields.io/badge/-Python-blue)
   Unlimited OCR Works: Welcome the Era of One-shot Long-horizon Parsing.
 
-- **[langchain-ai/openwiki](https://github.com/langchain-ai/openwiki)** ⭐ 10,933
+- **[langchain-ai/openwiki](https://github.com/langchain-ai/openwiki)** ⭐ 10,988
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   OpenWiki is a CLI that writes and maintains agent documentation for your codebase.
 
-- **[JustVugg/colibri](https://github.com/JustVugg/colibri)** ⭐ 9,884
+- **[JustVugg/colibri](https://github.com/JustVugg/colibri)** ⭐ 10,605
   ![C](https://img.shields.io/badge/-C-lightgrey)
   Run GLM-5.2 (744B MoE) on a 25GB-RAM consumer machine — pure C, zero deps, experts streamed from disk. Tiny engine, immense model. 🐦
 
-- **[deepseek-ai/DeepSpec](https://github.com/deepseek-ai/DeepSpec)** ⭐ 6,618
+- **[deepseek-ai/DeepSpec](https://github.com/deepseek-ai/DeepSpec)** ⭐ 6,625
   ![Python](https://img.shields.io/badge/-Python-blue)
   DeepSpec: a full-stack codebase for training and evaluating speculative decoding algorithms
 
-- **[x4gKing/X4G](https://github.com/x4gKing/X4G)** ⭐ 5,045
+- **[x4gKing/X4G](https://github.com/x4gKing/X4G)** ⭐ 5,080
   ![Python](https://img.shields.io/badge/-Python-blue)
   None
 
-- **[elder-plinius/T3MP3ST](https://github.com/elder-plinius/T3MP3ST)** ⭐ 4,638
+- **[elder-plinius/T3MP3ST](https://github.com/elder-plinius/T3MP3ST)** ⭐ 4,657
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   autonomous red teaming platform; multi-agent offensive-security meta-harness
 
-- **[zhongerxin/Cowart](https://github.com/zhongerxin/Cowart)** ⭐ 4,500
+- **[zhongerxin/Cowart](https://github.com/zhongerxin/Cowart)** ⭐ 4,539
   ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
   None
 
-- **[Yu9191/wloc](https://github.com/Yu9191/wloc)** ⭐ 4,455
+- **[Yu9191/wloc](https://github.com/Yu9191/wloc)** ⭐ 4,505
   ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
   修改 Apple 网络定位（gs-loc）返回坐标 · 支持 Surge / Quantumult X / Loon / Stash · 快捷指令一键设置/恢复定位
 
@@ -489,58 +485,58 @@ Welcome to our newest releaser, [Stewart X Addison](https://github.com/sxa). Fut
 | Skill | Status |
 |-------|--------|
 | Java | 🟢 Proficient |
-| Python | 🟢 Proficient |
+| Python | ⚪ Planned |
 | JavaScript | 🔴 Beginner |
-| TypeScript | ⚪ Planned |
-| Go | 🟢 Proficient |
+| TypeScript | 🔴 Beginner |
+| Go | 🟡 Learning |
 
 ### Frameworks
 
 | Skill | Status |
 |-------|--------|
-| React | ⚪ Planned |
-| Spring Boot | 🟡 Learning |
-| Django | 🔴 Beginner |
+| React | 🟢 Proficient |
+| Spring Boot | 🔴 Beginner |
+| Django | ⚪ Planned |
 | Node.js | ⚪ Planned |
-| Next.js | 🟢 Proficient |
+| Next.js | 🔴 Beginner |
 
 ### Cybersecurity
 
 | Skill | Status |
 |-------|--------|
-| Penetration Testing | 🔴 Beginner |
+| Penetration Testing | 🟡 Learning |
 | Web Security | 🟡 Learning |
-| Network Security | 🟢 Proficient |
-| OWASP | ⚪ Planned |
+| Network Security | 🔴 Beginner |
+| OWASP | 🟡 Learning |
 
 ### Ai Ml
 
 | Skill | Status |
 |-------|--------|
-| Machine Learning | 🟢 Proficient |
+| Machine Learning | 🟡 Learning |
 | Deep Learning | 🟡 Learning |
-| NLP | 🟡 Learning |
-| Computer Vision | 🔴 Beginner |
-| TensorFlow | 🟢 Proficient |
-| PyTorch | 🔴 Beginner |
+| NLP | 🔴 Beginner |
+| Computer Vision | ⚪ Planned |
+| TensorFlow | ⚪ Planned |
+| PyTorch | ⚪ Planned |
 
 ### Devops
 
 | Skill | Status |
 |-------|--------|
-| Docker | 🟢 Proficient |
-| Kubernetes | 🟡 Learning |
-| CI/CD | 🟢 Proficient |
-| AWS | 🟢 Proficient |
-| Azure | ⚪ Planned |
+| Docker | 🔴 Beginner |
+| Kubernetes | ⚪ Planned |
+| CI/CD | ⚪ Planned |
+| AWS | 🟡 Learning |
+| Azure | 🟢 Proficient |
 
 ### Other
 
 | Skill | Status |
 |-------|--------|
-| Blockchain | ⚪ Planned |
-| Web3 | ⚪ Planned |
-| Cloud Computing | 🟡 Learning |
+| Blockchain | 🔴 Beginner |
+| Web3 | 🟢 Proficient |
+| Cloud Computing | 🟢 Proficient |
 
 </details>
 
