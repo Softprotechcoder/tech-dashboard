@@ -46,36 +46,36 @@
 
 ### 📑 Hacker News
 
-- **[Data centers have hiked electricity prices on the public by $23B](https://fortune.com/2026/07/14/data-centers-23-billion-electricity-bills/)**
-  *<p>Article URL: <a href="https://fortune.com/2026/07/14/data-centers-23-billion-electricity-bills/">https://fortune.com/2026/07/14/data-centers-23-billion-electricity-bills/</a></p>
-<p>Comments URL: <...*
-  📅 Wed, 15 Jul 2026 00:20:31 +0000
+- **[I tricked Claude into leaking your deepest, darkest secrets](https://www.ayush.digital/blog/the-memory-heist)**
+  *<p>Article URL: <a href="https://www.ayush.digital/blog/the-memory-heist">https://www.ayush.digital/blog/the-memory-heist</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=4891697...*
+  📅 Wed, 15 Jul 2026 06:28:00 +0000
+
+- **[RISC-V Is Inevitable: State of the Union Keynote Argues](https://www.eetimes.com/risc-v-is-inevitable-state-of-the-union-keynote-argues/)**
+  *<p>Article URL: <a href="https://www.eetimes.com/risc-v-is-inevitable-state-of-the-union-keynote-argues/">https://www.eetimes.com/risc-v-is-inevitable-state-of-the-union-keynote-argues/</a></p>
+<p>Com...*
+  📅 Wed, 15 Jul 2026 06:02:17 +0000
+
+- **[Jurassic Park computers in excruciating detail](https://fabiensanglard.net/jurrasic_park_computers/index.html)**
+  *<p>Article URL: <a href="https://fabiensanglard.net/jurrasic_park_computers/index.html">https://fabiensanglard.net/jurrasic_park_computers/index.html</a></p>
+<p>Comments URL: <a href="https://news.yco...*
+  📅 Wed, 15 Jul 2026 02:57:47 +0000
+
+- **[TS-2026-009: Insecure argument handling in Tailscale SSH permitted root access](https://tailscale.com/security-bulletins)**
+  *<p>Article URL: <a href="https://tailscale.com/security-bulletins">https://tailscale.com/security-bulletins</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=48915004">https://new...*
+  📅 Wed, 15 Jul 2026 01:08:26 +0000
+
+- **[Solving 20 Erdős Problems with 20 Codex Accounts Running in Parallel](https://www.starfleetmath.com/)**
+  *<p>Article URL: <a href="https://www.starfleetmath.com/">https://www.starfleetmath.com/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=48914646">https://news.ycombinator.com/it...*
+  📅 Wed, 15 Jul 2026 00:15:56 +0000
 
 - **[Vancouver PD website features Quick Escape button that wipes itself from history](https://vpd.ca/)**
   *<p>Article URL: <a href="https://vpd.ca/">https://vpd.ca/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=48914644">https://news.ycombinator.com/item?id=48914644</a></p>
 <p>Poin...*
   📅 Wed, 15 Jul 2026 00:15:53 +0000
-
-- **[Casio FX-870P Emulator](https://github.com/urbancamo/fx870p-emulator)**
-  *<p>Article URL: <a href="https://github.com/urbancamo/fx870p-emulator">https://github.com/urbancamo/fx870p-emulator</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=48913910">htt...*
-  📅 Tue, 14 Jul 2026 22:47:58 +0000
-
-- **[LeMario: Training a JEPA World Model on Super Mario Bros](https://www.benjamin-bai.com/projects/lemario)**
-  *<p>Article URL: <a href="https://www.benjamin-bai.com/projects/lemario">https://www.benjamin-bai.com/projects/lemario</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=48913763">h...*
-  📅 Tue, 14 Jul 2026 22:30:47 +0000
-
-- **[Probably check on your smart appliances](https://xeiaso.net/notes/2026/check-your-smart-tv/)**
-  *<p>Article URL: <a href="https://xeiaso.net/notes/2026/check-your-smart-tv/">https://xeiaso.net/notes/2026/check-your-smart-tv/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=4...*
-  📅 Tue, 14 Jul 2026 22:00:41 +0000
-
-- **[Financing the AI boom: from cash flows to debt [pdf]](https://www.bis.org/publ/bisbull120.pdf)**
-  *<p>Article URL: <a href="https://www.bis.org/publ/bisbull120.pdf">https://www.bis.org/publ/bisbull120.pdf</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=48913443">https://news....*
-  📅 Tue, 14 Jul 2026 21:58:36 +0000
 
 ### 📑 TechCrunch
 
@@ -105,13 +105,21 @@
 
 ### 📑 Dev.to
 
-- **[Building a LINE First Fitness Agent with AI Cost Gates](https://dev.to/kevincoto/building-a-line-first-fitness-agent-with-ai-cost-gates-8e5)**
-  *...*
-  📅 Wed, 15 Jul 2026 01:04:49 +0000
+- **[Making Film Format Searchable](https://dev.to/alistairjcbrown/making-film-format-searchable-cgi)**
+  *<p>In <a href="https://dev.to/alistairjcbrown/i-built-a-film-club-discovery-tool-for-londons-cinema-community-2md">Making London's hidden film clubs discoverable</a>, I didn't need to scrape new data....*
+  📅 Wed, 15 Jul 2026 07:47:00 +0000
 
-- **[A Polyglot Feedback Platform: Django, Next.js, and Elixir Working Together](https://dev.to/kevincoto/a-polyglot-feedback-platform-django-nextjs-and-elixir-working-together-b9c)**
-  *...*
-  📅 Wed, 15 Jul 2026 01:03:53 +0000
+- **[RxJS in Angular — Chapter 10 (Final) | Real-World Patterns, Best Practices & Everything That Actually Matters](https://dev.to/jps27cse/rxjs-in-angular-chapter-10-final-real-world-patterns-best-practices-everything-that-mid)**
+  *<h2>
+  
+  
+  👋 Welcome to the Final Chapter!
+</h2>
+
+<p>You've made it. 🎉</p>
+
+<p>Over the past 9 chapters, you've learned Observables, subscribe, pipe, map, filter, tap, switchMap, mergeMap, concatMap...*
+  📅 Wed, 15 Jul 2026 07:38:29 +0000
 
 </details>
 
@@ -119,105 +127,105 @@
 
 ### 📈 Daily Trending
 
-- **[bartekhomeeee-crypto/uTorrent-Pro-Download](https://github.com/bartekhomeeee-crypto/uTorrent-Pro-Download)** ⭐ 55
-  ![None](https://img.shields.io/badge/-None-lightgrey)
-  uTorrent Pro Download — pre-activated uTorrent Pro with all premium features unlocked. Removes all ads and banners, enables video streaming, bandwidth scheduler, virus guard integration, and advanced remote management. 
+- **[my-take-dev/inspired-mino-design-skills](https://github.com/my-take-dev/inspired-mino-design-skills)** ⭐ 139
+  ![PowerShell](https://img.shields.io/badge/-PowerShell-lightgrey)
+  ミノ駆動氏のWebに掲載されている資料から作成した開発スキル
 
-- **[asadteaa/WeMod-Pro-Patcher](https://github.com/asadteaa/WeMod-Pro-Patcher)** ⭐ 55
-  ![None](https://img.shields.io/badge/-None-lightgrey)
-  Patcher for WeMod (wemod.com) — the popular game trainer and mod platform developed by WeMod Inc (founded 2016). Unlocks WeMod Pro subscription features including remote cheats, ad-free experience, custom hotkey bindings, priority support access, and early access to new game trainers. 
+- **[EnamelSpirit/ae-animation-expressions](https://github.com/EnamelSpirit/ae-animation-expressions)** ⭐ 116
+  ![HTML](https://img.shields.io/badge/-HTML-lightgrey)
+  Professional expression-based animation framework for After Effects 2024+.  Automates text sequencing, layer synchronization, and motion keyframe generation  with intelligent timing algorithms and adaptive animation presets. Built for motion  designers, video producers, and animation studios.
 
-- **[OrientalYomu/SMS-Call-Bomber](https://github.com/OrientalYomu/SMS-Call-Bomber)** ⭐ 23
-  ![None](https://img.shields.io/badge/-None-lightgrey)
-  SMS + Call Bomber — multi-threaded phone number flooder that sends mass SMS messages and initiates automated calls through 50+ public API gateways. Supports international phone numbers with country code detection, configurable delay between requests (0–60s), adjustable thread count (1–100), and per-gateway rate limit handling. 
+- **[mudsoldiermove/photoshop-smart-layer-manager](https://github.com/mudsoldiermove/photoshop-smart-layer-manager)** ⭐ 116
+  ![HTML](https://img.shields.io/badge/-HTML-lightgrey)
+  Advanced layer organization and automation plugin for Adobe Photoshop CC 2024+. Intelligent grouping, bulk renaming, hierarchy detection, and smart layer management powered by adaptive algorithms. Works with design systems, production pipelines, and complex document structures. Native UXP extension.
 
-- **[lily4harper/updated-cca-f-questions](https://github.com/lily4harper/updated-cca-f-questions)** ⭐ 4
-  ![None](https://img.shields.io/badge/-None-lightgrey)
-  Honestly, I was a bit nervous before taking this exam, but things got much better during my preparation. A friend recommended Certs4Future and it really helped me understand the pattern and practice properly. In the end, I passed CCA-F with good marks and felt much more confident.
+- **[ExteriorShinobi29/vegas-pro-ai-upscaler](https://github.com/ExteriorShinobi29/vegas-pro-ai-upscaler)** ⭐ 114
+  ![HTML](https://img.shields.io/badge/-HTML-lightgrey)
+  Intelligent video enhancement plugin for Sony Vegas Pro. Neural upscaling (2x-4x),  adaptive noise reduction, motion-aware sharpening, and frame interpolation.  Professional-grade restoration for filmmakers, editors & studios.
 
-- **[vizartid/casa-knowledge-graph](https://github.com/vizartid/casa-knowledge-graph)** ⭐ 2
-  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
-  A personal thinking space for notes, knowledge connections, and conversations with Casa — a local-first, Zettelkasten-inspired second brain featuring an AI thinking partner, voice capture, and a live knowledge graph. Built with Next.js 16, React 19, and Google Gemini.
+- **[AxisCricketElevator/pdf-batch-processor](https://github.com/AxisCricketElevator/pdf-batch-processor)** ⭐ 113
+  ![HTML](https://img.shields.io/badge/-HTML-lightgrey)
+  Advanced batch processing automation extension for Adobe Acrobat Pro. Intelligent document handling, metadata extraction, watermarking, and PDF optimization with adaptive algorithms. Streamline your document workflows.
 
-- **[legend-builds/Base-Gas-Tracker](https://github.com/legend-builds/Base-Gas-Tracker)** ⭐ 2
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  None
+- **[mixedstormplay/photoshop-batch-export-optimizer](https://github.com/mixedstormplay/photoshop-batch-export-optimizer)** ⭐ 112
+  ![HTML](https://img.shields.io/badge/-HTML-lightgrey)
+  Intelligent batch export plugin for Photoshop CC 2024+ with adaptive compression,  format optimization, and automated asset organization. Export hundreds of layers  with consistent quality and minimal file sizes. Includes web, mobile, ecommerce,  and print profiles. Built for production teams and design studios.
 
-- **[dsclub-diu/Data-Science-Summit-web-ALL](https://github.com/dsclub-diu/Data-Science-Summit-web-ALL)** ⭐ 2
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
-  This is a Mono repo , created for keeping all the summit works (web/backend judge for data hackathon and all relevent details)
+- **[TyrantDevelop/fl-studio-plugin-commander](https://github.com/TyrantDevelop/fl-studio-plugin-commander)** ⭐ 111
+  ![HTML](https://img.shields.io/badge/-HTML-lightgrey)
+  Advanced MIDI control and intelligent workflow automation suite for FL Studio 21+. Real-time parameter mapping, adaptive effect chaining, MIDI learning, and production profile management. Streamline your workflow with intelligent automation.
 
-- **[dwego/logtap](https://github.com/dwego/logtap)** ⭐ 2
-  ![Rust](https://img.shields.io/badge/-Rust-brown)
-  A minimal, async log shipper/aggregator in Rust with real backpressure, no unbounded buffers, no memory blowups.
+- **[magmaduckplain/ae-expression-library](https://github.com/magmaduckplain/ae-expression-library)** ⭐ 111
+  ![HTML](https://img.shields.io/badge/-HTML-lightgrey)
+  Production-ready expression toolkit for Adobe After Effects 2024+. Advanced property linking, dynamic text animation, sophisticated camera control, adaptive layer management, and automated timing solutions. Real-time preview with interactive UI panel. Built for motion designers, VFX artists, and broadcast production teams.
 
 ### 📈 Weekly Trending
 
-- **[MDX-Tom/gpt-5.6-instruct](https://github.com/MDX-Tom/gpt-5.6-instruct)** ⭐ 1,013
+- **[MDX-Tom/gpt-5.6-instruct](https://github.com/MDX-Tom/gpt-5.6-instruct)** ⭐ 1,117
   ![Python](https://img.shields.io/badge/-Python-blue)
   A Codex CLI jailbreak prompt and test pack for gpt-5.6-sol. 针对 gpt-5.6 系列的 Codex CLI 破甲提示词与测试包。
 
-- **[vinhhien112/Three.js-Object-Sculptor-Codex-Plugin](https://github.com/vinhhien112/Three.js-Object-Sculptor-Codex-Plugin)** ⭐ 965
+- **[vinhhien112/Three.js-Object-Sculptor-Codex-Plugin](https://github.com/vinhhien112/Three.js-Object-Sculptor-Codex-Plugin)** ⭐ 978
   ![Python](https://img.shields.io/badge/-Python-blue)
   Codex plugin that turns attached object images into code-only, animation-ready procedural Three.js models.
 
-- **[littledivy/mimic](https://github.com/littledivy/mimic)** ⭐ 909
+- **[littledivy/mimic](https://github.com/littledivy/mimic)** ⭐ 919
   ![Python](https://img.shields.io/badge/-Python-blue)
   Intercept any app, then call it from Python like a library
 
-- **[mereyabdenbekuly-ctrl/clodex-ide](https://github.com/mereyabdenbekuly-ctrl/clodex-ide)** ⭐ 801
+- **[mereyabdenbekuly-ctrl/clodex-ide](https://github.com/mereyabdenbekuly-ctrl/clodex-ide)** ⭐ 803
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   Local-first, zero-trust agentic IDE for verifiable autonomous software development.
 
-- **[AlephAITech/WorkBuddyGuide](https://github.com/AlephAITech/WorkBuddyGuide)** ⭐ 693
+- **[AlephAITech/WorkBuddyGuide](https://github.com/AlephAITech/WorkBuddyGuide)** ⭐ 740
   ![Python](https://img.shields.io/badge/-Python-blue)
   A practical, open-source guide to mastering WorkBuddy through real-world workflows.开源的 WorkBuddy 实战蓝皮书：教程、真实工作流、Skills、MCP、自动化与多智能体实践。
 
-- **[x4gKing/Marzban-Panel](https://github.com/x4gKing/Marzban-Panel)** ⭐ 668
+- **[x4gKing/Marzban-Panel](https://github.com/x4gKing/Marzban-Panel)** ⭐ 686
   ![Dockerfile](https://img.shields.io/badge/-Dockerfile-lightgrey)
   None
 
-- **[William-Lu-stack/Flawless](https://github.com/William-Lu-stack/Flawless)** ⭐ 616
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  AI SRE AgenticOps for Kubernetes and cloud infrastructure.
-
-- **[Kappaemme-git/codex-first-customer-finder-skill](https://github.com/Kappaemme-git/codex-first-customer-finder-skill)** ⭐ 601
+- **[Kappaemme-git/codex-first-customer-finder-skill](https://github.com/Kappaemme-git/codex-first-customer-finder-skill)** ⭐ 642
   ![Python](https://img.shields.io/badge/-Python-blue)
   A Codex skill that finds evidence-backed potential first customers from recent public signals.
 
+- **[William-Lu-stack/Flawless](https://github.com/William-Lu-stack/Flawless)** ⭐ 620
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  AI SRE AgenticOps for Kubernetes and cloud infrastructure.
+
 ### 📈 Monthly Trending
 
-- **[baidu/Unlimited-OCR](https://github.com/baidu/Unlimited-OCR)** ⭐ 14,242
+- **[baidu/Unlimited-OCR](https://github.com/baidu/Unlimited-OCR)** ⭐ 14,263
   ![Python](https://img.shields.io/badge/-Python-blue)
   Unlimited OCR Works: Welcome the Era of One-shot Long-horizon Parsing.
 
-- **[JustVugg/colibri](https://github.com/JustVugg/colibri)** ⭐ 12,638
+- **[JustVugg/colibri](https://github.com/JustVugg/colibri)** ⭐ 13,276
   ![C](https://img.shields.io/badge/-C-lightgrey)
   Run GLM-5.2 (744B MoE) on a 25GB-RAM consumer machine — pure C, zero deps, experts streamed from disk. Tiny engine, immense model. 🐦
 
-- **[langchain-ai/openwiki](https://github.com/langchain-ai/openwiki)** ⭐ 11,252
+- **[langchain-ai/openwiki](https://github.com/langchain-ai/openwiki)** ⭐ 11,394
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   OpenWiki is a CLI that writes and maintains agent documentation for your codebase.
 
-- **[deepseek-ai/DeepSpec](https://github.com/deepseek-ai/DeepSpec)** ⭐ 6,642
+- **[deepseek-ai/DeepSpec](https://github.com/deepseek-ai/DeepSpec)** ⭐ 6,652
   ![Python](https://img.shields.io/badge/-Python-blue)
   DeepSpec: a full-stack codebase for training and evaluating speculative decoding algorithms
 
-- **[x4gKing/X4G](https://github.com/x4gKing/X4G)** ⭐ 5,289
+- **[x4gKing/X4G](https://github.com/x4gKing/X4G)** ⭐ 5,323
   ![Python](https://img.shields.io/badge/-Python-blue)
   None
 
-- **[elder-plinius/T3MP3ST](https://github.com/elder-plinius/T3MP3ST)** ⭐ 4,719
+- **[elder-plinius/T3MP3ST](https://github.com/elder-plinius/T3MP3ST)** ⭐ 4,737
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   autonomous red teaming platform; multi-agent offensive-security meta-harness
 
-- **[zhongerxin/Cowart](https://github.com/zhongerxin/Cowart)** ⭐ 4,593
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
-  None
-
-- **[Yu9191/wloc](https://github.com/Yu9191/wloc)** ⭐ 4,589
+- **[Yu9191/wloc](https://github.com/Yu9191/wloc)** ⭐ 4,642
   ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
   修改 Apple 网络定位（gs-loc）返回坐标 · 支持 Surge / Quantumult X / Loon / Stash · 快捷指令一键设置/恢复定位
+
+- **[zhongerxin/Cowart](https://github.com/zhongerxin/Cowart)** ⭐ 4,621
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
+  None
 
 ## 🚀 Latest Releases
 
@@ -485,49 +493,49 @@ Welcome to our newest releaser, [Stewart X Addison](https://github.com/sxa). Fut
 
 | Skill | Status |
 |-------|--------|
-| Java | 🟡 Learning |
-| Python | ⚪ Planned |
-| JavaScript | ⚪ Planned |
-| TypeScript | ⚪ Planned |
-| Go | ⚪ Planned |
+| Java | 🟢 Proficient |
+| Python | 🟢 Proficient |
+| JavaScript | 🟢 Proficient |
+| TypeScript | 🔴 Beginner |
+| Go | 🔴 Beginner |
 
 ### Frameworks
 
 | Skill | Status |
 |-------|--------|
-| React | 🔴 Beginner |
-| Spring Boot | 🔴 Beginner |
-| Django | 🟢 Proficient |
-| Node.js | 🔴 Beginner |
-| Next.js | 🟡 Learning |
+| React | ⚪ Planned |
+| Spring Boot | ⚪ Planned |
+| Django | 🔴 Beginner |
+| Node.js | ⚪ Planned |
+| Next.js | ⚪ Planned |
 
 ### Cybersecurity
 
 | Skill | Status |
 |-------|--------|
 | Penetration Testing | ⚪ Planned |
-| Web Security | ⚪ Planned |
-| Network Security | 🟡 Learning |
+| Web Security | 🔴 Beginner |
+| Network Security | 🟢 Proficient |
 | OWASP | 🟡 Learning |
 
 ### Ai Ml
 
 | Skill | Status |
 |-------|--------|
-| Machine Learning | 🟢 Proficient |
-| Deep Learning | ⚪ Planned |
+| Machine Learning | 🟡 Learning |
+| Deep Learning | 🔴 Beginner |
 | NLP | 🔴 Beginner |
 | Computer Vision | 🟡 Learning |
 | TensorFlow | 🟢 Proficient |
-| PyTorch | 🟢 Proficient |
+| PyTorch | ⚪ Planned |
 
 ### Devops
 
 | Skill | Status |
 |-------|--------|
 | Docker | 🟡 Learning |
-| Kubernetes | 🟢 Proficient |
-| CI/CD | 🔴 Beginner |
+| Kubernetes | 🟡 Learning |
+| CI/CD | ⚪ Planned |
 | AWS | ⚪ Planned |
 | Azure | 🟢 Proficient |
 
@@ -535,8 +543,8 @@ Welcome to our newest releaser, [Stewart X Addison](https://github.com/sxa). Fut
 
 | Skill | Status |
 |-------|--------|
-| Blockchain | 🟢 Proficient |
-| Web3 | ⚪ Planned |
+| Blockchain | 🟡 Learning |
+| Web3 | 🔴 Beginner |
 | Cloud Computing | 🔴 Beginner |
 
 </details>
