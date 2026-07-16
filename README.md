@@ -46,79 +46,74 @@
 
 ### 📑 Hacker News
 
-- **[British Steel taken into public ownership to protect 'vital' UK supply](https://www.bbc.com/news/articles/c5y680w62wno)**
-  *<p>Article URL: <a href="https://www.bbc.com/news/articles/c5y680w62wno">https://www.bbc.com/news/articles/c5y680w62wno</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=48933371"...*
-  📅 Thu, 16 Jul 2026 12:05:53 +0000
+- **[SPCX is now Wall Street's most shorted new stock](https://invezz.com/news/2026/07/16/the-worlds-most-valuable-ipo-spcx-is-now-wall-streets-most-shorted-new-stock/)**
+  *<p>Article URL: <a href="https://invezz.com/news/2026/07/16/the-worlds-most-valuable-ipo-spcx-is-now-wall-streets-most-shorted-new-stock/">https://invezz.com/news/2026/07/16/the-worlds-most-valuable-i...*
+  📅 Thu, 16 Jul 2026 18:03:56 +0000
 
-- **[The Act and the Outcome of Creation](https://www.ssp.sh/blog/on-creation/)**
-  *<p>Article URL: <a href="https://www.ssp.sh/blog/on-creation/">https://www.ssp.sh/blog/on-creation/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=48933370">https://news.ycombi...*
-  📅 Thu, 16 Jul 2026 12:05:42 +0000
+- **[42% of adults rely on their parents for financial support](https://www.cnbc.com/2026/07/16/42percent-of-adults-rely-on-their-parents-for-financial-supportthere-are-no-bad-guys-here-says-financial-therapist.html)**
+  *<p>Article URL: <a href="https://www.cnbc.com/2026/07/16/42percent-of-adults-rely-on-their-parents-for-financial-supportthere-are-no-bad-guys-here-says-financial-therapist.html">https://www.cnbc.com/2...*
+  📅 Thu, 16 Jul 2026 17:11:58 +0000
 
-- **[SpaceX stock erases all its gains and slides below IPO price in intraday trading](https://www.latimes.com/business/story/2026-07-16/spacex-stock-erases-gains-slides-below-ipo-price-in-intraday-trading)**
-  *<p>Article URL: <a href="https://www.latimes.com/business/story/2026-07-16/spacex-stock-erases-gains-slides-below-ipo-price-in-intraday-trading">https://www.latimes.com/business/story/2026-07-16/space...*
-  📅 Thu, 16 Jul 2026 12:02:11 +0000
+- **[Adaptional (YC S25) Is Hiring](https://www.ycombinator.com/companies/adaptional/jobs)**
+  *<p>Article URL: <a href="https://www.ycombinator.com/companies/adaptional/jobs">https://www.ycombinator.com/companies/adaptional/jobs</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/ite...*
+  📅 Thu, 16 Jul 2026 17:00:55 +0000
 
-- **[The LLM Critics Are Right. I Use LLMs Anyway](https://www.theocharis.dev/blog/llm-critics-are-right-i-use-llms-anyway/)**
-  *<p>Article URL: <a href="https://www.theocharis.dev/blog/llm-critics-are-right-i-use-llms-anyway/">https://www.theocharis.dev/blog/llm-critics-are-right-i-use-llms-anyway/</a></p>
-<p>Comments URL: <a ...*
-  📅 Thu, 16 Jul 2026 11:59:01 +0000
+- **[Launch HN: Traceforce (YC S26) – Company-wide security monitoring for AI apps](https://news.ycombinator.com/item?id=48937020)**
+  *<p>Hey HN, we’re Xia and Varun, the founders of Traceforce (<a href="https://www.traceforce.ai/" rel="nofollow">https://www.traceforce.ai/</a>). Traceforce provides visibility and control over AI apps...*
+  📅 Thu, 16 Jul 2026 16:52:16 +0000
 
-- **[Let's Build PlanetScale from Scratch: Infrastructure](https://onatm.dev/2026/07/16/homescale-part-1/)**
-  *<p>Article URL: <a href="https://onatm.dev/2026/07/16/homescale-part-1/">https://onatm.dev/2026/07/16/homescale-part-1/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=48933303"...*
-  📅 Thu, 16 Jul 2026 11:58:09 +0000
+- **[Someone Used AI to Write an Unauthorized Biography of Me](https://www.nytimes.com/2026/07/16/technology/ai-slop-books-biography-amazon.html)**
+  *<p>Article URL: <a href="https://www.nytimes.com/2026/07/16/technology/ai-slop-books-biography-amazon.html">https://www.nytimes.com/2026/07/16/technology/ai-slop-books-biography-amazon.html</a></p>
+<p...*
+  📅 Thu, 16 Jul 2026 16:51:20 +0000
 
-- **[I resurrected an 8-year-old dead CSS library and gave it an engine](https://usevivace.dev)**
-  *<p>Article URL: <a href="https://usevivace.dev">https://usevivace.dev</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=48932889">https://news.ycombinator.com/item?id=48932889</a>...*
-  📅 Thu, 16 Jul 2026 11:04:27 +0000
+- **[Detecting LLM-Generated Texts with “Classical” Machine Learning](https://blog.lyc8503.net/en/post/llm-classifier/)**
+  *<p>Article URL: <a href="https://blog.lyc8503.net/en/post/llm-classifier/">https://blog.lyc8503.net/en/post/llm-classifier/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=48936...*
+  📅 Thu, 16 Jul 2026 16:41:37 +0000
 
 ### 📑 TechCrunch
 
-- **[Apple Intelligence approved for launch in China with Alibaba and Baidu](https://techcrunch.com/2026/07/16/apple-intelligence-approved-for-launch-in-china-with-alibabas-qwen-ai/)**
-  *The deal, which was rumored to be in the works last year, marks an important step for Apple's AI ambitions in a key market....*
-  📅 Thu, 16 Jul 2026 13:17:59 +0000
+- **[Google Vids now lets you star in your own AI videos](https://techcrunch.com/2026/07/16/google-vids-now-lets-you-star-in-your-own-ai-videos/)**
+  *Google is adding personalized AI avatars to Vids that let users create videos starring a digital version of themselves, alongside Gemini Omni-powered tools for generating and editing videos from promp...*
+  📅 Thu, 16 Jul 2026 18:32:54 +0000
 
-- **[Ultrahuman’s former hardware VP raises $5.5M for devices that control AI agents, not just record you](https://techcrunch.com/2026/07/16/ultrahumans-former-hardware-vp-raises-5-5m-for-devices-that-control-ai-agents-not-just-record-you/)**
-  *Aina is going to pilot a new device in the coming weeks....*
-  📅 Thu, 16 Jul 2026 11:30:00 +0000
+- **[Roblox launches an AI-powered game creation feature in its mobile app](https://techcrunch.com/2026/07/16/roblox-launches-an-ai-powered-game-creation-feature-in-its-mobile-app/)**
+  *Roblox's new "Build" feature lets users generate basic games using a single text prompt....*
+  📅 Thu, 16 Jul 2026 18:22:06 +0000
 
-- **[Meta now alerts parents if their teen discussed suicide or self-harm with its AI chatbot](https://techcrunch.com/2026/07/16/meta-now-alerts-parents-if-their-teen-discussed-suicide-or-self-harm-with-its-ai-chatbot/)**
-  *The updates come as Meta and other tech companies are facing scrutiny from regulators and parents around how AI chatbots respond to users in crisis, particularly teenagers....*
-  📅 Thu, 16 Jul 2026 11:00:00 +0000
+- **[Oil giant BP shutters its corporate venture arm after 20 years](https://techcrunch.com/2026/07/16/oil-giant-bp-shutters-its-corporate-venture-arm-after-20-years/)**
+  *BP Ventures is shutting down, ending a nearly 20-year run that was marked by reportedly lackluster returns....*
+  📅 Thu, 16 Jul 2026 17:37:03 +0000
 
-- **[Phone maker OnePlus says it won’t release new phones in the US and Europe](https://techcrunch.com/2026/07/16/phone-maker-oneplus-reportedly-plans-to-wind-down-us-and-europe-operations/)**
-  *OnePlus could also wind down its operations in India by 2027....*
-  📅 Thu, 16 Jul 2026 09:00:00 +0000
+- **[Uber’s $14.8B Delivery Hero deal would nearly double its global footprint](https://techcrunch.com/2026/07/16/ubers-14-8b-delivery-hero-deal-would-nearly-double-its-global-footprint/)**
+  *Uber has agreed to acquire Delivery Hero in a $14.8 billion all-stock deal that would nearly double the company’s global footprint and create one of the world’s largest food-delivery platforms outside...*
+  📅 Thu, 16 Jul 2026 17:12:00 +0000
 
-- **[Lululemon backs nylon-recycling startup Syntetica in $30M Series A](https://techcrunch.com/2026/07/15/lululemon-backs-nylon-recycling-startup-syntetica-in-30m-series-a/)**
-  *Syntetica, a French startup that has developed a novel approach to recycling nylon, has already obtained big-name partners and investors....*
-  📅 Thu, 16 Jul 2026 04:00:00 +0000
+- **[Newsletter platform Beehiiv now lets subscribers chat with each other, adds AI](https://techcrunch.com/2026/07/16/newsletter-platform-beehiiv-now-lets-subscribers-chat-with-each-other-adds-ai/)**
+  *Beehiiv is launching an AI Copilot to help publishers with user growth and analytics....*
+  📅 Thu, 16 Jul 2026 17:00:00 +0000
 
-- **[Applied Computing wants to give oil and gas operators an AI model for the entire plant](https://techcrunch.com/2026/07/15/applied-computing-wants-to-give-oil-and-gas-operators-an-ai-model-for-the-entire-plant/)**
-  *Applied Computing has raised a $20M Series A to build a foundation AI model for the oil, gas and petrochemical industry....*
-  📅 Thu, 16 Jul 2026 04:00:00 +0000
+- **[X cracks down on creators who steal content](https://techcrunch.com/2026/07/16/x-cracks-down-on-creators-who-steal-content/)**
+  *X will use Grok AI to better detect stolen content, redirect payouts to original creators, and crack down on engagement bait....*
+  📅 Thu, 16 Jul 2026 16:40:36 +0000
 
 ### 📑 Dev.to
 
-- **[SlaveCode Featured in the Official Judge0 Repository](https://dev.to/phero20/slavecode-featured-in-the-official-judge0-repository-1eoc)**
-  *<p>Explore the Platform: <a href="https://slavecode.codes" rel="noopener noreferrer">slavecode.codes</a><br />
-Support on GitHub: <a href="https://github.com/phero20/slavecode" rel="noopener noreferre...*
-  📅 Thu, 16 Jul 2026 13:07:19 +0000
+- **[Give your Laravel AI agent real-time web knowledge](https://dev.to/juststevemcd/give-your-laravel-ai-agent-real-time-web-knowledge-478h)**
+  *<p>One of the best things about the Laravel AI SDK is that it doesn't lock you into a provider. Swap OpenAI for Anthropic, add Gemini as a failover, and your agent code barely changes. That's the enti...*
+  📅 Thu, 16 Jul 2026 18:50:58 +0000
 
-- **[Stop Writing .isnull() — Audit Your Dataset in One Line with OMR](https://dev.to/omar_alshafai/stop-writing-isnull-audit-your-dataset-in-one-line-with-omr-4l91)**
-  *<p>Every time I start a new data project, I write the same boilerplate:</p>
+- **[Simplifying Authorization in NestJS: A New Approach](https://dev.to/gsmithun4/simplifying-authorization-in-nestjs-a-new-approach-1ahg)**
+  *<h2>
+  
+  
+  The Problem
+</h2>
 
-
-
-<div class="highlight js-code-highlight">
-<pre class="highlight plaintext"><code>
-python
-df.isnull().sum()
-df.duplicated(...*
-  📅 Thu, 16 Jul 2026 13:06:51 +0000
+<p>If you’ve built a decent-sized NestJS application, you know the authorization dance. You start with basic Roles, then suddenly you need fine-grained permissions, the...*
+  📅 Thu, 16 Jul 2026 18:50:00 +0000
 
 </details>
 
@@ -126,87 +121,87 @@ df.duplicated(...*
 
 ### 📈 Daily Trending
 
-- **[tandpfun/wardrobe](https://github.com/tandpfun/wardrobe)** ⭐ 337
+- **[tandpfun/wardrobe](https://github.com/tandpfun/wardrobe)** ⭐ 522
   ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
   Your clothes, extracted and organized with gpt-image.
 
-- **[robinhood-ape/robinhood-sniper-bot](https://github.com/robinhood-ape/robinhood-sniper-bot)** ⭐ 214
+- **[robinhood-ape/robinhood-sniper-bot](https://github.com/robinhood-ape/robinhood-sniper-bot)** ⭐ 250
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   NOXA Fun token sniper on Robinhood Chain - watches TokenLaunched, buys via Uniswap V3 SwapRouter02, auto-sells on take-profit / stop-loss
 
-- **[robinhood-ape/robinhood-noxa-bundler](https://github.com/robinhood-ape/robinhood-noxa-bundler)** ⭐ 213
+- **[robinhood-ape/robinhood-noxa-bundler](https://github.com/robinhood-ape/robinhood-noxa-bundler)** ⭐ 250
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   NOXA Fun multi-wallet launch bundler for Robinhood Chain - launch via NOXA factory then buy from many wallets on Uniswap V3 before public snipers
+
+- **[PengZhang64/circuit-framework](https://github.com/PengZhang64/circuit-framework)** ⭐ 244
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  Circuit Framework — multi-agent LLM trading research system
 
 - **[alexafinode/claude-arbitrage-bot](https://github.com/alexafinode/claude-arbitrage-bot)** ⭐ 81
   ![Solidity](https://img.shields.io/badge/-Solidity-lightgrey)
   Arbitrage bot for Ethereum-compatible networks with built-in Python automation
 
-- **[BoardCrawler/rbxmulti-loader](https://github.com/BoardCrawler/rbxmulti-loader)** ⭐ 52
+- **[BoardCrawler/rbxmulti-loader](https://github.com/BoardCrawler/rbxmulti-loader)** ⭐ 51
   ![PowerShell](https://img.shields.io/badge/-PowerShell-lightgrey)
   Running multiple R0bl0x instances on Windows.
+
+- **[h9-tec/Awesome_ai_learning](https://github.com/h9-tec/Awesome_ai_learning)** ⭐ 51
+  ![None](https://img.shields.io/badge/-None-lightgrey)
+  None
 
 - **[vergehairdressertape/XENO-ROBLOX-](https://github.com/vergehairdressertape/XENO-ROBLOX-)** ⭐ 50
   ![None](https://img.shields.io/badge/-None-lightgrey)
   THE BEST XENO 2026
 
-- **[x4gKing/Telegram-Proxy](https://github.com/x4gKing/Telegram-Proxy)** ⭐ 39
-  ![HTML](https://img.shields.io/badge/-HTML-lightgrey)
-  None
-
-- **[Naresh-Chaurasia/GenC-KnowledgeHub](https://github.com/Naresh-Chaurasia/GenC-KnowledgeHub)** ⭐ 39
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
-  None
-
 ### 📈 Weekly Trending
 
-- **[xai-org/grok-build](https://github.com/xai-org/grok-build)** ⭐ 9,672
+- **[xai-org/grok-build](https://github.com/xai-org/grok-build)** ⭐ 11,371
   ![Rust](https://img.shields.io/badge/-Rust-brown)
   SpaceXAI's coding agent harness and TUI. Fullscreen, mouse interactive, extensible.
 
-- **[Fei-Away/Codex-Dream-Skin](https://github.com/Fei-Away/Codex-Dream-Skin)** ⭐ 4,284
+- **[Fei-Away/Codex-Dream-Skin](https://github.com/Fei-Away/Codex-Dream-Skin)** ⭐ 5,169
   ![PowerShell](https://img.shields.io/badge/-PowerShell-lightgrey)
   Codex Dream Skin
 
-- **[MDX-Tom/gpt-5.6-instruct](https://github.com/MDX-Tom/gpt-5.6-instruct)** ⭐ 1,576
+- **[MDX-Tom/gpt-5.6-instruct](https://github.com/MDX-Tom/gpt-5.6-instruct)** ⭐ 1,645
   ![Python](https://img.shields.io/badge/-Python-blue)
   A Codex CLI jailbreak prompt and test pack for gpt-5.6-sol. 针对 gpt-5.6 系列的 Codex CLI 破甲提示词与测试包。
 
-- **[littledivy/mimic](https://github.com/littledivy/mimic)** ⭐ 1,069
+- **[littledivy/mimic](https://github.com/littledivy/mimic)** ⭐ 1,090
   ![Python](https://img.shields.io/badge/-Python-blue)
   Intercept any app, then call it from Python like a library
 
-- **[AlephAITech/WorkBuddyGuide](https://github.com/AlephAITech/WorkBuddyGuide)** ⭐ 962
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  A practical, open-source guide to mastering WorkBuddy through real-world workflows.开源的 WorkBuddy 实战蓝皮书：教程、真实工作流、Skills、MCP、自动化与多智能体实践。
-
-- **[pixel-point/aval](https://github.com/pixel-point/aval)** ⭐ 898
+- **[pixel-point/aval](https://github.com/pixel-point/aval)** ⭐ 1,003
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   A new open-source format for interactive video on the web, with a built-in state machine, frame-accurate transitions, and packed-alpha transparency.
 
-- **[x4gKing/Marzban-Panel](https://github.com/x4gKing/Marzban-Panel)** ⭐ 818
+- **[AlephAITech/WorkBuddyGuide](https://github.com/AlephAITech/WorkBuddyGuide)** ⭐ 979
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  A practical, open-source guide to mastering WorkBuddy through real-world workflows.开源的 WorkBuddy 实战蓝皮书：教程、真实工作流、Skills、MCP、自动化与多智能体实践。
+
+- **[CluvexStudio/Aether](https://github.com/CluvexStudio/Aether)** ⭐ 859
+  ![Rust](https://img.shields.io/badge/-Rust-brown)
+  None
+
+- **[x4gKing/Marzban-Panel](https://github.com/x4gKing/Marzban-Panel)** ⭐ 831
   ![Dockerfile](https://img.shields.io/badge/-Dockerfile-lightgrey)
   None
 
-- **[mereyabdenbekuly-ctrl/clodex-ide](https://github.com/mereyabdenbekuly-ctrl/clodex-ide)** ⭐ 814
-  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
-  Local-first, zero-trust agentic IDE for verifiable autonomous software development.
-
 ### 📈 Monthly Trending
 
-- **[JustVugg/colibri](https://github.com/JustVugg/colibri)** ⭐ 14,702
+- **[JustVugg/colibri](https://github.com/JustVugg/colibri)** ⭐ 14,864
   ![C](https://img.shields.io/badge/-C-lightgrey)
   Run GLM-5.2 (744B MoE) on a 25GB-RAM consumer machine — pure C, zero deps, experts streamed from disk. Tiny engine, immense model. 🐦
 
-- **[baidu/Unlimited-OCR](https://github.com/baidu/Unlimited-OCR)** ⭐ 14,324
+- **[baidu/Unlimited-OCR](https://github.com/baidu/Unlimited-OCR)** ⭐ 14,339
   ![Python](https://img.shields.io/badge/-Python-blue)
   Unlimited OCR Works: Welcome the Era of One-shot Long-horizon Parsing.
 
-- **[langchain-ai/openwiki](https://github.com/langchain-ai/openwiki)** ⭐ 11,761
+- **[langchain-ai/openwiki](https://github.com/langchain-ai/openwiki)** ⭐ 11,798
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   OpenWiki is a CLI that writes and maintains agent documentation for your codebase.
 
-- **[xai-org/grok-build](https://github.com/xai-org/grok-build)** ⭐ 9,672
+- **[xai-org/grok-build](https://github.com/xai-org/grok-build)** ⭐ 11,371
   ![Rust](https://img.shields.io/badge/-Rust-brown)
   SpaceXAI's coding agent harness and TUI. Fullscreen, mouse interactive, extensible.
 
@@ -214,17 +209,17 @@ df.duplicated(...*
   ![Python](https://img.shields.io/badge/-Python-blue)
   DeepSpec: a full-stack codebase for training and evaluating speculative decoding algorithms
 
-- **[x4gKing/X4G](https://github.com/x4gKing/X4G)** ⭐ 5,577
+- **[x4gKing/X4G](https://github.com/x4gKing/X4G)** ⭐ 5,619
   ![Python](https://img.shields.io/badge/-Python-blue)
   None
 
-- **[Yu9191/wloc](https://github.com/Yu9191/wloc)** ⭐ 5,124
+- **[Yu9191/wloc](https://github.com/Yu9191/wloc)** ⭐ 5,180
   ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
   修改 Apple 网络定位（gs-loc）返回坐标 · 支持 Surge / Quantumult X / Loon / Stash · 快捷指令一键设置/恢复定位
 
-- **[elder-plinius/T3MP3ST](https://github.com/elder-plinius/T3MP3ST)** ⭐ 4,820
-  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
-  autonomous red teaming platform; multi-agent offensive-security meta-harness
+- **[Fei-Away/Codex-Dream-Skin](https://github.com/Fei-Away/Codex-Dream-Skin)** ⭐ 5,169
+  ![PowerShell](https://img.shields.io/badge/-PowerShell-lightgrey)
+  Codex Dream Skin
 
 ## 🚀 Latest Releases
 
@@ -490,39 +485,39 @@ Welcome to our newest releaser, [Stewart X Addison](https://github.com/sxa). Fut
 
 | Skill | Status |
 |-------|--------|
-| Java | 🟢 Proficient |
-| Python | ⚪ Planned |
-| JavaScript | 🟢 Proficient |
-| TypeScript | 🟡 Learning |
-| Go | 🟢 Proficient |
+| Java | ⚪ Planned |
+| Python | 🟢 Proficient |
+| JavaScript | 🟡 Learning |
+| TypeScript | 🔴 Beginner |
+| Go | 🟡 Learning |
 
 ### Frameworks
 
 | Skill | Status |
 |-------|--------|
-| React | ⚪ Planned |
-| Spring Boot | 🟡 Learning |
-| Django | 🟢 Proficient |
+| React | 🟡 Learning |
+| Spring Boot | 🔴 Beginner |
+| Django | ⚪ Planned |
 | Node.js | 🟡 Learning |
-| Next.js | ⚪ Planned |
+| Next.js | 🟢 Proficient |
 
 ### Cybersecurity
 
 | Skill | Status |
 |-------|--------|
-| Penetration Testing | 🟢 Proficient |
-| Web Security | 🟢 Proficient |
-| Network Security | 🔴 Beginner |
-| OWASP | 🔴 Beginner |
+| Penetration Testing | ⚪ Planned |
+| Web Security | 🟡 Learning |
+| Network Security | ⚪ Planned |
+| OWASP | 🟢 Proficient |
 
 ### Ai Ml
 
 | Skill | Status |
 |-------|--------|
-| Machine Learning | 🟢 Proficient |
-| Deep Learning | 🟢 Proficient |
-| NLP | 🟢 Proficient |
-| Computer Vision | 🟢 Proficient |
+| Machine Learning | 🟡 Learning |
+| Deep Learning | 🔴 Beginner |
+| NLP | ⚪ Planned |
+| Computer Vision | ⚪ Planned |
 | TensorFlow | ⚪ Planned |
 | PyTorch | 🟡 Learning |
 
@@ -530,19 +525,19 @@ Welcome to our newest releaser, [Stewart X Addison](https://github.com/sxa). Fut
 
 | Skill | Status |
 |-------|--------|
-| Docker | 🔴 Beginner |
-| Kubernetes | 🔴 Beginner |
+| Docker | 🟢 Proficient |
+| Kubernetes | ⚪ Planned |
 | CI/CD | ⚪ Planned |
-| AWS | 🟢 Proficient |
-| Azure | 🟡 Learning |
+| AWS | 🔴 Beginner |
+| Azure | 🟢 Proficient |
 
 ### Other
 
 | Skill | Status |
 |-------|--------|
-| Blockchain | 🔴 Beginner |
+| Blockchain | ⚪ Planned |
 | Web3 | 🟢 Proficient |
-| Cloud Computing | 🟢 Proficient |
+| Cloud Computing | ⚪ Planned |
 
 </details>
 
