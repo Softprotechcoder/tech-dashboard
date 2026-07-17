@@ -46,32 +46,34 @@
 
 ### 📑 Hacker News
 
-- **[Google Kills Custom Search API on Jan 1, 2027](https://thenextgennexus.com/2026/05/14/google-kills-custom-search-api-on-jan-1-2027-you-have-9-months/)**
-  *<p>Article URL: <a href="https://thenextgennexus.com/2026/05/14/google-kills-custom-search-api-on-jan-1-2027-you-have-9-months/">https://thenextgennexus.com/2026/05/14/google-kills-custom-search-api-o...*
-  📅 Fri, 17 Jul 2026 01:03:25 +0000
+- **[EEG shows brain can simultaneous encode two speech streams](https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3003876)**
+  *<p>Article URL: <a href="https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3003876">https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3003876</a></p>
+<p>Comment...*
+  📅 Fri, 17 Jul 2026 05:51:10 +0000
+
+- **[Pebble Mega Update – July 2026](https://repebble.com/blog/pebble-mega-update-july-2026)**
+  *<p>Article URL: <a href="https://repebble.com/blog/pebble-mega-update-july-2026">https://repebble.com/blog/pebble-mega-update-july-2026</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/i...*
+  📅 Fri, 17 Jul 2026 03:53:38 +0000
+
+- **[How Has Roman Concrete Lasted for Millennia? 1,900-Year-Old Latrine Offers Clues](https://www.smithsonianmag.com/smart-news/how-has-roman-concrete-lasted-for-millennia-a-1900-year-old-latrine-offers-new-clues-about-the-materials-impressive-durability-180989115/)**
+  *<p>Article URL: <a href="https://www.smithsonianmag.com/smart-news/how-has-roman-concrete-lasted-for-millennia-a-1900-year-old-latrine-offers-new-clues-about-the-materials-impressive-durability-180989...*
+  📅 Fri, 17 Jul 2026 03:48:26 +0000
+
+- **[UIUC AI Teaching Assistant](https://github.com/Center-for-AI-Innovation/ai-teaching-assistant-uiuc)**
+  *<p>Article URL: <a href="https://github.com/Center-for-AI-Innovation/ai-teaching-assistant-uiuc">https://github.com/Center-for-AI-Innovation/ai-teaching-assistant-uiuc</a></p>
+<p>Comments URL: <a href...*
+  📅 Fri, 17 Jul 2026 02:23:18 +0000
+
+- **[GrapheneOS recommended for domestic abuse victims](https://privacypros.com.au/privacy-hub/articles/dv-safe-phone-australia/)**
+  *<p>Article URL: <a href="https://privacypros.com.au/privacy-hub/articles/dv-safe-phone-australia/">https://privacypros.com.au/privacy-hub/articles/dv-safe-phone-australia/</a></p>
+<p>Comments URL: <a ...*
+  📅 Fri, 17 Jul 2026 01:36:52 +0000
 
 - **[M 3.9 Experimental Explosion – 147 Km ENE of Ponce Inlet, Florida](https://earthquake.usgs.gov/earthquakes/eventpage/us7000t13l/executive)**
   *<p>Article URL: <a href="https://earthquake.usgs.gov/earthquakes/eventpage/us7000t13l/executive">https://earthquake.usgs.gov/earthquakes/eventpage/us7000t13l/executive</a></p>
 <p>Comments URL: <a href...*
   📅 Fri, 17 Jul 2026 00:45:05 +0000
-
-- **[Lingbot-map: A 3D foundation model for reconstructing scenes from streaming data](https://github.com/Robbyant/lingbot-map)**
-  *<p>Article URL: <a href="https://github.com/Robbyant/lingbot-map">https://github.com/Robbyant/lingbot-map</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=48941908">https://news....*
-  📅 Fri, 17 Jul 2026 00:07:49 +0000
-
-- **[My car’s OTA update broke Android Auto](https://imdanielkendall.com/the-great-software-regress-how-move-fast-and-break-things-broke-our-lives/)**
-  *<p>Article URL: <a href="https://imdanielkendall.com/the-great-software-regress-how-move-fast-and-break-things-broke-our-lives/">https://imdanielkendall.com/the-great-software-regress-how-move-fast-an...*
-  📅 Thu, 16 Jul 2026 22:29:44 +0000
-
-- **[Show HN: Mojibake – a low-level Unicode library written in C](https://mojibake.zaerl.com/)**
-  *<p>I've written Mojibake because I don't like the other Unicode libraries for Unicode support.<p>It consists of only two amalgamation files: mojibake.h and mojibake.c. I've added all the most importan...*
-  📅 Thu, 16 Jul 2026 22:29:21 +0000
-
-- **[The Little Book of Reinforcement Learning](https://github.com/alxndrTL/little-book-rl/)**
-  *<p>Article URL: <a href="https://github.com/alxndrTL/little-book-rl/">https://github.com/alxndrTL/little-book-rl/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=48941104">https...*
-  📅 Thu, 16 Jul 2026 22:27:22 +0000
 
 ### 📑 TechCrunch
 
@@ -101,16 +103,15 @@
 
 ### 📑 Dev.to
 
-- **[A Full 3D Live Weather World in One HTML File — No Frameworks, No Build Step.](https://dev.to/phoenix_analysis_593be33c/a-full-3d-live-weather-world-in-one-html-file-no-frameworks-no-build-step-4n83)**
-  *<p>Live Engine: <a href="https://bruvic62.github.io/weather-diorama/" rel="noopener noreferrer">https://bruvic62.github.io/weather-diorama/</a><br />
-The Source Code: <a href="https://github.com/bruvi...*
-  📅 Fri, 17 Jul 2026 01:31:59 +0000
+- **[ATLOCK v4 vs. Typical Third-Party Security Software: What You're Actually Trading Off](https://dev.to/akhourianmolkumar/atlock-v4-vs-typical-third-party-security-software-what-youre-actually-trading-off-52c7)**
+  *<p>🔒 ATLOCK v4 vs. Typical Third-Party Security Suites</p>
 
-- **[I built a Cloudflare Worker so you can give the public free AI, without ever getting a surprise bill](https://dev.to/mister_buds_4874bbe643dda/i-built-a-cloudflare-worker-so-you-can-give-the-public-free-ai-without-ever-getting-a-surprise-1042)**
-  *<p>I built a Cloudflare Worker so you can give the public free AI without ever getting a surprise bill</p>
+<p>TL;DR — Most "security suites" ask you to trust a company with your data, pay a subscription, and run background services you can't fully...*
+  📅 Fri, 17 Jul 2026 07:38:09 +0000
 
-<p>Every time I wanted to add an AI feature to one of my apps and let anyone try it  no logi...*
-  📅 Fri, 17 Jul 2026 01:21:58 +0000
+- **[Voice-First UX: Building the React Frontend and Web Speech Integration for BizBoost AI](https://dev.to/sufiya_shariff/voice-first-ux-building-the-react-frontend-and-web-speech-integration-for-bizboost-ai-5apg)**
+  *<p><a class="article-body-image-wrapper" href="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws...*
+  📅 Fri, 17 Jul 2026 07:31:56 +0000
 
 </details>
 
@@ -118,103 +119,103 @@ The Source Code: <a href="https://github.com/bruvi...*
 
 ### 📈 Daily Trending
 
-- **[infusionvictor/warren-buffett-jr](https://github.com/infusionvictor/warren-buffett-jr)** ⭐ 8
+- **[canonicalise/up](https://github.com/canonicalise/up)** ⭐ 14
+  ![OCaml](https://img.shields.io/badge/-OCaml-lightgrey)
+  Typed DMA buffers for OCaml userspace VFIO drivers
+
+- **[SilversmithReveal/Marvel-Rivals-Optimization](https://github.com/SilversmithReveal/Marvel-Rivals-Optimization)** ⭐ 10
   ![None](https://img.shields.io/badge/-None-lightgrey)
-  None
+  marvel rivals optimization pc — Marvel Rivals Optimization for Windows 11 & 10. Direct download for PC gamers. Boost FPS, reduce stutter, optimize settings.
 
-- **[alphaparkinc/genpark-amami-agent-analytics-skill](https://github.com/alphaparkinc/genpark-amami-agent-analytics-skill)** ⭐ 3
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  Amami built-in agent analytics estimator
+- **[DegreeWaspShackle/Ninja-Gaiden-4-Optimization](https://github.com/DegreeWaspShackle/Ninja-Gaiden-4-Optimization)** ⭐ 10
+  ![None](https://img.shields.io/badge/-None-lightgrey)
+  ninja gaiden 4 optimization pc — Ninja Gaiden 4 Optimization for Windows 11 & 10. Direct download for PC gamers. Boost FPS, reduce stutter, optimize settings.
 
-- **[alphaparkinc/genpark-dot-ai-feedback-layer-skill](https://github.com/alphaparkinc/genpark-dot-ai-feedback-layer-skill)** ⭐ 3
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  dot-like interactive feedback parser for AI outputs
+- **[CaveWalkerPanel/Rust-FPS-Boost-Fix](https://github.com/CaveWalkerPanel/Rust-FPS-Boost-Fix)** ⭐ 10
+  ![None](https://img.shields.io/badge/-None-lightgrey)
+  rust fps tweak — Rust FPS Tweak for Windows 11 & 10. Direct download for PC gamers. Boost FPS, reduce stutter, optimize settings.
 
-- **[alphaparkinc/genpark-kitforai-agent-memory-skill](https://github.com/alphaparkinc/genpark-kitforai-agent-memory-skill)** ⭐ 3
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  KitForAI multi-session agent memory retriever
+- **[pulverizedeersense49/Quick-GPU-Gaming-2026](https://github.com/pulverizedeersense49/Quick-GPU-Gaming-2026)** ⭐ 10
+  ![None](https://img.shields.io/badge/-None-lightgrey)
+  quick gpu download gaming scheduler tweak windows — Download Quick GPU Gaming for Windows 11 & 10. PC gaming performance tool with setup guide.
 
-- **[serene1491/PopLua](https://github.com/serene1491/PopLua)** ⭐ 3
-  ![C#](https://img.shields.io/badge/-C#-lightgrey)
-  PopLua is a Lua runtime for C# focused on source-generated bindings, AOT-friendly execution, and sandboxed scripts.
+- **[BakerEmbroider/Shader-Compilation-Gaming-Fix](https://github.com/BakerEmbroider/Shader-Compilation-Gaming-Fix)** ⭐ 10
+  ![None](https://img.shields.io/badge/-None-lightgrey)
+  shader compilation stutter fix gaming pc windows — Shader Compilation Gaming Fix for Windows 11 & 10. Direct download for PC gamers. Boost FPS, reduce stutter, optimize settings.
 
-- **[pizixi/llmrelay](https://github.com/pizixi/llmrelay)** ⭐ 3
-  ![Go](https://img.shields.io/badge/-Go-cyan)
-  LLM Relay 是一个轻量级 LLM 网关。它对外提供 OpenAI Chat Completions、OpenAI Responses 和 Anthropic Messages 三种接口，并可把请求路由到使用上述任一协议的上游服务。
+- **[OnyxGeneralDivider/Valorant-FPS-Boost-Fix](https://github.com/OnyxGeneralDivider/Valorant-FPS-Boost-Fix)** ⭐ 10
+  ![None](https://img.shields.io/badge/-None-lightgrey)
+  valorant fps tweak — Valorant FPS Tweak for Windows 11 & 10. Direct download for PC gamers. Boost FPS, reduce stutter, optimize settings.
 
-- **[mmeretgulyyew-sketch/Yakyn-Biz-App-Backend-Mini-project-](https://github.com/mmeretgulyyew-sketch/Yakyn-Biz-App-Backend-Mini-project-)** ⭐ 2
-  ![Go](https://img.shields.io/badge/-Go-cyan)
-  None
-
-- **[FuWan722/godot_compositor_write_depth](https://github.com/FuWan722/godot_compositor_write_depth)** ⭐ 2
-  ![GDScript](https://img.shields.io/badge/-GDScript-lightgrey)
-  None
+- **[NoonSergeantDiscover/RAM-Tweak-Gaming-Fix](https://github.com/NoonSergeantDiscover/RAM-Tweak-Gaming-Fix)** ⭐ 10
+  ![None](https://img.shields.io/badge/-None-lightgrey)
+  ram tweak gaming performance fix windows 11 — RAM Tweak Gaming Fix for Windows 11 & 10. Direct download for PC gamers. Boost FPS, reduce stutter, optimize settings.
 
 ### 📈 Weekly Trending
 
-- **[xai-org/grok-build](https://github.com/xai-org/grok-build)** ⭐ 12,455
+- **[xai-org/grok-build](https://github.com/xai-org/grok-build)** ⭐ 13,806
   ![Rust](https://img.shields.io/badge/-Rust-brown)
   SpaceXAI's coding agent harness and TUI. Fullscreen, mouse interactive, extensible.
 
-- **[Fei-Away/Codex-Dream-Skin](https://github.com/Fei-Away/Codex-Dream-Skin)** ⭐ 5,641
+- **[Fei-Away/Codex-Dream-Skin](https://github.com/Fei-Away/Codex-Dream-Skin)** ⭐ 7,361
   ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
   Codex Dream Skin
 
-- **[MDX-Tom/gpt-5.6-instruct](https://github.com/MDX-Tom/gpt-5.6-instruct)** ⭐ 1,679
+- **[MDX-Tom/gpt-5.6-instruct](https://github.com/MDX-Tom/gpt-5.6-instruct)** ⭐ 1,774
   ![Python](https://img.shields.io/badge/-Python-blue)
   A Codex CLI jailbreak prompt and test pack for gpt-5.6-sol. 针对 gpt-5.6 系列的 Codex CLI 破甲提示词与测试包。
 
-- **[littledivy/mimic](https://github.com/littledivy/mimic)** ⭐ 1,105
+- **[littledivy/mimic](https://github.com/littledivy/mimic)** ⭐ 1,116
   ![Python](https://img.shields.io/badge/-Python-blue)
   Intercept any app, then call it from Python like a library
 
-- **[pixel-point/aval](https://github.com/pixel-point/aval)** ⭐ 1,050
+- **[pixel-point/aval](https://github.com/pixel-point/aval)** ⭐ 1,100
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   A new open-source format for interactive video on the web, with a built-in state machine, frame-accurate transitions, and packed-alpha transparency.
 
-- **[CluvexStudio/Aether](https://github.com/CluvexStudio/Aether)** ⭐ 935
+- **[CluvexStudio/Aether](https://github.com/CluvexStudio/Aether)** ⭐ 969
   ![Rust](https://img.shields.io/badge/-Rust-brown)
   None
 
-- **[x4gKing/Marzban-Panel](https://github.com/x4gKing/Marzban-Panel)** ⭐ 846
+- **[x4gKing/Marzban-Panel](https://github.com/x4gKing/Marzban-Panel)** ⭐ 856
   ![Dockerfile](https://img.shields.io/badge/-Dockerfile-lightgrey)
   None
 
-- **[mereyabdenbekuly-ctrl/clodex-ide](https://github.com/mereyabdenbekuly-ctrl/clodex-ide)** ⭐ 829
+- **[mereyabdenbekuly-ctrl/clodex-ide](https://github.com/mereyabdenbekuly-ctrl/clodex-ide)** ⭐ 831
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   Local-first, zero-trust agentic IDE for verifiable autonomous software development.
 
 ### 📈 Monthly Trending
 
-- **[JustVugg/colibri](https://github.com/JustVugg/colibri)** ⭐ 15,023
+- **[JustVugg/colibri](https://github.com/JustVugg/colibri)** ⭐ 15,170
   ![C](https://img.shields.io/badge/-C-lightgrey)
   Run GLM-5.2 (744B MoE) on a 25GB-RAM consumer machine — pure C, zero deps, experts streamed from disk. Tiny engine, immense model. 🐦
 
-- **[baidu/Unlimited-OCR](https://github.com/baidu/Unlimited-OCR)** ⭐ 14,350
+- **[baidu/Unlimited-OCR](https://github.com/baidu/Unlimited-OCR)** ⭐ 14,365
   ![Python](https://img.shields.io/badge/-Python-blue)
   Unlimited OCR Works: Welcome the Era of One-shot Long-horizon Parsing.
 
-- **[xai-org/grok-build](https://github.com/xai-org/grok-build)** ⭐ 12,455
+- **[xai-org/grok-build](https://github.com/xai-org/grok-build)** ⭐ 13,806
   ![Rust](https://img.shields.io/badge/-Rust-brown)
   SpaceXAI's coding agent harness and TUI. Fullscreen, mouse interactive, extensible.
 
-- **[langchain-ai/openwiki](https://github.com/langchain-ai/openwiki)** ⭐ 11,887
+- **[langchain-ai/openwiki](https://github.com/langchain-ai/openwiki)** ⭐ 11,991
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   OpenWiki is a CLI that writes and maintains agent documentation for your codebase.
 
-- **[deepseek-ai/DeepSpec](https://github.com/deepseek-ai/DeepSpec)** ⭐ 6,677
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  DeepSpec: a full-stack codebase for training and evaluating speculative decoding algorithms
-
-- **[x4gKing/X4G](https://github.com/x4gKing/X4G)** ⭐ 5,669
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  None
-
-- **[Fei-Away/Codex-Dream-Skin](https://github.com/Fei-Away/Codex-Dream-Skin)** ⭐ 5,641
+- **[Fei-Away/Codex-Dream-Skin](https://github.com/Fei-Away/Codex-Dream-Skin)** ⭐ 7,361
   ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
   Codex Dream Skin
 
-- **[Yu9191/wloc](https://github.com/Yu9191/wloc)** ⭐ 5,227
+- **[deepseek-ai/DeepSpec](https://github.com/deepseek-ai/DeepSpec)** ⭐ 6,679
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  DeepSpec: a full-stack codebase for training and evaluating speculative decoding algorithms
+
+- **[x4gKing/X4G](https://github.com/x4gKing/X4G)** ⭐ 5,697
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  None
+
+- **[Yu9191/wloc](https://github.com/Yu9191/wloc)** ⭐ 5,303
   ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
   修改 Apple 网络定位（gs-loc）返回坐标 · 支持 Surge / Quantumult X / Loon / Stash · 快捷指令一键设置/恢复定位
 
@@ -482,49 +483,49 @@ Welcome to our newest releaser, [Stewart X Addison](https://github.com/sxa). Fut
 
 | Skill | Status |
 |-------|--------|
-| Java | 🔴 Beginner |
+| Java | 🟢 Proficient |
 | Python | 🔴 Beginner |
-| JavaScript | 🟢 Proficient |
-| TypeScript | 🟢 Proficient |
-| Go | 🟢 Proficient |
+| JavaScript | 🔴 Beginner |
+| TypeScript | ⚪ Planned |
+| Go | 🟡 Learning |
 
 ### Frameworks
 
 | Skill | Status |
 |-------|--------|
-| React | 🟡 Learning |
+| React | 🟢 Proficient |
 | Spring Boot | 🔴 Beginner |
-| Django | 🔴 Beginner |
-| Node.js | 🟢 Proficient |
-| Next.js | 🟡 Learning |
+| Django | 🟡 Learning |
+| Node.js | ⚪ Planned |
+| Next.js | ⚪ Planned |
 
 ### Cybersecurity
 
 | Skill | Status |
 |-------|--------|
 | Penetration Testing | 🔴 Beginner |
-| Web Security | 🟡 Learning |
-| Network Security | 🔴 Beginner |
-| OWASP | 🟡 Learning |
+| Web Security | 🔴 Beginner |
+| Network Security | 🟡 Learning |
+| OWASP | 🟢 Proficient |
 
 ### Ai Ml
 
 | Skill | Status |
 |-------|--------|
-| Machine Learning | 🟡 Learning |
-| Deep Learning | 🔴 Beginner |
+| Machine Learning | 🔴 Beginner |
+| Deep Learning | 🟢 Proficient |
 | NLP | 🟢 Proficient |
 | Computer Vision | 🔴 Beginner |
-| TensorFlow | 🟢 Proficient |
-| PyTorch | ⚪ Planned |
+| TensorFlow | 🔴 Beginner |
+| PyTorch | 🟡 Learning |
 
 ### Devops
 
 | Skill | Status |
 |-------|--------|
 | Docker | 🟢 Proficient |
-| Kubernetes | ⚪ Planned |
-| CI/CD | ⚪ Planned |
+| Kubernetes | 🟡 Learning |
+| CI/CD | 🔴 Beginner |
 | AWS | ⚪ Planned |
 | Azure | 🔴 Beginner |
 
@@ -533,8 +534,8 @@ Welcome to our newest releaser, [Stewart X Addison](https://github.com/sxa). Fut
 | Skill | Status |
 |-------|--------|
 | Blockchain | ⚪ Planned |
-| Web3 | 🟢 Proficient |
-| Cloud Computing | 🔴 Beginner |
+| Web3 | 🟡 Learning |
+| Cloud Computing | 🟢 Proficient |
 
 </details>
 
