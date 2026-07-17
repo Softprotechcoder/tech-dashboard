@@ -46,36 +46,40 @@
 
 ### 📑 Hacker News
 
+- **[Apple targets dozens of OpenAI employees with legal letters](https://www.ft.com/content/1b8c9d52-88a9-426b-ba47-f1811f859166)**
+  *<p>Article URL: <a href="https://www.ft.com/content/1b8c9d52-88a9-426b-ba47-f1811f859166">https://www.ft.com/content/1b8c9d52-88a9-426b-ba47-f1811f859166</a></p>
+<p>Comments URL: <a href="https://news...*
+  📅 Fri, 17 Jul 2026 12:02:39 +0000
+
+- **[Blatant AI slop just won a 25k USD DeepMind Kaggle Grand Prize](https://www.kaggle.com/competitions/kaggle-measuring-agi/discussion/724918#3498423)**
+  *<p>Article URL: <a href="https://www.kaggle.com/competitions/kaggle-measuring-agi/discussion/724918#3498423">https://www.kaggle.com/competitions/kaggle-measuring-agi/discussion/724918#3498423</a></p>
+...*
+  📅 Fri, 17 Jul 2026 11:30:00 +0000
+
+- **[Ask HN: Any AWS billing issues known? Amazon forecast of 3 billion dollars](https://news.ycombinator.com/item?id=48945681)**
+  *<p>I receive an AWS Budgets alert that my budget is exceeding the alert threshold. Threshold is 5$. Forecasted amount is listed as $3,005,575,870.47. (Yepp, right, that’s 3 billion dollars.) I haven't...*
+  📅 Fri, 17 Jul 2026 10:45:21 +0000
+
+- **[I Owe My Life to the Commodore 64](https://www.goto10retro.com/p/i-owe-my-life-to-the-commodore-64)**
+  *<p>Article URL: <a href="https://www.goto10retro.com/p/i-owe-my-life-to-the-commodore-64">https://www.goto10retro.com/p/i-owe-my-life-to-the-commodore-64</a></p>
+<p>Comments URL: <a href="https://news...*
+  📅 Fri, 17 Jul 2026 09:44:25 +0000
+
+- **[Pushinka](https://en.wikipedia.org/wiki/Pushinka)**
+  *<p>Article URL: <a href="https://en.wikipedia.org/wiki/Pushinka">https://en.wikipedia.org/wiki/Pushinka</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=48944333">https://news.yc...*
+  📅 Fri, 17 Jul 2026 07:29:55 +0000
+
 - **[EEG shows brain can simultaneous encode two speech streams](https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3003876)**
   *<p>Article URL: <a href="https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3003876">https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3003876</a></p>
 <p>Comment...*
   📅 Fri, 17 Jul 2026 05:51:10 +0000
 
-- **[Pebble Mega Update – July 2026](https://repebble.com/blog/pebble-mega-update-july-2026)**
-  *<p>Article URL: <a href="https://repebble.com/blog/pebble-mega-update-july-2026">https://repebble.com/blog/pebble-mega-update-july-2026</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/i...*
-  📅 Fri, 17 Jul 2026 03:53:38 +0000
-
-- **[How Has Roman Concrete Lasted for Millennia? 1,900-Year-Old Latrine Offers Clues](https://www.smithsonianmag.com/smart-news/how-has-roman-concrete-lasted-for-millennia-a-1900-year-old-latrine-offers-new-clues-about-the-materials-impressive-durability-180989115/)**
-  *<p>Article URL: <a href="https://www.smithsonianmag.com/smart-news/how-has-roman-concrete-lasted-for-millennia-a-1900-year-old-latrine-offers-new-clues-about-the-materials-impressive-durability-180989...*
-  📅 Fri, 17 Jul 2026 03:48:26 +0000
-
-- **[UIUC AI Teaching Assistant](https://github.com/Center-for-AI-Innovation/ai-teaching-assistant-uiuc)**
-  *<p>Article URL: <a href="https://github.com/Center-for-AI-Innovation/ai-teaching-assistant-uiuc">https://github.com/Center-for-AI-Innovation/ai-teaching-assistant-uiuc</a></p>
-<p>Comments URL: <a href...*
-  📅 Fri, 17 Jul 2026 02:23:18 +0000
-
-- **[GrapheneOS recommended for domestic abuse victims](https://privacypros.com.au/privacy-hub/articles/dv-safe-phone-australia/)**
-  *<p>Article URL: <a href="https://privacypros.com.au/privacy-hub/articles/dv-safe-phone-australia/">https://privacypros.com.au/privacy-hub/articles/dv-safe-phone-australia/</a></p>
-<p>Comments URL: <a ...*
-  📅 Fri, 17 Jul 2026 01:36:52 +0000
-
-- **[M 3.9 Experimental Explosion – 147 Km ENE of Ponce Inlet, Florida](https://earthquake.usgs.gov/earthquakes/eventpage/us7000t13l/executive)**
-  *<p>Article URL: <a href="https://earthquake.usgs.gov/earthquakes/eventpage/us7000t13l/executive">https://earthquake.usgs.gov/earthquakes/eventpage/us7000t13l/executive</a></p>
-<p>Comments URL: <a href...*
-  📅 Fri, 17 Jul 2026 00:45:05 +0000
-
 ### 📑 TechCrunch
+
+- **[Why the first GPU financiers are turning to inference chips in a $400 million deal](https://techcrunch.com/2026/07/17/why-the-first-gpu-financiers-are-turning-to-inference-chips-in-a-400-million-deal/)**
+  *A $400 million chip-backed loan points to the next wave of AI infrastructure deals....*
+  📅 Fri, 17 Jul 2026 12:00:00 +0000
 
 - **[San Francisco mayor pushes for tougher rules after the Waymo traffic fiasco](https://techcrunch.com/2026/07/16/san-francisco-mayor-pushes-for-tougher-rules-after-the-waymo-traffic-fiasco/)**
   *In the wake of a massive hours-long gridlock event, San Francisco mayor Daniel Lurie has told state regulators it's time to put more requirements on robotaxi operators like Waymo....*
@@ -97,21 +101,22 @@
   *Google is adding personalized AI avatars to Vids that let users create videos starring a digital version of themselves, alongside Gemini Omni-powered tools for generating and editing videos from promp...*
   📅 Thu, 16 Jul 2026 18:32:54 +0000
 
-- **[Roblox launches an AI-powered game-creation feature in its mobile app](https://techcrunch.com/2026/07/16/roblox-launches-an-ai-powered-game-creation-feature-in-its-mobile-app/)**
-  *Roblox's new "Build" feature lets users generate basic games using a single text prompt....*
-  📅 Thu, 16 Jul 2026 18:22:06 +0000
-
 ### 📑 Dev.to
 
-- **[ATLOCK v4 vs. Typical Third-Party Security Software: What You're Actually Trading Off](https://dev.to/akhourianmolkumar/atlock-v4-vs-typical-third-party-security-software-what-youre-actually-trading-off-52c7)**
-  *<p>🔒 ATLOCK v4 vs. Typical Third-Party Security Suites</p>
+- **[I built 50+ free browser tools that run without uploads, servers, or accounts](https://dev.to/pream_ruthishr_472bd39ed/i-built-50-free-browser-tools-that-run-without-uploads-servers-or-accounts-369h)**
+  *<h1>
+  
+  
+  I built 50+ free browser tools that run without uploads, servers, or accounts
+</h1>
 
-<p>TL;DR — Most "security suites" ask you to trust a company with your data, pay a subscription, and run background services you can't fully...*
-  📅 Fri, 17 Jul 2026 07:38:09 +0000
+<p>I spent the last few months building <strong>NexaTools</strong> — a suite of 50+ browser-based tool...*
+  📅 Fri, 17 Jul 2026 13:04:04 +0000
 
-- **[Voice-First UX: Building the React Frontend and Web Speech Integration for BizBoost AI](https://dev.to/sufiya_shariff/voice-first-ux-building-the-react-frontend-and-web-speech-integration-for-bizboost-ai-5apg)**
-  *<p><a class="article-body-image-wrapper" href="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws...*
-  📅 Fri, 17 Jul 2026 07:31:56 +0000
+- **[Structured Output Gives You Syntax. It Doesn't Give You Semantics](https://dev.to/aiexplore369zoho/structured-output-gives-you-syntax-it-doesnt-give-you-semantics-3c13)**
+  *<blockquote>
+<p><strong>TL;DR —</strong> Constrained decoding and JSON schema enforcement guarantee that model output parses — they say nothing about whether the values are true, safe, or grounded in ...*
+  📅 Fri, 17 Jul 2026 13:01:08 +0000
 
 </details>
 
@@ -119,65 +124,65 @@
 
 ### 📈 Daily Trending
 
+- **[MIgHTy-alIeN/Trading-Bot](https://github.com/MIgHTy-alIeN/Trading-Bot)** ⭐ 89
+  ![Solidity](https://img.shields.io/badge/-Solidity-lightgrey)
+  An arbitrage bot is a smart contract connected to an external automation script that controls its operation.
+
+- **[PaperMoonuu/Design-workflow-skills](https://github.com/PaperMoonuu/Design-workflow-skills)** ⭐ 30
+  ![None](https://img.shields.io/badge/-None-lightgrey)
+  None
+
+- **[TechFosters/Bookify_BVP](https://github.com/TechFosters/Bookify_BVP)** ⭐ 27
+  ![HTML](https://img.shields.io/badge/-HTML-lightgrey)
+  Bookify APP- frontend
+
+- **[619dev/guanlan](https://github.com/619dev/guanlan)** ⭐ 26
+  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
+  观澜 “观水有术，必观其澜。”  一个网页版RSS阅读器，复刻Google Reader，可以部署在Cloudflare Worker。
+
+- **[Faradworks/Pinscope](https://github.com/Faradworks/Pinscope)** ⭐ 24
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  A comprehensive datasheet-backed electrical schematic reviewer
+
+- **[aigc3d/Glob3R](https://github.com/aigc3d/Glob3R)** ⭐ 14
+  ![None](https://img.shields.io/badge/-None-lightgrey)
+  Official Repo of "Glob3R: Global Structure-from-Motion with 3D Foundation Models"
+
 - **[canonicalise/up](https://github.com/canonicalise/up)** ⭐ 14
   ![OCaml](https://img.shields.io/badge/-OCaml-lightgrey)
   Typed DMA buffers for OCaml userspace VFIO drivers
 
-- **[SilversmithReveal/Marvel-Rivals-Optimization](https://github.com/SilversmithReveal/Marvel-Rivals-Optimization)** ⭐ 10
-  ![None](https://img.shields.io/badge/-None-lightgrey)
-  marvel rivals optimization pc — Marvel Rivals Optimization for Windows 11 & 10. Direct download for PC gamers. Boost FPS, reduce stutter, optimize settings.
-
-- **[DegreeWaspShackle/Ninja-Gaiden-4-Optimization](https://github.com/DegreeWaspShackle/Ninja-Gaiden-4-Optimization)** ⭐ 10
-  ![None](https://img.shields.io/badge/-None-lightgrey)
-  ninja gaiden 4 optimization pc — Ninja Gaiden 4 Optimization for Windows 11 & 10. Direct download for PC gamers. Boost FPS, reduce stutter, optimize settings.
-
-- **[CaveWalkerPanel/Rust-FPS-Boost-Fix](https://github.com/CaveWalkerPanel/Rust-FPS-Boost-Fix)** ⭐ 10
-  ![None](https://img.shields.io/badge/-None-lightgrey)
-  rust fps tweak — Rust FPS Tweak for Windows 11 & 10. Direct download for PC gamers. Boost FPS, reduce stutter, optimize settings.
-
-- **[pulverizedeersense49/Quick-GPU-Gaming-2026](https://github.com/pulverizedeersense49/Quick-GPU-Gaming-2026)** ⭐ 10
-  ![None](https://img.shields.io/badge/-None-lightgrey)
-  quick gpu download gaming scheduler tweak windows — Download Quick GPU Gaming for Windows 11 & 10. PC gaming performance tool with setup guide.
-
-- **[BakerEmbroider/Shader-Compilation-Gaming-Fix](https://github.com/BakerEmbroider/Shader-Compilation-Gaming-Fix)** ⭐ 10
-  ![None](https://img.shields.io/badge/-None-lightgrey)
-  shader compilation stutter fix gaming pc windows — Shader Compilation Gaming Fix for Windows 11 & 10. Direct download for PC gamers. Boost FPS, reduce stutter, optimize settings.
-
-- **[OnyxGeneralDivider/Valorant-FPS-Boost-Fix](https://github.com/OnyxGeneralDivider/Valorant-FPS-Boost-Fix)** ⭐ 10
-  ![None](https://img.shields.io/badge/-None-lightgrey)
-  valorant fps tweak — Valorant FPS Tweak for Windows 11 & 10. Direct download for PC gamers. Boost FPS, reduce stutter, optimize settings.
-
-- **[NoonSergeantDiscover/RAM-Tweak-Gaming-Fix](https://github.com/NoonSergeantDiscover/RAM-Tweak-Gaming-Fix)** ⭐ 10
-  ![None](https://img.shields.io/badge/-None-lightgrey)
-  ram tweak gaming performance fix windows 11 — RAM Tweak Gaming Fix for Windows 11 & 10. Direct download for PC gamers. Boost FPS, reduce stutter, optimize settings.
+- **[infusionvictor/warren-buffett-jr](https://github.com/infusionvictor/warren-buffett-jr)** ⭐ 10
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  None
 
 ### 📈 Weekly Trending
 
-- **[xai-org/grok-build](https://github.com/xai-org/grok-build)** ⭐ 13,806
+- **[xai-org/grok-build](https://github.com/xai-org/grok-build)** ⭐ 14,858
   ![Rust](https://img.shields.io/badge/-Rust-brown)
   SpaceXAI's coding agent harness and TUI. Fullscreen, mouse interactive, extensible.
 
-- **[Fei-Away/Codex-Dream-Skin](https://github.com/Fei-Away/Codex-Dream-Skin)** ⭐ 7,361
+- **[Fei-Away/Codex-Dream-Skin](https://github.com/Fei-Away/Codex-Dream-Skin)** ⭐ 8,238
   ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
   Codex Dream Skin
 
-- **[MDX-Tom/gpt-5.6-instruct](https://github.com/MDX-Tom/gpt-5.6-instruct)** ⭐ 1,774
+- **[MDX-Tom/gpt-5.6-instruct](https://github.com/MDX-Tom/gpt-5.6-instruct)** ⭐ 1,830
   ![Python](https://img.shields.io/badge/-Python-blue)
   A Codex CLI jailbreak prompt and test pack for gpt-5.6-sol. 针对 gpt-5.6 系列的 Codex CLI 破甲提示词与测试包。
 
-- **[littledivy/mimic](https://github.com/littledivy/mimic)** ⭐ 1,116
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  Intercept any app, then call it from Python like a library
-
-- **[pixel-point/aval](https://github.com/pixel-point/aval)** ⭐ 1,100
+- **[pixel-point/aval](https://github.com/pixel-point/aval)** ⭐ 1,128
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   A new open-source format for interactive video on the web, with a built-in state machine, frame-accurate transitions, and packed-alpha transparency.
 
-- **[CluvexStudio/Aether](https://github.com/CluvexStudio/Aether)** ⭐ 969
+- **[littledivy/mimic](https://github.com/littledivy/mimic)** ⭐ 1,126
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  Intercept any app, then call it from Python like a library
+
+- **[CluvexStudio/Aether](https://github.com/CluvexStudio/Aether)** ⭐ 1,017
   ![Rust](https://img.shields.io/badge/-Rust-brown)
   None
 
-- **[x4gKing/Marzban-Panel](https://github.com/x4gKing/Marzban-Panel)** ⭐ 856
+- **[x4gKing/Marzban-Panel](https://github.com/x4gKing/Marzban-Panel)** ⭐ 877
   ![Dockerfile](https://img.shields.io/badge/-Dockerfile-lightgrey)
   None
 
@@ -187,35 +192,35 @@
 
 ### 📈 Monthly Trending
 
-- **[JustVugg/colibri](https://github.com/JustVugg/colibri)** ⭐ 15,170
+- **[JustVugg/colibri](https://github.com/JustVugg/colibri)** ⭐ 15,313
   ![C](https://img.shields.io/badge/-C-lightgrey)
   Run GLM-5.2 (744B MoE) on a 25GB-RAM consumer machine — pure C, zero deps, experts streamed from disk. Tiny engine, immense model. 🐦
 
-- **[baidu/Unlimited-OCR](https://github.com/baidu/Unlimited-OCR)** ⭐ 14,365
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  Unlimited OCR Works: Welcome the Era of One-shot Long-horizon Parsing.
-
-- **[xai-org/grok-build](https://github.com/xai-org/grok-build)** ⭐ 13,806
+- **[xai-org/grok-build](https://github.com/xai-org/grok-build)** ⭐ 14,859
   ![Rust](https://img.shields.io/badge/-Rust-brown)
   SpaceXAI's coding agent harness and TUI. Fullscreen, mouse interactive, extensible.
 
-- **[langchain-ai/openwiki](https://github.com/langchain-ai/openwiki)** ⭐ 11,991
+- **[baidu/Unlimited-OCR](https://github.com/baidu/Unlimited-OCR)** ⭐ 14,380
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  Unlimited OCR Works: Welcome the Era of One-shot Long-horizon Parsing.
+
+- **[langchain-ai/openwiki](https://github.com/langchain-ai/openwiki)** ⭐ 12,053
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   OpenWiki is a CLI that writes and maintains agent documentation for your codebase.
 
-- **[Fei-Away/Codex-Dream-Skin](https://github.com/Fei-Away/Codex-Dream-Skin)** ⭐ 7,361
+- **[Fei-Away/Codex-Dream-Skin](https://github.com/Fei-Away/Codex-Dream-Skin)** ⭐ 8,238
   ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
   Codex Dream Skin
 
-- **[deepseek-ai/DeepSpec](https://github.com/deepseek-ai/DeepSpec)** ⭐ 6,679
+- **[deepseek-ai/DeepSpec](https://github.com/deepseek-ai/DeepSpec)** ⭐ 6,682
   ![Python](https://img.shields.io/badge/-Python-blue)
   DeepSpec: a full-stack codebase for training and evaluating speculative decoding algorithms
 
-- **[x4gKing/X4G](https://github.com/x4gKing/X4G)** ⭐ 5,697
+- **[x4gKing/X4G](https://github.com/x4gKing/X4G)** ⭐ 5,745
   ![Python](https://img.shields.io/badge/-Python-blue)
   None
 
-- **[Yu9191/wloc](https://github.com/Yu9191/wloc)** ⭐ 5,303
+- **[Yu9191/wloc](https://github.com/Yu9191/wloc)** ⭐ 5,354
   ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
   修改 Apple 网络定位（gs-loc）返回坐标 · 支持 Surge / Quantumult X / Loon / Stash · 快捷指令一键设置/恢复定位
 
@@ -484,29 +489,29 @@ Welcome to our newest releaser, [Stewart X Addison](https://github.com/sxa). Fut
 | Skill | Status |
 |-------|--------|
 | Java | 🟢 Proficient |
-| Python | 🔴 Beginner |
-| JavaScript | 🔴 Beginner |
-| TypeScript | ⚪ Planned |
-| Go | 🟡 Learning |
+| Python | 🟢 Proficient |
+| JavaScript | 🟢 Proficient |
+| TypeScript | 🟢 Proficient |
+| Go | 🟢 Proficient |
 
 ### Frameworks
 
 | Skill | Status |
 |-------|--------|
-| React | 🟢 Proficient |
-| Spring Boot | 🔴 Beginner |
-| Django | 🟡 Learning |
-| Node.js | ⚪ Planned |
-| Next.js | ⚪ Planned |
+| React | 🔴 Beginner |
+| Spring Boot | 🟡 Learning |
+| Django | ⚪ Planned |
+| Node.js | 🟡 Learning |
+| Next.js | 🔴 Beginner |
 
 ### Cybersecurity
 
 | Skill | Status |
 |-------|--------|
-| Penetration Testing | 🔴 Beginner |
+| Penetration Testing | 🟢 Proficient |
 | Web Security | 🔴 Beginner |
 | Network Security | 🟡 Learning |
-| OWASP | 🟢 Proficient |
+| OWASP | 🟡 Learning |
 
 ### Ai Ml
 
@@ -516,26 +521,26 @@ Welcome to our newest releaser, [Stewart X Addison](https://github.com/sxa). Fut
 | Deep Learning | 🟢 Proficient |
 | NLP | 🟢 Proficient |
 | Computer Vision | 🔴 Beginner |
-| TensorFlow | 🔴 Beginner |
-| PyTorch | 🟡 Learning |
+| TensorFlow | 🟢 Proficient |
+| PyTorch | 🔴 Beginner |
 
 ### Devops
 
 | Skill | Status |
 |-------|--------|
-| Docker | 🟢 Proficient |
+| Docker | ⚪ Planned |
 | Kubernetes | 🟡 Learning |
 | CI/CD | 🔴 Beginner |
-| AWS | ⚪ Planned |
-| Azure | 🔴 Beginner |
+| AWS | 🟡 Learning |
+| Azure | ⚪ Planned |
 
 ### Other
 
 | Skill | Status |
 |-------|--------|
-| Blockchain | ⚪ Planned |
-| Web3 | 🟡 Learning |
-| Cloud Computing | 🟢 Proficient |
+| Blockchain | 🟢 Proficient |
+| Web3 | 🟢 Proficient |
+| Cloud Computing | ⚪ Planned |
 
 </details>
 
