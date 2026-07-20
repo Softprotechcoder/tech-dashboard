@@ -46,35 +46,43 @@
 
 ### 📑 Hacker News
 
-- **[EU Exempts Apple Watch and AirPods from Battery Removal Requirements](https://mjtsai.com/blog/2026/07/17/eu-exempts-apple-watch-and-airpods-from-battery-removal-requirement/)**
-  *<p>Article URL: <a href="https://mjtsai.com/blog/2026/07/17/eu-exempts-apple-watch-and-airpods-from-battery-removal-requirement/">https://mjtsai.com/blog/2026/07/17/eu-exempts-apple-watch-and-airpods-...*
-  📅 Mon, 20 Jul 2026 07:10:30 +0000
+- **[Hacker wipes Romania's land registry database](https://news.risky.biz/risky-bulletin-hacker-wipes-romanias-entire-land-registry-database/)**
+  *<p>Article URL: <a href="https://news.risky.biz/risky-bulletin-hacker-wipes-romanias-entire-land-registry-database/">https://news.risky.biz/risky-bulletin-hacker-wipes-romanias-entire-land-registry-da...*
+  📅 Mon, 20 Jul 2026 13:28:33 +0000
 
-- **[How proprietary formats have become Microsoft’s main tool for lock-in](https://blog.documentfoundation.org/blog/2026/07/17/microsofts-main-tool-for-lock-in/)**
-  *<p>Article URL: <a href="https://blog.documentfoundation.org/blog/2026/07/17/microsofts-main-tool-for-lock-in/">https://blog.documentfoundation.org/blog/2026/07/17/microsofts-main-tool-for-lock-in/</a...*
-  📅 Mon, 20 Jul 2026 04:49:47 +0000
+- **[Simple Invoices. Faster Payments](https://duely-44998.bubbleapps.io/)**
+  *<p>Article URL: <a href="https://duely-44998.bubbleapps.io/">https://duely-44998.bubbleapps.io/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=48978454">https://news.ycombinato...*
+  📅 Mon, 20 Jul 2026 13:16:03 +0000
 
-- **[Xiaomi-Robotics-1](https://robotics.xiaomi.com/xiaomi-robotics-1.html)**
-  *<p>Article URL: <a href="https://robotics.xiaomi.com/xiaomi-robotics-1.html">https://robotics.xiaomi.com/xiaomi-robotics-1.html</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=4...*
-  📅 Mon, 20 Jul 2026 04:45:15 +0000
+- **[Inertia-1: An Open Exploration to a Unified Motion Foundation Model](https://yang-ai-lab.github.io/Inertia-1/)**
+  *<p>Article URL: <a href="https://yang-ai-lab.github.io/Inertia-1/">https://yang-ai-lab.github.io/Inertia-1/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=48978388">https://new...*
+  📅 Mon, 20 Jul 2026 13:11:12 +0000
 
-- **[LoRA Speedrun – a public wall-clock leaderboard for fine-tuning techniques](https://github.com/Saivineeth147/lora-speedrun)**
-  *<p>Article URL: <a href="https://github.com/Saivineeth147/lora-speedrun">https://github.com/Saivineeth147/lora-speedrun</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=48974325"...*
-  📅 Mon, 20 Jul 2026 04:24:48 +0000
+- **[Codex is wearing out our devices](https://old.reddit.com/r/codex/comments/1v0m3lt/codex_is_wearing_out_our_devices/)**
+  *<p>Article URL: <a href="https://old.reddit.com/r/codex/comments/1v0m3lt/codex_is_wearing_out_our_devices/">https://old.reddit.com/r/codex/comments/1v0m3lt/codex_is_wearing_out_our_devices/</a></p>
+<p...*
+  📅 Mon, 20 Jul 2026 13:04:41 +0000
 
-- **[Claude Fable produced a counterexample to the Jacobian Conjecture](https://xcancel.com/__alpoge__/status/2079028340955197566)**
-  *<p>Article URL: <a href="https://xcancel.com/__alpoge__/status/2079028340955197566">https://xcancel.com/__alpoge__/status/2079028340955197566</a></p>
-<p>Comments URL: <a href="https://news.ycombinator...*
-  📅 Mon, 20 Jul 2026 02:51:16 +0000
+- **[Stop Using OpenCode](https://wren.wtf/shower-thoughts/stop-using-opencode/)**
+  *<p>Article URL: <a href="https://wren.wtf/shower-thoughts/stop-using-opencode/">https://wren.wtf/shower-thoughts/stop-using-opencode/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/ite...*
+  📅 Mon, 20 Jul 2026 12:45:55 +0000
 
-- **[Moonshine: Lets you stream games from your PC to any device running Moonlight](https://github.com/hgaiser/moonshine)**
-  *<p>Article URL: <a href="https://github.com/hgaiser/moonshine">https://github.com/hgaiser/moonshine</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=48972970">https://news.ycombi...*
-  📅 Mon, 20 Jul 2026 00:16:50 +0000
+- **[The EU is about to sell our most sensitive data to the US for visa-free travel](https://edri.org/our-work/the-eu-is-about-to-sell-our-most-sensitive-data-to-the-us-for-visa-free-travel/)**
+  *<p>Article URL: <a href="https://edri.org/our-work/the-eu-is-about-to-sell-our-most-sensitive-data-to-the-us-for-visa-free-travel/">https://edri.org/our-work/the-eu-is-about-to-sell-our-most-sensitive...*
+  📅 Mon, 20 Jul 2026 12:14:08 +0000
 
 ### 📑 TechCrunch
+
+- **[Hugging Face confirms breach affected internal datasets and credentials, urges users to take action](https://techcrunch.com/2026/07/20/hugging-face-confirms-breach-affected-internal-datasets-and-credentials-urges-users-to-take-action/)**
+  *Hugging Face is urging users to rotate any access tokens stored on the platform and review account activity....*
+  📅 Mon, 20 Jul 2026 12:39:28 +0000
+
+- **[StrictlyVC returns to New York City September 10 to celebrate a huge year for the city’s startup community](https://techcrunch.com/2026/07/20/strictlyvc-returns-to-new-york-city-september-10-to-celebrate-a-huge-year-for-the-citys-startup-community/)**
+  *For the first time since 2024, StrictlyVC is coming back to New York City — and we're bringing the kind of access you’d expect from an under-wraps event to the whole startup, VC, and dealmaking commun...*
+  📅 Mon, 20 Jul 2026 12:30:00 +0000
 
 - **[Netflix paid $587M for Ben Affleck’s AI filmmaking startup](https://techcrunch.com/2026/07/19/netflix-paid-587m-for-ben-afflecks-ai-filmmaking-startup/)**
   *Netflix revealed that it paid $587 million in cash for InterPositive, a startup co-founded by Ben Affleck....*
@@ -85,30 +93,36 @@
   📅 Sun, 19 Jul 2026 21:16:07 +0000
 
 - **[Can an Apple lawsuit derail OpenAI’s hardware plans?](https://techcrunch.com/2026/07/19/can-an-apple-lawsuit-derail-openais-hardware-plans/)**
-  *On the latest episode of Equity, we debate whether Apple's lawsuit will cast over OpenAi's much-discussed plans to get into hardware and go public....*
+  *On the latest episode of Equity, we debate whether Apple's lawsuit will cast a shadow over OpenAi's much-discussed plans to get into hardware and go public....*
   📅 Sun, 19 Jul 2026 19:24:45 +0000
 
 - **[TechCrunch Mobility: The battle over robotaxi rules](https://techcrunch.com/2026/07/19/techcrunch-mobility-the-battle-over-robotaxi-rules/)**
   *Welcome back to TechCrunch Mobility, your hub for the future of transportation and now, more than ever, how AI is playing a part....*
   📅 Sun, 19 Jul 2026 16:05:00 +0000
 
-- **[‘Odyssey’ director Christopher Nolan calls AI an obvious ‘Trojan horse’](https://techcrunch.com/2026/07/19/odyssey-director-christopher-nolan-calls-ai-an-obvious-trojan-horse/)**
-  *"Everybody knows the Greeks are inside."...*
-  📅 Sun, 19 Jul 2026 14:52:08 +0000
-
-- **[Nonprofit Current AI is racing to build the World Wide Web of AI, free for all](https://techcrunch.com/2026/07/19/nonprofit-current-ai-is-racing-to-build-the-world-wide-web-of-ai-free-for-all/)**
-  *Current AI, a non-profit building AI that leaves no one culture behind, has made remarkable progress across devices, AI chat and more....*
-  📅 Sun, 19 Jul 2026 14:00:00 +0000
-
 ### 📑 Dev.to
 
-- **[One env flag that strips affiliate CTAs for AdSense review — without touching code](https://dev.to/morinaga/one-env-flag-that-strips-affiliate-ctas-for-adsense-review-without-touching-code-2136)**
-  *<p>After <a href="https://dev.to/articles/accidental-low-value-signals-adsense-four-rejections">four AdSense rejections</a>, I did a more careful read of what the ossfind.com pages looked like to a hu...*
-  📅 Mon, 20 Jul 2026 08:34:57 +0000
+- **[Running an AI Agent 24/7 for Under $2/Day: The Cost Breakdown No One Talks About](https://dev.to/hermesxclawctrl/running-an-ai-agent-247-for-under-2day-the-cost-breakdown-no-one-talks-about-n28)**
+  *<h1>
+  
+  
+  Running an AI Agent 24/7 for Under $2/Day: The Complete Cost Breakdown
+</h1>
 
-- **[How I built Bluesky summary cards in Python — YAML frontmatter to 1080 1350 PNG](https://dev.to/morinaga/how-i-built-bluesky-summary-cards-in-python-yaml-frontmatter-to-1080x1350-png-1p7d)**
-  *<p>The standard article OG image I generate for <a href="https://aiappdex.com" rel="noopener noreferrer">aiappdex.com</a> is 1200×630 — the landscape aspect ratio that works well on Twitter, Discord, ...*
-  📅 Mon, 20 Jul 2026 08:34:52 +0000
+<p>When I tell people my AI agent has been running autonomously for weeks — searching bounties, writing artic...*
+  📅 Mon, 20 Jul 2026 13:45:26 +0000
+
+- **[Why 90% of AI Automations Break in Production (Lessons From Building a Real AI Workflow)](https://dev.to/bilalmez/why-90-of-ai-automations-break-in-production-lessons-from-building-a-real-ai-workflow-2ap9)**
+  *<h3>
+  
+  
+  <strong>Building an AI demo today is easy.</strong>
+</h3>
+
+<p>Connect OpenAI to n8n or Make, write a prompt, click <strong>Run</strong>, and everything looks impressive.</p>
+
+<p>That’s ex...*
+  📅 Mon, 20 Jul 2026 13:45:22 +0000
 
 </details>
 
@@ -120,99 +134,99 @@
   ![Rust](https://img.shields.io/badge/-Rust-brown)
   None
 
-- **[liangdabiao/stem-illustration-skill](https://github.com/liangdabiao/stem-illustration-skill)** ⭐ 26
+- **[frank890417/open-dictate](https://github.com/frank890417/open-dictate)** ⭐ 31
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  Local-first Traditional Chinese dictation for macOS
+
+- **[liangdabiao/stem-illustration-skill](https://github.com/liangdabiao/stem-illustration-skill)** ⭐ 27
   ![Python](https://img.shields.io/badge/-Python-blue)
   面向 STEM（科学、技术、工程、数学）领域的 AI 图像生成 Skill。  生成科研示意图、教学插图、技术架构图等概念性图像，覆盖生物医学、化学、物理、工程、数学 6 大学科。  功能特性 24 个场景模板：信号通路、实验流程、细胞结构、概念信息图、学术海报、机制图、质粒图、机器学习架构等 6 大学科适配：生命科学/医学/化学/物理/工程/数学 4 种风格变体：academic / textbook / infographic / 3d-render
 
-- **[frank890417/open-dictate](https://github.com/frank890417/open-dictate)** ⭐ 14
-  ![Swift](https://img.shields.io/badge/-Swift-lightgrey)
-  Local-first Traditional Chinese dictation for macOS
-
-- **[guoyixing/Llm-Qa](https://github.com/guoyixing/Llm-Qa)** ⭐ 9
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  None
-
-- **[gnhen/midscroll](https://github.com/gnhen/midscroll)** ⭐ 9
+- **[gnhen/midscroll](https://github.com/gnhen/midscroll)** ⭐ 25
   ![Python](https://img.shields.io/badge/-Python-blue)
   FOSS Middle Mouse Scroll replacement for Linux
 
-- **[ashrafulalamasad/codeforces-solutions](https://github.com/ashrafulalamasad/codeforces-solutions)** ⭐ 8
-  ![C++](https://img.shields.io/badge/-C++-pink)
-  A collection of my accepted C++ solutions to Codeforces problems, including contest submissions, problemset practice, and Assiut University Newcomers training sheets.
+- **[yokel1121/muyang-handdrawn-video](https://github.com/yokel1121/muyang-handdrawn-video)** ⭐ 24
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  None
 
-- **[Danielreedyel/btc-node-tools](https://github.com/Danielreedyel/btc-node-tools)** ⭐ 7
+- **[deancureton/jacobian](https://github.com/deancureton/jacobian)** ⭐ 21
+  ![Lean](https://img.shields.io/badge/-Lean-lightgrey)
+  None
+
+- **[oil-oil/oil-visual](https://github.com/oil-oil/oil-visual)** ⭐ 17
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  A manga-ink illustration style for clear visual explanations with Codex
+
+- **[Danielreedyel/btc-node-tools](https://github.com/Danielreedyel/btc-node-tools)** ⭐ 16
   ![C++](https://img.shields.io/badge/-C++-pink)
   Lightweight command-line utilities for inspecting Bitcoin blockchain data, decoding block headers, validating hashes and analyzing peer-to-peer network information for educational and research purposes.
 
-- **[Danielreedyel/block-parser](https://github.com/Danielreedyel/block-parser)** ⭐ 7
-  ![C++](https://img.shields.io/badge/-C++-pink)
-  A lightweight blockchain block parser written in modern C++ that reads raw block files, extracts header information, verifies hashes, decodes transactions and provides a simple command-line interface for blockchain research.
-
 ### 📈 Weekly Trending
 
-- **[xai-org/grok-build](https://github.com/xai-org/grok-build)** ⭐ 20,413
+- **[xai-org/grok-build](https://github.com/xai-org/grok-build)** ⭐ 20,595
   ![Rust](https://img.shields.io/badge/-Rust-brown)
   SpaceXAI's coding agent harness and TUI. Fullscreen, mouse interactive, extensible.
 
-- **[Fei-Away/Codex-Dream-Skin](https://github.com/Fei-Away/Codex-Dream-Skin)** ⭐ 10,788
+- **[Fei-Away/Codex-Dream-Skin](https://github.com/Fei-Away/Codex-Dream-Skin)** ⭐ 10,986
   ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
   Codex Dream Skin
 
-- **[CluvexStudio/Aether](https://github.com/CluvexStudio/Aether)** ⭐ 1,335
+- **[CluvexStudio/Aether](https://github.com/CluvexStudio/Aether)** ⭐ 1,365
   ![Rust](https://img.shields.io/badge/-Rust-brown)
   None
 
-- **[tandpfun/wardrobe](https://github.com/tandpfun/wardrobe)** ⭐ 1,173
+- **[tandpfun/wardrobe](https://github.com/tandpfun/wardrobe)** ⭐ 1,189
   ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
   Your clothes, extracted and organized with gpt-image.
 
-- **[nethical6/conversation-steganography](https://github.com/nethical6/conversation-steganography)** ⭐ 834
+- **[nethical6/conversation-steganography](https://github.com/nethical6/conversation-steganography)** ⭐ 850
   ![Go](https://img.shields.io/badge/-Go-cyan)
   Use LLMs to hide messages inside normal looking conversations
 
-- **[pablostanley/yoinks](https://github.com/pablostanley/yoinks)** ⭐ 806
+- **[pablostanley/yoinks](https://github.com/pablostanley/yoinks)** ⭐ 824
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   yoink any video from your terminal. no shady ads.
 
-- **[hoainho/img2threejs](https://github.com/hoainho/img2threejs)** ⭐ 645
+- **[hoainho/img2threejs](https://github.com/hoainho/img2threejs)** ⭐ 746
   ![Python](https://img.shields.io/badge/-Python-blue)
   Rebuild the object in a reference image as a code-only, procedural, quality-gated, animation-ready Three.js model. Token-efficient image-to-3D.
 
-- **[MatinSenPai/Aether-GUI](https://github.com/MatinSenPai/Aether-GUI)** ⭐ 633
-  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
-  One-click desktop GUI for the Aether censorship-circumvention tunnel — Tauri v2, React 19, Rust
+- **[v-modal/vmodal_sdk_flutter](https://github.com/v-modal/vmodal_sdk_flutter)** ⭐ 644
+  ![Dart](https://img.shields.io/badge/-Dart-lightgrey)
+  V- Modal AI: Search anything anywhere SDK Flutter
 
 ### 📈 Monthly Trending
 
-- **[xai-org/grok-build](https://github.com/xai-org/grok-build)** ⭐ 20,413
+- **[xai-org/grok-build](https://github.com/xai-org/grok-build)** ⭐ 20,595
   ![Rust](https://img.shields.io/badge/-Rust-brown)
   SpaceXAI's coding agent harness and TUI. Fullscreen, mouse interactive, extensible.
 
-- **[JustVugg/colibri](https://github.com/JustVugg/colibri)** ⭐ 16,603
+- **[JustVugg/colibri](https://github.com/JustVugg/colibri)** ⭐ 16,694
   ![C](https://img.shields.io/badge/-C-lightgrey)
   Run GLM-5.2 (744B MoE) on a 25GB-RAM consumer machine — pure C, zero deps, experts streamed from disk. Tiny engine, immense model. 🐦
 
-- **[langchain-ai/openwiki](https://github.com/langchain-ai/openwiki)** ⭐ 12,542
+- **[langchain-ai/openwiki](https://github.com/langchain-ai/openwiki)** ⭐ 12,574
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   OpenWiki is a CLI that writes and maintains agent documentation for your codebase.
 
-- **[Fei-Away/Codex-Dream-Skin](https://github.com/Fei-Away/Codex-Dream-Skin)** ⭐ 10,788
+- **[Fei-Away/Codex-Dream-Skin](https://github.com/Fei-Away/Codex-Dream-Skin)** ⭐ 10,986
   ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
   Codex Dream Skin
 
-- **[deepseek-ai/DeepSpec](https://github.com/deepseek-ai/DeepSpec)** ⭐ 6,701
+- **[deepseek-ai/DeepSpec](https://github.com/deepseek-ai/DeepSpec)** ⭐ 6,702
   ![Python](https://img.shields.io/badge/-Python-blue)
   DeepSpec: a full-stack codebase for training and evaluating speculative decoding algorithms
 
-- **[x4gKing/X4G](https://github.com/x4gKing/X4G)** ⭐ 5,898
+- **[x4gKing/X4G](https://github.com/x4gKing/X4G)** ⭐ 5,951
   ![Python](https://img.shields.io/badge/-Python-blue)
   None
 
-- **[Yu9191/wloc](https://github.com/Yu9191/wloc)** ⭐ 5,797
+- **[Yu9191/wloc](https://github.com/Yu9191/wloc)** ⭐ 5,821
   ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
   修改 Apple 网络定位（gs-loc）返回坐标 · 支持 Surge / Quantumult X / Loon / Stash · 快捷指令一键设置/恢复定位
 
-- **[elder-plinius/T3MP3ST](https://github.com/elder-plinius/T3MP3ST)** ⭐ 5,016
+- **[elder-plinius/T3MP3ST](https://github.com/elder-plinius/T3MP3ST)** ⭐ 5,024
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   autonomous red teaming platform; multi-agent offensive-security meta-harness
 
@@ -480,41 +494,41 @@ Welcome to our newest releaser, [Stewart X Addison](https://github.com/sxa). Fut
 
 | Skill | Status |
 |-------|--------|
-| Java | 🟢 Proficient |
+| Java | 🟡 Learning |
 | Python | 🟢 Proficient |
 | JavaScript | 🔴 Beginner |
-| TypeScript | ⚪ Planned |
+| TypeScript | 🔴 Beginner |
 | Go | 🟡 Learning |
 
 ### Frameworks
 
 | Skill | Status |
 |-------|--------|
-| React | 🟢 Proficient |
-| Spring Boot | 🔴 Beginner |
-| Django | ⚪ Planned |
-| Node.js | 🟢 Proficient |
-| Next.js | 🔴 Beginner |
+| React | 🔴 Beginner |
+| Spring Boot | 🟢 Proficient |
+| Django | 🟢 Proficient |
+| Node.js | ⚪ Planned |
+| Next.js | 🟡 Learning |
 
 ### Cybersecurity
 
 | Skill | Status |
 |-------|--------|
-| Penetration Testing | 🟡 Learning |
+| Penetration Testing | 🟢 Proficient |
 | Web Security | 🔴 Beginner |
-| Network Security | 🟡 Learning |
-| OWASP | 🟢 Proficient |
+| Network Security | ⚪ Planned |
+| OWASP | 🟡 Learning |
 
 ### Ai Ml
 
 | Skill | Status |
 |-------|--------|
-| Machine Learning | 🟡 Learning |
-| Deep Learning | 🔴 Beginner |
-| NLP | 🟡 Learning |
-| Computer Vision | 🟡 Learning |
-| TensorFlow | 🔴 Beginner |
-| PyTorch | 🟡 Learning |
+| Machine Learning | 🔴 Beginner |
+| Deep Learning | ⚪ Planned |
+| NLP | ⚪ Planned |
+| Computer Vision | ⚪ Planned |
+| TensorFlow | 🟢 Proficient |
+| PyTorch | ⚪ Planned |
 
 ### Devops
 
@@ -522,16 +536,16 @@ Welcome to our newest releaser, [Stewart X Addison](https://github.com/sxa). Fut
 |-------|--------|
 | Docker | 🟡 Learning |
 | Kubernetes | 🟡 Learning |
-| CI/CD | 🟡 Learning |
-| AWS | 🟢 Proficient |
-| Azure | 🟡 Learning |
+| CI/CD | 🔴 Beginner |
+| AWS | 🟡 Learning |
+| Azure | 🔴 Beginner |
 
 ### Other
 
 | Skill | Status |
 |-------|--------|
-| Blockchain | ⚪ Planned |
-| Web3 | 🔴 Beginner |
+| Blockchain | 🔴 Beginner |
+| Web3 | 🟢 Proficient |
 | Cloud Computing | 🟡 Learning |
 
 </details>
