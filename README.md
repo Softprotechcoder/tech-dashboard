@@ -46,33 +46,33 @@
 
 ### 📑 Hacker News
 
-- **[Flock Credibility Lost as It Repeatedly Lies to City Councils, Police, & Public](https://www.aclu.org/news/privacy-technology/tracking-alpr-cameras/flock-safety-credibility-lost-as-it-repeatedly-lies-to-city-councils-police-departments-and-public-across-the-country)**
-  *<p>Article URL: <a href="https://www.aclu.org/news/privacy-technology/tracking-alpr-cameras/flock-safety-credibility-lost-as-it-repeatedly-lies-to-city-councils-police-departments-and-public-across-th...*
-  📅 Tue, 21 Jul 2026 00:33:53 +0000
+- **[Linux kernel will support $ORIGIN, sort of](https://fzakaria.com/2026/07/20/linux-kernel-will-support-origin-sort-of)**
+  *<p>Article URL: <a href="https://fzakaria.com/2026/07/20/linux-kernel-will-support-origin-sort-of">https://fzakaria.com/2026/07/20/linux-kernel-will-support-origin-sort-of</a></p>
+<p>Comments URL: <a ...*
+  📅 Tue, 21 Jul 2026 06:29:22 +0000
 
-- **[Jellyfin founder Andrew leaves team](https://forum.jellyfin.org/t-project-leadership-changes)**
-  *<p>Article URL: <a href="https://forum.jellyfin.org/t-project-leadership-changes">https://forum.jellyfin.org/t-project-leadership-changes</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com...*
-  📅 Mon, 20 Jul 2026 23:15:41 +0000
+- **[Show HN: Ex Situ – Open-source spatial index of displaced cultural artifacts](https://exsitu.app/map)**
+  *<p>Hi, I designed and developed a spatial index that maps museum artefacts as connecting arcs/hyperlinks from their origin site to institutional location/sources. The Index specifically looks at weste...*
+  📅 Tue, 21 Jul 2026 04:48:32 +0000
 
-- **[Opaque, Interoperable Passkey Records (and a Go API)](https://words.filippo.io/passkey-record/)**
-  *<p>Article URL: <a href="https://words.filippo.io/passkey-record/">https://words.filippo.io/passkey-record/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=48985956">https://new...*
-  📅 Mon, 20 Jul 2026 23:00:29 +0000
+- **[Five US tech giants' hidden debts soar to $1.65T on opaque AI funding](https://asia.nikkei.com/business/technology/five-us-tech-giants-hidden-debts-soar-to-1.65tn-on-opaque-ai-funding)**
+  *<p>Article URL: <a href="https://asia.nikkei.com/business/technology/five-us-tech-giants-hidden-debts-soar-to-1.65tn-on-opaque-ai-funding">https://asia.nikkei.com/business/technology/five-us-tech-gian...*
+  📅 Tue, 21 Jul 2026 03:56:03 +0000
 
-- **[I wrote an bash enumerator because I was sick of xargs](https://numerlab.org/2025/07/20/bashumerate-enumerator/)**
-  *<p>Article URL: <a href="https://numerlab.org/2025/07/20/bashumerate-enumerator/">https://numerlab.org/2025/07/20/bashumerate-enumerator/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com...*
-  📅 Mon, 20 Jul 2026 20:12:19 +0000
+- **[Running Doom on Our Custom CPU and Going Viral](https://www.armaangomes.com/blogs/doom/)**
+  *<p>Article URL: <a href="https://www.armaangomes.com/blogs/doom/">https://www.armaangomes.com/blogs/doom/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=48987846">https://news....*
+  📅 Tue, 21 Jul 2026 03:54:16 +0000
 
-- **[Show HN: Immersive Gaussian Splat tour of grace cathedral, San Francisco](https://vincentwoo.com/3d/grace_cathedral/)**
-  *<p>Article URL: <a href="https://vincentwoo.com/3d/grace_cathedral/">https://vincentwoo.com/3d/grace_cathedral/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=48984254">https:/...*
-  📅 Mon, 20 Jul 2026 20:10:44 +0000
+- **[A Koi Pond Mosaic Made from 10 Pounds of 3D Printer Waste](https://www.instructables.com/A-Koi-Pond-Mosaic-Made-From-10-Pounds-of-3D-Printe/)**
+  *<p>Article URL: <a href="https://www.instructables.com/A-Koi-Pond-Mosaic-Made-From-10-Pounds-of-3D-Printe/">https://www.instructables.com/A-Koi-Pond-Mosaic-Made-From-10-Pounds-of-3D-Printe/</a></p>
+<p...*
+  📅 Tue, 21 Jul 2026 03:52:05 +0000
 
-- **[The Power of Awareness: Overcoming Surveillance Capitalism](https://www.scottrlarson.com/presentations/overcoming-surveillance-capitalism-with-awareness/)**
-  *<p>Article URL: <a href="https://www.scottrlarson.com/presentations/overcoming-surveillance-capitalism-with-awareness/">https://www.scottrlarson.com/presentations/overcoming-surveillance-capitalism-wi...*
-  📅 Mon, 20 Jul 2026 20:08:45 +0000
+- **[Incremental – A library for incremental computations](https://github.com/janestreet/incremental)**
+  *<p>Article URL: <a href="https://github.com/janestreet/incremental">https://github.com/janestreet/incremental</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=48987822">https://n...*
+  📅 Tue, 21 Jul 2026 03:50:53 +0000
 
 ### 📑 TechCrunch
 
@@ -102,16 +102,13 @@
 
 ### 📑 Dev.to
 
-- **[From "You Have a Bug" to "Here's the Root Cause" - Adding AI Code Analysis to My App Review Pipeline](https://dev.to/ashish_mishra_8491c3b9912/from-you-have-a-bug-to-heres-the-root-cause-adding-ai-code-analysis-to-my-app-review-pipeline-51f1)**
-  *<blockquote>
-<p><strong>TL;DR:</strong> I built an app review pipeline that classifies bugs and crashes. It was useful but stopped at "what's wrong." I extended it to answer "where in the code" and "w...*
-  📅 Tue, 21 Jul 2026 01:33:50 +0000
+- **[They Rebuilt a Bank Like a Startup - Here's What Actually Worked](https://dev.to/harry_williams/they-rebuilt-a-bank-like-a-startup-heres-what-actually-worked-165m)**
+  *<p>Here's a weird origin story: in 2020, Richard Davies took over as CEO of a bank whose founder had already left. No product-market fit, no real customer base, just a banking licence and £5 million o...*
+  📅 Tue, 21 Jul 2026 08:02:31 +0000
 
-- **[[Boost]](https://dev.to/atrandafir/-5b8m)**
-  *<div class="ltag__link--embedded">
-  <div class="crayons-story ">
-  <a class="crayons-story__hidden-navigation-link" href="https://dev.to/adamthedeveloper/i-could-review-it-i-couldnt-write-it-3gfj">I ...*
-  📅 Tue, 21 Jul 2026 01:26:32 +0000
+- **[A Git Workflow for Small Teams](https://dev.to/moose978/a-git-workflow-for-small-teams-1f7n)**
+  *<p>The last few articles set up the <a href="https://amanksingh.com/blog/fullstack-saas-folder-structure" rel="noopener noreferrer">folder structure that scales</a> for a full stack SaaS: where the fr...*
+  📅 Tue, 21 Jul 2026 08:02:24 +0000
 
 </details>
 
@@ -119,103 +116,103 @@
 
 ### 📈 Daily Trending
 
-- **[youngbenrja4262/king-legacy-lua-executor](https://github.com/youngbenrja4262/king-legacy-lua-executor)** ⭐ 10
-  ![HTML](https://img.shields.io/badge/-HTML-lightgrey)
-  Lightweight Roblox script utility for King Legacy with aimbot assistance, custom skins, toggleable options, and configurable settings, built to stay compatible with recent game updates.
+- **[midisec/fastjson-1.2.83-gadget-rce](https://github.com/midisec/fastjson-1.2.83-gadget-rce)** ⭐ 73
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  Fastjson 1.2.68 ~ 1.2.83 RCE，jdk8、17、21和25全版本，支持批量urls进行poc验证。
 
-- **[PrithhviSunil/Prediction-League](https://github.com/PrithhviSunil/Prediction-League)** ⭐ 3
-  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
-  None
+- **[sudsudop/kiddionmenu-modest](https://github.com/sudsudop/kiddionmenu-modest)** ⭐ 30
+  ![None](https://img.shields.io/badge/-None-lightgrey)
+  Kiddion's ModMenu is one of the most renowned external mod menus for *Grand Theft Auto V*.
 
-- **[l0layta/mirror](https://github.com/l0layta/mirror)** ⭐ 2
+- **[c9nny/mirror](https://github.com/c9nny/mirror)** ⭐ 29
   ![OCaml](https://img.shields.io/badge/-OCaml-lightgrey)
   lexical structure inference for incomplete programs
 
-- **[jeffersongoncalves/laravel-cms-menu](https://github.com/jeffersongoncalves/laravel-cms-menu)** ⭐ 1
-  ![PHP](https://img.shields.io/badge/-PHP-lightgrey)
-  Laravel CMS menu domain package. Read-only split mirror of jeffersongoncalves/laravel-cms.
+- **[hahhforest/pi-textbook](https://github.com/hahhforest/pi-textbook)** ⭐ 29
+  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
+  《动手学 Pi》：沿 15 个真实 checkpoint 从零构建 Pi-style Agent
 
-- **[jeffersongoncalves/laravel-cms-core](https://github.com/jeffersongoncalves/laravel-cms-core)** ⭐ 1
-  ![PHP](https://img.shields.io/badge/-PHP-lightgrey)
-  Laravel CMS core domain package. Read-only split mirror of jeffersongoncalves/laravel-cms.
+- **[c9nny/linnaea](https://github.com/c9nny/linnaea)** ⭐ 27
+  ![OCaml](https://img.shields.io/badge/-OCaml-lightgrey)
+  workbench for inspecting a typed fragment of C through parser output
 
-- **[sandeepwastaken/vestige](https://github.com/sandeepwastaken/vestige)** ⭐ 1
+- **[c9nny/up](https://github.com/c9nny/up)** ⭐ 25
+  ![OCaml](https://img.shields.io/badge/-OCaml-lightgrey)
+  library for userspace drivers that need DMA buffers mapped through VFIO
+
+- **[c9nny/ariel](https://github.com/c9nny/ariel)** ⭐ 22
+  ![C](https://img.shields.io/badge/-C-lightgrey)
+  aarch64 EL2 hypervisor for QEMU virt that boots at EL2 
+
+- **[realfishsam/agent-notch](https://github.com/realfishsam/agent-notch)** ⭐ 16
   ![Swift](https://img.shields.io/badge/-Swift-lightgrey)
   None
 
-- **[Soufiane4103/index](https://github.com/Soufiane4103/index)** ⭐ 1
-  ![HTML](https://img.shields.io/badge/-HTML-lightgrey)
-  None
-
-- **[hema168880/learning-os-ai](https://github.com/hema168880/learning-os-ai)** ⭐ 1
-  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
-  AI 学习管理平台：视频导入、知识分析、技能树、学习路线和每日学习闭环
-
 ### 📈 Weekly Trending
 
-- **[Fei-Away/Codex-Dream-Skin](https://github.com/Fei-Away/Codex-Dream-Skin)** ⭐ 11,088
+- **[Fei-Away/Codex-Dream-Skin](https://github.com/Fei-Away/Codex-Dream-Skin)** ⭐ 11,308
   ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
   Codex Dream Skin
 
-- **[tandpfun/wardrobe](https://github.com/tandpfun/wardrobe)** ⭐ 1,219
+- **[tandpfun/wardrobe](https://github.com/tandpfun/wardrobe)** ⭐ 1,234
   ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
   Your clothes, extracted and organized with gpt-image.
 
-- **[hoainho/img2threejs](https://github.com/hoainho/img2threejs)** ⭐ 1,028
+- **[hoainho/img2threejs](https://github.com/hoainho/img2threejs)** ⭐ 1,187
   ![Python](https://img.shields.io/badge/-Python-blue)
   Rebuild the object in a reference image as a code-only, procedural, quality-gated, animation-ready Three.js model. Token-efficient image-to-3D.
 
-- **[nethical6/conversation-steganography](https://github.com/nethical6/conversation-steganography)** ⭐ 881
-  ![Go](https://img.shields.io/badge/-Go-cyan)
-  Use LLMs to hide messages inside normal looking conversations
-
-- **[pablostanley/yoinks](https://github.com/pablostanley/yoinks)** ⭐ 869
-  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
-  yoink any video from your terminal. no shady ads.
-
-- **[lopopolo/harness-engineering](https://github.com/lopopolo/harness-engineering)** ⭐ 785
+- **[lopopolo/harness-engineering](https://github.com/lopopolo/harness-engineering)** ⭐ 949
   ![Python](https://img.shields.io/badge/-Python-blue)
   🐎 Ryan Lopopolo’s anthology, field guide, and agent context bundle for harness engineering
 
-- **[Blueturboguy07/cue](https://github.com/Blueturboguy07/cue)** ⭐ 661
+- **[pablostanley/yoinks](https://github.com/pablostanley/yoinks)** ⭐ 892
+  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
+  yoink any video from your terminal. no shady ads.
+
+- **[nethical6/conversation-steganography](https://github.com/nethical6/conversation-steganography)** ⭐ 885
+  ![Go](https://img.shields.io/badge/-Go-cyan)
+  Use LLMs to hide messages inside normal looking conversations
+
+- **[Blueturboguy07/cue](https://github.com/Blueturboguy07/cue)** ⭐ 675
   ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
   Open-source macOS AI copilot that floats over your screen, sees/hears your meetings, and stays hidden from screen shares. Cluely alternative, bring-your-own-key.
 
-- **[v-modal/vmodal_sdk_flutter](https://github.com/v-modal/vmodal_sdk_flutter)** ⭐ 622
+- **[v-modal/vmodal_sdk_flutter](https://github.com/v-modal/vmodal_sdk_flutter)** ⭐ 623
   ![Dart](https://img.shields.io/badge/-Dart-lightgrey)
   V- Modal AI: Search anything anywhere SDK Flutter
 
 ### 📈 Monthly Trending
 
-- **[xai-org/grok-build](https://github.com/xai-org/grok-build)** ⭐ 20,823
+- **[xai-org/grok-build](https://github.com/xai-org/grok-build)** ⭐ 21,068
   ![Rust](https://img.shields.io/badge/-Rust-brown)
   SpaceXAI's coding agent harness and TUI. Fullscreen, mouse interactive, extensible.
 
-- **[JustVugg/colibri](https://github.com/JustVugg/colibri)** ⭐ 17,013
+- **[JustVugg/colibri](https://github.com/JustVugg/colibri)** ⭐ 17,147
   ![C](https://img.shields.io/badge/-C-lightgrey)
   Run GLM-5.2 (744B MoE) on a 25GB-RAM consumer machine — pure C, zero deps, experts streamed from disk. Tiny engine, immense model. 🐦
 
-- **[langchain-ai/openwiki](https://github.com/langchain-ai/openwiki)** ⭐ 12,651
+- **[langchain-ai/openwiki](https://github.com/langchain-ai/openwiki)** ⭐ 12,688
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   OpenWiki is a CLI that writes and maintains agent documentation for your codebase.
 
-- **[Fei-Away/Codex-Dream-Skin](https://github.com/Fei-Away/Codex-Dream-Skin)** ⭐ 11,088
+- **[Fei-Away/Codex-Dream-Skin](https://github.com/Fei-Away/Codex-Dream-Skin)** ⭐ 11,308
   ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
   Codex Dream Skin
 
-- **[deepseek-ai/DeepSpec](https://github.com/deepseek-ai/DeepSpec)** ⭐ 6,712
+- **[deepseek-ai/DeepSpec](https://github.com/deepseek-ai/DeepSpec)** ⭐ 6,713
   ![Python](https://img.shields.io/badge/-Python-blue)
   DeepSpec: a full-stack codebase for training and evaluating speculative decoding algorithms
 
-- **[x4gKing/X4G](https://github.com/x4gKing/X4G)** ⭐ 6,007
+- **[x4gKing/X4G](https://github.com/x4gKing/X4G)** ⭐ 6,025
   ![Python](https://img.shields.io/badge/-Python-blue)
   None
 
-- **[Yu9191/wloc](https://github.com/Yu9191/wloc)** ⭐ 5,844
+- **[Yu9191/wloc](https://github.com/Yu9191/wloc)** ⭐ 5,880
   ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
   修改 Apple 网络定位（gs-loc）返回坐标 · 支持 Surge / Quantumult X / Loon / Stash · 快捷指令一键设置/恢复定位
 
-- **[elder-plinius/T3MP3ST](https://github.com/elder-plinius/T3MP3ST)** ⭐ 5,044
+- **[elder-plinius/T3MP3ST](https://github.com/elder-plinius/T3MP3ST)** ⭐ 5,052
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   autonomous red teaming platform; multi-agent offensive-security meta-harness
 
@@ -484,58 +481,58 @@ Welcome to our newest releaser, [Stewart X Addison](https://github.com/sxa). Fut
 | Skill | Status |
 |-------|--------|
 | Java | 🔴 Beginner |
-| Python | 🟡 Learning |
-| JavaScript | 🟡 Learning |
-| TypeScript | 🟢 Proficient |
+| Python | ⚪ Planned |
+| JavaScript | ⚪ Planned |
+| TypeScript | ⚪ Planned |
 | Go | 🔴 Beginner |
 
 ### Frameworks
 
 | Skill | Status |
 |-------|--------|
-| React | 🔴 Beginner |
-| Spring Boot | ⚪ Planned |
-| Django | 🔴 Beginner |
-| Node.js | 🔴 Beginner |
-| Next.js | 🟡 Learning |
+| React | ⚪ Planned |
+| Spring Boot | 🟢 Proficient |
+| Django | 🟢 Proficient |
+| Node.js | 🟡 Learning |
+| Next.js | ⚪ Planned |
 
 ### Cybersecurity
 
 | Skill | Status |
 |-------|--------|
-| Penetration Testing | 🔴 Beginner |
-| Web Security | 🟢 Proficient |
-| Network Security | 🟡 Learning |
-| OWASP | 🔴 Beginner |
+| Penetration Testing | ⚪ Planned |
+| Web Security | 🔴 Beginner |
+| Network Security | ⚪ Planned |
+| OWASP | ⚪ Planned |
 
 ### Ai Ml
 
 | Skill | Status |
 |-------|--------|
-| Machine Learning | 🔴 Beginner |
-| Deep Learning | 🟡 Learning |
-| NLP | ⚪ Planned |
+| Machine Learning | 🟢 Proficient |
+| Deep Learning | 🔴 Beginner |
+| NLP | 🔴 Beginner |
 | Computer Vision | 🔴 Beginner |
 | TensorFlow | 🟡 Learning |
-| PyTorch | ⚪ Planned |
+| PyTorch | 🟡 Learning |
 
 ### Devops
 
 | Skill | Status |
 |-------|--------|
-| Docker | 🟢 Proficient |
-| Kubernetes | 🟡 Learning |
-| CI/CD | 🟡 Learning |
-| AWS | ⚪ Planned |
-| Azure | 🔴 Beginner |
+| Docker | 🟡 Learning |
+| Kubernetes | ⚪ Planned |
+| CI/CD | ⚪ Planned |
+| AWS | 🔴 Beginner |
+| Azure | 🟡 Learning |
 
 ### Other
 
 | Skill | Status |
 |-------|--------|
-| Blockchain | 🟡 Learning |
+| Blockchain | ⚪ Planned |
 | Web3 | 🟢 Proficient |
-| Cloud Computing | 🟢 Proficient |
+| Cloud Computing | 🟡 Learning |
 
 </details>
 
