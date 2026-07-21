@@ -46,18 +46,18 @@
 
 ### 📑 Hacker News
 
-- **[Linux kernel will support $ORIGIN, sort of](https://fzakaria.com/2026/07/20/linux-kernel-will-support-origin-sort-of)**
-  *<p>Article URL: <a href="https://fzakaria.com/2026/07/20/linux-kernel-will-support-origin-sort-of">https://fzakaria.com/2026/07/20/linux-kernel-will-support-origin-sort-of</a></p>
-<p>Comments URL: <a ...*
-  📅 Tue, 21 Jul 2026 06:29:22 +0000
+- **[New US homeownership measure puts people first](https://www.minneapolisfed.org/article/2026/new-homeownership-measure-puts-people-first)**
+  *<p>Article URL: <a href="https://www.minneapolisfed.org/article/2026/new-homeownership-measure-puts-people-first">https://www.minneapolisfed.org/article/2026/new-homeownership-measure-puts-people-firs...*
+  📅 Tue, 21 Jul 2026 12:03:14 +0000
+
+- **[Qwen-Image-3.0: Rich Content, Authentic Details, Deep Knowledge](https://qwen.ai/blog?id=qwen-image-3.0)**
+  *<p>Article URL: <a href="https://qwen.ai/blog?id=qwen-image-3.0">https://qwen.ai/blog?id=qwen-image-3.0</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=48989701">https://news.yc...*
+  📅 Tue, 21 Jul 2026 08:44:23 +0000
 
 - **[Show HN: Ex Situ – Open-source spatial index of displaced cultural artifacts](https://exsitu.app/map)**
   *<p>Hi, I designed and developed a spatial index that maps museum artefacts as connecting arcs/hyperlinks from their origin site to institutional location/sources. The Index specifically looks at weste...*
   📅 Tue, 21 Jul 2026 04:48:32 +0000
-
-- **[Five US tech giants' hidden debts soar to $1.65T on opaque AI funding](https://asia.nikkei.com/business/technology/five-us-tech-giants-hidden-debts-soar-to-1.65tn-on-opaque-ai-funding)**
-  *<p>Article URL: <a href="https://asia.nikkei.com/business/technology/five-us-tech-giants-hidden-debts-soar-to-1.65tn-on-opaque-ai-funding">https://asia.nikkei.com/business/technology/five-us-tech-gian...*
-  📅 Tue, 21 Jul 2026 03:56:03 +0000
 
 - **[Running Doom on Our Custom CPU and Going Viral](https://www.armaangomes.com/blogs/doom/)**
   *<p>Article URL: <a href="https://www.armaangomes.com/blogs/doom/">https://www.armaangomes.com/blogs/doom/</a></p>
@@ -75,6 +75,10 @@
   📅 Tue, 21 Jul 2026 03:50:53 +0000
 
 ### 📑 TechCrunch
+
+- **[Gritt exits stealth with $34 million for robots to build solar plants — then, everything else](https://techcrunch.com/2026/07/21/gritt-exits-stealth-with-34-million-for-robots-to-build-solar-plants-then-everything-else/)**
+  *Gritt is coming out of stealth with $34 million and plans to automate the hardest tasks on construction sites....*
+  📅 Tue, 21 Jul 2026 10:00:00 +0000
 
 - **[Anthropic’s landmark $1.5B copyright settlement is approved](https://techcrunch.com/2026/07/20/anthropics-landmark-1-5b-copyright-settlement-is-approved/)**
   *The final approval settles one case, but it doesn't resolve the broader issue of using copyrighted works to train AI models....*
@@ -96,19 +100,15 @@
   *Under the new system, the protocol will take a looser, "stateless" approach to session IDs on the server side, similar to how most ordinary websites already work....*
   📅 Mon, 20 Jul 2026 20:50:40 +0000
 
-- **[X relaunches a rebuilt Android app after year-long effort](https://techcrunch.com/2026/07/20/x-relaunches-a-rebuilt-android-app-after-year-long-effort/)**
-  *X says the rebuilt version of its Android app is now available globally....*
-  📅 Mon, 20 Jul 2026 19:37:39 +0000
-
 ### 📑 Dev.to
 
-- **[They Rebuilt a Bank Like a Startup - Here's What Actually Worked](https://dev.to/harry_williams/they-rebuilt-a-bank-like-a-startup-heres-what-actually-worked-165m)**
-  *<p>Here's a weird origin story: in 2020, Richard Davies took over as CEO of a bank whose founder had already left. No product-market fit, no real customer base, just a banking licence and £5 million o...*
-  📅 Tue, 21 Jul 2026 08:02:31 +0000
+- **[The freedom you don't want: why infinite customization is a tax, not a feature](https://dev.to/goodbarber/the-freedom-you-dont-want-why-infinite-customization-is-a-tax-not-a-feature-2og6)**
+  *<p>In 2023, at the No Code Summit in Paris, I gave a talk that our blog later <a href="https://www.goodbarber.com/blog/advanced-customization-of-goodbarber-apps-a1300/" rel="noopener noreferrer">turne...*
+  📅 Tue, 21 Jul 2026 13:08:44 +0000
 
-- **[A Git Workflow for Small Teams](https://dev.to/moose978/a-git-workflow-for-small-teams-1f7n)**
-  *<p>The last few articles set up the <a href="https://amanksingh.com/blog/fullstack-saas-folder-structure" rel="noopener noreferrer">folder structure that scales</a> for a full stack SaaS: where the fr...*
-  📅 Tue, 21 Jul 2026 08:02:24 +0000
+- **[The Production Readiness Checklist](https://dev.to/moose978/the-production-readiness-checklist-p4b)**
+  *<p>In the <a href="https://amanksingh.com/blog/performance-tuning-before-launch" rel="noopener noreferrer">last article</a>, I walked through finding and fixing the slow parts of a SaaS before launch:...*
+  📅 Tue, 21 Jul 2026 13:08:40 +0000
 
 </details>
 
@@ -116,21 +116,25 @@
 
 ### 📈 Daily Trending
 
-- **[midisec/fastjson-1.2.83-gadget-rce](https://github.com/midisec/fastjson-1.2.83-gadget-rce)** ⭐ 73
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  Fastjson 1.2.68 ~ 1.2.83 RCE，jdk8、17、21和25全版本，支持批量urls进行poc验证。
+- **[realfishsam/agent-notch](https://github.com/realfishsam/agent-notch)** ⭐ 116
+  ![Swift](https://img.shields.io/badge/-Swift-lightgrey)
+  The open-source alternative to vibe-island
 
-- **[sudsudop/kiddionmenu-modest](https://github.com/sudsudop/kiddionmenu-modest)** ⭐ 30
-  ![None](https://img.shields.io/badge/-None-lightgrey)
-  Kiddion's ModMenu is one of the most renowned external mod menus for *Grand Theft Auto V*.
+- **[hahhforest/pi-textbook](https://github.com/hahhforest/pi-textbook)** ⭐ 73
+  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
+  《动手学 Pi》：沿 15 个真实 checkpoint 从零构建 Pi-style Agent
+
+- **[innae1121-bit/gsghwp](https://github.com/innae1121-bit/gsghwp)** ⭐ 31
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  gsghwp
 
 - **[c9nny/mirror](https://github.com/c9nny/mirror)** ⭐ 29
   ![OCaml](https://img.shields.io/badge/-OCaml-lightgrey)
   lexical structure inference for incomplete programs
 
-- **[hahhforest/pi-textbook](https://github.com/hahhforest/pi-textbook)** ⭐ 29
-  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
-  《动手学 Pi》：沿 15 个真实 checkpoint 从零构建 Pi-style Agent
+- **[sudsudop/kiddionmenu-modest](https://github.com/sudsudop/kiddionmenu-modest)** ⭐ 29
+  ![None](https://img.shields.io/badge/-None-lightgrey)
+  Kiddion's ModMenu is one of the most renowned external mod menus for *Grand Theft Auto V*.
 
 - **[c9nny/linnaea](https://github.com/c9nny/linnaea)** ⭐ 27
   ![OCaml](https://img.shields.io/badge/-OCaml-lightgrey)
@@ -140,79 +144,75 @@
   ![OCaml](https://img.shields.io/badge/-OCaml-lightgrey)
   library for userspace drivers that need DMA buffers mapped through VFIO
 
-- **[c9nny/ariel](https://github.com/c9nny/ariel)** ⭐ 22
-  ![C](https://img.shields.io/badge/-C-lightgrey)
-  aarch64 EL2 hypervisor for QEMU virt that boots at EL2 
-
-- **[realfishsam/agent-notch](https://github.com/realfishsam/agent-notch)** ⭐ 16
-  ![Swift](https://img.shields.io/badge/-Swift-lightgrey)
-  None
+- **[risa-labs-inc/BossConsole](https://github.com/risa-labs-inc/BossConsole)** ⭐ 24
+  ![Kotlin](https://img.shields.io/badge/-Kotlin-lightgrey)
+  Open-source, multi-platform harness for AI agents — a native, multi-threaded operator's console (JVM, not Electron) to run Claude Code, Codex, Gemini or OpenCode with a real browser, terminal, editor, secrets & 100+ MCP tools. Built for enterprises, science & research.
 
 ### 📈 Weekly Trending
 
-- **[Fei-Away/Codex-Dream-Skin](https://github.com/Fei-Away/Codex-Dream-Skin)** ⭐ 11,308
+- **[Fei-Away/Codex-Dream-Skin](https://github.com/Fei-Away/Codex-Dream-Skin)** ⭐ 11,424
   ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
   Codex Dream Skin
 
-- **[tandpfun/wardrobe](https://github.com/tandpfun/wardrobe)** ⭐ 1,234
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
-  Your clothes, extracted and organized with gpt-image.
-
-- **[hoainho/img2threejs](https://github.com/hoainho/img2threejs)** ⭐ 1,187
+- **[hoainho/img2threejs](https://github.com/hoainho/img2threejs)** ⭐ 1,295
   ![Python](https://img.shields.io/badge/-Python-blue)
   Rebuild the object in a reference image as a code-only, procedural, quality-gated, animation-ready Three.js model. Token-efficient image-to-3D.
 
-- **[lopopolo/harness-engineering](https://github.com/lopopolo/harness-engineering)** ⭐ 949
+- **[tandpfun/wardrobe](https://github.com/tandpfun/wardrobe)** ⭐ 1,249
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
+  Your clothes, extracted and organized with gpt-image.
+
+- **[lopopolo/harness-engineering](https://github.com/lopopolo/harness-engineering)** ⭐ 1,084
   ![Python](https://img.shields.io/badge/-Python-blue)
   🐎 Ryan Lopopolo’s anthology, field guide, and agent context bundle for harness engineering
 
-- **[pablostanley/yoinks](https://github.com/pablostanley/yoinks)** ⭐ 892
+- **[pablostanley/yoinks](https://github.com/pablostanley/yoinks)** ⭐ 914
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   yoink any video from your terminal. no shady ads.
 
-- **[nethical6/conversation-steganography](https://github.com/nethical6/conversation-steganography)** ⭐ 885
+- **[nethical6/conversation-steganography](https://github.com/nethical6/conversation-steganography)** ⭐ 894
   ![Go](https://img.shields.io/badge/-Go-cyan)
   Use LLMs to hide messages inside normal looking conversations
 
-- **[Blueturboguy07/cue](https://github.com/Blueturboguy07/cue)** ⭐ 675
+- **[Blueturboguy07/cue](https://github.com/Blueturboguy07/cue)** ⭐ 690
   ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
   Open-source macOS AI copilot that floats over your screen, sees/hears your meetings, and stays hidden from screen shares. Cluely alternative, bring-your-own-key.
 
-- **[v-modal/vmodal_sdk_flutter](https://github.com/v-modal/vmodal_sdk_flutter)** ⭐ 623
+- **[v-modal/vmodal_sdk_flutter](https://github.com/v-modal/vmodal_sdk_flutter)** ⭐ 663
   ![Dart](https://img.shields.io/badge/-Dart-lightgrey)
   V- Modal AI: Search anything anywhere SDK Flutter
 
 ### 📈 Monthly Trending
 
-- **[xai-org/grok-build](https://github.com/xai-org/grok-build)** ⭐ 21,068
+- **[xai-org/grok-build](https://github.com/xai-org/grok-build)** ⭐ 21,206
   ![Rust](https://img.shields.io/badge/-Rust-brown)
   SpaceXAI's coding agent harness and TUI. Fullscreen, mouse interactive, extensible.
 
-- **[JustVugg/colibri](https://github.com/JustVugg/colibri)** ⭐ 17,147
+- **[JustVugg/colibri](https://github.com/JustVugg/colibri)** ⭐ 17,294
   ![C](https://img.shields.io/badge/-C-lightgrey)
   Run GLM-5.2 (744B MoE) on a 25GB-RAM consumer machine — pure C, zero deps, experts streamed from disk. Tiny engine, immense model. 🐦
 
-- **[langchain-ai/openwiki](https://github.com/langchain-ai/openwiki)** ⭐ 12,688
+- **[langchain-ai/openwiki](https://github.com/langchain-ai/openwiki)** ⭐ 12,719
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   OpenWiki is a CLI that writes and maintains agent documentation for your codebase.
 
-- **[Fei-Away/Codex-Dream-Skin](https://github.com/Fei-Away/Codex-Dream-Skin)** ⭐ 11,308
+- **[Fei-Away/Codex-Dream-Skin](https://github.com/Fei-Away/Codex-Dream-Skin)** ⭐ 11,424
   ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
   Codex Dream Skin
 
-- **[deepseek-ai/DeepSpec](https://github.com/deepseek-ai/DeepSpec)** ⭐ 6,713
+- **[deepseek-ai/DeepSpec](https://github.com/deepseek-ai/DeepSpec)** ⭐ 6,720
   ![Python](https://img.shields.io/badge/-Python-blue)
   DeepSpec: a full-stack codebase for training and evaluating speculative decoding algorithms
 
-- **[x4gKing/X4G](https://github.com/x4gKing/X4G)** ⭐ 6,025
+- **[x4gKing/X4G](https://github.com/x4gKing/X4G)** ⭐ 6,052
   ![Python](https://img.shields.io/badge/-Python-blue)
   None
 
-- **[Yu9191/wloc](https://github.com/Yu9191/wloc)** ⭐ 5,880
+- **[Yu9191/wloc](https://github.com/Yu9191/wloc)** ⭐ 5,897
   ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
   修改 Apple 网络定位（gs-loc）返回坐标 · 支持 Surge / Quantumult X / Loon / Stash · 快捷指令一键设置/恢复定位
 
-- **[elder-plinius/T3MP3ST](https://github.com/elder-plinius/T3MP3ST)** ⭐ 5,052
+- **[elder-plinius/T3MP3ST](https://github.com/elder-plinius/T3MP3ST)** ⭐ 5,060
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   autonomous red teaming platform; multi-agent offensive-security meta-harness
 
@@ -480,21 +480,21 @@ Welcome to our newest releaser, [Stewart X Addison](https://github.com/sxa). Fut
 
 | Skill | Status |
 |-------|--------|
-| Java | 🔴 Beginner |
-| Python | ⚪ Planned |
+| Java | 🟡 Learning |
+| Python | 🟢 Proficient |
 | JavaScript | ⚪ Planned |
 | TypeScript | ⚪ Planned |
-| Go | 🔴 Beginner |
+| Go | 🟢 Proficient |
 
 ### Frameworks
 
 | Skill | Status |
 |-------|--------|
-| React | ⚪ Planned |
-| Spring Boot | 🟢 Proficient |
-| Django | 🟢 Proficient |
-| Node.js | 🟡 Learning |
-| Next.js | ⚪ Planned |
+| React | 🟡 Learning |
+| Spring Boot | 🔴 Beginner |
+| Django | 🔴 Beginner |
+| Node.js | ⚪ Planned |
+| Next.js | 🟡 Learning |
 
 ### Cybersecurity
 
@@ -502,37 +502,37 @@ Welcome to our newest releaser, [Stewart X Addison](https://github.com/sxa). Fut
 |-------|--------|
 | Penetration Testing | ⚪ Planned |
 | Web Security | 🔴 Beginner |
-| Network Security | ⚪ Planned |
-| OWASP | ⚪ Planned |
+| Network Security | 🔴 Beginner |
+| OWASP | 🔴 Beginner |
 
 ### Ai Ml
 
 | Skill | Status |
 |-------|--------|
-| Machine Learning | 🟢 Proficient |
-| Deep Learning | 🔴 Beginner |
-| NLP | 🔴 Beginner |
-| Computer Vision | 🔴 Beginner |
-| TensorFlow | 🟡 Learning |
+| Machine Learning | 🔴 Beginner |
+| Deep Learning | 🟡 Learning |
+| NLP | ⚪ Planned |
+| Computer Vision | ⚪ Planned |
+| TensorFlow | 🟢 Proficient |
 | PyTorch | 🟡 Learning |
 
 ### Devops
 
 | Skill | Status |
 |-------|--------|
-| Docker | 🟡 Learning |
-| Kubernetes | ⚪ Planned |
-| CI/CD | ⚪ Planned |
+| Docker | 🔴 Beginner |
+| Kubernetes | 🟡 Learning |
+| CI/CD | 🟢 Proficient |
 | AWS | 🔴 Beginner |
-| Azure | 🟡 Learning |
+| Azure | 🟢 Proficient |
 
 ### Other
 
 | Skill | Status |
 |-------|--------|
-| Blockchain | ⚪ Planned |
+| Blockchain | 🟡 Learning |
 | Web3 | 🟢 Proficient |
-| Cloud Computing | 🟡 Learning |
+| Cloud Computing | 🟢 Proficient |
 
 </details>
 
