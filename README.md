@@ -46,81 +46,78 @@
 
 ### 📑 Hacker News
 
-- **[Back to Kagi](https://blog.melashri.net/micro/back-to-kagi/)**
-  *<p>Article URL: <a href="https://blog.melashri.net/micro/back-to-kagi/">https://blog.melashri.net/micro/back-to-kagi/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49006195">h...*
-  📅 Wed, 22 Jul 2026 13:08:19 +0000
+- **[Everyone Should Know SIMD](https://mitchellh.com/writing/everyone-should-know-simd)**
+  *<p>Article URL: <a href="https://mitchellh.com/writing/everyone-should-know-simd">https://mitchellh.com/writing/everyone-should-know-simd</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com...*
+  📅 Wed, 22 Jul 2026 17:48:18 +0000
 
-- **[Businesses with ugly AI menu redesigns](https://blog.fiddery.com/businesses-with-ugly-ai-menu-redesigns/)**
-  *<p>Article URL: <a href="https://blog.fiddery.com/businesses-with-ugly-ai-menu-redesigns/">https://blog.fiddery.com/businesses-with-ugly-ai-menu-redesigns/</a></p>
-<p>Comments URL: <a href="https://ne...*
-  📅 Wed, 22 Jul 2026 12:49:45 +0000
+- **[Terrence Tao's ChatGPT Conversation about the Jacobian Conjecture Counterexample](https://chatgpt.com/share/6a5fdc7a-d6f8-83e8-bbea-8deb42cfed56)**
+  *<p>Article URL: <a href="https://chatgpt.com/share/6a5fdc7a-d6f8-83e8-bbea-8deb42cfed56">https://chatgpt.com/share/6a5fdc7a-d6f8-83e8-bbea-8deb42cfed56</a></p>
+<p>Comments URL: <a href="https://news.y...*
+  📅 Wed, 22 Jul 2026 17:30:40 +0000
 
-- **[So Reddit has decided that plain HTML is unsafe](https://www.cole-k.com/2026/07/21/reddit/)**
-  *<p>Article URL: <a href="https://www.cole-k.com/2026/07/21/reddit/">https://www.cole-k.com/2026/07/21/reddit/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49005747">https://n...*
-  📅 Wed, 22 Jul 2026 12:32:48 +0000
+- **[GigaToken: ~1000x faster Language model tokenization](https://github.com/marcelroed/gigatoken/)**
+  *<p>Article URL: <a href="https://github.com/marcelroed/gigatoken/">https://github.com/marcelroed/gigatoken/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49010167">https://new...*
+  📅 Wed, 22 Jul 2026 17:20:38 +0000
 
-- **[10 REM"_(C2SLFF4](https://beej.us/blog/data/mystery-comment/)**
-  *<p>Article URL: <a href="https://beej.us/blog/data/mystery-comment/">https://beej.us/blog/data/mystery-comment/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49005329">https:/...*
-  📅 Wed, 22 Jul 2026 11:58:09 +0000
+- **[Are AI Labs Pelicanmaxxing?](https://dylancastillo.co/posts/pelicanmaxxing.html)**
+  *<p>Article URL: <a href="https://dylancastillo.co/posts/pelicanmaxxing.html">https://dylancastillo.co/posts/pelicanmaxxing.html</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=4...*
+  📅 Wed, 22 Jul 2026 17:17:54 +0000
 
-- **[OverpAId – Fire your CEO. Hire the future](https://overpaid.lol)**
-  *<p>Article URL: <a href="https://overpaid.lol">https://overpaid.lol</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49004663">https://news.ycombinator.com/item?id=49004663</a></...*
-  📅 Wed, 22 Jul 2026 10:49:04 +0000
+- **[Show HN: Web swing through midtown NYC](https://www.swingnyc.com/)**
+  *<p>Article URL: <a href="https://www.swingnyc.com/">https://www.swingnyc.com/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49009324">https://news.ycombinator.com/item?id=4900...*
+  📅 Wed, 22 Jul 2026 16:25:08 +0000
 
-- **[Show HN: A new kind of FPS aim trainer](https://openaim.pramit.gg/)**
-  *<p>I played a lot of Valorant and got mad, so I made an aim trainer that analyzes your raw crosshair movement to explore your raw motor and perceptual weaknesses instead of scoring scenarios.
-It also ...*
-  📅 Wed, 22 Jul 2026 05:39:31 +0000
+- **[Launch HN: Unlayer (YC W22) – Add email and document builders to your app](https://unlayer.com)**
+  *<p>Hi HN, We’re Adeel and Umair, co-founders of Unlayer (<a href="https://unlayer.com/">https://unlayer.com/</a>). We let you add content creation to your applications without having to build an entir...*
+  📅 Wed, 22 Jul 2026 16:02:03 +0000
 
 ### 📑 TechCrunch
 
-- **[The browser wars aren’t about search anymore — here are the best alternatives to Chrome and Safari](https://techcrunch.com/2026/07/22/as-the-browser-wars-heat-up-here-are-the-hottest-alternatives-to-chrome-and-safari-in-2026/)**
-  *We’ve compiled an overview of some of the top alternative browsers available today aiming to challenge Chrome and Safari....*
-  📅 Wed, 22 Jul 2026 13:20:35 +0000
+- **[Travis Kalanick’s robotics company raises $1.7B, led by a16z](https://techcrunch.com/2026/07/22/travis-kalanicks-robotics-company-raises-1-7b-led-by-a16z/)**
+  *Uber is also investing in Travis Kalanick's company Atoms, which has made gauzy claims about using industrial AI to modernize the world....*
+  📅 Wed, 22 Jul 2026 18:50:44 +0000
 
-- **[Passionfroot raises $15M to expand its B2B creator marketplace to the US](https://techcrunch.com/2026/07/22/passionfroot-raises-15m-to-expand-its-b2b-creator-marketplace-to-the-us/)**
-  *Passionfroot, a German startup building a marketplace connecting B2B creators with brands, has raised $15M in a Series A round led by Insight Partners....*
-  📅 Wed, 22 Jul 2026 13:00:00 +0000
+- **[Science Corporation’s vision-restoring chip wins EU approval](https://techcrunch.com/2026/07/22/science-corporations-vision-restoring-chip-wins-eu-approval/)**
+  *"The thing that the space needs is a company making $100 million a year of revenue," Science Corp. CEO Max Hodak said....*
+  📅 Wed, 22 Jul 2026 18:18:02 +0000
 
-- **[WhatsApp adds Apple CarPlay and Android Auto upgrades, iPad sign-ups, and more](https://techcrunch.com/2026/07/22/whatsapp-adds-apple-carplay-and-android-auto-upgrades-ipad-sign-ups-and-more/)**
-  *WhatsApp on Apple CarPlay and Android Auto will let users hear and reply to messages, make calls, view their call history, and access favorite contacts hands-free and right from their car's screen....*
-  📅 Wed, 22 Jul 2026 13:00:00 +0000
+- **[Yope raises $12.3M to build a private social network without algorithms or ads](https://techcrunch.com/2026/07/22/yope-raises-12-3m-to-build-a-private-social-network-without-algorithms-or-ads/)**
+  *Yope, a fast-growing social app focused on private groups of friends and family, has raised $12.3 million in seed funding. Instead of chasing creators and algorithmic feeds, the startup is betting tha...*
+  📅 Wed, 22 Jul 2026 18:13:58 +0000
 
-- **[Glow emerges from stealth at $1.2B valuation to challenge endpoint security in the AI era](https://techcrunch.com/2026/07/22/glow-emerges-from-stealth-at-1-2b-valuation-to-challenge-endpoint-security-in-the-ai-era/)**
-  *Glow is targeting a new class of endpoint risks created by the rapid adoption of AI agents and developer tools inside enterprises....*
-  📅 Wed, 22 Jul 2026 10:00:00 +0000
+- **[Menlo Ventures’ Matt Murphy explains why Anthropic is winning (and it’s not the model)](https://techcrunch.com/video/menlo-ventures-matt-murphy-explains-why-anthropic-is-winning-and-its-not-the-model/)**
+  *Anthropic&#160;leaped to&#160;a&#160;$47 billion&#160;revenue run rate&#160;by May,&#160;compared to&#160;$9 billion&#160;in 2025.&#160;It’s&#160;the kind of growth that&#160;Menlo Ventures&#8217;&#16...*
+  📅 Wed, 22 Jul 2026 18:02:57 +0000
 
-- **[Synthesia’s AI training platform is moving beyond videos into live coaching](https://techcrunch.com/2026/07/22/synthesias-ai-training-platform-is-moving-beyond-videos-into-live-coaching/)**
-  *Synthesia launched AI Roleplay Sessions, an interactive enterprise training platform where employees practice workplace conversations with AI avatars that provide feedback, scoring, and analytics to h...*
-  📅 Wed, 22 Jul 2026 08:00:00 +0000
+- **[Monday.com lays off hundreds to focus on AI](https://techcrunch.com/2026/07/22/monday-com-lays-off-hundreds-to-focuses-on-ai/)**
+  *The company said it is reducing its headcount by 20%, or about 630 staff, to "support a leaner, more focused operating model" as it focuses on its AI Work Platform....*
+  📅 Wed, 22 Jul 2026 17:54:14 +0000
 
-- **[The Anthropic-Physical Intelligence rumor roiling AI Twitter](https://techcrunch.com/2026/07/21/the-anthropic-physical-intelligence-rumor-roiling-ai-twitter/)**
-  *Anthropic and OpenAI's aggressive 2026 acquisition sprees set the stage for a weekend rumor....*
-  📅 Wed, 22 Jul 2026 03:20:57 +0000
+- **[Google is making it easier to switch from iPhone to Android](https://techcrunch.com/2026/07/22/google-is-making-it-easier-to-switch-from-iphone-to-android/)**
+  *The new feature lets users wirelessly transfer more data types from an iPhone without needing to download a separate app....*
+  📅 Wed, 22 Jul 2026 17:08:03 +0000
 
 ### 📑 Dev.to
 
-- **[Automating Linux Tasks with Bash](https://dev.to/rubi_cloud/automating-linux-tasks-with-bash-192l)**
-  *<blockquote>
-<p>"Every repetitive task is an opportunity waiting to be automated."</p>
-</blockquote>
-
-<p><strong>One of the biggest lessons I've learned this weeek in the DevOps Micro Internship (DMI)...*
-  📅 Wed, 22 Jul 2026 13:15:39 +0000
-
-- **[Validating HTML Structure Beyond Syntax: Exploring Tools and Methodologies for Enforcing Specific Element Arrangements](https://dev.to/serbyte/validating-html-structure-beyond-syntax-exploring-tools-and-methodologies-for-enforcing-specific-3pgl)**
-  *<h2>
+- **[Art Director’s Advantage in the AI Gen Era](https://dev.to/designbytk/art-directors-advantage-in-the-ai-gen-era-4a3k)**
+  *<h1>
   
   
-  Introduction
-</h2>
+  Round and round we go
+</h1>
 
-<p>Validating the structure of an HTML document goes beyond mere syntax checking. While tools like <strong>ANTLR</strong> excel at ensuring that tags are properly nest...*
-  📅 Wed, 22 Jul 2026 13:15:34 +0000
+<p>Gaining an advantage in AI design workflow's isn't based on better prompting. It's something we've been doing for decades...</p>
+
+<p>First off, this isn’t ...*
+  📅 Wed, 22 Jul 2026 18:53:42 +0000
+
+- **[What Happens When You Send a Photo Through Most Messaging Apps?](https://dev.to/turksharoz_gamer_369ddedb/what-happens-when-you-send-a-photo-through-most-messaging-apps-366o)**
+  *<p>Sending a photo feels simple. You choose an image, tap Send, and a few seconds later it appears on someone else's phone. Behind that simple action, however, several things may happen that most peop...*
+  📅 Wed, 22 Jul 2026 18:50:02 +0000
 
 </details>
 
@@ -128,103 +125,103 @@ It also ...*
 
 ### 📈 Daily Trending
 
-- **[tanishq-dubey/macos-laguna-s2.1](https://github.com/tanishq-dubey/macos-laguna-s2.1)** ⭐ 161
+- **[tanishq-dubey/macos-laguna-s2.1](https://github.com/tanishq-dubey/macos-laguna-s2.1)** ⭐ 146
   ![Python](https://img.shields.io/badge/-Python-blue)
   Community benchmarks and scripts for running Poolside Laguna S 2.1
 
-- **[ddcat-ai/open-ai-canvas](https://github.com/ddcat-ai/open-ai-canvas)** ⭐ 51
+- **[chartup-solana-volume-bot/bscvolumebot](https://github.com/chartup-solana-volume-bot/bscvolumebot)** ⭐ 126
+  ![None](https://img.shields.io/badge/-None-lightgrey)
+  Top-rated BSC volume bot and developer tools for DEX liquidity, maker activity, and holder management.
+
+- **[chartup-solana-volume-bot/solanavolumebooster](https://github.com/chartup-solana-volume-bot/solanavolumebooster)** ⭐ 126
+  ![None](https://img.shields.io/badge/-None-lightgrey)
+  Top-rated Solana volume bot and developer tools for DEX liquidity, maker activity, and holder management.
+
+- **[chartup-solana-volume-bot/bnbvolumebot](https://github.com/chartup-solana-volume-bot/bnbvolumebot)** ⭐ 125
+  ![None](https://img.shields.io/badge/-None-lightgrey)
+  Top-rated BNB volume bot and developer tools for DEX liquidity, maker activity, and holder management.
+
+- **[chartup-solana-volume-bot/basevolumebot](https://github.com/chartup-solana-volume-bot/basevolumebot)** ⭐ 124
+  ![None](https://img.shields.io/badge/-None-lightgrey)
+  Top-rated Base volume bot and developer tools for DEX liquidity, maker activity, and holder management.
+
+- **[chartup-solana-volume-bot/robinhoodvolumebot](https://github.com/chartup-solana-volume-bot/robinhoodvolumebot)** ⭐ 123
+  ![None](https://img.shields.io/badge/-None-lightgrey)
+  Top-rated Robinhood volume bot (Robinhood chain) and developer tools for DEX liquidity, maker activity, and holder management.
+
+- **[chartup-solana-volume-bot/dexscreenerreactionsbot](https://github.com/chartup-solana-volume-bot/dexscreenerreactionsbot)** ⭐ 116
+  ![None](https://img.shields.io/badge/-None-lightgrey)
+  DexScreener reactions bot, DexScreener trending bot, and dedicated marketing services for all major Solana & EVM platforms.
+
+- **[ddcat-ai/open-ai-canvas](https://github.com/ddcat-ai/open-ai-canvas)** ⭐ 65
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   面向 AI 影视创作的开源无限画布工作台，集成多模态生成、分镜编排、素材管理与 Agent 工作流。
 
-- **[AlayaLab/AlayaRenderer-Flash](https://github.com/AlayaLab/AlayaRenderer-Flash)** ⭐ 36
-  ![None](https://img.shields.io/badge/-None-lightgrey)
-  AlayaRenderer-Flash Project
-
-- **[yokel1121/muyang-flat-animation](https://github.com/yokel1121/muyang-flat-animation)** ⭐ 30
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  将中文观点转成纸上钢笔线稿与彩铅风格的知识讲解动画素材
-
-- **[neural-maze/production-ocr-course](https://github.com/neural-maze/production-ocr-course)** ⭐ 28
-  ![Rust](https://img.shields.io/badge/-Rust-brown)
-  Build, deploy, and scale a production-grade OCR pipeline using Rust, vLLM, Redis, KEDA, and Kubernetes.
-
-- **[mengyp2022-droid/gpt-Codex-Agent-Identity](https://github.com/mengyp2022-droid/gpt-Codex-Agent-Identity)** ⭐ 22
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  获取gpt-Codex-Agent-Identity 用shub2api反代无需手机接码
-
-- **[mrgoonie/fable-thinking](https://github.com/mrgoonie/fable-thinking)** ⭐ 21
-  ![HTML](https://img.shields.io/badge/-HTML-lightgrey)
-  Reasoning protocol distilled from Claude Fable 5, packaged as a Claude Code plugin — evidence-grounded, calibrated, hard to fool.
-
-- **[steelbrain/metal2vulkan](https://github.com/steelbrain/metal2vulkan)** ⭐ 21
-  ![Rust](https://img.shields.io/badge/-Rust-brown)
-  Translate Metal AIR / LLVM IR to Vulkan SPIR-V with a native Rust emitter
-
 ### 📈 Weekly Trending
 
-- **[lopopolo/harness-engineering](https://github.com/lopopolo/harness-engineering)** ⭐ 2,042
+- **[lopopolo/harness-engineering](https://github.com/lopopolo/harness-engineering)** ⭐ 2,156
   ![Python](https://img.shields.io/badge/-Python-blue)
   🐎 Ryan Lopopolo’s anthology, field guide, and agent context bundle for harness engineering
 
-- **[tandpfun/wardrobe](https://github.com/tandpfun/wardrobe)** ⭐ 1,322
+- **[tandpfun/wardrobe](https://github.com/tandpfun/wardrobe)** ⭐ 1,343
   ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
   Your clothes, extracted and organized with gpt-image.
 
-- **[pablostanley/yoinks](https://github.com/pablostanley/yoinks)** ⭐ 1,019
+- **[pablostanley/yoinks](https://github.com/pablostanley/yoinks)** ⭐ 1,038
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   yoink any video from your terminal. no shady ads.
 
-- **[nethical6/conversation-steganography](https://github.com/nethical6/conversation-steganography)** ⭐ 937
+- **[nethical6/conversation-steganography](https://github.com/nethical6/conversation-steganography)** ⭐ 945
   ![Go](https://img.shields.io/badge/-Go-cyan)
   Use LLMs to hide messages inside normal looking conversations
 
-- **[v-modal/vmodal_sdk_flutter](https://github.com/v-modal/vmodal_sdk_flutter)** ⭐ 844
+- **[v-modal/vmodal_sdk_flutter](https://github.com/v-modal/vmodal_sdk_flutter)** ⭐ 864
   ![Dart](https://img.shields.io/badge/-Dart-lightgrey)
   V- Modal AI: Search anything anywhere SDK Flutter
 
-- **[MIgHTy-alIeN/MEV-Arbitrage-Bot](https://github.com/MIgHTy-alIeN/MEV-Arbitrage-Bot)** ⭐ 801
+- **[MIgHTy-alIeN/MEV-Arbitrage-Bot](https://github.com/MIgHTy-alIeN/MEV-Arbitrage-Bot)** ⭐ 818
   ![Solidity](https://img.shields.io/badge/-Solidity-lightgrey)
   An arbitrage bot is a smart contract connected to an external automation script that controls its operation.
 
-- **[Blaizzy/nativ](https://github.com/Blaizzy/nativ)** ⭐ 698
+- **[Blaizzy/nativ](https://github.com/Blaizzy/nativ)** ⭐ 737
   ![Swift](https://img.shields.io/badge/-Swift-lightgrey)
   Local AI, native to your Mac. Chat, serve, monitor, and connect MLX models from one macOS app.
 
-- **[xiejunjie524/handdraw-story-video](https://github.com/xiejunjie524/handdraw-story-video)** ⭐ 611
+- **[xiejunjie524/handdraw-story-video](https://github.com/xiejunjie524/handdraw-story-video)** ⭐ 619
   ![Python](https://img.shields.io/badge/-Python-blue)
   Turn hand-drawn story illustrations into 35–45 second line-reveal and gradual-coloring videos with HyperFrames.
 
 ### 📈 Monthly Trending
 
-- **[xai-org/grok-build](https://github.com/xai-org/grok-build)** ⭐ 21,690
+- **[xai-org/grok-build](https://github.com/xai-org/grok-build)** ⭐ 21,754
   ![Rust](https://img.shields.io/badge/-Rust-brown)
   SpaceXAI's coding agent harness and TUI. Fullscreen, mouse interactive, extensible.
 
-- **[JustVugg/colibri](https://github.com/JustVugg/colibri)** ⭐ 17,794
+- **[JustVugg/colibri](https://github.com/JustVugg/colibri)** ⭐ 17,892
   ![C](https://img.shields.io/badge/-C-lightgrey)
   Run GLM-5.2 (744B MoE) on a 25GB-RAM consumer machine — pure C, zero deps, experts streamed from disk. Tiny engine, immense model. 🐦
 
-- **[Fei-Away/Codex-Dream-Skin](https://github.com/Fei-Away/Codex-Dream-Skin)** ⭐ 11,772
+- **[Fei-Away/Codex-Dream-Skin](https://github.com/Fei-Away/Codex-Dream-Skin)** ⭐ 11,825
   ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
   Codex Dream Skin
 
-- **[deepseek-ai/DeepSpec](https://github.com/deepseek-ai/DeepSpec)** ⭐ 6,735
+- **[deepseek-ai/DeepSpec](https://github.com/deepseek-ai/DeepSpec)** ⭐ 6,738
   ![Python](https://img.shields.io/badge/-Python-blue)
   DeepSpec: a full-stack codebase for training and evaluating speculative decoding algorithms
 
-- **[x4gKing/X4G](https://github.com/x4gKing/X4G)** ⭐ 6,329
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  None
-
-- **[unicity-aos/aos-ce](https://github.com/unicity-aos/aos-ce)** ⭐ 6,203
+- **[unicity-aos/aos-ce](https://github.com/unicity-aos/aos-ce)** ⭐ 6,446
   ![Rust](https://img.shields.io/badge/-Rust-brown)
   AOS Community Edition: the open agent operating system.
 
-- **[Yu9191/wloc](https://github.com/Yu9191/wloc)** ⭐ 6,075
+- **[x4gKing/X4G](https://github.com/x4gKing/X4G)** ⭐ 6,378
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  None
+
+- **[Yu9191/wloc](https://github.com/Yu9191/wloc)** ⭐ 6,114
   ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
   修改 Apple 网络定位（gs-loc）返回坐标 · 支持 Surge / Quantumult X / Loon / Stash · 快捷指令一键设置/恢复定位
 
-- **[elder-plinius/T3MP3ST](https://github.com/elder-plinius/T3MP3ST)** ⭐ 5,088
+- **[elder-plinius/T3MP3ST](https://github.com/elder-plinius/T3MP3ST)** ⭐ 5,098
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   autonomous red teaming platform; multi-agent offensive-security meta-harness
 
@@ -235,11 +232,11 @@ It also ...*
 
 ### 📦 microsoft/vscode
 
-**[1.129.1](https://github.com/microsoft/vscode/releases/tag/1.129.1)** `1.129.1`
+**[1.130.0](https://github.com/microsoft/vscode/releases/tag/1.130.0)** `1.130.0`
 
-📅 Released: July 17, 2026
+📅 Released: July 22, 2026
 
-https://code.visualstudio.com/updates/v1_129...
+https://code.visualstudio.com/updates/v1_130...
 
 ---
 
@@ -258,14 +255,14 @@ https://code.visualstudio.com/updates/v1_129...
 
 ### 📦 angular/angular
 
-**[22.0.7](https://github.com/angular/angular/releases/tag/v22.0.7)** `v22.0.7`
+**[22.0.8](https://github.com/angular/angular/releases/tag/v22.0.8)** `v22.0.8`
 
-📅 Released: July 16, 2026
+📅 Released: July 22, 2026
 
 ### common
 | Commit | Description |
 | -- | -- |
-| [![fix - 91e33aa1de](https://img.shields.io/badge/91e33aa1de-fix-green)](https://github.com/angular/angular/commit/91e33aa1de47d250d8cde21047597e8df77...
+| [![fix - c0368f2278](https://img.shields.io/badge/c0368f2278-fix-green)](https://github.com/angular/angular/commit/c0368f227846024bb26d3628c59541e870b...
 
 ---
 
@@ -493,37 +490,37 @@ Welcome to our newest releaser, [Stewart X Addison](https://github.com/sxa). Fut
 | Skill | Status |
 |-------|--------|
 | Java | 🟢 Proficient |
-| Python | 🟢 Proficient |
-| JavaScript | ⚪ Planned |
-| TypeScript | 🟢 Proficient |
-| Go | 🔴 Beginner |
+| Python | 🟡 Learning |
+| JavaScript | 🟢 Proficient |
+| TypeScript | 🟡 Learning |
+| Go | ⚪ Planned |
 
 ### Frameworks
 
 | Skill | Status |
 |-------|--------|
-| React | 🟡 Learning |
-| Spring Boot | ⚪ Planned |
-| Django | ⚪ Planned |
-| Node.js | 🔴 Beginner |
+| React | 🔴 Beginner |
+| Spring Boot | 🔴 Beginner |
+| Django | 🟢 Proficient |
+| Node.js | 🟡 Learning |
 | Next.js | 🔴 Beginner |
 
 ### Cybersecurity
 
 | Skill | Status |
 |-------|--------|
-| Penetration Testing | ⚪ Planned |
-| Web Security | 🔴 Beginner |
-| Network Security | 🔴 Beginner |
+| Penetration Testing | 🔴 Beginner |
+| Web Security | 🟢 Proficient |
+| Network Security | 🟢 Proficient |
 | OWASP | 🟡 Learning |
 
 ### Ai Ml
 
 | Skill | Status |
 |-------|--------|
-| Machine Learning | 🔴 Beginner |
-| Deep Learning | 🟡 Learning |
-| NLP | 🟢 Proficient |
+| Machine Learning | ⚪ Planned |
+| Deep Learning | 🔴 Beginner |
+| NLP | ⚪ Planned |
 | Computer Vision | 🔴 Beginner |
 | TensorFlow | 🟢 Proficient |
 | PyTorch | 🟡 Learning |
@@ -532,19 +529,19 @@ Welcome to our newest releaser, [Stewart X Addison](https://github.com/sxa). Fut
 
 | Skill | Status |
 |-------|--------|
-| Docker | 🟡 Learning |
+| Docker | 🔴 Beginner |
 | Kubernetes | 🔴 Beginner |
 | CI/CD | 🔴 Beginner |
-| AWS | 🟡 Learning |
-| Azure | ⚪ Planned |
+| AWS | ⚪ Planned |
+| Azure | 🟢 Proficient |
 
 ### Other
 
 | Skill | Status |
 |-------|--------|
-| Blockchain | 🔴 Beginner |
+| Blockchain | 🟢 Proficient |
 | Web3 | 🔴 Beginner |
-| Cloud Computing | 🟢 Proficient |
+| Cloud Computing | 🟡 Learning |
 
 </details>
 
