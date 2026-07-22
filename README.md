@@ -46,36 +46,45 @@
 
 ### 📑 Hacker News
 
-- **[Ten Steps Towards Happiness](http://hintjens.com/blog:99)**
+- **[Show HN: ReadKinetic – a free, local-first speed reader for your own books](https://www.readkinetic.com/app/)**
+  *<p>Article URL: <a href="https://www.readkinetic.com/app/">https://www.readkinetic.com/app/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49002344">https://news.ycombinator.co...*
+  📅 Wed, 22 Jul 2026 05:49:51 +0000
+
+- **[Show HN: A new kind of FPS aim trainer](https://openaim.pramit.gg/)**
+  *<p>I played a lot of Valorant and got mad, so I made an aim trainer that analyzes your raw crosshair movement to explore your raw motor and perceptual weaknesses instead of scoring scenarios.
+It also ...*
+  📅 Wed, 22 Jul 2026 05:39:31 +0000
+
+- **[Original Apollo 11 Guidance Computer source code for command and lunar modules](https://github.com/chrislgarry/Apollo-11)**
+  *<p>Article URL: <a href="https://github.com/chrislgarry/Apollo-11">https://github.com/chrislgarry/Apollo-11</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49002166">https://new...*
+  📅 Wed, 22 Jul 2026 05:18:08 +0000
+
+- **[Late.sh – a command-line Clubhouse for computer people](https://late.sh/)**
+  *<p>Article URL: <a href="https://late.sh/">https://late.sh/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49001127">https://news.ycombinator.com/item?id=49001127</a></p>
+<p>Po...*
+  📅 Wed, 22 Jul 2026 02:32:30 +0000
+
+- **[LG to ban residential proxies from smart TV apps](https://krebsonsecurity.com/2026/07/lg-to-ban-residential-proxies-from-smart-tv-apps/)**
+  *<p>Article URL: <a href="https://krebsonsecurity.com/2026/07/lg-to-ban-residential-proxies-from-smart-tv-apps/">https://krebsonsecurity.com/2026/07/lg-to-ban-residential-proxies-from-smart-tv-apps/</a...*
+  📅 Wed, 22 Jul 2026 01:52:31 +0000
+
+- **[Ten Steps Towards Happiness (2015)](http://hintjens.com/blog:99)**
   *<p>Article URL: <a href="http://hintjens.com/blog:99">http://hintjens.com/blog:99</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49000600">https://news.ycombinator.com/item?id=...*
   📅 Wed, 22 Jul 2026 01:17:26 +0000
 
-- **[How an AI Anime Is Created](https://www.aventos.dev/our-process?view=blog)**
-  *<p>Article URL: <a href="https://www.aventos.dev/our-process?view=blog">https://www.aventos.dev/our-process?view=blog</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49000429">h...*
-  📅 Wed, 22 Jul 2026 00:53:00 +0000
-
-- **[A flaky test exposed a Redis client use-after-free](https://buildkite.engineering/how-a-flaky-test-exposed-a-redis-use-after-free/)**
-  *<p>Article URL: <a href="https://buildkite.engineering/how-a-flaky-test-exposed-a-redis-use-after-free/">https://buildkite.engineering/how-a-flaky-test-exposed-a-redis-use-after-free/</a></p>
-<p>Comme...*
-  📅 Wed, 22 Jul 2026 00:27:35 +0000
-
-- **[Kimi K3 Is Competitive with Fable; Kimi K3 and Fable Is SoTA](https://fireworks.ai/blog/kimik3-fable)**
-  *<p>Article URL: <a href="https://fireworks.ai/blog/kimik3-fable">https://fireworks.ai/blog/kimik3-fable</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=48999291">https://news.yc...*
-  📅 Tue, 21 Jul 2026 22:35:24 +0000
-
-- **[Show HN: Computable – Buy, sell, and redeem GPU for the exact weeks you want](https://www.getcomputable.com/)**
-  *<p>Hey we are Computable. We spent years building trading infrastructure at Jump Trading and Coinbase. From that point of view, compute looks like energy markets before 2000: everything trades through...*
-  📅 Tue, 21 Jul 2026 21:48:19 +0000
-
-- **[Gemini last models: temperature, top_p, and top_k are deprecated and ignored](https://ai.google.dev/gemini-api/docs/latest-model)**
-  *<p>Article URL: <a href="https://ai.google.dev/gemini-api/docs/latest-model">https://ai.google.dev/gemini-api/docs/latest-model</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=4...*
-  📅 Tue, 21 Jul 2026 21:27:54 +0000
-
 ### 📑 TechCrunch
+
+- **[Synthesia’s AI training platform is moving beyond videos into live coaching](https://techcrunch.com/2026/07/22/synthesias-ai-training-platform-is-moving-beyond-videos-into-live-coaching/)**
+  *Synthesia launched AI Roleplay Sessions, an interactive enterprise training platform where employees practice workplace conversations with AI avatars that provide feedback, scoring, and analytics to h...*
+  📅 Wed, 22 Jul 2026 08:00:00 +0000
+
+- **[The Anthropic-Physical Intelligence rumor roiling AI Twitter](https://techcrunch.com/2026/07/21/the-anthropic-physical-intelligence-rumor-roiling-ai-twitter/)**
+  *Anthropic and OpenAI's aggressive 2026 acquisition sprees set the stage for a weekend rumor....*
+  📅 Wed, 22 Jul 2026 03:20:57 +0000
 
 - **[Dimension Capital’s $800M third fund shows the intersection of science and compute is booming](https://techcrunch.com/2026/07/21/dimension-capitals-800m-third-fund-shows-the-intersection-of-science-and-compute-is-booming/)**
   *The four-year-old firm's latest fund is 60% larger than its second vehicle announced 18 months ago....*
@@ -93,35 +102,17 @@
   *OpenAI has come forward to claim responsibility for the Hugging Face breach, saying it was the result of internal testing gone awry....*
   📅 Tue, 21 Jul 2026 20:56:55 +0000
 
-- **[Jack Dorsey is taking on Slack with Buzz, a group chat platform for teams and their AI agents](https://techcrunch.com/2026/07/21/jack-dorsey-is-taking-on-slack-with-buzz-a-group-chat-platform-for-teams-and-their-ai-agents/)**
-  *Buzz is a group chat platform for the workplace that puts humans and their AI agents in the same conversation....*
-  📅 Tue, 21 Jul 2026 19:43:41 +0000
-
-- **[AI and the rise of the universal entertainment app](https://techcrunch.com/2026/07/21/ai-and-the-rise-of-the-universal-entertainment-app/)**
-  *Over the past decade, streaming platforms competed by dominating individual formats like music, video, podcasts, or audiobooks. Now, as AI makes it easier to create, organize, and recommend content, t...*
-  📅 Tue, 21 Jul 2026 19:39:30 +0000
-
 ### 📑 Dev.to
 
-- **[Funções Avançadas em SQL](https://dev.to/yuripeixinho/funcoes-avancadas-em-sql-10d1)**
-  *<h1>
-  
-  
-  Introdução
-</h1>
+- **[I Understood the Problem. I Still Built the Wrong Product.](https://dev.to/giftysoftdev/i-understood-the-problem-i-still-built-the-wrong-product-5h1i)**
+  *<p>I have been quieter than usual over the past few months.</p>
 
-<p>As funções avançadas em SQL vão além de operações básicas, como selecionar e filtrar dados. Elas permitem realizar cálculos complexos, manipular strings, trabalhar co...*
-  📅 Wed, 22 Jul 2026 01:24:28 +0000
+<p>Although I enjoy building in public, some work is better done behind the scenes until it reaches a point where there is something wo...*
+  📅 Wed, 22 Jul 2026 08:07:55 +0000
 
-- **[I Ran 10+ AI Coding Agents in Parallel. The Bottleneck Wasn't the AI.](https://dev.to/kikakkz/i-ran-10-ai-coding-agents-in-parallel-the-bottleneck-wasnt-the-ai-12e3)**
-  *<p>AI coding agents changed the way I work.</p>
-
-<p>When I started using them, the workflow was simple:</p>
-
-<blockquote>
-<p>Give an agent a task → wait → review the result → continue.</p>
-</blockquot...*
-  📅 Wed, 22 Jul 2026 01:22:46 +0000
+- **[How a frozenset guard ended a YouTube directive self-contradiction](https://dev.to/morinaga/how-a-frozenset-guard-ended-a-youtube-directive-self-contradiction-52e2)**
+  *<p>On 2026-07-07 my YouTube content pipeline generated a contradiction. The daily directive file — a machine-generated Markdown file that tells the script-writer routine which video archetype to produ...*
+  📅 Wed, 22 Jul 2026 08:05:34 +0000
 
 </details>
 
@@ -129,57 +120,57 @@
 
 ### 📈 Daily Trending
 
+- **[tanishq-dubey/macos-laguna-s2.1](https://github.com/tanishq-dubey/macos-laguna-s2.1)** ⭐ 149
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  Community benchmarks and scripts for running Poolside Laguna S 2.1
+
+- **[AlayaLab/AlayaRenderer-Flash](https://github.com/AlayaLab/AlayaRenderer-Flash)** ⭐ 28
+  ![None](https://img.shields.io/badge/-None-lightgrey)
+  AlayaRenderer-Flash Project
+
+- **[mengyp2022-droid/gpt-Codex-Agent-Identity](https://github.com/mengyp2022-droid/gpt-Codex-Agent-Identity)** ⭐ 22
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  获取gpt-Codex-Agent-Identity 用shub2api反代无需手机接码
+
+- **[PhotonCrabDescribe/xbox-game-pass-setup](https://github.com/PhotonCrabDescribe/xbox-game-pass-setup)** ⭐ 15
+  ![None](https://img.shields.io/badge/-None-lightgrey)
+  Xbox Game Pass — Xbox Game Pass Windows setup — gaming landing repository with install notes, workflow checklists, and session logs. Install notes landing repo. Domain: https://xbox-game-pass-setup.moltora.com/
+
 - **[Shatterdirenew/wifi-repair-tool](https://github.com/Shatterdirenew/wifi-repair-tool)** ⭐ 14
   ![None](https://img.shields.io/badge/-None-lightgrey)
   WiFi Repair Tool — WiFi Repair Tool Windows setup — system repair landing repository with install notes, workflow checklists, and session logs. Install notes landing repo. Domain: https://wifi-repair-tool.moltora.com/
 
-- **[PhotonCrabDescribe/xbox-game-pass-setup](https://github.com/PhotonCrabDescribe/xbox-game-pass-setup)** ⭐ 14
-  ![None](https://img.shields.io/badge/-None-lightgrey)
-  Xbox Game Pass — Xbox Game Pass Windows setup — gaming landing repository with install notes, workflow checklists, and session logs. Install notes landing repo. Domain: https://xbox-game-pass-setup.moltora.com/
-
-- **[grasplightmask/waves-complete-setup](https://github.com/grasplightmask/waves-complete-setup)** ⭐ 13
+- **[grasplightmask/waves-complete-setup](https://github.com/grasplightmask/waves-complete-setup)** ⭐ 14
   ![None](https://img.shields.io/badge/-None-lightgrey)
   Waves Complete — Waves Complete Windows setup — VST plugin landing repository with install notes, workflow checklists, and session logs. Install notes landing repo. Domain: https://waves-complete-setup.moltora.com/
 
-- **[ScrewSalamanderSing/topaz-photo-ai](https://github.com/ScrewSalamanderSing/topaz-photo-ai)** ⭐ 13
+- **[ScrewSalamanderSing/topaz-photo-ai](https://github.com/ScrewSalamanderSing/topaz-photo-ai)** ⭐ 14
   ![None](https://img.shields.io/badge/-None-lightgrey)
   Topaz Photo AI — Topaz Photo AI Windows setup — software landing repository with install notes, workflow checklists, and session logs. Install notes landing repo. Domain: https://topaz-photo-ai.moltora.com/
 
-- **[WarblerInferno/windows-update-fix-tool](https://github.com/WarblerInferno/windows-update-fix-tool)** ⭐ 13
+- **[WarblerInferno/windows-update-fix-tool](https://github.com/WarblerInferno/windows-update-fix-tool)** ⭐ 14
   ![None](https://img.shields.io/badge/-None-lightgrey)
   Windows Update Fix Tool — Windows Update Fix Tool Windows setup — system repair landing repository with install notes, workflow checklists, and session logs. Install notes landing repo. Domain: https://windows-update-fix-tool.moltora.com/
 
-- **[Peltlaacclaim/z3x-tool](https://github.com/Peltlaacclaim/z3x-tool)** ⭐ 13
-  ![None](https://img.shields.io/badge/-None-lightgrey)
-  Z3X Tool — Z3X Tool Windows setup — mobile unlock landing repository with install notes, workflow checklists, and session logs. Install notes landing repo. Domain: https://z3x-tool.moltora.com/
-
-- **[FierceSaboteurAsk75/wtfast](https://github.com/FierceSaboteurAsk75/wtfast)** ⭐ 12
-  ![None](https://img.shields.io/badge/-None-lightgrey)
-  WTFast — WTFast Windows setup — gaming latency landing repository with install notes, workflow checklists, and session logs. Install notes landing repo. Domain: https://wtfast.moltora.com/
-
-- **[Angledenkind/winzip-pro-setup](https://github.com/Angledenkind/winzip-pro-setup)** ⭐ 11
-  ![None](https://img.shields.io/badge/-None-lightgrey)
-  WinZip Pro — WinZip Pro Windows setup — software landing repository with install notes, workflow checklists, and session logs. Install notes landing repo. Domain: https://winzip-pro-setup.moltora.com/
-
 ### 📈 Weekly Trending
 
-- **[lopopolo/harness-engineering](https://github.com/lopopolo/harness-engineering)** ⭐ 1,625
+- **[lopopolo/harness-engineering](https://github.com/lopopolo/harness-engineering)** ⭐ 1,900
   ![Python](https://img.shields.io/badge/-Python-blue)
   🐎 Ryan Lopopolo’s anthology, field guide, and agent context bundle for harness engineering
 
-- **[tandpfun/wardrobe](https://github.com/tandpfun/wardrobe)** ⭐ 1,285
+- **[tandpfun/wardrobe](https://github.com/tandpfun/wardrobe)** ⭐ 1,306
   ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
   Your clothes, extracted and organized with gpt-image.
 
-- **[pablostanley/yoinks](https://github.com/pablostanley/yoinks)** ⭐ 964
+- **[pablostanley/yoinks](https://github.com/pablostanley/yoinks)** ⭐ 994
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   yoink any video from your terminal. no shady ads.
 
-- **[nethical6/conversation-steganography](https://github.com/nethical6/conversation-steganography)** ⭐ 911
+- **[nethical6/conversation-steganography](https://github.com/nethical6/conversation-steganography)** ⭐ 925
   ![Go](https://img.shields.io/badge/-Go-cyan)
   Use LLMs to hide messages inside normal looking conversations
 
-- **[v-modal/vmodal_sdk_flutter](https://github.com/v-modal/vmodal_sdk_flutter)** ⭐ 777
+- **[v-modal/vmodal_sdk_flutter](https://github.com/v-modal/vmodal_sdk_flutter)** ⭐ 809
   ![Dart](https://img.shields.io/badge/-Dart-lightgrey)
   V- Modal AI: Search anything anywhere SDK Flutter
 
@@ -187,45 +178,45 @@
   ![Solidity](https://img.shields.io/badge/-Solidity-lightgrey)
   An arbitrage bot is a smart contract connected to an external automation script that controls its operation.
 
-- **[Blaizzy/nativ](https://github.com/Blaizzy/nativ)** ⭐ 624
+- **[Blaizzy/nativ](https://github.com/Blaizzy/nativ)** ⭐ 670
   ![Swift](https://img.shields.io/badge/-Swift-lightgrey)
   Local AI, native to your Mac. Chat, serve, monitor, and connect MLX models from one macOS app.
 
-- **[xiejunjie524/handdraw-story-video](https://github.com/xiejunjie524/handdraw-story-video)** ⭐ 587
+- **[xiejunjie524/handdraw-story-video](https://github.com/xiejunjie524/handdraw-story-video)** ⭐ 607
   ![Python](https://img.shields.io/badge/-Python-blue)
   Turn hand-drawn story illustrations into 35–45 second line-reveal and gradual-coloring videos with HyperFrames.
 
 ### 📈 Monthly Trending
 
-- **[xai-org/grok-build](https://github.com/xai-org/grok-build)** ⭐ 21,414
+- **[xai-org/grok-build](https://github.com/xai-org/grok-build)** ⭐ 21,589
   ![Rust](https://img.shields.io/badge/-Rust-brown)
   SpaceXAI's coding agent harness and TUI. Fullscreen, mouse interactive, extensible.
 
-- **[JustVugg/colibri](https://github.com/JustVugg/colibri)** ⭐ 17,578
+- **[JustVugg/colibri](https://github.com/JustVugg/colibri)** ⭐ 17,679
   ![C](https://img.shields.io/badge/-C-lightgrey)
   Run GLM-5.2 (744B MoE) on a 25GB-RAM consumer machine — pure C, zero deps, experts streamed from disk. Tiny engine, immense model. 🐦
 
-- **[Fei-Away/Codex-Dream-Skin](https://github.com/Fei-Away/Codex-Dream-Skin)** ⭐ 11,519
+- **[Fei-Away/Codex-Dream-Skin](https://github.com/Fei-Away/Codex-Dream-Skin)** ⭐ 11,666
   ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
   Codex Dream Skin
 
-- **[deepseek-ai/DeepSpec](https://github.com/deepseek-ai/DeepSpec)** ⭐ 6,727
+- **[deepseek-ai/DeepSpec](https://github.com/deepseek-ai/DeepSpec)** ⭐ 6,732
   ![Python](https://img.shields.io/badge/-Python-blue)
   DeepSpec: a full-stack codebase for training and evaluating speculative decoding algorithms
 
-- **[x4gKing/X4G](https://github.com/x4gKing/X4G)** ⭐ 6,240
+- **[x4gKing/X4G](https://github.com/x4gKing/X4G)** ⭐ 6,278
   ![Python](https://img.shields.io/badge/-Python-blue)
   None
 
-- **[Yu9191/wloc](https://github.com/Yu9191/wloc)** ⭐ 5,983
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
-  修改 Apple 网络定位（gs-loc）返回坐标 · 支持 Surge / Quantumult X / Loon / Stash · 快捷指令一键设置/恢复定位
-
-- **[unicity-aos/aos-ce](https://github.com/unicity-aos/aos-ce)** ⭐ 5,674
+- **[unicity-aos/aos-ce](https://github.com/unicity-aos/aos-ce)** ⭐ 6,061
   ![Rust](https://img.shields.io/badge/-Rust-brown)
   AOS Community Edition: the open agent operating system.
 
-- **[elder-plinius/T3MP3ST](https://github.com/elder-plinius/T3MP3ST)** ⭐ 5,073
+- **[Yu9191/wloc](https://github.com/Yu9191/wloc)** ⭐ 6,058
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
+  修改 Apple 网络定位（gs-loc）返回坐标 · 支持 Surge / Quantumult X / Loon / Stash · 快捷指令一键设置/恢复定位
+
+- **[elder-plinius/T3MP3ST](https://github.com/elder-plinius/T3MP3ST)** ⭐ 5,080
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   autonomous red teaming platform; multi-agent offensive-security meta-harness
 
@@ -493,18 +484,18 @@ Welcome to our newest releaser, [Stewart X Addison](https://github.com/sxa). Fut
 
 | Skill | Status |
 |-------|--------|
-| Java | 🟡 Learning |
-| Python | 🟡 Learning |
-| JavaScript | 🟡 Learning |
-| TypeScript | 🟡 Learning |
+| Java | 🔴 Beginner |
+| Python | 🟢 Proficient |
+| JavaScript | 🟢 Proficient |
+| TypeScript | 🔴 Beginner |
 | Go | 🔴 Beginner |
 
 ### Frameworks
 
 | Skill | Status |
 |-------|--------|
-| React | 🟢 Proficient |
-| Spring Boot | 🟡 Learning |
+| React | 🟡 Learning |
+| Spring Boot | 🔴 Beginner |
 | Django | ⚪ Planned |
 | Node.js | 🟢 Proficient |
 | Next.js | 🟢 Proficient |
@@ -513,21 +504,21 @@ Welcome to our newest releaser, [Stewart X Addison](https://github.com/sxa). Fut
 
 | Skill | Status |
 |-------|--------|
-| Penetration Testing | ⚪ Planned |
-| Web Security | 🔴 Beginner |
-| Network Security | 🟢 Proficient |
-| OWASP | 🟢 Proficient |
+| Penetration Testing | 🟡 Learning |
+| Web Security | 🟢 Proficient |
+| Network Security | 🔴 Beginner |
+| OWASP | 🔴 Beginner |
 
 ### Ai Ml
 
 | Skill | Status |
 |-------|--------|
-| Machine Learning | 🔴 Beginner |
-| Deep Learning | 🟡 Learning |
-| NLP | ⚪ Planned |
-| Computer Vision | ⚪ Planned |
-| TensorFlow | 🔴 Beginner |
-| PyTorch | ⚪ Planned |
+| Machine Learning | 🟡 Learning |
+| Deep Learning | 🔴 Beginner |
+| NLP | 🟢 Proficient |
+| Computer Vision | 🟢 Proficient |
+| TensorFlow | 🟡 Learning |
+| PyTorch | 🟢 Proficient |
 
 ### Devops
 
@@ -535,17 +526,17 @@ Welcome to our newest releaser, [Stewart X Addison](https://github.com/sxa). Fut
 |-------|--------|
 | Docker | ⚪ Planned |
 | Kubernetes | 🟢 Proficient |
-| CI/CD | 🟡 Learning |
+| CI/CD | 🔴 Beginner |
 | AWS | ⚪ Planned |
-| Azure | ⚪ Planned |
+| Azure | 🟢 Proficient |
 
 ### Other
 
 | Skill | Status |
 |-------|--------|
 | Blockchain | 🟢 Proficient |
-| Web3 | 🔴 Beginner |
-| Cloud Computing | 🟢 Proficient |
+| Web3 | 🟡 Learning |
+| Cloud Computing | 🟡 Learning |
 
 </details>
 
