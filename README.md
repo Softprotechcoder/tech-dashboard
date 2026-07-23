@@ -46,6 +46,23 @@
 
 ### 📑 Hacker News
 
+- **[Alphabet's cash burn raises alarm for Big Tech as AI spending climbs](https://www.reuters.com/business/retail-consumer/alphabets-cash-burn-raises-alarm-big-tech-ai-spending-climbs-2026-07-23/)**
+  *<p>Article URL: <a href="https://www.reuters.com/business/retail-consumer/alphabets-cash-burn-raises-alarm-big-tech-ai-spending-climbs-2026-07-23/">https://www.reuters.com/business/retail-consumer/alp...*
+  📅 Thu, 23 Jul 2026 13:10:02 +0000
+
+- **[Understanding the AI Economy](https://blog.google/innovation-and-ai/technology/research/understanding-the-ai-economy/)**
+  *<p>Article URL: <a href="https://blog.google/innovation-and-ai/technology/research/understanding-the-ai-economy/">https://blog.google/innovation-and-ai/technology/research/understanding-the-ai-economy...*
+  📅 Thu, 23 Jul 2026 12:11:05 +0000
+
+- **[New Framework Desktop Option with AMD Ryzen AI Max+ Pro 495 and 192GB Memory](https://frame.work/desktop?tab=192gb-coming-soon)**
+  *<p>Article URL: <a href="https://frame.work/desktop?tab=192gb-coming-soon">https://frame.work/desktop?tab=192gb-coming-soon</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49019...*
+  📅 Thu, 23 Jul 2026 11:09:48 +0000
+
+- **[EU fines Google €890M for competition breaches over search and apps](https://www.theguardian.com/technology/2026/jul/23/eu-fines-google-for-competition-breaches-over-search-and-apps)**
+  *<p>Article URL: <a href="https://www.theguardian.com/technology/2026/jul/23/eu-fines-google-for-competition-breaches-over-search-and-apps">https://www.theguardian.com/technology/2026/jul/23/eu-fines-g...*
+  📅 Thu, 23 Jul 2026 10:07:22 +0000
+
 - **[Cruller: Bun's Zig Runtime, Continued on Zig 0.16](https://ziggit.dev/t/cruller-buns-zig-runtime-continued-on-zig-0-16/16734)**
   *<p>Article URL: <a href="https://ziggit.dev/t/cruller-buns-zig-runtime-continued-on-zig-0-16/16734">https://ziggit.dev/t/cruller-buns-zig-runtime-continued-on-zig-0-16/16734</a></p>
 <p>Comments URL: <...*
@@ -56,26 +73,11 @@
 <p>Comments URL: <a href="https://ne...*
   📅 Thu, 23 Jul 2026 05:24:17 +0000
 
-- **[Restructuring GitHub's bug bounty program](https://github.blog/security/next-chapter-restructuring-githubs-bug-bounty-program/)**
-  *<p>Article URL: <a href="https://github.blog/security/next-chapter-restructuring-githubs-bug-bounty-program/">https://github.blog/security/next-chapter-restructuring-githubs-bug-bounty-program/</a></p...*
-  📅 Thu, 23 Jul 2026 02:28:23 +0000
-
-- **[Petals: Run LLMs at home, BitTorrent-style](https://petals.dev/)**
-  *<p>Article URL: <a href="https://petals.dev/">https://petals.dev/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49015735">https://news.ycombinator.com/item?id=49015735</a></p>...*
-  📅 Thu, 23 Jul 2026 01:33:12 +0000
-
-- **[Medici family mystery may be solved after more than 400 years](https://www.cnn.com/2026/07/15/science/medici-family-mystery-dna-malaria)**
-  *<p>Article URL: <a href="https://www.cnn.com/2026/07/15/science/medici-family-mystery-dna-malaria">https://www.cnn.com/2026/07/15/science/medici-family-mystery-dna-malaria</a></p>
-<p>Comments URL: <a ...*
-  📅 Wed, 22 Jul 2026 21:55:34 +0000
-
-- **[Any text-to-SQL benchmark should address difficulties of real-world data stores](https://cacm.acm.org/blogcacm/if-you-think-you-can-do-real-world-text-to-sql/)**
-  *<p>Article URL: <a href="https://cacm.acm.org/blogcacm/if-you-think-you-can-do-real-world-text-to-sql/">https://cacm.acm.org/blogcacm/if-you-think-you-can-do-real-world-text-to-sql/</a></p>
-<p>Comment...*
-  📅 Wed, 22 Jul 2026 21:54:30 +0000
-
 ### 📑 TechCrunch
+
+- **[Experts say exploiting Anthropic’s Fable isn’t how Kimi K3 got so good](https://techcrunch.com/2026/07/23/experts-say-exploiting-anthropics-fable-isnt-how-kimi-k3-got-so-good/)**
+  *"I don't think you get a model this strong and this quickly on the heels of Fable doing strictly distillation," one expert told TechCrunch....*
+  📅 Thu, 23 Jul 2026 11:00:00 +0000
 
 - **[ServiceNow bets $40 million on Indian banking software specialist to expand its financial services push](https://techcrunch.com/2026/07/22/servicenow-bets-40m-on-indian-firm-businessnext-at-700m-valuation-to-deepen-banking-ai-push/)**
   *ServiceNow's investment gives BusinessNext a strategic partner to expand its AI-powered banking software globally....*
@@ -97,23 +99,15 @@
   *Tesla's 26% boost in revenue wasn't enough to offset rising operating expenses and capital expenditures as it pushes to launch a new generation of products....*
   📅 Wed, 22 Jul 2026 20:43:38 +0000
 
-- **[Social media addiction lawsuit against Meta is dropped](https://techcrunch.com/2026/07/22/social-media-addiction-lawsuit-against-meta-is-dropped/)**
-  *A closely watched social media addiction lawsuit that had been set to go to trial next week has been dropped after the plaintiff voluntarily dismissed his claims against Meta, leaving none of the majo...*
-  📅 Wed, 22 Jul 2026 20:36:41 +0000
-
 ### 📑 Dev.to
 
-- **[Designing Software That Gets Faster as It Gets Bigger](https://dev.to/derekmwale/designing-software-that-gets-faster-as-it-gets-bigger-3mih)**
-  *<p><a class="article-body-image-wrapper" href="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws...*
-  📅 Thu, 23 Jul 2026 08:03:17 +0000
+- **[Adding a real form backend to an Astro site (not just email)](https://dev.to/mrpsiho/adding-a-real-form-backend-to-an-astro-site-not-just-email-g6b)**
+  *<p>Astro is a joy to build with, right up until you need a form. There's no server on the other end — so the default move is a hosted endpoint (Formspree, Netlify Forms, Web3Forms) that emails you the...*
+  📅 Thu, 23 Jul 2026 13:17:57 +0000
 
-- **[Your career doesn't have to stand still just because you're happy at work!](https://dev.to/gabriel1/your-career-doesnt-have-to-stand-still-just-because-youre-happy-at-work-44nc)**
-  *<p><em>Maybe you’re not looking for a new job.</em></p>
-
-<p>There is a strange gap in the way we talk about careers. You are either “looking” or you are not.</p>
-
-<p>When you're actively looking for a...*
-  📅 Thu, 23 Jul 2026 08:00:33 +0000
+- **[Zero Trust for Business Applications](https://dev.to/krishnamm/zero-trust-for-business-applications-233c)**
+  *<p><em>Originally published on the Edilec blog: <a href="https://edilec.com/blog/sec-4108/zero-trust-for-business-applications/" rel="noopener noreferrer">https://edilec.com/blog/sec-4108/zero-trust-f...*
+  📅 Thu, 23 Jul 2026 13:16:19 +0000
 
 </details>
 
@@ -121,103 +115,103 @@
 
 ### 📈 Daily Trending
 
-- **[dboudreau00/Delpheed-Delphi-Call-Hijacker](https://github.com/dboudreau00/Delpheed-Delphi-Call-Hijacker)** ⭐ 29
+- **[dboudreau00/Delpheed-Delphi-Call-Hijacker](https://github.com/dboudreau00/Delpheed-Delphi-Call-Hijacker)** ⭐ 41
   ![Pascal](https://img.shields.io/badge/-Pascal-lightgrey)
   A Delphi-aware reverse-engineering toolkit — recover the class model from any Delphi PE, and unpack packed ones to get there.
 
-- **[sunny-glow/Auto-BenchMax](https://github.com/sunny-glow/Auto-BenchMax)** ⭐ 20
+- **[sunny-glow/Auto-BenchMax](https://github.com/sunny-glow/Auto-BenchMax)** ⭐ 34
   ![Python](https://img.shields.io/badge/-Python-blue)
   None
 
-- **[schowdary75/moonsconfig](https://github.com/schowdary75/moonsconfig)** ⭐ 15
-  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
-  Open travel OS with Maya AI for calls, support chat, RFQs, vendor outreach, itinerary curation, route maps, packages, hotels, cars, CRM, bookings, and multi-tenant SaaS.
+- **[MoonshotAI/minitriton](https://github.com/MoonshotAI/minitriton)** ⭐ 29
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  None
 
-- **[0xShe/FUCK-CDN](https://github.com/0xShe/FUCK-CDN)** ⭐ 14
-  ![None](https://img.shields.io/badge/-None-lightgrey)
-  一键绕过CDN获取真实IP
-
-- **[xhz2127-art/k230-steel-ball-detection](https://github.com/xhz2127-art/k230-steel-ball-detection)** ⭐ 9
+- **[xhz2127-art/k230-steel-ball-detection](https://github.com/xhz2127-art/k230-steel-ball-detection)** ⭐ 25
   ![Python](https://img.shields.io/badge/-Python-blue)
   YOLOv8 steel-ball detection demo for CanMV K230
 
-- **[sjshb57/TwitterArchiverApp](https://github.com/sjshb57/TwitterArchiverApp)** ⭐ 9
-  ![None](https://img.shields.io/badge/-None-lightgrey)
-  基于 Wayback Machine 的推特账号存档 Android 客户端
-
-- **[LuoLeiLei1992/OpenGame-Forge](https://github.com/LuoLeiLei1992/OpenGame-Forge)** ⭐ 9
+- **[lulistart/variant-clone-factory](https://github.com/lulistart/variant-clone-factory)** ⭐ 18
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
-  We've further encapsulated and optimized OpenGame, and deployed it to a web UI for more intuitive, convenient, and practical management.
+  Variant 复刻工厂，粘贴模板链接，一键导出 React 工程 Capture → Classify → Codegen → Package ZIP。1:1复刻还原。
 
-- **[sunbigfly/awesome-linuxdo-reader](https://github.com/sunbigfly/awesome-linuxdo-reader)** ⭐ 7
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
-  更流畅、更现代的 LINUX DO 沉浸式 userscript 阅读器。
+- **[yyy-OPS/agent-identity-uploader](https://github.com/yyy-OPS/agent-identity-uploader)** ⭐ 17
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  Strict Agent Identity batch importer for Sub2API
+
+- **[0xShe/FUCK-CDN](https://github.com/0xShe/FUCK-CDN)** ⭐ 17
+  ![None](https://img.shields.io/badge/-None-lightgrey)
+  一键绕过CDN获取真实IP
+
+- **[schowdary75/moonsconfig](https://github.com/schowdary75/moonsconfig)** ⭐ 16
+  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
+  Open travel OS with Maya AI for calls, support chat, RFQs, vendor outreach, itinerary curation, route maps, packages, hotels, cars, CRM, bookings, and multi-tenant SaaS.
 
 ### 📈 Weekly Trending
 
-- **[lopopolo/harness-engineering](https://github.com/lopopolo/harness-engineering)** ⭐ 2,215
+- **[lopopolo/harness-engineering](https://github.com/lopopolo/harness-engineering)** ⭐ 2,233
   ![Python](https://img.shields.io/badge/-Python-blue)
   🐎 Ryan Lopopolo’s anthology, field guide, and agent context bundle for harness engineering
 
-- **[nethical6/conversation-steganography](https://github.com/nethical6/conversation-steganography)** ⭐ 1,022
+- **[nethical6/conversation-steganography](https://github.com/nethical6/conversation-steganography)** ⭐ 1,052
   ![Go](https://img.shields.io/badge/-Go-cyan)
   Use LLMs to hide messages inside normal looking conversations
 
-- **[MIgHTy-alIeN/MEV-Arbitrage-Bot](https://github.com/MIgHTy-alIeN/MEV-Arbitrage-Bot)** ⭐ 920
+- **[MIgHTy-alIeN/MEV-Arbitrage-Bot](https://github.com/MIgHTy-alIeN/MEV-Arbitrage-Bot)** ⭐ 993
   ![Solidity](https://img.shields.io/badge/-Solidity-lightgrey)
   An arbitrage bot is a smart contract connected to an external automation script that controls its operation.
 
-- **[Blaizzy/nativ](https://github.com/Blaizzy/nativ)** ⭐ 777
+- **[nyblnet/bento](https://github.com/nyblnet/bento)** ⭐ 859
+  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
+  None
+
+- **[Blaizzy/nativ](https://github.com/Blaizzy/nativ)** ⭐ 791
   ![Swift](https://img.shields.io/badge/-Swift-lightgrey)
   Local AI, native to your Mac. Chat, serve, monitor, and connect MLX models from one macOS app.
 
-- **[Jakubantalik/thinking-orbs](https://github.com/Jakubantalik/thinking-orbs)** ⭐ 698
+- **[Jakubantalik/thinking-orbs](https://github.com/Jakubantalik/thinking-orbs)** ⭐ 757
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   Dotted thought-orb loading indicators for AI & agent UIs — six tuned states, two sizes, auto dark/light
 
-- **[nyblnet/bento](https://github.com/nyblnet/bento)** ⭐ 687
-  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
-  None
-
-- **[xiejunjie524/handdraw-story-video](https://github.com/xiejunjie524/handdraw-story-video)** ⭐ 624
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  Turn hand-drawn story illustrations into 35–45 second line-reveal and gradual-coloring videos with HyperFrames.
-
-- **[Vincentwei1021/video-shotcraft](https://github.com/Vincentwei1021/video-shotcraft)** ⭐ 584
+- **[Vincentwei1021/video-shotcraft](https://github.com/Vincentwei1021/video-shotcraft)** ⭐ 696
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   AI video skill for Claude Code & Codex — cinematic product videos with Remotion: 106 shot recipe cards, 161 motion previews, a production-ready template
 
+- **[xiejunjie524/handdraw-story-video](https://github.com/xiejunjie524/handdraw-story-video)** ⭐ 629
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  Turn hand-drawn story illustrations into 35–45 second line-reveal and gradual-coloring videos with HyperFrames.
+
 ### 📈 Monthly Trending
 
-- **[xai-org/grok-build](https://github.com/xai-org/grok-build)** ⭐ 21,945
+- **[xai-org/grok-build](https://github.com/xai-org/grok-build)** ⭐ 22,008
   ![Rust](https://img.shields.io/badge/-Rust-brown)
   SpaceXAI's coding agent harness and TUI. Fullscreen, mouse interactive, extensible.
 
-- **[JustVugg/colibri](https://github.com/JustVugg/colibri)** ⭐ 18,062
+- **[JustVugg/colibri](https://github.com/JustVugg/colibri)** ⭐ 18,155
   ![C](https://img.shields.io/badge/-C-lightgrey)
   Run GLM-5.2 (744B MoE) on a 25GB-RAM consumer machine — pure C, zero deps, experts streamed from disk. Tiny engine, immense model. 🐦
 
-- **[Fei-Away/Codex-Dream-Skin](https://github.com/Fei-Away/Codex-Dream-Skin)** ⭐ 11,954
+- **[Fei-Away/Codex-Dream-Skin](https://github.com/Fei-Away/Codex-Dream-Skin)** ⭐ 12,015
   ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
   Codex Dream Skin
 
-- **[unicity-aos/aos-ce](https://github.com/unicity-aos/aos-ce)** ⭐ 6,761
+- **[unicity-aos/aos-ce](https://github.com/unicity-aos/aos-ce)** ⭐ 6,796
   ![Rust](https://img.shields.io/badge/-Rust-brown)
   AOS Community Edition: the open agent operating system.
 
-- **[deepseek-ai/DeepSpec](https://github.com/deepseek-ai/DeepSpec)** ⭐ 6,745
+- **[deepseek-ai/DeepSpec](https://github.com/deepseek-ai/DeepSpec)** ⭐ 6,748
   ![Python](https://img.shields.io/badge/-Python-blue)
   DeepSpec: a full-stack codebase for training and evaluating speculative decoding algorithms
 
-- **[x4gKing/X4G](https://github.com/x4gKing/X4G)** ⭐ 6,440
+- **[x4gKing/X4G](https://github.com/x4gKing/X4G)** ⭐ 6,472
   ![Python](https://img.shields.io/badge/-Python-blue)
   None
 
-- **[Yu9191/wloc](https://github.com/Yu9191/wloc)** ⭐ 6,155
+- **[Yu9191/wloc](https://github.com/Yu9191/wloc)** ⭐ 6,170
   ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
   修改 Apple 网络定位（gs-loc）返回坐标 · 支持 Surge / Quantumult X / Loon / Stash · 快捷指令一键设置/恢复定位
 
-- **[elder-plinius/T3MP3ST](https://github.com/elder-plinius/T3MP3ST)** ⭐ 5,108
+- **[elder-plinius/T3MP3ST](https://github.com/elder-plinius/T3MP3ST)** ⭐ 5,114
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   autonomous red teaming platform; multi-agent offensive-security meta-harness
 
@@ -485,11 +479,11 @@ Welcome to our newest releaser, [Stewart X Addison](https://github.com/sxa). Fut
 
 | Skill | Status |
 |-------|--------|
-| Java | 🔴 Beginner |
+| Java | 🟢 Proficient |
 | Python | ⚪ Planned |
-| JavaScript | 🟡 Learning |
+| JavaScript | 🟢 Proficient |
 | TypeScript | 🟡 Learning |
-| Go | 🟡 Learning |
+| Go | ⚪ Planned |
 
 ### Frameworks
 
@@ -497,16 +491,16 @@ Welcome to our newest releaser, [Stewart X Addison](https://github.com/sxa). Fut
 |-------|--------|
 | React | ⚪ Planned |
 | Spring Boot | 🔴 Beginner |
-| Django | 🟢 Proficient |
-| Node.js | 🔴 Beginner |
-| Next.js | 🟢 Proficient |
+| Django | 🔴 Beginner |
+| Node.js | 🟢 Proficient |
+| Next.js | 🟡 Learning |
 
 ### Cybersecurity
 
 | Skill | Status |
 |-------|--------|
 | Penetration Testing | 🔴 Beginner |
-| Web Security | ⚪ Planned |
+| Web Security | 🟡 Learning |
 | Network Security | 🟡 Learning |
 | OWASP | ⚪ Planned |
 
@@ -514,29 +508,29 @@ Welcome to our newest releaser, [Stewart X Addison](https://github.com/sxa). Fut
 
 | Skill | Status |
 |-------|--------|
-| Machine Learning | 🟡 Learning |
-| Deep Learning | 🟢 Proficient |
-| NLP | 🟢 Proficient |
+| Machine Learning | 🟢 Proficient |
+| Deep Learning | ⚪ Planned |
+| NLP | 🔴 Beginner |
 | Computer Vision | ⚪ Planned |
-| TensorFlow | ⚪ Planned |
-| PyTorch | 🟡 Learning |
+| TensorFlow | 🟢 Proficient |
+| PyTorch | 🔴 Beginner |
 
 ### Devops
 
 | Skill | Status |
 |-------|--------|
-| Docker | ⚪ Planned |
+| Docker | 🟢 Proficient |
 | Kubernetes | 🔴 Beginner |
-| CI/CD | 🟢 Proficient |
-| AWS | ⚪ Planned |
-| Azure | 🟢 Proficient |
+| CI/CD | 🟡 Learning |
+| AWS | 🟢 Proficient |
+| Azure | ⚪ Planned |
 
 ### Other
 
 | Skill | Status |
 |-------|--------|
-| Blockchain | 🟡 Learning |
-| Web3 | 🔴 Beginner |
+| Blockchain | ⚪ Planned |
+| Web3 | 🟡 Learning |
 | Cloud Computing | 🟡 Learning |
 
 </details>
