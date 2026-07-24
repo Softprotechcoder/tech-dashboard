@@ -46,33 +46,33 @@
 
 ### 📑 Hacker News
 
+- **[The PImpl idiom and the C++26 std:indirect type](https://mariusbancila.ro/blog/2026/07/23/the-pimpl-idiom-and-the-cpp26-stdindirect-type/)**
+  *<p>Article URL: <a href="https://mariusbancila.ro/blog/2026/07/23/the-pimpl-idiom-and-the-cpp26-stdindirect-type/">https://mariusbancila.ro/blog/2026/07/23/the-pimpl-idiom-and-the-cpp26-stdindirect-ty...*
+  📅 Fri, 24 Jul 2026 07:02:43 +0000
+
+- **[Flux 3](https://bfl.ai/blog/flux-3)**
+  *<p>Article URL: <a href="https://bfl.ai/blog/flux-3">https://bfl.ai/blog/flux-3</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49031796">https://news.ycombinator.com/item?id=49...*
+  📅 Fri, 24 Jul 2026 06:17:08 +0000
+
 - **[The Visual 6502](http://visual6502.org/JSSim/index.html)**
   *<p>Article URL: <a href="http://visual6502.org/JSSim/index.html">http://visual6502.org/JSSim/index.html</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49029538">https://news.yc...*
   📅 Thu, 23 Jul 2026 23:36:42 +0000
-
-- **[A taxonomy of omnicidal futures involving artificial intelligence (2025)](https://arxiv.org/abs/2507.09369)**
-  *<p>Article URL: <a href="https://arxiv.org/abs/2507.09369">https://arxiv.org/abs/2507.09369</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49029133">https://news.ycombinator.co...*
-  📅 Thu, 23 Jul 2026 22:51:13 +0000
 
 - **[98.css](https://jdan.github.io/98.css/#status-bar)**
   *<p>Article URL: <a href="https://jdan.github.io/98.css/#status-bar">https://jdan.github.io/98.css/#status-bar</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49028927">https://n...*
   📅 Thu, 23 Jul 2026 22:30:29 +0000
 
+- **[Mourning Dan Williams](https://lwn.net/Articles/1084545/)**
+  *<p>Article URL: <a href="https://lwn.net/Articles/1084545/">https://lwn.net/Articles/1084545/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49027052">https://news.ycombinator....*
+  📅 Thu, 23 Jul 2026 19:46:28 +0000
+
 - **[Show HN: Echo – Fable-level results at 1/3 the cost using open-weight models](https://news.ycombinator.com/item?id=49026810)**
   *<p>I’ve been building Echo (<a href="https://echo.tracerml.ai/" rel="nofollow">https://echo.tracerml.ai/</a>), an experiment in making one AI system out of a pool of open-weight models rather than cho...*
   📅 Thu, 23 Jul 2026 19:26:01 +0000
-
-- **[Building on ATProto](https://lukekanies.com/writing/building-on-atproto/)**
-  *<p>Article URL: <a href="https://lukekanies.com/writing/building-on-atproto/">https://lukekanies.com/writing/building-on-atproto/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id...*
-  📅 Thu, 23 Jul 2026 18:23:50 +0000
-
-- **[A solid-state “atomic channel” for separating rare earth elements](https://pme.uchicago.edu/news-events/news/cleaner-route-purifying-rare-earth-elements)**
-  *<p>Article URL: <a href="https://pme.uchicago.edu/news-events/news/cleaner-route-purifying-rare-earth-elements">https://pme.uchicago.edu/news-events/news/cleaner-route-purifying-rare-earth-elements</a...*
-  📅 Thu, 23 Jul 2026 18:13:03 +0000
 
 ### 📑 TechCrunch
 
@@ -102,14 +102,15 @@
 
 ### 📑 Dev.to
 
-- **[Read-Through and Write-Through Caching with Redis](https://dev.to/moose978/read-through-and-write-through-caching-with-redis-4fm8)**
-  *<p>Cache-aside puts the caching logic in your application. Read-through and write-through move it into the cache layer itself, so the application talks to the cache as if it were the database and the ...*
-  📅 Fri, 24 Jul 2026 01:38:46 +0000
+- **[The Person Who Fixed the Bugs Just Vanished](https://dev.to/xulingfeng/the-person-who-fixed-the-bugs-just-vanished-34gm)**
+  *<p>We've been testing a new project this week.</p>
 
-- **[How to Create a Linux Virtual Machine on Azure (Step-by-Step for Beginners)](https://dev.to/smayowa10/how-to-create-a-linux-virtual-machine-on-azure-step-by-step-for-beginners-23cg)**
-  *<p><strong>What is a Virtual Machine?</strong><br />
-A Virtual Machine (VM) is essentially a computer that lives in the cloud instead of on your desk. A great way to understand why VMs matter is to th...*
-  📅 Fri, 24 Jul 2026 01:23:07 +0000
+<p>The project's origin story is a mess. Upper management used AI to generate an HTML demo, then handed it to a team called "Super Individual Depart...*
+  📅 Fri, 24 Jul 2026 08:02:58 +0000
+
+- **[How to get started with Web Accessibility in 2026](https://dev.to/josefine/how-to-get-started-with-web-accessibility-in-2026-2o6p)**
+  *<p>Pretty much exactly four years ago, I shared an article about <a href="https://dev.to/storyblok/5-places-to-get-started-with-web-accessibility-ba4">5 places to get started with Web Accessibility</a...*
+  📅 Fri, 24 Jul 2026 08:01:31 +0000
 
 </details>
 
@@ -117,103 +118,103 @@ A Virtual Machine (VM) is essentially a computer that lives in the cloud instead
 
 ### 📈 Daily Trending
 
-- **[gabelykwest9995/silent-castle-apk-update](https://github.com/gabelykwest9995/silent-castle-apk-update)** ⭐ 10
+- **[kingenbomb/Nodes](https://github.com/kingenbomb/Nodes)** ⭐ 36
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  节点注册机
+
+- **[Qq7777-cyber/driver-monitoring-system](https://github.com/Qq7777-cyber/driver-monitoring-system)** ⭐ 19
+  ![None](https://img.shields.io/badge/-None-lightgrey)
+  Windows 驾驶员监控与座舱手势交互系统｜疲劳与分心检测、人脸识别、手势 HMI、本地数据管理 Visibility：Public
+
+- **[dudscode/criando-roadmap](https://github.com/dudscode/criando-roadmap)** ⭐ 17
   ![HTML](https://img.shields.io/badge/-HTML-lightgrey)
-  Silent Castle v1.50.021 is a modified Android survival horror game APK with expanded access to progression resources, including money, diamonds, characters, and an ad-free experience.
+  None
 
-- **[prodigeproject/pradaslides](https://github.com/prodigeproject/pradaslides)** ⭐ 5
+- **[rockthemike712/mission-control-board](https://github.com/rockthemike712/mission-control-board)** ⭐ 16
+  ![HTML](https://img.shields.io/badge/-HTML-lightgrey)
+  Single-file, zero-dependency task board: owner-vs-agent plates, a dependency map, tap-to-complete.
+
+- **[keshi2003111-wei/guitar-posture-assistant](https://github.com/keshi2003111-wei/guitar-posture-assistant)** ⭐ 16
   ![Python](https://img.shields.io/badge/-Python-blue)
-  Capability-aware, audience-ready presentation agent skill for PPTX, HTML slides, PDF, and deck planning.
+  Real-time guitar posture assistant using OpenCV + MediaPipe. Detects hunching, head tilt, wrist bending, and finger positioning via webcam.
 
-- **[nocaptheorem/Drone](https://github.com/nocaptheorem/Drone)** ⭐ 4
-  ![C#](https://img.shields.io/badge/-C#-lightgrey)
-  A high-fidelity, first-principles 6-DoF drone simulation built in C# and Godot 4. Modeled with explicit 4th-order Runge-Kutta tensor integration, dynamic center-of-mass shifts via the Parallel Axis Theorem, sub-step cable damping, fault-tolerant control allocation, and dynamic shader-driven environmental interactions.
+- **[ZhuHongji626/ClaudeCodeSaveToken](https://github.com/ZhuHongji626/ClaudeCodeSaveToken)** ⭐ 14
+  ![None](https://img.shields.io/badge/-None-lightgrey)
+  This is a set of strategies for saving tokens.
 
-- **[alphaparkinc/genpark-runtime-ai-authorization-guard-skill](https://github.com/alphaparkinc/genpark-runtime-ai-authorization-guard-skill)** ⭐ 3
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  Fine-grained security proxy for AI coding agents
+- **[Nicolas-zn/lowcode3d](https://github.com/Nicolas-zn/lowcode3d)** ⭐ 14
+  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
+  None
 
-- **[alphaparkinc/genpark-agent-cost-optimization-orchestrator-skill](https://github.com/alphaparkinc/genpark-agent-cost-optimization-orchestrator-skill)** ⭐ 3
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  Multi-LLM model routing & prompt compression (AskCodi style)
-
-- **[alphaparkinc/genpark-automated-email-marketing-agent-skill](https://github.com/alphaparkinc/genpark-automated-email-marketing-agent-skill)** ⭐ 3
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  Goal-driven email sequence generator & A/B testing agent
-
-- **[alphaparkinc/genpark-guided-shopping-decision-engine-skill](https://github.com/alphaparkinc/genpark-guided-shopping-decision-engine-skill)** ⭐ 3
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  Converts browsing into guided shopping decisions driving higher conversion and lower returns
-
-- **[alphaparkinc/genpark-agentic-data-pipeline-generator-skill](https://github.com/alphaparkinc/genpark-agentic-data-pipeline-generator-skill)** ⭐ 3
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  Autonomous ETL data pipeline builder with schema migration
+- **[youben917/CUDA-MOEA](https://github.com/youben917/CUDA-MOEA)** ⭐ 12
+  ![Jupyter Notebook](https://img.shields.io/badge/-Jupyter Notebook-lightgrey)
+  A full CUDA-Stack Infrastructure for Multiple/Many Objective Evolutionary ALgorithms
 
 ### 📈 Weekly Trending
 
-- **[lopopolo/harness-engineering](https://github.com/lopopolo/harness-engineering)** ⭐ 2,276
+- **[lopopolo/harness-engineering](https://github.com/lopopolo/harness-engineering)** ⭐ 2,294
   ![Python](https://img.shields.io/badge/-Python-blue)
   🐎 Ryan Lopopolo’s anthology, field guide, and agent context bundle for harness engineering
 
-- **[andrewyng/openworker](https://github.com/andrewyng/openworker)** ⭐ 1,326
+- **[andrewyng/openworker](https://github.com/andrewyng/openworker)** ⭐ 2,184
   ![Python](https://img.shields.io/badge/-Python-blue)
   None
 
-- **[Vincentwei1021/video-shotcraft](https://github.com/Vincentwei1021/video-shotcraft)** ⭐ 946
+- **[Vincentwei1021/video-shotcraft](https://github.com/Vincentwei1021/video-shotcraft)** ⭐ 1,145
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   AI video skill for Claude Code & Codex — cinematic product videos with Remotion: 106 shot recipe cards, 161 motion previews, a production-ready template
 
-- **[Jakubantalik/thinking-orbs](https://github.com/Jakubantalik/thinking-orbs)** ⭐ 830
+- **[Jakubantalik/thinking-orbs](https://github.com/Jakubantalik/thinking-orbs)** ⭐ 866
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   Dotted thought-orb loading indicators for AI & agent UIs — six tuned states, two sizes, auto dark/light
 
-- **[Blaizzy/nativ](https://github.com/Blaizzy/nativ)** ⭐ 818
+- **[Blaizzy/nativ](https://github.com/Blaizzy/nativ)** ⭐ 827
   ![Swift](https://img.shields.io/badge/-Swift-lightgrey)
   Local AI, native to your Mac. Chat, serve, monitor, and connect MLX models from one macOS app.
 
-- **[powerycy/goutoujunshi](https://github.com/powerycy/goutoujunshi)** ⭐ 665
+- **[powerycy/goutoujunshi](https://github.com/powerycy/goutoujunshi)** ⭐ 733
   ![Python](https://img.shields.io/badge/-Python-blue)
   一个先接住情绪、再分析关系并给出可执行策略的 Codex 恋爱军师，内置心理、法律、社会、人文、哲学、婚姻家庭与性学知识库，支持多元关系。
 
-- **[pireel/pireel](https://github.com/pireel/pireel)** ⭐ 659
+- **[pireel/pireel](https://github.com/pireel/pireel)** ⭐ 679
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   Open-source, backend-free AI video editor for talking-head video — storyboarding, designed graphics, kinetic captions, themes and in-browser WebCodecs export. Drivable by any AI agent over MCP.
 
-- **[xiejunjie524/handdraw-story-video](https://github.com/xiejunjie524/handdraw-story-video)** ⭐ 634
+- **[xiejunjie524/handdraw-story-video](https://github.com/xiejunjie524/handdraw-story-video)** ⭐ 639
   ![Python](https://img.shields.io/badge/-Python-blue)
   Turn hand-drawn story illustrations into 35–45 second line-reveal and gradual-coloring videos with HyperFrames.
 
 ### 📈 Monthly Trending
 
-- **[xai-org/grok-build](https://github.com/xai-org/grok-build)** ⭐ 22,101
+- **[xai-org/grok-build](https://github.com/xai-org/grok-build)** ⭐ 22,200
   ![Rust](https://img.shields.io/badge/-Rust-brown)
   SpaceXAI's coding agent harness and TUI. Fullscreen, mouse interactive, extensible.
 
-- **[JustVugg/colibri](https://github.com/JustVugg/colibri)** ⭐ 18,317
+- **[JustVugg/colibri](https://github.com/JustVugg/colibri)** ⭐ 18,408
   ![C](https://img.shields.io/badge/-C-lightgrey)
   Run GLM-5.2 (744B MoE) on a 25GB-RAM consumer machine — pure C, zero deps, experts streamed from disk. Tiny engine, immense model. 🐦
 
-- **[Fei-Away/Codex-Dream-Skin](https://github.com/Fei-Away/Codex-Dream-Skin)** ⭐ 12,061
+- **[Fei-Away/Codex-Dream-Skin](https://github.com/Fei-Away/Codex-Dream-Skin)** ⭐ 12,152
   ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
   Codex Dream Skin
 
-- **[unicity-aos/aos-ce](https://github.com/unicity-aos/aos-ce)** ⭐ 6,874
+- **[unicity-aos/aos-ce](https://github.com/unicity-aos/aos-ce)** ⭐ 7,028
   ![Rust](https://img.shields.io/badge/-Rust-brown)
   AOS Community Edition: the open agent operating system.
 
-- **[deepseek-ai/DeepSpec](https://github.com/deepseek-ai/DeepSpec)** ⭐ 6,751
+- **[deepseek-ai/DeepSpec](https://github.com/deepseek-ai/DeepSpec)** ⭐ 6,757
   ![Python](https://img.shields.io/badge/-Python-blue)
   DeepSpec: a full-stack codebase for training and evaluating speculative decoding algorithms
 
-- **[x4gKing/X4G](https://github.com/x4gKing/X4G)** ⭐ 6,520
+- **[x4gKing/X4G](https://github.com/x4gKing/X4G)** ⭐ 6,530
   ![Python](https://img.shields.io/badge/-Python-blue)
   None
 
-- **[elder-plinius/T3MP3ST](https://github.com/elder-plinius/T3MP3ST)** ⭐ 5,130
+- **[elder-plinius/T3MP3ST](https://github.com/elder-plinius/T3MP3ST)** ⭐ 5,136
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   autonomous red teaming platform; multi-agent offensive-security meta-harness
 
-- **[oso95/scroll-world](https://github.com/oso95/scroll-world)** ⭐ 4,999
+- **[oso95/scroll-world](https://github.com/oso95/scroll-world)** ⭐ 5,026
   ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
   A skill that turn any brand into a scrollable 3D world
 
@@ -481,58 +482,58 @@ Welcome to our newest releaser, [Stewart X Addison](https://github.com/sxa). Fut
 
 | Skill | Status |
 |-------|--------|
-| Java | 🟢 Proficient |
-| Python | 🟢 Proficient |
-| JavaScript | 🟡 Learning |
-| TypeScript | 🟡 Learning |
-| Go | 🔴 Beginner |
+| Java | ⚪ Planned |
+| Python | 🔴 Beginner |
+| JavaScript | ⚪ Planned |
+| TypeScript | 🔴 Beginner |
+| Go | ⚪ Planned |
 
 ### Frameworks
 
 | Skill | Status |
 |-------|--------|
 | React | ⚪ Planned |
-| Spring Boot | 🔴 Beginner |
-| Django | 🟡 Learning |
-| Node.js | 🟢 Proficient |
-| Next.js | 🔴 Beginner |
+| Spring Boot | ⚪ Planned |
+| Django | 🟢 Proficient |
+| Node.js | ⚪ Planned |
+| Next.js | 🟡 Learning |
 
 ### Cybersecurity
 
 | Skill | Status |
 |-------|--------|
-| Penetration Testing | ⚪ Planned |
-| Web Security | ⚪ Planned |
+| Penetration Testing | 🟡 Learning |
+| Web Security | 🔴 Beginner |
 | Network Security | 🟡 Learning |
-| OWASP | 🔴 Beginner |
+| OWASP | 🟢 Proficient |
 
 ### Ai Ml
 
 | Skill | Status |
 |-------|--------|
-| Machine Learning | 🔴 Beginner |
+| Machine Learning | 🟡 Learning |
 | Deep Learning | ⚪ Planned |
-| NLP | 🔴 Beginner |
-| Computer Vision | 🟢 Proficient |
-| TensorFlow | 🟡 Learning |
-| PyTorch | 🔴 Beginner |
+| NLP | 🟢 Proficient |
+| Computer Vision | 🔴 Beginner |
+| TensorFlow | 🔴 Beginner |
+| PyTorch | ⚪ Planned |
 
 ### Devops
 
 | Skill | Status |
 |-------|--------|
-| Docker | ⚪ Planned |
-| Kubernetes | 🟡 Learning |
-| CI/CD | 🟡 Learning |
-| AWS | ⚪ Planned |
-| Azure | 🟡 Learning |
+| Docker | 🟢 Proficient |
+| Kubernetes | 🔴 Beginner |
+| CI/CD | ⚪ Planned |
+| AWS | 🟢 Proficient |
+| Azure | ⚪ Planned |
 
 ### Other
 
 | Skill | Status |
 |-------|--------|
 | Blockchain | 🟡 Learning |
-| Web3 | 🟢 Proficient |
+| Web3 | 🔴 Beginner |
 | Cloud Computing | 🟢 Proficient |
 
 </details>
