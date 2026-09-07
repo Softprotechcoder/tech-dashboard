@@ -46,36 +46,34 @@
 
 ### 📑 Hacker News
 
-- **[Ponytail: Lazy Senior Engineer Skill](https://ponytail.dev/)**
-  *<p>Article URL: <a href="https://ponytail.dev/">https://ponytail.dev/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49592706">https://news.ycombinator.com/item?id=49592706</a>...*
-  📅 Mon, 07 Sep 2026 01:18:17 +0000
+- **[Impedance Matching](https://www.edge.org/response-detail/27238)**
+  *<p>Article URL: <a href="https://www.edge.org/response-detail/27238">https://www.edge.org/response-detail/27238</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49596274">https:/...*
+  📅 Mon, 07 Sep 2026 09:52:26 +0000
 
-- **[MathKernel: An evidence-aware multi-engine mathematics kernel and MCP server](https://github.com/Staatsgeheim/MathKernel)**
-  *<p>Article URL: <a href="https://github.com/Staatsgeheim/MathKernel">https://github.com/Staatsgeheim/MathKernel</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49592366">https:/...*
-  📅 Mon, 07 Sep 2026 00:21:01 +0000
+- **['You Can See Everything' Review: Nathan Fielder's Doc About Elizabeth Holmes](https://variety.com/2026/film/reviews/nathan-fielder-surprise-film-telluride-elizabeth-holmes-1236853513/)**
+  *<p>Article URL: <a href="https://variety.com/2026/film/reviews/nathan-fielder-surprise-film-telluride-elizabeth-holmes-1236853513/">https://variety.com/2026/film/reviews/nathan-fielder-surprise-film-t...*
+  📅 Mon, 07 Sep 2026 09:33:39 +0000
 
-- **[Hard-Chat – A serverless, RAM-only P2P terminal chat](https://github.com/mrhardlint/Hard-Chat)**
-  *<p>Article URL: <a href="https://github.com/mrhardlint/Hard-Chat">https://github.com/mrhardlint/Hard-Chat</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49592210">https://news....*
-  📅 Sun, 06 Sep 2026 23:59:43 +0000
+- **[Caltech Mathathon – first hackathon ever devoted to research level mathematics](https://mathathonchallenge.com/index.html)**
+  *<p>Article URL: <a href="https://mathathonchallenge.com/index.html">https://mathathonchallenge.com/index.html</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49596055">https://n...*
+  📅 Mon, 07 Sep 2026 09:26:53 +0000
 
-- **[Making a Python interpreter in 1024 bytes](https://austinhenley.com/blog/python1024.html)**
-  *<p>Article URL: <a href="https://austinhenley.com/blog/python1024.html">https://austinhenley.com/blog/python1024.html</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49591876">h...*
-  📅 Sun, 06 Sep 2026 23:14:08 +0000
+- **[Speculative Decoding in vLLM on AMD GPUs](https://vllm.ai/blog/2026-08-23-speculative-decoding-amd-gpus)**
+  *<p>Article URL: <a href="https://vllm.ai/blog/2026-08-23-speculative-decoding-amd-gpus">https://vllm.ai/blog/2026-08-23-speculative-decoding-amd-gpus</a></p>
+<p>Comments URL: <a href="https://news.yco...*
+  📅 Mon, 07 Sep 2026 09:26:41 +0000
 
-- **[Is mathematics about to enter the conservatory?](https://mbmccoy.dev/posts/mathematical-conservatory/)**
-  *<p>Article URL: <a href="https://mbmccoy.dev/posts/mathematical-conservatory/">https://mbmccoy.dev/posts/mathematical-conservatory/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?...*
-  📅 Sun, 06 Sep 2026 23:02:11 +0000
+- **[Live map of public transport in Belgium](https://openbaarvervoerbelgie.be/)**
+  *<p>Article URL: <a href="https://openbaarvervoerbelgie.be/">https://openbaarvervoerbelgie.be/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49595865">https://news.ycombinator....*
+  📅 Mon, 07 Sep 2026 09:02:47 +0000
 
-- **[Hackers have withdrawn ~4k BTC (~$320M) from the Liquid Federation wallet](https://twitter.com/Liquid_BTC/status/2096696272447218108)**
-  *<p><a href="https://xcancel.com/Liquid_BTC/status/2096696272447218108" rel="nofollow">https://xcancel.com/Liquid_BTC/status/2096696272447218108</a></p>
-<hr />
-<p>Comments URL: <a href="https://news.yc...*
-  📅 Sun, 06 Sep 2026 22:43:25 +0000
+- **[Programming is Art](https://orchidfiles.com/programming-is-art/)**
+  *<p>Article URL: <a href="https://orchidfiles.com/programming-is-art/">https://orchidfiles.com/programming-is-art/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49595360">https...*
+  📅 Mon, 07 Sep 2026 08:05:00 +0000
 
 ### 📑 TechCrunch
 
@@ -105,21 +103,15 @@
 
 ### 📑 Dev.to
 
-- **[Kindy: A friendly voice companion that helps you find ways to give back](https://dev.to/bv_niteesh_be2c0eccc9a5fd/kindy-a-friendly-voice-companion-that-helps-you-find-ways-to-give-back-294j)**
-  *<p><em>This is a submission for <a href="https://dev.to/challenges/weekend-2026-09-03">Weekend Challenge: Generosity Edition</a></em></p>
+- **[Claude Code permissions: how allow, ask, and deny actually compose](https://dev.to/ottoflightrules/claude-code-permissions-how-allow-ask-and-deny-actually-compose-3kme)**
+  *<p>Every Claude Code user builds a permission policy, most without<br />
+noticing. Each time you answer a prompt with "yes, don't ask again",<br />
+the rule lands in <code>.claude/settings.local.json<...*
+  📅 Mon, 07 Sep 2026 11:04:02 +0000
 
-<h2>
-  
-  
-  What I Built
-</h2>
-
-<p>Whenever I look at charit...*
-  📅 Mon, 07 Sep 2026 01:50:37 +0000
-
-- **[We Shipped an Optimization Our Own Benchmark Said Not To](https://dev.to/conqueror_queen/we-shipped-an-optimization-our-own-benchmark-said-not-to-3883)**
-  *<p>Here's the number first: we added a flag that parallelizes the slowest part of our log query tool across 8 goroutines, ran it against a real 76.3MB file, and it finished in 7.558 seconds. The same ...*
-  📅 Mon, 07 Sep 2026 01:46:20 +0000
+- **[Part of Speech Tagging: How NLP Understands Grammar](https://dev.to/javiagu13/part-of-speech-tagging-how-nlp-understands-grammar-2if5)**
+  *<p><a class="article-body-image-wrapper" href="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws...*
+  📅 Mon, 07 Sep 2026 11:00:00 +0000
 
 </details>
 
@@ -127,103 +119,103 @@
 
 ### 📈 Daily Trending
 
-- **[EverettFish/holo-card-studio](https://github.com/EverettFish/holo-card-studio)** ⭐ 19
+- **[EverettFish/holo-card-studio](https://github.com/EverettFish/holo-card-studio)** ⭐ 574
   ![Python](https://img.shields.io/badge/-Python-blue)
   Turn the user's description or uploaded reference into a finished, editable Blender card and an interactive Three.js page. Preserve the requested subject, style, typography and destination. This skill contains code and text only; generated artwork belongs in the user's output project.
 
-- **[aizhimou/javranking-extension](https://github.com/aizhimou/javranking-extension)** ⭐ 6
+- **[aizhimou/javranking-extension](https://github.com/aizhimou/javranking-extension)** ⭐ 81
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
-  None
+  Show all JAV cover and ranking in one click.
 
-- **[Boynic3/Git-Cheat-Sheet](https://github.com/Boynic3/Git-Cheat-Sheet)** ⭐ 4
-  ![None](https://img.shields.io/badge/-None-lightgrey)
-  None
-
-- **[replica882/heisei-gyaru-codex-theme](https://github.com/replica882/heisei-gyaru-codex-theme)** ⭐ 2
+- **[VII-Cae/hyalite--liquid-glass](https://github.com/VII-Cae/hyalite--liquid-glass)** ⭐ 58
   ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
-  平成辣妹 Codex theme: wavy mirror frame, LCD composer, local sticker editor and custom backgrounds
+  Real refraction liquid glass for the web: SDF lens maps + SVG displacement + backdrop-filter. One file, no WebGL.
 
-- **[AsterVey/StarSleep](https://github.com/AsterVey/StarSleep)** ⭐ 2
-  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
-  星眠 Star Sleep — 为夜间 Agent 工作设置电脑休息时间。Windows 定时关机与闹钟，冷蓝科幻 UI，离线运行，仅在软件运行期间有效。
+- **[yappologistic/Spun](https://github.com/yappologistic/Spun)** ⭐ 35
+  ![C++](https://img.shields.io/badge/-C++-pink)
+  A CD-shaped music player for Linux, with local playback and Cider integration.
 
-- **[mrcrapto/toki](https://github.com/mrcrapto/toki)** ⭐ 2
-  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
-  Your AI coding limits, on the edge of the screen. A Windows screen-edge notch for Claude Code, Codex, Cursor and GLM.
+- **[hku-sail/Real2Sim_GPT6_ASTRA](https://github.com/hku-sail/Real2Sim_GPT6_ASTRA)** ⭐ 23
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  None
 
-- **[foulboss98-glitch/Gar-on-](https://github.com/foulboss98-glitch/Gar-on-)** ⭐ 1
-  ![None](https://img.shields.io/badge/-None-lightgrey)
-  Kapable +243@
+- **[KasumiYuku/Aurorix](https://github.com/KasumiYuku/Aurorix)** ⭐ 21
+  ![Go](https://img.shields.io/badge/-Go-cyan)
+  基于Go的轻量的QQ官方机器人框架，此为基于原版Polarix的自用定制版本
 
-- **[ACHolding/-virtualsdkcatsdk0.1.1-](https://github.com/ACHolding/-virtualsdkcatsdk0.1.1-)** ⭐ 1
-  ![Shell](https://img.shields.io/badge/-Shell-lightgrey)
-  *. >
+- **[LuckinSven/8086-xcheck-system](https://github.com/LuckinSven/8086-xcheck-system)** ⭐ 21
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  XCheck IP Reputation Investigation System
+
+- **[imbbbbb/anticater-for-mac](https://github.com/imbbbbb/anticater-for-mac)** ⭐ 17
+  ![Swift](https://img.shields.io/badge/-Swift-lightgrey)
+  反方向ANTICATER：在原版 ANTICATER 旋钮配置 app 的基础上二次开发，用 Swift + SwiftUI 重写为 macOS 原生（arm64）版本。非官方项目，仅供非商业使用。
 
 ### 📈 Weekly Trending
 
-- **[lnkiai/m3e-canvas](https://github.com/lnkiai/m3e-canvas)** ⭐ 4,302
+- **[lnkiai/m3e-canvas](https://github.com/lnkiai/m3e-canvas)** ⭐ 4,497
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   Sketch Material 3 Expressive screens in the browser and turn them into vibe-coding prompts.
 
-- **[anthropics/commerce-agents](https://github.com/anthropics/commerce-agents)** ⭐ 2,225
+- **[anthropics/commerce-agents](https://github.com/anthropics/commerce-agents)** ⭐ 2,326
   ![Python](https://img.shields.io/badge/-Python-blue)
   Reference blueprint for building shopping and merchant agents with Claude. Examples in retail, commerce, telecom, and entertainment included.
 
-- **[ashemag/human-atlas](https://github.com/ashemag/human-atlas)** ⭐ 1,374
+- **[ashemag/human-atlas](https://github.com/ashemag/human-atlas)** ⭐ 1,706
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   Open-source 3D anatomy explorer: 2,234 selectable BodyParts3D meshes, system layers, search, and exploded views.
 
-- **[Rion-Wu-tech/wechat-intelligence-hub](https://github.com/Rion-Wu-tech/wechat-intelligence-hub)** ⭐ 1,119
+- **[Rion-Wu-tech/wechat-intelligence-hub](https://github.com/Rion-Wu-tech/wechat-intelligence-hub)** ⭐ 1,567
   ![Python](https://img.shields.io/badge/-Python-blue)
   Local-first WeChat intelligence system with a read-only CLI, Codex skills, searchable chat history, daily briefings, follow-ups and opportunity tracking.
 
-- **[pierrenade/short-video-generator-AI](https://github.com/pierrenade/short-video-generator-AI)** ⭐ 909
+- **[pierrenade/short-video-generator-AI](https://github.com/pierrenade/short-video-generator-AI)** ⭐ 1,139
   ![Python](https://img.shields.io/badge/-Python-blue)
   Free open-source project designed for turning youtube-viedos into viral short videos. Highlight detection, subtitles, translation, voiceover, all in one for your content.
 
-- **[anthropics/fermats-last-theorem](https://github.com/anthropics/fermats-last-theorem)** ⭐ 849
+- **[anthropics/fermats-last-theorem](https://github.com/anthropics/fermats-last-theorem)** ⭐ 890
   ![Lean](https://img.shields.io/badge/-Lean-lightgrey)
   None
 
-- **[yczz/oc-english](https://github.com/yczz/oc-english)** ⭐ 833
+- **[yczz/oc-english](https://github.com/yczz/oc-english)** ⭐ 845
   ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
   养成类游戏英语学习
 
-- **[danielblnc/DLSS-NR-on-AMD](https://github.com/danielblnc/DLSS-NR-on-AMD)** ⭐ 775
+- **[danielblnc/DLSS-NR-on-AMD](https://github.com/danielblnc/DLSS-NR-on-AMD)** ⭐ 812
   ![None](https://img.shields.io/badge/-None-lightgrey)
   Run DLSS 5 Neural Rendering on your AMD GPU. Magic!
 
 ### 📈 Monthly Trending
 
-- **[deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness)** ⭐ 214,070
+- **[deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness)** ⭐ 214,748
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   DeepSeek Harness: Everything is a Plugin.
 
-- **[anywhere-labs/dsh-desktop](https://github.com/anywhere-labs/dsh-desktop)** ⭐ 23,979
+- **[anywhere-labs/dsh-desktop](https://github.com/anywhere-labs/dsh-desktop)** ⭐ 24,142
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   为 DeepSeek Harness (DSH) 插件生态打造的现代化桌面端解决方案。万物皆「插件」，桌面本身也是「插件」。
 
-- **[guillaumemeyer/watermarks-remover](https://github.com/guillaumemeyer/watermarks-remover)** ⭐ 21,009
+- **[guillaumemeyer/watermarks-remover](https://github.com/guillaumemeyer/watermarks-remover)** ⭐ 21,129
   ![Python](https://img.shields.io/badge/-Python-blue)
   A privacy-first app that strips AI watermarks from content you own.
 
-- **[awesome-dsh-plugin/awesome-dsh-plugin](https://github.com/awesome-dsh-plugin/awesome-dsh-plugin)** ⭐ 14,674
+- **[awesome-dsh-plugin/awesome-dsh-plugin](https://github.com/awesome-dsh-plugin/awesome-dsh-plugin)** ⭐ 14,741
   ![Python](https://img.shields.io/badge/-Python-blue)
   A curated list of plugins for DeepSeek Harness (dsh) · DeepSeek Harness 插件精选列表
 
-- **[yjh051108/dsh-routing-suite](https://github.com/yjh051108/dsh-routing-suite)** ⭐ 7,111
+- **[yjh051108/dsh-routing-suite](https://github.com/yjh051108/dsh-routing-suite)** ⭐ 7,119
   ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
   dsh-routing-suite — injector + router-standard kit: install the runtime injector first, then the task-aware reasoning-mode router preset (measured P1-P23).
 
-- **[zhu1090093659/dsh-web](https://github.com/zhu1090093659/dsh-web)** ⭐ 7,024
+- **[zhu1090093659/dsh-web](https://github.com/zhu1090093659/dsh-web)** ⭐ 7,080
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   DeepSeek Harness (DSH) Web Plugin Aggregation Ecosystem · Everything is a plugin, distributed via the Creative Workshop
 
-- **[sapientinc/PRAXIST](https://github.com/sapientinc/PRAXIST)** ⭐ 6,478
+- **[sapientinc/PRAXIST](https://github.com/sapientinc/PRAXIST)** ⭐ 6,491
   ![Python](https://img.shields.io/badge/-Python-blue)
   Autonomous research system for measurable, computer-executable research.
 
-- **[MengTo/threeui](https://github.com/MengTo/threeui)** ⭐ 5,246
+- **[MengTo/threeui](https://github.com/MengTo/threeui)** ⭐ 5,295
   ![HTML](https://img.shields.io/badge/-HTML-lightgrey)
   Open-source ThreeUI Community catalog with live interactive components and complete Community source.
 
@@ -496,58 +488,58 @@ Out-of-band release to fix `node --version` which was reporting an alpha version
 
 | Skill | Status |
 |-------|--------|
-| Java | 🟡 Learning |
-| Python | 🟡 Learning |
-| JavaScript | 🟡 Learning |
-| TypeScript | 🟡 Learning |
-| Go | 🔴 Beginner |
+| Java | ⚪ Planned |
+| Python | ⚪ Planned |
+| JavaScript | 🔴 Beginner |
+| TypeScript | 🟢 Proficient |
+| Go | 🟢 Proficient |
 
 ### Frameworks
 
 | Skill | Status |
 |-------|--------|
-| React | 🔴 Beginner |
-| Spring Boot | 🟡 Learning |
+| React | ⚪ Planned |
+| Spring Boot | ⚪ Planned |
 | Django | 🟢 Proficient |
-| Node.js | 🟢 Proficient |
-| Next.js | 🟢 Proficient |
+| Node.js | 🔴 Beginner |
+| Next.js | ⚪ Planned |
 
 ### Cybersecurity
 
 | Skill | Status |
 |-------|--------|
-| Penetration Testing | ⚪ Planned |
-| Web Security | ⚪ Planned |
+| Penetration Testing | 🟡 Learning |
+| Web Security | 🔴 Beginner |
 | Network Security | 🟢 Proficient |
-| OWASP | 🔴 Beginner |
+| OWASP | 🟡 Learning |
 
 ### Ai Ml
 
 | Skill | Status |
 |-------|--------|
-| Machine Learning | ⚪ Planned |
-| Deep Learning | ⚪ Planned |
-| NLP | 🟢 Proficient |
-| Computer Vision | 🔴 Beginner |
-| TensorFlow | 🟡 Learning |
-| PyTorch | ⚪ Planned |
+| Machine Learning | 🟢 Proficient |
+| Deep Learning | 🔴 Beginner |
+| NLP | 🟡 Learning |
+| Computer Vision | 🟡 Learning |
+| TensorFlow | ⚪ Planned |
+| PyTorch | 🟡 Learning |
 
 ### Devops
 
 | Skill | Status |
 |-------|--------|
-| Docker | 🟢 Proficient |
-| Kubernetes | ⚪ Planned |
-| CI/CD | 🔴 Beginner |
-| AWS | 🟢 Proficient |
-| Azure | 🟡 Learning |
+| Docker | 🔴 Beginner |
+| Kubernetes | 🟡 Learning |
+| CI/CD | 🟡 Learning |
+| AWS | 🔴 Beginner |
+| Azure | 🔴 Beginner |
 
 ### Other
 
 | Skill | Status |
 |-------|--------|
-| Blockchain | 🟢 Proficient |
-| Web3 | 🟢 Proficient |
+| Blockchain | 🔴 Beginner |
+| Web3 | 🟡 Learning |
 | Cloud Computing | 🔴 Beginner |
 
 </details>
