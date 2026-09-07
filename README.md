@@ -46,36 +46,45 @@
 
 ### 📑 Hacker News
 
-- **[Bing Wallpaper showing Ad for Harry Potter and Fantastic beasts box set](https://www.thurrott.com/forums/microsoft/windows/thread/bing-wallpaper-showing-ad-for-harry-potter-and-fantastic-beasts-box-set)**
-  *<p>Article URL: <a href="https://www.thurrott.com/forums/microsoft/windows/thread/bing-wallpaper-showing-ad-for-harry-potter-and-fantastic-beasts-box-set">https://www.thurrott.com/forums/microsoft/win...*
-  📅 Mon, 07 Sep 2026 15:50:37 +0000
+- **[Why the AfD Wins](https://firstthings.com/why-the-afd-wins/)**
+  *<p>Article URL: <a href="https://firstthings.com/why-the-afd-wins/">https://firstthings.com/why-the-afd-wins/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49602728">https://n...*
+  📅 Mon, 07 Sep 2026 20:35:30 +0000
 
-- **[Bill Gates tries to install MovieMaker](https://www.techemails.com/p/bill-gates-tries-to-install-movie-maker)**
-  *<p>Article URL: <a href="https://www.techemails.com/p/bill-gates-tries-to-install-movie-maker">https://www.techemails.com/p/bill-gates-tries-to-install-movie-maker</a></p>
-<p>Comments URL: <a href="ht...*
-  📅 Mon, 07 Sep 2026 15:27:03 +0000
+- **[Macbeth and His Problems](https://porticoquarterly.com/essay/macbeth-and-his-problems/)**
+  *<p>Article URL: <a href="https://porticoquarterly.com/essay/macbeth-and-his-problems/">https://porticoquarterly.com/essay/macbeth-and-his-problems/</a></p>
+<p>Comments URL: <a href="https://news.ycomb...*
+  📅 Mon, 07 Sep 2026 20:34:32 +0000
 
-- **[If a Tesla Cybercab fleet were profitable, Tesla wouldn't sell you one](https://electrek.co/2026/09/07/tesla-cybercab-fleet-profitable-wouldnt-sell/)**
-  *<p>Article URL: <a href="https://electrek.co/2026/09/07/tesla-cybercab-fleet-profitable-wouldnt-sell/">https://electrek.co/2026/09/07/tesla-cybercab-fleet-profitable-wouldnt-sell/</a></p>
-<p>Comments ...*
-  📅 Mon, 07 Sep 2026 14:49:43 +0000
+- **[Replaceable but Employed: Automation and the Meaning of Work](https://www.nber.org/papers/w35559)**
+  *<p>Article URL: <a href="https://www.nber.org/papers/w35559">https://www.nber.org/papers/w35559</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49601814">https://news.ycombinato...*
+  📅 Mon, 07 Sep 2026 19:06:01 +0000
 
-- **[bzip3](https://github.com/iczelia/bzip3)**
-  *<p>Article URL: <a href="https://github.com/iczelia/bzip3">https://github.com/iczelia/bzip3</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49598291">https://news.ycombinator.co...*
-  📅 Mon, 07 Sep 2026 13:35:13 +0000
+- **[Watch Los Angeles get built, one building at a time (1880–2026)](https://lax-skyline.parcelscope.net/)**
+  *<p>Article URL: <a href="https://lax-skyline.parcelscope.net/">https://lax-skyline.parcelscope.net/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49601655">https://news.ycombi...*
+  📅 Mon, 07 Sep 2026 18:52:06 +0000
 
-- **[De-Brainrot Vacations](https://devz.cl/posts/i-spent-my-vacations-de-brainrotting/)**
-  *<p>Article URL: <a href="https://devz.cl/posts/i-spent-my-vacations-de-brainrotting/">https://devz.cl/posts/i-spent-my-vacations-de-brainrotting/</a></p>
-<p>Comments URL: <a href="https://news.ycombin...*
-  📅 Mon, 07 Sep 2026 13:00:48 +0000
+- **[Show HN: HomeCat – Design your backyard office](https://myhomecat.com)**
+  *<p>Hey HN! Ilya and Nikita here. We’re building HomeCat, a tool that lets you design a backyard office space - <a href="https://myhomecat.com" rel="nofollow">https://myhomecat.com</a><p>We started out...*
+  📅 Mon, 07 Sep 2026 18:23:35 +0000
 
-- **[Splash-free urinals (2025)](https://academic.oup.com/pnasnexus/article/4/4/pgaf087/8098745?login=false)**
-  *<p>Article URL: <a href="https://academic.oup.com/pnasnexus/article/4/4/pgaf087/8098745?login=false">https://academic.oup.com/pnasnexus/article/4/4/pgaf087/8098745?login=false</a></p>
-<p>Comments URL:...*
-  📅 Mon, 07 Sep 2026 12:58:57 +0000
+- **[Show HN: Wg-admin – web UI for an existing WireGuard host](https://github.com/logimaxx/wg-admin)**
+  *<p>Reads /etc/wireguard, lets you add/edit/remove peers, applies with wg syncconf (no interface bounce). Does not install WireGuard or rewrite your PostUp/NAT. That's all</p>
+<hr />
+<p>Comments URL: <...*
+  📅 Mon, 07 Sep 2026 16:43:37 +0000
 
 ### 📑 TechCrunch
+
+- **[Opaque recurrence, and other AI terms that you should probably know](https://techcrunch.com/2026/09/07/artificial-intelligence-definition-glossary-hallucinations-guide-to-common-ai-terms/)**
+  *The rise of AI has brought an avalanche of new terms and slang. Here is a glossary with definitions of some of the most important words and phrases you might encounter....*
+  📅 Mon, 07 Sep 2026 19:24:00 +0000
+
+- **[A secret new Elizabeth Holmes documentary stuns Telluride](https://techcrunch.com/2026/09/07/a-secret-new-elizabeth-holmes-documentary-stuns-telluride/)**
+  *Nathan Fielder and Lance Oppenheim's secret Elizabeth Holmes documentary, "You Can See Everything," stunned Telluride audiences Sunday night with its generous access to the Theranos founder....*
+  📅 Mon, 07 Sep 2026 18:02:29 +0000
 
 - **[What we expect from the upcoming Apple launch](https://techcrunch.com/2026/09/07/what-we-expect-from-the-upcoming-apple-launch/)**
   *While Apple's first foldable iPhone Ultra will headline the September 9 launch, we're also expecting news about AirPods and HomePods....*
@@ -93,23 +102,18 @@
   *The Uber founder has said that Atoms will allow him to complete "unfinished business."...*
   📅 Sun, 06 Sep 2026 16:45:00 +0000
 
-- **[TechCrunch Mobility: Tesla Cybercab hits the road — and a snag](https://techcrunch.com/2026/09/06/techcrunch-mobility-tesla-cybercab-hits-the-road-and-a-snag/)**
-  *Welcome back to TechCrunch Mobility, your hub for the future of transportation and now, more than ever, the role AI is playing in it....*
-  📅 Sun, 06 Sep 2026 16:08:00 +0000
-
-- **[Seattle Times and Newsday are the latest publications to sue OpenAI and Microsoft](https://techcrunch.com/2026/09/05/seattle-times-and-newsday-are-the-latest-publications-to-sue-openai-and-microsoft/)**
-  *Two more news organizations are suing OpenAI and Microsoft over the supposed use of their journalism to train AI....*
-  📅 Sat, 05 Sep 2026 22:49:55 +0000
-
 ### 📑 Dev.to
 
-- **[Three company registers, one word: what "active" actually means in Norway, the UK and Sweden](https://dev.to/fargeroddotcom/three-company-registers-one-word-what-active-actually-means-in-norway-the-uk-and-sweden-51e2)**
-  *<p>An agent about to pay an invoice asks one question first: is this company still active? <code>registry-mcp</code> answers from three national registers — Brønnøysundregistrene / Enhetsregisteret (<...*
-  📅 Mon, 07 Sep 2026 16:45:30 +0000
+- **[Our regex found 199 records in a 1,723-record corpus and reported no errors](https://dev.to/thedolceway/our-regex-found-199-records-in-a-1723-record-corpus-and-reported-no-errors-31eh)**
+  *<p>We maintain a corpus of 456 role-specific resume examples in TypeScript. Someone asked me<br />
+what a good bullet point actually looks like, and rather than answer from taste I decided<br />
+to me...*
+  📅 Mon, 07 Sep 2026 20:41:43 +0000
 
-- **[Seller Order Emails — 4 Checks to Create, Preview, and Send Transactional Templates](https://dev.to/yorkholloway3257/seller-order-emails-4-checks-to-create-preview-and-send-transactional-templates-1pef)**
-  *<p>Short answer: create an immutable, versioned transactional email artifact; preview that exact artifact with representative marketplace-order data; approve its headers and rendered body; then make t...*
-  📅 Mon, 07 Sep 2026 16:45:23 +0000
+- **[Our site served every URL the same 3,780 bytes, and Google believed it](https://dev.to/thedolceway/our-site-served-every-url-the-same-3780-bytes-and-google-believed-it-1d9m)**
+  *<p>Checked with a Googlebot user agent one morning: every single URL on our site returned the<br />
+same 3,780-byte shell. Same <code>&lt;title&gt;</code>, zero <code>&lt;h1&gt;</code>, zero body text...*
+  📅 Mon, 07 Sep 2026 20:40:49 +0000
 
 </details>
 
@@ -117,87 +121,87 @@
 
 ### 📈 Daily Trending
 
-- **[EverettFish/holo-card-studio](https://github.com/EverettFish/holo-card-studio)** ⭐ 736
+- **[EverettFish/holo-card-studio](https://github.com/EverettFish/holo-card-studio)** ⭐ 773
   ![Python](https://img.shields.io/badge/-Python-blue)
   Turn the user's description or uploaded reference into a finished, editable Blender card and an interactive Three.js page. Preserve the requested subject, style, typography and destination. This skill contains code and text only; generated artwork belongs in the user's output project.
 
-- **[VII-Cae/hyalite--liquid-glass](https://github.com/VII-Cae/hyalite--liquid-glass)** ⭐ 92
+- **[achimala/dream-loop](https://github.com/achimala/dream-loop)** ⭐ 104
+  ![None](https://img.shields.io/badge/-None-lightgrey)
+  Agent skill for impressive 3D visuals using Blender + image gen + subagent critic
+
+- **[VII-Cae/hyalite--liquid-glass](https://github.com/VII-Cae/hyalite--liquid-glass)** ⭐ 101
   ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
   Real refraction liquid glass for the web: SDF lens maps + SVG displacement + backdrop-filter. One file, no WebGL.
 
-- **[aizhimou/javranking-extension](https://github.com/aizhimou/javranking-extension)** ⭐ 87
+- **[aizhimou/javranking-extension](https://github.com/aizhimou/javranking-extension)** ⭐ 89
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   Show all JAV cover and ranking in one click.
 
-- **[LuckinSven/8086-xcheck-system](https://github.com/LuckinSven/8086-xcheck-system)** ⭐ 60
+- **[LuckinSven/8086-xcheck-system](https://github.com/LuckinSven/8086-xcheck-system)** ⭐ 83
   ![Python](https://img.shields.io/badge/-Python-blue)
   XCheck IP Reputation Investigation System
 
-- **[yappologistic/Spun](https://github.com/yappologistic/Spun)** ⭐ 48
-  ![C++](https://img.shields.io/badge/-C++-pink)
-  A CD-shaped music player for Linux, with local playback and Cider integration.
-
-- **[Vheissu/hit-and-run-web](https://github.com/Vheissu/hit-and-run-web)** ⭐ 43
-  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
-  Playable browser reconstruction of The Simpsons: Hit & Run with converted assets and Blender remaster tools.
-
-- **[Albertchamberlain/Awesome-OKF](https://github.com/Albertchamberlain/Awesome-OKF)** ⭐ 31
+- **[Albertchamberlain/Awesome-OKF](https://github.com/Albertchamberlain/Awesome-OKF)** ⭐ 66
   ![Python](https://img.shields.io/badge/-Python-blue)
   Curated Open Knowledge Format (OKF) resources — plugins, skills, proposals, and tools. YAML-driven, agent-searchable.
 
-- **[hku-sail/Real2Sim_GPT6_ASTRA](https://github.com/hku-sail/Real2Sim_GPT6_ASTRA)** ⭐ 31
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  None
+- **[dingbo3603-ui/ming-official-atlas](https://github.com/dingbo3603-ui/ming-official-atlas)** ⭐ 58
+  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
+  大明职官图：明代官署、人物履历、年号检索与府州县交互图谱
+
+- **[yappologistic/Spun](https://github.com/yappologistic/Spun)** ⭐ 56
+  ![C++](https://img.shields.io/badge/-C++-pink)
+  A CD-shaped music player for Linux, with local playback and Cider integration.
 
 ### 📈 Weekly Trending
 
-- **[lnkiai/m3e-canvas](https://github.com/lnkiai/m3e-canvas)** ⭐ 4,602
+- **[lnkiai/m3e-canvas](https://github.com/lnkiai/m3e-canvas)** ⭐ 4,637
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   Sketch Material 3 Expressive screens in the browser and turn them into vibe-coding prompts.
 
-- **[anthropics/commerce-agents](https://github.com/anthropics/commerce-agents)** ⭐ 2,374
+- **[anthropics/commerce-agents](https://github.com/anthropics/commerce-agents)** ⭐ 2,387
   ![Python](https://img.shields.io/badge/-Python-blue)
   Reference blueprint for building shopping and merchant agents with Claude. Examples in retail, commerce, telecom, and entertainment included.
 
-- **[ashemag/human-atlas](https://github.com/ashemag/human-atlas)** ⭐ 1,884
+- **[ashemag/human-atlas](https://github.com/ashemag/human-atlas)** ⭐ 1,963
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   Open-source 3D anatomy explorer: 2,234 selectable BodyParts3D meshes, system layers, search, and exploded views.
 
-- **[Rion-Wu-tech/wechat-intelligence-hub](https://github.com/Rion-Wu-tech/wechat-intelligence-hub)** ⭐ 1,726
+- **[Rion-Wu-tech/wechat-intelligence-hub](https://github.com/Rion-Wu-tech/wechat-intelligence-hub)** ⭐ 1,754
   ![Python](https://img.shields.io/badge/-Python-blue)
   Local-first WeChat intelligence system with a read-only CLI, Codex skills, searchable chat history, daily briefings, follow-ups and opportunity tracking.
 
-- **[pierrenade/short-video-generator-AI](https://github.com/pierrenade/short-video-generator-AI)** ⭐ 1,147
+- **[pierrenade/short-video-generator-AI](https://github.com/pierrenade/short-video-generator-AI)** ⭐ 1,162
   ![Python](https://img.shields.io/badge/-Python-blue)
   Free open-source project designed for turning youtube-viedos into viral short videos. Highlight detection, subtitles, translation, voiceover, all in one for your content.
 
-- **[anthropics/fermats-last-theorem](https://github.com/anthropics/fermats-last-theorem)** ⭐ 922
+- **[anthropics/fermats-last-theorem](https://github.com/anthropics/fermats-last-theorem)** ⭐ 933
   ![Lean](https://img.shields.io/badge/-Lean-lightgrey)
   None
 
-- **[vinzdg/codenotch](https://github.com/vinzdg/codenotch)** ⭐ 882
+- **[vinzdg/codenotch](https://github.com/vinzdg/codenotch)** ⭐ 916
   ![Swift](https://img.shields.io/badge/-Swift-lightgrey)
   A macOS app that pins usage limits from Claude Code, Cursor, Codex, and Antigravity to a screen edge.
 
-- **[yczz/oc-english](https://github.com/yczz/oc-english)** ⭐ 848
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
-  养成类游戏英语学习
+- **[danielblnc/DLSS-NR-on-AMD](https://github.com/danielblnc/DLSS-NR-on-AMD)** ⭐ 854
+  ![None](https://img.shields.io/badge/-None-lightgrey)
+  Run DLSS 5 Neural Rendering on your AMD GPU. Magic!
 
 ### 📈 Monthly Trending
 
-- **[deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness)** ⭐ 215,016
+- **[deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness)** ⭐ 215,093
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   DeepSeek Harness: Everything is a Plugin.
 
-- **[anywhere-labs/dsh-desktop](https://github.com/anywhere-labs/dsh-desktop)** ⭐ 24,216
+- **[anywhere-labs/dsh-desktop](https://github.com/anywhere-labs/dsh-desktop)** ⭐ 24,228
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   为 DeepSeek Harness (DSH) 插件生态打造的现代化桌面端解决方案。万物皆「插件」，桌面本身也是「插件」。
 
-- **[guillaumemeyer/watermarks-remover](https://github.com/guillaumemeyer/watermarks-remover)** ⭐ 21,200
+- **[guillaumemeyer/watermarks-remover](https://github.com/guillaumemeyer/watermarks-remover)** ⭐ 21,218
   ![Python](https://img.shields.io/badge/-Python-blue)
   A privacy-first app that strips AI watermarks from content you own.
 
-- **[awesome-dsh-plugin/awesome-dsh-plugin](https://github.com/awesome-dsh-plugin/awesome-dsh-plugin)** ⭐ 14,769
+- **[awesome-dsh-plugin/awesome-dsh-plugin](https://github.com/awesome-dsh-plugin/awesome-dsh-plugin)** ⭐ 14,780
   ![Python](https://img.shields.io/badge/-Python-blue)
   A curated list of plugins for DeepSeek Harness (dsh) · DeepSeek Harness 插件精选列表
 
@@ -205,15 +209,15 @@
   ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
   dsh-routing-suite — injector + router-standard kit: install the runtime injector first, then the task-aware reasoning-mode router preset (measured P1-P23).
 
-- **[zhu1090093659/dsh-web](https://github.com/zhu1090093659/dsh-web)** ⭐ 7,097
+- **[zhu1090093659/dsh-web](https://github.com/zhu1090093659/dsh-web)** ⭐ 7,103
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   DeepSeek Harness (DSH) Web Plugin Aggregation Ecosystem · Everything is a plugin, distributed via the Creative Workshop
 
-- **[sapientinc/PRAXIST](https://github.com/sapientinc/PRAXIST)** ⭐ 6,487
+- **[sapientinc/PRAXIST](https://github.com/sapientinc/PRAXIST)** ⭐ 6,490
   ![Python](https://img.shields.io/badge/-Python-blue)
   Autonomous research system for measurable, computer-executable research.
 
-- **[MengTo/threeui](https://github.com/MengTo/threeui)** ⭐ 5,309
+- **[MengTo/threeui](https://github.com/MengTo/threeui)** ⭐ 5,321
   ![HTML](https://img.shields.io/badge/-HTML-lightgrey)
   Open-source ThreeUI Community catalog with live interactive components and complete Community source.
 
@@ -486,27 +490,27 @@ Out-of-band release to fix `node --version` which was reporting an alpha version
 
 | Skill | Status |
 |-------|--------|
-| Java | ⚪ Planned |
-| Python | 🟢 Proficient |
-| JavaScript | ⚪ Planned |
-| TypeScript | ⚪ Planned |
-| Go | 🟡 Learning |
+| Java | 🔴 Beginner |
+| Python | 🟡 Learning |
+| JavaScript | 🟢 Proficient |
+| TypeScript | 🔴 Beginner |
+| Go | ⚪ Planned |
 
 ### Frameworks
 
 | Skill | Status |
 |-------|--------|
-| React | 🔴 Beginner |
-| Spring Boot | 🟡 Learning |
-| Django | 🟡 Learning |
-| Node.js | 🟢 Proficient |
-| Next.js | 🔴 Beginner |
+| React | 🟢 Proficient |
+| Spring Boot | ⚪ Planned |
+| Django | 🔴 Beginner |
+| Node.js | ⚪ Planned |
+| Next.js | 🟡 Learning |
 
 ### Cybersecurity
 
 | Skill | Status |
 |-------|--------|
-| Penetration Testing | 🟢 Proficient |
+| Penetration Testing | 🟡 Learning |
 | Web Security | ⚪ Planned |
 | Network Security | ⚪ Planned |
 | OWASP | 🔴 Beginner |
@@ -515,11 +519,11 @@ Out-of-band release to fix `node --version` which was reporting an alpha version
 
 | Skill | Status |
 |-------|--------|
-| Machine Learning | 🟡 Learning |
-| Deep Learning | ⚪ Planned |
-| NLP | 🟡 Learning |
-| Computer Vision | 🟡 Learning |
-| TensorFlow | 🟡 Learning |
+| Machine Learning | ⚪ Planned |
+| Deep Learning | 🟡 Learning |
+| NLP | ⚪ Planned |
+| Computer Vision | 🔴 Beginner |
+| TensorFlow | 🟢 Proficient |
 | PyTorch | ⚪ Planned |
 
 ### Devops
@@ -527,18 +531,18 @@ Out-of-band release to fix `node --version` which was reporting an alpha version
 | Skill | Status |
 |-------|--------|
 | Docker | ⚪ Planned |
-| Kubernetes | 🟢 Proficient |
-| CI/CD | 🔴 Beginner |
-| AWS | 🟡 Learning |
-| Azure | 🔴 Beginner |
+| Kubernetes | 🟡 Learning |
+| CI/CD | 🟡 Learning |
+| AWS | 🔴 Beginner |
+| Azure | ⚪ Planned |
 
 ### Other
 
 | Skill | Status |
 |-------|--------|
-| Blockchain | 🟢 Proficient |
+| Blockchain | 🔴 Beginner |
 | Web3 | ⚪ Planned |
-| Cloud Computing | 🔴 Beginner |
+| Cloud Computing | 🟡 Learning |
 
 </details>
 
