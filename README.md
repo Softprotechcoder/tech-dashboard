@@ -46,71 +46,71 @@
 
 ### 📑 Hacker News
 
-- **[Among European Companies That Use a CDN, Nearly 9 in 10 Use Cloudflare](https://ciphercue.com/blog/european-cdn-concentration-cloudflare-nine-in-ten)**
-  *<p>Article URL: <a href="https://ciphercue.com/blog/european-cdn-concentration-cloudflare-nine-in-ten">https://ciphercue.com/blog/european-cdn-concentration-cloudflare-nine-in-ten</a></p>
-<p>Comments ...*
-  📅 Tue, 08 Sep 2026 08:42:56 +0000
+- **[Disappointed Optimists](https://cwodtke.com/disappointed-optimists/)**
+  *<p>Article URL: <a href="https://cwodtke.com/disappointed-optimists/">https://cwodtke.com/disappointed-optimists/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49611549">https...*
+  📅 Tue, 08 Sep 2026 15:13:56 +0000
 
-- **[Navier-Stokes – Tristan Buckmaster [pdf]](https://cims.nyu.edu/~tristanb/statement.pdf)**
-  *<p>Article URL: <a href="https://cims.nyu.edu/~tristanb/statement.pdf">https://cims.nyu.edu/~tristanb/statement.pdf</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49605915">htt...*
-  📅 Tue, 08 Sep 2026 05:42:28 +0000
+- **[Reverse engineering the 2008 LogiCola, a logic drill program](https://logicola.org/blog/the-new-logicola)**
+  *<p>Article URL: <a href="https://logicola.org/blog/the-new-logicola">https://logicola.org/blog/the-new-logicola</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49611329">https:/...*
+  📅 Tue, 08 Sep 2026 15:00:43 +0000
 
-- **[Multi-Agents LLM Financial Trading Framework](https://github.com/TauricResearch/TradingAgents)**
-  *<p>Article URL: <a href="https://github.com/TauricResearch/TradingAgents">https://github.com/TauricResearch/TradingAgents</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=4960582...*
-  📅 Tue, 08 Sep 2026 05:20:23 +0000
+- **[Google DeepMind Releases AlphaGenome Atlas](https://blog.google/innovation-and-ai/models-and-research/google-deepmind/alphagenome-atlas/)**
+  *<p>Article URL: <a href="https://blog.google/innovation-and-ai/models-and-research/google-deepmind/alphagenome-atlas/">https://blog.google/innovation-and-ai/models-and-research/google-deepmind/alphage...*
+  📅 Tue, 08 Sep 2026 14:55:45 +0000
 
-- **[My Feed, My Way](https://www.pm.gov.au/media/my-feed-my-way)**
-  *<p>Article URL: <a href="https://www.pm.gov.au/media/my-feed-my-way">https://www.pm.gov.au/media/my-feed-my-way</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49605782">https:/...*
-  📅 Tue, 08 Sep 2026 05:10:36 +0000
+- **[ZX Spectrum: Experimenting with 1-Bit Sound](https://bumbershootsoft.wordpress.com/2026/09/05/zx-spectrum-experimenting-with-1-bit-sound/)**
+  *<p>Article URL: <a href="https://bumbershootsoft.wordpress.com/2026/09/05/zx-spectrum-experimenting-with-1-bit-sound/">https://bumbershootsoft.wordpress.com/2026/09/05/zx-spectrum-experimenting-with-1...*
+  📅 Tue, 08 Sep 2026 14:54:29 +0000
 
-- **[Mistral raises €3B](https://mistral.ai/news/mistral-makes-sovereign-open-weight-ai-to-frontier/)**
-  *<p>Article URL: <a href="https://mistral.ai/news/mistral-makes-sovereign-open-weight-ai-to-frontier/">https://mistral.ai/news/mistral-makes-sovereign-open-weight-ai-to-frontier/</a></p>
-<p>Comments UR...*
-  📅 Tue, 08 Sep 2026 05:06:23 +0000
+- **[How Climate Resilient Are the Largest Cities?](https://alphageo.ai/how-climate-resilient-are-the-worlds-largest-cities/)**
+  *<p>Article URL: <a href="https://alphageo.ai/how-climate-resilient-are-the-worlds-largest-cities/">https://alphageo.ai/how-climate-resilient-are-the-worlds-largest-cities/</a></p>
+<p>Comments URL: <a ...*
+  📅 Tue, 08 Sep 2026 14:49:39 +0000
 
-- **[We have a year to fix security everywhere](https://jyn.dev/a-year-to-fix-security/)**
-  *<p>Article URL: <a href="https://jyn.dev/a-year-to-fix-security/">https://jyn.dev/a-year-to-fix-security/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49605691">https://news....*
-  📅 Tue, 08 Sep 2026 04:48:10 +0000
+- **[Benchmarking Qwen3.8 27B quantizations: 4-bit holds up, 1-bit collapses](https://quesma.com/blog/qwen38-27b-quantizations-benchmarked/)**
+  *<p>Article URL: <a href="https://quesma.com/blog/qwen38-27b-quantizations-benchmarked/">https://quesma.com/blog/qwen38-27b-quantizations-benchmarked/</a></p>
+<p>Comments URL: <a href="https://news.yco...*
+  📅 Tue, 08 Sep 2026 14:49:19 +0000
 
 ### 📑 TechCrunch
 
-- **[Eric Wu’s newest company, out of stealth since May, is going after construction’s labor crunch](https://techcrunch.com/2026/09/07/eric-wus-newest-company-out-of-stealth-since-may-is-going-after-constructions-labor-crunch/)**
-  *Eric Wu, who built and ran Opendoor before stepping away in 2022, has had his new company, NavigateAI, out of stealth since May — building AI copilots that give construction workers real-time, hands-f...*
-  📅 Tue, 08 Sep 2026 02:16:39 +0000
+- **[Google’s revived nuclear power plant gets $1.9B loan from US government](https://techcrunch.com/2026/09/08/googles-revived-nuclear-power-plant-gets-1-9b-loan-from-us-government/)**
+  *Google said it would bring an Iowa nuclear power plant back from the dead. Now, the plant's owner is getting a $1.9B loan from the U.S. Energy Department....*
+  📅 Tue, 08 Sep 2026 15:25:35 +0000
 
-- **[Opaque recurrence, and other AI terms that you should probably know](https://techcrunch.com/2026/09/07/artificial-intelligence-definition-glossary-hallucinations-guide-to-common-ai-terms/)**
-  *The rise of AI has brought an avalanche of new terms and slang. Here is a glossary with definitions of some of the most important words and phrases you might encounter....*
-  📅 Mon, 07 Sep 2026 19:24:00 +0000
+- **[Chrome is now shipping updates every 2 weeks as AI changes the security landscape](https://techcrunch.com/2026/09/08/chrome-is-now-shipping-updates-every-2-weeks-as-ai-changes-the-security-landscape/)**
+  *Google is speeding up Chrome’s release schedule to ship security patches and new features faster....*
+  📅 Tue, 08 Sep 2026 15:04:09 +0000
 
-- **[A secret new Elizabeth Holmes documentary stuns Telluride](https://techcrunch.com/2026/09/07/a-secret-new-elizabeth-holmes-documentary-stuns-telluride/)**
-  *Nathan Fielder and Lance Oppenheim's secret Elizabeth Holmes documentary, "You Can See Everything," stunned Telluride audiences Sunday night with its generous access to the Theranos founder....*
-  📅 Mon, 07 Sep 2026 18:02:29 +0000
+- **[Mistral raises €3B as sovereign AI becomes big business](https://techcrunch.com/2026/09/08/mistral-raises-e3b-as-sovereign-ai-becomes-big-business/)**
+  *The French AI lab has raised €3 billion at a €21 billion valuation in a Series D round led by Samsung, Scaleup Europe and PSG Equity....*
+  📅 Tue, 08 Sep 2026 14:17:48 +0000
 
-- **[What we expect from the upcoming Apple launch](https://techcrunch.com/2026/09/07/what-we-expect-from-the-upcoming-apple-launch/)**
-  *While Apple's first foldable iPhone Ultra will headline the September 9 launch, we're also expecting news about AirPods and HomePods....*
-  📅 Mon, 07 Sep 2026 15:58:00 +0000
+- **[A hacker stole $340M in a crypto heist, then returned most of it](https://techcrunch.com/2026/09/08/a-hacker-stole-340m-in-a-crypto-heist-then-returned-most-of-it/)**
+  *The latest heist is one of the largest thefts of cryptocurrency to date....*
+  📅 Tue, 08 Sep 2026 14:11:29 +0000
 
-- **[Phil Schiller’s App Store exit reportedly driven by wariness over future plans](https://techcrunch.com/2026/09/06/phil-schillers-app-store-exit-reportedly-driven-by-wariness-over-future-plans/)**
-  *Schiller reportedly had reservations about new CEO John Ternus' goal of bringing in more recurring revenue from the App Store....*
-  📅 Sun, 06 Sep 2026 21:41:06 +0000
+- **[Nuclear startup Bluecore Energy raises $50M seed round, just two months after launch](https://techcrunch.com/2026/09/08/nuclear-startup-bluecore-energy-raises-50m-seed-round-just-two-months-after-launch/)**
+  *Bluecore Energy announced Tuesday an oversubscribed $50 million seed round — just months after raising a $10 million pre-seed and coming out of stealth....*
+  📅 Tue, 08 Sep 2026 14:10:17 +0000
 
-- **[Authors push back as publishers and agents make claims on Anthropic settlement](https://techcrunch.com/2026/09/06/authors-push-back-as-publishers-and-agents-seek-share-of-anthropic-settlement/)**
-  *Authors say publishers seem to be claiming more than their fair share of settlement payments....*
-  📅 Sun, 06 Sep 2026 20:47:37 +0000
+- **[Poseidon Aerospace lands $60M ahead of first pilotless test flight](https://techcrunch.com/2026/09/08/poseidon-aerospace-lands-60m-ahead-of-first-pilotless-test-flight/)**
+  *The startup is trying to rethink the economics of cargo aircraft by removing pilots from the equation entirely....*
+  📅 Tue, 08 Sep 2026 13:00:00 +0000
 
 ### 📑 Dev.to
 
-- **[Two times an external API overruled my own repository](https://dev.to/morinaga/two-times-an-external-api-overruled-my-own-repository-5dg6)**
-  *<p>Most automated verification tools assume the repository is the source of truth. If the code says X, X is true. If the commit history documents Y, Y happened. It's a reasonable default — until it is...*
-  📅 Tue, 08 Sep 2026 10:13:20 +0000
+- **[Prompt Engineering: How to Actually Get What You Want from AI](https://dev.to/blackwatch021/prompt-engineering-how-to-actually-get-what-you-want-from-ai-4e02)**
+  *<p>You ask an AI to help you prepare for an interview. You get back twenty generic questions you could have found on any blog.</p>
 
-- **[You Don't Need Kubernetes to Become a DevOps Engineer: The Learning Path I Wish I Had](https://dev.to/arbythecoder/you-dont-need-kubernetes-to-become-a-devops-engineer-the-learning-path-i-wish-i-had-3gh7)**
-  *<p>There is a specific kind of imposter syndrome that shows up early in a DevOps career. It usually sounds like a quiet, nagging voice: <em>"I am not a real DevOps engineer yet because I haven't touch...*
-  📅 Tue, 08 Sep 2026 10:09:47 +0000
+<p>You ask again. This time you mention that you are an entry-level ...*
+  📅 Tue, 08 Sep 2026 15:31:56 +0000
+
+- **[🚀 I’m building LifeOS — and I want developers to break it](https://dev.to/srsuchard/im-building-lifeos-and-i-want-developers-to-break-it-3jjb)**
+  *<p>I’ve been working on a new project called <strong>LifeOS</strong>, an AI-powered personal operating system designed to help organize tasks, projects, goals, schedules, and everything else you’re tr...*
+  📅 Tue, 08 Sep 2026 15:31:36 +0000
 
 </details>
 
@@ -118,103 +118,103 @@
 
 ### 📈 Daily Trending
 
-- **[tristanbuckmaster/fluid_lean](https://github.com/tristanbuckmaster/fluid_lean)** ⭐ 74
-  ![Lean](https://img.shields.io/badge/-Lean-lightgrey)
-  None
-
-- **[gazijarin/itsgiving](https://github.com/gazijarin/itsgiving)** ⭐ 45
+- **[gazijarin/itsgiving](https://github.com/gazijarin/itsgiving)** ⭐ 191
   ![Python](https://img.shields.io/badge/-Python-blue)
   Express yourself in meetings (with memes, of course).
 
-- **[andrewroxby/claude-style-patch](https://github.com/andrewroxby/claude-style-patch)** ⭐ 38
-  ![None](https://img.shields.io/badge/-None-lightgrey)
-  A drop-in CLAUDE.md style section that changes how Claude writes prose.
-
-- **[yufen0922/verifigen](https://github.com/yufen0922/verifigen)** ⭐ 24
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  None
-
-- **[FemtoCoppersmith/facebook-reporting-bot](https://github.com/FemtoCoppersmith/facebook-reporting-bot)** ⭐ 21
-  ![None](https://img.shields.io/badge/-None-lightgrey)
-  Bots are automated tools designed to streamline the process of submitting reports on FaceBook accounts that may violate the platform’s Community Guidelines. They can assist with reporting issues such as spam, report reporter mass acc ban bot page group impersonation, fake profile account, or other policy violations. Depending on their functionality
-
-- **[AxisUrchin10/Multichain-Drainer-Tool](https://github.com/AxisUrchin10/Multichain-Drainer-Tool)** ⭐ 21
-  ![None](https://img.shields.io/badge/-None-lightgrey)
-  An automated MultiChain wallet drain utility for USDT ETH SOLANA BTC LTC BNB ETC Trc20 trx... tokens bot
-
-- **[masihsultani/whiteboard-animator](https://github.com/masihsultani/whiteboard-animator)** ⭐ 21
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  Turn a whiteboard-style image into a hand-drawn reveal video. The render engine behind Kinoslide.
-
-- **[kiri603/To-Sheet-Music-Skill](https://github.com/kiri603/To-Sheet-Music-Skill)** ⭐ 18
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  Automatically transforms mixed song recordings into playable five-piece school band arrangements through audio separation, music transcription, arrangement, and difficulty adjustment. Outputs include MIDI, print-ready PDF scores, and editable MuseScore (.mscz) files.将混音歌曲音频自动分轨、扒谱并改编为适合五人校园乐队演奏的伴奏总谱，支持难度调整，并输出 MIDI、PDF 总谱和可编辑的 MuseScore（.mscz）文件。
-
-### 📈 Weekly Trending
-
-- **[lnkiai/m3e-canvas](https://github.com/lnkiai/m3e-canvas)** ⭐ 4,866
-  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
-  Sketch Material 3 Expressive screens in the browser and turn them into vibe-coding prompts.
-
-- **[ashemag/human-atlas](https://github.com/ashemag/human-atlas)** ⭐ 2,258
-  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
-  Open-source 3D anatomy explorer: 2,234 selectable BodyParts3D meshes, system layers, search, and exploded views.
-
-- **[Rion-Wu-tech/wechat-intelligence-hub](https://github.com/Rion-Wu-tech/wechat-intelligence-hub)** ⭐ 1,899
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  Local-first WeChat intelligence system with a read-only CLI, Codex skills, searchable chat history, daily briefings, follow-ups and opportunity tracking.
-
-- **[pierrenade/short-video-generator-AI](https://github.com/pierrenade/short-video-generator-AI)** ⭐ 1,211
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  Free open-source project designed for turning youtube-viedos into viral short videos. Highlight detection, subtitles, translation, voiceover, all in one for your content.
-
-- **[EverettFish/holo-card-studio](https://github.com/EverettFish/holo-card-studio)** ⭐ 1,013
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  Turn the user's description or uploaded reference into a finished, editable Blender card and an interactive Three.js page. Preserve the requested subject, style, typography and destination. This skill contains code and text only; generated artwork belongs in the user's output project.
-
-- **[vinzdg/codenotch](https://github.com/vinzdg/codenotch)** ⭐ 984
-  ![Swift](https://img.shields.io/badge/-Swift-lightgrey)
-  A macOS app that pins usage limits from Claude Code, Cursor, Codex, and Antigravity to a screen edge.
-
-- **[anthropics/fermats-last-theorem](https://github.com/anthropics/fermats-last-theorem)** ⭐ 955
+- **[tristanbuckmaster/fluid_lean](https://github.com/tristanbuckmaster/fluid_lean)** ⭐ 106
   ![Lean](https://img.shields.io/badge/-Lean-lightgrey)
   None
 
-- **[danielblnc/DLSS-NR-on-AMD](https://github.com/danielblnc/DLSS-NR-on-AMD)** ⭐ 888
+- **[andrewroxby/claude-style-patch](https://github.com/andrewroxby/claude-style-patch)** ⭐ 74
+  ![None](https://img.shields.io/badge/-None-lightgrey)
+  A drop-in CLAUDE.md style section that changes how Claude writes prose.
+
+- **[daishuge/pcb-skill](https://github.com/daishuge/pcb-skill)** ⭐ 64
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  Agent skill for taking a hardware idea to a manufacturable PCB: concept, schematic, sourcing, layout, routing, verification, and a purchase staged to the pre-payment page. Drives EasyEDA Pro over MCP from Claude Code or Codex.
+
+- **[skydoves/nowinandroid-kmp](https://github.com/skydoves/nowinandroid-kmp)** ⭐ 45
+  ![Kotlin](https://img.shields.io/badge/-Kotlin-lightgrey)
+  📱 Now in Android KMP is a full Kotlin Multiplatform port of Google's Now in Android sample.
+
+- **[Lakr233/maintainable-update](https://github.com/Lakr233/maintainable-update)** ⭐ 42
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  Repo-wide maintainability sweep: copy, clarity, wrap, width, split, rename, tidy
+
+- **[masihsultani/whiteboard-animator](https://github.com/masihsultani/whiteboard-animator)** ⭐ 37
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  Turn a whiteboard-style image into a hand-drawn reveal video. The render engine behind Kinoslide.
+
+- **[paveldevyatov/refund-anything-ai-prompt](https://github.com/paveldevyatov/refund-anything-ai-prompt)** ⭐ 30
+  ![None](https://img.shields.io/badge/-None-lightgrey)
+  AI prompt that gets your money back — subscriptions, digital purchases, bookings. Polite letter first, legal escalation second. 30+ jurisdictions.
+
+### 📈 Weekly Trending
+
+- **[lnkiai/m3e-canvas](https://github.com/lnkiai/m3e-canvas)** ⭐ 5,071
+  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
+  Sketch Material 3 Expressive screens in the browser and turn them into vibe-coding prompts.
+
+- **[ashemag/human-atlas](https://github.com/ashemag/human-atlas)** ⭐ 2,372
+  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
+  Open-source 3D anatomy explorer: 2,234 selectable BodyParts3D meshes, system layers, search, and exploded views.
+
+- **[Rion-Wu-tech/wechat-intelligence-hub](https://github.com/Rion-Wu-tech/wechat-intelligence-hub)** ⭐ 1,924
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  Local-first WeChat intelligence system with a read-only CLI, Codex skills, searchable chat history, daily briefings, follow-ups and opportunity tracking.
+
+- **[Albert-Weasker/niubigeo](https://github.com/Albert-Weasker/niubigeo)** ⭐ 1,690
+  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
+  Open-source AI brand visibility and competitor reports
+
+- **[EverettFish/holo-card-studio](https://github.com/EverettFish/holo-card-studio)** ⭐ 1,098
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  Turn the user's description or uploaded reference into a finished, editable Blender card and an interactive Three.js page. Preserve the requested subject, style, typography and destination. This skill contains code and text only; generated artwork belongs in the user's output project.
+
+- **[vinzdg/codenotch](https://github.com/vinzdg/codenotch)** ⭐ 1,048
+  ![Swift](https://img.shields.io/badge/-Swift-lightgrey)
+  A macOS app that pins usage limits from Claude Code, Cursor, Codex, and Antigravity to a screen edge.
+
+- **[anthropics/fermats-last-theorem](https://github.com/anthropics/fermats-last-theorem)** ⭐ 966
+  ![Lean](https://img.shields.io/badge/-Lean-lightgrey)
+  None
+
+- **[danielblnc/DLSS-NR-on-AMD](https://github.com/danielblnc/DLSS-NR-on-AMD)** ⭐ 914
   ![None](https://img.shields.io/badge/-None-lightgrey)
   Run DLSS 5 Neural Rendering on your AMD GPU. Magic!
 
 ### 📈 Monthly Trending
 
-- **[deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness)** ⭐ 215,733
+- **[deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness)** ⭐ 216,041
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   DeepSeek Harness: Everything is a Plugin.
 
-- **[anywhere-labs/dsh-desktop](https://github.com/anywhere-labs/dsh-desktop)** ⭐ 24,429
+- **[anywhere-labs/dsh-desktop](https://github.com/anywhere-labs/dsh-desktop)** ⭐ 24,495
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   为 DeepSeek Harness (DSH) 插件生态打造的现代化桌面端解决方案。万物皆「插件」，桌面本身也是「插件」。
 
-- **[guillaumemeyer/watermarks-remover](https://github.com/guillaumemeyer/watermarks-remover)** ⭐ 21,317
+- **[guillaumemeyer/watermarks-remover](https://github.com/guillaumemeyer/watermarks-remover)** ⭐ 21,357
   ![Python](https://img.shields.io/badge/-Python-blue)
   A privacy-first app that strips AI watermarks from content you own.
 
-- **[awesome-dsh-plugin/awesome-dsh-plugin](https://github.com/awesome-dsh-plugin/awesome-dsh-plugin)** ⭐ 14,860
+- **[awesome-dsh-plugin/awesome-dsh-plugin](https://github.com/awesome-dsh-plugin/awesome-dsh-plugin)** ⭐ 14,904
   ![Python](https://img.shields.io/badge/-Python-blue)
   A curated list of plugins for DeepSeek Harness (dsh) · DeepSeek Harness 插件精选列表
 
-- **[zhu1090093659/dsh-web](https://github.com/zhu1090093659/dsh-web)** ⭐ 7,140
+- **[zhu1090093659/dsh-web](https://github.com/zhu1090093659/dsh-web)** ⭐ 7,157
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   DeepSeek Harness (DSH) Web Plugin Aggregation Ecosystem · Everything is a plugin, distributed via the Creative Workshop
 
-- **[yjh051108/dsh-routing-suite](https://github.com/yjh051108/dsh-routing-suite)** ⭐ 7,133
+- **[yjh051108/dsh-routing-suite](https://github.com/yjh051108/dsh-routing-suite)** ⭐ 7,134
   ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
   dsh-routing-suite — injector + router-standard kit: install the runtime injector first, then the task-aware reasoning-mode router preset (measured P1-P23).
 
-- **[sapientinc/PRAXIST](https://github.com/sapientinc/PRAXIST)** ⭐ 6,776
+- **[sapientinc/PRAXIST](https://github.com/sapientinc/PRAXIST)** ⭐ 6,785
   ![Python](https://img.shields.io/badge/-Python-blue)
   Autonomous research system for measurable, computer-executable research.
 
-- **[MengTo/threeui](https://github.com/MengTo/threeui)** ⭐ 5,364
+- **[MengTo/threeui](https://github.com/MengTo/threeui)** ⭐ 5,379
   ![HTML](https://img.shields.io/badge/-HTML-lightgrey)
   Open-source ThreeUI Community catalog with live interactive components and complete Community source.
 
@@ -487,51 +487,51 @@ Out-of-band release to fix `node --version` which was reporting an alpha version
 
 | Skill | Status |
 |-------|--------|
-| Java | 🟡 Learning |
-| Python | 🟢 Proficient |
-| JavaScript | ⚪ Planned |
-| TypeScript | 🟡 Learning |
-| Go | ⚪ Planned |
+| Java | 🔴 Beginner |
+| Python | ⚪ Planned |
+| JavaScript | 🟡 Learning |
+| TypeScript | 🟢 Proficient |
+| Go | 🟡 Learning |
 
 ### Frameworks
 
 | Skill | Status |
 |-------|--------|
-| React | ⚪ Planned |
-| Spring Boot | 🔴 Beginner |
-| Django | 🟢 Proficient |
-| Node.js | 🟡 Learning |
+| React | 🟢 Proficient |
+| Spring Boot | 🟡 Learning |
+| Django | 🟡 Learning |
+| Node.js | ⚪ Planned |
 | Next.js | 🔴 Beginner |
 
 ### Cybersecurity
 
 | Skill | Status |
 |-------|--------|
-| Penetration Testing | 🟡 Learning |
+| Penetration Testing | 🔴 Beginner |
 | Web Security | ⚪ Planned |
-| Network Security | 🟡 Learning |
-| OWASP | ⚪ Planned |
+| Network Security | 🟢 Proficient |
+| OWASP | 🟢 Proficient |
 
 ### Ai Ml
 
 | Skill | Status |
 |-------|--------|
-| Machine Learning | 🔴 Beginner |
-| Deep Learning | 🔴 Beginner |
-| NLP | ⚪ Planned |
+| Machine Learning | 🟡 Learning |
+| Deep Learning | ⚪ Planned |
+| NLP | 🟡 Learning |
 | Computer Vision | ⚪ Planned |
-| TensorFlow | 🟢 Proficient |
-| PyTorch | 🟡 Learning |
+| TensorFlow | 🔴 Beginner |
+| PyTorch | 🔴 Beginner |
 
 ### Devops
 
 | Skill | Status |
 |-------|--------|
-| Docker | 🟡 Learning |
+| Docker | 🔴 Beginner |
 | Kubernetes | 🟡 Learning |
-| CI/CD | 🟢 Proficient |
+| CI/CD | ⚪ Planned |
 | AWS | 🟢 Proficient |
-| Azure | 🔴 Beginner |
+| Azure | 🟡 Learning |
 
 ### Other
 
@@ -539,7 +539,7 @@ Out-of-band release to fix `node --version` which was reporting an alpha version
 |-------|--------|
 | Blockchain | 🟢 Proficient |
 | Web3 | 🟡 Learning |
-| Cloud Computing | 🟡 Learning |
+| Cloud Computing | 🟢 Proficient |
 
 </details>
 
