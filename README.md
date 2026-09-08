@@ -46,71 +46,85 @@
 
 ### 📑 Hacker News
 
-- **[Disappointed Optimists](https://cwodtke.com/disappointed-optimists/)**
-  *<p>Article URL: <a href="https://cwodtke.com/disappointed-optimists/">https://cwodtke.com/disappointed-optimists/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49611549">https...*
-  📅 Tue, 08 Sep 2026 15:13:56 +0000
+- **[Muse: Meta's personal AI agent, features and capabilities](https://ai.meta.com/muse/)**
+  *<p>Article URL: <a href="https://ai.meta.com/muse/">https://ai.meta.com/muse/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49615537">https://news.ycombinator.com/item?id=4961...*
+  📅 Tue, 08 Sep 2026 19:25:00 +0000
 
-- **[Reverse engineering the 2008 LogiCola, a logic drill program](https://logicola.org/blog/the-new-logicola)**
-  *<p>Article URL: <a href="https://logicola.org/blog/the-new-logicola">https://logicola.org/blog/the-new-logicola</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49611329">https:/...*
-  📅 Tue, 08 Sep 2026 15:00:43 +0000
+- **[Function Arguments Are Not Function Colors](https://jerf.org/iri/post/2026/func_args_are_not_colors/)**
+  *<p>Article URL: <a href="https://jerf.org/iri/post/2026/func_args_are_not_colors/">https://jerf.org/iri/post/2026/func_args_are_not_colors/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.c...*
+  📅 Tue, 08 Sep 2026 19:04:26 +0000
 
-- **[Google DeepMind Releases AlphaGenome Atlas](https://blog.google/innovation-and-ai/models-and-research/google-deepmind/alphagenome-atlas/)**
-  *<p>Article URL: <a href="https://blog.google/innovation-and-ai/models-and-research/google-deepmind/alphagenome-atlas/">https://blog.google/innovation-and-ai/models-and-research/google-deepmind/alphage...*
-  📅 Tue, 08 Sep 2026 14:55:45 +0000
+- **[ChatGPT Images 2.5](https://openai.com/index/introducing-chatgpt-images-2-5/)**
+  *<p>Article URL: <a href="https://openai.com/index/introducing-chatgpt-images-2-5/">https://openai.com/index/introducing-chatgpt-images-2-5/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.c...*
+  📅 Tue, 08 Sep 2026 18:37:51 +0000
 
-- **[ZX Spectrum: Experimenting with 1-Bit Sound](https://bumbershootsoft.wordpress.com/2026/09/05/zx-spectrum-experimenting-with-1-bit-sound/)**
-  *<p>Article URL: <a href="https://bumbershootsoft.wordpress.com/2026/09/05/zx-spectrum-experimenting-with-1-bit-sound/">https://bumbershootsoft.wordpress.com/2026/09/05/zx-spectrum-experimenting-with-1...*
-  📅 Tue, 08 Sep 2026 14:54:29 +0000
+- **[100s of flights cancelled at UK airports due to ATC issue](https://www.bbc.com/news/live/c6x2z0yy32ejt)**
+  *<p>Article URL: <a href="https://www.bbc.com/news/live/c6x2z0yy32ejt">https://www.bbc.com/news/live/c6x2z0yy32ejt</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49614557">https...*
+  📅 Tue, 08 Sep 2026 18:26:27 +0000
 
-- **[How Climate Resilient Are the Largest Cities?](https://alphageo.ai/how-climate-resilient-are-the-worlds-largest-cities/)**
-  *<p>Article URL: <a href="https://alphageo.ai/how-climate-resilient-are-the-worlds-largest-cities/">https://alphageo.ai/how-climate-resilient-are-the-worlds-largest-cities/</a></p>
-<p>Comments URL: <a ...*
-  📅 Tue, 08 Sep 2026 14:49:39 +0000
+- **[On the Navier–Stokes Millennium Prize Problem](https://openai.com/index/navier-stokes-solution/)**
+  *<p>Article URL: <a href="https://openai.com/index/navier-stokes-solution/">https://openai.com/index/navier-stokes-solution/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49613...*
+  📅 Tue, 08 Sep 2026 17:13:21 +0000
 
-- **[Benchmarking Qwen3.8 27B quantizations: 4-bit holds up, 1-bit collapses](https://quesma.com/blog/qwen38-27b-quantizations-benchmarked/)**
-  *<p>Article URL: <a href="https://quesma.com/blog/qwen38-27b-quantizations-benchmarked/">https://quesma.com/blog/qwen38-27b-quantizations-benchmarked/</a></p>
-<p>Comments URL: <a href="https://news.yco...*
-  📅 Tue, 08 Sep 2026 14:49:19 +0000
+- **[Show HN: LLM Attention Visualization](https://ishamf.dev/p/llm-attention-visualizer/)**
+  *<p>Article URL: <a href="https://ishamf.dev/p/llm-attention-visualizer/">https://ishamf.dev/p/llm-attention-visualizer/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49613068"...*
+  📅 Tue, 08 Sep 2026 16:59:41 +0000
 
 ### 📑 TechCrunch
 
+- **[Meta debuts its Muse AI agent. Will consumers trust it?](https://techcrunch.com/2026/09/08/meta-debuts-its-muse-ai-agent-will-consumers-trust-it/)**
+  *Meta's new personal AI agent Muse wants access to users' email, calendars, payments, health services, and more — making the company's biggest consumer AI bet yet a major test of whether people still t...*
+  📅 Tue, 08 Sep 2026 19:00:00 +0000
+
+- **[How to watch Apple’s foldable iPhone announcement](https://techcrunch.com/2026/09/08/how-to-watch-apples-foldable-iphone-announcement/)**
+  *Apple's annual iPhone event will stream live on September 9 at 10 a.m. PDT, and we're expecting big news....*
+  📅 Tue, 08 Sep 2026 17:46:53 +0000
+
+- **[OpenAI fought dirty on career-making math problem, says NYU mathematician](https://techcrunch.com/2026/09/08/openai-fought-dirty-on-career-making-math-problem-says-nyu-mathematician/)**
+  *There is a $1 million bounty for the first person providing a solution to the Navier-Stokes existence and smoothness problem....*
+  📅 Tue, 08 Sep 2026 17:32:15 +0000
+
+- **[Google Cloud races to catch up in the AI deployment wars with Accenture deal](https://techcrunch.com/2026/09/08/google-cloud-races-to-catch-up-in-the-ai-deployment-wars-with-accenture-deal/)**
+  *Google Cloud expands its enterprise AI push with Accenture, betting on forward-deployed engineers to drive adoption and overcome deployment bottlenecks....*
+  📅 Tue, 08 Sep 2026 16:20:31 +0000
+
 - **[Google’s revived nuclear power plant gets $1.9B loan from US government](https://techcrunch.com/2026/09/08/googles-revived-nuclear-power-plant-gets-1-9b-loan-from-us-government/)**
-  *Google said it would bring an Iowa nuclear power plant back from the dead. Now, the plant's owner is getting a $1.9B loan from the U.S. Energy Department....*
+  *Google said it would bring an Iowa nuclear power plant back from the dead. Now the plant's owner is getting a $1.9 billion loan from the U.S. Energy Department....*
   📅 Tue, 08 Sep 2026 15:25:35 +0000
 
 - **[Chrome is now shipping updates every 2 weeks as AI changes the security landscape](https://techcrunch.com/2026/09/08/chrome-is-now-shipping-updates-every-2-weeks-as-ai-changes-the-security-landscape/)**
   *Google is speeding up Chrome’s release schedule to ship security patches and new features faster....*
   📅 Tue, 08 Sep 2026 15:04:09 +0000
 
-- **[Mistral raises €3B as sovereign AI becomes big business](https://techcrunch.com/2026/09/08/mistral-raises-e3b-as-sovereign-ai-becomes-big-business/)**
-  *The French AI lab has raised €3 billion at a €21 billion valuation in a Series D round led by Samsung, Scaleup Europe and PSG Equity....*
-  📅 Tue, 08 Sep 2026 14:17:48 +0000
-
-- **[A hacker stole $340M in a crypto heist, then returned most of it](https://techcrunch.com/2026/09/08/a-hacker-stole-340m-in-a-crypto-heist-then-returned-most-of-it/)**
-  *The latest heist is one of the largest thefts of cryptocurrency to date....*
-  📅 Tue, 08 Sep 2026 14:11:29 +0000
-
-- **[Nuclear startup Bluecore Energy raises $50M seed round, just two months after launch](https://techcrunch.com/2026/09/08/nuclear-startup-bluecore-energy-raises-50m-seed-round-just-two-months-after-launch/)**
-  *Bluecore Energy announced Tuesday an oversubscribed $50 million seed round — just months after raising a $10 million pre-seed and coming out of stealth....*
-  📅 Tue, 08 Sep 2026 14:10:17 +0000
-
-- **[Poseidon Aerospace lands $60M ahead of first pilotless test flight](https://techcrunch.com/2026/09/08/poseidon-aerospace-lands-60m-ahead-of-first-pilotless-test-flight/)**
-  *The startup is trying to rethink the economics of cargo aircraft by removing pilots from the equation entirely....*
-  📅 Tue, 08 Sep 2026 13:00:00 +0000
-
 ### 📑 Dev.to
 
-- **[Prompt Engineering: How to Actually Get What You Want from AI](https://dev.to/blackwatch021/prompt-engineering-how-to-actually-get-what-you-want-from-ai-4e02)**
-  *<p>You ask an AI to help you prepare for an interview. You get back twenty generic questions you could have found on any blog.</p>
+- **[Robotics Concepts for Beginners](https://dev.to/liammoss41/robotics-concepts-for-beginners-5alj)**
+  *<h2>
+  
+  
+  Introduction: Why Robotics, Why Now
+</h2>
 
-<p>You ask again. This time you mention that you are an entry-level ...*
-  📅 Tue, 08 Sep 2026 15:31:56 +0000
+<p>Robotics is everywhere. Over the years we have seen products from the Romba, to Boston Dynamics dog to self-driving cars and now humanoid rob...*
+  📅 Tue, 08 Sep 2026 20:18:12 +0000
 
-- **[🚀 I’m building LifeOS — and I want developers to break it](https://dev.to/srsuchard/im-building-lifeos-and-i-want-developers-to-break-it-3jjb)**
-  *<p>I’ve been working on a new project called <strong>LifeOS</strong>, an AI-powered personal operating system designed to help organize tasks, projects, goals, schedules, and everything else you’re tr...*
-  📅 Tue, 08 Sep 2026 15:31:36 +0000
+- **[I Created an AI Fitness Coach with Grok Bot](https://dev.to/debs_obrien/i-created-an-ai-fitness-coach-with-grok-bot-379l)**
+  *<p>  
+  
+</p>
+
+<p>It's totally insane. You have to see it to believe it.</p>
+
+<p>I created a new bot in Grok Bot. I called it CoachBot. I seem to like putting bot in the name of my bots.</p>
+
+<p>What ...*
+  📅 Tue, 08 Sep 2026 20:16:51 +0000
 
 </details>
 
@@ -118,103 +132,103 @@
 
 ### 📈 Daily Trending
 
-- **[gazijarin/itsgiving](https://github.com/gazijarin/itsgiving)** ⭐ 191
+- **[openai/NavierStokesAndEuler](https://github.com/openai/NavierStokesAndEuler)** ⭐ 500
+  ![Lean](https://img.shields.io/badge/-Lean-lightgrey)
+  Lean certificates accompanying Navier-Stokes and Euler results
+
+- **[henryzawadzki6542/cloudflare-turnstile-bypass](https://github.com/henryzawadzki6542/cloudflare-turnstile-bypass)** ⭐ 329
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  Work with Cloudflare Turnstile in Python: find the sitekey, get a valid cf-turnstile-response token in seconds. Dependency-free library + CLI, built for CI and automation.
+
+- **[gazijarin/itsgiving](https://github.com/gazijarin/itsgiving)** ⭐ 281
   ![Python](https://img.shields.io/badge/-Python-blue)
   Express yourself in meetings (with memes, of course).
 
-- **[tristanbuckmaster/fluid_lean](https://github.com/tristanbuckmaster/fluid_lean)** ⭐ 106
+- **[tristanbuckmaster/fluid_lean](https://github.com/tristanbuckmaster/fluid_lean)** ⭐ 149
   ![Lean](https://img.shields.io/badge/-Lean-lightgrey)
   None
 
-- **[andrewroxby/claude-style-patch](https://github.com/andrewroxby/claude-style-patch)** ⭐ 74
-  ![None](https://img.shields.io/badge/-None-lightgrey)
-  A drop-in CLAUDE.md style section that changes how Claude writes prose.
+- **[stratumworldnail/glm-flash-multimodal-client](https://github.com/stratumworldnail/glm-flash-multimodal-client)** ⭐ 120
+  ![HTML](https://img.shields.io/badge/-HTML-lightgrey)
+  GLM-5.3-Flash multimodal client for developers — test vision and text prompts locally.
 
-- **[daishuge/pcb-skill](https://github.com/daishuge/pcb-skill)** ⭐ 64
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  Agent skill for taking a hardware idea to a manufacturable PCB: concept, schematic, sourcing, layout, routing, verification, and a purchase staged to the pre-payment page. Drives EasyEDA Pro over MCP from Claude Code or Codex.
+- **[NurseTrolley/fable-desktop-unlocker](https://github.com/NurseTrolley/fable-desktop-unlocker)** ⭐ 120
+  ![HTML](https://img.shields.io/badge/-HTML-lightgrey)
+  Desktop companion for Fable 5.5 Desktop Unlocked App players — no more manual save tracking, just open and go.
 
-- **[skydoves/nowinandroid-kmp](https://github.com/skydoves/nowinandroid-kmp)** ⭐ 45
-  ![Kotlin](https://img.shields.io/badge/-Kotlin-lightgrey)
-  📱 Now in Android KMP is a full Kotlin Multiplatform port of Google's Now in Android sample.
+- **[mudbardmanor/gemini-pro-activator](https://github.com/mudbardmanor/gemini-pro-activator)** ⭐ 119
+  ![HTML](https://img.shields.io/badge/-HTML-lightgrey)
+  Lightweight API helper for developers working with Gemini 2.0 Pro — streamline prompt routing and response handling.
 
-- **[Lakr233/maintainable-update](https://github.com/Lakr233/maintainable-update)** ⭐ 42
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  Repo-wide maintainability sweep: copy, clarity, wrap, width, split, rename, tidy
-
-- **[masihsultani/whiteboard-animator](https://github.com/masihsultani/whiteboard-animator)** ⭐ 37
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  Turn a whiteboard-style image into a hand-drawn reveal video. The render engine behind Kinoslide.
-
-- **[paveldevyatov/refund-anything-ai-prompt](https://github.com/paveldevyatov/refund-anything-ai-prompt)** ⭐ 30
-  ![None](https://img.shields.io/badge/-None-lightgrey)
-  AI prompt that gets your money back — subscriptions, digital purchases, bookings. Polite letter first, legal escalation second. 30+ jurisdictions.
+- **[SpinnerAppreciate/glm-flash-offline-client](https://github.com/SpinnerAppreciate/glm-flash-offline-client)** ⭐ 119
+  ![HTML](https://img.shields.io/badge/-HTML-lightgrey)
+  Offline desktop client for GLM-5.3-Flash — run private, local chat sessions without a server connection.
 
 ### 📈 Weekly Trending
 
-- **[lnkiai/m3e-canvas](https://github.com/lnkiai/m3e-canvas)** ⭐ 5,071
+- **[lnkiai/m3e-canvas](https://github.com/lnkiai/m3e-canvas)** ⭐ 5,174
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   Sketch Material 3 Expressive screens in the browser and turn them into vibe-coding prompts.
 
-- **[ashemag/human-atlas](https://github.com/ashemag/human-atlas)** ⭐ 2,372
+- **[ashemag/human-atlas](https://github.com/ashemag/human-atlas)** ⭐ 2,431
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   Open-source 3D anatomy explorer: 2,234 selectable BodyParts3D meshes, system layers, search, and exploded views.
 
-- **[Rion-Wu-tech/wechat-intelligence-hub](https://github.com/Rion-Wu-tech/wechat-intelligence-hub)** ⭐ 1,924
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  Local-first WeChat intelligence system with a read-only CLI, Codex skills, searchable chat history, daily briefings, follow-ups and opportunity tracking.
-
-- **[Albert-Weasker/niubigeo](https://github.com/Albert-Weasker/niubigeo)** ⭐ 1,690
+- **[Albert-Weasker/niubigeo](https://github.com/Albert-Weasker/niubigeo)** ⭐ 2,161
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   Open-source AI brand visibility and competitor reports
 
-- **[EverettFish/holo-card-studio](https://github.com/EverettFish/holo-card-studio)** ⭐ 1,098
+- **[Rion-Wu-tech/wechat-intelligence-hub](https://github.com/Rion-Wu-tech/wechat-intelligence-hub)** ⭐ 1,935
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  Local-first WeChat intelligence system with a read-only CLI, Codex skills, searchable chat history, daily briefings, follow-ups and opportunity tracking.
+
+- **[EverettFish/holo-card-studio](https://github.com/EverettFish/holo-card-studio)** ⭐ 1,115
   ![Python](https://img.shields.io/badge/-Python-blue)
   Turn the user's description or uploaded reference into a finished, editable Blender card and an interactive Three.js page. Preserve the requested subject, style, typography and destination. This skill contains code and text only; generated artwork belongs in the user's output project.
 
-- **[vinzdg/codenotch](https://github.com/vinzdg/codenotch)** ⭐ 1,048
+- **[vinzdg/codenotch](https://github.com/vinzdg/codenotch)** ⭐ 1,075
   ![Swift](https://img.shields.io/badge/-Swift-lightgrey)
   A macOS app that pins usage limits from Claude Code, Cursor, Codex, and Antigravity to a screen edge.
 
-- **[anthropics/fermats-last-theorem](https://github.com/anthropics/fermats-last-theorem)** ⭐ 966
+- **[anthropics/fermats-last-theorem](https://github.com/anthropics/fermats-last-theorem)** ⭐ 971
   ![Lean](https://img.shields.io/badge/-Lean-lightgrey)
   None
 
-- **[danielblnc/DLSS-NR-on-AMD](https://github.com/danielblnc/DLSS-NR-on-AMD)** ⭐ 914
+- **[danielblnc/DLSS-NR-on-AMD](https://github.com/danielblnc/DLSS-NR-on-AMD)** ⭐ 927
   ![None](https://img.shields.io/badge/-None-lightgrey)
   Run DLSS 5 Neural Rendering on your AMD GPU. Magic!
 
 ### 📈 Monthly Trending
 
-- **[deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness)** ⭐ 216,041
+- **[deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness)** ⭐ 216,175
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   DeepSeek Harness: Everything is a Plugin.
 
-- **[anywhere-labs/dsh-desktop](https://github.com/anywhere-labs/dsh-desktop)** ⭐ 24,495
+- **[anywhere-labs/dsh-desktop](https://github.com/anywhere-labs/dsh-desktop)** ⭐ 24,516
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   为 DeepSeek Harness (DSH) 插件生态打造的现代化桌面端解决方案。万物皆「插件」，桌面本身也是「插件」。
 
-- **[guillaumemeyer/watermarks-remover](https://github.com/guillaumemeyer/watermarks-remover)** ⭐ 21,357
+- **[guillaumemeyer/watermarks-remover](https://github.com/guillaumemeyer/watermarks-remover)** ⭐ 21,384
   ![Python](https://img.shields.io/badge/-Python-blue)
   A privacy-first app that strips AI watermarks from content you own.
 
-- **[awesome-dsh-plugin/awesome-dsh-plugin](https://github.com/awesome-dsh-plugin/awesome-dsh-plugin)** ⭐ 14,904
+- **[awesome-dsh-plugin/awesome-dsh-plugin](https://github.com/awesome-dsh-plugin/awesome-dsh-plugin)** ⭐ 14,917
   ![Python](https://img.shields.io/badge/-Python-blue)
   A curated list of plugins for DeepSeek Harness (dsh) · DeepSeek Harness 插件精选列表
 
-- **[zhu1090093659/dsh-web](https://github.com/zhu1090093659/dsh-web)** ⭐ 7,157
+- **[zhu1090093659/dsh-web](https://github.com/zhu1090093659/dsh-web)** ⭐ 7,166
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   DeepSeek Harness (DSH) Web Plugin Aggregation Ecosystem · Everything is a plugin, distributed via the Creative Workshop
 
-- **[yjh051108/dsh-routing-suite](https://github.com/yjh051108/dsh-routing-suite)** ⭐ 7,134
+- **[yjh051108/dsh-routing-suite](https://github.com/yjh051108/dsh-routing-suite)** ⭐ 7,136
   ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
   dsh-routing-suite — injector + router-standard kit: install the runtime injector first, then the task-aware reasoning-mode router preset (measured P1-P23).
 
-- **[sapientinc/PRAXIST](https://github.com/sapientinc/PRAXIST)** ⭐ 6,785
+- **[sapientinc/PRAXIST](https://github.com/sapientinc/PRAXIST)** ⭐ 6,791
   ![Python](https://img.shields.io/badge/-Python-blue)
   Autonomous research system for measurable, computer-executable research.
 
-- **[MengTo/threeui](https://github.com/MengTo/threeui)** ⭐ 5,379
+- **[MengTo/threeui](https://github.com/MengTo/threeui)** ⭐ 5,388
   ![HTML](https://img.shields.io/badge/-HTML-lightgrey)
   Open-source ThreeUI Community catalog with live interactive components and complete Community source.
 
@@ -225,9 +239,9 @@
 
 ### 📦 microsoft/vscode
 
-**[1.136.1](https://github.com/microsoft/vscode/releases/tag/1.136.1)** `1.136.1`
+**[1.136.2](https://github.com/microsoft/vscode/releases/tag/1.136.2)** `1.136.2`
 
-📅 Released: September 03, 2026
+📅 Released: September 08, 2026
 
 https://code.visualstudio.com/updates/v1_136...
 
@@ -487,59 +501,59 @@ Out-of-band release to fix `node --version` which was reporting an alpha version
 
 | Skill | Status |
 |-------|--------|
-| Java | 🔴 Beginner |
-| Python | ⚪ Planned |
-| JavaScript | 🟡 Learning |
+| Java | ⚪ Planned |
+| Python | 🟢 Proficient |
+| JavaScript | ⚪ Planned |
 | TypeScript | 🟢 Proficient |
-| Go | 🟡 Learning |
+| Go | 🟢 Proficient |
 
 ### Frameworks
 
 | Skill | Status |
 |-------|--------|
-| React | 🟢 Proficient |
+| React | ⚪ Planned |
 | Spring Boot | 🟡 Learning |
 | Django | 🟡 Learning |
-| Node.js | ⚪ Planned |
-| Next.js | 🔴 Beginner |
+| Node.js | 🟡 Learning |
+| Next.js | 🟡 Learning |
 
 ### Cybersecurity
 
 | Skill | Status |
 |-------|--------|
-| Penetration Testing | 🔴 Beginner |
-| Web Security | ⚪ Planned |
-| Network Security | 🟢 Proficient |
+| Penetration Testing | ⚪ Planned |
+| Web Security | 🟢 Proficient |
+| Network Security | ⚪ Planned |
 | OWASP | 🟢 Proficient |
 
 ### Ai Ml
 
 | Skill | Status |
 |-------|--------|
-| Machine Learning | 🟡 Learning |
-| Deep Learning | ⚪ Planned |
-| NLP | 🟡 Learning |
+| Machine Learning | 🟢 Proficient |
+| Deep Learning | 🟡 Learning |
+| NLP | ⚪ Planned |
 | Computer Vision | ⚪ Planned |
-| TensorFlow | 🔴 Beginner |
+| TensorFlow | ⚪ Planned |
 | PyTorch | 🔴 Beginner |
 
 ### Devops
 
 | Skill | Status |
 |-------|--------|
-| Docker | 🔴 Beginner |
-| Kubernetes | 🟡 Learning |
-| CI/CD | ⚪ Planned |
+| Docker | 🟢 Proficient |
+| Kubernetes | 🟢 Proficient |
+| CI/CD | 🟡 Learning |
 | AWS | 🟢 Proficient |
-| Azure | 🟡 Learning |
+| Azure | 🔴 Beginner |
 
 ### Other
 
 | Skill | Status |
 |-------|--------|
-| Blockchain | 🟢 Proficient |
-| Web3 | 🟡 Learning |
-| Cloud Computing | 🟢 Proficient |
+| Blockchain | 🔴 Beginner |
+| Web3 | ⚪ Planned |
+| Cloud Computing | ⚪ Planned |
 
 </details>
 
