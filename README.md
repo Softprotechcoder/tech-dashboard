@@ -46,36 +46,44 @@
 
 ### 📑 Hacker News
 
+- **[How GPT‑5.6 Sol helps run quantum computing experiments](https://openai.com/index/codex-quantum-computing-experiments/)**
+  *<p>Article URL: <a href="https://openai.com/index/codex-quantum-computing-experiments/">https://openai.com/index/codex-quantum-computing-experiments/</a></p>
+<p>Comments URL: <a href="https://news.yco...*
+  📅 Wed, 09 Sep 2026 07:22:46 +0000
+
+- **[On Really Trying (2009)](https://gwern.net/on-really-trying)**
+  *<p>Article URL: <a href="https://gwern.net/on-really-trying">https://gwern.net/on-really-trying</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49622305">https://news.ycombinato...*
+  📅 Wed, 09 Sep 2026 06:58:44 +0000
+
+- **[Copyright does more harm than good and should be abolished](https://grapheneos.social/@GrapheneOS/117231186011306184)**
+  *<p>Article URL: <a href="https://grapheneos.social/@GrapheneOS/117231186011306184">https://grapheneos.social/@GrapheneOS/117231186011306184</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.c...*
+  📅 Wed, 09 Sep 2026 06:31:28 +0000
+
+- **[“Tweet” and the bird logo apparently enter the public domain](https://blog.ericgoldman.org/archives/2026/09/tweet-and-the-bird-logo-apparently-enter-the-public-domain-but-x-maintains-its-grip-on-the-twitter-mark-for-now-x-v-project-bluebird.htm)**
+  *<p>Article URL: <a href="https://blog.ericgoldman.org/archives/2026/09/tweet-and-the-bird-logo-apparently-enter-the-public-domain-but-x-maintains-its-grip-on-the-twitter-mark-for-now-x-v-project-blueb...*
+  📅 Wed, 09 Sep 2026 06:02:07 +0000
+
+- **[A Biography of Lee Holloway, the Architect of Cloudflare's Technology (Part 1)](https://note.com/masakazu_urabe/n/n7815f5b64fab?hl=en)**
+  *<p>Article URL: <a href="https://note.com/masakazu_urabe/n/n7815f5b64fab?hl=en">https://note.com/masakazu_urabe/n/n7815f5b64fab?hl=en</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/ite...*
+  📅 Wed, 09 Sep 2026 04:43:46 +0000
+
 - **[27.5KB language-agnostic WebGPU syntax highlighter](https://gpu-lexer.vercel.app/)**
   *<p>Article URL: <a href="https://gpu-lexer.vercel.app/">https://gpu-lexer.vercel.app/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49619464">https://news.ycombinator.com/item...*
   📅 Wed, 09 Sep 2026 01:14:50 +0000
 
-- **[US to ban Canadian dairy, alcohol, motor vehicle imports on September 29](https://www.reuters.com/business/us-ban-canadian-dairy-alcohol-motor-vehicle-imports-september-29-2026-09-08/)**
-  *<p>Article URL: <a href="https://www.reuters.com/business/us-ban-canadian-dairy-alcohol-motor-vehicle-imports-september-29-2026-09-08/">https://www.reuters.com/business/us-ban-canadian-dairy-alcohol-m...*
-  📅 Wed, 09 Sep 2026 01:13:57 +0000
-
-- **[Codex silently begs agents to make arbitrary web requests](https://spader.zone/wtf/)**
-  *<p>Article URL: <a href="https://spader.zone/wtf/">https://spader.zone/wtf/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49619235">https://news.ycombinator.com/item?id=496192...*
-  📅 Wed, 09 Sep 2026 00:41:22 +0000
-
-- **[A Topological Picture Book, Rendered](https://e-infinity.space/picture-book/)**
-  *<p>Article URL: <a href="https://e-infinity.space/picture-book/">https://e-infinity.space/picture-book/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49618050">https://news.yc...*
-  📅 Tue, 08 Sep 2026 22:28:14 +0000
-
-- **[Large language models develop novel social biases through adaptive exploration](https://openreview.net/challenge?redirect=%2Fforum%3Fid%3Dpc7fqaOcAH)**
-  *<p>Article URL: <a href="https://openreview.net/challenge?redirect=%2Fforum%3Fid%3Dpc7fqaOcAH">https://openreview.net/challenge?redirect=%2Fforum%3Fid%3Dpc7fqaOcAH</a></p>
-<p>Comments URL: <a href="ht...*
-  📅 Tue, 08 Sep 2026 21:47:38 +0000
-
-- **[How to build a printer](https://nishantjosh.dev/blogs/how-to-build-a-fking-printer/)**
-  *<p>Article URL: <a href="https://nishantjosh.dev/blogs/how-to-build-a-fking-printer/">https://nishantjosh.dev/blogs/how-to-build-a-fking-printer/</a></p>
-<p>Comments URL: <a href="https://news.ycombin...*
-  📅 Tue, 08 Sep 2026 21:22:11 +0000
-
 ### 📑 TechCrunch
+
+- **[Google DeepMind alumni are building tools to accelerate fusion power for the grid](https://techcrunch.com/2026/09/08/google-deepmind-alumni-are-building-tools-to-accelerate-fusion-power-for-the-grid/)**
+  *Fusionality is developing control systems and simulation environments to help fusion power startups move faster....*
+  📅 Wed, 09 Sep 2026 06:00:00 +0000
+
+- **[CloudNC raises $20M to automate manufacturing’s most pressing bottlenecks](https://techcrunch.com/2026/09/08/cloudnc-raises-20m-to-automate-manufacturings-most-pressing-bottlenecks/)**
+  *UK-based manufacturing software startup CloudNC announced Wednesday a $20 million B extension round, bringing its lifetime total raised amount to $128 million....*
+  📅 Wed, 09 Sep 2026 04:01:00 +0000
 
 - **[White House takes down ‘Build the Wall’ game after the Tetris Company complains](https://techcrunch.com/2026/09/08/white-house-takes-down-build-the-wall-game-after-the-tetris-company-complains/)**
   *The Trump administration's short-lived arcade game "Build the Wall" is now nowhere to be found after the Tetris Company posted that it takes "copyright infringement very seriously."...*
@@ -93,28 +101,19 @@
   *The Exploration Company (TEC) has raised $450 million to build reusable spacecraft, in what it describes as “the largest-ever Series C by a European space company.”...*
   📅 Tue, 08 Sep 2026 20:47:34 +0000
 
-- **[Meta debuts its Muse AI agent. Will consumers trust it?](https://techcrunch.com/2026/09/08/meta-debuts-its-muse-ai-agent-will-consumers-trust-it/)**
-  *Meta's new personal AI agent Muse wants access to users' email, calendars, payments, health services, and more — making the company's biggest consumer AI bet yet a major test of whether people still t...*
-  📅 Tue, 08 Sep 2026 19:00:00 +0000
-
-- **[How to watch Apple’s foldable iPhone announcement](https://techcrunch.com/2026/09/08/how-to-watch-apples-foldable-iphone-announcement/)**
-  *Apple's annual iPhone event will stream live on September 9 at 10 a.m. PDT, and we're expecting big news....*
-  📅 Tue, 08 Sep 2026 17:46:53 +0000
-
 ### 📑 Dev.to
 
-- **[The bug that only existed on the platform nobody was looking at](https://dev.to/arcticfoxz_255bbe944bc015/the-bug-that-only-existed-on-the-platform-nobody-was-looking-at-2bpl)**
-  *<p>I ship a Python tool with a regression suite of several thousand checks and CI on ubuntu, macOS and<br />
-Windows at Python 3.8 and 3.13. Yesterday all five jobs were green. Today those same jobs t...*
-  📅 Wed, 09 Sep 2026 02:14:44 +0000
+- **[One diagram for enterprise AI adoption: five stages from identity to governance](https://dev.to/williamchiu/one-diagram-for-enterprise-ai-adoption-five-stages-from-identity-to-governance-17k1)**
+  *<p>This is a reference architecture for bringing AI into a company. It has five layers: users and apps, identity and access, an AI gateway, models with data retrieval, and agents with tools, with a go...*
+  📅 Wed, 09 Sep 2026 10:17:11 +0000
 
-- **[Alibaba Cloud Partners with Datadog Close Go's Last Observability Gap](https://dev.to/observabilityguy/alibaba-cloud-partners-with-datadog-close-gos-last-observability-gap-173e)**
-  *<blockquote>
-<p>This article introduces OpenTelemetry Go Compile-Time Instrumentation v1, enabling zero-code, build-time observability for Go applications.</p>
-</blockquote>
+- **[You probably don't need git filter-branch OR git-filter-repo](https://dev.to/zaphoddev/you-probably-dont-need-git-filter-branch-or-git-filter-repo-1pi4)**
+  *<p>You want to change the author/committer for a range of commits.</p>
 
-<p>Go was the last mainst...*
-  📅 Wed, 09 Sep 2026 02:13:59 +0000
+<p><strong>Not recommended</strong></p>
+
+<p>Running <code>git filter-branch</code> results in a dire warning about a <em>glut of...*
+  📅 Wed, 09 Sep 2026 10:15:00 +0000
 
 </details>
 
@@ -122,103 +121,103 @@ Windows at Python 3.8 and 3.13. Yesterday all five jobs were green. Today those 
 
 ### 📈 Daily Trending
 
-- **[paulops3/social-reporting-tool](https://github.com/paulops3/social-reporting-tool)** ⭐ 13
-  ![None](https://img.shields.io/badge/-None-lightgrey)
-  Open-source social media reporting bot & compliance auditor. Supports facebook report bot, bot report tiktok, and instagram moderation workflows.
+- **[T-DT-Algorithm-2026/tdt-nav-kit](https://github.com/T-DT-Algorithm-2026/tdt-nav-kit)** ⭐ 30
+  ![C++](https://img.shields.io/badge/-C++-pink)
+  None
 
-- **[AndrewMCkennyes/Fake_Sender](https://github.com/AndrewMCkennyes/Fake_Sender)** ⭐ 12
+- **[skuramatata/novel-agent-studio](https://github.com/skuramatata/novel-agent-studio)** ⭐ 30
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
+  面向中文小说创作的本地桌面 AI 工作台：故事规划、分章写作、证据审稿、局部修订与故事记忆。
+
+- **[Supersonic/TLPE](https://github.com/Supersonic/TLPE)** ⭐ 21
+  ![Kotlin](https://img.shields.io/badge/-Kotlin-lightgrey)
+  CVE-2026-49881, a logic issue in the InCallController class in Android 17's Telecom service that allows an unprivileged app to gain arbitrary code execution as UID 1000 system_server
+
+- **[supabase-multitenant/supabase-multitenant](https://github.com/supabase-multitenant/supabase-multitenant)** ⭐ 20
+  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
+  supabase-multitenant lets you self-host Supabase as your own Supabase.com-style cloud, running anywhere you choose—VPS, Coolify, Dokku, Dokploy, or your own infrastructure. Manage everything from one platform: 1 infrastructure, many isolated Supabase databases, giving you flexible deployment, control, and scalable multitenancy.
+
+- **[AndrewMCkennyes/Fake_Sender](https://github.com/AndrewMCkennyes/Fake_Sender)** ⭐ 18
   ![Python](https://img.shields.io/badge/-Python-blue)
   Exodus Fake Balance — Native balance overlay tool for Exodus wallet with real-time spoofing across BTC, ETH, SOL, XRP and 200+ assets, persistent hooks, and screenshot-safe display rendering
 
-- **[mbailey49/social-reporting-tool](https://github.com/mbailey49/social-reporting-tool)** ⭐ 12
+- **[roman-g-2098j5/DLSS5-Swapper-Feeder](https://github.com/roman-g-2098j5/DLSS5-Swapper-Feeder)** ⭐ 17
   ![None](https://img.shields.io/badge/-None-lightgrey)
-  Open-source social media reporting bot & compliance auditor. Supports facebook report bot, bot report tiktok, and instagram moderation workflows.
+  Swap DLSS 5 DLLs + Feeder mode for non-DLSS games. One-click DLSS 5 Neural Rendering for any GPU (NVIDIA RTX 20-50, AMD RDNA 3-4, Intel Arc). Synthetic DLAA injection via ReShade.
 
-- **[emmaweb4/social-reporting-tool](https://github.com/emmaweb4/social-reporting-tool)** ⭐ 10
-  ![None](https://img.shields.io/badge/-None-lightgrey)
-  Open-source social media reporting bot & compliance auditor. Supports facebook report bot, bot report tiktok, and instagram moderation workflows.
+- **[leonmiller20c4/DLSS5-OneClick](https://github.com/leonmiller20c4/DLSS5-OneClick)** ⭐ 17
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  One-click DLSS 5 Neural Rendering for any GPU (NVIDIA RTX 20-50, AMD RDNA 3-4, Intel Arc). Auto-detection, Feeder mode for non-DLSS games, emulator support, and ReShade integration.
 
-- **[markbailey2/social-reporting-tool](https://github.com/markbailey2/social-reporting-tool)** ⭐ 10
-  ![None](https://img.shields.io/badge/-None-lightgrey)
-  Open-source social media reporting bot & compliance auditor. Supports facebook report bot, bot report tiktok, and instagram moderation workflows.
-
-- **[tylerrog2/social-reporting-tool](https://github.com/tylerrog2/social-reporting-tool)** ⭐ 9
-  ![None](https://img.shields.io/badge/-None-lightgrey)
-  Open-source social media reporting bot & compliance auditor. Supports facebook report bot, bot report tiktok, and instagram moderation workflows.
-
-- **[sophiarhub/social-reporting-tool](https://github.com/sophiarhub/social-reporting-tool)** ⭐ 8
-  ![None](https://img.shields.io/badge/-None-lightgrey)
-  Open-source social media reporting bot & compliance auditor. Supports facebook report bot, bot report tiktok, and instagram moderation workflows.
-
-- **[hugobrown2/social-reporting-tool](https://github.com/hugobrown2/social-reporting-tool)** ⭐ 7
-  ![None](https://img.shields.io/badge/-None-lightgrey)
-  Open-source social media reporting bot & compliance auditor. Supports facebook report bot, bot report tiktok, and instagram moderation workflows.
+- **[jamesb-io03i8/DLSS5-Universal](https://github.com/jamesb-io03i8/DLSS5-Universal)** ⭐ 17
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  Enable DLSS 5 Neural Rendering on NVIDIA RTX 20-50, AMD RDNA 3-4, and Intel Arc GPUs. One-click setup for any DX11/DX12 game. Auto-detection, Feeder mode for non-DLSS games, emulator support, and ReShade integration.
 
 ### 📈 Weekly Trending
 
-- **[ashemag/human-atlas](https://github.com/ashemag/human-atlas)** ⭐ 2,473
+- **[ashemag/human-atlas](https://github.com/ashemag/human-atlas)** ⭐ 2,632
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   Open-source 3D anatomy explorer: 2,234 selectable BodyParts3D meshes, system layers, search, and exploded views.
 
-- **[Albert-Weasker/niubigeo](https://github.com/Albert-Weasker/niubigeo)** ⭐ 2,169
+- **[Albert-Weasker/niubigeo](https://github.com/Albert-Weasker/niubigeo)** ⭐ 2,198
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
-  Open-source AI brand visibility and competitor reports
+  Open-source AI brand visibility and competitor reports. Official website: https://niubigeo.ai/ | Paid services: AI testing by real people and GEO optimization. Pricing: https://niubigeo.ai/pricing
 
-- **[Rion-Wu-tech/wechat-intelligence-hub](https://github.com/Rion-Wu-tech/wechat-intelligence-hub)** ⭐ 1,946
+- **[Rion-Wu-tech/wechat-intelligence-hub](https://github.com/Rion-Wu-tech/wechat-intelligence-hub)** ⭐ 1,995
   ![Python](https://img.shields.io/badge/-Python-blue)
   Local-first WeChat intelligence system with a read-only CLI, Codex skills, searchable chat history, daily briefings, follow-ups and opportunity tracking.
 
-- **[EverettFish/holo-card-studio](https://github.com/EverettFish/holo-card-studio)** ⭐ 1,134
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  Turn the user's description or uploaded reference into a finished, editable Blender card and an interactive Three.js page. Preserve the requested subject, style, typography and destination. This skill contains code and text only; generated artwork belongs in the user's output project.
-
-- **[vinzdg/codenotch](https://github.com/vinzdg/codenotch)** ⭐ 1,113
-  ![Swift](https://img.shields.io/badge/-Swift-lightgrey)
-  A macOS app that pins usage limits from Claude Code, Cursor, Codex, and Antigravity to a screen edge.
-
-- **[anthropics/fermats-last-theorem](https://github.com/anthropics/fermats-last-theorem)** ⭐ 979
-  ![Lean](https://img.shields.io/badge/-Lean-lightgrey)
-  None
-
-- **[danielblnc/DLSS-NR-on-AMD](https://github.com/danielblnc/DLSS-NR-on-AMD)** ⭐ 935
-  ![None](https://img.shields.io/badge/-None-lightgrey)
-  Run DLSS 5 Neural Rendering on your AMD GPU. Magic!
-
-- **[openai/NavierStokesAndEuler](https://github.com/openai/NavierStokesAndEuler)** ⭐ 899
+- **[openai/NavierStokesAndEuler](https://github.com/openai/NavierStokesAndEuler)** ⭐ 1,298
   ![Lean](https://img.shields.io/badge/-Lean-lightgrey)
   Lean certificates accompanying Navier-Stokes and Euler results
 
+- **[EverettFish/holo-card-studio](https://github.com/EverettFish/holo-card-studio)** ⭐ 1,200
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  Turn the user's description or uploaded reference into a finished, editable Blender card and an interactive Three.js page. Preserve the requested subject, style, typography and destination. This skill contains code and text only; generated artwork belongs in the user's output project.
+
+- **[vinzdg/codenotch](https://github.com/vinzdg/codenotch)** ⭐ 1,183
+  ![Swift](https://img.shields.io/badge/-Swift-lightgrey)
+  A macOS app that pins usage limits from Claude Code, Cursor, Codex, and Antigravity to a screen edge.
+
+- **[anthropics/fermats-last-theorem](https://github.com/anthropics/fermats-last-theorem)** ⭐ 989
+  ![Lean](https://img.shields.io/badge/-Lean-lightgrey)
+  None
+
+- **[danielblnc/DLSS-NR-on-AMD](https://github.com/danielblnc/DLSS-NR-on-AMD)** ⭐ 950
+  ![None](https://img.shields.io/badge/-None-lightgrey)
+  Run DLSS 5 Neural Rendering on your AMD GPU. Magic!
+
 ### 📈 Monthly Trending
 
-- **[deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness)** ⭐ 216,344
+- **[deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness)** ⭐ 216,961
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   DeepSeek Harness: Everything is a Plugin.
 
-- **[anywhere-labs/dsh-desktop](https://github.com/anywhere-labs/dsh-desktop)** ⭐ 24,561
+- **[anywhere-labs/dsh-desktop](https://github.com/anywhere-labs/dsh-desktop)** ⭐ 24,695
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   为 DeepSeek Harness (DSH) 插件生态打造的现代化桌面端解决方案。万物皆「插件」，桌面本身也是「插件」。
 
-- **[guillaumemeyer/watermarks-remover](https://github.com/guillaumemeyer/watermarks-remover)** ⭐ 21,412
+- **[guillaumemeyer/watermarks-remover](https://github.com/guillaumemeyer/watermarks-remover)** ⭐ 21,463
   ![Python](https://img.shields.io/badge/-Python-blue)
   A privacy-first app that strips AI watermarks from content you own.
 
-- **[awesome-dsh-plugin/awesome-dsh-plugin](https://github.com/awesome-dsh-plugin/awesome-dsh-plugin)** ⭐ 14,933
+- **[awesome-dsh-plugin/awesome-dsh-plugin](https://github.com/awesome-dsh-plugin/awesome-dsh-plugin)** ⭐ 15,002
   ![Python](https://img.shields.io/badge/-Python-blue)
   A curated list of plugins for DeepSeek Harness (dsh) · DeepSeek Harness 插件精选列表
 
-- **[zhu1090093659/dsh-web](https://github.com/zhu1090093659/dsh-web)** ⭐ 7,175
+- **[zhu1090093659/dsh-web](https://github.com/zhu1090093659/dsh-web)** ⭐ 7,219
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   DeepSeek Harness (DSH) Web Plugin Aggregation Ecosystem · Everything is a plugin, distributed via the Creative Workshop
 
-- **[yjh051108/dsh-routing-suite](https://github.com/yjh051108/dsh-routing-suite)** ⭐ 7,137
+- **[yjh051108/dsh-routing-suite](https://github.com/yjh051108/dsh-routing-suite)** ⭐ 7,139
   ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
   dsh-routing-suite — injector + router-standard kit: install the runtime injector first, then the task-aware reasoning-mode router preset (measured P1-P23).
 
-- **[sapientinc/PRAXIST](https://github.com/sapientinc/PRAXIST)** ⭐ 6,591
+- **[sapientinc/PRAXIST](https://github.com/sapientinc/PRAXIST)** ⭐ 6,606
   ![Python](https://img.shields.io/badge/-Python-blue)
   Autonomous research system for measurable, computer-executable research.
 
-- **[MengTo/threeui](https://github.com/MengTo/threeui)** ⭐ 5,396
+- **[MengTo/threeui](https://github.com/MengTo/threeui)** ⭐ 5,421
   ![HTML](https://img.shields.io/badge/-HTML-lightgrey)
   Open-source ThreeUI Community catalog with live interactive components and complete Community source.
 
@@ -491,59 +490,59 @@ Out-of-band release to fix `node --version` which was reporting an alpha version
 
 | Skill | Status |
 |-------|--------|
-| Java | ⚪ Planned |
-| Python | 🟢 Proficient |
-| JavaScript | ⚪ Planned |
-| TypeScript | 🟢 Proficient |
+| Java | 🟡 Learning |
+| Python | ⚪ Planned |
+| JavaScript | 🟡 Learning |
+| TypeScript | 🔴 Beginner |
 | Go | 🟢 Proficient |
 
 ### Frameworks
 
 | Skill | Status |
 |-------|--------|
-| React | ⚪ Planned |
-| Spring Boot | 🟡 Learning |
-| Django | ⚪ Planned |
+| React | 🟢 Proficient |
+| Spring Boot | 🟢 Proficient |
+| Django | 🔴 Beginner |
 | Node.js | 🟢 Proficient |
-| Next.js | 🟢 Proficient |
+| Next.js | 🟡 Learning |
 
 ### Cybersecurity
 
 | Skill | Status |
 |-------|--------|
-| Penetration Testing | 🟢 Proficient |
-| Web Security | 🟡 Learning |
-| Network Security | 🔴 Beginner |
-| OWASP | 🟢 Proficient |
+| Penetration Testing | 🟡 Learning |
+| Web Security | 🔴 Beginner |
+| Network Security | 🟢 Proficient |
+| OWASP | 🔴 Beginner |
 
 ### Ai Ml
 
 | Skill | Status |
 |-------|--------|
-| Machine Learning | 🔴 Beginner |
-| Deep Learning | 🟢 Proficient |
-| NLP | 🟡 Learning |
+| Machine Learning | ⚪ Planned |
+| Deep Learning | 🔴 Beginner |
+| NLP | 🔴 Beginner |
 | Computer Vision | 🟡 Learning |
-| TensorFlow | 🟡 Learning |
-| PyTorch | ⚪ Planned |
+| TensorFlow | ⚪ Planned |
+| PyTorch | 🟡 Learning |
 
 ### Devops
 
 | Skill | Status |
 |-------|--------|
 | Docker | 🟡 Learning |
-| Kubernetes | ⚪ Planned |
+| Kubernetes | 🔴 Beginner |
 | CI/CD | ⚪ Planned |
-| AWS | 🟡 Learning |
-| Azure | 🟢 Proficient |
+| AWS | ⚪ Planned |
+| Azure | ⚪ Planned |
 
 ### Other
 
 | Skill | Status |
 |-------|--------|
-| Blockchain | 🔴 Beginner |
-| Web3 | 🔴 Beginner |
-| Cloud Computing | ⚪ Planned |
+| Blockchain | 🟡 Learning |
+| Web3 | 🟡 Learning |
+| Cloud Computing | 🟡 Learning |
 
 </details>
 
