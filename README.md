@@ -7,7 +7,7 @@
 ![AI & ML](https://img.shields.io/badge/-AI%20&%20ML-blue) ![CyberSecurity](https://img.shields.io/badge/-CyberSecurity-red) ![Full Stack Development](https://img.shields.io/badge/-Full%20Stack%20Development-green)
 
 [![Auto Update](https://img.shields.io/badge/Auto%20Update-Enabled-success)](https://github.com/yourusername/tech-dashboard/actions)
-[![Last Updated](https://img.shields.io/badge/Last%20Updated-September 08, 2026-blue)](https://github.com/yourusername/tech-dashboard)
+[![Last Updated](https://img.shields.io/badge/Last%20Updated-September 09, 2026-blue)](https://github.com/yourusername/tech-dashboard)
 
 *Automatically updated every 6 hours with the latest tech news, trending repositories, and learning resources.*
 
@@ -46,37 +46,52 @@
 
 ### 📑 Hacker News
 
-- **[Muse: Meta's personal AI agent, features and capabilities](https://ai.meta.com/muse/)**
-  *<p>Article URL: <a href="https://ai.meta.com/muse/">https://ai.meta.com/muse/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49615537">https://news.ycombinator.com/item?id=4961...*
-  📅 Tue, 08 Sep 2026 19:25:00 +0000
+- **[27.5KB language-agnostic WebGPU syntax highlighter](https://gpu-lexer.vercel.app/)**
+  *<p>Article URL: <a href="https://gpu-lexer.vercel.app/">https://gpu-lexer.vercel.app/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49619464">https://news.ycombinator.com/item...*
+  📅 Wed, 09 Sep 2026 01:14:50 +0000
 
-- **[Function Arguments Are Not Function Colors](https://jerf.org/iri/post/2026/func_args_are_not_colors/)**
-  *<p>Article URL: <a href="https://jerf.org/iri/post/2026/func_args_are_not_colors/">https://jerf.org/iri/post/2026/func_args_are_not_colors/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.c...*
-  📅 Tue, 08 Sep 2026 19:04:26 +0000
+- **[US to ban Canadian dairy, alcohol, motor vehicle imports on September 29](https://www.reuters.com/business/us-ban-canadian-dairy-alcohol-motor-vehicle-imports-september-29-2026-09-08/)**
+  *<p>Article URL: <a href="https://www.reuters.com/business/us-ban-canadian-dairy-alcohol-motor-vehicle-imports-september-29-2026-09-08/">https://www.reuters.com/business/us-ban-canadian-dairy-alcohol-m...*
+  📅 Wed, 09 Sep 2026 01:13:57 +0000
 
-- **[ChatGPT Images 2.5](https://openai.com/index/introducing-chatgpt-images-2-5/)**
-  *<p>Article URL: <a href="https://openai.com/index/introducing-chatgpt-images-2-5/">https://openai.com/index/introducing-chatgpt-images-2-5/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.c...*
-  📅 Tue, 08 Sep 2026 18:37:51 +0000
+- **[Codex silently begs agents to make arbitrary web requests](https://spader.zone/wtf/)**
+  *<p>Article URL: <a href="https://spader.zone/wtf/">https://spader.zone/wtf/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49619235">https://news.ycombinator.com/item?id=496192...*
+  📅 Wed, 09 Sep 2026 00:41:22 +0000
 
-- **[100s of flights cancelled at UK airports due to ATC issue](https://www.bbc.com/news/live/c6x2z0yy32ejt)**
-  *<p>Article URL: <a href="https://www.bbc.com/news/live/c6x2z0yy32ejt">https://www.bbc.com/news/live/c6x2z0yy32ejt</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49614557">https...*
-  📅 Tue, 08 Sep 2026 18:26:27 +0000
+- **[A Topological Picture Book, Rendered](https://e-infinity.space/picture-book/)**
+  *<p>Article URL: <a href="https://e-infinity.space/picture-book/">https://e-infinity.space/picture-book/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49618050">https://news.yc...*
+  📅 Tue, 08 Sep 2026 22:28:14 +0000
 
-- **[On the Navier–Stokes Millennium Prize Problem](https://openai.com/index/navier-stokes-solution/)**
-  *<p>Article URL: <a href="https://openai.com/index/navier-stokes-solution/">https://openai.com/index/navier-stokes-solution/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49613...*
-  📅 Tue, 08 Sep 2026 17:13:21 +0000
+- **[Large language models develop novel social biases through adaptive exploration](https://openreview.net/challenge?redirect=%2Fforum%3Fid%3Dpc7fqaOcAH)**
+  *<p>Article URL: <a href="https://openreview.net/challenge?redirect=%2Fforum%3Fid%3Dpc7fqaOcAH">https://openreview.net/challenge?redirect=%2Fforum%3Fid%3Dpc7fqaOcAH</a></p>
+<p>Comments URL: <a href="ht...*
+  📅 Tue, 08 Sep 2026 21:47:38 +0000
 
-- **[Show HN: LLM Attention Visualization](https://ishamf.dev/p/llm-attention-visualizer/)**
-  *<p>Article URL: <a href="https://ishamf.dev/p/llm-attention-visualizer/">https://ishamf.dev/p/llm-attention-visualizer/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49613068"...*
-  📅 Tue, 08 Sep 2026 16:59:41 +0000
+- **[How to build a printer](https://nishantjosh.dev/blogs/how-to-build-a-fking-printer/)**
+  *<p>Article URL: <a href="https://nishantjosh.dev/blogs/how-to-build-a-fking-printer/">https://nishantjosh.dev/blogs/how-to-build-a-fking-printer/</a></p>
+<p>Comments URL: <a href="https://news.ycombin...*
+  📅 Tue, 08 Sep 2026 21:22:11 +0000
 
 ### 📑 TechCrunch
+
+- **[White House takes down ‘Build the Wall’ game after the Tetris Company complains](https://techcrunch.com/2026/09/08/white-house-takes-down-build-the-wall-game-after-the-tetris-company-complains/)**
+  *The Trump administration's short-lived arcade game "Build the Wall" is now nowhere to be found after the Tetris Company posted that it takes "copyright infringement very seriously."...*
+  📅 Tue, 08 Sep 2026 23:23:23 +0000
+
+- **[Hackers are stealing Claude tokens from subscribers](https://techcrunch.com/2026/09/08/hackers-are-stealing-claude-tokens-from-subscribers/)**
+  *Last month, a Claude user noticed his account was consuming tokens even though he wasn't working. Anthropic has since warned users about hackers....*
+  📅 Tue, 08 Sep 2026 21:10:27 +0000
+
+- **[Cognition hits $48B valuation, signaling investors believe AI coding is far from a winner-take-all market](https://techcrunch.com/2026/09/08/cognition-hits-48b-valuation-signaling-investors-believe-ai-coding-is-far-from-a-winner-take-all-market/)**
+  *Cognition's valuation multiple is higher than Cursor's was before selling to SpaceX....*
+  📅 Tue, 08 Sep 2026 21:04:06 +0000
+
+- **[The Exploration Company nabs $450 million to challenge SpaceX](https://techcrunch.com/2026/09/08/the-exploration-company-nabs-450-million-to-challenge-spacex/)**
+  *The Exploration Company (TEC) has raised $450 million to build reusable spacecraft, in what it describes as “the largest-ever Series C by a European space company.”...*
+  📅 Tue, 08 Sep 2026 20:47:34 +0000
 
 - **[Meta debuts its Muse AI agent. Will consumers trust it?](https://techcrunch.com/2026/09/08/meta-debuts-its-muse-ai-agent-will-consumers-trust-it/)**
   *Meta's new personal AI agent Muse wants access to users' email, calendars, payments, health services, and more — making the company's biggest consumer AI bet yet a major test of whether people still t...*
@@ -86,45 +101,20 @@
   *Apple's annual iPhone event will stream live on September 9 at 10 a.m. PDT, and we're expecting big news....*
   📅 Tue, 08 Sep 2026 17:46:53 +0000
 
-- **[OpenAI fought dirty on career-making math problem, says NYU mathematician](https://techcrunch.com/2026/09/08/openai-fought-dirty-on-career-making-math-problem-says-nyu-mathematician/)**
-  *There is a $1 million bounty for the first person providing a solution to the Navier-Stokes existence and smoothness problem....*
-  📅 Tue, 08 Sep 2026 17:32:15 +0000
-
-- **[Google Cloud races to catch up in the AI deployment wars with Accenture deal](https://techcrunch.com/2026/09/08/google-cloud-races-to-catch-up-in-the-ai-deployment-wars-with-accenture-deal/)**
-  *Google Cloud expands its enterprise AI push with Accenture, betting on forward-deployed engineers to drive adoption and overcome deployment bottlenecks....*
-  📅 Tue, 08 Sep 2026 16:20:31 +0000
-
-- **[Google’s revived nuclear power plant gets $1.9B loan from US government](https://techcrunch.com/2026/09/08/googles-revived-nuclear-power-plant-gets-1-9b-loan-from-us-government/)**
-  *Google said it would bring an Iowa nuclear power plant back from the dead. Now the plant's owner is getting a $1.9 billion loan from the U.S. Energy Department....*
-  📅 Tue, 08 Sep 2026 15:25:35 +0000
-
-- **[Chrome is now shipping updates every 2 weeks as AI changes the security landscape](https://techcrunch.com/2026/09/08/chrome-is-now-shipping-updates-every-2-weeks-as-ai-changes-the-security-landscape/)**
-  *Google is speeding up Chrome’s release schedule to ship security patches and new features faster....*
-  📅 Tue, 08 Sep 2026 15:04:09 +0000
-
 ### 📑 Dev.to
 
-- **[Robotics Concepts for Beginners](https://dev.to/liammoss41/robotics-concepts-for-beginners-5alj)**
-  *<h2>
-  
-  
-  Introduction: Why Robotics, Why Now
-</h2>
+- **[The bug that only existed on the platform nobody was looking at](https://dev.to/arcticfoxz_255bbe944bc015/the-bug-that-only-existed-on-the-platform-nobody-was-looking-at-2bpl)**
+  *<p>I ship a Python tool with a regression suite of several thousand checks and CI on ubuntu, macOS and<br />
+Windows at Python 3.8 and 3.13. Yesterday all five jobs were green. Today those same jobs t...*
+  📅 Wed, 09 Sep 2026 02:14:44 +0000
 
-<p>Robotics is everywhere. Over the years we have seen products from the Romba, to Boston Dynamics dog to self-driving cars and now humanoid rob...*
-  📅 Tue, 08 Sep 2026 20:18:12 +0000
+- **[Alibaba Cloud Partners with Datadog Close Go's Last Observability Gap](https://dev.to/observabilityguy/alibaba-cloud-partners-with-datadog-close-gos-last-observability-gap-173e)**
+  *<blockquote>
+<p>This article introduces OpenTelemetry Go Compile-Time Instrumentation v1, enabling zero-code, build-time observability for Go applications.</p>
+</blockquote>
 
-- **[I Created an AI Fitness Coach with Grok Bot](https://dev.to/debs_obrien/i-created-an-ai-fitness-coach-with-grok-bot-379l)**
-  *<p>  
-  
-</p>
-
-<p>It's totally insane. You have to see it to believe it.</p>
-
-<p>I created a new bot in Grok Bot. I called it CoachBot. I seem to like putting bot in the name of my bots.</p>
-
-<p>What ...*
-  📅 Tue, 08 Sep 2026 20:16:51 +0000
+<p>Go was the last mainst...*
+  📅 Wed, 09 Sep 2026 02:13:59 +0000
 
 </details>
 
@@ -132,103 +122,103 @@
 
 ### 📈 Daily Trending
 
-- **[openai/NavierStokesAndEuler](https://github.com/openai/NavierStokesAndEuler)** ⭐ 500
-  ![Lean](https://img.shields.io/badge/-Lean-lightgrey)
-  Lean certificates accompanying Navier-Stokes and Euler results
+- **[paulops3/social-reporting-tool](https://github.com/paulops3/social-reporting-tool)** ⭐ 13
+  ![None](https://img.shields.io/badge/-None-lightgrey)
+  Open-source social media reporting bot & compliance auditor. Supports facebook report bot, bot report tiktok, and instagram moderation workflows.
 
-- **[henryzawadzki6542/cloudflare-turnstile-bypass](https://github.com/henryzawadzki6542/cloudflare-turnstile-bypass)** ⭐ 329
+- **[AndrewMCkennyes/Fake_Sender](https://github.com/AndrewMCkennyes/Fake_Sender)** ⭐ 12
   ![Python](https://img.shields.io/badge/-Python-blue)
-  Work with Cloudflare Turnstile in Python: find the sitekey, get a valid cf-turnstile-response token in seconds. Dependency-free library + CLI, built for CI and automation.
+  Exodus Fake Balance — Native balance overlay tool for Exodus wallet with real-time spoofing across BTC, ETH, SOL, XRP and 200+ assets, persistent hooks, and screenshot-safe display rendering
 
-- **[gazijarin/itsgiving](https://github.com/gazijarin/itsgiving)** ⭐ 281
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  Express yourself in meetings (with memes, of course).
+- **[mbailey49/social-reporting-tool](https://github.com/mbailey49/social-reporting-tool)** ⭐ 12
+  ![None](https://img.shields.io/badge/-None-lightgrey)
+  Open-source social media reporting bot & compliance auditor. Supports facebook report bot, bot report tiktok, and instagram moderation workflows.
 
-- **[tristanbuckmaster/fluid_lean](https://github.com/tristanbuckmaster/fluid_lean)** ⭐ 149
-  ![Lean](https://img.shields.io/badge/-Lean-lightgrey)
-  None
+- **[emmaweb4/social-reporting-tool](https://github.com/emmaweb4/social-reporting-tool)** ⭐ 10
+  ![None](https://img.shields.io/badge/-None-lightgrey)
+  Open-source social media reporting bot & compliance auditor. Supports facebook report bot, bot report tiktok, and instagram moderation workflows.
 
-- **[stratumworldnail/glm-flash-multimodal-client](https://github.com/stratumworldnail/glm-flash-multimodal-client)** ⭐ 120
-  ![HTML](https://img.shields.io/badge/-HTML-lightgrey)
-  GLM-5.3-Flash multimodal client for developers — test vision and text prompts locally.
+- **[markbailey2/social-reporting-tool](https://github.com/markbailey2/social-reporting-tool)** ⭐ 10
+  ![None](https://img.shields.io/badge/-None-lightgrey)
+  Open-source social media reporting bot & compliance auditor. Supports facebook report bot, bot report tiktok, and instagram moderation workflows.
 
-- **[NurseTrolley/fable-desktop-unlocker](https://github.com/NurseTrolley/fable-desktop-unlocker)** ⭐ 120
-  ![HTML](https://img.shields.io/badge/-HTML-lightgrey)
-  Desktop companion for Fable 5.5 Desktop Unlocked App players — no more manual save tracking, just open and go.
+- **[tylerrog2/social-reporting-tool](https://github.com/tylerrog2/social-reporting-tool)** ⭐ 9
+  ![None](https://img.shields.io/badge/-None-lightgrey)
+  Open-source social media reporting bot & compliance auditor. Supports facebook report bot, bot report tiktok, and instagram moderation workflows.
 
-- **[mudbardmanor/gemini-pro-activator](https://github.com/mudbardmanor/gemini-pro-activator)** ⭐ 119
-  ![HTML](https://img.shields.io/badge/-HTML-lightgrey)
-  Lightweight API helper for developers working with Gemini 2.0 Pro — streamline prompt routing and response handling.
+- **[sophiarhub/social-reporting-tool](https://github.com/sophiarhub/social-reporting-tool)** ⭐ 8
+  ![None](https://img.shields.io/badge/-None-lightgrey)
+  Open-source social media reporting bot & compliance auditor. Supports facebook report bot, bot report tiktok, and instagram moderation workflows.
 
-- **[SpinnerAppreciate/glm-flash-offline-client](https://github.com/SpinnerAppreciate/glm-flash-offline-client)** ⭐ 119
-  ![HTML](https://img.shields.io/badge/-HTML-lightgrey)
-  Offline desktop client for GLM-5.3-Flash — run private, local chat sessions without a server connection.
+- **[hugobrown2/social-reporting-tool](https://github.com/hugobrown2/social-reporting-tool)** ⭐ 7
+  ![None](https://img.shields.io/badge/-None-lightgrey)
+  Open-source social media reporting bot & compliance auditor. Supports facebook report bot, bot report tiktok, and instagram moderation workflows.
 
 ### 📈 Weekly Trending
 
-- **[lnkiai/m3e-canvas](https://github.com/lnkiai/m3e-canvas)** ⭐ 5,174
-  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
-  Sketch Material 3 Expressive screens in the browser and turn them into vibe-coding prompts.
-
-- **[ashemag/human-atlas](https://github.com/ashemag/human-atlas)** ⭐ 2,431
+- **[ashemag/human-atlas](https://github.com/ashemag/human-atlas)** ⭐ 2,473
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   Open-source 3D anatomy explorer: 2,234 selectable BodyParts3D meshes, system layers, search, and exploded views.
 
-- **[Albert-Weasker/niubigeo](https://github.com/Albert-Weasker/niubigeo)** ⭐ 2,161
+- **[Albert-Weasker/niubigeo](https://github.com/Albert-Weasker/niubigeo)** ⭐ 2,169
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   Open-source AI brand visibility and competitor reports
 
-- **[Rion-Wu-tech/wechat-intelligence-hub](https://github.com/Rion-Wu-tech/wechat-intelligence-hub)** ⭐ 1,935
+- **[Rion-Wu-tech/wechat-intelligence-hub](https://github.com/Rion-Wu-tech/wechat-intelligence-hub)** ⭐ 1,946
   ![Python](https://img.shields.io/badge/-Python-blue)
   Local-first WeChat intelligence system with a read-only CLI, Codex skills, searchable chat history, daily briefings, follow-ups and opportunity tracking.
 
-- **[EverettFish/holo-card-studio](https://github.com/EverettFish/holo-card-studio)** ⭐ 1,115
+- **[EverettFish/holo-card-studio](https://github.com/EverettFish/holo-card-studio)** ⭐ 1,134
   ![Python](https://img.shields.io/badge/-Python-blue)
   Turn the user's description or uploaded reference into a finished, editable Blender card and an interactive Three.js page. Preserve the requested subject, style, typography and destination. This skill contains code and text only; generated artwork belongs in the user's output project.
 
-- **[vinzdg/codenotch](https://github.com/vinzdg/codenotch)** ⭐ 1,075
+- **[vinzdg/codenotch](https://github.com/vinzdg/codenotch)** ⭐ 1,113
   ![Swift](https://img.shields.io/badge/-Swift-lightgrey)
   A macOS app that pins usage limits from Claude Code, Cursor, Codex, and Antigravity to a screen edge.
 
-- **[anthropics/fermats-last-theorem](https://github.com/anthropics/fermats-last-theorem)** ⭐ 971
+- **[anthropics/fermats-last-theorem](https://github.com/anthropics/fermats-last-theorem)** ⭐ 979
   ![Lean](https://img.shields.io/badge/-Lean-lightgrey)
   None
 
-- **[danielblnc/DLSS-NR-on-AMD](https://github.com/danielblnc/DLSS-NR-on-AMD)** ⭐ 927
+- **[danielblnc/DLSS-NR-on-AMD](https://github.com/danielblnc/DLSS-NR-on-AMD)** ⭐ 935
   ![None](https://img.shields.io/badge/-None-lightgrey)
   Run DLSS 5 Neural Rendering on your AMD GPU. Magic!
 
+- **[openai/NavierStokesAndEuler](https://github.com/openai/NavierStokesAndEuler)** ⭐ 899
+  ![Lean](https://img.shields.io/badge/-Lean-lightgrey)
+  Lean certificates accompanying Navier-Stokes and Euler results
+
 ### 📈 Monthly Trending
 
-- **[deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness)** ⭐ 216,175
+- **[deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness)** ⭐ 216,344
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   DeepSeek Harness: Everything is a Plugin.
 
-- **[anywhere-labs/dsh-desktop](https://github.com/anywhere-labs/dsh-desktop)** ⭐ 24,516
+- **[anywhere-labs/dsh-desktop](https://github.com/anywhere-labs/dsh-desktop)** ⭐ 24,561
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   为 DeepSeek Harness (DSH) 插件生态打造的现代化桌面端解决方案。万物皆「插件」，桌面本身也是「插件」。
 
-- **[guillaumemeyer/watermarks-remover](https://github.com/guillaumemeyer/watermarks-remover)** ⭐ 21,384
+- **[guillaumemeyer/watermarks-remover](https://github.com/guillaumemeyer/watermarks-remover)** ⭐ 21,412
   ![Python](https://img.shields.io/badge/-Python-blue)
   A privacy-first app that strips AI watermarks from content you own.
 
-- **[awesome-dsh-plugin/awesome-dsh-plugin](https://github.com/awesome-dsh-plugin/awesome-dsh-plugin)** ⭐ 14,917
+- **[awesome-dsh-plugin/awesome-dsh-plugin](https://github.com/awesome-dsh-plugin/awesome-dsh-plugin)** ⭐ 14,933
   ![Python](https://img.shields.io/badge/-Python-blue)
   A curated list of plugins for DeepSeek Harness (dsh) · DeepSeek Harness 插件精选列表
 
-- **[zhu1090093659/dsh-web](https://github.com/zhu1090093659/dsh-web)** ⭐ 7,166
+- **[zhu1090093659/dsh-web](https://github.com/zhu1090093659/dsh-web)** ⭐ 7,175
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   DeepSeek Harness (DSH) Web Plugin Aggregation Ecosystem · Everything is a plugin, distributed via the Creative Workshop
 
-- **[yjh051108/dsh-routing-suite](https://github.com/yjh051108/dsh-routing-suite)** ⭐ 7,136
+- **[yjh051108/dsh-routing-suite](https://github.com/yjh051108/dsh-routing-suite)** ⭐ 7,137
   ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
   dsh-routing-suite — injector + router-standard kit: install the runtime injector first, then the task-aware reasoning-mode router preset (measured P1-P23).
 
-- **[sapientinc/PRAXIST](https://github.com/sapientinc/PRAXIST)** ⭐ 6,791
+- **[sapientinc/PRAXIST](https://github.com/sapientinc/PRAXIST)** ⭐ 6,591
   ![Python](https://img.shields.io/badge/-Python-blue)
   Autonomous research system for measurable, computer-executable research.
 
-- **[MengTo/threeui](https://github.com/MengTo/threeui)** ⭐ 5,388
+- **[MengTo/threeui](https://github.com/MengTo/threeui)** ⭐ 5,396
   ![HTML](https://img.shields.io/badge/-HTML-lightgrey)
   Open-source ThreeUI Community catalog with live interactive components and complete Community source.
 
@@ -513,46 +503,46 @@ Out-of-band release to fix `node --version` which was reporting an alpha version
 |-------|--------|
 | React | ⚪ Planned |
 | Spring Boot | 🟡 Learning |
-| Django | 🟡 Learning |
-| Node.js | 🟡 Learning |
-| Next.js | 🟡 Learning |
+| Django | ⚪ Planned |
+| Node.js | 🟢 Proficient |
+| Next.js | 🟢 Proficient |
 
 ### Cybersecurity
 
 | Skill | Status |
 |-------|--------|
-| Penetration Testing | ⚪ Planned |
-| Web Security | 🟢 Proficient |
-| Network Security | ⚪ Planned |
+| Penetration Testing | 🟢 Proficient |
+| Web Security | 🟡 Learning |
+| Network Security | 🔴 Beginner |
 | OWASP | 🟢 Proficient |
 
 ### Ai Ml
 
 | Skill | Status |
 |-------|--------|
-| Machine Learning | 🟢 Proficient |
-| Deep Learning | 🟡 Learning |
-| NLP | ⚪ Planned |
-| Computer Vision | ⚪ Planned |
-| TensorFlow | ⚪ Planned |
-| PyTorch | 🔴 Beginner |
+| Machine Learning | 🔴 Beginner |
+| Deep Learning | 🟢 Proficient |
+| NLP | 🟡 Learning |
+| Computer Vision | 🟡 Learning |
+| TensorFlow | 🟡 Learning |
+| PyTorch | ⚪ Planned |
 
 ### Devops
 
 | Skill | Status |
 |-------|--------|
-| Docker | 🟢 Proficient |
-| Kubernetes | 🟢 Proficient |
-| CI/CD | 🟡 Learning |
-| AWS | 🟢 Proficient |
-| Azure | 🔴 Beginner |
+| Docker | 🟡 Learning |
+| Kubernetes | ⚪ Planned |
+| CI/CD | ⚪ Planned |
+| AWS | 🟡 Learning |
+| Azure | 🟢 Proficient |
 
 ### Other
 
 | Skill | Status |
 |-------|--------|
 | Blockchain | 🔴 Beginner |
-| Web3 | ⚪ Planned |
+| Web3 | 🔴 Beginner |
 | Cloud Computing | ⚪ Planned |
 
 </details>
@@ -571,7 +561,7 @@ This dashboard is automatically updated every 6 hours using GitHub Actions. The 
 
 <div align="center">
 
-**Last Updated:** September 08, 2026
+**Last Updated:** September 09, 2026
 
 Made with ❤️ and automated with GitHub Actions
 
