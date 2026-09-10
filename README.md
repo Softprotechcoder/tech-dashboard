@@ -7,7 +7,7 @@
 ![AI & ML](https://img.shields.io/badge/-AI%20&%20ML-blue) ![CyberSecurity](https://img.shields.io/badge/-CyberSecurity-red) ![Full Stack Development](https://img.shields.io/badge/-Full%20Stack%20Development-green)
 
 [![Auto Update](https://img.shields.io/badge/Auto%20Update-Enabled-success)](https://github.com/yourusername/tech-dashboard/actions)
-[![Last Updated](https://img.shields.io/badge/Last%20Updated-September 09, 2026-blue)](https://github.com/yourusername/tech-dashboard)
+[![Last Updated](https://img.shields.io/badge/Last%20Updated-September 10, 2026-blue)](https://github.com/yourusername/tech-dashboard)
 
 *Automatically updated every 6 hours with the latest tech news, trending repositories, and learning resources.*
 
@@ -46,20 +46,23 @@
 
 ### 📑 Hacker News
 
+- **[Automattic's board forces CEO Matt Mullenweg into leave of absence](https://techcrunch.com/2026/09/09/automattics-board-forces-ceo-matt-mullenweg-into-leave-of-absence/)**
+  *<p>Article URL: <a href="https://techcrunch.com/2026/09/09/automattics-board-forces-ceo-matt-mullenweg-into-leave-of-absence/">https://techcrunch.com/2026/09/09/automattics-board-forces-ceo-matt-mulle...*
+  📅 Wed, 09 Sep 2026 23:49:29 +0000
+
+- **[Blizzard Workers Win Historic Union Contract](https://www.gamespot.com/articles/blizzard-workers-win-historic-union-contract-that-could-set-a-new-standard-for-game-developers)**
+  *<p>Article URL: <a href="https://www.gamespot.com/articles/blizzard-workers-win-historic-union-contract-that-could-set-a-new-standard-for-game-developers">https://www.gamespot.com/articles/blizzard-wo...*
+  📅 Wed, 09 Sep 2026 22:22:53 +0000
+
+- **[Factoring RSA 260](https://cognition.com/blog/factoring-rsa-260)**
+  *<p>Article URL: <a href="https://cognition.com/blog/factoring-rsa-260">https://cognition.com/blog/factoring-rsa-260</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49633534">htt...*
+  📅 Wed, 09 Sep 2026 20:16:08 +0000
+
 - **[iPhone Duo](https://www.apple.com/iphone-duo/)**
   *<p>Article URL: <a href="https://www.apple.com/iphone-duo/">https://www.apple.com/iphone-duo/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49630931">https://news.ycombinator....*
   📅 Wed, 09 Sep 2026 18:15:43 +0000
-
-- **[Show HN: Self-hosted company OS, Claude Code and Codex agents in departments](https://github.com/OtoDock/oto-dock)**
-  *<p>Hi HN, I am Dimitris. 
-This is a company OS that I built and use to run my business and anyone can install it and self host it for free. Think of it as Claude Code, Cowork and the cloud sessions in...*
-  📅 Wed, 09 Sep 2026 17:57:55 +0000
-
-- **[Apple Watch Ultra 4](https://www.apple.com/newsroom/2026/09/apple-unveils-apple-watch-ultra-4/)**
-  *<p>Article URL: <a href="https://www.apple.com/newsroom/2026/09/apple-unveils-apple-watch-ultra-4/">https://www.apple.com/newsroom/2026/09/apple-unveils-apple-watch-ultra-4/</a></p>
-<p>Comments URL: <...*
-  📅 Wed, 09 Sep 2026 17:56:57 +0000
 
 - **[Apple Watch Series 12](https://www.apple.com/newsroom/2026/09/introducing-apple-watch-series-12-with-the-all-new-health-sensing-system/)**
   *<p>Article URL: <a href="https://www.apple.com/newsroom/2026/09/introducing-apple-watch-series-12-with-the-all-new-health-sensing-system/">https://www.apple.com/newsroom/2026/09/introducing-apple-watc...*
@@ -69,51 +72,41 @@ This is a company OS that I built and use to run my business and anyone can inst
   *<p>Article URL: <a href="https://www.apple.com/newsroom/2026/09/apple-introduces-airpods-5-with-best-in-class-open-ear-active-noise-cancellation/">https://www.apple.com/newsroom/2026/09/apple-introduc...*
   📅 Wed, 09 Sep 2026 17:39:24 +0000
 
-- **[iPhone 18 Pro and iPhone 18 Pro Max](https://www.apple.com/newsroom/2026/09/apple-debuts-iphone-18-pro-and-iphone-18-pro-max/)**
-  *<p>Article URL: <a href="https://www.apple.com/newsroom/2026/09/apple-debuts-iphone-18-pro-and-iphone-18-pro-max/">https://www.apple.com/newsroom/2026/09/apple-debuts-iphone-18-pro-and-iphone-18-pro-m...*
-  📅 Wed, 09 Sep 2026 17:33:20 +0000
-
 ### 📑 TechCrunch
 
-- **[Everything Apple announced at its fall iPhone event, from the foldable iPhone Duo to an always-listening Apple Watch](https://techcrunch.com/2026/09/09/everything-apple-announced-at-its-fall-iphone-event-from-the-foldable-iphone-duo-to-an-always-listening-apple-watch/)**
-  *The main event was the tech giant's highly anticipated first foldable phone, the iPhone Duo....*
-  📅 Wed, 09 Sep 2026 20:03:43 +0000
+- **[AI research startup Listen Labs scrubbed a $1.5B funding round for Salesforce talks](https://techcrunch.com/2026/09/09/ai-research-startup-listen-labs-scrubbed-a-1-5b-funding-round-for-salesforce-talks/)**
+  *Listen Labs walked away from a signed Series C term sheet from Menlo Ventures, sources say....*
+  📅 Thu, 10 Sep 2026 00:00:37 +0000
 
-- **[There are new shiny iPhones, so Apple is making you pay more for older models](https://techcrunch.com/2026/09/09/there-are-new-shiny-iphones-so-apple-is-making-you-pay-more-for-older-models/)**
-  *Apple is raising the price of its existing iPhone models by $100, including iPhone 16, iPhone 17, and iPhone Air....*
-  📅 Wed, 09 Sep 2026 19:56:18 +0000
+- **[Automattic’s board forces CEO Matt Mullenweg into leave of absence](https://techcrunch.com/2026/09/09/automattics-board-forces-ceo-matt-mullenweg-into-leave-of-absence/)**
+  *Mullenweg said in a company Slack message that it was against his will....*
+  📅 Wed, 09 Sep 2026 23:14:29 +0000
 
-- **[The hinge for Apple’s new foldable phone was built with AI](https://techcrunch.com/2026/09/09/the-hinge-for-apples-new-foldable-phone-was-built-with-ai/)**
-  *Apple says it used AI and 3D printing in the manufacturing process for its long-awaited foldable phone....*
-  📅 Wed, 09 Sep 2026 19:21:48 +0000
+- **[OpenAI adds a prominent AI doomer to its board of directors](https://techcrunch.com/2026/09/09/openai-adds-a-prominent-ai-doomer-to-its-board-of-directors/)**
+  *Paul Christiano, an influential AI researcher focused on alignment, is joining the OpenAI Foundation as a member of its board....*
+  📅 Wed, 09 Sep 2026 22:25:22 +0000
 
-- **[Apple Watch’s new feature listens to your chats and recaps them](https://techcrunch.com/2026/09/09/apple-watchs-new-feature-listens-to-your-chats-and-recaps-them/)**
-  *The Siri Recap feature is similar to other note-taking apps like Granola....*
-  📅 Wed, 09 Sep 2026 19:08:59 +0000
+- **[Massachusetts hits data centers with new clean power rules](https://techcrunch.com/2026/09/09/massachusetts-hits-data-centers-with-new-clean-power-rules/)**
+  *Massachusetts has become the third state in as many months to slap new restrictions on data center development....*
+  📅 Wed, 09 Sep 2026 21:43:34 +0000
 
-- **[Harvey hits $15.5B valuation, months after reaching $11B](https://techcrunch.com/2026/09/09/harvey-hits-15-5b-valuation-months-after-reaching-11b/)**
-  *The legal AI startup and VC darling has nearly doubled its valuation in nine months....*
-  📅 Wed, 09 Sep 2026 18:34:24 +0000
+- **[Apple’s new CEO is reviving a Steve Jobs strategy from 25 years ago](https://techcrunch.com/2026/09/09/apples-new-ceo-is-reviving-a-steve-jobs-strategy-from-25-years-ago/)**
+  *John Ternus made the case in his first keynote as Apple CEO that the iPhone isn't going anywhere....*
+  📅 Wed, 09 Sep 2026 20:58:09 +0000
 
-- **[Apple’s revamped Health app will calculate your ‘health age’ and readiness score](https://techcrunch.com/2026/09/09/apples-revamped-health-app-will-calculate-your-health-age-and-readiness-score/)**
-  *The update uses Apple Intelligence to make better sense of your health data....*
-  📅 Wed, 09 Sep 2026 18:16:29 +0000
+- **[Apple Watch’s new AI features are normalizing the idea that technology is always listening](https://techcrunch.com/2026/09/09/apple-watchs-new-ai-features-are-normalizing-the-idea-that-technology-is-always-listening/)**
+  *Apple says its new watches won’t save raw audio, but features that can transcribe recent speech and summarize ambient conversations raise new questions about consent, privacy, and how people behave wh...*
+  📅 Wed, 09 Sep 2026 20:24:48 +0000
 
 ### 📑 Dev.to
 
-- **[Google’s August Gemini Updates Expand Faster Models, Transcription and Task Workflows](https://dev.to/alifar/googles-august-gemini-updates-expand-faster-models-transcription-and-task-workflows-2bnp)**
-  *<p>Google’s August 2026 Gemini updates were not a single product release. They were a coordinated expansion across models, the <a href="https://scalevise.com/resources/gemini/" rel="noopener noreferre...*
-  📅 Wed, 09 Sep 2026 20:01:01 +0000
+- **[Someone Spammed My DEV Post. I Traced It to a Wombat.](https://dev.to/copyleftdev/someone-spammed-my-dev-post-i-traced-it-to-a-wombat-176a)**
+  *<p><a class="article-body-image-wrapper" href="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws...*
+  📅 Thu, 10 Sep 2026 01:56:33 +0000
 
-- **[I made an agent play Slay the Spire 2 on its own — and what unlocked it was the game saying 'no'](https://dev.to/brmarcosbr/i-made-an-agent-play-slay-the-spire-2-on-its-own-and-what-unlocked-it-was-the-game-saying-no-2hc2)**
-  *<h1>
-  
-  
-  I made an agent play Slay the Spire 2 on its own — and what unlocked it was the game saying 'no'
-</h1>
-
-<p>On 08/09/2026, an agent played an entire solo combat of Slay the Spire 2 <strong...*
-  📅 Wed, 09 Sep 2026 19:59:10 +0000
+- **[My Journey Into Learning About ML and Implementing a MLP From Scratch](https://dev.to/jrichards137/my-journey-into-learning-about-ml-and-implementing-a-mlp-from-scratch-3h37)**
+  *<p><em>Note: This is my first ever blog post, so my apologies in advance if it's not up to par. Also, since this is my first post, I decided to not use any AI for polishing, etc., so that the reader c...*
+  📅 Thu, 10 Sep 2026 01:49:27 +0000
 
 </details>
 
@@ -121,91 +114,87 @@ This is a company OS that I built and use to run my business and anyone can inst
 
 ### 📈 Daily Trending
 
-- **[Foadsf/vintage-latex](https://github.com/Foadsf/vintage-latex)** ⭐ 102
-  ![PowerShell](https://img.shields.io/badge/-PowerShell-lightgrey)
-  Twenty LuaLaTeX and MetaPost (fiziko) examples of the old scientific-paper aesthetic: engraved plates, star charts, computed log tables, knots, telescopes
-
-- **[Git-Agni/prod-UAE-Corporate-Tax-Skill](https://github.com/Git-Agni/prod-UAE-Corporate-Tax-Skill)** ⭐ 74
-  ![None](https://img.shields.io/badge/-None-lightgrey)
-  None
-
-- **[HammingDev/haiming-app-monetization](https://github.com/HammingDev/haiming-app-monetization)** ⭐ 67
-  ![None](https://img.shields.io/badge/-None-lightgrey)
-  海明Dev： App 商业化 Skill｜onboarding、付费墙、内购选项、竞品调研
-
-- **[ashelygierisch/ESP32-AI](https://github.com/ashelygierisch/ESP32-AI)** ⭐ 62
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  None
-
-- **[ashelygierisch/bodyparser](https://github.com/ashelygierisch/bodyparser)** ⭐ 61
-  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
-  None
-
-- **[ashelygierisch/ChatGPT-i18n](https://github.com/ashelygierisch/ChatGPT-i18n)** ⭐ 60
-  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
-  None
-
-- **[ashelygierisch/chatify](https://github.com/ashelygierisch/chatify)** ⭐ 60
+- **[yudaprasetya007/routeVSCODE](https://github.com/yudaprasetya007/routeVSCODE)** ⭐ 326
   ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
-  None
+  ⚡ Zero-reload dynamic AI model switcher & local proxy for VSCode Copilot Chat via 9Router
 
-- **[T-DT-Algorithm-2026/tdt-nav-kit](https://github.com/T-DT-Algorithm-2026/tdt-nav-kit)** ⭐ 45
-  ![C++](https://img.shields.io/badge/-C++-pink)
-  None
+- **[Alpha-Park/genpark-cooley-tukey-fft-radix2-skill](https://github.com/Alpha-Park/genpark-cooley-tukey-fft-radix2-skill)** ⭐ 7
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  Cooley-Tukey Radix-2 Fast Fourier Transform (FFT) frequency analyzer converting discrete time-domain signals into spectral complex frequency bins.
+
+- **[Alpha-Park/genpark-dynamic-range-compressor-limiter-skill](https://github.com/Alpha-Park/genpark-dynamic-range-compressor-limiter-skill)** ⭐ 7
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  Audio dynamic range compressor and peak limiter with logarithmic decibel thresholding, ratio attenuation, and linear makeup gain.
+
+- **[alphaparkinc/genpark-tree-of-thoughts-mcts-evaluator-skill](https://github.com/alphaparkinc/genpark-tree-of-thoughts-mcts-evaluator-skill)** ⭐ 7
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  Tree of Thoughts (ToT) Monte Carlo Tree Search (MCTS) reasoning engine with UCB1 exploration-exploitation balance and state backpropagation.
+
+- **[alphaparkinc/genpark-threshold-bls-signature-aggregation-skill](https://github.com/alphaparkinc/genpark-threshold-bls-signature-aggregation-skill)** ⭐ 7
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  Threshold BLS signature aggregation engine combining threshold shares via Lagrange polynomial coefficient interpolation.
+
+- **[Alpha-Park/genpark-threshold-bls-signature-aggregation-skill](https://github.com/Alpha-Park/genpark-threshold-bls-signature-aggregation-skill)** ⭐ 7
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  Threshold BLS signature aggregation engine combining threshold shares via Lagrange polynomial coefficient interpolation.
+
+- **[alphaparkinc/genpark-l3-limit-order-book-matcher-skill](https://github.com/alphaparkinc/genpark-l3-limit-order-book-matcher-skill)** ⭐ 7
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  Ultra-low-latency Price-Time Priority Level-3 (L3) Limit Order Book (LOB) matching engine with continuous price queues and fills.
+
+- **[Alpha-Park/genpark-biquad-iir-filter-cascade-skill](https://github.com/Alpha-Park/genpark-biquad-iir-filter-cascade-skill)** ⭐ 7
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  Direct Form II Transposed biquad IIR filter cascade executing real-time low-pass audio frequency filtering and resonance shaping.
 
 ### 📈 Weekly Trending
 
-- **[ashemag/human-atlas](https://github.com/ashemag/human-atlas)** ⭐ 2,817
+- **[ashemag/human-atlas](https://github.com/ashemag/human-atlas)** ⭐ 2,853
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   Open-source 3D anatomy explorer: 2,234 selectable BodyParts3D meshes, system layers, search, and exploded views.
 
-- **[Albert-Weasker/niubigeo](https://github.com/Albert-Weasker/niubigeo)** ⭐ 2,244
-  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
-  Open-source AI brand visibility and competitor reports. Official website: https://niubigeo.ai/ | Paid services: AI testing by real people and GEO optimization. Pricing: https://niubigeo.ai/pricing
-
-- **[Rion-Wu-tech/wechat-intelligence-hub](https://github.com/Rion-Wu-tech/wechat-intelligence-hub)** ⭐ 2,016
+- **[Rion-Wu-tech/wechat-intelligence-hub](https://github.com/Rion-Wu-tech/wechat-intelligence-hub)** ⭐ 2,024
   ![Python](https://img.shields.io/badge/-Python-blue)
   Local-first WeChat intelligence system with a read-only CLI, Codex skills, searchable chat history, daily briefings, follow-ups and opportunity tracking.
 
-- **[openai/NavierStokesAndEuler](https://github.com/openai/NavierStokesAndEuler)** ⭐ 1,523
+- **[openai/NavierStokesAndEuler](https://github.com/openai/NavierStokesAndEuler)** ⭐ 1,567
   ![Lean](https://img.shields.io/badge/-Lean-lightgrey)
   Lean certificates accompanying Navier-Stokes and Euler results
 
-- **[vinzdg/codenotch](https://github.com/vinzdg/codenotch)** ⭐ 1,277
+- **[vinzdg/codenotch](https://github.com/vinzdg/codenotch)** ⭐ 1,288
   ![Swift](https://img.shields.io/badge/-Swift-lightgrey)
   A macOS app that pins usage limits from Claude Code, Cursor, Codex, and Antigravity to a screen edge.
 
-- **[EverettFish/holo-card-studio](https://github.com/EverettFish/holo-card-studio)** ⭐ 1,232
+- **[EverettFish/holo-card-studio](https://github.com/EverettFish/holo-card-studio)** ⭐ 1,242
   ![Python](https://img.shields.io/badge/-Python-blue)
   Turn the user's description or uploaded reference into a finished, editable Blender card and an interactive Three.js page. Preserve the requested subject, style, typography and destination. This skill contains code and text only; generated artwork belongs in the user's output project.
 
-- **[anthropics/fermats-last-theorem](https://github.com/anthropics/fermats-last-theorem)** ⭐ 998
+- **[anthropics/fermats-last-theorem](https://github.com/anthropics/fermats-last-theorem)** ⭐ 1,001
   ![Lean](https://img.shields.io/badge/-Lean-lightgrey)
   None
 
-- **[danielblnc/DLSS-NR-on-AMD](https://github.com/danielblnc/DLSS-NR-on-AMD)** ⭐ 968
+- **[donvito/codex-astra-luna-orchestrator](https://github.com/donvito/codex-astra-luna-orchestrator)** ⭐ 756
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  Use Astra as orchestrator and Luna for subagents in Codex
+
+- **[sdli1995/dlssg_for_sm86](https://github.com/sdli1995/dlssg_for_sm86)** ⭐ 737
   ![None](https://img.shields.io/badge/-None-lightgrey)
-  Run DLSS 5 Neural Rendering on your AMD GPU. Magic!
+  Here is a dlssg for RTX30 Series GPU 
 
 ### 📈 Monthly Trending
 
-- **[deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness)** ⭐ 217,369
+- **[deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness)** ⭐ 217,541
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   DeepSeek Harness: Everything is a Plugin.
 
-- **[anywhere-labs/dsh-desktop](https://github.com/anywhere-labs/dsh-desktop)** ⭐ 24,789
+- **[anywhere-labs/dsh-desktop](https://github.com/anywhere-labs/dsh-desktop)** ⭐ 24,836
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   为 DeepSeek Harness (DSH) 插件生态打造的现代化桌面端解决方案。万物皆「插件」，桌面本身也是「插件」。
 
-- **[guillaumemeyer/watermarks-remover](https://github.com/guillaumemeyer/watermarks-remover)** ⭐ 21,528
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  A privacy-first app that strips AI watermarks from content you own.
-
-- **[awesome-dsh-plugin/awesome-dsh-plugin](https://github.com/awesome-dsh-plugin/awesome-dsh-plugin)** ⭐ 15,047
+- **[awesome-dsh-plugin/awesome-dsh-plugin](https://github.com/awesome-dsh-plugin/awesome-dsh-plugin)** ⭐ 15,059
   ![Python](https://img.shields.io/badge/-Python-blue)
   A curated list of plugins for DeepSeek Harness (dsh) · DeepSeek Harness 插件精选列表
 
-- **[zhu1090093659/dsh-web](https://github.com/zhu1090093659/dsh-web)** ⭐ 7,243
+- **[zhu1090093659/dsh-web](https://github.com/zhu1090093659/dsh-web)** ⭐ 7,249
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   DeepSeek Harness (DSH) Web Plugin Aggregation Ecosystem · Everything is a plugin, distributed via the Creative Workshop
 
@@ -213,13 +202,17 @@ This is a company OS that I built and use to run my business and anyone can inst
   ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
   dsh-routing-suite — injector + router-standard kit: install the runtime injector first, then the task-aware reasoning-mode router preset (measured P1-P23).
 
-- **[sapientinc/PRAXIST](https://github.com/sapientinc/PRAXIST)** ⭐ 6,243
+- **[sapientinc/PRAXIST](https://github.com/sapientinc/PRAXIST)** ⭐ 6,250
   ![Python](https://img.shields.io/badge/-Python-blue)
   Autonomous research system for measurable, computer-executable research.
 
-- **[lnkiai/m3e-canvas](https://github.com/lnkiai/m3e-canvas)** ⭐ 5,519
+- **[lnkiai/m3e-canvas](https://github.com/lnkiai/m3e-canvas)** ⭐ 5,564
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   Sketch Material 3 Expressive screens in the browser and turn them into vibe-coding prompts.
+
+- **[MengTo/threeui](https://github.com/MengTo/threeui)** ⭐ 5,460
+  ![HTML](https://img.shields.io/badge/-HTML-lightgrey)
+  Open-source ThreeUI Community catalog with live interactive components and complete Community source.
 
 ## 🚀 Latest Releases
 
@@ -489,57 +482,57 @@ See [kubernetes-announce@](https://groups.google.com/forum/#!forum/kubernetes-an
 
 | Skill | Status |
 |-------|--------|
-| Java | 🟡 Learning |
+| Java | 🟢 Proficient |
 | Python | ⚪ Planned |
-| JavaScript | 🟡 Learning |
-| TypeScript | 🟢 Proficient |
-| Go | 🔴 Beginner |
+| JavaScript | 🔴 Beginner |
+| TypeScript | ⚪ Planned |
+| Go | ⚪ Planned |
 
 ### Frameworks
 
 | Skill | Status |
 |-------|--------|
-| React | ⚪ Planned |
+| React | 🔴 Beginner |
 | Spring Boot | 🔴 Beginner |
 | Django | 🔴 Beginner |
-| Node.js | 🔴 Beginner |
-| Next.js | 🔴 Beginner |
+| Node.js | 🟢 Proficient |
+| Next.js | 🟡 Learning |
 
 ### Cybersecurity
 
 | Skill | Status |
 |-------|--------|
-| Penetration Testing | ⚪ Planned |
-| Web Security | 🔴 Beginner |
-| Network Security | 🔴 Beginner |
+| Penetration Testing | 🟡 Learning |
+| Web Security | 🟡 Learning |
+| Network Security | 🟡 Learning |
 | OWASP | 🔴 Beginner |
 
 ### Ai Ml
 
 | Skill | Status |
 |-------|--------|
-| Machine Learning | 🟢 Proficient |
-| Deep Learning | 🔴 Beginner |
-| NLP | 🔴 Beginner |
-| Computer Vision | 🟢 Proficient |
-| TensorFlow | ⚪ Planned |
-| PyTorch | 🔴 Beginner |
+| Machine Learning | 🔴 Beginner |
+| Deep Learning | 🟢 Proficient |
+| NLP | 🟡 Learning |
+| Computer Vision | ⚪ Planned |
+| TensorFlow | 🟢 Proficient |
+| PyTorch | 🟢 Proficient |
 
 ### Devops
 
 | Skill | Status |
 |-------|--------|
-| Docker | 🔴 Beginner |
-| Kubernetes | 🔴 Beginner |
+| Docker | 🟢 Proficient |
+| Kubernetes | ⚪ Planned |
 | CI/CD | 🟡 Learning |
-| AWS | 🔴 Beginner |
-| Azure | ⚪ Planned |
+| AWS | 🟡 Learning |
+| Azure | 🔴 Beginner |
 
 ### Other
 
 | Skill | Status |
 |-------|--------|
-| Blockchain | 🟡 Learning |
+| Blockchain | 🔴 Beginner |
 | Web3 | 🔴 Beginner |
 | Cloud Computing | 🔴 Beginner |
 
@@ -559,7 +552,7 @@ This dashboard is automatically updated every 6 hours using GitHub Actions. The 
 
 <div align="center">
 
-**Last Updated:** September 09, 2026
+**Last Updated:** September 10, 2026
 
 Made with ❤️ and automated with GitHub Actions
 
