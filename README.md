@@ -46,31 +46,35 @@
 
 ### 📑 Hacker News
 
-- **[Automattic's board forces CEO Matt Mullenweg into leave of absence](https://techcrunch.com/2026/09/09/automattics-board-forces-ceo-matt-mullenweg-into-leave-of-absence/)**
-  *<p>Article URL: <a href="https://techcrunch.com/2026/09/09/automattics-board-forces-ceo-matt-mullenweg-into-leave-of-absence/">https://techcrunch.com/2026/09/09/automattics-board-forces-ceo-matt-mulle...*
-  📅 Wed, 09 Sep 2026 23:49:29 +0000
+- **[What algorithm did Windows XP use to choose your initial user picture?](https://devblogs.microsoft.com/oldnewthing/20260909-00/?p=112683)**
+  *<p>Article URL: <a href="https://devblogs.microsoft.com/oldnewthing/20260909-00/?p=112683">https://devblogs.microsoft.com/oldnewthing/20260909-00/?p=112683</a></p>
+<p>Comments URL: <a href="https://ne...*
+  📅 Thu, 10 Sep 2026 09:04:14 +0000
 
-- **[Blizzard Workers Win Historic Union Contract](https://www.gamespot.com/articles/blizzard-workers-win-historic-union-contract-that-could-set-a-new-standard-for-game-developers)**
-  *<p>Article URL: <a href="https://www.gamespot.com/articles/blizzard-workers-win-historic-union-contract-that-could-set-a-new-standard-for-game-developers">https://www.gamespot.com/articles/blizzard-wo...*
-  📅 Wed, 09 Sep 2026 22:22:53 +0000
+- **[I think I hate the internet](https://strategictree.bearblog.dev/i-think-i-hate-the-internet/)**
+  *<p>Article URL: <a href="https://strategictree.bearblog.dev/i-think-i-hate-the-internet/">https://strategictree.bearblog.dev/i-think-i-hate-the-internet/</a></p>
+<p>Comments URL: <a href="https://news...*
+  📅 Thu, 10 Sep 2026 06:12:23 +0000
 
-- **[Factoring RSA 260](https://cognition.com/blog/factoring-rsa-260)**
-  *<p>Article URL: <a href="https://cognition.com/blog/factoring-rsa-260">https://cognition.com/blog/factoring-rsa-260</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49633534">htt...*
-  📅 Wed, 09 Sep 2026 20:16:08 +0000
+- **[DeepSeek v4.1 Flash](https://twitter.com/deepseek_ai/status/2097930608790167907)**
+  *<p><a href="https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash" rel="nofollow">https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash</a></p>
+<hr />
+<p>Comments URL: <a href="https://news.ycombina...*
+  📅 Thu, 10 Sep 2026 06:11:05 +0000
 
-- **[iPhone Duo](https://www.apple.com/iphone-duo/)**
-  *<p>Article URL: <a href="https://www.apple.com/iphone-duo/">https://www.apple.com/iphone-duo/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49630931">https://news.ycombinator....*
-  📅 Wed, 09 Sep 2026 18:15:43 +0000
+- **[All grown-ups were once children, but only few of them remember it](https://mathstodon.xyz/@tao/117244102901892965)**
+  *<p>Article URL: <a href="https://mathstodon.xyz/@tao/117244102901892965">https://mathstodon.xyz/@tao/117244102901892965</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49638280"...*
+  📅 Thu, 10 Sep 2026 04:04:38 +0000
 
-- **[Apple Watch Series 12](https://www.apple.com/newsroom/2026/09/introducing-apple-watch-series-12-with-the-all-new-health-sensing-system/)**
-  *<p>Article URL: <a href="https://www.apple.com/newsroom/2026/09/introducing-apple-watch-series-12-with-the-all-new-health-sensing-system/">https://www.apple.com/newsroom/2026/09/introducing-apple-watc...*
-  📅 Wed, 09 Sep 2026 17:56:17 +0000
+- **[Training a 3.8B LLM to 0.384 CORE for $998](https://hugovergnes.github.io/little-lm-3-8b/)**
+  *<p>Article URL: <a href="https://hugovergnes.github.io/little-lm-3-8b/">https://hugovergnes.github.io/little-lm-3-8b/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49637435">h...*
+  📅 Thu, 10 Sep 2026 02:04:11 +0000
 
-- **[AirPods 5](https://www.apple.com/newsroom/2026/09/apple-introduces-airpods-5-with-best-in-class-open-ear-active-noise-cancellation/)**
-  *<p>Article URL: <a href="https://www.apple.com/newsroom/2026/09/apple-introduces-airpods-5-with-best-in-class-open-ear-active-noise-cancellation/">https://www.apple.com/newsroom/2026/09/apple-introduc...*
-  📅 Wed, 09 Sep 2026 17:39:24 +0000
+- **[Show HN: What if the speed of light was 5 km/h?](https://rivendell.dmitrybrant.com/relativity/)**
+  *<p>I've always wanted to make a visualization where the speed of light was scaled down to human speeds, so that we could intuit relativistic effects with everyday objects. Here is the first version of...*
+  📅 Thu, 10 Sep 2026 01:58:00 +0000
 
 ### 📑 TechCrunch
 
@@ -100,13 +104,15 @@
 
 ### 📑 Dev.to
 
-- **[Someone Spammed My DEV Post. I Traced It to a Wombat.](https://dev.to/copyleftdev/someone-spammed-my-dev-post-i-traced-it-to-a-wombat-176a)**
-  *<p><a class="article-body-image-wrapper" href="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws...*
-  📅 Thu, 10 Sep 2026 01:56:33 +0000
+- **[Uptime Kuma: Why HTTP 200 Can Hide a Broken App](https://dev.to/anthonygarces/uptime-kuma-why-http-200-can-hide-a-broken-app-2hkj)**
+  *<p><strong>Uptime Kuma can show UP while your endpoint reports a failed dependency.</strong> If the endpoint still answers HTTP 200, add a check for the specific response field that matters. A broad k...*
+  📅 Thu, 10 Sep 2026 10:14:02 +0000
 
-- **[My Journey Into Learning About ML and Implementing a MLP From Scratch](https://dev.to/jrichards137/my-journey-into-learning-about-ml-and-implementing-a-mlp-from-scratch-3h37)**
-  *<p><em>Note: This is my first ever blog post, so my apologies in advance if it's not up to par. Also, since this is my first post, I decided to not use any AI for polishing, etc., so that the reader c...*
-  📅 Thu, 10 Sep 2026 01:49:27 +0000
+- **[DelegatingHandler Magic: Build a Pipeline for Your HTTP Calls](https://dev.to/homolibere/delegatinghandler-magic-build-a-pipeline-for-your-http-calls-29nm)**
+  *<p>What's up, .NET devs! 👋</p>
+
+<p>Today I want to show you one of the most underrated features in HttpClient — the <strong>DelegatingHandler pipeline</strong>. It's like middleware for your HTTP call...*
+  📅 Thu, 10 Sep 2026 10:14:00 +0000
 
 </details>
 
@@ -114,103 +120,103 @@
 
 ### 📈 Daily Trending
 
+- **[yureii1996/cek-probe-model](https://github.com/yureii1996/cek-probe-model)** ⭐ 354
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  Untuk cek model apakah maskingan atau bukan
+
 - **[yudaprasetya007/routeVSCODE](https://github.com/yudaprasetya007/routeVSCODE)** ⭐ 326
   ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
   ⚡ Zero-reload dynamic AI model switcher & local proxy for VSCode Copilot Chat via 9Router
 
-- **[Alpha-Park/genpark-cooley-tukey-fft-radix2-skill](https://github.com/Alpha-Park/genpark-cooley-tukey-fft-radix2-skill)** ⭐ 7
+- **[kevinzakka/mjbatch](https://github.com/kevinzakka/mjbatch)** ⭐ 119
   ![Python](https://img.shields.io/badge/-Python-blue)
-  Cooley-Tukey Radix-2 Fast Fourier Transform (FFT) frequency analyzer converting discrete time-domain signals into spectral complex frequency bins.
+  None
 
-- **[Alpha-Park/genpark-dynamic-range-compressor-limiter-skill](https://github.com/Alpha-Park/genpark-dynamic-range-compressor-limiter-skill)** ⭐ 7
+- **[tue09/awesome-reasoning-generalization](https://github.com/tue09/awesome-reasoning-generalization)** ⭐ 115
   ![Python](https://img.shields.io/badge/-Python-blue)
-  Audio dynamic range compressor and peak limiter with logarithmic decibel thresholding, ratio attenuation, and linear makeup gain.
+  None
 
-- **[alphaparkinc/genpark-tree-of-thoughts-mcts-evaluator-skill](https://github.com/alphaparkinc/genpark-tree-of-thoughts-mcts-evaluator-skill)** ⭐ 7
+- **[yi1108/printfilm](https://github.com/yi1108/printfilm)** ⭐ 113
   ![Python](https://img.shields.io/badge/-Python-blue)
-  Tree of Thoughts (ToT) Monte Carlo Tree Search (MCTS) reasoning engine with UCB1 exploration-exploitation balance and state backpropagation.
+  PRINTFILM：AI 科普视频与漫剧创作平台
 
-- **[alphaparkinc/genpark-threshold-bls-signature-aggregation-skill](https://github.com/alphaparkinc/genpark-threshold-bls-signature-aggregation-skill)** ⭐ 7
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  Threshold BLS signature aggregation engine combining threshold shares via Lagrange polynomial coefficient interpolation.
+- **[viettranx/3dviz-pro-max](https://github.com/viettranx/3dviz-pro-max)** ⭐ 101
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
+  Agent skill for creative 3D visualization: turn an idea into a Three.js/Blender scene worth exploring. Claude Code + Codex plugin, 223 recipes, 440 knowledge records, 22 proved kits, 37 runnable studies.
 
-- **[Alpha-Park/genpark-threshold-bls-signature-aggregation-skill](https://github.com/Alpha-Park/genpark-threshold-bls-signature-aggregation-skill)** ⭐ 7
+- **[FjgarciaMac/WhisperDeck](https://github.com/FjgarciaMac/WhisperDeck)** ⭐ 17
   ![Python](https://img.shields.io/badge/-Python-blue)
-  Threshold BLS signature aggregation engine combining threshold shares via Lagrange polynomial coefficient interpolation.
+  On-device audio transcription toolkit - trim, tag, transcribe and export recordings locally, with a Python engine and an Android demo app.
 
-- **[alphaparkinc/genpark-l3-limit-order-book-matcher-skill](https://github.com/alphaparkinc/genpark-l3-limit-order-book-matcher-skill)** ⭐ 7
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  Ultra-low-latency Price-Time Priority Level-3 (L3) Limit Order Book (LOB) matching engine with continuous price queues and fills.
-
-- **[Alpha-Park/genpark-biquad-iir-filter-cascade-skill](https://github.com/Alpha-Park/genpark-biquad-iir-filter-cascade-skill)** ⭐ 7
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  Direct Form II Transposed biquad IIR filter cascade executing real-time low-pass audio frequency filtering and resonance shaping.
+- **[hirotomasato/paygateme](https://github.com/hirotomasato/paygateme)** ⭐ 17
+  ![Go](https://img.shields.io/badge/-Go-cyan)
+  Unofficial SDK Go library for Shopee & GoPay merchant payments 
 
 ### 📈 Weekly Trending
 
-- **[ashemag/human-atlas](https://github.com/ashemag/human-atlas)** ⭐ 2,853
+- **[ashemag/human-atlas](https://github.com/ashemag/human-atlas)** ⭐ 2,978
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   Open-source 3D anatomy explorer: 2,234 selectable BodyParts3D meshes, system layers, search, and exploded views.
 
-- **[Rion-Wu-tech/wechat-intelligence-hub](https://github.com/Rion-Wu-tech/wechat-intelligence-hub)** ⭐ 2,024
+- **[Rion-Wu-tech/wechat-intelligence-hub](https://github.com/Rion-Wu-tech/wechat-intelligence-hub)** ⭐ 2,048
   ![Python](https://img.shields.io/badge/-Python-blue)
   Local-first WeChat intelligence system with a read-only CLI, Codex skills, searchable chat history, daily briefings, follow-ups and opportunity tracking.
 
-- **[openai/NavierStokesAndEuler](https://github.com/openai/NavierStokesAndEuler)** ⭐ 1,567
+- **[openai/NavierStokesAndEuler](https://github.com/openai/NavierStokesAndEuler)** ⭐ 1,630
   ![Lean](https://img.shields.io/badge/-Lean-lightgrey)
   Lean certificates accompanying Navier-Stokes and Euler results
 
-- **[vinzdg/codenotch](https://github.com/vinzdg/codenotch)** ⭐ 1,288
+- **[vinzdg/codenotch](https://github.com/vinzdg/codenotch)** ⭐ 1,328
   ![Swift](https://img.shields.io/badge/-Swift-lightgrey)
   A macOS app that pins usage limits from Claude Code, Cursor, Codex, and Antigravity to a screen edge.
 
-- **[EverettFish/holo-card-studio](https://github.com/EverettFish/holo-card-studio)** ⭐ 1,242
+- **[EverettFish/holo-card-studio](https://github.com/EverettFish/holo-card-studio)** ⭐ 1,288
   ![Python](https://img.shields.io/badge/-Python-blue)
   Turn the user's description or uploaded reference into a finished, editable Blender card and an interactive Three.js page. Preserve the requested subject, style, typography and destination. This skill contains code and text only; generated artwork belongs in the user's output project.
 
-- **[anthropics/fermats-last-theorem](https://github.com/anthropics/fermats-last-theorem)** ⭐ 1,001
+- **[anthropics/fermats-last-theorem](https://github.com/anthropics/fermats-last-theorem)** ⭐ 1,005
   ![Lean](https://img.shields.io/badge/-Lean-lightgrey)
   None
 
-- **[donvito/codex-astra-luna-orchestrator](https://github.com/donvito/codex-astra-luna-orchestrator)** ⭐ 756
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  Use Astra as orchestrator and Luna for subagents in Codex
-
-- **[sdli1995/dlssg_for_sm86](https://github.com/sdli1995/dlssg_for_sm86)** ⭐ 737
+- **[sdli1995/dlssg_for_sm86](https://github.com/sdli1995/dlssg_for_sm86)** ⭐ 1,001
   ![None](https://img.shields.io/badge/-None-lightgrey)
   Here is a dlssg for RTX30 Series GPU 
 
+- **[donvito/codex-astra-luna-orchestrator](https://github.com/donvito/codex-astra-luna-orchestrator)** ⭐ 858
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  Use Astra as orchestrator and Luna for subagents in Codex
+
 ### 📈 Monthly Trending
 
-- **[deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness)** ⭐ 217,541
+- **[deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness)** ⭐ 218,422
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   DeepSeek Harness: Everything is a Plugin.
 
-- **[anywhere-labs/dsh-desktop](https://github.com/anywhere-labs/dsh-desktop)** ⭐ 24,836
+- **[anywhere-labs/dsh-desktop](https://github.com/anywhere-labs/dsh-desktop)** ⭐ 25,068
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   为 DeepSeek Harness (DSH) 插件生态打造的现代化桌面端解决方案。万物皆「插件」，桌面本身也是「插件」。
 
-- **[awesome-dsh-plugin/awesome-dsh-plugin](https://github.com/awesome-dsh-plugin/awesome-dsh-plugin)** ⭐ 15,059
+- **[awesome-dsh-plugin/awesome-dsh-plugin](https://github.com/awesome-dsh-plugin/awesome-dsh-plugin)** ⭐ 15,133
   ![Python](https://img.shields.io/badge/-Python-blue)
   A curated list of plugins for DeepSeek Harness (dsh) · DeepSeek Harness 插件精选列表
 
-- **[zhu1090093659/dsh-web](https://github.com/zhu1090093659/dsh-web)** ⭐ 7,249
+- **[zhu1090093659/dsh-web](https://github.com/zhu1090093659/dsh-web)** ⭐ 7,290
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   DeepSeek Harness (DSH) Web Plugin Aggregation Ecosystem · Everything is a plugin, distributed via the Creative Workshop
 
-- **[yjh051108/dsh-routing-suite](https://github.com/yjh051108/dsh-routing-suite)** ⭐ 7,142
+- **[yjh051108/dsh-routing-suite](https://github.com/yjh051108/dsh-routing-suite)** ⭐ 7,147
   ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
   dsh-routing-suite — injector + router-standard kit: install the runtime injector first, then the task-aware reasoning-mode router preset (measured P1-P23).
 
-- **[sapientinc/PRAXIST](https://github.com/sapientinc/PRAXIST)** ⭐ 6,250
+- **[sapientinc/PRAXIST](https://github.com/sapientinc/PRAXIST)** ⭐ 6,324
   ![Python](https://img.shields.io/badge/-Python-blue)
   Autonomous research system for measurable, computer-executable research.
 
-- **[lnkiai/m3e-canvas](https://github.com/lnkiai/m3e-canvas)** ⭐ 5,564
+- **[lnkiai/m3e-canvas](https://github.com/lnkiai/m3e-canvas)** ⭐ 5,674
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   Sketch Material 3 Expressive screens in the browser and turn them into vibe-coding prompts.
 
-- **[MengTo/threeui](https://github.com/MengTo/threeui)** ⭐ 5,460
+- **[MengTo/threeui](https://github.com/MengTo/threeui)** ⭐ 5,492
   ![HTML](https://img.shields.io/badge/-HTML-lightgrey)
   Open-source ThreeUI Community catalog with live interactive components and complete Community source.
 
@@ -482,59 +488,59 @@ See [kubernetes-announce@](https://groups.google.com/forum/#!forum/kubernetes-an
 
 | Skill | Status |
 |-------|--------|
-| Java | 🟢 Proficient |
-| Python | ⚪ Planned |
-| JavaScript | 🔴 Beginner |
-| TypeScript | ⚪ Planned |
+| Java | ⚪ Planned |
+| Python | 🟢 Proficient |
+| JavaScript | 🟡 Learning |
+| TypeScript | 🔴 Beginner |
 | Go | ⚪ Planned |
 
 ### Frameworks
 
 | Skill | Status |
 |-------|--------|
-| React | 🔴 Beginner |
-| Spring Boot | 🔴 Beginner |
-| Django | 🔴 Beginner |
-| Node.js | 🟢 Proficient |
-| Next.js | 🟡 Learning |
+| React | 🟡 Learning |
+| Spring Boot | ⚪ Planned |
+| Django | 🟢 Proficient |
+| Node.js | 🔴 Beginner |
+| Next.js | 🔴 Beginner |
 
 ### Cybersecurity
 
 | Skill | Status |
 |-------|--------|
-| Penetration Testing | 🟡 Learning |
-| Web Security | 🟡 Learning |
-| Network Security | 🟡 Learning |
+| Penetration Testing | ⚪ Planned |
+| Web Security | ⚪ Planned |
+| Network Security | 🟢 Proficient |
 | OWASP | 🔴 Beginner |
 
 ### Ai Ml
 
 | Skill | Status |
 |-------|--------|
-| Machine Learning | 🔴 Beginner |
-| Deep Learning | 🟢 Proficient |
-| NLP | 🟡 Learning |
+| Machine Learning | ⚪ Planned |
+| Deep Learning | 🔴 Beginner |
+| NLP | ⚪ Planned |
 | Computer Vision | ⚪ Planned |
-| TensorFlow | 🟢 Proficient |
-| PyTorch | 🟢 Proficient |
+| TensorFlow | 🟡 Learning |
+| PyTorch | 🟡 Learning |
 
 ### Devops
 
 | Skill | Status |
 |-------|--------|
-| Docker | 🟢 Proficient |
-| Kubernetes | ⚪ Planned |
-| CI/CD | 🟡 Learning |
-| AWS | 🟡 Learning |
-| Azure | 🔴 Beginner |
+| Docker | 🟡 Learning |
+| Kubernetes | 🔴 Beginner |
+| CI/CD | 🟢 Proficient |
+| AWS | 🟢 Proficient |
+| Azure | 🟡 Learning |
 
 ### Other
 
 | Skill | Status |
 |-------|--------|
-| Blockchain | 🔴 Beginner |
-| Web3 | 🔴 Beginner |
-| Cloud Computing | 🔴 Beginner |
+| Blockchain | 🟡 Learning |
+| Web3 | ⚪ Planned |
+| Cloud Computing | 🟢 Proficient |
 
 </details>
 
