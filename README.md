@@ -20,7 +20,7 @@
 | Metric | Count |
 |--------|-------|
 | 📰 Latest News Articles | 26 |
-| 🔥 Trending Repositories | 45 |
+| 🔥 Trending Repositories | 0 |
 | 🎯 Latest Releases | 10 |
 | 🎯 Learning Goals | 4 |
 
@@ -46,35 +46,34 @@
 
 ### 📑 Hacker News
 
-- **[Show HN: Benzi – A Code Intillegence/Harness Beating Claude Code and CodeGraph](https://benzi.fly.dev/benchmark)**
-  *<p>Article URL: <a href="https://benzi.fly.dev/benchmark">https://benzi.fly.dev/benchmark</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49652389">https://news.ycombinator.com/...*
-  📅 Fri, 11 Sep 2026 01:22:44 +0000
+- **[Cherenkov Radiation - traveling faster than light](http://www.iaea.org/newscenter/news/what-is-cherenkov-radiation)**
+  *<p>Article URL: <a href="http://www.iaea.org/newscenter/news/what-is-cherenkov-radiation">http://www.iaea.org/newscenter/news/what-is-cherenkov-radiation</a></p>
+<p>Comments URL: <a href="https://news...*
+  📅 Fri, 11 Sep 2026 08:42:04 +0000
 
-- **[Setting up OpenCode with Ollama and sbx on Mac](https://tensorsandtokens.com/posts/opencode-ollama/)**
-  *<p>Article URL: <a href="https://tensorsandtokens.com/posts/opencode-ollama/">https://tensorsandtokens.com/posts/opencode-ollama/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id...*
-  📅 Fri, 11 Sep 2026 00:45:26 +0000
+- **[Neijuan](https://en.wikipedia.org/wiki/Neijuan)**
+  *<p>Article URL: <a href="https://en.wikipedia.org/wiki/Neijuan">https://en.wikipedia.org/wiki/Neijuan</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49655176">https://news.ycom...*
+  📅 Fri, 11 Sep 2026 08:26:56 +0000
 
-- **[Google will buy half the electricity of a nuclear power plant](https://www.bbc.com/news/articles/c8r6y4me2g6o)**
-  *<p>Article URL: <a href="https://www.bbc.com/news/articles/c8r6y4me2g6o">https://www.bbc.com/news/articles/c8r6y4me2g6o</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49652105"...*
-  📅 Fri, 11 Sep 2026 00:42:41 +0000
+- **[Astra for Coding: Why Are We Doing This Again?](https://lucumr.pocoo.org/2026/9/7/astra-why/)**
+  *<p>Article URL: <a href="https://lucumr.pocoo.org/2026/9/7/astra-why/">https://lucumr.pocoo.org/2026/9/7/astra-why/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49654229">htt...*
+  📅 Fri, 11 Sep 2026 06:23:06 +0000
 
-- **[YuE2 · Frontier Music with Symbolic Planning](https://map-yue2.github.io/)**
-  *<p>Article URL: <a href="https://map-yue2.github.io/">https://map-yue2.github.io/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49652028">https://news.ycombinator.com/item?id=...*
-  📅 Fri, 11 Sep 2026 00:33:26 +0000
+- **[GPT‑Live‑1 in the API](https://openai.com/index/introducing-gpt-live-1-in-the-api/)**
+  *<p>Article URL: <a href="https://openai.com/index/introducing-gpt-live-1-in-the-api/">https://openai.com/index/introducing-gpt-live-1-in-the-api/</a></p>
+<p>Comments URL: <a href="https://news.ycombin...*
+  📅 Fri, 11 Sep 2026 05:45:19 +0000
 
-- **[Thelio Mira AI Linux Workstation: 192 GB GPU Memory](https://system76.com/workstations/thelio-mira-ai)**
-  *<p>Article URL: <a href="https://system76.com/workstations/thelio-mira-ai">https://system76.com/workstations/thelio-mira-ai</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49651...*
-  📅 Thu, 10 Sep 2026 23:10:06 +0000
+- **[The Gemini app is now available for Windows](https://blog.google/innovation-and-ai/products/gemini-app/gemini-app-now-on-windows/)**
+  *<p>Article URL: <a href="https://blog.google/innovation-and-ai/products/gemini-app/gemini-app-now-on-windows/">https://blog.google/innovation-and-ai/products/gemini-app/gemini-app-now-on-windows/</a><...*
+  📅 Fri, 11 Sep 2026 04:52:20 +0000
 
-- **[NTSB issues investigative update on B-767 runway excursion accident in Miami](https://www.ntsb.gov:443/news/press-releases/Pages/NR20260909.aspx)**
-  *<p>Article URL: <a href="https://www.ntsb.gov:443/news/press-releases/Pages/NR20260909.aspx">https://www.ntsb.gov:443/news/press-releases/Pages/NR20260909.aspx</a></p>
-<p>Comments URL: <a href="https:...*
-  📅 Thu, 10 Sep 2026 21:30:55 +0000
+- **[Exercise intensity is associated with cardiometabolic health](https://www.cell.com/cell-reports-medicine/fulltext/S2666-3791(26)00405-2)**
+  *<p>Article URL: <a href="https://www.cell.com/cell-reports-medicine/fulltext/S2666-3791(26)00405-2">https://www.cell.com/cell-reports-medicine/fulltext/S2666-3791(26)00405-2</a></p>
+<p>Comments URL: <...*
+  📅 Fri, 11 Sep 2026 03:48:10 +0000
 
 ### 📑 TechCrunch
 
@@ -87,7 +86,7 @@
   📅 Thu, 10 Sep 2026 21:51:59 +0000
 
 - **[Mark Wahlberg is coming to TechCrunch Disrupt 2026, and he wants to talk about your work, not his](https://techcrunch.com/2026/09/10/mark-wahlberg-is-coming-to-techcrunch-disrupt-2026/)**
-  *Mark Wahlberg joins Bruce K. Lee at Disrupt to discuss investing, entrepreneurship, healthcare, wellness and building businesses....*
+  *Mark Wahlberg joins Bruce K. Lee at Disrupt to discuss investing, entrepreneurship, healthcare, wellness, and building businesses....*
   📅 Thu, 10 Sep 2026 21:35:00 +0000
 
 - **[OpenAI puts Pro subscriptions on hold due to Astra demand](https://techcrunch.com/2026/09/10/openai-puts-pro-subscriptions-on-hold-due-to-astra-demand/)**
@@ -104,143 +103,23 @@
 
 ### 📑 Dev.to
 
-- **[Procedural Graphs: Self-Improving LLM Agent Execution Structures](https://dev.to/ryan_zhao/procedural-graphs-self-improving-llm-agent-execution-structures-ba2)**
-  *<h1>
-  
-  
-  Procedural Graphs: Self-Evolving Execution Structures for LLM Agents
-</h1>
+- **[My Journey: From Zero to Frontend Developer](https://dev.to/salmantahir/my-journey-from-zero-to-frontend-developer-2hch)**
+  *<p>Two years ago, I didn't know what HTML was. Today, I'm building responsive websites, creating interactive web apps, and working as a Frontend Developer Intern. This is my story.</p>
 
-<h2>
-  
-  
-  When AI Agents Start Writing Their Own "Brain Circuits"
-</h2>
+<p><strong>The...*
+  📅 Fri, 11 Sep 2026 10:09:30 +0000
 
-<p><em>Published: September 10, 202...*
-  📅 Fri, 11 Sep 2026 02:05:56 +0000
+- **[The PAOVR Loop: The Real Agent Loop That Actually Finishes Jobs](https://dev.to/edo911/the-paovr-loop-the-real-agent-loop-that-actually-finishes-jobs-1j7k)**
+  *<p><strong>Plan → Act → Observe → Verify → Repair</strong></p>
 
-- **[PlaidQ: Single-Step Diffusion Code Generation — The Future of AI Programming](https://dev.to/ryan_zhao/plaidq-single-step-diffusion-code-generation-the-future-of-ai-programming-18al)**
-  *<h1>
-  
-  
-  PlaidQ: Writing Code in One Step — The Diffusion Model Revolution
-</h1>
+<p>Stop building agents that narrate completion. Start building systems that prove it.</p>
 
-<h2>
-  
-  
-  Duke University and Tsinghua University's Breakthrough in Code Generation
-</h2>
-
-<p><em>Published: Se...*
-  📅 Fri, 11 Sep 2026 02:04:44 +0000
+<p>In 2026 the conversation finally moved pa...*
+  📅 Fri, 11 Sep 2026 10:07:43 +0000
 
 </details>
 
 ## 🔥 Trending Repositories
-
-### 📈 Daily Trending
-
-- **[niannian-Gzh/datapilot](https://github.com/niannian-Gzh/datapilot)** ⭐ 3
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  用自然语言查询、分析项目数据的 AI Agent
-
-- **[Whocreated/Stupid-Project-mearm](https://github.com/Whocreated/Stupid-Project-mearm)** ⭐ 2
-  ![C++](https://img.shields.io/badge/-C++-pink)
-  None
-
-- **[HonorVanEr/pomodoro-fluent](https://github.com/HonorVanEr/pomodoro-fluent)** ⭐ 2
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
-  🍅 Win11 Fluent 风格番茄钟桌面应用 (Electron) — 迷你悬浮窗 / 贴边隐藏 / 托盘后台计时
-
-- **[TheStarNull/comment-translator](https://github.com/TheStarNull/comment-translator)** ⭐ 2
-  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
-  一个专门翻译 **JSDoc** 和代码注释的工具，支持 **JavaScript / TypeScript**（含 `.js`, `.ts`, `.jsx`, `.tsx`, `.mjs`, `.cjs`），通过 **Google Translate API** 进行翻译，输出翻译后的文件。
-
-- **[cayorosa093-drop/unidesck](https://github.com/cayorosa093-drop/unidesck)** ⭐ 1
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  None
-
-- **[morasmdt-cpu/...](https://github.com/morasmdt-cpu/...)** ⭐ 1
-  ![None](https://img.shields.io/badge/-None-lightgrey)
-  None
-
-- **[JavRedstone/vid2txt](https://github.com/JavRedstone/vid2txt)** ⭐ 1
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  Transcribe videos locally
-
-- **[frailbongat/paseo-turn-summary](https://github.com/frailbongat/paseo-turn-summary)** ⭐ 1
-  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
-  Paseo plugin: turns a finished pi turn's What to check and Next blocks into timeline rows you can act on.
-
-### 📈 Weekly Trending
-
-- **[ashemag/human-atlas](https://github.com/ashemag/human-atlas)** ⭐ 3,099
-  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
-  Open-source 3D anatomy explorer: 2,234 selectable BodyParts3D meshes, system layers, search, and exploded views.
-
-- **[openai/NavierStokesAndEuler](https://github.com/openai/NavierStokesAndEuler)** ⭐ 1,719
-  ![Lean](https://img.shields.io/badge/-Lean-lightgrey)
-  Lean certificates accompanying Navier-Stokes and Euler results
-
-- **[sdli1995/dlssg_for_sm86](https://github.com/sdli1995/dlssg_for_sm86)** ⭐ 1,443
-  ![None](https://img.shields.io/badge/-None-lightgrey)
-  Here is a dlssg for RTX30 Series GPU 
-
-- **[vinzdg/codenotch](https://github.com/vinzdg/codenotch)** ⭐ 1,388
-  ![Swift](https://img.shields.io/badge/-Swift-lightgrey)
-  A macOS app that pins usage limits from Claude Code, Cursor, Codex, and Antigravity to a screen edge.
-
-- **[EverettFish/holo-card-studio](https://github.com/EverettFish/holo-card-studio)** ⭐ 1,338
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  Turn the user's description or uploaded reference into a finished, editable Blender card and an interactive Three.js page. Preserve the requested subject, style, typography and destination. This skill contains code and text only; generated artwork belongs in the user's output project.
-
-- **[Edge0-AI/Edge0](https://github.com/Edge0-AI/Edge0)** ⭐ 1,031
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  None
-
-- **[yang0/handraw-style](https://github.com/yang0/handraw-style)** ⭐ 1,005
-  ![HTML](https://img.shields.io/badge/-HTML-lightgrey)
-  手绘风格编号画廊与双语提示词 Skill
-
-- **[donvito/codex-astra-luna-orchestrator](https://github.com/donvito/codex-astra-luna-orchestrator)** ⭐ 924
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  Use Astra as orchestrator and Luna for subagents in Codex
-
-### 📈 Monthly Trending
-
-- **[deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness)** ⭐ 219,280
-  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
-  DeepSeek Harness: Everything is a Plugin.
-
-- **[anywhere-labs/dsh-desktop](https://github.com/anywhere-labs/dsh-desktop)** ⭐ 25,311
-  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
-  为 DeepSeek Harness (DSH) 插件生态打造的现代化桌面端解决方案。万物皆「插件」，桌面本身也是「插件」。
-
-- **[awesome-dsh-plugin/awesome-dsh-plugin](https://github.com/awesome-dsh-plugin/awesome-dsh-plugin)** ⭐ 15,214
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  A curated list of plugins for DeepSeek Harness (dsh) · DeepSeek Harness 插件精选列表
-
-- **[yjh051108/dsh-routing-suite](https://github.com/yjh051108/dsh-routing-suite)** ⭐ 7,158
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
-  dsh-routing-suite — injector + router-standard kit: install the runtime injector first, then the task-aware reasoning-mode router preset (measured P1-P23).
-
-- **[sapientinc/PRAXIST](https://github.com/sapientinc/PRAXIST)** ⭐ 6,449
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  Autonomous research system for measurable, computer-executable research.
-
-- **[lnkiai/m3e-canvas](https://github.com/lnkiai/m3e-canvas)** ⭐ 5,906
-  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
-  Sketch Material 3 Expressive screens in the browser and turn them into vibe-coding prompts.
-
-- **[MengTo/threeui](https://github.com/MengTo/threeui)** ⭐ 5,528
-  ![HTML](https://img.shields.io/badge/-HTML-lightgrey)
-  Open-source ThreeUI Community catalog with live interactive components and complete Community source.
-
-- **[s1dashu/ip-as-logo-skill](https://github.com/s1dashu/ip-as-logo-skill)** ⭐ 5,121
-  ![None](https://img.shields.io/badge/-None-lightgrey)
-  A compact Agent Skill for highly simplified, rounded, subtly neo-skeuomorphic IP mascot logos.
 
 ## 🚀 Latest Releases
 
@@ -510,59 +389,59 @@ See [kubernetes-announce@](https://groups.google.com/forum/#!forum/kubernetes-an
 
 | Skill | Status |
 |-------|--------|
-| Java | ⚪ Planned |
-| Python | 🟡 Learning |
-| JavaScript | 🟡 Learning |
-| TypeScript | ⚪ Planned |
-| Go | 🔴 Beginner |
+| Java | 🟡 Learning |
+| Python | ⚪ Planned |
+| JavaScript | 🟢 Proficient |
+| TypeScript | 🔴 Beginner |
+| Go | 🟡 Learning |
 
 ### Frameworks
 
 | Skill | Status |
 |-------|--------|
-| React | ⚪ Planned |
-| Spring Boot | 🟡 Learning |
-| Django | 🔴 Beginner |
-| Node.js | 🟢 Proficient |
-| Next.js | 🟢 Proficient |
+| React | 🔴 Beginner |
+| Spring Boot | 🟢 Proficient |
+| Django | 🟢 Proficient |
+| Node.js | 🟡 Learning |
+| Next.js | ⚪ Planned |
 
 ### Cybersecurity
 
 | Skill | Status |
 |-------|--------|
-| Penetration Testing | 🟢 Proficient |
-| Web Security | ⚪ Planned |
-| Network Security | ⚪ Planned |
-| OWASP | ⚪ Planned |
+| Penetration Testing | 🔴 Beginner |
+| Web Security | 🟢 Proficient |
+| Network Security | 🔴 Beginner |
+| OWASP | 🟡 Learning |
 
 ### Ai Ml
 
 | Skill | Status |
 |-------|--------|
-| Machine Learning | 🟡 Learning |
-| Deep Learning | 🟡 Learning |
-| NLP | 🟡 Learning |
-| Computer Vision | 🟡 Learning |
+| Machine Learning | ⚪ Planned |
+| Deep Learning | ⚪ Planned |
+| NLP | 🟢 Proficient |
+| Computer Vision | 🔴 Beginner |
 | TensorFlow | 🟡 Learning |
-| PyTorch | ⚪ Planned |
+| PyTorch | 🟢 Proficient |
 
 ### Devops
 
 | Skill | Status |
 |-------|--------|
-| Docker | 🔴 Beginner |
-| Kubernetes | 🟢 Proficient |
+| Docker | 🟢 Proficient |
+| Kubernetes | 🟡 Learning |
 | CI/CD | 🟢 Proficient |
-| AWS | ⚪ Planned |
-| Azure | ⚪ Planned |
+| AWS | 🟡 Learning |
+| Azure | 🟢 Proficient |
 
 ### Other
 
 | Skill | Status |
 |-------|--------|
-| Blockchain | ⚪ Planned |
-| Web3 | 🟡 Learning |
-| Cloud Computing | 🟡 Learning |
+| Blockchain | 🔴 Beginner |
+| Web3 | 🔴 Beginner |
+| Cloud Computing | ⚪ Planned |
 
 </details>
 
