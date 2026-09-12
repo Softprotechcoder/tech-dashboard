@@ -21,7 +21,7 @@
 |--------|-------|
 | 📰 Latest News Articles | 26 |
 | 🔥 Trending Repositories | 45 |
-| 🎯 Latest Releases | 10 |
+| 🎯 Latest Releases | 0 |
 | 🎯 Learning Goals | 4 |
 
 ## 🎯 Current Focus
@@ -46,35 +46,46 @@
 
 ### 📑 Hacker News
 
-- **[We Must Pace the Frontier](https://darioamodei.com/post/we-must-pace-the-frontier)**
-  *<p>Article URL: <a href="https://darioamodei.com/post/we-must-pace-the-frontier">https://darioamodei.com/post/we-must-pace-the-frontier</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/i...*
-  📅 Sat, 12 Sep 2026 14:10:49 +0000
+- **[Jimmy Kimmel Interviews James Talarico](https://www.youtube.com/watch?v=WLDE9LrGpNk)**
+  *<p>Article URL: <a href="https://www.youtube.com/watch?v=WLDE9LrGpNk">https://www.youtube.com/watch?v=WLDE9LrGpNk</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49676243">https...*
+  📅 Sat, 12 Sep 2026 19:28:24 +0000
 
-- **[A Mathematical Framework for Transformer Circuits (2021)](https://transformer-circuits.pub/2021/framework/index.html)**
-  *<p>Article URL: <a href="https://transformer-circuits.pub/2021/framework/index.html">https://transformer-circuits.pub/2021/framework/index.html</a></p>
-<p>Comments URL: <a href="https://news.ycombinat...*
-  📅 Sat, 12 Sep 2026 13:56:58 +0000
+- **[An open letter to Dario: if you mean it, open the weights](https://jacob.gold/posts/open-letter-to-dario-amodei-about-open-weights/)**
+  *<p>Article URL: <a href="https://jacob.gold/posts/open-letter-to-dario-amodei-about-open-weights/">https://jacob.gold/posts/open-letter-to-dario-amodei-about-open-weights/</a></p>
+<p>Comments URL: <a ...*
+  📅 Sat, 12 Sep 2026 19:15:32 +0000
 
-- **[My last six months at Evernote](https://alexkras.com/my-last-six-months-at-evernote-after-bending-spoons-took-over/)**
-  *<p>Article URL: <a href="https://alexkras.com/my-last-six-months-at-evernote-after-bending-spoons-took-over/">https://alexkras.com/my-last-six-months-at-evernote-after-bending-spoons-took-over/</a></p...*
-  📅 Sat, 12 Sep 2026 13:54:19 +0000
+- **[Will There Be a 7G?](https://arxiv.org/abs/2609.01877)**
+  *<p>Article URL: <a href="https://arxiv.org/abs/2609.01877">https://arxiv.org/abs/2609.01877</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49674498">https://news.ycombinator.co...*
+  📅 Sat, 12 Sep 2026 17:05:31 +0000
 
-- **[Fuck it, make it anyway](https://www.joelotter.com/posts/2026/09/make-it-anyway/)**
-  *<p>Article URL: <a href="https://www.joelotter.com/posts/2026/09/make-it-anyway/">https://www.joelotter.com/posts/2026/09/make-it-anyway/</a></p>
+- **[Make your first edit to OpenStreetMap](https://high5apps.github.io/josm-plugin-website-wizard/)**
+  *<p>Article URL: <a href="https://high5apps.github.io/josm-plugin-website-wizard/">https://high5apps.github.io/josm-plugin-website-wizard/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com...*
-  📅 Sat, 12 Sep 2026 11:42:32 +0000
+  📅 Sat, 12 Sep 2026 16:25:08 +0000
 
-- **[Crypto farm in Mexican mountains puts spotlight on cartel funding](https://www.reuters.com/world/americas/hidden-crypto-farm-mexican-mountains-puts-spotlight-cartel-funding-2026-09-12/)**
-  *<p>Article URL: <a href="https://www.reuters.com/world/americas/hidden-crypto-farm-mexican-mountains-puts-spotlight-cartel-funding-2026-09-12/">https://www.reuters.com/world/americas/hidden-crypto-far...*
-  📅 Sat, 12 Sep 2026 11:37:22 +0000
+- **[Microcode in Intel's 8087 floating-point chip: the scale instruction](https://www.righto.com/2026/09/8087-microcode-reverse-engineering-fscale.html)**
+  *<p>Article URL: <a href="https://www.righto.com/2026/09/8087-microcode-reverse-engineering-fscale.html">https://www.righto.com/2026/09/8087-microcode-reverse-engineering-fscale.html</a></p>
+<p>Comment...*
+  📅 Sat, 12 Sep 2026 15:49:52 +0000
 
-- **[The Worst Spam Emails: Inside iLands' AI Agent Hustle](https://tedium.co/2026/09/11/ilands-agents-email-spam-kaixin-tang/)**
-  *<p>Article URL: <a href="https://tedium.co/2026/09/11/ilands-agents-email-spam-kaixin-tang/">https://tedium.co/2026/09/11/ilands-agents-email-spam-kaixin-tang/</a></p>
-<p>Comments URL: <a href="https:...*
-  📅 Sat, 12 Sep 2026 11:13:38 +0000
+- **[Nvidia is the central bank of AI](https://www.economist.com/interactive/briefing/2026/09/03/nvidia-is-the-central-bank-of-ai)**
+  *<p><a href="https://archive.ph/kt50V" rel="nofollow">https://archive.ph/kt50V</a></p>
+<hr />
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49673098">https://news.ycombinator.com/item?...*
+  📅 Sat, 12 Sep 2026 15:08:27 +0000
 
 ### 📑 TechCrunch
+
+- **[Anthropic CEO outlines plan to slow AI development](https://techcrunch.com/2026/09/12/anthropic-ceo-outlines-plan-to-pace-the-frontier/)**
+  *Anthropic's Dario Amodei and OpenAI's Sam Altman seem to agree that it's time to "pace the frontier." What would that actually look like?...*
+  📅 Sat, 12 Sep 2026 19:34:44 +0000
+
+- **[Tesla says it will finally unveil the second generation Roadster on October 1](https://techcrunch.com/2026/09/12/tesla-says-it-will-finally-unveil-the-second-generation-roadster-on-october-1/)**
+  *Tesla’s halo sports car was first announced in November 2017....*
+  📅 Sat, 12 Sep 2026 19:21:19 +0000
 
 - **[Revolut confirms customer data breach through fake government requests](https://techcrunch.com/2026/09/12/revolut-confirms-customer-data-breach-through-fake-government-requests/)**
   *Revolut said it notified affected customers and alerted the relevant government agency, law enforcement, and financial regulators....*
@@ -92,26 +103,21 @@
   *Tan wants smaller, American open-weight AI labs to use the same kind of training techniques on American frontier AI labs, giving the U.S. a more robust set of open-weight options that aren’t Chinese....*
   📅 Fri, 11 Sep 2026 20:59:47 +0000
 
-- **[OpenAI’s feud with mathematicians is only escalating](https://techcrunch.com/2026/09/11/openais-feud-with-mathematicians-is-only-escalating/)**
-  *Twenty-five leading mathematicians signed an open letter arguing that AI labs are threatening their intellectual work....*
-  📅 Fri, 11 Sep 2026 20:57:36 +0000
-
-- **[One week left to book your exhibit table at TechCrunch Disrupt 2026](https://techcrunch.com/2026/09/11/one-week-left-to-book-your-exhibit-table-at-techcrunch-disrupt-2026/)**
-  *Only one week left to secure your exhibit table. Tables are limited and can sell out before the September 18 deadline....*
-  📅 Fri, 11 Sep 2026 20:33:18 +0000
-
 ### 📑 Dev.to
 
-- **[The Costs Cross-Platform Development Solves — and the Costs It Doesn't](https://dev.to/nkzn/the-costs-cross-platform-development-solves-and-the-costs-it-doesnt-p30)**
-  *<p>In September 2026, Shopify Engineering published an article titled “Native is now the future of mobile at Shopify.”</p>
+- **[Why we moved our Backstage platform from Yarn to pnpm](https://dev.to/bogdan_nechyporenko/why-we-moved-our-backstage-platform-from-yarn-to-pnpm-21ap)**
+  *<p><em>What Git worktrees, parallel coding agents, and a cache pointing at the wrong directory taught us about the assumptions hiding inside <code>node_modules</code>.</em></p>
 
-<p><a href="https://shopify.engineering/back-to-native" rel="noopener norefe...*
-  📅 Sat, 12 Sep 2026 14:32:54 +0000
+<p><a class="article-b...*
+  📅 Sat, 12 Sep 2026 19:44:23 +0000
 
-- **[From User Query to Execution: Building a Multi-Agent System with LangGraph](https://dev.to/shah_almoveed_22752c60f0/from-user-query-to-execution-building-a-multi-agent-system-with-langgraph-5g2h)**
-  *<p>Hi everyone:<br />
-Recently i was working on multiagent system with langrapgh and after completing, i though why not publish it as blog post to guide junior developer familarize with multiagent lan...*
-  📅 Sat, 12 Sep 2026 14:32:00 +0000
+- **[Why Static Mock APIs Aren't Enough for Modern Frontend Development](https://dev.to/nileslabs/why-static-mock-apis-arent-enough-for-modern-frontend-development-5861)**
+  *<p>Every frontend developer has experienced this sequence:</p>
+
+<ol>
+<li>You start building an interactive web application.</li>
+<li>The backend is not yet ready, so you connect to a popular free mock...*
+  📅 Sat, 12 Sep 2026 19:41:12 +0000
 
 </details>
 
@@ -119,57 +125,57 @@ Recently i was working on multiagent system with langrapgh and after completing,
 
 ### 📈 Daily Trending
 
+- **[Chuloo/mural](https://github.com/Chuloo/mural)** ⭐ 83
+  ![Swift](https://img.shields.io/badge/-Swift-lightgrey)
+  The language app you eventually delete. A native iPhone companion for learning through conversation.
+
 - **[tropicalpackerroad/Fortnite-ESP-Soft-Aim-2026-SlowLow-Team-Visual-Assist-Tool](https://github.com/tropicalpackerroad/Fortnite-ESP-Soft-Aim-2026-SlowLow-Team-Visual-Assist-Tool)** ⭐ 76
   ![HTML](https://img.shields.io/badge/-HTML-lightgrey)
   Fortnite ESP & SoftAim tool 2026 for Windows 10/11 PC. Features: player ESP, box ESP, loot ESP, soft aim assist, aim smoothing, target tracking, custom HUD, visual overlay, hotkey system, auto-updater. SlowLow Team. 1.7k+ downloads monthly. Fully optimized for 1080p, 1440p and 4K displays.
+
+- **[Xu123-Bob/Baize](https://github.com/Xu123-Bob/Baize)** ⭐ 67
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
+  白泽 —— 中国古代神话中通晓万物的瑞兽，如今化身为 Vibe Coding 助手。  一个开源的 AI Coding Agent CLI，支持多后端（DeepSeek / OpenAI 兼容 / Ollama 本地），具备工具调用、技能加载、子代理委派、上下文压缩、安全沙箱等完整能力。在终端即可与 AI 结对编程。
+
+- **[Hunterplastable/solara-executor-free](https://github.com/Hunterplastable/solara-executor-free)** ⭐ 63
+  ![None](https://img.shields.io/badge/-None-lightgrey)
+  Solara Executor for Roblox — keyless, fast execution, script hub, UNC support | free | no key | 2026
+
+- **[timesocialcover/universal-aimbot-esp](https://github.com/timesocialcover/universal-aimbot-esp)** ⭐ 61
+  ![None](https://img.shields.io/badge/-None-lightgrey)
+  Universal Aimbot & ESP for Roblox — silent aim, ESP box, customizable FOV, wall check | free | no key | 2026
 
 - **[chemo823/wardogs-tactical-overlay](https://github.com/chemo823/wardogs-tactical-overlay)** ⭐ 57
   ![None](https://img.shields.io/badge/-None-lightgrey)
   Feature trainer/cheat for WARDOGS — 41 modules across 5 categories. God mode, infinite ammo, cash tools, vehicle control, building utilities. Hotkeys F1–F12. Built with Dear ImGui · DirectX 11 · C++23. Windows 10/11 x64.
 
-- **[sam-plab03c2/nucleus-patch-utility-2026](https://github.com/sam-plab03c2/nucleus-patch-utility-2026)** ⭐ 41
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  A Python-based utility for managing and testing Roblox client patches. Developed for QA engineers and developers to streamline patch validation workflows. It includes a feature for automated script execution and error logging.
+- **[Qiuner/birdview](https://github.com/Qiuner/birdview)** ⭐ 52
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
+  Stop letting AI code blind. Map the architecture before every change with Birdview.
 
-- **[john-kim-io04t5/Roblox-Executor-2026-No-Key](https://github.com/john-kim-io04t5/Roblox-Executor-2026-No-Key)** ⭐ 36
-  ![None](https://img.shields.io/badge/-None-lightgrey)
-  None
-
-- **[ashleyotooligan/ant-1](https://github.com/ashleyotooligan/ant-1)** ⭐ 25
+- **[ashleyotooligan/ant-1](https://github.com/ashleyotooligan/ant-1)** ⭐ 45
   ![HTML](https://img.shields.io/badge/-HTML-lightgrey)
   An embodied neural experiment connecting a simulated ant to a synthetic neural controller
 
-- **[CustodianWrench68/minecraft-pvp-assistant-overlay](https://github.com/CustodianWrench68/minecraft-pvp-assistant-overlay)** ⭐ 24
-  ![None](https://img.shields.io/badge/-None-lightgrey)
-  A lightweight overlay and utility assistant designed to optimize Minecraft PvP mechanics, movement responsiveness, and visual tracking.
-
-- **[SharkStronghold/sons-forest-survival-enhancer-tool](https://github.com/SharkStronghold/sons-forest-survival-enhancer-tool)** ⭐ 24
-  ![None](https://img.shields.io/badge/-None-lightgrey)
-  An advanced external utility and trainer for Sons of the Forest. Features real-time stat overlays, inventory helper, and survival assistance.
-
-- **[minotaurmiteblast/oblivion-remastered-utility-framework](https://github.com/minotaurmiteblast/oblivion-remastered-utility-framework)** ⭐ 24
-  ![None](https://img.shields.io/badge/-None-lightgrey)
-  An advanced gameplay assistant, memory optimizer, and system trainer utility designed specifically for Oblivion Remastered. Enhance your single-player experienc
-
 ### 📈 Weekly Trending
 
-- **[sdli1995/dlssg_for_sm86](https://github.com/sdli1995/dlssg_for_sm86)** ⭐ 2,066
+- **[sdli1995/dlssg_for_sm86](https://github.com/sdli1995/dlssg_for_sm86)** ⭐ 2,155
   ![None](https://img.shields.io/badge/-None-lightgrey)
   Here is a dlssg for RTX30 Series GPU 
 
-- **[openai/NavierStokesAndEuler](https://github.com/openai/NavierStokesAndEuler)** ⭐ 1,801
+- **[openai/NavierStokesAndEuler](https://github.com/openai/NavierStokesAndEuler)** ⭐ 1,815
   ![Lean](https://img.shields.io/badge/-Lean-lightgrey)
   Lean certificates accompanying Navier-Stokes and Euler results
 
-- **[EverettFish/holo-card-studio](https://github.com/EverettFish/holo-card-studio)** ⭐ 1,463
+- **[EverettFish/holo-card-studio](https://github.com/EverettFish/holo-card-studio)** ⭐ 1,466
   ![Python](https://img.shields.io/badge/-Python-blue)
   Turn the user's description or uploaded reference into a finished, editable Blender card and an interactive Three.js page. Preserve the requested subject, style, typography and destination. This skill contains code and text only; generated artwork belongs in the user's output project.
 
-- **[Edge0-AI/Edge0](https://github.com/Edge0-AI/Edge0)** ⭐ 1,404
+- **[Edge0-AI/Edge0](https://github.com/Edge0-AI/Edge0)** ⭐ 1,426
   ![Python](https://img.shields.io/badge/-Python-blue)
   None
 
-- **[Vincentwei1021/anything2explainer](https://github.com/Vincentwei1021/anything2explainer)** ⭐ 1,028
+- **[Vincentwei1021/anything2explainer](https://github.com/Vincentwei1021/anything2explainer)** ⭐ 1,046
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   Topic in, narrated explainer video out. A Claude Code / Codex skill that turns any topic into a black-canvas motion-graphics explainer video with TTS voiceover, subtitles and a chapter progress bar. Chinese or English; every frame drawn in code with Remotion.
 
@@ -177,190 +183,52 @@ Recently i was working on multiagent system with langrapgh and after completing,
   ![PHP](https://img.shields.io/badge/-PHP-lightgrey)
   None
 
-- **[achimala/dream-loop](https://github.com/achimala/dream-loop)** ⭐ 897
+- **[achimala/dream-loop](https://github.com/achimala/dream-loop)** ⭐ 913
   ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
   Agent skill for impressive 3D visuals using Blender + image gen + subagent critic
 
-- **[jtydhr88/screenwriting-skills](https://github.com/jtydhr88/screenwriting-skills)** ⭐ 795
+- **[jtydhr88/screenwriting-skills](https://github.com/jtydhr88/screenwriting-skills)** ⭐ 855
   ![Python](https://img.shields.io/badge/-Python-blue)
   None
 
 ### 📈 Monthly Trending
 
-- **[yjh051108/dsh-routing-suite](https://github.com/yjh051108/dsh-routing-suite)** ⭐ 7,168
+- **[yjh051108/dsh-routing-suite](https://github.com/yjh051108/dsh-routing-suite)** ⭐ 7,169
   ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
   dsh-routing-suite — injector + router-standard kit: install the runtime injector first, then the task-aware reasoning-mode router preset (measured P1-P23).
 
-- **[sapientinc/PRAXIST](https://github.com/sapientinc/PRAXIST)** ⭐ 6,671
+- **[sapientinc/PRAXIST](https://github.com/sapientinc/PRAXIST)** ⭐ 6,672
   ![Python](https://img.shields.io/badge/-Python-blue)
   Autonomous research system for measurable, computer-executable research.
 
-- **[lnkiai/m3e-canvas](https://github.com/lnkiai/m3e-canvas)** ⭐ 6,288
+- **[lnkiai/m3e-canvas](https://github.com/lnkiai/m3e-canvas)** ⭐ 6,321
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   Sketch Material 3 Expressive screens in the browser and turn them into vibe-coding prompts.
 
-- **[MengTo/threeui](https://github.com/MengTo/threeui)** ⭐ 5,654
+- **[MengTo/threeui](https://github.com/MengTo/threeui)** ⭐ 5,668
   ![HTML](https://img.shields.io/badge/-HTML-lightgrey)
   Open-source ThreeUI Community catalog with live interactive components and complete Community source.
 
-- **[s1dashu/ip-as-logo-skill](https://github.com/s1dashu/ip-as-logo-skill)** ⭐ 5,160
+- **[s1dashu/ip-as-logo-skill](https://github.com/s1dashu/ip-as-logo-skill)** ⭐ 5,172
   ![None](https://img.shields.io/badge/-None-lightgrey)
   A compact Agent Skill for highly simplified, rounded, subtly neo-skeuomorphic IP mascot logos.
 
-- **[CopilotKit/OpenBot](https://github.com/CopilotKit/OpenBot)** ⭐ 4,784
+- **[CopilotKit/OpenBot](https://github.com/CopilotKit/OpenBot)** ⭐ 4,808
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   Open-source AI coworkers that each get a computer of their own: a browser, files and tools, with every action decided before it happens and recorded after. Bring any AG-UI agent.
 
-- **[amagine-ai/Amagine3D](https://github.com/amagine-ai/Amagine3D)** ⭐ 4,211
+- **[amagine-ai/Amagine3D](https://github.com/amagine-ai/Amagine3D)** ⭐ 4,279
   ![Python](https://img.shields.io/badge/-Python-blue)
   Amagine3D: From hardware requirements to editable 3D designs
 
-- **[XiaoDuoYa/codex-with-chatgpt](https://github.com/XiaoDuoYa/codex-with-chatgpt)** ⭐ 4,104
-  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
-  ChatGPT thinks. Codex works. Use ChatGPT as the planning brain while keeping the Codex harness.
+- **[EvoMap/AutoResearch](https://github.com/EvoMap/AutoResearch)** ⭐ 4,116
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  AI/ML research agents from idea to paper-ready evidence. An EvoMap open-source project.
 
 ## 🚀 Latest Releases
 
 <details>
 <summary>Click to expand latest releases</summary>
-
-### 📦 microsoft/vscode
-
-**[1.137.0](https://github.com/microsoft/vscode/releases/tag/1.137.0)** `1.137.0`
-
-📅 Released: September 09, 2026
-
-https://code.visualstudio.com/updates/v1_137...
-
----
-
-### 📦 facebook/react
-
-**[19.3.0 (September 9, 2026)](https://github.com/react/react/releases/tag/v19.3.0)** `v19.3.0`
-
-📅 Released: September 09, 2026
-
-Below is a list of all new features, APIs, and bug fixes.
-
-Read the [React 19.3 release post](https://react.dev/blog/2026/09/09/react-19-3) for more information.
-
-## New React Features
-
-- `<View...
-
----
-
-### 📦 angular/angular
-
-**[22.1.6](https://github.com/angular/angular/releases/tag/v22.1.6)** `v22.1.6`
-
-📅 Released: September 09, 2026
-
-### compiler
-| Commit | Description |
-| -- | -- |
-| [![fix - cbb8702143](https://img.shields.io/badge/cbb8702143-fix-green)](https://github.com/angular/angular/commit/cbb8702143bd04b68253758dbc2c4a8fb...
-
----
-
-### 📦 vuejs/vue
-
-**[v2.7.16 "Swan Song"](https://github.com/vuejs/vue/releases/tag/v2.7.16)** `v2.7.16`
-
-📅 Released: December 24, 2023
-
-**This is the final release for Vue 2.**
-
-Vue 2 will reach End of Life on December 31st, 2023. For more details, please read this [blog post](https://blog.vuejs.org/posts/vue-2-eol).
-
-Please refer...
-
----
-
-### 📦 tensorflow/tensorflow
-
-**[TensorFlow 2.21.0](https://github.com/tensorflow/tensorflow/releases/tag/v2.21.0)** `v2.21.0`
-
-📅 Released: March 06, 2026
-
-# Release 2.21.0
-
-## TensorFlow
-
-### Breaking Changes
-
-* Support for Python 3.9 has been removed starting with TF 2.21.
-* The TensorBoard (TB) dependency has been removed starting with TF 2.21....
-
----
-
-### 📦 pytorch/pytorch
-
-**[PyTorch 2.14.0 Release](https://github.com/pytorch/pytorch/releases/tag/v2.14.0)** `v2.14.0`
-
-📅 Released: September 02, 2026
-
-# PyTorch 2.14.0 Release Notes
-
-- [Highlights](#highlights)
-- [Backwards Incompatible Changes](#backwards-incompatible-changes)
-- [Deprecations](#deprecations)
-- [New Features](#new-features)
-- ...
-
----
-
-### 📦 kubernetes/kubernetes
-
-**[v1.37.0](https://github.com/kubernetes/kubernetes/releases/tag/v1.37.0)** `v1.37.0`
-
-📅 Released: August 26, 2026
-
-
-See [kubernetes-announce@](https://groups.google.com/forum/#!forum/kubernetes-announce). Additional binary downloads are linked in the [CHANGELOG](https://github.com/kubernetes/kubernetes/blob/master...
-
----
-
-### 📦 docker/compose
-
-**[v5.5.1](https://github.com/docker/compose/releases/tag/v5.5.1)** `v5.5.1`
-
-📅 Released: September 03, 2026
-
-## What's Changed
-### ✨ Improvements
-* Feat(hooks): capture and surface lifecycle hook output by @glours in https://github.com/docker/compose/pull/14091
-* Feat(tracing): surface otel shutdown error...
-
----
-
-### 📦 nodejs/node
-
-**[2026-09-09, Version 26.8.2 (Current), @aduh95](https://github.com/nodejs/node/releases/tag/v26.8.2)** `v26.8.2`
-
-📅 Released: September 09, 2026
-
-
-
-
-### Notable Changes
-
-* \[[`616bd3fa26`](https://github.com/nodejs/node/commit/616bd3fa26)] - **doc**: deprecate `Server.prototype._listen2` in `node:net` (Antoine du Hamel) [#65593](https://github....
-
----
-
-### 📦 rust-lang/rust
-
-**[Rust 1.98.1](https://github.com/rust-lang/rust/releases/tag/1.98.1)** `1.98.1`
-
-📅 Released: September 03, 2026
-
-<a id="1.98.1"></a>
-
-- [rustc: fix miscompilation in generating vtables](https://github.com/rust-lang/rust/issues/161441)
-...
-
----
 
 </details>
 
@@ -487,59 +355,59 @@ See [kubernetes-announce@](https://groups.google.com/forum/#!forum/kubernetes-an
 
 | Skill | Status |
 |-------|--------|
-| Java | 🟡 Learning |
-| Python | 🟢 Proficient |
-| JavaScript | ⚪ Planned |
+| Java | 🟢 Proficient |
+| Python | 🔴 Beginner |
+| JavaScript | 🔴 Beginner |
 | TypeScript | 🟢 Proficient |
-| Go | 🔴 Beginner |
+| Go | ⚪ Planned |
 
 ### Frameworks
 
 | Skill | Status |
 |-------|--------|
-| React | 🟡 Learning |
-| Spring Boot | ⚪ Planned |
-| Django | ⚪ Planned |
-| Node.js | 🟢 Proficient |
-| Next.js | 🟢 Proficient |
+| React | ⚪ Planned |
+| Spring Boot | 🔴 Beginner |
+| Django | 🟢 Proficient |
+| Node.js | 🟡 Learning |
+| Next.js | 🟡 Learning |
 
 ### Cybersecurity
 
 | Skill | Status |
 |-------|--------|
 | Penetration Testing | 🟢 Proficient |
-| Web Security | ⚪ Planned |
-| Network Security | 🔴 Beginner |
+| Web Security | 🟡 Learning |
+| Network Security | 🟢 Proficient |
 | OWASP | 🟢 Proficient |
 
 ### Ai Ml
 
 | Skill | Status |
 |-------|--------|
-| Machine Learning | 🟡 Learning |
-| Deep Learning | 🔴 Beginner |
-| NLP | 🟡 Learning |
+| Machine Learning | 🟢 Proficient |
+| Deep Learning | 🟡 Learning |
+| NLP | ⚪ Planned |
 | Computer Vision | 🟢 Proficient |
-| TensorFlow | ⚪ Planned |
-| PyTorch | ⚪ Planned |
+| TensorFlow | 🟢 Proficient |
+| PyTorch | 🟢 Proficient |
 
 ### Devops
 
 | Skill | Status |
 |-------|--------|
 | Docker | 🔴 Beginner |
-| Kubernetes | 🟡 Learning |
-| CI/CD | 🔴 Beginner |
-| AWS | 🔴 Beginner |
-| Azure | 🔴 Beginner |
+| Kubernetes | 🔴 Beginner |
+| CI/CD | ⚪ Planned |
+| AWS | 🟡 Learning |
+| Azure | 🟡 Learning |
 
 ### Other
 
 | Skill | Status |
 |-------|--------|
-| Blockchain | 🔴 Beginner |
+| Blockchain | 🟢 Proficient |
 | Web3 | 🟡 Learning |
-| Cloud Computing | 🔴 Beginner |
+| Cloud Computing | ⚪ Planned |
 
 </details>
 
