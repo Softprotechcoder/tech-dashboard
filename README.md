@@ -46,38 +46,39 @@
 
 ### 📑 Hacker News
 
-- **[Retrospectively Reverse-Engineering Apple's Neural Engine](https://eiln.github.io/posts/ane.html)**
-  *<p>Article URL: <a href="https://eiln.github.io/posts/ane.html">https://eiln.github.io/posts/ane.html</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49670032">https://news.ycom...*
-  📅 Sat, 12 Sep 2026 07:54:03 +0000
+- **[We Must Pace the Frontier](https://darioamodei.com/post/we-must-pace-the-frontier)**
+  *<p>Article URL: <a href="https://darioamodei.com/post/we-must-pace-the-frontier">https://darioamodei.com/post/we-must-pace-the-frontier</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/i...*
+  📅 Sat, 12 Sep 2026 14:10:49 +0000
 
-- **[Usenet rewind archive search engine](https://www.usenet-rewind.com/)**
-  *<p>Article URL: <a href="https://www.usenet-rewind.com/">https://www.usenet-rewind.com/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49668777">https://news.ycombinator.com/it...*
-  📅 Sat, 12 Sep 2026 04:19:52 +0000
+- **[A Mathematical Framework for Transformer Circuits (2021)](https://transformer-circuits.pub/2021/framework/index.html)**
+  *<p>Article URL: <a href="https://transformer-circuits.pub/2021/framework/index.html">https://transformer-circuits.pub/2021/framework/index.html</a></p>
+<p>Comments URL: <a href="https://news.ycombinat...*
+  📅 Sat, 12 Sep 2026 13:56:58 +0000
 
-- **[Navier-Stokes Announcement](https://www.claymath.org/news/navier-stokes-announcement/)**
-  *<p>Article URL: <a href="https://www.claymath.org/news/navier-stokes-announcement/">https://www.claymath.org/news/navier-stokes-announcement/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator...*
-  📅 Sat, 12 Sep 2026 04:09:43 +0000
+- **[My last six months at Evernote](https://alexkras.com/my-last-six-months-at-evernote-after-bending-spoons-took-over/)**
+  *<p>Article URL: <a href="https://alexkras.com/my-last-six-months-at-evernote-after-bending-spoons-took-over/">https://alexkras.com/my-last-six-months-at-evernote-after-bending-spoons-took-over/</a></p...*
+  📅 Sat, 12 Sep 2026 13:54:19 +0000
 
-- **[google.com/goto: Google's anti-scraping update](https://www.autom.dev/blog/google-search-goto-links)**
-  *<p>Article URL: <a href="https://www.autom.dev/blog/google-search-goto-links">https://www.autom.dev/blog/google-search-goto-links</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id...*
-  📅 Sat, 12 Sep 2026 03:14:20 +0000
+- **[Fuck it, make it anyway](https://www.joelotter.com/posts/2026/09/make-it-anyway/)**
+  *<p>Article URL: <a href="https://www.joelotter.com/posts/2026/09/make-it-anyway/">https://www.joelotter.com/posts/2026/09/make-it-anyway/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com...*
+  📅 Sat, 12 Sep 2026 11:42:32 +0000
 
-- **[OpenAI agents carried out an undisclosed attack on RubyGems](https://www.rubyhack.ai/)**
-  *<p><a href="https://simonwillison.net/2026/Sep/12/openai-agents-rubygems/" rel="nofollow">https://simonwillison.net/2026/Sep/12/openai-agents-rubygems...</a></p>
-<hr />
-<p>Comments URL: <a href="https...*
-  📅 Fri, 11 Sep 2026 23:17:42 +0000
+- **[Crypto farm in Mexican mountains puts spotlight on cartel funding](https://www.reuters.com/world/americas/hidden-crypto-farm-mexican-mountains-puts-spotlight-cartel-funding-2026-09-12/)**
+  *<p>Article URL: <a href="https://www.reuters.com/world/americas/hidden-crypto-farm-mexican-mountains-puts-spotlight-cartel-funding-2026-09-12/">https://www.reuters.com/world/americas/hidden-crypto-far...*
+  📅 Sat, 12 Sep 2026 11:37:22 +0000
 
-- **[Project Blinkenlights](https://blinkenlights.de/en/)**
-  *<p>Article URL: <a href="https://blinkenlights.de/en/">https://blinkenlights.de/en/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49666146">https://news.ycombinator.com/item?i...*
-  📅 Fri, 11 Sep 2026 22:15:00 +0000
+- **[The Worst Spam Emails: Inside iLands' AI Agent Hustle](https://tedium.co/2026/09/11/ilands-agents-email-spam-kaixin-tang/)**
+  *<p>Article URL: <a href="https://tedium.co/2026/09/11/ilands-agents-email-spam-kaixin-tang/">https://tedium.co/2026/09/11/ilands-agents-email-spam-kaixin-tang/</a></p>
+<p>Comments URL: <a href="https:...*
+  📅 Sat, 12 Sep 2026 11:13:38 +0000
 
 ### 📑 TechCrunch
+
+- **[Revolut confirms customer data breach through fake government requests](https://techcrunch.com/2026/09/12/revolut-confirms-customer-data-breach-through-fake-government-requests/)**
+  *Revolut said it notified affected customers and alerted the relevant government agency, law enforcement, and financial regulators....*
+  📅 Sat, 12 Sep 2026 14:40:00 +0000
 
 - **[Mecka AI nears $500M valuation in Sequoia-led deal amid rush for robot training data](https://techcrunch.com/2026/09/11/mecka-ai-nears-500m-valuation-in-sequoia-led-deal-amid-rush-for-robot-training-data/)**
   *The round for the two-year-old startup is coming together months after Mecka announced its Series A....*
@@ -99,19 +100,18 @@
   *Only one week left to secure your exhibit table. Tables are limited and can sell out before the September 18 deadline....*
   📅 Fri, 11 Sep 2026 20:33:18 +0000
 
-- **[Final, final, final call for TechCrunch Disrupt 2026 Side Events](https://techcrunch.com/2026/09/11/final-final-final-call-for-techcrunch-disrupt-2026-side-events/)**
-  *The absolute last chance to apply to host an official Side Event during TechCrunch Disrupt 2026 is tonight, September 11, at 11:59 p.m. PT....*
-  📅 Fri, 11 Sep 2026 20:30:17 +0000
-
 ### 📑 Dev.to
 
-- **[Building per-app dictation on macOS: focus, profiles, and optional send](https://dev.to/clavioapp/building-per-app-dictation-on-macos-focus-profiles-and-optional-send-2ge4)**
-  *<p>Dictating a coding prompt and dictating an email can involve the same microphone and speech recognizer. They should not necessarily involve the same writing style—or the same action after the text ...*
-  📅 Sat, 12 Sep 2026 09:31:41 +0000
+- **[The Costs Cross-Platform Development Solves — and the Costs It Doesn't](https://dev.to/nkzn/the-costs-cross-platform-development-solves-and-the-costs-it-doesnt-p30)**
+  *<p>In September 2026, Shopify Engineering published an article titled “Native is now the future of mobile at Shopify.”</p>
 
-- **[BDD Without Gherkin](https://dev.to/paul-brooks/bdd-without-gherkin-558b)**
-  *<p>I've been writing acceptance tests in Given-When-Then since 2009 and I've never written a feature file by choice. So when someone asks whether you can do BDD without Gherkin, my answer is that I've...*
-  📅 Sat, 12 Sep 2026 09:23:52 +0000
+<p><a href="https://shopify.engineering/back-to-native" rel="noopener norefe...*
+  📅 Sat, 12 Sep 2026 14:32:54 +0000
+
+- **[From User Query to Execution: Building a Multi-Agent System with LangGraph](https://dev.to/shah_almoveed_22752c60f0/from-user-query-to-execution-building-a-multi-agent-system-with-langgraph-5g2h)**
+  *<p>Hi everyone:<br />
+Recently i was working on multiagent system with langrapgh and after completing, i though why not publish it as blog post to guide junior developer familarize with multiagent lan...*
+  📅 Sat, 12 Sep 2026 14:32:00 +0000
 
 </details>
 
@@ -123,66 +123,66 @@
   ![HTML](https://img.shields.io/badge/-HTML-lightgrey)
   Fortnite ESP & SoftAim tool 2026 for Windows 10/11 PC. Features: player ESP, box ESP, loot ESP, soft aim assist, aim smoothing, target tracking, custom HUD, visual overlay, hotkey system, auto-updater. SlowLow Team. 1.7k+ downloads monthly. Fully optimized for 1080p, 1440p and 4K displays.
 
-- **[wannabeyourfriend/awesome-harness-evolution](https://github.com/wannabeyourfriend/awesome-harness-evolution)** ⭐ 22
+- **[chemo823/wardogs-tactical-overlay](https://github.com/chemo823/wardogs-tactical-overlay)** ⭐ 57
+  ![None](https://img.shields.io/badge/-None-lightgrey)
+  Feature trainer/cheat for WARDOGS — 41 modules across 5 categories. God mode, infinite ammo, cash tools, vehicle control, building utilities. Hotkeys F1–F12. Built with Dear ImGui · DirectX 11 · C++23. Windows 10/11 x64.
+
+- **[sam-plab03c2/nucleus-patch-utility-2026](https://github.com/sam-plab03c2/nucleus-patch-utility-2026)** ⭐ 41
   ![Python](https://img.shields.io/badge/-Python-blue)
-  Awesome Research Paper List for AI agent harness evolution: Foundation, Benchmark, Recipe, Position
+  A Python-based utility for managing and testing Roblox client patches. Developed for QA engineers and developers to streamline patch validation workflows. It includes a feature for automated script execution and error logging.
 
-- **[nancroberts77/bannerlord-hack-trainer-kingdom-toolkit](https://github.com/nancroberts77/bannerlord-hack-trainer-kingdom-toolkit)** ⭐ 10
+- **[john-kim-io04t5/Roblox-Executor-2026-No-Key](https://github.com/john-kim-io04t5/Roblox-Executor-2026-No-Key)** ⭐ 36
   ![None](https://img.shields.io/badge/-None-lightgrey)
-  Mount & Blade II Bannerlord Hack themed PC companion for army management, character builds, kingdom planning, battles, trade and campaign tracking.
-
-- **[JoaoFranco03/DuoHinge](https://github.com/JoaoFranco03/DuoHinge)** ⭐ 10
-  ![Swift](https://img.shields.io/badge/-Swift-lightgrey)
-  A native macOS menu bar app that turns your MacBook’s lid movement into a live desktop folding illusion, powered by ScreenCaptureKit and Metal.
-
-- **[mscott2511/football-manager-26-trainer-career-toolkit](https://github.com/mscott2511/football-manager-26-trainer-career-toolkit)** ⭐ 10
-  ![None](https://img.shields.io/badge/-None-lightgrey)
-  Football Manager 26 Trainer themed PC companion for squad planning, tactics, transfers, scouting, training, finances and FM26 career tracking.
-
-- **[lg-uid575655/about-my-ban-in-luogu](https://github.com/lg-uid575655/about-my-ban-in-luogu)** ⭐ 9
-  ![C++](https://img.shields.io/badge/-C++-pink)
   None
 
-- **[Qiuner/birdview](https://github.com/Qiuner/birdview)** ⭐ 8
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
-  Stop letting AI code blind. Map the architecture before every change with Birdview.
+- **[ashleyotooligan/ant-1](https://github.com/ashleyotooligan/ant-1)** ⭐ 25
+  ![HTML](https://img.shields.io/badge/-HTML-lightgrey)
+  An embodied neural experiment connecting a simulated ant to a synthetic neural controller
 
-- **[shi3z/DeepSeekv4.1-DGX-Spark](https://github.com/shi3z/DeepSeekv4.1-DGX-Spark)** ⭐ 7
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  None
+- **[CustodianWrench68/minecraft-pvp-assistant-overlay](https://github.com/CustodianWrench68/minecraft-pvp-assistant-overlay)** ⭐ 24
+  ![None](https://img.shields.io/badge/-None-lightgrey)
+  A lightweight overlay and utility assistant designed to optimize Minecraft PvP mechanics, movement responsiveness, and visual tracking.
+
+- **[SharkStronghold/sons-forest-survival-enhancer-tool](https://github.com/SharkStronghold/sons-forest-survival-enhancer-tool)** ⭐ 24
+  ![None](https://img.shields.io/badge/-None-lightgrey)
+  An advanced external utility and trainer for Sons of the Forest. Features real-time stat overlays, inventory helper, and survival assistance.
+
+- **[minotaurmiteblast/oblivion-remastered-utility-framework](https://github.com/minotaurmiteblast/oblivion-remastered-utility-framework)** ⭐ 24
+  ![None](https://img.shields.io/badge/-None-lightgrey)
+  An advanced gameplay assistant, memory optimizer, and system trainer utility designed specifically for Oblivion Remastered. Enhance your single-player experienc
 
 ### 📈 Weekly Trending
 
-- **[sdli1995/dlssg_for_sm86](https://github.com/sdli1995/dlssg_for_sm86)** ⭐ 1,963
+- **[sdli1995/dlssg_for_sm86](https://github.com/sdli1995/dlssg_for_sm86)** ⭐ 2,066
   ![None](https://img.shields.io/badge/-None-lightgrey)
   Here is a dlssg for RTX30 Series GPU 
 
-- **[openai/NavierStokesAndEuler](https://github.com/openai/NavierStokesAndEuler)** ⭐ 1,792
+- **[openai/NavierStokesAndEuler](https://github.com/openai/NavierStokesAndEuler)** ⭐ 1,801
   ![Lean](https://img.shields.io/badge/-Lean-lightgrey)
   Lean certificates accompanying Navier-Stokes and Euler results
 
-- **[EverettFish/holo-card-studio](https://github.com/EverettFish/holo-card-studio)** ⭐ 1,456
+- **[EverettFish/holo-card-studio](https://github.com/EverettFish/holo-card-studio)** ⭐ 1,463
   ![Python](https://img.shields.io/badge/-Python-blue)
   Turn the user's description or uploaded reference into a finished, editable Blender card and an interactive Three.js page. Preserve the requested subject, style, typography and destination. This skill contains code and text only; generated artwork belongs in the user's output project.
 
-- **[Edge0-AI/Edge0](https://github.com/Edge0-AI/Edge0)** ⭐ 1,394
+- **[Edge0-AI/Edge0](https://github.com/Edge0-AI/Edge0)** ⭐ 1,404
   ![Python](https://img.shields.io/badge/-Python-blue)
   None
 
-- **[Vincentwei1021/anything2explainer](https://github.com/Vincentwei1021/anything2explainer)** ⭐ 997
+- **[Vincentwei1021/anything2explainer](https://github.com/Vincentwei1021/anything2explainer)** ⭐ 1,028
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   Topic in, narrated explainer video out. A Claude Code / Codex skill that turns any topic into a black-canvas motion-graphics explainer video with TTS voiceover, subtitles and a chapter progress bar. Chinese or English; every frame drawn in code with Remotion.
 
-- **[Faizpi/bank-sampah](https://github.com/Faizpi/bank-sampah)** ⭐ 920
+- **[Faizpi/bank-sampah](https://github.com/Faizpi/bank-sampah)** ⭐ 921
   ![PHP](https://img.shields.io/badge/-PHP-lightgrey)
   None
 
-- **[achimala/dream-loop](https://github.com/achimala/dream-loop)** ⭐ 874
+- **[achimala/dream-loop](https://github.com/achimala/dream-loop)** ⭐ 897
   ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
   Agent skill for impressive 3D visuals using Blender + image gen + subagent critic
 
-- **[jtydhr88/screenwriting-skills](https://github.com/jtydhr88/screenwriting-skills)** ⭐ 758
-  ![None](https://img.shields.io/badge/-None-lightgrey)
+- **[jtydhr88/screenwriting-skills](https://github.com/jtydhr88/screenwriting-skills)** ⭐ 795
+  ![Python](https://img.shields.io/badge/-Python-blue)
   None
 
 ### 📈 Monthly Trending
@@ -191,31 +191,31 @@
   ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
   dsh-routing-suite — injector + router-standard kit: install the runtime injector first, then the task-aware reasoning-mode router preset (measured P1-P23).
 
-- **[sapientinc/PRAXIST](https://github.com/sapientinc/PRAXIST)** ⭐ 6,670
+- **[sapientinc/PRAXIST](https://github.com/sapientinc/PRAXIST)** ⭐ 6,671
   ![Python](https://img.shields.io/badge/-Python-blue)
   Autonomous research system for measurable, computer-executable research.
 
-- **[lnkiai/m3e-canvas](https://github.com/lnkiai/m3e-canvas)** ⭐ 6,240
+- **[lnkiai/m3e-canvas](https://github.com/lnkiai/m3e-canvas)** ⭐ 6,288
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   Sketch Material 3 Expressive screens in the browser and turn them into vibe-coding prompts.
 
-- **[MengTo/threeui](https://github.com/MengTo/threeui)** ⭐ 5,643
+- **[MengTo/threeui](https://github.com/MengTo/threeui)** ⭐ 5,654
   ![HTML](https://img.shields.io/badge/-HTML-lightgrey)
   Open-source ThreeUI Community catalog with live interactive components and complete Community source.
 
-- **[s1dashu/ip-as-logo-skill](https://github.com/s1dashu/ip-as-logo-skill)** ⭐ 5,156
+- **[s1dashu/ip-as-logo-skill](https://github.com/s1dashu/ip-as-logo-skill)** ⭐ 5,160
   ![None](https://img.shields.io/badge/-None-lightgrey)
   A compact Agent Skill for highly simplified, rounded, subtly neo-skeuomorphic IP mascot logos.
 
-- **[CopilotKit/OpenBot](https://github.com/CopilotKit/OpenBot)** ⭐ 4,759
+- **[CopilotKit/OpenBot](https://github.com/CopilotKit/OpenBot)** ⭐ 4,784
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   Open-source AI coworkers that each get a computer of their own: a browser, files and tools, with every action decided before it happens and recorded after. Bring any AG-UI agent.
 
-- **[amagine-ai/Amagine3D](https://github.com/amagine-ai/Amagine3D)** ⭐ 4,114
+- **[amagine-ai/Amagine3D](https://github.com/amagine-ai/Amagine3D)** ⭐ 4,211
   ![Python](https://img.shields.io/badge/-Python-blue)
   Amagine3D: From hardware requirements to editable 3D designs
 
-- **[XiaoDuoYa/codex-with-chatgpt](https://github.com/XiaoDuoYa/codex-with-chatgpt)** ⭐ 4,087
+- **[XiaoDuoYa/codex-with-chatgpt](https://github.com/XiaoDuoYa/codex-with-chatgpt)** ⭐ 4,104
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   ChatGPT thinks. Codex works. Use ChatGPT as the planning brain while keeping the Codex harness.
 
@@ -487,30 +487,30 @@ See [kubernetes-announce@](https://groups.google.com/forum/#!forum/kubernetes-an
 
 | Skill | Status |
 |-------|--------|
-| Java | 🟢 Proficient |
-| Python | 🔴 Beginner |
-| JavaScript | 🟢 Proficient |
-| TypeScript | 🟡 Learning |
-| Go | 🟡 Learning |
+| Java | 🟡 Learning |
+| Python | 🟢 Proficient |
+| JavaScript | ⚪ Planned |
+| TypeScript | 🟢 Proficient |
+| Go | 🔴 Beginner |
 
 ### Frameworks
 
 | Skill | Status |
 |-------|--------|
 | React | 🟡 Learning |
-| Spring Boot | 🟡 Learning |
-| Django | 🟢 Proficient |
-| Node.js | 🟡 Learning |
+| Spring Boot | ⚪ Planned |
+| Django | ⚪ Planned |
+| Node.js | 🟢 Proficient |
 | Next.js | 🟢 Proficient |
 
 ### Cybersecurity
 
 | Skill | Status |
 |-------|--------|
-| Penetration Testing | 🟡 Learning |
-| Web Security | 🟡 Learning |
-| Network Security | 🟡 Learning |
-| OWASP | ⚪ Planned |
+| Penetration Testing | 🟢 Proficient |
+| Web Security | ⚪ Planned |
+| Network Security | 🔴 Beginner |
+| OWASP | 🟢 Proficient |
 
 ### Ai Ml
 
@@ -519,27 +519,27 @@ See [kubernetes-announce@](https://groups.google.com/forum/#!forum/kubernetes-an
 | Machine Learning | 🟡 Learning |
 | Deep Learning | 🔴 Beginner |
 | NLP | 🟡 Learning |
-| Computer Vision | ⚪ Planned |
-| TensorFlow | 🟢 Proficient |
-| PyTorch | 🟡 Learning |
+| Computer Vision | 🟢 Proficient |
+| TensorFlow | ⚪ Planned |
+| PyTorch | ⚪ Planned |
 
 ### Devops
 
 | Skill | Status |
 |-------|--------|
-| Docker | ⚪ Planned |
+| Docker | 🔴 Beginner |
 | Kubernetes | 🟡 Learning |
-| CI/CD | 🟡 Learning |
-| AWS | ⚪ Planned |
-| Azure | 🟡 Learning |
+| CI/CD | 🔴 Beginner |
+| AWS | 🔴 Beginner |
+| Azure | 🔴 Beginner |
 
 ### Other
 
 | Skill | Status |
 |-------|--------|
-| Blockchain | 🟢 Proficient |
-| Web3 | ⚪ Planned |
-| Cloud Computing | 🟢 Proficient |
+| Blockchain | 🔴 Beginner |
+| Web3 | 🟡 Learning |
+| Cloud Computing | 🔴 Beginner |
 
 </details>
 
