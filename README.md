@@ -46,29 +46,31 @@
 
 ### 📑 Hacker News
 
-- **[How Poor People Buy Cars](https://abio.substack.com/p/how-poor-people-buy-cars)**
-  *<p>Article URL: <a href="https://abio.substack.com/p/how-poor-people-buy-cars">https://abio.substack.com/p/how-poor-people-buy-cars</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?...*
-  📅 Sat, 12 Sep 2026 01:37:06 +0000
+- **[Retrospectively Reverse-Engineering Apple's Neural Engine](https://eiln.github.io/posts/ane.html)**
+  *<p>Article URL: <a href="https://eiln.github.io/posts/ane.html">https://eiln.github.io/posts/ane.html</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49670032">https://news.ycom...*
+  📅 Sat, 12 Sep 2026 07:54:03 +0000
 
-- **[Starlink Signal Leakage Threatens Radio Astronomy's Most Critical Frequencies](https://www.gadgetreview.com/starlinks-signal-leakage-is-threatening-radio-astronomys-most-critical-frequencies)**
-  *<p>Article URL: <a href="https://www.gadgetreview.com/starlinks-signal-leakage-is-threatening-radio-astronomys-most-critical-frequencies">https://www.gadgetreview.com/starlinks-signal-leakage-is-threa...*
-  📅 Sat, 12 Sep 2026 00:40:32 +0000
+- **[Usenet rewind archive search engine](https://www.usenet-rewind.com/)**
+  *<p>Article URL: <a href="https://www.usenet-rewind.com/">https://www.usenet-rewind.com/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49668777">https://news.ycombinator.com/it...*
+  📅 Sat, 12 Sep 2026 04:19:52 +0000
 
-- **[Show HN: Graphify C# – Compiler-accurate Find Usages for coding agents](https://github.com/zachsaw/graphify-csharp)**
-  *<p>Article URL: <a href="https://github.com/zachsaw/graphify-csharp">https://github.com/zachsaw/graphify-csharp</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49667188">https:/...*
-  📅 Sat, 12 Sep 2026 00:16:10 +0000
+- **[Navier-Stokes Announcement](https://www.claymath.org/news/navier-stokes-announcement/)**
+  *<p>Article URL: <a href="https://www.claymath.org/news/navier-stokes-announcement/">https://www.claymath.org/news/navier-stokes-announcement/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator...*
+  📅 Sat, 12 Sep 2026 04:09:43 +0000
+
+- **[google.com/goto: Google's anti-scraping update](https://www.autom.dev/blog/google-search-goto-links)**
+  *<p>Article URL: <a href="https://www.autom.dev/blog/google-search-goto-links">https://www.autom.dev/blog/google-search-goto-links</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id...*
+  📅 Sat, 12 Sep 2026 03:14:20 +0000
 
 - **[OpenAI agents carried out an undisclosed attack on RubyGems](https://www.rubyhack.ai/)**
-  *<p>Article URL: <a href="https://www.rubyhack.ai/">https://www.rubyhack.ai/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49666735">https://news.ycombinator.com/item?id=496667...*
+  *<p><a href="https://simonwillison.net/2026/Sep/12/openai-agents-rubygems/" rel="nofollow">https://simonwillison.net/2026/Sep/12/openai-agents-rubygems...</a></p>
+<hr />
+<p>Comments URL: <a href="https...*
   📅 Fri, 11 Sep 2026 23:17:42 +0000
-
-- **[QueryBrew: System-Agnostic SQL-to-SQL Query Optimization [pdf]](https://www.vldb.org/pvldb/vol19/p4494-schmidt.pdf)**
-  *<p>Article URL: <a href="https://www.vldb.org/pvldb/vol19/p4494-schmidt.pdf">https://www.vldb.org/pvldb/vol19/p4494-schmidt.pdf</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=4...*
-  📅 Fri, 11 Sep 2026 22:16:15 +0000
 
 - **[Project Blinkenlights](https://blinkenlights.de/en/)**
   *<p>Article URL: <a href="https://blinkenlights.de/en/">https://blinkenlights.de/en/</a></p>
@@ -103,15 +105,13 @@
 
 ### 📑 Dev.to
 
-- **[Building WakeAtlas: ships, shipwrecks and ocean science on a free CesiumJS globe](https://dev.to/william_carne_1332c355841/building-wakeatlas-ships-shipwrecks-and-ocean-science-on-a-free-cesiumjs-globe-1e62)**
-  *<p><a class="article-body-image-wrapper" href="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws...*
-  📅 Sat, 12 Sep 2026 02:07:10 +0000
+- **[Building per-app dictation on macOS: focus, profiles, and optional send](https://dev.to/clavioapp/building-per-app-dictation-on-macos-focus-profiles-and-optional-send-2ge4)**
+  *<p>Dictating a coding prompt and dictating an email can involve the same microphone and speech recognizer. They should not necessarily involve the same writing style—or the same action after the text ...*
+  📅 Sat, 12 Sep 2026 09:31:41 +0000
 
-- **[I built a free in-browser video compressor — the file never leaves your device](https://dev.to/breezefeng/i-built-a-free-in-browser-video-compressor-the-file-never-leaves-your-device-52pk)**
-  *<p>I wanted a compressor I could trust with client footage. Most "online video compressor" sites upload the file to a server. That's slow, and it's a privacy problem.</p>
-
-<p>So I built <a href="https...*
-  📅 Sat, 12 Sep 2026 01:54:55 +0000
+- **[BDD Without Gherkin](https://dev.to/paul-brooks/bdd-without-gherkin-558b)**
+  *<p>I've been writing acceptance tests in Given-When-Then since 2009 and I've never written a feature file by choice. So when someone asks whether you can do BDD without Gherkin, my answer is that I've...*
+  📅 Sat, 12 Sep 2026 09:23:52 +0000
 
 </details>
 
@@ -119,105 +119,105 @@
 
 ### 📈 Daily Trending
 
-- **[AlexxxLiu/AV-Data-Engine](https://github.com/AlexxxLiu/AV-Data-Engine)** ⭐ 6
+- **[tropicalpackerroad/Fortnite-ESP-Soft-Aim-2026-SlowLow-Team-Visual-Assist-Tool](https://github.com/tropicalpackerroad/Fortnite-ESP-Soft-Aim-2026-SlowLow-Team-Visual-Assist-Tool)** ⭐ 76
+  ![HTML](https://img.shields.io/badge/-HTML-lightgrey)
+  Fortnite ESP & SoftAim tool 2026 for Windows 10/11 PC. Features: player ESP, box ESP, loot ESP, soft aim assist, aim smoothing, target tracking, custom HUD, visual overlay, hotkey system, auto-updater. SlowLow Team. 1.7k+ downloads monthly. Fully optimized for 1080p, 1440p and 4K displays.
+
+- **[wannabeyourfriend/awesome-harness-evolution](https://github.com/wannabeyourfriend/awesome-harness-evolution)** ⭐ 22
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  Awesome Research Paper List for AI agent harness evolution: Foundation, Benchmark, Recipe, Position
+
+- **[nancroberts77/bannerlord-hack-trainer-kingdom-toolkit](https://github.com/nancroberts77/bannerlord-hack-trainer-kingdom-toolkit)** ⭐ 10
+  ![None](https://img.shields.io/badge/-None-lightgrey)
+  Mount & Blade II Bannerlord Hack themed PC companion for army management, character builds, kingdom planning, battles, trade and campaign tracking.
+
+- **[JoaoFranco03/DuoHinge](https://github.com/JoaoFranco03/DuoHinge)** ⭐ 10
+  ![Swift](https://img.shields.io/badge/-Swift-lightgrey)
+  A native macOS menu bar app that turns your MacBook’s lid movement into a live desktop folding illusion, powered by ScreenCaptureKit and Metal.
+
+- **[mscott2511/football-manager-26-trainer-career-toolkit](https://github.com/mscott2511/football-manager-26-trainer-career-toolkit)** ⭐ 10
+  ![None](https://img.shields.io/badge/-None-lightgrey)
+  Football Manager 26 Trainer themed PC companion for squad planning, tactics, transfers, scouting, training, finances and FM26 career tracking.
+
+- **[lg-uid575655/about-my-ban-in-luogu](https://github.com/lg-uid575655/about-my-ban-in-luogu)** ⭐ 9
   ![C++](https://img.shields.io/badge/-C++-pink)
   None
 
-- **[Torch-ju/0910--](https://github.com/Torch-ju/0910--)** ⭐ 3
-  ![None](https://img.shields.io/badge/-None-lightgrey)
-  None
-
-- **[gabfoipego/steam-guide-previewer](https://github.com/gabfoipego/steam-guide-previewer)** ⭐ 2
+- **[Qiuner/birdview](https://github.com/Qiuner/birdview)** ⭐ 8
   ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
-  Website para fazer preview dos seus guias na steam! antes que você mande algo que se arrependa !
+  Stop letting AI code blind. Map the architecture before every change with Birdview.
 
-- **[Bino5150/AIvengers-wire](https://github.com/Bino5150/AIvengers-wire)** ⭐ 2
+- **[shi3z/DeepSeekv4.1-DGX-Spark](https://github.com/shi3z/DeepSeekv4.1-DGX-Spark)** ⭐ 7
   ![Python](https://img.shields.io/badge/-Python-blue)
-  Local machine message board for your AI agents. GUI added  for human participation/oversight. Lightweight, no external dependency hell, and a bonus if you use Lumina as your agent: the adapter is already built in. 
-
-- **[NHCM-dev/Myaven](https://github.com/NHCM-dev/Myaven)** ⭐ 2
-  ![Java](https://img.shields.io/badge/-Java-orange)
-  Original unchanged codes of Myaven Client
-
-- **[FarazHayder/n8n-mcp-guard](https://github.com/FarazHayder/n8n-mcp-guard)** ⭐ 2
-  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
-  Let an AI agent build and change your n8n workflows with a guaranteed way back: every write is backed up, version-checked, and verified by readback.
-
-- **[adarshhpatil/open-clinic-emr](https://github.com/adarshhpatil/open-clinic-emr)** ⭐ 2
-  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   None
-
-- **[Irixil/-](https://github.com/Irixil/-)** ⭐ 2
-  ![None](https://img.shields.io/badge/-None-lightgrey)
-  帮助老人整理他们的病例，并记录日常健康问题。
 
 ### 📈 Weekly Trending
 
-- **[sdli1995/dlssg_for_sm86](https://github.com/sdli1995/dlssg_for_sm86)** ⭐ 1,788
+- **[sdli1995/dlssg_for_sm86](https://github.com/sdli1995/dlssg_for_sm86)** ⭐ 1,963
   ![None](https://img.shields.io/badge/-None-lightgrey)
   Here is a dlssg for RTX30 Series GPU 
 
-- **[openai/NavierStokesAndEuler](https://github.com/openai/NavierStokesAndEuler)** ⭐ 1,778
+- **[openai/NavierStokesAndEuler](https://github.com/openai/NavierStokesAndEuler)** ⭐ 1,792
   ![Lean](https://img.shields.io/badge/-Lean-lightgrey)
   Lean certificates accompanying Navier-Stokes and Euler results
 
-- **[EverettFish/holo-card-studio](https://github.com/EverettFish/holo-card-studio)** ⭐ 1,446
+- **[EverettFish/holo-card-studio](https://github.com/EverettFish/holo-card-studio)** ⭐ 1,456
   ![Python](https://img.shields.io/badge/-Python-blue)
   Turn the user's description or uploaded reference into a finished, editable Blender card and an interactive Three.js page. Preserve the requested subject, style, typography and destination. This skill contains code and text only; generated artwork belongs in the user's output project.
 
-- **[Edge0-AI/Edge0](https://github.com/Edge0-AI/Edge0)** ⭐ 1,354
+- **[Edge0-AI/Edge0](https://github.com/Edge0-AI/Edge0)** ⭐ 1,394
   ![Python](https://img.shields.io/badge/-Python-blue)
   None
 
-- **[Vincentwei1021/anything2explainer](https://github.com/Vincentwei1021/anything2explainer)** ⭐ 945
+- **[Vincentwei1021/anything2explainer](https://github.com/Vincentwei1021/anything2explainer)** ⭐ 997
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   Topic in, narrated explainer video out. A Claude Code / Codex skill that turns any topic into a black-canvas motion-graphics explainer video with TTS voiceover, subtitles and a chapter progress bar. Chinese or English; every frame drawn in code with Remotion.
 
-- **[Faizpi/bank-sampah](https://github.com/Faizpi/bank-sampah)** ⭐ 919
+- **[Faizpi/bank-sampah](https://github.com/Faizpi/bank-sampah)** ⭐ 920
   ![PHP](https://img.shields.io/badge/-PHP-lightgrey)
   None
 
-- **[achimala/dream-loop](https://github.com/achimala/dream-loop)** ⭐ 854
+- **[achimala/dream-loop](https://github.com/achimala/dream-loop)** ⭐ 874
   ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
   Agent skill for impressive 3D visuals using Blender + image gen + subagent critic
 
-- **[jtydhr88/screenwriting-skills](https://github.com/jtydhr88/screenwriting-skills)** ⭐ 749
+- **[jtydhr88/screenwriting-skills](https://github.com/jtydhr88/screenwriting-skills)** ⭐ 758
   ![None](https://img.shields.io/badge/-None-lightgrey)
   None
 
 ### 📈 Monthly Trending
 
-- **[yjh051108/dsh-routing-suite](https://github.com/yjh051108/dsh-routing-suite)** ⭐ 7,169
+- **[yjh051108/dsh-routing-suite](https://github.com/yjh051108/dsh-routing-suite)** ⭐ 7,168
   ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
   dsh-routing-suite — injector + router-standard kit: install the runtime injector first, then the task-aware reasoning-mode router preset (measured P1-P23).
 
-- **[sapientinc/PRAXIST](https://github.com/sapientinc/PRAXIST)** ⭐ 6,637
+- **[sapientinc/PRAXIST](https://github.com/sapientinc/PRAXIST)** ⭐ 6,670
   ![Python](https://img.shields.io/badge/-Python-blue)
   Autonomous research system for measurable, computer-executable research.
 
-- **[lnkiai/m3e-canvas](https://github.com/lnkiai/m3e-canvas)** ⭐ 6,158
+- **[lnkiai/m3e-canvas](https://github.com/lnkiai/m3e-canvas)** ⭐ 6,240
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   Sketch Material 3 Expressive screens in the browser and turn them into vibe-coding prompts.
 
-- **[MengTo/threeui](https://github.com/MengTo/threeui)** ⭐ 5,616
+- **[MengTo/threeui](https://github.com/MengTo/threeui)** ⭐ 5,643
   ![HTML](https://img.shields.io/badge/-HTML-lightgrey)
   Open-source ThreeUI Community catalog with live interactive components and complete Community source.
 
-- **[s1dashu/ip-as-logo-skill](https://github.com/s1dashu/ip-as-logo-skill)** ⭐ 5,142
+- **[s1dashu/ip-as-logo-skill](https://github.com/s1dashu/ip-as-logo-skill)** ⭐ 5,156
   ![None](https://img.shields.io/badge/-None-lightgrey)
   A compact Agent Skill for highly simplified, rounded, subtly neo-skeuomorphic IP mascot logos.
 
-- **[CopilotKit/OpenBot](https://github.com/CopilotKit/OpenBot)** ⭐ 4,733
+- **[CopilotKit/OpenBot](https://github.com/CopilotKit/OpenBot)** ⭐ 4,759
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   Open-source AI coworkers that each get a computer of their own: a browser, files and tools, with every action decided before it happens and recorded after. Bring any AG-UI agent.
 
-- **[XiaoDuoYa/codex-with-chatgpt](https://github.com/XiaoDuoYa/codex-with-chatgpt)** ⭐ 4,057
-  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
-  ChatGPT thinks. Codex works. Use ChatGPT as the planning brain while keeping the Codex harness.
-
-- **[amagine-ai/Amagine3D](https://github.com/amagine-ai/Amagine3D)** ⭐ 4,033
+- **[amagine-ai/Amagine3D](https://github.com/amagine-ai/Amagine3D)** ⭐ 4,114
   ![Python](https://img.shields.io/badge/-Python-blue)
   Amagine3D: From hardware requirements to editable 3D designs
+
+- **[XiaoDuoYa/codex-with-chatgpt](https://github.com/XiaoDuoYa/codex-with-chatgpt)** ⭐ 4,087
+  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
+  ChatGPT thinks. Codex works. Use ChatGPT as the planning brain while keeping the Codex harness.
 
 ## 🚀 Latest Releases
 
@@ -487,21 +487,21 @@ See [kubernetes-announce@](https://groups.google.com/forum/#!forum/kubernetes-an
 
 | Skill | Status |
 |-------|--------|
-| Java | 🟡 Learning |
-| Python | ⚪ Planned |
+| Java | 🟢 Proficient |
+| Python | 🔴 Beginner |
 | JavaScript | 🟢 Proficient |
-| TypeScript | 🟢 Proficient |
-| Go | 🟢 Proficient |
+| TypeScript | 🟡 Learning |
+| Go | 🟡 Learning |
 
 ### Frameworks
 
 | Skill | Status |
 |-------|--------|
 | React | 🟡 Learning |
-| Spring Boot | 🟢 Proficient |
+| Spring Boot | 🟡 Learning |
 | Django | 🟢 Proficient |
-| Node.js | ⚪ Planned |
-| Next.js | 🟡 Learning |
+| Node.js | 🟡 Learning |
+| Next.js | 🟢 Proficient |
 
 ### Cybersecurity
 
@@ -509,36 +509,36 @@ See [kubernetes-announce@](https://groups.google.com/forum/#!forum/kubernetes-an
 |-------|--------|
 | Penetration Testing | 🟡 Learning |
 | Web Security | 🟡 Learning |
-| Network Security | 🔴 Beginner |
-| OWASP | 🔴 Beginner |
+| Network Security | 🟡 Learning |
+| OWASP | ⚪ Planned |
 
 ### Ai Ml
 
 | Skill | Status |
 |-------|--------|
-| Machine Learning | 🔴 Beginner |
+| Machine Learning | 🟡 Learning |
 | Deep Learning | 🔴 Beginner |
 | NLP | 🟡 Learning |
 | Computer Vision | ⚪ Planned |
-| TensorFlow | 🔴 Beginner |
+| TensorFlow | 🟢 Proficient |
 | PyTorch | 🟡 Learning |
 
 ### Devops
 
 | Skill | Status |
 |-------|--------|
-| Docker | 🔴 Beginner |
-| Kubernetes | ⚪ Planned |
-| CI/CD | ⚪ Planned |
-| AWS | 🔴 Beginner |
-| Azure | 🟢 Proficient |
+| Docker | ⚪ Planned |
+| Kubernetes | 🟡 Learning |
+| CI/CD | 🟡 Learning |
+| AWS | ⚪ Planned |
+| Azure | 🟡 Learning |
 
 ### Other
 
 | Skill | Status |
 |-------|--------|
-| Blockchain | 🔴 Beginner |
-| Web3 | 🟢 Proficient |
+| Blockchain | 🟢 Proficient |
+| Web3 | ⚪ Planned |
 | Cloud Computing | 🟢 Proficient |
 
 </details>
