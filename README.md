@@ -46,37 +46,38 @@
 
 ### 📑 Hacker News
 
-- **[Norton Neo Browser](https://neobrowser.ai/)**
-  *<p>Article URL: <a href="https://neobrowser.ai/">https://neobrowser.ai/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49681724">https://news.ycombinator.com/item?id=49681724</...*
-  📅 Sun, 13 Sep 2026 09:07:59 +0000
+- **[Astra and Fable still hack on simple variants of alignment evals from 2025](https://www.lesswrong.com/posts/munJKF7iWMsWJLAH2/astra-and-fable-still-hack-on-simple-variants-of-alignment)**
+  *<p>Article URL: <a href="https://www.lesswrong.com/posts/munJKF7iWMsWJLAH2/astra-and-fable-still-hack-on-simple-variants-of-alignment">https://www.lesswrong.com/posts/munJKF7iWMsWJLAH2/astra-and-fable...*
+  📅 Sun, 13 Sep 2026 14:28:36 +0000
 
-- **[Homebrew 7.0.0](https://brew.sh/2026/09/13/homebrew-7.0.0/)**
-  *<p>Article URL: <a href="https://brew.sh/2026/09/13/homebrew-7.0.0/">https://brew.sh/2026/09/13/homebrew-7.0.0/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49681545">https:/...*
-  📅 Sun, 13 Sep 2026 08:41:17 +0000
+- **[Houthis Used Claude Code to Develop Missile Guidance Software: Anthropic](https://clashreport.com/world/articles/houthis-used-claude-code-to-develop-missile-guidance-software-anthropic-s52mnx4pwpo)**
+  *<p>Article URL: <a href="https://clashreport.com/world/articles/houthis-used-claude-code-to-develop-missile-guidance-software-anthropic-s52mnx4pwpo">https://clashreport.com/world/articles/houthis-used...*
+  📅 Sun, 13 Sep 2026 14:15:40 +0000
 
-- **[JetKVM Mini](https://jetkvm.com/blog/introducing-jetkvm-mini)**
-  *<p>Article URL: <a href="https://jetkvm.com/blog/introducing-jetkvm-mini">https://jetkvm.com/blog/introducing-jetkvm-mini</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=4968115...*
-  📅 Sun, 13 Sep 2026 07:49:46 +0000
+- **[Key symbols we lost to time, pt. 1: The PC side](https://unsung.aresluna.org/key-symbols-we-lost-to-time-pt-1-the-pc-side/)**
+  *<p>Article URL: <a href="https://unsung.aresluna.org/key-symbols-we-lost-to-time-pt-1-the-pc-side/">https://unsung.aresluna.org/key-symbols-we-lost-to-time-pt-1-the-pc-side/</a></p>
+<p>Comments URL: <...*
+  📅 Sun, 13 Sep 2026 14:00:44 +0000
 
-- **[A wandering black hole caught feeding on the run](https://phys.org/news/2026-08-black-hole-caught.html)**
-  *<p>Article URL: <a href="https://phys.org/news/2026-08-black-hole-caught.html">https://phys.org/news/2026-08-black-hole-caught.html</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?...*
-  📅 Sun, 13 Sep 2026 03:34:53 +0000
+- **[Paul A. M. Dirac, Interview by Friedrich Hund (1982) [video]](https://www.youtube.com/watch?v=xJzrU38pGWc)**
+  *<p>Article URL: <a href="https://www.youtube.com/watch?v=xJzrU38pGWc">https://www.youtube.com/watch?v=xJzrU38pGWc</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49684042">https...*
+  📅 Sun, 13 Sep 2026 13:54:25 +0000
 
-- **[A succession crisis that tore England apart (2023)](https://www.historytoday.com/archive/feature/succession-crisis-tore-england-apart)**
-  *<p>Article URL: <a href="https://www.historytoday.com/archive/feature/succession-crisis-tore-england-apart">https://www.historytoday.com/archive/feature/succession-crisis-tore-england-apart</a></p>
-<p...*
-  📅 Sun, 13 Sep 2026 03:18:29 +0000
+- **[Your car is selling your data](https://www.theverge.com/column/994172/your-car-is-selling-your-data)**
+  *<p>Article URL: <a href="https://www.theverge.com/column/994172/your-car-is-selling-your-data">https://www.theverge.com/column/994172/your-car-is-selling-your-data</a></p>
+<p>Comments URL: <a href="ht...*
+  📅 Sun, 13 Sep 2026 13:45:08 +0000
 
-- **[Aligned to whom?](https://hyperbo.la/w/aligned-to-whom/)**
-  *<p>Article URL: <a href="https://hyperbo.la/w/aligned-to-whom/">https://hyperbo.la/w/aligned-to-whom/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49679643">https://news.ycom...*
-  📅 Sun, 13 Sep 2026 03:17:18 +0000
+- **[Flock worker calls police on reporter filming public camera installation](https://www.investigatetv.com/2026/09/08/flock-worker-calls-police-investigatetv-reporter-filming-public-camera-installation/)**
+  *<p>Article URL: <a href="https://www.investigatetv.com/2026/09/08/flock-worker-calls-police-investigatetv-reporter-filming-public-camera-installation/">https://www.investigatetv.com/2026/09/08/flock-w...*
+  📅 Sun, 13 Sep 2026 13:35:31 +0000
 
 ### 📑 TechCrunch
+
+- **[Fusion power startups find new partners in the defense world](https://techcrunch.com/2026/09/13/fusion-power-startups-find-new-partners-in-the-defense-world/)**
+  *Fusion startups are inking defense-related deals, reigniting the relationship between fusion and national security that might have gone dormant, but never completely disappeared....*
+  📅 Sun, 13 Sep 2026 13:15:00 +0000
 
 - **[Automattic confirms Mullenweg has returned as CEO after attempted ouster by board](https://techcrunch.com/2026/09/12/automattic-confirms-mullenweg-has-returned-as-ceo-after-attempted-ouster-by-board/)**
   *Automattic says Mullenweg is back as "chairman and CEO of Automattic, with full support of the board."...*
@@ -98,20 +99,19 @@
   *Revolut said it notified affected customers and alerted the relevant government agency, law enforcement, and financial regulators....*
   📅 Sat, 12 Sep 2026 14:40:00 +0000
 
-- **[Mecka AI nears $500M valuation in Sequoia-led deal amid rush for robot training data](https://techcrunch.com/2026/09/11/mecka-ai-nears-500m-valuation-in-sequoia-led-deal-amid-rush-for-robot-training-data/)**
-  *The round for the two-year-old startup is coming together months after Mecka announced its Series A....*
-  📅 Fri, 11 Sep 2026 22:58:17 +0000
-
 ### 📑 Dev.to
 
-- **[Nightmare on Linux ST](https://dev.to/njkeltner77/nightmare-on-linux-st-586)**
-  *<p><a class="article-body-image-wrapper" href="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/..."><img alt="Uploading image" height="400" src="h...*
-  📅 Sun, 13 Sep 2026 10:41:13 +0000
+- **[My check ran green every time and its result could never reach the thing that needed it](https://dev.to/mahirhir/my-check-ran-green-every-time-and-its-result-could-never-reach-the-thing-that-needed-it-30i4)**
+  *<p>An acceptance report reads one cell per unit. For weeks it read the same thing on every single unit:<br />
+</p>
 
-- **[Python - Functions: Defining, Calling, Parameters, Return Values & Scope](https://dev.to/maryngure/python-functions-defining-calling-parameters-return-values-scope-3b78)**
-  *<p>Functions are one of the first "real" programming concepts you hit in Python, and they're also one of the most important.<br />
-Once you understand how to package logic into a function, you stop re...*
-  📅 Sun, 13 Sep 2026 10:39:04 +0000
+<div class="highlight js-code-highlight">
+<pre class="highlight plaintext"><code>acc...*
+  📅 Sun, 13 Sep 2026 15:07:02 +0000
+
+- **[Se acabó el limite de los 15 minutos: un análisis a fondo del tiempo de espera de 90 minutos de AWS Lambda](https://dev.to/kevinlupera/se-acabo-el-limite-de-los-15-minutos-un-analisis-a-fondo-del-tiempo-de-espera-de-90-minutos-de-aws-5h8b)**
+  *<p>Hace 4 días vi un anuncio que me parecio muy interesante es que ya se incremento 6x el timeout de las funciones Lambda de AWS con origen de eventos (ESM) en instancias administradas (LMI), lo cual ...*
+  📅 Sun, 13 Sep 2026 15:04:02 +0000
 
 </details>
 
@@ -119,69 +119,69 @@ Once you understand how to package logic into a function, you stop re...*
 
 ### 📈 Daily Trending
 
+- **[MiaAI-Lab/DeepSeek-v4.1-Flash-EXL3-2x-DGX-Sparks](https://github.com/MiaAI-Lab/DeepSeek-v4.1-Flash-EXL3-2x-DGX-Sparks)** ⭐ 53
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  DeepSeek v4.1 Flash EXL3 2.9 bpw for 2x DGX Sparks
+
 - **[romanj-io99y5/marvel-performance-kit-2026](https://github.com/romanj-io99y5/marvel-performance-kit-2026)** ⭐ 45
   ![Python](https://img.shields.io/badge/-Python-blue)
   A Python-based utility for monitoring and optimizing system resources during gameplay. It helps users manage background processes to maintain consistent frame rates on Windows systems.
 
-- **[kevincox2/facebook-reporting](https://github.com/kevincox2/facebook-reporting)** ⭐ 26
-  ![None](https://img.shields.io/badge/-None-lightgrey)
-  Bots are automated tools designed to streamline the process of submitting reports on FaceBook accounts that may violate the platform’s Community Guidelines. They can assist with reporting issues such as spam, report reporter mass acc ban bot page group impersonation, fake profile account, or other policy violations. Depending on their functionality
-
-- **[zorrobyte/asset-studio](https://github.com/zorrobyte/asset-studio)** ⭐ 22
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  Fully local, agent-callable text-to-3D game asset pipeline: Qwen-Image-2512 -> Pixal3D (TRELLIS.2) -> Blender/meshoptimizer, FastAPI + CLI + MCP, Docker Desktop, RTX 5090
-
-- **[wangmumu311/PMS_delivery](https://github.com/wangmumu311/PMS_delivery)** ⭐ 22
-  ![HTML](https://img.shields.io/badge/-HTML-lightgrey)
-  None
-
-- **[ivyfan-toowell/IvyClaw](https://github.com/ivyfan-toowell/IvyClaw)** ⭐ 21
+- **[ivyfan-toowell/IvyClaw](https://github.com/ivyfan-toowell/IvyClaw)** ⭐ 45
   ![Python](https://img.shields.io/badge/-Python-blue)
   A production-oriented multi-agent AI Agent system for software engineering.  |   面向软件研发任务的多智能体 AI Agent 工程系统
 
-- **[MiaAI-Lab/DeepSeek-v4.1-Flash-EXL3-2x-DGX-Sparks](https://github.com/MiaAI-Lab/DeepSeek-v4.1-Flash-EXL3-2x-DGX-Sparks)** ⭐ 21
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  DeepSeek v4.1 Flash EXL3 2.9 bpw for 2x DGX Sparks
+- **[wangmumu311/PMS_delivery](https://github.com/wangmumu311/PMS_delivery)** ⭐ 45
+  ![HTML](https://img.shields.io/badge/-HTML-lightgrey)
+  None
 
-- **[Joyful-bh/taichi-path-tracer-from-buaa-cg2024](https://github.com/Joyful-bh/taichi-path-tracer-from-buaa-cg2024)** ⭐ 16
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  GPU-accelerated Monte Carlo path tracer built with Python and Taichi, featuring BVH, PBR materials, MIS, AOVs and OIDN. 基于2024北航计算机图形学（CG）大作业重构而来，希望能帮助更多的人感受计算机图形学的奇妙。
-
-- **[Dr-TSNG/altdb](https://github.com/Dr-TSNG/altdb)** ⭐ 15
+- **[Dr-TSNG/altdb](https://github.com/Dr-TSNG/altdb)** ⭐ 42
   ![Rust](https://img.shields.io/badge/-Rust-brown)
   A KernelSU module that provides alternative adb server over local network
 
+- **[00200200/repro-lens](https://github.com/00200200/repro-lens)** ⭐ 38
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  Reproducibility checks for ML and coding agents. Scan code, replay experiments and compare outputs before and after a change.
+
+- **[00200200/maintainer-skills-lab](https://github.com/00200200/maintainer-skills-lab)** ⭐ 37
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  Humanizer, maintainer skills and opt-in Git hooks for coding agents, plus Skill Watch for tracking documentation changes.
+
+- **[lidge-jun/aside-codemode](https://github.com/lidge-jun/aside-codemode)** ⭐ 31
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
+  None
+
 ### 📈 Weekly Trending
 
-- **[sdli1995/dlssg_for_sm86](https://github.com/sdli1995/dlssg_for_sm86)** ⭐ 2,294
+- **[sdli1995/dlssg_for_sm86](https://github.com/sdli1995/dlssg_for_sm86)** ⭐ 2,357
   ![None](https://img.shields.io/badge/-None-lightgrey)
   Here is a dlssg for RTX30 Series GPU 
 
-- **[openai/NavierStokesAndEuler](https://github.com/openai/NavierStokesAndEuler)** ⭐ 1,844
+- **[openai/NavierStokesAndEuler](https://github.com/openai/NavierStokesAndEuler)** ⭐ 1,853
   ![Lean](https://img.shields.io/badge/-Lean-lightgrey)
   Lean certificates accompanying Navier-Stokes and Euler results
 
-- **[Edge0-AI/Edge0](https://github.com/Edge0-AI/Edge0)** ⭐ 1,513
+- **[Edge0-AI/Edge0](https://github.com/Edge0-AI/Edge0)** ⭐ 1,547
   ![Python](https://img.shields.io/badge/-Python-blue)
   None
 
-- **[EverettFish/holo-card-studio](https://github.com/EverettFish/holo-card-studio)** ⭐ 1,485
+- **[EverettFish/holo-card-studio](https://github.com/EverettFish/holo-card-studio)** ⭐ 1,493
   ![Python](https://img.shields.io/badge/-Python-blue)
   Turn the user's description or uploaded reference into a finished, editable Blender card and an interactive Three.js page. Preserve the requested subject, style, typography and destination. This skill contains code and text only; generated artwork belongs in the user's output project.
 
-- **[Vincentwei1021/anything2explainer](https://github.com/Vincentwei1021/anything2explainer)** ⭐ 1,123
+- **[Vincentwei1021/anything2explainer](https://github.com/Vincentwei1021/anything2explainer)** ⭐ 1,142
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   Topic in, narrated explainer video out. A Claude Code / Codex skill that turns any topic into a black-canvas motion-graphics explainer video with TTS voiceover, subtitles and a chapter progress bar. Chinese or English; every frame drawn in code with Remotion.
 
-- **[achimala/dream-loop](https://github.com/achimala/dream-loop)** ⭐ 935
+- **[achimala/dream-loop](https://github.com/achimala/dream-loop)** ⭐ 946
   ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
   Agent skill for impressive 3D visuals using Blender + image gen + subagent critic
 
-- **[gazijarin/itsgiving](https://github.com/gazijarin/itsgiving)** ⭐ 801
+- **[gazijarin/itsgiving](https://github.com/gazijarin/itsgiving)** ⭐ 809
   ![Python](https://img.shields.io/badge/-Python-blue)
   Express yourself in meetings (with memes, of course).
 
-- **[sumimakito/Mac-Duo](https://github.com/sumimakito/Mac-Duo)** ⭐ 742
+- **[sumimakito/Mac-Duo](https://github.com/sumimakito/Mac-Duo)** ⭐ 768
   ![Swift](https://img.shields.io/badge/-Swift-lightgrey)
   Wish you could bring the iPhone Duo effect to your MacBook?
 
@@ -191,31 +191,31 @@ Once you understand how to package logic into a function, you stop re...*
   ![Python](https://img.shields.io/badge/-Python-blue)
   Autonomous research system for measurable, computer-executable research.
 
-- **[lnkiai/m3e-canvas](https://github.com/lnkiai/m3e-canvas)** ⭐ 6,396
+- **[lnkiai/m3e-canvas](https://github.com/lnkiai/m3e-canvas)** ⭐ 6,451
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   Sketch Material 3 Expressive screens in the browser and turn them into vibe-coding prompts.
 
-- **[MengTo/threeui](https://github.com/MengTo/threeui)** ⭐ 5,693
+- **[MengTo/threeui](https://github.com/MengTo/threeui)** ⭐ 5,703
   ![HTML](https://img.shields.io/badge/-HTML-lightgrey)
   Open-source ThreeUI Community catalog with live interactive components and complete Community source.
 
-- **[s1dashu/ip-as-logo-skill](https://github.com/s1dashu/ip-as-logo-skill)** ⭐ 5,197
+- **[s1dashu/ip-as-logo-skill](https://github.com/s1dashu/ip-as-logo-skill)** ⭐ 5,200
   ![None](https://img.shields.io/badge/-None-lightgrey)
   A compact Agent Skill for highly simplified, rounded, subtly neo-skeuomorphic IP mascot logos.
 
-- **[CopilotKit/OpenBot](https://github.com/CopilotKit/OpenBot)** ⭐ 4,835
+- **[CopilotKit/OpenBot](https://github.com/CopilotKit/OpenBot)** ⭐ 4,839
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   Open-source AI coworkers that each get a computer of their own: a browser, files and tools, with every action decided before it happens and recorded after. Bring any AG-UI agent.
 
-- **[amagine-ai/Amagine3D](https://github.com/amagine-ai/Amagine3D)** ⭐ 4,400
+- **[amagine-ai/Amagine3D](https://github.com/amagine-ai/Amagine3D)** ⭐ 4,434
   ![Python](https://img.shields.io/badge/-Python-blue)
   Amagine3D: From hardware requirements to editable 3D designs
 
-- **[EvoMap/AutoResearch](https://github.com/EvoMap/AutoResearch)** ⭐ 4,265
+- **[EvoMap/AutoResearch](https://github.com/EvoMap/AutoResearch)** ⭐ 4,293
   ![Python](https://img.shields.io/badge/-Python-blue)
   AI/ML research agents from idea to paper-ready evidence. An EvoMap open-source project.
 
-- **[XiaoDuoYa/codex-with-chatgpt](https://github.com/XiaoDuoYa/codex-with-chatgpt)** ⭐ 4,152
+- **[XiaoDuoYa/codex-with-chatgpt](https://github.com/XiaoDuoYa/codex-with-chatgpt)** ⭐ 4,166
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   ChatGPT thinks. Codex works. Use ChatGPT as the planning brain while keeping the Codex harness.
 
@@ -487,58 +487,58 @@ See [kubernetes-announce@](https://groups.google.com/forum/#!forum/kubernetes-an
 
 | Skill | Status |
 |-------|--------|
-| Java | 🟢 Proficient |
-| Python | 🟢 Proficient |
-| JavaScript | ⚪ Planned |
+| Java | 🟡 Learning |
+| Python | 🔴 Beginner |
+| JavaScript | 🔴 Beginner |
 | TypeScript | 🟡 Learning |
-| Go | 🟡 Learning |
+| Go | 🟢 Proficient |
 
 ### Frameworks
 
 | Skill | Status |
 |-------|--------|
-| React | 🟢 Proficient |
-| Spring Boot | 🟢 Proficient |
-| Django | 🟡 Learning |
-| Node.js | ⚪ Planned |
-| Next.js | ⚪ Planned |
+| React | ⚪ Planned |
+| Spring Boot | ⚪ Planned |
+| Django | ⚪ Planned |
+| Node.js | 🟡 Learning |
+| Next.js | 🟡 Learning |
 
 ### Cybersecurity
 
 | Skill | Status |
 |-------|--------|
-| Penetration Testing | 🔴 Beginner |
-| Web Security | 🔴 Beginner |
-| Network Security | 🟡 Learning |
-| OWASP | 🔴 Beginner |
+| Penetration Testing | 🟢 Proficient |
+| Web Security | 🟢 Proficient |
+| Network Security | ⚪ Planned |
+| OWASP | ⚪ Planned |
 
 ### Ai Ml
 
 | Skill | Status |
 |-------|--------|
 | Machine Learning | ⚪ Planned |
-| Deep Learning | 🟢 Proficient |
-| NLP | 🔴 Beginner |
-| Computer Vision | ⚪ Planned |
-| TensorFlow | 🔴 Beginner |
-| PyTorch | 🔴 Beginner |
+| Deep Learning | 🟡 Learning |
+| NLP | 🟢 Proficient |
+| Computer Vision | 🔴 Beginner |
+| TensorFlow | 🟡 Learning |
+| PyTorch | 🟡 Learning |
 
 ### Devops
 
 | Skill | Status |
 |-------|--------|
-| Docker | 🔴 Beginner |
-| Kubernetes | 🔴 Beginner |
-| CI/CD | ⚪ Planned |
-| AWS | 🟢 Proficient |
-| Azure | 🟡 Learning |
+| Docker | 🟢 Proficient |
+| Kubernetes | 🟡 Learning |
+| CI/CD | 🟢 Proficient |
+| AWS | 🔴 Beginner |
+| Azure | ⚪ Planned |
 
 ### Other
 
 | Skill | Status |
 |-------|--------|
-| Blockchain | 🔴 Beginner |
-| Web3 | 🟢 Proficient |
+| Blockchain | 🟡 Learning |
+| Web3 | ⚪ Planned |
 | Cloud Computing | 🟢 Proficient |
 
 </details>
