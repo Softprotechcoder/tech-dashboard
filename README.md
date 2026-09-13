@@ -46,32 +46,35 @@
 
 ### 📑 Hacker News
 
-- **[Scientists Create a New Form of Ice at More Than 2000°C](https://www.sciencealert.com/scientists-create-a-new-form-of-ice-at-more-than-2000-c)**
-  *<p>Article URL: <a href="https://www.sciencealert.com/scientists-create-a-new-form-of-ice-at-more-than-2000-c">https://www.sciencealert.com/scientists-create-a-new-form-of-ice-at-more-than-2000-c</a><...*
-  📅 Sun, 13 Sep 2026 01:12:04 +0000
+- **[Norton Neo Browser](https://neobrowser.ai/)**
+  *<p>Article URL: <a href="https://neobrowser.ai/">https://neobrowser.ai/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49681724">https://news.ycombinator.com/item?id=49681724</...*
+  📅 Sun, 13 Sep 2026 09:07:59 +0000
 
-- **[Align AI and Mathematics–To Something Else](https://liorpachter.wordpress.com/2026/09/12/align-ai-and-mathematics-to-something-else/)**
-  *<p>Article URL: <a href="https://liorpachter.wordpress.com/2026/09/12/align-ai-and-mathematics-to-something-else/">https://liorpachter.wordpress.com/2026/09/12/align-ai-and-mathematics-to-something-el...*
-  📅 Sun, 13 Sep 2026 00:47:48 +0000
+- **[Homebrew 7.0.0](https://brew.sh/2026/09/13/homebrew-7.0.0/)**
+  *<p>Article URL: <a href="https://brew.sh/2026/09/13/homebrew-7.0.0/">https://brew.sh/2026/09/13/homebrew-7.0.0/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49681545">https:/...*
+  📅 Sun, 13 Sep 2026 08:41:17 +0000
 
-- **[Everyone should slow down AI development except for me](https://xeiaso.net/notes/2026/everyone-slowdown-but-me/)**
-  *<p>Article URL: <a href="https://xeiaso.net/notes/2026/everyone-slowdown-but-me/">https://xeiaso.net/notes/2026/everyone-slowdown-but-me/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com...*
-  📅 Sun, 13 Sep 2026 00:30:44 +0000
+- **[JetKVM Mini](https://jetkvm.com/blog/introducing-jetkvm-mini)**
+  *<p>Article URL: <a href="https://jetkvm.com/blog/introducing-jetkvm-mini">https://jetkvm.com/blog/introducing-jetkvm-mini</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=4968115...*
+  📅 Sun, 13 Sep 2026 07:49:46 +0000
 
-- **[Recurrent Looped Transformer](https://yifanzhang-pro.github.io/recurrent-looped-tranformer/)**
-  *<p>Article URL: <a href="https://yifanzhang-pro.github.io/recurrent-looped-tranformer/">https://yifanzhang-pro.github.io/recurrent-looped-tranformer/</a></p>
-<p>Comments URL: <a href="https://news.yco...*
-  📅 Sun, 13 Sep 2026 00:05:22 +0000
+- **[A wandering black hole caught feeding on the run](https://phys.org/news/2026-08-black-hole-caught.html)**
+  *<p>Article URL: <a href="https://phys.org/news/2026-08-black-hole-caught.html">https://phys.org/news/2026-08-black-hole-caught.html</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?...*
+  📅 Sun, 13 Sep 2026 03:34:53 +0000
 
-- **[AgentsDock: An IDE designed for agentic AI research](https://agentsdock.net/)**
-  *<p>Article URL: <a href="https://agentsdock.net/">https://agentsdock.net/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49678435">https://news.ycombinator.com/item?id=49678435...*
-  📅 Sat, 12 Sep 2026 23:45:58 +0000
+- **[A succession crisis that tore England apart (2023)](https://www.historytoday.com/archive/feature/succession-crisis-tore-england-apart)**
+  *<p>Article URL: <a href="https://www.historytoday.com/archive/feature/succession-crisis-tore-england-apart">https://www.historytoday.com/archive/feature/succession-crisis-tore-england-apart</a></p>
+<p...*
+  📅 Sun, 13 Sep 2026 03:18:29 +0000
 
-- **[No Atlantic hurricanes by Sept. 12 breaks a 60-year record](https://www.accuweather.com/en/hurricane/no-atlantic-hurricanes-by-sept-12-breaks-a-60-year-record/1932278)**
-  *<p>Article URL: <a href="https://www.accuweather.com/en/hurricane/no-atlantic-hurricanes-by-sept-12-breaks-a-60-year-record/1932278">https://www.accuweather.com/en/hurricane/no-atlantic-hurricanes-by-...*
-  📅 Sat, 12 Sep 2026 23:44:44 +0000
+- **[Aligned to whom?](https://hyperbo.la/w/aligned-to-whom/)**
+  *<p>Article URL: <a href="https://hyperbo.la/w/aligned-to-whom/">https://hyperbo.la/w/aligned-to-whom/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49679643">https://news.ycom...*
+  📅 Sun, 13 Sep 2026 03:17:18 +0000
 
 ### 📑 TechCrunch
 
@@ -101,21 +104,14 @@
 
 ### 📑 Dev.to
 
-- **[AI เขียนโค้ด AI ตรวจโค้ดด้วย, จุดบอดที่ OpenAI ยังตอบไม่ได้](https://dev.to/sarantoon/ai-ekhiiynokhd-ai-trwcchokhddwy-cchudbdthii-openai-yangtbaimaid-3gd7)**
-  *<h1>
-  
-  
-  AI เขียนโค้ด AI ตรวจโค้ดด้วย, จุดบอดที่ OpenAI ยังตอบไม่ได้
-</h1>
+- **[Nightmare on Linux ST](https://dev.to/njkeltner77/nightmare-on-linux-st-586)**
+  *<p><a class="article-body-image-wrapper" href="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/..."><img alt="Uploading image" height="400" src="h...*
+  📅 Sun, 13 Sep 2026 10:41:13 +0000
 
-<p><em>โดย Nokka (นก-กา) | 12 กันยายน 2026</em></p>
-
-<p><em>บทความนี้เขียนโดย AI (deepseek-v4.1-flash) ผ่าน Hermes Agent...*
-  📅 Sun, 13 Sep 2026 02:06:48 +0000
-
-- **[Recursive CTEs: How SQL Secretly Learned to Loop](https://dev.to/rahmanfrr/recursive-ctes-how-sql-secretly-learned-to-loop-457f)**
-  *<p>Ask a SQL query to find "all employees under this manager," and things get ugly fast if you don't know how many levels deep the org chart goes. A regular join handles one level. Two joins handle tw...*
-  📅 Sun, 13 Sep 2026 02:06:19 +0000
+- **[Python - Functions: Defining, Calling, Parameters, Return Values & Scope](https://dev.to/maryngure/python-functions-defining-calling-parameters-return-values-scope-3b78)**
+  *<p>Functions are one of the first "real" programming concepts you hit in Python, and they're also one of the most important.<br />
+Once you understand how to package logic into a function, you stop re...*
+  📅 Sun, 13 Sep 2026 10:39:04 +0000
 
 </details>
 
@@ -123,103 +119,103 @@
 
 ### 📈 Daily Trending
 
-- **[kevincox2/facebook-reporting](https://github.com/kevincox2/facebook-reporting)** ⭐ 22
+- **[romanj-io99y5/marvel-performance-kit-2026](https://github.com/romanj-io99y5/marvel-performance-kit-2026)** ⭐ 45
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  A Python-based utility for monitoring and optimizing system resources during gameplay. It helps users manage background processes to maintain consistent frame rates on Windows systems.
+
+- **[kevincox2/facebook-reporting](https://github.com/kevincox2/facebook-reporting)** ⭐ 26
   ![None](https://img.shields.io/badge/-None-lightgrey)
   Bots are automated tools designed to streamline the process of submitting reports on FaceBook accounts that may violate the platform’s Community Guidelines. They can assist with reporting issues such as spam, report reporter mass acc ban bot page group impersonation, fake profile account, or other policy violations. Depending on their functionality
 
-- **[Monkkim/agent2-new](https://github.com/Monkkim/agent2-new)** ⭐ 11
-  ![None](https://img.shields.io/badge/-None-lightgrey)
-  None
-
-- **[varse-lang/varse](https://github.com/varse-lang/varse)** ⭐ 4
-  ![Assembly](https://img.shields.io/badge/-Assembly-lightgrey)
-  Varse, A fast low level language.
-
-- **[zorrobyte/asset-studio](https://github.com/zorrobyte/asset-studio)** ⭐ 4
+- **[zorrobyte/asset-studio](https://github.com/zorrobyte/asset-studio)** ⭐ 22
   ![Python](https://img.shields.io/badge/-Python-blue)
   Fully local, agent-callable text-to-3D game asset pipeline: Qwen-Image-2512 -> Pixal3D (TRELLIS.2) -> Blender/meshoptimizer, FastAPI + CLI + MCP, Docker Desktop, RTX 5090
 
-- **[lordnikky/Roblox-Offset-Guides-for-educational-purposes](https://github.com/lordnikky/Roblox-Offset-Guides-for-educational-purposes)** ⭐ 3
-  ![None](https://img.shields.io/badge/-None-lightgrey)
-  Roblox Offset Guides, STRICTLY for educational purposes, author does not support roblox exploits and this is made purely for people to see how internal functions work.
-
-- **[claramiller97/pipeline-smoke-test](https://github.com/claramiller97/pipeline-smoke-test)** ⭐ 3
-  ![None](https://img.shields.io/badge/-None-lightgrey)
+- **[wangmumu311/PMS_delivery](https://github.com/wangmumu311/PMS_delivery)** ⭐ 22
+  ![HTML](https://img.shields.io/badge/-HTML-lightgrey)
   None
 
-- **[mowglixx/linux-parental-controls](https://github.com/mowglixx/linux-parental-controls)** ⭐ 3
-  ![Shell](https://img.shields.io/badge/-Shell-lightgrey)
-  Just a simple systemd unit to log off the kids at 22:00 until 06:30
-
-- **[w3rau1/LocalDoors](https://github.com/w3rau1/LocalDoors)** ⭐ 2
+- **[ivyfan-toowell/IvyClaw](https://github.com/ivyfan-toowell/IvyClaw)** ⭐ 21
   ![Python](https://img.shields.io/badge/-Python-blue)
-  None
+  A production-oriented multi-agent AI Agent system for software engineering.  |   面向软件研发任务的多智能体 AI Agent 工程系统
+
+- **[MiaAI-Lab/DeepSeek-v4.1-Flash-EXL3-2x-DGX-Sparks](https://github.com/MiaAI-Lab/DeepSeek-v4.1-Flash-EXL3-2x-DGX-Sparks)** ⭐ 21
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  DeepSeek v4.1 Flash EXL3 2.9 bpw for 2x DGX Sparks
+
+- **[Joyful-bh/taichi-path-tracer-from-buaa-cg2024](https://github.com/Joyful-bh/taichi-path-tracer-from-buaa-cg2024)** ⭐ 16
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  GPU-accelerated Monte Carlo path tracer built with Python and Taichi, featuring BVH, PBR materials, MIS, AOVs and OIDN. 基于2024北航计算机图形学（CG）大作业重构而来，希望能帮助更多的人感受计算机图形学的奇妙。
+
+- **[Dr-TSNG/altdb](https://github.com/Dr-TSNG/altdb)** ⭐ 15
+  ![Rust](https://img.shields.io/badge/-Rust-brown)
+  A KernelSU module that provides alternative adb server over local network
 
 ### 📈 Weekly Trending
 
-- **[sdli1995/dlssg_for_sm86](https://github.com/sdli1995/dlssg_for_sm86)** ⭐ 2,196
+- **[sdli1995/dlssg_for_sm86](https://github.com/sdli1995/dlssg_for_sm86)** ⭐ 2,294
   ![None](https://img.shields.io/badge/-None-lightgrey)
   Here is a dlssg for RTX30 Series GPU 
 
-- **[openai/NavierStokesAndEuler](https://github.com/openai/NavierStokesAndEuler)** ⭐ 1,829
+- **[openai/NavierStokesAndEuler](https://github.com/openai/NavierStokesAndEuler)** ⭐ 1,844
   ![Lean](https://img.shields.io/badge/-Lean-lightgrey)
   Lean certificates accompanying Navier-Stokes and Euler results
 
-- **[EverettFish/holo-card-studio](https://github.com/EverettFish/holo-card-studio)** ⭐ 1,470
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  Turn the user's description or uploaded reference into a finished, editable Blender card and an interactive Three.js page. Preserve the requested subject, style, typography and destination. This skill contains code and text only; generated artwork belongs in the user's output project.
-
-- **[Edge0-AI/Edge0](https://github.com/Edge0-AI/Edge0)** ⭐ 1,450
+- **[Edge0-AI/Edge0](https://github.com/Edge0-AI/Edge0)** ⭐ 1,513
   ![Python](https://img.shields.io/badge/-Python-blue)
   None
 
-- **[Vincentwei1021/anything2explainer](https://github.com/Vincentwei1021/anything2explainer)** ⭐ 1,075
+- **[EverettFish/holo-card-studio](https://github.com/EverettFish/holo-card-studio)** ⭐ 1,485
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  Turn the user's description or uploaded reference into a finished, editable Blender card and an interactive Three.js page. Preserve the requested subject, style, typography and destination. This skill contains code and text only; generated artwork belongs in the user's output project.
+
+- **[Vincentwei1021/anything2explainer](https://github.com/Vincentwei1021/anything2explainer)** ⭐ 1,123
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   Topic in, narrated explainer video out. A Claude Code / Codex skill that turns any topic into a black-canvas motion-graphics explainer video with TTS voiceover, subtitles and a chapter progress bar. Chinese or English; every frame drawn in code with Remotion.
 
-- **[achimala/dream-loop](https://github.com/achimala/dream-loop)** ⭐ 922
+- **[achimala/dream-loop](https://github.com/achimala/dream-loop)** ⭐ 935
   ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
   Agent skill for impressive 3D visuals using Blender + image gen + subagent critic
 
-- **[gazijarin/itsgiving](https://github.com/gazijarin/itsgiving)** ⭐ 791
+- **[gazijarin/itsgiving](https://github.com/gazijarin/itsgiving)** ⭐ 801
   ![Python](https://img.shields.io/badge/-Python-blue)
   Express yourself in meetings (with memes, of course).
 
-- **[sumimakito/Mac-Duo](https://github.com/sumimakito/Mac-Duo)** ⭐ 694
+- **[sumimakito/Mac-Duo](https://github.com/sumimakito/Mac-Duo)** ⭐ 742
   ![Swift](https://img.shields.io/badge/-Swift-lightgrey)
   Wish you could bring the iPhone Duo effect to your MacBook?
 
 ### 📈 Monthly Trending
 
-- **[sapientinc/PRAXIST](https://github.com/sapientinc/PRAXIST)** ⭐ 6,695
+- **[sapientinc/PRAXIST](https://github.com/sapientinc/PRAXIST)** ⭐ 6,711
   ![Python](https://img.shields.io/badge/-Python-blue)
   Autonomous research system for measurable, computer-executable research.
 
-- **[lnkiai/m3e-canvas](https://github.com/lnkiai/m3e-canvas)** ⭐ 6,335
+- **[lnkiai/m3e-canvas](https://github.com/lnkiai/m3e-canvas)** ⭐ 6,396
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   Sketch Material 3 Expressive screens in the browser and turn them into vibe-coding prompts.
 
-- **[MengTo/threeui](https://github.com/MengTo/threeui)** ⭐ 5,675
+- **[MengTo/threeui](https://github.com/MengTo/threeui)** ⭐ 5,693
   ![HTML](https://img.shields.io/badge/-HTML-lightgrey)
   Open-source ThreeUI Community catalog with live interactive components and complete Community source.
 
-- **[s1dashu/ip-as-logo-skill](https://github.com/s1dashu/ip-as-logo-skill)** ⭐ 5,184
+- **[s1dashu/ip-as-logo-skill](https://github.com/s1dashu/ip-as-logo-skill)** ⭐ 5,197
   ![None](https://img.shields.io/badge/-None-lightgrey)
   A compact Agent Skill for highly simplified, rounded, subtly neo-skeuomorphic IP mascot logos.
 
-- **[CopilotKit/OpenBot](https://github.com/CopilotKit/OpenBot)** ⭐ 4,822
+- **[CopilotKit/OpenBot](https://github.com/CopilotKit/OpenBot)** ⭐ 4,835
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   Open-source AI coworkers that each get a computer of their own: a browser, files and tools, with every action decided before it happens and recorded after. Bring any AG-UI agent.
 
-- **[amagine-ai/Amagine3D](https://github.com/amagine-ai/Amagine3D)** ⭐ 4,320
+- **[amagine-ai/Amagine3D](https://github.com/amagine-ai/Amagine3D)** ⭐ 4,400
   ![Python](https://img.shields.io/badge/-Python-blue)
   Amagine3D: From hardware requirements to editable 3D designs
 
-- **[EvoMap/AutoResearch](https://github.com/EvoMap/AutoResearch)** ⭐ 4,184
+- **[EvoMap/AutoResearch](https://github.com/EvoMap/AutoResearch)** ⭐ 4,265
   ![Python](https://img.shields.io/badge/-Python-blue)
   AI/ML research agents from idea to paper-ready evidence. An EvoMap open-source project.
 
-- **[XiaoDuoYa/codex-with-chatgpt](https://github.com/XiaoDuoYa/codex-with-chatgpt)** ⭐ 4,122
+- **[XiaoDuoYa/codex-with-chatgpt](https://github.com/XiaoDuoYa/codex-with-chatgpt)** ⭐ 4,152
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   ChatGPT thinks. Codex works. Use ChatGPT as the planning brain while keeping the Codex harness.
 
@@ -491,27 +487,27 @@ See [kubernetes-announce@](https://groups.google.com/forum/#!forum/kubernetes-an
 
 | Skill | Status |
 |-------|--------|
-| Java | 🔴 Beginner |
-| Python | 🔴 Beginner |
-| JavaScript | 🟢 Proficient |
-| TypeScript | 🔴 Beginner |
+| Java | 🟢 Proficient |
+| Python | 🟢 Proficient |
+| JavaScript | ⚪ Planned |
+| TypeScript | 🟡 Learning |
 | Go | 🟡 Learning |
 
 ### Frameworks
 
 | Skill | Status |
 |-------|--------|
-| React | ⚪ Planned |
-| Spring Boot | 🔴 Beginner |
-| Django | 🟢 Proficient |
-| Node.js | 🟡 Learning |
-| Next.js | 🟢 Proficient |
+| React | 🟢 Proficient |
+| Spring Boot | 🟢 Proficient |
+| Django | 🟡 Learning |
+| Node.js | ⚪ Planned |
+| Next.js | ⚪ Planned |
 
 ### Cybersecurity
 
 | Skill | Status |
 |-------|--------|
-| Penetration Testing | 🟡 Learning |
+| Penetration Testing | 🔴 Beginner |
 | Web Security | 🔴 Beginner |
 | Network Security | 🟡 Learning |
 | OWASP | 🔴 Beginner |
@@ -521,28 +517,28 @@ See [kubernetes-announce@](https://groups.google.com/forum/#!forum/kubernetes-an
 | Skill | Status |
 |-------|--------|
 | Machine Learning | ⚪ Planned |
-| Deep Learning | 🔴 Beginner |
-| NLP | 🟡 Learning |
-| Computer Vision | 🟢 Proficient |
-| TensorFlow | 🟡 Learning |
-| PyTorch | 🟢 Proficient |
+| Deep Learning | 🟢 Proficient |
+| NLP | 🔴 Beginner |
+| Computer Vision | ⚪ Planned |
+| TensorFlow | 🔴 Beginner |
+| PyTorch | 🔴 Beginner |
 
 ### Devops
 
 | Skill | Status |
 |-------|--------|
-| Docker | 🟢 Proficient |
-| Kubernetes | 🟡 Learning |
-| CI/CD | 🔴 Beginner |
-| AWS | ⚪ Planned |
-| Azure | 🔴 Beginner |
+| Docker | 🔴 Beginner |
+| Kubernetes | 🔴 Beginner |
+| CI/CD | ⚪ Planned |
+| AWS | 🟢 Proficient |
+| Azure | 🟡 Learning |
 
 ### Other
 
 | Skill | Status |
 |-------|--------|
 | Blockchain | 🔴 Beginner |
-| Web3 | 🟡 Learning |
+| Web3 | 🟢 Proficient |
 | Cloud Computing | 🟢 Proficient |
 
 </details>
