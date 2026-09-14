@@ -46,33 +46,36 @@
 
 ### 📑 Hacker News
 
-- **[Show HN: Is It Greg?](https://github.com/antoineleclair/is-it-greg)**
-  *<p>My friend Greg often posts incredible things he just made, just for fun.<p>Often, I don't realize that it's something HE made and then I see the URL, AND IT'S MY FRIEND, GREG!<p>A few things he mad...*
-  📅 Mon, 14 Sep 2026 01:58:41 +0000
+- **[A 386 PC for Your RP2350](https://github.com/rh1tech/frank-386)**
+  *<p>Article URL: <a href="https://github.com/rh1tech/frank-386">https://github.com/rh1tech/frank-386</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49693613">https://news.ycombi...*
+  📅 Mon, 14 Sep 2026 08:25:57 +0000
 
-- **[The case against JPEG XL](https://giannirosato.com/blog/post/case-against-jxl/)**
-  *<p>Article URL: <a href="https://giannirosato.com/blog/post/case-against-jxl/">https://giannirosato.com/blog/post/case-against-jxl/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?...*
-  📅 Mon, 14 Sep 2026 01:02:37 +0000
+- **[EuroBirdPortal – Live bird movements across Europe](https://www.eurobirdportal.org/ebp/en/)**
+  *<p>Article URL: <a href="https://www.eurobirdportal.org/ebp/en/">https://www.eurobirdportal.org/ebp/en/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49693610">https://news.yc...*
+  📅 Mon, 14 Sep 2026 08:25:47 +0000
 
-- **[AI is not a normal technology](https://12gramsofcarbon.com/p/ai-is-not-a-normal-technology)**
-  *<p>Article URL: <a href="https://12gramsofcarbon.com/p/ai-is-not-a-normal-technology">https://12gramsofcarbon.com/p/ai-is-not-a-normal-technology</a></p>
-<p>Comments URL: <a href="https://news.ycombin...*
-  📅 Mon, 14 Sep 2026 01:00:09 +0000
+- **[OpenArch – PyTorch implementations of modern LLM architectures](https://github.com/anuj0456/OpenArch)**
+  *<p>Article URL: <a href="https://github.com/anuj0456/OpenArch">https://github.com/anuj0456/OpenArch</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49693384">https://news.ycombi...*
+  📅 Mon, 14 Sep 2026 07:55:19 +0000
 
-- **[Writing a better reality: The case for optimistic sci-fi](https://honisoit.com/2022/03/writing-a-better-reality-the-case-for-optimistic-sci-fi/)**
-  *<p>Article URL: <a href="https://honisoit.com/2022/03/writing-a-better-reality-the-case-for-optimistic-sci-fi/">https://honisoit.com/2022/03/writing-a-better-reality-the-case-for-optimistic-sci-fi/</a...*
-  📅 Mon, 14 Sep 2026 00:27:11 +0000
+- **[Show HN: 1080p is 920px tall – 1k real browser viewports](https://screensize.net/reports/viewport-stats)**
+  *<p>Article URL: <a href="https://screensize.net/reports/viewport-stats">https://screensize.net/reports/viewport-stats</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49693226">h...*
+  📅 Mon, 14 Sep 2026 07:35:00 +0000
 
-- **[Open-Source AI and Open Models Reading List](https://www.interconnects.ai/p/open-source-ai-reading-list)**
-  *<p>Article URL: <a href="https://www.interconnects.ai/p/open-source-ai-reading-list">https://www.interconnects.ai/p/open-source-ai-reading-list</a></p>
-<p>Comments URL: <a href="https://news.ycombinat...*
-  📅 Mon, 14 Sep 2026 00:22:51 +0000
+- **[Nike exits the S&P 100 after 18 years and a $200B market-cap wipeout](https://fortune.com/2026/09/08/nike-stock-plummets-sp500-market-cap-index/)**
+  *<p><a href="https://archive.ph/8NmSg" rel="nofollow">https://archive.ph/8NmSg</a></p>
+<hr />
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49691343">https://news.ycombinator.com/item?...*
+  📅 Mon, 14 Sep 2026 02:50:40 +0000
 
-- **[Apple's Dimensional Drawings](https://developer.apple.com/accessories/dimensional-drawings/)**
-  *<p>Article URL: <a href="https://developer.apple.com/accessories/dimensional-drawings/">https://developer.apple.com/accessories/dimensional-drawings/</a></p>
-<p>Comments URL: <a href="https://news.yco...*
-  📅 Mon, 14 Sep 2026 00:11:21 +0000
+- **[OEMpocalypse: Unprivileged Android app to root on Samsung, Xiaomi, others](https://calif.io/research/oempocalypse)**
+  *<p>Article URL: <a href="https://calif.io/research/oempocalypse">https://calif.io/research/oempocalypse</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49691152">https://news.yc...*
+  📅 Mon, 14 Sep 2026 02:25:44 +0000
 
 ### 📑 TechCrunch
 
@@ -102,19 +105,19 @@
 
 ### 📑 Dev.to
 
-- **[Migrated Up, Then Back](https://dev.to/jeromefromhk/migrated-up-then-back-3j10)**
-  *<p>Over a few weeks I moved seven self-hosted services onto Kubernetes — ArgoCD, supply-chain policy, the whole GitOps loop — and then, on one afternoon, I moved all seven back to Docker Compose. This...*
-  📅 Mon, 14 Sep 2026 02:20:55 +0000
-
-- **[Controlling AI API Spend in a Next.js 15 Micro-SaaS with Cordis](https://dev.to/power_zhong/controlling-ai-api-spend-in-a-nextjs-15-micro-saas-with-cordis-4aac)**
-  *<h1>
+- **[How to Build High-Performance Flutter Mobile Apps (60fps Architecture Guide)](https://dev.to/abinschandran/how-to-build-high-performance-flutter-mobile-apps-60fps-architecture-guide-2b5p)**
+  *<h3>
   
   
-  Controlling AI API Spend in a Next.js 15 Micro-SaaS with Cordis
-</h1>
+  Why Mobile App Performance Matters for User Retention
+</h3>
 
-<p>At 3:17 AM on a Sunday, your credit card gets charged $1,400 because a mobile user tapped "Generate" four times o...*
-  📅 Mon, 14 Sep 2026 02:20:54 +0000
+<p>When building cross-platform mobile applications for clients worldwide, performance isn't just a technical metric—it direct...*
+  📅 Mon, 14 Sep 2026 11:17:13 +0000
+
+- **[How to actually pick your Amazon SES plan after the July 2026 pricing overhaul (and whether the dedicated IP is worth it)](https://dev.to/julianros/how-to-actually-pick-your-amazon-ses-plan-after-the-july-2026-pricing-overhaul-and-whether-the-44g4)**
+  *<p>On July 21, 2026, Amazon restructured SES billing into three tiered plans — the biggest change to SES pricing in years (AWS, SES pricing page). A reader left a comment on our earlier SES provider c...*
+  📅 Mon, 14 Sep 2026 11:16:40 +0000
 
 </details>
 
@@ -122,103 +125,103 @@
 
 ### 📈 Daily Trending
 
-- **[mapmoverexcite/Nexora](https://github.com/mapmoverexcite/Nexora)** ⭐ 61
+- **[ai-sucks-butt/ai-sucks-butt](https://github.com/ai-sucks-butt/ai-sucks-butt)** ⭐ 61
   ![None](https://img.shields.io/badge/-None-lightgrey)
-  Nexora v2.5 | Multi game utility with FPS Boost, performance optimization and customization for Fortnite, Roblox, Valorant, Rust and CS2
+  If you think AI sucks, star the repo.
 
-- **[Shellishack/infinite-pokemon](https://github.com/Shellishack/infinite-pokemon)** ⭐ 7
+- **[loudpilotchart/lol-skinchanger](https://github.com/loudpilotchart/lol-skinchanger)** ⭐ 44
+  ![C++](https://img.shields.io/badge/-C++-pink)
+  Skin changer for League of Legends (LOL)
+
+- **[loudpilotchart/wardogs-cheat](https://github.com/loudpilotchart/wardogs-cheat)** ⭐ 43
+  ![C++](https://img.shields.io/badge/-C++-pink)
+  WARDOGS Advanced Multihack
+
+- **[Shellishack/infinite-pokemon](https://github.com/Shellishack/infinite-pokemon)** ⭐ 26
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   A Pokémon-style adventure built with Codex, featuring AI-generated maps, NPCs, branching saves, and multiplayer. The adventure never ends.
 
-- **[zj-unicom-ai/uni-llm-bench](https://github.com/zj-unicom-ai/uni-llm-bench)** ⭐ 4
-  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
-  自托管的轻量化 LLM API 基准测试平台 —— 模型指纹对比 + 模型质量评测。
-
-- **[SDS-Junior-Reviewer-2026-Second/ptest-Jihun](https://github.com/SDS-Junior-Reviewer-2026-Second/ptest-Jihun)** ⭐ 3
-  ![None](https://img.shields.io/badge/-None-lightgrey)
-  September 14 pr test
-
-- **[unixhot/opsmini](https://github.com/unixhot/opsmini)** ⭐ 3
+- **[yifanzhang-pro/FlashREINFORCE](https://github.com/yifanzhang-pro/FlashREINFORCE)** ⭐ 26
   ![HTML](https://img.shields.io/badge/-HTML-lightgrey)
-  Lightweight Linux server panel
+  FlashREINFORCE:  Critic-Free, Single-Rollout, Asynchronous RL for Agentic Language Models
 
-- **[AayusX/badges](https://github.com/AayusX/badges)** ⭐ 3
+- **[ABHIJEETRAI-AV/patram](https://github.com/ABHIJEETRAI-AV/patram)** ⭐ 18
   ![None](https://img.shields.io/badge/-None-lightgrey)
   None
 
-- **[atdt/amt-tools](https://github.com/atdt/amt-tools)** ⭐ 2
+- **[FelixQiu1/XiaoAi-LLM-Router](https://github.com/FelixQiu1/XiaoAi-LLM-Router)** ⭐ 18
   ![Python](https://img.shields.io/badge/-Python-blue)
-  Configure and use Intel AMT: mutual TLS, power control, SOL, and KVM
+  一键将老旧小爱同学升级为 DeepSeek/Ollama 智能管家，零硬件改造。 | Upgrade your XiaoAi speaker to a DeepSeek/Ollama AI assistant with one click. Zero hardware mods needed.
 
-- **[lixia67/hai-mini-app](https://github.com/lixia67/hai-mini-app)** ⭐ 2
-  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
+- **[ultraplan-bit/Piece](https://github.com/ultraplan-bit/Piece)** ⭐ 17
+  ![Python](https://img.shields.io/badge/-Python-blue)
   None
 
 ### 📈 Weekly Trending
 
-- **[openai/NavierStokesAndEuler](https://github.com/openai/NavierStokesAndEuler)** ⭐ 1,859
+- **[openai/NavierStokesAndEuler](https://github.com/openai/NavierStokesAndEuler)** ⭐ 1,873
   ![Lean](https://img.shields.io/badge/-Lean-lightgrey)
   Lean certificates accompanying Navier-Stokes and Euler results
 
-- **[Edge0-AI/Edge0](https://github.com/Edge0-AI/Edge0)** ⭐ 1,610
+- **[Edge0-AI/Edge0](https://github.com/Edge0-AI/Edge0)** ⭐ 1,652
   ![Python](https://img.shields.io/badge/-Python-blue)
   None
 
-- **[Vincentwei1021/anything2explainer](https://github.com/Vincentwei1021/anything2explainer)** ⭐ 1,182
+- **[Vincentwei1021/anything2explainer](https://github.com/Vincentwei1021/anything2explainer)** ⭐ 1,257
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   Topic in, narrated explainer video out. A Claude Code / Codex skill that turns any topic into a black-canvas motion-graphics explainer video with TTS voiceover, subtitles and a chapter progress bar. Chinese or English; every frame drawn in code with Remotion.
 
-- **[gazijarin/itsgiving](https://github.com/gazijarin/itsgiving)** ⭐ 816
+- **[gazijarin/itsgiving](https://github.com/gazijarin/itsgiving)** ⭐ 830
   ![Python](https://img.shields.io/badge/-Python-blue)
   Express yourself in meetings (with memes, of course).
 
-- **[sumimakito/Mac-Duo](https://github.com/sumimakito/Mac-Duo)** ⭐ 801
+- **[sumimakito/Mac-Duo](https://github.com/sumimakito/Mac-Duo)** ⭐ 828
   ![Swift](https://img.shields.io/badge/-Swift-lightgrey)
   Wish you could bring the iPhone Duo effect to your MacBook?
 
-- **[SpaceDudem/text-humanizer](https://github.com/SpaceDudem/text-humanizer)** ⭐ 732
+- **[SpaceDudem/text-humanizer](https://github.com/SpaceDudem/text-humanizer)** ⭐ 743
   ![Python](https://img.shields.io/badge/-Python-blue)
   text-humanizer is an open-source project designed to convert text generated by AI to its "humanized" version. Bypasses the most of AI detectors such as Turnitin or GPTZero
 
-- **[Colafornia/short-video-generator-AI](https://github.com/Colafornia/short-video-generator-AI)** ⭐ 721
+- **[Colafornia/short-video-generator-AI](https://github.com/Colafornia/short-video-generator-AI)** ⭐ 730
   ![Python](https://img.shields.io/badge/-Python-blue)
   Free open-source project designed for turning youtube-viedos into viral short videos. Highlight detection, subtitles, translation, voiceover, all in one for your content.
 
-- **[angusdevgo/IDM_Pro_Tool](https://github.com/angusdevgo/IDM_Pro_Tool)** ⭐ 681
+- **[angusdevgo/IDM_Pro_Tool](https://github.com/angusdevgo/IDM_Pro_Tool)** ⭐ 693
   ![C#](https://img.shields.io/badge/-C#-lightgrey)
   IDM激活与状态维护工具
 
 ### 📈 Monthly Trending
 
-- **[sapientinc/PRAXIST](https://github.com/sapientinc/PRAXIST)** ⭐ 6,711
+- **[sapientinc/PRAXIST](https://github.com/sapientinc/PRAXIST)** ⭐ 6,736
   ![Python](https://img.shields.io/badge/-Python-blue)
   Autonomous research system for measurable, computer-executable research.
 
-- **[lnkiai/m3e-canvas](https://github.com/lnkiai/m3e-canvas)** ⭐ 6,526
+- **[lnkiai/m3e-canvas](https://github.com/lnkiai/m3e-canvas)** ⭐ 6,695
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   Sketch Material 3 Expressive screens in the browser and turn them into vibe-coding prompts.
 
-- **[MengTo/threeui](https://github.com/MengTo/threeui)** ⭐ 5,722
+- **[MengTo/threeui](https://github.com/MengTo/threeui)** ⭐ 5,755
   ![HTML](https://img.shields.io/badge/-HTML-lightgrey)
   Open-source ThreeUI Community catalog with live interactive components and complete Community source.
 
-- **[s1dashu/ip-as-logo-skill](https://github.com/s1dashu/ip-as-logo-skill)** ⭐ 5,216
+- **[s1dashu/ip-as-logo-skill](https://github.com/s1dashu/ip-as-logo-skill)** ⭐ 5,226
   ![None](https://img.shields.io/badge/-None-lightgrey)
   A compact Agent Skill for highly simplified, rounded, subtly neo-skeuomorphic IP mascot logos.
 
-- **[CopilotKit/OpenBot](https://github.com/CopilotKit/OpenBot)** ⭐ 4,857
+- **[CopilotKit/OpenBot](https://github.com/CopilotKit/OpenBot)** ⭐ 4,873
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   Open-source AI coworkers that each get a computer of their own: a browser, files and tools, with every action decided before it happens and recorded after. Bring any AG-UI agent.
 
-- **[amagine-ai/Amagine3D](https://github.com/amagine-ai/Amagine3D)** ⭐ 4,499
+- **[amagine-ai/Amagine3D](https://github.com/amagine-ai/Amagine3D)** ⭐ 4,587
   ![Python](https://img.shields.io/badge/-Python-blue)
   Amagine3D: From hardware requirements to editable 3D designs
 
-- **[rakanki911/DLSS5-Swapper](https://github.com/rakanki911/DLSS5-Swapper)** ⭐ 4,238
+- **[rakanki911/DLSS5-Swapper](https://github.com/rakanki911/DLSS5-Swapper)** ⭐ 4,396
   ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
   Install, tune and restore DLSS 5 in your games with one click. Native RenoDX, DLSS5-Feeder for games without DLSS, OptiScaler and multipass routes; DirectX 8/9/11/12, Vulkan, OpenGL, DirectDraw and emulators. In-game F8 overlay, automatic backups, and a community page showing what works on your games and your graphics card.
 
-- **[XiaoDuoYa/codex-with-chatgpt](https://github.com/XiaoDuoYa/codex-with-chatgpt)** ⭐ 4,185
+- **[XiaoDuoYa/codex-with-chatgpt](https://github.com/XiaoDuoYa/codex-with-chatgpt)** ⭐ 4,267
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   ChatGPT thinks. Codex works. Use ChatGPT as the planning brain while keeping the Codex harness.
 
@@ -490,59 +493,59 @@ See [kubernetes-announce@](https://groups.google.com/forum/#!forum/kubernetes-an
 
 | Skill | Status |
 |-------|--------|
-| Java | ⚪ Planned |
+| Java | 🔴 Beginner |
 | Python | ⚪ Planned |
-| JavaScript | 🔴 Beginner |
+| JavaScript | 🟡 Learning |
 | TypeScript | 🟡 Learning |
-| Go | 🔴 Beginner |
+| Go | 🟢 Proficient |
 
 ### Frameworks
 
 | Skill | Status |
 |-------|--------|
-| React | ⚪ Planned |
-| Spring Boot | ⚪ Planned |
+| React | 🔴 Beginner |
+| Spring Boot | 🟡 Learning |
 | Django | 🟡 Learning |
 | Node.js | 🟡 Learning |
-| Next.js | 🟡 Learning |
+| Next.js | ⚪ Planned |
 
 ### Cybersecurity
 
 | Skill | Status |
 |-------|--------|
-| Penetration Testing | 🟢 Proficient |
-| Web Security | 🟢 Proficient |
-| Network Security | ⚪ Planned |
-| OWASP | 🔴 Beginner |
+| Penetration Testing | 🟡 Learning |
+| Web Security | ⚪ Planned |
+| Network Security | 🟡 Learning |
+| OWASP | 🟢 Proficient |
 
 ### Ai Ml
 
 | Skill | Status |
 |-------|--------|
-| Machine Learning | ⚪ Planned |
-| Deep Learning | 🟡 Learning |
-| NLP | 🟡 Learning |
-| Computer Vision | ⚪ Planned |
+| Machine Learning | 🟢 Proficient |
+| Deep Learning | 🔴 Beginner |
+| NLP | 🟢 Proficient |
+| Computer Vision | 🟡 Learning |
 | TensorFlow | 🟡 Learning |
-| PyTorch | 🔴 Beginner |
+| PyTorch | 🟢 Proficient |
 
 ### Devops
 
 | Skill | Status |
 |-------|--------|
 | Docker | 🟢 Proficient |
-| Kubernetes | ⚪ Planned |
-| CI/CD | 🟢 Proficient |
-| AWS | ⚪ Planned |
-| Azure | 🔴 Beginner |
+| Kubernetes | 🔴 Beginner |
+| CI/CD | 🔴 Beginner |
+| AWS | 🟡 Learning |
+| Azure | 🟢 Proficient |
 
 ### Other
 
 | Skill | Status |
 |-------|--------|
-| Blockchain | ⚪ Planned |
-| Web3 | 🔴 Beginner |
-| Cloud Computing | 🟡 Learning |
+| Blockchain | 🔴 Beginner |
+| Web3 | 🟢 Proficient |
+| Cloud Computing | ⚪ Planned |
 
 </details>
 
