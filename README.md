@@ -46,78 +46,73 @@
 
 ### 📑 Hacker News
 
-- **[A 386 PC for Your RP2350](https://github.com/rh1tech/frank-386)**
-  *<p>Article URL: <a href="https://github.com/rh1tech/frank-386">https://github.com/rh1tech/frank-386</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49693613">https://news.ycombi...*
-  📅 Mon, 14 Sep 2026 08:25:57 +0000
+- **[Cua (YC P25) Is Hiring a Founding Technical GTM Lead](https://www.ycombinator.com/companies/cua/jobs/1IWEKVH-founding-technical-gtm-lead)**
+  *<p>Article URL: <a href="https://www.ycombinator.com/companies/cua/jobs/1IWEKVH-founding-technical-gtm-lead">https://www.ycombinator.com/companies/cua/jobs/1IWEKVH-founding-technical-gtm-lead</a></p>
+...*
+  📅 Mon, 14 Sep 2026 17:00:53 +0000
 
-- **[EuroBirdPortal – Live bird movements across Europe](https://www.eurobirdportal.org/ebp/en/)**
-  *<p>Article URL: <a href="https://www.eurobirdportal.org/ebp/en/">https://www.eurobirdportal.org/ebp/en/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49693610">https://news.yc...*
-  📅 Mon, 14 Sep 2026 08:25:47 +0000
+- **[Fitting Neural Textures and PBR Material Maps with ES (No Backprop)](http://richg42.blogspot.com/2026/09/fitting-neural-texture-and-pbr-material.html)**
+  *<p>Article URL: <a href="http://richg42.blogspot.com/2026/09/fitting-neural-texture-and-pbr-material.html">http://richg42.blogspot.com/2026/09/fitting-neural-texture-and-pbr-material.html</a></p>
+<p>C...*
+  📅 Mon, 14 Sep 2026 16:34:33 +0000
 
-- **[OpenArch – PyTorch implementations of modern LLM architectures](https://github.com/anuj0456/OpenArch)**
-  *<p>Article URL: <a href="https://github.com/anuj0456/OpenArch">https://github.com/anuj0456/OpenArch</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49693384">https://news.ycombi...*
-  📅 Mon, 14 Sep 2026 07:55:19 +0000
+- **[Why don't machine learning research agents overfit?](https://www.amazon.science/blog/why-dont-machine-learning-research-agents-overfit)**
+  *<p>Article URL: <a href="https://www.amazon.science/blog/why-dont-machine-learning-research-agents-overfit">https://www.amazon.science/blog/why-dont-machine-learning-research-agents-overfit</a></p>
+<p...*
+  📅 Mon, 14 Sep 2026 16:32:23 +0000
 
-- **[Show HN: 1080p is 920px tall – 1k real browser viewports](https://screensize.net/reports/viewport-stats)**
-  *<p>Article URL: <a href="https://screensize.net/reports/viewport-stats">https://screensize.net/reports/viewport-stats</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49693226">h...*
-  📅 Mon, 14 Sep 2026 07:35:00 +0000
+- **[When LLM judges agree, should we believe them?](https://www.amazon.science/blog/when-llm-judges-agree-should-we-believe-them)**
+  *<p>Article URL: <a href="https://www.amazon.science/blog/when-llm-judges-agree-should-we-believe-them">https://www.amazon.science/blog/when-llm-judges-agree-should-we-believe-them</a></p>
+<p>Comments ...*
+  📅 Mon, 14 Sep 2026 16:29:30 +0000
 
-- **[Nike exits the S&P 100 after 18 years and a $200B market-cap wipeout](https://fortune.com/2026/09/08/nike-stock-plummets-sp500-market-cap-index/)**
-  *<p><a href="https://archive.ph/8NmSg" rel="nofollow">https://archive.ph/8NmSg</a></p>
-<hr />
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49691343">https://news.ycombinator.com/item?...*
-  📅 Mon, 14 Sep 2026 02:50:40 +0000
+- **[I stress-tested Meta Muse until its agent control plane started timing out](https://blog.cygankiewicz.com/en/meta-muse-black-box-testing/)**
+  *<p>Article URL: <a href="https://blog.cygankiewicz.com/en/meta-muse-black-box-testing/">https://blog.cygankiewicz.com/en/meta-muse-black-box-testing/</a></p>
+<p>Comments URL: <a href="https://news.yco...*
+  📅 Mon, 14 Sep 2026 16:26:07 +0000
 
-- **[OEMpocalypse: Unprivileged Android app to root on Samsung, Xiaomi, others](https://calif.io/research/oempocalypse)**
-  *<p>Article URL: <a href="https://calif.io/research/oempocalypse">https://calif.io/research/oempocalypse</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49691152">https://news.yc...*
-  📅 Mon, 14 Sep 2026 02:25:44 +0000
+- **[Hacking AI customer service agents](https://www.intigriti.com/researchers/blog/hacking-tools/hacking-ai-customer-service-agents)**
+  *<p>Article URL: <a href="https://www.intigriti.com/researchers/blog/hacking-tools/hacking-ai-customer-service-agents">https://www.intigriti.com/researchers/blog/hacking-tools/hacking-ai-customer-servi...*
+  📅 Mon, 14 Sep 2026 16:26:03 +0000
 
 ### 📑 TechCrunch
 
-- **[Insight Partners’ Deven Parekh on why the firm is diversifying while everyone else bets the farm on OpenAI and Anthropic](https://techcrunch.com/2026/09/13/insight-partners-devin-parekh-on-why-the-firm-is-diversifying-while-everyone-else-bets-the-farm-on-openai-and-anthropic/)**
-  *Insight Partners' Devin Parekh opens up about losing Legora to General Catalyst, why he's fine holding stakes in rival AI labs, and why — even as everyone else piles into OpenAI and Anthropic — his $9...*
-  📅 Sun, 13 Sep 2026 21:30:00 +0000
+- **[With iOS 27, I’m actually using Siri again](https://techcrunch.com/2026/09/14/with-ios-27-im-actually-using-siri-again/)**
+  *Apple’s long-delayed Siri overhaul is finally here with iOS 27, and it changes how useful the assistant feels day to day...*
+  📅 Mon, 14 Sep 2026 17:10:30 +0000
 
-- **[Larry Ellison cancels $7.5 billion sale of Oracle stock](https://techcrunch.com/2026/09/13/larry-ellison-cancels-7-5-billion-sale-of-oracle-stock/)**
-  *Oracle had previously disclosed that Ellison planned to sell 50 million shares worth around $7.5 billion....*
-  📅 Sun, 13 Sep 2026 20:49:38 +0000
+- **[macOS 27: new Siri takes on AI productivity apps](https://techcrunch.com/2026/09/14/macos-27-new-siri-takes-on-ai-productivity-apps/)**
+  *macOS 27 Goldgen Gate gets a new Spotlight Search with Siri integrated...*
+  📅 Mon, 14 Sep 2026 17:10:09 +0000
 
-- **[The 9 buzziest startups from Y Combinator’s latest Demo Day, according to VCs](https://techcrunch.com/2026/09/13/the-9-buzziest-startups-from-y-combinators-latest-demo-day-according-to-vcs/)**
-  *From floating reactors to brain chips: VCs picked their favorite YC startups from the summer batch....*
-  📅 Sun, 13 Sep 2026 20:28:00 +0000
+- **[Fashion app Daydream uses Apple Intelligence to help you shop the outfits in your camera roll](https://techcrunch.com/2026/09/14/fashion-discovery-app-daydream-uses-apple-intelligence-to-help-you-shop-the-outfits-saved-in-your-camera-roll/)**
+  *Thanks to the launch of iOS 27, Daydream's app now includes features that can turn saved outfit photos into shoppable results and search for products through Siri without opening the app....*
+  📅 Mon, 14 Sep 2026 17:00:00 +0000
 
-- **[What’s behind the AI industry’s latest warnings of doom?](https://techcrunch.com/2026/09/13/whats-behind-the-ai-industrys-latest-warnings-of-doom/)**
-  *On Equity, we discussed the AI industry's latest debate about whether it poses an existential threat to humanity....*
-  📅 Sun, 13 Sep 2026 19:40:15 +0000
+- **[Microsoft’s new AI ‘code of conduct’ tells models not to hack systems or trick humans](https://techcrunch.com/2026/09/14/microsofts-new-ai-code-of-conduct-tells-models-not-to-hack-systems-or-trick-humans/)**
+  *The code of conduct lays out general principles that Microsoft AI models should uphold — supporting humans rather than replacing them, for instance, and accelerating human flourishing — as well as spe...*
+  📅 Mon, 14 Sep 2026 16:27:53 +0000
 
-- **[Obama urges Democrats to have a ‘clear plan’ for AI safeguards](https://techcrunch.com/2026/09/13/obama-urges-democrats-to-have-a-clear-plan-for-ai-safeguards/)**
-  *Obama recently said that Democrats need to make artificial intelligence one of their “central agendas” and “have a very clear plan” to address concerns around the technology’s economic impact and safe...*
-  📅 Sun, 13 Sep 2026 16:30:00 +0000
+- **[Waymo opens robotaxi service in Las Vegas](https://techcrunch.com/2026/09/14/waymo-opens-robotaxi-service-in-las-vegas/)**
+  *Las Vegas will be Waymo's 15th commercial robotaxi market....*
+  📅 Mon, 14 Sep 2026 16:04:16 +0000
 
-- **[TechCrunch Mobility: Lyft has entered the robotaxi chat](https://techcrunch.com/2026/09/13/techcrunch-mobility-lyft-has-entered-the-robotaxi-chat/)**
-  *Welcome back to TechCrunch Mobility, your hub for the future of transportation, and now, more than ever, the role AI is playing in it....*
-  📅 Sun, 13 Sep 2026 16:04:00 +0000
+- **[Sources say Automattic’s board is out after failed attempt to oust CEO Matt Mullenweg](https://techcrunch.com/2026/09/14/sources-say-automattics-board-is-out-after-failed-attempt-to-oust-ceo-matt-mullenweg/)**
+  *Automattic’s board is out, days after its members voted to put chief executive Matt Mullenweg on leave, sources tell TechCrunch....*
+  📅 Mon, 14 Sep 2026 15:34:31 +0000
 
 ### 📑 Dev.to
 
-- **[How to Build High-Performance Flutter Mobile Apps (60fps Architecture Guide)](https://dev.to/abinschandran/how-to-build-high-performance-flutter-mobile-apps-60fps-architecture-guide-2b5p)**
-  *<h3>
-  
-  
-  Why Mobile App Performance Matters for User Retention
-</h3>
+- **[What Happens When AI Outgrows the Tests We Use to Measure It?](https://dev.to/hemapriya_kanagala/what-happens-when-ai-outgrows-the-tests-we-use-to-measure-it-30al)**
+  *<blockquote>
+<p><strong>TL;DR</strong></p>
 
-<p>When building cross-platform mobile applications for clients worldwide, performance isn't just a technical metric—it direct...*
-  📅 Mon, 14 Sep 2026 11:17:13 +0000
+<p>GPT-6 Astra has started another familiar AI conversation. The model is more capable, Jensen Huang said on X that <strong>"AGI has arrived,"</strong> and ...*
+  📅 Mon, 14 Sep 2026 17:12:10 +0000
 
-- **[How to actually pick your Amazon SES plan after the July 2026 pricing overhaul (and whether the dedicated IP is worth it)](https://dev.to/julianros/how-to-actually-pick-your-amazon-ses-plan-after-the-july-2026-pricing-overhaul-and-whether-the-44g4)**
-  *<p>On July 21, 2026, Amazon restructured SES billing into three tiered plans — the biggest change to SES pricing in years (AWS, SES pricing page). A reader left a comment on our earlier SES provider c...*
-  📅 Mon, 14 Sep 2026 11:16:40 +0000
+- **[An Avatar Failure Must Not Reveal the Camera: Build a Consent-Safe Beauty AR Fallback Governor](https://dev.to/susiewang/an-avatar-failure-must-not-reveal-the-camera-build-a-consent-safe-beauty-ar-fallback-governor-1ge9)**
+  *<p>An avatar can make someone comfortable joining a live session. That creates a product promise: <strong>if the avatar stops working, the application must not quietly replace it with the person’s cam...*
+  📅 Mon, 14 Sep 2026 17:12:09 +0000
 
 </details>
 
@@ -125,103 +120,103 @@
 
 ### 📈 Daily Trending
 
+- **[Matthew0822/ToolReplay](https://github.com/Matthew0822/ToolReplay)** ⭐ 171
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  Audit AI agent tool-call transcripts: hash-chain sealing, deterministic replay, and scope overreach checks. Dependency-free Python CLI.
+
+- **[nilbuild/page-mascot](https://github.com/nilbuild/page-mascot)** ⭐ 139
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  A mascot that watches the cursor and blinks when you poke it
+
 - **[ai-sucks-butt/ai-sucks-butt](https://github.com/ai-sucks-butt/ai-sucks-butt)** ⭐ 61
   ![None](https://img.shields.io/badge/-None-lightgrey)
   If you think AI sucks, star the repo.
 
-- **[loudpilotchart/lol-skinchanger](https://github.com/loudpilotchart/lol-skinchanger)** ⭐ 44
-  ![C++](https://img.shields.io/badge/-C++-pink)
-  Skin changer for League of Legends (LOL)
+- **[callbacked/kinesis](https://github.com/callbacked/kinesis)** ⭐ 45
+  ![Swift](https://img.shields.io/badge/-Swift-lightgrey)
+  native macos controls for the meta neural band
 
-- **[loudpilotchart/wardogs-cheat](https://github.com/loudpilotchart/wardogs-cheat)** ⭐ 43
-  ![C++](https://img.shields.io/badge/-C++-pink)
-  WARDOGS Advanced Multihack
+- **[ianhub1997/facebook-reporting](https://github.com/ianhub1997/facebook-reporting)** ⭐ 35
+  ![None](https://img.shields.io/badge/-None-lightgrey)
+  Open-source social media reporting bot & compliance auditor. Supports facebook report bot, bot report tiktok, and instagram moderation workflows.
 
-- **[Shellishack/infinite-pokemon](https://github.com/Shellishack/infinite-pokemon)** ⭐ 26
-  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
-  A Pokémon-style adventure built with Codex, featuring AI-generated maps, NPCs, branching saves, and multiplayer. The adventure never ends.
-
-- **[yifanzhang-pro/FlashREINFORCE](https://github.com/yifanzhang-pro/FlashREINFORCE)** ⭐ 26
-  ![HTML](https://img.shields.io/badge/-HTML-lightgrey)
+- **[yifanzhang-pro/FlashREINFORCE](https://github.com/yifanzhang-pro/FlashREINFORCE)** ⭐ 34
+  ![Python](https://img.shields.io/badge/-Python-blue)
   FlashREINFORCE:  Critic-Free, Single-Rollout, Asynchronous RL for Agentic Language Models
 
-- **[ABHIJEETRAI-AV/patram](https://github.com/ABHIJEETRAI-AV/patram)** ⭐ 18
-  ![None](https://img.shields.io/badge/-None-lightgrey)
-  None
+- **[34306/DuoBar](https://github.com/34306/DuoBar)** ⭐ 30
+  ![Objective-C](https://img.shields.io/badge/-Objective-C-lightgrey)
+  Battery ring for jailbroken device based on iPhone Duo style
 
-- **[FelixQiu1/XiaoAi-LLM-Router](https://github.com/FelixQiu1/XiaoAi-LLM-Router)** ⭐ 18
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  一键将老旧小爱同学升级为 DeepSeek/Ollama 智能管家，零硬件改造。 | Upgrade your XiaoAi speaker to a DeepSeek/Ollama AI assistant with one click. Zero hardware mods needed.
-
-- **[ultraplan-bit/Piece](https://github.com/ultraplan-bit/Piece)** ⭐ 17
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  None
+- **[estherliu-lab/momo-soft-play](https://github.com/estherliu-lab/momo-soft-play)** ⭐ 28
+  ![HTML](https://img.shields.io/badge/-HTML-lightgrey)
+  一只可以捏一捏、拖着玩、收集今日快乐的软乎乎 MOMO
 
 ### 📈 Weekly Trending
 
-- **[openai/NavierStokesAndEuler](https://github.com/openai/NavierStokesAndEuler)** ⭐ 1,873
+- **[openai/NavierStokesAndEuler](https://github.com/openai/NavierStokesAndEuler)** ⭐ 1,884
   ![Lean](https://img.shields.io/badge/-Lean-lightgrey)
   Lean certificates accompanying Navier-Stokes and Euler results
 
-- **[Edge0-AI/Edge0](https://github.com/Edge0-AI/Edge0)** ⭐ 1,652
+- **[Edge0-AI/Edge0](https://github.com/Edge0-AI/Edge0)** ⭐ 1,686
   ![Python](https://img.shields.io/badge/-Python-blue)
   None
 
-- **[Vincentwei1021/anything2explainer](https://github.com/Vincentwei1021/anything2explainer)** ⭐ 1,257
+- **[Vincentwei1021/anything2explainer](https://github.com/Vincentwei1021/anything2explainer)** ⭐ 1,300
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   Topic in, narrated explainer video out. A Claude Code / Codex skill that turns any topic into a black-canvas motion-graphics explainer video with TTS voiceover, subtitles and a chapter progress bar. Chinese or English; every frame drawn in code with Remotion.
 
-- **[gazijarin/itsgiving](https://github.com/gazijarin/itsgiving)** ⭐ 830
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  Express yourself in meetings (with memes, of course).
-
-- **[sumimakito/Mac-Duo](https://github.com/sumimakito/Mac-Duo)** ⭐ 828
+- **[sumimakito/Mac-Duo](https://github.com/sumimakito/Mac-Duo)** ⭐ 853
   ![Swift](https://img.shields.io/badge/-Swift-lightgrey)
   Wish you could bring the iPhone Duo effect to your MacBook?
 
-- **[SpaceDudem/text-humanizer](https://github.com/SpaceDudem/text-humanizer)** ⭐ 743
+- **[gazijarin/itsgiving](https://github.com/gazijarin/itsgiving)** ⭐ 840
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  Express yourself in meetings (with memes, of course).
+
+- **[SpaceDudem/text-humanizer](https://github.com/SpaceDudem/text-humanizer)** ⭐ 746
   ![Python](https://img.shields.io/badge/-Python-blue)
   text-humanizer is an open-source project designed to convert text generated by AI to its "humanized" version. Bypasses the most of AI detectors such as Turnitin or GPTZero
 
-- **[Colafornia/short-video-generator-AI](https://github.com/Colafornia/short-video-generator-AI)** ⭐ 730
+- **[Colafornia/short-video-generator-AI](https://github.com/Colafornia/short-video-generator-AI)** ⭐ 731
   ![Python](https://img.shields.io/badge/-Python-blue)
   Free open-source project designed for turning youtube-viedos into viral short videos. Highlight detection, subtitles, translation, voiceover, all in one for your content.
 
-- **[angusdevgo/IDM_Pro_Tool](https://github.com/angusdevgo/IDM_Pro_Tool)** ⭐ 693
-  ![C#](https://img.shields.io/badge/-C#-lightgrey)
-  IDM激活与状态维护工具
+- **[yifanzhang-pro/recurrent-looped-tranformer](https://github.com/yifanzhang-pro/recurrent-looped-tranformer)** ⭐ 724
+  ![HTML](https://img.shields.io/badge/-HTML-lightgrey)
+  Official Project Page for Recurrent Looped Transformer (RLT)
 
 ### 📈 Monthly Trending
 
-- **[sapientinc/PRAXIST](https://github.com/sapientinc/PRAXIST)** ⭐ 6,736
+- **[sapientinc/PRAXIST](https://github.com/sapientinc/PRAXIST)** ⭐ 6,755
   ![Python](https://img.shields.io/badge/-Python-blue)
   Autonomous research system for measurable, computer-executable research.
 
-- **[lnkiai/m3e-canvas](https://github.com/lnkiai/m3e-canvas)** ⭐ 6,695
+- **[lnkiai/m3e-canvas](https://github.com/lnkiai/m3e-canvas)** ⭐ 6,746
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   Sketch Material 3 Expressive screens in the browser and turn them into vibe-coding prompts.
 
-- **[MengTo/threeui](https://github.com/MengTo/threeui)** ⭐ 5,755
+- **[MengTo/threeui](https://github.com/MengTo/threeui)** ⭐ 5,769
   ![HTML](https://img.shields.io/badge/-HTML-lightgrey)
   Open-source ThreeUI Community catalog with live interactive components and complete Community source.
 
-- **[s1dashu/ip-as-logo-skill](https://github.com/s1dashu/ip-as-logo-skill)** ⭐ 5,226
+- **[s1dashu/ip-as-logo-skill](https://github.com/s1dashu/ip-as-logo-skill)** ⭐ 5,231
   ![None](https://img.shields.io/badge/-None-lightgrey)
   A compact Agent Skill for highly simplified, rounded, subtly neo-skeuomorphic IP mascot logos.
 
-- **[CopilotKit/OpenBot](https://github.com/CopilotKit/OpenBot)** ⭐ 4,873
+- **[CopilotKit/OpenBot](https://github.com/CopilotKit/OpenBot)** ⭐ 4,880
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   Open-source AI coworkers that each get a computer of their own: a browser, files and tools, with every action decided before it happens and recorded after. Bring any AG-UI agent.
 
-- **[amagine-ai/Amagine3D](https://github.com/amagine-ai/Amagine3D)** ⭐ 4,587
+- **[amagine-ai/Amagine3D](https://github.com/amagine-ai/Amagine3D)** ⭐ 4,650
   ![Python](https://img.shields.io/badge/-Python-blue)
   Amagine3D: From hardware requirements to editable 3D designs
 
-- **[rakanki911/DLSS5-Swapper](https://github.com/rakanki911/DLSS5-Swapper)** ⭐ 4,396
+- **[rakanki911/DLSS5-Swapper](https://github.com/rakanki911/DLSS5-Swapper)** ⭐ 4,509
   ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
   Install, tune and restore DLSS 5 in your games with one click. Native RenoDX, DLSS5-Feeder for games without DLSS, OptiScaler and multipass routes; DirectX 8/9/11/12, Vulkan, OpenGL, DirectDraw and emulators. In-game F8 overlay, automatic backups, and a community page showing what works on your games and your graphics card.
 
-- **[XiaoDuoYa/codex-with-chatgpt](https://github.com/XiaoDuoYa/codex-with-chatgpt)** ⭐ 4,267
+- **[XiaoDuoYa/codex-with-chatgpt](https://github.com/XiaoDuoYa/codex-with-chatgpt)** ⭐ 4,286
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   ChatGPT thinks. Codex works. Use ChatGPT as the planning brain while keeping the Codex harness.
 
@@ -493,59 +488,59 @@ See [kubernetes-announce@](https://groups.google.com/forum/#!forum/kubernetes-an
 
 | Skill | Status |
 |-------|--------|
-| Java | 🔴 Beginner |
-| Python | ⚪ Planned |
+| Java | ⚪ Planned |
+| Python | 🟡 Learning |
 | JavaScript | 🟡 Learning |
-| TypeScript | 🟡 Learning |
+| TypeScript | 🟢 Proficient |
 | Go | 🟢 Proficient |
 
 ### Frameworks
 
 | Skill | Status |
 |-------|--------|
-| React | 🔴 Beginner |
-| Spring Boot | 🟡 Learning |
+| React | ⚪ Planned |
+| Spring Boot | ⚪ Planned |
 | Django | 🟡 Learning |
 | Node.js | 🟡 Learning |
-| Next.js | ⚪ Planned |
+| Next.js | 🟢 Proficient |
 
 ### Cybersecurity
 
 | Skill | Status |
 |-------|--------|
 | Penetration Testing | 🟡 Learning |
-| Web Security | ⚪ Planned |
-| Network Security | 🟡 Learning |
-| OWASP | 🟢 Proficient |
+| Web Security | 🟡 Learning |
+| Network Security | 🔴 Beginner |
+| OWASP | ⚪ Planned |
 
 ### Ai Ml
 
 | Skill | Status |
 |-------|--------|
-| Machine Learning | 🟢 Proficient |
-| Deep Learning | 🔴 Beginner |
-| NLP | 🟢 Proficient |
-| Computer Vision | 🟡 Learning |
+| Machine Learning | 🟡 Learning |
+| Deep Learning | 🟢 Proficient |
+| NLP | ⚪ Planned |
+| Computer Vision | 🔴 Beginner |
 | TensorFlow | 🟡 Learning |
-| PyTorch | 🟢 Proficient |
+| PyTorch | 🔴 Beginner |
 
 ### Devops
 
 | Skill | Status |
 |-------|--------|
-| Docker | 🟢 Proficient |
-| Kubernetes | 🔴 Beginner |
+| Docker | ⚪ Planned |
+| Kubernetes | 🟡 Learning |
 | CI/CD | 🔴 Beginner |
-| AWS | 🟡 Learning |
-| Azure | 🟢 Proficient |
+| AWS | 🔴 Beginner |
+| Azure | 🟡 Learning |
 
 ### Other
 
 | Skill | Status |
 |-------|--------|
 | Blockchain | 🔴 Beginner |
-| Web3 | 🟢 Proficient |
-| Cloud Computing | ⚪ Planned |
+| Web3 | 🔴 Beginner |
+| Cloud Computing | 🟡 Learning |
 
 </details>
 
