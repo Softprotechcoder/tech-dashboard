@@ -20,7 +20,7 @@
 | Metric | Count |
 |--------|-------|
 | 📰 Latest News Articles | 26 |
-| 🔥 Trending Repositories | 0 |
+| 🔥 Trending Repositories | 15 |
 | 🎯 Latest Releases | 10 |
 | 🎯 Learning Goals | 4 |
 
@@ -46,85 +46,120 @@
 
 ### 📑 Hacker News
 
-- **[Cartesian – AI 3D Modeling for Design](https://www.formas.ai/cartesian)**
-  *<p>Article URL: <a href="https://www.formas.ai/cartesian">https://www.formas.ai/cartesian</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49713999">https://news.ycombinator.com/...*
-  📅 Tue, 15 Sep 2026 15:26:45 +0000
+- **[How much oil-market buffer is left?](https://www.depletion.org)**
+  *<p>Article URL: <a href="https://www.depletion.org">https://www.depletion.org</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49718025">https://news.ycombinator.com/item?id=4971...*
+  📅 Tue, 15 Sep 2026 19:56:56 +0000
 
-- **[Global bond yields hit 2008 highs, raising stakes for big borrowers](https://www.reuters.com/world/asia-pacific/bond-selloff-drives-us-benchmark-beyond-5-stocks-rattled-2026-09-15/)**
-  *<p>Article URL: <a href="https://www.reuters.com/world/asia-pacific/bond-selloff-drives-us-benchmark-beyond-5-stocks-rattled-2026-09-15/">https://www.reuters.com/world/asia-pacific/bond-selloff-drives...*
-  📅 Tue, 15 Sep 2026 14:07:01 +0000
+- **[WangNet – 1.8 MB, zero-dependency Numberwang adjudication in 11 languages](https://github.com/GraafHenk/numberwang)**
+  *<p>Article URL: <a href="https://github.com/GraafHenk/numberwang">https://github.com/GraafHenk/numberwang</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49717605">https://news....*
+  📅 Tue, 15 Sep 2026 19:27:35 +0000
 
-- **[Show HN: Panel – A research workspace where the agent can build its own panes](https://github.com/greentfrapp/panel)**
-  *<p>Article URL: <a href="https://github.com/greentfrapp/panel">https://github.com/greentfrapp/panel</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49712621">https://news.ycombi...*
-  📅 Tue, 15 Sep 2026 13:58:37 +0000
+- **[Jev: New frontier model 40-400x cheaper and 20-200x faster](https://typesafe.ai/blog/introducing-system-one-models-and-jev)**
+  *<p>Article URL: <a href="https://typesafe.ai/blog/introducing-system-one-models-and-jev">https://typesafe.ai/blog/introducing-system-one-models-and-jev</a></p>
+<p>Comments URL: <a href="https://news.y...*
+  📅 Tue, 15 Sep 2026 19:25:03 +0000
 
-- **[AI is breaking our proxies for expertise](https://www.seangoedecke.com/ai-is-breaking-our-proxies-for-expertise/)**
-  *<p>Article URL: <a href="https://www.seangoedecke.com/ai-is-breaking-our-proxies-for-expertise/">https://www.seangoedecke.com/ai-is-breaking-our-proxies-for-expertise/</a></p>
-<p>Comments URL: <a href...*
-  📅 Tue, 15 Sep 2026 13:41:55 +0000
+- **[Chop Up Your Books](https://attainablefelicity.mattkirkland.com/20260915/cut-up-your-books.html)**
+  *<p>Article URL: <a href="https://attainablefelicity.mattkirkland.com/20260915/cut-up-your-books.html">https://attainablefelicity.mattkirkland.com/20260915/cut-up-your-books.html</a></p>
+<p>Comments UR...*
+  📅 Tue, 15 Sep 2026 18:45:31 +0000
 
-- **[Show HN: Capsule – Single-file web apps that save their data into SQLite](https://withcapsule.app/)**
-  *<p>Hey HN,<p>I always had the problem that building HTML pages is really simple now, but trying to save data required hosting it somewhere, and sharing it afterwards was not easy. Over the last few mo...*
-  📅 Tue, 15 Sep 2026 13:31:40 +0000
+- **[We got admin access to Baseten's production GitHub in 25 minutes](https://www.strix.ai/blog/baseten-harbor-github-pat-takeover)**
+  *<p>Article URL: <a href="https://www.strix.ai/blog/baseten-harbor-github-pat-takeover">https://www.strix.ai/blog/baseten-harbor-github-pat-takeover</a></p>
+<p>Comments URL: <a href="https://news.ycomb...*
+  📅 Tue, 15 Sep 2026 18:11:24 +0000
 
-- **[Show HN: Ordewell – turn one goal into an ordered plan of coding-agent tasks](https://github.com/ordewell/ordewell)**
-  *<p>Article URL: <a href="https://github.com/ordewell/ordewell">https://github.com/ordewell/ordewell</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49712276">https://news.ycombi...*
-  📅 Tue, 15 Sep 2026 13:31:37 +0000
+- **[An Update on Wayback Machine Access](https://blog.archive.org/2026/09/15/an-update-on-wayback-machine-access/)**
+  *<p>Article URL: <a href="https://blog.archive.org/2026/09/15/an-update-on-wayback-machine-access/">https://blog.archive.org/2026/09/15/an-update-on-wayback-machine-access/</a></p>
+<p>Comments URL: <a ...*
+  📅 Tue, 15 Sep 2026 17:52:18 +0000
 
 ### 📑 TechCrunch
 
-- **[Nitter and XCancel are dead (again) after X’s latest legal actions](https://techcrunch.com/2026/09/15/nitter-and-xcancel-are-dead-again-after-xs-latest-legal-actions/)**
-  *The privacy-friendly services for viewing X posts without an account have gone dark again after X's escalated legal action....*
-  📅 Tue, 15 Sep 2026 15:49:18 +0000
+- **[Meta now lets AI agents handle the boring parts of WhatsApp Business setup](https://techcrunch.com/2026/09/15/meta-now-lets-ai-agents-handle-the-boring-parts-of-whatsapp-business-setup/)**
+  *A new WhatsApp Business MCP server lets developers use AI coding agents like Claude, Cursor, Codex, and ChatGPT to handle setup, messaging templates, testing, and troubleshooting....*
+  📅 Tue, 15 Sep 2026 20:12:53 +0000
 
-- **[OpenAI, Anthropic, Google have been in talks on AI safety for weeks](https://techcrunch.com/2026/09/15/openai-anthropic-google-have-been-in-talks-on-ai-safety-for-weeks/)**
-  *OpenAI confirms weeks of AI safety talks with Anthropic and Google DeepMind, as Trump's team dismisses safety concerns and pushes to keep pace with China....*
-  📅 Tue, 15 Sep 2026 15:47:03 +0000
+- **[The AI graveyard: a running list of projects and startups that didn’t make it](https://techcrunch.com/2026/09/15/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/)**
+  *From Apple's repeatedly delayed Siri AI to OpenAI's messy "super app" launch, here's a look at the AI projects that shut down or missed expectations....*
+  📅 Tue, 15 Sep 2026 19:00:00 +0000
 
-- **[AEO startup Profound hits unicorn valuation, raises $180M Series D 7 months after last round](https://techcrunch.com/2026/09/15/aeo-startup-profound-hits-unicorn-valuation-raises-180m-series-d-7-months-after-last-round/)**
-  *Profound has raised a $180 million Series D at a $1.8 billion valuation, less than seven months after it raised a $96 million Series C....*
-  📅 Tue, 15 Sep 2026 15:22:48 +0000
+- **[US data centers could consume more natural gas than Germany and Japan combined by 2035](https://techcrunch.com/2026/09/15/us-data-centers-could-consume-more-natural-gas-than-germany-and-japan-combined-by-2035/)**
+  *The AI frenzy could push U.S. data centers to become one of the largest consumers of natural gas in the world....*
+  📅 Tue, 15 Sep 2026 18:29:20 +0000
 
-- **[Wonder scores a $425 million partnership with DoorDash as it builds its food empire](https://techcrunch.com/2026/09/15/wonder-scores-a-425-million-partnership-with-doordash-as-it-builds-its-food-empire/)**
-  *Founded by veteran e-commerce entrepreneur Marc Lore, Wonder is slowly building a massive portfolio of restaurants and delivery companies....*
-  📅 Tue, 15 Sep 2026 15:21:10 +0000
+- **[SpaceX will try to put Starship in orbit for the first time on September 22](https://techcrunch.com/2026/09/15/spacex-will-try-to-put-starship-in-orbit-for-the-first-time-on-september-22/)**
+  *Elon Musk's company will also attempt to deploy the first V3 Starlink satellites into its orbital internet constellation....*
+  📅 Tue, 15 Sep 2026 18:16:07 +0000
 
-- **[Former TikTok execs built an app that uses AI to teach you how to pose for a photo](https://techcrunch.com/2026/09/15/former-tiktok-execs-built-an-app-that-uses-ai-to-teach-you-how-to-pose-for-a-photo/)**
-  *Essentially a camera app, Superpose analyzes selfies or photos and generates four potential poses using AI....*
-  📅 Tue, 15 Sep 2026 14:42:37 +0000
+- **[AI agents now have a place to snitch](https://techcrunch.com/2026/09/15/ai-agents-now-have-a-place-to-snitch/)**
+  *The AI Contact Hotline is designed to be a discreet place where agents that have witnessed misbehavior can tip off authorities....*
+  📅 Tue, 15 Sep 2026 17:42:59 +0000
 
-- **[Discover how to take your startup from prototype to production at TechCrunch Disrupt 2026](https://techcrunch.com/2026/09/15/discover-how-to-take-your-startup-from-prototype-to-production-at-techcrunch-disrupt-2026/)**
-  *Learn how to scale your startup breakthrough from prototype to production at TechCrunch Disrupt 2026 with scaling leaders, Adrian Macneil (Foxglove), John Mackey (MBRYONICS), and Boris Sofman (Bedrock...*
-  📅 Tue, 15 Sep 2026 14:30:00 +0000
+- **[US military says it has launched weapons into space](https://techcrunch.com/2026/09/15/us-military-confirms-it-launched-space-weapons-into-earths-orbit/)**
+  *This is the first public acknowledgment that the U.S. military put a space weapon in Earth's orbit....*
+  📅 Tue, 15 Sep 2026 17:09:06 +0000
 
 ### 📑 Dev.to
 
-- **[eBPF verifier limits are a design constraint: what CO-RE field offsets and bounded loops taught me](https://dev.to/bartoszosiej/ebpf-verifier-limits-are-a-design-constraint-what-co-re-field-offsets-and-bounded-loops-taught-me-1akc)**
+- **[Wiring a New Service Into the Server and the Worker](https://dev.to/anton_brilliantov/wiring-a-new-service-into-the-server-and-the-worker-3ed0)**
+  *<p><em>Two binaries. One layout. Four ways to make a new unit of work exist in either of them - and what each way costs.</em></p>
+
+
+
+
+<p>👋 I'm Anton - a software engineer working mostly in PHP/Symfony...*
+  📅 Tue, 15 Sep 2026 20:33:34 +0000
+
+- **[MiniZinc MCP for your AI Agent](https://dev.to/carban/minizinc-mcp-for-your-ai-agent-42d6)**
   *<h2>
   
   
-  TL;DR
+  Hello Again! 👋
 </h2>
 
-<p>Working on talus-process-monitor (Rust userspace + libbpf/C eBPF) I kept bumping into the same three walls: CO-RE field offsets shifting between kernel versions, the verif...*
-  📅 Tue, 15 Sep 2026 15:52:16 +0000
-
-- **[Catching ransomware with eBPF: what execve/openat tracing taught me about false positives](https://dev.to/bartoszosiej/catching-ransomware-with-ebpf-what-execveopenat-tracing-taught-me-about-false-positives-4676)**
-  *<h2>
-  
-  
-  TL;DR
-</h2>
-
-<p>talus-process-monitor is an eBPF-based ransomware detector for Linux: it traces <code>execve</code>/<code>openat</code> from the kernel, streams events over per-CPU perf b...*
-  📅 Tue, 15 Sep 2026 15:52:15 +0000
+<p>I just want to share a new tool I've been developing for the community: a MiniZinc MCP tool. This tool empowers your AI agents by allowing them to model and solve...*
+  📅 Tue, 15 Sep 2026 20:32:52 +0000
 
 </details>
 
 ## 🔥 Trending Repositories
+
+### 📈 Weekly Trending
+
+- **[Chuloo/mural](https://github.com/Chuloo/mural)** ⭐ 998
+  ![Kotlin](https://img.shields.io/badge/-Kotlin-lightgrey)
+  The language app you eventually delete. A native iPhone companion for learning through conversation.
+
+- **[sumimakito/Mac-Duo](https://github.com/sumimakito/Mac-Duo)** ⭐ 911
+  ![Swift](https://img.shields.io/badge/-Swift-lightgrey)
+  Wish you could bring the iPhone Duo effect to your MacBook?
+
+- **[yifanzhang-pro/recurrent-looped-tranformer](https://github.com/yifanzhang-pro/recurrent-looped-tranformer)** ⭐ 823
+  ![HTML](https://img.shields.io/badge/-HTML-lightgrey)
+  Official Project Page for Recurrent Looped Transformer (RLT)
+
+- **[kruzovic7/ai-data-extractor](https://github.com/kruzovic7/ai-data-extractor)** ⭐ 820
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  Free open-source extractor for AI coding assistant chat histories. Supports Claude Code, Cursor, Windsurf, Aider, Cline/Roo Code, and more.
+
+- **[angusdevgo/IDM_Pro_Tool](https://github.com/angusdevgo/IDM_Pro_Tool)** ⭐ 706
+  ![C#](https://img.shields.io/badge/-C#-lightgrey)
+  IDM激活与状态维护工具
+
+- **[eternityspring/reelbench-skills](https://github.com/eternityspring/reelbench-skills)** ⭐ 695
+  ![HTML](https://img.shields.io/badge/-HTML-lightgrey)
+  Learning notes and tooling skills for AI video - AI 视频相关的学习与工具 skill
+
+- **[ArasTey/lunel](https://github.com/ArasTey/lunel)** ⭐ 690
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  None
+
+- **[nftechie/stonkfly](https://github.com/nftechie/stonkfly)** ⭐ 688
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  A full retained fly-connectome simulation with experimental memory and guarded Coinbase AgentKit trading actions.
 
 ## 🚀 Latest Releases
 
@@ -394,20 +429,20 @@ See [kubernetes-announce@](https://groups.google.com/forum/#!forum/kubernetes-an
 
 | Skill | Status |
 |-------|--------|
-| Java | 🟡 Learning |
-| Python | 🔴 Beginner |
-| JavaScript | 🟡 Learning |
-| TypeScript | ⚪ Planned |
-| Go | ⚪ Planned |
+| Java | ⚪ Planned |
+| Python | ⚪ Planned |
+| JavaScript | 🟢 Proficient |
+| TypeScript | 🟢 Proficient |
+| Go | 🔴 Beginner |
 
 ### Frameworks
 
 | Skill | Status |
 |-------|--------|
-| React | ⚪ Planned |
+| React | 🟡 Learning |
 | Spring Boot | 🟡 Learning |
-| Django | 🔴 Beginner |
-| Node.js | 🟢 Proficient |
+| Django | 🟡 Learning |
+| Node.js | 🟡 Learning |
 | Next.js | 🟡 Learning |
 
 ### Cybersecurity
@@ -415,19 +450,19 @@ See [kubernetes-announce@](https://groups.google.com/forum/#!forum/kubernetes-an
 | Skill | Status |
 |-------|--------|
 | Penetration Testing | ⚪ Planned |
-| Web Security | ⚪ Planned |
+| Web Security | 🟢 Proficient |
 | Network Security | 🟡 Learning |
-| OWASP | 🟢 Proficient |
+| OWASP | ⚪ Planned |
 
 ### Ai Ml
 
 | Skill | Status |
 |-------|--------|
-| Machine Learning | ⚪ Planned |
-| Deep Learning | 🟡 Learning |
-| NLP | 🟡 Learning |
-| Computer Vision | 🔴 Beginner |
-| TensorFlow | 🟢 Proficient |
+| Machine Learning | 🟡 Learning |
+| Deep Learning | 🔴 Beginner |
+| NLP | ⚪ Planned |
+| Computer Vision | 🟡 Learning |
+| TensorFlow | 🔴 Beginner |
 | PyTorch | 🔴 Beginner |
 
 ### Devops
@@ -435,18 +470,18 @@ See [kubernetes-announce@](https://groups.google.com/forum/#!forum/kubernetes-an
 | Skill | Status |
 |-------|--------|
 | Docker | ⚪ Planned |
-| Kubernetes | 🔴 Beginner |
-| CI/CD | 🟢 Proficient |
-| AWS | ⚪ Planned |
-| Azure | 🟡 Learning |
+| Kubernetes | 🟡 Learning |
+| CI/CD | 🔴 Beginner |
+| AWS | 🟡 Learning |
+| Azure | 🟢 Proficient |
 
 ### Other
 
 | Skill | Status |
 |-------|--------|
-| Blockchain | 🔴 Beginner |
-| Web3 | 🟢 Proficient |
-| Cloud Computing | 🔴 Beginner |
+| Blockchain | 🟢 Proficient |
+| Web3 | ⚪ Planned |
+| Cloud Computing | 🟢 Proficient |
 
 </details>
 
