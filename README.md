@@ -46,31 +46,35 @@
 
 ### 📑 Hacker News
 
-- **[Show HN: Macros with a Behringer FCB1010 MIDI Pedalboard in macOS](https://github.com/JamesRyanATX/fcbnerd)**
-  *<p>Article URL: <a href="https://github.com/JamesRyanATX/fcbnerd">https://github.com/JamesRyanATX/fcbnerd</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49705442">https://news....*
-  📅 Mon, 14 Sep 2026 23:01:36 +0000
+- **[Let's make quality the norm again](https://www.forbrukerradet.no/short-life/)**
+  *<p>Article URL: <a href="https://www.forbrukerradet.no/short-life/">https://www.forbrukerradet.no/short-life/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49710109">https://n...*
+  📅 Tue, 15 Sep 2026 10:00:16 +0000
 
-- **[Charts built for Chat](https://dbtcharts.com/blog/charts-built-for-chat/)**
-  *<p>Article URL: <a href="https://dbtcharts.com/blog/charts-built-for-chat/">https://dbtcharts.com/blog/charts-built-for-chat/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=497...*
-  📅 Mon, 14 Sep 2026 21:22:54 +0000
+- **[How much of F-Droid is LLM generated?](https://tintotint.eu/whacky-corner/f-droid_slop/)**
+  *<p>Article URL: <a href="https://tintotint.eu/whacky-corner/f-droid_slop/">https://tintotint.eu/whacky-corner/f-droid_slop/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49710...*
+  📅 Tue, 15 Sep 2026 09:47:48 +0000
 
-- **[Amazon vs. Perplexity – U.S. Court of Appeals for the Ninth Circuit](https://law.justia.com/cases/federal/appellate-courts/ca9/26-1444/26-1444-2026-08-04.html)**
-  *<p>Article URL: <a href="https://law.justia.com/cases/federal/appellate-courts/ca9/26-1444/26-1444-2026-08-04.html">https://law.justia.com/cases/federal/appellate-courts/ca9/26-1444/26-1444-2026-08-04...*
-  📅 Mon, 14 Sep 2026 21:05:22 +0000
+- **[Alternatives to MinIO for single-node local S3](https://rmoff.net/2026/01/14/alternatives-to-minio-for-single-node-local-s3/)**
+  *<p>Article URL: <a href="https://rmoff.net/2026/01/14/alternatives-to-minio-for-single-node-local-s3/">https://rmoff.net/2026/01/14/alternatives-to-minio-for-single-node-local-s3/</a></p>
+<p>Comments ...*
+  📅 Tue, 15 Sep 2026 08:21:27 +0000
 
-- **[GPT-5.6 Luna vs. GPT-6 Astra: Is a $1.20 Model Good Enough for Code Review?](https://entelligence.ai/blogs/gpt-5.6-luna-vs-gpt-6-astra-is-a-1.20-model-good-enough-for-code-review)**
-  *<p>Article URL: <a href="https://entelligence.ai/blogs/gpt-5.6-luna-vs-gpt-6-astra-is-a-1.20-model-good-enough-for-code-review">https://entelligence.ai/blogs/gpt-5.6-luna-vs-gpt-6-astra-is-a-1.20-mode...*
-  📅 Mon, 14 Sep 2026 19:56:20 +0000
+- **[The k-server conjecture is true](https://arxiv.org/abs/2609.15979)**
+  *<p>Article URL: <a href="https://arxiv.org/abs/2609.15979">https://arxiv.org/abs/2609.15979</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49709129">https://news.ycombinator.co...*
+  📅 Tue, 15 Sep 2026 07:45:31 +0000
 
-- **[Backprop Alternative: Augmented Lagrangian Predictive Coding](https://pub.sakana.ai/pc-alm/)**
-  *<p><a href="https://arxiv.org/abs/2605.31022" rel="nofollow">https://arxiv.org/abs/2605.31022</a><p><a href="https://github.com/SakanaAI/pc-alm" rel="nofollow">https://github.com/SakanaAI/pc-alm</a></...*
-  📅 Mon, 14 Sep 2026 18:03:12 +0000
+- **[Lingo.dev (YC F24) is hiring a senior content engineer (Remote, worldwide)](https://lingo.dev/en/careers/ff88132a-cb79-4d35-a6a0-a6230de7a013)**
+  *<p>Article URL: <a href="https://lingo.dev/en/careers/ff88132a-cb79-4d35-a6a0-a6230de7a013">https://lingo.dev/en/careers/ff88132a-cb79-4d35-a6a0-a6230de7a013</a></p>
+<p>Comments URL: <a href="https://...*
+  📅 Tue, 15 Sep 2026 07:00:30 +0000
 
-- **[iOS 27, iPadOS 27, and macOS 27](https://www.apple.com/newsroom/2026/09/major-updates-for-apples-software-platforms-are-now-available/)**
-  *<p>Article URL: <a href="https://www.apple.com/newsroom/2026/09/major-updates-for-apples-software-platforms-are-now-available/">https://www.apple.com/newsroom/2026/09/major-updates-for-apples-software...*
-  📅 Mon, 14 Sep 2026 17:50:29 +0000
+- **[I can't stop thinking about Papua New Guinea](https://notnottalmud.substack.com/p/why-i-cant-stop-thinking-about-papua)**
+  *<p>Article URL: <a href="https://notnottalmud.substack.com/p/why-i-cant-stop-thinking-about-papua">https://notnottalmud.substack.com/p/why-i-cant-stop-thinking-about-papua</a></p>
+<p>Comments URL: <a ...*
+  📅 Tue, 15 Sep 2026 06:16:24 +0000
 
 ### 📑 TechCrunch
 
@@ -100,19 +104,15 @@
 
 ### 📑 Dev.to
 
-- **[How to auto-install the Intune Company Portal on ADE iPhones with VPP](https://dev.to/ky3095/how-to-auto-install-the-intune-company-portal-on-ade-iphones-with-vpp-56eh)**
-  *<h2>
-  
-  
-  Why use VPP
-</h2>
+- **[New and improved Inspector: DevTools for AI Agents, now with Automatic Learning](https://dev.to/copilotkit/new-and-improved-inspector-devtools-for-ai-agents-now-with-automatic-learning-4lai)**
+  *<p>We're excited to launch the new <a href="https://docs.copilotkit.ai/inspector" rel="noopener noreferrer">Inspector</a> - Developer Tools for AI agents!</p>
 
-<p>Without VPP, users end up installing the Intune Company Portal themselves from the App Store. And when they do, <strong>they're prompted for an Apple ID and password...*
-  📅 Tue, 15 Sep 2026 02:24:29 +0000
+<p>Agents broke the debugging model we'v...*
+  📅 Tue, 15 Sep 2026 10:38:00 +0000
 
-- **[Fresh at the label, stale at the post: our 3-day news check was reading the wrong clock](https://dev.to/rulestack/fresh-at-the-label-stale-at-the-post-our-3-day-news-check-was-reading-the-wrong-clock-3fe1)**
-  *<p>On 2026-09-05 our agent swapped three queued Bluesky posts for posts about AI news from the previous two days, each carrying the source URL. Every swap passed a freshness check: the source had to b...*
-  📅 Tue, 15 Sep 2026 02:17:00 +0000
+- **[Intersect, Don't Union: Three Trust Classes for Agent Patch Tests](https://dev.to/datacpp_8185/intersect-dont-union-three-trust-classes-for-agent-patch-tests-5ch6)**
+  *<p>Stop merging because the whole suite is green. An agent that writes both the patch and the tests can add passing cases that never discriminate a fault. Merge only when three trust classes independe...*
+  📅 Tue, 15 Sep 2026 10:37:18 +0000
 
 </details>
 
@@ -120,103 +120,103 @@
 
 ### 📈 Daily Trending
 
-- **[dx818-Comet51154sect/Limbus-Company-cheat](https://github.com/dx818-Comet51154sect/Limbus-Company-cheat)** ⭐ 10
-  ![C++](https://img.shields.io/badge/-C++-pink)
-  You control 12 Sinners who travel through a dystopian city on a strange bus called Mephistopheles. Their mission is to find valuable Golden Boughs while exploring dangerous places and fighting monsters and other enemies.
-
-- **[jsyzlbw/PhD-Yang](https://github.com/jsyzlbw/PhD-Yang)** ⭐ 10
+- **[FSECDEV/Threat-Intelligence-Hackers-Forums](https://github.com/FSECDEV/Threat-Intelligence-Hackers-Forums)** ⭐ 99
   ![None](https://img.shields.io/badge/-None-lightgrey)
-  The details about Wuhan University University Yang Jingyuan Incident
+  A directory of hacker forums
 
-- **[FLModel/flm](https://github.com/FLModel/flm)** ⭐ 6
+- **[FLModel/flm](https://github.com/FLModel/flm)** ⭐ 68
   ![None](https://img.shields.io/badge/-None-lightgrey)
   Train and chat with a frozen language model coupled to the full retained MaleCNS fly connectome.
 
-- **[kennethreitz/fetch.py](https://github.com/kennethreitz/fetch.py)** ⭐ 5
+- **[janice20435/cf-turnstile-token](https://github.com/janice20435/cf-turnstile-token)** ⭐ 47
   ![Python](https://img.shields.io/badge/-Python-blue)
-  Requests energy for when the dependency is the problem.
+  Command-line Cloudflare Turnstile token generator: discover the sitekey on any page and print a cf-turnstile-response token for your scripts, tests and CI.
 
-- **[JavierArizaRiwi/DE-JAVA-A-SPRINGBOOT](https://github.com/JavierArizaRiwi/DE-JAVA-A-SPRINGBOOT)** ⭐ 2
-  ![HTML](https://img.shields.io/badge/-HTML-lightgrey)
+- **[jsyzlbw/PhD-Yang](https://github.com/jsyzlbw/PhD-Yang)** ⭐ 43
+  ![None](https://img.shields.io/badge/-None-lightgrey)
+  The details about Wuhan University University Yang Jingyuan Incident
+
+- **[AlayaLab/KaiNinja](https://github.com/AlayaLab/KaiNinja)** ⭐ 19
+  ![None](https://img.shields.io/badge/-None-lightgrey)
+  KaiNinja: Extending Native 3D Generators to the Part Level
+
+- **[eymenkaratas3347-dot/first-project](https://github.com/eymenkaratas3347-dot/first-project)** ⭐ 16
+  ![None](https://img.shields.io/badge/-None-lightgrey)
   None
 
-- **[JavierArizaRiwi/FRONTEND-ANGULAR](https://github.com/JavierArizaRiwi/FRONTEND-ANGULAR)** ⭐ 2
-  ![HTML](https://img.shields.io/badge/-HTML-lightgrey)
+- **[murayamate1224/first-repo](https://github.com/murayamate1224/first-repo)** ⭐ 16
+  ![None](https://img.shields.io/badge/-None-lightgrey)
   None
 
-- **[XulongT/CustomDance](https://github.com/XulongT/CustomDance)** ⭐ 2
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  [SIGGRAPH Asia 2026] CustomDance: Customized 3D Dance Generation with Coarse-to-Fine Human-Centered Interactive Control
-
-- **[Saul2023goodman/Intelligentmail](https://github.com/Saul2023goodman/Intelligentmail)** ⭐ 2
-  ![Python](https://img.shields.io/badge/-Python-blue)
+- **[hirakujira/NEIN](https://github.com/hirakujira/NEIN)** ⭐ 16
+  ![Objective-C](https://img.shields.io/badge/-Objective-C-lightgrey)
   None
 
 ### 📈 Weekly Trending
 
-- **[sumimakito/Mac-Duo](https://github.com/sumimakito/Mac-Duo)** ⭐ 874
-  ![Swift](https://img.shields.io/badge/-Swift-lightgrey)
-  Wish you could bring the iPhone Duo effect to your MacBook?
-
-- **[Chuloo/mural](https://github.com/Chuloo/mural)** ⭐ 822
+- **[Chuloo/mural](https://github.com/Chuloo/mural)** ⭐ 911
   ![Kotlin](https://img.shields.io/badge/-Kotlin-lightgrey)
   The language app you eventually delete. A native iPhone companion for learning through conversation.
 
-- **[kruzovic7/ai-data-extractor](https://github.com/kruzovic7/ai-data-extractor)** ⭐ 812
+- **[sumimakito/Mac-Duo](https://github.com/sumimakito/Mac-Duo)** ⭐ 889
+  ![Swift](https://img.shields.io/badge/-Swift-lightgrey)
+  Wish you could bring the iPhone Duo effect to your MacBook?
+
+- **[kruzovic7/ai-data-extractor](https://github.com/kruzovic7/ai-data-extractor)** ⭐ 813
   ![Python](https://img.shields.io/badge/-Python-blue)
   Free open-source extractor for AI coding assistant chat histories. Supports Claude Code, Cursor, Windsurf, Aider, Cline/Roo Code, and more.
 
-- **[yifanzhang-pro/recurrent-looped-tranformer](https://github.com/yifanzhang-pro/recurrent-looped-tranformer)** ⭐ 752
+- **[yifanzhang-pro/recurrent-looped-tranformer](https://github.com/yifanzhang-pro/recurrent-looped-tranformer)** ⭐ 771
   ![HTML](https://img.shields.io/badge/-HTML-lightgrey)
   Official Project Page for Recurrent Looped Transformer (RLT)
 
-- **[angusdevgo/IDM_Pro_Tool](https://github.com/angusdevgo/IDM_Pro_Tool)** ⭐ 697
+- **[angusdevgo/IDM_Pro_Tool](https://github.com/angusdevgo/IDM_Pro_Tool)** ⭐ 701
   ![C#](https://img.shields.io/badge/-C#-lightgrey)
   IDM激活与状态维护工具
 
-- **[eternityspring/reelbench-skills](https://github.com/eternityspring/reelbench-skills)** ⭐ 675
+- **[eternityspring/reelbench-skills](https://github.com/eternityspring/reelbench-skills)** ⭐ 689
   ![HTML](https://img.shields.io/badge/-HTML-lightgrey)
   Learning notes and tooling skills for AI video - AI 视频相关的学习与工具 skill
 
-- **[ArasTey/lunel](https://github.com/ArasTey/lunel)** ⭐ 664
+- **[ArasTey/lunel](https://github.com/ArasTey/lunel)** ⭐ 677
   ![Python](https://img.shields.io/badge/-Python-blue)
   None
 
-- **[nftechie/stonkfly](https://github.com/nftechie/stonkfly)** ⭐ 654
+- **[nftechie/stonkfly](https://github.com/nftechie/stonkfly)** ⭐ 666
   ![Python](https://img.shields.io/badge/-Python-blue)
   A full retained fly-connectome simulation with experimental memory and guarded Coinbase AgentKit trading actions.
 
 ### 📈 Monthly Trending
 
-- **[lnkiai/m3e-canvas](https://github.com/lnkiai/m3e-canvas)** ⭐ 6,800
+- **[lnkiai/m3e-canvas](https://github.com/lnkiai/m3e-canvas)** ⭐ 6,862
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   Sketch Material 3 Expressive screens in the browser and turn them into vibe-coding prompts.
 
-- **[sapientinc/PRAXIST](https://github.com/sapientinc/PRAXIST)** ⭐ 6,756
+- **[sapientinc/PRAXIST](https://github.com/sapientinc/PRAXIST)** ⭐ 6,776
   ![Python](https://img.shields.io/badge/-Python-blue)
   Autonomous research system for measurable, computer-executable research.
 
-- **[MengTo/threeui](https://github.com/MengTo/threeui)** ⭐ 5,779
+- **[MengTo/threeui](https://github.com/MengTo/threeui)** ⭐ 5,796
   ![HTML](https://img.shields.io/badge/-HTML-lightgrey)
   Open-source ThreeUI Community catalog with live interactive components and complete Community source.
 
-- **[s1dashu/ip-as-logo-skill](https://github.com/s1dashu/ip-as-logo-skill)** ⭐ 5,239
+- **[s1dashu/ip-as-logo-skill](https://github.com/s1dashu/ip-as-logo-skill)** ⭐ 5,257
   ![None](https://img.shields.io/badge/-None-lightgrey)
   A compact Agent Skill for highly simplified, rounded, subtly neo-skeuomorphic IP mascot logos.
 
-- **[CopilotKit/OpenBot](https://github.com/CopilotKit/OpenBot)** ⭐ 4,894
+- **[CopilotKit/OpenBot](https://github.com/CopilotKit/OpenBot)** ⭐ 4,916
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   Open-source AI coworkers that each get a computer of their own: a browser, files and tools, with every action decided before it happens and recorded after. Bring any AG-UI agent.
 
-- **[amagine-ai/Amagine3D](https://github.com/amagine-ai/Amagine3D)** ⭐ 4,701
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  Amagine3D: From hardware requirements to editable 3D designs
-
-- **[rakanki911/DLSS5-Swapper](https://github.com/rakanki911/DLSS5-Swapper)** ⭐ 4,609
+- **[rakanki911/DLSS5-Swapper](https://github.com/rakanki911/DLSS5-Swapper)** ⭐ 4,814
   ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
   Install, tune and restore DLSS 5 in your games with one click. Native RenoDX, DLSS5-Feeder for games without DLSS, OptiScaler and multipass routes; DirectX 8/9/11/12, Vulkan, OpenGL, DirectDraw and emulators. In-game F8 overlay, automatic backups, and a community page showing what works on your games and your graphics card.
 
-- **[XiaoDuoYa/codex-with-chatgpt](https://github.com/XiaoDuoYa/codex-with-chatgpt)** ⭐ 4,304
+- **[amagine-ai/Amagine3D](https://github.com/amagine-ai/Amagine3D)** ⭐ 4,787
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  Amagine3D: From hardware requirements to editable 3D designs
+
+- **[XiaoDuoYa/codex-with-chatgpt](https://github.com/XiaoDuoYa/codex-with-chatgpt)** ⭐ 4,349
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   ChatGPT thinks. Codex works. Use ChatGPT as the planning brain while keeping the Codex harness.
 
@@ -489,58 +489,58 @@ See [kubernetes-announce@](https://groups.google.com/forum/#!forum/kubernetes-an
 | Skill | Status |
 |-------|--------|
 | Java | 🔴 Beginner |
-| Python | 🔴 Beginner |
-| JavaScript | ⚪ Planned |
-| TypeScript | 🟢 Proficient |
-| Go | ⚪ Planned |
+| Python | 🟢 Proficient |
+| JavaScript | 🟢 Proficient |
+| TypeScript | 🔴 Beginner |
+| Go | 🟡 Learning |
 
 ### Frameworks
 
 | Skill | Status |
 |-------|--------|
-| React | ⚪ Planned |
+| React | 🟡 Learning |
 | Spring Boot | 🟢 Proficient |
-| Django | 🟢 Proficient |
+| Django | 🟡 Learning |
 | Node.js | 🟡 Learning |
-| Next.js | 🟡 Learning |
+| Next.js | 🟢 Proficient |
 
 ### Cybersecurity
 
 | Skill | Status |
 |-------|--------|
 | Penetration Testing | ⚪ Planned |
-| Web Security | 🔴 Beginner |
+| Web Security | 🟢 Proficient |
 | Network Security | 🟡 Learning |
-| OWASP | ⚪ Planned |
+| OWASP | 🟡 Learning |
 
 ### Ai Ml
 
 | Skill | Status |
 |-------|--------|
-| Machine Learning | 🟡 Learning |
-| Deep Learning | 🔴 Beginner |
-| NLP | 🔴 Beginner |
-| Computer Vision | 🟡 Learning |
-| TensorFlow | 🟡 Learning |
-| PyTorch | 🟢 Proficient |
+| Machine Learning | 🟢 Proficient |
+| Deep Learning | ⚪ Planned |
+| NLP | 🟡 Learning |
+| Computer Vision | 🟢 Proficient |
+| TensorFlow | ⚪ Planned |
+| PyTorch | 🟡 Learning |
 
 ### Devops
 
 | Skill | Status |
 |-------|--------|
-| Docker | 🔴 Beginner |
-| Kubernetes | 🔴 Beginner |
-| CI/CD | 🔴 Beginner |
+| Docker | 🟡 Learning |
+| Kubernetes | ⚪ Planned |
+| CI/CD | ⚪ Planned |
 | AWS | 🔴 Beginner |
-| Azure | 🔴 Beginner |
+| Azure | 🟢 Proficient |
 
 ### Other
 
 | Skill | Status |
 |-------|--------|
-| Blockchain | ⚪ Planned |
+| Blockchain | 🔴 Beginner |
 | Web3 | 🔴 Beginner |
-| Cloud Computing | 🔴 Beginner |
+| Cloud Computing | ⚪ Planned |
 
 </details>
 
