@@ -46,75 +46,69 @@
 
 ### 📑 Hacker News
 
-- **[Learning Programming in an Age of LLMs](https://blog.ploeh.dk/2026/09/16/on-learning-programming-in-an-age-of-llms/)**
-  *<p>Article URL: <a href="https://blog.ploeh.dk/2026/09/16/on-learning-programming-in-an-age-of-llms/">https://blog.ploeh.dk/2026/09/16/on-learning-programming-in-an-age-of-llms/</a></p>
-<p>Comments UR...*
-  📅 Wed, 16 Sep 2026 09:12:34 +0000
+- **[Show HN: Free WhatsApp MCP (+UI) – Give Your AI Agents Access to WhatsApp](https://news.ycombinator.com/item?id=49728159)**
+  *<p>Hi,<p>I built Chat-Man because I wanted a cheap way to give my agents access to WhatsApp without integrating a WhatsApp library separately in every project.<p>You get  WhatsApp MCP server, so you c...*
+  📅 Wed, 16 Sep 2026 15:04:08 +0000
 
-- **[Mistral X Mozilla: Private, Multilingual AI Browsing](https://mistral.ai/news/mistral-x-mozilla/)**
-  *<p>Article URL: <a href="https://mistral.ai/news/mistral-x-mozilla/">https://mistral.ai/news/mistral-x-mozilla/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49723408">https:/...*
-  📅 Wed, 16 Sep 2026 08:08:57 +0000
+- **[Microsoft says AI rival Anthropic could have 'disastrous impact' on humanity](https://www.bbc.co.uk/news/articles/c6n07ypqz8kzo)**
+  *<p>Article URL: <a href="https://www.bbc.co.uk/news/articles/c6n07ypqz8kzo">https://www.bbc.co.uk/news/articles/c6n07ypqz8kzo</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=497...*
+  📅 Wed, 16 Sep 2026 14:32:15 +0000
 
-- **[MartyPC – A Cycle-Accurate IBM PC/XT Emulator](https://github.com/dbalsom/martypc)**
-  *<p>Article URL: <a href="https://github.com/dbalsom/martypc">https://github.com/dbalsom/martypc</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49722591">https://news.ycombinato...*
-  📅 Wed, 16 Sep 2026 05:56:02 +0000
+- **[PS5 Linux lead quits: "a bunch of noobs using LLMs" that "they don't understand"](https://frvr.com/blog/news/ps5-linux-lead-quits-as-open-source-projects-have-become-a-bunch-of-noobs-using-llms-that-they-dont-even-understand/)**
+  *<p>Article URL: <a href="https://frvr.com/blog/news/ps5-linux-lead-quits-as-open-source-projects-have-become-a-bunch-of-noobs-using-llms-that-they-dont-even-understand/">https://frvr.com/blog/news/ps5...*
+  📅 Wed, 16 Sep 2026 14:30:36 +0000
 
-- **[A software thing I built: GPS on a 25MHz 486-SX](https://forum.vcfed.org/index.php?threads/a-software-thing-i-built-gps-on-a-25mhz-486-sx.1258966/)**
-  *<p>Article URL: <a href="https://forum.vcfed.org/index.php?threads/a-software-thing-i-built-gps-on-a-25mhz-486-sx.1258966/">https://forum.vcfed.org/index.php?threads/a-software-thing-i-built-gps-on-a-...*
-  📅 Wed, 16 Sep 2026 05:43:44 +0000
+- **[Anatomy of a Texture](https://agentlien.github.io/texture/)**
+  *<p>Article URL: <a href="https://agentlien.github.io/texture/">https://agentlien.github.io/texture/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49727592">https://news.ycombi...*
+  📅 Wed, 16 Sep 2026 14:28:28 +0000
 
-- **[Datamimic – don't let your coding agent invent its own test world](https://github.com/rapiddweller/datamimic)**
-  *<p>Article URL: <a href="https://github.com/rapiddweller/datamimic">https://github.com/rapiddweller/datamimic</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49722276">https://n...*
-  📅 Wed, 16 Sep 2026 04:58:36 +0000
+- **[A warning about 'model welfare'](https://mustafa-suleyman.ai/a-warning-about-model-welfare)**
+  *<p>Article URL: <a href="https://mustafa-suleyman.ai/a-warning-about-model-welfare">https://mustafa-suleyman.ai/a-warning-about-model-welfare</a></p>
+<p>Comments URL: <a href="https://news.ycombinator...*
+  📅 Wed, 16 Sep 2026 14:27:47 +0000
 
-- **[Negativland, Culture Jamming, and the Art of Making Something New](https://blog.archive.org/2026/09/11/negativland-culture-jamming-and-the-art-of-making-something-new/)**
-  *<p>Article URL: <a href="https://blog.archive.org/2026/09/11/negativland-culture-jamming-and-the-art-of-making-something-new/">https://blog.archive.org/2026/09/11/negativland-culture-jamming-and-the-a...*
-  📅 Wed, 16 Sep 2026 02:46:06 +0000
+- **[Dream-RSI: Recursive Self-Improvement through Evolving Worlds](https://arxiv.org/abs/2609.14858)**
+  *<p>Article URL: <a href="https://arxiv.org/abs/2609.14858">https://arxiv.org/abs/2609.14858</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49726955">https://news.ycombinator.co...*
+  📅 Wed, 16 Sep 2026 13:44:40 +0000
 
 ### 📑 TechCrunch
 
-- **[We don’t need AI regulation — leave safety to us, Nvidia’s Jensen Huang says](https://techcrunch.com/2026/09/15/we-dont-need-ai-regulation-leave-safety-to-us-nvidias-jensen-huang-says/)**
-  *AI isn't some new form of "alien mind," according to Jensen Huang. It's just hardware and software, so safety can be engineered by each AI product maker....*
-  📅 Wed, 16 Sep 2026 00:20:39 +0000
+- **[May Mobility is going public in a $1.4B SPAC deal](https://techcrunch.com/2026/09/16/may-mobility-is-going-public-in-a-1-4b-spac-deal/)**
+  *The deal could net the asset-light robotaxi company more than $300 million in funding....*
+  📅 Wed, 16 Sep 2026 15:27:13 +0000
 
-- **[The AI data center boom is colliding with cities scarred by big industry](https://techcrunch.com/2026/09/15/the-ai-data-center-boom-is-colliding-with-cities-scarred-by-big-industry/)**
-  *National outcry against data center construction has spread to Philadelphia, where officials suggested possible construction in a neighborhood already impacted by a now-defunct oil refinery....*
-  📅 Tue, 15 Sep 2026 21:47:38 +0000
+- **[Robots are waiting for a ChatGPT moment: Nvidia’s Les Karpas explains why at TechCrunch Disrupt 2026](https://techcrunch.com/2026/09/16/robots-are-waiting-for-a-chatgpt-moment-nvidias-les-karpas-explains-why-at-techcrunch-disrupt-2026/)**
+  *The robotics industry is still waiting for their breakthrough into day-to-day life. Nvidia's Les Karpas has an answer as to why at TechCrunch Disrupt 2026. Register before September 25 to save up to $...*
+  📅 Wed, 16 Sep 2026 15:00:00 +0000
 
-- **[Meta now lets AI agents handle the boring parts of WhatsApp Business setup](https://techcrunch.com/2026/09/15/meta-now-lets-ai-agents-handle-the-boring-parts-of-whatsapp-business-setup/)**
-  *A new WhatsApp Business MCP server lets developers use AI coding agents like Claude, Cursor, Codex, and ChatGPT to handle setup, messaging templates, testing, and troubleshooting....*
-  📅 Tue, 15 Sep 2026 20:12:53 +0000
+- **[Google says some Pixel phone owners were hacked in zero-day attacks](https://techcrunch.com/2026/09/16/google-says-some-pixel-phone-owners-were-hacked-in-zero-day-attacks/)**
+  *The Pixel phone maker said there are indications that a bug in the phone's modem "may be under limited, targeted exploitation."...*
+  📅 Wed, 16 Sep 2026 14:47:07 +0000
 
-- **[The AI graveyard: a running list of projects and startups that didn’t make it](https://techcrunch.com/2026/09/15/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/)**
-  *From Apple's repeatedly delayed Siri AI to OpenAI's messy "super app" launch, here's a look at the AI projects that shut down or missed expectations....*
-  📅 Tue, 15 Sep 2026 19:00:00 +0000
+- **[Amazon gives its workers a raise of $1 per hour](https://techcrunch.com/2026/09/16/amazon-gives-its-workers-a-raise-of-1-per-hour/)**
+  *Amazon's investment in these raises comes out to over $1.5 billion, or about 0.06% of its $2.68 trillion market cap....*
+  📅 Wed, 16 Sep 2026 14:32:08 +0000
 
-- **[US data centers could consume more natural gas than Germany and Japan combined by 2035](https://techcrunch.com/2026/09/15/us-data-centers-could-consume-more-natural-gas-than-germany-and-japan-combined-by-2035/)**
-  *The AI frenzy could push U.S. data centers to become one of the largest consumers of natural gas in the world....*
-  📅 Tue, 15 Sep 2026 18:29:20 +0000
+- **[Threads’ new features let podcasters promote shows and reach listeners](https://techcrunch.com/2026/09/16/threads-new-features-let-podcasters-promote-shows-and-reach-listeners/)**
+  *Threads is rolling out new tools for podcasters, including profile cards, episode links, transcripts, guest tags, posting reminders, and audience insights, as Meta looks to make the X rival a bigger h...*
+  📅 Wed, 16 Sep 2026 14:24:58 +0000
 
-- **[SpaceX will try to put Starship in orbit for the first time on September 22](https://techcrunch.com/2026/09/15/spacex-will-try-to-put-starship-in-orbit-for-the-first-time-on-september-22/)**
-  *Elon Musk's company will also attempt to deploy the first V3 Starlink satellites into its orbital internet constellation....*
-  📅 Tue, 15 Sep 2026 18:16:07 +0000
+- **[Next wave of VCs judging Startup Battlefield 200 contenders at TechCrunch Disrupt 2026 revealed](https://techcrunch.com/2026/09/16/next-wave-of-vcs-judging-startup-battlefield-200-contenders-at-techcrunch-disrupt-2026-revealed/)**
+  *Meet the next five top-tier investors judging the Startup Battlefield 200 contenders live at TechCrunch Disrupt 2026. Register before September 25 to save up to $200 and don't miss a moment of the ult...*
+  📅 Wed, 16 Sep 2026 14:15:00 +0000
 
 ### 📑 Dev.to
 
-- **[Client Discovery Questionnaire for Freelance Web Developers: 25 Questions to Ask](https://dev.to/thekolachimedia/client-discovery-questionnaire-for-freelance-web-developers-25-questions-to-ask-2nna)**
-  *<p>Building a website is often the predictable part.</p>
+- **[Third-Party Listicles Drove Early AI Visibility in Two GEO Experiments](https://dev.to/alifar/third-party-listicles-drove-early-ai-visibility-in-two-geo-experiments-2ha0)**
+  *<p>Third-party listicles generated most early AI citation signals in two <a href="https://scalevise.com/resources/geo/" rel="noopener noreferrer">generative engine optimization</a>, or GEO, experiment...*
+  📅 Wed, 16 Sep 2026 15:45:30 +0000
 
-<p>The difficult part is turning a client's early idea into a project that both sides understand.</p>
-
-<p>A client may initially ask for a “si...*
-  📅 Wed, 16 Sep 2026 10:18:50 +0000
-
-- **[You Recorded Every Event. Can You Still Reconstruct the Execution?](https://dev.to/thelastciroandrea/you-recorded-every-event-can-you-still-reconstruct-the-execution-2kfk)**
-  *<p>Imagine that, months after an AI workflow ran, you want to reconstruct exactly what happened.</p>
-
-<p>The customer asked for a research report. The report was eventually delivered, and your system ...*
-  📅 Wed, 16 Sep 2026 10:18:47 +0000
+- **["Nobody designed the frontmatter"](https://dev.to/lisandro_reinoso_d12ac7b9/nobody-designed-the-frontmatter-fa0)**
+  *<p>I open any file in these repos in VS Code, and before the first heading the Outline panel shows a block of names: <code>title</code>, <code>numero</code>, <code>date</code>, <code>sesion_fuente</co...*
+  📅 Wed, 16 Sep 2026 15:44:06 +0000
 
 </details>
 
@@ -122,103 +116,103 @@
 
 ### 📈 Daily Trending
 
-- **[CoveBlackbirdFold/aniimo-modkit](https://github.com/CoveBlackbirdFold/aniimo-modkit)** ⭐ 34
+- **[Topazleinlet/Wardogs-Tool](https://github.com/Topazleinlet/Wardogs-Tool)** ⭐ 61
   ![None](https://img.shields.io/badge/-None-lightgrey)
-  41-module cheat/trainer for Aniimo — combat survival, Twining and elemental tools, creature capture, Homeland building and full progression unlocks.
+  Advanced and stable enhancement tool for Wardogs. Designed for better gameplay experience with clean interface, useful features, high performance and regular updates. Easy to install and use on the latest version of the game. Fully optimized for Windows.
 
-- **[MouseDesign95/Zapret-Discord-Telegram-Main](https://github.com/MouseDesign95/Zapret-Discord-Telegram-Main)** ⭐ 32
+- **[PelicanOven4/How-To-Fish-Tool](https://github.com/PelicanOven4/How-To-Fish-Tool)** ⭐ 53
   ![None](https://img.shields.io/badge/-None-lightgrey)
-  None
+  Advanced and stable enhancement tool for How to Fish. Designed for better gameplay experience with clean interface, useful features, high performance and regular updates. Easy to install and use on the latest version of the game. Fully optimized for Windows.
 
-- **[zhdmm35/obsidian-mobile-companion](https://github.com/zhdmm35/obsidian-mobile-companion)** ⭐ 29
-  ![Kotlin](https://img.shields.io/badge/-Kotlin-lightgrey)
-  Android companion for Markdown vaults stored on GitHub, with Obsidian rendering, offline reading, conflict-safe editing, and an optional desktop sync helper.
+- **[ChromeGrouse45/Mecca-Chameleon-Tool](https://github.com/ChromeGrouse45/Mecca-Chameleon-Tool)** ⭐ 53
+  ![None](https://img.shields.io/badge/-None-lightgrey)
+  Advanced and stable enhancement tool for Mecca Chameleon. Designed for better gameplay experience with clean interface, useful features, high performance and regular updates. Easy to install and use on the latest version of the game. Fully optimized for Windows.
 
-- **[apimart-11/image2.5-api-prompt-gallery](https://github.com/apimart-11/image2.5-api-prompt-gallery)** ⭐ 27
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  Twelve image2.5 (GPT-Image-2.5) prompt recipes with example outputs, model version, aspect ratio and copy-paste cURL, Python and JavaScript calls through the APIMart API.
-
-- **[dofastted/vm2api](https://github.com/dofastted/vm2api)** ⭐ 25
+- **[dofastted/vm2api](https://github.com/dofastted/vm2api)** ⭐ 43
   ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
   vm2api 使用虚拟机完全拟真方案的订阅转api
 
-- **[loujc/eda-paper-writing](https://github.com/loujc/eda-paper-writing)** ⭐ 22
-  ![None](https://img.shields.io/badge/-None-lightgrey)
-  None
-
-- **[Krimchanin/claude-vault](https://github.com/Krimchanin/claude-vault)** ⭐ 14
+- **[Krimchanin/claude-vault](https://github.com/Krimchanin/claude-vault)** ⭐ 37
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   Keep Claude Desktop chats safe when switching accounts — local-first backup and restore for conversations.
 
-- **[thx853068675-dev/quietstart](https://github.com/thx853068675-dev/quietstart)** ⭐ 12
+- **[CoveBlackbirdFold/aniimo-modkit](https://github.com/CoveBlackbirdFold/aniimo-modkit)** ⭐ 35
   ![None](https://img.shields.io/badge/-None-lightgrey)
-  轻启安装制品与版本说明（不公开源码）
+  41-module cheat/trainer for Aniimo — combat survival, Twining and elemental tools, creature capture, Homeland building and full progression unlocks.
+
+- **[zhdmm35/obsidian-mobile-companion](https://github.com/zhdmm35/obsidian-mobile-companion)** ⭐ 33
+  ![Kotlin](https://img.shields.io/badge/-Kotlin-lightgrey)
+  Android companion for Markdown vaults stored on GitHub, with Obsidian rendering, offline reading, conflict-safe editing, and an optional desktop sync helper.
+
+- **[DreamWizardVoid/Active-Matter-Tool](https://github.com/DreamWizardVoid/Active-Matter-Tool)** ⭐ 31
+  ![None](https://img.shields.io/badge/-None-lightgrey)
+  Advanced and stable enhancement tool for Active Matter. Designed for better gameplay experience with clean interface, useful features, high performance and regular updates. Easy to install and use on the latest version of the game. Fully optimized for Windows.
 
 ### 📈 Weekly Trending
 
-- **[Chuloo/mural](https://github.com/Chuloo/mural)** ⭐ 1,142
+- **[Chuloo/mural](https://github.com/Chuloo/mural)** ⭐ 1,198
   ![Kotlin](https://img.shields.io/badge/-Kotlin-lightgrey)
   The language app you eventually delete. A native iPhone companion for learning through conversation.
 
-- **[ai-sucks-butt/ai-sucks-butt](https://github.com/ai-sucks-butt/ai-sucks-butt)** ⭐ 1,033
+- **[ai-sucks-butt/ai-sucks-butt](https://github.com/ai-sucks-butt/ai-sucks-butt)** ⭐ 1,038
   ![Python](https://img.shields.io/badge/-Python-blue)
   If you think AI sucks, star the repo.
 
-- **[sumimakito/Mac-Duo](https://github.com/sumimakito/Mac-Duo)** ⭐ 930
+- **[sumimakito/Mac-Duo](https://github.com/sumimakito/Mac-Duo)** ⭐ 936
   ![Swift](https://img.shields.io/badge/-Swift-lightgrey)
   Wish you could bring the iPhone Duo effect to your MacBook?
 
-- **[yifanzhang-pro/recurrent-looped-tranformer](https://github.com/yifanzhang-pro/recurrent-looped-tranformer)** ⭐ 843
+- **[yifanzhang-pro/recurrent-looped-tranformer](https://github.com/yifanzhang-pro/recurrent-looped-tranformer)** ⭐ 851
   ![HTML](https://img.shields.io/badge/-HTML-lightgrey)
   Official Project Page for Recurrent Looped Transformer (RLT)
 
-- **[kruzovic7/ai-data-extractor](https://github.com/kruzovic7/ai-data-extractor)** ⭐ 824
+- **[kruzovic7/ai-data-extractor](https://github.com/kruzovic7/ai-data-extractor)** ⭐ 825
   ![Python](https://img.shields.io/badge/-Python-blue)
   Free open-source extractor for AI coding assistant chat histories. Supports Claude Code, Cursor, Windsurf, Aider, Cline/Roo Code, and more.
 
-- **[zjwzcx/Awesome-Astra-Embodied-AI](https://github.com/zjwzcx/Awesome-Astra-Embodied-AI)** ⭐ 739
+- **[zjwzcx/Awesome-Astra-Embodied-AI](https://github.com/zjwzcx/Awesome-Astra-Embodied-AI)** ⭐ 756
   ![None](https://img.shields.io/badge/-None-lightgrey)
   GPT-6 Astra for embodied AI and robotics.
 
-- **[angusdevgo/IDM_Pro_Tool](https://github.com/angusdevgo/IDM_Pro_Tool)** ⭐ 717
+- **[angusdevgo/IDM_Pro_Tool](https://github.com/angusdevgo/IDM_Pro_Tool)** ⭐ 718
   ![C#](https://img.shields.io/badge/-C#-lightgrey)
   IDM激活与状态维护工具
 
-- **[eternityspring/reelbench-skills](https://github.com/eternityspring/reelbench-skills)** ⭐ 703
-  ![HTML](https://img.shields.io/badge/-HTML-lightgrey)
-  Learning notes and tooling skills for AI video - AI 视频相关的学习与工具 skill
+- **[unstablebuild/rune](https://github.com/unstablebuild/rune)** ⭐ 718
+  ![Go](https://img.shields.io/badge/-Go-cyan)
+  the development environment for pros
 
 ### 📈 Monthly Trending
 
-- **[lnkiai/m3e-canvas](https://github.com/lnkiai/m3e-canvas)** ⭐ 7,037
+- **[lnkiai/m3e-canvas](https://github.com/lnkiai/m3e-canvas)** ⭐ 7,087
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   Sketch Material 3 Expressive screens in the browser and turn them into vibe-coding prompts.
 
-- **[sapientinc/PRAXIST](https://github.com/sapientinc/PRAXIST)** ⭐ 6,544
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  Autonomous research system for measurable, computer-executable research.
-
-- **[MengTo/threeui](https://github.com/MengTo/threeui)** ⭐ 5,838
+- **[MengTo/threeui](https://github.com/MengTo/threeui)** ⭐ 5,852
   ![HTML](https://img.shields.io/badge/-HTML-lightgrey)
   Open-source ThreeUI Community catalog with live interactive components and complete Community source.
 
-- **[s1dashu/ip-as-logo-skill](https://github.com/s1dashu/ip-as-logo-skill)** ⭐ 5,278
+- **[sapientinc/PRAXIST](https://github.com/sapientinc/PRAXIST)** ⭐ 5,332
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  Autonomous research system for measurable, computer-executable research.
+
+- **[s1dashu/ip-as-logo-skill](https://github.com/s1dashu/ip-as-logo-skill)** ⭐ 5,290
   ![None](https://img.shields.io/badge/-None-lightgrey)
   A compact Agent Skill for highly simplified, rounded, subtly neo-skeuomorphic IP mascot logos.
 
-- **[rakanki911/DLSS5-Swapper](https://github.com/rakanki911/DLSS5-Swapper)** ⭐ 5,159
+- **[rakanki911/DLSS5-Swapper](https://github.com/rakanki911/DLSS5-Swapper)** ⭐ 5,264
   ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
   Install, tune and restore DLSS 5 in your games with one click. Native RenoDX, DLSS5-Feeder for games without DLSS, OptiScaler and multipass routes; DirectX 8/9/11/12, Vulkan, OpenGL, DirectDraw and emulators. In-game F8 overlay, automatic backups, and a community page showing what works on your games and your graphics card.
 
-- **[amagine-ai/Amagine3D](https://github.com/amagine-ai/Amagine3D)** ⭐ 4,976
+- **[amagine-ai/Amagine3D](https://github.com/amagine-ai/Amagine3D)** ⭐ 5,018
   ![Python](https://img.shields.io/badge/-Python-blue)
   Amagine3D: From hardware requirements to editable 3D designs
 
-- **[XiaoDuoYa/codex-with-chatgpt](https://github.com/XiaoDuoYa/codex-with-chatgpt)** ⭐ 4,679
+- **[XiaoDuoYa/codex-with-chatgpt](https://github.com/XiaoDuoYa/codex-with-chatgpt)** ⭐ 4,759
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   ChatGPT thinks. Codex works. Use ChatGPT as the planning brain while keeping the Codex harness.
 
-- **[crmne/spotifast](https://github.com/crmne/spotifast)** ⭐ 4,239
+- **[crmne/spotifast](https://github.com/crmne/spotifast)** ⭐ 4,272
   ![Rust](https://img.shields.io/badge/-Rust-brown)
   Spotify, native and fast. One lightweight Rust app for your whole library, local playback, and Spotify Connect on Linux, macOS, and Windows.
 
@@ -490,59 +484,59 @@ See [kubernetes-announce@](https://groups.google.com/forum/#!forum/kubernetes-an
 
 | Skill | Status |
 |-------|--------|
-| Java | 🟡 Learning |
+| Java | ⚪ Planned |
 | Python | 🟡 Learning |
-| JavaScript | ⚪ Planned |
-| TypeScript | 🟢 Proficient |
-| Go | 🟡 Learning |
+| JavaScript | 🔴 Beginner |
+| TypeScript | 🔴 Beginner |
+| Go | ⚪ Planned |
 
 ### Frameworks
 
 | Skill | Status |
 |-------|--------|
-| React | 🟡 Learning |
-| Spring Boot | 🟡 Learning |
-| Django | 🟢 Proficient |
+| React | 🔴 Beginner |
+| Spring Boot | ⚪ Planned |
+| Django | 🔴 Beginner |
 | Node.js | 🟢 Proficient |
-| Next.js | 🔴 Beginner |
+| Next.js | 🟡 Learning |
 
 ### Cybersecurity
 
 | Skill | Status |
 |-------|--------|
-| Penetration Testing | 🟡 Learning |
-| Web Security | 🔴 Beginner |
-| Network Security | 🔴 Beginner |
-| OWASP | 🔴 Beginner |
+| Penetration Testing | 🟢 Proficient |
+| Web Security | 🟢 Proficient |
+| Network Security | ⚪ Planned |
+| OWASP | 🟡 Learning |
 
 ### Ai Ml
 
 | Skill | Status |
 |-------|--------|
-| Machine Learning | 🟢 Proficient |
-| Deep Learning | 🟢 Proficient |
-| NLP | 🔴 Beginner |
-| Computer Vision | 🟢 Proficient |
-| TensorFlow | 🟡 Learning |
-| PyTorch | 🔴 Beginner |
+| Machine Learning | ⚪ Planned |
+| Deep Learning | 🔴 Beginner |
+| NLP | 🟡 Learning |
+| Computer Vision | 🟡 Learning |
+| TensorFlow | ⚪ Planned |
+| PyTorch | ⚪ Planned |
 
 ### Devops
 
 | Skill | Status |
 |-------|--------|
 | Docker | ⚪ Planned |
-| Kubernetes | 🔴 Beginner |
-| CI/CD | 🟡 Learning |
-| AWS | 🟢 Proficient |
-| Azure | 🟢 Proficient |
+| Kubernetes | ⚪ Planned |
+| CI/CD | 🟢 Proficient |
+| AWS | ⚪ Planned |
+| Azure | 🟡 Learning |
 
 ### Other
 
 | Skill | Status |
 |-------|--------|
-| Blockchain | ⚪ Planned |
-| Web3 | 🟡 Learning |
-| Cloud Computing | 🟡 Learning |
+| Blockchain | 🟢 Proficient |
+| Web3 | ⚪ Planned |
+| Cloud Computing | ⚪ Planned |
 
 </details>
 
