@@ -46,75 +46,85 @@
 
 ### 📑 Hacker News
 
-- **[Show HN: Free WhatsApp MCP (+UI) – Give Your AI Agents Access to WhatsApp](https://news.ycombinator.com/item?id=49728159)**
-  *<p>Hi,<p>I built Chat-Man because I wanted a cheap way to give my agents access to WhatsApp without integrating a WhatsApp library separately in every project.<p>You get  WhatsApp MCP server, so you c...*
-  📅 Wed, 16 Sep 2026 15:04:08 +0000
+- **[How good are frontier models at physics?](https://arxiv.org/abs/2609.13009)**
+  *<p>Article URL: <a href="https://arxiv.org/abs/2609.13009">https://arxiv.org/abs/2609.13009</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49731620">https://news.ycombinator.co...*
+  📅 Wed, 16 Sep 2026 19:19:08 +0000
 
-- **[Microsoft says AI rival Anthropic could have 'disastrous impact' on humanity](https://www.bbc.co.uk/news/articles/c6n07ypqz8kzo)**
-  *<p>Article URL: <a href="https://www.bbc.co.uk/news/articles/c6n07ypqz8kzo">https://www.bbc.co.uk/news/articles/c6n07ypqz8kzo</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=497...*
-  📅 Wed, 16 Sep 2026 14:32:15 +0000
+- **[A coffee shop owner used AI to make a menu poster. Then came the angry DMs](https://www.businessinsider.com/coffee-shop-owner-ai-menu-backlash-2026-9)**
+  *<p>Article URL: <a href="https://www.businessinsider.com/coffee-shop-owner-ai-menu-backlash-2026-9">https://www.businessinsider.com/coffee-shop-owner-ai-menu-backlash-2026-9</a></p>
+<p>Comments URL: <...*
+  📅 Wed, 16 Sep 2026 18:59:42 +0000
 
-- **[PS5 Linux lead quits: "a bunch of noobs using LLMs" that "they don't understand"](https://frvr.com/blog/news/ps5-linux-lead-quits-as-open-source-projects-have-become-a-bunch-of-noobs-using-llms-that-they-dont-even-understand/)**
-  *<p>Article URL: <a href="https://frvr.com/blog/news/ps5-linux-lead-quits-as-open-source-projects-have-become-a-bunch-of-noobs-using-llms-that-they-dont-even-understand/">https://frvr.com/blog/news/ps5...*
-  📅 Wed, 16 Sep 2026 14:30:36 +0000
+- **[Accurate Models of AMD Matrix Cores](https://arxiv.org/abs/2609.14845)**
+  *<p>Article URL: <a href="https://arxiv.org/abs/2609.14845">https://arxiv.org/abs/2609.14845</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49731360">https://news.ycombinator.co...*
+  📅 Wed, 16 Sep 2026 18:56:05 +0000
 
-- **[Anatomy of a Texture](https://agentlien.github.io/texture/)**
-  *<p>Article URL: <a href="https://agentlien.github.io/texture/">https://agentlien.github.io/texture/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49727592">https://news.ycombi...*
-  📅 Wed, 16 Sep 2026 14:28:28 +0000
+- **[Training a 4B model to produce 81% faster query plans than Postgres](https://rohanbansal.com/qorl)**
+  *<p>Article URL: <a href="https://rohanbansal.com/qorl">https://rohanbansal.com/qorl</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49731285">https://news.ycombinator.com/item?i...*
+  📅 Wed, 16 Sep 2026 18:50:00 +0000
 
-- **[A warning about 'model welfare'](https://mustafa-suleyman.ai/a-warning-about-model-welfare)**
-  *<p>Article URL: <a href="https://mustafa-suleyman.ai/a-warning-about-model-welfare">https://mustafa-suleyman.ai/a-warning-about-model-welfare</a></p>
-<p>Comments URL: <a href="https://news.ycombinator...*
-  📅 Wed, 16 Sep 2026 14:27:47 +0000
+- **[Why a fast-growing German AI startup is moving its parent company from the US](https://www.euronews.com/business/2026/09/16/why-this-fast-growing-german-ai-start-up-is-moving-its-parent-company-from-the-us)**
+  *<p>Article URL: <a href="https://www.euronews.com/business/2026/09/16/why-this-fast-growing-german-ai-start-up-is-moving-its-parent-company-from-the-us">https://www.euronews.com/business/2026/09/16/wh...*
+  📅 Wed, 16 Sep 2026 18:45:20 +0000
 
-- **[Dream-RSI: Recursive Self-Improvement through Evolving Worlds](https://arxiv.org/abs/2609.14858)**
-  *<p>Article URL: <a href="https://arxiv.org/abs/2609.14858">https://arxiv.org/abs/2609.14858</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49726955">https://news.ycombinator.co...*
-  📅 Wed, 16 Sep 2026 13:44:40 +0000
+- **[Vectorized and performance-portable Quicksort (2022)](https://opensource.googleblog.com/2022/06/Vectorized%20and%20performance%20portable%20Quicksort.html)**
+  *<p>Article URL: <a href="https://opensource.googleblog.com/2022/06/Vectorized%20and%20performance%20portable%20Quicksort.html">https://opensource.googleblog.com/2022/06/Vectorized%20and%20performance%...*
+  📅 Wed, 16 Sep 2026 18:31:35 +0000
 
 ### 📑 TechCrunch
 
-- **[May Mobility is going public in a $1.4B SPAC deal](https://techcrunch.com/2026/09/16/may-mobility-is-going-public-in-a-1-4b-spac-deal/)**
-  *The deal could net the asset-light robotaxi company more than $300 million in funding....*
-  📅 Wed, 16 Sep 2026 15:27:13 +0000
+- **[After accusations of selling ‘perv glasses,’ Meta prepares to sell a pair without a camera](https://techcrunch.com/2026/09/16/after-accusations-of-selling-perv-glasses-meta-prepares-to-sell-a-pair-without-a-camera/)**
+  *Can Meta dodge the "pervert glasses" accusations with a new camera-free product?...*
+  📅 Wed, 16 Sep 2026 20:12:00 +0000
 
-- **[Robots are waiting for a ChatGPT moment: Nvidia’s Les Karpas explains why at TechCrunch Disrupt 2026](https://techcrunch.com/2026/09/16/robots-are-waiting-for-a-chatgpt-moment-nvidias-les-karpas-explains-why-at-techcrunch-disrupt-2026/)**
-  *The robotics industry is still waiting for their breakthrough into day-to-day life. Nvidia's Les Karpas has an answer as to why at TechCrunch Disrupt 2026. Register before September 25 to save up to $...*
-  📅 Wed, 16 Sep 2026 15:00:00 +0000
+- **[X will now let US users trade via Cashtags](https://techcrunch.com/2026/09/16/x-will-now-let-u-s-users-trade-via-cashtags/)**
+  *The move closes the gap between the market discussions taking place on the timeline, and the market itself....*
+  📅 Wed, 16 Sep 2026 19:57:22 +0000
 
-- **[Google says some Pixel phone owners were hacked in zero-day attacks](https://techcrunch.com/2026/09/16/google-says-some-pixel-phone-owners-were-hacked-in-zero-day-attacks/)**
-  *The Pixel phone maker said there are indications that a bug in the phone's modem "may be under limited, targeted exploitation."...*
-  📅 Wed, 16 Sep 2026 14:47:07 +0000
+- **[Automattic’s interim CEO and legal chief signed reciprocal severance deals during Mullenweg’s brief ouster](https://techcrunch.com/2026/09/16/automattics-interim-ceo-and-legal-chief-signed-reciprocal-severance-deals-during-mullenwegs-brief-ouster/)**
+  *CFO Mark Davies and legal chief Andy Missan signed each other’s severance agreements while Matt Mullenweg was on leave, providing a year of salary and additional equity vesting if their departures qua...*
+  📅 Wed, 16 Sep 2026 19:35:29 +0000
 
-- **[Amazon gives its workers a raise of $1 per hour](https://techcrunch.com/2026/09/16/amazon-gives-its-workers-a-raise-of-1-per-hour/)**
-  *Amazon's investment in these raises comes out to over $1.5 billion, or about 0.06% of its $2.68 trillion market cap....*
-  📅 Wed, 16 Sep 2026 14:32:08 +0000
+- **[Former Waymo CFO jumps to self-driving startup Wayve](https://techcrunch.com/2026/09/16/former-waymo-cfo-jumps-to-self-driving-startup-wayve/)**
+  *Elisa de Martel, who left her position as chief financial officer at Alphabet's autonomous vehicle company Waymo in January, will be based out of Silicon Valley....*
+  📅 Wed, 16 Sep 2026 19:02:49 +0000
 
-- **[Threads’ new features let podcasters promote shows and reach listeners](https://techcrunch.com/2026/09/16/threads-new-features-let-podcasters-promote-shows-and-reach-listeners/)**
-  *Threads is rolling out new tools for podcasters, including profile cards, episode links, transcripts, guest tags, posting reminders, and audience insights, as Meta looks to make the X rival a bigger h...*
-  📅 Wed, 16 Sep 2026 14:24:58 +0000
+- **[Hear why Science Corp CEO Max Hodak says the screen era is ending at TechCrunch Disrupt 2026](https://techcrunch.com/2026/09/16/hear-why-science-corp-ceo-max-hodak-says-the-screen-era-is-ending-at-techcrunch-disrupt-2026/)**
+  *At this year's Disrupt, Science Corp CEO Max Hodak will present a vision for screen-free interfaces that can even offer medical help. Register before September 25 to save up to $200 on your pass....*
+  📅 Wed, 16 Sep 2026 18:45:35 +0000
 
-- **[Next wave of VCs judging Startup Battlefield 200 contenders at TechCrunch Disrupt 2026 revealed](https://techcrunch.com/2026/09/16/next-wave-of-vcs-judging-startup-battlefield-200-contenders-at-techcrunch-disrupt-2026-revealed/)**
-  *Meet the next five top-tier investors judging the Startup Battlefield 200 contenders live at TechCrunch Disrupt 2026. Register before September 25 to save up to $200 and don't miss a moment of the ult...*
-  📅 Wed, 16 Sep 2026 14:15:00 +0000
+- **[AI labs want in-house auditors — but maybe they should shut the front door first](https://techcrunch.com/2026/09/16/ai-labs-want-in-house-auditors-but-maybe-they-should-shut-the-front-door-first/)**
+  *There may be a simpler and more effective fix for rogue agents, hiding in plain sight....*
+  📅 Wed, 16 Sep 2026 18:25:25 +0000
 
 ### 📑 Dev.to
 
-- **[Third-Party Listicles Drove Early AI Visibility in Two GEO Experiments](https://dev.to/alifar/third-party-listicles-drove-early-ai-visibility-in-two-geo-experiments-2ha0)**
-  *<p>Third-party listicles generated most early AI citation signals in two <a href="https://scalevise.com/resources/geo/" rel="noopener noreferrer">generative engine optimization</a>, or GEO, experiment...*
-  📅 Wed, 16 Sep 2026 15:45:30 +0000
+- **[I tried giving a 26 MB Burp Suite dump to an LLM. It didn't work. So I built BurpSqueezer.](https://dev.to/vaginskii/i-tried-giving-a-26-mb-burp-suite-dump-to-an-llm-it-didnt-work-so-i-built-burpsqueezer-29i4)**
+  *<p>Hi, everyone. I’ve put together a tool that will help many web and API penetration testers solve the problem of integrating AI into their workflow.</p>
 
-- **["Nobody designed the frontmatter"](https://dev.to/lisandro_reinoso_d12ac7b9/nobody-designed-the-frontmatter-fa0)**
-  *<p>I open any file in these repos in VS Code, and before the first heading the Outline panel shows a block of names: <code>title</code>, <code>numero</code>, <code>date</code>, <code>sesion_fuente</co...*
-  📅 Wed, 16 Sep 2026 15:44:06 +0000
+<p>BurpSqueezer is a utility that lets you “...*
+  📅 Wed, 16 Sep 2026 20:27:54 +0000
+
+- **[The AI Slowdown Nobody's Actually Slowing Down For](https://dev.to/jason_gunnells/the-ai-slowdown-nobodys-actually-slowing-down-for-4i62)**
+  *<p>A week ago, three of the industry's biggest names agreed AI needed to pump the brakes. This week, the two governments that would actually have to enforce that both said no — and the fallout says mo...*
+  📅 Wed, 16 Sep 2026 20:15:29 +0000
 
 </details>
 
 ## 🔥 Trending Repositories
 
 ### 📈 Daily Trending
+
+- **[Marcos66236/github-stars-history](https://github.com/Marcos66236/github-stars-history)** ⭐ 227
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  Track and visualize the stars history of any GitHub repository. Open-source growth analytics and velocity tracking.
+
+- **[vinnylarouge/jevlike](https://github.com/vinnylarouge/jevlike)** ⭐ 121
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  None
 
 - **[Topazleinlet/Wardogs-Tool](https://github.com/Topazleinlet/Wardogs-Tool)** ⭐ 61
   ![None](https://img.shields.io/badge/-None-lightgrey)
@@ -128,41 +138,33 @@
   ![None](https://img.shields.io/badge/-None-lightgrey)
   Advanced and stable enhancement tool for Mecca Chameleon. Designed for better gameplay experience with clean interface, useful features, high performance and regular updates. Easy to install and use on the latest version of the game. Fully optimized for Windows.
 
-- **[dofastted/vm2api](https://github.com/dofastted/vm2api)** ⭐ 43
+- **[dofastted/vm2api](https://github.com/dofastted/vm2api)** ⭐ 45
   ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
   vm2api 使用虚拟机完全拟真方案的订阅转api
 
-- **[Krimchanin/claude-vault](https://github.com/Krimchanin/claude-vault)** ⭐ 37
+- **[ctdal/cve-2026-41940-PoC](https://github.com/ctdal/cve-2026-41940-PoC)** ⭐ 44
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  A cPanel and WHM authentication bypassing tool
+
+- **[iamLiquidX/telegram-clone-worker](https://github.com/iamLiquidX/telegram-clone-worker)** ⭐ 43
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
-  Keep Claude Desktop chats safe when switching accounts — local-first backup and restore for conversations.
-
-- **[CoveBlackbirdFold/aniimo-modkit](https://github.com/CoveBlackbirdFold/aniimo-modkit)** ⭐ 35
-  ![None](https://img.shields.io/badge/-None-lightgrey)
-  41-module cheat/trainer for Aniimo — combat survival, Twining and elemental tools, creature capture, Homeland building and full progression unlocks.
-
-- **[zhdmm35/obsidian-mobile-companion](https://github.com/zhdmm35/obsidian-mobile-companion)** ⭐ 33
-  ![Kotlin](https://img.shields.io/badge/-Kotlin-lightgrey)
-  Android companion for Markdown vaults stored on GitHub, with Obsidian rendering, offline reading, conflict-safe editing, and an optional desktop sync helper.
-
-- **[DreamWizardVoid/Active-Matter-Tool](https://github.com/DreamWizardVoid/Active-Matter-Tool)** ⭐ 31
-  ![None](https://img.shields.io/badge/-None-lightgrey)
-  Advanced and stable enhancement tool for Active Matter. Designed for better gameplay experience with clean interface, useful features, high performance and regular updates. Easy to install and use on the latest version of the game. Fully optimized for Windows.
+  Telegram Clone Worker - Fast Telegram channel cloner & live sync engine on Cloudflare Workers + D1
 
 ### 📈 Weekly Trending
 
-- **[Chuloo/mural](https://github.com/Chuloo/mural)** ⭐ 1,198
+- **[Chuloo/mural](https://github.com/Chuloo/mural)** ⭐ 1,239
   ![Kotlin](https://img.shields.io/badge/-Kotlin-lightgrey)
   The language app you eventually delete. A native iPhone companion for learning through conversation.
 
-- **[ai-sucks-butt/ai-sucks-butt](https://github.com/ai-sucks-butt/ai-sucks-butt)** ⭐ 1,038
+- **[ai-sucks-butt/ai-sucks-butt](https://github.com/ai-sucks-butt/ai-sucks-butt)** ⭐ 1,179
   ![Python](https://img.shields.io/badge/-Python-blue)
   If you think AI sucks, star the repo.
 
-- **[sumimakito/Mac-Duo](https://github.com/sumimakito/Mac-Duo)** ⭐ 936
+- **[sumimakito/Mac-Duo](https://github.com/sumimakito/Mac-Duo)** ⭐ 937
   ![Swift](https://img.shields.io/badge/-Swift-lightgrey)
   Wish you could bring the iPhone Duo effect to your MacBook?
 
-- **[yifanzhang-pro/recurrent-looped-tranformer](https://github.com/yifanzhang-pro/recurrent-looped-tranformer)** ⭐ 851
+- **[yifanzhang-pro/recurrent-looped-tranformer](https://github.com/yifanzhang-pro/recurrent-looped-tranformer)** ⭐ 856
   ![HTML](https://img.shields.io/badge/-HTML-lightgrey)
   Official Project Page for Recurrent Looped Transformer (RLT)
 
@@ -170,49 +172,49 @@
   ![Python](https://img.shields.io/badge/-Python-blue)
   Free open-source extractor for AI coding assistant chat histories. Supports Claude Code, Cursor, Windsurf, Aider, Cline/Roo Code, and more.
 
-- **[zjwzcx/Awesome-Astra-Embodied-AI](https://github.com/zjwzcx/Awesome-Astra-Embodied-AI)** ⭐ 756
+- **[zjwzcx/Awesome-Astra-Embodied-AI](https://github.com/zjwzcx/Awesome-Astra-Embodied-AI)** ⭐ 760
   ![None](https://img.shields.io/badge/-None-lightgrey)
   GPT-6 Astra for embodied AI and robotics.
 
-- **[angusdevgo/IDM_Pro_Tool](https://github.com/angusdevgo/IDM_Pro_Tool)** ⭐ 718
-  ![C#](https://img.shields.io/badge/-C#-lightgrey)
-  IDM激活与状态维护工具
-
-- **[unstablebuild/rune](https://github.com/unstablebuild/rune)** ⭐ 718
+- **[unstablebuild/rune](https://github.com/unstablebuild/rune)** ⭐ 742
   ![Go](https://img.shields.io/badge/-Go-cyan)
   the development environment for pros
 
+- **[angusdevgo/IDM_Pro_Tool](https://github.com/angusdevgo/IDM_Pro_Tool)** ⭐ 719
+  ![C#](https://img.shields.io/badge/-C#-lightgrey)
+  IDM激活与状态维护工具
+
 ### 📈 Monthly Trending
 
-- **[lnkiai/m3e-canvas](https://github.com/lnkiai/m3e-canvas)** ⭐ 7,087
+- **[lnkiai/m3e-canvas](https://github.com/lnkiai/m3e-canvas)** ⭐ 7,109
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   Sketch Material 3 Expressive screens in the browser and turn them into vibe-coding prompts.
 
-- **[MengTo/threeui](https://github.com/MengTo/threeui)** ⭐ 5,852
+- **[MengTo/threeui](https://github.com/MengTo/threeui)** ⭐ 5,863
   ![HTML](https://img.shields.io/badge/-HTML-lightgrey)
   Open-source ThreeUI Community catalog with live interactive components and complete Community source.
 
-- **[sapientinc/PRAXIST](https://github.com/sapientinc/PRAXIST)** ⭐ 5,332
+- **[sapientinc/PRAXIST](https://github.com/sapientinc/PRAXIST)** ⭐ 5,322
   ![Python](https://img.shields.io/badge/-Python-blue)
   Autonomous research system for measurable, computer-executable research.
 
-- **[s1dashu/ip-as-logo-skill](https://github.com/s1dashu/ip-as-logo-skill)** ⭐ 5,290
-  ![None](https://img.shields.io/badge/-None-lightgrey)
-  A compact Agent Skill for highly simplified, rounded, subtly neo-skeuomorphic IP mascot logos.
-
-- **[rakanki911/DLSS5-Swapper](https://github.com/rakanki911/DLSS5-Swapper)** ⭐ 5,264
+- **[rakanki911/DLSS5-Swapper](https://github.com/rakanki911/DLSS5-Swapper)** ⭐ 5,300
   ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
   Install, tune and restore DLSS 5 in your games with one click. Native RenoDX, DLSS5-Feeder for games without DLSS, OptiScaler and multipass routes; DirectX 8/9/11/12, Vulkan, OpenGL, DirectDraw and emulators. In-game F8 overlay, automatic backups, and a community page showing what works on your games and your graphics card.
 
-- **[amagine-ai/Amagine3D](https://github.com/amagine-ai/Amagine3D)** ⭐ 5,018
+- **[s1dashu/ip-as-logo-skill](https://github.com/s1dashu/ip-as-logo-skill)** ⭐ 5,293
+  ![None](https://img.shields.io/badge/-None-lightgrey)
+  A compact Agent Skill for highly simplified, rounded, subtly neo-skeuomorphic IP mascot logos.
+
+- **[amagine-ai/Amagine3D](https://github.com/amagine-ai/Amagine3D)** ⭐ 5,058
   ![Python](https://img.shields.io/badge/-Python-blue)
   Amagine3D: From hardware requirements to editable 3D designs
 
-- **[XiaoDuoYa/codex-with-chatgpt](https://github.com/XiaoDuoYa/codex-with-chatgpt)** ⭐ 4,759
+- **[XiaoDuoYa/codex-with-chatgpt](https://github.com/XiaoDuoYa/codex-with-chatgpt)** ⭐ 4,794
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   ChatGPT thinks. Codex works. Use ChatGPT as the planning brain while keeping the Codex harness.
 
-- **[crmne/spotifast](https://github.com/crmne/spotifast)** ⭐ 4,272
+- **[crmne/spotifast](https://github.com/crmne/spotifast)** ⭐ 4,284
   ![Rust](https://img.shields.io/badge/-Rust-brown)
   Spotify, native and fast. One lightweight Rust app for your whole library, local playback, and Spotify Connect on Linux, macOS, and Windows.
 
@@ -249,14 +251,14 @@ Read the [React 19.3 release post](https://react.dev/blog/2026/09/09/react-19-3)
 
 ### 📦 angular/angular
 
-**[22.1.6](https://github.com/angular/angular/releases/tag/v22.1.6)** `v22.1.6`
+**[22.1.7](https://github.com/angular/angular/releases/tag/v22.1.7)** `v22.1.7`
 
-📅 Released: September 09, 2026
+📅 Released: September 16, 2026
 
 ### compiler
 | Commit | Description |
 | -- | -- |
-| [![fix - cbb8702143](https://img.shields.io/badge/cbb8702143-fix-green)](https://github.com/angular/angular/commit/cbb8702143bd04b68253758dbc2c4a8fb...
+| [![fix - 5e632b639f](https://img.shields.io/badge/5e632b639f-fix-green)](https://github.com/angular/angular/commit/5e632b639f736de876823a596dd9e3a09...
 
 ---
 
@@ -333,16 +335,16 @@ See [kubernetes-announce@](https://groups.google.com/forum/#!forum/kubernetes-an
 
 ### 📦 nodejs/node
 
-**[2026-09-09, Version 26.8.2 (Current), @aduh95](https://github.com/nodejs/node/releases/tag/v26.8.2)** `v26.8.2`
+**[2026-09-16, Version 26.9.0 (Current), @aduh95](https://github.com/nodejs/node/releases/tag/v26.9.0)** `v26.9.0`
 
-📅 Released: September 09, 2026
+📅 Released: September 16, 2026
 
 
 
 
 ### Notable Changes
 
-* \[[`616bd3fa26`](https://github.com/nodejs/node/commit/616bd3fa26)] - **doc**: deprecate `Server.prototype._listen2` in `node:net` (Antoine du Hamel) [#65593](https://github....
+* \[[`d414624dce`](https://github.com/nodejs/node/commit/d414624dce)] - **(SEMVER-MINOR)** **crypto**: add a generic MAC API (Filip Skokan) [#65553](https://github.com/nodejs/n...
 
 ---
 
@@ -484,39 +486,39 @@ See [kubernetes-announce@](https://groups.google.com/forum/#!forum/kubernetes-an
 
 | Skill | Status |
 |-------|--------|
-| Java | ⚪ Planned |
+| Java | 🟢 Proficient |
 | Python | 🟡 Learning |
-| JavaScript | 🔴 Beginner |
-| TypeScript | 🔴 Beginner |
-| Go | ⚪ Planned |
+| JavaScript | 🟡 Learning |
+| TypeScript | 🟢 Proficient |
+| Go | 🟡 Learning |
 
 ### Frameworks
 
 | Skill | Status |
 |-------|--------|
 | React | 🔴 Beginner |
-| Spring Boot | ⚪ Planned |
-| Django | 🔴 Beginner |
-| Node.js | 🟢 Proficient |
-| Next.js | 🟡 Learning |
+| Spring Boot | 🟢 Proficient |
+| Django | 🟡 Learning |
+| Node.js | ⚪ Planned |
+| Next.js | 🔴 Beginner |
 
 ### Cybersecurity
 
 | Skill | Status |
 |-------|--------|
-| Penetration Testing | 🟢 Proficient |
-| Web Security | 🟢 Proficient |
-| Network Security | ⚪ Planned |
-| OWASP | 🟡 Learning |
+| Penetration Testing | 🟡 Learning |
+| Web Security | 🔴 Beginner |
+| Network Security | 🟢 Proficient |
+| OWASP | 🟢 Proficient |
 
 ### Ai Ml
 
 | Skill | Status |
 |-------|--------|
-| Machine Learning | ⚪ Planned |
-| Deep Learning | 🔴 Beginner |
+| Machine Learning | 🟡 Learning |
+| Deep Learning | 🟡 Learning |
 | NLP | 🟡 Learning |
-| Computer Vision | 🟡 Learning |
+| Computer Vision | ⚪ Planned |
 | TensorFlow | ⚪ Planned |
 | PyTorch | ⚪ Planned |
 
@@ -524,10 +526,10 @@ See [kubernetes-announce@](https://groups.google.com/forum/#!forum/kubernetes-an
 
 | Skill | Status |
 |-------|--------|
-| Docker | ⚪ Planned |
-| Kubernetes | ⚪ Planned |
-| CI/CD | 🟢 Proficient |
-| AWS | ⚪ Planned |
+| Docker | 🟢 Proficient |
+| Kubernetes | 🟡 Learning |
+| CI/CD | 🔴 Beginner |
+| AWS | 🔴 Beginner |
 | Azure | 🟡 Learning |
 
 ### Other
@@ -535,8 +537,8 @@ See [kubernetes-announce@](https://groups.google.com/forum/#!forum/kubernetes-an
 | Skill | Status |
 |-------|--------|
 | Blockchain | 🟢 Proficient |
-| Web3 | ⚪ Planned |
-| Cloud Computing | ⚪ Planned |
+| Web3 | 🟡 Learning |
+| Cloud Computing | 🔴 Beginner |
 
 </details>
 
