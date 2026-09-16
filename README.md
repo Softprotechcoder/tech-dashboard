@@ -46,35 +46,33 @@
 
 ### 📑 Hacker News
 
-- **[Saving Jet Fuel](https://tech.marksblogg.com/scikit-decide-openap-optimal-flight-planning.html)**
-  *<p>Article URL: <a href="https://tech.marksblogg.com/scikit-decide-openap-optimal-flight-planning.html">https://tech.marksblogg.com/scikit-decide-openap-optimal-flight-planning.html</a></p>
-<p>Comment...*
-  📅 Tue, 15 Sep 2026 23:17:20 +0000
+- **[Learning Programming in an Age of LLMs](https://blog.ploeh.dk/2026/09/16/on-learning-programming-in-an-age-of-llms/)**
+  *<p>Article URL: <a href="https://blog.ploeh.dk/2026/09/16/on-learning-programming-in-an-age-of-llms/">https://blog.ploeh.dk/2026/09/16/on-learning-programming-in-an-age-of-llms/</a></p>
+<p>Comments UR...*
+  📅 Wed, 16 Sep 2026 09:12:34 +0000
 
-- **[Recreating Voodoo Graphics and a Late-1990s Gaming PC on an FPGA](https://nand2mario.github.io/posts/2026/zsst-voodoo/)**
-  *<p>Article URL: <a href="https://nand2mario.github.io/posts/2026/zsst-voodoo/">https://nand2mario.github.io/posts/2026/zsst-voodoo/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?...*
-  📅 Tue, 15 Sep 2026 22:50:55 +0000
+- **[Mistral X Mozilla: Private, Multilingual AI Browsing](https://mistral.ai/news/mistral-x-mozilla/)**
+  *<p>Article URL: <a href="https://mistral.ai/news/mistral-x-mozilla/">https://mistral.ai/news/mistral-x-mozilla/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49723408">https:/...*
+  📅 Wed, 16 Sep 2026 08:08:57 +0000
 
-- **[German Rheinmetall open-sources its Battlesuite connected weapon system protcol](https://rheinmetall.github.io/onboardapi-documentation/9.10.0/index.html)**
-  *<p>Article URL: <a href="https://rheinmetall.github.io/onboardapi-documentation/9.10.0/index.html">https://rheinmetall.github.io/onboardapi-documentation/9.10.0/index.html</a></p>
-<p>Comments URL: <a ...*
-  📅 Tue, 15 Sep 2026 21:07:47 +0000
+- **[MartyPC – A Cycle-Accurate IBM PC/XT Emulator](https://github.com/dbalsom/martypc)**
+  *<p>Article URL: <a href="https://github.com/dbalsom/martypc">https://github.com/dbalsom/martypc</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49722591">https://news.ycombinato...*
+  📅 Wed, 16 Sep 2026 05:56:02 +0000
 
-- **[Jean-Pierre Serre is 100 years old today](https://mathshistory.st-andrews.ac.uk/Biographies/Serre/)**
-  *<p>Article URL: <a href="https://mathshistory.st-andrews.ac.uk/Biographies/Serre/">https://mathshistory.st-andrews.ac.uk/Biographies/Serre/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.c...*
-  📅 Tue, 15 Sep 2026 20:57:18 +0000
+- **[A software thing I built: GPS on a 25MHz 486-SX](https://forum.vcfed.org/index.php?threads/a-software-thing-i-built-gps-on-a-25mhz-486-sx.1258966/)**
+  *<p>Article URL: <a href="https://forum.vcfed.org/index.php?threads/a-software-thing-i-built-gps-on-a-25mhz-486-sx.1258966/">https://forum.vcfed.org/index.php?threads/a-software-thing-i-built-gps-on-a-...*
+  📅 Wed, 16 Sep 2026 05:43:44 +0000
 
-- **[Building a Linux GPU Driver for the M4 Mac Mini in One Month](https://codyho.dev/blog/gpu-driver/)**
-  *<p>Article URL: <a href="https://codyho.dev/blog/gpu-driver/">https://codyho.dev/blog/gpu-driver/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49717638">https://news.ycombina...*
-  📅 Tue, 15 Sep 2026 19:30:03 +0000
+- **[Datamimic – don't let your coding agent invent its own test world](https://github.com/rapiddweller/datamimic)**
+  *<p>Article URL: <a href="https://github.com/rapiddweller/datamimic">https://github.com/rapiddweller/datamimic</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49722276">https://n...*
+  📅 Wed, 16 Sep 2026 04:58:36 +0000
 
-- **[WangNet – 1.8 MB, zero-dependency Numberwang adjudication in 11 languages](https://github.com/GraafHenk/numberwang)**
-  *<p>Article URL: <a href="https://github.com/GraafHenk/numberwang">https://github.com/GraafHenk/numberwang</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49717605">https://news....*
-  📅 Tue, 15 Sep 2026 19:27:35 +0000
+- **[Negativland, Culture Jamming, and the Art of Making Something New](https://blog.archive.org/2026/09/11/negativland-culture-jamming-and-the-art-of-making-something-new/)**
+  *<p>Article URL: <a href="https://blog.archive.org/2026/09/11/negativland-culture-jamming-and-the-art-of-making-something-new/">https://blog.archive.org/2026/09/11/negativland-culture-jamming-and-the-a...*
+  📅 Wed, 16 Sep 2026 02:46:06 +0000
 
 ### 📑 TechCrunch
 
@@ -104,15 +102,19 @@
 
 ### 📑 Dev.to
 
-- **[The Lambda Bug That Only Shows Up on Warm Starts](https://dev.to/aws-builders/the-lambda-bug-that-only-shows-up-on-warm-starts-2in)**
-  *<p>The second video in my AWS micro-learnings series, "Lambda in <em>almost</em> 60 Seconds." It breaks Lambda down to the essentials: event in, code runs, response out, environment disappears. All th...*
-  📅 Wed, 16 Sep 2026 02:28:49 +0000
+- **[Client Discovery Questionnaire for Freelance Web Developers: 25 Questions to Ask](https://dev.to/thekolachimedia/client-discovery-questionnaire-for-freelance-web-developers-25-questions-to-ask-2nna)**
+  *<p>Building a website is often the predictable part.</p>
 
-- **[Your coding agent already learned this: local-first memory with Graft](https://dev.to/aendrix03/your-coding-agent-already-learned-this-local-first-memory-with-graft-4dgb)**
-  *<p>Many coding-agent sessions end with an expensive loss: the bug is understood, the fix is shipped, and the useful reasoning disappears with the session.</p>
+<p>The difficult part is turning a client's early idea into a project that both sides understand.</p>
 
-<p><a href="https://github.com/AEndrix03...*
-  📅 Wed, 16 Sep 2026 02:23:18 +0000
+<p>A client may initially ask for a “si...*
+  📅 Wed, 16 Sep 2026 10:18:50 +0000
+
+- **[You Recorded Every Event. Can You Still Reconstruct the Execution?](https://dev.to/thelastciroandrea/you-recorded-every-event-can-you-still-reconstruct-the-execution-2kfk)**
+  *<p>Imagine that, months after an AI workflow ran, you want to reconstruct exactly what happened.</p>
+
+<p>The customer asked for a research report. The report was eventually delivered, and your system ...*
+  📅 Wed, 16 Sep 2026 10:18:47 +0000
 
 </details>
 
@@ -120,103 +122,103 @@
 
 ### 📈 Daily Trending
 
-- **[xuzeyu91/lol_web](https://github.com/xuzeyu91/lol_web)** ⭐ 3
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
-  网页版lol，仅供娱乐
+- **[CoveBlackbirdFold/aniimo-modkit](https://github.com/CoveBlackbirdFold/aniimo-modkit)** ⭐ 34
+  ![None](https://img.shields.io/badge/-None-lightgrey)
+  41-module cheat/trainer for Aniimo — combat survival, Twining and elemental tools, creature capture, Homeland building and full progression unlocks.
 
-- **[RickCreator87/AURORA](https://github.com/RickCreator87/AURORA)** ⭐ 2
-  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
-  None
-
-- **[kadidalax/komari-classic](https://github.com/kadidalax/komari-classic)** ⭐ 2
-  ![Go](https://img.shields.io/badge/-Go-cyan)
-  komari-classic：FIX komari-1.2.5-fix2，komari-web-1.2.5-fix2，komari-agent-1.2.60
-
-- **[jexp/neo4jev](https://github.com/jexp/neo4jev)** ⭐ 2
-  ![Jupyter Notebook](https://img.shields.io/badge/-Jupyter Notebook-lightgrey)
-  Typesafe.ai System One Model Jev navigating a Neo4j graph by using a classifier over neighbouring relationships
-
-- **[TimechoLab/influxdb2tsfile](https://github.com/TimechoLab/influxdb2tsfile)** ⭐ 2
-  ![Java](https://img.shields.io/badge/-Java-orange)
-  Command-line tool to migrate InfluxDB 1.x/2.x and line protocol files to Apache TsFile — auto schema mapping, parallel time-sliced export, resumable and verified.
-
-- **[RomTEM519/Python-Senior-Work](https://github.com/RomTEM519/Python-Senior-Work)** ⭐ 2
-  ![Jupyter Notebook](https://img.shields.io/badge/-Jupyter Notebook-lightgrey)
-  None
-
-- **[2439810550/AgentTSC](https://github.com/2439810550/AgentTSC)** ⭐ 2
+- **[MouseDesign95/Zapret-Discord-Telegram-Main](https://github.com/MouseDesign95/Zapret-Discord-Telegram-Main)** ⭐ 32
   ![None](https://img.shields.io/badge/-None-lightgrey)
   None
 
-- **[imzacksong/hermes-filebox](https://github.com/imzacksong/hermes-filebox)** ⭐ 2
+- **[zhdmm35/obsidian-mobile-companion](https://github.com/zhdmm35/obsidian-mobile-companion)** ⭐ 29
+  ![Kotlin](https://img.shields.io/badge/-Kotlin-lightgrey)
+  Android companion for Markdown vaults stored on GitHub, with Obsidian rendering, offline reading, conflict-safe editing, and an optional desktop sync helper.
+
+- **[apimart-11/image2.5-api-prompt-gallery](https://github.com/apimart-11/image2.5-api-prompt-gallery)** ⭐ 27
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  Twelve image2.5 (GPT-Image-2.5) prompt recipes with example outputs, model version, aspect ratio and copy-paste cURL, Python and JavaScript calls through the APIMart API.
+
+- **[dofastted/vm2api](https://github.com/dofastted/vm2api)** ⭐ 25
   ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
-  Explorer-style file browser for Hermes Desktop: tabs, previews, edit ops, 3D viewer, LAN sharing
+  vm2api 使用虚拟机完全拟真方案的订阅转api
+
+- **[loujc/eda-paper-writing](https://github.com/loujc/eda-paper-writing)** ⭐ 22
+  ![None](https://img.shields.io/badge/-None-lightgrey)
+  None
+
+- **[Krimchanin/claude-vault](https://github.com/Krimchanin/claude-vault)** ⭐ 14
+  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
+  Keep Claude Desktop chats safe when switching accounts — local-first backup and restore for conversations.
+
+- **[thx853068675-dev/quietstart](https://github.com/thx853068675-dev/quietstart)** ⭐ 12
+  ![None](https://img.shields.io/badge/-None-lightgrey)
+  轻启安装制品与版本说明（不公开源码）
 
 ### 📈 Weekly Trending
 
-- **[Chuloo/mural](https://github.com/Chuloo/mural)** ⭐ 1,054
+- **[Chuloo/mural](https://github.com/Chuloo/mural)** ⭐ 1,142
   ![Kotlin](https://img.shields.io/badge/-Kotlin-lightgrey)
   The language app you eventually delete. A native iPhone companion for learning through conversation.
 
-- **[sumimakito/Mac-Duo](https://github.com/sumimakito/Mac-Duo)** ⭐ 914
+- **[ai-sucks-butt/ai-sucks-butt](https://github.com/ai-sucks-butt/ai-sucks-butt)** ⭐ 1,033
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  If you think AI sucks, star the repo.
+
+- **[sumimakito/Mac-Duo](https://github.com/sumimakito/Mac-Duo)** ⭐ 930
   ![Swift](https://img.shields.io/badge/-Swift-lightgrey)
   Wish you could bring the iPhone Duo effect to your MacBook?
 
-- **[yifanzhang-pro/recurrent-looped-tranformer](https://github.com/yifanzhang-pro/recurrent-looped-tranformer)** ⭐ 830
+- **[yifanzhang-pro/recurrent-looped-tranformer](https://github.com/yifanzhang-pro/recurrent-looped-tranformer)** ⭐ 843
   ![HTML](https://img.shields.io/badge/-HTML-lightgrey)
   Official Project Page for Recurrent Looped Transformer (RLT)
 
-- **[kruzovic7/ai-data-extractor](https://github.com/kruzovic7/ai-data-extractor)** ⭐ 822
+- **[kruzovic7/ai-data-extractor](https://github.com/kruzovic7/ai-data-extractor)** ⭐ 824
   ![Python](https://img.shields.io/badge/-Python-blue)
   Free open-source extractor for AI coding assistant chat histories. Supports Claude Code, Cursor, Windsurf, Aider, Cline/Roo Code, and more.
 
-- **[ai-sucks-butt/ai-sucks-butt](https://github.com/ai-sucks-butt/ai-sucks-butt)** ⭐ 812
+- **[zjwzcx/Awesome-Astra-Embodied-AI](https://github.com/zjwzcx/Awesome-Astra-Embodied-AI)** ⭐ 739
   ![None](https://img.shields.io/badge/-None-lightgrey)
-  If you think AI sucks, star the repo.
+  GPT-6 Astra for embodied AI and robotics.
 
-- **[angusdevgo/IDM_Pro_Tool](https://github.com/angusdevgo/IDM_Pro_Tool)** ⭐ 711
+- **[angusdevgo/IDM_Pro_Tool](https://github.com/angusdevgo/IDM_Pro_Tool)** ⭐ 717
   ![C#](https://img.shields.io/badge/-C#-lightgrey)
   IDM激活与状态维护工具
 
-- **[eternityspring/reelbench-skills](https://github.com/eternityspring/reelbench-skills)** ⭐ 696
+- **[eternityspring/reelbench-skills](https://github.com/eternityspring/reelbench-skills)** ⭐ 703
   ![HTML](https://img.shields.io/badge/-HTML-lightgrey)
   Learning notes and tooling skills for AI video - AI 视频相关的学习与工具 skill
 
-- **[nftechie/stonkfly](https://github.com/nftechie/stonkfly)** ⭐ 692
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  A full retained fly-connectome simulation with experimental memory and guarded Coinbase AgentKit trading actions.
-
 ### 📈 Monthly Trending
 
-- **[lnkiai/m3e-canvas](https://github.com/lnkiai/m3e-canvas)** ⭐ 6,949
+- **[lnkiai/m3e-canvas](https://github.com/lnkiai/m3e-canvas)** ⭐ 7,037
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   Sketch Material 3 Expressive screens in the browser and turn them into vibe-coding prompts.
 
-- **[sapientinc/PRAXIST](https://github.com/sapientinc/PRAXIST)** ⭐ 6,439
+- **[sapientinc/PRAXIST](https://github.com/sapientinc/PRAXIST)** ⭐ 6,544
   ![Python](https://img.shields.io/badge/-Python-blue)
   Autonomous research system for measurable, computer-executable research.
 
-- **[MengTo/threeui](https://github.com/MengTo/threeui)** ⭐ 5,817
+- **[MengTo/threeui](https://github.com/MengTo/threeui)** ⭐ 5,838
   ![HTML](https://img.shields.io/badge/-HTML-lightgrey)
   Open-source ThreeUI Community catalog with live interactive components and complete Community source.
 
-- **[s1dashu/ip-as-logo-skill](https://github.com/s1dashu/ip-as-logo-skill)** ⭐ 5,267
+- **[s1dashu/ip-as-logo-skill](https://github.com/s1dashu/ip-as-logo-skill)** ⭐ 5,278
   ![None](https://img.shields.io/badge/-None-lightgrey)
   A compact Agent Skill for highly simplified, rounded, subtly neo-skeuomorphic IP mascot logos.
 
-- **[rakanki911/DLSS5-Swapper](https://github.com/rakanki911/DLSS5-Swapper)** ⭐ 5,047
+- **[rakanki911/DLSS5-Swapper](https://github.com/rakanki911/DLSS5-Swapper)** ⭐ 5,159
   ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
   Install, tune and restore DLSS 5 in your games with one click. Native RenoDX, DLSS5-Feeder for games without DLSS, OptiScaler and multipass routes; DirectX 8/9/11/12, Vulkan, OpenGL, DirectDraw and emulators. In-game F8 overlay, automatic backups, and a community page showing what works on your games and your graphics card.
 
-- **[amagine-ai/Amagine3D](https://github.com/amagine-ai/Amagine3D)** ⭐ 4,918
+- **[amagine-ai/Amagine3D](https://github.com/amagine-ai/Amagine3D)** ⭐ 4,976
   ![Python](https://img.shields.io/badge/-Python-blue)
   Amagine3D: From hardware requirements to editable 3D designs
 
-- **[XiaoDuoYa/codex-with-chatgpt](https://github.com/XiaoDuoYa/codex-with-chatgpt)** ⭐ 4,464
+- **[XiaoDuoYa/codex-with-chatgpt](https://github.com/XiaoDuoYa/codex-with-chatgpt)** ⭐ 4,679
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   ChatGPT thinks. Codex works. Use ChatGPT as the planning brain while keeping the Codex harness.
 
-- **[crmne/spotifast](https://github.com/crmne/spotifast)** ⭐ 4,191
+- **[crmne/spotifast](https://github.com/crmne/spotifast)** ⭐ 4,239
   ![Rust](https://img.shields.io/badge/-Rust-brown)
   Spotify, native and fast. One lightweight Rust app for your whole library, local playback, and Spotify Connect on Linux, macOS, and Windows.
 
@@ -227,11 +229,11 @@
 
 ### 📦 microsoft/vscode
 
-**[1.137.0](https://github.com/microsoft/vscode/releases/tag/1.137.0)** `1.137.0`
+**[1.138.0](https://github.com/microsoft/vscode/releases/tag/1.138.0)** `1.138.0`
 
-📅 Released: September 09, 2026
+📅 Released: September 16, 2026
 
-https://code.visualstudio.com/updates/v1_137...
+https://code.visualstudio.com/updates/v1_138...
 
 ---
 
@@ -488,59 +490,59 @@ See [kubernetes-announce@](https://groups.google.com/forum/#!forum/kubernetes-an
 
 | Skill | Status |
 |-------|--------|
-| Java | ⚪ Planned |
-| Python | ⚪ Planned |
-| JavaScript | 🟡 Learning |
+| Java | 🟡 Learning |
+| Python | 🟡 Learning |
+| JavaScript | ⚪ Planned |
 | TypeScript | 🟢 Proficient |
-| Go | 🟢 Proficient |
+| Go | 🟡 Learning |
 
 ### Frameworks
 
 | Skill | Status |
 |-------|--------|
-| React | ⚪ Planned |
-| Spring Boot | 🟢 Proficient |
-| Django | ⚪ Planned |
-| Node.js | 🟡 Learning |
-| Next.js | ⚪ Planned |
+| React | 🟡 Learning |
+| Spring Boot | 🟡 Learning |
+| Django | 🟢 Proficient |
+| Node.js | 🟢 Proficient |
+| Next.js | 🔴 Beginner |
 
 ### Cybersecurity
 
 | Skill | Status |
 |-------|--------|
-| Penetration Testing | 🔴 Beginner |
+| Penetration Testing | 🟡 Learning |
 | Web Security | 🔴 Beginner |
-| Network Security | 🟡 Learning |
-| OWASP | 🟡 Learning |
+| Network Security | 🔴 Beginner |
+| OWASP | 🔴 Beginner |
 
 ### Ai Ml
 
 | Skill | Status |
 |-------|--------|
-| Machine Learning | 🔴 Beginner |
-| Deep Learning | 🔴 Beginner |
+| Machine Learning | 🟢 Proficient |
+| Deep Learning | 🟢 Proficient |
 | NLP | 🔴 Beginner |
 | Computer Vision | 🟢 Proficient |
-| TensorFlow | 🔴 Beginner |
-| PyTorch | 🟢 Proficient |
+| TensorFlow | 🟡 Learning |
+| PyTorch | 🔴 Beginner |
 
 ### Devops
 
 | Skill | Status |
 |-------|--------|
-| Docker | 🔴 Beginner |
-| Kubernetes | 🟡 Learning |
-| CI/CD | ⚪ Planned |
+| Docker | ⚪ Planned |
+| Kubernetes | 🔴 Beginner |
+| CI/CD | 🟡 Learning |
 | AWS | 🟢 Proficient |
-| Azure | 🟡 Learning |
+| Azure | 🟢 Proficient |
 
 ### Other
 
 | Skill | Status |
 |-------|--------|
-| Blockchain | 🟢 Proficient |
-| Web3 | 🔴 Beginner |
-| Cloud Computing | 🟢 Proficient |
+| Blockchain | ⚪ Planned |
+| Web3 | 🟡 Learning |
+| Cloud Computing | 🟡 Learning |
 
 </details>
 
