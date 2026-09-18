@@ -7,7 +7,7 @@
 ![AI & ML](https://img.shields.io/badge/-AI%20&%20ML-blue) ![CyberSecurity](https://img.shields.io/badge/-CyberSecurity-red) ![Full Stack Development](https://img.shields.io/badge/-Full%20Stack%20Development-green)
 
 [![Auto Update](https://img.shields.io/badge/Auto%20Update-Enabled-success)](https://github.com/yourusername/tech-dashboard/actions)
-[![Last Updated](https://img.shields.io/badge/Last%20Updated-September 17, 2026-blue)](https://github.com/yourusername/tech-dashboard)
+[![Last Updated](https://img.shields.io/badge/Last%20Updated-September 18, 2026-blue)](https://github.com/yourusername/tech-dashboard)
 
 *Automatically updated every 6 hours with the latest tech news, trending repositories, and learning resources.*
 
@@ -46,73 +46,79 @@
 
 ### 📑 Hacker News
 
-- **[Astra for Law](https://openai.com/index/astra-for-law/)**
-  *<p>Article URL: <a href="https://openai.com/index/astra-for-law/">https://openai.com/index/astra-for-law/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49745940">https://news....*
-  📅 Thu, 17 Sep 2026 20:17:48 +0000
+- **[Telstra outage: The night a network decided the year was 2006](https://www.netnod.se/blog/telstra-outage-night-network-decided-year-was-2006)**
+  *<p>Article URL: <a href="https://www.netnod.se/blog/telstra-outage-night-network-decided-year-was-2006">https://www.netnod.se/blog/telstra-outage-night-network-decided-year-was-2006</a></p>
+<p>Comment...*
+  📅 Fri, 18 Sep 2026 01:05:03 +0000
 
-- **[Everybody's Lost Their Minds](https://www.netmeister.org/blog/everybodys-lost-their-minds.html)**
-  *<p>Article URL: <a href="https://www.netmeister.org/blog/everybodys-lost-their-minds.html">https://www.netmeister.org/blog/everybodys-lost-their-minds.html</a></p>
+- **[Goose: 1.16x faster than C++ and 1.12x than safe Rust, while memory safe](https://github.com/aardappel/goose/tree/master)**
+  *<p>Article URL: <a href="https://github.com/aardappel/goose/tree/master">https://github.com/aardappel/goose/tree/master</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49748954"...*
+  📅 Fri, 18 Sep 2026 01:04:54 +0000
+
+- **[Alibaba releases Qwen 3.8 Omni Flash](https://qwen.ai/blog?id=qwen3.8-omni-flash)**
+  *<p>Article URL: <a href="https://qwen.ai/blog?id=qwen3.8-omni-flash">https://qwen.ai/blog?id=qwen3.8-omni-flash</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49747925">https:/...*
+  📅 Thu, 17 Sep 2026 23:05:48 +0000
+
+- **[How Uber Protects Against Retry Storms](https://www.uber.com/us/en/blog/protecting-against-retry-storms/)**
+  *<p>Article URL: <a href="https://www.uber.com/us/en/blog/protecting-against-retry-storms/">https://www.uber.com/us/en/blog/protecting-against-retry-storms/</a></p>
 <p>Comments URL: <a href="https://ne...*
-  📅 Thu, 17 Sep 2026 19:43:34 +0000
+  📅 Thu, 17 Sep 2026 21:14:32 +0000
 
-- **[Don't Just Say Hello](https://nohello.net/en/)**
-  *<p>Article URL: <a href="https://nohello.net/en/">https://nohello.net/en/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49745266">https://news.ycombinator.com/item?id=49745266...*
-  📅 Thu, 17 Sep 2026 19:16:46 +0000
+- **[Bonsai 2 27B: Near-Lossless Compression in a 9x Smaller Footprint](https://prismml.com/news/bonsai-2-27b)**
+  *<p>Article URL: <a href="https://prismml.com/news/bonsai-2-27b">https://prismml.com/news/bonsai-2-27b</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49746618">https://news.ycom...*
+  📅 Thu, 17 Sep 2026 21:13:31 +0000
 
-- **[Canto: A speech model built for the real world](https://wisprflow.ai/canto)**
-  *<p>Article URL: <a href="https://wisprflow.ai/canto">https://wisprflow.ai/canto</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49744715">https://news.ycombinator.com/item?id=49...*
-  📅 Thu, 17 Sep 2026 18:32:50 +0000
-
-- **[Don't Make Job Referrals Public](https://blog.melashri.net/micro/public-job-referral/)**
-  *<p>Article URL: <a href="https://blog.melashri.net/micro/public-job-referral/">https://blog.melashri.net/micro/public-job-referral/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?...*
-  📅 Thu, 17 Sep 2026 18:16:38 +0000
-
-- **[Zettascale (YC S24) Is Hiring ASIC/FPGA Engineers to Build Chips for ASI](https://zscc.ai/careers?job_id=109821)**
-  *<p>Article URL: <a href="https://zscc.ai/careers?job_id=109821">https://zscc.ai/careers?job_id=109821</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49743567">https://news.ycom...*
-  📅 Thu, 17 Sep 2026 17:00:59 +0000
+- **[The most important product decision is what you don't build](https://liamnugent.me/posts/what-you-dont-build/)**
+  *<p>Article URL: <a href="https://liamnugent.me/posts/what-you-dont-build/">https://liamnugent.me/posts/what-you-dont-build/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49746...*
+  📅 Thu, 17 Sep 2026 20:52:36 +0000
 
 ### 📑 TechCrunch
 
-- **[The fix for rogue AI agents could be more AI](https://techcrunch.com/2026/09/17/the-fix-for-rogue-ai-agents-could-be-more-ai/)**
-  *Y Combinator has funded 106 companies related to AI observability in recent years...*
-  📅 Thu, 17 Sep 2026 20:34:47 +0000
+- **[Khosla-backed Mazama Energy just raised $135M to drill deeper into super-hot-rock geothermal](https://techcrunch.com/2026/09/17/khosla-backed-mazama-energy-just-raised-135m-to-drill-deeper-into-super-hot-rock-geothermal/)**
+  *Geothermal startup Mazama is drilling three miles underground to tap superhot rock, with one well capable of generating 15 MW of electricity 24/7....*
+  📅 Fri, 18 Sep 2026 00:02:36 +0000
 
-- **[OpenAI caught its models leaving notes to successors to hide bad behavior](https://techcrunch.com/2026/09/17/openai-caught-its-models-leaving-notes-to-successors-to-hide-bad-behavior/)**
-  *OpenAI disclosed instances of GPT-5.6 Sol instructing future contexts to conceal mistakes and misaligned behavior, highlighting the growing challenge of detecting misalignment as increasingly capable ...*
-  📅 Thu, 17 Sep 2026 20:34:24 +0000
+- **[Crusoe raises $3.9B to build massive data centers and small modular ‘AI factories’](https://techcrunch.com/2026/09/17/crusoe-raises-3-9b-to-build-massive-data-centers-and-small-modular-ai-factories/)**
+  *The round values the data center giant at $30.9 billion....*
+  📅 Thu, 17 Sep 2026 23:25:52 +0000
 
-- **[Is the AI safety debate about safety or control?](https://techcrunch.com/2026/09/17/is-the-ai-safety-debate-about-safety-or-control/)**
-  *Not everyone agrees with Amodei's call for globally coordinated action for AI safety....*
-  📅 Thu, 17 Sep 2026 20:19:37 +0000
+- **[Google DeepMind launches institute to widen the AGI debate](https://techcrunch.com/2026/09/17/google-deepmind-launches-institute-to-widen-the-agi-debate/)**
+  *The new institute aims to surface differing views between Google, Google DeepMind, and the broader global research community around AGI. "They will not always agree, and they will likely change their ...*
+  📅 Thu, 17 Sep 2026 23:21:17 +0000
 
-- **[UN turns to Google to make its global data ready for AI agents](https://techcrunch.com/2026/09/17/un-turns-to-google-to-make-its-global-data-ready-for-ai-agents/)**
-  *The shift comes after a UNICEF test found leading AI models struggled to accurately retrieve global development statistics....*
-  📅 Thu, 17 Sep 2026 20:00:00 +0000
+- **[Amazon-owned Zoox’s 100-robotaxi limit in Nevada is about to disappear](https://techcrunch.com/2026/09/17/amazon-owned-zooxs-100-robotaxi-limit-in-nevada-is-about-to-disappear/)**
+  *An updated permit shows the 100-cap will expire later this month just as competition in Las Vegas heats up....*
+  📅 Thu, 17 Sep 2026 23:08:24 +0000
 
-- **[Microsoft exec called AI scraping ‘the largest theft of labor in human history,’ new unredacted filings reveal](https://techcrunch.com/2026/09/17/microsoft-exec-called-ai-scraping-the-largest-theft-of-labor-in-human-history-new-unredacted-filings-reveal/)**
-  *Newly unsealed court filings show Microsoft privately called OpenAI's data practices "theft" while both companies scraped paywalled Times content, built datasets from it, and warned internally it woul...*
-  📅 Thu, 17 Sep 2026 19:46:08 +0000
+- **[PrismML hopes its tiny LLM will change how we all use AI](https://techcrunch.com/2026/09/17/prismml-hopes-its-tiny-llm-could-change-how-we-all-use-ai/)**
+  *If AI lab PrismML isn't on your radar yet, it should be....*
+  📅 Thu, 17 Sep 2026 22:34:09 +0000
 
-- **[Waymo restarts San Antonio service 5 months after flooding troubles](https://techcrunch.com/2026/09/17/waymo-restarts-san-antonio-service-five-months-after-flooding-troubles/)**
-  *The company suspended service in the city in April after one of its robotaxis got swept away....*
-  📅 Thu, 17 Sep 2026 18:30:30 +0000
+- **[The FAA’s plan to fix air traffic? $875M worth of AI](https://techcrunch.com/2026/09/17/the-faas-plan-to-fix-air-traffic-875-million-worth-of-ai/)**
+  *A new AI-based software program is being launched to help air traffic controllers better navigate their jobs as the crossing guards of America's skies....*
+  📅 Thu, 17 Sep 2026 22:14:59 +0000
 
 ### 📑 Dev.to
 
-- **[Why I Built an Alternative to the Play Store for APK Distribution](https://dev.to/veber_by_signal/why-i-built-an-alternative-to-the-play-store-for-apk-distribution-2ep5)**
-  *<p>Every Android developer I know has run into the same wall: slow app store review cycles, an opaque ranking algorithm deciding who sees your app, and policy changes that can bury a listing overnight...*
-  📅 Thu, 17 Sep 2026 20:42:51 +0000
+- **[GitHub AI Repos ประจำสัปดาห์: สกิลจัดรูปแบบชนะเฟรมเวิร์ก (16 ก.ย. 2026)](https://dev.to/sarantoon/github-ai-repos-pracchamsapdaah-skilcchadruupaebbchnaefrmewirk-16-ky-2026-545f)**
+  *<h1>
+  
+  
+  GitHub AI Repos ประจำสัปดาห์: สกิลจัดรูปแบบชนะเฟรมเวิร์ก (16 ก.ย. 2026)
+</h1>
 
-- **[Was bash the wrong language for my agent?](https://dev.to/pbxqdown/was-bash-the-wrong-language-for-my-agent-4i6l)**
-  *<p>I have a small agent that handles one piece of routine work at a time. It looks<br />
-at what needs doing, picks the thing most worth doing, shows me the plan, and<br />
-does it if I say yes. Under...*
-  📅 Thu, 17 Sep 2026 20:36:47 +0000
+<p><em>โดย Nokka (นก-กา) | 16 กันยายน 2026</em></p>
+
+<p>สัปดาห์นี้ผมไล่ดู GitHub Trending ประจำสัปดาห์ [1] แ...*
+  📅 Fri, 18 Sep 2026 02:08:52 +0000
+
+- **[Testing webhook retries deterministically: a fault sequence per Idempotency-Key](https://dev.to/emma_teelylabs/testing-webhook-retries-deterministically-a-fault-sequence-per-idempotency-key-1k19)**
+  *<p>Two weeks ago I wrote about a webhook receiver that can be slow and flaky on purpose. A reader left a comment that changed how I think about it: "a 10% error rate tells me my sender retries. It doe...*
+  📅 Fri, 18 Sep 2026 02:07:58 +0000
 
 </details>
 
@@ -120,105 +126,105 @@ does it if I say yes. Under...*
 
 ### 📈 Daily Trending
 
-- **[nMaas8388/github-ranking-audit](https://github.com/nMaas8388/github-ranking-audit)** ⭐ 192
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  Audit your GitHub repository search ranking signals. Checks name, description, topics, README, stars, forks, and activity.
-
-- **[yynxxxxx/gpt_sub_analysis](https://github.com/yynxxxxx/gpt_sub_analysis)** ⭐ 170
-  ![None](https://img.shields.io/badge/-None-lightgrey)
-  Security analysis of the ChatGPT iOS subscription / entitlement flow (internal draft, coordinated disclosure WIP)
-
-- **[thruwire/foreman](https://github.com/thruwire/foreman)** ⭐ 160
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  Software Factory Foreman based on TypeSpace Jev model
-
-- **[sabbircode-dev/learning-python](https://github.com/sabbircode-dev/learning-python)** ⭐ 98
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  My Python learning journey — basic programs, practice, and projects.
-
-- **[repoboost-hq/buy-github-stars](https://github.com/repoboost-hq/buy-github-stars)** ⭐ 90
-  ![None](https://img.shields.io/badge/-None-lightgrey)
-  Buy GitHub stars from real aged accounts - a complete guide to the delivery process, pacing, account quality and guarantees. Written for developers comparing star services before ordering.
-
-- **[planetscale/lead](https://github.com/planetscale/lead)** ⭐ 71
-  ![Rust](https://img.shields.io/badge/-Rust-brown)
-  A non-production Postgres text-search extension for exercising TIN-compatible application SQL in development, test, CI, and staging environments
-
-- **[Worldbuilder013/HEXIS](https://github.com/Worldbuilder013/HEXIS)** ⭐ 69
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  HEXIS. Compile SKILL.md into state machines: deterministic execution order via transition guards, LLM reasoning scoped inside states.
-
-- **[NiazMorshed2007/jev-review](https://github.com/NiazMorshed2007/jev-review)** ⭐ 68
+- **[adonaipinheiro/USPExample](https://github.com/adonaipinheiro/USPExample)** ⭐ 4
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
-  Local-first MCP plugin for continuous software-quality review by AI coding agents, powered by Jev.
+  Repositório feito em aula USP
+
+- **[VDERR/echocat-skill-panel-3.0](https://github.com/VDERR/echocat-skill-panel-3.0)** ⭐ 4
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
+  DSH 技能调用审计 + 应用内 skill 管理器
+
+- **[JNSEC-OpenSource-Community/jnu-cs-lab-report-typst](https://github.com/JNSEC-OpenSource-Community/jnu-cs-lab-report-typst)** ⭐ 3
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  江南大学人工智能与计算机学院实验报告 Typst 模板
+
+- **[vinilana/live-jev](https://github.com/vinilana/live-jev)** ⭐ 3
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
+  2D autonomous car simulation in the browser, driven by TypeSafe's Jev decision model
+
+- **[siliconkernel/vllm-jev-decison](https://github.com/siliconkernel/vllm-jev-decison)** ⭐ 3
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  Classification-only typed decisions for vLLM: finite-schema candidate scoring, probabilities, and abstention. No generative fallback.
+
+- **[compozy/yoshi](https://github.com/compozy/yoshi)** ⭐ 3
+  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
+  Context-pruning proxy for Claude Code and Codex: Jev judges which history is still needed, measured not claimed. POC here now, heading soon into https://github.com/compozy/compozy
+
+- **[richardds5/learn-llm-14days](https://github.com/richardds5/learn-llm-14days)** ⭐ 2
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  14 天读透一个 LLM 的全部实现：基于 MiniMind 的本地交互式学习站，逐行看 tensor 维度、可运行实验、小测
+
+- **[v4xplay/V4xTrade-download](https://github.com/v4xplay/V4xTrade-download)** ⭐ 2
+  ![None](https://img.shields.io/badge/-None-lightgrey)
+  None
 
 ### 📈 Weekly Trending
 
-- **[browser-use/jev-ultrafast](https://github.com/browser-use/jev-ultrafast)** ⭐ 1,679
+- **[browser-use/jev-ultrafast](https://github.com/browser-use/jev-ultrafast)** ⭐ 2,363
   ![Python](https://img.shields.io/badge/-Python-blue)
   None
 
-- **[Chuloo/mural](https://github.com/Chuloo/mural)** ⭐ 1,311
+- **[Chuloo/mural](https://github.com/Chuloo/mural)** ⭐ 1,321
   ![Kotlin](https://img.shields.io/badge/-Kotlin-lightgrey)
   The language app you eventually delete. A native iPhone companion for learning through conversation.
 
-- **[yifanzhang-pro/recurrent-looped-tranformer](https://github.com/yifanzhang-pro/recurrent-looped-tranformer)** ⭐ 870
+- **[yifanzhang-pro/recurrent-looped-tranformer](https://github.com/yifanzhang-pro/recurrent-looped-tranformer)** ⭐ 873
   ![HTML](https://img.shields.io/badge/-HTML-lightgrey)
   Official Project Page for Recurrent Looped Transformer (RLT)
 
-- **[kruzovic7/ai-data-extractor](https://github.com/kruzovic7/ai-data-extractor)** ⭐ 834
+- **[TheoLeeCJ/openjev](https://github.com/TheoLeeCJ/openjev)** ⭐ 852
   ![Python](https://img.shields.io/badge/-Python-blue)
-  Free open-source extractor for AI coding assistant chat histories. Supports Claude Code, Cursor, Windsurf, Aider, Cline/Roo Code, and more.
+  Can we run something like Jev on a 3090 at home?
 
-- **[zjwzcx/Awesome-Astra-Embodied-AI](https://github.com/zjwzcx/Awesome-Astra-Embodied-AI)** ⭐ 821
+- **[zjwzcx/Awesome-Astra-Embodied-AI](https://github.com/zjwzcx/Awesome-Astra-Embodied-AI)** ⭐ 825
   ![None](https://img.shields.io/badge/-None-lightgrey)
   GPT-6 Astra for embodied AI and robotics.
 
-- **[agentverse-os/AgentVerse-OS](https://github.com/agentverse-os/AgentVerse-OS)** ⭐ 735
+- **[agentverse-os/AgentVerse-OS](https://github.com/agentverse-os/AgentVerse-OS)** ⭐ 752
   ![Rust](https://img.shields.io/badge/-Rust-brown)
   Personal cloud OS for a developer and their AI agents on a single server. One-command install on Ubuntu, then everything in the browser: a windowed desktop, isolated workspaces with VS Code, Claude Code and Codex, a store of 944 self-hosted apps, backups and updates. Access only via Tailscale, nothing exposed to the internet. Rust core, Svelte UI.
 
-- **[eternityspring/reelbench-skills](https://github.com/eternityspring/reelbench-skills)** ⭐ 729
-  ![HTML](https://img.shields.io/badge/-HTML-lightgrey)
-  Learning notes and tooling skills for AI video - AI 视频相关的学习与工具 skill
+- **[vinnylarouge/jevlike](https://github.com/vinnylarouge/jevlike)** ⭐ 692
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  None
 
-- **[youngyangyang04/llm-master](https://github.com/youngyangyang04/llm-master)** ⭐ 684
+- **[youngyangyang04/llm-master](https://github.com/youngyangyang04/llm-master)** ⭐ 688
   ![None](https://img.shields.io/badge/-None-lightgrey)
   大模型（LLM）全栈学习路线与中文教程🔥：覆盖 Prompt Engineering、RAG、AI Agent、MCP、微调、模型部署、Transformer、AI 编程与大厂面试，从入门到生产实践。
 
 ### 📈 Monthly Trending
 
-- **[lnkiai/m3e-canvas](https://github.com/lnkiai/m3e-canvas)** ⭐ 7,302
+- **[lnkiai/m3e-canvas](https://github.com/lnkiai/m3e-canvas)** ⭐ 7,325
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   Sketch Material 3 Expressive screens in the browser and turn them into vibe-coding prompts.
 
-- **[MengTo/threeui](https://github.com/MengTo/threeui)** ⭐ 5,905
+- **[MengTo/threeui](https://github.com/MengTo/threeui)** ⭐ 5,912
   ![HTML](https://img.shields.io/badge/-HTML-lightgrey)
   Open-source ThreeUI Community catalog with live interactive components and complete Community source.
 
-- **[sapientinc/PRAXIST](https://github.com/sapientinc/PRAXIST)** ⭐ 5,717
+- **[sapientinc/PRAXIST](https://github.com/sapientinc/PRAXIST)** ⭐ 5,722
   ![Python](https://img.shields.io/badge/-Python-blue)
   Autonomous research system for measurable, computer-executable research.
 
-- **[rakanki911/DLSS5-Swapper](https://github.com/rakanki911/DLSS5-Swapper)** ⭐ 5,540
+- **[rakanki911/DLSS5-Swapper](https://github.com/rakanki911/DLSS5-Swapper)** ⭐ 5,570
   ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
   Install, tune and restore DLSS 5 in your games with one click. Native RenoDX, DLSS5-Feeder for games without DLSS, OptiScaler and multipass routes; DirectX 8/9/11/12, Vulkan, OpenGL, DirectDraw and emulators. In-game F8 overlay, automatic backups, and a community page showing what works on your games and your graphics card.
 
-- **[amagine-ai/Amagine3D](https://github.com/amagine-ai/Amagine3D)** ⭐ 5,212
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  Amagine3D: From hardware requirements to editable 3D designs
-
-- **[XiaoDuoYa/codex-with-chatgpt](https://github.com/XiaoDuoYa/codex-with-chatgpt)** ⭐ 5,182
+- **[XiaoDuoYa/codex-with-chatgpt](https://github.com/XiaoDuoYa/codex-with-chatgpt)** ⭐ 5,241
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   ChatGPT thinks. Codex works. Use ChatGPT as the planning brain while keeping the Codex harness.
 
-- **[crmne/spotifast](https://github.com/crmne/spotifast)** ⭐ 4,330
+- **[crmne/spotifast](https://github.com/crmne/spotifast)** ⭐ 4,336
   ![Rust](https://img.shields.io/badge/-Rust-brown)
   Spotify, native and fast. One lightweight Rust app for your whole library, local playback, and Spotify Connect on Linux, macOS, and Windows.
 
-- **[HEJustinSun/my-girlfriend-jingtian-latex](https://github.com/HEJustinSun/my-girlfriend-jingtian-latex)** ⭐ 4,210
+- **[HEJustinSun/my-girlfriend-jingtian-latex](https://github.com/HEJustinSun/my-girlfriend-jingtian-latex)** ⭐ 4,211
   ![TeX](https://img.shields.io/badge/-TeX-lightgrey)
   None
+
+- **[bojieli/ai-infra-book](https://github.com/bojieli/ai-infra-book)** ⭐ 4,153
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  《深入理解 AI Infra：量化分析与系统设计》（李博杰 著）开源书稿：从硬件约束和模型架构出发，量化推导 LLM 推理与训练系统设计。含全书正文、PDF、配套计算工具与实验
 
 ## 🚀 Latest Releases
 
@@ -488,29 +494,29 @@ See [kubernetes-announce@](https://groups.google.com/forum/#!forum/kubernetes-an
 
 | Skill | Status |
 |-------|--------|
-| Java | 🟡 Learning |
-| Python | 🟡 Learning |
-| JavaScript | 🔴 Beginner |
-| TypeScript | 🟢 Proficient |
-| Go | 🟡 Learning |
+| Java | ⚪ Planned |
+| Python | 🔴 Beginner |
+| JavaScript | 🟡 Learning |
+| TypeScript | 🔴 Beginner |
+| Go | 🟢 Proficient |
 
 ### Frameworks
 
 | Skill | Status |
 |-------|--------|
-| React | ⚪ Planned |
-| Spring Boot | 🔴 Beginner |
-| Django | 🔴 Beginner |
+| React | 🟡 Learning |
+| Spring Boot | 🟢 Proficient |
+| Django | ⚪ Planned |
 | Node.js | 🟡 Learning |
-| Next.js | 🟢 Proficient |
+| Next.js | 🔴 Beginner |
 
 ### Cybersecurity
 
 | Skill | Status |
 |-------|--------|
-| Penetration Testing | 🔴 Beginner |
-| Web Security | ⚪ Planned |
-| Network Security | ⚪ Planned |
+| Penetration Testing | 🟢 Proficient |
+| Web Security | 🟢 Proficient |
+| Network Security | 🔴 Beginner |
 | OWASP | 🟡 Learning |
 
 ### Ai Ml
@@ -518,10 +524,10 @@ See [kubernetes-announce@](https://groups.google.com/forum/#!forum/kubernetes-an
 | Skill | Status |
 |-------|--------|
 | Machine Learning | 🟢 Proficient |
-| Deep Learning | 🟡 Learning |
-| NLP | 🟡 Learning |
-| Computer Vision | 🟡 Learning |
-| TensorFlow | 🟡 Learning |
+| Deep Learning | 🔴 Beginner |
+| NLP | 🟢 Proficient |
+| Computer Vision | 🔴 Beginner |
+| TensorFlow | 🟢 Proficient |
 | PyTorch | 🟡 Learning |
 
 ### Devops
@@ -529,18 +535,18 @@ See [kubernetes-announce@](https://groups.google.com/forum/#!forum/kubernetes-an
 | Skill | Status |
 |-------|--------|
 | Docker | ⚪ Planned |
-| Kubernetes | ⚪ Planned |
-| CI/CD | ⚪ Planned |
-| AWS | 🟡 Learning |
+| Kubernetes | 🟡 Learning |
+| CI/CD | 🔴 Beginner |
+| AWS | 🔴 Beginner |
 | Azure | 🟡 Learning |
 
 ### Other
 
 | Skill | Status |
 |-------|--------|
-| Blockchain | 🟡 Learning |
-| Web3 | 🟢 Proficient |
-| Cloud Computing | 🟡 Learning |
+| Blockchain | 🔴 Beginner |
+| Web3 | 🟡 Learning |
+| Cloud Computing | 🟢 Proficient |
 
 </details>
 
@@ -558,7 +564,7 @@ This dashboard is automatically updated every 6 hours using GitHub Actions. The 
 
 <div align="center">
 
-**Last Updated:** September 17, 2026
+**Last Updated:** September 18, 2026
 
 Made with ❤️ and automated with GitHub Actions
 
