@@ -46,35 +46,34 @@
 
 ### 📑 Hacker News
 
-- **[Telstra outage: The night a network decided the year was 2006](https://www.netnod.se/blog/telstra-outage-night-network-decided-year-was-2006)**
-  *<p>Article URL: <a href="https://www.netnod.se/blog/telstra-outage-night-network-decided-year-was-2006">https://www.netnod.se/blog/telstra-outage-night-network-decided-year-was-2006</a></p>
-<p>Comment...*
-  📅 Fri, 18 Sep 2026 01:05:03 +0000
+- **[Microsoft exec called AI scraping 'the largest theft of labor in human history'](https://techcrunch.com/2026/09/17/microsoft-exec-called-ai-scraping-the-largest-theft-of-labor-in-human-history-new-unredacted-filings-reveal/)**
+  *<p>Article URL: <a href="https://techcrunch.com/2026/09/17/microsoft-exec-called-ai-scraping-the-largest-theft-of-labor-in-human-history-new-unredacted-filings-reveal/">https://techcrunch.com/2026/09/...*
+  📅 Fri, 18 Sep 2026 09:45:07 +0000
 
-- **[Goose: 1.16x faster than C++ and 1.12x than safe Rust, while memory safe](https://github.com/aardappel/goose/tree/master)**
-  *<p>Article URL: <a href="https://github.com/aardappel/goose/tree/master">https://github.com/aardappel/goose/tree/master</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49748954"...*
-  📅 Fri, 18 Sep 2026 01:04:54 +0000
+- **[OpenJev](https://openjev.com/)**
+  *<p>Article URL: <a href="https://openjev.com/">https://openjev.com/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49752041">https://news.ycombinator.com/item?id=49752041</a></...*
+  📅 Fri, 18 Sep 2026 09:42:22 +0000
 
-- **[Alibaba releases Qwen 3.8 Omni Flash](https://qwen.ai/blog?id=qwen3.8-omni-flash)**
-  *<p>Article URL: <a href="https://qwen.ai/blog?id=qwen3.8-omni-flash">https://qwen.ai/blog?id=qwen3.8-omni-flash</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49747925">https:/...*
-  📅 Thu, 17 Sep 2026 23:05:48 +0000
+- **[Jemalloc 5.4.0](https://github.com/jemalloc/jemalloc/releases/tag/5.4.0)**
+  *<p>Article URL: <a href="https://github.com/jemalloc/jemalloc/releases/tag/5.4.0">https://github.com/jemalloc/jemalloc/releases/tag/5.4.0</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com...*
+  📅 Fri, 18 Sep 2026 04:20:24 +0000
 
-- **[How Uber Protects Against Retry Storms](https://www.uber.com/us/en/blog/protecting-against-retry-storms/)**
-  *<p>Article URL: <a href="https://www.uber.com/us/en/blog/protecting-against-retry-storms/">https://www.uber.com/us/en/blog/protecting-against-retry-storms/</a></p>
-<p>Comments URL: <a href="https://ne...*
-  📅 Thu, 17 Sep 2026 21:14:32 +0000
+- **[The scourge of x86 emulation](https://fex-emu.com/Scourge-of-emulation/)**
+  *<p>Article URL: <a href="https://fex-emu.com/Scourge-of-emulation/">https://fex-emu.com/Scourge-of-emulation/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49750094">https://n...*
+  📅 Fri, 18 Sep 2026 04:09:48 +0000
 
-- **[Bonsai 2 27B: Near-Lossless Compression in a 9x Smaller Footprint](https://prismml.com/news/bonsai-2-27b)**
-  *<p>Article URL: <a href="https://prismml.com/news/bonsai-2-27b">https://prismml.com/news/bonsai-2-27b</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49746618">https://news.ycom...*
-  📅 Thu, 17 Sep 2026 21:13:31 +0000
+- **[Pre-Greek: The lost language hidden within Ancient Greek](https://linguisticdiscovery.com/posts/pre-greek/)**
+  *<p>Article URL: <a href="https://linguisticdiscovery.com/posts/pre-greek/">https://linguisticdiscovery.com/posts/pre-greek/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49749...*
+  📅 Fri, 18 Sep 2026 03:04:38 +0000
 
-- **[The most important product decision is what you don't build](https://liamnugent.me/posts/what-you-dont-build/)**
-  *<p>Article URL: <a href="https://liamnugent.me/posts/what-you-dont-build/">https://liamnugent.me/posts/what-you-dont-build/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49746...*
-  📅 Thu, 17 Sep 2026 20:52:36 +0000
+- **[A heap overflow and SSO misconfiguration to compromise OpenAI internal repos](https://www.hacktron.ai/blog/hacking-openai)**
+  *<p>Article URL: <a href="https://www.hacktron.ai/blog/hacking-openai">https://www.hacktron.ai/blog/hacking-openai</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49749656">https...*
+  📅 Fri, 18 Sep 2026 02:47:24 +0000
 
 ### 📑 TechCrunch
 
@@ -104,21 +103,22 @@
 
 ### 📑 Dev.to
 
-- **[GitHub AI Repos ประจำสัปดาห์: สกิลจัดรูปแบบชนะเฟรมเวิร์ก (16 ก.ย. 2026)](https://dev.to/sarantoon/github-ai-repos-pracchamsapdaah-skilcchadruupaebbchnaefrmewirk-16-ky-2026-545f)**
-  *<h1>
-  
-  
-  GitHub AI Repos ประจำสัปดาห์: สกิลจัดรูปแบบชนะเฟรมเวิร์ก (16 ก.ย. 2026)
-</h1>
+- **[You Read Your Code and Installed Everybody Else's](https://dev.to/sergueyasaelshinder/you-read-your-code-and-installed-everybody-elses-1h09)**
+  *<p>You reviewed every line of that feature.</p>
 
-<p><em>โดย Nokka (นก-กา) | 16 กันยายน 2026</em></p>
+<p>Two of you read it.</p>
 
-<p>สัปดาห์นี้ผมไล่ดู GitHub Trending ประจำสัปดาห์ [1] แ...*
-  📅 Fri, 18 Sep 2026 02:08:52 +0000
+<p>Then somebody typed install,<br />
+and four hundred packages<br />
+nobody has ever read<br />
+joined the same build,<br ...*
+  📅 Fri, 18 Sep 2026 10:15:16 +0000
 
-- **[Testing webhook retries deterministically: a fault sequence per Idempotency-Key](https://dev.to/emma_teelylabs/testing-webhook-retries-deterministically-a-fault-sequence-per-idempotency-key-1k19)**
-  *<p>Two weeks ago I wrote about a webhook receiver that can be slow and flaky on purpose. A reader left a comment that changed how I think about it: "a 10% error rate tells me my sender retries. It doe...*
-  📅 Fri, 18 Sep 2026 02:07:58 +0000
+- **[CSS Position Properties:](https://dev.to/sathish_kumar_967/css-position-properties-12a7)**
+  *<p>Static: This is the default position. Elements naturally flow according to the normal page layout.  </p>
+
+<p>​Relative: Positioned relative to its normal position. You can move it using top, right,...*
+  📅 Fri, 18 Sep 2026 10:14:11 +0000
 
 </details>
 
@@ -126,103 +126,103 @@
 
 ### 📈 Daily Trending
 
-- **[adonaipinheiro/USPExample](https://github.com/adonaipinheiro/USPExample)** ⭐ 4
-  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
-  Repositório feito em aula USP
+- **[Continuum-AI-Corp/OrcaBonsai-27B-Uncensored](https://github.com/Continuum-AI-Corp/OrcaBonsai-27B-Uncensored)** ⭐ 65
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  Runtime behavioral ablation for compressed LLMs. First target: Ternary Bonsai 2 27B — no weight modification or re-quantization. by OrcaRouter team
 
-- **[VDERR/echocat-skill-panel-3.0](https://github.com/VDERR/echocat-skill-panel-3.0)** ⭐ 4
+- **[indada/repopilot](https://github.com/indada/repopilot)** ⭐ 42
+  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
+  Verification-driven AI software iteration, powered by the OpenAI Codex SDK. Self-hosted agents turn goals, GitHub Issues and PR feedback into tested, reviewable changes, with bounded execution and human control over merging and deployment.
+
+- **[VDERR/echocat-skill-panel-3.0](https://github.com/VDERR/echocat-skill-panel-3.0)** ⭐ 32
   ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
   DSH 技能调用审计 + 应用内 skill 管理器
 
-- **[JNSEC-OpenSource-Community/jnu-cs-lab-report-typst](https://github.com/JNSEC-OpenSource-Community/jnu-cs-lab-report-typst)** ⭐ 3
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  江南大学人工智能与计算机学院实验报告 Typst 模板
-
-- **[vinilana/live-jev](https://github.com/vinilana/live-jev)** ⭐ 3
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
-  2D autonomous car simulation in the browser, driven by TypeSafe's Jev decision model
-
-- **[siliconkernel/vllm-jev-decison](https://github.com/siliconkernel/vllm-jev-decison)** ⭐ 3
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  Classification-only typed decisions for vLLM: finite-schema candidate scoring, probabilities, and abstention. No generative fallback.
-
-- **[compozy/yoshi](https://github.com/compozy/yoshi)** ⭐ 3
-  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
-  Context-pruning proxy for Claude Code and Codex: Jev judges which history is still needed, measured not claimed. POC here now, heading soon into https://github.com/compozy/compozy
-
-- **[richardds5/learn-llm-14days](https://github.com/richardds5/learn-llm-14days)** ⭐ 2
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  14 天读透一个 LLM 的全部实现：基于 MiniMind 的本地交互式学习站，逐行看 tensor 维度、可运行实验、小测
-
-- **[v4xplay/V4xTrade-download](https://github.com/v4xplay/V4xTrade-download)** ⭐ 2
-  ![None](https://img.shields.io/badge/-None-lightgrey)
+- **[NandhaKishorM/laya](https://github.com/NandhaKishorM/laya)** ⭐ 32
+  ![Jupyter Notebook](https://img.shields.io/badge/-Jupyter Notebook-lightgrey)
   None
+
+- **[imbbbbb/BarBar-support](https://github.com/imbbbbb/BarBar-support)** ⭐ 28
+  ![None](https://img.shields.io/badge/-None-lightgrey)
+  BarBar —— macOS 菜单栏整理工具。下载安装包与反馈问题。
+
+- **[gylive/ccodex-sleep-state](https://github.com/gylive/ccodex-sleep-state)** ⭐ 22
+  ![Go](https://img.shields.io/badge/-Go-cyan)
+  尝试解决 Codex 的降智和限流。接入自己的订阅或代理，在本地采集、维护并注入 turn-state。目前只做 Astra，不保证百分百有效。
+
+- **[zeredy879/minojev](https://github.com/zeredy879/minojev)** ⭐ 19
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  Decisions, not tokens: minojev reads calibrated, typed probability distributions straight from hidden states in one forward pass — zero output tokens, fully reproducible on a laptop CPU.
+
+- **[dashscope-sdk/dashcope-sdk-python](https://github.com/dashscope-sdk/dashcope-sdk-python)** ⭐ 18
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  python sdk for dashscope [model studio](https://www.alibabacloud.com/en/product/modelstudio?_p_lc=1)
 
 ### 📈 Weekly Trending
 
-- **[browser-use/jev-ultrafast](https://github.com/browser-use/jev-ultrafast)** ⭐ 2,363
+- **[browser-use/jev-ultrafast](https://github.com/browser-use/jev-ultrafast)** ⭐ 3,746
   ![Python](https://img.shields.io/badge/-Python-blue)
-  None
+  i. am. speed.
 
-- **[Chuloo/mural](https://github.com/Chuloo/mural)** ⭐ 1,321
+- **[tamaratran/fast-jev-compaction](https://github.com/tamaratran/fast-jev-compaction)** ⭐ 2,023
+  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
+  Claude Code plugin that replaces the compaction summary with Jev decisions: every tool call and result is scored in one fast request, stale ones are dropped or truncated, everything kept stays verbatim.
+
+- **[Chuloo/mural](https://github.com/Chuloo/mural)** ⭐ 1,334
   ![Kotlin](https://img.shields.io/badge/-Kotlin-lightgrey)
   The language app you eventually delete. A native iPhone companion for learning through conversation.
 
-- **[yifanzhang-pro/recurrent-looped-tranformer](https://github.com/yifanzhang-pro/recurrent-looped-tranformer)** ⭐ 873
-  ![HTML](https://img.shields.io/badge/-HTML-lightgrey)
-  Official Project Page for Recurrent Looped Transformer (RLT)
-
-- **[TheoLeeCJ/openjev](https://github.com/TheoLeeCJ/openjev)** ⭐ 852
+- **[TheoLeeCJ/openjev](https://github.com/TheoLeeCJ/openjev)** ⭐ 1,206
   ![Python](https://img.shields.io/badge/-Python-blue)
   Can we run something like Jev on a 3090 at home?
 
-- **[zjwzcx/Awesome-Astra-Embodied-AI](https://github.com/zjwzcx/Awesome-Astra-Embodied-AI)** ⭐ 825
+- **[yifanzhang-pro/recurrent-looped-tranformer](https://github.com/yifanzhang-pro/recurrent-looped-tranformer)** ⭐ 876
+  ![HTML](https://img.shields.io/badge/-HTML-lightgrey)
+  Official Project Page for Recurrent Looped Transformer (RLT)
+
+- **[zjwzcx/Awesome-Astra-Embodied-AI](https://github.com/zjwzcx/Awesome-Astra-Embodied-AI)** ⭐ 845
   ![None](https://img.shields.io/badge/-None-lightgrey)
   GPT-6 Astra for embodied AI and robotics.
 
-- **[agentverse-os/AgentVerse-OS](https://github.com/agentverse-os/AgentVerse-OS)** ⭐ 752
+- **[vinnylarouge/jevlike](https://github.com/vinnylarouge/jevlike)** ⭐ 785
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  None
+
+- **[agentverse-os/AgentVerse-OS](https://github.com/agentverse-os/AgentVerse-OS)** ⭐ 769
   ![Rust](https://img.shields.io/badge/-Rust-brown)
   Personal cloud OS for a developer and their AI agents on a single server. One-command install on Ubuntu, then everything in the browser: a windowed desktop, isolated workspaces with VS Code, Claude Code and Codex, a store of 944 self-hosted apps, backups and updates. Access only via Tailscale, nothing exposed to the internet. Rust core, Svelte UI.
 
-- **[vinnylarouge/jevlike](https://github.com/vinnylarouge/jevlike)** ⭐ 692
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  None
-
-- **[youngyangyang04/llm-master](https://github.com/youngyangyang04/llm-master)** ⭐ 688
-  ![None](https://img.shields.io/badge/-None-lightgrey)
-  大模型（LLM）全栈学习路线与中文教程🔥：覆盖 Prompt Engineering、RAG、AI Agent、MCP、微调、模型部署、Transformer、AI 编程与大厂面试，从入门到生产实践。
-
 ### 📈 Monthly Trending
 
-- **[lnkiai/m3e-canvas](https://github.com/lnkiai/m3e-canvas)** ⭐ 7,325
+- **[lnkiai/m3e-canvas](https://github.com/lnkiai/m3e-canvas)** ⭐ 7,370
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   Sketch Material 3 Expressive screens in the browser and turn them into vibe-coding prompts.
 
-- **[MengTo/threeui](https://github.com/MengTo/threeui)** ⭐ 5,912
+- **[MengTo/threeui](https://github.com/MengTo/threeui)** ⭐ 5,924
   ![HTML](https://img.shields.io/badge/-HTML-lightgrey)
   Open-source ThreeUI Community catalog with live interactive components and complete Community source.
 
-- **[sapientinc/PRAXIST](https://github.com/sapientinc/PRAXIST)** ⭐ 5,722
+- **[sapientinc/PRAXIST](https://github.com/sapientinc/PRAXIST)** ⭐ 5,744
   ![Python](https://img.shields.io/badge/-Python-blue)
   Autonomous research system for measurable, computer-executable research.
 
-- **[rakanki911/DLSS5-Swapper](https://github.com/rakanki911/DLSS5-Swapper)** ⭐ 5,570
+- **[rakanki911/DLSS5-Swapper](https://github.com/rakanki911/DLSS5-Swapper)** ⭐ 5,655
   ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
   Install, tune and restore DLSS 5 in your games with one click. Native RenoDX, DLSS5-Feeder for games without DLSS, OptiScaler and multipass routes; DirectX 8/9/11/12, Vulkan, OpenGL, DirectDraw and emulators. In-game F8 overlay, automatic backups, and a community page showing what works on your games and your graphics card.
 
-- **[XiaoDuoYa/codex-with-chatgpt](https://github.com/XiaoDuoYa/codex-with-chatgpt)** ⭐ 5,241
+- **[XiaoDuoYa/codex-with-chatgpt](https://github.com/XiaoDuoYa/codex-with-chatgpt)** ⭐ 5,374
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   ChatGPT thinks. Codex works. Use ChatGPT as the planning brain while keeping the Codex harness.
 
-- **[crmne/spotifast](https://github.com/crmne/spotifast)** ⭐ 4,336
+- **[eternity4719/HowToLiveBetter](https://github.com/eternity4719/HowToLiveBetter)** ⭐ 4,563
+  ![HTML](https://img.shields.io/badge/-HTML-lightgrey)
+  按性价比排序的循证生活指南：长寿防病、急救、省钱理财、法律红线、失业与工伤、医保社保、恋爱婚育、怀孕育儿、创业与做平台合规、出国与技能。每条写明成本、收益、证据等级和原始出处，只引期刊论文与官方文件。
+
+- **[crmne/spotifast](https://github.com/crmne/spotifast)** ⭐ 4,348
   ![Rust](https://img.shields.io/badge/-Rust-brown)
   Spotify, native and fast. One lightweight Rust app for your whole library, local playback, and Spotify Connect on Linux, macOS, and Windows.
 
-- **[HEJustinSun/my-girlfriend-jingtian-latex](https://github.com/HEJustinSun/my-girlfriend-jingtian-latex)** ⭐ 4,211
-  ![TeX](https://img.shields.io/badge/-TeX-lightgrey)
-  None
-
-- **[bojieli/ai-infra-book](https://github.com/bojieli/ai-infra-book)** ⭐ 4,153
+- **[bojieli/ai-infra-book](https://github.com/bojieli/ai-infra-book)** ⭐ 4,311
   ![Python](https://img.shields.io/badge/-Python-blue)
   《深入理解 AI Infra：量化分析与系统设计》（李博杰 著）开源书稿：从硬件约束和模型架构出发，量化推导 LLM 推理与训练系统设计。含全书正文、PDF、配套计算工具与实验
 
@@ -494,27 +494,27 @@ See [kubernetes-announce@](https://groups.google.com/forum/#!forum/kubernetes-an
 
 | Skill | Status |
 |-------|--------|
-| Java | ⚪ Planned |
-| Python | 🔴 Beginner |
-| JavaScript | 🟡 Learning |
-| TypeScript | 🔴 Beginner |
+| Java | 🟡 Learning |
+| Python | ⚪ Planned |
+| JavaScript | ⚪ Planned |
+| TypeScript | 🟢 Proficient |
 | Go | 🟢 Proficient |
 
 ### Frameworks
 
 | Skill | Status |
 |-------|--------|
-| React | 🟡 Learning |
-| Spring Boot | 🟢 Proficient |
-| Django | ⚪ Planned |
-| Node.js | 🟡 Learning |
-| Next.js | 🔴 Beginner |
+| React | 🟢 Proficient |
+| Spring Boot | 🟡 Learning |
+| Django | 🟢 Proficient |
+| Node.js | 🟢 Proficient |
+| Next.js | 🟡 Learning |
 
 ### Cybersecurity
 
 | Skill | Status |
 |-------|--------|
-| Penetration Testing | 🟢 Proficient |
+| Penetration Testing | ⚪ Planned |
 | Web Security | 🟢 Proficient |
 | Network Security | 🔴 Beginner |
 | OWASP | 🟡 Learning |
@@ -523,30 +523,30 @@ See [kubernetes-announce@](https://groups.google.com/forum/#!forum/kubernetes-an
 
 | Skill | Status |
 |-------|--------|
-| Machine Learning | 🟢 Proficient |
-| Deep Learning | 🔴 Beginner |
-| NLP | 🟢 Proficient |
-| Computer Vision | 🔴 Beginner |
-| TensorFlow | 🟢 Proficient |
+| Machine Learning | 🟡 Learning |
+| Deep Learning | 🟢 Proficient |
+| NLP | 🟡 Learning |
+| Computer Vision | 🟡 Learning |
+| TensorFlow | 🟡 Learning |
 | PyTorch | 🟡 Learning |
 
 ### Devops
 
 | Skill | Status |
 |-------|--------|
-| Docker | ⚪ Planned |
+| Docker | 🟢 Proficient |
 | Kubernetes | 🟡 Learning |
-| CI/CD | 🔴 Beginner |
-| AWS | 🔴 Beginner |
-| Azure | 🟡 Learning |
+| CI/CD | 🟡 Learning |
+| AWS | ⚪ Planned |
+| Azure | 🔴 Beginner |
 
 ### Other
 
 | Skill | Status |
 |-------|--------|
 | Blockchain | 🔴 Beginner |
-| Web3 | 🟡 Learning |
-| Cloud Computing | 🟢 Proficient |
+| Web3 | 🔴 Beginner |
+| Cloud Computing | 🟡 Learning |
 
 </details>
 
