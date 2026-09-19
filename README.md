@@ -46,34 +46,33 @@
 
 ### 📑 Hacker News
 
-- **[Show HN: LiveWorld – Every 24/7 YouTube live camera on one globe](https://liveworld.info/)**
-  *<p>Article URL: <a href="https://liveworld.info/">https://liveworld.info/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49762099">https://news.ycombinator.com/item?id=49762099...*
-  📅 Sat, 19 Sep 2026 00:30:34 +0000
+- **[GPT-6 Astra Solves a WWI German Radio Cipher](https://www.prinzai.com/p/gpt-6-astra-solves-a-wwi-german-radio)**
+  *<p>Article URL: <a href="https://www.prinzai.com/p/gpt-6-astra-solves-a-wwi-german-radio">https://www.prinzai.com/p/gpt-6-astra-solves-a-wwi-german-radio</a></p>
+<p>Comments URL: <a href="https://news...*
+  📅 Sat, 19 Sep 2026 06:41:44 +0000
 
-- **[Alibaba open-sources AI model that can detect cancer and nearly 150 conditions](https://www.scmp.com/tech/big-tech/article/3368055/alibaba-open-sources-medical-ai-model-can-detect-cancer-and-nearly-150-conditions)**
-  *<p>Article URL: <a href="https://www.scmp.com/tech/big-tech/article/3368055/alibaba-open-sources-medical-ai-model-can-detect-cancer-and-nearly-150-conditions">https://www.scmp.com/tech/big-tech/articl...*
-  📅 Fri, 18 Sep 2026 23:54:42 +0000
+- **[If math is more than proof, we need to better celebrate the rest of it](https://terrytao.wordpress.com/2026/09/18/if-math-is-more-than-proof-we-need-to-better-celebrate-the-rest-of-it/)**
+  *<p>Article URL: <a href="https://terrytao.wordpress.com/2026/09/18/if-math-is-more-than-proof-we-need-to-better-celebrate-the-rest-of-it/">https://terrytao.wordpress.com/2026/09/18/if-math-is-more-tha...*
+  📅 Sat, 19 Sep 2026 06:28:02 +0000
 
-- **[How OpenAI Used Its Own LLMs to Design Its Jalapeño Chip](https://spectrum.ieee.org/llms-for-chip-design)**
-  *<p>Article URL: <a href="https://spectrum.ieee.org/llms-for-chip-design">https://spectrum.ieee.org/llms-for-chip-design</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49761432"...*
-  📅 Fri, 18 Sep 2026 23:04:17 +0000
+- **[Apple M6 Pro Achieves the Highest Single-Core CPU Score in Geekbench 7](https://browser.geekbench.com/v7/cpu/389219)**
+  *<p>Article URL: <a href="https://browser.geekbench.com/v7/cpu/389219">https://browser.geekbench.com/v7/cpu/389219</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49763883">https...*
+  📅 Sat, 19 Sep 2026 06:19:24 +0000
 
-- **[Claude Code now reads AGENTS.md if there is no Claude.md](https://code.claude.com/docs/en/changelog)**
-  *<p>Article URL: <a href="https://code.claude.com/docs/en/changelog">https://code.claude.com/docs/en/changelog</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49760187">https://n...*
-  📅 Fri, 18 Sep 2026 21:00:32 +0000
+- **[Human brain is two separate organs, Stanford Medicine-led research finds](https://med.stanford.edu/news/all-news/2026/09/two-separate-brains.html)**
+  *<p>Article URL: <a href="https://med.stanford.edu/news/all-news/2026/09/two-separate-brains.html">https://med.stanford.edu/news/all-news/2026/09/two-separate-brains.html</a></p>
+<p>Comments URL: <a hr...*
+  📅 Sat, 19 Sep 2026 05:48:50 +0000
 
-- **[Android 17 is the first since 3.x to add new APIs without releasing to the AOSP](https://grapheneos.social/@GrapheneOS/117282080803799576)**
-  *<p>Article URL: <a href="https://grapheneos.social/@GrapheneOS/117282080803799576">https://grapheneos.social/@GrapheneOS/117282080803799576</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.c...*
-  📅 Fri, 18 Sep 2026 19:03:09 +0000
+- **[NASA-IBM Lunar Foundation open-Source Geospatial AI Model](https://newsroom.usra.edu/usra-contributes-planetary-science-expertise-to-nasa-ibm-lunar-foundation-model/)**
+  *<p>Article URL: <a href="https://newsroom.usra.edu/usra-contributes-planetary-science-expertise-to-nasa-ibm-lunar-foundation-model/">https://newsroom.usra.edu/usra-contributes-planetary-science-expert...*
+  📅 Sat, 19 Sep 2026 04:44:35 +0000
 
-- **[The Implications of Linguistic Illegibility for LLM Security](https://arxiv.org/abs/2609.02852)**
-  *<p>Article URL: <a href="https://arxiv.org/abs/2609.02852">https://arxiv.org/abs/2609.02852</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49758689">https://news.ycombinator.co...*
-  📅 Fri, 18 Sep 2026 19:00:06 +0000
+- **[San Francisco Onion Futures Company](https://onionfutures.com/)**
+  *<p>Article URL: <a href="https://onionfutures.com/">https://onionfutures.com/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49763296">https://news.ycombinator.com/item?id=4976...*
+  📅 Sat, 19 Sep 2026 04:23:30 +0000
 
 ### 📑 TechCrunch
 
@@ -103,20 +102,21 @@
 
 ### 📑 Dev.to
 
-- **[CVE-2024-1086: Celah Keamanan Kernel Linux Berisiko Tinggi Akses Root](https://dev.to/ibramedia/cve-2024-1086-celah-keamanan-kernel-linux-berisiko-tinggi-akses-root-3an0)**
-  *<h2>
+- **[Jev Does Not Replace the LLM. It Changes Who Owns the Decision](https://dev.to/miruky/jev-does-not-replace-the-llm-it-changes-who-owns-the-decision-3n6)**
+  *<p><a class="article-body-image-wrapper" href="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws...*
+  📅 Sat, 19 Sep 2026 09:46:54 +0000
+
+- **[6 คอนเทนเนอร์ Docker แทน Google และราคาที่ต้องจ่ายจริง](https://dev.to/sarantoon/6-khnethnenr-docker-aethn-google-aelaraakhaathiitngcchaaycchring-2d9b)**
+  *<h1>
   
   
-  Apa itu CVE-2024-1086?
-</h2>
+  6 คอนเทนเนอร์ Docker แทน Google และราคาที่ต้องจ่ายจริง
+</h1>
 
-<p>CVE-2024-1086 adalah kerentanan keamanan kritis pada kernel Linux. Kerentanan ini sangat serius, memungkinkan penyerang lokal meningkatkan hak akses hingg...*
-  📅 Sat, 19 Sep 2026 02:03:19 +0000
+<p><em>โดย Nokka (นก-กา) | 19 กันยายน 2026</em></p>
 
-- **[Why AI Coding Agents Crash at 3 AM: The Happy-Path Mirage & The Forced Continuity Defect](https://dev.to/gde/why-ai-coding-agents-crash-at-3-am-the-happy-path-mirage-the-forced-continuity-defect-46pd)**
-  *<blockquote>
-<p><em>"The true goal of autonomous software engineering is not to replace the human—it is to transfer the pain from the engineer woken up at 3 AM to the droid that never sleeps."</em><br...*
-  📅 Sat, 19 Sep 2026 01:56:39 +0000
+<p><em>บทความนี้เขียนโดย AI (โมเดล deepseek-v4.1-flash ของผู้ให้บริการ o...*
+  📅 Sat, 19 Sep 2026 09:46:30 +0000
 
 </details>
 
@@ -124,103 +124,103 @@
 
 ### 📈 Daily Trending
 
-- **[jackn11/infinity-think-mode](https://github.com/jackn11/infinity-think-mode)** ⭐ 4
-  ![Shell](https://img.shields.io/badge/-Shell-lightgrey)
-  It don't get smarter than this.
-
-- **[OnlyDev321/campus-match](https://github.com/OnlyDev321/campus-match)** ⭐ 3
-  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
-  A campus platform for discovering, creating, and managing study groups and university projects.
-
-- **[ckaraca/awesome-jev](https://github.com/ckaraca/awesome-jev)** ⭐ 3
+- **[logan-markewich/jeff](https://github.com/logan-markewich/jeff)** ⭐ 46
   ![Python](https://img.shields.io/badge/-Python-blue)
-  A curated list of tools, integrations, and experiments built on Jev, TypeSafe AI's System One model for fast, typed decisions.
+  A self-hosted drop-in replacement for TypeSafe's jev, powered by GliFormer.
 
-- **[tori-n-m/vthacks2026](https://github.com/tori-n-m/vthacks2026)** ⭐ 2
+- **[Mayuqi-crypto/everything-search-skill](https://github.com/Mayuqi-crypto/everything-search-skill)** ⭐ 28
+  ![PowerShell](https://img.shields.io/badge/-PowerShell-lightgrey)
+  ⚡ Ultra-fast, index-powered local file search skill for AI agents (Cursor, Codex, PI-Desktop) using Voidtools Everything
+
+- **[hirotomasato/yowes](https://github.com/hirotomasato/yowes)** ⭐ 26
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  Generate realistic teacher documents (ID cards, licenses, letters) for 13 countries via MCP.
+
+- **[2BE-ops/zcode-prompt-toolkit](https://github.com/2BE-ops/zcode-prompt-toolkit)** ⭐ 23
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  Take full control of your ZCode harness: inject your own first system message and edit every built-in prompt, guardrail, and tool description (tested on ZCode 3.9.1)
+
+- **[Sur4lis/FreeCast](https://github.com/Sur4lis/FreeCast)** ⭐ 18
   ![None](https://img.shields.io/badge/-None-lightgrey)
-  e
+  二路自由，多平台直播组合播放器
 
-- **[PatryckDiasDelfes/sem_sufoco](https://github.com/PatryckDiasDelfes/sem_sufoco)** ⭐ 2
+- **[Tempestglipraise/iPhone-Jailbreak-2026](https://github.com/Tempestglipraise/iPhone-Jailbreak-2026)** ⭐ 16
   ![None](https://img.shields.io/badge/-None-lightgrey)
-  Aplicativo mobile em Flutter para controlar receitas e despesas. O app deve permitir cadastrar lançamentos financeiros, consultar movimentações, filtrar dados por mês, acompanhar o saldo total e identificar situações em que as despesas superam as receitas.
+  The ultimate iPhone jailbreak tool. Full version with all premium features unlocked. Experience advanced customization, unlimited tweaks and complete freedom on your device without limitations.
 
-- **[tzdwindows/colunwind](https://github.com/tzdwindows/colunwind)** ⭐ 2
-  ![C](https://img.shields.io/badge/-C-lightgrey)
-  Cross-platform lightweight crash capture, minidump, and precise line-column symbolization library in pure C.
+- **[TalonAbjurer/Xiaomi-Jailbreak-2026](https://github.com/TalonAbjurer/Xiaomi-Jailbreak-2026)** ⭐ 16
+  ![None](https://img.shields.io/badge/-None-lightgrey)
+  The ultimate Xiaomi jailbreak tool. Full version with all premium features unlocked. Experience advanced customization, unlimited tweaks and complete freedom on your device without limitations.
 
-- **[appthin/dsh-skills-manager-plus](https://github.com/appthin/dsh-skills-manager-plus)** ⭐ 2
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
-  在 DeepSeek Harness 设置界面的左侧边栏新增「技能与命令」页面， 可直接查看、启用/停用、编辑、删除与添加技能，还能把常用的提示词保存为命令， 在输入框输入 `/` 即可快速调用。Adds a *Skills & Commands* page to the left sidebar of the Settings screen, where you can view, enable/disable, edit, delete and add skills, and save frequent prompts as `/commands` that you invoke by typing `/`.
-
-- **[eSagraAI/SecretsVault](https://github.com/eSagraAI/SecretsVault)** ⭐ 2
-  ![Rust](https://img.shields.io/badge/-Rust-brown)
-  Local-first secrets and permissions broker for AI agents .
+- **[Labeldatreasure/AutoCAD-Cracked](https://github.com/Labeldatreasure/AutoCAD-Cracked)** ⭐ 16
+  ![None](https://img.shields.io/badge/-None-lightgrey)
+  The ultimate AI-powered CAD design software. AutoCAD — Full version with all premium features unlocked. Experience advanced 2D/3D drafting, AI tools and professional design without limitations.
 
 ### 📈 Weekly Trending
 
-- **[browser-use/jev-ultrafast](https://github.com/browser-use/jev-ultrafast)** ⭐ 5,684
+- **[browser-use/jev-ultrafast](https://github.com/browser-use/jev-ultrafast)** ⭐ 6,391
   ![Python](https://img.shields.io/badge/-Python-blue)
   i. am. speed.
 
-- **[tamaratran/fast-jev-compaction](https://github.com/tamaratran/fast-jev-compaction)** ⭐ 3,316
+- **[tamaratran/fast-jev-compaction](https://github.com/tamaratran/fast-jev-compaction)** ⭐ 3,658
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   Claude Code plugin that replaces the compaction summary with Jev decisions: every tool call and result is scored in one fast request, stale ones are dropped or truncated, everything kept stays verbatim.
 
-- **[TheoLeeCJ/SemIf](https://github.com/TheoLeeCJ/SemIf)** ⭐ 1,613
+- **[TheoLeeCJ/SemIf](https://github.com/TheoLeeCJ/SemIf)** ⭐ 1,706
   ![Python](https://img.shields.io/badge/-Python-blue)
   Semantic ifs from open models, on a 3090 at home. Independent; not affiliated with Jev or TypeSafe.
 
-- **[mcncarl/jianying-headless](https://github.com/mcncarl/jianying-headless)** ⭐ 1,068
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  Private source preview: native Jianying drafts, isolated editing/export, and standalone Agent Skill.
-
-- **[vinnylarouge/jevlike](https://github.com/vinnylarouge/jevlike)** ⭐ 897
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  None
-
-- **[jarrodwatts/jev-trader](https://github.com/jarrodwatts/jev-trader)** ⭐ 891
-  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
-  One AI trade decision every Monad block. Jev on Kuru MON-USDC.
-
-- **[zhengkid/Dream-RSI](https://github.com/zhengkid/Dream-RSI)** ⭐ 764
-  ![None](https://img.shields.io/badge/-None-lightgrey)
-  The offical repo for "Dream-RSI: Recursive Self-Improvement through Evolving Worlds"
-
-- **[robbietilton/Compositor](https://github.com/robbietilton/Compositor)** ⭐ 725
+- **[robbietilton/Compositor](https://github.com/robbietilton/Compositor)** ⭐ 1,382
   ![Swift](https://img.shields.io/badge/-Swift-lightgrey)
   The Photoshop alternative for Mac
 
+- **[mcncarl/jianying-headless](https://github.com/mcncarl/jianying-headless)** ⭐ 1,280
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  Private source preview: native Jianying drafts, isolated editing/export, and standalone Agent Skill.
+
+- **[jarrodwatts/jev-trader](https://github.com/jarrodwatts/jev-trader)** ⭐ 980
+  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
+  One AI trade decision every Monad block. Jev on Kuru MON-USDC.
+
+- **[vinnylarouge/jevlike](https://github.com/vinnylarouge/jevlike)** ⭐ 924
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  None
+
+- **[zhengkid/Dream-RSI](https://github.com/zhengkid/Dream-RSI)** ⭐ 814
+  ![None](https://img.shields.io/badge/-None-lightgrey)
+  The offical repo for "Dream-RSI: Recursive Self-Improvement through Evolving Worlds"
+
 ### 📈 Monthly Trending
 
-- **[lnkiai/m3e-canvas](https://github.com/lnkiai/m3e-canvas)** ⭐ 7,424
+- **[lnkiai/m3e-canvas](https://github.com/lnkiai/m3e-canvas)** ⭐ 7,460
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   Sketch Material 3 Expressive screens in the browser and turn them into vibe-coding prompts.
 
-- **[sapientinc/PRAXIST](https://github.com/sapientinc/PRAXIST)** ⭐ 6,032
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  Autonomous research system for measurable, computer-executable research.
-
-- **[MengTo/threeui](https://github.com/MengTo/threeui)** ⭐ 5,943
-  ![HTML](https://img.shields.io/badge/-HTML-lightgrey)
-  Open-source ThreeUI Community catalog with live interactive components and complete Community source.
-
-- **[rakanki911/DLSS5-Swapper](https://github.com/rakanki911/DLSS5-Swapper)** ⭐ 5,767
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
-  Install, tune and restore DLSS 5 in your games with one click. Native RenoDX, DLSS5-Feeder for games without DLSS, OptiScaler and multipass routes; DirectX 8/9/11/12, Vulkan, OpenGL, DirectDraw and emulators. In-game F8 overlay, automatic backups, and a community page showing what works on your games and your graphics card.
-
-- **[browser-use/jev-ultrafast](https://github.com/browser-use/jev-ultrafast)** ⭐ 5,684
+- **[browser-use/jev-ultrafast](https://github.com/browser-use/jev-ultrafast)** ⭐ 6,391
   ![Python](https://img.shields.io/badge/-Python-blue)
   i. am. speed.
 
-- **[XiaoDuoYa/codex-with-chatgpt](https://github.com/XiaoDuoYa/codex-with-chatgpt)** ⭐ 5,460
+- **[sapientinc/PRAXIST](https://github.com/sapientinc/PRAXIST)** ⭐ 6,185
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  Autonomous research system for measurable, computer-executable research.
+
+- **[MengTo/threeui](https://github.com/MengTo/threeui)** ⭐ 5,954
+  ![HTML](https://img.shields.io/badge/-HTML-lightgrey)
+  Open-source ThreeUI Community catalog with live interactive components and complete Community source.
+
+- **[rakanki911/DLSS5-Swapper](https://github.com/rakanki911/DLSS5-Swapper)** ⭐ 5,831
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
+  Install, tune and restore DLSS 5 in your games with one click. Native RenoDX, DLSS5-Feeder for games without DLSS, OptiScaler and multipass routes; DirectX 8/9/11/12, Vulkan, OpenGL, DirectDraw and emulators. In-game F8 overlay, automatic backups, and a community page showing what works on your games and your graphics card.
+
+- **[XiaoDuoYa/codex-with-chatgpt](https://github.com/XiaoDuoYa/codex-with-chatgpt)** ⭐ 5,508
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   ChatGPT thinks. Codex works. Use ChatGPT as the planning brain while keeping the Codex harness.
 
-- **[eternity4719/HowToLiveBetter](https://github.com/eternity4719/HowToLiveBetter)** ⭐ 5,120
+- **[eternity4719/HowToLiveBetter](https://github.com/eternity4719/HowToLiveBetter)** ⭐ 5,499
   ![HTML](https://img.shields.io/badge/-HTML-lightgrey)
   按性价比排序的循证生活指南：长寿防病、急救、省钱理财、法律红线、失业与工伤、医保社保、恋爱婚育、怀孕育儿、创业与做平台合规、出国与技能。每条写明成本、收益、证据等级和原始出处，只引期刊论文与官方文件。
 
-- **[bojieli/ai-infra-book](https://github.com/bojieli/ai-infra-book)** ⭐ 4,382
+- **[bojieli/ai-infra-book](https://github.com/bojieli/ai-infra-book)** ⭐ 4,445
   ![Python](https://img.shields.io/badge/-Python-blue)
   《深入理解 AI Infra：量化分析与系统设计》（李博杰 著）开源书稿：从硬件约束和模型架构出发，量化推导 LLM 推理与训练系统设计。含全书正文、PDF、配套计算工具与实验
 
@@ -493,58 +493,58 @@ See [kubernetes-announce@](https://groups.google.com/forum/#!forum/kubernetes-an
 | Skill | Status |
 |-------|--------|
 | Java | 🔴 Beginner |
-| Python | ⚪ Planned |
-| JavaScript | 🔴 Beginner |
-| TypeScript | ⚪ Planned |
-| Go | ⚪ Planned |
+| Python | 🔴 Beginner |
+| JavaScript | 🟡 Learning |
+| TypeScript | 🟡 Learning |
+| Go | 🟡 Learning |
 
 ### Frameworks
 
 | Skill | Status |
 |-------|--------|
-| React | ⚪ Planned |
-| Spring Boot | 🟢 Proficient |
-| Django | 🔴 Beginner |
-| Node.js | 🔴 Beginner |
-| Next.js | 🔴 Beginner |
+| React | 🟡 Learning |
+| Spring Boot | 🔴 Beginner |
+| Django | 🟡 Learning |
+| Node.js | 🟡 Learning |
+| Next.js | 🟡 Learning |
 
 ### Cybersecurity
 
 | Skill | Status |
 |-------|--------|
-| Penetration Testing | ⚪ Planned |
-| Web Security | 🔴 Beginner |
-| Network Security | ⚪ Planned |
-| OWASP | ⚪ Planned |
+| Penetration Testing | 🔴 Beginner |
+| Web Security | ⚪ Planned |
+| Network Security | 🟢 Proficient |
+| OWASP | 🔴 Beginner |
 
 ### Ai Ml
 
 | Skill | Status |
 |-------|--------|
-| Machine Learning | 🟡 Learning |
+| Machine Learning | 🔴 Beginner |
 | Deep Learning | 🟢 Proficient |
 | NLP | 🔴 Beginner |
 | Computer Vision | 🔴 Beginner |
 | TensorFlow | 🟡 Learning |
-| PyTorch | 🟢 Proficient |
+| PyTorch | 🔴 Beginner |
 
 ### Devops
 
 | Skill | Status |
 |-------|--------|
 | Docker | ⚪ Planned |
-| Kubernetes | 🟡 Learning |
+| Kubernetes | 🔴 Beginner |
 | CI/CD | 🟡 Learning |
 | AWS | ⚪ Planned |
-| Azure | 🟡 Learning |
+| Azure | ⚪ Planned |
 
 ### Other
 
 | Skill | Status |
 |-------|--------|
 | Blockchain | 🔴 Beginner |
-| Web3 | 🔴 Beginner |
-| Cloud Computing | ⚪ Planned |
+| Web3 | 🟡 Learning |
+| Cloud Computing | 🟡 Learning |
 
 </details>
 
