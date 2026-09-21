@@ -46,34 +46,35 @@
 
 ### 📑 Hacker News
 
-- **[Why back propagation goes backward](https://gregorygundersen.com/blog/2018/04/15/backprop/)**
-  *<p>Article URL: <a href="https://gregorygundersen.com/blog/2018/04/15/backprop/">https://gregorygundersen.com/blog/2018/04/15/backprop/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/i...*
-  📅 Mon, 21 Sep 2026 00:42:14 +0000
+- **[ZuckOff Know when a camera is in the room](https://zuckoff.app/)**
+  *<p>Article URL: <a href="https://zuckoff.app/">https://zuckoff.app/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49785429">https://news.ycombinator.com/item?id=49785429</a></...*
+  📅 Mon, 21 Sep 2026 10:33:14 +0000
 
-- **[Amiga Unix, Again](https://amigaux.org/)**
-  *<p>Article URL: <a href="https://amigaux.org/">https://amigaux.org/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49781436">https://news.ycombinator.com/item?id=49781436</a></...*
-  📅 Sun, 20 Sep 2026 23:57:10 +0000
+- **[ZuckOff Is a Free App That Sees Meta Glasses Before They See You](https://www.wired.me/story/meta-smart-glasses-detector-app-zuckoff)**
+  *<p>Article URL: <a href="https://www.wired.me/story/meta-smart-glasses-detector-app-zuckoff">https://www.wired.me/story/meta-smart-glasses-detector-app-zuckoff</a></p>
+<p>Comments URL: <a href="https:...*
+  📅 Mon, 21 Sep 2026 10:27:50 +0000
 
-- **[DAPO: An Open-source RL System from ByteDance Seed and Tsinghua AIR](https://github.com/BytedTsinghua-SIA/DAPO)**
-  *<p>Article URL: <a href="https://github.com/BytedTsinghua-SIA/DAPO">https://github.com/BytedTsinghua-SIA/DAPO</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49781138">https://n...*
-  📅 Sun, 20 Sep 2026 23:19:04 +0000
+- **[Jev-Leftpad](https://github.com/f/jev-leftpad)**
+  *<p>Article URL: <a href="https://github.com/f/jev-leftpad">https://github.com/f/jev-leftpad</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49784706">https://news.ycombinator.co...*
+  📅 Mon, 21 Sep 2026 08:39:32 +0000
 
-- **[What happened to the Snowden archive](https://libroot.org/posts/what-happened-to-the-snowden-archive)**
-  *<p>Article URL: <a href="https://libroot.org/posts/what-happened-to-the-snowden-archive">https://libroot.org/posts/what-happened-to-the-snowden-archive</a></p>
-<p>Comments URL: <a href="https://news.y...*
-  📅 Sun, 20 Sep 2026 22:35:49 +0000
+- **[Disney+: New user agreement allows ads before movies in all subscriptions](https://consumerrights.wiki/w/Disney%2B_ad_policy_change)**
+  *<p>Article URL: <a href="https://consumerrights.wiki/w/Disney%2B_ad_policy_change">https://consumerrights.wiki/w/Disney%2B_ad_policy_change</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.c...*
+  📅 Mon, 21 Sep 2026 07:55:28 +0000
 
-- **[Google's Open Agentic Orchestrator](https://agentexecutor.io)**
-  *<p>Article URL: <a href="https://agentexecutor.io">https://agentexecutor.io</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49780797">https://news.ycombinator.com/item?id=497807...*
-  📅 Sun, 20 Sep 2026 22:32:43 +0000
+- **[Kev: Tiny Jev-like family of decision models built on top of Qwen3.5](https://github.com/jaredpalmer/kev/tree/main)**
+  *<p>Article URL: <a href="https://github.com/jaredpalmer/kev/tree/main">https://github.com/jaredpalmer/kev/tree/main</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49783999">htt...*
+  📅 Mon, 21 Sep 2026 07:11:55 +0000
 
-- **[Bill to Ban Private Equity from Owning Medical Practices](https://truthout.org/articles/warren-introduces-bill-to-ban-private-equity-from-owning-medical-practices/)**
-  *<p>Article URL: <a href="https://truthout.org/articles/warren-introduces-bill-to-ban-private-equity-from-owning-medical-practices/">https://truthout.org/articles/warren-introduces-bill-to-ban-private-...*
-  📅 Sun, 20 Sep 2026 22:13:46 +0000
+- **[Elektron Machinedrum in the Browser](https://machinedrum-study.pages.dev/)**
+  *<p>Article URL: <a href="https://machinedrum-study.pages.dev/">https://machinedrum-study.pages.dev/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49783568">https://news.ycombi...*
+  📅 Mon, 21 Sep 2026 06:07:52 +0000
 
 ### 📑 TechCrunch
 
@@ -103,21 +104,17 @@
 
 ### 📑 Dev.to
 
-- **[Our 3 a.m. batch job was running at Beijing's afternoon peak rate](https://dev.to/szp2005/our-3-am-batch-job-was-running-at-beijings-afternoon-peak-rate-4l57)**
-  *<p>DeepSeek's API charges two different prices for the same tokens. Which one you pay depends on what time it is in Beijing when the request lands.</p>
+- **[Building a Hard Gate for AI Agents: How kern Maps Code Repositories Without Network Latency or Cost](https://dev.to/jayveer_prajapati_514b38d/building-a-hard-gate-for-ai-agents-how-kern-maps-code-repositories-without-network-latency-or-cost-2fjh)**
+  *<p><em><strong>Subtitle</strong>:</em> How to give Claude, Cursor, and Ollama a crystal-clear map of your codebase using AST analysis, 100% locally and privately.</p>
 
-<p>That is the whole bug. It took me an embarra...*
-  📅 Mon, 21 Sep 2026 02:20:23 +0000
+<p><em><strong>Introduction</str...*
+  📅 Mon, 21 Sep 2026 11:20:34 +0000
 
-- **[Industrial Protocols on the Open Internet: A ZoomEye Measurement of Modbus and EtherNet/IP](https://dev.to/bianliang/industrial-protocols-on-the-open-internet-a-zoomeye-measurement-of-modbus-and-ethernetip-1ppk)**
-  *<h1>
-  
-  
-  Industrial Protocols on the Open Internet: A ZoomEye Measurement of Modbus and EtherNet/IP
-</h1>
+- **[How to Build an AI-Ready Web Data Pipeline Using Bright Data and Node.js](https://dev.to/codewithshahan/how-to-build-an-ai-ready-web-data-pipeline-using-bright-data-and-nodejs-gc3)**
+  *<p>A scraper can succeed and still give you bad data.</p>
 
-<p>Industrial control protocols were designed for isolated networks. ZoomEye measurements...*
-  📅 Mon, 21 Sep 2026 02:20:16 +0000
+<p>A website can change its HTML, a selector can stop matching, or a scraper can return a partial record without throwing an obvious error. Y...*
+  📅 Mon, 21 Sep 2026 11:19:22 +0000
 
 </details>
 
@@ -125,105 +122,105 @@
 
 ### 📈 Daily Trending
 
-- **[madkoding/HowToLiveBetter-CL](https://github.com/madkoding/HowToLiveBetter-CL)** ⭐ 4
+- **[sergeysantos-2002z8/WalletFinder](https://github.com/sergeysantos-2002z8/WalletFinder)** ⭐ 50
+  ![None](https://img.shields.io/badge/-None-lightgrey)
+  The program automatically searches for forgotten old crypto wallets that no one will ever gain access to again
+
+- **[j-ford8751/hell-let-loose-hack-2026-frontline-combat-toolkit](https://github.com/j-ford8751/hell-let-loose-hack-2026-frontline-combat-toolkit)** ⭐ 33
+  ![None](https://img.shields.io/badge/-None-lightgrey)
+  Hell Let Loose Hack 2026 themed PC companion for infantry roles, squad loadouts, vehicles, manual aim practice, map planning and battle analytics
+
+- **[tonychuhai/Cove](https://github.com/tonychuhai/Cove)** ⭐ 30
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
+  Mac 桌面上的活场景：一个能钓鱼的水族箱，一只追着鼠标扫帚咬的垂耳兔。开源，macOS，Three.js。
+
+- **[RenaGao/jev-dataops](https://github.com/RenaGao/jev-dataops)** ⭐ 29
   ![Python](https://img.shields.io/badge/-Python-blue)
-  Guía de la vida rentable · Chile — adaptación chilena de HowToLiveBetter: 568 recomendaciones con costo, beneficio, grado de evidencia y fuente oficial. Incluye la skill universal para adaptar guías de este tipo a otro país.
+  An open-source JEV-powered workbench for streaming data selection, quality evaluation, automatic LoRA training and held-out model evaluation.
 
-- **[james-olavai/olav-growth](https://github.com/james-olavai/olav-growth)** ⭐ 4
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  Agentic Marketing & Content Growth Engine with Single Source of Truth (SOT)
+- **[jruiz1931/world-of-tanks-hack-2026-tank-combat-toolkit](https://github.com/jruiz1931/world-of-tanks-hack-2026-tank-combat-toolkit)** ⭐ 29
+  ![None](https://img.shields.io/badge/-None-lightgrey)
+  World of Tanks Hack 2026 themed PC companion for tank profiles, crew setups, equipment builds, manual aim practice, maps and battle analytics
 
-- **[66hhh/lenghaizhuxin-game](https://github.com/66hhh/lenghaizhuxin-game)** ⭐ 3
-  ![HTML](https://img.shields.io/badge/-HTML-lightgrey)
-  冷海筑新：北境转型｜3–4人合作式气候治理网页游戏，基于哥本哈根与奥斯陆城市实践。A cooperative climate-governance browser game.
+- **[jmurphy6525/warframe-hack-2026-tenno-build-toolkit](https://github.com/jmurphy6525/warframe-hack-2026-tenno-build-toolkit)** ⭐ 24
+  ![None](https://img.shields.io/badge/-None-lightgrey)
+  Warframe Hack 2026 themed PC companion for Warframe builds, weapons, mods, mission planning, manual aim practice and progression analytics
 
-- **[Larryzpl123/smart-schedule](https://github.com/Larryzpl123/smart-schedule)** ⭐ 3
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  Weekly timetable for a school on an 8-day rotation. Runs either with an account or entirely in the browser, sending nothing to the server.
+- **[jeremyw9622/marauders-hack-2026-raider-extraction-toolkit](https://github.com/jeremyw9622/marauders-hack-2026-raider-extraction-toolkit)** ⭐ 22
+  ![None](https://img.shields.io/badge/-None-lightgrey)
+  Marauders Hack 2026 themed PC companion for raider loadouts, weapons, ships, manual aim practice, raid planning and extraction analytics
 
-- **[kyegomez/open-jev](https://github.com/kyegomez/open-jev)** ⭐ 2
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  an open-source, from-first-principles reconstruction of the ideas behind TypeSafe AI's Jev, written in pytorch
-
-- **[victormeloasm/bend-math](https://github.com/victormeloasm/bend-math)** ⭐ 2
-  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
-  Adds a comprehensive F32 math library to Bend, modeled after the C math.h API and adapted to Bend's current numeric type system.
-
-- **[ProtoNKing/project-rayfield](https://github.com/ProtoNKing/project-rayfield)** ⭐ 2
-  ![Java](https://img.shields.io/badge/-Java-orange)
-  A Mindustry mod that adds a new planet Diemos.  An underwater cavern type planet swarming with plant life. 
-
-- **[1415699306/AI-](https://github.com/1415699306/AI-)** ⭐ 2
-  ![HTML](https://img.shields.io/badge/-HTML-lightgrey)
-  # Agent架构师试炼——通关AI Agent  ## 关于本资料  这是一份系统化的 **Agent 架构师实战训练材料**。覆盖从基础概念到生产部署的全链路知识体系。  ## 特点  - **48 章核心内容**，覆盖 Agent 架构师必备知识 - **去除了 AI 叙述性内容**，保留技术干货与架构设计 - **章节独立为 HTML 文件**，方便离线/在线阅读与分享 - **难度渐进**：基础篇 → 核心篇 → 进阶篇 → 综合篇
+- **[i-clark4507/beyond-the-wire-hack-2026-frontline-combat-toolkit](https://github.com/i-clark4507/beyond-the-wire-hack-2026-frontline-combat-toolkit)** ⭐ 22
+  ![None](https://img.shields.io/badge/-None-lightgrey)
+  Beyond The Wire Hack 2026 themed PC companion for WWI squad roles, weapon loadouts, manual aim practice, map planning and frontline battle analytics.
 
 ### 📈 Weekly Trending
 
-- **[browser-use/jev-ultrafast](https://github.com/browser-use/jev-ultrafast)** ⭐ 12,215
+- **[browser-use/jev-ultrafast](https://github.com/browser-use/jev-ultrafast)** ⭐ 14,049
   ![Python](https://img.shields.io/badge/-Python-blue)
   i. am. speed.
 
-- **[tamaratran/fast-jev-compaction](https://github.com/tamaratran/fast-jev-compaction)** ⭐ 5,275
-  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
-  Claude Code plugin that replaces the compaction summary with Jev decisions: every tool call and result is scored in one fast request, stale ones are dropped or truncated, everything kept stays verbatim.
-
-- **[NandhaKishorM/laya](https://github.com/NandhaKishorM/laya)** ⭐ 4,551
+- **[NandhaKishorM/laya](https://github.com/NandhaKishorM/laya)** ⭐ 7,121
   ![Python](https://img.shields.io/badge/-Python-blue)
   None
 
-- **[robbietilton/Compositor](https://github.com/robbietilton/Compositor)** ⭐ 3,733
-  ![Swift](https://img.shields.io/badge/-Swift-lightgrey)
-  The Photoshop alternative for Mac
+- **[tamaratran/fast-jev-compaction](https://github.com/tamaratran/fast-jev-compaction)** ⭐ 5,767
+  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
+  Claude Code plugin that replaces the compaction summary with Jev decisions: every tool call and result is scored in one fast request, stale ones are dropped or truncated, everything kept stays verbatim.
 
-- **[TheoLeeCJ/SemIf](https://github.com/TheoLeeCJ/SemIf)** ⭐ 2,482
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  Semantic ifs from open models, on a 3090 at home. Independent; not affiliated with Jev or TypeSafe.
-
-- **[mcncarl/jianying-headless](https://github.com/mcncarl/jianying-headless)** ⭐ 2,042
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  Private source preview: native Jianying drafts, isolated editing/export, and standalone Agent Skill.
-
-- **[mizorewww/laya-mlx](https://github.com/mizorewww/laya-mlx)** ⭐ 1,808
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  Native MLX runtime for Laya typed decision models — 7–14 ms short decisions on M3 Max. No text generation, PyTorch, or cloud API.
-
-- **[zai-org/ZCode](https://github.com/zai-org/ZCode)** ⭐ 1,782
+- **[zai-org/ZCode](https://github.com/zai-org/ZCode)** ⭐ 4,877
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   Z.ai's coding agent harness. Powerful, intelligent, extensible.
 
+- **[robbietilton/Compositor](https://github.com/robbietilton/Compositor)** ⭐ 4,060
+  ![Swift](https://img.shields.io/badge/-Swift-lightgrey)
+  The Photoshop alternative for Mac
+
+- **[TheoLeeCJ/SemIf](https://github.com/TheoLeeCJ/SemIf)** ⭐ 2,804
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  Semantic ifs from open models, on a 3090 at home. Independent; not affiliated with Jev or TypeSafe.
+
+- **[mizorewww/laya-mlx](https://github.com/mizorewww/laya-mlx)** ⭐ 2,491
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  Native MLX runtime for Laya typed decision models — 7–14 ms short decisions on M3 Max. No text generation, PyTorch, or cloud API.
+
+- **[mcncarl/jianying-headless](https://github.com/mcncarl/jianying-headless)** ⭐ 2,247
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  Private source preview: native Jianying drafts, isolated editing/export, and standalone Agent Skill.
+
 ### 📈 Monthly Trending
 
-- **[browser-use/jev-ultrafast](https://github.com/browser-use/jev-ultrafast)** ⭐ 12,215
+- **[browser-use/jev-ultrafast](https://github.com/browser-use/jev-ultrafast)** ⭐ 14,049
   ![Python](https://img.shields.io/badge/-Python-blue)
   i. am. speed.
 
-- **[eternity4719/HowToLiveBetter](https://github.com/eternity4719/HowToLiveBetter)** ⭐ 8,946
+- **[eternity4719/HowToLiveBetter](https://github.com/eternity4719/HowToLiveBetter)** ⭐ 10,204
   ![HTML](https://img.shields.io/badge/-HTML-lightgrey)
   按性价比排序的循证生活指南：长寿防病、急救、省钱理财、法律红线、失业与工伤、医保社保、恋爱婚育、怀孕育儿、创业与做平台合规、出国与技能。每条写明成本、收益、证据等级和原始出处，只引期刊论文与官方文件。
 
-- **[lnkiai/m3e-canvas](https://github.com/lnkiai/m3e-canvas)** ⭐ 7,799
+- **[lnkiai/m3e-canvas](https://github.com/lnkiai/m3e-canvas)** ⭐ 7,884
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   Sketch Material 3 Expressive screens in the browser and turn them into vibe-coding prompts.
 
-- **[sapientinc/PRAXIST](https://github.com/sapientinc/PRAXIST)** ⭐ 6,392
+- **[NandhaKishorM/laya](https://github.com/NandhaKishorM/laya)** ⭐ 7,121
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  None
+
+- **[sapientinc/PRAXIST](https://github.com/sapientinc/PRAXIST)** ⭐ 6,494
   ![Python](https://img.shields.io/badge/-Python-blue)
   Autonomous research system for measurable, computer-executable research.
 
-- **[rakanki911/DLSS5-Swapper](https://github.com/rakanki911/DLSS5-Swapper)** ⭐ 6,079
+- **[rakanki911/DLSS5-Swapper](https://github.com/rakanki911/DLSS5-Swapper)** ⭐ 6,140
   ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
   Install, tune and restore DLSS 5 in your games with one click. Native RenoDX, DLSS5-Feeder for games without DLSS, OptiScaler and multipass routes; DirectX 8/9/11/12, Vulkan, OpenGL, DirectDraw and emulators. In-game F8 overlay, automatic backups, and a community page showing what works on your games and your graphics card.
 
-- **[XiaoDuoYa/codex-with-chatgpt](https://github.com/XiaoDuoYa/codex-with-chatgpt)** ⭐ 5,707
+- **[XiaoDuoYa/codex-with-chatgpt](https://github.com/XiaoDuoYa/codex-with-chatgpt)** ⭐ 5,768
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   ChatGPT thinks. Codex works. Use ChatGPT as the planning brain while keeping the Codex harness.
 
-- **[tamaratran/fast-jev-compaction](https://github.com/tamaratran/fast-jev-compaction)** ⭐ 5,275
+- **[tamaratran/fast-jev-compaction](https://github.com/tamaratran/fast-jev-compaction)** ⭐ 5,767
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   Claude Code plugin that replaces the compaction summary with Jev decisions: every tool call and result is scored in one fast request, stale ones are dropped or truncated, everything kept stays verbatim.
-
-- **[NandhaKishorM/laya](https://github.com/NandhaKishorM/laya)** ⭐ 4,551
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  None
 
 ## 🚀 Latest Releases
 
@@ -493,9 +490,9 @@ See [kubernetes-announce@](https://groups.google.com/forum/#!forum/kubernetes-an
 
 | Skill | Status |
 |-------|--------|
-| Java | 🟢 Proficient |
-| Python | 🟢 Proficient |
-| JavaScript | ⚪ Planned |
+| Java | 🟡 Learning |
+| Python | ⚪ Planned |
+| JavaScript | 🔴 Beginner |
 | TypeScript | ⚪ Planned |
 | Go | 🟡 Learning |
 
@@ -503,19 +500,19 @@ See [kubernetes-announce@](https://groups.google.com/forum/#!forum/kubernetes-an
 
 | Skill | Status |
 |-------|--------|
-| React | 🔴 Beginner |
-| Spring Boot | 🔴 Beginner |
-| Django | ⚪ Planned |
+| React | 🟡 Learning |
+| Spring Boot | 🟢 Proficient |
+| Django | 🟡 Learning |
 | Node.js | 🟢 Proficient |
-| Next.js | 🟢 Proficient |
+| Next.js | ⚪ Planned |
 
 ### Cybersecurity
 
 | Skill | Status |
 |-------|--------|
 | Penetration Testing | 🔴 Beginner |
-| Web Security | ⚪ Planned |
-| Network Security | 🟡 Learning |
+| Web Security | 🟡 Learning |
+| Network Security | 🟢 Proficient |
 | OWASP | 🔴 Beginner |
 
 ### Ai Ml
@@ -523,29 +520,29 @@ See [kubernetes-announce@](https://groups.google.com/forum/#!forum/kubernetes-an
 | Skill | Status |
 |-------|--------|
 | Machine Learning | ⚪ Planned |
-| Deep Learning | 🟢 Proficient |
-| NLP | 🔴 Beginner |
-| Computer Vision | ⚪ Planned |
-| TensorFlow | ⚪ Planned |
-| PyTorch | 🔴 Beginner |
+| Deep Learning | ⚪ Planned |
+| NLP | ⚪ Planned |
+| Computer Vision | 🔴 Beginner |
+| TensorFlow | 🔴 Beginner |
+| PyTorch | 🟡 Learning |
 
 ### Devops
 
 | Skill | Status |
 |-------|--------|
-| Docker | ⚪ Planned |
-| Kubernetes | 🟢 Proficient |
+| Docker | 🟡 Learning |
+| Kubernetes | 🟡 Learning |
 | CI/CD | 🟢 Proficient |
 | AWS | ⚪ Planned |
-| Azure | 🔴 Beginner |
+| Azure | 🟢 Proficient |
 
 ### Other
 
 | Skill | Status |
 |-------|--------|
-| Blockchain | 🟢 Proficient |
-| Web3 | 🟡 Learning |
-| Cloud Computing | 🟢 Proficient |
+| Blockchain | ⚪ Planned |
+| Web3 | 🔴 Beginner |
+| Cloud Computing | 🔴 Beginner |
 
 </details>
 
