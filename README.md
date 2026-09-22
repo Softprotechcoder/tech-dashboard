@@ -7,7 +7,7 @@
 ![AI & ML](https://img.shields.io/badge/-AI%20&%20ML-blue) ![CyberSecurity](https://img.shields.io/badge/-CyberSecurity-red) ![Full Stack Development](https://img.shields.io/badge/-Full%20Stack%20Development-green)
 
 [![Auto Update](https://img.shields.io/badge/Auto%20Update-Enabled-success)](https://github.com/yourusername/tech-dashboard/actions)
-[![Last Updated](https://img.shields.io/badge/Last%20Updated-September 21, 2026-blue)](https://github.com/yourusername/tech-dashboard)
+[![Last Updated](https://img.shields.io/badge/Last%20Updated-September 22, 2026-blue)](https://github.com/yourusername/tech-dashboard)
 
 *Automatically updated every 6 hours with the latest tech news, trending repositories, and learning resources.*
 
@@ -46,35 +46,41 @@
 
 ### 📑 Hacker News
 
-- **[Xiaomi MiMo v2.6](https://mimo.xiaomi.com/mimo-v2-6)**
-  *<p>Article URL: <a href="https://mimo.xiaomi.com/mimo-v2-6">https://mimo.xiaomi.com/mimo-v2-6</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49792730">https://news.ycombinator....*
-  📅 Mon, 21 Sep 2026 20:12:12 +0000
+- **[Robin Williams' Daughter to Fans Creating AI Videos: 'Have Some Shame'](https://variety.com/2026/film/news/robin-williams-daughter-ai-videos-1236871568/)**
+  *<p>Article URL: <a href="https://variety.com/2026/film/news/robin-williams-daughter-ai-videos-1236871568/">https://variety.com/2026/film/news/robin-williams-daughter-ai-videos-1236871568/</a></p>
+<p>C...*
+  📅 Tue, 22 Sep 2026 01:24:49 +0000
 
-- **[Transformers Explained Visually](https://poloclub.github.io/transformer-explainer/)**
-  *<p>Article URL: <a href="https://poloclub.github.io/transformer-explainer/">https://poloclub.github.io/transformer-explainer/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=497...*
-  📅 Mon, 21 Sep 2026 19:43:49 +0000
+- **[Claude Status – Elevated errors for multiple models](https://status.claude.com/incidents/7g1qpkyz5gxh)**
+  *<p>Article URL: <a href="https://status.claude.com/incidents/7g1qpkyz5gxh">https://status.claude.com/incidents/7g1qpkyz5gxh</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49795...*
+  📅 Tue, 22 Sep 2026 01:05:19 +0000
 
-- **[Show HN: A website that tracks US food prices every day](https://www.kadoa.com/food-prices)**
-  *<p>The US Department of Agriculture (USDA) publishes daily food price data for about 290 commodities on:<p>- what growers were paid at shipping point<p>- what buyers paid at the big city wholesale mar...*
-  📅 Mon, 21 Sep 2026 19:24:10 +0000
+- **[Socrates vs. the Written Word (2011)](https://wondermark.com/socrates-vs-writing/)**
+  *<p>Article URL: <a href="https://wondermark.com/socrates-vs-writing/">https://wondermark.com/socrates-vs-writing/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49795122">https...*
+  📅 Tue, 22 Sep 2026 00:06:55 +0000
 
-- **[AI coding has made CI a bottleneck, so we reworked ours to keep up](https://linear.app/now/ci-bottleneck-reworked)**
-  *<p>Article URL: <a href="https://linear.app/now/ci-bottleneck-reworked">https://linear.app/now/ci-bottleneck-reworked</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49792067">h...*
-  📅 Mon, 21 Sep 2026 19:23:33 +0000
+- **[Looking forward to Git 2.56 – and 3.0](https://lwn.net/SubscriberLink/1094575/2385e98583715c2b/)**
+  *<p>Article URL: <a href="https://lwn.net/SubscriberLink/1094575/2385e98583715c2b/">https://lwn.net/SubscriberLink/1094575/2385e98583715c2b/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.c...*
+  📅 Mon, 21 Sep 2026 23:16:51 +0000
 
-- **[The Advisory Group on Mathematics and Artificial Intelligence](https://terrytao.wordpress.com/2026/09/21/advisory-group-on-mathematics-and-artificial-intelligence/)**
-  *<p>Article URL: <a href="https://terrytao.wordpress.com/2026/09/21/advisory-group-on-mathematics-and-artificial-intelligence/">https://terrytao.wordpress.com/2026/09/21/advisory-group-on-mathematics-a...*
-  📅 Mon, 21 Sep 2026 19:17:42 +0000
+- **[Spymarks, Not Watermarks](https://brand.io/article/spymarks/)**
+  *<p>Article URL: <a href="https://brand.io/article/spymarks/">https://brand.io/article/spymarks/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49794615">https://news.ycombinato...*
+  📅 Mon, 21 Sep 2026 23:03:49 +0000
 
-- **[The NASA/ESA Mars Sample Return mission has been canceled](https://www.science.org/content/article/nasa-s-mars-sample-return-mission-dead)**
-  *<p>Article URL: <a href="https://www.science.org/content/article/nasa-s-mars-sample-return-mission-dead">https://www.science.org/content/article/nasa-s-mars-sample-return-mission-dead</a></p>
-<p>Comme...*
-  📅 Mon, 21 Sep 2026 19:14:12 +0000
+- **[I don't want to read what you didn't write](https://blog.colinbreck.com/i-dont-want-to-read-what-you-didnt-write/)**
+  *<p>Article URL: <a href="https://blog.colinbreck.com/i-dont-want-to-read-what-you-didnt-write/">https://blog.colinbreck.com/i-dont-want-to-read-what-you-didnt-write/</a></p>
+<p>Comments URL: <a href="...*
+  📅 Mon, 21 Sep 2026 22:30:41 +0000
 
 ### 📑 TechCrunch
+
+- **[The man who built Apple’s stores doesn’t buy Silicon Valley’s bet on AI shopping](https://techcrunch.com/2026/09/21/the-man-who-built-apples-stores-doesnt-buy-silicon-valleys-bet-on-ai-shopping/)**
+  *Apple Store architect Ron Johnson says Apple's secret sauce has always been its people....*
+  📅 Mon, 21 Sep 2026 23:44:28 +0000
 
 - **[OpenAI forms math advisory group as its AI resolves more than 100 open problems](https://techcrunch.com/2026/09/21/openai-forms-math-advisory-group-as-its-ai-resolves-more-than-100-open-problems/)**
   *The group won't be given leeway to slow down or redirect OpenAI's ongoing mathematical research....*
@@ -96,25 +102,15 @@
   *Amazon has its own cohort of foundation models, along with one of the most popular inference platforms on the internet. As long as they're under no legal obligation to open the doors to Muse, why woul...*
   📅 Mon, 21 Sep 2026 17:55:18 +0000
 
-- **[X will now tell users when governments have forced it to limit their posts](https://techcrunch.com/2026/09/21/x-will-now-tell-users-when-governments-have-forced-it-to-limit-their-posts/)**
-  *X is expanding its “Under the Hood” transparency tool to show when posts have been downranked or withheld in response to local laws and government demands, including which country made the request....*
-  📅 Mon, 21 Sep 2026 17:45:35 +0000
-
 ### 📑 Dev.to
 
-- **[AssemblyScript WebAssembly Meets WebForms Core 2.1](https://dev.to/elanatframework/assemblyscript-webassembly-meets-webforms-core-21-31o4)**
-  *<h2>
-  
-  
-  What is WebForms Core?
-</h2>
+- **[Why GA4 Undercounts AEO: A Three-Layer Framework for Measuring AI Search Impact](https://dev.to/alifar/why-ga4-undercounts-aeo-a-three-layer-framework-for-measuring-ai-search-impact-38i7)**
+  *<p>Google Analytics 4 can show some traffic from AI assistants, but it is not a complete measure of <a href="https://scalevise.com/resources/geo/" rel="noopener noreferrer">Answer Engine Optimization ...*
+  📅 Tue, 22 Sep 2026 02:15:30 +0000
 
-<p>WebForms Core is a server-orchestrated UI technology that allows the server to generate commands for manipulating the browser DOM and controlling UI behav...*
-  📅 Mon, 21 Sep 2026 21:17:18 +0000
-
-- **[Google Gemini Notebook Brings Interactive Learning Overviews to All Users](https://dev.to/alifar/google-gemini-notebook-brings-interactive-learning-overviews-to-all-users-1j7)**
-  *<p>Google has expanded <a href="https://scalevise.com/resources/gemini/" rel="noopener noreferrer">Gemini Notebook</a> with <strong>Interactive Learning Overviews</strong>, a Reports feature that brin...*
-  📅 Mon, 21 Sep 2026 21:15:30 +0000
+- **[Giving AI Agents Real-World Vision: Bridging LLMs with Bright Data via MCP](https://dev.to/renato_marinho/giving-ai-agents-real-world-vision-bridging-llms-with-bright-data-via-mcp-5d86)**
+  *<p>Most AI agent implementations suffer from a fundamental sensory deficit. You provide them with reasoning capabilities and memory, but their window into the real world—the living, breathing, highly ...*
+  📅 Tue, 22 Sep 2026 02:13:47 +0000
 
 </details>
 
@@ -122,103 +118,103 @@
 
 ### 📈 Daily Trending
 
-- **[Finderchangchang/jev-chat-JARVIS](https://github.com/Finderchangchang/jev-chat-JARVIS)** ⭐ 817
-  ![Kotlin](https://img.shields.io/badge/-Kotlin-lightgrey)
+- **[jiangxiluning/Visual-Jev](https://github.com/jiangxiluning/Visual-Jev)** ⭐ 5
+  ![Python](https://img.shields.io/badge/-Python-blue)
   None
 
-- **[Rizzo-AI-Academy/rizzo-flow](https://github.com/Rizzo-AI-Academy/rizzo-flow)** ⭐ 217
+- **[StellarFoundry/stellar-devkit](https://github.com/StellarFoundry/stellar-devkit)** ⭐ 4
   ![Python](https://img.shields.io/badge/-Python-blue)
-  The open, local take on Jev: typed decisions from an LLM, without generating a single token
+  StellarFoundry DevKit: developer infrastructure toolkit for Stellar and Soroban (RPC, XDR/SCVal inspection, fixtures, analysis, CLI).
 
-- **[Futureppo/typesafe_register](https://github.com/Futureppo/typesafe_register)** ⭐ 82
+- **[Snow7-G/SkillSeam](https://github.com/Snow7-G/SkillSeam)** ⭐ 2
   ![Python](https://img.shields.io/badge/-Python-blue)
-  typesafe.ai注册机，极致优化，无限jev
+  Simulate how your agent picks skills and see which skill steals whose tasks, before your users do. Works with Claude Code, Codex and any SKILL.md-based runtime.
 
-- **[TianyuCodings/JevHarness](https://github.com/TianyuCodings/JevHarness)** ⭐ 75
+- **[AgriciDaniel/jev-seo](https://github.com/AgriciDaniel/jev-seo)** ⭐ 2
   ![Python](https://img.shields.io/badge/-Python-blue)
-  LLM-authored task-specific Jev harnesses with optional full-trajectory reward reflection and GEPA evolution.
+  Live SEO audit for any website from one homepage URL, judged by Jev. PDF, XLSX and Markdown reports.
 
-- **[f/jev-leftpad](https://github.com/f/jev-leftpad)** ⭐ 70
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
-  Left-pad strings with TypeSafe AI's Jev. For reasons.
-
-- **[fstandhartinger/chat-seek-vscode](https://github.com/fstandhartinger/chat-seek-vscode)** ⭐ 52
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
-  Local VS Code search across Claude Code, Codex, and OpenCode chats with Laya reranking
-
-- **[AMLChecker/monero-web-wallet](https://github.com/AMLChecker/monero-web-wallet)** ⭐ 51
+- **[Paystack-AI/DisputePilot](https://github.com/Paystack-AI/DisputePilot)** ⭐ 2
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
-  Self-hosted, non-custodial Monero (XMR) web wallet: dark responsive UI on top of the official monero-wallet-rpc. Keys stay on your machine, two-phase sending with explicit fee review, Windows quick start.
+  None
 
-- **[tonychuhai/Cove](https://github.com/tonychuhai/Cove)** ⭐ 45
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
-  Mac 桌面上的活场景：一个能钓鱼的水族箱，一只追着鼠标扫帚咬的垂耳兔。开源，macOS，Three.js。
+- **[wavtechyukky/PrettyPitch](https://github.com/wavtechyukky/PrettyPitch)** ⭐ 2
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  A singing F0 model trained without scores — no note onsets, no note pitches, no reference score
+
+- **[1weell/DKC2Recomp-Switch](https://github.com/1weell/DKC2Recomp-Switch)** ⭐ 2
+  ![C](https://img.shields.io/badge/-C-lightgrey)
+  Nintendo Switch port of DKC2Recomp with 16:9 presentation and SDL/libnx host support.
+
+- **[Outcasts-Robotics/DevNull2026](https://github.com/Outcasts-Robotics/DevNull2026)** ⭐ 2
+  ![Java](https://img.shields.io/badge/-Java-orange)
+  Codebase for BioBuzz season
 
 ### 📈 Weekly Trending
 
-- **[browser-use/jev-ultrafast](https://github.com/browser-use/jev-ultrafast)** ⭐ 15,466
+- **[browser-use/jev-ultrafast](https://github.com/browser-use/jev-ultrafast)** ⭐ 16,018
   ![Python](https://img.shields.io/badge/-Python-blue)
   Fastest and cheapest web agent
 
-- **[NandhaKishorM/laya](https://github.com/NandhaKishorM/laya)** ⭐ 9,672
+- **[NandhaKishorM/laya](https://github.com/NandhaKishorM/laya)** ⭐ 10,898
   ![Python](https://img.shields.io/badge/-Python-blue)
   None
 
-- **[tamaratran/fast-jev-compaction](https://github.com/tamaratran/fast-jev-compaction)** ⭐ 5,920
+- **[tamaratran/fast-jev-compaction](https://github.com/tamaratran/fast-jev-compaction)** ⭐ 6,006
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   Claude Code plugin that replaces the compaction summary with Jev decisions: every tool call and result is scored in one fast request, stale ones are dropped or truncated, everything kept stays verbatim.
 
-- **[zai-org/ZCode](https://github.com/zai-org/ZCode)** ⭐ 5,514
+- **[zai-org/ZCode](https://github.com/zai-org/ZCode)** ⭐ 5,756
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   Z.ai's coding agent harness. Powerful, intelligent, extensible.
 
-- **[robbietilton/Compositor](https://github.com/robbietilton/Compositor)** ⭐ 4,333
+- **[robbietilton/Compositor](https://github.com/robbietilton/Compositor)** ⭐ 4,434
   ![Swift](https://img.shields.io/badge/-Swift-lightgrey)
   The Photoshop alternative for Mac
 
-- **[mizorewww/laya-mlx](https://github.com/mizorewww/laya-mlx)** ⭐ 3,609
+- **[mizorewww/laya-mlx](https://github.com/mizorewww/laya-mlx)** ⭐ 4,009
   ![Python](https://img.shields.io/badge/-Python-blue)
   Native MLX runtime for Laya typed decision models — 7–14 ms short decisions on M3 Max. No text generation, PyTorch, or cloud API.
 
-- **[TheoLeeCJ/SemIf](https://github.com/TheoLeeCJ/SemIf)** ⭐ 3,137
+- **[TheoLeeCJ/SemIf](https://github.com/TheoLeeCJ/SemIf)** ⭐ 3,304
   ![Python](https://img.shields.io/badge/-Python-blue)
   Semantic ifs from open models, on a 3090 at home. Independent; not affiliated with Jev or TypeSafe.
 
-- **[mcncarl/jianying-headless](https://github.com/mcncarl/jianying-headless)** ⭐ 2,354
+- **[jaredpalmer/kev](https://github.com/jaredpalmer/kev)** ⭐ 2,543
   ![Python](https://img.shields.io/badge/-Python-blue)
-  Private source preview: native Jianying drafts, isolated editing/export, and standalone Agent Skill.
+  tiny Jev-like family of decision models built on top of Qwen3.5 you can train and run on your own
 
 ### 📈 Monthly Trending
 
-- **[browser-use/jev-ultrafast](https://github.com/browser-use/jev-ultrafast)** ⭐ 15,466
+- **[browser-use/jev-ultrafast](https://github.com/browser-use/jev-ultrafast)** ⭐ 16,018
   ![Python](https://img.shields.io/badge/-Python-blue)
   Fastest and cheapest web agent
 
-- **[eternity4719/HowToLiveBetter](https://github.com/eternity4719/HowToLiveBetter)** ⭐ 11,067
+- **[eternity4719/HowToLiveBetter](https://github.com/eternity4719/HowToLiveBetter)** ⭐ 11,335
   ![HTML](https://img.shields.io/badge/-HTML-lightgrey)
   按性价比排序的循证生活指南：长寿防病、急救、省钱理财、法律红线、失业与工伤、医保社保、恋爱婚育、怀孕育儿、创业与做平台合规、出国与技能。每条写明成本、收益、证据等级和原始出处，只引期刊论文与官方文件。
 
-- **[NandhaKishorM/laya](https://github.com/NandhaKishorM/laya)** ⭐ 9,672
+- **[NandhaKishorM/laya](https://github.com/NandhaKishorM/laya)** ⭐ 10,898
   ![Python](https://img.shields.io/badge/-Python-blue)
   None
 
-- **[lnkiai/m3e-canvas](https://github.com/lnkiai/m3e-canvas)** ⭐ 7,923
+- **[lnkiai/m3e-canvas](https://github.com/lnkiai/m3e-canvas)** ⭐ 7,938
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   Sketch Material 3 Expressive screens in the browser and turn them into vibe-coding prompts.
 
-- **[sapientinc/PRAXIST](https://github.com/sapientinc/PRAXIST)** ⭐ 6,496
+- **[sapientinc/PRAXIST](https://github.com/sapientinc/PRAXIST)** ⭐ 6,643
   ![Python](https://img.shields.io/badge/-Python-blue)
   Autonomous research system for measurable, computer-executable research.
 
-- **[rakanki911/DLSS5-Swapper](https://github.com/rakanki911/DLSS5-Swapper)** ⭐ 6,201
+- **[rakanki911/DLSS5-Swapper](https://github.com/rakanki911/DLSS5-Swapper)** ⭐ 6,222
   ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
   Install, tune and restore DLSS 5 in your games with one click. Native RenoDX, DLSS5-Feeder for games without DLSS, OptiScaler and multipass routes; DirectX 8/9/11/12, Vulkan, OpenGL, DirectDraw and emulators. In-game F8 overlay, automatic backups, and a community page showing what works on your games and your graphics card.
 
-- **[tamaratran/fast-jev-compaction](https://github.com/tamaratran/fast-jev-compaction)** ⭐ 5,920
+- **[tamaratran/fast-jev-compaction](https://github.com/tamaratran/fast-jev-compaction)** ⭐ 6,006
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   Claude Code plugin that replaces the compaction summary with Jev decisions: every tool call and result is scored in one fast request, stale ones are dropped or truncated, everything kept stays verbatim.
 
-- **[XiaoDuoYa/codex-with-chatgpt](https://github.com/XiaoDuoYa/codex-with-chatgpt)** ⭐ 5,795
+- **[XiaoDuoYa/codex-with-chatgpt](https://github.com/XiaoDuoYa/codex-with-chatgpt)** ⭐ 5,810
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   ChatGPT thinks. Codex works. Use ChatGPT as the planning brain while keeping the Codex harness.
 
@@ -490,21 +486,21 @@ See [kubernetes-announce@](https://groups.google.com/forum/#!forum/kubernetes-an
 
 | Skill | Status |
 |-------|--------|
-| Java | 🔴 Beginner |
-| Python | 🔴 Beginner |
-| JavaScript | 🟡 Learning |
-| TypeScript | ⚪ Planned |
-| Go | 🟡 Learning |
+| Java | 🟡 Learning |
+| Python | ⚪ Planned |
+| JavaScript | 🟢 Proficient |
+| TypeScript | 🔴 Beginner |
+| Go | 🔴 Beginner |
 
 ### Frameworks
 
 | Skill | Status |
 |-------|--------|
-| React | ⚪ Planned |
-| Spring Boot | ⚪ Planned |
-| Django | 🔴 Beginner |
-| Node.js | ⚪ Planned |
-| Next.js | 🟡 Learning |
+| React | 🟢 Proficient |
+| Spring Boot | 🟡 Learning |
+| Django | ⚪ Planned |
+| Node.js | 🔴 Beginner |
+| Next.js | 🟢 Proficient |
 
 ### Cybersecurity
 
@@ -512,8 +508,8 @@ See [kubernetes-announce@](https://groups.google.com/forum/#!forum/kubernetes-an
 |-------|--------|
 | Penetration Testing | ⚪ Planned |
 | Web Security | 🔴 Beginner |
-| Network Security | ⚪ Planned |
-| OWASP | ⚪ Planned |
+| Network Security | 🔴 Beginner |
+| OWASP | 🟢 Proficient |
 
 ### Ai Ml
 
@@ -521,9 +517,9 @@ See [kubernetes-announce@](https://groups.google.com/forum/#!forum/kubernetes-an
 |-------|--------|
 | Machine Learning | 🔴 Beginner |
 | Deep Learning | 🟡 Learning |
-| NLP | 🔴 Beginner |
-| Computer Vision | 🟢 Proficient |
-| TensorFlow | ⚪ Planned |
+| NLP | ⚪ Planned |
+| Computer Vision | 🔴 Beginner |
+| TensorFlow | 🟢 Proficient |
 | PyTorch | 🔴 Beginner |
 
 ### Devops
@@ -531,18 +527,18 @@ See [kubernetes-announce@](https://groups.google.com/forum/#!forum/kubernetes-an
 | Skill | Status |
 |-------|--------|
 | Docker | 🔴 Beginner |
-| Kubernetes | ⚪ Planned |
+| Kubernetes | 🟡 Learning |
 | CI/CD | 🟡 Learning |
-| AWS | 🟡 Learning |
-| Azure | ⚪ Planned |
+| AWS | 🔴 Beginner |
+| Azure | 🔴 Beginner |
 
 ### Other
 
 | Skill | Status |
 |-------|--------|
-| Blockchain | 🟢 Proficient |
+| Blockchain | ⚪ Planned |
 | Web3 | 🟡 Learning |
-| Cloud Computing | ⚪ Planned |
+| Cloud Computing | 🔴 Beginner |
 
 </details>
 
@@ -560,7 +556,7 @@ This dashboard is automatically updated every 6 hours using GitHub Actions. The 
 
 <div align="center">
 
-**Last Updated:** September 21, 2026
+**Last Updated:** September 22, 2026
 
 Made with ❤️ and automated with GitHub Actions
 
