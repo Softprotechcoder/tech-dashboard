@@ -46,34 +46,33 @@
 
 ### 📑 Hacker News
 
-- **[Australia says OpenAI agent hacked into government website](https://www.channelnewsasia.com/world/australia-openai-agent-breach-government-portal-6406411)**
-  *<p>Article URL: <a href="https://www.channelnewsasia.com/world/australia-openai-agent-breach-government-portal-6406411">https://www.channelnewsasia.com/world/australia-openai-agent-breach-government-p...*
-  📅 Thu, 24 Sep 2026 01:24:00 +0000
+- **[Starlink ground station in Poland hit by fire in suspected arson attack](https://notesfrompoland.com/2026/09/24/starlink-ground-station-in-poland-hit-by-fire-in-suspected-arson-attack/)**
+  *<p>Article URL: <a href="https://notesfrompoland.com/2026/09/24/starlink-ground-station-in-poland-hit-by-fire-in-suspected-arson-attack/">https://notesfrompoland.com/2026/09/24/starlink-ground-station...*
+  📅 Thu, 24 Sep 2026 09:52:29 +0000
 
-- **[FLAWED's Flaws and What This Means for Industry Research](https://suhacker.ai/p/flaweds-flaws-and-what-this-means-for-industry-research/)**
-  *<p>Article URL: <a href="https://suhacker.ai/p/flaweds-flaws-and-what-this-means-for-industry-research/">https://suhacker.ai/p/flaweds-flaws-and-what-this-means-for-industry-research/</a></p>
-<p>Comme...*
-  📅 Thu, 24 Sep 2026 01:16:33 +0000
+- **[Nokia Design Archive](https://nokiadesignarchive.aalto.fi/index.html)**
+  *<p>Article URL: <a href="https://nokiadesignarchive.aalto.fi/index.html">https://nokiadesignarchive.aalto.fi/index.html</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49828385"...*
+  📅 Thu, 24 Sep 2026 09:49:33 +0000
 
-- **[Virtio-nvgpu: Near-native Nvidia GPU access inside a KVM guest](https://github.com/nestrilabs/virtio-nvgpu)**
-  *<p>Article URL: <a href="https://github.com/nestrilabs/virtio-nvgpu">https://github.com/nestrilabs/virtio-nvgpu</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49824864">https:/...*
-  📅 Thu, 24 Sep 2026 01:02:23 +0000
+- **[AI has no intent and no motivation](https://www.i-programmer.info/news/245-view-point/19164-ai-has-no-motivation.html)**
+  *<p>Article URL: <a href="https://www.i-programmer.info/news/245-view-point/19164-ai-has-no-motivation.html">https://www.i-programmer.info/news/245-view-point/19164-ai-has-no-motivation.html</a></p>
+<p...*
+  📅 Thu, 24 Sep 2026 09:13:25 +0000
 
-- **[Show HN: An open-source manufacturing ERP/MES/QMS](https://carbon.ms/self-hosted)**
-  *<p>Article URL: <a href="https://carbon.ms/self-hosted">https://carbon.ms/self-hosted</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49824715">https://news.ycombinator.com/item...*
-  📅 Thu, 24 Sep 2026 00:45:17 +0000
+- **[Meta takes down a critical video about meta AI Glasses after filming at Meta](https://www.reddit.com/r/facebook/comments/1wotwrk/meta_takes_down_a_critical_video_about_meta_ai/)**
+  *<p>Article URL: <a href="https://www.reddit.com/r/facebook/comments/1wotwrk/meta_takes_down_a_critical_video_about_meta_ai/">https://www.reddit.com/r/facebook/comments/1wotwrk/meta_takes_down_a_critic...*
+  📅 Thu, 24 Sep 2026 08:23:03 +0000
 
-- **[Feds Target AI Critics as "Foreign Agents"](https://www.kenklippenstein.com/p/feds-think-ai-critics-are-foreign)**
-  *<p>Article URL: <a href="https://www.kenklippenstein.com/p/feds-think-ai-critics-are-foreign">https://www.kenklippenstein.com/p/feds-think-ai-critics-are-foreign</a></p>
-<p>Comments URL: <a href="http...*
-  📅 Thu, 24 Sep 2026 00:41:31 +0000
+- **[Early rogue AI agent activity and attempts to hack found on urlquery.net](https://transluce.org/agent-activity)**
+  *<p>Article URL: <a href="https://transluce.org/agent-activity">https://transluce.org/agent-activity</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49826565">https://news.ycombi...*
+  📅 Thu, 24 Sep 2026 05:21:10 +0000
 
-- **[Meta VR Glasses](https://www.meta.com/vr-glasses/)**
-  *<p>Article URL: <a href="https://www.meta.com/vr-glasses/">https://www.meta.com/vr-glasses/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49824268">https://news.ycombinator.co...*
-  📅 Wed, 23 Sep 2026 23:47:56 +0000
+- **[Contrastive Language Models](https://contrastive-lm.notion.site/)**
+  *<p>Article URL: <a href="https://contrastive-lm.notion.site/">https://contrastive-lm.notion.site/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49826221">https://news.ycombina...*
+  📅 Thu, 24 Sep 2026 04:20:59 +0000
 
 ### 📑 TechCrunch
 
@@ -103,13 +102,19 @@
 
 ### 📑 Dev.to
 
-- **[Jev After Eight Days of Independent Tests: Level With Mid-Price LLMs, Behind the Frontier](https://dev.to/gde/jev-after-eight-days-of-independent-tests-level-with-mid-price-llms-behind-the-frontier-1kln)**
-  *<p>This article provides a review of the independent evidence on TypeSafe's Jev, the open models built to replace it, and the prior art behind both, as of September 23, 2026. Every figure below is tra...*
-  📅 Thu, 24 Sep 2026 02:00:52 +0000
+- **[Angular CLI MCP Server Setup: VS Code & Copilot CLI Guide](https://dev.to/shivu_k_23def8e683da7e13a/angular-cli-mcp-server-setup-vs-code-copilot-cli-guide-2eme)**
+  *<p>AI coding assistants are brilliant until they confidently hallucinate an API from three versions ago or guess your project setup completely wrong. For Angular developers, the pain is familiar: aski...*
+  📅 Thu, 24 Sep 2026 10:37:12 +0000
 
-- **[Plain Gemma 4 26B vs Jev on One EC2 L4: 2.1 Points Behind Overall, Level on Yes/No, 4.5 Behind on Multiple Choice](https://dev.to/aws-builders/plain-gemma-4-26b-vs-jev-on-one-ec2-l4-21-points-behind-overall-level-on-yesno-45-behind-on-3ao6)**
-  *<p>This article provides a step by step guide to measuring Gemma 4 26B as a Jev-style decision model on an AWS EC2 L4 GPU, and compares a plain read of its label probabilities against DiffusionGemma's...*
-  📅 Thu, 24 Sep 2026 02:00:40 +0000
+- **[Jev AI: What It Is, How It Works, Use Cases, Benefits, Limitations and Jev vs LLMs](https://dev.to/ravi_kumar3481/jev-ai-what-it-is-how-it-works-use-cases-benefits-limitations-and-jev-vs-llms-1jc1)**
+  *<h1>
+  
+  
+  Jev AI: What It Is, How It Works, Use Cases, Benefits, Limitations and Jev vs LLMs
+</h1>
+
+<p><strong>Meta Title:</strong> Jev AI Explained: What Is Jev, How It Works &amp; Use Cases<br />...*
+  📅 Thu, 24 Sep 2026 10:34:41 +0000
 
 </details>
 
@@ -117,87 +122,87 @@
 
 ### 📈 Daily Trending
 
-- **[dukunhost11/no-ai-slop](https://github.com/dukunhost11/no-ai-slop)** ⭐ 5
+- **[mike007jd/voxel-musou](https://github.com/mike007jd/voxel-musou)** ⭐ 35
   ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
-  tools canggih di buat oleh i putu darma putra, bagi yang ingin membuat katu undangan pernikahan yang futuristik , moderen dan profesional , cobain sebelum berbayar
+  Dynasty Warriors-style voxel action game in the browser: Zhao Yun vs 300 soldiers. Three.js, no build step.
 
-- **[bsmagalhaes/rendra-design-system](https://github.com/bsmagalhaes/rendra-design-system)** ⭐ 5
-  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
-  Design system completo e boilerplate React: tokens, 3 templates, 4 paletas, 40+ componentes mobile-first, AppShell configurável, telas base, Storybook e testes de layout.
+- **[AgibotTech/sonic_for_a3](https://github.com/AgibotTech/sonic_for_a3)** ⭐ 26
+  ![C++](https://img.shields.io/badge/-C++-pink)
+  SONIC adpation for new full size humanoid agibot A3！
 
-- **[heranhe/microduck-lab-cloud](https://github.com/heranhe/microduck-lab-cloud)** ⭐ 4
+- **[DaiXuYQ/auto-team](https://github.com/DaiXuYQ/auto-team)** ⭐ 21
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
+  轮转team
+
+- **[swoonqx/TypingPet](https://github.com/swoonqx/TypingPet)** ⭐ 20
+  ![None](https://img.shields.io/badge/-None-lightgrey)
+  승우의 타이핑 펫
+
+- **[Akun-python/mountain-flood-uav-optimization](https://github.com/Akun-python/mountain-flood-uav-optimization)** ⭐ 16
+  ![HTML](https://img.shields.io/badge/-HTML-lightgrey)
+  开源免费，不断迭代更新！
+
+- **[petermalone/CVE-2026-84543](https://github.com/petermalone/CVE-2026-84543)** ⭐ 14
   ![Python](https://img.shields.io/badge/-Python-blue)
-  Cloud-ready reinforcement learning, interactive simulation and behavior suite for MicroDuck biped robots
+  Technical disclosure and PoC for CVE-2026-84543, a macOS SMB kernel vulnerability
 
-- **[majidmanzarpour/blender-game-skills](https://github.com/majidmanzarpour/blender-game-skills)** ⭐ 3
+- **[hanfeny7/world-pose-fall-intelligence](https://github.com/hanfeny7/world-pose-fall-intelligence)** ⭐ 13
   ![Python](https://img.shields.io/badge/-Python-blue)
-  Claude Code agent skills for game dev in Blender. Turn concept art into rigged, game-ready 3D assets, measured against your references.
+  SentinelFlow - multimodal world-model and fall-detection intelligence showcase
 
-- **[LiStudioorg/linuxandroid](https://github.com/LiStudioorg/linuxandroid)** ⭐ 3
-  ![Kotlin](https://img.shields.io/badge/-Kotlin-lightgrey)
-  在 Android 上免 Root 运行 Debian、Ubuntu、Alpine 等 Linux 发行版，纯命令行，无需图形界面。
-
-- **[jlowin/vibecheck](https://github.com/jlowin/vibecheck)** ⭐ 3
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  ✨ The easiest decisions you'll ever make.
-
-- **[joaoditt/fila-atendimento-hands-on](https://github.com/joaoditt/fila-atendimento-hands-on)** ⭐ 2
-  ![Jupyter Notebook](https://img.shields.io/badge/-Jupyter Notebook-lightgrey)
-  Atividade de Estrutura de Dados 2
-
-- **[testzhouzhou/multi-llm-compare](https://github.com/testzhouzhou/multi-llm-compare)** ⭐ 2
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  同时向多个模型提问，对比回复差异。
+- **[kurbaitaev/ghost-editor](https://github.com/kurbaitaev/ghost-editor)** ⭐ 12
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
+  AI video editor for talking-head reels: 7 styles, face-safe captions, motion scenes, reverse-engineer any reference edit. A Claude Code / agent skill on HyperFrames.
 
 ### 📈 Weekly Trending
 
-- **[NandhaKishorM/laya](https://github.com/NandhaKishorM/laya)** ⭐ 20,679
+- **[NandhaKishorM/laya](https://github.com/NandhaKishorM/laya)** ⭐ 21,859
   ![Python](https://img.shields.io/badge/-Python-blue)
   Non-autoregressive System 1 decision engine. Typed choice, score and yes/no decisions over any text in a single forward pass, in 100+ languages, with a router that picks the right checkpoint per request.
 
-- **[zai-org/ZCode](https://github.com/zai-org/ZCode)** ⭐ 6,550
+- **[zai-org/ZCode](https://github.com/zai-org/ZCode)** ⭐ 6,654
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   Z.ai's coding agent harness. Powerful, intelligent, extensible.
 
-- **[mizorewww/laya-mlx](https://github.com/mizorewww/laya-mlx)** ⭐ 5,982
+- **[mizorewww/laya-mlx](https://github.com/mizorewww/laya-mlx)** ⭐ 6,118
   ![Python](https://img.shields.io/badge/-Python-blue)
   Native MLX runtime for Laya typed decision models — 7–14 ms short decisions on M3 Max. No text generation, PyTorch, or cloud API.
 
-- **[jev-chat/jev-chat-jarvis](https://github.com/jev-chat/jev-chat-jarvis)** ⭐ 5,306
+- **[jev-chat/jev-chat-jarvis](https://github.com/jev-chat/jev-chat-jarvis)** ⭐ 5,575
   ![Kotlin](https://img.shields.io/badge/-Kotlin-lightgrey)
   装在手机上的对话副驾：在微信 / QQ / X / 飞书里读懂对方、给出候选回复、一键填入输入框，发不发由你。非侵入，只读屏幕，不 hook 不改包。
 
-- **[unreallabsai/unreal-agent](https://github.com/unreallabsai/unreal-agent)** ⭐ 1,742
+- **[unreallabsai/unreal-agent](https://github.com/unreallabsai/unreal-agent)** ⭐ 1,829
   ![Go](https://img.shields.io/badge/-Go-cyan)
   Async-first agent harness
 
-- **[bespokelabsai/nimble](https://github.com/bespokelabsai/nimble)** ⭐ 1,689
+- **[bespokelabsai/nimble](https://github.com/bespokelabsai/nimble)** ⭐ 1,715
   ![Python](https://img.shields.io/badge/-Python-blue)
   Local typed decisions, contrastive data curation, and model evaluation.
 
-- **[mizorewww/laya-coreml](https://github.com/mizorewww/laya-coreml)** ⭐ 1,394
+- **[mizorewww/laya-coreml](https://github.com/mizorewww/laya-coreml)** ⭐ 1,404
   ![Python](https://img.shields.io/badge/-Python-blue)
   Local Laya typed decisions on Apple Core ML and Neural Engine. Validated ports, ~5 ms short decisions on M3 Max, reproducible speed and energy benchmarks.
 
-- **[newliver666/apk-reverse](https://github.com/newliver666/apk-reverse)** ⭐ 1,304
+- **[newliver666/apk-reverse](https://github.com/newliver666/apk-reverse)** ⭐ 1,389
   ![Python](https://img.shields.io/badge/-Python-blue)
   Suitable for Android APK reverse engineering analysis
 
 ### 📈 Monthly Trending
 
-- **[NandhaKishorM/laya](https://github.com/NandhaKishorM/laya)** ⭐ 20,679
+- **[NandhaKishorM/laya](https://github.com/NandhaKishorM/laya)** ⭐ 21,859
   ![Python](https://img.shields.io/badge/-Python-blue)
   Non-autoregressive System 1 decision engine. Typed choice, score and yes/no decisions over any text in a single forward pass, in 100+ languages, with a router that picks the right checkpoint per request.
 
-- **[browser-use/jev-ultrafast](https://github.com/browser-use/jev-ultrafast)** ⭐ 19,130
+- **[browser-use/jev-ultrafast](https://github.com/browser-use/jev-ultrafast)** ⭐ 19,480
   ![Python](https://img.shields.io/badge/-Python-blue)
   Fastest and cheapest web agent
 
-- **[eternity4719/HowToLiveBetter](https://github.com/eternity4719/HowToLiveBetter)** ⭐ 13,104
+- **[eternity4719/HowToLiveBetter](https://github.com/eternity4719/HowToLiveBetter)** ⭐ 13,625
   ![HTML](https://img.shields.io/badge/-HTML-lightgrey)
   按性价比排序的循证生活指南：长寿防病、急救、省钱理财、法律红线、失业与工伤、医保社保、恋爱婚育、怀孕育儿、创业与做平台合规、出国与技能。每条写明成本、收益、证据等级和原始出处，只引期刊论文与官方文件。
 
-- **[lnkiai/m3e-canvas](https://github.com/lnkiai/m3e-canvas)** ⭐ 8,093
+- **[lnkiai/m3e-canvas](https://github.com/lnkiai/m3e-canvas)** ⭐ 8,127
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   Sketch Material 3 Expressive screens in the browser and turn them into vibe-coding prompts.
 
@@ -205,15 +210,15 @@
   ![Python](https://img.shields.io/badge/-Python-blue)
   Autonomous research system for measurable, computer-executable research.
 
-- **[tamaratran/fast-jev-compaction](https://github.com/tamaratran/fast-jev-compaction)** ⭐ 6,593
+- **[tamaratran/fast-jev-compaction](https://github.com/tamaratran/fast-jev-compaction)** ⭐ 6,659
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   Claude Code plugin that replaces the compaction summary with Jev decisions: every tool call and result is scored in one fast request, stale ones are dropped or truncated, everything kept stays verbatim.
 
-- **[zai-org/ZCode](https://github.com/zai-org/ZCode)** ⭐ 6,550
+- **[zai-org/ZCode](https://github.com/zai-org/ZCode)** ⭐ 6,654
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   Z.ai's coding agent harness. Powerful, intelligent, extensible.
 
-- **[XiaoDuoYa/codex-with-chatgpt](https://github.com/XiaoDuoYa/codex-with-chatgpt)** ⭐ 6,532
+- **[XiaoDuoYa/codex-with-chatgpt](https://github.com/XiaoDuoYa/codex-with-chatgpt)** ⭐ 6,587
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   ChatGPT thinks. Codex works. Use ChatGPT as the planning brain while keeping the Codex harness.
 
@@ -488,56 +493,56 @@ See [kubernetes-announce@](https://groups.google.com/forum/#!forum/kubernetes-an
 | Java | 🟢 Proficient |
 | Python | 🟡 Learning |
 | JavaScript | 🔴 Beginner |
-| TypeScript | ⚪ Planned |
-| Go | 🟡 Learning |
+| TypeScript | 🟢 Proficient |
+| Go | 🔴 Beginner |
 
 ### Frameworks
 
 | Skill | Status |
 |-------|--------|
 | React | ⚪ Planned |
-| Spring Boot | 🔴 Beginner |
-| Django | 🟢 Proficient |
+| Spring Boot | 🟢 Proficient |
+| Django | ⚪ Planned |
 | Node.js | 🔴 Beginner |
-| Next.js | 🟢 Proficient |
+| Next.js | 🟡 Learning |
 
 ### Cybersecurity
 
 | Skill | Status |
 |-------|--------|
-| Penetration Testing | 🟡 Learning |
+| Penetration Testing | 🔴 Beginner |
 | Web Security | 🟡 Learning |
-| Network Security | 🔴 Beginner |
-| OWASP | 🔴 Beginner |
+| Network Security | 🟢 Proficient |
+| OWASP | 🟡 Learning |
 
 ### Ai Ml
 
 | Skill | Status |
 |-------|--------|
-| Machine Learning | 🔴 Beginner |
+| Machine Learning | ⚪ Planned |
 | Deep Learning | 🔴 Beginner |
 | NLP | 🟡 Learning |
-| Computer Vision | 🔴 Beginner |
-| TensorFlow | 🔴 Beginner |
-| PyTorch | 🟢 Proficient |
+| Computer Vision | 🟡 Learning |
+| TensorFlow | 🟢 Proficient |
+| PyTorch | 🟡 Learning |
 
 ### Devops
 
 | Skill | Status |
 |-------|--------|
-| Docker | 🔴 Beginner |
-| Kubernetes | ⚪ Planned |
-| CI/CD | 🟢 Proficient |
-| AWS | 🟡 Learning |
-| Azure | 🔴 Beginner |
+| Docker | ⚪ Planned |
+| Kubernetes | 🔴 Beginner |
+| CI/CD | 🟡 Learning |
+| AWS | 🔴 Beginner |
+| Azure | 🟡 Learning |
 
 ### Other
 
 | Skill | Status |
 |-------|--------|
-| Blockchain | ⚪ Planned |
+| Blockchain | 🔴 Beginner |
 | Web3 | 🟢 Proficient |
-| Cloud Computing | 🟢 Proficient |
+| Cloud Computing | 🔴 Beginner |
 
 </details>
 
