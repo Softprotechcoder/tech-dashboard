@@ -7,7 +7,7 @@
 ![AI & ML](https://img.shields.io/badge/-AI%20&%20ML-blue) ![CyberSecurity](https://img.shields.io/badge/-CyberSecurity-red) ![Full Stack Development](https://img.shields.io/badge/-Full%20Stack%20Development-green)
 
 [![Auto Update](https://img.shields.io/badge/Auto%20Update-Enabled-success)](https://github.com/yourusername/tech-dashboard/actions)
-[![Last Updated](https://img.shields.io/badge/Last%20Updated-September 23, 2026-blue)](https://github.com/yourusername/tech-dashboard)
+[![Last Updated](https://img.shields.io/badge/Last%20Updated-September 24, 2026-blue)](https://github.com/yourusername/tech-dashboard)
 
 *Automatically updated every 6 hours with the latest tech news, trending repositories, and learning resources.*
 
@@ -21,7 +21,7 @@
 |--------|-------|
 | 📰 Latest News Articles | 26 |
 | 🔥 Trending Repositories | 45 |
-| 🎯 Latest Releases | 0 |
+| 🎯 Latest Releases | 10 |
 | 🎯 Learning Goals | 4 |
 
 ## 🎯 Current Focus
@@ -46,68 +46,70 @@
 
 ### 📑 Hacker News
 
-- **[How can this Amazon scammer keep going, not shipping any goods?](https://www.amazon.de/sp?language=en&ie=UTF8&seller=A29EBN4DXM8UCL&asin=B0CGBFF8K9&ref_=dp_merchant_link)**
-  *<p>Article URL: <a href="https://www.amazon.de/sp?language=en&amp;ie=UTF8&amp;seller=A29EBN4DXM8UCL&amp;asin=B0CGBFF8K9&amp;ref_=dp_merchant_link">https://www.amazon.de/sp?language=en&amp;ie=UTF8&amp;...*
-  📅 Wed, 23 Sep 2026 20:19:24 +0000
+- **[Australia says OpenAI agent hacked into government website](https://www.channelnewsasia.com/world/australia-openai-agent-breach-government-portal-6406411)**
+  *<p>Article URL: <a href="https://www.channelnewsasia.com/world/australia-openai-agent-breach-government-portal-6406411">https://www.channelnewsasia.com/world/australia-openai-agent-breach-government-p...*
+  📅 Thu, 24 Sep 2026 01:24:00 +0000
 
-- **[DoorDash Spent $1.4M Trying to Stop Mamdani from Becoming Mayor. Now We Know Why](https://theintercept.com/2026/09/23/doordash-delivery-nyc-mamdani-wage-theft-settlement/)**
-  *<p>Article URL: <a href="https://theintercept.com/2026/09/23/doordash-delivery-nyc-mamdani-wage-theft-settlement/">https://theintercept.com/2026/09/23/doordash-delivery-nyc-mamdani-wage-theft-settleme...*
-  📅 Wed, 23 Sep 2026 19:55:14 +0000
+- **[FLAWED's Flaws and What This Means for Industry Research](https://suhacker.ai/p/flaweds-flaws-and-what-this-means-for-industry-research/)**
+  *<p>Article URL: <a href="https://suhacker.ai/p/flaweds-flaws-and-what-this-means-for-industry-research/">https://suhacker.ai/p/flaweds-flaws-and-what-this-means-for-industry-research/</a></p>
+<p>Comme...*
+  📅 Thu, 24 Sep 2026 01:16:33 +0000
 
-- **[How we made claude.ai 3x faster in two weeks](https://claude.dev/blog/how-we-made-claude-ai-faster/)**
-  *<p>Article URL: <a href="https://claude.dev/blog/how-we-made-claude-ai-faster/">https://claude.dev/blog/how-we-made-claude-ai-faster/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/ite...*
-  📅 Wed, 23 Sep 2026 19:23:40 +0000
+- **[Virtio-nvgpu: Near-native Nvidia GPU access inside a KVM guest](https://github.com/nestrilabs/virtio-nvgpu)**
+  *<p>Article URL: <a href="https://github.com/nestrilabs/virtio-nvgpu">https://github.com/nestrilabs/virtio-nvgpu</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49824864">https:/...*
+  📅 Thu, 24 Sep 2026 01:02:23 +0000
 
-- **[Show HN: I built a post-mortem debugger for native Windows x64/x86 crashes](https://www.forensicdbg.com)**
-  *<p>Hello HN!<p>I've spent years debugging Windows crashes with tools that were either friendly but limited (e.g. Visual Studio) or powerful but archaic (e.g. WinDbg). I developed patterns and methods ...*
-  📅 Wed, 23 Sep 2026 19:15:55 +0000
+- **[Show HN: An open-source manufacturing ERP/MES/QMS](https://carbon.ms/self-hosted)**
+  *<p>Article URL: <a href="https://carbon.ms/self-hosted">https://carbon.ms/self-hosted</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49824715">https://news.ycombinator.com/item...*
+  📅 Thu, 24 Sep 2026 00:45:17 +0000
 
-- **[Cloud Agents Are Inevitable AI Prisons](https://normanponte.io/19df691f)**
-  *<p>Article URL: <a href="https://normanponte.io/19df691f">https://normanponte.io/19df691f</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49820267">https://news.ycombinator.com/...*
-  📅 Wed, 23 Sep 2026 18:16:41 +0000
-
-- **[Claude discovers a novel enzyme system with CRISPR-like repeats](https://www.anthropic.com/news/claude-discovers-novel-enzyme-system)**
-  *<p>Article URL: <a href="https://www.anthropic.com/news/claude-discovers-novel-enzyme-system">https://www.anthropic.com/news/claude-discovers-novel-enzyme-system</a></p>
+- **[Feds Target AI Critics as "Foreign Agents"](https://www.kenklippenstein.com/p/feds-think-ai-critics-are-foreign)**
+  *<p>Article URL: <a href="https://www.kenklippenstein.com/p/feds-think-ai-critics-are-foreign">https://www.kenklippenstein.com/p/feds-think-ai-critics-are-foreign</a></p>
 <p>Comments URL: <a href="http...*
-  📅 Wed, 23 Sep 2026 18:06:47 +0000
+  📅 Thu, 24 Sep 2026 00:41:31 +0000
+
+- **[Meta VR Glasses](https://www.meta.com/vr-glasses/)**
+  *<p>Article URL: <a href="https://www.meta.com/vr-glasses/">https://www.meta.com/vr-glasses/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49824268">https://news.ycombinator.co...*
+  📅 Wed, 23 Sep 2026 23:47:56 +0000
 
 ### 📑 TechCrunch
 
-- **[VC firm Bessemer now has another $5.75B to invest in (what else?) AI](https://techcrunch.com/2026/09/23/vc-firm-bessemer-now-has-another-5-75b-to-invest-in-what-else-ai/)**
-  *The VC firm says that AI-native companies are growing faster than any technology, ever....*
-  📅 Wed, 23 Sep 2026 20:35:17 +0000
+- **[Everything new coming to Meta’s AI agent Muse](https://techcrunch.com/2026/09/23/everything-new-coming-to-metas-ai-agent-muse/)**
+  *CEO Mark Zuckerberg kicked off the company’s annual Connect event in Menlo Park on Wednesday with a keynote that made one thing clear: Meta is going all-in on Muse. It's even coming to Meta's AI glass...*
+  📅 Thu, 24 Sep 2026 01:13:32 +0000
 
-- **[Enveda secures $311M to bring more nature-derived AI drugs into clinical trials](https://techcrunch.com/2026/09/23/enveda-secures-311m-to-bring-more-nature-derived-ai-drugs-into-clinical-trials/)**
-  *The round valued the AI biotech at $2 billion. It is currently testing drugs that treat skin conditions and preserve weight loss after stopping GLP-1s....*
-  📅 Wed, 23 Sep 2026 19:31:28 +0000
+- **[Meta made a Tamagotchi-like wearable for its Muse AI agent](https://techcrunch.com/2026/09/23/meta-made-a-tamagotchi-like-wearable-for-its-muse-ai-agent/)**
+  *The tiny hardware device creates  another mobile home for its AI agent Muse....*
+  📅 Thu, 24 Sep 2026 00:46:17 +0000
 
-- **[Modal Motors is trying to cut China out of electric motors entirely](https://techcrunch.com/2026/09/23/modal-motors-is-trying-to-cut-china-out-of-electric-motors-entirely/)**
-  *The startup is working on small, light motors with no rare-earth magnets that are suited for drones, fans, and robots....*
-  📅 Wed, 23 Sep 2026 19:05:00 +0000
+- **[Meta is trying VR glasses (again), this time with more IMAX](https://techcrunch.com/2026/09/23/meta-is-trying-vr-glasses-again-this-time-with-more-imax/)**
+  *Meta's return to the VR glasses realm comes with a promising combination of light weight form factor and enhanced entertainment options....*
+  📅 Wed, 23 Sep 2026 23:47:35 +0000
 
-- **[Disney+ and Hulu add to the growing trend of streaming inflation](https://techcrunch.com/2026/09/23/disney-and-hulu-add-to-the-growing-trend-of-streaming-inflation/)**
-  *At the same time, Disney appears to be exploring new ways to expand its streaming business beyond simply raising subscription prices....*
-  📅 Wed, 23 Sep 2026 18:06:27 +0000
+- **[Meta introduces camera-free AI glasses](https://techcrunch.com/2026/09/23/meta-introduces-camera-free-ai-glasses/)**
+  *Meta says the camera-free glasses will be lighter and have up to 12 hours battery life....*
+  📅 Wed, 23 Sep 2026 23:39:44 +0000
 
-- **[The old cybersecurity model is breaking](https://techcrunch.com/video/the-old-cybersecurity-model-is-breaking/)**
-  *As concern over AI safety and rogue agents continue to make headlines, it’s no surprise that cybersecurity stocks are rising, or that investors are pouring massive amounts of capital into startups try...*
-  📅 Wed, 23 Sep 2026 17:44:02 +0000
+- **[Vogue sent robots down the runway at Vogue World, and people were not impressed](https://techcrunch.com/2026/09/23/vogue-sent-robots-down-the-runway-at-vogue-world-and-people-were-not-impressed/)**
+  *Nothing says Italian craftsmanship like a Chinese robot doing a lasso to "L'Amour Toujours."...*
+  📅 Wed, 23 Sep 2026 23:33:22 +0000
 
-- **[Zoox grounds Atlanta test fleet after workers report toxic gas exposure symptoms](https://techcrunch.com/2026/09/23/zoox-grounds-atlanta-test-fleet-after-workers-report-toxic-gas-exposure-symptoms/)**
-  *The repeated incidents led one worker to file a complaint with the Occupational Safety and Health Administration, which opened an inquiry and told Zoox to investigate the exposures....*
-  📅 Wed, 23 Sep 2026 17:28:38 +0000
+- **[Anthropic says its biology lab has already found something big](https://techcrunch.com/2026/09/23/anthropic-says-its-biology-lab-has-already-found-something-big/)**
+  *But maybe the biggest reveal is that Anthropic has not let Claude run loose in its biology lab. Humans are still, so far, in the loop....*
+  📅 Wed, 23 Sep 2026 22:17:39 +0000
 
 ### 📑 Dev.to
 
-- **[[Lab Notes] Kubernetes the Hard Way, For Real This Time (Step 08)](https://dev.to/lugerlogic/lab-notes-kubernetes-the-hard-way-for-real-this-time-step-08-3m60)**
-  *<p>Continuing my <a href="https://github.com/kelseyhightower/kubernetes-the-hard-way" rel="noopener noreferrer">Kubernetes the Hard Way</a> homelab build. Steps 01-07 are already done, this covers ste...*
-  📅 Wed, 23 Sep 2026 20:47:21 +0000
+- **[Jev After Eight Days of Independent Tests: Level With Mid-Price LLMs, Behind the Frontier](https://dev.to/gde/jev-after-eight-days-of-independent-tests-level-with-mid-price-llms-behind-the-frontier-1kln)**
+  *<p>This article provides a review of the independent evidence on TypeSafe's Jev, the open models built to replace it, and the prior art behind both, as of September 23, 2026. Every figure below is tra...*
+  📅 Thu, 24 Sep 2026 02:00:52 +0000
 
-- **[It agreed with the reference 100% of the time. It was right 75% of the time.](https://dev.to/maazkazi/it-agreed-with-the-reference-100-of-the-time-it-was-right-75-of-the-time-5c8k)**
-  *<p>Swap a cheap model in behind an expensive one and the obvious way to check it is shadow traffic: send the same request to both, compare the answers, count how often they agree. High agreement, ship...*
-  📅 Wed, 23 Sep 2026 20:41:20 +0000
+- **[Plain Gemma 4 26B vs Jev on One EC2 L4: 2.1 Points Behind Overall, Level on Yes/No, 4.5 Behind on Multiple Choice](https://dev.to/aws-builders/plain-gemma-4-26b-vs-jev-on-one-ec2-l4-21-points-behind-overall-level-on-yesno-45-behind-on-3ao6)**
+  *<p>This article provides a step by step guide to measuring Gemma 4 26B as a Jev-style decision model on an AWS EC2 L4 GPU, and compares a plain read of its label probabilities against DiffusionGemma's...*
+  📅 Thu, 24 Sep 2026 02:00:40 +0000
 
 </details>
 
@@ -115,103 +117,103 @@
 
 ### 📈 Daily Trending
 
-- **[SewCabinSpout/cleanupper](https://github.com/SewCabinSpout/cleanupper)** ⭐ 723
+- **[dukunhost11/no-ai-slop](https://github.com/dukunhost11/no-ai-slop)** ⭐ 5
   ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
-  🧹 Free, open-source macOS disk cleanup CLI. Scan & safely remove caches, logs, Xcode DerivedData, npm/Homebrew/pip junk and stale node_modules from your terminal. Trash-first, zero telemetry the terminal-native CleanMyMac alternative.
+  tools canggih di buat oleh i putu darma putra, bagi yang ingin membuat katu undangan pernikahan yang futuristik , moderen dan profesional , cobain sebelum berbayar
 
-- **[riba2534/claude-opus-5-5-demo](https://github.com/riba2534/claude-opus-5-5-demo)** ⭐ 533
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
-  claude-opus-5-5-demo
+- **[bsmagalhaes/rendra-design-system](https://github.com/bsmagalhaes/rendra-design-system)** ⭐ 5
+  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
+  Design system completo e boilerplate React: tokens, 3 templates, 4 paletas, 40+ componentes mobile-first, AppShell configurável, telas base, Storybook e testes de layout.
 
-- **[BridgeDruidCompress/TauriKit](https://github.com/BridgeDruidCompress/TauriKit)** ⭐ 223
-  ![Rust](https://img.shields.io/badge/-Rust-brown)
-  Modern UI component kit for Rust desktop applications
+- **[heranhe/microduck-lab-cloud](https://github.com/heranhe/microduck-lab-cloud)** ⭐ 4
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  Cloud-ready reinforcement learning, interactive simulation and behavior suite for MicroDuck biped robots
 
-- **[BinaryDeliverer/CodexDesk](https://github.com/BinaryDeliverer/CodexDesk)** ⭐ 222
-  ![Rust](https://img.shields.io/badge/-Rust-brown)
-  Desktop companion for AI coding agents and Codex workflows
+- **[majidmanzarpour/blender-game-skills](https://github.com/majidmanzarpour/blender-game-skills)** ⭐ 3
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  Claude Code agent skills for game dev in Blender. Turn concept art into rigged, game-ready 3D assets, measured against your references.
 
-- **[BricklayerSurmount/DockForge](https://github.com/BricklayerSurmount/DockForge)** ⭐ 222
-  ![Rust](https://img.shields.io/badge/-Rust-brown)
-  Flexible dock and panel layout system for desktop apps
+- **[LiStudioorg/linuxandroid](https://github.com/LiStudioorg/linuxandroid)** ⭐ 3
+  ![Kotlin](https://img.shields.io/badge/-Kotlin-lightgrey)
+  在 Android 上免 Root 运行 Debian、Ubuntu、Alpine 等 Linux 发行版，纯命令行，无需图形界面。
 
-- **[BufferHerald/WarpLite](https://github.com/BufferHerald/WarpLite)** ⭐ 222
-  ![None](https://img.shields.io/badge/-None-lightgrey)
-  Fast GPU-accelerated terminal and shell experience
+- **[jlowin/vibecheck](https://github.com/jlowin/vibecheck)** ⭐ 3
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  ✨ The easiest decisions you'll ever make.
 
-- **[AutocratGirder/ClashDesk](https://github.com/AutocratGirder/ClashDesk)** ⭐ 222
-  ![Rust](https://img.shields.io/badge/-Rust-brown)
-  Modern cross-platform desktop client for proxy workflows
+- **[joaoditt/fila-atendimento-hands-on](https://github.com/joaoditt/fila-atendimento-hands-on)** ⭐ 2
+  ![Jupyter Notebook](https://img.shields.io/badge/-Jupyter Notebook-lightgrey)
+  Atividade de Estrutura de Dados 2
 
-- **[CassowaryDevelop/HelixEdit](https://github.com/CassowaryDevelop/HelixEdit)** ⭐ 221
-  ![Rust](https://img.shields.io/badge/-Rust-brown)
-  Modal code editor with LSP support written in Rust
+- **[testzhouzhou/multi-llm-compare](https://github.com/testzhouzhou/multi-llm-compare)** ⭐ 2
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  同时向多个模型提问，对比回复差异。
 
 ### 📈 Weekly Trending
 
-- **[NandhaKishorM/laya](https://github.com/NandhaKishorM/laya)** ⭐ 20,175
+- **[NandhaKishorM/laya](https://github.com/NandhaKishorM/laya)** ⭐ 20,679
   ![Python](https://img.shields.io/badge/-Python-blue)
   Non-autoregressive System 1 decision engine. Typed choice, score and yes/no decisions over any text in a single forward pass, in 100+ languages, with a router that picks the right checkpoint per request.
 
-- **[tamaratran/fast-jev-compaction](https://github.com/tamaratran/fast-jev-compaction)** ⭐ 6,545
-  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
-  Claude Code plugin that replaces the compaction summary with Jev decisions: every tool call and result is scored in one fast request, stale ones are dropped or truncated, everything kept stays verbatim.
-
-- **[zai-org/ZCode](https://github.com/zai-org/ZCode)** ⭐ 6,523
+- **[zai-org/ZCode](https://github.com/zai-org/ZCode)** ⭐ 6,550
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   Z.ai's coding agent harness. Powerful, intelligent, extensible.
 
-- **[mizorewww/laya-mlx](https://github.com/mizorewww/laya-mlx)** ⭐ 5,917
+- **[mizorewww/laya-mlx](https://github.com/mizorewww/laya-mlx)** ⭐ 5,982
   ![Python](https://img.shields.io/badge/-Python-blue)
   Native MLX runtime for Laya typed decision models — 7–14 ms short decisions on M3 Max. No text generation, PyTorch, or cloud API.
 
-- **[jaredpalmer/kev](https://github.com/jaredpalmer/kev)** ⭐ 5,862
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  tiny Jev-like family of decision models built on top of Qwen3.5 you can train and run on your own
-
-- **[jev-chat/jev-chat-jarvis](https://github.com/jev-chat/jev-chat-jarvis)** ⭐ 5,195
+- **[jev-chat/jev-chat-jarvis](https://github.com/jev-chat/jev-chat-jarvis)** ⭐ 5,306
   ![Kotlin](https://img.shields.io/badge/-Kotlin-lightgrey)
   装在手机上的对话副驾：在微信 / QQ / X / 飞书里读懂对方、给出候选回复、一键填入输入框，发不发由你。非侵入，只读屏幕，不 hook 不改包。
 
-- **[TianyuCodings/NanoJev](https://github.com/TianyuCodings/NanoJev)** ⭐ 2,109
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  A nano replica of Jev: parallel decisions, dynamic candidates, and an end-to-end training pipeline.
-
-- **[unreallabsai/unreal-agent](https://github.com/unreallabsai/unreal-agent)** ⭐ 1,681
+- **[unreallabsai/unreal-agent](https://github.com/unreallabsai/unreal-agent)** ⭐ 1,742
   ![Go](https://img.shields.io/badge/-Go-cyan)
   Async-first agent harness
 
+- **[bespokelabsai/nimble](https://github.com/bespokelabsai/nimble)** ⭐ 1,689
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  Local typed decisions, contrastive data curation, and model evaluation.
+
+- **[mizorewww/laya-coreml](https://github.com/mizorewww/laya-coreml)** ⭐ 1,394
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  Local Laya typed decisions on Apple Core ML and Neural Engine. Validated ports, ~5 ms short decisions on M3 Max, reproducible speed and energy benchmarks.
+
+- **[newliver666/apk-reverse](https://github.com/newliver666/apk-reverse)** ⭐ 1,304
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  Suitable for Android APK reverse engineering analysis
+
 ### 📈 Monthly Trending
 
-- **[NandhaKishorM/laya](https://github.com/NandhaKishorM/laya)** ⭐ 20,175
+- **[NandhaKishorM/laya](https://github.com/NandhaKishorM/laya)** ⭐ 20,679
   ![Python](https://img.shields.io/badge/-Python-blue)
   Non-autoregressive System 1 decision engine. Typed choice, score and yes/no decisions over any text in a single forward pass, in 100+ languages, with a router that picks the right checkpoint per request.
 
-- **[browser-use/jev-ultrafast](https://github.com/browser-use/jev-ultrafast)** ⭐ 18,995
+- **[browser-use/jev-ultrafast](https://github.com/browser-use/jev-ultrafast)** ⭐ 19,130
   ![Python](https://img.shields.io/badge/-Python-blue)
   Fastest and cheapest web agent
 
-- **[eternity4719/HowToLiveBetter](https://github.com/eternity4719/HowToLiveBetter)** ⭐ 12,996
+- **[eternity4719/HowToLiveBetter](https://github.com/eternity4719/HowToLiveBetter)** ⭐ 13,104
   ![HTML](https://img.shields.io/badge/-HTML-lightgrey)
   按性价比排序的循证生活指南：长寿防病、急救、省钱理财、法律红线、失业与工伤、医保社保、恋爱婚育、怀孕育儿、创业与做平台合规、出国与技能。每条写明成本、收益、证据等级和原始出处，只引期刊论文与官方文件。
 
-- **[lnkiai/m3e-canvas](https://github.com/lnkiai/m3e-canvas)** ⭐ 8,081
+- **[lnkiai/m3e-canvas](https://github.com/lnkiai/m3e-canvas)** ⭐ 8,093
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   Sketch Material 3 Expressive screens in the browser and turn them into vibe-coding prompts.
 
-- **[sapientinc/PRAXIST](https://github.com/sapientinc/PRAXIST)** ⭐ 6,716
+- **[sapientinc/PRAXIST](https://github.com/sapientinc/PRAXIST)** ⭐ 6,748
   ![Python](https://img.shields.io/badge/-Python-blue)
   Autonomous research system for measurable, computer-executable research.
 
-- **[tamaratran/fast-jev-compaction](https://github.com/tamaratran/fast-jev-compaction)** ⭐ 6,545
+- **[tamaratran/fast-jev-compaction](https://github.com/tamaratran/fast-jev-compaction)** ⭐ 6,593
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   Claude Code plugin that replaces the compaction summary with Jev decisions: every tool call and result is scored in one fast request, stale ones are dropped or truncated, everything kept stays verbatim.
 
-- **[zai-org/ZCode](https://github.com/zai-org/ZCode)** ⭐ 6,523
+- **[zai-org/ZCode](https://github.com/zai-org/ZCode)** ⭐ 6,550
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   Z.ai's coding agent harness. Powerful, intelligent, extensible.
 
-- **[XiaoDuoYa/codex-with-chatgpt](https://github.com/XiaoDuoYa/codex-with-chatgpt)** ⭐ 6,516
+- **[XiaoDuoYa/codex-with-chatgpt](https://github.com/XiaoDuoYa/codex-with-chatgpt)** ⭐ 6,532
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   ChatGPT thinks. Codex works. Use ChatGPT as the planning brain while keeping the Codex harness.
 
@@ -219,6 +221,144 @@
 
 <details>
 <summary>Click to expand latest releases</summary>
+
+### 📦 microsoft/vscode
+
+**[1.139.0](https://github.com/microsoft/vscode/releases/tag/1.139.0)** `1.139.0`
+
+📅 Released: September 23, 2026
+
+https://code.visualstudio.com/updates/v1_139...
+
+---
+
+### 📦 facebook/react
+
+**[19.3.0 (September 9, 2026)](https://github.com/react/react/releases/tag/v19.3.0)** `v19.3.0`
+
+📅 Released: September 09, 2026
+
+Below is a list of all new features, APIs, and bug fixes.
+
+Read the [React 19.3 release post](https://react.dev/blog/2026/09/09/react-19-3) for more information.
+
+## New React Features
+
+- `<View...
+
+---
+
+### 📦 angular/angular
+
+**[22.2.0](https://github.com/angular/angular/releases/tag/v22.2.0)** `v22.2.0`
+
+📅 Released: September 23, 2026
+
+### compiler
+| Commit | Description |
+| -- | -- |
+| [![feat - 48a0fd6e8a](https://img.shields.io/badge/48a0fd6e8a-feat-blue)](https://github.com/angular/angular/commit/48a0fd6e8a8d14bdc1d901ee5615f4b0...
+
+---
+
+### 📦 vuejs/vue
+
+**[v2.7.16 "Swan Song"](https://github.com/vuejs/vue/releases/tag/v2.7.16)** `v2.7.16`
+
+📅 Released: December 24, 2023
+
+**This is the final release for Vue 2.**
+
+Vue 2 will reach End of Life on December 31st, 2023. For more details, please read this [blog post](https://blog.vuejs.org/posts/vue-2-eol).
+
+Please refer...
+
+---
+
+### 📦 tensorflow/tensorflow
+
+**[TensorFlow 2.21.0](https://github.com/tensorflow/tensorflow/releases/tag/v2.21.0)** `v2.21.0`
+
+📅 Released: March 06, 2026
+
+# Release 2.21.0
+
+## TensorFlow
+
+### Breaking Changes
+
+* Support for Python 3.9 has been removed starting with TF 2.21.
+* The TensorBoard (TB) dependency has been removed starting with TF 2.21....
+
+---
+
+### 📦 pytorch/pytorch
+
+**[PyTorch 2.14.0 Release](https://github.com/pytorch/pytorch/releases/tag/v2.14.0)** `v2.14.0`
+
+📅 Released: September 02, 2026
+
+# PyTorch 2.14.0 Release Notes
+
+- [Highlights](#highlights)
+- [Backwards Incompatible Changes](#backwards-incompatible-changes)
+- [Deprecations](#deprecations)
+- [New Features](#new-features)
+- ...
+
+---
+
+### 📦 kubernetes/kubernetes
+
+**[v1.37.1](https://github.com/kubernetes/kubernetes/releases/tag/v1.37.1)** `v1.37.1`
+
+📅 Released: September 23, 2026
+
+
+See [kubernetes-announce@](https://groups.google.com/forum/#!forum/kubernetes-announce). Additional binary downloads are linked in the [CHANGELOG](https://github.com/kubernetes/kubernetes/blob/master...
+
+---
+
+### 📦 docker/compose
+
+**[v5.5.1](https://github.com/docker/compose/releases/tag/v5.5.1)** `v5.5.1`
+
+📅 Released: September 03, 2026
+
+## What's Changed
+### ✨ Improvements
+* Feat(hooks): capture and surface lifecycle hook output by @glours in https://github.com/docker/compose/pull/14091
+* Feat(tracing): surface otel shutdown error...
+
+---
+
+### 📦 nodejs/node
+
+**[2026-09-22, Version 26.10.0 (Current), @aduh95](https://github.com/nodejs/node/releases/tag/v26.10.0)** `v26.10.0`
+
+📅 Released: September 22, 2026
+
+
+
+
+### Notable Changes
+
+* \[[`c0a42d23e5`](https://github.com/nodejs/node/commit/c0a42d23e5)] - **(SEMVER-MINOR)** **crypto**: add crypto.parsePKCS12() (Brian Muenzenmeyer) [#65627](https://github.com...
+
+---
+
+### 📦 rust-lang/rust
+
+**[Rust 1.98.1](https://github.com/rust-lang/rust/releases/tag/1.98.1)** `1.98.1`
+
+📅 Released: September 03, 2026
+
+<a id="1.98.1"></a>
+
+- [rustc: fix miscompilation in generating vtables](https://github.com/rust-lang/rust/issues/161441)
+...
+
+---
 
 </details>
 
@@ -345,39 +485,39 @@
 
 | Skill | Status |
 |-------|--------|
-| Java | ⚪ Planned |
+| Java | 🟢 Proficient |
 | Python | 🟡 Learning |
-| JavaScript | 🟢 Proficient |
+| JavaScript | 🔴 Beginner |
 | TypeScript | ⚪ Planned |
-| Go | 🟢 Proficient |
+| Go | 🟡 Learning |
 
 ### Frameworks
 
 | Skill | Status |
 |-------|--------|
-| React | 🟢 Proficient |
-| Spring Boot | ⚪ Planned |
-| Django | 🔴 Beginner |
-| Node.js | 🟢 Proficient |
-| Next.js | 🟡 Learning |
+| React | ⚪ Planned |
+| Spring Boot | 🔴 Beginner |
+| Django | 🟢 Proficient |
+| Node.js | 🔴 Beginner |
+| Next.js | 🟢 Proficient |
 
 ### Cybersecurity
 
 | Skill | Status |
 |-------|--------|
-| Penetration Testing | 🔴 Beginner |
-| Web Security | 🟢 Proficient |
-| Network Security | 🟡 Learning |
-| OWASP | ⚪ Planned |
+| Penetration Testing | 🟡 Learning |
+| Web Security | 🟡 Learning |
+| Network Security | 🔴 Beginner |
+| OWASP | 🔴 Beginner |
 
 ### Ai Ml
 
 | Skill | Status |
 |-------|--------|
-| Machine Learning | ⚪ Planned |
-| Deep Learning | 🟡 Learning |
-| NLP | ⚪ Planned |
-| Computer Vision | 🟡 Learning |
+| Machine Learning | 🔴 Beginner |
+| Deep Learning | 🔴 Beginner |
+| NLP | 🟡 Learning |
+| Computer Vision | 🔴 Beginner |
 | TensorFlow | 🔴 Beginner |
 | PyTorch | 🟢 Proficient |
 
@@ -385,18 +525,18 @@
 
 | Skill | Status |
 |-------|--------|
-| Docker | ⚪ Planned |
-| Kubernetes | 🔴 Beginner |
+| Docker | 🔴 Beginner |
+| Kubernetes | ⚪ Planned |
 | CI/CD | 🟢 Proficient |
-| AWS | 🔴 Beginner |
-| Azure | ⚪ Planned |
+| AWS | 🟡 Learning |
+| Azure | 🔴 Beginner |
 
 ### Other
 
 | Skill | Status |
 |-------|--------|
 | Blockchain | ⚪ Planned |
-| Web3 | 🔴 Beginner |
+| Web3 | 🟢 Proficient |
 | Cloud Computing | 🟢 Proficient |
 
 </details>
@@ -415,7 +555,7 @@ This dashboard is automatically updated every 6 hours using GitHub Actions. The 
 
 <div align="center">
 
-**Last Updated:** September 23, 2026
+**Last Updated:** September 24, 2026
 
 Made with ❤️ and automated with GitHub Actions
 
