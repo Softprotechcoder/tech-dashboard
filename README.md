@@ -46,37 +46,39 @@
 
 ### 📑 Hacker News
 
-- **[How to keep enjoying programming in a world of LLMs](https://discourse.haskell.org/t/how-to-keep-enjoying-programming-in-a-world-of-llms/14705)**
-  *<p>Article URL: <a href="https://discourse.haskell.org/t/how-to-keep-enjoying-programming-in-a-world-of-llms/14705">https://discourse.haskell.org/t/how-to-keep-enjoying-programming-in-a-world-of-llms/...*
-  📅 Sat, 26 Sep 2026 09:41:58 +0000
+- **[A Roman Name for Software](https://marcosmagueta.com/blog/a-roman-name-for-software/)**
+  *<p>Article URL: <a href="https://marcosmagueta.com/blog/a-roman-name-for-software/">https://marcosmagueta.com/blog/a-roman-name-for-software/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator...*
+  📅 Sat, 26 Sep 2026 14:53:32 +0000
 
-- **[Fifteen years later, the Apple Cards origin story](https://lexontech.org/fifteen-years-later-the-apple-cards-origin-story)**
-  *<p>Article URL: <a href="https://lexontech.org/fifteen-years-later-the-apple-cards-origin-story">https://lexontech.org/fifteen-years-later-the-apple-cards-origin-story</a></p>
-<p>Comments URL: <a href...*
-  📅 Sat, 26 Sep 2026 09:13:41 +0000
+- **[Earth is tearing apart beneath the Pacific Northwest](https://www.sciencedaily.com/releases/2026/09/260924231343.htm)**
+  *<p>Article URL: <a href="https://www.sciencedaily.com/releases/2026/09/260924231343.htm">https://www.sciencedaily.com/releases/2026/09/260924231343.htm</a></p>
+<p>Comments URL: <a href="https://news.y...*
+  📅 Sat, 26 Sep 2026 14:33:11 +0000
 
-- **[Floci: Locally emulating any cloud service](https://floci.io)**
-  *<p>Article URL: <a href="https://floci.io">https://floci.io</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49854416">https://news.ycombinator.com/item?id=49854416</a></p>
-<p>Po...*
-  📅 Sat, 26 Sep 2026 08:31:02 +0000
+- **[Understanding the Impact of LLM Watermarking on AI Agent Behavior](https://www.lasso.security/blog/the-provenance-tax-understanding-the-impact-of-llm-watermarking-on-ai-agent-behavior)**
+  *<p>Article URL: <a href="https://www.lasso.security/blog/the-provenance-tax-understanding-the-impact-of-llm-watermarking-on-ai-agent-behavior">https://www.lasso.security/blog/the-provenance-tax-unders...*
+  📅 Sat, 26 Sep 2026 13:05:36 +0000
 
-- **[Is your Postgres migration safe or not safe?](https://safenotsafe.dev/)**
-  *<p>Article URL: <a href="https://safenotsafe.dev/">https://safenotsafe.dev/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49854161">https://news.ycombinator.com/item?id=498541...*
-  📅 Sat, 26 Sep 2026 07:33:12 +0000
+- **[Breaking Up with Google Play: Why Conversations Is Now Free](https://gultsch.de/posts/breaking-up-with-google-play/)**
+  *<p>Article URL: <a href="https://gultsch.de/posts/breaking-up-with-google-play/">https://gultsch.de/posts/breaking-up-with-google-play/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/i...*
+  📅 Sat, 26 Sep 2026 10:55:56 +0000
 
-- **[Alberta's image as world's only rat-free region shattered by discovery of rat](https://www.theguardian.com/world/2026/sep/25/alberta-canada-rat-patrol)**
-  *<p>Article URL: <a href="https://www.theguardian.com/world/2026/sep/25/alberta-canada-rat-patrol">https://www.theguardian.com/world/2026/sep/25/alberta-canada-rat-patrol</a></p>
-<p>Comments URL: <a hr...*
-  📅 Sat, 26 Sep 2026 06:51:12 +0000
+- **[One Month Without AI](https://blog.bustikiller.com/2026/09/25/one-month-without-ai.html)**
+  *<p>Article URL: <a href="https://blog.bustikiller.com/2026/09/25/one-month-without-ai.html">https://blog.bustikiller.com/2026/09/25/one-month-without-ai.html</a></p>
+<p>Comments URL: <a href="https://...*
+  📅 Sat, 26 Sep 2026 10:08:21 +0000
 
-- **[A single function Jev-like wrapper for LLMs, including vision models](http://allanrbo.blogspot.com/2026/09/a-jev-like-wrapper-for-llms-including.html)**
-  *<p>Article URL: <a href="http://allanrbo.blogspot.com/2026/09/a-jev-like-wrapper-for-llms-including.html">http://allanrbo.blogspot.com/2026/09/a-jev-like-wrapper-for-llms-including.html</a></p>
-<p>Com...*
-  📅 Sat, 26 Sep 2026 04:20:58 +0000
+- **[The Copilot+ PC brand is dead](https://www.windowscentral.com/microsoft/windows-11/the-copilot-pc-brand-is-dead-microsoft-and-pc-makers-quietly-pull-back-on-tarnished-windows-11-ai-pc-branding)**
+  *<p>Article URL: <a href="https://www.windowscentral.com/microsoft/windows-11/the-copilot-pc-brand-is-dead-microsoft-and-pc-makers-quietly-pull-back-on-tarnished-windows-11-ai-pc-branding">https://www....*
+  📅 Sat, 26 Sep 2026 09:55:38 +0000
 
 ### 📑 TechCrunch
+
+- **[I created an interactive digital avatar of myself — and you can talk to it](https://techcrunch.com/2026/09/26/i-created-an-interactive-digital-avatar-of-myself-and-you-can-talk-to-it/)**
+  *After obtaining an interactive avatar and training it to discuss venture fraud, I have mixed feelings about making AI clones of ourselves....*
+  📅 Sat, 26 Sep 2026 14:00:00 +0000
 
 - **[At Meta Connect, the company’s smart glasses were everywhere](https://techcrunch.com/2026/09/25/at-meta-connect-the-companys-smart-glasses-were-everywhere/)**
   *The company behind Facebook and Instagram wants to keep consumers connected to the digital world via its ever-growing line of smart glasses....*
@@ -98,33 +100,24 @@
   *Anyone interested in joining has to ask Muse to put them on the list....*
   📅 Fri, 25 Sep 2026 20:34:53 +0000
 
-- **[The hottest new hangout for middle schoolers is NPR’s comment section?](https://techcrunch.com/2026/09/25/the-hottest-new-hangout-for-middle-schoolers-is-nprs-comment-section/)**
-  *When NPR staffers flagged strange comments under their podcasts on Spotify as bots, it took a Gen Z colleague to (immediately) figure out the mystery....*
-  📅 Fri, 25 Sep 2026 20:33:58 +0000
-
 ### 📑 Dev.to
 
-- **[Your AI Agent Needs an Escalation Path: Introducing Escalation Engineering](https://dev.to/miruky/your-ai-agent-needs-an-escalation-path-introducing-escalation-engineering-524a)**
-  *<h2>
-  
-  
-  Introduction
-</h2>
+- **[I Built a Telegram AI Agent That Can Actually Use Tools O.O](https://dev.to/hexzonetwork/i-built-a-telegram-ai-agent-that-can-actually-use-tools-oo-2cgc)**
+  *<p>I've been building <strong>Hexzie (HexTelegram)</strong> a Telegram-based AI assistant that goes beyond just sending text back and forth.</p>
 
-<p>Hi, I'm miruky.</p>
+<p>The idea was simple:</p>
 
-<p>Imagine asking a coding agent to update an authentication library and publish a release. It can inspect the code, edit a dependency, and run...*
-  📅 Sat, 26 Sep 2026 10:20:32 +0000
+<blockquote>
+<p>What if a...*
+  📅 Sat, 26 Sep 2026 15:17:03 +0000
 
-- **[CVE-2026-66066: an image upload path that reads /proc/self/environ](https://dev.to/onaeiuspkz/cve-2026-66066-an-image-upload-path-that-reads-procselfenviron-2o5a)**
-  *<h1>
-  
-  
-  CVE-2026-66066: an image upload path that reads /proc/self/environ
-</h1>
+- **[I Thought a Calendar Was Just a 7-Column Grid Until I Started Building One](https://dev.to/karecohen/i-thought-a-calendar-was-just-a-7-column-grid-until-i-started-building-one-5chi)**
+  *<p>A calendar looks like one of the simplest interfaces on the web.</p>
 
-<p>The shortest way to describe CVE-2026-66066 is that a framework default turned an ordinary avatar upload into ...*
-  📅 Sat, 26 Sep 2026 10:20:28 +0000
+<p>Seven columns. A few rows. Some numbers. Maybe a previous and next button.</p>
+
+<p>That was roughly how I thought about cale...*
+  📅 Sat, 26 Sep 2026 15:16:01 +0000
 
 </details>
 
@@ -132,103 +125,103 @@
 
 ### 📈 Daily Trending
 
-- **[Roberto02800/turnstile-token](https://github.com/Roberto02800/turnstile-token)** ⭐ 142
+- **[Roberto02800/turnstile-token](https://github.com/Roberto02800/turnstile-token)** ⭐ 143
   ![Python](https://img.shields.io/badge/-Python-blue)
   A small Python CLI and library for Cloudflare Turnstile token - discover the sitekey, create a cf-turnstile-response token, and replay the browser identity
 
-- **[ZacharyZhang-NY/OmaPhoto](https://github.com/ZacharyZhang-NY/OmaPhoto)** ⭐ 53
+- **[feitangyuan/onetake](https://github.com/feitangyuan/onetake)** ⭐ 93
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  Motion films that never cut to the next slide: every beat grows out of the one before, one continuous camera, continuity measured by an oracle. A Claude Agent Skill for product launch films and feature demos.
+
+- **[ZacharyZhang-NY/OmaPhoto](https://github.com/ZacharyZhang-NY/OmaPhoto)** ⭐ 91
   ![C++](https://img.shields.io/badge/-C++-pink)
   Layered image editor for Linux and Omarchy, a port of Compositor
 
-- **[JoinArtisanVent/x-scraper-no-api](https://github.com/JoinArtisanVent/x-scraper-no-api)** ⭐ 48
+- **[jaydendavisnc/inkwave](https://github.com/jaydendavisnc/inkwave)** ⭐ 66
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
+  Splatoon-style 4v4 turf-war shooter for the browser, built on three.js. No build step.
+
+- **[JoinArtisanVent/x-scraper-no-api](https://github.com/JoinArtisanVent/x-scraper-no-api)** ⭐ 62
   ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
   Free, self-hosted X (Twitter) scraper no API key, no credits. Uses your own browser session via Playwright. Export tweets, search results & timelines as LLM-ready JSON/CSV/Markdown. Ships an AI agent Skill for OpenClaw & Hermes.
 
-- **[breakstageaxe61/genspark-claw](https://github.com/breakstageaxe61/genspark-claw)** ⭐ 46
+- **[breakstageaxe61/genspark-claw](https://github.com/breakstageaxe61/genspark-claw)** ⭐ 59
   ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
   🦀⚡ Community skill pack & CLI for Genspark Claw, OpenClaw & Hermes agents — 5 production-ready SKILL.md skills (deep research, reports, slides, browser automation, AI call prep), zero-dependency Node.js installer, MCP server, one-line install
 
-- **[graygnatconsole/mcp-audit-tool](https://github.com/graygnatconsole/mcp-audit-tool)** ⭐ 44
+- **[graygnatconsole/mcp-audit-tool](https://github.com/graygnatconsole/mcp-audit-tool)** ⭐ 59
   ![Python](https://img.shields.io/badge/-Python-blue)
   🛡️ Security audit CLI for Model Context Protocol (MCP) servers — scan AI agent configs for tool poisoning, rug pulls, hardcoded secrets, command injection & supply-chain risks. Pure Python, SARIF + CI ready.
 
-- **[Slapq/BestNAI](https://github.com/Slapq/BestNAI)** ⭐ 27
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  BestNAI NovelAI gateway and YesNAI-compatible SDK
-
-- **[NJU-PCALab/TETrack3D](https://github.com/NJU-PCALab/TETrack3D)** ⭐ 21
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  [Neurips 2026] State Evolution Awareness for Category-agnostic 3D Point Cloud Tracking  
-
-- **[Alphabeyondretake/rivals-tool](https://github.com/Alphabeyondretake/rivals-tool)** ⭐ 21
+- **[lemomo-ai/lemo-opuscar](https://github.com/lemomo-ai/lemo-opuscar)** ⭐ 36
   ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
-  🎯 Rivals Tool — free, open-source all-in-one companion CLI for Roblox Rivals. Script library manager, sensitivity converter, crosshair generator, FPS unlocker & player stats. One-line install on macOS, Windows & Linux.
+  39 film styles, each a reusable style prompt plus a short film made entirely in code by Claude Opus 5.5. Pick a style, bring your own story, and let your agent direct. | Opus5.5 x 39 种影片风格：风格提示词 + 纯代码样片 + 导演与技术指南
 
 ### 📈 Weekly Trending
 
-- **[zai-org/ZCode](https://github.com/zai-org/ZCode)** ⭐ 6,808
+- **[zai-org/ZCode](https://github.com/zai-org/ZCode)** ⭐ 6,820
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   Z.ai's coding agent harness. Powerful, intelligent, extensible.
 
-- **[jev-chat/jev-chat-jarvis](https://github.com/jev-chat/jev-chat-jarvis)** ⭐ 6,597
+- **[jev-chat/jev-chat-jarvis](https://github.com/jev-chat/jev-chat-jarvis)** ⭐ 6,640
   ![Kotlin](https://img.shields.io/badge/-Kotlin-lightgrey)
   装在手机上的对话副驾：在 QQ / X / 飞书里读懂对方、给出候选回复、一键填入输入框，发不发由你。非侵入，只读屏幕，不 hook 不改包。
 
-- **[driceroland/Search](https://github.com/driceroland/Search)** ⭐ 2,022
+- **[driceroland/Search](https://github.com/driceroland/Search)** ⭐ 2,036
   ![Swift](https://img.shields.io/badge/-Swift-lightgrey)
   A small, fast WebKit browser for macOS, by Office Commun.
 
-- **[unreallabsai/unreal-agent](https://github.com/unreallabsai/unreal-agent)** ⭐ 1,952
+- **[unreallabsai/unreal-agent](https://github.com/unreallabsai/unreal-agent)** ⭐ 1,956
   ![Go](https://img.shields.io/badge/-Go-cyan)
   Async-first agent harness
 
-- **[Contrastive-LM/CLM](https://github.com/Contrastive-LM/CLM)** ⭐ 1,376
+- **[Contrastive-LM/CLM](https://github.com/Contrastive-LM/CLM)** ⭐ 1,443
   ![Python](https://img.shields.io/badge/-Python-blue)
   None
 
-- **[tobi/disktree](https://github.com/tobi/disktree)** ⭐ 1,090
+- **[tobi/disktree](https://github.com/tobi/disktree)** ⭐ 1,166
   ![Rust](https://img.shields.io/badge/-Rust-brown)
   A treemap for finding and removing what fills your disk, for Omarchy. Rust + GPUI.
 
-- **[deepopen-com/deepopen](https://github.com/deepopen-com/deepopen)** ⭐ 1,027
+- **[deepopen-com/deepopen](https://github.com/deepopen-com/deepopen)** ⭐ 1,030
   ![Python](https://img.shields.io/badge/-Python-blue)
   非自回归System 1决策引擎，专为结构化类型决策场景设计  DeepOpen Multilingual, non-autoregressive System 1 decision engine. 
 
-- **[mikehasa/golive-skill](https://github.com/mikehasa/golive-skill)** ⭐ 962
-  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
-  Take your agent-built product live: hosting, database, domain, email, payments — on your own accounts. Open-source Agent Skill + zero-dependency Node CLI: detect → plan → approve → apply → verify. No GoLive account, backend or telemetry.
+- **[JohnHeibel/PDoomVideo](https://github.com/JohnHeibel/PDoomVideo)** ⭐ 993
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
+  Source code for the Claude Opus 5.5 music video for I'm Upping My P(doom)
 
 ### 📈 Monthly Trending
 
-- **[NandhaKishorM/laya](https://github.com/NandhaKishorM/laya)** ⭐ 25,163
+- **[NandhaKishorM/laya](https://github.com/NandhaKishorM/laya)** ⭐ 25,459
   ![Python](https://img.shields.io/badge/-Python-blue)
   Non-autoregressive System 1 decision engine. Typed choice, score and yes/no decisions over any text in a single forward pass, in 100+ languages, with a router that picks the right checkpoint per request.
 
-- **[browser-use/jev-ultrafast](https://github.com/browser-use/jev-ultrafast)** ⭐ 20,383
+- **[browser-use/jev-ultrafast](https://github.com/browser-use/jev-ultrafast)** ⭐ 20,451
   ![Python](https://img.shields.io/badge/-Python-blue)
   Fastest and cheapest web agent
 
-- **[eternity4719/HowToLiveBetter](https://github.com/eternity4719/HowToLiveBetter)** ⭐ 17,004
+- **[eternity4719/HowToLiveBetter](https://github.com/eternity4719/HowToLiveBetter)** ⭐ 17,750
   ![HTML](https://img.shields.io/badge/-HTML-lightgrey)
   按性价比排序的循证生活指南：长寿防病、急救、省钱理财、法律红线、失业与工伤、医保社保、恋爱婚育、怀孕育儿、创业与做平台合规、出国与技能。每条写明成本、收益、证据等级和原始出处，只引期刊论文与官方文件。
 
-- **[lnkiai/m3e-canvas](https://github.com/lnkiai/m3e-canvas)** ⭐ 8,257
+- **[lnkiai/m3e-canvas](https://github.com/lnkiai/m3e-canvas)** ⭐ 8,277
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   Sketch Material 3 Expressive screens in the browser and turn them into vibe-coding prompts.
 
-- **[jaredpalmer/kev](https://github.com/jaredpalmer/kev)** ⭐ 7,110
+- **[jaredpalmer/kev](https://github.com/jaredpalmer/kev)** ⭐ 7,151
   ![Python](https://img.shields.io/badge/-Python-blue)
   Jev-like family of decision models built on top of Qwen3.5/3.8 you can train and run on your own
 
-- **[tamaratran/fast-jev-compaction](https://github.com/tamaratran/fast-jev-compaction)** ⭐ 6,902
+- **[tamaratran/fast-jev-compaction](https://github.com/tamaratran/fast-jev-compaction)** ⭐ 6,928
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   Claude Code plugin that replaces the compaction summary with Jev decisions: every tool call and result is scored in one fast request, stale ones are dropped or truncated, everything kept stays verbatim.
 
-- **[zai-org/ZCode](https://github.com/zai-org/ZCode)** ⭐ 6,808
+- **[zai-org/ZCode](https://github.com/zai-org/ZCode)** ⭐ 6,820
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   Z.ai's coding agent harness. Powerful, intelligent, extensible.
 
-- **[rakanki911/DLSS5-Swapper](https://github.com/rakanki911/DLSS5-Swapper)** ⭐ 6,769
+- **[rakanki911/DLSS5-Swapper](https://github.com/rakanki911/DLSS5-Swapper)** ⭐ 6,806
   ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
   Install, tune and restore DLSS 5 in your games with one click. Native RenoDX, DLSS5-Feeder for games without DLSS, OptiScaler and multipass routes; DirectX 8/9/11/12, Vulkan, OpenGL, DirectDraw and emulators. In-game F8 overlay, automatic backups, and a community page showing what works on your games and your graphics card.
 
@@ -500,41 +493,41 @@ See [kubernetes-announce@](https://groups.google.com/forum/#!forum/kubernetes-an
 
 | Skill | Status |
 |-------|--------|
-| Java | ⚪ Planned |
-| Python | 🟡 Learning |
-| JavaScript | ⚪ Planned |
+| Java | 🔴 Beginner |
+| Python | 🔴 Beginner |
+| JavaScript | 🟡 Learning |
 | TypeScript | ⚪ Planned |
-| Go | ⚪ Planned |
+| Go | 🟡 Learning |
 
 ### Frameworks
 
 | Skill | Status |
 |-------|--------|
-| React | 🔴 Beginner |
+| React | ⚪ Planned |
 | Spring Boot | 🟡 Learning |
-| Django | ⚪ Planned |
-| Node.js | 🔴 Beginner |
-| Next.js | 🟡 Learning |
+| Django | 🟢 Proficient |
+| Node.js | 🟡 Learning |
+| Next.js | 🟢 Proficient |
 
 ### Cybersecurity
 
 | Skill | Status |
 |-------|--------|
-| Penetration Testing | 🟢 Proficient |
-| Web Security | 🟡 Learning |
-| Network Security | 🟡 Learning |
-| OWASP | 🔴 Beginner |
+| Penetration Testing | ⚪ Planned |
+| Web Security | ⚪ Planned |
+| Network Security | 🟢 Proficient |
+| OWASP | 🟢 Proficient |
 
 ### Ai Ml
 
 | Skill | Status |
 |-------|--------|
-| Machine Learning | 🟢 Proficient |
+| Machine Learning | 🟡 Learning |
 | Deep Learning | ⚪ Planned |
-| NLP | 🟢 Proficient |
-| Computer Vision | 🔴 Beginner |
-| TensorFlow | 🟢 Proficient |
-| PyTorch | 🟡 Learning |
+| NLP | ⚪ Planned |
+| Computer Vision | 🟢 Proficient |
+| TensorFlow | 🟡 Learning |
+| PyTorch | 🔴 Beginner |
 
 ### Devops
 
@@ -543,8 +536,8 @@ See [kubernetes-announce@](https://groups.google.com/forum/#!forum/kubernetes-an
 | Docker | 🔴 Beginner |
 | Kubernetes | 🟡 Learning |
 | CI/CD | 🟡 Learning |
-| AWS | 🟡 Learning |
-| Azure | 🔴 Beginner |
+| AWS | 🟢 Proficient |
+| Azure | 🟢 Proficient |
 
 ### Other
 
@@ -552,7 +545,7 @@ See [kubernetes-announce@](https://groups.google.com/forum/#!forum/kubernetes-an
 |-------|--------|
 | Blockchain | 🟡 Learning |
 | Web3 | 🔴 Beginner |
-| Cloud Computing | 🟢 Proficient |
+| Cloud Computing | 🔴 Beginner |
 
 </details>
 
