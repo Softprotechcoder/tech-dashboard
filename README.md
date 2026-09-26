@@ -46,35 +46,43 @@
 
 ### 📑 Hacker News
 
-- **[A Roman Name for Software](https://marcosmagueta.com/blog/a-roman-name-for-software/)**
-  *<p>Article URL: <a href="https://marcosmagueta.com/blog/a-roman-name-for-software/">https://marcosmagueta.com/blog/a-roman-name-for-software/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator...*
-  📅 Sat, 26 Sep 2026 14:53:32 +0000
+- **[DeepSeek Elastic Compute (DSec)](https://arxiv.org/abs/2609.22978)**
+  *<p>Article URL: <a href="https://arxiv.org/abs/2609.22978">https://arxiv.org/abs/2609.22978</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49859112">https://news.ycombinator.co...*
+  📅 Sat, 26 Sep 2026 18:22:41 +0000
 
-- **[Earth is tearing apart beneath the Pacific Northwest](https://www.sciencedaily.com/releases/2026/09/260924231343.htm)**
-  *<p>Article URL: <a href="https://www.sciencedaily.com/releases/2026/09/260924231343.htm">https://www.sciencedaily.com/releases/2026/09/260924231343.htm</a></p>
-<p>Comments URL: <a href="https://news.y...*
-  📅 Sat, 26 Sep 2026 14:33:11 +0000
+- **[Show HN: Reladraw – A diagram language where you decide where to place things](https://github.com/reladraw/reladraw)**
+  *<p>I love making diagrams to help understand, plan, etc. However, the options are (A) auto-placement languages like Mermaid or Graphviz (which don't let me decide how the diagram looks), or (B) softwa...*
+  📅 Sat, 26 Sep 2026 17:10:40 +0000
 
-- **[Understanding the Impact of LLM Watermarking on AI Agent Behavior](https://www.lasso.security/blog/the-provenance-tax-understanding-the-impact-of-llm-watermarking-on-ai-agent-behavior)**
-  *<p>Article URL: <a href="https://www.lasso.security/blog/the-provenance-tax-understanding-the-impact-of-llm-watermarking-on-ai-agent-behavior">https://www.lasso.security/blog/the-provenance-tax-unders...*
-  📅 Sat, 26 Sep 2026 13:05:36 +0000
+- **[I'm the mom in that viral Giants clip. Let me tell you about my husband](https://themomoftheyear.substack.com/p/im-the-mom-in-that-viral-giants-clip)**
+  *<p>Article URL: <a href="https://themomoftheyear.substack.com/p/im-the-mom-in-that-viral-giants-clip">https://themomoftheyear.substack.com/p/im-the-mom-in-that-viral-giants-clip</a></p>
+<p>Comments UR...*
+  📅 Sat, 26 Sep 2026 16:12:18 +0000
 
-- **[Breaking Up with Google Play: Why Conversations Is Now Free](https://gultsch.de/posts/breaking-up-with-google-play/)**
-  *<p>Article URL: <a href="https://gultsch.de/posts/breaking-up-with-google-play/">https://gultsch.de/posts/breaking-up-with-google-play/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/i...*
-  📅 Sat, 26 Sep 2026 10:55:56 +0000
+- **[Drawgent: Coding agent on a live Excalidraw canvas](https://tangled.org/yanndegat.tngl.sh/drawgent)**
+  *<p>Article URL: <a href="https://tangled.org/yanndegat.tngl.sh/drawgent">https://tangled.org/yanndegat.tngl.sh/drawgent</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49857729"...*
+  📅 Sat, 26 Sep 2026 15:56:34 +0000
 
-- **[One Month Without AI](https://blog.bustikiller.com/2026/09/25/one-month-without-ai.html)**
-  *<p>Article URL: <a href="https://blog.bustikiller.com/2026/09/25/one-month-without-ai.html">https://blog.bustikiller.com/2026/09/25/one-month-without-ai.html</a></p>
-<p>Comments URL: <a href="https://...*
-  📅 Sat, 26 Sep 2026 10:08:21 +0000
+- **[Banks and Credit Unions to Team Up Against Apple Pay Fees](https://www.macrumors.com/2026/09/25/apple-pay-antitrust-lawsuit-advances/)**
+  *<p>Article URL: <a href="https://www.macrumors.com/2026/09/25/apple-pay-antitrust-lawsuit-advances/">https://www.macrumors.com/2026/09/25/apple-pay-antitrust-lawsuit-advances/</a></p>
+<p>Comments URL:...*
+  📅 Sat, 26 Sep 2026 15:48:18 +0000
 
-- **[The Copilot+ PC brand is dead](https://www.windowscentral.com/microsoft/windows-11/the-copilot-pc-brand-is-dead-microsoft-and-pc-makers-quietly-pull-back-on-tarnished-windows-11-ai-pc-branding)**
-  *<p>Article URL: <a href="https://www.windowscentral.com/microsoft/windows-11/the-copilot-pc-brand-is-dead-microsoft-and-pc-makers-quietly-pull-back-on-tarnished-windows-11-ai-pc-branding">https://www....*
-  📅 Sat, 26 Sep 2026 09:55:38 +0000
+- **[Automattic has a new board after failed attempt to put CEO on leave](https://techcrunch.com/2026/09/25/automattic-has-a-new-board-after-failed-attempt-to-put-ceo-on-leave/)**
+  *<p>Article URL: <a href="https://techcrunch.com/2026/09/25/automattic-has-a-new-board-after-failed-attempt-to-put-ceo-on-leave/">https://techcrunch.com/2026/09/25/automattic-has-a-new-board-after-fail...*
+  📅 Sat, 26 Sep 2026 15:40:27 +0000
 
 ### 📑 TechCrunch
+
+- **[Meta and YouTube say they will run ads for ‘Musk’ documentary after all](https://techcrunch.com/2026/09/26/meta-says-it-will-run-ads-for-musk-documentary-after-all/)**
+  *Two companies now say they will accept advertising for director Alex Gibney’s upcoming documentary about Elon Musk, following earlier reporting that a number of social media platforms had rejected the...*
+  📅 Sat, 26 Sep 2026 17:44:00 +0000
+
+- **[Levoit’s new air purifier is for the pet odors that have taken over your apartment](https://techcrunch.com/2026/09/26/levoits-new-air-purifier-is-for-the-pet-odors-that-have-taken-over-your-apartment/)**
+  *This $189.99 air purifier is specifically designed to tackle pet odors, removing up to 70% in one hour....*
+  📅 Sat, 26 Sep 2026 17:00:00 +0000
 
 - **[I created an interactive digital avatar of myself — and you can talk to it](https://techcrunch.com/2026/09/26/i-created-an-interactive-digital-avatar-of-myself-and-you-can-talk-to-it/)**
   *After obtaining an interactive avatar and training it to discuss venture fraud, I have mixed feelings about making AI clones of ourselves....*
@@ -92,32 +100,19 @@
   *After days of upheaval at Automattic, following a failed attempt to remove CEO Matt Mullenweg, the company has a new board....*
   📅 Fri, 25 Sep 2026 23:04:34 +0000
 
-- **[Unsecured OpenAI agents posted 53 user images on the internet without the lab’s knowledge](https://techcrunch.com/2026/09/25/unsecured-openai-agents-posted-53-user-images-on-the-internet-without-the-labs-knowledge/)**
-  *AI agents operating in OpenAI's research environment posted user images on public image-hosting sites without the lab's knowledge....*
-  📅 Fri, 25 Sep 2026 22:20:47 +0000
-
-- **[Meta opens early access program for new Muse features](https://techcrunch.com/2026/09/25/meta-opens-early-access-program-for-new-muse-features/)**
-  *Anyone interested in joining has to ask Muse to put them on the list....*
-  📅 Fri, 25 Sep 2026 20:34:53 +0000
-
 ### 📑 Dev.to
 
-- **[I Built a Telegram AI Agent That Can Actually Use Tools O.O](https://dev.to/hexzonetwork/i-built-a-telegram-ai-agent-that-can-actually-use-tools-oo-2cgc)**
-  *<p>I've been building <strong>Hexzie (HexTelegram)</strong> a Telegram-based AI assistant that goes beyond just sending text back and forth.</p>
+- **[Monitor your robots.txt and sitemap for accidental changes](https://dev.to/daniel_root_5c360ddb87563/monitor-your-robotstxt-and-sitemap-for-accidental-changes-45ac)**
+  *<p>Two SEO accidents come up again and again:</p>
 
-<p>The idea was simple:</p>
+<ol>
+<li>A staging <code>robots.txt</code> with <code>Disallow: /</code> gets deployed to production.</li>
+<li>A migration or plugin update changes t...*
+  📅 Sat, 26 Sep 2026 20:21:15 +0000
 
-<blockquote>
-<p>What if a...*
-  📅 Sat, 26 Sep 2026 15:17:03 +0000
-
-- **[I Thought a Calendar Was Just a 7-Column Grid Until I Started Building One](https://dev.to/karecohen/i-thought-a-calendar-was-just-a-7-column-grid-until-i-started-building-one-5chi)**
-  *<p>A calendar looks like one of the simplest interfaces on the web.</p>
-
-<p>Seven columns. A few rows. Some numbers. Maybe a previous and next button.</p>
-
-<p>That was roughly how I thought about cale...*
-  📅 Sat, 26 Sep 2026 15:16:01 +0000
+- **[How to get notified when a web page changes (without writing a scraper)](https://dev.to/daniel_root_5c360ddb87563/how-to-get-notified-when-a-web-page-changes-without-writing-a-scraper-531c)**
+  *<p>You want to know when a page changes: a "registration opens soon" notice, a competitor's pricing table, a changelog with no RSS, a government page that says "updates will be posted here". Most guid...*
+  📅 Sat, 26 Sep 2026 20:21:11 +0000
 
 </details>
 
@@ -125,103 +120,103 @@
 
 ### 📈 Daily Trending
 
+- **[feitangyuan/onetake](https://github.com/feitangyuan/onetake)** ⭐ 168
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  Motion films that never cut to the next slide: every beat grows out of the one before, one continuous camera, continuity measured by an oracle. A Claude Agent Skill for product launch films and feature demos.
+
 - **[Roberto02800/turnstile-token](https://github.com/Roberto02800/turnstile-token)** ⭐ 143
   ![Python](https://img.shields.io/badge/-Python-blue)
   A small Python CLI and library for Cloudflare Turnstile token - discover the sitekey, create a cf-turnstile-response token, and replay the browser identity
 
-- **[feitangyuan/onetake](https://github.com/feitangyuan/onetake)** ⭐ 93
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  Motion films that never cut to the next slide: every beat grows out of the one before, one continuous camera, continuity measured by an oracle. A Claude Agent Skill for product launch films and feature demos.
+- **[Rieranthony/product-film-skill](https://github.com/Rieranthony/product-film-skill)** ⭐ 123
+  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
+  None
 
-- **[ZacharyZhang-NY/OmaPhoto](https://github.com/ZacharyZhang-NY/OmaPhoto)** ⭐ 91
-  ![C++](https://img.shields.io/badge/-C++-pink)
-  Layered image editor for Linux and Omarchy, a port of Compositor
-
-- **[jaydendavisnc/inkwave](https://github.com/jaydendavisnc/inkwave)** ⭐ 66
+- **[jaydendavisnc/inkwave](https://github.com/jaydendavisnc/inkwave)** ⭐ 120
   ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
   Splatoon-style 4v4 turf-war shooter for the browser, built on three.js. No build step.
 
-- **[JoinArtisanVent/x-scraper-no-api](https://github.com/JoinArtisanVent/x-scraper-no-api)** ⭐ 62
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
-  Free, self-hosted X (Twitter) scraper no API key, no credits. Uses your own browser session via Playwright. Export tweets, search results & timelines as LLM-ready JSON/CSV/Markdown. Ships an AI agent Skill for OpenClaw & Hermes.
+- **[ZacharyZhang-NY/OmaPhoto](https://github.com/ZacharyZhang-NY/OmaPhoto)** ⭐ 108
+  ![C++](https://img.shields.io/badge/-C++-pink)
+  Layered image editor for Linux and Omarchy, a port of Compositor
 
-- **[breakstageaxe61/genspark-claw](https://github.com/breakstageaxe61/genspark-claw)** ⭐ 59
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
-  🦀⚡ Community skill pack & CLI for Genspark Claw, OpenClaw & Hermes agents — 5 production-ready SKILL.md skills (deep research, reports, slides, browser automation, AI call prep), zero-dependency Node.js installer, MCP server, one-line install
-
-- **[graygnatconsole/mcp-audit-tool](https://github.com/graygnatconsole/mcp-audit-tool)** ⭐ 59
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  🛡️ Security audit CLI for Model Context Protocol (MCP) servers — scan AI agent configs for tool poisoning, rug pulls, hardcoded secrets, command injection & supply-chain risks. Pure Python, SARIF + CI ready.
-
-- **[lemomo-ai/lemo-opuscar](https://github.com/lemomo-ai/lemo-opuscar)** ⭐ 36
+- **[lemomo-ai/lemo-opuscar](https://github.com/lemomo-ai/lemo-opuscar)** ⭐ 81
   ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
   39 film styles, each a reusable style prompt plus a short film made entirely in code by Claude Opus 5.5. Pick a style, bring your own story, and let your agent direct. | Opus5.5 x 39 种影片风格：风格提示词 + 纯代码样片 + 导演与技术指南
 
+- **[JoinArtisanVent/x-scraper-no-api](https://github.com/JoinArtisanVent/x-scraper-no-api)** ⭐ 71
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
+  Free, self-hosted X (Twitter) scraper no API key, no credits. Uses your own browser session via Playwright. Export tweets, search results & timelines as LLM-ready JSON/CSV/Markdown. Ships an AI agent Skill for OpenClaw & Hermes.
+
+- **[graygnatconsole/mcp-audit-tool](https://github.com/graygnatconsole/mcp-audit-tool)** ⭐ 68
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  🛡️ Security audit CLI for Model Context Protocol (MCP) servers — scan AI agent configs for tool poisoning, rug pulls, hardcoded secrets, command injection & supply-chain risks. Pure Python, SARIF + CI ready.
+
 ### 📈 Weekly Trending
 
-- **[zai-org/ZCode](https://github.com/zai-org/ZCode)** ⭐ 6,820
+- **[zai-org/ZCode](https://github.com/zai-org/ZCode)** ⭐ 6,828
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   Z.ai's coding agent harness. Powerful, intelligent, extensible.
 
-- **[jev-chat/jev-chat-jarvis](https://github.com/jev-chat/jev-chat-jarvis)** ⭐ 6,640
+- **[jev-chat/jev-chat-jarvis](https://github.com/jev-chat/jev-chat-jarvis)** ⭐ 6,667
   ![Kotlin](https://img.shields.io/badge/-Kotlin-lightgrey)
   装在手机上的对话副驾：在 QQ / X / 飞书里读懂对方、给出候选回复、一键填入输入框，发不发由你。非侵入，只读屏幕，不 hook 不改包。
 
-- **[driceroland/Search](https://github.com/driceroland/Search)** ⭐ 2,036
+- **[driceroland/Search](https://github.com/driceroland/Search)** ⭐ 2,090
   ![Swift](https://img.shields.io/badge/-Swift-lightgrey)
   A small, fast WebKit browser for macOS, by Office Commun.
 
-- **[unreallabsai/unreal-agent](https://github.com/unreallabsai/unreal-agent)** ⭐ 1,956
+- **[unreallabsai/unreal-agent](https://github.com/unreallabsai/unreal-agent)** ⭐ 1,962
   ![Go](https://img.shields.io/badge/-Go-cyan)
   Async-first agent harness
 
-- **[Contrastive-LM/CLM](https://github.com/Contrastive-LM/CLM)** ⭐ 1,443
+- **[Contrastive-LM/CLM](https://github.com/Contrastive-LM/CLM)** ⭐ 1,526
   ![Python](https://img.shields.io/badge/-Python-blue)
   None
 
-- **[tobi/disktree](https://github.com/tobi/disktree)** ⭐ 1,166
+- **[tobi/disktree](https://github.com/tobi/disktree)** ⭐ 1,251
   ![Rust](https://img.shields.io/badge/-Rust-brown)
   A treemap for finding and removing what fills your disk, for Omarchy. Rust + GPUI.
 
-- **[deepopen-com/deepopen](https://github.com/deepopen-com/deepopen)** ⭐ 1,030
+- **[deepopen-com/deepopen](https://github.com/deepopen-com/deepopen)** ⭐ 1,035
   ![Python](https://img.shields.io/badge/-Python-blue)
   非自回归System 1决策引擎，专为结构化类型决策场景设计  DeepOpen Multilingual, non-autoregressive System 1 decision engine. 
 
-- **[JohnHeibel/PDoomVideo](https://github.com/JohnHeibel/PDoomVideo)** ⭐ 993
+- **[JohnHeibel/PDoomVideo](https://github.com/JohnHeibel/PDoomVideo)** ⭐ 1,029
   ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
   Source code for the Claude Opus 5.5 music video for I'm Upping My P(doom)
 
 ### 📈 Monthly Trending
 
-- **[NandhaKishorM/laya](https://github.com/NandhaKishorM/laya)** ⭐ 25,459
+- **[NandhaKishorM/laya](https://github.com/NandhaKishorM/laya)** ⭐ 25,700
   ![Python](https://img.shields.io/badge/-Python-blue)
   Non-autoregressive System 1 decision engine. Typed choice, score and yes/no decisions over any text in a single forward pass, in 100+ languages, with a router that picks the right checkpoint per request.
 
-- **[browser-use/jev-ultrafast](https://github.com/browser-use/jev-ultrafast)** ⭐ 20,451
+- **[browser-use/jev-ultrafast](https://github.com/browser-use/jev-ultrafast)** ⭐ 20,520
   ![Python](https://img.shields.io/badge/-Python-blue)
   Fastest and cheapest web agent
 
-- **[eternity4719/HowToLiveBetter](https://github.com/eternity4719/HowToLiveBetter)** ⭐ 17,750
+- **[eternity4719/HowToLiveBetter](https://github.com/eternity4719/HowToLiveBetter)** ⭐ 18,142
   ![HTML](https://img.shields.io/badge/-HTML-lightgrey)
   按性价比排序的循证生活指南：长寿防病、急救、省钱理财、法律红线、失业与工伤、医保社保、恋爱婚育、怀孕育儿、创业与做平台合规、出国与技能。每条写明成本、收益、证据等级和原始出处，只引期刊论文与官方文件。
 
-- **[lnkiai/m3e-canvas](https://github.com/lnkiai/m3e-canvas)** ⭐ 8,277
+- **[lnkiai/m3e-canvas](https://github.com/lnkiai/m3e-canvas)** ⭐ 8,283
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   Sketch Material 3 Expressive screens in the browser and turn them into vibe-coding prompts.
 
-- **[jaredpalmer/kev](https://github.com/jaredpalmer/kev)** ⭐ 7,151
+- **[jaredpalmer/kev](https://github.com/jaredpalmer/kev)** ⭐ 7,190
   ![Python](https://img.shields.io/badge/-Python-blue)
   Jev-like family of decision models built on top of Qwen3.5/3.8 you can train and run on your own
 
-- **[tamaratran/fast-jev-compaction](https://github.com/tamaratran/fast-jev-compaction)** ⭐ 6,928
+- **[tamaratran/fast-jev-compaction](https://github.com/tamaratran/fast-jev-compaction)** ⭐ 6,953
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   Claude Code plugin that replaces the compaction summary with Jev decisions: every tool call and result is scored in one fast request, stale ones are dropped or truncated, everything kept stays verbatim.
 
-- **[zai-org/ZCode](https://github.com/zai-org/ZCode)** ⭐ 6,820
+- **[zai-org/ZCode](https://github.com/zai-org/ZCode)** ⭐ 6,828
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   Z.ai's coding agent harness. Powerful, intelligent, extensible.
 
-- **[rakanki911/DLSS5-Swapper](https://github.com/rakanki911/DLSS5-Swapper)** ⭐ 6,806
+- **[rakanki911/DLSS5-Swapper](https://github.com/rakanki911/DLSS5-Swapper)** ⭐ 6,823
   ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
   Install, tune and restore DLSS 5 in your games with one click. Native RenoDX, DLSS5-Feeder for games without DLSS, OptiScaler and multipass routes; DirectX 8/9/11/12, Vulkan, OpenGL, DirectDraw and emulators. In-game F8 overlay, automatic backups, and a community page showing what works on your games and your graphics card.
 
@@ -494,58 +489,58 @@ See [kubernetes-announce@](https://groups.google.com/forum/#!forum/kubernetes-an
 | Skill | Status |
 |-------|--------|
 | Java | 🔴 Beginner |
-| Python | 🔴 Beginner |
+| Python | 🟡 Learning |
 | JavaScript | 🟡 Learning |
-| TypeScript | ⚪ Planned |
-| Go | 🟡 Learning |
+| TypeScript | 🔴 Beginner |
+| Go | ⚪ Planned |
 
 ### Frameworks
 
 | Skill | Status |
 |-------|--------|
 | React | ⚪ Planned |
-| Spring Boot | 🟡 Learning |
-| Django | 🟢 Proficient |
-| Node.js | 🟡 Learning |
-| Next.js | 🟢 Proficient |
+| Spring Boot | 🔴 Beginner |
+| Django | ⚪ Planned |
+| Node.js | ⚪ Planned |
+| Next.js | 🔴 Beginner |
 
 ### Cybersecurity
 
 | Skill | Status |
 |-------|--------|
-| Penetration Testing | ⚪ Planned |
-| Web Security | ⚪ Planned |
-| Network Security | 🟢 Proficient |
-| OWASP | 🟢 Proficient |
+| Penetration Testing | 🟢 Proficient |
+| Web Security | 🔴 Beginner |
+| Network Security | ⚪ Planned |
+| OWASP | ⚪ Planned |
 
 ### Ai Ml
 
 | Skill | Status |
 |-------|--------|
-| Machine Learning | 🟡 Learning |
-| Deep Learning | ⚪ Planned |
-| NLP | ⚪ Planned |
-| Computer Vision | 🟢 Proficient |
-| TensorFlow | 🟡 Learning |
-| PyTorch | 🔴 Beginner |
+| Machine Learning | 🔴 Beginner |
+| Deep Learning | 🔴 Beginner |
+| NLP | 🟢 Proficient |
+| Computer Vision | 🟡 Learning |
+| TensorFlow | ⚪ Planned |
+| PyTorch | 🟡 Learning |
 
 ### Devops
 
 | Skill | Status |
 |-------|--------|
-| Docker | 🔴 Beginner |
+| Docker | 🟢 Proficient |
 | Kubernetes | 🟡 Learning |
 | CI/CD | 🟡 Learning |
-| AWS | 🟢 Proficient |
-| Azure | 🟢 Proficient |
+| AWS | ⚪ Planned |
+| Azure | 🟡 Learning |
 
 ### Other
 
 | Skill | Status |
 |-------|--------|
-| Blockchain | 🟡 Learning |
-| Web3 | 🔴 Beginner |
-| Cloud Computing | 🔴 Beginner |
+| Blockchain | 🔴 Beginner |
+| Web3 | 🟡 Learning |
+| Cloud Computing | ⚪ Planned |
 
 </details>
 
