@@ -20,7 +20,7 @@
 | Metric | Count |
 |--------|-------|
 | 📰 Latest News Articles | 26 |
-| 🔥 Trending Repositories | 0 |
+| 🔥 Trending Repositories | 45 |
 | 🎯 Latest Releases | 10 |
 | 🎯 Learning Goals | 4 |
 
@@ -46,36 +46,45 @@
 
 ### 📑 Hacker News
 
-- **["As a Language Model": Chat Template Switches LLM Self-Referential Voice](https://arxiv.org/abs/2609.25021)**
-  *<p>Article URL: <a href="https://arxiv.org/abs/2609.25021">https://arxiv.org/abs/2609.25021</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49865343">https://news.ycombinator.co...*
-  📅 Sun, 27 Sep 2026 10:26:25 +0000
+- **[postmarketOS Rebrand: Nura](https://nura.eco/blog/2026/09/27/nura-rename/)**
+  *<p>Article URL: <a href="https://nura.eco/blog/2026/09/27/nura-rename/">https://nura.eco/blog/2026/09/27/nura-rename/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49867553">h...*
+  📅 Sun, 27 Sep 2026 15:31:15 +0000
 
-- **[Show HN: LightCloud – A cloud console organised like file system](https://www.light-cloud.com/)**
-  *<p>Hi HN, Light Cloud is a hosting platform where the unit of organisation is a folder. A folder holds everything project needs: frontend, API, database, env variables, preview per branch.</p>
-<hr />
-...*
-  📅 Sun, 27 Sep 2026 09:45:15 +0000
+- **[The Normalization of Inexplicable Failures](https://www.ihatethefuture.com/2026/09/the-normalization-of-inexplicable.html)**
+  *<p>Article URL: <a href="https://www.ihatethefuture.com/2026/09/the-normalization-of-inexplicable.html">https://www.ihatethefuture.com/2026/09/the-normalization-of-inexplicable.html</a></p>
+<p>Comment...*
+  📅 Sun, 27 Sep 2026 15:26:40 +0000
 
-- **[Meta Blocks President Lula's Facebook Page, Campaign Ads 2 Weeks from Election](https://www.reddit.com/r/worldnews/comments/1wr3id3/meta_blocks_president_lulas_facebook_page_and/)**
-  *<p>Article URL: <a href="https://www.reddit.com/r/worldnews/comments/1wr3id3/meta_blocks_president_lulas_facebook_page_and/">https://www.reddit.com/r/worldnews/comments/1wr3id3/meta_blocks_president_l...*
-  📅 Sun, 27 Sep 2026 08:44:04 +0000
+- **["They had no concept of a duty of care to their users."](https://unsung.aresluna.org/they-had-no-concept-of-a-duty-of-care-to-their-users/)**
+  *<p>Article URL: <a href="https://unsung.aresluna.org/they-had-no-concept-of-a-duty-of-care-to-their-users/">https://unsung.aresluna.org/they-had-no-concept-of-a-duty-of-care-to-their-users/</a></p>
+<p...*
+  📅 Sun, 27 Sep 2026 14:45:07 +0000
 
-- **[OpenAI Feared "Optics" of what might appear on Hacker News](https://authorsguild.org/news/ag-v-openai-top-execs-knew-mass-book-piracy-was-illegal/)**
-  *<p>Article URL: <a href="https://authorsguild.org/news/ag-v-openai-top-execs-knew-mass-book-piracy-was-illegal/">https://authorsguild.org/news/ag-v-openai-top-execs-knew-mass-book-piracy-was-illegal/<...*
-  📅 Sun, 27 Sep 2026 06:19:33 +0000
+- **[10 Tells of a Slop UI](https://hereticpleb.vercel.app/blog/10-tells-of-slop)**
+  *<p>Article URL: <a href="https://hereticpleb.vercel.app/blog/10-tells-of-slop">https://hereticpleb.vercel.app/blog/10-tells-of-slop</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?...*
+  📅 Sun, 27 Sep 2026 14:41:26 +0000
 
-- **[The internet discovers TLA+. Now what?](https://reasonable.io/blog/tla-tutorial/)**
-  *<p>Article URL: <a href="https://reasonable.io/blog/tla-tutorial/">https://reasonable.io/blog/tla-tutorial/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49863600">https://new...*
-  📅 Sun, 27 Sep 2026 05:26:15 +0000
+- **[In an $80 Motel Room, a Discovery to Shed Light on the Origins of Life](https://www.nytimes.com/2026/09/26/science/motel-science-discovery.html)**
+  *<p>Article URL: <a href="https://www.nytimes.com/2026/09/26/science/motel-science-discovery.html">https://www.nytimes.com/2026/09/26/science/motel-science-discovery.html</a></p>
+<p>Comments URL: <a hr...*
+  📅 Sun, 27 Sep 2026 14:30:55 +0000
 
-- **[What is the size of Yemen? (2024)](https://theborys.substack.com/p/what-is-the-size-of-yemen)**
-  *<p>Article URL: <a href="https://theborys.substack.com/p/what-is-the-size-of-yemen">https://theborys.substack.com/p/what-is-the-size-of-yemen</a></p>
-<p>Comments URL: <a href="https://news.ycombinator...*
-  📅 Sun, 27 Sep 2026 02:40:26 +0000
+- **[Ten Lines of Code That Changed My World](https://pixelambacht.nl/2026/ten-lines-of-code/)**
+  *<p>Article URL: <a href="https://pixelambacht.nl/2026/ten-lines-of-code/">https://pixelambacht.nl/2026/ten-lines-of-code/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=4986653...*
+  📅 Sun, 27 Sep 2026 13:33:03 +0000
 
 ### 📑 TechCrunch
+
+- **[TechCrunch Mobility: AV companies pick their lanes](https://techcrunch.com/2026/09/27/techcrunch-mobility-av-companies-pick-their-lanes/)**
+  *Welcome back to TechCrunch Mobility, your hub for the future of transportation and now, more than ever, the role AI is playing in it....*
+  📅 Sun, 27 Sep 2026 16:02:00 +0000
+
+- **[Sennheiser Momentum 5 review: Great sound, incredible battery life, and few compromises](https://techcrunch.com/2026/09/27/sennheiser-momentum-5-review-great-sound-incredible-battery-life-and-few-compromises/)**
+  *I spent the last few weeks with the Sennheiser Momentum 5 to determine if this pair actually stands out, testing everything from sound quality and noise cancellation to comfort and battery life....*
+  📅 Sun, 27 Sep 2026 15:00:00 +0000
 
 - **[PNOE’s new face mask wants to make lab-grade breath testing a self-serve affair](https://techcrunch.com/2026/09/26/pnoes-new-face-mask-wants-to-make-lab-grade-breath-testing-a-self-serve-affair/)**
   *PNOĒ, the Malden, Mass.-based startup whose breath-analyzing mask used to bear an unfortunate resemblance to Bane's, is launching a sleeker self-serve version on October 1 that lets gym-goers measure ...*
@@ -93,27 +102,125 @@
   *TikTok will pay Alabama at least $100 million in a settlement tied to allegations that the short-form video platform misled users about safety and was designed to addict children....*
   📅 Sat, 26 Sep 2026 20:24:45 +0000
 
-- **[Meta and YouTube say they will run ads for ‘Musk’ documentary after all](https://techcrunch.com/2026/09/26/meta-says-it-will-run-ads-for-musk-documentary-after-all/)**
-  *Two companies now say they will accept advertising for director Alex Gibney’s upcoming documentary about Elon Musk, following earlier reporting that a number of social media platforms had rejected the...*
-  📅 Sat, 26 Sep 2026 17:44:00 +0000
-
-- **[Levoit’s new air purifier is for the pet odors that have taken over your apartment](https://techcrunch.com/2026/09/26/levoits-new-air-purifier-is-for-the-pet-odors-that-have-taken-over-your-apartment/)**
-  *This $189.99 air purifier is specifically designed to tackle pet odors, removing up to 70% in one hour....*
-  📅 Sat, 26 Sep 2026 17:00:00 +0000
-
 ### 📑 Dev.to
 
-- **[When Cheap isn't cheap anymore.](https://dev.to/suprie_32/when-cheap-isnt-cheap-anymore-1o36)**
-  *<p>During my time in my previous company, I've learned a lot, but here are two: (1) New APIs aren't always the right fit - diffable data source is great for partial updates, not full replacements. (2)...*
-  📅 Sun, 27 Sep 2026 10:53:24 +0000
+- **[What my blind brother taught me about making a shopping search engine work with VoiceOver](https://dev.to/ohadfarkash/what-my-blind-brother-taught-me-about-making-a-shopping-search-engine-work-with-voiceover-1npe)**
+  *<p>My brother is blind. When I asked him to try the shopping search engine I'd been building, <a href="https://onefindme.com/accessibility/" rel="noopener noreferrer">OneFindMe</a>, with VoiceOver on ...*
+  📅 Sun, 27 Sep 2026 16:01:59 +0000
 
-- **[I Put an AI Assistant on a Mini PC at Home](https://dev.to/layton/i-put-an-ai-assistant-on-a-mini-pc-at-home-57o9)**
-  *<p><a class="article-body-image-wrapper" href="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws...*
-  📅 Sun, 27 Sep 2026 10:52:54 +0000
+- **[JavaScript Parameters, Arguments, Default & Rest Parameters](https://dev.to/megalraja/javascript-parameters-arguments-default-rest-parameters-1a0b)**
+  *<p>When I started learning JavaScript functions, I kept mixing up parameters and arguments. Then I came across default and rest parameters.</p>
+
+<p>Here’s how I understand them now.</p>
+
+<p><strong>1....*
+  📅 Sun, 27 Sep 2026 16:01:11 +0000
 
 </details>
 
 ## 🔥 Trending Repositories
+
+### 📈 Daily Trending
+
+- **[yihui-dev/awesome-opus5-5-videos](https://github.com/yihui-dev/awesome-opus5-5-videos)** ⭐ 216
+  ![None](https://img.shields.io/badge/-None-lightgrey)
+  282 viral videos made with Claude Opus 5.5, each with the exact prompt. Watch every original next to a live remake on Skillry.
+
+- **[xikhar/spiderbench](https://github.com/xikhar/spiderbench)** ⭐ 136
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
+  None
+
+- **[yasinozmeen/animasyon-stil-katalogu](https://github.com/yasinozmeen/animasyon-stil-katalogu)** ⭐ 60
+  ![HTML](https://img.shields.io/badge/-HTML-lightgrey)
+  irticalen videoları için 20 animasyon tarzı: her biri kendi kısa filmiyle. Tarzı README'den seç.
+
+- **[joeseesun/opus-video-prompts](https://github.com/joeseesun/opus-video-prompts)** ⭐ 53
+  ![None](https://img.shields.io/badge/-None-lightgrey)
+  Claude Opus 5.5 用代码生成视频：全网案例与可直接复制的提示词 | Copy-ready prompts & 54 cases of Opus 5.5 code-rendered videos
+
+- **[TwoSevenOneT/InjectSetConsole](https://github.com/TwoSevenOneT/InjectSetConsole)** ⭐ 34
+  ![C++](https://img.shields.io/badge/-C++-pink)
+  Proof of Concept for Process Code Injection Without Using WriteProcessMemory
+
+- **[zhameersheraz/ph-stocks](https://github.com/zhameersheraz/ph-stocks)** ⭐ 32
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  None
+
+- **[sauravgoel/autosreguard](https://github.com/sauravgoel/autosreguard)** ⭐ 30
+  ![Java](https://img.shields.io/badge/-Java-orange)
+  None
+
+- **[seialmonodkw/Flash-Loan-Arbitrage-Bot](https://github.com/seialmonodkw/Flash-Loan-Arbitrage-Bot)** ⭐ 30
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  MEV bot engineered to execute atomic cross-exchange flash loan arbitrage.
+
+### 📈 Weekly Trending
+
+- **[jev-chat/jev-chat-jarvis](https://github.com/jev-chat/jev-chat-jarvis)** ⭐ 6,767
+  ![Kotlin](https://img.shields.io/badge/-Kotlin-lightgrey)
+  装在手机上的对话副驾：在 QQ / X / 飞书里读懂对方、给出候选回复、一键填入输入框，发不发由你。非侵入，只读屏幕，不 hook 不改包。
+
+- **[unreallabsai/unreal-agent](https://github.com/unreallabsai/unreal-agent)** ⭐ 1,982
+  ![Go](https://img.shields.io/badge/-Go-cyan)
+  Async-first agent harness
+
+- **[Contrastive-LM/CLM](https://github.com/Contrastive-LM/CLM)** ⭐ 1,803
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  None
+
+- **[tobi/disktree](https://github.com/tobi/disktree)** ⭐ 1,508
+  ![Rust](https://img.shields.io/badge/-Rust-brown)
+  A treemap for finding and removing what fills your disk, for Omarchy. Rust + GPUI.
+
+- **[yetone/magpie](https://github.com/yetone/magpie)** ⭐ 1,209
+  ![Go](https://img.shields.io/badge/-Go-cyan)
+  Every agent's model. One place. Codex on DeepSeek, Claude Code on Kimi, from the menu bar.
+
+- **[JohnHeibel/PDoomVideo](https://github.com/JohnHeibel/PDoomVideo)** ⭐ 1,172
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
+  Source code for the Claude Opus 5.5 music video for I'm Upping My P(doom)
+
+- **[deepopen-com/deepopen](https://github.com/deepopen-com/deepopen)** ⭐ 1,044
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  非自回归System 1决策引擎，专为结构化类型决策场景设计  DeepOpen Multilingual, non-autoregressive System 1 decision engine. 
+
+- **[mikehasa/golive-skill](https://github.com/mikehasa/golive-skill)** ⭐ 998
+  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
+  Take your agent-built product live: hosting, database, domain, email, payments — on your own accounts. Open-source Agent Skill + zero-dependency Node CLI: detect → plan → approve → apply → verify. No GoLive account, backend or telemetry.
+
+### 📈 Monthly Trending
+
+- **[NandhaKishorM/laya](https://github.com/NandhaKishorM/laya)** ⭐ 26,471
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  Non-autoregressive System 1 decision engine. Typed choice, score and yes/no decisions over any text in a single forward pass, in 100+ languages, with a router that picks the right checkpoint per request.
+
+- **[browser-use/jev-ultrafast](https://github.com/browser-use/jev-ultrafast)** ⭐ 20,747
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  Fastest and cheapest web agent
+
+- **[eternity4719/HowToLiveBetter](https://github.com/eternity4719/HowToLiveBetter)** ⭐ 20,254
+  ![HTML](https://img.shields.io/badge/-HTML-lightgrey)
+  按性价比排序的循证生活指南：长寿防病、急救、省钱理财、法律红线、失业与工伤、医保社保、恋爱婚育、怀孕育儿、创业与做平台合规、出国与技能。每条写明成本、收益、证据等级和原始出处，只引期刊论文与官方文件。
+
+- **[lnkiai/m3e-canvas](https://github.com/lnkiai/m3e-canvas)** ⭐ 8,340
+  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
+  Sketch Material 3 Expressive screens in the browser and turn them into vibe-coding prompts.
+
+- **[jaredpalmer/kev](https://github.com/jaredpalmer/kev)** ⭐ 7,361
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  Jev-like family of decision models built on top of Qwen3.5/3.8 you can train and run on your own
+
+- **[tamaratran/fast-jev-compaction](https://github.com/tamaratran/fast-jev-compaction)** ⭐ 7,005
+  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
+  Claude Code plugin that replaces the compaction summary with Jev decisions: every tool call and result is scored in one fast request, stale ones are dropped or truncated, everything kept stays verbatim.
+
+- **[rakanki911/DLSS5-Swapper](https://github.com/rakanki911/DLSS5-Swapper)** ⭐ 6,938
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
+  Install, tune and restore DLSS 5 in your games with one click. Native RenoDX, DLSS5-Feeder for games without DLSS, OptiScaler and multipass routes; DirectX 8/9/11/12, Vulkan, OpenGL, DirectDraw and emulators. In-game F8 overlay, automatic backups, and a community page showing what works on your games and your graphics card.
+
+- **[zai-org/ZCode](https://github.com/zai-org/ZCode)** ⭐ 6,885
+  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
+  Z.ai's coding agent harness. Powerful, intelligent, extensible.
 
 ## 🚀 Latest Releases
 
@@ -383,29 +490,29 @@ See [kubernetes-announce@](https://groups.google.com/forum/#!forum/kubernetes-an
 
 | Skill | Status |
 |-------|--------|
-| Java | 🟡 Learning |
-| Python | 🔴 Beginner |
-| JavaScript | ⚪ Planned |
+| Java | 🔴 Beginner |
+| Python | 🟢 Proficient |
+| JavaScript | 🟡 Learning |
 | TypeScript | 🔴 Beginner |
-| Go | 🟢 Proficient |
+| Go | 🔴 Beginner |
 
 ### Frameworks
 
 | Skill | Status |
 |-------|--------|
 | React | 🔴 Beginner |
-| Spring Boot | 🟡 Learning |
+| Spring Boot | 🔴 Beginner |
 | Django | 🟢 Proficient |
 | Node.js | 🟢 Proficient |
-| Next.js | 🟡 Learning |
+| Next.js | ⚪ Planned |
 
 ### Cybersecurity
 
 | Skill | Status |
 |-------|--------|
 | Penetration Testing | 🔴 Beginner |
-| Web Security | 🔴 Beginner |
-| Network Security | 🔴 Beginner |
+| Web Security | 🟡 Learning |
+| Network Security | ⚪ Planned |
 | OWASP | 🟢 Proficient |
 
 ### Ai Ml
@@ -413,29 +520,29 @@ See [kubernetes-announce@](https://groups.google.com/forum/#!forum/kubernetes-an
 | Skill | Status |
 |-------|--------|
 | Machine Learning | 🔴 Beginner |
-| Deep Learning | 🔴 Beginner |
-| NLP | 🟡 Learning |
-| Computer Vision | 🟢 Proficient |
+| Deep Learning | 🟡 Learning |
+| NLP | ⚪ Planned |
+| Computer Vision | ⚪ Planned |
 | TensorFlow | 🟢 Proficient |
-| PyTorch | 🟢 Proficient |
+| PyTorch | 🟡 Learning |
 
 ### Devops
 
 | Skill | Status |
 |-------|--------|
-| Docker | 🔴 Beginner |
-| Kubernetes | 🟡 Learning |
-| CI/CD | 🟢 Proficient |
-| AWS | 🟡 Learning |
-| Azure | 🟡 Learning |
+| Docker | 🟢 Proficient |
+| Kubernetes | ⚪ Planned |
+| CI/CD | ⚪ Planned |
+| AWS | 🔴 Beginner |
+| Azure | 🟢 Proficient |
 
 ### Other
 
 | Skill | Status |
 |-------|--------|
 | Blockchain | ⚪ Planned |
-| Web3 | 🟡 Learning |
-| Cloud Computing | 🔴 Beginner |
+| Web3 | ⚪ Planned |
+| Cloud Computing | 🟡 Learning |
 
 </details>
 
