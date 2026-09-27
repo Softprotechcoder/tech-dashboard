@@ -46,37 +46,51 @@
 
 ### 📑 Hacker News
 
-- **[postmarketOS Rebrand: Nura](https://nura.eco/blog/2026/09/27/nura-rename/)**
-  *<p>Article URL: <a href="https://nura.eco/blog/2026/09/27/nura-rename/">https://nura.eco/blog/2026/09/27/nura-rename/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49867553">h...*
-  📅 Sun, 27 Sep 2026 15:31:15 +0000
+- **[Alan Kay's answer to "Did the ENIAC have a BIOS"?](https://www.quora.com/Did-the-ENIAC-have-a-BIOS/answer/Alan-Kay-11)**
+  *<p>Article URL: <a href="https://www.quora.com/Did-the-ENIAC-have-a-BIOS/answer/Alan-Kay-11">https://www.quora.com/Did-the-ENIAC-have-a-BIOS/answer/Alan-Kay-11</a></p>
+<p>Comments URL: <a href="https:...*
+  📅 Sun, 27 Sep 2026 19:37:05 +0000
 
-- **[The Normalization of Inexplicable Failures](https://www.ihatethefuture.com/2026/09/the-normalization-of-inexplicable.html)**
-  *<p>Article URL: <a href="https://www.ihatethefuture.com/2026/09/the-normalization-of-inexplicable.html">https://www.ihatethefuture.com/2026/09/the-normalization-of-inexplicable.html</a></p>
-<p>Comment...*
-  📅 Sun, 27 Sep 2026 15:26:40 +0000
+- **[Imp is a full port of DSPy to the BEAM](https://github.com/deepfates/imp)**
+  *<p><a href="https://hex.pm/packages/imp" rel="nofollow">https://hex.pm/packages/imp</a><p><a href="https://dspy.ai/current/" rel="nofollow">https://dspy.ai/current/</a></p>
+<hr />
+<p>Comments URL: <a ...*
+  📅 Sun, 27 Sep 2026 19:28:23 +0000
 
-- **["They had no concept of a duty of care to their users."](https://unsung.aresluna.org/they-had-no-concept-of-a-duty-of-care-to-their-users/)**
-  *<p>Article URL: <a href="https://unsung.aresluna.org/they-had-no-concept-of-a-duty-of-care-to-their-users/">https://unsung.aresluna.org/they-had-no-concept-of-a-duty-of-care-to-their-users/</a></p>
-<p...*
-  📅 Sun, 27 Sep 2026 14:45:07 +0000
+- **[Show HN: Lofi Cities – Pixel-art city nights with browser-generated lofi](https://loficities.com/)**
+  *<p>Article URL: <a href="https://loficities.com/">https://loficities.com/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49869574">https://news.ycombinator.com/item?id=49869574...*
+  📅 Sun, 27 Sep 2026 18:44:30 +0000
 
-- **[10 Tells of a Slop UI](https://hereticpleb.vercel.app/blog/10-tells-of-slop)**
-  *<p>Article URL: <a href="https://hereticpleb.vercel.app/blog/10-tells-of-slop">https://hereticpleb.vercel.app/blog/10-tells-of-slop</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?...*
-  📅 Sun, 27 Sep 2026 14:41:26 +0000
+- **[Oral history of John Chowning, inventor of FM synthesis [video]](https://www.youtube.com/watch?v=e1Xn3030IvM)**
+  *<p><a href="https://en.wikipedia.org/wiki/John_Chowning" rel="nofollow">https://en.wikipedia.org/wiki/John_Chowning</a></p>
+<hr />
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=498691...*
+  📅 Sun, 27 Sep 2026 18:02:43 +0000
 
-- **[In an $80 Motel Room, a Discovery to Shed Light on the Origins of Life](https://www.nytimes.com/2026/09/26/science/motel-science-discovery.html)**
-  *<p>Article URL: <a href="https://www.nytimes.com/2026/09/26/science/motel-science-discovery.html">https://www.nytimes.com/2026/09/26/science/motel-science-discovery.html</a></p>
-<p>Comments URL: <a hr...*
-  📅 Sun, 27 Sep 2026 14:30:55 +0000
+- **[Ember-1](https://fireworks.ai/blog/ember-1)**
+  *<p>Article URL: <a href="https://fireworks.ai/blog/ember-1">https://fireworks.ai/blog/ember-1</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49868830">https://news.ycombinator....*
+  📅 Sun, 27 Sep 2026 17:31:53 +0000
 
-- **[Ten Lines of Code That Changed My World](https://pixelambacht.nl/2026/ten-lines-of-code/)**
-  *<p>Article URL: <a href="https://pixelambacht.nl/2026/ten-lines-of-code/">https://pixelambacht.nl/2026/ten-lines-of-code/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=4986653...*
-  📅 Sun, 27 Sep 2026 13:33:03 +0000
+- **[Don't couple your Go code to GitHub](https://iain.rocks/blog/dont-couple-your-go-code-to-github)**
+  *<p>Article URL: <a href="https://iain.rocks/blog/dont-couple-your-go-code-to-github">https://iain.rocks/blog/dont-couple-your-go-code-to-github</a></p>
+<p>Comments URL: <a href="https://news.ycombinat...*
+  📅 Sun, 27 Sep 2026 16:50:58 +0000
 
 ### 📑 TechCrunch
+
+- **[Anthropic’s CEO is about to have dinner with President Trump](https://techcrunch.com/2026/09/27/anthropics-ceo-is-about-to-have-dinner-with-president-trump/)**
+  *This will be the first one-on-one meeting between Dario Amodei and Donald Trump...*
+  📅 Sun, 27 Sep 2026 20:34:28 +0000
+
+- **[Can Muse overcome Meta’s trust issues?](https://techcrunch.com/2026/09/27/can-muse-overcome-metas-trust-issues/)**
+  *On Equity, we discussed how Meta's AI announcement managed to steal the spotlight from OpenAI and Anthropic....*
+  📅 Sun, 27 Sep 2026 19:57:30 +0000
+
+- **[Anthropic’s Dario Amodei gets the SNL treatment](https://techcrunch.com/2026/09/27/anthropics-dario-amodei-gets-the-snl-treatment/)**
+  *"AI is the devil and I its maker."...*
+  📅 Sun, 27 Sep 2026 16:30:00 +0000
 
 - **[TechCrunch Mobility: AV companies pick their lanes](https://techcrunch.com/2026/09/27/techcrunch-mobility-av-companies-pick-their-lanes/)**
   *Welcome back to TechCrunch Mobility, your hub for the future of transportation and now, more than ever, the role AI is playing in it....*
@@ -90,31 +104,25 @@
   *PNOĒ, the Malden, Mass.-based startup whose breath-analyzing mask used to bear an unfortunate resemblance to Bane's, is launching a sleeker self-serve version on October 1 that lets gym-goers measure ...*
   📅 Sun, 27 Sep 2026 01:40:30 +0000
 
-- **[Google tests buying from Walmart-owned Flipkart through Gemini and AI Mode in India](https://techcrunch.com/2026/09/26/google-tests-buying-from-walmart-owned-flipkart-through-gemini-and-ai-mode-in-india/)**
-  *The limited test covers select products and users, with a broader rollout planned for later in October....*
-  📅 Sun, 27 Sep 2026 01:30:00 +0000
-
-- **[Insurers claim AI is already increasing healthcare costs](https://techcrunch.com/2026/09/26/insurers-claim-ai-is-already-increasing-healthcare-costs/)**
-  *Blue Cross Blue Shield says hospital use of AI tools led to an additional $942M in healthcare spending over a two-year period....*
-  📅 Sat, 26 Sep 2026 21:02:06 +0000
-
-- **[TikTok agrees to pay at least $100M in Alabama settlement](https://techcrunch.com/2026/09/26/tiktok-agrees-to-pay-at-least-100m-in-alabama-settlement/)**
-  *TikTok will pay Alabama at least $100 million in a settlement tied to allegations that the short-form video platform misled users about safety and was designed to addict children....*
-  📅 Sat, 26 Sep 2026 20:24:45 +0000
-
 ### 📑 Dev.to
 
-- **[What my blind brother taught me about making a shopping search engine work with VoiceOver](https://dev.to/ohadfarkash/what-my-blind-brother-taught-me-about-making-a-shopping-search-engine-work-with-voiceover-1npe)**
-  *<p>My brother is blind. When I asked him to try the shopping search engine I'd been building, <a href="https://onefindme.com/accessibility/" rel="noopener noreferrer">OneFindMe</a>, with VoiceOver on ...*
-  📅 Sun, 27 Sep 2026 16:01:59 +0000
+- **[I built a tool to see if people or ai agents were opening my links](https://dev.to/lemonlink/i-built-a-tool-to-see-if-people-or-ai-agents-were-opening-my-links-5hb2)**
+  *<p><a href="https://lemonlink.ai/Y_ffMGCk4I7TMCap" rel="noopener noreferrer">https://lemonlink.ai/Y_ffMGCk4I7TMCap</a></p>
 
-- **[JavaScript Parameters, Arguments, Default & Rest Parameters](https://dev.to/megalraja/javascript-parameters-arguments-default-rest-parameters-1a0b)**
-  *<p>When I started learning JavaScript functions, I kept mixing up parameters and arguments. Then I came across default and rest parameters.</p>
+<p>I kept sharing links, pitch decks, demos, articles, or videos and wonderi...*
+  📅 Sun, 27 Sep 2026 20:05:28 +0000
 
-<p>Here’s how I understand them now.</p>
+- **[Promise Is Not Payment: Verification Errors That Amount Accuracy Misses](https://dev.to/soccer_skillsfreestyle_5/promise-is-not-payment-verification-errors-that-amount-accuracy-misses-p0l)**
+  *<p><em>This is a submission for the <a href="https://dev.to/challenges/kaggle-2026-09-23">Kaggle Benchmarking Challenge</a>.</em></p>
 
-<p><strong>1....*
-  📅 Sun, 27 Sep 2026 16:01:11 +0000
+<h2>
+  
+  
+  What I Benchmarked
+</h2>
+
+<p>“I have paid” is a clai...*
+  📅 Sun, 27 Sep 2026 20:02:48 +0000
 
 </details>
 
@@ -122,103 +130,103 @@
 
 ### 📈 Daily Trending
 
-- **[yihui-dev/awesome-opus5-5-videos](https://github.com/yihui-dev/awesome-opus5-5-videos)** ⭐ 216
+- **[yihui-dev/awesome-opus5-5-videos](https://github.com/yihui-dev/awesome-opus5-5-videos)** ⭐ 274
   ![None](https://img.shields.io/badge/-None-lightgrey)
   282 viral videos made with Claude Opus 5.5, each with the exact prompt. Watch every original next to a live remake on Skillry.
 
-- **[xikhar/spiderbench](https://github.com/xikhar/spiderbench)** ⭐ 136
+- **[xikhar/spiderbench](https://github.com/xikhar/spiderbench)** ⭐ 205
   ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
   None
 
-- **[yasinozmeen/animasyon-stil-katalogu](https://github.com/yasinozmeen/animasyon-stil-katalogu)** ⭐ 60
+- **[yasinozmeen/animasyon-stil-katalogu](https://github.com/yasinozmeen/animasyon-stil-katalogu)** ⭐ 89
   ![HTML](https://img.shields.io/badge/-HTML-lightgrey)
   irticalen videoları için 20 animasyon tarzı: her biri kendi kısa filmiyle. Tarzı README'den seç.
 
-- **[joeseesun/opus-video-prompts](https://github.com/joeseesun/opus-video-prompts)** ⭐ 53
+- **[Appllama/liquid-glass-chat-ui](https://github.com/Appllama/liquid-glass-chat-ui)** ⭐ 65
+  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
+  Explore liquid-glass chat UIs with animated portraits, interactive stories, and floating composers.
+
+- **[joeseesun/opus-video-prompts](https://github.com/joeseesun/opus-video-prompts)** ⭐ 56
   ![None](https://img.shields.io/badge/-None-lightgrey)
   Claude Opus 5.5 用代码生成视频：全网案例与可直接复制的提示词 | Copy-ready prompts & 54 cases of Opus 5.5 code-rendered videos
 
-- **[TwoSevenOneT/InjectSetConsole](https://github.com/TwoSevenOneT/InjectSetConsole)** ⭐ 34
+- **[TwoSevenOneT/InjectSetConsole](https://github.com/TwoSevenOneT/InjectSetConsole)** ⭐ 48
   ![C++](https://img.shields.io/badge/-C++-pink)
   Proof of Concept for Process Code Injection Without Using WriteProcessMemory
 
-- **[zhameersheraz/ph-stocks](https://github.com/zhameersheraz/ph-stocks)** ⭐ 32
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  None
+- **[cachix/casita](https://github.com/cachix/casita)** ⭐ 41
+  ![Rust](https://img.shields.io/badge/-Rust-brown)
+  A content-addressed object store, written in Rust.
 
-- **[sauravgoel/autosreguard](https://github.com/sauravgoel/autosreguard)** ⭐ 30
-  ![Java](https://img.shields.io/badge/-Java-orange)
-  None
-
-- **[seialmonodkw/Flash-Loan-Arbitrage-Bot](https://github.com/seialmonodkw/Flash-Loan-Arbitrage-Bot)** ⭐ 30
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  MEV bot engineered to execute atomic cross-exchange flash loan arbitrage.
+- **[SkylarKitchen/skills](https://github.com/SkylarKitchen/skills)** ⭐ 36
+  ![HTML](https://img.shields.io/badge/-HTML-lightgrey)
+  Agent skills for design work: 3D build guides and more.
 
 ### 📈 Weekly Trending
 
-- **[jev-chat/jev-chat-jarvis](https://github.com/jev-chat/jev-chat-jarvis)** ⭐ 6,767
+- **[jev-chat/jev-chat-jarvis](https://github.com/jev-chat/jev-chat-jarvis)** ⭐ 6,770
   ![Kotlin](https://img.shields.io/badge/-Kotlin-lightgrey)
   装在手机上的对话副驾：在 QQ / X / 飞书里读懂对方、给出候选回复、一键填入输入框，发不发由你。非侵入，只读屏幕，不 hook 不改包。
 
-- **[unreallabsai/unreal-agent](https://github.com/unreallabsai/unreal-agent)** ⭐ 1,982
+- **[unreallabsai/unreal-agent](https://github.com/unreallabsai/unreal-agent)** ⭐ 1,983
   ![Go](https://img.shields.io/badge/-Go-cyan)
   Async-first agent harness
 
-- **[Contrastive-LM/CLM](https://github.com/Contrastive-LM/CLM)** ⭐ 1,803
+- **[Contrastive-LM/CLM](https://github.com/Contrastive-LM/CLM)** ⭐ 1,871
   ![Python](https://img.shields.io/badge/-Python-blue)
   None
 
-- **[tobi/disktree](https://github.com/tobi/disktree)** ⭐ 1,508
+- **[tobi/disktree](https://github.com/tobi/disktree)** ⭐ 1,559
   ![Rust](https://img.shields.io/badge/-Rust-brown)
   A treemap for finding and removing what fills your disk, for Omarchy. Rust + GPUI.
 
-- **[yetone/magpie](https://github.com/yetone/magpie)** ⭐ 1,209
-  ![Go](https://img.shields.io/badge/-Go-cyan)
-  Every agent's model. One place. Codex on DeepSeek, Claude Code on Kimi, from the menu bar.
-
-- **[JohnHeibel/PDoomVideo](https://github.com/JohnHeibel/PDoomVideo)** ⭐ 1,172
+- **[JohnHeibel/PDoomVideo](https://github.com/JohnHeibel/PDoomVideo)** ⭐ 1,224
   ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
   Source code for the Claude Opus 5.5 music video for I'm Upping My P(doom)
+
+- **[yetone/magpie](https://github.com/yetone/magpie)** ⭐ 1,224
+  ![Go](https://img.shields.io/badge/-Go-cyan)
+  Every agent's model. One place. Codex on DeepSeek, Claude Code on Kimi, from the menu bar.
 
 - **[deepopen-com/deepopen](https://github.com/deepopen-com/deepopen)** ⭐ 1,044
   ![Python](https://img.shields.io/badge/-Python-blue)
   非自回归System 1决策引擎，专为结构化类型决策场景设计  DeepOpen Multilingual, non-autoregressive System 1 decision engine. 
 
-- **[mikehasa/golive-skill](https://github.com/mikehasa/golive-skill)** ⭐ 998
+- **[mikehasa/golive-skill](https://github.com/mikehasa/golive-skill)** ⭐ 1,010
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   Take your agent-built product live: hosting, database, domain, email, payments — on your own accounts. Open-source Agent Skill + zero-dependency Node CLI: detect → plan → approve → apply → verify. No GoLive account, backend or telemetry.
 
 ### 📈 Monthly Trending
 
-- **[NandhaKishorM/laya](https://github.com/NandhaKishorM/laya)** ⭐ 26,471
+- **[NandhaKishorM/laya](https://github.com/NandhaKishorM/laya)** ⭐ 26,620
   ![Python](https://img.shields.io/badge/-Python-blue)
   Non-autoregressive System 1 decision engine. Typed choice, score and yes/no decisions over any text in a single forward pass, in 100+ languages, with a router that picks the right checkpoint per request.
 
-- **[browser-use/jev-ultrafast](https://github.com/browser-use/jev-ultrafast)** ⭐ 20,747
+- **[browser-use/jev-ultrafast](https://github.com/browser-use/jev-ultrafast)** ⭐ 20,787
   ![Python](https://img.shields.io/badge/-Python-blue)
   Fastest and cheapest web agent
 
-- **[eternity4719/HowToLiveBetter](https://github.com/eternity4719/HowToLiveBetter)** ⭐ 20,254
+- **[eternity4719/HowToLiveBetter](https://github.com/eternity4719/HowToLiveBetter)** ⭐ 20,520
   ![HTML](https://img.shields.io/badge/-HTML-lightgrey)
   按性价比排序的循证生活指南：长寿防病、急救、省钱理财、法律红线、失业与工伤、医保社保、恋爱婚育、怀孕育儿、创业与做平台合规、出国与技能。每条写明成本、收益、证据等级和原始出处，只引期刊论文与官方文件。
 
-- **[lnkiai/m3e-canvas](https://github.com/lnkiai/m3e-canvas)** ⭐ 8,340
+- **[lnkiai/m3e-canvas](https://github.com/lnkiai/m3e-canvas)** ⭐ 8,346
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   Sketch Material 3 Expressive screens in the browser and turn them into vibe-coding prompts.
 
-- **[jaredpalmer/kev](https://github.com/jaredpalmer/kev)** ⭐ 7,361
+- **[jaredpalmer/kev](https://github.com/jaredpalmer/kev)** ⭐ 7,395
   ![Python](https://img.shields.io/badge/-Python-blue)
   Jev-like family of decision models built on top of Qwen3.5/3.8 you can train and run on your own
 
-- **[tamaratran/fast-jev-compaction](https://github.com/tamaratran/fast-jev-compaction)** ⭐ 7,005
+- **[tamaratran/fast-jev-compaction](https://github.com/tamaratran/fast-jev-compaction)** ⭐ 7,015
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   Claude Code plugin that replaces the compaction summary with Jev decisions: every tool call and result is scored in one fast request, stale ones are dropped or truncated, everything kept stays verbatim.
 
-- **[rakanki911/DLSS5-Swapper](https://github.com/rakanki911/DLSS5-Swapper)** ⭐ 6,938
+- **[rakanki911/DLSS5-Swapper](https://github.com/rakanki911/DLSS5-Swapper)** ⭐ 6,953
   ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
   Install, tune and restore DLSS 5 in your games with one click. Native RenoDX, DLSS5-Feeder for games without DLSS, OptiScaler and multipass routes; DirectX 8/9/11/12, Vulkan, OpenGL, DirectDraw and emulators. In-game F8 overlay, automatic backups, and a community page showing what works on your games and your graphics card.
 
-- **[zai-org/ZCode](https://github.com/zai-org/ZCode)** ⭐ 6,885
+- **[zai-org/ZCode](https://github.com/zai-org/ZCode)** ⭐ 6,892
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   Z.ai's coding agent harness. Powerful, intelligent, extensible.
 
@@ -490,58 +498,58 @@ See [kubernetes-announce@](https://groups.google.com/forum/#!forum/kubernetes-an
 
 | Skill | Status |
 |-------|--------|
-| Java | 🔴 Beginner |
+| Java | 🟡 Learning |
 | Python | 🟢 Proficient |
-| JavaScript | 🟡 Learning |
-| TypeScript | 🔴 Beginner |
-| Go | 🔴 Beginner |
+| JavaScript | 🔴 Beginner |
+| TypeScript | 🟢 Proficient |
+| Go | 🟢 Proficient |
 
 ### Frameworks
 
 | Skill | Status |
 |-------|--------|
 | React | 🔴 Beginner |
-| Spring Boot | 🔴 Beginner |
+| Spring Boot | ⚪ Planned |
 | Django | 🟢 Proficient |
-| Node.js | 🟢 Proficient |
+| Node.js | 🔴 Beginner |
 | Next.js | ⚪ Planned |
 
 ### Cybersecurity
 
 | Skill | Status |
 |-------|--------|
-| Penetration Testing | 🔴 Beginner |
+| Penetration Testing | 🟢 Proficient |
 | Web Security | 🟡 Learning |
-| Network Security | ⚪ Planned |
+| Network Security | 🟡 Learning |
 | OWASP | 🟢 Proficient |
 
 ### Ai Ml
 
 | Skill | Status |
 |-------|--------|
-| Machine Learning | 🔴 Beginner |
+| Machine Learning | 🟡 Learning |
 | Deep Learning | 🟡 Learning |
-| NLP | ⚪ Planned |
+| NLP | 🟢 Proficient |
 | Computer Vision | ⚪ Planned |
-| TensorFlow | 🟢 Proficient |
-| PyTorch | 🟡 Learning |
+| TensorFlow | 🔴 Beginner |
+| PyTorch | ⚪ Planned |
 
 ### Devops
 
 | Skill | Status |
 |-------|--------|
 | Docker | 🟢 Proficient |
-| Kubernetes | ⚪ Planned |
-| CI/CD | ⚪ Planned |
+| Kubernetes | 🟢 Proficient |
+| CI/CD | 🟡 Learning |
 | AWS | 🔴 Beginner |
-| Azure | 🟢 Proficient |
+| Azure | ⚪ Planned |
 
 ### Other
 
 | Skill | Status |
 |-------|--------|
 | Blockchain | ⚪ Planned |
-| Web3 | ⚪ Planned |
+| Web3 | 🟢 Proficient |
 | Cloud Computing | 🟡 Learning |
 
 </details>
