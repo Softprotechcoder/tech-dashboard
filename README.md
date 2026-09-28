@@ -7,7 +7,7 @@
 ![AI & ML](https://img.shields.io/badge/-AI%20&%20ML-blue) ![CyberSecurity](https://img.shields.io/badge/-CyberSecurity-red) ![Full Stack Development](https://img.shields.io/badge/-Full%20Stack%20Development-green)
 
 [![Auto Update](https://img.shields.io/badge/Auto%20Update-Enabled-success)](https://github.com/yourusername/tech-dashboard/actions)
-[![Last Updated](https://img.shields.io/badge/Last%20Updated-September 27, 2026-blue)](https://github.com/yourusername/tech-dashboard)
+[![Last Updated](https://img.shields.io/badge/Last%20Updated-September 28, 2026-blue)](https://github.com/yourusername/tech-dashboard)
 
 *Automatically updated every 6 hours with the latest tech news, trending repositories, and learning resources.*
 
@@ -46,37 +46,34 @@
 
 ### 📑 Hacker News
 
-- **[Alan Kay's answer to "Did the ENIAC have a BIOS"?](https://www.quora.com/Did-the-ENIAC-have-a-BIOS/answer/Alan-Kay-11)**
-  *<p>Article URL: <a href="https://www.quora.com/Did-the-ENIAC-have-a-BIOS/answer/Alan-Kay-11">https://www.quora.com/Did-the-ENIAC-have-a-BIOS/answer/Alan-Kay-11</a></p>
-<p>Comments URL: <a href="https:...*
-  📅 Sun, 27 Sep 2026 19:37:05 +0000
-
-- **[Imp is a full port of DSPy to the BEAM](https://github.com/deepfates/imp)**
-  *<p><a href="https://hex.pm/packages/imp" rel="nofollow">https://hex.pm/packages/imp</a><p><a href="https://dspy.ai/current/" rel="nofollow">https://dspy.ai/current/</a></p>
+- **[Show HN: Panda, the world's first personal AI computer](https://pandax1.com)**
+  *<p>We're building an AI computer for consumers, most of whom are quite hesitant with existing services due to privacy concerns and because of costs that add up when using various AI tools.</p>
 <hr />
-<p>Comments URL: <a ...*
-  📅 Sun, 27 Sep 2026 19:28:23 +0000
+...*
+  📅 Mon, 28 Sep 2026 01:35:14 +0000
 
-- **[Show HN: Lofi Cities – Pixel-art city nights with browser-generated lofi](https://loficities.com/)**
-  *<p>Article URL: <a href="https://loficities.com/">https://loficities.com/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49869574">https://news.ycombinator.com/item?id=49869574...*
-  📅 Sun, 27 Sep 2026 18:44:30 +0000
+- **[As A.I. Makes Law Firms More Efficient, Clients Ask: 'Where's My Discount?'](https://www.nytimes.com/2026/09/26/business/dealbook/ai-law-discount-billable-hour.html)**
+  *<p>Article URL: <a href="https://www.nytimes.com/2026/09/26/business/dealbook/ai-law-discount-billable-hour.html">https://www.nytimes.com/2026/09/26/business/dealbook/ai-law-discount-billable-hour.htm...*
+  📅 Mon, 28 Sep 2026 01:30:17 +0000
 
-- **[Oral history of John Chowning, inventor of FM synthesis [video]](https://www.youtube.com/watch?v=e1Xn3030IvM)**
-  *<p><a href="https://en.wikipedia.org/wiki/John_Chowning" rel="nofollow">https://en.wikipedia.org/wiki/John_Chowning</a></p>
-<hr />
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=498691...*
-  📅 Sun, 27 Sep 2026 18:02:43 +0000
+- **[Research finds 485 chemicals in US pesticide products linked to breast cancer](https://www.theguardian.com/us-news/2026/sep/26/breast-cancer-us-pesticide-products)**
+  *<p>Article URL: <a href="https://www.theguardian.com/us-news/2026/sep/26/breast-cancer-us-pesticide-products">https://www.theguardian.com/us-news/2026/sep/26/breast-cancer-us-pesticide-products</a></p...*
+  📅 Mon, 28 Sep 2026 01:27:21 +0000
 
-- **[Ember-1](https://fireworks.ai/blog/ember-1)**
-  *<p>Article URL: <a href="https://fireworks.ai/blog/ember-1">https://fireworks.ai/blog/ember-1</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49868830">https://news.ycombinator....*
-  📅 Sun, 27 Sep 2026 17:31:53 +0000
-
-- **[Don't couple your Go code to GitHub](https://iain.rocks/blog/dont-couple-your-go-code-to-github)**
-  *<p>Article URL: <a href="https://iain.rocks/blog/dont-couple-your-go-code-to-github">https://iain.rocks/blog/dont-couple-your-go-code-to-github</a></p>
+- **[Self-parking car using genetic algorithm (2021)](https://trekhleb.dev/blog/2021/self-parking-car-evolution/)**
+  *<p>Article URL: <a href="https://trekhleb.dev/blog/2021/self-parking-car-evolution/">https://trekhleb.dev/blog/2021/self-parking-car-evolution/</a></p>
 <p>Comments URL: <a href="https://news.ycombinat...*
-  📅 Sun, 27 Sep 2026 16:50:58 +0000
+  📅 Mon, 28 Sep 2026 01:21:32 +0000
+
+- **[Lunar Terminator Paradox](https://notes.secretsauce.net/notes/2026/09/27_lunar-terminator-paradox.html)**
+  *<p>Article URL: <a href="https://notes.secretsauce.net/notes/2026/09/27_lunar-terminator-paradox.html">https://notes.secretsauce.net/notes/2026/09/27_lunar-terminator-paradox.html</a></p>
+<p>Comments ...*
+  📅 Sun, 27 Sep 2026 21:06:17 +0000
+
+- **[My Recent Woodworking Projects](https://notoriousbfg.com/recent-woodworking-projects/)**
+  *<p>Article URL: <a href="https://notoriousbfg.com/recent-woodworking-projects/">https://notoriousbfg.com/recent-woodworking-projects/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/ite...*
+  📅 Sun, 27 Sep 2026 20:33:55 +0000
 
 ### 📑 TechCrunch
 
@@ -106,23 +103,15 @@
 
 ### 📑 Dev.to
 
-- **[I built a tool to see if people or ai agents were opening my links](https://dev.to/lemonlink/i-built-a-tool-to-see-if-people-or-ai-agents-were-opening-my-links-5hb2)**
-  *<p><a href="https://lemonlink.ai/Y_ffMGCk4I7TMCap" rel="noopener noreferrer">https://lemonlink.ai/Y_ffMGCk4I7TMCap</a></p>
+- **[Understanding Key Software Design Patterns: Factory, Singleton, Observer, Decorator, and More](https://dev.to/sharique_siddiqui_8242dad/understanding-key-software-design-patterns-factory-singleton-observer-decorator-and-more-2fl8)**
+  *<p>In software development, design patterns provide tried-and-tested solutions to common design problems. They act as blueprints guiding developers toward more maintainable, scalable, and flexible cod...*
+  📅 Mon, 28 Sep 2026 02:30:00 +0000
 
-<p>I kept sharing links, pitch decks, demos, articles, or videos and wonderi...*
-  📅 Sun, 27 Sep 2026 20:05:28 +0000
+- **[Smaller Context, Recoverable History: Inside an Agent Memory Handoff](https://dev.to/badbat4560/smaller-context-recoverable-history-inside-an-agent-memory-handoff-404j)**
+  *<p><em>A memory handoff replaces a large conversation window while keeping retained source segments available for recall.</em></p>
 
-- **[Promise Is Not Payment: Verification Errors That Amount Accuracy Misses](https://dev.to/soccer_skillsfreestyle_5/promise-is-not-payment-verification-errors-that-amount-accuracy-misses-p0l)**
-  *<p><em>This is a submission for the <a href="https://dev.to/challenges/kaggle-2026-09-23">Kaggle Benchmarking Challenge</a>.</em></p>
-
-<h2>
-  
-  
-  What I Benchmarked
-</h2>
-
-<p>“I have paid” is a clai...*
-  📅 Sun, 27 Sep 2026 20:02:48 +0000
+<p>The goal is to reduce how much history the LLM has to carry in it...*
+  📅 Mon, 28 Sep 2026 02:24:34 +0000
 
 </details>
 
@@ -130,105 +119,105 @@
 
 ### 📈 Daily Trending
 
-- **[yihui-dev/awesome-opus5-5-videos](https://github.com/yihui-dev/awesome-opus5-5-videos)** ⭐ 274
+- **[antholim/Pulse](https://github.com/antholim/Pulse)** ⭐ 3
   ![None](https://img.shields.io/badge/-None-lightgrey)
-  282 viral videos made with Claude Opus 5.5, each with the exact prompt. Watch every original next to a live remake on Skillry.
+  490 Project
 
-- **[xikhar/spiderbench](https://github.com/xikhar/spiderbench)** ⭐ 205
+- **[enwecklerpro/enwecklerpro](https://github.com/enwecklerpro/enwecklerpro)** ⭐ 3
+  ![None](https://img.shields.io/badge/-None-lightgrey)
+  Profile README
+
+- **[enwecklerpro/omnitrade](https://github.com/enwecklerpro/omnitrade)** ⭐ 3
+  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
+  Multi-tenant procure-to-pay application on SAP BTP: SAP CAP, CDS, OData V4, HANA Cloud, XSUAA, Approuter, React; approval workflow, five roles, audit log, AI assistant
+
+- **[52liulian/EduToolbox](https://github.com/52liulian/EduToolbox)** ⭐ 2
   ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
+  1000+ 免费教育工具导航 + 85 个浏览器本地运行的自研小工具（评语/点名/倒计时/抽题/奖状...）
+
+- **[alexis3rdsalinas22-star/Travel-Agency-Management-System](https://github.com/alexis3rdsalinas22-star/Travel-Agency-Management-System)** ⭐ 2
+  ![Java](https://img.shields.io/badge/-Java-orange)
+  Project in ComProg4
+
+- **[ragipmullamusa-ui/stonecut-cashbook-showcase](https://github.com/ragipmullamusa-ui/stonecut-cashbook-showcase)** ⭐ 2
+  ![None](https://img.shields.io/badge/-None-lightgrey)
   None
 
-- **[yasinozmeen/animasyon-stil-katalogu](https://github.com/yasinozmeen/animasyon-stil-katalogu)** ⭐ 89
-  ![HTML](https://img.shields.io/badge/-HTML-lightgrey)
-  irticalen videoları için 20 animasyon tarzı: her biri kendi kısa filmiyle. Tarzı README'den seç.
-
-- **[Appllama/liquid-glass-chat-ui](https://github.com/Appllama/liquid-glass-chat-ui)** ⭐ 65
-  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
-  Explore liquid-glass chat UIs with animated portraits, interactive stories, and floating composers.
-
-- **[joeseesun/opus-video-prompts](https://github.com/joeseesun/opus-video-prompts)** ⭐ 56
+- **[877107570/mall4j](https://github.com/877107570/mall4j)** ⭐ 2
   ![None](https://img.shields.io/badge/-None-lightgrey)
-  Claude Opus 5.5 用代码生成视频：全网案例与可直接复制的提示词 | Copy-ready prompts & 54 cases of Opus 5.5 code-rendered videos
+  my first pro
 
-- **[TwoSevenOneT/InjectSetConsole](https://github.com/TwoSevenOneT/InjectSetConsole)** ⭐ 48
-  ![C++](https://img.shields.io/badge/-C++-pink)
-  Proof of Concept for Process Code Injection Without Using WriteProcessMemory
-
-- **[cachix/casita](https://github.com/cachix/casita)** ⭐ 41
-  ![Rust](https://img.shields.io/badge/-Rust-brown)
-  A content-addressed object store, written in Rust.
-
-- **[SkylarKitchen/skills](https://github.com/SkylarKitchen/skills)** ⭐ 36
-  ![HTML](https://img.shields.io/badge/-HTML-lightgrey)
-  Agent skills for design work: 3D build guides and more.
+- **[ragipmullamusa-ui/darbna-showcase](https://github.com/ragipmullamusa-ui/darbna-showcase)** ⭐ 2
+  ![None](https://img.shields.io/badge/-None-lightgrey)
+  None
 
 ### 📈 Weekly Trending
 
-- **[jev-chat/jev-chat-jarvis](https://github.com/jev-chat/jev-chat-jarvis)** ⭐ 6,770
-  ![Kotlin](https://img.shields.io/badge/-Kotlin-lightgrey)
-  装在手机上的对话副驾：在 QQ / X / 飞书里读懂对方、给出候选回复、一键填入输入框，发不发由你。非侵入，只读屏幕，不 hook 不改包。
-
-- **[unreallabsai/unreal-agent](https://github.com/unreallabsai/unreal-agent)** ⭐ 1,983
-  ![Go](https://img.shields.io/badge/-Go-cyan)
-  Async-first agent harness
-
-- **[Contrastive-LM/CLM](https://github.com/Contrastive-LM/CLM)** ⭐ 1,871
+- **[Contrastive-LM/CLM](https://github.com/Contrastive-LM/CLM)** ⭐ 1,942
   ![Python](https://img.shields.io/badge/-Python-blue)
   None
 
-- **[tobi/disktree](https://github.com/tobi/disktree)** ⭐ 1,559
+- **[tobi/disktree](https://github.com/tobi/disktree)** ⭐ 1,635
   ![Rust](https://img.shields.io/badge/-Rust-brown)
   A treemap for finding and removing what fills your disk, for Omarchy. Rust + GPUI.
 
-- **[JohnHeibel/PDoomVideo](https://github.com/JohnHeibel/PDoomVideo)** ⭐ 1,224
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
-  Source code for the Claude Opus 5.5 music video for I'm Upping My P(doom)
-
-- **[yetone/magpie](https://github.com/yetone/magpie)** ⭐ 1,224
+- **[yetone/magpie](https://github.com/yetone/magpie)** ⭐ 1,279
   ![Go](https://img.shields.io/badge/-Go-cyan)
   Every agent's model. One place. Codex on DeepSeek, Claude Code on Kimi, from the menu bar.
 
-- **[deepopen-com/deepopen](https://github.com/deepopen-com/deepopen)** ⭐ 1,044
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  非自回归System 1决策引擎，专为结构化类型决策场景设计  DeepOpen Multilingual, non-autoregressive System 1 decision engine. 
+- **[JohnHeibel/PDoomVideo](https://github.com/JohnHeibel/PDoomVideo)** ⭐ 1,268
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
+  Source code for the Claude Opus 5.5 music video for I'm Upping My P(doom)
 
-- **[mikehasa/golive-skill](https://github.com/mikehasa/golive-skill)** ⭐ 1,010
+- **[mexicat/pdoom-video](https://github.com/mexicat/pdoom-video)** ⭐ 1,199
+  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
+  Code-rendered music video for "I'm Upping My P(doom)"
+
+- **[mikehasa/golive-skill](https://github.com/mikehasa/golive-skill)** ⭐ 1,014
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   Take your agent-built product live: hosting, database, domain, email, payments — on your own accounts. Open-source Agent Skill + zero-dependency Node CLI: detect → plan → approve → apply → verify. No GoLive account, backend or telemetry.
 
+- **[kryvora-network/kryvora-node](https://github.com/kryvora-network/kryvora-node)** ⭐ 979
+  ![Go](https://img.shields.io/badge/-Go-cyan)
+  Reference client daemon and verification worker for Kryvora Network nodes.
+
+- **[riba2534/claude-opus-5-5-demo](https://github.com/riba2534/claude-opus-5-5-demo)** ⭐ 836
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
+  claude-opus-5-5-demo
+
 ### 📈 Monthly Trending
 
-- **[NandhaKishorM/laya](https://github.com/NandhaKishorM/laya)** ⭐ 26,620
+- **[NandhaKishorM/laya](https://github.com/NandhaKishorM/laya)** ⭐ 26,809
   ![Python](https://img.shields.io/badge/-Python-blue)
   Non-autoregressive System 1 decision engine. Typed choice, score and yes/no decisions over any text in a single forward pass, in 100+ languages, with a router that picks the right checkpoint per request.
 
-- **[browser-use/jev-ultrafast](https://github.com/browser-use/jev-ultrafast)** ⭐ 20,787
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  Fastest and cheapest web agent
-
-- **[eternity4719/HowToLiveBetter](https://github.com/eternity4719/HowToLiveBetter)** ⭐ 20,520
+- **[eternity4719/HowToLiveBetter](https://github.com/eternity4719/HowToLiveBetter)** ⭐ 21,101
   ![HTML](https://img.shields.io/badge/-HTML-lightgrey)
   按性价比排序的循证生活指南：长寿防病、急救、省钱理财、法律红线、失业与工伤、医保社保、恋爱婚育、怀孕育儿、创业与做平台合规、出国与技能。每条写明成本、收益、证据等级和原始出处，只引期刊论文与官方文件。
 
-- **[lnkiai/m3e-canvas](https://github.com/lnkiai/m3e-canvas)** ⭐ 8,346
+- **[browser-use/jev-ultrafast](https://github.com/browser-use/jev-ultrafast)** ⭐ 20,849
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  Fastest and cheapest web agent
+
+- **[lnkiai/m3e-canvas](https://github.com/lnkiai/m3e-canvas)** ⭐ 8,366
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   Sketch Material 3 Expressive screens in the browser and turn them into vibe-coding prompts.
 
-- **[jaredpalmer/kev](https://github.com/jaredpalmer/kev)** ⭐ 7,395
+- **[jaredpalmer/kev](https://github.com/jaredpalmer/kev)** ⭐ 7,438
   ![Python](https://img.shields.io/badge/-Python-blue)
   Jev-like family of decision models built on top of Qwen3.5/3.8 you can train and run on your own
 
-- **[tamaratran/fast-jev-compaction](https://github.com/tamaratran/fast-jev-compaction)** ⭐ 7,015
+- **[tamaratran/fast-jev-compaction](https://github.com/tamaratran/fast-jev-compaction)** ⭐ 7,031
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   Claude Code plugin that replaces the compaction summary with Jev decisions: every tool call and result is scored in one fast request, stale ones are dropped or truncated, everything kept stays verbatim.
 
-- **[rakanki911/DLSS5-Swapper](https://github.com/rakanki911/DLSS5-Swapper)** ⭐ 6,953
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
-  Install, tune and restore DLSS 5 in your games with one click. Native RenoDX, DLSS5-Feeder for games without DLSS, OptiScaler and multipass routes; DirectX 8/9/11/12, Vulkan, OpenGL, DirectDraw and emulators. In-game F8 overlay, automatic backups, and a community page showing what works on your games and your graphics card.
-
-- **[zai-org/ZCode](https://github.com/zai-org/ZCode)** ⭐ 6,892
+- **[zai-org/ZCode](https://github.com/zai-org/ZCode)** ⭐ 6,907
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   Z.ai's coding agent harness. Powerful, intelligent, extensible.
+
+- **[jev-chat/jev-chat-jarvis](https://github.com/jev-chat/jev-chat-jarvis)** ⭐ 6,794
+  ![Kotlin](https://img.shields.io/badge/-Kotlin-lightgrey)
+  装在手机上的对话副驾：在 QQ / X / 飞书里读懂对方、给出候选回复、一键填入输入框，发不发由你。非侵入，只读屏幕，不 hook 不改包。
 
 ## 🚀 Latest Releases
 
@@ -498,58 +487,58 @@ See [kubernetes-announce@](https://groups.google.com/forum/#!forum/kubernetes-an
 
 | Skill | Status |
 |-------|--------|
-| Java | 🟡 Learning |
-| Python | 🟢 Proficient |
-| JavaScript | 🔴 Beginner |
-| TypeScript | 🟢 Proficient |
-| Go | 🟢 Proficient |
+| Java | 🟢 Proficient |
+| Python | 🔴 Beginner |
+| JavaScript | 🟢 Proficient |
+| TypeScript | ⚪ Planned |
+| Go | ⚪ Planned |
 
 ### Frameworks
 
 | Skill | Status |
 |-------|--------|
-| React | 🔴 Beginner |
-| Spring Boot | ⚪ Planned |
-| Django | 🟢 Proficient |
-| Node.js | 🔴 Beginner |
-| Next.js | ⚪ Planned |
+| React | 🟡 Learning |
+| Spring Boot | 🟡 Learning |
+| Django | 🔴 Beginner |
+| Node.js | 🟡 Learning |
+| Next.js | 🟢 Proficient |
 
 ### Cybersecurity
 
 | Skill | Status |
 |-------|--------|
 | Penetration Testing | 🟢 Proficient |
-| Web Security | 🟡 Learning |
-| Network Security | 🟡 Learning |
-| OWASP | 🟢 Proficient |
+| Web Security | 🟢 Proficient |
+| Network Security | 🔴 Beginner |
+| OWASP | 🟡 Learning |
 
 ### Ai Ml
 
 | Skill | Status |
 |-------|--------|
-| Machine Learning | 🟡 Learning |
-| Deep Learning | 🟡 Learning |
-| NLP | 🟢 Proficient |
-| Computer Vision | ⚪ Planned |
-| TensorFlow | 🔴 Beginner |
-| PyTorch | ⚪ Planned |
+| Machine Learning | 🔴 Beginner |
+| Deep Learning | ⚪ Planned |
+| NLP | 🟡 Learning |
+| Computer Vision | 🟢 Proficient |
+| TensorFlow | 🟢 Proficient |
+| PyTorch | 🔴 Beginner |
 
 ### Devops
 
 | Skill | Status |
 |-------|--------|
-| Docker | 🟢 Proficient |
+| Docker | 🔴 Beginner |
 | Kubernetes | 🟢 Proficient |
 | CI/CD | 🟡 Learning |
-| AWS | 🔴 Beginner |
-| Azure | ⚪ Planned |
+| AWS | ⚪ Planned |
+| Azure | 🟡 Learning |
 
 ### Other
 
 | Skill | Status |
 |-------|--------|
-| Blockchain | ⚪ Planned |
-| Web3 | 🟢 Proficient |
+| Blockchain | 🟢 Proficient |
+| Web3 | 🟡 Learning |
 | Cloud Computing | 🟡 Learning |
 
 </details>
@@ -568,7 +557,7 @@ This dashboard is automatically updated every 6 hours using GitHub Actions. The 
 
 <div align="center">
 
-**Last Updated:** September 27, 2026
+**Last Updated:** September 28, 2026
 
 Made with ❤️ and automated with GitHub Actions
 
