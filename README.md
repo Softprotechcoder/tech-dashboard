@@ -46,69 +46,77 @@
 
 ### 📑 Hacker News
 
-- **[The smart home graveyard is getting crowded](https://www.theverge.com/column/1000778/smart-home-june-oven-graveyard)**
-  *<p>Article URL: <a href="https://www.theverge.com/column/1000778/smart-home-june-oven-graveyard">https://www.theverge.com/column/1000778/smart-home-june-oven-graveyard</a></p>
-<p>Comments URL: <a href...*
-  📅 Mon, 28 Sep 2026 11:27:00 +0000
+- **[Who should be held accountable when an AI Agent (accidentally) acts maliciously?](https://blog.greenpants.net/ai-accountability/)**
+  *<p>Article URL: <a href="https://blog.greenpants.net/ai-accountability/">https://blog.greenpants.net/ai-accountability/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49885109"...*
+  📅 Mon, 28 Sep 2026 22:05:46 +0000
 
-- **[Parley: Federated, decentralised chat that speaks plain IRC](https://git.mills.io/prologic/parley)**
-  *<p>Article URL: <a href="https://git.mills.io/prologic/parley">https://git.mills.io/prologic/parley</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49875913">https://news.ycombi...*
-  📅 Mon, 28 Sep 2026 10:30:54 +0000
+- **[Flock Wants the Most Detailed Map of Its Surveillance Cameras Taken Offline](https://theintercept.com/2026/09/24/how-many-flock-devices-in-united-states-300000/)**
+  *<p>Article URL: <a href="https://theintercept.com/2026/09/24/how-many-flock-devices-in-united-states-300000/">https://theintercept.com/2026/09/24/how-many-flock-devices-in-united-states-300000/</a></p...*
+  📅 Mon, 28 Sep 2026 21:08:10 +0000
 
-- **[SpaceX's Starship launching to orbit for first time ever today](https://www.space.com/space-exploration/launches-spacecraft/spacexs-starship-megarocket-launching-to-orbit-for-1st-time-ever-on-sept-28-watch-it-live)**
-  *<p>Article URL: <a href="https://www.space.com/space-exploration/launches-spacecraft/spacexs-starship-megarocket-launching-to-orbit-for-1st-time-ever-on-sept-28-watch-it-live">https://www.space.com/sp...*
-  📅 Mon, 28 Sep 2026 09:15:04 +0000
+- **[Pacing the Frontier is not the actual goal for AI labs](https://www.lesswrong.com/posts/Nm4ewbYovtjq69dvH/pacing-the-frontier-is-not-the-actual-goal-for-ai-labs)**
+  *<p>Article URL: <a href="https://www.lesswrong.com/posts/Nm4ewbYovtjq69dvH/pacing-the-frontier-is-not-the-actual-goal-for-ai-labs">https://www.lesswrong.com/posts/Nm4ewbYovtjq69dvH/pacing-the-frontier...*
+  📅 Mon, 28 Sep 2026 20:47:26 +0000
 
-- **[Three Days in August: What a DDoS Attack Exposed in Our Network](https://nine.ch/en/blog/ddos-attack-august-2026-postmortem/)**
-  *<p>Article URL: <a href="https://nine.ch/en/blog/ddos-attack-august-2026-postmortem/">https://nine.ch/en/blog/ddos-attack-august-2026-postmortem/</a></p>
-<p>Comments URL: <a href="https://news.ycombin...*
-  📅 Mon, 28 Sep 2026 09:13:36 +0000
+- **[Jeff – Jev-compatible 0.8B decision models, trained at home, ~30 ms](https://github.com/firelex/jeff)**
+  *<p>Article URL: <a href="https://github.com/firelex/jeff">https://github.com/firelex/jeff</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49883844">https://news.ycombinator.com/...*
+  📅 Mon, 28 Sep 2026 20:23:36 +0000
 
-- **[AI companies in race to demonstrate their model most threatening to humanity](https://thecivilian.co.nz/2026/09/27/ai-companies-in-fierce-arms-race-to-demonstrate-their-model-is-the-most-existentially-threatening-to-humanity/)**
-  *<p>Article URL: <a href="https://thecivilian.co.nz/2026/09/27/ai-companies-in-fierce-arms-race-to-demonstrate-their-model-is-the-most-existentially-threatening-to-humanity/">https://thecivilian.co.nz/...*
-  📅 Mon, 28 Sep 2026 08:35:40 +0000
+- **[Best of British Design](https://best-of-british-design.vercel.app/)**
+  *<p>Article URL: <a href="https://best-of-british-design.vercel.app/">https://best-of-british-design.vercel.app/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49883817">https:/...*
+  📅 Mon, 28 Sep 2026 20:21:22 +0000
 
-- **[37,500 border drawings: a map of the world as people remember it](https://www.habibicode.org/thedrawnworld)**
-  *<p>Article URL: <a href="https://www.habibicode.org/thedrawnworld">https://www.habibicode.org/thedrawnworld</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49875142">https://new...*
-  📅 Mon, 28 Sep 2026 08:35:10 +0000
+- **[World Labs Is Joining AMD](https://www.worldlabs.ai/blog/amd-announcement)**
+  *<p>Article URL: <a href="https://www.worldlabs.ai/blog/amd-announcement">https://www.worldlabs.ai/blog/amd-announcement</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49883760"...*
+  📅 Mon, 28 Sep 2026 20:18:05 +0000
 
 ### 📑 TechCrunch
 
-- **[Truecaller takes its scam intelligence to the open web as it looks beyond caller ID](https://techcrunch.com/2026/09/27/truecaller-takes-its-scam-intelligence-to-the-open-web-as-it-looks-beyond-caller-id/)**
-  *Truecaller finds a new way to reach users as pressure grows on its traditional caller ID business in India, its biggest market....*
-  📅 Mon, 28 Sep 2026 04:30:00 +0000
+- **[Source: Inference provider Modal Labs closing in on $750M round at $15.75B valuation](https://techcrunch.com/2026/09/28/source-inference-provider-modal-labs-closing-in-on-750m-round-at-15-75b-valuation/)**
+  *The new financing is expected to more than triples the AI infrastructure startup's valuation from just four months ago....*
+  📅 Mon, 28 Sep 2026 21:29:18 +0000
 
-- **[Anthropic’s CEO is about to have dinner with President Trump](https://techcrunch.com/2026/09/27/anthropics-ceo-is-about-to-have-dinner-with-president-trump/)**
-  *This will be the first one-on-one meeting between Dario Amodei and Donald Trump...*
-  📅 Sun, 27 Sep 2026 20:34:28 +0000
+- **[AMD will acquire Fei-Fei Li’s World Labs for $8.2 billion](https://techcrunch.com/2026/09/28/amd-will-acquire-fei-fei-lis-world-labs-for-8-2-billion/)**
+  *The acquisition will see World Labs founder Fei-Fei Li join AMD as executive vice president and chief scientist....*
+  📅 Mon, 28 Sep 2026 20:39:33 +0000
 
-- **[Can Muse overcome Meta’s trust issues?](https://techcrunch.com/2026/09/27/can-muse-overcome-metas-trust-issues/)**
-  *On Equity, we discussed how Meta's AI announcement managed to steal the spotlight from OpenAI and Anthropic....*
-  📅 Sun, 27 Sep 2026 19:57:30 +0000
+- **[Shopify opens checkout to browser-based AI agents](https://techcrunch.com/2026/09/28/shopify-opens-checkout-to-browser-based-ai-agents/)**
+  *Shopify is expanding WebMCP support to checkout, allowing browser-based AI agents to update order details and complete purchases with a buyer’s authorization....*
+  📅 Mon, 28 Sep 2026 19:33:57 +0000
 
-- **[Anthropic’s Dario Amodei gets the SNL treatment](https://techcrunch.com/2026/09/27/anthropics-dario-amodei-gets-the-snl-treatment/)**
-  *"AI is the devil and I its maker."...*
-  📅 Sun, 27 Sep 2026 16:30:00 +0000
+- **[Tesla delays Roadster 2 event again due to bad weather](https://techcrunch.com/2026/09/28/tesla-delays-roadster-2-event-again-due-to-bad-weather/)**
+  *Tesla says the event "can only be held outdoors," as it's expected to show the car flying in some form using SpaceX thrusters....*
+  📅 Mon, 28 Sep 2026 19:27:27 +0000
 
-- **[TechCrunch Mobility: AV companies pick their lanes](https://techcrunch.com/2026/09/27/techcrunch-mobility-av-companies-pick-their-lanes/)**
-  *Welcome back to TechCrunch Mobility, your hub for the future of transportation and now, more than ever, the role AI is playing in it....*
-  📅 Sun, 27 Sep 2026 16:02:00 +0000
+- **[The AI boom took over Climate Week and not everyone is happy about it](https://techcrunch.com/2026/09/28/the-ai-boom-took-over-climate-week-and-not-everyone-is-happy-about-it/)**
+  *Just like the rest of the U.S, data centers and AI are dividing climate tech founders and investors....*
+  📅 Mon, 28 Sep 2026 19:21:59 +0000
 
-- **[Sennheiser Momentum 5 review: Great sound, incredible battery life, and few compromises](https://techcrunch.com/2026/09/27/sennheiser-momentum-5-review-great-sound-incredible-battery-life-and-few-compromises/)**
-  *I spent the last few weeks with the Sennheiser Momentum 5 to determine if this pair actually stands out, testing everything from sound quality and noise cancellation to comfort and battery life....*
-  📅 Sun, 27 Sep 2026 15:00:00 +0000
+- **[Nvidia launches new platform for reining in rogue AI agents](https://techcrunch.com/2026/09/28/nvidia-launches-new-platform-for-reining-in-rogue-ai-agents/)**
+  *As the debate rages over whether the recent spate of rogue AI agents is a step toward AGI or a more conventional engineering problem, Nvidia is offering its own answer to problem. Nvidia CEO Jensen Hu...*
+  📅 Mon, 28 Sep 2026 18:31:23 +0000
 
 ### 📑 Dev.to
 
-- **[Our migration test passed because the last job left its database behind](https://dev.to/sergey_shinder_ab2d943365/our-migration-test-passed-because-the-last-job-left-its-database-behind-4ghg)**
-  *<p>In July a database migration passed every check in our pipeline and then failed in staging on its first statement. It created an index using a function from a Postgres extension, and nothing in the...*
-  📅 Mon, 28 Sep 2026 12:21:19 +0000
+- **[Nearly 11 Million Submission Endpoints on Port 587: The Mail Path That Is Rarely Reviewed](https://dev.to/onaeiuspkz/nearly-11-million-submission-endpoints-on-port-587-the-mail-path-that-is-rarely-reviewed-15e)**
+  *<h1>
+  
+  
+  Nearly 11 Million Submission Endpoints on Port 587: The Mail Path That Is Rarely Reviewed
+</h1>
 
-- **[Nineteen of Our Shared Mailboxes Were Being Read by Nobody](https://dev.to/serguey_shinder_4ab9b87b1/nineteen-of-our-shared-mailboxes-were-being-read-by-nobody-1mc5)**
-  *<p>In April a customer complained to our managing director that he had been writing to us about a damaged pallet for seven weeks without a reply. He had been writing to the returns address printed on ...*
-  📅 Mon, 28 Sep 2026 12:19:41 +0000
+<p>A combined query for port 587 and the SMTP service fingerprint returned 10,990,138 reco...*
+  📅 Mon, 28 Sep 2026 22:40:43 +0000
+
+- **[I Built an Encrypted Ngrok Alternative — The Hardest Part Wasn't the Crypto](https://dev.to/explita/i-built-an-encrypted-ngrok-alternative-the-hardest-part-wasnt-the-crypto-108i)**
+  *<p>Like pretty much every developer who has ever tested a Stripe webhook, debugged OAuth callbacks, or demoed a local Next.js app to a teammate, I’ve spent years relying on tunneling tools.</p>
+
+<p>An...*
+  📅 Mon, 28 Sep 2026 22:40:17 +0000
 
 </details>
 
@@ -116,105 +124,105 @@
 
 ### 📈 Daily Trending
 
-- **[BagasRizkyHarySaputra/MLBB-waydroid-LinuxCloudMLBB](https://github.com/BagasRizkyHarySaputra/MLBB-waydroid-LinuxCloudMLBB)** ⭐ 201
+- **[tileshoutdipper/Discord-Booster-Server](https://github.com/tileshoutdipper/Discord-Booster-Server)** ⭐ 361
+  ![None](https://img.shields.io/badge/-None-lightgrey)
+  Discord Server Booster — Open-source automation tool and bot script designed to manage, track, and optimize Discord server boost perks role rewards, and community engagement.
+
+- **[BagasRizkyHarySaputra/MLBB-waydroid-LinuxCloudMLBB](https://github.com/BagasRizkyHarySaputra/MLBB-waydroid-LinuxCloudMLBB)** ⭐ 194
   ![Shell](https://img.shields.io/badge/-Shell-lightgrey)
   Play Mobile Legends: Bang Bang (MLBB) on Linux via Waydroid — and stream it to your Android phone as cloud gaming (Sunshine + Artemis/Moonlight). Working multi-touch, Intel VAAPI encoding, one-command launcher.
+
+- **[firelex/jeff](https://github.com/firelex/jeff)** ⭐ 129
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  Fine-tunes of Qwen3.5 and Gemma 4 for zero-shot classification
+
+- **[fishstrap-launcher/Fishstrap-Roblox](https://github.com/fishstrap-launcher/Fishstrap-Roblox)** ⭐ 126
+  ![C++](https://img.shields.io/badge/-C++-pink)
+  Fishstrap Roblox FPS unlocker — fishstrap roblox, bloxstrap alternative, voidstrap, fast flags, fflags, bloxstrap fast flags, multi instance, roblox shaders, custom fonts, fishstrap github, roblox bootstrapper, Windows.
+
+- **[santtiago49/system-design-trainer](https://github.com/santtiago49/system-design-trainer)** ⭐ 91
+  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
+  Whiteboard for practicing system design interviews with a live capacity model
+
+- **[jtyurtwew/jtyurtwew](https://github.com/jtyurtwew/jtyurtwew)** ⭐ 66
+  ![None](https://img.shields.io/badge/-None-lightgrey)
+  None
+
+- **[milanm/aztree](https://github.com/milanm/aztree)** ⭐ 56
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  Understand Azure billing
 
 - **[knotweaverseparate66/zapret-discord](https://github.com/knotweaverseparate66/zapret-discord)** ⭐ 51
   ![None](https://img.shields.io/badge/-None-lightgrey)
   NEW FIX Как Обойти Блокировку Дискорда В России ?! Новый Дискорд Обход Для ПК ! Запрет Дискорд & Фикс ДС !
 
-- **[AkbarSheikh-debug/wondersnap](https://github.com/AkbarSheikh-debug/wondersnap)** ⭐ 22
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
-  Gesture-controlled 3D models made of 200k glowing GPU particles. MediaPipe hand tracking + hand-written WebGL2, runs in the browser.
-
-- **[milanm/aztree](https://github.com/milanm/aztree)** ⭐ 22
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  Understand Azure billing
-
-- **[alevlicocu/create-bsc-token](https://github.com/alevlicocu/create-bsc-token)** ⭐ 20
-  ![Solidity](https://img.shields.io/badge/-Solidity-lightgrey)
-  Create Binance Smart Chain Token — beginner-friendly BEP-20 Solidity tutorial with taxable buy/sell fees, ownership renounce, admin transfer, Remix deployment, BscScan verification, and PancakeSwap liquidity steps.
-
-- **[kathoc/nesterm](https://github.com/kathoc/nesterm)** ⭐ 20
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
-  Play NES games as ASCII art in your terminal
-
-- **[AnctyEnly453/abstract-algebra-promo](https://github.com/AnctyEnly453/abstract-algebra-promo)** ⭐ 18
-  ![HTML](https://img.shields.io/badge/-HTML-lightgrey)
-  抽象代数：结构之美 | Canvas/WebGL animation and procedural soundtrack
-
-- **[wangshen233/turb-gpt-free-register-oss-20260928](https://github.com/wangshen233/turb-gpt-free-register-oss-20260928)** ⭐ 15
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  Sanitized open-source release of turb-gpt-free-register
-
 ### 📈 Weekly Trending
 
-- **[Contrastive-LM/CLM](https://github.com/Contrastive-LM/CLM)** ⭐ 2,118
+- **[Contrastive-LM/CLM](https://github.com/Contrastive-LM/CLM)** ⭐ 2,268
   ![Python](https://img.shields.io/badge/-Python-blue)
   None
 
-- **[tobi/disktree](https://github.com/tobi/disktree)** ⭐ 1,753
+- **[tobi/disktree](https://github.com/tobi/disktree)** ⭐ 1,808
   ![Rust](https://img.shields.io/badge/-Rust-brown)
   A treemap for finding and removing what fills your disk, for Omarchy. Rust + GPUI.
 
-- **[mexicat/pdoom-video](https://github.com/mexicat/pdoom-video)** ⭐ 1,570
+- **[mexicat/pdoom-video](https://github.com/mexicat/pdoom-video)** ⭐ 1,758
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   Code-rendered music video for "I'm Upping My P(doom)"
 
-- **[yetone/magpie](https://github.com/yetone/magpie)** ⭐ 1,505
+- **[yetone/magpie](https://github.com/yetone/magpie)** ⭐ 1,585
   ![Go](https://img.shields.io/badge/-Go-cyan)
   Every agent's model. One place. Codex on DeepSeek, Claude Code on Kimi, from the menu bar.
 
-- **[JohnHeibel/PDoomVideo](https://github.com/JohnHeibel/PDoomVideo)** ⭐ 1,356
+- **[JohnHeibel/PDoomVideo](https://github.com/JohnHeibel/PDoomVideo)** ⭐ 1,421
   ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
   Source code for the Claude Opus 5.5 music video for I'm Upping My P(doom)
 
-- **[dzhng/jevgrep](https://github.com/dzhng/jevgrep)** ⭐ 1,105
+- **[dzhng/jevgrep](https://github.com/dzhng/jevgrep)** ⭐ 1,395
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   Find code by asking what it does. A CLI for coding agents that uses Jev to discover relevant files and source context.
 
-- **[mikehasa/golive-skill](https://github.com/mikehasa/golive-skill)** ⭐ 1,030
+- **[mikehasa/golive-skill](https://github.com/mikehasa/golive-skill)** ⭐ 1,044
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   Take your agent-built product live: hosting, database, domain, email, payments — on your own accounts. Open-source Agent Skill + zero-dependency Node CLI: detect → plan → approve → apply → verify. No GoLive account, backend or telemetry.
 
-- **[kryvora-network/kryvora-node](https://github.com/kryvora-network/kryvora-node)** ⭐ 1,017
+- **[kryvora-network/kryvora-node](https://github.com/kryvora-network/kryvora-node)** ⭐ 1,042
   ![Go](https://img.shields.io/badge/-Go-cyan)
   Reference client daemon and verification worker for Kryvora Network nodes.
 
 ### 📈 Monthly Trending
 
-- **[NandhaKishorM/laya](https://github.com/NandhaKishorM/laya)** ⭐ 27,288
+- **[NandhaKishorM/laya](https://github.com/NandhaKishorM/laya)** ⭐ 27,663
   ![Python](https://img.shields.io/badge/-Python-blue)
   Non-autoregressive System 1 decision engine. Typed choice, score and yes/no decisions over any text in a single forward pass, in 100+ languages, with a router that picks the right checkpoint per request.
 
-- **[eternity4719/HowToLiveBetter](https://github.com/eternity4719/HowToLiveBetter)** ⭐ 23,642
+- **[eternity4719/HowToLiveBetter](https://github.com/eternity4719/HowToLiveBetter)** ⭐ 24,471
   ![HTML](https://img.shields.io/badge/-HTML-lightgrey)
   按性价比排序的循证生活指南：长寿防病、急救、省钱理财、法律红线、失业与工伤、医保社保、恋爱婚育、怀孕育儿、创业与做平台合规、出国与技能。每条写明成本、收益、证据等级和原始出处，只引期刊论文与官方文件。
 
-- **[browser-use/jev-ultrafast](https://github.com/browser-use/jev-ultrafast)** ⭐ 21,014
+- **[browser-use/jev-ultrafast](https://github.com/browser-use/jev-ultrafast)** ⭐ 21,134
   ![Python](https://img.shields.io/badge/-Python-blue)
   Fastest and cheapest web agent
 
-- **[lnkiai/m3e-canvas](https://github.com/lnkiai/m3e-canvas)** ⭐ 8,390
+- **[lnkiai/m3e-canvas](https://github.com/lnkiai/m3e-canvas)** ⭐ 8,404
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   Sketch Material 3 Expressive screens in the browser and turn them into vibe-coding prompts.
 
-- **[jaredpalmer/kev](https://github.com/jaredpalmer/kev)** ⭐ 7,561
+- **[jaredpalmer/kev](https://github.com/jaredpalmer/kev)** ⭐ 7,635
   ![Python](https://img.shields.io/badge/-Python-blue)
   Jev-like family of decision models built on top of Qwen3.5/3.8 you can train and run on your own
 
-- **[tamaratran/fast-jev-compaction](https://github.com/tamaratran/fast-jev-compaction)** ⭐ 7,069
+- **[tamaratran/fast-jev-compaction](https://github.com/tamaratran/fast-jev-compaction)** ⭐ 7,130
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   Claude Code plugin that replaces the compaction summary with Jev decisions: every tool call and result is scored in one fast request, stale ones are dropped or truncated, everything kept stays verbatim.
 
-- **[zai-org/ZCode](https://github.com/zai-org/ZCode)** ⭐ 7,003
+- **[zai-org/ZCode](https://github.com/zai-org/ZCode)** ⭐ 7,036
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   Z.ai's coding agent harness. Powerful, intelligent, extensible.
 
-- **[Human-Agent-Society/reef](https://github.com/Human-Agent-Society/reef)** ⭐ 6,865
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  Infrastructure for continually self‑improving agents
+- **[jev-chat/jev-chat-jarvis](https://github.com/jev-chat/jev-chat-jarvis)** ⭐ 6,917
+  ![Kotlin](https://img.shields.io/badge/-Kotlin-lightgrey)
+  装在手机上的对话副驾：在 QQ / X / 飞书里读懂对方、给出候选回复、一键填入输入框，发不发由你。非侵入，只读屏幕，不 hook 不改包。
 
 ## 🚀 Latest Releases
 
@@ -484,39 +492,39 @@ See [kubernetes-announce@](https://groups.google.com/forum/#!forum/kubernetes-an
 
 | Skill | Status |
 |-------|--------|
-| Java | ⚪ Planned |
-| Python | 🟢 Proficient |
-| JavaScript | 🟡 Learning |
-| TypeScript | 🔴 Beginner |
-| Go | 🟢 Proficient |
+| Java | 🟢 Proficient |
+| Python | ⚪ Planned |
+| JavaScript | 🔴 Beginner |
+| TypeScript | ⚪ Planned |
+| Go | 🟡 Learning |
 
 ### Frameworks
 
 | Skill | Status |
 |-------|--------|
-| React | 🟡 Learning |
+| React | ⚪ Planned |
 | Spring Boot | ⚪ Planned |
-| Django | 🟡 Learning |
-| Node.js | ⚪ Planned |
-| Next.js | 🟢 Proficient |
+| Django | 🔴 Beginner |
+| Node.js | 🟡 Learning |
+| Next.js | 🔴 Beginner |
 
 ### Cybersecurity
 
 | Skill | Status |
 |-------|--------|
-| Penetration Testing | 🟡 Learning |
-| Web Security | 🟢 Proficient |
-| Network Security | 🔴 Beginner |
+| Penetration Testing | ⚪ Planned |
+| Web Security | 🟡 Learning |
+| Network Security | 🟢 Proficient |
 | OWASP | 🟢 Proficient |
 
 ### Ai Ml
 
 | Skill | Status |
 |-------|--------|
-| Machine Learning | ⚪ Planned |
-| Deep Learning | 🔴 Beginner |
-| NLP | 🔴 Beginner |
-| Computer Vision | 🟢 Proficient |
+| Machine Learning | 🟢 Proficient |
+| Deep Learning | 🟢 Proficient |
+| NLP | 🟡 Learning |
+| Computer Vision | ⚪ Planned |
 | TensorFlow | 🔴 Beginner |
 | PyTorch | 🔴 Beginner |
 
@@ -525,17 +533,17 @@ See [kubernetes-announce@](https://groups.google.com/forum/#!forum/kubernetes-an
 | Skill | Status |
 |-------|--------|
 | Docker | 🔴 Beginner |
-| Kubernetes | 🟡 Learning |
+| Kubernetes | 🔴 Beginner |
 | CI/CD | 🟡 Learning |
-| AWS | 🟡 Learning |
-| Azure | ⚪ Planned |
+| AWS | 🟢 Proficient |
+| Azure | 🟡 Learning |
 
 ### Other
 
 | Skill | Status |
 |-------|--------|
-| Blockchain | 🟡 Learning |
-| Web3 | ⚪ Planned |
+| Blockchain | 🔴 Beginner |
+| Web3 | 🔴 Beginner |
 | Cloud Computing | ⚪ Planned |
 
 </details>
