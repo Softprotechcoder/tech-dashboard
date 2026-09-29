@@ -46,70 +46,84 @@
 
 ### 📑 Hacker News
 
-- **[500k facial scans at UK stations yield no arrests, 1 false positive](https://www.theguardian.com/technology/2026/sep/29/trial-live-facial-recognition-cameras-london-stations-false-positive)**
-  *<p>Article URL: <a href="https://www.theguardian.com/technology/2026/sep/29/trial-live-facial-recognition-cameras-london-stations-false-positive">https://www.theguardian.com/technology/2026/sep/29/tri...*
-  📅 Tue, 29 Sep 2026 11:35:18 +0000
+- **[Dots](https://openai.com/index/introducing-dots/)**
+  *<p>Article URL: <a href="https://openai.com/index/introducing-dots/">https://openai.com/index/introducing-dots/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49896604">https:/...*
+  📅 Tue, 29 Sep 2026 17:07:57 +0000
 
-- **[You Are No Longer Invited to Dinner](https://www.derekthompson.org/p/the-death-of-the-american-host)**
-  *<p>Article URL: <a href="https://www.derekthompson.org/p/the-death-of-the-american-host">https://www.derekthompson.org/p/the-death-of-the-american-host</a></p>
-<p>Comments URL: <a href="https://news.y...*
-  📅 Tue, 29 Sep 2026 11:14:45 +0000
+- **[GPT 6.1 Sol](https://openai.com/index/introducing-gpt-6-1-sol/)**
+  *<p>Article URL: <a href="https://openai.com/index/introducing-gpt-6-1-sol/">https://openai.com/index/introducing-gpt-6-1-sol/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=498...*
+  📅 Tue, 29 Sep 2026 17:06:45 +0000
 
-- **[Jeeves. Reasoning improves Jev-like decision models](https://github.com/PostHog/jeeves)**
-  *<p>Article URL: <a href="https://github.com/PostHog/jeeves">https://github.com/PostHog/jeeves</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49891290">https://news.ycombinator....*
-  📅 Tue, 29 Sep 2026 11:13:54 +0000
+- **[DraftKings Is Using AI to Behaviorally Target Chronic Gamblers](https://www.eff.org/deeplinks/2026/09/draftkings-using-ai-supercharge-harms-online-behavioral-advertising)**
+  *<p>Article URL: <a href="https://www.eff.org/deeplinks/2026/09/draftkings-using-ai-supercharge-harms-online-behavioral-advertising">https://www.eff.org/deeplinks/2026/09/draftkings-using-ai-supercharg...*
+  📅 Tue, 29 Sep 2026 16:30:48 +0000
 
-- **[New Cyber-OSINT model released](https://twitter.com/0x0SojalSec/status/2104736980768866439)**
-  *<p>Article URL: <a href="https://twitter.com/0x0SojalSec/status/2104736980768866439">https://twitter.com/0x0SojalSec/status/2104736980768866439</a></p>
-<p>Comments URL: <a href="https://news.ycombinat...*
-  📅 Tue, 29 Sep 2026 10:23:33 +0000
+- **[Show HN: NSL – WSL for Linux](https://frostyard.github.io/nsl/)**
+  *<p>One of the things that Windows really got right is WSL2. I drive an atomic Linux distro for daily use, but wanted a way to develop with multiple different distros with that same WSL UX.  NSL is my ...*
+  📅 Tue, 29 Sep 2026 14:51:36 +0000
 
-- **[AI companies leak data to advertisers [pdf]](https://jorgegarciaherrero.com/wp-content/interactivos/20260916-Prompt-like-a-butterfly-sting-like-a-tracker-(clean).pdf)**
-  *<p>Article URL: <a href="https://jorgegarciaherrero.com/wp-content/interactivos/20260916-Prompt-like-a-butterfly-sting-like-a-tracker-(clean).pdf">https://jorgegarciaherrero.com/wp-content/interactivo...*
-  📅 Tue, 29 Sep 2026 09:03:41 +0000
+- **[macOS Golden Gate Is a Buggy Mess](https://www.squareorbits.com/blog/2026/09/macos-golden-gate-is-a-buggy-mess/)**
+  *<p>Article URL: <a href="https://www.squareorbits.com/blog/2026/09/macos-golden-gate-is-a-buggy-mess/">https://www.squareorbits.com/blog/2026/09/macos-golden-gate-is-a-buggy-mess/</a></p>
+<p>Comments ...*
+  📅 Tue, 29 Sep 2026 14:32:33 +0000
 
-- **[Using any C++ library in Godot](https://blog.conan.io/cpp/conan/gamedev/godot/cmake/2026/09/29/Using-Any-Cpp-Library-In-Godot.html)**
-  *<p>Article URL: <a href="https://blog.conan.io/cpp/conan/gamedev/godot/cmake/2026/09/29/Using-Any-Cpp-Library-In-Godot.html">https://blog.conan.io/cpp/conan/gamedev/godot/cmake/2026/09/29/Using-Any-Cp...*
-  📅 Tue, 29 Sep 2026 08:40:37 +0000
+- **[Google ending ChromeOS support two years early](https://www.theregister.com/os-platforms/2026/09/29/google-ending-chromeos-support-two-years-early/5299674)**
+  *<p>Article URL: <a href="https://www.theregister.com/os-platforms/2026/09/29/google-ending-chromeos-support-two-years-early/5299674">https://www.theregister.com/os-platforms/2026/09/29/google-ending-c...*
+  📅 Tue, 29 Sep 2026 14:12:15 +0000
 
 ### 📑 TechCrunch
 
-- **[Protego Ventures closes debut $125 million fund for Israeli defense tech](https://techcrunch.com/2026/09/29/protego-ventures-closes-debut-125-million-fund-for-israeli-defense-tech/)**
-  *Protego Ventures, the first and largest dedicated defense tech VC in Israel, just completed its final $125 million closing, TechCrunch learned exclusively....*
-  📅 Tue, 29 Sep 2026 10:00:00 +0000
+- **[OpenAI launches Dots, its bubbly agentic avatar](https://techcrunch.com/2026/09/29/openai-launches-dots-its-bubbly-agentic-avatar/)**
+  *Dots are meant to operate independent of any specific hardware or interface, pursuing user-defined goals continuously in the background with minimal oversight....*
+  📅 Tue, 29 Sep 2026 17:17:15 +0000
 
-- **[Ex-Tesla team raises $12.5M to put supply chains on autopilot](https://techcrunch.com/2026/09/29/ex-tesla-team-raises-12-5m-to-put-supply-chains-on-autopilot/)**
-  *Atomic's agentic supply chain software is now being used by companies like DoorDash and HelloFresh....*
-  📅 Tue, 29 Sep 2026 09:00:00 +0000
+- **[OpenAI gives Codex reusable cloud environments that work across devices](https://techcrunch.com/2026/09/29/openai-gives-codex-reusable-cloud-environments-that-work-across-devices/)**
+  *OpenAI is expanding Codex with reusable cloud development environments, a revamped CLI with voice controls, new code review tools and a security-focused product for scanning repositories and preparing...*
+  📅 Tue, 29 Sep 2026 17:15:00 +0000
 
-- **[Anthropic’s prospectus details losses, growth, and, yes, a warning that its AI could end humanity](https://techcrunch.com/2026/09/28/anthropics-prospectus-details-losses-growth-and-yes-a-warning-that-its-ai-could-end-humanity/)**
-  *In its prospectus, Anthropic just told investors it's losing tens of billions of dollars a year, but also growing like crazy, and — oh yeah — its own AI might pose an existential risk to humanity....*
-  📅 Tue, 29 Sep 2026 05:13:43 +0000
+- **[OpenAI launches GPT-6.1 Sol, says it nearly matches GPT-6 Astra and costs less](https://techcrunch.com/2026/09/29/openai-launches-gpt-6-1-sol-says-it-nearly-matches-gpt-6-astra-and-costs-less/)**
+  *OpenAI says GPT-6.1 Sol delivers significant improvements over GPT-6 Sol across complex professional tasks, including code writing and debugging, document understanding, and executing multi-step busin...*
+  📅 Tue, 29 Sep 2026 17:15:00 +0000
 
-- **[Peak XV ups Surge seed investment ceiling to $5M, unveils 18-startup cohort](https://techcrunch.com/2026/09/28/peak-xv-goes-bigger-at-seed-with-new-surge-cohort-as-series-a-bar-rises/)**
-  *Thirteen of the 18 startups in Peak XV’s latest Surge cohort are targeting global markets, while more than half are based in India....*
-  📅 Tue, 29 Sep 2026 00:30:00 +0000
+- **[OpenAI expands ChatGPT’s plugins with app-like interfaces and automations](https://techcrunch.com/2026/09/29/openai-expands-chatgpts-plugins-with-app-like-interfaces-and-automations/)**
+  *OpenAI is expanding ChatGPT plugins with dedicated sidebar homes, interactive panels, file viewers, improved discovery, and support for automations....*
+  📅 Tue, 29 Sep 2026 17:15:00 +0000
 
-- **[OpenAI reportedly ditches model over safety concerns](https://techcrunch.com/2026/09/28/openai-reportedly-ditches-model-over-safety-concerns/)**
-  *A top executive at the AI lab told the Wall Street Journal that the model in question had displayed a poor aptitude for following orders....*
-  📅 Mon, 28 Sep 2026 23:39:20 +0000
+- **[Can a chatbot fix the government maze? The White House is about to find out](https://techcrunch.com/2026/09/29/can-a-chatbot-fix-the-government-maze-the-white-house-is-about-to-find-out/)**
+  *America.gov is intended to simplify the process of navigating government bureaucracy, but language models are imperfect and remain prone to hallucinations, which could cause new issues....*
+  📅 Tue, 29 Sep 2026 16:55:56 +0000
 
-- **[Aurora CFO says 30,000 driverless trucks by 2030 isn’t as far-fetched as it sounds](https://techcrunch.com/2026/09/28/aurora-cfo-says-30000-driverless-trucks-by-2030-isnt-as-far-fetched-as-it-sounds/)**
-  *Self-driving truck company Aurora laid out an audacious plan for 2030. Its CFO says its targets aren't aspirational....*
-  📅 Mon, 28 Sep 2026 22:58:35 +0000
+- **[Instinct founder said more than 50% of transactions on the platform are travel-related](https://techcrunch.com/2026/09/29/instinct-founder-said-more-than-50-of-transactions-on-the-platform-are-travel-related/)**
+  *Instinct founder said the platform is growing 10% day by day, with transaction volume increasing at a similar rate....*
+  📅 Tue, 29 Sep 2026 15:12:07 +0000
 
 ### 📑 Dev.to
 
-- **[Inside the virtual chamber where AI senators debate real policy](https://dev.to/mequelkramer/inside-the-virtual-chamber-where-ai-senators-debate-real-policy-2ed1)**
-  *<p>There's a website I keep open in a tab most days. It calls itself AI Senate — "Equal Senators, live chamber" — and it's exactly what it sounds like: a virtual chamber where AI senators with distinc...*
-  📅 Tue, 29 Sep 2026 11:42:50 +0000
+- **[The Harness Converges. Rules Decide What It Converges On.](https://dev.to/jeelvankhede/the-harness-converges-rules-decide-what-it-converges-on-19dp)**
+  *<p>You point the agent at the repo. It plans. It writes. It runs the tests, reads the failures, fixes them, and hands you back something that works.</p>
 
-- **[🐳 🔄 Docker Desktop + WSL2 on Windows 11](https://dev.to/fonteeboa/docker-desktop-wsl2-on-windows-11-my-strongest-reset-4h15)**
-  *<p>I currently maintain two development environments: <strong>one Linux and one Windows 11</strong>.</p>
+<p>You read the diff. It is fine.</p>
 
-<p>On Linux, this kind of problem is much less frequent for me. On Windows 11, however, <stron...*
-  📅 Tue, 29 Sep 2026 11:42:42 +0000
+<p>It i...*
+  📅 Tue, 29 Sep 2026 17:18:38 +0000
+
+- **[Sentinel Memory: Building a SOC That Learns From Its Own Investigations](https://dev.to/rohith_kumar_f90f5c163027/sentinel-memory-building-a-soc-that-learns-from-its-own-investigations-2ofl)**
+  *<h1>
+  
+  
+  Sentinel Memory: Building a SOC That Learns From Its Own Investigations
+</h1>
+
+<h2>
+  
+  
+  Introduction
+</h2>
+
+<p>Modern Security Operations Centers (SOCs) deal with a huge number of sec...*
+  📅 Tue, 29 Sep 2026 17:18:36 +0000
 
 </details>
 
@@ -117,103 +131,103 @@
 
 ### 📈 Daily Trending
 
-- **[wy51ai/floorplan-3d](https://github.com/wy51ai/floorplan-3d)** ⭐ 235
+- **[wy51ai/floorplan-3d](https://github.com/wy51ai/floorplan-3d)** ⭐ 394
   ![HTML](https://img.shields.io/badge/-HTML-lightgrey)
   None
 
-- **[Ghentlesteve/dhis2-immunisation-audit](https://github.com/Ghentlesteve/dhis2-immunisation-audit)** ⭐ 145
-  ![Jupyter Notebook](https://img.shields.io/badge/-Jupyter Notebook-lightgrey)
-  Pulling DHIS2 immunisation data through the API, auditing its quality and comparing forecasting models against a baseline (Python, statsmodels, scikit-learn).
+- **[PostHog/jeeves](https://github.com/PostHog/jeeves)** ⭐ 196
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  Jeeves – Reasoning improves Jev-like decision models
 
-- **[shapegasenchant/Delta-Executor-Roblox](https://github.com/shapegasenchant/Delta-Executor-Roblox)** ⭐ 101
-  ![None](https://img.shields.io/badge/-None-lightgrey)
-  The most popular Roblox script executor for PC. Fast injection, Lua scripting, built-in script editor, script hub, key system, Windows 10/11. Free and regularly updated. Topics
-
-- **[fulldiagnose/antigravity-fixer](https://github.com/fulldiagnose/antigravity-fixer)** ⭐ 50
+- **[fulldiagnose/antigravity-fixer](https://github.com/fulldiagnose/antigravity-fixer)** ⭐ 87
   ![Python](https://img.shields.io/badge/-Python-blue)
   Fix Antigravity 'not eligible' error - diagnose, clean credentials, auto-fix
 
-- **[MiaAI-Lab/Qwen3.8-Flash-Next-Single-DGX-Spark-TensorFold](https://github.com/MiaAI-Lab/Qwen3.8-Flash-Next-Single-DGX-Spark-TensorFold)** ⭐ 33
+- **[MiaAI-Lab/Qwen3.8-Flash-Next-Single-DGX-Spark-TensorFold](https://github.com/MiaAI-Lab/Qwen3.8-Flash-Next-Single-DGX-Spark-TensorFold)** ⭐ 58
   ![Shell](https://img.shields.io/badge/-Shell-lightgrey)
   Qwen3.8 Flash Next on one DGX Spark (TensorFold)
 
-- **[nuyoah-ai-works/nuyoah-outfit-asset-generator](https://github.com/nuyoah-ai-works/nuyoah-outfit-asset-generator)** ⭐ 29
+- **[nuyoah-ai-works/nuyoah-outfit-asset-generator](https://github.com/nuyoah-ai-works/nuyoah-outfit-asset-generator)** ⭐ 38
   ![None](https://img.shields.io/badge/-None-lightgrey)
   从服装参考图生成整套与拆件资产板的 MIT Skill
 
-- **[omdesale777/avcoe-code-roaster](https://github.com/omdesale777/avcoe-code-roaster)** ⭐ 28
-  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
-  None
+- **[Moris-kr/ai-chatroom](https://github.com/Moris-kr/ai-chatroom)** ⭐ 35
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
+  A web group chat where Claude, ChatGPT, Grok and Gemini hang out and talk on their own, powered by your logged-in CLIs (no API keys). English / 한국어 / 日本語
 
-- **[FoShmily/ai-paper-system](https://github.com/FoShmily/ai-paper-system)** ⭐ 27
+- **[gentlefress/OMEGA-0](https://github.com/gentlefress/OMEGA-0)** ⭐ 33
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  The offical code of ω-0: A Latent Predictive World Action Model for Concurrent Humanoid Loco-Manipulation
+
+- **[FoShmily/ai-paper-system](https://github.com/FoShmily/ai-paper-system)** ⭐ 29
   ![None](https://img.shields.io/badge/-None-lightgrey)
   AI论文系统 · AI论文生成、AI论文写作，一键论文生成，降AIGC、降重、答辩PPT · OEM白标招商加盟
 
 ### 📈 Weekly Trending
 
-- **[Contrastive-LM/CLM](https://github.com/Contrastive-LM/CLM)** ⭐ 2,400
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  None
-
-- **[KKKKhazix/AIHOT](https://github.com/KKKKhazix/AIHOT)** ⭐ 2,376
+- **[KKKKhazix/AIHOT](https://github.com/KKKKhazix/AIHOT)** ⭐ 2,860
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   一个自己找热点、自己写日报的网站框架。把信源和精选标准换成你的，它就是你的行业热点站。
 
-- **[mexicat/pdoom-video](https://github.com/mexicat/pdoom-video)** ⭐ 1,886
-  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
-  Code-rendered music video for "I'm Upping My P(doom)"
-
-- **[tobi/disktree](https://github.com/tobi/disktree)** ⭐ 1,864
-  ![Rust](https://img.shields.io/badge/-Rust-brown)
-  A treemap for finding and removing what fills your disk, for Omarchy. Rust + GPUI.
-
-- **[yetone/magpie](https://github.com/yetone/magpie)** ⭐ 1,859
+- **[yetone/magpie](https://github.com/yetone/magpie)** ⭐ 2,476
   ![Go](https://img.shields.io/badge/-Go-cyan)
   Every agent's model. One place. Codex on DeepSeek, Claude Code on Kimi, from the menu bar.
 
-- **[dzhng/jevgrep](https://github.com/dzhng/jevgrep)** ⭐ 1,617
+- **[Contrastive-LM/CLM](https://github.com/Contrastive-LM/CLM)** ⭐ 2,461
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  None
+
+- **[mexicat/pdoom-video](https://github.com/mexicat/pdoom-video)** ⭐ 1,945
+  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
+  Code-rendered music video for "I'm Upping My P(doom)"
+
+- **[tobi/disktree](https://github.com/tobi/disktree)** ⭐ 1,884
+  ![Rust](https://img.shields.io/badge/-Rust-brown)
+  A treemap for finding and removing what fills your disk, for Omarchy. Rust + GPUI.
+
+- **[dzhng/jevgrep](https://github.com/dzhng/jevgrep)** ⭐ 1,715
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   Find code by asking what it does. A CLI for coding agents that uses Jev to discover relevant files and source context.
 
-- **[Niko1221/Strata](https://github.com/Niko1221/Strata)** ⭐ 1,342
+- **[Niko1221/Strata](https://github.com/Niko1221/Strata)** ⭐ 1,555
   ![C++](https://img.shields.io/badge/-C++-pink)
   Qwen3.8-Flash-Next (125B MoE) on a 8GB+ NVIDIA GPU: one-click install for Windows / Linux. Strata inference engine, OpenAI/Anthropic API on localhost, optional image input.
 
-- **[mikehasa/golive-skill](https://github.com/mikehasa/golive-skill)** ⭐ 1,084
+- **[mikehasa/golive-skill](https://github.com/mikehasa/golive-skill)** ⭐ 1,100
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   Take your agent-built product live: hosting, database, domain, email, payments — on your own accounts. Open-source Agent Skill + zero-dependency Node CLI: detect → plan → approve → apply → verify. No GoLive account, backend or telemetry.
 
 ### 📈 Monthly Trending
 
-- **[NandhaKishorM/laya](https://github.com/NandhaKishorM/laya)** ⭐ 28,134
+- **[NandhaKishorM/laya](https://github.com/NandhaKishorM/laya)** ⭐ 28,392
   ![Python](https://img.shields.io/badge/-Python-blue)
   Non-autoregressive System 1 decision engine. Typed choice, score and yes/no decisions over any text in a single forward pass, in 100+ languages, with a router that picks the right checkpoint per request.
 
-- **[eternity4719/HowToLiveBetter](https://github.com/eternity4719/HowToLiveBetter)** ⭐ 26,336
+- **[eternity4719/HowToLiveBetter](https://github.com/eternity4719/HowToLiveBetter)** ⭐ 27,606
   ![HTML](https://img.shields.io/badge/-HTML-lightgrey)
   按性价比排序的循证生活指南：长寿防病、急救、省钱理财、法律红线、失业与工伤、医保社保、恋爱婚育、怀孕育儿、创业与做平台合规、出国与技能。每条写明成本、收益、证据等级和原始出处，只引期刊论文与官方文件。
 
-- **[browser-use/jev-ultrafast](https://github.com/browser-use/jev-ultrafast)** ⭐ 21,291
+- **[browser-use/jev-ultrafast](https://github.com/browser-use/jev-ultrafast)** ⭐ 21,344
   ![Python](https://img.shields.io/badge/-Python-blue)
   Fastest and cheapest web agent
 
-- **[lnkiai/m3e-canvas](https://github.com/lnkiai/m3e-canvas)** ⭐ 8,438
+- **[lnkiai/m3e-canvas](https://github.com/lnkiai/m3e-canvas)** ⭐ 8,452
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   Sketch Material 3 Expressive screens in the browser and turn them into vibe-coding prompts.
 
-- **[jaredpalmer/kev](https://github.com/jaredpalmer/kev)** ⭐ 7,789
+- **[jaredpalmer/kev](https://github.com/jaredpalmer/kev)** ⭐ 7,847
   ![Python](https://img.shields.io/badge/-Python-blue)
   Jev-like family of decision models built on top of Qwen3.5/3.8 you can train and run on your own
 
-- **[Human-Agent-Society/reef](https://github.com/Human-Agent-Society/reef)** ⭐ 7,195
+- **[Human-Agent-Society/reef](https://github.com/Human-Agent-Society/reef)** ⭐ 7,316
   ![Python](https://img.shields.io/badge/-Python-blue)
   Infrastructure for continually self‑improving agents
 
-- **[tamaratran/fast-jev-compaction](https://github.com/tamaratran/fast-jev-compaction)** ⭐ 7,171
+- **[tamaratran/fast-jev-compaction](https://github.com/tamaratran/fast-jev-compaction)** ⭐ 7,182
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   Claude Code plugin that replaces the compaction summary with Jev decisions: every tool call and result is scored in one fast request, stale ones are dropped or truncated, everything kept stays verbatim.
 
-- **[zai-org/ZCode](https://github.com/zai-org/ZCode)** ⭐ 7,135
+- **[zai-org/ZCode](https://github.com/zai-org/ZCode)** ⭐ 7,157
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   Z.ai's coding agent harness. Powerful, intelligent, extensible.
 
@@ -485,57 +499,57 @@ See [kubernetes-announce@](https://groups.google.com/forum/#!forum/kubernetes-an
 
 | Skill | Status |
 |-------|--------|
-| Java | ⚪ Planned |
-| Python | ⚪ Planned |
-| JavaScript | 🟢 Proficient |
-| TypeScript | 🟡 Learning |
-| Go | 🔴 Beginner |
+| Java | 🔴 Beginner |
+| Python | 🟢 Proficient |
+| JavaScript | 🟡 Learning |
+| TypeScript | ⚪ Planned |
+| Go | ⚪ Planned |
 
 ### Frameworks
 
 | Skill | Status |
 |-------|--------|
-| React | 🔴 Beginner |
-| Spring Boot | 🔴 Beginner |
-| Django | ⚪ Planned |
-| Node.js | ⚪ Planned |
-| Next.js | ⚪ Planned |
+| React | 🟢 Proficient |
+| Spring Boot | 🟡 Learning |
+| Django | 🔴 Beginner |
+| Node.js | 🟢 Proficient |
+| Next.js | 🟡 Learning |
 
 ### Cybersecurity
 
 | Skill | Status |
 |-------|--------|
-| Penetration Testing | 🟢 Proficient |
-| Web Security | 🔴 Beginner |
-| Network Security | 🟡 Learning |
-| OWASP | ⚪ Planned |
+| Penetration Testing | 🟡 Learning |
+| Web Security | 🟡 Learning |
+| Network Security | ⚪ Planned |
+| OWASP | 🟡 Learning |
 
 ### Ai Ml
 
 | Skill | Status |
 |-------|--------|
-| Machine Learning | 🟡 Learning |
+| Machine Learning | 🟢 Proficient |
 | Deep Learning | 🟢 Proficient |
 | NLP | ⚪ Planned |
 | Computer Vision | ⚪ Planned |
-| TensorFlow | 🟡 Learning |
-| PyTorch | 🟡 Learning |
+| TensorFlow | 🟢 Proficient |
+| PyTorch | ⚪ Planned |
 
 ### Devops
 
 | Skill | Status |
 |-------|--------|
-| Docker | 🟢 Proficient |
-| Kubernetes | ⚪ Planned |
-| CI/CD | 🔴 Beginner |
+| Docker | ⚪ Planned |
+| Kubernetes | 🟢 Proficient |
+| CI/CD | ⚪ Planned |
 | AWS | 🟢 Proficient |
-| Azure | 🟡 Learning |
+| Azure | ⚪ Planned |
 
 ### Other
 
 | Skill | Status |
 |-------|--------|
-| Blockchain | 🟢 Proficient |
+| Blockchain | 🔴 Beginner |
 | Web3 | ⚪ Planned |
 | Cloud Computing | 🟢 Proficient |
 
