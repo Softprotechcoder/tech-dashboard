@@ -46,34 +46,33 @@
 
 ### 📑 Hacker News
 
+- **[Why media fans want to escape algorithms with CDs, DVDs and vinyl](https://www.theguardian.com/media/2026/oct/02/physical-media-fans-streaming-algorithms-cds-dvds-vinyl)**
+  *<p>Article URL: <a href="https://www.theguardian.com/media/2026/oct/02/physical-media-fans-streaming-algorithms-cds-dvds-vinyl">https://www.theguardian.com/media/2026/oct/02/physical-media-fans-stream...*
+  📅 Fri, 02 Oct 2026 10:50:08 +0000
+
+- **[Show HN: Audionaut – an open-source cross-platform multitrack audio editor](https://github.com/kvoltmer/Audionaut)**
+  *<p>Article URL: <a href="https://github.com/kvoltmer/Audionaut">https://github.com/kvoltmer/Audionaut</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49931031">https://news.ycom...*
+  📅 Fri, 02 Oct 2026 08:05:48 +0000
+
+- **[Shimano Bicycle Museum Review](https://inrng.com/2026/10/shimano-bicycle-museum/)**
+  *<p>Article URL: <a href="https://inrng.com/2026/10/shimano-bicycle-museum/">https://inrng.com/2026/10/shimano-bicycle-museum/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=499...*
+  📅 Fri, 02 Oct 2026 05:12:58 +0000
+
+- **[Building reliable (and fast) directory sync](https://www.firezone.dev/blog/building-reliable-directory-sync)**
+  *<p>Article URL: <a href="https://www.firezone.dev/blog/building-reliable-directory-sync">https://www.firezone.dev/blog/building-reliable-directory-sync</a></p>
+<p>Comments URL: <a href="https://news.y...*
+  📅 Fri, 02 Oct 2026 04:45:36 +0000
+
+- **[DeepSeek Harness Desktop for macOS and Windows](https://www.deepseek.com/en/harness/)**
+  *<p>Article URL: <a href="https://www.deepseek.com/en/harness/">https://www.deepseek.com/en/harness/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49929489">https://news.ycombi...*
+  📅 Fri, 02 Oct 2026 03:11:20 +0000
+
 - **[How Singapore's government-run dating service works](https://www.singapore-samizdat.com/p/how-singapores-government-run-dating-service-firstdate-works)**
   *<p>Article URL: <a href="https://www.singapore-samizdat.com/p/how-singapores-government-run-dating-service-firstdate-works">https://www.singapore-samizdat.com/p/how-singapores-government-run-dating-se...*
   📅 Fri, 02 Oct 2026 01:56:52 +0000
-
-- **[Butterflies use optical illusions to dodge predators](https://www.essex.ac.uk/news/2026/09/30/butterflies-use-optical-illusions-to-dodge-predators)**
-  *<p>Article URL: <a href="https://www.essex.ac.uk/news/2026/09/30/butterflies-use-optical-illusions-to-dodge-predators">https://www.essex.ac.uk/news/2026/09/30/butterflies-use-optical-illusions-to-dodg...*
-  📅 Thu, 01 Oct 2026 23:15:24 +0000
-
-- **[Several vulnerabilities have been discovered in the Linux kernel](https://lwn.net/Articles/1097401/)**
-  *<p>Article URL: <a href="https://lwn.net/Articles/1097401/">https://lwn.net/Articles/1097401/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49928121">https://news.ycombinator....*
-  📅 Thu, 01 Oct 2026 23:10:44 +0000
-
-- **[2026 International Utility Locate Rodeo](https://locaterodeo.net/)**
-  *<p>Article URL: <a href="https://locaterodeo.net/">https://locaterodeo.net/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49927844">https://news.ycombinator.com/item?id=499278...*
-  📅 Thu, 01 Oct 2026 22:33:23 +0000
-
-- **[Frog and Toad and the Increasingly Capable Machines](https://www.frogandtoad.ai/)**
-  *<p>Article URL: <a href="https://www.frogandtoad.ai/">https://www.frogandtoad.ai/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49927760">https://news.ycombinator.com/item?id=...*
-  📅 Thu, 01 Oct 2026 22:23:38 +0000
-
-- **[Aweb – Communication for AI Agents](https://aweb.ai)**
-  *<p>Article URL: <a href="https://aweb.ai">https://aweb.ai</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49927587">https://news.ycombinator.com/item?id=49927587</a></p>
-<p>Poin...*
-  📅 Thu, 01 Oct 2026 22:02:31 +0000
 
 ### 📑 TechCrunch
 
@@ -103,13 +102,19 @@
 
 ### 📑 Dev.to
 
-- **[What Nginx Does in a Web App: Static Server, Reverse Proxy, and More](https://dev.to/__3381495fd2b/what-nginx-does-in-a-web-app-static-server-reverse-proxy-and-more-3613)**
-  *<p>When a browser requests your app, which process actually handles the request? In many deployments, it’s Nginx at the public edge—and an application process behind it doing the app-specific work.</p...*
-  📅 Fri, 02 Oct 2026 03:12:17 +0000
+- **[Hello DEV! 👋 This Is My First Post](https://dev.to/nency_chandiramani/hello-dev-this-is-my-first-post-388n)**
+  *<p>Hey everyone! 👋</p>
 
-- **[Copying Directories in Linux: Choose Between cp -r, cp -a, and rsync](https://dev.to/__3381495fd2b/copying-directories-in-linux-choose-between-cp-r-cp-a-and-rsync-26in)**
-  *<p>Copying a directory in Linux is easy; copying it to the <em>right shape</em> is where mistakes happen. The destination may end up with an unexpected nested folder, hidden files may be skipped by a ...*
-  📅 Fri, 02 Oct 2026 03:11:53 +0000
+<p>This is officially my first post on DEV.to!</p>
+
+<p>I recently discovered the amazing world of open source and decided to participate in Hacktoberfest this year. 🌱</p>
+
+<p>I...*
+  📅 Fri, 02 Oct 2026 11:30:26 +0000
+
+- **[8h40 com todos os dados e nenhum aviso](https://dev.to/francisco_daschagas/8h40-com-todos-os-dados-e-nenhum-aviso-2gd0)**
+  *<p><a class="article-body-image-wrapper" href="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws...*
+  📅 Fri, 02 Oct 2026 11:30:00 +0000
 
 </details>
 
@@ -117,103 +122,103 @@
 
 ### 📈 Daily Trending
 
-- **[theghostonline/Nuvio-PS5](https://github.com/theghostonline/Nuvio-PS5)** ⭐ 5
-  ![C](https://img.shields.io/badge/-C-lightgrey)
-  Nuvio for PlayStation 5 - the Nuvio TV interface as a PS5 app with a native 4K HDR player
+- **[mkdir700/wx-ime-sdk](https://github.com/mkdir700/wx-ime-sdk)** ⭐ 40
+  ![Rust](https://img.shields.io/badge/-Rust-brown)
+  微信输入法（WeType）跨设备剪贴板的独立 Rust 客户端
 
-- **[ikeige-coder/eXCore](https://github.com/ikeige-coder/eXCore)** ⭐ 3
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  None
-
-- **[lpeixin/app-pocket](https://github.com/lpeixin/app-pocket)** ⭐ 3
-  ![Swift](https://img.shields.io/badge/-Swift-lightgrey)
-  A fast, high-density SwiftUI launcher for macOS with smart categories, drag-and-drop, and live app monitoring.
-
-- **[tarikhagustia/pixel-hq](https://github.com/tarikhagustia/pixel-hq)** ⭐ 3
-  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
-  A cozy, Stardew-style pixel-art virtual office for small dev teams (1–10 people) — Gather.town Alternative proximity voice, chat and meetings, running entirely in the browser.
-
-- **[URI-Code/campushub](https://github.com/URI-Code/campushub)** ⭐ 3
-  ![Kotlin](https://img.shields.io/badge/-Kotlin-lightgrey)
-  None
-
-- **[zzjj-fdu/Xmission](https://github.com/zzjj-fdu/Xmission)** ⭐ 3
-  ![None](https://img.shields.io/badge/-None-lightgrey)
-  游戏化桌面日程与任务管理工具，支持 AI 课表识别、悬浮任务栏、番茄钟和四套动态主题。
-
-- **[Acarfilms/vitrine](https://github.com/Acarfilms/vitrine)** ⭐ 2
+- **[YusufAbdulah/Auto-Mining-ATF-Dashboard](https://github.com/YusufAbdulah/Auto-Mining-ATF-Dashboard)** ⭐ 37
   ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
-  Liquid Glass cards for your GitHub profile README, rendered by a GitHub Action in your own repository.
+  Bot Node.js untuk berinteraksi dengan ATF Telegram Mini App menggunakan file session Telethon with Dashboard
 
-- **[ramoncooling-hue/airamon](https://github.com/ramoncooling-hue/airamon)** ⭐ 2
-  ![None](https://img.shields.io/badge/-None-lightgrey)
+- **[Dominic-DK/harness-map](https://github.com/Dominic-DK/harness-map)** ⭐ 33
+  ![HTML](https://img.shields.io/badge/-HTML-lightgrey)
+  Claude Code 하네스(지시 파일·기억·도구·권한·훅)를 폴더별·스폰 방식별 조립도로 보여 주는 도구
+
+- **[bangtutorial/bang-story](https://github.com/bangtutorial/bang-story)** ⭐ 28
+  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
+  Aplikasi desktop untuk mengubah ide cerita jadi video YouTube dengan AI. Masukin ide cerita: naskha, gambar, video jadi otomatis.
+
+- **[jarrodwatts/intermission](https://github.com/jarrodwatts/intermission)** ⭐ 25
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
+  Play Doom deathmatch while Claude works. A Claude Code plugin.
+
+- **[luki-1/ArkWeb](https://github.com/luki-1/ArkWeb)** ⭐ 18
+  ![C++](https://img.shields.io/badge/-C++-pink)
+  Spider-Man Remastered's web swinging in Batman: Arkham Knight's Gotham (experimental mod)
+
+- **[zzzz7788990213-ops/EvoVLM](https://github.com/zzzz7788990213-ops/EvoVLM)** ⭐ 14
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  Evolving Multimodal Inference Programs: LLM-guided evolutionary search for accurate and efficient vision-language inference.
+
+- **[itext/markdown2pdf-gh-action](https://github.com/itext/markdown2pdf-gh-action)** ⭐ 12
+  ![Java](https://img.shields.io/badge/-Java-orange)
   None
 
 ### 📈 Weekly Trending
 
-- **[KKKKhazix/AIHOT](https://github.com/KKKKhazix/AIHOT)** ⭐ 4,703
+- **[KKKKhazix/AIHOT](https://github.com/KKKKhazix/AIHOT)** ⭐ 4,890
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   一个自己找热点、自己写日报的网站框架。把信源和精选标准换成你的，它就是你的行业热点站。
 
-- **[Louis-CFM/coucou](https://github.com/Louis-CFM/coucou)** ⭐ 2,513
+- **[Louis-CFM/coucou](https://github.com/Louis-CFM/coucou)** ⭐ 2,705
   ![Swift](https://img.shields.io/badge/-Swift-lightgrey)
   A tiny friend that lives in your notch (macOS) or at the top of your screen (Windows, Linux) and keeps an eye on your coding agents: Claude Code, Gemini CLI, Antigravity and more.
 
-- **[feder-cr/dots](https://github.com/feder-cr/dots)** ⭐ 2,390
+- **[feder-cr/dots](https://github.com/feder-cr/dots)** ⭐ 2,416
   ![Python](https://img.shields.io/badge/-Python-blue)
   Open-source dots for the web: an AI agent with its own browser, one that does not get blocked.
 
-- **[dzhng/jevgrep](https://github.com/dzhng/jevgrep)** ⭐ 2,003
+- **[dzhng/jevgrep](https://github.com/dzhng/jevgrep)** ⭐ 2,030
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   Find code by asking what it does. A CLI for coding agents that uses Jev to discover relevant files and source context.
 
-- **[rehan-remade/universal-modder](https://github.com/rehan-remade/universal-modder)** ⭐ 1,606
+- **[rehan-remade/universal-modder](https://github.com/rehan-remade/universal-modder)** ⭐ 1,781
   ![Python](https://img.shields.io/badge/-Python-blue)
   Point Claude at any game. Skills, tools and the fal MCP that let Claude Code mod almost any PC game you own: recon, reverse engineering, fal-generated art/3D/audio, in-game testing, showcase videos.
 
-- **[kaankiziltug/logo-design-skill](https://github.com/kaankiziltug/logo-design-skill)** ⭐ 1,363
+- **[kaankiziltug/logo-design-skill](https://github.com/kaankiziltug/logo-design-skill)** ⭐ 1,413
   ![HTML](https://img.shields.io/badge/-HTML-lightgrey)
   A comprehensive logo-design skill for Claude, Gemini CLI, Codex and other AI agents: principles, process, SVG craft, testing tools and a 1,400+ logo reference library.
 
-- **[firelex/jeff](https://github.com/firelex/jeff)** ⭐ 1,272
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  Millisecond decisions, any domain: a 0.8B open "System 1" model that picks between your options with calibrated probabilities. One base, swappable LoRA adapters, on your own hardware.
-
-- **[yihui-dev/awesome-opus5-5-videos](https://github.com/yihui-dev/awesome-opus5-5-videos)** ⭐ 1,265
+- **[yihui-dev/awesome-opus5-5-videos](https://github.com/yihui-dev/awesome-opus5-5-videos)** ⭐ 1,342
   ![None](https://img.shields.io/badge/-None-lightgrey)
   A growing collection of viral videos made with Claude Opus 5.5 and the prompts behind them. Watch each original next to a live remake on Skillry. Updated regularly.
 
+- **[firelex/jeff](https://github.com/firelex/jeff)** ⭐ 1,297
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  Millisecond decisions, any domain: a 0.8B open "System 1" model that picks between your options with calibrated probabilities. One base, swappable LoRA adapters, on your own hardware.
+
 ### 📈 Monthly Trending
 
-- **[eternity4719/HowToLiveBetter](https://github.com/eternity4719/HowToLiveBetter)** ⭐ 33,668
+- **[eternity4719/HowToLiveBetter](https://github.com/eternity4719/HowToLiveBetter)** ⭐ 34,470
   ![HTML](https://img.shields.io/badge/-HTML-lightgrey)
   高性价比人生指南: 长寿防病、急救、省钱理财、法律红线、失业与工伤、医保社保、恋爱婚育、怀孕育儿、创业与做平台合规、出国与技能。每条写明成本、收益、证据等级和原始出处，只引期刊论文与官方文件。
 
-- **[NandhaKishorM/laya](https://github.com/NandhaKishorM/laya)** ⭐ 29,891
+- **[NandhaKishorM/laya](https://github.com/NandhaKishorM/laya)** ⭐ 30,034
   ![Python](https://img.shields.io/badge/-Python-blue)
   Non-autoregressive System 1 decision engine. Typed choice, score and yes/no decisions over any text in a single forward pass, in 100+ languages, with a router that picks the right checkpoint per request.
 
-- **[browser-use/jev-ultrafast](https://github.com/browser-use/jev-ultrafast)** ⭐ 21,714
+- **[browser-use/jev-ultrafast](https://github.com/browser-use/jev-ultrafast)** ⭐ 21,764
   ![Python](https://img.shields.io/badge/-Python-blue)
   Fastest and cheapest web agent
 
-- **[jaredpalmer/kev](https://github.com/jaredpalmer/kev)** ⭐ 8,209
+- **[jaredpalmer/kev](https://github.com/jaredpalmer/kev)** ⭐ 8,262
   ![Python](https://img.shields.io/badge/-Python-blue)
   Jev-like family of decision models built on top of Qwen3.5/3.8 you can train and run on your own
 
-- **[tamaratran/fast-jev-compaction](https://github.com/tamaratran/fast-jev-compaction)** ⭐ 7,311
+- **[tamaratran/fast-jev-compaction](https://github.com/tamaratran/fast-jev-compaction)** ⭐ 7,322
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   Claude Code plugin that replaces the compaction summary with Jev decisions: every tool call and result is scored in one fast request, stale ones are dropped or truncated, everything kept stays verbatim.
 
-- **[zai-org/ZCode](https://github.com/zai-org/ZCode)** ⭐ 7,303
+- **[zai-org/ZCode](https://github.com/zai-org/ZCode)** ⭐ 7,316
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   Z.ai's coding agent harness. Powerful, intelligent, extensible.
 
-- **[jev-chat/jev-chat-jarvis](https://github.com/jev-chat/jev-chat-jarvis)** ⭐ 7,231
+- **[jev-chat/jev-chat-jarvis](https://github.com/jev-chat/jev-chat-jarvis)** ⭐ 7,248
   ![Kotlin](https://img.shields.io/badge/-Kotlin-lightgrey)
   装在手机上的对话副驾：在 QQ / X / 飞书里读懂对方、给出候选回复、一键填入输入框，发不发由你。非侵入，只读屏幕，不 hook 不改包。
 
-- **[robbietilton/Compositor](https://github.com/robbietilton/Compositor)** ⭐ 6,797
+- **[robbietilton/Compositor](https://github.com/robbietilton/Compositor)** ⭐ 6,924
   ![Swift](https://img.shields.io/badge/-Swift-lightgrey)
   The Photoshop alternative for Mac
 
@@ -483,19 +488,19 @@ See [kubernetes-announce@](https://groups.google.com/forum/#!forum/kubernetes-an
 
 | Skill | Status |
 |-------|--------|
-| Java | 🔴 Beginner |
+| Java | 🟡 Learning |
 | Python | 🟡 Learning |
 | JavaScript | 🟢 Proficient |
-| TypeScript | ⚪ Planned |
-| Go | 🔴 Beginner |
+| TypeScript | 🔴 Beginner |
+| Go | 🟢 Proficient |
 
 ### Frameworks
 
 | Skill | Status |
 |-------|--------|
 | React | ⚪ Planned |
-| Spring Boot | 🟡 Learning |
-| Django | 🔴 Beginner |
+| Spring Boot | 🟢 Proficient |
+| Django | ⚪ Planned |
 | Node.js | 🟡 Learning |
 | Next.js | 🟡 Learning |
 
@@ -503,39 +508,39 @@ See [kubernetes-announce@](https://groups.google.com/forum/#!forum/kubernetes-an
 
 | Skill | Status |
 |-------|--------|
-| Penetration Testing | ⚪ Planned |
-| Web Security | ⚪ Planned |
-| Network Security | 🟢 Proficient |
+| Penetration Testing | 🔴 Beginner |
+| Web Security | 🟢 Proficient |
+| Network Security | ⚪ Planned |
 | OWASP | ⚪ Planned |
 
 ### Ai Ml
 
 | Skill | Status |
 |-------|--------|
-| Machine Learning | 🔴 Beginner |
+| Machine Learning | 🟡 Learning |
 | Deep Learning | 🟢 Proficient |
-| NLP | 🔴 Beginner |
-| Computer Vision | 🟡 Learning |
+| NLP | 🟢 Proficient |
+| Computer Vision | 🟢 Proficient |
 | TensorFlow | 🔴 Beginner |
-| PyTorch | 🟢 Proficient |
+| PyTorch | ⚪ Planned |
 
 ### Devops
 
 | Skill | Status |
 |-------|--------|
-| Docker | 🔴 Beginner |
-| Kubernetes | 🟢 Proficient |
-| CI/CD | 🔴 Beginner |
-| AWS | 🟢 Proficient |
-| Azure | 🟢 Proficient |
+| Docker | 🟢 Proficient |
+| Kubernetes | ⚪ Planned |
+| CI/CD | 🟡 Learning |
+| AWS | 🔴 Beginner |
+| Azure | 🔴 Beginner |
 
 ### Other
 
 | Skill | Status |
 |-------|--------|
-| Blockchain | ⚪ Planned |
-| Web3 | 🟡 Learning |
-| Cloud Computing | 🔴 Beginner |
+| Blockchain | 🟢 Proficient |
+| Web3 | 🟢 Proficient |
+| Cloud Computing | ⚪ Planned |
 
 </details>
 
