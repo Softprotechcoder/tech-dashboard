@@ -7,7 +7,7 @@
 ![AI & ML](https://img.shields.io/badge/-AI%20&%20ML-blue) ![CyberSecurity](https://img.shields.io/badge/-CyberSecurity-red) ![Full Stack Development](https://img.shields.io/badge/-Full%20Stack%20Development-green)
 
 [![Auto Update](https://img.shields.io/badge/Auto%20Update-Enabled-success)](https://github.com/yourusername/tech-dashboard/actions)
-[![Last Updated](https://img.shields.io/badge/Last%20Updated-October 02, 2026-blue)](https://github.com/yourusername/tech-dashboard)
+[![Last Updated](https://img.shields.io/badge/Last%20Updated-October 03, 2026-blue)](https://github.com/yourusername/tech-dashboard)
 
 *Automatically updated every 6 hours with the latest tech news, trending repositories, and learning resources.*
 
@@ -46,35 +46,44 @@
 
 ### 📑 Hacker News
 
-- **[Zig v0.17.0](https://ziglang.org/download/0.17.0/release-notes.html)**
-  *<p>Article URL: <a href="https://ziglang.org/download/0.17.0/release-notes.html">https://ziglang.org/download/0.17.0/release-notes.html</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/i...*
-  📅 Fri, 02 Oct 2026 20:56:36 +0000
+- **[NTSB Preliminary Report: Prime Air 767 Runway Overrun [pdf]](https://www.ntsb.gov/investigations/Documents/DCA26MA352%20Prelim.pdf)**
+  *<p>Article URL: <a href="https://www.ntsb.gov/investigations/Documents/DCA26MA352%20Prelim.pdf">https://www.ntsb.gov/investigations/Documents/DCA26MA352%20Prelim.pdf</a></p>
+<p>Comments URL: <a href="...*
+  📅 Sat, 03 Oct 2026 01:09:01 +0000
 
-- **[Everyone's Packing Up](https://widdershins.verja.net/everyones-packing-up/)**
-  *<p>Article URL: <a href="https://widdershins.verja.net/everyones-packing-up/">https://widdershins.verja.net/everyones-packing-up/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id...*
-  📅 Fri, 02 Oct 2026 20:13:04 +0000
+- **[Newgrounds.com – A community of games, music, and art](https://www.newgrounds.com/)**
+  *<p>Article URL: <a href="https://www.newgrounds.com/">https://www.newgrounds.com/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49940394">https://news.ycombinator.com/item?id=...*
+  📅 Sat, 03 Oct 2026 00:55:25 +0000
+
+- **[Where Is the Planet](http://whereistheplanet.com)**
+  *<p>Article URL: <a href="http://whereistheplanet.com">http://whereistheplanet.com</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49940233">https://news.ycombinator.com/item?id=...*
+  📅 Sat, 03 Oct 2026 00:26:19 +0000
+
+- **[Things that apparently cause cancer](https://www.breakthroughjournal.org/p/things-that-apparently-cause-cancer)**
+  *<p>Article URL: <a href="https://www.breakthroughjournal.org/p/things-that-apparently-cause-cancer">https://www.breakthroughjournal.org/p/things-that-apparently-cause-cancer</a></p>
+<p>Comments URL: <...*
+  📅 Sat, 03 Oct 2026 00:23:11 +0000
+
+- **[Every SaaS business will become a harness around a model](https://blog.sshh.io/p/the-harness-is-the-company)**
+  *<p>Article URL: <a href="https://blog.sshh.io/p/the-harness-is-the-company">https://blog.sshh.io/p/the-harness-is-the-company</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=499...*
+  📅 Fri, 02 Oct 2026 21:06:56 +0000
 
 - **[Show HN: Made an open-source Lego AI generator](https://github.com/anteloc/ldraw-nova)**
   *<p>Hi there :-) New on HN, first time posting.<p>Past year, around December, I started experimenting with making ChatGPT and Claude generate source code in LDraw language.<p>This LDraw is literally an...*
   📅 Fri, 02 Oct 2026 20:00:15 +0000
 
-- **[GrapheneOS has fixed the Android 17 QPR1 kernel performance regression](https://discuss.grapheneos.org/d/42511-grapheneos-has-fixed-the-massive-android-17-qpr1-kernel-performance-regression)**
-  *<p>Article URL: <a href="https://discuss.grapheneos.org/d/42511-grapheneos-has-fixed-the-massive-android-17-qpr1-kernel-performance-regression">https://discuss.grapheneos.org/d/42511-grapheneos-has-fi...*
-  📅 Fri, 02 Oct 2026 19:45:06 +0000
-
-- **[Muse Gadgets](https://gadgets.muse.ai)**
-  *<p>Article URL: <a href="https://gadgets.muse.ai">https://gadgets.muse.ai</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49937504">https://news.ycombinator.com/item?id=49937504...*
-  📅 Fri, 02 Oct 2026 19:26:54 +0000
-
-- **["The only intuitive interface is the nipple" (2012)](https://www.greenend.org.uk/rjk/misc/nipple.html)**
-  *<p>Article URL: <a href="https://www.greenend.org.uk/rjk/misc/nipple.html">https://www.greenend.org.uk/rjk/misc/nipple.html</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49937...*
-  📅 Fri, 02 Oct 2026 19:18:12 +0000
-
 ### 📑 TechCrunch
+
+- **[Meta wants your next gadget to be Muse-infused](https://techcrunch.com/2026/10/02/meta-wants-you-to-build-your-own-muse-gadget/)**
+  *Meta wants Muse in your TV and your toaster, so it's giving the code away for free....*
+  📅 Sat, 03 Oct 2026 00:45:39 +0000
+
+- **[Sanders introduces bill to ban the federal government from using Flock](https://techcrunch.com/2026/10/02/sanders-introduces-bill-to-ban-the-federal-government-from-using-flock/)**
+  *The proposed legislation would extend to all automotica license plate readers....*
+  📅 Sat, 03 Oct 2026 00:21:57 +0000
 
 - **[Sean Parker is rebuilding Stability AI around music](https://techcrunch.com/2026/10/02/sean-parker-is-rebuilding-stability-ai-around-music/)**
   *Sean Parker, who once taught the music industry what asking for forgiveness looks like, is now back with the labels' blessing and money....*
@@ -92,33 +101,23 @@
   *This week, the White House got&#160;nearly every&#160;major tech CEO in one room — Zuckerberg, Bezos, Musk, and Anthropic’s Dario Amodei among them —&#160;to sign an AI safety pledge&#160;that Preside...*
   📅 Fri, 02 Oct 2026 17:48:16 +0000
 
-- **[TechCrunch Disrupt 2026: Blackstone’s Jas Khaira on building the next generation of AI giants](https://techcrunch.com/2026/10/02/techcrunch-disrupt-2026-blackstones-jas-khaira-on-building-the-next-generation-of-ai-giants/)**
-  *Blackstone's Jas Khaira will take the Builders Stage at TechCrunch Disrupt 2026 on building next-gen AI. Register for your pass and get 50% off a second....*
-  📅 Fri, 02 Oct 2026 17:32:05 +0000
-
-- **[Circuit Breaker Labs hopes to make AI safer for your kids (and you)](https://techcrunch.com/2026/10/02/circuit-breaker-labs-hopes-to-make-ai-safer-for-your-kids-and-you/)**
-  *With all the talk about how AI might one day kill us all, it's easy to forget that AI has already harmed some people psychologically. Circuit Breaker Labs has created "crash-test  dummies" to solve th...*
-  📅 Fri, 02 Oct 2026 17:00:00 +0000
-
 ### 📑 Dev.to
 
-- **[The Gap Between an AI-Cost Calculator and a Decision Service](https://dev.to/tallybexro/the-gap-between-an-ai-cost-calculator-and-a-decision-service-2cpa)**
-  *<p>A calculator tells you what a number looks like under a set of assumptions. A decision service has to keep watching the thing that can change and tell you what to do next.</p>
-
-<p>I checked one liv...*
-  📅 Fri, 02 Oct 2026 21:27:33 +0000
-
-- **[Recursive Language Models — Alex Zhang, MIT PhD | MIT博士Alex Zhang播客访谈：递归语言模型RLM](https://dev.to/cognitalk/recursive-language-models-alex-zhang-mit-phd-38b6)**
-  *<p>  
-  
- <br />
-<a href="https://www.youtube.com/watch?v=kog7mwsDqnk" rel="noopener noreferrer">https://www.youtube.com/watch?v=kog7mwsDqnk</a></p>
-
-<h1>
+- **[Gas Optimization Audit: Sentora Curator](https://dev.to/dannydoes_2abdf9c/gas-optimization-audit-sentora-curator-n)**
+  *<h1>
   
   
-  MIT博士Alex Zhang播客访谈：递归语言模型RLM、GPU编程、A...*
-  📅 Fri, 02 Oct 2026 21:27:05 +0000
+  Gas Optimization Audit: Sentora Curator
+</h1>
+
+<p><strong>Target Protocol</strong>: Sentora Curator (TVL: $2474.9M)</p>
+
+<p><strong>Sentora Curator – Gas‑Optimization Audit Report</strong...*
+  📅 Sat, 03 Oct 2026 02:55:45 +0000
+
+- **[Node.js OTP Defense: List User Sessions and Revoke One Safely](https://dev.to/caspianhayes3586/nodejs-otp-defense-list-user-sessions-and-revoke-one-safely-49kn)**
+  *<p>Treat a session inventory as an abuse-control surface, not an account-history page: store server-side session records, show only the sessions owned by the authenticated customer, and make revocatio...*
+  📅 Sat, 03 Oct 2026 02:54:58 +0000
 
 </details>
 
@@ -126,103 +125,103 @@
 
 ### 📈 Daily Trending
 
-- **[x4gpanell/SuperJinX](https://github.com/x4gpanell/SuperJinX)** ⭐ 122
-  ![HTML](https://img.shields.io/badge/-HTML-lightgrey)
-  None
+- **[perkel666/MegaCapybara](https://github.com/perkel666/MegaCapybara)** ⭐ 7
+  ![None](https://img.shields.io/badge/-None-lightgrey)
+  The fastest inference engine for Qwen3.8-27B on the NVIDIA RTX 5090: up to 500 tokens/s for one agent and up to 2,000 tokens/s for many, contexts up to 1M tokens, and a launcher that shows what every setting costs. Windows and Linux.
 
-- **[facebookincubator/muse-gadget-sdk](https://github.com/facebookincubator/muse-gadget-sdk)** ⭐ 107
+- **[PeterWarrington/XP-Code](https://github.com/PeterWarrington/XP-Code)** ⭐ 4
   ![C](https://img.shields.io/badge/-C-lightgrey)
-  Open source SDK to build Muse gadgets
+  A VS Code-style editor in under 200kb and compatible with Windows XP.
 
-- **[luki-1/ArkWeb](https://github.com/luki-1/ArkWeb)** ⭐ 82
-  ![C++](https://img.shields.io/badge/-C++-pink)
-  Spider-Man Remastered's web swinging in Batman: Arkham Knight's Gotham (experimental mod)
+- **[madisonrickert/jev-permission-gate](https://github.com/madisonrickert/jev-permission-gate)** ⭐ 4
+  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
+  A Claude Code mod that uses TypeSafe's Jev to decide auto mode tool calls. 2x faster than the built-in classifier on the calls it decides.
 
-- **[QuartzCabinDawn/DiscordFix-Setup](https://github.com/QuartzCabinDawn/DiscordFix-Setup)** ⭐ 69
-  ![Batchfile](https://img.shields.io/badge/-Batchfile-lightgrey)
-  DiscordFix — Discord Fix для Windows 10/11. Настройки и конфигурации для исправления проблем с Discord, соединением и доступом. Актуальные параметры для стабильной работы Discord на Windows.
+- **[Web-Project-UMKM/demo-repository](https://github.com/Web-Project-UMKM/demo-repository)** ⭐ 3
+  ![HTML](https://img.shields.io/badge/-HTML-lightgrey)
+  A code repository designed to show the best GitHub has to offer.
 
-- **[jarrodwatts/intermission](https://github.com/jarrodwatts/intermission)** ⭐ 65
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
-  Play Doom deathmatch while Claude works. A Claude Code plugin.
+- **[thaw-app/Floe](https://github.com/thaw-app/Floe)** ⭐ 3
+  ![Swift](https://img.shields.io/badge/-Swift-lightgrey)
+  The open source launcher for macOS
 
-- **[mkdir700/wx-ime-sdk](https://github.com/mkdir700/wx-ime-sdk)** ⭐ 60
-  ![Rust](https://img.shields.io/badge/-Rust-brown)
-  微信输入法（WeType）跨设备剪贴板的独立 Rust 客户端
+- **[CRISTOP-bot/churros-android](https://github.com/CRISTOP-bot/churros-android)** ⭐ 3
+  ![Shell](https://img.shields.io/badge/-Shell-lightgrey)
+  ROM Android basada en AOSP puro, optimizada y organizada en tres gamas (lowend/mid/high)
 
-- **[Soulringen/aegis-claude](https://github.com/Soulringen/aegis-claude)** ⭐ 55
-  ![PowerShell](https://img.shields.io/badge/-PowerShell-lightgrey)
-  Windows reset for local Claude device identifiers. Chats stay. / Сброс локальных идентификаторов Claude в Windows. Чаты остаются.
+- **[stupidorphan/m10k-2018](https://github.com/stupidorphan/m10k-2018)** ⭐ 2
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  Reverse-engineering notes and tools for Gaomon M10K 2018/T17b firmware and GD32 DFU testing.
 
-- **[OpenCourant/OpenCourant](https://github.com/OpenCourant/OpenCourant)** ⭐ 55
-  ![Fortran](https://img.shields.io/badge/-Fortran-lightgrey)
-  Community fork of OpenRadioss
+- **[mesapra2/mesapra2-overview](https://github.com/mesapra2/mesapra2-overview)** ⭐ 2
+  ![None](https://img.shields.io/badge/-None-lightgrey)
+  Visão pública de arquitetura do Mesapra2 (social dining) — sem código-fonte, só para referência externa.
 
 ### 📈 Weekly Trending
 
-- **[KKKKhazix/AIHOT](https://github.com/KKKKhazix/AIHOT)** ⭐ 4,956
+- **[KKKKhazix/AIHOT](https://github.com/KKKKhazix/AIHOT)** ⭐ 4,988
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   一个自己找热点、自己写日报的网站框架。把信源和精选标准换成你的，它就是你的行业热点站。
 
-- **[Louis-CFM/coucou](https://github.com/Louis-CFM/coucou)** ⭐ 2,935
+- **[Louis-CFM/coucou](https://github.com/Louis-CFM/coucou)** ⭐ 3,004
   ![Swift](https://img.shields.io/badge/-Swift-lightgrey)
   A tiny friend that lives in your notch (macOS) or at the top of your screen (Windows, Linux) and keeps an eye on your coding agents: Claude Code, Codex, Cursor, Gemini CLI, Antigravity and more.
 
-- **[feder-cr/dots](https://github.com/feder-cr/dots)** ⭐ 2,452
+- **[feder-cr/dots](https://github.com/feder-cr/dots)** ⭐ 2,509
   ![Python](https://img.shields.io/badge/-Python-blue)
   Open-source dots for the web: an AI agent with its own browser, one that does not get blocked.
 
-- **[dzhng/jevgrep](https://github.com/dzhng/jevgrep)** ⭐ 2,057
-  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
-  Find code by asking what it does. A CLI for coding agents that uses Jev to discover relevant files and source context.
-
-- **[rehan-remade/universal-modder](https://github.com/rehan-remade/universal-modder)** ⭐ 2,043
+- **[rehan-remade/universal-modder](https://github.com/rehan-remade/universal-modder)** ⭐ 2,172
   ![Python](https://img.shields.io/badge/-Python-blue)
   Point Claude at any game. Skills, tools and the fal MCP that let Claude Code mod almost any PC game you own: recon, reverse engineering, fal-generated art/3D/audio, in-game testing, showcase videos.
 
-- **[kaankiziltug/logo-design-skill](https://github.com/kaankiziltug/logo-design-skill)** ⭐ 1,508
-  ![HTML](https://img.shields.io/badge/-HTML-lightgrey)
-  A comprehensive logo-design skill for Claude, Gemini CLI, Codex and other AI agents: principles, process, SVG craft, testing tools and a 1,400+ logo reference library.
-
-- **[yihui-dev/awesome-opus5-5-videos](https://github.com/yihui-dev/awesome-opus5-5-videos)** ⭐ 1,408
-  ![None](https://img.shields.io/badge/-None-lightgrey)
-  A growing collection of viral videos made with Claude Opus 5.5 and the prompts behind them. Watch each original next to a live remake on Skillry. Updated regularly.
-
-- **[CopilotKit/OpenDots](https://github.com/CopilotKit/OpenDots)** ⭐ 1,382
+- **[CopilotKit/OpenDots](https://github.com/CopilotKit/OpenDots)** ⭐ 1,534
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   Your always-on AI coworkers that move between text, calls, and Slack.
 
+- **[yihui-dev/awesome-opus5-5-videos](https://github.com/yihui-dev/awesome-opus5-5-videos)** ⭐ 1,436
+  ![None](https://img.shields.io/badge/-None-lightgrey)
+  A growing collection of viral videos made with Claude Opus 5.5 and the prompts behind them. Watch each original next to a live remake on Skillry. Updated regularly.
+
+- **[firelex/jeff](https://github.com/firelex/jeff)** ⭐ 1,326
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  Millisecond decisions, any domain: a 0.8B open "System 1" model that picks between your options with calibrated probabilities. One base, swappable LoRA adapters, on your own hardware.
+
+- **[wy51ai/floorplan-3d](https://github.com/wy51ai/floorplan-3d)** ⭐ 1,319
+  ![HTML](https://img.shields.io/badge/-HTML-lightgrey)
+  None
+
 ### 📈 Monthly Trending
 
-- **[eternity4719/HowToLiveBetter](https://github.com/eternity4719/HowToLiveBetter)** ⭐ 35,351
+- **[eternity4719/HowToLiveBetter](https://github.com/eternity4719/HowToLiveBetter)** ⭐ 35,632
   ![HTML](https://img.shields.io/badge/-HTML-lightgrey)
   高性价比人生指南: 长寿防病、急救、省钱理财、法律红线、失业与工伤、医保社保、恋爱婚育、怀孕育儿、创业与做平台合规、出国与技能。每条写明成本、收益、证据等级和原始出处，只引期刊论文与官方文件。
 
-- **[NandhaKishorM/laya](https://github.com/NandhaKishorM/laya)** ⭐ 30,193
+- **[NandhaKishorM/laya](https://github.com/NandhaKishorM/laya)** ⭐ 30,234
   ![Python](https://img.shields.io/badge/-Python-blue)
   Non-autoregressive System 1 decision engine. Typed choice, score and yes/no decisions over any text in a single forward pass, in 100+ languages, with a router that picks the right checkpoint per request.
 
-- **[browser-use/jev-ultrafast](https://github.com/browser-use/jev-ultrafast)** ⭐ 21,802
+- **[browser-use/jev-ultrafast](https://github.com/browser-use/jev-ultrafast)** ⭐ 21,821
   ![Python](https://img.shields.io/badge/-Python-blue)
   Fastest and cheapest web agent
 
-- **[jaredpalmer/kev](https://github.com/jaredpalmer/kev)** ⭐ 8,313
+- **[jaredpalmer/kev](https://github.com/jaredpalmer/kev)** ⭐ 8,329
   ![Python](https://img.shields.io/badge/-Python-blue)
   Jev-like family of decision models built on top of Qwen3.5/3.8 you can train and run on your own
 
-- **[zai-org/ZCode](https://github.com/zai-org/ZCode)** ⭐ 7,332
+- **[zai-org/ZCode](https://github.com/zai-org/ZCode)** ⭐ 7,337
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   Z.ai's coding agent harness. Powerful, intelligent, extensible.
 
-- **[tamaratran/fast-jev-compaction](https://github.com/tamaratran/fast-jev-compaction)** ⭐ 7,328
+- **[tamaratran/fast-jev-compaction](https://github.com/tamaratran/fast-jev-compaction)** ⭐ 7,335
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   Claude Code plugin that replaces the compaction summary with Jev decisions: every tool call and result is scored in one fast request, stale ones are dropped or truncated, everything kept stays verbatim.
 
-- **[jev-chat/jev-chat-jarvis](https://github.com/jev-chat/jev-chat-jarvis)** ⭐ 7,257
+- **[jev-chat/jev-chat-jarvis](https://github.com/jev-chat/jev-chat-jarvis)** ⭐ 7,266
   ![Kotlin](https://img.shields.io/badge/-Kotlin-lightgrey)
   装在手机上的对话副驾：在 QQ / X / 飞书里读懂对方、给出候选回复、一键填入输入框，发不发由你。非侵入，只读屏幕，不 hook 不改包。
 
-- **[robbietilton/Compositor](https://github.com/robbietilton/Compositor)** ⭐ 7,035
+- **[robbietilton/Compositor](https://github.com/robbietilton/Compositor)** ⭐ 7,066
   ![Swift](https://img.shields.io/badge/-Swift-lightgrey)
   The Photoshop alternative for Mac
 
@@ -491,30 +490,30 @@ See [kubernetes-announce@](https://groups.google.com/forum/#!forum/kubernetes-an
 
 | Skill | Status |
 |-------|--------|
-| Java | 🟡 Learning |
-| Python | 🟢 Proficient |
-| JavaScript | 🟢 Proficient |
-| TypeScript | 🟢 Proficient |
-| Go | 🔴 Beginner |
+| Java | 🔴 Beginner |
+| Python | ⚪ Planned |
+| JavaScript | 🔴 Beginner |
+| TypeScript | 🔴 Beginner |
+| Go | ⚪ Planned |
 
 ### Frameworks
 
 | Skill | Status |
 |-------|--------|
 | React | 🟢 Proficient |
-| Spring Boot | 🔴 Beginner |
-| Django | ⚪ Planned |
-| Node.js | 🟡 Learning |
-| Next.js | 🟡 Learning |
+| Spring Boot | ⚪ Planned |
+| Django | 🟡 Learning |
+| Node.js | ⚪ Planned |
+| Next.js | 🟢 Proficient |
 
 ### Cybersecurity
 
 | Skill | Status |
 |-------|--------|
 | Penetration Testing | ⚪ Planned |
-| Web Security | 🟡 Learning |
+| Web Security | ⚪ Planned |
 | Network Security | ⚪ Planned |
-| OWASP | ⚪ Planned |
+| OWASP | 🟡 Learning |
 
 ### Ai Ml
 
@@ -523,26 +522,26 @@ See [kubernetes-announce@](https://groups.google.com/forum/#!forum/kubernetes-an
 | Machine Learning | ⚪ Planned |
 | Deep Learning | 🔴 Beginner |
 | NLP | 🔴 Beginner |
-| Computer Vision | ⚪ Planned |
-| TensorFlow | 🟡 Learning |
-| PyTorch | 🔴 Beginner |
+| Computer Vision | 🔴 Beginner |
+| TensorFlow | 🔴 Beginner |
+| PyTorch | 🟢 Proficient |
 
 ### Devops
 
 | Skill | Status |
 |-------|--------|
-| Docker | ⚪ Planned |
-| Kubernetes | 🟢 Proficient |
-| CI/CD | 🟢 Proficient |
-| AWS | 🟡 Learning |
+| Docker | 🟢 Proficient |
+| Kubernetes | 🔴 Beginner |
+| CI/CD | 🟡 Learning |
+| AWS | ⚪ Planned |
 | Azure | ⚪ Planned |
 
 ### Other
 
 | Skill | Status |
 |-------|--------|
-| Blockchain | 🟢 Proficient |
-| Web3 | 🟡 Learning |
+| Blockchain | ⚪ Planned |
+| Web3 | 🟢 Proficient |
 | Cloud Computing | 🔴 Beginner |
 
 </details>
@@ -561,7 +560,7 @@ This dashboard is automatically updated every 6 hours using GitHub Actions. The 
 
 <div align="center">
 
-**Last Updated:** October 02, 2026
+**Last Updated:** October 03, 2026
 
 Made with ❤️ and automated with GitHub Actions
 
