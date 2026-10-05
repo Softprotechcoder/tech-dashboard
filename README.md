@@ -46,34 +46,37 @@
 
 ### 📑 Hacker News
 
-- **[Nearly 200 People Under Observation After Irkutsk Lab Worker Dies from Plague](https://www.themoscowtimes.com/2026/10/02/nearly-200-people-under-observation-after-irkutsk-lab-worker-dies-from-plague-a93857)**
-  *<p>Article URL: <a href="https://www.themoscowtimes.com/2026/10/02/nearly-200-people-under-observation-after-irkutsk-lab-worker-dies-from-plague-a93857">https://www.themoscowtimes.com/2026/10/02/nearl...*
-  📅 Mon, 05 Oct 2026 02:31:45 +0000
+- **[The Era of Software Quality, or the Era of Ostriches?](https://blogs.gnome.org/mcatanzaro/2026/10/02/the-era-of-software-quality-or-the-era-of-ostriches/)**
+  *<p>Article URL: <a href="https://blogs.gnome.org/mcatanzaro/2026/10/02/the-era-of-software-quality-or-the-era-of-ostriches/">https://blogs.gnome.org/mcatanzaro/2026/10/02/the-era-of-software-quality-o...*
+  📅 Mon, 05 Oct 2026 12:33:15 +0000
 
-- **[Powerless F1 drivers frustrated by Bahrain F1 software glitch](https://www.motorsport.com/f1/news/horrible-totally-unacceptable-powerless-f1-drivers-frustrated-by-bahrain-f1-software-glitch/10861968/)**
-  *<p>Article URL: <a href="https://www.motorsport.com/f1/news/horrible-totally-unacceptable-powerless-f1-drivers-frustrated-by-bahrain-f1-software-glitch/10861968/">https://www.motorsport.com/f1/news/ho...*
-  📅 Mon, 05 Oct 2026 01:54:08 +0000
+- **[Europe's new robotics unicorn: Germany's RobCo hits $1B valuation](https://techfundingnews.com/europes-new-robotics-unicorn-germanys-robco-hits-1b-valuation/)**
+  *<p>Article URL: <a href="https://techfundingnews.com/europes-new-robotics-unicorn-germanys-robco-hits-1b-valuation/">https://techfundingnews.com/europes-new-robotics-unicorn-germanys-robco-hits-1b-val...*
+  📅 Mon, 05 Oct 2026 11:13:51 +0000
 
-- **[A tribute to one of the best games on the Atari 2600](https://plicerin.github.io/riverraid-rom-port/)**
-  *<p>Article URL: <a href="https://plicerin.github.io/riverraid-rom-port/">https://plicerin.github.io/riverraid-rom-port/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49959865"...*
-  📅 Mon, 05 Oct 2026 01:54:00 +0000
+- **[Web Search API](https://developers.cloudflare.com/changelog/post/2026-10-02-introducing-web-search-api/)**
+  *<p>Article URL: <a href="https://developers.cloudflare.com/changelog/post/2026-10-02-introducing-web-search-api/">https://developers.cloudflare.com/changelog/post/2026-10-02-introducing-web-search-api...*
+  📅 Mon, 05 Oct 2026 10:47:06 +0000
 
-- **[Self-hosted HTTP tunnels with SSH and Nginx](https://vincent.bernat.ch/en/blog/2026-http-over-ssh)**
-  *<p>Article URL: <a href="https://vincent.bernat.ch/en/blog/2026-http-over-ssh">https://vincent.bernat.ch/en/blog/2026-http-over-ssh</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?...*
-  📅 Sun, 04 Oct 2026 22:25:10 +0000
+- **[Press Release: Nobel Prize in Physiology or Medicine 2026](https://www.nobelprize.org/prizes/medicine/2026/press-release/)**
+  *<p>Article URL: <a href="https://www.nobelprize.org/prizes/medicine/2026/press-release/">https://www.nobelprize.org/prizes/medicine/2026/press-release/</a></p>
+<p>Comments URL: <a href="https://news.y...*
+  📅 Mon, 05 Oct 2026 10:35:59 +0000
 
-- **[In the wake of closure, a digital archive of animated materials appears online](https://filmstories.co.uk/news/tippett-studios-in-the-wake-of-its-closure-a-digital-archive-of-animated-materials-appears-online/)**
-  *<p>Article URL: <a href="https://filmstories.co.uk/news/tippett-studios-in-the-wake-of-its-closure-a-digital-archive-of-animated-materials-appears-online/">https://filmstories.co.uk/news/tippett-studi...*
-  📅 Sun, 04 Oct 2026 21:01:28 +0000
+- **[Apple and a Hacker's Future](https://stratechery.com/2026/apple-and-a-hackers-future/)**
+  *<p>Article URL: <a href="https://stratechery.com/2026/apple-and-a-hackers-future/">https://stratechery.com/2026/apple-and-a-hackers-future/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.c...*
+  📅 Mon, 05 Oct 2026 10:05:02 +0000
 
-- **[Homa: The end of TCP for AI clusters [video]](https://www.youtube.com/watch?v=eZ8WWZzoaR0)**
-  *<p>Paper: 
-<a href="https://www.usenix.org/system/files/atc21-ousterhout.pdf" rel="nofollow">https://www.usenix.org/system/files/atc21-ousterhout.pdf</a><p>Related: <a href="https://lwn.net/Articles/1...*
-  📅 Sun, 04 Oct 2026 19:42:25 +0000
+- **[Denmark Data Breach Exposes 8.8M People's Personal Data](https://www.cpr.dk/cpr-nyt/nyhedsarkiv/2026/okt/omfattende-uautoriseret-adgang-til-borgeres-cpr-oplysninger)**
+  *<p>Article URL: <a href="https://www.cpr.dk/cpr-nyt/nyhedsarkiv/2026/okt/omfattende-uautoriseret-adgang-til-borgeres-cpr-oplysninger">https://www.cpr.dk/cpr-nyt/nyhedsarkiv/2026/okt/omfattende-uautori...*
+  📅 Mon, 05 Oct 2026 08:09:36 +0000
 
 ### 📑 TechCrunch
+
+- **[Can Safeworld convince people that gen AI robots won’t hurt them?](https://techcrunch.com/2026/10/05/can-safeworld-convince-people-that-gen-ai-robots-wont-hurt-them/)**
+  *Safeworld is building digital humans to make sure robots don't hurt the real ones....*
+  📅 Mon, 05 Oct 2026 12:00:00 +0000
 
 - **[Google froze its open source bug bounty program due to a ‘significant rise’ in AI submissions](https://techcrunch.com/2026/10/04/google-froze-its-open-source-bug-bounty-program-due-to-a-significant-rise-in-ai-submissions/)**
   *AI slop seems to be overwhelming bug bounty programs....*
@@ -95,23 +98,15 @@
   *A federal judge ruled that a sheriff’s deputy violated a woman’s Fourth Amendment rights when using Flock to search for her license plate without a warrant....*
   📅 Sat, 03 Oct 2026 19:33:15 +0000
 
-- **[Amazon responds to data center backlash, says it no longer uses NDAs](https://techcrunch.com/2026/10/03/amazon-responds-to-data-center-backlash-says-it-no-longer-uses-ndas/)**
-  *The CEO of Amazon Web Services tried to push back against widespread suspicion of data centers....*
-  📅 Sat, 03 Oct 2026 18:43:57 +0000
-
 ### 📑 Dev.to
 
-- **[PDF Form Fields Explained — Node.js Template Ownership and Silent Filling Failures](https://dev.to/felixhoffmann556/pdf-form-fields-explained-nodejs-template-ownership-and-silent-filling-failures-3p86)**
-  *<p>Own the template when your marketplace controls the document layout. Keep the original owner in the loop when a partner controls it. That one decision prevents most mysterious form-fill failures be...*
-  📅 Mon, 05 Oct 2026 03:05:21 +0000
+- **[Getting Your First Orbistats API Key: A 5-Minute Quickstart Walkthrough](https://dev.to/orbistats/getting-your-first-orbistats-api-key-a-5-minute-quickstart-walkthrough-3a70)**
+  *<p>Most "quickstart" guides skip the part that actually trips people up: where exactly to click, what the key looks like, where to put it, and what the very first error message means when you get it w...*
+  📅 Mon, 05 Oct 2026 12:58:29 +0000
 
-- **[Blur image](https://dev.to/cmein/blur-image-5a1c)**
-  *<p>Redacting an image properly: blur, pixelate or solid box</p>
-
-<p>If you share screenshots, you need a redaction habit. Not all obscuring methods protect what you think they do.</p>
-
-<p>Three modes,...*
-  📅 Mon, 05 Oct 2026 03:04:20 +0000
+- **[Your Template Set the Title. Something Else Decided What Shipped.](https://dev.to/session_replay/your-template-set-the-title-something-else-decided-what-shipped-4ple)**
+  *<p>A page of ours returns 200. The HTML validates. Every test is green. The <code>h1</code> reads exactly what we wrote. And for several weeks it was shown to about 1,580 people a month in search resu...*
+  📅 Mon, 05 Oct 2026 12:58:17 +0000
 
 </details>
 
@@ -119,105 +114,105 @@
 
 ### 📈 Daily Trending
 
-- **[bpinheiroms/open-apuracao-brazil](https://github.com/bpinheiroms/open-apuracao-brazil)** ⭐ 12
+- **[Autumn1337/better-statusline](https://github.com/Autumn1337/better-statusline)** ⭐ 118
+  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
+  A status line for Claude Code: the session's figures as dot-matrix rings, and the music you are playing beside them
+
+- **[PingProject-premium/PingProject-Premium.github.io](https://github.com/PingProject-premium/PingProject-Premium.github.io)** ⭐ 47
+  ![CSS](https://img.shields.io/badge/-CSS-lightgrey)
+  PingProject - находит самый быстрый маршрут до серверов и снижает задержку — в один клик, без лишних настроек.
+
+- **[bpinheiroms/open-apuracao-brazil](https://github.com/bpinheiroms/open-apuracao-brazil)** ⭐ 37
   ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
   None
 
-- **[jdx/jactionlint](https://github.com/jdx/jactionlint)** ⭐ 5
-  ![Go](https://img.shields.io/badge/-Go-cyan)
-  :octocat: Static checker for GitHub Actions workflow files
+- **[doggy8088/TangPoetry-guo-guren-zhuang](https://github.com/doggy8088/TangPoetry-guo-guren-zhuang)** ⭐ 25
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
+  過故人莊 — 給小學三年級小朋友的唐詩動畫課：小玉邀請阿庭到農家作客，沉浸式學生字並用「四張圖」背熟孟浩然〈過故人莊〉(互動網頁 + 直式影片)
 
-- **[HardHeadHackerHead/valheim-mod-manager](https://github.com/HardHeadHackerHead/valheim-mod-manager)** ⭐ 3
-  ![C#](https://img.shields.io/badge/-C#-lightgrey)
-  In-game Valheim mod manager (BepInEx): browse, install and update mods from GitHub repos. Press F7.
+- **[0xgetz/tokenmix-bulk-creator](https://github.com/0xgetz/tokenmix-bulk-creator)** ⭐ 23
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  Bulk-provision TokenMix accounts with disposable temp-mail.io inboxes and auto-generate API keys with random names. Turnstile-aware, Playwright-driven, JSON/CSV output.
 
-- **[agnavebrendon8-debug/OUR_FABLAB](https://github.com/agnavebrendon8-debug/OUR_FABLAB)** ⭐ 3
-  ![CSS](https://img.shields.io/badge/-CSS-lightgrey)
-  None
+- **[Dun-John/worldspring](https://github.com/Dun-John/worldspring)** ⭐ 21
+  ![Rust](https://img.shields.io/badge/-Rust-brown)
+  A procedural fantasy world for tabletop games, from the continent down to the battlemap, in the browser (Rust/WASM + Svelte/PixiJS)
 
-- **[KJLavender/acp-pet](https://github.com/KJLavender/acp-pet)** ⭐ 2
-  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
-  A desktop pet that acts out what your ACP coding agent is doing, live. 會演出 coding agent 在幹嘛的桌寵。
+- **[kirohack-official/kirohack](https://github.com/kirohack-official/kirohack)** ⭐ 20
+  ![None](https://img.shields.io/badge/-None-lightgrey)
+  Официальный скрипт Kirohack (Кирохак) для игры Dynast.io от dazaso
 
-- **[lukeyeh/http-fiber](https://github.com/lukeyeh/http-fiber)** ⭐ 2
-  ![C++](https://img.shields.io/badge/-C++-pink)
-  A small HTTP/1.1 server that serves each connection in a Gloop fiber
-
-- **[KhoiHoang081/taskflow-cpp](https://github.com/KhoiHoang081/taskflow-cpp)** ⭐ 2
-  ![C++](https://img.shields.io/badge/-C++-pink)
-  Dự án quản lý terminal cơ bản
-
-- **[38huangyukong38/epub-reader](https://github.com/38huangyukong38/epub-reader)** ⭐ 2
-  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
-  本地 EPUB 阅读器，支持 Windows 与 Android、系统打开 EPUB、书签和自定义背景。
+- **[FigureEconomic/AudioLabAI](https://github.com/FigureEconomic/AudioLabAI)** ⭐ 19
+  ![None](https://img.shields.io/badge/-None-lightgrey)
+  A workspace for speech, transcription, and AI-assisted audio workflows.
 
 ### 📈 Weekly Trending
 
-- **[rehan-remade/universal-modder](https://github.com/rehan-remade/universal-modder)** ⭐ 3,252
+- **[rehan-remade/universal-modder](https://github.com/rehan-remade/universal-modder)** ⭐ 3,552
   ![Python](https://img.shields.io/badge/-Python-blue)
   Point Claude at any game. Skills, tools and the fal MCP that let Claude Code mod almost any PC game you own: recon, reverse engineering, fal-generated art/3D/audio, in-game testing, showcase videos.
 
-- **[CopilotKit/OpenDots](https://github.com/CopilotKit/OpenDots)** ⭐ 3,237
+- **[CopilotKit/OpenDots](https://github.com/CopilotKit/OpenDots)** ⭐ 3,441
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   Your always-on AI coworkers that move between text, calls, and Slack.
 
-- **[feder-cr/dots](https://github.com/feder-cr/dots)** ⭐ 2,604
+- **[feder-cr/dots](https://github.com/feder-cr/dots)** ⭐ 2,611
   ![Python](https://img.shields.io/badge/-Python-blue)
   Open-source dots for the web: an AI agent with its own browser, one that does not get blocked.
 
-- **[nanaism/yomiyasu](https://github.com/nanaism/yomiyasu)** ⭐ 1,411
+- **[storytold/photocraft](https://github.com/storytold/photocraft)** ⭐ 1,482
+  ![Rust](https://img.shields.io/badge/-Rust-brown)
+  An open-source, clean-room reimplementation of Adobe Photoshop in pure Rust
+
+- **[nanaism/yomiyasu](https://github.com/nanaism/yomiyasu)** ⭐ 1,477
   ![Python](https://img.shields.io/badge/-Python-blue)
   AI生成の日本語を自然な日本語へ推敲するAgent Skill / Agent Skill for Refining AI-Generated Japanese into Natural Japanese
 
-- **[wy51ai/floorplan-3d](https://github.com/wy51ai/floorplan-3d)** ⭐ 1,393
+- **[wy51ai/floorplan-3d](https://github.com/wy51ai/floorplan-3d)** ⭐ 1,413
   ![HTML](https://img.shields.io/badge/-HTML-lightgrey)
   None
 
-- **[facebookincubator/muse-gadget-sdk](https://github.com/facebookincubator/muse-gadget-sdk)** ⭐ 1,213
-  ![C](https://img.shields.io/badge/-C-lightgrey)
-  Open source SDK to build Muse gadgets
-
-- **[QingYunA/answer-me-with-html](https://github.com/QingYunA/answer-me-with-html)** ⭐ 1,106
+- **[QingYunA/answer-me-with-html](https://github.com/QingYunA/answer-me-with-html)** ⭐ 1,340
   ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
   Answer me with HTML — an agent skill that answers hard questions with a one-page HTML you can actually read. 让 AI Agent 用一页 HTML 回答复杂问题。
 
-- **[nykooi1/vibe-wise](https://github.com/nykooi1/vibe-wise)** ⭐ 1,084
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  A Claude Code plugin that helps you learn how to build while AI writes the code.
+- **[facebookincubator/muse-gadget-sdk](https://github.com/facebookincubator/muse-gadget-sdk)** ⭐ 1,334
+  ![C](https://img.shields.io/badge/-C-lightgrey)
+  Open source SDK to build Muse gadgets
 
 ### 📈 Monthly Trending
 
-- **[eternity4719/HowToLiveBetter](https://github.com/eternity4719/HowToLiveBetter)** ⭐ 40,872
+- **[eternity4719/HowToLiveBetter](https://github.com/eternity4719/HowToLiveBetter)** ⭐ 42,499
   ![HTML](https://img.shields.io/badge/-HTML-lightgrey)
   高性价比人生指南: 长寿防病、急救、省钱理财、法律红线、失业与工伤、医保社保、恋爱婚育、怀孕育儿、创业与做平台合规、出国与技能。每条写明成本、收益、证据等级和原始出处，只引期刊论文与官方文件。
 
-- **[NandhaKishorM/laya](https://github.com/NandhaKishorM/laya)** ⭐ 30,727
+- **[NandhaKishorM/laya](https://github.com/NandhaKishorM/laya)** ⭐ 30,841
   ![Python](https://img.shields.io/badge/-Python-blue)
   Non-autoregressive System 1 decision engine. Typed choice, score and yes/no decisions over any text in a single forward pass, in 100+ languages, with a router that picks the right checkpoint per request.
 
-- **[browser-use/jev-ultrafast](https://github.com/browser-use/jev-ultrafast)** ⭐ 22,003
+- **[browser-use/jev-ultrafast](https://github.com/browser-use/jev-ultrafast)** ⭐ 22,053
   ![Python](https://img.shields.io/badge/-Python-blue)
   Fastest and cheapest web agent
 
-- **[Niko1221/Strata](https://github.com/Niko1221/Strata)** ⭐ 11,324
+- **[Niko1221/Strata](https://github.com/Niko1221/Strata)** ⭐ 12,676
   ![C++](https://img.shields.io/badge/-C++-pink)
   Qwen3.8-Flash-Next on any consumer hardware: one-click install for Windows / Linux. Strata inference engine, OpenAI/Anthropic API on localhost, optional image input.
 
-- **[jaredpalmer/kev](https://github.com/jaredpalmer/kev)** ⭐ 8,443
+- **[jaredpalmer/kev](https://github.com/jaredpalmer/kev)** ⭐ 8,472
   ![Python](https://img.shields.io/badge/-Python-blue)
   Jev-like family of decision models built on top of Qwen3.5/3.8 you can train and run on your own
 
-- **[robbietilton/Compositor](https://github.com/robbietilton/Compositor)** ⭐ 7,605
+- **[robbietilton/Compositor](https://github.com/robbietilton/Compositor)** ⭐ 8,034
   ![Swift](https://img.shields.io/badge/-Swift-lightgrey)
   The Photoshop alternative for Mac
 
-- **[zai-org/ZCode](https://github.com/zai-org/ZCode)** ⭐ 7,410
-  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
-  Z.ai's coding agent harness. Powerful, intelligent, extensible.
-
-- **[cdyforever/how-to-live-better](https://github.com/cdyforever/how-to-live-better)** ⭐ 7,408
+- **[cdyforever/how-to-live-better](https://github.com/cdyforever/how-to-live-better)** ⭐ 7,614
   ![HTML](https://img.shields.io/badge/-HTML-lightgrey)
   《高性价比人生指南》全书 528 条的在线单页阅读版：手机可读、可搜索、零依赖、支持离线
+
+- **[zai-org/ZCode](https://github.com/zai-org/ZCode)** ⭐ 7,422
+  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
+  Z.ai's coding agent harness. Powerful, intelligent, extensible.
 
 ## 🚀 Latest Releases
 
@@ -485,29 +480,29 @@ See [kubernetes-announce@](https://groups.google.com/forum/#!forum/kubernetes-an
 | Skill | Status |
 |-------|--------|
 | Java | 🔴 Beginner |
-| Python | 🟡 Learning |
+| Python | 🔴 Beginner |
 | JavaScript | ⚪ Planned |
-| TypeScript | ⚪ Planned |
-| Go | 🟡 Learning |
+| TypeScript | 🔴 Beginner |
+| Go | 🟢 Proficient |
 
 ### Frameworks
 
 | Skill | Status |
 |-------|--------|
-| React | ⚪ Planned |
-| Spring Boot | 🟡 Learning |
-| Django | 🔴 Beginner |
+| React | 🟢 Proficient |
+| Spring Boot | 🟢 Proficient |
+| Django | 🟡 Learning |
 | Node.js | 🔴 Beginner |
-| Next.js | ⚪ Planned |
+| Next.js | 🟢 Proficient |
 
 ### Cybersecurity
 
 | Skill | Status |
 |-------|--------|
 | Penetration Testing | 🔴 Beginner |
-| Web Security | 🔴 Beginner |
-| Network Security | 🟡 Learning |
-| OWASP | 🟡 Learning |
+| Web Security | 🟡 Learning |
+| Network Security | 🟢 Proficient |
+| OWASP | 🟢 Proficient |
 
 ### Ai Ml
 
@@ -515,28 +510,28 @@ See [kubernetes-announce@](https://groups.google.com/forum/#!forum/kubernetes-an
 |-------|--------|
 | Machine Learning | 🟢 Proficient |
 | Deep Learning | 🟡 Learning |
-| NLP | ⚪ Planned |
-| Computer Vision | 🟡 Learning |
-| TensorFlow | 🟢 Proficient |
-| PyTorch | ⚪ Planned |
+| NLP | 🟢 Proficient |
+| Computer Vision | ⚪ Planned |
+| TensorFlow | ⚪ Planned |
+| PyTorch | 🟡 Learning |
 
 ### Devops
 
 | Skill | Status |
 |-------|--------|
-| Docker | 🟢 Proficient |
-| Kubernetes | 🟡 Learning |
+| Docker | ⚪ Planned |
+| Kubernetes | ⚪ Planned |
 | CI/CD | 🟡 Learning |
-| AWS | 🟡 Learning |
-| Azure | ⚪ Planned |
+| AWS | 🔴 Beginner |
+| Azure | 🔴 Beginner |
 
 ### Other
 
 | Skill | Status |
 |-------|--------|
-| Blockchain | 🟡 Learning |
+| Blockchain | 🔴 Beginner |
 | Web3 | ⚪ Planned |
-| Cloud Computing | ⚪ Planned |
+| Cloud Computing | 🟢 Proficient |
 
 </details>
 
