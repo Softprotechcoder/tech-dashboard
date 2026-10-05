@@ -7,7 +7,7 @@
 ![AI & ML](https://img.shields.io/badge/-AI%20&%20ML-blue) ![CyberSecurity](https://img.shields.io/badge/-CyberSecurity-red) ![Full Stack Development](https://img.shields.io/badge/-Full%20Stack%20Development-green)
 
 [![Auto Update](https://img.shields.io/badge/Auto%20Update-Enabled-success)](https://github.com/yourusername/tech-dashboard/actions)
-[![Last Updated](https://img.shields.io/badge/Last%20Updated-October 04, 2026-blue)](https://github.com/yourusername/tech-dashboard)
+[![Last Updated](https://img.shields.io/badge/Last%20Updated-October 05, 2026-blue)](https://github.com/yourusername/tech-dashboard)
 
 *Automatically updated every 6 hours with the latest tech news, trending repositories, and learning resources.*
 
@@ -46,33 +46,32 @@
 
 ### 📑 Hacker News
 
-- **[Homa: The End of TCP for AI Clusters [video]](https://www.youtube.com/watch?v=eZ8WWZzoaR0)**
-  *<p>Related: <a href="https://www.theregister.com/networks/2026/10/01/stanford-prof-is-beating-the-drum-for-a-new-protocol-to-replace-tcp/5300629" rel="nofollow">https://www.theregister.com/networks/20...*
+- **[Nearly 200 People Under Observation After Irkutsk Lab Worker Dies from Plague](https://www.themoscowtimes.com/2026/10/02/nearly-200-people-under-observation-after-irkutsk-lab-worker-dies-from-plague-a93857)**
+  *<p>Article URL: <a href="https://www.themoscowtimes.com/2026/10/02/nearly-200-people-under-observation-after-irkutsk-lab-worker-dies-from-plague-a93857">https://www.themoscowtimes.com/2026/10/02/nearl...*
+  📅 Mon, 05 Oct 2026 02:31:45 +0000
+
+- **[Powerless F1 drivers frustrated by Bahrain F1 software glitch](https://www.motorsport.com/f1/news/horrible-totally-unacceptable-powerless-f1-drivers-frustrated-by-bahrain-f1-software-glitch/10861968/)**
+  *<p>Article URL: <a href="https://www.motorsport.com/f1/news/horrible-totally-unacceptable-powerless-f1-drivers-frustrated-by-bahrain-f1-software-glitch/10861968/">https://www.motorsport.com/f1/news/ho...*
+  📅 Mon, 05 Oct 2026 01:54:08 +0000
+
+- **[A tribute to one of the best games on the Atari 2600](https://plicerin.github.io/riverraid-rom-port/)**
+  *<p>Article URL: <a href="https://plicerin.github.io/riverraid-rom-port/">https://plicerin.github.io/riverraid-rom-port/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49959865"...*
+  📅 Mon, 05 Oct 2026 01:54:00 +0000
+
+- **[Self-hosted HTTP tunnels with SSH and Nginx](https://vincent.bernat.ch/en/blog/2026-http-over-ssh)**
+  *<p>Article URL: <a href="https://vincent.bernat.ch/en/blog/2026-http-over-ssh">https://vincent.bernat.ch/en/blog/2026-http-over-ssh</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?...*
+  📅 Sun, 04 Oct 2026 22:25:10 +0000
+
+- **[In the wake of closure, a digital archive of animated materials appears online](https://filmstories.co.uk/news/tippett-studios-in-the-wake-of-its-closure-a-digital-archive-of-animated-materials-appears-online/)**
+  *<p>Article URL: <a href="https://filmstories.co.uk/news/tippett-studios-in-the-wake-of-its-closure-a-digital-archive-of-animated-materials-appears-online/">https://filmstories.co.uk/news/tippett-studi...*
+  📅 Sun, 04 Oct 2026 21:01:28 +0000
+
+- **[Homa: The end of TCP for AI clusters [video]](https://www.youtube.com/watch?v=eZ8WWZzoaR0)**
+  *<p>Paper: 
+<a href="https://www.usenix.org/system/files/atc21-ousterhout.pdf" rel="nofollow">https://www.usenix.org/system/files/atc21-ousterhout.pdf</a><p>Related: <a href="https://lwn.net/Articles/1...*
   📅 Sun, 04 Oct 2026 19:42:25 +0000
-
-- **[Remove and Disable Apple Macos27 AI Models Tool](https://github.com/omlahore/RemoveMacAI)**
-  *<p>Article URL: <a href="https://github.com/omlahore/RemoveMacAI">https://github.com/omlahore/RemoveMacAI</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49957116">https://news....*
-  📅 Sun, 04 Oct 2026 19:42:25 +0000
-
-- **[Improper redaction reveals Google Data Center water and electricity usage](https://www.1011now.com/2026/09/30/more-questions-than-answers-about-lincolns-google-data-center-water-electricity-usage/)**
-  *<p>Article URL: <a href="https://www.1011now.com/2026/09/30/more-questions-than-answers-about-lincolns-google-data-center-water-electricity-usage/">https://www.1011now.com/2026/09/30/more-questions-th...*
-  📅 Sun, 04 Oct 2026 19:37:05 +0000
-
-- **[Show HN: Build with Python – a beginner course where your code draws](https://scimigo.com/en/learn/build-with-python/01-draw-with-python)**
-  *<p>Hi HN, I built this because I watched my daughter struggle at learning Python. I made something that runs only in the browser with visuals rather than relying on CLI/terminal output. No need to wor...*
-  📅 Sun, 04 Oct 2026 18:59:25 +0000
-
-- **[Incentives in Academic Research](https://www.msoos.org/2026/10/incentives-in-academic-research/)**
-  *<p>Article URL: <a href="https://www.msoos.org/2026/10/incentives-in-academic-research/">https://www.msoos.org/2026/10/incentives-in-academic-research/</a></p>
-<p>Comments URL: <a href="https://news.y...*
-  📅 Sun, 04 Oct 2026 17:42:38 +0000
-
-- **[How effective altruism conquered the world (and might yet end it)](https://www.economist.com/international/2026/10/01/how-effective-altruism-conquered-the-world)**
-  *<p><a href="https://archive.ph/3gSCc" rel="nofollow">https://archive.ph/3gSCc</a></p>
-<hr />
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49953777">https://news.ycombinator.com/item?...*
-  📅 Sun, 04 Oct 2026 13:30:49 +0000
 
 ### 📑 TechCrunch
 
@@ -102,21 +101,17 @@
 
 ### 📑 Dev.to
 
-- **[I fine-tuned a 4B open model to read my brother's study-group texts](https://dev.to/n45div/i-fine-tuned-a-4b-open-model-to-read-my-brothers-study-group-texts-eli)**
-  *<p><em>This is a submission for the <a href="https://dev.to/challenges/hacktoberfest-weekend-2026-10-01">Hacktoberfest Weekend Challenge: Build for a Friend</a></em></p>
+- **[PDF Form Fields Explained — Node.js Template Ownership and Silent Filling Failures](https://dev.to/felixhoffmann556/pdf-form-fields-explained-nodejs-template-ownership-and-silent-filling-failures-3p86)**
+  *<p>Own the template when your marketplace controls the document layout. Keep the original owner in the loop when a partner controls it. That one decision prevents most mysterious form-fill failures be...*
+  📅 Mon, 05 Oct 2026 03:05:21 +0000
 
-<h2>
-  
-  
-  What I Built
-</h...*
-  📅 Sun, 04 Oct 2026 20:38:54 +0000
+- **[Blur image](https://dev.to/cmein/blur-image-5a1c)**
+  *<p>Redacting an image properly: blur, pixelate or solid box</p>
 
-- **[Tax Invoices Explained: Sales Tax, VAT and GST on One PDF](https://dev.to/d3bd863b497b/tax-invoices-explained-sales-tax-vat-and-gst-on-one-pdf-5dne)**
-  *<p><em>This article first appeared on <a href="https://www.invoala.com/blog/tax-invoice-requirements-sales-tax-vat-gst" rel="noopener noreferrer">Invoala</a>.</em></p>
+<p>If you share screenshots, you need a redaction habit. Not all obscuring methods protect what you think they do.</p>
 
-<p>Tax invoice requirements are...*
-  📅 Sun, 04 Oct 2026 20:38:26 +0000
+<p>Three modes,...*
+  📅 Mon, 05 Oct 2026 03:04:20 +0000
 
 </details>
 
@@ -124,105 +119,105 @@
 
 ### 📈 Daily Trending
 
-- **[kargulstudio/sales-crm](https://github.com/kargulstudio/sales-crm)** ⭐ 650
-  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
+- **[bpinheiroms/open-apuracao-brazil](https://github.com/bpinheiroms/open-apuracao-brazil)** ⭐ 12
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
   None
 
-- **[BlackCrewmanFringe/AutoCad](https://github.com/BlackCrewmanFringe/AutoCad)** ⭐ 414
-  ![None](https://img.shields.io/badge/-None-lightgrey)
-  Autocad is a professional desktop software utility that provides an intuitive interface to configure and manage complex projects with ease.
+- **[jdx/jactionlint](https://github.com/jdx/jactionlint)** ⭐ 5
+  ![Go](https://img.shields.io/badge/-Go-cyan)
+  :octocat: Static checker for GitHub Actions workflow files
 
-- **[Blockadezoshack/Microsoft-Project](https://github.com/Blockadezoshack/Microsoft-Project)** ⭐ 408
-  ![None](https://img.shields.io/badge/-None-lightgrey)
-  Microsoft Project optimizes professional workflow management by providing a comprehensive project and resource planning tool that streamlines task...
+- **[HardHeadHackerHead/valheim-mod-manager](https://github.com/HardHeadHackerHead/valheim-mod-manager)** ⭐ 3
+  ![C#](https://img.shields.io/badge/-C#-lightgrey)
+  In-game Valheim mod manager (BepInEx): browse, install and update mods from GitHub repos. Press F7.
 
-- **[YXBwbWFya2V0/AppMarket](https://github.com/YXBwbWFya2V0/AppMarket)** ⭐ 227
-  ![Kotlin](https://img.shields.io/badge/-Kotlin-lightgrey)
+- **[agnavebrendon8-debug/OUR_FABLAB](https://github.com/agnavebrendon8-debug/OUR_FABLAB)** ⭐ 3
+  ![CSS](https://img.shields.io/badge/-CSS-lightgrey)
   None
 
-- **[zeemscript/TrustMint](https://github.com/zeemscript/TrustMint)** ⭐ 131
-  ![Rust](https://img.shields.io/badge/-Rust-brown)
-  Open-source toolkit for compliant real-world asset tokenization on Stellar.KYC registry, compliance engine, and asset templates for invoices, property shares, and carbon credits.
-
-- **[shinshin86/mesh-avatar-studio](https://github.com/shinshin86/mesh-avatar-studio)** ⭐ 122
+- **[KJLavender/acp-pet](https://github.com/KJLavender/acp-pet)** ⭐ 2
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
-  Turn one illustration into an animated 2D mesh avatar with a coding agent and a local editor
+  A desktop pet that acts out what your ACP coding agent is doing, live. 會演出 coding agent 在幹嘛的桌寵。
 
-- **[BeingConqueror/Ableton-Live-12](https://github.com/BeingConqueror/Ableton-Live-12)** ⭐ 79
-  ![None](https://img.shields.io/badge/-None-lightgrey)
-  Revolutionize your music production process with this pro-grade digital audio workstation and sound design suite that streamlines workflows and empowers...
+- **[lukeyeh/http-fiber](https://github.com/lukeyeh/http-fiber)** ⭐ 2
+  ![C++](https://img.shields.io/badge/-C++-pink)
+  A small HTTP/1.1 server that serves each connection in a Gloop fiber
 
-- **[noahdunnagan/mcopt](https://github.com/noahdunnagan/mcopt)** ⭐ 76
-  ![Java](https://img.shields.io/badge/-Java-orange)
-  mcopt, a Minecraft mod: a native Metal renderer for Minecraft: Java Edition on Apple Silicon Macs (alpha)
+- **[KhoiHoang081/taskflow-cpp](https://github.com/KhoiHoang081/taskflow-cpp)** ⭐ 2
+  ![C++](https://img.shields.io/badge/-C++-pink)
+  Dự án quản lý terminal cơ bản
+
+- **[38huangyukong38/epub-reader](https://github.com/38huangyukong38/epub-reader)** ⭐ 2
+  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
+  本地 EPUB 阅读器，支持 Windows 与 Android、系统打开 EPUB、书签和自定义背景。
 
 ### 📈 Weekly Trending
 
-- **[KKKKhazix/AIHOT](https://github.com/KKKKhazix/AIHOT)** ⭐ 5,755
-  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
-  一个自己找热点、自己写日报的网站框架。把信源和精选标准换成你的，它就是你的行业热点站。
-
-- **[CopilotKit/OpenDots](https://github.com/CopilotKit/OpenDots)** ⭐ 3,143
-  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
-  Your always-on AI coworkers that move between text, calls, and Slack.
-
-- **[rehan-remade/universal-modder](https://github.com/rehan-remade/universal-modder)** ⭐ 3,032
+- **[rehan-remade/universal-modder](https://github.com/rehan-remade/universal-modder)** ⭐ 3,252
   ![Python](https://img.shields.io/badge/-Python-blue)
   Point Claude at any game. Skills, tools and the fal MCP that let Claude Code mod almost any PC game you own: recon, reverse engineering, fal-generated art/3D/audio, in-game testing, showcase videos.
 
-- **[feder-cr/dots](https://github.com/feder-cr/dots)** ⭐ 2,598
+- **[CopilotKit/OpenDots](https://github.com/CopilotKit/OpenDots)** ⭐ 3,237
+  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
+  Your always-on AI coworkers that move between text, calls, and Slack.
+
+- **[feder-cr/dots](https://github.com/feder-cr/dots)** ⭐ 2,604
   ![Python](https://img.shields.io/badge/-Python-blue)
   Open-source dots for the web: an AI agent with its own browser, one that does not get blocked.
 
-- **[wy51ai/floorplan-3d](https://github.com/wy51ai/floorplan-3d)** ⭐ 1,382
-  ![HTML](https://img.shields.io/badge/-HTML-lightgrey)
-  None
-
-- **[nanaism/yomiyasu](https://github.com/nanaism/yomiyasu)** ⭐ 1,377
+- **[nanaism/yomiyasu](https://github.com/nanaism/yomiyasu)** ⭐ 1,411
   ![Python](https://img.shields.io/badge/-Python-blue)
   AI生成の日本語を自然な日本語へ推敲するAgent Skill / Agent Skill for Refining AI-Generated Japanese into Natural Japanese
 
-- **[firelex/jeff](https://github.com/firelex/jeff)** ⭐ 1,368
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  Millisecond decisions, any domain: a 0.8B open "System 1" model that picks between your options with calibrated probabilities. One base, swappable LoRA adapters, on your own hardware.
+- **[wy51ai/floorplan-3d](https://github.com/wy51ai/floorplan-3d)** ⭐ 1,393
+  ![HTML](https://img.shields.io/badge/-HTML-lightgrey)
+  None
 
-- **[edenfunf/reelmimic](https://github.com/edenfunf/reelmimic)** ⭐ 1,264
+- **[facebookincubator/muse-gadget-sdk](https://github.com/facebookincubator/muse-gadget-sdk)** ⭐ 1,213
+  ![C](https://img.shields.io/badge/-C-lightgrey)
+  Open source SDK to build Muse gadgets
+
+- **[QingYunA/answer-me-with-html](https://github.com/QingYunA/answer-me-with-html)** ⭐ 1,106
   ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
-  Show it a video you love. Get a new video in the same style. An AI crew (Claude Code or Codex) plans, builds and reviews it with you.
+  Answer me with HTML — an agent skill that answers hard questions with a one-page HTML you can actually read. 让 AI Agent 用一页 HTML 回答复杂问题。
+
+- **[nykooi1/vibe-wise](https://github.com/nykooi1/vibe-wise)** ⭐ 1,084
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  A Claude Code plugin that helps you learn how to build while AI writes the code.
 
 ### 📈 Monthly Trending
 
-- **[eternity4719/HowToLiveBetter](https://github.com/eternity4719/HowToLiveBetter)** ⭐ 40,236
+- **[eternity4719/HowToLiveBetter](https://github.com/eternity4719/HowToLiveBetter)** ⭐ 40,872
   ![HTML](https://img.shields.io/badge/-HTML-lightgrey)
   高性价比人生指南: 长寿防病、急救、省钱理财、法律红线、失业与工伤、医保社保、恋爱婚育、怀孕育儿、创业与做平台合规、出国与技能。每条写明成本、收益、证据等级和原始出处，只引期刊论文与官方文件。
 
-- **[NandhaKishorM/laya](https://github.com/NandhaKishorM/laya)** ⭐ 30,682
+- **[NandhaKishorM/laya](https://github.com/NandhaKishorM/laya)** ⭐ 30,727
   ![Python](https://img.shields.io/badge/-Python-blue)
   Non-autoregressive System 1 decision engine. Typed choice, score and yes/no decisions over any text in a single forward pass, in 100+ languages, with a router that picks the right checkpoint per request.
 
-- **[browser-use/jev-ultrafast](https://github.com/browser-use/jev-ultrafast)** ⭐ 21,981
+- **[browser-use/jev-ultrafast](https://github.com/browser-use/jev-ultrafast)** ⭐ 22,003
   ![Python](https://img.shields.io/badge/-Python-blue)
   Fastest and cheapest web agent
 
-- **[Niko1221/Strata](https://github.com/Niko1221/Strata)** ⭐ 10,585
+- **[Niko1221/Strata](https://github.com/Niko1221/Strata)** ⭐ 11,324
   ![C++](https://img.shields.io/badge/-C++-pink)
   Qwen3.8-Flash-Next on any consumer hardware: one-click install for Windows / Linux. Strata inference engine, OpenAI/Anthropic API on localhost, optional image input.
 
-- **[jaredpalmer/kev](https://github.com/jaredpalmer/kev)** ⭐ 8,430
+- **[jaredpalmer/kev](https://github.com/jaredpalmer/kev)** ⭐ 8,443
   ![Python](https://img.shields.io/badge/-Python-blue)
   Jev-like family of decision models built on top of Qwen3.5/3.8 you can train and run on your own
 
-- **[robbietilton/Compositor](https://github.com/robbietilton/Compositor)** ⭐ 7,542
+- **[robbietilton/Compositor](https://github.com/robbietilton/Compositor)** ⭐ 7,605
   ![Swift](https://img.shields.io/badge/-Swift-lightgrey)
   The Photoshop alternative for Mac
 
-- **[zai-org/ZCode](https://github.com/zai-org/ZCode)** ⭐ 7,405
+- **[zai-org/ZCode](https://github.com/zai-org/ZCode)** ⭐ 7,410
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   Z.ai's coding agent harness. Powerful, intelligent, extensible.
 
-- **[tamaratran/fast-jev-compaction](https://github.com/tamaratran/fast-jev-compaction)** ⭐ 7,377
-  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
-  Claude Code plugin that replaces the compaction summary with Jev decisions: every tool call and result is scored in one fast request, stale ones are dropped or truncated, everything kept stays verbatim.
+- **[cdyforever/how-to-live-better](https://github.com/cdyforever/how-to-live-better)** ⭐ 7,408
+  ![HTML](https://img.shields.io/badge/-HTML-lightgrey)
+  《高性价比人生指南》全书 528 条的在线单页阅读版：手机可读、可搜索、零依赖、支持离线
 
 ## 🚀 Latest Releases
 
@@ -491,27 +486,27 @@ See [kubernetes-announce@](https://groups.google.com/forum/#!forum/kubernetes-an
 |-------|--------|
 | Java | 🔴 Beginner |
 | Python | 🟡 Learning |
-| JavaScript | 🟢 Proficient |
+| JavaScript | ⚪ Planned |
 | TypeScript | ⚪ Planned |
-| Go | 🟢 Proficient |
+| Go | 🟡 Learning |
 
 ### Frameworks
 
 | Skill | Status |
 |-------|--------|
-| React | 🟡 Learning |
-| Spring Boot | 🟢 Proficient |
-| Django | ⚪ Planned |
+| React | ⚪ Planned |
+| Spring Boot | 🟡 Learning |
+| Django | 🔴 Beginner |
 | Node.js | 🔴 Beginner |
-| Next.js | 🔴 Beginner |
+| Next.js | ⚪ Planned |
 
 ### Cybersecurity
 
 | Skill | Status |
 |-------|--------|
 | Penetration Testing | 🔴 Beginner |
-| Web Security | 🟡 Learning |
-| Network Security | 🔴 Beginner |
+| Web Security | 🔴 Beginner |
+| Network Security | 🟡 Learning |
 | OWASP | 🟡 Learning |
 
 ### Ai Ml
@@ -519,28 +514,28 @@ See [kubernetes-announce@](https://groups.google.com/forum/#!forum/kubernetes-an
 | Skill | Status |
 |-------|--------|
 | Machine Learning | 🟢 Proficient |
-| Deep Learning | 🔴 Beginner |
-| NLP | 🟡 Learning |
-| Computer Vision | 🔴 Beginner |
-| TensorFlow | 🔴 Beginner |
-| PyTorch | 🟢 Proficient |
+| Deep Learning | 🟡 Learning |
+| NLP | ⚪ Planned |
+| Computer Vision | 🟡 Learning |
+| TensorFlow | 🟢 Proficient |
+| PyTorch | ⚪ Planned |
 
 ### Devops
 
 | Skill | Status |
 |-------|--------|
-| Docker | 🟡 Learning |
-| Kubernetes | 🔴 Beginner |
+| Docker | 🟢 Proficient |
+| Kubernetes | 🟡 Learning |
 | CI/CD | 🟡 Learning |
-| AWS | ⚪ Planned |
+| AWS | 🟡 Learning |
 | Azure | ⚪ Planned |
 
 ### Other
 
 | Skill | Status |
 |-------|--------|
-| Blockchain | 🟢 Proficient |
-| Web3 | 🟡 Learning |
+| Blockchain | 🟡 Learning |
+| Web3 | ⚪ Planned |
 | Cloud Computing | ⚪ Planned |
 
 </details>
@@ -559,7 +554,7 @@ This dashboard is automatically updated every 6 hours using GitHub Actions. The 
 
 <div align="center">
 
-**Last Updated:** October 04, 2026
+**Last Updated:** October 05, 2026
 
 Made with ❤️ and automated with GitHub Actions
 
