@@ -7,7 +7,7 @@
 ![AI & ML](https://img.shields.io/badge/-AI%20&%20ML-blue) ![CyberSecurity](https://img.shields.io/badge/-CyberSecurity-red) ![Full Stack Development](https://img.shields.io/badge/-Full%20Stack%20Development-green)
 
 [![Auto Update](https://img.shields.io/badge/Auto%20Update-Enabled-success)](https://github.com/yourusername/tech-dashboard/actions)
-[![Last Updated](https://img.shields.io/badge/Last%20Updated-October 05, 2026-blue)](https://github.com/yourusername/tech-dashboard)
+[![Last Updated](https://img.shields.io/badge/Last%20Updated-October 06, 2026-blue)](https://github.com/yourusername/tech-dashboard)
 
 *Automatically updated every 6 hours with the latest tech news, trending repositories, and learning resources.*
 
@@ -46,34 +46,34 @@
 
 ### 📑 Hacker News
 
+- **[Photopea creator weighs in on Photosuite project](https://github.com/eolix/photosuite/issues/77)**
+  *<p>Article URL: <a href="https://github.com/eolix/photosuite/issues/77">https://github.com/eolix/photosuite/issues/77</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49972730">h...*
+  📅 Tue, 06 Oct 2026 00:41:44 +0000
+
+- **[High Diesel Prices Bankrupted 16 Trucking Companies in Just 30 Days](https://www.thedrive.com/news/high-diesel-prices-bankrupted-16-trucking-companies-in-just-30-days)**
+  *<p>Article URL: <a href="https://www.thedrive.com/news/high-diesel-prices-bankrupted-16-trucking-companies-in-just-30-days">https://www.thedrive.com/news/high-diesel-prices-bankrupted-16-trucking-comp...*
+  📅 Tue, 06 Oct 2026 00:24:57 +0000
+
+- **[AI tutoring with Khanmigo in a two-year school experiment](https://edworkingpapers.com/ai26-1551)**
+  *<p>Article URL: <a href="https://edworkingpapers.com/ai26-1551">https://edworkingpapers.com/ai26-1551</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49972419">https://news.ycom...*
+  📅 Tue, 06 Oct 2026 00:00:45 +0000
+
+- **[Samon: Designing a Zen Garden Raking Puzzle](https://gwern.net/doc/design/2026-10-03-gwern-samon.html)**
+  *<p>Article URL: <a href="https://gwern.net/doc/design/2026-10-03-gwern-samon.html">https://gwern.net/doc/design/2026-10-03-gwern-samon.html</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.c...*
+  📅 Mon, 05 Oct 2026 23:35:35 +0000
+
+- **[Ephemeral Testing](https://lemire.me/blog/2026/10/05/ephemeral-testing/)**
+  *<p>Article URL: <a href="https://lemire.me/blog/2026/10/05/ephemeral-testing/">https://lemire.me/blog/2026/10/05/ephemeral-testing/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?...*
+  📅 Mon, 05 Oct 2026 23:06:36 +0000
+
 - **[Worth Building](https://armstr.ng/writing/worth-building)**
   *<p>Article URL: <a href="https://armstr.ng/writing/worth-building">https://armstr.ng/writing/worth-building</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49971952">https://new...*
   📅 Mon, 05 Oct 2026 22:59:24 +0000
-
-- **[Example.com Just Launched the Biggest Redesign in Decades](https://www.debugbear.com/blog/example-dot-com-redesign-history)**
-  *<p>Article URL: <a href="https://www.debugbear.com/blog/example-dot-com-redesign-history">https://www.debugbear.com/blog/example-dot-com-redesign-history</a></p>
-<p>Comments URL: <a href="https://news...*
-  📅 Mon, 05 Oct 2026 22:55:11 +0000
-
-- **[Food Atlas: Connections behind the dishes we love](https://knowledgeartist.org/pages/food-atlas)**
-  *<p>Article URL: <a href="https://knowledgeartist.org/pages/food-atlas">https://knowledgeartist.org/pages/food-atlas</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49971895">htt...*
-  📅 Mon, 05 Oct 2026 22:51:57 +0000
-
-- **[Texas city demands $2M for public records on Flock usage](https://arstechnica.com/tech-policy/2026/10/texas-city-demands-2m-for-public-records-on-flock-usage/)**
-  *<p>Article URL: <a href="https://arstechnica.com/tech-policy/2026/10/texas-city-demands-2m-for-public-records-on-flock-usage/">https://arstechnica.com/tech-policy/2026/10/texas-city-demands-2m-for-pub...*
-  📅 Mon, 05 Oct 2026 22:05:57 +0000
-
-- **[Graphical UI](https://www.graphicalui.com/)**
-  *<p>Article URL: <a href="https://www.graphicalui.com/">https://www.graphicalui.com/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49971356">https://news.ycombinator.com/item?i...*
-  📅 Mon, 05 Oct 2026 21:51:09 +0000
-
-- **[Find the flattest route between any two points in SF](https://flattensf.com/)**
-  *<p>Article URL: <a href="https://flattensf.com/">https://flattensf.com/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49971230">https://news.ycombinator.com/item?id=49971230</...*
-  📅 Mon, 05 Oct 2026 21:40:50 +0000
 
 ### 📑 TechCrunch
 
@@ -103,13 +103,15 @@
 
 ### 📑 Dev.to
 
-- **[React Signup Tests Need a Run-Scoped Email Contract](https://dev.to/ryanlee91/react-signup-tests-need-a-run-scoped-email-contract-3cfg)**
-  *<p>Signup tests often fail in a way that is hard to reproduce. The form works on a laptop, but the CI job sometimes reads an old verification message, waits for a code that belongs to another run, or ...*
-  📅 Mon, 05 Oct 2026 23:23:41 +0000
+- **[Find federal contracts to bid on, without a SAM.gov API key](https://dev.to/wballztrading1/find-federal-contracts-to-bid-on-without-a-samgov-api-key-44d8)**
+  *<p>If you sell to the US government, SAM.gov is where the opportunities are: solicitations, sources-sought notices (RFIs), presolicitations and awards. Searching it by hand every day is slow. The offi...*
+  📅 Tue, 06 Oct 2026 03:51:13 +0000
 
-- **[Frontend Plus Backend Error Tracking: JavaScript and API Trace Correlation](https://dev.to/merrickvance8452/frontend-plus-backend-error-tracking-javascript-and-api-trace-correlation-36ep)**
-  *<p>The important trade-off is fidelity versus operational weight: use a backend error pipeline as the system of record for API failures and AI-call cost, then forward compact browser error summaries t...*
-  📅 Mon, 05 Oct 2026 23:22:50 +0000
+- **[An agent becomes a character through what it does](https://dev.to/cortezjohannes/an-agent-becomes-a-character-through-what-it-does-2dlm)**
+  *<p>A character is not made memorable by a long biography. The decisions it repeats under pressure are what players remember. That is the idea behind this Mochi piece.</p>
+
+<p>The Mochi demo has person...*
+  📅 Tue, 06 Oct 2026 03:49:27 +0000
 
 </details>
 
@@ -117,103 +119,103 @@
 
 ### 📈 Daily Trending
 
-- **[gangmoonrotation/Discord-Quest-Completer](https://github.com/gangmoonrotation/Discord-Quest-Completer)** ⭐ 392
-  ![None](https://img.shields.io/badge/-None-lightgrey)
-  Discord Quest Completer optimizes your gaming experience by providing a comprehensive solution to auto-completing quests in popular games directly through...
+- **[0xgetz/tokenharbor-bulk-creator](https://github.com/0xgetz/tokenharbor-bulk-creator)** ⭐ 18
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
+  Bulk, end-to-end provisioning of Token Harbor (tokenharbor.ai) accounts and API keys through temp-email.dev disposable inboxes. Playwright-driven, MIT, no CI.
 
-- **[HectoTeacher56/Adobe-Substance-3d](https://github.com/HectoTeacher56/Adobe-Substance-3d)** ⭐ 392
-  ![None](https://img.shields.io/badge/-None-lightgrey)
-  Adobe Substance 3D optimizes professional desktop software utility configurations by providing a seamless and advanced platform that unlocks powerful...
+- **[alphaparkinc/genpark-enterprise-meeting-action-item-extractor-skill](https://github.com/alphaparkinc/genpark-enterprise-meeting-action-item-extractor-skill)** ⭐ 7
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  Enterprise Multi-Speaker Meeting Action Item Extractor & WeChat Work Task Dispatcher. Analyzes conversational meeting transcripts from Tencent Meeting, Zoom, and Teams, extracts explicit commitments, dates, and assignees, performs Eisenhower urgency-importance matrix prioritization, and formats collaborative task cards.
 
-- **[SwimmerShield/Better-Discord](https://github.com/SwimmerShield/Better-Discord)** ⭐ 392
-  ![None](https://img.shields.io/badge/-None-lightgrey)
-  Enhances efficiency in managing complex desktop software configurations with a dedicated and highly-functional tool that bypasses redundant steps.
+- **[Alpha-Park/genpark-high-converting-ad-copy-hook-and-cta-synthesizer-skill](https://github.com/Alpha-Park/genpark-high-converting-ad-copy-hook-and-cta-synthesizer-skill)** ⭐ 7
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  Formulates psychology-driven advertising hooks, primary body copy, and CTA variants for marketing campaigns
 
-- **[VarnishTrackPrize/ultra-Iso](https://github.com/VarnishTrackPrize/ultra-Iso)** ⭐ 392
-  ![None](https://img.shields.io/badge/-None-lightgrey)
-  Ultra Iso optimizes professional desktop software utility configurations by providing a meticulously curated set of settings tailored to enhance...
+- **[Alpha-Park/genpark-multimodal-video-clip-semantic-segmentation-skill](https://github.com/Alpha-Park/genpark-multimodal-video-clip-semantic-segmentation-skill)** ⭐ 7
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  Extracts timestamp boundaries, semantic scenes, and viral clip candidate segments from long-form video transcripts
 
-- **[lostparakeetmagnify/Adobe-Illustrator](https://github.com/lostparakeetmagnify/Adobe-Illustrator)** ⭐ 392
-  ![None](https://img.shields.io/badge/-None-lightgrey)
-  Adobe Illustrator repository optimizes design workflows with robust vector graphics tools, enabling seamless collaboration and efficient project...
+- **[Alpha-Park/genpark-proactive-executive-calendar-and-action-item-prioritizer-skill](https://github.com/Alpha-Park/genpark-proactive-executive-calendar-and-action-item-prioritizer-skill)** ⭐ 7
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  Triages meeting requests, detects conflicting commitments, and assigns priority tiers for executive calendars
 
-- **[CyclopsRogueSucceed/Discord-Nitro-Generator](https://github.com/CyclopsRogueSucceed/Discord-Nitro-Generator)** ⭐ 392
-  ![None](https://img.shields.io/badge/-None-lightgrey)
-  Discord Nitro Generator is a professional desktop software utility designed to optimize server performance by managing large communities with ease.
+- **[alphaparkinc/genpark-high-converting-ad-copy-hook-and-cta-synthesizer-skill](https://github.com/alphaparkinc/genpark-high-converting-ad-copy-hook-and-cta-synthesizer-skill)** ⭐ 7
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  Formulates psychology-driven advertising hooks, primary body copy, and CTA variants for marketing campaigns
 
-- **[Noblebroplain/Ads-Blocker](https://github.com/Noblebroplain/Ads-Blocker)** ⭐ 392
-  ![None](https://img.shields.io/badge/-None-lightgrey)
-  Ads Blocker is a professional desktop utility that optimizes browsing experience by effectively blocking all intrusive ads, ensuring an uninterrupted and...
+- **[Alpha-Park/genpark-agentic-inventory-restock-predictive-balancer-skill](https://github.com/Alpha-Park/genpark-agentic-inventory-restock-predictive-balancer-skill)** ⭐ 7
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  Autonomous Multi-Channel Inventory Restock Predictive Balancer & PO Generator. Forecasts SKU sales velocity using exponential moving averages (EMA), calculates safety stock buffers ($SS = z \cdot \sigma_d \sqrt{L}$), dynamically computes reorder points (ROP), and synthesizes supplier Purchase Orders.
 
-- **[KazekagePyre/Adobe-Audition](https://github.com/KazekagePyre/Adobe-Audition)** ⭐ 392
-  ![None](https://img.shields.io/badge/-None-lightgrey)
-  Adobe Audition optimizes audio production workflows with its robust suite of editing tools and seamless integration capabilities, providing a powerful...
+- **[alphaparkinc/genpark-multimodal-video-clip-semantic-segmentation-skill](https://github.com/alphaparkinc/genpark-multimodal-video-clip-semantic-segmentation-skill)** ⭐ 7
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  Extracts timestamp boundaries, semantic scenes, and viral clip candidate segments from long-form video transcripts
 
 ### 📈 Weekly Trending
 
-- **[rehan-remade/universal-modder](https://github.com/rehan-remade/universal-modder)** ⭐ 3,834
+- **[rehan-remade/universal-modder](https://github.com/rehan-remade/universal-modder)** ⭐ 3,892
   ![Python](https://img.shields.io/badge/-Python-blue)
   Point Claude at any game. Skills, tools and the fal MCP that let Claude Code mod almost any PC game you own: recon, reverse engineering, fal-generated art/3D/audio, in-game testing, showcase videos.
 
-- **[CopilotKit/OpenDots](https://github.com/CopilotKit/OpenDots)** ⭐ 3,665
-  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
-  Your always-on AI coworkers that move between text, calls, and Slack.
-
-- **[feder-cr/dots](https://github.com/feder-cr/dots)** ⭐ 2,619
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  Open-source dots for the web: an AI agent with its own browser, one that does not get blocked.
-
-- **[storytold/photocraft](https://github.com/storytold/photocraft)** ⭐ 2,026
+- **[storytold/photocraft](https://github.com/storytold/photocraft)** ⭐ 2,208
   ![Rust](https://img.shields.io/badge/-Rust-brown)
   An open-source, clean-room reimplementation of Adobe Photoshop in pure Rust
 
-- **[omlahore/RemoveMacAI](https://github.com/omlahore/RemoveMacAI)** ⭐ 1,989
-  ![Swift](https://img.shields.io/badge/-Swift-lightgrey)
-  Turn off Apple Intelligence on macOS 27 and get its disk space back. One command, fully reversible.
-
-- **[nykooi1/vibe-wise](https://github.com/nykooi1/vibe-wise)** ⭐ 1,751
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  A Claude Code plugin that helps you learn how to build while AI writes the code.
-
-- **[nanaism/yomiyasu](https://github.com/nanaism/yomiyasu)** ⭐ 1,504
+- **[nanaism/yomiyasu](https://github.com/nanaism/yomiyasu)** ⭐ 1,532
   ![Python](https://img.shields.io/badge/-Python-blue)
   AI生成の日本語を自然な日本語へ推敲するAgent Skill / Agent Skill for Refining AI-Generated Japanese into Natural Japanese
 
-- **[QingYunA/answer-me-with-html](https://github.com/QingYunA/answer-me-with-html)** ⭐ 1,471
+- **[QingYunA/answer-me-with-html](https://github.com/QingYunA/answer-me-with-html)** ⭐ 1,512
   ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
   Answer me with HTML — an agent skill that answers hard questions with a one-page HTML you can actually read. 让 AI Agent 用一页 HTML 回答复杂问题。
 
+- **[kargulstudio/sales-crm](https://github.com/kargulstudio/sales-crm)** ⭐ 1,479
+  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
+  None
+
+- **[facebookincubator/muse-gadget-sdk](https://github.com/facebookincubator/muse-gadget-sdk)** ⭐ 1,452
+  ![C](https://img.shields.io/badge/-C-lightgrey)
+  Open source SDK to build Muse gadgets
+
+- **[CAPCOM-TD-OSS/REDox](https://github.com/CAPCOM-TD-OSS/REDox)** ⭐ 1,087
+  ![C#](https://img.shields.io/badge/-C#-lightgrey)
+  High-performance, token-based structured data engine for .NET. A core component of REX, the technology behind CAPCOM's next-generation game engine.
+
+- **[chasmlol/SkyCraft](https://github.com/chasmlol/SkyCraft)** ⭐ 983
+  ![C++](https://img.shields.io/badge/-C++-pink)
+  Play Skyrim as a Minecraft player: Minecraft physics, inventory, blocks and combat inside Skyrim's world (SKSE plugin + Fabric mod).
+
 ### 📈 Monthly Trending
 
-- **[eternity4719/HowToLiveBetter](https://github.com/eternity4719/HowToLiveBetter)** ⭐ 43,417
+- **[eternity4719/HowToLiveBetter](https://github.com/eternity4719/HowToLiveBetter)** ⭐ 43,843
   ![HTML](https://img.shields.io/badge/-HTML-lightgrey)
   高性价比人生指南: 长寿防病、急救、省钱理财、法律红线、失业与工伤、医保社保、恋爱婚育、怀孕育儿、创业与做平台合规、出国与技能。每条写明成本、收益、证据等级和原始出处，只引期刊论文与官方文件。
 
-- **[NandhaKishorM/laya](https://github.com/NandhaKishorM/laya)** ⭐ 30,967
+- **[NandhaKishorM/laya](https://github.com/NandhaKishorM/laya)** ⭐ 31,002
   ![Python](https://img.shields.io/badge/-Python-blue)
   Non-autoregressive System 1 decision engine. Typed choice, score and yes/no decisions over any text in a single forward pass, in 100+ languages, with a router that picks the right checkpoint per request.
 
-- **[browser-use/jev-ultrafast](https://github.com/browser-use/jev-ultrafast)** ⭐ 22,099
+- **[browser-use/jev-ultrafast](https://github.com/browser-use/jev-ultrafast)** ⭐ 22,116
   ![Python](https://img.shields.io/badge/-Python-blue)
   Fastest and cheapest web agent
 
-- **[Niko1221/Strata](https://github.com/Niko1221/Strata)** ⭐ 13,833
+- **[Niko1221/Strata](https://github.com/Niko1221/Strata)** ⭐ 14,182
   ![C++](https://img.shields.io/badge/-C++-pink)
   Qwen3.8-Flash-Next on any consumer hardware: one-click install for Windows / Linux. Strata inference engine, OpenAI/Anthropic API on localhost, optional image input.
 
-- **[jaredpalmer/kev](https://github.com/jaredpalmer/kev)** ⭐ 8,508
+- **[jaredpalmer/kev](https://github.com/jaredpalmer/kev)** ⭐ 8,522
   ![Python](https://img.shields.io/badge/-Python-blue)
   Jev-like family of decision models built on top of Qwen3.5/3.8 you can train and run on your own
 
-- **[robbietilton/Compositor](https://github.com/robbietilton/Compositor)** ⭐ 8,290
+- **[robbietilton/Compositor](https://github.com/robbietilton/Compositor)** ⭐ 8,401
   ![Swift](https://img.shields.io/badge/-Swift-lightgrey)
   The Photoshop alternative for Mac
 
-- **[cdyforever/how-to-live-better](https://github.com/cdyforever/how-to-live-better)** ⭐ 7,729
+- **[cdyforever/how-to-live-better](https://github.com/cdyforever/how-to-live-better)** ⭐ 7,808
   ![HTML](https://img.shields.io/badge/-HTML-lightgrey)
   《高性价比人生指南》全书 528 条的在线单页阅读版：手机可读、可搜索、零依赖、支持离线
 
-- **[zai-org/ZCode](https://github.com/zai-org/ZCode)** ⭐ 7,436
+- **[zai-org/ZCode](https://github.com/zai-org/ZCode)** ⭐ 7,442
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   Z.ai's coding agent harness. Powerful, intelligent, extensible.
 
@@ -482,19 +484,19 @@ See [kubernetes-announce@](https://groups.google.com/forum/#!forum/kubernetes-an
 
 | Skill | Status |
 |-------|--------|
-| Java | ⚪ Planned |
+| Java | 🟡 Learning |
 | Python | 🟡 Learning |
-| JavaScript | 🟢 Proficient |
+| JavaScript | ⚪ Planned |
 | TypeScript | ⚪ Planned |
-| Go | 🟢 Proficient |
+| Go | 🔴 Beginner |
 
 ### Frameworks
 
 | Skill | Status |
 |-------|--------|
 | React | 🔴 Beginner |
-| Spring Boot | 🟡 Learning |
-| Django | 🟢 Proficient |
+| Spring Boot | 🟢 Proficient |
+| Django | 🔴 Beginner |
 | Node.js | 🔴 Beginner |
 | Next.js | ⚪ Planned |
 
@@ -502,19 +504,19 @@ See [kubernetes-announce@](https://groups.google.com/forum/#!forum/kubernetes-an
 
 | Skill | Status |
 |-------|--------|
-| Penetration Testing | ⚪ Planned |
-| Web Security | ⚪ Planned |
+| Penetration Testing | 🟢 Proficient |
+| Web Security | 🟢 Proficient |
 | Network Security | ⚪ Planned |
-| OWASP | ⚪ Planned |
+| OWASP | 🔴 Beginner |
 
 ### Ai Ml
 
 | Skill | Status |
 |-------|--------|
-| Machine Learning | ⚪ Planned |
+| Machine Learning | 🟢 Proficient |
 | Deep Learning | ⚪ Planned |
-| NLP | 🟢 Proficient |
-| Computer Vision | ⚪ Planned |
+| NLP | ⚪ Planned |
+| Computer Vision | 🟢 Proficient |
 | TensorFlow | ⚪ Planned |
 | PyTorch | 🟢 Proficient |
 
@@ -522,19 +524,19 @@ See [kubernetes-announce@](https://groups.google.com/forum/#!forum/kubernetes-an
 
 | Skill | Status |
 |-------|--------|
-| Docker | 🟡 Learning |
-| Kubernetes | 🔴 Beginner |
+| Docker | 🟢 Proficient |
+| Kubernetes | 🟡 Learning |
 | CI/CD | 🟡 Learning |
-| AWS | ⚪ Planned |
-| Azure | ⚪ Planned |
+| AWS | 🟢 Proficient |
+| Azure | 🟡 Learning |
 
 ### Other
 
 | Skill | Status |
 |-------|--------|
-| Blockchain | ⚪ Planned |
+| Blockchain | 🔴 Beginner |
 | Web3 | 🟢 Proficient |
-| Cloud Computing | ⚪ Planned |
+| Cloud Computing | 🟢 Proficient |
 
 </details>
 
@@ -552,7 +554,7 @@ This dashboard is automatically updated every 6 hours using GitHub Actions. The 
 
 <div align="center">
 
-**Last Updated:** October 05, 2026
+**Last Updated:** October 06, 2026
 
 Made with ❤️ and automated with GitHub Actions
 
