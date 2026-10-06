@@ -46,36 +46,39 @@
 
 ### 📑 Hacker News
 
-- **[Photopea creator weighs in on Photosuite project](https://github.com/eolix/photosuite/issues/77)**
-  *<p>Article URL: <a href="https://github.com/eolix/photosuite/issues/77">https://github.com/eolix/photosuite/issues/77</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49972730">h...*
-  📅 Tue, 06 Oct 2026 00:41:44 +0000
+- **[World's First enhanced geothermal power plant completed in just 23 months](https://techcrunch.com/2026/10/01/worlds-first-enhanced-geothermal-power-plant-completed-in-just-23-months/)**
+  *<p>Article URL: <a href="https://techcrunch.com/2026/10/01/worlds-first-enhanced-geothermal-power-plant-completed-in-just-23-months/">https://techcrunch.com/2026/10/01/worlds-first-enhanced-geothermal...*
+  📅 Tue, 06 Oct 2026 11:34:14 +0000
 
-- **[High Diesel Prices Bankrupted 16 Trucking Companies in Just 30 Days](https://www.thedrive.com/news/high-diesel-prices-bankrupted-16-trucking-companies-in-just-30-days)**
-  *<p>Article URL: <a href="https://www.thedrive.com/news/high-diesel-prices-bankrupted-16-trucking-companies-in-just-30-days">https://www.thedrive.com/news/high-diesel-prices-bankrupted-16-trucking-comp...*
-  📅 Tue, 06 Oct 2026 00:24:57 +0000
+- **[ASOS app users receive push notifications apparently sent by hackers](https://www.bbc.co.uk/news/articles/cj62ylzpr6d3o)**
+  *<p>Article URL: <a href="https://www.bbc.co.uk/news/articles/cj62ylzpr6d3o">https://www.bbc.co.uk/news/articles/cj62ylzpr6d3o</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=499...*
+  📅 Tue, 06 Oct 2026 10:15:40 +0000
 
-- **[AI tutoring with Khanmigo in a two-year school experiment](https://edworkingpapers.com/ai26-1551)**
-  *<p>Article URL: <a href="https://edworkingpapers.com/ai26-1551">https://edworkingpapers.com/ai26-1551</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49972419">https://news.ycom...*
-  📅 Tue, 06 Oct 2026 00:00:45 +0000
+- **[Nobel Prize in Physics goes to Francis Halzen](https://www.nobelprize.org/prizes/physics/2026/)**
+  *<p>Article URL: <a href="https://www.nobelprize.org/prizes/physics/2026/">https://www.nobelprize.org/prizes/physics/2026/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=4997626...*
+  📅 Tue, 06 Oct 2026 09:48:46 +0000
 
-- **[Samon: Designing a Zen Garden Raking Puzzle](https://gwern.net/doc/design/2026-10-03-gwern-samon.html)**
-  *<p>Article URL: <a href="https://gwern.net/doc/design/2026-10-03-gwern-samon.html">https://gwern.net/doc/design/2026-10-03-gwern-samon.html</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.c...*
-  📅 Mon, 05 Oct 2026 23:35:35 +0000
+- **[Gleam doesn't compile to Erlang source anymore](https://gleam.run/news/gleam-doesnt-compile-to-erlang-source-anymore/)**
+  *<p>Article URL: <a href="https://gleam.run/news/gleam-doesnt-compile-to-erlang-source-anymore/">https://gleam.run/news/gleam-doesnt-compile-to-erlang-source-anymore/</a></p>
+<p>Comments URL: <a href="...*
+  📅 Tue, 06 Oct 2026 08:08:20 +0000
 
-- **[Ephemeral Testing](https://lemire.me/blog/2026/10/05/ephemeral-testing/)**
-  *<p>Article URL: <a href="https://lemire.me/blog/2026/10/05/ephemeral-testing/">https://lemire.me/blog/2026/10/05/ephemeral-testing/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?...*
-  📅 Mon, 05 Oct 2026 23:06:36 +0000
+- **[Resurrecting iChat Audio and Video Conferencing](https://blog.pipetogrep.org/2026/09/11/resurrecting-ichat-audio-and-video-conferencing/)**
+  *<p>Article URL: <a href="https://blog.pipetogrep.org/2026/09/11/resurrecting-ichat-audio-and-video-conferencing/">https://blog.pipetogrep.org/2026/09/11/resurrecting-ichat-audio-and-video-conferencing...*
+  📅 Tue, 06 Oct 2026 03:39:01 +0000
 
-- **[Worth Building](https://armstr.ng/writing/worth-building)**
-  *<p>Article URL: <a href="https://armstr.ng/writing/worth-building">https://armstr.ng/writing/worth-building</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49971952">https://new...*
-  📅 Mon, 05 Oct 2026 22:59:24 +0000
+- **[Why Common Lisp is now the best programming language](https://www.vivienhenz.com/common-lisp)**
+  *<p>Article URL: <a href="https://www.vivienhenz.com/common-lisp">https://www.vivienhenz.com/common-lisp</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49973598">https://news.yc...*
+  📅 Tue, 06 Oct 2026 02:51:51 +0000
 
 ### 📑 TechCrunch
+
+- **[Type One Energy raised $200M to build a fusion power plant by 2034](https://techcrunch.com/2026/10/06/type-one-energy-raised-200m-to-build-a-fusion-power-plant-by-2034/)**
+  *Type One Energy is betting that its lean approach to fusion power will get a power plant on the grid faster, and investors have rewarded it with $200 million....*
+  📅 Tue, 06 Oct 2026 12:00:00 +0000
 
 - **[Lucid Motors’ EV output falls to lowest level in almost 2 years](https://techcrunch.com/2026/10/05/lucid-motors-ev-output-falls-to-lowest-level-in-almost-two-years/)**
   *The company is deliberately limiting production after years of struggling to find mass-market demand for its EVs....*
@@ -97,21 +100,17 @@
   *Reflection is aiming Beam and future models at enterprises and sovereign nations. The pitch is to build “AI factories,” a product that would let institutions build their own customized, local AI syste...*
   📅 Mon, 05 Oct 2026 19:33:53 +0000
 
-- **[Instinct brings its AI agent to group chats, even for friends without an account](https://techcrunch.com/2026/10/05/instinct-brings-its-ai-agent-to-group-chats-even-for-friends-without-an-account/)**
-  *Instinct is launching group chats that let friends use its AI agent together for tasks like planning trips, organizing carpools, and coordinating events. The company says personal accounts remain sepa...*
-  📅 Mon, 05 Oct 2026 18:54:30 +0000
-
 ### 📑 Dev.to
 
-- **[Find federal contracts to bid on, without a SAM.gov API key](https://dev.to/wballztrading1/find-federal-contracts-to-bid-on-without-a-samgov-api-key-44d8)**
-  *<p>If you sell to the US government, SAM.gov is where the opportunities are: solicitations, sources-sought notices (RFIs), presolicitations and awards. Searching it by hand every day is slow. The offi...*
-  📅 Tue, 06 Oct 2026 03:51:13 +0000
+- **[Building a Library Management System in Python: What I Learned About OOP](https://dev.to/iszy/building-a-library-management-system-in-python-what-i-learned-about-oop-5en9)**
+  *<p>I'm continuing my Python learning journey, and this time I built a <strong>Library Management System</strong> using Object-Oriented Programming (OOP).</p>
 
-- **[An agent becomes a character through what it does](https://dev.to/cortezjohannes/an-agent-becomes-a-character-through-what-it-does-2dlm)**
-  *<p>A character is not made memorable by a long biography. The decisions it repeats under pressure are what players remember. That is the idea behind this Mochi piece.</p>
+<p>This project was more than just writin...*
+  📅 Tue, 06 Oct 2026 12:21:59 +0000
 
-<p>The Mochi demo has person...*
-  📅 Tue, 06 Oct 2026 03:49:27 +0000
+- **[[ShowDev] GiffyPy: A fast, lightweight video editor to crop and trim screen recordings for your README](https://dev.to/effessdev/showdev-giffypy-a-fast-lightweight-video-editor-to-crop-and-trim-screen-recordings-for-your-2k2f)**
+  *<p>If you've ever tried adding a GIF or animated WebP of a screen recording to your project's README, you know how annoying it can be. You just want to show people how your product works without spend...*
+  📅 Tue, 06 Oct 2026 12:21:30 +0000
 
 </details>
 
@@ -119,103 +118,103 @@
 
 ### 📈 Daily Trending
 
-- **[0xgetz/tokenharbor-bulk-creator](https://github.com/0xgetz/tokenharbor-bulk-creator)** ⭐ 18
+- **[alchaincyf/huashu-art-motion](https://github.com/alchaincyf/huashu-art-motion)** ⭐ 281
   ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
-  Bulk, end-to-end provisioning of Token Harbor (tokenharbor.ai) accounts and API keys through temp-email.dev disposable inboxes. Playwright-driven, MIT, no CI.
+  艺术动画skill：35种艺术风格、9种解说语法，用代码让画动起来。
 
-- **[alphaparkinc/genpark-enterprise-meeting-action-item-extractor-skill](https://github.com/alphaparkinc/genpark-enterprise-meeting-action-item-extractor-skill)** ⭐ 7
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  Enterprise Multi-Speaker Meeting Action Item Extractor & WeChat Work Task Dispatcher. Analyzes conversational meeting transcripts from Tencent Meeting, Zoom, and Teams, extracts explicit commitments, dates, and assignees, performs Eisenhower urgency-importance matrix prioritization, and formats collaborative task cards.
+- **[Henryfud/werm](https://github.com/Henryfud/werm)** ⭐ 196
+  ![HTML](https://img.shields.io/badge/-HTML-lightgrey)
+  A 302 neuron network on the real C. elegans wiring diagram, with a steering layer for local language models.
 
-- **[Alpha-Park/genpark-high-converting-ad-copy-hook-and-cta-synthesizer-skill](https://github.com/Alpha-Park/genpark-high-converting-ad-copy-hook-and-cta-synthesizer-skill)** ⭐ 7
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  Formulates psychology-driven advertising hooks, primary body copy, and CTA variants for marketing campaigns
+- **[nanocle/Charakuru](https://github.com/nanocle/Charakuru)** ⭐ 41
+  ![None](https://img.shields.io/badge/-None-lightgrey)
+  None
 
-- **[Alpha-Park/genpark-multimodal-video-clip-semantic-segmentation-skill](https://github.com/Alpha-Park/genpark-multimodal-video-clip-semantic-segmentation-skill)** ⭐ 7
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  Extracts timestamp boundaries, semantic scenes, and viral clip candidate segments from long-form video transcripts
+- **[jake-hallhq1994q8/Medusa-LoL-SkinHelper](https://github.com/jake-hallhq1994q8/Medusa-LoL-SkinHelper)** ⭐ 40
+  ![None](https://img.shields.io/badge/-None-lightgrey)
+  None
 
-- **[Alpha-Park/genpark-proactive-executive-calendar-and-action-item-prioritizer-skill](https://github.com/Alpha-Park/genpark-proactive-executive-calendar-and-action-item-prioritizer-skill)** ⭐ 7
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  Triages meeting requests, detects conflicting commitments, and assigns priority tiers for executive calendars
+- **[luoluo-121/neural-creator-dashboard](https://github.com/luoluo-121/neural-creator-dashboard)** ⭐ 35
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
+  创作神经网络看板与 Agent Skill｜学习及非商业使用，商业使用须另行授权；历史授权例外见 NOTICE
 
-- **[alphaparkinc/genpark-high-converting-ad-copy-hook-and-cta-synthesizer-skill](https://github.com/alphaparkinc/genpark-high-converting-ad-copy-hook-and-cta-synthesizer-skill)** ⭐ 7
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  Formulates psychology-driven advertising hooks, primary body copy, and CTA variants for marketing campaigns
+- **[dmitry-n-x1995z4/Medusa-Forza-Horizon-6](https://github.com/dmitry-n-x1995z4/Medusa-Forza-Horizon-6)** ⭐ 34
+  ![None](https://img.shields.io/badge/-None-lightgrey)
+  FH6 Medusa is a free comprehensive trainer and tool for Forza Horizon 6 on Windows 10/11. Packed with unlimited money, unlock all 812 cars, speed , teleport, no damage, instant race win, and XP multiplier - this is the most complete forza horizon 6 trainer available as a single binary
 
-- **[Alpha-Park/genpark-agentic-inventory-restock-predictive-balancer-skill](https://github.com/Alpha-Park/genpark-agentic-inventory-restock-predictive-balancer-skill)** ⭐ 7
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  Autonomous Multi-Channel Inventory Restock Predictive Balancer & PO Generator. Forecasts SKU sales velocity using exponential moving averages (EMA), calculates safety stock buffers ($SS = z \cdot \sigma_d \sqrt{L}$), dynamically computes reorder points (ROP), and synthesizes supplier Purchase Orders.
+- **[zhuoligetu123/microduck-hd1910m](https://github.com/zhuoligetu123/microduck-hd1910m)** ⭐ 24
+  ![Rust](https://img.shields.io/badge/-Rust-brown)
+  MicroDuck HD1910M native runtime, RL integration, deployment and APK release
 
-- **[alphaparkinc/genpark-multimodal-video-clip-semantic-segmentation-skill](https://github.com/alphaparkinc/genpark-multimodal-video-clip-semantic-segmentation-skill)** ⭐ 7
+- **[itsyebekhe/usd](https://github.com/itsyebekhe/usd)** ⭐ 24
   ![Python](https://img.shields.io/badge/-Python-blue)
-  Extracts timestamp boundaries, semantic scenes, and viral clip candidate segments from long-form video transcripts
+  None
 
 ### 📈 Weekly Trending
 
-- **[rehan-remade/universal-modder](https://github.com/rehan-remade/universal-modder)** ⭐ 3,892
+- **[rehan-remade/universal-modder](https://github.com/rehan-remade/universal-modder)** ⭐ 4,214
   ![Python](https://img.shields.io/badge/-Python-blue)
   Point Claude at any game. Skills, tools and the fal MCP that let Claude Code mod almost any PC game you own: recon, reverse engineering, fal-generated art/3D/audio, in-game testing, showcase videos.
 
-- **[storytold/photocraft](https://github.com/storytold/photocraft)** ⭐ 2,208
+- **[storytold/photocraft](https://github.com/storytold/photocraft)** ⭐ 2,614
   ![Rust](https://img.shields.io/badge/-Rust-brown)
   An open-source, clean-room reimplementation of Adobe Photoshop in pure Rust
 
-- **[nanaism/yomiyasu](https://github.com/nanaism/yomiyasu)** ⭐ 1,532
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  AI生成の日本語を自然な日本語へ推敲するAgent Skill / Agent Skill for Refining AI-Generated Japanese into Natural Japanese
-
-- **[QingYunA/answer-me-with-html](https://github.com/QingYunA/answer-me-with-html)** ⭐ 1,512
+- **[QingYunA/answer-me-with-html](https://github.com/QingYunA/answer-me-with-html)** ⭐ 1,613
   ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
   Answer me with HTML — an agent skill that answers hard questions with a one-page HTML you can actually read. 让 AI Agent 用一页 HTML 回答复杂问题。
 
-- **[kargulstudio/sales-crm](https://github.com/kargulstudio/sales-crm)** ⭐ 1,479
+- **[nanaism/yomiyasu](https://github.com/nanaism/yomiyasu)** ⭐ 1,568
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  AI生成の日本語を自然な日本語へ推敲するAgent Skill / Agent Skill for Refining AI-Generated Japanese into Natural Japanese
+
+- **[kargulstudio/sales-crm](https://github.com/kargulstudio/sales-crm)** ⭐ 1,543
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   None
 
-- **[facebookincubator/muse-gadget-sdk](https://github.com/facebookincubator/muse-gadget-sdk)** ⭐ 1,452
+- **[facebookincubator/muse-gadget-sdk](https://github.com/facebookincubator/muse-gadget-sdk)** ⭐ 1,491
   ![C](https://img.shields.io/badge/-C-lightgrey)
   Open source SDK to build Muse gadgets
 
-- **[CAPCOM-TD-OSS/REDox](https://github.com/CAPCOM-TD-OSS/REDox)** ⭐ 1,087
+- **[CAPCOM-TD-OSS/REDox](https://github.com/CAPCOM-TD-OSS/REDox)** ⭐ 1,104
   ![C#](https://img.shields.io/badge/-C#-lightgrey)
   High-performance, token-based structured data engine for .NET. A core component of REX, the technology behind CAPCOM's next-generation game engine.
 
-- **[chasmlol/SkyCraft](https://github.com/chasmlol/SkyCraft)** ⭐ 983
+- **[chasmlol/SkyCraft](https://github.com/chasmlol/SkyCraft)** ⭐ 1,003
   ![C++](https://img.shields.io/badge/-C++-pink)
   Play Skyrim as a Minecraft player: Minecraft physics, inventory, blocks and combat inside Skyrim's world (SKSE plugin + Fabric mod).
 
 ### 📈 Monthly Trending
 
-- **[eternity4719/HowToLiveBetter](https://github.com/eternity4719/HowToLiveBetter)** ⭐ 43,843
+- **[eternity4719/HowToLiveBetter](https://github.com/eternity4719/HowToLiveBetter)** ⭐ 45,430
   ![HTML](https://img.shields.io/badge/-HTML-lightgrey)
   高性价比人生指南: 长寿防病、急救、省钱理财、法律红线、失业与工伤、医保社保、恋爱婚育、怀孕育儿、创业与做平台合规、出国与技能。每条写明成本、收益、证据等级和原始出处，只引期刊论文与官方文件。
 
-- **[NandhaKishorM/laya](https://github.com/NandhaKishorM/laya)** ⭐ 31,002
+- **[NandhaKishorM/laya](https://github.com/NandhaKishorM/laya)** ⭐ 31,098
   ![Python](https://img.shields.io/badge/-Python-blue)
   Non-autoregressive System 1 decision engine. Typed choice, score and yes/no decisions over any text in a single forward pass, in 100+ languages, with a router that picks the right checkpoint per request.
 
-- **[browser-use/jev-ultrafast](https://github.com/browser-use/jev-ultrafast)** ⭐ 22,116
+- **[browser-use/jev-ultrafast](https://github.com/browser-use/jev-ultrafast)** ⭐ 22,164
   ![Python](https://img.shields.io/badge/-Python-blue)
   Fastest and cheapest web agent
 
-- **[Niko1221/Strata](https://github.com/Niko1221/Strata)** ⭐ 14,182
+- **[Niko1221/Strata](https://github.com/Niko1221/Strata)** ⭐ 14,941
   ![C++](https://img.shields.io/badge/-C++-pink)
   Qwen3.8-Flash-Next on any consumer hardware: one-click install for Windows / Linux. Strata inference engine, OpenAI/Anthropic API on localhost, optional image input.
 
-- **[jaredpalmer/kev](https://github.com/jaredpalmer/kev)** ⭐ 8,522
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  Jev-like family of decision models built on top of Qwen3.5/3.8 you can train and run on your own
-
-- **[robbietilton/Compositor](https://github.com/robbietilton/Compositor)** ⭐ 8,401
+- **[robbietilton/Compositor](https://github.com/robbietilton/Compositor)** ⭐ 8,630
   ![Swift](https://img.shields.io/badge/-Swift-lightgrey)
   The Photoshop alternative for Mac
 
-- **[cdyforever/how-to-live-better](https://github.com/cdyforever/how-to-live-better)** ⭐ 7,808
+- **[jaredpalmer/kev](https://github.com/jaredpalmer/kev)** ⭐ 8,556
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  Jev-like family of decision models built on top of Qwen3.5/3.8 you can train and run on your own
+
+- **[cdyforever/how-to-live-better](https://github.com/cdyforever/how-to-live-better)** ⭐ 8,181
   ![HTML](https://img.shields.io/badge/-HTML-lightgrey)
   《高性价比人生指南》全书 528 条的在线单页阅读版：手机可读、可搜索、零依赖、支持离线
 
-- **[zai-org/ZCode](https://github.com/zai-org/ZCode)** ⭐ 7,442
+- **[zai-org/ZCode](https://github.com/zai-org/ZCode)** ⭐ 7,461
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   Z.ai's coding agent harness. Powerful, intelligent, extensible.
 
@@ -484,19 +483,19 @@ See [kubernetes-announce@](https://groups.google.com/forum/#!forum/kubernetes-an
 
 | Skill | Status |
 |-------|--------|
-| Java | 🟡 Learning |
-| Python | 🟡 Learning |
+| Java | ⚪ Planned |
+| Python | 🔴 Beginner |
 | JavaScript | ⚪ Planned |
 | TypeScript | ⚪ Planned |
-| Go | 🔴 Beginner |
+| Go | ⚪ Planned |
 
 ### Frameworks
 
 | Skill | Status |
 |-------|--------|
-| React | 🔴 Beginner |
-| Spring Boot | 🟢 Proficient |
-| Django | 🔴 Beginner |
+| React | 🟡 Learning |
+| Spring Boot | 🔴 Beginner |
+| Django | 🟡 Learning |
 | Node.js | 🔴 Beginner |
 | Next.js | ⚪ Planned |
 
@@ -504,39 +503,39 @@ See [kubernetes-announce@](https://groups.google.com/forum/#!forum/kubernetes-an
 
 | Skill | Status |
 |-------|--------|
-| Penetration Testing | 🟢 Proficient |
-| Web Security | 🟢 Proficient |
+| Penetration Testing | ⚪ Planned |
+| Web Security | 🔴 Beginner |
 | Network Security | ⚪ Planned |
-| OWASP | 🔴 Beginner |
+| OWASP | ⚪ Planned |
 
 ### Ai Ml
 
 | Skill | Status |
 |-------|--------|
-| Machine Learning | 🟢 Proficient |
-| Deep Learning | ⚪ Planned |
-| NLP | ⚪ Planned |
-| Computer Vision | 🟢 Proficient |
-| TensorFlow | ⚪ Planned |
+| Machine Learning | 🔴 Beginner |
+| Deep Learning | 🔴 Beginner |
+| NLP | 🟡 Learning |
+| Computer Vision | ⚪ Planned |
+| TensorFlow | 🟡 Learning |
 | PyTorch | 🟢 Proficient |
 
 ### Devops
 
 | Skill | Status |
 |-------|--------|
-| Docker | 🟢 Proficient |
-| Kubernetes | 🟡 Learning |
+| Docker | ⚪ Planned |
+| Kubernetes | 🟢 Proficient |
 | CI/CD | 🟡 Learning |
-| AWS | 🟢 Proficient |
+| AWS | 🟡 Learning |
 | Azure | 🟡 Learning |
 
 ### Other
 
 | Skill | Status |
 |-------|--------|
-| Blockchain | 🔴 Beginner |
-| Web3 | 🟢 Proficient |
-| Cloud Computing | 🟢 Proficient |
+| Blockchain | 🟢 Proficient |
+| Web3 | ⚪ Planned |
+| Cloud Computing | 🔴 Beginner |
 
 </details>
 
