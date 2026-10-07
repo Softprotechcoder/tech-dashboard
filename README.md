@@ -46,69 +46,71 @@
 
 ### 📑 Hacker News
 
-- **[Shipping JPEG XL in Chrome](https://developer.chrome.com/blog/jpeg-xl-in-chrome)**
-  *<p>Article URL: <a href="https://developer.chrome.com/blog/jpeg-xl-in-chrome">https://developer.chrome.com/blog/jpeg-xl-in-chrome</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id...*
-  📅 Wed, 07 Oct 2026 11:25:02 +0000
+- **[Margaret Hamilton, who led software development for Apollo program, dies at 90](https://news.mit.edu/2026/margaret-hamilton-computing-pioneer-dies-1007)**
+  *<p>Article URL: <a href="https://news.mit.edu/2026/margaret-hamilton-computing-pioneer-dies-1007">https://news.mit.edu/2026/margaret-hamilton-computing-pioneer-dies-1007</a></p>
+<p>Comments URL: <a hr...*
+  📅 Wed, 07 Oct 2026 21:16:18 +0000
 
-- **[PS5 Jailbreaks Are Escalating at an Unprecedented Pace](https://www.pushsquare.com/news/2026/10/ps5-jailbreaks-are-escalating-at-an-unprecedented-pace-and-sony-must-be-sweating)**
-  *<p>Article URL: <a href="https://www.pushsquare.com/news/2026/10/ps5-jailbreaks-are-escalating-at-an-unprecedented-pace-and-sony-must-be-sweating">https://www.pushsquare.com/news/2026/10/ps5-jailbreak...*
-  📅 Wed, 07 Oct 2026 10:24:19 +0000
+- **[Despite what Watson said, Rosalind Franklin understood structure of DNA first](https://link.springer.com/article/10.1007/s10739-026-09866-7)**
+  *<p>Article URL: <a href="https://link.springer.com/article/10.1007/s10739-026-09866-7">https://link.springer.com/article/10.1007/s10739-026-09866-7</a></p>
+<p>Comments URL: <a href="https://news.ycomb...*
+  📅 Wed, 07 Oct 2026 19:56:16 +0000
 
-- **[Nobel Prize in Chemistry 2026 to Henri B. Kagan and Kenso Soai](https://www.nobelprize.org/prizes/chemistry/2026/press-release/)**
-  *<p>Article URL: <a href="https://www.nobelprize.org/prizes/chemistry/2026/press-release/">https://www.nobelprize.org/prizes/chemistry/2026/press-release/</a></p>
-<p>Comments URL: <a href="https://news...*
-  📅 Wed, 07 Oct 2026 09:51:43 +0000
+- **[The Mathocalypse](https://scottaaronson.blog/?p=10169)**
+  *<p>Article URL: <a href="https://scottaaronson.blog/?p=10169">https://scottaaronson.blog/?p=10169</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49997718">https://news.ycombina...*
+  📅 Wed, 07 Oct 2026 19:33:40 +0000
 
-- **[A font recreated from photographs of classic Commodore 64 keycaps](https://github.com/szabadkai/c64-keyboard-font/)**
-  *<p>Article URL: <a href="https://github.com/szabadkai/c64-keyboard-font/">https://github.com/szabadkai/c64-keyboard-font/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=4999022...*
-  📅 Wed, 07 Oct 2026 09:17:55 +0000
+- **[ICANN Reveals 2026 Round Applications for New Generic Top-Level Domains](https://www.icann.org/en/announcements/details/icann-reveals-2026-round-applications-for-new-generic-top-level-domains-07-10-2026-en)**
+  *<p>Article URL: <a href="https://www.icann.org/en/announcements/details/icann-reveals-2026-round-applications-for-new-generic-top-level-domains-07-10-2026-en">https://www.icann.org/en/announcements/de...*
+  📅 Wed, 07 Oct 2026 19:01:45 +0000
 
-- **[Shaders, WebGPU Components for React, Vue, Svelte, Solid, JavaScript and Framer](https://github.com/shader-effects-inc/shaders)**
-  *<p>Article URL: <a href="https://github.com/shader-effects-inc/shaders">https://github.com/shader-effects-inc/shaders</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49988709">h...*
-  📅 Wed, 07 Oct 2026 05:38:35 +0000
+- **[Meta and Microsoft take steps to reduce employee usage of Claude AI](https://www.rswebsols.com/news/meta-and-microsoft-take-steps-to-reduce-employee-usage-of-claude-ai/)**
+  *<p>Article URL: <a href="https://www.rswebsols.com/news/meta-and-microsoft-take-steps-to-reduce-employee-usage-of-claude-ai/">https://www.rswebsols.com/news/meta-and-microsoft-take-steps-to-reduce-emp...*
+  📅 Wed, 07 Oct 2026 18:49:40 +0000
 
-- **[Hackers obtain counterfeit TLS certificates for Google and other large services](https://arstechnica.com/security/2026/10/hackers-obtain-counterfeit-tls-certificates-for-google-and-other-large-services/)**
-  *<p>Article URL: <a href="https://arstechnica.com/security/2026/10/hackers-obtain-counterfeit-tls-certificates-for-google-and-other-large-services/">https://arstechnica.com/security/2026/10/hackers-obt...*
-  📅 Wed, 07 Oct 2026 04:37:05 +0000
+- **[Push ifs up and fors down: The idiom, its algebra, and its limits](https://debasishg.github.io/blog/push-ifs-up-fors-down/)**
+  *<p>Article URL: <a href="https://debasishg.github.io/blog/push-ifs-up-fors-down/">https://debasishg.github.io/blog/push-ifs-up-fors-down/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com...*
+  📅 Wed, 07 Oct 2026 18:43:18 +0000
 
 ### 📑 TechCrunch
 
-- **[Spotify expands audiobooks to over 180 markets](https://techcrunch.com/2026/10/07/spotify-expands-audiobooks-to-over-180-markets/)**
-  *Spotify will make 350,000 titles available in over 120 languages for this expansion...*
-  📅 Wed, 07 Oct 2026 07:00:00 +0000
+- **[Nous Research confirms it hit $1.5B valuation, launches AI agents for business users](https://techcrunch.com/2026/10/07/nous-research-confirms-it-hit-1-5b-valuation-launches-ai-agents-for-business-users/)**
+  *The developer of Hermes Agent raised a $90 million Series B....*
+  📅 Wed, 07 Oct 2026 20:48:45 +0000
 
-- **[How to find out if Amazon thinks you have ‘flat buttocks’](https://techcrunch.com/2026/10/06/how-to-find-out-if-amazon-thinks-you-have-flat-buttocks/)**
-  *"I stumbled upon a page of assumptions that Amazon has made about me based on my purchases and I’m literally speechless," one shopper wrote on Threads....*
-  📅 Tue, 06 Oct 2026 22:55:39 +0000
+- **[Microsoft releases new Nvidia-chip AI PCs with revamped Windows 11](https://techcrunch.com/2026/10/07/microsoft-releases-new-nvidia-chip-ai-pcs-with-revamped-windows-11/)**
+  *Microsoft revealed the specs and price for its Surface Laptop Ultra, AI PCs that run on Nvidia chips that are designed to run AI models and agents....*
+  📅 Wed, 07 Oct 2026 20:22:37 +0000
 
-- **[Apple is reportedly partnering with LG to launch a smart lock, thermostat, and doorbell](https://techcrunch.com/2026/10/06/apple-is-reportedly-partnering-with-lg-to-launch-a-smart-lock-thermostat-and-doorbell/)**
-  *Apple appears poised to push into the smart home market with a slate of new devices and a key partner....*
-  📅 Tue, 06 Oct 2026 22:53:09 +0000
+- **[Meta’s Muse launches on iPad just a month after its mobile debut](https://techcrunch.com/2026/10/07/metas-muse-launches-on-ipad-just-a-month-after-its-mobile-debut/)**
+  *Meta’s AI agent Muse is now available on iPad, just a month after its mobile debut, as the company rapidly expands the assistant’s reach and integrations....*
+  📅 Wed, 07 Oct 2026 18:30:57 +0000
 
-- **[Ex-Ramp engineers raise $20M for platform Melius after scrapping their first product](https://techcrunch.com/2026/10/06/ex-ramp-engineers-raise-20m-for-platform-melius-after-scrapping-their-first-product/)**
-  *Instead of helping marketers manage and optimize ad spend, the company is focusing on building the tools that generate the creative assets and campaigns....*
-  📅 Tue, 06 Oct 2026 22:34:03 +0000
+- **[ChatGPT for Teens keeps teens talking, even during mental health crises](https://techcrunch.com/2026/10/07/chatgpt-for-teens-keeps-teens-talking-even-during-mental-health-crises/)**
+  *ChatGPT’s teen safeguards are meant to protect vulnerable users, but new testing found the chatbot continues encouraging engagement during crises and potentially encourages unhealthy relationships wit...*
+  📅 Wed, 07 Oct 2026 18:15:28 +0000
 
-- **[Silicon Valley’s AI wunderkind launches Underdog, the most private Instinct/Muse competitor yet](https://techcrunch.com/2026/10/06/silicon-valleys-ai-wunderkind-launches-underdog-the-most-private-instinct-muse-competitor-yet/)**
-  *Sigil Wen, backed by a Silicon Valley who's who, has built an on-device AI assistant that promises to be free, fully private, and capable for everyday tasks....*
-  📅 Tue, 06 Oct 2026 20:47:01 +0000
+- **[X expands its ‘Gametime’ sports hub beyond the NFL, starting with MLB](https://techcrunch.com/2026/10/07/x-expands-its-gametime-sports-hub-beyond-the-nfl-starting-with-mlb/)**
+  *X is turning its NFL-focused Gametime feature into a year-round sports destination, starting with MLB and with other professional leagues to follow....*
+  📅 Wed, 07 Oct 2026 18:10:00 +0000
 
-- **[How AI decision models could change content moderation](https://techcrunch.com/2026/10/06/how-ai-decision-models-could-change-content-moderation/)**
-  *On Tuesday, Musubi announced a lightweight decision model made for real-time moderation called PolicyLM-1.7B, released with open weights....*
-  📅 Tue, 06 Oct 2026 20:35:20 +0000
+- **[ChatGPT is getting a lot more visual, with the launch of a new interface](https://techcrunch.com/2026/10/07/chatgpt-is-getting-a-lot-more-visual-with-the-launch-of-a-new-interface/)**
+  *OpenAI is launching a new user interface that will bring interactive visuals to ChatGPT....*
+  📅 Wed, 07 Oct 2026 18:00:19 +0000
 
 ### 📑 Dev.to
 
-- **[Custom Metrics Dashboard Backend: How to Compare Cloud and Self-Hosted APIs](https://dev.to/ashtonblake6879/custom-metrics-dashboard-backend-how-to-compare-cloud-and-self-hosted-apis-4d6o)**
-  *<p>A cheap metrics backend can become an expensive rollback dependency if it loses the one distinction needed during a bad notification release. The useful answer is to design the failure signal first...*
-  📅 Wed, 07 Oct 2026 12:13:36 +0000
+- **[The Python Developer Workbench and Workflow Orchestrator That Looks Like Call of Duty](https://dev.to/donnnnn14/the-python-developer-workbench-and-workflow-orchestrator-that-looks-like-call-of-duty-3ldo)**
+  *<p><a href="https://github.com/Sh1tmunch3r/Pylerium" rel="noopener noreferrer">Pylerium</a>: The Python Developer Workbench and Workflow Orchestrator That Looks Like Call of Duty</p>
 
-- **[Displaying GVWRClass from vPIC Without Inventing Payload Claims](https://dev.to/vin_lookup_8dbd4710f77e9e/displaying-gvwrclass-from-vpic-without-inventing-payload-claims-34bk)**
-  *<p>NHTSA vPIC often returns a <code>GVWR</code> or <code>GVWRClass</code> field on DecodeVinValues-style payloads: catalog phrases such as "Class 1: 6,000 lb or less (2,722 kg or less)" or shorter cla...*
-  📅 Wed, 07 Oct 2026 12:13:36 +0000
+<p>Imagine launc...*
+  📅 Wed, 07 Oct 2026 22:21:38 +0000
+
+- **[How AI search picks fragments: query fan-out and RAG explained](https://dev.to/wallesamehere/how-ai-search-picks-fragments-query-fan-out-and-rag-explained-3ldl)**
+  *<p>Hi again 👋 In my last post, <em>How to become an SEO (AI) specialist in the coming 2027 #2</em>, I wrote that without understanding the mechanics of AI search there is no "AI SEO", only guessing. A...*
+  📅 Wed, 07 Oct 2026 22:21:01 +0000
 
 </details>
 
@@ -116,105 +118,105 @@
 
 ### 📈 Daily Trending
 
-- **[alejandrobujan/tendedero](https://github.com/alejandrobujan/tendedero)** ⭐ 203
+- **[alejandrobujan/tendedero](https://github.com/alejandrobujan/tendedero)** ⭐ 476
   ![Swift](https://img.shields.io/badge/-Swift-lightgrey)
   Screenshots, hung out to dry. A tiny native macOS app that hangs every screenshot on a line at the top of your screen.
 
-- **[pingdotgg/ts-rust](https://github.com/pingdotgg/ts-rust)** ⭐ 109
+- **[pingdotgg/ts-rust](https://github.com/pingdotgg/ts-rust)** ⭐ 406
   ![Rust](https://img.shields.io/badge/-Rust-brown)
   An experimental Rust port of the TypeScript 7 compiler (tsc)
 
-- **[nullmoth/nvidia-macos-driver](https://github.com/nullmoth/nvidia-macos-driver)** ⭐ 106
+- **[LoreanXavier/pt-pc](https://github.com/LoreanXavier/pt-pc)** ⭐ 404
+  ![C++](https://img.shields.io/badge/-C++-pink)
+  Native PC port of P.T. (runs from your own PS4 game files)
+
+- **[nullmoth/nvidia-macos-driver](https://github.com/nullmoth/nvidia-macos-driver)** ⭐ 325
   ![Rust](https://img.shields.io/badge/-Rust-brown)
   Metal driver for NVIDIA GeForce RTX cards on macOS 15 Sequoia (Intel / OpenCore). Free, source included.
 
-- **[accomplish999/position-sizer](https://github.com/accomplish999/position-sizer)** ⭐ 63
-  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
-  Position size calculators for Perps and DeFi.
-
-- **[storytold/wordcraft](https://github.com/storytold/wordcraft)** ⭐ 55
+- **[storytold/wordcraft](https://github.com/storytold/wordcraft)** ⭐ 228
   ![Rust](https://img.shields.io/badge/-Rust-brown)
   An open-source, clean-room reimplementation of Microsoft Word in pure Rust
 
-- **[sisyphuslabs/omo-dori-mode-experimental](https://github.com/sisyphuslabs/omo-dori-mode-experimental)** ⭐ 49
-  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
-  Dori mode: an always-on messenger agent that launches, tracks and closes coding-agent sessions in herdr (skill + bun CLI). Experimental.
-
-- **[storytold/cadcraft](https://github.com/storytold/cadcraft)** ⭐ 46
+- **[storytold/cadcraft](https://github.com/storytold/cadcraft)** ⭐ 183
   ![Rust](https://img.shields.io/badge/-Rust-brown)
   CADCraft: computer-aided design and drafting — an open-source, clean-room AutoCAD-style app in pure Rust
 
-- **[storytold/deckcraft](https://github.com/storytold/deckcraft)** ⭐ 43
+- **[storytold/gridcraft](https://github.com/storytold/gridcraft)** ⭐ 148
   ![Rust](https://img.shields.io/badge/-Rust-brown)
-  Presentations and slide shows: an open-source, clean-room reimplementation of Microsoft PowerPoint in pure Rust. Part of the ArtCraft Crafting Apps.
+  GridCraft: an open-source, clean-room spreadsheet (Microsoft Excel-style) in pure Rust. By ArtCraft.
+
+- **[gr8rstudio/gr8r-studio](https://github.com/gr8rstudio/gr8r-studio)** ⭐ 141
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
+  Gr8r Studio: a calm, structured project management workspace. Vite + plain ES modules.
 
 ### 📈 Weekly Trending
 
-- **[openai/math](https://github.com/openai/math)** ⭐ 7,009
+- **[openai/math](https://github.com/openai/math)** ⭐ 9,249
   ![Lean](https://img.shields.io/badge/-Lean-lightgrey)
   None
 
-- **[QingYunA/answer-me-with-html](https://github.com/QingYunA/answer-me-with-html)** ⭐ 1,923
+- **[QingYunA/answer-me-with-html](https://github.com/QingYunA/answer-me-with-html)** ⭐ 2,029
   ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
   Answer me with HTML — an agent skill that answers hard questions with a one-page HTML you can actually read. 让 AI Agent 用一页 HTML 回答复杂问题。
 
-- **[kargulstudio/sales-crm](https://github.com/kargulstudio/sales-crm)** ⭐ 1,614
-  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
-  None
-
-- **[facebookincubator/muse-gadget-sdk](https://github.com/facebookincubator/muse-gadget-sdk)** ⭐ 1,608
+- **[facebookincubator/muse-gadget-sdk](https://github.com/facebookincubator/muse-gadget-sdk)** ⭐ 1,647
   ![C](https://img.shields.io/badge/-C-lightgrey)
   Open source SDK to build Muse gadgets
 
-- **[deadinside28/bloodborne_pc](https://github.com/deadinside28/bloodborne_pc)** ⭐ 1,436
+- **[kargulstudio/sales-crm](https://github.com/kargulstudio/sales-crm)** ⭐ 1,634
+  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
+  None
+
+- **[deadinside28/bloodborne_pc](https://github.com/deadinside28/bloodborne_pc)** ⭐ 1,611
   ![C++](https://img.shields.io/badge/-C++-pink)
   None
 
-- **[storytold/effectcraft](https://github.com/storytold/effectcraft)** ⭐ 1,216
+- **[storytold/effectcraft](https://github.com/storytold/effectcraft)** ⭐ 1,600
   ![Rust](https://img.shields.io/badge/-Rust-brown)
   None
 
-- **[alchaincyf/huashu-art-motion](https://github.com/alchaincyf/huashu-art-motion)** ⭐ 1,203
+- **[alchaincyf/huashu-art-motion](https://github.com/alchaincyf/huashu-art-motion)** ⭐ 1,564
   ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
   艺术动画skill：35种艺术风格、9种解说语法，用代码让画动起来。
 
-- **[lucasmarkes/hairline](https://github.com/lucasmarkes/hairline)** ⭐ 949
+- **[lucasmarkes/hairline](https://github.com/lucasmarkes/hairline)** ⭐ 1,065
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   Six isometric line figures that answer the pointer. For React and for anything with a DOM.
 
 ### 📈 Monthly Trending
 
-- **[NandhaKishorM/laya](https://github.com/NandhaKishorM/laya)** ⭐ 31,313
+- **[NandhaKishorM/laya](https://github.com/NandhaKishorM/laya)** ⭐ 31,421
   ![Python](https://img.shields.io/badge/-Python-blue)
   Non-autoregressive System 1 decision engine. Typed choice, score and yes/no decisions over any text in a single forward pass, in 100+ languages, with a router that picks the right checkpoint per request.
 
-- **[browser-use/jev-ultrafast](https://github.com/browser-use/jev-ultrafast)** ⭐ 22,239
+- **[browser-use/jev-ultrafast](https://github.com/browser-use/jev-ultrafast)** ⭐ 22,272
   ![Python](https://img.shields.io/badge/-Python-blue)
   Fastest and cheapest web agent
 
-- **[Niko1221/Strata](https://github.com/Niko1221/Strata)** ⭐ 16,452
+- **[Niko1221/Strata](https://github.com/Niko1221/Strata)** ⭐ 16,970
   ![C++](https://img.shields.io/badge/-C++-pink)
   Qwen3.8-Flash-Next on any consumer hardware: one-click install for Windows / Linux. Strata inference engine, OpenAI/Anthropic API on localhost, optional image input.
 
-- **[storytold/photocraft](https://github.com/storytold/photocraft)** ⭐ 12,419
+- **[storytold/photocraft](https://github.com/storytold/photocraft)** ⭐ 16,419
   ![Rust](https://img.shields.io/badge/-Rust-brown)
   An open-source, clean-room reimplementation of Adobe Photoshop in pure Rust
 
-- **[robbietilton/Compositor](https://github.com/robbietilton/Compositor)** ⭐ 10,462
+- **[robbietilton/Compositor](https://github.com/robbietilton/Compositor)** ⭐ 11,128
   ![Swift](https://img.shields.io/badge/-Swift-lightgrey)
   The Photoshop alternative for Mac
 
-- **[cdyforever/how-to-live-better](https://github.com/cdyforever/how-to-live-better)** ⭐ 9,041
+- **[cdyforever/how-to-live-better](https://github.com/cdyforever/how-to-live-better)** ⭐ 9,301
   ![HTML](https://img.shields.io/badge/-HTML-lightgrey)
   《高性价比人生指南》全书 528 条的在线单页阅读版：手机可读、可搜索、零依赖、支持离线
 
-- **[jaredpalmer/kev](https://github.com/jaredpalmer/kev)** ⭐ 8,630
+- **[openai/math](https://github.com/openai/math)** ⭐ 9,249
+  ![Lean](https://img.shields.io/badge/-Lean-lightgrey)
+  None
+
+- **[jaredpalmer/kev](https://github.com/jaredpalmer/kev)** ⭐ 8,649
   ![Python](https://img.shields.io/badge/-Python-blue)
   Jev-like family of decision models built on top of Qwen3.5/3.8 you can train and run on your own
-
-- **[zai-org/ZCode](https://github.com/zai-org/ZCode)** ⭐ 7,489
-  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
-  Z.ai's coding agent harness. Powerful, intelligent, extensible.
 
 ## 🚀 Latest Releases
 
@@ -329,16 +331,16 @@ See [kubernetes-announce@](https://groups.google.com/forum/#!forum/kubernetes-an
 
 ### 📦 nodejs/node
 
-**[2026-09-22, Version 26.10.0 (Current), @aduh95](https://github.com/nodejs/node/releases/tag/v26.10.0)** `v26.10.0`
+**[2026-10-07, Version 26.11.0 (Current), @aduh95](https://github.com/nodejs/node/releases/tag/v26.11.0)** `v26.11.0`
 
-📅 Released: September 22, 2026
+📅 Released: October 07, 2026
 
 
 
 
 ### Notable Changes
 
-* \[[`c0a42d23e5`](https://github.com/nodejs/node/commit/c0a42d23e5)] - **(SEMVER-MINOR)** **crypto**: add crypto.parsePKCS12() (Brian Muenzenmeyer) [#65627](https://github.com...
+* \[[`232f178825`](https://github.com/nodejs/node/commit/232f178825)] - **(SEMVER-MINOR)** **buffer**: add `isLatin1` (James M Snell) [#66298](https://github.com/nodejs/node/pu...
 
 ---
 
@@ -481,9 +483,9 @@ See [kubernetes-announce@](https://groups.google.com/forum/#!forum/kubernetes-an
 
 | Skill | Status |
 |-------|--------|
-| Java | ⚪ Planned |
+| Java | 🟡 Learning |
 | Python | ⚪ Planned |
-| JavaScript | 🔴 Beginner |
+| JavaScript | ⚪ Planned |
 | TypeScript | ⚪ Planned |
 | Go | 🔴 Beginner |
 
@@ -491,31 +493,31 @@ See [kubernetes-announce@](https://groups.google.com/forum/#!forum/kubernetes-an
 
 | Skill | Status |
 |-------|--------|
-| React | ⚪ Planned |
-| Spring Boot | 🔴 Beginner |
+| React | 🟢 Proficient |
+| Spring Boot | 🟡 Learning |
 | Django | 🟡 Learning |
-| Node.js | 🔴 Beginner |
-| Next.js | 🟢 Proficient |
+| Node.js | 🟡 Learning |
+| Next.js | ⚪ Planned |
 
 ### Cybersecurity
 
 | Skill | Status |
 |-------|--------|
-| Penetration Testing | 🔴 Beginner |
+| Penetration Testing | 🟡 Learning |
 | Web Security | 🟢 Proficient |
-| Network Security | ⚪ Planned |
+| Network Security | 🟢 Proficient |
 | OWASP | 🟡 Learning |
 
 ### Ai Ml
 
 | Skill | Status |
 |-------|--------|
-| Machine Learning | 🟢 Proficient |
-| Deep Learning | 🔴 Beginner |
-| NLP | 🔴 Beginner |
-| Computer Vision | ⚪ Planned |
-| TensorFlow | ⚪ Planned |
-| PyTorch | 🔴 Beginner |
+| Machine Learning | ⚪ Planned |
+| Deep Learning | 🟢 Proficient |
+| NLP | ⚪ Planned |
+| Computer Vision | 🟡 Learning |
+| TensorFlow | 🟢 Proficient |
+| PyTorch | ⚪ Planned |
 
 ### Devops
 
@@ -523,16 +525,16 @@ See [kubernetes-announce@](https://groups.google.com/forum/#!forum/kubernetes-an
 |-------|--------|
 | Docker | ⚪ Planned |
 | Kubernetes | ⚪ Planned |
-| CI/CD | 🔴 Beginner |
-| AWS | 🟡 Learning |
+| CI/CD | ⚪ Planned |
+| AWS | 🔴 Beginner |
 | Azure | 🟢 Proficient |
 
 ### Other
 
 | Skill | Status |
 |-------|--------|
-| Blockchain | 🟢 Proficient |
-| Web3 | 🔴 Beginner |
+| Blockchain | ⚪ Planned |
+| Web3 | 🟡 Learning |
 | Cloud Computing | 🟡 Learning |
 
 </details>
