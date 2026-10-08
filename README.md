@@ -20,7 +20,7 @@
 | Metric | Count |
 |--------|-------|
 | 📰 Latest News Articles | 26 |
-| 🔥 Trending Repositories | 0 |
+| 🔥 Trending Repositories | 45 |
 | 🎯 Latest Releases | 10 |
 | 🎯 Learning Goals | 4 |
 
@@ -46,36 +46,44 @@
 
 ### 📑 Hacker News
 
-- **[Margaret Hamilton has died](https://news.mit.edu/2026/margaret-hamilton-computing-pioneer-dies-1007)**
-  *<p>Article URL: <a href="https://news.mit.edu/2026/margaret-hamilton-computing-pioneer-dies-1007">https://news.mit.edu/2026/margaret-hamilton-computing-pioneer-dies-1007</a></p>
-<p>Comments URL: <a hr...*
-  📅 Wed, 07 Oct 2026 21:16:18 +0000
+- **[Anne Carson wins Nobel Prize in literature 2026](https://www.theguardian.com/books/2026/oct/08/wins-the-nobel-prize-in-literature-2026)**
+  *<p>Article URL: <a href="https://www.theguardian.com/books/2026/oct/08/wins-the-nobel-prize-in-literature-2026">https://www.theguardian.com/books/2026/oct/08/wins-the-nobel-prize-in-literature-2026</a...*
+  📅 Thu, 08 Oct 2026 11:58:50 +0000
 
-- **['Jonathan' is the oldest land animal on Earth](https://www.404media.co/oldest-living-land-animal-jonathan-the-tortoise/)**
-  *<p>Article URL: <a href="https://www.404media.co/oldest-living-land-animal-jonathan-the-tortoise/">https://www.404media.co/oldest-living-land-animal-jonathan-the-tortoise/</a></p>
-<p>Comments URL: <a ...*
-  📅 Wed, 07 Oct 2026 20:01:37 +0000
+- **[OpenAI Withdraws 3 Math Papers](https://github.com/openai/math/blob/main/history.md)**
+  *<p>Article URL: <a href="https://github.com/openai/math/blob/main/history.md">https://github.com/openai/math/blob/main/history.md</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id...*
+  📅 Thu, 08 Oct 2026 08:08:37 +0000
 
-- **[Meta and Microsoft take steps to reduce employee usage of Claude AI](https://www.rswebsols.com/news/meta-and-microsoft-take-steps-to-reduce-employee-usage-of-claude-ai/)**
-  *<p>Article URL: <a href="https://www.rswebsols.com/news/meta-and-microsoft-take-steps-to-reduce-employee-usage-of-claude-ai/">https://www.rswebsols.com/news/meta-and-microsoft-take-steps-to-reduce-emp...*
-  📅 Wed, 07 Oct 2026 18:49:40 +0000
+- **[Dat-ecosystem: high level applications built on top of P2P protocols](https://dat-ecosystem.org/)**
+  *<p>Article URL: <a href="https://dat-ecosystem.org/">https://dat-ecosystem.org/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50002505">https://news.ycombinator.com/item?id=50...*
+  📅 Thu, 08 Oct 2026 06:43:13 +0000
 
-- **[Push ifs up and fors down: The idiom, its algebra, and its limits](https://debasishg.github.io/blog/push-ifs-up-fors-down/)**
-  *<p>Article URL: <a href="https://debasishg.github.io/blog/push-ifs-up-fors-down/">https://debasishg.github.io/blog/push-ifs-up-fors-down/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com...*
-  📅 Wed, 07 Oct 2026 18:43:18 +0000
+- **[Classic PC demoscene productions running natively in the browser](https://treylorswift.github.io/demoscene-recomp/web/)**
+  *<p>Article URL: <a href="https://treylorswift.github.io/demoscene-recomp/web/">https://treylorswift.github.io/demoscene-recomp/web/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?...*
+  📅 Thu, 08 Oct 2026 06:29:25 +0000
 
-- **[Claude Haiku 5.5](https://www.anthropic.com/claude-haiku-5-5)**
-  *<p>Article URL: <a href="https://www.anthropic.com/claude-haiku-5-5">https://www.anthropic.com/claude-haiku-5-5</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49996437">https:/...*
-  📅 Wed, 07 Oct 2026 18:01:32 +0000
+- **[Will AI kill us all](https://virev.ai/blog/will-ai-kill-us-all)**
+  *<p>Article URL: <a href="https://virev.ai/blog/will-ai-kill-us-all">https://virev.ai/blog/will-ai-kill-us-all</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50002301">https://n...*
+  📅 Thu, 08 Oct 2026 06:09:00 +0000
 
-- **[GPT‑6 and Intelligent UI for everyone](https://openai.com/index/gpt-6-for-everyone/)**
-  *<p>Article URL: <a href="https://openai.com/index/gpt-6-for-everyone/">https://openai.com/index/gpt-6-for-everyone/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49996425">htt...*
-  📅 Wed, 07 Oct 2026 18:00:58 +0000
+- **[“Math 2.0” will need to value mathematical progress more holistically](https://mathstodon.xyz/@tao/117395269325940185)**
+  *<p>Article URL: <a href="https://mathstodon.xyz/@tao/117395269325940185">https://mathstodon.xyz/@tao/117395269325940185</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50002008"...*
+  📅 Thu, 08 Oct 2026 05:14:14 +0000
 
 ### 📑 TechCrunch
+
+- **[Vesta raises $30M to bring swarms of agents to mortgage lenders](https://techcrunch.com/2026/10/08/vesta-raises-30m-as-lenders-adopt-ai-agents/)**
+  *Vesta, an AI-native software startup that helps lenders originate mortgages, announced a $30 million round led by Conversion Capital....*
+  📅 Thu, 08 Oct 2026 12:00:00 +0000
+
+- **[India rejects Elon Musk’s claim of discrimination over Starlink launch](https://techcrunch.com/2026/10/07/india-rejects-elon-musks-claim-of-discrimination-over-starlink-launch/)**
+  *Starlink is still awaiting security clearance before it can seek spectrum and begin commercial services in India....*
+  📅 Thu, 08 Oct 2026 06:14:11 +0000
 
 - **[Robot data startup Mecka AI nabs $60M from Sequoia](https://techcrunch.com/2026/10/07/robot-data-startup-mecka-ai-nabs-60m-from-sequoia/)**
   *Mecka AI collects and analyzes human motion data to train humanoid robots and other kinds of robots. The startup pays people to record everyday tasks....*
@@ -93,35 +101,127 @@
   *Microsoft revealed the specs and price for its Surface Laptop Ultra, AI PCs that run on Nvidia chips that are designed to run AI models and agents....*
   📅 Wed, 07 Oct 2026 20:22:37 +0000
 
-- **[Meta’s Muse launches on iPad just a month after its mobile debut](https://techcrunch.com/2026/10/07/metas-muse-launches-on-ipad-just-a-month-after-its-mobile-debut/)**
-  *Meta’s AI agent Muse is now available on iPad, just a month after its mobile debut, as the company rapidly expands the assistant’s reach and integrations....*
-  📅 Wed, 07 Oct 2026 18:30:57 +0000
-
-- **[ChatGPT for Teens keeps teens talking, even during mental health crises](https://techcrunch.com/2026/10/07/chatgpt-for-teens-keeps-teens-talking-even-during-mental-health-crises/)**
-  *ChatGPT’s teen safeguards are meant to protect vulnerable users, but new testing found the chatbot continues encouraging engagement during crises and potentially encourages unhealthy relationships wit...*
-  📅 Wed, 07 Oct 2026 18:15:28 +0000
-
 ### 📑 Dev.to
 
-- **[I Sampled TikTok's 10 Most-Liked Videos. They Come in Exactly Two Lengths.](https://dev.to/mediadownloaderguides/i-sampled-tiktoks-10-most-liked-videos-they-come-in-exactly-two-lengths-50l2)**
-  *<h1>
+- **[Codex Cloud Pricing 2026: 5-Hour Window Math, Plus to Pro 500](https://dev.to/akaranjkar08/codex-cloud-pricing-2026-5-hour-window-math-plus-to-pro-500-45fc)**
+  *<p><strong>Codex has no price per task, only a rolling 5-hour window and a weekly cap, and the same Plus plan gives you anywhere from 15 to 160 GPT-6.1 Sol messages per window.</strong> OpenAI sells n...*
+  📅 Thu, 08 Oct 2026 12:19:04 +0000
+
+- **[Warum § 623 BGB mein KI-Kündigungsgenerator wichtiger war als die KI selbst](https://dev.to/julien786534/warum-ss-623-bgb-mein-ki-kundigungsgenerator-wichtiger-war-als-die-ki-selbst-2lbn)**
+  *<h2>
   
   
-  I Sampled TikTok's 10 Most-Liked Videos. They Come in Exactly Two Lengths.
-</h1>
+  Der Ausgangspunkt
+</h2>
 
-<p>TikTok doesn't hand you a clean "trending" endpoint the way some platforms do, so I sampled the recomm...*
-  📅 Thu, 08 Oct 2026 03:33:35 +0000
-
-- **[Your CEO Sees 5x. Your Engineers See a Longer Review Queue.](https://dev.to/debashish_ghosal/your-ceo-sees-5x-your-engineers-see-a-longer-review-queue-2o14)**
-  *<p>Two surveys, one season, and two very different companies.</p>
-
-<p>Between December 2025 and January 2026, WRITER and Workplace Intelligence surveyed 1,200 C-suite executives. <strong>87% said thei...*
-  📅 Thu, 08 Oct 2026 03:32:00 +0000
+<p>Beim Bau eines KI-gestützten Generators für Kündigungsschreiben nach deutschem Recht war meine erste Annahme falsch: Ich dachte, die eigentliche Schwierigkeit ...*
+  📅 Thu, 08 Oct 2026 12:18:28 +0000
 
 </details>
 
 ## 🔥 Trending Repositories
+
+### 📈 Daily Trending
+
+- **[mhtsec/ARTEX](https://github.com/mhtsec/ARTEX)** ⭐ 262
+  ![Go](https://img.shields.io/badge/-Go-cyan)
+  AI 自主渗透测试系统 | 百度“agent+”攻防挑战赛冠军项目
+
+- **[Itz-Anya/Haimiya-Mio](https://github.com/Itz-Anya/Haimiya-Mio)** ⭐ 77
+  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
+  My Portfolio v2 version 
+
+- **[Matterofpergola/Valorant-External-Undetected-2026](https://github.com/Matterofpergola/Valorant-External-Undetected-2026)** ⭐ 66
+  ![C++](https://img.shields.io/badge/-C++-pink)
+  This Valorant cheat enhances gameplay with smooth aim, enemy visibility, instant shooting, and guaranteed hits, providing players with a tactical edge without detection for an improved experience
+
+- **[WeightCreatorApplaud/Xeno-Executor](https://github.com/WeightCreatorApplaud/Xeno-Executor)** ⭐ 46
+  ![HTML](https://img.shields.io/badge/-HTML-lightgrey)
+  Xeno Executor - best Free Roblox script executor in 2026. Lightning-fast execution, external script support, and a simple GUI - all completely keyless.
+
+- **[MirroS-Lab/AgentGarten](https://github.com/MirroS-Lab/AgentGarten)** ⭐ 41
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  AgentGarten: Code Worlds for Evolving Agents
+
+- **[maow318/simhubforum](https://github.com/maow318/simhubforum)** ⭐ 30
+  ![None](https://img.shields.io/badge/-None-lightgrey)
+  simhub全家桶下载
+
+- **[moonsklk/whatever](https://github.com/moonsklk/whatever)** ⭐ 28
+  ![None](https://img.shields.io/badge/-None-lightgrey)
+  zahra, 19, hkbk, cse, 1st yr, strawberry cheesecake
+
+- **[STD-DEEPANSHU/StdXRobot](https://github.com/STD-DEEPANSHU/StdXRobot)** ⭐ 28
+  ![None](https://img.shields.io/badge/-None-lightgrey)
+  ᴛʜᴇ ᴍᴏsᴛ ᴩᴏᴡᴇʀғᴜʟ ᴛᴇʟᴇɢʀᴀᴍ ɢʀᴏᴜᴩ ᴍᴀɴᴀɢᴇᴍᴇɴᴛ ➕ ᴍᴜsɪᴄ ᴍᴀɴᴀɢᴇᴍᴇɴᴛ ʙᴏᴛ ᴀɴᴅ ɪ ʜᴀᴠᴇ sᴏᴍᴇ ᴀᴡᴇsᴏᴍᴇ ᴀɴᴅ ᴜsᴇғᴜʟ ғᴇᴀᴛᴜʀᴇs.
+
+### 📈 Weekly Trending
+
+- **[openai/math](https://github.com/openai/math)** ⭐ 11,305
+  ![Lean](https://img.shields.io/badge/-Lean-lightgrey)
+  None
+
+- **[QingYunA/answer-me-with-html](https://github.com/QingYunA/answer-me-with-html)** ⭐ 2,289
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
+  Answer me with HTML — an agent skill that answers hard questions with a one-page HTML you can actually read. 让 AI Agent 用一页 HTML 回答复杂问题。
+
+- **[alchaincyf/huashu-art-motion](https://github.com/alchaincyf/huashu-art-motion)** ⭐ 2,244
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
+  艺术动画skill：35种艺术风格、9种解说语法，用代码让画动起来。
+
+- **[facebookincubator/muse-gadget-sdk](https://github.com/facebookincubator/muse-gadget-sdk)** ⭐ 1,758
+  ![C](https://img.shields.io/badge/-C-lightgrey)
+  Open source SDK to build Muse gadgets
+
+- **[kargulstudio/sales-crm](https://github.com/kargulstudio/sales-crm)** ⭐ 1,648
+  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
+  None
+
+- **[mizorewww/x_gift_bot](https://github.com/mizorewww/x_gift_bot)** ⭐ 1,040
+  ![Go](https://img.shields.io/badge/-Go-cyan)
+  X Premium gift CLI and redemption site
+
+- **[sganggs/Stronghold-Protocol](https://github.com/sganggs/Stronghold-Protocol)** ⭐ 972
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
+  明日方舟「卫戍协议：盟约」非官方同人复刻：浏览器自走棋塔防，单人或 1–4 人联机合作（非商业）
+
+- **[Jakeschincariol/replica-skill](https://github.com/Jakeschincariol/replica-skill)** ⭐ 970
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  Eleven free Claude skills that clone any app: reverse-engineer it, rebuild it, test it for bugs, then fix what its users hate. Free, MIT.
+
+### 📈 Monthly Trending
+
+- **[NandhaKishorM/laya](https://github.com/NandhaKishorM/laya)** ⭐ 31,627
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  Non-autoregressive System 1 decision engine. Typed choice, score and yes/no decisions over any text in a single forward pass, in 100+ languages, with a router that picks the right checkpoint per request.
+
+- **[browser-use/jev-ultrafast](https://github.com/browser-use/jev-ultrafast)** ⭐ 22,342
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  Fastest and cheapest web agent
+
+- **[storytold/photocraft](https://github.com/storytold/photocraft)** ⭐ 22,085
+  ![Rust](https://img.shields.io/badge/-Rust-brown)
+  An open-source, clean-room reimplementation of Adobe Photoshop in pure Rust
+
+- **[Niko1221/Strata](https://github.com/Niko1221/Strata)** ⭐ 17,926
+  ![C++](https://img.shields.io/badge/-C++-pink)
+  Qwen3.8-Flash-Next on any consumer hardware: one-click install for Windows / Linux. Strata inference engine, OpenAI/Anthropic API on localhost, optional image input.
+
+- **[robbietilton/Compositor](https://github.com/robbietilton/Compositor)** ⭐ 12,628
+  ![Swift](https://img.shields.io/badge/-Swift-lightgrey)
+  The Photoshop alternative for Mac
+
+- **[openai/math](https://github.com/openai/math)** ⭐ 11,305
+  ![Lean](https://img.shields.io/badge/-Lean-lightgrey)
+  None
+
+- **[cdyforever/how-to-live-better](https://github.com/cdyforever/how-to-live-better)** ⭐ 9,966
+  ![HTML](https://img.shields.io/badge/-HTML-lightgrey)
+  《高性价比人生指南》全书 528 条的在线单页阅读版：手机可读、可搜索、零依赖、支持离线
+
+- **[jaredpalmer/kev](https://github.com/jaredpalmer/kev)** ⭐ 8,711
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  Jev-like family of decision models built on top of Qwen3.5/3.8 you can train and run on your own
 
 ## 🚀 Latest Releases
 
@@ -389,59 +489,59 @@ See [kubernetes-announce@](https://groups.google.com/forum/#!forum/kubernetes-an
 
 | Skill | Status |
 |-------|--------|
-| Java | ⚪ Planned |
-| Python | 🟡 Learning |
-| JavaScript | ⚪ Planned |
-| TypeScript | 🟡 Learning |
-| Go | 🔴 Beginner |
+| Java | 🔴 Beginner |
+| Python | ⚪ Planned |
+| JavaScript | 🔴 Beginner |
+| TypeScript | 🔴 Beginner |
+| Go | ⚪ Planned |
 
 ### Frameworks
 
 | Skill | Status |
 |-------|--------|
-| React | 🔴 Beginner |
-| Spring Boot | ⚪ Planned |
-| Django | 🟡 Learning |
-| Node.js | 🔴 Beginner |
-| Next.js | 🟢 Proficient |
+| React | 🟢 Proficient |
+| Spring Boot | 🔴 Beginner |
+| Django | 🟢 Proficient |
+| Node.js | 🟡 Learning |
+| Next.js | ⚪ Planned |
 
 ### Cybersecurity
 
 | Skill | Status |
 |-------|--------|
 | Penetration Testing | 🟢 Proficient |
-| Web Security | 🔴 Beginner |
+| Web Security | 🟢 Proficient |
 | Network Security | 🟢 Proficient |
-| OWASP | 🟢 Proficient |
+| OWASP | ⚪ Planned |
 
 ### Ai Ml
 
 | Skill | Status |
 |-------|--------|
-| Machine Learning | 🟡 Learning |
-| Deep Learning | 🟡 Learning |
-| NLP | 🔴 Beginner |
+| Machine Learning | ⚪ Planned |
+| Deep Learning | 🔴 Beginner |
+| NLP | 🟢 Proficient |
 | Computer Vision | 🟢 Proficient |
-| TensorFlow | 🟢 Proficient |
-| PyTorch | 🟡 Learning |
+| TensorFlow | 🟡 Learning |
+| PyTorch | 🔴 Beginner |
 
 ### Devops
 
 | Skill | Status |
 |-------|--------|
 | Docker | 🟡 Learning |
-| Kubernetes | ⚪ Planned |
-| CI/CD | ⚪ Planned |
-| AWS | ⚪ Planned |
-| Azure | 🔴 Beginner |
+| Kubernetes | 🟡 Learning |
+| CI/CD | 🟡 Learning |
+| AWS | 🟢 Proficient |
+| Azure | 🟡 Learning |
 
 ### Other
 
 | Skill | Status |
 |-------|--------|
-| Blockchain | 🔴 Beginner |
-| Web3 | 🟢 Proficient |
-| Cloud Computing | 🔴 Beginner |
+| Blockchain | ⚪ Planned |
+| Web3 | ⚪ Planned |
+| Cloud Computing | 🟡 Learning |
 
 </details>
 
