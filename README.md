@@ -7,7 +7,7 @@
 ![AI & ML](https://img.shields.io/badge/-AI%20&%20ML-blue) ![CyberSecurity](https://img.shields.io/badge/-CyberSecurity-red) ![Full Stack Development](https://img.shields.io/badge/-Full%20Stack%20Development-green)
 
 [![Auto Update](https://img.shields.io/badge/Auto%20Update-Enabled-success)](https://github.com/yourusername/tech-dashboard/actions)
-[![Last Updated](https://img.shields.io/badge/Last%20Updated-October 07, 2026-blue)](https://github.com/yourusername/tech-dashboard)
+[![Last Updated](https://img.shields.io/badge/Last%20Updated-October 08, 2026-blue)](https://github.com/yourusername/tech-dashboard)
 
 *Automatically updated every 6 hours with the latest tech news, trending repositories, and learning resources.*
 
@@ -20,7 +20,7 @@
 | Metric | Count |
 |--------|-------|
 | 📰 Latest News Articles | 26 |
-| 🔥 Trending Repositories | 45 |
+| 🔥 Trending Repositories | 0 |
 | 🎯 Latest Releases | 10 |
 | 🎯 Learning Goals | 4 |
 
@@ -46,24 +46,15 @@
 
 ### 📑 Hacker News
 
-- **[Margaret Hamilton, who led software development for Apollo program, dies at 90](https://news.mit.edu/2026/margaret-hamilton-computing-pioneer-dies-1007)**
+- **[Margaret Hamilton has died](https://news.mit.edu/2026/margaret-hamilton-computing-pioneer-dies-1007)**
   *<p>Article URL: <a href="https://news.mit.edu/2026/margaret-hamilton-computing-pioneer-dies-1007">https://news.mit.edu/2026/margaret-hamilton-computing-pioneer-dies-1007</a></p>
 <p>Comments URL: <a hr...*
   📅 Wed, 07 Oct 2026 21:16:18 +0000
 
-- **[Despite what Watson said, Rosalind Franklin understood structure of DNA first](https://link.springer.com/article/10.1007/s10739-026-09866-7)**
-  *<p>Article URL: <a href="https://link.springer.com/article/10.1007/s10739-026-09866-7">https://link.springer.com/article/10.1007/s10739-026-09866-7</a></p>
-<p>Comments URL: <a href="https://news.ycomb...*
-  📅 Wed, 07 Oct 2026 19:56:16 +0000
-
-- **[The Mathocalypse](https://scottaaronson.blog/?p=10169)**
-  *<p>Article URL: <a href="https://scottaaronson.blog/?p=10169">https://scottaaronson.blog/?p=10169</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49997718">https://news.ycombina...*
-  📅 Wed, 07 Oct 2026 19:33:40 +0000
-
-- **[ICANN Reveals 2026 Round Applications for New Generic Top-Level Domains](https://www.icann.org/en/announcements/details/icann-reveals-2026-round-applications-for-new-generic-top-level-domains-07-10-2026-en)**
-  *<p>Article URL: <a href="https://www.icann.org/en/announcements/details/icann-reveals-2026-round-applications-for-new-generic-top-level-domains-07-10-2026-en">https://www.icann.org/en/announcements/de...*
-  📅 Wed, 07 Oct 2026 19:01:45 +0000
+- **['Jonathan' is the oldest land animal on Earth](https://www.404media.co/oldest-living-land-animal-jonathan-the-tortoise/)**
+  *<p>Article URL: <a href="https://www.404media.co/oldest-living-land-animal-jonathan-the-tortoise/">https://www.404media.co/oldest-living-land-animal-jonathan-the-tortoise/</a></p>
+<p>Comments URL: <a ...*
+  📅 Wed, 07 Oct 2026 20:01:37 +0000
 
 - **[Meta and Microsoft take steps to reduce employee usage of Claude AI](https://www.rswebsols.com/news/meta-and-microsoft-take-steps-to-reduce-employee-usage-of-claude-ai/)**
   *<p>Article URL: <a href="https://www.rswebsols.com/news/meta-and-microsoft-take-steps-to-reduce-employee-usage-of-claude-ai/">https://www.rswebsols.com/news/meta-and-microsoft-take-steps-to-reduce-emp...*
@@ -74,7 +65,25 @@
 <p>Comments URL: <a href="https://news.ycombinator.com...*
   📅 Wed, 07 Oct 2026 18:43:18 +0000
 
+- **[Claude Haiku 5.5](https://www.anthropic.com/claude-haiku-5-5)**
+  *<p>Article URL: <a href="https://www.anthropic.com/claude-haiku-5-5">https://www.anthropic.com/claude-haiku-5-5</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49996437">https:/...*
+  📅 Wed, 07 Oct 2026 18:01:32 +0000
+
+- **[GPT‑6 and Intelligent UI for everyone](https://openai.com/index/gpt-6-for-everyone/)**
+  *<p>Article URL: <a href="https://openai.com/index/gpt-6-for-everyone/">https://openai.com/index/gpt-6-for-everyone/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49996425">htt...*
+  📅 Wed, 07 Oct 2026 18:00:58 +0000
+
 ### 📑 TechCrunch
+
+- **[Robot data startup Mecka AI nabs $60M from Sequoia](https://techcrunch.com/2026/10/07/robot-data-startup-mecka-ai-nabs-60m-from-sequoia/)**
+  *Mecka AI collects and analyzes human motion data to train humanoid robots and other kinds of robots. The startup pays people to record everyday tasks....*
+  📅 Wed, 07 Oct 2026 23:36:57 +0000
+
+- **[While VCs crowd into San Francisco, Endeavor Catalyst raises $320M for founders ‘elsewhere’](https://techcrunch.com/2026/10/07/while-vcs-crowd-into-san-francisco-endeavor-catalyst-raises-320m-for-founders-elsewhere/)**
+  *Endeavor Catalyst just raised $320 million to keep backing founders outside Silicon Valley. Half the profits go back to the nonprofit that finds them....*
+  📅 Wed, 07 Oct 2026 22:59:16 +0000
 
 - **[Nous Research confirms it hit $1.5B valuation, launches AI agents for business users](https://techcrunch.com/2026/10/07/nous-research-confirms-it-hit-1-5b-valuation-launches-ai-agents-for-business-users/)**
   *The developer of Hermes Agent raised a $90 million Series B....*
@@ -92,131 +101,27 @@
   *ChatGPT’s teen safeguards are meant to protect vulnerable users, but new testing found the chatbot continues encouraging engagement during crises and potentially encourages unhealthy relationships wit...*
   📅 Wed, 07 Oct 2026 18:15:28 +0000
 
-- **[X expands its ‘Gametime’ sports hub beyond the NFL, starting with MLB](https://techcrunch.com/2026/10/07/x-expands-its-gametime-sports-hub-beyond-the-nfl-starting-with-mlb/)**
-  *X is turning its NFL-focused Gametime feature into a year-round sports destination, starting with MLB and with other professional leagues to follow....*
-  📅 Wed, 07 Oct 2026 18:10:00 +0000
-
-- **[ChatGPT is getting a lot more visual, with the launch of a new interface](https://techcrunch.com/2026/10/07/chatgpt-is-getting-a-lot-more-visual-with-the-launch-of-a-new-interface/)**
-  *OpenAI is launching a new user interface that will bring interactive visuals to ChatGPT....*
-  📅 Wed, 07 Oct 2026 18:00:19 +0000
-
 ### 📑 Dev.to
 
-- **[The Python Developer Workbench and Workflow Orchestrator That Looks Like Call of Duty](https://dev.to/donnnnn14/the-python-developer-workbench-and-workflow-orchestrator-that-looks-like-call-of-duty-3ldo)**
-  *<p><a href="https://github.com/Sh1tmunch3r/Pylerium" rel="noopener noreferrer">Pylerium</a>: The Python Developer Workbench and Workflow Orchestrator That Looks Like Call of Duty</p>
+- **[I Sampled TikTok's 10 Most-Liked Videos. They Come in Exactly Two Lengths.](https://dev.to/mediadownloaderguides/i-sampled-tiktoks-10-most-liked-videos-they-come-in-exactly-two-lengths-50l2)**
+  *<h1>
+  
+  
+  I Sampled TikTok's 10 Most-Liked Videos. They Come in Exactly Two Lengths.
+</h1>
 
-<p>Imagine launc...*
-  📅 Wed, 07 Oct 2026 22:21:38 +0000
+<p>TikTok doesn't hand you a clean "trending" endpoint the way some platforms do, so I sampled the recomm...*
+  📅 Thu, 08 Oct 2026 03:33:35 +0000
 
-- **[How AI search picks fragments: query fan-out and RAG explained](https://dev.to/wallesamehere/how-ai-search-picks-fragments-query-fan-out-and-rag-explained-3ldl)**
-  *<p>Hi again 👋 In my last post, <em>How to become an SEO (AI) specialist in the coming 2027 #2</em>, I wrote that without understanding the mechanics of AI search there is no "AI SEO", only guessing. A...*
-  📅 Wed, 07 Oct 2026 22:21:01 +0000
+- **[Your CEO Sees 5x. Your Engineers See a Longer Review Queue.](https://dev.to/debashish_ghosal/your-ceo-sees-5x-your-engineers-see-a-longer-review-queue-2o14)**
+  *<p>Two surveys, one season, and two very different companies.</p>
+
+<p>Between December 2025 and January 2026, WRITER and Workplace Intelligence surveyed 1,200 C-suite executives. <strong>87% said thei...*
+  📅 Thu, 08 Oct 2026 03:32:00 +0000
 
 </details>
 
 ## 🔥 Trending Repositories
-
-### 📈 Daily Trending
-
-- **[alejandrobujan/tendedero](https://github.com/alejandrobujan/tendedero)** ⭐ 476
-  ![Swift](https://img.shields.io/badge/-Swift-lightgrey)
-  Screenshots, hung out to dry. A tiny native macOS app that hangs every screenshot on a line at the top of your screen.
-
-- **[pingdotgg/ts-rust](https://github.com/pingdotgg/ts-rust)** ⭐ 406
-  ![Rust](https://img.shields.io/badge/-Rust-brown)
-  An experimental Rust port of the TypeScript 7 compiler (tsc)
-
-- **[LoreanXavier/pt-pc](https://github.com/LoreanXavier/pt-pc)** ⭐ 404
-  ![C++](https://img.shields.io/badge/-C++-pink)
-  Native PC port of P.T. (runs from your own PS4 game files)
-
-- **[nullmoth/nvidia-macos-driver](https://github.com/nullmoth/nvidia-macos-driver)** ⭐ 325
-  ![Rust](https://img.shields.io/badge/-Rust-brown)
-  Metal driver for NVIDIA GeForce RTX cards on macOS 15 Sequoia (Intel / OpenCore). Free, source included.
-
-- **[storytold/wordcraft](https://github.com/storytold/wordcraft)** ⭐ 228
-  ![Rust](https://img.shields.io/badge/-Rust-brown)
-  An open-source, clean-room reimplementation of Microsoft Word in pure Rust
-
-- **[storytold/cadcraft](https://github.com/storytold/cadcraft)** ⭐ 183
-  ![Rust](https://img.shields.io/badge/-Rust-brown)
-  CADCraft: computer-aided design and drafting — an open-source, clean-room AutoCAD-style app in pure Rust
-
-- **[storytold/gridcraft](https://github.com/storytold/gridcraft)** ⭐ 148
-  ![Rust](https://img.shields.io/badge/-Rust-brown)
-  GridCraft: an open-source, clean-room spreadsheet (Microsoft Excel-style) in pure Rust. By ArtCraft.
-
-- **[gr8rstudio/gr8r-studio](https://github.com/gr8rstudio/gr8r-studio)** ⭐ 141
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
-  Gr8r Studio: a calm, structured project management workspace. Vite + plain ES modules.
-
-### 📈 Weekly Trending
-
-- **[openai/math](https://github.com/openai/math)** ⭐ 9,249
-  ![Lean](https://img.shields.io/badge/-Lean-lightgrey)
-  None
-
-- **[QingYunA/answer-me-with-html](https://github.com/QingYunA/answer-me-with-html)** ⭐ 2,029
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
-  Answer me with HTML — an agent skill that answers hard questions with a one-page HTML you can actually read. 让 AI Agent 用一页 HTML 回答复杂问题。
-
-- **[facebookincubator/muse-gadget-sdk](https://github.com/facebookincubator/muse-gadget-sdk)** ⭐ 1,647
-  ![C](https://img.shields.io/badge/-C-lightgrey)
-  Open source SDK to build Muse gadgets
-
-- **[kargulstudio/sales-crm](https://github.com/kargulstudio/sales-crm)** ⭐ 1,634
-  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
-  None
-
-- **[deadinside28/bloodborne_pc](https://github.com/deadinside28/bloodborne_pc)** ⭐ 1,611
-  ![C++](https://img.shields.io/badge/-C++-pink)
-  None
-
-- **[storytold/effectcraft](https://github.com/storytold/effectcraft)** ⭐ 1,600
-  ![Rust](https://img.shields.io/badge/-Rust-brown)
-  None
-
-- **[alchaincyf/huashu-art-motion](https://github.com/alchaincyf/huashu-art-motion)** ⭐ 1,564
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
-  艺术动画skill：35种艺术风格、9种解说语法，用代码让画动起来。
-
-- **[lucasmarkes/hairline](https://github.com/lucasmarkes/hairline)** ⭐ 1,065
-  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
-  Six isometric line figures that answer the pointer. For React and for anything with a DOM.
-
-### 📈 Monthly Trending
-
-- **[NandhaKishorM/laya](https://github.com/NandhaKishorM/laya)** ⭐ 31,421
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  Non-autoregressive System 1 decision engine. Typed choice, score and yes/no decisions over any text in a single forward pass, in 100+ languages, with a router that picks the right checkpoint per request.
-
-- **[browser-use/jev-ultrafast](https://github.com/browser-use/jev-ultrafast)** ⭐ 22,272
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  Fastest and cheapest web agent
-
-- **[Niko1221/Strata](https://github.com/Niko1221/Strata)** ⭐ 16,970
-  ![C++](https://img.shields.io/badge/-C++-pink)
-  Qwen3.8-Flash-Next on any consumer hardware: one-click install for Windows / Linux. Strata inference engine, OpenAI/Anthropic API on localhost, optional image input.
-
-- **[storytold/photocraft](https://github.com/storytold/photocraft)** ⭐ 16,419
-  ![Rust](https://img.shields.io/badge/-Rust-brown)
-  An open-source, clean-room reimplementation of Adobe Photoshop in pure Rust
-
-- **[robbietilton/Compositor](https://github.com/robbietilton/Compositor)** ⭐ 11,128
-  ![Swift](https://img.shields.io/badge/-Swift-lightgrey)
-  The Photoshop alternative for Mac
-
-- **[cdyforever/how-to-live-better](https://github.com/cdyforever/how-to-live-better)** ⭐ 9,301
-  ![HTML](https://img.shields.io/badge/-HTML-lightgrey)
-  《高性价比人生指南》全书 528 条的在线单页阅读版：手机可读、可搜索、零依赖、支持离线
-
-- **[openai/math](https://github.com/openai/math)** ⭐ 9,249
-  ![Lean](https://img.shields.io/badge/-Lean-lightgrey)
-  None
-
-- **[jaredpalmer/kev](https://github.com/jaredpalmer/kev)** ⭐ 8,649
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  Jev-like family of decision models built on top of Qwen3.5/3.8 you can train and run on your own
 
 ## 🚀 Latest Releases
 
@@ -331,16 +236,17 @@ See [kubernetes-announce@](https://groups.google.com/forum/#!forum/kubernetes-an
 
 ### 📦 nodejs/node
 
-**[2026-10-07, Version 26.11.0 (Current), @aduh95](https://github.com/nodejs/node/releases/tag/v26.11.0)** `v26.11.0`
+**[2026-10-07, Version 26.11.1 (Current), @aduh95](https://github.com/nodejs/node/releases/tag/v26.11.1)** `v26.11.1`
 
 📅 Released: October 07, 2026
 
 
 
 
-### Notable Changes
+### Commits
 
-* \[[`232f178825`](https://github.com/nodejs/node/commit/232f178825)] - **(SEMVER-MINOR)** **buffer**: add `isLatin1` (James M Snell) [#66298](https://github.com/nodejs/node/pu...
+* \[[`2dc4638e85`](https://github.com/nodejs/node/commit/2dc4638e85)] - _**Revert**_ "**build**: toggle doc-kit verbosity based on V" (Antoine du Hamel)
+* \[[`3febbc54ec`](https://gith...
 
 ---
 
@@ -483,59 +389,59 @@ See [kubernetes-announce@](https://groups.google.com/forum/#!forum/kubernetes-an
 
 | Skill | Status |
 |-------|--------|
-| Java | 🟡 Learning |
-| Python | ⚪ Planned |
+| Java | ⚪ Planned |
+| Python | 🟡 Learning |
 | JavaScript | ⚪ Planned |
-| TypeScript | ⚪ Planned |
+| TypeScript | 🟡 Learning |
 | Go | 🔴 Beginner |
 
 ### Frameworks
 
 | Skill | Status |
 |-------|--------|
-| React | 🟢 Proficient |
-| Spring Boot | 🟡 Learning |
+| React | 🔴 Beginner |
+| Spring Boot | ⚪ Planned |
 | Django | 🟡 Learning |
-| Node.js | 🟡 Learning |
-| Next.js | ⚪ Planned |
+| Node.js | 🔴 Beginner |
+| Next.js | 🟢 Proficient |
 
 ### Cybersecurity
 
 | Skill | Status |
 |-------|--------|
-| Penetration Testing | 🟡 Learning |
-| Web Security | 🟢 Proficient |
+| Penetration Testing | 🟢 Proficient |
+| Web Security | 🔴 Beginner |
 | Network Security | 🟢 Proficient |
-| OWASP | 🟡 Learning |
+| OWASP | 🟢 Proficient |
 
 ### Ai Ml
 
 | Skill | Status |
 |-------|--------|
-| Machine Learning | ⚪ Planned |
-| Deep Learning | 🟢 Proficient |
-| NLP | ⚪ Planned |
-| Computer Vision | 🟡 Learning |
+| Machine Learning | 🟡 Learning |
+| Deep Learning | 🟡 Learning |
+| NLP | 🔴 Beginner |
+| Computer Vision | 🟢 Proficient |
 | TensorFlow | 🟢 Proficient |
-| PyTorch | ⚪ Planned |
+| PyTorch | 🟡 Learning |
 
 ### Devops
 
 | Skill | Status |
 |-------|--------|
-| Docker | ⚪ Planned |
+| Docker | 🟡 Learning |
 | Kubernetes | ⚪ Planned |
 | CI/CD | ⚪ Planned |
-| AWS | 🔴 Beginner |
-| Azure | 🟢 Proficient |
+| AWS | ⚪ Planned |
+| Azure | 🔴 Beginner |
 
 ### Other
 
 | Skill | Status |
 |-------|--------|
-| Blockchain | ⚪ Planned |
-| Web3 | 🟡 Learning |
-| Cloud Computing | 🟡 Learning |
+| Blockchain | 🔴 Beginner |
+| Web3 | 🟢 Proficient |
+| Cloud Computing | 🔴 Beginner |
 
 </details>
 
@@ -553,7 +459,7 @@ This dashboard is automatically updated every 6 hours using GitHub Actions. The 
 
 <div align="center">
 
-**Last Updated:** October 07, 2026
+**Last Updated:** October 08, 2026
 
 Made with ❤️ and automated with GitHub Actions
 
