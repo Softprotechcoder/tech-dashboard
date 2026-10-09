@@ -7,7 +7,7 @@
 ![AI & ML](https://img.shields.io/badge/-AI%20&%20ML-blue) ![CyberSecurity](https://img.shields.io/badge/-CyberSecurity-red) ![Full Stack Development](https://img.shields.io/badge/-Full%20Stack%20Development-green)
 
 [![Auto Update](https://img.shields.io/badge/Auto%20Update-Enabled-success)](https://github.com/yourusername/tech-dashboard/actions)
-[![Last Updated](https://img.shields.io/badge/Last%20Updated-October 08, 2026-blue)](https://github.com/yourusername/tech-dashboard)
+[![Last Updated](https://img.shields.io/badge/Last%20Updated-October 09, 2026-blue)](https://github.com/yourusername/tech-dashboard)
 
 *Automatically updated every 6 hours with the latest tech news, trending repositories, and learning resources.*
 
@@ -20,7 +20,7 @@
 | Metric | Count |
 |--------|-------|
 | 📰 Latest News Articles | 26 |
-| 🔥 Trending Repositories | 15 |
+| 🔥 Trending Repositories | 45 |
 | 🎯 Latest Releases | 10 |
 | 🎯 Learning Goals | 4 |
 
@@ -46,39 +46,39 @@
 
 ### 📑 Hacker News
 
-- **[Show HN: Free open source Adobe Lightroom alternative, completely local with AI](https://github.com/thesnarkitecht/rembrandt)**
-  *<p>Article URL: <a href="https://github.com/thesnarkitecht/rembrandt">https://github.com/thesnarkitecht/rembrandt</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50012199">https...*
-  📅 Thu, 08 Oct 2026 21:00:55 +0000
+- **[Keyboard differences between Windows and Macs](https://unsung.aresluna.org/deeper-dive-keyboard-differences-between-windows-and-macs/)**
+  *<p>Article URL: <a href="https://unsung.aresluna.org/deeper-dive-keyboard-differences-between-windows-and-macs/">https://unsung.aresluna.org/deeper-dive-keyboard-differences-between-windows-and-macs/<...*
+  📅 Fri, 09 Oct 2026 03:08:05 +0000
 
-- **[AI-ready biological data: $1.8B global commitment](https://biohub.org/news/virtual-biology-initiative-expansion/)**
-  *<p>Article URL: <a href="https://biohub.org/news/virtual-biology-initiative-expansion/">https://biohub.org/news/virtual-biology-initiative-expansion/</a></p>
-<p>Comments URL: <a href="https://news.yco...*
-  📅 Thu, 08 Oct 2026 20:46:25 +0000
+- **[What should we tell our students?](https://terrytao.wordpress.com/2026/10/08/what-should-we-tell-our-students/)**
+  *<p>Article URL: <a href="https://terrytao.wordpress.com/2026/10/08/what-should-we-tell-our-students/">https://terrytao.wordpress.com/2026/10/08/what-should-we-tell-our-students/</a></p>
+<p>Comments UR...*
+  📅 Fri, 09 Oct 2026 02:27:45 +0000
 
-- **[ADHD as a circadian rhythm disorder: evidence and implications for chronotherapy (2025)](https://www.frontiersin.org/journals/psychiatry/articles/10.3389/fpsyt.2025.1697900/full)**
-  *<p>Article URL: <a href="https://www.frontiersin.org/journals/psychiatry/articles/10.3389/fpsyt.2025.1697900/full">https://www.frontiersin.org/journals/psychiatry/articles/10.3389/fpsyt.2025.1697900/f...*
-  📅 Thu, 08 Oct 2026 20:42:16 +0000
+- **[Reducing undefined behavior in the C language](https://lwn.net/Articles/1095811/)**
+  *<p>Article URL: <a href="https://lwn.net/Articles/1095811/">https://lwn.net/Articles/1095811/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50015074">https://news.ycombinator....*
+  📅 Fri, 09 Oct 2026 02:02:53 +0000
 
-- **[The value of not getting to the point (2015)](https://ken.arneson.name/2015/11/the-value-of-not-getting-to-the-point/)**
-  *<p>Article URL: <a href="https://ken.arneson.name/2015/11/the-value-of-not-getting-to-the-point/">https://ken.arneson.name/2015/11/the-value-of-not-getting-to-the-point/</a></p>
-<p>Comments URL: <a hr...*
-  📅 Thu, 08 Oct 2026 19:04:56 +0000
+- **[Show HN: Edi Life OS – self-hosted life dashboard with an MCP server for AI](https://github.com/edrisranjbar/lifeos)**
+  *<p>Article URL: <a href="https://github.com/edrisranjbar/lifeos">https://github.com/edrisranjbar/lifeos</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50014150">https://news.yc...*
+  📅 Fri, 09 Oct 2026 00:02:19 +0000
 
-- **[Theranos.world](https://www.theranos.world/)**
-  *<p>Article URL: <a href="https://www.theranos.world/">https://www.theranos.world/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50009295">https://news.ycombinator.com/item?id=...*
-  📅 Thu, 08 Oct 2026 17:51:49 +0000
+- **[Show HN: SVG Spark – 10 client-side SVG design and dev tools](https://svg-spark.vercel.app/)**
+  *<p>Article URL: <a href="https://svg-spark.vercel.app/">https://svg-spark.vercel.app/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50013931">https://news.ycombinator.com/item...*
+  📅 Thu, 08 Oct 2026 23:32:49 +0000
 
-- **[Whistle: Speech to Text in 16.9 MB](https://cactuscompute.com/blog/whistle)**
-  *<p>Article URL: <a href="https://cactuscompute.com/blog/whistle">https://cactuscompute.com/blog/whistle</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50008427">https://news.yc...*
-  📅 Thu, 08 Oct 2026 16:59:39 +0000
+- **[Bevy 0.20](https://bevy.org/news/bevy-0-20/)**
+  *<p>Article URL: <a href="https://bevy.org/news/bevy-0-20/">https://bevy.org/news/bevy-0-20/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50013610">https://news.ycombinator.co...*
+  📅 Thu, 08 Oct 2026 22:57:50 +0000
 
 ### 📑 TechCrunch
 
-- **[President Trump awards big tech donors with nation’s highest science prizes](https://techcrunch.com/2026/10/08/president-trump-awards-big-tech-donors-with-nations-highest-science-prizes/)**
-  *On Thursday, President Trump awarded Elon Musk, Jensen Huang, Sergey Brin, and AMD’s Lisa Su the National Medal of Science, the nation’s top science prize....*
+- **[President Trump awards Big Tech donors with nation’s highest science prizes](https://techcrunch.com/2026/10/08/president-trump-awards-big-tech-donors-with-nations-highest-science-prizes/)**
+  *Together, the awardees have donated nearly $6 billion to efforts tied to Trump and his administration....*
   📅 Thu, 08 Oct 2026 22:33:59 +0000
 
 - **[Pretend you’re sitting at Elizabeth Holmes’ desk on this weirdly detailed website](https://techcrunch.com/2026/10/08/pretend-youre-sitting-at-elizabeth-holmes-desk-on-this-weirdly-detailed-website/)**
@@ -103,17 +103,13 @@
 
 ### 📑 Dev.to
 
-- **[Scheduled PDF and Excel report emails in ASP.NET Core with Quartz.NET](https://dev.to/razisyed/scheduled-pdf-and-excel-report-emails-in-aspnet-core-with-quartznet-37i0)**
-  *<p><em>By Razi Syed. Sample code: <a href="https://github.com/dotnetreport/dotnetreport-scheduled-reports" rel="noopener noreferrer">github.com/dotnetreport/dotnetreport-scheduled-reports</a></em></p>...*
-  📅 Thu, 08 Oct 2026 22:35:01 +0000
+- **[5 Node.js Email Deliverability Controls — Product Event Notifications Setup That Survives](https://dev.to/wilhelmknight8435/5-nodejs-email-deliverability-controls-product-event-notifications-setup-that-survives-2834)**
+  *<p>TL;DR: Treat every contact-form notification as an auditable state machine, not a successful API call. Verify a DKIM-aligned sending domain, consult a regional suppression set before enqueueing, as...*
+  📅 Fri, 09 Oct 2026 03:46:00 +0000
 
-- **[Mia](https://dev.to/mohammedabdelshafy/mia-43od)**
-  *<p>Why I Gave My AI Agent a Body (And What Happened)</p>
-
-<p>dev.to draft — personal, technical, honest</p>
-
-<p>Every AI I build lives in the same place: a grey text box. It doesn't matter how smart t...*
-  📅 Thu, 08 Oct 2026 22:34:52 +0000
+- **[Promotion - Canary Deployment](https://dev.to/technonotes/promotion-canary-deployment-mjo)**
+  *<p><a class="article-body-image-wrapper" href="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws...*
+  📅 Fri, 09 Oct 2026 03:45:31 +0000
 
 </details>
 
@@ -121,37 +117,105 @@
 
 ### 📈 Daily Trending
 
-- **[mhtsec/ARTEX](https://github.com/mhtsec/ARTEX)** ⭐ 683
+- **[VanquisherFoyer/cs2](https://github.com/VanquisherFoyer/cs2)** ⭐ 20
+  ![HTML](https://img.shields.io/badge/-HTML-lightgrey)
+  🔥 CS2-Skin-Changer-2026
+
+- **[RuoJi6/ARTEX](https://github.com/RuoJi6/ARTEX)** ⭐ 16
   ![Go](https://img.shields.io/badge/-Go-cyan)
-  AI 自主渗透测试系统 | 百度“agent+”攻防挑战赛冠军项目
+  Autumn-27/ARTEX 二开
 
-- **[noahdunnagan/fsearch](https://github.com/noahdunnagan/fsearch)** ⭐ 314
-  ![Rust](https://img.shields.io/badge/-Rust-brown)
-  Whole-disk file search for macOS: fuzzy names, typo tolerance, indexed content grep. ~1 ms over 8M files.
-
-- **[Nonco-Organization/multicoin-address-validator](https://github.com/Nonco-Organization/multicoin-address-validator)** ⭐ 231
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
-  Useful library for validation of Bitcoin, Litecoin, Ethereum and other cryptocoin addresses
-
-- **[Stellar-Sentinel/sentinel-contracts](https://github.com/Stellar-Sentinel/sentinel-contracts)** ⭐ 131
-  ![Rust](https://img.shields.io/badge/-Rust-brown)
-  Soroban contract for authorized Stellar Sentinel flags, configurable thresholds, and latest-flag records.
-
-- **[Stellar-Sentinel/sentinel-backend](https://github.com/Stellar-Sentinel/sentinel-backend)** ⭐ 130
+- **[shu-admin/paper_reading_skill](https://github.com/shu-admin/paper_reading_skill)** ⭐ 8
   ![Python](https://img.shields.io/badge/-Python-blue)
-  FastAPI service for Stellar account screening, Soroban event monitoring, and network health.
+  None
 
-- **[Stellar-Sentinel/sentinel-frontend](https://github.com/Stellar-Sentinel/sentinel-frontend)** ⭐ 130
+- **[WouterApts/openik-unity](https://github.com/WouterApts/openik-unity)** ⭐ 7
+  ![C#](https://img.shields.io/badge/-C#-lightgrey)
+  Inverse kinematics solvers and joint constraints for Unity.
+
+- **[Tonywusuowei/mcd-breakfast-variety](https://github.com/Tonywusuowei/mcd-breakfast-variety)** ⭐ 5
+  ![None](https://img.shields.io/badge/-None-lightgrey)
+  None
+
+- **[lichuang/how-to-read-code](https://github.com/lichuang/how-to-read-code)** ⭐ 5
+  ![None](https://img.shields.io/badge/-None-lightgrey)
+  None
+
+- **[fairdataihub/bunny-s3-r2-backup](https://github.com/fairdataihub/bunny-s3-r2-backup)** ⭐ 4
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
-  Stellar Sentinel dashboard for Stellar account screening, network health, and Soroban contract flag events.
+  Automate backup of you bunny s3 compatible container to aws/s3 or cloudflare r2
 
-- **[thesysdev/open-intelligent-ui](https://github.com/thesysdev/open-intelligent-ui)** ⭐ 113
+- **[logdog2325/pokemon-ruby-sapphire-nds](https://github.com/logdog2325/pokemon-ruby-sapphire-nds)** ⭐ 3
+  ![None](https://img.shields.io/badge/-None-lightgrey)
+  Pokémon Ruby & Sapphire remade on the Nintendo DS inside Pokémon Black 2 (patches only)
+
+### 📈 Weekly Trending
+
+- **[openai/math](https://github.com/openai/math)** ⭐ 12,285
+  ![Lean](https://img.shields.io/badge/-Lean-lightgrey)
+  None
+
+- **[alchaincyf/huashu-art-motion](https://github.com/alchaincyf/huashu-art-motion)** ⭐ 2,539
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
+  艺术动画skill：35种艺术风格、9种解说语法，用代码让画动起来。
+
+- **[kargulstudio/sales-crm](https://github.com/kargulstudio/sales-crm)** ⭐ 1,659
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   None
 
-- **[ThariqS/ai-newtab](https://github.com/ThariqS/ai-newtab)** ⭐ 84
-  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
-  Claude generates a daily new tab page based on your browser history.
+- **[nullmoth/nvidia-macos-driver](https://github.com/nullmoth/nvidia-macos-driver)** ⭐ 1,233
+  ![Rust](https://img.shields.io/badge/-Rust-brown)
+  Metal driver for NVIDIA GeForce RTX cards on macOS 15 Sequoia (Intel / OpenCore). Free, source included.
+
+- **[Jakeschincariol/replica-skill](https://github.com/Jakeschincariol/replica-skill)** ⭐ 1,123
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  Eleven free Claude skills that clone any app: reverse-engineer it, rebuild it, test it for bugs, then fix what its users hate. Free, MIT.
+
+- **[alejandrobujan/tendedero](https://github.com/alejandrobujan/tendedero)** ⭐ 1,051
+  ![Swift](https://img.shields.io/badge/-Swift-lightgrey)
+  Screenshots, hung out to dry. A tiny native macOS app that hangs every screenshot on a line at the top of your screen.
+
+- **[LoreanXavier/pt-pc](https://github.com/LoreanXavier/pt-pc)** ⭐ 1,027
+  ![C++](https://img.shields.io/badge/-C++-pink)
+  Native PC port of P.T. (runs from your own PS4 game files)
+
+- **[mhtsec/ARTEX](https://github.com/mhtsec/ARTEX)** ⭐ 994
+  ![Go](https://img.shields.io/badge/-Go-cyan)
+  AI 自主渗透测试系统 | 百度“agent+”攻防挑战赛冠军项目
+
+### 📈 Monthly Trending
+
+- **[NandhaKishorM/laya](https://github.com/NandhaKishorM/laya)** ⭐ 31,773
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  Non-autoregressive System 1 decision engine. Typed choice, score and yes/no decisions over any text in a single forward pass, in 100+ languages, with a router that picks the right checkpoint per request.
+
+- **[storytold/photocraft](https://github.com/storytold/photocraft)** ⭐ 28,057
+  ![Rust](https://img.shields.io/badge/-Rust-brown)
+  An open-source, clean-room reimplementation of Adobe Photoshop in pure Rust
+
+- **[browser-use/jev-ultrafast](https://github.com/browser-use/jev-ultrafast)** ⭐ 22,413
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  Fastest and cheapest web agent
+
+- **[Niko1221/Strata](https://github.com/Niko1221/Strata)** ⭐ 18,658
+  ![C++](https://img.shields.io/badge/-C++-pink)
+  Qwen3.8-Flash-Next on any consumer hardware: one-click install for Windows / Linux. Strata inference engine, OpenAI/Anthropic API on localhost, optional image input.
+
+- **[robbietilton/Compositor](https://github.com/robbietilton/Compositor)** ⭐ 13,640
+  ![Swift](https://img.shields.io/badge/-Swift-lightgrey)
+  The Photoshop alternative for Mac
+
+- **[openai/math](https://github.com/openai/math)** ⭐ 12,285
+  ![Lean](https://img.shields.io/badge/-Lean-lightgrey)
+  None
+
+- **[cdyforever/how-to-live-better](https://github.com/cdyforever/how-to-live-better)** ⭐ 10,275
+  ![HTML](https://img.shields.io/badge/-HTML-lightgrey)
+  《高性价比人生指南》全书 528 条的在线单页阅读版：手机可读、可搜索、零依赖、支持离线
+
+- **[jaredpalmer/kev](https://github.com/jaredpalmer/kev)** ⭐ 8,754
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  Jev-like family of decision models built on top of Qwen3.5/3.8 you can train and run on your own
 
 ## 🚀 Latest Releases
 
@@ -421,56 +485,56 @@ See [kubernetes-announce@](https://groups.google.com/forum/#!forum/kubernetes-an
 |-------|--------|
 | Java | 🟢 Proficient |
 | Python | 🟡 Learning |
-| JavaScript | 🟡 Learning |
-| TypeScript | 🟢 Proficient |
-| Go | ⚪ Planned |
+| JavaScript | 🟢 Proficient |
+| TypeScript | 🟡 Learning |
+| Go | 🟡 Learning |
 
 ### Frameworks
 
 | Skill | Status |
 |-------|--------|
-| React | 🔴 Beginner |
-| Spring Boot | 🔴 Beginner |
-| Django | 🟡 Learning |
-| Node.js | 🟢 Proficient |
-| Next.js | 🟢 Proficient |
+| React | ⚪ Planned |
+| Spring Boot | 🟢 Proficient |
+| Django | ⚪ Planned |
+| Node.js | 🟡 Learning |
+| Next.js | ⚪ Planned |
 
 ### Cybersecurity
 
 | Skill | Status |
 |-------|--------|
-| Penetration Testing | 🟢 Proficient |
-| Web Security | 🟡 Learning |
-| Network Security | 🔴 Beginner |
+| Penetration Testing | ⚪ Planned |
+| Web Security | ⚪ Planned |
+| Network Security | 🟡 Learning |
 | OWASP | ⚪ Planned |
 
 ### Ai Ml
 
 | Skill | Status |
 |-------|--------|
-| Machine Learning | 🟢 Proficient |
-| Deep Learning | 🔴 Beginner |
-| NLP | 🔴 Beginner |
-| Computer Vision | 🟡 Learning |
+| Machine Learning | 🔴 Beginner |
+| Deep Learning | 🟡 Learning |
+| NLP | 🟢 Proficient |
+| Computer Vision | 🟢 Proficient |
 | TensorFlow | 🟡 Learning |
-| PyTorch | ⚪ Planned |
+| PyTorch | 🔴 Beginner |
 
 ### Devops
 
 | Skill | Status |
 |-------|--------|
-| Docker | 🟡 Learning |
-| Kubernetes | 🟢 Proficient |
-| CI/CD | 🟢 Proficient |
-| AWS | 🟡 Learning |
-| Azure | 🔴 Beginner |
+| Docker | 🟢 Proficient |
+| Kubernetes | 🟡 Learning |
+| CI/CD | 🟡 Learning |
+| AWS | 🟢 Proficient |
+| Azure | ⚪ Planned |
 
 ### Other
 
 | Skill | Status |
 |-------|--------|
-| Blockchain | 🔴 Beginner |
-| Web3 | 🔴 Beginner |
+| Blockchain | ⚪ Planned |
+| Web3 | ⚪ Planned |
 | Cloud Computing | 🟢 Proficient |
 
 </details>
@@ -489,7 +553,7 @@ This dashboard is automatically updated every 6 hours using GitHub Actions. The 
 
 <div align="center">
 
-**Last Updated:** October 08, 2026
+**Last Updated:** October 09, 2026
 
 Made with ❤️ and automated with GitHub Actions
 
