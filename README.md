@@ -20,7 +20,7 @@
 | Metric | Count |
 |--------|-------|
 | 📰 Latest News Articles | 26 |
-| 🔥 Trending Repositories | 45 |
+| 🔥 Trending Repositories | 0 |
 | 🎯 Latest Releases | 10 |
 | 🎯 Learning Goals | 4 |
 
@@ -46,35 +46,35 @@
 
 ### 📑 Hacker News
 
+- **[Talorys – A self-hosted personal AI agent on Cloudflare's free tier](https://github.com/rociiu/talorys)**
+  *<p>Article URL: <a href="https://github.com/rociiu/talorys">https://github.com/rociiu/talorys</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50031614">https://news.ycombinator....*
+  📅 Sat, 10 Oct 2026 10:52:09 +0000
+
+- **[`123456' password used in Danish CPR data breach](https://cphpost.dk/2026-10-10/news/round-up/123456-password-used-in-massive-danish-cpr-data-breach/)**
+  *<p>Article URL: <a href="https://cphpost.dk/2026-10-10/news/round-up/123456-password-used-in-massive-danish-cpr-data-breach/">https://cphpost.dk/2026-10-10/news/round-up/123456-password-used-in-massiv...*
+  📅 Sat, 10 Oct 2026 09:51:49 +0000
+
+- **[Computers Cannot Make Decisions](https://wiki.cateat.fish/art:computers_cannot_make_decisions)**
+  *<p>Article URL: <a href="https://wiki.cateat.fish/art:computers_cannot_make_decisions">https://wiki.cateat.fish/art:computers_cannot_make_decisions</a></p>
+<p>Comments URL: <a href="https://news.ycomb...*
+  📅 Sat, 10 Oct 2026 05:47:46 +0000
+
+- **[Food processing influences metabolism and brain activity](https://news.vt.edu/articles/2026/10/research_fralinbiomed_upfhutelin.html)**
+  *<p>Article URL: <a href="https://news.vt.edu/articles/2026/10/research_fralinbiomed_upfhutelin.html">https://news.vt.edu/articles/2026/10/research_fralinbiomed_upfhutelin.html</a></p>
+<p>Comments URL:...*
+  📅 Sat, 10 Oct 2026 05:22:30 +0000
+
+- **[Telegram Desktop vulnerability allowed any user's file to be stolen](https://beaksec.github.io/posts/telegram-desktop-one-click-account-takeover/)**
+  *<p>Article URL: <a href="https://beaksec.github.io/posts/telegram-desktop-one-click-account-takeover/">https://beaksec.github.io/posts/telegram-desktop-one-click-account-takeover/</a></p>
+<p>Comments ...*
+  📅 Sat, 10 Oct 2026 03:02:47 +0000
+
 - **[REA Reverse – Engineer Anything](https://rea.tools/)**
   *<p>Article URL: <a href="https://rea.tools/">https://rea.tools/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=50028275">https://news.ycombinator.com/item?id=50028275</a></p>
 <...*
   📅 Sat, 10 Oct 2026 00:37:07 +0000
-
-- **[Has the Autonomous Trucking Revolution Arrived?](https://phenomenalworld.org/analysis/has-the-autonomous-trucking-revolution-arrived/)**
-  *<p>Article URL: <a href="https://phenomenalworld.org/analysis/has-the-autonomous-trucking-revolution-arrived/">https://phenomenalworld.org/analysis/has-the-autonomous-trucking-revolution-arrived/</a><...*
-  📅 Fri, 09 Oct 2026 23:57:12 +0000
-
-- **[11 of 23 Core Open Source Projects Run on 1 or 2 People](https://linuxstans.com/11-of-23-core-open-source-projects-run-on-1-or-2-people/)**
-  *<p>Article URL: <a href="https://linuxstans.com/11-of-23-core-open-source-projects-run-on-1-or-2-people/">https://linuxstans.com/11-of-23-core-open-source-projects-run-on-1-or-2-people/</a></p>
-<p>Com...*
-  📅 Fri, 09 Oct 2026 23:56:55 +0000
-
-- **[The logarithms of rational numbers have irrationality exponent 2 [pdf]](https://jdb19937.github.io/log-irrationality-measure/logmeasure.pdf)**
-  *<p>Article URL: <a href="https://jdb19937.github.io/log-irrationality-measure/logmeasure.pdf">https://jdb19937.github.io/log-irrationality-measure/logmeasure.pdf</a></p>
-<p>Comments URL: <a href="http...*
-  📅 Fri, 09 Oct 2026 23:32:04 +0000
-
-- **[Compiling Rust to readable C with Eurydice](https://lwn.net/Articles/1055211/)**
-  *<p>Article URL: <a href="https://lwn.net/Articles/1055211/">https://lwn.net/Articles/1055211/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50027853">https://news.ycombinator....*
-  📅 Fri, 09 Oct 2026 23:28:36 +0000
-
-- **[Rewriting Prime Agent in Rust](https://www.primeintellect.ai/blog/prime-agent-rust)**
-  *<p>Article URL: <a href="https://www.primeintellect.ai/blog/prime-agent-rust">https://www.primeintellect.ai/blog/prime-agent-rust</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id...*
-  📅 Fri, 09 Oct 2026 23:06:25 +0000
 
 ### 📑 TechCrunch
 
@@ -104,123 +104,17 @@
 
 ### 📑 Dev.to
 
-- **[Musk accuses Ambani of wanting to maintain a monopoly position in India](https://dev.to/hacksgr/musk-accuses-ambani-of-wanting-to-maintain-a-monopoly-position-in-india-p03)**
-  *<p>Starlink has not yet received approval for commercial operations in India.</p>
+- **[Park a Migration Without Losing the Work](https://dev.to/jeremy_longshore/park-a-migration-without-losing-the-work-5443)**
+  *<p>A migration that ships by reaching the default branch with a green badge still has a second decision hidden inside it: do we point production at it today, in a week, or ever. When the build and the...*
+  📅 Sat, 10 Oct 2026 11:30:13 +0000
 
-<p>Before satellite spectrum is assigned, it and two other licensed providers must complete security checks; India’s ...*
-  📅 Sat, 10 Oct 2026 03:22:35 +0000
-
-- **[Image Optimization for Web Developers: Reduce File Size Without Ruining Quality](https://dev.to/klyverolabs/image-optimization-for-web-developers-reduce-file-size-without-ruining-quality-2bi7)**
-  *<p>Images are often among the largest resources downloaded by a webpage.</p>
-
-<p>As frontend developers, we spend time optimizing JavaScript bundles, caching strategies, and CSS delivery. But an overs...*
-  📅 Sat, 10 Oct 2026 03:21:43 +0000
+- **[Sell the Line, Not the Dots: What Strangers Actually Pay Solo Data Builders For](https://dev.to/yuhehe/sell-the-line-not-the-dots-what-strangers-actually-pay-solo-data-builders-for-14m0)**
+  *<p>A dataset is not a product. A decision you can make every morning without opening a laptop is a product. That distinction is the difference between the data marketplaces that exist and the ones tha...*
+  📅 Sat, 10 Oct 2026 11:29:44 +0000
 
 </details>
 
 ## 🔥 Trending Repositories
-
-### 📈 Daily Trending
-
-- **[updatesanninconduit/WUWA-Menu-Undetected](https://github.com/updatesanninconduit/WUWA-Menu-Undetected)** ⭐ 61
-  ![None](https://img.shields.io/badge/-None-lightgrey)
-  Wuthering Waves Multihack
-
-- **[Shapefiupgrade/PUBG-Scripts-External-2026-UD](https://github.com/Shapefiupgrade/PUBG-Scripts-External-2026-UD)** ⭐ 61
-  ![None](https://img.shields.io/badge/-None-lightgrey)
-  A powerful private PUBG cheat featuring an advanced aimbot, full ESP for players and loot, and real-time radar. Enhance your gameplay with user-friendly settings and improved visibility options
-
-- **[closofdev/tts-testings](https://github.com/closofdev/tts-testings)** ⭐ 5
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  Tested AI Voice, turning text into voice
-
-- **[yftu/mcd-triple-target](https://github.com/yftu/mcd-triple-target)** ⭐ 5
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  基于麦当劳官方 MCP 的三目标配餐优化 Skill（热量/蛋白质/预算），含 MCP 响应解包与 toon 解析完整实现
-
-- **[nimblecloud13/ComfyUI-MiniMax-H3-Guide](https://github.com/nimblecloud13/ComfyUI-MiniMax-H3-Guide)** ⭐ 4
-  ![None](https://img.shields.io/badge/-None-lightgrey)
-  Plain-English ComfyUI guides for MiniMax H3, Wan 2.2, Qwen Image 2.1 and Krea 2: what every part, file name and setting actually does.
-
-- **[CreatorHive/bridle](https://github.com/CreatorHive/bridle)** ⭐ 4
-  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
-  An open-source personal agent for macOS that lives in a folder and writes first.
-
-- **[Blackfrost-AI/GLM-5.3-DWM32-A2.2-Recipe](https://github.com/Blackfrost-AI/GLM-5.3-DWM32-A2.2-Recipe)** ⭐ 4
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  Apache-2.0 exact-method recipe for non-Flash GLM-5.3 BF16 DWM32 alpha 2.2
-
-- **[DaneelOlivaw1/macos-wechat-export](https://github.com/DaneelOlivaw1/macos-wechat-export)** ⭐ 4
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  macOS 微信 4.x 本地聊天记录导出：临时重签副本取钥 + SQLCipher 只读（Apple Silicon）
-
-### 📈 Weekly Trending
-
-- **[openai/math](https://github.com/openai/math)** ⭐ 13,168
-  ![Lean](https://img.shields.io/badge/-Lean-lightgrey)
-  None
-
-- **[alchaincyf/huashu-art-motion](https://github.com/alchaincyf/huashu-art-motion)** ⭐ 2,937
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
-  艺术动画skill：35种艺术风格、9种解说语法，用代码让画动起来。
-
-- **[mhtsec/ARTEX](https://github.com/mhtsec/ARTEX)** ⭐ 2,340
-  ![Go](https://img.shields.io/badge/-Go-cyan)
-  AI 自主渗透测试系统 | 百度“agent+”攻防挑战赛冠军项目
-
-- **[storytold/wordcraft](https://github.com/storytold/wordcraft)** ⭐ 1,991
-  ![Rust](https://img.shields.io/badge/-Rust-brown)
-  An open-source, clean-room reimplementation of Microsoft Word in pure Rust
-
-- **[zhongerxin/iPhone-use](https://github.com/zhongerxin/iPhone-use)** ⭐ 1,954
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  让 Codex 通过 USB 操作真实 iPhone：引导安装、App 自动化、实时屏幕与截图回退。
-
-- **[nullmoth/nvidia-macos-driver](https://github.com/nullmoth/nvidia-macos-driver)** ⭐ 1,946
-  ![Rust](https://img.shields.io/badge/-Rust-brown)
-  Metal driver for NVIDIA GeForce RTX cards on macOS 15 Sequoia (Intel / OpenCore). Free, source included.
-
-- **[kargulstudio/sales-crm](https://github.com/kargulstudio/sales-crm)** ⭐ 1,677
-  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
-  None
-
-- **[LosaLosSantos/aurelio-finance](https://github.com/LosaLosSantos/aurelio-finance)** ⭐ 1,556
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  Open-source personal finance app with an AI financial advisor: track your net worth, investments, ETFs, cash and debts on your own computer.
-
-### 📈 Monthly Trending
-
-- **[storytold/photocraft](https://github.com/storytold/photocraft)** ⭐ 36,136
-  ![Rust](https://img.shields.io/badge/-Rust-brown)
-  An open-source, clean-room reimplementation of Adobe Photoshop in pure Rust
-
-- **[NandhaKishorM/laya](https://github.com/NandhaKishorM/laya)** ⭐ 32,003
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  Non-autoregressive System 1 decision engine. Typed choice, score and yes/no decisions over any text in a single forward pass, in 100+ languages, with a router that picks the right checkpoint per request.
-
-- **[browser-use/jev-ultrafast](https://github.com/browser-use/jev-ultrafast)** ⭐ 22,480
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  Fastest and cheapest web agent
-
-- **[Niko1221/Strata](https://github.com/Niko1221/Strata)** ⭐ 19,706
-  ![C++](https://img.shields.io/badge/-C++-pink)
-  Qwen3.8-Flash-Next on any consumer hardware: one-click install for Windows / Linux. Strata inference engine, OpenAI/Anthropic API on localhost, optional image input.
-
-- **[robbietilton/Compositor](https://github.com/robbietilton/Compositor)** ⭐ 14,959
-  ![Swift](https://img.shields.io/badge/-Swift-lightgrey)
-  The Photoshop alternative for Mac
-
-- **[openai/math](https://github.com/openai/math)** ⭐ 13,168
-  ![Lean](https://img.shields.io/badge/-Lean-lightgrey)
-  None
-
-- **[cdyforever/how-to-live-better](https://github.com/cdyforever/how-to-live-better)** ⭐ 10,658
-  ![HTML](https://img.shields.io/badge/-HTML-lightgrey)
-  《高性价比人生指南》全书 528 条的在线单页阅读版：手机可读、可搜索、零依赖、支持离线
-
-- **[jaredpalmer/kev](https://github.com/jaredpalmer/kev)** ⭐ 8,840
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  Jev-like family of decision models built on top of Qwen3.5/3.8 you can train and run on your own
 
 ## 🚀 Latest Releases
 
@@ -488,11 +382,11 @@ See [kubernetes-announce@](https://groups.google.com/forum/#!forum/kubernetes-an
 
 | Skill | Status |
 |-------|--------|
-| Java | ⚪ Planned |
+| Java | 🟡 Learning |
 | Python | ⚪ Planned |
-| JavaScript | 🟢 Proficient |
-| TypeScript | 🟢 Proficient |
-| Go | 🟢 Proficient |
+| JavaScript | ⚪ Planned |
+| TypeScript | ⚪ Planned |
+| Go | ⚪ Planned |
 
 ### Frameworks
 
@@ -500,17 +394,17 @@ See [kubernetes-announce@](https://groups.google.com/forum/#!forum/kubernetes-an
 |-------|--------|
 | React | 🔴 Beginner |
 | Spring Boot | 🟢 Proficient |
-| Django | 🟡 Learning |
-| Node.js | ⚪ Planned |
+| Django | 🟢 Proficient |
+| Node.js | 🔴 Beginner |
 | Next.js | 🟢 Proficient |
 
 ### Cybersecurity
 
 | Skill | Status |
 |-------|--------|
-| Penetration Testing | 🔴 Beginner |
-| Web Security | 🟢 Proficient |
-| Network Security | 🟢 Proficient |
+| Penetration Testing | 🟡 Learning |
+| Web Security | ⚪ Planned |
+| Network Security | 🟡 Learning |
 | OWASP | 🔴 Beginner |
 
 ### Ai Ml
@@ -518,29 +412,29 @@ See [kubernetes-announce@](https://groups.google.com/forum/#!forum/kubernetes-an
 | Skill | Status |
 |-------|--------|
 | Machine Learning | 🟢 Proficient |
-| Deep Learning | 🟡 Learning |
-| NLP | 🔴 Beginner |
-| Computer Vision | 🟢 Proficient |
+| Deep Learning | 🟢 Proficient |
+| NLP | 🟢 Proficient |
+| Computer Vision | 🟡 Learning |
 | TensorFlow | 🟡 Learning |
-| PyTorch | 🔴 Beginner |
+| PyTorch | 🟢 Proficient |
 
 ### Devops
 
 | Skill | Status |
 |-------|--------|
-| Docker | 🟡 Learning |
-| Kubernetes | 🟢 Proficient |
-| CI/CD | 🟡 Learning |
-| AWS | 🟡 Learning |
-| Azure | 🟡 Learning |
+| Docker | 🟢 Proficient |
+| Kubernetes | ⚪ Planned |
+| CI/CD | 🔴 Beginner |
+| AWS | 🔴 Beginner |
+| Azure | 🔴 Beginner |
 
 ### Other
 
 | Skill | Status |
 |-------|--------|
 | Blockchain | 🟡 Learning |
-| Web3 | 🔴 Beginner |
-| Cloud Computing | 🟢 Proficient |
+| Web3 | ⚪ Planned |
+| Cloud Computing | 🔴 Beginner |
 
 </details>
 
