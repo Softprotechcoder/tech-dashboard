@@ -20,7 +20,7 @@
 | Metric | Count |
 |--------|-------|
 | 📰 Latest News Articles | 26 |
-| 🔥 Trending Repositories | 0 |
+| 🔥 Trending Repositories | 45 |
 | 🎯 Latest Releases | 10 |
 | 🎯 Learning Goals | 4 |
 
@@ -46,37 +46,48 @@
 
 ### 📑 Hacker News
 
-- **[Talorys – A self-hosted personal AI agent on Cloudflare's free tier](https://github.com/rociiu/talorys)**
-  *<p>Article URL: <a href="https://github.com/rociiu/talorys">https://github.com/rociiu/talorys</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50031614">https://news.ycombinator....*
-  📅 Sat, 10 Oct 2026 10:52:09 +0000
+- **[The Disease called Politics (1962)](https://www.panarchy.org/roszak/politics.html)**
+  *<p>Article URL: <a href="https://www.panarchy.org/roszak/politics.html">https://www.panarchy.org/roszak/politics.html</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50034141">h...*
+  📅 Sat, 10 Oct 2026 15:53:46 +0000
 
-- **[`123456' password used in Danish CPR data breach](https://cphpost.dk/2026-10-10/news/round-up/123456-password-used-in-massive-danish-cpr-data-breach/)**
-  *<p>Article URL: <a href="https://cphpost.dk/2026-10-10/news/round-up/123456-password-used-in-massive-danish-cpr-data-breach/">https://cphpost.dk/2026-10-10/news/round-up/123456-password-used-in-massiv...*
-  📅 Sat, 10 Oct 2026 09:51:49 +0000
+- **[Knuth Reward Check](https://www.thomas-huehn.com/knuth-reward-check)**
+  *<p>Article URL: <a href="https://www.thomas-huehn.com/knuth-reward-check">https://www.thomas-huehn.com/knuth-reward-check</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=5003408...*
+  📅 Sat, 10 Oct 2026 15:47:01 +0000
 
-- **[Computers Cannot Make Decisions](https://wiki.cateat.fish/art:computers_cannot_make_decisions)**
-  *<p>Article URL: <a href="https://wiki.cateat.fish/art:computers_cannot_make_decisions">https://wiki.cateat.fish/art:computers_cannot_make_decisions</a></p>
-<p>Comments URL: <a href="https://news.ycomb...*
-  📅 Sat, 10 Oct 2026 05:47:46 +0000
+- **[How Protein Took over the World](https://www.ft.com/content/e26574cf-94cc-40d9-921e-5c7417fc5dbd)**
+  *<p>Article URL: <a href="https://www.ft.com/content/e26574cf-94cc-40d9-921e-5c7417fc5dbd">https://www.ft.com/content/e26574cf-94cc-40d9-921e-5c7417fc5dbd</a></p>
+<p>Comments URL: <a href="https://news...*
+  📅 Sat, 10 Oct 2026 15:40:06 +0000
 
-- **[Food processing influences metabolism and brain activity](https://news.vt.edu/articles/2026/10/research_fralinbiomed_upfhutelin.html)**
-  *<p>Article URL: <a href="https://news.vt.edu/articles/2026/10/research_fralinbiomed_upfhutelin.html">https://news.vt.edu/articles/2026/10/research_fralinbiomed_upfhutelin.html</a></p>
-<p>Comments URL:...*
-  📅 Sat, 10 Oct 2026 05:22:30 +0000
+- **[PVX-001: open-source Covid-19 vaccine starts Phase 1 trial](https://chronicles.popvax.com/p/popvax-goes-clinical)**
+  *<p>Article URL: <a href="https://chronicles.popvax.com/p/popvax-goes-clinical">https://chronicles.popvax.com/p/popvax-goes-clinical</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?...*
+  📅 Sat, 10 Oct 2026 15:10:24 +0000
 
-- **[Telegram Desktop vulnerability allowed any user's file to be stolen](https://beaksec.github.io/posts/telegram-desktop-one-click-account-takeover/)**
-  *<p>Article URL: <a href="https://beaksec.github.io/posts/telegram-desktop-one-click-account-takeover/">https://beaksec.github.io/posts/telegram-desktop-one-click-account-takeover/</a></p>
-<p>Comments ...*
-  📅 Sat, 10 Oct 2026 03:02:47 +0000
+- **[Bitwarden Dual License Model](https://community.bitwarden.com/t/published-version-update-in-app-stores/102750)**
+  *<p>Article URL: <a href="https://community.bitwarden.com/t/published-version-update-in-app-stores/102750">https://community.bitwarden.com/t/published-version-update-in-app-stores/102750</a></p>
+<p>Com...*
+  📅 Sat, 10 Oct 2026 14:32:50 +0000
 
-- **[REA Reverse – Engineer Anything](https://rea.tools/)**
-  *<p>Article URL: <a href="https://rea.tools/">https://rea.tools/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50028275">https://news.ycombinator.com/item?id=50028275</a></p>
-<...*
-  📅 Sat, 10 Oct 2026 00:37:07 +0000
+- **[I would like the value of my home to rise, while my property taxes fall](https://conversableeconomist.com/2026/09/28/i-would-like-the-value-of-my-home-to-rise-while-my-property-taxes-fall/)**
+  *<p>Article URL: <a href="https://conversableeconomist.com/2026/09/28/i-would-like-the-value-of-my-home-to-rise-while-my-property-taxes-fall/">https://conversableeconomist.com/2026/09/28/i-would-like-t...*
+  📅 Sat, 10 Oct 2026 13:29:03 +0000
 
 ### 📑 TechCrunch
+
+- **[Cloudflare acquires Deno to improve its Workers programming model](https://techcrunch.com/2026/10/10/cloudflare-acquires-deno-to-improve-its-workers-programming-model/)**
+  *Cloudflare will use this acquisition to improve its Workers programming model and platform....*
+  📅 Sat, 10 Oct 2026 16:25:42 +0000
+
+- **[3 days to TechCrunch Disrupt 2026: Meet the startups before they hit mainstream](https://techcrunch.com/2026/10/10/3-days-to-disrupt-2026-meet-the-startups-before-they-hit-mainstream/)**
+  *TechCrunch Disrupt 2026 takes place October 13-15 in San Francisco. Over 300 startups will show what they’ve built to 10,000 tech leaders. Plus, 250+ speakers are ready to share insights across 200+ s...*
+  📅 Sat, 10 Oct 2026 15:00:00 +0000
+
+- **[Here are the top AI agents that can live in your text messages](https://techcrunch.com/2026/10/10/all-the-ai-agents-that-can-live-in-your-text-messages/)**
+  *We created a list of the most notable AI agents that can live in your text messages, from general assistants to agents designed for families, travel, and work....*
+  📅 Sat, 10 Oct 2026 14:00:00 +0000
 
 - **[Elon Musk intensifies attack on Ambani over Starlink India launch delay](https://techcrunch.com/2026/10/09/elon-musk-intensifies-attack-on-ambani-over-starlink-india-launch-delay/)**
   *Elon Musk has accused Indian billionaire Mukesh Ambani of blocking competition....*
@@ -90,31 +101,123 @@
   *Keychron made a name for itself after launching on Kickstarter in 2017. Today, it offers the value K2 model as well as a variety of other versions, including one with an all-wood body....*
   📅 Fri, 09 Oct 2026 22:08:24 +0000
 
-- **[The maker of non-text AI model Jev valued at $7.5B just weeks after launch](https://techcrunch.com/2026/10/09/the-maker-of-non-text-ai-model-jev-valued-at-7-5b-just-weeks-after-launch/)**
-  *What has users and large corporations so excited about Jev is TypeSafe’s claim that it works significantly faster and uses far fewer tokens than LLMs....*
-  📅 Fri, 09 Oct 2026 21:41:29 +0000
-
-- **[An Anthropic AI model sent a false homicide tip to Philadelphia police](https://techcrunch.com/2026/10/09/an-anthropic-ai-model-sent-a-false-homicide-tip-to-philadelphia-police/)**
-  *Anthropic did not discover this behavior until over two months after its AI submitted the false tip....*
-  📅 Fri, 09 Oct 2026 19:36:56 +0000
-
-- **[Batteries are now cheaper than natural gas turbines used at many data centers](https://techcrunch.com/2026/10/09/batteries-are-now-cheaper-than-natural-gas-turbines-used-at-many-data-centers/)**
-  *Batteries are now cheaper than natural gas turbines as the data center boom pushes prices up....*
-  📅 Fri, 09 Oct 2026 18:57:58 +0000
-
 ### 📑 Dev.to
 
-- **[Park a Migration Without Losing the Work](https://dev.to/jeremy_longshore/park-a-migration-without-losing-the-work-5443)**
-  *<p>A migration that ships by reaching the default branch with a green badge still has a second decision hidden inside it: do we point production at it today, in a week, or ever. When the build and the...*
-  📅 Sat, 10 Oct 2026 11:30:13 +0000
+- **[AI Won't Build Your House, But It Should Tell You What It'll Cost First](https://dev.to/yit2022/ai-wont-build-your-house-but-it-should-tell-you-what-itll-cost-first-59g1)**
+  *<p><em>Why the most expensive construction mistakes happen before ground is broken, and how we designed Jengafy to move decisions earlier</em></p>
 
-- **[Sell the Line, Not the Dots: What Strangers Actually Pay Solo Data Builders For](https://dev.to/yuhehe/sell-the-line-not-the-dots-what-strangers-actually-pay-solo-data-builders-for-14m0)**
-  *<p>A dataset is not a product. A decision you can make every morning without opening a laptop is a product. That distinction is the difference between the data marketplaces that exist and the ones tha...*
-  📅 Sat, 10 Oct 2026 11:29:44 +0000
+<p>There's a familiar story on building sites across...*
+  📅 Sat, 10 Oct 2026 16:28:09 +0000
+
+- **[Cite a Flake Freeze Only After the Fixture Digest Closes](https://dev.to/datacpp_8185/cite-a-flake-freeze-only-after-the-fixture-digest-closes-4obd)**
+  *<p>An agent patch may cite a flake freeze only after a binding record closes. The record ties three artifacts computed from the pull request tree: a property scope id, a fixture digest, and the hash o...*
+  📅 Sat, 10 Oct 2026 16:25:59 +0000
 
 </details>
 
 ## 🔥 Trending Repositories
+
+### 📈 Daily Trending
+
+- **[marclou/mailcheap](https://github.com/marclou/mailcheap)** ⭐ 220
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
+  Self-hosted newsletters on Amazon SES. About $0.10 per 1,000 emails.
+
+- **[c22dev/muguet](https://github.com/c22dev/muguet)** ⭐ 192
+  ![Rust](https://img.shields.io/badge/-Rust-brown)
+  A native Mach-O port for iOS/macOS of GTA V, with multiplayer
+
+- **[rociiu/talorys](https://github.com/rociiu/talorys)** ⭐ 160
+  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
+  Your personal AI agent in your own Cloudflare account. Chat, memory, tasks, notes and scheduled reminders, deployed with one command: npx create-talorys@latest. Free-tier friendly, single-user, no telemetry.
+
+- **[joeseesun/qiaomu-cover-fonts](https://github.com/joeseesun/qiaomu-cover-fonts)** ⭐ 87
+  ![None](https://img.shields.io/badge/-None-lightgrey)
+  乔木封面设计的默认开源字库：中文与英文 OFL 字体，子集化并附授权 · Default open-licence font library for Qiaomu Cover Design
+
+- **[eyalgolan/statecraft-israel](https://github.com/eyalgolan/statecraft-israel)** ⭐ 79
+  ![C#](https://img.shields.io/badge/-C#-lightgrey)
+  A Civilization-style strategy game about governing Israel from 15 May 1948. Real ministers, real map, every fact sourced. Unity + deterministic C# sim.
+
+- **[updatesanninconduit/WUWA-Menu-Undetected](https://github.com/updatesanninconduit/WUWA-Menu-Undetected)** ⭐ 61
+  ![None](https://img.shields.io/badge/-None-lightgrey)
+  Wuthering Waves Multihack
+
+- **[Shapefiupgrade/PUBG-Scripts-External-2026-UD](https://github.com/Shapefiupgrade/PUBG-Scripts-External-2026-UD)** ⭐ 61
+  ![None](https://img.shields.io/badge/-None-lightgrey)
+  A powerful private PUBG cheat featuring an advanced aimbot, full ESP for players and loot, and real-time radar. Enhance your gameplay with user-friendly settings and improved visibility options
+
+- **[dach6/ExaltHelper](https://github.com/dach6/ExaltHelper)** ⭐ 60
+  ![C#](https://img.shields.io/badge/-C#-lightgrey)
+  A C# Windows companion for Realm of the Mad God Exalt featuring real-time DPS tracking, player/party overlays, ability & loot logs, and gameplay utilities with updated combat calculation fixes.
+
+### 📈 Weekly Trending
+
+- **[openai/math](https://github.com/openai/math)** ⭐ 13,576
+  ![Lean](https://img.shields.io/badge/-Lean-lightgrey)
+  None
+
+- **[alchaincyf/huashu-art-motion](https://github.com/alchaincyf/huashu-art-motion)** ⭐ 3,160
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
+  艺术动画skill：35种艺术风格、9种解说语法，用代码让画动起来。
+
+- **[mhtsec/ARTEX](https://github.com/mhtsec/ARTEX)** ⭐ 2,851
+  ![Go](https://img.shields.io/badge/-Go-cyan)
+  AI 自主渗透测试系统 | 百度“agent+”攻防挑战赛冠军项目
+
+- **[storytold/wordcraft](https://github.com/storytold/wordcraft)** ⭐ 2,827
+  ![Rust](https://img.shields.io/badge/-Rust-brown)
+  An open-source, clean-room reimplementation of Microsoft Word in pure Rust
+
+- **[zhongerxin/iPhone-use](https://github.com/zhongerxin/iPhone-use)** ⭐ 2,498
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  让 Codex 通过 USB 操作真实 iPhone：引导安装、App 自动化、实时屏幕与截图回退。
+
+- **[nullmoth/nvidia-macos-driver](https://github.com/nullmoth/nvidia-macos-driver)** ⭐ 2,229
+  ![Rust](https://img.shields.io/badge/-Rust-brown)
+  Metal driver for NVIDIA GeForce RTX cards on macOS 15 Sequoia (Intel / OpenCore). Free, source included.
+
+- **[LosaLosSantos/aurelio-finance](https://github.com/LosaLosSantos/aurelio-finance)** ⭐ 1,873
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  Open-source personal finance app with an AI financial advisor: track your net worth, investments, ETFs, cash and debts on your own computer.
+
+- **[kargulstudio/sales-crm](https://github.com/kargulstudio/sales-crm)** ⭐ 1,685
+  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
+  None
+
+### 📈 Monthly Trending
+
+- **[storytold/photocraft](https://github.com/storytold/photocraft)** ⭐ 40,201
+  ![Rust](https://img.shields.io/badge/-Rust-brown)
+  An open-source, clean-room reimplementation of Adobe Photoshop in pure Rust
+
+- **[NandhaKishorM/laya](https://github.com/NandhaKishorM/laya)** ⭐ 32,116
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  Non-autoregressive System 1 decision engine. Typed choice, score and yes/no decisions over any text in a single forward pass, in 100+ languages, with a router that picks the right checkpoint per request.
+
+- **[browser-use/jev-ultrafast](https://github.com/browser-use/jev-ultrafast)** ⭐ 22,548
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  Fastest and cheapest web agent
+
+- **[Niko1221/Strata](https://github.com/Niko1221/Strata)** ⭐ 20,450
+  ![C++](https://img.shields.io/badge/-C++-pink)
+  Qwen3.8-Flash-Next on any consumer hardware: one-click install for Windows / Linux. Strata inference engine, OpenAI/Anthropic API on localhost, optional image input.
+
+- **[robbietilton/Compositor](https://github.com/robbietilton/Compositor)** ⭐ 15,373
+  ![Swift](https://img.shields.io/badge/-Swift-lightgrey)
+  The Photoshop alternative for Mac
+
+- **[openai/math](https://github.com/openai/math)** ⭐ 13,576
+  ![Lean](https://img.shields.io/badge/-Lean-lightgrey)
+  None
+
+- **[cdyforever/how-to-live-better](https://github.com/cdyforever/how-to-live-better)** ⭐ 10,911
+  ![HTML](https://img.shields.io/badge/-HTML-lightgrey)
+  《高性价比人生指南》全书 528 条的在线单页阅读版：手机可读、可搜索、零依赖、支持离线
+
+- **[shihabal3amri/DiPlay](https://github.com/shihabal3amri/DiPlay)** ⭐ 8,892
+  ![Kotlin](https://img.shields.io/badge/-Kotlin-lightgrey)
+  Independent CarPlay receiver for compatible Android head units. Wired and wireless public preview.
 
 ## 🚀 Latest Releases
 
@@ -382,59 +485,59 @@ See [kubernetes-announce@](https://groups.google.com/forum/#!forum/kubernetes-an
 
 | Skill | Status |
 |-------|--------|
-| Java | 🟡 Learning |
-| Python | ⚪ Planned |
-| JavaScript | ⚪ Planned |
-| TypeScript | ⚪ Planned |
-| Go | ⚪ Planned |
+| Java | 🟢 Proficient |
+| Python | 🟡 Learning |
+| JavaScript | 🟢 Proficient |
+| TypeScript | 🟡 Learning |
+| Go | 🟡 Learning |
 
 ### Frameworks
 
 | Skill | Status |
 |-------|--------|
 | React | 🔴 Beginner |
-| Spring Boot | 🟢 Proficient |
+| Spring Boot | ⚪ Planned |
 | Django | 🟢 Proficient |
-| Node.js | 🔴 Beginner |
+| Node.js | ⚪ Planned |
 | Next.js | 🟢 Proficient |
 
 ### Cybersecurity
 
 | Skill | Status |
 |-------|--------|
-| Penetration Testing | 🟡 Learning |
-| Web Security | ⚪ Planned |
-| Network Security | 🟡 Learning |
-| OWASP | 🔴 Beginner |
+| Penetration Testing | 🟢 Proficient |
+| Web Security | 🔴 Beginner |
+| Network Security | ⚪ Planned |
+| OWASP | 🟡 Learning |
 
 ### Ai Ml
 
 | Skill | Status |
 |-------|--------|
-| Machine Learning | 🟢 Proficient |
-| Deep Learning | 🟢 Proficient |
-| NLP | 🟢 Proficient |
-| Computer Vision | 🟡 Learning |
-| TensorFlow | 🟡 Learning |
-| PyTorch | 🟢 Proficient |
+| Machine Learning | 🔴 Beginner |
+| Deep Learning | ⚪ Planned |
+| NLP | 🔴 Beginner |
+| Computer Vision | ⚪ Planned |
+| TensorFlow | 🟢 Proficient |
+| PyTorch | ⚪ Planned |
 
 ### Devops
 
 | Skill | Status |
 |-------|--------|
-| Docker | 🟢 Proficient |
-| Kubernetes | ⚪ Planned |
-| CI/CD | 🔴 Beginner |
-| AWS | 🔴 Beginner |
-| Azure | 🔴 Beginner |
+| Docker | ⚪ Planned |
+| Kubernetes | 🟡 Learning |
+| CI/CD | ⚪ Planned |
+| AWS | ⚪ Planned |
+| Azure | 🟡 Learning |
 
 ### Other
 
 | Skill | Status |
 |-------|--------|
-| Blockchain | 🟡 Learning |
+| Blockchain | 🔴 Beginner |
 | Web3 | ⚪ Planned |
-| Cloud Computing | 🔴 Beginner |
+| Cloud Computing | 🟡 Learning |
 
 </details>
 
