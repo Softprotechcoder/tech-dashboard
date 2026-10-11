@@ -46,36 +46,53 @@
 
 ### 📑 Hacker News
 
-- **[The Corporate Happiness Treadmill and the Case for Doing Less](https://0xff.nu/corp-burnout/)**
-  *<p>Article URL: <a href="https://0xff.nu/corp-burnout/">https://0xff.nu/corp-burnout/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50044733">https://news.ycombinator.com/item...*
-  📅 Sun, 11 Oct 2026 16:06:02 +0000
+- **[Cartographers of North Korea](https://cartographers-nk.wonyoung.so/)**
+  *<p>Article URL: <a href="https://cartographers-nk.wonyoung.so/">https://cartographers-nk.wonyoung.so/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50047091">https://news.ycom...*
+  📅 Sun, 11 Oct 2026 19:46:40 +0000
 
-- **[How I reverse engineered a commercial spatial audio effect](http://epestr.com/blog/reverse-engineering-a-commercial-spatial-audio-effect/)**
-  *<p>Article URL: <a href="http://epestr.com/blog/reverse-engineering-a-commercial-spatial-audio-effect/">http://epestr.com/blog/reverse-engineering-a-commercial-spatial-audio-effect/</a></p>
-<p>Comment...*
-  📅 Sun, 11 Oct 2026 15:21:58 +0000
+- **[Artificial Insanity](https://richwhitehouse.com/index.php?postid=78)**
+  *<p>Article URL: <a href="https://richwhitehouse.com/index.php?postid=78">https://richwhitehouse.com/index.php?postid=78</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50047071"...*
+  📅 Sun, 11 Oct 2026 19:44:45 +0000
 
-- **[Documents Add to Evidence in Climate Deception Case Against ExxonMobil](https://insideclimatenews.org/news/07102026/exxonmobil-climate-deception-new-evidence/)**
-  *<p>Article URL: <a href="https://insideclimatenews.org/news/07102026/exxonmobil-climate-deception-new-evidence/">https://insideclimatenews.org/news/07102026/exxonmobil-climate-deception-new-evidence/<...*
-  📅 Sun, 11 Oct 2026 14:28:39 +0000
+- **[Be The Onion's Hero for Once](https://mailchi.mp/email.theonion.com/archivehunt)**
+  *<p>Article URL: <a href="https://mailchi.mp/email.theonion.com/archivehunt">https://mailchi.mp/email.theonion.com/archivehunt</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=500...*
+  📅 Sun, 11 Oct 2026 19:43:32 +0000
 
-- **[Why Texas Is Making Data Centers Wait](https://a16z.com/why-texas-is-making-data-centers-wait/)**
-  *<p>Article URL: <a href="https://a16z.com/why-texas-is-making-data-centers-wait/">https://a16z.com/why-texas-is-making-data-centers-wait/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com...*
-  📅 Sun, 11 Oct 2026 14:21:31 +0000
+- **[The Unreasonable Effectiveness of Vex in NixOS](https://blog.kammel.dev/post/nixos_vex/)**
+  *<p>Article URL: <a href="https://blog.kammel.dev/post/nixos_vex/">https://blog.kammel.dev/post/nixos_vex/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50046864">https://news....*
+  📅 Sun, 11 Oct 2026 19:23:07 +0000
 
-- **[Terence Tao: Math 2.0 [pdf]](https://teorth.github.io/tao-web/slides/math-2-0-caltech-2026.pdf)**
-  *<p>Article URL: <a href="https://teorth.github.io/tao-web/slides/math-2-0-caltech-2026.pdf">https://teorth.github.io/tao-web/slides/math-2-0-caltech-2026.pdf</a></p>
-<p>Comments URL: <a href="https://...*
-  📅 Sun, 11 Oct 2026 13:16:45 +0000
+- **[Chapter 1 of Ways of Seeing by John Berger](https://www.ways-of-seeing.com/ch1)**
+  *<p>Article URL: <a href="https://www.ways-of-seeing.com/ch1">https://www.ways-of-seeing.com/ch1</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50046241">https://news.ycombinato...*
+  📅 Sun, 11 Oct 2026 18:26:24 +0000
 
-- **[The tilde in your PATH may not be your HOME](https://disconnect3d.pl//2026/10/02/dont-put-tilde-in-your-path/)**
-  *<p>Article URL: <a href="https://disconnect3d.pl//2026/10/02/dont-put-tilde-in-your-path/">https://disconnect3d.pl//2026/10/02/dont-put-tilde-in-your-path/</a></p>
-<p>Comments URL: <a href="https://ne...*
-  📅 Sun, 11 Oct 2026 12:13:13 +0000
+- **[Total Annihilation, rebuilt for modern computers](https://nanolathe.gg)**
+  *<p>Article URL: <a href="https://nanolathe.gg">https://nanolathe.gg</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50045984">https://news.ycombinator.com/item?id=50045984</a></...*
+  📅 Sun, 11 Oct 2026 18:04:47 +0000
 
 ### 📑 TechCrunch
+
+- **[Will the HomeView be Apple’s first smart home success?](https://techcrunch.com/2026/10/11/will-the-homeview-be-apples-first-smart-home-success/)**
+  *Apple will announce a new smart home hub on Tuesday called the HomeView, according to Bloomberg’s Mark Gurman. Over the past couple of years, we’ve seen There have been multiple reports that Apple was...*
+  📅 Sun, 11 Oct 2026 21:14:40 +0000
+
+- **[Aaron Sorkin’s ‘Social Reckoning’ is off to a weak start](https://techcrunch.com/2026/10/11/aaron-sorkins-social-reckoning-is-off-to-a-weak-start/)**
+  *What does this mean for a fall full of movies starring villainous tech CEOs?...*
+  📅 Sun, 11 Oct 2026 20:51:47 +0000
+
+- **[48 hours to TechCrunch Disrupt 2026 — hear directly from the people building what’s next](https://techcrunch.com/2026/10/11/48-hours-to-techcrunch-disrupt-2026-hear-directly-from-the-people-building-whats-next/)**
+  *Less than 48 hours, TechCrunch Disrupt 2026 starts in San Francisco’s Moscone West. Save up to $100 on your pass before prices increase at the door, plus get 50% on a second pass. Or score other deals...*
+  📅 Sun, 11 Oct 2026 19:00:00 +0000
+
+- **[The investor’s guide to TechCrunch Disrupt 2026: Everything you need to know](https://techcrunch.com/2026/10/11/the-investors-guide-to-techcrunch-disrupt-2026-everything-you-need-to-know/)**
+  *Year after year, investors who've explored the Expo Halls, met founders, and learned from peers have proven why you need to be on the ground at Disrupt Oct. 13....*
+  📅 Sun, 11 Oct 2026 17:53:37 +0000
 
 - **[Can the AI industry persuade data center opponents by getting rid of NDAs?](https://techcrunch.com/2026/10/11/can-the-ai-industry-persuade-data-center-opponents-by-getting-rid-of-ndas/)**
   *On Equity, we debate the impact of data center moratoriums and whether the AI industry has a communication problem....*
@@ -85,40 +102,20 @@
   *Welcome back to TechCrunch Mobility, your hub for the future of transportation and now, more than ever, the role AI is playing in it....*
   📅 Sun, 11 Oct 2026 16:02:00 +0000
 
-- **[Dawn Myers is making it easier to style, detangle, and care for curly hair](https://techcrunch.com/2026/10/11/dawn-myers-is-making-it-easier-to-style-detangle-and-care-for-curly-hair/)**
-  *Richualist is one of TechCrunch's Battlefield 200 Companies!...*
-  📅 Sun, 11 Oct 2026 16:00:00 +0000
-
-- **[Efferon wants to eradicate the devastating toll of pediatric sepsis](https://techcrunch.com/2026/10/11/efferon-wants-to-eradicate-the-devastating-toll-of-pediatric-sepsis/)**
-  *This Battlefield 200 startup has developed blood-purification tech to save children...*
-  📅 Sun, 11 Oct 2026 15:00:00 +0000
-
-- **[What to know about the landmark Warner Bros. Discovery sale](https://techcrunch.com/2026/10/11/warner-bros-netflix-paramount-acquisition-timeline-wbd/)**
-  *Learn more about Paramount's planned acquisition of Warner Bros. Discovery — a historic Hollywood megadeal valued at $111 billion — as it continues to develop....*
-  📅 Sun, 11 Oct 2026 14:15:00 +0000
-
-- **[These execs think voice AI hasn’t reached its ChatGPT moment yet](https://techcrunch.com/2026/10/11/these-execs-think-voice-ai-hasnt-reached-its-chatgpt-moment-yet/)**
-  *Voice AI's often misses important points for its context layer, and causes the whole pipeline to break...*
-  📅 Sun, 11 Oct 2026 14:00:00 +0000
-
 ### 📑 Dev.to
 
-- **[🌿 WildSphere AI: Turning Open-Weight AI Into a Reason to Explore the Real World](https://dev.to/vanshika_tyagi_28131/wildsphere-ai-turning-open-weight-ai-into-a-reason-to-explore-the-real-world-3i5n)**
+- **[EarthLens : A Product Which Links You to Nature!](https://dev.to/devaansh_jaiswal_39d2764d/earthlens-a-product-which-links-you-to-nature-2lg)**
   *<p><em>This is a submission for the <a href="https://dev.to/challenges/hacktoberfest-week1-2026-10-05">Hacktoberfest Open-Source AI Challenge Week 1: Touch Grass</a></em></p>
 
 <h1>
   
   
-  🌿 WildSpher...*
-  📅 Sun, 11 Oct 2026 17:02:14 +0000
+  What I Buil...*
+  📅 Sun, 11 Oct 2026 21:14:13 +0000
 
-- **[5 Ways Your LLM App Fails a Red-Team Test (and How to Test for Them Safely)](https://dev.to/techsavant_lab/5-ways-your-llm-app-fails-a-red-team-test-and-how-to-test-for-them-safely-4nfl)**
-  *<p>Most teams test whether their chatbot answers <strong>well</strong>.</p>
-
-<p>Very few test what happens when someone tries to make it <strong>misbehave</strong>.</p>
-
-<p>I've red-teamed a fair numb...*
-  📅 Sun, 11 Oct 2026 17:01:35 +0000
+- **[How to Tune Retrieval Relevance for a Private Knowledge Manager: Source-Aware Staging](https://dev.to/prestoncole1111/how-to-tune-retrieval-relevance-for-a-private-knowledge-manager-source-aware-staging-2a00)**
+  *<p>Short answer: use staged retrieval with explicit collections, bounded queries, and traceable source context. For a customer-support knowledge-base bot, this usually improves relevance while keeping...*
+  📅 Sun, 11 Oct 2026 21:14:07 +0000
 
 </details>
 
@@ -126,105 +123,105 @@
 
 ### 📈 Daily Trending
 
-- **[chenwei810/Semiconductor_Manufacturing_Introduction](https://github.com/chenwei810/Semiconductor_Manufacturing_Introduction)** ⭐ 128
+- **[liseami/CCBaga](https://github.com/liseami/CCBaga)** ⭐ 143
+  ![Rust](https://img.shields.io/badge/-Rust-brown)
+  None
+
+- **[chenwei810/Semiconductor_Manufacturing_Introduction](https://github.com/chenwei810/Semiconductor_Manufacturing_Introduction)** ⭐ 141
   ![Python](https://img.shields.io/badge/-Python-blue)
   Introduction to Semiconductor Manufacturing
+
+- **[jwuthri-cloud/Tracely-ai](https://github.com/jwuthri-cloud/Tracely-ai)** ⭐ 113
+  ![None](https://img.shields.io/badge/-None-lightgrey)
+  None
+
+- **[hongboduan/awesome-embodied-agents](https://github.com/hongboduan/awesome-embodied-agents)** ⭐ 90
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  None
 
 - **[Sam-Hui-dot/mcd-budget-meal](https://github.com/Sam-Hui-dot/mcd-budget-meal)** ⭐ 71
   ![Python](https://img.shields.io/badge/-Python-blue)
   麦麦预算餐：基于麦当劳 MCP 的真实核价、预算比较与餐品替换 Skill
 
-- **[hongboduan/awesome-embodied-agents](https://github.com/hongboduan/awesome-embodied-agents)** ⭐ 67
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  None
+- **[jonesm688452/chatgpt-plus-daichong](https://github.com/jonesm688452/chatgpt-plus-daichong)** ⭐ 65
+  ![HTML](https://img.shields.io/badge/-HTML-lightgrey)
+  GPT 代充与 ChatGPT Plus 充值、国内购买指南：2026年支付宝付款、无海外卡开通及 Pro 5x / 20x 选择
 
-- **[CuteEthanLeo/MistSail](https://github.com/CuteEthanLeo/MistSail)** ⭐ 57
+- **[CuteEthanLeo/MistSail](https://github.com/CuteEthanLeo/MistSail)** ⭐ 64
   ![C#](https://img.shields.io/badge/-C#-lightgrey)
   雾帆 MistSail：基于 Sheas Cealer 1.1.4 的本地改版。一键在本机接管 TLS 握手（nginx 改写 SNI / 回环中继分片 ClientHello），无代理服务器。仅供抵御网络非法监听与网络安全研究。
 
-- **[PlatoonCobblerBarrow/Genshin-Impact-Menu-UD](https://github.com/PlatoonCobblerBarrow/Genshin-Impact-Menu-UD)** ⭐ 41
-  ![None](https://img.shields.io/badge/-None-lightgrey)
-  Best Software For Genshin Impact yet
-
-- **[csadigital/ai-writer](https://github.com/csadigital/ai-writer)** ⭐ 38
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
-  ✨ Multilingual AI product copy from images. Responsive writing studio, translation, accounts, credits and automatic setup with optional Docker MySQL.
-
-- **[artouc/stop-describing-ui](https://github.com/artouc/stop-describing-ui)** ⭐ 37
-  ![None](https://img.shields.io/badge/-None-lightgrey)
-  An agent skill that strips explanatory copy out of user interfaces.
-
-- **[wbr664393425-lgtm/scaffold-master](https://github.com/wbr664393425-lgtm/scaffold-master)** ⭐ 34
+- **[wbr664393425-lgtm/scaffold-master](https://github.com/wbr664393425-lgtm/scaffold-master)** ⭐ 58
   ![Vue](https://img.shields.io/badge/-Vue-lightgrey)
   Spring Boot + Vue 通用后台管理脚手架，提供认证、RBAC 与数据权限、组织管理、日志和代码生成骨架。
 
 ### 📈 Weekly Trending
 
-- **[openai/math](https://github.com/openai/math)** ⭐ 13,983
+- **[openai/math](https://github.com/openai/math)** ⭐ 14,032
   ![Lean](https://img.shields.io/badge/-Lean-lightgrey)
   None
 
-- **[storytold/wordcraft](https://github.com/storytold/wordcraft)** ⭐ 4,839
+- **[storytold/wordcraft](https://github.com/storytold/wordcraft)** ⭐ 5,532
   ![Rust](https://img.shields.io/badge/-Rust-brown)
   An open-source, clean-room reimplementation of Microsoft Word in pure Rust
 
-- **[alchaincyf/huashu-art-motion](https://github.com/alchaincyf/huashu-art-motion)** ⭐ 3,370
+- **[alchaincyf/huashu-art-motion](https://github.com/alchaincyf/huashu-art-motion)** ⭐ 3,377
   ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
   艺术动画skill：35种艺术风格、9种解说语法，用代码让画动起来。
 
-- **[mhtsec/ARTEX](https://github.com/mhtsec/ARTEX)** ⭐ 3,110
+- **[mhtsec/ARTEX](https://github.com/mhtsec/ARTEX)** ⭐ 3,132
   ![Go](https://img.shields.io/badge/-Go-cyan)
   AI 自主渗透测试系统 | 百度“agent+”攻防挑战赛冠军项目
 
-- **[zhongerxin/iPhone-use](https://github.com/zhongerxin/iPhone-use)** ⭐ 2,955
+- **[zhongerxin/iPhone-use](https://github.com/zhongerxin/iPhone-use)** ⭐ 3,005
   ![Python](https://img.shields.io/badge/-Python-blue)
   让 Codex 通过 USB 操作真实 iPhone：引导安装、App 自动化、实时屏幕与截图回退。
 
-- **[nullmoth/nvidia-macos-driver](https://github.com/nullmoth/nvidia-macos-driver)** ⭐ 2,497
-  ![Rust](https://img.shields.io/badge/-Rust-brown)
-  Metal driver for NVIDIA GeForce RTX cards on macOS 15 Sequoia (Intel / OpenCore). Free, source included.
+- **[wheresryan22/anatomy](https://github.com/wheresryan22/anatomy)** ⭐ 2,997
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
+  A Claude Code skill that turns a technical idea into a detailed, interactive isometric figure of a real machine. It makes SVG with optional WebGL shaders and 3D, for docs, articles and landing pages.
 
-- **[storytold/gridcraft](https://github.com/storytold/gridcraft)** ⭐ 2,489
+- **[storytold/gridcraft](https://github.com/storytold/gridcraft)** ⭐ 2,763
   ![Rust](https://img.shields.io/badge/-Rust-brown)
   GridCraft: an open-source, clean-room spreadsheet (Microsoft Excel-style) in pure Rust. By ArtCraft.
 
-- **[storytold/cadcraft](https://github.com/storytold/cadcraft)** ⭐ 2,380
+- **[storytold/cadcraft](https://github.com/storytold/cadcraft)** ⭐ 2,558
   ![Rust](https://img.shields.io/badge/-Rust-brown)
   CADCraft: computer-aided design and drafting — an open-source, clean-room AutoCAD-style app in pure Rust
 
 ### 📈 Monthly Trending
 
-- **[storytold/photocraft](https://github.com/storytold/photocraft)** ⭐ 46,040
+- **[storytold/photocraft](https://github.com/storytold/photocraft)** ⭐ 47,028
   ![Rust](https://img.shields.io/badge/-Rust-brown)
-  An open-source, clean-room reimplementation of Adobe Photoshop in pure Rust
+  PhotoCraft: An open-source, photo editor written by scratch in pure Rust
 
-- **[NandhaKishorM/laya](https://github.com/NandhaKishorM/laya)** ⭐ 32,298
+- **[NandhaKishorM/laya](https://github.com/NandhaKishorM/laya)** ⭐ 32,325
   ![Python](https://img.shields.io/badge/-Python-blue)
   Non-autoregressive System 1 decision engine. Typed choice, score and yes/no decisions over any text in a single forward pass, in 100+ languages, with a router that picks the right checkpoint per request.
 
-- **[browser-use/jev-ultrafast](https://github.com/browser-use/jev-ultrafast)** ⭐ 22,614
+- **[browser-use/jev-ultrafast](https://github.com/browser-use/jev-ultrafast)** ⭐ 22,621
   ![Python](https://img.shields.io/badge/-Python-blue)
   Fastest and cheapest web agent
 
-- **[Niko1221/Strata](https://github.com/Niko1221/Strata)** ⭐ 21,382
+- **[Niko1221/Strata](https://github.com/Niko1221/Strata)** ⭐ 21,510
   ![C++](https://img.shields.io/badge/-C++-pink)
   Qwen3.8-Flash-Next on any consumer hardware: one-click install for Windows / Linux. Strata inference engine, OpenAI/Anthropic API on localhost, optional image input.
 
-- **[robbietilton/Compositor](https://github.com/robbietilton/Compositor)** ⭐ 15,832
+- **[robbietilton/Compositor](https://github.com/robbietilton/Compositor)** ⭐ 15,871
   ![Swift](https://img.shields.io/badge/-Swift-lightgrey)
   The Photoshop alternative for Mac
 
-- **[openai/math](https://github.com/openai/math)** ⭐ 13,984
+- **[openai/math](https://github.com/openai/math)** ⭐ 14,032
   ![Lean](https://img.shields.io/badge/-Lean-lightgrey)
   None
 
-- **[cdyforever/how-to-live-better](https://github.com/cdyforever/how-to-live-better)** ⭐ 11,129
+- **[cdyforever/how-to-live-better](https://github.com/cdyforever/how-to-live-better)** ⭐ 11,133
   ![HTML](https://img.shields.io/badge/-HTML-lightgrey)
   《高性价比人生指南》全书 528 条的在线单页阅读版：手机可读、可搜索、零依赖、支持离线
 
-- **[storytold/lightcraft](https://github.com/storytold/lightcraft)** ⭐ 9,817
+- **[storytold/lightcraft](https://github.com/storytold/lightcraft)** ⭐ 10,053
   ![Rust](https://img.shields.io/badge/-Rust-brown)
-  An open-source, clean-room reimplementation of Adobe Lightroom in pure Rust.
+  LightCraft: An open-source non-destructive photo editor written by scratch in pure Rust
 
 ## 🚀 Latest Releases
 
@@ -492,59 +489,59 @@ See [kubernetes-announce@](https://groups.google.com/forum/#!forum/kubernetes-an
 
 | Skill | Status |
 |-------|--------|
-| Java | ⚪ Planned |
-| Python | 🟡 Learning |
-| JavaScript | 🟡 Learning |
-| TypeScript | ⚪ Planned |
+| Java | 🟡 Learning |
+| Python | 🟢 Proficient |
+| JavaScript | 🟢 Proficient |
+| TypeScript | 🟢 Proficient |
 | Go | 🟡 Learning |
 
 ### Frameworks
 
 | Skill | Status |
 |-------|--------|
-| React | ⚪ Planned |
-| Spring Boot | 🟢 Proficient |
-| Django | 🟡 Learning |
-| Node.js | 🔴 Beginner |
-| Next.js | 🟡 Learning |
+| React | 🟢 Proficient |
+| Spring Boot | ⚪ Planned |
+| Django | 🔴 Beginner |
+| Node.js | ⚪ Planned |
+| Next.js | 🔴 Beginner |
 
 ### Cybersecurity
 
 | Skill | Status |
 |-------|--------|
-| Penetration Testing | ⚪ Planned |
-| Web Security | 🟡 Learning |
+| Penetration Testing | 🟢 Proficient |
+| Web Security | 🟢 Proficient |
 | Network Security | 🔴 Beginner |
-| OWASP | ⚪ Planned |
+| OWASP | 🟢 Proficient |
 
 ### Ai Ml
 
 | Skill | Status |
 |-------|--------|
 | Machine Learning | 🟡 Learning |
-| Deep Learning | 🟡 Learning |
+| Deep Learning | 🟢 Proficient |
 | NLP | 🟡 Learning |
-| Computer Vision | 🟡 Learning |
-| TensorFlow | 🟢 Proficient |
-| PyTorch | ⚪ Planned |
+| Computer Vision | 🔴 Beginner |
+| TensorFlow | 🔴 Beginner |
+| PyTorch | 🔴 Beginner |
 
 ### Devops
 
 | Skill | Status |
 |-------|--------|
-| Docker | 🔴 Beginner |
-| Kubernetes | 🟡 Learning |
-| CI/CD | ⚪ Planned |
-| AWS | 🟢 Proficient |
-| Azure | 🔴 Beginner |
+| Docker | 🟡 Learning |
+| Kubernetes | ⚪ Planned |
+| CI/CD | 🟢 Proficient |
+| AWS | 🔴 Beginner |
+| Azure | ⚪ Planned |
 
 ### Other
 
 | Skill | Status |
 |-------|--------|
-| Blockchain | 🟡 Learning |
+| Blockchain | 🟢 Proficient |
 | Web3 | 🟢 Proficient |
-| Cloud Computing | 🟢 Proficient |
+| Cloud Computing | ⚪ Planned |
 
 </details>
 
