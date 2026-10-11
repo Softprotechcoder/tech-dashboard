@@ -46,76 +46,79 @@
 
 ### 📑 Hacker News
 
-- **[Nitter: Update Oct 10th seeking funding and legal help](https://nitter.net)**
-  *<p>Article URL: <a href="https://nitter.net">https://nitter.net</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50041682">https://news.ycombinator.com/item?id=50041682</a></p>
-<...*
-  📅 Sun, 11 Oct 2026 10:37:55 +0000
+- **[The Corporate Happiness Treadmill and the Case for Doing Less](https://0xff.nu/corp-burnout/)**
+  *<p>Article URL: <a href="https://0xff.nu/corp-burnout/">https://0xff.nu/corp-burnout/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50044733">https://news.ycombinator.com/item...*
+  📅 Sun, 11 Oct 2026 16:06:02 +0000
 
-- **["Robot" Is a Social Construct: Why Your Dishwasher Is Not a Robot](https://robotgirlgang.com/2026/10/08/robot-is-a-social-construct-why-your-dishwasher-is-not-a-robot/)**
-  *<p>Article URL: <a href="https://robotgirlgang.com/2026/10/08/robot-is-a-social-construct-why-your-dishwasher-is-not-a-robot/">https://robotgirlgang.com/2026/10/08/robot-is-a-social-construct-why-your...*
-  📅 Sun, 11 Oct 2026 10:34:43 +0000
+- **[How I reverse engineered a commercial spatial audio effect](http://epestr.com/blog/reverse-engineering-a-commercial-spatial-audio-effect/)**
+  *<p>Article URL: <a href="http://epestr.com/blog/reverse-engineering-a-commercial-spatial-audio-effect/">http://epestr.com/blog/reverse-engineering-a-commercial-spatial-audio-effect/</a></p>
+<p>Comment...*
+  📅 Sun, 11 Oct 2026 15:21:58 +0000
 
-- **[Sudden drop in Cloudflare bot traffic after strike on Yandex datacenter](https://radar.cloudflare.com/bots/as13238?dateRange=7d)**
-  *<p>Article URL: <a href="https://radar.cloudflare.com/bots/as13238?dateRange=7d">https://radar.cloudflare.com/bots/as13238?dateRange=7d</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/i...*
-  📅 Sun, 11 Oct 2026 10:27:53 +0000
+- **[Documents Add to Evidence in Climate Deception Case Against ExxonMobil](https://insideclimatenews.org/news/07102026/exxonmobil-climate-deception-new-evidence/)**
+  *<p>Article URL: <a href="https://insideclimatenews.org/news/07102026/exxonmobil-climate-deception-new-evidence/">https://insideclimatenews.org/news/07102026/exxonmobil-climate-deception-new-evidence/<...*
+  📅 Sun, 11 Oct 2026 14:28:39 +0000
 
-- **[IRCv3](https://ircv3.net/)**
-  *<p>Article URL: <a href="https://ircv3.net/">https://ircv3.net/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50041540">https://news.ycombinator.com/item?id=50041540</a></p>
-<...*
-  📅 Sun, 11 Oct 2026 10:11:27 +0000
+- **[Why Texas Is Making Data Centers Wait](https://a16z.com/why-texas-is-making-data-centers-wait/)**
+  *<p>Article URL: <a href="https://a16z.com/why-texas-is-making-data-centers-wait/">https://a16z.com/why-texas-is-making-data-centers-wait/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com...*
+  📅 Sun, 11 Oct 2026 14:21:31 +0000
 
-- **[I wish you the best in the Offline](https://daverupert.com/2026/09/i-wish-you-the-best-in-the-offline/)**
-  *<p>Article URL: <a href="https://daverupert.com/2026/09/i-wish-you-the-best-in-the-offline/">https://daverupert.com/2026/09/i-wish-you-the-best-in-the-offline/</a></p>
-<p>Comments URL: <a href="https:...*
-  📅 Sun, 11 Oct 2026 07:53:42 +0000
+- **[Terence Tao: Math 2.0 [pdf]](https://teorth.github.io/tao-web/slides/math-2-0-caltech-2026.pdf)**
+  *<p>Article URL: <a href="https://teorth.github.io/tao-web/slides/math-2-0-caltech-2026.pdf">https://teorth.github.io/tao-web/slides/math-2-0-caltech-2026.pdf</a></p>
+<p>Comments URL: <a href="https://...*
+  📅 Sun, 11 Oct 2026 13:16:45 +0000
 
-- **[3rd Yandex Cloud Data Center Was Hit](https://status.yandex.cloud/en/incidents/2136)**
-  *<p>Article URL: <a href="https://status.yandex.cloud/en/incidents/2136">https://status.yandex.cloud/en/incidents/2136</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50040547">h...*
-  📅 Sun, 11 Oct 2026 07:34:45 +0000
+- **[The tilde in your PATH may not be your HOME](https://disconnect3d.pl//2026/10/02/dont-put-tilde-in-your-path/)**
+  *<p>Article URL: <a href="https://disconnect3d.pl//2026/10/02/dont-put-tilde-in-your-path/">https://disconnect3d.pl//2026/10/02/dont-put-tilde-in-your-path/</a></p>
+<p>Comments URL: <a href="https://ne...*
+  📅 Sun, 11 Oct 2026 12:13:13 +0000
 
 ### 📑 TechCrunch
 
-- **[Microsoft’s Satya Nadella says AI models need an ‘emergency brake’](https://techcrunch.com/2026/10/10/microsofts-satya-nadella-says-ai-models-need-an-emergency-brake/)**
-  *In a Saturday morning post, Microsoft's CEO wrote that it’s time “to step back and assess the trust architecture” of AI....*
-  📅 Sat, 10 Oct 2026 21:47:51 +0000
+- **[Can the AI industry persuade data center opponents by getting rid of NDAs?](https://techcrunch.com/2026/10/11/can-the-ai-industry-persuade-data-center-opponents-by-getting-rid-of-ndas/)**
+  *On Equity, we debate the impact of data center moratoriums and whether the AI industry has a communication problem....*
+  📅 Sun, 11 Oct 2026 16:52:33 +0000
 
-- **[Apple discloses deal to hire team and license tech from personalized podcast startup Huxe](https://techcrunch.com/2026/10/10/apple-discloses-deal-to-hire-team-and-license-tech-from-personalized-podcast-startup-huxe/)**
-  *Is Apple hoping to get into the AI-generated podcast business?...*
-  📅 Sat, 10 Oct 2026 19:50:00 +0000
+- **[TechCrunch Mobility: A roadblock clears for self-driving trucks](https://techcrunch.com/2026/10/11/techcrunch-mobility-a-roadblock-clears-for-self-driving-trucks/)**
+  *Welcome back to TechCrunch Mobility, your hub for the future of transportation and now, more than ever, the role AI is playing in it....*
+  📅 Sun, 11 Oct 2026 16:02:00 +0000
 
-- **[Petra Power looks to modernize energy for data centers and defense vehicles](https://techcrunch.com/2026/10/10/petra-power-looks-to-modernize-energy-for-data-centers-and-defense-vehicles/)**
-  *The startup says its fuel cells are super efficient and cut fuel costs during a time when the tech industry can’t get enough electricity....*
-  📅 Sat, 10 Oct 2026 17:00:00 +0000
+- **[Dawn Myers is making it easier to style, detangle, and care for curly hair](https://techcrunch.com/2026/10/11/dawn-myers-is-making-it-easier-to-style-detangle-and-care-for-curly-hair/)**
+  *Richualist is one of TechCrunch's Battlefield 200 Companies!...*
+  📅 Sun, 11 Oct 2026 16:00:00 +0000
 
-- **[Cloudflare acquires Deno to improve its Workers programming model](https://techcrunch.com/2026/10/10/cloudflare-acquires-deno-to-improve-its-workers-programming-model/)**
-  *Cloudflare will use this acquisition to improve its Workers programming model and platform....*
-  📅 Sat, 10 Oct 2026 16:25:42 +0000
+- **[Efferon wants to eradicate the devastating toll of pediatric sepsis](https://techcrunch.com/2026/10/11/efferon-wants-to-eradicate-the-devastating-toll-of-pediatric-sepsis/)**
+  *This Battlefield 200 startup has developed blood-purification tech to save children...*
+  📅 Sun, 11 Oct 2026 15:00:00 +0000
 
-- **[3 days to TechCrunch Disrupt 2026: Meet the startups before they hit mainstream](https://techcrunch.com/2026/10/10/3-days-to-disrupt-2026-meet-the-startups-before-they-hit-mainstream/)**
-  *TechCrunch Disrupt 2026 takes place October 13-15 in San Francisco. Over 300 startups will show what they’ve built to 10,000 tech leaders. Plus, 250+ speakers are ready to share insights across 200+ s...*
-  📅 Sat, 10 Oct 2026 15:00:00 +0000
+- **[What to know about the landmark Warner Bros. Discovery sale](https://techcrunch.com/2026/10/11/warner-bros-netflix-paramount-acquisition-timeline-wbd/)**
+  *Learn more about Paramount's planned acquisition of Warner Bros. Discovery — a historic Hollywood megadeal valued at $111 billion — as it continues to develop....*
+  📅 Sun, 11 Oct 2026 14:15:00 +0000
 
-- **[Here are the top AI agents that can live in your text messages](https://techcrunch.com/2026/10/10/all-the-ai-agents-that-can-live-in-your-text-messages/)**
-  *We created a list of the most notable AI agents that can live in your text messages, from general assistants to agents designed for families, travel, and work....*
-  📅 Sat, 10 Oct 2026 14:00:00 +0000
+- **[These execs think voice AI hasn’t reached its ChatGPT moment yet](https://techcrunch.com/2026/10/11/these-execs-think-voice-ai-hasnt-reached-its-chatgpt-moment-yet/)**
+  *Voice AI's often misses important points for its context layer, and causes the whole pipeline to break...*
+  📅 Sun, 11 Oct 2026 14:00:00 +0000
 
 ### 📑 Dev.to
 
-- **[A refactor without tests is a rewrite](https://dev.to/hayatibis/a-refactor-without-tests-is-a-rewrite-4jpp)**
-  *<p><em>Originally published on <a href="https://hayatibis.dev/writing/a-refactor-without-tests-is-a-rewrite" rel="noopener noreferrer">hayatibis.dev</a>, where the figures move and the toys are intera...*
-  📅 Sun, 11 Oct 2026 11:48:40 +0000
+- **[🌿 WildSphere AI: Turning Open-Weight AI Into a Reason to Explore the Real World](https://dev.to/vanshika_tyagi_28131/wildsphere-ai-turning-open-weight-ai-into-a-reason-to-explore-the-real-world-3i5n)**
+  *<p><em>This is a submission for the <a href="https://dev.to/challenges/hacktoberfest-week1-2026-10-05">Hacktoberfest Open-Source AI Challenge Week 1: Touch Grass</a></em></p>
 
-- **[AI Animation From Idea to Film: Eight Small Jobs Instead of One Impossible Prompt](https://dev.to/dalirnet/ai-animation-from-idea-to-film-eight-small-jobs-instead-of-one-impossible-prompt-4p1b)**
-  *<p>You type one prompt. "A man wakes up, walks to the window, and looks at the city. Anime style." You press enter.</p>
+<h1>
+  
+  
+  🌿 WildSpher...*
+  📅 Sun, 11 Oct 2026 17:02:14 +0000
 
-<p>And you get a video. A real one. For a moment it feels like magic.</p>
+- **[5 Ways Your LLM App Fails a Red-Team Test (and How to Test for Them Safely)](https://dev.to/techsavant_lab/5-ways-your-llm-app-fails-a-red-team-test-and-how-to-test-for-them-safely-4nfl)**
+  *<p>Most teams test whether their chatbot answers <strong>well</strong>.</p>
 
-<p>T...*
-  📅 Sun, 11 Oct 2026 11:47:50 +0000
+<p>Very few test what happens when someone tries to make it <strong>misbehave</strong>.</p>
+
+<p>I've red-teamed a fair numb...*
+  📅 Sun, 11 Oct 2026 17:01:35 +0000
 
 </details>
 
@@ -123,103 +126,103 @@
 
 ### 📈 Daily Trending
 
-- **[liliy886/workbuddy-google-account](https://github.com/liliy886/workbuddy-google-account)** ⭐ 109
-  ![HTML](https://img.shields.io/badge/-HTML-lightgrey)
-  2 毛注册一个 WorkBuddy 账号——用谷歌企业邮箱（Google Workspace）登录，比香港手机号接码便宜 60-75%。workbuddy批量注册、workbuddy中转站供货、腾讯AI客户端账号、接码替代方案。每日上新 1 万+，24 小时自助发货，一个起卖，8 年老站包售后。
-
-- **[chenwei810/Semiconductor_Manufacturing_Introduction](https://github.com/chenwei810/Semiconductor_Manufacturing_Introduction)** ⭐ 80
+- **[chenwei810/Semiconductor_Manufacturing_Introduction](https://github.com/chenwei810/Semiconductor_Manufacturing_Introduction)** ⭐ 128
   ![Python](https://img.shields.io/badge/-Python-blue)
   Introduction to Semiconductor Manufacturing
 
-- **[Sam-Hui-dot/mcd-budget-meal](https://github.com/Sam-Hui-dot/mcd-budget-meal)** ⭐ 70
+- **[Sam-Hui-dot/mcd-budget-meal](https://github.com/Sam-Hui-dot/mcd-budget-meal)** ⭐ 71
   ![Python](https://img.shields.io/badge/-Python-blue)
   麦麦预算餐：基于麦当劳 MCP 的真实核价、预算比较与餐品替换 Skill
 
-- **[csadigital/ai-writer](https://github.com/csadigital/ai-writer)** ⭐ 32
+- **[hongboduan/awesome-embodied-agents](https://github.com/hongboduan/awesome-embodied-agents)** ⭐ 67
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  None
+
+- **[CuteEthanLeo/MistSail](https://github.com/CuteEthanLeo/MistSail)** ⭐ 57
+  ![C#](https://img.shields.io/badge/-C#-lightgrey)
+  雾帆 MistSail：基于 Sheas Cealer 1.1.4 的本地改版。一键在本机接管 TLS 握手（nginx 改写 SNI / 回环中继分片 ClientHello），无代理服务器。仅供抵御网络非法监听与网络安全研究。
+
+- **[PlatoonCobblerBarrow/Genshin-Impact-Menu-UD](https://github.com/PlatoonCobblerBarrow/Genshin-Impact-Menu-UD)** ⭐ 41
+  ![None](https://img.shields.io/badge/-None-lightgrey)
+  Best Software For Genshin Impact yet
+
+- **[csadigital/ai-writer](https://github.com/csadigital/ai-writer)** ⭐ 38
   ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
   ✨ Multilingual AI product copy from images. Responsive writing studio, translation, accounts, credits and automatic setup with optional Docker MySQL.
 
-- **[Blacktramagnify/rvc](https://github.com/Blacktramagnify/rvc)** ⭐ 20
-  ![HTML](https://img.shields.io/badge/-HTML-lightgrey)
-  🎯 ARC-Raiders-Cheats 🎯 
-
-- **[artouc/stop-describing-ui](https://github.com/artouc/stop-describing-ui)** ⭐ 18
+- **[artouc/stop-describing-ui](https://github.com/artouc/stop-describing-ui)** ⭐ 37
   ![None](https://img.shields.io/badge/-None-lightgrey)
   An agent skill that strips explanatory copy out of user interfaces.
 
-- **[final-bench/quantum-bench-harness](https://github.com/final-bench/quantum-bench-harness)** ⭐ 15
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  Open Quantum Challenge (OQC) - open evaluation harness + frozen problems for the FINAL-Bench Quantum leaderboard
-
-- **[dhirpajr666/RxWeather](https://github.com/dhirpajr666/RxWeather)** ⭐ 12
-  ![None](https://img.shields.io/badge/-None-lightgrey)
-  Personal pet project aimed to get familiar with the following android specific frameworks/libraries/tools: AndroidRx, RxJava, Dagger2, RetroLambda, Retrofit2
+- **[wbr664393425-lgtm/scaffold-master](https://github.com/wbr664393425-lgtm/scaffold-master)** ⭐ 34
+  ![Vue](https://img.shields.io/badge/-Vue-lightgrey)
+  Spring Boot + Vue 通用后台管理脚手架，提供认证、RBAC 与数据权限、组织管理、日志和代码生成骨架。
 
 ### 📈 Weekly Trending
 
-- **[openai/math](https://github.com/openai/math)** ⭐ 13,878
+- **[openai/math](https://github.com/openai/math)** ⭐ 13,983
   ![Lean](https://img.shields.io/badge/-Lean-lightgrey)
   None
 
-- **[storytold/wordcraft](https://github.com/storytold/wordcraft)** ⭐ 3,939
+- **[storytold/wordcraft](https://github.com/storytold/wordcraft)** ⭐ 4,839
   ![Rust](https://img.shields.io/badge/-Rust-brown)
   An open-source, clean-room reimplementation of Microsoft Word in pure Rust
 
-- **[alchaincyf/huashu-art-motion](https://github.com/alchaincyf/huashu-art-motion)** ⭐ 3,320
+- **[alchaincyf/huashu-art-motion](https://github.com/alchaincyf/huashu-art-motion)** ⭐ 3,370
   ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
   艺术动画skill：35种艺术风格、9种解说语法，用代码让画动起来。
 
-- **[mhtsec/ARTEX](https://github.com/mhtsec/ARTEX)** ⭐ 3,049
+- **[mhtsec/ARTEX](https://github.com/mhtsec/ARTEX)** ⭐ 3,110
   ![Go](https://img.shields.io/badge/-Go-cyan)
   AI 自主渗透测试系统 | 百度“agent+”攻防挑战赛冠军项目
 
-- **[zhongerxin/iPhone-use](https://github.com/zhongerxin/iPhone-use)** ⭐ 2,811
+- **[zhongerxin/iPhone-use](https://github.com/zhongerxin/iPhone-use)** ⭐ 2,955
   ![Python](https://img.shields.io/badge/-Python-blue)
   让 Codex 通过 USB 操作真实 iPhone：引导安装、App 自动化、实时屏幕与截图回退。
 
-- **[nullmoth/nvidia-macos-driver](https://github.com/nullmoth/nvidia-macos-driver)** ⭐ 2,424
+- **[nullmoth/nvidia-macos-driver](https://github.com/nullmoth/nvidia-macos-driver)** ⭐ 2,497
   ![Rust](https://img.shields.io/badge/-Rust-brown)
   Metal driver for NVIDIA GeForce RTX cards on macOS 15 Sequoia (Intel / OpenCore). Free, source included.
 
-- **[storytold/cadcraft](https://github.com/storytold/cadcraft)** ⭐ 2,161
-  ![Rust](https://img.shields.io/badge/-Rust-brown)
-  CADCraft: computer-aided design and drafting — an open-source, clean-room AutoCAD-style app in pure Rust
-
-- **[storytold/gridcraft](https://github.com/storytold/gridcraft)** ⭐ 2,155
+- **[storytold/gridcraft](https://github.com/storytold/gridcraft)** ⭐ 2,489
   ![Rust](https://img.shields.io/badge/-Rust-brown)
   GridCraft: an open-source, clean-room spreadsheet (Microsoft Excel-style) in pure Rust. By ArtCraft.
 
+- **[storytold/cadcraft](https://github.com/storytold/cadcraft)** ⭐ 2,380
+  ![Rust](https://img.shields.io/badge/-Rust-brown)
+  CADCraft: computer-aided design and drafting — an open-source, clean-room AutoCAD-style app in pure Rust
+
 ### 📈 Monthly Trending
 
-- **[storytold/photocraft](https://github.com/storytold/photocraft)** ⭐ 44,594
+- **[storytold/photocraft](https://github.com/storytold/photocraft)** ⭐ 46,040
   ![Rust](https://img.shields.io/badge/-Rust-brown)
   An open-source, clean-room reimplementation of Adobe Photoshop in pure Rust
 
-- **[NandhaKishorM/laya](https://github.com/NandhaKishorM/laya)** ⭐ 32,236
+- **[NandhaKishorM/laya](https://github.com/NandhaKishorM/laya)** ⭐ 32,298
   ![Python](https://img.shields.io/badge/-Python-blue)
   Non-autoregressive System 1 decision engine. Typed choice, score and yes/no decisions over any text in a single forward pass, in 100+ languages, with a router that picks the right checkpoint per request.
 
-- **[browser-use/jev-ultrafast](https://github.com/browser-use/jev-ultrafast)** ⭐ 22,589
+- **[browser-use/jev-ultrafast](https://github.com/browser-use/jev-ultrafast)** ⭐ 22,614
   ![Python](https://img.shields.io/badge/-Python-blue)
   Fastest and cheapest web agent
 
-- **[Niko1221/Strata](https://github.com/Niko1221/Strata)** ⭐ 21,120
+- **[Niko1221/Strata](https://github.com/Niko1221/Strata)** ⭐ 21,382
   ![C++](https://img.shields.io/badge/-C++-pink)
   Qwen3.8-Flash-Next on any consumer hardware: one-click install for Windows / Linux. Strata inference engine, OpenAI/Anthropic API on localhost, optional image input.
 
-- **[robbietilton/Compositor](https://github.com/robbietilton/Compositor)** ⭐ 15,716
+- **[robbietilton/Compositor](https://github.com/robbietilton/Compositor)** ⭐ 15,832
   ![Swift](https://img.shields.io/badge/-Swift-lightgrey)
   The Photoshop alternative for Mac
 
-- **[openai/math](https://github.com/openai/math)** ⭐ 13,878
+- **[openai/math](https://github.com/openai/math)** ⭐ 13,984
   ![Lean](https://img.shields.io/badge/-Lean-lightgrey)
   None
 
-- **[cdyforever/how-to-live-better](https://github.com/cdyforever/how-to-live-better)** ⭐ 11,051
+- **[cdyforever/how-to-live-better](https://github.com/cdyforever/how-to-live-better)** ⭐ 11,129
   ![HTML](https://img.shields.io/badge/-HTML-lightgrey)
   《高性价比人生指南》全书 528 条的在线单页阅读版：手机可读、可搜索、零依赖、支持离线
 
-- **[storytold/lightcraft](https://github.com/storytold/lightcraft)** ⭐ 9,495
+- **[storytold/lightcraft](https://github.com/storytold/lightcraft)** ⭐ 9,817
   ![Rust](https://img.shields.io/badge/-Rust-brown)
   An open-source, clean-room reimplementation of Adobe Lightroom in pure Rust.
 
@@ -489,49 +492,49 @@ See [kubernetes-announce@](https://groups.google.com/forum/#!forum/kubernetes-an
 
 | Skill | Status |
 |-------|--------|
-| Java | 🟡 Learning |
-| Python | 🟢 Proficient |
-| JavaScript | 🟢 Proficient |
+| Java | ⚪ Planned |
+| Python | 🟡 Learning |
+| JavaScript | 🟡 Learning |
 | TypeScript | ⚪ Planned |
-| Go | 🟢 Proficient |
+| Go | 🟡 Learning |
 
 ### Frameworks
 
 | Skill | Status |
 |-------|--------|
 | React | ⚪ Planned |
-| Spring Boot | 🔴 Beginner |
-| Django | 🔴 Beginner |
-| Node.js | 🟢 Proficient |
+| Spring Boot | 🟢 Proficient |
+| Django | 🟡 Learning |
+| Node.js | 🔴 Beginner |
 | Next.js | 🟡 Learning |
 
 ### Cybersecurity
 
 | Skill | Status |
 |-------|--------|
-| Penetration Testing | 🟢 Proficient |
+| Penetration Testing | ⚪ Planned |
 | Web Security | 🟡 Learning |
-| Network Security | ⚪ Planned |
-| OWASP | 🔴 Beginner |
+| Network Security | 🔴 Beginner |
+| OWASP | ⚪ Planned |
 
 ### Ai Ml
 
 | Skill | Status |
 |-------|--------|
-| Machine Learning | 🟢 Proficient |
-| Deep Learning | 🟢 Proficient |
+| Machine Learning | 🟡 Learning |
+| Deep Learning | 🟡 Learning |
 | NLP | 🟡 Learning |
-| Computer Vision | 🔴 Beginner |
-| TensorFlow | 🟡 Learning |
-| PyTorch | 🔴 Beginner |
+| Computer Vision | 🟡 Learning |
+| TensorFlow | 🟢 Proficient |
+| PyTorch | ⚪ Planned |
 
 ### Devops
 
 | Skill | Status |
 |-------|--------|
-| Docker | 🟢 Proficient |
-| Kubernetes | 🔴 Beginner |
-| CI/CD | 🟢 Proficient |
+| Docker | 🔴 Beginner |
+| Kubernetes | 🟡 Learning |
+| CI/CD | ⚪ Planned |
 | AWS | 🟢 Proficient |
 | Azure | 🔴 Beginner |
 
@@ -539,9 +542,9 @@ See [kubernetes-announce@](https://groups.google.com/forum/#!forum/kubernetes-an
 
 | Skill | Status |
 |-------|--------|
-| Blockchain | ⚪ Planned |
-| Web3 | 🟡 Learning |
-| Cloud Computing | 🟡 Learning |
+| Blockchain | 🟡 Learning |
+| Web3 | 🟢 Proficient |
+| Cloud Computing | 🟢 Proficient |
 
 </details>
 
