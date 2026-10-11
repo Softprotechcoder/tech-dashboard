@@ -20,7 +20,7 @@
 | Metric | Count |
 |--------|-------|
 | 📰 Latest News Articles | 26 |
-| 🔥 Trending Repositories | 0 |
+| 🔥 Trending Repositories | 45 |
 | 🎯 Latest Releases | 10 |
 | 🎯 Learning Goals | 4 |
 
@@ -46,34 +46,36 @@
 
 ### 📑 Hacker News
 
-- **[500B Tokens Later: Letting AI Agents Decompile a First-Person Shooter](https://momo5502.com/posts/2026-10-09-game-decompilation/)**
-  *<p>Article URL: <a href="https://momo5502.com/posts/2026-10-09-game-decompilation/">https://momo5502.com/posts/2026-10-09-game-decompilation/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator...*
-  📅 Sun, 11 Oct 2026 02:02:38 +0000
+- **[Nitter: Update Oct 10th seeking funding and legal help](https://nitter.net)**
+  *<p>Article URL: <a href="https://nitter.net">https://nitter.net</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50041682">https://news.ycombinator.com/item?id=50041682</a></p>
+<...*
+  📅 Sun, 11 Oct 2026 10:37:55 +0000
 
-- **[Anthropic asks users to stop being mean to Claude](https://www.theregister.com/ai-and-ml/2026/10/09/anthropic-asks-users-to-stop-being-mean-to-claude/5302218)**
-  *<p>Article URL: <a href="https://www.theregister.com/ai-and-ml/2026/10/09/anthropic-asks-users-to-stop-being-mean-to-claude/5302218">https://www.theregister.com/ai-and-ml/2026/10/09/anthropic-asks-use...*
-  📅 Sun, 11 Oct 2026 01:17:22 +0000
+- **["Robot" Is a Social Construct: Why Your Dishwasher Is Not a Robot](https://robotgirlgang.com/2026/10/08/robot-is-a-social-construct-why-your-dishwasher-is-not-a-robot/)**
+  *<p>Article URL: <a href="https://robotgirlgang.com/2026/10/08/robot-is-a-social-construct-why-your-dishwasher-is-not-a-robot/">https://robotgirlgang.com/2026/10/08/robot-is-a-social-construct-why-your...*
+  📅 Sun, 11 Oct 2026 10:34:43 +0000
 
-- **[WallHop – 12ft.io is gone, so I built a replacement](https://wallhop.io/)**
-  *<p>Article URL: <a href="https://wallhop.io/">https://wallhop.io/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50038634">https://news.ycombinator.com/item?id=50038634</a></p>...*
-  📅 Sun, 11 Oct 2026 00:46:48 +0000
+- **[Sudden drop in Cloudflare bot traffic after strike on Yandex datacenter](https://radar.cloudflare.com/bots/as13238?dateRange=7d)**
+  *<p>Article URL: <a href="https://radar.cloudflare.com/bots/as13238?dateRange=7d">https://radar.cloudflare.com/bots/as13238?dateRange=7d</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/i...*
+  📅 Sun, 11 Oct 2026 10:27:53 +0000
 
-- **[PSPi 6 – Raspberry Pi in a PSP](https://github.com/othermod/PSPi-Version-6)**
-  *<p>Article URL: <a href="https://github.com/othermod/PSPi-Version-6">https://github.com/othermod/PSPi-Version-6</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50038623">https:/...*
-  📅 Sun, 11 Oct 2026 00:45:49 +0000
+- **[IRCv3](https://ircv3.net/)**
+  *<p>Article URL: <a href="https://ircv3.net/">https://ircv3.net/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50041540">https://news.ycombinator.com/item?id=50041540</a></p>
+<...*
+  📅 Sun, 11 Oct 2026 10:11:27 +0000
 
-- **[Veda: The First Agentic Hobby Operating System](https://github.com/vahmoh25/Veda)**
-  *<p>Article URL: <a href="https://github.com/vahmoh25/Veda">https://github.com/vahmoh25/Veda</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50038473">https://news.ycombinator.co...*
-  📅 Sun, 11 Oct 2026 00:22:33 +0000
+- **[I wish you the best in the Offline](https://daverupert.com/2026/09/i-wish-you-the-best-in-the-offline/)**
+  *<p>Article URL: <a href="https://daverupert.com/2026/09/i-wish-you-the-best-in-the-offline/">https://daverupert.com/2026/09/i-wish-you-the-best-in-the-offline/</a></p>
+<p>Comments URL: <a href="https:...*
+  📅 Sun, 11 Oct 2026 07:53:42 +0000
 
-- **[Build your own decision model](https://nishtahir.com/build-your-own-decision-model/)**
-  *<p>Article URL: <a href="https://nishtahir.com/build-your-own-decision-model/">https://nishtahir.com/build-your-own-decision-model/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?...*
-  📅 Sat, 10 Oct 2026 22:50:10 +0000
+- **[3rd Yandex Cloud Data Center Was Hit](https://status.yandex.cloud/en/incidents/2136)**
+  *<p>Article URL: <a href="https://status.yandex.cloud/en/incidents/2136">https://status.yandex.cloud/en/incidents/2136</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50040547">h...*
+  📅 Sun, 11 Oct 2026 07:34:45 +0000
 
 ### 📑 TechCrunch
 
@@ -103,24 +105,123 @@
 
 ### 📑 Dev.to
 
-- **[LORE WALK: I built an app that wants you to put it away](https://dev.to/pentadank/lore-walk-i-built-an-app-that-wants-you-to-put-it-away-2d7c)**
-  *<p><em>This is a submission for the <a href="https://dev.to/challenges/hacktoberfest-week1-2026-10-05">Hacktoberfest Open-Source AI Challenge Week 1: Touch Grass</a></em></p>
+- **[A refactor without tests is a rewrite](https://dev.to/hayatibis/a-refactor-without-tests-is-a-rewrite-4jpp)**
+  *<p><em>Originally published on <a href="https://hayatibis.dev/writing/a-refactor-without-tests-is-a-rewrite" rel="noopener noreferrer">hayatibis.dev</a>, where the figures move and the toys are intera...*
+  📅 Sun, 11 Oct 2026 11:48:40 +0000
 
-<h2>
-  
-  
-  What I Buil...*
-  📅 Sun, 11 Oct 2026 02:57:42 +0000
+- **[AI Animation From Idea to Film: Eight Small Jobs Instead of One Impossible Prompt](https://dev.to/dalirnet/ai-animation-from-idea-to-film-eight-small-jobs-instead-of-one-impossible-prompt-4p1b)**
+  *<p>You type one prompt. "A man wakes up, walks to the window, and looks at the city. Anime style." You press enter.</p>
 
-- **[RTK vs PPK for Drone Mapping: Which to Use? (2026)](https://dev.to/eview_gnss_solutions/rtk-vs-ppk-for-drone-mapping-which-to-use-2026-491f)**
-  *<p><em>Originally published at <a href="https://gnss-solutions.com/rtk-vs-ppk-drone-mapping/" rel="noopener noreferrer">gnss-solutions.com</a>.</em></p>
+<p>And you get a video. A real one. For a moment it feels like magic.</p>
 
-<p><strong>Short answer:</strong> Choose <stro...*
-  📅 Sun, 11 Oct 2026 02:57:16 +0000
+<p>T...*
+  📅 Sun, 11 Oct 2026 11:47:50 +0000
 
 </details>
 
 ## 🔥 Trending Repositories
+
+### 📈 Daily Trending
+
+- **[liliy886/workbuddy-google-account](https://github.com/liliy886/workbuddy-google-account)** ⭐ 109
+  ![HTML](https://img.shields.io/badge/-HTML-lightgrey)
+  2 毛注册一个 WorkBuddy 账号——用谷歌企业邮箱（Google Workspace）登录，比香港手机号接码便宜 60-75%。workbuddy批量注册、workbuddy中转站供货、腾讯AI客户端账号、接码替代方案。每日上新 1 万+，24 小时自助发货，一个起卖，8 年老站包售后。
+
+- **[chenwei810/Semiconductor_Manufacturing_Introduction](https://github.com/chenwei810/Semiconductor_Manufacturing_Introduction)** ⭐ 80
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  Introduction to Semiconductor Manufacturing
+
+- **[Sam-Hui-dot/mcd-budget-meal](https://github.com/Sam-Hui-dot/mcd-budget-meal)** ⭐ 70
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  麦麦预算餐：基于麦当劳 MCP 的真实核价、预算比较与餐品替换 Skill
+
+- **[csadigital/ai-writer](https://github.com/csadigital/ai-writer)** ⭐ 32
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
+  ✨ Multilingual AI product copy from images. Responsive writing studio, translation, accounts, credits and automatic setup with optional Docker MySQL.
+
+- **[Blacktramagnify/rvc](https://github.com/Blacktramagnify/rvc)** ⭐ 20
+  ![HTML](https://img.shields.io/badge/-HTML-lightgrey)
+  🎯 ARC-Raiders-Cheats 🎯 
+
+- **[artouc/stop-describing-ui](https://github.com/artouc/stop-describing-ui)** ⭐ 18
+  ![None](https://img.shields.io/badge/-None-lightgrey)
+  An agent skill that strips explanatory copy out of user interfaces.
+
+- **[final-bench/quantum-bench-harness](https://github.com/final-bench/quantum-bench-harness)** ⭐ 15
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  Open Quantum Challenge (OQC) - open evaluation harness + frozen problems for the FINAL-Bench Quantum leaderboard
+
+- **[dhirpajr666/RxWeather](https://github.com/dhirpajr666/RxWeather)** ⭐ 12
+  ![None](https://img.shields.io/badge/-None-lightgrey)
+  Personal pet project aimed to get familiar with the following android specific frameworks/libraries/tools: AndroidRx, RxJava, Dagger2, RetroLambda, Retrofit2
+
+### 📈 Weekly Trending
+
+- **[openai/math](https://github.com/openai/math)** ⭐ 13,878
+  ![Lean](https://img.shields.io/badge/-Lean-lightgrey)
+  None
+
+- **[storytold/wordcraft](https://github.com/storytold/wordcraft)** ⭐ 3,939
+  ![Rust](https://img.shields.io/badge/-Rust-brown)
+  An open-source, clean-room reimplementation of Microsoft Word in pure Rust
+
+- **[alchaincyf/huashu-art-motion](https://github.com/alchaincyf/huashu-art-motion)** ⭐ 3,320
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
+  艺术动画skill：35种艺术风格、9种解说语法，用代码让画动起来。
+
+- **[mhtsec/ARTEX](https://github.com/mhtsec/ARTEX)** ⭐ 3,049
+  ![Go](https://img.shields.io/badge/-Go-cyan)
+  AI 自主渗透测试系统 | 百度“agent+”攻防挑战赛冠军项目
+
+- **[zhongerxin/iPhone-use](https://github.com/zhongerxin/iPhone-use)** ⭐ 2,811
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  让 Codex 通过 USB 操作真实 iPhone：引导安装、App 自动化、实时屏幕与截图回退。
+
+- **[nullmoth/nvidia-macos-driver](https://github.com/nullmoth/nvidia-macos-driver)** ⭐ 2,424
+  ![Rust](https://img.shields.io/badge/-Rust-brown)
+  Metal driver for NVIDIA GeForce RTX cards on macOS 15 Sequoia (Intel / OpenCore). Free, source included.
+
+- **[storytold/cadcraft](https://github.com/storytold/cadcraft)** ⭐ 2,161
+  ![Rust](https://img.shields.io/badge/-Rust-brown)
+  CADCraft: computer-aided design and drafting — an open-source, clean-room AutoCAD-style app in pure Rust
+
+- **[storytold/gridcraft](https://github.com/storytold/gridcraft)** ⭐ 2,155
+  ![Rust](https://img.shields.io/badge/-Rust-brown)
+  GridCraft: an open-source, clean-room spreadsheet (Microsoft Excel-style) in pure Rust. By ArtCraft.
+
+### 📈 Monthly Trending
+
+- **[storytold/photocraft](https://github.com/storytold/photocraft)** ⭐ 44,594
+  ![Rust](https://img.shields.io/badge/-Rust-brown)
+  An open-source, clean-room reimplementation of Adobe Photoshop in pure Rust
+
+- **[NandhaKishorM/laya](https://github.com/NandhaKishorM/laya)** ⭐ 32,236
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  Non-autoregressive System 1 decision engine. Typed choice, score and yes/no decisions over any text in a single forward pass, in 100+ languages, with a router that picks the right checkpoint per request.
+
+- **[browser-use/jev-ultrafast](https://github.com/browser-use/jev-ultrafast)** ⭐ 22,589
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  Fastest and cheapest web agent
+
+- **[Niko1221/Strata](https://github.com/Niko1221/Strata)** ⭐ 21,120
+  ![C++](https://img.shields.io/badge/-C++-pink)
+  Qwen3.8-Flash-Next on any consumer hardware: one-click install for Windows / Linux. Strata inference engine, OpenAI/Anthropic API on localhost, optional image input.
+
+- **[robbietilton/Compositor](https://github.com/robbietilton/Compositor)** ⭐ 15,716
+  ![Swift](https://img.shields.io/badge/-Swift-lightgrey)
+  The Photoshop alternative for Mac
+
+- **[openai/math](https://github.com/openai/math)** ⭐ 13,878
+  ![Lean](https://img.shields.io/badge/-Lean-lightgrey)
+  None
+
+- **[cdyforever/how-to-live-better](https://github.com/cdyforever/how-to-live-better)** ⭐ 11,051
+  ![HTML](https://img.shields.io/badge/-HTML-lightgrey)
+  《高性价比人生指南》全书 528 条的在线单页阅读版：手机可读、可搜索、零依赖、支持离线
+
+- **[storytold/lightcraft](https://github.com/storytold/lightcraft)** ⭐ 9,495
+  ![Rust](https://img.shields.io/badge/-Rust-brown)
+  An open-source, clean-room reimplementation of Adobe Lightroom in pure Rust.
 
 ## 🚀 Latest Releases
 
@@ -390,19 +491,19 @@ See [kubernetes-announce@](https://groups.google.com/forum/#!forum/kubernetes-an
 |-------|--------|
 | Java | 🟡 Learning |
 | Python | 🟢 Proficient |
-| JavaScript | 🔴 Beginner |
-| TypeScript | 🟡 Learning |
+| JavaScript | 🟢 Proficient |
+| TypeScript | ⚪ Planned |
 | Go | 🟢 Proficient |
 
 ### Frameworks
 
 | Skill | Status |
 |-------|--------|
-| React | 🟡 Learning |
+| React | ⚪ Planned |
 | Spring Boot | 🔴 Beginner |
-| Django | 🟡 Learning |
-| Node.js | 🟡 Learning |
-| Next.js | ⚪ Planned |
+| Django | 🔴 Beginner |
+| Node.js | 🟢 Proficient |
+| Next.js | 🟡 Learning |
 
 ### Cybersecurity
 
@@ -411,27 +512,27 @@ See [kubernetes-announce@](https://groups.google.com/forum/#!forum/kubernetes-an
 | Penetration Testing | 🟢 Proficient |
 | Web Security | 🟡 Learning |
 | Network Security | ⚪ Planned |
-| OWASP | 🟢 Proficient |
+| OWASP | 🔴 Beginner |
 
 ### Ai Ml
 
 | Skill | Status |
 |-------|--------|
-| Machine Learning | ⚪ Planned |
+| Machine Learning | 🟢 Proficient |
 | Deep Learning | 🟢 Proficient |
-| NLP | 🔴 Beginner |
-| Computer Vision | 🟢 Proficient |
-| TensorFlow | 🟢 Proficient |
+| NLP | 🟡 Learning |
+| Computer Vision | 🔴 Beginner |
+| TensorFlow | 🟡 Learning |
 | PyTorch | 🔴 Beginner |
 
 ### Devops
 
 | Skill | Status |
 |-------|--------|
-| Docker | 🔴 Beginner |
-| Kubernetes | 🟡 Learning |
+| Docker | 🟢 Proficient |
+| Kubernetes | 🔴 Beginner |
 | CI/CD | 🟢 Proficient |
-| AWS | ⚪ Planned |
+| AWS | 🟢 Proficient |
 | Azure | 🔴 Beginner |
 
 ### Other
@@ -439,8 +540,8 @@ See [kubernetes-announce@](https://groups.google.com/forum/#!forum/kubernetes-an
 | Skill | Status |
 |-------|--------|
 | Blockchain | ⚪ Planned |
-| Web3 | 🔴 Beginner |
-| Cloud Computing | ⚪ Planned |
+| Web3 | 🟡 Learning |
+| Cloud Computing | 🟡 Learning |
 
 </details>
 
