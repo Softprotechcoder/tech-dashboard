@@ -7,7 +7,7 @@
 ![AI & ML](https://img.shields.io/badge/-AI%20&%20ML-blue) ![CyberSecurity](https://img.shields.io/badge/-CyberSecurity-red) ![Full Stack Development](https://img.shields.io/badge/-Full%20Stack%20Development-green)
 
 [![Auto Update](https://img.shields.io/badge/Auto%20Update-Enabled-success)](https://github.com/yourusername/tech-dashboard/actions)
-[![Last Updated](https://img.shields.io/badge/Last%20Updated-October 11, 2026-blue)](https://github.com/yourusername/tech-dashboard)
+[![Last Updated](https://img.shields.io/badge/Last%20Updated-October 12, 2026-blue)](https://github.com/yourusername/tech-dashboard)
 
 *Automatically updated every 6 hours with the latest tech news, trending repositories, and learning resources.*
 
@@ -46,40 +46,44 @@
 
 ### 📑 Hacker News
 
-- **[Cartographers of North Korea](https://cartographers-nk.wonyoung.so/)**
-  *<p>Article URL: <a href="https://cartographers-nk.wonyoung.so/">https://cartographers-nk.wonyoung.so/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50047091">https://news.ycom...*
-  📅 Sun, 11 Oct 2026 19:46:40 +0000
+- **[Doory – Open-Source Canva](https://github.com/shaongitbd/doory)**
+  *<p>Article URL: <a href="https://github.com/shaongitbd/doory">https://github.com/shaongitbd/doory</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50049872">https://news.ycombina...*
+  📅 Mon, 12 Oct 2026 00:48:27 +0000
 
-- **[Artificial Insanity](https://richwhitehouse.com/index.php?postid=78)**
-  *<p>Article URL: <a href="https://richwhitehouse.com/index.php?postid=78">https://richwhitehouse.com/index.php?postid=78</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50047071"...*
-  📅 Sun, 11 Oct 2026 19:44:45 +0000
+- **[Local Indexing to reduce tool calling and token usage](https://tedhaley.ca/pensieve/)**
+  *<p>Article URL: <a href="https://tedhaley.ca/pensieve/">https://tedhaley.ca/pensieve/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50049508">https://news.ycombinator.com/item...*
+  📅 Mon, 12 Oct 2026 00:03:53 +0000
 
-- **[Be The Onion's Hero for Once](https://mailchi.mp/email.theonion.com/archivehunt)**
-  *<p>Article URL: <a href="https://mailchi.mp/email.theonion.com/archivehunt">https://mailchi.mp/email.theonion.com/archivehunt</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=500...*
-  📅 Sun, 11 Oct 2026 19:43:32 +0000
+- **[HashiCorp archives the Boundary open source repo](https://github.com/hashicorp/boundary)**
+  *<p>Article URL: <a href="https://github.com/hashicorp/boundary">https://github.com/hashicorp/boundary</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50049498">https://news.ycom...*
+  📅 Mon, 12 Oct 2026 00:02:45 +0000
 
-- **[The Unreasonable Effectiveness of Vex in NixOS](https://blog.kammel.dev/post/nixos_vex/)**
-  *<p>Article URL: <a href="https://blog.kammel.dev/post/nixos_vex/">https://blog.kammel.dev/post/nixos_vex/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50046864">https://news....*
-  📅 Sun, 11 Oct 2026 19:23:07 +0000
+- **[Whatever became of holography? (2011)](https://www.americanscientist.org/article/whatever-became-of-holography)**
+  *<p>Article URL: <a href="https://www.americanscientist.org/article/whatever-became-of-holography">https://www.americanscientist.org/article/whatever-became-of-holography</a></p>
+<p>Comments URL: <a hr...*
+  📅 Sun, 11 Oct 2026 23:50:34 +0000
 
-- **[Chapter 1 of Ways of Seeing by John Berger](https://www.ways-of-seeing.com/ch1)**
-  *<p>Article URL: <a href="https://www.ways-of-seeing.com/ch1">https://www.ways-of-seeing.com/ch1</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50046241">https://news.ycombinato...*
-  📅 Sun, 11 Oct 2026 18:26:24 +0000
+- **[Illustration Beyond Proof](https://terrytao.wordpress.com/2026/10/11/illustration-beyond-proof/)**
+  *<p>Article URL: <a href="https://terrytao.wordpress.com/2026/10/11/illustration-beyond-proof/">https://terrytao.wordpress.com/2026/10/11/illustration-beyond-proof/</a></p>
+<p>Comments URL: <a href="ht...*
+  📅 Sun, 11 Oct 2026 23:22:36 +0000
 
-- **[Total Annihilation, rebuilt for modern computers](https://nanolathe.gg)**
-  *<p>Article URL: <a href="https://nanolathe.gg">https://nanolathe.gg</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50045984">https://news.ycombinator.com/item?id=50045984</a></...*
-  📅 Sun, 11 Oct 2026 18:04:47 +0000
+- **[ClickHouse C – Talk to ClickHouse using its native binary protocol](https://github.com/ClickHouse/clickhouse-c)**
+  *<p>Article URL: <a href="https://github.com/ClickHouse/clickhouse-c">https://github.com/ClickHouse/clickhouse-c</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50049003">https:/...*
+  📅 Sun, 11 Oct 2026 23:08:29 +0000
 
 ### 📑 TechCrunch
 
+- **[The founder’s guide to TechCrunch Disrupt 2026: Everything you need to know](https://techcrunch.com/2026/10/11/the-founders-guide-to-techcrunch-disrupt-2026-everything-you-need-to-know/)**
+  *TechCrunch Disrupt 2026 is built around one question: How do you build an enduring company in the AI era? Our programming and speaker lineup reflect that....*
+  📅 Mon, 12 Oct 2026 00:59:01 +0000
+
 - **[Will the HomeView be Apple’s first smart home success?](https://techcrunch.com/2026/10/11/will-the-homeview-be-apples-first-smart-home-success/)**
-  *Apple will announce a new smart home hub on Tuesday called the HomeView, according to Bloomberg’s Mark Gurman. Over the past couple of years, we’ve seen There have been multiple reports that Apple was...*
+  *Over the past couple of years, we’ve seen multiple reports that Apple was working on a new smart home product, but now it seems the product has a name and a launch date....*
   📅 Sun, 11 Oct 2026 21:14:40 +0000
 
 - **[Aaron Sorkin’s ‘Social Reckoning’ is off to a weak start](https://techcrunch.com/2026/10/11/aaron-sorkins-social-reckoning-is-off-to-a-weak-start/)**
@@ -98,24 +102,21 @@
   *On Equity, we debate the impact of data center moratoriums and whether the AI industry has a communication problem....*
   📅 Sun, 11 Oct 2026 16:52:33 +0000
 
-- **[TechCrunch Mobility: A roadblock clears for self-driving trucks](https://techcrunch.com/2026/10/11/techcrunch-mobility-a-roadblock-clears-for-self-driving-trucks/)**
-  *Welcome back to TechCrunch Mobility, your hub for the future of transportation and now, more than ever, the role AI is playing in it....*
-  📅 Sun, 11 Oct 2026 16:02:00 +0000
-
 ### 📑 Dev.to
 
-- **[EarthLens : A Product Which Links You to Nature!](https://dev.to/devaansh_jaiswal_39d2764d/earthlens-a-product-which-links-you-to-nature-2lg)**
-  *<p><em>This is a submission for the <a href="https://dev.to/challenges/hacktoberfest-week1-2026-10-05">Hacktoberfest Open-Source AI Challenge Week 1: Touch Grass</a></em></p>
+- **[20 hostile messages that find your AI agent's failure modes before your customers do](https://dev.to/chenwengui23/20-hostile-messages-that-find-your-ai-agents-failure-modes-before-your-customers-do-2cm2)**
+  *<p>Your AI agent passes every friendly test you throw at it. "What are your hours?" — perfect answer. "Do you take reservations?" — flawless. Then a real customer writes <em>"my friend said you do 20%...*
+  📅 Mon, 12 Oct 2026 03:21:31 +0000
 
-<h1>
+- **[Six Hours, Thousands of Credentials: The Automation of Credential Harvesting](https://dev.to/onaeiuspkz/six-hours-thousands-of-credentials-the-automation-of-credential-harvesting-1lcn)**
+  *<h1>
   
   
-  What I Buil...*
-  📅 Sun, 11 Oct 2026 21:14:13 +0000
+  Six Hours, Thousands of Credentials: The Automation of Credential Harvesting
+</h1>
 
-- **[How to Tune Retrieval Relevance for a Private Knowledge Manager: Source-Aware Staging](https://dev.to/prestoncole1111/how-to-tune-retrieval-relevance-for-a-private-knowledge-manager-source-aware-staging-2a00)**
-  *<p>Short answer: use staged retrieval with explicit collections, bounded queries, and traceable source context. For a customer-support knowledge-base bot, this usually improves relevance while keeping...*
-  📅 Sun, 11 Oct 2026 21:14:07 +0000
+<p>A credential-harvesting operation described in Anthropic's September 2026 threat-intelligence report...*
+  📅 Mon, 12 Oct 2026 03:20:45 +0000
 
 </details>
 
@@ -123,103 +124,103 @@
 
 ### 📈 Daily Trending
 
-- **[liseami/CCBaga](https://github.com/liseami/CCBaga)** ⭐ 143
-  ![Rust](https://img.shields.io/badge/-Rust-brown)
-  None
-
-- **[chenwei810/Semiconductor_Manufacturing_Introduction](https://github.com/chenwei810/Semiconductor_Manufacturing_Introduction)** ⭐ 141
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  Introduction to Semiconductor Manufacturing
-
-- **[jwuthri-cloud/Tracely-ai](https://github.com/jwuthri-cloud/Tracely-ai)** ⭐ 113
-  ![None](https://img.shields.io/badge/-None-lightgrey)
-  None
-
-- **[hongboduan/awesome-embodied-agents](https://github.com/hongboduan/awesome-embodied-agents)** ⭐ 90
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  None
-
-- **[Sam-Hui-dot/mcd-budget-meal](https://github.com/Sam-Hui-dot/mcd-budget-meal)** ⭐ 71
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  麦麦预算餐：基于麦当劳 MCP 的真实核价、预算比较与餐品替换 Skill
-
-- **[jonesm688452/chatgpt-plus-daichong](https://github.com/jonesm688452/chatgpt-plus-daichong)** ⭐ 65
+- **[RimArchitect/rdd](https://github.com/RimArchitect/rdd)** ⭐ 51
   ![HTML](https://img.shields.io/badge/-HTML-lightgrey)
-  GPT 代充与 ChatGPT Plus 充值、国内购买指南：2026年支付宝付款、无海外卡开通及 Pro 5x / 20x 选择
+  🔥 pubg-cheats-mod-menu 🔥
 
-- **[CuteEthanLeo/MistSail](https://github.com/CuteEthanLeo/MistSail)** ⭐ 64
-  ![C#](https://img.shields.io/badge/-C#-lightgrey)
-  雾帆 MistSail：基于 Sheas Cealer 1.1.4 的本地改版。一键在本机接管 TLS 握手（nginx 改写 SNI / 回环中继分片 ClientHello），无代理服务器。仅供抵御网络非法监听与网络安全研究。
+- **[BasinShaperKiln/rtd](https://github.com/BasinShaperKiln/rtd)** ⭐ 50
+  ![HTML](https://img.shields.io/badge/-HTML-lightgrey)
+  🔥 pubg-cheats-hacks 🔥
 
-- **[wbr664393425-lgtm/scaffold-master](https://github.com/wbr664393425-lgtm/scaffold-master)** ⭐ 58
-  ![Vue](https://img.shields.io/badge/-Vue-lightgrey)
-  Spring Boot + Vue 通用后台管理脚手架，提供认证、RBAC 与数据权限、组织管理、日志和代码生成骨架。
+- **[erbi112211-boop/aveva-marine-dev-skill](https://github.com/erbi112211-boop/aveva-marine-dev-skill)** ⭐ 7
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  AVEVA Marine (PDMS) 12.1 SP4 二次开发全栈知识库技能:17 卷穷举命令参考+审计工具+端到端模板 | Full-stack dev knowledge base for AVEVA Marine customization (PML/.NET/marAPI/Vitesse)
+
+- **[a-samy-consultancy/claude-code-setup-kit](https://github.com/a-samy-consultancy/claude-code-setup-kit)** ⭐ 7
+  ![None](https://img.shields.io/badge/-None-lightgrey)
+  Turn Claude Code into a disciplined build team in 10 minutes. One file, any project. Built by Abdo Samy.
+
+- **[zrdep/alienzinhos](https://github.com/zrdep/alienzinhos)** ⭐ 5
+  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
+  Avatares de alien em pixel art gerados a partir de qualquer texto
+
+- **[burhanmoin1/bloodborne-macos-native](https://github.com/burhanmoin1/bloodborne-macos-native)** ⭐ 4
+  ![C++](https://img.shields.io/badge/-C++-pink)
+  None
+
+- **[caleb312/space-frame-agent](https://github.com/caleb312/space-frame-agent)** ⭐ 4
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  None
+
+- **[yq6668/mcd-mood-analyst](https://github.com/yq6668/mcd-mood-analyst)** ⭐ 3
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  一个基于麦当劳 MCP Server 的开源 Skill。它读取你的真实订单记录，结合下单时间、餐品构成和消费金额，推断你下单时的心情，同时给出账单统计、营养画像与每日/每月开支分析。
 
 ### 📈 Weekly Trending
 
-- **[openai/math](https://github.com/openai/math)** ⭐ 14,032
+- **[openai/math](https://github.com/openai/math)** ⭐ 14,132
   ![Lean](https://img.shields.io/badge/-Lean-lightgrey)
   None
 
-- **[storytold/wordcraft](https://github.com/storytold/wordcraft)** ⭐ 5,532
+- **[storytold/wordcraft](https://github.com/storytold/wordcraft)** ⭐ 6,305
   ![Rust](https://img.shields.io/badge/-Rust-brown)
   An open-source, clean-room reimplementation of Microsoft Word in pure Rust
 
-- **[alchaincyf/huashu-art-motion](https://github.com/alchaincyf/huashu-art-motion)** ⭐ 3,377
+- **[wheresryan22/anatomy](https://github.com/wheresryan22/anatomy)** ⭐ 3,651
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
+  An agent skill for creating detailed, interactive isometric illustrations of real-world machines and complex systems. Generates polished SVGs with optional WebGL shaders and 3D effects.
+
+- **[alchaincyf/huashu-art-motion](https://github.com/alchaincyf/huashu-art-motion)** ⭐ 3,414
   ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
   艺术动画skill：35种艺术风格、9种解说语法，用代码让画动起来。
 
-- **[mhtsec/ARTEX](https://github.com/mhtsec/ARTEX)** ⭐ 3,132
+- **[mhtsec/ARTEX](https://github.com/mhtsec/ARTEX)** ⭐ 3,254
   ![Go](https://img.shields.io/badge/-Go-cyan)
   AI 自主渗透测试系统 | 百度“agent+”攻防挑战赛冠军项目
 
-- **[zhongerxin/iPhone-use](https://github.com/zhongerxin/iPhone-use)** ⭐ 3,005
+- **[zhongerxin/iPhone-use](https://github.com/zhongerxin/iPhone-use)** ⭐ 3,132
   ![Python](https://img.shields.io/badge/-Python-blue)
   让 Codex 通过 USB 操作真实 iPhone：引导安装、App 自动化、实时屏幕与截图回退。
 
-- **[wheresryan22/anatomy](https://github.com/wheresryan22/anatomy)** ⭐ 2,997
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
-  A Claude Code skill that turns a technical idea into a detailed, interactive isometric figure of a real machine. It makes SVG with optional WebGL shaders and 3D, for docs, articles and landing pages.
-
-- **[storytold/gridcraft](https://github.com/storytold/gridcraft)** ⭐ 2,763
+- **[storytold/gridcraft](https://github.com/storytold/gridcraft)** ⭐ 3,033
   ![Rust](https://img.shields.io/badge/-Rust-brown)
   GridCraft: an open-source, clean-room spreadsheet (Microsoft Excel-style) in pure Rust. By ArtCraft.
 
-- **[storytold/cadcraft](https://github.com/storytold/cadcraft)** ⭐ 2,558
+- **[storytold/cadcraft](https://github.com/storytold/cadcraft)** ⭐ 2,760
   ![Rust](https://img.shields.io/badge/-Rust-brown)
   CADCraft: computer-aided design and drafting — an open-source, clean-room AutoCAD-style app in pure Rust
 
 ### 📈 Monthly Trending
 
-- **[storytold/photocraft](https://github.com/storytold/photocraft)** ⭐ 47,028
+- **[storytold/photocraft](https://github.com/storytold/photocraft)** ⭐ 48,381
   ![Rust](https://img.shields.io/badge/-Rust-brown)
   PhotoCraft: An open-source, photo editor written by scratch in pure Rust
 
-- **[NandhaKishorM/laya](https://github.com/NandhaKishorM/laya)** ⭐ 32,325
+- **[NandhaKishorM/laya](https://github.com/NandhaKishorM/laya)** ⭐ 32,371
   ![Python](https://img.shields.io/badge/-Python-blue)
   Non-autoregressive System 1 decision engine. Typed choice, score and yes/no decisions over any text in a single forward pass, in 100+ languages, with a router that picks the right checkpoint per request.
 
-- **[browser-use/jev-ultrafast](https://github.com/browser-use/jev-ultrafast)** ⭐ 22,621
+- **[browser-use/jev-ultrafast](https://github.com/browser-use/jev-ultrafast)** ⭐ 22,641
   ![Python](https://img.shields.io/badge/-Python-blue)
   Fastest and cheapest web agent
 
-- **[Niko1221/Strata](https://github.com/Niko1221/Strata)** ⭐ 21,510
+- **[Niko1221/Strata](https://github.com/Niko1221/Strata)** ⭐ 21,763
   ![C++](https://img.shields.io/badge/-C++-pink)
   Qwen3.8-Flash-Next on any consumer hardware: one-click install for Windows / Linux. Strata inference engine, OpenAI/Anthropic API on localhost, optional image input.
 
-- **[robbietilton/Compositor](https://github.com/robbietilton/Compositor)** ⭐ 15,871
+- **[robbietilton/Compositor](https://github.com/robbietilton/Compositor)** ⭐ 16,003
   ![Swift](https://img.shields.io/badge/-Swift-lightgrey)
   The Photoshop alternative for Mac
 
-- **[openai/math](https://github.com/openai/math)** ⭐ 14,032
+- **[openai/math](https://github.com/openai/math)** ⭐ 14,132
   ![Lean](https://img.shields.io/badge/-Lean-lightgrey)
   None
 
-- **[cdyforever/how-to-live-better](https://github.com/cdyforever/how-to-live-better)** ⭐ 11,133
+- **[cdyforever/how-to-live-better](https://github.com/cdyforever/how-to-live-better)** ⭐ 11,197
   ![HTML](https://img.shields.io/badge/-HTML-lightgrey)
   《高性价比人生指南》全书 528 条的在线单页阅读版：手机可读、可搜索、零依赖、支持离线
 
-- **[storytold/lightcraft](https://github.com/storytold/lightcraft)** ⭐ 10,053
+- **[storytold/lightcraft](https://github.com/storytold/lightcraft)** ⭐ 10,299
   ![Rust](https://img.shields.io/badge/-Rust-brown)
   LightCraft: An open-source non-destructive photo editor written by scratch in pure Rust
 
@@ -489,11 +490,11 @@ See [kubernetes-announce@](https://groups.google.com/forum/#!forum/kubernetes-an
 
 | Skill | Status |
 |-------|--------|
-| Java | 🟡 Learning |
-| Python | 🟢 Proficient |
-| JavaScript | 🟢 Proficient |
-| TypeScript | 🟢 Proficient |
-| Go | 🟡 Learning |
+| Java | ⚪ Planned |
+| Python | ⚪ Planned |
+| JavaScript | 🟡 Learning |
+| TypeScript | 🔴 Beginner |
+| Go | 🔴 Beginner |
 
 ### Frameworks
 
@@ -501,7 +502,7 @@ See [kubernetes-announce@](https://groups.google.com/forum/#!forum/kubernetes-an
 |-------|--------|
 | React | 🟢 Proficient |
 | Spring Boot | ⚪ Planned |
-| Django | 🔴 Beginner |
+| Django | 🟢 Proficient |
 | Node.js | ⚪ Planned |
 | Next.js | 🔴 Beginner |
 
@@ -510,38 +511,38 @@ See [kubernetes-announce@](https://groups.google.com/forum/#!forum/kubernetes-an
 | Skill | Status |
 |-------|--------|
 | Penetration Testing | 🟢 Proficient |
-| Web Security | 🟢 Proficient |
-| Network Security | 🔴 Beginner |
-| OWASP | 🟢 Proficient |
+| Web Security | 🟡 Learning |
+| Network Security | 🟢 Proficient |
+| OWASP | 🟡 Learning |
 
 ### Ai Ml
 
 | Skill | Status |
 |-------|--------|
-| Machine Learning | 🟡 Learning |
-| Deep Learning | 🟢 Proficient |
+| Machine Learning | ⚪ Planned |
+| Deep Learning | 🟡 Learning |
 | NLP | 🟡 Learning |
-| Computer Vision | 🔴 Beginner |
-| TensorFlow | 🔴 Beginner |
+| Computer Vision | ⚪ Planned |
+| TensorFlow | 🟢 Proficient |
 | PyTorch | 🔴 Beginner |
 
 ### Devops
 
 | Skill | Status |
 |-------|--------|
-| Docker | 🟡 Learning |
-| Kubernetes | ⚪ Planned |
-| CI/CD | 🟢 Proficient |
-| AWS | 🔴 Beginner |
-| Azure | ⚪ Planned |
+| Docker | 🟢 Proficient |
+| Kubernetes | 🟢 Proficient |
+| CI/CD | 🟡 Learning |
+| AWS | 🟡 Learning |
+| Azure | 🟡 Learning |
 
 ### Other
 
 | Skill | Status |
 |-------|--------|
-| Blockchain | 🟢 Proficient |
-| Web3 | 🟢 Proficient |
-| Cloud Computing | ⚪ Planned |
+| Blockchain | 🔴 Beginner |
+| Web3 | 🟡 Learning |
+| Cloud Computing | 🟡 Learning |
 
 </details>
 
@@ -559,7 +560,7 @@ This dashboard is automatically updated every 6 hours using GitHub Actions. The 
 
 <div align="center">
 
-**Last Updated:** October 11, 2026
+**Last Updated:** October 12, 2026
 
 Made with ❤️ and automated with GitHub Actions
 
