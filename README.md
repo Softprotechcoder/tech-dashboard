@@ -46,37 +46,41 @@
 
 ### 📑 Hacker News
 
-- **[Doory – Open-Source Canva](https://github.com/shaongitbd/doory)**
-  *<p>Article URL: <a href="https://github.com/shaongitbd/doory">https://github.com/shaongitbd/doory</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50049872">https://news.ycombina...*
-  📅 Mon, 12 Oct 2026 00:48:27 +0000
+- **[Incident with Actions, Pull Requests and Issues](https://www.githubstatus.com/incidents/93njd414rpbx)**
+  *<p>Article URL: <a href="https://www.githubstatus.com/incidents/93njd414rpbx">https://www.githubstatus.com/incidents/93njd414rpbx</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id...*
+  📅 Mon, 12 Oct 2026 12:23:51 +0000
 
-- **[Local Indexing to reduce tool calling and token usage](https://tedhaley.ca/pensieve/)**
-  *<p>Article URL: <a href="https://tedhaley.ca/pensieve/">https://tedhaley.ca/pensieve/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50049508">https://news.ycombinator.com/item...*
-  📅 Mon, 12 Oct 2026 00:03:53 +0000
+- **[Citroen revives the 2CV for an electric age](https://www.bbc.co.uk/news/articles/c620r33plgppo)**
+  *<p>Article URL: <a href="https://www.bbc.co.uk/news/articles/c620r33plgppo">https://www.bbc.co.uk/news/articles/c620r33plgppo</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=500...*
+  📅 Mon, 12 Oct 2026 12:09:09 +0000
 
-- **[HashiCorp archives the Boundary open source repo](https://github.com/hashicorp/boundary)**
-  *<p>Article URL: <a href="https://github.com/hashicorp/boundary">https://github.com/hashicorp/boundary</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50049498">https://news.ycom...*
-  📅 Mon, 12 Oct 2026 00:02:45 +0000
+- **[QGIS bans AI assisted contributions](https://github.com/qgis/QGIS-Enhancement-Proposals/pull/387)**
+  *<p>Article URL: <a href="https://github.com/qgis/QGIS-Enhancement-Proposals/pull/387">https://github.com/qgis/QGIS-Enhancement-Proposals/pull/387</a></p>
+<p>Comments URL: <a href="https://news.ycombin...*
+  📅 Mon, 12 Oct 2026 11:22:24 +0000
 
-- **[Whatever became of holography? (2011)](https://www.americanscientist.org/article/whatever-became-of-holography)**
-  *<p>Article URL: <a href="https://www.americanscientist.org/article/whatever-became-of-holography">https://www.americanscientist.org/article/whatever-became-of-holography</a></p>
-<p>Comments URL: <a hr...*
-  📅 Sun, 11 Oct 2026 23:50:34 +0000
+- **[Deloitte falsified documents to evade tax on Abramovich's wealth](https://www.bbc.com/news/articles/c64g1l5389kvo)**
+  *<p>Article URL: <a href="https://www.bbc.com/news/articles/c64g1l5389kvo">https://www.bbc.com/news/articles/c64g1l5389kvo</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=5005420...*
+  📅 Mon, 12 Oct 2026 10:21:27 +0000
 
-- **[Illustration Beyond Proof](https://terrytao.wordpress.com/2026/10/11/illustration-beyond-proof/)**
-  *<p>Article URL: <a href="https://terrytao.wordpress.com/2026/10/11/illustration-beyond-proof/">https://terrytao.wordpress.com/2026/10/11/illustration-beyond-proof/</a></p>
-<p>Comments URL: <a href="ht...*
-  📅 Sun, 11 Oct 2026 23:22:36 +0000
+- **[Zod 4.6.6 compromised by malware?](https://github.com/colinhacks/zod/commit/d821685ea6732436fcdf786a81d076958471e467)**
+  *<p>Article URL: <a href="https://github.com/colinhacks/zod/commit/d821685ea6732436fcdf786a81d076958471e467">https://github.com/colinhacks/zod/commit/d821685ea6732436fcdf786a81d076958471e467</a></p>
+<p...*
+  📅 Mon, 12 Oct 2026 07:47:29 +0000
 
-- **[ClickHouse C – Talk to ClickHouse using its native binary protocol](https://github.com/ClickHouse/clickhouse-c)**
-  *<p>Article URL: <a href="https://github.com/ClickHouse/clickhouse-c">https://github.com/ClickHouse/clickhouse-c</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50049003">https:/...*
-  📅 Sun, 11 Oct 2026 23:08:29 +0000
+- **[Show HN: PS2 games statically recompiled to WebAssembly](https://github.com/snuri00/ps2-web-recomp)**
+  *<p>Article URL: <a href="https://github.com/snuri00/ps2-web-recomp">https://github.com/snuri00/ps2-web-recomp</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50052251">https://n...*
+  📅 Mon, 12 Oct 2026 06:46:53 +0000
 
 ### 📑 TechCrunch
+
+- **[Former Plaud exec raises $26M for AI app that listens to you in the background](https://techcrunch.com/2026/10/12/former-plaud-exec-raises-26m-for-ai-app-that-listens-to-you-in-the-background/)**
+  *Ambi is releasing apps for iPhone, Mac, and Apple Watch that enables ambient capture...*
+  📅 Mon, 12 Oct 2026 12:47:59 +0000
 
 - **[The founder’s guide to TechCrunch Disrupt 2026: Everything you need to know](https://techcrunch.com/2026/10/11/the-founders-guide-to-techcrunch-disrupt-2026-everything-you-need-to-know/)**
   *TechCrunch Disrupt 2026 is built around one question: How do you build an enduring company in the AI era? Our programming and speaker lineup reflect that....*
@@ -86,7 +90,7 @@
   *Over the past couple of years, we’ve seen multiple reports that Apple was working on a new smart home product, but now it seems the product has a name and a launch date....*
   📅 Sun, 11 Oct 2026 21:14:40 +0000
 
-- **[Aaron Sorkin’s ‘Social Reckoning’ is off to a weak start](https://techcrunch.com/2026/10/11/aaron-sorkins-social-reckoning-is-off-to-a-weak-start/)**
+- **[Aaron Sorkin’s ‘The Social Reckoning’ is off to a weak start](https://techcrunch.com/2026/10/11/aaron-sorkins-social-reckoning-is-off-to-a-weak-start/)**
   *What does this mean for a fall full of movies starring villainous tech CEOs?...*
   📅 Sun, 11 Oct 2026 20:51:47 +0000
 
@@ -98,25 +102,15 @@
   *Year after year, investors who've explored the Expo Halls, met founders, and learned from peers have proven why you need to be on the ground at Disrupt Oct. 13....*
   📅 Sun, 11 Oct 2026 17:53:37 +0000
 
-- **[Can the AI industry persuade data center opponents by getting rid of NDAs?](https://techcrunch.com/2026/10/11/can-the-ai-industry-persuade-data-center-opponents-by-getting-rid-of-ndas/)**
-  *On Equity, we debate the impact of data center moratoriums and whether the AI industry has a communication problem....*
-  📅 Sun, 11 Oct 2026 16:52:33 +0000
-
 ### 📑 Dev.to
 
-- **[20 hostile messages that find your AI agent's failure modes before your customers do](https://dev.to/chenwengui23/20-hostile-messages-that-find-your-ai-agents-failure-modes-before-your-customers-do-2cm2)**
-  *<p>Your AI agent passes every friendly test you throw at it. "What are your hours?" — perfect answer. "Do you take reservations?" — flawless. Then a real customer writes <em>"my friend said you do 20%...*
-  📅 Mon, 12 Oct 2026 03:21:31 +0000
+- **[Vibecoding: The Stages of Acceptance](https://dev.to/artemgarazha/vibecoding-the-stages-of-acceptance-4bll)**
+  *<p>The hype and the outrage around vibe coding have both cooled off enough that we can finally talk about it without shouting. It's a tool. It has sharp edges. Some people jumped in early, some are st...*
+  📅 Mon, 12 Oct 2026 13:56:35 +0000
 
-- **[Six Hours, Thousands of Credentials: The Automation of Credential Harvesting](https://dev.to/onaeiuspkz/six-hours-thousands-of-credentials-the-automation-of-credential-harvesting-1lcn)**
-  *<h1>
-  
-  
-  Six Hours, Thousands of Credentials: The Automation of Credential Harvesting
-</h1>
-
-<p>A credential-harvesting operation described in Anthropic's September 2026 threat-intelligence report...*
-  📅 Mon, 12 Oct 2026 03:20:45 +0000
+- **[Every "Should I?" Is a Bug. Your Personal AI Should Only Ever Ask About Money.](https://dev.to/jiahui-miao/every-should-i-is-a-bug-your-personal-ai-should-only-ever-ask-about-money-5f37)**
+  *<p><strong>TL;DR:</strong> My personal AI is not allowed to ask me questions. It may interrupt me for exactly one thing: money. Everything else it decides, executes, and reports as results. A permissi...*
+  📅 Mon, 12 Oct 2026 13:54:34 +0000
 
 </details>
 
@@ -124,105 +118,105 @@
 
 ### 📈 Daily Trending
 
-- **[RimArchitect/rdd](https://github.com/RimArchitect/rdd)** ⭐ 51
-  ![HTML](https://img.shields.io/badge/-HTML-lightgrey)
-  🔥 pubg-cheats-mod-menu 🔥
+- **[jhaizhou-ops/d2r-mobile](https://github.com/jhaizhou-ops/d2r-mobile)** ⭐ 455
+  ![C](https://img.shields.io/badge/-C-lightgrey)
+  Open-source iOS compatibility layer for Diablo II: Resurrected with the Reign of the Warlock expansion. Runs your own Switch copy natively on iPhone and iPad — full touch controls, 60 fps, new endgame modes. Bring your own game files. 开源的《暗黑破坏神 II：狱火重生》术士君临 iOS 兼容层
+
+- **[zhuyansen/new-term-radar](https://github.com/zhuyansen/new-term-radar)** ⭐ 324
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  Daily radar for new AI terms: names of new models, products and repos, caught on X, Hugging Face, GitHub and sitemaps before keyword tools list them.
+
+- **[deeplethe/solid-glass](https://github.com/deeplethe/solid-glass)** ⭐ 228
+  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
+  A theme for shadcn/ui: thick, smoky panes with the weight of a solid surface and the clarity of glass.
+
+- **[juliobsz/skills](https://github.com/juliobsz/skills)** ⭐ 71
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
+  An agent skill that builds award-caliber websites from one line
+
+- **[DXSDXS-PNG/chengtai_ctpro.syylb.com](https://github.com/DXSDXS-PNG/chengtai_ctpro.syylb.com)** ⭐ 69
+  ![PHP](https://img.shields.io/badge/-PHP-lightgrey)
+  承台应用管理平台 - 统一管理平台（插件底座后端，ThinkPHP 8）个人版
+
+- **[Dushiqi1987/codex-remote-bridge](https://github.com/Dushiqi1987/codex-remote-bridge)** ⭐ 61
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  本地 Codex 连接服务器 Codex CLI：通过 SSH 反向隧道共享本地 HTTP 代理或直连网络，适用于 AutoDL 等 GPU 科研服务器。含 Python 转发器、PowerShell 隧道脚本、中文教程与测试。
+
+- **[LumiaGG/GestureEVO](https://github.com/LumiaGG/GestureEVO)** ⭐ 55
+  ![Kotlin](https://img.shields.io/badge/-Kotlin-lightgrey)
+  None
 
 - **[BasinShaperKiln/rtd](https://github.com/BasinShaperKiln/rtd)** ⭐ 50
   ![HTML](https://img.shields.io/badge/-HTML-lightgrey)
   🔥 pubg-cheats-hacks 🔥
 
-- **[erbi112211-boop/aveva-marine-dev-skill](https://github.com/erbi112211-boop/aveva-marine-dev-skill)** ⭐ 7
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  AVEVA Marine (PDMS) 12.1 SP4 二次开发全栈知识库技能:17 卷穷举命令参考+审计工具+端到端模板 | Full-stack dev knowledge base for AVEVA Marine customization (PML/.NET/marAPI/Vitesse)
-
-- **[a-samy-consultancy/claude-code-setup-kit](https://github.com/a-samy-consultancy/claude-code-setup-kit)** ⭐ 7
-  ![None](https://img.shields.io/badge/-None-lightgrey)
-  Turn Claude Code into a disciplined build team in 10 minutes. One file, any project. Built by Abdo Samy.
-
-- **[zrdep/alienzinhos](https://github.com/zrdep/alienzinhos)** ⭐ 5
-  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
-  Avatares de alien em pixel art gerados a partir de qualquer texto
-
-- **[burhanmoin1/bloodborne-macos-native](https://github.com/burhanmoin1/bloodborne-macos-native)** ⭐ 4
-  ![C++](https://img.shields.io/badge/-C++-pink)
-  None
-
-- **[caleb312/space-frame-agent](https://github.com/caleb312/space-frame-agent)** ⭐ 4
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  None
-
-- **[yq6668/mcd-mood-analyst](https://github.com/yq6668/mcd-mood-analyst)** ⭐ 3
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  一个基于麦当劳 MCP Server 的开源 Skill。它读取你的真实订单记录，结合下单时间、餐品构成和消费金额，推断你下单时的心情，同时给出账单统计、营养画像与每日/每月开支分析。
-
 ### 📈 Weekly Trending
 
-- **[openai/math](https://github.com/openai/math)** ⭐ 14,132
+- **[openai/math](https://github.com/openai/math)** ⭐ 14,304
   ![Lean](https://img.shields.io/badge/-Lean-lightgrey)
   None
 
-- **[storytold/wordcraft](https://github.com/storytold/wordcraft)** ⭐ 6,305
+- **[storytold/wordcraft](https://github.com/storytold/wordcraft)** ⭐ 7,879
   ![Rust](https://img.shields.io/badge/-Rust-brown)
   An open-source, clean-room reimplementation of Microsoft Word in pure Rust
 
-- **[wheresryan22/anatomy](https://github.com/wheresryan22/anatomy)** ⭐ 3,651
+- **[wheresryan22/anatomy](https://github.com/wheresryan22/anatomy)** ⭐ 4,969
   ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
   An agent skill for creating detailed, interactive isometric illustrations of real-world machines and complex systems. Generates polished SVGs with optional WebGL shaders and 3D effects.
 
-- **[alchaincyf/huashu-art-motion](https://github.com/alchaincyf/huashu-art-motion)** ⭐ 3,414
+- **[alchaincyf/huashu-art-motion](https://github.com/alchaincyf/huashu-art-motion)** ⭐ 3,549
   ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
   艺术动画skill：35种艺术风格、9种解说语法，用代码让画动起来。
 
-- **[mhtsec/ARTEX](https://github.com/mhtsec/ARTEX)** ⭐ 3,254
+- **[mhtsec/ARTEX](https://github.com/mhtsec/ARTEX)** ⭐ 3,504
   ![Go](https://img.shields.io/badge/-Go-cyan)
   AI 自主渗透测试系统 | 百度“agent+”攻防挑战赛冠军项目
 
-- **[zhongerxin/iPhone-use](https://github.com/zhongerxin/iPhone-use)** ⭐ 3,132
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  让 Codex 通过 USB 操作真实 iPhone：引导安装、App 自动化、实时屏幕与截图回退。
-
-- **[storytold/gridcraft](https://github.com/storytold/gridcraft)** ⭐ 3,033
+- **[storytold/gridcraft](https://github.com/storytold/gridcraft)** ⭐ 3,413
   ![Rust](https://img.shields.io/badge/-Rust-brown)
   GridCraft: an open-source, clean-room spreadsheet (Microsoft Excel-style) in pure Rust. By ArtCraft.
 
-- **[storytold/cadcraft](https://github.com/storytold/cadcraft)** ⭐ 2,760
+- **[zhongerxin/iPhone-use](https://github.com/zhongerxin/iPhone-use)** ⭐ 3,315
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  让 Codex 通过 USB 操作真实 iPhone：引导安装、App 自动化、实时屏幕与截图回退。
+
+- **[storytold/cadcraft](https://github.com/storytold/cadcraft)** ⭐ 3,108
   ![Rust](https://img.shields.io/badge/-Rust-brown)
   CADCraft: computer-aided design and drafting — an open-source, clean-room AutoCAD-style app in pure Rust
 
 ### 📈 Monthly Trending
 
-- **[storytold/photocraft](https://github.com/storytold/photocraft)** ⭐ 48,381
+- **[storytold/photocraft](https://github.com/storytold/photocraft)** ⭐ 51,165
   ![Rust](https://img.shields.io/badge/-Rust-brown)
   PhotoCraft: An open-source, photo editor written by scratch in pure Rust
 
-- **[NandhaKishorM/laya](https://github.com/NandhaKishorM/laya)** ⭐ 32,371
+- **[NandhaKishorM/laya](https://github.com/NandhaKishorM/laya)** ⭐ 32,485
   ![Python](https://img.shields.io/badge/-Python-blue)
   Non-autoregressive System 1 decision engine. Typed choice, score and yes/no decisions over any text in a single forward pass, in 100+ languages, with a router that picks the right checkpoint per request.
 
-- **[browser-use/jev-ultrafast](https://github.com/browser-use/jev-ultrafast)** ⭐ 22,641
+- **[browser-use/jev-ultrafast](https://github.com/browser-use/jev-ultrafast)** ⭐ 22,711
   ![Python](https://img.shields.io/badge/-Python-blue)
   Fastest and cheapest web agent
 
-- **[Niko1221/Strata](https://github.com/Niko1221/Strata)** ⭐ 21,763
+- **[Niko1221/Strata](https://github.com/Niko1221/Strata)** ⭐ 22,350
   ![C++](https://img.shields.io/badge/-C++-pink)
   Qwen3.8-Flash-Next on any consumer hardware: one-click install for Windows / Linux. Strata inference engine, OpenAI/Anthropic API on localhost, optional image input.
 
-- **[robbietilton/Compositor](https://github.com/robbietilton/Compositor)** ⭐ 16,003
+- **[robbietilton/Compositor](https://github.com/robbietilton/Compositor)** ⭐ 16,261
   ![Swift](https://img.shields.io/badge/-Swift-lightgrey)
   The Photoshop alternative for Mac
 
-- **[openai/math](https://github.com/openai/math)** ⭐ 14,132
+- **[openai/math](https://github.com/openai/math)** ⭐ 14,304
   ![Lean](https://img.shields.io/badge/-Lean-lightgrey)
   None
 
-- **[cdyforever/how-to-live-better](https://github.com/cdyforever/how-to-live-better)** ⭐ 11,197
+- **[cdyforever/how-to-live-better](https://github.com/cdyforever/how-to-live-better)** ⭐ 11,344
   ![HTML](https://img.shields.io/badge/-HTML-lightgrey)
   《高性价比人生指南》全书 528 条的在线单页阅读版：手机可读、可搜索、零依赖、支持离线
 
-- **[storytold/lightcraft](https://github.com/storytold/lightcraft)** ⭐ 10,299
-  ![Rust](https://img.shields.io/badge/-Rust-brown)
-  LightCraft: An open-source non-destructive photo editor written by scratch in pure Rust
+- **[Ebony-Vinyl/dsh-our-free-model](https://github.com/Ebony-Vinyl/dsh-our-free-model)** ⭐ 11,250
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
+  在 dsh 里装上这个插件即可，无需登录、注册或填 API Key，就能使用包括 DeepSeek V4.1 Flash、Kimi K3 在内的前沿模型——完全免费，不限量。 All you do is install this plugin in dsh: no login, no sign-up, no API key — the frontier models are just there, DeepSeek V4.1 Flash and Kimi K3 among them. Completely free, with no usage cap.
 
 ## 🚀 Latest Releases
 
@@ -490,21 +484,21 @@ See [kubernetes-announce@](https://groups.google.com/forum/#!forum/kubernetes-an
 
 | Skill | Status |
 |-------|--------|
-| Java | ⚪ Planned |
-| Python | ⚪ Planned |
-| JavaScript | 🟡 Learning |
-| TypeScript | 🔴 Beginner |
-| Go | 🔴 Beginner |
+| Java | 🔴 Beginner |
+| Python | 🔴 Beginner |
+| JavaScript | 🟢 Proficient |
+| TypeScript | ⚪ Planned |
+| Go | 🟢 Proficient |
 
 ### Frameworks
 
 | Skill | Status |
 |-------|--------|
-| React | 🟢 Proficient |
-| Spring Boot | ⚪ Planned |
-| Django | 🟢 Proficient |
-| Node.js | ⚪ Planned |
-| Next.js | 🔴 Beginner |
+| React | ⚪ Planned |
+| Spring Boot | 🟢 Proficient |
+| Django | 🟡 Learning |
+| Node.js | 🟡 Learning |
+| Next.js | ⚪ Planned |
 
 ### Cybersecurity
 
@@ -512,29 +506,29 @@ See [kubernetes-announce@](https://groups.google.com/forum/#!forum/kubernetes-an
 |-------|--------|
 | Penetration Testing | 🟢 Proficient |
 | Web Security | 🟡 Learning |
-| Network Security | 🟢 Proficient |
-| OWASP | 🟡 Learning |
+| Network Security | ⚪ Planned |
+| OWASP | 🔴 Beginner |
 
 ### Ai Ml
 
 | Skill | Status |
 |-------|--------|
-| Machine Learning | ⚪ Planned |
-| Deep Learning | 🟡 Learning |
-| NLP | 🟡 Learning |
-| Computer Vision | ⚪ Planned |
-| TensorFlow | 🟢 Proficient |
-| PyTorch | 🔴 Beginner |
+| Machine Learning | 🟡 Learning |
+| Deep Learning | 🔴 Beginner |
+| NLP | ⚪ Planned |
+| Computer Vision | 🟢 Proficient |
+| TensorFlow | 🔴 Beginner |
+| PyTorch | 🟢 Proficient |
 
 ### Devops
 
 | Skill | Status |
 |-------|--------|
-| Docker | 🟢 Proficient |
+| Docker | 🟡 Learning |
 | Kubernetes | 🟢 Proficient |
-| CI/CD | 🟡 Learning |
-| AWS | 🟡 Learning |
-| Azure | 🟡 Learning |
+| CI/CD | 🔴 Beginner |
+| AWS | 🔴 Beginner |
+| Azure | ⚪ Planned |
 
 ### Other
 
@@ -542,7 +536,7 @@ See [kubernetes-announce@](https://groups.google.com/forum/#!forum/kubernetes-an
 |-------|--------|
 | Blockchain | 🔴 Beginner |
 | Web3 | 🟡 Learning |
-| Cloud Computing | 🟡 Learning |
+| Cloud Computing | 🔴 Beginner |
 
 </details>
 
