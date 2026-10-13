@@ -7,7 +7,7 @@
 ![AI & ML](https://img.shields.io/badge/-AI%20&%20ML-blue) ![CyberSecurity](https://img.shields.io/badge/-CyberSecurity-red) ![Full Stack Development](https://img.shields.io/badge/-Full%20Stack%20Development-green)
 
 [![Auto Update](https://img.shields.io/badge/Auto%20Update-Enabled-success)](https://github.com/yourusername/tech-dashboard/actions)
-[![Last Updated](https://img.shields.io/badge/Last%20Updated-October 12, 2026-blue)](https://github.com/yourusername/tech-dashboard)
+[![Last Updated](https://img.shields.io/badge/Last%20Updated-October 13, 2026-blue)](https://github.com/yourusername/tech-dashboard)
 
 *Automatically updated every 6 hours with the latest tech news, trending repositories, and learning resources.*
 
@@ -46,34 +46,36 @@
 
 ### 📑 Hacker News
 
-- **[Breaking Bad star RJ Mitte dies aged 34](https://news.sky.com/story/breaking-bad-star-rj-mitte-dies-aged-34-13598332)**
-  *<p>Article URL: <a href="https://news.sky.com/story/breaking-bad-star-rj-mitte-dies-aged-34-13598332">https://news.sky.com/story/breaking-bad-star-rj-mitte-dies-aged-34-13598332</a></p>
-<p>Comments UR...*
-  📅 Mon, 12 Oct 2026 22:15:29 +0000
+- **[A look at OpenAI’s math that’s claimed computes faster Fourier transforms](https://www.argmin.net/p/faster-fourier-transforms)**
+  *<p>Article URL: <a href="https://www.argmin.net/p/faster-fourier-transforms">https://www.argmin.net/p/faster-fourier-transforms</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=5...*
+  📅 Tue, 13 Oct 2026 02:46:43 +0000
 
-- **[AI is a tool and using it well takes skill](https://yyhh.org/blog/2026/10/ai-is-a-tool/)**
-  *<p>Article URL: <a href="https://yyhh.org/blog/2026/10/ai-is-a-tool/">https://yyhh.org/blog/2026/10/ai-is-a-tool/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50063427">https...*
-  📅 Mon, 12 Oct 2026 21:40:18 +0000
+- **[China Overtakes U.S. For First Time as Top Spender on R&D in 2024](https://japannews.yomiuri.co.jp/science-nature/science/20260908-347742/)**
+  *<p>Article URL: <a href="https://japannews.yomiuri.co.jp/science-nature/science/20260908-347742/">https://japannews.yomiuri.co.jp/science-nature/science/20260908-347742/</a></p>
+<p>Comments URL: <a hr...*
+  📅 Tue, 13 Oct 2026 02:25:00 +0000
 
-- **[Phreak.ing – Internet Phone Switch](https://phreak.ing/)**
-  *<p>Article URL: <a href="https://phreak.ing/">https://phreak.ing/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50063417">https://news.ycombinator.com/item?id=50063417</a></p>...*
-  📅 Mon, 12 Oct 2026 21:39:32 +0000
+- **[The Dock on Mac, from OS 10 to macOS 27](https://blog.jim-nielsen.com/2026/macos-dock-icons-over-time/)**
+  *<p>Article URL: <a href="https://blog.jim-nielsen.com/2026/macos-dock-icons-over-time/">https://blog.jim-nielsen.com/2026/macos-dock-icons-over-time/</a></p>
+<p>Comments URL: <a href="https://news.yco...*
+  📅 Tue, 13 Oct 2026 02:09:19 +0000
 
-- **[Intel D270 GPU AI Accelerator–Up to 480 GB LPDDR5X](https://www.intel.com/content/www/us/en/products/details/discrete-gpus/data-center-gpu/d-series.html)**
-  *<p>Article URL: <a href="https://www.intel.com/content/www/us/en/products/details/discrete-gpus/data-center-gpu/d-series.html">https://www.intel.com/content/www/us/en/products/details/discrete-gpus/da...*
-  📅 Mon, 12 Oct 2026 21:35:35 +0000
+- **[AI Models Can Provably Hide Arbitrary Capabilities](https://arxiv.org/abs/2610.13928)**
+  *<p>Article URL: <a href="https://arxiv.org/abs/2610.13928">https://arxiv.org/abs/2610.13928</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50065692">https://news.ycombinator.co...*
+  📅 Tue, 13 Oct 2026 02:07:08 +0000
 
-- **[Who Is Vfmaddrnd231pd?](https://purplesyringa.moe/blog/who-is-vfmaddrnd231pd/)**
-  *<p>Article URL: <a href="https://purplesyringa.moe/blog/who-is-vfmaddrnd231pd/">https://purplesyringa.moe/blog/who-is-vfmaddrnd231pd/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/ite...*
-  📅 Mon, 12 Oct 2026 21:12:43 +0000
+- **[Show HN: SolidCraft – Open-Source Parametric CAD in Rust (With MCP Support)](https://github.com/bherbruck/solidcraft)**
+  *<p>Article URL: <a href="https://github.com/bherbruck/solidcraft">https://github.com/bherbruck/solidcraft</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50064840">https://news....*
+  📅 Tue, 13 Oct 2026 00:11:04 +0000
 
-- **[Show HN: Brickbrag – A multiplayer brick-building world in the browser](https://brickbrag.com/)**
-  *<p>Article URL: <a href="https://brickbrag.com/">https://brickbrag.com/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50063042">https://news.ycombinator.com/item?id=50063042</...*
-  📅 Mon, 12 Oct 2026 21:03:36 +0000
+- **[Blood cells from 80-year-old donor become stem cells with molecular age under 20](https://doi.org/10.1111/acel.70751)**
+  *<p><a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC13634082/" rel="nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC13634082/</a></p>
+<hr />
+<p>Comments URL: <a href="https://news.ycombinator.com/...*
+  📅 Mon, 12 Oct 2026 23:34:22 +0000
 
 ### 📑 TechCrunch
 
@@ -103,13 +105,13 @@
 
 ### 📑 Dev.to
 
-- **[How to run multiple Claude accounts at once (Desktop + Claude Code), and why the obvious hacks break](https://dev.to/sebastian_balog_c88dc2913/how-to-run-multiple-claude-accounts-at-once-desktop-claude-code-and-why-the-obvious-hacks-break-19jb)**
-  *<p><em>Disclosure up front: I build <a href="https://doubleclaude.com" rel="noopener noreferrer">Claude Sessions Pro</a>, a paid Mac app that does this. Most of this post is the free way to do it your...*
-  📅 Mon, 12 Oct 2026 23:52:50 +0000
+- **[The Person Who Championed You Has Just Left](https://dev.to/asael_shinder_9f53bdca840/the-person-who-championed-you-has-just-left-1poo)**
+  *<p>The farewell message goes out on a Friday. The director who pulled you onto the platform project, who mentioned your name in the calibration meeting and told you quietly that you were on track for ...*
+  📅 Tue, 13 Oct 2026 05:33:40 +0000
 
-- **[Moving off Clerk to Better Auth: what's mechanical and what's a rebuild](https://dev.to/authlayerdev/moving-off-clerk-to-better-auth-whats-mechanical-and-whats-a-rebuild-kgp)**
-  *<p>I've done a fair number of NextAuth to Better Auth moves, and they're mostly mechanical: same general shape, swap the library, fix a few call sites. Clerk is a different animal, and you should know...*
-  📅 Mon, 12 Oct 2026 23:51:57 +0000
+- **[A Field Guide to RAG Failure Modes: Garbled Scans, Duplicate Chunks, and Leaky Indexes](https://dev.to/uglypeardata/a-field-guide-to-rag-failure-modes-garbled-scans-duplicate-chunks-and-leaky-indexes-1g8k)**
+  *<p><a class="article-body-image-wrapper" href="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws...*
+  📅 Tue, 13 Oct 2026 05:33:26 +0000
 
 </details>
 
@@ -117,103 +119,103 @@
 
 ### 📈 Daily Trending
 
-- **[jhaizhou-ops/d2r-mobile](https://github.com/jhaizhou-ops/d2r-mobile)** ⭐ 686
-  ![C](https://img.shields.io/badge/-C-lightgrey)
-  Open-source iOS compatibility layer for Diablo II: Resurrected with the Reign of the Warlock expansion. Runs your own Switch copy natively on iPhone and iPad — full touch controls, 60 fps, new endgame modes. Bring your own game files. 开源的《暗黑破坏神 II：狱火重生》术士君临 iOS 兼容层
+- **[ns2250225/guangzhou](https://github.com/ns2250225/guangzhou)** ⭐ 29
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
+  广州旅游观光小游戏
 
-- **[zhuyansen/new-term-radar](https://github.com/zhuyansen/new-term-radar)** ⭐ 532
+- **[keyu-tian-sabotage/keyu-tian-sabotage.github.io](https://github.com/keyu-tian-sabotage/keyu-tian-sabotage.github.io)** ⭐ 24
+  ![HTML](https://img.shields.io/badge/-HTML-lightgrey)
+  None
+
+- **[vakandi/opencode-rust](https://github.com/vakandi/opencode-rust)** ⭐ 18
+  ![Rust](https://img.shields.io/badge/-Rust-brown)
+  The open source AI coding agent, in Rust. CLI, TUI and HTTP server for local AI agents — no Docker required.
+
+- **[Hariharan1419/Slot-detection-using-openCV](https://github.com/Hariharan1419/Slot-detection-using-openCV)** ⭐ 14
+  ![None](https://img.shields.io/badge/-None-lightgrey)
+  Slot detection using open CV for AUT project
+
+- **[youyinchenxi/mcd-tablemate](https://github.com/youyinchenxi/mcd-tablemate)** ⭐ 13
   ![Python](https://img.shields.io/badge/-Python-blue)
-  Daily radar for new AI terms: names of new models, products and repos, caught on X, Hugging Face, GitHub and sitemaps before keyword tools list them.
+  麦桌搭子：协调2–6人的口味和预算，用麦当劳MCP核验整单价格，改单后重新规划。
 
-- **[AnemonePulse/Better-Discord](https://github.com/AnemonePulse/Better-Discord)** ⭐ 480
-  ![None](https://img.shields.io/badge/-None-lightgrey)
-  Better Discord meticulously configures your professional desktop software utilities with a meticulous and highly tailored approach.
+- **[Arekejoker/qwen21-nsfw-pose-skill](https://github.com/Arekejoker/qwen21-nsfw-pose-skill)** ⭐ 11
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  Qwen-Image 2.1 NSFW/姿势出图 skill：作者级提示词配方 + NSFW LoRA + 136 姿势 VNCCS 人偶控制；适用 Claude Code / Codex / Cursor / OpenClaw
 
-- **[PetaMooseVolt/AnyDesk](https://github.com/PetaMooseVolt/AnyDesk)** ⭐ 480
-  ![None](https://img.shields.io/badge/-None-lightgrey)
-  Revolutionize your remote work with AnyDesk's state-of-the-art desktop software utility configuration that maximizes productivity and enhances...
+- **[kobebeefg/ikea-clock-lab](https://github.com/kobebeefg/ikea-clock-lab)** ⭐ 9
+  ![C](https://img.shields.io/badge/-C-lightgrey)
+  Bilingual IKEA KORTLINJE LED panel hack and Wi-Fi clock tutorial
 
-- **[Lengthristride/Total-Commander](https://github.com/Lengthristride/Total-Commander)** ⭐ 480
-  ![None](https://img.shields.io/badge/-None-lightgrey)
-  Total Commander optimizes desktop software utility configurations with its robust and efficient command-line interface, enabling users to seamlessly...
-
-- **[Superincrater/Autodesk-Revit](https://github.com/Superincrater/Autodesk-Revit)** ⭐ 479
-  ![None](https://img.shields.io/badge/-None-lightgrey)
-  Revit optimizes architectural design workflows with a comprehensive BIM solution that streamlines collaboration and documentation processes on a secure...
-
-- **[MouseAngular/KMS-Pico](https://github.com/MouseAngular/KMS-Pico)** ⭐ 478
-  ![None](https://img.shields.io/badge/-None-lightgrey)
-  Kms Pico Free optimizes desktop utility configurations by providing a streamlined interface to manage and configure software applications.
-
-- **[ElementCourse/Windows-Optimizer](https://github.com/ElementCourse/Windows-Optimizer)** ⭐ 475
-  ![None](https://img.shields.io/badge/-None-lightgrey)
-  A professional desktop software utility configuration, Windows Optimizer streamlines system performance by identifying and resolving inefficiencies in...
+- **[WilderNoTrack/mcd-calorie-butler](https://github.com/WilderNoTrack/mcd-calorie-butler)** ⭐ 9
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  麦麦热量管家：减脂不是少吃你爱的，是先换掉不值这口热量的。基于麦当劳 MCP 的味热比点餐 Skill。
 
 ### 📈 Weekly Trending
 
-- **[openai/math](https://github.com/openai/math)** ⭐ 14,418
-  ![Lean](https://img.shields.io/badge/-Lean-lightgrey)
-  None
-
-- **[storytold/wordcraft](https://github.com/storytold/wordcraft)** ⭐ 9,092
+- **[storytold/wordcraft](https://github.com/storytold/wordcraft)** ⭐ 9,558
   ![Rust](https://img.shields.io/badge/-Rust-brown)
   An open-source, clean-room reimplementation of Microsoft Word in pure Rust
 
-- **[wheresryan22/anatomy](https://github.com/wheresryan22/anatomy)** ⭐ 6,178
+- **[wheresryan22/anatomy](https://github.com/wheresryan22/anatomy)** ⭐ 6,685
   ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
   An agent skill for creating detailed, interactive isometric illustrations of real-world machines and complex systems. Generates polished SVGs with optional WebGL shaders and 3D effects.
 
-- **[storytold/gridcraft](https://github.com/storytold/gridcraft)** ⭐ 3,816
+- **[storytold/gridcraft](https://github.com/storytold/gridcraft)** ⭐ 3,966
   ![Rust](https://img.shields.io/badge/-Rust-brown)
   GridCraft: an open-source, clean-room spreadsheet (Microsoft Excel-style) in pure Rust. By ArtCraft.
 
-- **[alchaincyf/huashu-art-motion](https://github.com/alchaincyf/huashu-art-motion)** ⭐ 3,618
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
-  艺术动画skill：35种艺术风格、9种解说语法，用代码让画动起来。
-
-- **[mhtsec/ARTEX](https://github.com/mhtsec/ARTEX)** ⭐ 3,563
+- **[mhtsec/ARTEX](https://github.com/mhtsec/ARTEX)** ⭐ 3,672
   ![Go](https://img.shields.io/badge/-Go-cyan)
   AI 自主渗透测试系统 | 百度“agent+”攻防挑战赛冠军项目
 
-- **[storytold/cadcraft](https://github.com/storytold/cadcraft)** ⭐ 3,456
+- **[storytold/cadcraft](https://github.com/storytold/cadcraft)** ⭐ 3,620
   ![Rust](https://img.shields.io/badge/-Rust-brown)
   CADCraft: computer-aided design and drafting — an open-source, clean-room AutoCAD-style app in pure Rust
 
-- **[zhongerxin/iPhone-use](https://github.com/zhongerxin/iPhone-use)** ⭐ 3,351
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  让 Codex 通过 USB 操作真实 iPhone：引导安装、App 自动化、实时屏幕与截图回退。
+- **[nullmoth/nvidia-macos-driver](https://github.com/nullmoth/nvidia-macos-driver)** ⭐ 2,789
+  ![Rust](https://img.shields.io/badge/-Rust-brown)
+  Metal driver for NVIDIA GeForce RTX cards on macOS 15 Sequoia (Intel / OpenCore). Free, source included.
+
+- **[storytold/deckcraft](https://github.com/storytold/deckcraft)** ⭐ 2,668
+  ![Rust](https://img.shields.io/badge/-Rust-brown)
+  Presentations and slide shows: an open-source, clean-room reimplementation of Microsoft PowerPoint in pure Rust. Part of the ArtCraft Crafting Apps.
+
+- **[t4t5/omdrop-owl](https://github.com/t4t5/omdrop-owl)** ⭐ 2,473
+  ![Shell](https://img.shields.io/badge/-Shell-lightgrey)
+  airdrop for non-apple devices
 
 ### 📈 Monthly Trending
 
-- **[storytold/photocraft](https://github.com/storytold/photocraft)** ⭐ 53,366
+- **[storytold/photocraft](https://github.com/storytold/photocraft)** ⭐ 54,401
   ![Rust](https://img.shields.io/badge/-Rust-brown)
   PhotoCraft: An open-source, photo editor written by scratch in pure Rust
 
-- **[NandhaKishorM/laya](https://github.com/NandhaKishorM/laya)** ⭐ 32,570
+- **[NandhaKishorM/laya](https://github.com/NandhaKishorM/laya)** ⭐ 32,605
   ![Python](https://img.shields.io/badge/-Python-blue)
   Non-autoregressive System 1 decision engine. Typed choice, score and yes/no decisions over any text in a single forward pass, in 100+ languages, with a router that picks the right checkpoint per request.
 
-- **[browser-use/jev-ultrafast](https://github.com/browser-use/jev-ultrafast)** ⭐ 22,744
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  Fastest and cheapest web agent
-
-- **[Niko1221/Strata](https://github.com/Niko1221/Strata)** ⭐ 22,695
+- **[Niko1221/Strata](https://github.com/Niko1221/Strata)** ⭐ 22,952
   ![C++](https://img.shields.io/badge/-C++-pink)
   Qwen3.8-Flash-Next on any consumer hardware: one-click install for Windows / Linux. Strata inference engine, OpenAI/Anthropic API on localhost, optional image input.
 
-- **[robbietilton/Compositor](https://github.com/robbietilton/Compositor)** ⭐ 16,371
+- **[browser-use/jev-ultrafast](https://github.com/browser-use/jev-ultrafast)** ⭐ 22,770
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  Fastest and cheapest web agent
+
+- **[robbietilton/Compositor](https://github.com/robbietilton/Compositor)** ⭐ 16,497
   ![Swift](https://img.shields.io/badge/-Swift-lightgrey)
   The Photoshop alternative for Mac
 
-- **[openai/math](https://github.com/openai/math)** ⭐ 14,418
+- **[openai/math](https://github.com/openai/math)** ⭐ 14,495
   ![Lean](https://img.shields.io/badge/-Lean-lightgrey)
   None
 
-- **[Ebony-Vinyl/dsh-our-free-model](https://github.com/Ebony-Vinyl/dsh-our-free-model)** ⭐ 11,880
+- **[Ebony-Vinyl/dsh-our-free-model](https://github.com/Ebony-Vinyl/dsh-our-free-model)** ⭐ 12,497
   ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
   在 dsh 里装上这个插件即可，无需登录、注册或填 API Key，就能使用包括 DeepSeek V4.1 Flash、Kimi K3 在内的前沿模型——完全免费，不限量。 All you do is install this plugin in dsh: no login, no sign-up, no API key — the frontier models are just there, DeepSeek V4.1 Flash and Kimi K3 among them. Completely free, with no usage cap.
 
-- **[storytold/filmcraft](https://github.com/storytold/filmcraft)** ⭐ 11,478
+- **[storytold/filmcraft](https://github.com/storytold/filmcraft)** ⭐ 11,720
   ![Rust](https://img.shields.io/badge/-Rust-brown)
   FilmCraft: An open-source, nonlinear video editor written by scratch in pure Rust
 
@@ -484,27 +486,27 @@ See [kubernetes-announce@](https://groups.google.com/forum/#!forum/kubernetes-an
 | Skill | Status |
 |-------|--------|
 | Java | 🔴 Beginner |
-| Python | 🟢 Proficient |
-| JavaScript | 🟢 Proficient |
-| TypeScript | 🔴 Beginner |
-| Go | 🔴 Beginner |
+| Python | 🔴 Beginner |
+| JavaScript | 🟡 Learning |
+| TypeScript | 🟢 Proficient |
+| Go | 🟢 Proficient |
 
 ### Frameworks
 
 | Skill | Status |
 |-------|--------|
-| React | 🟡 Learning |
+| React | ⚪ Planned |
 | Spring Boot | 🟡 Learning |
-| Django | 🟢 Proficient |
+| Django | ⚪ Planned |
 | Node.js | ⚪ Planned |
-| Next.js | 🟢 Proficient |
+| Next.js | ⚪ Planned |
 
 ### Cybersecurity
 
 | Skill | Status |
 |-------|--------|
-| Penetration Testing | 🟡 Learning |
-| Web Security | ⚪ Planned |
+| Penetration Testing | ⚪ Planned |
+| Web Security | 🟡 Learning |
 | Network Security | ⚪ Planned |
 | OWASP | 🟢 Proficient |
 
@@ -513,21 +515,21 @@ See [kubernetes-announce@](https://groups.google.com/forum/#!forum/kubernetes-an
 | Skill | Status |
 |-------|--------|
 | Machine Learning | ⚪ Planned |
-| Deep Learning | 🟢 Proficient |
-| NLP | 🟢 Proficient |
+| Deep Learning | 🔴 Beginner |
+| NLP | 🟡 Learning |
 | Computer Vision | 🟡 Learning |
-| TensorFlow | ⚪ Planned |
+| TensorFlow | 🟡 Learning |
 | PyTorch | 🟡 Learning |
 
 ### Devops
 
 | Skill | Status |
 |-------|--------|
-| Docker | 🟡 Learning |
-| Kubernetes | 🟡 Learning |
+| Docker | 🔴 Beginner |
+| Kubernetes | 🟢 Proficient |
 | CI/CD | 🔴 Beginner |
-| AWS | 🟡 Learning |
-| Azure | 🔴 Beginner |
+| AWS | 🟢 Proficient |
+| Azure | ⚪ Planned |
 
 ### Other
 
@@ -535,7 +537,7 @@ See [kubernetes-announce@](https://groups.google.com/forum/#!forum/kubernetes-an
 |-------|--------|
 | Blockchain | ⚪ Planned |
 | Web3 | 🟢 Proficient |
-| Cloud Computing | 🟡 Learning |
+| Cloud Computing | ⚪ Planned |
 
 </details>
 
@@ -553,7 +555,7 @@ This dashboard is automatically updated every 6 hours using GitHub Actions. The 
 
 <div align="center">
 
-**Last Updated:** October 12, 2026
+**Last Updated:** October 13, 2026
 
 Made with ❤️ and automated with GitHub Actions
 
