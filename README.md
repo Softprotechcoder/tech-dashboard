@@ -21,7 +21,7 @@
 |--------|-------|
 | 📰 Latest News Articles | 26 |
 | 🔥 Trending Repositories | 45 |
-| 🎯 Latest Releases | 10 |
+| 🎯 Latest Releases | 5 |
 | 🎯 Learning Goals | 4 |
 
 ## 🎯 Current Focus
@@ -46,78 +46,74 @@
 
 ### 📑 Hacker News
 
-- **[Passkeys Are Not a Trap](https://scotthelme.co.uk/passkeys-are-not-a-trap/)**
-  *<p>Article URL: <a href="https://scotthelme.co.uk/passkeys-are-not-a-trap/">https://scotthelme.co.uk/passkeys-are-not-a-trap/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=500...*
-  📅 Wed, 14 Oct 2026 15:15:45 +0000
+- **[Anthropic's Scion is heavily inspired by Mononoke](https://sunshowers.io/posts/anthropic-mononoke/)**
+  *<p>Article URL: <a href="https://sunshowers.io/posts/anthropic-mononoke/">https://sunshowers.io/posts/anthropic-mononoke/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=5009469...*
+  📅 Wed, 14 Oct 2026 20:30:54 +0000
 
-- **[Running Windows desktop tests from Linux with disposable VMs](https://www.qawolf.com/blog/how-we-solved-windows-desktop-automation)**
-  *<p>Article URL: <a href="https://www.qawolf.com/blog/how-we-solved-windows-desktop-automation">https://www.qawolf.com/blog/how-we-solved-windows-desktop-automation</a></p>
-<p>Comments URL: <a href="ht...*
-  📅 Wed, 14 Oct 2026 14:55:19 +0000
+- **[Yandex outage: data shows that instead of going dark, malicious bots moved](https://blog.cloudflare.com/yandex-outage/)**
+  *<p>Article URL: <a href="https://blog.cloudflare.com/yandex-outage/">https://blog.cloudflare.com/yandex-outage/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50094673">https:/...*
+  📅 Wed, 14 Oct 2026 20:29:13 +0000
 
-- **[AI is mass decompiling games. That's both awesome and scary](https://popcar.bearblog.dev/ai-is-mass-decompiling-games-thats-both-awesome-and-scary/)**
-  *<p>Article URL: <a href="https://popcar.bearblog.dev/ai-is-mass-decompiling-games-thats-both-awesome-and-scary/">https://popcar.bearblog.dev/ai-is-mass-decompiling-games-thats-both-awesome-and-scary/<...*
-  📅 Wed, 14 Oct 2026 14:47:44 +0000
+- **[Fancy Curl Sites](https://nytpu.com/gemlog/2026-03-18)**
+  *<p>Article URL: <a href="https://nytpu.com/gemlog/2026-03-18">https://nytpu.com/gemlog/2026-03-18</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50093612">https://news.ycombina...*
+  📅 Wed, 14 Oct 2026 19:29:12 +0000
 
-- **[ASML's strong orders ease fears AI spending boom is running out of steam](https://www.reuters.com/business/asml-forecasts-q4-sales-above-expectations-ai-chip-demand-2026-10-14/)**
-  *<p>Article URL: <a href="https://www.reuters.com/business/asml-forecasts-q4-sales-above-expectations-ai-chip-demand-2026-10-14/">https://www.reuters.com/business/asml-forecasts-q4-sales-above-expectat...*
-  📅 Wed, 14 Oct 2026 14:38:55 +0000
+- **[Things to know if you get cancer in 2026](https://jjmaxwell4.com/writing/things-to-know-when-you-get-cancer/)**
+  *<p>Article URL: <a href="https://jjmaxwell4.com/writing/things-to-know-when-you-get-cancer/">https://jjmaxwell4.com/writing/things-to-know-when-you-get-cancer/</a></p>
+<p>Comments URL: <a href="https:...*
+  📅 Wed, 14 Oct 2026 19:26:30 +0000
 
-- **[Apple Keynote now showing ads in its UI](https://mastodon.social/@marioguzman/117436264149891011)**
-  *<p>Article URL: <a href="https://mastodon.social/@marioguzman/117436264149891011">https://mastodon.social/@marioguzman/117436264149891011</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com...*
-  📅 Wed, 14 Oct 2026 13:31:27 +0000
+- **[Suicide rates highest ever among middle-aged men](https://www.telegraph.co.uk/news/2026/10/13/suicide-rates-highest-ever-among-middle-aged-men/)**
+  *<p>Article URL: <a href="https://www.telegraph.co.uk/news/2026/10/13/suicide-rates-highest-ever-among-middle-aged-men/">https://www.telegraph.co.uk/news/2026/10/13/suicide-rates-highest-ever-among-mid...*
+  📅 Wed, 14 Oct 2026 19:03:58 +0000
 
-- **[Eric Binnion has died](https://ma.tt/2026/10/rip-eric/)**
-  *<p>Article URL: <a href="https://ma.tt/2026/10/rip-eric/">https://ma.tt/2026/10/rip-eric/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50087044">https://news.ycombinator.com/...*
-  📅 Wed, 14 Oct 2026 12:58:32 +0000
+- **[Fire at Starlink site in Bulgaria after suspected sabotage in Poland](https://dpa-international.com/politics/urn:newsml:dpa.com:20090101:261014-930-839530/)**
+  *<p>Article URL: <a href="https://dpa-international.com/politics/urn:newsml:dpa.com:20090101:261014-930-839530/">https://dpa-international.com/politics/urn:newsml:dpa.com:20090101:261014-930-839530/</a...*
+  📅 Wed, 14 Oct 2026 18:37:21 +0000
 
 ### 📑 TechCrunch
 
-- **[Prismm helps banks keep inherited money in-house](https://techcrunch.com/2026/10/14/prismm-helps-banks-keep-inherited-money-in-house/)**
-  *With Prismm, account holders can give designated family members access to their accounts and documents ahead of time....*
-  📅 Wed, 14 Oct 2026 16:00:00 +0000
+- **[Colossal Biosciences announces new AI platform to help accelerate de-extinction efforts](https://techcrunch.com/2026/10/14/colossal-biosciences-announces-new-ai-platform-to-help-accelerate-de-extinction-efforts/)**
+  *Colossal announced a new AI platform to help accelerate its de-extinction efforts and  Peter Diamandis has launched a new fund to back startups who use it....*
+  📅 Wed, 14 Oct 2026 21:00:00 +0000
 
-- **[Deezer will soon let you filter out AI-generated music](https://techcrunch.com/2026/10/14/deezer-will-soon-let-you-filter-out-ai-generated-music/)**
-  *Deezer said that the new toggle will be rolled out by the end of the year....*
-  📅 Wed, 14 Oct 2026 15:16:04 +0000
+- **[Flock CEO: We haven’t ‘fired’ any police departments as customers](https://techcrunch.com/2026/10/14/flock-ceo-we-havent-fired-any-police-departments-as-customers/)**
+  *Flock CEO Garrett Langley said that the surveillance company has not canceled contracts of any police department or law enforcement agency, despite reports of abuse....*
+  📅 Wed, 14 Oct 2026 20:26:25 +0000
 
-- **[Save 50% on your TechCrunch Disrupt 2026 ticket and join the last 2 days in San Francisco’s Moscone West](https://techcrunch.com/2026/10/14/save-50-on-your-techcrunch-disrupt-2026-ticket-and-join-the-last-two-days-in-san-francisco/)**
-  *Get 50% discount on the last two days of TechCrunch Disrupt 2026, Oct. 14-25, in San Francisco's Moscone West. Register now and join the rest of the startup ecosystem. Today, it's all about physical a...*
-  📅 Wed, 14 Oct 2026 15:13:24 +0000
+- **[Electric vehicle sales in the US are showing signs of life](https://techcrunch.com/2026/10/14/electric-vehicle-sales-in-the-u-s-are-showing-signs-of-life/)**
+  *The electric vehicle market in the U.S. has been growing for the last three consecutive quarters....*
+  📅 Wed, 14 Oct 2026 20:12:07 +0000
 
-- **[Zenzap raises $44M for its AI chat app that aims to replace WhatsApp in the workplace](https://techcrunch.com/2026/10/14/zenzap-raises-44m-for-its-ai-chat-app-that-aims-to-replace-whatsapp-in-the-workplace/)**
-  *Zenzap is used by organizations including Starbucks and Taco Bell....*
-  📅 Wed, 14 Oct 2026 15:08:00 +0000
+- **[TimeTeller puts our internal clocks at the center of personalized medicine](https://techcrunch.com/2026/10/14/timeteller-puts-our-internal-clocks-at-the-center-of-personalized-medicine/)**
+  *German startup TimeTeller has developed a saliva test kit to help anyone understand their circadian rhythm; it aims to reduce side effects from cancer treatments....*
+  📅 Wed, 14 Oct 2026 20:00:00 +0000
 
-- **[Floqer’s AI agents research sales prospects so teams don’t have to](https://techcrunch.com/2026/10/14/floqers-ai-agents-help-b2b-revenue-teams-research-customers/)**
-  *The problem Floqer is trying to solve is familiar to anyone who has worked in sales or revenue operations....*
-  📅 Wed, 14 Oct 2026 15:00:00 +0000
+- **[Ambrosia Energy will build a 10 GWh factory in Texas to make batteries for off-grid data centers](https://techcrunch.com/2026/10/14/ambrosia-energy-will-build-a-10-gwh-factory-in-texas-to-make-batteries-for-off-grid-data-centers/)**
+  *Startup Ambrosia Energy will build a massive factory to crank out batteries to augment solar panels, creating a round-the-clock clean power plant....*
+  📅 Wed, 14 Oct 2026 19:51:34 +0000
 
-- **[Netflix to lay off 1,000 staff amid intensifying competition for user attention](https://techcrunch.com/2026/10/14/netflix-to-lay-off-1000-staff-amid-intensifying-competition-for-user-attention/)**
-  *Netflix said most of the cuts would affect its product, tech, legal, and human resources departments....*
-  📅 Wed, 14 Oct 2026 14:55:47 +0000
+- **[Hiyd is a health tracker that attaches to the watch you already wear](https://techcrunch.com/2026/10/14/hiyd-is-a-health-tracker-that-attaches-to-the-watch-you-already-wear/)**
+  *Former Apple engineers figured out how to get a biometric sensor to attach to your watch without any magnets or adhesives....*
+  📅 Wed, 14 Oct 2026 19:00:00 +0000
 
 ### 📑 Dev.to
 
-- **[CodeSmith Meta-Ability: All-Green Tests Only Count After a Replay](https://dev.to/dogeking/codesmith-meta-ability-all-green-tests-only-count-after-a-replay-1fii)**
-  *<h1>
-  
-  
-  Meta-Ability: "Tests All Green" Only Counts After You Replay It
-</h1>
+- **[Managing File and Directory Permissions in Linux](https://dev.to/vultr/managing-file-and-directory-permissions-in-linux-33cp)**
+  *<p>Linux permissions control how users access, modify, and execute files or directories on a system. Efficient management of user permissions improves system security and access control by preventing ...*
+  📅 Wed, 14 Oct 2026 21:05:56 +0000
 
-<blockquote>
-<p>Source version of <a href="https://github.com/camilesing/CodeSmith" rel="noopener noreferrer">CodeSm...*
-  📅 Wed, 14 Oct 2026 16:06:00 +0000
-
-- **[good](https://dev.to/athlawange/good-19dl)**
-  *<div class="ltag__link--embedded">
-  <div class="crayons-story ">
-  <a class="crayons-story__hidden-navigation-link" href="https://dev.to/athlawange/ledgervault-ai-private-zero-cloud-invoice-receipt-s...*
-  📅 Wed, 14 Oct 2026 16:04:55 +0000
+- **[Paste 2,000 Characters at a Line-Mode Prompt and macOS Keeps 1,024. Blame the TTY](https://dev.to/gabrielanhaia/paste-2000-characters-at-a-line-mode-prompt-and-macos-keeps-1024-blame-the-tty-2hc1)**
+  *<ul>
+<li>
+<strong>Book:</strong> <a href="https://www.amazon.com/dp/B0GYMFPTWV" rel="noopener noreferrer">System Design Pocket Guide: Fundamentals</a>
+</li>
+<li>
+<strong>The series:</strong> <em>Pocke...*
+  📅 Wed, 14 Oct 2026 21:05:47 +0000
 
 </details>
 
@@ -129,99 +125,99 @@
   ![Python](https://img.shields.io/badge/-Python-blue)
   jackie-fmri-sim
 
-- **[deeeeone/gitdrive](https://github.com/deeeeone/gitdrive)** ⭐ 97
-  ![Swift](https://img.shields.io/badge/-Swift-lightgrey)
-  Turn GitHub into an iCloud-style drive for macOS. Native Finder integration, files on demand, real git history, Git LFS, and optional ML-KEM + X25519 encryption where GitHub sees only random data.
-
-- **[0xProbabillity/house-control](https://github.com/0xProbabillity/house-control)** ⭐ 95
+- **[0xProbabillity/house-control](https://github.com/0xProbabillity/house-control)** ⭐ 161
   ![Swift](https://img.shields.io/badge/-Swift-lightgrey)
   Your home as a live 3D model in the Mac menu bar and on iPhone — lights and ACs via Smart Life, Home Assistant, Philips Hue and Apple Home.
 
-- **[MyLuxy/overdrive](https://github.com/MyLuxy/overdrive)** ⭐ 55
+- **[MyLuxy/overdrive](https://github.com/MyLuxy/overdrive)** ⭐ 125
   ![C++](https://img.shields.io/badge/-C++-pink)
   Overdrive, a PS5 homebrew game store with 1,800+ games.
 
-- **[Pyramidsaintfall/valor-mortis-vram-graphics-profile-manager](https://github.com/Pyramidsaintfall/valor-mortis-vram-graphics-profile-manager)** ⭐ 47
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  Windows utility repository for Valor Mortis VRAM-oriented graphics presets, texture and shadow profiles, resolution settings, GPU-specific configurations, and visual-performance profile management.
+- **[Caho1/open-claude-ui](https://github.com/Caho1/open-claude-ui)** ⭐ 119
+  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
+  基于 REA 深度拆解并高保真还原 Claude 官方桌面端 UI。纯手写 30 个独立 React 组件与 8 项硬核交互物理算法，附带 3000+ 行逆向分析手册。
 
-- **[Labeldriplay/star-wars-galactic-racer-save-backup-recovery-manager](https://github.com/Labeldriplay/star-wars-galactic-racer-save-backup-recovery-manager)** ⭐ 46
-  ![None](https://img.shields.io/badge/-None-lightgrey)
-  Windows utility repository for STAR WARS: Galactic Racer save backup workflows, restore points, profile snapshots, recovery-oriented archive management, and safer save protection before updates or configuration changes.
+- **[deeeeone/gitdrive](https://github.com/deeeeone/gitdrive)** ⭐ 109
+  ![Swift](https://img.shields.io/badge/-Swift-lightgrey)
+  Turn GitHub into an iCloud-style drive for macOS. Native Finder integration, files on demand, real git history, Git LFS, and optional ML-KEM + X25519 encryption where GitHub sees only random data.
 
-- **[PotterBasin19/aion-2-fps-refresh-rate-profile-manager](https://github.com/PotterBasin19/aion-2-fps-refresh-rate-profile-manager)** ⭐ 46
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  Windows utility repository for AION 2 FPS profiles, refresh-rate presets, frametime-oriented configuration workflows, display settings organization, and reusable performance profiles.
+- **[Graphicle-AI/graphicle](https://github.com/Graphicle-AI/graphicle)** ⭐ 102
+  ![Rust](https://img.shields.io/badge/-Rust-brown)
+  Code graph and memory for your coding agents, in one Rust program. For Claude Code, Codex, Cursor and any MCP client.
 
-- **[weldlancerwire/aion-2-server-latency-route-diagnostics](https://github.com/weldlancerwire/aion-2-server-latency-route-diagnostics)** ⭐ 45
+- **[assafkip/claudemy](https://github.com/assafkip/claudemy)** ⭐ 86
   ![Python](https://img.shields.io/badge/-Python-blue)
-  Windows utility repository for AION 2 server latency checks, region comparison, route and hop diagnostics, packet-loss review, and connection troubleshooting workflows.
+  Claudemy: an open-source alternative to Udemy and Coursera. Give Claude a topic, it researches the web and builds a course of 2-minute audio lessons with cited sources. A free Claude Code skill.
+
+- **[caveman-ai/trim-1](https://github.com/caveman-ai/trim-1)** ⭐ 66
+  ![Go](https://img.shields.io/badge/-Go-cyan)
+  trim-1: a 1.2 MB model that keeps the lines of a context an AI agent needs
 
 ### 📈 Weekly Trending
 
-- **[wheresryan22/anatomy](https://github.com/wheresryan22/anatomy)** ⭐ 9,507
+- **[wheresryan22/anatomy](https://github.com/wheresryan22/anatomy)** ⭐ 9,863
   ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
   An agent skill for creating detailed, interactive isometric illustrations of real-world machines and complex systems. Generates polished SVGs with optional WebGL shaders and 3D effects.
 
-- **[mhtsec/ARTEX](https://github.com/mhtsec/ARTEX)** ⭐ 4,051
+- **[mhtsec/ARTEX](https://github.com/mhtsec/ARTEX)** ⭐ 4,070
   ![Go](https://img.shields.io/badge/-Go-cyan)
   AI 自主渗透测试系统 | 百度“agent+”攻防挑战赛冠军项目
 
-- **[ARahim3/DigUp](https://github.com/ARahim3/DigUp)** ⭐ 3,374
+- **[ARahim3/DigUp](https://github.com/ARahim3/DigUp)** ⭐ 3,552
   ![Swift](https://img.shields.io/badge/-Swift-lightgrey)
-  Search your Mac by what's in your files: photos, PDFs, recordings, videos and code. On-device, built on Google DeepMind's EmbeddingGemma 2.
+  Search your computer by what's in your files: photos, PDFs, documents, recordings, videos and code. On-device on Mac, Windows and Linux, built on Google DeepMind's EmbeddingGemma 2.
 
-- **[t4t5/omdrop-owl](https://github.com/t4t5/omdrop-owl)** ⭐ 2,650
+- **[t4t5/omdrop-owl](https://github.com/t4t5/omdrop-owl)** ⭐ 2,666
   ![Shell](https://img.shields.io/badge/-Shell-lightgrey)
   airdrop for non-apple devices
 
-- **[storytold/craft-launcher](https://github.com/storytold/craft-launcher)** ⭐ 2,564
+- **[storytold/craft-launcher](https://github.com/storytold/craft-launcher)** ⭐ 2,611
   ![Rust](https://img.shields.io/badge/-Rust-brown)
   The Craft App Launcher
 
-- **[liseami/CCBaga](https://github.com/liseami/CCBaga)** ⭐ 2,236
+- **[liseami/CCBaga](https://github.com/liseami/CCBaga)** ⭐ 2,243
   ![Rust](https://img.shields.io/badge/-Rust-brown)
   None
 
-- **[noahdunnagan/fsearch](https://github.com/noahdunnagan/fsearch)** ⭐ 2,044
-  ![Rust](https://img.shields.io/badge/-Rust-brown)
-  Whole-disk file search for macOS: fuzzy names, typo tolerance, indexed content grep. ~1 ms over 8M files.
-
-- **[onehumanbeing/esp32-iphone-agent](https://github.com/onehumanbeing/esp32-iphone-agent)** ⭐ 2,022
+- **[onehumanbeing/esp32-iphone-agent](https://github.com/onehumanbeing/esp32-iphone-agent)** ⭐ 2,060
   ![Python](https://img.shields.io/badge/-Python-blue)
   Let an AI model use a real iPhone with a $7 ESP32: AirPlay eyes, USB HID hands, any OpenAI-compatible vision model. No Mac, no developer account, no jailbreak.
 
+- **[jhaizhou-ops/d2r-mobile](https://github.com/jhaizhou-ops/d2r-mobile)** ⭐ 2,053
+  ![C](https://img.shields.io/badge/-C-lightgrey)
+  Open-source iOS / macOS compatibility layer for Diablo II: Resurrected with the Reign of the Warlock expansion. Runs your own Switch copy natively on iPhone, iPad and Mac — full touch controls, 60 fps, new endgame modes. Bring your own game files. 开源的《暗黑破坏神 II：狱火重生》术士君临 iOS / macOS 兼容层
+
 ### 📈 Monthly Trending
 
-- **[storytold/photocraft](https://github.com/storytold/photocraft)** ⭐ 60,199
+- **[storytold/photocraft](https://github.com/storytold/photocraft)** ⭐ 60,798
   ![Rust](https://img.shields.io/badge/-Rust-brown)
   PhotoCraft: An open-source, photo editor written by scratch in pure Rust
 
-- **[NandhaKishorM/laya](https://github.com/NandhaKishorM/laya)** ⭐ 32,886
+- **[NandhaKishorM/laya](https://github.com/NandhaKishorM/laya)** ⭐ 32,903
   ![Python](https://img.shields.io/badge/-Python-blue)
   Non-autoregressive System 1 decision engine. Typed choice, score and yes/no decisions over any text in a single forward pass, in 100+ languages, with a router that picks the right checkpoint per request.
 
-- **[Niko1221/Strata](https://github.com/Niko1221/Strata)** ⭐ 24,378
+- **[Niko1221/Strata](https://github.com/Niko1221/Strata)** ⭐ 24,530
   ![C++](https://img.shields.io/badge/-C++-pink)
   Qwen3.8-Flash-Next on any consumer hardware: one-click install for Windows / Linux. Strata inference engine, OpenAI/Anthropic API on localhost, optional image input.
 
-- **[browser-use/jev-ultrafast](https://github.com/browser-use/jev-ultrafast)** ⭐ 22,895
+- **[browser-use/jev-ultrafast](https://github.com/browser-use/jev-ultrafast)** ⭐ 22,911
   ![Python](https://img.shields.io/badge/-Python-blue)
   Fastest and cheapest web agent
 
-- **[robbietilton/Compositor](https://github.com/robbietilton/Compositor)** ⭐ 16,880
+- **[robbietilton/Compositor](https://github.com/robbietilton/Compositor)** ⭐ 16,898
   ![Swift](https://img.shields.io/badge/-Swift-lightgrey)
   The Photoshop alternative for Mac
 
-- **[Ebony-Vinyl/dsh-our-free-model](https://github.com/Ebony-Vinyl/dsh-our-free-model)** ⭐ 15,872
+- **[Ebony-Vinyl/dsh-our-free-model](https://github.com/Ebony-Vinyl/dsh-our-free-model)** ⭐ 16,084
   ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
   在 dsh 里装上这个插件即可，无需登录、注册或填 API Key，就能使用包括 DeepSeek V4.1 Flash、Kimi K3 在内的前沿模型——完全免费，不限量。 All you do is install this plugin in dsh: no login, no sign-up, no API key — the frontier models are just there, DeepSeek V4.1 Flash and Kimi K3 among them. Completely free, with no usage cap.
 
-- **[openai/math](https://github.com/openai/math)** ⭐ 14,776
+- **[openai/math](https://github.com/openai/math)** ⭐ 14,804
   ![Lean](https://img.shields.io/badge/-Lean-lightgrey)
   None
 
-- **[storytold/pdfcraft](https://github.com/storytold/pdfcraft)** ⭐ 13,444
+- **[storytold/pdfcraft](https://github.com/storytold/pdfcraft)** ⭐ 13,614
   ![Rust](https://img.shields.io/badge/-Rust-brown)
   PdfCraft: An open-source PDF reader and editor written by scratch in pure Rust
 
@@ -232,27 +228,23 @@
 
 ### 📦 microsoft/vscode
 
-**[1.141.2](https://github.com/microsoft/vscode/releases/tag/1.141.2)** `1.141.2`
+**[1.142.0](https://github.com/microsoft/vscode/releases/tag/1.142.0)** `1.142.0`
 
 📅 Released: October 14, 2026
 
-https://code.visualstudio.com/updates/v1_141...
+https://code.visualstudio.com/updates/v1_142...
 
 ---
 
 ### 📦 facebook/react
 
-**[19.3.0 (September 9, 2026)](https://github.com/react/react/releases/tag/v19.3.0)** `v19.3.0`
+**[19.3.1 (October 14th, 2026)](https://github.com/react/react/releases/tag/v19.3.1)** `v19.3.1`
 
-📅 Released: September 09, 2026
+📅 Released: October 14, 2026
 
-Below is a list of all new features, APIs, and bug fixes.
+## React Server Components
 
-Read the [React 19.3 release post](https://react.dev/blog/2026/09/09/react-19-3) for more information.
-
-## New React Features
-
-- `<View...
+- Improve transport protocol ([#37845](https://github.com/facebook/react/pull/37845) by @unstubbable and @eps1lon)...
 
 ---
 
@@ -297,68 +289,6 @@ Please refer...
 
 * Support for Python 3.9 has been removed starting with TF 2.21.
 * The TensorBoard (TB) dependency has been removed starting with TF 2.21....
-
----
-
-### 📦 pytorch/pytorch
-
-**[PyTorch 2.14.1 Release](https://github.com/pytorch/pytorch/releases/tag/v2.14.1)** `v2.14.1`
-
-📅 Released: September 30, 2026
-
-This release is meant to fix the following regressions and silent correctness issues:
-
-## Silent correctness fixes
-- Fix incorrect `torch.linalg.lstsq` solutions on MPS for complex batched underdet...
-
----
-
-### 📦 kubernetes/kubernetes
-
-**[v1.37.1](https://github.com/kubernetes/kubernetes/releases/tag/v1.37.1)** `v1.37.1`
-
-📅 Released: September 23, 2026
-
-
-See [kubernetes-announce@](https://groups.google.com/forum/#!forum/kubernetes-announce). Additional binary downloads are linked in the [CHANGELOG](https://github.com/kubernetes/kubernetes/blob/master...
-
----
-
-### 📦 docker/compose
-
-**[v5.6.0](https://github.com/docker/compose/releases/tag/v5.6.0)** `v5.6.0`
-
-📅 Released: October 02, 2026
-
-## What's Changed
-
-> ℹ️ This release adds **partial support for jobs**: only manually-triggered jobs are supported for now, scheduled jobs are not yet available. Full job support will land once the ...
-
----
-
-### 📦 nodejs/node
-
-**[2026-10-14, Version 26.12.0 (Current), @richardlau](https://github.com/nodejs/node/releases/tag/v26.12.0)** `v26.12.0`
-
-📅 Released: October 14, 2026
-
-### Notable Changes
-
-* \[[`1ebd6d3677`](https://github.com/nodejs/node/commit/1ebd6d3677)] - **(SEMVER-MINOR)** **doc,lib,src**: throw on missing WebAssembly or RX support (Paolo Insogna) [#66533](h...
-
----
-
-### 📦 rust-lang/rust
-
-**[Rust 1.99.0](https://github.com/rust-lang/rust/releases/tag/1.99.0)** `1.99.0`
-
-📅 Released: October 01, 2026
-
-<a id="1.99.0-Language"></a>
-
-## Language
-
-- [Add allow-by-default `raw_borrows_via_references` lint that checks for references that decay immediately into raw borrows](https://github.com/rust-lang/ru...
 
 ---
 
@@ -487,51 +417,51 @@ See [kubernetes-announce@](https://groups.google.com/forum/#!forum/kubernetes-an
 
 | Skill | Status |
 |-------|--------|
-| Java | 🔴 Beginner |
-| Python | 🟢 Proficient |
-| JavaScript | ⚪ Planned |
+| Java | 🟡 Learning |
+| Python | 🔴 Beginner |
+| JavaScript | 🟢 Proficient |
 | TypeScript | 🔴 Beginner |
-| Go | 🔴 Beginner |
+| Go | ⚪ Planned |
 
 ### Frameworks
 
 | Skill | Status |
 |-------|--------|
-| React | ⚪ Planned |
-| Spring Boot | ⚪ Planned |
+| React | 🟡 Learning |
+| Spring Boot | 🟡 Learning |
 | Django | 🟡 Learning |
 | Node.js | 🟢 Proficient |
-| Next.js | 🟢 Proficient |
+| Next.js | ⚪ Planned |
 
 ### Cybersecurity
 
 | Skill | Status |
 |-------|--------|
-| Penetration Testing | 🟡 Learning |
-| Web Security | ⚪ Planned |
+| Penetration Testing | 🟢 Proficient |
+| Web Security | 🟢 Proficient |
 | Network Security | 🟢 Proficient |
-| OWASP | 🟢 Proficient |
+| OWASP | ⚪ Planned |
 
 ### Ai Ml
 
 | Skill | Status |
 |-------|--------|
-| Machine Learning | 🟢 Proficient |
-| Deep Learning | 🔴 Beginner |
-| NLP | 🔴 Beginner |
-| Computer Vision | 🔴 Beginner |
-| TensorFlow | 🟡 Learning |
-| PyTorch | 🟡 Learning |
+| Machine Learning | 🟡 Learning |
+| Deep Learning | ⚪ Planned |
+| NLP | ⚪ Planned |
+| Computer Vision | 🟢 Proficient |
+| TensorFlow | 🟢 Proficient |
+| PyTorch | 🔴 Beginner |
 
 ### Devops
 
 | Skill | Status |
 |-------|--------|
-| Docker | 🔴 Beginner |
-| Kubernetes | 🔴 Beginner |
-| CI/CD | 🟢 Proficient |
-| AWS | 🟢 Proficient |
-| Azure | 🟡 Learning |
+| Docker | 🟡 Learning |
+| Kubernetes | 🟡 Learning |
+| CI/CD | 🟡 Learning |
+| AWS | 🟡 Learning |
+| Azure | 🔴 Beginner |
 
 ### Other
 
