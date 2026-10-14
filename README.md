@@ -46,33 +46,33 @@
 
 ### 📑 Hacker News
 
-- **[I built a tool to track what AI leaders say and how their views change on video](https://blumify.io/people)**
-  *<p>Article URL: <a href="https://blumify.io/people">https://blumify.io/people</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50081151">https://news.ycombinator.com/item?id=5008...*
-  📅 Wed, 14 Oct 2026 01:09:13 +0000
+- **[Show HN: Building an LLM from Scratch in TypeScript](https://book.humanexperiences.io/)**
+  *<p>I wanted to understand transformers at a level where nothing is magic, so I'm building a ChatGPT-style model from first principles in TypeScript. Why not Python? I've found that reimplementing conc...*
+  📅 Wed, 14 Oct 2026 10:29:56 +0000
 
-- **[High-speed video reveals how honey bee stingers pump venom](https://arstechnica.com/science/2026/10/honey-bee-stingers-are-double-piston-venom-pumps/)**
-  *<p>Article URL: <a href="https://arstechnica.com/science/2026/10/honey-bee-stingers-are-double-piston-venom-pumps/">https://arstechnica.com/science/2026/10/honey-bee-stingers-are-double-piston-venom-p...*
-  📅 Wed, 14 Oct 2026 01:05:23 +0000
+- **[I let an AI run my startup for a week](https://daily.tinyprojects.dev/221)**
+  *<p>Article URL: <a href="https://daily.tinyprojects.dev/221">https://daily.tinyprojects.dev/221</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50085296">https://news.ycombinato...*
+  📅 Wed, 14 Oct 2026 10:25:48 +0000
 
-- **[Show HN: Pulse Local, a Mac budgeting app whose AI models run on your machine](https://pulseos.finance)**
-  *<p>Hi HN, I'm Niz. Pulse Local is a budgeting app for Mac (Apple Silicon, beta) that answers questions about your spending with models that run on your machine. Local mode needs no account. The ledger...*
-  📅 Tue, 13 Oct 2026 23:13:23 +0000
+- **[Apple: Switch to Safari (From Chrome)](https://www.apple.com/safari/switch/)**
+  *<p>Article URL: <a href="https://www.apple.com/safari/switch/">https://www.apple.com/safari/switch/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50085112">https://news.ycombi...*
+  📅 Wed, 14 Oct 2026 10:08:57 +0000
 
-- **[Recreational Programming](https://www.cphiri.dev/presentations/recreational-programming)**
-  *<p>Article URL: <a href="https://www.cphiri.dev/presentations/recreational-programming">https://www.cphiri.dev/presentations/recreational-programming</a></p>
-<p>Comments URL: <a href="https://news.yco...*
-  📅 Tue, 13 Oct 2026 22:33:33 +0000
+- **[Ask HN: What is the current trajectory of a senior engineer?](https://news.ycombinator.com/item?id=50084969)**
+  *<p>Been recently thinking about this more and more: When the need for a human in the design loop ceases?<p>Given that LLMs are RL'd to the max with everything that can be given a wrong/right answer (c...*
+  📅 Wed, 14 Oct 2026 09:54:23 +0000
 
-- **[AlphaNIST](https://alpha-nist.github.io/)**
-  *<p>Article URL: <a href="https://alpha-nist.github.io/">https://alpha-nist.github.io/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50079464">https://news.ycombinator.com/item...*
-  📅 Tue, 13 Oct 2026 21:57:29 +0000
+- **[What agents mean for Rust (and vice versa)](https://smallcultfollowing.com/babysteps/blog/2026/10/14/agentic-dev-and-rust/)**
+  *<p>Article URL: <a href="https://smallcultfollowing.com/babysteps/blog/2026/10/14/agentic-dev-and-rust/">https://smallcultfollowing.com/babysteps/blog/2026/10/14/agentic-dev-and-rust/</a></p>
+<p>Comme...*
+  📅 Wed, 14 Oct 2026 08:49:06 +0000
 
-- **[Physical Intelligence API Beta: Frontier Models for Every Robot](https://www.pi.website/blog/api-beta)**
-  *<p>Article URL: <a href="https://www.pi.website/blog/api-beta">https://www.pi.website/blog/api-beta</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50079437">https://news.ycombi...*
-  📅 Tue, 13 Oct 2026 21:55:25 +0000
+- **[Iosevka is an open-source, sans-serif and slab-serif, monospace font](https://typeof.net/Iosevka/)**
+  *<p>Article URL: <a href="https://typeof.net/Iosevka/">https://typeof.net/Iosevka/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50084240">https://news.ycombinator.com/item?id=...*
+  📅 Wed, 14 Oct 2026 08:27:59 +0000
 
 ### 📑 TechCrunch
 
@@ -81,7 +81,7 @@
   📅 Wed, 14 Oct 2026 01:30:42 +0000
 
 - **[Science Corporation implants its vision-restoring chip in its first Stargardt disease patient](https://techcrunch.com/2026/10/13/science-corporation-implants-its-vision-restoring-chip-in-its-first-stargardt-disease-patient/)**
-  *Max Hodak, the former president and co-founder of Neuralink, detailed on stage at TechCrunch Disrupt how his company's work with PRIMA is part of its path toward a novel brain-computer interface (BCI)...*
+  *Max Hodak, the former president and co-founder of Neuralink, detailed onstage at TechCrunch Disrupt how his company's work with PRIMA is part of its path toward a novel brain-computer interface (BCI)....*
   📅 Tue, 13 Oct 2026 23:13:31 +0000
 
 - **[Cerebras CEO says we’re nearing a future where everyone has a personal AI assistant at home](https://techcrunch.com/2026/10/13/cerebras-ceo-says-were-nearing-a-future-where-everyone-has-a-personal-ai-assistant-at-home/)**
@@ -102,13 +102,15 @@
 
 ### 📑 Dev.to
 
-- **[Designing a quiz result that shows its limits](https://dev.to/nanoai_run/designing-a-quiz-result-that-shows-its-limits-4ee6)**
-  *<p>A result page can be mathematically consistent and still invite the wrong conclusion. A large label at the top of a political quiz makes a convenient screenshot, but it can hide the choices that pr...*
-  📅 Wed, 14 Oct 2026 02:41:21 +0000
+- **[genoffice: a Chinese translation of the open-source AI Office suite](https://dev.to/sun_young_517829fc09d0c05/genoffice-a-chinese-translation-of-the-open-source-ai-office-suite-2hfa)**
+  *<p>The original <code>genspark-ai/genoffice</code> repository has 9580 stars, is written in TypeScript, and ships under Apache-2.0. The Chinese version, <code>yangshun2005/genoffice-cn</code>, was pub...*
+  📅 Wed, 14 Oct 2026 10:50:42 +0000
 
-- **[Windows LAPS Password Not Rotating in Intune: A Read-First Triage Order](https://dev.to/adminpackstudio/windows-laps-password-not-rotating-in-intune-a-read-first-triage-order-44if)**
-  *<p>Helpdesk needs the local admin password for a locked-out laptop. You open <strong>Entra admin center &gt; Devices &gt; [device] &gt; Local administrator password recovery</strong> (or Intune Device...*
-  📅 Wed, 14 Oct 2026 02:41:06 +0000
+- **[One person played to level 10. The paid listing got zero.](https://dev.to/felixilands/one-person-played-to-level-10-the-paid-listing-got-zero-mji)**
+  *<p>This week on DEV, the posts that moved were not tool roundups.</p>
+
+<p>I looked at the top of the week before writing this. The heavy ones were a shared-blame thread (151 reactions), a post about A...*
+  📅 Wed, 14 Oct 2026 10:50:03 +0000
 
 </details>
 
@@ -116,103 +118,103 @@
 
 ### 📈 Daily Trending
 
-- **[yxhpy/qwen3.8-flash-next-local-deploy](https://github.com/yxhpy/qwen3.8-flash-next-local-deploy)** ⭐ 12
-  ![None](https://img.shields.io/badge/-None-lightgrey)
-  Qwen3.8-Flash-Next (125B MoE) 单卡 16G 本地部署实测：Strata + GSQ-RCO IQ3_XXS，Ubuntu 24.04
+- **[deeeeone/gitdrive](https://github.com/deeeeone/gitdrive)** ⭐ 69
+  ![Swift](https://img.shields.io/badge/-Swift-lightgrey)
+  Turn GitHub into an iCloud-style drive for macOS. Native Finder integration, files on demand, real git history, Git LFS, and optional ML-KEM + X25519 encryption where GitHub sees only random data.
 
-- **[sudarshanregmi/MontageFlow](https://github.com/sudarshanregmi/MontageFlow)** ⭐ 4
+- **[MyLuxy/overdrive](https://github.com/MyLuxy/overdrive)** ⭐ 30
+  ![C++](https://img.shields.io/badge/-C++-pink)
+  Overdrive, a PS5 homebrew game store with 1,800+ games.
+
+- **[clasidvegatea5241/pashadrekarixun-07](https://github.com/clasidvegatea5241/pashadrekarixun-07)** ⭐ 30
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
+  MSR Runner Pipeline Slot 7 Template
+
+- **[tpscloud/gophers](https://github.com/tpscloud/gophers)** ⭐ 29
+  ![Go](https://img.shields.io/badge/-Go-cyan)
+  Source-verified agent skills for Go: Cobra command-line interfaces, Viper configuration, and Wails desktop apps
+
+- **[JeffLi1993/open-growth-skills](https://github.com/JeffLi1993/open-growth-skills)** ⭐ 27
   ![Python](https://img.shields.io/badge/-Python-blue)
-  Code for arXiv 2610.14507 preprint: "MontageFlow: Physically Valid High Fidelity EEG Generation"
+  All in one AI Agent Skills for Growth
 
-- **[3363597734-glitch/Artificial-Dorsal-Stream](https://github.com/3363597734-glitch/Artificial-Dorsal-Stream)** ⭐ 4
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  A chaotic dynamics framework inspired by the brain’s dorsal visual stream for event signal processing.
-
-- **[3363597734-glitch/Dynamo](https://github.com/3363597734-glitch/Dynamo)** ⭐ 4
+- **[PolyU-TASLAB/GLIO2](https://github.com/PolyU-TASLAB/GLIO2)** ⭐ 26
   ![None](https://img.shields.io/badge/-None-lightgrey)
-  A PIM accelerator for continuous-coupled and pulse-coupled neural networks.
+  None
 
-- **[3363597734-glitch/DWPCNNFusion](https://github.com/3363597734-glitch/DWPCNNFusion)** ⭐ 4
-  ![None](https://img.shields.io/badge/-None-lightgrey)
-  DWPCNNFusion: Deep pulse-coupled neural networks incorporating Weber’s  law for efficient infrared and visible image fusion
-
-- **[jonghaepark/c-slerp](https://github.com/jonghaepark/c-slerp)** ⭐ 3
+- **[OpenImagingLab/FlashVSR_Plus](https://github.com/OpenImagingLab/FlashVSR_Plus)** ⭐ 24
   ![Python](https://img.shields.io/badge/-Python-blue)
-  Hyperspherical Contrastive Representations Unlock Planning and Exploration
+  This is the official repo of FlashVSR+: Efficient Video Super-Resolution via Hybrid Attention and Reward-Yield Distribution Matching.
 
-- **[jch497/mcd-group-meal-captain](https://github.com/jch497/mcd-group-meal-captain)** ⭐ 3
+- **[2430816465/campus-knowledge-agent](https://github.com/2430816465/campus-knowledge-agent)** ⭐ 24
   ![Python](https://img.shields.io/badge/-Python-blue)
-  基于麦当劳 MCP（beType=6 企业团餐）的团餐决策 Skill：阶梯折扣临界补差寻优 + 助餐服务硬约束校验。标准库零依赖，含 14 个测试与离线演示。
-
-- **[AICoderTudou/tudou-single-h3](https://github.com/AICoderTudou/tudou-single-h3)** ⭐ 3
-  ![None](https://img.shields.io/badge/-None-lightgrey)
-  MiniMax H3 单片段影视表演提示词 Skill：微表情、多情绪递进、听者反应、对白节奏与参考图控制，附完整中文教程。
+  校园知识服务 Agent 智能体平台：贯通公开资料采集、文档解析、RAG 检索问答、原文溯源与审核发布。
 
 ### 📈 Weekly Trending
 
-- **[wheresryan22/anatomy](https://github.com/wheresryan22/anatomy)** ⭐ 8,370
+- **[wheresryan22/anatomy](https://github.com/wheresryan22/anatomy)** ⭐ 8,953
   ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
   An agent skill for creating detailed, interactive isometric illustrations of real-world machines and complex systems. Generates polished SVGs with optional WebGL shaders and 3D effects.
 
-- **[mhtsec/ARTEX](https://github.com/mhtsec/ARTEX)** ⭐ 3,906
+- **[mhtsec/ARTEX](https://github.com/mhtsec/ARTEX)** ⭐ 4,013
   ![Go](https://img.shields.io/badge/-Go-cyan)
   AI 自主渗透测试系统 | 百度“agent+”攻防挑战赛冠军项目
 
-- **[t4t5/omdrop-owl](https://github.com/t4t5/omdrop-owl)** ⭐ 2,595
-  ![Shell](https://img.shields.io/badge/-Shell-lightgrey)
-  airdrop for non-apple devices
-
-- **[ARahim3/DigUp](https://github.com/ARahim3/DigUp)** ⭐ 2,534
+- **[ARahim3/DigUp](https://github.com/ARahim3/DigUp)** ⭐ 3,107
   ![Swift](https://img.shields.io/badge/-Swift-lightgrey)
   Search your Mac by what's in your files: photos, PDFs, recordings, videos and code. On-device, built on Google DeepMind's EmbeddingGemma 2.
 
-- **[storytold/craft-launcher](https://github.com/storytold/craft-launcher)** ⭐ 2,342
+- **[t4t5/omdrop-owl](https://github.com/t4t5/omdrop-owl)** ⭐ 2,627
+  ![Shell](https://img.shields.io/badge/-Shell-lightgrey)
+  airdrop for non-apple devices
+
+- **[storytold/craft-launcher](https://github.com/storytold/craft-launcher)** ⭐ 2,474
   ![Rust](https://img.shields.io/badge/-Rust-brown)
   The Craft App Launcher
 
-- **[liseami/CCBaga](https://github.com/liseami/CCBaga)** ⭐ 2,079
+- **[liseami/CCBaga](https://github.com/liseami/CCBaga)** ⭐ 2,200
   ![Rust](https://img.shields.io/badge/-Rust-brown)
   None
 
-- **[noahdunnagan/fsearch](https://github.com/noahdunnagan/fsearch)** ⭐ 2,031
+- **[noahdunnagan/fsearch](https://github.com/noahdunnagan/fsearch)** ⭐ 2,039
   ![Rust](https://img.shields.io/badge/-Rust-brown)
   Whole-disk file search for macOS: fuzzy names, typo tolerance, indexed content grep. ~1 ms over 8M files.
 
-- **[onehumanbeing/esp32-iphone-agent](https://github.com/onehumanbeing/esp32-iphone-agent)** ⭐ 1,591
+- **[onehumanbeing/esp32-iphone-agent](https://github.com/onehumanbeing/esp32-iphone-agent)** ⭐ 1,886
   ![Python](https://img.shields.io/badge/-Python-blue)
   Let an AI model use a real iPhone with a $7 ESP32: AirPlay eyes, USB HID hands, any OpenAI-compatible vision model. No Mac, no developer account, no jailbreak.
 
 ### 📈 Monthly Trending
 
-- **[storytold/photocraft](https://github.com/storytold/photocraft)** ⭐ 58,231
+- **[storytold/photocraft](https://github.com/storytold/photocraft)** ⭐ 59,430
   ![Rust](https://img.shields.io/badge/-Rust-brown)
   PhotoCraft: An open-source, photo editor written by scratch in pure Rust
 
-- **[NandhaKishorM/laya](https://github.com/NandhaKishorM/laya)** ⭐ 32,785
+- **[NandhaKishorM/laya](https://github.com/NandhaKishorM/laya)** ⭐ 32,841
   ![Python](https://img.shields.io/badge/-Python-blue)
   Non-autoregressive System 1 decision engine. Typed choice, score and yes/no decisions over any text in a single forward pass, in 100+ languages, with a router that picks the right checkpoint per request.
 
-- **[Niko1221/Strata](https://github.com/Niko1221/Strata)** ⭐ 23,803
+- **[Niko1221/Strata](https://github.com/Niko1221/Strata)** ⭐ 24,173
   ![C++](https://img.shields.io/badge/-C++-pink)
   Qwen3.8-Flash-Next on any consumer hardware: one-click install for Windows / Linux. Strata inference engine, OpenAI/Anthropic API on localhost, optional image input.
 
-- **[browser-use/jev-ultrafast](https://github.com/browser-use/jev-ultrafast)** ⭐ 22,843
+- **[browser-use/jev-ultrafast](https://github.com/browser-use/jev-ultrafast)** ⭐ 22,876
   ![Python](https://img.shields.io/badge/-Python-blue)
   Fastest and cheapest web agent
 
-- **[robbietilton/Compositor](https://github.com/robbietilton/Compositor)** ⭐ 16,748
+- **[robbietilton/Compositor](https://github.com/robbietilton/Compositor)** ⭐ 16,839
   ![Swift](https://img.shields.io/badge/-Swift-lightgrey)
   The Photoshop alternative for Mac
 
-- **[openai/math](https://github.com/openai/math)** ⭐ 14,692
-  ![Lean](https://img.shields.io/badge/-Lean-lightgrey)
-  None
-
-- **[Ebony-Vinyl/dsh-our-free-model](https://github.com/Ebony-Vinyl/dsh-our-free-model)** ⭐ 14,372
+- **[Ebony-Vinyl/dsh-our-free-model](https://github.com/Ebony-Vinyl/dsh-our-free-model)** ⭐ 15,233
   ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
   在 dsh 里装上这个插件即可，无需登录、注册或填 API Key，就能使用包括 DeepSeek V4.1 Flash、Kimi K3 在内的前沿模型——完全免费，不限量。 All you do is install this plugin in dsh: no login, no sign-up, no API key — the frontier models are just there, DeepSeek V4.1 Flash and Kimi K3 among them. Completely free, with no usage cap.
 
-- **[storytold/pdfcraft](https://github.com/storytold/pdfcraft)** ⭐ 12,860
+- **[openai/math](https://github.com/openai/math)** ⭐ 14,741
+  ![Lean](https://img.shields.io/badge/-Lean-lightgrey)
+  None
+
+- **[storytold/pdfcraft](https://github.com/storytold/pdfcraft)** ⭐ 13,223
   ![Rust](https://img.shields.io/badge/-Rust-brown)
   PdfCraft: An open-source PDF reader and editor written by scratch in pure Rust
 
@@ -481,57 +483,57 @@ See [kubernetes-announce@](https://groups.google.com/forum/#!forum/kubernetes-an
 | Skill | Status |
 |-------|--------|
 | Java | 🔴 Beginner |
-| Python | 🟡 Learning |
-| JavaScript | 🟢 Proficient |
+| Python | 🟢 Proficient |
+| JavaScript | ⚪ Planned |
 | TypeScript | ⚪ Planned |
-| Go | ⚪ Planned |
+| Go | 🟢 Proficient |
 
 ### Frameworks
 
 | Skill | Status |
 |-------|--------|
-| React | 🔴 Beginner |
-| Spring Boot | 🟢 Proficient |
-| Django | 🔴 Beginner |
-| Node.js | ⚪ Planned |
-| Next.js | ⚪ Planned |
+| React | 🟡 Learning |
+| Spring Boot | 🔴 Beginner |
+| Django | 🟢 Proficient |
+| Node.js | 🔴 Beginner |
+| Next.js | 🟡 Learning |
 
 ### Cybersecurity
 
 | Skill | Status |
 |-------|--------|
-| Penetration Testing | 🟢 Proficient |
-| Web Security | 🟡 Learning |
+| Penetration Testing | 🟡 Learning |
+| Web Security | ⚪ Planned |
 | Network Security | ⚪ Planned |
-| OWASP | 🟡 Learning |
+| OWASP | 🟢 Proficient |
 
 ### Ai Ml
 
 | Skill | Status |
 |-------|--------|
-| Machine Learning | 🔴 Beginner |
-| Deep Learning | 🔴 Beginner |
-| NLP | 🟡 Learning |
-| Computer Vision | 🔴 Beginner |
-| TensorFlow | 🟢 Proficient |
-| PyTorch | 🟢 Proficient |
+| Machine Learning | 🟡 Learning |
+| Deep Learning | ⚪ Planned |
+| NLP | 🟢 Proficient |
+| Computer Vision | 🟡 Learning |
+| TensorFlow | ⚪ Planned |
+| PyTorch | 🔴 Beginner |
 
 ### Devops
 
 | Skill | Status |
 |-------|--------|
-| Docker | 🟡 Learning |
-| Kubernetes | 🟢 Proficient |
-| CI/CD | 🟢 Proficient |
+| Docker | ⚪ Planned |
+| Kubernetes | ⚪ Planned |
+| CI/CD | 🔴 Beginner |
 | AWS | 🟡 Learning |
-| Azure | ⚪ Planned |
+| Azure | 🟡 Learning |
 
 ### Other
 
 | Skill | Status |
 |-------|--------|
 | Blockchain | 🟢 Proficient |
-| Web3 | 🔴 Beginner |
+| Web3 | 🟢 Proficient |
 | Cloud Computing | 🟡 Learning |
 
 </details>
