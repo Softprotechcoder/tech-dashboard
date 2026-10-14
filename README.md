@@ -7,7 +7,7 @@
 ![AI & ML](https://img.shields.io/badge/-AI%20&%20ML-blue) ![CyberSecurity](https://img.shields.io/badge/-CyberSecurity-red) ![Full Stack Development](https://img.shields.io/badge/-Full%20Stack%20Development-green)
 
 [![Auto Update](https://img.shields.io/badge/Auto%20Update-Enabled-success)](https://github.com/yourusername/tech-dashboard/actions)
-[![Last Updated](https://img.shields.io/badge/Last%20Updated-October 13, 2026-blue)](https://github.com/yourusername/tech-dashboard)
+[![Last Updated](https://img.shields.io/badge/Last%20Updated-October 14, 2026-blue)](https://github.com/yourusername/tech-dashboard)
 
 *Automatically updated every 6 hours with the latest tech news, trending repositories, and learning resources.*
 
@@ -46,83 +46,69 @@
 
 ### 📑 Hacker News
 
-- **[PostEra (YC W20) Is Hiring AI Researchers for Drug Discovery](https://jobs.lever.co/postera/c7d50a36-db0a-4574-bfe4-8700b74a22c0)**
-  *<p>Article URL: <a href="https://jobs.lever.co/postera/c7d50a36-db0a-4574-bfe4-8700b74a22c0">https://jobs.lever.co/postera/c7d50a36-db0a-4574-bfe4-8700b74a22c0</a></p>
-<p>Comments URL: <a href="https:...*
-  📅 Tue, 13 Oct 2026 21:01:12 +0000
+- **[I built a tool to track what AI leaders say and how their views change on video](https://blumify.io/people)**
+  *<p>Article URL: <a href="https://blumify.io/people">https://blumify.io/people</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50081151">https://news.ycombinator.com/item?id=5008...*
+  📅 Wed, 14 Oct 2026 01:09:13 +0000
 
-- **[OpenAI engineer arrested in bugging of executive conference room](https://sfstandard.com/2026/10/13/openai-engineer-arrested-alleged-bugging-executive-conference-room/)**
-  *<p><a href="https://x.com/OpenAINewsroom/status/2110095403198849132" rel="nofollow">https://x.com/OpenAINewsroom/status/2110095403198849132</a></p>
-<hr />
-<p>Comments URL: <a href="https://news.ycombi...*
-  📅 Tue, 13 Oct 2026 20:23:55 +0000
+- **[High-speed video reveals how honey bee stingers pump venom](https://arstechnica.com/science/2026/10/honey-bee-stingers-are-double-piston-venom-pumps/)**
+  *<p>Article URL: <a href="https://arstechnica.com/science/2026/10/honey-bee-stingers-are-double-piston-venom-pumps/">https://arstechnica.com/science/2026/10/honey-bee-stingers-are-double-piston-venom-p...*
+  📅 Wed, 14 Oct 2026 01:05:23 +0000
 
-- **[Show HN: Parsimony – an open-source benchmark for how much code AI models add](https://parsimony.lasu.dev/)**
-  *<p>Existing benchmarks measure solve rate and token output/cost, but don't punish excess code, which makes a codebase harder to work with in the long term. I wanted to measure this since it matters mo...*
-  📅 Tue, 13 Oct 2026 19:50:31 +0000
+- **[Show HN: Pulse Local, a Mac budgeting app whose AI models run on your machine](https://pulseos.finance)**
+  *<p>Hi HN, I'm Niz. Pulse Local is a budgeting app for Mac (Apple Silicon, beta) that answers questions about your spending with models that run on your machine. Local mode needs no account. The ledger...*
+  📅 Tue, 13 Oct 2026 23:13:23 +0000
 
-- **[The Four Colour Theorem: The first time machines mogged mathematicians](https://newsletter.pessimistsarchive.org/p/the-1st-time-machines-mogged-mathematicians)**
-  *<p><a href="https://celebratio.org/Appel_KI/article/796/#sender" rel="nofollow">https://celebratio.org/Appel_KI/article/796/#sender</a></p>
-<hr />
-<p>Comments URL: <a href="https://news.ycombinator.co...*
-  📅 Tue, 13 Oct 2026 19:17:19 +0000
+- **[Recreational Programming](https://www.cphiri.dev/presentations/recreational-programming)**
+  *<p>Article URL: <a href="https://www.cphiri.dev/presentations/recreational-programming">https://www.cphiri.dev/presentations/recreational-programming</a></p>
+<p>Comments URL: <a href="https://news.yco...*
+  📅 Tue, 13 Oct 2026 22:33:33 +0000
 
-- **[Show HN: Guitoro, a virtual guitar you strum with your keyboard](https://guitoro.com/)**
-  *<p>Guitoro is a free browser guitar using recordings of real instruments. You can strum with your keyboard, mouse, or touchscreen, choose acoustic, classical, electric guitar or bass, and see chord fi...*
-  📅 Tue, 13 Oct 2026 19:11:48 +0000
+- **[AlphaNIST](https://alpha-nist.github.io/)**
+  *<p>Article URL: <a href="https://alpha-nist.github.io/">https://alpha-nist.github.io/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50079464">https://news.ycombinator.com/item...*
+  📅 Tue, 13 Oct 2026 21:57:29 +0000
 
-- **[Show HN: XY Music Notation](https://music.xy.dev/)**
-  *<p>I've been playing around with a new kind of isomorphic music keyboard that uses a base-12 notation, and wanted some sheet music to learn some new music for it.<p>The idea is to represent each note ...*
-  📅 Tue, 13 Oct 2026 17:43:05 +0000
+- **[Physical Intelligence API Beta: Frontier Models for Every Robot](https://www.pi.website/blog/api-beta)**
+  *<p>Article URL: <a href="https://www.pi.website/blog/api-beta">https://www.pi.website/blog/api-beta</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50079437">https://news.ycombi...*
+  📅 Tue, 13 Oct 2026 21:55:25 +0000
 
 ### 📑 TechCrunch
+
+- **[Justice Department says North Koreans have infiltrated dozens of U.S. companies](https://techcrunch.com/2026/10/13/justice-department-says-north-koreans-have-infiltrated-dozens-of-u-s-companies/)**
+  *U.S. authorities warn that sanctioned hackers are increasingly targeting Americans to act as facilitators between breached U.S. companies and Pyongyang....*
+  📅 Wed, 14 Oct 2026 01:30:42 +0000
+
+- **[Science Corporation implants its vision-restoring chip in its first Stargardt disease patient](https://techcrunch.com/2026/10/13/science-corporation-implants-its-vision-restoring-chip-in-its-first-stargardt-disease-patient/)**
+  *Max Hodak, the former president and co-founder of Neuralink, detailed on stage at TechCrunch Disrupt how his company's work with PRIMA is part of its path toward a novel brain-computer interface (BCI)...*
+  📅 Tue, 13 Oct 2026 23:13:31 +0000
+
+- **[Cerebras CEO says we’re nearing a future where everyone has a personal AI assistant at home](https://techcrunch.com/2026/10/13/cerebras-ceo-says-were-nearing-a-future-where-everyone-has-a-personal-ai-assistant-at-home/)**
+  *Cerebras CEO Andrew Feldman predicts a future where personal AI assistants become as commonplace as household appliances, running partly on local devices and partly in the cloud....*
+  📅 Tue, 13 Oct 2026 23:05:34 +0000
+
+- **[Industrial Next wants factory robots to switch tasks in minutes, not weeks](https://techcrunch.com/2026/10/13/industrial-next-wants-factory-robots-to-switch-tasks-in-minutes-not-weeks/)**
+  *Industrial Next helps manufacturers automate complex, delicate tasks that have traditionally required human labor....*
+  📅 Tue, 13 Oct 2026 23:00:00 +0000
+
+- **[Cerebras CEO pushes back on AI doomsday warnings](https://techcrunch.com/2026/10/13/cerebras-ceo-pushes-back-on-ai-doomsday-warnings/)**
+  *Cerebras CEO Andrew Feldman has a message for AI leaders spreading doomsday warnings: Maybe stop talking? At TechCrunch Disrupt, he argued that the industry's focus on AI's risks is drowning out its p...*
+  📅 Tue, 13 Oct 2026 22:36:59 +0000
 
 - **[Helix Carbon says it can make iron cheaper by recycling blast furnace pollution](https://techcrunch.com/2026/10/13/helix-carbon-makes-iron-cheaper-by-upcycling-blast-furnace-pollution-see-how-at-techcrunch-disrupt/)**
   *The steel industry is a big polluter, but Helix Carbon can upcycle pollution from blast furnaces to drive down emissions and improve margins....*
   📅 Tue, 13 Oct 2026 21:15:00 +0000
 
-- **[FBI arrests OpenAI employee accused of planting hidden recording device in conference room](https://techcrunch.com/2026/10/13/fbi-arrests-openai-employee-accused-of-planting-hidden-recording-device-in-conference-room/)**
-  *It's not clear exactly for what purpose the recording device was used, but FBI director Kash Patel said the scheme was to "capture sensitive communications about the company’s super intelligence techn...*
-  📅 Tue, 13 Oct 2026 20:59:11 +0000
-
-- **[Judge orders OpenAI to turn over hiring records in Apple trade secrets case](https://techcrunch.com/2026/10/13/judge-orders-openai-to-turn-over-hiring-records-in-apple-trade-secrets-case/)**
-  *A federal judge ruled that Apple can access OpenAI's interview materials involving former Apple employees, as well as private messages and testimony from key figures in the case....*
-  📅 Tue, 13 Oct 2026 20:36:44 +0000
-
-- **[Cambridge Heavy Industries has been quietly building a desktop fusion device](https://techcrunch.com/2026/10/13/cambridge-heavy-industries-has-been-quietly-building-a-desktop-fusion-device/)**
-  *Fusion power startup Cambridge Heavy Industries is building a small, laser-powered fusion device to fuel the coming wave of fusion power plants....*
-  📅 Tue, 13 Oct 2026 20:13:53 +0000
-
-- **[Licube wants to be the fuel provider to the fusion power industry — see how at TechCrunch Disrupt](https://techcrunch.com/2026/10/13/licube-wants-to-be-the-fuel-provider-to-the-fusion-power-industry-see-how-at-techcrunch-disrupt/)**
-  *Fusion power plants will need a lot of lithium, and Licube is preparing to be a key supplier....*
-  📅 Tue, 13 Oct 2026 20:00:00 +0000
-
-- **[Niobia takes the guesswork out of some of tech’s most expensive mistakes](https://techcrunch.com/2026/10/13/niobia-takes-the-guesswork-out-of-some-of-techs-most-expensive-mistakes/)**
-  *The San Francisco startup aims to help battery and chip manufacturers identify defects on production lines, reducing downtime and costly mistakes....*
-  📅 Tue, 13 Oct 2026 19:00:00 +0000
-
 ### 📑 Dev.to
 
-- **[TabuPulse AI: Autonomous Tabular Prediction Agent & MCP Server for Micro-SaaS & Freelancers](https://dev.to/excitement4u_9a965eaa85d3/tabupulse-ai-autonomous-tabular-prediction-agent-mcp-server-for-micro-saas-freelancers-e2a)**
-  *<p><em>This is a submission for the <a href="https://dev.to/challenges/hacktoberfest-week2-2026-10-12">Hacktoberfest Open-Source AI Challenge: Week 2</a>.</em></p>
+- **[Designing a quiz result that shows its limits](https://dev.to/nanoai_run/designing-a-quiz-result-that-shows-its-limits-4ee6)**
+  *<p>A result page can be mathematically consistent and still invite the wrong conclusion. A large label at the top of a political quiz makes a convenient screenshot, but it can hide the choices that pr...*
+  📅 Wed, 14 Oct 2026 02:41:21 +0000
 
-
-
-
-<h2>
-  
-  
-  ⚡ What I Built
-</h2...*
-  📅 Tue, 13 Oct 2026 22:05:25 +0000
-
-- **[Your library isn't in the training data: making AI agents use it well](https://dev.to/kevinccbsg/your-library-isnt-in-the-training-data-making-ai-agents-use-it-well-5a34)**
-  *<blockquote>
-<p>A model that doesn't know your library doesn't fail by doing nothing. It fails by confidently writing code for a library it does know.</p>
-</blockquote>
-
-<p>Ask an AI agent to write a ...*
-  📅 Tue, 13 Oct 2026 22:04:47 +0000
+- **[Windows LAPS Password Not Rotating in Intune: A Read-First Triage Order](https://dev.to/adminpackstudio/windows-laps-password-not-rotating-in-intune-a-read-first-triage-order-44if)**
+  *<p>Helpdesk needs the local admin password for a locked-out laptop. You open <strong>Entra admin center &gt; Devices &gt; [device] &gt; Local administrator password recovery</strong> (or Intune Device...*
+  📅 Wed, 14 Oct 2026 02:41:06 +0000
 
 </details>
 
@@ -130,103 +116,103 @@
 
 ### 📈 Daily Trending
 
-- **[Arekejoker/qwen21-nsfw-pose-skill](https://github.com/Arekejoker/qwen21-nsfw-pose-skill)** ⭐ 764
+- **[yxhpy/qwen3.8-flash-next-local-deploy](https://github.com/yxhpy/qwen3.8-flash-next-local-deploy)** ⭐ 12
+  ![None](https://img.shields.io/badge/-None-lightgrey)
+  Qwen3.8-Flash-Next (125B MoE) 单卡 16G 本地部署实测：Strata + GSQ-RCO IQ3_XXS，Ubuntu 24.04
+
+- **[sudarshanregmi/MontageFlow](https://github.com/sudarshanregmi/MontageFlow)** ⭐ 4
   ![Python](https://img.shields.io/badge/-Python-blue)
-  Qwen-Image 2.1 NSFW/姿势出图 skill：作者级提示词配方 + NSFW LoRA + 136 姿势 VNCCS 人偶控制；适用 Claude Code / Codex / Cursor / OpenClaw
+  Code for arXiv 2610.14507 preprint: "MontageFlow: Physically Valid High Fidelity EEG Generation"
 
-- **[egotoadcitadel/palette-from-image-ai](https://github.com/egotoadcitadel/palette-from-image-ai)** ⭐ 300
+- **[3363597734-glitch/Artificial-Dorsal-Stream](https://github.com/3363597734-glitch/Artificial-Dorsal-Stream)** ⭐ 4
   ![Python](https://img.shields.io/badge/-Python-blue)
-  AI coloring palette-from-image generator for designers and pixel artists — pull a clean named palette straight from any image, no subscription or cloud upload.
+  A chaotic dynamics framework inspired by the brain’s dorsal visual stream for event signal processing.
 
-- **[WilderNoTrack/mcd-calorie-butler](https://github.com/WilderNoTrack/mcd-calorie-butler)** ⭐ 149
+- **[3363597734-glitch/Dynamo](https://github.com/3363597734-glitch/Dynamo)** ⭐ 4
+  ![None](https://img.shields.io/badge/-None-lightgrey)
+  A PIM accelerator for continuous-coupled and pulse-coupled neural networks.
+
+- **[3363597734-glitch/DWPCNNFusion](https://github.com/3363597734-glitch/DWPCNNFusion)** ⭐ 4
+  ![None](https://img.shields.io/badge/-None-lightgrey)
+  DWPCNNFusion: Deep pulse-coupled neural networks incorporating Weber’s  law for efficient infrared and visible image fusion
+
+- **[jonghaepark/c-slerp](https://github.com/jonghaepark/c-slerp)** ⭐ 3
   ![Python](https://img.shields.io/badge/-Python-blue)
-  麦麦热量管家：减脂不是少吃你爱的，是先换掉不值这口热量的。基于麦当劳 MCP 的味热比点餐 Skill。
+  Hyperspherical Contrastive Representations Unlock Planning and Exploration
 
-- **[CoolkHz/gptibo](https://github.com/CoolkHz/gptibo)** ⭐ 124
-  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
-  Self-hosted GPTibo storefront, admin and Go backend — sanitized MIT source
+- **[jch497/mcd-group-meal-captain](https://github.com/jch497/mcd-group-meal-captain)** ⭐ 3
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  基于麦当劳 MCP（beType=6 企业团餐）的团餐决策 Skill：阶梯折扣临界补差寻优 + 助餐服务硬约束校验。标准库零依赖，含 14 个测试与离线演示。
 
-- **[pLabs5/pLinux5-NG](https://github.com/pLabs5/pLinux5-NG)** ⭐ 113
-  ![C](https://img.shields.io/badge/-C-lightgrey)
-  PS5 Linux for high FW's (8.xx, 9.xx, 10.xx, 11.xx, 12.xx, 13.xx)
-
-- **[jumpersun/meal-puzzle](https://github.com/jumpersun/meal-puzzle)** ⭐ 111
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
-  套餐拼图 · 把每个人想吃的拼成一桌：真实麦当劳菜单、心愿组合、官方核价与按人分餐。
-
-- **[ns2250225/guangzhou](https://github.com/ns2250225/guangzhou)** ⭐ 110
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
-  广州旅游观光小游戏
-
-- **[keyu-tian-sabotage/keyu-tian-sabotage.github.io](https://github.com/keyu-tian-sabotage/keyu-tian-sabotage.github.io)** ⭐ 109
-  ![HTML](https://img.shields.io/badge/-HTML-lightgrey)
-  None
+- **[AICoderTudou/tudou-single-h3](https://github.com/AICoderTudou/tudou-single-h3)** ⭐ 3
+  ![None](https://img.shields.io/badge/-None-lightgrey)
+  MiniMax H3 单片段影视表演提示词 Skill：微表情、多情绪递进、听者反应、对白节奏与参考图控制，附完整中文教程。
 
 ### 📈 Weekly Trending
 
-- **[storytold/wordcraft](https://github.com/storytold/wordcraft)** ⭐ 10,971
-  ![Rust](https://img.shields.io/badge/-Rust-brown)
-  An open-source, clean-room reimplementation of Microsoft Word in pure Rust
-
-- **[wheresryan22/anatomy](https://github.com/wheresryan22/anatomy)** ⭐ 8,075
+- **[wheresryan22/anatomy](https://github.com/wheresryan22/anatomy)** ⭐ 8,370
   ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
   An agent skill for creating detailed, interactive isometric illustrations of real-world machines and complex systems. Generates polished SVGs with optional WebGL shaders and 3D effects.
 
-- **[storytold/gridcraft](https://github.com/storytold/gridcraft)** ⭐ 4,412
-  ![Rust](https://img.shields.io/badge/-Rust-brown)
-  GridCraft: an open-source, clean-room spreadsheet (Microsoft Excel-style) in pure Rust. By ArtCraft.
-
-- **[storytold/cadcraft](https://github.com/storytold/cadcraft)** ⭐ 4,155
-  ![Rust](https://img.shields.io/badge/-Rust-brown)
-  CADCraft: computer-aided design and drafting — an open-source, clean-room AutoCAD-style app in pure Rust
-
-- **[mhtsec/ARTEX](https://github.com/mhtsec/ARTEX)** ⭐ 3,868
+- **[mhtsec/ARTEX](https://github.com/mhtsec/ARTEX)** ⭐ 3,906
   ![Go](https://img.shields.io/badge/-Go-cyan)
   AI 自主渗透测试系统 | 百度“agent+”攻防挑战赛冠军项目
 
-- **[storytold/deckcraft](https://github.com/storytold/deckcraft)** ⭐ 2,935
-  ![Rust](https://img.shields.io/badge/-Rust-brown)
-  Presentations and slide shows: an open-source, clean-room reimplementation of Microsoft PowerPoint in pure Rust. Part of the ArtCraft Crafting Apps.
-
-- **[nullmoth/nvidia-macos-driver](https://github.com/nullmoth/nvidia-macos-driver)** ⭐ 2,900
-  ![Rust](https://img.shields.io/badge/-Rust-brown)
-  Metal driver for NVIDIA GeForce cards on macOS Sequoia
-
-- **[t4t5/omdrop-owl](https://github.com/t4t5/omdrop-owl)** ⭐ 2,576
+- **[t4t5/omdrop-owl](https://github.com/t4t5/omdrop-owl)** ⭐ 2,595
   ![Shell](https://img.shields.io/badge/-Shell-lightgrey)
   airdrop for non-apple devices
 
+- **[ARahim3/DigUp](https://github.com/ARahim3/DigUp)** ⭐ 2,534
+  ![Swift](https://img.shields.io/badge/-Swift-lightgrey)
+  Search your Mac by what's in your files: photos, PDFs, recordings, videos and code. On-device, built on Google DeepMind's EmbeddingGemma 2.
+
+- **[storytold/craft-launcher](https://github.com/storytold/craft-launcher)** ⭐ 2,342
+  ![Rust](https://img.shields.io/badge/-Rust-brown)
+  The Craft App Launcher
+
+- **[liseami/CCBaga](https://github.com/liseami/CCBaga)** ⭐ 2,079
+  ![Rust](https://img.shields.io/badge/-Rust-brown)
+  None
+
+- **[noahdunnagan/fsearch](https://github.com/noahdunnagan/fsearch)** ⭐ 2,031
+  ![Rust](https://img.shields.io/badge/-Rust-brown)
+  Whole-disk file search for macOS: fuzzy names, typo tolerance, indexed content grep. ~1 ms over 8M files.
+
+- **[onehumanbeing/esp32-iphone-agent](https://github.com/onehumanbeing/esp32-iphone-agent)** ⭐ 1,591
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  Let an AI model use a real iPhone with a $7 ESP32: AirPlay eyes, USB HID hands, any OpenAI-compatible vision model. No Mac, no developer account, no jailbreak.
+
 ### 📈 Monthly Trending
 
-- **[storytold/photocraft](https://github.com/storytold/photocraft)** ⭐ 57,615
+- **[storytold/photocraft](https://github.com/storytold/photocraft)** ⭐ 58,231
   ![Rust](https://img.shields.io/badge/-Rust-brown)
   PhotoCraft: An open-source, photo editor written by scratch in pure Rust
 
-- **[NandhaKishorM/laya](https://github.com/NandhaKishorM/laya)** ⭐ 32,761
+- **[NandhaKishorM/laya](https://github.com/NandhaKishorM/laya)** ⭐ 32,785
   ![Python](https://img.shields.io/badge/-Python-blue)
   Non-autoregressive System 1 decision engine. Typed choice, score and yes/no decisions over any text in a single forward pass, in 100+ languages, with a router that picks the right checkpoint per request.
 
-- **[Niko1221/Strata](https://github.com/Niko1221/Strata)** ⭐ 23,663
+- **[Niko1221/Strata](https://github.com/Niko1221/Strata)** ⭐ 23,803
   ![C++](https://img.shields.io/badge/-C++-pink)
   Qwen3.8-Flash-Next on any consumer hardware: one-click install for Windows / Linux. Strata inference engine, OpenAI/Anthropic API on localhost, optional image input.
 
-- **[browser-use/jev-ultrafast](https://github.com/browser-use/jev-ultrafast)** ⭐ 22,818
+- **[browser-use/jev-ultrafast](https://github.com/browser-use/jev-ultrafast)** ⭐ 22,843
   ![Python](https://img.shields.io/badge/-Python-blue)
   Fastest and cheapest web agent
 
-- **[robbietilton/Compositor](https://github.com/robbietilton/Compositor)** ⭐ 16,700
+- **[robbietilton/Compositor](https://github.com/robbietilton/Compositor)** ⭐ 16,748
   ![Swift](https://img.shields.io/badge/-Swift-lightgrey)
   The Photoshop alternative for Mac
 
-- **[openai/math](https://github.com/openai/math)** ⭐ 14,663
+- **[openai/math](https://github.com/openai/math)** ⭐ 14,692
   ![Lean](https://img.shields.io/badge/-Lean-lightgrey)
   None
 
-- **[Ebony-Vinyl/dsh-our-free-model](https://github.com/Ebony-Vinyl/dsh-our-free-model)** ⭐ 14,036
+- **[Ebony-Vinyl/dsh-our-free-model](https://github.com/Ebony-Vinyl/dsh-our-free-model)** ⭐ 14,372
   ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
   在 dsh 里装上这个插件即可，无需登录、注册或填 API Key，就能使用包括 DeepSeek V4.1 Flash、Kimi K3 在内的前沿模型——完全免费，不限量。 All you do is install this plugin in dsh: no login, no sign-up, no API key — the frontier models are just there, DeepSeek V4.1 Flash and Kimi K3 among them. Completely free, with no usage cap.
 
-- **[storytold/pdfcraft](https://github.com/storytold/pdfcraft)** ⭐ 12,670
+- **[storytold/pdfcraft](https://github.com/storytold/pdfcraft)** ⭐ 12,860
   ![Rust](https://img.shields.io/badge/-Rust-brown)
   PdfCraft: An open-source PDF reader and editor written by scratch in pure Rust
 
@@ -494,9 +480,9 @@ See [kubernetes-announce@](https://groups.google.com/forum/#!forum/kubernetes-an
 
 | Skill | Status |
 |-------|--------|
-| Java | 🟢 Proficient |
-| Python | ⚪ Planned |
-| JavaScript | 🔴 Beginner |
+| Java | 🔴 Beginner |
+| Python | 🟡 Learning |
+| JavaScript | 🟢 Proficient |
 | TypeScript | ⚪ Planned |
 | Go | ⚪ Planned |
 
@@ -504,18 +490,18 @@ See [kubernetes-announce@](https://groups.google.com/forum/#!forum/kubernetes-an
 
 | Skill | Status |
 |-------|--------|
-| React | ⚪ Planned |
-| Spring Boot | ⚪ Planned |
-| Django | 🟡 Learning |
-| Node.js | 🔴 Beginner |
-| Next.js | 🟡 Learning |
+| React | 🔴 Beginner |
+| Spring Boot | 🟢 Proficient |
+| Django | 🔴 Beginner |
+| Node.js | ⚪ Planned |
+| Next.js | ⚪ Planned |
 
 ### Cybersecurity
 
 | Skill | Status |
 |-------|--------|
 | Penetration Testing | 🟢 Proficient |
-| Web Security | 🔴 Beginner |
+| Web Security | 🟡 Learning |
 | Network Security | ⚪ Planned |
 | OWASP | 🟡 Learning |
 
@@ -523,30 +509,30 @@ See [kubernetes-announce@](https://groups.google.com/forum/#!forum/kubernetes-an
 
 | Skill | Status |
 |-------|--------|
-| Machine Learning | 🟢 Proficient |
-| Deep Learning | 🟢 Proficient |
+| Machine Learning | 🔴 Beginner |
+| Deep Learning | 🔴 Beginner |
 | NLP | 🟡 Learning |
-| Computer Vision | ⚪ Planned |
-| TensorFlow | 🟡 Learning |
+| Computer Vision | 🔴 Beginner |
+| TensorFlow | 🟢 Proficient |
 | PyTorch | 🟢 Proficient |
 
 ### Devops
 
 | Skill | Status |
 |-------|--------|
-| Docker | 🟢 Proficient |
+| Docker | 🟡 Learning |
 | Kubernetes | 🟢 Proficient |
 | CI/CD | 🟢 Proficient |
-| AWS | ⚪ Planned |
-| Azure | 🔴 Beginner |
+| AWS | 🟡 Learning |
+| Azure | ⚪ Planned |
 
 ### Other
 
 | Skill | Status |
 |-------|--------|
-| Blockchain | 🟡 Learning |
-| Web3 | 🟢 Proficient |
-| Cloud Computing | 🟢 Proficient |
+| Blockchain | 🟢 Proficient |
+| Web3 | 🔴 Beginner |
+| Cloud Computing | 🟡 Learning |
 
 </details>
 
@@ -564,7 +550,7 @@ This dashboard is automatically updated every 6 hours using GitHub Actions. The 
 
 <div align="center">
 
-**Last Updated:** October 13, 2026
+**Last Updated:** October 14, 2026
 
 Made with ❤️ and automated with GitHub Actions
 
