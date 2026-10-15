@@ -46,6 +46,25 @@
 
 ### 📑 Hacker News
 
+- **[The cost of getting a job today](https://weli.dev/blog/the-cost-of-getting-a-job-today/)**
+  *<p>Article URL: <a href="https://weli.dev/blog/the-cost-of-getting-a-job-today/">https://weli.dev/blog/the-cost-of-getting-a-job-today/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/i...*
+  📅 Thu, 15 Oct 2026 09:13:20 +0000
+
+- **[AI was great until it was not](https://thetheorygirlie.substack.com/p/ai-was-great-until-it-was-not)**
+  *<p>Article URL: <a href="https://thetheorygirlie.substack.com/p/ai-was-great-until-it-was-not">https://thetheorygirlie.substack.com/p/ai-was-great-until-it-was-not</a></p>
+<p>Comments URL: <a href="ht...*
+  📅 Thu, 15 Oct 2026 08:18:38 +0000
+
+- **[Aidlc: Adaptive workflow steering rules for AI coding agents](https://github.com/awslabs/aidlc-workflows)**
+  *<p>Article URL: <a href="https://github.com/awslabs/aidlc-workflows">https://github.com/awslabs/aidlc-workflows</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50100387">https:/...*
+  📅 Thu, 15 Oct 2026 07:20:39 +0000
+
+- **[Show HN: Flipflop, Iroh-powered persistent tunnels for filesharing](https://github.com/andunieee/flipflop)**
+  *<p>This is a project that spun from my frustrations of using LocalSend and DashBeam to transfer stuff between devices, and with the extra goal of being fast, trying out the Slint framework and, most i...*
+  📅 Thu, 15 Oct 2026 04:25:28 +0000
+
 - **[The Double Headed Stack Allocator](https://blog.demofox.org/2026/10/03/the-double-headed-stack-allocator/)**
   *<p>Article URL: <a href="https://blog.demofox.org/2026/10/03/the-double-headed-stack-allocator/">https://blog.demofox.org/2026/10/03/the-double-headed-stack-allocator/</a></p>
 <p>Comments URL: <a href...*
@@ -56,27 +75,11 @@
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=50097369">https://n...*
   📅 Wed, 14 Oct 2026 23:59:37 +0000
 
-- **[Tiny Little Office](https://tinylittleoffice.com/)**
-  *<p>Article URL: <a href="https://tinylittleoffice.com/">https://tinylittleoffice.com/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50096142">https://news.ycombinator.com/item...*
-  📅 Wed, 14 Oct 2026 22:10:08 +0000
-
-- **[We’re releasing Jev 1.14.0 along with experimental features for dreamers](https://typesafe.ai/blog/jev-1-14)**
-  *<p>Article URL: <a href="https://typesafe.ai/blog/jev-1-14">https://typesafe.ai/blog/jev-1-14</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50095353">https://news.ycombinator....*
-  📅 Wed, 14 Oct 2026 21:11:03 +0000
-
-- **[OpenCode 2.0](https://anoma.ly/notes/opencode-2-0/)**
-  *<p>Article URL: <a href="https://anoma.ly/notes/opencode-2-0/">https://anoma.ly/notes/opencode-2-0/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50094994">https://news.ycombi...*
-  📅 Wed, 14 Oct 2026 20:48:24 +0000
-
-- **[Anthropic's Scion is heavily inspired by Mononoke](https://sunshowers.io/posts/anthropic-mononoke/)**
-  *<p>Article URL: <a href="https://sunshowers.io/posts/anthropic-mononoke/">https://sunshowers.io/posts/anthropic-mononoke/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=5009469...*
-  📅 Wed, 14 Oct 2026 20:30:54 +0000
-
 ### 📑 TechCrunch
+
+- **[Figma announces new features to define how agents work on its platform](https://techcrunch.com/2026/10/14/figma-announces-new-features-to-define-how-agents-work-on-its-platform/)**
+  *Figma is also releasing its code layers feature in open beta....*
+  📅 Thu, 15 Oct 2026 04:30:00 +0000
 
 - **[Ricursive Intelligence is betting on AI-designed chips to help solve the compute crisis](https://techcrunch.com/2026/10/14/ricursive-intelligence-is-betting-on-ai-designed-chips-to-help-solve-the-compute-crisis/)**
   *The founders detailed how their startup is developing AI that can design chips, learn from each iteration, and improve subsequent designs, all with the goal of automating and accelerating the chip des...*
@@ -98,25 +101,15 @@
   *Intero Biosystems is selling lab-grown human intestines to drugmakers as regulators push for alternatives to animal testing, while the startup looks to scale production and expand its organoid technol...*
   📅 Wed, 14 Oct 2026 23:00:00 +0000
 
-- **[CedarDB wants one database to handle both transactions and analytics, as AI agents raise the stakes](https://techcrunch.com/2026/10/14/cedardb-wants-one-database-to-handle-both-transactions-and-analytics-as-ai-agents-raise-the-stakes/)**
-  *Databases have traditionally been designed either for analytical data or for operational data. But database engine CedarDB supports both, and its approach has gained relevance with the rise of agentic...*
-  📅 Wed, 14 Oct 2026 22:00:00 +0000
-
 ### 📑 Dev.to
 
-- **[Envelope encryption only helps if the key hierarchy is real](https://dev.to/bianliang/envelope-encryption-only-helps-if-the-key-hierarchy-is-real-26g1)**
-  *<h1>
-  
-  
-  Envelope encryption only helps if the key hierarchy is real
-</h1>
+- **[EU Survey Finds 42% of SMEs Use AI, but Trust and Cost Still Shape Adoption](https://dev.to/alifar/eu-survey-finds-42-of-smes-use-ai-but-trust-and-cost-still-shape-adoption-5efa)**
+  *<p>European SMEs and mid-caps are moving from AI experimentation toward more practical workplace use. A European Commission Flash Eurobarometer found that <strong>42% already use AI and automated or a...*
+  📅 Thu, 15 Oct 2026 10:30:30 +0000
 
-<p>Envelope encryption means encrypting data with a data key, then encrypting that data key with a key-encryption key he...*
-  📅 Thu, 15 Oct 2026 02:21:42 +0000
-
-- **[Intune App Protection Policy Not Applying: A Read-First License, Targeting, and Check-In Triage](https://dev.to/adminpackstudio/intune-app-protection-policy-not-applying-a-read-first-license-targeting-and-check-in-triage-12d6)**
-  *<p>You assigned an Intune <strong>app protection policy</strong> (APP, also called MAM) for iOS/iPadOS or Android. Outlook still lets the user copy mail into a personal notes app, Teams never asks for...*
-  📅 Thu, 15 Oct 2026 02:18:27 +0000
+- **[Canva Video Editor Alternatives in 2026: An Honest Comparison (From Someone Who Builds One)](https://dev.to/fredabila/canva-video-editor-alternatives-in-2026-an-honest-comparison-from-someone-who-builds-one-1bo2)**
+  *<p>Disclosure first: I'm Fred Abila, and I build <a href="https://vidmoat.com" rel="noopener noreferrer">Vidmoat</a>, a hosted AI video editor. It's one of the options below, so weigh my view of it ac...*
+  📅 Thu, 15 Oct 2026 10:30:12 +0000
 
 </details>
 
@@ -124,103 +117,103 @@
 
 ### 📈 Daily Trending
 
-- **[GhostParakeet/deadlock-tool](https://github.com/GhostParakeet/deadlock-tool)** ⭐ 84
-  ![None](https://img.shields.io/badge/-None-lightgrey)
-  Bypassing deadlocks without vacating threads in concurrent systems
+- **[chenglou/handwired](https://github.com/chenglou/handwired)** ⭐ 243
+  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
+  Turn your regular JavaScript code into a neural net.
 
-- **[Supermedo/uncharted_pc](https://github.com/Supermedo/uncharted_pc)** ⭐ 18
+- **[Supermedo/uncharted_pc](https://github.com/Supermedo/uncharted_pc)** ⭐ 131
   ![C++](https://img.shields.io/badge/-C++-pink)
   Uncharted: The Nathan Drake Collection running natively on Windows - by SuperMedo
 
-- **[adrian-perry-22/claude-code-free-usage](https://github.com/adrian-perry-22/claude-code-free-usage)** ⭐ 11
-  ![None](https://img.shields.io/badge/-None-lightgrey)
-  nofficial Claude Code toolkit — explore Anthropic API routing, load balancing patterns, and multi-key orchestration. Educational project for API architecture research.
+- **[Binaryify/MonitorBar](https://github.com/Binaryify/MonitorBar)** ⭐ 68
+  ![Go](https://img.shields.io/badge/-Go-cyan)
+  macOS 菜单栏 / Windows 托盘的显示器管理工具：不依赖 DDC/CI，通过澎湃 OS 局域网接口切换输入源、调节音量
 
-- **[adrigordon-81/chatgpt-codex-free-api-pool](https://github.com/adrigordon-81/chatgpt-codex-free-api-pool)** ⭐ 11
-  ![None](https://img.shields.io/badge/-None-lightgrey)
-  ChatGPT session architecture lab — distributed session pooling patterns, cookie management strategies, and web auth flow analysis. Browser security research.
+- **[antirez/c64-hw-simulator](https://github.com/antirez/c64-hw-simulator)** ⭐ 51
+  ![C](https://img.shields.io/badge/-C-lightgrey)
+  Commodore 64 hardware simulator
 
-- **[adamallen769/codex-bypass-free](https://github.com/adamallen769/codex-bypass-free)** ⭐ 11
-  ![C++](https://img.shields.io/badge/-C++-pink)
-  OpenAI API proxy playground — reverse engineering enterprise SSO flows, token management patterns, and distributed quota allocation. For API integration research.
+- **[ctresb/leis](https://github.com/ctresb/leis)** ⭐ 33
+  ![HTML](https://img.shields.io/badge/-HTML-lightgrey)
+  Todas as leis do Brasil
 
-- **[tiennguyen86/PTPMMNM-CNTT-18-10-NHOM-16](https://github.com/tiennguyen86/PTPMMNM-CNTT-18-10-NHOM-16)** ⭐ 7
+- **[itzryuka/PTPMNNM-CNTT1809-NHOM10](https://github.com/itzryuka/PTPMNNM-CNTT1809-NHOM10)** ⭐ 33
   ![PHP](https://img.shields.io/badge/-PHP-lightgrey)
   None
 
-- **[vdatdv/PTPMMNM-CNTT-1810-NHOM-12](https://github.com/vdatdv/PTPMMNM-CNTT-1810-NHOM-12)** ⭐ 6
-  ![None](https://img.shields.io/badge/-None-lightgrey)
+- **[iamdurant/chatgpt2api-personal](https://github.com/iamdurant/chatgpt2api-personal)** ⭐ 30
+  ![Python](https://img.shields.io/badge/-Python-blue)
   None
 
-- **[PhungQuangTrung15/PTPMMNM-CNTT1810-NHOM-3](https://github.com/PhungQuangTrung15/PTPMMNM-CNTT1810-NHOM-3)** ⭐ 5
-  ![CSS](https://img.shields.io/badge/-CSS-lightgrey)
+- **[crsolver/claude-pxl](https://github.com/crsolver/claude-pxl)** ⭐ 29
+  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   None
 
 ### 📈 Weekly Trending
 
-- **[storytold/craft-launcher](https://github.com/storytold/craft-launcher)** ⭐ 2,668
+- **[storytold/craft-launcher](https://github.com/storytold/craft-launcher)** ⭐ 2,751
   ![Rust](https://img.shields.io/badge/-Rust-brown)
   The Craft App Launcher
 
-- **[liseami/CCBaga](https://github.com/liseami/CCBaga)** ⭐ 2,260
-  ![Rust](https://img.shields.io/badge/-Rust-brown)
-  None
-
-- **[jhaizhou-ops/d2r-mobile](https://github.com/jhaizhou-ops/d2r-mobile)** ⭐ 2,225
+- **[jhaizhou-ops/d2r-mobile](https://github.com/jhaizhou-ops/d2r-mobile)** ⭐ 2,666
   ![C](https://img.shields.io/badge/-C-lightgrey)
   Open-source iOS / macOS compatibility layer for Diablo II: Resurrected with the Reign of the Warlock expansion. Runs your own Switch copy natively on iPhone, iPad and Mac — full touch controls, 60 fps, new endgame modes. Bring your own game files. 开源的《暗黑破坏神 II：狱火重生》术士君临 iOS / macOS 兼容层
 
-- **[onehumanbeing/esp32-iphone-agent](https://github.com/onehumanbeing/esp32-iphone-agent)** ⭐ 2,112
+- **[liseami/CCBaga](https://github.com/liseami/CCBaga)** ⭐ 2,315
+  ![Rust](https://img.shields.io/badge/-Rust-brown)
+  None
+
+- **[onehumanbeing/esp32-iphone-agent](https://github.com/onehumanbeing/esp32-iphone-agent)** ⭐ 2,239
   ![C](https://img.shields.io/badge/-C-lightgrey)
   Let an AI model use a real iPhone with a $7 ESP32: AirPlay eyes, USB HID hands, any OpenAI-compatible vision model. No Mac, no developer account, no jailbreak.
 
-- **[Arekejoker/qwen21-nsfw-pose-skill](https://github.com/Arekejoker/qwen21-nsfw-pose-skill)** ⭐ 1,279
+- **[Arekejoker/qwen21-nsfw-pose-skill](https://github.com/Arekejoker/qwen21-nsfw-pose-skill)** ⭐ 1,684
   ![Python](https://img.shields.io/badge/-Python-blue)
   Qwen-Image 2.1 NSFW/姿势出图 skill：作者级提示词配方 + NSFW LoRA + 136 姿势 VNCCS 人偶控制；适用 Claude Code / Codex / Cursor / OpenClaw
 
-- **[shaongitbd/doory](https://github.com/shaongitbd/doory)** ⭐ 1,210
+- **[shaongitbd/doory](https://github.com/shaongitbd/doory)** ⭐ 1,250
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   Open source canva alternative
 
-- **[opengeos/RustGIS](https://github.com/opengeos/RustGIS)** ⭐ 1,070
+- **[storytold/figcraft](https://github.com/storytold/figcraft)** ⭐ 1,141
+  ![Rust](https://img.shields.io/badge/-Rust-brown)
+  FigCraft: interface design and prototyping; an open-source, clean-room reimplementation of collaborative design workflows in pure Rust
+
+- **[opengeos/RustGIS](https://github.com/opengeos/RustGIS)** ⭐ 1,126
   ![Rust](https://img.shields.io/badge/-Rust-brown)
   A fast, free and open-source GIS in pure Rust.
 
-- **[rociiu/talorys](https://github.com/rociiu/talorys)** ⭐ 1,003
-  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
-  Your personal AI agent in your own Cloudflare account. Chat, memory, tasks, notes and scheduled reminders, deployed with one command: npx create-talorys@latest. Free-tier friendly, single-user, no telemetry.
-
 ### 📈 Monthly Trending
 
-- **[storytold/photocraft](https://github.com/storytold/photocraft)** ⭐ 61,273
+- **[storytold/photocraft](https://github.com/storytold/photocraft)** ⭐ 62,102
   ![Rust](https://img.shields.io/badge/-Rust-brown)
   PhotoCraft: An open-source, photo editor written by scratch in pure Rust
 
-- **[NandhaKishorM/laya](https://github.com/NandhaKishorM/laya)** ⭐ 32,921
+- **[NandhaKishorM/laya](https://github.com/NandhaKishorM/laya)** ⭐ 32,985
   ![Python](https://img.shields.io/badge/-Python-blue)
   Non-autoregressive System 1 decision engine. Typed choice, score and yes/no decisions over any text in a single forward pass, in 100+ languages, with a router that picks the right checkpoint per request.
 
-- **[Niko1221/Strata](https://github.com/Niko1221/Strata)** ⭐ 24,657
+- **[Niko1221/Strata](https://github.com/Niko1221/Strata)** ⭐ 25,009
   ![C++](https://img.shields.io/badge/-C++-pink)
   Qwen3.8-Flash-Next on any consumer hardware: one-click install for Windows / Linux. Strata inference engine, OpenAI/Anthropic API on localhost, optional image input.
 
-- **[browser-use/jev-ultrafast](https://github.com/browser-use/jev-ultrafast)** ⭐ 22,925
+- **[browser-use/jev-ultrafast](https://github.com/browser-use/jev-ultrafast)** ⭐ 22,966
   ![Python](https://img.shields.io/badge/-Python-blue)
   Fastest and cheapest web agent
 
-- **[robbietilton/Compositor](https://github.com/robbietilton/Compositor)** ⭐ 16,926
-  ![Swift](https://img.shields.io/badge/-Swift-lightgrey)
-  The Photoshop alternative for Mac
-
-- **[Ebony-Vinyl/dsh-our-free-model](https://github.com/Ebony-Vinyl/dsh-our-free-model)** ⭐ 16,331
+- **[Ebony-Vinyl/dsh-our-free-model](https://github.com/Ebony-Vinyl/dsh-our-free-model)** ⭐ 17,194
   ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
   在 dsh 里装上这个插件即可，无需登录、注册或填 API Key，就能使用包括 DeepSeek V4.1 Flash、Kimi K3 在内的前沿模型——完全免费，不限量。 All you do is install this plugin in dsh: no login, no sign-up, no API key — the frontier models are just there, DeepSeek V4.1 Flash and Kimi K3 among them. Completely free, with no usage cap.
 
-- **[openai/math](https://github.com/openai/math)** ⭐ 14,826
+- **[robbietilton/Compositor](https://github.com/robbietilton/Compositor)** ⭐ 17,003
+  ![Swift](https://img.shields.io/badge/-Swift-lightgrey)
+  The Photoshop alternative for Mac
+
+- **[openai/math](https://github.com/openai/math)** ⭐ 14,867
   ![Lean](https://img.shields.io/badge/-Lean-lightgrey)
   None
 
-- **[storytold/pdfcraft](https://github.com/storytold/pdfcraft)** ⭐ 13,768
+- **[storytold/pdfcraft](https://github.com/storytold/pdfcraft)** ⭐ 14,039
   ![Rust](https://img.shields.io/badge/-Rust-brown)
   PdfCraft: An open-source PDF reader and editor written by scratch in pure Rust
 
@@ -483,57 +476,57 @@ See [kubernetes-announce@](https://groups.google.com/forum/#!forum/kubernetes-an
 | Skill | Status |
 |-------|--------|
 | Java | 🟡 Learning |
-| Python | 🟡 Learning |
-| JavaScript | ⚪ Planned |
-| TypeScript | 🔴 Beginner |
-| Go | ⚪ Planned |
+| Python | 🔴 Beginner |
+| JavaScript | 🟡 Learning |
+| TypeScript | 🟡 Learning |
+| Go | 🟡 Learning |
 
 ### Frameworks
 
 | Skill | Status |
 |-------|--------|
-| React | 🟢 Proficient |
-| Spring Boot | 🟢 Proficient |
-| Django | 🟡 Learning |
-| Node.js | 🔴 Beginner |
-| Next.js | ⚪ Planned |
+| React | 🔴 Beginner |
+| Spring Boot | 🟡 Learning |
+| Django | 🟢 Proficient |
+| Node.js | 🟡 Learning |
+| Next.js | 🟡 Learning |
 
 ### Cybersecurity
 
 | Skill | Status |
 |-------|--------|
 | Penetration Testing | 🟡 Learning |
-| Web Security | 🔴 Beginner |
+| Web Security | ⚪ Planned |
 | Network Security | 🟢 Proficient |
-| OWASP | ⚪ Planned |
+| OWASP | 🟡 Learning |
 
 ### Ai Ml
 
 | Skill | Status |
 |-------|--------|
-| Machine Learning | 🟢 Proficient |
-| Deep Learning | ⚪ Planned |
-| NLP | 🔴 Beginner |
-| Computer Vision | 🟡 Learning |
-| TensorFlow | ⚪ Planned |
-| PyTorch | 🟢 Proficient |
+| Machine Learning | 🔴 Beginner |
+| Deep Learning | 🔴 Beginner |
+| NLP | 🟢 Proficient |
+| Computer Vision | 🟢 Proficient |
+| TensorFlow | 🔴 Beginner |
+| PyTorch | 🔴 Beginner |
 
 ### Devops
 
 | Skill | Status |
 |-------|--------|
-| Docker | 🔴 Beginner |
-| Kubernetes | 🟡 Learning |
-| CI/CD | 🟡 Learning |
-| AWS | 🟡 Learning |
-| Azure | 🟢 Proficient |
+| Docker | ⚪ Planned |
+| Kubernetes | 🔴 Beginner |
+| CI/CD | 🟢 Proficient |
+| AWS | 🟢 Proficient |
+| Azure | ⚪ Planned |
 
 ### Other
 
 | Skill | Status |
 |-------|--------|
-| Blockchain | 🔴 Beginner |
-| Web3 | 🟡 Learning |
+| Blockchain | 🟢 Proficient |
+| Web3 | 🔴 Beginner |
 | Cloud Computing | 🔴 Beginner |
 
 </details>
