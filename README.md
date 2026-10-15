@@ -46,70 +46,80 @@
 
 ### 📑 Hacker News
 
-- **[I designed a nose guard for my dog and gave it away. Now 500 dogs wear one](https://snoutcover.com/one-year)**
-  *<p>Article URL: <a href="https://snoutcover.com/one-year">https://snoutcover.com/one-year</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50105344">https://news.ycombinator.com/...*
-  📅 Thu, 15 Oct 2026 15:44:36 +0000
+- **[Why are we even doing all this?](https://terrytao.wordpress.com/2026/10/15/why-are-we-even-doing-all-this/)**
+  *<p>Article URL: <a href="https://terrytao.wordpress.com/2026/10/15/why-are-we-even-doing-all-this/">https://terrytao.wordpress.com/2026/10/15/why-are-we-even-doing-all-this/</a></p>
+<p>Comments URL: <...*
+  📅 Thu, 15 Oct 2026 20:22:50 +0000
 
-- **[Celebrating 70 Years of Fortran](https://fortran-lang.org/news/2026/09-15-Fortran-birthday/)**
-  *<p>Article URL: <a href="https://fortran-lang.org/news/2026/09-15-Fortran-birthday/">https://fortran-lang.org/news/2026/09-15-Fortran-birthday/</a></p>
-<p>Comments URL: <a href="https://news.ycombinat...*
-  📅 Thu, 15 Oct 2026 15:03:17 +0000
+- **[New Withings Users Must Pay $99/Year for Apple Health Syncing](https://support.withings.com/hc/en-us/community/posts/51887047154577-Unacceptable-Apple-Health-Sync-is-now-behind-a-99-year-paywall-for-new-accounts)**
+  *<p>Article URL: <a href="https://support.withings.com/hc/en-us/community/posts/51887047154577-Unacceptable-Apple-Health-Sync-is-now-behind-a-99-year-paywall-for-new-accounts">https://support.withings....*
+  📅 Thu, 15 Oct 2026 19:55:49 +0000
 
-- **[Simons Foundation Launches $15M Effort to Help Mathematicians Navigate AI Era](https://www.simonsfoundation.org/news/simons-foundation-launches-15m-effort-to-help-mathematicians-navigate-ai-era/)**
-  *<p>Article URL: <a href="https://www.simonsfoundation.org/news/simons-foundation-launches-15m-effort-to-help-mathematicians-navigate-ai-era/">https://www.simonsfoundation.org/news/simons-foundation-la...*
-  📅 Thu, 15 Oct 2026 14:58:48 +0000
+- **[Someone on Torrent Sites Kept Fucking with My Sonarr](https://thereallo.dev/blog/someone-on-torrent-sites-kept-fucking-with-my-sonarr-setup)**
+  *<p>Article URL: <a href="https://thereallo.dev/blog/someone-on-torrent-sites-kept-fucking-with-my-sonarr-setup">https://thereallo.dev/blog/someone-on-torrent-sites-kept-fucking-with-my-sonarr-setup</a...*
+  📅 Thu, 15 Oct 2026 19:21:38 +0000
 
-- **[Siri is so bad at everything](https://www.reddit.com/r/apple/comments/1x6gz83/siri_is_so_bad_at_everything/)**
-  *<p>Article URL: <a href="https://www.reddit.com/r/apple/comments/1x6gz83/siri_is_so_bad_at_everything/">https://www.reddit.com/r/apple/comments/1x6gz83/siri_is_so_bad_at_everything/</a></p>
-<p>Comment...*
-  📅 Thu, 15 Oct 2026 14:47:39 +0000
+- **[E Ink Kaleido 4](https://www.eink.com/news/detail/EInk-Launches-Latest-Version-of-Color-ePaper-Platform-E-Ink-Kaleido-4)**
+  *<p><a href="https://web.archive.org/web/20261015180401/https://www.eink.com/news/detail/EInk-Launches-Latest-Version-of-Color-ePaper-Platform-E-Ink-Kaleido-4" rel="nofollow">https://web.archive.org/we...*
+  📅 Thu, 15 Oct 2026 18:38:16 +0000
 
-- **[Prompt injection in HTTP headers: what 217M web responses show](https://www.signalscorps.com/blog/prompt-injection-in-http-headers/)**
-  *<p>Article URL: <a href="https://www.signalscorps.com/blog/prompt-injection-in-http-headers/">https://www.signalscorps.com/blog/prompt-injection-in-http-headers/</a></p>
-<p>Comments URL: <a href="http...*
-  📅 Thu, 15 Oct 2026 14:36:22 +0000
+- **[Muse Spark Open](https://research.meta.ai/blog/muse-spark-open)**
+  *<p><a href="https://dev.meta.ai/resources/blog/build-with-muse-spark-open" rel="nofollow">https://dev.meta.ai/resources/blog/build-with-muse-spark-ope...</a><p><a href="https://huggingface.co/meta-mod...*
+  📅 Thu, 15 Oct 2026 17:47:39 +0000
 
-- **[Using AI to reverse engineer hardware](https://blogs.gnome.org/uraeus/2026/10/15/aiandreverseengineerhardware/)**
-  *<p>Article URL: <a href="https://blogs.gnome.org/uraeus/2026/10/15/aiandreverseengineerhardware/">https://blogs.gnome.org/uraeus/2026/10/15/aiandreverseengineerhardware/</a></p>
-<p>Comments URL: <a hr...*
-  📅 Thu, 15 Oct 2026 14:35:15 +0000
+- **[More on Anthropic's Scion ripping off Mononoke](https://sunshowers.io/posts/anthropic-mononoke-2/)**
+  *<p><i>Redesigning source control at Anthropic</i> - <a href="https://news.ycombinator.com/item?id=50073633">https://news.ycombinator.com/item?id=50073633</a> (996 comments)<p><i>Anthropic's Scion is h...*
+  📅 Thu, 15 Oct 2026 17:05:19 +0000
 
 ### 📑 TechCrunch
 
-- **[AI agents are coming to Rivian’s cars](https://techcrunch.com/2026/10/15/ai-agents-are-coming-to-rivians-cars/)**
-  *We'll likely learn more about how this will work at the company's upcoming "AI &#038; Autonomy Day" event in December....*
-  📅 Thu, 15 Oct 2026 15:02:36 +0000
+- **[Amazon devices chief Panos Panay on the importance of failure and bouncing back from it](https://techcrunch.com/2026/10/15/amazon-devices-chief-panos-panay-on-the-importance-of-failure-and-bouncing-back-from-it/)**
+  *Panay said that it's possible to recover and learn from all sorts of failures, even catastrophic ones, when building products....*
+  📅 Thu, 15 Oct 2026 20:38:13 +0000
 
-- **[Ramp reaches $60B valuation as it pushes deeper into AI](https://techcrunch.com/2026/10/15/ramp-reaches-60b-valuation-as-it-pushes-deeper-into-ai/)**
-  *The funding comes as Ramp's annualized revenue crosses $2B, and its customer count reaches 85,000....*
-  📅 Thu, 15 Oct 2026 14:47:09 +0000
+- **[Meta launches an open-weight AI model that runs on Macs](https://techcrunch.com/2026/10/15/meta-launches-an-open-weight-model-that-runs-on-macs/)**
+  *Meta and Apple have teamed up for the launch of the social media giant's newest model, Muse Spark Open, which will run locally on Apple silicon....*
+  📅 Thu, 15 Oct 2026 20:04:53 +0000
 
-- **[Google’s Universal Cart shopping tool launches in the US](https://techcrunch.com/2026/10/15/googles-universal-cart-shopping-tool-launches-in-the-us/)**
-  *The new shopping tool is available in the U.S. across Google Search and the Gemini app....*
-  📅 Thu, 15 Oct 2026 14:29:33 +0000
+- **[Amazon devices chief Panos Panay sees a future where AI devices replace the need to use apps](https://techcrunch.com/2026/10/15/amazon-devices-chief-panos-panay-sees-a-future-where-ai-devices-replace-the-need-to-use-apps/)**
+  *Speaking at TechCrunch Disrupt, Amazon devices chief Panos Panay described a future where ambient AI devices work in the background, anticipating users' needs instead of waiting for commands....*
+  📅 Thu, 15 Oct 2026 19:55:25 +0000
 
-- **[TechCrunch Disrupt 2026: Last day](https://techcrunch.com/2026/10/15/techcrunch-disrupt-2026-last-day/)**
-  *Last day to join TechCrunch Disrupt 2026. Join 10,000+ tech leaders for a day of connections and insights. Save 75% on your pass now....*
-  📅 Thu, 15 Oct 2026 14:00:00 +0000
+- **[Bluesky wants to make it easier to buy, sell, and fundraise on the network](https://techcrunch.com/2026/10/15/bluesky-wants-to-make-it-easier-to-buy-sell-and-fundraise-on-the-network/)**
+  *The executives argued that advertising isn’t the only path to monetization, and that there are alternative models that are feasible when it comes to monetization....*
+  📅 Thu, 15 Oct 2026 19:29:05 +0000
 
-- **[Amazon’s Bee launches two new personal AI devices, starting at $75](https://techcrunch.com/2026/10/15/amazons-bee-launches-two-new-personal-ai-devices-starting-at-75/)**
-  *Amazon-owned Bee has launched its first new AI devices since its acquisition, including an updated wearable and a credit-card-sized recorder that attaches to smartphones. The devices can summarize con...*
-  📅 Thu, 15 Oct 2026 12:00:00 +0000
+- **[Anthropic is letting METR researchers look under the hood with employee-level access](https://techcrunch.com/2026/10/15/anthropic-is-letting-metr-researchers-look-under-the-hood-with-employee-level-access/)**
+  *METR will publish its own assessments of Anthropic’s risks, incidents, and practices, and the frontier AI model maker has given up the right to block them....*
+  📅 Thu, 15 Oct 2026 19:14:26 +0000
 
-- **[Citizen Lab says governments are abusing online ads to hack people with ‘zero-click’ spyware](https://techcrunch.com/2026/10/15/citizen-lab-says-governments-are-abusing-online-ads-to-hack-people-with-zero-click-spyware/)**
-  *The digital rights unit found evidence that dozens of devices at media organization Al Jazeera were hacked after being shown malicious online ads....*
-  📅 Thu, 15 Oct 2026 10:00:00 +0000
+- **[Bluesky expands its AI-powered Attie app to let anyone build websites, games, and more](https://techcrunch.com/2026/10/15/bluesky-expands-its-ai-powered-attie-app-to-let-anyone-build-websites-games-and-more/)**
+  *Bluesky is bringing “social vibe coding” to its experimental Attie platform, allowing users to create interactive experiences like games, quizzes, and websites that can tap into the social network's a...*
+  📅 Thu, 15 Oct 2026 18:56:46 +0000
 
 ### 📑 Dev.to
 
-- **[What Really Determines LP Profitability in DeFi?](https://dev.to/yieldbasis/what-really-determines-lp-profitability-in-defi-21li)**
-  *<p>When people compare DeFi liquidity pools, the first number they usually look at is APY. That makes sense, since a higher APY appears to mean higher returns, but it’s ultimately a backwards-looking ...*
-  📅 Thu, 15 Oct 2026 15:59:12 +0000
+- **[Cross-Chain Bridge Risk Assessment: MEXC](https://dev.to/dannydoes_2abdf9c/cross-chain-bridge-risk-assessment-mexc-ang)**
+  *<h1>
+  
+  
+  Cross-Chain Bridge Risk Assessment: MEXC
+</h1>
 
-- **[Export Perplexity threads to Markdown, with sources, plus Convolvger 0.7.0](https://dev.to/fahadbilalsaleem/export-perplexity-threads-to-markdown-with-sources-plus-convolvger-070-1)**
-  *<p>If you want to export a Perplexity thread to Markdown or save a Perplexity conversation as a .md file, you are out of luck. Copy-paste keeps the answer text and drops every source the answer cited,...*
-  📅 Thu, 15 Oct 2026 15:59:02 +0000
+<p><strong>Target Protocol</strong>: MEXC (TVL: $5363.2M)</p>
+
+<h1>
+  
+  
+  Cross‑Chain Bridge Risk Assessment – MEXC
+</h1>
+
+<p><strong>TVL...*
+  📅 Thu, 15 Oct 2026 20:37:01 +0000
+
+- **[WebRTC Delivery Guarantees for Realtime Bidder Alerts (Auction Privacy Contracts)](https://dev.to/apexz69/webrtc-delivery-guarantees-for-realtime-bidder-alerts-auction-privacy-contracts-3khe)**
+  *<p>Short answer: model presence as short-lived, purpose-bound facts, then publish bidder notifications from a server-owned contract that reveals the minimum state. A browser should never infer auction...*
+  📅 Thu, 15 Oct 2026 20:36:21 +0000
 
 </details>
 
@@ -117,33 +127,33 @@
 
 ### 📈 Daily Trending
 
-- **[chenglou/handwired](https://github.com/chenglou/handwired)** ⭐ 537
+- **[chenglou/handwired](https://github.com/chenglou/handwired)** ⭐ 892
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   Turn your regular JavaScript code into a neural net.
 
-- **[Supermedo/uncharted_pc](https://github.com/Supermedo/uncharted_pc)** ⭐ 380
-  ![C++](https://img.shields.io/badge/-C++-pink)
-  Uncharted: The Nathan Drake Collection running natively on Windows - by SuperMedo
-
-- **[feder-cr/open_scion](https://github.com/feder-cr/open_scion)** ⭐ 171
+- **[feder-cr/open_scion](https://github.com/feder-cr/open_scion)** ⭐ 677
   ![Go](https://img.shields.io/badge/-Go-cyan)
   Open-source version of Scion: version control built for coding agents.
 
-- **[ctresb/leis](https://github.com/ctresb/leis)** ⭐ 114
+- **[Supermedo/uncharted_pc](https://github.com/Supermedo/uncharted_pc)** ⭐ 549
+  ![C++](https://img.shields.io/badge/-C++-pink)
+  Uncharted: The Nathan Drake Collection running natively on Windows - by SuperMedo
+
+- **[ctresb/leis](https://github.com/ctresb/leis)** ⭐ 192
   ![HTML](https://img.shields.io/badge/-HTML-lightgrey)
   Todas as leis do Brasil
+
+- **[antirez/c64-hw-simulator](https://github.com/antirez/c64-hw-simulator)** ⭐ 128
+  ![C](https://img.shields.io/badge/-C-lightgrey)
+  Commodore 64 hardware simulator
+
+- **[Binaryify/MonitorBar](https://github.com/Binaryify/MonitorBar)** ⭐ 107
+  ![Go](https://img.shields.io/badge/-Go-cyan)
+  macOS 菜单栏 / Windows 托盘的显示器管理工具：不依赖 DDC/CI，通过澎湃 OS 局域网接口切换输入源、调节音量
 
 - **[centimotormancavity/youtube-tiktok-video-manager-downloader](https://github.com/centimotormancavity/youtube-tiktok-video-manager-downloader)** ⭐ 99
   ![None](https://img.shields.io/badge/-None-lightgrey)
   youtube-tiktok-video-manager, video organization, multi-platform sharing, content scheduling, analytics tracking
-
-- **[antirez/c64-hw-simulator](https://github.com/antirez/c64-hw-simulator)** ⭐ 97
-  ![C](https://img.shields.io/badge/-C-lightgrey)
-  Commodore 64 hardware simulator
-
-- **[Binaryify/MonitorBar](https://github.com/Binaryify/MonitorBar)** ⭐ 94
-  ![Go](https://img.shields.io/badge/-Go-cyan)
-  macOS 菜单栏 / Windows 托盘的显示器管理工具：不依赖 DDC/CI，通过澎湃 OS 局域网接口切换输入源、调节音量
 
 - **[Handcuffaosewer/hwid-spoofer-changer](https://github.com/Handcuffaosewer/hwid-spoofer-changer)** ⭐ 88
   ![None](https://img.shields.io/badge/-None-lightgrey)
@@ -151,69 +161,69 @@
 
 ### 📈 Weekly Trending
 
-- **[jhaizhou-ops/d2r-mobile](https://github.com/jhaizhou-ops/d2r-mobile)** ⭐ 2,951
+- **[jhaizhou-ops/d2r-mobile](https://github.com/jhaizhou-ops/d2r-mobile)** ⭐ 3,047
   ![C](https://img.shields.io/badge/-C-lightgrey)
   Open-source iOS / macOS compatibility layer for Diablo II: Resurrected with the Reign of the Warlock expansion. Runs your own Switch copy natively on iPhone, iPad and Mac — full touch controls, 60 fps, new endgame modes. Bring your own game files. 开源的《暗黑破坏神 II：狱火重生》术士君临 iOS / macOS 兼容层
 
-- **[storytold/craft-launcher](https://github.com/storytold/craft-launcher)** ⭐ 2,803
+- **[storytold/craft-launcher](https://github.com/storytold/craft-launcher)** ⭐ 2,842
   ![Rust](https://img.shields.io/badge/-Rust-brown)
   The Craft App Launcher
 
-- **[onehumanbeing/esp32-iphone-agent](https://github.com/onehumanbeing/esp32-iphone-agent)** ⭐ 2,330
+- **[onehumanbeing/esp32-iphone-agent](https://github.com/onehumanbeing/esp32-iphone-agent)** ⭐ 2,382
   ![C](https://img.shields.io/badge/-C-lightgrey)
   Let an AI model use a real iPhone with a $7 ESP32: AirPlay eyes, USB HID hands, any OpenAI-compatible vision model. No Mac, no developer account, no jailbreak.
 
-- **[liseami/CCBaga](https://github.com/liseami/CCBaga)** ⭐ 2,329
+- **[liseami/CCBaga](https://github.com/liseami/CCBaga)** ⭐ 2,336
   ![Rust](https://img.shields.io/badge/-Rust-brown)
   None
 
-- **[Arekejoker/qwen21-nsfw-pose-skill](https://github.com/Arekejoker/qwen21-nsfw-pose-skill)** ⭐ 1,868
+- **[Arekejoker/qwen21-nsfw-pose-skill](https://github.com/Arekejoker/qwen21-nsfw-pose-skill)** ⭐ 1,975
   ![Python](https://img.shields.io/badge/-Python-blue)
   Qwen-Image 2.1 NSFW/姿势出图 skill：作者级提示词配方 + NSFW LoRA + 136 姿势 VNCCS 人偶控制；适用 Claude Code / Codex / Cursor / OpenClaw
 
-- **[storytold/figcraft](https://github.com/storytold/figcraft)** ⭐ 1,288
+- **[storytold/figcraft](https://github.com/storytold/figcraft)** ⭐ 1,367
   ![Rust](https://img.shields.io/badge/-Rust-brown)
   FigCraft: interface design and prototyping; an open-source, clean-room reimplementation of collaborative design workflows in pure Rust
 
-- **[shaongitbd/doory](https://github.com/shaongitbd/doory)** ⭐ 1,273
+- **[shaongitbd/doory](https://github.com/shaongitbd/doory)** ⭐ 1,297
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   Open source canva alternative
 
-- **[opengeos/RustGIS](https://github.com/opengeos/RustGIS)** ⭐ 1,164
-  ![Rust](https://img.shields.io/badge/-Rust-brown)
-  A fast, free and open-source GIS in pure Rust.
+- **[HeyPuter/everything](https://github.com/HeyPuter/everything)** ⭐ 1,223
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
+  We're rebuilding and open-sourcing the world’s software from scratch.
 
 ### 📈 Monthly Trending
 
-- **[storytold/photocraft](https://github.com/storytold/photocraft)** ⭐ 62,691
+- **[storytold/photocraft](https://github.com/storytold/photocraft)** ⭐ 63,067
   ![Rust](https://img.shields.io/badge/-Rust-brown)
   PhotoCraft: An open-source, photo editor written by scratch in pure Rust
 
-- **[NandhaKishorM/laya](https://github.com/NandhaKishorM/laya)** ⭐ 33,021
+- **[NandhaKishorM/laya](https://github.com/NandhaKishorM/laya)** ⭐ 33,042
   ![Python](https://img.shields.io/badge/-Python-blue)
   Non-autoregressive System 1 decision engine. Typed choice, score and yes/no decisions over any text in a single forward pass, in 100+ languages, with a router that picks the right checkpoint per request.
 
-- **[Niko1221/Strata](https://github.com/Niko1221/Strata)** ⭐ 25,216
+- **[Niko1221/Strata](https://github.com/Niko1221/Strata)** ⭐ 25,378
   ![C++](https://img.shields.io/badge/-C++-pink)
   Qwen3.8-Flash-Next on any consumer hardware: one-click install for Windows / Linux. Strata inference engine, OpenAI/Anthropic API on localhost, optional image input.
 
-- **[browser-use/jev-ultrafast](https://github.com/browser-use/jev-ultrafast)** ⭐ 22,983
+- **[browser-use/jev-ultrafast](https://github.com/browser-use/jev-ultrafast)** ⭐ 22,999
   ![Python](https://img.shields.io/badge/-Python-blue)
   Fastest and cheapest web agent
 
-- **[Ebony-Vinyl/dsh-our-free-model](https://github.com/Ebony-Vinyl/dsh-our-free-model)** ⭐ 17,615
+- **[Ebony-Vinyl/dsh-our-free-model](https://github.com/Ebony-Vinyl/dsh-our-free-model)** ⭐ 17,771
   ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
   在 dsh 里装上这个插件即可，无需登录、注册或填 API Key，就能使用包括 DeepSeek V4.1 Flash、Kimi K3 在内的前沿模型——完全免费，不限量。 All you do is install this plugin in dsh: no login, no sign-up, no API key — the frontier models are just there, DeepSeek V4.1 Flash and Kimi K3 among them. Completely free, with no usage cap.
 
-- **[robbietilton/Compositor](https://github.com/robbietilton/Compositor)** ⭐ 17,034
+- **[robbietilton/Compositor](https://github.com/robbietilton/Compositor)** ⭐ 17,053
   ![Swift](https://img.shields.io/badge/-Swift-lightgrey)
   The Photoshop alternative for Mac
 
-- **[openai/math](https://github.com/openai/math)** ⭐ 14,896
+- **[openai/math](https://github.com/openai/math)** ⭐ 14,921
   ![Lean](https://img.shields.io/badge/-Lean-lightgrey)
   None
 
-- **[storytold/pdfcraft](https://github.com/storytold/pdfcraft)** ⭐ 14,225
+- **[storytold/pdfcraft](https://github.com/storytold/pdfcraft)** ⭐ 14,363
   ![Rust](https://img.shields.io/badge/-Rust-brown)
   PdfCraft: An open-source PDF reader and editor written by scratch in pure Rust
 
@@ -475,50 +485,50 @@ See [kubernetes-announce@](https://groups.google.com/forum/#!forum/kubernetes-an
 
 | Skill | Status |
 |-------|--------|
-| Java | 🟡 Learning |
-| Python | 🟡 Learning |
-| JavaScript | ⚪ Planned |
+| Java | 🟢 Proficient |
+| Python | 🔴 Beginner |
+| JavaScript | 🟢 Proficient |
 | TypeScript | 🔴 Beginner |
-| Go | ⚪ Planned |
+| Go | 🔴 Beginner |
 
 ### Frameworks
 
 | Skill | Status |
 |-------|--------|
-| React | 🔴 Beginner |
-| Spring Boot | 🟡 Learning |
+| React | 🟡 Learning |
+| Spring Boot | ⚪ Planned |
 | Django | ⚪ Planned |
-| Node.js | 🟢 Proficient |
-| Next.js | 🟢 Proficient |
+| Node.js | ⚪ Planned |
+| Next.js | 🔴 Beginner |
 
 ### Cybersecurity
 
 | Skill | Status |
 |-------|--------|
-| Penetration Testing | 🟡 Learning |
-| Web Security | 🟢 Proficient |
+| Penetration Testing | ⚪ Planned |
+| Web Security | 🔴 Beginner |
 | Network Security | 🟢 Proficient |
-| OWASP | 🟢 Proficient |
+| OWASP | ⚪ Planned |
 
 ### Ai Ml
 
 | Skill | Status |
 |-------|--------|
-| Machine Learning | ⚪ Planned |
-| Deep Learning | ⚪ Planned |
-| NLP | 🟡 Learning |
-| Computer Vision | ⚪ Planned |
-| TensorFlow | ⚪ Planned |
-| PyTorch | 🟡 Learning |
+| Machine Learning | 🟢 Proficient |
+| Deep Learning | 🟡 Learning |
+| NLP | 🔴 Beginner |
+| Computer Vision | 🟡 Learning |
+| TensorFlow | 🔴 Beginner |
+| PyTorch | 🔴 Beginner |
 
 ### Devops
 
 | Skill | Status |
 |-------|--------|
-| Docker | 🟢 Proficient |
+| Docker | ⚪ Planned |
 | Kubernetes | 🟡 Learning |
 | CI/CD | 🔴 Beginner |
-| AWS | 🟢 Proficient |
+| AWS | ⚪ Planned |
 | Azure | 🟡 Learning |
 
 ### Other
@@ -526,8 +536,8 @@ See [kubernetes-announce@](https://groups.google.com/forum/#!forum/kubernetes-an
 | Skill | Status |
 |-------|--------|
 | Blockchain | 🟡 Learning |
-| Web3 | 🟢 Proficient |
-| Cloud Computing | 🟢 Proficient |
+| Web3 | 🔴 Beginner |
+| Cloud Computing | ⚪ Planned |
 
 </details>
 
