@@ -20,7 +20,7 @@
 | Metric | Count |
 |--------|-------|
 | 📰 Latest News Articles | 26 |
-| 🔥 Trending Repositories | 45 |
+| 🔥 Trending Repositories | 30 |
 | 🎯 Latest Releases | 10 |
 | 🎯 Learning Goals | 4 |
 
@@ -46,37 +46,54 @@
 
 ### 📑 Hacker News
 
-- **[The insider trading you're allowed to do](https://coached.com/essays/the-insider-trading-youre-allowed-to-do/)**
-  *<p>Article URL: <a href="https://coached.com/essays/the-insider-trading-youre-allowed-to-do/">https://coached.com/essays/the-insider-trading-youre-allowed-to-do/</a></p>
-<p>Comments URL: <a href="http...*
-  📅 Fri, 16 Oct 2026 07:12:09 +0000
+- **[Hello Toronto – Waymo Is En Route](https://waymo.com/blog/2026/10/waymo-in-toronto/)**
+  *<p>Article URL: <a href="https://waymo.com/blog/2026/10/waymo-in-toronto/">https://waymo.com/blog/2026/10/waymo-in-toronto/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50118...*
+  📅 Fri, 16 Oct 2026 14:44:17 +0000
 
-- **[Last rites for Gentoo's Chromium package](https://lwn.net/Articles/1097760/)**
-  *<p>Article URL: <a href="https://lwn.net/Articles/1097760/">https://lwn.net/Articles/1097760/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50114359">https://news.ycombinator....*
-  📅 Fri, 16 Oct 2026 05:14:42 +0000
+- **[Big Fish: Exploiting a 37-Year-Old Kernel Bug in OpenBSD](https://calif.io/research/big-fish)**
+  *<p>Article URL: <a href="https://calif.io/research/big-fish">https://calif.io/research/big-fish</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50118977">https://news.ycombinato...*
+  📅 Fri, 16 Oct 2026 14:44:02 +0000
 
-- **[The Folders Programming Language](https://danieltemkin.com/esolangs/folders)**
-  *<p>Article URL: <a href="https://danieltemkin.com/esolangs/folders">https://danieltemkin.com/esolangs/folders</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50114342">https://n...*
-  📅 Fri, 16 Oct 2026 05:11:28 +0000
+- **[What on Earth Is Dekton?](https://www.worksinprogress.news/p/porcelain)**
+  *<p>Article URL: <a href="https://www.worksinprogress.news/p/porcelain">https://www.worksinprogress.news/p/porcelain</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50118828">htt...*
+  📅 Fri, 16 Oct 2026 14:31:43 +0000
 
-- **[Comparing Chromium Development at Google and Igalia](https://lwn.net/Articles/1094721/)**
-  *<p>Article URL: <a href="https://lwn.net/Articles/1094721/">https://lwn.net/Articles/1094721/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50112887">https://news.ycombinator....*
-  📅 Fri, 16 Oct 2026 01:56:37 +0000
+- **[Show HN: Gemini 4 Argon plays StarCraft](https://starskirmish.com/bench/v0-2/)**
+  *<p>I've refreshed StarSkirmish Bench, a benchmark where LLMs play StarCraft BW by writing code, with results from the flagship models of OpenAI, Anthropic, Google, and Muse</p>
+<hr />
+<p>Comments URL:...*
+  📅 Fri, 16 Oct 2026 14:18:44 +0000
 
-- **[Any window from your Mac, on your iPhone and iPad](https://github.com/Saffsanity/sill)**
-  *<p>Article URL: <a href="https://github.com/Saffsanity/sill">https://github.com/Saffsanity/sill</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50112739">https://news.ycombinato...*
-  📅 Fri, 16 Oct 2026 01:43:17 +0000
-
-- **[Thank You, Deno](https://www.vlt.io/blog/competition-keeps-javascript-moving)**
-  *<p>Article URL: <a href="https://www.vlt.io/blog/competition-keeps-javascript-moving">https://www.vlt.io/blog/competition-keeps-javascript-moving</a></p>
+- **[How to make System 1 LLMs show System 2 competencies?](https://onlinelibrary.wiley.com/doi/epdf/10.1002/aaai.70113)**
+  *<p>Article URL: <a href="https://onlinelibrary.wiley.com/doi/epdf/10.1002/aaai.70113">https://onlinelibrary.wiley.com/doi/epdf/10.1002/aaai.70113</a></p>
 <p>Comments URL: <a href="https://news.ycombin...*
-  📅 Fri, 16 Oct 2026 00:52:40 +0000
+  📅 Fri, 16 Oct 2026 14:16:34 +0000
+
+- **[How to Formalize All of Mathematics](https://xenaproject.wordpress.com/2026/10/16/how-to-formalize-all-of-mathematics/)**
+  *<p>Article URL: <a href="https://xenaproject.wordpress.com/2026/10/16/how-to-formalize-all-of-mathematics/">https://xenaproject.wordpress.com/2026/10/16/how-to-formalize-all-of-mathematics/</a></p>
+<p...*
+  📅 Fri, 16 Oct 2026 14:01:53 +0000
 
 ### 📑 TechCrunch
+
+- **[Jev is Vercel’s fastest-adopted AI model ever](https://techcrunch.com/2026/10/16/jev-is-vercels-fastest-adopted-ai-model-ever/)**
+  *The data comes from the Vercel's AI gateway, a unified API service similar to OpenRouter....*
+  📅 Fri, 16 Oct 2026 15:33:49 +0000
+
+- **[Mark Wahlberg on using AI in film ‘the right way’ and being open to an AI clone carrying on his legacy](https://techcrunch.com/2026/10/16/mark-wahlberg-on-using-ai-in-film-the-right-way-and-being-open-to-an-ai-clone-carrying-on-his-legacy/)**
+  *Actor and angel investor Mark Wahlberg says he's OK with using AI in filmmaking, provided it's used "to enhance what you're doing."...*
+  📅 Fri, 16 Oct 2026 14:26:51 +0000
+
+- **[Veritas expands its anti-counterfeit chip to jewelry, trophies, and fragrance bottles](https://techcrunch.com/2026/10/16/veritas-is-building-a-chip-to-verify-luxury-goods/)**
+  *Counterfeiters are getting better at replicating brands' marks and passing off dupes, known as "superfakes," as genuine items. A startup called Veritas wants to tackle the problem with its own chip th...*
+  📅 Fri, 16 Oct 2026 14:00:00 +0000
+
+- **[Replit’s CEO says the future of work is the ‘self-driving company’](https://techcrunch.com/2026/10/16/replits-ceo-says-the-future-of-work-is-the-self-driving-company/)**
+  *Replit CEO Amjad Masad envisions a future of “self-driving companies,” where AI agents handle day-to-day tasks and people focus on higher-level decisions....*
+  📅 Fri, 16 Oct 2026 12:55:09 +0000
 
 - **[Even Benchmark thinks AI is eroding the venture pact against backing rivals](https://techcrunch.com/2026/10/15/even-benchmark-thinks-ai-is-eroding-the-venture-pact-against-backing-rivals/)**
   *Benchmark says the Valley’s rule against backing rivals is getting harder to keep....*
@@ -86,31 +103,19 @@
   *The new car used thrusters to leap over a Cybercab, Cybertruck, Tesla Semi, Model Y, and Model 3 at a demo in Texas....*
   📅 Fri, 16 Oct 2026 01:17:43 +0000
 
-- **[When it came to Cal AI’s viral success, a small army of influencers paid off](https://techcrunch.com/2026/10/15/when-it-came-to-cal-ais-viral-success-a-small-army-of-influencers-paid-off/)**
-  *The company generated over $30 million in revenue in two years and was acquired by MyFitnessPal for an undisclosed amount of money in March....*
-  📅 Thu, 15 Oct 2026 23:44:56 +0000
-
-- **[And the winner of Startup Battlefield at Disrupt 2026 is: Intero Biosystems](https://techcrunch.com/2026/10/15/and-the-winner-of-startup-battlefield-at-disrupt-2026-is-intero-biosystems/)**
-  *Intero Biosystems beat out 199 other Startup Battlefield companies to take home the $100,000 grand prize at TechCrunch Disrupt 2026....*
-  📅 Thu, 15 Oct 2026 23:33:45 +0000
-
-- **[Amazon devices chief Panos Panay on the importance of failure and bouncing back from it](https://techcrunch.com/2026/10/15/amazon-devices-chief-panos-panay-on-the-importance-of-failure-and-bouncing-back-from-it/)**
-  *Panay said that it's possible to recover and learn from all sorts of failures, even catastrophic ones, when building products....*
-  📅 Thu, 15 Oct 2026 20:38:13 +0000
-
-- **[Meta launches an open-weight AI model that runs on Macs](https://techcrunch.com/2026/10/15/meta-launches-an-open-weight-model-that-runs-on-macs/)**
-  *Meta and Apple have teamed up for the launch of the social media giant's newest model, Muse Spark Open, which will run locally on Apple silicon....*
-  📅 Thu, 15 Oct 2026 20:04:53 +0000
-
 ### 📑 Dev.to
 
-- **[uMatrix for Firefox: Granular Request Control Beyond uBlock Origin](https://dev.to/weatherclockdash/umatrix-for-firefox-granular-request-control-beyond-ublock-origin-1dg7)**
-  *<p>Most Firefox users know uBlock Origin for blocking ads. Fewer know uMatrix, the same author's (Raymond Hill) tool for granular control over what browsers can request. Here's what uMatrix does diffe...*
-  📅 Fri, 16 Oct 2026 10:21:04 +0000
+- **[LangChain Incident Analysis: Verified Guide](https://dev.to/gateofai/langchain-incident-analysis-verified-guide-31b9)**
+  *<blockquote>
+<p><strong>🚀 Technical Briefing:</strong> This tutorial is part of our deep-dive series on Agentic Workflows at <a href="https://gateofai.com" rel="noopener noreferrer">Gate of AI</a>. Fo...*
+  📅 Fri, 16 Oct 2026 15:40:01 +0000
 
-- **[Why legacy security systems will not scale in 2026](https://dev.to/anas_kanafani/why-legacy-security-systems-will-not-scale-in-2026-10cj)**
-  *<p>Legacy security systems struggle to scale in 2026 because automated software agents generate unpredictable traffic volumes, complex cross-service queries and direct API interactions that overwhelm ...*
-  📅 Fri, 16 Oct 2026 10:20:59 +0000
+- **[What Replaced queue:work in My Laravel App (And Why I Stopped Praying to Supervisor at 3 AM)](https://dev.to/hschimpf/what-replaced-queuework-in-my-laravel-app-and-why-i-stopped-praying-to-supervisor-at-3-am-41nh)**
+  *<blockquote>
+<p>Versión en español <a href="https://dev.to/hschimpf/que-reemplazo-a-queuework-en-mi-aplicacion-laravel-y-por-que-deje-de-rezarle-a-supervisor-a-las-3-42ph">aquí</a>.</p>
+</blockquote>
+...*
+  📅 Fri, 16 Oct 2026 15:39:41 +0000
 
 </details>
 
@@ -118,105 +123,71 @@
 
 ### 📈 Daily Trending
 
-- **[zgsfsec/Full-Chain-Sentinel-System](https://github.com/zgsfsec/Full-Chain-Sentinel-System)** ⭐ 122
-  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
-  【全链哨兵】全流程渗透测试 Agent 系统，安全服务渗透测试辅助工具，禁止用于非法攻击。
-
-- **[OpenMOSS/MOSS-Image](https://github.com/OpenMOSS/MOSS-Image)** ⭐ 63
+- **[OpenMOSS/MOSS-Image](https://github.com/OpenMOSS/MOSS-Image)** ⭐ 154
   ![Python](https://img.shields.io/badge/-Python-blue)
   Official repository for MOSS-Image, a 5B-parameter base DiT model with high-quality text rendering, layout generation, and efficient fine-tuning.
 
-- **[mod-manager/mod-manager.github.io](https://github.com/mod-manager/mod-manager.github.io)** ⭐ 48
-  ![HTML](https://img.shields.io/badge/-HTML-lightgrey)
-  Эта программа предназначена для автоматической установки модов для большого количества игр, удобного их хранения, отключения ненужных и т.д. Программа интуитивно понятна, разобраться в ней не составит труда.
+- **[zgsfsec/Full-Chain-Sentinel-System](https://github.com/zgsfsec/Full-Chain-Sentinel-System)** ⭐ 131
+  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
+  【全链哨兵】全流程渗透测试 Agent 系统，安全服务渗透测试辅助工具，禁止用于非法攻击。
 
-- **[tgwsproxy-flowseal/tgwsproxy-flowseal.github.io](https://github.com/tgwsproxy-flowseal/tgwsproxy-flowseal.github.io)** ⭐ 47
-  ![HTML](https://img.shields.io/badge/-HTML-lightgrey)
-  None
+- **[Xenoesclaw44704/Arc-Raiders-Respocket-FPS-Booster](https://github.com/Xenoesclaw44704/Arc-Raiders-Respocket-FPS-Booster)** ⭐ 75
+  ![C++](https://img.shields.io/badge/-C++-pink)
+  Best Software For Arc Raiders Yet
 
-- **[kergee/mcd-undercover](https://github.com/kergee/mcd-undercover)** ⭐ 29
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
-  把真实门店菜单变成 3～8 人的同机谁是卧底游戏（麦当劳 MCP 参赛项目）
+- **[kilooctopusraid/Arc-Raiders-Respocket-AIO-Cheat](https://github.com/kilooctopusraid/Arc-Raiders-Respocket-AIO-Cheat)** ⭐ 75
+  ![C++](https://img.shields.io/badge/-C++-pink)
+  Best Software For Arc Raiders Yet
 
-- **[makabaka0328/mcd-compass](https://github.com/makabaka0328/mcd-compass)** ⭐ 17
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  None
+- **[assassinpebbleglide/Respocket-cs2-External-v1](https://github.com/assassinpebbleglide/Respocket-cs2-External-v1)** ⭐ 75
+  ![C++](https://img.shields.io/badge/-C++-pink)
+  Best Software For cs2 Yet
 
-- **[1455466930/-](https://github.com/1455466930/-)** ⭐ 16
-  ![Kotlin](https://img.shields.io/badge/-Kotlin-lightgrey)
-  None
+- **[meshmindtruss/Crimson-Desert-Save-Editor-Mod-For-PC](https://github.com/meshmindtruss/Crimson-Desert-Save-Editor-Mod-For-PC)** ⭐ 75
+  ![C++](https://img.shields.io/badge/-C++-pink)
+  Modify Crimson Desert save files to change character stats, inventory, money, and quest progress with a direct interface.
 
-- **[azrinaldi/gemini-stealth-bridge](https://github.com/azrinaldi/gemini-stealth-bridge)** ⭐ 16
-  ![Go](https://img.shields.io/badge/-Go-cyan)
-  Browserless Chrome uTLS + HTTP/2 OpenAI-compatible API daemon for Google Gemini Web (/v1/chat/completions & /v1/responses)
+- **[XOmiod40291/99-Nights-Respocket-Free-Script](https://github.com/XOmiod40291/99-Nights-Respocket-Free-Script)** ⭐ 75
+  ![Lua](https://img.shields.io/badge/-Lua-lightgrey)
+  Free keyless 99 Nights In The Forest script for PC — Auto Farm, God Mode, Kill All, Fly & Noclip
+
+- **[Deathodward/Apex-Respocket-AIO-Soft](https://github.com/Deathodward/Apex-Respocket-AIO-Soft)** ⭐ 75
+  ![C++](https://img.shields.io/badge/-C++-pink)
+  Best Software For Apex Legends Yet
 
 ### 📈 Weekly Trending
 
-- **[jhaizhou-ops/d2r-mobile](https://github.com/jhaizhou-ops/d2r-mobile)** ⭐ 3,413
+- **[jhaizhou-ops/d2r-mobile](https://github.com/jhaizhou-ops/d2r-mobile)** ⭐ 3,487
   ![C](https://img.shields.io/badge/-C-lightgrey)
   Open-source iOS / macOS compatibility layer for Diablo II: Resurrected with the Reign of the Warlock expansion. Runs your own Switch copy natively on iPhone, iPad and Mac — full touch controls, 60 fps, new endgame modes. Bring your own game files. 开源的《暗黑破坏神 II：狱火重生》术士君临 iOS / macOS 兼容层
 
-- **[onehumanbeing/esp32-iphone-agent](https://github.com/onehumanbeing/esp32-iphone-agent)** ⭐ 2,729
+- **[onehumanbeing/esp32-iphone-agent](https://github.com/onehumanbeing/esp32-iphone-agent)** ⭐ 2,794
   ![C](https://img.shields.io/badge/-C-lightgrey)
   Let an AI model use a real iPhone with a $7 ESP32: AirPlay eyes, USB HID hands, any OpenAI-compatible vision model. No Mac, no developer account, no jailbreak.
 
-- **[liseami/CCBaga](https://github.com/liseami/CCBaga)** ⭐ 2,376
-  ![Rust](https://img.shields.io/badge/-Rust-brown)
-  None
-
-- **[Arekejoker/qwen21-nsfw-pose-skill](https://github.com/Arekejoker/qwen21-nsfw-pose-skill)** ⭐ 2,318
+- **[Arekejoker/qwen21-nsfw-pose-skill](https://github.com/Arekejoker/qwen21-nsfw-pose-skill)** ⭐ 2,435
   ![Python](https://img.shields.io/badge/-Python-blue)
   Qwen-Image 2.1 NSFW/姿势出图 skill：作者级提示词配方 + NSFW LoRA + 136 姿势 VNCCS 人偶控制；适用 Claude Code / Codex / Cursor / OpenClaw
 
-- **[HeyPuter/everything](https://github.com/HeyPuter/everything)** ⭐ 1,489
+- **[liseami/CCBaga](https://github.com/liseami/CCBaga)** ⭐ 2,393
+  ![Rust](https://img.shields.io/badge/-Rust-brown)
+  None
+
+- **[HeyPuter/everything](https://github.com/HeyPuter/everything)** ⭐ 1,607
   ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
   We're rebuilding and open-sourcing the world’s software from scratch.
 
-- **[shaongitbd/doory](https://github.com/shaongitbd/doory)** ⭐ 1,368
-  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
-  Open source canva alternative
-
-- **[ahwootech/BRUTAL](https://github.com/ahwootech/BRUTAL)** ⭐ 1,339
-  ![C#](https://img.shields.io/badge/-C#-lightgrey)
-  A free, open source C# framework for making games, or your own game engine. Direct access to native APIs and Vulkan, with the low-level libraries around them. The foundation under Kitten Space Agency and RimWorld's Waylith engine.
-
-- **[chenglou/handwired](https://github.com/chenglou/handwired)** ⭐ 1,319
+- **[chenglou/handwired](https://github.com/chenglou/handwired)** ⭐ 1,443
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   Turn your regular JavaScript code into a neural net.
 
-### 📈 Monthly Trending
+- **[ahwootech/BRUTAL](https://github.com/ahwootech/BRUTAL)** ⭐ 1,430
+  ![C#](https://img.shields.io/badge/-C#-lightgrey)
+  A free, open source C# framework for making games, or your own game engine. Direct access to native APIs and Vulkan, with the low-level libraries around them. The foundation under Kitten Space Agency and RimWorld's Waylith engine.
 
-- **[storytold/photocraft](https://github.com/storytold/photocraft)** ⭐ 64,100
-  ![Rust](https://img.shields.io/badge/-Rust-brown)
-  PhotoCraft: An open-source, photo editor written by scratch in pure Rust
-
-- **[NandhaKishorM/laya](https://github.com/NandhaKishorM/laya)** ⭐ 33,110
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  Non-autoregressive System 1 decision engine. Typed choice, score and yes/no decisions over any text in a single forward pass, in 100+ languages, with a router that picks the right checkpoint per request.
-
-- **[Niko1221/Strata](https://github.com/Niko1221/Strata)** ⭐ 25,872
-  ![C++](https://img.shields.io/badge/-C++-pink)
-  Qwen3.8-Flash-Next on any consumer hardware: one-click install for Windows / Linux. Strata inference engine, OpenAI/Anthropic API on localhost, optional image input.
-
-- **[Ebony-Vinyl/dsh-our-free-model](https://github.com/Ebony-Vinyl/dsh-our-free-model)** ⭐ 18,649
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
-  在 dsh 里装上这个插件即可，无需登录、注册或填 API Key，就能使用包括 DeepSeek V4.1 Flash、Kimi K3 在内的前沿模型——完全免费，不限量。 All you do is install this plugin in dsh: no login, no sign-up, no API key — the frontier models are just there, DeepSeek V4.1 Flash and Kimi K3 among them. Completely free, with no usage cap.
-
-- **[openai/math](https://github.com/openai/math)** ⭐ 14,990
-  ![Lean](https://img.shields.io/badge/-Lean-lightgrey)
-  None
-
-- **[storytold/pdfcraft](https://github.com/storytold/pdfcraft)** ⭐ 14,679
-  ![Rust](https://img.shields.io/badge/-Rust-brown)
-  PdfCraft: An open-source PDF reader and editor written by scratch in pure Rust
-
-- **[storytold/filmcraft](https://github.com/storytold/filmcraft)** ⭐ 14,010
-  ![Rust](https://img.shields.io/badge/-Rust-brown)
-  FilmCraft: An open-source, nonlinear video editor written by scratch in pure Rust
-
-- **[yetone/magpie](https://github.com/yetone/magpie)** ⭐ 13,924
-  ![Go](https://img.shields.io/badge/-Go-cyan)
-  Every agent's model. One place. Codex on DeepSeek, Claude Code on Kimi, from the menu bar.
+- **[shaongitbd/doory](https://github.com/shaongitbd/doory)** ⭐ 1,391
+  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
+  Open source canva alternative
 
 ## 🚀 Latest Releases
 
@@ -475,21 +446,21 @@ See [kubernetes-announce@](https://groups.google.com/forum/#!forum/kubernetes-an
 
 | Skill | Status |
 |-------|--------|
-| Java | 🔴 Beginner |
-| Python | ⚪ Planned |
-| JavaScript | 🟢 Proficient |
+| Java | 🟢 Proficient |
+| Python | 🟢 Proficient |
+| JavaScript | 🟡 Learning |
 | TypeScript | ⚪ Planned |
-| Go | 🟢 Proficient |
+| Go | 🔴 Beginner |
 
 ### Frameworks
 
 | Skill | Status |
 |-------|--------|
-| React | ⚪ Planned |
+| React | 🟡 Learning |
 | Spring Boot | ⚪ Planned |
-| Django | 🟢 Proficient |
+| Django | 🟡 Learning |
 | Node.js | 🟡 Learning |
-| Next.js | 🔴 Beginner |
+| Next.js | 🟢 Proficient |
 
 ### Cybersecurity
 
@@ -497,37 +468,37 @@ See [kubernetes-announce@](https://groups.google.com/forum/#!forum/kubernetes-an
 |-------|--------|
 | Penetration Testing | 🟡 Learning |
 | Web Security | 🟡 Learning |
-| Network Security | 🟡 Learning |
-| OWASP | 🔴 Beginner |
+| Network Security | 🟢 Proficient |
+| OWASP | 🟡 Learning |
 
 ### Ai Ml
 
 | Skill | Status |
 |-------|--------|
-| Machine Learning | 🟡 Learning |
+| Machine Learning | 🔴 Beginner |
 | Deep Learning | 🔴 Beginner |
-| NLP | ⚪ Planned |
+| NLP | 🟡 Learning |
 | Computer Vision | 🟢 Proficient |
-| TensorFlow | 🟢 Proficient |
-| PyTorch | 🔴 Beginner |
+| TensorFlow | 🟡 Learning |
+| PyTorch | 🟢 Proficient |
 
 ### Devops
 
 | Skill | Status |
 |-------|--------|
-| Docker | 🟡 Learning |
-| Kubernetes | 🟡 Learning |
-| CI/CD | ⚪ Planned |
-| AWS | ⚪ Planned |
-| Azure | 🔴 Beginner |
+| Docker | 🟢 Proficient |
+| Kubernetes | ⚪ Planned |
+| CI/CD | 🟡 Learning |
+| AWS | 🟢 Proficient |
+| Azure | 🟢 Proficient |
 
 ### Other
 
 | Skill | Status |
 |-------|--------|
 | Blockchain | 🔴 Beginner |
-| Web3 | 🟡 Learning |
-| Cloud Computing | 🟡 Learning |
+| Web3 | ⚪ Planned |
+| Cloud Computing | ⚪ Planned |
 
 </details>
 
