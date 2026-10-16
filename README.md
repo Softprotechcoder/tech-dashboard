@@ -46,35 +46,41 @@
 
 ### 📑 Hacker News
 
-- **[Tesla Roadster](https://www.tesla.com/roadster)**
-  *<p>Article URL: <a href="https://www.tesla.com/roadster">https://www.tesla.com/roadster</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50112657">https://news.ycombinator.com/it...*
-  📅 Fri, 16 Oct 2026 01:32:45 +0000
+- **[The insider trading you're allowed to do](https://coached.com/essays/the-insider-trading-youre-allowed-to-do/)**
+  *<p>Article URL: <a href="https://coached.com/essays/the-insider-trading-youre-allowed-to-do/">https://coached.com/essays/the-insider-trading-youre-allowed-to-do/</a></p>
+<p>Comments URL: <a href="http...*
+  📅 Fri, 16 Oct 2026 07:12:09 +0000
 
-- **[RPKI now protects 70% of internet routes](https://ipinfo.io/blog/rpki-protects-70-internet-routes)**
-  *<p>Article URL: <a href="https://ipinfo.io/blog/rpki-protects-70-internet-routes">https://ipinfo.io/blog/rpki-protects-70-internet-routes</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com...*
-  📅 Fri, 16 Oct 2026 00:52:35 +0000
+- **[Last rites for Gentoo's Chromium package](https://lwn.net/Articles/1097760/)**
+  *<p>Article URL: <a href="https://lwn.net/Articles/1097760/">https://lwn.net/Articles/1097760/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50114359">https://news.ycombinator....*
+  📅 Fri, 16 Oct 2026 05:14:42 +0000
 
-- **[Business accounts will consent to Meta scraping their websites Starting Oct. 30](https://www.niemanlab.org/2026/10/metas-new-commercial-terms-will-allow-the-scraping-of-news-sites-legal-experts-say/)**
-  *<p>Article URL: <a href="https://www.niemanlab.org/2026/10/metas-new-commercial-terms-will-allow-the-scraping-of-news-sites-legal-experts-say/">https://www.niemanlab.org/2026/10/metas-new-commercial-t...*
-  📅 Thu, 15 Oct 2026 23:37:42 +0000
+- **[The Folders Programming Language](https://danieltemkin.com/esolangs/folders)**
+  *<p>Article URL: <a href="https://danieltemkin.com/esolangs/folders">https://danieltemkin.com/esolangs/folders</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50114342">https://n...*
+  📅 Fri, 16 Oct 2026 05:11:28 +0000
 
-- **[BeBox is a Haiku application that emulates Be Inc.'s BeBox](https://github.com/johnrash/bebox)**
-  *<p>Article URL: <a href="https://github.com/johnrash/bebox">https://github.com/johnrash/bebox</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50111742">https://news.ycombinator....*
-  📅 Thu, 15 Oct 2026 23:22:53 +0000
+- **[Comparing Chromium Development at Google and Igalia](https://lwn.net/Articles/1094721/)**
+  *<p>Article URL: <a href="https://lwn.net/Articles/1094721/">https://lwn.net/Articles/1094721/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50112887">https://news.ycombinator....*
+  📅 Fri, 16 Oct 2026 01:56:37 +0000
 
-- **[U.K. Sanctions Cryptomus for RU Money Laundering](https://krebsonsecurity.com/2026/10/u-k-sanctions-cryptomus-for-ru-money-laundering/)**
-  *<p>Article URL: <a href="https://krebsonsecurity.com/2026/10/u-k-sanctions-cryptomus-for-ru-money-laundering/">https://krebsonsecurity.com/2026/10/u-k-sanctions-cryptomus-for-ru-money-laundering/</a><...*
-  📅 Thu, 15 Oct 2026 23:17:50 +0000
+- **[Any window from your Mac, on your iPhone and iPad](https://github.com/Saffsanity/sill)**
+  *<p>Article URL: <a href="https://github.com/Saffsanity/sill">https://github.com/Saffsanity/sill</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50112739">https://news.ycombinato...*
+  📅 Fri, 16 Oct 2026 01:43:17 +0000
 
-- **[What I Self-Host](https://viceconsole.fyi/blog/2026/10/10/what-i-self-host/)**
-  *<p>Article URL: <a href="https://viceconsole.fyi/blog/2026/10/10/what-i-self-host/">https://viceconsole.fyi/blog/2026/10/10/what-i-self-host/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator...*
-  📅 Thu, 15 Oct 2026 20:23:25 +0000
+- **[Thank You, Deno](https://www.vlt.io/blog/competition-keeps-javascript-moving)**
+  *<p>Article URL: <a href="https://www.vlt.io/blog/competition-keeps-javascript-moving">https://www.vlt.io/blog/competition-keeps-javascript-moving</a></p>
+<p>Comments URL: <a href="https://news.ycombin...*
+  📅 Fri, 16 Oct 2026 00:52:40 +0000
 
 ### 📑 TechCrunch
+
+- **[Even Benchmark thinks AI is eroding the venture pact against backing rivals](https://techcrunch.com/2026/10/15/even-benchmark-thinks-ai-is-eroding-the-venture-pact-against-backing-rivals/)**
+  *Benchmark says the Valley’s rule against backing rivals is getting harder to keep....*
+  📅 Fri, 16 Oct 2026 05:16:46 +0000
 
 - **[Tesla reveals SpaceX-powered Roadster that flies and falls with style](https://techcrunch.com/2026/10/15/tesla-reveals-spacex-powered-roadster-that-flies-and-falls-with-style/)**
   *The new car used thrusters to leap over a Cybercab, Cybertruck, Tesla Semi, Model Y, and Model 3 at a demo in Texas....*
@@ -96,25 +102,15 @@
   *Meta and Apple have teamed up for the launch of the social media giant's newest model, Muse Spark Open, which will run locally on Apple silicon....*
   📅 Thu, 15 Oct 2026 20:04:53 +0000
 
-- **[Amazon devices chief Panos Panay sees a future where AI devices replace the need to use apps](https://techcrunch.com/2026/10/15/amazon-devices-chief-panos-panay-sees-a-future-where-ai-devices-replace-the-need-to-use-apps/)**
-  *Speaking at TechCrunch Disrupt, Amazon devices chief Panos Panay described a future where ambient AI devices work in the background, anticipating users' needs instead of waiting for commands....*
-  📅 Thu, 15 Oct 2026 19:55:25 +0000
-
 ### 📑 Dev.to
 
-- **[I Still Can't Write Code. But Now ChatGPT Can Drive My Phone — and It Can't Approve Itself.](https://dev.to/ryoitabashi/i-still-cant-write-code-but-now-chatgpt-can-drive-my-phone-and-it-cant-approve-itself-48c7)**
-  *<p>Last month I wrote about the alarm that fired into nothing — how an agent I'd scheduled for 8am went off on time and then silently didn't run, and what it took before I'd trust a schedule again.</p...*
-  📅 Fri, 16 Oct 2026 02:19:33 +0000
+- **[uMatrix for Firefox: Granular Request Control Beyond uBlock Origin](https://dev.to/weatherclockdash/umatrix-for-firefox-granular-request-control-beyond-ublock-origin-1dg7)**
+  *<p>Most Firefox users know uBlock Origin for blocking ads. Fewer know uMatrix, the same author's (Raymond Hill) tool for granular control over what browsers can request. Here's what uMatrix does diffe...*
+  📅 Fri, 16 Oct 2026 10:21:04 +0000
 
-- **[Funding Settles Every 8 Hours — but Four of These Five Exchanges Have No 8-Hour Candle](https://dev.to/hmwork_2c698b7158d3/funding-settles-every-8-hours-but-four-of-these-five-exchanges-have-no-8-hour-candle-1plc)**
-  *<h1>
-  
-  
-  Funding Settles Every 8 Hours — but Four of These Five Exchanges Have No 8-Hour Candle
-</h1>
-
-<p>If you hold a BTC perpetual on Binance, Bybit, or OKX, your funding payment changes hands ...*
-  📅 Fri, 16 Oct 2026 02:18:52 +0000
+- **[Why legacy security systems will not scale in 2026](https://dev.to/anas_kanafani/why-legacy-security-systems-will-not-scale-in-2026-10cj)**
+  *<p>Legacy security systems struggle to scale in 2026 because automated software agents generate unpredictable traffic volumes, complex cross-service queries and direct API interactions that overwhelm ...*
+  📅 Fri, 16 Oct 2026 10:20:59 +0000
 
 </details>
 
@@ -122,103 +118,103 @@
 
 ### 📈 Daily Trending
 
-- **[bisimulationn/ssasem](https://github.com/bisimulationn/ssasem)** ⭐ 7
-  ![Lean](https://img.shields.io/badge/-Lean-lightgrey)
-  SSA operational semantics + metatheory mechanised in Lean 4 with a provably sound interpreter
+- **[zgsfsec/Full-Chain-Sentinel-System](https://github.com/zgsfsec/Full-Chain-Sentinel-System)** ⭐ 122
+  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
+  【全链哨兵】全流程渗透测试 Agent 系统，安全服务渗透测试辅助工具，禁止用于非法攻击。
 
-- **[SatyPardus/wowdecomp15595](https://github.com/SatyPardus/wowdecomp15595)** ⭐ 7
-  ![C++](https://img.shields.io/badge/-C++-pink)
+- **[OpenMOSS/MOSS-Image](https://github.com/OpenMOSS/MOSS-Image)** ⭐ 63
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  Official repository for MOSS-Image, a 5B-parameter base DiT model with high-quality text rendering, layout generation, and efficient fine-tuning.
+
+- **[mod-manager/mod-manager.github.io](https://github.com/mod-manager/mod-manager.github.io)** ⭐ 48
+  ![HTML](https://img.shields.io/badge/-HTML-lightgrey)
+  Эта программа предназначена для автоматической установки модов для большого количества игр, удобного их хранения, отключения ненужных и т.д. Программа интуитивно понятна, разобраться в ней не составит труда.
+
+- **[tgwsproxy-flowseal/tgwsproxy-flowseal.github.io](https://github.com/tgwsproxy-flowseal/tgwsproxy-flowseal.github.io)** ⭐ 47
+  ![HTML](https://img.shields.io/badge/-HTML-lightgrey)
   None
 
-- **[0xgetz/ptero-bulk-9router](https://github.com/0xgetz/ptero-bulk-9router)** ⭐ 4
+- **[kergee/mcd-undercover](https://github.com/kergee/mcd-undercover)** ⭐ 29
   ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
-  Bulk-create ptero.pro anonymous accounts, auto-harvest tokens & session cookies, and serve them to 9Router as a self-healing, load-balanced OpenAI-compatible pool. Zero dependencies.
+  把真实门店菜单变成 3～8 人的同机谁是卧底游戏（麦当劳 MCP 参赛项目）
 
-- **[vibevalleyhq/vibevalley](https://github.com/vibevalleyhq/vibevalley)** ⭐ 3
+- **[makabaka0328/mcd-compass](https://github.com/makabaka0328/mcd-compass)** ⭐ 17
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  None
+
+- **[1455466930/-](https://github.com/1455466930/-)** ⭐ 16
+  ![Kotlin](https://img.shields.io/badge/-Kotlin-lightgrey)
+  None
+
+- **[azrinaldi/gemini-stealth-bridge](https://github.com/azrinaldi/gemini-stealth-bridge)** ⭐ 16
   ![Go](https://img.shields.io/badge/-Go-cyan)
-  码农场物语 · A team of coding agents you direct by voice or chat, drawn as a pixel farm. Runs on your own machine.
-
-- **[sushi342119/Wenku8-Local](https://github.com/sushi342119/Wenku8-Local)** ⭐ 3
-  ![Dart](https://img.shields.io/badge/-Dart-lightgrey)
-  Wenku8 Flutter local library mod
-
-- **[sushi342119/Wenku8_Flutter](https://github.com/sushi342119/Wenku8_Flutter)** ⭐ 3
-  ![None](https://img.shields.io/badge/-None-lightgrey)
-  Wenku8 Flutter 本地书库改造版（基于 mikufoxxx/Wenku8_Flutter v0.2.3，GPL）
-
-- **[cmu-l3/reuF2F](https://github.com/cmu-l3/reuF2F)** ⭐ 3
-  ![Lean](https://img.shields.io/badge/-Lean-lightgrey)
-  ReuF2F: Benchmarking coding agents on formalized undergraduate research problems
-
-- **[hamidah-midah/fortofoliomuslimah](https://github.com/hamidah-midah/fortofoliomuslimah)** ⭐ 2
-  ![HTML](https://img.shields.io/badge/-HTML-lightgrey)
-  baru pertama kali belajar html
+  Browserless Chrome uTLS + HTTP/2 OpenAI-compatible API daemon for Google Gemini Web (/v1/chat/completions & /v1/responses)
 
 ### 📈 Weekly Trending
 
-- **[jhaizhou-ops/d2r-mobile](https://github.com/jhaizhou-ops/d2r-mobile)** ⭐ 3,196
+- **[jhaizhou-ops/d2r-mobile](https://github.com/jhaizhou-ops/d2r-mobile)** ⭐ 3,413
   ![C](https://img.shields.io/badge/-C-lightgrey)
   Open-source iOS / macOS compatibility layer for Diablo II: Resurrected with the Reign of the Warlock expansion. Runs your own Switch copy natively on iPhone, iPad and Mac — full touch controls, 60 fps, new endgame modes. Bring your own game files. 开源的《暗黑破坏神 II：狱火重生》术士君临 iOS / macOS 兼容层
 
-- **[onehumanbeing/esp32-iphone-agent](https://github.com/onehumanbeing/esp32-iphone-agent)** ⭐ 2,509
+- **[onehumanbeing/esp32-iphone-agent](https://github.com/onehumanbeing/esp32-iphone-agent)** ⭐ 2,729
   ![C](https://img.shields.io/badge/-C-lightgrey)
   Let an AI model use a real iPhone with a $7 ESP32: AirPlay eyes, USB HID hands, any OpenAI-compatible vision model. No Mac, no developer account, no jailbreak.
 
-- **[liseami/CCBaga](https://github.com/liseami/CCBaga)** ⭐ 2,345
+- **[liseami/CCBaga](https://github.com/liseami/CCBaga)** ⭐ 2,376
   ![Rust](https://img.shields.io/badge/-Rust-brown)
   None
 
-- **[Arekejoker/qwen21-nsfw-pose-skill](https://github.com/Arekejoker/qwen21-nsfw-pose-skill)** ⭐ 2,076
+- **[Arekejoker/qwen21-nsfw-pose-skill](https://github.com/Arekejoker/qwen21-nsfw-pose-skill)** ⭐ 2,318
   ![Python](https://img.shields.io/badge/-Python-blue)
   Qwen-Image 2.1 NSFW/姿势出图 skill：作者级提示词配方 + NSFW LoRA + 136 姿势 VNCCS 人偶控制；适用 Claude Code / Codex / Cursor / OpenClaw
 
-- **[HeyPuter/everything](https://github.com/HeyPuter/everything)** ⭐ 1,333
+- **[HeyPuter/everything](https://github.com/HeyPuter/everything)** ⭐ 1,489
   ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
   We're rebuilding and open-sourcing the world’s software from scratch.
 
-- **[shaongitbd/doory](https://github.com/shaongitbd/doory)** ⭐ 1,321
+- **[shaongitbd/doory](https://github.com/shaongitbd/doory)** ⭐ 1,368
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   Open source canva alternative
 
-- **[opengeos/RustGIS](https://github.com/opengeos/RustGIS)** ⭐ 1,227
-  ![Rust](https://img.shields.io/badge/-Rust-brown)
-  A fast, free and open-source GIS in pure Rust.
-
-- **[ahwootech/BRUTAL](https://github.com/ahwootech/BRUTAL)** ⭐ 1,200
+- **[ahwootech/BRUTAL](https://github.com/ahwootech/BRUTAL)** ⭐ 1,339
   ![C#](https://img.shields.io/badge/-C#-lightgrey)
   A free, open source C# framework for making games, or your own game engine. Direct access to native APIs and Vulkan, with the low-level libraries around them. The foundation under Kitten Space Agency and RimWorld's Waylith engine.
 
+- **[chenglou/handwired](https://github.com/chenglou/handwired)** ⭐ 1,319
+  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
+  Turn your regular JavaScript code into a neural net.
+
 ### 📈 Monthly Trending
 
-- **[storytold/photocraft](https://github.com/storytold/photocraft)** ⭐ 63,475
+- **[storytold/photocraft](https://github.com/storytold/photocraft)** ⭐ 64,100
   ![Rust](https://img.shields.io/badge/-Rust-brown)
   PhotoCraft: An open-source, photo editor written by scratch in pure Rust
 
-- **[NandhaKishorM/laya](https://github.com/NandhaKishorM/laya)** ⭐ 33,053
+- **[NandhaKishorM/laya](https://github.com/NandhaKishorM/laya)** ⭐ 33,110
   ![Python](https://img.shields.io/badge/-Python-blue)
   Non-autoregressive System 1 decision engine. Typed choice, score and yes/no decisions over any text in a single forward pass, in 100+ languages, with a router that picks the right checkpoint per request.
 
-- **[Niko1221/Strata](https://github.com/Niko1221/Strata)** ⭐ 25,527
+- **[Niko1221/Strata](https://github.com/Niko1221/Strata)** ⭐ 25,872
   ![C++](https://img.shields.io/badge/-C++-pink)
   Qwen3.8-Flash-Next on any consumer hardware: one-click install for Windows / Linux. Strata inference engine, OpenAI/Anthropic API on localhost, optional image input.
 
-- **[Ebony-Vinyl/dsh-our-free-model](https://github.com/Ebony-Vinyl/dsh-our-free-model)** ⭐ 17,990
+- **[Ebony-Vinyl/dsh-our-free-model](https://github.com/Ebony-Vinyl/dsh-our-free-model)** ⭐ 18,649
   ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
   在 dsh 里装上这个插件即可，无需登录、注册或填 API Key，就能使用包括 DeepSeek V4.1 Flash、Kimi K3 在内的前沿模型——完全免费，不限量。 All you do is install this plugin in dsh: no login, no sign-up, no API key — the frontier models are just there, DeepSeek V4.1 Flash and Kimi K3 among them. Completely free, with no usage cap.
 
-- **[openai/math](https://github.com/openai/math)** ⭐ 14,951
+- **[openai/math](https://github.com/openai/math)** ⭐ 14,990
   ![Lean](https://img.shields.io/badge/-Lean-lightgrey)
   None
 
-- **[storytold/pdfcraft](https://github.com/storytold/pdfcraft)** ⭐ 14,483
+- **[storytold/pdfcraft](https://github.com/storytold/pdfcraft)** ⭐ 14,679
   ![Rust](https://img.shields.io/badge/-Rust-brown)
   PdfCraft: An open-source PDF reader and editor written by scratch in pure Rust
 
-- **[storytold/filmcraft](https://github.com/storytold/filmcraft)** ⭐ 13,886
+- **[storytold/filmcraft](https://github.com/storytold/filmcraft)** ⭐ 14,010
   ![Rust](https://img.shields.io/badge/-Rust-brown)
   FilmCraft: An open-source, nonlinear video editor written by scratch in pure Rust
 
-- **[yetone/magpie](https://github.com/yetone/magpie)** ⭐ 13,537
+- **[yetone/magpie](https://github.com/yetone/magpie)** ⭐ 13,924
   ![Go](https://img.shields.io/badge/-Go-cyan)
   Every agent's model. One place. Codex on DeepSeek, Claude Code on Kimi, from the menu bar.
 
@@ -343,15 +339,14 @@ See [kubernetes-announce@](https://groups.google.com/forum/#!forum/kubernetes-an
 
 ### 📦 rust-lang/rust
 
-**[Rust 1.99.0](https://github.com/rust-lang/rust/releases/tag/1.99.0)** `1.99.0`
+**[Rust 1.99.1](https://github.com/rust-lang/rust/releases/tag/1.99.1)** `1.99.1`
 
-📅 Released: October 01, 2026
+📅 Released: October 16, 2026
 
-<a id="1.99.0-Language"></a>
+<a id="1.99.1"></a>
 
-## Language
-
-- [Add allow-by-default `raw_borrows_via_references` lint that checks for references that decay immediately into raw borrows](https://github.com/rust-lang/ru...
+- [library: fix missing symbol `wcslen` on UEFI and embedded targets](https://github.com/rust-lang/rust/issues/163614)
+- [rustc: fix miscompilation of FFI `bool` return values on ...
 
 ---
 
@@ -480,59 +475,59 @@ See [kubernetes-announce@](https://groups.google.com/forum/#!forum/kubernetes-an
 
 | Skill | Status |
 |-------|--------|
-| Java | ⚪ Planned |
-| Python | 🟡 Learning |
-| JavaScript | 🔴 Beginner |
+| Java | 🔴 Beginner |
+| Python | ⚪ Planned |
+| JavaScript | 🟢 Proficient |
 | TypeScript | ⚪ Planned |
-| Go | 🟡 Learning |
+| Go | 🟢 Proficient |
 
 ### Frameworks
 
 | Skill | Status |
 |-------|--------|
-| React | 🟡 Learning |
-| Spring Boot | 🟡 Learning |
+| React | ⚪ Planned |
+| Spring Boot | ⚪ Planned |
 | Django | 🟢 Proficient |
-| Node.js | 🔴 Beginner |
+| Node.js | 🟡 Learning |
 | Next.js | 🔴 Beginner |
 
 ### Cybersecurity
 
 | Skill | Status |
 |-------|--------|
-| Penetration Testing | ⚪ Planned |
-| Web Security | ⚪ Planned |
-| Network Security | 🟢 Proficient |
+| Penetration Testing | 🟡 Learning |
+| Web Security | 🟡 Learning |
+| Network Security | 🟡 Learning |
 | OWASP | 🔴 Beginner |
 
 ### Ai Ml
 
 | Skill | Status |
 |-------|--------|
-| Machine Learning | 🔴 Beginner |
-| Deep Learning | 🟢 Proficient |
-| NLP | 🟡 Learning |
+| Machine Learning | 🟡 Learning |
+| Deep Learning | 🔴 Beginner |
+| NLP | ⚪ Planned |
 | Computer Vision | 🟢 Proficient |
-| TensorFlow | ⚪ Planned |
-| PyTorch | 🟢 Proficient |
+| TensorFlow | 🟢 Proficient |
+| PyTorch | 🔴 Beginner |
 
 ### Devops
 
 | Skill | Status |
 |-------|--------|
-| Docker | ⚪ Planned |
-| Kubernetes | 🔴 Beginner |
-| CI/CD | 🟡 Learning |
-| AWS | 🔴 Beginner |
-| Azure | 🟢 Proficient |
+| Docker | 🟡 Learning |
+| Kubernetes | 🟡 Learning |
+| CI/CD | ⚪ Planned |
+| AWS | ⚪ Planned |
+| Azure | 🔴 Beginner |
 
 ### Other
 
 | Skill | Status |
 |-------|--------|
-| Blockchain | 🟢 Proficient |
-| Web3 | 🔴 Beginner |
-| Cloud Computing | ⚪ Planned |
+| Blockchain | 🔴 Beginner |
+| Web3 | 🟡 Learning |
+| Cloud Computing | 🟡 Learning |
 
 </details>
 
