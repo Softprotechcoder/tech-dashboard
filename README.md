@@ -7,7 +7,7 @@
 ![AI & ML](https://img.shields.io/badge/-AI%20&%20ML-blue) ![CyberSecurity](https://img.shields.io/badge/-CyberSecurity-red) ![Full Stack Development](https://img.shields.io/badge/-Full%20Stack%20Development-green)
 
 [![Auto Update](https://img.shields.io/badge/Auto%20Update-Enabled-success)](https://github.com/yourusername/tech-dashboard/actions)
-[![Last Updated](https://img.shields.io/badge/Last%20Updated-October 16, 2026-blue)](https://github.com/yourusername/tech-dashboard)
+[![Last Updated](https://img.shields.io/badge/Last%20Updated-October 17, 2026-blue)](https://github.com/yourusername/tech-dashboard)
 
 *Automatically updated every 6 hours with the latest tech news, trending repositories, and learning resources.*
 
@@ -46,40 +46,43 @@
 
 ### 📑 Hacker News
 
-- **[The Fatal Flaw of 911](https://www.themarshallproject.org/2026/10/16/911-book-policing-mental-health)**
-  *<p>Article URL: <a href="https://www.themarshallproject.org/2026/10/16/911-book-policing-mental-health">https://www.themarshallproject.org/2026/10/16/911-book-policing-mental-health</a></p>
-<p>Comment...*
-  📅 Fri, 16 Oct 2026 19:33:00 +0000
+- **[Flexport Is Hiring a Biz Ops Leader in Office of CEO](https://www.flexport.com/company/careers/)**
+  *<p>Article URL: <a href="https://www.flexport.com/company/careers/">https://www.flexport.com/company/careers/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50126774">https://n...*
+  📅 Sat, 17 Oct 2026 01:01:51 +0000
+
+- **[Nine-Inch Snails](https://www.theatlantic.com/science/2026/10/giant-african-snails-florida-invasion/688850/)**
+  *<p>Article URL: <a href="https://www.theatlantic.com/science/2026/10/giant-african-snails-florida-invasion/688850/">https://www.theatlantic.com/science/2026/10/giant-african-snails-florida-invasion/68...*
+  📅 Fri, 16 Oct 2026 22:21:05 +0000
+
+- **[Why harnesses matter for energy (and token) efficiency](https://neuralwatt.com/news/why-harnesses-matter-for-energy-efficiency)**
+  *<p>Article URL: <a href="https://neuralwatt.com/news/why-harnesses-matter-for-energy-efficiency">https://neuralwatt.com/news/why-harnesses-matter-for-energy-efficiency</a></p>
+<p>Comments URL: <a href...*
+  📅 Fri, 16 Oct 2026 21:01:23 +0000
+
+- **[I never authorized an integration that scans my secrets](https://github.com/home-assistant/home-assistant.io/issues/49314)**
+  *<p>Article URL: <a href="https://github.com/home-assistant/home-assistant.io/issues/49314">https://github.com/home-assistant/home-assistant.io/issues/49314</a></p>
+<p>Comments URL: <a href="https://ne...*
+  📅 Fri, 16 Oct 2026 20:33:41 +0000
+
+- **[FLUX 3 Image Klein](https://bfl.ai/blog/flux-3-image-klein)**
+  *<p>Article URL: <a href="https://bfl.ai/blog/flux-3-image-klein">https://bfl.ai/blog/flux-3-image-klein</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50123580">https://news.yc...*
+  📅 Fri, 16 Oct 2026 19:47:13 +0000
 
 - **[How the Claude Code team does code review](https://claude.dev/blog/solving-code-review-at-anthropic/)**
   *<p>Article URL: <a href="https://claude.dev/blog/solving-code-review-at-anthropic/">https://claude.dev/blog/solving-code-review-at-anthropic/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator...*
   📅 Fri, 16 Oct 2026 19:04:47 +0000
 
-- **[Claude reveals ECDSA curve origins](https://www.anthropic.com/research/ecdsa-curve-origins)**
-  *<p><a href="https://words.filippo.io/seeds-solved/" rel="nofollow">https://words.filippo.io/seeds-solved/</a></p>
-<hr />
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50122800">https:...*
-  📅 Fri, 16 Oct 2026 18:55:59 +0000
-
-- **[Show HN: Stoke Money – Personal finance app built around a cash flow forecast](https://stoke.money)**
-  *<p>Hi HN,<p>I've been through many finance tracking apps, starting with Personal Capital, then Monarch, and most recently Copilot. None of them have worked perfectly for my needs.<p>All of these apps ...*
-  📅 Fri, 16 Oct 2026 18:54:47 +0000
-
-- **[C++26: The New Debugging Header](https://www.sandordargo.com/blog/2026/09/30/cpp26-debugging)**
-  *<p>Article URL: <a href="https://www.sandordargo.com/blog/2026/09/30/cpp26-debugging">https://www.sandordargo.com/blog/2026/09/30/cpp26-debugging</a></p>
-<p>Comments URL: <a href="https://news.ycombin...*
-  📅 Fri, 16 Oct 2026 18:52:39 +0000
-
-- **[Llama.cpp on a jailbroken PS5: run any GGUF model natively on the console](https://github.com/cobanov/PS5LM)**
-  *<p>Article URL: <a href="https://github.com/cobanov/PS5LM">https://github.com/cobanov/PS5LM</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50122431">https://news.ycombinator.co...*
-  📅 Fri, 16 Oct 2026 18:32:35 +0000
-
 ### 📑 TechCrunch
 
+- **[Replit is no longer working with Anthropic, CEO says](https://techcrunch.com/2026/10/16/replit-is-no-longer-working-with-anthropic-ceo-says/)**
+  *Masad said the decision was made for a number of different reasons, including cost. Replit announced a partnership with OpenAI in August, but there was never any indication that it was no longer with ...*
+  📅 Fri, 16 Oct 2026 21:22:28 +0000
+
 - **[Porsche’s electric Macan Turbo is an automotive existential crisis](https://techcrunch.com/2026/10/16/porsches-electric-macan-turbo-is-an-automotive-existential-crisis/)**
-  *Maybe it was the grey color, the slightly bulbous roofline, or the vaguely SUV-like proportions of the electric Porsche Macan, but as I shuttled kids and groceries around city and suburban streets, I ...*
+  *The 2026 Porsche Macan Turbo EV is a two-row crossover with 630 horsepower and a 100-kilowatt-hour battery....*
   📅 Fri, 16 Oct 2026 19:40:00 +0000
 
 - **[India becomes the latest country to report rogue AI agent activity](https://techcrunch.com/2026/10/16/india-becomes-the-latest-country-to-report-rogue-ai-agent-activity/)**
@@ -98,25 +101,20 @@
   *According to Elorian's evaluations, Glimpse outperforms even GPT-6 Astra on scientific chart reasoning and short-form video captioning, with competitive results on other visual reasoning tasks....*
   📅 Fri, 16 Oct 2026 16:01:37 +0000
 
-- **[Tressfecta wants to make hair braiding a less arduous task for hairstylists](https://techcrunch.com/2026/10/16/tressfecta-wants-to-make-hair-braiding-a-less-arduous-task-for-hairstylists/)**
-  *Tressfecta builds products for textured hair. Its first project is a tool called Plait Pilot that helps braiders with the initial process of separating hair from packs before braiding begins....*
-  📅 Fri, 16 Oct 2026 16:00:00 +0000
-
 ### 📑 Dev.to
 
-- **[Stoke Money's Cash Flow Forecast Engine: How Real-Time Financial Projections Replace Static Budget Categories](https://dev.to/mech_app_ai/stoke-moneys-cash-flow-forecast-engine-how-real-time-financial-projections-replace-static-budget-2bbg)**
-  *<p>Stoke Money replaces the category-based budget with a forward-looking cash flow forecast. Instead of tracking how much you spent on groceries this month, it projects your checking account balance 3...*
-  📅 Fri, 16 Oct 2026 20:06:46 +0000
+- **[Maintainable UI Automation Frameworks: Patterns & Anti-Patterns](https://dev.to/beefedai/maintainable-ui-automation-frameworks-patterns-anti-patterns-166a)**
+  *<ul>
+<li>[Why UI Tests Break: Concrete Causes of Brittleness]</li>
+<li>[Design Patterns That Scale: POM, Component Models, and Modular Tests]</li>
+<li>[Selector Strategy &amp; Synchronization: Signals...*
+  📅 Sat, 17 Oct 2026 02:09:14 +0000
 
-- **[Verdikta : le juge de travail décentralisé qui paie selon des règles connues](https://dev.to/reggiebro/verdikta-le-juge-de-travail-decentralise-qui-paie-selon-des-regles-connues-h2d)**
-  *<h1>
-  
-  
-  Verdikta : le juge de travail décentralisé
-</h1>
+- **[Introducing... Becho: performance testing made easier](https://dev.to/chrisvasqm/introducing-becho-performance-testing-made-easier-o63)**
+  *<p>It's a self-hosted peformance testing benchmark web app that uses K6 under the hood.</p>
 
-<p>J'ai passé les dernières semaines à chercher comment faire travailler des agents IA sans avoir à leur faire confiance aveuglément. Le ...*
-  📅 Fri, 16 Oct 2026 20:06:44 +0000
+<p>You can do simple GET /endpoint tests or simulate more complicated user flows with step by step series w...*
+  📅 Sat, 17 Oct 2026 02:09:03 +0000
 
 </details>
 
@@ -124,103 +122,103 @@
 
 ### 📈 Daily Trending
 
-- **[OpenMOSS/MOSS-Image](https://github.com/OpenMOSS/MOSS-Image)** ⭐ 194
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  Official repository for MOSS-Image, a 5B-parameter base DiT model with high-quality text rendering, layout generation, and efficient fine-tuning.
-
-- **[zgsfsec/Full-Chain-Sentinel-System](https://github.com/zgsfsec/Full-Chain-Sentinel-System)** ⭐ 138
-  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
-  【全链哨兵】全流程渗透测试 Agent 系统，安全服务渗透测试辅助工具，禁止用于非法攻击。
-
-- **[gungnir-sanye/tee-attestation-extraction](https://github.com/gungnir-sanye/tee-attestation-extraction)** ⭐ 70
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  面向授权研究的 Android TEE/KeyMint 认证材料提取与验证工程，覆盖 Keybox、RKP/CDI、证书链及后续扩展方案，记录原理、实践流水、补丁与镜像登记、验收规则和脱敏证据。
-
-- **[kergee/mcd-undercover](https://github.com/kergee/mcd-undercover)** ⭐ 66
+- **[speedydivid/TokenForge](https://github.com/speedydivid/TokenForge)** ⭐ 13
   ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
-  把真实门店菜单变成 3～8 人的同机谁是卧底游戏（麦当劳 MCP 参赛项目）
+  Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory via SQLite + FTS5, and enforces routing across 17 platforms through MCP + hooks. Works with Claude Code, Gemini CLI, VS Code Copilot, OpenCode, Codex CLI.
 
-- **[CluvexStudio/Strata](https://github.com/CluvexStudio/Strata)** ⭐ 66
-  ![Kotlin](https://img.shields.io/badge/-Kotlin-lightgrey)
-  An open-source file manager for Android: two panes, archives, APK and DEX editing, a code editor, network storages and an encrypted vault. No ads, no accounts, no tracking.
+- **[kerrdec97/PS5-Backport-GUI](https://github.com/kerrdec97/PS5-Backport-GUI)** ⭐ 6
+  ![None](https://img.shields.io/badge/-None-lightgrey)
+  PS5 Backport — closed-source early testing beta. Windows x64; Linux and macOS to follow after Windows testing.
 
-- **[Xenoesclaw44704/Arc-Raiders-Respocket-FPS-Booster](https://github.com/Xenoesclaw44704/Arc-Raiders-Respocket-FPS-Booster)** ⭐ 60
+- **[yimingy72/shen-scan](https://github.com/yimingy72/shen-scan)** ⭐ 3
+  ![Go](https://img.shields.io/badge/-Go-cyan)
+  SHEN：基于 Go 和阿里云抢占式实例的分布式 TCP 全端口扫描与 HTTP 指纹识别平台
+
+- **[Sq00ky/Supra-iDrive6-Android-Auto](https://github.com/Sq00ky/Supra-iDrive6-Android-Auto)** ⭐ 3
+  ![None](https://img.shields.io/badge/-None-lightgrey)
+  This repo contains code to natively run iDrive 6 on the J29 Toyota Supra. This in theory should be portable across iDrive versions. This was written entirely with AI because it's well beyond my skillset.
+
+- **[roberthsu2003/__2026_10_17__chillee_n8n__](https://github.com/roberthsu2003/__2026_10_17__chillee_n8n__)** ⭐ 2
+  ![None](https://img.shields.io/badge/-None-lightgrey)
+  致理n8n的課程
+
+- **[tinoy12346789/eq-visualizer](https://github.com/tinoy12346789/eq-visualizer)** ⭐ 2
+  ![Swift](https://img.shields.io/badge/-Swift-lightgrey)
+  Native macOS audio visualizer for everything your Mac plays: Spotify, browsers, games. Nine live interfaces (spectrum, radial, oscilloscope, spectrogram, vectorscope, ridgeline and more), tunable FFT and render quality, plus a built-in performance monitor and benchmark. Pure Swift, one file, no dependencies. Nothing is recorded.
+
+- **[zi0r/RightCmd](https://github.com/zi0r/RightCmd)** ⭐ 2
+  ![Swift](https://img.shields.io/badge/-Swift-lightgrey)
+  A native Swift app switcher for macOS 26. Hold the right ⌘ key and type the first letters of an app's name
+
+- **[LiangYi0921/PDSolver](https://github.com/LiangYi0921/PDSolver)** ⭐ 2
   ![C++](https://img.shields.io/badge/-C++-pink)
-  Best Software For Arc Raiders Yet
-
-- **[kilooctopusraid/Arc-Raiders-Respocket-AIO-Cheat](https://github.com/kilooctopusraid/Arc-Raiders-Respocket-AIO-Cheat)** ⭐ 60
-  ![C++](https://img.shields.io/badge/-C++-pink)
-  Best Software For Arc Raiders Yet
-
-- **[assassinpebbleglide/Respocket-cs2-External-v1](https://github.com/assassinpebbleglide/Respocket-cs2-External-v1)** ⭐ 60
-  ![C++](https://img.shields.io/badge/-C++-pink)
-  Best Software For cs2 Yet
+  None
 
 ### 📈 Weekly Trending
 
-- **[jhaizhou-ops/d2r-mobile](https://github.com/jhaizhou-ops/d2r-mobile)** ⭐ 3,517
+- **[jhaizhou-ops/d2r-mobile](https://github.com/jhaizhou-ops/d2r-mobile)** ⭐ 3,544
   ![C](https://img.shields.io/badge/-C-lightgrey)
   Open-source iOS / macOS compatibility layer for Diablo II: Resurrected with the Reign of the Warlock expansion. Runs your own Switch copy natively on iPhone, iPad and Mac — full touch controls, 60 fps, new endgame modes. Bring your own game files. 开源的《暗黑破坏神 II：狱火重生》术士君临 iOS / macOS 兼容层
 
-- **[onehumanbeing/esp32-iphone-agent](https://github.com/onehumanbeing/esp32-iphone-agent)** ⭐ 2,840
+- **[onehumanbeing/esp32-iphone-agent](https://github.com/onehumanbeing/esp32-iphone-agent)** ⭐ 2,867
   ![C](https://img.shields.io/badge/-C-lightgrey)
   Let an AI model use a real iPhone with a $7 ESP32: AirPlay eyes, USB HID hands, any OpenAI-compatible vision model. No Mac, no developer account, no jailbreak.
 
-- **[Arekejoker/qwen21-nsfw-pose-skill](https://github.com/Arekejoker/qwen21-nsfw-pose-skill)** ⭐ 2,491
+- **[Arekejoker/qwen21-nsfw-pose-skill](https://github.com/Arekejoker/qwen21-nsfw-pose-skill)** ⭐ 2,528
   ![Python](https://img.shields.io/badge/-Python-blue)
   Qwen-Image 2.1 NSFW/姿势出图 skill：作者级提示词配方 + NSFW LoRA + 136 姿势 VNCCS 人偶控制；适用 Claude Code / Codex / Cursor / OpenClaw
 
-- **[liseami/CCBaga](https://github.com/liseami/CCBaga)** ⭐ 2,399
+- **[liseami/CCBaga](https://github.com/liseami/CCBaga)** ⭐ 2,404
   ![Rust](https://img.shields.io/badge/-Rust-brown)
   None
 
-- **[HeyPuter/everything](https://github.com/HeyPuter/everything)** ⭐ 1,681
+- **[HeyPuter/everything](https://github.com/HeyPuter/everything)** ⭐ 1,754
   ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
   We're rebuilding and open-sourcing the world’s software from scratch.
 
-- **[chenglou/handwired](https://github.com/chenglou/handwired)** ⭐ 1,504
-  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
-  Turn your regular JavaScript code into a neural net.
-
-- **[ahwootech/BRUTAL](https://github.com/ahwootech/BRUTAL)** ⭐ 1,496
+- **[ahwootech/BRUTAL](https://github.com/ahwootech/BRUTAL)** ⭐ 1,579
   ![C#](https://img.shields.io/badge/-C#-lightgrey)
   A free, open source C# framework for making games, or your own game engine. Direct access to native APIs and Vulkan, with the low-level libraries around them. The foundation under Kitten Space Agency and RimWorld's Waylith engine.
 
-- **[shaongitbd/doory](https://github.com/shaongitbd/doory)** ⭐ 1,413
+- **[chenglou/handwired](https://github.com/chenglou/handwired)** ⭐ 1,570
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
-  Open source canva alternative
+  Turn your regular JavaScript code into a neural net.
+
+- **[deeplethe/solid-glass](https://github.com/deeplethe/solid-glass)** ⭐ 1,417
+  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
+  A design system for AI applications. Material, physical, tactile, technical.
 
 ### 📈 Monthly Trending
 
-- **[storytold/photocraft](https://github.com/storytold/photocraft)** ⭐ 64,831
+- **[storytold/photocraft](https://github.com/storytold/photocraft)** ⭐ 65,112
   ![Rust](https://img.shields.io/badge/-Rust-brown)
   PhotoCraft: An open-source, photo editor written by scratch in pure Rust
 
-- **[NandhaKishorM/laya](https://github.com/NandhaKishorM/laya)** ⭐ 33,161
+- **[NandhaKishorM/laya](https://github.com/NandhaKishorM/laya)** ⭐ 33,178
   ![Python](https://img.shields.io/badge/-Python-blue)
   Non-autoregressive System 1 decision engine. Typed choice, score and yes/no decisions over any text in a single forward pass, in 100+ languages, with a router that picks the right checkpoint per request.
 
-- **[Niko1221/Strata](https://github.com/Niko1221/Strata)** ⭐ 26,178
+- **[Niko1221/Strata](https://github.com/Niko1221/Strata)** ⭐ 26,300
   ![C++](https://img.shields.io/badge/-C++-pink)
   Qwen3.8-Flash-Next on any consumer hardware: one-click install for Windows / Linux. Strata inference engine, OpenAI/Anthropic API on localhost, optional image input.
 
-- **[Ebony-Vinyl/dsh-our-free-model](https://github.com/Ebony-Vinyl/dsh-our-free-model)** ⭐ 19,240
+- **[Ebony-Vinyl/dsh-our-free-model](https://github.com/Ebony-Vinyl/dsh-our-free-model)** ⭐ 19,448
   ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
   在 dsh 里装上这个插件即可，无需登录、注册或填 API Key，就能使用包括 DeepSeek V4.1 Flash、Kimi K3 在内的前沿模型——完全免费，不限量。 All you do is install this plugin in dsh: no login, no sign-up, no API key — the frontier models are just there, DeepSeek V4.1 Flash and Kimi K3 among them. Completely free, with no usage cap.
 
-- **[openai/math](https://github.com/openai/math)** ⭐ 15,020
+- **[openai/math](https://github.com/openai/math)** ⭐ 15,037
   ![Lean](https://img.shields.io/badge/-Lean-lightgrey)
   None
 
-- **[storytold/pdfcraft](https://github.com/storytold/pdfcraft)** ⭐ 14,931
+- **[storytold/pdfcraft](https://github.com/storytold/pdfcraft)** ⭐ 15,036
   ![Rust](https://img.shields.io/badge/-Rust-brown)
   PdfCraft: An open-source PDF reader and editor written by scratch in pure Rust
 
-- **[storytold/filmcraft](https://github.com/storytold/filmcraft)** ⭐ 14,168
+- **[storytold/filmcraft](https://github.com/storytold/filmcraft)** ⭐ 14,239
   ![Rust](https://img.shields.io/badge/-Rust-brown)
   FilmCraft: An open-source, nonlinear video editor written by scratch in pure Rust
 
-- **[yetone/magpie](https://github.com/yetone/magpie)** ⭐ 14,138
+- **[yetone/magpie](https://github.com/yetone/magpie)** ⭐ 14,225
   ![Go](https://img.shields.io/badge/-Go-cyan)
   Every agent's model. One place. Codex on DeepSeek, Claude Code on Kimi, from the menu bar.
 
@@ -481,19 +479,19 @@ See [kubernetes-announce@](https://groups.google.com/forum/#!forum/kubernetes-an
 
 | Skill | Status |
 |-------|--------|
-| Java | ⚪ Planned |
+| Java | 🟡 Learning |
 | Python | 🟢 Proficient |
-| JavaScript | 🔴 Beginner |
-| TypeScript | 🔴 Beginner |
-| Go | ⚪ Planned |
+| JavaScript | 🟢 Proficient |
+| TypeScript | 🟡 Learning |
+| Go | 🔴 Beginner |
 
 ### Frameworks
 
 | Skill | Status |
 |-------|--------|
-| React | 🟡 Learning |
-| Spring Boot | 🟢 Proficient |
-| Django | 🟡 Learning |
+| React | 🟢 Proficient |
+| Spring Boot | 🟡 Learning |
+| Django | 🔴 Beginner |
 | Node.js | 🟢 Proficient |
 | Next.js | 🔴 Beginner |
 
@@ -501,39 +499,39 @@ See [kubernetes-announce@](https://groups.google.com/forum/#!forum/kubernetes-an
 
 | Skill | Status |
 |-------|--------|
-| Penetration Testing | 🔴 Beginner |
-| Web Security | 🔴 Beginner |
-| Network Security | 🟢 Proficient |
-| OWASP | ⚪ Planned |
+| Penetration Testing | 🟢 Proficient |
+| Web Security | 🟢 Proficient |
+| Network Security | 🟡 Learning |
+| OWASP | 🔴 Beginner |
 
 ### Ai Ml
 
 | Skill | Status |
 |-------|--------|
-| Machine Learning | ⚪ Planned |
+| Machine Learning | 🟡 Learning |
 | Deep Learning | 🔴 Beginner |
 | NLP | ⚪ Planned |
 | Computer Vision | 🟢 Proficient |
-| TensorFlow | 🟢 Proficient |
-| PyTorch | 🔴 Beginner |
+| TensorFlow | 🔴 Beginner |
+| PyTorch | 🟢 Proficient |
 
 ### Devops
 
 | Skill | Status |
 |-------|--------|
-| Docker | 🟢 Proficient |
-| Kubernetes | 🟢 Proficient |
-| CI/CD | ⚪ Planned |
-| AWS | 🔴 Beginner |
-| Azure | 🟢 Proficient |
+| Docker | 🟡 Learning |
+| Kubernetes | 🔴 Beginner |
+| CI/CD | 🟡 Learning |
+| AWS | ⚪ Planned |
+| Azure | 🟡 Learning |
 
 ### Other
 
 | Skill | Status |
 |-------|--------|
-| Blockchain | 🔴 Beginner |
-| Web3 | ⚪ Planned |
-| Cloud Computing | 🟢 Proficient |
+| Blockchain | 🟢 Proficient |
+| Web3 | 🟢 Proficient |
+| Cloud Computing | 🟡 Learning |
 
 </details>
 
@@ -551,7 +549,7 @@ This dashboard is automatically updated every 6 hours using GitHub Actions. The 
 
 <div align="center">
 
-**Last Updated:** October 16, 2026
+**Last Updated:** October 17, 2026
 
 Made with ❤️ and automated with GitHub Actions
 
