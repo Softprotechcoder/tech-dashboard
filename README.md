@@ -46,34 +46,48 @@
 
 ### 📑 Hacker News
 
-- **[Websites are closing their doors to AI agents](https://www.theverge.com/ai-artificial-intelligence/1013195/ai-agents-blocked-web)**
-  *<p>Article URL: <a href="https://www.theverge.com/ai-artificial-intelligence/1013195/ai-agents-blocked-web">https://www.theverge.com/ai-artificial-intelligence/1013195/ai-agents-blocked-web</a></p>
-<p...*
-  📅 Sun, 18 Oct 2026 14:58:10 +0000
+- **[Personal software factories are a waste of time](https://www.peterp.me/articles/personal-software-factories-are-a-waste-of-time/)**
+  *<p>Article URL: <a href="https://www.peterp.me/articles/personal-software-factories-are-a-waste-of-time/">https://www.peterp.me/articles/personal-software-factories-are-a-waste-of-time/</a></p>
+<p>Com...*
+  📅 Sun, 18 Oct 2026 19:02:11 +0000
 
-- **[Anthropic's proposed AI safety bill only kicks in if 50 deaths or $1B in damages](https://www.tomshardware.com/tech-industry/artificial-intelligence/anthropics-proposed-ai-safety-bill-only-kicks-in-if-50-deaths-or-usd1-billion-in-damages-are-on-the-line-proposal-would-effectively-make-the-commerce-department-the-only-agency-capable-of-stopping-an-ai-model)**
-  *<p>Article URL: <a href="https://www.tomshardware.com/tech-industry/artificial-intelligence/anthropics-proposed-ai-safety-bill-only-kicks-in-if-50-deaths-or-usd1-billion-in-damages-are-on-the-line-pro...*
-  📅 Sun, 18 Oct 2026 14:30:27 +0000
+- **[Free Pascal Compiler Now Supports Dynamic Packages](https://www.getlazarus.org/dynamic/)**
+  *<p>Article URL: <a href="https://www.getlazarus.org/dynamic/">https://www.getlazarus.org/dynamic/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50144066">https://news.ycombina...*
+  📅 Sun, 18 Oct 2026 18:48:04 +0000
 
-- **[Tesla 'Cannot Guarantee' Roadster Reservation Holders Will Ever Get a Car](https://www.thedrive.com/news/tesla-cannot-guarantee-roadster-reservation-holders-will-ever-get-a-car)**
-  *<p>Article URL: <a href="https://www.thedrive.com/news/tesla-cannot-guarantee-roadster-reservation-holders-will-ever-get-a-car">https://www.thedrive.com/news/tesla-cannot-guarantee-roadster-reservatio...*
-  📅 Sun, 18 Oct 2026 14:16:41 +0000
+- **[HOA's are making the home crisis worse](https://hoaspy.com/hoa/fl/florida-hoa-housing-crisis.html)**
+  *<p>Article URL: <a href="https://hoaspy.com/hoa/fl/florida-hoa-housing-crisis.html">https://hoaspy.com/hoa/fl/florida-hoa-housing-crisis.html</a></p>
+<p>Comments URL: <a href="https://news.ycombinator...*
+  📅 Sun, 18 Oct 2026 18:40:16 +0000
 
-- **[RepRapMicron](https://github.com/VikOlliver/RepRapMicron/wiki)**
-  *<p>Article URL: <a href="https://github.com/VikOlliver/RepRapMicron/wiki">https://github.com/VikOlliver/RepRapMicron/wiki</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=5014107...*
-  📅 Sun, 18 Oct 2026 13:48:48 +0000
+- **[CFPB Opens Debanking Investigation into Nine Large National Banks](https://www.forbes.com/sites/ajdhaliwal/2026/10/16/cfpb-opens-debanking-investigation-into-nine-large-national-banks/)**
+  *<p>Article URL: <a href="https://www.forbes.com/sites/ajdhaliwal/2026/10/16/cfpb-opens-debanking-investigation-into-nine-large-national-banks/">https://www.forbes.com/sites/ajdhaliwal/2026/10/16/cfpb-...*
+  📅 Sun, 18 Oct 2026 18:26:40 +0000
 
-- **[Show HN: The Zelda timeline to catch up before the Ocarina of Time remake](https://legendofhyrule.com/)**
-  *<p>I made this ahead of the Ocarina of Time remake which comes out in 17 days. I remember the feeling of playing it as a kid but I hadn’t kept up with the story so I built a timeline to catch up befor...*
-  📅 Sun, 18 Oct 2026 13:06:54 +0000
+- **[Investing in the Public Benefit](https://www.anthropic.com/news/public-benefit-fund)**
+  *<p>Article URL: <a href="https://www.anthropic.com/news/public-benefit-fund">https://www.anthropic.com/news/public-benefit-fund</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=5...*
+  📅 Sun, 18 Oct 2026 18:15:10 +0000
 
-- **[Open MicroManipulator – A sub-micrometer 3D motion control plattform](https://github.com/0x23/MicroManipulatorStepper)**
-  *<p>Article URL: <a href="https://github.com/0x23/MicroManipulatorStepper">https://github.com/0x23/MicroManipulatorStepper</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=5014000...*
-  📅 Sun, 18 Oct 2026 11:16:22 +0000
+- **[PalmOS Lemmings by Aaron Ardiri](https://github.com/ardiri/palmos-lemmings)**
+  *<p>Article URL: <a href="https://github.com/ardiri/palmos-lemmings">https://github.com/ardiri/palmos-lemmings</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50143536">https://n...*
+  📅 Sun, 18 Oct 2026 17:56:59 +0000
 
 ### 📑 TechCrunch
+
+- **[Everyone’s watching the Elizabeth Holmes documentary ‘You Can See Everything’](https://techcrunch.com/2026/10/18/everyones-watching-the-elizabeth-holmes-documentary-you-can-see-everything/)**
+  *"You Can See Everything" is having the second biggest opening weekend ever for a documentary film....*
+  📅 Sun, 18 Oct 2026 19:03:38 +0000
+
+- **[Disney agrees to hire the majority of Character.AI’s workforce](https://techcrunch.com/2026/10/18/disney-agrees-to-hire-the-majority-of-character-ais-workforce/)**
+  *The filing also says that the “vast majority” of Character.AI employees who were offered jobs at Disney accepted them. However, this is a stalking horse bid, so another company could come forward with...*
+  📅 Sun, 18 Oct 2026 16:30:00 +0000
+
+- **[TechCrunch Mobility: Rivian’s next act](https://techcrunch.com/2026/10/18/techcrunch-mobility-rivians-next-act/)**
+  *Welcome back to TechCrunch Mobility, your hub for the future of transportation and now, more than ever, the role AI is playing in it....*
+  📅 Sun, 18 Oct 2026 16:05:00 +0000
 
 - **[Meta removes language that raised scraping and AI training concerns](https://techcrunch.com/2026/10/17/meta-removes-language-that-raised-scraping-and-ai-training-concerns/)**
   *A Meta spokesperson insisted that the updated terms did not reflect a change in the way Meta crawls the web....*
@@ -87,42 +101,15 @@
   *The composition of Anthropic’s workforce and the type of work getting done have changed significantly in the past year....*
   📅 Sat, 17 Oct 2026 20:21:19 +0000
 
-- **[Replit makes OpenAI its default over Anthropic, CEO says](https://techcrunch.com/2026/10/17/replit-is-no-longer-working-with-anthropic-ceo-says/)**
-  *Over the weekend, Masad clarified that OpenAI would replace Anthropic as its default model provider. Claude will still be available to customers on the platform....*
-  📅 Sat, 17 Oct 2026 18:48:08 +0000
-
-- **[Ember’s new temperature-controlled mug makes my nightly tea ritual even better](https://techcrunch.com/2026/10/17/embers-new-temperature-controlled-mug-makes-my-nightly-tea-ritual-even-better/)**
-  *The biggest change about Ember's new mug is that you no longer have to open the app to adjust your drink’s temperature....*
-  📅 Sat, 17 Oct 2026 15:30:00 +0000
-
-- **[Mark Wahlberg wants to take on the longevity-startup crowd with an affordable gym concept](https://techcrunch.com/2026/10/16/mark-wahlberg-wants-to-take-on-the-longevity-startup-crowd-with-an-affordable-gym-concept/)**
-  *Mark Wahlberg, who once sank money into a gym chain that got kicked off the NYSE, is now building his own, and he promises you’ll get a cold plunge, a blood panel and a protein muffin without needing ...*
-  📅 Sat, 17 Oct 2026 02:36:18 +0000
-
 ### 📑 Dev.to
 
-- **[How to Join a Pure AI Agent Community in 30 Seconds (No Human Needed)](https://dev.to/machenh001/how-to-join-a-pure-ai-agent-community-in-30-seconds-no-human-needed-1ppl)**
-  *<h2>
-  
-  
-  The Problem
-</h2>
+- **[TutorSaathi AI: An Open-Source AI Teaching Assistant for English Tutors 🇮🇳](https://dev.to/rishabh_dev/tutorsaathi-ai-an-open-source-ai-teaching-assistant-for-english-tutors-28h8)**
+  *<p><a class="article-body-image-wrapper" href="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws...*
+  📅 Sun, 18 Oct 2026 19:47:04 +0000
 
-<p>Most AI agent frameworks let you build agents, but there's nowhere for them to <strong>talk to each other</strong> without humans moderating everything.</p>
-
-<h2>
-  ...*
-  📅 Sun, 18 Oct 2026 15:06:52 +0000
-
-- **[I Put My Own Product Through a Colonoscopy and Found 260 Things](https://dev.to/choksi_3003/i-put-my-own-product-through-a-colonoscopy-and-found-260-things-3895)**
-  *<h1>
-  
-  
-  I Put My Own Product Through a Colonoscopy and Found 260 Things
-</h1>
-
-<p><em>Or: how one human, ~80 AI sub-agents across ten fleets, and a graph database that occasionally changed its pe...*
-  📅 Sun, 18 Oct 2026 15:05:43 +0000
+- **[No-Logs Claims vs. Independent Audits: What 377 VPN Privacy Policies Say](https://dev.to/vpnradarlab/no-logs-claims-vs-independent-audits-what-377-vpn-privacy-policies-say-243a)**
+  *<p>"No logs" is the most common promise in VPN marketing. It is also the hardest one for a buyer to check. A privacy policy can say "no logs" in the headline and describe, a few paragraphs later, whic...*
+  📅 Sun, 18 Oct 2026 19:46:41 +0000
 
 </details>
 
@@ -130,9 +117,21 @@
 
 ### 📈 Daily Trending
 
-- **[xiaoyang111222/cn-math-taxonomy](https://github.com/xiaoyang111222/cn-math-taxonomy)** ⭐ 161
+- **[xiaoyang111222/cn-math-taxonomy](https://github.com/xiaoyang111222/cn-math-taxonomy)** ⭐ 274
   ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
   初中数学知识图谱（课标映射）+ 自适应诊断工具 + 1407 道题库
+
+- **[alchaincyf/huashu-motion](https://github.com/alchaincyf/huashu-motion)** ⭐ 225
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
+  让你的agent一键直出商业级产品宣传片：会作曲，能指着画面改。Commercial-grade launch films by your coding agent — point at the frame to change it.
+
+- **[SNO2207/WindowSmash](https://github.com/SNO2207/WindowSmash)** ⭐ 130
+  ![C](https://img.shields.io/badge/-C-lightgrey)
+  Experimental Windows x64 native porting toolkit for Super Smash Bros. Ultimate: static AArch64 recompilation, a D3D11 runtime, and Local Wireless relay netplay.
+
+- **[marcus-moorelab91a4/fps-optimizer-rust](https://github.com/marcus-moorelab91a4/fps-optimizer-rust)** ⭐ 106
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  Rust-based FPS optimizer for games: frame-rate stability, lower input latency, process priority tuning, memory cleanup and power-plan presets. Lightweight, reversible, open-source performance tool for Windows.
 
 - **[divergesoulpersist/IOBIT-Driver-Booster](https://github.com/divergesoulpersist/IOBIT-Driver-Booster)** ⭐ 97
   ![None](https://img.shields.io/badge/-None-lightgrey)
@@ -142,91 +141,79 @@
   ![None](https://img.shields.io/badge/-None-lightgrey)
   Systemcare Pro 2025: Full working installer for all system optimization tasks, ready to run on your desktop.
 
+- **[Vampirekyosteeple/Microsoft-Visio](https://github.com/Vampirekyosteeple/Microsoft-Visio)** ⭐ 97
+  ![None](https://img.shields.io/badge/-None-lightgrey)
+  Microsoft Visio Professional 2025: Complete standalone setup, fully activated for immediate use on your desktop.
+
 - **[CycloneSeamanQuicken/Adobe-Audition](https://github.com/CycloneSeamanQuicken/Adobe-Audition)** ⭐ 97
   ![None](https://img.shields.io/badge/-None-lightgrey)
   Advanced Audio Workbench 2025 complete standalone setup. Secure digital asset deployment pipeline ready to run.
 
-- **[EssenceCountCommand/Melodyne-5](https://github.com/EssenceCountCommand/Melodyne-5)** ⭐ 97
-  ![None](https://img.shields.io/badge/-None-lightgrey)
-  Melodyne 5: Complete standalone setup with all features unlocked, ready to run on your desktop.
-
-- **[bandwatchmanriddle/Clion](https://github.com/bandwatchmanriddle/Clion)** ⭐ 97
-  ![None](https://img.shields.io/badge/-None-lightgrey)
-  Clion 2025: Complete standalone setup with all features pre-activated, ready to run on your desktop.
-
-- **[prismmizukageconquer/Windows-Optimizer](https://github.com/prismmizukageconquer/Windows-Optimizer)** ⭐ 97
-  ![None](https://img.shields.io/badge/-None-lightgrey)
-  Windows Optimizer 2025: Full working installer with advanced system tweaks and enhancements ready to run.
-
-- **[Naturetengrade/AnyUnlock](https://github.com/Naturetengrade/AnyUnlock)** ⭐ 97
-  ![None](https://img.shields.io/badge/-None-lightgrey)
-  Anyunlock 2025: Complete standalone setup for all your software unlock needs. Ready-to-run desktop installation with no activation required.
-
 ### 📈 Weekly Trending
 
-- **[jhaizhou-ops/d2r-mobile](https://github.com/jhaizhou-ops/d2r-mobile)** ⭐ 3,796
+- **[jhaizhou-ops/d2r-mobile](https://github.com/jhaizhou-ops/d2r-mobile)** ⭐ 3,821
   ![C](https://img.shields.io/badge/-C-lightgrey)
   Open-source iOS / macOS compatibility layer for Diablo II: Resurrected with the Reign of the Warlock expansion. Runs your own Switch copy natively on iPhone, iPad and Mac — full touch controls, 60 fps, new endgame modes. Bring your own game files. 开源的《暗黑破坏神 II：狱火重生》术士君临 iOS / macOS 兼容层
 
-- **[Arekejoker/qwen21-nsfw-pose-skill](https://github.com/Arekejoker/qwen21-nsfw-pose-skill)** ⭐ 2,712
+- **[Arekejoker/qwen21-nsfw-pose-skill](https://github.com/Arekejoker/qwen21-nsfw-pose-skill)** ⭐ 2,727
   ![Python](https://img.shields.io/badge/-Python-blue)
   Qwen-Image 2.1 NSFW/姿势出图 skill：作者级提示词配方 + NSFW LoRA + 136 姿势 VNCCS 人偶控制；适用 Claude Code / Codex / Cursor / OpenClaw
 
-- **[HeyPuter/everything](https://github.com/HeyPuter/everything)** ⭐ 2,152
+- **[HeyPuter/everything](https://github.com/HeyPuter/everything)** ⭐ 2,189
   ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
   We're rebuilding and open-sourcing the world’s software from scratch.
 
-- **[deeplethe/solid-glass](https://github.com/deeplethe/solid-glass)** ⭐ 2,002
+- **[deeplethe/solid-glass](https://github.com/deeplethe/solid-glass)** ⭐ 2,010
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   A design system for AI applications. Material, physical, tactile, technical.
 
-- **[ahwootech/BRUTAL](https://github.com/ahwootech/BRUTAL)** ⭐ 1,860
+- **[ahwootech/BRUTAL](https://github.com/ahwootech/BRUTAL)** ⭐ 1,883
   ![C#](https://img.shields.io/badge/-C#-lightgrey)
   A free, open source C# framework for making games, or your own game engine. Direct access to native APIs and Vulkan, with the low-level libraries around them. The foundation under Kitten Space Agency and RimWorld's Waylith engine.
 
-- **[chenglou/handwired](https://github.com/chenglou/handwired)** ⭐ 1,706
+- **[chenglou/handwired](https://github.com/chenglou/handwired)** ⭐ 1,722
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   Turn your regular JavaScript code into a neural net.
 
-- **[feder-cr/git-ai](https://github.com/feder-cr/git-ai)** ⭐ 1,447
+- **[Gathin23/tv-vibehack](https://github.com/Gathin23/tv-vibehack)** ⭐ 1,581
+  ![Java](https://img.shields.io/badge/-Java-orange)
+  Your TV, minus the ads. Debloat any Android TV over ADB and give it a clean, tvOS-inspired launcher. Built in an afternoon with Claude Code.
+
+- **[feder-cr/git-ai](https://github.com/feder-cr/git-ai)** ⭐ 1,539
   ![Go](https://img.shields.io/badge/-Go-cyan)
   Git designed for AI agents.
 
-- **[Supermedo/uncharted_pc](https://github.com/Supermedo/uncharted_pc)** ⭐ 1,377
-  ![C++](https://img.shields.io/badge/-C++-pink)
-  Uncharted: The Nathan Drake Collection running natively on Windows - by SuperMedo
-
 ### 📈 Monthly Trending
 
-- **[storytold/photocraft](https://github.com/storytold/photocraft)** ⭐ 67,094
+- **[storytold/photocraft](https://github.com/storytold/photocraft)** ⭐ 67,317
   ![Rust](https://img.shields.io/badge/-Rust-brown)
   PhotoCraft: An open-source, photo editor written by scratch in pure Rust
 
-- **[Niko1221/Strata](https://github.com/Niko1221/Strata)** ⭐ 27,274
+- **[Niko1221/Strata](https://github.com/Niko1221/Strata)** ⭐ 27,397
   ![C++](https://img.shields.io/badge/-C++-pink)
   Qwen3.8-Flash-Next on any consumer hardware: one-click install for Windows / Linux. Strata inference engine, OpenAI/Anthropic API on localhost, optional image input.
 
-- **[Ebony-Vinyl/dsh-our-free-model](https://github.com/Ebony-Vinyl/dsh-our-free-model)** ⭐ 24,218
+- **[Ebony-Vinyl/dsh-our-free-model](https://github.com/Ebony-Vinyl/dsh-our-free-model)** ⭐ 24,636
   ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
   在 dsh 里装上这个插件即可，无需登录、注册或填 API Key，就能使用包括 DeepSeek V4.1 Flash、Kimi K3 在内的前沿模型——完全免费，不限量。 All you do is install this plugin in dsh: no login, no sign-up, no API key — the frontier models are just there, DeepSeek V4.1 Flash and Kimi K3 among them. Completely free, with no usage cap.
 
-- **[wheresryan22/anatomy](https://github.com/wheresryan22/anatomy)** ⭐ 15,746
+- **[wheresryan22/anatomy](https://github.com/wheresryan22/anatomy)** ⭐ 15,894
   ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
   An agent skill for creating detailed, interactive isometric illustrations of real-world machines and complex systems. Generates polished SVGs with optional WebGL shaders and 3D effects.
 
-- **[storytold/pdfcraft](https://github.com/storytold/pdfcraft)** ⭐ 15,740
-  ![Rust](https://img.shields.io/badge/-Rust-brown)
-  PdfCraft: An open-source PDF reader and editor written by scratch in pure Rust
-
-- **[yetone/magpie](https://github.com/yetone/magpie)** ⭐ 15,703
+- **[yetone/magpie](https://github.com/yetone/magpie)** ⭐ 15,862
   ![Go](https://img.shields.io/badge/-Go-cyan)
   Every agent's model. One place. Codex on DeepSeek, Claude Code on Kimi, from the menu bar.
 
-- **[openai/math](https://github.com/openai/math)** ⭐ 15,153
+- **[storytold/pdfcraft](https://github.com/storytold/pdfcraft)** ⭐ 15,814
+  ![Rust](https://img.shields.io/badge/-Rust-brown)
+  PdfCraft: An open-source PDF reader and editor written by scratch in pure Rust
+
+- **[openai/math](https://github.com/openai/math)** ⭐ 15,163
   ![Lean](https://img.shields.io/badge/-Lean-lightgrey)
   None
 
-- **[storytold/filmcraft](https://github.com/storytold/filmcraft)** ⭐ 14,741
+- **[storytold/filmcraft](https://github.com/storytold/filmcraft)** ⭐ 14,797
   ![Rust](https://img.shields.io/badge/-Rust-brown)
   FilmCraft: An open-source, nonlinear video editor written by scratch in pure Rust
 
@@ -487,21 +474,21 @@ See [kubernetes-announce@](https://groups.google.com/forum/#!forum/kubernetes-an
 
 | Skill | Status |
 |-------|--------|
-| Java | 🟢 Proficient |
+| Java | 🟡 Learning |
 | Python | 🟢 Proficient |
 | JavaScript | 🟢 Proficient |
-| TypeScript | 🟡 Learning |
-| Go | ⚪ Planned |
+| TypeScript | 🟢 Proficient |
+| Go | 🔴 Beginner |
 
 ### Frameworks
 
 | Skill | Status |
 |-------|--------|
 | React | 🔴 Beginner |
-| Spring Boot | 🟢 Proficient |
-| Django | 🟢 Proficient |
+| Spring Boot | ⚪ Planned |
+| Django | 🔴 Beginner |
 | Node.js | 🔴 Beginner |
-| Next.js | 🔴 Beginner |
+| Next.js | ⚪ Planned |
 
 ### Cybersecurity
 
@@ -510,36 +497,36 @@ See [kubernetes-announce@](https://groups.google.com/forum/#!forum/kubernetes-an
 | Penetration Testing | ⚪ Planned |
 | Web Security | ⚪ Planned |
 | Network Security | ⚪ Planned |
-| OWASP | 🔴 Beginner |
+| OWASP | ⚪ Planned |
 
 ### Ai Ml
 
 | Skill | Status |
 |-------|--------|
 | Machine Learning | 🟡 Learning |
-| Deep Learning | 🟡 Learning |
-| NLP | 🟢 Proficient |
-| Computer Vision | ⚪ Planned |
-| TensorFlow | 🔴 Beginner |
-| PyTorch | 🟡 Learning |
+| Deep Learning | 🟢 Proficient |
+| NLP | ⚪ Planned |
+| Computer Vision | 🟡 Learning |
+| TensorFlow | 🟢 Proficient |
+| PyTorch | 🔴 Beginner |
 
 ### Devops
 
 | Skill | Status |
 |-------|--------|
-| Docker | 🟢 Proficient |
-| Kubernetes | 🔴 Beginner |
-| CI/CD | ⚪ Planned |
-| AWS | ⚪ Planned |
-| Azure | 🟢 Proficient |
+| Docker | ⚪ Planned |
+| Kubernetes | ⚪ Planned |
+| CI/CD | 🟢 Proficient |
+| AWS | 🟢 Proficient |
+| Azure | ⚪ Planned |
 
 ### Other
 
 | Skill | Status |
 |-------|--------|
-| Blockchain | 🔴 Beginner |
+| Blockchain | 🟢 Proficient |
 | Web3 | 🟡 Learning |
-| Cloud Computing | ⚪ Planned |
+| Cloud Computing | 🟢 Proficient |
 
 </details>
 
