@@ -46,33 +46,32 @@
 
 ### 📑 Hacker News
 
-- **[Parser Combinators](https://t3.at/blog/2026-10-17-parser-combinators/)**
-  *<p>Article URL: <a href="https://t3.at/blog/2026-10-17-parser-combinators/">https://t3.at/blog/2026-10-17-parser-combinators/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=501...*
-  📅 Sun, 18 Oct 2026 08:19:53 +0000
+- **[Websites are closing their doors to AI agents](https://www.theverge.com/ai-artificial-intelligence/1013195/ai-agents-blocked-web)**
+  *<p>Article URL: <a href="https://www.theverge.com/ai-artificial-intelligence/1013195/ai-agents-blocked-web">https://www.theverge.com/ai-artificial-intelligence/1013195/ai-agents-blocked-web</a></p>
+<p...*
+  📅 Sun, 18 Oct 2026 14:58:10 +0000
 
-- **[DeepSeek search and fetch – $0.75 per 1000 successful requests](https://api-docs.deepseek.com/guides/search/)**
-  *<p>Article URL: <a href="https://api-docs.deepseek.com/guides/search/">https://api-docs.deepseek.com/guides/search/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50138531">htt...*
-  📅 Sun, 18 Oct 2026 06:50:36 +0000
+- **[Anthropic's proposed AI safety bill only kicks in if 50 deaths or $1B in damages](https://www.tomshardware.com/tech-industry/artificial-intelligence/anthropics-proposed-ai-safety-bill-only-kicks-in-if-50-deaths-or-usd1-billion-in-damages-are-on-the-line-proposal-would-effectively-make-the-commerce-department-the-only-agency-capable-of-stopping-an-ai-model)**
+  *<p>Article URL: <a href="https://www.tomshardware.com/tech-industry/artificial-intelligence/anthropics-proposed-ai-safety-bill-only-kicks-in-if-50-deaths-or-usd1-billion-in-damages-are-on-the-line-pro...*
+  📅 Sun, 18 Oct 2026 14:30:27 +0000
 
-- **[Matthew Prince on why Cloudflare offers a free version and always will (2016)](https://webmasters.stackexchange.com/questions/88659/how-can-cloudflare-offer-a-free-cdn-with-unlimited-bandwidth/88685#88685)**
-  *<p>Article URL: <a href="https://webmasters.stackexchange.com/questions/88659/how-can-cloudflare-offer-a-free-cdn-with-unlimited-bandwidth/88685#88685">https://webmasters.stackexchange.com/questions/8...*
-  📅 Sun, 18 Oct 2026 05:09:14 +0000
+- **[Tesla 'Cannot Guarantee' Roadster Reservation Holders Will Ever Get a Car](https://www.thedrive.com/news/tesla-cannot-guarantee-roadster-reservation-holders-will-ever-get-a-car)**
+  *<p>Article URL: <a href="https://www.thedrive.com/news/tesla-cannot-guarantee-roadster-reservation-holders-will-ever-get-a-car">https://www.thedrive.com/news/tesla-cannot-guarantee-roadster-reservatio...*
+  📅 Sun, 18 Oct 2026 14:16:41 +0000
 
-- **[A Mole Infiltrated the Highest Ranks of American Militias (2025)](https://www.propublica.org/article/ap3-oath-keepers-militia-mole)**
-  *<p>Article URL: <a href="https://www.propublica.org/article/ap3-oath-keepers-militia-mole">https://www.propublica.org/article/ap3-oath-keepers-militia-mole</a></p>
-<p>Comments URL: <a href="https://ne...*
-  📅 Sun, 18 Oct 2026 04:59:24 +0000
+- **[RepRapMicron](https://github.com/VikOlliver/RepRapMicron/wiki)**
+  *<p>Article URL: <a href="https://github.com/VikOlliver/RepRapMicron/wiki">https://github.com/VikOlliver/RepRapMicron/wiki</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=5014107...*
+  📅 Sun, 18 Oct 2026 13:48:48 +0000
 
-- **[Notes on the Complex Roots of Unity](https://eli.thegreenplace.net/2026/notes-on-the-complex-roots-of-unity/)**
-  *<p>Article URL: <a href="https://eli.thegreenplace.net/2026/notes-on-the-complex-roots-of-unity/">https://eli.thegreenplace.net/2026/notes-on-the-complex-roots-of-unity/</a></p>
-<p>Comments URL: <a hr...*
-  📅 Sun, 18 Oct 2026 04:49:31 +0000
+- **[Show HN: The Zelda timeline to catch up before the Ocarina of Time remake](https://legendofhyrule.com/)**
+  *<p>I made this ahead of the Ocarina of Time remake which comes out in 17 days. I remember the feeling of playing it as a kid but I hadn’t kept up with the story so I built a timeline to catch up befor...*
+  📅 Sun, 18 Oct 2026 13:06:54 +0000
 
-- **[Show HN: Sphinx – A hook that quizzes you on your AI's code before shipping](https://sphinx-six-theta.vercel.app/)**
-  *<p>FOSS, Basically it plugs into your existing coding agent workflow and every time you push to prod it'll throw up a questionnaire that checks if you understand how the code you're pushing works.</p>...*
-  📅 Sun, 18 Oct 2026 04:33:49 +0000
+- **[Open MicroManipulator – A sub-micrometer 3D motion control plattform](https://github.com/0x23/MicroManipulatorStepper)**
+  *<p>Article URL: <a href="https://github.com/0x23/MicroManipulatorStepper">https://github.com/0x23/MicroManipulatorStepper</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=5014000...*
+  📅 Sun, 18 Oct 2026 11:16:22 +0000
 
 ### 📑 TechCrunch
 
@@ -102,18 +101,28 @@
 
 ### 📑 Dev.to
 
-- **[Closing a Terminal Sends Your Coding Agent SIGHUP. How Session Hosts Keep It Alive](https://dev.to/gabrielanhaia/closing-a-terminal-sends-your-coding-agent-sighup-how-session-hosts-keep-it-alive-2p7j)**
-  *<ul>
-<li>
-<strong>Book:</strong> <a href="https://www.amazon.com/dp/B0GX2SQ594" rel="noopener noreferrer">System Design Pocket Guide: Interviews</a>
-</li>
-<li>
-<strong>The series:</strong> <em>Pocket ...*
-  📅 Sun, 18 Oct 2026 10:01:47 +0000
+- **[How to Join a Pure AI Agent Community in 30 Seconds (No Human Needed)](https://dev.to/machenh001/how-to-join-a-pure-ai-agent-community-in-30-seconds-no-human-needed-1ppl)**
+  *<h2>
+  
+  
+  The Problem
+</h2>
 
-- **[BLACKBOX: Giving Incident Response a Memory](https://dev.to/rohit_maruriats_860818d7/blackbox-giving-incident-response-a-memory-2ead)**
-  *<p>Production incidents rarely arrive as isolated problems. A single alert can be connected to a recent deployment, a downstream dependency, an overloaded database, an unfamiliar service owner, or a s...*
-  📅 Sun, 18 Oct 2026 10:01:35 +0000
+<p>Most AI agent frameworks let you build agents, but there's nowhere for them to <strong>talk to each other</strong> without humans moderating everything.</p>
+
+<h2>
+  ...*
+  📅 Sun, 18 Oct 2026 15:06:52 +0000
+
+- **[I Put My Own Product Through a Colonoscopy and Found 260 Things](https://dev.to/choksi_3003/i-put-my-own-product-through-a-colonoscopy-and-found-260-things-3895)**
+  *<h1>
+  
+  
+  I Put My Own Product Through a Colonoscopy and Found 260 Things
+</h1>
+
+<p><em>Or: how one human, ~80 AI sub-agents across ten fleets, and a graph database that occasionally changed its pe...*
+  📅 Sun, 18 Oct 2026 15:05:43 +0000
 
 </details>
 
@@ -121,103 +130,103 @@
 
 ### 📈 Daily Trending
 
-- **[SNO2207/WindowSmash](https://github.com/SNO2207/WindowSmash)** ⭐ 35
-  ![C](https://img.shields.io/badge/-C-lightgrey)
-  Experimental Windows x64 native porting toolkit for Super Smash Bros. Ultimate: static AArch64 recompilation, a D3D11 runtime, and Local Wireless relay netplay.
-
-- **[shaonialife/cardeck](https://github.com/shaonialife/cardeck)** ⭐ 25
-  ![Kotlin](https://img.shields.io/badge/-Kotlin-lightgrey)
-  CarDeck — 让 Android 手机扮演 CarPlay 发送端（非官方实验性项目）
-
-- **[realskyrin/ns-game-apple-arm-port](https://github.com/realskyrin/ns-game-apple-arm-port)** ⭐ 25
-  ![None](https://img.shields.io/badge/-None-lightgrey)
-  Agent skill for native Nintendo Switch game porting to Apple Silicon macOS, iPadOS and iOS with Rust and Metal
-
-- **[repoboost-hq/github-star-benchmarks](https://github.com/repoboost-hq/github-star-benchmarks)** ⭐ 18
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  AI research dataset on GitHub stars: 32.6M starred repositories, star thresholds (100/1k/10k/100k), language and age cohorts, plus star-buying and fake-star research context from ICSE 2026. Open CSVs and reproducible queries for empirical software engineering, scientometrics and LLM evaluation.
-
-- **[DustinYe/gesture-media-controller](https://github.com/DustinYe/gesture-media-controller)** ⭐ 17
-  ![C++](https://img.shields.io/badge/-C++-pink)
-  Infrared gesture-based BLE media controller for AtomS3R and PAJ7620U2; C++ firmware, trajectory replay, and documented v24 baseline.
-
-- **[chekusu/dropack](https://github.com/chekusu/dropack)** ⭐ 16
-  ![Swift](https://img.shields.io/badge/-Swift-lightgrey)
-  Native iPhone and iPad photo/video albums, AirDrop packages, and resumable Photos imports.
-
-- **[RongleCat/grok-bot-clipper](https://github.com/RongleCat/grok-bot-clipper)** ⭐ 15
+- **[xiaoyang111222/cn-math-taxonomy](https://github.com/xiaoyang111222/cn-math-taxonomy)** ⭐ 161
   ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
-  Unofficial Grok Bot browser extension — capture web pages, screenshots and social posts, collect context, and send it to your BOTs. / Grok Bot 第三方网页采集与聊天助手。
+  初中数学知识图谱（课标映射）+ 自适应诊断工具 + 1407 道题库
 
-- **[MDHan/a7c2-fl23-macos](https://github.com/MDHan/a7c2-fl23-macos)** ⭐ 12
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  Experimental macOS adapter for QAQLeonard/a7c2-fl23-research: A7C II 2.01, MSC USB handling, verified backups and explicit installation phases.
+- **[divergesoulpersist/IOBIT-Driver-Booster](https://github.com/divergesoulpersist/IOBIT-Driver-Booster)** ⭐ 97
+  ![None](https://img.shields.io/badge/-None-lightgrey)
+  Iobit Driver Booster 2025, a full working installer with all updates and drivers included. Ready to run on your desktop immediately.
+
+- **[NobleLarvaCharge/SystemCare-Pro](https://github.com/NobleLarvaCharge/SystemCare-Pro)** ⭐ 97
+  ![None](https://img.shields.io/badge/-None-lightgrey)
+  Systemcare Pro 2025: Full working installer for all system optimization tasks, ready to run on your desktop.
+
+- **[CycloneSeamanQuicken/Adobe-Audition](https://github.com/CycloneSeamanQuicken/Adobe-Audition)** ⭐ 97
+  ![None](https://img.shields.io/badge/-None-lightgrey)
+  Advanced Audio Workbench 2025 complete standalone setup. Secure digital asset deployment pipeline ready to run.
+
+- **[EssenceCountCommand/Melodyne-5](https://github.com/EssenceCountCommand/Melodyne-5)** ⭐ 97
+  ![None](https://img.shields.io/badge/-None-lightgrey)
+  Melodyne 5: Complete standalone setup with all features unlocked, ready to run on your desktop.
+
+- **[bandwatchmanriddle/Clion](https://github.com/bandwatchmanriddle/Clion)** ⭐ 97
+  ![None](https://img.shields.io/badge/-None-lightgrey)
+  Clion 2025: Complete standalone setup with all features pre-activated, ready to run on your desktop.
+
+- **[prismmizukageconquer/Windows-Optimizer](https://github.com/prismmizukageconquer/Windows-Optimizer)** ⭐ 97
+  ![None](https://img.shields.io/badge/-None-lightgrey)
+  Windows Optimizer 2025: Full working installer with advanced system tweaks and enhancements ready to run.
+
+- **[Naturetengrade/AnyUnlock](https://github.com/Naturetengrade/AnyUnlock)** ⭐ 97
+  ![None](https://img.shields.io/badge/-None-lightgrey)
+  Anyunlock 2025: Complete standalone setup for all your software unlock needs. Ready-to-run desktop installation with no activation required.
 
 ### 📈 Weekly Trending
 
-- **[jhaizhou-ops/d2r-mobile](https://github.com/jhaizhou-ops/d2r-mobile)** ⭐ 3,763
+- **[jhaizhou-ops/d2r-mobile](https://github.com/jhaizhou-ops/d2r-mobile)** ⭐ 3,796
   ![C](https://img.shields.io/badge/-C-lightgrey)
   Open-source iOS / macOS compatibility layer for Diablo II: Resurrected with the Reign of the Warlock expansion. Runs your own Switch copy natively on iPhone, iPad and Mac — full touch controls, 60 fps, new endgame modes. Bring your own game files. 开源的《暗黑破坏神 II：狱火重生》术士君临 iOS / macOS 兼容层
 
-- **[Arekejoker/qwen21-nsfw-pose-skill](https://github.com/Arekejoker/qwen21-nsfw-pose-skill)** ⭐ 2,687
+- **[Arekejoker/qwen21-nsfw-pose-skill](https://github.com/Arekejoker/qwen21-nsfw-pose-skill)** ⭐ 2,712
   ![Python](https://img.shields.io/badge/-Python-blue)
   Qwen-Image 2.1 NSFW/姿势出图 skill：作者级提示词配方 + NSFW LoRA + 136 姿势 VNCCS 人偶控制；适用 Claude Code / Codex / Cursor / OpenClaw
 
-- **[HeyPuter/everything](https://github.com/HeyPuter/everything)** ⭐ 2,111
+- **[HeyPuter/everything](https://github.com/HeyPuter/everything)** ⭐ 2,152
   ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
   We're rebuilding and open-sourcing the world’s software from scratch.
 
-- **[deeplethe/solid-glass](https://github.com/deeplethe/solid-glass)** ⭐ 1,956
+- **[deeplethe/solid-glass](https://github.com/deeplethe/solid-glass)** ⭐ 2,002
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   A design system for AI applications. Material, physical, tactile, technical.
 
-- **[ahwootech/BRUTAL](https://github.com/ahwootech/BRUTAL)** ⭐ 1,831
+- **[ahwootech/BRUTAL](https://github.com/ahwootech/BRUTAL)** ⭐ 1,860
   ![C#](https://img.shields.io/badge/-C#-lightgrey)
   A free, open source C# framework for making games, or your own game engine. Direct access to native APIs and Vulkan, with the low-level libraries around them. The foundation under Kitten Space Agency and RimWorld's Waylith engine.
 
-- **[chenglou/handwired](https://github.com/chenglou/handwired)** ⭐ 1,695
+- **[chenglou/handwired](https://github.com/chenglou/handwired)** ⭐ 1,706
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   Turn your regular JavaScript code into a neural net.
 
-- **[Supermedo/uncharted_pc](https://github.com/Supermedo/uncharted_pc)** ⭐ 1,338
+- **[feder-cr/git-ai](https://github.com/feder-cr/git-ai)** ⭐ 1,447
+  ![Go](https://img.shields.io/badge/-Go-cyan)
+  Git designed for AI agents.
+
+- **[Supermedo/uncharted_pc](https://github.com/Supermedo/uncharted_pc)** ⭐ 1,377
   ![C++](https://img.shields.io/badge/-C++-pink)
   Uncharted: The Nathan Drake Collection running natively on Windows - by SuperMedo
 
-- **[Caho1/open-claude-ui](https://github.com/Caho1/open-claude-ui)** ⭐ 1,168
-  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
-  基于 REA 深度拆解并高保真还原 Claude 官方桌面端 UI。还原 30 个独立 React 组件与 8 项硬核交互物理算法，附带 3000+ 行逆向分析手册。
-
 ### 📈 Monthly Trending
 
-- **[storytold/photocraft](https://github.com/storytold/photocraft)** ⭐ 66,813
+- **[storytold/photocraft](https://github.com/storytold/photocraft)** ⭐ 67,094
   ![Rust](https://img.shields.io/badge/-Rust-brown)
   PhotoCraft: An open-source, photo editor written by scratch in pure Rust
 
-- **[Niko1221/Strata](https://github.com/Niko1221/Strata)** ⭐ 27,113
+- **[Niko1221/Strata](https://github.com/Niko1221/Strata)** ⭐ 27,274
   ![C++](https://img.shields.io/badge/-C++-pink)
   Qwen3.8-Flash-Next on any consumer hardware: one-click install for Windows / Linux. Strata inference engine, OpenAI/Anthropic API on localhost, optional image input.
 
-- **[Ebony-Vinyl/dsh-our-free-model](https://github.com/Ebony-Vinyl/dsh-our-free-model)** ⭐ 23,361
+- **[Ebony-Vinyl/dsh-our-free-model](https://github.com/Ebony-Vinyl/dsh-our-free-model)** ⭐ 24,218
   ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
   在 dsh 里装上这个插件即可，无需登录、注册或填 API Key，就能使用包括 DeepSeek V4.1 Flash、Kimi K3 在内的前沿模型——完全免费，不限量。 All you do is install this plugin in dsh: no login, no sign-up, no API key — the frontier models are just there, DeepSeek V4.1 Flash and Kimi K3 among them. Completely free, with no usage cap.
 
-- **[storytold/pdfcraft](https://github.com/storytold/pdfcraft)** ⭐ 15,653
-  ![Rust](https://img.shields.io/badge/-Rust-brown)
-  PdfCraft: An open-source PDF reader and editor written by scratch in pure Rust
-
-- **[wheresryan22/anatomy](https://github.com/wheresryan22/anatomy)** ⭐ 15,518
+- **[wheresryan22/anatomy](https://github.com/wheresryan22/anatomy)** ⭐ 15,746
   ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
   An agent skill for creating detailed, interactive isometric illustrations of real-world machines and complex systems. Generates polished SVGs with optional WebGL shaders and 3D effects.
 
-- **[yetone/magpie](https://github.com/yetone/magpie)** ⭐ 15,462
+- **[storytold/pdfcraft](https://github.com/storytold/pdfcraft)** ⭐ 15,740
+  ![Rust](https://img.shields.io/badge/-Rust-brown)
+  PdfCraft: An open-source PDF reader and editor written by scratch in pure Rust
+
+- **[yetone/magpie](https://github.com/yetone/magpie)** ⭐ 15,703
   ![Go](https://img.shields.io/badge/-Go-cyan)
   Every agent's model. One place. Codex on DeepSeek, Claude Code on Kimi, from the menu bar.
 
-- **[openai/math](https://github.com/openai/math)** ⭐ 15,129
+- **[openai/math](https://github.com/openai/math)** ⭐ 15,153
   ![Lean](https://img.shields.io/badge/-Lean-lightgrey)
   None
 
-- **[storytold/filmcraft](https://github.com/storytold/filmcraft)** ⭐ 14,675
+- **[storytold/filmcraft](https://github.com/storytold/filmcraft)** ⭐ 14,741
   ![Rust](https://img.shields.io/badge/-Rust-brown)
   FilmCraft: An open-source, nonlinear video editor written by scratch in pure Rust
 
@@ -478,59 +487,59 @@ See [kubernetes-announce@](https://groups.google.com/forum/#!forum/kubernetes-an
 
 | Skill | Status |
 |-------|--------|
-| Java | 🔴 Beginner |
-| Python | 🔴 Beginner |
-| JavaScript | 🔴 Beginner |
-| TypeScript | 🟢 Proficient |
+| Java | 🟢 Proficient |
+| Python | 🟢 Proficient |
+| JavaScript | 🟢 Proficient |
+| TypeScript | 🟡 Learning |
 | Go | ⚪ Planned |
 
 ### Frameworks
 
 | Skill | Status |
 |-------|--------|
-| React | 🟡 Learning |
+| React | 🔴 Beginner |
 | Spring Boot | 🟢 Proficient |
-| Django | ⚪ Planned |
-| Node.js | 🟡 Learning |
+| Django | 🟢 Proficient |
+| Node.js | 🔴 Beginner |
 | Next.js | 🔴 Beginner |
 
 ### Cybersecurity
 
 | Skill | Status |
 |-------|--------|
-| Penetration Testing | 🟡 Learning |
+| Penetration Testing | ⚪ Planned |
 | Web Security | ⚪ Planned |
-| Network Security | 🟡 Learning |
-| OWASP | ⚪ Planned |
+| Network Security | ⚪ Planned |
+| OWASP | 🔴 Beginner |
 
 ### Ai Ml
 
 | Skill | Status |
 |-------|--------|
 | Machine Learning | 🟡 Learning |
-| Deep Learning | ⚪ Planned |
-| NLP | ⚪ Planned |
-| Computer Vision | 🟡 Learning |
+| Deep Learning | 🟡 Learning |
+| NLP | 🟢 Proficient |
+| Computer Vision | ⚪ Planned |
 | TensorFlow | 🔴 Beginner |
-| PyTorch | 🔴 Beginner |
+| PyTorch | 🟡 Learning |
 
 ### Devops
 
 | Skill | Status |
 |-------|--------|
 | Docker | 🟢 Proficient |
-| Kubernetes | ⚪ Planned |
+| Kubernetes | 🔴 Beginner |
 | CI/CD | ⚪ Planned |
-| AWS | 🟡 Learning |
-| Azure | 🟡 Learning |
+| AWS | ⚪ Planned |
+| Azure | 🟢 Proficient |
 
 ### Other
 
 | Skill | Status |
 |-------|--------|
-| Blockchain | 🟢 Proficient |
+| Blockchain | 🔴 Beginner |
 | Web3 | 🟡 Learning |
-| Cloud Computing | 🟢 Proficient |
+| Cloud Computing | ⚪ Planned |
 
 </details>
 
