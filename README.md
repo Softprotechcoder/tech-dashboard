@@ -20,7 +20,7 @@
 | Metric | Count |
 |--------|-------|
 | 📰 Latest News Articles | 26 |
-| 🔥 Trending Repositories | 15 |
+| 🔥 Trending Repositories | 45 |
 | 🎯 Latest Releases | 10 |
 | 🎯 Learning Goals | 4 |
 
@@ -46,34 +46,40 @@
 
 ### 📑 Hacker News
 
-- **[Sanity's Edge – A voice BBS from 1994](https://sanitys-edge.shouden.us)**
-  *<p>Article URL: <a href="https://sanitys-edge.shouden.us">https://sanitys-edge.shouden.us</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50146966">https://news.ycombinator.com/...*
-  📅 Mon, 19 Oct 2026 00:30:34 +0000
+- **[Show HN: I re-read the terms of 175 AI tools twice; 60% changed in 15 weeks](https://clipjury.com/guides/ai-tool-terms-changed-2026/)**
+  *<p>Article URL: <a href="https://clipjury.com/guides/ai-tool-terms-changed-2026/">https://clipjury.com/guides/ai-tool-terms-changed-2026/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com...*
+  📅 Mon, 19 Oct 2026 11:07:21 +0000
 
-- **[William Gibson and the trademarking of cyberspace](https://colo.to/cyberspace.html)**
-  *<p>Article URL: <a href="https://colo.to/cyberspace.html">https://colo.to/cyberspace.html</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50146625">https://news.ycombinator.com/...*
-  📅 Sun, 18 Oct 2026 23:37:57 +0000
+- **[Let's Encrypt is adding two additional remote perspectives for domain validation](https://community.letsencrypt.org/t/lets-encrypt-is-adding-two-additional-remote-perspectives-for-domain-validation/252166)**
+  *<p>Article URL: <a href="https://community.letsencrypt.org/t/lets-encrypt-is-adding-two-additional-remote-perspectives-for-domain-validation/252166">https://community.letsencrypt.org/t/lets-encrypt-is...*
+  📅 Mon, 19 Oct 2026 10:53:39 +0000
 
-- **[Show HN: WhatsApp MCP running free on Cloudflare](https://github.com/finereli/whatsapp-mcp)**
-  *<p>I wanted my humble Claude on mobile to access my WhatsApp messages but the only options I could find either required WhatsApp Business or an actual server to run Baileys on.<p>I wanted to run it fo...*
-  📅 Sun, 18 Oct 2026 21:36:10 +0000
+- **[Timestral: Mistral release time-series foundation models](https://mistral.ai/news/timestral/)**
+  *<p>Article URL: <a href="https://mistral.ai/news/timestral/">https://mistral.ai/news/timestral/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50150434">https://news.ycombinato...*
+  📅 Mon, 19 Oct 2026 09:59:32 +0000
 
-- **[If you don't run your own LLM proxy, how do you know whats going on?](https://jrdsgl.com/if-you-dont-run-your-own-llm-proxy-how-the-fuck-do-you-even-know-whats-going-on/)**
-  *<p>Article URL: <a href="https://jrdsgl.com/if-you-dont-run-your-own-llm-proxy-how-the-fuck-do-you-even-know-whats-going-on/">https://jrdsgl.com/if-you-dont-run-your-own-llm-proxy-how-the-fuck-do-you-...*
-  📅 Sun, 18 Oct 2026 21:09:12 +0000
+- **[Linux 7.3 Released](https://lwn.net/Articles/1101143/)**
+  *<p>Article URL: <a href="https://lwn.net/Articles/1101143/">https://lwn.net/Articles/1101143/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50149392">https://news.ycombinator....*
+  📅 Mon, 19 Oct 2026 07:23:57 +0000
 
-- **[Hybrid Reasoning Agents: LLM agents that think in latent space, act through text](https://arxiv.org/abs/2610.18861)**
-  *<p><a href="https://x.com/Jiaru_Zou/status/2110400256647340476" rel="nofollow">https://x.com/Jiaru_Zou/status/2110400256647340476</a><p><a href="https://github.com/togethercomputer/HybridAgent" rel="n...*
-  📅 Sun, 18 Oct 2026 20:48:14 +0000
+- **[Tmux and Claude Code: Sessions, Send-Keys, and the Ceiling](https://crystl.dev/guides/tmux-for-ai-agents/)**
+  *<p>Article URL: <a href="https://crystl.dev/guides/tmux-for-ai-agents/">https://crystl.dev/guides/tmux-for-ai-agents/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50148855">h...*
+  📅 Mon, 19 Oct 2026 05:55:31 +0000
 
-- **[Personal software factories are a waste of time](https://www.peterp.me/articles/personal-software-factories-are-a-waste-of-time/)**
-  *<p>Article URL: <a href="https://www.peterp.me/articles/personal-software-factories-are-a-waste-of-time/">https://www.peterp.me/articles/personal-software-factories-are-a-waste-of-time/</a></p>
-<p>Com...*
-  📅 Sun, 18 Oct 2026 19:02:11 +0000
+- **[Superlite: A Faster Alternatie to Superpowers](https://contextfirst.blog/superlite-hand-an-agent-a-spec/)**
+  *<p>Article URL: <a href="https://contextfirst.blog/superlite-hand-an-agent-a-spec/">https://contextfirst.blog/superlite-hand-an-agent-a-spec/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator...*
+  📅 Mon, 19 Oct 2026 02:01:16 +0000
 
 ### 📑 TechCrunch
+
+- **[Khosla Ventures doubles down on Even Healthcare to challenge India’s hospital economics](https://techcrunch.com/2026/10/19/khosla-ventures-doubles-down-on-even-healthcare-to-challenge-indias-hospital-economics/)**
+  *Even Healthcare reaches a $300 million valuation in a Khosla Ventures-led round as it plans to expand its hospital network in India....*
+  📅 Mon, 19 Oct 2026 07:30:00 +0000
 
 - **[No agenda, no rush, no leaving San Francisco: Benchmark’s partners on investing in a frenzied market](https://techcrunch.com/2026/10/18/no-agenda-no-rush-no-leaving-san-francisco-benchmarks-partners-on-investing-in-a-frenzied-market/)**
   *Benchmark may have grown its funds and swapped out some partners, but onstage the five who are left sounded like friends who just happen to be running one of the Valley’s most storied firms...*
@@ -95,24 +101,25 @@
   *Welcome back to TechCrunch Mobility, your hub for the future of transportation and now, more than ever, the role AI is playing in it....*
   📅 Sun, 18 Oct 2026 16:05:00 +0000
 
-- **[Meta removes language that raised scraping and AI training concerns](https://techcrunch.com/2026/10/17/meta-removes-language-that-raised-scraping-and-ai-training-concerns/)**
-  *A Meta spokesperson insisted that the updated terms did not reflect a change in the way Meta crawls the web....*
-  📅 Sat, 17 Oct 2026 21:31:32 +0000
-
 ### 📑 Dev.to
 
-- **[WordPress 7.2 Beta 1: 9 Changes Developers Should Test Before the December Release](https://dev.to/geniuswp/wordpress-72-beta-1-9-changes-developers-should-test-before-the-december-release-23pa)**
-  *<p>WordPress 7.2 is the last major release of 2026, and <strong>Beta 1 is scheduled for October 20, 2026</strong>. RC1 follows on <strong>November 17</strong> and the final release is planned for <str...*
-  📅 Mon, 19 Oct 2026 02:25:44 +0000
-
-- **[A crossword gift shop where Gemma 3 4B writes the clues](https://dev.to/mtlmatt/a-crossword-gift-shop-where-gemma-3-4b-writes-the-clues-3jnd)**
-  *<p><em>This is a submission for the <a href="https://dev.to/challenges/hacktoberfest-week2-2026-10-12">Hacktoberfest Open-Source AI Challenge Week 2: Side Hustle</a></em></p>
-
-<h2>
+- **[Dash: An Open-Source Home Assistant Built on the Gemini 3.8 Live API](https://dev.to/xavidop/dash-an-open-source-home-assistant-built-on-the-gemini-38-live-api-448o)**
+  *<h2>
   
   
-  What I Buil...*
-  📅 Mon, 19 Oct 2026 02:24:51 +0000
+  Introduction
+</h2>
+
+<p>I wanted a Nest Hub that I could actually program. Something on the kitchen wall that shows the time, the weather, my teams, what's cooking and what's playing, and ...*
+  📅 Mon, 19 Oct 2026 11:32:16 +0000
+
+- **[AI Helped Modernize Our Angular App. Then It Helped Fix What Broke.](https://dev.to/harishbuilds/ai-helped-modernize-our-angular-app-then-it-helped-fix-what-broke-1ip9)**
+  *<p>AI helped us migrate our Angular components to standalone and implement signals.</p>
+
+<p>It also introduced regressions.</p>
+
+<p>And when we worked through those regressions, AI helped us fix them ...*
+  📅 Mon, 19 Oct 2026 11:32:04 +0000
 
 </details>
 
@@ -120,37 +127,105 @@
 
 ### 📈 Daily Trending
 
-- **[soniciso1/ps5-linux-loader](https://github.com/soniciso1/ps5-linux-loader)** ⭐ 44
+- **[TownFletcherEstimate/Minecraft-PvP-Helper-2026](https://github.com/TownFletcherEstimate/Minecraft-PvP-Helper-2026)** ⭐ 106
+  ![None](https://img.shields.io/badge/-None-lightgrey)
+  Lightweight utility for Minecraft. Convenient PvP helpers, quality-of-life features and performance improvements for better combat experience. Simple installation, regularly updated.
+
+- **[soniciso1/ps5-linux-loader](https://github.com/soniciso1/ps5-linux-loader)** ⭐ 99
   ![C](https://img.shields.io/badge/-C-lightgrey)
   Run Linux on PS5 - with 13.60 support including PS5 Pro (fork of ps5-linux/ps5-linux-loader)
 
-- **[0xgetz/n33-bulk-9router](https://github.com/0xgetz/n33-bulk-9router)** ⭐ 10
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
-  Zero-dependency Node toolkit: bulk-create n33.ai accounts, harvest session cookies and serve the 10 free models through 9Router as an OpenAI-compatible provider.
-
-- **[soumatheusgomes/editonny](https://github.com/soumatheusgomes/editonny)** ⭐ 8
+- **[soumatheusgomes/editonny](https://github.com/soumatheusgomes/editonny)** ⭐ 77
   ![Python](https://img.shields.io/badge/-Python-blue)
   Local video editing through conversation. Created by Matheus Gomes.
 
-- **[404kernel/kernel](https://github.com/404kernel/kernel)** ⭐ 8
+- **[aidenleads/css-animation-snippets](https://github.com/aidenleads/css-animation-snippets)** ⭐ 75
+  ![CSS](https://img.shields.io/badge/-CSS-lightgrey)
+  Free copy-paste CSS animations for business websites. No frameworks, no build step, accessible by default. Love Yall ❤️
+
+- **[AntoGA/agents-contract](https://github.com/AntoGA/agents-contract)** ⭐ 40
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  AGENTS.md contract for AI coding agents + zero-dependency linter + SessionStart hook. Works with Claude Code, Codex, Cursor, Copilot.
+
+- **[zigansh1n/imnotarobot](https://github.com/zigansh1n/imnotarobot)** ⭐ 24
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  I am not a robot — a captcha solver for macOS: local model, Gemini vision, a stealth browser for checkbox captchas, RuCaptcha as the last resort. 2Captcha-compatible API and an MCP server.
+
+- **[inwpu/SapperLens](https://github.com/inwpu/SapperLens)** ⭐ 22
+  ![None](https://img.shields.io/badge/-None-lightgrey)
+  None
+
+- **[opentrap/opentrap](https://github.com/opentrap/opentrap)** ⭐ 22
+  ![Java](https://img.shields.io/badge/-Java-orange)
+  Open-source web security testing suite built around an intercepting proxy. Crawl, intercept, replay and scan web applications for vulnerabilities.
+
+### 📈 Weekly Trending
+
+- **[Gathin23/cleanyourtv](https://github.com/Gathin23/cleanyourtv)** ⭐ 3,349
+  ![Java](https://img.shields.io/badge/-Java-orange)
+  Debloat any Android or Google TV over Wi-Fi and get an Apple TV-style home.
+
+- **[Arekejoker/qwen21-nsfw-pose-skill](https://github.com/Arekejoker/qwen21-nsfw-pose-skill)** ⭐ 3,272
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  Qwen-Image 2.1 NSFW/姿势出图 skill：作者级提示词配方 + NSFW LoRA + 136 姿势 VNCCS 人偶控制；适用 Claude Code / Codex / Cursor / OpenClaw
+
+- **[feder-cr/git-ai](https://github.com/feder-cr/git-ai)** ⭐ 2,372
   ![Go](https://img.shields.io/badge/-Go-cyan)
-  ⚡️ High-performance terminal AI agent with an animated companion pet, markdown syntax highlighting, and native shell execution.
+  Git designed for AI agents.
 
-- **[Alpha-Park/genpark-personal-agent-dynamic-home-energy-spot-tariff-arbitrage-skill](https://github.com/Alpha-Park/genpark-personal-agent-dynamic-home-energy-spot-tariff-arbitrage-skill)** ⭐ 7
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  Smart home electricity time-of-use (TOU) and spot price ingestion, building thermal inertia pre-cooling/pre-heating modeling, EV charging cost optimization, and peak-hour load shaving. Built for GenPark (https://www.genpark.ai).
+- **[HeyPuter/everything](https://github.com/HeyPuter/everything)** ⭐ 2,272
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
+  We're rebuilding and open-sourcing the world’s software from scratch.
 
-- **[Alpha-Park/genpark-agentic-commerce-flash-sale-inventory-bot-sentinel-skill](https://github.com/Alpha-Park/genpark-agentic-commerce-flash-sale-inventory-bot-sentinel-skill)** ⭐ 7
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  High-concurrency flash sale inventory protection, purchase intent velocity scoring, anti-scalper bot fingerprinting, proof-of-human token verification, and dynamic inventory slice rationing. Built for GenPark (https://www.genpark.ai).
+- **[ahwootech/BRUTAL](https://github.com/ahwootech/BRUTAL)** ⭐ 1,944
+  ![C#](https://img.shields.io/badge/-C#-lightgrey)
+  A free, open source C# framework for making games, or your own game engine. Direct access to native APIs and Vulkan, with the low-level libraries around them. The foundation under Kitten Space Agency and RimWorld's Waylith engine.
 
-- **[alphaparkinc/genpark-agentic-commerce-affiliate-attribution-fraud-ring-arbiter-skill](https://github.com/alphaparkinc/genpark-agentic-commerce-affiliate-attribution-fraud-ring-arbiter-skill)** ⭐ 7
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  Multi-touch e-commerce affiliate attribution modeling, cookie-stuffing detection, coupon hijack arbitration, click-to-conversion velocity anomaly scoring, and automated commission clawback enforcement. Built for GenPark (https://www.genpark.ai).
+- **[chenglou/handwired](https://github.com/chenglou/handwired)** ⭐ 1,771
+  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
+  Turn your regular JavaScript code into a neural net.
 
-- **[Alpha-Park/genpark-personal-agent-circadian-chronotype-smart-alarm-optimizer-skill](https://github.com/Alpha-Park/genpark-personal-agent-circadian-chronotype-smart-alarm-optimizer-skill)** ⭐ 7
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  Circadian biological rhythm chronotype scoring, ultradian 90-minute sleep cycle phase alignment, sleep inertia dampening wakeup window calculator, and morning cortisol awakening response (CAR) sunlight exposure scheduler. Built for GenPark (https://www.genpark.ai).
+- **[Supermedo/uncharted_pc](https://github.com/Supermedo/uncharted_pc)** ⭐ 1,502
+  ![C++](https://img.shields.io/badge/-C++-pink)
+  Uncharted: The Nathan Drake Collection running natively on Windows - by SuperMedo
+
+- **[ly05010419/MacNativeGames](https://github.com/ly05010419/MacNativeGames)** ⭐ 1,310
+  ![C](https://img.shields.io/badge/-C-lightgrey)
+  None
+
+### 📈 Monthly Trending
+
+- **[storytold/photocraft](https://github.com/storytold/photocraft)** ⭐ 68,011
+  ![Rust](https://img.shields.io/badge/-Rust-brown)
+  PhotoCraft: An open-source, photo editor written by scratch in pure Rust
+
+- **[Niko1221/Strata](https://github.com/Niko1221/Strata)** ⭐ 27,841
+  ![C++](https://img.shields.io/badge/-C++-pink)
+  Qwen3.8-Flash-Next on any consumer hardware: one-click install for Windows / Linux. Strata inference engine, OpenAI/Anthropic API on localhost, optional image input.
+
+- **[Ebony-Vinyl/dsh-our-free-model](https://github.com/Ebony-Vinyl/dsh-our-free-model)** ⭐ 26,678
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
+  在 dsh 里装上这个插件即可，无需登录、注册或填 API Key，就能使用包括 DeepSeek V4.1 Flash、Kimi K3 在内的前沿模型——完全免费，不限量。 All you do is install this plugin in dsh: no login, no sign-up, no API key — the frontier models are just there, DeepSeek V4.1 Flash and Kimi K3 among them. Completely free, with no usage cap.
+
+- **[yetone/magpie](https://github.com/yetone/magpie)** ⭐ 16,679
+  ![Go](https://img.shields.io/badge/-Go-cyan)
+  Every agent's model. One place. Codex on DeepSeek, Claude Code on Kimi, from the menu bar.
+
+- **[wheresryan22/anatomy](https://github.com/wheresryan22/anatomy)** ⭐ 16,513
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
+  An agent skill for creating detailed, interactive isometric illustrations of real-world machines and complex systems. Generates polished SVGs with optional WebGL shaders and 3D effects.
+
+- **[storytold/pdfcraft](https://github.com/storytold/pdfcraft)** ⭐ 16,096
+  ![Rust](https://img.shields.io/badge/-Rust-brown)
+  PdfCraft: An open-source PDF reader and editor written by scratch in pure Rust
+
+- **[openai/math](https://github.com/openai/math)** ⭐ 15,199
+  ![Lean](https://img.shields.io/badge/-Lean-lightgrey)
+  None
+
+- **[storytold/filmcraft](https://github.com/storytold/filmcraft)** ⭐ 14,957
+  ![Rust](https://img.shields.io/badge/-Rust-brown)
+  FilmCraft: An open-source, nonlinear video editor written by scratch in pure Rust
 
 ## 🚀 Latest Releases
 
@@ -410,8 +485,8 @@ See [kubernetes-announce@](https://groups.google.com/forum/#!forum/kubernetes-an
 | Skill | Status |
 |-------|--------|
 | Java | ⚪ Planned |
-| Python | ⚪ Planned |
-| JavaScript | ⚪ Planned |
+| Python | 🔴 Beginner |
+| JavaScript | 🟢 Proficient |
 | TypeScript | 🔴 Beginner |
 | Go | 🔴 Beginner |
 
@@ -420,19 +495,19 @@ See [kubernetes-announce@](https://groups.google.com/forum/#!forum/kubernetes-an
 | Skill | Status |
 |-------|--------|
 | React | 🟢 Proficient |
-| Spring Boot | 🟡 Learning |
+| Spring Boot | 🟢 Proficient |
 | Django | 🔴 Beginner |
 | Node.js | 🟢 Proficient |
-| Next.js | 🟡 Learning |
+| Next.js | 🔴 Beginner |
 
 ### Cybersecurity
 
 | Skill | Status |
 |-------|--------|
-| Penetration Testing | 🔴 Beginner |
+| Penetration Testing | 🟢 Proficient |
 | Web Security | 🟢 Proficient |
-| Network Security | 🟡 Learning |
-| OWASP | 🟡 Learning |
+| Network Security | 🔴 Beginner |
+| OWASP | 🟢 Proficient |
 
 ### Ai Ml
 
@@ -440,19 +515,19 @@ See [kubernetes-announce@](https://groups.google.com/forum/#!forum/kubernetes-an
 |-------|--------|
 | Machine Learning | 🟡 Learning |
 | Deep Learning | 🟢 Proficient |
-| NLP | ⚪ Planned |
-| Computer Vision | 🟡 Learning |
-| TensorFlow | 🟢 Proficient |
+| NLP | 🟢 Proficient |
+| Computer Vision | 🔴 Beginner |
+| TensorFlow | 🔴 Beginner |
 | PyTorch | 🟢 Proficient |
 
 ### Devops
 
 | Skill | Status |
 |-------|--------|
-| Docker | 🟡 Learning |
-| Kubernetes | 🔴 Beginner |
-| CI/CD | ⚪ Planned |
-| AWS | 🔴 Beginner |
+| Docker | ⚪ Planned |
+| Kubernetes | 🟢 Proficient |
+| CI/CD | 🟢 Proficient |
+| AWS | 🟢 Proficient |
 | Azure | ⚪ Planned |
 
 ### Other
@@ -461,7 +536,7 @@ See [kubernetes-announce@](https://groups.google.com/forum/#!forum/kubernetes-an
 |-------|--------|
 | Blockchain | 🟡 Learning |
 | Web3 | 🟢 Proficient |
-| Cloud Computing | 🔴 Beginner |
+| Cloud Computing | 🟢 Proficient |
 
 </details>
 
