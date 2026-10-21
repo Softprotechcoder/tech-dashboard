@@ -46,36 +46,51 @@
 
 ### 📑 Hacker News
 
-- **[Whatever Happened to Fire Escapes](https://practical.engineering/blog/2026/10/20/whatever-happened-to-fire-escapes)**
-  *<p>Article URL: <a href="https://practical.engineering/blog/2026/10/20/whatever-happened-to-fire-escapes">https://practical.engineering/blog/2026/10/20/whatever-happened-to-fire-escapes</a></p>
-<p>Com...*
-  📅 Wed, 21 Oct 2026 10:14:43 +0000
+- **[Today's PHP Security Release, and How We're Strengthening PHP Security](https://thephp.foundation/blog/2026/10/21/todays-php-security-release-and-how-were-strengthening-php-security/)**
+  *<p>Article URL: <a href="https://thephp.foundation/blog/2026/10/21/todays-php-security-release-and-how-were-strengthening-php-security/">https://thephp.foundation/blog/2026/10/21/todays-php-security-r...*
+  📅 Wed, 21 Oct 2026 15:48:56 +0000
 
-- **[Eight Bits of Trust; eMudhra's CA keys cracked in milliseconds](https://scotthelme.co.uk/eight-bits-of-trust-emudhras-ca-keys-cracked-in-milliseconds/)**
-  *<p>Article URL: <a href="https://scotthelme.co.uk/eight-bits-of-trust-emudhras-ca-keys-cracked-in-milliseconds/">https://scotthelme.co.uk/eight-bits-of-trust-emudhras-ca-keys-cracked-in-milliseconds/<...*
-  📅 Wed, 21 Oct 2026 09:08:08 +0000
+- **[Oregon lawmakers approve money to buy an iconic waterfall listed on Redfin](https://apnews.com/article/oregon-waterfall-for-sale-lawmakers-996de63462d49ec3ad9bee1629fb9488)**
+  *<p>Article URL: <a href="https://apnews.com/article/oregon-waterfall-for-sale-lawmakers-996de63462d49ec3ad9bee1629fb9488">https://apnews.com/article/oregon-waterfall-for-sale-lawmakers-996de63462d49ec...*
+  📅 Wed, 21 Oct 2026 15:20:04 +0000
 
-- **[The 1.5°C goal of the Paris Agreement is no longer viable](https://unric.org/en/unep-emissions-gap-report-2026-1-5-degree-overshoot/)**
-  *<p>Article URL: <a href="https://unric.org/en/unep-emissions-gap-report-2026-1-5-degree-overshoot/">https://unric.org/en/unep-emissions-gap-report-2026-1-5-degree-overshoot/</a></p>
-<p>Comments URL: <...*
-  📅 Wed, 21 Oct 2026 09:07:49 +0000
+- **[Delays for Pull Requests and Webhook deliveries](https://www.githubstatus.com/incidents/nms1dpzmh9d9)**
+  *<p>Article URL: <a href="https://www.githubstatus.com/incidents/nms1dpzmh9d9">https://www.githubstatus.com/incidents/nms1dpzmh9d9</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id...*
+  📅 Wed, 21 Oct 2026 14:56:57 +0000
 
-- **[Pillowfort Is Closing](https://www.pillowfort.social/posts/8413273)**
-  *<p>Article URL: <a href="https://www.pillowfort.social/posts/8413273">https://www.pillowfort.social/posts/8413273</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50176301">https...*
-  📅 Wed, 21 Oct 2026 05:05:37 +0000
+- **[Cloudflare deploys protections against php2shell vulnerability](https://blog.cloudflare.com/php-vulnerabilities-waf-protection/)**
+  *<p>Article URL: <a href="https://blog.cloudflare.com/php-vulnerabilities-waf-protection/">https://blog.cloudflare.com/php-vulnerabilities-waf-protection/</a></p>
+<p>Comments URL: <a href="https://news...*
+  📅 Wed, 21 Oct 2026 14:11:14 +0000
 
-- **[Battlezone Online: BZFlag in the Browser](https://github.com/timriker/bzo)**
-  *<p>Article URL: <a href="https://github.com/timriker/bzo">https://github.com/timriker/bzo</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50176298">https://news.ycombinator.com/...*
-  📅 Wed, 21 Oct 2026 05:05:19 +0000
+- **[Patch the Planet: global response coordination as agents uncover vulnerabilities](https://openai.com/index/coordinated-disclosure-of-critical-vulnerabilities/)**
+  *<p><a href="https://patchtheplanet.org/" rel="nofollow">https://patchtheplanet.org/</a></p>
+<hr />
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50181175">https://news.ycombinator.com...*
+  📅 Wed, 21 Oct 2026 14:03:43 +0000
 
-- **[Setting Up SSH Keys on macOS with Touch ID](https://nmattia.com/posts/2026-10-19-setting-up-ssh-keys-touch-id/)**
-  *<p>Article URL: <a href="https://nmattia.com/posts/2026-10-19-setting-up-ssh-keys-touch-id/">https://nmattia.com/posts/2026-10-19-setting-up-ssh-keys-touch-id/</a></p>
-<p>Comments URL: <a href="https:...*
-  📅 Wed, 21 Oct 2026 03:51:25 +0000
+- **[The No Kings Takedown Is Why You Shouldn't Rent Your Megaphone from Zuck](https://www.techdirt.com/2026/10/20/accident-or-not-the-no-kings-takedown-is-why-you-shouldnt-rent-your-megaphone-from-zuck/)**
+  *<p>Article URL: <a href="https://www.techdirt.com/2026/10/20/accident-or-not-the-no-kings-takedown-is-why-you-shouldnt-rent-your-megaphone-from-zuck/">https://www.techdirt.com/2026/10/20/accident-or-n...*
+  📅 Wed, 21 Oct 2026 14:01:25 +0000
 
 ### 📑 TechCrunch
+
+- **[Foursquare co-founder says equity holders saw no returns from the company’s acquisition](https://techcrunch.com/2026/10/21/foursquare-co-founder-says-equity-holders-saw-no-returns-from-the-companys-acquisition/)**
+  *Foursquare raised $411 million in funding according to PitchBook data, but its equity holders saw no returns from its final acquisition....*
+  📅 Wed, 21 Oct 2026 14:03:11 +0000
+
+- **[AI promises productivity, but for managers, it’s mostly a headache for now](https://techcrunch.com/2026/10/21/ai-promises-productivity-but-for-managers-its-mostly-a-headache-for-now-says-new-survey/)**
+  *More than 50% of managers say they're finding it harder to evaluate employees' work after adopting AI, according to a new survey....*
+  📅 Wed, 21 Oct 2026 14:00:00 +0000
+
+- **[Heat pump tech is 170 years old. Pascal thinks it’s time for an update.](https://techcrunch.com/2026/10/21/heat-pump-tech-is-170-years-old-pascal-thinks-its-time-for-an-update/)**
+  *Refrigerants startup Pascal has a new take on heat pump and cooling tech using a sponge-like material that promises to be 20% more efficient....*
+  📅 Wed, 21 Oct 2026 13:30:00 +0000
+
+- **[Mach9 raises $34M after pivoting to AI CAD software](https://techcrunch.com/2026/10/21/mach9-raises-34m-after-pivoting-to-ai-cad-software/)**
+  *The startup initially set out to build better, faster, and cheaper surveying hardware in 2021....*
+  📅 Wed, 21 Oct 2026 13:00:00 +0000
 
 - **[Anthropic pitches AI safety bill that may block a model if 50+ people could be killed](https://techcrunch.com/2026/10/20/anthropic-pitches-ai-safety-bill-that-may-block-a-model-if-50-people-could-be-killed/)**
   *The proposed policy seems to offer protections against AI running amok but actually forbids federal agencies from blocking a model's release without the permission of a judge....*
@@ -85,37 +100,21 @@
   *Elon Musk likes the idea but says he is not on either committee, which is made up of independent directors....*
   📅 Tue, 20 Oct 2026 22:57:57 +0000
 
-- **[Hugging Face CEO warns that Netflix’s OpenAI hack documentary isn’t accurate](https://techcrunch.com/2026/10/20/hugging-face-ceo-warns-that-netflixs-openai-hack-documentary-isnt-accurate/)**
-  *Before you share the Netflix documentary "AI Gone Rogue," take note. Clem Delangue, Hugging Face's co-founder who is featured in the film, says it went "full doomer mode" and isn't accurate....*
-  📅 Tue, 20 Oct 2026 22:24:02 +0000
-
-- **[Anthropic’s cloud partnerships are getting messy](https://techcrunch.com/2026/10/20/anthropics-cloud-partnerships-are-getting-messy/)**
-  *Anthropic is reportedly struggling to secure enough compute from cloud providers that increasingly view it as a competitor, even as its infrastructure spending balloons ahead of a planned November IPO...*
-  📅 Tue, 20 Oct 2026 21:25:22 +0000
-
-- **[SpaceX’s AI business is beating expectations](https://techcrunch.com/2026/10/20/spacexs-ai-business-is-beating-expectations/)**
-  *SpaceX hit profitability in the third quarter, with net income of $4.4 billion. AI was the engine....*
-  📅 Tue, 20 Oct 2026 20:40:41 +0000
-
-- **[OpenAI acquires startup Orchestra Bio⁠ to beef up its biotech business](https://techcrunch.com/2026/10/20/openai-acquires-startup-orchestra-bio%e2%81%a0-to-beef-up-its-biotech-business/)**
-  *OpenAI says it's adding Orchestra's team and technology to work on Rosalind, its AI model for life sciences research, and to its related Rosalind Workbench tool, a harness that aims to help researcher...*
-  📅 Tue, 20 Oct 2026 20:35:10 +0000
-
 ### 📑 Dev.to
 
-- **[Enhancing Node.js Module Privacy: Introducing --experimental-strip-private-modules](https://dev.to/pdrojack/enhancing-nodejs-module-privacy-introducing-experimental-strip-private-modules-3i66)**
+- **[I Bought a Domain for $1 — Here’s What I Built With AI and GitHub](https://dev.to/vn_tunl_09a36fcbda701/i-bought-a-domain-for-1-heres-what-i-built-with-ai-and-github-2fgc)**
+  *<p>I bought a domain for about one dollar. That sentence usually kicks off an internet story where the writer pivots three paragraphs later into how they turned that single dollar into ten thousand do...*
+  📅 Wed, 21 Oct 2026 16:10:43 +0000
+
+- **[The Ultimate Dual USB-C Monitor Arm with Power Delivery for MacBook Programmers: A Deep Dive Review](https://dev.to/colme/the-ultimate-dual-usb-c-monitor-arm-with-power-delivery-for-macbook-programmers-a-deep-dive-review-3ijo)**
   *<h1>
   
   
-  Why Module Privacy Matters in Node.js
+  The Ultimate Dual USB-C Monitor Arm with Power Delivery for MacBook Programmers: A Deep Dive Review
 </h1>
 
-<p>In the Node.js ecosystem, managing dependencies often means dealing with nested <code>node_modules</code> directories, where public and pri...*
-  📅 Wed, 21 Oct 2026 10:46:58 +0000
-
-- **[Planned U.S. power plants missing from EIA's January list arrive by August, and the reason is still open](https://dev.to/munimv2/planned-us-power-plants-missing-from-eias-january-list-arrive-by-august-and-the-reason-is-still-g0p)**
-  *<p>EIA runs two surveys of planned U.S. power plants: the annual EIA-860 and the monthly EIA-860M. Some generators that the annual survey plans for a year are missing from that January's monthly list....*
-  📅 Wed, 21 Oct 2026 10:46:45 +0000
+<p>As a developer, your workspace isn't just a place; it's an extension of your ...*
+  📅 Wed, 21 Oct 2026 16:10:21 +0000
 
 </details>
 
@@ -123,105 +122,105 @@
 
 ### 📈 Daily Trending
 
-- **[WoYun520/dsh-purge](https://github.com/WoYun520/dsh-purge)** ⭐ 188
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
-  DeepSeek Harness 破甲 (mirror of mmparko/dsh-purge) — 全量镜像：全部分支/100 个 tag/完整提交历史。原作者署名见 README。
-
-- **[ikow/php2shell-poc](https://github.com/ikow/php2shell-poc)** ⭐ 106
+- **[ikow/php2shell-poc](https://github.com/ikow/php2shell-poc)** ⭐ 599
   ![Python](https://img.shields.io/badge/-Python-blue)
   CVE-2026-109618/109619 PHP session.upload_progress Exploit Research — POC & Analysis
 
-- **[DLSS-5-Swapper-Download-2026/.github](https://github.com/DLSS-5-Swapper-Download-2026/.github)** ⭐ 102
-  ![None](https://img.shields.io/badge/-None-lightgrey)
-  DLSS 5 Swapper brings DLSS 5 installation and configuration into one desktop application, so you don't have to manage every game modification by hand. It can detect games from supported libraries, work with manually added game folders, and provide different installation routes depending on the game and its rendering setup.
-
-- **[helloianneo/ian-xhs-carousel](https://github.com/helloianneo/ian-xhs-carousel)** ⭐ 57
-  ![HTML](https://img.shields.io/badge/-HTML-lightgrey)
-  把文章、案例或笔记排成 3:4 小红书图文 | 1080×1440 | 20 个母版 | 浅色 / 深色 | Claude Code Skill
-
-- **[Zer061/CVE-2026-109618](https://github.com/Zer061/CVE-2026-109618)** ⭐ 41
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  PoC CVE-2026-109618 / -109619 (PHP session.upload_progress heap UAF)
-
-- **[Monopoly0024/simple-checker-v1](https://github.com/Monopoly0024/simple-checker-v1)** ⭐ 38
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  Codex skill：拆解代码功能板块，以彩色流程图和运行证据复核代码功能的实现--辅助你进行ai代码写作与更新。
-
-- **[browser-use/rl-env-use](https://github.com/browser-use/rl-env-use)** ⭐ 35
-  ![HTML](https://img.shields.io/badge/-HTML-lightgrey)
-  Build RL environments for any domain from real cases that Browser Use agents mine from the web
-
-- **[eness/php2shell-CVE-2026-109618-CVE-2026-109619-PoC](https://github.com/eness/php2shell-CVE-2026-109618-CVE-2026-109619-PoC)** ⭐ 32
+- **[eness/php2shell-CVE-2026-109618-CVE-2026-109619-PoC](https://github.com/eness/php2shell-CVE-2026-109618-CVE-2026-109619-PoC)** ⭐ 326
   ![Shell](https://img.shields.io/badge/-Shell-lightgrey)
   Proof-of-Concept (PoC) exploit for php2shell (CVE-2026-109618 / CVE-2026-109619), demonstrating remote code execution in vulnerable PHP environments. For security research and educational purposes only.
 
+- **[WoYun520/dsh-purge](https://github.com/WoYun520/dsh-purge)** ⭐ 253
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
+  DeepSeek Harness 破甲 (mirror of mmparko/dsh-purge) — 全量镜像：全部分支/100 个 tag/完整提交历史。原作者署名见 README。
+
+- **[helloianneo/ian-xhs-carousel](https://github.com/helloianneo/ian-xhs-carousel)** ⭐ 102
+  ![HTML](https://img.shields.io/badge/-HTML-lightgrey)
+  把文章、案例或笔记排成 3:4 小红书图文 | 1080×1440 | 20 个母版 | 浅色 / 深色 | Claude Code Skill
+
+- **[lol-tools-new/.github](https://github.com/lol-tools-new/.github)** ⭐ 95
+  ![HTML](https://img.shields.io/badge/-HTML-lightgrey)
+  🔥 league-of-legends-lol-skin-swapper-skin-changer
+
+- **[ilAoC/mcd-gacha-collector](https://github.com/ilAoC/mcd-gacha-collector)** ⭐ 92
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  麦卡收藏家 · 基于麦当劳中国 MCP 的卡牌收集 Skill + 网页版（麦当劳程序员创意开发大赛参赛作品）
+
+- **[DLSS-5-Swapper-Download-2026/.github](https://github.com/DLSS-5-Swapper-Download-2026/.github)** ⭐ 84
+  ![None](https://img.shields.io/badge/-None-lightgrey)
+  DLSS 5 Swapper brings DLSS 5 installation and configuration into one desktop application, so you don't have to manage every game modification by hand. It can detect games from supported libraries, work with manually added game folders, and provide different installation routes depending on the game and its rendering setup.
+
+- **[shareshellrelease/Cinema-4d](https://github.com/shareshellrelease/Cinema-4d)** ⭐ 82
+  ![None](https://img.shields.io/badge/-None-lightgrey)
+  Professional Cinema 4D configuration utility for 2026, offering a full working installer with all essential features pre-configured and ready to run.
+
 ### 📈 Weekly Trending
 
-- **[deepseek-ai/DeepInfer](https://github.com/deepseek-ai/DeepInfer)** ⭐ 16,470
+- **[deepseek-ai/DeepInfer](https://github.com/deepseek-ai/DeepInfer)** ⭐ 17,347
   ![Python](https://img.shields.io/badge/-Python-blue)
   DeepInfer: High-performance, large-scale inference framework for DeepSeek models
 
-- **[Gathin23/cleanyourtv](https://github.com/Gathin23/cleanyourtv)** ⭐ 15,229
+- **[Gathin23/cleanyourtv](https://github.com/Gathin23/cleanyourtv)** ⭐ 17,329
   ![Java](https://img.shields.io/badge/-Java-orange)
   Debloat any Android or Google TV over Wi-Fi and get an Apple TV-style home.
 
-- **[ly05010419/MacNativeGames](https://github.com/ly05010419/MacNativeGames)** ⭐ 3,305
+- **[ly05010419/MacNativeGames](https://github.com/ly05010419/MacNativeGames)** ⭐ 3,618
   ![C](https://img.shields.io/badge/-C-lightgrey)
   None
 
-- **[simbasjungles/free-my-tv](https://github.com/simbasjungles/free-my-tv)** ⭐ 2,219
+- **[simbasjungles/free-my-tv](https://github.com/simbasjungles/free-my-tv)** ⭐ 2,407
   ![Java](https://img.shields.io/badge/-Java-orange)
   A fast, ad-free home screen for Google TV. Open source, built with Claude Code. One button to undo.
 
-- **[Leonxlnx/earshot](https://github.com/Leonxlnx/earshot)** ⭐ 2,023
+- **[Leonxlnx/earshot](https://github.com/Leonxlnx/earshot)** ⭐ 2,041
   ![Python](https://img.shields.io/badge/-Python-blue)
   Ears for coding agents: let AI hear, review and make sound. CPU-only, open source.
+
+- **[pengchujin/aerial-tv](https://github.com/pengchujin/aerial-tv)** ⭐ 1,935
+  ![Kotlin](https://img.shields.io/badge/-Kotlin-lightgrey)
+  给国产电视的一块干净桌面：参照 tvOS 设计的开源 Android TV 桌面，没有广告，开机自动接管。A tvOS-style launcher for Xiaomi, TCL and other China-market TVs.
+
+- **[xiaoyang111222/cn-math-taxonomy](https://github.com/xiaoyang111222/cn-math-taxonomy)** ⭐ 1,925
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  中小学知识图谱 + 前置诊断：数学（一–九年级、高中必修与选择性必修）+ 英语（小学、初中、高中），课标对齐、人教版，1503 知识点、6159 题、自适应诊断
 
 - **[chenglou/handwired](https://github.com/chenglou/handwired)** ⭐ 1,866
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   Turn your regular JavaScript code into a neural net.
 
-- **[xiaoyang111222/cn-math-taxonomy](https://github.com/xiaoyang111222/cn-math-taxonomy)** ⭐ 1,836
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  中小学知识图谱 + 前置诊断：数学（一–九年级、高中必修与选择性必修）+ 英语（小学、初中、高中），课标对齐、人教版，1503 知识点、6159 题、自适应诊断
-
-- **[Supermedo/uncharted_pc](https://github.com/Supermedo/uncharted_pc)** ⭐ 1,749
-  ![C++](https://img.shields.io/badge/-C++-pink)
-  Uncharted: The Nathan Drake Collection running natively on Windows - by SuperMedo
-
 ### 📈 Monthly Trending
 
-- **[storytold/photocraft](https://github.com/storytold/photocraft)** ⭐ 70,114
+- **[storytold/photocraft](https://github.com/storytold/photocraft)** ⭐ 70,382
   ![Rust](https://img.shields.io/badge/-Rust-brown)
   PhotoCraft: An open-source, photo editor written by scratch in pure Rust
 
-- **[Ebony-Vinyl/dsh-our-free-model](https://github.com/Ebony-Vinyl/dsh-our-free-model)** ⭐ 32,399
+- **[Ebony-Vinyl/dsh-our-free-model](https://github.com/Ebony-Vinyl/dsh-our-free-model)** ⭐ 33,394
   ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
   在 dsh 里装上这个插件即可，无需登录、注册或填 API Key，就能使用包括 DeepSeek V4.1 Flash、Kimi K3 在内的前沿模型——完全免费，不限量。 All you do is install this plugin in dsh: no login, no sign-up, no API key — the frontier models are just there, DeepSeek V4.1 Flash and Kimi K3 among them. Completely free, with no usage cap.
 
-- **[Niko1221/Strata](https://github.com/Niko1221/Strata)** ⭐ 29,544
+- **[Niko1221/Strata](https://github.com/Niko1221/Strata)** ⭐ 29,733
   ![C++](https://img.shields.io/badge/-C++-pink)
   Qwen3.8-Flash-Next on any consumer hardware: one-click install for Windows / Linux. Strata inference engine, OpenAI/Anthropic API on localhost, optional image input.
 
-- **[yetone/magpie](https://github.com/yetone/magpie)** ⭐ 18,541
+- **[yetone/magpie](https://github.com/yetone/magpie)** ⭐ 18,735
   ![Go](https://img.shields.io/badge/-Go-cyan)
   Every agent's model. One place. Codex on DeepSeek, Claude Code on Kimi, from the menu bar.
 
-- **[wheresryan22/anatomy](https://github.com/wheresryan22/anatomy)** ⭐ 18,013
+- **[wheresryan22/anatomy](https://github.com/wheresryan22/anatomy)** ⭐ 18,300
   ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
   An agent skill for creating detailed, interactive isometric illustrations of real-world machines and complex systems. Generates polished SVGs with optional WebGL shaders and 3D effects.
 
-- **[storytold/pdfcraft](https://github.com/storytold/pdfcraft)** ⭐ 16,805
-  ![Rust](https://img.shields.io/badge/-Rust-brown)
-  PdfCraft: An open-source PDF reader and editor written by scratch in pure Rust
-
-- **[google-research/harness2](https://github.com/google-research/harness2)** ⭐ 16,531
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  None
-
-- **[deepseek-ai/DeepInfer](https://github.com/deepseek-ai/DeepInfer)** ⭐ 16,470
+- **[deepseek-ai/DeepInfer](https://github.com/deepseek-ai/DeepInfer)** ⭐ 17,347
   ![Python](https://img.shields.io/badge/-Python-blue)
   DeepInfer: High-performance, large-scale inference framework for DeepSeek models
+
+- **[Gathin23/cleanyourtv](https://github.com/Gathin23/cleanyourtv)** ⭐ 17,330
+  ![Java](https://img.shields.io/badge/-Java-orange)
+  Debloat any Android or Google TV over Wi-Fi and get an Apple TV-style home.
+
+- **[google-research/harness2](https://github.com/google-research/harness2)** ⭐ 16,900
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  None
 
 ## 🚀 Latest Releases
 
@@ -489,19 +488,19 @@ This is a security release.
 
 | Skill | Status |
 |-------|--------|
-| Java | 🟢 Proficient |
-| Python | 🟡 Learning |
-| JavaScript | 🟢 Proficient |
-| TypeScript | 🟢 Proficient |
-| Go | 🟢 Proficient |
+| Java | 🟡 Learning |
+| Python | ⚪ Planned |
+| JavaScript | 🟡 Learning |
+| TypeScript | ⚪ Planned |
+| Go | 🔴 Beginner |
 
 ### Frameworks
 
 | Skill | Status |
 |-------|--------|
-| React | 🔴 Beginner |
+| React | 🟡 Learning |
 | Spring Boot | 🟡 Learning |
-| Django | ⚪ Planned |
+| Django | 🔴 Beginner |
 | Node.js | 🟡 Learning |
 | Next.js | ⚪ Planned |
 
@@ -510,37 +509,37 @@ This is a security release.
 | Skill | Status |
 |-------|--------|
 | Penetration Testing | 🟢 Proficient |
-| Web Security | ⚪ Planned |
-| Network Security | 🟢 Proficient |
-| OWASP | 🟢 Proficient |
+| Web Security | 🔴 Beginner |
+| Network Security | 🟡 Learning |
+| OWASP | ⚪ Planned |
 
 ### Ai Ml
 
 | Skill | Status |
 |-------|--------|
-| Machine Learning | 🔴 Beginner |
-| Deep Learning | 🟡 Learning |
+| Machine Learning | ⚪ Planned |
+| Deep Learning | ⚪ Planned |
 | NLP | ⚪ Planned |
 | Computer Vision | 🔴 Beginner |
 | TensorFlow | 🔴 Beginner |
-| PyTorch | 🟢 Proficient |
+| PyTorch | 🟡 Learning |
 
 ### Devops
 
 | Skill | Status |
 |-------|--------|
-| Docker | ⚪ Planned |
-| Kubernetes | 🔴 Beginner |
-| CI/CD | 🟡 Learning |
+| Docker | 🔴 Beginner |
+| Kubernetes | 🟢 Proficient |
+| CI/CD | 🔴 Beginner |
 | AWS | ⚪ Planned |
-| Azure | 🟢 Proficient |
+| Azure | 🟡 Learning |
 
 ### Other
 
 | Skill | Status |
 |-------|--------|
-| Blockchain | 🟢 Proficient |
-| Web3 | 🔴 Beginner |
+| Blockchain | 🟡 Learning |
+| Web3 | 🟡 Learning |
 | Cloud Computing | 🔴 Beginner |
 
 </details>
