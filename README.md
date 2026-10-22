@@ -20,7 +20,7 @@
 | Metric | Count |
 |--------|-------|
 | 📰 Latest News Articles | 26 |
-| 🔥 Trending Repositories | 45 |
+| 🔥 Trending Repositories | 0 |
 | 🎯 Latest Releases | 10 |
 | 🎯 Learning Goals | 4 |
 
@@ -46,188 +46,86 @@
 
 ### 📑 Hacker News
 
-- **[Faster than earcut: triangulating 3.7M map polygons in 489 ms](https://globus.software/blog/2026/10/16/cutting-map-polygons/)**
-  *<p>Article URL: <a href="https://globus.software/blog/2026/10/16/cutting-map-polygons/">https://globus.software/blog/2026/10/16/cutting-map-polygons/</a></p>
-<p>Comments URL: <a href="https://news.yco...*
-  📅 Thu, 22 Oct 2026 09:31:18 +0000
+- **[Google cleared 300 hectares of Finnish forest](https://www.techspot.com/news/114100-google-cleared-300-hectares-finnish-forest-data-center.html)**
+  *<p>Article URL: <a href="https://www.techspot.com/news/114100-google-cleared-300-hectares-finnish-forest-data-center.html">https://www.techspot.com/news/114100-google-cleared-300-hectares-finnish-fore...*
+  📅 Thu, 22 Oct 2026 15:32:46 +0000
 
-- **[CVE-2026-111943: Compromised Intermediate Certificate Authority](https://nvd.nist.gov/vuln/detail/cve-2026-111943)**
-  *<p>Article URL: <a href="https://nvd.nist.gov/vuln/detail/cve-2026-111943">https://nvd.nist.gov/vuln/detail/cve-2026-111943</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50192...*
-  📅 Thu, 22 Oct 2026 08:51:31 +0000
+- **[Show HN: Run full iOS 16.5 firmware on Android Devices](https://github.com/oosexgang/hackios-xnu-kernel)**
+  *<p>Article URL: <a href="https://github.com/oosexgang/hackios-xnu-kernel">https://github.com/oosexgang/hackios-xnu-kernel</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=5019671...*
+  📅 Thu, 22 Oct 2026 15:26:22 +0000
 
-- **[Achieving AI-style reasoning without an LLM](https://fleetingswallow.com/minotaur-ai-deep-dive-achieving-reasoning-without-a-language-model/)**
-  *<p>Article URL: <a href="https://fleetingswallow.com/minotaur-ai-deep-dive-achieving-reasoning-without-a-language-model/">https://fleetingswallow.com/minotaur-ai-deep-dive-achieving-reasoning-without-...*
-  📅 Thu, 22 Oct 2026 08:46:58 +0000
+- **[Quad9 (DNS Resolver) to Exit France](https://quad9.net/news/blog/au-revoir-france/)**
+  *<p>Article URL: <a href="https://quad9.net/news/blog/au-revoir-france/">https://quad9.net/news/blog/au-revoir-france/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50195959">h...*
+  📅 Thu, 22 Oct 2026 14:32:38 +0000
 
-- **[OpenAI CLI](https://github.com/openai/openai-cli)**
-  *<p>Article URL: <a href="https://github.com/openai/openai-cli">https://github.com/openai/openai-cli</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50191507">https://news.ycombi...*
-  📅 Thu, 22 Oct 2026 05:23:11 +0000
+- **[MPs moving to restrict gambling ads in Canada amid mounting harms](https://www.cbc.ca/news/investigates/gambling-ads-restrictions-canada-9.7388888)**
+  *<p>Article URL: <a href="https://www.cbc.ca/news/investigates/gambling-ads-restrictions-canada-9.7388888">https://www.cbc.ca/news/investigates/gambling-ads-restrictions-canada-9.7388888</a></p>
+<p>Com...*
+  📅 Thu, 22 Oct 2026 14:26:40 +0000
 
-- **[The recently proposed o(n log n) integer multiplication algorithm [pdf]](https://web.maths.unsw.edu.au/~davidharvey/research/subnlogn.pdf)**
-  *<p>Article URL: <a href="https://web.maths.unsw.edu.au/~davidharvey/research/subnlogn.pdf">https://web.maths.unsw.edu.au/~davidharvey/research/subnlogn.pdf</a></p>
-<p>Comments URL: <a href="https://ne...*
-  📅 Thu, 22 Oct 2026 02:30:52 +0000
+- **[What's Getting Pwned](https://pwn.watch/)**
+  *<p>Article URL: <a href="https://pwn.watch/">https://pwn.watch/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50195543">https://news.ycombinator.com/item?id=50195543</a></p>
+<...*
+  📅 Thu, 22 Oct 2026 14:08:12 +0000
 
-- **[WorldTUI: I trained a 360M model to pretend to be a terminal](https://simedw.com/2026/10/21/world-model-terminal/)**
-  *<p>Article URL: <a href="https://simedw.com/2026/10/21/world-model-terminal/">https://simedw.com/2026/10/21/world-model-terminal/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id...*
-  📅 Thu, 22 Oct 2026 02:18:41 +0000
+- **[eMudhra to Exit Global SSL/TLS Certificate Business](https://emudhra.com/en/press-release/emudhra-to-exit-global-ssl-tls-certificate-business)**
+  *<p>Article URL: <a href="https://emudhra.com/en/press-release/emudhra-to-exit-global-ssl-tls-certificate-business">https://emudhra.com/en/press-release/emudhra-to-exit-global-ssl-tls-certificate-busin...*
+  📅 Thu, 22 Oct 2026 13:33:39 +0000
 
 ### 📑 TechCrunch
 
-- **[Tesla says it will start selling Cybercabs by end of year](https://techcrunch.com/2026/10/21/tesla-says-it-will-start-selling-cybercabs-by-end-of-year/)**
-  *Tesla said Wednesday it will start selling its Cybercab to customers by the end of the year, even as federal regulators investigate whether the vehicle meets vehicle safety standards. The gold-hued, a...*
-  📅 Thu, 22 Oct 2026 00:17:54 +0000
+- **[TechCrunch Disrupt 2026 Startup Battlefield 200: Celebrating outstanding achievements](https://techcrunch.com/2026/10/22/techcrunch-disrupt-2026-startup-battlefield-200-celebrating-outstanding-achievements/)**
+  *Among the Startup Battlefield 200 were many industry-defining companies exhibiting and pitching on the Showcase Stage. Here are the standouts....*
+  📅 Thu, 22 Oct 2026 16:00:00 +0000
 
-- **[Blackstone’s Jas Khaira says fears over AI-buildout debt are overblown](https://techcrunch.com/2026/10/21/blackstones-jas-khaira-says-fears-over-ai-buildout-debt-are-overblown/)**
-  *Blackstone’s AI head on why the PE giant isn't panicked by market jitters....*
-  📅 Wed, 21 Oct 2026 22:51:22 +0000
+- **[Uber puts all 30,000 employees on ChatGPT Work](https://techcrunch.com/2026/10/22/uber-puts-all-30000-employees-on-chatgpt-work/)**
+  *The ride share giant previously deployed a much smaller pilot for ChatGPT Work, but is now taking the enterprise agent company-wide....*
+  📅 Thu, 22 Oct 2026 16:00:00 +0000
 
-- **[Meta wants to pay for its broad AI buildout with a newly created class of stock](https://techcrunch.com/2026/10/21/meta-wants-to-pay-for-its-broad-ai-buildout-with-a-newly-created-class-of-stock/)**
-  *The social media giant is planning a new stock strategy to help power its broad investments in AI models and services....*
-  📅 Wed, 21 Oct 2026 22:45:34 +0000
+- **[Tesla is prepping a Cybercab onslaught](https://techcrunch.com/2026/10/22/tesla-is-prepping-a-cybercab-onslaught/)**
+  *The company is looking to roll the gold two-seater robotaxis out to other U.S. cities this year, even as it goes mum on the number of paid rides....*
+  📅 Thu, 22 Oct 2026 15:44:39 +0000
 
-- **[Airbnb limits chores for guests, sparking backlash from hosts](https://techcrunch.com/2026/10/21/airbnb-limits-chores-for-guests-sparking-backlash-from-hosts/)**
-  *Hosts are threatening to leave the platform after Airbnb says that they can no longer require guests to strip beds or do other time-consuming cleaning chores....*
-  📅 Wed, 21 Oct 2026 22:16:05 +0000
+- **[Spotify confirms Family Plan crackdown, but calls it a ‘routine improvement’](https://techcrunch.com/2026/10/22/spotify-confirms-family-plan-crackdown-but-calls-it-a-routine-improvement/)**
+  *Spotify told investors its roll out of QR code verification to ensure Family Plan members live in the same household is not a "crackdown," just a routine improvement....*
+  📅 Thu, 22 Oct 2026 15:24:32 +0000
 
-- **[TechCrunch Founder Summit 2026: Everything you need to know](https://techcrunch.com/2026/10/21/techcrunch-founder-summit-2026-everything-you-need-to-know/)**
-  *TechCrunch Founder Summit is a full-day gathering in Boston on November 4 where founders across all stages connect with top VCs and experienced entrepreneurs to gain tactical insights on building and ...*
-  📅 Wed, 21 Oct 2026 21:16:20 +0000
+- **[Investors break down how founders can raise a Series A today](https://techcrunch.com/2026/10/22/investors-break-down-how-founders-can-raise-a-series-a-today/)**
+  *Raising a Series A these days isn't so simple — top investors break down what founders need to know now....*
+  📅 Thu, 22 Oct 2026 15:15:00 +0000
 
-- **[Meta says Muse has over 10M users, with shopping a top activity](https://techcrunch.com/2026/10/21/meta-says-muse-has-over-10m-users-with-shopping-a-top-activity/)**
-  *Meta Muse users are adopting the app for shopping and personal productivity, the company said during its Q3 earnings call. The AI app now has over 10M users....*
-  📅 Wed, 21 Oct 2026 21:14:19 +0000
+- **[Spotify’s current AI bet is about being the music service that agents choose](https://techcrunch.com/2026/10/22/spotifys-current-ai-bet-is-about-being-the-music-service-that-agents-choose/)**
+  *Spotify co-CEO Gustav Söderström explains why the rise of AI agents could be good news for the music service....*
+  📅 Thu, 22 Oct 2026 15:03:58 +0000
 
 ### 📑 Dev.to
 
-- **[SlothMate AI: An Open-Source, Local-First AI Study Assistant for Smarter and Effortless Learning](https://dev.to/ayush_singh_bb598bb4fecad/slothmate-ai-an-open-source-local-first-ai-study-assistant-for-smarter-and-effortless-learning-2e97)**
-  *<h1>
-  
-  
-  SlothMate AI: Your Lazy Study Assistant — Open-Source AI for Smarter Learning
-</h1>
-
-<p>This is my submission for the <strong>Hacktoberfest Open-Source AI Challenge Week 3: Slow and Stead...*
-  📅 Thu, 22 Oct 2026 10:48:08 +0000
-
-- **[No More Clicking: Moving My AWS Architecture to Terraform](https://dev.to/knirl/no-more-clicking-moving-my-aws-architecture-to-terraform-1aek)**
+- **[LIC Plan Comparison Tool: FastAPI & React Workflow](https://dev.to/sumaninster/lic-plan-comparison-tool-fastapi-react-workflow-9op)**
   *<h2>
   
   
-  What I am trying to solve?
+  Problem
 </h2>
 
-<p>We can build cloud architectures by clicking through a console. Yes, that works, but only once. It leaves you something that is difficult to review, r...*
-  📅 Thu, 22 Oct 2026 10:47:07 +0000
+<p>LIC agents in India often juggle dozens of plans while presenting them to clients. The traditional approach—static PDFs or spreadsheets—leads to duplicated effort, stale...*
+  📅 Thu, 22 Oct 2026 16:16:18 +0000
+
+- **[Send Contracts via WhatsApp with DoAide Contract Generator](https://dev.to/sumaninster/send-contracts-via-whatsapp-with-doaide-contract-generator-53p4)**
+  *<h2>
+  
+  
+  Problem
+</h2>
+
+<p>Indian SMB owners, freelancers, and startups often need to share newly generated contracts—NDAs, employment contracts, service agreements—quickly with clients or partner...*
+  📅 Thu, 22 Oct 2026 16:16:17 +0000
 
 </details>
 
 ## 🔥 Trending Repositories
-
-### 📈 Daily Trending
-
-- **[Acelogic/Snapintosh](https://github.com/Acelogic/Snapintosh)** ⭐ 281
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  EL2 hypervisor and toolchain that boots macOS on the ASUS A16 (Snapdragon X2 Elite), with an Adreno Metal/IOGPU stack
-
-- **[oosexgang/hackios-xnu-kernel](https://github.com/oosexgang/hackios-xnu-kernel)** ⭐ 143
-  ![C](https://img.shields.io/badge/-C-lightgrey)
-  None
-
-- **[oosexgang/hackios-xnu-userland](https://github.com/oosexgang/hackios-xnu-userland)** ⭐ 108
-  ![C](https://img.shields.io/badge/-C-lightgrey)
-  None
-
-- **[assetnote/php2shell-scanner](https://github.com/assetnote/php2shell-scanner)** ⭐ 104
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  High fidelity scanner for php2shell (CVE-2026-109618 and CVE-2026-109619)
-
-- **[rossark0/rossark-motion-skill](https://github.com/rossark0/rossark-motion-skill)** ⭐ 67
-  ![Swift](https://img.shields.io/badge/-Swift-lightgrey)
-  Turn any SVG into a professional 60 fps animation. A Claude Code skill that brings anything drawn to life: live faces, full-body acting and whole scenes, in React Native and SwiftUI.
-
-- **[jwuthri-cloud/Scribely](https://github.com/jwuthri-cloud/Scribely)** ⭐ 42
-  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
-  AI chat app with unified access to 500+ LLMs via OpenRouter, Clerk auth and a terminal-style interface.
-
-- **[aimeoa/hanshuang-inject-tool](https://github.com/aimeoa/hanshuang-inject-tool)** ⭐ 28
-  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
-  本地网关提示词注入工具
-
-- **[Qsnh/php2shell-fixed](https://github.com/Qsnh/php2shell-fixed)** ⭐ 27
-  ![Shell](https://img.shields.io/badge/-Shell-lightgrey)
-  宝塔面板（BT Panel）上已停止维护的 PHP 版本（5.4 – 8.1）的 PHP2Shell（CVE-2026-109618 / CVE-2026-109619）修复包。仓库里有打好补丁的源码包，以及一键完成编译、替换、回滚的脚本。
-
-### 📈 Weekly Trending
-
-- **[Gathin23/cleanyourtv](https://github.com/Gathin23/cleanyourtv)** ⭐ 21,715
-  ![Java](https://img.shields.io/badge/-Java-orange)
-  Debloat any Android or Google TV over Wi-Fi and get an Apple TV-style home.
-
-- **[deepseek-ai/DeepInfer](https://github.com/deepseek-ai/DeepInfer)** ⭐ 19,117
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  DeepInfer: High-performance, large-scale inference framework for DeepSeek models
-
-- **[ly05010419/MacNativeGames](https://github.com/ly05010419/MacNativeGames)** ⭐ 4,238
-  ![C](https://img.shields.io/badge/-C-lightgrey)
-  None
-
-- **[simbasjungles/free-my-tv](https://github.com/simbasjungles/free-my-tv)** ⭐ 3,000
-  ![Java](https://img.shields.io/badge/-Java-orange)
-  A fast, ad-free home screen for Google TV. Open source, built with Claude Code. One button to undo.
-
-- **[pengchujin/aerial-tv](https://github.com/pengchujin/aerial-tv)** ⭐ 2,750
-  ![Kotlin](https://img.shields.io/badge/-Kotlin-lightgrey)
-  给国产电视的一块干净桌面：参照 tvOS 设计的开源 Android TV 桌面，没有广告，开机自动接管。A tvOS-style launcher for Xiaomi, TCL and other China-market TVs.
-
-- **[xiaoyang111222/cn-math-taxonomy](https://github.com/xiaoyang111222/cn-math-taxonomy)** ⭐ 2,126
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  中小学知识图谱 + 前置诊断：数学（一–九年级、高中必修与选择性必修）+ 英语（小学、初中、高中），课标对齐、人教版，1552 知识点、6355 题、自适应诊断
-
-- **[tek-sys-hub/Rubix-lang](https://github.com/tek-sys-hub/Rubix-lang)** ⭐ 1,897
-  ![Assembly](https://img.shields.io/badge/-Assembly-lightgrey)
-  The 100% Pure x86-64 Assembly Systems Language
-
-- **[JoasASantos/REA-Prompts](https://github.com/JoasASantos/REA-Prompts)** ⭐ 1,413
-  ![None](https://img.shields.io/badge/-None-lightgrey)
-  REAP - Prompts for you to use REA (Reverse Engineer Anything), get the most out of it, and clone or break down any program
-
-### 📈 Monthly Trending
-
-- **[storytold/photocraft](https://github.com/storytold/photocraft)** ⭐ 70,960
-  ![Rust](https://img.shields.io/badge/-Rust-brown)
-  PhotoCraft: An open-source, photo editor written by scratch in pure Rust
-
-- **[Ebony-Vinyl/dsh-our-free-model](https://github.com/Ebony-Vinyl/dsh-our-free-model)** ⭐ 35,635
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
-  在 dsh 里装上这个插件即可，无需登录、注册或填 API Key，就能使用包括 DeepSeek V4.1 Flash、Kimi K3 在内的前沿模型——完全免费，不限量。 All you do is install this plugin in dsh: no login, no sign-up, no API key — the frontier models are just there, DeepSeek V4.1 Flash and Kimi K3 among them. Completely free, with no usage cap.
-
-- **[Niko1221/Strata](https://github.com/Niko1221/Strata)** ⭐ 30,249
-  ![C++](https://img.shields.io/badge/-C++-pink)
-  Qwen3.8-Flash-Next on any consumer hardware: one-click install for Windows / Linux. Strata inference engine, OpenAI/Anthropic API on localhost, optional image input.
-
-- **[Gathin23/cleanyourtv](https://github.com/Gathin23/cleanyourtv)** ⭐ 21,715
-  ![Java](https://img.shields.io/badge/-Java-orange)
-  Debloat any Android or Google TV over Wi-Fi and get an Apple TV-style home.
-
-- **[yetone/magpie](https://github.com/yetone/magpie)** ⭐ 19,302
-  ![Go](https://img.shields.io/badge/-Go-cyan)
-  Every agent's model. One place. Codex on DeepSeek, Claude Code on Kimi, from the menu bar.
-
-- **[deepseek-ai/DeepInfer](https://github.com/deepseek-ai/DeepInfer)** ⭐ 19,117
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  DeepInfer: High-performance, large-scale inference framework for DeepSeek models
-
-- **[wheresryan22/anatomy](https://github.com/wheresryan22/anatomy)** ⭐ 18,836
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
-  An agent skill for creating detailed, interactive isometric illustrations of real-world machines and complex systems. Generates polished SVGs with optional WebGL shaders and 3D effects.
-
-- **[google-research/harness2](https://github.com/google-research/harness2)** ⭐ 17,631
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  None
 
 ## 🚀 Latest Releases
 
@@ -236,11 +134,11 @@
 
 ### 📦 microsoft/vscode
 
-**[1.142.0](https://github.com/microsoft/vscode/releases/tag/1.142.0)** `1.142.0`
+**[1.143.0](https://github.com/microsoft/vscode/releases/tag/1.143.0)** `1.143.0`
 
-📅 Released: October 14, 2026
+📅 Released: October 22, 2026
 
-https://code.visualstudio.com/updates/v1_142...
+https://code.visualstudio.com/updates/v1_143...
 
 ---
 
@@ -495,59 +393,59 @@ This is a security release.
 
 | Skill | Status |
 |-------|--------|
-| Java | 🔴 Beginner |
-| Python | 🟡 Learning |
-| JavaScript | 🔴 Beginner |
-| TypeScript | 🟡 Learning |
-| Go | 🟡 Learning |
+| Java | 🟡 Learning |
+| Python | ⚪ Planned |
+| JavaScript | ⚪ Planned |
+| TypeScript | 🔴 Beginner |
+| Go | ⚪ Planned |
 
 ### Frameworks
 
 | Skill | Status |
 |-------|--------|
-| React | 🟡 Learning |
-| Spring Boot | ⚪ Planned |
+| React | ⚪ Planned |
+| Spring Boot | 🟡 Learning |
 | Django | 🟡 Learning |
-| Node.js | 🟢 Proficient |
-| Next.js | 🔴 Beginner |
+| Node.js | 🔴 Beginner |
+| Next.js | 🟡 Learning |
 
 ### Cybersecurity
 
 | Skill | Status |
 |-------|--------|
 | Penetration Testing | 🟢 Proficient |
-| Web Security | 🟢 Proficient |
-| Network Security | 🔴 Beginner |
+| Web Security | 🟡 Learning |
+| Network Security | 🟢 Proficient |
 | OWASP | 🟡 Learning |
 
 ### Ai Ml
 
 | Skill | Status |
 |-------|--------|
-| Machine Learning | ⚪ Planned |
-| Deep Learning | 🟢 Proficient |
-| NLP | 🔴 Beginner |
+| Machine Learning | 🔴 Beginner |
+| Deep Learning | ⚪ Planned |
+| NLP | 🟡 Learning |
 | Computer Vision | 🟢 Proficient |
-| TensorFlow | 🔴 Beginner |
-| PyTorch | 🟡 Learning |
+| TensorFlow | ⚪ Planned |
+| PyTorch | ⚪ Planned |
 
 ### Devops
 
 | Skill | Status |
 |-------|--------|
-| Docker | ⚪ Planned |
-| Kubernetes | 🔴 Beginner |
+| Docker | 🟡 Learning |
+| Kubernetes | ⚪ Planned |
 | CI/CD | 🟢 Proficient |
-| AWS | 🟡 Learning |
-| Azure | 🟡 Learning |
+| AWS | 🟢 Proficient |
+| Azure | ⚪ Planned |
 
 ### Other
 
 | Skill | Status |
 |-------|--------|
-| Blockchain | 🔴 Beginner |
+| Blockchain | 🟢 Proficient |
 | Web3 | ⚪ Planned |
-| Cloud Computing | 🔴 Beginner |
+| Cloud Computing | ⚪ Planned |
 
 </details>
 
