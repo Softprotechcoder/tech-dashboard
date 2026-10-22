@@ -46,33 +46,34 @@
 
 ### 📑 Hacker News
 
-- **[LLM Agents Play Pokemon Showdown](https://olivergrabner.com/research/pokemon/)**
-  *<p>Article URL: <a href="https://olivergrabner.com/research/pokemon/">https://olivergrabner.com/research/pokemon/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50190334">https...*
-  📅 Thu, 22 Oct 2026 02:13:48 +0000
+- **[Faster than earcut: triangulating 3.7M map polygons in 489 ms](https://globus.software/blog/2026/10/16/cutting-map-polygons/)**
+  *<p>Article URL: <a href="https://globus.software/blog/2026/10/16/cutting-map-polygons/">https://globus.software/blog/2026/10/16/cutting-map-polygons/</a></p>
+<p>Comments URL: <a href="https://news.yco...*
+  📅 Thu, 22 Oct 2026 09:31:18 +0000
 
-- **[The era of speedball capitalism](https://www.economist.com/business/2026/09/30/the-era-of-speedball-capitalism-has-dawned)**
-  *<p>Article URL: <a href="https://www.economist.com/business/2026/09/30/the-era-of-speedball-capitalism-has-dawned">https://www.economist.com/business/2026/09/30/the-era-of-speedball-capitalism-has-daw...*
-  📅 Thu, 22 Oct 2026 00:48:10 +0000
+- **[CVE-2026-111943: Compromised Intermediate Certificate Authority](https://nvd.nist.gov/vuln/detail/cve-2026-111943)**
+  *<p>Article URL: <a href="https://nvd.nist.gov/vuln/detail/cve-2026-111943">https://nvd.nist.gov/vuln/detail/cve-2026-111943</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50192...*
+  📅 Thu, 22 Oct 2026 08:51:31 +0000
 
-- **[When Do We Become the Person We Ought to Be?](https://www.graphsaboutreligion.com/p/when-do-we-become-the-person-we-ought)**
-  *<p>Article URL: <a href="https://www.graphsaboutreligion.com/p/when-do-we-become-the-person-we-ought">https://www.graphsaboutreligion.com/p/when-do-we-become-the-person-we-ought</a></p>
-<p>Comments UR...*
-  📅 Wed, 21 Oct 2026 23:57:41 +0000
+- **[Achieving AI-style reasoning without an LLM](https://fleetingswallow.com/minotaur-ai-deep-dive-achieving-reasoning-without-a-language-model/)**
+  *<p>Article URL: <a href="https://fleetingswallow.com/minotaur-ai-deep-dive-achieving-reasoning-without-a-language-model/">https://fleetingswallow.com/minotaur-ai-deep-dive-achieving-reasoning-without-...*
+  📅 Thu, 22 Oct 2026 08:46:58 +0000
 
-- **[mitmproxy adds --emudhra option](https://github.com/mitmproxy/mitmproxy/commit/169234499088fc2c414644a67efaed3d64ae2e3b)**
-  *<p>Article URL: <a href="https://github.com/mitmproxy/mitmproxy/commit/169234499088fc2c414644a67efaed3d64ae2e3b">https://github.com/mitmproxy/mitmproxy/commit/169234499088fc2c414644a67efaed3d64ae2e3b<...*
-  📅 Wed, 21 Oct 2026 23:51:37 +0000
+- **[OpenAI CLI](https://github.com/openai/openai-cli)**
+  *<p>Article URL: <a href="https://github.com/openai/openai-cli">https://github.com/openai/openai-cli</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50191507">https://news.ycombi...*
+  📅 Thu, 22 Oct 2026 05:23:11 +0000
 
-- **[Airbnb bans making guests do dishes and take out the trash](https://www.theverge.com/tech/1015844/airbnb-chores-house-rules-update)**
-  *<p>Article URL: <a href="https://www.theverge.com/tech/1015844/airbnb-chores-house-rules-update">https://www.theverge.com/tech/1015844/airbnb-chores-house-rules-update</a></p>
-<p>Comments URL: <a href...*
-  📅 Wed, 21 Oct 2026 23:38:32 +0000
+- **[The recently proposed o(n log n) integer multiplication algorithm [pdf]](https://web.maths.unsw.edu.au/~davidharvey/research/subnlogn.pdf)**
+  *<p>Article URL: <a href="https://web.maths.unsw.edu.au/~davidharvey/research/subnlogn.pdf">https://web.maths.unsw.edu.au/~davidharvey/research/subnlogn.pdf</a></p>
+<p>Comments URL: <a href="https://ne...*
+  📅 Thu, 22 Oct 2026 02:30:52 +0000
 
-- **[Κ = 0.003 for integer multiplication crossed](https://github.com/CrocSwap/integer-mult-bounds/pull/4441)**
-  *<p>Article URL: <a href="https://github.com/CrocSwap/integer-mult-bounds/pull/4441">https://github.com/CrocSwap/integer-mult-bounds/pull/4441</a></p>
-<p>Comments URL: <a href="https://news.ycombinator...*
-  📅 Wed, 21 Oct 2026 23:22:21 +0000
+- **[WorldTUI: I trained a 360M model to pretend to be a terminal](https://simedw.com/2026/10/21/world-model-terminal/)**
+  *<p>Article URL: <a href="https://simedw.com/2026/10/21/world-model-terminal/">https://simedw.com/2026/10/21/world-model-terminal/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id...*
+  📅 Thu, 22 Oct 2026 02:18:41 +0000
 
 ### 📑 TechCrunch
 
@@ -97,18 +98,30 @@
   📅 Wed, 21 Oct 2026 21:16:20 +0000
 
 - **[Meta says Muse has over 10M users, with shopping a top activity](https://techcrunch.com/2026/10/21/meta-says-muse-has-over-10m-users-with-shopping-a-top-activity/)**
-  *Meta Muse users are adopting the app for shopping and personal productivity, the company said during Q3 earnings. The AI app now has over 10M users....*
+  *Meta Muse users are adopting the app for shopping and personal productivity, the company said during its Q3 earnings call. The AI app now has over 10M users....*
   📅 Wed, 21 Oct 2026 21:14:19 +0000
 
 ### 📑 Dev.to
 
-- **[Google Cloud Now Sells OpenAI's GPT Models](https://dev.to/976905690/google-cloud-now-sells-openais-gpt-models-4c7n)**
-  *<p><a class="article-body-image-wrapper" href="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws...*
-  📅 Thu, 22 Oct 2026 02:30:22 +0000
+- **[SlothMate AI: An Open-Source, Local-First AI Study Assistant for Smarter and Effortless Learning](https://dev.to/ayush_singh_bb598bb4fecad/slothmate-ai-an-open-source-local-first-ai-study-assistant-for-smarter-and-effortless-learning-2e97)**
+  *<h1>
+  
+  
+  SlothMate AI: Your Lazy Study Assistant — Open-Source AI for Smarter Learning
+</h1>
 
-- **[AI Automation Using Node.js: Build Intelligent Workflows with JavaScript](https://dev.to/ansh_sheladiya/ai-automation-using-nodejs-build-intelligent-workflows-with-javascript-19h8)**
-  *<p>AI automation is changing how developers build software, manage repetitive tasks, and deliver better user experiences. Instead of writing separate rules for every possible scenario, developers can ...*
-  📅 Thu, 22 Oct 2026 02:30:00 +0000
+<p>This is my submission for the <strong>Hacktoberfest Open-Source AI Challenge Week 3: Slow and Stead...*
+  📅 Thu, 22 Oct 2026 10:48:08 +0000
+
+- **[No More Clicking: Moving My AWS Architecture to Terraform](https://dev.to/knirl/no-more-clicking-moving-my-aws-architecture-to-terraform-1aek)**
+  *<h2>
+  
+  
+  What I am trying to solve?
+</h2>
+
+<p>We can build cloud architectures by clicking through a console. Yes, that works, but only once. It leaves you something that is difficult to review, r...*
+  📅 Thu, 22 Oct 2026 10:47:07 +0000
 
 </details>
 
@@ -116,103 +129,103 @@
 
 ### 📈 Daily Trending
 
-- **[yanstd888/node2mint](https://github.com/yanstd888/node2mint)** ⭐ 7
-  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
-  Self-hosted AI marketplace, token billing engine, and OpenAI-compatible API gateway with atomic balances, provider failover, and affiliate commission system.
+- **[Acelogic/Snapintosh](https://github.com/Acelogic/Snapintosh)** ⭐ 281
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  EL2 hypervisor and toolchain that boots macOS on the ASUS A16 (Snapdragon X2 Elite), with an Adreno Metal/IOGPU stack
 
-- **[Nov2us/Nov2us-Comsen-calculator](https://github.com/Nov2us/Nov2us-Comsen-calculator)** ⭐ 3
+- **[oosexgang/hackios-xnu-kernel](https://github.com/oosexgang/hackios-xnu-kernel)** ⭐ 143
   ![C](https://img.shields.io/badge/-C-lightgrey)
   None
 
-- **[Tom123223/maimen-xinshi](https://github.com/Tom123223/maimen-xinshi)** ⭐ 3
-  ![HTML](https://img.shields.io/badge/-HTML-lightgrey)
-  麦门心事：把一句心事读成一顿麦当劳，再让三个陌生人决定这顿吃不吃。基于麦当劳中国 MCP 的 Skill + 零依赖单文件演示页。
-
-- **[biyan113/magpie-widget](https://github.com/biyan113/magpie-widget)** ⭐ 3
-  ![Swift](https://img.shields.io/badge/-Swift-lightgrey)
-  原生 macOS AI 用量仪表盘与桌面小组件。只读连接 Magpie。
-
-- **[albertoqueiroz333-cyber/rockstar-stats](https://github.com/albertoqueiroz333-cyber/rockstar-stats)** ⭐ 3
-  ![HTML](https://img.shields.io/badge/-HTML-lightgrey)
-  O Rockstar-Stats é uma aplicação web desenvolvida para coletar e exibir estatísticas de jogadores do ecossistema GTA. O projeto consiste em uma pesquisa realizada através da inserção de dados via formulário no site do projeto, armazenando e processando essas informações de forma persistente.
-
-- **[Funkapppeee/liberty](https://github.com/Funkapppeee/liberty)** ⭐ 3
-  ![Rust](https://img.shields.io/badge/-Rust-brown)
-  Liberty: a from-scratch engine that loads your own copy of GTA IV
-
-- **[haohervchb/Turing-unlock](https://github.com/haohervchb/Turing-unlock)** ⭐ 2
+- **[oosexgang/hackios-xnu-userland](https://github.com/oosexgang/hackios-xnu-userland)** ⭐ 108
   ![C](https://img.shields.io/badge/-C-lightgrey)
-  2080ti TU102 doing the unlock trick
+  None
 
-- **[kele-greet/strix-srcguard](https://github.com/kele-greet/strix-srcguard)** ⭐ 2
+- **[assetnote/php2shell-scanner](https://github.com/assetnote/php2shell-scanner)** ⭐ 104
   ![Python](https://img.shields.io/badge/-Python-blue)
-  Compliance-first SRC/bug-bounty harness for Strix: nftables scope cage, LLM gateway with policy injection & hard budget, Caido evidence audit. Zero changes to strix-main.
+  High fidelity scanner for php2shell (CVE-2026-109618 and CVE-2026-109619)
+
+- **[rossark0/rossark-motion-skill](https://github.com/rossark0/rossark-motion-skill)** ⭐ 67
+  ![Swift](https://img.shields.io/badge/-Swift-lightgrey)
+  Turn any SVG into a professional 60 fps animation. A Claude Code skill that brings anything drawn to life: live faces, full-body acting and whole scenes, in React Native and SwiftUI.
+
+- **[jwuthri-cloud/Scribely](https://github.com/jwuthri-cloud/Scribely)** ⭐ 42
+  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
+  AI chat app with unified access to 500+ LLMs via OpenRouter, Clerk auth and a terminal-style interface.
+
+- **[aimeoa/hanshuang-inject-tool](https://github.com/aimeoa/hanshuang-inject-tool)** ⭐ 28
+  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
+  本地网关提示词注入工具
+
+- **[Qsnh/php2shell-fixed](https://github.com/Qsnh/php2shell-fixed)** ⭐ 27
+  ![Shell](https://img.shields.io/badge/-Shell-lightgrey)
+  宝塔面板（BT Panel）上已停止维护的 PHP 版本（5.4 – 8.1）的 PHP2Shell（CVE-2026-109618 / CVE-2026-109619）修复包。仓库里有打好补丁的源码包，以及一键完成编译、替换、回滚的脚本。
 
 ### 📈 Weekly Trending
 
-- **[Gathin23/cleanyourtv](https://github.com/Gathin23/cleanyourtv)** ⭐ 19,682
+- **[Gathin23/cleanyourtv](https://github.com/Gathin23/cleanyourtv)** ⭐ 21,715
   ![Java](https://img.shields.io/badge/-Java-orange)
   Debloat any Android or Google TV over Wi-Fi and get an Apple TV-style home.
 
-- **[deepseek-ai/DeepInfer](https://github.com/deepseek-ai/DeepInfer)** ⭐ 18,166
+- **[deepseek-ai/DeepInfer](https://github.com/deepseek-ai/DeepInfer)** ⭐ 19,117
   ![Python](https://img.shields.io/badge/-Python-blue)
   DeepInfer: High-performance, large-scale inference framework for DeepSeek models
 
-- **[ly05010419/MacNativeGames](https://github.com/ly05010419/MacNativeGames)** ⭐ 3,935
+- **[ly05010419/MacNativeGames](https://github.com/ly05010419/MacNativeGames)** ⭐ 4,238
   ![C](https://img.shields.io/badge/-C-lightgrey)
   None
 
-- **[simbasjungles/free-my-tv](https://github.com/simbasjungles/free-my-tv)** ⭐ 2,777
+- **[simbasjungles/free-my-tv](https://github.com/simbasjungles/free-my-tv)** ⭐ 3,000
   ![Java](https://img.shields.io/badge/-Java-orange)
   A fast, ad-free home screen for Google TV. Open source, built with Claude Code. One button to undo.
 
-- **[pengchujin/aerial-tv](https://github.com/pengchujin/aerial-tv)** ⭐ 2,228
+- **[pengchujin/aerial-tv](https://github.com/pengchujin/aerial-tv)** ⭐ 2,750
   ![Kotlin](https://img.shields.io/badge/-Kotlin-lightgrey)
   给国产电视的一块干净桌面：参照 tvOS 设计的开源 Android TV 桌面，没有广告，开机自动接管。A tvOS-style launcher for Xiaomi, TCL and other China-market TVs.
 
-- **[xiaoyang111222/cn-math-taxonomy](https://github.com/xiaoyang111222/cn-math-taxonomy)** ⭐ 2,004
+- **[xiaoyang111222/cn-math-taxonomy](https://github.com/xiaoyang111222/cn-math-taxonomy)** ⭐ 2,126
   ![Python](https://img.shields.io/badge/-Python-blue)
-  中小学知识图谱 + 前置诊断：数学（一–九年级、高中必修与选择性必修）+ 英语（小学、初中、高中），课标对齐、人教版，1503 知识点、6159 题、自适应诊断
+  中小学知识图谱 + 前置诊断：数学（一–九年级、高中必修与选择性必修）+ 英语（小学、初中、高中），课标对齐、人教版，1552 知识点、6355 题、自适应诊断
 
-- **[JoasASantos/REA-Prompts](https://github.com/JoasASantos/REA-Prompts)** ⭐ 1,354
+- **[tek-sys-hub/Rubix-lang](https://github.com/tek-sys-hub/Rubix-lang)** ⭐ 1,897
+  ![Assembly](https://img.shields.io/badge/-Assembly-lightgrey)
+  The 100% Pure x86-64 Assembly Systems Language
+
+- **[JoasASantos/REA-Prompts](https://github.com/JoasASantos/REA-Prompts)** ⭐ 1,413
   ![None](https://img.shields.io/badge/-None-lightgrey)
   REAP - Prompts for you to use REA (Reverse Engineer Anything), get the most out of it, and clone or break down any program
 
-- **[OpenMOSS/MOSS-Image](https://github.com/OpenMOSS/MOSS-Image)** ⭐ 1,304
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  Official repository for MOSS-Image, a 5B-parameter base DiT model with high-quality text rendering, layout generation, and efficient fine-tuning.
-
 ### 📈 Monthly Trending
 
-- **[storytold/photocraft](https://github.com/storytold/photocraft)** ⭐ 70,681
+- **[storytold/photocraft](https://github.com/storytold/photocraft)** ⭐ 70,960
   ![Rust](https://img.shields.io/badge/-Rust-brown)
   PhotoCraft: An open-source, photo editor written by scratch in pure Rust
 
-- **[Ebony-Vinyl/dsh-our-free-model](https://github.com/Ebony-Vinyl/dsh-our-free-model)** ⭐ 34,164
+- **[Ebony-Vinyl/dsh-our-free-model](https://github.com/Ebony-Vinyl/dsh-our-free-model)** ⭐ 35,635
   ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
   在 dsh 里装上这个插件即可，无需登录、注册或填 API Key，就能使用包括 DeepSeek V4.1 Flash、Kimi K3 在内的前沿模型——完全免费，不限量。 All you do is install this plugin in dsh: no login, no sign-up, no API key — the frontier models are just there, DeepSeek V4.1 Flash and Kimi K3 among them. Completely free, with no usage cap.
 
-- **[Niko1221/Strata](https://github.com/Niko1221/Strata)** ⭐ 29,984
+- **[Niko1221/Strata](https://github.com/Niko1221/Strata)** ⭐ 30,249
   ![C++](https://img.shields.io/badge/-C++-pink)
   Qwen3.8-Flash-Next on any consumer hardware: one-click install for Windows / Linux. Strata inference engine, OpenAI/Anthropic API on localhost, optional image input.
 
-- **[Gathin23/cleanyourtv](https://github.com/Gathin23/cleanyourtv)** ⭐ 19,683
+- **[Gathin23/cleanyourtv](https://github.com/Gathin23/cleanyourtv)** ⭐ 21,715
   ![Java](https://img.shields.io/badge/-Java-orange)
   Debloat any Android or Google TV over Wi-Fi and get an Apple TV-style home.
 
-- **[yetone/magpie](https://github.com/yetone/magpie)** ⭐ 18,868
+- **[yetone/magpie](https://github.com/yetone/magpie)** ⭐ 19,302
   ![Go](https://img.shields.io/badge/-Go-cyan)
   Every agent's model. One place. Codex on DeepSeek, Claude Code on Kimi, from the menu bar.
 
-- **[wheresryan22/anatomy](https://github.com/wheresryan22/anatomy)** ⭐ 18,596
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
-  An agent skill for creating detailed, interactive isometric illustrations of real-world machines and complex systems. Generates polished SVGs with optional WebGL shaders and 3D effects.
-
-- **[deepseek-ai/DeepInfer](https://github.com/deepseek-ai/DeepInfer)** ⭐ 18,166
+- **[deepseek-ai/DeepInfer](https://github.com/deepseek-ai/DeepInfer)** ⭐ 19,117
   ![Python](https://img.shields.io/badge/-Python-blue)
   DeepInfer: High-performance, large-scale inference framework for DeepSeek models
 
-- **[google-research/harness2](https://github.com/google-research/harness2)** ⭐ 17,284
+- **[wheresryan22/anatomy](https://github.com/wheresryan22/anatomy)** ⭐ 18,836
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
+  An agent skill for creating detailed, interactive isometric illustrations of real-world machines and complex systems. Generates polished SVGs with optional WebGL shaders and 3D effects.
+
+- **[google-research/harness2](https://github.com/google-research/harness2)** ⭐ 17,631
   ![Python](https://img.shields.io/badge/-Python-blue)
   None
 
@@ -483,40 +496,40 @@ This is a security release.
 | Skill | Status |
 |-------|--------|
 | Java | 🔴 Beginner |
-| Python | ⚪ Planned |
-| JavaScript | ⚪ Planned |
-| TypeScript | 🔴 Beginner |
-| Go | ⚪ Planned |
+| Python | 🟡 Learning |
+| JavaScript | 🔴 Beginner |
+| TypeScript | 🟡 Learning |
+| Go | 🟡 Learning |
 
 ### Frameworks
 
 | Skill | Status |
 |-------|--------|
 | React | 🟡 Learning |
-| Spring Boot | 🟡 Learning |
-| Django | 🟢 Proficient |
-| Node.js | 🟡 Learning |
-| Next.js | 🟢 Proficient |
+| Spring Boot | ⚪ Planned |
+| Django | 🟡 Learning |
+| Node.js | 🟢 Proficient |
+| Next.js | 🔴 Beginner |
 
 ### Cybersecurity
 
 | Skill | Status |
 |-------|--------|
-| Penetration Testing | 🔴 Beginner |
-| Web Security | 🔴 Beginner |
-| Network Security | ⚪ Planned |
+| Penetration Testing | 🟢 Proficient |
+| Web Security | 🟢 Proficient |
+| Network Security | 🔴 Beginner |
 | OWASP | 🟡 Learning |
 
 ### Ai Ml
 
 | Skill | Status |
 |-------|--------|
-| Machine Learning | 🟢 Proficient |
+| Machine Learning | ⚪ Planned |
 | Deep Learning | 🟢 Proficient |
-| NLP | 🟡 Learning |
+| NLP | 🔴 Beginner |
 | Computer Vision | 🟢 Proficient |
 | TensorFlow | 🔴 Beginner |
-| PyTorch | 🔴 Beginner |
+| PyTorch | 🟡 Learning |
 
 ### Devops
 
@@ -525,7 +538,7 @@ This is a security release.
 | Docker | ⚪ Planned |
 | Kubernetes | 🔴 Beginner |
 | CI/CD | 🟢 Proficient |
-| AWS | 🟢 Proficient |
+| AWS | 🟡 Learning |
 | Azure | 🟡 Learning |
 
 ### Other
@@ -533,8 +546,8 @@ This is a security release.
 | Skill | Status |
 |-------|--------|
 | Blockchain | 🔴 Beginner |
-| Web3 | 🟢 Proficient |
-| Cloud Computing | 🟡 Learning |
+| Web3 | ⚪ Planned |
+| Cloud Computing | 🔴 Beginner |
 
 </details>
 
