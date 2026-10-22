@@ -7,7 +7,7 @@
 ![AI & ML](https://img.shields.io/badge/-AI%20&%20ML-blue) ![CyberSecurity](https://img.shields.io/badge/-CyberSecurity-red) ![Full Stack Development](https://img.shields.io/badge/-Full%20Stack%20Development-green)
 
 [![Auto Update](https://img.shields.io/badge/Auto%20Update-Enabled-success)](https://github.com/yourusername/tech-dashboard/actions)
-[![Last Updated](https://img.shields.io/badge/Last%20Updated-October 21, 2026-blue)](https://github.com/yourusername/tech-dashboard)
+[![Last Updated](https://img.shields.io/badge/Last%20Updated-October 22, 2026-blue)](https://github.com/yourusername/tech-dashboard)
 
 *Automatically updated every 6 hours with the latest tech news, trending repositories, and learning resources.*
 
@@ -46,75 +46,69 @@
 
 ### 📑 Hacker News
 
-- **[Today's PHP Security Release, and How We're Strengthening PHP Security](https://thephp.foundation/blog/2026/10/21/todays-php-security-release-and-how-were-strengthening-php-security/)**
-  *<p>Article URL: <a href="https://thephp.foundation/blog/2026/10/21/todays-php-security-release-and-how-were-strengthening-php-security/">https://thephp.foundation/blog/2026/10/21/todays-php-security-r...*
-  📅 Wed, 21 Oct 2026 15:48:56 +0000
+- **[LLM Agents Play Pokemon Showdown](https://olivergrabner.com/research/pokemon/)**
+  *<p>Article URL: <a href="https://olivergrabner.com/research/pokemon/">https://olivergrabner.com/research/pokemon/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50190334">https...*
+  📅 Thu, 22 Oct 2026 02:13:48 +0000
 
-- **[Oregon lawmakers approve money to buy an iconic waterfall listed on Redfin](https://apnews.com/article/oregon-waterfall-for-sale-lawmakers-996de63462d49ec3ad9bee1629fb9488)**
-  *<p>Article URL: <a href="https://apnews.com/article/oregon-waterfall-for-sale-lawmakers-996de63462d49ec3ad9bee1629fb9488">https://apnews.com/article/oregon-waterfall-for-sale-lawmakers-996de63462d49ec...*
-  📅 Wed, 21 Oct 2026 15:20:04 +0000
+- **[The era of speedball capitalism](https://www.economist.com/business/2026/09/30/the-era-of-speedball-capitalism-has-dawned)**
+  *<p>Article URL: <a href="https://www.economist.com/business/2026/09/30/the-era-of-speedball-capitalism-has-dawned">https://www.economist.com/business/2026/09/30/the-era-of-speedball-capitalism-has-daw...*
+  📅 Thu, 22 Oct 2026 00:48:10 +0000
 
-- **[Delays for Pull Requests and Webhook deliveries](https://www.githubstatus.com/incidents/nms1dpzmh9d9)**
-  *<p>Article URL: <a href="https://www.githubstatus.com/incidents/nms1dpzmh9d9">https://www.githubstatus.com/incidents/nms1dpzmh9d9</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id...*
-  📅 Wed, 21 Oct 2026 14:56:57 +0000
+- **[When Do We Become the Person We Ought to Be?](https://www.graphsaboutreligion.com/p/when-do-we-become-the-person-we-ought)**
+  *<p>Article URL: <a href="https://www.graphsaboutreligion.com/p/when-do-we-become-the-person-we-ought">https://www.graphsaboutreligion.com/p/when-do-we-become-the-person-we-ought</a></p>
+<p>Comments UR...*
+  📅 Wed, 21 Oct 2026 23:57:41 +0000
 
-- **[Cloudflare deploys protections against php2shell vulnerability](https://blog.cloudflare.com/php-vulnerabilities-waf-protection/)**
-  *<p>Article URL: <a href="https://blog.cloudflare.com/php-vulnerabilities-waf-protection/">https://blog.cloudflare.com/php-vulnerabilities-waf-protection/</a></p>
-<p>Comments URL: <a href="https://news...*
-  📅 Wed, 21 Oct 2026 14:11:14 +0000
+- **[mitmproxy adds --emudhra option](https://github.com/mitmproxy/mitmproxy/commit/169234499088fc2c414644a67efaed3d64ae2e3b)**
+  *<p>Article URL: <a href="https://github.com/mitmproxy/mitmproxy/commit/169234499088fc2c414644a67efaed3d64ae2e3b">https://github.com/mitmproxy/mitmproxy/commit/169234499088fc2c414644a67efaed3d64ae2e3b<...*
+  📅 Wed, 21 Oct 2026 23:51:37 +0000
 
-- **[Patch the Planet: global response coordination as agents uncover vulnerabilities](https://openai.com/index/coordinated-disclosure-of-critical-vulnerabilities/)**
-  *<p><a href="https://patchtheplanet.org/" rel="nofollow">https://patchtheplanet.org/</a></p>
-<hr />
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50181175">https://news.ycombinator.com...*
-  📅 Wed, 21 Oct 2026 14:03:43 +0000
+- **[Airbnb bans making guests do dishes and take out the trash](https://www.theverge.com/tech/1015844/airbnb-chores-house-rules-update)**
+  *<p>Article URL: <a href="https://www.theverge.com/tech/1015844/airbnb-chores-house-rules-update">https://www.theverge.com/tech/1015844/airbnb-chores-house-rules-update</a></p>
+<p>Comments URL: <a href...*
+  📅 Wed, 21 Oct 2026 23:38:32 +0000
 
-- **[The No Kings Takedown Is Why You Shouldn't Rent Your Megaphone from Zuck](https://www.techdirt.com/2026/10/20/accident-or-not-the-no-kings-takedown-is-why-you-shouldnt-rent-your-megaphone-from-zuck/)**
-  *<p>Article URL: <a href="https://www.techdirt.com/2026/10/20/accident-or-not-the-no-kings-takedown-is-why-you-shouldnt-rent-your-megaphone-from-zuck/">https://www.techdirt.com/2026/10/20/accident-or-n...*
-  📅 Wed, 21 Oct 2026 14:01:25 +0000
+- **[Κ = 0.003 for integer multiplication crossed](https://github.com/CrocSwap/integer-mult-bounds/pull/4441)**
+  *<p>Article URL: <a href="https://github.com/CrocSwap/integer-mult-bounds/pull/4441">https://github.com/CrocSwap/integer-mult-bounds/pull/4441</a></p>
+<p>Comments URL: <a href="https://news.ycombinator...*
+  📅 Wed, 21 Oct 2026 23:22:21 +0000
 
 ### 📑 TechCrunch
 
-- **[Foursquare co-founder says equity holders saw no returns from the company’s acquisition](https://techcrunch.com/2026/10/21/foursquare-co-founder-says-equity-holders-saw-no-returns-from-the-companys-acquisition/)**
-  *Foursquare raised $411 million in funding according to PitchBook data, but its equity holders saw no returns from its final acquisition....*
-  📅 Wed, 21 Oct 2026 14:03:11 +0000
+- **[Tesla says it will start selling Cybercabs by end of year](https://techcrunch.com/2026/10/21/tesla-says-it-will-start-selling-cybercabs-by-end-of-year/)**
+  *Tesla said Wednesday it will start selling its Cybercab to customers by the end of the year, even as federal regulators investigate whether the vehicle meets vehicle safety standards. The gold-hued, a...*
+  📅 Thu, 22 Oct 2026 00:17:54 +0000
 
-- **[AI promises productivity, but for managers, it’s mostly a headache for now](https://techcrunch.com/2026/10/21/ai-promises-productivity-but-for-managers-its-mostly-a-headache-for-now-says-new-survey/)**
-  *More than 50% of managers say they're finding it harder to evaluate employees' work after adopting AI, according to a new survey....*
-  📅 Wed, 21 Oct 2026 14:00:00 +0000
+- **[Blackstone’s Jas Khaira says fears over AI-buildout debt are overblown](https://techcrunch.com/2026/10/21/blackstones-jas-khaira-says-fears-over-ai-buildout-debt-are-overblown/)**
+  *Blackstone’s AI head on why the PE giant isn't panicked by market jitters....*
+  📅 Wed, 21 Oct 2026 22:51:22 +0000
 
-- **[Heat pump tech is 170 years old. Pascal thinks it’s time for an update.](https://techcrunch.com/2026/10/21/heat-pump-tech-is-170-years-old-pascal-thinks-its-time-for-an-update/)**
-  *Refrigerants startup Pascal has a new take on heat pump and cooling tech using a sponge-like material that promises to be 20% more efficient....*
-  📅 Wed, 21 Oct 2026 13:30:00 +0000
+- **[Meta wants to pay for its broad AI buildout with a newly created class of stock](https://techcrunch.com/2026/10/21/meta-wants-to-pay-for-its-broad-ai-buildout-with-a-newly-created-class-of-stock/)**
+  *The social media giant is planning a new stock strategy to help power its broad investments in AI models and services....*
+  📅 Wed, 21 Oct 2026 22:45:34 +0000
 
-- **[Mach9 raises $34M after pivoting to AI CAD software](https://techcrunch.com/2026/10/21/mach9-raises-34m-after-pivoting-to-ai-cad-software/)**
-  *The startup initially set out to build better, faster, and cheaper surveying hardware in 2021....*
-  📅 Wed, 21 Oct 2026 13:00:00 +0000
+- **[Airbnb limits chores for guests, sparking backlash from hosts](https://techcrunch.com/2026/10/21/airbnb-limits-chores-for-guests-sparking-backlash-from-hosts/)**
+  *Hosts are threatening to leave the platform after Airbnb says that they can no longer require guests to strip beds or do other time-consuming cleaning chores....*
+  📅 Wed, 21 Oct 2026 22:16:05 +0000
 
-- **[Anthropic pitches AI safety bill that may block a model if 50+ people could be killed](https://techcrunch.com/2026/10/20/anthropic-pitches-ai-safety-bill-that-may-block-a-model-if-50-people-could-be-killed/)**
-  *The proposed policy seems to offer protections against AI running amok but actually forbids federal agencies from blocking a model's release without the permission of a judge....*
-  📅 Tue, 20 Oct 2026 23:01:23 +0000
+- **[TechCrunch Founder Summit 2026: Everything you need to know](https://techcrunch.com/2026/10/21/techcrunch-founder-summit-2026-everything-you-need-to-know/)**
+  *TechCrunch Founder Summit is a full-day gathering in Boston on November 4 where founders across all stages connect with top VCs and experienced entrepreneurs to gain tactical insights on building and ...*
+  📅 Wed, 21 Oct 2026 21:16:20 +0000
 
-- **[SpaceX and Tesla boards form special committees to review merger](https://techcrunch.com/2026/10/20/spacex-and-tesla-boards-form-special-committees-to-review-merger/)**
-  *Elon Musk likes the idea but says he is not on either committee, which is made up of independent directors....*
-  📅 Tue, 20 Oct 2026 22:57:57 +0000
+- **[Meta says Muse has over 10M users, with shopping a top activity](https://techcrunch.com/2026/10/21/meta-says-muse-has-over-10m-users-with-shopping-a-top-activity/)**
+  *Meta Muse users are adopting the app for shopping and personal productivity, the company said during Q3 earnings. The AI app now has over 10M users....*
+  📅 Wed, 21 Oct 2026 21:14:19 +0000
 
 ### 📑 Dev.to
 
-- **[I Bought a Domain for $1 — Here’s What I Built With AI and GitHub](https://dev.to/vn_tunl_09a36fcbda701/i-bought-a-domain-for-1-heres-what-i-built-with-ai-and-github-2fgc)**
-  *<p>I bought a domain for about one dollar. That sentence usually kicks off an internet story where the writer pivots three paragraphs later into how they turned that single dollar into ten thousand do...*
-  📅 Wed, 21 Oct 2026 16:10:43 +0000
+- **[Google Cloud Now Sells OpenAI's GPT Models](https://dev.to/976905690/google-cloud-now-sells-openais-gpt-models-4c7n)**
+  *<p><a class="article-body-image-wrapper" href="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws...*
+  📅 Thu, 22 Oct 2026 02:30:22 +0000
 
-- **[The Ultimate Dual USB-C Monitor Arm with Power Delivery for MacBook Programmers: A Deep Dive Review](https://dev.to/colme/the-ultimate-dual-usb-c-monitor-arm-with-power-delivery-for-macbook-programmers-a-deep-dive-review-3ijo)**
-  *<h1>
-  
-  
-  The Ultimate Dual USB-C Monitor Arm with Power Delivery for MacBook Programmers: A Deep Dive Review
-</h1>
-
-<p>As a developer, your workspace isn't just a place; it's an extension of your ...*
-  📅 Wed, 21 Oct 2026 16:10:21 +0000
+- **[AI Automation Using Node.js: Build Intelligent Workflows with JavaScript](https://dev.to/ansh_sheladiya/ai-automation-using-nodejs-build-intelligent-workflows-with-javascript-19h8)**
+  *<p>AI automation is changing how developers build software, manage repetitive tasks, and deliver better user experiences. Instead of writing separate rules for every possible scenario, developers can ...*
+  📅 Thu, 22 Oct 2026 02:30:00 +0000
 
 </details>
 
@@ -122,103 +116,103 @@
 
 ### 📈 Daily Trending
 
-- **[ikow/php2shell-poc](https://github.com/ikow/php2shell-poc)** ⭐ 599
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  CVE-2026-109618/109619 PHP session.upload_progress Exploit Research — POC & Analysis
+- **[yanstd888/node2mint](https://github.com/yanstd888/node2mint)** ⭐ 7
+  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
+  Self-hosted AI marketplace, token billing engine, and OpenAI-compatible API gateway with atomic balances, provider failover, and affiliate commission system.
 
-- **[eness/php2shell-CVE-2026-109618-CVE-2026-109619-PoC](https://github.com/eness/php2shell-CVE-2026-109618-CVE-2026-109619-PoC)** ⭐ 326
-  ![Shell](https://img.shields.io/badge/-Shell-lightgrey)
-  Proof-of-Concept (PoC) exploit for php2shell (CVE-2026-109618 / CVE-2026-109619), demonstrating remote code execution in vulnerable PHP environments. For security research and educational purposes only.
-
-- **[WoYun520/dsh-purge](https://github.com/WoYun520/dsh-purge)** ⭐ 253
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
-  DeepSeek Harness 破甲 (mirror of mmparko/dsh-purge) — 全量镜像：全部分支/100 个 tag/完整提交历史。原作者署名见 README。
-
-- **[helloianneo/ian-xhs-carousel](https://github.com/helloianneo/ian-xhs-carousel)** ⭐ 102
-  ![HTML](https://img.shields.io/badge/-HTML-lightgrey)
-  把文章、案例或笔记排成 3:4 小红书图文 | 1080×1440 | 20 个母版 | 浅色 / 深色 | Claude Code Skill
-
-- **[lol-tools-new/.github](https://github.com/lol-tools-new/.github)** ⭐ 95
-  ![HTML](https://img.shields.io/badge/-HTML-lightgrey)
-  🔥 league-of-legends-lol-skin-swapper-skin-changer
-
-- **[ilAoC/mcd-gacha-collector](https://github.com/ilAoC/mcd-gacha-collector)** ⭐ 92
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  麦卡收藏家 · 基于麦当劳中国 MCP 的卡牌收集 Skill + 网页版（麦当劳程序员创意开发大赛参赛作品）
-
-- **[DLSS-5-Swapper-Download-2026/.github](https://github.com/DLSS-5-Swapper-Download-2026/.github)** ⭐ 84
-  ![None](https://img.shields.io/badge/-None-lightgrey)
-  DLSS 5 Swapper brings DLSS 5 installation and configuration into one desktop application, so you don't have to manage every game modification by hand. It can detect games from supported libraries, work with manually added game folders, and provide different installation routes depending on the game and its rendering setup.
-
-- **[shareshellrelease/Cinema-4d](https://github.com/shareshellrelease/Cinema-4d)** ⭐ 82
-  ![None](https://img.shields.io/badge/-None-lightgrey)
-  Professional Cinema 4D configuration utility for 2026, offering a full working installer with all essential features pre-configured and ready to run.
-
-### 📈 Weekly Trending
-
-- **[deepseek-ai/DeepInfer](https://github.com/deepseek-ai/DeepInfer)** ⭐ 17,347
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  DeepInfer: High-performance, large-scale inference framework for DeepSeek models
-
-- **[Gathin23/cleanyourtv](https://github.com/Gathin23/cleanyourtv)** ⭐ 17,329
-  ![Java](https://img.shields.io/badge/-Java-orange)
-  Debloat any Android or Google TV over Wi-Fi and get an Apple TV-style home.
-
-- **[ly05010419/MacNativeGames](https://github.com/ly05010419/MacNativeGames)** ⭐ 3,618
+- **[Nov2us/Nov2us-Comsen-calculator](https://github.com/Nov2us/Nov2us-Comsen-calculator)** ⭐ 3
   ![C](https://img.shields.io/badge/-C-lightgrey)
   None
 
-- **[simbasjungles/free-my-tv](https://github.com/simbasjungles/free-my-tv)** ⭐ 2,407
-  ![Java](https://img.shields.io/badge/-Java-orange)
-  A fast, ad-free home screen for Google TV. Open source, built with Claude Code. One button to undo.
+- **[Tom123223/maimen-xinshi](https://github.com/Tom123223/maimen-xinshi)** ⭐ 3
+  ![HTML](https://img.shields.io/badge/-HTML-lightgrey)
+  麦门心事：把一句心事读成一顿麦当劳，再让三个陌生人决定这顿吃不吃。基于麦当劳中国 MCP 的 Skill + 零依赖单文件演示页。
 
-- **[Leonxlnx/earshot](https://github.com/Leonxlnx/earshot)** ⭐ 2,041
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  Ears for coding agents: let AI hear, review and make sound. CPU-only, open source.
+- **[biyan113/magpie-widget](https://github.com/biyan113/magpie-widget)** ⭐ 3
+  ![Swift](https://img.shields.io/badge/-Swift-lightgrey)
+  原生 macOS AI 用量仪表盘与桌面小组件。只读连接 Magpie。
 
-- **[pengchujin/aerial-tv](https://github.com/pengchujin/aerial-tv)** ⭐ 1,935
-  ![Kotlin](https://img.shields.io/badge/-Kotlin-lightgrey)
-  给国产电视的一块干净桌面：参照 tvOS 设计的开源 Android TV 桌面，没有广告，开机自动接管。A tvOS-style launcher for Xiaomi, TCL and other China-market TVs.
+- **[albertoqueiroz333-cyber/rockstar-stats](https://github.com/albertoqueiroz333-cyber/rockstar-stats)** ⭐ 3
+  ![HTML](https://img.shields.io/badge/-HTML-lightgrey)
+  O Rockstar-Stats é uma aplicação web desenvolvida para coletar e exibir estatísticas de jogadores do ecossistema GTA. O projeto consiste em uma pesquisa realizada através da inserção de dados via formulário no site do projeto, armazenando e processando essas informações de forma persistente.
 
-- **[xiaoyang111222/cn-math-taxonomy](https://github.com/xiaoyang111222/cn-math-taxonomy)** ⭐ 1,925
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  中小学知识图谱 + 前置诊断：数学（一–九年级、高中必修与选择性必修）+ 英语（小学、初中、高中），课标对齐、人教版，1503 知识点、6159 题、自适应诊断
-
-- **[chenglou/handwired](https://github.com/chenglou/handwired)** ⭐ 1,866
-  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
-  Turn your regular JavaScript code into a neural net.
-
-### 📈 Monthly Trending
-
-- **[storytold/photocraft](https://github.com/storytold/photocraft)** ⭐ 70,382
+- **[Funkapppeee/liberty](https://github.com/Funkapppeee/liberty)** ⭐ 3
   ![Rust](https://img.shields.io/badge/-Rust-brown)
-  PhotoCraft: An open-source, photo editor written by scratch in pure Rust
+  Liberty: a from-scratch engine that loads your own copy of GTA IV
 
-- **[Ebony-Vinyl/dsh-our-free-model](https://github.com/Ebony-Vinyl/dsh-our-free-model)** ⭐ 33,394
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
-  在 dsh 里装上这个插件即可，无需登录、注册或填 API Key，就能使用包括 DeepSeek V4.1 Flash、Kimi K3 在内的前沿模型——完全免费，不限量。 All you do is install this plugin in dsh: no login, no sign-up, no API key — the frontier models are just there, DeepSeek V4.1 Flash and Kimi K3 among them. Completely free, with no usage cap.
+- **[haohervchb/Turing-unlock](https://github.com/haohervchb/Turing-unlock)** ⭐ 2
+  ![C](https://img.shields.io/badge/-C-lightgrey)
+  2080ti TU102 doing the unlock trick
 
-- **[Niko1221/Strata](https://github.com/Niko1221/Strata)** ⭐ 29,733
-  ![C++](https://img.shields.io/badge/-C++-pink)
-  Qwen3.8-Flash-Next on any consumer hardware: one-click install for Windows / Linux. Strata inference engine, OpenAI/Anthropic API on localhost, optional image input.
-
-- **[yetone/magpie](https://github.com/yetone/magpie)** ⭐ 18,735
-  ![Go](https://img.shields.io/badge/-Go-cyan)
-  Every agent's model. One place. Codex on DeepSeek, Claude Code on Kimi, from the menu bar.
-
-- **[wheresryan22/anatomy](https://github.com/wheresryan22/anatomy)** ⭐ 18,300
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
-  An agent skill for creating detailed, interactive isometric illustrations of real-world machines and complex systems. Generates polished SVGs with optional WebGL shaders and 3D effects.
-
-- **[deepseek-ai/DeepInfer](https://github.com/deepseek-ai/DeepInfer)** ⭐ 17,347
+- **[kele-greet/strix-srcguard](https://github.com/kele-greet/strix-srcguard)** ⭐ 2
   ![Python](https://img.shields.io/badge/-Python-blue)
-  DeepInfer: High-performance, large-scale inference framework for DeepSeek models
+  Compliance-first SRC/bug-bounty harness for Strix: nftables scope cage, LLM gateway with policy injection & hard budget, Caido evidence audit. Zero changes to strix-main.
 
-- **[Gathin23/cleanyourtv](https://github.com/Gathin23/cleanyourtv)** ⭐ 17,330
+### 📈 Weekly Trending
+
+- **[Gathin23/cleanyourtv](https://github.com/Gathin23/cleanyourtv)** ⭐ 19,682
   ![Java](https://img.shields.io/badge/-Java-orange)
   Debloat any Android or Google TV over Wi-Fi and get an Apple TV-style home.
 
-- **[google-research/harness2](https://github.com/google-research/harness2)** ⭐ 16,900
+- **[deepseek-ai/DeepInfer](https://github.com/deepseek-ai/DeepInfer)** ⭐ 18,166
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  DeepInfer: High-performance, large-scale inference framework for DeepSeek models
+
+- **[ly05010419/MacNativeGames](https://github.com/ly05010419/MacNativeGames)** ⭐ 3,935
+  ![C](https://img.shields.io/badge/-C-lightgrey)
+  None
+
+- **[simbasjungles/free-my-tv](https://github.com/simbasjungles/free-my-tv)** ⭐ 2,777
+  ![Java](https://img.shields.io/badge/-Java-orange)
+  A fast, ad-free home screen for Google TV. Open source, built with Claude Code. One button to undo.
+
+- **[pengchujin/aerial-tv](https://github.com/pengchujin/aerial-tv)** ⭐ 2,228
+  ![Kotlin](https://img.shields.io/badge/-Kotlin-lightgrey)
+  给国产电视的一块干净桌面：参照 tvOS 设计的开源 Android TV 桌面，没有广告，开机自动接管。A tvOS-style launcher for Xiaomi, TCL and other China-market TVs.
+
+- **[xiaoyang111222/cn-math-taxonomy](https://github.com/xiaoyang111222/cn-math-taxonomy)** ⭐ 2,004
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  中小学知识图谱 + 前置诊断：数学（一–九年级、高中必修与选择性必修）+ 英语（小学、初中、高中），课标对齐、人教版，1503 知识点、6159 题、自适应诊断
+
+- **[JoasASantos/REA-Prompts](https://github.com/JoasASantos/REA-Prompts)** ⭐ 1,354
+  ![None](https://img.shields.io/badge/-None-lightgrey)
+  REAP - Prompts for you to use REA (Reverse Engineer Anything), get the most out of it, and clone or break down any program
+
+- **[OpenMOSS/MOSS-Image](https://github.com/OpenMOSS/MOSS-Image)** ⭐ 1,304
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  Official repository for MOSS-Image, a 5B-parameter base DiT model with high-quality text rendering, layout generation, and efficient fine-tuning.
+
+### 📈 Monthly Trending
+
+- **[storytold/photocraft](https://github.com/storytold/photocraft)** ⭐ 70,681
+  ![Rust](https://img.shields.io/badge/-Rust-brown)
+  PhotoCraft: An open-source, photo editor written by scratch in pure Rust
+
+- **[Ebony-Vinyl/dsh-our-free-model](https://github.com/Ebony-Vinyl/dsh-our-free-model)** ⭐ 34,164
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
+  在 dsh 里装上这个插件即可，无需登录、注册或填 API Key，就能使用包括 DeepSeek V4.1 Flash、Kimi K3 在内的前沿模型——完全免费，不限量。 All you do is install this plugin in dsh: no login, no sign-up, no API key — the frontier models are just there, DeepSeek V4.1 Flash and Kimi K3 among them. Completely free, with no usage cap.
+
+- **[Niko1221/Strata](https://github.com/Niko1221/Strata)** ⭐ 29,984
+  ![C++](https://img.shields.io/badge/-C++-pink)
+  Qwen3.8-Flash-Next on any consumer hardware: one-click install for Windows / Linux. Strata inference engine, OpenAI/Anthropic API on localhost, optional image input.
+
+- **[Gathin23/cleanyourtv](https://github.com/Gathin23/cleanyourtv)** ⭐ 19,683
+  ![Java](https://img.shields.io/badge/-Java-orange)
+  Debloat any Android or Google TV over Wi-Fi and get an Apple TV-style home.
+
+- **[yetone/magpie](https://github.com/yetone/magpie)** ⭐ 18,868
+  ![Go](https://img.shields.io/badge/-Go-cyan)
+  Every agent's model. One place. Codex on DeepSeek, Claude Code on Kimi, from the menu bar.
+
+- **[wheresryan22/anatomy](https://github.com/wheresryan22/anatomy)** ⭐ 18,596
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
+  An agent skill for creating detailed, interactive isometric illustrations of real-world machines and complex systems. Generates polished SVGs with optional WebGL shaders and 3D effects.
+
+- **[deepseek-ai/DeepInfer](https://github.com/deepseek-ai/DeepInfer)** ⭐ 18,166
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  DeepInfer: High-performance, large-scale inference framework for DeepSeek models
+
+- **[google-research/harness2](https://github.com/google-research/harness2)** ⭐ 17,284
   ![Python](https://img.shields.io/badge/-Python-blue)
   None
 
@@ -488,11 +482,11 @@ This is a security release.
 
 | Skill | Status |
 |-------|--------|
-| Java | 🟡 Learning |
+| Java | 🔴 Beginner |
 | Python | ⚪ Planned |
-| JavaScript | 🟡 Learning |
-| TypeScript | ⚪ Planned |
-| Go | 🔴 Beginner |
+| JavaScript | ⚪ Planned |
+| TypeScript | 🔴 Beginner |
+| Go | ⚪ Planned |
 
 ### Frameworks
 
@@ -500,47 +494,47 @@ This is a security release.
 |-------|--------|
 | React | 🟡 Learning |
 | Spring Boot | 🟡 Learning |
-| Django | 🔴 Beginner |
+| Django | 🟢 Proficient |
 | Node.js | 🟡 Learning |
-| Next.js | ⚪ Planned |
+| Next.js | 🟢 Proficient |
 
 ### Cybersecurity
 
 | Skill | Status |
 |-------|--------|
-| Penetration Testing | 🟢 Proficient |
+| Penetration Testing | 🔴 Beginner |
 | Web Security | 🔴 Beginner |
-| Network Security | 🟡 Learning |
-| OWASP | ⚪ Planned |
+| Network Security | ⚪ Planned |
+| OWASP | 🟡 Learning |
 
 ### Ai Ml
 
 | Skill | Status |
 |-------|--------|
-| Machine Learning | ⚪ Planned |
-| Deep Learning | ⚪ Planned |
-| NLP | ⚪ Planned |
-| Computer Vision | 🔴 Beginner |
+| Machine Learning | 🟢 Proficient |
+| Deep Learning | 🟢 Proficient |
+| NLP | 🟡 Learning |
+| Computer Vision | 🟢 Proficient |
 | TensorFlow | 🔴 Beginner |
-| PyTorch | 🟡 Learning |
+| PyTorch | 🔴 Beginner |
 
 ### Devops
 
 | Skill | Status |
 |-------|--------|
-| Docker | 🔴 Beginner |
-| Kubernetes | 🟢 Proficient |
-| CI/CD | 🔴 Beginner |
-| AWS | ⚪ Planned |
+| Docker | ⚪ Planned |
+| Kubernetes | 🔴 Beginner |
+| CI/CD | 🟢 Proficient |
+| AWS | 🟢 Proficient |
 | Azure | 🟡 Learning |
 
 ### Other
 
 | Skill | Status |
 |-------|--------|
-| Blockchain | 🟡 Learning |
-| Web3 | 🟡 Learning |
-| Cloud Computing | 🔴 Beginner |
+| Blockchain | 🔴 Beginner |
+| Web3 | 🟢 Proficient |
+| Cloud Computing | 🟡 Learning |
 
 </details>
 
@@ -558,7 +552,7 @@ This dashboard is automatically updated every 6 hours using GitHub Actions. The 
 
 <div align="center">
 
-**Last Updated:** October 21, 2026
+**Last Updated:** October 22, 2026
 
 Made with ❤️ and automated with GitHub Actions
 
