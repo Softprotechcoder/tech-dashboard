@@ -46,33 +46,34 @@
 
 ### 📑 Hacker News
 
-- **[Alzheimer's breakthrough: 2 hrs of sleep restored without clearing brain plaques](https://www.sciencedaily.com/releases/2026/10/261018084421.htm)**
-  *<p>Article URL: <a href="https://www.sciencedaily.com/releases/2026/10/261018084421.htm">https://www.sciencedaily.com/releases/2026/10/261018084421.htm</a></p>
+- **[I Don't Understand Quantum Physics](https://www.southampton.ac.uk/~doug/quantum_physics/index.html)**
+  *<p>Article URL: <a href="https://www.southampton.ac.uk/~doug/quantum_physics/index.html">https://www.southampton.ac.uk/~doug/quantum_physics/index.html</a></p>
 <p>Comments URL: <a href="https://news.y...*
-  📅 Sat, 24 Oct 2026 01:53:10 +0000
+  📅 Sat, 24 Oct 2026 09:53:26 +0000
 
-- **[Mark Zuckerberg Pushed Meta to Shield Him from California's Proposed Wealth Tax](https://www.nytimes.com/2026/10/21/technology/mark-zuckerberg-meta-california-wealth-tax.html)**
-  *<p>Article URL: <a href="https://www.nytimes.com/2026/10/21/technology/mark-zuckerberg-meta-california-wealth-tax.html">https://www.nytimes.com/2026/10/21/technology/mark-zuckerberg-meta-california-we...*
-  📅 Sat, 24 Oct 2026 01:35:49 +0000
+- **[ThinkRail from JetBrains](https://thinkrail.ai/)**
+  *<p>Article URL: <a href="https://thinkrail.ai/">https://thinkrail.ai/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50219186">https://news.ycombinator.com/item?id=50219186</a>...*
+  📅 Sat, 24 Oct 2026 08:08:42 +0000
 
-- **[Twelve Years of Distributed SQLite](https://philipotoole.com/twelve-years-of-distributed-sqlite/)**
-  *<p>Article URL: <a href="https://philipotoole.com/twelve-years-of-distributed-sqlite/">https://philipotoole.com/twelve-years-of-distributed-sqlite/</a></p>
+- **[Hacker reverses Samsung TV, finds on-board AI listening OpenAI account suspended](https://www.reddit.com/r/antiai/comments/1xdv3e5/hacker_reverse_engineers_his_samsung_tv_and_finds/)**
+  *<p>Article URL: <a href="https://www.reddit.com/r/antiai/comments/1xdv3e5/hacker_reverse_engineers_his_samsung_tv_and_finds/">https://www.reddit.com/r/antiai/comments/1xdv3e5/hacker_reverse_engineers_...*
+  📅 Sat, 24 Oct 2026 05:49:57 +0000
+
+- **[OBS Studio 33](https://github.com/obsproject/obs-studio/releases/tag/33.0.0)**
+  *<p>Article URL: <a href="https://github.com/obsproject/obs-studio/releases/tag/33.0.0">https://github.com/obsproject/obs-studio/releases/tag/33.0.0</a></p>
 <p>Comments URL: <a href="https://news.ycomb...*
-  📅 Sat, 24 Oct 2026 01:16:58 +0000
+  📅 Sat, 24 Oct 2026 04:49:58 +0000
 
-- **[Evolving Threat: http2shell is an RCE in node, Python, and more](https://nitter.click/AikidoSecurity/status/2113759110625906950?__galadriel=lPmlGl9id4oAd5UeBwMhlYKArHyr6lR2IDGujPwB5HV2kQ1aLoPWFd5A9sGuzNcmrp8fUso8qygmHcKTDZ8MNHWqQ3bDJcycV87xp_0VypzQLYj6O_RRHlZuQqj33oASGY2YLSoAiMjeOZN40h7Stf8AG7DPrGZbAPVKUXy36HoMudRbvwF3_r2uYNmfJMhpKzywQDM6Ab8)**
-  *<p>Article URL: <a href="https://nitter.click/AikidoSecurity/status/2113759110625906950?__galadriel=lPmlGl9id4oAd5UeBwMhlYKArHyr6lR2IDGujPwB5HV2kQ1aLoPWFd5A9sGuzNcmrp8fUso8qygmHcKTDZ8MNHWqQ3bDJcycV87x...*
-  📅 Fri, 23 Oct 2026 23:30:17 +0000
+- **[How close can pure functional programming get to C?](https://rtfeldman.com/fp-vs-c)**
+  *<p>Article URL: <a href="https://rtfeldman.com/fp-vs-c">https://rtfeldman.com/fp-vs-c</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50218195">https://news.ycombinator.com/item...*
+  📅 Sat, 24 Oct 2026 03:43:54 +0000
 
-- **[CVE Tracker](https://cve.0xosprey.com/)**
-  *<p>Article URL: <a href="https://cve.0xosprey.com/">https://cve.0xosprey.com/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50215530">https://news.ycombinator.com/item?id=5021...*
-  📅 Fri, 23 Oct 2026 21:21:47 +0000
-
-- **[No Source Code? No Problem](https://queue.acm.org/doi/10.1145/945131.945155)**
-  *<p>Article URL: <a href="https://queue.acm.org/doi/10.1145/945131.945155">https://queue.acm.org/doi/10.1145/945131.945155</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=5021499...*
-  📅 Fri, 23 Oct 2026 20:38:06 +0000
+- **[How Block Blast harvests its players for ad money](https://ayoships.com/breakdowns/block-blast)**
+  *<p>Article URL: <a href="https://ayoships.com/breakdowns/block-blast">https://ayoships.com/breakdowns/block-blast</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50217946">https...*
+  📅 Sat, 24 Oct 2026 02:43:43 +0000
 
 ### 📑 TechCrunch
 
@@ -102,13 +103,19 @@
 
 ### 📑 Dev.to
 
-- **[How My Azeroth Life is made: from a WoW addon to a podcast](https://dev.to/ninepointlabs/how-my-azeroth-life-is-made-from-a-wow-addon-to-a-podcast-3c1d)**
-  *<p>I play World of Warcraft most evenings, and for the last few weeks the game has been keeping a blog about it. Now that blog has a podcast too. <a href="https://myazerothlife.com/" rel="noopener nor...*
-  📅 Sat, 24 Oct 2026 02:31:09 +0000
+- **[Prove Your Cyber Insurance Answers: Commands for the Questionnaire Controls](https://dev.to/snippipedia/prove-your-cyber-insurance-answers-commands-for-the-questionnaire-controls-4344)**
+  *<p>I swapped 2 of the usual tags (webdev, ai) for devops and startup because this piece is about infrastructure evidence. Swap back if you prefer.</p>
 
-- **[Malicious LiteLLM v1.107.0 on PyPI/Docker Hub Executes Arbitrary Code on Python Start: Mitigation Steps Available](https://dev.to/romdevin/malicious-litellm-v11070-on-pypidocker-hub-executes-arbitrary-code-on-python-start-mitigation-1cgi)**
-  *<p><a class="article-body-image-wrapper" href="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws...*
-  📅 Sat, 24 Oct 2026 02:31:03 +0000
+<p>Someone will eventually ask you to confirm th...*
+  📅 Sat, 24 Oct 2026 09:55:12 +0000
+
+- **[DMARC fails even though SPF and DKIM pass: how alignment actually works](https://dev.to/mogley1011/dmarc-fails-even-though-spf-and-dkim-pass-how-alignment-actually-works-3mfh)**
+  *<p>You open the headers of a rejected or quarantined message and see something like this:<br />
+</p>
+
+<div class="highlight js-code-highlight">
+<pre class="highlight plaintext"><code>spf=pass smtp.mai...*
+  📅 Sat, 24 Oct 2026 09:54:46 +0000
 
 </details>
 
@@ -116,103 +123,103 @@
 
 ### 📈 Daily Trending
 
-- **[alphaparkinc/genpark-ast-mutation-testing-and-test-suite-strength-analyzer-skill](https://github.com/alphaparkinc/genpark-ast-mutation-testing-and-test-suite-strength-analyzer-skill)** ⭐ 7
+- **[rddmwmddr/android-ad-cleaner](https://github.com/rddmwmddr/android-ad-cleaner)** ⭐ 68
   ![Python](https://img.shields.io/badge/-Python-blue)
-  Mutates AST operators and boolean conditions to evaluate test suite mutation kill rates and boundary rigor | GenPark: https://www.genpark.ai | LinkedIn: https://www.llinkedin.com/company/92955550
+  关掉国产安卓手机系统里的广告、热搜、资讯推荐和营销推送。不 root，可还原，支持 AI 智能体一键执行。
 
-- **[alphaparkinc/genpark-semantic-pull-request-blast-radius-and-risk-scorer-skill](https://github.com/alphaparkinc/genpark-semantic-pull-request-blast-radius-and-risk-scorer-skill)** ⭐ 7
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  Evaluates pull request churn, public API symbol modifications, and database schema impact to score deployment risk | GenPark: https://www.genpark.ai | LinkedIn: https://www.llinkedin.com/company/92955550
+- **[xMazaki/unbloat-android-tv](https://github.com/xMazaki/unbloat-android-tv)** ⭐ 46
+  ![Java](https://img.shields.io/badge/-Java-orange)
+  Slim down any Android TV (ads, telemetry) + minimalist Apple TV-style home screen. Reversible, one double-click. 🇫🇷 Allégez n'importe quelle TV Android (pubs, télémétrie) + écran d'accueil minimaliste façon Apple TV. Réversible, en un double-clic.
 
-- **[Alpha-Park/genpark-semantic-pull-request-blast-radius-and-risk-scorer-skill](https://github.com/Alpha-Park/genpark-semantic-pull-request-blast-radius-and-risk-scorer-skill)** ⭐ 7
+- **[lillyguisnet/sam3-segmentation](https://github.com/lillyguisnet/sam3-segmentation)** ⭐ 35
   ![Python](https://img.shields.io/badge/-Python-blue)
-  Evaluates pull request churn, public API symbol modifications, and database schema impact to score deployment risk | GenPark: https://www.genpark.ai | LinkedIn: https://www.llinkedin.com/company/92955550
+  Agent skill: outline, mask and count objects in photos with Meta's SAM 3 on your own NVIDIA GPU, with review, exports and a viewer. Works with Claude Code, Codex, Cursor, Pi and other Agent Skills clients.
 
-- **[alphaparkinc/genpark-self-correcting-code-patch-and-stacktrace-repair-skill](https://github.com/alphaparkinc/genpark-self-correcting-code-patch-and-stacktrace-repair-skill)** ⭐ 7
+- **[jouaaaaaa/mcd-self-butler](https://github.com/jouaaaaaa/mcd-self-butler)** ⭐ 33
   ![Python](https://img.shields.io/badge/-Python-blue)
-  Parses runtime error tracebacks and synthesizes minimal defensive boundary check patches | GenPark: https://www.genpark.ai | LinkedIn: https://www.llinkedin.com/company/92955550
+  麦当劳自助管家 McButler — 基于麦当劳 MCP 的点单参谋：每日推荐 / 套餐健康体检 / 门店全成本比价 / 团餐智能配餐 / 麦险分信用评级 / 麦门小剧场。麦当劳 1024 程序员节参赛作品。
 
-- **[alphaparkinc/genpark-flaky-test-quarantine-and-intermittent-failure-classifier-skill](https://github.com/alphaparkinc/genpark-flaky-test-quarantine-and-intermittent-failure-classifier-skill)** ⭐ 7
+- **[adhiprib/humanizer-indonesia](https://github.com/adhiprib/humanizer-indonesia)** ⭐ 26
   ![Python](https://img.shields.io/badge/-Python-blue)
-  Analyzes historical test execution distributions to isolate non-deterministic race conditions and quarantine flaky tests | GenPark: https://www.genpark.ai | LinkedIn: https://www.llinkedin.com/company/92955550
+  Membuat tulisan AI lebih luwes dan enak dibaca, bukan untuk mengelabui deteksi AI
 
-- **[Alpha-Park/genpark-flaky-test-quarantine-and-intermittent-failure-classifier-skill](https://github.com/Alpha-Park/genpark-flaky-test-quarantine-and-intermittent-failure-classifier-skill)** ⭐ 7
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  Analyzes historical test execution distributions to isolate non-deterministic race conditions and quarantine flaky tests | GenPark: https://www.genpark.ai | LinkedIn: https://www.llinkedin.com/company/92955550
+- **[big-tooth/mcd-recommend-meal-by-emotion](https://github.com/big-tooth/mcd-recommend-meal-by-emotion)** ⭐ 24
+  ![None](https://img.shields.io/badge/-None-lightgrey)
+  None
 
-- **[alphaparkinc/genpark-dead-code-and-unused-symbol-tree-shaking-pruner-skill](https://github.com/alphaparkinc/genpark-dead-code-and-unused-symbol-tree-shaking-pruner-skill)** ⭐ 7
+- **[xkx121029/mcd-vibe-commit](https://github.com/xkx121029/mcd-vibe-commit)** ⭐ 21
   ![Python](https://img.shields.io/badge/-Python-blue)
-  Constructs AST symbol reference graphs to detect unreferenced functions, dead code branches, and unused imports | GenPark: https://www.genpark.ai | LinkedIn: https://www.llinkedin.com/company/92955550
+  麦门人格 Commit 生成器：测出你的麦门人格，生成专属 git commit message（麦当劳 MCP 大赛参赛作品）
 
-- **[Alpha-Park/genpark-ast-mutation-testing-and-test-suite-strength-analyzer-skill](https://github.com/Alpha-Park/genpark-ast-mutation-testing-and-test-suite-strength-analyzer-skill)** ⭐ 7
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  Mutates AST operators and boolean conditions to evaluate test suite mutation kill rates and boundary rigor | GenPark: https://www.genpark.ai | LinkedIn: https://www.llinkedin.com/company/92955550
+- **[yielded-dev/effect-tsrs](https://github.com/yielded-dev/effect-tsrs)** ⭐ 20
+  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
+  Native Rust port of all 130 Effect diagnostics to tsrs
 
 ### 📈 Weekly Trending
 
-- **[simbasjungles/free-my-tv](https://github.com/simbasjungles/free-my-tv)** ⭐ 3,983
-  ![Java](https://img.shields.io/badge/-Java-orange)
-  A fast, ad-free home screen for Google TV, LG webOS and Samsung Tizen. One button to undo.
-
-- **[pengchujin/aerial-tv](https://github.com/pengchujin/aerial-tv)** ⭐ 3,875
+- **[pengchujin/aerial-tv](https://github.com/pengchujin/aerial-tv)** ⭐ 4,104
   ![Kotlin](https://img.shields.io/badge/-Kotlin-lightgrey)
   给国产电视的一块干净桌面：参照 tvOS 设计的开源 Android TV 桌面，没有广告，开机自动接管。A tvOS-style launcher for Xiaomi, TCL and other China-market TVs.
 
-- **[xiaoyang111222/cn-math-taxonomy](https://github.com/xiaoyang111222/cn-math-taxonomy)** ⭐ 2,847
+- **[simbasjungles/free-my-tv](https://github.com/simbasjungles/free-my-tv)** ⭐ 4,067
+  ![Java](https://img.shields.io/badge/-Java-orange)
+  A fast, ad-free home screen for Google TV, LG webOS and Samsung Tizen. One button to undo.
+
+- **[xiaoyang111222/cn-math-taxonomy](https://github.com/xiaoyang111222/cn-math-taxonomy)** ⭐ 2,974
   ![Python](https://img.shields.io/badge/-Python-blue)
   数学（小学到高中）、英语（三年级到高中）、初中物理的知识图谱：1644 个知识点、2403 条先修边、6723 道题，对齐课标，附自适应前置诊断。
 
-- **[JoasASantos/REA-Prompts](https://github.com/JoasASantos/REA-Prompts)** ⭐ 1,758
+- **[JoasASantos/REA-Prompts](https://github.com/JoasASantos/REA-Prompts)** ⭐ 1,853
   ![None](https://img.shields.io/badge/-None-lightgrey)
   REAP - Prompts for you to use REA (Reverse Engineer Anything), get the most out of it, and clone or break down any program
 
-- **[ikow/php2shell-poc](https://github.com/ikow/php2shell-poc)** ⭐ 1,700
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  CVE-2026-109618/109619 — 5 RCE chains + detection rules (Suricata, Sigma, ModSecurity). PHP session.upload_progress pre-auth exploit research.
-
-- **[EthanArbuckle/fairplay-decrypt](https://github.com/EthanArbuckle/fairplay-decrypt)** ⭐ 1,617
+- **[EthanArbuckle/fairplay-decrypt](https://github.com/EthanArbuckle/fairplay-decrypt)** ⭐ 1,778
   ![C](https://img.shields.io/badge/-C-lightgrey)
   Offline FairPlay App Store IPA decryption with independent key derivation
 
-- **[alchaincyf/huashu-motion](https://github.com/alchaincyf/huashu-motion)** ⭐ 1,543
+- **[ikow/php2shell-poc](https://github.com/ikow/php2shell-poc)** ⭐ 1,718
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  CVE-2026-109618/109619 — 5 RCE chains + detection rules (Suricata, Sigma, ModSecurity). PHP session.upload_progress pre-auth exploit research.
+
+- **[alchaincyf/huashu-motion](https://github.com/alchaincyf/huashu-motion)** ⭐ 1,563
   ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
   让你的agent一键直出商业级产品宣传片：会作曲，能指着画面改。Commercial-grade launch films by your coding agent — point at the frame to change it.
 
-- **[humblemuzzu/dumbtv](https://github.com/humblemuzzu/dumbtv)** ⭐ 1,400
+- **[humblemuzzu/dumbtv](https://github.com/humblemuzzu/dumbtv)** ⭐ 1,421
   ![Java](https://img.shields.io/badge/-Java-orange)
   Take the ads, tracking and clutter out of your Fire TV over ADB, no root. Every step can be undone. Comes with its own open-source home screen.
 
 ### 📈 Monthly Trending
 
-- **[storytold/photocraft](https://github.com/storytold/photocraft)** ⭐ 71,990
+- **[storytold/photocraft](https://github.com/storytold/photocraft)** ⭐ 72,109
   ![Rust](https://img.shields.io/badge/-Rust-brown)
   PhotoCraft: An open-source, photo editor written by scratch in pure Rust
 
-- **[Gathin23/cleanyourtv](https://github.com/Gathin23/cleanyourtv)** ⭐ 28,168
+- **[Gathin23/cleanyourtv](https://github.com/Gathin23/cleanyourtv)** ⭐ 29,268
   ![Java](https://img.shields.io/badge/-Java-orange)
   Debloat any Android or Google TV over Wi-Fi and get an Apple TV-style home.
 
-- **[deepseek-ai/DeepInfer](https://github.com/deepseek-ai/DeepInfer)** ⭐ 21,187
+- **[deepseek-ai/DeepInfer](https://github.com/deepseek-ai/DeepInfer)** ⭐ 21,459
   ![Python](https://img.shields.io/badge/-Python-blue)
   DeepInfer: High-performance, large-scale inference framework for DeepSeek models
 
-- **[wheresryan22/anatomy](https://github.com/wheresryan22/anatomy)** ⭐ 19,711
+- **[wheresryan22/anatomy](https://github.com/wheresryan22/anatomy)** ⭐ 19,857
   ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
   An agent skill for creating detailed, interactive isometric illustrations of real-world machines and complex systems. Generates polished SVGs with optional WebGL shaders and 3D effects.
 
-- **[google-research/harness2](https://github.com/google-research/harness2)** ⭐ 18,609
+- **[google-research/harness2](https://github.com/google-research/harness2)** ⭐ 18,758
   ![Python](https://img.shields.io/badge/-Python-blue)
   None
 
-- **[storytold/pdfcraft](https://github.com/storytold/pdfcraft)** ⭐ 17,456
+- **[storytold/pdfcraft](https://github.com/storytold/pdfcraft)** ⭐ 17,515
   ![Rust](https://img.shields.io/badge/-Rust-brown)
   PdfCraft: An open-source PDF reader and editor written by scratch in pure Rust
 
-- **[storytold/filmcraft](https://github.com/storytold/filmcraft)** ⭐ 15,922
+- **[storytold/filmcraft](https://github.com/storytold/filmcraft)** ⭐ 15,959
   ![Rust](https://img.shields.io/badge/-Rust-brown)
   FilmCraft: An open-source, nonlinear video editor written by scratch in pure Rust
 
-- **[storytold/wordcraft](https://github.com/storytold/wordcraft)** ⭐ 15,768
+- **[storytold/wordcraft](https://github.com/storytold/wordcraft)** ⭐ 15,808
   ![Rust](https://img.shields.io/badge/-Rust-brown)
   An open-source, clean-room reimplementation of Microsoft Word in pure Rust
 
@@ -482,59 +489,59 @@ This is a security release.
 
 | Skill | Status |
 |-------|--------|
-| Java | ⚪ Planned |
+| Java | 🔴 Beginner |
 | Python | 🟢 Proficient |
 | JavaScript | 🟢 Proficient |
-| TypeScript | 🟡 Learning |
+| TypeScript | 🔴 Beginner |
 | Go | 🔴 Beginner |
 
 ### Frameworks
 
 | Skill | Status |
 |-------|--------|
-| React | ⚪ Planned |
+| React | 🔴 Beginner |
 | Spring Boot | 🔴 Beginner |
-| Django | 🔴 Beginner |
-| Node.js | 🟡 Learning |
-| Next.js | ⚪ Planned |
+| Django | ⚪ Planned |
+| Node.js | ⚪ Planned |
+| Next.js | 🔴 Beginner |
 
 ### Cybersecurity
 
 | Skill | Status |
 |-------|--------|
 | Penetration Testing | 🟡 Learning |
-| Web Security | 🟡 Learning |
+| Web Security | ⚪ Planned |
 | Network Security | 🟡 Learning |
-| OWASP | 🟢 Proficient |
+| OWASP | 🟡 Learning |
 
 ### Ai Ml
 
 | Skill | Status |
 |-------|--------|
-| Machine Learning | 🟡 Learning |
+| Machine Learning | 🔴 Beginner |
 | Deep Learning | ⚪ Planned |
 | NLP | ⚪ Planned |
-| Computer Vision | 🟢 Proficient |
-| TensorFlow | 🔴 Beginner |
-| PyTorch | 🟢 Proficient |
+| Computer Vision | 🔴 Beginner |
+| TensorFlow | 🟡 Learning |
+| PyTorch | ⚪ Planned |
 
 ### Devops
 
 | Skill | Status |
 |-------|--------|
-| Docker | ⚪ Planned |
-| Kubernetes | ⚪ Planned |
-| CI/CD | 🔴 Beginner |
-| AWS | ⚪ Planned |
-| Azure | 🔴 Beginner |
+| Docker | 🟡 Learning |
+| Kubernetes | 🟡 Learning |
+| CI/CD | ⚪ Planned |
+| AWS | 🟡 Learning |
+| Azure | 🟡 Learning |
 
 ### Other
 
 | Skill | Status |
 |-------|--------|
-| Blockchain | 🔴 Beginner |
-| Web3 | 🟡 Learning |
-| Cloud Computing | ⚪ Planned |
+| Blockchain | 🟢 Proficient |
+| Web3 | 🟢 Proficient |
+| Cloud Computing | 🟡 Learning |
 
 </details>
 
