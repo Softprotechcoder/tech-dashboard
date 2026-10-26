@@ -46,35 +46,32 @@
 
 ### 📑 Hacker News
 
-- **[iPhone Duo Teardown](https://www.ifixit.com/News/119895/iphone-duo-teardown)**
-  *<p>Article URL: <a href="https://www.ifixit.com/News/119895/iphone-duo-teardown">https://www.ifixit.com/News/119895/iphone-duo-teardown</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/i...*
-  📅 Mon, 26 Oct 2026 01:23:24 +0000
+- **[Switzerland. Block by block. At 1:1 scale](https://blocks.manifold3d.ch/)**
+  *<p>Article URL: <a href="https://blocks.manifold3d.ch/">https://blocks.manifold3d.ch/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50240922">https://news.ycombinator.com/item...*
+  📅 Mon, 26 Oct 2026 08:46:09 +0000
 
-- **[Attention Is Not What You Need (2025)](https://arxiv.org/abs/2512.19428)**
-  *<p>Article URL: <a href="https://arxiv.org/abs/2512.19428">https://arxiv.org/abs/2512.19428</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50237224">https://news.ycombinator.co...*
-  📅 Sun, 25 Oct 2026 23:52:05 +0000
+- **[Behind the scenes at the NeXT Computer office](https://exhibits.stanford.edu/menuez/browse/next-computer-inc?per_page=96&sort=pub_year_isi+asc%2C+title_sort+asc&view=masonry)**
+  *<p>Article URL: <a href="https://exhibits.stanford.edu/menuez/browse/next-computer-inc?per_page=96&amp;sort=pub_year_isi+asc%2C+title_sort+asc&amp;view=masonry">https://exhibits.stanford.edu/menuez/br...*
+  📅 Mon, 26 Oct 2026 03:31:11 +0000
 
-- **[F-Zero X on Nintendo 3DS](https://hypnotize.works/gdx-3ds/postmortem/index.html)**
-  *<p>Article URL: <a href="https://hypnotize.works/gdx-3ds/postmortem/index.html">https://hypnotize.works/gdx-3ds/postmortem/index.html</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/ite...*
-  📅 Sun, 25 Oct 2026 23:27:30 +0000
+- **[PaperPilot – Zero-Cloud, Pure-Rust PDF Engine with WASM and MCP](https://github.com/KrushnaVardhanReddy/PaperPilot)**
+  *<p>Article URL: <a href="https://github.com/KrushnaVardhanReddy/PaperPilot">https://github.com/KrushnaVardhanReddy/PaperPilot</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=502...*
+  📅 Mon, 26 Oct 2026 03:29:05 +0000
 
-- **[Proton Flock Camera Map](https://proton.me/flock-camera-map)**
-  *<p>Article URL: <a href="https://proton.me/flock-camera-map">https://proton.me/flock-camera-map</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50236748">https://news.ycombinato...*
-  📅 Sun, 25 Oct 2026 22:39:42 +0000
+- **[Show HN: TitleArt – Make text like it's 1997](https://titleart.dvy.io/)**
+  *<p>Article URL: <a href="https://titleart.dvy.io/">https://titleart.dvy.io/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50238708">https://news.ycombinator.com/item?id=502387...*
+  📅 Mon, 26 Oct 2026 03:23:57 +0000
 
-- **[OpenAI and Anthropic cut their LLM prices by up to 80% within a few months. Why?](https://minimaxir.com/2026/10/cheap-llms/)**
-  *<p>Article URL: <a href="https://minimaxir.com/2026/10/cheap-llms/">https://minimaxir.com/2026/10/cheap-llms/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50236102">https://n...*
-  📅 Sun, 25 Oct 2026 21:11:31 +0000
+- **[IBM CEO says open weight models are now good and cheap on-prem](https://www.theregister.com/systems/2026/10/22/ibm-ceo-says-open-weight-models-are-now-irresistibly-good-and-cheap-on-prem/5304640)**
+  *<p>Article URL: <a href="https://www.theregister.com/systems/2026/10/22/ibm-ceo-says-open-weight-models-are-now-irresistibly-good-and-cheap-on-prem/5304640">https://www.theregister.com/systems/2026/10...*
+  📅 Mon, 26 Oct 2026 01:47:46 +0000
 
-- **[The State of Context Engineering](https://www.dbreunig.com/2026/10/24/the-state-of-context-engineering.html)**
-  *<p>Article URL: <a href="https://www.dbreunig.com/2026/10/24/the-state-of-context-engineering.html">https://www.dbreunig.com/2026/10/24/the-state-of-context-engineering.html</a></p>
-<p>Comments URL: <...*
-  📅 Sun, 25 Oct 2026 20:32:31 +0000
+- **[Removing Next.js Got My Blog to 100 on Every Lighthouse Category](https://korindiehacker.bloffy.blog/en/removing-nextjs-got-my-blog-to-100-on-every-lighthouse-category)**
+  *<p>Article URL: <a href="https://korindiehacker.bloffy.blog/en/removing-nextjs-got-my-blog-to-100-on-every-lighthouse-category">https://korindiehacker.bloffy.blog/en/removing-nextjs-got-my-blog-to-100...*
+  📅 Mon, 26 Oct 2026 01:03:39 +0000
 
 ### 📑 TechCrunch
 
@@ -104,20 +101,21 @@
 
 ### 📑 Dev.to
 
-- **[One Thing: slow and steady beats the whole dreaded list](https://dev.to/robertgilbert75/one-thing-slow-and-steady-beats-the-whole-dreaded-list-3dkn)**
-  *<p><em>This is a submission for the <a href="https://dev.to/challenges/hacktoberfest-week3-2026-10-19">Hacktoberfest Open-Source AI Challenge Week 3: Slow and Steady</a></em></p>
+- **[Fetch at read time: why on-demand artifacts beat stored ones](https://dev.to/dutiful_dev/fetch-at-read-time-why-on-demand-artifacts-beat-stored-ones-1pk3)**
+  *<p>Every API that returns a document makes a quiet choice: assemble the artifact when the request arrives, or serve one that was built earlier. The second option is cheaper to run and almost always wo...*
+  📅 Mon, 26 Oct 2026 11:47:13 +0000
+
+- **[We asked 5 AIs the same CRM question 50 times. Here is who got named.](https://dev.to/len_kelsey_7df6899a13a3d5/we-asked-5-ais-the-same-crm-question-50-times-here-is-who-got-named-38e1)**
+  *<p>More buyers now ask an AI "what is the best ___?" before they search Google. If the AI does not name you, you are not on the list. So we tested it.</p>
 
 <h2>
   
   
-  What I ...*
-  📅 Mon, 26 Oct 2026 02:23:45 +0000
+  The test
+</h2>
 
-- **[Ask Claude or ChatGPT About Your Website Traffic with an MCP Server](https://dev.to/privatusanalytics/ask-claude-or-chatgpt-about-your-website-traffic-with-an-mcp-server-380g)**
-  *<p>You want to know a simple thing. Which blog post brought the most visitors last month?</p>
-
-<p>So you open your analytics dashboard. You pick a date range. You open three menus. You export a table....*
-  📅 Mon, 26 Oct 2026 02:23:33 +0000
+<p>5 AIs, each ...*
+  📅 Mon, 26 Oct 2026 11:46:49 +0000
 
 </details>
 
@@ -125,103 +123,103 @@
 
 ### 📈 Daily Trending
 
-- **[VenTheZone/pullstack](https://github.com/VenTheZone/pullstack)** ⭐ 4
-  ![Shell](https://img.shields.io/badge/-Shell-lightgrey)
-  Universal agent skill: compare another project (a repo, or a packaged app with no repo) with yours and port its best features. Licence-aware, read-only, gVisor-sandboxed.
+- **[andyhuo520/digital-human-koubo](https://github.com/andyhuo520/digital-human-koubo)** ⭐ 320
+  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
+  AI digital-human talking-head videos from one photo: Renoise MCP generation + 5 editing styles + 48 creator-grade packaging components. Agent skill for Claude Code / Codex / OpenClaw / WorkBuddy …
 
-- **[JUSTRobot-hub/otpal](https://github.com/JUSTRobot-hub/otpal)** ⭐ 4
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
-  Private, offline 2FA authenticator for Windows. Import your Google Authenticator accounts once and keep them encrypted on your own PC. No cloud, no account.
-
-- **[felipehez/NebulaViewer](https://github.com/felipehez/NebulaViewer)** ⭐ 3
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  Interactive GPU simulator and volume renderer for star-forming nebulae (NVIDIA Warp): ionization fronts, pillars, bubbles and bipolar nebulae, live.
-
-- **[tartini-ai/awesome-data-agent-skills](https://github.com/tartini-ai/awesome-data-agent-skills)** ⭐ 3
+- **[free-cracks/Adobe-Acrobat-Pro](https://github.com/free-cracks/Adobe-Acrobat-Pro)** ⭐ 287
   ![None](https://img.shields.io/badge/-None-lightgrey)
-  Agent skills for data work in Claude Code and Codex, each tested on real data. Links and install commands only; no copied skills.
-
-- **[pavja2/smbc-source-oct-2026](https://github.com/pavja2/smbc-source-oct-2026)** ⭐ 3
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  From the October stealmybitcoin.com challenge. Thanks for playing and see you next time :) 
-
-- **[l0l-tools/Leauge-Of-Legends-Cheats](https://github.com/l0l-tools/Leauge-Of-Legends-Cheats)** ⭐ 2
-  ![HTML](https://img.shields.io/badge/-HTML-lightgrey)
-  🎯 league-of-legends-cheats-lol-mod-menu-with-hacks-and-cheat 🎯
-
-- **[DeadSpecimen/souljabrewlauncher2](https://github.com/DeadSpecimen/souljabrewlauncher2)** ⭐ 2
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
   None
 
-- **[andereii/yafm](https://github.com/andereii/yafm)** ⭐ 2
-  ![Kotlin](https://img.shields.io/badge/-Kotlin-lightgrey)
-  YAMF is a file manager for Android that aims to reverse-engineer the popular ES File Explorer app, but without ads, without suspicious behavior, with a refreshing Material 3 Expressive design, and, of course, open source.
+- **[pro-tools-workspace/Canva-Pro](https://github.com/pro-tools-workspace/Canva-Pro)** ⭐ 255
+  ![None](https://img.shields.io/badge/-None-lightgrey)
+  None
+
+- **[yaojingang/GEOInflow](https://github.com/yaojingang/GEOInflow)** ⭐ 190
+  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
+  Self-hosted web and AI crawler analytics for Generative Engine Optimization (GEO). Track visitors, AI search referrals, crawl logs, content coverage, and conversions. Jointly published by 猎看科技 · 北京日报社智源GEO. MIT licensed.
+
+- **[arcade-tools/Roblox-script](https://github.com/arcade-tools/Roblox-script)** ⭐ 177
+  ![None](https://img.shields.io/badge/-None-lightgrey)
+  None
+
+- **[NyxFoundation/nyxis](https://github.com/NyxFoundation/nyxis)** ⭐ 127
+  ![Lean](https://img.shields.io/badge/-Lean-lightgrey)
+  None
+
+- **[DiaoOrg/awesome-supermimic](https://github.com/DiaoOrg/awesome-supermimic)** ⭐ 100
+  ![None](https://img.shields.io/badge/-None-lightgrey)
+  A curated collection of SuperMimic implementations, extensions, demos, and resources.
+
+- **[ELU-Labs/dark-factory](https://github.com/ELU-Labs/dark-factory)** ⭐ 94
+  ![None](https://img.shields.io/badge/-None-lightgrey)
+  One prompt that sets up a dark factory for your repository with Grok Bots and ELU.
 
 ### 📈 Weekly Trending
 
-- **[pengchujin/aerial-tv](https://github.com/pengchujin/aerial-tv)** ⭐ 5,103
+- **[pengchujin/aerial-tv](https://github.com/pengchujin/aerial-tv)** ⭐ 5,778
   ![Kotlin](https://img.shields.io/badge/-Kotlin-lightgrey)
   给国产电视的一块干净桌面：参照 tvOS 设计的开源 Android TV 桌面，没有广告，开机自动接管。A tvOS-style launcher for Xiaomi, TCL and other China-market TVs.
 
-- **[JustAResearcher/gpu-unlock-ada](https://github.com/JustAResearcher/gpu-unlock-ada)** ⭐ 2,728
+- **[JustAResearcher/gpu-unlock-ada](https://github.com/JustAResearcher/gpu-unlock-ada)** ⭐ 3,480
   ![C](https://img.shields.io/badge/-C-lightgrey)
   GPU tensor unlock source for RTX 4090 and experimental RTX 4070 Ti SUPER; firmware generated locally
 
-- **[xevrion/hatchzip](https://github.com/xevrion/hatchzip)** ⭐ 1,947
-  ![Rust](https://img.shields.io/badge/-Rust-brown)
-  HatchZip is a free, open-source archive extractor for Windows, macOS and Linux that extracts ZIP, 7z, RAR, tar and split archives in place, so it needs free space for the extracted files only. Desktop app and CLI.
-
-- **[wesbos/3d-model-anything](https://github.com/wesbos/3d-model-anything)** ⭐ 1,938
+- **[wesbos/3d-model-anything](https://github.com/wesbos/3d-model-anything)** ⭐ 2,018
   ![Swift](https://img.shields.io/badge/-Swift-lightgrey)
   Capture iPhone LiDAR and photos, reconstruct editable Three.js rooms, and explore them in a browser.
 
-- **[ikow/php2shell-poc](https://github.com/ikow/php2shell-poc)** ⭐ 1,792
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  CVE-2026-109618/109619 — 5 RCE chains + detection rules (Suricata, Sigma, ModSecurity). PHP session.upload_progress pre-auth exploit research.
+- **[xevrion/hatchzip](https://github.com/xevrion/hatchzip)** ⭐ 2,002
+  ![Rust](https://img.shields.io/badge/-Rust-brown)
+  HatchZip is a free, open-source archive extractor for Windows, macOS and Linux that extracts ZIP, 7z, RAR, tar and split archives in place, so it needs free space for the extracted files only. Desktop app and CLI.
 
-- **[Jakeschincariol/day-trader-skill](https://github.com/Jakeschincariol/day-trader-skill)** ⭐ 1,660
+- **[Jakeschincariol/day-trader-skill](https://github.com/Jakeschincariol/day-trader-skill)** ⭐ 1,858
   ![Python](https://img.shields.io/badge/-Python-blue)
   11 Claude skills for day trading: scan thousands of charts, track breaking news, time every entry and exit, and replay every outcome before you risk a dollar.
 
-- **[oosexgang/hackios-xnu-kernel](https://github.com/oosexgang/hackios-xnu-kernel)** ⭐ 1,465
+- **[ikow/php2shell-poc](https://github.com/ikow/php2shell-poc)** ⭐ 1,819
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  CVE-2026-109618/109619 — 5 RCE chains + detection rules (Suricata, Sigma, ModSecurity). PHP session.upload_progress pre-auth exploit research.
+
+- **[oosexgang/hackios-xnu-kernel](https://github.com/oosexgang/hackios-xnu-kernel)** ⭐ 1,556
   ![C](https://img.shields.io/badge/-C-lightgrey)
   None
 
-- **[9bie/php2shell-bypass-aslr-exp](https://github.com/9bie/php2shell-bypass-aslr-exp)** ⭐ 1,437
+- **[9bie/php2shell-bypass-aslr-exp](https://github.com/9bie/php2shell-bypass-aslr-exp)** ⭐ 1,464
   ![Python](https://img.shields.io/badge/-Python-blue)
   A php2shell exploit that requires no modifications to the official version, and does not require display_errors or limit_memory.
 
 ### 📈 Monthly Trending
 
-- **[storytold/photocraft](https://github.com/storytold/photocraft)** ⭐ 72,863
+- **[storytold/photocraft](https://github.com/storytold/photocraft)** ⭐ 73,119
   ![Rust](https://img.shields.io/badge/-Rust-brown)
   PhotoCraft: An open-source, photo editor written by scratch in pure Rust
 
-- **[Gathin23/cleanyourtv](https://github.com/Gathin23/cleanyourtv)** ⭐ 35,474
-  ![Java](https://img.shields.io/badge/-Java-orange)
+- **[Gathin23/cleanyourtv](https://github.com/Gathin23/cleanyourtv)** ⭐ 37,416
+  ![Python](https://img.shields.io/badge/-Python-blue)
   Debloat any Android or Google TV over Wi-Fi and get an Apple TV-style home.
 
-- **[deepseek-ai/DeepInfer](https://github.com/deepseek-ai/DeepInfer)** ⭐ 22,471
+- **[deepseek-ai/DeepInfer](https://github.com/deepseek-ai/DeepInfer)** ⭐ 22,803
   ![Python](https://img.shields.io/badge/-Python-blue)
   DeepInfer: High-performance, large-scale inference framework for DeepSeek models
 
-- **[wheresryan22/anatomy](https://github.com/wheresryan22/anatomy)** ⭐ 20,643
+- **[wheresryan22/anatomy](https://github.com/wheresryan22/anatomy)** ⭐ 20,867
   ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
   An agent skill for creating detailed, interactive isometric illustrations of real-world machines and complex systems. Generates polished SVGs with optional WebGL shaders and 3D effects.
 
-- **[google-research/harness2](https://github.com/google-research/harness2)** ⭐ 19,668
+- **[google-research/harness2](https://github.com/google-research/harness2)** ⭐ 19,962
   ![Python](https://img.shields.io/badge/-Python-blue)
   None
 
-- **[storytold/pdfcraft](https://github.com/storytold/pdfcraft)** ⭐ 17,860
+- **[storytold/pdfcraft](https://github.com/storytold/pdfcraft)** ⭐ 17,932
   ![Rust](https://img.shields.io/badge/-Rust-brown)
   PdfCraft: An open-source PDF reader and editor written by scratch in pure Rust
 
-- **[storytold/filmcraft](https://github.com/storytold/filmcraft)** ⭐ 16,293
+- **[storytold/filmcraft](https://github.com/storytold/filmcraft)** ⭐ 16,342
   ![Rust](https://img.shields.io/badge/-Rust-brown)
   FilmCraft: An open-source, nonlinear video editor written by scratch in pure Rust
 
-- **[storytold/wordcraft](https://github.com/storytold/wordcraft)** ⭐ 16,060
+- **[storytold/wordcraft](https://github.com/storytold/wordcraft)** ⭐ 16,133
   ![Rust](https://img.shields.io/badge/-Rust-brown)
   An open-source, clean-room reimplementation of Microsoft Word in pure Rust
 
@@ -491,29 +489,29 @@ This is a security release.
 
 | Skill | Status |
 |-------|--------|
-| Java | 🟡 Learning |
-| Python | 🟡 Learning |
+| Java | 🟢 Proficient |
+| Python | 🟢 Proficient |
 | JavaScript | 🟡 Learning |
-| TypeScript | 🔴 Beginner |
-| Go | 🟡 Learning |
+| TypeScript | ⚪ Planned |
+| Go | 🔴 Beginner |
 
 ### Frameworks
 
 | Skill | Status |
 |-------|--------|
-| React | ⚪ Planned |
-| Spring Boot | 🟡 Learning |
+| React | 🟡 Learning |
+| Spring Boot | ⚪ Planned |
 | Django | ⚪ Planned |
-| Node.js | ⚪ Planned |
+| Node.js | 🟡 Learning |
 | Next.js | 🟡 Learning |
 
 ### Cybersecurity
 
 | Skill | Status |
 |-------|--------|
-| Penetration Testing | 🟢 Proficient |
-| Web Security | 🟢 Proficient |
-| Network Security | 🟡 Learning |
+| Penetration Testing | 🔴 Beginner |
+| Web Security | ⚪ Planned |
+| Network Security | 🔴 Beginner |
 | OWASP | 🟢 Proficient |
 
 ### Ai Ml
@@ -521,29 +519,29 @@ This is a security release.
 | Skill | Status |
 |-------|--------|
 | Machine Learning | 🔴 Beginner |
-| Deep Learning | 🟢 Proficient |
-| NLP | 🔴 Beginner |
-| Computer Vision | ⚪ Planned |
-| TensorFlow | 🔴 Beginner |
-| PyTorch | 🟢 Proficient |
+| Deep Learning | 🟡 Learning |
+| NLP | 🟢 Proficient |
+| Computer Vision | 🟡 Learning |
+| TensorFlow | 🟢 Proficient |
+| PyTorch | 🟡 Learning |
 
 ### Devops
 
 | Skill | Status |
 |-------|--------|
 | Docker | 🟢 Proficient |
-| Kubernetes | 🟡 Learning |
-| CI/CD | 🟡 Learning |
-| AWS | ⚪ Planned |
-| Azure | ⚪ Planned |
+| Kubernetes | 🟢 Proficient |
+| CI/CD | ⚪ Planned |
+| AWS | 🟢 Proficient |
+| Azure | 🟡 Learning |
 
 ### Other
 
 | Skill | Status |
 |-------|--------|
-| Blockchain | ⚪ Planned |
-| Web3 | 🔴 Beginner |
-| Cloud Computing | ⚪ Planned |
+| Blockchain | 🔴 Beginner |
+| Web3 | 🟡 Learning |
+| Cloud Computing | 🟡 Learning |
 
 </details>
 
