@@ -46,76 +46,74 @@
 
 ### 📑 Hacker News
 
-- **[Switzerland. Block by block. At 1:1 scale](https://blocks.manifold3d.ch/)**
-  *<p>Article URL: <a href="https://blocks.manifold3d.ch/">https://blocks.manifold3d.ch/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50240922">https://news.ycombinator.com/item...*
-  📅 Mon, 26 Oct 2026 08:46:09 +0000
+- **[ChatGPT Keeps Telling People 404 Media Can Solve Their Tech Support Problems](https://www.404media.co/chatgpt-keeps-telling-people-404-media-can-solve-their-tech-support-problems/)**
+  *<p>Article URL: <a href="https://www.404media.co/chatgpt-keeps-telling-people-404-media-can-solve-their-tech-support-problems/">https://www.404media.co/chatgpt-keeps-telling-people-404-media-can-solve...*
+  📅 Mon, 26 Oct 2026 17:32:16 +0000
 
-- **[Behind the scenes at the NeXT Computer office](https://exhibits.stanford.edu/menuez/browse/next-computer-inc?per_page=96&sort=pub_year_isi+asc%2C+title_sort+asc&view=masonry)**
-  *<p>Article URL: <a href="https://exhibits.stanford.edu/menuez/browse/next-computer-inc?per_page=96&amp;sort=pub_year_isi+asc%2C+title_sort+asc&amp;view=masonry">https://exhibits.stanford.edu/menuez/br...*
-  📅 Mon, 26 Oct 2026 03:31:11 +0000
+- **[The Git Forge for Agent-Human Collaboration](https://entire.com/blog/the-git-forge-for-agent-human-collaboration)**
+  *<p>Article URL: <a href="https://entire.com/blog/the-git-forge-for-agent-human-collaboration">https://entire.com/blog/the-git-forge-for-agent-human-collaboration</a></p>
+<p>Comments URL: <a href="http...*
+  📅 Mon, 26 Oct 2026 17:23:11 +0000
 
-- **[PaperPilot – Zero-Cloud, Pure-Rust PDF Engine with WASM and MCP](https://github.com/KrushnaVardhanReddy/PaperPilot)**
-  *<p>Article URL: <a href="https://github.com/KrushnaVardhanReddy/PaperPilot">https://github.com/KrushnaVardhanReddy/PaperPilot</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=502...*
-  📅 Mon, 26 Oct 2026 03:29:05 +0000
+- **[Concerning behavior from a popular open-weight AI model](https://cohere.com/blog/concerning-behaviour-popular-open-weight-ai-model)**
+  *<p>Article URL: <a href="https://cohere.com/blog/concerning-behaviour-popular-open-weight-ai-model">https://cohere.com/blog/concerning-behaviour-popular-open-weight-ai-model</a></p>
+<p>Comments URL: <...*
+  📅 Mon, 26 Oct 2026 16:35:44 +0000
 
-- **[Show HN: TitleArt – Make text like it's 1997](https://titleart.dvy.io/)**
-  *<p>Article URL: <a href="https://titleart.dvy.io/">https://titleart.dvy.io/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50238708">https://news.ycombinator.com/item?id=502387...*
-  📅 Mon, 26 Oct 2026 03:23:57 +0000
+- **[Stalwart v1.0: The Fastest Mail Server on the Planet](https://stalw.art/blog/stalwart-1-0/)**
+  *<p>Article URL: <a href="https://stalw.art/blog/stalwart-1-0/">https://stalw.art/blog/stalwart-1-0/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50245945">https://news.ycombi...*
+  📅 Mon, 26 Oct 2026 15:57:12 +0000
 
-- **[IBM CEO says open weight models are now good and cheap on-prem](https://www.theregister.com/systems/2026/10/22/ibm-ceo-says-open-weight-models-are-now-irresistibly-good-and-cheap-on-prem/5304640)**
-  *<p>Article URL: <a href="https://www.theregister.com/systems/2026/10/22/ibm-ceo-says-open-weight-models-are-now-irresistibly-good-and-cheap-on-prem/5304640">https://www.theregister.com/systems/2026/10...*
-  📅 Mon, 26 Oct 2026 01:47:46 +0000
+- **[CSS-Tricks has a new owner](https://css-tricks.com/css-tricks-has-a-new-owner/)**
+  *<p>Article URL: <a href="https://css-tricks.com/css-tricks-has-a-new-owner/">https://css-tricks.com/css-tricks-has-a-new-owner/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=5...*
+  📅 Mon, 26 Oct 2026 15:51:23 +0000
 
-- **[Removing Next.js Got My Blog to 100 on Every Lighthouse Category](https://korindiehacker.bloffy.blog/en/removing-nextjs-got-my-blog-to-100-on-every-lighthouse-category)**
-  *<p>Article URL: <a href="https://korindiehacker.bloffy.blog/en/removing-nextjs-got-my-blog-to-100-on-every-lighthouse-category">https://korindiehacker.bloffy.blog/en/removing-nextjs-got-my-blog-to-100...*
-  📅 Mon, 26 Oct 2026 01:03:39 +0000
+- **[Microsoft offers mass buyouts for roughly a quarter of its workforce](https://www.seattletimes.com/business/microsoft/microsoft-offers-mass-buyouts-for-roughly-a-quarter-of-its-workforce/)**
+  *<p>Article URL: <a href="https://www.seattletimes.com/business/microsoft/microsoft-offers-mass-buyouts-for-roughly-a-quarter-of-its-workforce/">https://www.seattletimes.com/business/microsoft/microsof...*
+  📅 Mon, 26 Oct 2026 15:35:12 +0000
 
 ### 📑 TechCrunch
 
-- **[The best apps for tracking your reading and discovering new books](https://techcrunch.com/2026/10/25/5-best-apps-track-reading-discover-new-books/)**
-  *There are numerous apps on the market that promise to do just that, so we’ve compiled a list of some of the best ones to help you pick the right one for you....*
-  📅 Mon, 26 Oct 2026 01:10:00 +0000
+- **[This startup’s self-driving excavators help dig up $600M in new funding](https://techcrunch.com/2026/10/26/this-startups-self-driving-excavators-help-dig-up-600m-in-new-funding/)**
+  *Bedrock Robotics, which is now valued at $4.1 billion, is particularly focused on autonomous excavators, in part because of a growing shortage of skilled operators....*
+  📅 Mon, 26 Oct 2026 17:45:00 +0000
 
-- **[Grok releases the first seven minutes of its AI-generated ‘Odyssey’](https://techcrunch.com/2026/10/25/grok-releases-the-first-seven-minutes-of-its-ai-generated-odyssey/)**
-  *The footage looks okay, as long as you're not seeking artistry, inspiration, or human interest....*
-  📅 Sun, 25 Oct 2026 21:31:16 +0000
+- **[Anthropic’s IPO filing reveals its strategy for keeping enterprise customers hooked](https://techcrunch.com/2026/10/26/anthropics-ipo-filing-reveals-its-strategy-for-keeping-enterprise-customers-hooked/)**
+  *Anthropic’s S-1 shows more than half of its $100,000-plus customers now use both the Claude Platform and a first-party app, a cross-selling playbook reminiscent of Amazon that’s making enterprise cust...*
+  📅 Mon, 26 Oct 2026 16:49:42 +0000
 
-- **[‘Cyberselfish’ author takes aim at techno-libertarianism as her book returns from the dead](https://techcrunch.com/2026/10/25/cyberselfish-author-takes-aim-at-techno-libertarianism-as-her-book-returns-from-the-dead/)**
-  *"That's a 12-year-old view of the world."...*
-  📅 Sun, 25 Oct 2026 20:20:08 +0000
+- **[SpaceX locks in $40B GPU financing deal with Apollo](https://techcrunch.com/2026/10/26/spacex-locks-in-40b-gpu-financing-deal-with-apollo/)**
+  *SpaceX has locked in a binding commitment for roughly $40 billion in financing to pay for AI chips and related data center equipment, the company disclosed in a regulatory filing Monday. In a statemen...*
+  📅 Mon, 26 Oct 2026 16:46:36 +0000
 
-- **[AI delivers ‘zero financial payoff’ to most companies, Apollo economist says](https://techcrunch.com/2026/10/25/ai-delivers-zero-financial-payoff-to-most-companies-according-to-apollo-economist/)**
-  *"Despite massive investments and widespread hype around artificial intelligence, the technology has delivered zero financial payoff to corporate America outside of tech."...*
-  📅 Sun, 25 Oct 2026 16:57:32 +0000
+- **[Microsoft offers buyouts to around 60,000 employees, reports say](https://techcrunch.com/2026/10/26/microsoft-offers-buyouts-to-around-60000-employees-reports-say/)**
+  *The buyout offers mark Microsoft's latest efforts to cut costs and rework its workforce....*
+  📅 Mon, 26 Oct 2026 15:58:25 +0000
 
-- **[TechCrunch Mobility: Blue-green is the color of autonomy](https://techcrunch.com/2026/10/25/techcrunch-mobility-blue-green-is-the-color-of-autonomy/)**
-  *Welcome back to TechCrunch Mobility, your hub for the future of transportation and now, more than ever, the role AI is playing in it....*
-  📅 Sun, 25 Oct 2026 16:05:00 +0000
+- **[Anthropic officially files for its public debut](https://techcrunch.com/2026/10/26/anthropic-officially-files-for-its-public-debut/)**
+  *Anthropic has officially filed for an IPO, revealing soaring revenue, mounting losses, major enterprise adoption, and an unusual governance structure designed to preserve founder control and its AI sa...*
+  📅 Mon, 26 Oct 2026 14:35:22 +0000
 
-- **[The hottest AI wearables and gadgets you should know about](https://techcrunch.com/2026/10/25/the-hottest-ai-wearables-and-gadgets-you-should-know-about/)**
-  *We compiled a list of all the hottest AI wearables, including Muse Charm, Bee, Friend, Plaud, and more....*
-  📅 Sun, 25 Oct 2026 14:10:00 +0000
+- **[Apple unveils new iPad mini with OLED display and faster A20 Pro chip](https://techcrunch.com/2026/10/26/apple-unveils-new-ipad-mini-with-oled-display-and-faster-a20-pro-chip/)**
+  *The new iPad mini features a thinner and lighter design than its predecessor....*
+  📅 Mon, 26 Oct 2026 14:25:43 +0000
 
 ### 📑 Dev.to
 
-- **[Fetch at read time: why on-demand artifacts beat stored ones](https://dev.to/dutiful_dev/fetch-at-read-time-why-on-demand-artifacts-beat-stored-ones-1pk3)**
-  *<p>Every API that returns a document makes a quiet choice: assemble the artifact when the request arrives, or serve one that was built earlier. The second option is cheaper to run and almost always wo...*
-  📅 Mon, 26 Oct 2026 11:47:13 +0000
-
-- **[We asked 5 AIs the same CRM question 50 times. Here is who got named.](https://dev.to/len_kelsey_7df6899a13a3d5/we-asked-5-ais-the-same-crm-question-50-times-here-is-who-got-named-38e1)**
-  *<p>More buyers now ask an AI "what is the best ___?" before they search Google. If the AI does not name you, you are not on the list. So we tested it.</p>
+- **[useDebouncedCallback: Debounce Without the Stale Closure](https://dev.to/saiful7778/usedebouncedcallback-debounce-without-the-stale-closure-2o1)**
+  *<p><em>A small hook that stops a delayed callback from firing with yesterday's state — and keeps the timer's identity stable even when the callback changes on every render.</em></p>
 
 <h2>
   
   
-  The test
-</h2>
+  The ...*
+  📅 Mon, 26 Oct 2026 17:52:28 +0000
 
-<p>5 AIs, each ...*
-  📅 Mon, 26 Oct 2026 11:46:49 +0000
+- **[Modern Strategies for Making Enterprise APIs Agent Ready](https://dev.to/vpodk/modern-strategies-for-making-enterprise-apis-agent-ready-i6)**
+  *<p>Enterprises spent the last decade building comprehensive API programs to manage internal services. A large organization now runs thousands of internal APIs, each featuring a specific owner and auth...*
+  📅 Mon, 26 Oct 2026 17:52:00 +0000
 
 </details>
 
@@ -123,9 +121,17 @@
 
 ### 📈 Daily Trending
 
-- **[andyhuo520/digital-human-koubo](https://github.com/andyhuo520/digital-human-koubo)** ⭐ 320
+- **[andyhuo520/digital-human-koubo](https://github.com/andyhuo520/digital-human-koubo)** ⭐ 580
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   AI digital-human talking-head videos from one photo: Renoise MCP generation + 5 editing styles + 48 creator-grade packaging components. Agent skill for Claude Code / Codex / OpenClaw / WorkBuddy …
+
+- **[andriu-kun/-wildrig-multi](https://github.com/andriu-kun/-wildrig-multi)** ⭐ 363
+  ![None](https://img.shields.io/badge/-None-lightgrey)
+  multi algo miner for AMD, NVIDIA and Intel gpu's wildrig-multi
+
+- **[yaojingang/GEOInflow](https://github.com/yaojingang/GEOInflow)** ⭐ 289
+  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
+  Self-hosted web and AI crawler analytics for Generative Engine Optimization (GEO). Track visitors, AI search referrals, crawl logs, content coverage, and conversions. Jointly published by 猎看科技 · 北京日报社智源GEO. MIT licensed.
 
 - **[free-cracks/Adobe-Acrobat-Pro](https://github.com/free-cracks/Adobe-Acrobat-Pro)** ⭐ 287
   ![None](https://img.shields.io/badge/-None-lightgrey)
@@ -135,91 +141,83 @@
   ![None](https://img.shields.io/badge/-None-lightgrey)
   None
 
-- **[yaojingang/GEOInflow](https://github.com/yaojingang/GEOInflow)** ⭐ 190
-  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
-  Self-hosted web and AI crawler analytics for Generative Engine Optimization (GEO). Track visitors, AI search referrals, crawl logs, content coverage, and conversions. Jointly published by 猎看科技 · 北京日报社智源GEO. MIT licensed.
+- **[NyxFoundation/nyxis](https://github.com/NyxFoundation/nyxis)** ⭐ 212
+  ![Lean](https://img.shields.io/badge/-Lean-lightgrey)
+  None
 
 - **[arcade-tools/Roblox-script](https://github.com/arcade-tools/Roblox-script)** ⭐ 177
   ![None](https://img.shields.io/badge/-None-lightgrey)
   None
 
-- **[NyxFoundation/nyxis](https://github.com/NyxFoundation/nyxis)** ⭐ 127
-  ![Lean](https://img.shields.io/badge/-Lean-lightgrey)
+- **[SwitchFW-Tools/switch2-bootstrapper](https://github.com/SwitchFW-Tools/switch2-bootstrapper)** ⭐ 150
+  ![None](https://img.shields.io/badge/-None-lightgrey)
   None
-
-- **[DiaoOrg/awesome-supermimic](https://github.com/DiaoOrg/awesome-supermimic)** ⭐ 100
-  ![None](https://img.shields.io/badge/-None-lightgrey)
-  A curated collection of SuperMimic implementations, extensions, demos, and resources.
-
-- **[ELU-Labs/dark-factory](https://github.com/ELU-Labs/dark-factory)** ⭐ 94
-  ![None](https://img.shields.io/badge/-None-lightgrey)
-  One prompt that sets up a dark factory for your repository with Grok Bots and ELU.
 
 ### 📈 Weekly Trending
 
-- **[pengchujin/aerial-tv](https://github.com/pengchujin/aerial-tv)** ⭐ 5,778
+- **[pengchujin/aerial-tv](https://github.com/pengchujin/aerial-tv)** ⭐ 6,003
   ![Kotlin](https://img.shields.io/badge/-Kotlin-lightgrey)
   给国产电视的一块干净桌面：参照 tvOS 设计的开源 Android TV 桌面，没有广告，开机自动接管。A tvOS-style launcher for Xiaomi, TCL and other China-market TVs.
 
-- **[JustAResearcher/gpu-unlock-ada](https://github.com/JustAResearcher/gpu-unlock-ada)** ⭐ 3,480
+- **[JustAResearcher/gpu-unlock-ada](https://github.com/JustAResearcher/gpu-unlock-ada)** ⭐ 3,703
   ![C](https://img.shields.io/badge/-C-lightgrey)
   GPU tensor unlock source for RTX 4090 and experimental RTX 4070 Ti SUPER; firmware generated locally
 
-- **[wesbos/3d-model-anything](https://github.com/wesbos/3d-model-anything)** ⭐ 2,018
+- **[wesbos/3d-model-anything](https://github.com/wesbos/3d-model-anything)** ⭐ 2,046
   ![Swift](https://img.shields.io/badge/-Swift-lightgrey)
   Capture iPhone LiDAR and photos, reconstruct editable Three.js rooms, and explore them in a browser.
 
-- **[xevrion/hatchzip](https://github.com/xevrion/hatchzip)** ⭐ 2,002
+- **[xevrion/hatchzip](https://github.com/xevrion/hatchzip)** ⭐ 2,031
   ![Rust](https://img.shields.io/badge/-Rust-brown)
   HatchZip is a free, open-source archive extractor for Windows, macOS and Linux that extracts ZIP, 7z, RAR, tar and split archives in place, so it needs free space for the extracted files only. Desktop app and CLI.
 
-- **[Jakeschincariol/day-trader-skill](https://github.com/Jakeschincariol/day-trader-skill)** ⭐ 1,858
+- **[Jakeschincariol/day-trader-skill](https://github.com/Jakeschincariol/day-trader-skill)** ⭐ 1,975
   ![Python](https://img.shields.io/badge/-Python-blue)
   11 Claude skills for day trading: scan thousands of charts, track breaking news, time every entry and exit, and replay every outcome before you risk a dollar.
 
-- **[ikow/php2shell-poc](https://github.com/ikow/php2shell-poc)** ⭐ 1,819
+- **[ikow/php2shell-poc](https://github.com/ikow/php2shell-poc)** ⭐ 1,826
   ![Python](https://img.shields.io/badge/-Python-blue)
   CVE-2026-109618/109619 — 5 RCE chains + detection rules (Suricata, Sigma, ModSecurity). PHP session.upload_progress pre-auth exploit research.
 
-- **[oosexgang/hackios-xnu-kernel](https://github.com/oosexgang/hackios-xnu-kernel)** ⭐ 1,556
+- **[rddmwmddr/android-ad-cleaner](https://github.com/rddmwmddr/android-ad-cleaner)** ⭐ 1,795
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  关掉国产安卓手机系统里的广告、热搜、资讯推荐和营销推送。不 root，可还原，支持 AI 智能体一键执行。
+
+- **[oosexgang/hackios-xnu-kernel](https://github.com/oosexgang/hackios-xnu-kernel)** ⭐ 1,635
   ![C](https://img.shields.io/badge/-C-lightgrey)
   None
 
-- **[9bie/php2shell-bypass-aslr-exp](https://github.com/9bie/php2shell-bypass-aslr-exp)** ⭐ 1,464
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  A php2shell exploit that requires no modifications to the official version, and does not require display_errors or limit_memory.
-
 ### 📈 Monthly Trending
 
-- **[storytold/photocraft](https://github.com/storytold/photocraft)** ⭐ 73,119
+- **[storytold/photocraft](https://github.com/storytold/photocraft)** ⭐ 73,257
   ![Rust](https://img.shields.io/badge/-Rust-brown)
   PhotoCraft: An open-source, photo editor written by scratch in pure Rust
 
-- **[Gathin23/cleanyourtv](https://github.com/Gathin23/cleanyourtv)** ⭐ 37,416
+- **[Gathin23/cleanyourtv](https://github.com/Gathin23/cleanyourtv)** ⭐ 38,556
   ![Python](https://img.shields.io/badge/-Python-blue)
   Debloat any Android or Google TV over Wi-Fi and get an Apple TV-style home.
 
-- **[deepseek-ai/DeepInfer](https://github.com/deepseek-ai/DeepInfer)** ⭐ 22,803
+- **[deepseek-ai/DeepInfer](https://github.com/deepseek-ai/DeepInfer)** ⭐ 22,950
   ![Python](https://img.shields.io/badge/-Python-blue)
   DeepInfer: High-performance, large-scale inference framework for DeepSeek models
 
-- **[wheresryan22/anatomy](https://github.com/wheresryan22/anatomy)** ⭐ 20,867
+- **[wheresryan22/anatomy](https://github.com/wheresryan22/anatomy)** ⭐ 20,985
   ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
   An agent skill for creating detailed, interactive isometric illustrations of real-world machines and complex systems. Generates polished SVGs with optional WebGL shaders and 3D effects.
 
-- **[google-research/harness2](https://github.com/google-research/harness2)** ⭐ 19,962
+- **[google-research/harness2](https://github.com/google-research/harness2)** ⭐ 20,086
   ![Python](https://img.shields.io/badge/-Python-blue)
   None
 
-- **[storytold/pdfcraft](https://github.com/storytold/pdfcraft)** ⭐ 17,932
+- **[storytold/pdfcraft](https://github.com/storytold/pdfcraft)** ⭐ 17,993
   ![Rust](https://img.shields.io/badge/-Rust-brown)
   PdfCraft: An open-source PDF reader and editor written by scratch in pure Rust
 
-- **[storytold/filmcraft](https://github.com/storytold/filmcraft)** ⭐ 16,342
+- **[storytold/filmcraft](https://github.com/storytold/filmcraft)** ⭐ 16,385
   ![Rust](https://img.shields.io/badge/-Rust-brown)
   FilmCraft: An open-source, nonlinear video editor written by scratch in pure Rust
 
-- **[storytold/wordcraft](https://github.com/storytold/wordcraft)** ⭐ 16,133
+- **[storytold/wordcraft](https://github.com/storytold/wordcraft)** ⭐ 16,182
   ![Rust](https://img.shields.io/badge/-Rust-brown)
   An open-source, clean-room reimplementation of Microsoft Word in pure Rust
 
@@ -489,28 +487,28 @@ This is a security release.
 
 | Skill | Status |
 |-------|--------|
-| Java | 🟢 Proficient |
-| Python | 🟢 Proficient |
-| JavaScript | 🟡 Learning |
-| TypeScript | ⚪ Planned |
-| Go | 🔴 Beginner |
+| Java | 🔴 Beginner |
+| Python | 🟡 Learning |
+| JavaScript | 🟢 Proficient |
+| TypeScript | 🔴 Beginner |
+| Go | 🟡 Learning |
 
 ### Frameworks
 
 | Skill | Status |
 |-------|--------|
-| React | 🟡 Learning |
-| Spring Boot | ⚪ Planned |
-| Django | ⚪ Planned |
+| React | 🟢 Proficient |
+| Spring Boot | 🔴 Beginner |
+| Django | 🔴 Beginner |
 | Node.js | 🟡 Learning |
-| Next.js | 🟡 Learning |
+| Next.js | ⚪ Planned |
 
 ### Cybersecurity
 
 | Skill | Status |
 |-------|--------|
-| Penetration Testing | 🔴 Beginner |
-| Web Security | ⚪ Planned |
+| Penetration Testing | 🟡 Learning |
+| Web Security | 🔴 Beginner |
 | Network Security | 🔴 Beginner |
 | OWASP | 🟢 Proficient |
 
@@ -518,30 +516,30 @@ This is a security release.
 
 | Skill | Status |
 |-------|--------|
-| Machine Learning | 🔴 Beginner |
-| Deep Learning | 🟡 Learning |
-| NLP | 🟢 Proficient |
-| Computer Vision | 🟡 Learning |
-| TensorFlow | 🟢 Proficient |
-| PyTorch | 🟡 Learning |
+| Machine Learning | 🟢 Proficient |
+| Deep Learning | ⚪ Planned |
+| NLP | 🟡 Learning |
+| Computer Vision | ⚪ Planned |
+| TensorFlow | 🔴 Beginner |
+| PyTorch | 🟢 Proficient |
 
 ### Devops
 
 | Skill | Status |
 |-------|--------|
-| Docker | 🟢 Proficient |
-| Kubernetes | 🟢 Proficient |
-| CI/CD | ⚪ Planned |
+| Docker | 🟡 Learning |
+| Kubernetes | 🟡 Learning |
+| CI/CD | 🟡 Learning |
 | AWS | 🟢 Proficient |
-| Azure | 🟡 Learning |
+| Azure | ⚪ Planned |
 
 ### Other
 
 | Skill | Status |
 |-------|--------|
-| Blockchain | 🔴 Beginner |
-| Web3 | 🟡 Learning |
-| Cloud Computing | 🟡 Learning |
+| Blockchain | 🟡 Learning |
+| Web3 | ⚪ Planned |
+| Cloud Computing | ⚪ Planned |
 
 </details>
 
