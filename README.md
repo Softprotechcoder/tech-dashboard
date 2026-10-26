@@ -46,35 +46,49 @@
 
 ### 📑 Hacker News
 
-- **[ChatGPT Keeps Telling People 404 Media Can Solve Their Tech Support Problems](https://www.404media.co/chatgpt-keeps-telling-people-404-media-can-solve-their-tech-support-problems/)**
-  *<p>Article URL: <a href="https://www.404media.co/chatgpt-keeps-telling-people-404-media-can-solve-their-tech-support-problems/">https://www.404media.co/chatgpt-keeps-telling-people-404-media-can-solve...*
-  📅 Mon, 26 Oct 2026 17:32:16 +0000
+- **[Working with academic communities to build scientific understanding](https://openai.com/index/building-scientific-understanding-with-academic-communities/)**
+  *<p>Article URL: <a href="https://openai.com/index/building-scientific-understanding-with-academic-communities/">https://openai.com/index/building-scientific-understanding-with-academic-communities/</a...*
+  📅 Mon, 26 Oct 2026 21:35:28 +0000
 
-- **[The Git Forge for Agent-Human Collaboration](https://entire.com/blog/the-git-forge-for-agent-human-collaboration)**
-  *<p>Article URL: <a href="https://entire.com/blog/the-git-forge-for-agent-human-collaboration">https://entire.com/blog/the-git-forge-for-agent-human-collaboration</a></p>
-<p>Comments URL: <a href="http...*
-  📅 Mon, 26 Oct 2026 17:23:11 +0000
+- **[CorridorKey 2.0](https://corridorkey.com/)**
+  *<p>Article URL: <a href="https://corridorkey.com/">https://corridorkey.com/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50251127">https://news.ycombinator.com/item?id=502511...*
+  📅 Mon, 26 Oct 2026 21:18:05 +0000
 
-- **[Concerning behavior from a popular open-weight AI model](https://cohere.com/blog/concerning-behaviour-popular-open-weight-ai-model)**
-  *<p>Article URL: <a href="https://cohere.com/blog/concerning-behaviour-popular-open-weight-ai-model">https://cohere.com/blog/concerning-behaviour-popular-open-weight-ai-model</a></p>
-<p>Comments URL: <...*
-  📅 Mon, 26 Oct 2026 16:35:44 +0000
+- **[Microsoft offers voluntary buyouts to a quarter of its workforce](https://www.kuow.org/technology/2026-10-26/microsoft-offers-voluntary-buyouts-to-a-quarter-of-its-workforce)**
+  *<p>Article URL: <a href="https://www.kuow.org/technology/2026-10-26/microsoft-offers-voluntary-buyouts-to-a-quarter-of-its-workforce">https://www.kuow.org/technology/2026-10-26/microsoft-offers-volunt...*
+  📅 Mon, 26 Oct 2026 21:05:15 +0000
 
-- **[Stalwart v1.0: The Fastest Mail Server on the Planet](https://stalw.art/blog/stalwart-1-0/)**
-  *<p>Article URL: <a href="https://stalw.art/blog/stalwart-1-0/">https://stalw.art/blog/stalwart-1-0/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50245945">https://news.ycombi...*
-  📅 Mon, 26 Oct 2026 15:57:12 +0000
+- **[Init – a Rust agent harness that recompiles and hot-swaps its own core mid-task](https://initlabs.si/)**
+  *<p>Article URL: <a href="https://initlabs.si/">https://initlabs.si/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50249947">https://news.ycombinator.com/item?id=50249947</a></...*
+  📅 Mon, 26 Oct 2026 19:52:05 +0000
 
-- **[CSS-Tricks has a new owner](https://css-tricks.com/css-tricks-has-a-new-owner/)**
-  *<p>Article URL: <a href="https://css-tricks.com/css-tricks-has-a-new-owner/">https://css-tricks.com/css-tricks-has-a-new-owner/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=5...*
-  📅 Mon, 26 Oct 2026 15:51:23 +0000
+- **[Magic state cultivation on a superconducting quantum processor](https://arxiv.org/abs/2512.13908)**
+  *<p>Abstract: "Fault-tolerant quantum computing requires a universal gate set, but the necessary non-Clifford gates represent a significant resource cost for most quantum error correction architectures...*
+  📅 Mon, 26 Oct 2026 19:37:59 +0000
 
-- **[Microsoft offers mass buyouts for roughly a quarter of its workforce](https://www.seattletimes.com/business/microsoft/microsoft-offers-mass-buyouts-for-roughly-a-quarter-of-its-workforce/)**
-  *<p>Article URL: <a href="https://www.seattletimes.com/business/microsoft/microsoft-offers-mass-buyouts-for-roughly-a-quarter-of-its-workforce/">https://www.seattletimes.com/business/microsoft/microsof...*
-  📅 Mon, 26 Oct 2026 15:35:12 +0000
+- **[The EPA Is Quietly Killing Its Web Archive](https://www.motherjones.com/environment/2026/10/epa-online-archive-deletion-zeldin-camp-lejeune-trump-clean-power/)**
+  *<p>Article URL: <a href="https://www.motherjones.com/environment/2026/10/epa-online-archive-deletion-zeldin-camp-lejeune-trump-clean-power/">https://www.motherjones.com/environment/2026/10/epa-online-...*
+  📅 Mon, 26 Oct 2026 19:05:41 +0000
 
 ### 📑 TechCrunch
+
+- **[Databricks co-founder shares his secrets for winning big enterprises customers](https://techcrunch.com/2026/10/26/databricks-co-founder-shares-his-secrets-for-winning-big-enterprises-customers/)**
+  *Turns out selling to big companies isn’t about having the shiniest tech: it’s about hitching a ride on a giant’s sales team....*
+  📅 Mon, 26 Oct 2026 22:00:00 +0000
+
+- **[Watch out, YouTube — Instagram goes from short-form to 90-minute videos](https://techcrunch.com/2026/10/26/watch-out-youtube-instagram-goes-from-short-form-to-90-minute-videos/)**
+  *After years in which every social platform (even LinkedIn!) aggressively pursued short-form video, this is a notable shift in strategy for Instagram....*
+  📅 Mon, 26 Oct 2026 21:05:11 +0000
+
+- **[Uh-oh, it sounds like the iPhone Duo keeps cracking and users aren’t happy about it](https://techcrunch.com/2026/10/26/uh-oh-it-sounds-like-the-iphone-duo-keeps-cracking-and-users-arent-happy-about-it/)**
+  *A small number of early adopters of the much-hyped new foldable phone from Apple have complained of screens cracking....*
+  📅 Mon, 26 Oct 2026 19:22:40 +0000
+
+- **[Fusion startups are giving the government shares in exchange for awards. Is it worth it?](https://techcrunch.com/2026/10/26/fusion-startups-are-giving-the-government-shares-in-exchange-for-awards-is-it-worth-it/)**
+  *Fusion startups face a new challenge, one unrelated to plasma physics: Give the government shares in exchange for funding awards or go it alone?...*
+  📅 Mon, 26 Oct 2026 18:59:52 +0000
 
 - **[This startup’s self-driving excavators help dig up $600M in new funding](https://techcrunch.com/2026/10/26/this-startups-self-driving-excavators-help-dig-up-600m-in-new-funding/)**
   *Bedrock Robotics, which is now valued at $4.1 billion, is particularly focused on autonomous excavators, in part because of a growing shortage of skilled operators....*
@@ -84,36 +98,20 @@
   *Anthropic’s S-1 shows more than half of its $100,000-plus customers now use both the Claude Platform and a first-party app, a cross-selling playbook reminiscent of Amazon that’s making enterprise cust...*
   📅 Mon, 26 Oct 2026 16:49:42 +0000
 
-- **[SpaceX locks in $40B GPU financing deal with Apollo](https://techcrunch.com/2026/10/26/spacex-locks-in-40b-gpu-financing-deal-with-apollo/)**
-  *SpaceX has locked in a binding commitment for roughly $40 billion in financing to pay for AI chips and related data center equipment, the company disclosed in a regulatory filing Monday. In a statemen...*
-  📅 Mon, 26 Oct 2026 16:46:36 +0000
-
-- **[Microsoft offers buyouts to around 60,000 employees, reports say](https://techcrunch.com/2026/10/26/microsoft-offers-buyouts-to-around-60000-employees-reports-say/)**
-  *The buyout offers mark Microsoft's latest efforts to cut costs and rework its workforce....*
-  📅 Mon, 26 Oct 2026 15:58:25 +0000
-
-- **[Anthropic officially files for its public debut](https://techcrunch.com/2026/10/26/anthropic-officially-files-for-its-public-debut/)**
-  *Anthropic has officially filed for an IPO, revealing soaring revenue, mounting losses, major enterprise adoption, and an unusual governance structure designed to preserve founder control and its AI sa...*
-  📅 Mon, 26 Oct 2026 14:35:22 +0000
-
-- **[Apple unveils new iPad mini with OLED display and faster A20 Pro chip](https://techcrunch.com/2026/10/26/apple-unveils-new-ipad-mini-with-oled-display-and-faster-a20-pro-chip/)**
-  *The new iPad mini features a thinner and lighter design than its predecessor....*
-  📅 Mon, 26 Oct 2026 14:25:43 +0000
-
 ### 📑 Dev.to
 
-- **[useDebouncedCallback: Debounce Without the Stale Closure](https://dev.to/saiful7778/usedebouncedcallback-debounce-without-the-stale-closure-2o1)**
-  *<p><em>A small hook that stops a delayed callback from firing with yesterday's state — and keeps the timer's identity stable even when the callback changes on every render.</em></p>
+- **[👻 GhostShell: A Haunted AI Terminal Powered by Local AI](https://dev.to/meetpatil2026/ghostshell-a-haunted-ai-terminal-powered-by-local-ai-2oco)**
+  *<p><em>This is a submission for the <a href="https://dev.to/challenges/hacktoberfest-week4-2026-10-26">Hacktoberfest Open-Source AI Challenge Week 4: Ghost in the Machine</a>.</em></p>
 
-<h2>
+<h1>
   
   
-  The ...*
-  📅 Mon, 26 Oct 2026 17:52:28 +0000
+  👻...*
+  📅 Mon, 26 Oct 2026 22:08:41 +0000
 
-- **[Modern Strategies for Making Enterprise APIs Agent Ready](https://dev.to/vpodk/modern-strategies-for-making-enterprise-apis-agent-ready-i6)**
-  *<p>Enterprises spent the last decade building comprehensive API programs to manage internal services. A large organization now runs thousands of internal APIs, each featuring a specific owner and auth...*
-  📅 Mon, 26 Oct 2026 17:52:00 +0000
+- **[How We Let Silicon Valley Steal the Future (And How Developers Can Take It Back)](https://dev.to/anne_jacobs_ac166227aa92b/how-we-let-silicon-valley-steal-the-future-and-how-developers-can-take-it-back-2ie0)**
+  *<p>Remember when the tech industry’s pitch was about abundance, open collaboration, and empowering the individual? Somewhere along the way, the garage-startup ethos traded its idealism for consolidati...*
+  📅 Mon, 26 Oct 2026 22:08:36 +0000
 
 </details>
 
@@ -121,15 +119,15 @@
 
 ### 📈 Daily Trending
 
-- **[andyhuo520/digital-human-koubo](https://github.com/andyhuo520/digital-human-koubo)** ⭐ 580
+- **[andyhuo520/digital-human-koubo](https://github.com/andyhuo520/digital-human-koubo)** ⭐ 639
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   AI digital-human talking-head videos from one photo: Renoise MCP generation + 5 editing styles + 48 creator-grade packaging components. Agent skill for Claude Code / Codex / OpenClaw / WorkBuddy …
 
-- **[andriu-kun/-wildrig-multi](https://github.com/andriu-kun/-wildrig-multi)** ⭐ 363
+- **[andriu-kun/-wildrig-multi](https://github.com/andriu-kun/-wildrig-multi)** ⭐ 362
   ![None](https://img.shields.io/badge/-None-lightgrey)
   multi algo miner for AMD, NVIDIA and Intel gpu's wildrig-multi
 
-- **[yaojingang/GEOInflow](https://github.com/yaojingang/GEOInflow)** ⭐ 289
+- **[yaojingang/GEOInflow](https://github.com/yaojingang/GEOInflow)** ⭐ 326
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   Self-hosted web and AI crawler analytics for Generative Engine Optimization (GEO). Track visitors, AI search referrals, crawl logs, content coverage, and conversions. Jointly published by 猎看科技 · 北京日报社智源GEO. MIT licensed.
 
@@ -141,83 +139,83 @@
   ![None](https://img.shields.io/badge/-None-lightgrey)
   None
 
-- **[NyxFoundation/nyxis](https://github.com/NyxFoundation/nyxis)** ⭐ 212
+- **[DLSS-5-Swapper-Portable/.github](https://github.com/DLSS-5-Swapper-Portable/.github)** ⭐ 236
+  ![None](https://img.shields.io/badge/-None-lightgrey)
+  DLSS 5 Swapper is a graphics-focused utility designed for users who want more control over compatible game rendering components.
+
+- **[NyxFoundation/nyxis](https://github.com/NyxFoundation/nyxis)** ⭐ 223
   ![Lean](https://img.shields.io/badge/-Lean-lightgrey)
   None
 
-- **[arcade-tools/Roblox-script](https://github.com/arcade-tools/Roblox-script)** ⭐ 177
-  ![None](https://img.shields.io/badge/-None-lightgrey)
-  None
-
-- **[SwitchFW-Tools/switch2-bootstrapper](https://github.com/SwitchFW-Tools/switch2-bootstrapper)** ⭐ 150
-  ![None](https://img.shields.io/badge/-None-lightgrey)
-  None
+- **[blakeandersonw/ai-app-playbook](https://github.com/blakeandersonw/ai-app-playbook)** ⭐ 186
+  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
+  How to build useful, profitable apps in 2026. Clone it and point your coding agent at AGENTS.md.
 
 ### 📈 Weekly Trending
 
-- **[pengchujin/aerial-tv](https://github.com/pengchujin/aerial-tv)** ⭐ 6,003
+- **[pengchujin/aerial-tv](https://github.com/pengchujin/aerial-tv)** ⭐ 6,018
   ![Kotlin](https://img.shields.io/badge/-Kotlin-lightgrey)
   给国产电视的一块干净桌面：参照 tvOS 设计的开源 Android TV 桌面，没有广告，开机自动接管。A tvOS-style launcher for Xiaomi, TCL and other China-market TVs.
 
-- **[JustAResearcher/gpu-unlock-ada](https://github.com/JustAResearcher/gpu-unlock-ada)** ⭐ 3,703
+- **[JustAResearcher/gpu-unlock-ada](https://github.com/JustAResearcher/gpu-unlock-ada)** ⭐ 3,777
   ![C](https://img.shields.io/badge/-C-lightgrey)
   GPU tensor unlock source for RTX 4090 and experimental RTX 4070 Ti SUPER; firmware generated locally
 
-- **[wesbos/3d-model-anything](https://github.com/wesbos/3d-model-anything)** ⭐ 2,046
+- **[wesbos/3d-model-anything](https://github.com/wesbos/3d-model-anything)** ⭐ 2,064
   ![Swift](https://img.shields.io/badge/-Swift-lightgrey)
   Capture iPhone LiDAR and photos, reconstruct editable Three.js rooms, and explore them in a browser.
 
-- **[xevrion/hatchzip](https://github.com/xevrion/hatchzip)** ⭐ 2,031
+- **[xevrion/hatchzip](https://github.com/xevrion/hatchzip)** ⭐ 2,048
   ![Rust](https://img.shields.io/badge/-Rust-brown)
   HatchZip is a free, open-source archive extractor for Windows, macOS and Linux that extracts ZIP, 7z, RAR, tar and split archives in place, so it needs free space for the extracted files only. Desktop app and CLI.
 
-- **[Jakeschincariol/day-trader-skill](https://github.com/Jakeschincariol/day-trader-skill)** ⭐ 1,975
+- **[Jakeschincariol/day-trader-skill](https://github.com/Jakeschincariol/day-trader-skill)** ⭐ 2,033
   ![Python](https://img.shields.io/badge/-Python-blue)
   11 Claude skills for day trading: scan thousands of charts, track breaking news, time every entry and exit, and replay every outcome before you risk a dollar.
 
-- **[ikow/php2shell-poc](https://github.com/ikow/php2shell-poc)** ⭐ 1,826
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  CVE-2026-109618/109619 — 5 RCE chains + detection rules (Suricata, Sigma, ModSecurity). PHP session.upload_progress pre-auth exploit research.
-
-- **[rddmwmddr/android-ad-cleaner](https://github.com/rddmwmddr/android-ad-cleaner)** ⭐ 1,795
+- **[rddmwmddr/android-ad-cleaner](https://github.com/rddmwmddr/android-ad-cleaner)** ⭐ 1,830
   ![Python](https://img.shields.io/badge/-Python-blue)
   关掉国产安卓手机系统里的广告、热搜、资讯推荐和营销推送。不 root，可还原，支持 AI 智能体一键执行。
 
-- **[oosexgang/hackios-xnu-kernel](https://github.com/oosexgang/hackios-xnu-kernel)** ⭐ 1,635
+- **[ikow/php2shell-poc](https://github.com/ikow/php2shell-poc)** ⭐ 1,829
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  CVE-2026-109618/109619 — 5 RCE chains + detection rules (Suricata, Sigma, ModSecurity). PHP session.upload_progress pre-auth exploit research.
+
+- **[oosexgang/hackios-xnu-kernel](https://github.com/oosexgang/hackios-xnu-kernel)** ⭐ 1,649
   ![C](https://img.shields.io/badge/-C-lightgrey)
   None
 
 ### 📈 Monthly Trending
 
-- **[storytold/photocraft](https://github.com/storytold/photocraft)** ⭐ 73,257
+- **[storytold/photocraft](https://github.com/storytold/photocraft)** ⭐ 73,338
   ![Rust](https://img.shields.io/badge/-Rust-brown)
   PhotoCraft: An open-source, photo editor written by scratch in pure Rust
 
-- **[Gathin23/cleanyourtv](https://github.com/Gathin23/cleanyourtv)** ⭐ 38,556
+- **[Gathin23/cleanyourtv](https://github.com/Gathin23/cleanyourtv)** ⭐ 39,056
   ![Python](https://img.shields.io/badge/-Python-blue)
   Debloat any Android or Google TV over Wi-Fi and get an Apple TV-style home.
 
-- **[deepseek-ai/DeepInfer](https://github.com/deepseek-ai/DeepInfer)** ⭐ 22,950
+- **[deepseek-ai/DeepInfer](https://github.com/deepseek-ai/DeepInfer)** ⭐ 23,002
   ![Python](https://img.shields.io/badge/-Python-blue)
   DeepInfer: High-performance, large-scale inference framework for DeepSeek models
 
-- **[wheresryan22/anatomy](https://github.com/wheresryan22/anatomy)** ⭐ 20,985
+- **[wheresryan22/anatomy](https://github.com/wheresryan22/anatomy)** ⭐ 21,050
   ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
   An agent skill for creating detailed, interactive isometric illustrations of real-world machines and complex systems. Generates polished SVGs with optional WebGL shaders and 3D effects.
 
-- **[google-research/harness2](https://github.com/google-research/harness2)** ⭐ 20,086
+- **[google-research/harness2](https://github.com/google-research/harness2)** ⭐ 20,137
   ![Python](https://img.shields.io/badge/-Python-blue)
   None
 
-- **[storytold/pdfcraft](https://github.com/storytold/pdfcraft)** ⭐ 17,993
+- **[storytold/pdfcraft](https://github.com/storytold/pdfcraft)** ⭐ 18,033
   ![Rust](https://img.shields.io/badge/-Rust-brown)
   PdfCraft: An open-source PDF reader and editor written by scratch in pure Rust
 
-- **[storytold/filmcraft](https://github.com/storytold/filmcraft)** ⭐ 16,385
+- **[storytold/filmcraft](https://github.com/storytold/filmcraft)** ⭐ 16,406
   ![Rust](https://img.shields.io/badge/-Rust-brown)
   FilmCraft: An open-source, nonlinear video editor written by scratch in pure Rust
 
-- **[storytold/wordcraft](https://github.com/storytold/wordcraft)** ⭐ 16,182
+- **[storytold/wordcraft](https://github.com/storytold/wordcraft)** ⭐ 16,216
   ![Rust](https://img.shields.io/badge/-Rust-brown)
   An open-source, clean-room reimplementation of Microsoft Word in pure Rust
 
@@ -487,59 +485,59 @@ This is a security release.
 
 | Skill | Status |
 |-------|--------|
-| Java | 🔴 Beginner |
-| Python | 🟡 Learning |
+| Java | 🟢 Proficient |
+| Python | ⚪ Planned |
 | JavaScript | 🟢 Proficient |
-| TypeScript | 🔴 Beginner |
-| Go | 🟡 Learning |
+| TypeScript | 🟡 Learning |
+| Go | 🔴 Beginner |
 
 ### Frameworks
 
 | Skill | Status |
 |-------|--------|
 | React | 🟢 Proficient |
-| Spring Boot | 🔴 Beginner |
+| Spring Boot | 🟡 Learning |
 | Django | 🔴 Beginner |
-| Node.js | 🟡 Learning |
-| Next.js | ⚪ Planned |
+| Node.js | 🔴 Beginner |
+| Next.js | 🟢 Proficient |
 
 ### Cybersecurity
 
 | Skill | Status |
 |-------|--------|
-| Penetration Testing | 🟡 Learning |
-| Web Security | 🔴 Beginner |
-| Network Security | 🔴 Beginner |
+| Penetration Testing | 🟢 Proficient |
+| Web Security | ⚪ Planned |
+| Network Security | 🟢 Proficient |
 | OWASP | 🟢 Proficient |
 
 ### Ai Ml
 
 | Skill | Status |
 |-------|--------|
-| Machine Learning | 🟢 Proficient |
-| Deep Learning | ⚪ Planned |
-| NLP | 🟡 Learning |
-| Computer Vision | ⚪ Planned |
-| TensorFlow | 🔴 Beginner |
-| PyTorch | 🟢 Proficient |
+| Machine Learning | 🔴 Beginner |
+| Deep Learning | 🟡 Learning |
+| NLP | 🔴 Beginner |
+| Computer Vision | 🟡 Learning |
+| TensorFlow | 🟡 Learning |
+| PyTorch | ⚪ Planned |
 
 ### Devops
 
 | Skill | Status |
 |-------|--------|
-| Docker | 🟡 Learning |
-| Kubernetes | 🟡 Learning |
-| CI/CD | 🟡 Learning |
-| AWS | 🟢 Proficient |
-| Azure | ⚪ Planned |
+| Docker | ⚪ Planned |
+| Kubernetes | ⚪ Planned |
+| CI/CD | ⚪ Planned |
+| AWS | 🟡 Learning |
+| Azure | 🟢 Proficient |
 
 ### Other
 
 | Skill | Status |
 |-------|--------|
-| Blockchain | 🟡 Learning |
+| Blockchain | 🔴 Beginner |
 | Web3 | ⚪ Planned |
-| Cloud Computing | ⚪ Planned |
+| Cloud Computing | 🔴 Beginner |
 
 </details>
 
