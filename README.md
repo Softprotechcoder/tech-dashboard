@@ -46,75 +46,72 @@
 
 ### 📑 Hacker News
 
-- **[Police Are Using AI to Pull over Drivers for 'Suspicious' Behavior](https://gizmodo.com/police-are-using-ai-to-pull-over-drivers-for-suspicious-behavior-2000831220)**
-  *<p>Article URL: <a href="https://gizmodo.com/police-are-using-ai-to-pull-over-drivers-for-suspicious-behavior-2000831220">https://gizmodo.com/police-are-using-ai-to-pull-over-drivers-for-suspicious-be...*
-  📅 Tue, 27 Oct 2026 16:40:15 +0000
+- **[Early progress on accelerating drug development with Claude](https://www.anthropic.com/research/early-progress-drug-development)**
+  *<p>Article URL: <a href="https://www.anthropic.com/research/early-progress-drug-development">https://www.anthropic.com/research/early-progress-drug-development</a></p>
+<p>Comments URL: <a href="https:...*
+  📅 Tue, 27 Oct 2026 20:50:42 +0000
 
-- **[A 28-Year-Old DOGE Operative Gutted USAID. HR Had No Record of Him Working There](https://www.wired.com/story/a-28-year-old-doge-operative-gutted-usaid-hr-had-no-record-of-him-working-there/)**
-  *<p>Article URL: <a href="https://www.wired.com/story/a-28-year-old-doge-operative-gutted-usaid-hr-had-no-record-of-him-working-there/">https://www.wired.com/story/a-28-year-old-doge-operative-gutted-u...*
-  📅 Tue, 27 Oct 2026 16:38:08 +0000
+- **[Raspberry Pi Zero 3W and Pi 4 Model A spotted in device trees](https://bret.dk/raspberry-pi-zero-3-w-pi-4-model-a/)**
+  *<p>Article URL: <a href="https://bret.dk/raspberry-pi-zero-3-w-pi-4-model-a/">https://bret.dk/raspberry-pi-zero-3-w-pi-4-model-a/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id...*
+  📅 Tue, 27 Oct 2026 20:48:49 +0000
 
-- **[Classification of Finite Simple Groups Formalized in Lean](https://cfsg.axiommath.ai/)**
-  *<p>Article URL: <a href="https://cfsg.axiommath.ai/">https://cfsg.axiommath.ai/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50261647">https://news.ycombinator.com/item?id=50...*
-  📅 Tue, 27 Oct 2026 16:29:02 +0000
+- **[Four Months of Zig](https://gracefulliberty.com/articles/four-months-of-zig/)**
+  *<p>Article URL: <a href="https://gracefulliberty.com/articles/four-months-of-zig/">https://gracefulliberty.com/articles/four-months-of-zig/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.c...*
+  📅 Tue, 27 Oct 2026 20:13:27 +0000
 
-- **[Vicious Cycles: Theses on a philosophy of news](https://harpers.org/archive/2020/01/vicious-cycles-theses-on-a-philosophy-of-news/)**
-  *<p>Article URL: <a href="https://harpers.org/archive/2020/01/vicious-cycles-theses-on-a-philosophy-of-news/">https://harpers.org/archive/2020/01/vicious-cycles-theses-on-a-philosophy-of-news/</a></p>
-...*
-  📅 Tue, 27 Oct 2026 16:27:29 +0000
+- **[Tailscale SSH: Investigation and remediation update](https://tailscale.com/ssh-investigation-update)**
+  *<p>Article URL: <a href="https://tailscale.com/ssh-investigation-update">https://tailscale.com/ssh-investigation-update</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50264857"...*
+  📅 Tue, 27 Oct 2026 19:55:21 +0000
 
-- **[We let our cloud agents query prod (with OIDC, not secrets)](https://www.formal.ai/blog/cloud-agents-oidc-infrastructure/)**
-  *<p>Article URL: <a href="https://www.formal.ai/blog/cloud-agents-oidc-infrastructure/">https://www.formal.ai/blog/cloud-agents-oidc-infrastructure/</a></p>
-<p>Comments URL: <a href="https://news.ycomb...*
-  📅 Tue, 27 Oct 2026 16:25:12 +0000
+- **[Survival LLM: AI assistant and emergency library that runs on your own computer](https://www.brangus.io/survival-llm)**
+  *<p>Article URL: <a href="https://www.brangus.io/survival-llm">https://www.brangus.io/survival-llm</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50264853">https://news.ycombina...*
+  📅 Tue, 27 Oct 2026 19:55:06 +0000
 
-- **[PHP2Shell, LiteLLM, GitLab: Find What You Need to Patch](https://cloudsleuth.io/blog/php2shell-litellm-gitlab-find-what-you-run/)**
-  *<p>Article URL: <a href="https://cloudsleuth.io/blog/php2shell-litellm-gitlab-find-what-you-run/">https://cloudsleuth.io/blog/php2shell-litellm-gitlab-find-what-you-run/</a></p>
-<p>Comments URL: <a hr...*
-  📅 Tue, 27 Oct 2026 16:25:12 +0000
+- **[Discord will soon let anyone find public server messages through Google](https://discord.com/blog/making-content-from-discoverable-servers-easier-to-discover)**
+  *<p>Article URL: <a href="https://discord.com/blog/making-content-from-discoverable-servers-easier-to-discover">https://discord.com/blog/making-content-from-discoverable-servers-easier-to-discover</a><...*
+  📅 Tue, 27 Oct 2026 18:44:17 +0000
 
 ### 📑 TechCrunch
 
+- **[Discord is making its public communities more searchable, and people have concerns](https://techcrunch.com/2026/10/27/discord-is-making-its-public-communities-more-searchable-and-people-have-concerns/)**
+  *In December, messages from Discord's public discoverable servers will begin appearing in search engine results....*
+  📅 Tue, 27 Oct 2026 21:22:35 +0000
+
+- **[Re:Build, which spun out Slate Auto, raises $2.1B](https://techcrunch.com/2026/10/27/rebuild-which-spun-out-slate-auto-raises-2-1b/)**
+  *The manufacturing accelerator bills itself as "America’s answer to Shenzhen."...*
+  📅 Tue, 27 Oct 2026 20:31:17 +0000
+
+- **[Disruptive raises $10B fund to make big bets on at least 10 companies](https://techcrunch.com/2026/10/27/disruptive-raises-10b-fund-to-make-big-bets-on-at-least-10-companies/)**
+  *Disruptive has made headlines in recent years for pouring money into companies like chip startup Groq and the AI voice-generation startup ElevenLabs....*
+  📅 Tue, 27 Oct 2026 18:55:35 +0000
+
+- **[Frontier AI labs say their models refuted the Exponential Time Hypothesis. What does that mean?](https://techcrunch.com/2026/10/27/frontier-ai-labs-say-their-models-refuted-the-exponential-time-hypothesis-what-does-that-mean/)**
+  *TechCrunch spoke to the MIT computer scientist charged with explaining OpenAI's latest mind-bending discovery....*
+  📅 Tue, 27 Oct 2026 17:08:08 +0000
+
 - **[Google’s Genie 4 world model adds audio, more realistic worlds, and real-time steering](https://techcrunch.com/2026/10/27/googles-genie-4-world-model-adds-audio-more-realistic-worlds-and-real-time-steering/)**
-  *Google DeepMind released Genie 4, a world model with real-time audio, more realistic simulations, and mid-simulation text prompts, in research preview for trusted testers....*
+  *Genie 4 can maintain a consistent scene for up to two minutes, double Genie 3's limit, and offers better physics and more humanlike characters....*
   📅 Tue, 27 Oct 2026 16:30:57 +0000
 
 - **[Meta AI director Rohit Patel leaves to take on Microsoft Office and Google Workspace](https://techcrunch.com/2026/10/27/meta-ai-director-rohit-patel-leaves-to-take-on-microsoft-office-and-google-workspace/)**
   *Rohit Patel is departing Meta after eight years working on AI evaluations and reinforcement learning, TechCrunch has exclusively learned. His startup, Ndoc, aims to take on Microsoft Office Suite....*
   📅 Tue, 27 Oct 2026 14:59:09 +0000
 
-- **[Ford Fathom will be the cheapest American EV capable of powering a house](https://techcrunch.com/2026/10/27/ford-fathom-will-be-the-cheapest-american-ev-capable-of-powering-a-house/)**
-  *Ford is rolling out two new chargers capable of powering a home or the grid — so-called V2X capability....*
-  📅 Tue, 27 Oct 2026 14:51:33 +0000
-
-- **[US government says hackers are now exploiting critical PHP web bugs](https://techcrunch.com/2026/10/27/us-government-says-hackers-are-now-exploiting-critical-php-web-bugs/)**
-  *The U.S. government cyber agency warns that hackers have figured out a way to exploit the popular PHP software, used in 70% of the web's software....*
-  📅 Tue, 27 Oct 2026 14:40:39 +0000
-
-- **[Apple unveils new 14-inch MacBook Pro with M6 chip](https://techcrunch.com/2026/10/27/apple-unveils-new-14-inch-macbook-pro-with-m6-chip/)**
-  *The new MacBook Pro comes with 24 hours of battery life, and now features support for Wi-Fi 7 and Bluetooth 6 connectivity....*
-  📅 Tue, 27 Oct 2026 14:25:11 +0000
-
-- **[Apple rolls out iOS 27.2 with new Siri AI languages and security fixes](https://techcrunch.com/2026/10/27/apple-rolls-out-ios-27-2-with-new-siri-ai-languages-and-security-fixes/)**
-  *The latest Apple software update for iPhones and iPads includes new features and important security updates....*
-  📅 Tue, 27 Oct 2026 13:54:51 +0000
-
 ### 📑 Dev.to
 
-- **[Zig Explained: A Modern Systems Language Without the Magic](https://dev.to/practicaldevblog/zig-explained-a-modern-systems-language-without-the-magic-2nep)**
-  *<h2>
-  
-  
-  Introduction
-</h2>
+- **[Actions Runner Controller dind image from your own registry](https://dev.to/kadet-hub/actions-runner-controller-dind-image-from-your-own-registry-4pom)**
+  *<p>With <code>containerMode.type: dind</code>, the gha-runner-scale-set chart of<br />
+actions-runner-controller (ARC) adds a Docker daemon to every runner pod.<br />
+The chart fixes that container's ...*
+  📅 Tue, 27 Oct 2026 21:28:06 +0000
 
-<p>Systems programming — operating systems, embedded devices, game engines — has long meant C and C++, with their power and their footguns. Rust (the batch 5 post) add...*
-  📅 Tue, 27 Oct 2026 17:03:07 +0000
-
-- **[How a read replica almost took down its primary database and other database tales](https://dev.to/marekzp/how-a-read-replica-almost-took-down-its-primary-database-and-other-database-tales-1pj7)**
-  *<p>I keep thinking we have finally covered all the ways we can get into trouble with our database. But then something completely unexpected goes wrong, and I learn about another way a database can sur...*
-  📅 Tue, 27 Oct 2026 17:02:43 +0000
+- **[What a vertical slice is (and how I scope one for my own games)](https://dev.to/yuvaleizik/what-a-vertical-slice-is-and-how-i-scope-one-for-my-own-games-3737)**
+  *<p>A vertical slice is one small part of your game built to the quality of the finished game: gameplay, art, sound, UI and the way a new player starts it, all working together. Everything else stays u...*
+  📅 Tue, 27 Oct 2026 21:27:51 +0000
 
 </details>
 
@@ -122,17 +119,29 @@
 
 ### 📈 Daily Trending
 
+- **[anhao/ai-pose-gallery-zh](https://github.com/anhao/ai-pose-gallery-zh)** ⭐ 261
+  ![HTML](https://img.shields.io/badge/-HTML-lightgrey)
+  中文版 AI 姿势参考图库 · 1439 组 / 2878 张图片 / 完整汉化 · 零依赖静态画廊
+
+- **[DLSS-5-Swaper-New/.github](https://github.com/DLSS-5-Swaper-New/.github)** ⭐ 216
+  ![None](https://img.shields.io/badge/-None-lightgrey)
+  DLSS 5 Swapper is a specialized Windows utility for PC gaming enthusiasts interested in managing compatible graphics components and exploring rendering configurations.
+
+- **[patch-gg/anymove](https://github.com/patch-gg/anymove)** ⭐ 168
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  Motion capture for any creature from one AI video: two cameras in one frame, a DINOv2 joint reader, the rig fitted in both views, a GLB out.
+
 - **[GrandeurPikeman/Roblox-MM2-Utility-2026](https://github.com/GrandeurPikeman/Roblox-MM2-Utility-2026)** ⭐ 144
   ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
   Lightweight desktop utility for Roblox Murder Mystery 2. Convenient helpers, quality-of-life features and performance improvements for better gameplay experience. Simple installation, regularly updated
 
-- **[patch-gg/anymove](https://github.com/patch-gg/anymove)** ⭐ 132
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  Motion capture for any creature from one AI video: two cameras in one frame, a DINOv2 joint reader, the rig fitted in both views, a GLB out.
+- **[BufferPenguin/DLSS-5-Anywhere](https://github.com/BufferPenguin/DLSS-5-Anywhere)** ⭐ 137
+  ![None](https://img.shields.io/badge/-None-lightgrey)
+  🚀 Universal DLSS 5 installer and manager for ANY graphics card. Stable FPS boost for NVIDIA & AMD!
 
-- **[anhao/ai-pose-gallery-zh](https://github.com/anhao/ai-pose-gallery-zh)** ⭐ 123
-  ![HTML](https://img.shields.io/badge/-HTML-lightgrey)
-  中文版 AI 姿势参考图库 · 1439 组 / 2878 张图片 / 完整汉化 · 零依赖静态画廊
+- **[Shagg88/COGBox](https://github.com/Shagg88/COGBox)** ⭐ 113
+  ![C++](https://img.shields.io/badge/-C++-pink)
+  This is an open source all-in-one launcher for the amazing series on Xbox 360: "Gears of War" franchise. 75% of this amazing series never received a proper remaster, so here I am bringing this project to life! Enjoy!
 
 - **[Pebblebretrap/Camtasia](https://github.com/Pebblebretrap/Camtasia)** ⭐ 100
   ![None](https://img.shields.io/badge/-None-lightgrey)
@@ -142,83 +151,71 @@
   ![None](https://img.shields.io/badge/-None-lightgrey)
   Complete Cinema 4D 2026 desktop installation build, fully activated with all tools ready to run.
 
-- **[TyphoonMidgeRegister/KMS-Pico](https://github.com/TyphoonMidgeRegister/KMS-Pico)** ⭐ 100
-  ![None](https://img.shields.io/badge/-None-lightgrey)
-  Kms Pico Free 2026: Complete standalone setup with full activation ready to run on your desktop.
-
-- **[daimyodragonpit/BorisFX](https://github.com/daimyodragonpit/BorisFX)** ⭐ 99
-  ![None](https://img.shields.io/badge/-None-lightgrey)
-  Complete standalone setup of BorisFX 2026, a professional video editing and visual effects solution ready to run.
-
-- **[Shagg88/COGBox](https://github.com/Shagg88/COGBox)** ⭐ 85
-  ![C++](https://img.shields.io/badge/-C++-pink)
-  This is an open source all-in-one launcher for the amazing series on Xbox 360: "Gears of War" franchise. 75% of this amazing series never received a proper remaster, so here I am bringing this project to life! Enjoy!
-
 ### 📈 Weekly Trending
 
-- **[JustAResearcher/gpu-unlock-ada](https://github.com/JustAResearcher/gpu-unlock-ada)** ⭐ 4,197
+- **[JustAResearcher/gpu-unlock-ada](https://github.com/JustAResearcher/gpu-unlock-ada)** ⭐ 4,245
   ![C](https://img.shields.io/badge/-C-lightgrey)
   GPU tensor unlock source for RTX 4090 and experimental RTX 4070 Ti SUPER; firmware generated locally
 
-- **[rddmwmddr/android-ad-cleaner](https://github.com/rddmwmddr/android-ad-cleaner)** ⭐ 3,098
+- **[rddmwmddr/android-ad-cleaner](https://github.com/rddmwmddr/android-ad-cleaner)** ⭐ 3,168
   ![Python](https://img.shields.io/badge/-Python-blue)
   关掉国产安卓手机系统里的广告、热搜、资讯推荐和营销推送。不 root，可还原，支持 AI 智能体一键执行。
 
-- **[designfuchen/word-atlas](https://github.com/designfuchen/word-atlas)** ⭐ 2,397
+- **[designfuchen/word-atlas](https://github.com/designfuchen/word-atlas)** ⭐ 2,436
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   词光 · Word Atlas — Illustrated IELTS vocabulary with 7,298 words, UK/US audio and FSRS review. Open-source app + CC BY 4.0 dataset.
 
-- **[wesbos/3d-model-anything](https://github.com/wesbos/3d-model-anything)** ⭐ 2,178
+- **[wesbos/3d-model-anything](https://github.com/wesbos/3d-model-anything)** ⭐ 2,201
   ![Swift](https://img.shields.io/badge/-Swift-lightgrey)
   Capture iPhone LiDAR and photos, reconstruct editable Three.js rooms, and explore them in a browser.
 
-- **[xevrion/hatchzip](https://github.com/xevrion/hatchzip)** ⭐ 2,137
+- **[xevrion/hatchzip](https://github.com/xevrion/hatchzip)** ⭐ 2,160
   ![Rust](https://img.shields.io/badge/-Rust-brown)
   HatchZip is a free, open-source archive extractor for Windows, macOS and Linux that extracts ZIP, 7z, RAR, tar and split archives in place, so it needs free space for the extracted files only. Desktop app and CLI.
 
-- **[t3dotgg/tstack](https://github.com/t3dotgg/tstack)** ⭐ 1,885
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  The agent skills I use every day. Works with Claude Code and Codex.
-
-- **[ikow/php2shell-poc](https://github.com/ikow/php2shell-poc)** ⭐ 1,864
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  CVE-2026-109618/109619 — 5 RCE chains + detection rules (Suricata, Sigma, ModSecurity). PHP session.upload_progress pre-auth exploit research.
-
-- **[unclebob/ub-mode](https://github.com/unclebob/ub-mode)** ⭐ 1,853
+- **[unclebob/ub-mode](https://github.com/unclebob/ub-mode)** ⭐ 2,087
   ![None](https://img.shields.io/badge/-None-lightgrey)
   None
 
+- **[t3dotgg/tstack](https://github.com/t3dotgg/tstack)** ⭐ 1,969
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  The agent skills I use every day. Works with Claude Code and Codex.
+
+- **[ikow/php2shell-poc](https://github.com/ikow/php2shell-poc)** ⭐ 1,866
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  CVE-2026-109618/109619 — 5 RCE chains + detection rules (Suricata, Sigma, ModSecurity). PHP session.upload_progress pre-auth exploit research.
+
 ### 📈 Monthly Trending
 
-- **[storytold/photocraft](https://github.com/storytold/photocraft)** ⭐ 73,775
+- **[storytold/photocraft](https://github.com/storytold/photocraft)** ⭐ 73,880
   ![Rust](https://img.shields.io/badge/-Rust-brown)
   PhotoCraft: An open-source, photo editor written by scratch in pure Rust
 
-- **[Gathin23/cleanyourtv](https://github.com/Gathin23/cleanyourtv)** ⭐ 41,163
+- **[Gathin23/cleanyourtv](https://github.com/Gathin23/cleanyourtv)** ⭐ 41,639
   ![Python](https://img.shields.io/badge/-Python-blue)
   Debloat any Android or Google TV over Wi-Fi and get an Apple TV-style home.
 
-- **[deepseek-ai/DeepInfer](https://github.com/deepseek-ai/DeepInfer)** ⭐ 23,344
+- **[deepseek-ai/DeepInfer](https://github.com/deepseek-ai/DeepInfer)** ⭐ 23,379
   ![Python](https://img.shields.io/badge/-Python-blue)
   DeepInfer: High-performance, large-scale inference framework for DeepSeek models
 
-- **[wheresryan22/anatomy](https://github.com/wheresryan22/anatomy)** ⭐ 21,371
+- **[wheresryan22/anatomy](https://github.com/wheresryan22/anatomy)** ⭐ 21,427
   ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
   An agent skill for creating detailed, interactive isometric illustrations of real-world machines and complex systems. Generates polished SVGs with optional WebGL shaders and 3D effects.
 
-- **[google-research/harness2](https://github.com/google-research/harness2)** ⭐ 20,461
+- **[google-research/harness2](https://github.com/google-research/harness2)** ⭐ 20,515
   ![Python](https://img.shields.io/badge/-Python-blue)
   None
 
-- **[storytold/pdfcraft](https://github.com/storytold/pdfcraft)** ⭐ 18,189
+- **[storytold/pdfcraft](https://github.com/storytold/pdfcraft)** ⭐ 18,224
   ![Rust](https://img.shields.io/badge/-Rust-brown)
   PdfCraft: An open-source PDF reader and editor written by scratch in pure Rust
 
-- **[storytold/filmcraft](https://github.com/storytold/filmcraft)** ⭐ 16,519
+- **[storytold/filmcraft](https://github.com/storytold/filmcraft)** ⭐ 16,558
   ![Rust](https://img.shields.io/badge/-Rust-brown)
   FilmCraft: An open-source, nonlinear video editor written by scratch in pure Rust
 
-- **[storytold/wordcraft](https://github.com/storytold/wordcraft)** ⭐ 16,334
+- **[storytold/wordcraft](https://github.com/storytold/wordcraft)** ⭐ 16,360
   ![Rust](https://img.shields.io/badge/-Rust-brown)
   An open-source, clean-room reimplementation of Microsoft Word in pure Rust
 
@@ -488,28 +485,28 @@ This is a security release.
 
 | Skill | Status |
 |-------|--------|
-| Java | 🟢 Proficient |
+| Java | 🔴 Beginner |
 | Python | 🔴 Beginner |
 | JavaScript | 🟢 Proficient |
-| TypeScript | ⚪ Planned |
-| Go | 🟢 Proficient |
+| TypeScript | 🟢 Proficient |
+| Go | 🔴 Beginner |
 
 ### Frameworks
 
 | Skill | Status |
 |-------|--------|
-| React | ⚪ Planned |
-| Spring Boot | 🔴 Beginner |
-| Django | 🔴 Beginner |
-| Node.js | ⚪ Planned |
+| React | 🔴 Beginner |
+| Spring Boot | ⚪ Planned |
+| Django | 🟢 Proficient |
+| Node.js | 🟢 Proficient |
 | Next.js | ⚪ Planned |
 
 ### Cybersecurity
 
 | Skill | Status |
 |-------|--------|
-| Penetration Testing | 🟡 Learning |
-| Web Security | 🔴 Beginner |
+| Penetration Testing | 🔴 Beginner |
+| Web Security | 🟢 Proficient |
 | Network Security | 🟡 Learning |
 | OWASP | ⚪ Planned |
 
@@ -517,11 +514,11 @@ This is a security release.
 
 | Skill | Status |
 |-------|--------|
-| Machine Learning | ⚪ Planned |
-| Deep Learning | ⚪ Planned |
-| NLP | ⚪ Planned |
+| Machine Learning | 🟡 Learning |
+| Deep Learning | 🔴 Beginner |
+| NLP | 🟡 Learning |
 | Computer Vision | 🔴 Beginner |
-| TensorFlow | 🟡 Learning |
+| TensorFlow | 🟢 Proficient |
 | PyTorch | ⚪ Planned |
 
 ### Devops
@@ -529,17 +526,17 @@ This is a security release.
 | Skill | Status |
 |-------|--------|
 | Docker | ⚪ Planned |
-| Kubernetes | 🟢 Proficient |
-| CI/CD | 🟡 Learning |
-| AWS | ⚪ Planned |
-| Azure | 🟡 Learning |
+| Kubernetes | 🟡 Learning |
+| CI/CD | 🔴 Beginner |
+| AWS | 🟡 Learning |
+| Azure | 🔴 Beginner |
 
 ### Other
 
 | Skill | Status |
 |-------|--------|
-| Blockchain | 🟡 Learning |
-| Web3 | ⚪ Planned |
+| Blockchain | 🟢 Proficient |
+| Web3 | 🔴 Beginner |
 | Cloud Computing | ⚪ Planned |
 
 </details>
