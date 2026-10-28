@@ -46,72 +46,77 @@
 
 ### 📑 Hacker News
 
-- **[Ten days later, Git on macOS still trusts the compromised eMudhra certificates](https://emudhra.we-have-a-problem.com/apple.html)**
-  *<p>Article URL: <a href="https://emudhra.we-have-a-problem.com/apple.html">https://emudhra.we-have-a-problem.com/apple.html</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50271...*
-  📅 Wed, 28 Oct 2026 11:03:40 +0000
+- **[MacBook Pro with Touch Enabled Proled XDR Display](https://www.apple.com/macbook-pro/proled-xdr-display/)**
+  *<p>Article URL: <a href="https://www.apple.com/macbook-pro/proled-xdr-display/">https://www.apple.com/macbook-pro/proled-xdr-display/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/ite...*
+  📅 Wed, 28 Oct 2026 17:10:37 +0000
 
-- **[Barcelona unrest: how to fabricate a protest in the age of TikTok](https://theconversation.com/barcelona-unrest-how-to-fabricate-a-protest-in-the-age-of-tiktok-295263)**
-  *<p>Article URL: <a href="https://theconversation.com/barcelona-unrest-how-to-fabricate-a-protest-in-the-age-of-tiktok-295263">https://theconversation.com/barcelona-unrest-how-to-fabricate-a-protest-in...*
-  📅 Wed, 28 Oct 2026 10:41:27 +0000
+- **[MacBook Pro with PROLED XDR Display and Touch](https://www.apple.com/newsroom/2026/10/apple-unveils-groundbreaking-macbook-pro-with-proled-xdr-display/)**
+  *<p>Article URL: <a href="https://www.apple.com/newsroom/2026/10/apple-unveils-groundbreaking-macbook-pro-with-proled-xdr-display/">https://www.apple.com/newsroom/2026/10/apple-unveils-groundbreaking-m...*
+  📅 Wed, 28 Oct 2026 17:10:04 +0000
 
-- **[Billion-query-per-second lookup tables in C++](https://lemire.me/blog/2026/10/26/billion-query-per-second-lookup-tables-in-c/)**
-  *<p>Article URL: <a href="https://lemire.me/blog/2026/10/26/billion-query-per-second-lookup-tables-in-c/">https://lemire.me/blog/2026/10/26/billion-query-per-second-lookup-tables-in-c/</a></p>
-<p>Comme...*
-  📅 Wed, 28 Oct 2026 09:43:44 +0000
+- **[Show HN: SlideBySide – Present slides without sharing your screen](https://slidebyside.com/)**
+  *<p>Why is it useful?
+- Present slides without sharing the screen and have every one be on the same page.
+- Present together with other cohosts and all control the current page.
+- Other features such a...*
+  📅 Wed, 28 Oct 2026 17:07:09 +0000
 
-- **[Git for the US Code](https://lexifina.com/blog/git-for-the-us-code)**
-  *<p>Article URL: <a href="https://lexifina.com/blog/git-for-the-us-code">https://lexifina.com/blog/git-for-the-us-code</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50268380">h...*
-  📅 Wed, 28 Oct 2026 01:47:50 +0000
+- **[Gemini 4 Carbon](https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-carbon/)**
+  *<p>Article URL: <a href="https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-carbon/">https://blog.google/innovation-and-ai/models-and-research/gemini-models/i...*
+  📅 Wed, 28 Oct 2026 17:01:23 +0000
 
-- **[Moxnox 1.0: NT-Like, POSIX-Compatible OS Running Atop Btrfs](https://github.com/maharmstone/moxnox)**
-  *<p>Article URL: <a href="https://github.com/maharmstone/moxnox">https://github.com/maharmstone/moxnox</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50267569">https://news.ycom...*
-  📅 Tue, 27 Oct 2026 23:53:41 +0000
+- **[Converge (YC S23) Is Hiring a Founding Platform Engineer](https://www.runconverge.com/careers/founding-platform-engineer)**
+  *<p>Article URL: <a href="https://www.runconverge.com/careers/founding-platform-engineer">https://www.runconverge.com/careers/founding-platform-engineer</a></p>
+<p>Comments URL: <a href="https://news.y...*
+  📅 Wed, 28 Oct 2026 17:00:24 +0000
 
-- **[Early progress on accelerating drug development with Claude](https://www.anthropic.com/research/early-progress-drug-development)**
-  *<p>Article URL: <a href="https://www.anthropic.com/research/early-progress-drug-development">https://www.anthropic.com/research/early-progress-drug-development</a></p>
-<p>Comments URL: <a href="https:...*
-  📅 Tue, 27 Oct 2026 20:50:42 +0000
+- **[Dayjob: Tax – evaluating AI agents on 50 professional tax assignments](https://surgehq.ai/blog/dayjob-tax)**
+  *<p>Article URL: <a href="https://surgehq.ai/blog/dayjob-tax">https://surgehq.ai/blog/dayjob-tax</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50275626">https://news.ycombinato...*
+  📅 Wed, 28 Oct 2026 15:46:30 +0000
 
 ### 📑 TechCrunch
 
-- **[Jio shares surge 21% in market debut after blockbuster India IPO](https://techcrunch.com/2026/10/27/jio-shares-surge-21-in-market-debut-after-blockbuster-india-ipo/)**
-  *Jio has debuted as India's second-most valuable listed company, behind its parent, Reliance Industries....*
-  📅 Wed, 28 Oct 2026 05:20:32 +0000
+- **[Apple launches its new touchscreen MacBook Pro](https://techcrunch.com/2026/10/28/apple-launches-its-new-touchscreen-macbook-pro/)**
+  *Apple's new touchscreen MacBook Pro starts at $2,899...*
+  📅 Wed, 28 Oct 2026 17:26:10 +0000
 
-- **[VCs will make billions on Anthropic’s IPO, but Amazon is set to make much (much) more](https://techcrunch.com/2026/10/27/vcs-will-make-billions-on-anthropics-ipo-but-amazon-is-set-to-make-much-much-more/)**
-  *Massive note conversions reveal the true extent of Amazon's ownership in Anthropic....*
-  📅 Wed, 28 Oct 2026 01:15:28 +0000
+- **[Xreal Aura is a new wired headset powered by Android XR](https://techcrunch.com/2026/10/28/xreal-aura-is-a-new-wired-headset-powered-by-android-xr/)**
+  *Xreal Aura will start at $1,279 and will have multiple XR specific launch apps at launch...*
+  📅 Wed, 28 Oct 2026 17:00:00 +0000
 
-- **[Parents sue OpenAI, alleging GPT-4o coached their daughter off seizure medication](https://techcrunch.com/2026/10/27/parents-sue-openai-alleging-gpt-4o-coached-their-daughter-off-seizure-medication/)**
-  *A family is suing OpenAI, saying ChatGPT coached their daughter to quietly taper off her seizure medication and keep it from her doctors before she died in February....*
-  📅 Tue, 27 Oct 2026 23:34:27 +0000
+- **[As AI agents reshape the web, Google opens Gemini and Search to more apps](https://techcrunch.com/2026/10/28/as-ai-agents-reshape-the-web-google-opens-gemini-and-search-to-more-apps/)**
+  *A new developer platform will let businesses bring their services to Google's AI experiences, potentially changing how consumers discover and use apps....*
+  📅 Wed, 28 Oct 2026 17:00:00 +0000
 
-- **[The data center boom has an upside: innovation for the US grid](https://techcrunch.com/2026/10/27/the-data-center-boom-has-an-upside-innovation-for-the-us-grid/)**
-  *As the AI boom stresses the existing power grid, all sorts of new opportunities for grid modernization are also emerging as a result, industry insiders say....*
-  📅 Tue, 27 Oct 2026 22:55:41 +0000
+- **[Chrome’s AI-powered Autofill can now dig through your Gmail to fill out forms](https://techcrunch.com/2026/10/28/chromes-ai-powered-autofill-can-now-dig-through-your-gmail-to-fill-out-forms/)**
+  *The autofill update lets Chrome pull flight confirmations, tracking info, order details, and other information from your inbox, with your permission....*
+  📅 Wed, 28 Oct 2026 17:00:00 +0000
 
-- **[Guidewire buys Hyperexponential for $1.7B in cash](https://techcrunch.com/2026/10/27/guidewire-buys-hyperexponential-for-1-7b-in-cash/)**
-  *The deal, expected to close sometime next year, is to help bring AI agents to work alongside humans to underwrite, analyze, and price decisions....*
-  📅 Tue, 27 Oct 2026 22:26:03 +0000
+- **[Reddit is the latest platform to embrace the ‘For You’ feed](https://techcrunch.com/2026/10/28/reddit-is-the-latest-platform-to-embrace-the-for-you-feed/)**
+  *The For You feed combines posts from communities users have joined with recommendations tailored to their interests....*
+  📅 Wed, 28 Oct 2026 16:00:00 +0000
 
-- **[From 8VC to Benchmark, here’s what’s hiding in October SEC filings](https://techcrunch.com/2026/10/27/from-8vc-to-benchmark-heres-whats-hiding-in-october-sec-filings/)**
-  *A whole crop of venture capital firms  are raising significant new funds....*
-  📅 Tue, 27 Oct 2026 22:17:18 +0000
+- **[AI execs may be too out of touch to build for the general public](https://techcrunch.com/2026/10/28/ai-execs-may-be-too-out-of-touch-to-build-for-the-general-public/)**
+  *Tech leaders are flaunting how out of touch they are when they brag about using AI to connect with their families....*
+  📅 Wed, 28 Oct 2026 15:53:52 +0000
 
 ### 📑 Dev.to
 
-- **[AI Humanizers vs. Detectors in 2026: I Tested Them. Here's What Actually Happens](https://dev.to/meikuio/ai-humanizers-vs-detectors-in-2026-i-tested-them-heres-what-actually-happens-35ad)**
-  *<p>By Marcus Hale.</p>
+- **[Meet Orionis: The Async-First Python Framework Powered by Rust](https://dev.to/rmunate/meet-orionis-the-async-first-python-framework-powered-by-rust-29c5)**
+  *<h1>
+  
+  
+  Meet Orionis: The Async-First Python Framework Powered by Rust
+</h1>
 
-<p>Search “AI humanizer” and every result promises the same thing: paste your ChatGPT essay, click a button, walk away with text that sails past Turnitin at a 99% success rate....*
-  📅 Wed, 28 Oct 2026 11:50:07 +0000
+<p>Python has an incredible ecosystem for building web applications. FastAPI, Django, Flask, and other frameworks hav...*
+  📅 Wed, 28 Oct 2026 17:31:35 +0000
 
-- **[The Linux server patching checklist (2026 edition)](https://dev.to/jonpatchwarden/the-linux-server-patching-checklist-2026-edition-54el)**
-  *<p>Last week did the reminding for us. On October 21, PHP shipped emergency fixes for two unauthenticated remote code execution vulnerabilities ("php2shell", CVE-2026-109618 and CVE-2026-109619). Per ...*
-  📅 Wed, 28 Oct 2026 11:49:58 +0000
+- **[Check a Shopify product CSV for missing prices and images before you import it](https://dev.to/steven_keil_cb87a560f87f0/check-a-shopify-product-csv-for-missing-prices-and-images-before-you-import-it-2p1i)**
+  *<p>Before you import a product CSV into Shopify, it helps to know which products have no price or no image. Shopify may accept the file anyway, and you only notice later that a product shows up withou...*
+  📅 Wed, 28 Oct 2026 17:31:28 +0000
 
 </details>
 
@@ -119,23 +124,31 @@
 
 ### 📈 Daily Trending
 
-- **[vaishantsah/watson-AI-osint-all-in-one](https://github.com/vaishantsah/watson-AI-osint-all-in-one)** ⭐ 276
-  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
-  Watson — free OSINT tool for Windows: people search across 3,100+ public sites by nickname, email, phone or website. Open-source intelligence made simple: digital footprint check, username lookup, social media search. No account, no tracking. Site: watsonfind.icu
-
-- **[smithjohn78390/tongjiang-lab](https://github.com/smithjohn78390/tongjiang-lab)** ⭐ 221
+- **[smithjohn78390/tongjiang-lab](https://github.com/smithjohn78390/tongjiang-lab)** ⭐ 408
   ![HTML](https://img.shields.io/badge/-HTML-lightgrey)
   Free interactive 3D science lessons for high school · 铜匠实验室 · https://lab.tongjiang.app
 
-- **[addozhang/leancast](https://github.com/addozhang/leancast)** ⭐ 103
+- **[vaishantsah/watson-AI-osint-all-in-one](https://github.com/vaishantsah/watson-AI-osint-all-in-one)** ⭐ 336
+  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
+  Watson — free OSINT tool for Windows: people search across 3,100+ public sites by nickname, email, phone or website. Open-source intelligence made simple: digital footprint check, username lookup, social media search. No account, no tracking. Site: watsonfind.icu
+
+- **[jacke-pp/open-yoki](https://github.com/jacke-pp/open-yoki)** ⭐ 181
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
+  An AI live-stream host that runs on one server: voice, face, chat, memory, posts. The base yoki runs on. By Jacke_pp · contact: DM @Jacke_pp on X
+
+- **[MiniMax-AI/mcode-stack](https://github.com/MiniMax-AI/mcode-stack)** ⭐ 136
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  The workflows and skills the MiniMax Code team uses to build MiniMax Code. Open source, install and use.
+
+- **[addozhang/leancast](https://github.com/addozhang/leancast)** ⭐ 106
   ![Kotlin](https://img.shields.io/badge/-Kotlin-lightgrey)
   Ad-free DLNA / UPnP cast receiver for Android TV · 极简无广告投屏接收器
 
-- **[ExitGooseEntrance/relay-v2.2.0](https://github.com/ExitGooseEntrance/relay-v2.2.0)** ⭐ 102
+- **[Lookouteiseparator/droids-v1.5.2](https://github.com/Lookouteiseparator/droids-v1.5.2)** ⭐ 103
   ![None](https://img.shields.io/badge/-None-lightgrey)
   Published: 2026-10-28
 
-- **[Lookouteiseparator/droids-v1.5.2](https://github.com/Lookouteiseparator/droids-v1.5.2)** ⭐ 102
+- **[ExitGooseEntrance/relay-v2.2.0](https://github.com/ExitGooseEntrance/relay-v2.2.0)** ⭐ 102
   ![None](https://img.shields.io/badge/-None-lightgrey)
   Published: 2026-10-28
 
@@ -143,79 +156,71 @@
   ![None](https://img.shields.io/badge/-None-lightgrey)
   Published: 2026-10-28
 
-- **[UltraSultanHonor/recon-v1.7.0](https://github.com/UltraSultanHonor/recon-v1.7.0)** ⭐ 102
-  ![None](https://img.shields.io/badge/-None-lightgrey)
-  Published: 2026-10-28
-
-- **[BranchLegendWhirl71/hexa-v2.6.0](https://github.com/BranchLegendWhirl71/hexa-v2.6.0)** ⭐ 102
-  ![None](https://img.shields.io/badge/-None-lightgrey)
-  Published: 2026-10-28
-
 ### 📈 Weekly Trending
 
-- **[JustAResearcher/gpu-unlock-ada](https://github.com/JustAResearcher/gpu-unlock-ada)** ⭐ 4,352
+- **[JustAResearcher/gpu-unlock-ada](https://github.com/JustAResearcher/gpu-unlock-ada)** ⭐ 4,393
   ![C](https://img.shields.io/badge/-C-lightgrey)
   GPU tensor unlock source for RTX 4090 and experimental RTX 4070 Ti SUPER; firmware generated locally
 
-- **[rddmwmddr/android-ad-cleaner](https://github.com/rddmwmddr/android-ad-cleaner)** ⭐ 4,039
+- **[rddmwmddr/android-ad-cleaner](https://github.com/rddmwmddr/android-ad-cleaner)** ⭐ 4,232
   ![Python](https://img.shields.io/badge/-Python-blue)
   关掉国产安卓手机系统里的广告、热搜、资讯推荐和营销推送。不 root，可还原，支持 AI 智能体一键执行。
 
-- **[unclebob/ub-mode](https://github.com/unclebob/ub-mode)** ⭐ 3,158
+- **[unclebob/ub-mode](https://github.com/unclebob/ub-mode)** ⭐ 3,563
   ![None](https://img.shields.io/badge/-None-lightgrey)
   None
 
-- **[designfuchen/word-atlas](https://github.com/designfuchen/word-atlas)** ⭐ 2,925
+- **[designfuchen/word-atlas](https://github.com/designfuchen/word-atlas)** ⭐ 3,024
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   词光 · Word Atlas — Illustrated IELTS vocabulary with 7,298 words, UK/US audio and FSRS review. Open-source app + CC BY 4.0 dataset.
 
-- **[t3dotgg/tstack](https://github.com/t3dotgg/tstack)** ⭐ 2,143
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  The agent skills I use every day. Works with Claude Code and Codex.
-
-- **[oosexgang/hackios-xnu-kernel](https://github.com/oosexgang/hackios-xnu-kernel)** ⭐ 1,874
-  ![C](https://img.shields.io/badge/-C-lightgrey)
-  None
-
-- **[interplains/Zero-Breach-Toolkit](https://github.com/interplains/Zero-Breach-Toolkit)** ⭐ 1,761
+- **[interplains/Zero-Breach-Toolkit](https://github.com/interplains/Zero-Breach-Toolkit)** ⭐ 2,292
   ![Python](https://img.shields.io/badge/-Python-blue)
   Free, open-source, offline checks for traces of known mercenary spyware. Works on Windows, macOS and Linux, Android phones and iPhone backups.
 
-- **[anhao/ai-pose-gallery-zh](https://github.com/anhao/ai-pose-gallery-zh)** ⭐ 1,354
+- **[t3dotgg/tstack](https://github.com/t3dotgg/tstack)** ⭐ 2,204
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  The agent skills I use every day. Works with Claude Code and Codex.
+
+- **[oosexgang/hackios-xnu-kernel](https://github.com/oosexgang/hackios-xnu-kernel)** ⭐ 1,890
+  ![C](https://img.shields.io/badge/-C-lightgrey)
+  None
+
+- **[anhao/ai-pose-gallery-zh](https://github.com/anhao/ai-pose-gallery-zh)** ⭐ 1,748
   ![HTML](https://img.shields.io/badge/-HTML-lightgrey)
   中文版 AI 姿势参考图库 · 1439 组 / 2878 张图片 / 完整汉化 · 零依赖静态画廊
 
 ### 📈 Monthly Trending
 
-- **[storytold/photocraft](https://github.com/storytold/photocraft)** ⭐ 74,174
+- **[storytold/photocraft](https://github.com/storytold/photocraft)** ⭐ 74,307
   ![Rust](https://img.shields.io/badge/-Rust-brown)
   PhotoCraft: An open-source, photo editor written by scratch in pure Rust
 
-- **[Gathin23/cleanyourtv](https://github.com/Gathin23/cleanyourtv)** ⭐ 42,905
+- **[Gathin23/cleanyourtv](https://github.com/Gathin23/cleanyourtv)** ⭐ 43,419
   ![Python](https://img.shields.io/badge/-Python-blue)
   Debloat any Android or Google TV over Wi-Fi and get an Apple TV-style home.
 
-- **[deepseek-ai/DeepInfer](https://github.com/deepseek-ai/DeepInfer)** ⭐ 23,638
+- **[deepseek-ai/DeepInfer](https://github.com/deepseek-ai/DeepInfer)** ⭐ 23,819
   ![Python](https://img.shields.io/badge/-Python-blue)
   DeepInfer: High-performance, large-scale inference framework for DeepSeek models
 
-- **[wheresryan22/anatomy](https://github.com/wheresryan22/anatomy)** ⭐ 21,689
+- **[wheresryan22/anatomy](https://github.com/wheresryan22/anatomy)** ⭐ 21,908
   ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
   An agent skill for creating detailed, interactive isometric illustrations of real-world machines and complex systems. Generates polished SVGs with optional WebGL shaders and 3D effects.
 
-- **[google-research/harness2](https://github.com/google-research/harness2)** ⭐ 20,775
+- **[google-research/harness2](https://github.com/google-research/harness2)** ⭐ 20,911
   ![Python](https://img.shields.io/badge/-Python-blue)
   None
 
-- **[storytold/pdfcraft](https://github.com/storytold/pdfcraft)** ⭐ 18,338
+- **[storytold/pdfcraft](https://github.com/storytold/pdfcraft)** ⭐ 18,399
   ![Rust](https://img.shields.io/badge/-Rust-brown)
   PdfCraft: An open-source PDF reader and editor written by scratch in pure Rust
 
-- **[storytold/filmcraft](https://github.com/storytold/filmcraft)** ⭐ 16,640
+- **[storytold/filmcraft](https://github.com/storytold/filmcraft)** ⭐ 16,687
   ![Rust](https://img.shields.io/badge/-Rust-brown)
   FilmCraft: An open-source, nonlinear video editor written by scratch in pure Rust
 
-- **[storytold/wordcraft](https://github.com/storytold/wordcraft)** ⭐ 16,431
+- **[storytold/wordcraft](https://github.com/storytold/wordcraft)** ⭐ 16,454
   ![Rust](https://img.shields.io/badge/-Rust-brown)
   An open-source, clean-room reimplementation of Microsoft Word in pure Rust
 
@@ -292,14 +297,17 @@ Please refer...
 
 ### 📦 pytorch/pytorch
 
-**[PyTorch 2.14.1 Release](https://github.com/pytorch/pytorch/releases/tag/v2.14.1)** `v2.14.1`
+**[PyTorch 2.15.0 Release](https://github.com/pytorch/pytorch/releases/tag/v2.15.0)** `v2.15.0`
 
-📅 Released: September 30, 2026
+📅 Released: October 28, 2026
 
-This release is meant to fix the following regressions and silent correctness issues:
+# PyTorch 2.15.0 Release Notes
 
-## Silent correctness fixes
-- Fix incorrect `torch.linalg.lstsq` solutions on MPS for complex batched underdet...
+- [Highlights](#highlights)
+- [Backwards Incompatible Changes](#backwards-incompatible-changes)
+- [Deprecations](#deprecations)
+- [New Features](#new-features)
+- [Impro...
 
 ---
 
@@ -331,19 +339,15 @@ These releases include 1 security fix following the security policy:
 
 ### 📦 nodejs/node
 
-**[2026-10-21, Version 26.12.1 (Current), @aduh95 prepared by @RafaelGSS](https://github.com/nodejs/node/releases/tag/v26.12.1)** `v26.12.1`
+**[2026-10-28, Version 26.13.0 'Lithium' (LTS), @richardlau](https://github.com/nodejs/node/releases/tag/v26.13.0)** `v26.13.0`
 
-📅 Released: October 21, 2026
-
-
-
-
-This is a security release.
+📅 Released: October 28, 2026
 
 ### Notable Changes
 
-* (CVE-2026-106069, CVE-2026-106072) tls: reject non-canonical IP addresses (Matteo Collina) – High
-* (CVE-2026-105482) dns: validate resolve input...
+This release marks the transition of Node.js 26.x into Long Term Support (LTS)
+with the codename 'Lithium'. It will continue to receive updates through to
+the end of April 202...
 
 ---
 
@@ -487,9 +491,9 @@ This is a security release.
 |-------|--------|
 | Java | 🟡 Learning |
 | Python | 🔴 Beginner |
-| JavaScript | ⚪ Planned |
+| JavaScript | 🔴 Beginner |
 | TypeScript | 🔴 Beginner |
-| Go | 🟢 Proficient |
+| Go | ⚪ Planned |
 
 ### Frameworks
 
@@ -497,9 +501,9 @@ This is a security release.
 |-------|--------|
 | React | ⚪ Planned |
 | Spring Boot | 🟢 Proficient |
-| Django | 🟢 Proficient |
-| Node.js | 🔴 Beginner |
-| Next.js | 🟢 Proficient |
+| Django | 🔴 Beginner |
+| Node.js | 🟢 Proficient |
+| Next.js | ⚪ Planned |
 
 ### Cybersecurity
 
@@ -507,28 +511,28 @@ This is a security release.
 |-------|--------|
 | Penetration Testing | 🟢 Proficient |
 | Web Security | 🟡 Learning |
-| Network Security | 🟢 Proficient |
-| OWASP | 🟢 Proficient |
+| Network Security | 🟡 Learning |
+| OWASP | 🔴 Beginner |
 
 ### Ai Ml
 
 | Skill | Status |
 |-------|--------|
-| Machine Learning | ⚪ Planned |
-| Deep Learning | 🔴 Beginner |
-| NLP | 🟢 Proficient |
-| Computer Vision | 🔴 Beginner |
-| TensorFlow | ⚪ Planned |
-| PyTorch | 🟢 Proficient |
+| Machine Learning | 🟢 Proficient |
+| Deep Learning | 🟡 Learning |
+| NLP | 🔴 Beginner |
+| Computer Vision | 🟢 Proficient |
+| TensorFlow | 🟡 Learning |
+| PyTorch | ⚪ Planned |
 
 ### Devops
 
 | Skill | Status |
 |-------|--------|
-| Docker | 🔴 Beginner |
+| Docker | 🟡 Learning |
 | Kubernetes | 🟢 Proficient |
-| CI/CD | 🔴 Beginner |
-| AWS | 🔴 Beginner |
+| CI/CD | 🟢 Proficient |
+| AWS | 🟢 Proficient |
 | Azure | 🟢 Proficient |
 
 ### Other
@@ -536,8 +540,8 @@ This is a security release.
 | Skill | Status |
 |-------|--------|
 | Blockchain | 🟡 Learning |
-| Web3 | 🟢 Proficient |
-| Cloud Computing | 🟢 Proficient |
+| Web3 | 🟡 Learning |
+| Cloud Computing | ⚪ Planned |
 
 </details>
 
