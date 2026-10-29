@@ -7,7 +7,7 @@
 ![AI & ML](https://img.shields.io/badge/-AI%20&%20ML-blue) ![CyberSecurity](https://img.shields.io/badge/-CyberSecurity-red) ![Full Stack Development](https://img.shields.io/badge/-Full%20Stack%20Development-green)
 
 [![Auto Update](https://img.shields.io/badge/Auto%20Update-Enabled-success)](https://github.com/yourusername/tech-dashboard/actions)
-[![Last Updated](https://img.shields.io/badge/Last%20Updated-October 28, 2026-blue)](https://github.com/yourusername/tech-dashboard)
+[![Last Updated](https://img.shields.io/badge/Last%20Updated-October 29, 2026-blue)](https://github.com/yourusername/tech-dashboard)
 
 *Automatically updated every 6 hours with the latest tech news, trending repositories, and learning resources.*
 
@@ -46,34 +46,43 @@
 
 ### 📑 Hacker News
 
-- **[Formlabs Studio 1 $699 Resin Printer](https://formlabs.com/products/form-studio-1-basic-founders-edition/)**
-  *<p>Article URL: <a href="https://formlabs.com/products/form-studio-1-basic-founders-edition/">https://formlabs.com/products/form-studio-1-basic-founders-edition/</a></p>
-<p>Comments URL: <a href="http...*
-  📅 Wed, 28 Oct 2026 21:19:30 +0000
+- **[Richest 0.1% (8M) produce more carbon pollution than 3.5B](https://www.oxfam.org/en/press-releases/ultra-rich-01-produce-more-carbon-pollution-nearly-half-humanity-while-cashing)**
+  *<p>Article URL: <a href="https://www.oxfam.org/en/press-releases/ultra-rich-01-produce-more-carbon-pollution-nearly-half-humanity-while-cashing">https://www.oxfam.org/en/press-releases/ultra-rich-01-p...*
+  📅 Thu, 29 Oct 2026 03:01:57 +0000
 
-- **[Leak Exposes 41,000 Homeland Security Workers–Including Undercover ICE Agents](https://www.wired.com/story/massive-leak-exposes-41000-homeland-security-workers-including-undercover-ice-agents/)**
-  *<p>Article URL: <a href="https://www.wired.com/story/massive-leak-exposes-41000-homeland-security-workers-including-undercover-ice-agents/">https://www.wired.com/story/massive-leak-exposes-41000-homel...*
-  📅 Wed, 28 Oct 2026 21:03:24 +0000
+- **[Electronic fibers weave touchscreen into sleeve that survives machine washing](https://www.designboom.com/technology/electronic-fibers-touchscreen-sleeve-machine-washing-national-university-singapore-nus-tural-khudiyev/)**
+  *<p>Article URL: <a href="https://www.designboom.com/technology/electronic-fibers-touchscreen-sleeve-machine-washing-national-university-singapore-nus-tural-khudiyev/">https://www.designboom.com/techno...*
+  📅 Thu, 29 Oct 2026 01:40:52 +0000
 
-- **[Nango (YC W23) Is Hiring Across Eng, FDE, Marketing, DevRel](https://nango.dev/careers)**
-  *<p>Article URL: <a href="https://nango.dev/careers">https://nango.dev/careers</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50280824">https://news.ycombinator.com/item?id=5028...*
-  📅 Wed, 28 Oct 2026 21:00:06 +0000
+- **[Qwenputer: A functioning, deterministic RISC-V CPU inside Qwen3.5](https://divagr.com/blog/qwenputer)**
+  *<p>Article URL: <a href="https://divagr.com/blog/qwenputer">https://divagr.com/blog/qwenputer</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50282838">https://news.ycombinator....*
+  📅 Thu, 29 Oct 2026 00:25:45 +0000
 
-- **[The case of the 9 bit AES key](https://v12.sh/blog/the-case-of-the-9bit-aes-key)**
-  *<p>Article URL: <a href="https://v12.sh/blog/the-case-of-the-9bit-aes-key">https://v12.sh/blog/the-case-of-the-9bit-aes-key</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50280...*
-  📅 Wed, 28 Oct 2026 20:51:44 +0000
+- **[GitLab Security Incident: Attempted Exploitation of CVE-2026-97229](https://alpinelinux.org/posts/GitLab-security-incident-CVE-2026-97229.html)**
+  *<p>Article URL: <a href="https://alpinelinux.org/posts/GitLab-security-incident-CVE-2026-97229.html">https://alpinelinux.org/posts/GitLab-security-incident-CVE-2026-97229.html</a></p>
+<p>Comments URL:...*
+  📅 Wed, 28 Oct 2026 23:45:46 +0000
 
-- **[Google AI gets cagey when asked who won the 2020 elections](https://arstechnica.com/ai/2026/10/google-ai-gets-cagey-when-asked-who-won-the-2020-elections/)**
-  *<p>Article URL: <a href="https://arstechnica.com/ai/2026/10/google-ai-gets-cagey-when-asked-who-won-the-2020-elections/">https://arstechnica.com/ai/2026/10/google-ai-gets-cagey-when-asked-who-won-the-...*
-  📅 Wed, 28 Oct 2026 20:10:16 +0000
+- **[The first wired XR glasses powered by Android XR](https://blog.google/products-and-platforms/platforms/android/xreal-aura/)**
+  *<p>Article URL: <a href="https://blog.google/products-and-platforms/platforms/android/xreal-aura/">https://blog.google/products-and-platforms/platforms/android/xreal-aura/</a></p>
+<p>Comments URL: <a ...*
+  📅 Wed, 28 Oct 2026 23:45:19 +0000
 
-- **[Spiders Spin 'Silk Dope' into Nature's Toughest Material](https://www.quantamagazine.org/how-spiders-spin-silk-dope-into-natures-toughest-material-20261028/)**
-  *<p>Article URL: <a href="https://www.quantamagazine.org/how-spiders-spin-silk-dope-into-natures-toughest-material-20261028/">https://www.quantamagazine.org/how-spiders-spin-silk-dope-into-natures-toug...*
-  📅 Wed, 28 Oct 2026 17:45:24 +0000
+- **[StackOverflow now gets fewer than 1000 questions a month](https://data.stackexchange.com/stackoverflow/query/1926661#graph?t=1)**
+  *<p>Article URL: <a href="https://data.stackexchange.com/stackoverflow/query/1926661#graph?t=1">https://data.stackexchange.com/stackoverflow/query/1926661#graph?t=1</a></p>
+<p>Comments URL: <a href="ht...*
+  📅 Wed, 28 Oct 2026 23:35:02 +0000
 
 ### 📑 TechCrunch
+
+- **[Upwind raises $400M after walking away from Datadog acquisition offer](https://techcrunch.com/2026/10/28/upwind-raises-400m-after-walking-away-from-datadog-acquisition-offer/)**
+  *The cloud security startup raised a Series C at a $3.8B valuation, instead of selling itself for the same price....*
+  📅 Wed, 28 Oct 2026 23:15:00 +0000
+
+- **[Apple’s touchscreen MacBook Pro pushes laptop pricing to a new extreme](https://techcrunch.com/2026/10/28/apples-touchscreen-macbook-pro-pushes-laptop-pricing-to-a-new-extreme/)**
+  *Prepare to cough up around $14,549 if you want the new touchscreen MacBook Pro to have every upgrade....*
+  📅 Wed, 28 Oct 2026 22:47:50 +0000
 
 - **[Microsoft just shared Azure’s actual revenue in dollars: $33.2 billion](https://techcrunch.com/2026/10/28/microsoft-just-shared-azures-actual-revenue-in-dollars-33-2-billion/)**
   *Microsoft has never disclosed Azure's quarterly revenue in dollars. But for the first time, we can see just how close it is getting to besting the biggest competitor in the market, AWS....*
@@ -87,31 +96,19 @@
   *Microsoft said it made $10 billion in revenue from commercial arrangements with OpenAI, including revenue-sharing payments, in the quarter ending September 30. It underscores the still-enormous financ...*
   📅 Wed, 28 Oct 2026 21:34:30 +0000
 
-- **[Microsoft hits 10 quarters of record- breaking revenue in a row](https://techcrunch.com/2026/10/28/microsoft-hits-10-quarters-of-record-breaking-revenue-in-a-row/)**
+- **[Microsoft hits 10 quarters of record-breaking revenue in a row](https://techcrunch.com/2026/10/28/microsoft-hits-10-quarters-of-record-breaking-revenue-in-a-row/)**
   *Whatever the future of AI might be, the current situation is still very good for Microsoft. The tech giant reported yet another record for quarterly revenue on Wednesday: $92.3 billion, a 19% increase...*
   📅 Wed, 28 Oct 2026 21:25:30 +0000
 
-- **[Hacker stole personnel data about thousands of Homeland Security employees, including CBP and ICE agents](https://techcrunch.com/2026/10/28/hacker-stole-personnel-data-about-thousands-of-homeland-security-employees-including-cbp-and-ice-agents/)**
-  *A hacker obtained personally identifiable information about more than 40,000 Homeland Security staffers, which has since been published online....*
-  📅 Wed, 28 Oct 2026 20:01:00 +0000
-
-- **[Anthropic just launched tools to show companies what their AI spending is buying](https://techcrunch.com/2026/10/28/anthropic-just-launched-tools-to-show-companies-what-their-ai-spending-is-buying/)**
-  *The frontier lab is lifting the curtain on how users spend money on its models ahead of a planned IPO....*
-  📅 Wed, 28 Oct 2026 19:19:58 +0000
-
 ### 📑 Dev.to
 
-- **[Claude Code 2.1.311: Ultrathink Now Hits xhigh Via the API](https://dev.to/raxxostudios/claude-code-21311-ultrathink-now-hits-xhigh-via-the-api-190e)**
-  *<ul>
-<li><p>Claude Code 2.1.311 (Oct 26) maps the ultrathink keyword to xhigh effort on 4 named models through the API</p></li>
-<li><p>2.1.312 (Oct 27) renames the usage window from "session limit" to...*
-  📅 Wed, 28 Oct 2026 21:50:49 +0000
+- **[Why I built a whiteboard for practising system design](https://dev.to/suraj_nandan/why-i-built-a-whiteboard-for-practising-system-design-1ek3)**
+  *<p>System-design interviews ask you to draw boxes and defend them. Most of us practise on tools that were never built for that, and feedback depends on finding a human who'll read your diagram closely...*
+  📅 Thu, 29 Oct 2026 03:30:00 +0000
 
-- **[Run a Telegram Bot 24/7 on a VPS: Python, systemd and Auto-Restart](https://dev.to/buran_host/run-a-telegram-bot-247-on-a-vps-python-systemd-and-auto-restart-4l7g)**
-  *<p><em>Disclosure: I run Buran.host, a small VPS reseller, so that is the example I use. The steps work on any Ubuntu 22.04 or 24.04 VPS.</em></p>
-
-<p>A Telegram bot that lives on your laptop dies whe...*
-  📅 Wed, 28 Oct 2026 21:50:38 +0000
+- **[Breaking the Data Bottleneck: The Rise of Synthetic Data Generation](https://dev.to/malvintnw/breaking-the-data-bottleneck-the-rise-of-synthetic-data-generation-hc4)**
+  *<p><a class="article-body-image-wrapper" href="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws...*
+  📅 Thu, 29 Oct 2026 03:28:53 +0000
 
 </details>
 
@@ -119,105 +116,105 @@
 
 ### 📈 Daily Trending
 
-- **[smithjohn78390/tongjiang-lab](https://github.com/smithjohn78390/tongjiang-lab)** ⭐ 453
-  ![HTML](https://img.shields.io/badge/-HTML-lightgrey)
-  Free interactive 3D science lessons for high school · 铜匠实验室 · https://lab.tongjiang.app
-
-- **[vaishantsah/watson-AI-osint-all-in-one](https://github.com/vaishantsah/watson-AI-osint-all-in-one)** ⭐ 349
-  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
-  Watson — free OSINT tool for Windows: people search across 3,100+ public sites by nickname, email, phone or website. Open-source intelligence made simple: digital footprint check, username lookup, social media search. No account, no tracking. Site: watsonfind.icu
-
-- **[jacke-pp/open-yoki](https://github.com/jacke-pp/open-yoki)** ⭐ 202
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
-  An AI live-stream host that runs on one server: voice, face, chat, memory, posts. The base yoki runs on. By Jacke_pp · contact: DM @Jacke_pp on X
-
-- **[ScalarGrouse/SketchUp-Pro](https://github.com/ScalarGrouse/SketchUp-Pro)** ⭐ 199
-  ![None](https://img.shields.io/badge/-None-lightgrey)
-  Sketchup Pro 2023 complete standalone setup. Pre-activated desktop edition ready to run, with all professional tools included.
-
-- **[MiniMax-AI/mcode-stack](https://github.com/MiniMax-AI/mcode-stack)** ⭐ 172
+- **[soimy/c3rb3r-rescue](https://github.com/soimy/c3rb3r-rescue)** ⭐ 8
   ![Python](https://img.shields.io/badge/-Python-blue)
-  The workflows and skills the MiniMax Code team uses to build MiniMax Code. Open source, install and use.
+  Evidence-based DSM ransomware recovery: preservation, RAM key recovery, copy decryption, and GitLab validation.
 
-- **[brainstormity/LightPost](https://github.com/brainstormity/LightPost)** ⭐ 117
+- **[BH-Gong/IMM-SafeAngel](https://github.com/BH-Gong/IMM-SafeAngel)** ⭐ 8
   ![Python](https://img.shields.io/badge/-Python-blue)
-  A lightweight system to automate posting to all of your socials from one dashboard
+  Industrial noise classification model training and inference code
 
-- **[addozhang/leancast](https://github.com/addozhang/leancast)** ⭐ 107
+- **[chartergroup/topopt](https://github.com/chartergroup/topopt)** ⭐ 7
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  Topology optimization for 3D printing, as an MCP server for Claude, Codex, Cursor and other AI agents. Loads and regions in, a lighter printable STL out.
+
+- **[Guo-HT/SportFitSync](https://github.com/Guo-HT/SportFitSync)** ⭐ 6
   ![Kotlin](https://img.shields.io/badge/-Kotlin-lightgrey)
-  Ad-free DLNA / UPnP cast receiver for Android TV · 极简无广告投屏接收器
+  安卓端运动数据多端同步APP
 
-- **[aa1143/NamiGPT](https://github.com/aa1143/NamiGPT)** ⭐ 103
+- **[111496583yzy/film-scene-reconstruction](https://github.com/111496583yzy/film-scene-reconstruction)** ⭐ 6
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
+  电影拉片与三维拍摄现场推演 Skill：机位、灯光、视野、证据与原片同步工作台
+
+- **[tianxiao123456/DeepseekHarness-on-Phone](https://github.com/tianxiao123456/DeepseekHarness-on-Phone)** ⭐ 5
+  ![None](https://img.shields.io/badge/-None-lightgrey)
+  该项目可以在手机上调用deepseek harness的历史记录并继续对话，支持局域网/公网链接。 
+
+- **[jaturapornchai/smlaiaccountuat01](https://github.com/jaturapornchai/smlaiaccountuat01)** ⭐ 4
+  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
+  None
+
+- **[shiqiWang0/dingtalk-ears](https://github.com/shiqiWang0/dingtalk-ears)** ⭐ 3
   ![Python](https://img.shields.io/badge/-Python-blue)
-  零基础入门大模型（LLM）的基础教程：从零手写 GPT-2，一行行看懂大模型是怎么工作的 | Build GPT-2 from scratch in PyTorch, step by step
+  钉钉消息助手，提高专注性
 
 ### 📈 Weekly Trending
 
-- **[JustAResearcher/gpu-unlock-ada](https://github.com/JustAResearcher/gpu-unlock-ada)** ⭐ 4,409
+- **[JustAResearcher/gpu-unlock-ada](https://github.com/JustAResearcher/gpu-unlock-ada)** ⭐ 4,432
   ![C](https://img.shields.io/badge/-C-lightgrey)
   GPU tensor unlock source for RTX 4090 and experimental RTX 4070 Ti SUPER; firmware generated locally
 
-- **[rddmwmddr/android-ad-cleaner](https://github.com/rddmwmddr/android-ad-cleaner)** ⭐ 4,257
+- **[rddmwmddr/android-ad-cleaner](https://github.com/rddmwmddr/android-ad-cleaner)** ⭐ 4,385
   ![Python](https://img.shields.io/badge/-Python-blue)
   关掉国产安卓手机系统里的广告、热搜、资讯推荐和营销推送。不 root，可还原，支持 AI 智能体一键执行。
 
-- **[unclebob/ub-mode](https://github.com/unclebob/ub-mode)** ⭐ 3,687
+- **[unclebob/ub-mode](https://github.com/unclebob/ub-mode)** ⭐ 3,898
   ![None](https://img.shields.io/badge/-None-lightgrey)
   None
 
-- **[designfuchen/word-atlas](https://github.com/designfuchen/word-atlas)** ⭐ 3,035
+- **[designfuchen/word-atlas](https://github.com/designfuchen/word-atlas)** ⭐ 3,085
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   词光 · Word Atlas — Illustrated IELTS vocabulary with 7,298 words, UK/US audio and FSRS review. Open-source app + CC BY 4.0 dataset.
 
-- **[interplains/Zero-Breach-Toolkit](https://github.com/interplains/Zero-Breach-Toolkit)** ⭐ 2,649
+- **[interplains/Zero-Breach-Toolkit](https://github.com/interplains/Zero-Breach-Toolkit)** ⭐ 2,860
   ![Python](https://img.shields.io/badge/-Python-blue)
   Free, open-source, offline checks for traces of known mercenary spyware. Works on Windows, macOS and Linux, Android phones and iPhone backups.
 
-- **[t3dotgg/tstack](https://github.com/t3dotgg/tstack)** ⭐ 2,244
+- **[t3dotgg/tstack](https://github.com/t3dotgg/tstack)** ⭐ 2,281
   ![Python](https://img.shields.io/badge/-Python-blue)
   The agent skills I use every day. Works with Claude Code and Codex.
 
-- **[oosexgang/hakios-xnu-kernel](https://github.com/oosexgang/hakios-xnu-kernel)** ⭐ 1,898
-  ![C](https://img.shields.io/badge/-C-lightgrey)
-  None
-
-- **[anhao/ai-pose-gallery-zh](https://github.com/anhao/ai-pose-gallery-zh)** ⭐ 1,818
+- **[anhao/ai-pose-gallery-zh](https://github.com/anhao/ai-pose-gallery-zh)** ⭐ 2,064
   ![HTML](https://img.shields.io/badge/-HTML-lightgrey)
   中文版 AI 姿势参考图库 · 1439 组 / 2878 张图片 / 完整汉化 · 零依赖静态画廊
 
+- **[enesozturk/dimensional-drawing](https://github.com/enesozturk/dimensional-drawing)** ⭐ 1,423
+  ![HTML](https://img.shields.io/badge/-HTML-lightgrey)
+  Create Apple style dimensional drawings of UI components.
+
 ### 📈 Monthly Trending
 
-- **[storytold/photocraft](https://github.com/storytold/photocraft)** ⭐ 74,371
+- **[storytold/photocraft](https://github.com/storytold/photocraft)** ⭐ 74,474
   ![Rust](https://img.shields.io/badge/-Rust-brown)
   PhotoCraft: An open-source, photo editor written by scratch in pure Rust
 
-- **[Gathin23/cleanyourtv](https://github.com/Gathin23/cleanyourtv)** ⭐ 43,702
+- **[Gathin23/cleanyourtv](https://github.com/Gathin23/cleanyourtv)** ⭐ 44,034
   ![Python](https://img.shields.io/badge/-Python-blue)
   Debloat any Android or Google TV over Wi-Fi and get an Apple TV-style home.
 
-- **[deepseek-ai/DeepInfer](https://github.com/deepseek-ai/DeepInfer)** ⭐ 23,896
+- **[deepseek-ai/DeepInfer](https://github.com/deepseek-ai/DeepInfer)** ⭐ 23,982
   ![Python](https://img.shields.io/badge/-Python-blue)
   DeepInfer: High-performance, large-scale inference framework for DeepSeek models
 
-- **[wheresryan22/anatomy](https://github.com/wheresryan22/anatomy)** ⭐ 22,045
+- **[wheresryan22/anatomy](https://github.com/wheresryan22/anatomy)** ⭐ 22,198
   ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
   An agent skill for creating detailed, interactive isometric illustrations of real-world machines and complex systems. Generates polished SVGs with optional WebGL shaders and 3D effects.
 
-- **[google-research/harness2](https://github.com/google-research/harness2)** ⭐ 20,988
+- **[google-research/harness2](https://github.com/google-research/harness2)** ⭐ 21,068
   ![Python](https://img.shields.io/badge/-Python-blue)
   None
 
-- **[storytold/pdfcraft](https://github.com/storytold/pdfcraft)** ⭐ 18,432
+- **[storytold/pdfcraft](https://github.com/storytold/pdfcraft)** ⭐ 18,480
   ![Rust](https://img.shields.io/badge/-Rust-brown)
   PdfCraft: An open-source PDF reader and editor written by scratch in pure Rust
 
-- **[storytold/filmcraft](https://github.com/storytold/filmcraft)** ⭐ 16,715
-  ![Rust](https://img.shields.io/badge/-Rust-brown)
-  FilmCraft: An open-source, nonlinear video editor written by scratch in pure Rust
-
-- **[openai/math](https://github.com/openai/math)** ⭐ 16,574
+- **[openai/math](https://github.com/openai/math)** ⭐ 16,751
   ![Lean](https://img.shields.io/badge/-Lean-lightgrey)
   None
+
+- **[storytold/filmcraft](https://github.com/storytold/filmcraft)** ⭐ 16,746
+  ![Rust](https://img.shields.io/badge/-Rust-brown)
+  FilmCraft: An open-source, nonlinear video editor written by scratch in pure Rust
 
 ## 🚀 Latest Releases
 
@@ -484,58 +481,58 @@ the end of April 202...
 
 | Skill | Status |
 |-------|--------|
-| Java | 🟡 Learning |
-| Python | 🟡 Learning |
-| JavaScript | ⚪ Planned |
-| TypeScript | 🟡 Learning |
-| Go | 🔴 Beginner |
+| Java | 🟢 Proficient |
+| Python | 🔴 Beginner |
+| JavaScript | 🟢 Proficient |
+| TypeScript | ⚪ Planned |
+| Go | 🟢 Proficient |
 
 ### Frameworks
 
 | Skill | Status |
 |-------|--------|
-| React | 🟢 Proficient |
-| Spring Boot | 🟡 Learning |
+| React | 🟡 Learning |
+| Spring Boot | 🔴 Beginner |
 | Django | ⚪ Planned |
 | Node.js | 🔴 Beginner |
-| Next.js | 🔴 Beginner |
+| Next.js | 🟡 Learning |
 
 ### Cybersecurity
 
 | Skill | Status |
 |-------|--------|
 | Penetration Testing | 🟢 Proficient |
-| Web Security | ⚪ Planned |
-| Network Security | 🟢 Proficient |
-| OWASP | 🔴 Beginner |
+| Web Security | 🟢 Proficient |
+| Network Security | ⚪ Planned |
+| OWASP | 🟢 Proficient |
 
 ### Ai Ml
 
 | Skill | Status |
 |-------|--------|
-| Machine Learning | 🟡 Learning |
-| Deep Learning | 🟡 Learning |
-| NLP | 🟢 Proficient |
-| Computer Vision | 🟢 Proficient |
-| TensorFlow | 🟡 Learning |
-| PyTorch | 🟢 Proficient |
+| Machine Learning | ⚪ Planned |
+| Deep Learning | 🔴 Beginner |
+| NLP | ⚪ Planned |
+| Computer Vision | ⚪ Planned |
+| TensorFlow | ⚪ Planned |
+| PyTorch | 🟡 Learning |
 
 ### Devops
 
 | Skill | Status |
 |-------|--------|
-| Docker | 🔴 Beginner |
-| Kubernetes | 🟢 Proficient |
-| CI/CD | ⚪ Planned |
-| AWS | ⚪ Planned |
-| Azure | 🟢 Proficient |
+| Docker | ⚪ Planned |
+| Kubernetes | 🔴 Beginner |
+| CI/CD | 🟡 Learning |
+| AWS | 🟢 Proficient |
+| Azure | 🟡 Learning |
 
 ### Other
 
 | Skill | Status |
 |-------|--------|
-| Blockchain | 🔴 Beginner |
-| Web3 | 🔴 Beginner |
+| Blockchain | ⚪ Planned |
+| Web3 | 🟢 Proficient |
 | Cloud Computing | 🟡 Learning |
 
 </details>
@@ -554,7 +551,7 @@ This dashboard is automatically updated every 6 hours using GitHub Actions. The 
 
 <div align="center">
 
-**Last Updated:** October 28, 2026
+**Last Updated:** October 29, 2026
 
 Made with ❤️ and automated with GitHub Actions
 
