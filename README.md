@@ -20,7 +20,7 @@
 | Metric | Count |
 |--------|-------|
 | 📰 Latest News Articles | 26 |
-| 🔥 Trending Repositories | 0 |
+| 🔥 Trending Repositories | 45 |
 | 🎯 Latest Releases | 10 |
 | 🎯 Learning Goals | 4 |
 
@@ -46,81 +46,179 @@
 
 ### 📑 Hacker News
 
-- **[Show HN: Spinf-serve – inference server for bulk scoring and decisions](https://github.com/spinfinc/spinf-serve)**
-  *<p>Article URL: <a href="https://github.com/spinfinc/spinf-serve">https://github.com/spinfinc/spinf-serve</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50306815">https://news....*
-  📅 Fri, 30 Oct 2026 17:03:12 +0000
+- **[The Shady Israeli Executive Running YouTube Music and the Hip Hop Industry](https://www.mintpressnews.com/lyor-cohen-the-shady-israeli-executive-running-youtube-music-the-global-hip-hop-industry/291276/)**
+  *<p>Article URL: <a href="https://www.mintpressnews.com/lyor-cohen-the-shady-israeli-executive-running-youtube-music-the-global-hip-hop-industry/291276/">https://www.mintpressnews.com/lyor-cohen-the-sh...*
+  📅 Fri, 30 Oct 2026 21:07:43 +0000
 
-- **[A Working Nintendo in ~1GB of Qwen Weights](https://github.com/dbreunig/nesformer)**
-  *<p>Article URL: <a href="https://github.com/dbreunig/nesformer">https://github.com/dbreunig/nesformer</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50306442">https://news.ycom...*
-  📅 Fri, 30 Oct 2026 16:40:22 +0000
+- **[Through Captain Jean-Luc Picard, Patrick Stewart taught us the measure of a man](https://www.bostonglobe.com/2026/10/29/metro/patrick-stewart-picard-star-trek-the-next-generation/)**
+  *<p>Article URL: <a href="https://www.bostonglobe.com/2026/10/29/metro/patrick-stewart-picard-star-trek-the-next-generation/">https://www.bostonglobe.com/2026/10/29/metro/patrick-stewart-picard-star-tr...*
+  📅 Fri, 30 Oct 2026 20:23:30 +0000
 
-- **[US tech stocks see sharp falls over AI cost fears](https://www.bbc.co.uk/news/articles/cvwy72e0n72yo)**
-  *<p>Article URL: <a href="https://www.bbc.co.uk/news/articles/cvwy72e0n72yo">https://www.bbc.co.uk/news/articles/cvwy72e0n72yo</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=503...*
-  📅 Fri, 30 Oct 2026 16:13:02 +0000
+- **[Embraer's Atech aims to double in size by 2030 with drone traffic control](https://www.bloomberglinea.com.br/negocios/atech-da-embraer-quer-dobrar-de-tamanho-ate-2030-com-controle-de-trafego-de-drones/)**
+  *<p>Article URL: <a href="https://www.bloomberglinea.com.br/negocios/atech-da-embraer-quer-dobrar-de-tamanho-ate-2030-com-controle-de-trafego-de-drones/">https://www.bloomberglinea.com.br/negocios/atec...*
+  📅 Fri, 30 Oct 2026 20:18:18 +0000
 
-- **[AI isn't replacing SREs, it's deskilling them](https://newsletter.signoz.io/p/ai-isnt-replacing-sres-its-deskilling)**
-  *<p>Article URL: <a href="https://newsletter.signoz.io/p/ai-isnt-replacing-sres-its-deskilling">https://newsletter.signoz.io/p/ai-isnt-replacing-sres-its-deskilling</a></p>
-<p>Comments URL: <a href="ht...*
-  📅 Fri, 30 Oct 2026 15:52:18 +0000
+- **[Show HN: Automatic deduction of FlashAttention kernel from ~25 lines of SQL](https://github.com/xqlsystems/xarray-sql/blob/6debe2495dcb4e8fac20ab97df5b89baae2a31a6/benchmarks/ml/01_attention.py)**
+  *<p>In this demo, we automatically deduce a FlashAttention kernel with ~25 lines of SQL, which just expresses vanilla attention. This is possible due to three portable SQL extensions that we’re buildin...*
+  📅 Fri, 30 Oct 2026 20:09:47 +0000
 
-- **[Florilegium: Procedural Flowers in LaTeX](https://github.com/kevinraymond/florilegium)**
-  *<p>Article URL: <a href="https://github.com/kevinraymond/florilegium">https://github.com/kevinraymond/florilegium</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50305637">https...*
-  📅 Fri, 30 Oct 2026 15:48:12 +0000
+- **[An Arrogant Way of Killing (2016)](https://magazine.atavist.com/2016/an-arrogant-way-of-killing)**
+  *<p>Article URL: <a href="https://magazine.atavist.com/2016/an-arrogant-way-of-killing">https://magazine.atavist.com/2016/an-arrogant-way-of-killing</a></p>
+<p>Comments URL: <a href="https://news.ycomb...*
+  📅 Fri, 30 Oct 2026 20:08:52 +0000
 
-- **[Geist Serif](https://vercel.com/blog/introducing-geist-serif)**
-  *<p>Article URL: <a href="https://vercel.com/blog/introducing-geist-serif">https://vercel.com/blog/introducing-geist-serif</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=5030560...*
-  📅 Fri, 30 Oct 2026 15:46:42 +0000
+- **[Jules Verne's Lost Novel](https://blue-continuum.com/verne-paris)**
+  *<p>Article URL: <a href="https://blue-continuum.com/verne-paris">https://blue-continuum.com/verne-paris</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50309314">https://news.yc...*
+  📅 Fri, 30 Oct 2026 19:55:10 +0000
 
 ### 📑 TechCrunch
 
+- **[Last-minute Halloween costumes for tech nerds](https://techcrunch.com/2026/10/30/last-minute-halloween-costumes-for-tech-nerds/)**
+  *No Halloween costume? Just be a deceptively cute AI agent icon, a PHP vulnerability, or sleepy time Bryan Johnson....*
+  📅 Fri, 30 Oct 2026 21:26:59 +0000
+
+- **[Cracks are emerging in the AI spending boom](https://techcrunch.com/2026/10/30/cracks-are-emerging-in-the-ai-spending-boom/)**
+  *Big Tech is pouring billions into AI infrastructure, but mounting debt, negative cash flow, and growing investor skepticism are raising questions about the sustainability of the AI spending boom....*
+  📅 Fri, 30 Oct 2026 21:17:40 +0000
+
+- **[AI law firm Crosby bids on disintegrating, famed firm Weil Gotshal](https://techcrunch.com/2026/10/30/ai-law-firm-crosby-bids-on-disintegrating-famed-firm-weil-gotshal/)**
+  *Like a real-life episode of "Suits," the demise of famed white-shoe Wall Street law firm Weil, Gotshal &#038; Manges has been the talk of the legal industry. And now an AI firm has entered the picture...*
+  📅 Fri, 30 Oct 2026 19:55:13 +0000
+
+- **[Satlyt takes another step toward turning satellites into space data centers](https://techcrunch.com/2026/10/30/satlyt-takes-another-step-toward-turning-satellites-into-space-data-centers/)**
+  *Satlyt ran a successful test this month bringing it closer to turning spacecraft, starting with satellites,  into virtual data centers....*
+  📅 Fri, 30 Oct 2026 18:01:24 +0000
+
+- **[Zest’s new AI agent finds restaurants and books reservations over text](https://techcrunch.com/2026/10/30/zests-new-ai-agent-finds-restaurants-and-books-reservations-over-text/)**
+  *Can't agree on where to eat? Zest's AI concierge can combine everyone's tastes, put restaurant options to a vote, and make the reservation....*
+  📅 Fri, 30 Oct 2026 17:47:12 +0000
+
 - **[Google’s first data center satellite is online and writing poetry](https://techcrunch.com/2026/10/30/googles-first-data-center-satellite-is-online-and-writing-poetry/)**
-  *The first TPU in space is a running a Google DeepMind Gemma 4 model and writing cheesy poetry....*
+  *The first TPU in space is running a Google DeepMind Gemma 4 model and writing cheesy poetry....*
   📅 Fri, 30 Oct 2026 17:00:00 +0000
-
-- **[Theranos whistleblower Tyler Shultz warns that the AI boom is ‘a great opportunity to go deceive people’](https://techcrunch.com/2026/10/30/theranos-whistleblower-tyler-shultz-warns-that-the-ai-boom-is-a-great-opportunity-to-go-deceive-people/)**
-  *The cautionary Theranos tale takes on a new significance in the AI era, when companies that have never turned a profit are raising capital at trillion-dollar valuations....*
-  📅 Fri, 30 Oct 2026 16:03:45 +0000
-
-- **[North Korean hackers blamed for stealing record $6.3B in Binance breach](https://techcrunch.com/2026/10/30/north-korean-hackers-blamed-for-stealing-record-6-3b-in-binance-breach/)**
-  *Hackers working for North Korea are suspected of hacking a Binance employee's laptop, which allowed the theft of billions in crypto....*
-  📅 Fri, 30 Oct 2026 14:00:25 +0000
-
-- **[Skip the small talk: Make game-changing connections at TechCrunch Founder Summit with Braindate](https://techcrunch.com/2026/10/30/skip-the-small-talk-make-game-changing-connections-at-techcrunch-founder-summit-with-braindate/)**
-  *At TechCrunch Founder Summit 2026, happening November 4 at SoWa Power Station in Boston, networking powered by Braindate is designed to make those conversations easier to find, whether they are in 1:1...*
-  📅 Fri, 30 Oct 2026 14:00:00 +0000
-
-- **[DoorDash said it’s only received ‘several hundred’ orders from AI agents](https://techcrunch.com/2026/10/30/doordash-said-its-only-received-several-hundred-orders-from-ai-agents/)**
-  *DoorDash said that it is open to working with third-party agent makers....*
-  📅 Fri, 30 Oct 2026 13:54:25 +0000
-
-- **[Can AI data centers be mass-produced like cars? This startup aims to find out](https://techcrunch.com/2026/10/30/can-ai-data-centers-be-mass-produced-like-cars-and-online-in-48-hours-this-startup-aims-to-find-out/)**
-  *Runware is building a factory to turn out prefabricated AI data centers on an assembly line. The real test will be whether it can deliver at that scale....*
-  📅 Fri, 30 Oct 2026 13:00:00 +0000
 
 ### 📑 Dev.to
 
-- **[Sigma Rule (Detection Logic)](https://dev.to/raghavvram_johnson/sigma-rule-detection-logic-31kh)**
-  *<p><a class="article-body-image-wrapper" href="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws...*
-  📅 Fri, 30 Oct 2026 17:20:50 +0000
-
-- **[The threat model behind CVE-2026-111943: forged chains without a broken signature](https://dev.to/bianliang/the-threat-model-behind-cve-2026-111943-forged-chains-without-a-broken-signature-3ecb)**
+- **[Fifteen Coder fingerprints and 7,392 title matches describe very different evidence](https://dev.to/ioneyrezende/fifteen-coder-fingerprints-and-7392-title-matches-describe-very-different-evidence-1249)**
   *<h1>
   
   
-  The threat model behind CVE-2026-111943: forged chains without a broken signature
+  Fifteen Coder fingerprints and 7,392 title matches describe very different evidence
 </h1>
 
-<p>CVE-2026-111943 is easier to assess when the threat model is separated from the vulnerability r...*
-  📅 Fri, 30 Oct 2026 17:20:11 +0000
+<p>Product names that are also common English words create a measurement problem. A title search...*
+  📅 Fri, 30 Oct 2026 21:41:46 +0000
+
+- **[A Practical First-Month SEO Plan for a New Website](https://dev.to/morlixcms/a-practical-first-month-seo-plan-for-a-new-website-4hf1)**
+  *<p>A new website does not need a hundred SEO tasks on day one. It needs a reliable way for people to reach important pages, content that answers actual questions, and a measurement setup that connects...*
+  📅 Fri, 30 Oct 2026 21:40:51 +0000
 
 </details>
 
 ## 🔥 Trending Repositories
+
+### 📈 Daily Trending
+
+- **[kevinraymond/florilegium](https://github.com/kevinraymond/florilegium)** ⭐ 462
+  ![Lua](https://img.shields.io/badge/-Lua-lightgrey)
+  Procedurally generated Delft-blue floral page margins for LuaLaTeX, drawn in Lua
+
+- **[patch-gg/pixelfx](https://github.com/patch-gg/pixelfx)** ⭐ 266
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
+  232 pixel art effects, every one a small piece of code. Plus a Claude Code skill to make your own.
+
+- **[QuantumBladesmith/FPS-Optimizer-Universal-Game-Performance-Booster-2026](https://github.com/QuantumBladesmith/FPS-Optimizer-Universal-Game-Performance-Booster-2026)** ⭐ 264
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  Powerful FPS Optimizer for all games. Increase frame rate, reduce lag and stutters with one-click profiles. Clean interface, fully reversible, easy to use.
+
+- **[mike-vops93s1/Valorant-ESP-Advanced-Player-Visual-Overlay-2026](https://github.com/mike-vops93s1/Valorant-ESP-Advanced-Player-Visual-Overlay-2026)** ⭐ 263
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  Powerful Valorant ESP featuring player boxes, names, health bars, distance and skeleton rendering. Fully customizable overlay with clean interface. Updated for the latest patch.
+
+- **[alchaincyf/huashu-bird-sticker](https://github.com/alchaincyf/huashu-bird-sticker)** ⭐ 205
+  ![None](https://img.shields.io/badge/-None-lightgrey)
+  花叔开源的全球鸟类贴纸库 · Stickers for all 11,064 living bird species, with names in 43 languages and structured data
+
+- **[dbreunig/nesformer](https://github.com/dbreunig/nesformer)** ⭐ 110
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  An NES CPU compiled into the weights of a stock Qwen3.5 model
+
+- **[TabooColonelFactory/Uttorent](https://github.com/TabooColonelFactory/Uttorent)** ⭐ 103
+  ![None](https://img.shields.io/badge/-None-lightgrey)
+  Uttorent 2026 complete standalone setup. Ready-to-run torrent client with all features unlocked.
+
+- **[AstralGrenadier/Cubase](https://github.com/AstralGrenadier/Cubase)** ⭐ 102
+  ![None](https://img.shields.io/badge/-None-lightgrey)
+  Complete Cubase 2026 standalone setup with all features pre-activated, ready to run on your desktop.
+
+### 📈 Weekly Trending
+
+- **[unclebob/ub-mode](https://github.com/unclebob/ub-mode)** ⭐ 5,353
+  ![None](https://img.shields.io/badge/-None-lightgrey)
+  None
+
+- **[rddmwmddr/android-ad-cleaner](https://github.com/rddmwmddr/android-ad-cleaner)** ⭐ 5,041
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  关掉国产安卓手机系统里的广告、热搜、资讯推荐和营销推送。不 root，可还原，支持 AI 智能体一键执行。
+
+- **[anhao/ai-pose-gallery-zh](https://github.com/anhao/ai-pose-gallery-zh)** ⭐ 3,925
+  ![HTML](https://img.shields.io/badge/-HTML-lightgrey)
+  中文版 AI 姿势参考图库 · 1439 组 / 2878 张图片 / 完整汉化 · 零依赖静态画廊
+
+- **[interplains/Zero-Breach-Toolkit](https://github.com/interplains/Zero-Breach-Toolkit)** ⭐ 3,844
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  Free, open-source, offline checks for traces of known mercenary spyware. Works on Windows, macOS and Linux, Android phones and iPhone backups.
+
+- **[designfuchen/word-atlas](https://github.com/designfuchen/word-atlas)** ⭐ 3,353
+  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
+  词光 · Word Atlas — Illustrated IELTS vocabulary with 7,298 words, UK/US audio and FSRS review. Open-source app + CC BY 4.0 dataset.
+
+- **[t3dotgg/tstack](https://github.com/t3dotgg/tstack)** ⭐ 2,458
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  The agent skills I use every day. Works with Claude Code and Codex.
+
+- **[ccch1mneyyy/dsh-Go](https://github.com/ccch1mneyyy/dsh-Go)** ⭐ 2,390
+  ![Dart](https://img.shields.io/badge/-Dart-lightgrey)
+  dsh-go — DeepSeek Harness 装进口袋：手机本机运行，也能遥控你的电脑。
+
+- **[andyhuo520/digital-human-koubo](https://github.com/andyhuo520/digital-human-koubo)** ⭐ 1,548
+  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
+  AI digital-human talking-head videos from one photo: Renoise MCP generation + 5 editing styles + 48 creator-grade packaging components. Agent skill for Claude Code / Codex / OpenClaw / WorkBuddy …
+
+### 📈 Monthly Trending
+
+- **[Gathin23/cleanyourtv](https://github.com/Gathin23/cleanyourtv)** ⭐ 46,627
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  Debloat any Android or Google TV over Wi-Fi and get an Apple TV-style home.
+
+- **[deepseek-ai/DeepInfer](https://github.com/deepseek-ai/DeepInfer)** ⭐ 24,484
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  DeepInfer: High-performance, large-scale inference framework for DeepSeek models
+
+- **[wheresryan22/anatomy](https://github.com/wheresryan22/anatomy)** ⭐ 22,992
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
+  An agent skill for creating detailed, interactive isometric illustrations of real-world machines and complex systems. Generates polished SVGs with optional WebGL shaders and 3D effects.
+
+- **[google-research/harness2](https://github.com/google-research/harness2)** ⭐ 21,499
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  None
+
+- **[openai/math](https://github.com/openai/math)** ⭐ 17,132
+  ![Lean](https://img.shields.io/badge/-Lean-lightgrey)
+  None
+
+- **[storytold/wordcraft](https://github.com/storytold/wordcraft)** ⭐ 16,741
+  ![Rust](https://img.shields.io/badge/-Rust-brown)
+  An open-source, clean-room reimplementation of Microsoft Word in pure Rust
+
+- **[Zagitta/gpu-unlock](https://github.com/Zagitta/gpu-unlock)** ⭐ 13,463
+  ![C](https://img.shields.io/badge/-C-lightgrey)
+  Your GeForce runs AI at half speed. This fixes it for 20/30/40 series cards. Up to 2× FP16 / BF16 / TF32 tensor throughput
+
+- **[tangency-labs/solidcraft](https://github.com/tangency-labs/solidcraft)** ⭐ 12,356
+  ![Rust](https://img.shields.io/badge/-Rust-brown)
+  SolidCraft: an open-source parametric 3D CAD application built in pure Rust. Desktop, web, and automation through MCP.
 
 ## 🚀 Latest Releases
 
@@ -389,45 +487,45 @@ the end of April 202...
 |-------|--------|
 | Java | 🟡 Learning |
 | Python | ⚪ Planned |
-| JavaScript | 🔴 Beginner |
+| JavaScript | 🟡 Learning |
 | TypeScript | ⚪ Planned |
-| Go | ⚪ Planned |
+| Go | 🔴 Beginner |
 
 ### Frameworks
 
 | Skill | Status |
 |-------|--------|
 | React | 🟡 Learning |
-| Spring Boot | 🟢 Proficient |
-| Django | ⚪ Planned |
-| Node.js | ⚪ Planned |
-| Next.js | 🟢 Proficient |
+| Spring Boot | ⚪ Planned |
+| Django | 🔴 Beginner |
+| Node.js | 🟡 Learning |
+| Next.js | 🟡 Learning |
 
 ### Cybersecurity
 
 | Skill | Status |
 |-------|--------|
-| Penetration Testing | 🟢 Proficient |
-| Web Security | 🟡 Learning |
-| Network Security | 🔴 Beginner |
-| OWASP | 🟡 Learning |
+| Penetration Testing | ⚪ Planned |
+| Web Security | 🟢 Proficient |
+| Network Security | 🟢 Proficient |
+| OWASP | 🟢 Proficient |
 
 ### Ai Ml
 
 | Skill | Status |
 |-------|--------|
-| Machine Learning | ⚪ Planned |
-| Deep Learning | 🟡 Learning |
-| NLP | ⚪ Planned |
-| Computer Vision | 🟢 Proficient |
-| TensorFlow | 🟡 Learning |
+| Machine Learning | 🟢 Proficient |
+| Deep Learning | 🟢 Proficient |
+| NLP | 🟡 Learning |
+| Computer Vision | 🔴 Beginner |
+| TensorFlow | 🟢 Proficient |
 | PyTorch | 🟡 Learning |
 
 ### Devops
 
 | Skill | Status |
 |-------|--------|
-| Docker | 🔴 Beginner |
+| Docker | ⚪ Planned |
 | Kubernetes | ⚪ Planned |
 | CI/CD | 🔴 Beginner |
 | AWS | 🔴 Beginner |
@@ -437,8 +535,8 @@ the end of April 202...
 
 | Skill | Status |
 |-------|--------|
-| Blockchain | 🟡 Learning |
-| Web3 | 🟢 Proficient |
+| Blockchain | 🟢 Proficient |
+| Web3 | ⚪ Planned |
 | Cloud Computing | 🔴 Beginner |
 
 </details>
