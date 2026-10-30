@@ -46,46 +46,50 @@
 
 ### 📑 Hacker News
 
-- **[CVE-2026-98432: Linux TCP Use-After-Free Risk and Patch Validation](https://www.penligent.ai/hackinglabs/cve-2026-98432/)**
-  *<p>Article URL: <a href="https://www.penligent.ai/hackinglabs/cve-2026-98432/">https://www.penligent.ai/hackinglabs/cve-2026-98432/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?...*
-  📅 Fri, 30 Oct 2026 02:33:04 +0000
+- **[Fiber lasts decades, GPUs last three years: the AI boom isn't the dot-com boom [video]](https://www.youtube.com/watch?v=MENoB3Rex28)**
+  *<p>Article URL: <a href="https://www.youtube.com/watch?v=MENoB3Rex28">https://www.youtube.com/watch?v=MENoB3Rex28</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50302407">https...*
+  📅 Fri, 30 Oct 2026 11:16:15 +0000
 
-- **[Show HN: Lasm – Write formally verified webapps in Lean for Node/serverless/edge](https://github.com/Millillion/lasm)**
-  *<p>Lasm has been my dream for a good part of 2026.
-I firmly believe that formal verification is the next evolution of software engineering and programming languages. This next wave will largely be ena...*
-  📅 Fri, 30 Oct 2026 02:05:41 +0000
+- **[Backdoors in official Claude Code extensions](https://cyberplace.social/@GossiTheDog/117528831681803563)**
+  *<p>Article URL: <a href="https://cyberplace.social/@GossiTheDog/117528831681803563">https://cyberplace.social/@GossiTheDog/117528831681803563</a></p>
+<p>Comments URL: <a href="https://news.ycombinator...*
+  📅 Fri, 30 Oct 2026 11:05:53 +0000
 
-- **[Pico CSS is no longer maintained](https://github.com/picocss/pico/discussions/754)**
-  *<p>Article URL: <a href="https://github.com/picocss/pico/discussions/754">https://github.com/picocss/pico/discussions/754</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=5029896...*
-  📅 Fri, 30 Oct 2026 01:58:44 +0000
+- **[Anthropic hacked to deliver remote access trojan](https://doublepulsar.com/anthropic-hacked-to-deliver-remote-access-trojan-to-claude-developer-laptops-worldwide-1148a92baae2)**
+  *<p>Article URL: <a href="https://doublepulsar.com/anthropic-hacked-to-deliver-remote-access-trojan-to-claude-developer-laptops-worldwide-1148a92baae2">https://doublepulsar.com/anthropic-hacked-to-deli...*
+  📅 Fri, 30 Oct 2026 10:22:51 +0000
 
-- **[Herdr has released native app](https://github.com/herdrdev/herdr-app)**
-  *<p>Article URL: <a href="https://github.com/herdrdev/herdr-app">https://github.com/herdrdev/herdr-app</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50298436">https://news.ycom...*
-  📅 Fri, 30 Oct 2026 00:42:41 +0000
+- **[How Do You Take a Picture of a Black Hole?](https://www.quantamagazine.org/how-do-you-take-a-picture-of-a-black-hole-20261029/)**
+  *<p>Article URL: <a href="https://www.quantamagazine.org/how-do-you-take-a-picture-of-a-black-hole-20261029/">https://www.quantamagazine.org/how-do-you-take-a-picture-of-a-black-hole-20261029/</a></p>
+...*
+  📅 Fri, 30 Oct 2026 09:49:02 +0000
 
-- **[Cormac McCarthy's Library](https://cormacmccarthy.lib.utk.edu/)**
-  *<p>Article URL: <a href="https://cormacmccarthy.lib.utk.edu/">https://cormacmccarthy.lib.utk.edu/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50298318">https://news.ycombina...*
-  📅 Fri, 30 Oct 2026 00:31:00 +0000
+- **[elect.horse](https://elect.horse/)**
+  *<p>Article URL: <a href="https://elect.horse/">https://elect.horse/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50301462">https://news.ycombinator.com/item?id=50301462</a></...*
+  📅 Fri, 30 Oct 2026 09:14:34 +0000
 
-- **[Show HN: I Turned DOOM into a Transformer](https://github.com/mottopanikeiku/doomformer)**
-  *<p>Instead of trying to run DOOM on things, I have instead decided to use DOOM (many, many, many doom games actually) to create a transformer. For a lot of the math required I essentially had to use D...*
-  📅 Thu, 29 Oct 2026 23:25:46 +0000
+- **[Wasmer (YC S19) Is Hiring OS/Hypervisor Experts in Europe](https://www.workatastartup.com/jobs/98722)**
+  *<p>Article URL: <a href="https://www.workatastartup.com/jobs/98722">https://www.workatastartup.com/jobs/98722</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50300643">https://n...*
+  📅 Fri, 30 Oct 2026 07:00:35 +0000
 
 ### 📑 TechCrunch
+
+- **[Waymo taps Toyota to supply robotaxis for Japan and the U.K.](https://techcrunch.com/2026/10/30/waymos-next-robotaxi-will-be-a-toyota-bz4x-destined-for-japan-and-the-uk/)**
+  *Waymo will begin testing self-driving versions of Toyota's electric bZ4X vehicles in Japan next year as part of a broader partnership with the automaker....*
+  📅 Fri, 30 Oct 2026 07:01:00 +0000
 
 - **[You don’t need to believe in a god to get a religious exemption from using AI at work](https://techcrunch.com/2026/10/29/you-dont-need-to-believe-in-a-god-to-get-a-religious-exemption-from-using-ai-at-work/)**
   *David Durman, a University of Kentucky administrator, recently earned a religious exemption from using AI in the workplace....*
   📅 Fri, 30 Oct 2026 01:20:48 +0000
 
 - **[Andy Jassy says Prime Video is on track to earn ‘tens of billions of dollars’](https://techcrunch.com/2026/10/29/andy-jassy-says-prime-video-is-on-track-to-earn-tens-of-billions-of-dollars/)**
-  *The success of blockbuster hits like Project Hail Mary and Verity is only part of the story, Amazon's CEO says....*
+  *The success of blockbuster hits like "Project Hail Mary" and "Verity" is only part of the story, Amazon's CEO says....*
   📅 Thu, 29 Oct 2026 23:44:56 +0000
 
-- **[AWS will be a $1T business, Jassy says. But first, it will spend big.](https://techcrunch.com/2026/10/29/aws-will-be-a-1t-business-jassy-says-but-first-it-will-spend-big/)**
+- **[AWS will be a $1T business, Jassy says — but first, it will spend big](https://techcrunch.com/2026/10/29/aws-will-be-a-1t-business-jassy-says-but-first-it-will-spend-big/)**
   *Amazon wants to be the king of AI cloud computing and become the first $1 trillion revenue business. But to do that it will have to continue on its capex spending spree, its CEO said Thursday....*
   📅 Thu, 29 Oct 2026 23:42:22 +0000
 
@@ -97,24 +101,17 @@ I firmly believe that formal verification is the next evolution of software engi
   *Putin said that he and Musk are in "close contact" about Rassvet, Russia's Starlink-like satellite connectivity project....*
   📅 Thu, 29 Oct 2026 21:51:29 +0000
 
-- **[Amazon reported booming cloud revenue but otherwise missed expectations](https://techcrunch.com/2026/10/29/amazon-reported-booming-cloud-revenue-but-otherwise-missed-expectations/)**
-  *The biggest ouch of the report was its negative free cash flow of $2.4 billion....*
-  📅 Thu, 29 Oct 2026 21:20:47 +0000
-
 ### 📑 Dev.to
 
-- **[I've been working on QueryCherry, a collection of 22 free tools for SQL, CSV, JSON, data cleaning and more. Kept things simple, clean, and a little more delightful.
+- **[Architecting a Scalable Product Comparison Engine Using Structured Metadata and Transparent Review Signals](https://dev.to/zainab_1201/architecting-a-scalable-product-comparison-engine-using-structured-metadata-and-transparent-review-2cgn)**
+  *<p><a class="article-body-image-wrapper" href="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws...*
+  📅 Fri, 30 Oct 2026 11:47:38 +0000
 
-https://querycherry.online](https://dev.to/volfnyra/ive-been-working-on-querycherry-a-collection-of-22-free-tools-for-sql-csv-json-data-cleaning-5e0n)**
-  *<div class="crayons-card c-embed text-styles text-styles--secondary">
-    <div class="c-embed__content">
-        <div class="c-embed__cover">
-          <a class="c-link align-middle" href="https://que...*
-  📅 Fri, 30 Oct 2026 03:38:50 +0000
+- **[Connecting Shopify, Strapi, and HubSpot Without Replacing the Storefront](https://dev.to/gyansolutions/connecting-shopify-strapi-and-hubspot-without-replacing-the-storefront-59b2)**
+  *<p>Our team found a storefront that worked and a customer journey that did not. Fitness content, products, and classes lived in separate places across the retailer’s digital operations.</p>
 
-- **[Debugging a 401: The Token Was Valid but the Audience Was Wrong](https://dev.to/jeff_pdc/debugging-a-401-the-token-was-valid-but-the-audience-was-wrong-35ko)**
-  *<p><strong>Quick answer:</strong> A 401 that arrives with a structurally perfect token almost always means the signature is fine but one of the token's claims does not match what this resource expects...*
-  📅 Fri, 30 Oct 2026 03:38:45 +0000
+<p>The cl...*
+  📅 Fri, 30 Oct 2026 11:47:25 +0000
 
 </details>
 
@@ -122,103 +119,103 @@ https://querycherry.online](https://dev.to/volfnyra/ive-been-working-on-queryche
 
 ### 📈 Daily Trending
 
+- **[mike-vops93s1/Valorant-ESP-Advanced-Player-Visual-Overlay-2026](https://github.com/mike-vops93s1/Valorant-ESP-Advanced-Player-Visual-Overlay-2026)** ⭐ 263
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  Powerful Valorant ESP featuring player boxes, names, health bars, distance and skeleton rendering. Fully customizable overlay with clean interface. Updated for the latest patch.
+
+- **[alchaincyf/huashu-bird-sticker](https://github.com/alchaincyf/huashu-bird-sticker)** ⭐ 96
+  ![None](https://img.shields.io/badge/-None-lightgrey)
+  花叔开源的全球鸟类贴纸库 · Stickers for all 11,064 living bird species, with names in 43 languages and structured data
+
+- **[patch-gg/pixelfx](https://github.com/patch-gg/pixelfx)** ⭐ 53
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
+  232 pixel art effects, every one a small piece of code. Plus a Claude Code skill to make your own.
+
+- **[OpenBMB/ForgeKernel](https://github.com/OpenBMB/ForgeKernel)** ⭐ 47
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  None
+
+- **[kevinraymond/florilegium](https://github.com/kevinraymond/florilegium)** ⭐ 40
+  ![Lua](https://img.shields.io/badge/-Lua-lightgrey)
+  Procedurally generated Delft-blue floral page margins for LuaLaTeX, drawn in Lua
+
 - **[u762tuvwx/drag-drive-script-exec-hub](https://github.com/u762tuvwx/drag-drive-script-exec-hub)** ⭐ 29
   ![HTML](https://img.shields.io/badge/-HTML-lightgrey)
   A 2026 in-browser companion utility for a Roblox drag racing game, delivered as a userscript or console injection with fast toggles for core gameplay helpers and persistent settings.
 
-- **[rishik4/protoflow](https://github.com/rishik4/protoflow)** ⭐ 10
-  ![None](https://img.shields.io/badge/-None-lightgrey)
-  ProtoFlow, the free AI PCB design app for macOS, Windows and Linux. Installers, docs and agent setup guide.
+- **[simpsoka/zigzag](https://github.com/simpsoka/zigzag)** ⭐ 25
+  ![Rust](https://img.shields.io/badge/-Rust-brown)
+  SVG to machine embroidery: a visual Mac editor with PES/DST export and Brother Skitch Bluetooth upload.
 
-- **[atuinsh/herdr-atuin-threads](https://github.com/atuinsh/herdr-atuin-threads)** ⭐ 10
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
-  Herdr mod: Atuin threads for the shown space, resumed in a new tab on click
-
-- **[Annan-lyn/fudan-exam-paper](https://github.com/Annan-lyn/fudan-exam-paper)** ⭐ 8
-  ![HTML](https://img.shields.io/badge/-HTML-lightgrey)
-  复旦大学期中期末往年卷，按科目和老师整理｜仅供学习交流，版权归原作者
-
-- **[Alpha-Park/genpark-agent-prd-spec-synthesizer-skill](https://github.com/Alpha-Park/genpark-agent-prd-spec-synthesizer-skill)** ⭐ 7
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  Enterprise PRD and technical specification synthesizer generating structured user stories, acceptance criteria, edge cases, and API contracts
-
-- **[Alpha-Park/genpark-agent-slide-layout-auto-rebalancer-skill](https://github.com/Alpha-Park/genpark-agent-slide-layout-auto-rebalancer-skill)** ⭐ 7
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  Presentation slide layout AST rebalancer adjusting element coordinates, bounding boxes, typographic hierarchy, and preventing collision overlaps
-
-- **[Alpha-Park/genpark-agent-deep-research-fact-checker-skill](https://github.com/Alpha-Park/genpark-agent-deep-research-fact-checker-skill)** ⭐ 7
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  Multi-source research fact-checking and cross-referencing validator detecting hallucinations, corroborating claims, and scoring evidence confidence
-
-- **[alphaparkinc/genpark-personal-agent-blood-homocysteine-methylation-mthfr-skill](https://github.com/alphaparkinc/genpark-personal-agent-blood-homocysteine-methylation-mthfr-skill)** ⭐ 7
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  Plasma total homocysteine (µmol/L) cardiovascular risk stratifier, MTHFR C677T/A1298C variant kinetic indexing, and bioactive methyl-donor titration. Built for GenPark (https://www.genpark.ai).
+- **[Yaz-Myst/ZOE-Recompiled](https://github.com/Yaz-Myst/ZOE-Recompiled)** ⭐ 21
+  ![C++](https://img.shields.io/badge/-C++-pink)
+  Zone of the Enders - Static Recompilation Project for PC
 
 ### 📈 Weekly Trending
 
-- **[unclebob/ub-mode](https://github.com/unclebob/ub-mode)** ⭐ 4,813
+- **[unclebob/ub-mode](https://github.com/unclebob/ub-mode)** ⭐ 5,158
   ![None](https://img.shields.io/badge/-None-lightgrey)
   None
 
-- **[rddmwmddr/android-ad-cleaner](https://github.com/rddmwmddr/android-ad-cleaner)** ⭐ 4,788
+- **[rddmwmddr/android-ad-cleaner](https://github.com/rddmwmddr/android-ad-cleaner)** ⭐ 4,945
   ![Python](https://img.shields.io/badge/-Python-blue)
   关掉国产安卓手机系统里的广告、热搜、资讯推荐和营销推送。不 root，可还原，支持 AI 智能体一键执行。
 
-- **[interplains/Zero-Breach-Toolkit](https://github.com/interplains/Zero-Breach-Toolkit)** ⭐ 3,644
+- **[interplains/Zero-Breach-Toolkit](https://github.com/interplains/Zero-Breach-Toolkit)** ⭐ 3,738
   ![Python](https://img.shields.io/badge/-Python-blue)
   Free, open-source, offline checks for traces of known mercenary spyware. Works on Windows, macOS and Linux, Android phones and iPhone backups.
 
-- **[anhao/ai-pose-gallery-zh](https://github.com/anhao/ai-pose-gallery-zh)** ⭐ 3,304
+- **[anhao/ai-pose-gallery-zh](https://github.com/anhao/ai-pose-gallery-zh)** ⭐ 3,703
   ![HTML](https://img.shields.io/badge/-HTML-lightgrey)
   中文版 AI 姿势参考图库 · 1439 组 / 2878 张图片 / 完整汉化 · 零依赖静态画廊
 
-- **[designfuchen/word-atlas](https://github.com/designfuchen/word-atlas)** ⭐ 3,264
+- **[designfuchen/word-atlas](https://github.com/designfuchen/word-atlas)** ⭐ 3,312
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   词光 · Word Atlas — Illustrated IELTS vocabulary with 7,298 words, UK/US audio and FSRS review. Open-source app + CC BY 4.0 dataset.
 
-- **[t3dotgg/tstack](https://github.com/t3dotgg/tstack)** ⭐ 2,409
+- **[t3dotgg/tstack](https://github.com/t3dotgg/tstack)** ⭐ 2,433
   ![Python](https://img.shields.io/badge/-Python-blue)
   The agent skills I use every day. Works with Claude Code and Codex.
 
-- **[andyhuo520/digital-human-koubo](https://github.com/andyhuo520/digital-human-koubo)** ⭐ 1,490
+- **[ccch1mneyyy/dsh-Go](https://github.com/ccch1mneyyy/dsh-Go)** ⭐ 1,667
+  ![Dart](https://img.shields.io/badge/-Dart-lightgrey)
+  dsh-go — DeepSeek Harness 装进口袋：手机本机运行，也能遥控你的电脑。
+
+- **[andyhuo520/digital-human-koubo](https://github.com/andyhuo520/digital-human-koubo)** ⭐ 1,534
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   AI digital-human talking-head videos from one photo: Renoise MCP generation + 5 editing styles + 48 creator-grade packaging components. Agent skill for Claude Code / Codex / OpenClaw / WorkBuddy …
 
-- **[DenisSergeevitch/ex-ussr-kinship-research](https://github.com/DenisSergeevitch/ex-ussr-kinship-research)** ⭐ 1,272
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  Evidence-first genealogy skill for AI agents (Codex, Claude Code): church books, civil, military, deportation and repression records across the former USSR. Replies in your language.
-
 ### 📈 Monthly Trending
 
-- **[Gathin23/cleanyourtv](https://github.com/Gathin23/cleanyourtv)** ⭐ 45,617
+- **[Gathin23/cleanyourtv](https://github.com/Gathin23/cleanyourtv)** ⭐ 46,079
   ![Python](https://img.shields.io/badge/-Python-blue)
   Debloat any Android or Google TV over Wi-Fi and get an Apple TV-style home.
 
-- **[deepseek-ai/DeepInfer](https://github.com/deepseek-ai/DeepInfer)** ⭐ 24,284
+- **[deepseek-ai/DeepInfer](https://github.com/deepseek-ai/DeepInfer)** ⭐ 24,414
   ![Python](https://img.shields.io/badge/-Python-blue)
   DeepInfer: High-performance, large-scale inference framework for DeepSeek models
 
-- **[wheresryan22/anatomy](https://github.com/wheresryan22/anatomy)** ⭐ 22,680
+- **[wheresryan22/anatomy](https://github.com/wheresryan22/anatomy)** ⭐ 22,825
   ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
   An agent skill for creating detailed, interactive isometric illustrations of real-world machines and complex systems. Generates polished SVGs with optional WebGL shaders and 3D effects.
 
-- **[google-research/harness2](https://github.com/google-research/harness2)** ⭐ 21,353
+- **[google-research/harness2](https://github.com/google-research/harness2)** ⭐ 21,422
   ![Python](https://img.shields.io/badge/-Python-blue)
   None
 
-- **[openai/math](https://github.com/openai/math)** ⭐ 17,076
+- **[openai/math](https://github.com/openai/math)** ⭐ 17,093
   ![Lean](https://img.shields.io/badge/-Lean-lightgrey)
   None
 
-- **[storytold/wordcraft](https://github.com/storytold/wordcraft)** ⭐ 16,633
+- **[storytold/wordcraft](https://github.com/storytold/wordcraft)** ⭐ 16,680
   ![Rust](https://img.shields.io/badge/-Rust-brown)
   An open-source, clean-room reimplementation of Microsoft Word in pure Rust
 
-- **[Zagitta/gpu-unlock](https://github.com/Zagitta/gpu-unlock)** ⭐ 13,161
+- **[Zagitta/gpu-unlock](https://github.com/Zagitta/gpu-unlock)** ⭐ 13,312
   ![C](https://img.shields.io/badge/-C-lightgrey)
   Your GeForce runs AI at half speed. This fixes it for 20/30/40 series cards. Up to 2× FP16 / BF16 / TF32 tensor throughput
 
-- **[tangency-labs/solidcraft](https://github.com/tangency-labs/solidcraft)** ⭐ 12,096
+- **[tangency-labs/solidcraft](https://github.com/tangency-labs/solidcraft)** ⭐ 12,205
   ![Rust](https://img.shields.io/badge/-Rust-brown)
   SolidCraft: an open-source parametric 3D CAD application built in pure Rust. Desktop, web, and automation through MCP.
 
@@ -489,56 +486,56 @@ the end of April 202...
 |-------|--------|
 | Java | 🔴 Beginner |
 | Python | 🟡 Learning |
-| JavaScript | 🔴 Beginner |
-| TypeScript | 🟡 Learning |
-| Go | 🔴 Beginner |
+| JavaScript | ⚪ Planned |
+| TypeScript | 🟢 Proficient |
+| Go | 🟢 Proficient |
 
 ### Frameworks
 
 | Skill | Status |
 |-------|--------|
-| React | 🟡 Learning |
-| Spring Boot | 🔴 Beginner |
-| Django | 🟡 Learning |
-| Node.js | 🟢 Proficient |
-| Next.js | 🔴 Beginner |
+| React | ⚪ Planned |
+| Spring Boot | 🟢 Proficient |
+| Django | ⚪ Planned |
+| Node.js | ⚪ Planned |
+| Next.js | 🟢 Proficient |
 
 ### Cybersecurity
 
 | Skill | Status |
 |-------|--------|
 | Penetration Testing | ⚪ Planned |
-| Web Security | 🔴 Beginner |
-| Network Security | 🔴 Beginner |
-| OWASP | 🟢 Proficient |
+| Web Security | 🟢 Proficient |
+| Network Security | ⚪ Planned |
+| OWASP | ⚪ Planned |
 
 ### Ai Ml
 
 | Skill | Status |
 |-------|--------|
 | Machine Learning | 🔴 Beginner |
-| Deep Learning | 🟢 Proficient |
+| Deep Learning | ⚪ Planned |
 | NLP | 🟢 Proficient |
 | Computer Vision | ⚪ Planned |
-| TensorFlow | 🔴 Beginner |
+| TensorFlow | ⚪ Planned |
 | PyTorch | 🔴 Beginner |
 
 ### Devops
 
 | Skill | Status |
 |-------|--------|
-| Docker | 🔴 Beginner |
+| Docker | 🟢 Proficient |
 | Kubernetes | ⚪ Planned |
-| CI/CD | 🟢 Proficient |
-| AWS | 🟢 Proficient |
-| Azure | ⚪ Planned |
+| CI/CD | 🟡 Learning |
+| AWS | ⚪ Planned |
+| Azure | 🟢 Proficient |
 
 ### Other
 
 | Skill | Status |
 |-------|--------|
 | Blockchain | 🟢 Proficient |
-| Web3 | 🟡 Learning |
+| Web3 | 🔴 Beginner |
 | Cloud Computing | 🔴 Beginner |
 
 </details>
