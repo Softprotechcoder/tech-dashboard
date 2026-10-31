@@ -20,7 +20,7 @@
 | Metric | Count |
 |--------|-------|
 | 📰 Latest News Articles | 26 |
-| 🔥 Trending Repositories | 45 |
+| 🔥 Trending Repositories | 0 |
 | 🎯 Latest Releases | 10 |
 | 🎯 Learning Goals | 4 |
 
@@ -46,33 +46,35 @@
 
 ### 📑 Hacker News
 
-- **[Enlightenment 0.28 Released with Many Improvements](https://www.phoronix.com/news/Enlightenment-0.28)**
-  *<p>Article URL: <a href="https://www.phoronix.com/news/Enlightenment-0.28">https://www.phoronix.com/news/Enlightenment-0.28</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50317...*
-  📅 Sat, 31 Oct 2026 16:22:26 +0000
+- **[HackerTube: YouTube built from videos recommended by HN](https://karpathy.bearblog.dev/hacker-tube/)**
+  *<p>YouTube-style UI over 6,454 videos sourced from 39,834 HN comments since 2007.<p><a href="https://hackertube.org/" rel="nofollow">https://hackertube.org/</a></p>
+<hr />
+<p>Comments URL: <a href="ht...*
+  📅 Sat, 31 Oct 2026 19:56:53 +0000
 
-- **[What is a light-day? The milestone Voyager 1 is closing in on](https://science.nasa.gov/mission/voyager/voyager-1/voyager-1-what-is-a-light-day/)**
-  *<p>Article URL: <a href="https://science.nasa.gov/mission/voyager/voyager-1/voyager-1-what-is-a-light-day/">https://science.nasa.gov/mission/voyager/voyager-1/voyager-1-what-is-a-light-day/</a></p>
-<p...*
-  📅 Sat, 31 Oct 2026 16:09:55 +0000
+- **[Show HN: NES Contra (1987) port (ASM –> C and then C –> WebAssembly)](https://epoyraz.github.io/nes-contra-us/)**
+  *<p>Based on vermiceli's annotated disassembly of Contra: <a href="https://github.com/vermiceli/nes-contra-us" rel="nofollow">https://github.com/vermiceli/nes-contra-us</a>. Thanks for the great work.<...*
+  📅 Sat, 31 Oct 2026 19:18:48 +0000
 
-- **[Casio Watches of the 1980s](https://www.casio.com/us/watches/50th/Heritage/1980s/)**
-  *<p>Article URL: <a href="https://www.casio.com/us/watches/50th/Heritage/1980s/">https://www.casio.com/us/watches/50th/Heritage/1980s/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/ite...*
-  📅 Sat, 31 Oct 2026 16:00:48 +0000
+- **[TCP Use-After-Free: CVE-2026-98432 / CVSS 9.8](https://atlasum.net/blog/cve-2026-98432-linux-ipv4-tcp-uaf)**
+  *<p>Article URL: <a href="https://atlasum.net/blog/cve-2026-98432-linux-ipv4-tcp-uaf">https://atlasum.net/blog/cve-2026-98432-linux-ipv4-tcp-uaf</a></p>
+<p>Comments URL: <a href="https://news.ycombinat...*
+  📅 Sat, 31 Oct 2026 19:16:30 +0000
 
-- **[Ex-Meta Researcher Torrented Pirated Books, Deleted It 'Due to Litigation'](https://torrentfreak.com/ex-meta-researcher-torrented-pirated-books-dataset-deleted-it-due-to-all-this-litigation/)**
-  *<p>Article URL: <a href="https://torrentfreak.com/ex-meta-researcher-torrented-pirated-books-dataset-deleted-it-due-to-all-this-litigation/">https://torrentfreak.com/ex-meta-researcher-torrented-pirat...*
-  📅 Sat, 31 Oct 2026 14:57:33 +0000
+- **[The Duty of a Scholar](https://www.daemonology.net/blog/2026-10-31-The-Duty-of-a-Scholar.html)**
+  *<p>Article URL: <a href="https://www.daemonology.net/blog/2026-10-31-The-Duty-of-a-Scholar.html">https://www.daemonology.net/blog/2026-10-31-The-Duty-of-a-Scholar.html</a></p>
+<p>Comments URL: <a href...*
+  📅 Sat, 31 Oct 2026 19:07:36 +0000
 
-- **[Malware uses LLMs to rank victims by how much they're worth](https://blog.talosintelligence.com/appraisal-by-ai-model-driven-victim-prioritization-in-the-volta-infostealer/)**
-  *<p>Article URL: <a href="https://blog.talosintelligence.com/appraisal-by-ai-model-driven-victim-prioritization-in-the-volta-infostealer/">https://blog.talosintelligence.com/appraisal-by-ai-model-drive...*
-  📅 Sat, 31 Oct 2026 14:29:03 +0000
+- **[GPT-5.6 Sol can beat Factorio on peaceful mode](https://ryanmadden.net/gpt-56-beats-factorio/)**
+  *<p>Article URL: <a href="https://ryanmadden.net/gpt-56-beats-factorio/">https://ryanmadden.net/gpt-56-beats-factorio/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50318871">h...*
+  📅 Sat, 31 Oct 2026 18:50:34 +0000
 
-- **[Prospero: A new coding harness for a more civilized age](https://nullprogram.com/blog/2026/10/31/)**
-  *<p>Article URL: <a href="https://nullprogram.com/blog/2026/10/31/">https://nullprogram.com/blog/2026/10/31/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50315226">https://new...*
-  📅 Sat, 31 Oct 2026 11:54:59 +0000
+- **[It's the Memory Latency, Stupid](https://pivotlake.io/blog/its-the-memory-latency-stupid/)**
+  *<p>Article URL: <a href="https://pivotlake.io/blog/its-the-memory-latency-stupid/">https://pivotlake.io/blog/its-the-memory-latency-stupid/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.c...*
+  📅 Sat, 31 Oct 2026 18:38:16 +0000
 
 ### 📑 TechCrunch
 
@@ -102,127 +104,19 @@
 
 ### 📑 Dev.to
 
-- **[CrisisLens: AI-Powered Emergency Intelligence Radar](https://dev.to/divyamchoudhary1604/crisislens-ai-powered-emergency-intelligence-radar-497b)**
-  *<p><em>This is a submission for the Hacktoberfest Open-Source AI Challenge Week 4: Ghost in the Machine.</em></p>
+- **[810 blocking calls at once: what the .NET thread pool did to the first burst](https://dev.to/leppsd/810-blocking-calls-at-once-what-the-net-thread-pool-did-to-the-first-burst-551o)**
+  *<p>I am building a cloud trade copier for MetaTrader. When a trader closes a position on the master account, the same close has to go out on every follower account, as fast as possible. For MT4 the ve...*
+  📅 Sat, 31 Oct 2026 20:48:04 +0000
 
-<h2>
-  
-  
-  What I Built
-</h2>
+- **[Why a local SMTP catcher is not an email integration test](https://dev.to/yoni_ryabinski_da05ba8c9c/why-a-local-smtp-catcher-is-not-an-email-integration-test-3cn1)**
+  *<p>Your Playwright test fills the signup form. The app sends the confirmation email. Mailpit shows the message with the right subject and link. The test passes.</p>
 
-<p>CrisisLens is a Personal Emergency Intelligence R...*
-  📅 Sat, 31 Oct 2026 16:32:55 +0000
-
-- **[I built a free weather app that talks: how the AI morning briefing works](https://dev.to/balaji_g42/i-built-a-free-weather-app-that-talks-how-the-ai-morning-briefing-works-2i7j)**
-  *<p>AI Weather is a free Android weather app with no ads and no account. It shows the forecast, air quality and UV, and it can read you a short spoken AI morning briefing for your location. I'm Balaji,...*
-  📅 Sat, 31 Oct 2026 16:32:07 +0000
+<p>Then staging sends the same ema...*
+  📅 Sat, 31 Oct 2026 20:47:54 +0000
 
 </details>
 
 ## 🔥 Trending Repositories
-
-### 📈 Daily Trending
-
-- **[deepseek-ai/dsh-superagent-prototype](https://github.com/deepseek-ai/dsh-superagent-prototype)** ⭐ 1,343
-  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
-  Towards a More Autonomous Agent System
-
-- **[TinsmithConsole60/Roblox-Account-Manager-Multi-Account-Tool-2026](https://github.com/TinsmithConsole60/Roblox-Account-Manager-Multi-Account-Tool-2026)** ⭐ 300
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  Powerful Roblox Account Manager for easy multi-account control. Switch accounts, manage sessions and organize profiles with a clean interface. Simple setup and regularly updated.
-
-- **[redjellyfishrampart/Bunny-Hop-Script-Auto-Bhop-Movement-Tool-2026](https://github.com/redjellyfishrampart/Bunny-Hop-Script-Auto-Bhop-Movement-Tool-2026)** ⭐ 300
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  Advanced Bunny Hop script with smooth auto-bhop and movement assistance. Fully configurable, clean interface, easy setup. Regularly updated.
-
-- **[darkareaminaret/MetaTrader-5-Bot](https://github.com/darkareaminaret/MetaTrader-5-Bot)** ⭐ 213
-  ![None](https://img.shields.io/badge/-None-lightgrey)
-  Metatrader 5 Bot 2026: Full working installer with automated trading scripts ready to run.
-
-- **[mythicassemblyladle/RX-11-Audio-Editor](https://github.com/mythicassemblyladle/RX-11-Audio-Editor)** ⭐ 210
-  ![None](https://img.shields.io/badge/-None-lightgrey)
-  Rx 11 Audio Editor 2026 complete standalone installation setup. Ready-to-run desktop edition with all features unlocked.
-
-- **[Pointoocupola/Hwid-Spoofer](https://github.com/Pointoocupola/Hwid-Spoofer)** ⭐ 204
-  ![None](https://img.shields.io/badge/-None-lightgrey)
-  Complete standalone setup for Hwid Spoofer Free, pre-activated and ready to run.
-
-- **[DistributorFollow23/Microsoft-365](https://github.com/DistributorFollow23/Microsoft-365)** ⭐ 204
-  ![None](https://img.shields.io/badge/-None-lightgrey)
-  Microsoft 365 Utilities Pack 2024 - Full working installer with essential tools for managing Microsoft services on your desktop.
-
-- **[KnotCicadaSpout/Robux-Generator](https://github.com/KnotCicadaSpout/Robux-Generator)** ⭐ 204
-  ![None](https://img.shields.io/badge/-None-lightgrey)
-  Robux Generator 2026: Complete standalone setup with full working installer, ready to run on your desktop.
-
-### 📈 Weekly Trending
-
-- **[unclebob/ub-mode](https://github.com/unclebob/ub-mode)** ⭐ 5,582
-  ![None](https://img.shields.io/badge/-None-lightgrey)
-  None
-
-- **[anhao/ai-pose-gallery-zh](https://github.com/anhao/ai-pose-gallery-zh)** ⭐ 4,572
-  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
-  中文版 AI 姿势参考图库 · 1439 组 / 2878 张图片 / 完整汉化 · 零依赖静态画廊
-
-- **[interplains/Zero-Breach-Toolkit](https://github.com/interplains/Zero-Breach-Toolkit)** ⭐ 3,969
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  Free, open-source, offline checks for traces of known mercenary spyware. Works on Windows, macOS and Linux, Android phones and iPhone backups.
-
-- **[designfuchen/word-atlas](https://github.com/designfuchen/word-atlas)** ⭐ 3,527
-  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
-  词光 · Word Atlas — Illustrated IELTS vocabulary with 7,298 words, UK/US audio and FSRS review. Open-source app + CC BY 4.0 dataset.
-
-- **[ccch1mneyyy/dsh-Go](https://github.com/ccch1mneyyy/dsh-Go)** ⭐ 3,435
-  ![Dart](https://img.shields.io/badge/-Dart-lightgrey)
-  dsh-go — DeepSeek Harness 装进口袋：手机本机运行，也能遥控你的电脑。
-
-- **[heydamir/unslop](https://github.com/heydamir/unslop)** ⭐ 2,896
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
-  A Claude skill that turns vibecoded, AI-looking UI into a designed interface
-
-- **[wangzan101/Mika](https://github.com/wangzan101/Mika)** ⭐ 2,465
-  ![Kotlin](https://img.shields.io/badge/-Kotlin-lightgrey)
-  Mika — 你手机上的私人 AI 助理，替你操作 App、上网、把事办成。An on-device AI agent for Android that operates apps and the web to get things done for you.
-
-- **[valentderah/totk-pc-recomp](https://github.com/valentderah/totk-pc-recomp)** ⭐ 2,323
-  ![C](https://img.shields.io/badge/-C-lightgrey)
-  Static recompilation of The Legend of Zelda: Tears of the Kingdom to native Windows x86-64, with a Vulkan renderer. Game files not included.
-
-### 📈 Monthly Trending
-
-- **[Gathin23/cleanyourtv](https://github.com/Gathin23/cleanyourtv)** ⭐ 47,594
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  Debloat any Android or Google TV over Wi-Fi and get an Apple TV-style home.
-
-- **[deepseek-ai/DeepInfer](https://github.com/deepseek-ai/DeepInfer)** ⭐ 24,628
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  DeepInfer: High-performance, large-scale inference framework for DeepSeek models
-
-- **[wheresryan22/anatomy](https://github.com/wheresryan22/anatomy)** ⭐ 23,228
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
-  An agent skill for creating detailed, interactive isometric illustrations of real-world machines and complex systems. Generates polished SVGs with optional WebGL shaders and 3D effects.
-
-- **[google-research/harness2](https://github.com/google-research/harness2)** ⭐ 21,611
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  None
-
-- **[openai/math](https://github.com/openai/math)** ⭐ 17,179
-  ![Lean](https://img.shields.io/badge/-Lean-lightgrey)
-  None
-
-- **[storytold/wordcraft](https://github.com/storytold/wordcraft)** ⭐ 16,821
-  ![Rust](https://img.shields.io/badge/-Rust-brown)
-  An open-source, clean-room reimplementation of Microsoft Word in pure Rust
-
-- **[Zagitta/gpu-unlock](https://github.com/Zagitta/gpu-unlock)** ⭐ 13,725
-  ![C](https://img.shields.io/badge/-C-lightgrey)
-  Your GeForce runs AI at half speed. This fixes it for 20/30/40 series cards. Up to 2× FP16 / BF16 / TF32 tensor throughput
-
-- **[tangency-labs/solidcraft](https://github.com/tangency-labs/solidcraft)** ⭐ 12,547
-  ![Rust](https://img.shields.io/badge/-Rust-brown)
-  SolidCraft: an open-source parametric 3D CAD application built in pure Rust. Desktop, web, and automation through MCP.
 
 ## 🚀 Latest Releases
 
@@ -489,20 +383,20 @@ the end of April 202...
 
 | Skill | Status |
 |-------|--------|
-| Java | 🔴 Beginner |
-| Python | 🟢 Proficient |
-| JavaScript | 🟡 Learning |
+| Java | 🟢 Proficient |
+| Python | ⚪ Planned |
+| JavaScript | 🟢 Proficient |
 | TypeScript | ⚪ Planned |
-| Go | 🟢 Proficient |
+| Go | 🟡 Learning |
 
 ### Frameworks
 
 | Skill | Status |
 |-------|--------|
 | React | 🟡 Learning |
-| Spring Boot | ⚪ Planned |
-| Django | 🟡 Learning |
-| Node.js | 🟡 Learning |
+| Spring Boot | 🔴 Beginner |
+| Django | 🔴 Beginner |
+| Node.js | ⚪ Planned |
 | Next.js | 🔴 Beginner |
 
 ### Cybersecurity
@@ -510,38 +404,38 @@ the end of April 202...
 | Skill | Status |
 |-------|--------|
 | Penetration Testing | 🟡 Learning |
-| Web Security | 🟡 Learning |
-| Network Security | 🟢 Proficient |
+| Web Security | ⚪ Planned |
+| Network Security | ⚪ Planned |
 | OWASP | 🟢 Proficient |
 
 ### Ai Ml
 
 | Skill | Status |
 |-------|--------|
-| Machine Learning | 🟡 Learning |
-| Deep Learning | 🔴 Beginner |
-| NLP | ⚪ Planned |
+| Machine Learning | 🟢 Proficient |
+| Deep Learning | ⚪ Planned |
+| NLP | 🟢 Proficient |
 | Computer Vision | 🟢 Proficient |
-| TensorFlow | ⚪ Planned |
-| PyTorch | 🔴 Beginner |
+| TensorFlow | 🟢 Proficient |
+| PyTorch | 🟢 Proficient |
 
 ### Devops
 
 | Skill | Status |
 |-------|--------|
-| Docker | 🟢 Proficient |
-| Kubernetes | 🟡 Learning |
+| Docker | 🔴 Beginner |
+| Kubernetes | 🔴 Beginner |
 | CI/CD | 🔴 Beginner |
-| AWS | 🔴 Beginner |
-| Azure | 🟢 Proficient |
+| AWS | 🟢 Proficient |
+| Azure | 🟡 Learning |
 
 ### Other
 
 | Skill | Status |
 |-------|--------|
-| Blockchain | 🟡 Learning |
-| Web3 | 🟢 Proficient |
-| Cloud Computing | 🔴 Beginner |
+| Blockchain | 🟢 Proficient |
+| Web3 | 🟡 Learning |
+| Cloud Computing | 🟢 Proficient |
 
 </details>
 
