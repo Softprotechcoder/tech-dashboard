@@ -7,7 +7,7 @@
 ![AI & ML](https://img.shields.io/badge/-AI%20&%20ML-blue) ![CyberSecurity](https://img.shields.io/badge/-CyberSecurity-red) ![Full Stack Development](https://img.shields.io/badge/-Full%20Stack%20Development-green)
 
 [![Auto Update](https://img.shields.io/badge/Auto%20Update-Enabled-success)](https://github.com/yourusername/tech-dashboard/actions)
-[![Last Updated](https://img.shields.io/badge/Last%20Updated-October 31, 2026-blue)](https://github.com/yourusername/tech-dashboard)
+[![Last Updated](https://img.shields.io/badge/Last%20Updated-November 01, 2026-blue)](https://github.com/yourusername/tech-dashboard)
 
 *Automatically updated every 6 hours with the latest tech news, trending repositories, and learning resources.*
 
@@ -20,7 +20,7 @@
 | Metric | Count |
 |--------|-------|
 | 📰 Latest News Articles | 26 |
-| 🔥 Trending Repositories | 0 |
+| 🔥 Trending Repositories | 45 |
 | 🎯 Latest Releases | 10 |
 | 🎯 Learning Goals | 4 |
 
@@ -46,37 +46,51 @@
 
 ### 📑 Hacker News
 
-- **[HackerTube: YouTube built from videos recommended by HN](https://karpathy.bearblog.dev/hacker-tube/)**
-  *<p>YouTube-style UI over 6,454 videos sourced from 39,834 HN comments since 2007.<p><a href="https://hackertube.org/" rel="nofollow">https://hackertube.org/</a></p>
-<hr />
-<p>Comments URL: <a href="ht...*
-  📅 Sat, 31 Oct 2026 19:56:53 +0000
+- **[Hermantown approves controversial Google Data Center during late night meeting](https://www.mprnews.org/story/2026/10/31/hermantown-approves-controversial-google-data-center-during-late-night-meeting)**
+  *<p>Article URL: <a href="https://www.mprnews.org/story/2026/10/31/hermantown-approves-controversial-google-data-center-during-late-night-meeting">https://www.mprnews.org/story/2026/10/31/hermantown-ap...*
+  📅 Sun, 01 Nov 2026 02:15:59 +0000
 
-- **[Show HN: NES Contra (1987) port (ASM –> C and then C –> WebAssembly)](https://epoyraz.github.io/nes-contra-us/)**
-  *<p>Based on vermiceli's annotated disassembly of Contra: <a href="https://github.com/vermiceli/nes-contra-us" rel="nofollow">https://github.com/vermiceli/nes-contra-us</a>. Thanks for the great work.<...*
-  📅 Sat, 31 Oct 2026 19:18:48 +0000
+- **[Show HN: BBRouter – Ben Eater's 8-bit computer, simulated on 3D breadboards](https://bbrouter.com/bbrouter/ben-eater-sap-1)**
+  *<p>Hi HN,<p>I kept wiring Ben Eater's 8-bit computer wrong, so I built a realistic virtual breadboard editor.<p>Some of the nice features are side-by-side diff, scope, schematics auto-sync, auto-route...*
+  📅 Sun, 01 Nov 2026 00:10:30 +0000
 
-- **[TCP Use-After-Free: CVE-2026-98432 / CVSS 9.8](https://atlasum.net/blog/cve-2026-98432-linux-ipv4-tcp-uaf)**
-  *<p>Article URL: <a href="https://atlasum.net/blog/cve-2026-98432-linux-ipv4-tcp-uaf">https://atlasum.net/blog/cve-2026-98432-linux-ipv4-tcp-uaf</a></p>
-<p>Comments URL: <a href="https://news.ycombinat...*
-  📅 Sat, 31 Oct 2026 19:16:30 +0000
+- **[Constructing a Quine from Kleene's Second Recursion Theorem](https://emarzion.github.io/KSRT/)**
+  *<p>Article URL: <a href="https://emarzion.github.io/KSRT/">https://emarzion.github.io/KSRT/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50321436">https://news.ycombinator.co...*
+  📅 Sat, 31 Oct 2026 23:55:21 +0000
 
-- **[The Duty of a Scholar](https://www.daemonology.net/blog/2026-10-31-The-Duty-of-a-Scholar.html)**
-  *<p>Article URL: <a href="https://www.daemonology.net/blog/2026-10-31-The-Duty-of-a-Scholar.html">https://www.daemonology.net/blog/2026-10-31-The-Duty-of-a-Scholar.html</a></p>
-<p>Comments URL: <a href...*
-  📅 Sat, 31 Oct 2026 19:07:36 +0000
+- **[When electric cars were for women](https://spectrum.ieee.org/early-electric-vehicles)**
+  *<p>Article URL: <a href="https://spectrum.ieee.org/early-electric-vehicles">https://spectrum.ieee.org/early-electric-vehicles</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=503...*
+  📅 Sat, 31 Oct 2026 23:08:12 +0000
 
-- **[GPT-5.6 Sol can beat Factorio on peaceful mode](https://ryanmadden.net/gpt-56-beats-factorio/)**
-  *<p>Article URL: <a href="https://ryanmadden.net/gpt-56-beats-factorio/">https://ryanmadden.net/gpt-56-beats-factorio/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50318871">h...*
-  📅 Sat, 31 Oct 2026 18:50:34 +0000
+- **[Altoids Project](https://uvdn7.github.io/altoids-project/)**
+  *<p>Article URL: <a href="https://uvdn7.github.io/altoids-project/">https://uvdn7.github.io/altoids-project/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50321048">https://new...*
+  📅 Sat, 31 Oct 2026 22:54:55 +0000
 
-- **[It's the Memory Latency, Stupid](https://pivotlake.io/blog/its-the-memory-latency-stupid/)**
-  *<p>Article URL: <a href="https://pivotlake.io/blog/its-the-memory-latency-stupid/">https://pivotlake.io/blog/its-the-memory-latency-stupid/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.c...*
-  📅 Sat, 31 Oct 2026 18:38:16 +0000
+- **[Memdoor: A team of 5 Qwen3.8-27B models beats Fable 5 on LiveCodeBench Hard](https://github.com/guregodevo/memdoor/tree/main/examples/workflows/team-solve)**
+  *<p>Article URL: <a href="https://github.com/guregodevo/memdoor/tree/main/examples/workflows/team-solve">https://github.com/guregodevo/memdoor/tree/main/examples/workflows/team-solve</a></p>
+<p>Comment...*
+  📅 Sat, 31 Oct 2026 22:46:12 +0000
 
 ### 📑 TechCrunch
+
+- **[Data centers are now a midterm issue, even in Brooklyn](https://techcrunch.com/2026/10/31/data-centers-are-now-a-midterm-issue-even-in-brooklyn/)**
+  *At a Brooklyn midterm party five days before Election Day, every conversation, from a council member’s fireside chat to a debate about the Democratic Party, kept circling back to AI and data centers....*
+  📅 Sun, 01 Nov 2026 02:22:10 +0000
+
+- **[Apple CEO says the company doesn’t ‘want to ship AI for AI’s sake’](https://techcrunch.com/2026/10/31/apple-ceo-says-the-company-doesnt-want-to-ship-ai-for-ais-sake/)**
+  *Apple's new CEO defended the company's current position in the AI landscape....*
+  📅 Sat, 31 Oct 2026 21:41:00 +0000
+
+- **[4 days left: How TechCrunch Founder Summit helps you make more useful connections to scale](https://techcrunch.com/2026/10/31/4-days-left-how-techcrunch-founder-summit-helps-you-make-more-useful-connections-to-scale/)**
+  *On November 4 at Boston’s SoWa Power Station, get ready for a full day packed with meaningful networking opportunities, actionable insights, and connections that could change the trajectory of your id...*
+  📅 Sat, 31 Oct 2026 21:36:07 +0000
+
+- **[Judge allows NAACP lawsuit over xAI data center pollution to move forward](https://techcrunch.com/2026/10/31/judge-allows-naacp-lawsuit-over-xai-data-center-pollution-to-move-forward/)**
+  *An NAACP lawsuit accuses the SpaceX-owned AI company of violating the Clean Air Act....*
+  📅 Sat, 31 Oct 2026 21:17:03 +0000
 
 - **[OpenAI reportedly lowers funding target for new round](https://techcrunch.com/2026/10/31/openai-reportedly-lowers-funding-target-for-new-round/)**
   *OpenAI’s latest funding round doesn't seem to be living up to expectations....*
@@ -86,37 +100,128 @@
   *TikTok may be working to become the app that people use for most of their digital activities....*
   📅 Sat, 31 Oct 2026 15:41:57 +0000
 
-- **[I took two iPhones on vacation. The Duo won me over.](https://techcrunch.com/2026/10/31/i-took-two-iphones-on-vacation-the-duo-won-me-over/)**
-  *The iPhone Duo has its frustrations, but it’s also fun and engaging enough that I didn’t want to switch back to my Pro Max....*
-  📅 Sat, 31 Oct 2026 14:00:00 +0000
-
-- **[Pile-ins, payouts, and pacing pressure: the investors behind the VCs open up](https://techcrunch.com/2026/10/30/pile-ins-payouts-and-pacing-pressure-the-investors-behind-the-vcs-open-up/)**
-  *The money behind the money is thrilled, mostly....*
-  📅 Sat, 31 Oct 2026 04:16:50 +0000
-
-- **[Nvidia weighs playing the cosigner for Nscale’s AI data center in West Virginia](https://techcrunch.com/2026/10/30/nvidia-weighs-playing-the-cosigner-for-nscales-ai-data-center-in-west-virginia/)**
-  *When investors get nervous about AI spending, it helps to have the chipmaker that sells the chips offer to cosign the loan....*
-  📅 Sat, 31 Oct 2026 01:20:05 +0000
-
-- **[Salesforce’s M&A spree continues with a reported $375M deal for defense tech startup Rune](https://techcrunch.com/2026/10/30/salesforces-ma-spree-continues-with-a-reported-375m-deal-for-defense-tech-startup-rune/)**
-  *The AI logistics startup will bolster the CRM giant's Missionforce defense platform....*
-  📅 Fri, 30 Oct 2026 23:21:23 +0000
-
 ### 📑 Dev.to
 
-- **[810 blocking calls at once: what the .NET thread pool did to the first burst](https://dev.to/leppsd/810-blocking-calls-at-once-what-the-net-thread-pool-did-to-the-first-burst-551o)**
-  *<p>I am building a cloud trade copier for MetaTrader. When a trader closes a position on the master account, the same close has to go out on every follower account, as fast as possible. For MT4 the ve...*
-  📅 Sat, 31 Oct 2026 20:48:04 +0000
+- **[FLUX.3 Klein vs Seedream 5.5: Picking an Image Model for Text-Heavy Designs](https://dev.to/kevin7yi/flux3-klein-vs-seedream-55-picking-an-image-model-for-text-heavy-designs-11i6)**
+  *<p>If your generated images need readable text (posters, packaging, slides, UI mockups), the model choice matters more than the prompt. Here is how two 2026 releases compare.</p>
 
-- **[Why a local SMTP catcher is not an email integration test](https://dev.to/yoni_ryabinski_da05ba8c9c/why-a-local-smtp-catcher-is-not-an-email-integration-test-3cn1)**
-  *<p>Your Playwright test fills the signup form. The app sends the confirmation email. Mailpit shows the message with the right subject and link. The test passes.</p>
+<h2>
+  
+  
+  FLUX.3 ...*
+  📅 Sun, 01 Nov 2026 03:22:03 +0000
 
-<p>Then staging sends the same ema...*
-  📅 Sat, 31 Oct 2026 20:47:54 +0000
+- **[I turned all 14 of my GitHub repos into TV channels](https://dev.to/shouvik12/i-turned-all-14-of-my-github-repos-into-tv-channels-naa)**
+  *<p>I have 14 public repos. On my GitHub profile they were just names, and nobody clicks a name they don't understand.</p>
+
+<p>So I pointed my own Claude skill, <a href="https://github.com/shouvik12/li...*
+  📅 Sun, 01 Nov 2026 03:22:02 +0000
 
 </details>
 
 ## 🔥 Trending Repositories
+
+### 📈 Daily Trending
+
+- **[SPIRAME/Emudhroll](https://github.com/SPIRAME/Emudhroll)** ⭐ 14
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  unenroll
+
+- **[alphaparkinc/genpark-agentic-commerce-saas-magic-number-cac-payback-unit-economics-skill](https://github.com/alphaparkinc/genpark-agentic-commerce-saas-magic-number-cac-payback-unit-economics-skill)** ⭐ 7
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  GenPark high-grade production skill - https://www.genpark.ai | https://www.linkedin.com/company/92955550
+
+- **[Alpha-Park/genpark-agentic-commerce-warehouse-slotting-cross-dock-flow-through-skill](https://github.com/Alpha-Park/genpark-agentic-commerce-warehouse-slotting-cross-dock-flow-through-skill)** ⭐ 7
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  GenPark high-grade production skill - https://www.genpark.ai | https://www.linkedin.com/company/92955550
+
+- **[alphaparkinc/genpark-agentic-commerce-merchant-chargeback-prevention-alert-ethoca-verifi-skill](https://github.com/alphaparkinc/genpark-agentic-commerce-merchant-chargeback-prevention-alert-ethoca-verifi-skill)** ⭐ 7
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  GenPark high-grade production skill - https://www.genpark.ai | https://www.linkedin.com/company/92955550
+
+- **[Alpha-Park/genpark-personal-agent-cardiac-baroreflex-sensitivity-brs-skill](https://github.com/Alpha-Park/genpark-personal-agent-cardiac-baroreflex-sensitivity-brs-skill)** ⭐ 7
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  GenPark high-grade production skill - https://www.genpark.ai | https://www.linkedin.com/company/92955550
+
+- **[Alpha-Park/genpark-agentic-commerce-freight-density-nmfc-class-reclassification-skill](https://github.com/Alpha-Park/genpark-agentic-commerce-freight-density-nmfc-class-reclassification-skill)** ⭐ 7
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  GenPark high-grade production skill - https://www.genpark.ai | https://www.linkedin.com/company/92955550
+
+- **[Alpha-Park/genpark-agentic-commerce-b2b-trade-letter-of-credit-ucp-600-discrepancy-auditor-skill](https://github.com/Alpha-Park/genpark-agentic-commerce-b2b-trade-letter-of-credit-ucp-600-discrepancy-auditor-skill)** ⭐ 7
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  GenPark high-grade production skill - https://www.genpark.ai | https://www.linkedin.com/company/92955550
+
+- **[Alpha-Park/genpark-personal-agent-vocal-fatigue-acoustic-strain-skill](https://github.com/Alpha-Park/genpark-personal-agent-vocal-fatigue-acoustic-strain-skill)** ⭐ 7
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  Personal Agent Vocal Fatigue Acoustic Strain - Zero-dependency Titze vocal dose collision stress modeler, cumulative speaking strain auditor, and vocal cord restoration rest protocol prescriber.
+
+### 📈 Weekly Trending
+
+- **[anhao/ai-pose-gallery-zh](https://github.com/anhao/ai-pose-gallery-zh)** ⭐ 4,745
+  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
+  中文版 AI 姿势参考图库 · 1439 组 / 2878 张图片 / 完整汉化 · 零依赖静态画廊
+
+- **[heydamir/unslop](https://github.com/heydamir/unslop)** ⭐ 3,644
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
+  A Claude skill that turns vibecoded, AI-looking UI into a designed interface
+
+- **[deepseek-ai/dsh-superagent-prototype](https://github.com/deepseek-ai/dsh-superagent-prototype)** ⭐ 3,181
+  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
+  Towards a More Autonomous Agent System
+
+- **[wangzan101/Mika](https://github.com/wangzan101/Mika)** ⭐ 2,857
+  ![Kotlin](https://img.shields.io/badge/-Kotlin-lightgrey)
+  Mika — 你手机上的私人 AI 助理，替你操作 App、上网、把事办成。An on-device AI agent for Android that operates apps and the web to get things done for you.
+
+- **[valentderah/totk-pc-recomp](https://github.com/valentderah/totk-pc-recomp)** ⭐ 2,677
+  ![C](https://img.shields.io/badge/-C-lightgrey)
+  Static recompilation of The Legend of Zelda: Tears of the Kingdom to native Windows x86-64, with a Vulkan renderer. Game files not included.
+
+- **[paipiange/nvzhuang](https://github.com/paipiange/nvzhuang)** ⭐ 1,745
+  ![Go](https://img.shields.io/badge/-Go-cyan)
+  1407 张 AI 女装参考图集与虚拟试穿网站，支持中英检索、OpenAI Images / Gemini / 豆包及自定义 Base URL、API Key、模型。https://github.com/paipiange/nvzhuang
+
+- **[aschmelyun/print-my-profile-pic](https://github.com/aschmelyun/print-my-profile-pic)** ⭐ 1,650
+  ![None](https://img.shields.io/badge/-None-lightgrey)
+  Say cheese! Star this repo and your profile picture gets printed out on a receipt printer.
+
+- **[andyhuo520/digital-human-koubo](https://github.com/andyhuo520/digital-human-koubo)** ⭐ 1,595
+  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
+  AI digital-human talking-head videos from one photo: Renoise MCP generation + 5 editing styles + 48 creator-grade packaging components. Agent skill for Claude Code / Codex / OpenClaw / WorkBuddy …
+
+### 📈 Monthly Trending
+
+- **[Gathin23/cleanyourtv](https://github.com/Gathin23/cleanyourtv)** ⭐ 48,037
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  Debloat any Android or Google TV over Wi-Fi and get an Apple TV-style home.
+
+- **[deepseek-ai/DeepInfer](https://github.com/deepseek-ai/DeepInfer)** ⭐ 24,679
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  DeepInfer: High-performance, large-scale inference framework for DeepSeek models
+
+- **[wheresryan22/anatomy](https://github.com/wheresryan22/anatomy)** ⭐ 23,401
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
+  An agent skill for creating detailed, interactive isometric illustrations of real-world machines and complex systems. Generates polished SVGs with optional WebGL shaders and 3D effects.
+
+- **[google-research/harness2](https://github.com/google-research/harness2)** ⭐ 21,701
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  None
+
+- **[openai/math](https://github.com/openai/math)** ⭐ 17,203
+  ![Lean](https://img.shields.io/badge/-Lean-lightgrey)
+  None
+
+- **[storytold/wordcraft](https://github.com/storytold/wordcraft)** ⭐ 16,867
+  ![Rust](https://img.shields.io/badge/-Rust-brown)
+  An open-source, clean-room reimplementation of Microsoft Word in pure Rust
+
+- **[Zagitta/gpu-unlock](https://github.com/Zagitta/gpu-unlock)** ⭐ 13,882
+  ![C](https://img.shields.io/badge/-C-lightgrey)
+  Your GeForce runs AI at half speed. This fixes it for 20/30/40 series cards. Up to 2× FP16 / BF16 / TF32 tensor throughput
+
+- **[tangency-labs/solidcraft](https://github.com/tangency-labs/solidcraft)** ⭐ 12,660
+  ![Rust](https://img.shields.io/badge/-Rust-brown)
+  SolidCraft: an open-source parametric 3D CAD application built in pure Rust. Desktop, web, and automation through MCP.
 
 ## 🚀 Latest Releases
 
@@ -383,59 +488,59 @@ the end of April 202...
 
 | Skill | Status |
 |-------|--------|
-| Java | 🟢 Proficient |
+| Java | 🔴 Beginner |
 | Python | ⚪ Planned |
-| JavaScript | 🟢 Proficient |
-| TypeScript | ⚪ Planned |
-| Go | 🟡 Learning |
+| JavaScript | ⚪ Planned |
+| TypeScript | 🟡 Learning |
+| Go | 🔴 Beginner |
 
 ### Frameworks
 
 | Skill | Status |
 |-------|--------|
-| React | 🟡 Learning |
-| Spring Boot | 🔴 Beginner |
-| Django | 🔴 Beginner |
+| React | 🔴 Beginner |
+| Spring Boot | ⚪ Planned |
+| Django | ⚪ Planned |
 | Node.js | ⚪ Planned |
-| Next.js | 🔴 Beginner |
+| Next.js | 🟢 Proficient |
 
 ### Cybersecurity
 
 | Skill | Status |
 |-------|--------|
-| Penetration Testing | 🟡 Learning |
-| Web Security | ⚪ Planned |
-| Network Security | ⚪ Planned |
-| OWASP | 🟢 Proficient |
+| Penetration Testing | ⚪ Planned |
+| Web Security | 🟢 Proficient |
+| Network Security | 🟡 Learning |
+| OWASP | 🟡 Learning |
 
 ### Ai Ml
 
 | Skill | Status |
 |-------|--------|
-| Machine Learning | 🟢 Proficient |
-| Deep Learning | ⚪ Planned |
-| NLP | 🟢 Proficient |
-| Computer Vision | 🟢 Proficient |
-| TensorFlow | 🟢 Proficient |
-| PyTorch | 🟢 Proficient |
+| Machine Learning | 🔴 Beginner |
+| Deep Learning | 🟡 Learning |
+| NLP | ⚪ Planned |
+| Computer Vision | 🟡 Learning |
+| TensorFlow | 🔴 Beginner |
+| PyTorch | ⚪ Planned |
 
 ### Devops
 
 | Skill | Status |
 |-------|--------|
-| Docker | 🔴 Beginner |
-| Kubernetes | 🔴 Beginner |
-| CI/CD | 🔴 Beginner |
+| Docker | 🟢 Proficient |
+| Kubernetes | 🟢 Proficient |
+| CI/CD | 🟡 Learning |
 | AWS | 🟢 Proficient |
-| Azure | 🟡 Learning |
+| Azure | 🔴 Beginner |
 
 ### Other
 
 | Skill | Status |
 |-------|--------|
-| Blockchain | 🟢 Proficient |
-| Web3 | 🟡 Learning |
-| Cloud Computing | 🟢 Proficient |
+| Blockchain | ⚪ Planned |
+| Web3 | ⚪ Planned |
+| Cloud Computing | 🟡 Learning |
 
 </details>
 
@@ -453,7 +558,7 @@ This dashboard is automatically updated every 6 hours using GitHub Actions. The 
 
 <div align="center">
 
-**Last Updated:** October 31, 2026
+**Last Updated:** November 01, 2026
 
 Made with ❤️ and automated with GitHub Actions
 
