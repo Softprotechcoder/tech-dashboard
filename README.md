@@ -21,7 +21,7 @@
 |--------|-------|
 | 📰 Latest News Articles | 26 |
 | 🔥 Trending Repositories | 45 |
-| 🎯 Latest Releases | 10 |
+| 🎯 Latest Releases | 0 |
 | 🎯 Learning Goals | 4 |
 
 ## 🎯 Current Focus
@@ -46,74 +46,69 @@
 
 ### 📑 Hacker News
 
-- **[Norway makes shithouses great again](https://www.visitnorway.com/plan-your-trip/travel-tips-a-z/norwegian-scenic-routes/worlds-best-toilets/)**
-  *<p>Article URL: <a href="https://www.visitnorway.com/plan-your-trip/travel-tips-a-z/norwegian-scenic-routes/worlds-best-toilets/">https://www.visitnorway.com/plan-your-trip/travel-tips-a-z/norwegian-s...*
-  📅 Sun, 01 Nov 2026 10:47:58 +0000
+- **[John Leeson (the voice of K9) has died](https://www.doctorwhonews.net/2026/11/john_leeson_1943_2026.html)**
+  *<p>Article URL: <a href="https://www.doctorwhonews.net/2026/11/john_leeson_1943_2026.html">https://www.doctorwhonews.net/2026/11/john_leeson_1943_2026.html</a></p>
+<p>Comments URL: <a href="https://ne...*
+  📅 Sun, 01 Nov 2026 20:48:04 +0000
 
-- **[Domain hacks with unusual Unicode characters (2018)](https://xn--69f31l4t57c0mag4b613h.xn--7uh4898msjaso/🆆🆃🅵/)**
-  *<p>Article URL: <a href="https://xn--69f31l4t57c0mag4b613h.xn--7uh4898msjaso/🆆🆃🅵/">https://xn--69f31l4t57c0mag4b613h.xn--7uh4898msjaso/🆆🆃🅵/</a></p>
+- **[Nurses Sound Alarm as 'Uber for Nursing' Apps Push to Deregulate Healthcare](https://nurse.org/news/uber-for-nursing-gig-apps-report/)**
+  *<p>Article URL: <a href="https://nurse.org/news/uber-for-nursing-gig-apps-report/">https://nurse.org/news/uber-for-nursing-gig-apps-report/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.c...*
-  📅 Sun, 01 Nov 2026 10:44:20 +0000
+  📅 Sun, 01 Nov 2026 18:53:46 +0000
 
-- **[A tiny Pacific country rolls out universal basic income](https://www.economist.com/asia/2026/10/29/a-tiny-pacific-country-rolls-out-universal-basic-income)**
-  *<p>Article URL: <a href="https://www.economist.com/asia/2026/10/29/a-tiny-pacific-country-rolls-out-universal-basic-income">https://www.economist.com/asia/2026/10/29/a-tiny-pacific-country-rolls-out-u...*
-  📅 Sun, 01 Nov 2026 10:05:09 +0000
+- **[US Jobs Pickup May Keep Fed on Track to Hike Rates Again](https://www.bloomberg.com/news/articles/2026-10-31/us-jobs-pickup-may-keep-fed-on-track-to-hike-rates-again)**
+  *<p>Article URL: <a href="https://www.bloomberg.com/news/articles/2026-10-31/us-jobs-pickup-may-keep-fed-on-track-to-hike-rates-again">https://www.bloomberg.com/news/articles/2026-10-31/us-jobs-pickup-...*
+  📅 Sun, 01 Nov 2026 18:51:29 +0000
 
-- **[Pac-Man's Siren Call](https://unsung.aresluna.org/pac-mans-siren-call/)**
-  *<p>Article URL: <a href="https://unsung.aresluna.org/pac-mans-siren-call/">https://unsung.aresluna.org/pac-mans-siren-call/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50323...*
-  📅 Sun, 01 Nov 2026 06:29:49 +0000
+- **[Mathematics has changed. Let's act like it](https://terrytao.wordpress.com/2026/11/01/mathematics-has-changed-lets-act-like-it/)**
+  *<p>Article URL: <a href="https://terrytao.wordpress.com/2026/11/01/mathematics-has-changed-lets-act-like-it/">https://terrytao.wordpress.com/2026/11/01/mathematics-has-changed-lets-act-like-it/</a></p...*
+  📅 Sun, 01 Nov 2026 18:28:42 +0000
 
-- **[The AI cost of JavaScript frameworks](https://nolanlawson.com/2026/10/28/the-ai-cost-of-javascript-frameworks/)**
-  *<p>Article URL: <a href="https://nolanlawson.com/2026/10/28/the-ai-cost-of-javascript-frameworks/">https://nolanlawson.com/2026/10/28/the-ai-cost-of-javascript-frameworks/</a></p>
-<p>Comments URL: <a ...*
-  📅 Sun, 01 Nov 2026 06:06:19 +0000
+- **[Patrick Stewart taught us what good men do with power](https://www.vox.com/politics/508526/patrick-stewart-jean-luc-picard-star-trek-liberalism)**
+  *<p>Article URL: <a href="https://www.vox.com/politics/508526/patrick-stewart-jean-luc-picard-star-trek-liberalism">https://www.vox.com/politics/508526/patrick-stewart-jean-luc-picard-star-trek-liberal...*
+  📅 Sun, 01 Nov 2026 17:28:16 +0000
 
-- **[Brazilian Court Sanctions Lawyers for Prompt Injection in Court Filing](https://jetstream.security/insights/brazilian-court-sanctions-prompt-injection-filing/)**
-  *<p>Article URL: <a href="https://jetstream.security/insights/brazilian-court-sanctions-prompt-injection-filing/">https://jetstream.security/insights/brazilian-court-sanctions-prompt-injection-filing/<...*
-  📅 Sun, 01 Nov 2026 02:19:53 +0000
+- **[Frontier Airlines Likely Breached](https://www.reddit.com/r/frontierairlines/comments/1xl20e8/psa_email_scam/)**
+  *<p>Article URL: <a href="https://www.reddit.com/r/frontierairlines/comments/1xl20e8/psa_email_scam/">https://www.reddit.com/r/frontierairlines/comments/1xl20e8/psa_email_scam/</a></p>
+<p>Comments URL:...*
+  📅 Sun, 01 Nov 2026 16:46:33 +0000
 
 ### 📑 TechCrunch
+
+- **[AI can make tech CEOs’ lives easier. What about everyone else?](https://techcrunch.com/2026/11/01/ai-can-make-tech-ceos-lives-easier-what-about-everyone-else/)**
+  *On Equity, we discuss why tech CEO statements can seem so tone deaf....*
+  📅 Sun, 01 Nov 2026 20:57:58 +0000
+
+- **[TechCrunch Mobility: A new, bigger AV boom is here](https://techcrunch.com/2026/11/01/techcrunch-mobility-a-new-bigger-av-boom-is-here/)**
+  *Welcome back to TechCrunch Mobility, your hub for the future of transportation and now, more than ever, the role AI is playing in it....*
+  📅 Sun, 01 Nov 2026 17:04:00 +0000
+
+- **[Binance resumes withdrawals following $6.3 billion breach](https://techcrunch.com/2026/11/01/binance-resumes-withdrawals-following-6-3-billion-breach/)**
+  *The cryptocurrency exchange said it's now covered 95% of the stolen assets....*
+  📅 Sun, 01 Nov 2026 16:20:10 +0000
+
+- **[Pixel 11 Pro Fold: Sturdy rectangle in a wide wide world](https://techcrunch.com/2026/11/01/pixel-11-pro-fold-sturdy-rectengale-in-a-wide-wide-world/)**
+  *Google made a sturdy phone, but there is increasing competition in the foldable world....*
+  📅 Sun, 01 Nov 2026 15:00:00 +0000
+
+- **[Here’s what ‘renoa’ — the first new fiber in 25 years — feels like](https://techcrunch.com/2026/11/01/heres-what-renoa-the-first-new-fiber-in-25-years-feels-like/)**
+  *Startup Everbloom's new material, renoa, is the first new fiber in 25 years, and it feels very familiar....*
+  📅 Sun, 01 Nov 2026 14:00:00 +0000
 
 - **[Data centers are now a midterm issue, even in Brooklyn](https://techcrunch.com/2026/10/31/data-centers-are-now-a-midterm-issue-even-in-brooklyn/)**
   *At a Brooklyn midterm party five days before Election Day, every conversation, from a council member’s fireside chat to a debate about the Democratic Party, kept circling back to AI and data centers....*
   📅 Sun, 01 Nov 2026 02:22:10 +0000
 
-- **[Apple CEO says the company doesn’t ‘want to ship AI for AI’s sake’](https://techcrunch.com/2026/10/31/apple-ceo-says-the-company-doesnt-want-to-ship-ai-for-ais-sake/)**
-  *Apple's new CEO defended the company's current position in the AI landscape....*
-  📅 Sat, 31 Oct 2026 21:41:00 +0000
-
-- **[4 days left: How TechCrunch Founder Summit helps you make more useful connections to scale](https://techcrunch.com/2026/10/31/4-days-left-how-techcrunch-founder-summit-helps-you-make-more-useful-connections-to-scale/)**
-  *On November 4 at Boston’s SoWa Power Station, get ready for a full day packed with meaningful networking opportunities, actionable insights, and connections that could change the trajectory of your id...*
-  📅 Sat, 31 Oct 2026 21:36:07 +0000
-
-- **[Judge allows NAACP lawsuit over xAI data center pollution to move forward](https://techcrunch.com/2026/10/31/judge-allows-naacp-lawsuit-over-xai-data-center-pollution-to-move-forward/)**
-  *An NAACP lawsuit accuses the SpaceX-owned AI company of violating the Clean Air Act....*
-  📅 Sat, 31 Oct 2026 21:17:03 +0000
-
-- **[OpenAI reportedly lowers funding target for new round](https://techcrunch.com/2026/10/31/openai-reportedly-lowers-funding-target-for-new-round/)**
-  *OpenAI’s latest funding round doesn't seem to be living up to expectations....*
-  📅 Sat, 31 Oct 2026 16:12:55 +0000
-
-- **[From restaurant guides to payments, here’s how TikTok is building a super app](https://techcrunch.com/2026/10/31/tiktoks-road-to-becoming-a-super-app/)**
-  *TikTok may be working to become the app that people use for most of their digital activities....*
-  📅 Sat, 31 Oct 2026 15:41:57 +0000
-
 ### 📑 Dev.to
 
-- **[Contact Form to CRM: A Failure Proof Brief for Developers](https://dev.to/pixel2techhq/contact-form-to-crm-a-failure-proof-brief-for-developers-30dk)**
-  *<p>Connecting a form to a CRM is easy to demo and easy to get wrong in production. The demo covers the happy path. Production covers double submissions, CRM outages, unknown routing values, interrupte...*
-  📅 Sun, 01 Nov 2026 12:20:59 +0000
+- **[Tagging Manufacturing Data on AWS: From PLC Tags to IoT SiteWise Asset Models](https://dev.to/scott_peterson/tagging-manufacturing-data-on-aws-from-plc-tags-to-iot-sitewise-asset-models-53)**
+  *<p>Every plant has a tag named something like <code>N7_42_TT01</code>. Somebody knew what it meant a decade or more ago. Today it's one of 40,000 tags on an OPC UA server, and your data team is trying...*
+  📅 Sun, 01 Nov 2026 21:23:40 +0000
 
-- **[Your AI Agent Doesn't Belong Inside an HTTP Request](https://dev.to/kristinz/your-ai-agent-doesnt-belong-inside-an-http-request-399b)**
-  *<p>A user sends a message to your AI application.</p>
-
-<p>Your server receives:<br />
-</p>
-
-<div class="highlight js-code-highlight">
-<pre class="highlight http"><code><span class="err">POST /api/chat...*
-  📅 Sun, 01 Nov 2026 12:20:56 +0000
+- **[One new site got 7,000+ impressions in a week; another got zero. What I'm learning about Google indexing (from an aerospace engineer)](https://dev.to/christopher_yurg_1e5aa92f/one-new-site-got-7000-impressions-in-a-week-another-got-zero-what-im-learning-about-google-178k)**
+  *<p>Hello Everyone,<br />
+I'm an aerospace engineering graduate, and I got fascinated by something that has nothing to do with rockets: how Google crawls the web to build its index. A huge database tha...*
+  📅 Sun, 01 Nov 2026 21:22:19 +0000
 
 </details>
 
@@ -121,103 +116,103 @@
 
 ### 📈 Daily Trending
 
-- **[Speedzyaminaret/UnlockTool](https://github.com/Speedzyaminaret/UnlockTool)** ⭐ 207
+- **[CheetahEstimate/KMS-Pico](https://github.com/CheetahEstimate/KMS-Pico)** ⭐ 401
+  ![None](https://img.shields.io/badge/-None-lightgrey)
+  Kms Pico Free 2026 - Complete standalone setup with full working installer, ready to run on your desktop.
+
+- **[Speedzyaminaret/UnlockTool](https://github.com/Speedzyaminaret/UnlockTool)** ⭐ 308
   ![None](https://img.shields.io/badge/-None-lightgrey)
   Unlocktool 2026: Full working installer for professional desktop configuration utility, ready to run.
 
-- **[ConsciousnessVision/Touch-Copy](https://github.com/ConsciousnessVision/Touch-Copy)** ⭐ 201
-  ![None](https://img.shields.io/badge/-None-lightgrey)
-  Touch Copy 2026: Full working installer with enhanced copy-paste functionality and improved user interface.
+- **[caru-ini/stack-diagram](https://github.com/caru-ini/stack-diagram)** ⭐ 306
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  Agent skill: describe your stack in a sentence, get an architecture diagram with official logos
 
-- **[RouteMonarch/FRP-Unlock-Tool](https://github.com/RouteMonarch/FRP-Unlock-Tool)** ⭐ 200
+- **[RouteMonarch/FRP-Unlock-Tool](https://github.com/RouteMonarch/FRP-Unlock-Tool)** ⭐ 300
   ![None](https://img.shields.io/badge/-None-lightgrey)
   Complete standalone setup for Frp Unlock Tool 2026. Pre-activated desktop edition ready to run with all features enabled.
 
-- **[armslocksmithamplify/PassFab-Unlocker](https://github.com/armslocksmithamplify/PassFab-Unlocker)** ⭐ 200
+- **[armslocksmithamplify/PassFab-Unlocker](https://github.com/armslocksmithamplify/PassFab-Unlocker)** ⭐ 300
   ![None](https://img.shields.io/badge/-None-lightgrey)
   Passfab Unlocker 2026 - Full working installer, ready-to-run desktop utility for password recovery and management.
 
-- **[brighttortoiseday/Foneazy-Mobile](https://github.com/brighttortoiseday/Foneazy-Mobile)** ⭐ 200
+- **[brighttortoiseday/Foneazy-Mobile](https://github.com/brighttortoiseday/Foneazy-Mobile)** ⭐ 300
   ![None](https://img.shields.io/badge/-None-lightgrey)
   Pre-activated desktop edition of Foneazy Mobile 2026. Complete standalone setup ready to run.
 
-- **[innershapepergola/IFunBox](https://github.com/innershapepergola/IFunBox)** ⭐ 200
+- **[innershapepergola/IFunBox](https://github.com/innershapepergola/IFunBox)** ⭐ 300
   ![None](https://img.shields.io/badge/-None-lightgrey)
   Complete standalone setup for Ifunbox 2026. Ready-to-run installation with all features unlocked.
 
-- **[MetropolisMist/UnlockGo](https://github.com/MetropolisMist/UnlockGo)** ⭐ 200
-  ![None](https://img.shields.io/badge/-None-lightgrey)
-  Unlockgo 2026 - Pre-activated desktop edition with full working installer, ready to run.
-
-- **[KindPurify64/FonePaw-Unlocker](https://github.com/KindPurify64/FonePaw-Unlocker)** ⭐ 200
-  ![None](https://img.shields.io/badge/-None-lightgrey)
-  Complete standalone setup for Fonepaw Unlocker 2026. Full working installer with all features pre-activated, ready to run.
+- **[dankumarlab2090u1/minecraft-hack-menu-2026](https://github.com/dankumarlab2090u1/minecraft-hack-menu-2026)** ⭐ 300
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  Minecraft Hack Menu 2026 — Powerful utility mod for 1.21.4 Fabric. KillAura, ESP, XRay, Flight, Scaffold, Crystal Aura and 150+ modules. Easy install, working November 2026.
 
 ### 📈 Weekly Trending
 
-- **[deepseek-ai/dsh-superagent-prototype](https://github.com/deepseek-ai/dsh-superagent-prototype)** ⭐ 5,269
+- **[deepseek-ai/dsh-superagent-prototype](https://github.com/deepseek-ai/dsh-superagent-prototype)** ⭐ 6,949
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   Towards a More Autonomous Agent System
 
-- **[anhao/ai-pose-gallery-zh](https://github.com/anhao/ai-pose-gallery-zh)** ⭐ 4,998
+- **[anhao/ai-pose-gallery-zh](https://github.com/anhao/ai-pose-gallery-zh)** ⭐ 5,122
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   中文版 AI 姿势参考图库 · 1439 组 / 2878 张图片 / 完整汉化 · 零依赖静态画廊
 
-- **[heydamir/unslop](https://github.com/heydamir/unslop)** ⭐ 4,157
+- **[heydamir/unslop](https://github.com/heydamir/unslop)** ⭐ 4,746
   ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
   A Claude skill that turns vibecoded, AI-looking UI into a designed interface
 
-- **[wangzan101/Mika](https://github.com/wangzan101/Mika)** ⭐ 3,333
+- **[wangzan101/Mika](https://github.com/wangzan101/Mika)** ⭐ 3,761
   ![Kotlin](https://img.shields.io/badge/-Kotlin-lightgrey)
   An on-device AI agent for Android that operates apps and the web to get things done for you.
 
-- **[valentderah/totk-pc-recomp](https://github.com/valentderah/totk-pc-recomp)** ⭐ 2,881
+- **[valentderah/totk-pc-recomp](https://github.com/valentderah/totk-pc-recomp)** ⭐ 3,134
   ![C](https://img.shields.io/badge/-C-lightgrey)
   Static recompilation of The Legend of Zelda: Tears of the Kingdom to native Windows x86-64, with a Vulkan renderer. Game files not included.
 
-- **[patch-gg/pixelfx](https://github.com/patch-gg/pixelfx)** ⭐ 2,010
+- **[patch-gg/pixelfx](https://github.com/patch-gg/pixelfx)** ⭐ 2,488
   ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
   244 pixel art effects, every one a small piece of code. Plus a Claude Code skill to make your own.
 
-- **[paipiange/nvzhuang](https://github.com/paipiange/nvzhuang)** ⭐ 1,829
+- **[Djihads80/Eglantine](https://github.com/Djihads80/Eglantine)** ⭐ 1,912
+  ![C++](https://img.shields.io/badge/-C++-pink)
+  VERY experimental Nintendo Switch 2 emulator
+
+- **[paipiange/nvzhuang](https://github.com/paipiange/nvzhuang)** ⭐ 1,861
   ![Go](https://img.shields.io/badge/-Go-cyan)
   1407 张 AI 女装参考图集与虚拟试穿网站，支持中英检索、OpenAI Images / Gemini / 豆包及自定义 Base URL、API Key、模型。https://github.com/paipiange/nvzhuang
 
-- **[aschmelyun/print-my-profile-pic](https://github.com/aschmelyun/print-my-profile-pic)** ⭐ 1,678
-  ![None](https://img.shields.io/badge/-None-lightgrey)
-  Say cheese! Star this repo and your profile picture gets printed out on a receipt printer.
-
 ### 📈 Monthly Trending
 
-- **[Gathin23/cleanyourtv](https://github.com/Gathin23/cleanyourtv)** ⭐ 48,434
+- **[Gathin23/cleanyourtv](https://github.com/Gathin23/cleanyourtv)** ⭐ 49,056
   ![Python](https://img.shields.io/badge/-Python-blue)
   Debloat any Android or Google TV over Wi-Fi and get an Apple TV-style home.
 
-- **[deepseek-ai/DeepInfer](https://github.com/deepseek-ai/DeepInfer)** ⭐ 24,753
+- **[deepseek-ai/DeepInfer](https://github.com/deepseek-ai/DeepInfer)** ⭐ 24,806
   ![Python](https://img.shields.io/badge/-Python-blue)
   DeepInfer: High-performance, large-scale inference framework for DeepSeek models
 
-- **[wheresryan22/anatomy](https://github.com/wheresryan22/anatomy)** ⭐ 23,568
+- **[wheresryan22/anatomy](https://github.com/wheresryan22/anatomy)** ⭐ 23,741
   ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
   An agent skill for creating detailed, interactive isometric illustrations of real-world machines and complex systems. Generates polished SVGs with optional WebGL shaders and 3D effects.
 
-- **[google-research/harness2](https://github.com/google-research/harness2)** ⭐ 21,784
+- **[google-research/harness2](https://github.com/google-research/harness2)** ⭐ 21,870
   ![Python](https://img.shields.io/badge/-Python-blue)
   None
 
-- **[openai/math](https://github.com/openai/math)** ⭐ 17,225
+- **[openai/math](https://github.com/openai/math)** ⭐ 17,242
   ![Lean](https://img.shields.io/badge/-Lean-lightgrey)
   None
 
-- **[storytold/wordcraft](https://github.com/storytold/wordcraft)** ⭐ 16,902
+- **[storytold/wordcraft](https://github.com/storytold/wordcraft)** ⭐ 16,942
   ![Rust](https://img.shields.io/badge/-Rust-brown)
   An open-source, clean-room reimplementation of Microsoft Word in pure Rust
 
-- **[Zagitta/gpu-unlock](https://github.com/Zagitta/gpu-unlock)** ⭐ 13,987
+- **[Zagitta/gpu-unlock](https://github.com/Zagitta/gpu-unlock)** ⭐ 14,123
   ![C](https://img.shields.io/badge/-C-lightgrey)
   Your GeForce runs AI at half speed. This fixes it for 20/30/40 series cards. Up to 2× FP16 / BF16 / TF32 tensor throughput
 
-- **[tangency-labs/solidcraft](https://github.com/tangency-labs/solidcraft)** ⭐ 12,739
+- **[tangency-labs/solidcraft](https://github.com/tangency-labs/solidcraft)** ⭐ 12,870
   ![Rust](https://img.shields.io/badge/-Rust-brown)
   SolidCraft: an open-source parametric 3D CAD application built in pure Rust. Desktop, web, and automation through MCP.
 
@@ -225,141 +220,6 @@
 
 <details>
 <summary>Click to expand latest releases</summary>
-
-### 📦 microsoft/vscode
-
-**[1.144.0](https://github.com/microsoft/vscode/releases/tag/1.144.0)** `1.144.0`
-
-📅 Released: October 28, 2026
-
-https://code.visualstudio.com/updates/v1_144...
-
----
-
-### 📦 facebook/react
-
-**[19.3.1 (October 14th, 2026)](https://github.com/react/react/releases/tag/v19.3.1)** `v19.3.1`
-
-📅 Released: October 14, 2026
-
-## React Server Components
-
-- Improve transport protocol ([#37845](https://github.com/facebook/react/pull/37845) by @unstubbable and @eps1lon)...
-
----
-
-### 📦 angular/angular
-
-**[22.2.4](https://github.com/angular/angular/releases/tag/v22.2.4)** `v22.2.4`
-
-📅 Released: October 29, 2026
-
-### compiler
-| Commit | Description |
-| -- | -- |
-| [![fix - bc600a2fc2](https://img.shields.io/badge/bc600a2fc2-fix-green)](https://github.com/angular/angular/commit/bc600a2fc259d14d8a3f6055fc4c42639...
-
----
-
-### 📦 vuejs/vue
-
-**[v2.7.16 "Swan Song"](https://github.com/vuejs/vue/releases/tag/v2.7.16)** `v2.7.16`
-
-📅 Released: December 24, 2023
-
-**This is the final release for Vue 2.**
-
-Vue 2 will reach End of Life on December 31st, 2023. For more details, please read this [blog post](https://blog.vuejs.org/posts/vue-2-eol).
-
-Please refer...
-
----
-
-### 📦 tensorflow/tensorflow
-
-**[TensorFlow 2.21.0](https://github.com/tensorflow/tensorflow/releases/tag/v2.21.0)** `v2.21.0`
-
-📅 Released: March 06, 2026
-
-# Release 2.21.0
-
-## TensorFlow
-
-### Breaking Changes
-
-* Support for Python 3.9 has been removed starting with TF 2.21.
-* The TensorBoard (TB) dependency has been removed starting with TF 2.21....
-
----
-
-### 📦 pytorch/pytorch
-
-**[PyTorch 2.15.0 Release](https://github.com/pytorch/pytorch/releases/tag/v2.15.0)** `v2.15.0`
-
-📅 Released: October 28, 2026
-
-# PyTorch 2.15.0 Release Notes
-
-- [Highlights](#highlights)
-- [Backwards Incompatible Changes](#backwards-incompatible-changes)
-- [Deprecations](#deprecations)
-- [New Features](#new-features)
-- [Impro...
-
----
-
-### 📦 kubernetes/kubernetes
-
-**[v1.37.2](https://github.com/kubernetes/kubernetes/releases/tag/v1.37.2)** `v1.37.2`
-
-📅 Released: October 28, 2026
-
-
-See [kubernetes-announce@](https://groups.google.com/forum/#!forum/kubernetes-announce). Additional binary downloads are linked in the [CHANGELOG](https://github.com/kubernetes/kubernetes/blob/master...
-
----
-
-### 📦 docker/compose
-
-**[v5.6.1](https://github.com/docker/compose/releases/tag/v5.6.1)** `v5.6.1`
-
-📅 Released: October 21, 2026
-
-update to go1.26.10
-These releases include 1 security fix following the security policy:
-
-- crypto/x509: mitigation for security concerns with a specific Certificate Authority
-
-  We're blocking t...
-
----
-
-### 📦 nodejs/node
-
-**[2026-10-28, Version 26.13.0 'Lithium' (LTS), @richardlau](https://github.com/nodejs/node/releases/tag/v26.13.0)** `v26.13.0`
-
-📅 Released: October 28, 2026
-
-### Notable Changes
-
-This release marks the transition of Node.js 26.x into Long Term Support (LTS)
-with the codename 'Lithium'. It will continue to receive updates through to
-the end of April 202...
-
----
-
-### 📦 rust-lang/rust
-
-**[Rust 1.99.1](https://github.com/rust-lang/rust/releases/tag/1.99.1)** `1.99.1`
-
-📅 Released: October 16, 2026
-
-<a id="1.99.1"></a>
-
-- [library: fix missing symbol `wcslen` on UEFI and embedded targets](https://github.com/rust-lang/rust/issues/163614)
-- [rustc: fix miscompilation of FFI `bool` return values on ...
-
----
 
 </details>
 
@@ -486,59 +346,59 @@ the end of April 202...
 
 | Skill | Status |
 |-------|--------|
-| Java | 🟡 Learning |
-| Python | ⚪ Planned |
-| JavaScript | 🟡 Learning |
-| TypeScript | 🔴 Beginner |
+| Java | 🔴 Beginner |
+| Python | 🔴 Beginner |
+| JavaScript | ⚪ Planned |
+| TypeScript | 🟡 Learning |
 | Go | 🟢 Proficient |
 
 ### Frameworks
 
 | Skill | Status |
 |-------|--------|
-| React | ⚪ Planned |
-| Spring Boot | ⚪ Planned |
-| Django | 🟢 Proficient |
-| Node.js | 🟢 Proficient |
+| React | 🟢 Proficient |
+| Spring Boot | 🟡 Learning |
+| Django | 🟡 Learning |
+| Node.js | 🔴 Beginner |
 | Next.js | 🟢 Proficient |
 
 ### Cybersecurity
 
 | Skill | Status |
 |-------|--------|
-| Penetration Testing | 🟡 Learning |
-| Web Security | ⚪ Planned |
-| Network Security | ⚪ Planned |
-| OWASP | ⚪ Planned |
+| Penetration Testing | 🔴 Beginner |
+| Web Security | 🟢 Proficient |
+| Network Security | 🔴 Beginner |
+| OWASP | 🟡 Learning |
 
 ### Ai Ml
 
 | Skill | Status |
 |-------|--------|
 | Machine Learning | 🟢 Proficient |
-| Deep Learning | 🟡 Learning |
+| Deep Learning | 🔴 Beginner |
 | NLP | 🔴 Beginner |
-| Computer Vision | 🔴 Beginner |
-| TensorFlow | ⚪ Planned |
-| PyTorch | 🔴 Beginner |
+| Computer Vision | 🟢 Proficient |
+| TensorFlow | 🟡 Learning |
+| PyTorch | 🟢 Proficient |
 
 ### Devops
 
 | Skill | Status |
 |-------|--------|
 | Docker | 🟢 Proficient |
-| Kubernetes | 🔴 Beginner |
-| CI/CD | 🟢 Proficient |
-| AWS | 🟢 Proficient |
-| Azure | 🟡 Learning |
+| Kubernetes | 🟡 Learning |
+| CI/CD | ⚪ Planned |
+| AWS | 🟡 Learning |
+| Azure | 🔴 Beginner |
 
 ### Other
 
 | Skill | Status |
 |-------|--------|
-| Blockchain | ⚪ Planned |
-| Web3 | 🔴 Beginner |
-| Cloud Computing | 🔴 Beginner |
+| Blockchain | 🟢 Proficient |
+| Web3 | ⚪ Planned |
+| Cloud Computing | 🟡 Learning |
 
 </details>
 
