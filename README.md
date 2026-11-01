@@ -46,33 +46,32 @@
 
 ### 📑 Hacker News
 
-- **[Hermantown approves controversial Google Data Center during late night meeting](https://www.mprnews.org/story/2026/10/31/hermantown-approves-controversial-google-data-center-during-late-night-meeting)**
-  *<p>Article URL: <a href="https://www.mprnews.org/story/2026/10/31/hermantown-approves-controversial-google-data-center-during-late-night-meeting">https://www.mprnews.org/story/2026/10/31/hermantown-ap...*
-  📅 Sun, 01 Nov 2026 02:15:59 +0000
+- **[Norway makes shithouses great again](https://www.visitnorway.com/plan-your-trip/travel-tips-a-z/norwegian-scenic-routes/worlds-best-toilets/)**
+  *<p>Article URL: <a href="https://www.visitnorway.com/plan-your-trip/travel-tips-a-z/norwegian-scenic-routes/worlds-best-toilets/">https://www.visitnorway.com/plan-your-trip/travel-tips-a-z/norwegian-s...*
+  📅 Sun, 01 Nov 2026 10:47:58 +0000
 
-- **[Show HN: BBRouter – Ben Eater's 8-bit computer, simulated on 3D breadboards](https://bbrouter.com/bbrouter/ben-eater-sap-1)**
-  *<p>Hi HN,<p>I kept wiring Ben Eater's 8-bit computer wrong, so I built a realistic virtual breadboard editor.<p>Some of the nice features are side-by-side diff, scope, schematics auto-sync, auto-route...*
-  📅 Sun, 01 Nov 2026 00:10:30 +0000
+- **[Domain hacks with unusual Unicode characters (2018)](https://xn--69f31l4t57c0mag4b613h.xn--7uh4898msjaso/🆆🆃🅵/)**
+  *<p>Article URL: <a href="https://xn--69f31l4t57c0mag4b613h.xn--7uh4898msjaso/🆆🆃🅵/">https://xn--69f31l4t57c0mag4b613h.xn--7uh4898msjaso/🆆🆃🅵/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.c...*
+  📅 Sun, 01 Nov 2026 10:44:20 +0000
 
-- **[Constructing a Quine from Kleene's Second Recursion Theorem](https://emarzion.github.io/KSRT/)**
-  *<p>Article URL: <a href="https://emarzion.github.io/KSRT/">https://emarzion.github.io/KSRT/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50321436">https://news.ycombinator.co...*
-  📅 Sat, 31 Oct 2026 23:55:21 +0000
+- **[A tiny Pacific country rolls out universal basic income](https://www.economist.com/asia/2026/10/29/a-tiny-pacific-country-rolls-out-universal-basic-income)**
+  *<p>Article URL: <a href="https://www.economist.com/asia/2026/10/29/a-tiny-pacific-country-rolls-out-universal-basic-income">https://www.economist.com/asia/2026/10/29/a-tiny-pacific-country-rolls-out-u...*
+  📅 Sun, 01 Nov 2026 10:05:09 +0000
 
-- **[When electric cars were for women](https://spectrum.ieee.org/early-electric-vehicles)**
-  *<p>Article URL: <a href="https://spectrum.ieee.org/early-electric-vehicles">https://spectrum.ieee.org/early-electric-vehicles</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=503...*
-  📅 Sat, 31 Oct 2026 23:08:12 +0000
+- **[Pac-Man's Siren Call](https://unsung.aresluna.org/pac-mans-siren-call/)**
+  *<p>Article URL: <a href="https://unsung.aresluna.org/pac-mans-siren-call/">https://unsung.aresluna.org/pac-mans-siren-call/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50323...*
+  📅 Sun, 01 Nov 2026 06:29:49 +0000
 
-- **[Altoids Project](https://uvdn7.github.io/altoids-project/)**
-  *<p>Article URL: <a href="https://uvdn7.github.io/altoids-project/">https://uvdn7.github.io/altoids-project/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50321048">https://new...*
-  📅 Sat, 31 Oct 2026 22:54:55 +0000
+- **[The AI cost of JavaScript frameworks](https://nolanlawson.com/2026/10/28/the-ai-cost-of-javascript-frameworks/)**
+  *<p>Article URL: <a href="https://nolanlawson.com/2026/10/28/the-ai-cost-of-javascript-frameworks/">https://nolanlawson.com/2026/10/28/the-ai-cost-of-javascript-frameworks/</a></p>
+<p>Comments URL: <a ...*
+  📅 Sun, 01 Nov 2026 06:06:19 +0000
 
-- **[Memdoor: A team of 5 Qwen3.8-27B models beats Fable 5 on LiveCodeBench Hard](https://github.com/guregodevo/memdoor/tree/main/examples/workflows/team-solve)**
-  *<p>Article URL: <a href="https://github.com/guregodevo/memdoor/tree/main/examples/workflows/team-solve">https://github.com/guregodevo/memdoor/tree/main/examples/workflows/team-solve</a></p>
-<p>Comment...*
-  📅 Sat, 31 Oct 2026 22:46:12 +0000
+- **[Brazilian Court Sanctions Lawyers for Prompt Injection in Court Filing](https://jetstream.security/insights/brazilian-court-sanctions-prompt-injection-filing/)**
+  *<p>Article URL: <a href="https://jetstream.security/insights/brazilian-court-sanctions-prompt-injection-filing/">https://jetstream.security/insights/brazilian-court-sanctions-prompt-injection-filing/<...*
+  📅 Sun, 01 Nov 2026 02:19:53 +0000
 
 ### 📑 TechCrunch
 
@@ -102,20 +101,19 @@
 
 ### 📑 Dev.to
 
-- **[FLUX.3 Klein vs Seedream 5.5: Picking an Image Model for Text-Heavy Designs](https://dev.to/kevin7yi/flux3-klein-vs-seedream-55-picking-an-image-model-for-text-heavy-designs-11i6)**
-  *<p>If your generated images need readable text (posters, packaging, slides, UI mockups), the model choice matters more than the prompt. Here is how two 2026 releases compare.</p>
+- **[Contact Form to CRM: A Failure Proof Brief for Developers](https://dev.to/pixel2techhq/contact-form-to-crm-a-failure-proof-brief-for-developers-30dk)**
+  *<p>Connecting a form to a CRM is easy to demo and easy to get wrong in production. The demo covers the happy path. Production covers double submissions, CRM outages, unknown routing values, interrupte...*
+  📅 Sun, 01 Nov 2026 12:20:59 +0000
 
-<h2>
-  
-  
-  FLUX.3 ...*
-  📅 Sun, 01 Nov 2026 03:22:03 +0000
+- **[Your AI Agent Doesn't Belong Inside an HTTP Request](https://dev.to/kristinz/your-ai-agent-doesnt-belong-inside-an-http-request-399b)**
+  *<p>A user sends a message to your AI application.</p>
 
-- **[I turned all 14 of my GitHub repos into TV channels](https://dev.to/shouvik12/i-turned-all-14-of-my-github-repos-into-tv-channels-naa)**
-  *<p>I have 14 public repos. On my GitHub profile they were just names, and nobody clicks a name they don't understand.</p>
+<p>Your server receives:<br />
+</p>
 
-<p>So I pointed my own Claude skill, <a href="https://github.com/shouvik12/li...*
-  📅 Sun, 01 Nov 2026 03:22:02 +0000
+<div class="highlight js-code-highlight">
+<pre class="highlight http"><code><span class="err">POST /api/chat...*
+  📅 Sun, 01 Nov 2026 12:20:56 +0000
 
 </details>
 
@@ -123,103 +121,103 @@
 
 ### 📈 Daily Trending
 
-- **[SPIRAME/Emudhroll](https://github.com/SPIRAME/Emudhroll)** ⭐ 14
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  unenroll
+- **[Speedzyaminaret/UnlockTool](https://github.com/Speedzyaminaret/UnlockTool)** ⭐ 207
+  ![None](https://img.shields.io/badge/-None-lightgrey)
+  Unlocktool 2026: Full working installer for professional desktop configuration utility, ready to run.
 
-- **[alphaparkinc/genpark-agentic-commerce-saas-magic-number-cac-payback-unit-economics-skill](https://github.com/alphaparkinc/genpark-agentic-commerce-saas-magic-number-cac-payback-unit-economics-skill)** ⭐ 7
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  GenPark high-grade production skill - https://www.genpark.ai | https://www.linkedin.com/company/92955550
+- **[ConsciousnessVision/Touch-Copy](https://github.com/ConsciousnessVision/Touch-Copy)** ⭐ 201
+  ![None](https://img.shields.io/badge/-None-lightgrey)
+  Touch Copy 2026: Full working installer with enhanced copy-paste functionality and improved user interface.
 
-- **[Alpha-Park/genpark-agentic-commerce-warehouse-slotting-cross-dock-flow-through-skill](https://github.com/Alpha-Park/genpark-agentic-commerce-warehouse-slotting-cross-dock-flow-through-skill)** ⭐ 7
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  GenPark high-grade production skill - https://www.genpark.ai | https://www.linkedin.com/company/92955550
+- **[RouteMonarch/FRP-Unlock-Tool](https://github.com/RouteMonarch/FRP-Unlock-Tool)** ⭐ 200
+  ![None](https://img.shields.io/badge/-None-lightgrey)
+  Complete standalone setup for Frp Unlock Tool 2026. Pre-activated desktop edition ready to run with all features enabled.
 
-- **[alphaparkinc/genpark-agentic-commerce-merchant-chargeback-prevention-alert-ethoca-verifi-skill](https://github.com/alphaparkinc/genpark-agentic-commerce-merchant-chargeback-prevention-alert-ethoca-verifi-skill)** ⭐ 7
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  GenPark high-grade production skill - https://www.genpark.ai | https://www.linkedin.com/company/92955550
+- **[armslocksmithamplify/PassFab-Unlocker](https://github.com/armslocksmithamplify/PassFab-Unlocker)** ⭐ 200
+  ![None](https://img.shields.io/badge/-None-lightgrey)
+  Passfab Unlocker 2026 - Full working installer, ready-to-run desktop utility for password recovery and management.
 
-- **[Alpha-Park/genpark-personal-agent-cardiac-baroreflex-sensitivity-brs-skill](https://github.com/Alpha-Park/genpark-personal-agent-cardiac-baroreflex-sensitivity-brs-skill)** ⭐ 7
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  GenPark high-grade production skill - https://www.genpark.ai | https://www.linkedin.com/company/92955550
+- **[brighttortoiseday/Foneazy-Mobile](https://github.com/brighttortoiseday/Foneazy-Mobile)** ⭐ 200
+  ![None](https://img.shields.io/badge/-None-lightgrey)
+  Pre-activated desktop edition of Foneazy Mobile 2026. Complete standalone setup ready to run.
 
-- **[Alpha-Park/genpark-agentic-commerce-freight-density-nmfc-class-reclassification-skill](https://github.com/Alpha-Park/genpark-agentic-commerce-freight-density-nmfc-class-reclassification-skill)** ⭐ 7
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  GenPark high-grade production skill - https://www.genpark.ai | https://www.linkedin.com/company/92955550
+- **[innershapepergola/IFunBox](https://github.com/innershapepergola/IFunBox)** ⭐ 200
+  ![None](https://img.shields.io/badge/-None-lightgrey)
+  Complete standalone setup for Ifunbox 2026. Ready-to-run installation with all features unlocked.
 
-- **[Alpha-Park/genpark-agentic-commerce-b2b-trade-letter-of-credit-ucp-600-discrepancy-auditor-skill](https://github.com/Alpha-Park/genpark-agentic-commerce-b2b-trade-letter-of-credit-ucp-600-discrepancy-auditor-skill)** ⭐ 7
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  GenPark high-grade production skill - https://www.genpark.ai | https://www.linkedin.com/company/92955550
+- **[MetropolisMist/UnlockGo](https://github.com/MetropolisMist/UnlockGo)** ⭐ 200
+  ![None](https://img.shields.io/badge/-None-lightgrey)
+  Unlockgo 2026 - Pre-activated desktop edition with full working installer, ready to run.
 
-- **[Alpha-Park/genpark-personal-agent-vocal-fatigue-acoustic-strain-skill](https://github.com/Alpha-Park/genpark-personal-agent-vocal-fatigue-acoustic-strain-skill)** ⭐ 7
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  Personal Agent Vocal Fatigue Acoustic Strain - Zero-dependency Titze vocal dose collision stress modeler, cumulative speaking strain auditor, and vocal cord restoration rest protocol prescriber.
+- **[KindPurify64/FonePaw-Unlocker](https://github.com/KindPurify64/FonePaw-Unlocker)** ⭐ 200
+  ![None](https://img.shields.io/badge/-None-lightgrey)
+  Complete standalone setup for Fonepaw Unlocker 2026. Full working installer with all features pre-activated, ready to run.
 
 ### 📈 Weekly Trending
 
-- **[anhao/ai-pose-gallery-zh](https://github.com/anhao/ai-pose-gallery-zh)** ⭐ 4,745
-  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
-  中文版 AI 姿势参考图库 · 1439 组 / 2878 张图片 / 完整汉化 · 零依赖静态画廊
-
-- **[heydamir/unslop](https://github.com/heydamir/unslop)** ⭐ 3,644
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
-  A Claude skill that turns vibecoded, AI-looking UI into a designed interface
-
-- **[deepseek-ai/dsh-superagent-prototype](https://github.com/deepseek-ai/dsh-superagent-prototype)** ⭐ 3,181
+- **[deepseek-ai/dsh-superagent-prototype](https://github.com/deepseek-ai/dsh-superagent-prototype)** ⭐ 5,269
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   Towards a More Autonomous Agent System
 
-- **[wangzan101/Mika](https://github.com/wangzan101/Mika)** ⭐ 2,857
-  ![Kotlin](https://img.shields.io/badge/-Kotlin-lightgrey)
-  Mika — 你手机上的私人 AI 助理，替你操作 App、上网、把事办成。An on-device AI agent for Android that operates apps and the web to get things done for you.
+- **[anhao/ai-pose-gallery-zh](https://github.com/anhao/ai-pose-gallery-zh)** ⭐ 4,998
+  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
+  中文版 AI 姿势参考图库 · 1439 组 / 2878 张图片 / 完整汉化 · 零依赖静态画廊
 
-- **[valentderah/totk-pc-recomp](https://github.com/valentderah/totk-pc-recomp)** ⭐ 2,677
+- **[heydamir/unslop](https://github.com/heydamir/unslop)** ⭐ 4,157
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
+  A Claude skill that turns vibecoded, AI-looking UI into a designed interface
+
+- **[wangzan101/Mika](https://github.com/wangzan101/Mika)** ⭐ 3,333
+  ![Kotlin](https://img.shields.io/badge/-Kotlin-lightgrey)
+  An on-device AI agent for Android that operates apps and the web to get things done for you.
+
+- **[valentderah/totk-pc-recomp](https://github.com/valentderah/totk-pc-recomp)** ⭐ 2,881
   ![C](https://img.shields.io/badge/-C-lightgrey)
   Static recompilation of The Legend of Zelda: Tears of the Kingdom to native Windows x86-64, with a Vulkan renderer. Game files not included.
 
-- **[paipiange/nvzhuang](https://github.com/paipiange/nvzhuang)** ⭐ 1,745
+- **[patch-gg/pixelfx](https://github.com/patch-gg/pixelfx)** ⭐ 2,010
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
+  244 pixel art effects, every one a small piece of code. Plus a Claude Code skill to make your own.
+
+- **[paipiange/nvzhuang](https://github.com/paipiange/nvzhuang)** ⭐ 1,829
   ![Go](https://img.shields.io/badge/-Go-cyan)
   1407 张 AI 女装参考图集与虚拟试穿网站，支持中英检索、OpenAI Images / Gemini / 豆包及自定义 Base URL、API Key、模型。https://github.com/paipiange/nvzhuang
 
-- **[aschmelyun/print-my-profile-pic](https://github.com/aschmelyun/print-my-profile-pic)** ⭐ 1,650
+- **[aschmelyun/print-my-profile-pic](https://github.com/aschmelyun/print-my-profile-pic)** ⭐ 1,678
   ![None](https://img.shields.io/badge/-None-lightgrey)
   Say cheese! Star this repo and your profile picture gets printed out on a receipt printer.
 
-- **[andyhuo520/digital-human-koubo](https://github.com/andyhuo520/digital-human-koubo)** ⭐ 1,595
-  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
-  AI digital-human talking-head videos from one photo: Renoise MCP generation + 5 editing styles + 48 creator-grade packaging components. Agent skill for Claude Code / Codex / OpenClaw / WorkBuddy …
-
 ### 📈 Monthly Trending
 
-- **[Gathin23/cleanyourtv](https://github.com/Gathin23/cleanyourtv)** ⭐ 48,037
+- **[Gathin23/cleanyourtv](https://github.com/Gathin23/cleanyourtv)** ⭐ 48,434
   ![Python](https://img.shields.io/badge/-Python-blue)
   Debloat any Android or Google TV over Wi-Fi and get an Apple TV-style home.
 
-- **[deepseek-ai/DeepInfer](https://github.com/deepseek-ai/DeepInfer)** ⭐ 24,679
+- **[deepseek-ai/DeepInfer](https://github.com/deepseek-ai/DeepInfer)** ⭐ 24,753
   ![Python](https://img.shields.io/badge/-Python-blue)
   DeepInfer: High-performance, large-scale inference framework for DeepSeek models
 
-- **[wheresryan22/anatomy](https://github.com/wheresryan22/anatomy)** ⭐ 23,401
+- **[wheresryan22/anatomy](https://github.com/wheresryan22/anatomy)** ⭐ 23,568
   ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
   An agent skill for creating detailed, interactive isometric illustrations of real-world machines and complex systems. Generates polished SVGs with optional WebGL shaders and 3D effects.
 
-- **[google-research/harness2](https://github.com/google-research/harness2)** ⭐ 21,701
+- **[google-research/harness2](https://github.com/google-research/harness2)** ⭐ 21,784
   ![Python](https://img.shields.io/badge/-Python-blue)
   None
 
-- **[openai/math](https://github.com/openai/math)** ⭐ 17,203
+- **[openai/math](https://github.com/openai/math)** ⭐ 17,225
   ![Lean](https://img.shields.io/badge/-Lean-lightgrey)
   None
 
-- **[storytold/wordcraft](https://github.com/storytold/wordcraft)** ⭐ 16,867
+- **[storytold/wordcraft](https://github.com/storytold/wordcraft)** ⭐ 16,902
   ![Rust](https://img.shields.io/badge/-Rust-brown)
   An open-source, clean-room reimplementation of Microsoft Word in pure Rust
 
-- **[Zagitta/gpu-unlock](https://github.com/Zagitta/gpu-unlock)** ⭐ 13,882
+- **[Zagitta/gpu-unlock](https://github.com/Zagitta/gpu-unlock)** ⭐ 13,987
   ![C](https://img.shields.io/badge/-C-lightgrey)
   Your GeForce runs AI at half speed. This fixes it for 20/30/40 series cards. Up to 2× FP16 / BF16 / TF32 tensor throughput
 
-- **[tangency-labs/solidcraft](https://github.com/tangency-labs/solidcraft)** ⭐ 12,660
+- **[tangency-labs/solidcraft](https://github.com/tangency-labs/solidcraft)** ⭐ 12,739
   ![Rust](https://img.shields.io/badge/-Rust-brown)
   SolidCraft: an open-source parametric 3D CAD application built in pure Rust. Desktop, web, and automation through MCP.
 
@@ -488,59 +486,59 @@ the end of April 202...
 
 | Skill | Status |
 |-------|--------|
-| Java | 🔴 Beginner |
+| Java | 🟡 Learning |
 | Python | ⚪ Planned |
-| JavaScript | ⚪ Planned |
-| TypeScript | 🟡 Learning |
-| Go | 🔴 Beginner |
+| JavaScript | 🟡 Learning |
+| TypeScript | 🔴 Beginner |
+| Go | 🟢 Proficient |
 
 ### Frameworks
 
 | Skill | Status |
 |-------|--------|
-| React | 🔴 Beginner |
+| React | ⚪ Planned |
 | Spring Boot | ⚪ Planned |
-| Django | ⚪ Planned |
-| Node.js | ⚪ Planned |
+| Django | 🟢 Proficient |
+| Node.js | 🟢 Proficient |
 | Next.js | 🟢 Proficient |
 
 ### Cybersecurity
 
 | Skill | Status |
 |-------|--------|
-| Penetration Testing | ⚪ Planned |
-| Web Security | 🟢 Proficient |
-| Network Security | 🟡 Learning |
-| OWASP | 🟡 Learning |
+| Penetration Testing | 🟡 Learning |
+| Web Security | ⚪ Planned |
+| Network Security | ⚪ Planned |
+| OWASP | ⚪ Planned |
 
 ### Ai Ml
 
 | Skill | Status |
 |-------|--------|
-| Machine Learning | 🔴 Beginner |
+| Machine Learning | 🟢 Proficient |
 | Deep Learning | 🟡 Learning |
-| NLP | ⚪ Planned |
-| Computer Vision | 🟡 Learning |
-| TensorFlow | 🔴 Beginner |
-| PyTorch | ⚪ Planned |
+| NLP | 🔴 Beginner |
+| Computer Vision | 🔴 Beginner |
+| TensorFlow | ⚪ Planned |
+| PyTorch | 🔴 Beginner |
 
 ### Devops
 
 | Skill | Status |
 |-------|--------|
 | Docker | 🟢 Proficient |
-| Kubernetes | 🟢 Proficient |
-| CI/CD | 🟡 Learning |
+| Kubernetes | 🔴 Beginner |
+| CI/CD | 🟢 Proficient |
 | AWS | 🟢 Proficient |
-| Azure | 🔴 Beginner |
+| Azure | 🟡 Learning |
 
 ### Other
 
 | Skill | Status |
 |-------|--------|
 | Blockchain | ⚪ Planned |
-| Web3 | ⚪ Planned |
-| Cloud Computing | 🟡 Learning |
+| Web3 | 🔴 Beginner |
+| Cloud Computing | 🔴 Beginner |
 
 </details>
 
