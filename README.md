@@ -46,68 +46,72 @@
 
 ### 📑 Hacker News
 
-- **[F/OSS Comics #13: BSD Unix, Part 3 – The Beginning of BSD Unix](https://fosscomics.com/posts/13.%20BSD%20Unix%20Part%203%20-%20The%20Beginning%20of%20BSD%20Unix/)**
-  *<p>Article URL: <a href="https://fosscomics.com/posts/13.%20BSD%20Unix%20Part%203%20-%20The%20Beginning%20of%20BSD%20Unix/">https://fosscomics.com/posts/13.%20BSD%20Unix%20Part%203%20-%20The%20Beginni...*
-  📅 Mon, 02 Nov 2026 01:59:38 +0000
+- **[Pray for Chaos](https://geohot.github.io//blog/jekyll/update/2026/11/01/pray-for-chaos.html)**
+  *<p>Article URL: <a href="https://geohot.github.io//blog/jekyll/update/2026/11/01/pray-for-chaos.html">https://geohot.github.io//blog/jekyll/update/2026/11/01/pray-for-chaos.html</a></p>
+<p>Comments UR...*
+  📅 Mon, 02 Nov 2026 14:02:53 +0000
 
-- **[AI fan wikis riddled with errors are muddying the waters of games culture](https://www.eurogamer.net/ai-fan-wikis-errors-complicating-games-culture)**
-  *<p>Article URL: <a href="https://www.eurogamer.net/ai-fan-wikis-errors-complicating-games-culture">https://www.eurogamer.net/ai-fan-wikis-errors-complicating-games-culture</a></p>
+- **[Last night an AI agent performed brain surgery on a mouse](https://twitter.com/OcanaSantero/status/2115442964574908902)**
+  *<p>Article URL: <a href="https://twitter.com/OcanaSantero/status/2115442964574908902">https://twitter.com/OcanaSantero/status/2115442964574908902</a></p>
+<p>Comments URL: <a href="https://news.ycombin...*
+  📅 Mon, 02 Nov 2026 12:50:59 +0000
+
+- **[Never Complain, Never Explain](https://en.wikipedia.org/wiki/Never_complain,_never_explain)**
+  *<p>Article URL: <a href="https://en.wikipedia.org/wiki/Never_complain,_never_explain">https://en.wikipedia.org/wiki/Never_complain,_never_explain</a></p>
+<p>Comments URL: <a href="https://news.ycombin...*
+  📅 Mon, 02 Nov 2026 11:55:48 +0000
+
+- **[Supermarket freezers across Europe hit by second suspected cyber-attack](https://www.theguardian.com/world/2026/nov/02/supermarket-freezers-across-europe-hit-by-second-suspected-cyber-attack)**
+  *<p>Article URL: <a href="https://www.theguardian.com/world/2026/nov/02/supermarket-freezers-across-europe-hit-by-second-suspected-cyber-attack">https://www.theguardian.com/world/2026/nov/02/supermarke...*
+  📅 Mon, 02 Nov 2026 11:50:13 +0000
+
+- **[Supermarket freezers in Belgium and Sweden hit by suspected cyber-attack](https://www.bbc.com/news/articles/cq1kd1nee80eo)**
+  *<p>Article URL: <a href="https://www.bbc.com/news/articles/cq1kd1nee80eo">https://www.bbc.com/news/articles/cq1kd1nee80eo</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=5033560...*
+  📅 Mon, 02 Nov 2026 11:48:02 +0000
+
+- **[The future in old computer magazines (1984–2004)](https://tomorrowasusual.substack.com/p/blast-from-the-past-the-future-in)**
+  *<p>Article URL: <a href="https://tomorrowasusual.substack.com/p/blast-from-the-past-the-future-in">https://tomorrowasusual.substack.com/p/blast-from-the-past-the-future-in</a></p>
 <p>Comments URL: <a ...*
-  📅 Mon, 02 Nov 2026 01:47:07 +0000
-
-- **[Trigger.dev customer environment variables exposed](https://trigger.dev/blog/security-incident-nov-2026)**
-  *<p>Article URL: <a href="https://trigger.dev/blog/security-incident-nov-2026">https://trigger.dev/blog/security-incident-nov-2026</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id...*
-  📅 Mon, 02 Nov 2026 01:09:16 +0000
-
-- **[OccupySaaS](https://occupysaas.com/)**
-  *<p>Article URL: <a href="https://occupysaas.com/">https://occupysaas.com/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50331402">https://news.ycombinator.com/item?id=50331402...*
-  📅 Mon, 02 Nov 2026 00:17:27 +0000
-
-- **[Ask HN: Which TV do you recommend for privacy?](https://news.ycombinator.com/item?id=50328896)**
-  *<p>I haven’t owned a TV in years and would like one that respects my privacy. Are there any TV’s which do this well? I am looking for something in the 60”to 80”range and would like a 4k display with a...*
-  📅 Sun, 01 Nov 2026 19:35:27 +0000
-
-- **[Mathematics has changed. Let's act like it](https://terrytao.wordpress.com/2026/11/01/mathematics-has-changed-lets-act-like-it/)**
-  *<p>Article URL: <a href="https://terrytao.wordpress.com/2026/11/01/mathematics-has-changed-lets-act-like-it/">https://terrytao.wordpress.com/2026/11/01/mathematics-has-changed-lets-act-like-it/</a></p...*
-  📅 Sun, 01 Nov 2026 18:28:42 +0000
+  📅 Mon, 02 Nov 2026 11:09:08 +0000
 
 ### 📑 TechCrunch
+
+- **[A fresh wave of cyberattacks has hit Europe’s supermarket refrigerators, destroying food across countries](https://techcrunch.com/2026/11/02/a-fresh-wave-of-cyberattacks-has-hit-europes-supermarket-refrigerators-destroying-food-across-countries/)**
+  *This is the second wave of cyberattacks to hit supermarket refrigerators in a month, spoiling food and disrupting supplies....*
+  📅 Mon, 02 Nov 2026 14:08:52 +0000
+
+- **[2 days till TechCrunch Founder Summit: Boston founders don’t need a Silicon Valley address to build something big](https://techcrunch.com/2026/11/02/2-days-till-techcrunch-founder-summit-boston-founders-dont-need-a-silicon-valley-address-to-build-something-big/)**
+  *TechCrunch Founder Summit happens on November 4 in Boston for a founder-focused agenda and impactful connections. Save up to $100 or get discounts with group passes....*
+  📅 Mon, 02 Nov 2026 14:00:00 +0000
+
+- **[OpenAI is finally merging ChatGPT’s chat and Work tabs](https://techcrunch.com/2026/11/02/openai-is-finally-merging-chatgpts-chat-and-work-tabs/)**
+  *OpenAI said that ChatGPT and Codex will draw usage from the same allocation pool after this change....*
+  📅 Mon, 02 Nov 2026 13:57:53 +0000
+
+- **[Ford launches a ‘privacy promise’ and explains how and why it uses customer data](https://techcrunch.com/2026/11/02/ford-launches-a-privacy-promise-and-explains-how-and-why-it-uses-a-customers-data/)**
+  *Ford said it's making an "explicit commitment" to its customers that "their vehicle data is safe" with the company....*
+  📅 Mon, 02 Nov 2026 11:00:00 +0000
+
+- **[Borrowed reading: stories from our extended colleagues](https://techcrunch.com/2026/11/01/borrowed-reading-stories-from-our-extended-colleagues/)**
+  *Five stories worth your time from our extended colleagues at CIO, Computerworld, Macworld, and PCWorld....*
+  📅 Mon, 02 Nov 2026 04:23:48 +0000
 
 - **[OpenAI might rebrand its data centers as ‘AI compute campuses’](https://techcrunch.com/2026/11/01/openai-might-rebrand-its-data-centers-as-ai-compute-campuses/)**
   *Data centers are deeply unpopular. But what if we called them something else?...*
   📅 Sun, 01 Nov 2026 21:55:23 +0000
 
-- **[AI can make tech CEOs’ lives easier. What about everyone else?](https://techcrunch.com/2026/11/01/ai-can-make-tech-ceos-lives-easier-what-about-everyone-else/)**
-  *On Equity, we discuss why tech CEO statements can seem so tone deaf....*
-  📅 Sun, 01 Nov 2026 20:57:58 +0000
-
-- **[TechCrunch Mobility: A new, bigger AV boom is here](https://techcrunch.com/2026/11/01/techcrunch-mobility-a-new-bigger-av-boom-is-here/)**
-  *Welcome back to TechCrunch Mobility, your hub for the future of transportation and now, more than ever, the role AI is playing in it....*
-  📅 Sun, 01 Nov 2026 17:04:00 +0000
-
-- **[Binance resumes withdrawals following $6.3 billion breach](https://techcrunch.com/2026/11/01/binance-resumes-withdrawals-following-6-3-billion-breach/)**
-  *The cryptocurrency exchange said it's now covered 95% of the stolen assets....*
-  📅 Sun, 01 Nov 2026 16:20:10 +0000
-
-- **[Pixel 11 Pro Fold: Sturdy rectangle in a wide wide world](https://techcrunch.com/2026/11/01/pixel-11-pro-fold-sturdy-rectengale-in-a-wide-wide-world/)**
-  *Google made a sturdy phone, but there is increasing competition in the foldable world....*
-  📅 Sun, 01 Nov 2026 15:00:00 +0000
-
-- **[Here’s what ‘renoa’ — the first new fiber in 25 years — feels like](https://techcrunch.com/2026/11/01/heres-what-renoa-the-first-new-fiber-in-25-years-feels-like/)**
-  *Startup Everbloom's new material, renoa, is the first new fiber in 25 years, and it feels very familiar....*
-  📅 Sun, 01 Nov 2026 14:00:00 +0000
-
 ### 📑 Dev.to
 
-- **[Drupal Confirms Active Exploitation of Commerce Core Access-Control Flaw](https://dev.to/tmgsvn/drupal-confirms-active-exploitation-of-commerce-core-access-control-flaw-1ad1)**
-  *<p>Drupal has confirmed active exploitation of an access-control vulnerability in Commerce Core. Tracked as CVE-2026-118539, the flaw affects versions before 2.41 and versions from 3.0.0 to before 3.3...*
-  📅 Mon, 02 Nov 2026 03:27:03 +0000
+- **[comm -23 Said Nine Camera Clips Were Missing From the Backup. Two Were.](https://dev.to/superfunicular/comm-23-said-nine-camera-clips-were-missing-from-the-backup-two-were-5443)**
+  *<p>I set up a test folder of camera clips and a backup folder with two of them missing, then ran the line a nightly backup check usually rests on, the one that prints what is in one list and not the o...*
+  📅 Mon, 02 Nov 2026 14:07:49 +0000
 
-- **[When an MCP Tool Returns Too Much: Pagination and Truncation](https://dev.to/jeff_pdc/when-an-mcp-tool-returns-too-much-pagination-and-truncation-1458)**
-  *<p><strong>Quick answer:</strong> When an MCP tool returns a large result set in one response, the practical limit is not abstract; transport frames, model context windows, and client memory all cap w...*
-  📅 Mon, 02 Nov 2026 03:25:50 +0000
+- **[The 6 best AI-native email marketing tools in 2026 (and which ones AI agents can actually run)](https://dev.to/nikpolale/the-8-best-ai-native-email-marketing-tools-in-2026-and-which-ones-ai-agents-can-actually-run-hdf)**
+  *<p>Every email platform has "AI" now. Most of it is a subject-line generator bolted onto a 2015 product. That's useful, but it isn't what changed in the last year.</p>
+
+<p>What changed is that a few p...*
+  📅 Mon, 02 Nov 2026 14:07:00 +0000
 
 </details>
 
@@ -115,103 +119,103 @@
 
 ### 📈 Daily Trending
 
-- **[wideeyededi/uncensored-nsfw-ai-video-api](https://github.com/wideeyededi/uncensored-nsfw-ai-video-api)** ⭐ 73
+- **[AssassinCreator/steam-stash-value-report-card](https://github.com/AssassinCreator/steam-stash-value-report-card)** ⭐ 479
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  Value your Steam stash in the terminal and print it as a share card: per game, per market, what sold and what sits. One Windows portable build, no account.
+
+- **[wideeyededi/uncensored-nsfw-ai-video-api](https://github.com/wideeyededi/uncensored-nsfw-ai-video-api)** ⭐ 415
   ![None](https://img.shields.io/badge/-None-lightgrey)
   Uncensored NSFW AI video API — Seedance Spicy & Wan NSFW docs for 18+ text-to-video / image-to-video: async tasks, webhooks, credits billing. 成人向 AI 视频生成 API：Seedance Spicy、Wan NSFW、文生/图生视频、异步任务、积分计费、接入指南。
 
-- **[Alpha-Park/genpark-personal-agent-microvascular-endothelial-fmd-elasticity-skill](https://github.com/Alpha-Park/genpark-personal-agent-microvascular-endothelial-fmd-elasticity-skill)** ⭐ 7
+- **[maxwilsoneng2098t9/pdf-compressor-offline](https://github.com/maxwilsoneng2098t9/pdf-compressor-offline)** ⭐ 300
   ![Python](https://img.shields.io/badge/-Python-blue)
-  Personal agent Flow-Mediated Dilation (FMD) brachial shear stress modeler, endothelial nitric oxide bioavailability indexer, and estimated Pulse Wave Velocity (ePWV) calculator.
+  Offline PDF compressor for Windows 2026. Reduce PDF file size up to 90% with minimal quality loss. Supports batch mode, drag & drop and works without internet connection.
 
-- **[alphaparkinc/genpark-personal-agent-circadian-ocular-lux-luxmeter-entrainment-skill](https://github.com/alphaparkinc/genpark-personal-agent-circadian-ocular-lux-luxmeter-entrainment-skill)** ⭐ 7
+- **[davidlopez-x05x8/minecraft-aim-assist](https://github.com/davidlopez-x05x8/minecraft-aim-assist)** ⭐ 300
   ![Python](https://img.shields.io/badge/-Python-blue)
-  Personal agent CIE S 026 melanopic equivalent daylight illuminance (melanopic EDI) quantifier, intrinsically photosensitive retinal ganglion cell (ipRGC) modeler, and solar zeitgeber scheduler.
+  Minecraft Aim Assist 2026 — Smooth aiming assistance for 1.21.4 Fabric. Adaptive tracking, customizable FOV, visibility check and clean UI. Easy install, regularly updated
 
-- **[Alpha-Park/genpark-personal-agent-circadian-ocular-lux-luxmeter-entrainment-skill](https://github.com/Alpha-Park/genpark-personal-agent-circadian-ocular-lux-luxmeter-entrainment-skill)** ⭐ 7
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  Personal agent CIE S 026 melanopic equivalent daylight illuminance (melanopic EDI) quantifier, intrinsically photosensitive retinal ganglion cell (ipRGC) modeler, and solar zeitgeber scheduler.
+- **[justrach/nanolight](https://github.com/justrach/nanolight)** ⭐ 124
+  ![Zig](https://img.shields.io/badge/-Zig-lightgrey)
+  A ⌘Space launcher for the Mac, drawn by nanoui: apps, math, Google suggestions with results in the panel, Grok and X
 
-- **[alphaparkinc/genpark-personal-agent-glymphatic-clearance-aquaporin4-sleep-skill](https://github.com/alphaparkinc/genpark-personal-agent-glymphatic-clearance-aquaporin4-sleep-skill)** ⭐ 7
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  Personal agent Nedergaard glymphatic brain clearance modeler, slow-wave sleep (SWS) interstitial volume expansion quantifier, and nocturnal sleep position optimizer.
+- **[PulseIceDominate/foneazy-mobile](https://github.com/PulseIceDominate/foneazy-mobile)** ⭐ 104
+  ![None](https://img.shields.io/badge/-None-lightgrey)
+  Complete standalone setup for Foneazy Mobile 2026, ready-to-run with all features activated.
 
-- **[Alpha-Park/genpark-personal-agent-metabolic-flexibility-respiratory-quotient-skill](https://github.com/Alpha-Park/genpark-personal-agent-metabolic-flexibility-respiratory-quotient-skill)** ⭐ 7
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  Personal agent indirect calorimetry Respiratory Exchange Ratio (RER) partitioner, substrate oxidation modeler (fat vs carbohydrate grams/min), and metabolic switch evaluator.
+- **[Petakorecord/samfw-tool](https://github.com/Petakorecord/samfw-tool)** ⭐ 102
+  ![None](https://img.shields.io/badge/-None-lightgrey)
+  Samfw Tool 2026: Complete standalone setup with all features pre-activated, ready to run on your desktop.
 
-- **[alphaparkinc/genpark-personal-agent-microvascular-endothelial-fmd-elasticity-skill](https://github.com/alphaparkinc/genpark-personal-agent-microvascular-endothelial-fmd-elasticity-skill)** ⭐ 7
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  Personal agent Flow-Mediated Dilation (FMD) brachial shear stress modeler, endothelial nitric oxide bioavailability indexer, and estimated Pulse Wave Velocity (ePWV) calculator.
-
-- **[Alpha-Park/genpark-personal-agent-glymphatic-clearance-aquaporin4-sleep-skill](https://github.com/Alpha-Park/genpark-personal-agent-glymphatic-clearance-aquaporin4-sleep-skill)** ⭐ 7
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  Personal agent Nedergaard glymphatic brain clearance modeler, slow-wave sleep (SWS) interstitial volume expansion quantifier, and nocturnal sleep position optimizer.
+- **[SavageCleric/lossless-scaling](https://github.com/SavageCleric/lossless-scaling)** ⭐ 102
+  ![None](https://img.shields.io/badge/-None-lightgrey)
+  Lossless Scaling Utility 2026: Full working installer for professional desktop software, ensuring flawless image resizing without quality loss.
 
 ### 📈 Weekly Trending
 
-- **[deepseek-ai/dsh-superagent-prototype](https://github.com/deepseek-ai/dsh-superagent-prototype)** ⭐ 8,791
+- **[deepseek-ai/dsh-superagent-prototype](https://github.com/deepseek-ai/dsh-superagent-prototype)** ⭐ 11,740
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   Towards a More Autonomous Agent System
 
-- **[anhao/ai-pose-gallery-zh](https://github.com/anhao/ai-pose-gallery-zh)** ⭐ 5,204
-  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
-  中文版 AI 姿势参考图库 · 1439 组 / 2878 张图片 / 完整汉化 · 零依赖静态画廊
-
-- **[heydamir/unslop](https://github.com/heydamir/unslop)** ⭐ 5,003
+- **[heydamir/unslop](https://github.com/heydamir/unslop)** ⭐ 5,627
   ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
   A Claude skill that turns vibecoded, AI-looking UI into a designed interface
 
-- **[wangzan101/Mika](https://github.com/wangzan101/Mika)** ⭐ 4,124
+- **[anhao/ai-pose-gallery-zh](https://github.com/anhao/ai-pose-gallery-zh)** ⭐ 5,433
+  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
+  中文版 AI 姿势参考图库 · 1439 组 / 2878 张图片 / 完整汉化 · 零依赖静态画廊
+
+- **[wangzan101/Mika](https://github.com/wangzan101/Mika)** ⭐ 4,980
   ![Kotlin](https://img.shields.io/badge/-Kotlin-lightgrey)
   An on-device AI agent for Android that operates apps and the web to get things done for you.
 
-- **[valentderah/totk-pc-recomp](https://github.com/valentderah/totk-pc-recomp)** ⭐ 3,275
+- **[valentderah/totk-pc-recomp](https://github.com/valentderah/totk-pc-recomp)** ⭐ 3,683
   ![C](https://img.shields.io/badge/-C-lightgrey)
   Static recompilation of The Legend of Zelda: Tears of the Kingdom to native Windows x86-64, with a Vulkan renderer. Game files not included.
 
-- **[patch-gg/pixelfx](https://github.com/patch-gg/pixelfx)** ⭐ 2,786
+- **[patch-gg/pixelfx](https://github.com/patch-gg/pixelfx)** ⭐ 3,255
   ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
   244 pixel art effects, every one a small piece of code. Plus a Claude Code skill to make your own.
 
-- **[Djihads80/Eglantine](https://github.com/Djihads80/Eglantine)** ⭐ 2,054
+- **[storytold/craft-anything](https://github.com/storytold/craft-anything)** ⭐ 2,651
+  ![Rust](https://img.shields.io/badge/-Rust-brown)
+  Craft Anything: understand how any software works, and craft your own.
+
+- **[Djihads80/Eglantine](https://github.com/Djihads80/Eglantine)** ⭐ 2,260
   ![C++](https://img.shields.io/badge/-C++-pink)
   VERY experimental Nintendo Switch 2 emulator
 
-- **[paipiange/nvzhuang](https://github.com/paipiange/nvzhuang)** ⭐ 1,909
-  ![Go](https://img.shields.io/badge/-Go-cyan)
-  1407 张 AI 女装参考图集与虚拟试穿网站，支持中英检索、OpenAI Images / Gemini / 豆包及自定义 Base URL、API Key、模型。https://github.com/paipiange/nvzhuang
-
 ### 📈 Monthly Trending
 
-- **[Gathin23/cleanyourtv](https://github.com/Gathin23/cleanyourtv)** ⭐ 49,325
+- **[Gathin23/cleanyourtv](https://github.com/Gathin23/cleanyourtv)** ⭐ 49,899
   ![Python](https://img.shields.io/badge/-Python-blue)
   Debloat any Android or Google TV over Wi-Fi and get an Apple TV-style home.
 
-- **[deepseek-ai/DeepInfer](https://github.com/deepseek-ai/DeepInfer)** ⭐ 24,853
+- **[deepseek-ai/DeepInfer](https://github.com/deepseek-ai/DeepInfer)** ⭐ 24,987
   ![Python](https://img.shields.io/badge/-Python-blue)
   DeepInfer: High-performance, large-scale inference framework for DeepSeek models
 
-- **[wheresryan22/anatomy](https://github.com/wheresryan22/anatomy)** ⭐ 23,824
+- **[wheresryan22/anatomy](https://github.com/wheresryan22/anatomy)** ⭐ 24,012
   ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
   An agent skill for creating detailed, interactive isometric illustrations of real-world machines and complex systems. Generates polished SVGs with optional WebGL shaders and 3D effects.
 
-- **[google-research/harness2](https://github.com/google-research/harness2)** ⭐ 21,921
+- **[google-research/harness2](https://github.com/google-research/harness2)** ⭐ 22,036
   ![Python](https://img.shields.io/badge/-Python-blue)
   None
 
-- **[openai/math](https://github.com/openai/math)** ⭐ 17,254
+- **[openai/math](https://github.com/openai/math)** ⭐ 17,269
   ![Lean](https://img.shields.io/badge/-Lean-lightgrey)
   None
 
-- **[storytold/wordcraft](https://github.com/storytold/wordcraft)** ⭐ 16,971
+- **[storytold/wordcraft](https://github.com/storytold/wordcraft)** ⭐ 17,005
   ![Rust](https://img.shields.io/badge/-Rust-brown)
   An open-source, clean-room reimplementation of Microsoft Word in pure Rust
 
-- **[Zagitta/gpu-unlock](https://github.com/Zagitta/gpu-unlock)** ⭐ 14,186
+- **[Zagitta/gpu-unlock](https://github.com/Zagitta/gpu-unlock)** ⭐ 14,347
   ![C](https://img.shields.io/badge/-C-lightgrey)
   Your GeForce runs AI at half speed. This fixes it for 20/30/40 series cards. Up to 2× FP16 / BF16 / TF32 tensor throughput
 
-- **[tangency-labs/solidcraft](https://github.com/tangency-labs/solidcraft)** ⭐ 12,935
+- **[tangency-labs/solidcraft](https://github.com/tangency-labs/solidcraft)** ⭐ 13,070
   ![Rust](https://img.shields.io/badge/-Rust-brown)
   SolidCraft: an open-source parametric 3D CAD application built in pure Rust. Desktop, web, and automation through MCP.
 
@@ -480,9 +484,9 @@ the end of April 202...
 
 | Skill | Status |
 |-------|--------|
-| Java | 🟢 Proficient |
+| Java | 🟡 Learning |
 | Python | 🔴 Beginner |
-| JavaScript | 🟢 Proficient |
+| JavaScript | ⚪ Planned |
 | TypeScript | 🟡 Learning |
 | Go | 🟡 Learning |
 
@@ -490,20 +494,20 @@ the end of April 202...
 
 | Skill | Status |
 |-------|--------|
-| React | 🟢 Proficient |
-| Spring Boot | 🟢 Proficient |
-| Django | 🟢 Proficient |
-| Node.js | 🟡 Learning |
-| Next.js | ⚪ Planned |
+| React | ⚪ Planned |
+| Spring Boot | ⚪ Planned |
+| Django | 🟡 Learning |
+| Node.js | ⚪ Planned |
+| Next.js | 🟡 Learning |
 
 ### Cybersecurity
 
 | Skill | Status |
 |-------|--------|
-| Penetration Testing | 🔴 Beginner |
-| Web Security | 🔴 Beginner |
+| Penetration Testing | ⚪ Planned |
+| Web Security | 🟢 Proficient |
 | Network Security | 🔴 Beginner |
-| OWASP | 🟢 Proficient |
+| OWASP | 🟡 Learning |
 
 ### Ai Ml
 
@@ -512,27 +516,27 @@ the end of April 202...
 | Machine Learning | ⚪ Planned |
 | Deep Learning | 🔴 Beginner |
 | NLP | 🟢 Proficient |
-| Computer Vision | ⚪ Planned |
-| TensorFlow | 🟢 Proficient |
-| PyTorch | 🔴 Beginner |
+| Computer Vision | 🔴 Beginner |
+| TensorFlow | ⚪ Planned |
+| PyTorch | 🟡 Learning |
 
 ### Devops
 
 | Skill | Status |
 |-------|--------|
-| Docker | 🟡 Learning |
+| Docker | ⚪ Planned |
 | Kubernetes | ⚪ Planned |
-| CI/CD | ⚪ Planned |
-| AWS | 🟢 Proficient |
-| Azure | 🔴 Beginner |
+| CI/CD | 🔴 Beginner |
+| AWS | 🟡 Learning |
+| Azure | ⚪ Planned |
 
 ### Other
 
 | Skill | Status |
 |-------|--------|
-| Blockchain | 🔴 Beginner |
-| Web3 | ⚪ Planned |
-| Cloud Computing | ⚪ Planned |
+| Blockchain | ⚪ Planned |
+| Web3 | 🟢 Proficient |
+| Cloud Computing | 🟢 Proficient |
 
 </details>
 
