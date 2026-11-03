@@ -7,7 +7,7 @@
 ![AI & ML](https://img.shields.io/badge/-AI%20&%20ML-blue) ![CyberSecurity](https://img.shields.io/badge/-CyberSecurity-red) ![Full Stack Development](https://img.shields.io/badge/-Full%20Stack%20Development-green)
 
 [![Auto Update](https://img.shields.io/badge/Auto%20Update-Enabled-success)](https://github.com/yourusername/tech-dashboard/actions)
-[![Last Updated](https://img.shields.io/badge/Last%20Updated-November 02, 2026-blue)](https://github.com/yourusername/tech-dashboard)
+[![Last Updated](https://img.shields.io/badge/Last%20Updated-November 03, 2026-blue)](https://github.com/yourusername/tech-dashboard)
 
 *Automatically updated every 6 hours with the latest tech news, trending repositories, and learning resources.*
 
@@ -20,7 +20,7 @@
 | Metric | Count |
 |--------|-------|
 | 📰 Latest News Articles | 26 |
-| 🔥 Trending Repositories | 45 |
+| 🔥 Trending Repositories | 44 |
 | 🎯 Latest Releases | 10 |
 | 🎯 Learning Goals | 4 |
 
@@ -46,72 +46,72 @@
 
 ### 📑 Hacker News
 
-- **[Pray for Chaos](https://geohot.github.io//blog/jekyll/update/2026/11/01/pray-for-chaos.html)**
-  *<p>Article URL: <a href="https://geohot.github.io//blog/jekyll/update/2026/11/01/pray-for-chaos.html">https://geohot.github.io//blog/jekyll/update/2026/11/01/pray-for-chaos.html</a></p>
-<p>Comments UR...*
-  📅 Mon, 02 Nov 2026 14:02:53 +0000
+- **[Anthropic's growth just flattened](https://www.regenerator1.com/p/anthropics-growth-just-flattened)**
+  *<p>Article URL: <a href="https://www.regenerator1.com/p/anthropics-growth-just-flattened">https://www.regenerator1.com/p/anthropics-growth-just-flattened</a></p>
+<p>Comments URL: <a href="https://news...*
+  📅 Mon, 02 Nov 2026 22:33:20 +0000
 
-- **[Last night an AI agent performed brain surgery on a mouse](https://twitter.com/OcanaSantero/status/2115442964574908902)**
-  *<p>Article URL: <a href="https://twitter.com/OcanaSantero/status/2115442964574908902">https://twitter.com/OcanaSantero/status/2115442964574908902</a></p>
-<p>Comments URL: <a href="https://news.ycombin...*
-  📅 Mon, 02 Nov 2026 12:50:59 +0000
+- **[The SEC Should Block Anthropic's IPO to Protect the Public](https://www.techpolicy.press/the-sec-should-block-anthropics-ipo-to-protect-the-public/)**
+  *<p>Article URL: <a href="https://www.techpolicy.press/the-sec-should-block-anthropics-ipo-to-protect-the-public/">https://www.techpolicy.press/the-sec-should-block-anthropics-ipo-to-protect-the-public...*
+  📅 Mon, 02 Nov 2026 22:30:47 +0000
 
-- **[Never Complain, Never Explain](https://en.wikipedia.org/wiki/Never_complain,_never_explain)**
-  *<p>Article URL: <a href="https://en.wikipedia.org/wiki/Never_complain,_never_explain">https://en.wikipedia.org/wiki/Never_complain,_never_explain</a></p>
-<p>Comments URL: <a href="https://news.ycombin...*
-  📅 Mon, 02 Nov 2026 11:55:48 +0000
+- **[Apple reports fourth quarter results](https://www.apple.com/newsroom/2026/11/apple-reports-fourth-quarter-results/)**
+  *<p>Article URL: <a href="https://www.apple.com/newsroom/2026/11/apple-reports-fourth-quarter-results/">https://www.apple.com/newsroom/2026/11/apple-reports-fourth-quarter-results/</a></p>
+<p>Comments ...*
+  📅 Mon, 02 Nov 2026 22:13:42 +0000
 
-- **[Supermarket freezers across Europe hit by second suspected cyber-attack](https://www.theguardian.com/world/2026/nov/02/supermarket-freezers-across-europe-hit-by-second-suspected-cyber-attack)**
-  *<p>Article URL: <a href="https://www.theguardian.com/world/2026/nov/02/supermarket-freezers-across-europe-hit-by-second-suspected-cyber-attack">https://www.theguardian.com/world/2026/nov/02/supermarke...*
-  📅 Mon, 02 Nov 2026 11:50:13 +0000
+- **[SLAC researchers find proof of altermagnetism, a new magnetic phase](https://www6.slac.stanford.edu/news/2026-10-29-slac-researchers-find-proof-altermagnetism-new-magnetic-phase)**
+  *<p>Article URL: <a href="https://www6.slac.stanford.edu/news/2026-10-29-slac-researchers-find-proof-altermagnetism-new-magnetic-phase">https://www6.slac.stanford.edu/news/2026-10-29-slac-researchers-f...*
+  📅 Mon, 02 Nov 2026 21:42:25 +0000
 
-- **[Supermarket freezers in Belgium and Sweden hit by suspected cyber-attack](https://www.bbc.com/news/articles/cq1kd1nee80eo)**
-  *<p>Article URL: <a href="https://www.bbc.com/news/articles/cq1kd1nee80eo">https://www.bbc.com/news/articles/cq1kd1nee80eo</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=5033560...*
-  📅 Mon, 02 Nov 2026 11:48:02 +0000
+- **[The Ford Privacy Promise: You're in Control of Your Data](https://www.fromtheroad.ford.com/us/en/articles/2026/introducing-the-ford-privacy-promise)**
+  *<p>Article URL: <a href="https://www.fromtheroad.ford.com/us/en/articles/2026/introducing-the-ford-privacy-promise">https://www.fromtheroad.ford.com/us/en/articles/2026/introducing-the-ford-privacy-pr...*
+  📅 Mon, 02 Nov 2026 21:37:00 +0000
 
-- **[The future in old computer magazines (1984–2004)](https://tomorrowasusual.substack.com/p/blast-from-the-past-the-future-in)**
-  *<p>Article URL: <a href="https://tomorrowasusual.substack.com/p/blast-from-the-past-the-future-in">https://tomorrowasusual.substack.com/p/blast-from-the-past-the-future-in</a></p>
-<p>Comments URL: <a ...*
-  📅 Mon, 02 Nov 2026 11:09:08 +0000
+- **[Oracle files to sell $20B in new stock, bonds to finance AI buildout](https://www.cnbc.com/2026/11/02/oracle-files-to-sell-20-billion-in-new-stock-bonds-to-finance-ai-buildout.html)**
+  *<p>Article URL: <a href="https://www.cnbc.com/2026/11/02/oracle-files-to-sell-20-billion-in-new-stock-bonds-to-finance-ai-buildout.html">https://www.cnbc.com/2026/11/02/oracle-files-to-sell-20-billion...*
+  📅 Mon, 02 Nov 2026 19:27:37 +0000
 
 ### 📑 TechCrunch
 
-- **[A fresh wave of cyberattacks has hit Europe’s supermarket refrigerators, destroying food across countries](https://techcrunch.com/2026/11/02/a-fresh-wave-of-cyberattacks-has-hit-europes-supermarket-refrigerators-destroying-food-across-countries/)**
-  *This is the second wave of cyberattacks to hit supermarket refrigerators in a month, spoiling food and disrupting supplies....*
-  📅 Mon, 02 Nov 2026 14:08:52 +0000
+- **[Apple says it’s ‘hard to predict’ when iPhone Duo constraints will improve](https://techcrunch.com/2026/11/02/apple-says-its-hard-to-predict-when-iphone-duo-constraints-will-improve/)**
+  *Apple says iPhone Duo production is ramping up, but it still can't say when supply will catch up with demand as shipping delays stretch into next year....*
+  📅 Mon, 02 Nov 2026 23:25:32 +0000
 
-- **[2 days till TechCrunch Founder Summit: Boston founders don’t need a Silicon Valley address to build something big](https://techcrunch.com/2026/11/02/2-days-till-techcrunch-founder-summit-boston-founders-dont-need-a-silicon-valley-address-to-build-something-big/)**
-  *TechCrunch Founder Summit happens on November 4 in Boston for a founder-focused agenda and impactful connections. Save up to $100 or get discounts with group passes....*
-  📅 Mon, 02 Nov 2026 14:00:00 +0000
+- **[Trajectory raises $45M to make AI model training accessible to nontechnical experts](https://techcrunch.com/2026/11/02/trajectory-raises-45m-to-make-ai-model-training-accessible-to-nontechnical-experts/)**
+  *The one-year-old startup is now valued at $300 million....*
+  📅 Mon, 02 Nov 2026 23:13:53 +0000
 
-- **[OpenAI is finally merging ChatGPT’s chat and Work tabs](https://techcrunch.com/2026/11/02/openai-is-finally-merging-chatgpts-chat-and-work-tabs/)**
-  *OpenAI said that ChatGPT and Codex will draw usage from the same allocation pool after this change....*
-  📅 Mon, 02 Nov 2026 13:57:53 +0000
+- **[Apple’s inventory surges 154% as memory chip costs climb](https://techcrunch.com/2026/11/02/apples-inventory-surges-154-as-memory-chip-costs-climb/)**
+  *Apple says unprecedented memory chip costs will continue to rise, raising questions about future device prices as its inventory climbs to $14.5 billion....*
+  📅 Mon, 02 Nov 2026 23:04:57 +0000
 
-- **[Ford launches a ‘privacy promise’ and explains how and why it uses customer data](https://techcrunch.com/2026/11/02/ford-launches-a-privacy-promise-and-explains-how-and-why-it-uses-a-customers-data/)**
-  *Ford said it's making an "explicit commitment" to its customers that "their vehicle data is safe" with the company....*
-  📅 Mon, 02 Nov 2026 11:00:00 +0000
+- **[Anthropic warns that it’s very close to RSI capability, aka self-building AI](https://techcrunch.com/2026/11/02/anthropic-warns-that-its-very-close-to-rsi-capability-aka-self-building-ai/)**
+  *RSI is the point at which AI grows so good at training itself that it spawns a dramatic acceleration of AI capabilities. To the AI doomers, RSI represents the cataclysm from which there is no return....*
+  📅 Mon, 02 Nov 2026 22:14:50 +0000
 
-- **[Borrowed reading: stories from our extended colleagues](https://techcrunch.com/2026/11/01/borrowed-reading-stories-from-our-extended-colleagues/)**
-  *Five stories worth your time from our extended colleagues at CIO, Computerworld, Macworld, and PCWorld....*
-  📅 Mon, 02 Nov 2026 04:23:48 +0000
+- **[Germany says lawmakers’ iPhones may have been hacked with spyware](https://techcrunch.com/2026/11/02/germany-says-lawmakers-iphones-may-have-been-hacked-with-spyware/)**
+  *German lawmakers and a filmmaker are among the people who received notifications from Apple warning that their phones may have been hacked....*
+  📅 Mon, 02 Nov 2026 19:45:54 +0000
 
-- **[OpenAI might rebrand its data centers as ‘AI compute campuses’](https://techcrunch.com/2026/11/01/openai-might-rebrand-its-data-centers-as-ai-compute-campuses/)**
-  *Data centers are deeply unpopular. But what if we called them something else?...*
-  📅 Sun, 01 Nov 2026 21:55:23 +0000
+- **[Web host Squarespace lays off 19% of its employees](https://techcrunch.com/2026/11/02/web-host-squarespace-lays-off-19-of-its-employees/)**
+  *The website builder said that the job losses are part of a broader restructuring of its organization....*
+  📅 Mon, 02 Nov 2026 19:25:59 +0000
 
 ### 📑 Dev.to
 
-- **[comm -23 Said Nine Camera Clips Were Missing From the Backup. Two Were.](https://dev.to/superfunicular/comm-23-said-nine-camera-clips-were-missing-from-the-backup-two-were-5443)**
-  *<p>I set up a test folder of camera clips and a backup folder with two of them missing, then ran the line a nightly backup check usually rests on, the one that prints what is in one list and not the o...*
-  📅 Mon, 02 Nov 2026 14:07:49 +0000
+- **[A month of daily job-ad counts from Praca pl: the weekly rhythm, and pay transparency inching up](https://dev.to/listingworks/a-month-of-daily-job-ad-counts-from-praca-pl-the-weekly-rhythm-and-pay-transparency-inching-up-o7h)**
+  *<p>Most job-market figures come out once a month. I have been counting the live ads on Praca pl, one of Poland's national job boards, every morning since 2 October, from its public list pages. With a ...*
+  📅 Tue, 03 Nov 2026 00:02:43 +0000
 
-- **[The 6 best AI-native email marketing tools in 2026 (and which ones AI agents can actually run)](https://dev.to/nikpolale/the-8-best-ai-native-email-marketing-tools-in-2026-and-which-ones-ai-agents-can-actually-run-hdf)**
-  *<p>Every email platform has "AI" now. Most of it is a subject-line generator bolted onto a 2015 product. That's useful, but it isn't what changed in the last year.</p>
+- **[AI Agents Burn More Cash The Longer They Work For You](https://dev.to/fathomnews/ai-agents-burn-more-cash-the-longer-they-work-for-you-oed)**
+  *<p>Tech companies are pushing AI agents that can do tasks step by step, but the more work they do, the more they can cost, slow down, and go wrong.</p>
 
-<p>What changed is that a few p...*
-  📅 Mon, 02 Nov 2026 14:07:00 +0000
+<p>TL;DR</p>
+
+<ul>
+<li><em>AI agents are AI sys...*
+  📅 Tue, 03 Nov 2026 00:02:18 +0000
 
 </details>
 
@@ -119,103 +119,103 @@
 
 ### 📈 Daily Trending
 
-- **[AssassinCreator/steam-stash-value-report-card](https://github.com/AssassinCreator/steam-stash-value-report-card)** ⭐ 479
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  Value your Steam stash in the terminal and print it as a share card: per game, per market, what sold and what sits. One Windows portable build, no account.
-
-- **[wideeyededi/uncensored-nsfw-ai-video-api](https://github.com/wideeyededi/uncensored-nsfw-ai-video-api)** ⭐ 415
+- **[GseConnect/Oficina-GSE-OS-e-estoque](https://github.com/GseConnect/Oficina-GSE-OS-e-estoque)** ⭐ 1
   ![None](https://img.shields.io/badge/-None-lightgrey)
-  Uncensored NSFW AI video API — Seedance Spicy & Wan NSFW docs for 18+ text-to-video / image-to-video: async tasks, webhooks, credits billing. 成人向 AI 视频生成 API：Seedance Spicy、Wan NSFW、文生/图生视频、异步任务、积分计费、接入指南。
+  None
 
-- **[maxwilsoneng2098t9/pdf-compressor-offline](https://github.com/maxwilsoneng2098t9/pdf-compressor-offline)** ⭐ 300
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  Offline PDF compressor for Windows 2026. Reduce PDF file size up to 90% with minimal quality loss. Supports batch mode, drag & drop and works without internet connection.
+- **[xgo-dev/demo](https://github.com/xgo-dev/demo)** ⭐ 1
+  ![Go](https://img.shields.io/badge/-Go-cyan)
+  LLGo Demo
 
-- **[davidlopez-x05x8/minecraft-aim-assist](https://github.com/davidlopez-x05x8/minecraft-aim-assist)** ⭐ 300
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  Minecraft Aim Assist 2026 — Smooth aiming assistance for 1.21.4 Fabric. Adaptive tracking, customizable FOV, visibility check and clean UI. Easy install, regularly updated
+- **[Dorifor/godot_playground](https://github.com/Dorifor/godot_playground)** ⭐ 1
+  ![GDScript](https://img.shields.io/badge/-GDScript-lightgrey)
+  Godot Playground to test features for some projects
 
-- **[justrach/nanolight](https://github.com/justrach/nanolight)** ⭐ 124
-  ![Zig](https://img.shields.io/badge/-Zig-lightgrey)
-  A ⌘Space launcher for the Mac, drawn by nanoui: apps, math, Google suggestions with results in the panel, Grok and X
-
-- **[PulseIceDominate/foneazy-mobile](https://github.com/PulseIceDominate/foneazy-mobile)** ⭐ 104
+- **[zandrebrooks67-oss/rust-mobile](https://github.com/zandrebrooks67-oss/rust-mobile)** ⭐ 1
   ![None](https://img.shields.io/badge/-None-lightgrey)
-  Complete standalone setup for Foneazy Mobile 2026, ready-to-run with all features activated.
+  None
 
-- **[Petakorecord/samfw-tool](https://github.com/Petakorecord/samfw-tool)** ⭐ 102
+- **[valeriykartsov/flowecta](https://github.com/valeriykartsov/flowecta)** ⭐ 0
   ![None](https://img.shields.io/badge/-None-lightgrey)
-  Samfw Tool 2026: Complete standalone setup with all features pre-activated, ready to run on your desktop.
+  pet, productivity
 
-- **[SavageCleric/lossless-scaling](https://github.com/SavageCleric/lossless-scaling)** ⭐ 102
+- **[cris7886/trazabilidad-metodos-lab](https://github.com/cris7886/trazabilidad-metodos-lab)** ⭐ 0
   ![None](https://img.shields.io/badge/-None-lightgrey)
-  Lossless Scaling Utility 2026: Full working installer for professional desktop software, ensuring flawless image resizing without quality loss.
+  None
+
+- **[alberto210495/qa-matricula](https://github.com/alberto210495/qa-matricula)** ⭐ 0
+  ![None](https://img.shields.io/badge/-None-lightgrey)
+  None
+
+- **[reformerscityprotocol/Reformers-City-Protocol-](https://github.com/reformerscityprotocol/Reformers-City-Protocol-)** ⭐ 0
+  ![None](https://img.shields.io/badge/-None-lightgrey)
+  Reformers City Protocol site
 
 ### 📈 Weekly Trending
 
-- **[deepseek-ai/dsh-superagent-prototype](https://github.com/deepseek-ai/dsh-superagent-prototype)** ⭐ 11,740
+- **[deepseek-ai/dsh-superagent-prototype](https://github.com/deepseek-ai/dsh-superagent-prototype)** ⭐ 13,086
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   Towards a More Autonomous Agent System
 
-- **[heydamir/unslop](https://github.com/heydamir/unslop)** ⭐ 5,627
+- **[heydamir/unslop](https://github.com/heydamir/unslop)** ⭐ 6,245
   ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
   A Claude skill that turns vibecoded, AI-looking UI into a designed interface
 
-- **[anhao/ai-pose-gallery-zh](https://github.com/anhao/ai-pose-gallery-zh)** ⭐ 5,433
-  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
-  中文版 AI 姿势参考图库 · 1439 组 / 2878 张图片 / 完整汉化 · 零依赖静态画廊
-
-- **[wangzan101/Mika](https://github.com/wangzan101/Mika)** ⭐ 4,980
+- **[wangzan101/Mika](https://github.com/wangzan101/Mika)** ⭐ 5,270
   ![Kotlin](https://img.shields.io/badge/-Kotlin-lightgrey)
   An on-device AI agent for Android that operates apps and the web to get things done for you.
 
-- **[valentderah/totk-pc-recomp](https://github.com/valentderah/totk-pc-recomp)** ⭐ 3,683
-  ![C](https://img.shields.io/badge/-C-lightgrey)
-  Static recompilation of The Legend of Zelda: Tears of the Kingdom to native Windows x86-64, with a Vulkan renderer. Game files not included.
-
-- **[patch-gg/pixelfx](https://github.com/patch-gg/pixelfx)** ⭐ 3,255
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
-  244 pixel art effects, every one a small piece of code. Plus a Claude Code skill to make your own.
-
-- **[storytold/craft-anything](https://github.com/storytold/craft-anything)** ⭐ 2,651
+- **[storytold/craft-anything](https://github.com/storytold/craft-anything)** ⭐ 4,094
   ![Rust](https://img.shields.io/badge/-Rust-brown)
   Craft Anything: understand how any software works, and craft your own.
 
-- **[Djihads80/Eglantine](https://github.com/Djihads80/Eglantine)** ⭐ 2,260
+- **[valentderah/totk-pc-recomp](https://github.com/valentderah/totk-pc-recomp)** ⭐ 3,979
+  ![C](https://img.shields.io/badge/-C-lightgrey)
+  Static recompilation of The Legend of Zelda: Tears of the Kingdom to native Windows and Linux x86-64, with a Vulkan renderer. Game files not included.
+
+- **[patch-gg/pixelfx](https://github.com/patch-gg/pixelfx)** ⭐ 3,485
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
+  244 pixel art effects, every one a small piece of code. Plus a Claude Code skill to make your own.
+
+- **[Djihads80/Eglantine](https://github.com/Djihads80/Eglantine)** ⭐ 2,483
   ![C++](https://img.shields.io/badge/-C++-pink)
   VERY experimental Nintendo Switch 2 emulator
 
+- **[paipiange/nvzhuang](https://github.com/paipiange/nvzhuang)** ⭐ 2,042
+  ![Go](https://img.shields.io/badge/-Go-cyan)
+  1407 张 AI 女装参考图集与虚拟试穿网站，支持中英检索、OpenAI Images / Gemini / 豆包及自定义 Base URL、API Key、模型。https://github.com/paipiange/nvzhuang
+
 ### 📈 Monthly Trending
 
-- **[Gathin23/cleanyourtv](https://github.com/Gathin23/cleanyourtv)** ⭐ 49,899
+- **[Gathin23/cleanyourtv](https://github.com/Gathin23/cleanyourtv)** ⭐ 50,411
   ![Python](https://img.shields.io/badge/-Python-blue)
   Debloat any Android or Google TV over Wi-Fi and get an Apple TV-style home.
 
-- **[deepseek-ai/DeepInfer](https://github.com/deepseek-ai/DeepInfer)** ⭐ 24,987
+- **[deepseek-ai/DeepInfer](https://github.com/deepseek-ai/DeepInfer)** ⭐ 25,026
   ![Python](https://img.shields.io/badge/-Python-blue)
   DeepInfer: High-performance, large-scale inference framework for DeepSeek models
 
-- **[wheresryan22/anatomy](https://github.com/wheresryan22/anatomy)** ⭐ 24,012
+- **[wheresryan22/anatomy](https://github.com/wheresryan22/anatomy)** ⭐ 24,108
   ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
   An agent skill for creating detailed, interactive isometric illustrations of real-world machines and complex systems. Generates polished SVGs with optional WebGL shaders and 3D effects.
 
-- **[google-research/harness2](https://github.com/google-research/harness2)** ⭐ 22,036
+- **[google-research/harness2](https://github.com/google-research/harness2)** ⭐ 22,106
   ![Python](https://img.shields.io/badge/-Python-blue)
   None
 
-- **[openai/math](https://github.com/openai/math)** ⭐ 17,269
+- **[openai/math](https://github.com/openai/math)** ⭐ 17,272
   ![Lean](https://img.shields.io/badge/-Lean-lightgrey)
   None
 
-- **[storytold/wordcraft](https://github.com/storytold/wordcraft)** ⭐ 17,005
+- **[storytold/wordcraft](https://github.com/storytold/wordcraft)** ⭐ 17,071
   ![Rust](https://img.shields.io/badge/-Rust-brown)
   An open-source, clean-room reimplementation of Microsoft Word in pure Rust
 
-- **[Zagitta/gpu-unlock](https://github.com/Zagitta/gpu-unlock)** ⭐ 14,347
+- **[Zagitta/gpu-unlock](https://github.com/Zagitta/gpu-unlock)** ⭐ 14,639
   ![C](https://img.shields.io/badge/-C-lightgrey)
   Your GeForce runs AI at half speed. This fixes it for 20/30/40 series cards. Up to 2× FP16 / BF16 / TF32 tensor throughput
 
-- **[tangency-labs/solidcraft](https://github.com/tangency-labs/solidcraft)** ⭐ 13,070
+- **[tangency-labs/solidcraft](https://github.com/tangency-labs/solidcraft)** ⭐ 13,179
   ![Rust](https://img.shields.io/badge/-Rust-brown)
   SolidCraft: an open-source parametric 3D CAD application built in pure Rust. Desktop, web, and automation through MCP.
 
@@ -319,16 +319,13 @@ See [kubernetes-announce@](https://groups.google.com/forum/#!forum/kubernetes-an
 
 ### 📦 docker/compose
 
-**[v5.6.1](https://github.com/docker/compose/releases/tag/v5.6.1)** `v5.6.1`
+**[v5.7.0](https://github.com/docker/compose/releases/tag/v5.7.0)** `v5.7.0`
 
-📅 Released: October 21, 2026
+📅 Released: November 02, 2026
 
-update to go1.26.10
-These releases include 1 security fix following the security policy:
+## What's Changed
 
-- crypto/x509: mitigation for security concerns with a specific Certificate Authority
-
-  We're blocking t...
+> ℹ️ **Heads-up for users of Compose as a library:** `Up` now runs its Create and Start phases as **a single plan over a single daemon snapshot**, for `up -d` ([#14290](https://gi...
 
 ---
 
@@ -486,57 +483,57 @@ the end of April 202...
 |-------|--------|
 | Java | 🟡 Learning |
 | Python | 🔴 Beginner |
-| JavaScript | ⚪ Planned |
-| TypeScript | 🟡 Learning |
-| Go | 🟡 Learning |
+| JavaScript | 🟡 Learning |
+| TypeScript | ⚪ Planned |
+| Go | 🔴 Beginner |
 
 ### Frameworks
 
 | Skill | Status |
 |-------|--------|
 | React | ⚪ Planned |
-| Spring Boot | ⚪ Planned |
+| Spring Boot | 🟢 Proficient |
 | Django | 🟡 Learning |
-| Node.js | ⚪ Planned |
+| Node.js | 🔴 Beginner |
 | Next.js | 🟡 Learning |
 
 ### Cybersecurity
 
 | Skill | Status |
 |-------|--------|
-| Penetration Testing | ⚪ Planned |
-| Web Security | 🟢 Proficient |
-| Network Security | 🔴 Beginner |
-| OWASP | 🟡 Learning |
+| Penetration Testing | 🟢 Proficient |
+| Web Security | ⚪ Planned |
+| Network Security | 🟢 Proficient |
+| OWASP | 🔴 Beginner |
 
 ### Ai Ml
 
 | Skill | Status |
 |-------|--------|
-| Machine Learning | ⚪ Planned |
-| Deep Learning | 🔴 Beginner |
-| NLP | 🟢 Proficient |
-| Computer Vision | 🔴 Beginner |
+| Machine Learning | 🟡 Learning |
+| Deep Learning | ⚪ Planned |
+| NLP | 🟡 Learning |
+| Computer Vision | 🟢 Proficient |
 | TensorFlow | ⚪ Planned |
-| PyTorch | 🟡 Learning |
+| PyTorch | 🔴 Beginner |
 
 ### Devops
 
 | Skill | Status |
 |-------|--------|
-| Docker | ⚪ Planned |
+| Docker | 🟡 Learning |
 | Kubernetes | ⚪ Planned |
-| CI/CD | 🔴 Beginner |
-| AWS | 🟡 Learning |
-| Azure | ⚪ Planned |
+| CI/CD | 🟡 Learning |
+| AWS | ⚪ Planned |
+| Azure | 🟡 Learning |
 
 ### Other
 
 | Skill | Status |
 |-------|--------|
-| Blockchain | ⚪ Planned |
+| Blockchain | 🔴 Beginner |
 | Web3 | 🟢 Proficient |
-| Cloud Computing | 🟢 Proficient |
+| Cloud Computing | ⚪ Planned |
 
 </details>
 
@@ -554,7 +551,7 @@ This dashboard is automatically updated every 6 hours using GitHub Actions. The 
 
 <div align="center">
 
-**Last Updated:** November 02, 2026
+**Last Updated:** November 03, 2026
 
 Made with ❤️ and automated with GitHub Actions
 
