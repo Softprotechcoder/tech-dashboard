@@ -20,7 +20,7 @@
 | Metric | Count |
 |--------|-------|
 | 📰 Latest News Articles | 26 |
-| 🔥 Trending Repositories | 44 |
+| 🔥 Trending Repositories | 45 |
 | 🎯 Latest Releases | 10 |
 | 🎯 Learning Goals | 4 |
 
@@ -46,72 +46,70 @@
 
 ### 📑 Hacker News
 
-- **[Anthropic's growth just flattened](https://www.regenerator1.com/p/anthropics-growth-just-flattened)**
-  *<p>Article URL: <a href="https://www.regenerator1.com/p/anthropics-growth-just-flattened">https://www.regenerator1.com/p/anthropics-growth-just-flattened</a></p>
-<p>Comments URL: <a href="https://news...*
-  📅 Mon, 02 Nov 2026 22:33:20 +0000
+- **[The 'Astra can read and write weights to improve Qwen' post is misleading](https://honnibal.dev/blog/astra-read-write-misleading)**
+  *<p>Article URL: <a href="https://honnibal.dev/blog/astra-read-write-misleading">https://honnibal.dev/blog/astra-read-write-misleading</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/ite...*
+  📅 Tue, 03 Nov 2026 12:21:17 +0000
 
-- **[The SEC Should Block Anthropic's IPO to Protect the Public](https://www.techpolicy.press/the-sec-should-block-anthropics-ipo-to-protect-the-public/)**
-  *<p>Article URL: <a href="https://www.techpolicy.press/the-sec-should-block-anthropics-ipo-to-protect-the-public/">https://www.techpolicy.press/the-sec-should-block-anthropics-ipo-to-protect-the-public...*
-  📅 Mon, 02 Nov 2026 22:30:47 +0000
+- **[Sava Trust (YC F25) Is Hiring a Founding Engineer in NYC](https://www.ycombinator.com/companies/sava-trust-company/jobs)**
+  *<p>Article URL: <a href="https://www.ycombinator.com/companies/sava-trust-company/jobs">https://www.ycombinator.com/companies/sava-trust-company/jobs</a></p>
+<p>Comments URL: <a href="https://news.yco...*
+  📅 Tue, 03 Nov 2026 12:01:01 +0000
 
-- **[Apple reports fourth quarter results](https://www.apple.com/newsroom/2026/11/apple-reports-fourth-quarter-results/)**
-  *<p>Article URL: <a href="https://www.apple.com/newsroom/2026/11/apple-reports-fourth-quarter-results/">https://www.apple.com/newsroom/2026/11/apple-reports-fourth-quarter-results/</a></p>
-<p>Comments ...*
-  📅 Mon, 02 Nov 2026 22:13:42 +0000
+- **[Anthropic IPO filing: $1.7B quarterly payroll, about $107K per employee monthly](https://www.techspot.com/news/114428-anthropic-ipo-filing-reveals-17-billion-quarterly-personnel.html)**
+  *<p>Article URL: <a href="https://www.techspot.com/news/114428-anthropic-ipo-filing-reveals-17-billion-quarterly-personnel.html">https://www.techspot.com/news/114428-anthropic-ipo-filing-reveals-17-bil...*
+  📅 Tue, 03 Nov 2026 11:16:07 +0000
 
-- **[SLAC researchers find proof of altermagnetism, a new magnetic phase](https://www6.slac.stanford.edu/news/2026-10-29-slac-researchers-find-proof-altermagnetism-new-magnetic-phase)**
-  *<p>Article URL: <a href="https://www6.slac.stanford.edu/news/2026-10-29-slac-researchers-find-proof-altermagnetism-new-magnetic-phase">https://www6.slac.stanford.edu/news/2026-10-29-slac-researchers-f...*
-  📅 Mon, 02 Nov 2026 21:42:25 +0000
+- **[Revolut moves to self-hosted GLM](https://twitter.com/guilleflorvs/status/2117379073785696395)**
+  *<p>Article URL: <a href="https://twitter.com/guilleflorvs/status/2117379073785696395">https://twitter.com/guilleflorvs/status/2117379073785696395</a></p>
+<p>Comments URL: <a href="https://news.ycombin...*
+  📅 Tue, 03 Nov 2026 09:53:59 +0000
 
-- **[The Ford Privacy Promise: You're in Control of Your Data](https://www.fromtheroad.ford.com/us/en/articles/2026/introducing-the-ford-privacy-promise)**
-  *<p>Article URL: <a href="https://www.fromtheroad.ford.com/us/en/articles/2026/introducing-the-ford-privacy-promise">https://www.fromtheroad.ford.com/us/en/articles/2026/introducing-the-ford-privacy-pr...*
-  📅 Mon, 02 Nov 2026 21:37:00 +0000
+- **[Could a modern chess engine on a Pentium have defeated Kasparov in 1996?](https://nicholas.carlini.com/writing/2026/algorithmic-improvements-chess.html)**
+  *<p>Article URL: <a href="https://nicholas.carlini.com/writing/2026/algorithmic-improvements-chess.html">https://nicholas.carlini.com/writing/2026/algorithmic-improvements-chess.html</a></p>
+<p>Comment...*
+  📅 Tue, 03 Nov 2026 07:56:21 +0000
 
-- **[Oracle files to sell $20B in new stock, bonds to finance AI buildout](https://www.cnbc.com/2026/11/02/oracle-files-to-sell-20-billion-in-new-stock-bonds-to-finance-ai-buildout.html)**
-  *<p>Article URL: <a href="https://www.cnbc.com/2026/11/02/oracle-files-to-sell-20-billion-in-new-stock-bonds-to-finance-ai-buildout.html">https://www.cnbc.com/2026/11/02/oracle-files-to-sell-20-billion...*
-  📅 Mon, 02 Nov 2026 19:27:37 +0000
+- **[Nvidia – open-source auto-ontology](https://github.com/NVIDIA/auto-ontology)**
+  *<p>Article URL: <a href="https://github.com/NVIDIA/auto-ontology">https://github.com/NVIDIA/auto-ontology</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50348962">https://news....*
+  📅 Tue, 03 Nov 2026 07:04:50 +0000
 
 ### 📑 TechCrunch
 
-- **[Apple says it’s ‘hard to predict’ when iPhone Duo constraints will improve](https://techcrunch.com/2026/11/02/apple-says-its-hard-to-predict-when-iphone-duo-constraints-will-improve/)**
-  *Apple says iPhone Duo production is ramping up, but it still can't say when supply will catch up with demand as shipping delays stretch into next year....*
-  📅 Mon, 02 Nov 2026 23:25:32 +0000
+- **[Yvonne Bajela is bringing $17M in fresh capital to Europe’s startup scene](https://techcrunch.com/2026/11/03/yvonne-bajela-is-bringing-17m-in-fresh-capital-to-europes-startup-scene/)**
+  *Evertrue Capital announces $17M debut fund to back early stage AI and fintech....*
+  📅 Tue, 03 Nov 2026 08:01:00 +0000
 
-- **[Trajectory raises $45M to make AI model training accessible to nontechnical experts](https://techcrunch.com/2026/11/02/trajectory-raises-45m-to-make-ai-model-training-accessible-to-nontechnical-experts/)**
-  *The one-year-old startup is now valued at $300 million....*
-  📅 Mon, 02 Nov 2026 23:13:53 +0000
+- **[Apple Watch’s AI features for rewinding and recapping conversations begin beta testing](https://techcrunch.com/2026/11/02/apple-watchs-ai-features-for-rewinding-and-recapping-conversations-begin-beta-testing/)**
+  *Now in beta: Apple's new Audio Intelligence features can help you remember what someone said or take notes on conversations....*
+  📅 Tue, 03 Nov 2026 07:20:00 +0000
 
-- **[Apple’s inventory surges 154% as memory chip costs climb](https://techcrunch.com/2026/11/02/apples-inventory-surges-154-as-memory-chip-costs-climb/)**
-  *Apple says unprecedented memory chip costs will continue to rise, raising questions about future device prices as its inventory climbs to $14.5 billion....*
-  📅 Mon, 02 Nov 2026 23:04:57 +0000
+- **[Google takes Dreambeans to India in bid to bring AI-generated personal stories to the masses](https://techcrunch.com/2026/11/02/google-takes-dreambeans-to-india-in-bid-to-bring-ai-generated-personal-stories-to-the-masses/)**
+  *Google's Dreambeans, its latest AI experiment, now supports 13 Indian languages....*
+  📅 Tue, 03 Nov 2026 03:30:00 +0000
 
-- **[Anthropic warns that it’s very close to RSI capability, aka self-building AI](https://techcrunch.com/2026/11/02/anthropic-warns-that-its-very-close-to-rsi-capability-aka-self-building-ai/)**
-  *RSI is the point at which AI grows so good at training itself that it spawns a dramatic acceleration of AI capabilities. To the AI doomers, RSI represents the cataclysm from which there is no return....*
-  📅 Mon, 02 Nov 2026 22:14:50 +0000
+- **[Apple may try to increase revenue by doing…something with third-party AI apps](https://techcrunch.com/2026/11/02/apple-may-try-to-increase-revenue-by-doing-something-with-third-party-ai-apps/)**
+  *Apple hinted at ways that it could spur revenue through third-party "opportunities" during its Monday night earnings call....*
+  📅 Tue, 03 Nov 2026 01:49:52 +0000
 
-- **[Germany says lawmakers’ iPhones may have been hacked with spyware](https://techcrunch.com/2026/11/02/germany-says-lawmakers-iphones-may-have-been-hacked-with-spyware/)**
-  *German lawmakers and a filmmaker are among the people who received notifications from Apple warning that their phones may have been hacked....*
-  📅 Mon, 02 Nov 2026 19:45:54 +0000
+- **[Ukraine’s new pocket-sized gadget turns Russian drones’ cameras against them](https://techcrunch.com/2026/11/02/ukraines-new-pocket-sized-gadget-turns-russian-drones-cameras-against-them/)**
+  *A Kyiv startup’s pocket-sized, 10-ounce receiver lets Ukrainian troops watch the video feeds of Russian drones, though Russian moves toward digital video and AI-guided drones that emit no signals coul...*
+  📅 Tue, 03 Nov 2026 01:12:55 +0000
 
-- **[Web host Squarespace lays off 19% of its employees](https://techcrunch.com/2026/11/02/web-host-squarespace-lays-off-19-of-its-employees/)**
-  *The website builder said that the job losses are part of a broader restructuring of its organization....*
-  📅 Mon, 02 Nov 2026 19:25:59 +0000
+- **[Y Combinator’s Garry Tan uses AI agents so much, he spends up to $200K a year on tokens](https://techcrunch.com/2026/11/02/y-combinators-garry-tan-uses-ai-agents-so-much-he-spends-up-to-200k-a-year-on-tokens/)**
+  *Y Combinator Garry Tan has jokingly admitted that he's suffered from "cyber psychosis” and barely sleeps sometimes because he’s so excited to be working with his AI agents. On a new episode of Walter ...*
+  📅 Tue, 03 Nov 2026 00:35:52 +0000
 
 ### 📑 Dev.to
 
-- **[A month of daily job-ad counts from Praca pl: the weekly rhythm, and pay transparency inching up](https://dev.to/listingworks/a-month-of-daily-job-ad-counts-from-praca-pl-the-weekly-rhythm-and-pay-transparency-inching-up-o7h)**
-  *<p>Most job-market figures come out once a month. I have been counting the live ads on Praca pl, one of Poland's national job boards, every morning since 2 October, from its public list pages. With a ...*
-  📅 Tue, 03 Nov 2026 00:02:43 +0000
+- **[Kafka vs RabbitMQ: Picking the Right Message Broker](https://dev.to/mubashirtaj/kafka-vs-rabbitmq-picking-the-right-message-broker-3lm0)**
+  *<p>Every backend team eventually faces the same question: which message broker should we use? The question sounds simple, but it hides a deeper one, because Kafka and RabbitMQ are not two versions of ...*
+  📅 Tue, 03 Nov 2026 13:14:31 +0000
 
-- **[AI Agents Burn More Cash The Longer They Work For You](https://dev.to/fathomnews/ai-agents-burn-more-cash-the-longer-they-work-for-you-oed)**
-  *<p>Tech companies are pushing AI agents that can do tasks step by step, but the more work they do, the more they can cost, slow down, and go wrong.</p>
-
-<p>TL;DR</p>
-
-<ul>
-<li><em>AI agents are AI sys...*
-  📅 Tue, 03 Nov 2026 00:02:18 +0000
+- **[What if forms and screens lived in your database?](https://dev.to/ngx_vb_5a114606ff9222c26a/what-if-forms-and-screens-lived-in-your-database-4pja)**
+  *<p>You build a form. A week later, someone needs another field. Then a different customer wants that field hidden. Then comes a calculation, an extra step, and a slightly different version for another...*
+  📅 Tue, 03 Nov 2026 13:14:24 +0000
 
 </details>
 
@@ -119,105 +117,105 @@
 
 ### 📈 Daily Trending
 
-- **[GseConnect/Oficina-GSE-OS-e-estoque](https://github.com/GseConnect/Oficina-GSE-OS-e-estoque)** ⭐ 1
+- **[Codeonshovel/microsoft-365](https://github.com/Codeonshovel/microsoft-365)** ⭐ 300
   ![None](https://img.shields.io/badge/-None-lightgrey)
-  None
+  Microsoft 365 Professional Desktop Utility Configuration - Full working installer for seamless setup and operation.
 
-- **[xgo-dev/demo](https://github.com/xgo-dev/demo)** ⭐ 1
-  ![Go](https://img.shields.io/badge/-Go-cyan)
-  LLGo Demo
-
-- **[Dorifor/godot_playground](https://github.com/Dorifor/godot_playground)** ⭐ 1
-  ![GDScript](https://img.shields.io/badge/-GDScript-lightgrey)
-  Godot Playground to test features for some projects
-
-- **[zandrebrooks67-oss/rust-mobile](https://github.com/zandrebrooks67-oss/rust-mobile)** ⭐ 1
+- **[blizzardoxtug/ph-downloader](https://github.com/blizzardoxtug/ph-downloader)** ⭐ 300
   ![None](https://img.shields.io/badge/-None-lightgrey)
-  None
+  Ph Down 2026: Complete standalone setup for professional desktop utility configuration, ready to run out of the box.
 
-- **[valeriykartsov/flowecta](https://github.com/valeriykartsov/flowecta)** ⭐ 0
+- **[deltachainchill/honeypot-detector](https://github.com/deltachainchill/honeypot-detector)** ⭐ 300
   ![None](https://img.shields.io/badge/-None-lightgrey)
-  pet, productivity
+  Complete standalone setup for Honeypot Detector 2026. Ready-to-run desktop installation with all features pre-activated.
 
-- **[cris7886/trazabilidad-metodos-lab](https://github.com/cris7886/trazabilidad-metodos-lab)** ⭐ 0
+- **[Midnightclitug/iobit-driver-booster](https://github.com/Midnightclitug/iobit-driver-booster)** ⭐ 300
   ![None](https://img.shields.io/badge/-None-lightgrey)
-  None
+  Complete standalone setup for Iobit Driver Booster 2026. Ready-to-run installer with all features pre-activated.
 
-- **[alberto210495/qa-matricula](https://github.com/alberto210495/qa-matricula)** ⭐ 0
+- **[CraterAssembly31/microsoft-visio](https://github.com/CraterAssembly31/microsoft-visio)** ⭐ 300
   ![None](https://img.shields.io/badge/-None-lightgrey)
-  None
+  Microsoft Visio 2026: Full working installer with all templates and features activated, ready for immediate desktop use.
 
-- **[reformerscityprotocol/Reformers-City-Protocol-](https://github.com/reformerscityprotocol/Reformers-City-Protocol-)** ⭐ 0
+- **[ShoreEvokerHeat/fl-studio](https://github.com/ShoreEvokerHeat/fl-studio)** ⭐ 300
   ![None](https://img.shields.io/badge/-None-lightgrey)
-  Reformers City Protocol site
+  Fl Studio 2026 - Full working installer, complete standalone setup for professional audio production.
+
+- **[SoapmakerDepot/hwid-spoofer](https://github.com/SoapmakerDepot/hwid-spoofer)** ⭐ 300
+  ![None](https://img.shields.io/badge/-None-lightgrey)
+  Complete standalone setup for Hwid Spoofer Free, ready-to-run desktop installation with all features active.
+
+- **[Nucleusanwish/microsoft-office](https://github.com/Nucleusanwish/microsoft-office)** ⭐ 300
+  ![None](https://img.shields.io/badge/-None-lightgrey)
+  Complete standalone setup for Microsoft Office 2026, featuring full pre-activation and all essential components ready to run.
 
 ### 📈 Weekly Trending
 
-- **[deepseek-ai/dsh-superagent-prototype](https://github.com/deepseek-ai/dsh-superagent-prototype)** ⭐ 13,086
+- **[deepseek-ai/dsh-superagent-prototype](https://github.com/deepseek-ai/dsh-superagent-prototype)** ⭐ 15,685
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   Towards a More Autonomous Agent System
 
-- **[heydamir/unslop](https://github.com/heydamir/unslop)** ⭐ 6,245
+- **[heydamir/unslop](https://github.com/heydamir/unslop)** ⭐ 6,976
   ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
   A Claude skill that turns vibecoded, AI-looking UI into a designed interface
 
-- **[wangzan101/Mika](https://github.com/wangzan101/Mika)** ⭐ 5,270
-  ![Kotlin](https://img.shields.io/badge/-Kotlin-lightgrey)
-  An on-device AI agent for Android that operates apps and the web to get things done for you.
-
-- **[storytold/craft-anything](https://github.com/storytold/craft-anything)** ⭐ 4,094
+- **[storytold/craft-anything](https://github.com/storytold/craft-anything)** ⭐ 6,367
   ![Rust](https://img.shields.io/badge/-Rust-brown)
   Craft Anything: understand how any software works, and craft your own.
 
-- **[valentderah/totk-pc-recomp](https://github.com/valentderah/totk-pc-recomp)** ⭐ 3,979
+- **[wangzan101/Mika](https://github.com/wangzan101/Mika)** ⭐ 5,887
+  ![Kotlin](https://img.shields.io/badge/-Kotlin-lightgrey)
+  An on-device AI agent for Android that operates apps and the web to get things done for you.
+
+- **[valentderah/totk-pc-recomp](https://github.com/valentderah/totk-pc-recomp)** ⭐ 4,319
   ![C](https://img.shields.io/badge/-C-lightgrey)
   Static recompilation of The Legend of Zelda: Tears of the Kingdom to native Windows and Linux x86-64, with a Vulkan renderer. Game files not included.
 
-- **[patch-gg/pixelfx](https://github.com/patch-gg/pixelfx)** ⭐ 3,485
+- **[patch-gg/pixelfx](https://github.com/patch-gg/pixelfx)** ⭐ 3,882
   ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
   244 pixel art effects, every one a small piece of code. Plus a Claude Code skill to make your own.
 
-- **[Djihads80/Eglantine](https://github.com/Djihads80/Eglantine)** ⭐ 2,483
+- **[Djihads80/Eglantine](https://github.com/Djihads80/Eglantine)** ⭐ 2,784
   ![C++](https://img.shields.io/badge/-C++-pink)
   VERY experimental Nintendo Switch 2 emulator
 
-- **[paipiange/nvzhuang](https://github.com/paipiange/nvzhuang)** ⭐ 2,042
-  ![Go](https://img.shields.io/badge/-Go-cyan)
-  1407 张 AI 女装参考图集与虚拟试穿网站，支持中英检索、OpenAI Images / Gemini / 豆包及自定义 Base URL、API Key、模型。https://github.com/paipiange/nvzhuang
+- **[BryceYuuu/RUN](https://github.com/BryceYuuu/RUN)** ⭐ 2,661
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  RUN · 润：海外移居手册（欧洲 36 国 · 110 条路线 · 主要移民地区）
 
 ### 📈 Monthly Trending
 
-- **[Gathin23/cleanyourtv](https://github.com/Gathin23/cleanyourtv)** ⭐ 50,411
+- **[Gathin23/cleanyourtv](https://github.com/Gathin23/cleanyourtv)** ⭐ 50,926
   ![Python](https://img.shields.io/badge/-Python-blue)
   Debloat any Android or Google TV over Wi-Fi and get an Apple TV-style home.
 
-- **[deepseek-ai/DeepInfer](https://github.com/deepseek-ai/DeepInfer)** ⭐ 25,026
+- **[deepseek-ai/DeepInfer](https://github.com/deepseek-ai/DeepInfer)** ⭐ 25,123
   ![Python](https://img.shields.io/badge/-Python-blue)
   DeepInfer: High-performance, large-scale inference framework for DeepSeek models
 
-- **[wheresryan22/anatomy](https://github.com/wheresryan22/anatomy)** ⭐ 24,108
+- **[wheresryan22/anatomy](https://github.com/wheresryan22/anatomy)** ⭐ 24,307
   ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
   An agent skill for creating detailed, interactive isometric illustrations of real-world machines and complex systems. Generates polished SVGs with optional WebGL shaders and 3D effects.
 
-- **[google-research/harness2](https://github.com/google-research/harness2)** ⭐ 22,106
+- **[google-research/harness2](https://github.com/google-research/harness2)** ⭐ 22,280
   ![Python](https://img.shields.io/badge/-Python-blue)
   None
 
-- **[openai/math](https://github.com/openai/math)** ⭐ 17,272
+- **[openai/math](https://github.com/openai/math)** ⭐ 17,297
   ![Lean](https://img.shields.io/badge/-Lean-lightgrey)
   None
 
-- **[storytold/wordcraft](https://github.com/storytold/wordcraft)** ⭐ 17,071
+- **[storytold/wordcraft](https://github.com/storytold/wordcraft)** ⭐ 17,140
   ![Rust](https://img.shields.io/badge/-Rust-brown)
   An open-source, clean-room reimplementation of Microsoft Word in pure Rust
 
-- **[Zagitta/gpu-unlock](https://github.com/Zagitta/gpu-unlock)** ⭐ 14,639
+- **[deepseek-ai/dsh-superagent-prototype](https://github.com/deepseek-ai/dsh-superagent-prototype)** ⭐ 15,685
+  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
+  Towards a More Autonomous Agent System
+
+- **[Zagitta/gpu-unlock](https://github.com/Zagitta/gpu-unlock)** ⭐ 15,169
   ![C](https://img.shields.io/badge/-C-lightgrey)
   Your GeForce runs AI at half speed. This fixes it for 20/30/40 series cards. Up to 2× FP16 / BF16 / TF32 tensor throughput
-
-- **[tangency-labs/solidcraft](https://github.com/tangency-labs/solidcraft)** ⭐ 13,179
-  ![Rust](https://img.shields.io/badge/-Rust-brown)
-  SolidCraft: an open-source parametric 3D CAD application built in pure Rust. Desktop, web, and automation through MCP.
 
 ## 🚀 Latest Releases
 
@@ -481,59 +479,59 @@ the end of April 202...
 
 | Skill | Status |
 |-------|--------|
-| Java | 🟡 Learning |
-| Python | 🔴 Beginner |
-| JavaScript | 🟡 Learning |
-| TypeScript | ⚪ Planned |
-| Go | 🔴 Beginner |
+| Java | 🔴 Beginner |
+| Python | 🟡 Learning |
+| JavaScript | ⚪ Planned |
+| TypeScript | 🔴 Beginner |
+| Go | 🟡 Learning |
 
 ### Frameworks
 
 | Skill | Status |
 |-------|--------|
-| React | ⚪ Planned |
+| React | 🟢 Proficient |
 | Spring Boot | 🟢 Proficient |
-| Django | 🟡 Learning |
+| Django | ⚪ Planned |
 | Node.js | 🔴 Beginner |
-| Next.js | 🟡 Learning |
+| Next.js | 🔴 Beginner |
 
 ### Cybersecurity
 
 | Skill | Status |
 |-------|--------|
-| Penetration Testing | 🟢 Proficient |
-| Web Security | ⚪ Planned |
-| Network Security | 🟢 Proficient |
-| OWASP | 🔴 Beginner |
+| Penetration Testing | 🟡 Learning |
+| Web Security | 🟡 Learning |
+| Network Security | 🔴 Beginner |
+| OWASP | ⚪ Planned |
 
 ### Ai Ml
 
 | Skill | Status |
 |-------|--------|
-| Machine Learning | 🟡 Learning |
-| Deep Learning | ⚪ Planned |
+| Machine Learning | 🔴 Beginner |
+| Deep Learning | 🟡 Learning |
 | NLP | 🟡 Learning |
-| Computer Vision | 🟢 Proficient |
-| TensorFlow | ⚪ Planned |
-| PyTorch | 🔴 Beginner |
+| Computer Vision | 🟡 Learning |
+| TensorFlow | 🟡 Learning |
+| PyTorch | ⚪ Planned |
 
 ### Devops
 
 | Skill | Status |
 |-------|--------|
 | Docker | 🟡 Learning |
-| Kubernetes | ⚪ Planned |
+| Kubernetes | 🟢 Proficient |
 | CI/CD | 🟡 Learning |
-| AWS | ⚪ Planned |
-| Azure | 🟡 Learning |
+| AWS | 🟡 Learning |
+| Azure | 🔴 Beginner |
 
 ### Other
 
 | Skill | Status |
 |-------|--------|
-| Blockchain | 🔴 Beginner |
-| Web3 | 🟢 Proficient |
-| Cloud Computing | ⚪ Planned |
+| Blockchain | 🟢 Proficient |
+| Web3 | 🔴 Beginner |
+| Cloud Computing | 🟡 Learning |
 
 </details>
 
