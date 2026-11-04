@@ -46,73 +46,81 @@
 
 ### 📑 Hacker News
 
-- **[Debian apt security update: man-in-the-middle arbitrary code execution](https://lists.debian.org/debian-security-announce/2026/msg00526.html)**
-  *<p>Article URL: <a href="https://lists.debian.org/debian-security-announce/2026/msg00526.html">https://lists.debian.org/debian-security-announce/2026/msg00526.html</a></p>
-<p>Comments URL: <a href="ht...*
-  📅 Wed, 04 Nov 2026 12:46:58 +0000
+- **[Ask HN: What your experience with the monthly "who wants to be hired" thread?](https://news.ycombinator.com/item?id=50372294)**
+  *<p>I recently commented on the "who wants to be hired" this month and so far have only received spam. Has anyone had any success with this, or is it just a way to subscribe to junk mail and automated ...*
+  📅 Wed, 04 Nov 2026 22:18:21 +0000
 
-- **[A map of 5000+ midterm ads](https://admap.org/)**
-  *<p>Article URL: <a href="https://admap.org/">https://admap.org/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50364561">https://news.ycombinator.com/item?id=50364561</a></p>
-<...*
-  📅 Wed, 04 Nov 2026 12:18:35 +0000
+- **[Hacking the Xbox 360 Hypervisor Part 3: Bad Update Improvements](https://icode4.coffee/?p=1746)**
+  *<p>Article URL: <a href="https://icode4.coffee/?p=1746">https://icode4.coffee/?p=1746</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50372164">https://news.ycombinator.com/item...*
+  📅 Wed, 04 Nov 2026 22:01:49 +0000
 
-- **[Hackers hit French national blood bank](https://www.telegraph.co.uk/world-news/2026/11/04/hackers-hit-french-blood-bank/)**
-  *<p>Article URL: <a href="https://www.telegraph.co.uk/world-news/2026/11/04/hackers-hit-french-blood-bank/">https://www.telegraph.co.uk/world-news/2026/11/04/hackers-hit-french-blood-bank/</a></p>
-<p>C...*
-  📅 Wed, 04 Nov 2026 12:08:35 +0000
-
-- **[AI is forcing us to pay off 40 years of technical debt](https://spectrum.ieee.org/ai-in-cybersecurity-php2shell-vulnerability)**
-  *<p>Article URL: <a href="https://spectrum.ieee.org/ai-in-cybersecurity-php2shell-vulnerability">https://spectrum.ieee.org/ai-in-cybersecurity-php2shell-vulnerability</a></p>
+- **[Everything is an AI scam now](https://www.davidralphlewis.co.uk/posts/everything-is-an-ai-scam-now/)**
+  *<p>Article URL: <a href="https://www.davidralphlewis.co.uk/posts/everything-is-an-ai-scam-now/">https://www.davidralphlewis.co.uk/posts/everything-is-an-ai-scam-now/</a></p>
 <p>Comments URL: <a href="...*
-  📅 Wed, 04 Nov 2026 11:52:17 +0000
+  📅 Wed, 04 Nov 2026 21:05:19 +0000
 
-- **[Synaptics Appears to Use Legal Threats to Block Open-Source DisplayLink Driver](https://www.phoronix.com/news/Synaptics-Blocks-Vino-Driver)**
-  *<p>Article URL: <a href="https://www.phoronix.com/news/Synaptics-Blocks-Vino-Driver">https://www.phoronix.com/news/Synaptics-Blocks-Vino-Driver</a></p>
-<p>Comments URL: <a href="https://news.ycombinat...*
-  📅 Wed, 04 Nov 2026 11:14:12 +0000
+- **[If you're on Replit Pro, you have until November 8 to opt out of arbitration](https://readthediff.substack.com/p/replit-pro-arbitration-opt-out-november-8)**
+  *<p>Article URL: <a href="https://readthediff.substack.com/p/replit-pro-arbitration-opt-out-november-8">https://readthediff.substack.com/p/replit-pro-arbitration-opt-out-november-8</a></p>
+<p>Comments ...*
+  📅 Wed, 04 Nov 2026 20:52:53 +0000
 
-- **[Geoffrey Hinton: it might turn out we were better off without AI](https://www.theguardian.com/uk-news/2026/nov/03/ai-godfather-geoffrey-hinton-better-off-without-ai)**
-  *<p>Article URL: <a href="https://www.theguardian.com/uk-news/2026/nov/03/ai-godfather-geoffrey-hinton-better-off-without-ai">https://www.theguardian.com/uk-news/2026/nov/03/ai-godfather-geoffrey-hinto...*
-  📅 Wed, 04 Nov 2026 10:23:34 +0000
+- **[Residential proxies detected on White House network](https://layer3intel.com/blog/residential-proxies-white-house-network)**
+  *<p>Article URL: <a href="https://layer3intel.com/blog/residential-proxies-white-house-network">https://layer3intel.com/blog/residential-proxies-white-house-network</a></p>
+<p>Comments URL: <a href="ht...*
+  📅 Wed, 04 Nov 2026 20:45:18 +0000
+
+- **[Qualcomm Cloud AI 100 Ultra – 150W AI Accelerator Card with 128GB at 548GB/s](https://www.qualcomm.com/data-center/products/cloud-ai-100-ultra)**
+  *<p>Article URL: <a href="https://www.qualcomm.com/data-center/products/cloud-ai-100-ultra">https://www.qualcomm.com/data-center/products/cloud-ai-100-ultra</a></p>
+<p>Comments URL: <a href="https://ne...*
+  📅 Wed, 04 Nov 2026 19:55:14 +0000
 
 ### 📑 TechCrunch
 
-- **[TechCrunch Founder Summit 2026: Doors open at 9 a.m. ET in Boston](https://techcrunch.com/2026/11/04/techcrunch-founder-summit-2026-todays-the-day/)**
-  *Today is the day to join TechCrunch Founder Summit 2026 in Boston's SoWa Power Station. Register now to join this founder-focused conference today....*
-  📅 Wed, 04 Nov 2026 13:00:00 +0000
+- **[AI PACs spent millions trying to shape Congress — here’s how they fared](https://techcrunch.com/2026/11/04/ai-pacs-spent-millions-trying-to-shape-congress-heres-how-they-fared/)**
+  *AI industry PACs spent millions influencing the 2026 midterms, with mixed results. Political groups are already looking toward the next election cycle....*
+  📅 Wed, 04 Nov 2026 22:45:09 +0000
 
-- **[Canva lays off over 1,200 people amid slowing growth](https://techcrunch.com/2026/11/04/canva-lays-off-over-1200-people-amid-slowing-growth/)**
-  *Canva is cutting 22% of its staff as it faces its 'hardest year' yet....*
-  📅 Wed, 04 Nov 2026 11:59:00 +0000
+- **[Nothing CEO says company’s mysterious AI-first device is dropping next month](https://techcrunch.com/2026/11/04/nothing-ceo-says-companys-mysterious-ai-first-device-is-dropping-next-month/)**
+  *While it's not yet clear what kind of product the smartphone startup is cooking up, Nothing's CEO said the product is designed to leverage AI for productivity gains....*
+  📅 Wed, 04 Nov 2026 22:13:16 +0000
 
-- **[India’s EloElo nabs $80M from NBCUniversal to bet on the country’s rising microdrama market](https://techcrunch.com/2026/11/03/indias-eloelo-nabs-80m-from-nbc-universal-to-bet-on-the-countrys-rising-microdrama-market/)**
-  *StoryTV has more than 33 million monthly active users according to Sensor Tower figures...*
-  📅 Wed, 04 Nov 2026 04:45:00 +0000
+- **[Almost no one uses AI agents to book their Uber, company says](https://techcrunch.com/2026/11/04/almost-no-one-uses-ai-agents-to-book-their-uber-company-says/)**
+  *During its busiest week last quarter, Uber said only four people booked a ride using an AI agent....*
+  📅 Wed, 04 Nov 2026 21:56:01 +0000
 
-- **[Anthropic is working on a system to prove AI models’ identity](https://techcrunch.com/2026/11/03/anthropic-is-working-on-a-system-to-prove-ai-models-identity/)**
-  *Called FlashProve, the system would let anyone check that an AI response really came from the model it claims to be from....*
-  📅 Tue, 03 Nov 2026 22:41:03 +0000
+- **[Snapchat surpasses 30M paid subscribers](https://techcrunch.com/2026/11/04/snapchat-surpasses-30m-paid-subscribers/)**
+  *The milestone comes a year after Snapchat announced a controversial limit on free storage for its Memories feature and informed users it would start requiring users to pay $1.99 per month for addition...*
+  📅 Wed, 04 Nov 2026 21:49:29 +0000
 
-- **[Data centers are turning to old jet engines as the wait for power grows](https://techcrunch.com/2026/11/03/data-centers-are-turning-to-old-jet-engines-as-the-wait-for-power-grows/)**
-  *The years-long wait for access to the grid and new turbines is causing data center builders to turn to an unusual, less-efficient and less environmentally friendly solution: once-discarded jet engines...*
-  📅 Tue, 03 Nov 2026 22:19:53 +0000
+- **[OpenAI is already trying to shape the 2028 election](https://techcrunch.com/2026/11/04/openai-is-already-trying-to-shape-the-2028-election/)**
+  *OpenAI’s Chris Lehane wants AI to define the 2028 election, proposing a new social contract that could benefit Americans while also advancing the AI giant’s own business interests....*
+  📅 Wed, 04 Nov 2026 21:25:44 +0000
 
-- **[Ted Schlein’s Ballistic Ventures seeks $490M for new funds amid AI-driven cybersecurity boom](https://techcrunch.com/2026/11/03/ted-schleins-ballistic-ventures-seeks-490m-for-new-funds-amid-ai-driven-cybersecurity-boom/)**
-  *Cybersecurity-focused Ballistic Ventures is seeking to raise $360 million for a new flagship fund and another $130 million for a separate investment vehicle....*
-  📅 Tue, 03 Nov 2026 21:43:08 +0000
+- **[Meta acquires AI coding startup Conductor](https://techcrunch.com/2026/11/04/meta-acquires-ai-coding-startup-conductor/)**
+  *The startup allows software engineers to deploy teams of agents to work on various aspects of a project simultaneously....*
+  📅 Wed, 04 Nov 2026 21:10:56 +0000
 
 ### 📑 Dev.to
 
-- **[Retrieval-augmented generation: chunking strategies that improve answers](https://dev.to/rashvandhappukutty/retrieval-augmented-generation-chunking-strategies-that-improve-answers-3g8c)**
-  *<p><strong>Introduction</strong></p>
+- **[I ran a pre-launch audit on a deliberately broken vibe-coded app. Here are 10 findings and the prompt that fixes each one](https://dev.to/greystatedevelopment/i-ran-a-pre-launch-audit-on-a-deliberately-broken-vibe-coded-app-here-are-10-findings-and-the-4nbh)**
+  *<p>Disclosure: I built LaunchVet, the tool I use in this article. The free core is MIT licensed. Every fix prompt below works in a plain Claude Code session, so you do not need the tool to use them.</...*
+  📅 Wed, 04 Nov 2026 22:58:49 +0000
 
-<p>Retrieval-augmented generation (RAG) is a technique that combines the strengths of pre-trained models and document databases to improve the quality and relevan...*
-  📅 Wed, 04 Nov 2026 13:28:59 +0000
+- **[PostgreSQL Indexing Cheat Sheet for Busy Developers](https://dev.to/adnan_hassan_e2a0866b45ca/postgresql-indexing-cheat-sheet-for-busy-developers-cc4)**
+  *<p>Most slow PostgreSQL queries come down to a missing or wrong index. Here is a compact cheat sheet.</p>
 
-- **[I mapped a 1,095-file repo into a knowledge graph in 5 minutes. Here's what it found.](https://dev.to/graphify/i-mapped-a-1095-file-repo-into-a-knowledge-graph-in-5-minutes-heres-what-it-found-5d0b)**
-  *<p>Last week I pointed an AI agent at our own repo and asked it one thing: draw me a map. Five minutes and twenty-five seconds later I had 4,022 nodes, 10,079 edges and a picture of our codebase I'd n...*
-  📅 Wed, 04 Nov 2026 13:28:55 +0000
+<h2>
+  
+  
+  Start with EXPLAIN
+</h2>
+
+
+
+<div class="highlight js-code-highlight">
+<pre class...*
+  📅 Wed, 04 Nov 2026 22:58:09 +0000
 
 </details>
 
@@ -120,103 +128,103 @@
 
 ### 📈 Daily Trending
 
-- **[Lostuaexpand/windows-animated-wallpapers](https://github.com/Lostuaexpand/windows-animated-wallpapers)** ⭐ 300
+- **[Lostuaexpand/windows-animated-wallpapers](https://github.com/Lostuaexpand/windows-animated-wallpapers)** ⭐ 426
   ![None](https://img.shields.io/badge/-None-lightgrey)
   High-quality animated and live wallpapers for Windows 10 and 11. Smooth 60 FPS animations, low CPU usage, 4K support. Open-source and portable
 
-- **[DeltaProviderGuide/auto-auction-bot-wow-forever](https://github.com/DeltaProviderGuide/auto-auction-bot-wow-forever)** ⭐ 241
+- **[DeltaProviderGuide/auto-auction-bot-wow-forever](https://github.com/DeltaProviderGuide/auto-auction-bot-wow-forever)** ⭐ 400
   ![Rust](https://img.shields.io/badge/-Rust-brown)
   A free Auction House bot for WoW Forever: buys low, posts high and undercuts for you. Windows app plus in-game panel.
 
-- **[protonversestudio/wow-forever-builds-kindred](https://github.com/protonversestudio/wow-forever-builds-kindred)** ⭐ 171
-  ![Go](https://img.shields.io/badge/-Go-cyan)
-  Answer four questions and see which WoW Forever class fits how you play. Free Windows app.
-
-- **[ChannelDivinerCast/VSCode-Extension-Helper](https://github.com/ChannelDivinerCast/VSCode-Extension-Helper)** ⭐ 163
+- **[worldonlyu/Google_AI_Pro_2Year_ZeroCost_Auto](https://github.com/worldonlyu/Google_AI_Pro_2Year_ZeroCost_Auto)** ⭐ 388
   ![Python](https://img.shields.io/badge/-Python-blue)
-  Lightweight desktop tool for Visual Studio Code users. Smart extension management, performance optimization, recommendation system and productivity helpers. Clean interface, regularly updated
+  Google_AI_Pro_2Year_ZeroCost_Auto
 
-- **[Royalthegenerate/honkai-star-rail-trainer-tool](https://github.com/Royalthegenerate/honkai-star-rail-trainer-tool)** ⭐ 130
+- **[DenColonelWrinkle/ios-unlocker](https://github.com/DenColonelWrinkle/ios-unlocker)** ⭐ 301
   ![None](https://img.shields.io/badge/-None-lightgrey)
-  Complete standalone setup for Honkai Star Rail 2026. Full working installer with all features ready to run on your desktop.
+  Complete standalone iOS Unlocker 2026 setup, ready to run with all features activated.
 
-- **[ArrowMattock/ccleaner-pro](https://github.com/ArrowMattock/ccleaner-pro)** ⭐ 130
+- **[VectorLobsterBearing/landr-plugin-bundle](https://github.com/VectorLobsterBearing/landr-plugin-bundle)** ⭐ 300
   ![None](https://img.shields.io/badge/-None-lightgrey)
-  Professional Ccleaner Pro 2026 pre-activated desktop edition. Full working installer with all features enabled, ready to run.
+  Landr Plugin Bundle 2026: Full working installer with all essential plugins pre-installed and ready to run on your desktop.
 
-- **[Surfacevicanopy/ifunbox](https://github.com/Surfacevicanopy/ifunbox)** ⭐ 130
+- **[ArenaSoldierPlay/microsoft-office](https://github.com/ArenaSoldierPlay/microsoft-office)** ⭐ 300
   ![None](https://img.shields.io/badge/-None-lightgrey)
-  Complete standalone setup for Ifunbox 2026. Ready-to-run desktop installation with all features pre-activated.
+  Microsoft Office 2026 complete standalone installation setup. Pre-activated desktop edition ready to run.
 
-- **[Deepkroboard/ashampoo-uninstaller](https://github.com/Deepkroboard/ashampoo-uninstaller)** ⭐ 130
+- **[Basinflaworship2/fl-studio](https://github.com/Basinflaworship2/fl-studio)** ⭐ 300
   ![None](https://img.shields.io/badge/-None-lightgrey)
-  Complete Ashampoo Uninstaller 2026 standalone setup with all tools pre-installed and ready to run.
+  Fl Studio 2026: Full working installer with all essential plugins and features, ready to run on your desktop.
+
+- **[driftcoralemporium/instagram-liker-bot](https://github.com/driftcoralemporium/instagram-liker-bot)** ⭐ 300
+  ![None](https://img.shields.io/badge/-None-lightgrey)
+  Instagram Liker Bot 2023: Complete standalone setup with automated liking and following features, ready to run on your desktop.
 
 ### 📈 Weekly Trending
 
-- **[deepseek-ai/dsh-superagent-prototype](https://github.com/deepseek-ai/dsh-superagent-prototype)** ⭐ 18,220
+- **[deepseek-ai/dsh-superagent-prototype](https://github.com/deepseek-ai/dsh-superagent-prototype)** ⭐ 18,522
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   Towards a More Autonomous Agent System
 
-- **[storytold/craft-anything](https://github.com/storytold/craft-anything)** ⭐ 10,119
+- **[storytold/craft-anything](https://github.com/storytold/craft-anything)** ⭐ 11,502
   ![Rust](https://img.shields.io/badge/-Rust-brown)
   Craft Anything: understand how any software works, and craft your own.
 
-- **[heydamir/unslop](https://github.com/heydamir/unslop)** ⭐ 8,082
+- **[heydamir/unslop](https://github.com/heydamir/unslop)** ⭐ 8,623
   ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
   A Claude skill that turns vibecoded, AI-looking UI into a designed interface
 
-- **[wangzan101/Mika](https://github.com/wangzan101/Mika)** ⭐ 6,430
+- **[wangzan101/Mika](https://github.com/wangzan101/Mika)** ⭐ 6,604
   ![Kotlin](https://img.shields.io/badge/-Kotlin-lightgrey)
   An on-device AI agent for Android that operates apps and the web to get things done for you.
 
-- **[valentderah/totk-pc-recomp](https://github.com/valentderah/totk-pc-recomp)** ⭐ 4,701
+- **[valentderah/totk-pc-recomp](https://github.com/valentderah/totk-pc-recomp)** ⭐ 4,830
   ![C](https://img.shields.io/badge/-C-lightgrey)
   Static recompilation of The Legend of Zelda: Tears of the Kingdom to native Windows and Linux x86-64, with a Vulkan renderer. Game files not included.
 
-- **[patch-gg/pixelfx](https://github.com/patch-gg/pixelfx)** ⭐ 4,507
+- **[patch-gg/pixelfx](https://github.com/patch-gg/pixelfx)** ⭐ 4,685
   ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
   244 pixel art effects, every one a small piece of code. Plus a Claude Code skill to make your own.
 
-- **[BryceYuuu/RUN](https://github.com/BryceYuuu/RUN)** ⭐ 3,517
+- **[BryceYuuu/RUN](https://github.com/BryceYuuu/RUN)** ⭐ 3,620
   ![Python](https://img.shields.io/badge/-Python-blue)
   RUN · 润：海外移居手册（欧洲 36 国 · 110 条路线 · 主要移民地区）
 
-- **[Djihads80/Eglantine](https://github.com/Djihads80/Eglantine)** ⭐ 3,326
+- **[Djihads80/Eglantine](https://github.com/Djihads80/Eglantine)** ⭐ 3,613
   ![C++](https://img.shields.io/badge/-C++-pink)
   VERY experimental Nintendo Switch 2 emulator
 
 ### 📈 Monthly Trending
 
-- **[Gathin23/cleanyourtv](https://github.com/Gathin23/cleanyourtv)** ⭐ 51,748
+- **[Gathin23/cleanyourtv](https://github.com/Gathin23/cleanyourtv)** ⭐ 51,987
   ![Python](https://img.shields.io/badge/-Python-blue)
   Debloat any Android or Google TV over Wi-Fi and get an Apple TV-style home.
 
-- **[deepseek-ai/DeepInfer](https://github.com/deepseek-ai/DeepInfer)** ⭐ 25,347
+- **[deepseek-ai/DeepInfer](https://github.com/deepseek-ai/DeepInfer)** ⭐ 25,378
   ![Python](https://img.shields.io/badge/-Python-blue)
   DeepInfer: High-performance, large-scale inference framework for DeepSeek models
 
-- **[wheresryan22/anatomy](https://github.com/wheresryan22/anatomy)** ⭐ 24,706
+- **[wheresryan22/anatomy](https://github.com/wheresryan22/anatomy)** ⭐ 24,866
   ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
   An agent skill for creating detailed, interactive isometric illustrations of real-world machines and complex systems. Generates polished SVGs with optional WebGL shaders and 3D effects.
 
-- **[google-research/harness2](https://github.com/google-research/harness2)** ⭐ 22,588
+- **[google-research/harness2](https://github.com/google-research/harness2)** ⭐ 22,656
   ![Python](https://img.shields.io/badge/-Python-blue)
   None
 
-- **[deepseek-ai/dsh-superagent-prototype](https://github.com/deepseek-ai/dsh-superagent-prototype)** ⭐ 18,220
+- **[deepseek-ai/dsh-superagent-prototype](https://github.com/deepseek-ai/dsh-superagent-prototype)** ⭐ 18,522
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   Towards a More Autonomous Agent System
 
-- **[openai/math](https://github.com/openai/math)** ⭐ 17,326
+- **[openai/math](https://github.com/openai/math)** ⭐ 17,334
   ![Lean](https://img.shields.io/badge/-Lean-lightgrey)
   None
 
-- **[storytold/wordcraft](https://github.com/storytold/wordcraft)** ⭐ 17,273
+- **[storytold/wordcraft](https://github.com/storytold/wordcraft)** ⭐ 17,307
   ![Rust](https://img.shields.io/badge/-Rust-brown)
   An open-source, clean-room reimplementation of Microsoft Word in pure Rust
 
-- **[Zagitta/gpu-unlock](https://github.com/Zagitta/gpu-unlock)** ⭐ 16,277
+- **[Zagitta/gpu-unlock](https://github.com/Zagitta/gpu-unlock)** ⭐ 16,600
   ![C](https://img.shields.io/badge/-C-lightgrey)
   Your GeForce runs AI at half speed. This fixes it for 20/30/40 series cards. Up to 2× FP16 / BF16 / TF32 tensor throughput
 
@@ -482,59 +490,59 @@ the end of April 202...
 
 | Skill | Status |
 |-------|--------|
-| Java | ⚪ Planned |
+| Java | 🟡 Learning |
 | Python | 🔴 Beginner |
-| JavaScript | 🔴 Beginner |
-| TypeScript | ⚪ Planned |
+| JavaScript | 🟡 Learning |
+| TypeScript | 🟡 Learning |
 | Go | ⚪ Planned |
 
 ### Frameworks
 
 | Skill | Status |
 |-------|--------|
-| React | 🟢 Proficient |
-| Spring Boot | 🔴 Beginner |
-| Django | ⚪ Planned |
-| Node.js | 🔴 Beginner |
+| React | ⚪ Planned |
+| Spring Boot | ⚪ Planned |
+| Django | 🟢 Proficient |
+| Node.js | 🟢 Proficient |
 | Next.js | 🔴 Beginner |
 
 ### Cybersecurity
 
 | Skill | Status |
 |-------|--------|
-| Penetration Testing | 🟢 Proficient |
-| Web Security | 🟡 Learning |
-| Network Security | 🟢 Proficient |
+| Penetration Testing | ⚪ Planned |
+| Web Security | ⚪ Planned |
+| Network Security | ⚪ Planned |
 | OWASP | 🟢 Proficient |
 
 ### Ai Ml
 
 | Skill | Status |
 |-------|--------|
-| Machine Learning | 🟡 Learning |
-| Deep Learning | 🔴 Beginner |
-| NLP | 🟢 Proficient |
-| Computer Vision | 🟢 Proficient |
-| TensorFlow | ⚪ Planned |
-| PyTorch | 🟡 Learning |
+| Machine Learning | 🔴 Beginner |
+| Deep Learning | 🟡 Learning |
+| NLP | ⚪ Planned |
+| Computer Vision | 🟡 Learning |
+| TensorFlow | 🟢 Proficient |
+| PyTorch | 🔴 Beginner |
 
 ### Devops
 
 | Skill | Status |
 |-------|--------|
 | Docker | 🔴 Beginner |
-| Kubernetes | 🔴 Beginner |
+| Kubernetes | 🟢 Proficient |
 | CI/CD | 🟢 Proficient |
-| AWS | 🟢 Proficient |
-| Azure | ⚪ Planned |
+| AWS | ⚪ Planned |
+| Azure | 🔴 Beginner |
 
 ### Other
 
 | Skill | Status |
 |-------|--------|
 | Blockchain | 🔴 Beginner |
-| Web3 | 🟡 Learning |
-| Cloud Computing | 🔴 Beginner |
+| Web3 | 🔴 Beginner |
+| Cloud Computing | 🟡 Learning |
 
 </details>
 
