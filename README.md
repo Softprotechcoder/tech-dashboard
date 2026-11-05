@@ -46,69 +46,84 @@
 
 ### 📑 Hacker News
 
-- **[Sshole](https://sshhole.com)**
-  *<p>Article URL: <a href="https://sshhole.com">https://sshhole.com</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50378228">https://news.ycombinator.com/item?id=50378228</a></p>...*
-  📅 Thu, 05 Nov 2026 12:19:02 +0000
+- **[Claude Code sends your email address to websites](https://github.com/anthropics/claude-code/issues/107757)**
+  *<p>Article URL: <a href="https://github.com/anthropics/claude-code/issues/107757">https://github.com/anthropics/claude-code/issues/107757</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com...*
+  📅 Thu, 05 Nov 2026 22:17:15 +0000
 
-- **[OpenSSH 10.6p2 Critical workaround for alpine without PAM](https://www.openssh.org/releasenotes.html#10.6p2)**
-  *<p>Article URL: <a href="https://www.openssh.org/releasenotes.html#10.6p2">https://www.openssh.org/releasenotes.html#10.6p2</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50377...*
-  📅 Thu, 05 Nov 2026 11:40:30 +0000
+- **[$2.5T has been wiped from US stocks](https://finlaws.substack.com/p/25t-has-been-wiped-from-us-stocks)**
+  *<p>Article URL: <a href="https://finlaws.substack.com/p/25t-has-been-wiped-from-us-stocks">https://finlaws.substack.com/p/25t-has-been-wiped-from-us-stocks</a></p>
+<p>Comments URL: <a href="https://ne...*
+  📅 Thu, 05 Nov 2026 21:39:26 +0000
 
-- **[Awesome repositories are no longer awesome](https://erikgahner.github.io/posts/2026/awesome-repositories-are-no-longer-awesome/)**
-  *<p>Article URL: <a href="https://erikgahner.github.io/posts/2026/awesome-repositories-are-no-longer-awesome/">https://erikgahner.github.io/posts/2026/awesome-repositories-are-no-longer-awesome/</a></p...*
-  📅 Thu, 05 Nov 2026 11:16:51 +0000
+- **[MS Paint Remote Code Execution Vulnerability](https://www.cve.org/CVERecord?id=CVE-2026-83844)**
+  *<p>Article URL: <a href="https://www.cve.org/CVERecord?id=CVE-2026-83844">https://www.cve.org/CVERecord?id=CVE-2026-83844</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=5038423...*
+  📅 Thu, 05 Nov 2026 20:43:42 +0000
 
-- **[OpenSSH 10.6p2 has been released with a workaround for a critical vulnerability](https://hachyderm.io/@damienmiller/117563026759098135)**
-  *<p>Article URL: <a href="https://hachyderm.io/@damienmiller/117563026759098135">https://hachyderm.io/@damienmiller/117563026759098135</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/ite...*
-  📅 Thu, 05 Nov 2026 09:46:17 +0000
+- **[Tencent Launches Hy4, One of the Leading Open-Source AI Models](https://www.tencent.com/tencent-launches-hy4-joining-the-ranks-of-the-worlds-leading-open-source-ai-models/)**
+  *<p>Article URL: <a href="https://www.tencent.com/tencent-launches-hy4-joining-the-ranks-of-the-worlds-leading-open-source-ai-models/">https://www.tencent.com/tencent-launches-hy4-joining-the-ranks-of-...*
+  📅 Thu, 05 Nov 2026 20:21:43 +0000
 
-- **[Baidu released ERNIE 5.5 Flash Base](https://ernie.baidu.com/release/ernie-5-5-flash-base/)**
-  *<p>Article URL: <a href="https://ernie.baidu.com/release/ernie-5-5-flash-base/">https://ernie.baidu.com/release/ernie-5-5-flash-base/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/ite...*
-  📅 Thu, 05 Nov 2026 09:29:12 +0000
+- **[The Cost of Blogging](https://onlinegoddess.net/2026/11/the-cost-of-blogging/)**
+  *<p>Article URL: <a href="https://onlinegoddess.net/2026/11/the-cost-of-blogging/">https://onlinegoddess.net/2026/11/the-cost-of-blogging/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com...*
+  📅 Thu, 05 Nov 2026 20:14:25 +0000
 
-- **[GPT-6 Astra covertly underperforms on safety research](https://alignment.openai.com/misalignment-reports/covert-underperformance-on-safety-research-tasks/)**
-  *<p>Article URL: <a href="https://alignment.openai.com/misalignment-reports/covert-underperformance-on-safety-research-tasks/">https://alignment.openai.com/misalignment-reports/covert-underperformance-...*
-  📅 Thu, 05 Nov 2026 07:44:30 +0000
+- **[Kagi Search for Everyone](https://kagi.com/changelog)**
+  *<p>Article URL: <a href="https://kagi.com/changelog">https://kagi.com/changelog</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50383740">https://news.ycombinator.com/item?id=50...*
+  📅 Thu, 05 Nov 2026 20:03:34 +0000
 
 ### 📑 TechCrunch
 
-- **[A YC startup is putting $1M behind five unsolved materials science problems for AI](https://techcrunch.com/2026/11/05/a-yc-startup-is-putting-1m-behind-five-unsolved-materials-science-problems-for-ai/)**
-  *Discovered Materials, a months-old YC startup that uses AI to find chip materials, is offering $200,000 for each solution to five open materials science problems....*
-  📅 Thu, 05 Nov 2026 13:00:00 +0000
+- **[Airbnb says it’s launching an AI travel agent in the first half of 2027](https://techcrunch.com/2026/11/05/airbnb-says-its-launching-an-ai-travel-agent-in-the-first-half-of-2027/)**
+  *Airbnb says its upcoming AI agent will help travelers plan trips, compare options, manage bookings, and get assistance throughout their stay....*
+  📅 Thu, 05 Nov 2026 22:40:55 +0000
 
-- **[Agility is the first pure humanoid robot company on the stock market. Are you buying?](https://techcrunch.com/2026/11/05/agility-is-the-first-pure-humanoid-robot-company-on-the-stock-market-are-you-buying/)**
-  *Agility arrives on the Nasdaq today as the first publicly-traded pure-play humanoid robotics company....*
-  📅 Thu, 05 Nov 2026 12:00:00 +0000
+- **[Serve Robotics launches new business to become the AWS for robots](https://techcrunch.com/2026/11/05/serve-robotics-launches-new-business-to-become-the-aws-for-robots/)**
+  *Serve Robotics announced alonsgside its third-quarter earnings that it will launch a new business line called Physical AI Services to offer customers its connectivity and data tools....*
+  📅 Thu, 05 Nov 2026 21:15:00 +0000
 
-- **[Amazon ditches GrubHub, taps Uber Eats for Prime](https://techcrunch.com/2026/11/05/amazon-ditches-grubhub-taps-uber-eats-for-prime/)**
-  *Amazon has made Uber Eats its official restaurant delivery partner for Prime members in the United States....*
-  📅 Thu, 05 Nov 2026 11:00:00 +0000
+- **[Meta says US users can now video chat with their Muse AI avatar](https://techcrunch.com/2026/11/05/meta-says-us-users-can-now-video-chat-with-their-muse-ai-avatar/)**
+  *Meta's AI agent can now take calls as a customizable animated avatar, ahead of the launch of a Tamagotchi-like wearable designed to bring Muse to life....*
+  📅 Thu, 05 Nov 2026 19:48:28 +0000
 
-- **[Apple is reportedly cutting budgets for its internal AI usage](https://techcrunch.com/2026/11/04/apple-is-reportedly-cutting-budgets-for-its-internal-ai-usage/)**
-  *The company is said to be significantly dropping the amount it's spending on AI for its engineering teams....*
-  📅 Thu, 05 Nov 2026 01:26:22 +0000
+- **[Meta warns that election backlash against data centers could make AI expansion harder](https://techcrunch.com/2026/11/05/metas-warns-that-election-backlash-against-data-centers-could-make-ai-expansion-harder/)**
+  *Meta warns that growing political opposition to data centers could threaten future AI investments, as communities push back against massive infrastructure projects....*
+  📅 Thu, 05 Nov 2026 19:12:39 +0000
 
-- **[After the midterms, a bigger clash over data centers could be coming](https://techcrunch.com/2026/11/04/after-the-midterms-a-bigger-clash-over-data-centers-could-be-coming/)**
-  *Data center opposition crossed party lines in Tuesday’s midterms....*
-  📅 Thu, 05 Nov 2026 01:02:14 +0000
+- **[OpenAI released a new cybersecurity model. Is that enough?](https://techcrunch.com/2026/11/05/openai-released-a-new-cybersecurity-model-is-that-enough/)**
+  *OpenAI's newest cybersecurity model comes out as AI labs face scrutiny of their work to protect digital infrastructure....*
+  📅 Thu, 05 Nov 2026 19:06:12 +0000
 
-- **[AI PACs spent millions trying to shape Congress — here’s how they fared](https://techcrunch.com/2026/11/04/ai-pacs-spent-millions-trying-to-shape-congress-heres-how-they-fared/)**
-  *AI industry PACs spent millions influencing the 2026 midterms, with mixed results. Political groups are already looking toward the next election cycle....*
-  📅 Wed, 04 Nov 2026 22:45:09 +0000
+- **[US government warns of ‘ongoing cyber threat’ amid mass hacks of industrial retail and military freezers](https://techcrunch.com/2026/11/05/u-s-government-warns-of-ongoing-cyber-threat-amid-mass-hacks-of-industrial-retail-and-military-freezers/)**
+  *A joint U.S. government statement says the hacks are affecting the food, transportation, and healthcare industries after reports of global mass hacks....*
+  📅 Thu, 05 Nov 2026 18:48:34 +0000
 
 ### 📑 Dev.to
 
-- **[Comment limiter ce qu'un agent IA peut envoyer par e-mail](https://dev.to/bestaitools-fr/comment-limiter-ce-quun-agent-ia-peut-envoyer-par-e-mail-3hb0)**
-  *<p>Quand un agent IA répond automatiquement aux e-mails des clients, le texte qu'il lit est écrit par des inconnus. Rien n'empêche l'un de ces messages de contenir « ignore tes instructions précédente...*
-  📅 Thu, 05 Nov 2026 13:43:51 +0000
+- **[OpenProject API Tokens Need Project Membership Context](https://dev.to/andreagomez/openproject-api-tokens-need-project-membership-context-369j)**
+  *<h1>
+  
+  
+  OpenProject API Tokens Need Project Membership Context
+</h1>
 
-- **[Tracking User-Generated Pages Inside Search Console](https://dev.to/bulkindexcheckr/tracking-user-generated-pages-inside-search-console-446k)**
-  *<p>User-generated content (UGC) can create thousands of indexable URLs on a website, including forum discussions, community questions, customer reviews, profile pages, and blog comments. Google Search...*
-  📅 Thu, 05 Nov 2026 13:43:47 +0000
+<p>OpenProject's API supports session authentication, personal API tokens, OAuth 2.0, and external OIDC tokens that follow it...*
+  📅 Thu, 05 Nov 2026 23:00:14 +0000
+
+- **[Polymarket Trading Bot :Market Maker - How to Backtest Strategies and Optimize Trading Parameters](https://dev.to/benjamin_cup/polymarket-trading-bot-market-maker-how-to-backtest-strategies-and-optimize-trading-parameters-4elm)**
+  *<p><em>Day 9 — Building a Python backtesting framework to simulate order execution, measure performance, and optimize market-making strategies.</em></p>
+
+<h2>
+  
+  
+  Introduction
+</h2>
+
+<p>In the pre...*
+  📅 Thu, 05 Nov 2026 23:00:10 +0000
 
 </details>
 
@@ -116,103 +131,103 @@
 
 ### 📈 Daily Trending
 
+- **[AtomIllusionistDwell/watson-username-footprint-finder](https://github.com/AtomIllusionistDwell/watson-username-footprint-finder)** ⭐ 428
+  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
+  Free people-search desktop app: look up a nickname, email, phone or site across 3,100+ public pages and get one readable report.
+
+- **[TagPhaseArcade/tiktok-uploader](https://github.com/TagPhaseArcade/tiktok-uploader)** ⭐ 426
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  Automated TikTok video uploader with batch processing, scheduling, and hashtag management. Local session-based auth. Open-source and cross-platform
+
 - **[dragonwolfshovel/youtube-uploader](https://github.com/dragonwolfshovel/youtube-uploader)** ⭐ 426
   ![Python](https://img.shields.io/badge/-Python-blue)
   Automated YouTube video uploader with batch processing, thumbnail support, and scheduled publishing. Uses official YouTube Data API v3. Open-source and privacy-first
 
-- **[TagPhaseArcade/tiktok-uploader](https://github.com/TagPhaseArcade/tiktok-uploader)** ⭐ 425
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  Automated TikTok video uploader with batch processing, scheduling, and hashtag management. Local session-based auth. Open-source and cross-platform
-
-- **[WoYun520/pixel-gif-sticker-pack](https://github.com/WoYun520/pixel-gif-sticker-pack)** ⭐ 299
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  A Codex skill for creating and verifying animated GIF sticker packs from character references.
-
-- **[AtomIllusionistDwell/watson-username-footprint-finder](https://github.com/AtomIllusionistDwell/watson-username-footprint-finder)** ⭐ 273
-  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
-  Free people-search desktop app: look up a nickname, email, phone or site across 3,100+ public pages and get one readable report.
-
-- **[Wallbycontact/java-mod-rust-port-tool](https://github.com/Wallbycontact/java-mod-rust-port-tool)** ⭐ 270
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
-  Feed it a Fabric or NeoForge mod jar and Smelt writes the Rust side for Horizon, with the unfinished parts flagged in the report.
-
-- **[MythicHokageRepel/steam-inventory-value-desktop](https://github.com/MythicHokageRepel/steam-inventory-value-desktop)** ⭐ 264
+- **[MythicHokageRepel/steam-inventory-value-desktop](https://github.com/MythicHokageRepel/steam-inventory-value-desktop)** ⭐ 411
   ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
   Desktop app that prices a whole Steam inventory: live floor, average of real sales, per-marketplace payouts and a share card. Portable, no login.
 
-- **[chaosroutedepot/honeypot-detector](https://github.com/chaosroutedepot/honeypot-detector)** ⭐ 202
-  ![None](https://img.shields.io/badge/-None-lightgrey)
-  Honeypot Detector 2023 automated deployment pipeline for enhanced security monitoring in isolated desktop environments.
+- **[Wallbycontact/java-mod-rust-port-tool](https://github.com/Wallbycontact/java-mod-rust-port-tool)** ⭐ 408
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
+  Feed it a Fabric or NeoForge mod jar and Smelt writes the Rust side for Horizon, with the unfinished parts flagged in the report.
 
-- **[Supermacenhance/genesis-miner](https://github.com/Supermacenhance/genesis-miner)** ⭐ 201
-  ![None](https://img.shields.io/badge/-None-lightgrey)
-  Genesis Miner 2026 pre-configured environment for seamless desktop software utility deployment on isolated workstations.
+- **[WoYun520/pixel-gif-sticker-pack](https://github.com/WoYun520/pixel-gif-sticker-pack)** ⭐ 402
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  A Codex skill for creating and verifying animated GIF sticker packs from character references.
+
+- **[Nebularotunnel/Token-Sniper](https://github.com/Nebularotunnel/Token-Sniper)** ⭐ 391
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  Advanced desktop analyzer for DEX activity. Monitors new liquidity pair creation, applies smart filters to detect potential scam and rugpull patterns, and provides real-time alerts. Clean interface, regularly updated
+
+- **[v1ktorrr0x/antigravity-filter-bypass](https://github.com/v1ktorrr0x/antigravity-filter-bypass)** ⭐ 221
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  None
 
 ### 📈 Weekly Trending
 
-- **[deepseek-ai/dsh-superagent-prototype](https://github.com/deepseek-ai/dsh-superagent-prototype)** ⭐ 19,238
+- **[deepseek-ai/dsh-superagent-prototype](https://github.com/deepseek-ai/dsh-superagent-prototype)** ⭐ 19,456
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   Towards a More Autonomous Agent System
 
-- **[storytold/craft-anything](https://github.com/storytold/craft-anything)** ⭐ 13,992
+- **[storytold/craft-anything](https://github.com/storytold/craft-anything)** ⭐ 14,858
   ![Rust](https://img.shields.io/badge/-Rust-brown)
   Craft Anything: understand how any software works, and craft your own.
 
-- **[patch-gg/pixelfx](https://github.com/patch-gg/pixelfx)** ⭐ 5,120
+- **[patch-gg/pixelfx](https://github.com/patch-gg/pixelfx)** ⭐ 5,245
   ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
   244 pixel art effects, every one a small piece of code. Plus a Claude Code skill to make your own.
 
-- **[KKKKhazix/agent-autoloop](https://github.com/KKKKhazix/agent-autoloop)** ⭐ 3,074
+- **[KKKKhazix/agent-autoloop](https://github.com/KKKKhazix/agent-autoloop)** ⭐ 3,219
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   让你的命令行 Agent 在后台自己接活、自己跟进到底；平时不烦你，遇到拿不准的事才发卡片找你拍板。
 
-- **[Verlintas/NOIR](https://github.com/Verlintas/NOIR)** ⭐ 2,367
+- **[Verlintas/NOIR](https://github.com/Verlintas/NOIR)** ⭐ 2,451
   ![Kotlin](https://img.shields.io/badge/-Kotlin-lightgrey)
   手机隐私审计：用 adb 扫出 Android 应用的权限、上报端点与数据流向，并给出可回滚的处置。Desktop Android leak audit: permissions, endpoints, data flows, reversible fixes.
 
-- **[elvarofficial/teardown](https://github.com/elvarofficial/teardown)** ⭐ 2,063
+- **[worldonlyu/Google_AI_Pro_2Year_ZeroCost_Auto](https://github.com/worldonlyu/Google_AI_Pro_2Year_ZeroCost_Auto)** ⭐ 2,278
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  Google_AI_Pro_2Year_ZeroCost_Auto
+
+- **[elvarofficial/teardown](https://github.com/elvarofficial/teardown)** ⭐ 2,170
   ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
   A Claude Code skill that turns any machine into a 3D simulator you can take apart
 
-- **[caru-ini/stack-diagram](https://github.com/caru-ini/stack-diagram)** ⭐ 1,827
-  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
-  Agent skill: describe your stack in a sentence, get an architecture diagram with official logos
-
-- **[govijr/terminal-mac](https://github.com/govijr/terminal-mac)** ⭐ 1,803
-  ![Swift](https://img.shields.io/badge/-Swift-lightgrey)
-  Entire MacOS running in your terminal.
+- **[zortos293/Lichii](https://github.com/zortos293/Lichii)** ⭐ 2,166
+  ![C++](https://img.shields.io/badge/-C++-pink)
+  VERY experimental Nintendo Switch 2 emulator
 
 ### 📈 Monthly Trending
 
-- **[Gathin23/cleanyourtv](https://github.com/Gathin23/cleanyourtv)** ⭐ 52,360
+- **[Gathin23/cleanyourtv](https://github.com/Gathin23/cleanyourtv)** ⭐ 52,630
   ![Python](https://img.shields.io/badge/-Python-blue)
   Debloat any Android or Google TV over Wi-Fi and get an Apple TV-style home.
 
-- **[deepseek-ai/DeepInfer](https://github.com/deepseek-ai/DeepInfer)** ⭐ 25,446
+- **[deepseek-ai/DeepInfer](https://github.com/deepseek-ai/DeepInfer)** ⭐ 25,466
   ![Python](https://img.shields.io/badge/-Python-blue)
   DeepInfer: High-performance, large-scale inference framework for DeepSeek models
 
-- **[wheresryan22/anatomy](https://github.com/wheresryan22/anatomy)** ⭐ 25,121
+- **[wheresryan22/anatomy](https://github.com/wheresryan22/anatomy)** ⭐ 25,222
   ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
   An agent skill for creating detailed, interactive isometric illustrations of real-world machines and complex systems. Generates polished SVGs with optional WebGL shaders and 3D effects.
 
-- **[deepseek-ai/dsh-superagent-prototype](https://github.com/deepseek-ai/dsh-superagent-prototype)** ⭐ 19,238
+- **[deepseek-ai/dsh-superagent-prototype](https://github.com/deepseek-ai/dsh-superagent-prototype)** ⭐ 19,456
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   Towards a More Autonomous Agent System
 
-- **[storytold/wordcraft](https://github.com/storytold/wordcraft)** ⭐ 17,359
+- **[storytold/wordcraft](https://github.com/storytold/wordcraft)** ⭐ 17,397
   ![Rust](https://img.shields.io/badge/-Rust-brown)
   An open-source, clean-room reimplementation of Microsoft Word in pure Rust
 
-- **[Zagitta/gpu-unlock](https://github.com/Zagitta/gpu-unlock)** ⭐ 16,973
+- **[Zagitta/gpu-unlock](https://github.com/Zagitta/gpu-unlock)** ⭐ 17,221
   ![C](https://img.shields.io/badge/-C-lightgrey)
   Your GeForce runs AI at half speed. This fixes it for 20/30/40 series cards. Up to 2× FP16 / BF16 / TF32 tensor throughput
 
-- **[storytold/craft-anything](https://github.com/storytold/craft-anything)** ⭐ 13,992
+- **[storytold/craft-anything](https://github.com/storytold/craft-anything)** ⭐ 14,859
   ![Rust](https://img.shields.io/badge/-Rust-brown)
   Craft Anything: understand how any software works, and craft your own.
 
-- **[tangency-labs/solidcraft](https://github.com/tangency-labs/solidcraft)** ⭐ 13,985
+- **[tangency-labs/solidcraft](https://github.com/tangency-labs/solidcraft)** ⭐ 14,138
   ![Rust](https://img.shields.io/badge/-Rust-brown)
   SolidCraft: an open-source parametric 3D CAD application built in pure Rust. Desktop, web, and automation through MCP.
 
@@ -478,29 +493,29 @@ the end of April 202...
 
 | Skill | Status |
 |-------|--------|
-| Java | 🟡 Learning |
-| Python | 🟡 Learning |
-| JavaScript | 🟡 Learning |
-| TypeScript | 🟢 Proficient |
-| Go | 🟢 Proficient |
+| Java | ⚪ Planned |
+| Python | 🟢 Proficient |
+| JavaScript | 🔴 Beginner |
+| TypeScript | 🟡 Learning |
+| Go | 🟡 Learning |
 
 ### Frameworks
 
 | Skill | Status |
 |-------|--------|
 | React | ⚪ Planned |
-| Spring Boot | 🟢 Proficient |
+| Spring Boot | ⚪ Planned |
 | Django | 🟢 Proficient |
-| Node.js | 🔴 Beginner |
-| Next.js | 🟡 Learning |
+| Node.js | 🟢 Proficient |
+| Next.js | ⚪ Planned |
 
 ### Cybersecurity
 
 | Skill | Status |
 |-------|--------|
-| Penetration Testing | 🔴 Beginner |
-| Web Security | 🔴 Beginner |
-| Network Security | 🟡 Learning |
+| Penetration Testing | 🟢 Proficient |
+| Web Security | 🟢 Proficient |
+| Network Security | 🟢 Proficient |
 | OWASP | 🟡 Learning |
 
 ### Ai Ml
@@ -508,20 +523,20 @@ the end of April 202...
 | Skill | Status |
 |-------|--------|
 | Machine Learning | 🟢 Proficient |
-| Deep Learning | 🔴 Beginner |
-| NLP | ⚪ Planned |
+| Deep Learning | 🟡 Learning |
+| NLP | 🟡 Learning |
 | Computer Vision | ⚪ Planned |
-| TensorFlow | 🟢 Proficient |
-| PyTorch | 🟡 Learning |
+| TensorFlow | 🟡 Learning |
+| PyTorch | 🔴 Beginner |
 
 ### Devops
 
 | Skill | Status |
 |-------|--------|
-| Docker | 🔴 Beginner |
-| Kubernetes | 🟢 Proficient |
-| CI/CD | 🟡 Learning |
-| AWS | 🔴 Beginner |
+| Docker | ⚪ Planned |
+| Kubernetes | 🔴 Beginner |
+| CI/CD | 🔴 Beginner |
+| AWS | 🟢 Proficient |
 | Azure | 🟢 Proficient |
 
 ### Other
@@ -530,7 +545,7 @@ the end of April 202...
 |-------|--------|
 | Blockchain | ⚪ Planned |
 | Web3 | 🔴 Beginner |
-| Cloud Computing | 🟢 Proficient |
+| Cloud Computing | ⚪ Planned |
 
 </details>
 
