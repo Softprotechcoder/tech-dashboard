@@ -46,30 +46,35 @@
 
 ### 📑 Hacker News
 
-- **[Commodore PET – The Worlds First Personal Computer](https://www.commodore.ca/commodore-products/commodore-pet-the-worlds-first-personal-computer/)**
-  *<p>Article URL: <a href="https://www.commodore.ca/commodore-products/commodore-pet-the-worlds-first-personal-computer/">https://www.commodore.ca/commodore-products/commodore-pet-the-worlds-first-perso...*
-  📅 Sat, 07 Nov 2026 23:15:34 +0000
+- **[Person of Interest](https://krthr.co/person-of-interest/)**
+  *<p>Article URL: <a href="https://krthr.co/person-of-interest/">https://krthr.co/person-of-interest/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50412318">https://news.ycombi...*
+  📅 Sun, 08 Nov 2026 11:23:28 +0000
 
-- **[GitHub New pull request overview page in public preview](https://github.blog/changelog/2026-11-05-new-pull-request-overview-page-in-public-preview/)**
-  *<p>Article URL: <a href="https://github.blog/changelog/2026-11-05-new-pull-request-overview-page-in-public-preview/">https://github.blog/changelog/2026-11-05-new-pull-request-overview-page-in-public-p...*
-  📅 Sat, 07 Nov 2026 23:09:40 +0000
+- **[Petered (what happens after the Peter Principle)](https://aworkinglibrary.com/writing/petered)**
+  *<p>Article URL: <a href="https://aworkinglibrary.com/writing/petered">https://aworkinglibrary.com/writing/petered</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50412152">https...*
+  📅 Sun, 08 Nov 2026 10:56:43 +0000
 
-- **[IRA Velinsky – Commodore's Industrial Designer](https://www.commodore.ca/commodore-history/ira-velinsky-commodores-amazing-industrial-designer/)**
-  *<p>Article URL: <a href="https://www.commodore.ca/commodore-history/ira-velinsky-commodores-amazing-industrial-designer/">https://www.commodore.ca/commodore-history/ira-velinsky-commodores-amazing-ind...*
-  📅 Sat, 07 Nov 2026 22:45:39 +0000
+- **[JIT bitmap text rendering for microcontrollers](https://linebender.org/blog/jit-bitmap-text/)**
+  *<p>Article URL: <a href="https://linebender.org/blog/jit-bitmap-text/">https://linebender.org/blog/jit-bitmap-text/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50412072">htt...*
+  📅 Sun, 08 Nov 2026 10:42:15 +0000
 
-- **[Making any integer with four 2s (2025)](https://eli.thegreenplace.net/2025/making-any-integer-with-four-2s/)**
-  *<p>Article URL: <a href="https://eli.thegreenplace.net/2025/making-any-integer-with-four-2s/">https://eli.thegreenplace.net/2025/making-any-integer-with-four-2s/</a></p>
-<p>Comments URL: <a href="http...*
-  📅 Sat, 07 Nov 2026 22:38:58 +0000
+- **[Llama-modchip: 284B DeepSeek on 64GB RAM, no GPU](https://github.com/synchopate/llama-modchip)**
+  *<p>Article URL: <a href="https://github.com/synchopate/llama-modchip">https://github.com/synchopate/llama-modchip</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50411961">https...*
+  📅 Sun, 08 Nov 2026 10:22:04 +0000
 
-- **[Show HN: An offline desktop companion to help maintain a healthy blink rhythm](https://eyesrhythm.com/)**
-  *<p>Profession like software engineer, mechanical / graphics designer takes a lot of strain on your eyes, observing minute details for hours and hours on screen can significantly reduce the blink rate ...*
-  📅 Sat, 07 Nov 2026 21:47:47 +0000
+- **[GitHub Down Again?](https://github.com/torvalds/linux)**
+  *<p>Article URL: <a href="https://github.com/torvalds/linux">https://github.com/torvalds/linux</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50411818">https://news.ycombinator....*
+  📅 Sun, 08 Nov 2026 09:56:07 +0000
 
-- **[Show HN: Where Were We](https://wherewerewe.app/)**
-  *<p>A little web game I made as an anniversary present for my wife.<p>Upload vacation photos and make them into a game.<p>WWW uses EXIF to determine where and when the photo was taken. This is then tur...*
-  📅 Sat, 07 Nov 2026 21:08:35 +0000
+- **[Agent memory needs its OpenTelemetry moment](https://www.lorekit.io/blog/open-agent-memory-format)**
+  *<p>Article URL: <a href="https://www.lorekit.io/blog/open-agent-memory-format">https://www.lorekit.io/blog/open-agent-memory-format</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?...*
+  📅 Sun, 08 Nov 2026 08:40:23 +0000
 
 ### 📑 TechCrunch
 
@@ -99,25 +104,21 @@
 
 ### 📑 Dev.to
 
-- **[Traefik Dashboard Exposure: Routing Visibility Can Become Control-Plane Visibility](https://dev.to/kozhevniko/traefik-dashboard-exposure-routing-visibility-can-become-control-plane-visibility-18fn)**
+- **[The Server-Timing Header on All 56 of Our Pages: Where the Time Goes, and Why Page Size Predicts Nothing](https://dev.to/onepassapps/the-server-timing-header-on-all-56-of-our-pages-where-the-time-goes-and-why-page-size-predicts-2i8h)**
+  *<p>I work on OnePassApps, so this is our own site, and every number below was measured on it today - 8 November 2026 - with plain HTTPS requests from outside the browser, no session, no cookies, no Ja...*
+  📅 Sun, 08 Nov 2026 12:21:07 +0000
+
+- **[Regras de escrita da JLScript](https://dev.to/eoh_lczinn/regras-de-escrita-da-jlscript-5hae)**
   *<h1>
   
   
-  Traefik Dashboard Exposure: Routing Visibility Can Become Control-Plane Visibility
+  Regras de escrita da JLScript
 </h1>
 
-<p>The Traefik dashboard shows routes, services, middleware, and other runtime state. The project...*
-  📅 Sun, 08 Nov 2026 03:23:00 +0000
+<p>JLScript utiliza palavras próprias.</p>
 
-- **[Improving Offline Functionality in a Mobile App: Lessons from the Trenches](https://dev.to/adriaanbalt/improving-offline-functionality-in-a-mobile-app-lessons-from-the-trenches-1nj5)**
-  *<h2>
-  
-  
-  The Problem: Offline Woes in Airplane Mode
-</h2>
-
-<p>I noticed a significant issue: users were seeing blank screens and black hero images when trying to access movie details in Airplane M...*
-  📅 Sun, 08 Nov 2026 03:22:41 +0000
+<p>Algumas são palavras em português, outras são abreviações escolhidas pela linguagem e outras permanecem...*
+  📅 Sun, 08 Nov 2026 12:19:14 +0000
 
 </details>
 
@@ -125,103 +126,103 @@
 
 ### 📈 Daily Trending
 
-- **[CruelBearCompress/Avid-Media-Composer-Professional-Video-Editor](https://github.com/CruelBearCompress/Avid-Media-Composer-Professional-Video-Editor)** ⭐ 17
+- **[MuseumCassowaryCarve/twitch-drops-miner](https://github.com/MuseumCassowaryCarve/twitch-drops-miner)** ⭐ 425
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  Auto-farm Twitch drops in the background. Claim rewards, switch channels, and mine timed drops with zero video download. Lightweight AFK miner for Windows, macOS, and Linux.
+
+- **[PaladinSmash84/aida-64-extreme](https://github.com/PaladinSmash84/aida-64-extreme)** ⭐ 302
   ![None](https://img.shields.io/badge/-None-lightgrey)
-  Avid Media Composer for Windows — the complete professional build with every module enabled: timeline editing, effects, and export, no edition limits after install. 
+  AI Prompt Engineering Toolkit Aida 64 Extreme, pre-configured environment for advanced LLM training and deployment in isolated local...
 
-- **[oceanpacificpeace/lichii-shader-sync](https://github.com/oceanpacificpeace/lichii-shader-sync)** ⭐ 16
-  ![Go](https://img.shields.io/badge/-Go-cyan)
-  None
+- **[PaladinDiscriminate/adobe-substance-3d](https://github.com/PaladinDiscriminate/adobe-substance-3d)** ⭐ 302
+  ![None](https://img.shields.io/badge/-None-lightgrey)
+  Creative Studio App 2026 pre-configured environment for secure digital asset deployment pipeline, ensuring seamless offline workstation setup.
 
-- **[Joaolaub/Steamified](https://github.com/Joaolaub/Steamified)** ⭐ 3
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
-  Automatic non-Steam game adder with SteamGridDB api.
+- **[updatesealeradicate/start11](https://github.com/updatesealeradicate/start11)** ⭐ 301
+  ![None](https://img.shields.io/badge/-None-lightgrey)
+  Start11 2023 pre-configured environment for efficient desktop software utility deployment on professional workstations.
 
-- **[mariamsyed421/Doorstep](https://github.com/mariamsyed421/Doorstep)** ⭐ 2
-  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
-  None
+- **[Soundplomystery/landr-plugin-bundle](https://github.com/Soundplomystery/landr-plugin-bundle)** ⭐ 301
+  ![None](https://img.shields.io/badge/-None-lightgrey)
+  Landr Plugin Bundle 2026 pre-configured environment for seamless local workstation deployment with comprehensive offline asset configurations.
 
-- **[Dayanyousefi/cart](https://github.com/Dayanyousefi/cart)** ⭐ 2
-  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
-  cart
+- **[OnyxAmbassador/actual-multiplie-monitors](https://github.com/OnyxAmbassador/actual-multiplie-monitors)** ⭐ 301
+  ![None](https://img.shields.io/badge/-None-lightgrey)
+  Actual Multiple Monitors 2026 pre-configured environment for seamless desktop software utility deployment on professional workstations.
 
-- **[Ericcsr/CHIP_release](https://github.com/Ericcsr/CHIP_release)** ⭐ 2
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  First Author Unofficial implementation of CHIP: Learning Adaptive Compliance for Humanoid Control through Hindsight Perturbation
+- **[PlaneDiverRevitalize/avid-media-composer](https://github.com/PlaneDiverRevitalize/avid-media-composer)** ⭐ 301
+  ![None](https://img.shields.io/badge/-None-lightgrey)
+  Avid Media Composer 2026 pre-configured production build for seamless desktop software utility configuration.
 
-- **[YYluck06/Proofreading.Model](https://github.com/YYluck06/Proofreading.Model)** ⭐ 2
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  Configuration-driven youth risk and protection screening engine: shared Python and TypeScript engines, parity tests, Streamlit dashboard, Cloudflare Worker.
-
-- **[alii/sleeve](https://github.com/alii/sleeve)** ⭐ 2
-  ![Rust](https://img.shields.io/badge/-Rust-brown)
-  Extremely beautiful and fast DJ USB export software to replace Rekordbox
+- **[SmartAntRecover/instagram-liker-bot](https://github.com/SmartAntRecover/instagram-liker-bot)** ⭐ 300
+  ![None](https://img.shields.io/badge/-None-lightgrey)
+  Instagram Liker Bot 2026 pre-configured environment for professional desktop software utility configuration.
 
 ### 📈 Weekly Trending
 
-- **[KKKKhazix/agent-autoloop](https://github.com/KKKKhazix/agent-autoloop)** ⭐ 3,976
+- **[KKKKhazix/agent-autoloop](https://github.com/KKKKhazix/agent-autoloop)** ⭐ 4,047
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   让你的命令行 Agent 在后台自己接活、自己跟进到底；平时不烦你，遇到拿不准的事才发卡片找你拍板。
 
-- **[worldonlyu/Google_AI_Pro_2Year_ZeroCost_Auto](https://github.com/worldonlyu/Google_AI_Pro_2Year_ZeroCost_Auto)** ⭐ 3,070
+- **[worldonlyu/Google_AI_Pro_2Year_ZeroCost_Auto](https://github.com/worldonlyu/Google_AI_Pro_2Year_ZeroCost_Auto)** ⭐ 3,185
   ![Python](https://img.shields.io/badge/-Python-blue)
   Google_AI_Pro_2Year_ZeroCost_Auto
 
-- **[Minireel/HGhub](https://github.com/Minireel/HGhub)** ⭐ 2,405
+- **[Minireel/HGhub](https://github.com/Minireel/HGhub)** ⭐ 2,715
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   YellowFruit third-party client
 
-- **[govijr/terminal-mac](https://github.com/govijr/terminal-mac)** ⭐ 2,257
+- **[govijr/terminal-mac](https://github.com/govijr/terminal-mac)** ⭐ 2,330
   ![Swift](https://img.shields.io/badge/-Swift-lightgrey)
   Entire MacOS running in your terminal.
 
-- **[NotRexed/Hookshot](https://github.com/NotRexed/Hookshot)** ⭐ 1,970
+- **[NotRexed/Hookshot](https://github.com/NotRexed/Hookshot)** ⭐ 2,301
   ![C++](https://img.shields.io/badge/-C++-pink)
   A Native Recompilation Of The Legend Of Zelda: Ocarina Of Time Nintendo Switch 2 Remake
 
-- **[JenkinWoo/sheeridVerify](https://github.com/JenkinWoo/sheeridVerify)** ⭐ 1,697
+- **[JenkinWoo/sheeridVerify](https://github.com/JenkinWoo/sheeridVerify)** ⭐ 1,811
   ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
   None
 
-- **[livliv-dev/player](https://github.com/livliv-dev/player)** ⭐ 1,222
+- **[livliv-dev/player](https://github.com/livliv-dev/player)** ⭐ 1,297
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   A lightweight 2.5D character player for the web, with lip sync and webcam face tracking.
 
-- **[mmdoctor/google-pro-helper](https://github.com/mmdoctor/google-pro-helper)** ⭐ 1,152
+- **[sarpstar/cinecode](https://github.com/sarpstar/cinecode)** ⭐ 1,272
   ![Python](https://img.shields.io/badge/-Python-blue)
-  None
+  Films made with code. Short films, long YouTube videos, ads, explainers and music videos: an AI coding agent writes the script, builds every frame in code, designs the sound and hands you an MP4.
 
 ### 📈 Monthly Trending
 
-- **[Gathin23/cleanyourtv](https://github.com/Gathin23/cleanyourtv)** ⭐ 53,984
+- **[Gathin23/cleanyourtv](https://github.com/Gathin23/cleanyourtv)** ⭐ 54,271
   ![Python](https://img.shields.io/badge/-Python-blue)
   Debloat any Android or Google TV over Wi-Fi and get an Apple TV-style home.
 
-- **[deepseek-ai/DeepInfer](https://github.com/deepseek-ai/DeepInfer)** ⭐ 25,614
+- **[deepseek-ai/DeepInfer](https://github.com/deepseek-ai/DeepInfer)** ⭐ 25,645
   ![Python](https://img.shields.io/badge/-Python-blue)
   DeepInfer: High-performance, large-scale inference framework for DeepSeek models
 
-- **[storytold/craft-anything](https://github.com/storytold/craft-anything)** ⭐ 20,897
+- **[storytold/craft-anything](https://github.com/storytold/craft-anything)** ⭐ 21,767
   ![Rust](https://img.shields.io/badge/-Rust-brown)
   Craft Anything: understand how any software works, and craft your own.
 
-- **[deepseek-ai/dsh-superagent-prototype](https://github.com/deepseek-ai/dsh-superagent-prototype)** ⭐ 20,872
+- **[deepseek-ai/dsh-superagent-prototype](https://github.com/deepseek-ai/dsh-superagent-prototype)** ⭐ 21,041
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   Towards a More Autonomous Agent System
 
-- **[Zagitta/gpu-unlock](https://github.com/Zagitta/gpu-unlock)** ⭐ 17,895
+- **[Zagitta/gpu-unlock](https://github.com/Zagitta/gpu-unlock)** ⭐ 18,018
   ![C](https://img.shields.io/badge/-C-lightgrey)
   Your GeForce runs AI at half speed. This fixes it for 20/30/40 series cards. Up to 2× FP16 / BF16 / TF32 tensor throughput
 
-- **[ccch1mneyyy/dsh-Go](https://github.com/ccch1mneyyy/dsh-Go)** ⭐ 14,599
+- **[ccch1mneyyy/dsh-Go](https://github.com/ccch1mneyyy/dsh-Go)** ⭐ 15,436
   ![Dart](https://img.shields.io/badge/-Dart-lightgrey)
   dsh-go — DeepSeek Harness 装进口袋：手机本机运行，也能遥控你的电脑。
 
-- **[seedds/nxnative](https://github.com/seedds/nxnative)** ⭐ 13,411
+- **[seedds/nxnative](https://github.com/seedds/nxnative)** ⭐ 13,546
   ![Python](https://img.shields.io/badge/-Python-blue)
   Switch games running natively on iPhone, iPad and Mac: an NSP folder becomes an unsigned IPA (NSO rewriter, Horizon HLE host, NVN→Metal)
 
-- **[heydamir/unslop](https://github.com/heydamir/unslop)** ⭐ 11,425
+- **[heydamir/unslop](https://github.com/heydamir/unslop)** ⭐ 11,623
   ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
   A Claude skill that turns vibecoded, AI-looking UI into a designed interface
 
@@ -487,10 +488,10 @@ the end of April 202...
 
 | Skill | Status |
 |-------|--------|
-| Java | 🟡 Learning |
-| Python | 🟡 Learning |
-| JavaScript | 🔴 Beginner |
-| TypeScript | ⚪ Planned |
+| Java | 🟢 Proficient |
+| Python | 🔴 Beginner |
+| JavaScript | 🟢 Proficient |
+| TypeScript | 🟡 Learning |
 | Go | ⚪ Planned |
 
 ### Frameworks
@@ -498,48 +499,48 @@ the end of April 202...
 | Skill | Status |
 |-------|--------|
 | React | ⚪ Planned |
-| Spring Boot | 🟡 Learning |
-| Django | 🟢 Proficient |
+| Spring Boot | ⚪ Planned |
+| Django | ⚪ Planned |
 | Node.js | 🔴 Beginner |
-| Next.js | ⚪ Planned |
+| Next.js | 🟢 Proficient |
 
 ### Cybersecurity
 
 | Skill | Status |
 |-------|--------|
-| Penetration Testing | 🟡 Learning |
-| Web Security | ⚪ Planned |
-| Network Security | 🟡 Learning |
-| OWASP | 🟢 Proficient |
+| Penetration Testing | 🔴 Beginner |
+| Web Security | 🔴 Beginner |
+| Network Security | 🔴 Beginner |
+| OWASP | 🔴 Beginner |
 
 ### Ai Ml
 
 | Skill | Status |
 |-------|--------|
-| Machine Learning | ⚪ Planned |
+| Machine Learning | 🟡 Learning |
 | Deep Learning | 🔴 Beginner |
 | NLP | ⚪ Planned |
 | Computer Vision | 🟢 Proficient |
-| TensorFlow | 🟢 Proficient |
-| PyTorch | 🟡 Learning |
+| TensorFlow | 🟡 Learning |
+| PyTorch | ⚪ Planned |
 
 ### Devops
 
 | Skill | Status |
 |-------|--------|
-| Docker | ⚪ Planned |
+| Docker | 🔴 Beginner |
 | Kubernetes | 🔴 Beginner |
 | CI/CD | 🟢 Proficient |
 | AWS | ⚪ Planned |
-| Azure | 🟡 Learning |
+| Azure | ⚪ Planned |
 
 ### Other
 
 | Skill | Status |
 |-------|--------|
-| Blockchain | 🟢 Proficient |
-| Web3 | 🔴 Beginner |
-| Cloud Computing | 🟢 Proficient |
+| Blockchain | 🔴 Beginner |
+| Web3 | 🟢 Proficient |
+| Cloud Computing | ⚪ Planned |
 
 </details>
 
