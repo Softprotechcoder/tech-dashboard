@@ -7,7 +7,7 @@
 ![AI & ML](https://img.shields.io/badge/-AI%20&%20ML-blue) ![CyberSecurity](https://img.shields.io/badge/-CyberSecurity-red) ![Full Stack Development](https://img.shields.io/badge/-Full%20Stack%20Development-green)
 
 [![Auto Update](https://img.shields.io/badge/Auto%20Update-Enabled-success)](https://github.com/yourusername/tech-dashboard/actions)
-[![Last Updated](https://img.shields.io/badge/Last%20Updated-November 07, 2026-blue)](https://github.com/yourusername/tech-dashboard)
+[![Last Updated](https://img.shields.io/badge/Last%20Updated-November 08, 2026-blue)](https://github.com/yourusername/tech-dashboard)
 
 *Automatically updated every 6 hours with the latest tech news, trending repositories, and learning resources.*
 
@@ -20,7 +20,7 @@
 | Metric | Count |
 |--------|-------|
 | 📰 Latest News Articles | 26 |
-| 🔥 Trending Repositories | 0 |
+| 🔥 Trending Repositories | 45 |
 | 🎯 Latest Releases | 10 |
 | 🎯 Learning Goals | 4 |
 
@@ -46,34 +46,40 @@
 
 ### 📑 Hacker News
 
-- **[Claude Code's "Don't Ask Again" exposes passwords in 1,122 public GitHub files](https://apiiro.com/blog/coding-agents-leaking-secrets-github-dont-ask-again)**
-  *<p>Article URL: <a href="https://apiiro.com/blog/coding-agents-leaking-secrets-github-dont-ask-again">https://apiiro.com/blog/coding-agents-leaking-secrets-github-dont-ask-again</a></p>
-<p>Comments UR...*
-  📅 Sat, 07 Nov 2026 20:45:32 +0000
+- **[Commodore PET – The Worlds First Personal Computer](https://www.commodore.ca/commodore-products/commodore-pet-the-worlds-first-personal-computer/)**
+  *<p>Article URL: <a href="https://www.commodore.ca/commodore-products/commodore-pet-the-worlds-first-personal-computer/">https://www.commodore.ca/commodore-products/commodore-pet-the-worlds-first-perso...*
+  📅 Sat, 07 Nov 2026 23:15:34 +0000
 
-- **[What I run on my $10 USD OpenStick homelab](https://blog.bosscher.ch/posts/openstick/)**
-  *<p>Article URL: <a href="https://blog.bosscher.ch/posts/openstick/">https://blog.bosscher.ch/posts/openstick/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50406670">https://n...*
-  📅 Sat, 07 Nov 2026 18:12:12 +0000
+- **[GitHub New pull request overview page in public preview](https://github.blog/changelog/2026-11-05-new-pull-request-overview-page-in-public-preview/)**
+  *<p>Article URL: <a href="https://github.blog/changelog/2026-11-05-new-pull-request-overview-page-in-public-preview/">https://github.blog/changelog/2026-11-05-new-pull-request-overview-page-in-public-p...*
+  📅 Sat, 07 Nov 2026 23:09:40 +0000
 
-- **[The end of Microsoft Research's AI Frontiers group](https://hunch.net/?p=13764006)**
-  *<p><a href="https://archive.is/AaY5O" rel="nofollow">https://archive.is/AaY5O</a><p><a href="https://businessexaminer.ca/victoria-articles/item/microsoft-researcher-john-langford-exits-as-ai-frontiers...*
-  📅 Sat, 07 Nov 2026 18:02:17 +0000
+- **[IRA Velinsky – Commodore's Industrial Designer](https://www.commodore.ca/commodore-history/ira-velinsky-commodores-amazing-industrial-designer/)**
+  *<p>Article URL: <a href="https://www.commodore.ca/commodore-history/ira-velinsky-commodores-amazing-industrial-designer/">https://www.commodore.ca/commodore-history/ira-velinsky-commodores-amazing-ind...*
+  📅 Sat, 07 Nov 2026 22:45:39 +0000
 
-- **[GeoWorks, Microsoft Windows' Upstart '90s Competitor](https://www.atlasobscura.com/articles/the-history-of-geoworks-microsoft-windows-upstart-90s-competitor)**
-  *<p>Article URL: <a href="https://www.atlasobscura.com/articles/the-history-of-geoworks-microsoft-windows-upstart-90s-competitor">https://www.atlasobscura.com/articles/the-history-of-geoworks-microsoft...*
-  📅 Sat, 07 Nov 2026 17:54:56 +0000
+- **[Making any integer with four 2s (2025)](https://eli.thegreenplace.net/2025/making-any-integer-with-four-2s/)**
+  *<p>Article URL: <a href="https://eli.thegreenplace.net/2025/making-any-integer-with-four-2s/">https://eli.thegreenplace.net/2025/making-any-integer-with-four-2s/</a></p>
+<p>Comments URL: <a href="http...*
+  📅 Sat, 07 Nov 2026 22:38:58 +0000
 
-- **[Five memorable books about programming (2008)](https://prog21.dadgum.com/19.html)**
-  *<p>Article URL: <a href="https://prog21.dadgum.com/19.html">https://prog21.dadgum.com/19.html</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50406319">https://news.ycombinator....*
-  📅 Sat, 07 Nov 2026 17:30:49 +0000
+- **[Show HN: An offline desktop companion to help maintain a healthy blink rhythm](https://eyesrhythm.com/)**
+  *<p>Profession like software engineer, mechanical / graphics designer takes a lot of strain on your eyes, observing minute details for hours and hours on screen can significantly reduce the blink rate ...*
+  📅 Sat, 07 Nov 2026 21:47:47 +0000
 
-- **[Show HN: Coldframe, a honeypot that poses as a supermarket fridge controller](https://github.com/hedgerow-dev/coldframe)**
-  *<p>I built Coldframe, a honeypot that pretends to be a supermarket refrigeration controller. Inspired by the events on industrial fridge installations in the past weeks, I wanted to see what people wo...*
-  📅 Sat, 07 Nov 2026 17:27:30 +0000
+- **[Show HN: Where Were We](https://wherewerewe.app/)**
+  *<p>A little web game I made as an anniversary present for my wife.<p>Upload vacation photos and make them into a game.<p>WWW uses EXIF to determine where and when the photo was taken. This is then tur...*
+  📅 Sat, 07 Nov 2026 21:08:35 +0000
 
 ### 📑 TechCrunch
+
+- **[After the midterms, things are looking rocky for Elon Musk and data centers](https://techcrunch.com/2026/11/07/after-the-midterms-things-are-looking-rocky-for-elon-musk-and-data-centers/)**
+  *On Equity, we unpacked what the midterms mean for the tech industry....*
+  📅 Sat, 07 Nov 2026 22:07:22 +0000
+
+- **[Megaspeed exec was recruited to spy on Nvidia CEO, according to US intelligence memo](https://techcrunch.com/2026/11/07/chinese-exec-was-recruited-to-spy-on-nvidia-ceo-according-to-us-intelligence-memo/)**
+  *A memo circulated earlier this year reportedly claimed that China’s Ministry of State Security recruited a female technology executive to spy on Nvidia's CEO....*
+  📅 Sat, 07 Nov 2026 21:17:08 +0000
 
 - **[Parents want safer phones for kids. These companies are answering the call.](https://techcrunch.com/2026/11/07/parents-want-safer-phones-for-kids-these-companies-are-answering-the-call/)**
   *As parents look for alternatives to unrestricted smartphones, a growing number of companies are building phones designed specifically for kids, from feature-limited mobile devices to minimalist home p...*
@@ -91,27 +97,133 @@
   *Sequoia pioneered the scouts model and many VC firms followed suit, but a consensus now seems to be forming that the model has reached limits in its current form....*
   📅 Sat, 07 Nov 2026 05:01:54 +0000
 
-- **[From the front row to the hot seat — what the midterms mean for Big Tech](https://techcrunch.com/2026/11/06/from-the-front-row-to-the-hot-seat-what-the-midterms-mean-for-big-tech/)**
-  *After spending two years getting cozy with the White House, Big Tech is suddenly trying to make friends with Democrats, and the open question is whether that image makeover can hold up against what st...*
-  📅 Sat, 07 Nov 2026 04:16:43 +0000
-
-- **[Crusoe sells troubled Wyoming data center project to Google](https://techcrunch.com/2026/11/06/crusoe-sells-troubled-wyoming-data-center-project-to-google/)**
-  *The deal highlights the challenges of developing massive AI data centers....*
-  📅 Sat, 07 Nov 2026 01:40:28 +0000
-
 ### 📑 Dev.to
 
-- **[There is no fastest AI API: 100 days of probing 44 providers from 4 regions](https://dev.to/max_bob/there-is-no-fastest-ai-api-100-days-of-probing-44-providers-from-4-regions-4oc9)**
-  *<p>Since July I've been running probes in four places (Germany, US Central, Tokyo and São Paulo) that connect to the official API host of every AI inference provider I track, every five minutes. That'...*
-  📅 Sat, 07 Nov 2026 21:13:13 +0000
+- **[Traefik Dashboard Exposure: Routing Visibility Can Become Control-Plane Visibility](https://dev.to/kozhevniko/traefik-dashboard-exposure-routing-visibility-can-become-control-plane-visibility-18fn)**
+  *<h1>
+  
+  
+  Traefik Dashboard Exposure: Routing Visibility Can Become Control-Plane Visibility
+</h1>
 
-- **[GDPR-Compliant Password Reset Email Service: Functionality Tests for Support Teams](https://dev.to/gideonsterling9643/gdpr-compliant-password-reset-email-service-functionality-tests-for-support-teams-24nj)**
-  *<p>Short answer: choose the delivery setup that can prove what data crossed each boundary, why it crossed it, and when it became useless. For a customer-support password reset, GDPR compliance is not ...*
-  📅 Sat, 07 Nov 2026 21:12:47 +0000
+<p>The Traefik dashboard shows routes, services, middleware, and other runtime state. The project...*
+  📅 Sun, 08 Nov 2026 03:23:00 +0000
+
+- **[Improving Offline Functionality in a Mobile App: Lessons from the Trenches](https://dev.to/adriaanbalt/improving-offline-functionality-in-a-mobile-app-lessons-from-the-trenches-1nj5)**
+  *<h2>
+  
+  
+  The Problem: Offline Woes in Airplane Mode
+</h2>
+
+<p>I noticed a significant issue: users were seeing blank screens and black hero images when trying to access movie details in Airplane M...*
+  📅 Sun, 08 Nov 2026 03:22:41 +0000
 
 </details>
 
 ## 🔥 Trending Repositories
+
+### 📈 Daily Trending
+
+- **[CruelBearCompress/Avid-Media-Composer-Professional-Video-Editor](https://github.com/CruelBearCompress/Avid-Media-Composer-Professional-Video-Editor)** ⭐ 17
+  ![None](https://img.shields.io/badge/-None-lightgrey)
+  Avid Media Composer for Windows — the complete professional build with every module enabled: timeline editing, effects, and export, no edition limits after install. 
+
+- **[oceanpacificpeace/lichii-shader-sync](https://github.com/oceanpacificpeace/lichii-shader-sync)** ⭐ 16
+  ![Go](https://img.shields.io/badge/-Go-cyan)
+  None
+
+- **[Joaolaub/Steamified](https://github.com/Joaolaub/Steamified)** ⭐ 3
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
+  Automatic non-Steam game adder with SteamGridDB api.
+
+- **[mariamsyed421/Doorstep](https://github.com/mariamsyed421/Doorstep)** ⭐ 2
+  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
+  None
+
+- **[Dayanyousefi/cart](https://github.com/Dayanyousefi/cart)** ⭐ 2
+  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
+  cart
+
+- **[Ericcsr/CHIP_release](https://github.com/Ericcsr/CHIP_release)** ⭐ 2
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  First Author Unofficial implementation of CHIP: Learning Adaptive Compliance for Humanoid Control through Hindsight Perturbation
+
+- **[YYluck06/Proofreading.Model](https://github.com/YYluck06/Proofreading.Model)** ⭐ 2
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  Configuration-driven youth risk and protection screening engine: shared Python and TypeScript engines, parity tests, Streamlit dashboard, Cloudflare Worker.
+
+- **[alii/sleeve](https://github.com/alii/sleeve)** ⭐ 2
+  ![Rust](https://img.shields.io/badge/-Rust-brown)
+  Extremely beautiful and fast DJ USB export software to replace Rekordbox
+
+### 📈 Weekly Trending
+
+- **[KKKKhazix/agent-autoloop](https://github.com/KKKKhazix/agent-autoloop)** ⭐ 3,976
+  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
+  让你的命令行 Agent 在后台自己接活、自己跟进到底；平时不烦你，遇到拿不准的事才发卡片找你拍板。
+
+- **[worldonlyu/Google_AI_Pro_2Year_ZeroCost_Auto](https://github.com/worldonlyu/Google_AI_Pro_2Year_ZeroCost_Auto)** ⭐ 3,070
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  Google_AI_Pro_2Year_ZeroCost_Auto
+
+- **[Minireel/HGhub](https://github.com/Minireel/HGhub)** ⭐ 2,405
+  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
+  YellowFruit third-party client
+
+- **[govijr/terminal-mac](https://github.com/govijr/terminal-mac)** ⭐ 2,257
+  ![Swift](https://img.shields.io/badge/-Swift-lightgrey)
+  Entire MacOS running in your terminal.
+
+- **[NotRexed/Hookshot](https://github.com/NotRexed/Hookshot)** ⭐ 1,970
+  ![C++](https://img.shields.io/badge/-C++-pink)
+  A Native Recompilation Of The Legend Of Zelda: Ocarina Of Time Nintendo Switch 2 Remake
+
+- **[JenkinWoo/sheeridVerify](https://github.com/JenkinWoo/sheeridVerify)** ⭐ 1,697
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
+  None
+
+- **[livliv-dev/player](https://github.com/livliv-dev/player)** ⭐ 1,222
+  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
+  A lightweight 2.5D character player for the web, with lip sync and webcam face tracking.
+
+- **[mmdoctor/google-pro-helper](https://github.com/mmdoctor/google-pro-helper)** ⭐ 1,152
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  None
+
+### 📈 Monthly Trending
+
+- **[Gathin23/cleanyourtv](https://github.com/Gathin23/cleanyourtv)** ⭐ 53,984
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  Debloat any Android or Google TV over Wi-Fi and get an Apple TV-style home.
+
+- **[deepseek-ai/DeepInfer](https://github.com/deepseek-ai/DeepInfer)** ⭐ 25,614
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  DeepInfer: High-performance, large-scale inference framework for DeepSeek models
+
+- **[storytold/craft-anything](https://github.com/storytold/craft-anything)** ⭐ 20,897
+  ![Rust](https://img.shields.io/badge/-Rust-brown)
+  Craft Anything: understand how any software works, and craft your own.
+
+- **[deepseek-ai/dsh-superagent-prototype](https://github.com/deepseek-ai/dsh-superagent-prototype)** ⭐ 20,872
+  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
+  Towards a More Autonomous Agent System
+
+- **[Zagitta/gpu-unlock](https://github.com/Zagitta/gpu-unlock)** ⭐ 17,895
+  ![C](https://img.shields.io/badge/-C-lightgrey)
+  Your GeForce runs AI at half speed. This fixes it for 20/30/40 series cards. Up to 2× FP16 / BF16 / TF32 tensor throughput
+
+- **[ccch1mneyyy/dsh-Go](https://github.com/ccch1mneyyy/dsh-Go)** ⭐ 14,599
+  ![Dart](https://img.shields.io/badge/-Dart-lightgrey)
+  dsh-go — DeepSeek Harness 装进口袋：手机本机运行，也能遥控你的电脑。
+
+- **[seedds/nxnative](https://github.com/seedds/nxnative)** ⭐ 13,411
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  Switch games running natively on iPhone, iPad and Mac: an NSP folder becomes an unsigned IPA (NSO rewriter, Horizon HLE host, NVN→Metal)
+
+- **[heydamir/unslop](https://github.com/heydamir/unslop)** ⭐ 11,425
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
+  A Claude skill that turns vibecoded, AI-looking UI into a designed interface
 
 ## 🚀 Latest Releases
 
@@ -376,7 +488,7 @@ the end of April 202...
 | Skill | Status |
 |-------|--------|
 | Java | 🟡 Learning |
-| Python | 🟢 Proficient |
+| Python | 🟡 Learning |
 | JavaScript | 🔴 Beginner |
 | TypeScript | ⚪ Planned |
 | Go | ⚪ Planned |
@@ -385,17 +497,17 @@ the end of April 202...
 
 | Skill | Status |
 |-------|--------|
-| React | 🟢 Proficient |
+| React | ⚪ Planned |
 | Spring Boot | 🟡 Learning |
-| Django | 🔴 Beginner |
-| Node.js | 🟡 Learning |
-| Next.js | 🔴 Beginner |
+| Django | 🟢 Proficient |
+| Node.js | 🔴 Beginner |
+| Next.js | ⚪ Planned |
 
 ### Cybersecurity
 
 | Skill | Status |
 |-------|--------|
-| Penetration Testing | 🔴 Beginner |
+| Penetration Testing | 🟡 Learning |
 | Web Security | ⚪ Planned |
 | Network Security | 🟡 Learning |
 | OWASP | 🟢 Proficient |
@@ -405,21 +517,21 @@ the end of April 202...
 | Skill | Status |
 |-------|--------|
 | Machine Learning | ⚪ Planned |
-| Deep Learning | ⚪ Planned |
-| NLP | 🟢 Proficient |
-| Computer Vision | 🔴 Beginner |
-| TensorFlow | 🔴 Beginner |
+| Deep Learning | 🔴 Beginner |
+| NLP | ⚪ Planned |
+| Computer Vision | 🟢 Proficient |
+| TensorFlow | 🟢 Proficient |
 | PyTorch | 🟡 Learning |
 
 ### Devops
 
 | Skill | Status |
 |-------|--------|
-| Docker | 🔴 Beginner |
+| Docker | ⚪ Planned |
 | Kubernetes | 🔴 Beginner |
 | CI/CD | 🟢 Proficient |
-| AWS | 🟢 Proficient |
-| Azure | 🔴 Beginner |
+| AWS | ⚪ Planned |
+| Azure | 🟡 Learning |
 
 ### Other
 
@@ -445,7 +557,7 @@ This dashboard is automatically updated every 6 hours using GitHub Actions. The 
 
 <div align="center">
 
-**Last Updated:** November 07, 2026
+**Last Updated:** November 08, 2026
 
 Made with ❤️ and automated with GitHub Actions
 
