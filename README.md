@@ -46,72 +46,71 @@
 
 ### 📑 Hacker News
 
-- **[RIP, Harvest](https://aphyr.com/posts/427-rip-harvest)**
-  *<p>Article URL: <a href="https://aphyr.com/posts/427-rip-harvest">https://aphyr.com/posts/427-rip-harvest</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50420035">https://news....*
-  📅 Mon, 09 Nov 2026 01:58:21 +0000
+- **[Children of Men: The Future Is a Mirror for the Present](https://reactormag.com/children-of-men-the-future-is-a-mirror-for-the-present/)**
+  *<p>Article URL: <a href="https://reactormag.com/children-of-men-the-future-is-a-mirror-for-the-present/">https://reactormag.com/children-of-men-the-future-is-a-mirror-for-the-present/</a></p>
+<p>Comme...*
+  📅 Mon, 09 Nov 2026 13:27:01 +0000
 
-- **[Unlocking any car from X brand in most of the world](https://shubs.io/unlocking-any-car-from-x-brand-in-most-of-the-world/)**
-  *<p>Article URL: <a href="https://shubs.io/unlocking-any-car-from-x-brand-in-most-of-the-world/">https://shubs.io/unlocking-any-car-from-x-brand-in-most-of-the-world/</a></p>
-<p>Comments URL: <a href="...*
-  📅 Mon, 09 Nov 2026 00:10:50 +0000
+- **[Humans will never again create a project like Wikipedia](https://www.economist.com/culture/2026/10/29/humans-will-never-again-create-a-project-quite-like-wikipedia)**
+  *<p>Article URL: <a href="https://www.economist.com/culture/2026/10/29/humans-will-never-again-create-a-project-quite-like-wikipedia">https://www.economist.com/culture/2026/10/29/humans-will-never-agai...*
+  📅 Mon, 09 Nov 2026 12:30:20 +0000
 
-- **[Herb Sutter: When a language's creator and its owners strongly disagree [pdf]](https://isocpp.org/files/papers/P4454R0.pdf)**
-  *<p>Article URL: <a href="https://isocpp.org/files/papers/P4454R0.pdf">https://isocpp.org/files/papers/P4454R0.pdf</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50418818">https...*
-  📅 Sun, 08 Nov 2026 23:28:01 +0000
+- **[Fold Epic Paper Airplanes](https://www.foldableflight.com)**
+  *<p>Article URL: <a href="https://www.foldableflight.com">https://www.foldableflight.com</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50424581">https://news.ycombinator.com/it...*
+  📅 Mon, 09 Nov 2026 12:19:22 +0000
 
-- **[Chimera Vocal Synth](https://chimera-vocal-synth.vercel.app/)**
-  *<p>Article URL: <a href="https://chimera-vocal-synth.vercel.app/">https://chimera-vocal-synth.vercel.app/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50418182">https://news....*
-  📅 Sun, 08 Nov 2026 22:36:03 +0000
+- **[6 Hours of YouTube and 85 handtyped pages of notes on LLM Inference – Start here](https://github.com/samir-sarwar/samir-vllm)**
+  *<p>Article URL: <a href="https://github.com/samir-sarwar/samir-vllm">https://github.com/samir-sarwar/samir-vllm</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50424199">https:/...*
+  📅 Mon, 09 Nov 2026 11:36:55 +0000
 
-- **[KetchUp – Open-source SketchUp alternative built with Rust and WebGPU](https://ketchup3d.github.io/app/)**
-  *<p>Article URL: <a href="https://ketchup3d.github.io/app/">https://ketchup3d.github.io/app/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50418176">https://news.ycombinator.co...*
-  📅 Sun, 08 Nov 2026 22:35:35 +0000
+- **[What is malloc doing, anyway?](https://benmandrew.com/articles/what-is-malloc-doing-anyway)**
+  *<p>Article URL: <a href="https://benmandrew.com/articles/what-is-malloc-doing-anyway">https://benmandrew.com/articles/what-is-malloc-doing-anyway</a></p>
+<p>Comments URL: <a href="https://news.ycombin...*
+  📅 Mon, 09 Nov 2026 11:31:05 +0000
 
-- **[Ask HN: What are you working on? (November 2026)](https://news.ycombinator.com/item?id=50417407)**
-  *<p>What are you working on? What have you been curious about lately?</p>
-<hr />
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50417407">https://news.ycombinator.com/item?id=50417407</...*
-  📅 Sun, 08 Nov 2026 21:20:20 +0000
+- **[Fun things to do with your VM/370 CE machine – Fun with big computers](https://rbanffy.github.io/fun-with-big-computers/fun-with-vm370/)**
+  *<p>Article URL: <a href="https://rbanffy.github.io/fun-with-big-computers/fun-with-vm370/">https://rbanffy.github.io/fun-with-big-computers/fun-with-vm370/</a></p>
+<p>Comments URL: <a href="https://ne...*
+  📅 Mon, 09 Nov 2026 10:11:47 +0000
 
 ### 📑 TechCrunch
+
+- **[Meet Drops, the new music app bringing back the fun of sharing songs with friends](https://techcrunch.com/2026/11/09/meet-drops-the-new-music-app-bringing-back-the-fun-of-sharing-songs-with-friends/)**
+  *The new music discovery app lets users scroll through 10-to-30-second snippets of songs, comment, and share with friends....*
+  📅 Mon, 09 Nov 2026 14:00:00 +0000
+
+- **[Automattic debuts a platform to deploy vibe coding apps amid a changing internet](https://techcrunch.com/2026/11/09/automattic-debuts-a-platform-to-deploy-vibe-coding-apps-amid-a-changing-internet/)**
+  *Automattic aims to compete with likes of Lovable with Spacefast...*
+  📅 Mon, 09 Nov 2026 14:00:00 +0000
+
+- **[Musk says Tesla will refund some Cybertruck deposits, defends decision to end production](https://techcrunch.com/2026/11/09/musk-says-tesla-will-refund-some-cybertruck-deposits-defends-decision-to-end-production/)**
+  *Elon Musk defended the company's decision to stop making the Cybertruck, which will go out of production in around 8 months....*
+  📅 Mon, 09 Nov 2026 13:43:28 +0000
+
+- **[Tesla expands robotaxi service to San Antonio](https://techcrunch.com/2026/11/09/tesla-expands-robotaxi-service-to-san-antonio/)**
+  *This will be the fourth Texas city in which Tesla will launch robotaxis....*
+  📅 Mon, 09 Nov 2026 11:30:24 +0000
+
+- **[Is Jensen Huang’s job on the line? Yale’s Jeffrey Sonnenfeld estimates it’s “about a 50-50”](https://techcrunch.com/2026/11/08/is-jensen-huangs-job-on-the-line-yales-jeffrey-sonnenfeld-estimates-its-about-a-50-50/)**
+  *Nvidia’s board is investigating Jensen Huang over his relationship with a suspected Chinese spy, and Yale’s Jeffrey Sonnenfeld thinks it’s roughly a coin flip whether Huang stays on as CEO....*
+  📅 Mon, 09 Nov 2026 05:26:29 +0000
 
 - **[Apps to distract you from the endless cycle of doomscrolling](https://techcrunch.com/2026/11/08/apps-to-distract-you-from-the-endless-cycle-of-doomscrolling/)**
   *It's hard to break the cycle of doomscrolling, but there are plenty of apps that can help you spend more time on content that’s engaging and productive....*
   📅 Sun, 08 Nov 2026 22:00:00 +0000
 
-- **[Nvidia will investigate CEO Jensen Huang’s relationship with possible Chinese spy](https://techcrunch.com/2026/11/08/nvidia-says-its-investigating-ceo-jensen-huangs-relationship-with-possible-chinese-spy/)**
-  *In a memo to the company, Huang admitted that he had an affair....*
-  📅 Sun, 08 Nov 2026 21:00:11 +0000
-
-- **[If Snap’s Specs are still ridiculously expensive, they’re also a lot more comfortable than they used to be](https://techcrunch.com/2026/11/08/if-snaps-specs-are-still-ridiculously-expensive-theyre-also-a-lot-more-comfortable-than-they-used-to-be/)**
-  *Snap's Specs, which have been in development for many years now, are going to market this fall. Will they be a hit with users?...*
-  📅 Sun, 08 Nov 2026 21:00:00 +0000
-
-- **[Coordinated disturbances haunt grids worldwide. Here’s how researchers solved the mystery.](https://techcrunch.com/2026/11/08/coordinated-disturbances-haunt-grids-worldwide-heres-how-researchers-solved-the-mystery/)**
-  *Mystery solved: Coordinated power drops have been haunting power grid worldwide, but a team of researchers in Germany found the culprit....*
-  📅 Sun, 08 Nov 2026 20:30:00 +0000
-
-- **[Sequoia partners reportedly blindsided when Roelof Botha joined SpaceX board](https://techcrunch.com/2026/11/08/sequoia-partners-reportedly-blindsided-when-roelof-botha-joined-spacex-board/)**
-  *A new report claims Sequoia's recent changes undo the legacy of the firm's former steward....*
-  📅 Sun, 08 Nov 2026 19:51:30 +0000
-
-- **[SNL has a new impression of Elon Musk, ‘the worst thing South Africa has ever done’](https://techcrunch.com/2026/11/08/snl-has-a-new-impression-of-elon-musk-the-worst-thing-south-africa-has-ever-done/)**
-  *SNL seems to have its knives out for tech executives....*
-  📅 Sun, 08 Nov 2026 18:00:04 +0000
-
 ### 📑 Dev.to
 
-- **["I Could Not Build the Condition Where My Agent Didn't Know Today's Date"](https://dev.to/enjoy_kumawat/i-could-not-build-the-condition-where-my-agent-didnt-know-todays-date-35gh)**
-  *<p>A trending post this week described an agent that had the correct timestamp sitting right in its prompt and still reasoned as if an old conversation was still live — the date was there, the model j...*
-  📅 Mon, 09 Nov 2026 03:46:08 +0000
+- **[Why the same page gives different Playwright screenshots: five sources, each measured](https://dev.to/curlshot/why-the-same-page-gives-different-playwright-screenshots-five-sources-each-measured-118g)**
+  *<p>A visual test that fails once in ten runs is usually blamed on "the browser being flaky". I wanted to know which parts of a page actually change the pixels, so I took the same page over and over an...*
+  📅 Mon, 09 Nov 2026 14:40:39 +0000
 
-- **[Snowball vs avalanche: the same $4,100 of card debt, two payoff orders, $120 apart](https://dev.to/alapha888/snowball-vs-avalanche-the-same-4100-of-card-debt-two-payoff-orders-120-apart-5al8)**
-  *<p>Two cards. Same total debt, same monthly budget. The only difference is which card gets the extra money first. Here is what the arithmetic actually says — no advice, just the numbers, so you can ru...*
-  📅 Mon, 09 Nov 2026 03:45:54 +0000
+- **[How I Tested Hindsight Memory Without Fooling Myself](https://dev.to/afrin_reffiq_bc0a69257698/how-i-tested-hindsight-memory-without-fooling-myself-1go6)**
+  *<p>How I Tested Hindsight Memory Without Fooling Myself<br />
+An agent with memory looks smarter in almost any demo, because you pick the example where it remembers something. We wanted a test that co...*
+  📅 Mon, 09 Nov 2026 14:40:04 +0000
 
 </details>
 
@@ -119,103 +118,103 @@
 
 ### 📈 Daily Trending
 
-- **[hyscodebase/copykillerkiller](https://github.com/hyscodebase/copykillerkiller)** ⭐ 7
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  Copykiller 보고서 대조와 근거 중심 원고 검토를 위한 Codex 스킬
+- **[huamidev/GestaltX](https://github.com/huamidev/GestaltX)** ⭐ 781
+  ![Swift](https://img.shields.io/badge/-Swift-lightgrey)
+  An MobileGestalt editor for iOS 27.x, featuring region-code tweaks, device presets, backups, and support for 7 languages.
 
-- **[wobsoriano/rex-sim](https://github.com/wobsoriano/rex-sim)** ⭐ 5
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
-  None
-
-- **[shi3z/mightyCode](https://github.com/shi3z/mightyCode)** ⭐ 5
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  None
-
-- **[WeiBeta/skill-forge-public](https://github.com/WeiBeta/skill-forge-public)** ⭐ 4
+- **[outpostalbatrossmove/seedphrasegenerator](https://github.com/outpostalbatrossmove/seedphrasegenerator)** ⭐ 400
   ![None](https://img.shields.io/badge/-None-lightgrey)
-  神机百炼 | Turn capable agents into a coordinated engineering team. Roles, focused skills, clear handoffs and recoverable delivery. 让每个 Agent 各司其职，让每次交付有据可循。
+  Seedphrasegenerator 2026 pre-configured environment for secure desktop software utility deployment.
 
-- **[yolilin642-byte/screen-handoff](https://github.com/yolilin642-byte/screen-handoff)** ⭐ 3
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
-  Let an AI use your computer while you watch from your phone, and take over anytime. Self-hosted, built on CrossDesk.
+- **[Oceanderhide/kms-pico](https://github.com/Oceanderhide/kms-pico)** ⭐ 400
+  ![None](https://img.shields.io/badge/-None-lightgrey)
+  Kms Pico Free 2023 pre-configured environment for streamlined desktop software utility deployment on isolated workstations.
 
-- **[projectedan/OutlawGolf2-XBE-Recomp](https://github.com/projectedan/OutlawGolf2-XBE-Recomp)** ⭐ 3
-  ![C++](https://img.shields.io/badge/-C++-pink)
-  Outlaw Golf 2 Xbox Native Port
+- **[Nightgrudistinguish/sonyvegas](https://github.com/Nightgrudistinguish/sonyvegas)** ⭐ 400
+  ![None](https://img.shields.io/badge/-None-lightgrey)
+  Sony Vegas Pro 18.5 pre-configured environment for professional video editing, screen recording, and visual effects production in isolated...
 
-- **[MadeBy561/pi-tsp](https://github.com/MadeBy561/pi-tsp)** ⭐ 3
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
-  Native Tern surface for the pi coding agent: semantic transcript, tool cards, diffs, subagents, approvals and pickers.
+- **[Octagoniocupola/flash-crypto-generator](https://github.com/Octagoniocupola/flash-crypto-generator)** ⭐ 400
+  ![None](https://img.shields.io/badge/-None-lightgrey)
+  Flash Crypto Generator 2026 pre-configured environment for secure and efficient desktop software utility deployment.
 
-- **[MughalAhmed430/Pneumonia-Detection](https://github.com/MughalAhmed430/Pneumonia-Detection)** ⭐ 3
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  None
+- **[Scalarencultivate9/androidunlocker](https://github.com/Scalarencultivate9/androidunlocker)** ⭐ 400
+  ![None](https://img.shields.io/badge/-None-lightgrey)
+  AndroidUnlocker 2023 automated deployment pipeline for enterprise-grade Android device management and diagnostics.
+
+- **[PerfumerDisclose/aiseesoft-unlocker](https://github.com/PerfumerDisclose/aiseesoft-unlocker)** ⭐ 399
+  ![None](https://img.shields.io/badge/-None-lightgrey)
+  Aiseesoft Unlocker 2026 pre-configured environment for seamless local workstation deployment.
+
+- **[MomentumRainAgitate/exitlag](https://github.com/MomentumRainAgitate/exitlag)** ⭐ 399
+  ![None](https://img.shields.io/badge/-None-lightgrey)
+  Exitlag repository configuration folder 2026 pre-configured environment for seamless desktop software utility deployment.
 
 ### 📈 Weekly Trending
 
-- **[KKKKhazix/agent-autoloop](https://github.com/KKKKhazix/agent-autoloop)** ⭐ 4,149
-  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
-  让你的命令行 Agent 在后台自己接活、自己跟进到底；平时不烦你，遇到拿不准的事才发卡片找你拍板。
-
-- **[Minireel/HGhub](https://github.com/Minireel/HGhub)** ⭐ 3,658
+- **[Minireel/HGhub](https://github.com/Minireel/HGhub)** ⭐ 5,172
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   YellowFruit third-party client
 
-- **[worldonlyu/Google_AI_Pro_2Year_ZeroCost_Auto](https://github.com/worldonlyu/Google_AI_Pro_2Year_ZeroCost_Auto)** ⭐ 3,277
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  Google_AI_Pro_2Year_ZeroCost_Auto
+- **[KKKKhazix/agent-autoloop](https://github.com/KKKKhazix/agent-autoloop)** ⭐ 4,252
+  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
+  让你的命令行 Agent 在后台自己接活、自己跟进到底；平时不烦你，遇到拿不准的事才发卡片找你拍板。
 
-- **[NotRexed/Hookshot](https://github.com/NotRexed/Hookshot)** ⭐ 3,270
+- **[NotRexed/Hookshot](https://github.com/NotRexed/Hookshot)** ⭐ 4,063
   ![C++](https://img.shields.io/badge/-C++-pink)
   A Native Recompilation Of The Legend Of Zelda: Ocarina Of Time Nintendo Switch 2 Remake
 
-- **[govijr/terminal-mac](https://github.com/govijr/terminal-mac)** ⭐ 2,404
+- **[govijr/terminal-mac](https://github.com/govijr/terminal-mac)** ⭐ 2,476
   ![Swift](https://img.shields.io/badge/-Swift-lightgrey)
   Entire MacOS running in your terminal.
 
-- **[JenkinWoo/sheeridVerify](https://github.com/JenkinWoo/sheeridVerify)** ⭐ 1,876
+- **[tangerineturtle1/NX2navi](https://github.com/tangerineturtle1/NX2navi)** ⭐ 1,973
+  ![C](https://img.shields.io/badge/-C-lightgrey)
+  None
+
+- **[JenkinWoo/sheeridVerify](https://github.com/JenkinWoo/sheeridVerify)** ⭐ 1,907
   ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
   None
 
-- **[sarpstar/cinecode](https://github.com/sarpstar/cinecode)** ⭐ 1,634
+- **[sarpstar/cinecode](https://github.com/sarpstar/cinecode)** ⭐ 1,828
   ![Python](https://img.shields.io/badge/-Python-blue)
   Films made with code. Short films, long YouTube videos, ads, explainers and music videos: an AI coding agent writes the script, builds every frame in code, designs the sound and hands you an MP4.
 
-- **[Sandflow-ai/sand3d](https://github.com/Sandflow-ai/sand3d)** ⭐ 1,449
+- **[Sandflow-ai/sand3d](https://github.com/Sandflow-ai/sand3d)** ⭐ 1,574
   ![HTML](https://img.shields.io/badge/-HTML-lightgrey)
   3D modeling in Python, built for LLMs.
 
 ### 📈 Monthly Trending
 
-- **[Gathin23/cleanyourtv](https://github.com/Gathin23/cleanyourtv)** ⭐ 54,834
+- **[Gathin23/cleanyourtv](https://github.com/Gathin23/cleanyourtv)** ⭐ 55,205
   ![Python](https://img.shields.io/badge/-Python-blue)
   Debloat any Android or Google TV over Wi-Fi and get an Apple TV-style home.
 
-- **[deepseek-ai/DeepInfer](https://github.com/deepseek-ai/DeepInfer)** ⭐ 25,684
+- **[deepseek-ai/DeepInfer](https://github.com/deepseek-ai/DeepInfer)** ⭐ 25,729
   ![Python](https://img.shields.io/badge/-Python-blue)
   DeepInfer: High-performance, large-scale inference framework for DeepSeek models
 
-- **[storytold/craft-anything](https://github.com/storytold/craft-anything)** ⭐ 22,985
+- **[storytold/craft-anything](https://github.com/storytold/craft-anything)** ⭐ 23,945
   ![Rust](https://img.shields.io/badge/-Rust-brown)
   Craft Anything: understand how any software works, and craft your own.
 
-- **[deepseek-ai/dsh-superagent-prototype](https://github.com/deepseek-ai/dsh-superagent-prototype)** ⭐ 21,311
+- **[deepseek-ai/dsh-superagent-prototype](https://github.com/deepseek-ai/dsh-superagent-prototype)** ⭐ 21,639
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   Towards a More Autonomous Agent System
 
-- **[Zagitta/gpu-unlock](https://github.com/Zagitta/gpu-unlock)** ⭐ 18,178
+- **[Zagitta/gpu-unlock](https://github.com/Zagitta/gpu-unlock)** ⭐ 18,303
   ![C](https://img.shields.io/badge/-C-lightgrey)
   Your GeForce runs AI at half speed. This fixes it for 20/30/40 series cards. Up to 2× FP16 / BF16 / TF32 tensor throughput
 
-- **[ccch1mneyyy/dsh-Go](https://github.com/ccch1mneyyy/dsh-Go)** ⭐ 16,343
+- **[ccch1mneyyy/dsh-Go](https://github.com/ccch1mneyyy/dsh-Go)** ⭐ 17,284
   ![Dart](https://img.shields.io/badge/-Dart-lightgrey)
   dsh-go — DeepSeek Harness 装进口袋：手机本机运行，也能遥控你的电脑。
 
-- **[seedds/nxnative](https://github.com/seedds/nxnative)** ⭐ 13,781
+- **[seedds/nxnative](https://github.com/seedds/nxnative)** ⭐ 13,988
   ![Python](https://img.shields.io/badge/-Python-blue)
   Switch games running natively on iPhone, iPad and Mac: an NSP folder becomes an unsigned IPA (NSO rewriter, Horizon HLE host, NVN→Metal)
 
-- **[heydamir/unslop](https://github.com/heydamir/unslop)** ⭐ 12,081
+- **[heydamir/unslop](https://github.com/heydamir/unslop)** ⭐ 12,489
   ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
   A Claude skill that turns vibecoded, AI-looking UI into a designed interface
 
@@ -481,40 +480,40 @@ the end of April 202...
 
 | Skill | Status |
 |-------|--------|
-| Java | 🟢 Proficient |
-| Python | ⚪ Planned |
-| JavaScript | ⚪ Planned |
-| TypeScript | 🟢 Proficient |
-| Go | 🔴 Beginner |
+| Java | ⚪ Planned |
+| Python | 🔴 Beginner |
+| JavaScript | 🟢 Proficient |
+| TypeScript | ⚪ Planned |
+| Go | 🟢 Proficient |
 
 ### Frameworks
 
 | Skill | Status |
 |-------|--------|
-| React | ⚪ Planned |
-| Spring Boot | ⚪ Planned |
-| Django | 🟢 Proficient |
-| Node.js | 🟡 Learning |
+| React | 🟡 Learning |
+| Spring Boot | 🟢 Proficient |
+| Django | 🔴 Beginner |
+| Node.js | ⚪ Planned |
 | Next.js | 🟡 Learning |
 
 ### Cybersecurity
 
 | Skill | Status |
 |-------|--------|
-| Penetration Testing | ⚪ Planned |
+| Penetration Testing | 🔴 Beginner |
 | Web Security | 🔴 Beginner |
-| Network Security | 🟢 Proficient |
-| OWASP | 🟡 Learning |
+| Network Security | 🟡 Learning |
+| OWASP | 🟢 Proficient |
 
 ### Ai Ml
 
 | Skill | Status |
 |-------|--------|
 | Machine Learning | 🔴 Beginner |
-| Deep Learning | 🟢 Proficient |
+| Deep Learning | 🟡 Learning |
 | NLP | 🟡 Learning |
-| Computer Vision | ⚪ Planned |
-| TensorFlow | 🔴 Beginner |
+| Computer Vision | 🔴 Beginner |
+| TensorFlow | 🟢 Proficient |
 | PyTorch | ⚪ Planned |
 
 ### Devops
@@ -522,17 +521,17 @@ the end of April 202...
 | Skill | Status |
 |-------|--------|
 | Docker | 🔴 Beginner |
-| Kubernetes | 🟢 Proficient |
-| CI/CD | ⚪ Planned |
-| AWS | 🟡 Learning |
-| Azure | 🟡 Learning |
+| Kubernetes | 🟡 Learning |
+| CI/CD | 🟢 Proficient |
+| AWS | 🟢 Proficient |
+| Azure | ⚪ Planned |
 
 ### Other
 
 | Skill | Status |
 |-------|--------|
-| Blockchain | 🟢 Proficient |
-| Web3 | 🔴 Beginner |
+| Blockchain | ⚪ Planned |
+| Web3 | 🟡 Learning |
 | Cloud Computing | ⚪ Planned |
 
 </details>
