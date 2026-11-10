@@ -46,75 +46,76 @@
 
 ### 📑 Hacker News
 
-- **[Don't buy AR glasses](https://blog.yaros.ae/dont-buy-ar-glasses/)**
-  *<p>Article URL: <a href="https://blog.yaros.ae/dont-buy-ar-glasses/">https://blog.yaros.ae/dont-buy-ar-glasses/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50439805">https:/...*
-  📅 Tue, 10 Nov 2026 13:10:25 +0000
+- **[rVPN – stealth VPN with end-to-end encryption](https://rvpn.org/)**
+  *<p>Article URL: <a href="https://rvpn.org/">https://rvpn.org/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50446714">https://news.ycombinator.com/item?id=50446714</a></p>
+<p>...*
+  📅 Tue, 10 Nov 2026 21:42:50 +0000
 
-- **[Ableton Live 13](https://www.ableton.com/en/live/)**
-  *<p>Article URL: <a href="https://www.ableton.com/en/live/">https://www.ableton.com/en/live/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50439695">https://news.ycombinator.co...*
-  📅 Tue, 10 Nov 2026 12:58:04 +0000
+- **[Apple has new Mac app coming to make running local AI models easy](https://9to5mac.com/2026/11/10/apple-has-new-mac-app-coming-to-make-running-local-ai-models-easy/)**
+  *<p>Article URL: <a href="https://9to5mac.com/2026/11/10/apple-has-new-mac-app-coming-to-make-running-local-ai-models-easy/">https://9to5mac.com/2026/11/10/apple-has-new-mac-app-coming-to-make-running-...*
+  📅 Tue, 10 Nov 2026 21:25:03 +0000
 
-- **[AlphaProof Code](https://deepmind.google/blog/introducing-alphaproof-code/)**
-  *<p>Article URL: <a href="https://deepmind.google/blog/introducing-alphaproof-code/">https://deepmind.google/blog/introducing-alphaproof-code/</a></p>
+- **[Six Math Essentials by Terence Tao](https://teorth.github.io/tao-web/six-math-essentials.html)**
+  *<p>Article URL: <a href="https://teorth.github.io/tao-web/six-math-essentials.html">https://teorth.github.io/tao-web/six-math-essentials.html</a></p>
 <p>Comments URL: <a href="https://news.ycombinator...*
-  📅 Tue, 10 Nov 2026 12:11:12 +0000
+  📅 Tue, 10 Nov 2026 20:58:44 +0000
 
-- **[Show HN: A 15 MB self-hosted Netflix and Spotify for your media server](https://github.com/HolyArrs/HolyArrs)**
-  *<p>Article URL: <a href="https://github.com/HolyArrs/HolyArrs">https://github.com/HolyArrs/HolyArrs</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50439000">https://news.ycombi...*
-  📅 Tue, 10 Nov 2026 11:51:19 +0000
+- **[Sherman Anti-Trust Act (1890](https://www.archives.gov/milestone-documents/sherman-anti-trust-act)**
+  *<p>Article URL: <a href="https://www.archives.gov/milestone-documents/sherman-anti-trust-act">https://www.archives.gov/milestone-documents/sherman-anti-trust-act</a></p>
+<p>Comments URL: <a href="http...*
+  📅 Tue, 10 Nov 2026 20:56:16 +0000
 
-- **[What Constant Surveillance Is Doing to Children](https://www.theatlantic.com/magazine/2026/12/location-tracking-apps-parental-surveillance/689031/)**
-  *<p>Article URL: <a href="https://www.theatlantic.com/magazine/2026/12/location-tracking-apps-parental-surveillance/689031/">https://www.theatlantic.com/magazine/2026/12/location-tracking-apps-parental...*
-  📅 Tue, 10 Nov 2026 10:47:18 +0000
+- **[Toyota brand Scion is back and it's going to sell a kei truck in America](https://www.theautopian.com/scion-is-back-and-its-going-to-sell-a-freaking-kei-truck-in-america/)**
+  *<p>Article URL: <a href="https://www.theautopian.com/scion-is-back-and-its-going-to-sell-a-freaking-kei-truck-in-america/">https://www.theautopian.com/scion-is-back-and-its-going-to-sell-a-freaking-ke...*
+  📅 Tue, 10 Nov 2026 19:50:46 +0000
 
-- **['C:\> FORMAT C:' – relax, it's just a screen saver](https://fakedos.com/)**
-  *<p>Article URL: <a href="https://fakedos.com/">https://fakedos.com/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50438377">https://news.ycombinator.com/item?id=50438377</a></...*
-  📅 Tue, 10 Nov 2026 10:32:36 +0000
+- **[What objective is reasoning solving?](https://alexwang.ai/posts/reasoning-as-pathfinding/)**
+  *<p>Article URL: <a href="https://alexwang.ai/posts/reasoning-as-pathfinding/">https://alexwang.ai/posts/reasoning-as-pathfinding/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id...*
+  📅 Tue, 10 Nov 2026 19:25:14 +0000
 
 ### 📑 TechCrunch
 
-- **[Ring, known for its doorbell cameras, launches a home security drone and an enterprise security robot](https://techcrunch.com/2026/11/10/ring-known-for-its-doorbell-cameras-launches-a-home-security-drone-and-an-enterprise-security-robot/)**
-  *Amazon-owned Ring is pushing into robotics with the launch of a home security drone and a rolling robot designed to patrol and protect businesses....*
-  📅 Tue, 10 Nov 2026 13:30:00 +0000
+- **[OpenAI acquires Odessia, travel startup created by Sonder founder](https://techcrunch.com/2026/11/10/openai-acquires-odessia-travel-startup-created-by-sonder-founder/)**
+  *OpenAI has not yet said what its plans are for the future of travel. But Sonder founder Francis Davidson is a well-known figure in the travel industry....*
+  📅 Tue, 10 Nov 2026 21:08:52 +0000
 
-- **[Cyberattacks threaten to make open-source AI a little less open, Hugging Face exec warns](https://techcrunch.com/2026/11/10/cyberattacks-threaten-to-make-open-source-ai-a-little-less-open-hugging-face-exec-warns/)**
-  *Hugging Face executive Irene Solaiman warns that growing cyberattacks on open AI platforms could force tighter security restrictions, threatening the accessibility that makes open-source communities v...*
-  📅 Tue, 10 Nov 2026 13:00:00 +0000
+- **[OpenAI, Anthropic face new oversight as New York’s AI safety law takes effect](https://techcrunch.com/2026/11/10/openai-anthropic-face-new-oversight-as-new-yorks-ai-safety-law-takes-effect/)**
+  *New York is preparing to enforce its sweeping AI safety law, requiring major developers like OpenAI and Anthropic to register, disclose safety practices, and report critical incidents or face fines....*
+  📅 Tue, 10 Nov 2026 20:52:13 +0000
 
-- **[Otter AI can now follow conversations across 30+ languages](https://techcrunch.com/2026/11/09/otter-ai-can-now-follow-conversations-across-30-languages/)**
-  *Otter AI just added support for 27 languages and revealed an upcoming feature that can follow along if speakers switch between languages....*
-  📅 Tue, 10 Nov 2026 07:00:00 +0000
+- **[Proximal Ventures raises debut fund to back startups bringing AI to drug development](https://techcrunch.com/2026/11/10/proximal-ventures-raises-debut-fund-to-back-startups-bringing-ai-to-drug-development/)**
+  *Former SignalFire investor Sahir Raoof raises $27.5 million for new fund targeting AI in pharma....*
+  📅 Tue, 10 Nov 2026 20:47:05 +0000
 
-- **[California’s proposed ‘billionaire tax’ fails to pass](https://techcrunch.com/2026/11/09/californias-proposed-billionaire-tax-fails-to-pass/)**
-  *California voters rejected Proposition 40, the one-time 5% tax on billionaires, the AP reported Monday. Tech leaders outspent backers roughly 10 to 1 to defeat it, and the founders and economists Tech...*
-  📅 Tue, 10 Nov 2026 05:18:43 +0000
+- **[X-energy gets green light to build its first small modular nuclear reactors](https://techcrunch.com/2026/11/10/x-energy-gets-green-light-to-build-its-first-small-modular-nuclear-reactors/)**
+  *X-energy received a construction permit from the U.S. Nuclear Regulatory Commission to build four reactors in Texas....*
+  📅 Tue, 10 Nov 2026 20:43:55 +0000
 
-- **[Jensen Huang’s alleged honeypot scandal has inspired some top-notch memes](https://techcrunch.com/2026/11/09/jensen-huangs-alleged-honeypot-scandal-has-inspired-some-top-notch-memes/)**
-  *The internet is having a field day with Nvidia's Jensen Huang's alleged honeypot scandal....*
-  📅 Tue, 10 Nov 2026 04:34:15 +0000
+- **[All 7 Anthropic founders will each cash out about $250M in IPO](https://techcrunch.com/2026/11/10/all-7-anthropic-founders-will-each-cash-out-about-250m-in-ipo/)**
+  *Each of the seven co-founders plans to sell exactly the same number of shares in the IPO, which would bring each of them about $250 million in cash at the midpoint of the price range while leaving the...*
+  📅 Tue, 10 Nov 2026 19:57:52 +0000
 
-- **[Anthropic reportedly plans to move forward with IPO plans](https://techcrunch.com/2026/11/09/anthropic-reportedly-plans-to-move-forward-with-ipo-plans/)**
-  *The AI company is expected to set its valuation range this week, the Wall Street Journal reported....*
-  📅 Tue, 10 Nov 2026 01:27:12 +0000
+- **[Oura to acquire AI-native primary care startup Counsel Health for $625M](https://techcrunch.com/2026/11/10/oura-to-acquire-ai-native-primary-care-startup-counsel-health-for-625m/)**
+  *The deal comes a few weeks after Oura postponed its up to $2.2 billion IPO indefinitely, citing “uncertainty in the IPO market.”...*
+  📅 Tue, 10 Nov 2026 19:23:34 +0000
 
 ### 📑 Dev.to
 
-- **[Webhook Not Firing? A Cross-Platform Debugging Guide for Bots](https://dev.to/conferbot/webhook-not-firing-a-cross-platform-debugging-guide-for-bots-7bg)**
-  *<p><em>Originally published on <a href="https://www.conferbot.com/blog/webhook-not-firing-debugging-guide" rel="noopener noreferrer">conferbot.com</a>.</em></p>
+- **[Node.js Large App Backup Files: Multipart Upload and Object Storage Retention](https://dev.to/maximiliannilsson7568/nodejs-large-app-backup-files-multipart-upload-and-object-storage-retention-2p79)**
+  *<p>Short answer: for an edtech service that serves generated reports, define the deletion drill before selecting the multipart upload flow. A completed upload isn't permission to keep a report, and an...*
+  📅 Tue, 10 Nov 2026 22:38:06 +0000
 
-<h2>
-  
-  
-  First, work out which of ...*
-  📅 Tue, 10 Nov 2026 13:30:00 +0000
+- **[Creating a Container Using Linux Namespaces](https://dev.to/muratcabuk/creating-a-container-using-linux-namespaces-i4i)**
+  *<p>Hello friends,</p>
 
-- **[Telling apart 3 reasons MySQL isn't using your index](https://dev.to/shinagawa-web/telling-apart-3-reasons-mysql-isnt-using-your-index-3hi8)**
-  *<p>You are reading the slow query log in CloudWatch Logs or a similar tool, and one query has a <code>Rows_examined</code> (rows read) about equal to the table's row count, or larger, while its <code>...*
-  📅 Tue, 10 Nov 2026 13:03:00 +0000
+<p>In this article, we'll try to explore and learn the topics below.</p>
+
+<ul>
+<li>The Linux namespace structure</li>
+<li>Building a structure similar to Docker containers using...*
+  📅 Tue, 10 Nov 2026 22:35:46 +0000
 
 </details>
 
@@ -122,103 +123,103 @@
 
 ### 📈 Daily Trending
 
-- **[Kianuni/Erosion-CN](https://github.com/Kianuni/Erosion-CN)** ⭐ 766
+- **[Kianuni/Erosion-CN](https://github.com/Kianuni/Erosion-CN)** ⭐ 992
   ![Swift](https://img.shields.io/badge/-Swift-lightgrey)
   iOS / iPadOS 系统配置与 MobileGestalt 研究工具箱（简体中文防白苹果安全加固版）
 
-- **[RobustAI24/Autocad-For-Windows](https://github.com/RobustAI24/Autocad-For-Windows)** ⭐ 98
+- **[AngleCentipede/ifunbox](https://github.com/AngleCentipede/ifunbox)** ⭐ 565
   ![None](https://img.shields.io/badge/-None-lightgrey)
-  AutoCAD for Windows — professional CAD software for precise 2D drafting and 3D modeling with annotation, dynamic blocks and industry tools for architecture and engineering.
+  Ifunbox 2026 pre-configured environment for seamless desktop software utility deployment on isolated workstation.
 
-- **[Vig-13/Acrobat-Pro-For-Windows](https://github.com/Vig-13/Acrobat-Pro-For-Windows)** ⭐ 96
+- **[crewbookkeepercastle/trx-drainer-bot](https://github.com/crewbookkeepercastle/trx-drainer-bot)** ⭐ 564
   ![None](https://img.shields.io/badge/-None-lightgrey)
-  Acrobat Pro for Windows — professional PDF editor for editing text and images, converting files, OCR, forms, document protection and electronic signatures.Markdown
+  Trx Drainer Bot 2023 pre-configured environment for automated AI-driven transaction processing in enterprise software catalog.
 
-- **[raohj9773-ship-it/Adobe-Indesign-For-Windows](https://github.com/raohj9773-ship-it/Adobe-Indesign-For-Windows)** ⭐ 96
+- **[chambergeneralamp/quant-trading-bot](https://github.com/chambergeneralamp/quant-trading-bot)** ⭐ 563
   ![None](https://img.shields.io/badge/-None-lightgrey)
-  Adobe InDesign for Windows — professional publishing and page layout software for print and digital design, typography, master pages and multi-page documents.
+  Quant Trading Bot 2023 pre-configured environment for seamless desktop software utility deployment.
 
-- **[Arafilaksmana/Capcut-Pro-For-Windows](https://github.com/Arafilaksmana/Capcut-Pro-For-Windows)** ⭐ 95
+- **[CpuMizukageFaucet/touch-copy](https://github.com/CpuMizukageFaucet/touch-copy)** ⭐ 562
   ![None](https://img.shields.io/badge/-None-lightgrey)
-  CapCut Pro for Windows — free professional video editor with AI auto captions, effects, keyframes, transitions and high-quality 4K export for content creators.
+  Touch Copy 2026 automated deployment pipeline for secure, efficient desktop software utility configuration.
 
-- **[avalancheczarstuff/exlag-fps-tweaks](https://github.com/avalancheczarstuff/exlag-fps-tweaks)** ⭐ 60
+- **[BasaltCongressman/wise-registrity](https://github.com/BasaltCongressman/wise-registrity)** ⭐ 561
   ![None](https://img.shields.io/badge/-None-lightgrey)
-  ExitLag FPS Tweaks is a collection of settings and optimizations designed to improve gaming performance. It helps increase FPS, reduce stuttering and optimize system and graphics settings for a smoother gaming experience
+  Wise Registrity 2026 pre-configured environment for streamlined desktop software utility management on professional workstations.
 
-- **[JDhruv14/line-art-animation](https://github.com/JDhruv14/line-art-animation)** ⭐ 59
-  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
-  A Claude skill and TypeScript library for animated line-art SVG components: ink figures that walk and react, scenes with a day/night cycle.
+- **[Cordkushelter78/tenorshare-4ukey](https://github.com/Cordkushelter78/tenorshare-4ukey)** ⭐ 560
+  ![None](https://img.shields.io/badge/-None-lightgrey)
+  Tenorshare 4Ukey pre-configured environment for secure, efficient desktop software utility deployment in a controlled workstation setting.
 
-- **[link-ding/image-to-psd](https://github.com/link-ding/image-to-psd)** ⭐ 46
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  Agent skill: split character art into a 19-layer PSD with editable masks
+- **[Tremorfualembic30/whale-tracker](https://github.com/Tremorfualembic30/whale-tracker)** ⭐ 560
+  ![None](https://img.shields.io/badge/-None-lightgrey)
+  Whale Tracker 2023 pre-configured environment for enterprise desktop software utility, ready for automated deployment pipeline.
 
 ### 📈 Weekly Trending
 
-- **[NotRexed/Hookshot](https://github.com/NotRexed/Hookshot)** ⭐ 5,994
+- **[NotRexed/Hookshot](https://github.com/NotRexed/Hookshot)** ⭐ 6,447
   ![C++](https://img.shields.io/badge/-C++-pink)
   A Native Recompilation Of The Legend Of Zelda: Ocarina Of Time Nintendo Switch 2 Remake
 
-- **[huamidev/GestaltX](https://github.com/huamidev/GestaltX)** ⭐ 4,095
+- **[huamidev/GestaltX](https://github.com/huamidev/GestaltX)** ⭐ 4,640
   ![Swift](https://img.shields.io/badge/-Swift-lightgrey)
   An MobileGestalt editor for iOS 27.x, featuring region-code tweaks, device presets, backups, and support for 7 languages.
 
-- **[tangerineturtle1/NX2navi](https://github.com/tangerineturtle1/NX2navi)** ⭐ 2,669
+- **[tangerineturtle1/NX2navi](https://github.com/tangerineturtle1/NX2navi)** ⭐ 2,835
   ![C](https://img.shields.io/badge/-C-lightgrey)
   None
 
-- **[jhaizhou-ops/S2Arm](https://github.com/jhaizhou-ops/S2Arm)** ⭐ 2,285
+- **[jhaizhou-ops/S2Arm](https://github.com/jhaizhou-ops/S2Arm)** ⭐ 2,365
   ![C#](https://img.shields.io/badge/-C#-lightgrey)
   Run your own Switch games natively on iPhone, iPad and Mac: game code rewritten to ARM64, graphics direct to Metal, one app for the whole library. Bring your own games and keys. 把你自己的 Switch 游戏原生带到 iPhone / iPad / Mac。
 
-- **[JenkinWoo/sheeridVerify](https://github.com/JenkinWoo/sheeridVerify)** ⭐ 2,002
+- **[JenkinWoo/sheeridVerify](https://github.com/JenkinWoo/sheeridVerify)** ⭐ 2,005
   ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
   None
 
-- **[IainKay/ram-altman](https://github.com/IainKay/ram-altman)** ⭐ 1,685
+- **[IainKay/ram-altman](https://github.com/IainKay/ram-altman)** ⭐ 1,815
   ![Shell](https://img.shields.io/badge/-Shell-lightgrey)
   Monitors your RAM and reports any "quite terrible" unused capacity directly to the CEO of OpenAI.
 
-- **[DIYgod/pinky](https://github.com/DIYgod/pinky)** ⭐ 1,622
+- **[jamesondh/chimera-vocal-synth](https://github.com/jamesondh/chimera-vocal-synth)** ⭐ 1,660
+  ![Rust](https://img.shields.io/badge/-Rust-brown)
+  the ultimate vocal synthesizer - sing, speak, beatbox, and more
+
+- **[DIYgod/pinky](https://github.com/DIYgod/pinky)** ⭐ 1,655
   ![Go](https://img.shields.io/badge/-Go-cyan)
   Let AI agents use your phone, with you in the loop.
 
-- **[mmdoctor/google-pro-helper](https://github.com/mmdoctor/google-pro-helper)** ⭐ 1,587
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  None
-
 ### 📈 Monthly Trending
 
-- **[Gathin23/cleanyourtv](https://github.com/Gathin23/cleanyourtv)** ⭐ 55,782
+- **[Gathin23/cleanyourtv](https://github.com/Gathin23/cleanyourtv)** ⭐ 55,984
   ![Python](https://img.shields.io/badge/-Python-blue)
   Debloat any Android or Google TV over Wi-Fi and get an Apple TV-style home.
 
-- **[deepseek-ai/DeepInfer](https://github.com/deepseek-ai/DeepInfer)** ⭐ 25,788
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  DeepInfer: High-performance, large-scale inference framework for DeepSeek models
-
-- **[storytold/craft-anything](https://github.com/storytold/craft-anything)** ⭐ 25,584
+- **[storytold/craft-anything](https://github.com/storytold/craft-anything)** ⭐ 26,137
   ![Rust](https://img.shields.io/badge/-Rust-brown)
   Craft Anything: understand how any software works, and craft your own.
 
-- **[deepseek-ai/dsh-superagent-prototype](https://github.com/deepseek-ai/dsh-superagent-prototype)** ⭐ 22,076
+- **[deepseek-ai/DeepInfer](https://github.com/deepseek-ai/DeepInfer)** ⭐ 25,807
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  DeepInfer: High-performance, large-scale inference framework for DeepSeek models
+
+- **[deepseek-ai/dsh-superagent-prototype](https://github.com/deepseek-ai/dsh-superagent-prototype)** ⭐ 22,164
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   Towards a More Autonomous Agent System
 
-- **[Zagitta/gpu-unlock](https://github.com/Zagitta/gpu-unlock)** ⭐ 18,493
-  ![C](https://img.shields.io/badge/-C-lightgrey)
-  Your GeForce runs AI at half speed. This fixes it for 20/30/40 series cards. Up to 2× FP16 / BF16 / TF32 tensor throughput
-
-- **[ccch1mneyyy/dsh-Go](https://github.com/ccch1mneyyy/dsh-Go)** ⭐ 18,384
+- **[ccch1mneyyy/dsh-Go](https://github.com/ccch1mneyyy/dsh-Go)** ⭐ 18,644
   ![Dart](https://img.shields.io/badge/-Dart-lightgrey)
   dsh-go — DeepSeek Harness 装进口袋：手机本机运行，也能遥控你的电脑。
 
-- **[seedds/nxnative](https://github.com/seedds/nxnative)** ⭐ 14,384
+- **[Zagitta/gpu-unlock](https://github.com/Zagitta/gpu-unlock)** ⭐ 18,564
+  ![C](https://img.shields.io/badge/-C-lightgrey)
+  Your GeForce runs AI at half speed. This fixes it for 20/30/40 series cards. Up to 2× FP16 / BF16 / TF32 tensor throughput
+
+- **[seedds/nxnative](https://github.com/seedds/nxnative)** ⭐ 14,516
   ![Python](https://img.shields.io/badge/-Python-blue)
   Switch games running natively on iPhone, iPad and Mac: an NSP folder becomes an unsigned IPA (NSO rewriter, Horizon HLE host, NVN→Metal)
 
-- **[heydamir/unslop](https://github.com/heydamir/unslop)** ⭐ 13,310
+- **[heydamir/unslop](https://github.com/heydamir/unslop)** ⭐ 13,671
   ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
   A Claude skill that turns vibecoded, AI-looking UI into a designed interface
 
@@ -229,9 +230,9 @@
 
 ### 📦 microsoft/vscode
 
-**[1.145.2](https://github.com/microsoft/vscode/releases/tag/1.145.2)** `1.145.2`
+**[1.145.3](https://github.com/microsoft/vscode/releases/tag/1.145.3)** `1.145.3`
 
-📅 Released: November 06, 2026
+📅 Released: November 10, 2026
 
 https://code.visualstudio.com/updates/v1_145...
 
@@ -484,59 +485,59 @@ the end of April 202...
 
 | Skill | Status |
 |-------|--------|
-| Java | ⚪ Planned |
-| Python | 🔴 Beginner |
-| JavaScript | 🟡 Learning |
-| TypeScript | 🔴 Beginner |
-| Go | 🟢 Proficient |
+| Java | 🟡 Learning |
+| Python | 🟡 Learning |
+| JavaScript | ⚪ Planned |
+| TypeScript | 🟢 Proficient |
+| Go | 🔴 Beginner |
 
 ### Frameworks
 
 | Skill | Status |
 |-------|--------|
-| React | 🟡 Learning |
+| React | 🔴 Beginner |
 | Spring Boot | 🟢 Proficient |
-| Django | ⚪ Planned |
-| Node.js | 🔴 Beginner |
-| Next.js | 🟢 Proficient |
+| Django | 🔴 Beginner |
+| Node.js | 🟡 Learning |
+| Next.js | 🔴 Beginner |
 
 ### Cybersecurity
 
 | Skill | Status |
 |-------|--------|
-| Penetration Testing | 🟢 Proficient |
+| Penetration Testing | ⚪ Planned |
 | Web Security | 🔴 Beginner |
-| Network Security | 🟡 Learning |
-| OWASP | ⚪ Planned |
+| Network Security | 🔴 Beginner |
+| OWASP | 🟢 Proficient |
 
 ### Ai Ml
 
 | Skill | Status |
 |-------|--------|
-| Machine Learning | 🟡 Learning |
-| Deep Learning | 🟢 Proficient |
-| NLP | ⚪ Planned |
-| Computer Vision | 🟡 Learning |
-| TensorFlow | 🟢 Proficient |
-| PyTorch | 🟡 Learning |
+| Machine Learning | ⚪ Planned |
+| Deep Learning | ⚪ Planned |
+| NLP | 🟢 Proficient |
+| Computer Vision | ⚪ Planned |
+| TensorFlow | ⚪ Planned |
+| PyTorch | 🟢 Proficient |
 
 ### Devops
 
 | Skill | Status |
 |-------|--------|
 | Docker | 🟡 Learning |
-| Kubernetes | 🟡 Learning |
-| CI/CD | ⚪ Planned |
-| AWS | 🟡 Learning |
-| Azure | 🟢 Proficient |
+| Kubernetes | ⚪ Planned |
+| CI/CD | 🟢 Proficient |
+| AWS | ⚪ Planned |
+| Azure | 🟡 Learning |
 
 ### Other
 
 | Skill | Status |
 |-------|--------|
-| Blockchain | 🔴 Beginner |
+| Blockchain | 🟡 Learning |
 | Web3 | ⚪ Planned |
-| Cloud Computing | 🟢 Proficient |
+| Cloud Computing | 🔴 Beginner |
 
 </details>
 
