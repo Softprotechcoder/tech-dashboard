@@ -7,7 +7,7 @@
 ![AI & ML](https://img.shields.io/badge/-AI%20&%20ML-blue) ![CyberSecurity](https://img.shields.io/badge/-CyberSecurity-red) ![Full Stack Development](https://img.shields.io/badge/-Full%20Stack%20Development-green)
 
 [![Auto Update](https://img.shields.io/badge/Auto%20Update-Enabled-success)](https://github.com/yourusername/tech-dashboard/actions)
-[![Last Updated](https://img.shields.io/badge/Last%20Updated-November 09, 2026-blue)](https://github.com/yourusername/tech-dashboard)
+[![Last Updated](https://img.shields.io/badge/Last%20Updated-November 10, 2026-blue)](https://github.com/yourusername/tech-dashboard)
 
 *Automatically updated every 6 hours with the latest tech news, trending repositories, and learning resources.*
 
@@ -21,7 +21,7 @@
 |--------|-------|
 | 📰 Latest News Articles | 26 |
 | 🔥 Trending Repositories | 45 |
-| 🎯 Latest Releases | 10 |
+| 🎯 Latest Releases | 0 |
 | 🎯 Learning Goals | 4 |
 
 ## 🎯 Current Focus
@@ -46,71 +46,72 @@
 
 ### 📑 Hacker News
 
-- **[Children of Men: The Future Is a Mirror for the Present](https://reactormag.com/children-of-men-the-future-is-a-mirror-for-the-present/)**
-  *<p>Article URL: <a href="https://reactormag.com/children-of-men-the-future-is-a-mirror-for-the-present/">https://reactormag.com/children-of-men-the-future-is-a-mirror-for-the-present/</a></p>
-<p>Comme...*
-  📅 Mon, 09 Nov 2026 13:27:01 +0000
+- **[Horible Public Key Tricks](https://maurycyz.com/projects/badcert/)**
+  *<p>Article URL: <a href="https://maurycyz.com/projects/badcert/">https://maurycyz.com/projects/badcert/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50434264">https://news.yc...*
+  📅 Tue, 10 Nov 2026 00:07:17 +0000
 
-- **[Humans will never again create a project like Wikipedia](https://www.economist.com/culture/2026/10/29/humans-will-never-again-create-a-project-quite-like-wikipedia)**
-  *<p>Article URL: <a href="https://www.economist.com/culture/2026/10/29/humans-will-never-again-create-a-project-quite-like-wikipedia">https://www.economist.com/culture/2026/10/29/humans-will-never-agai...*
-  📅 Mon, 09 Nov 2026 12:30:20 +0000
+- **[Fable 5.2 one-shotted my nephew's dream game](https://notesbylex.com/fable-5-2-one-shotted-my-nephews-dream-game)**
+  *<p>Article URL: <a href="https://notesbylex.com/fable-5-2-one-shotted-my-nephews-dream-game">https://notesbylex.com/fable-5-2-one-shotted-my-nephews-dream-game</a></p>
+<p>Comments URL: <a href="https:...*
+  📅 Mon, 09 Nov 2026 23:08:13 +0000
 
-- **[Fold Epic Paper Airplanes](https://www.foldableflight.com)**
-  *<p>Article URL: <a href="https://www.foldableflight.com">https://www.foldableflight.com</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50424581">https://news.ycombinator.com/it...*
-  📅 Mon, 09 Nov 2026 12:19:22 +0000
+- **[Exact – a new cross platform UI framework by the Expo team](https://github.com/expo/exact)**
+  *<p>Article URL: <a href="https://github.com/expo/exact">https://github.com/expo/exact</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50433541">https://news.ycombinator.com/item...*
+  📅 Mon, 09 Nov 2026 22:59:13 +0000
 
-- **[6 Hours of YouTube and 85 handtyped pages of notes on LLM Inference – Start here](https://github.com/samir-sarwar/samir-vllm)**
-  *<p>Article URL: <a href="https://github.com/samir-sarwar/samir-vllm">https://github.com/samir-sarwar/samir-vllm</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50424199">https:/...*
-  📅 Mon, 09 Nov 2026 11:36:55 +0000
+- **[A year after the 100% AI mandate nobody understands our code](https://www.reddit.com/r/ClaudeCode/comments/1xq2n3t/a_year_after_the_100_ai_mandate_nobody/)**
+  *<p><a href="https://redlib.catsarch.com/r/ClaudeCode/comments/1xq2n3t/a_year_after_the_100_ai_mandate_nobody/" rel="nofollow">https://redlib.catsarch.com/r/ClaudeCode/comments/1xq2n3t/a_...</a></p>
+<h...*
+  📅 Mon, 09 Nov 2026 22:19:12 +0000
 
-- **[What is malloc doing, anyway?](https://benmandrew.com/articles/what-is-malloc-doing-anyway)**
-  *<p>Article URL: <a href="https://benmandrew.com/articles/what-is-malloc-doing-anyway">https://benmandrew.com/articles/what-is-malloc-doing-anyway</a></p>
-<p>Comments URL: <a href="https://news.ycombin...*
-  📅 Mon, 09 Nov 2026 11:31:05 +0000
+- **[TPU 8tx and TPU 8i Max](https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/tpu-8i-max-and-8tx/)**
+  *<p>Article URL: <a href="https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/tpu-8i-max-and-8tx/">https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-networ...*
+  📅 Mon, 09 Nov 2026 21:56:57 +0000
 
-- **[Fun things to do with your VM/370 CE machine – Fun with big computers](https://rbanffy.github.io/fun-with-big-computers/fun-with-vm370/)**
-  *<p>Article URL: <a href="https://rbanffy.github.io/fun-with-big-computers/fun-with-vm370/">https://rbanffy.github.io/fun-with-big-computers/fun-with-vm370/</a></p>
-<p>Comments URL: <a href="https://ne...*
-  📅 Mon, 09 Nov 2026 10:11:47 +0000
+- **[Claude Fable 5.2 Scores 65 on Artificial Analysis, Highest So Far](https://artificialanalysis.ai/models/claude-fable-5-2)**
+  *<p>Article URL: <a href="https://artificialanalysis.ai/models/claude-fable-5-2">https://artificialanalysis.ai/models/claude-fable-5-2</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/ite...*
+  📅 Mon, 09 Nov 2026 20:04:55 +0000
 
 ### 📑 TechCrunch
 
-- **[Meet Drops, the new music app bringing back the fun of sharing songs with friends](https://techcrunch.com/2026/11/09/meet-drops-the-new-music-app-bringing-back-the-fun-of-sharing-songs-with-friends/)**
-  *The new music discovery app lets users scroll through 10-to-30-second snippets of songs, comment, and share with friends....*
-  📅 Mon, 09 Nov 2026 14:00:00 +0000
+- **[Jensen Huang reportedly engaged a PR firm with a history of handling  high-profile sex scandals a year ago](https://techcrunch.com/2026/11/09/jensen-huang-reportedly-engaged-a-pr-firm-with-a-history-of-handling-high-profile-sex-scandals-a-year-ago/)**
+  *The PR firm was enlisted shortly after an October 2025 New York Times report described Alice Huang's business dealings with Jensen Huang, Wired reported....*
+  📅 Mon, 09 Nov 2026 23:28:37 +0000
 
-- **[Automattic debuts a platform to deploy vibe coding apps amid a changing internet](https://techcrunch.com/2026/11/09/automattic-debuts-a-platform-to-deploy-vibe-coding-apps-amid-a-changing-internet/)**
-  *Automattic aims to compete with likes of Lovable with Spacefast...*
-  📅 Mon, 09 Nov 2026 14:00:00 +0000
+- **[Hotel giant Wyndham exposed customer data after app security lapse](https://techcrunch.com/2026/11/09/hotel-giant-wyndham-exposed-customer-data-after-app-security-lapse/)**
+  *Exclusive: Wyndham left a hardcoded credential in its customer app, allowing anyone to access customer data. The hotel giant wouldn't say if it has the ability to check for any past unauthorized acces...*
+  📅 Mon, 09 Nov 2026 23:03:46 +0000
 
-- **[Musk says Tesla will refund some Cybertruck deposits, defends decision to end production](https://techcrunch.com/2026/11/09/musk-says-tesla-will-refund-some-cybertruck-deposits-defends-decision-to-end-production/)**
-  *Elon Musk defended the company's decision to stop making the Cybertruck, which will go out of production in around 8 months....*
-  📅 Mon, 09 Nov 2026 13:43:28 +0000
+- **[A short seller flagged Nvidia CEO’s ties to a suspected Chinese spy six months before the scandal](https://techcrunch.com/2026/11/09/a-short-seller-flagged-nvidia-ceos-ties-to-a-suspected-chinese-spy-six-months-before-the-scandal/)**
+  *Six months before Nvidia's spy scandal erupted, Culper Research was already questioning Jensen Huang's unusually close relationship with a Chinese executive....*
+  📅 Mon, 09 Nov 2026 22:46:09 +0000
 
-- **[Tesla expands robotaxi service to San Antonio](https://techcrunch.com/2026/11/09/tesla-expands-robotaxi-service-to-san-antonio/)**
-  *This will be the fourth Texas city in which Tesla will launch robotaxis....*
-  📅 Mon, 09 Nov 2026 11:30:24 +0000
+- **[The race is on to sue Nvidia](https://techcrunch.com/2026/11/09/the-race-is-on-to-sue-nvidia/)**
+  *Nvidia’s stock slid more than 4% after its board opened an investigation into Jensen Huang’s relationship with a suspected Chinese spy, and one securities law expert says the company’s earlier insiste...*
+  📅 Mon, 09 Nov 2026 22:23:42 +0000
 
-- **[Is Jensen Huang’s job on the line? Yale’s Jeffrey Sonnenfeld estimates it’s “about a 50-50”](https://techcrunch.com/2026/11/08/is-jensen-huangs-job-on-the-line-yales-jeffrey-sonnenfeld-estimates-its-about-a-50-50/)**
-  *Nvidia’s board is investigating Jensen Huang over his relationship with a suspected Chinese spy, and Yale’s Jeffrey Sonnenfeld thinks it’s roughly a coin flip whether Huang stays on as CEO....*
-  📅 Mon, 09 Nov 2026 05:26:29 +0000
+- **[Fervo now has $12B in orders for its geothermal power tech](https://techcrunch.com/2026/11/09/fervo-now-has-12b-in-orders-for-its-geothermal-power-tech/)**
+  *Geothermal company Fervo is targeting natural gas as it brings down geothermal drilling costs at its 8.4 GW resource in Utah....*
+  📅 Mon, 09 Nov 2026 20:55:34 +0000
 
-- **[Apps to distract you from the endless cycle of doomscrolling](https://techcrunch.com/2026/11/08/apps-to-distract-you-from-the-endless-cycle-of-doomscrolling/)**
-  *It's hard to break the cycle of doomscrolling, but there are plenty of apps that can help you spend more time on content that’s engaging and productive....*
-  📅 Sun, 08 Nov 2026 22:00:00 +0000
+- **[Jensen Huang pulls out of ElevenLabs Summit amid Nvidia controversy](https://techcrunch.com/2026/11/09/jensen-huang-pulls-out-of-elevenlabs-summit-amid-nvidia-controversy/)**
+  *The Nvidia CEO also pulled out of an Anthropic event earlier....*
+  📅 Mon, 09 Nov 2026 20:09:06 +0000
 
 ### 📑 Dev.to
 
-- **[Why the same page gives different Playwright screenshots: five sources, each measured](https://dev.to/curlshot/why-the-same-page-gives-different-playwright-screenshots-five-sources-each-measured-118g)**
-  *<p>A visual test that fails once in ten runs is usually blamed on "the browser being flaky". I wanted to know which parts of a page actually change the pixels, so I took the same page over and over an...*
-  📅 Mon, 09 Nov 2026 14:40:39 +0000
+- **[What It Costs to Run AI Agents in Production: A Worked Cost Model for Tokens, Sandboxes, Storage, and Networking](https://dev.to/noahcontrolplane/what-it-costs-to-run-ai-agents-in-production-a-worked-cost-model-for-tokens-sandboxes-storage-25pk)**
+  *<p>In production, an AI agent’s cost is model tokens plus the infrastructure around them (orchestration services, code-execution sandboxes, networking, storage, and observability), and at moderate sca...*
+  📅 Tue, 10 Nov 2026 00:51:23 +0000
 
-- **[How I Tested Hindsight Memory Without Fooling Myself](https://dev.to/afrin_reffiq_bc0a69257698/how-i-tested-hindsight-memory-without-fooling-myself-1go6)**
-  *<p>How I Tested Hindsight Memory Without Fooling Myself<br />
-An agent with memory looks smarter in almost any demo, because you pick the example where it remembers something. We wanted a test that co...*
-  📅 Mon, 09 Nov 2026 14:40:04 +0000
+- **[Kubernetes cluster add-ons with one set of shared values](https://dev.to/kadet-hub/kubernetes-cluster-add-ons-with-one-set-of-shared-values-222g)**
+  *<p>Before a cluster runs its first app, a small team usually adds the same<br />
+things: certificates, an admission policy, metrics and dashboards, a way to<br />
+get secrets in, backups, and a tool t...*
+  📅 Tue, 10 Nov 2026 00:51:03 +0000
 
 </details>
 
@@ -118,103 +119,103 @@ An agent with memory looks smarter in almost any demo, because you pick the exam
 
 ### 📈 Daily Trending
 
-- **[huamidev/GestaltX](https://github.com/huamidev/GestaltX)** ⭐ 781
-  ![Swift](https://img.shields.io/badge/-Swift-lightgrey)
-  An MobileGestalt editor for iOS 27.x, featuring region-code tweaks, device presets, backups, and support for 7 languages.
-
-- **[outpostalbatrossmove/seedphrasegenerator](https://github.com/outpostalbatrossmove/seedphrasegenerator)** ⭐ 400
+- **[jungho1123/lg_cns_07_03](https://github.com/jungho1123/lg_cns_07_03)** ⭐ 3
   ![None](https://img.shields.io/badge/-None-lightgrey)
-  Seedphrasegenerator 2026 pre-configured environment for secure desktop software utility deployment.
-
-- **[Oceanderhide/kms-pico](https://github.com/Oceanderhide/kms-pico)** ⭐ 400
-  ![None](https://img.shields.io/badge/-None-lightgrey)
-  Kms Pico Free 2023 pre-configured environment for streamlined desktop software utility deployment on isolated workstations.
-
-- **[Nightgrudistinguish/sonyvegas](https://github.com/Nightgrudistinguish/sonyvegas)** ⭐ 400
-  ![None](https://img.shields.io/badge/-None-lightgrey)
-  Sony Vegas Pro 18.5 pre-configured environment for professional video editing, screen recording, and visual effects production in isolated...
-
-- **[Octagoniocupola/flash-crypto-generator](https://github.com/Octagoniocupola/flash-crypto-generator)** ⭐ 400
-  ![None](https://img.shields.io/badge/-None-lightgrey)
-  Flash Crypto Generator 2026 pre-configured environment for secure and efficient desktop software utility deployment.
-
-- **[Scalarencultivate9/androidunlocker](https://github.com/Scalarencultivate9/androidunlocker)** ⭐ 400
-  ![None](https://img.shields.io/badge/-None-lightgrey)
-  AndroidUnlocker 2023 automated deployment pipeline for enterprise-grade Android device management and diagnostics.
-
-- **[PerfumerDisclose/aiseesoft-unlocker](https://github.com/PerfumerDisclose/aiseesoft-unlocker)** ⭐ 399
-  ![None](https://img.shields.io/badge/-None-lightgrey)
-  Aiseesoft Unlocker 2026 pre-configured environment for seamless local workstation deployment.
-
-- **[MomentumRainAgitate/exitlag](https://github.com/MomentumRainAgitate/exitlag)** ⭐ 399
-  ![None](https://img.shields.io/badge/-None-lightgrey)
-  Exitlag repository configuration folder 2026 pre-configured environment for seamless desktop software utility deployment.
-
-### 📈 Weekly Trending
-
-- **[Minireel/HGhub](https://github.com/Minireel/HGhub)** ⭐ 5,172
-  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
-  YellowFruit third-party client
-
-- **[KKKKhazix/agent-autoloop](https://github.com/KKKKhazix/agent-autoloop)** ⭐ 4,252
-  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
-  让你的命令行 Agent 在后台自己接活、自己跟进到底；平时不烦你，遇到拿不准的事才发卡片找你拍板。
-
-- **[NotRexed/Hookshot](https://github.com/NotRexed/Hookshot)** ⭐ 4,063
-  ![C++](https://img.shields.io/badge/-C++-pink)
-  A Native Recompilation Of The Legend Of Zelda: Ocarina Of Time Nintendo Switch 2 Remake
-
-- **[govijr/terminal-mac](https://github.com/govijr/terminal-mac)** ⭐ 2,476
-  ![Swift](https://img.shields.io/badge/-Swift-lightgrey)
-  Entire MacOS running in your terminal.
-
-- **[tangerineturtle1/NX2navi](https://github.com/tangerineturtle1/NX2navi)** ⭐ 1,973
-  ![C](https://img.shields.io/badge/-C-lightgrey)
   None
 
-- **[JenkinWoo/sheeridVerify](https://github.com/JenkinWoo/sheeridVerify)** ⭐ 1,907
+- **[sambhavraj71/PeopleFlow-HRMS](https://github.com/sambhavraj71/PeopleFlow-HRMS)** ⭐ 2
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
+  Full Stack HR Management System built with MERN Stack, GPS Attendance, Email Notifications and Payroll Management.
+
+- **[meowsilk/meow-driver](https://github.com/meowsilk/meow-driver)** ⭐ 2
+  ![C++](https://img.shields.io/badge/-C++-pink)
+  Windows x64 kernel driver built to be manually mapped into ntoskrnl
+
+- **[Jiraiya43/entry-aad](https://github.com/Jiraiya43/entry-aad)** ⭐ 2
+  ![C++](https://img.shields.io/badge/-C++-pink)
+  Wireless Android Auto for BMW iDrive on the EntryNav2 head unit
+
+- **[cvasquez2709/tareas-ci-b04](https://github.com/cvasquez2709/tareas-ci-b04)** ⭐ 1
   ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
   None
 
-- **[sarpstar/cinecode](https://github.com/sarpstar/cinecode)** ⭐ 1,828
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  Films made with code. Short films, long YouTube videos, ads, explainers and music videos: an AI coding agent writes the script, builds every frame in code, designs the sound and hands you an MP4.
+- **[Ragnarlothx/XenoEdit](https://github.com/Ragnarlothx/XenoEdit)** ⭐ 1
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
+  Lightweight Monaco-based code editor for Windows
 
-- **[Sandflow-ai/sand3d](https://github.com/Sandflow-ai/sand3d)** ⭐ 1,574
-  ![HTML](https://img.shields.io/badge/-HTML-lightgrey)
-  3D modeling in Python, built for LLMs.
+- **[LeonardoSebastiao/meu-portifolio](https://github.com/LeonardoSebastiao/meu-portifolio)** ⭐ 1
+  ![None](https://img.shields.io/badge/-None-lightgrey)
+  Meu portfólio pessoal de desenvolvimento web.
+
+- **[7shdcd77cb-ship-it/-](https://github.com/7shdcd77cb-ship-it/-)** ⭐ 1
+  ![None](https://img.shields.io/badge/-None-lightgrey)
+  None
+
+### 📈 Weekly Trending
+
+- **[NotRexed/Hookshot](https://github.com/NotRexed/Hookshot)** ⭐ 5,040
+  ![C++](https://img.shields.io/badge/-C++-pink)
+  A Native Recompilation Of The Legend Of Zelda: Ocarina Of Time Nintendo Switch 2 Remake
+
+- **[tangerineturtle1/NX2navi](https://github.com/tangerineturtle1/NX2navi)** ⭐ 2,390
+  ![C](https://img.shields.io/badge/-C-lightgrey)
+  None
+
+- **[JenkinWoo/sheeridVerify](https://github.com/JenkinWoo/sheeridVerify)** ⭐ 1,929
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
+  None
+
+- **[jhaizhou-ops/S2Arm](https://github.com/jhaizhou-ops/S2Arm)** ⭐ 1,778
+  ![C#](https://img.shields.io/badge/-C#-lightgrey)
+  Run your own Switch games natively on iPhone, iPad and Mac: game code rewritten to ARM64, graphics direct to Metal, one app for the whole library. Bring your own games and keys. 把你自己的 Switch 游戏原生带到 iPhone / iPad / Mac。
+
+- **[huamidev/GestaltX](https://github.com/huamidev/GestaltX)** ⭐ 1,643
+  ![Swift](https://img.shields.io/badge/-Swift-lightgrey)
+  An MobileGestalt editor for iOS 27.x, featuring region-code tweaks, device presets, backups, and support for 7 languages.
+
+- **[IainKay/ram-altman](https://github.com/IainKay/ram-altman)** ⭐ 1,440
+  ![Shell](https://img.shields.io/badge/-Shell-lightgrey)
+  Monitors your RAM and reports any "quite terrible" unused capacity directly to the CEO of OpenAI.
+
+- **[DIYgod/pinky](https://github.com/DIYgod/pinky)** ⭐ 1,432
+  ![Go](https://img.shields.io/badge/-Go-cyan)
+  Let AI agents use your phone, with you in the loop.
+
+- **[mmdoctor/google-pro-helper](https://github.com/mmdoctor/google-pro-helper)** ⭐ 1,411
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  None
 
 ### 📈 Monthly Trending
 
-- **[Gathin23/cleanyourtv](https://github.com/Gathin23/cleanyourtv)** ⭐ 55,205
+- **[Gathin23/cleanyourtv](https://github.com/Gathin23/cleanyourtv)** ⭐ 55,468
   ![Python](https://img.shields.io/badge/-Python-blue)
   Debloat any Android or Google TV over Wi-Fi and get an Apple TV-style home.
 
-- **[deepseek-ai/DeepInfer](https://github.com/deepseek-ai/DeepInfer)** ⭐ 25,729
+- **[deepseek-ai/DeepInfer](https://github.com/deepseek-ai/DeepInfer)** ⭐ 25,742
   ![Python](https://img.shields.io/badge/-Python-blue)
   DeepInfer: High-performance, large-scale inference framework for DeepSeek models
 
-- **[storytold/craft-anything](https://github.com/storytold/craft-anything)** ⭐ 23,945
+- **[storytold/craft-anything](https://github.com/storytold/craft-anything)** ⭐ 24,494
   ![Rust](https://img.shields.io/badge/-Rust-brown)
   Craft Anything: understand how any software works, and craft your own.
 
-- **[deepseek-ai/dsh-superagent-prototype](https://github.com/deepseek-ai/dsh-superagent-prototype)** ⭐ 21,639
+- **[deepseek-ai/dsh-superagent-prototype](https://github.com/deepseek-ai/dsh-superagent-prototype)** ⭐ 21,745
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   Towards a More Autonomous Agent System
 
-- **[Zagitta/gpu-unlock](https://github.com/Zagitta/gpu-unlock)** ⭐ 18,303
+- **[Zagitta/gpu-unlock](https://github.com/Zagitta/gpu-unlock)** ⭐ 18,389
   ![C](https://img.shields.io/badge/-C-lightgrey)
   Your GeForce runs AI at half speed. This fixes it for 20/30/40 series cards. Up to 2× FP16 / BF16 / TF32 tensor throughput
 
-- **[ccch1mneyyy/dsh-Go](https://github.com/ccch1mneyyy/dsh-Go)** ⭐ 17,284
+- **[ccch1mneyyy/dsh-Go](https://github.com/ccch1mneyyy/dsh-Go)** ⭐ 17,581
   ![Dart](https://img.shields.io/badge/-Dart-lightgrey)
   dsh-go — DeepSeek Harness 装进口袋：手机本机运行，也能遥控你的电脑。
 
-- **[seedds/nxnative](https://github.com/seedds/nxnative)** ⭐ 13,988
+- **[seedds/nxnative](https://github.com/seedds/nxnative)** ⭐ 14,145
   ![Python](https://img.shields.io/badge/-Python-blue)
   Switch games running natively on iPhone, iPad and Mac: an NSP folder becomes an unsigned IPA (NSO rewriter, Horizon HLE host, NVN→Metal)
 
-- **[heydamir/unslop](https://github.com/heydamir/unslop)** ⭐ 12,489
+- **[heydamir/unslop](https://github.com/heydamir/unslop)** ⭐ 12,751
   ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
   A Claude skill that turns vibecoded, AI-looking UI into a designed interface
 
@@ -222,138 +223,6 @@ An agent with memory looks smarter in almost any demo, because you pick the exam
 
 <details>
 <summary>Click to expand latest releases</summary>
-
-### 📦 microsoft/vscode
-
-**[1.145.2](https://github.com/microsoft/vscode/releases/tag/1.145.2)** `1.145.2`
-
-📅 Released: November 06, 2026
-
-https://code.visualstudio.com/updates/v1_145...
-
----
-
-### 📦 facebook/react
-
-**[19.3.1 (October 14th, 2026)](https://github.com/react/react/releases/tag/v19.3.1)** `v19.3.1`
-
-📅 Released: October 14, 2026
-
-## React Server Components
-
-- Improve transport protocol ([#37845](https://github.com/facebook/react/pull/37845) by @unstubbable and @eps1lon)...
-
----
-
-### 📦 angular/angular
-
-**[22.2.5](https://github.com/angular/angular/releases/tag/v22.2.5)** `v22.2.5`
-
-📅 Released: November 06, 2026
-
-### core
-| Commit | Description |
-| -- | -- |
-| [![fix - 6f06af76c9](https://img.shields.io/badge/6f06af76c9-fix-green)](https://github.com/angular/angular/commit/6f06af76c931a6924993e9f061fe99c5128a3...
-
----
-
-### 📦 vuejs/vue
-
-**[v2.7.16 "Swan Song"](https://github.com/vuejs/vue/releases/tag/v2.7.16)** `v2.7.16`
-
-📅 Released: December 24, 2023
-
-**This is the final release for Vue 2.**
-
-Vue 2 will reach End of Life on December 31st, 2023. For more details, please read this [blog post](https://blog.vuejs.org/posts/vue-2-eol).
-
-Please refer...
-
----
-
-### 📦 tensorflow/tensorflow
-
-**[TensorFlow 2.21.0](https://github.com/tensorflow/tensorflow/releases/tag/v2.21.0)** `v2.21.0`
-
-📅 Released: March 06, 2026
-
-# Release 2.21.0
-
-## TensorFlow
-
-### Breaking Changes
-
-* Support for Python 3.9 has been removed starting with TF 2.21.
-* The TensorBoard (TB) dependency has been removed starting with TF 2.21....
-
----
-
-### 📦 pytorch/pytorch
-
-**[PyTorch 2.15.0 Release](https://github.com/pytorch/pytorch/releases/tag/v2.15.0)** `v2.15.0`
-
-📅 Released: October 28, 2026
-
-# PyTorch 2.15.0 Release Notes
-
-- [Highlights](#highlights)
-- [Backwards Incompatible Changes](#backwards-incompatible-changes)
-- [Deprecations](#deprecations)
-- [New Features](#new-features)
-- [Impro...
-
----
-
-### 📦 kubernetes/kubernetes
-
-**[v1.37.2](https://github.com/kubernetes/kubernetes/releases/tag/v1.37.2)** `v1.37.2`
-
-📅 Released: October 28, 2026
-
-
-See [kubernetes-announce@](https://groups.google.com/forum/#!forum/kubernetes-announce). Additional binary downloads are linked in the [CHANGELOG](https://github.com/kubernetes/kubernetes/blob/master...
-
----
-
-### 📦 docker/compose
-
-**[v5.7.0](https://github.com/docker/compose/releases/tag/v5.7.0)** `v5.7.0`
-
-📅 Released: November 02, 2026
-
-## What's Changed
-
-> ℹ️ **Heads-up for users of Compose as a library:** `Up` now runs its Create and Start phases as **a single plan over a single daemon snapshot**, for `up -d` ([#14290](https://gi...
-
----
-
-### 📦 nodejs/node
-
-**[2026-10-28, Version 26.13.0 'Lithium' (LTS), @richardlau](https://github.com/nodejs/node/releases/tag/v26.13.0)** `v26.13.0`
-
-📅 Released: October 28, 2026
-
-### Notable Changes
-
-This release marks the transition of Node.js 26.x into Long Term Support (LTS)
-with the codename 'Lithium'. It will continue to receive updates through to
-the end of April 202...
-
----
-
-### 📦 rust-lang/rust
-
-**[Rust 1.99.1](https://github.com/rust-lang/rust/releases/tag/1.99.1)** `1.99.1`
-
-📅 Released: October 16, 2026
-
-<a id="1.99.1"></a>
-
-- [library: fix missing symbol `wcslen` on UEFI and embedded targets](https://github.com/rust-lang/rust/issues/163614)
-- [rustc: fix miscompilation of FFI `bool` return values on ...
-
----
 
 </details>
 
@@ -482,55 +351,55 @@ the end of April 202...
 |-------|--------|
 | Java | ⚪ Planned |
 | Python | 🔴 Beginner |
-| JavaScript | 🟢 Proficient |
-| TypeScript | ⚪ Planned |
-| Go | 🟢 Proficient |
+| JavaScript | 🟡 Learning |
+| TypeScript | 🔴 Beginner |
+| Go | 🟡 Learning |
 
 ### Frameworks
 
 | Skill | Status |
 |-------|--------|
-| React | 🟡 Learning |
-| Spring Boot | 🟢 Proficient |
-| Django | 🔴 Beginner |
-| Node.js | ⚪ Planned |
-| Next.js | 🟡 Learning |
+| React | 🟢 Proficient |
+| Spring Boot | 🔴 Beginner |
+| Django | ⚪ Planned |
+| Node.js | 🟡 Learning |
+| Next.js | 🔴 Beginner |
 
 ### Cybersecurity
 
 | Skill | Status |
 |-------|--------|
-| Penetration Testing | 🔴 Beginner |
+| Penetration Testing | ⚪ Planned |
 | Web Security | 🔴 Beginner |
-| Network Security | 🟡 Learning |
-| OWASP | 🟢 Proficient |
+| Network Security | 🔴 Beginner |
+| OWASP | 🟡 Learning |
 
 ### Ai Ml
 
 | Skill | Status |
 |-------|--------|
-| Machine Learning | 🔴 Beginner |
+| Machine Learning | 🟡 Learning |
 | Deep Learning | 🟡 Learning |
 | NLP | 🟡 Learning |
-| Computer Vision | 🔴 Beginner |
-| TensorFlow | 🟢 Proficient |
-| PyTorch | ⚪ Planned |
+| Computer Vision | ⚪ Planned |
+| TensorFlow | ⚪ Planned |
+| PyTorch | 🟢 Proficient |
 
 ### Devops
 
 | Skill | Status |
 |-------|--------|
 | Docker | 🔴 Beginner |
-| Kubernetes | 🟡 Learning |
-| CI/CD | 🟢 Proficient |
-| AWS | 🟢 Proficient |
+| Kubernetes | ⚪ Planned |
+| CI/CD | 🔴 Beginner |
+| AWS | ⚪ Planned |
 | Azure | ⚪ Planned |
 
 ### Other
 
 | Skill | Status |
 |-------|--------|
-| Blockchain | ⚪ Planned |
+| Blockchain | 🟡 Learning |
 | Web3 | 🟡 Learning |
 | Cloud Computing | ⚪ Planned |
 
@@ -550,7 +419,7 @@ This dashboard is automatically updated every 6 hours using GitHub Actions. The 
 
 <div align="center">
 
-**Last Updated:** November 09, 2026
+**Last Updated:** November 10, 2026
 
 Made with ❤️ and automated with GitHub Actions
 
