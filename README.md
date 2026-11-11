@@ -46,34 +46,41 @@
 
 ### 📑 Hacker News
 
-- **[To deter bioterrorism, U.S. imposes new rules on ordering synthetic DNA](https://www.science.org/content/article/deter-bioterrorism-u-s-imposes-new-rules-ordering-synthetic-dna)**
-  *<p>Article URL: <a href="https://www.science.org/content/article/deter-bioterrorism-u-s-imposes-new-rules-ordering-synthetic-dna">https://www.science.org/content/article/deter-bioterrorism-u-s-imposes...*
-  📅 Wed, 11 Nov 2026 02:57:08 +0000
+- **[Can a Linear Program Do Weight-Space Programming?](https://nathan.rs/posts/weight-space-lp/)**
+  *<p>Article URL: <a href="https://nathan.rs/posts/weight-space-lp/">https://nathan.rs/posts/weight-space-lp/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50452655">https://new...*
+  📅 Wed, 11 Nov 2026 12:30:17 +0000
 
-- **[Hooked on Tuna](https://blue-continuum.com/hooked-on-tuna)**
-  *<p>Article URL: <a href="https://blue-continuum.com/hooked-on-tuna">https://blue-continuum.com/hooked-on-tuna</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50449080">https://n...*
-  📅 Wed, 11 Nov 2026 02:23:25 +0000
+- **[Next-Level Benchmarking Overfitting – Thomas Neumann](http://databasearchitects.blogspot.com/2026/11/next-level-benchmarking-overfitting.html)**
+  *<p>Article URL: <a href="http://databasearchitects.blogspot.com/2026/11/next-level-benchmarking-overfitting.html">http://databasearchitects.blogspot.com/2026/11/next-level-benchmarking-overfitting.htm...*
+  📅 Wed, 11 Nov 2026 12:09:49 +0000
 
-- **[A great old-timey game-programming hack (2013)](https://blog.moertel.com/posts/2013-12-14-great-old-timey-game-programming-hack.html)**
-  *<p>Article URL: <a href="https://blog.moertel.com/posts/2013-12-14-great-old-timey-game-programming-hack.html">https://blog.moertel.com/posts/2013-12-14-great-old-timey-game-programming-hack.html</a><...*
-  📅 Wed, 11 Nov 2026 01:56:31 +0000
+- **[Google SWE points 48 AI agents at NASA Lidar, finds unmapped Maya pyramid in 72h](https://pietromiotti.com/latest/maya-site/?maya)**
+  *<p>Article URL: <a href="https://pietromiotti.com/latest/maya-site/?maya">https://pietromiotti.com/latest/maya-site/?maya</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=5045245...*
+  📅 Wed, 11 Nov 2026 12:05:22 +0000
 
-- **[LLMs Play Zachtronics' TIS-100](https://tis-100.wincon.dev/)**
-  *<p>Article URL: <a href="https://tis-100.wincon.dev/">https://tis-100.wincon.dev/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50448340">https://news.ycombinator.com/item?id=...*
-  📅 Wed, 11 Nov 2026 00:37:05 +0000
+- **[Tinfoil (YC P25) is hiring an applied AI security engineer in San Francisco](https://news.ycombinator.com/item?id=50452404)**
+  *<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50452404">https://news.ycombinator.com/item?id=50452404</a></p>
+<p>Points: 0</p>
+<p># Comments: 0</p>...*
+  📅 Wed, 11 Nov 2026 12:00:35 +0000
 
-- **[AI is an information gateway. Audiences still don't want it making their news](https://www.niemanlab.org/2026/11/ai-is-becoming-an-information-gateway-audiences-still-dont-want-it-making-their-news/)**
-  *<p>Article URL: <a href="https://www.niemanlab.org/2026/11/ai-is-becoming-an-information-gateway-audiences-still-dont-want-it-making-their-news/">https://www.niemanlab.org/2026/11/ai-is-becoming-an-in...*
-  📅 Wed, 11 Nov 2026 00:15:33 +0000
+- **[The Housing Market Is Nuts](https://nuts.logical.li/)**
+  *<p>Article URL: <a href="https://nuts.logical.li/">https://nuts.logical.li/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50451985">https://news.ycombinator.com/item?id=504519...*
+  📅 Wed, 11 Nov 2026 11:02:46 +0000
 
-- **[After 7 months, Glasswing overwelms maintainers with underwhelming findings](https://www.vulncheck.com/blog/anthropic-glasswing-november-update)**
-  *<p>Article URL: <a href="https://www.vulncheck.com/blog/anthropic-glasswing-november-update">https://www.vulncheck.com/blog/anthropic-glasswing-november-update</a></p>
-<p>Comments URL: <a href="https:...*
-  📅 Tue, 10 Nov 2026 22:17:56 +0000
+- **[Using voltage glitching to unleash the A100 in my mining card](https://blog.kate.land/posts/using-voltage-glitching-to-unlock-the-a100/)**
+  *<p>Article URL: <a href="https://blog.kate.land/posts/using-voltage-glitching-to-unlock-the-a100/">https://blog.kate.land/posts/using-voltage-glitching-to-unlock-the-a100/</a></p>
+<p>Comments URL: <a ...*
+  📅 Wed, 11 Nov 2026 10:48:40 +0000
 
 ### 📑 TechCrunch
+
+- **[Nvidia’s crisis has corporate governance experts reaching for the popcorn](https://techcrunch.com/2026/11/10/nvidias-crisis-has-corporate-governance-experts-reaching-for-the-popcorn/)**
+  *The governance experts we talked to say nobody has seen anything like what's unfolding right now....*
+  📅 Wed, 11 Nov 2026 07:30:51 +0000
 
 - **[X launches its own clipping feature to spur influencer engagement](https://techcrunch.com/2026/11/10/x-launches-its-own-clipping-feature-to-spur-influencer-engagement/)**
   *X is jumping into clipping, the popular practice of cutting long videos into short, shareable clips that can go viral....*
@@ -95,31 +102,15 @@
   *X-energy received a construction permit from the U.S. Nuclear Regulatory Commission to build four reactors in Texas....*
   📅 Tue, 10 Nov 2026 20:43:55 +0000
 
-- **[All 7 Anthropic founders will each cash out about $250M in IPO](https://techcrunch.com/2026/11/10/all-7-anthropic-founders-will-each-cash-out-about-250m-in-ipo/)**
-  *Each of the seven co-founders plans to sell exactly the same number of shares in the IPO, which would bring each of them about $250 million in cash at the midpoint of the price range while leaving the...*
-  📅 Tue, 10 Nov 2026 19:57:52 +0000
-
 ### 📑 Dev.to
 
-- **[Event-Driven Audit Log Ingestion vs Traditional DB Writes](https://dev.to/amitesh0512/event-driven-audit-log-ingestion-vs-traditional-db-writes-2b68)**
-  *<h2>
-  
-  
-  Quick Answer
-</h2>
+- **[Physical modelling string synthesis in real time](https://dev.to/n1m21n/physical-modelling-string-synthesis-in-real-time-1m1n)**
+  *<p>Physical modelling synthesis generates sound by simulating the actual physical mechanics of vibrating matter rather than playing static wavetables or filtering raw geometric waveforms. While tradit...*
+  📅 Wed, 11 Nov 2026 13:14:43 +0000
 
-<p>event-driven audit log ingestion: Event‑driven audit log ingestion decouples high‑throughput microservices from RDBMS bottlenecks, leveraging brokers, idempotent wr...*
-  📅 Wed, 11 Nov 2026 03:42:29 +0000
-
-- **[Phorge and Phabricator Need a Migration-Aware Exposure Review](https://dev.to/andreagomez/phorge-and-phabricator-need-a-migration-aware-exposure-review-p31)**
-  *<h1>
-  
-  
-  Phorge and Phabricator Need a Migration-Aware Exposure Review
-</h1>
-
-<p>Phorge is a maintained fork of Phabricator, and many installations still carry the older product name in their page...*
-  📅 Wed, 11 Nov 2026 03:41:46 +0000
+- **[Delaunay triangulation and Voronoi geometry in real time](https://dev.to/n1m21n/delaunay-triangulation-and-voronoi-geometry-in-real-time-1oep)**
+  *<p>In computational geometry and procedural graphics, <strong>delaunay triangulation real time</strong> algorithms provide a method to generate clean, dynamic 3D meshes directly from shifting point cl...*
+  📅 Wed, 11 Nov 2026 13:14:33 +0000
 
 </details>
 
@@ -127,103 +118,103 @@
 
 ### 📈 Daily Trending
 
-- **[setyamickala/fastmint-fcfs-agentic](https://github.com/setyamickala/fastmint-fcfs-agentic)** ⭐ 36
+- **[DensityApothecary/adobe-substance-3d](https://github.com/DensityApothecary/adobe-substance-3d)** ⭐ 706
+  ![HTML](https://img.shields.io/badge/-HTML-lightgrey)
+  Creative Studio App 2026 pre-configured environment for secure digital asset deployment pipeline, ready for isolated local workstation execution.
+
+- **[Nobleglusurvive/discord-quest-completer](https://github.com/Nobleglusurvive/discord-quest-completer)** ⭐ 279
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  Automated Discord Quest Completer. Supports all 5 quest types: game, video, stream, activity, and achievement. Built-in dashboard, safe timing, and privacy-first. Open-source.
+
+- **[setyamickala/fastmint-fcfs-agentic](https://github.com/setyamickala/fastmint-fcfs-agentic)** ⭐ 193
   ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
   FCFS mint di BNB Smart Chain lewat Binance Agentic Wallet, masuk blok ±2 detik setelah jam buka.
 
-- **[fengchen122123-sudo/xingyao-y-code](https://github.com/fengchen122123-sudo/xingyao-y-code)** ⭐ 12
+- **[BankerInterface/youtube-seo-optimizer](https://github.com/BankerInterface/youtube-seo-optimizer)** ⭐ 65
   ![Python](https://img.shields.io/badge/-Python-blue)
-  None
+  Free YouTube SEO optimizer and metadata auditor. Analyze titles, descriptions, and tags to improve video rankings. Check chapters, keywords, and SEO scores locally. Open-source.
 
-- **[transparent-pegasus/utsurigi-agent-hub](https://github.com/transparent-pegasus/utsurigi-agent-hub)** ⭐ 9
-  ![Rust](https://img.shields.io/badge/-Rust-brown)
-  externalizes AI agent data and manages multiple bots across services.
-
-- **[SteelMillerBar/auto-twitch-drops-claim](https://github.com/SteelMillerBar/auto-twitch-drops-claim)** ⭐ 6
-  ![None](https://img.shields.io/badge/-None-lightgrey)
-  Auto-farm Twitch drops in the background. Claim rewards, switch channels, and mine timed drops with zero video download. Lightweight AFK miner for Windows, macOS, and Linux.
-
-- **[liu-x-x-lab/fulcrum](https://github.com/liu-x-x-lab/fulcrum)** ⭐ 5
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  用于管理多个bot，接入tg，协议，微桥的管理后台，saas 服务设计
-
-- **[matthewmrichter/moofport](https://github.com/matthewmrichter/moofport)** ⭐ 4
-  ![C](https://img.shields.io/badge/-C-lightgrey)
-  Open-source Ethernet driver for the BlueSCSI v2 Wi-Fi on 68k Macs with System 6, faster than DaynaPORT
-
-- **[liangdabiao/dsh-lego-forge](https://github.com/liangdabiao/dsh-lego-forge)** ⭐ 3
+- **[byizmysh/IZCIVSwitch](https://github.com/byizmysh/IZCIVSwitch)** ⭐ 50
   ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
-  积木工坊 · dsh-lego-forge 把一句话想法变成一套真实可拼的 LEGO 积木模型。引擎、零件几何与构建方法论源自 lego-forge（MIT），LDraw 零件几何  。DeepSeek Harness（dsh）插件
+  Tool for accessing the Nintendo Switch 2 file system through Civilization VII.
 
-- **[codewithhaivu/RoomIO](https://github.com/codewithhaivu/RoomIO)** ⭐ 3
-  ![Dart](https://img.shields.io/badge/-Dart-lightgrey)
-  A full-stack rental platform built with Flutter, FastAPI, MySQL, Redis, and Firebase Cloud Messaging.
+- **[smm-gg/smm-panel-api](https://github.com/smm-gg/smm-panel-api)** ⭐ 46
+  ![PHP](https://img.shields.io/badge/-PHP-lightgrey)
+  SMM panel API client for PHP, Python & Node.js: resell 5,900+ Instagram, TikTok, YouTube and Telegram services from your own site, bot or panel.
+
+- **[snicolast/SegaRally2Native](https://github.com/snicolast/SegaRally2Native)** ⭐ 40
+  ![C++](https://img.shields.io/badge/-C++-pink)
+  Sega Rally 2 - PC Port
+
+- **[wquguru/fable52-fps-repro](https://github.com/wquguru/fable52-fps-repro)** ⭐ 36
+  ![HTML](https://img.shields.io/badge/-HTML-lightgrey)
+  Fable 5.2 一句话生成 3D FPS 复现：4 个单文件演示、提示词与缓存账单 / One-prompt 3D FPS repro with demos, prompts & cost data
 
 ### 📈 Weekly Trending
 
-- **[NotRexed/Hookshot](https://github.com/NotRexed/Hookshot)** ⭐ 6,726
+- **[NotRexed/Hookshot](https://github.com/NotRexed/Hookshot)** ⭐ 7,148
   ![C++](https://img.shields.io/badge/-C++-pink)
   A Native Recompilation Of The Legend Of Zelda: Ocarina Of Time Nintendo Switch 2 Remake
 
-- **[huamidev/GestaltX](https://github.com/huamidev/GestaltX)** ⭐ 5,169
+- **[huamidev/GestaltX](https://github.com/huamidev/GestaltX)** ⭐ 5,853
   ![Swift](https://img.shields.io/badge/-Swift-lightgrey)
   An MobileGestalt editor for iOS 27.x, featuring region-code tweaks, device presets, backups, and support for 7 languages.
 
-- **[tangerineturtle1/NX2navi](https://github.com/tangerineturtle1/NX2navi)** ⭐ 2,932
+- **[tangerineturtle1/NX2navi](https://github.com/tangerineturtle1/NX2navi)** ⭐ 3,069
   ![C](https://img.shields.io/badge/-C-lightgrey)
   None
 
-- **[jhaizhou-ops/S2Arm](https://github.com/jhaizhou-ops/S2Arm)** ⭐ 2,432
+- **[jhaizhou-ops/S2Arm](https://github.com/jhaizhou-ops/S2Arm)** ⭐ 2,539
   ![C#](https://img.shields.io/badge/-C#-lightgrey)
   Run your own Switch games natively on iPhone, iPad and Mac: game code rewritten to ARM64, graphics direct to Metal, one app for the whole library. Bring your own games and keys. 把你自己的 Switch 游戏原生带到 iPhone / iPad / Mac。
 
-- **[JenkinWoo/sheeridVerify](https://github.com/JenkinWoo/sheeridVerify)** ⭐ 2,012
+- **[JenkinWoo/sheeridVerify](https://github.com/JenkinWoo/sheeridVerify)** ⭐ 2,020
   ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
   None
 
-- **[IainKay/ram-altman](https://github.com/IainKay/ram-altman)** ⭐ 1,832
+- **[IainKay/ram-altman](https://github.com/IainKay/ram-altman)** ⭐ 1,881
   ![Shell](https://img.shields.io/badge/-Shell-lightgrey)
   Monitors your RAM and reports any "quite terrible" unused capacity directly to the CEO of OpenAI.
 
-- **[jamesondh/chimera-vocal-synth](https://github.com/jamesondh/chimera-vocal-synth)** ⭐ 1,736
+- **[jamesondh/chimera-vocal-synth](https://github.com/jamesondh/chimera-vocal-synth)** ⭐ 1,849
   ![Rust](https://img.shields.io/badge/-Rust-brown)
   the ultimate vocal synthesizer - sing, speak, beatbox, and more
 
-- **[DIYgod/pinky](https://github.com/DIYgod/pinky)** ⭐ 1,732
+- **[DIYgod/pinky](https://github.com/DIYgod/pinky)** ⭐ 1,818
   ![Go](https://img.shields.io/badge/-Go-cyan)
   Let AI agents use your phone, with you in the loop.
 
 ### 📈 Monthly Trending
 
-- **[Gathin23/cleanyourtv](https://github.com/Gathin23/cleanyourtv)** ⭐ 56,081
+- **[Gathin23/cleanyourtv](https://github.com/Gathin23/cleanyourtv)** ⭐ 56,276
   ![Python](https://img.shields.io/badge/-Python-blue)
   Debloat any Android or Google TV over Wi-Fi and get an Apple TV-style home.
 
-- **[storytold/craft-anything](https://github.com/storytold/craft-anything)** ⭐ 26,710
+- **[storytold/craft-anything](https://github.com/storytold/craft-anything)** ⭐ 27,768
   ![Rust](https://img.shields.io/badge/-Rust-brown)
   Craft Anything: understand how any software works, and craft your own.
 
-- **[deepseek-ai/DeepInfer](https://github.com/deepseek-ai/DeepInfer)** ⭐ 25,821
+- **[deepseek-ai/DeepInfer](https://github.com/deepseek-ai/DeepInfer)** ⭐ 25,850
   ![Python](https://img.shields.io/badge/-Python-blue)
   DeepInfer: High-performance, large-scale inference framework for DeepSeek models
 
-- **[deepseek-ai/dsh-superagent-prototype](https://github.com/deepseek-ai/dsh-superagent-prototype)** ⭐ 22,242
+- **[deepseek-ai/dsh-superagent-prototype](https://github.com/deepseek-ai/dsh-superagent-prototype)** ⭐ 22,408
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   Towards a More Autonomous Agent System
 
-- **[ccch1mneyyy/dsh-Go](https://github.com/ccch1mneyyy/dsh-Go)** ⭐ 18,867
+- **[ccch1mneyyy/dsh-Go](https://github.com/ccch1mneyyy/dsh-Go)** ⭐ 19,399
   ![Dart](https://img.shields.io/badge/-Dart-lightgrey)
   dsh-go — DeepSeek Harness 装进口袋：手机本机运行，也能遥控你的电脑。
 
-- **[Zagitta/gpu-unlock](https://github.com/Zagitta/gpu-unlock)** ⭐ 18,589
+- **[Zagitta/gpu-unlock](https://github.com/Zagitta/gpu-unlock)** ⭐ 18,656
   ![C](https://img.shields.io/badge/-C-lightgrey)
   Your GeForce runs AI at half speed. This fixes it for 20/30/40 series cards. Up to 2× FP16 / BF16 / TF32 tensor throughput
 
-- **[seedds/nxnative](https://github.com/seedds/nxnative)** ⭐ 14,575
+- **[seedds/nxnative](https://github.com/seedds/nxnative)** ⭐ 14,704
   ![Python](https://img.shields.io/badge/-Python-blue)
   Switch games running natively on iPhone, iPad and Mac: an NSP folder becomes an unsigned IPA (NSO rewriter, Horizon HLE host, NVN→Metal)
 
-- **[heydamir/unslop](https://github.com/heydamir/unslop)** ⭐ 13,860
+- **[heydamir/unslop](https://github.com/heydamir/unslop)** ⭐ 14,239
   ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
   A Claude skill that turns vibecoded, AI-looking UI into a designed interface
 
@@ -234,11 +225,11 @@
 
 ### 📦 microsoft/vscode
 
-**[1.145.3](https://github.com/microsoft/vscode/releases/tag/1.145.3)** `1.145.3`
+**[1.146.0](https://github.com/microsoft/vscode/releases/tag/1.146.0)** `1.146.0`
 
-📅 Released: November 10, 2026
+📅 Released: November 11, 2026
 
-https://code.visualstudio.com/updates/v1_145...
+https://code.visualstudio.com/updates/v1_146...
 
 ---
 
@@ -327,13 +318,15 @@ See [kubernetes-announce@](https://groups.google.com/forum/#!forum/kubernetes-an
 
 ### 📦 docker/compose
 
-**[v5.7.0](https://github.com/docker/compose/releases/tag/v5.7.0)** `v5.7.0`
+**[v5.7.1](https://github.com/docker/compose/releases/tag/v5.7.1)** `v5.7.1`
 
-📅 Released: November 02, 2026
+📅 Released: November 11, 2026
 
 ## What's Changed
 
-> ℹ️ **Heads-up for users of Compose as a library:** `Up` now runs its Create and Start phases as **a single plan over a single daemon snapshot**, for `up -d` ([#14290](https://gi...
+### Fixes 🐛
+* fix(oci): verify the manifests fetched against their digest, and take only complete cache entries by @ndeloof in https://github.com/docker/compose/pull/14490
+* fix(oci...
 
 ---
 
@@ -489,51 +482,51 @@ the end of April 202...
 
 | Skill | Status |
 |-------|--------|
-| Java | 🟡 Learning |
-| Python | 🔴 Beginner |
-| JavaScript | ⚪ Planned |
-| TypeScript | 🟡 Learning |
-| Go | 🔴 Beginner |
+| Java | ⚪ Planned |
+| Python | ⚪ Planned |
+| JavaScript | 🟢 Proficient |
+| TypeScript | ⚪ Planned |
+| Go | 🟢 Proficient |
 
 ### Frameworks
 
 | Skill | Status |
 |-------|--------|
-| React | 🔴 Beginner |
-| Spring Boot | 🟢 Proficient |
-| Django | 🔴 Beginner |
-| Node.js | 🟢 Proficient |
-| Next.js | 🟡 Learning |
+| React | 🟢 Proficient |
+| Spring Boot | ⚪ Planned |
+| Django | 🟡 Learning |
+| Node.js | 🟡 Learning |
+| Next.js | 🔴 Beginner |
 
 ### Cybersecurity
 
 | Skill | Status |
 |-------|--------|
-| Penetration Testing | 🟢 Proficient |
-| Web Security | ⚪ Planned |
+| Penetration Testing | 🟡 Learning |
+| Web Security | 🔴 Beginner |
 | Network Security | 🔴 Beginner |
-| OWASP | 🟢 Proficient |
+| OWASP | ⚪ Planned |
 
 ### Ai Ml
 
 | Skill | Status |
 |-------|--------|
-| Machine Learning | 🔴 Beginner |
-| Deep Learning | 🟢 Proficient |
-| NLP | 🟢 Proficient |
-| Computer Vision | ⚪ Planned |
-| TensorFlow | 🔴 Beginner |
-| PyTorch | 🟡 Learning |
+| Machine Learning | 🟢 Proficient |
+| Deep Learning | 🟡 Learning |
+| NLP | 🔴 Beginner |
+| Computer Vision | 🟢 Proficient |
+| TensorFlow | ⚪ Planned |
+| PyTorch | ⚪ Planned |
 
 ### Devops
 
 | Skill | Status |
 |-------|--------|
-| Docker | ⚪ Planned |
+| Docker | 🔴 Beginner |
 | Kubernetes | ⚪ Planned |
-| CI/CD | ⚪ Planned |
+| CI/CD | 🟡 Learning |
 | AWS | 🟢 Proficient |
-| Azure | ⚪ Planned |
+| Azure | 🟡 Learning |
 
 ### Other
 
@@ -541,7 +534,7 @@ the end of April 202...
 |-------|--------|
 | Blockchain | ⚪ Planned |
 | Web3 | 🔴 Beginner |
-| Cloud Computing | 🟡 Learning |
+| Cloud Computing | 🟢 Proficient |
 
 </details>
 
