@@ -46,71 +46,71 @@
 
 ### 📑 Hacker News
 
-- **[Can a Linear Program Do Weight-Space Programming?](https://nathan.rs/posts/weight-space-lp/)**
-  *<p>Article URL: <a href="https://nathan.rs/posts/weight-space-lp/">https://nathan.rs/posts/weight-space-lp/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50452655">https://new...*
-  📅 Wed, 11 Nov 2026 12:30:17 +0000
+- **[Modern Web Guidance 1.0: The web platform expertise your coding agent is missing](https://developer.chrome.com/blog/modern-web-guidance-v1)**
+  *<p>Article URL: <a href="https://developer.chrome.com/blog/modern-web-guidance-v1">https://developer.chrome.com/blog/modern-web-guidance-v1</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.c...*
+  📅 Wed, 11 Nov 2026 23:22:29 +0000
 
-- **[Next-Level Benchmarking Overfitting – Thomas Neumann](http://databasearchitects.blogspot.com/2026/11/next-level-benchmarking-overfitting.html)**
-  *<p>Article URL: <a href="http://databasearchitects.blogspot.com/2026/11/next-level-benchmarking-overfitting.html">http://databasearchitects.blogspot.com/2026/11/next-level-benchmarking-overfitting.htm...*
-  📅 Wed, 11 Nov 2026 12:09:49 +0000
+- **[A general purpose Apple Silicon layer for x86-64 PCs](https://github.com/tylertms/Stela)**
+  *<p>Article URL: <a href="https://github.com/tylertms/Stela">https://github.com/tylertms/Stela</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50460154">https://news.ycombinator....*
+  📅 Wed, 11 Nov 2026 23:02:38 +0000
 
-- **[Google SWE points 48 AI agents at NASA Lidar, finds unmapped Maya pyramid in 72h](https://pietromiotti.com/latest/maya-site/?maya)**
-  *<p>Article URL: <a href="https://pietromiotti.com/latest/maya-site/?maya">https://pietromiotti.com/latest/maya-site/?maya</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=5045245...*
-  📅 Wed, 11 Nov 2026 12:05:22 +0000
+- **[Nvidia prepares to fire CEO Jensen Huang, WSJ reports](https://twitter.com/watcherguru/status/2120645607866188008)**
+  *<p>Article URL: <a href="https://twitter.com/watcherguru/status/2120645607866188008">https://twitter.com/watcherguru/status/2120645607866188008</a></p>
+<p>Comments URL: <a href="https://news.ycombinat...*
+  📅 Wed, 11 Nov 2026 22:36:35 +0000
 
-- **[Tinfoil (YC P25) is hiring an applied AI security engineer in San Francisco](https://news.ycombinator.com/item?id=50452404)**
-  *<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50452404">https://news.ycombinator.com/item?id=50452404</a></p>
-<p>Points: 0</p>
-<p># Comments: 0</p>...*
-  📅 Wed, 11 Nov 2026 12:00:35 +0000
+- **[93% of Paint Splatters Are Valid Perl Programs (2019)](https://www.mcmillen.dev/sigbovik/)**
+  *<p>Article URL: <a href="https://www.mcmillen.dev/sigbovik/">https://www.mcmillen.dev/sigbovik/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50459745">https://news.ycombinato...*
+  📅 Wed, 11 Nov 2026 22:34:23 +0000
 
-- **[The Housing Market Is Nuts](https://nuts.logical.li/)**
-  *<p>Article URL: <a href="https://nuts.logical.li/">https://nuts.logical.li/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50451985">https://news.ycombinator.com/item?id=504519...*
-  📅 Wed, 11 Nov 2026 11:02:46 +0000
+- **[Lock Your GitHub Actions](https://hugovk.dev/blog/2026/lock-github-actions/)**
+  *<p>Article URL: <a href="https://hugovk.dev/blog/2026/lock-github-actions/">https://hugovk.dev/blog/2026/lock-github-actions/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=504...*
+  📅 Wed, 11 Nov 2026 22:16:41 +0000
 
-- **[Using voltage glitching to unleash the A100 in my mining card](https://blog.kate.land/posts/using-voltage-glitching-to-unlock-the-a100/)**
-  *<p>Article URL: <a href="https://blog.kate.land/posts/using-voltage-glitching-to-unlock-the-a100/">https://blog.kate.land/posts/using-voltage-glitching-to-unlock-the-a100/</a></p>
-<p>Comments URL: <a ...*
-  📅 Wed, 11 Nov 2026 10:48:40 +0000
+- **[United Airlines bans AI agents from booking flights on behalf of travelers](https://www.cbsnews.com/news/united-airlines-bans-ai-agents-booking-flights/)**
+  *<p>Article URL: <a href="https://www.cbsnews.com/news/united-airlines-bans-ai-agents-booking-flights/">https://www.cbsnews.com/news/united-airlines-bans-ai-agents-booking-flights/</a></p>
+<p>Comments ...*
+  📅 Wed, 11 Nov 2026 21:24:35 +0000
 
 ### 📑 TechCrunch
 
-- **[Nvidia’s crisis has corporate governance experts reaching for the popcorn](https://techcrunch.com/2026/11/10/nvidias-crisis-has-corporate-governance-experts-reaching-for-the-popcorn/)**
-  *The governance experts we talked to say nobody has seen anything like what's unfolding right now....*
-  📅 Wed, 11 Nov 2026 07:30:51 +0000
+- **[The unfolding Jensen Huang scandal: a timeline](https://techcrunch.com/2026/11/11/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/)**
+  *The affair could have ramifications for national security as the U.S. and China race to develop the most advanced AI infrastructure....*
+  📅 Wed, 11 Nov 2026 23:50:00 +0000
 
-- **[X launches its own clipping feature to spur influencer engagement](https://techcrunch.com/2026/11/10/x-launches-its-own-clipping-feature-to-spur-influencer-engagement/)**
-  *X is jumping into clipping, the popular practice of cutting long videos into short, shareable clips that can go viral....*
-  📅 Wed, 11 Nov 2026 01:02:13 +0000
+- **[Nvidia’s stock drops as board reportedly preps to oust CEO Jensen Huang](https://techcrunch.com/2026/11/11/nvidias-stock-drops-as-board-reportedly-preps-to-oust-ceo-jensen-huang/)**
+  *As soon as Wednesday evening, Nvidia's board could decide to remove its founder and CEO of 33 years....*
+  📅 Wed, 11 Nov 2026 23:28:45 +0000
 
-- **[OpenAI acquires Odessia, travel startup created by Sonder founder](https://techcrunch.com/2026/11/10/openai-acquires-odessia-travel-startup-created-by-sonder-founder/)**
-  *OpenAI has not yet said what its plans are for the future of travel. But Sonder founder Francis Davidson is a well-known figure in the travel industry....*
-  📅 Tue, 10 Nov 2026 21:08:52 +0000
+- **[Jensen Huang accused of having another affair — with a Nvidia exec](https://techcrunch.com/2026/11/11/jensen-huang-accused-of-having-another-affair-with-a-nvidia-exec/)**
+  *Jensen Huang, who has come under fire for admitting to an affair with a woman accused of being a Chinese intelligence agent, has been accused of having a separate affair with an Nvidia subordinate....*
+  📅 Wed, 11 Nov 2026 23:17:05 +0000
 
-- **[OpenAI, Anthropic face new oversight as New York’s AI safety law takes effect](https://techcrunch.com/2026/11/10/openai-anthropic-face-new-oversight-as-new-yorks-ai-safety-law-takes-effect/)**
-  *New York is preparing to enforce its sweeping AI safety law, requiring major developers like OpenAI and Anthropic to register, disclose safety practices, and report critical incidents or face fines....*
-  📅 Tue, 10 Nov 2026 20:52:13 +0000
+- **[Why the data center you dread might never even be built](https://techcrunch.com/video/why-the-data-center-you-dread-might-never-even-be-built/)**
+  *The data center boom is running into serious real-world obstacles, from widespread local opposition and permitting delays to a scramble for electricity.&#160;Before those challenges even come into pla...*
+  📅 Wed, 11 Nov 2026 20:15:15 +0000
 
-- **[Proximal Ventures raises debut fund to back startups bringing AI to drug development](https://techcrunch.com/2026/11/10/proximal-ventures-raises-debut-fund-to-back-startups-bringing-ai-to-drug-development/)**
-  *Former SignalFire investor Sahir Raoof raises $27.5 million for new fund targeting AI in pharma....*
-  📅 Tue, 10 Nov 2026 20:47:05 +0000
+- **[Meta is losing its longtime head of  infrastructure](https://techcrunch.com/2026/11/11/meta-is-losing-its-longtime-head-of-infrastructure/)**
+  *Santosh Janardhan, who originally joined the company in 2009, will be stepping down from his role....*
+  📅 Wed, 11 Nov 2026 20:12:01 +0000
 
-- **[X-energy gets green light to build its first small modular nuclear reactors](https://techcrunch.com/2026/11/10/x-energy-gets-green-light-to-build-its-first-small-modular-nuclear-reactors/)**
-  *X-energy received a construction permit from the U.S. Nuclear Regulatory Commission to build four reactors in Texas....*
-  📅 Tue, 10 Nov 2026 20:43:55 +0000
+- **[Olaf Sakkers is betting he can beat the emerging-manager squeeze](https://techcrunch.com/2026/11/11/olaf-sakkers-is-betting-he-can-beat-the-emerging-manager-squeeze/)**
+  *Entering into the world of venture capital has never been easy, especially as a first-time fund manager. But it's especially daunting right now. Olaf Sakkers has spent the past five years proving that...*
+  📅 Wed, 11 Nov 2026 20:04:28 +0000
 
 ### 📑 Dev.to
 
-- **[Physical modelling string synthesis in real time](https://dev.to/n1m21n/physical-modelling-string-synthesis-in-real-time-1m1n)**
-  *<p>Physical modelling synthesis generates sound by simulating the actual physical mechanics of vibrating matter rather than playing static wavetables or filtering raw geometric waveforms. While tradit...*
-  📅 Wed, 11 Nov 2026 13:14:43 +0000
+- **[Tailscale vs Headscale: Self-Hosting Control](https://dev.to/linuxcore/tailscale-vs-headscale-self-hosting-control-kg8)**
+  *<p>Self-hosting Headscale is for homelab admins who require total sovereignty over their network control plane. For most users, Tailscale's official free tier offers enough capacity and removes the ma...*
+  📅 Wed, 11 Nov 2026 23:42:02 +0000
 
-- **[Delaunay triangulation and Voronoi geometry in real time](https://dev.to/n1m21n/delaunay-triangulation-and-voronoi-geometry-in-real-time-1oep)**
-  *<p>In computational geometry and procedural graphics, <strong>delaunay triangulation real time</strong> algorithms provide a method to generate clean, dynamic 3D meshes directly from shifting point cl...*
-  📅 Wed, 11 Nov 2026 13:14:33 +0000
+- **[Synthetic Identity Fraud in AI Customer Onboarding](https://dev.to/veduis/synthetic-identity-fraud-in-ai-customer-onboarding-3j3b)**
+  *<p>Synthetic identity fraud ai customer onboarding systems face an aggressive wave of automated attacks. Criminal rings no longer rely on stolen wallets or crude physical document scans. Instead, they...*
+  📅 Wed, 11 Nov 2026 23:41:49 +0000
 
 </details>
 
@@ -118,103 +118,103 @@
 
 ### 📈 Daily Trending
 
-- **[DensityApothecary/adobe-substance-3d](https://github.com/DensityApothecary/adobe-substance-3d)** ⭐ 706
-  ![HTML](https://img.shields.io/badge/-HTML-lightgrey)
-  Creative Studio App 2026 pre-configured environment for secure digital asset deployment pipeline, ready for isolated local workstation execution.
-
-- **[Nobleglusurvive/discord-quest-completer](https://github.com/Nobleglusurvive/discord-quest-completer)** ⭐ 279
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  Automated Discord Quest Completer. Supports all 5 quest types: game, video, stream, activity, and achievement. Built-in dashboard, safe timing, and privacy-first. Open-source.
-
-- **[setyamickala/fastmint-fcfs-agentic](https://github.com/setyamickala/fastmint-fcfs-agentic)** ⭐ 193
+- **[setyamickala/fastmint-fcfs-agentic](https://github.com/setyamickala/fastmint-fcfs-agentic)** ⭐ 213
   ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
   FCFS mint di BNB Smart Chain lewat Binance Agentic Wallet, masuk blok ±2 detik setelah jam buka.
 
-- **[BankerInterface/youtube-seo-optimizer](https://github.com/BankerInterface/youtube-seo-optimizer)** ⭐ 65
+- **[Nobleglusurvive/discord-quest-completer](https://github.com/Nobleglusurvive/discord-quest-completer)** ⭐ 119
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  Automated Discord Quest Completer. Supports all 5 quest types: game, video, stream, activity, and achievement. Built-in dashboard, safe timing, and privacy-first. Open-source.
+
+- **[BankerInterface/youtube-seo-optimizer](https://github.com/BankerInterface/youtube-seo-optimizer)** ⭐ 119
   ![Python](https://img.shields.io/badge/-Python-blue)
   Free YouTube SEO optimizer and metadata auditor. Analyze titles, descriptions, and tags to improve video rankings. Check chapters, keywords, and SEO scores locally. Open-source.
 
-- **[byizmysh/IZCIVSwitch](https://github.com/byizmysh/IZCIVSwitch)** ⭐ 50
+- **[byizmysh/IZCIVSwitch](https://github.com/byizmysh/IZCIVSwitch)** ⭐ 89
   ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
   Tool for accessing the Nintendo Switch 2 file system through Civilization VII.
 
-- **[smm-gg/smm-panel-api](https://github.com/smm-gg/smm-panel-api)** ⭐ 46
-  ![PHP](https://img.shields.io/badge/-PHP-lightgrey)
-  SMM panel API client for PHP, Python & Node.js: resell 5,900+ Instagram, TikTok, YouTube and Telegram services from your own site, bot or panel.
-
-- **[snicolast/SegaRally2Native](https://github.com/snicolast/SegaRally2Native)** ⭐ 40
+- **[snicolast/SegaRally2Native](https://github.com/snicolast/SegaRally2Native)** ⭐ 86
   ![C++](https://img.shields.io/badge/-C++-pink)
   Sega Rally 2 - PC Port
 
-- **[wquguru/fable52-fps-repro](https://github.com/wquguru/fable52-fps-repro)** ⭐ 36
+- **[Harbornuembody/HWmonitor-software](https://github.com/Harbornuembody/HWmonitor-software)** ⭐ 81
+  ![None](https://img.shields.io/badge/-None-lightgrey)
+  HWmonitor is a lightweight hardware monitoring software designed to track system performance and provide essential hardware information through a simple and intuitive interface.
+
+- **[FrostPillage/CapCut-Pro-Version](https://github.com/FrostPillage/CapCut-Pro-Version)** ⭐ 75
   ![HTML](https://img.shields.io/badge/-HTML-lightgrey)
-  Fable 5.2 一句话生成 3D FPS 复现：4 个单文件演示、提示词与缓存账单 / One-prompt 3D FPS repro with demos, prompts & cost data
+  CapCut Pro for Windows — free professional video editor with AI auto captions, effects, keyframes, transitions and high-quality 4K export for content creators.
+
+- **[abdenourgnx/re-kindle](https://github.com/abdenourgnx/re-kindle)** ⭐ 69
+  ![Shell](https://img.shields.io/badge/-Shell-lightgrey)
+  None
 
 ### 📈 Weekly Trending
 
-- **[NotRexed/Hookshot](https://github.com/NotRexed/Hookshot)** ⭐ 7,148
+- **[NotRexed/Hookshot](https://github.com/NotRexed/Hookshot)** ⭐ 7,750
   ![C++](https://img.shields.io/badge/-C++-pink)
   A Native Recompilation Of The Legend Of Zelda: Ocarina Of Time Nintendo Switch 2 Remake
 
-- **[huamidev/GestaltX](https://github.com/huamidev/GestaltX)** ⭐ 5,853
+- **[huamidev/GestaltX](https://github.com/huamidev/GestaltX)** ⭐ 6,192
   ![Swift](https://img.shields.io/badge/-Swift-lightgrey)
   An MobileGestalt editor for iOS 27.x, featuring region-code tweaks, device presets, backups, and support for 7 languages.
 
-- **[tangerineturtle1/NX2navi](https://github.com/tangerineturtle1/NX2navi)** ⭐ 3,069
+- **[tangerineturtle1/NX2navi](https://github.com/tangerineturtle1/NX2navi)** ⭐ 3,240
   ![C](https://img.shields.io/badge/-C-lightgrey)
   None
 
-- **[jhaizhou-ops/S2Arm](https://github.com/jhaizhou-ops/S2Arm)** ⭐ 2,539
+- **[jhaizhou-ops/S2Arm](https://github.com/jhaizhou-ops/S2Arm)** ⭐ 2,585
   ![C#](https://img.shields.io/badge/-C#-lightgrey)
   Run your own Switch games natively on iPhone, iPad and Mac: game code rewritten to ARM64, graphics direct to Metal, one app for the whole library. Bring your own games and keys. 把你自己的 Switch 游戏原生带到 iPhone / iPad / Mac。
 
-- **[JenkinWoo/sheeridVerify](https://github.com/JenkinWoo/sheeridVerify)** ⭐ 2,020
+- **[JenkinWoo/sheeridVerify](https://github.com/JenkinWoo/sheeridVerify)** ⭐ 2,033
   ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
   None
 
-- **[IainKay/ram-altman](https://github.com/IainKay/ram-altman)** ⭐ 1,881
-  ![Shell](https://img.shields.io/badge/-Shell-lightgrey)
-  Monitors your RAM and reports any "quite terrible" unused capacity directly to the CEO of OpenAI.
-
-- **[jamesondh/chimera-vocal-synth](https://github.com/jamesondh/chimera-vocal-synth)** ⭐ 1,849
+- **[jamesondh/chimera-vocal-synth](https://github.com/jamesondh/chimera-vocal-synth)** ⭐ 1,966
   ![Rust](https://img.shields.io/badge/-Rust-brown)
   the ultimate vocal synthesizer - sing, speak, beatbox, and more
 
-- **[DIYgod/pinky](https://github.com/DIYgod/pinky)** ⭐ 1,818
+- **[IainKay/ram-altman](https://github.com/IainKay/ram-altman)** ⭐ 1,940
+  ![Shell](https://img.shields.io/badge/-Shell-lightgrey)
+  Monitors your RAM and reports any "quite terrible" unused capacity directly to the CEO of OpenAI.
+
+- **[DIYgod/pinky](https://github.com/DIYgod/pinky)** ⭐ 1,861
   ![Go](https://img.shields.io/badge/-Go-cyan)
   Let AI agents use your phone, with you in the loop.
 
 ### 📈 Monthly Trending
 
-- **[Gathin23/cleanyourtv](https://github.com/Gathin23/cleanyourtv)** ⭐ 56,276
+- **[Gathin23/cleanyourtv](https://github.com/Gathin23/cleanyourtv)** ⭐ 56,520
   ![Python](https://img.shields.io/badge/-Python-blue)
   Debloat any Android or Google TV over Wi-Fi and get an Apple TV-style home.
 
-- **[storytold/craft-anything](https://github.com/storytold/craft-anything)** ⭐ 27,768
+- **[storytold/craft-anything](https://github.com/storytold/craft-anything)** ⭐ 28,355
   ![Rust](https://img.shields.io/badge/-Rust-brown)
   Craft Anything: understand how any software works, and craft your own.
 
-- **[deepseek-ai/DeepInfer](https://github.com/deepseek-ai/DeepInfer)** ⭐ 25,850
+- **[deepseek-ai/DeepInfer](https://github.com/deepseek-ai/DeepInfer)** ⭐ 25,866
   ![Python](https://img.shields.io/badge/-Python-blue)
   DeepInfer: High-performance, large-scale inference framework for DeepSeek models
 
-- **[deepseek-ai/dsh-superagent-prototype](https://github.com/deepseek-ai/dsh-superagent-prototype)** ⭐ 22,408
+- **[deepseek-ai/dsh-superagent-prototype](https://github.com/deepseek-ai/dsh-superagent-prototype)** ⭐ 22,484
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   Towards a More Autonomous Agent System
 
-- **[ccch1mneyyy/dsh-Go](https://github.com/ccch1mneyyy/dsh-Go)** ⭐ 19,399
+- **[ccch1mneyyy/dsh-Go](https://github.com/ccch1mneyyy/dsh-Go)** ⭐ 19,691
   ![Dart](https://img.shields.io/badge/-Dart-lightgrey)
   dsh-go — DeepSeek Harness 装进口袋：手机本机运行，也能遥控你的电脑。
 
-- **[Zagitta/gpu-unlock](https://github.com/Zagitta/gpu-unlock)** ⭐ 18,656
+- **[Zagitta/gpu-unlock](https://github.com/Zagitta/gpu-unlock)** ⭐ 18,750
   ![C](https://img.shields.io/badge/-C-lightgrey)
   Your GeForce runs AI at half speed. This fixes it for 20/30/40 series cards. Up to 2× FP16 / BF16 / TF32 tensor throughput
 
-- **[seedds/nxnative](https://github.com/seedds/nxnative)** ⭐ 14,704
+- **[seedds/nxnative](https://github.com/seedds/nxnative)** ⭐ 14,812
   ![Python](https://img.shields.io/badge/-Python-blue)
   Switch games running natively on iPhone, iPad and Mac: an NSP folder becomes an unsigned IPA (NSO rewriter, Horizon HLE host, NVN→Metal)
 
-- **[heydamir/unslop](https://github.com/heydamir/unslop)** ⭐ 14,239
+- **[heydamir/unslop](https://github.com/heydamir/unslop)** ⭐ 14,530
   ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
   A Claude skill that turns vibecoded, AI-looking UI into a designed interface
 
@@ -332,15 +332,19 @@ See [kubernetes-announce@](https://groups.google.com/forum/#!forum/kubernetes-an
 
 ### 📦 nodejs/node
 
-**[2026-10-28, Version 26.13.0 'Lithium' (LTS), @richardlau](https://github.com/nodejs/node/releases/tag/v26.13.0)** `v26.13.0`
+**[2026-11-11, Version 26.13.1 'Lithium' (LTS), @aduh95](https://github.com/nodejs/node/releases/tag/v26.13.1)** `v26.13.1`
 
-📅 Released: October 28, 2026
+📅 Released: November 11, 2026
+
+
+
+
+This is a security release.
 
 ### Notable Changes
 
-This release marks the transition of Node.js 26.x into Long Term Support (LTS)
-with the codename 'Lithium'. It will continue to receive updates through to
-the end of April 202...
+* (CVE-2026-123863) http2: release headers when a stream is removed (Matteo Collina) – High
+* (CVE-2026-123864) tls,http: prevent nested parser exe...
 
 ---
 
@@ -482,59 +486,59 @@ the end of April 202...
 
 | Skill | Status |
 |-------|--------|
-| Java | ⚪ Planned |
-| Python | ⚪ Planned |
+| Java | 🟢 Proficient |
+| Python | 🟡 Learning |
 | JavaScript | 🟢 Proficient |
-| TypeScript | ⚪ Planned |
+| TypeScript | 🟢 Proficient |
 | Go | 🟢 Proficient |
 
 ### Frameworks
 
 | Skill | Status |
 |-------|--------|
-| React | 🟢 Proficient |
-| Spring Boot | ⚪ Planned |
-| Django | 🟡 Learning |
-| Node.js | 🟡 Learning |
-| Next.js | 🔴 Beginner |
+| React | 🟡 Learning |
+| Spring Boot | 🟢 Proficient |
+| Django | 🔴 Beginner |
+| Node.js | 🔴 Beginner |
+| Next.js | 🟡 Learning |
 
 ### Cybersecurity
 
 | Skill | Status |
 |-------|--------|
-| Penetration Testing | 🟡 Learning |
-| Web Security | 🔴 Beginner |
-| Network Security | 🔴 Beginner |
-| OWASP | ⚪ Planned |
+| Penetration Testing | 🔴 Beginner |
+| Web Security | ⚪ Planned |
+| Network Security | 🟡 Learning |
+| OWASP | 🟡 Learning |
 
 ### Ai Ml
 
 | Skill | Status |
 |-------|--------|
-| Machine Learning | 🟢 Proficient |
+| Machine Learning | 🟡 Learning |
 | Deep Learning | 🟡 Learning |
-| NLP | 🔴 Beginner |
-| Computer Vision | 🟢 Proficient |
+| NLP | ⚪ Planned |
+| Computer Vision | 🟡 Learning |
 | TensorFlow | ⚪ Planned |
-| PyTorch | ⚪ Planned |
+| PyTorch | 🟡 Learning |
 
 ### Devops
 
 | Skill | Status |
 |-------|--------|
-| Docker | 🔴 Beginner |
-| Kubernetes | ⚪ Planned |
-| CI/CD | 🟡 Learning |
-| AWS | 🟢 Proficient |
-| Azure | 🟡 Learning |
+| Docker | ⚪ Planned |
+| Kubernetes | 🟢 Proficient |
+| CI/CD | 🔴 Beginner |
+| AWS | 🟡 Learning |
+| Azure | ⚪ Planned |
 
 ### Other
 
 | Skill | Status |
 |-------|--------|
 | Blockchain | ⚪ Planned |
-| Web3 | 🔴 Beginner |
-| Cloud Computing | 🟢 Proficient |
+| Web3 | 🟢 Proficient |
+| Cloud Computing | 🟡 Learning |
 
 </details>
 
