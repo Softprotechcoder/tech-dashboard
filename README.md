@@ -19,9 +19,9 @@
 
 | Metric | Count |
 |--------|-------|
-| 📰 Latest News Articles | 16 |
+| 📰 Latest News Articles | 26 |
 | 🔥 Trending Repositories | 45 |
-| 🎯 Latest Releases | 7 |
+| 🎯 Latest Releases | 10 |
 | 🎯 Learning Goals | 4 |
 
 ## 🎯 Current Focus
@@ -44,66 +44,71 @@
 <details>
 <summary>Click to expand latest tech news</summary>
 
+### 📑 Hacker News
+
+- **[Chinese frontier AI models carry the fingerprint of export-controlled GPUs](https://unemploymentlabs.com/checkpoint-forensics)**
+  *<p>Article URL: <a href="https://unemploymentlabs.com/checkpoint-forensics">https://unemploymentlabs.com/checkpoint-forensics</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=504...*
+  📅 Thu, 12 Nov 2026 21:56:11 +0000
+
+- **[Foundation Models framework](https://developer.apple.com/foundation-models-framework/)**
+  *<p>Article URL: <a href="https://developer.apple.com/foundation-models-framework/">https://developer.apple.com/foundation-models-framework/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.c...*
+  📅 Thu, 12 Nov 2026 21:13:26 +0000
+
+- **[AI is turning Apple's app review process into a nightmare for synth developers](https://synthanatomy.com/2026/11/ai-is-turning-apples-app-review-process-into-a-nightmare-for-developers.html)**
+  *<p>Article URL: <a href="https://synthanatomy.com/2026/11/ai-is-turning-apples-app-review-process-into-a-nightmare-for-developers.html">https://synthanatomy.com/2026/11/ai-is-turning-apples-app-review...*
+  📅 Thu, 12 Nov 2026 21:09:49 +0000
+
+- **[Data centers need power – lower income, rural residents pay the price](https://news.cornell.edu/stories/2026/11/data-centers-need-power-lower-income-rural-residents-pay-price)**
+  *<p>Article URL: <a href="https://news.cornell.edu/stories/2026/11/data-centers-need-power-lower-income-rural-residents-pay-price">https://news.cornell.edu/stories/2026/11/data-centers-need-power-lower...*
+  📅 Thu, 12 Nov 2026 19:53:54 +0000
+
+- **[Distributed Ray Tracer](https://ray.hatchet.run)**
+  *<p>Hey HN, I'm Julius, I'm a backend engineer at Hatchet and created this demo to show off some of Hatchet's new features, primarily durable streams and serverless endpoints. Those, however, are just ...*
+  📅 Thu, 12 Nov 2026 19:06:23 +0000
+
+- **[Dwarf planet candidate appears which takes roughly 280 years to orbit our sun](https://www.smithsonianmag.com/smart-news/astronomers-found-a-mysterious-object-orbiting-far-beyond-pluto-it-could-be-a-new-dwarf-planet-hidden-in-our-solar-system-180989857/)**
+  *<p>Article URL: <a href="https://www.smithsonianmag.com/smart-news/astronomers-found-a-mysterious-object-orbiting-far-beyond-pluto-it-could-be-a-new-dwarf-planet-hidden-in-our-solar-system-180989857/"...*
+  📅 Thu, 12 Nov 2026 19:05:33 +0000
+
 ### 📑 TechCrunch
 
-- **[Nvidia’s Jensen Huang resigns, chipmaker names CFO Colette Kress as interim CEO](https://techcrunch.com/2026/11/12/nvidias-jensen-huang-resigns-chipmaker-names-cfo-colette-kress-as-interim-ceo/)**
-  *Nvidia gets a new chief executive, days after former CEO Jensen Huang admitted to a romantic affair with an alleged Chinese spy....*
-  📅 Thu, 12 Nov 2026 14:10:34 +0000
+- **[Democrats launch Nvidia investigation, write scathing letter on Huang’s ‘scheme’ with Trump](https://techcrunch.com/2026/11/12/democrats-launch-nvidia-investigation-write-scathing-letter-on-huangs-scheme-with-trump/)**
+  *This Congressional investigation into Nvidia's China sales and its dealings with Trump is the second one, so far, since news of the alleged spy affair broke....*
+  📅 Thu, 12 Nov 2026 22:42:51 +0000
 
-- **[Nine Korean startups vie for a spot in Disrupt 2027’s Startup Battlefield 200 competition](https://techcrunch.com/2026/11/12/nine-korean-startups-vie-for-a-spot-in-disrupt-2027s-startup-battlefield-200-competition/)**
-  *The startups work across the deep tech sector, including healthcare, fintech, energy, semiconductors, and AI. All nine are looking to enter the US....*
-  📅 Thu, 12 Nov 2026 13:26:25 +0000
+- **[Muse can now place calls to U.S. businesses — if you pay](https://techcrunch.com/2026/11/12/muse-can-now-place-calls-to-u-s-businesses-if-you-pay/)**
+  *Muse's AI can now place outbound calls to US businesses — but it's not free....*
+  📅 Thu, 12 Nov 2026 22:22:28 +0000
 
-- **[Who could replace Jensen Huang? A highly unscientific list of possible successors](https://techcrunch.com/2026/11/11/who-could-replace-jensen-huang-a-highly-unscientific-list-of-possible-successors/)**
-  *Nvidia has no succession plan and a CEO in hot water, so we’ve drafted a shortlist....*
-  📅 Thu, 12 Nov 2026 03:13:10 +0000
+- **[The unfolding Jensen Huang scandal: a timeline](https://techcrunch.com/2026/11/12/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/)**
+  *Jensen Huang has resigned from Nvidia following an affair, which could have ramifications for national security as the U.S. and China race to develop the most advanced AI infrastructure....*
+  📅 Thu, 12 Nov 2026 21:35:00 +0000
 
-- **[The unfolding Jensen Huang scandal: a timeline](https://techcrunch.com/2026/11/11/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/)**
-  *The affair could have ramifications for national security as the U.S. and China race to develop the most advanced AI infrastructure....*
-  📅 Wed, 11 Nov 2026 23:50:00 +0000
+- **[Nebius tests the neocloud playbook with $40 billion in planned spending](https://techcrunch.com/2026/11/12/nebius-tests-the-neocloud-playbook-with-40-billion-in-planned-spending/)**
+  *Nebius plans to fund its $40 billion AI infrastructure expansion through customer prepayments and loans, even as delays at a Microsoft data center raise questions about its financing model....*
+  📅 Thu, 12 Nov 2026 21:27:10 +0000
 
-- **[Nvidia’s stock drops as board reportedly preps to oust CEO Jensen Huang](https://techcrunch.com/2026/11/11/nvidias-stock-drops-as-board-reportedly-preps-to-oust-ceo-jensen-huang/)**
-  *As soon as Wednesday evening, Nvidia's board could decide to remove its founder and CEO of 33 years....*
-  📅 Wed, 11 Nov 2026 23:28:45 +0000
+- **[Jensen Huang was having a third affair, Reuters reports](https://techcrunch.com/2026/11/12/jensen-huang-was-having-a-third-affair-reuters-reports/)**
+  *Reuters is withholding the name of the new employee linked to Huang, but says she is an employee of Nvidia....*
+  📅 Thu, 12 Nov 2026 20:26:47 +0000
 
-- **[Jensen Huang accused of having another affair — with an Nvidia exec](https://techcrunch.com/2026/11/11/jensen-huang-accused-of-having-another-affair-with-a-nvidia-exec/)**
-  *Jensen Huang, who has come under fire for admitting to an affair with a woman accused of being a Chinese intelligence agent, has been accused of having a separate affair with an Nvidia subordinate....*
-  📅 Wed, 11 Nov 2026 23:17:05 +0000
+- **[Google’s latest Search upgrade promises better answers to your most complicated questions](https://techcrunch.com/2026/11/12/googles-latest-search-upgrade-promises-better-answers-to-your-most-complicated-questions/)**
+  *Powered by Gemini 4 Hydrogen, Google's AI Mode is getting better at understanding complex queries, surfacing relevant links, and delivering richer visual responses....*
+  📅 Thu, 12 Nov 2026 19:27:45 +0000
 
 ### 📑 Dev.to
 
-- **[We counted ignore rules in 100 public AI and MCP repositories (no names, script included)](https://dev.to/zeuslab/we-counted-ignore-rules-in-100-public-ai-and-mcp-repositories-no-names-script-included-418p)**
-  *<p>A missing line in <code>.gitignore</code> is not a leak. But it is the first thing between a secret and a public history, so we wanted to know how often the basic lines are actually there.</p>
+- **[Shopify's New IP Allowlist Rule Hits Its First Deadline Today](https://dev.to/raxxostudios/shopifys-new-ip-allowlist-rule-hits-its-first-deadline-today-36a7)**
+  *<ul>
+<li><p>Shopify now requires an IP allowlist on every public app, split into two deadlines this month</p></li>
+<li><p>Apps using bulk operations needed the allowlist live by November 12, 2026, tod...*
+  📅 Thu, 12 Nov 2026 22:50:41 +0000
 
-<p>...*
-  📅 Thu, 12 Nov 2026 14:20:10 +0000
-
-- **[Kubernetes OOMKilled (exit code 137): why it happens and how to see the next one coming](https://dev.to/selimbf/kubernetes-oomkilled-exit-code-137-why-it-happens-and-how-to-see-the-next-one-coming-2pcg)**
-  *<p>Your pod restarted. <code>kubectl describe pod</code> shows this:<br />
-</p>
-
-<div class="highlight js-code-highlight">
-<pre class="highlight plaintext"><code>Last State:     Terminated
-  Reason:  ...*
-  📅 Thu, 12 Nov 2026 14:19:51 +0000
-
-- **[Google Maps Platform in .NET without the JSON plumbing: meet AarxMaps](https://dev.to/jsebas11/google-maps-platform-in-net-without-the-json-plumbing-meet-aarxmaps-5cin)**
-  *<p>Google's <strong>Places API (New)</strong> and <strong>Routes API</strong> are good APIs. Calling them from .NET by hand is plumbing: JSON bodies, a mandatory field mask header on every request, <c...*
-  📅 Thu, 12 Nov 2026 14:18:57 +0000
-
-- **[I built a free Mac app to get PDFs onto my Kindle, and Calibre was ignoring my OCR](https://dev.to/indiorlei/i-built-a-free-mac-app-to-get-pdfs-onto-my-kindle-and-calibre-was-ignoring-my-ocr-55pe)**
-  *<p>I read a lot on a Kindle, and a lot of what I want to read only exists as a PDF. Some are clean exports with real text. Many are scanned books: 400 photos of pages, 180 MB, slightly crooked.</p>
-
-<...*
-  📅 Thu, 12 Nov 2026 14:18:21 +0000
-
-- **[Fiz um app grátis para Mac que leva PDFs ao Kindle, e o Calibre ignorava o meu OCR](https://dev.to/indiorlei/fiz-um-app-gratis-para-mac-que-leva-pdfs-ao-kindle-e-o-calibre-ignorava-o-meu-ocr-246b)**
-  *<p>Eu leio muito no Kindle, e boa parte do que quero ler só existe em PDF. Alguns são exportados direitinho, com texto de verdade. Muitos são livros escaneados: 400 fotos de páginas, 180 MB, meio tort...*
-  📅 Thu, 12 Nov 2026 14:18:10 +0000
-
-- **[How to run bulk PageSpeed Insights checks for hundreds of URLs (and export Core Web Vitals to CSV)](https://dev.to/hillcountrybots/how-to-run-bulk-pagespeed-insights-checks-for-hundreds-of-urls-and-export-core-web-vitals-to-csv-2mn9)**
-  *<p>The PageSpeed Insights website is fine when you have one URL. It is a slow way to check a sitemap, a client list, or every page you shipped last month. You want one table with Core Web Vitals, a pe...*
-  📅 Thu, 12 Nov 2026 14:17:38 +0000
+- **[Plan your launch date around Google Play's 14-day closed test](https://dev.to/founder_can/plan-your-launch-date-around-google-plays-14-day-closed-test-4f2d)**
+  *<p>If your personal Google Play developer account was created after 13 November 2023, your launch date isn't set by the day your build is ready. It's set by <a href="https://support.google.com/googlep...*
+  📅 Thu, 12 Nov 2026 22:49:31 +0000
 
 </details>
 
@@ -111,103 +116,103 @@
 
 ### 📈 Daily Trending
 
-- **[AIRzZ90/study-materials-fork](https://github.com/AIRzZ90/study-materials-fork)** ⭐ 116
+- **[AIRzZ90/study-materials-fork](https://github.com/AIRzZ90/study-materials-fork)** ⭐ 330
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   A cross-platform Tauri 2 interface and interaction practice project
+
+- **[rivet-dev/open-orange](https://github.com/rivet-dev/open-orange)** ⭐ 197
+  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
+  Run Cloudflare Workers and Durable Objects unchanged on AWS, GCP, Azure or your own servers.
+
+- **[Simon3Sarkis/super-odyssey-pc-recomp](https://github.com/Simon3Sarkis/super-odyssey-pc-recomp)** ⭐ 160
+  ![C](https://img.shields.io/badge/-C-lightgrey)
+  A native Windows PC port of Super Mario Odyssey by static recompilation. Bring your own game: no game files included.
+
+- **[DevedevT/FFmpeg-GUI-Editor-Windows](https://github.com/DevedevT/FFmpeg-GUI-Editor-Windows)** ⭐ 143
+  ![Visual Basic .NET](https://img.shields.io/badge/-Visual Basic .NET-lightgrey)
+  Lightweight portable FFmpeg GUI & lossless video trimmer for Windows (ready-to-use .exe). Supports English, Russian, Chinese, German, French & Italian.
+
+- **[lawandrorder/mate](https://github.com/lawandrorder/mate)** ⭐ 138
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  Mate, your mate while you shop. A text-first shopping agent for cashback, personal discount codes, package tracking and price-drop alerts. Includes a starter agent, web chat, original icon set and docs. mate.fm 
 
 - **[routerhubSI/kimi-uncensored](https://github.com/routerhubSI/kimi-uncensored)** ⭐ 84
   ![None](https://img.shields.io/badge/-None-lightgrey)
   Every uncensored and abliterated Kimi build — Kimi K3.1 Pro Uncensored via API at 0.30/1.50 USD per million tokens, abliterated open-weight checkpoints for K3.1 Pro and K3, license notes and a red-team prompt library. Maintained by RouterHub.
 
-- **[Simon3Sarkis/super-odyssey-pc-recomp](https://github.com/Simon3Sarkis/super-odyssey-pc-recomp)** ⭐ 80
-  ![C](https://img.shields.io/badge/-C-lightgrey)
-  A native Windows PC port of Super Mario Odyssey by static recompilation. Bring your own game: no game files included.
-
 - **[StitchSerfJump/Microsoft-Visio-For-Windows](https://github.com/StitchSerfJump/Microsoft-Visio-For-Windows)** ⭐ 76
   ![None](https://img.shields.io/badge/-None-lightgrey)
   Microsoft Visio for Windows — diagramming and vector graphics application for flowcharts, org charts, network maps, floor plans and professional diagrams.
 
-- **[routerhubSI/deepseek-uncensored](https://github.com/routerhubSI/deepseek-uncensored)** ⭐ 68
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  Every uncensored and abliterated DeepSeek build — V4.1 Flash 1017 Abliterated (the pinned, reproducible build that ranks third on the AA Cyber benchmark), V4 Pro, the tuned variants, abliterated GGUF builds and a cyber red-team prompt library. Maintained by RouterHub.
-
-- **[BetaChampionTitle/Coreldraw-For-Windows](https://github.com/BetaChampionTitle/Coreldraw-For-Windows)** ⭐ 52
+- **[CatchArtisanDone86/Movavi-Video-Editor-For-Windows](https://github.com/CatchArtisanDone86/Movavi-Video-Editor-For-Windows)** ⭐ 72
   ![None](https://img.shields.io/badge/-None-lightgrey)
-  CorelDRAW for Windows — vector graphics and design suite for illustration, layout, typography and print-ready artwork on desktop.
-
-- **[sparkfiremancollar21/Microsoft-Project-For-Windows](https://github.com/sparkfiremancollar21/Microsoft-Project-For-Windows)** ⭐ 50
-  ![None](https://img.shields.io/badge/-None-lightgrey)
-  Microsoft Project for Windows — project management application for schedules, Gantt charts, task tracking, resource planning and timeline control.
-
-- **[alinuo666/ComfyUI-Banzhang-All](https://github.com/alinuo666/ComfyUI-Banzhang-All)** ⭐ 39
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  用 MiniMax H3 视频模型生成视频的 ComfyUI 中文插件。主打三采工作流，6GB 显存也能跑高清视频。
+  Movavi Video Editor for Windows — desktop video editing application for cutting clips, adding effects, transitions, titles and exporting videos for social media and everyday projects.
 
 ### 📈 Weekly Trending
 
-- **[huamidev/GestaltX](https://github.com/huamidev/GestaltX)** ⭐ 6,812
+- **[huamidev/GestaltX](https://github.com/huamidev/GestaltX)** ⭐ 6,924
   ![Swift](https://img.shields.io/badge/-Swift-lightgrey)
   An MobileGestalt editor for iOS 27.x, featuring region-code tweaks, device presets, backups.
 
-- **[tangerineturtle1/NX2navi](https://github.com/tangerineturtle1/NX2navi)** ⭐ 3,421
+- **[tangerineturtle1/NX2navi](https://github.com/tangerineturtle1/NX2navi)** ⭐ 3,549
   ![C](https://img.shields.io/badge/-C-lightgrey)
   None
 
-- **[jhaizhou-ops/S2Arm](https://github.com/jhaizhou-ops/S2Arm)** ⭐ 2,726
+- **[jhaizhou-ops/S2Arm](https://github.com/jhaizhou-ops/S2Arm)** ⭐ 2,755
   ![C#](https://img.shields.io/badge/-C#-lightgrey)
   Run your own Switch games natively on iPhone, iPad and Mac: game code rewritten to ARM64, graphics direct to Metal, one app for the whole library. Bring your own games and keys. 把你自己的 Switch 游戏原生带到 iPhone / iPad / Mac。
 
-- **[JenkinWoo/sheeridVerify](https://github.com/JenkinWoo/sheeridVerify)** ⭐ 2,068
+- **[JenkinWoo/sheeridVerify](https://github.com/JenkinWoo/sheeridVerify)** ⭐ 2,080
   ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
   None
 
-- **[DIYgod/pinky](https://github.com/DIYgod/pinky)** ⭐ 1,970
+- **[DIYgod/pinky](https://github.com/DIYgod/pinky)** ⭐ 1,997
   ![Go](https://img.shields.io/badge/-Go-cyan)
   Let AI agents use your phone, with you in the loop.
 
-- **[Kianuni/Erosion-CN](https://github.com/Kianuni/Erosion-CN)** ⭐ 1,686
+- **[Kianuni/Erosion-CN](https://github.com/Kianuni/Erosion-CN)** ⭐ 1,721
   ![Swift](https://img.shields.io/badge/-Swift-lightgrey)
   iOS / iPadOS 系统配置与 MobileGestalt 研究工具箱（简体中文防白苹果安全加固版）
 
-- **[HybridRobotics/supermimic](https://github.com/HybridRobotics/supermimic)** ⭐ 1,257
+- **[HybridRobotics/supermimic](https://github.com/HybridRobotics/supermimic)** ⭐ 1,301
   ![Python](https://img.shields.io/badge/-Python-blue)
   Humanoid whole-body motion tracking with one differentiable world model.
 
-- **[mahmoudtawfik1998/secure-pdf-document-processor](https://github.com/mahmoudtawfik1998/secure-pdf-document-processor)** ⭐ 1,211
+- **[mahmoudtawfik1998/secure-pdf-document-processor](https://github.com/mahmoudtawfik1998/secure-pdf-document-processor)** ⭐ 1,212
   ![HTML](https://img.shields.io/badge/-HTML-lightgrey)
   Adobe Acrobat Pro 2026: Secure Standalone PDF Document Processor for Desktop
 
 ### 📈 Monthly Trending
 
-- **[Gathin23/cleanyourtv](https://github.com/Gathin23/cleanyourtv)** ⭐ 56,828
+- **[Gathin23/cleanyourtv](https://github.com/Gathin23/cleanyourtv)** ⭐ 56,995
   ![Python](https://img.shields.io/badge/-Python-blue)
   Debloat any Android or Google TV over Wi-Fi and get an Apple TV-style home.
 
-- **[storytold/craft-anything](https://github.com/storytold/craft-anything)** ⭐ 29,417
+- **[storytold/craft-anything](https://github.com/storytold/craft-anything)** ⭐ 29,781
   ![Rust](https://img.shields.io/badge/-Rust-brown)
   Craft Anything: understand how any software works, and craft your own.
 
-- **[deepseek-ai/DeepInfer](https://github.com/deepseek-ai/DeepInfer)** ⭐ 25,897
+- **[deepseek-ai/DeepInfer](https://github.com/deepseek-ai/DeepInfer)** ⭐ 25,904
   ![Python](https://img.shields.io/badge/-Python-blue)
   DeepInfer: High-performance, large-scale inference framework for DeepSeek models
 
-- **[deepseek-ai/dsh-superagent-prototype](https://github.com/deepseek-ai/dsh-superagent-prototype)** ⭐ 22,683
+- **[deepseek-ai/dsh-superagent-prototype](https://github.com/deepseek-ai/dsh-superagent-prototype)** ⭐ 22,734
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   Towards a More Autonomous Agent System
 
-- **[ccch1mneyyy/dsh-Go](https://github.com/ccch1mneyyy/dsh-Go)** ⭐ 20,477
+- **[ccch1mneyyy/dsh-Go](https://github.com/ccch1mneyyy/dsh-Go)** ⭐ 20,706
   ![Dart](https://img.shields.io/badge/-Dart-lightgrey)
   dsh-go — DeepSeek Harness 装进口袋：手机本机运行，也能遥控你的电脑。
 
-- **[Zagitta/gpu-unlock](https://github.com/Zagitta/gpu-unlock)** ⭐ 18,866
+- **[Zagitta/gpu-unlock](https://github.com/Zagitta/gpu-unlock)** ⭐ 18,947
   ![C](https://img.shields.io/badge/-C-lightgrey)
   Your GeForce runs AI at half speed. This fixes it for 20/30/40 series cards. Up to 2× FP16 / BF16 / TF32 tensor throughput
 
-- **[heydamir/unslop](https://github.com/heydamir/unslop)** ⭐ 14,914
+- **[heydamir/unslop](https://github.com/heydamir/unslop)** ⭐ 15,102
   ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
   A Claude skill that turns vibecoded, AI-looking UI into a designed interface
 
-- **[pengchujin/aerial-tv](https://github.com/pengchujin/aerial-tv)** ⭐ 11,410
+- **[pengchujin/aerial-tv](https://github.com/pengchujin/aerial-tv)** ⭐ 11,435
   ![Kotlin](https://img.shields.io/badge/-Kotlin-lightgrey)
   给国产电视的一块干净桌面：参照 tvOS 设计的开源 Android TV 桌面，没有广告，开机自动接管。A tvOS-style launcher for Xiaomi, TCL and other China-market TVs.
 
@@ -306,6 +311,50 @@ Please refer...
 
 
 See [kubernetes-announce@](https://groups.google.com/forum/#!forum/kubernetes-announce). Additional binary downloads are linked in the [CHANGELOG](https://github.com/kubernetes/kubernetes/blob/master...
+
+---
+
+### 📦 docker/compose
+
+**[v5.7.1](https://github.com/docker/compose/releases/tag/v5.7.1)** `v5.7.1`
+
+📅 Released: November 11, 2026
+
+## What's Changed
+
+### Fixes 🐛
+* fix(oci): verify the manifests fetched against their digest, and take only complete cache entries by @ndeloof in https://github.com/docker/compose/pull/14490
+* fix(oci...
+
+---
+
+### 📦 nodejs/node
+
+**[2026-11-12, Version 27.0.0-alpha.0.1.0 (Alpha), @aduh95](https://github.com/nodejs/node/releases/tag/v27.0.0-alpha.0.1.0)** `v27.0.0-alpha.0.1.0`
+
+📅 Released: November 12, 2026
+
+
+
+
+### Notable Changes
+
+* \[[`33d4e6c73a`](https://github.com/nodejs/node/commit/33d4e6c73a)] - **(SEMVER-MINOR)** **child\_process**: add subprocess.timedOut (Marco) [#66639](https://github.com/nodej...
+
+---
+
+### 📦 rust-lang/rust
+
+**[Rust 1.100.0](https://github.com/rust-lang/rust/releases/tag/1.100.0)** `1.100.0`
+
+📅 Released: November 12, 2026
+
+<a id="1.100.0-Language"></a>
+
+## Language
+
+- [Stabilize never type](https://github.com/rust-lang/rust/pull/155499)
+- [Lint against repeated `#[repr(..)]` attributes](https://github.com/rust-lang/rust...
 
 ---
 
@@ -434,50 +483,50 @@ See [kubernetes-announce@](https://groups.google.com/forum/#!forum/kubernetes-an
 
 | Skill | Status |
 |-------|--------|
-| Java | ⚪ Planned |
-| Python | 🟡 Learning |
-| JavaScript | 🔴 Beginner |
-| TypeScript | 🔴 Beginner |
-| Go | ⚪ Planned |
+| Java | 🟢 Proficient |
+| Python | 🔴 Beginner |
+| JavaScript | 🟢 Proficient |
+| TypeScript | 🟢 Proficient |
+| Go | 🔴 Beginner |
 
 ### Frameworks
 
 | Skill | Status |
 |-------|--------|
-| React | 🟡 Learning |
-| Spring Boot | 🟡 Learning |
-| Django | 🟢 Proficient |
-| Node.js | 🔴 Beginner |
+| React | 🔴 Beginner |
+| Spring Boot | ⚪ Planned |
+| Django | 🔴 Beginner |
+| Node.js | ⚪ Planned |
 | Next.js | 🔴 Beginner |
 
 ### Cybersecurity
 
 | Skill | Status |
 |-------|--------|
-| Penetration Testing | 🟡 Learning |
+| Penetration Testing | 🟢 Proficient |
 | Web Security | ⚪ Planned |
-| Network Security | ⚪ Planned |
-| OWASP | 🟢 Proficient |
+| Network Security | 🔴 Beginner |
+| OWASP | 🔴 Beginner |
 
 ### Ai Ml
 
 | Skill | Status |
 |-------|--------|
-| Machine Learning | ⚪ Planned |
+| Machine Learning | 🟢 Proficient |
 | Deep Learning | 🔴 Beginner |
-| NLP | ⚪ Planned |
-| Computer Vision | 🟡 Learning |
+| NLP | 🟡 Learning |
+| Computer Vision | 🟢 Proficient |
 | TensorFlow | 🟡 Learning |
-| PyTorch | ⚪ Planned |
+| PyTorch | 🔴 Beginner |
 
 ### Devops
 
 | Skill | Status |
 |-------|--------|
-| Docker | 🔴 Beginner |
-| Kubernetes | 🟢 Proficient |
-| CI/CD | 🔴 Beginner |
-| AWS | 🔴 Beginner |
+| Docker | 🟡 Learning |
+| Kubernetes | ⚪ Planned |
+| CI/CD | 🟡 Learning |
+| AWS | ⚪ Planned |
 | Azure | ⚪ Planned |
 
 ### Other
@@ -485,8 +534,8 @@ See [kubernetes-announce@](https://groups.google.com/forum/#!forum/kubernetes-an
 | Skill | Status |
 |-------|--------|
 | Blockchain | ⚪ Planned |
-| Web3 | 🟢 Proficient |
-| Cloud Computing | 🟢 Proficient |
+| Web3 | 🔴 Beginner |
+| Cloud Computing | 🟡 Learning |
 
 </details>
 
