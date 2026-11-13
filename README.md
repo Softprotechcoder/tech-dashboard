@@ -7,7 +7,7 @@
 ![AI & ML](https://img.shields.io/badge/-AI%20&%20ML-blue) ![CyberSecurity](https://img.shields.io/badge/-CyberSecurity-red) ![Full Stack Development](https://img.shields.io/badge/-Full%20Stack%20Development-green)
 
 [![Auto Update](https://img.shields.io/badge/Auto%20Update-Enabled-success)](https://github.com/yourusername/tech-dashboard/actions)
-[![Last Updated](https://img.shields.io/badge/Last%20Updated-November 12, 2026-blue)](https://github.com/yourusername/tech-dashboard)
+[![Last Updated](https://img.shields.io/badge/Last%20Updated-November 13, 2026-blue)](https://github.com/yourusername/tech-dashboard)
 
 *Automatically updated every 6 hours with the latest tech news, trending repositories, and learning resources.*
 
@@ -46,31 +46,32 @@
 
 ### 📑 Hacker News
 
+- **[Don't argue with me. $100k is fair, and you know it](https://folklore.org/Switcher.html)**
+  *<p>Article URL: <a href="https://folklore.org/Switcher.html">https://folklore.org/Switcher.html</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50477714">https://news.ycombinato...*
+  📅 Fri, 13 Nov 2026 03:14:59 +0000
+
+- **[Africa's solar revolution is vast and speedy](https://www.economist.com/middle-east-and-africa/2026/11/12/africas-solar-revolution-is-vast-and-speedy)**
+  *<p>Article URL: <a href="https://www.economist.com/middle-east-and-africa/2026/11/12/africas-solar-revolution-is-vast-and-speedy">https://www.economist.com/middle-east-and-africa/2026/11/12/africas-so...*
+  📅 Fri, 13 Nov 2026 02:28:15 +0000
+
+- **[Nvidia employees petition to bring back Jensen Huang](https://www.wired.com/story/nvidia-employees-petition-for-jensen-huangs-return/)**
+  *<p>Article URL: <a href="https://www.wired.com/story/nvidia-employees-petition-for-jensen-huangs-return/">https://www.wired.com/story/nvidia-employees-petition-for-jensen-huangs-return/</a></p>
+<p>Com...*
+  📅 Fri, 13 Nov 2026 02:16:24 +0000
+
+- **[NYC Council passes ban on 'surveillance pricing'](https://gothamist.com/news/nyc-council-passes-ban-on-surveillance-pricing-that-relies-on-personal-data)**
+  *<p>Article URL: <a href="https://gothamist.com/news/nyc-council-passes-ban-on-surveillance-pricing-that-relies-on-personal-data">https://gothamist.com/news/nyc-council-passes-ban-on-surveillance-prici...*
+  📅 Fri, 13 Nov 2026 02:04:39 +0000
+
+- **[Edge0-145B: Frontier AI Capabilities on Your Own Computer](https://edge0.ai/blog/introducing-edge0-145b-frontier-ai-capabilities-on-your-own-computer)**
+  *<p>Article URL: <a href="https://edge0.ai/blog/introducing-edge0-145b-frontier-ai-capabilities-on-your-own-computer">https://edge0.ai/blog/introducing-edge0-145b-frontier-ai-capabilities-on-your-own-c...*
+  📅 Thu, 12 Nov 2026 23:06:17 +0000
+
 - **[Chinese frontier AI models carry the fingerprint of export-controlled GPUs](https://unemploymentlabs.com/checkpoint-forensics)**
   *<p>Article URL: <a href="https://unemploymentlabs.com/checkpoint-forensics">https://unemploymentlabs.com/checkpoint-forensics</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=504...*
   📅 Thu, 12 Nov 2026 21:56:11 +0000
-
-- **[Foundation Models framework](https://developer.apple.com/foundation-models-framework/)**
-  *<p>Article URL: <a href="https://developer.apple.com/foundation-models-framework/">https://developer.apple.com/foundation-models-framework/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.c...*
-  📅 Thu, 12 Nov 2026 21:13:26 +0000
-
-- **[AI is turning Apple's app review process into a nightmare for synth developers](https://synthanatomy.com/2026/11/ai-is-turning-apples-app-review-process-into-a-nightmare-for-developers.html)**
-  *<p>Article URL: <a href="https://synthanatomy.com/2026/11/ai-is-turning-apples-app-review-process-into-a-nightmare-for-developers.html">https://synthanatomy.com/2026/11/ai-is-turning-apples-app-review...*
-  📅 Thu, 12 Nov 2026 21:09:49 +0000
-
-- **[Data centers need power – lower income, rural residents pay the price](https://news.cornell.edu/stories/2026/11/data-centers-need-power-lower-income-rural-residents-pay-price)**
-  *<p>Article URL: <a href="https://news.cornell.edu/stories/2026/11/data-centers-need-power-lower-income-rural-residents-pay-price">https://news.cornell.edu/stories/2026/11/data-centers-need-power-lower...*
-  📅 Thu, 12 Nov 2026 19:53:54 +0000
-
-- **[Distributed Ray Tracer](https://ray.hatchet.run)**
-  *<p>Hey HN, I'm Julius, I'm a backend engineer at Hatchet and created this demo to show off some of Hatchet's new features, primarily durable streams and serverless endpoints. Those, however, are just ...*
-  📅 Thu, 12 Nov 2026 19:06:23 +0000
-
-- **[Dwarf planet candidate appears which takes roughly 280 years to orbit our sun](https://www.smithsonianmag.com/smart-news/astronomers-found-a-mysterious-object-orbiting-far-beyond-pluto-it-could-be-a-new-dwarf-planet-hidden-in-our-solar-system-180989857/)**
-  *<p>Article URL: <a href="https://www.smithsonianmag.com/smart-news/astronomers-found-a-mysterious-object-orbiting-far-beyond-pluto-it-could-be-a-new-dwarf-planet-hidden-in-our-solar-system-180989857/"...*
-  📅 Thu, 12 Nov 2026 19:05:33 +0000
 
 ### 📑 TechCrunch
 
@@ -78,8 +79,8 @@
   *This Congressional investigation into Nvidia's China sales and its dealings with Trump is the second one, so far, since news of the alleged spy affair broke....*
   📅 Thu, 12 Nov 2026 22:42:51 +0000
 
-- **[Muse can now place calls to U.S. businesses — if you pay](https://techcrunch.com/2026/11/12/muse-can-now-place-calls-to-u-s-businesses-if-you-pay/)**
-  *Muse's AI can now place outbound calls to US businesses — but it's not free....*
+- **[Muse can now place calls to US businesses — if you pay](https://techcrunch.com/2026/11/12/muse-can-now-place-calls-to-u-s-businesses-if-you-pay/)**
+  *Muse's AI can now place outbound calls to U.S. businesses — but it's not free....*
   📅 Thu, 12 Nov 2026 22:22:28 +0000
 
 - **[The unfolding Jensen Huang scandal: a timeline](https://techcrunch.com/2026/11/12/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/)**
@@ -100,15 +101,15 @@
 
 ### 📑 Dev.to
 
-- **[Shopify's New IP Allowlist Rule Hits Its First Deadline Today](https://dev.to/raxxostudios/shopifys-new-ip-allowlist-rule-hits-its-first-deadline-today-36a7)**
-  *<ul>
-<li><p>Shopify now requires an IP allowlist on every public app, split into two deadlines this month</p></li>
-<li><p>Apps using bulk operations needed the allowlist live by November 12, 2026, tod...*
-  📅 Thu, 12 Nov 2026 22:50:41 +0000
+- **[My Experiment Judge Kept Saying "Undecided". Three Rows Were Missing, and Only One of Them Mattered.](https://dev.to/dbsoul/my-experiment-judge-kept-saying-undecided-three-rows-were-missing-and-only-one-of-them-mattered-4m31)**
+  *<p><em>A field note from the autonomous Claude Code agent I run every day on one Windows PC. The numbers come from its own ledgers, not from memory.</em></p>
 
-- **[Plan your launch date around Google Play's 14-day closed test](https://dev.to/founder_can/plan-your-launch-date-around-google-plays-14-day-closed-test-4f2d)**
-  *<p>If your personal Google Play developer account was created after 13 November 2023, your launch date isn't set by the day your build is ready. It's set by <a href="https://support.google.com/googlep...*
-  📅 Thu, 12 Nov 2026 22:49:31 +0000
+<p><strong>Free to read first:</strong> a...*
+  📅 Fri, 13 Nov 2026 04:10:04 +0000
+
+- **[Your Crypto Wallet Gets an AML Warning. Don't Panic — Debug It.](https://dev.to/coinmarket_news/your-crypto-wallet-gets-an-aml-warning-dont-panic-debug-it-3glh)**
+  *<p><a class="article-body-image-wrapper" href="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws...*
+  📅 Fri, 13 Nov 2026 04:09:29 +0000
 
 </details>
 
@@ -116,103 +117,103 @@
 
 ### 📈 Daily Trending
 
-- **[AIRzZ90/study-materials-fork](https://github.com/AIRzZ90/study-materials-fork)** ⭐ 330
-  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
-  A cross-platform Tauri 2 interface and interaction practice project
+- **[Teamvyajoint/3D-Modeling-With-Sketchup](https://github.com/Teamvyajoint/3D-Modeling-With-Sketchup)** ⭐ 22
+  ![C++](https://img.shields.io/badge/-C++-pink)
+  With SketchUp Pro, architects and designers gain access to a robust set of modeling tools. The software is designed to streamline the creation of visualizations and enhance project communication
 
-- **[rivet-dev/open-orange](https://github.com/rivet-dev/open-orange)** ⭐ 197
-  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
-  Run Cloudflare Workers and Durable Objects unchanged on AWS, GCP, Azure or your own servers.
+- **[mylevis-official/MYLEVIS-HUB](https://github.com/mylevis-official/MYLEVIS-HUB)** ⭐ 7
+  ![None](https://img.shields.io/badge/-None-lightgrey)
+  Product overview and setup guide for MYLEVIS HUB, a cross-border e-commerce MCP tool hub that brings multiple platform tools into one connection.
 
-- **[Simon3Sarkis/super-odyssey-pc-recomp](https://github.com/Simon3Sarkis/super-odyssey-pc-recomp)** ⭐ 160
-  ![C](https://img.shields.io/badge/-C-lightgrey)
-  A native Windows PC port of Super Mario Odyssey by static recompilation. Bring your own game: no game files included.
+- **[lnys/starTower](https://github.com/lnys/starTower)** ⭐ 7
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
+  星穹塔50层游戏
 
-- **[DevedevT/FFmpeg-GUI-Editor-Windows](https://github.com/DevedevT/FFmpeg-GUI-Editor-Windows)** ⭐ 143
-  ![Visual Basic .NET](https://img.shields.io/badge/-Visual Basic .NET-lightgrey)
-  Lightweight portable FFmpeg GUI & lossless video trimmer for Windows (ready-to-use .exe). Supports English, Russian, Chinese, German, French & Italian.
+- **[245678000000/doubao-work-gateway](https://github.com/245678000000/doubao-work-gateway)** ⭐ 6
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
+  豆包工作专用本机账号管家：多账号登录、自动签到、额度查询与 API Key 管理，macOS 清爽面板。
 
-- **[lawandrorder/mate](https://github.com/lawandrorder/mate)** ⭐ 138
+- **[wise-multimodal-rag/multimodal-whisper-pyannote](https://github.com/wise-multimodal-rag/multimodal-whisper-pyannote)** ⭐ 5
   ![Python](https://img.shields.io/badge/-Python-blue)
-  Mate, your mate while you shop. A text-first shopping agent for cashback, personal discount codes, package tracking and price-drop alerts. Includes a starter agent, web chat, original icon set and docs. mate.fm 
+  Multimodal Whisper Pyannote
 
-- **[routerhubSI/kimi-uncensored](https://github.com/routerhubSI/kimi-uncensored)** ⭐ 84
-  ![None](https://img.shields.io/badge/-None-lightgrey)
-  Every uncensored and abliterated Kimi build — Kimi K3.1 Pro Uncensored via API at 0.30/1.50 USD per million tokens, abliterated open-weight checkpoints for K3.1 Pro and K3, license notes and a red-team prompt library. Maintained by RouterHub.
+- **[reyohoho/ReTwitch-src](https://github.com/reyohoho/ReTwitch-src)** ⭐ 5
+  ![Java](https://img.shields.io/badge/-Java-orange)
+  Twitch mod for android(mobile only)
 
-- **[StitchSerfJump/Microsoft-Visio-For-Windows](https://github.com/StitchSerfJump/Microsoft-Visio-For-Windows)** ⭐ 76
-  ![None](https://img.shields.io/badge/-None-lightgrey)
-  Microsoft Visio for Windows — diagramming and vector graphics application for flowcharts, org charts, network maps, floor plans and professional diagrams.
+- **[Feunivepefer/Flasher_Exodus_Balance](https://github.com/Feunivepefer/Flasher_Exodus_Balance)** ⭐ 5
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  None
 
-- **[CatchArtisanDone86/Movavi-Video-Editor-For-Windows](https://github.com/CatchArtisanDone86/Movavi-Video-Editor-For-Windows)** ⭐ 72
-  ![None](https://img.shields.io/badge/-None-lightgrey)
-  Movavi Video Editor for Windows — desktop video editing application for cutting clips, adding effects, transitions, titles and exporting videos for social media and everyday projects.
+- **[Automate-Workflow/render-awake](https://github.com/Automate-Workflow/render-awake)** ⭐ 4
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
+  Generate GitHub Actions workflows to keep Render web services awake with scheduled HTTP pings. Free, open-source, and zero-dependency.
 
 ### 📈 Weekly Trending
 
-- **[huamidev/GestaltX](https://github.com/huamidev/GestaltX)** ⭐ 6,924
+- **[huamidev/GestaltX](https://github.com/huamidev/GestaltX)** ⭐ 6,993
   ![Swift](https://img.shields.io/badge/-Swift-lightgrey)
   An MobileGestalt editor for iOS 27.x, featuring region-code tweaks, device presets, backups.
 
-- **[tangerineturtle1/NX2navi](https://github.com/tangerineturtle1/NX2navi)** ⭐ 3,549
+- **[tangerineturtle1/NX2navi](https://github.com/tangerineturtle1/NX2navi)** ⭐ 3,610
   ![C](https://img.shields.io/badge/-C-lightgrey)
   None
 
-- **[jhaizhou-ops/S2Arm](https://github.com/jhaizhou-ops/S2Arm)** ⭐ 2,755
+- **[jhaizhou-ops/S2Arm](https://github.com/jhaizhou-ops/S2Arm)** ⭐ 2,784
   ![C#](https://img.shields.io/badge/-C#-lightgrey)
   Run your own Switch games natively on iPhone, iPad and Mac: game code rewritten to ARM64, graphics direct to Metal, one app for the whole library. Bring your own games and keys. 把你自己的 Switch 游戏原生带到 iPhone / iPad / Mac。
 
-- **[JenkinWoo/sheeridVerify](https://github.com/JenkinWoo/sheeridVerify)** ⭐ 2,080
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
-  None
-
-- **[DIYgod/pinky](https://github.com/DIYgod/pinky)** ⭐ 1,997
-  ![Go](https://img.shields.io/badge/-Go-cyan)
-  Let AI agents use your phone, with you in the loop.
-
-- **[Kianuni/Erosion-CN](https://github.com/Kianuni/Erosion-CN)** ⭐ 1,721
+- **[Kianuni/Erosion-CN](https://github.com/Kianuni/Erosion-CN)** ⭐ 1,744
   ![Swift](https://img.shields.io/badge/-Swift-lightgrey)
   iOS / iPadOS 系统配置与 MobileGestalt 研究工具箱（简体中文防白苹果安全加固版）
 
-- **[HybridRobotics/supermimic](https://github.com/HybridRobotics/supermimic)** ⭐ 1,301
+- **[HybridRobotics/supermimic](https://github.com/HybridRobotics/supermimic)** ⭐ 1,338
   ![Python](https://img.shields.io/badge/-Python-blue)
   Humanoid whole-body motion tracking with one differentiable world model.
 
-- **[mahmoudtawfik1998/secure-pdf-document-processor](https://github.com/mahmoudtawfik1998/secure-pdf-document-processor)** ⭐ 1,212
-  ![HTML](https://img.shields.io/badge/-HTML-lightgrey)
-  Adobe Acrobat Pro 2026: Secure Standalone PDF Document Processor for Desktop
+- **[agentes-chat/agentes-chat](https://github.com/agentes-chat/agentes-chat)** ⭐ 1,224
+  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
+  Open-source, self-hosted Slack alternative where your team and AI agents work together in channels and DMs. Agents run on Claude, ChatGPT/Codex, Gemini or Grok, with MCP tools, their own computer and browser, routines, memory and approvals. Web, desktop and phone apps. Docker Compose + Postgres. AGPL-3.0.
+
+- **[Th0rgal/satmux](https://github.com/Th0rgal/satmux)** ⭐ 1,058
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  Accelerate high-latency GEO inflight Wi-Fi via warm BBR TCP multiplexing + 1-RTT Ground-TLS + zlib (zero dependencies)
+
+- **[apex-compute/ANR](https://github.com/apex-compute/ANR)** ⭐ 1,045
+  ![C++](https://img.shields.io/badge/-C++-pink)
+  Apex Neural Rendering (ANR) by Apex Compute
 
 ### 📈 Monthly Trending
 
-- **[Gathin23/cleanyourtv](https://github.com/Gathin23/cleanyourtv)** ⭐ 56,995
+- **[Gathin23/cleanyourtv](https://github.com/Gathin23/cleanyourtv)** ⭐ 57,084
   ![Python](https://img.shields.io/badge/-Python-blue)
   Debloat any Android or Google TV over Wi-Fi and get an Apple TV-style home.
 
-- **[storytold/craft-anything](https://github.com/storytold/craft-anything)** ⭐ 29,781
+- **[storytold/craft-anything](https://github.com/storytold/craft-anything)** ⭐ 30,204
   ![Rust](https://img.shields.io/badge/-Rust-brown)
   Craft Anything: understand how any software works, and craft your own.
 
-- **[deepseek-ai/DeepInfer](https://github.com/deepseek-ai/DeepInfer)** ⭐ 25,904
+- **[deepseek-ai/DeepInfer](https://github.com/deepseek-ai/DeepInfer)** ⭐ 25,920
   ![Python](https://img.shields.io/badge/-Python-blue)
   DeepInfer: High-performance, large-scale inference framework for DeepSeek models
 
-- **[deepseek-ai/dsh-superagent-prototype](https://github.com/deepseek-ai/dsh-superagent-prototype)** ⭐ 22,734
+- **[deepseek-ai/dsh-superagent-prototype](https://github.com/deepseek-ai/dsh-superagent-prototype)** ⭐ 22,797
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   Towards a More Autonomous Agent System
 
-- **[ccch1mneyyy/dsh-Go](https://github.com/ccch1mneyyy/dsh-Go)** ⭐ 20,706
+- **[ccch1mneyyy/dsh-Go](https://github.com/ccch1mneyyy/dsh-Go)** ⭐ 20,987
   ![Dart](https://img.shields.io/badge/-Dart-lightgrey)
   dsh-go — DeepSeek Harness 装进口袋：手机本机运行，也能遥控你的电脑。
 
-- **[Zagitta/gpu-unlock](https://github.com/Zagitta/gpu-unlock)** ⭐ 18,947
+- **[Zagitta/gpu-unlock](https://github.com/Zagitta/gpu-unlock)** ⭐ 18,997
   ![C](https://img.shields.io/badge/-C-lightgrey)
   Your GeForce runs AI at half speed. This fixes it for 20/30/40 series cards. Up to 2× FP16 / BF16 / TF32 tensor throughput
 
-- **[heydamir/unslop](https://github.com/heydamir/unslop)** ⭐ 15,102
+- **[heydamir/unslop](https://github.com/heydamir/unslop)** ⭐ 15,216
   ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
   A Claude skill that turns vibecoded, AI-looking UI into a designed interface
 
-- **[pengchujin/aerial-tv](https://github.com/pengchujin/aerial-tv)** ⭐ 11,435
+- **[pengchujin/aerial-tv](https://github.com/pengchujin/aerial-tv)** ⭐ 11,513
   ![Kotlin](https://img.shields.io/badge/-Kotlin-lightgrey)
   给国产电视的一块干净桌面：参照 tvOS 设计的开源 Android TV 桌面，没有广告，开机自动接管。A tvOS-style launcher for Xiaomi, TCL and other China-market TVs.
 
@@ -484,48 +485,48 @@ See [kubernetes-announce@](https://groups.google.com/forum/#!forum/kubernetes-an
 | Skill | Status |
 |-------|--------|
 | Java | 🟢 Proficient |
-| Python | 🔴 Beginner |
-| JavaScript | 🟢 Proficient |
-| TypeScript | 🟢 Proficient |
-| Go | 🔴 Beginner |
+| Python | 🟡 Learning |
+| JavaScript | ⚪ Planned |
+| TypeScript | 🔴 Beginner |
+| Go | 🟢 Proficient |
 
 ### Frameworks
 
 | Skill | Status |
 |-------|--------|
 | React | 🔴 Beginner |
-| Spring Boot | ⚪ Planned |
-| Django | 🔴 Beginner |
-| Node.js | ⚪ Planned |
-| Next.js | 🔴 Beginner |
+| Spring Boot | 🟢 Proficient |
+| Django | 🟢 Proficient |
+| Node.js | 🔴 Beginner |
+| Next.js | 🟢 Proficient |
 
 ### Cybersecurity
 
 | Skill | Status |
 |-------|--------|
-| Penetration Testing | 🟢 Proficient |
-| Web Security | ⚪ Planned |
+| Penetration Testing | 🔴 Beginner |
+| Web Security | 🟡 Learning |
 | Network Security | 🔴 Beginner |
-| OWASP | 🔴 Beginner |
+| OWASP | 🟢 Proficient |
 
 ### Ai Ml
 
 | Skill | Status |
 |-------|--------|
 | Machine Learning | 🟢 Proficient |
-| Deep Learning | 🔴 Beginner |
-| NLP | 🟡 Learning |
-| Computer Vision | 🟢 Proficient |
-| TensorFlow | 🟡 Learning |
-| PyTorch | 🔴 Beginner |
+| Deep Learning | 🟡 Learning |
+| NLP | 🟢 Proficient |
+| Computer Vision | 🔴 Beginner |
+| TensorFlow | 🔴 Beginner |
+| PyTorch | ⚪ Planned |
 
 ### Devops
 
 | Skill | Status |
 |-------|--------|
-| Docker | 🟡 Learning |
+| Docker | 🔴 Beginner |
 | Kubernetes | ⚪ Planned |
-| CI/CD | 🟡 Learning |
+| CI/CD | ⚪ Planned |
 | AWS | ⚪ Planned |
 | Azure | ⚪ Planned |
 
@@ -533,7 +534,7 @@ See [kubernetes-announce@](https://groups.google.com/forum/#!forum/kubernetes-an
 
 | Skill | Status |
 |-------|--------|
-| Blockchain | ⚪ Planned |
+| Blockchain | 🟢 Proficient |
 | Web3 | 🔴 Beginner |
 | Cloud Computing | 🟡 Learning |
 
@@ -553,7 +554,7 @@ This dashboard is automatically updated every 6 hours using GitHub Actions. The 
 
 <div align="center">
 
-**Last Updated:** November 12, 2026
+**Last Updated:** November 13, 2026
 
 Made with ❤️ and automated with GitHub Actions
 
