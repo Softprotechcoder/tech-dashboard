@@ -46,72 +46,73 @@
 
 ### 📑 Hacker News
 
-- **[Jensen Huang Admitted He Was Facing an "Avalanche" of Excess Wafers and Memory](https://respawnfirst.com/before-resigning-jensen-huang-admitted-he-was-facing-an-avalanche-of-excess-wafers-and-memory-new-report-sheds-more-light-on-the-gpu-ram-crisis/)**
-  *<p>Article URL: <a href="https://respawnfirst.com/before-resigning-jensen-huang-admitted-he-was-facing-an-avalanche-of-excess-wafers-and-memory-new-report-sheds-more-light-on-the-gpu-ram-crisis/">http...*
-  📅 Fri, 13 Nov 2026 13:08:48 +0000
+- **[Claude Meetings](https://claude.com/resources/articles/claude-meetings)**
+  *<p>Article URL: <a href="https://claude.com/resources/articles/claude-meetings">https://claude.com/resources/articles/claude-meetings</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/ite...*
+  📅 Fri, 13 Nov 2026 22:39:15 +0000
 
-- **[Doomsday: Friday, 13 November, A.D. 2026 (1960)](https://www.science.org/doi/10.1126/science.132.3436.1291)**
-  *<p>Article URL: <a href="https://www.science.org/doi/10.1126/science.132.3436.1291">https://www.science.org/doi/10.1126/science.132.3436.1291</a></p>
-<p>Comments URL: <a href="https://news.ycombinator...*
-  📅 Fri, 13 Nov 2026 12:10:24 +0000
+- **[Home Assistant: the password is not the key – token secrets in cleartext](https://seclists.org/fulldisclosure/2026/Nov/34)**
+  *<p>Article URL: <a href="https://seclists.org/fulldisclosure/2026/Nov/34">https://seclists.org/fulldisclosure/2026/Nov/34</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=5049096...*
+  📅 Fri, 13 Nov 2026 22:30:10 +0000
 
-- **[Claude Is Down](https://status.claude.com/history)**
-  *<p>Article URL: <a href="https://status.claude.com/history">https://status.claude.com/history</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50481220">https://news.ycombinator....*
-  📅 Fri, 13 Nov 2026 10:20:09 +0000
+- **[National Weather Service reports nationwide radar website outage amid FAA stop](https://www.news9.com/oklahoma-city-news/national-weather-service-reports-nationwide-radar-website-outage)**
+  *<p>Article URL: <a href="https://www.news9.com/oklahoma-city-news/national-weather-service-reports-nationwide-radar-website-outage">https://www.news9.com/oklahoma-city-news/national-weather-service-re...*
+  📅 Fri, 13 Nov 2026 22:16:11 +0000
 
-- **[Elevated errors on claude.ai, Claude Code, and platform.claude.com](https://status.claude.com/incidents/nn11wk485zfn)**
-  *<p>Article URL: <a href="https://status.claude.com/incidents/nn11wk485zfn">https://status.claude.com/incidents/nn11wk485zfn</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50481...*
-  📅 Fri, 13 Nov 2026 10:18:13 +0000
+- **[Live airband on all frequencies from KORS. Victoria, CA also ground stopped](https://orcasairband.com/)**
+  *<p>Article URL: <a href="https://orcasairband.com/">https://orcasairband.com/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50490593">https://news.ycombinator.com/item?id=5049...*
+  📅 Fri, 13 Nov 2026 22:04:24 +0000
 
-- **[Is there a 'right amount' of AI?](https://coyotetracks.org/blog/right-amount-of-ai/)**
-  *<p>Article URL: <a href="https://coyotetracks.org/blog/right-amount-of-ai/">https://coyotetracks.org/blog/right-amount-of-ai/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=504...*
-  📅 Fri, 13 Nov 2026 09:27:05 +0000
-
-- **[The Dawn of the Data Intelligence Engineer](https://motherduck.com/blog/the-data-intelligence-engineer/)**
-  *<p>Article URL: <a href="https://motherduck.com/blog/the-data-intelligence-engineer/">https://motherduck.com/blog/the-data-intelligence-engineer/</a></p>
+- **[FAA issues nationwide ground stop due to "extraordinary circumstances"](https://www.axios.com/2026/11/13/faa-nationwide-ground-stop)**
+  *<p>Article URL: <a href="https://www.axios.com/2026/11/13/faa-nationwide-ground-stop">https://www.axios.com/2026/11/13/faa-nationwide-ground-stop</a></p>
 <p>Comments URL: <a href="https://news.ycombin...*
-  📅 Fri, 13 Nov 2026 09:08:18 +0000
+  📅 Fri, 13 Nov 2026 21:08:49 +0000
+
+- **[All US airports are currently ground stopped](https://twitter.com/flightradar24/status/2121347654714077605)**
+  *<p>Article URL: <a href="https://twitter.com/flightradar24/status/2121347654714077605">https://twitter.com/flightradar24/status/2121347654714077605</a></p>
+<p>Comments URL: <a href="https://news.ycomb...*
+  📅 Fri, 13 Nov 2026 21:06:52 +0000
 
 ### 📑 TechCrunch
 
-- **[Microsoft’s latest email outage turned into a full blown global cloud crisis](https://techcrunch.com/2026/11/13/microsoft-latest-email-outage-turned-into-a-full-blown-global-cloud-crisis/)**
-  *Microsoft's day-long outage began with Outlook and Teams, and ended up taking much of the company's cloud services offline. Microsoft says it's gradually restoring service....*
-  📅 Fri, 13 Nov 2026 13:15:20 +0000
+- **[Amazon’s new Kindle Colorsoft is a premium e-reader with a premium price](https://techcrunch.com/2026/11/13/amazons-new-kindle-colorsoft-is-a-premium-e-reader-with-a-premium-price/)**
+  *The latest model is lighter and thinner than its predecessor and features an edge-to-edge display. But if you already own the first-generation Colorsoft, there’s little reason to upgrade....*
+  📅 Fri, 13 Nov 2026 23:00:00 +0000
 
-- **[Israel’s VCs see opportunity for challengers in Nvidia’s turmoil](https://techcrunch.com/2026/11/13/israels-vcs-see-opportunity-for-challengers-in-nvidias-turmoil/)**
-  *Given Nvidia’s stronghold on AI and its importance in Israel, many in the country's startup ecosystem are worried about the impact of his departure....*
-  📅 Fri, 13 Nov 2026 12:52:19 +0000
+- **[Jensen Huang’s departure blasts big hole in AI startup funding, VCs and founders say](https://techcrunch.com/2026/11/13/jensen-huangs-departure-blasts-big-hole-in-ai-startup-funding-vcs-and-founders-say/)**
+  *Nvidia poured tens of billions into AI startups under Huang. Without him at the helm, founders and VCs are bracing for smaller checks and lower valuations....*
+  📅 Fri, 13 Nov 2026 22:43:00 +0000
 
-- **[Jensen Huang didn’t show confidence in his successor, report says](https://techcrunch.com/2026/11/13/jensen-huang-didnt-show-confidence-in-his-successor-report-says/)**
-  *Huang described Kress as a "deer in the headlights" during a meeting in summer....*
-  📅 Fri, 13 Nov 2026 12:28:23 +0000
+- **[US government grounds all flights across the United States ‘due to extraordinary circumstances’](https://techcrunch.com/2026/11/13/u-s-government-grounds-all-flights-across-the-united-states-due-to-extraordinary-cirumstances/)**
+  *A spokesperson for the FAA told TechCrunch that it issued the ground stop "following communication issues impacting multiple Air Route Traffic Control Centers," which manage the airspace across the Un...*
+  📅 Fri, 13 Nov 2026 21:44:38 +0000
 
-- **[Democrats launch Nvidia investigation, write scathing letter on Huang’s ‘scheme’ with Trump](https://techcrunch.com/2026/11/12/democrats-launch-nvidia-investigation-write-scathing-letter-on-huangs-scheme-with-trump/)**
-  *This Congressional investigation into Nvidia's China sales and its dealings with Trump is the second one, so far, since news of the alleged spy affair broke....*
-  📅 Thu, 12 Nov 2026 22:42:51 +0000
+- **[This young startup wants to power floating data centers with the ocean’s heat, and investors are already on board](https://techcrunch.com/2026/11/13/this-young-startup-wants-to-power-floating-data-centers-with-the-oceans-heat-and-investors-are-already-on-board/)**
+  *Drogue is harvesting heat from the ocean to power data centers on floating vessels. The first prototype should be bobbing around the ocean, crunching bits, in less than two years....*
+  📅 Fri, 13 Nov 2026 20:07:24 +0000
 
-- **[Muse can now place calls to US businesses — if you pay](https://techcrunch.com/2026/11/12/muse-can-now-place-calls-to-u-s-businesses-if-you-pay/)**
-  *Muse's AI can now place outbound calls to U.S. businesses — but it's not free....*
-  📅 Thu, 12 Nov 2026 22:22:28 +0000
+- **[AI agent startup LangChain hits $3B valuation](https://techcrunch.com/2026/11/13/ai-agent-startup-langchain-hits-3b-valuation/)**
+  *LangChain now claims 7,000 customers of its model and platform agnostic agent management tool LangSmith....*
+  📅 Fri, 13 Nov 2026 19:37:57 +0000
 
-- **[The unfolding Jensen Huang scandal: a timeline](https://techcrunch.com/2026/11/12/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/)**
-  *Jensen Huang has resigned from Nvidia following an affair, which could have ramifications for national security as the U.S. and China race to develop the most advanced AI infrastructure....*
-  📅 Thu, 12 Nov 2026 21:35:00 +0000
+- **[Export-banned Nvidia chips are behind China’s most powerful AI models — uh-oh, Jensen!](https://techcrunch.com/2026/11/13/export-banned-nvidia-chips-are-behind-chinas-most-powerful-ai-models-uh-oh-jensen/)**
+  *New research shows the most advanced AI models from China were trained on banned Nvidia chips....*
+  📅 Fri, 13 Nov 2026 18:40:30 +0000
 
 ### 📑 Dev.to
 
-- **[Secrets in AI prompts: did the AI leak my password?](https://dev.to/systemdesignsimple/secrets-in-ai-prompts-did-the-ai-leak-my-password-2646)**
-  *<p>Secrets in AI prompts are exposed by the request, whatever the reply says. If a password is in the request your app sends, the provider receives it even when the answer never repeats it, and any lo...*
-  📅 Fri, 13 Nov 2026 13:34:45 +0000
+- **[How to Scrape Funda Property Listings in Python with Funda Scraper](https://dev.to/reventadata/how-to-scrape-funda-property-listings-in-python-with-funda-scraper-n9d)**
+  *<p>By the end of this tutorial you will have a Python script that pulls Dutch homes for sale or for rent from funda.nl into structured rows: asking price, address, living area, rooms, bedrooms, energy...*
+  📅 Fri, 13 Nov 2026 23:00:50 +0000
 
-- **[Building a Production-Ready Polymarket Trading Bot: PostgreSQL, Logging & Crash Recovery](https://dev.to/benjamin_cup/building-a-production-ready-polymarket-trading-bot-postgresql-logging-crash-recovery-9hf)**
-  *<p><strong>Day 14 of Building a Polymarket Market Maker Bot with Python</strong></p>
+- **[Crear apps con IA: hasta dónde llegan las herramientas](https://dev.to/newsoftmx/crear-apps-con-ia-hasta-donde-llegan-las-herramientas-27i4)**
+  *<p><em>2026-09-21 · Por Victor Gonzalez · Español (es-MX)</em></p>
 
-<p>Your trading bot is running perfectly. It monitors BTC, ETH, SOL, and XRP markets, places orders, tracks invent...*
-  📅 Fri, 13 Nov 2026 13:33:48 +0000
+<blockquote>
+<p>Qué resuelven bien FlutterFlow, Lovable, Bubble y los generadores con IA, dónde se topan en una empresa mediana, y c...*
+  📅 Fri, 13 Nov 2026 23:00:27 +0000
 
 </details>
 
@@ -119,103 +120,103 @@
 
 ### 📈 Daily Trending
 
-- **[faizfahmi77/ScanDot](https://github.com/faizfahmi77/ScanDot)** ⭐ 268
+- **[faizfahmi77/ScanDot](https://github.com/faizfahmi77/ScanDot)** ⭐ 373
   ![Kotlin](https://img.shields.io/badge/-Kotlin-lightgrey)
   Experimental Android 3D scanning and point-cloud viewer
 
-- **[Teamvyajoint/3D-Modeling-With-Sketchup](https://github.com/Teamvyajoint/3D-Modeling-With-Sketchup)** ⭐ 61
-  ![C++](https://img.shields.io/badge/-C++-pink)
-  With SketchUp Pro, architects and designers gain access to a robust set of modeling tools. The software is designed to streamline the creation of visualizations and enhance project communication
+- **[quer3q/kraken-mount](https://github.com/quer3q/kraken-mount)** ⭐ 221
+  ![Rust](https://img.shields.io/badge/-Rust-brown)
+  Minimalist PS5 game mounter supporting PKG, folder dumps, lz4, and zstd
 
-- **[grigoriev/im](https://github.com/grigoriev/im)** ⭐ 60
+- **[opencoredev/islandcn](https://github.com/opencoredev/islandcn)** ⭐ 211
+  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
+  The open-source Dynamic Island for React, installed with shadcn.
+
+- **[eagrafki-byte/ai--manus](https://github.com/eagrafki-byte/ai--manus)** ⭐ 146
   ![None](https://img.shields.io/badge/-None-lightgrey)
-  Invoice Manager
+  AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment.
 
-- **[Speedsobastion1/Filmora-Video-Editor](https://github.com/Speedsobastion1/Filmora-Video-Editor)** ⭐ 42
-  ![C++](https://img.shields.io/badge/-C++-pink)
-  As a paid video editing software, Filmora 15 specializes in crafting polished films directly from the user's PC. It features an intuitive timeline for editing and a straightforward export function to compile the finished project
-
-- **[fahsq72lan/dsh-guide-tutor](https://github.com/fahsq72lan/dsh-guide-tutor)** ⭐ 40
-  ![PowerShell](https://img.shields.io/badge/-PowerShell-lightgrey)
-  屏幕教学助手：悬浮球 + 实时标注 + 步骤面板（DeepSeek Harness 插件）
-
-- **[oil-oil/agy-fast-io](https://github.com/oil-oil/agy-fast-io)** ⭐ 36
+- **[agdinis/ai--manus](https://github.com/agdinis/ai--manus)** ⭐ 146
   ![None](https://img.shields.io/badge/-None-lightgrey)
-  让 Antigravity 少走回合、少等审查的本地规则插件（非官方）
+  AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment.
 
-- **[anhxuan989/AAMaKer](https://github.com/anhxuan989/AAMaKer)** ⭐ 22
-  ![Kotlin](https://img.shields.io/badge/-Kotlin-lightgrey)
-  Any App on Android Auto
+- **[tyesheh/ai--manus](https://github.com/tyesheh/ai--manus)** ⭐ 146
+  ![None](https://img.shields.io/badge/-None-lightgrey)
+  AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment.
 
-- **[spacesky-cell/TwinFix](https://github.com/spacesky-cell/TwinFix)** ⭐ 22
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  TwinFix — AI agent that diagnoses, reproduces and fixes bugs in a disposable twin environment. 在一次性孪生环境中自动诊断、复现并修复故障的 AI Agent。
+- **[alphafalcongamer-creator/manus--ai](https://github.com/alphafalcongamer-creator/manus--ai)** ⭐ 146
+  ![None](https://img.shields.io/badge/-None-lightgrey)
+  AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment. 
+
+- **[mtn-imran-khan/ai--manus](https://github.com/mtn-imran-khan/ai--manus)** ⭐ 146
+  ![None](https://img.shields.io/badge/-None-lightgrey)
+  AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment.
 
 ### 📈 Weekly Trending
 
-- **[huamidev/GestaltX](https://github.com/huamidev/GestaltX)** ⭐ 7,178
+- **[huamidev/GestaltX](https://github.com/huamidev/GestaltX)** ⭐ 7,289
   ![Swift](https://img.shields.io/badge/-Swift-lightgrey)
   An MobileGestalt editor for iOS 27.x, featuring region-code tweaks, device presets, backups.
 
-- **[tangerineturtle1/NX2navi](https://github.com/tangerineturtle1/NX2navi)** ⭐ 3,709
+- **[tangerineturtle1/NX2navi](https://github.com/tangerineturtle1/NX2navi)** ⭐ 3,869
   ![C](https://img.shields.io/badge/-C-lightgrey)
   None
 
-- **[jhaizhou-ops/S2Arm](https://github.com/jhaizhou-ops/S2Arm)** ⭐ 2,837
+- **[jhaizhou-ops/S2Arm](https://github.com/jhaizhou-ops/S2Arm)** ⭐ 2,864
   ![C#](https://img.shields.io/badge/-C#-lightgrey)
   Run your own Switch games natively on iPhone, iPad and Mac: game code rewritten to ARM64, graphics direct to Metal, one app for the whole library. Bring your own games and keys. 把你自己的 Switch 游戏原生带到 iPhone / iPad / Mac。
 
-- **[Kianuni/Erosion-CN](https://github.com/Kianuni/Erosion-CN)** ⭐ 1,851
+- **[Kianuni/Erosion-CN](https://github.com/Kianuni/Erosion-CN)** ⭐ 1,906
   ![Swift](https://img.shields.io/badge/-Swift-lightgrey)
   iOS / iPadOS 系统配置与 MobileGestalt 研究工具箱（简体中文防白苹果安全加固版）
 
-- **[HybridRobotics/supermimic](https://github.com/HybridRobotics/supermimic)** ⭐ 1,405
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  Humanoid whole-body motion tracking with one differentiable world model.
-
-- **[agentes-chat/agentes-chat](https://github.com/agentes-chat/agentes-chat)** ⭐ 1,282
-  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
-  Open-source, self-hosted Slack alternative where your team and AI agents work together in channels and DMs. Agents run on Claude, ChatGPT/Codex, Gemini or Grok, with MCP tools, their own computer and browser, routines, memory and approvals. Web, desktop and phone apps. Docker Compose + Postgres. AGPL-3.0.
-
-- **[apex-compute/ANR](https://github.com/apex-compute/ANR)** ⭐ 1,241
+- **[apex-compute/ANR](https://github.com/apex-compute/ANR)** ⭐ 1,449
   ![C++](https://img.shields.io/badge/-C++-pink)
   Apex Neural Rendering (ANR) by Apex Compute
 
-- **[FrigadeHQ/yogurt](https://github.com/FrigadeHQ/yogurt)** ⭐ 1,147
+- **[HybridRobotics/supermimic](https://github.com/HybridRobotics/supermimic)** ⭐ 1,433
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  Humanoid whole-body motion tracking with one differentiable world model.
+
+- **[agentes-chat/agentes-chat](https://github.com/agentes-chat/agentes-chat)** ⭐ 1,337
+  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
+  Open-source, self-hosted Slack alternative where your team and AI agents work together in channels and DMs. Agents run on Claude, ChatGPT/Codex, Gemini or Grok, with MCP tools, their own computer and browser, routines, memory and approvals. Web, desktop and phone apps. Docker Compose + Postgres. AGPL-3.0.
+
+- **[FrigadeHQ/yogurt](https://github.com/FrigadeHQ/yogurt)** ⭐ 1,254
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   Private AI meeting notes. Free and open source.
 
 ### 📈 Monthly Trending
 
-- **[Gathin23/cleanyourtv](https://github.com/Gathin23/cleanyourtv)** ⭐ 57,257
+- **[Gathin23/cleanyourtv](https://github.com/Gathin23/cleanyourtv)** ⭐ 57,414
   ![Python](https://img.shields.io/badge/-Python-blue)
   Debloat any Android or Google TV over Wi-Fi and get an Apple TV-style home.
 
-- **[storytold/craft-anything](https://github.com/storytold/craft-anything)** ⭐ 30,993
+- **[storytold/craft-anything](https://github.com/storytold/craft-anything)** ⭐ 31,384
   ![Rust](https://img.shields.io/badge/-Rust-brown)
   Craft Anything: understand how any software works, and craft your own.
 
-- **[deepseek-ai/DeepInfer](https://github.com/deepseek-ai/DeepInfer)** ⭐ 25,947
+- **[deepseek-ai/DeepInfer](https://github.com/deepseek-ai/DeepInfer)** ⭐ 25,962
   ![Python](https://img.shields.io/badge/-Python-blue)
   DeepInfer: High-performance, large-scale inference framework for DeepSeek models
 
-- **[deepseek-ai/dsh-superagent-prototype](https://github.com/deepseek-ai/dsh-superagent-prototype)** ⭐ 22,967
+- **[deepseek-ai/dsh-superagent-prototype](https://github.com/deepseek-ai/dsh-superagent-prototype)** ⭐ 23,015
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   Towards a More Autonomous Agent System
 
-- **[ccch1mneyyy/dsh-Go](https://github.com/ccch1mneyyy/dsh-Go)** ⭐ 21,520
+- **[ccch1mneyyy/dsh-Go](https://github.com/ccch1mneyyy/dsh-Go)** ⭐ 21,779
   ![Dart](https://img.shields.io/badge/-Dart-lightgrey)
   dsh-go — DeepSeek Harness 装进口袋：手机本机运行，也能遥控你的电脑。
 
-- **[Zagitta/gpu-unlock](https://github.com/Zagitta/gpu-unlock)** ⭐ 19,109
+- **[Zagitta/gpu-unlock](https://github.com/Zagitta/gpu-unlock)** ⭐ 19,227
   ![C](https://img.shields.io/badge/-C-lightgrey)
   Your GeForce runs AI at half speed. This fixes it for 20/30/40 series cards. Up to 2× FP16 / BF16 / TF32 tensor throughput
 
-- **[heydamir/unslop](https://github.com/heydamir/unslop)** ⭐ 15,465
+- **[heydamir/unslop](https://github.com/heydamir/unslop)** ⭐ 15,649
   ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
   A Claude skill that turns vibecoded, AI-looking UI into a designed interface
 
-- **[pengchujin/aerial-tv](https://github.com/pengchujin/aerial-tv)** ⭐ 11,610
+- **[pengchujin/aerial-tv](https://github.com/pengchujin/aerial-tv)** ⭐ 11,664
   ![Kotlin](https://img.shields.io/badge/-Kotlin-lightgrey)
   给国产电视的一块干净桌面：参照 tvOS 设计的开源 Android TV 桌面，没有广告，开机自动接管。A tvOS-style launcher for Xiaomi, TCL and other China-market TVs.
 
@@ -486,18 +487,18 @@ See [kubernetes-announce@](https://groups.google.com/forum/#!forum/kubernetes-an
 
 | Skill | Status |
 |-------|--------|
-| Java | 🟢 Proficient |
-| Python | ⚪ Planned |
-| JavaScript | 🔴 Beginner |
-| TypeScript | 🟡 Learning |
-| Go | 🟡 Learning |
+| Java | 🔴 Beginner |
+| Python | 🟡 Learning |
+| JavaScript | 🟡 Learning |
+| TypeScript | ⚪ Planned |
+| Go | 🟢 Proficient |
 
 ### Frameworks
 
 | Skill | Status |
 |-------|--------|
-| React | 🟢 Proficient |
-| Spring Boot | 🔴 Beginner |
+| React | 🔴 Beginner |
+| Spring Boot | 🟢 Proficient |
 | Django | ⚪ Planned |
 | Node.js | ⚪ Planned |
 | Next.js | ⚪ Planned |
@@ -507,9 +508,9 @@ See [kubernetes-announce@](https://groups.google.com/forum/#!forum/kubernetes-an
 | Skill | Status |
 |-------|--------|
 | Penetration Testing | 🟢 Proficient |
-| Web Security | 🟢 Proficient |
-| Network Security | 🟢 Proficient |
-| OWASP | 🔴 Beginner |
+| Web Security | 🟡 Learning |
+| Network Security | 🟡 Learning |
+| OWASP | 🟢 Proficient |
 
 ### Ai Ml
 
@@ -517,28 +518,28 @@ See [kubernetes-announce@](https://groups.google.com/forum/#!forum/kubernetes-an
 |-------|--------|
 | Machine Learning | 🔴 Beginner |
 | Deep Learning | 🟡 Learning |
-| NLP | 🟡 Learning |
-| Computer Vision | ⚪ Planned |
-| TensorFlow | 🟢 Proficient |
+| NLP | 🔴 Beginner |
+| Computer Vision | 🔴 Beginner |
+| TensorFlow | ⚪ Planned |
 | PyTorch | 🟡 Learning |
 
 ### Devops
 
 | Skill | Status |
 |-------|--------|
-| Docker | 🔴 Beginner |
-| Kubernetes | 🟡 Learning |
-| CI/CD | 🟢 Proficient |
-| AWS | 🟢 Proficient |
-| Azure | 🔴 Beginner |
+| Docker | ⚪ Planned |
+| Kubernetes | 🟢 Proficient |
+| CI/CD | 🟡 Learning |
+| AWS | ⚪ Planned |
+| Azure | ⚪ Planned |
 
 ### Other
 
 | Skill | Status |
 |-------|--------|
-| Blockchain | ⚪ Planned |
-| Web3 | ⚪ Planned |
-| Cloud Computing | 🟢 Proficient |
+| Blockchain | 🟡 Learning |
+| Web3 | 🟡 Learning |
+| Cloud Computing | 🟡 Learning |
 
 </details>
 
