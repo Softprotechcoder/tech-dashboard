@@ -7,7 +7,7 @@
 ![AI & ML](https://img.shields.io/badge/-AI%20&%20ML-blue) ![CyberSecurity](https://img.shields.io/badge/-CyberSecurity-red) ![Full Stack Development](https://img.shields.io/badge/-Full%20Stack%20Development-green)
 
 [![Auto Update](https://img.shields.io/badge/Auto%20Update-Enabled-success)](https://github.com/yourusername/tech-dashboard/actions)
-[![Last Updated](https://img.shields.io/badge/Last%20Updated-November 13, 2026-blue)](https://github.com/yourusername/tech-dashboard)
+[![Last Updated](https://img.shields.io/badge/Last%20Updated-November 14, 2026-blue)](https://github.com/yourusername/tech-dashboard)
 
 *Automatically updated every 6 hours with the latest tech news, trending repositories, and learning resources.*
 
@@ -46,34 +46,31 @@
 
 ### 📑 Hacker News
 
-- **[Claude Meetings](https://claude.com/resources/articles/claude-meetings)**
-  *<p>Article URL: <a href="https://claude.com/resources/articles/claude-meetings">https://claude.com/resources/articles/claude-meetings</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/ite...*
-  📅 Fri, 13 Nov 2026 22:39:15 +0000
+- **[Nvidia Allegedly Engineered Scarcity by Funding AI Startups to Buy Its GPUs](https://www.techpowerup.com/354814/nvidia-allegedly-engineered-scarcity-by-funding-ai-startups-to-buy-its-gpus)**
+  *<p>Article URL: <a href="https://www.techpowerup.com/354814/nvidia-allegedly-engineered-scarcity-by-funding-ai-startups-to-buy-its-gpus">https://www.techpowerup.com/354814/nvidia-allegedly-engineered-...*
+  📅 Sat, 14 Nov 2026 02:52:59 +0000
 
-- **[Home Assistant: the password is not the key – token secrets in cleartext](https://seclists.org/fulldisclosure/2026/Nov/34)**
-  *<p>Article URL: <a href="https://seclists.org/fulldisclosure/2026/Nov/34">https://seclists.org/fulldisclosure/2026/Nov/34</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=5049096...*
-  📅 Fri, 13 Nov 2026 22:30:10 +0000
+- **[Ggml v1.0.0](https://github.com/ggml-org/ggml/releases/tag/v1.0.0)**
+  *<p>Article URL: <a href="https://github.com/ggml-org/ggml/releases/tag/v1.0.0">https://github.com/ggml-org/ggml/releases/tag/v1.0.0</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?...*
+  📅 Sat, 14 Nov 2026 02:28:29 +0000
 
-- **[National Weather Service reports nationwide radar website outage amid FAA stop](https://www.news9.com/oklahoma-city-news/national-weather-service-reports-nationwide-radar-website-outage)**
-  *<p>Article URL: <a href="https://www.news9.com/oklahoma-city-news/national-weather-service-reports-nationwide-radar-website-outage">https://www.news9.com/oklahoma-city-news/national-weather-service-re...*
-  📅 Fri, 13 Nov 2026 22:16:11 +0000
+- **[Nvidia director sold nearly $1B in stock weeks before the Jensen Huang scandal](https://finance.yahoo.com/markets/stocks/articles/nvidia-director-sold-nearly-1b-160000846.html)**
+  *<p>Article URL: <a href="https://finance.yahoo.com/markets/stocks/articles/nvidia-director-sold-nearly-1b-160000846.html">https://finance.yahoo.com/markets/stocks/articles/nvidia-director-sold-nearly-...*
+  📅 Sat, 14 Nov 2026 02:21:36 +0000
 
-- **[Live airband on all frequencies from KORS. Victoria, CA also ground stopped](https://orcasairband.com/)**
-  *<p>Article URL: <a href="https://orcasairband.com/">https://orcasairband.com/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50490593">https://news.ycombinator.com/item?id=5049...*
-  📅 Fri, 13 Nov 2026 22:04:24 +0000
+- **[Elephants found to be increasingly isolated leading to fractured social networks](https://today.ucsd.edu/story/elephants-found-to-be-increasingly-isolated-leading-to-fractured-social-networks)**
+  *<p>Article URL: <a href="https://today.ucsd.edu/story/elephants-found-to-be-increasingly-isolated-leading-to-fractured-social-networks">https://today.ucsd.edu/story/elephants-found-to-be-increasingly-...*
+  📅 Sat, 14 Nov 2026 02:02:42 +0000
 
-- **[FAA issues nationwide ground stop due to "extraordinary circumstances"](https://www.axios.com/2026/11/13/faa-nationwide-ground-stop)**
-  *<p>Article URL: <a href="https://www.axios.com/2026/11/13/faa-nationwide-ground-stop">https://www.axios.com/2026/11/13/faa-nationwide-ground-stop</a></p>
-<p>Comments URL: <a href="https://news.ycombin...*
-  📅 Fri, 13 Nov 2026 21:08:49 +0000
+- **[Amtrak booking system experiencing major issues amid nationwide FAA ground stop](https://www.fox5dc.com/news/amtrak-outage-ticket-booking-faa-ground-stop-november-13-2026)**
+  *<p>Article URL: <a href="https://www.fox5dc.com/news/amtrak-outage-ticket-booking-faa-ground-stop-november-13-2026">https://www.fox5dc.com/news/amtrak-outage-ticket-booking-faa-ground-stop-november-13...*
+  📅 Sat, 14 Nov 2026 00:52:29 +0000
 
-- **[All US airports are currently ground stopped](https://twitter.com/flightradar24/status/2121347654714077605)**
-  *<p>Article URL: <a href="https://twitter.com/flightradar24/status/2121347654714077605">https://twitter.com/flightradar24/status/2121347654714077605</a></p>
-<p>Comments URL: <a href="https://news.ycomb...*
-  📅 Fri, 13 Nov 2026 21:06:52 +0000
+- **[Anthropic upgrades Claude Code Projects to run parallel AI workers](https://claude.com/resources/articles/projects-redesigned)**
+  *<p>Article URL: <a href="https://claude.com/resources/articles/projects-redesigned">https://claude.com/resources/articles/projects-redesigned</a></p>
+<p>Comments URL: <a href="https://news.ycombinator...*
+  📅 Sat, 14 Nov 2026 00:28:11 +0000
 
 ### 📑 TechCrunch
 
@@ -103,16 +100,15 @@
 
 ### 📑 Dev.to
 
-- **[How to Scrape Funda Property Listings in Python with Funda Scraper](https://dev.to/reventadata/how-to-scrape-funda-property-listings-in-python-with-funda-scraper-n9d)**
-  *<p>By the end of this tutorial you will have a Python script that pulls Dutch homes for sale or for rent from funda.nl into structured rows: asking price, address, living area, rooms, bedrooms, energy...*
-  📅 Fri, 13 Nov 2026 23:00:50 +0000
+- **[Inside the FAA's AI-Powered Smart Air Traffic Control Initiative](https://dev.to/dailyupdate/inside-the-faas-ai-powered-smart-air-traffic-control-initiative-4ff1)**
+  *<p>Modern air travel relies on complex coordination, vast data streams, and rapid decision-making. As U.S. airspace grows busier, the Federal Aviation Administration (FAA) has leaned heavily into tech...*
+  📅 Sat, 14 Nov 2026 04:01:14 +0000
 
-- **[Crear apps con IA: hasta dónde llegan las herramientas](https://dev.to/newsoftmx/crear-apps-con-ia-hasta-donde-llegan-las-herramientas-27i4)**
-  *<p><em>2026-09-21 · Por Victor Gonzalez · Español (es-MX)</em></p>
+- **[Who wrote this code? AI provenance starts with the wrong question](https://dev.to/naman_here/who-wrote-this-code-ai-provenance-starts-with-the-wrong-question-2jdb)**
+  *<p><em>Originally published at <a href="https://www.getlockstep.dev/blog/who-wrote-this-code-ai-provenance" rel="noopener noreferrer">getlockstep.dev</a>.</em></p>
 
-<blockquote>
-<p>Qué resuelven bien FlutterFlow, Lovable, Bubble y los generadores con IA, dónde se topan en una empresa mediana, y c...*
-  📅 Fri, 13 Nov 2026 23:00:27 +0000
+<p>A customer loses access to a fea...*
+  📅 Sat, 14 Nov 2026 04:00:23 +0000
 
 </details>
 
@@ -120,103 +116,103 @@
 
 ### 📈 Daily Trending
 
-- **[faizfahmi77/ScanDot](https://github.com/faizfahmi77/ScanDot)** ⭐ 373
-  ![Kotlin](https://img.shields.io/badge/-Kotlin-lightgrey)
-  Experimental Android 3D scanning and point-cloud viewer
-
-- **[quer3q/kraken-mount](https://github.com/quer3q/kraken-mount)** ⭐ 221
-  ![Rust](https://img.shields.io/badge/-Rust-brown)
-  Minimalist PS5 game mounter supporting PKG, folder dumps, lz4, and zstd
-
-- **[opencoredev/islandcn](https://github.com/opencoredev/islandcn)** ⭐ 211
-  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
-  The open-source Dynamic Island for React, installed with shadcn.
-
-- **[eagrafki-byte/ai--manus](https://github.com/eagrafki-byte/ai--manus)** ⭐ 146
+- **[DimensionRobin/rob-run-private-cheat](https://github.com/DimensionRobin/rob-run-private-cheat)** ⭐ 152
   ![None](https://img.shields.io/badge/-None-lightgrey)
-  AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment.
+  None
 
-- **[agdinis/ai--manus](https://github.com/agdinis/ai--manus)** ⭐ 146
-  ![None](https://img.shields.io/badge/-None-lightgrey)
-  AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment.
+- **[duwqijlk/muse-protocol](https://github.com/duwqijlk/muse-protocol)** ⭐ 119
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  muse.ai 注册与邀请码兑换协议研究（纯 HTTP Python 实现）
 
-- **[tyesheh/ai--manus](https://github.com/tyesheh/ai--manus)** ⭐ 146
+- **[prismarmorergirder/wallet-security-checker](https://github.com/prismarmorergirder/wallet-security-checker)** ⭐ 115
   ![None](https://img.shields.io/badge/-None-lightgrey)
-  AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment.
+  SafeWallet is a crypto wallet checker and blockchain security tool. Monitor Bitcoin, Ethereum and crypto wallet balances, track cryptocurrency prices, analyze wallet addresses, explore blockchain transactions, manage digital assets and receive real-time Telegram alerts. Crypto monitoring in one app.
 
-- **[alphafalcongamer-creator/manus--ai](https://github.com/alphafalcongamer-creator/manus--ai)** ⭐ 146
-  ![None](https://img.shields.io/badge/-None-lightgrey)
-  AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment. 
+- **[brave-shell-07/izotope-rx-11-desktop](https://github.com/brave-shell-07/izotope-rx-11-desktop)** ⭐ 63
+  ![C++](https://img.shields.io/badge/-C++-pink)
+  iZotope RX 11 2026 desktop setup with AI audio repair, denoise, de-reverb and de-click, dialogue isolation and spectral editor, plus music rebalance to remix stems from a mix for Windows 11
 
-- **[mtn-imran-khan/ai--manus](https://github.com/mtn-imran-khan/ai--manus)** ⭐ 146
-  ![None](https://img.shields.io/badge/-None-lightgrey)
-  AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment.
+- **[bradburns2001/topaz-video-ai-desktop](https://github.com/bradburns2001/topaz-video-ai-desktop)** ⭐ 62
+  ![C++](https://img.shields.io/badge/-C++-pink)
+  Topaz Video AI 2026 desktop setup with AI upscaling up to 16K with detail recovery, frame interpolation for smooth slow-motion, plus deinterlace, denoise and stabilize footage for Windows 11
+
+- **[brisk-thrush-husky/malware-defender-desktop](https://github.com/brisk-thrush-husky/malware-defender-desktop)** ⭐ 61
+  ![C++](https://img.shields.io/badge/-C++-pink)
+  Malware Defender 2026 desktop setup with real-time protection against malware and ransomware, deep system scan with quarantine and removal, plus web shield that blocks phishing and malicious sites for Windows 11
+
+- **[brave-plum-co/leonardo-ai-desktop](https://github.com/brave-plum-co/leonardo-ai-desktop)** ⭐ 60
+  ![C++](https://img.shields.io/badge/-C++-pink)
+  Leonardo AI 2026 desktop setup with text-to-image generation using fine-tuned models, canvas editor with inpainting and outpainting, plus real-time generation and image-to-motion for Windows 11
+
+- **[briskember13/adobe-acrobat-pdf-desktop](https://github.com/briskember13/adobe-acrobat-pdf-desktop)** ⭐ 59
+  ![C++](https://img.shields.io/badge/-C++-pink)
+  Adobe Acrobat PDF 2026 desktop setup with text and image editing directly inside any PDF, conversion to and from Word, Excel and images, plus fill, sign and merge documents with an AI assistant for Windows 11
 
 ### 📈 Weekly Trending
 
-- **[huamidev/GestaltX](https://github.com/huamidev/GestaltX)** ⭐ 7,289
+- **[huamidev/GestaltX](https://github.com/huamidev/GestaltX)** ⭐ 7,371
   ![Swift](https://img.shields.io/badge/-Swift-lightgrey)
   An MobileGestalt editor for iOS 27.x, featuring region-code tweaks, device presets, backups.
 
-- **[tangerineturtle1/NX2navi](https://github.com/tangerineturtle1/NX2navi)** ⭐ 3,869
-  ![C](https://img.shields.io/badge/-C-lightgrey)
-  None
-
-- **[jhaizhou-ops/S2Arm](https://github.com/jhaizhou-ops/S2Arm)** ⭐ 2,864
+- **[jhaizhou-ops/S2Arm](https://github.com/jhaizhou-ops/S2Arm)** ⭐ 2,885
   ![C#](https://img.shields.io/badge/-C#-lightgrey)
   Run your own Switch games natively on iPhone, iPad and Mac: game code rewritten to ARM64, graphics direct to Metal, one app for the whole library. Bring your own games and keys. 把你自己的 Switch 游戏原生带到 iPhone / iPad / Mac。
 
-- **[Kianuni/Erosion-CN](https://github.com/Kianuni/Erosion-CN)** ⭐ 1,906
+- **[Kianuni/Erosion-CN](https://github.com/Kianuni/Erosion-CN)** ⭐ 1,951
   ![Swift](https://img.shields.io/badge/-Swift-lightgrey)
   iOS / iPadOS 系统配置与 MobileGestalt 研究工具箱（简体中文防白苹果安全加固版）
 
-- **[apex-compute/ANR](https://github.com/apex-compute/ANR)** ⭐ 1,449
+- **[apex-compute/ANR](https://github.com/apex-compute/ANR)** ⭐ 1,523
   ![C++](https://img.shields.io/badge/-C++-pink)
   Apex Neural Rendering (ANR) by Apex Compute
 
-- **[HybridRobotics/supermimic](https://github.com/HybridRobotics/supermimic)** ⭐ 1,433
+- **[HybridRobotics/supermimic](https://github.com/HybridRobotics/supermimic)** ⭐ 1,451
   ![Python](https://img.shields.io/badge/-Python-blue)
   Humanoid whole-body motion tracking with one differentiable world model.
 
-- **[agentes-chat/agentes-chat](https://github.com/agentes-chat/agentes-chat)** ⭐ 1,337
+- **[agentes-chat/agentes-chat](https://github.com/agentes-chat/agentes-chat)** ⭐ 1,353
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   Open-source, self-hosted Slack alternative where your team and AI agents work together in channels and DMs. Agents run on Claude, ChatGPT/Codex, Gemini or Grok, with MCP tools, their own computer and browser, routines, memory and approvals. Web, desktop and phone apps. Docker Compose + Postgres. AGPL-3.0.
 
-- **[FrigadeHQ/yogurt](https://github.com/FrigadeHQ/yogurt)** ⭐ 1,254
+- **[FrigadeHQ/yogurt](https://github.com/FrigadeHQ/yogurt)** ⭐ 1,312
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
-  Private AI meeting notes. Free and open source.
+  Private AI meeting notes that stay on your computer. A free, open-source alternative to Granola for Mac, Windows and Linux.
+
+- **[HolyArrs/HolyArrs](https://github.com/HolyArrs/HolyArrs)** ⭐ 1,106
+  ![Go](https://img.shields.io/badge/-Go-cyan)
+  One self-hosted app for your shows, movies and music.
 
 ### 📈 Monthly Trending
 
-- **[Gathin23/cleanyourtv](https://github.com/Gathin23/cleanyourtv)** ⭐ 57,414
+- **[Gathin23/cleanyourtv](https://github.com/Gathin23/cleanyourtv)** ⭐ 57,474
   ![Python](https://img.shields.io/badge/-Python-blue)
   Debloat any Android or Google TV over Wi-Fi and get an Apple TV-style home.
 
-- **[storytold/craft-anything](https://github.com/storytold/craft-anything)** ⭐ 31,384
+- **[storytold/craft-anything](https://github.com/storytold/craft-anything)** ⭐ 31,582
   ![Rust](https://img.shields.io/badge/-Rust-brown)
   Craft Anything: understand how any software works, and craft your own.
 
-- **[deepseek-ai/DeepInfer](https://github.com/deepseek-ai/DeepInfer)** ⭐ 25,962
+- **[deepseek-ai/DeepInfer](https://github.com/deepseek-ai/DeepInfer)** ⭐ 25,977
   ![Python](https://img.shields.io/badge/-Python-blue)
   DeepInfer: High-performance, large-scale inference framework for DeepSeek models
 
-- **[deepseek-ai/dsh-superagent-prototype](https://github.com/deepseek-ai/dsh-superagent-prototype)** ⭐ 23,015
+- **[deepseek-ai/dsh-superagent-prototype](https://github.com/deepseek-ai/dsh-superagent-prototype)** ⭐ 23,038
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   Towards a More Autonomous Agent System
 
-- **[ccch1mneyyy/dsh-Go](https://github.com/ccch1mneyyy/dsh-Go)** ⭐ 21,779
+- **[ccch1mneyyy/dsh-Go](https://github.com/ccch1mneyyy/dsh-Go)** ⭐ 21,942
   ![Dart](https://img.shields.io/badge/-Dart-lightgrey)
   dsh-go — DeepSeek Harness 装进口袋：手机本机运行，也能遥控你的电脑。
 
-- **[Zagitta/gpu-unlock](https://github.com/Zagitta/gpu-unlock)** ⭐ 19,227
+- **[Zagitta/gpu-unlock](https://github.com/Zagitta/gpu-unlock)** ⭐ 19,264
   ![C](https://img.shields.io/badge/-C-lightgrey)
   Your GeForce runs AI at half speed. This fixes it for 20/30/40 series cards. Up to 2× FP16 / BF16 / TF32 tensor throughput
 
-- **[heydamir/unslop](https://github.com/heydamir/unslop)** ⭐ 15,649
+- **[heydamir/unslop](https://github.com/heydamir/unslop)** ⭐ 15,725
   ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
   A Claude skill that turns vibecoded, AI-looking UI into a designed interface
 
-- **[pengchujin/aerial-tv](https://github.com/pengchujin/aerial-tv)** ⭐ 11,664
+- **[pengchujin/aerial-tv](https://github.com/pengchujin/aerial-tv)** ⭐ 11,697
   ![Kotlin](https://img.shields.io/badge/-Kotlin-lightgrey)
   给国产电视的一块干净桌面：参照 tvOS 设计的开源 Android TV 桌面，没有广告，开机自动接管。A tvOS-style launcher for Xiaomi, TCL and other China-market TVs.
 
@@ -487,30 +483,30 @@ See [kubernetes-announce@](https://groups.google.com/forum/#!forum/kubernetes-an
 
 | Skill | Status |
 |-------|--------|
-| Java | 🔴 Beginner |
-| Python | 🟡 Learning |
+| Java | 🟡 Learning |
+| Python | 🔴 Beginner |
 | JavaScript | 🟡 Learning |
-| TypeScript | ⚪ Planned |
-| Go | 🟢 Proficient |
+| TypeScript | 🔴 Beginner |
+| Go | ⚪ Planned |
 
 ### Frameworks
 
 | Skill | Status |
 |-------|--------|
 | React | 🔴 Beginner |
-| Spring Boot | 🟢 Proficient |
-| Django | ⚪ Planned |
-| Node.js | ⚪ Planned |
-| Next.js | ⚪ Planned |
+| Spring Boot | ⚪ Planned |
+| Django | 🔴 Beginner |
+| Node.js | 🔴 Beginner |
+| Next.js | 🟢 Proficient |
 
 ### Cybersecurity
 
 | Skill | Status |
 |-------|--------|
-| Penetration Testing | 🟢 Proficient |
-| Web Security | 🟡 Learning |
-| Network Security | 🟡 Learning |
-| OWASP | 🟢 Proficient |
+| Penetration Testing | 🔴 Beginner |
+| Web Security | 🔴 Beginner |
+| Network Security | 🔴 Beginner |
+| OWASP | 🔴 Beginner |
 
 ### Ai Ml
 
@@ -518,27 +514,27 @@ See [kubernetes-announce@](https://groups.google.com/forum/#!forum/kubernetes-an
 |-------|--------|
 | Machine Learning | 🔴 Beginner |
 | Deep Learning | 🟡 Learning |
-| NLP | 🔴 Beginner |
-| Computer Vision | 🔴 Beginner |
+| NLP | ⚪ Planned |
+| Computer Vision | ⚪ Planned |
 | TensorFlow | ⚪ Planned |
-| PyTorch | 🟡 Learning |
+| PyTorch | 🟢 Proficient |
 
 ### Devops
 
 | Skill | Status |
 |-------|--------|
 | Docker | ⚪ Planned |
-| Kubernetes | 🟢 Proficient |
-| CI/CD | 🟡 Learning |
-| AWS | ⚪ Planned |
-| Azure | ⚪ Planned |
+| Kubernetes | 🟡 Learning |
+| CI/CD | ⚪ Planned |
+| AWS | 🟢 Proficient |
+| Azure | 🔴 Beginner |
 
 ### Other
 
 | Skill | Status |
 |-------|--------|
-| Blockchain | 🟡 Learning |
-| Web3 | 🟡 Learning |
+| Blockchain | ⚪ Planned |
+| Web3 | ⚪ Planned |
 | Cloud Computing | 🟡 Learning |
 
 </details>
@@ -557,7 +553,7 @@ This dashboard is automatically updated every 6 hours using GitHub Actions. The 
 
 <div align="center">
 
-**Last Updated:** November 13, 2026
+**Last Updated:** November 14, 2026
 
 Made with ❤️ and automated with GitHub Actions
 
