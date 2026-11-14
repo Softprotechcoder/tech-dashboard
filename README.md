@@ -46,7 +46,12 @@
 
 ### 📑 Hacker News
 
-- **[Nvidia Allegedly Engineered Scarcity by Funding AI Startups to Buy Its GPUs](https://www.techpowerup.com/354814/nvidia-allegedly-engineered-scarcity-by-funding-ai-startups-to-buy-its-gpus)**
+- **[Monkey Island: all 13 versions side by side](https://monkeyisland.pages.dev/)**
+  *<p>Article URL: <a href="https://monkeyisland.pages.dev/">https://monkeyisland.pages.dev/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50493904">https://news.ycombinator.com/...*
+  📅 Sat, 14 Nov 2026 04:23:30 +0000
+
+- **[Nvidia allegedly engineered scarcity by funding AI startups to buy its GPUs](https://www.techpowerup.com/354814/nvidia-allegedly-engineered-scarcity-by-funding-ai-startups-to-buy-its-gpus)**
   *<p>Article URL: <a href="https://www.techpowerup.com/354814/nvidia-allegedly-engineered-scarcity-by-funding-ai-startups-to-buy-its-gpus">https://www.techpowerup.com/354814/nvidia-allegedly-engineered-...*
   📅 Sat, 14 Nov 2026 02:52:59 +0000
 
@@ -54,10 +59,6 @@
   *<p>Article URL: <a href="https://github.com/ggml-org/ggml/releases/tag/v1.0.0">https://github.com/ggml-org/ggml/releases/tag/v1.0.0</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?...*
   📅 Sat, 14 Nov 2026 02:28:29 +0000
-
-- **[Nvidia director sold nearly $1B in stock weeks before the Jensen Huang scandal](https://finance.yahoo.com/markets/stocks/articles/nvidia-director-sold-nearly-1b-160000846.html)**
-  *<p>Article URL: <a href="https://finance.yahoo.com/markets/stocks/articles/nvidia-director-sold-nearly-1b-160000846.html">https://finance.yahoo.com/markets/stocks/articles/nvidia-director-sold-nearly-...*
-  📅 Sat, 14 Nov 2026 02:21:36 +0000
 
 - **[Elephants found to be increasingly isolated leading to fractured social networks](https://today.ucsd.edu/story/elephants-found-to-be-increasingly-isolated-leading-to-fractured-social-networks)**
   *<p>Article URL: <a href="https://today.ucsd.edu/story/elephants-found-to-be-increasingly-isolated-leading-to-fractured-social-networks">https://today.ucsd.edu/story/elephants-found-to-be-increasingly-...*
@@ -67,10 +68,10 @@
   *<p>Article URL: <a href="https://www.fox5dc.com/news/amtrak-outage-ticket-booking-faa-ground-stop-november-13-2026">https://www.fox5dc.com/news/amtrak-outage-ticket-booking-faa-ground-stop-november-13...*
   📅 Sat, 14 Nov 2026 00:52:29 +0000
 
-- **[Anthropic upgrades Claude Code Projects to run parallel AI workers](https://claude.com/resources/articles/projects-redesigned)**
-  *<p>Article URL: <a href="https://claude.com/resources/articles/projects-redesigned">https://claude.com/resources/articles/projects-redesigned</a></p>
-<p>Comments URL: <a href="https://news.ycombinator...*
-  📅 Sat, 14 Nov 2026 00:28:11 +0000
+- **[Unsloth Qwen3.8-27B Quantizations – Dynamic v3.1 Update](https://unsloth.ai/docs/models/qwen3.8)**
+  *<p>Article URL: <a href="https://unsloth.ai/docs/models/qwen3.8">https://unsloth.ai/docs/models/qwen3.8</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50491980">https://news.yc...*
+  📅 Sat, 14 Nov 2026 00:06:04 +0000
 
 ### 📑 TechCrunch
 
@@ -100,15 +101,19 @@
 
 ### 📑 Dev.to
 
-- **[Inside the FAA's AI-Powered Smart Air Traffic Control Initiative](https://dev.to/dailyupdate/inside-the-faas-ai-powered-smart-air-traffic-control-initiative-4ff1)**
-  *<p>Modern air travel relies on complex coordination, vast data streams, and rapid decision-making. As U.S. airspace grows busier, the Federal Aviation Administration (FAA) has leaned heavily into tech...*
-  📅 Sat, 14 Nov 2026 04:01:14 +0000
+- **[PAN-OS Protocol Parsing Bug CVE-2026-0326 Requires Configuration-Level Triage](https://dev.to/jeffreyciend/pan-os-protocol-parsing-bug-cve-2026-0326-requires-configuration-level-triage-fm4)**
+  *<h1>
+  
+  
+  PAN-OS Protocol Parsing Bug CVE-2026-0326 Requires Configuration-Level Triage
+</h1>
 
-- **[Who wrote this code? AI provenance starts with the wrong question](https://dev.to/naman_here/who-wrote-this-code-ai-provenance-starts-with-the-wrong-question-2jdb)**
-  *<p><em>Originally published at <a href="https://www.getlockstep.dev/blog/who-wrote-this-code-ai-provenance" rel="noopener noreferrer">getlockstep.dev</a>.</em></p>
+<p>CVE-2026-0326 is a buffer overflow in PAN-OS service processing. Palo Alto Networks says an unauthe...*
+  📅 Sat, 14 Nov 2026 12:41:42 +0000
 
-<p>A customer loses access to a fea...*
-  📅 Sat, 14 Nov 2026 04:00:23 +0000
+- **[Build a Reproducible POSCOMP Study Library from an Open Source Archive](https://dev.to/paladini/build-a-reproducible-poscomp-study-library-from-an-open-source-archive-1ebe)**
+  *<p>Preparing for a large exam often starts with a familiar problem: the material exists, but it is scattered across old links, downloaded files, and personal notes. That makes it difficult to answer a...*
+  📅 Sat, 14 Nov 2026 12:40:37 +0000
 
 </details>
 
@@ -116,103 +121,103 @@
 
 ### 📈 Daily Trending
 
-- **[DimensionRobin/rob-run-private-cheat](https://github.com/DimensionRobin/rob-run-private-cheat)** ⭐ 152
-  ![None](https://img.shields.io/badge/-None-lightgrey)
-  None
-
-- **[duwqijlk/muse-protocol](https://github.com/duwqijlk/muse-protocol)** ⭐ 119
+- **[duwqijlk/muse-protocol](https://github.com/duwqijlk/muse-protocol)** ⭐ 358
   ![Python](https://img.shields.io/badge/-Python-blue)
   muse.ai 注册与邀请码兑换协议研究（纯 HTTP Python 实现）
+
+- **[brisk-thrush-husky/malware-defender-desktop](https://github.com/brisk-thrush-husky/malware-defender-desktop)** ⭐ 269
+  ![C++](https://img.shields.io/badge/-C++-pink)
+  Malware Defender 2026 desktop setup with real-time protection against malware and ransomware, deep system scan with quarantine and removal, plus web shield that blocks phishing and malicious sites for Windows 11
+
+- **[brave-shell-07/izotope-rx-11-desktop](https://github.com/brave-shell-07/izotope-rx-11-desktop)** ⭐ 269
+  ![C++](https://img.shields.io/badge/-C++-pink)
+  iZotope RX 11 2026 desktop setup with AI audio repair, denoise, de-reverb and de-click, dialogue isolation and spectral editor, plus music rebalance to remix stems from a mix for Windows 11
+
+- **[bradburns2001/topaz-video-ai-desktop](https://github.com/bradburns2001/topaz-video-ai-desktop)** ⭐ 268
+  ![C++](https://img.shields.io/badge/-C++-pink)
+  Topaz Video AI 2026 desktop setup with AI upscaling up to 16K with detail recovery, frame interpolation for smooth slow-motion, plus deinterlace, denoise and stabilize footage for Windows 11
+
+- **[briskember13/adobe-acrobat-pdf-desktop](https://github.com/briskember13/adobe-acrobat-pdf-desktop)** ⭐ 267
+  ![C++](https://img.shields.io/badge/-C++-pink)
+  Adobe Acrobat PDF 2026 desktop setup with text and image editing directly inside any PDF, conversion to and from Word, Excel and images, plus fill, sign and merge documents with an AI assistant for Windows 11
+
+- **[brave-plum-co/leonardo-ai-desktop](https://github.com/brave-plum-co/leonardo-ai-desktop)** ⭐ 267
+  ![C++](https://img.shields.io/badge/-C++-pink)
+  Leonardo AI 2026 desktop setup with text-to-image generation using fine-tuned models, canvas editor with inpainting and outpainting, plus real-time generation and image-to-motion for Windows 11
+
+- **[DimensionRobin/rob-run-private-cheat](https://github.com/DimensionRobin/rob-run-private-cheat)** ⭐ 202
+  ![None](https://img.shields.io/badge/-None-lightgrey)
+  None
 
 - **[prismarmorergirder/wallet-security-checker](https://github.com/prismarmorergirder/wallet-security-checker)** ⭐ 115
   ![None](https://img.shields.io/badge/-None-lightgrey)
   SafeWallet is a crypto wallet checker and blockchain security tool. Monitor Bitcoin, Ethereum and crypto wallet balances, track cryptocurrency prices, analyze wallet addresses, explore blockchain transactions, manage digital assets and receive real-time Telegram alerts. Crypto monitoring in one app.
 
-- **[brave-shell-07/izotope-rx-11-desktop](https://github.com/brave-shell-07/izotope-rx-11-desktop)** ⭐ 63
-  ![C++](https://img.shields.io/badge/-C++-pink)
-  iZotope RX 11 2026 desktop setup with AI audio repair, denoise, de-reverb and de-click, dialogue isolation and spectral editor, plus music rebalance to remix stems from a mix for Windows 11
-
-- **[bradburns2001/topaz-video-ai-desktop](https://github.com/bradburns2001/topaz-video-ai-desktop)** ⭐ 62
-  ![C++](https://img.shields.io/badge/-C++-pink)
-  Topaz Video AI 2026 desktop setup with AI upscaling up to 16K with detail recovery, frame interpolation for smooth slow-motion, plus deinterlace, denoise and stabilize footage for Windows 11
-
-- **[brisk-thrush-husky/malware-defender-desktop](https://github.com/brisk-thrush-husky/malware-defender-desktop)** ⭐ 61
-  ![C++](https://img.shields.io/badge/-C++-pink)
-  Malware Defender 2026 desktop setup with real-time protection against malware and ransomware, deep system scan with quarantine and removal, plus web shield that blocks phishing and malicious sites for Windows 11
-
-- **[brave-plum-co/leonardo-ai-desktop](https://github.com/brave-plum-co/leonardo-ai-desktop)** ⭐ 60
-  ![C++](https://img.shields.io/badge/-C++-pink)
-  Leonardo AI 2026 desktop setup with text-to-image generation using fine-tuned models, canvas editor with inpainting and outpainting, plus real-time generation and image-to-motion for Windows 11
-
-- **[briskember13/adobe-acrobat-pdf-desktop](https://github.com/briskember13/adobe-acrobat-pdf-desktop)** ⭐ 59
-  ![C++](https://img.shields.io/badge/-C++-pink)
-  Adobe Acrobat PDF 2026 desktop setup with text and image editing directly inside any PDF, conversion to and from Word, Excel and images, plus fill, sign and merge documents with an AI assistant for Windows 11
-
 ### 📈 Weekly Trending
 
-- **[huamidev/GestaltX](https://github.com/huamidev/GestaltX)** ⭐ 7,371
+- **[huamidev/GestaltX](https://github.com/huamidev/GestaltX)** ⭐ 7,482
   ![Swift](https://img.shields.io/badge/-Swift-lightgrey)
   An MobileGestalt editor for iOS 27.x, featuring region-code tweaks, device presets, backups.
 
-- **[jhaizhou-ops/S2Arm](https://github.com/jhaizhou-ops/S2Arm)** ⭐ 2,885
+- **[jhaizhou-ops/S2Arm](https://github.com/jhaizhou-ops/S2Arm)** ⭐ 2,921
   ![C#](https://img.shields.io/badge/-C#-lightgrey)
   Run your own Switch games natively on iPhone, iPad and Mac: game code rewritten to ARM64, graphics direct to Metal, one app for the whole library. Bring your own games and keys. 把你自己的 Switch 游戏原生带到 iPhone / iPad / Mac。
 
-- **[Kianuni/Erosion-CN](https://github.com/Kianuni/Erosion-CN)** ⭐ 1,951
+- **[Kianuni/Erosion-CN](https://github.com/Kianuni/Erosion-CN)** ⭐ 2,007
   ![Swift](https://img.shields.io/badge/-Swift-lightgrey)
   iOS / iPadOS 系统配置与 MobileGestalt 研究工具箱（简体中文防白苹果安全加固版）
 
-- **[apex-compute/ANR](https://github.com/apex-compute/ANR)** ⭐ 1,523
+- **[apex-compute/ANR](https://github.com/apex-compute/ANR)** ⭐ 1,657
   ![C++](https://img.shields.io/badge/-C++-pink)
   Apex Neural Rendering (ANR) by Apex Compute
 
-- **[HybridRobotics/supermimic](https://github.com/HybridRobotics/supermimic)** ⭐ 1,451
+- **[HybridRobotics/supermimic](https://github.com/HybridRobotics/supermimic)** ⭐ 1,477
   ![Python](https://img.shields.io/badge/-Python-blue)
   Humanoid whole-body motion tracking with one differentiable world model.
 
-- **[agentes-chat/agentes-chat](https://github.com/agentes-chat/agentes-chat)** ⭐ 1,353
+- **[deepseek-ai/chat-demo](https://github.com/deepseek-ai/chat-demo)** ⭐ 1,431
+  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
+  Chat Demo
+
+- **[agentes-chat/agentes-chat](https://github.com/agentes-chat/agentes-chat)** ⭐ 1,366
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   Open-source, self-hosted Slack alternative where your team and AI agents work together in channels and DMs. Agents run on Claude, ChatGPT/Codex, Gemini or Grok, with MCP tools, their own computer and browser, routines, memory and approvals. Web, desktop and phone apps. Docker Compose + Postgres. AGPL-3.0.
 
-- **[FrigadeHQ/yogurt](https://github.com/FrigadeHQ/yogurt)** ⭐ 1,312
+- **[FrigadeHQ/yogurt](https://github.com/FrigadeHQ/yogurt)** ⭐ 1,360
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   Private AI meeting notes that stay on your computer. A free, open-source alternative to Granola for Mac, Windows and Linux.
 
-- **[HolyArrs/HolyArrs](https://github.com/HolyArrs/HolyArrs)** ⭐ 1,106
-  ![Go](https://img.shields.io/badge/-Go-cyan)
-  One self-hosted app for your shows, movies and music.
-
 ### 📈 Monthly Trending
 
-- **[Gathin23/cleanyourtv](https://github.com/Gathin23/cleanyourtv)** ⭐ 57,474
+- **[Gathin23/cleanyourtv](https://github.com/Gathin23/cleanyourtv)** ⭐ 57,636
   ![Python](https://img.shields.io/badge/-Python-blue)
   Debloat any Android or Google TV over Wi-Fi and get an Apple TV-style home.
 
-- **[storytold/craft-anything](https://github.com/storytold/craft-anything)** ⭐ 31,582
+- **[storytold/craft-anything](https://github.com/storytold/craft-anything)** ⭐ 32,124
   ![Rust](https://img.shields.io/badge/-Rust-brown)
   Craft Anything: understand how any software works, and craft your own.
 
-- **[deepseek-ai/DeepInfer](https://github.com/deepseek-ai/DeepInfer)** ⭐ 25,977
+- **[deepseek-ai/DeepInfer](https://github.com/deepseek-ai/DeepInfer)** ⭐ 26,003
   ![Python](https://img.shields.io/badge/-Python-blue)
   DeepInfer: High-performance, large-scale inference framework for DeepSeek models
 
-- **[deepseek-ai/dsh-superagent-prototype](https://github.com/deepseek-ai/dsh-superagent-prototype)** ⭐ 23,038
+- **[deepseek-ai/dsh-superagent-prototype](https://github.com/deepseek-ai/dsh-superagent-prototype)** ⭐ 23,097
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   Towards a More Autonomous Agent System
 
-- **[ccch1mneyyy/dsh-Go](https://github.com/ccch1mneyyy/dsh-Go)** ⭐ 21,942
+- **[ccch1mneyyy/dsh-Go](https://github.com/ccch1mneyyy/dsh-Go)** ⭐ 22,357
   ![Dart](https://img.shields.io/badge/-Dart-lightgrey)
   dsh-go — DeepSeek Harness 装进口袋：手机本机运行，也能遥控你的电脑。
 
-- **[Zagitta/gpu-unlock](https://github.com/Zagitta/gpu-unlock)** ⭐ 19,264
+- **[Zagitta/gpu-unlock](https://github.com/Zagitta/gpu-unlock)** ⭐ 19,343
   ![C](https://img.shields.io/badge/-C-lightgrey)
   Your GeForce runs AI at half speed. This fixes it for 20/30/40 series cards. Up to 2× FP16 / BF16 / TF32 tensor throughput
 
-- **[heydamir/unslop](https://github.com/heydamir/unslop)** ⭐ 15,725
+- **[heydamir/unslop](https://github.com/heydamir/unslop)** ⭐ 15,849
   ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
   A Claude skill that turns vibecoded, AI-looking UI into a designed interface
 
-- **[pengchujin/aerial-tv](https://github.com/pengchujin/aerial-tv)** ⭐ 11,697
+- **[pengchujin/aerial-tv](https://github.com/pengchujin/aerial-tv)** ⭐ 11,758
   ![Kotlin](https://img.shields.io/badge/-Kotlin-lightgrey)
   给国产电视的一块干净桌面：参照 tvOS 设计的开源 Android TV 桌面，没有广告，开机自动接管。A tvOS-style launcher for Xiaomi, TCL and other China-market TVs.
 
@@ -483,59 +488,59 @@ See [kubernetes-announce@](https://groups.google.com/forum/#!forum/kubernetes-an
 
 | Skill | Status |
 |-------|--------|
-| Java | 🟡 Learning |
-| Python | 🔴 Beginner |
-| JavaScript | 🟡 Learning |
-| TypeScript | 🔴 Beginner |
+| Java | 🔴 Beginner |
+| Python | 🟢 Proficient |
+| JavaScript | ⚪ Planned |
+| TypeScript | 🟡 Learning |
 | Go | ⚪ Planned |
 
 ### Frameworks
 
 | Skill | Status |
 |-------|--------|
-| React | 🔴 Beginner |
+| React | 🟢 Proficient |
 | Spring Boot | ⚪ Planned |
-| Django | 🔴 Beginner |
-| Node.js | 🔴 Beginner |
+| Django | ⚪ Planned |
+| Node.js | ⚪ Planned |
 | Next.js | 🟢 Proficient |
 
 ### Cybersecurity
 
 | Skill | Status |
 |-------|--------|
-| Penetration Testing | 🔴 Beginner |
-| Web Security | 🔴 Beginner |
-| Network Security | 🔴 Beginner |
+| Penetration Testing | ⚪ Planned |
+| Web Security | ⚪ Planned |
+| Network Security | 🟡 Learning |
 | OWASP | 🔴 Beginner |
 
 ### Ai Ml
 
 | Skill | Status |
 |-------|--------|
-| Machine Learning | 🔴 Beginner |
+| Machine Learning | 🟢 Proficient |
 | Deep Learning | 🟡 Learning |
 | NLP | ⚪ Planned |
-| Computer Vision | ⚪ Planned |
-| TensorFlow | ⚪ Planned |
-| PyTorch | 🟢 Proficient |
+| Computer Vision | 🔴 Beginner |
+| TensorFlow | 🟡 Learning |
+| PyTorch | 🟡 Learning |
 
 ### Devops
 
 | Skill | Status |
 |-------|--------|
-| Docker | ⚪ Planned |
+| Docker | 🔴 Beginner |
 | Kubernetes | 🟡 Learning |
-| CI/CD | ⚪ Planned |
-| AWS | 🟢 Proficient |
-| Azure | 🔴 Beginner |
+| CI/CD | 🟢 Proficient |
+| AWS | ⚪ Planned |
+| Azure | ⚪ Planned |
 
 ### Other
 
 | Skill | Status |
 |-------|--------|
-| Blockchain | ⚪ Planned |
-| Web3 | ⚪ Planned |
-| Cloud Computing | 🟡 Learning |
+| Blockchain | 🟡 Learning |
+| Web3 | 🟡 Learning |
+| Cloud Computing | ⚪ Planned |
 
 </details>
 
