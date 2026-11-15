@@ -46,31 +46,34 @@
 
 ### 📑 Hacker News
 
-- **[The Single Router in Southern Arkansas That Ground Air Travel to a Halt](https://www.wsj.com/business/airlines/the-single-router-in-southern-arkansas-that-ground-air-travel-to-a-halt-eedc326c)**
-  *<p>Article URL: <a href="https://www.wsj.com/business/airlines/the-single-router-in-southern-arkansas-that-ground-air-travel-to-a-halt-eedc326c">https://www.wsj.com/business/airlines/the-single-router...*
-  📅 Sun, 15 Nov 2026 03:05:54 +0000
+- **[Why did some Apollo missions carry a grenade launcher?](https://space.stackexchange.com/questions/37775)**
+  *<p>Article URL: <a href="https://space.stackexchange.com/questions/37775">https://space.stackexchange.com/questions/37775</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=5050527...*
+  📅 Sun, 15 Nov 2026 09:06:43 +0000
 
-- **[We're Asking an Appeals Court to Require a Warrant for ALPR Searches](https://www.eff.org/deeplinks/2026/11/were-asking-appeals-court-require-warrant-alpr-searches)**
-  *<p>Article URL: <a href="https://www.eff.org/deeplinks/2026/11/were-asking-appeals-court-require-warrant-alpr-searches">https://www.eff.org/deeplinks/2026/11/were-asking-appeals-court-require-warrant-...*
-  📅 Sun, 15 Nov 2026 02:00:54 +0000
+- **[Book list for streetfighting computer scientists](https://nick-black.com/dankwiki/index.php?title=Book_list_for_streetfighting_computer_scientists)**
+  *<p>Article URL: <a href="https://nick-black.com/dankwiki/index.php?title=Book_list_for_streetfighting_computer_scientists">https://nick-black.com/dankwiki/index.php?title=Book_list_for_streetfighting_...*
+  📅 Sun, 15 Nov 2026 07:08:50 +0000
 
-- **[Show HN: A custom font based on the Jamaican flag alphabet](https://bobbiec.github.io/jamaican-font.html)**
-  *<p>Article URL: <a href="https://bobbiec.github.io/jamaican-font.html">https://bobbiec.github.io/jamaican-font.html</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50502839">htt...*
-  📅 Sun, 15 Nov 2026 00:56:45 +0000
+- **[Disk encryption on NetBSD – achieving secrecy](https://netbsd.org/~nia/disk-encrypt/)**
+  *<p>Article URL: <a href="https://netbsd.org/~nia/disk-encrypt/">https://netbsd.org/~nia/disk-encrypt/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50504277">https://news.ycom...*
+  📅 Sun, 15 Nov 2026 05:29:54 +0000
 
-- **[Nvidia deliberately kept GPU prices high through circular financing deals](https://www.techspot.com/news/114558-nvidia-deliberately-kept-gpu-prices-high-through-circular.html)**
-  *<p>Article URL: <a href="https://www.techspot.com/news/114558-nvidia-deliberately-kept-gpu-prices-high-through-circular.html">https://www.techspot.com/news/114558-nvidia-deliberately-kept-gpu-prices-h...*
-  📅 Sat, 14 Nov 2026 22:26:30 +0000
+- **[Kiri – The Modern Container Runtime](https://runkiri.com/)**
+  *<p>Article URL: <a href="https://runkiri.com/">https://runkiri.com/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50504077">https://news.ycombinator.com/item?id=50504077</a></...*
+  📅 Sun, 15 Nov 2026 04:40:41 +0000
 
-- **[How did Woz write the Apple 1 BASIC before building the computer?](https://retrocomputing.stackexchange.com/questions/17957)**
-  *<p>Article URL: <a href="https://retrocomputing.stackexchange.com/questions/17957">https://retrocomputing.stackexchange.com/questions/17957</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.c...*
-  📅 Sat, 14 Nov 2026 22:22:49 +0000
+- **[Show HN: Turbo-Browser-MCP – Batch forms, DOM deltas and submit guards for MCP](https://github.com/Tthanh2k6/turbo-browser-mcp)**
+  *<p>Article URL: <a href="https://github.com/Tthanh2k6/turbo-browser-mcp">https://github.com/Tthanh2k6/turbo-browser-mcp</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50503930"...*
+  📅 Sun, 15 Nov 2026 04:09:11 +0000
 
-- **[SpaceX catches the Starship to end Flight 15](https://www.spacex.com/launches/starship-flight-15)**
-  *<p><a href="https://x.com/SpaceX/status/2121316300702056595" rel="nofollow">https://x.com/SpaceX/status/2121316300702056595</a><p><a href="https://youtu.be/jHlpfNSpBmw?t=3233" rel="nofollow">https://y...*
-  📅 Sat, 14 Nov 2026 21:22:24 +0000
+- **[My favourite modern NES games](https://jordi.inversethought.com/blog/25-of-my-favourite-modern-nes-games/)**
+  *<p>Article URL: <a href="https://jordi.inversethought.com/blog/25-of-my-favourite-modern-nes-games/">https://jordi.inversethought.com/blog/25-of-my-favourite-modern-nes-games/</a></p>
+<p>Comments URL:...*
+  📅 Sun, 15 Nov 2026 02:41:25 +0000
 
 ### 📑 TechCrunch
 
@@ -100,20 +103,15 @@
 
 ### 📑 Dev.to
 
-- **[The Gatekeeper With No Address: Trying to Build a zkVerify Proof Gatekeeper on a VM the Public Internet Can't Reach](https://dev.to/wahyu779/the-gatekeeper-with-no-address-trying-to-build-a-zkverify-proof-gatekeeper-on-a-vm-the-public-2543)**
-  *<h1>
-  
-  
-  The Gatekeeper With No Address: Trying to Build a zkVerify Proof Gatekeeper on a VM the Public Internet Can't Reach
-</h1>
+- **[GitHub Actions submodule checkout failed on a private submodule](https://dev.to/kalemi/github-actions-submodule-checkout-failed-on-a-private-submodule-2jb0)**
+  *<p>GitHub Actions submodule checkout failed is a credential message rather than a git one: the outer repository clones cleanly and only the submodule fetch stops. The credential the action configured ...*
+  📅 Sun, 15 Nov 2026 13:09:29 +0000
 
-<blockquote>
-<p><strong>STATUS NOTE — read this before posting</...*
-  📅 Sun, 15 Nov 2026 03:51:58 +0000
+- **[The invoice scam that changes one line: why "it looks right" is not verification](https://dev.to/trampto/the-invoice-scam-that-changes-one-line-why-it-looks-right-is-not-verification-54di)**
+  *<p>A supplier sends you an invoice. Same logo, same layout, same amount, same reference. You pay it. Two weeks later the supplier calls: they never got the money.</p>
 
-- **[GitHub Actions skipped job required check, and what blocks the merge](https://dev.to/kalemi/github-actions-skipped-job-required-check-and-what-blocks-the-merge-1df8)**
-  *<p>A GitHub Actions skipped job required check is not what blocks your merge: GitHub documents that a job skipped by a conditional reports "Success" and will not prevent a pull request from merging, e...*
-  📅 Sun, 15 Nov 2026 03:51:58 +0000
+<p>Somewhere between their outbo...*
+  📅 Sun, 15 Nov 2026 13:09:27 +0000
 
 </details>
 
@@ -121,103 +119,103 @@
 
 ### 📈 Daily Trending
 
-- **[tsukumijima/pydtcpip](https://github.com/tsukumijima/pydtcpip)** ⭐ 15
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  Unofficial Python implementation of DTCP-IP with DLNA/UPnP support
-
-- **[petekp/coordinator](https://github.com/petekp/coordinator)** ⭐ 8
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  Turn one Claude Code session into a coordinator that runs, watches and cleans up a fleet of agent sessions in Herdr.
-
-- **[flavtun/sender_project](https://github.com/flavtun/sender_project)** ⭐ 6
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  None
-
-- **[sqlinjected/sat2x](https://github.com/sqlinjected/sat2x)** ⭐ 3
+- **[sharpeterson08/jetbrains-dev-setup](https://github.com/sharpeterson08/jetbrains-dev-setup)** ⭐ 99
   ![None](https://img.shields.io/badge/-None-lightgrey)
-  Arduino Pro Micro firmware that turns a Sega Saturn analog racing wheel into a plug-and-play Xbox (XInput) controller for PC. Analog steering + pedals, no drivers or mappers needed.
+  JetBrains IDE tuning notes — keymaps, inspections, AI assist etiquette.
 
-- **[Ash1996x/Nekiya](https://github.com/Ash1996x/Nekiya)** ⭐ 3
-  ![C](https://img.shields.io/badge/-C-lightgrey)
-  BYOVD tool for DKOM process/driver hiding, SYSTEM elevation, HVCI disablement, and blind/nuke takedown of PPL, tamper, ETW, EDR, Defender, processes, services, exclusions 
-
-- **[KenzCybSec/Discord-Multi-Tool](https://github.com/KenzCybSec/Discord-Multi-Tool)** ⭐ 3
+- **[gflores1762/music-streamer-plus](https://github.com/gflores1762/music-streamer-plus)** ⭐ 99
   ![None](https://img.shields.io/badge/-None-lightgrey)
-  all in one discord tool
+  Desktop music streaming companion — setup guide, tips and offline notes.
 
-- **[XiotenStellar67/StarPivot](https://github.com/XiotenStellar67/StarPivot)** ⭐ 3
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
-  星枢 StarPivot —— 鸿蒙版Shizuku，把 HDC 的 shell 能力封装成本机 HTTP 接口
+- **[paigereyes553/ios-unlock-lab](https://github.com/paigereyes553/ios-unlock-lab)** ⭐ 97
+  ![None](https://img.shields.io/badge/-None-lightgrey)
+  iOS customization lab — jailbreak-era tweak guides and device prep checklist.
 
-- **[codepilotsf/itsykit](https://github.com/codepilotsf/itsykit)** ⭐ 2
-  ![HTML](https://img.shields.io/badge/-HTML-lightgrey)
-  None
+- **[hayden-lee22-hash/blockcraft-launcher-hub](https://github.com/hayden-lee22-hash/blockcraft-launcher-hub)** ⭐ 96
+  ![None](https://img.shields.io/badge/-None-lightgrey)
+  Third-party launcher overview & setup notes for Minecraft custom clients.
+
+- **[philipb7681/ableton-production-bench](https://github.com/philipb7681/ableton-production-bench)** ⭐ 96
+  ![None](https://img.shields.io/badge/-None-lightgrey)
+  Production bench for Ableton Live — racks, sampling tricks, mixdown chain.
+
+- **[connormartin16/win11-performance-toolkit](https://github.com/connormartin16/win11-performance-toolkit)** ⭐ 96
+  ![None](https://img.shields.io/badge/-None-lightgrey)
+  Performance tweaks & cleaner setup kit for Windows 11 gaming and everyday speed.
+
+- **[elizturner-99/photo-studio-setup-notes](https://github.com/elizturner-99/photo-studio-setup-notes)** ⭐ 95
+  ![None](https://img.shields.io/badge/-None-lightgrey)
+  Setup companion for Adobe Photoshop workflows — presets, docs and launcher.
+
+- **[cnrad/interspace](https://github.com/cnrad/interspace)** ⭐ 67
+  ![Swift](https://img.shields.io/badge/-Swift-lightgrey)
+  a fast, customizable macOS space switcher
 
 ### 📈 Weekly Trending
 
-- **[huamidev/GestaltX](https://github.com/huamidev/GestaltX)** ⭐ 7,594
+- **[huamidev/GestaltX](https://github.com/huamidev/GestaltX)** ⭐ 7,684
   ![Swift](https://img.shields.io/badge/-Swift-lightgrey)
   An MobileGestalt editor for iOS 27.x, featuring region-code tweaks, device presets, backups.
 
-- **[Kianuni/Erosion-CN](https://github.com/Kianuni/Erosion-CN)** ⭐ 2,066
-  ![Swift](https://img.shields.io/badge/-Swift-lightgrey)
-  iOS / iPadOS 系统配置与 MobileGestalt 研究工具箱（简体中文防白苹果安全加固版）
-
-- **[apex-compute/ANR](https://github.com/apex-compute/ANR)** ⭐ 1,859
-  ![C++](https://img.shields.io/badge/-C++-pink)
-  Apex Neural Rendering (ANR) by Apex Compute
-
-- **[deepseek-ai/chat-demo](https://github.com/deepseek-ai/chat-demo)** ⭐ 1,838
+- **[deepseek-ai/chat-demo](https://github.com/deepseek-ai/chat-demo)** ⭐ 2,160
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   Chat Demo
 
-- **[FrigadeHQ/yogurt](https://github.com/FrigadeHQ/yogurt)** ⭐ 1,512
+- **[Kianuni/Erosion-CN](https://github.com/Kianuni/Erosion-CN)** ⭐ 2,103
+  ![Swift](https://img.shields.io/badge/-Swift-lightgrey)
+  iOS / iPadOS 系统配置与 MobileGestalt 研究工具箱（简体中文防白苹果安全加固版）
+
+- **[apex-compute/ANR](https://github.com/apex-compute/ANR)** ⭐ 1,940
+  ![C++](https://img.shields.io/badge/-C++-pink)
+  Apex Neural Rendering (ANR) by Apex Compute
+
+- **[FrigadeHQ/yogurt](https://github.com/FrigadeHQ/yogurt)** ⭐ 1,563
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   Private AI meeting notes that stay on your computer. A free, open-source alternative to Granola for Mac, Windows and Linux.
 
-- **[HybridRobotics/supermimic](https://github.com/HybridRobotics/supermimic)** ⭐ 1,504
+- **[DevedevT/FFmpeg-GUI-Editor-Windows](https://github.com/DevedevT/FFmpeg-GUI-Editor-Windows)** ⭐ 1,535
+  ![Visual Basic .NET](https://img.shields.io/badge/-Visual Basic .NET-lightgrey)
+  Lightweight portable FFmpeg GUI & lossless video trimmer for Windows (ready-to-use .exe). Supports English, Russian, Chinese, German, French & Italian.
+
+- **[HybridRobotics/supermimic](https://github.com/HybridRobotics/supermimic)** ⭐ 1,530
   ![Python](https://img.shields.io/badge/-Python-blue)
   Humanoid whole-body motion tracking with one differentiable world model.
 
-- **[agentes-chat/agentes-chat](https://github.com/agentes-chat/agentes-chat)** ⭐ 1,411
+- **[agentes-chat/agentes-chat](https://github.com/agentes-chat/agentes-chat)** ⭐ 1,459
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   Open-source, self-hosted Slack alternative where your team and AI agents work together in channels and DMs. Agents run on Claude, ChatGPT/Codex, Gemini or Grok, with MCP tools, their own computer and browser, routines, memory and approvals. Web, desktop and phone apps. Docker Compose + Postgres. AGPL-3.0.
 
-- **[HolyArrs/HolyArrs](https://github.com/HolyArrs/HolyArrs)** ⭐ 1,192
-  ![Go](https://img.shields.io/badge/-Go-cyan)
-  One self-hosted app for your shows, movies and music.
-
 ### 📈 Monthly Trending
 
-- **[Gathin23/cleanyourtv](https://github.com/Gathin23/cleanyourtv)** ⭐ 57,923
+- **[Gathin23/cleanyourtv](https://github.com/Gathin23/cleanyourtv)** ⭐ 58,087
   ![Python](https://img.shields.io/badge/-Python-blue)
   Debloat any Android or Google TV over Wi-Fi and get an Apple TV-style home.
 
-- **[storytold/craft-anything](https://github.com/storytold/craft-anything)** ⭐ 32,902
+- **[storytold/craft-anything](https://github.com/storytold/craft-anything)** ⭐ 33,360
   ![Rust](https://img.shields.io/badge/-Rust-brown)
   Craft Anything: understand how any software works, and craft your own.
 
-- **[deepseek-ai/dsh-superagent-prototype](https://github.com/deepseek-ai/dsh-superagent-prototype)** ⭐ 23,161
-  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
-  Towards a More Autonomous Agent System
-
-- **[ccch1mneyyy/dsh-Go](https://github.com/ccch1mneyyy/dsh-Go)** ⭐ 22,888
+- **[ccch1mneyyy/dsh-Go](https://github.com/ccch1mneyyy/dsh-Go)** ⭐ 23,408
   ![Dart](https://img.shields.io/badge/-Dart-lightgrey)
   dsh-go — DeepSeek Harness 装进口袋：手机本机运行，也能遥控你的电脑。
 
-- **[Zagitta/gpu-unlock](https://github.com/Zagitta/gpu-unlock)** ⭐ 19,563
+- **[deepseek-ai/dsh-superagent-prototype](https://github.com/deepseek-ai/dsh-superagent-prototype)** ⭐ 23,216
+  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
+  Towards a More Autonomous Agent System
+
+- **[Zagitta/gpu-unlock](https://github.com/Zagitta/gpu-unlock)** ⭐ 19,644
   ![C](https://img.shields.io/badge/-C-lightgrey)
   Your GeForce runs AI at half speed. This fixes it for 20/30/40 series cards. Up to 2× FP16 / BF16 / TF32 tensor throughput
 
-- **[heydamir/unslop](https://github.com/heydamir/unslop)** ⭐ 16,092
+- **[heydamir/unslop](https://github.com/heydamir/unslop)** ⭐ 16,364
   ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
   A Claude skill that turns vibecoded, AI-looking UI into a designed interface
 
-- **[pengchujin/aerial-tv](https://github.com/pengchujin/aerial-tv)** ⭐ 11,900
+- **[pengchujin/aerial-tv](https://github.com/pengchujin/aerial-tv)** ⭐ 11,975
   ![Kotlin](https://img.shields.io/badge/-Kotlin-lightgrey)
   给国产电视的一块干净桌面：参照 tvOS 设计的开源 Android TV 桌面，没有广告，开机自动接管。A tvOS-style launcher for Xiaomi, TCL and other China-market TVs.
 
-- **[anefzaoui/misterdownloadmanager](https://github.com/anefzaoui/misterdownloadmanager)** ⭐ 9,652
+- **[anefzaoui/misterdownloadmanager](https://github.com/anefzaoui/misterdownloadmanager)** ⭐ 9,980
   ![Rust](https://img.shields.io/badge/-Rust-brown)
   misterdownloadmanager: The ultimate open-source, clean-room download manager written from scratch in pure Rust for Windows, Mac, and Linux
 
@@ -488,59 +486,59 @@ See [kubernetes-announce@](https://groups.google.com/forum/#!forum/kubernetes-an
 
 | Skill | Status |
 |-------|--------|
-| Java | 🟢 Proficient |
-| Python | 🔴 Beginner |
-| JavaScript | 🟢 Proficient |
-| TypeScript | ⚪ Planned |
-| Go | 🔴 Beginner |
+| Java | ⚪ Planned |
+| Python | 🟡 Learning |
+| JavaScript | 🟡 Learning |
+| TypeScript | 🔴 Beginner |
+| Go | 🟡 Learning |
 
 ### Frameworks
 
 | Skill | Status |
 |-------|--------|
-| React | 🟢 Proficient |
-| Spring Boot | 🟡 Learning |
-| Django | 🟢 Proficient |
-| Node.js | 🔴 Beginner |
-| Next.js | 🟡 Learning |
+| React | 🔴 Beginner |
+| Spring Boot | 🟢 Proficient |
+| Django | 🟡 Learning |
+| Node.js | 🟢 Proficient |
+| Next.js | ⚪ Planned |
 
 ### Cybersecurity
 
 | Skill | Status |
 |-------|--------|
-| Penetration Testing | 🟡 Learning |
-| Web Security | ⚪ Planned |
-| Network Security | ⚪ Planned |
-| OWASP | 🟢 Proficient |
+| Penetration Testing | ⚪ Planned |
+| Web Security | 🔴 Beginner |
+| Network Security | 🟢 Proficient |
+| OWASP | 🔴 Beginner |
 
 ### Ai Ml
 
 | Skill | Status |
 |-------|--------|
 | Machine Learning | 🟡 Learning |
-| Deep Learning | 🟢 Proficient |
-| NLP | 🔴 Beginner |
+| Deep Learning | ⚪ Planned |
+| NLP | 🟡 Learning |
 | Computer Vision | ⚪ Planned |
-| TensorFlow | 🟡 Learning |
+| TensorFlow | 🔴 Beginner |
 | PyTorch | ⚪ Planned |
 
 ### Devops
 
 | Skill | Status |
 |-------|--------|
-| Docker | 🟡 Learning |
-| Kubernetes | 🔴 Beginner |
+| Docker | 🔴 Beginner |
+| Kubernetes | 🟡 Learning |
 | CI/CD | 🔴 Beginner |
 | AWS | 🟡 Learning |
-| Azure | ⚪ Planned |
+| Azure | 🔴 Beginner |
 
 ### Other
 
 | Skill | Status |
 |-------|--------|
-| Blockchain | ⚪ Planned |
+| Blockchain | 🟡 Learning |
 | Web3 | ⚪ Planned |
-| Cloud Computing | ⚪ Planned |
+| Cloud Computing | 🟢 Proficient |
 
 </details>
 
