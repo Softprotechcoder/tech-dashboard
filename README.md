@@ -21,7 +21,7 @@
 |--------|-------|
 | 📰 Latest News Articles | 26 |
 | 🔥 Trending Repositories | 45 |
-| 🎯 Latest Releases | 10 |
+| 🎯 Latest Releases | 0 |
 | 🎯 Learning Goals | 4 |
 
 ## 🎯 Current Focus
@@ -46,72 +46,71 @@
 
 ### 📑 Hacker News
 
-- **[Why did some Apollo missions carry a grenade launcher?](https://space.stackexchange.com/questions/37775)**
-  *<p>Article URL: <a href="https://space.stackexchange.com/questions/37775">https://space.stackexchange.com/questions/37775</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=5050527...*
-  📅 Sun, 15 Nov 2026 09:06:43 +0000
+- **[Boeing-Lockheed rocket fails mid-flight, destroys payload of Amazon satellites](https://www.reuters.com/business/aerospace-defense/us-rocket-fails-after-launch-payload-amazon-internet-satellites-destroyed-2026-11-15/)**
+  *<p>Article URL: <a href="https://www.reuters.com/business/aerospace-defense/us-rocket-fails-after-launch-payload-amazon-internet-satellites-destroyed-2026-11-15/">https://www.reuters.com/business/aero...*
+  📅 Sun, 15 Nov 2026 21:38:11 +0000
 
-- **[Book list for streetfighting computer scientists](https://nick-black.com/dankwiki/index.php?title=Book_list_for_streetfighting_computer_scientists)**
-  *<p>Article URL: <a href="https://nick-black.com/dankwiki/index.php?title=Book_list_for_streetfighting_computer_scientists">https://nick-black.com/dankwiki/index.php?title=Book_list_for_streetfighting_...*
-  📅 Sun, 15 Nov 2026 07:08:50 +0000
+- **[Your Agent Will Pick the Hackable One](https://geoffstearns.com/blog/your-agent-will-pick-the-hackable-one/)**
+  *<p>Article URL: <a href="https://geoffstearns.com/blog/your-agent-will-pick-the-hackable-one/">https://geoffstearns.com/blog/your-agent-will-pick-the-hackable-one/</a></p>
+<p>Comments URL: <a href="ht...*
+  📅 Sun, 15 Nov 2026 21:10:39 +0000
 
-- **[Disk encryption on NetBSD – achieving secrecy](https://netbsd.org/~nia/disk-encrypt/)**
-  *<p>Article URL: <a href="https://netbsd.org/~nia/disk-encrypt/">https://netbsd.org/~nia/disk-encrypt/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50504277">https://news.ycom...*
-  📅 Sun, 15 Nov 2026 05:29:54 +0000
+- **[Vulcan rocket fails during return-to-flight launch, 40 Amazon satellites lost](https://www.space.com/space-exploration/launches-spacecraft/ula-vulcan-centaur-return-to-flight-amazon-leo-internet-satellite-launch)**
+  *<p>Article URL: <a href="https://www.space.com/space-exploration/launches-spacecraft/ula-vulcan-centaur-return-to-flight-amazon-leo-internet-satellite-launch">https://www.space.com/space-exploration/l...*
+  📅 Sun, 15 Nov 2026 20:37:28 +0000
 
-- **[Kiri – The Modern Container Runtime](https://runkiri.com/)**
-  *<p>Article URL: <a href="https://runkiri.com/">https://runkiri.com/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50504077">https://news.ycombinator.com/item?id=50504077</a></...*
-  📅 Sun, 15 Nov 2026 04:40:41 +0000
+- **[WebGL Flight Simulator with seed generated terrain](https://baron.by.dai.studio/)**
+  *<p>Article URL: <a href="https://baron.by.dai.studio/">https://baron.by.dai.studio/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50510296">https://news.ycombinator.com/item?i...*
+  📅 Sun, 15 Nov 2026 20:20:05 +0000
 
-- **[Show HN: Turbo-Browser-MCP – Batch forms, DOM deltas and submit guards for MCP](https://github.com/Tthanh2k6/turbo-browser-mcp)**
-  *<p>Article URL: <a href="https://github.com/Tthanh2k6/turbo-browser-mcp">https://github.com/Tthanh2k6/turbo-browser-mcp</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50503930"...*
-  📅 Sun, 15 Nov 2026 04:09:11 +0000
+- **[Do House members' stock trades beat the market? A test of 8,900 trades](https://arkanumdata.com/research/house-trades)**
+  *<p>Article URL: <a href="https://arkanumdata.com/research/house-trades">https://arkanumdata.com/research/house-trades</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50510005">h...*
+  📅 Sun, 15 Nov 2026 19:46:02 +0000
 
-- **[My favourite modern NES games](https://jordi.inversethought.com/blog/25-of-my-favourite-modern-nes-games/)**
-  *<p>Article URL: <a href="https://jordi.inversethought.com/blog/25-of-my-favourite-modern-nes-games/">https://jordi.inversethought.com/blog/25-of-my-favourite-modern-nes-games/</a></p>
-<p>Comments URL:...*
-  📅 Sun, 15 Nov 2026 02:41:25 +0000
+- **[Handwriting, as a Font](https://ductus.sorenblank.com)**
+  *<p>Article URL: <a href="https://ductus.sorenblank.com">https://ductus.sorenblank.com</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50509972">https://news.ycombinator.com/item...*
+  📅 Sun, 15 Nov 2026 19:42:13 +0000
 
 ### 📑 TechCrunch
+
+- **[Is bad news for Jensen Huang also bad news for the AI industry?](https://techcrunch.com/2026/11/15/is-bad-news-for-jensen-huang-also-bad-news-for-the-ai-industry/)**
+  *"Jensen is Nvidia, right? And so much of this economy is riding on Nvidia."...*
+  📅 Sun, 15 Nov 2026 21:56:35 +0000
+
+- **[SNL gathers all the tech tycoons for a lesson in dating and spycraft](https://techcrunch.com/2026/11/15/snl-gathers-all-the-tech-tycoons-for-a-lesson-in-dating-and-spycraft/)**
+  *While awkward, creepy tech executives have become a recurring theme on Saturday Night Live, this week’s episode gave the cast a chance to show off all their impressions at once....*
+  📅 Sun, 15 Nov 2026 20:20:57 +0000
+
+- **[Flaming Hydra’s new Kickstarter campaign rethinks e-book ownership and digital lending](https://techcrunch.com/2026/11/15/flaming-hydras-new-kickstarter-campaign-rethinks-e-book-ownership-and-digital-lending/)**
+  *A new Kickstarter campaign aims to usher in the “return of the human internet.”...*
+  📅 Sun, 15 Nov 2026 18:29:14 +0000
+
+- **[TechCrunch Mobility: The Nvidia backup plan for China’s self-driving industry](https://techcrunch.com/2026/11/15/techcrunch-mobility-the-nvidia-backup-plan-for-chinas-self-driving-industry/)**
+  *Welcome back to TechCrunch Mobility, your hub for the future of transportation and now, more than ever, the role AI is playing in it....*
+  📅 Sun, 15 Nov 2026 17:05:00 +0000
+
+- **[The tech products we enthusiastically recommend this holiday season](https://techcrunch.com/2026/11/15/the-tech-products-we-enthusiastically-recommend-this-holiday-season/)**
+  *We've been reviewing a bunch of new gadgets at TechCrunch this year, and we have some clear favorites to share for your Black Friday shopping and beyond....*
+  📅 Sun, 15 Nov 2026 16:00:00 +0000
 
 - **[Where was Nvidia’s security team?](https://techcrunch.com/2026/11/14/where-was-nvidias-security-team/)**
   *Nvidia’s security chief quietly left in August, and now that CEO Jensen Huang has stepped down over his relationships, including one with an executive at a company suspected of funneling chips to Chin...*
   📅 Sun, 15 Nov 2026 00:08:07 +0000
 
-- **[Elon Musk, other tech execs sign petition calling on Nvidia to reinstate Jensen Huang](https://techcrunch.com/2026/11/14/elon-musk-other-tech-execs-sign-petition-calling-on-nvidia-to-reinstate-jensen-huang/)**
-  *The petition had attracted more than 115,000 signatures as of Saturday afternoon....*
-  📅 Sat, 14 Nov 2026 21:41:22 +0000
-
-- **[Tesla opens Cybercab pre-orders ‘for personal use,’ with geo restrictions and a $299 monthly fee](https://techcrunch.com/2026/11/14/tesla-opens-cybercab-pre-orders-for-personal-use-with-geo-restrictions-and-a-299-monthly-fee/)**
-  *Even Elon Musk said the monthly fee is "too high."...*
-  📅 Sat, 14 Nov 2026 20:04:44 +0000
-
-- **[Got an iPhone Duo? These 9 settings make it easier to use](https://techcrunch.com/2026/11/14/got-an-iphone-duo-these-9-settings-make-it-easier-to-use/)**
-  *From Touch ID shortcuts to smarter volume buttons and camera tricks, these tweaks make Apple's foldable iPhone easier to use every day....*
-  📅 Sat, 14 Nov 2026 18:00:00 +0000
-
-- **[Transportation secretary blames ‘routine’ equipment upgrade for grounding flights nationwide](https://techcrunch.com/2026/11/14/transportation-secretary-blames-routine-equipment-upgrade-for-grounding-flights-nationwide/)**
-  *FAA administrator Bryan Bedford also said there's "zero evidence of anything AI-related."...*
-  📅 Sat, 14 Nov 2026 17:45:04 +0000
-
-- **[The AI graveyard: a running list of projects and startups that didn’t make it](https://techcrunch.com/2026/11/14/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/)**
-  *From Apple's repeatedly delayed Siri AI to OpenAI's messy "super app" launch, here's a look at the AI projects that shut down or missed expectations....*
-  📅 Sat, 14 Nov 2026 17:30:00 +0000
-
 ### 📑 Dev.to
 
-- **[GitHub Actions submodule checkout failed on a private submodule](https://dev.to/kalemi/github-actions-submodule-checkout-failed-on-a-private-submodule-2jb0)**
-  *<p>GitHub Actions submodule checkout failed is a credential message rather than a git one: the outer repository clones cleanly and only the submodule fetch stops. The credential the action configured ...*
-  📅 Sun, 15 Nov 2026 13:09:29 +0000
+- **[Compiling n8n Workflow JSONs into Standalone Fastify/TypeScript Microservices (Open-Source + Client-Side Playground)](https://dev.to/rogerio_maciel_ebdfaa587e/compiling-n8n-workflow-jsons-into-standalone-fastifytypescript-microservices-open-source--2nd3)**
+  *<p>n8n is fantastic for prototyping and visual orchestration. You can wire up webhooks, databases, and LLM calls in minutes.</p>
 
-- **[The invoice scam that changes one line: why "it looks right" is not verification](https://dev.to/trampto/the-invoice-scam-that-changes-one-line-why-it-looks-right-is-not-verification-54di)**
-  *<p>A supplier sends you an invoice. Same logo, same layout, same amount, same reference. You pay it. Two weeks later the supplier calls: they never got the money.</p>
+<p>The pain starts when a workflow grows into critical production infr...*
+  📅 Sun, 15 Nov 2026 22:12:24 +0000
 
-<p>Somewhere between their outbo...*
-  📅 Sun, 15 Nov 2026 13:09:27 +0000
+- **[I killed ARTEX on my lunch break](https://dev.to/gary23w/i-killed-artex-on-my-lunch-break-30ae)**
+  *<p>I started <a href="https://github.com/gary23w/sentinels" rel="noopener noreferrer">Sentinels</a> on a lunch break. It's a host intrusion detector for Linux, macOS and Windows, written in Rust and r...*
+  📅 Sun, 15 Nov 2026 22:12:21 +0000
 
 </details>
 
@@ -119,103 +118,103 @@
 
 ### 📈 Daily Trending
 
-- **[sharpeterson08/jetbrains-dev-setup](https://github.com/sharpeterson08/jetbrains-dev-setup)** ⭐ 99
-  ![None](https://img.shields.io/badge/-None-lightgrey)
-  JetBrains IDE tuning notes — keymaps, inspections, AI assist etiquette.
+- **[YellowLaborerMarket/Gemini-Config-Checker-](https://github.com/YellowLaborerMarket/Gemini-Config-Checker-)** ⭐ 473
+  ![Makefile](https://img.shields.io/badge/-Makefile-lightgrey)
+  Chain region scanner: find proxy configs that get you into Google AI Studio and Gemini (signed-in browser check, anti-DPI, Windows/macOS/Linux/Android) 
 
-- **[gflores1762/music-streamer-plus](https://github.com/gflores1762/music-streamer-plus)** ⭐ 99
-  ![None](https://img.shields.io/badge/-None-lightgrey)
-  Desktop music streaming companion — setup guide, tips and offline notes.
+- **[WindGatorRise37/Gemini-Config-Checker-](https://github.com/WindGatorRise37/Gemini-Config-Checker-)** ⭐ 473
+  ![Makefile](https://img.shields.io/badge/-Makefile-lightgrey)
+  Chain region scanner: find proxy configs that get you into Google AI Studio and Gemini (signed-in browser check, anti-DPI, Windows/macOS/Linux/Android) 
 
-- **[paigereyes553/ios-unlock-lab](https://github.com/paigereyes553/ios-unlock-lab)** ⭐ 97
-  ![None](https://img.shields.io/badge/-None-lightgrey)
-  iOS customization lab — jailbreak-era tweak guides and device prep checklist.
+- **[WyrmClimberManacle/Gemini-Config-Checker-](https://github.com/WyrmClimberManacle/Gemini-Config-Checker-)** ⭐ 473
+  ![Makefile](https://img.shields.io/badge/-Makefile-lightgrey)
+  Chain region scanner: find proxy configs that get you into Google AI Studio and Gemini (signed-in browser check, anti-DPI, Windows/macOS/Linux/Android) 
 
-- **[hayden-lee22-hash/blockcraft-launcher-hub](https://github.com/hayden-lee22-hash/blockcraft-launcher-hub)** ⭐ 96
-  ![None](https://img.shields.io/badge/-None-lightgrey)
-  Third-party launcher overview & setup notes for Minecraft custom clients.
+- **[TurtleReside/Gemini-Config-Checker-](https://github.com/TurtleReside/Gemini-Config-Checker-)** ⭐ 473
+  ![Go](https://img.shields.io/badge/-Go-cyan)
+  Chain region scanner: find proxy configs that get you into Google AI Studio and Gemini (signed-in browser check, anti-DPI, Windows/macOS/Linux/Android) 
 
-- **[philipb7681/ableton-production-bench](https://github.com/philipb7681/ableton-production-bench)** ⭐ 96
-  ![None](https://img.shields.io/badge/-None-lightgrey)
-  Production bench for Ableton Live — racks, sampling tricks, mixdown chain.
+- **[weldbladesmithwharf/Gemini-Config-Checker-](https://github.com/weldbladesmithwharf/Gemini-Config-Checker-)** ⭐ 473
+  ![Makefile](https://img.shields.io/badge/-Makefile-lightgrey)
+  Chain region scanner: find proxy configs that get you into Google AI Studio and Gemini (signed-in browser check, anti-DPI, Windows/macOS/Linux/Android) 
 
-- **[connormartin16/win11-performance-toolkit](https://github.com/connormartin16/win11-performance-toolkit)** ⭐ 96
-  ![None](https://img.shields.io/badge/-None-lightgrey)
-  Performance tweaks & cleaner setup kit for Windows 11 gaming and everyday speed.
+- **[WindowStaffGate11/Gemini-Config-Checker-](https://github.com/WindowStaffGate11/Gemini-Config-Checker-)** ⭐ 473
+  ![Makefile](https://img.shields.io/badge/-Makefile-lightgrey)
+  Chain region scanner: find proxy configs that get you into Google AI Studio and Gemini (signed-in browser check, anti-DPI, Windows/macOS/Linux/Android) 
 
-- **[elizturner-99/photo-studio-setup-notes](https://github.com/elizturner-99/photo-studio-setup-notes)** ⭐ 95
-  ![None](https://img.shields.io/badge/-None-lightgrey)
-  Setup companion for Adobe Photoshop workflows — presets, docs and launcher.
+- **[WerewolfEmuHub/Gemini-Config-Checker-](https://github.com/WerewolfEmuHub/Gemini-Config-Checker-)** ⭐ 473
+  ![Go](https://img.shields.io/badge/-Go-cyan)
+  Chain region scanner: find proxy configs that get you into Google AI Studio and Gemini (signed-in browser check, anti-DPI, Windows/macOS/Linux/Android) 
 
-- **[cnrad/interspace](https://github.com/cnrad/interspace)** ⭐ 67
-  ![Swift](https://img.shields.io/badge/-Swift-lightgrey)
-  a fast, customizable macOS space switcher
+- **[Violetnyudress/Gemini-Config-Checker-](https://github.com/Violetnyudress/Gemini-Config-Checker-)** ⭐ 473
+  ![Go](https://img.shields.io/badge/-Go-cyan)
+  Chain region scanner: find proxy configs that get you into Google AI Studio and Gemini (signed-in browser check, anti-DPI, Windows/macOS/Linux/Android) 
 
 ### 📈 Weekly Trending
 
-- **[huamidev/GestaltX](https://github.com/huamidev/GestaltX)** ⭐ 7,684
+- **[huamidev/GestaltX](https://github.com/huamidev/GestaltX)** ⭐ 7,731
   ![Swift](https://img.shields.io/badge/-Swift-lightgrey)
   An MobileGestalt editor for iOS 27.x, featuring region-code tweaks, device presets, backups.
 
-- **[deepseek-ai/chat-demo](https://github.com/deepseek-ai/chat-demo)** ⭐ 2,160
+- **[deepseek-ai/chat-demo](https://github.com/deepseek-ai/chat-demo)** ⭐ 2,883
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   Chat Demo
 
-- **[Kianuni/Erosion-CN](https://github.com/Kianuni/Erosion-CN)** ⭐ 2,103
-  ![Swift](https://img.shields.io/badge/-Swift-lightgrey)
-  iOS / iPadOS 系统配置与 MobileGestalt 研究工具箱（简体中文防白苹果安全加固版）
-
-- **[apex-compute/ANR](https://github.com/apex-compute/ANR)** ⭐ 1,940
+- **[apex-compute/ANR](https://github.com/apex-compute/ANR)** ⭐ 2,168
   ![C++](https://img.shields.io/badge/-C++-pink)
   Apex Neural Rendering (ANR) by Apex Compute
 
-- **[FrigadeHQ/yogurt](https://github.com/FrigadeHQ/yogurt)** ⭐ 1,563
+- **[Kianuni/Erosion-CN](https://github.com/Kianuni/Erosion-CN)** ⭐ 2,124
+  ![Swift](https://img.shields.io/badge/-Swift-lightgrey)
+  iOS / iPadOS 系统配置与 MobileGestalt 研究工具箱（简体中文防白苹果安全加固版）
+
+- **[FrigadeHQ/yogurt](https://github.com/FrigadeHQ/yogurt)** ⭐ 1,630
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   Private AI meeting notes that stay on your computer. A free, open-source alternative to Granola for Mac, Windows and Linux.
 
-- **[DevedevT/FFmpeg-GUI-Editor-Windows](https://github.com/DevedevT/FFmpeg-GUI-Editor-Windows)** ⭐ 1,535
-  ![Visual Basic .NET](https://img.shields.io/badge/-Visual Basic .NET-lightgrey)
-  Lightweight portable FFmpeg GUI & lossless video trimmer for Windows (ready-to-use .exe). Supports English, Russian, Chinese, German, French & Italian.
-
-- **[HybridRobotics/supermimic](https://github.com/HybridRobotics/supermimic)** ⭐ 1,530
+- **[HybridRobotics/supermimic](https://github.com/HybridRobotics/supermimic)** ⭐ 1,551
   ![Python](https://img.shields.io/badge/-Python-blue)
   Humanoid whole-body motion tracking with one differentiable world model.
 
-- **[agentes-chat/agentes-chat](https://github.com/agentes-chat/agentes-chat)** ⭐ 1,459
+- **[agentes-chat/agentes-chat](https://github.com/agentes-chat/agentes-chat)** ⭐ 1,495
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   Open-source, self-hosted Slack alternative where your team and AI agents work together in channels and DMs. Agents run on Claude, ChatGPT/Codex, Gemini or Grok, with MCP tools, their own computer and browser, routines, memory and approvals. Web, desktop and phone apps. Docker Compose + Postgres. AGPL-3.0.
 
+- **[HolyArrs/HolyArrs](https://github.com/HolyArrs/HolyArrs)** ⭐ 1,251
+  ![Go](https://img.shields.io/badge/-Go-cyan)
+  One self-hosted app for your shows, movies and music.
+
 ### 📈 Monthly Trending
 
-- **[Gathin23/cleanyourtv](https://github.com/Gathin23/cleanyourtv)** ⭐ 58,087
+- **[Gathin23/cleanyourtv](https://github.com/Gathin23/cleanyourtv)** ⭐ 58,257
   ![Python](https://img.shields.io/badge/-Python-blue)
   Debloat any Android or Google TV over Wi-Fi and get an Apple TV-style home.
 
-- **[storytold/craft-anything](https://github.com/storytold/craft-anything)** ⭐ 33,360
+- **[storytold/craft-anything](https://github.com/storytold/craft-anything)** ⭐ 33,667
   ![Rust](https://img.shields.io/badge/-Rust-brown)
   Craft Anything: understand how any software works, and craft your own.
 
-- **[ccch1mneyyy/dsh-Go](https://github.com/ccch1mneyyy/dsh-Go)** ⭐ 23,408
+- **[ccch1mneyyy/dsh-Go](https://github.com/ccch1mneyyy/dsh-Go)** ⭐ 23,720
   ![Dart](https://img.shields.io/badge/-Dart-lightgrey)
   dsh-go — DeepSeek Harness 装进口袋：手机本机运行，也能遥控你的电脑。
 
-- **[deepseek-ai/dsh-superagent-prototype](https://github.com/deepseek-ai/dsh-superagent-prototype)** ⭐ 23,216
+- **[deepseek-ai/dsh-superagent-prototype](https://github.com/deepseek-ai/dsh-superagent-prototype)** ⭐ 23,287
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   Towards a More Autonomous Agent System
 
-- **[Zagitta/gpu-unlock](https://github.com/Zagitta/gpu-unlock)** ⭐ 19,644
+- **[Zagitta/gpu-unlock](https://github.com/Zagitta/gpu-unlock)** ⭐ 19,708
   ![C](https://img.shields.io/badge/-C-lightgrey)
   Your GeForce runs AI at half speed. This fixes it for 20/30/40 series cards. Up to 2× FP16 / BF16 / TF32 tensor throughput
 
-- **[heydamir/unslop](https://github.com/heydamir/unslop)** ⭐ 16,364
+- **[heydamir/unslop](https://github.com/heydamir/unslop)** ⭐ 16,709
   ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
   A Claude skill that turns vibecoded, AI-looking UI into a designed interface
 
-- **[pengchujin/aerial-tv](https://github.com/pengchujin/aerial-tv)** ⭐ 11,975
+- **[pengchujin/aerial-tv](https://github.com/pengchujin/aerial-tv)** ⭐ 12,014
   ![Kotlin](https://img.shields.io/badge/-Kotlin-lightgrey)
   给国产电视的一块干净桌面：参照 tvOS 设计的开源 Android TV 桌面，没有广告，开机自动接管。A tvOS-style launcher for Xiaomi, TCL and other China-market TVs.
 
-- **[anefzaoui/misterdownloadmanager](https://github.com/anefzaoui/misterdownloadmanager)** ⭐ 9,980
+- **[anefzaoui/misterdownloadmanager](https://github.com/anefzaoui/misterdownloadmanager)** ⭐ 10,303
   ![Rust](https://img.shields.io/badge/-Rust-brown)
   misterdownloadmanager: The ultimate open-source, clean-room download manager written from scratch in pure Rust for Windows, Mac, and Linux
 
@@ -223,143 +222,6 @@
 
 <details>
 <summary>Click to expand latest releases</summary>
-
-### 📦 microsoft/vscode
-
-**[1.146.0](https://github.com/microsoft/vscode/releases/tag/1.146.0)** `1.146.0`
-
-📅 Released: November 11, 2026
-
-https://code.visualstudio.com/updates/v1_146...
-
----
-
-### 📦 facebook/react
-
-**[19.3.1 (October 14th, 2026)](https://github.com/react/react/releases/tag/v19.3.1)** `v19.3.1`
-
-📅 Released: October 14, 2026
-
-## React Server Components
-
-- Improve transport protocol ([#37845](https://github.com/facebook/react/pull/37845) by @unstubbable and @eps1lon)...
-
----
-
-### 📦 angular/angular
-
-**[22.2.6](https://github.com/angular/angular/releases/tag/v22.2.6)** `v22.2.6`
-
-📅 Released: November 12, 2026
-
-### animations
-| Commit | Description |
-| -- | -- |
-| [![fix - af0c243479](https://img.shields.io/badge/af0c243479-fix-green)](https://github.com/angular/angular/commit/af0c243479ec265d1871ece2218acfe...
-
----
-
-### 📦 vuejs/vue
-
-**[v2.7.16 "Swan Song"](https://github.com/vuejs/vue/releases/tag/v2.7.16)** `v2.7.16`
-
-📅 Released: December 24, 2023
-
-**This is the final release for Vue 2.**
-
-Vue 2 will reach End of Life on December 31st, 2023. For more details, please read this [blog post](https://blog.vuejs.org/posts/vue-2-eol).
-
-Please refer...
-
----
-
-### 📦 tensorflow/tensorflow
-
-**[TensorFlow 2.21.0](https://github.com/tensorflow/tensorflow/releases/tag/v2.21.0)** `v2.21.0`
-
-📅 Released: March 06, 2026
-
-# Release 2.21.0
-
-## TensorFlow
-
-### Breaking Changes
-
-* Support for Python 3.9 has been removed starting with TF 2.21.
-* The TensorBoard (TB) dependency has been removed starting with TF 2.21....
-
----
-
-### 📦 pytorch/pytorch
-
-**[PyTorch 2.15.0 Release](https://github.com/pytorch/pytorch/releases/tag/v2.15.0)** `v2.15.0`
-
-📅 Released: October 28, 2026
-
-# PyTorch 2.15.0 Release Notes
-
-- [Highlights](#highlights)
-- [Backwards Incompatible Changes](#backwards-incompatible-changes)
-- [Deprecations](#deprecations)
-- [New Features](#new-features)
-- [Impro...
-
----
-
-### 📦 kubernetes/kubernetes
-
-**[v1.37.2](https://github.com/kubernetes/kubernetes/releases/tag/v1.37.2)** `v1.37.2`
-
-📅 Released: October 28, 2026
-
-
-See [kubernetes-announce@](https://groups.google.com/forum/#!forum/kubernetes-announce). Additional binary downloads are linked in the [CHANGELOG](https://github.com/kubernetes/kubernetes/blob/master...
-
----
-
-### 📦 docker/compose
-
-**[v5.7.1](https://github.com/docker/compose/releases/tag/v5.7.1)** `v5.7.1`
-
-📅 Released: November 11, 2026
-
-## What's Changed
-
-### Fixes 🐛
-* fix(oci): verify the manifests fetched against their digest, and take only complete cache entries by @ndeloof in https://github.com/docker/compose/pull/14490
-* fix(oci...
-
----
-
-### 📦 nodejs/node
-
-**[2026-11-12, Version 27.0.0-alpha.0.1.0 (Alpha), @aduh95](https://github.com/nodejs/node/releases/tag/v27.0.0-alpha.0.1.0)** `v27.0.0-alpha.0.1.0`
-
-📅 Released: November 12, 2026
-
-
-
-
-### Notable Changes
-
-* \[[`33d4e6c73a`](https://github.com/nodejs/node/commit/33d4e6c73a)] - **(SEMVER-MINOR)** **child\_process**: add subprocess.timedOut (Marco) [#66639](https://github.com/nodej...
-
----
-
-### 📦 rust-lang/rust
-
-**[Rust 1.100.0](https://github.com/rust-lang/rust/releases/tag/1.100.0)** `1.100.0`
-
-📅 Released: November 12, 2026
-
-<a id="1.100.0-Language"></a>
-
-## Language
-
-- [Stabilize never type](https://github.com/rust-lang/rust/pull/155499)
-- [Lint against repeated `#[repr(..)]` attributes](https://github.com/rust-lang/rust...
-
----
 
 </details>
 
@@ -486,29 +348,29 @@ See [kubernetes-announce@](https://groups.google.com/forum/#!forum/kubernetes-an
 
 | Skill | Status |
 |-------|--------|
-| Java | ⚪ Planned |
-| Python | 🟡 Learning |
-| JavaScript | 🟡 Learning |
-| TypeScript | 🔴 Beginner |
-| Go | 🟡 Learning |
+| Java | 🟢 Proficient |
+| Python | 🟢 Proficient |
+| JavaScript | 🟢 Proficient |
+| TypeScript | 🟡 Learning |
+| Go | 🔴 Beginner |
 
 ### Frameworks
 
 | Skill | Status |
 |-------|--------|
-| React | 🔴 Beginner |
+| React | 🟢 Proficient |
 | Spring Boot | 🟢 Proficient |
-| Django | 🟡 Learning |
-| Node.js | 🟢 Proficient |
-| Next.js | ⚪ Planned |
+| Django | 🔴 Beginner |
+| Node.js | 🔴 Beginner |
+| Next.js | 🟡 Learning |
 
 ### Cybersecurity
 
 | Skill | Status |
 |-------|--------|
 | Penetration Testing | ⚪ Planned |
-| Web Security | 🔴 Beginner |
-| Network Security | 🟢 Proficient |
+| Web Security | 🟡 Learning |
+| Network Security | ⚪ Planned |
 | OWASP | 🔴 Beginner |
 
 ### Ai Ml
@@ -516,29 +378,29 @@ See [kubernetes-announce@](https://groups.google.com/forum/#!forum/kubernetes-an
 | Skill | Status |
 |-------|--------|
 | Machine Learning | 🟡 Learning |
-| Deep Learning | ⚪ Planned |
-| NLP | 🟡 Learning |
-| Computer Vision | ⚪ Planned |
-| TensorFlow | 🔴 Beginner |
+| Deep Learning | 🟡 Learning |
+| NLP | ⚪ Planned |
+| Computer Vision | 🟡 Learning |
+| TensorFlow | 🟢 Proficient |
 | PyTorch | ⚪ Planned |
 
 ### Devops
 
 | Skill | Status |
 |-------|--------|
-| Docker | 🔴 Beginner |
-| Kubernetes | 🟡 Learning |
-| CI/CD | 🔴 Beginner |
-| AWS | 🟡 Learning |
-| Azure | 🔴 Beginner |
+| Docker | 🟢 Proficient |
+| Kubernetes | ⚪ Planned |
+| CI/CD | 🟡 Learning |
+| AWS | ⚪ Planned |
+| Azure | ⚪ Planned |
 
 ### Other
 
 | Skill | Status |
 |-------|--------|
 | Blockchain | 🟡 Learning |
-| Web3 | ⚪ Planned |
-| Cloud Computing | 🟢 Proficient |
+| Web3 | 🟡 Learning |
+| Cloud Computing | 🔴 Beginner |
 
 </details>
 
