@@ -46,77 +46,74 @@
 
 ### 📑 Hacker News
 
-- **[Qwen4-Max](https://qwen.ai/blog?id=qwen4-max)**
-  *<p>Article URL: <a href="https://qwen.ai/blog?id=qwen4-max">https://qwen.ai/blog?id=qwen4-max</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50513215">https://news.ycombinator....*
-  📅 Mon, 16 Nov 2026 02:14:44 +0000
+- **[The Secret ThinkPad Powerbutton Code to Bring Dead Laptops Back to Life (2007)](https://masnick.com/posts/the-secret-thinkpad-powerbutton-code-to-bring-dead-laptops-back-to-life/)**
+  *<p>Article URL: <a href="https://masnick.com/posts/the-secret-thinkpad-powerbutton-code-to-bring-dead-laptops-back-to-life/">https://masnick.com/posts/the-secret-thinkpad-powerbutton-code-to-bring-dea...*
+  📅 Mon, 16 Nov 2026 11:39:31 +0000
 
-- **[Universal XSS in uBlock Origin from website-driven element picker](https://iter.ca/post/ubo-uxss/)**
-  *<p>Article URL: <a href="https://iter.ca/post/ubo-uxss/">https://iter.ca/post/ubo-uxss/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50513160">https://news.ycombinator.com/it...*
-  📅 Mon, 16 Nov 2026 02:04:48 +0000
+- **[Coffeehouses and the Rise of Science [pdf]](https://www.monirbounadi.com/Bounadi_JMP.pdf)**
+  *<p>Article URL: <a href="https://www.monirbounadi.com/Bounadi_JMP.pdf">https://www.monirbounadi.com/Bounadi_JMP.pdf</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50516245">htt...*
+  📅 Mon, 16 Nov 2026 11:03:16 +0000
 
-- **[Coles hit by a cybersecurity incident](https://www.colesgroup.com.au/updates/)**
-  *<p>Article URL: <a href="https://www.colesgroup.com.au/updates/">https://www.colesgroup.com.au/updates/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50512824">https://news.yc...*
-  📅 Mon, 16 Nov 2026 01:14:35 +0000
+- **[It's always DNS, so why are we running our own?](https://s2.dev/blog/dns-server)**
+  *<p>Article URL: <a href="https://s2.dev/blog/dns-server">https://s2.dev/blog/dns-server</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50515616">https://news.ycombinator.com/it...*
+  📅 Mon, 16 Nov 2026 09:19:38 +0000
 
-- **[Tor Project Issues Rapid-Response DoS-Defense Fix Amid Sustained DDoS Attack](https://forum.torproject.org/t/security-release-0-4-9-17/22454)**
-  *<p>Article URL: <a href="https://forum.torproject.org/t/security-release-0-4-9-17/22454">https://forum.torproject.org/t/security-release-0-4-9-17/22454</a></p>
-<p>Comments URL: <a href="https://news.y...*
-  📅 Mon, 16 Nov 2026 00:21:54 +0000
+- **[Winudf – DVD / BluRay driver for DOS, Windows 1.x – 3x / 95 / 98 / ME](https://github.com/ages2001/WINUDF)**
+  *<p>Article URL: <a href="https://github.com/ages2001/WINUDF">https://github.com/ages2001/WINUDF</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50515182">https://news.ycombinato...*
+  📅 Mon, 16 Nov 2026 08:00:13 +0000
 
-- **[What's Next for Nvidia?](https://steveblank.com/2026/11/15/whats-next-for-nvidia/)**
-  *<p>Article URL: <a href="https://steveblank.com/2026/11/15/whats-next-for-nvidia/">https://steveblank.com/2026/11/15/whats-next-for-nvidia/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.c...*
-  📅 Sun, 15 Nov 2026 23:55:55 +0000
+- **[How Should Armies Fight?](https://worksinprogress.co/issue/the-future-of-war/)**
+  *<p>Article URL: <a href="https://worksinprogress.co/issue/the-future-of-war/">https://worksinprogress.co/issue/the-future-of-war/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id...*
+  📅 Mon, 16 Nov 2026 07:57:40 +0000
 
-- **[Mini.nvim Is Now on Tangled](https://tangled.org/nvim-mini.org/mini.nvim)**
-  *<p>Article URL: <a href="https://tangled.org/nvim-mini.org/mini.nvim">https://tangled.org/nvim-mini.org/mini.nvim</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50512231">https...*
-  📅 Sun, 15 Nov 2026 23:55:41 +0000
+- **[“…and the proof is checked in Lean”](https://xenaproject.wordpress.com/2026/11/12/and-the-proof-is-checked-in-lean/)**
+  *<p>Article URL: <a href="https://xenaproject.wordpress.com/2026/11/12/and-the-proof-is-checked-in-lean/">https://xenaproject.wordpress.com/2026/11/12/and-the-proof-is-checked-in-lean/</a></p>
+<p>Comme...*
+  📅 Mon, 16 Nov 2026 07:38:19 +0000
 
 ### 📑 TechCrunch
 
-- **[Apple launches new app to study how people use AI for health](https://techcrunch.com/2026/11/15/apple-launches-new-app-to-study-how-people-use-ai-for-health/)**
-  *Apple's new app for a study will answer everyday medical questions...*
-  📅 Mon, 16 Nov 2026 01:30:00 +0000
+- **[Mazama Energy has a solution for geothermal’s biggest drilling problem](https://techcrunch.com/2026/11/16/mazama-energy-has-a-solution-for-geothermals-biggest-drilling-problem/)**
+  *Khosla-backed Mazama Energy has developed a new way to supercool its geothermal drill bits, letting it drill faster and deeper in a quest to bring down the cost of electricity....*
+  📅 Mon, 16 Nov 2026 14:00:00 +0000
 
-- **[Indian chip startup Bharat Semi lands $24M seed round as it eyes global AI sensor market](https://techcrunch.com/2026/11/15/indian-chip-startup-bharat-semi-lands-24m-seed-round-as-it-eyes-global-ai-sensor-market/)**
-  *Bharat Semi says it has secured design wins for its AI-enabled sensor technology with companies including General Atomics....*
-  📅 Sun, 15 Nov 2026 23:30:00 +0000
+- **[After dodging death, battery startup Our Next Energy is now going public](https://techcrunch.com/2026/11/16/after-dodging-death-battery-startup-our-next-energy-is-now-going-public/)**
+  *Our Next Energy is the latest battery startup to go public via SPAC. Does it now have what it needs to survive in a the cutthroat battery industry?...*
+  📅 Mon, 16 Nov 2026 13:00:00 +0000
 
-- **[Is bad news for Jensen Huang also bad news for the AI industry?](https://techcrunch.com/2026/11/15/is-bad-news-for-jensen-huang-also-bad-news-for-the-ai-industry/)**
-  *"Jensen is Nvidia, right? And so much of this economy is riding on Nvidia."...*
-  📅 Sun, 15 Nov 2026 21:56:35 +0000
+- **[Bedrock Energy raises $24M to build more AI-enabled geothermal drill rigs for enterprise buildings](https://techcrunch.com/2026/11/16/bedrock-energy-raises-24m-to-build-more-ai-enabled-geothermal-drill-rigs-for-enterprise-buildings/)**
+  *Geothermal heat pumps could free up significant space on the grid. Bedrock Energy raised $24 million to bring its AI-guided drill rigs to more markets....*
+  📅 Mon, 16 Nov 2026 13:00:00 +0000
 
-- **[SNL gathers all the tech tycoons for a lesson in dating and spycraft](https://techcrunch.com/2026/11/15/snl-gathers-all-the-tech-tycoons-for-a-lesson-in-dating-and-spycraft/)**
-  *While awkward, creepy tech executives have become a recurring theme on Saturday Night Live, this week’s episode gave the cast a chance to show off all their impressions at once....*
-  📅 Sun, 15 Nov 2026 20:20:57 +0000
+- **[Freshworks alums raise $53M to take on Salesforce, HubSpot with AI-native CRM](https://techcrunch.com/2026/11/16/freshworks-alums-raise-53m-to-take-on-salesforce-hubspot-with-ai-native-crm/)**
+  *Dreamteam has signed up more than 100 customers across 13 countries, with some businesses switching from established CRMs....*
+  📅 Mon, 16 Nov 2026 12:30:00 +0000
 
-- **[Flaming Hydra’s new Kickstarter campaign rethinks e-book ownership and digital lending](https://techcrunch.com/2026/11/15/flaming-hydras-new-kickstarter-campaign-rethinks-e-book-ownership-and-digital-lending/)**
-  *A new Kickstarter campaign aims to usher in the “return of the human internet.”...*
-  📅 Sun, 15 Nov 2026 18:29:14 +0000
+- **[Zoox robotaxis are now on the Uber app in Las Vegas](https://techcrunch.com/2026/11/16/zoox-robotaxis-are-now-on-the-uber-app-in-las-vegas/)**
+  *This is the first time Amazon-owned Zoox has partnered with a ride-hailing platform....*
+  📅 Mon, 16 Nov 2026 12:00:00 +0000
 
-- **[TechCrunch Mobility: The Nvidia backup plan for China’s self-driving industry](https://techcrunch.com/2026/11/15/techcrunch-mobility-the-nvidia-backup-plan-for-chinas-self-driving-industry/)**
-  *Welcome back to TechCrunch Mobility, your hub for the future of transportation and now, more than ever, the role AI is playing in it....*
-  📅 Sun, 15 Nov 2026 17:05:00 +0000
+- **[Helsing backer Plural raises $1.1B to fund Europe’s next moonshots](https://techcrunch.com/2026/11/15/helsing-backer-plural-raises-1-1b-to-fund-europes-next-moonshots/)**
+  *Operator-led VC firm Plural has raised €1 billion in new capital ($1.1 billion), joining a growing cohort of larger European funds that also includes Mundi Ventures’ Kembara and EQT-managed Scaleup Eu...*
+  📅 Mon, 16 Nov 2026 07:00:00 +0000
 
 ### 📑 Dev.to
 
-- **[Static Site SEO at Scale: IndexNow, Sitemaps, and Schema.org for 600+ Pages](https://dev.to/navetteforyou/static-site-seo-at-scale-indexnow-sitemaps-and-schemaorg-for-600-pages-4fnd)**
-  *<h2>
-  
-  
-  The SEO Stack
-</h2>
+- **[54 of My First 56 Posts Went Out at the Same Minute. On the US East Coast It Was Around Midnight.](https://dev.to/dbsoul/54-of-my-first-56-posts-went-out-at-the-same-minute-on-the-us-east-coast-it-was-around-midnight-2dki)**
+  *<p><em>A field note from the autonomous Claude Code agent I run every day on one Windows PC. The numbers come from its own ledgers, not from memory.</em></p>
 
-<p>Our site generates 600+ pages across eight languages. Each page needs to be discoverable, correctly indexed with hreflang, and rich with structured data. Here is h...*
-  📅 Mon, 16 Nov 2026 03:56:01 +0000
+<p><strong>Free to read first:</strong> a...*
+  📅 Mon, 16 Nov 2026 14:10:04 +0000
 
-- **[du -sh | sort -rn Picked an 884K Camera Folder Over a 12M One: sort -n Reads the Digits, Not the Unit](https://dev.to/superfunicular/du-sh-sort-rn-picked-an-884k-camera-folder-over-a-12m-one-sort-n-reads-the-digits-not-the-3ihd)**
-  *<p>A cleanup job for a phone camera needs to know which folder of clips is using the most space, so it can prune that one first. The usual one-liner is <code>du -sh</code> piped through <code>sort -rn...*
-  📅 Mon, 16 Nov 2026 03:55:08 +0000
+- **[x402 desde las trincheras: lo que aprendimos integrando pagos agent-native en 6 repos](https://dev.to/edison_flores_6d2cd381b13/x402-desde-las-trincheras-lo-que-aprendimos-integrando-pagos-agent-native-en-6-repos-33eh)**
+  *<p>x402 es el intento del ecosistema de revivir el HTTP 402 ("Payment Required")<br />
+como protocolo de pago nativo para agentes AI: el agente paga por llamada<br />
+API sin tarjeta, sin cuenta, con ...*
+  📅 Mon, 16 Nov 2026 14:10:00 +0000
 
 </details>
 
@@ -124,105 +121,105 @@
 
 ### 📈 Daily Trending
 
-- **[InfernalCaliphShock/rob-run-cheat-tool](https://github.com/InfernalCaliphShock/rob-run-cheat-tool)** ⭐ 212
-  ![None](https://img.shields.io/badge/-None-lightgrey)
-  None
+- **[siliconjungle/shapeshift-labs-ink-studio](https://github.com/siliconjungle/shapeshift-labs-ink-studio)** ⭐ 96
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
+  Sculpting, animation and simulation toolkit for pixel-art Gaussian splats
 
-- **[Leviathanvuenergy/PhotoShop28AI-Editor](https://github.com/Leviathanvuenergy/PhotoShop28AI-Editor)** ⭐ 27
-  ![None](https://img.shields.io/badge/-None-lightgrey)
-  How to get Photoshop 28 ai (2027) latest update
+- **[scottsturrock/mate-wayland-desktop](https://github.com/scottsturrock/mate-wayland-desktop)** ⭐ 91
+  ![Shell](https://img.shields.io/badge/-Shell-lightgrey)
+  MATE Wayland Desktop: the MATE desktop on Wayland with labwc, on an Ubuntu 26.04 base. Sources and build system.
 
-- **[snwvlr/super-duper-invention](https://github.com/snwvlr/super-duper-invention)** ⭐ 5
-  ![None](https://img.shields.io/badge/-None-lightgrey)
-  None
-
-- **[pedrorgdss/dns-switcher-fedora](https://github.com/pedrorgdss/dns-switcher-fedora)** ⭐ 4
-  ![C#](https://img.shields.io/badge/-C#-lightgrey)
-  Portable DNS manager for Fedora Linux. Switch IPv4/IPv6 DNS servers, benchmark providers and flush the DNS cache. Built with C#/.NET 8 and GTK 3.
-
-- **[isod89/sloop3-fm1](https://github.com/isod89/sloop3-fm1)** ⭐ 4
-  ![C](https://img.shields.io/badge/-C-lightgrey)
-  None
-
-- **[squallsama/NotchFill](https://github.com/squallsama/NotchFill)** ⭐ 4
-  ![Swift](https://img.shields.io/badge/-Swift-lightgrey)
-  None
-
-- **[jintao0693/Prism](https://github.com/jintao0693/Prism)** ⭐ 4
+- **[waw666waw666/RegisterHub](https://github.com/waw666waw666/RegisterHub)** ⭐ 80
   ![Python](https://img.shields.io/badge/-Python-blue)
-  Prism multimodal SaaS agent
+  万能注册机模板 | Universal Auto-Registration Template
 
-- **[codeFi/clauds](https://github.com/codeFi/clauds)** ⭐ 3
-  ![Swift](https://img.shields.io/badge/-Swift-lightgrey)
-  macOS menu bar app that switches the Claude desktop app between accounts. Every account stays signed in.
+- **[Aabyss-Team/Threat-Broadcast-Plus](https://github.com/Aabyss-Team/Threat-Broadcast-Plus)** ⭐ 53
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  网络安全威胁情报播报-Plus升级版
+
+- **[SightPerfumer/Filmora16-Ai-Editor-Latest](https://github.com/SightPerfumer/Filmora16-Ai-Editor-Latest)** ⭐ 51
+  ![Go](https://img.shields.io/badge/-Go-cyan)
+  how to get Filmora 16 AI Video Editor
+
+- **[stvlynn/spines](https://github.com/stvlynn/spines)** ⭐ 47
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  Turn apps & albums into CD jewel case spines | 把 App 与专辑做成实体 CD 盒侧脊收藏图
+
+- **[nagavineerpasam/systems-to-ai-reading-map](https://github.com/nagavineerpasam/systems-to-ai-reading-map)** ⭐ 37
+  ![None](https://img.shields.io/badge/-None-lightgrey)
+  112 topics from 8 well-known engineering books, in a suggested reading order.
+
+- **[snwvlr/super-duper-invention](https://github.com/snwvlr/super-duper-invention)** ⭐ 31
+  ![None](https://img.shields.io/badge/-None-lightgrey)
+  None
 
 ### 📈 Weekly Trending
 
-- **[deepseek-ai/chat-demo](https://github.com/deepseek-ai/chat-demo)** ⭐ 3,304
+- **[deepseek-ai/chat-demo](https://github.com/deepseek-ai/chat-demo)** ⭐ 3,887
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   Chat Demo
 
-- **[apex-compute/ANR](https://github.com/apex-compute/ANR)** ⭐ 2,249
+- **[apex-compute/ANR](https://github.com/apex-compute/ANR)** ⭐ 2,388
   ![C++](https://img.shields.io/badge/-C++-pink)
   Apex Neural Rendering (ANR) by Apex Compute
 
-- **[Kianuni/Erosion-CN](https://github.com/Kianuni/Erosion-CN)** ⭐ 2,145
+- **[Kianuni/Erosion-CN](https://github.com/Kianuni/Erosion-CN)** ⭐ 2,179
   ![Swift](https://img.shields.io/badge/-Swift-lightgrey)
-  iOS / iPadOS 系统配置与 MobileGestalt 研究工具箱（简体中文防白苹果安全加固版）
+  iOS / iPadOS 系统配置与 MobileGestalt 研究工具箱（中英双语 · 防白苹果安全加固版） | Bootloop-safe iOS / iPadOS System Configuration & MobileGestalt Toolbox (Bilingual EN/ZH)
 
-- **[FrigadeHQ/yogurt](https://github.com/FrigadeHQ/yogurt)** ⭐ 1,674
-  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
-  Private AI meeting notes that stay on your computer. A free, open-source alternative to Granola for Mac, Windows and Linux.
-
-- **[HybridRobotics/supermimic](https://github.com/HybridRobotics/supermimic)** ⭐ 1,578
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  Humanoid whole-body motion tracking with one differentiable world model.
-
-- **[hitkeeen/blender-ai-mcp-addon](https://github.com/hitkeeen/blender-ai-mcp-addon)** ⭐ 1,491
+- **[hitkeeen/blender-ai-mcp-addon](https://github.com/hitkeeen/blender-ai-mcp-addon)** ⭐ 1,944
   ![None](https://img.shields.io/badge/-None-lightgrey)
   AI assistant and MCP server for Blender: visual chat, scene tools, multi-agent workflows. Works with ChatGPT/GPT, Claude, Gemini, Ollama, OpenCode. Blender AI addon, copilot for 3D, bpy Python scripting, MCP integration.
 
-- **[DevedevT/FFmpeg-GUI-Editor-Windows](https://github.com/DevedevT/FFmpeg-GUI-Editor-Windows)** ⭐ 1,230
-  ![Visual Basic .NET](https://img.shields.io/badge/-Visual Basic .NET-lightgrey)
-  Lightweight portable FFmpeg GUI & lossless video trimmer for Windows (ready-to-use .exe). Supports English, Russian, Chinese, German, French & Italian.
+- **[FrigadeHQ/yogurt](https://github.com/FrigadeHQ/yogurt)** ⭐ 1,785
+  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
+  Private AI meeting notes that stay on your computer. A free, open-source alternative to Granola for Mac, Windows and Linux.
 
-- **[Noniv/abyssal-garden](https://github.com/Noniv/abyssal-garden)** ⭐ 1,163
+- **[HybridRobotics/supermimic](https://github.com/HybridRobotics/supermimic)** ⭐ 1,646
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  Humanoid whole-body motion tracking with one differentiable world model.
+
+- **[Noniv/abyssal-garden](https://github.com/Noniv/abyssal-garden)** ⭐ 1,434
   ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
   A dreamy underwater world you can swim through in your browser: swaying kelp forests, sunbeams, a sunken ship and manta rays. Everything is generated by code with WebGPU (no images, models or sound files), all in a single 97 KB HTML file.
 
+- **[duwqijlk/muse-protocol](https://github.com/duwqijlk/muse-protocol)** ⭐ 1,357
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  muse.ai 注册与邀请码兑换协议研究（纯 HTTP Python 实现）
+
 ### 📈 Monthly Trending
 
-- **[storytold/craft-anything](https://github.com/storytold/craft-anything)** ⭐ 33,962
+- **[storytold/craft-anything](https://github.com/storytold/craft-anything)** ⭐ 34,461
   ![Rust](https://img.shields.io/badge/-Rust-brown)
   Craft Anything: understand how any software works, and craft your own.
 
-- **[ccch1mneyyy/dsh-Go](https://github.com/ccch1mneyyy/dsh-Go)** ⭐ 23,936
+- **[ccch1mneyyy/dsh-Go](https://github.com/ccch1mneyyy/dsh-Go)** ⭐ 24,498
   ![Dart](https://img.shields.io/badge/-Dart-lightgrey)
   dsh-go — DeepSeek Harness 装进口袋：手机本机运行，也能遥控你的电脑。
 
-- **[deepseek-ai/dsh-superagent-prototype](https://github.com/deepseek-ai/dsh-superagent-prototype)** ⭐ 23,338
+- **[deepseek-ai/dsh-superagent-prototype](https://github.com/deepseek-ai/dsh-superagent-prototype)** ⭐ 23,452
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   Towards a More Autonomous Agent System
 
-- **[Zagitta/gpu-unlock](https://github.com/Zagitta/gpu-unlock)** ⭐ 19,739
+- **[Zagitta/gpu-unlock](https://github.com/Zagitta/gpu-unlock)** ⭐ 19,903
   ![C](https://img.shields.io/badge/-C-lightgrey)
   Your GeForce runs AI at half speed. This fixes it for 20/30/40 series cards. Up to 2× FP16 / BF16 / TF32 tensor throughput
 
-- **[heydamir/unslop](https://github.com/heydamir/unslop)** ⭐ 16,827
+- **[heydamir/unslop](https://github.com/heydamir/unslop)** ⭐ 17,087
   ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
   A Claude skill that turns vibecoded, AI-looking UI into a designed interface
 
-- **[pengchujin/aerial-tv](https://github.com/pengchujin/aerial-tv)** ⭐ 12,068
+- **[pengchujin/aerial-tv](https://github.com/pengchujin/aerial-tv)** ⭐ 12,155
   ![Kotlin](https://img.shields.io/badge/-Kotlin-lightgrey)
   给国产电视的一块干净桌面：参照 tvOS 设计的开源 Android TV 桌面，没有广告，开机自动接管。A tvOS-style launcher for Xiaomi, TCL and other China-market TVs.
 
-- **[anefzaoui/misterdownloadmanager](https://github.com/anefzaoui/misterdownloadmanager)** ⭐ 10,554
+- **[anefzaoui/misterdownloadmanager](https://github.com/anefzaoui/misterdownloadmanager)** ⭐ 10,963
   ![Rust](https://img.shields.io/badge/-Rust-brown)
   misterdownloadmanager: The ultimate open-source, clean-room download manager written from scratch in pure Rust for Windows, Mac, and Linux
 
-- **[zortos293/Lichii](https://github.com/zortos293/Lichii)** ⭐ 9,398
-  ![C++](https://img.shields.io/badge/-C++-pink)
-  VERY experimental Nintendo Switch 2 emulator
+- **[JuneYaooo/rea-video](https://github.com/JuneYaooo/rea-video)** ⭐ 9,532
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  Reverse-engineer any video, shot by shot: filmed, AI-generated or coded, and how to remake it. Breakdowns in the open VIDEO.md format. 逆向一切视频，逐个镜头看是拍的、AI 生成的还是代码做的，再告诉你怎么复刻；拆解结果按 VIDEO.md 格式输出。
 
 ## 🚀 Latest Releases
 
@@ -491,58 +488,58 @@ See [kubernetes-announce@](https://groups.google.com/forum/#!forum/kubernetes-an
 
 | Skill | Status |
 |-------|--------|
-| Java | ⚪ Planned |
+| Java | 🟢 Proficient |
 | Python | ⚪ Planned |
-| JavaScript | ⚪ Planned |
+| JavaScript | 🟢 Proficient |
 | TypeScript | 🟢 Proficient |
-| Go | ⚪ Planned |
+| Go | 🟡 Learning |
 
 ### Frameworks
 
 | Skill | Status |
 |-------|--------|
-| React | 🟡 Learning |
-| Spring Boot | ⚪ Planned |
-| Django | ⚪ Planned |
-| Node.js | 🟡 Learning |
-| Next.js | 🟡 Learning |
+| React | 🔴 Beginner |
+| Spring Boot | 🟡 Learning |
+| Django | 🟢 Proficient |
+| Node.js | 🟢 Proficient |
+| Next.js | 🔴 Beginner |
 
 ### Cybersecurity
 
 | Skill | Status |
 |-------|--------|
-| Penetration Testing | ⚪ Planned |
-| Web Security | 🟡 Learning |
+| Penetration Testing | 🟡 Learning |
+| Web Security | ⚪ Planned |
 | Network Security | 🟡 Learning |
-| OWASP | 🔴 Beginner |
+| OWASP | 🟢 Proficient |
 
 ### Ai Ml
 
 | Skill | Status |
 |-------|--------|
-| Machine Learning | 🔴 Beginner |
+| Machine Learning | 🟡 Learning |
 | Deep Learning | 🟢 Proficient |
-| NLP | 🟢 Proficient |
+| NLP | ⚪ Planned |
 | Computer Vision | 🟢 Proficient |
-| TensorFlow | 🟢 Proficient |
-| PyTorch | 🟡 Learning |
+| TensorFlow | 🔴 Beginner |
+| PyTorch | 🔴 Beginner |
 
 ### Devops
 
 | Skill | Status |
 |-------|--------|
-| Docker | 🟢 Proficient |
+| Docker | 🟡 Learning |
 | Kubernetes | 🟡 Learning |
 | CI/CD | 🟡 Learning |
-| AWS | 🔴 Beginner |
-| Azure | 🟡 Learning |
+| AWS | 🟡 Learning |
+| Azure | 🔴 Beginner |
 
 ### Other
 
 | Skill | Status |
 |-------|--------|
-| Blockchain | 🔴 Beginner |
-| Web3 | ⚪ Planned |
+| Blockchain | 🟡 Learning |
+| Web3 | 🟢 Proficient |
 | Cloud Computing | 🔴 Beginner |
 
 </details>
