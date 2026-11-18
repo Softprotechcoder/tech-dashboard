@@ -46,77 +46,74 @@
 
 ### 📑 Hacker News
 
-- **[Can Peer Review Survive AI-Generated Text? [pdf]](https://www.sas.upenn.edu/~jesusfv/Peer_Review.pdf)**
-  *<p>Article URL: <a href="https://www.sas.upenn.edu/~jesusfv/Peer_Review.pdf">https://www.sas.upenn.edu/~jesusfv/Peer_Review.pdf</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=5...*
-  📅 Wed, 18 Nov 2026 13:51:03 +0000
+- **[Why educational system is broken](https://keycybermonk.com/edu)**
+  *<p>Article URL: <a href="https://keycybermonk.com/edu">https://keycybermonk.com/edu</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50553402">https://news.ycombinator.com/item?i...*
+  📅 Wed, 18 Nov 2026 22:42:53 +0000
 
-- **[Quad9 Is Leaving France: Why DNS Resolvers Are the Wrong Place to Fight Piracy](https://techstackups.com/articles/quad9-leaves-france-dns-blocking/)**
-  *<p>Article URL: <a href="https://techstackups.com/articles/quad9-leaves-france-dns-blocking/">https://techstackups.com/articles/quad9-leaves-france-dns-blocking/</a></p>
-<p>Comments URL: <a href="http...*
-  📅 Wed, 18 Nov 2026 13:18:02 +0000
+- **[GTA6-like as a 942Kb UEFI bootable image](https://github.com/eklavya-raj/gta6-uefi)**
+  *<p>Article URL: <a href="https://github.com/eklavya-raj/gta6-uefi">https://github.com/eklavya-raj/gta6-uefi</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50553192">https://new...*
+  📅 Wed, 18 Nov 2026 22:26:48 +0000
 
-- **[Evidence (YC S21) Is Hiring](https://www.ycombinator.com/companies/evidence/jobs/1xb9PpP-founding-gtm-lead)**
-  *<p>Article URL: <a href="https://www.ycombinator.com/companies/evidence/jobs/1xb9PpP-founding-gtm-lead">https://www.ycombinator.com/companies/evidence/jobs/1xb9PpP-founding-gtm-lead</a></p>
-<p>Comment...*
-  📅 Wed, 18 Nov 2026 12:00:16 +0000
+- **[Gemini 4 Neon](https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-neon/)**
+  *<p>Article URL: <a href="https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-neon/">https://blog.google/innovation-and-ai/models-and-research/gemini-models/int...*
+  📅 Wed, 18 Nov 2026 21:34:07 +0000
 
-- **[Show HN: Type Fighter 2](https://typefighter2.com/)**
-  *<p>Type Fighter II is an arcade inspired game for people learning to touch type.<p>Free, no account, and progress stays local. You can try on mobile, best with a physical keyboard.</p>
-<hr />
-<p>Comme...*
-  📅 Wed, 18 Nov 2026 11:11:53 +0000
+- **[Horizon Labs Report](https://horizon-labs.ai/)**
+  *<p>Article URL: <a href="https://horizon-labs.ai/">https://horizon-labs.ai/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50551509">https://news.ycombinator.com/item?id=505515...*
+  📅 Wed, 18 Nov 2026 20:12:34 +0000
 
-- **[Codeberg.org Not Reachable](https://social.anoxinon.de/@codebergstatus/117636437840688845)**
-  *<p>Article URL: <a href="https://social.anoxinon.de/@codebergstatus/117636437840688845">https://social.anoxinon.de/@codebergstatus/117636437840688845</a></p>
-<p>Comments URL: <a href="https://news.yco...*
-  📅 Wed, 18 Nov 2026 10:02:17 +0000
+- **[Search Browser – Minimalist WebKit browser with Chrome extension support](https://searchbrowser.app/)**
+  *<p>Article URL: <a href="https://searchbrowser.app/">https://searchbrowser.app/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50551398">https://news.ycombinator.com/item?id=50...*
+  📅 Wed, 18 Nov 2026 20:04:31 +0000
 
-- **[Energy-Based Reasoners: 385x more efficient inference](https://energy-based-reasoners.github.io/)**
-  *<p>Article URL: <a href="https://energy-based-reasoners.github.io/">https://energy-based-reasoners.github.io/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50543989">https://n...*
-  📅 Wed, 18 Nov 2026 09:29:32 +0000
+- **[Sexp Matrix](https://lisper.cc/ideas/entangle.html)**
+  *<p>Article URL: <a href="https://lisper.cc/ideas/entangle.html">https://lisper.cc/ideas/entangle.html</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50551359">https://news.ycom...*
+  📅 Wed, 18 Nov 2026 20:01:50 +0000
 
 ### 📑 TechCrunch
 
-- **[Nvidia clarifies when it will — and won’t —keep financing neoclouds](https://techcrunch.com/2026/11/18/nvidia-clarifies-when-it-will-and-wont-keep-financing-neoclouds/)**
-  *If Nvidia is backstopping a data center loan, it won't be on the hook unless the neocould has independent financing and gets the facility built, with Nvidia gear installed, interim CEO Colette Kress e...*
-  📅 Wed, 18 Nov 2026 13:00:00 +0000
+- **[Elon Musk says ousting Jensen Huang is like ‘kicking Michael Jordan off your team’](https://techcrunch.com/2026/11/18/elon-musk-says-ousting-jensen-huang-is-like-kicking-michael-jordan-off-your-team/)**
+  *“I don’t think [Huang is] disloyal to the United States," Musk said....*
+  📅 Wed, 18 Nov 2026 23:25:17 +0000
 
-- **[Felicis leads $7.5M bet on Unsiloed AI to make enterprise documents usable by AI agents](https://techcrunch.com/2026/11/18/felicis-leads-7-5m-bet-on-unsiloed-ai-to-make-enterprise-documents-usable-by-ai-agents/)**
-  *With a team of just seven, Unsiloed AI plans to compete with tech giants and specialized startups in the crowded AI document-processing market....*
-  📅 Wed, 18 Nov 2026 12:00:00 +0000
+- **[Microsoft CEO Satya Nadella remains confident in Nvidia after Huang’s exit](https://techcrunch.com/2026/11/18/microsoft-ceo-satya-nadella-remains-confident-in-nvidia-after-huangs-exit/)**
+  *Microsoft CEO Satya Nadella expressed confidence in Jensen Huang's successor Colette Kress, who is serving as Nvidia's interim CEO....*
+  📅 Wed, 18 Nov 2026 23:17:28 +0000
 
-- **[India’s Humyn Labs raises $47M to feed U.S. robotics companies the data they need](https://techcrunch.com/2026/11/18/accel-backs-indias-humyn-labs-to-supply-training-data-needed-by-u-s-robotics-ai-developers/)**
-  *Founded in February, Humyn Labs competes with startups including Mecka AI and XDOF, with about 90% of its revenue coming from the U.S....*
-  📅 Wed, 18 Nov 2026 11:30:00 +0000
+- **[Satya Nadella predicts AI agents will reshuffle the economics of the web](https://techcrunch.com/2026/11/18/satya-nadella-predicts-ai-agents-will-reshuffle-the-economics-of-the-web/)**
+  *Microsoft's CEO says AI agents could disrupt advertising-driven business models, forcing companies like Amazon to rethink how they compete for customers....*
+  📅 Wed, 18 Nov 2026 22:58:11 +0000
 
-- **[China dominates battery graphite, but this startup could break the monopoly](https://techcrunch.com/2026/11/18/china-dominates-battery-graphite-but-this-startup-could-break-the-monopoly/)**
-  *Chinese companies maintain near total dominance of the graphite industry, but Molten Industries says its new factory in Oakland could spell the end of the monopoly....*
-  📅 Wed, 18 Nov 2026 11:00:00 +0000
+- **[Anthropic reportedly prices IPO at $83 a share, above projected range](https://techcrunch.com/2026/11/18/anthropic-reportedly-prices-ipo-at-83-a-share-above-projected-range/)**
+  *The long-awaited IPO reportedly values the company at $1.5 trillion on a fully diluted basis....*
+  📅 Wed, 18 Nov 2026 22:11:15 +0000
 
-- **[Nvidia’s startup stakes ballooned to $65B, but Huang’s exit puts future  deals in doubt](https://techcrunch.com/2026/11/17/nvidias-startup-stakes-ballooned-to-65b-but-huangs-exit-puts-future-deals-in-doubt/)**
-  *The value of Nvidia’s private investments has nearly tripled over the past nine months, fueled by Jensen Huang’s aggressive dealmaking and rising valuations of its existing portfolio companies....*
-  📅 Wed, 18 Nov 2026 01:44:21 +0000
+- **[Palmer Luckey doesn’t deny that he’s a prepper](https://techcrunch.com/2026/11/18/palmer-luckey-doesnt-deny-that-hes-a-prepper/)**
+  *The Anduril founder said Wednesday that Americans should always have three days of food, water, and medicine — just in case....*
+  📅 Wed, 18 Nov 2026 22:04:03 +0000
 
-- **[Nvidia promises that revenue will keep soaring — for now](https://techcrunch.com/2026/11/17/nvidia-promises-that-revenue-will-keep-soaring-for-now/)**
-  *Despite the turmoil Nvidia is in after the departure of its disgraced founder and CEO Jensen Huang, the company projected that its streak of record-breaking revenue isn't about to stop....*
-  📅 Wed, 18 Nov 2026 00:16:50 +0000
+- **[Nvidia created a weird bit of intrigue by not filing a routine SEC report](https://techcrunch.com/2026/11/18/nvidia-created-a-weird-bit-of-intrigue-by-not-filing-a-routine-sec-report/)**
+  *One Wall Street analyst got to the bottom of Nvidia's surprise announcement that it wouldn't be filing its formal quarterly results document, the 10-Q, for weeks....*
+  📅 Wed, 18 Nov 2026 21:57:40 +0000
 
 ### 📑 Dev.to
 
-- **[Browser Back Button Testing: Can a Peer Return to the Same SaaS Task?](https://dev.to/urielbitton/browser-back-button-testing-can-a-peer-return-to-the-same-saas-task-4khe)**
-  *<p>Browser Back button testing should check whether someone can return to the same useful task, not merely whether the address changes. For a SaaS review queue, that means checking the filter, sort or...*
-  📅 Wed, 18 Nov 2026 14:44:33 +0000
+- **[50 Free Browser-Based Tools That Run 100% Locally (No Uploads, No Sign-Up)](https://dev.to/hamhuong/50-free-browser-based-tools-that-run-100-locally-no-uploads-no-sign-up-20b1)**
+  *<p>Why do we still upload <code>.env</code> files, production HAR traces, JWTs, bank PDFs, or client contracts to random third-party servers just to format, redact, or merge them?</p>
 
-- **[Personal data and AI: how to use AI without giving away customer data](https://dev.to/maglab/personal-data-and-ai-how-to-use-ai-without-giving-away-customer-data-56pn)**
-  *<p><strong>In short</strong></p>
+<p>Modern brows...*
+  📅 Wed, 18 Nov 2026 23:33:15 +0000
 
-<p><strong>The problem</strong></p>
-
-<ul>
-<li>Everything you send to ChatGPT, Claude or Gemini sits on these companies' servers. ChatGPT keeps a chat until you delete...*
-  📅 Wed, 18 Nov 2026 14:44:17 +0000
+- **[Claude Code 2.1.327 Fixes a Bug That Deleted .env Files in Worktrees](https://dev.to/raxxostudios/claude-code-21327-fixes-a-bug-that-deleted-env-files-in-worktrees-5787)**
+  *<ul>
+<li><p>Claude Code 2.1.327 shipped November 17 and keeps API tokens off the command line.</p></li>
+<li><p>A Remote Control bug that deleted git-ignored files like .env in worktrees is now fixed.<...*
+  📅 Wed, 18 Nov 2026 23:30:22 +0000
 
 </details>
 
@@ -124,103 +121,103 @@
 
 ### 📈 Daily Trending
 
+- **[geerlingguy/chronytop](https://github.com/geerlingguy/chronytop)** ⭐ 111
+  ![Go](https://img.shields.io/badge/-Go-cyan)
+  A TUI for chrony NTP time server monitoring
+
+- **[brandbudgietrimmer/Rob-Run-AIM](https://github.com/brandbudgietrimmer/Rob-Run-AIM)** ⭐ 101
+  ![None](https://img.shields.io/badge/-None-lightgrey)
+  Aim cheat tool for Rob Run with per-weapon presets, robrun, hack, free, money dupe, wallhack, fly, adaptive FOV, range cap, bone priority, visible-only lock and switch delay.
+
+- **[sfewer-r7/CVE-2026-123007](https://github.com/sfewer-r7/CVE-2026-123007)** ⭐ 99
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  Proof-of-concept (PoC) scripts for CVE-2026-123007, an integer underflow in NGINX HTTP/2.
+
 - **[PlasterFlashBegin/ixl-browser-automation](https://github.com/PlasterFlashBegin/ixl-browser-automation)** ⭐ 88
   ![None](https://img.shields.io/badge/-None-lightgrey)
   IXL Browser Automation is an automated script utility designed to interact with web drivers and programmatically navigate exercises on the IXL learning platform.
 
-- **[GladiatorSense/FlstudioAIproducer](https://github.com/GladiatorSense/FlstudioAIproducer)** ⭐ 78
-  ![Go](https://img.shields.io/badge/-Go-cyan)
-  How to get Fl studio Producer 2026
+- **[shdccehnbfxm/ROB-RUN-Cheats](https://github.com/shdccehnbfxm/ROB-RUN-Cheats)** ⭐ 77
+  ![HTML](https://img.shields.io/badge/-HTML-lightgrey)
+  ROB RUN mod menu
 
-- **[geerlingguy/chronytop](https://github.com/geerlingguy/chronytop)** ⭐ 78
-  ![Go](https://img.shields.io/badge/-Go-cyan)
-  A TUI for chrony NTP time server monitoring
+- **[Orbmu2k/NvidiaGsyncTweaks](https://github.com/Orbmu2k/NvidiaGsyncTweaks)** ⭐ 76
+  ![C#](https://img.shields.io/badge/-C#-lightgrey)
+  None
 
-- **[LawmakerBoil/MsOfficeLatestVersion2026](https://github.com/LawmakerBoil/MsOfficeLatestVersion2026)** ⭐ 75
-  ![Go](https://img.shields.io/badge/-Go-cyan)
-  how to get Office 2026
-
-- **[pookjw/Clocky](https://github.com/pookjw/Clocky)** ⭐ 47
+- **[pookjw/Clocky](https://github.com/pookjw/Clocky)** ⭐ 69
   ![Objective-C](https://img.shields.io/badge/-Objective-C-lightgrey)
   Present any Apple Watch face
 
-- **[cerniq/scrap-tf-raffle-bot2027](https://github.com/cerniq/scrap-tf-raffle-bot2027)** ⭐ 44
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  None
-
-- **[Zenglidescribe/nintendo-switch-yuzu-emulator-free](https://github.com/Zenglidescribe/nintendo-switch-yuzu-emulator-free)** ⭐ 40
-  ![None](https://img.shields.io/badge/-None-lightgrey)
-  Nintendo Switch Yuzu Emulator Free is an open-source emulation software written in C++ that enables users to play Nintendo Switch games on Windows, Linux, and Android devices with enhanced resolution scaling and customizable controller support.
-
-- **[Constrainttureside/rainbow-cursor](https://github.com/Constrainttureside/rainbow-cursor)** ⭐ 34
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  Just a small tool I made for myself to change mouse cursors. Generates rainbow and gradient pointers. Works on Win 10/11.
+- **[eddiezywang/wemail](https://github.com/eddiezywang/wemail)** ⭐ 68
+  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
+  Local-first AI email client
 
 ### 📈 Weekly Trending
 
-- **[deepseek-ai/chat-demo](https://github.com/deepseek-ai/chat-demo)** ⭐ 4,732
+- **[deepseek-ai/chat-demo](https://github.com/deepseek-ai/chat-demo)** ⭐ 4,817
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   Chat Demo
 
-- **[krisgfx9/Wireless-Device-Battery-Monitor](https://github.com/krisgfx9/Wireless-Device-Battery-Monitor)** ⭐ 3,606
+- **[krisgfx9/Wireless-Device-Battery-Monitor](https://github.com/krisgfx9/Wireless-Device-Battery-Monitor)** ⭐ 3,930
   ![C++](https://img.shields.io/badge/-C++-pink)
   Show the battery level of wireless mice, headsets, keyboards and controllers on the Windows 10/11 taskbar. Lightweight tray app, no vendor software needed. Supports Logitech, Razer, SteelSeries, Corsair, HyperX, Glorious, PS4/PS5 DualSense, Xbox and Bluetooth devices.
 
-- **[erkamyaman/rust-anything](https://github.com/erkamyaman/rust-anything)** ⭐ 2,663
+- **[erkamyaman/rust-anything](https://github.com/erkamyaman/rust-anything)** ⭐ 3,311
   ![Rust](https://img.shields.io/badge/-Rust-brown)
   Rewrite your whole app in Rust, one piece at a time, checked against the original's recorded behavior at every step. CLIs, HTTP servers and libraries in TypeScript, Python, C, Go, Ruby and Java.
 
-- **[Noniv/abyssal-garden](https://github.com/Noniv/abyssal-garden)** ⭐ 2,323
+- **[Noniv/abyssal-garden](https://github.com/Noniv/abyssal-garden)** ⭐ 2,390
   ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
   A dreamy underwater world you can swim through in your browser: swaying kelp forests, sunbeams, a sunken ship and manta rays. Everything is generated by code with WebGPU (no images, models or sound files), all in a single 97 KB HTML file.
 
-- **[Immortal-Protocols/lastbook](https://github.com/Immortal-Protocols/lastbook)** ⭐ 2,024
+- **[Immortal-Protocols/lastbook](https://github.com/Immortal-Protocols/lastbook)** ⭐ 2,155
   ![Python](https://img.shields.io/badge/-Python-blue)
   Offline knowledge AI, maps and videos for survival and rebuilding
 
-- **[duwqijlk/muse-protocol](https://github.com/duwqijlk/muse-protocol)** ⭐ 1,620
+- **[duwqijlk/muse-protocol](https://github.com/duwqijlk/muse-protocol)** ⭐ 1,627
   ![Python](https://img.shields.io/badge/-Python-blue)
   muse.ai 注册与邀请码兑换协议研究（纯 HTTP Python 实现）
 
-- **[ZiChuanLan/freebie-radar](https://github.com/ZiChuanLan/freebie-radar)** ⭐ 1,576
+- **[ZiChuanLan/freebie-radar](https://github.com/ZiChuanLan/freebie-radar)** ⭐ 1,614
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   白嫖与资讯资源聚合雷达：100+个源定时采集 + AI 二审过滤假福利 + 获取方式分级隔离抽奖/试用/推广 + Telegram 即时推送
 
-- **[CzzzzzzJ/mdldm-maitian](https://github.com/CzzzzzzJ/mdldm-maitian)** ⭐ 1,249
+- **[CzzzzzzJ/mdldm-maitian](https://github.com/CzzzzzzJ/mdldm-maitian)** ⭐ 1,302
   ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
   麦田：自媒体多平台发布中控与数据监控（B站/抖音/小红书/视频号/YouTube/X），飞书卡片通知 + 数据大屏
 
 ### 📈 Monthly Trending
 
-- **[storytold/craft-anything](https://github.com/storytold/craft-anything)** ⭐ 36,561
+- **[storytold/craft-anything](https://github.com/storytold/craft-anything)** ⭐ 36,984
   ![Rust](https://img.shields.io/badge/-Rust-brown)
   Craft Anything: understand how any software works, and craft your own.
 
-- **[ccch1mneyyy/dsh-Go](https://github.com/ccch1mneyyy/dsh-Go)** ⭐ 26,910
+- **[ccch1mneyyy/dsh-Go](https://github.com/ccch1mneyyy/dsh-Go)** ⭐ 27,159
   ![Dart](https://img.shields.io/badge/-Dart-lightgrey)
   dsh-go — DeepSeek Harness 装进口袋：手机本机运行，也能遥控你的电脑。
 
-- **[deepseek-ai/dsh-superagent-prototype](https://github.com/deepseek-ai/dsh-superagent-prototype)** ⭐ 23,797
+- **[deepseek-ai/dsh-superagent-prototype](https://github.com/deepseek-ai/dsh-superagent-prototype)** ⭐ 23,821
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   Towards a More Autonomous Agent System
 
-- **[heydamir/unslop](https://github.com/heydamir/unslop)** ⭐ 18,095
+- **[heydamir/unslop](https://github.com/heydamir/unslop)** ⭐ 18,272
   ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
   A Claude skill that turns vibecoded, AI-looking UI into a designed interface
 
-- **[anefzaoui/misterdownloadmanager](https://github.com/anefzaoui/misterdownloadmanager)** ⭐ 12,810
+- **[anefzaoui/misterdownloadmanager](https://github.com/anefzaoui/misterdownloadmanager)** ⭐ 12,986
   ![Rust](https://img.shields.io/badge/-Rust-brown)
   misterdownloadmanager: The ultimate open-source, clean-room download manager written from scratch in pure Rust for Windows, Mac, and Linux
 
-- **[pengchujin/aerial-tv](https://github.com/pengchujin/aerial-tv)** ⭐ 12,431
+- **[pengchujin/aerial-tv](https://github.com/pengchujin/aerial-tv)** ⭐ 12,450
   ![Kotlin](https://img.shields.io/badge/-Kotlin-lightgrey)
   给国产电视的一块干净桌面：参照 tvOS 设计的开源 Android TV 桌面，没有广告，开机自动接管。A tvOS-style launcher for Xiaomi, TCL and other China-market TVs.
 
-- **[libracoder/kiri](https://github.com/libracoder/kiri)** ⭐ 10,619
+- **[libracoder/kiri](https://github.com/libracoder/kiri)** ⭐ 10,771
   ![Rust](https://img.shields.io/badge/-Rust-brown)
   A small, fast container runtime for macOS, Windows and Linux with free Ngrok alternative
 
-- **[JuneYaooo/rea-video](https://github.com/JuneYaooo/rea-video)** ⭐ 10,579
+- **[JuneYaooo/rea-video](https://github.com/JuneYaooo/rea-video)** ⭐ 10,680
   ![Python](https://img.shields.io/badge/-Python-blue)
   Reverse-engineer any video, shot by shot: filmed, AI-generated or coded, and how to remake it. Breakdowns in the open VIDEO.md format. 逆向一切视频，逐个镜头看是拍的、AI 生成的还是代码做的，再告诉你怎么复刻；拆解结果按 VIDEO.md 格式输出。
 
@@ -253,14 +250,14 @@ https://code.visualstudio.com/updates/v1_147...
 
 ### 📦 angular/angular
 
-**[22.2.6](https://github.com/angular/angular/releases/tag/v22.2.6)** `v22.2.6`
+**[22.3.0](https://github.com/angular/angular/releases/tag/v22.3.0)** `v22.3.0`
 
-📅 Released: November 12, 2026
+📅 Released: November 18, 2026
 
-### animations
+### compiler
 | Commit | Description |
 | -- | -- |
-| [![fix - af0c243479](https://img.shields.io/badge/af0c243479-fix-green)](https://github.com/angular/angular/commit/af0c243479ec265d1871ece2218acfe...
+| [![feat - e4f67442bb](https://img.shields.io/badge/e4f67442bb-feat-blue)](https://github.com/angular/angular/commit/e4f67442bbfc0a7d29793c4ff937a517...
 
 ---
 
@@ -489,29 +486,29 @@ Sched...
 
 | Skill | Status |
 |-------|--------|
-| Java | 🟢 Proficient |
-| Python | ⚪ Planned |
+| Java | 🟡 Learning |
+| Python | 🟢 Proficient |
 | JavaScript | 🔴 Beginner |
-| TypeScript | 🟡 Learning |
-| Go | 🔴 Beginner |
+| TypeScript | ⚪ Planned |
+| Go | 🟡 Learning |
 
 ### Frameworks
 
 | Skill | Status |
 |-------|--------|
-| React | ⚪ Planned |
-| Spring Boot | 🟡 Learning |
-| Django | 🟢 Proficient |
-| Node.js | 🟡 Learning |
+| React | 🟢 Proficient |
+| Spring Boot | ⚪ Planned |
+| Django | 🟡 Learning |
+| Node.js | 🔴 Beginner |
 | Next.js | 🟡 Learning |
 
 ### Cybersecurity
 
 | Skill | Status |
 |-------|--------|
-| Penetration Testing | 🔴 Beginner |
+| Penetration Testing | 🟢 Proficient |
 | Web Security | 🟢 Proficient |
-| Network Security | 🟢 Proficient |
+| Network Security | 🔴 Beginner |
 | OWASP | 🟢 Proficient |
 
 ### Ai Ml
@@ -519,21 +516,21 @@ Sched...
 | Skill | Status |
 |-------|--------|
 | Machine Learning | 🔴 Beginner |
-| Deep Learning | 🟢 Proficient |
-| NLP | 🟢 Proficient |
-| Computer Vision | 🟢 Proficient |
-| TensorFlow | 🔴 Beginner |
+| Deep Learning | 🟡 Learning |
+| NLP | 🔴 Beginner |
+| Computer Vision | ⚪ Planned |
+| TensorFlow | 🟡 Learning |
 | PyTorch | 🟢 Proficient |
 
 ### Devops
 
 | Skill | Status |
 |-------|--------|
-| Docker | ⚪ Planned |
+| Docker | 🟢 Proficient |
 | Kubernetes | ⚪ Planned |
-| CI/CD | 🟡 Learning |
-| AWS | 🔴 Beginner |
-| Azure | ⚪ Planned |
+| CI/CD | 🔴 Beginner |
+| AWS | 🟡 Learning |
+| Azure | 🟡 Learning |
 
 ### Other
 
