@@ -46,37 +46,49 @@
 
 ### 📑 Hacker News
 
-- **[AI will not make you rich (2025)](https://colossus.com/article/ai-will-not-make-you-rich/)**
-  *<p>Article URL: <a href="https://colossus.com/article/ai-will-not-make-you-rich/">https://colossus.com/article/ai-will-not-make-you-rich/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com...*
-  📅 Thu, 19 Nov 2026 01:51:28 +0000
+- **[PHP 8.5.13](https://www.php.net/ChangeLog-8.php)**
+  *<p>Article URL: <a href="https://www.php.net/ChangeLog-8.php">https://www.php.net/ChangeLog-8.php</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50560334">https://news.ycombina...*
+  📅 Thu, 19 Nov 2026 14:09:50 +0000
 
-- **[FailTrace – Reproduce a failed GitHub Actions run locally from its URL](https://github.com/Ri4dH/failtrace)**
-  *<p>Article URL: <a href="https://github.com/Ri4dH/failtrace">https://github.com/Ri4dH/failtrace</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50554941">https://news.ycombinato...*
-  📅 Thu, 19 Nov 2026 01:30:43 +0000
+- **[Show HN: Foolscap – a writing app that reads your book and never writes for you](https://foolscap.works/)**
+  *<p>Article URL: <a href="https://foolscap.works/">https://foolscap.works/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50559749">https://news.ycombinator.com/item?id=50559749...*
+  📅 Thu, 19 Nov 2026 13:21:20 +0000
 
-- **[Unreal Tournament 2004 in the Browser](https://ut2004.dev/)**
-  *<p>Article URL: <a href="https://ut2004.dev/">https://ut2004.dev/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50554935">https://news.ycombinator.com/item?id=50554935</a></p>...*
-  📅 Thu, 19 Nov 2026 01:29:29 +0000
+- **[Making 8-page foldable zines from a single A4 sheet in the browser](https://krthr.co/paper-folds-and-whats-new-in-fanzines-app/)**
+  *<p>Article URL: <a href="https://krthr.co/paper-folds-and-whats-new-in-fanzines-app/">https://krthr.co/paper-folds-and-whats-new-in-fanzines-app/</a></p>
+<p>Comments URL: <a href="https://news.ycombin...*
+  📅 Thu, 19 Nov 2026 13:18:11 +0000
 
-- **[Previous-Token Prediction Based LLM Inversion for Prompt Reconstruction](https://arxiv.org/abs/2607.29378)**
-  *<p>Article URL: <a href="https://arxiv.org/abs/2607.29378">https://arxiv.org/abs/2607.29378</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50554908">https://news.ycombinator.co...*
-  📅 Thu, 19 Nov 2026 01:27:02 +0000
+- **[Unblockable communication with gravity – Science Advances](https://www.science.org/doi/10.1126/sciadv.aee0802)**
+  *<p>Article URL: <a href="https://www.science.org/doi/10.1126/sciadv.aee0802">https://www.science.org/doi/10.1126/sciadv.aee0802</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=5...*
+  📅 Thu, 19 Nov 2026 12:22:00 +0000
 
-- **[Gemini 4 Neon looks like an Opus 5.5 competitor](https://micjm.com/blog/gemini-4-neon-looks-like-a-top-model/)**
-  *<p>Article URL: <a href="https://micjm.com/blog/gemini-4-neon-looks-like-a-top-model/">https://micjm.com/blog/gemini-4-neon-looks-like-a-top-model/</a></p>
-<p>Comments URL: <a href="https://news.ycomb...*
-  📅 Thu, 19 Nov 2026 00:29:45 +0000
+- **[Someone reported java4shell bug in September 2026](https://github.com/openjdk/jdk/pull/32781)**
+  *<p>Article URL: <a href="https://github.com/openjdk/jdk/pull/32781">https://github.com/openjdk/jdk/pull/32781</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50558906">https://n...*
+  📅 Thu, 19 Nov 2026 11:47:03 +0000
 
-- **[We need smart people who give a shit](https://violetpixel.com/blog/2026-11-17-we-need-smart-people-who-give-a-shit/)**
-  *<p>Article URL: <a href="https://violetpixel.com/blog/2026-11-17-we-need-smart-people-who-give-a-shit/">https://violetpixel.com/blog/2026-11-17-we-need-smart-people-who-give-a-shit/</a></p>
-<p>Comment...*
-  📅 Wed, 18 Nov 2026 23:53:49 +0000
+- **[Two stealth models just appeared on the leaderboard, both ahead of Fable 5.2](https://contralabs.com/frontierdesign)**
+  *<p>Article URL: <a href="https://contralabs.com/frontierdesign">https://contralabs.com/frontierdesign</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50558559">https://news.ycom...*
+  📅 Thu, 19 Nov 2026 11:03:20 +0000
 
 ### 📑 TechCrunch
+
+- **[Anthropic’s IPO puts AI’s circular financing boom to the test](https://techcrunch.com/2026/11/19/anthropics-ipo-puts-ais-circular-financing-boom-to-the-test/)**
+  *Anthropic faces enormous compute commitments as it goes public, but its biggest infrastructure partners, including Amazon and Google, could continue profiting from AI even if Anthropic loses its lead....*
+  📅 Thu, 19 Nov 2026 14:54:39 +0000
+
+- **[Nimble enters the item-tracking market with eco-friendly luggage tags and keychains](https://techcrunch.com/2026/11/19/nimble-enters-the-item-tracking-market-with-eco-friendly-luggage-tags-and-keychains/)**
+  *As Google takes on Apple in the item-tracking market, Nimble is hoping its trackable wallets, keychains, luggage tags, and passport covers stand out....*
+  📅 Thu, 19 Nov 2026 14:00:00 +0000
+
+- **[Superhuman pushes its Go assistant everywhere](https://techcrunch.com/2026/11/19/superhuman-pushes-its-go-assistant-everywhere/)**
+  *Superhuman is making Go its central agent and making it available in Docs and Mail...*
+  📅 Thu, 19 Nov 2026 14:00:00 +0000
 
 - **[Microsoft CEO Satya Nadella explains why he asked 60K employees to quit](https://techcrunch.com/2026/11/18/microsoft-ceo-satya-nadella-explains-why-he-asked-60k-employees-to-quit/)**
   *Microsoft CEO Satya Nadella explained why he offered buyouts to 60,000 of his employees in October, essentially urging them to voluntarily quit, rather than reducing the workforce via another massive ...*
@@ -90,27 +102,17 @@
   *The Microsoft CEO downplayed the recent Outlook outage while noting that AI was causing both opportunities and new challenges for securing much of the connected world....*
   📅 Wed, 18 Nov 2026 23:45:00 +0000
 
-- **[Elon Musk says ousting Jensen Huang is like ‘kicking Michael Jordan off your team’](https://techcrunch.com/2026/11/18/elon-musk-says-ousting-jensen-huang-is-like-kicking-michael-jordan-off-your-team/)**
-  *“I don’t think [Huang is] disloyal to the United States," Musk said....*
-  📅 Wed, 18 Nov 2026 23:25:17 +0000
-
-- **[Microsoft CEO Satya Nadella remains confident in Nvidia after Huang’s exit](https://techcrunch.com/2026/11/18/microsoft-ceo-satya-nadella-remains-confident-in-nvidia-after-huangs-exit/)**
-  *Microsoft CEO Satya Nadella expressed confidence in Jensen Huang's successor Colette Kress, who is serving as Nvidia's interim CEO....*
-  📅 Wed, 18 Nov 2026 23:17:28 +0000
-
-- **[Satya Nadella predicts AI agents will reshuffle the economics of the web](https://techcrunch.com/2026/11/18/satya-nadella-predicts-ai-agents-will-reshuffle-the-economics-of-the-web/)**
-  *Microsoft's CEO says AI agents could disrupt advertising-driven business models, forcing companies like Amazon to rethink how they compete for customers....*
-  📅 Wed, 18 Nov 2026 22:58:11 +0000
-
 ### 📑 Dev.to
 
-- **[What is involuntary churn, and how do you measure it in Stripe?](https://dev.to/2pizza/what-is-involuntary-churn-and-how-do-you-measure-it-in-stripe-2h3l)**
-  *<p>Involuntary churn is the revenue you lose when a customer did not decide to leave. The card failed, nobody got them to fix it, and the subscription ended. You can measure it from Stripe data alone,...*
-  📅 Thu, 19 Nov 2026 05:02:34 +0000
+- **[Best Open Source CNAPP Tools](https://dev.to/offload-security/best-open-source-cnapp-tools-39b8)**
+  *<p>Cloud security teams rarely have a shortage of scanners. The harder problem is turning findings from cloud infrastructure, containers, Kubernetes, code, identities, and workloads into something tea...*
+  📅 Thu, 19 Nov 2026 14:52:22 +0000
 
-- **[I missed the HackerRank Orchestrate deadline, so here is the Ghost Data solution I never submitted](https://dev.to/ayush_pangaonkar/i-missed-the-hackerrank-orchestrate-deadline-so-here-is-the-ghost-data-solution-i-never-submitted-1lnf)**
-  *<p><a class="article-body-image-wrapper" href="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads...*
-  📅 Thu, 19 Nov 2026 05:02:30 +0000
+- **[86 videos, 34,845 views, and 0 of my 314 posts link to the channel](https://dev.to/cryptopunk_dz2_bd054446a6/86-videos-34845-views-and-0-of-my-314-posts-link-to-the-channel-4dpo)**
+  *<p><strong>"I want to build up my presence in short video." The presence already exists: 86 videos, 34,845 views. And not one of 314 posts has ever linked to the channel</strong></p>
+
+<p>Anton says he...*
+  📅 Thu, 19 Nov 2026 14:51:38 +0000
 
 </details>
 
@@ -118,105 +120,105 @@
 
 ### 📈 Daily Trending
 
-- **[flex36ty/switch2-gamevault](https://github.com/flex36ty/switch2-gamevault)** ⭐ 23
-  ![C++](https://img.shields.io/badge/-C++-pink)
-  Game Vault for Switch 2 — game and save backup/restore, decrypted backups, USB MTP, FTP and SMB storage.
+- **[duwqijlk/google-trial-tool](https://github.com/duwqijlk/google-trial-tool)** ⭐ 135
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
+  None
 
-- **[PedroMarinhoDev/ComfyUI-H3-Image-EasyFix](https://github.com/PedroMarinhoDev/ComfyUI-H3-Image-EasyFix)** ⭐ 9
+- **[MilliMailmanOverpass/KytyPS5-Enhanced](https://github.com/MilliMailmanOverpass/KytyPS5-Enhanced)** ⭐ 131
+  ![None](https://img.shields.io/badge/-None-lightgrey)
+  Enhanced KytyPS5 PS5 emulator with launcher, shader cache, frame pacing and per-game profiles. Tuned for Grand Theft Auto VI on Windows. Bring your own legally dumped game.
+
+- **[PolygonMaintenance/FlstudioAIproducer](https://github.com/PolygonMaintenance/FlstudioAIproducer)** ⭐ 85
+  ![Go](https://img.shields.io/badge/-Go-cyan)
+  How to get Fl studio Producer 2026
+
+- **[MSNightmare/FastUnlock](https://github.com/MSNightmare/FastUnlock)** ⭐ 77
+  ![None](https://img.shields.io/badge/-None-lightgrey)
+  FastUnlock : Windows Narrator LockScreen Bypass 0day Vulnerability
+
+- **[iamajmeena/neonclipping](https://github.com/iamajmeena/neonclipping)** ⭐ 71
   ![Python](https://img.shields.io/badge/-Python-blue)
-  Cleaner MiniMax-H3-Image text-to-image in ComfyUI: Steering and a Re-Noise Sampler against grainy fine texture, and a Resolution Selector up to 256 MP.
+  Paste a link, get captioned 9:16 clips in ~2 min. Free, local, open-source clipping engine (audio-first, YouTube captions, local LLM).
 
-- **[pal815/antigravity-ko](https://github.com/pal815/antigravity-ko)** ⭐ 8
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
-  Natural Korean UI localization patch and update-resilient smart launcher for Antigravity 2.0 Desktop App (Windows)
+- **[setyamickala/airdrop-agent](https://github.com/setyamickala/airdrop-agent)** ⭐ 68
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  Autonomous airdrop operator: identities, wallets, socials, testnets, quests, radar — guarded CLI + MCP
 
-- **[oxbaimao/whitecat-tg-assistant-commercial-build](https://github.com/oxbaimao/whitecat-tg-assistant-commercial-build)** ⭐ 6
-  ![None](https://img.shields.io/badge/-None-lightgrey)
-  None
+- **[emblembathollow/MsOfficeLatestVersion2026](https://github.com/emblembathollow/MsOfficeLatestVersion2026)** ⭐ 65
+  ![Go](https://img.shields.io/badge/-Go-cyan)
+  how to get Office 2026
 
-- **[kodewala-academy/25th_Aug_2026_Offline](https://github.com/kodewala-academy/25th_Aug_2026_Offline)** ⭐ 6
-  ![Java](https://img.shields.io/badge/-Java-orange)
-  None
-
-- **[Swisha33/NFSCVita](https://github.com/Swisha33/NFSCVita)** ⭐ 6
-  ![C++](https://img.shields.io/badge/-C++-pink)
-  Need for Speed Carbon (PC v1.4) on the PS Vita: static recompilation of your own NFSC.exe with a sceGxm renderer. Unofficial fan port; you need your own copy of the game.
-
-- **[VD171/VDLiveUpdate](https://github.com/VD171/VDLiveUpdate)** ⭐ 6
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
-  VDLU - a flashless, incremental self-update engine for KernelSU/APatch/Magisk modules
-
-- **[hariipunk/CloneHI](https://github.com/hariipunk/CloneHI)** ⭐ 5
-  ![None](https://img.shields.io/badge/-None-lightgrey)
-  None
+- **[KJGX66F/unikraft-xray-node](https://github.com/KJGX66F/unikraft-xray-node)** ⭐ 53
+  ![Shell](https://img.shields.io/badge/-Shell-lightgrey)
+  Unikraft Cloud xray VLESS node: WS primary + XHTTP backup, direct + Cloudflare dual links. GitHub Actions builds the image to GHCR; fork and build your own.
 
 ### 📈 Weekly Trending
 
-- **[krisgfx9/Wireless-Device-Battery-Monitor](https://github.com/krisgfx9/Wireless-Device-Battery-Monitor)** ⭐ 4,124
-  ![C++](https://img.shields.io/badge/-C++-pink)
-  Show the battery level of wireless mice, headsets, keyboards and controllers on the Windows 10/11 taskbar. Lightweight tray app, no vendor software needed. Supports Logitech, Razer, SteelSeries, Corsair, HyperX, Glorious, PS4/PS5 DualSense, Xbox and Bluetooth devices.
-
-- **[erkamyaman/rust-anything](https://github.com/erkamyaman/rust-anything)** ⭐ 3,634
+- **[erkamyaman/rust-anything](https://github.com/erkamyaman/rust-anything)** ⭐ 4,539
   ![Rust](https://img.shields.io/badge/-Rust-brown)
   Rewrite your whole app in Rust, one piece at a time, checked against the original's recorded behavior at every step. CLIs, HTTP servers and libraries in TypeScript, Python, C, Go, Ruby and Java.
 
-- **[duwqijlk/muse-protocol](https://github.com/duwqijlk/muse-protocol)** ⭐ 1,631
+- **[krisgfx9/Wireless-Device-Battery-Monitor](https://github.com/krisgfx9/Wireless-Device-Battery-Monitor)** ⭐ 4,420
+  ![C++](https://img.shields.io/badge/-C++-pink)
+  Show the battery level of wireless mice, headsets, keyboards and controllers on the Windows 10/11 taskbar. Lightweight tray app, no vendor software needed. Supports Logitech, Razer, SteelSeries, Corsair, HyperX, Glorious, PS4/PS5 DualSense, Xbox and Bluetooth devices.
+
+- **[gylive/google-ultra](https://github.com/gylive/google-ultra)** ⭐ 2,407
   ![Python](https://img.shields.io/badge/-Python-blue)
-  muse.ai 注册与邀请码兑换协议研究（纯 HTTP Python 实现）
+  None
 
-- **[CzzzzzzJ/mdldm-maitian](https://github.com/CzzzzzzJ/mdldm-maitian)** ⭐ 1,380
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
-  麦田：自媒体多平台发布中控与数据监控（B站/抖音/小红书/视频号/YouTube/X），飞书卡片通知 + 数据大屏
-
-- **[Hut-hzf/ung220z-tool](https://github.com/Hut-hzf/ung220z-tool)** ⭐ 1,374
+- **[Hut-hzf/ung220z-tool](https://github.com/Hut-hzf/ung220z-tool)** ⭐ 1,669
   ![Python](https://img.shields.io/badge/-Python-blue)
   ung220z-tool 是一个针对 UNG220Z（九联/Unionman 中国移动光猫）的一键凭据提取工具，仅限在你自己的设备上用于找回忘记的管理密码、迁移宽带配置或安全自查。
 
-- **[sybil-solutions/inference-optimisation-skill](https://github.com/sybil-solutions/inference-optimisation-skill)** ⭐ 1,146
+- **[duwqijlk/muse-protocol](https://github.com/duwqijlk/muse-protocol)** ⭐ 1,646
   ![Python](https://img.shields.io/badge/-Python-blue)
-  Agent skill for hill-climbing local LLM serving speed (decode, speculative decoding, prefill, KV, startup, TTFT) on any hardware and quantization
+  muse.ai 注册与邀请码兑换协议研究（纯 HTTP Python 实现）
 
-- **[haziqahmedqasmi/PeakCut](https://github.com/haziqahmedqasmi/PeakCut)** ⭐ 1,123
+- **[CzzzzzzJ/mdldm-maitian](https://github.com/CzzzzzzJ/mdldm-maitian)** ⭐ 1,555
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
+  麦田：自媒体多平台发布中控与数据监控（B站/抖音/小红书/视频号/YouTube/X），飞书卡片通知 + 数据大屏
+
+- **[haziqahmedqasmi/PeakCut](https://github.com/haziqahmedqasmi/PeakCut)** ⭐ 1,226
   ![Python](https://img.shields.io/badge/-Python-blue)
   AI clipping for long videos and live streams. Self-hosted, bring your own AI key.
 
-- **[joshpuckett/allo](https://github.com/joshpuckett/allo)** ⭐ 1,060
+- **[sybil-solutions/inference-optimisation-skill](https://github.com/sybil-solutions/inference-optimisation-skill)** ⭐ 1,202
   ![Python](https://img.shields.io/badge/-Python-blue)
-  Allo is your friendly neighborhood typeface, free and open source
+  Agent skill for hill-climbing local LLM serving speed (decode, speculative decoding, prefill, KV, startup, TTFT) on any hardware and quantization
 
 ### 📈 Monthly Trending
 
-- **[storytold/craft-anything](https://github.com/storytold/craft-anything)** ⭐ 37,344
+- **[storytold/craft-anything](https://github.com/storytold/craft-anything)** ⭐ 38,033
   ![Rust](https://img.shields.io/badge/-Rust-brown)
   Craft Anything: understand how any software works, and craft your own.
 
-- **[ccch1mneyyy/dsh-Go](https://github.com/ccch1mneyyy/dsh-Go)** ⭐ 27,407
+- **[ccch1mneyyy/dsh-Go](https://github.com/ccch1mneyyy/dsh-Go)** ⭐ 27,959
   ![Dart](https://img.shields.io/badge/-Dart-lightgrey)
   dsh-go — DeepSeek Harness 装进口袋：手机本机运行，也能遥控你的电脑。
 
-- **[deepseek-ai/dsh-superagent-prototype](https://github.com/deepseek-ai/dsh-superagent-prototype)** ⭐ 23,863
+- **[deepseek-ai/dsh-superagent-prototype](https://github.com/deepseek-ai/dsh-superagent-prototype)** ⭐ 23,937
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   Towards a More Autonomous Agent System
 
-- **[heydamir/unslop](https://github.com/heydamir/unslop)** ⭐ 18,358
+- **[heydamir/unslop](https://github.com/heydamir/unslop)** ⭐ 18,536
   ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
   A Claude skill that turns vibecoded, AI-looking UI into a designed interface
 
-- **[anefzaoui/misterdownloadmanager](https://github.com/anefzaoui/misterdownloadmanager)** ⭐ 13,213
+- **[anefzaoui/misterdownloadmanager](https://github.com/anefzaoui/misterdownloadmanager)** ⭐ 13,578
   ![Rust](https://img.shields.io/badge/-Rust-brown)
   misterdownloadmanager: The ultimate open-source, clean-room download manager written from scratch in pure Rust for Windows, Mac, and Linux
 
-- **[libracoder/kiri](https://github.com/libracoder/kiri)** ⭐ 10,883
+- **[libracoder/kiri](https://github.com/libracoder/kiri)** ⭐ 11,090
   ![Rust](https://img.shields.io/badge/-Rust-brown)
   A small, fast container runtime for macOS, Windows and Linux with free Ngrok alternative
 
-- **[JuneYaooo/rea-video](https://github.com/JuneYaooo/rea-video)** ⭐ 10,768
+- **[JuneYaooo/rea-video](https://github.com/JuneYaooo/rea-video)** ⭐ 10,923
   ![Python](https://img.shields.io/badge/-Python-blue)
   Reverse-engineer any video, shot by shot: filmed, AI-generated or coded, and how to remake it. Breakdowns in the open VIDEO.md format. 逆向一切视频，逐个镜头看是拍的、AI 生成的还是代码做的，再告诉你怎么复刻；拆解结果按 VIDEO.md 格式输出。
 
-- **[janestreet/agent_skills](https://github.com/janestreet/agent_skills)** ⭐ 10,142
-  ![None](https://img.shields.io/badge/-None-lightgrey)
-  Agent skills
+- **[Minireel/HGhub](https://github.com/Minireel/HGhub)** ⭐ 10,271
+  ![Rust](https://img.shields.io/badge/-Rust-brown)
+  Plug-in media player
 
 ## 🚀 Latest Releases
 
@@ -483,11 +485,11 @@ Sched...
 
 | Skill | Status |
 |-------|--------|
-| Java | 🟡 Learning |
-| Python | ⚪ Planned |
-| JavaScript | 🟢 Proficient |
-| TypeScript | ⚪ Planned |
-| Go | ⚪ Planned |
+| Java | ⚪ Planned |
+| Python | 🟡 Learning |
+| JavaScript | 🔴 Beginner |
+| TypeScript | 🟡 Learning |
+| Go | 🟢 Proficient |
 
 ### Frameworks
 
@@ -495,47 +497,47 @@ Sched...
 |-------|--------|
 | React | 🟡 Learning |
 | Spring Boot | 🔴 Beginner |
-| Django | 🟢 Proficient |
-| Node.js | 🟡 Learning |
-| Next.js | 🟡 Learning |
+| Django | 🟡 Learning |
+| Node.js | 🔴 Beginner |
+| Next.js | 🔴 Beginner |
 
 ### Cybersecurity
 
 | Skill | Status |
 |-------|--------|
 | Penetration Testing | 🟢 Proficient |
-| Web Security | ⚪ Planned |
+| Web Security | 🔴 Beginner |
 | Network Security | 🔴 Beginner |
-| OWASP | 🟢 Proficient |
+| OWASP | 🟡 Learning |
 
 ### Ai Ml
 
 | Skill | Status |
 |-------|--------|
-| Machine Learning | 🔴 Beginner |
-| Deep Learning | 🟡 Learning |
-| NLP | 🟢 Proficient |
-| Computer Vision | 🟢 Proficient |
-| TensorFlow | 🟡 Learning |
-| PyTorch | 🟡 Learning |
+| Machine Learning | 🟡 Learning |
+| Deep Learning | 🔴 Beginner |
+| NLP | 🔴 Beginner |
+| Computer Vision | ⚪ Planned |
+| TensorFlow | 🔴 Beginner |
+| PyTorch | ⚪ Planned |
 
 ### Devops
 
 | Skill | Status |
 |-------|--------|
-| Docker | 🟡 Learning |
-| Kubernetes | 🟢 Proficient |
-| CI/CD | 🟢 Proficient |
-| AWS | ⚪ Planned |
+| Docker | ⚪ Planned |
+| Kubernetes | ⚪ Planned |
+| CI/CD | 🟡 Learning |
+| AWS | 🔴 Beginner |
 | Azure | ⚪ Planned |
 
 ### Other
 
 | Skill | Status |
 |-------|--------|
-| Blockchain | 🟡 Learning |
-| Web3 | 🟢 Proficient |
-| Cloud Computing | 🟡 Learning |
+| Blockchain | 🟢 Proficient |
+| Web3 | 🔴 Beginner |
+| Cloud Computing | 🔴 Beginner |
 
 </details>
 
