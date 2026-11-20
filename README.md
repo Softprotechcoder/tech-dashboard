@@ -46,74 +46,82 @@
 
 ### 📑 Hacker News
 
-- **[Anthropic employee claims general proof of the Riemann Hypothesis [pdf]](https://alpo.ge/remark.pdf)**
-  *<p>Article URL: <a href="https://alpo.ge/remark.pdf">https://alpo.ge/remark.pdf</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50574968">https://news.ycombinator.com/item?id=50...*
-  📅 Fri, 20 Nov 2026 14:16:21 +0000
+- **[NINLIVE: The Nine Inch Nails live archive](https://ninlive.com/)**
+  *<p>Article URL: <a href="https://ninlive.com/">https://ninlive.com/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50583274">https://news.ycombinator.com/item?id=50583274</a></...*
+  📅 Fri, 20 Nov 2026 22:30:47 +0000
 
-- **[Llms.txt and MCP didn't move the needle](https://backpackforlaravel.com/articles/opinions/llms-txt-and-mcp-didn-t-move-the-needle-for-us-here-s-what-did)**
-  *<p>Article URL: <a href="https://backpackforlaravel.com/articles/opinions/llms-txt-and-mcp-didn-t-move-the-needle-for-us-here-s-what-did">https://backpackforlaravel.com/articles/opinions/llms-txt-and-...*
-  📅 Fri, 20 Nov 2026 14:00:23 +0000
+- **[Nasdaq erases all 2026 gains](https://www.cnbc.com/2026/11/19/stock-market-today-live-updates.html)**
+  *<p>Article URL: <a href="https://www.cnbc.com/2026/11/19/stock-market-today-live-updates.html">https://www.cnbc.com/2026/11/19/stock-market-today-live-updates.html</a></p>
+<p>Comments URL: <a href="ht...*
+  📅 Fri, 20 Nov 2026 22:29:06 +0000
 
-- **[Global stock markets slump as Anthropic's record IPO fails to stem AI sell-off](https://www.theguardian.com/business/2026/nov/20/global-stock-markets-slump-anthropic-ipo-ai-sell-off)**
-  *<p>Article URL: <a href="https://www.theguardian.com/business/2026/nov/20/global-stock-markets-slump-anthropic-ipo-ai-sell-off">https://www.theguardian.com/business/2026/nov/20/global-stock-markets-sl...*
-  📅 Fri, 20 Nov 2026 13:29:59 +0000
+- **[The Hungry Butler Effect: Concealed Commercial Incentives in LLMs](https://www.researchgate.net/publication/418143113_The_Hungry_Butler_Effect_Concealed_Commercial_Incentives_and_the_Erosion_of_Epistemic_Rigour_in_Large_Language_Models)**
+  *<p>Article URL: <a href="https://www.researchgate.net/publication/418143113_The_Hungry_Butler_Effect_Concealed_Commercial_Incentives_and_the_Erosion_of_Epistemic_Rigour_in_Large_Language_Models">https...*
+  📅 Fri, 20 Nov 2026 22:18:20 +0000
 
-- **[If you stop writing code, you also get worse at reviewing it](https://cekrem.github.io/posts/if-you-stop-writing-code-you-also-get-worse-at-reviewing-it/)**
-  *<p>Article URL: <a href="https://cekrem.github.io/posts/if-you-stop-writing-code-you-also-get-worse-at-reviewing-it/">https://cekrem.github.io/posts/if-you-stop-writing-code-you-also-get-worse-at-revi...*
-  📅 Fri, 20 Nov 2026 12:41:38 +0000
+- **[A few hours ago Google DeepMind created a math horizon repo](https://github.com/google-deepmind/math-horizon)**
+  *<p>Article URL: <a href="https://github.com/google-deepmind/math-horizon">https://github.com/google-deepmind/math-horizon</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=5058262...*
+  📅 Fri, 20 Nov 2026 21:42:21 +0000
 
-- **[Epic Games Turns to AI Coding for the Unreal Engine](https://spectrum.ieee.org/epic-games-unreal-engine-ai)**
-  *<p>Article URL: <a href="https://spectrum.ieee.org/epic-games-unreal-engine-ai">https://spectrum.ieee.org/epic-games-unreal-engine-ai</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/ite...*
-  📅 Fri, 20 Nov 2026 12:16:36 +0000
+- **[Nvidia accounting under SEC investigation, sources say](https://finance.yahoo.com/markets/article/nvidia-stock-extends-25-trillion-rout-as-sec-probe-reportedly-investigates-its-accounting-194945274.html)**
+  *<p>Article URL: <a href="https://finance.yahoo.com/markets/article/nvidia-stock-extends-25-trillion-rout-as-sec-probe-reportedly-investigates-its-accounting-194945274.html">https://finance.yahoo.com/m...*
+  📅 Fri, 20 Nov 2026 20:22:41 +0000
 
-- **[The Making of Oxygene](https://jeanmicheljarre.com/aaa/the-making-of-oxygene)**
-  *<p>Article URL: <a href="https://jeanmicheljarre.com/aaa/the-making-of-oxygene">https://jeanmicheljarre.com/aaa/the-making-of-oxygene</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/ite...*
-  📅 Fri, 20 Nov 2026 10:41:10 +0000
+- **[Show HN: OpenComputer – an open source alternative to Devin](https://github.com/diggerhq/opencomputer)**
+  *<p>Hi HN!<p>Utpal here, I'm one of the founders of OpenComputer.<p>OpenComputer is an open source cloud coding agent for teams that can run in your own cloud account (AWS, GCP, Azure).<p>We run the ag...*
+  📅 Fri, 20 Nov 2026 20:19:56 +0000
 
 ### 📑 TechCrunch
 
-- **[Six AI-powered gadgets that could make your home office smarter](https://techcrunch.com/2026/11/20/6-ai-powered-gadgets-that-could-make-your-home-office-smarter/)**
-  *From notetakers to webcams, here are six AI-powered gadgets to upgrade your workspace....*
-  📅 Fri, 20 Nov 2026 14:00:00 +0000
+- **[Experts warn: Nearly everyone in AI is susceptible to a honey-trap scheme right now](https://techcrunch.com/2026/11/20/experts-warn-nearly-everyone-in-ai-is-susceptible-to-a-honey-trap-scheme-right-now/)**
+  *Techies are building technology that can advance all aspects of the world — but can they protect their hearts? That's the vulnerability that honey pots exploit....*
+  📅 Fri, 20 Nov 2026 20:58:29 +0000
 
-- **[Behind Jensen Huang’s exit, questions about a management style reportedly built on fear](https://techcrunch.com/2026/11/20/behind-jensen-huangs-exit-questions-about-a-management-style-reportedly-built-on-fear/)**
-  *Elon Musk may have been overstating it when he said Nvidia’s employees “love” the ousted Jensen Huang....*
-  📅 Fri, 20 Nov 2026 13:25:00 +0000
+- **[Daniel Ek backs AI researcher’s fusion power startup. Here’s what they’re building.](https://techcrunch.com/2026/11/20/daniel-ek-backs-ai-researchers-fusion-power-startup-heres-what-theyre-building/)**
+  *Spotify founder Daniel Ek is backing Europa Fusion, a fusion power startup founded by an AI researcher. Here's what the startup is building....*
+  📅 Fri, 20 Nov 2026 19:53:41 +0000
 
-- **[California AG subpoenas Nvidia over worries about Huang’s ties with China](https://techcrunch.com/2026/11/20/california-ag-subpoenas-nvidia-over-worries-about-huangs-ties-with-china/)**
-  *"The conduct of Nvidia and its former CEO raises bright red flags, including about the ways in which the company may have misled investors," California AG Rob Bonta said....*
-  📅 Fri, 20 Nov 2026 13:21:11 +0000
+- **[AI claimed a solution to the 167-year-old Riemann hypothesis — and a human did, too](https://techcrunch.com/2026/11/20/ai-claimed-a-solution-to-the-167-year-old-riemann-hypothesis-and-a-human-did-too/)**
+  *Mathematicians are having their minds blown by the latest AI-driven result — and there's a competing human solution, too....*
+  📅 Fri, 20 Nov 2026 19:32:08 +0000
 
-- **[The U.S. national cyber director is stepping down](https://techcrunch.com/2026/11/20/the-u-s-national-cyber-director-is-stepping-down/)**
-  *The news comes as businesses across the country report a flurry of technical outages, the causes of which are still unknown....*
-  📅 Fri, 20 Nov 2026 09:14:19 +0000
+- **[Super-hot rock geothermal could end data center energy woes](https://techcrunch.com/2026/11/20/super-hot-rock-geothermal-could-end-data-center-energy-woes/)**
+  *New geothermal startups are betting that they can leapfrog today's leaders to deliver terawatts of electricity nearly anywhere....*
+  📅 Fri, 20 Nov 2026 18:34:00 +0000
 
-- **[Apple may be developing its own AI agent that runs your Mac](https://techcrunch.com/2026/11/19/apple-may-be-developing-its-own-ai-agent-that-runs-your-mac/)**
-  *The iPhone maker appears to be building agents that can compete with the likes of Meta Muse, Instinct, Claude, and OpenAI Dots....*
-  📅 Fri, 20 Nov 2026 00:56:01 +0000
+- **[Chips can survive the space environment — can their financing?](https://techcrunch.com/2026/11/20/chips-can-survive-the-space-environment-can-their-financing/)**
+  *Lenders don't want SpaceX shooting their collateral into orbit. What does that mean for space data centers writ large?...*
+  📅 Fri, 20 Nov 2026 17:40:01 +0000
 
-- **[Anthropic’s 7 founders cashed out nearly $2B in record-breaking IPO](https://techcrunch.com/2026/11/19/anthropics-7-founders-cashed-out-nearly-2b-in-record-breaking-ipo/)**
-  *At the upgraded $83/share IPO price, Anthropic's seven founders each pocketed $280 million, while the company nabbed nearly $105 billion....*
-  📅 Fri, 20 Nov 2026 00:43:50 +0000
+- **[Bending Spoons buys Mailchimp for $3.68B](https://techcrunch.com/2026/11/20/bending-spoons-buys-mailchimp-for-3-68-billion/)**
+  *Intuit acquired the company in 2021 for roughly $12 billion, so it looks like Bending Spoons is getting quite a bargain....*
+  📅 Fri, 20 Nov 2026 16:16:06 +0000
 
 ### 📑 Dev.to
 
-- **[Shadow Validation and Drift Mitigation: Architecting a 4-Engine MLOps Pipeline for Physical AI](https://dev.to/nashtarin_nur_5a0419526ec/shadow-validation-and-drift-mitigation-architecting-a-4-engine-mlops-pipeline-for-physical-ai-132i)**
-  *<p>Physical AI models in production must be monitored carefully in order to maintain deterministic behaviour. In contrast to software AI models in the cloud with standardised inputs, Physical AI model...*
-  📅 Fri, 20 Nov 2026 14:34:04 +0000
+- **[React y CSS: una frontera de email accesible](https://dev.to/silviutech/react-y-css-una-frontera-de-email-accesible-28eb)**
+  *<p>Un campo de email parece pequeño, pero suele ser la frontera entre una interfaz amable y un flujo dificil de entender. El navegador conoce el valor escrito, el backend conoce la respuesta de verifi...*
+  📅 Fri, 20 Nov 2026 23:23:54 +0000
 
-- **[Stop paying for tokens nobody reads: cancel the LLM call when the client disconnects in Node.js](https://dev.to/quantumbreakz/stop-paying-for-tokens-nobody-reads-cancel-the-llm-call-when-the-client-disconnects-in-nodejs-245p)**
-  *<p>When a user closes the tab or presses "stop" while an LLM answer is streaming, the browser drops the connection to <strong>your</strong> server, but your server's request to the <strong>LLM provide...*
-  📅 Fri, 20 Nov 2026 14:34:03 +0000
+- **[Password Reset Email Deliverability Through Branded Template Isolation From Reports](https://dev.to/bramwellvance7953/password-reset-email-deliverability-through-branded-template-isolation-from-reports-4eg2)**
+  *<p>Keep password reset templates separately versioned from generated report emails, even when both use the same transactional sending service. TL;DR: assign an owner to the branded recovery template, ...*
+  📅 Fri, 20 Nov 2026 23:23:40 +0000
 
 </details>
 
 ## 🔥 Trending Repositories
 
 ### 📈 Daily Trending
+
+- **[CocoSgt/riemann-hypothesis-lean](https://github.com/CocoSgt/riemann-hypothesis-lean)** ⭐ 258
+  ![Lean](https://img.shields.io/badge/-Lean-lightgrey)
+  Mirror of Levent Alpöge's Lean proof of the Riemann Hypothesis (with Claude). All credit to Levent Alpöge. Source: alpo.ge
+
+- **[tristanbuckmaster/navier-stokes](https://github.com/tristanbuckmaster/navier-stokes)** ⭐ 213
+  ![Lean](https://img.shields.io/badge/-Lean-lightgrey)
+  None
 
 - **[HandcuffPerfumer/fl-studio-audio](https://github.com/HandcuffPerfumer/fl-studio-audio)** ⭐ 192
   ![None](https://img.shields.io/badge/-None-lightgrey)
@@ -123,95 +131,87 @@
   ![None](https://img.shields.io/badge/-None-lightgrey)
   CapCut Pro Video Editor Latest is an all-in-one, cross-platform video editing suite that equips creators with AI-powered tools, automated captions, background removal, premium effects, and high-resolution 4K export capabilities for producing professional social media and commercial content.
 
-- **[sabrinfathimaa-beep/dlss-5-swapper-compatibility](https://github.com/sabrinfathimaa-beep/dlss-5-swapper-compatibility)** ⭐ 119
-  ![Go](https://img.shields.io/badge/-Go-cyan)
-  Dlss 5 Swapper Compatibility streamlines replacing and managing DLSS version files.
-
-- **[jweihe/Awesome-3D-Coding](https://github.com/jweihe/Awesome-3D-Coding)** ⭐ 100
-  ![None](https://img.shields.io/badge/-None-lightgrey)
-  A curated collection of benchmarks, datasets, models, and agents for creating and editing 3D content through executable code.
-
-- **[midnightMerge982/personaforge](https://github.com/midnightMerge982/personaforge)** ⭐ 90
-  ![None](https://img.shields.io/badge/-None-lightgrey)
-  一键破甲 · Jailbreak：给 20 个 AI 客户端换上你自己的人格设定。
-
-- **[Portionfuspanner/uTorrentLatestFastest](https://github.com/Portionfuspanner/uTorrentLatestFastest)** ⭐ 84
-  ![Go](https://img.shields.io/badge/-Go-cyan)
-  How to get uTorrent 2026
-
-- **[essatufail/substance-3d-sampler-callona](https://github.com/essatufail/substance-3d-sampler-callona)** ⭐ 63
+- **[dev-bad/arc-raiders-norvena](https://github.com/dev-bad/arc-raiders-norvena)** ⭐ 158
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
-  Generates custom material presets for Substance 3D Sampler workflows.
+  Arc Raiders Norvena delivers sharp in-raid info and tactical readouts for focused play.
 
-- **[juanjosev1103-lab/tradingview-averona-market-desk](https://github.com/juanjosev1103-lab/tradingview-averona-market-desk)** ⭐ 63
-  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
-  A focused workspace for reading markets and managing TradingView chart workflows.
+- **[wozniakalan323-bit/opencode-project-workbench](https://github.com/wozniakalan323-bit/opencode-project-workbench)** ⭐ 158
+  ![HTML](https://img.shields.io/badge/-HTML-lightgrey)
+  Opencode Project Workbench structures opencode project tasks, files, and workflow state.
+
+- **[prakashharapanahalli448-arch/marvel-rivals-calvion](https://github.com/prakashharapanahalli448-arch/marvel-rivals-calvion)** ⭐ 158
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
+  Play Marvel Rivals with Calvion guiding your matches and surfacing live intel.
+
+- **[enjinbdg/rustdesk-remote-workspace](https://github.com/enjinbdg/rustdesk-remote-workspace)** ⭐ 158
+  ![HTML](https://img.shields.io/badge/-HTML-lightgrey)
+  Connect to and manage remote desktop sessions within a structured workspace.
 
 ### 📈 Weekly Trending
 
-- **[erkamyaman/rust-anything](https://github.com/erkamyaman/rust-anything)** ⭐ 6,146
+- **[erkamyaman/rust-anything](https://github.com/erkamyaman/rust-anything)** ⭐ 6,609
   ![Rust](https://img.shields.io/badge/-Rust-brown)
   Rewrite your whole app in Rust, one piece at a time, checked against the original's recorded behavior at every step. CLIs, HTTP servers and libraries in TypeScript, Python, C, Go, Ruby and Java.
 
-- **[krisgfx9/Wireless-Device-Battery-Monitor](https://github.com/krisgfx9/Wireless-Device-Battery-Monitor)** ⭐ 5,053
+- **[krisgfx9/Wireless-Device-Battery-Monitor](https://github.com/krisgfx9/Wireless-Device-Battery-Monitor)** ⭐ 5,277
   ![C++](https://img.shields.io/badge/-C++-pink)
   Show the battery level of wireless mice, headsets, keyboards and controllers on the Windows 10/11 taskbar. Lightweight tray app, no vendor software needed. Supports Logitech, Razer, SteelSeries, Corsair, HyperX, Glorious, PS4/PS5 DualSense, Xbox and Bluetooth devices.
 
-- **[gylive/google-ultra](https://github.com/gylive/google-ultra)** ⭐ 2,514
+- **[gylive/google-ultra](https://github.com/gylive/google-ultra)** ⭐ 2,530
   ![Python](https://img.shields.io/badge/-Python-blue)
   None
 
-- **[Hut-hzf/ung220z-tool](https://github.com/Hut-hzf/ung220z-tool)** ⭐ 1,947
+- **[Hut-hzf/ung220z-tool](https://github.com/Hut-hzf/ung220z-tool)** ⭐ 1,992
   ![Python](https://img.shields.io/badge/-Python-blue)
   ung220z-tool 是一个针对 UNG220Z（九联/Unionman 中国移动光猫）的一键凭据提取工具，仅限在你自己的设备上用于找回忘记的管理密码、迁移宽带配置或安全自查。
 
-- **[CzzzzzzJ/mdldm-maitian](https://github.com/CzzzzzzJ/mdldm-maitian)** ⭐ 1,694
+- **[bookwjitchieni1986/blender-ai-mcp-addon](https://github.com/bookwjitchieni1986/blender-ai-mcp-addon)** ⭐ 1,754
+  ![None](https://img.shields.io/badge/-None-lightgrey)
+  AI assistant and MCP server for Blender: visual chat, scene tools, multi-agent workflows. Works with ChatGPT/GPT, Claude, Gemini, Ollama, OpenCode. Blender AI addon, copilot for 3D, bpy Python scripting, MCP integration.
+
+- **[CzzzzzzJ/mdldm-maitian](https://github.com/CzzzzzzJ/mdldm-maitian)** ⭐ 1,713
   ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
   麦田：自媒体多平台发布中控与数据监控（B站/抖音/小红书/视频号/YouTube/X），飞书卡片通知 + 数据大屏
 
-- **[duwqijlk/muse-protocol](https://github.com/duwqijlk/muse-protocol)** ⭐ 1,681
+- **[duwqijlk/muse-protocol](https://github.com/duwqijlk/muse-protocol)** ⭐ 1,694
   ![Python](https://img.shields.io/badge/-Python-blue)
   muse.ai 注册与邀请码兑换协议研究（纯 HTTP Python 实现）
 
-- **[haziqahmedqasmi/PeakCut](https://github.com/haziqahmedqasmi/PeakCut)** ⭐ 1,491
+- **[haziqahmedqasmi/PeakCut](https://github.com/haziqahmedqasmi/PeakCut)** ⭐ 1,539
   ![Python](https://img.shields.io/badge/-Python-blue)
   AI clipping for long videos and live streams. Self-hosted, bring your own AI key.
 
-- **[sybil-solutions/inference-optimisation-skill](https://github.com/sybil-solutions/inference-optimisation-skill)** ⭐ 1,302
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  Agent skill for hill-climbing local LLM serving speed (decode, speculative decoding, prefill, KV, startup, TTFT) on any hardware and quantization
-
 ### 📈 Monthly Trending
 
-- **[storytold/craft-anything](https://github.com/storytold/craft-anything)** ⭐ 39,208
+- **[storytold/craft-anything](https://github.com/storytold/craft-anything)** ⭐ 39,493
   ![Rust](https://img.shields.io/badge/-Rust-brown)
   Craft Anything: understand how any software works, and craft your own.
 
-- **[ccch1mneyyy/dsh-Go](https://github.com/ccch1mneyyy/dsh-Go)** ⭐ 28,812
+- **[ccch1mneyyy/dsh-Go](https://github.com/ccch1mneyyy/dsh-Go)** ⭐ 28,994
   ![Dart](https://img.shields.io/badge/-Dart-lightgrey)
   dsh-go — DeepSeek Harness 装进口袋：手机本机运行，也能遥控你的电脑。
 
-- **[deepseek-ai/dsh-superagent-prototype](https://github.com/deepseek-ai/dsh-superagent-prototype)** ⭐ 24,051
+- **[deepseek-ai/dsh-superagent-prototype](https://github.com/deepseek-ai/dsh-superagent-prototype)** ⭐ 24,076
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   Towards a More Autonomous Agent System
 
-- **[heydamir/unslop](https://github.com/heydamir/unslop)** ⭐ 19,036
+- **[heydamir/unslop](https://github.com/heydamir/unslop)** ⭐ 19,234
   ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
   A Claude skill that turns vibecoded, AI-looking UI into a designed interface
 
-- **[anefzaoui/misterdownloadmanager](https://github.com/anefzaoui/misterdownloadmanager)** ⭐ 14,163
+- **[anefzaoui/misterdownloadmanager](https://github.com/anefzaoui/misterdownloadmanager)** ⭐ 14,293
   ![Rust](https://img.shields.io/badge/-Rust-brown)
   misterdownloadmanager: The ultimate open-source, clean-room download manager written from scratch in pure Rust for Windows, Mac, and Linux
 
-- **[libracoder/kiri](https://github.com/libracoder/kiri)** ⭐ 11,537
+- **[libracoder/kiri](https://github.com/libracoder/kiri)** ⭐ 11,659
   ![Rust](https://img.shields.io/badge/-Rust-brown)
   A small, fast container runtime for macOS, Windows and Linux with free Ngrok alternative
 
-- **[JuneYaooo/rea-video](https://github.com/JuneYaooo/rea-video)** ⭐ 11,289
+- **[JuneYaooo/rea-video](https://github.com/JuneYaooo/rea-video)** ⭐ 11,418
   ![Python](https://img.shields.io/badge/-Python-blue)
   Reverse-engineer any video, shot by shot: filmed, AI-generated or coded, and how to remake it. Breakdowns in the open VIDEO.md format. 逆向一切视频，逐个镜头看是拍的、AI 生成的还是代码做的，再告诉你怎么复刻；拆解结果按 VIDEO.md 格式输出。
 
-- **[Minireel/HGhub](https://github.com/Minireel/HGhub)** ⭐ 10,431
+- **[Minireel/HGhub](https://github.com/Minireel/HGhub)** ⭐ 10,446
   ![Rust](https://img.shields.io/badge/-Rust-brown)
   Plug-in media player
 
@@ -481,40 +481,40 @@ Sched...
 | Skill | Status |
 |-------|--------|
 | Java | ⚪ Planned |
-| Python | 🟡 Learning |
-| JavaScript | 🟡 Learning |
-| TypeScript | 🟢 Proficient |
-| Go | 🟢 Proficient |
+| Python | 🟢 Proficient |
+| JavaScript | 🟢 Proficient |
+| TypeScript | ⚪ Planned |
+| Go | 🟡 Learning |
 
 ### Frameworks
 
 | Skill | Status |
 |-------|--------|
-| React | 🟡 Learning |
-| Spring Boot | 🔴 Beginner |
-| Django | ⚪ Planned |
-| Node.js | ⚪ Planned |
-| Next.js | 🟡 Learning |
+| React | 🔴 Beginner |
+| Spring Boot | 🟡 Learning |
+| Django | 🟡 Learning |
+| Node.js | 🟡 Learning |
+| Next.js | 🔴 Beginner |
 
 ### Cybersecurity
 
 | Skill | Status |
 |-------|--------|
 | Penetration Testing | 🟡 Learning |
-| Web Security | 🟢 Proficient |
+| Web Security | ⚪ Planned |
 | Network Security | 🟢 Proficient |
-| OWASP | ⚪ Planned |
+| OWASP | 🔴 Beginner |
 
 ### Ai Ml
 
 | Skill | Status |
 |-------|--------|
-| Machine Learning | 🔴 Beginner |
-| Deep Learning | 🟡 Learning |
-| NLP | 🟡 Learning |
-| Computer Vision | 🟡 Learning |
-| TensorFlow | 🟢 Proficient |
-| PyTorch | ⚪ Planned |
+| Machine Learning | 🟡 Learning |
+| Deep Learning | 🟢 Proficient |
+| NLP | ⚪ Planned |
+| Computer Vision | 🔴 Beginner |
+| TensorFlow | 🔴 Beginner |
+| PyTorch | 🟢 Proficient |
 
 ### Devops
 
@@ -522,16 +522,16 @@ Sched...
 |-------|--------|
 | Docker | 🔴 Beginner |
 | Kubernetes | 🔴 Beginner |
-| CI/CD | ⚪ Planned |
-| AWS | 🟢 Proficient |
+| CI/CD | 🟡 Learning |
+| AWS | 🔴 Beginner |
 | Azure | 🟢 Proficient |
 
 ### Other
 
 | Skill | Status |
 |-------|--------|
-| Blockchain | 🟢 Proficient |
-| Web3 | 🟢 Proficient |
+| Blockchain | 🔴 Beginner |
+| Web3 | 🟡 Learning |
 | Cloud Computing | 🟡 Learning |
 
 </details>
