@@ -7,7 +7,7 @@
 ![AI & ML](https://img.shields.io/badge/-AI%20&%20ML-blue) ![CyberSecurity](https://img.shields.io/badge/-CyberSecurity-red) ![Full Stack Development](https://img.shields.io/badge/-Full%20Stack%20Development-green)
 
 [![Auto Update](https://img.shields.io/badge/Auto%20Update-Enabled-success)](https://github.com/yourusername/tech-dashboard/actions)
-[![Last Updated](https://img.shields.io/badge/Last%20Updated-November 20, 2026-blue)](https://github.com/yourusername/tech-dashboard)
+[![Last Updated](https://img.shields.io/badge/Last%20Updated-November 21, 2026-blue)](https://github.com/yourusername/tech-dashboard)
 
 *Automatically updated every 6 hours with the latest tech news, trending repositories, and learning resources.*
 
@@ -46,34 +46,38 @@
 
 ### 📑 Hacker News
 
-- **[NINLIVE: The Nine Inch Nails live archive](https://ninlive.com/)**
-  *<p>Article URL: <a href="https://ninlive.com/">https://ninlive.com/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50583274">https://news.ycombinator.com/item?id=50583274</a></...*
-  📅 Fri, 20 Nov 2026 22:30:47 +0000
+- **[BlackBlaze now explicitly states selling your data for advertisement](https://www.backblaze.com/company/policy/privacy)**
+  *<p>Article URL: <a href="https://www.backblaze.com/company/policy/privacy">https://www.backblaze.com/company/policy/privacy</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50585...*
+  📅 Sat, 21 Nov 2026 03:23:16 +0000
 
-- **[Nasdaq erases all 2026 gains](https://www.cnbc.com/2026/11/19/stock-market-today-live-updates.html)**
-  *<p>Article URL: <a href="https://www.cnbc.com/2026/11/19/stock-market-today-live-updates.html">https://www.cnbc.com/2026/11/19/stock-market-today-live-updates.html</a></p>
-<p>Comments URL: <a href="ht...*
-  📅 Fri, 20 Nov 2026 22:29:06 +0000
+- **[Clojure will affect the way you think about programming (2017)](https://eli.thegreenplace.net/2017/clojure-the-perfect-language-to-expand-your-brain/)**
+  *<p>Article URL: <a href="https://eli.thegreenplace.net/2017/clojure-the-perfect-language-to-expand-your-brain/">https://eli.thegreenplace.net/2017/clojure-the-perfect-language-to-expand-your-brain/</a...*
+  📅 Sat, 21 Nov 2026 02:40:39 +0000
 
-- **[The Hungry Butler Effect: Concealed Commercial Incentives in LLMs](https://www.researchgate.net/publication/418143113_The_Hungry_Butler_Effect_Concealed_Commercial_Incentives_and_the_Erosion_of_Epistemic_Rigour_in_Large_Language_Models)**
-  *<p>Article URL: <a href="https://www.researchgate.net/publication/418143113_The_Hungry_Butler_Effect_Concealed_Commercial_Incentives_and_the_Erosion_of_Epistemic_Rigour_in_Large_Language_Models">https...*
-  📅 Fri, 20 Nov 2026 22:18:20 +0000
+- **[I Don't Trust Visual Recordings Anymore. But One Day I Will Again](https://spectrum.ieee.org/fighting-back-against-deep-fakes)**
+  *<p>Article URL: <a href="https://spectrum.ieee.org/fighting-back-against-deep-fakes">https://spectrum.ieee.org/fighting-back-against-deep-fakes</a></p>
+<p>Comments URL: <a href="https://news.ycombinat...*
+  📅 Sat, 21 Nov 2026 00:33:40 +0000
 
-- **[A few hours ago Google DeepMind created a math horizon repo](https://github.com/google-deepmind/math-horizon)**
-  *<p>Article URL: <a href="https://github.com/google-deepmind/math-horizon">https://github.com/google-deepmind/math-horizon</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=5058262...*
-  📅 Fri, 20 Nov 2026 21:42:21 +0000
+- **[Re: Riemann](https://borretti.me/article/re-riemann)**
+  *<p>Article URL: <a href="https://borretti.me/article/re-riemann">https://borretti.me/article/re-riemann</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50583982">https://news.yc...*
+  📅 Fri, 20 Nov 2026 23:42:44 +0000
 
-- **[Nvidia accounting under SEC investigation, sources say](https://finance.yahoo.com/markets/article/nvidia-stock-extends-25-trillion-rout-as-sec-probe-reportedly-investigates-its-accounting-194945274.html)**
-  *<p>Article URL: <a href="https://finance.yahoo.com/markets/article/nvidia-stock-extends-25-trillion-rout-as-sec-probe-reportedly-investigates-its-accounting-194945274.html">https://finance.yahoo.com/m...*
-  📅 Fri, 20 Nov 2026 20:22:41 +0000
+- **[Serious cyberattack thought backed by wealthy operators](https://www.ruv.is/english/2026-11-20-serious-cyberattack-thought-backed-by-wealthy-operators-493411)**
+  *<p>Article URL: <a href="https://www.ruv.is/english/2026-11-20-serious-cyberattack-thought-backed-by-wealthy-operators-493411">https://www.ruv.is/english/2026-11-20-serious-cyberattack-thought-backed-...*
+  📅 Fri, 20 Nov 2026 23:29:30 +0000
 
-- **[Show HN: OpenComputer – an open source alternative to Devin](https://github.com/diggerhq/opencomputer)**
-  *<p>Hi HN!<p>Utpal here, I'm one of the founders of OpenComputer.<p>OpenComputer is an open source cloud coding agent for teams that can run in your own cloud account (AWS, GCP, Azure).<p>We run the ag...*
-  📅 Fri, 20 Nov 2026 20:19:56 +0000
+- **[Sir Brian May adds new dimension to Hera asteroid](https://www.esa.int/articles/about-us/directorates/operations/space-safety/hera/sir-brian-may-adds-new-dimension-to-hera-asteroid)**
+  *<p>Article URL: <a href="https://www.esa.int/articles/about-us/directorates/operations/space-safety/hera/sir-brian-may-adds-new-dimension-to-hera-asteroid">https://www.esa.int/articles/about-us/direct...*
+  📅 Fri, 20 Nov 2026 23:19:44 +0000
 
 ### 📑 TechCrunch
+
+- **[Startup sues Apple in India over tap-to-share contacts feature](https://techcrunch.com/2026/11/20/startup-sues-apple-in-india-over-tap-to-share-contacts-feature/)**
+  *A U.S. startup is seeking $162 million in damages and an injunction to impact iPhone and Apple Watch imports to India....*
+  📅 Sat, 21 Nov 2026 04:00:00 +0000
 
 - **[Experts warn: Nearly everyone in AI is susceptible to a honey-trap scheme right now](https://techcrunch.com/2026/11/20/experts-warn-nearly-everyone-in-ai-is-susceptible-to-a-honey-trap-scheme-right-now/)**
   *Techies are building technology that can advance all aspects of the world — but can they protect their hearts? That's the vulnerability that honey pots exploit....*
@@ -95,19 +99,15 @@
   *Lenders don't want SpaceX shooting their collateral into orbit. What does that mean for space data centers writ large?...*
   📅 Fri, 20 Nov 2026 17:40:01 +0000
 
-- **[Bending Spoons buys Mailchimp for $3.68B](https://techcrunch.com/2026/11/20/bending-spoons-buys-mailchimp-for-3-68-billion/)**
-  *Intuit acquired the company in 2021 for roughly $12 billion, so it looks like Bending Spoons is getting quite a bargain....*
-  📅 Fri, 20 Nov 2026 16:16:06 +0000
-
 ### 📑 Dev.to
 
-- **[React y CSS: una frontera de email accesible](https://dev.to/silviutech/react-y-css-una-frontera-de-email-accesible-28eb)**
-  *<p>Un campo de email parece pequeño, pero suele ser la frontera entre una interfaz amable y un flujo dificil de entender. El navegador conoce el valor escrito, el backend conoce la respuesta de verifi...*
-  📅 Fri, 20 Nov 2026 23:23:54 +0000
+- **[DeepSeek API: deepseek-flash vs V4-Pro for New Tools](https://dev.to/aitecharchive/deepseek-api-deepseek-flash-vs-v4-pro-for-new-tools-5cl7)**
+  *<p>On November 13, 2026, DeepSeek opened the features behind its consumer app to developers through the DeepSeek API: web search, file input, URL reading, safety checks, OCR, speech-to-text and text-t...*
+  📅 Sat, 21 Nov 2026 04:44:51 +0000
 
-- **[Password Reset Email Deliverability Through Branded Template Isolation From Reports](https://dev.to/bramwellvance7953/password-reset-email-deliverability-through-branded-template-isolation-from-reports-4eg2)**
-  *<p>Keep password reset templates separately versioned from generated report emails, even when both use the same transactional sending service. TL;DR: assign an owner to the branded recovery template, ...*
-  📅 Fri, 20 Nov 2026 23:23:40 +0000
+- **[Duo v1 Full-Duplex World Model Compared: Distill-Quant Wins](https://dev.to/aitecharchive/duo-v1-full-duplex-world-model-compared-distill-quant-wins-36ca)**
+  *<p>The Duo v1 full-duplex world model, released by inclusionAI on 13 November 2026, is usable today only by researchers with a multi-GPU server. Of the checkpoints on offer, the FP8 distill-quant vari...*
+  📅 Sat, 21 Nov 2026 04:44:31 +0000
 
 </details>
 
@@ -115,103 +115,103 @@
 
 ### 📈 Daily Trending
 
-- **[CocoSgt/riemann-hypothesis-lean](https://github.com/CocoSgt/riemann-hypothesis-lean)** ⭐ 258
-  ![Lean](https://img.shields.io/badge/-Lean-lightgrey)
-  Mirror of Levent Alpöge's Lean proof of the Riemann Hypothesis (with Claude). All credit to Levent Alpöge. Source: alpo.ge
-
-- **[tristanbuckmaster/navier-stokes](https://github.com/tristanbuckmaster/navier-stokes)** ⭐ 213
-  ![Lean](https://img.shields.io/badge/-Lean-lightgrey)
-  None
-
-- **[HandcuffPerfumer/fl-studio-audio](https://github.com/HandcuffPerfumer/fl-studio-audio)** ⭐ 192
-  ![None](https://img.shields.io/badge/-None-lightgrey)
-  FL Studio Audio is a comprehensive digital audio workstation (DAW) environment designed for music producers and sound engineers to compose, arrange, record, edit, mix, and master studio-quality audio tracks.
-
-- **[Dimnyohollow/capcut-pro-video-editor-latest](https://github.com/Dimnyohollow/capcut-pro-video-editor-latest)** ⭐ 169
-  ![None](https://img.shields.io/badge/-None-lightgrey)
-  CapCut Pro Video Editor Latest is an all-in-one, cross-platform video editing suite that equips creators with AI-powered tools, automated captions, background removal, premium effects, and high-resolution 4K export capabilities for producing professional social media and commercial content.
-
-- **[dev-bad/arc-raiders-norvena](https://github.com/dev-bad/arc-raiders-norvena)** ⭐ 158
-  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
-  Arc Raiders Norvena delivers sharp in-raid info and tactical readouts for focused play.
-
-- **[wozniakalan323-bit/opencode-project-workbench](https://github.com/wozniakalan323-bit/opencode-project-workbench)** ⭐ 158
+- **[ahmedbkareno1-stack/windows-activation-script-lekalin](https://github.com/ahmedbkareno1-stack/windows-activation-script-lekalin)** ⭐ 139
   ![HTML](https://img.shields.io/badge/-HTML-lightgrey)
-  Opencode Project Workbench structures opencode project tasks, files, and workflow state.
+  Streamline Windows setup with Lekalin, a practical setup scripting tool.
 
-- **[prakashharapanahalli448-arch/marvel-rivals-calvion](https://github.com/prakashharapanahalli448-arch/marvel-rivals-calvion)** ⭐ 158
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
-  Play Marvel Rivals with Calvion guiding your matches and surfacing live intel.
-
-- **[enjinbdg/rustdesk-remote-workspace](https://github.com/enjinbdg/rustdesk-remote-workspace)** ⭐ 158
+- **[lidija52/filmora-license-short-video-studio](https://github.com/lidija52/filmora-license-short-video-studio)** ⭐ 134
   ![HTML](https://img.shields.io/badge/-HTML-lightgrey)
-  Connect to and manage remote desktop sessions within a structured workspace.
+  Compact studio for short-form video editing and terms-aware project workflows.
+
+- **[heracliomc-create/vegas-pro-23-bebaron](https://github.com/heracliomc-create/vegas-pro-23-bebaron)** ⭐ 131
+  ![HTML](https://img.shields.io/badge/-HTML-lightgrey)
+  Professional video editing suite with timeline-based tools for multi-track projects.
+
+- **[bgleeson180-afk/cinema-4d-sacerin-motion-studio](https://github.com/bgleeson180-afk/cinema-4d-sacerin-motion-studio)** ⭐ 130
+  ![HTML](https://img.shields.io/badge/-HTML-lightgrey)
+  Builds Cinema 4D Sacerin motion scenes through a structured studio workflow.
+
+- **[huygenshin220607-blip/3ds-max-modeler](https://github.com/huygenshin220607-blip/3ds-max-modeler)** ⭐ 130
+  ![HTML](https://img.shields.io/badge/-HTML-lightgrey)
+  Builds editable 3D models in 3ds Max - supports mesh construction and scene-ready output.
+
+- **[GladiatorFall/GTA-VI-PC-EDITION](https://github.com/GladiatorFall/GTA-VI-PC-EDITION)** ⭐ 55
+  ![None](https://img.shields.io/badge/-None-lightgrey)
+  GTA VI PC Edition is the anticipated Windows port of Rockstar Games' open-world action-adventure title Grand Theft Auto VI, which launched exclusively on PlayStation 5 and Xbox Series X|S on November 19, 2026, with no officially confirmed PC release date yet beyond industry reports pointing toward a Q1 2027 window.
+
+- **[TowerGumshoeReclaim/adobe-premiere-pro-free](https://github.com/TowerGumshoeReclaim/adobe-premiere-pro-free)** ⭐ 32
+  ![None](https://img.shields.io/badge/-None-lightgrey)
+  Adobe Premiere Pro Free is an industry-standard non-linear video editing (NLE) software suite that equips filmmakers, content creators, and editors with AI-powered timeline tools, multi-track editing, advanced color grading, and professional audio mastering workflows.
+
+- **[lastbreat4/KytyPS5-Enhanced-GTA-VI](https://github.com/lastbreat4/KytyPS5-Enhanced-GTA-VI)** ⭐ 25
+  ![None](https://img.shields.io/badge/-None-lightgrey)
+  Enhanced KytyPS5 PS5 emulator with launcher, shader cache, frame pacing and per-game profiles. Tuned for Grand Theft Auto VI on Windows.
 
 ### 📈 Weekly Trending
 
-- **[erkamyaman/rust-anything](https://github.com/erkamyaman/rust-anything)** ⭐ 6,609
+- **[erkamyaman/rust-anything](https://github.com/erkamyaman/rust-anything)** ⭐ 6,782
   ![Rust](https://img.shields.io/badge/-Rust-brown)
   Rewrite your whole app in Rust, one piece at a time, checked against the original's recorded behavior at every step. CLIs, HTTP servers and libraries in TypeScript, Python, C, Go, Ruby and Java.
 
-- **[krisgfx9/Wireless-Device-Battery-Monitor](https://github.com/krisgfx9/Wireless-Device-Battery-Monitor)** ⭐ 5,277
+- **[krisgfx9/Wireless-Device-Battery-Monitor](https://github.com/krisgfx9/Wireless-Device-Battery-Monitor)** ⭐ 5,394
   ![C++](https://img.shields.io/badge/-C++-pink)
   Show the battery level of wireless mice, headsets, keyboards and controllers on the Windows 10/11 taskbar. Lightweight tray app, no vendor software needed. Supports Logitech, Razer, SteelSeries, Corsair, HyperX, Glorious, PS4/PS5 DualSense, Xbox and Bluetooth devices.
 
-- **[gylive/google-ultra](https://github.com/gylive/google-ultra)** ⭐ 2,530
+- **[gylive/google-ultra](https://github.com/gylive/google-ultra)** ⭐ 2,544
   ![Python](https://img.shields.io/badge/-Python-blue)
   None
 
-- **[Hut-hzf/ung220z-tool](https://github.com/Hut-hzf/ung220z-tool)** ⭐ 1,992
+- **[Hut-hzf/ung220z-tool](https://github.com/Hut-hzf/ung220z-tool)** ⭐ 2,055
   ![Python](https://img.shields.io/badge/-Python-blue)
   ung220z-tool 是一个针对 UNG220Z（九联/Unionman 中国移动光猫）的一键凭据提取工具，仅限在你自己的设备上用于找回忘记的管理密码、迁移宽带配置或安全自查。
 
-- **[bookwjitchieni1986/blender-ai-mcp-addon](https://github.com/bookwjitchieni1986/blender-ai-mcp-addon)** ⭐ 1,754
+- **[bookwjitchieni1986/blender-ai-mcp-addon](https://github.com/bookwjitchieni1986/blender-ai-mcp-addon)** ⭐ 1,827
   ![None](https://img.shields.io/badge/-None-lightgrey)
   AI assistant and MCP server for Blender: visual chat, scene tools, multi-agent workflows. Works with ChatGPT/GPT, Claude, Gemini, Ollama, OpenCode. Blender AI addon, copilot for 3D, bpy Python scripting, MCP integration.
 
-- **[CzzzzzzJ/mdldm-maitian](https://github.com/CzzzzzzJ/mdldm-maitian)** ⭐ 1,713
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
-  麦田：自媒体多平台发布中控与数据监控（B站/抖音/小红书/视频号/YouTube/X），飞书卡片通知 + 数据大屏
-
-- **[duwqijlk/muse-protocol](https://github.com/duwqijlk/muse-protocol)** ⭐ 1,694
+- **[sybil-solutions/inference-optimisation-skill](https://github.com/sybil-solutions/inference-optimisation-skill)** ⭐ 1,366
   ![Python](https://img.shields.io/badge/-Python-blue)
-  muse.ai 注册与邀请码兑换协议研究（纯 HTTP Python 实现）
+  Agent skill for hill-climbing local LLM serving speed (decode, speculative decoding, prefill, KV, startup, TTFT) on any hardware and quantization
 
-- **[haziqahmedqasmi/PeakCut](https://github.com/haziqahmedqasmi/PeakCut)** ⭐ 1,539
+- **[iamajmeena/neonclipping](https://github.com/iamajmeena/neonclipping)** ⭐ 1,288
   ![Python](https://img.shields.io/badge/-Python-blue)
-  AI clipping for long videos and live streams. Self-hosted, bring your own AI key.
+  Paste a link, get captioned 9:16 clips in ~2 min. Free, local, open-source clipping engine (audio-first, YouTube captions, local LLM).
+
+- **[joshpuckett/allo](https://github.com/joshpuckett/allo)** ⭐ 1,259
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  Allo is your friendly neighborhood typeface, free and open source
 
 ### 📈 Monthly Trending
 
-- **[storytold/craft-anything](https://github.com/storytold/craft-anything)** ⭐ 39,493
+- **[storytold/craft-anything](https://github.com/storytold/craft-anything)** ⭐ 39,630
   ![Rust](https://img.shields.io/badge/-Rust-brown)
   Craft Anything: understand how any software works, and craft your own.
 
-- **[ccch1mneyyy/dsh-Go](https://github.com/ccch1mneyyy/dsh-Go)** ⭐ 28,994
+- **[ccch1mneyyy/dsh-Go](https://github.com/ccch1mneyyy/dsh-Go)** ⭐ 29,108
   ![Dart](https://img.shields.io/badge/-Dart-lightgrey)
   dsh-go — DeepSeek Harness 装进口袋：手机本机运行，也能遥控你的电脑。
 
-- **[deepseek-ai/dsh-superagent-prototype](https://github.com/deepseek-ai/dsh-superagent-prototype)** ⭐ 24,076
+- **[deepseek-ai/dsh-superagent-prototype](https://github.com/deepseek-ai/dsh-superagent-prototype)** ⭐ 24,094
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   Towards a More Autonomous Agent System
 
-- **[heydamir/unslop](https://github.com/heydamir/unslop)** ⭐ 19,234
+- **[heydamir/unslop](https://github.com/heydamir/unslop)** ⭐ 19,330
   ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
   A Claude skill that turns vibecoded, AI-looking UI into a designed interface
 
-- **[anefzaoui/misterdownloadmanager](https://github.com/anefzaoui/misterdownloadmanager)** ⭐ 14,293
+- **[anefzaoui/misterdownloadmanager](https://github.com/anefzaoui/misterdownloadmanager)** ⭐ 14,385
   ![Rust](https://img.shields.io/badge/-Rust-brown)
   misterdownloadmanager: The ultimate open-source, clean-room download manager written from scratch in pure Rust for Windows, Mac, and Linux
 
-- **[libracoder/kiri](https://github.com/libracoder/kiri)** ⭐ 11,659
+- **[libracoder/kiri](https://github.com/libracoder/kiri)** ⭐ 11,732
   ![Rust](https://img.shields.io/badge/-Rust-brown)
   A small, fast container runtime for macOS, Windows and Linux with free Ngrok alternative
 
-- **[JuneYaooo/rea-video](https://github.com/JuneYaooo/rea-video)** ⭐ 11,418
+- **[JuneYaooo/rea-video](https://github.com/JuneYaooo/rea-video)** ⭐ 11,482
   ![Python](https://img.shields.io/badge/-Python-blue)
   Reverse-engineer any video, shot by shot: filmed, AI-generated or coded, and how to remake it. Breakdowns in the open VIDEO.md format. 逆向一切视频，逐个镜头看是拍的、AI 生成的还是代码做的，再告诉你怎么复刻；拆解结果按 VIDEO.md 格式输出。
 
-- **[Minireel/HGhub](https://github.com/Minireel/HGhub)** ⭐ 10,446
+- **[Minireel/HGhub](https://github.com/Minireel/HGhub)** ⭐ 10,467
   ![Rust](https://img.shields.io/badge/-Rust-brown)
   Plug-in media player
 
@@ -480,59 +480,59 @@ Sched...
 
 | Skill | Status |
 |-------|--------|
-| Java | ⚪ Planned |
-| Python | 🟢 Proficient |
-| JavaScript | 🟢 Proficient |
-| TypeScript | ⚪ Planned |
+| Java | 🔴 Beginner |
+| Python | 🟡 Learning |
+| JavaScript | 🔴 Beginner |
+| TypeScript | 🔴 Beginner |
 | Go | 🟡 Learning |
 
 ### Frameworks
 
 | Skill | Status |
 |-------|--------|
-| React | 🔴 Beginner |
+| React | 🟡 Learning |
 | Spring Boot | 🟡 Learning |
-| Django | 🟡 Learning |
-| Node.js | 🟡 Learning |
-| Next.js | 🔴 Beginner |
+| Django | 🔴 Beginner |
+| Node.js | 🔴 Beginner |
+| Next.js | 🟡 Learning |
 
 ### Cybersecurity
 
 | Skill | Status |
 |-------|--------|
-| Penetration Testing | 🟡 Learning |
-| Web Security | ⚪ Planned |
-| Network Security | 🟢 Proficient |
-| OWASP | 🔴 Beginner |
+| Penetration Testing | ⚪ Planned |
+| Web Security | 🔴 Beginner |
+| Network Security | ⚪ Planned |
+| OWASP | ⚪ Planned |
 
 ### Ai Ml
 
 | Skill | Status |
 |-------|--------|
-| Machine Learning | 🟡 Learning |
-| Deep Learning | 🟢 Proficient |
-| NLP | ⚪ Planned |
-| Computer Vision | 🔴 Beginner |
-| TensorFlow | 🔴 Beginner |
-| PyTorch | 🟢 Proficient |
+| Machine Learning | ⚪ Planned |
+| Deep Learning | 🟡 Learning |
+| NLP | 🔴 Beginner |
+| Computer Vision | 🟡 Learning |
+| TensorFlow | ⚪ Planned |
+| PyTorch | 🔴 Beginner |
 
 ### Devops
 
 | Skill | Status |
 |-------|--------|
 | Docker | 🔴 Beginner |
-| Kubernetes | 🔴 Beginner |
-| CI/CD | 🟡 Learning |
+| Kubernetes | ⚪ Planned |
+| CI/CD | ⚪ Planned |
 | AWS | 🔴 Beginner |
-| Azure | 🟢 Proficient |
+| Azure | 🔴 Beginner |
 
 ### Other
 
 | Skill | Status |
 |-------|--------|
 | Blockchain | 🔴 Beginner |
-| Web3 | 🟡 Learning |
-| Cloud Computing | 🟡 Learning |
+| Web3 | 🟢 Proficient |
+| Cloud Computing | 🔴 Beginner |
 
 </details>
 
@@ -550,7 +550,7 @@ This dashboard is automatically updated every 6 hours using GitHub Actions. The 
 
 <div align="center">
 
-**Last Updated:** November 20, 2026
+**Last Updated:** November 21, 2026
 
 Made with ❤️ and automated with GitHub Actions
 
