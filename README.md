@@ -46,71 +46,69 @@
 
 ### 📑 Hacker News
 
-- **[Prisons get OK to jam contraband phones](https://arstechnica.com/tech-policy/2026/11/prisons-get-ok-to-jam-contraband-phones-ctia-says-nearby-phones-will-be-jammed-too/)**
-  *<p>Article URL: <a href="https://arstechnica.com/tech-policy/2026/11/prisons-get-ok-to-jam-contraband-phones-ctia-says-nearby-phones-will-be-jammed-too/">https://arstechnica.com/tech-policy/2026/11/pr...*
-  📅 Sun, 22 Nov 2026 13:00:52 +0000
+- **[The Usefulness of Useless Knowledge [pdf]](https://www.ias.edu/sites/default/files/library/UsefulnessHarpers.pdf)**
+  *<p>Article URL: <a href="https://www.ias.edu/sites/default/files/library/UsefulnessHarpers.pdf">https://www.ias.edu/sites/default/files/library/UsefulnessHarpers.pdf</a></p>
+<p>Comments URL: <a href="...*
+  📅 Sun, 22 Nov 2026 22:10:58 +0000
 
-- **[Muru – AI-assisted Rust server for Python apps by mod_WSGI's creator](https://simonwillison.net/2026/Nov/21/muru/)**
-  *<p>Article URL: <a href="https://simonwillison.net/2026/Nov/21/muru/">https://simonwillison.net/2026/Nov/21/muru/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50597959">https...*
-  📅 Sun, 22 Nov 2026 09:57:01 +0000
+- **[Agent swarm trying to solve P vs. NP](https://pequalnp.com/)**
+  *<p>Article URL: <a href="https://pequalnp.com/">https://pequalnp.com/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50604314">https://news.ycombinator.com/item?id=50604314</a>...*
+  📅 Sun, 22 Nov 2026 21:53:45 +0000
 
-- **[87% of the Anthropic power will come from gas and 11% from coal in 2028](https://betterdatacenterproject.com/2026/11/16/how-ai-is-powered-a-breakdown-of-byop-and-grid-power/)**
-  *<p>Article URL: <a href="https://betterdatacenterproject.com/2026/11/16/how-ai-is-powered-a-breakdown-of-byop-and-grid-power/">https://betterdatacenterproject.com/2026/11/16/how-ai-is-powered-a-breakd...*
-  📅 Sun, 22 Nov 2026 08:57:34 +0000
+- **[Will the first approved psychedelic become a blockbuster?](https://www.pharmavoice.com/news/race-first-psilocybin-blockbuster-compass-usona/875270/)**
+  *<p>Article URL: <a href="https://www.pharmavoice.com/news/race-first-psilocybin-blockbuster-compass-usona/875270/">https://www.pharmavoice.com/news/race-first-psilocybin-blockbuster-compass-usona/8752...*
+  📅 Sun, 22 Nov 2026 21:13:10 +0000
 
-- **[Notes on the discrete Fourier transform (DFT)](https://eli.thegreenplace.net/2026/notes-on-the-discrete-fourier-transform-dft/)**
-  *<p>Article URL: <a href="https://eli.thegreenplace.net/2026/notes-on-the-discrete-fourier-transform-dft/">https://eli.thegreenplace.net/2026/notes-on-the-discrete-fourier-transform-dft/</a></p>
-<p>Com...*
-  📅 Sun, 22 Nov 2026 06:52:25 +0000
+- **[A Beginner's Guide to Local AI with Inkling, Qwen, and Unsloth](https://www.gpupartner.com/blog/beginners-guide-local-ai-inkling-qwen-unsloth)**
+  *<p>Article URL: <a href="https://www.gpupartner.com/blog/beginners-guide-local-ai-inkling-qwen-unsloth">https://www.gpupartner.com/blog/beginners-guide-local-ai-inkling-qwen-unsloth</a></p>
+<p>Comment...*
+  📅 Sun, 22 Nov 2026 21:01:16 +0000
 
-- **[Show HN: The Riemann Proof Handbook](https://github.com/tamnd/riemann-handbook)**
-  *<p>Article URL: <a href="https://github.com/tamnd/riemann-handbook">https://github.com/tamnd/riemann-handbook</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50596664">https://n...*
-  📅 Sun, 22 Nov 2026 05:46:30 +0000
+- **[AWS got hit by an outage too. You didn't hear about it](https://www.theregister.com/columnists/2026/11/21/aws-got-hit-by-an-outage-too-heres-why-you-didnt-hear-about-it/5311511)**
+  *<p>Article URL: <a href="https://www.theregister.com/columnists/2026/11/21/aws-got-hit-by-an-outage-too-heres-why-you-didnt-hear-about-it/5311511">https://www.theregister.com/columnists/2026/11/21/aws...*
+  📅 Sun, 22 Nov 2026 20:50:18 +0000
 
-- **[Fast-Anything: Don't rewrite it in Rust. Rewrite the 5% that's slow](https://github.com/EL4CTEO/fast-anything)**
-  *<p>Article URL: <a href="https://github.com/EL4CTEO/fast-anything">https://github.com/EL4CTEO/fast-anything</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50596155">https://new...*
-  📅 Sun, 22 Nov 2026 04:10:09 +0000
+- **[I did a meditation and it sort of changed my personality?!](https://www.benkuhn.net/meditation/)**
+  *<p>Article URL: <a href="https://www.benkuhn.net/meditation/">https://www.benkuhn.net/meditation/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50603674">https://news.ycombina...*
+  📅 Sun, 22 Nov 2026 20:41:59 +0000
 
 ### 📑 TechCrunch
 
-- **[Signal restricts mobile screenshots as it confronts ‘existential threat’ of AI surveillance](https://techcrunch.com/2026/11/21/signal-restricts-mobile-screenshots-as-it-confronts-existential-threat-of-ai-surveillance/)**
-  *Signal is limiting users' ability to take screenshots in both its Android and iOS apps....*
-  📅 Sat, 21 Nov 2026 21:37:10 +0000
+- **[‘You Can See Everything’ has made more than $100M worldwide](https://techcrunch.com/2026/11/22/you-can-see-everything-has-made-more-than-100m-worldwide/)**
+  *The new Elizabeth Holmes documentary is just beginning to roll out internationally....*
+  📅 Sun, 22 Nov 2026 21:42:48 +0000
 
-- **[A tale of two Nvidias](https://techcrunch.com/2026/11/21/a-tale-of-two-nvidias/)**
-  *We got two very different pictures of Nvidia —  the company’s latest earnings report vs. the tech executives loudly calling for Jensen Huang’s return....*
-  📅 Sat, 21 Nov 2026 21:07:42 +0000
+- **[OpenAI’s chief scientist has thoughts on how to limit AI development](https://techcrunch.com/2026/11/22/openais-chief-scientist-has-thoughts-on-how-to-limit-ai-development/)**
+  *To establish a speed limit on AI development, you need to agree on how to measure speed....*
+  📅 Sun, 22 Nov 2026 21:14:07 +0000
 
-- **[Trump says reported FBI database hack is ‘not good’](https://techcrunch.com/2026/11/21/trump-says-reported-fbi-database-hack-is-not-good/)**
-  *The FBI is reportedly investigating a hack of the National Crime Information Center....*
-  📅 Sat, 21 Nov 2026 18:44:53 +0000
+- **[The best apps to make new friends right now](https://techcrunch.com/2026/11/22/as-people-look-for-ways-to-make-new-friends-here-are-the-apps-promising-to-help/)**
+  *We've compiled a list of friendship apps, from friend discovery platforms like BFF to event-focused ones like Timeleft....*
+  📅 Sun, 22 Nov 2026 21:00:00 +0000
 
-- **[Here are the top AI agents that can live in your text messages](https://techcrunch.com/2026/11/21/all-the-ai-agents-that-can-live-in-your-text-messages/)**
-  *We created a list of the most notable AI agents that can live in your text messages, from general assistants to agents designed for families, travel, and work....*
-  📅 Sat, 21 Nov 2026 17:00:00 +0000
+- **[Why data centers are at the center of the Big Tech backlash](https://techcrunch.com/2026/11/22/why-data-centers-are-at-the-center-of-the-big-tech-backlash/)**
+  *Journalist Paris Marx unpacks his new book "Hyperscale."...*
+  📅 Sun, 22 Nov 2026 18:08:43 +0000
 
-- **[Is selling an AI version of your face to this microdrama startup the future of Hollywood?](https://techcrunch.com/2026/11/21/is-selling-an-ai-version-of-your-face-to-this-microdrama-startup-the-future-of-hollywood/)**
-  *An actor has licensed his face to a microdrama startup — in a trend that's already popular in China. Experts question the long-term consequences if this becomes a trend in Hollywood, too....*
-  📅 Sat, 21 Nov 2026 16:00:00 +0000
+- **[TechCrunch Mobility: A/B testing robots vs. humans](https://techcrunch.com/2026/11/22/techcrunch-mobility-a-b-testing-robots-vs-humans/)**
+  *Welcome back to TechCrunch Mobility, your hub for the future of transportation and, now more than ever, the role AI is playing in it....*
+  📅 Sun, 22 Nov 2026 17:06:00 +0000
 
-- **[Alaska, your next governor is a Wikipedia nerd](https://techcrunch.com/2026/11/21/alaska-your-next-governor-is-a-wikipedia-nerd/)**
-  *Jonathan Kreiss-Tomkins, Alaska's governor-elect, has made more than 13,000 WIkipedia edits....*
-  📅 Sat, 21 Nov 2026 15:18:29 +0000
+- **[Can a TV be too large? An investigation](https://techcrunch.com/2026/11/22/can-a-tv-be-too-large-an-investigation/)**
+  *Can a TV be too large? This writer's recent upgrade to a 65-inch OLED came with some unexpected challenges....*
+  📅 Sun, 22 Nov 2026 15:00:00 +0000
 
 ### 📑 Dev.to
 
-- **[Help Me Test My Multilingual School Website — Everyone Is Welcome!](https://dev.to/muhammad_farhan/help-me-test-my-multilingual-school-website-everyone-is-welcome-1bac)**
-  *<p>I'm an independent solo developer working on a multilingual website replica concept of SMK Negeri 1 Mandau, and I'm opening the project for public testing.</p>
+- **[Figured it was time to start sharing what I've been working on...](https://dev.to/ric0c0derlab/figured-it-was-time-to-start-sharing-what-ive-been-working-on-4f58)**
+  *<p>So I've been working on a few projects for a while now, mostly just doing my own thing, trying stuff out, breaking things, fixing them, and occasionally wondering why something that should've taken...*
+  📅 Sun, 22 Nov 2026 22:51:43 +0000
 
-<p>I'm looking for volunteers from a...*
-  📅 Sun, 22 Nov 2026 13:47:44 +0000
-
-- **[Lovable borra las bases de datos de Test el 1 de diciembre de 2026: qué revisar esta semana](https://dev.to/ricardonldev/lovable-borra-las-bases-de-datos-de-test-el-1-de-diciembre-de-2026-que-revisar-esta-semana-5co2)**
-  *<p>Si tu app de Lovable usaba el backend integrado con los antiguos entornos Test y Live, hay una fecha que todavía importa: <strong>el 1 de diciembre de 2026 Lovable borra para siempre las bases de d...*
-  📅 Sun, 22 Nov 2026 13:47:01 +0000
+- **[API credit would have fixed one of the four faults behind my AI agents' "Try it free" button](https://dev.to/nefayran/api-credit-would-have-fixed-one-of-the-four-faults-behind-my-ai-agents-try-it-free-button-2819)**
+  *<p>Early on 22 November (UTC) an automated check caught the "Try it free" photo button of AllKeep Inventory, a home inventory web app, answering every try that reached it with a 500 (02:50 to 04:14 UT...*
+  📅 Sun, 22 Nov 2026 22:51:00 +0000
 
 </details>
 
@@ -118,105 +116,105 @@
 
 ### 📈 Daily Trending
 
-- **[nickghq00x1/bubble-gum-simulator-infinity-script-x64](https://github.com/nickghq00x1/bubble-gum-simulator-infinity-script-x64)** ⭐ 226
-  ![Jupyter Notebook](https://img.shields.io/badge/-Jupyter Notebook-lightgrey)
-  Bubble Gum Simulator Infinity (BGSI) Script — Auto-Blow, Fast Hatch Secret Pets & Rift ESP (Windows x64 Build): native 64-bit Windows 10/11 portable x64 build with hot-reloadable JSON configuration, low-overhead runtime, and prebuilt portable release.
+- **[os6/nospeaker](https://github.com/os6/nospeaker)** ⭐ 356
+  ![Swift](https://img.shields.io/badge/-Swift-lightgrey)
+  make your macbook's trackpad talk using its haptic motor
 
-- **[alexpetrovx1903z9/switch-firmware-19-keys-pack](https://github.com/alexpetrovx1903z9/switch-firmware-19-keys-pack)** ⭐ 218
-  ![Jupyter Notebook](https://img.shields.io/badge/-Jupyter Notebook-lightgrey)
-  Switch Emulator Firmware 19.0.1 + Keys Installer for Sudachi, Citron, Suyu & NSP-Box: native 64-bit Windows 10/11 portable x64 build with hot-reloadable JSON configuration, low-overhead runtime, and prebuilt portable release.
+- **[alfoguasta/gta6-preload-emulator](https://github.com/alfoguasta/gta6-preload-emulator)** ⭐ 281
+  ![HTML](https://img.shields.io/badge/-HTML-lightgrey)
+  Gta6 Preload Emulator simulates the preload flow for testing and validation.
 
-- **[sergey-techdev1998d6/fisch-script-macro-win11](https://github.com/sergey-techdev1998d6/fisch-script-macro-win11)** ⭐ 215
-  ![Jupyter Notebook](https://img.shields.io/badge/-Jupyter Notebook-lightgrey)
-  Fisch Script & Macro V12 — Auto-Cast, Instant Reel, Duping & Aurora Totem Hub (Windows 10/11 x64): native 64-bit Windows 10/11 portable x64 build with hot-reloadable JSON configuration, low-overhead runtime, and prebuilt portable release.
+- **[jaredfreellm/FREELLM_INSTALL](https://github.com/jaredfreellm/FREELLM_INSTALL)** ⭐ 250
+  ![None](https://img.shields.io/badge/-None-lightgrey)
+  One OpenAI-compatible endpoint for many free LLM tiers. Add your own provider keys, and the router picks a healthy model for each request, fails over when one is rate-limited, and tracks usage per key so you stay under every quota. Self-hosted, keys encrypted at rest. For personal experimentation.
 
-- **[ben-tech-lab1999h1/spt-aki-profile-editor-tarkov-win11](https://github.com/ben-tech-lab1999h1/spt-aki-profile-editor-tarkov-win11)** ⭐ 214
-  ![C++](https://img.shields.io/badge/-C++-pink)
-  Escape from Tarkov SPT-AKI 3.10 Profile Editor, Flea Unlocker & BattlEye smbios-utility (Windows 10/11 x64): native 64-bit Windows 10/11 portable x64 build with hot-reloadable JSON configuration, low-overhead runtime, and prebuilt portable release.
+- **[satimbe39-cell/path-of-exile-2-map-reveal-zoom-out-noralin](https://github.com/satimbe39-cell/path-of-exile-2-map-reveal-zoom-out-noralin)** ⭐ 230
+  ![HTML](https://img.shields.io/badge/-HTML-lightgrey)
+  Zoom out further on the PoE 2 map reveal for a wider view.
 
-- **[sam-ivanov-io1995u2/cs2-skin-changer-win11](https://github.com/sam-ivanov-io1995u2/cs2-skin-changer-win11)** ⭐ 211
-  ![Jupyter Notebook](https://img.shields.io/badge/-Jupyter Notebook-lightgrey)
-  CS2 Skin Changer & Inventory Unlocker — All Knives, Gloves, Agents & Stickers (Windows 10/11 x64): native 64-bit Windows 10/11 portable x64 build with hot-reloadable JSON configuration, low-overhead runtime, and prebuilt portable release.
+- **[rahulabd919/ios-ramdisk-mdm-iremoval-pro-windows-client-rakaven](https://github.com/rahulabd919/ios-ramdisk-mdm-iremoval-pro-windows-client-rakaven)** ⭐ 230
+  ![HTML](https://img.shields.io/badge/-HTML-lightgrey)
+  Windows client for iOS ramdisk MDM workflows with iRemoval Pro Rakaven support.
 
-- **[kevin-alilab2094a4/deep-live-cam-cuda-portable-win11](https://github.com/kevin-alilab2094a4/deep-live-cam-cuda-portable-win11)** ⭐ 210
-  ![Jupyter Notebook](https://img.shields.io/badge/-Jupyter Notebook-lightgrey)
-  Deep-Live-Cam v2.1 Portable (1-Click CUDA Installer) — Realtime Webcam FaceSwap for OBS/Discord (Windows 10/11 x64): native 64-bit Windows 10/11 portable x64 build with hot-reloadable JSON configuration, low-overhead runtime, and prebuilt portable release.
+- **[Yasar882/creative-video-adobe-cc-v4-universal-vefamar](https://github.com/Yasar882/creative-video-adobe-cc-v4-universal-vefamar)** ⭐ 230
+  ![HTML](https://img.shields.io/badge/-HTML-lightgrey)
+  Universal video toolset for Adobe CC - built for creative workflows.
 
-- **[dmitryveng2092q8/monster-hunter-wilds-save-editor-win11](https://github.com/dmitryveng2092q8/monster-hunter-wilds-save-editor-win11)** ⭐ 210
-  ![Jupyter Notebook](https://img.shields.io/badge/-Jupyter Notebook-lightgrey)
-  Monster Hunter Wilds Save Editor, Charm/Decoration Injector & Standalone Trainer (Windows 10/11 x64): native 64-bit Windows 10/11 portable x64 build with hot-reloadable JSON configuration, low-overhead runtime, and prebuilt portable release.
+- **[bhoomikasm-11/avast-premium-security-satamir](https://github.com/bhoomikasm-11/avast-premium-security-satamir)** ⭐ 229
+  ![HTML](https://img.shields.io/badge/-HTML-lightgrey)
+  Security product directory entry for Avast Premium Security Satamir builds.
 
-- **[nikitadhq2000d6/pump-fun-volume-bump-bot-win11](https://github.com/nikitadhq2000d6/pump-fun-volume-bump-bot-win11)** ⭐ 207
-  ![Jupyter Notebook](https://img.shields.io/badge/-Jupyter Notebook-lightgrey)
-  Pump.fun Volume Booster, Micro-Buy Bump Bot & Organic Holder Maker Terminal (2026) (Windows 10/11 x64): native 64-bit Windows 10/11 portable x64 build with hot-reloadable JSON configuration, low-overhead runtime, and prebuilt portable release.
+- **[gunalgps/marvel-rivals-hitscan-projectile-smoothing-assistant-dabalin](https://github.com/gunalgps/marvel-rivals-hitscan-projectile-smoothing-assistant-dabalin)** ⭐ 229
+  ![HTML](https://img.shields.io/badge/-HTML-lightgrey)
+  Tune your hitscan and projectile aim in Marvel Rivals with Dabalin's smoothing helper.
 
 ### 📈 Weekly Trending
 
-- **[ItsNotRexed/Leonida](https://github.com/ItsNotRexed/Leonida)** ⭐ 10,412
+- **[ItsNotRexed/Leonida](https://github.com/ItsNotRexed/Leonida)** ⭐ 14,521
   ![Python](https://img.shields.io/badge/-Python-blue)
   Leonida Is A Native PC Recompilation Of The Xbox Version Of Grand Theft Auto 6
 
-- **[erkamyaman/rust-anything](https://github.com/erkamyaman/rust-anything)** ⭐ 7,755
+- **[erkamyaman/rust-anything](https://github.com/erkamyaman/rust-anything)** ⭐ 7,966
   ![Rust](https://img.shields.io/badge/-Rust-brown)
   Rewrite your whole app in Rust, one piece at a time, checked against the original's recorded behavior at every step. CLIs, HTTP servers and libraries in TypeScript, Python, C, Go, Ruby and Java.
 
-- **[krisgfx9/Wireless-Device-Battery-Monitor](https://github.com/krisgfx9/Wireless-Device-Battery-Monitor)** ⭐ 6,014
-  ![C++](https://img.shields.io/badge/-C++-pink)
-  Show the battery level of wireless mice, headsets, keyboards and controllers on the Windows 10/11 taskbar. Lightweight tray app, no vendor software needed. Supports Logitech, Razer, SteelSeries, Corsair, HyperX, Glorious, PS4/PS5 DualSense, Xbox and Bluetooth devices.
-
-- **[bookwjitchieni1986/blender-ai-mcp-addon](https://github.com/bookwjitchieni1986/blender-ai-mcp-addon)** ⭐ 2,740
+- **[bookwjitchieni1986/blender-ai-mcp-addon](https://github.com/bookwjitchieni1986/blender-ai-mcp-addon)** ⭐ 2,746
   ![None](https://img.shields.io/badge/-None-lightgrey)
   AI assistant and MCP server for Blender: visual chat, scene tools, multi-agent workflows. Works with ChatGPT/GPT, Claude, Gemini, Ollama, OpenCode. Blender AI addon, copilot for 3D, bpy Python scripting, MCP integration.
 
-- **[gylive/google-ultra](https://github.com/gylive/google-ultra)** ⭐ 2,662
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  None
-
-- **[iamajmeena/neonclipping](https://github.com/iamajmeena/neonclipping)** ⭐ 1,975
+- **[iamajmeena/neonclipping](https://github.com/iamajmeena/neonclipping)** ⭐ 2,087
   ![Python](https://img.shields.io/badge/-Python-blue)
   Paste a link, get captioned 9:16 clips in ~2 min. Free, local, open-source clipping engine (audio-first, YouTube captions, local LLM).
 
-- **[sybil-solutions/inference-optimisation-skill](https://github.com/sybil-solutions/inference-optimisation-skill)** ⭐ 1,856
+- **[sybil-solutions/inference-optimisation-skill](https://github.com/sybil-solutions/inference-optimisation-skill)** ⭐ 1,949
   ![Python](https://img.shields.io/badge/-Python-blue)
   Agent skill for hill-climbing local LLM serving speed (decode, speculative decoding, prefill, KV, startup, TTFT) on any hardware and quantization
 
-- **[hatsunemiku-ai/google-one-tools](https://github.com/hatsunemiku-ai/google-one-tools)** ⭐ 1,213
+- **[EL4CTEO/fast-anything](https://github.com/EL4CTEO/fast-anything)** ⭐ 1,821
+  ![Rust](https://img.shields.io/badge/-Rust-brown)
+  Don't rewrite it in Rust. Rewrite the 5% that's slow: profile Python, Node or Ruby apps, port the hot functions with your coding agent, prove they behave the same.
+
+- **[R0Y00/Xbox2Windows](https://github.com/R0Y00/Xbox2Windows)** ⭐ 1,290
   ![Python](https://img.shields.io/badge/-Python-blue)
-  None
+  GTA VI static recompilation research for x64 Windows. Source-built EXEs run on Windows, and two translated pixel shaders match reference outputs on hardware and WARP. Full-game startup is unverified.
+
+- **[omonkeyz/xbox-emulator](https://github.com/omonkeyz/xbox-emulator)** ⭐ 1,275
+  ![Rust](https://img.shields.io/badge/-Rust-brown)
+  Progress notes for running Xbox Series X|S builds on PC (TomBox + rage9)
 
 ### 📈 Monthly Trending
 
-- **[storytold/craft-anything](https://github.com/storytold/craft-anything)** ⭐ 40,850
+- **[storytold/craft-anything](https://github.com/storytold/craft-anything)** ⭐ 41,176
   ![Rust](https://img.shields.io/badge/-Rust-brown)
   Craft Anything: understand how any software works, and craft your own.
 
-- **[ccch1mneyyy/dsh-Go](https://github.com/ccch1mneyyy/dsh-Go)** ⭐ 30,006
+- **[ccch1mneyyy/dsh-Go](https://github.com/ccch1mneyyy/dsh-Go)** ⭐ 30,157
   ![Dart](https://img.shields.io/badge/-Dart-lightgrey)
   dsh-go — DeepSeek Harness 装进口袋：手机本机运行，也能遥控你的电脑。
 
-- **[deepseek-ai/dsh-superagent-prototype](https://github.com/deepseek-ai/dsh-superagent-prototype)** ⭐ 24,205
+- **[deepseek-ai/dsh-superagent-prototype](https://github.com/deepseek-ai/dsh-superagent-prototype)** ⭐ 24,227
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   Towards a More Autonomous Agent System
 
-- **[heydamir/unslop](https://github.com/heydamir/unslop)** ⭐ 20,007
+- **[heydamir/unslop](https://github.com/heydamir/unslop)** ⭐ 20,239
   ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
   A Claude skill that turns vibecoded, AI-looking UI into a designed interface
 
-- **[anefzaoui/misterdownloadmanager](https://github.com/anefzaoui/misterdownloadmanager)** ⭐ 16,360
+- **[anefzaoui/misterdownloadmanager](https://github.com/anefzaoui/misterdownloadmanager)** ⭐ 16,547
   ![Rust](https://img.shields.io/badge/-Rust-brown)
   misterdownloadmanager: The ultimate open-source, clean-room download manager written from scratch in pure Rust for Windows, Mac, and Linux
 
-- **[libracoder/kiri](https://github.com/libracoder/kiri)** ⭐ 12,200
+- **[ItsNotRexed/Leonida](https://github.com/ItsNotRexed/Leonida)** ⭐ 14,521
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  Leonida Is A Native PC Recompilation Of The Xbox Version Of Grand Theft Auto 6
+
+- **[libracoder/kiri](https://github.com/libracoder/kiri)** ⭐ 12,322
   ![Rust](https://img.shields.io/badge/-Rust-brown)
   A small, fast container runtime for macOS, Windows and Linux with free Ngrok alternative
 
-- **[JuneYaooo/rea-video](https://github.com/JuneYaooo/rea-video)** ⭐ 12,044
+- **[JuneYaooo/rea-video](https://github.com/JuneYaooo/rea-video)** ⭐ 12,219
   ![Python](https://img.shields.io/badge/-Python-blue)
   Reverse-engineer any video, shot by shot: filmed, AI-generated or coded, and how to remake it. Breakdowns in the open VIDEO.md format. 逆向一切视频，逐个镜头看是拍的、AI 生成的还是代码做的，再告诉你怎么复刻；拆解结果按 VIDEO.md 格式输出。
-
-- **[Minireel/HGhub](https://github.com/Minireel/HGhub)** ⭐ 11,397
-  ![Rust](https://img.shields.io/badge/-Rust-brown)
-  Plug-in media player
 
 ## 🚀 Latest Releases
 
@@ -483,59 +481,59 @@ Sched...
 
 | Skill | Status |
 |-------|--------|
-| Java | 🟡 Learning |
+| Java | 🟢 Proficient |
 | Python | 🔴 Beginner |
-| JavaScript | ⚪ Planned |
+| JavaScript | 🟡 Learning |
 | TypeScript | 🟢 Proficient |
-| Go | 🔴 Beginner |
+| Go | 🟡 Learning |
 
 ### Frameworks
 
 | Skill | Status |
 |-------|--------|
-| React | 🟡 Learning |
-| Spring Boot | ⚪ Planned |
-| Django | 🟢 Proficient |
-| Node.js | 🟢 Proficient |
-| Next.js | 🟢 Proficient |
+| React | 🔴 Beginner |
+| Spring Boot | 🟡 Learning |
+| Django | 🔴 Beginner |
+| Node.js | 🟡 Learning |
+| Next.js | ⚪ Planned |
 
 ### Cybersecurity
 
 | Skill | Status |
 |-------|--------|
-| Penetration Testing | 🔴 Beginner |
-| Web Security | 🟡 Learning |
-| Network Security | 🟢 Proficient |
-| OWASP | 🔴 Beginner |
+| Penetration Testing | 🟡 Learning |
+| Web Security | ⚪ Planned |
+| Network Security | 🟡 Learning |
+| OWASP | 🟡 Learning |
 
 ### Ai Ml
 
 | Skill | Status |
 |-------|--------|
-| Machine Learning | 🟡 Learning |
-| Deep Learning | 🟡 Learning |
-| NLP | 🟢 Proficient |
-| Computer Vision | ⚪ Planned |
-| TensorFlow | ⚪ Planned |
-| PyTorch | 🔴 Beginner |
+| Machine Learning | 🟢 Proficient |
+| Deep Learning | 🔴 Beginner |
+| NLP | 🟡 Learning |
+| Computer Vision | 🟢 Proficient |
+| TensorFlow | 🟡 Learning |
+| PyTorch | 🟢 Proficient |
 
 ### Devops
 
 | Skill | Status |
 |-------|--------|
 | Docker | 🟡 Learning |
-| Kubernetes | 🔴 Beginner |
+| Kubernetes | 🟢 Proficient |
 | CI/CD | 🔴 Beginner |
 | AWS | 🟡 Learning |
-| Azure | 🔴 Beginner |
+| Azure | 🟡 Learning |
 
 ### Other
 
 | Skill | Status |
 |-------|--------|
-| Blockchain | 🟢 Proficient |
-| Web3 | ⚪ Planned |
-| Cloud Computing | 🟢 Proficient |
+| Blockchain | 🔴 Beginner |
+| Web3 | 🔴 Beginner |
+| Cloud Computing | 🟡 Learning |
 
 </details>
 
