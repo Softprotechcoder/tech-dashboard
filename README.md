@@ -21,7 +21,7 @@
 |--------|-------|
 | 📰 Latest News Articles | 26 |
 | 🔥 Trending Repositories | 45 |
-| 🎯 Latest Releases | 0 |
+| 🎯 Latest Releases | 10 |
 | 🎯 Learning Goals | 4 |
 
 ## 🎯 Current Focus
@@ -46,34 +46,33 @@
 
 ### 📑 Hacker News
 
-- **[The Most Popular Car Colors in America](https://www.iseecars.com/most-popular-car-colors-study)**
-  *<p>Article URL: <a href="https://www.iseecars.com/most-popular-car-colors-study">https://www.iseecars.com/most-popular-car-colors-study</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/i...*
-  📅 Sun, 22 Nov 2026 02:47:18 +0000
+- **[Prisons get OK to jam contraband phones](https://arstechnica.com/tech-policy/2026/11/prisons-get-ok-to-jam-contraband-phones-ctia-says-nearby-phones-will-be-jammed-too/)**
+  *<p>Article URL: <a href="https://arstechnica.com/tech-policy/2026/11/prisons-get-ok-to-jam-contraband-phones-ctia-says-nearby-phones-will-be-jammed-too/">https://arstechnica.com/tech-policy/2026/11/pr...*
+  📅 Sun, 22 Nov 2026 13:00:52 +0000
 
-- **[Data Processing Incidents on Inference Providers](https://openrouter.ai/blog/announcements/data-processing-incidents-on-inference-providers/)**
-  *<p>Article URL: <a href="https://openrouter.ai/blog/announcements/data-processing-incidents-on-inference-providers/">https://openrouter.ai/blog/announcements/data-processing-incidents-on-inference-pro...*
-  📅 Sun, 22 Nov 2026 02:14:14 +0000
+- **[Muru – AI-assisted Rust server for Python apps by mod_WSGI's creator](https://simonwillison.net/2026/Nov/21/muru/)**
+  *<p>Article URL: <a href="https://simonwillison.net/2026/Nov/21/muru/">https://simonwillison.net/2026/Nov/21/muru/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50597959">https...*
+  📅 Sun, 22 Nov 2026 09:57:01 +0000
 
-- **[The Mythology of Conscious AI](https://www.noemamag.com/the-mythology-of-conscious-ai/)**
-  *<p>Article URL: <a href="https://www.noemamag.com/the-mythology-of-conscious-ai/">https://www.noemamag.com/the-mythology-of-conscious-ai/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com...*
-  📅 Sun, 22 Nov 2026 02:10:02 +0000
+- **[87% of the Anthropic power will come from gas and 11% from coal in 2028](https://betterdatacenterproject.com/2026/11/16/how-ai-is-powered-a-breakdown-of-byop-and-grid-power/)**
+  *<p>Article URL: <a href="https://betterdatacenterproject.com/2026/11/16/how-ai-is-powered-a-breakdown-of-byop-and-grid-power/">https://betterdatacenterproject.com/2026/11/16/how-ai-is-powered-a-breakd...*
+  📅 Sun, 22 Nov 2026 08:57:34 +0000
 
-- **[Leonida – PC Recompilation of the Xbox Version of GTA 6](https://github.com/ItsNotRexed/Leonida)**
-  *<p>Article URL: <a href="https://github.com/ItsNotRexed/Leonida">https://github.com/ItsNotRexed/Leonida</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50595168">https://news.yc...*
-  📅 Sun, 22 Nov 2026 00:57:26 +0000
+- **[Notes on the discrete Fourier transform (DFT)](https://eli.thegreenplace.net/2026/notes-on-the-discrete-fourier-transform-dft/)**
+  *<p>Article URL: <a href="https://eli.thegreenplace.net/2026/notes-on-the-discrete-fourier-transform-dft/">https://eli.thegreenplace.net/2026/notes-on-the-discrete-fourier-transform-dft/</a></p>
+<p>Com...*
+  📅 Sun, 22 Nov 2026 06:52:25 +0000
 
-- **[Sandwich Simulator](https://stulle.app/)**
-  *<p>Article URL: <a href="https://stulle.app/">https://stulle.app/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50594911">https://news.ycombinator.com/item?id=50594911</a></p>...*
-  📅 Sun, 22 Nov 2026 00:07:59 +0000
+- **[Show HN: The Riemann Proof Handbook](https://github.com/tamnd/riemann-handbook)**
+  *<p>Article URL: <a href="https://github.com/tamnd/riemann-handbook">https://github.com/tamnd/riemann-handbook</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50596664">https://n...*
+  📅 Sun, 22 Nov 2026 05:46:30 +0000
 
-- **[PcapAnalyzer – self-hosted pcap analyzer with 27 problem detectors](https://github.com/sebaandrada-cell/PcapAnalyzer)**
-  *<p>Article URL: <a href="https://github.com/sebaandrada-cell/PcapAnalyzer">https://github.com/sebaandrada-cell/PcapAnalyzer</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50594...*
-  📅 Sat, 21 Nov 2026 22:09:58 +0000
+- **[Fast-Anything: Don't rewrite it in Rust. Rewrite the 5% that's slow](https://github.com/EL4CTEO/fast-anything)**
+  *<p>Article URL: <a href="https://github.com/EL4CTEO/fast-anything">https://github.com/EL4CTEO/fast-anything</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50596155">https://new...*
+  📅 Sun, 22 Nov 2026 04:10:09 +0000
 
 ### 📑 TechCrunch
 
@@ -103,13 +102,15 @@
 
 ### 📑 Dev.to
 
-- **[FreshGauge: a freshness control plane inside the LLM gateway](https://dev.to/harishkotra/freshgauge-a-freshness-control-plane-inside-the-llm-gateway-533e)**
-  *<p>Every LLM answer is a snapshot of the model's training data. Ask for a price, a current model name, a CEO, or a fine cap and you get something that <em>was</em> true — stated with exactly the same ...*
-  📅 Sun, 22 Nov 2026 04:09:25 +0000
+- **[Help Me Test My Multilingual School Website — Everyone Is Welcome!](https://dev.to/muhammad_farhan/help-me-test-my-multilingual-school-website-everyone-is-welcome-1bac)**
+  *<p>I'm an independent solo developer working on a multilingual website replica concept of SMK Negeri 1 Mandau, and I'm opening the project for public testing.</p>
 
-- **[Pruebas de API con Cypress: de cy.request() a producción con GitHub Actions y Render](https://dev.to/jhonyvargas/pruebas-de-api-con-cypress-de-cyrequest-a-produccion-con-github-actions-y-render-32jf)**
-  *<p>Cuando escuchamos "Cypress" casi siempre pensamos en pruebas de interfaz: clics, formularios, navegación. Pero Cypress también es una herramienta muy cómoda para <strong>probar APIs REST</strong>, ...*
-  📅 Sun, 22 Nov 2026 04:08:07 +0000
+<p>I'm looking for volunteers from a...*
+  📅 Sun, 22 Nov 2026 13:47:44 +0000
+
+- **[Lovable borra las bases de datos de Test el 1 de diciembre de 2026: qué revisar esta semana](https://dev.to/ricardonldev/lovable-borra-las-bases-de-datos-de-test-el-1-de-diciembre-de-2026-que-revisar-esta-semana-5co2)**
+  *<p>Si tu app de Lovable usaba el backend integrado con los antiguos entornos Test y Live, hay una fecha que todavía importa: <strong>el 1 de diciembre de 2026 Lovable borra para siempre las bases de d...*
+  📅 Sun, 22 Nov 2026 13:47:01 +0000
 
 </details>
 
@@ -117,103 +118,103 @@
 
 ### 📈 Daily Trending
 
-- **[nickghq00x1/bubble-gum-simulator-infinity-script-x64](https://github.com/nickghq00x1/bubble-gum-simulator-infinity-script-x64)** ⭐ 229
+- **[nickghq00x1/bubble-gum-simulator-infinity-script-x64](https://github.com/nickghq00x1/bubble-gum-simulator-infinity-script-x64)** ⭐ 226
   ![Jupyter Notebook](https://img.shields.io/badge/-Jupyter Notebook-lightgrey)
   Bubble Gum Simulator Infinity (BGSI) Script — Auto-Blow, Fast Hatch Secret Pets & Rift ESP (Windows x64 Build): native 64-bit Windows 10/11 portable x64 build with hot-reloadable JSON configuration, low-overhead runtime, and prebuilt portable release.
 
-- **[sergey-techdev1998d6/fisch-script-macro-win11](https://github.com/sergey-techdev1998d6/fisch-script-macro-win11)** ⭐ 221
-  ![Jupyter Notebook](https://img.shields.io/badge/-Jupyter Notebook-lightgrey)
-  Fisch Script & Macro V12 — Auto-Cast, Instant Reel, Duping & Aurora Totem Hub (Windows 10/11 x64): native 64-bit Windows 10/11 portable x64 build with hot-reloadable JSON configuration, low-overhead runtime, and prebuilt portable release.
-
-- **[alexpetrovx1903z9/switch-firmware-19-keys-pack](https://github.com/alexpetrovx1903z9/switch-firmware-19-keys-pack)** ⭐ 220
+- **[alexpetrovx1903z9/switch-firmware-19-keys-pack](https://github.com/alexpetrovx1903z9/switch-firmware-19-keys-pack)** ⭐ 218
   ![Jupyter Notebook](https://img.shields.io/badge/-Jupyter Notebook-lightgrey)
   Switch Emulator Firmware 19.0.1 + Keys Installer for Sudachi, Citron, Suyu & NSP-Box: native 64-bit Windows 10/11 portable x64 build with hot-reloadable JSON configuration, low-overhead runtime, and prebuilt portable release.
 
-- **[ben-tech-lab1999h1/spt-aki-profile-editor-tarkov-win11](https://github.com/ben-tech-lab1999h1/spt-aki-profile-editor-tarkov-win11)** ⭐ 219
+- **[sergey-techdev1998d6/fisch-script-macro-win11](https://github.com/sergey-techdev1998d6/fisch-script-macro-win11)** ⭐ 215
+  ![Jupyter Notebook](https://img.shields.io/badge/-Jupyter Notebook-lightgrey)
+  Fisch Script & Macro V12 — Auto-Cast, Instant Reel, Duping & Aurora Totem Hub (Windows 10/11 x64): native 64-bit Windows 10/11 portable x64 build with hot-reloadable JSON configuration, low-overhead runtime, and prebuilt portable release.
+
+- **[ben-tech-lab1999h1/spt-aki-profile-editor-tarkov-win11](https://github.com/ben-tech-lab1999h1/spt-aki-profile-editor-tarkov-win11)** ⭐ 214
   ![C++](https://img.shields.io/badge/-C++-pink)
   Escape from Tarkov SPT-AKI 3.10 Profile Editor, Flea Unlocker & BattlEye smbios-utility (Windows 10/11 x64): native 64-bit Windows 10/11 portable x64 build with hot-reloadable JSON configuration, low-overhead runtime, and prebuilt portable release.
 
-- **[nikitadhq2000d6/pump-fun-volume-bump-bot-win11](https://github.com/nikitadhq2000d6/pump-fun-volume-bump-bot-win11)** ⭐ 214
+- **[sam-ivanov-io1995u2/cs2-skin-changer-win11](https://github.com/sam-ivanov-io1995u2/cs2-skin-changer-win11)** ⭐ 211
   ![Jupyter Notebook](https://img.shields.io/badge/-Jupyter Notebook-lightgrey)
-  Pump.fun Volume Booster, Micro-Buy Bump Bot & Organic Holder Maker Terminal (2026) (Windows 10/11 x64): native 64-bit Windows 10/11 portable x64 build with hot-reloadable JSON configuration, low-overhead runtime, and prebuilt portable release.
+  CS2 Skin Changer & Inventory Unlocker — All Knives, Gloves, Agents & Stickers (Windows 10/11 x64): native 64-bit Windows 10/11 portable x64 build with hot-reloadable JSON configuration, low-overhead runtime, and prebuilt portable release.
 
-- **[sam-lee-dev1990s2/poe2-auto-flask-cheat-hud-win11](https://github.com/sam-lee-dev1990s2/poe2-auto-flask-cheat-hud-win11)** ⭐ 213
-  ![Jupyter Notebook](https://img.shields.io/badge/-Jupyter Notebook-lightgrey)
-  PoE 2 external-overlay HUD (ExileAPI) — Auto-Flask, Auto-Dodge, Rare Monster ESP & Price Check (Windows 10/11 x64): native 64-bit Windows 10/11 portable x64 build with hot-reloadable JSON configuration, low-overhead runtime, and prebuilt portable release.
-
-- **[dmitryveng2092q8/monster-hunter-wilds-save-editor-win11](https://github.com/dmitryveng2092q8/monster-hunter-wilds-save-editor-win11)** ⭐ 213
-  ![Jupyter Notebook](https://img.shields.io/badge/-Jupyter Notebook-lightgrey)
-  Monster Hunter Wilds Save Editor, Charm/Decoration Injector & Standalone Trainer (Windows 10/11 x64): native 64-bit Windows 10/11 portable x64 build with hot-reloadable JSON configuration, low-overhead runtime, and prebuilt portable release.
-
-- **[kevin-alilab2094a4/deep-live-cam-cuda-portable-win11](https://github.com/kevin-alilab2094a4/deep-live-cam-cuda-portable-win11)** ⭐ 212
+- **[kevin-alilab2094a4/deep-live-cam-cuda-portable-win11](https://github.com/kevin-alilab2094a4/deep-live-cam-cuda-portable-win11)** ⭐ 210
   ![Jupyter Notebook](https://img.shields.io/badge/-Jupyter Notebook-lightgrey)
   Deep-Live-Cam v2.1 Portable (1-Click CUDA Installer) — Realtime Webcam FaceSwap for OBS/Discord (Windows 10/11 x64): native 64-bit Windows 10/11 portable x64 build with hot-reloadable JSON configuration, low-overhead runtime, and prebuilt portable release.
 
+- **[dmitryveng2092q8/monster-hunter-wilds-save-editor-win11](https://github.com/dmitryveng2092q8/monster-hunter-wilds-save-editor-win11)** ⭐ 210
+  ![Jupyter Notebook](https://img.shields.io/badge/-Jupyter Notebook-lightgrey)
+  Monster Hunter Wilds Save Editor, Charm/Decoration Injector & Standalone Trainer (Windows 10/11 x64): native 64-bit Windows 10/11 portable x64 build with hot-reloadable JSON configuration, low-overhead runtime, and prebuilt portable release.
+
+- **[nikitadhq2000d6/pump-fun-volume-bump-bot-win11](https://github.com/nikitadhq2000d6/pump-fun-volume-bump-bot-win11)** ⭐ 207
+  ![Jupyter Notebook](https://img.shields.io/badge/-Jupyter Notebook-lightgrey)
+  Pump.fun Volume Booster, Micro-Buy Bump Bot & Organic Holder Maker Terminal (2026) (Windows 10/11 x64): native 64-bit Windows 10/11 portable x64 build with hot-reloadable JSON configuration, low-overhead runtime, and prebuilt portable release.
+
 ### 📈 Weekly Trending
 
-- **[erkamyaman/rust-anything](https://github.com/erkamyaman/rust-anything)** ⭐ 7,503
-  ![Rust](https://img.shields.io/badge/-Rust-brown)
-  Rewrite your whole app in Rust, one piece at a time, checked against the original's recorded behavior at every step. CLIs, HTTP servers and libraries in TypeScript, Python, C, Go, Ruby and Java.
-
-- **[ItsNotRexed/Leonida](https://github.com/ItsNotRexed/Leonida)** ⭐ 6,817
+- **[ItsNotRexed/Leonida](https://github.com/ItsNotRexed/Leonida)** ⭐ 10,412
   ![Python](https://img.shields.io/badge/-Python-blue)
   Leonida Is A Native PC Recompilation Of The Xbox Version Of Grand Theft Auto 6
 
-- **[krisgfx9/Wireless-Device-Battery-Monitor](https://github.com/krisgfx9/Wireless-Device-Battery-Monitor)** ⭐ 5,860
+- **[erkamyaman/rust-anything](https://github.com/erkamyaman/rust-anything)** ⭐ 7,755
+  ![Rust](https://img.shields.io/badge/-Rust-brown)
+  Rewrite your whole app in Rust, one piece at a time, checked against the original's recorded behavior at every step. CLIs, HTTP servers and libraries in TypeScript, Python, C, Go, Ruby and Java.
+
+- **[krisgfx9/Wireless-Device-Battery-Monitor](https://github.com/krisgfx9/Wireless-Device-Battery-Monitor)** ⭐ 6,014
   ![C++](https://img.shields.io/badge/-C++-pink)
   Show the battery level of wireless mice, headsets, keyboards and controllers on the Windows 10/11 taskbar. Lightweight tray app, no vendor software needed. Supports Logitech, Razer, SteelSeries, Corsair, HyperX, Glorious, PS4/PS5 DualSense, Xbox and Bluetooth devices.
 
-- **[gylive/google-ultra](https://github.com/gylive/google-ultra)** ⭐ 2,606
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  None
-
-- **[bookwjitchieni1986/blender-ai-mcp-addon](https://github.com/bookwjitchieni1986/blender-ai-mcp-addon)** ⭐ 2,589
+- **[bookwjitchieni1986/blender-ai-mcp-addon](https://github.com/bookwjitchieni1986/blender-ai-mcp-addon)** ⭐ 2,740
   ![None](https://img.shields.io/badge/-None-lightgrey)
   AI assistant and MCP server for Blender: visual chat, scene tools, multi-agent workflows. Works with ChatGPT/GPT, Claude, Gemini, Ollama, OpenCode. Blender AI addon, copilot for 3D, bpy Python scripting, MCP integration.
 
-- **[iamajmeena/neonclipping](https://github.com/iamajmeena/neonclipping)** ⭐ 1,766
+- **[gylive/google-ultra](https://github.com/gylive/google-ultra)** ⭐ 2,662
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  None
+
+- **[iamajmeena/neonclipping](https://github.com/iamajmeena/neonclipping)** ⭐ 1,975
   ![Python](https://img.shields.io/badge/-Python-blue)
   Paste a link, get captioned 9:16 clips in ~2 min. Free, local, open-source clipping engine (audio-first, YouTube captions, local LLM).
 
-- **[sybil-solutions/inference-optimisation-skill](https://github.com/sybil-solutions/inference-optimisation-skill)** ⭐ 1,718
+- **[sybil-solutions/inference-optimisation-skill](https://github.com/sybil-solutions/inference-optimisation-skill)** ⭐ 1,856
   ![Python](https://img.shields.io/badge/-Python-blue)
   Agent skill for hill-climbing local LLM serving speed (decode, speculative decoding, prefill, KV, startup, TTFT) on any hardware and quantization
 
-- **[hatsunemiku-ai/google-one-tools](https://github.com/hatsunemiku-ai/google-one-tools)** ⭐ 1,103
+- **[hatsunemiku-ai/google-one-tools](https://github.com/hatsunemiku-ai/google-one-tools)** ⭐ 1,213
   ![Python](https://img.shields.io/badge/-Python-blue)
   None
 
 ### 📈 Monthly Trending
 
-- **[storytold/craft-anything](https://github.com/storytold/craft-anything)** ⭐ 40,459
+- **[storytold/craft-anything](https://github.com/storytold/craft-anything)** ⭐ 40,850
   ![Rust](https://img.shields.io/badge/-Rust-brown)
   Craft Anything: understand how any software works, and craft your own.
 
-- **[ccch1mneyyy/dsh-Go](https://github.com/ccch1mneyyy/dsh-Go)** ⭐ 29,701
+- **[ccch1mneyyy/dsh-Go](https://github.com/ccch1mneyyy/dsh-Go)** ⭐ 30,006
   ![Dart](https://img.shields.io/badge/-Dart-lightgrey)
   dsh-go — DeepSeek Harness 装进口袋：手机本机运行，也能遥控你的电脑。
 
-- **[deepseek-ai/dsh-superagent-prototype](https://github.com/deepseek-ai/dsh-superagent-prototype)** ⭐ 24,175
+- **[deepseek-ai/dsh-superagent-prototype](https://github.com/deepseek-ai/dsh-superagent-prototype)** ⭐ 24,205
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   Towards a More Autonomous Agent System
 
-- **[heydamir/unslop](https://github.com/heydamir/unslop)** ⭐ 19,829
+- **[heydamir/unslop](https://github.com/heydamir/unslop)** ⭐ 20,007
   ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
   A Claude skill that turns vibecoded, AI-looking UI into a designed interface
 
-- **[anefzaoui/misterdownloadmanager](https://github.com/anefzaoui/misterdownloadmanager)** ⭐ 15,785
+- **[anefzaoui/misterdownloadmanager](https://github.com/anefzaoui/misterdownloadmanager)** ⭐ 16,360
   ![Rust](https://img.shields.io/badge/-Rust-brown)
   misterdownloadmanager: The ultimate open-source, clean-room download manager written from scratch in pure Rust for Windows, Mac, and Linux
 
-- **[libracoder/kiri](https://github.com/libracoder/kiri)** ⭐ 12,085
+- **[libracoder/kiri](https://github.com/libracoder/kiri)** ⭐ 12,200
   ![Rust](https://img.shields.io/badge/-Rust-brown)
   A small, fast container runtime for macOS, Windows and Linux with free Ngrok alternative
 
-- **[JuneYaooo/rea-video](https://github.com/JuneYaooo/rea-video)** ⭐ 11,874
+- **[JuneYaooo/rea-video](https://github.com/JuneYaooo/rea-video)** ⭐ 12,044
   ![Python](https://img.shields.io/badge/-Python-blue)
   Reverse-engineer any video, shot by shot: filmed, AI-generated or coded, and how to remake it. Breakdowns in the open VIDEO.md format. 逆向一切视频，逐个镜头看是拍的、AI 生成的还是代码做的，再告诉你怎么复刻；拆解结果按 VIDEO.md 格式输出。
 
-- **[Minireel/HGhub](https://github.com/Minireel/HGhub)** ⭐ 11,170
+- **[Minireel/HGhub](https://github.com/Minireel/HGhub)** ⭐ 11,397
   ![Rust](https://img.shields.io/badge/-Rust-brown)
   Plug-in media player
 
@@ -221,6 +222,141 @@
 
 <details>
 <summary>Click to expand latest releases</summary>
+
+### 📦 microsoft/vscode
+
+**[1.147.0](https://github.com/microsoft/vscode/releases/tag/1.147.0)** `1.147.0`
+
+📅 Released: November 18, 2026
+
+https://code.visualstudio.com/updates/v1_147...
+
+---
+
+### 📦 facebook/react
+
+**[19.3.1 (October 14th, 2026)](https://github.com/react/react/releases/tag/v19.3.1)** `v19.3.1`
+
+📅 Released: October 14, 2026
+
+## React Server Components
+
+- Improve transport protocol ([#37845](https://github.com/facebook/react/pull/37845) by @unstubbable and @eps1lon)...
+
+---
+
+### 📦 angular/angular
+
+**[22.3.0](https://github.com/angular/angular/releases/tag/v22.3.0)** `v22.3.0`
+
+📅 Released: November 18, 2026
+
+### compiler
+| Commit | Description |
+| -- | -- |
+| [![feat - e4f67442bb](https://img.shields.io/badge/e4f67442bb-feat-blue)](https://github.com/angular/angular/commit/e4f67442bbfc0a7d29793c4ff937a517...
+
+---
+
+### 📦 vuejs/vue
+
+**[v2.7.16 "Swan Song"](https://github.com/vuejs/vue/releases/tag/v2.7.16)** `v2.7.16`
+
+📅 Released: December 24, 2023
+
+**This is the final release for Vue 2.**
+
+Vue 2 will reach End of Life on December 31st, 2023. For more details, please read this [blog post](https://blog.vuejs.org/posts/vue-2-eol).
+
+Please refer...
+
+---
+
+### 📦 tensorflow/tensorflow
+
+**[TensorFlow 2.21.0](https://github.com/tensorflow/tensorflow/releases/tag/v2.21.0)** `v2.21.0`
+
+📅 Released: March 06, 2026
+
+# Release 2.21.0
+
+## TensorFlow
+
+### Breaking Changes
+
+* Support for Python 3.9 has been removed starting with TF 2.21.
+* The TensorBoard (TB) dependency has been removed starting with TF 2.21....
+
+---
+
+### 📦 pytorch/pytorch
+
+**[PyTorch 2.15.0 Release](https://github.com/pytorch/pytorch/releases/tag/v2.15.0)** `v2.15.0`
+
+📅 Released: October 28, 2026
+
+# PyTorch 2.15.0 Release Notes
+
+- [Highlights](#highlights)
+- [Backwards Incompatible Changes](#backwards-incompatible-changes)
+- [Deprecations](#deprecations)
+- [New Features](#new-features)
+- [Impro...
+
+---
+
+### 📦 kubernetes/kubernetes
+
+**[v1.37.2](https://github.com/kubernetes/kubernetes/releases/tag/v1.37.2)** `v1.37.2`
+
+📅 Released: October 28, 2026
+
+
+See [kubernetes-announce@](https://groups.google.com/forum/#!forum/kubernetes-announce). Additional binary downloads are linked in the [CHANGELOG](https://github.com/kubernetes/kubernetes/blob/master...
+
+---
+
+### 📦 docker/compose
+
+**[v5.8.0](https://github.com/docker/compose/releases/tag/v5.8.0)** `v5.8.0`
+
+📅 Released: November 17, 2026
+
+## What's Changed
+
+> ℹ️ **Scheduled jobs are now supported.** A job is a one-shot unit of work declared in the top-level `jobs:` element of your Compose file, run on demand or on a schedule. 
+Sched...
+
+---
+
+### 📦 nodejs/node
+
+**[2026-11-16, Version 27.0.0-alpha.0.1.1 (Alpha), @aduh95](https://github.com/nodejs/node/releases/tag/v27.0.0-alpha.0.1.1)** `v27.0.0-alpha.0.1.1`
+
+📅 Released: November 17, 2026
+
+
+
+### Notable Changes
+
+* \[[`e0c71bcd1c`](https://github.com/nodejs/node/commit/e0c71bcd1c)] - **tools**: notarize `bin/node` in the darwin tarballs (Ulises Gascón) [#67143](https://github.com/nod...
+
+---
+
+### 📦 rust-lang/rust
+
+**[Rust 1.100.0](https://github.com/rust-lang/rust/releases/tag/1.100.0)** `1.100.0`
+
+📅 Released: November 12, 2026
+
+<a id="1.100.0-Language"></a>
+
+## Language
+
+- [Stabilize never type](https://github.com/rust-lang/rust/pull/155499)
+- [Lint against repeated `#[repr(..)]` attributes](https://github.com/rust-lang/rust...
+
+---
 
 </details>
 
@@ -348,58 +484,58 @@
 | Skill | Status |
 |-------|--------|
 | Java | 🟡 Learning |
-| Python | ⚪ Planned |
+| Python | 🔴 Beginner |
 | JavaScript | ⚪ Planned |
 | TypeScript | 🟢 Proficient |
-| Go | 🟢 Proficient |
+| Go | 🔴 Beginner |
 
 ### Frameworks
 
 | Skill | Status |
 |-------|--------|
-| React | 🔴 Beginner |
+| React | 🟡 Learning |
 | Spring Boot | ⚪ Planned |
-| Django | 🔴 Beginner |
-| Node.js | 🟡 Learning |
-| Next.js | ⚪ Planned |
+| Django | 🟢 Proficient |
+| Node.js | 🟢 Proficient |
+| Next.js | 🟢 Proficient |
 
 ### Cybersecurity
 
 | Skill | Status |
 |-------|--------|
-| Penetration Testing | 🟢 Proficient |
+| Penetration Testing | 🔴 Beginner |
 | Web Security | 🟡 Learning |
 | Network Security | 🟢 Proficient |
-| OWASP | 🟡 Learning |
+| OWASP | 🔴 Beginner |
 
 ### Ai Ml
 
 | Skill | Status |
 |-------|--------|
 | Machine Learning | 🟡 Learning |
-| Deep Learning | 🔴 Beginner |
-| NLP | ⚪ Planned |
-| Computer Vision | 🟡 Learning |
-| TensorFlow | 🔴 Beginner |
-| PyTorch | 🟢 Proficient |
+| Deep Learning | 🟡 Learning |
+| NLP | 🟢 Proficient |
+| Computer Vision | ⚪ Planned |
+| TensorFlow | ⚪ Planned |
+| PyTorch | 🔴 Beginner |
 
 ### Devops
 
 | Skill | Status |
 |-------|--------|
-| Docker | ⚪ Planned |
-| Kubernetes | 🟡 Learning |
-| CI/CD | ⚪ Planned |
-| AWS | ⚪ Planned |
+| Docker | 🟡 Learning |
+| Kubernetes | 🔴 Beginner |
+| CI/CD | 🔴 Beginner |
+| AWS | 🟡 Learning |
 | Azure | 🔴 Beginner |
 
 ### Other
 
 | Skill | Status |
 |-------|--------|
-| Blockchain | 🔴 Beginner |
+| Blockchain | 🟢 Proficient |
 | Web3 | ⚪ Planned |
-| Cloud Computing | 🟡 Learning |
+| Cloud Computing | 🟢 Proficient |
 
 </details>
 
