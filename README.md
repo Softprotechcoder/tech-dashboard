@@ -7,7 +7,7 @@
 ![AI & ML](https://img.shields.io/badge/-AI%20&%20ML-blue) ![CyberSecurity](https://img.shields.io/badge/-CyberSecurity-red) ![Full Stack Development](https://img.shields.io/badge/-Full%20Stack%20Development-green)
 
 [![Auto Update](https://img.shields.io/badge/Auto%20Update-Enabled-success)](https://github.com/yourusername/tech-dashboard/actions)
-[![Last Updated](https://img.shields.io/badge/Last%20Updated-November 22, 2026-blue)](https://github.com/yourusername/tech-dashboard)
+[![Last Updated](https://img.shields.io/badge/Last%20Updated-November 23, 2026-blue)](https://github.com/yourusername/tech-dashboard)
 
 *Automatically updated every 6 hours with the latest tech news, trending repositories, and learning resources.*
 
@@ -46,35 +46,41 @@
 
 ### 📑 Hacker News
 
-- **[The Usefulness of Useless Knowledge [pdf]](https://www.ias.edu/sites/default/files/library/UsefulnessHarpers.pdf)**
-  *<p>Article URL: <a href="https://www.ias.edu/sites/default/files/library/UsefulnessHarpers.pdf">https://www.ias.edu/sites/default/files/library/UsefulnessHarpers.pdf</a></p>
-<p>Comments URL: <a href="...*
-  📅 Sun, 22 Nov 2026 22:10:58 +0000
+- **[XNU Linux: Full OS X GUI Userspace on Linux](https://github.com/AFK-surf/xnulinux)**
+  *<p>Article URL: <a href="https://github.com/AFK-surf/xnulinux">https://github.com/AFK-surf/xnulinux</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50607261">https://news.ycombi...*
+  📅 Mon, 23 Nov 2026 03:49:24 +0000
 
-- **[Agent swarm trying to solve P vs. NP](https://pequalnp.com/)**
-  *<p>Article URL: <a href="https://pequalnp.com/">https://pequalnp.com/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50604314">https://news.ycombinator.com/item?id=50604314</a>...*
-  📅 Sun, 22 Nov 2026 21:53:45 +0000
+- **[The New Docker: Built to Run on Trust](https://www.docker.com/blog/meet-the-new-docker-built-to-run-on-trust/)**
+  *<p>Article URL: <a href="https://www.docker.com/blog/meet-the-new-docker-built-to-run-on-trust/">https://www.docker.com/blog/meet-the-new-docker-built-to-run-on-trust/</a></p>
+<p>Comments URL: <a href...*
+  📅 Mon, 23 Nov 2026 03:34:29 +0000
 
-- **[Will the first approved psychedelic become a blockbuster?](https://www.pharmavoice.com/news/race-first-psilocybin-blockbuster-compass-usona/875270/)**
-  *<p>Article URL: <a href="https://www.pharmavoice.com/news/race-first-psilocybin-blockbuster-compass-usona/875270/">https://www.pharmavoice.com/news/race-first-psilocybin-blockbuster-compass-usona/8752...*
-  📅 Sun, 22 Nov 2026 21:13:10 +0000
+- **[Advanced Character Physics (2001) [pdf]](https://www.cs.cmu.edu/afs/cs/academic/class/15462-s13/www/lec_slides/Jakobsen.pdf)**
+  *<p>Article URL: <a href="https://www.cs.cmu.edu/afs/cs/academic/class/15462-s13/www/lec_slides/Jakobsen.pdf">https://www.cs.cmu.edu/afs/cs/academic/class/15462-s13/www/lec_slides/Jakobsen.pdf</a></p>
+...*
+  📅 Mon, 23 Nov 2026 02:17:27 +0000
 
-- **[A Beginner's Guide to Local AI with Inkling, Qwen, and Unsloth](https://www.gpupartner.com/blog/beginners-guide-local-ai-inkling-qwen-unsloth)**
-  *<p>Article URL: <a href="https://www.gpupartner.com/blog/beginners-guide-local-ai-inkling-qwen-unsloth">https://www.gpupartner.com/blog/beginners-guide-local-ai-inkling-qwen-unsloth</a></p>
-<p>Comment...*
-  📅 Sun, 22 Nov 2026 21:01:16 +0000
+- **[Treemap of the Riemann Hypothesis Lean Proof](https://pengowray.github.io/riemann-zeta-proof-visualizer/)**
+  *<p>Article URL: <a href="https://pengowray.github.io/riemann-zeta-proof-visualizer/">https://pengowray.github.io/riemann-zeta-proof-visualizer/</a></p>
+<p>Comments URL: <a href="https://news.ycombinat...*
+  📅 Mon, 23 Nov 2026 01:50:23 +0000
 
-- **[AWS got hit by an outage too. You didn't hear about it](https://www.theregister.com/columnists/2026/11/21/aws-got-hit-by-an-outage-too-heres-why-you-didnt-hear-about-it/5311511)**
-  *<p>Article URL: <a href="https://www.theregister.com/columnists/2026/11/21/aws-got-hit-by-an-outage-too-heres-why-you-didnt-hear-about-it/5311511">https://www.theregister.com/columnists/2026/11/21/aws...*
-  📅 Sun, 22 Nov 2026 20:50:18 +0000
+- **[Free alternative TV network built from the Internet Archive's forgotten videos](https://spelunkr.tv)**
+  *<p>Article URL: <a href="https://spelunkr.tv">https://spelunkr.tv</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50606192">https://news.ycombinator.com/item?id=50606192</a></p>...*
+  📅 Mon, 23 Nov 2026 01:13:51 +0000
 
-- **[I did a meditation and it sort of changed my personality?!](https://www.benkuhn.net/meditation/)**
-  *<p>Article URL: <a href="https://www.benkuhn.net/meditation/">https://www.benkuhn.net/meditation/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50603674">https://news.ycombina...*
-  📅 Sun, 22 Nov 2026 20:41:59 +0000
+- **[What we learned operating auth for 1k APIs](https://nango.dev/blog/lessons-from-operating-api-auth-for-900-apis/)**
+  *<p>Article URL: <a href="https://nango.dev/blog/lessons-from-operating-api-auth-for-900-apis/">https://nango.dev/blog/lessons-from-operating-api-auth-for-900-apis/</a></p>
+<p>Comments URL: <a href="ht...*
+  📅 Mon, 23 Nov 2026 01:01:11 +0000
 
 ### 📑 TechCrunch
+
+- **[How Notable Capital, GIC, and Baillie Gifford bet big on Anthropic before its IPO](https://techcrunch.com/2026/11/22/how-notable-capital-gic-and-baillie-gifford-bet-big-on-anthropic-before-its-ipo/)**
+  *Three significant backers share what gave them conviction to bet billions on Anthropic....*
+  📅 Mon, 23 Nov 2026 01:25:53 +0000
 
 - **[‘You Can See Everything’ has made more than $100M worldwide](https://techcrunch.com/2026/11/22/you-can-see-everything-has-made-more-than-100m-worldwide/)**
   *The new Elizabeth Holmes documentary is just beginning to roll out internationally....*
@@ -96,19 +102,19 @@
   *Welcome back to TechCrunch Mobility, your hub for the future of transportation and, now more than ever, the role AI is playing in it....*
   📅 Sun, 22 Nov 2026 17:06:00 +0000
 
-- **[Can a TV be too large? An investigation](https://techcrunch.com/2026/11/22/can-a-tv-be-too-large-an-investigation/)**
-  *Can a TV be too large? This writer's recent upgrade to a 65-inch OLED came with some unexpected challenges....*
-  📅 Sun, 22 Nov 2026 15:00:00 +0000
-
 ### 📑 Dev.to
 
-- **[Figured it was time to start sharing what I've been working on...](https://dev.to/ric0c0derlab/figured-it-was-time-to-start-sharing-what-ive-been-working-on-4f58)**
-  *<p>So I've been working on a few projects for a while now, mostly just doing my own thing, trying stuff out, breaking things, fixing them, and occasionally wondering why something that should've taken...*
-  📅 Sun, 22 Nov 2026 22:51:43 +0000
+- **[Where Is My Order? Build a Client Portal That Answers It for You](https://dev.to/ksoft_technologies_33f7f6/where-is-my-order-build-a-client-portal-that-answers-it-for-you-1oi5)**
+  *<p>“Where is my order?” sounds like a simple customer-service question.</p>
 
-- **[API credit would have fixed one of the four faults behind my AI agents' "Try it free" button](https://dev.to/nefayran/api-credit-would-have-fixed-one-of-the-four-faults-behind-my-ai-agents-try-it-free-button-2819)**
-  *<p>Early on 22 November (UTC) an automated check caught the "Try it free" photo button of AllKeep Inventory, a home inventory web app, answering every try that reached it with a 500 (02:50 to 04:14 UT...*
-  📅 Sun, 22 Nov 2026 22:51:00 +0000
+<p>For a business handling dozens or hundreds of orders, though, answering it can become a recurring engineering and operat...*
+  📅 Mon, 23 Nov 2026 04:43:42 +0000
+
+- **[Building a Real-Time Multiplayer Game with NestJS and Socket.IO](https://dev.to/houdaifa_drahm/building-a-real-time-multiplayer-game-with-nestjs-and-socketio-nmb)**
+  *<p>By <a href="https://houdaifa.dev/" rel="noopener noreferrer">Houdaifa Drahm</a></p>
+
+<p>A real-time game needs more than a browser that can draw a puck. Two players must be authenticated, matched, ...*
+  📅 Mon, 23 Nov 2026 04:43:29 +0000
 
 </details>
 
@@ -116,103 +122,103 @@
 
 ### 📈 Daily Trending
 
-- **[os6/nospeaker](https://github.com/os6/nospeaker)** ⭐ 356
-  ![Swift](https://img.shields.io/badge/-Swift-lightgrey)
-  make your macbook's trackpad talk using its haptic motor
-
-- **[alfoguasta/gta6-preload-emulator](https://github.com/alfoguasta/gta6-preload-emulator)** ⭐ 281
+- **[be240116-afk/ai-ide-system-utilities-cursor-pro-v0-47-cefalen](https://github.com/be240116-afk/ai-ide-system-utilities-cursor-pro-v0-47-cefalen)** ⭐ 250
   ![HTML](https://img.shields.io/badge/-HTML-lightgrey)
-  Gta6 Preload Emulator simulates the preload flow for testing and validation.
+  AI IDE system utilities for Cursor Pro V0 47 Cefalen, built for practical developer workflows.
 
-- **[jaredfreellm/FREELLM_INSTALL](https://github.com/jaredfreellm/FREELLM_INSTALL)** ⭐ 250
-  ![None](https://img.shields.io/badge/-None-lightgrey)
-  One OpenAI-compatible endpoint for many free LLM tiers. Add your own provider keys, and the router picks a healthy model for each request, fails over when one is rate-limited, and tracks usage per key so you stay under every quota. Self-hosted, keys encrypted at rest. For personal experimentation.
-
-- **[satimbe39-cell/path-of-exile-2-map-reveal-zoom-out-noralin](https://github.com/satimbe39-cell/path-of-exile-2-map-reveal-zoom-out-noralin)** ⭐ 230
+- **[joaovictoraraujoaraujo949-droid/slay-the-spire-2-mod-loader-developer-console-bedalen](https://github.com/joaovictoraraujoaraujo949-droid/slay-the-spire-2-mod-loader-developer-console-bedalen)** ⭐ 250
   ![HTML](https://img.shields.io/badge/-HTML-lightgrey)
-  Zoom out further on the PoE 2 map reveal for a wider view.
+  Build and run mods for Slay the Spire 2 with a developer console built in.
 
-- **[rahulabd919/ios-ramdisk-mdm-iremoval-pro-windows-client-rakaven](https://github.com/rahulabd919/ios-ramdisk-mdm-iremoval-pro-windows-client-rakaven)** ⭐ 230
+- **[DRONSH/jujutsu-infinite-script-damaron](https://github.com/DRONSH/jujutsu-infinite-script-damaron)** ⭐ 250
   ![HTML](https://img.shields.io/badge/-HTML-lightgrey)
-  Windows client for iOS ramdisk MDM workflows with iRemoval Pro Rakaven support.
+  In-game helpers and live readouts for Jujutsu Infinite - built for real play.
 
-- **[Yasar882/creative-video-adobe-cc-v4-universal-vefamar](https://github.com/Yasar882/creative-video-adobe-cc-v4-universal-vefamar)** ⭐ 230
+- **[muptezel1bay/biped-2-coop-veramir](https://github.com/muptezel1bay/biped-2-coop-veramir)** ⭐ 250
   ![HTML](https://img.shields.io/badge/-HTML-lightgrey)
-  Universal video toolset for Adobe CC - built for creative workflows.
+  Team up with a friend to explore Biped 2 Coop Veramir together.
 
-- **[bhoomikasm-11/avast-premium-security-satamir](https://github.com/bhoomikasm-11/avast-premium-security-satamir)** ⭐ 229
+- **[selvan-m-tamil/solara-roblox-executor-2026](https://github.com/selvan-m-tamil/solara-roblox-executor-2026)** ⭐ 250
   ![HTML](https://img.shields.io/badge/-HTML-lightgrey)
-  Security product directory entry for Avast Premium Security Satamir builds.
+  Solara Roblox Executor delivers script execution and on-screen game info.
 
-- **[gunalgps/marvel-rivals-hitscan-projectile-smoothing-assistant-dabalin](https://github.com/gunalgps/marvel-rivals-hitscan-projectile-smoothing-assistant-dabalin)** ⭐ 229
+- **[guygamer527/chained-together-coop-dekalor](https://github.com/guygamer527/chained-together-coop-dekalor)** ⭐ 250
   ![HTML](https://img.shields.io/badge/-HTML-lightgrey)
-  Tune your hitscan and projectile aim in Marvel Rivals with Dabalin's smoothing helper.
+  Play together in a shared cooperative adventure built for connected teamwork.
+
+- **[Spectre1915/slay-the-spire-2-trainer](https://github.com/Spectre1915/slay-the-spire-2-trainer)** ⭐ 250
+  ![HTML](https://img.shields.io/badge/-HTML-lightgrey)
+  Play Slay the Spire 2 your way with the trainer's in-game aids.
+
+- **[Massimo0408/task-bar-hero-auto-battler-macro-loot-mademir](https://github.com/Massimo0408/task-bar-hero-auto-battler-macro-loot-mademir)** ⭐ 250
+  ![HTML](https://img.shields.io/badge/-HTML-lightgrey)
+  Automates battles, tracks loot, keeps info visible - built for Task Bar Hero.
 
 ### 📈 Weekly Trending
 
-- **[ItsNotRexed/Leonida](https://github.com/ItsNotRexed/Leonida)** ⭐ 14,521
+- **[ItsNotRexed/Leonida](https://github.com/ItsNotRexed/Leonida)** ⭐ 16,392
   ![Python](https://img.shields.io/badge/-Python-blue)
   Leonida Is A Native PC Recompilation Of The Xbox Version Of Grand Theft Auto 6
 
-- **[erkamyaman/rust-anything](https://github.com/erkamyaman/rust-anything)** ⭐ 7,966
-  ![Rust](https://img.shields.io/badge/-Rust-brown)
-  Rewrite your whole app in Rust, one piece at a time, checked against the original's recorded behavior at every step. CLIs, HTTP servers and libraries in TypeScript, Python, C, Go, Ruby and Java.
-
-- **[bookwjitchieni1986/blender-ai-mcp-addon](https://github.com/bookwjitchieni1986/blender-ai-mcp-addon)** ⭐ 2,746
+- **[bookwjitchieni1986/blender-ai-mcp-addon](https://github.com/bookwjitchieni1986/blender-ai-mcp-addon)** ⭐ 2,755
   ![None](https://img.shields.io/badge/-None-lightgrey)
   AI assistant and MCP server for Blender: visual chat, scene tools, multi-agent workflows. Works with ChatGPT/GPT, Claude, Gemini, Ollama, OpenCode. Blender AI addon, copilot for 3D, bpy Python scripting, MCP integration.
 
-- **[iamajmeena/neonclipping](https://github.com/iamajmeena/neonclipping)** ⭐ 2,087
+- **[iamajmeena/neonclipping](https://github.com/iamajmeena/neonclipping)** ⭐ 2,127
   ![Python](https://img.shields.io/badge/-Python-blue)
   Paste a link, get captioned 9:16 clips in ~2 min. Free, local, open-source clipping engine (audio-first, YouTube captions, local LLM).
 
-- **[sybil-solutions/inference-optimisation-skill](https://github.com/sybil-solutions/inference-optimisation-skill)** ⭐ 1,949
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  Agent skill for hill-climbing local LLM serving speed (decode, speculative decoding, prefill, KV, startup, TTFT) on any hardware and quantization
-
-- **[EL4CTEO/fast-anything](https://github.com/EL4CTEO/fast-anything)** ⭐ 1,821
+- **[EL4CTEO/fast-anything](https://github.com/EL4CTEO/fast-anything)** ⭐ 2,116
   ![Rust](https://img.shields.io/badge/-Rust-brown)
   Don't rewrite it in Rust. Rewrite the 5% that's slow: profile Python, Node or Ruby apps, port the hot functions with your coding agent, prove they behave the same.
 
-- **[R0Y00/Xbox2Windows](https://github.com/R0Y00/Xbox2Windows)** ⭐ 1,290
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  GTA VI static recompilation research for x64 Windows. Source-built EXEs run on Windows, and two translated pixel shaders match reference outputs on hardware and WARP. Full-game startup is unverified.
-
-- **[omonkeyz/xbox-emulator](https://github.com/omonkeyz/xbox-emulator)** ⭐ 1,275
+- **[omonkeyz/xbox-emulator](https://github.com/omonkeyz/xbox-emulator)** ⭐ 1,370
   ![Rust](https://img.shields.io/badge/-Rust-brown)
   Progress notes for running Xbox Series X|S builds on PC (TomBox + rage9)
 
+- **[R0Y00/Xbox2Windows](https://github.com/R0Y00/Xbox2Windows)** ⭐ 1,340
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  GTA VI static recompilation research for x64 Windows. Source-built EXEs run on Windows, and two translated pixel shaders match reference outputs on hardware and WARP. Full-game startup is unverified.
+
+- **[Lemxy/WinRust](https://github.com/Lemxy/WinRust)** ⭐ 1,260
+  ![Rust](https://img.shields.io/badge/-Rust-brown)
+  Windows shell replacement in Rust: taskbar, file manager, NTFS search, task manager, disk cleaner. One installer exe.
+
+- **[MSNightmare/FastUnlock](https://github.com/MSNightmare/FastUnlock)** ⭐ 682
+  ![None](https://img.shields.io/badge/-None-lightgrey)
+  FastUnlock : Windows Narrator LockScreen Bypass 0day Vulnerability
+
 ### 📈 Monthly Trending
 
-- **[storytold/craft-anything](https://github.com/storytold/craft-anything)** ⭐ 41,176
+- **[storytold/craft-anything](https://github.com/storytold/craft-anything)** ⭐ 41,404
   ![Rust](https://img.shields.io/badge/-Rust-brown)
   Craft Anything: understand how any software works, and craft your own.
 
-- **[ccch1mneyyy/dsh-Go](https://github.com/ccch1mneyyy/dsh-Go)** ⭐ 30,157
+- **[ccch1mneyyy/dsh-Go](https://github.com/ccch1mneyyy/dsh-Go)** ⭐ 30,317
   ![Dart](https://img.shields.io/badge/-Dart-lightgrey)
   dsh-go — DeepSeek Harness 装进口袋：手机本机运行，也能遥控你的电脑。
 
-- **[deepseek-ai/dsh-superagent-prototype](https://github.com/deepseek-ai/dsh-superagent-prototype)** ⭐ 24,227
+- **[deepseek-ai/dsh-superagent-prototype](https://github.com/deepseek-ai/dsh-superagent-prototype)** ⭐ 24,264
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   Towards a More Autonomous Agent System
 
-- **[heydamir/unslop](https://github.com/heydamir/unslop)** ⭐ 20,239
+- **[heydamir/unslop](https://github.com/heydamir/unslop)** ⭐ 20,374
   ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
   A Claude skill that turns vibecoded, AI-looking UI into a designed interface
 
-- **[anefzaoui/misterdownloadmanager](https://github.com/anefzaoui/misterdownloadmanager)** ⭐ 16,547
+- **[anefzaoui/misterdownloadmanager](https://github.com/anefzaoui/misterdownloadmanager)** ⭐ 16,750
   ![Rust](https://img.shields.io/badge/-Rust-brown)
   misterdownloadmanager: The ultimate open-source, clean-room download manager written from scratch in pure Rust for Windows, Mac, and Linux
 
-- **[ItsNotRexed/Leonida](https://github.com/ItsNotRexed/Leonida)** ⭐ 14,521
+- **[ItsNotRexed/Leonida](https://github.com/ItsNotRexed/Leonida)** ⭐ 16,392
   ![Python](https://img.shields.io/badge/-Python-blue)
   Leonida Is A Native PC Recompilation Of The Xbox Version Of Grand Theft Auto 6
 
-- **[libracoder/kiri](https://github.com/libracoder/kiri)** ⭐ 12,322
+- **[libracoder/kiri](https://github.com/libracoder/kiri)** ⭐ 12,400
   ![Rust](https://img.shields.io/badge/-Rust-brown)
   A small, fast container runtime for macOS, Windows and Linux with free Ngrok alternative
 
-- **[JuneYaooo/rea-video](https://github.com/JuneYaooo/rea-video)** ⭐ 12,219
+- **[JuneYaooo/rea-video](https://github.com/JuneYaooo/rea-video)** ⭐ 12,314
   ![Python](https://img.shields.io/badge/-Python-blue)
   Reverse-engineer any video, shot by shot: filmed, AI-generated or coded, and how to remake it. Breakdowns in the open VIDEO.md format. 逆向一切视频，逐个镜头看是拍的、AI 生成的还是代码做的，再告诉你怎么复刻；拆解结果按 VIDEO.md 格式输出。
 
@@ -481,58 +487,58 @@ Sched...
 
 | Skill | Status |
 |-------|--------|
-| Java | 🟢 Proficient |
-| Python | 🔴 Beginner |
-| JavaScript | 🟡 Learning |
-| TypeScript | 🟢 Proficient |
-| Go | 🟡 Learning |
+| Java | 🔴 Beginner |
+| Python | 🟢 Proficient |
+| JavaScript | ⚪ Planned |
+| TypeScript | 🔴 Beginner |
+| Go | 🔴 Beginner |
 
 ### Frameworks
 
 | Skill | Status |
 |-------|--------|
-| React | 🔴 Beginner |
+| React | ⚪ Planned |
 | Spring Boot | 🟡 Learning |
-| Django | 🔴 Beginner |
+| Django | 🟡 Learning |
 | Node.js | 🟡 Learning |
-| Next.js | ⚪ Planned |
+| Next.js | 🟡 Learning |
 
 ### Cybersecurity
 
 | Skill | Status |
 |-------|--------|
-| Penetration Testing | 🟡 Learning |
-| Web Security | ⚪ Planned |
-| Network Security | 🟡 Learning |
-| OWASP | 🟡 Learning |
+| Penetration Testing | 🟢 Proficient |
+| Web Security | 🔴 Beginner |
+| Network Security | ⚪ Planned |
+| OWASP | 🔴 Beginner |
 
 ### Ai Ml
 
 | Skill | Status |
 |-------|--------|
 | Machine Learning | 🟢 Proficient |
-| Deep Learning | 🔴 Beginner |
-| NLP | 🟡 Learning |
-| Computer Vision | 🟢 Proficient |
-| TensorFlow | 🟡 Learning |
-| PyTorch | 🟢 Proficient |
+| Deep Learning | ⚪ Planned |
+| NLP | 🔴 Beginner |
+| Computer Vision | ⚪ Planned |
+| TensorFlow | ⚪ Planned |
+| PyTorch | ⚪ Planned |
 
 ### Devops
 
 | Skill | Status |
 |-------|--------|
-| Docker | 🟡 Learning |
-| Kubernetes | 🟢 Proficient |
-| CI/CD | 🔴 Beginner |
-| AWS | 🟡 Learning |
+| Docker | ⚪ Planned |
+| Kubernetes | 🟡 Learning |
+| CI/CD | 🟡 Learning |
+| AWS | ⚪ Planned |
 | Azure | 🟡 Learning |
 
 ### Other
 
 | Skill | Status |
 |-------|--------|
-| Blockchain | 🔴 Beginner |
-| Web3 | 🔴 Beginner |
+| Blockchain | 🟡 Learning |
+| Web3 | ⚪ Planned |
 | Cloud Computing | 🟡 Learning |
 
 </details>
@@ -551,7 +557,7 @@ This dashboard is automatically updated every 6 hours using GitHub Actions. The 
 
 <div align="center">
 
-**Last Updated:** November 22, 2026
+**Last Updated:** November 23, 2026
 
 Made with ❤️ and automated with GitHub Actions
 
