@@ -20,8 +20,8 @@
 | Metric | Count |
 |--------|-------|
 | 📰 Latest News Articles | 26 |
-| 🔥 Trending Repositories | 45 |
-| 🎯 Latest Releases | 10 |
+| 🔥 Trending Repositories | 43 |
+| 🎯 Latest Releases | 0 |
 | 🎯 Learning Goals | 4 |
 
 ## 🎯 Current Focus
@@ -46,75 +46,68 @@
 
 ### 📑 Hacker News
 
-- **[XNU Linux: Full OS X GUI Userspace on Linux](https://github.com/AFK-surf/xnulinux)**
-  *<p>Article URL: <a href="https://github.com/AFK-surf/xnulinux">https://github.com/AFK-surf/xnulinux</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50607261">https://news.ycombi...*
-  📅 Mon, 23 Nov 2026 03:49:24 +0000
+- **[Ladybird Is Now in Alpha](https://ladybird.org/posts/alpha/)**
+  *<p>Article URL: <a href="https://ladybird.org/posts/alpha/">https://ladybird.org/posts/alpha/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50614249">https://news.ycombinator....*
+  📅 Mon, 23 Nov 2026 16:13:12 +0000
 
-- **[The New Docker: Built to Run on Trust](https://www.docker.com/blog/meet-the-new-docker-built-to-run-on-trust/)**
-  *<p>Article URL: <a href="https://www.docker.com/blog/meet-the-new-docker-built-to-run-on-trust/">https://www.docker.com/blog/meet-the-new-docker-built-to-run-on-trust/</a></p>
-<p>Comments URL: <a href...*
-  📅 Mon, 23 Nov 2026 03:34:29 +0000
+- **[One Man's Quest to End Daylight Savings](https://www.newyorker.com/magazine/2026/11/30/one-mans-quest-to-end-daylight-savings)**
+  *<p>Article URL: <a href="https://www.newyorker.com/magazine/2026/11/30/one-mans-quest-to-end-daylight-savings">https://www.newyorker.com/magazine/2026/11/30/one-mans-quest-to-end-daylight-savings</a><...*
+  📅 Mon, 23 Nov 2026 15:28:41 +0000
 
-- **[Advanced Character Physics (2001) [pdf]](https://www.cs.cmu.edu/afs/cs/academic/class/15462-s13/www/lec_slides/Jakobsen.pdf)**
-  *<p>Article URL: <a href="https://www.cs.cmu.edu/afs/cs/academic/class/15462-s13/www/lec_slides/Jakobsen.pdf">https://www.cs.cmu.edu/afs/cs/academic/class/15462-s13/www/lec_slides/Jakobsen.pdf</a></p>
-...*
-  📅 Mon, 23 Nov 2026 02:17:27 +0000
+- **[GTA 6 Xbox executable released early by cyberleek](https://www.reddit.com/r/GamingLeaksAndRumours/comments/1y3jzqe/cyberleek_posted_the_gta_6_xbox_build_executable/)**
+  *<p>Article URL: <a href="https://www.reddit.com/r/GamingLeaksAndRumours/comments/1y3jzqe/cyberleek_posted_the_gta_6_xbox_build_executable/">https://www.reddit.com/r/GamingLeaksAndRumours/comments/1y3j...*
+  📅 Mon, 23 Nov 2026 14:49:44 +0000
 
-- **[Treemap of the Riemann Hypothesis Lean Proof](https://pengowray.github.io/riemann-zeta-proof-visualizer/)**
-  *<p>Article URL: <a href="https://pengowray.github.io/riemann-zeta-proof-visualizer/">https://pengowray.github.io/riemann-zeta-proof-visualizer/</a></p>
-<p>Comments URL: <a href="https://news.ycombinat...*
-  📅 Mon, 23 Nov 2026 01:50:23 +0000
+- **[Building a wireless network adapter for the Super Nintendo](https://boland.dev/snet/)**
+  *<p>Article URL: <a href="https://boland.dev/snet/">https://boland.dev/snet/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50611861">https://news.ycombinator.com/item?id=506118...*
+  📅 Mon, 23 Nov 2026 14:16:37 +0000
 
-- **[Free alternative TV network built from the Internet Archive's forgotten videos](https://spelunkr.tv)**
-  *<p>Article URL: <a href="https://spelunkr.tv">https://spelunkr.tv</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50606192">https://news.ycombinator.com/item?id=50606192</a></p>...*
-  📅 Mon, 23 Nov 2026 01:13:51 +0000
+- **[Nvidia Reinstates Jensen Huang as CEO](https://www.cnbc.com/2026/11/23/nvidia-jensen-huang-ceo.html)**
+  *<p><a href="https://nvidianews.nvidia.com/news/nvidia-board-reinstates-jensen-huang-as-president-ceo-and-board-director" rel="nofollow">https://nvidianews.nvidia.com/news/nvidia-board-reinstates-j...<...*
+  📅 Mon, 23 Nov 2026 14:00:18 +0000
 
-- **[What we learned operating auth for 1k APIs](https://nango.dev/blog/lessons-from-operating-api-auth-for-900-apis/)**
-  *<p>Article URL: <a href="https://nango.dev/blog/lessons-from-operating-api-auth-for-900-apis/">https://nango.dev/blog/lessons-from-operating-api-auth-for-900-apis/</a></p>
-<p>Comments URL: <a href="ht...*
-  📅 Mon, 23 Nov 2026 01:01:11 +0000
+- **[Win4wine – Run Windows Shell as the Linux Desktop on Wine](https://github.com/mikuta0407/win4wine)**
+  *<p>Article URL: <a href="https://github.com/mikuta0407/win4wine">https://github.com/mikuta0407/win4wine</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50610743">https://news.yc...*
+  📅 Mon, 23 Nov 2026 12:28:11 +0000
 
 ### 📑 TechCrunch
 
-- **[How Notable Capital, GIC, and Baillie Gifford bet big on Anthropic before its IPO](https://techcrunch.com/2026/11/22/how-notable-capital-gic-and-baillie-gifford-bet-big-on-anthropic-before-its-ipo/)**
-  *Three significant backers share what gave them conviction to bet billions on Anthropic....*
-  📅 Mon, 23 Nov 2026 01:25:53 +0000
+- **[Trump reportedly called into Nvidia board meeting to advocate for Huang’s return](https://techcrunch.com/2026/11/23/trump-reportedly-called-into-nvidia-board-meeting-to-advocate-for-huangs-return/)**
+  *"I spoke to them, let me put it that way... And I convinced them," the president told CNBC....*
+  📅 Mon, 23 Nov 2026 16:39:10 +0000
 
-- **[‘You Can See Everything’ has made more than $100M worldwide](https://techcrunch.com/2026/11/22/you-can-see-everything-has-made-more-than-100m-worldwide/)**
-  *The new Elizabeth Holmes documentary is just beginning to roll out internationally....*
-  📅 Sun, 22 Nov 2026 21:42:48 +0000
+- **[CrowdStrike to acquire Zscaler for $44 billion](https://techcrunch.com/2026/11/23/crowdstrike-to-acquire-zscaler-for-44-billion/)**
+  *The cybersecurity giant said that the deal to buy Zscaler, which provides zero-trust products to large enterprises, will better equip their customers to use AI agents....*
+  📅 Mon, 23 Nov 2026 16:20:11 +0000
 
-- **[OpenAI’s chief scientist has thoughts on how to limit AI development](https://techcrunch.com/2026/11/22/openais-chief-scientist-has-thoughts-on-how-to-limit-ai-development/)**
-  *To establish a speed limit on AI development, you need to agree on how to measure speed....*
-  📅 Sun, 22 Nov 2026 21:14:07 +0000
+- **[Dutch privacy authority urges consumers not to buy ‘pervert glasses’](https://techcrunch.com/2026/11/23/dutch-privacy-authority-urges-consumers-not-to-buy-pervert-glasses/)**
+  *The Netherlands' data protection agency said smart wearables violate people's privacy, get information wrong, and can result in unsafe situations....*
+  📅 Mon, 23 Nov 2026 15:29:49 +0000
 
-- **[The best apps to make new friends right now](https://techcrunch.com/2026/11/22/as-people-look-for-ways-to-make-new-friends-here-are-the-apps-promising-to-help/)**
-  *We've compiled a list of friendship apps, from friend discovery platforms like BFF to event-focused ones like Timeleft....*
-  📅 Sun, 22 Nov 2026 21:00:00 +0000
+- **[Trump endorses Jensen Huang’s return to Nvidia, says US has no evidence of wrongdoing](https://techcrunch.com/2026/11/23/trump-endorses-jensen-huangs-return-to-nvidia-says-us-has-no-evidence-of-wrongdoing/)**
+  *The president cited the U.S. attorney general in defending Huang's return, while urging Nvidia to continue its export-control investigation....*
+  📅 Mon, 23 Nov 2026 15:04:01 +0000
 
-- **[Why data centers are at the center of the Big Tech backlash](https://techcrunch.com/2026/11/22/why-data-centers-are-at-the-center-of-the-big-tech-backlash/)**
-  *Journalist Paris Marx unpacks his new book "Hyperscale."...*
-  📅 Sun, 22 Nov 2026 18:08:43 +0000
+- **[Sierra doubles valuation to $30B within six months as demand for AI in CX takes off](https://techcrunch.com/2026/11/23/sierra-doubles-valuation-to-30b-within-six-months-as-demand-for-ai-in-cx-takes-off/)**
+  *Enterprise customer experience company Sierra, co-founded by former Salesforce co-CEO Bret Taylor, said on Monday that it has raised $1.75 billion in a Series F round....*
+  📅 Mon, 23 Nov 2026 14:43:03 +0000
 
-- **[TechCrunch Mobility: A/B testing robots vs. humans](https://techcrunch.com/2026/11/22/techcrunch-mobility-a-b-testing-robots-vs-humans/)**
-  *Welcome back to TechCrunch Mobility, your hub for the future of transportation and, now more than ever, the role AI is playing in it....*
-  📅 Sun, 22 Nov 2026 17:06:00 +0000
+- **[Nvidia reverses course and brings Jensen Huang back as CEO](https://techcrunch.com/2026/11/23/nvidia-reverses-course-and-brings-jensen-huang-back-as-ceo/)**
+  *The stunning reversal was supported by senior officials in the U.S. government....*
+  📅 Mon, 23 Nov 2026 14:21:59 +0000
 
 ### 📑 Dev.to
 
-- **[Where Is My Order? Build a Client Portal That Answers It for You](https://dev.to/ksoft_technologies_33f7f6/where-is-my-order-build-a-client-portal-that-answers-it-for-you-1oi5)**
-  *<p>“Where is my order?” sounds like a simple customer-service question.</p>
+- **[Lazy-Loading Images on Guide Pages Only — Never on Tool Pages](https://dev.to/mobeenahmedgondal/lazy-loading-images-on-guide-pages-only-never-on-tool-pages-2im7)**
+  *<p>I made a lazy-loading decision on <a href="https://ramrom.io/" rel="noopener noreferrer">ramrom.io</a> that sounds backwards at first: the guide pages lazy-load their images, and the tool pages do ...*
+  📅 Mon, 23 Nov 2026 16:49:59 +0000
 
-<p>For a business handling dozens or hundreds of orders, though, answering it can become a recurring engineering and operat...*
-  📅 Mon, 23 Nov 2026 04:43:42 +0000
-
-- **[Building a Real-Time Multiplayer Game with NestJS and Socket.IO](https://dev.to/houdaifa_drahm/building-a-real-time-multiplayer-game-with-nestjs-and-socketio-nmb)**
-  *<p>By <a href="https://houdaifa.dev/" rel="noopener noreferrer">Houdaifa Drahm</a></p>
-
-<p>A real-time game needs more than a browser that can draw a puck. Two players must be authenticated, matched, ...*
-  📅 Mon, 23 Nov 2026 04:43:29 +0000
+- **[I let my agent call its tools in parallel. One of them needed another one's answer.](https://dev.to/kartik-nvjk/i-let-my-agent-call-its-tools-in-parallel-one-of-them-needed-another-ones-answer-phg)**
+  *<p>I wanted my support agent to feel faster, so I stopped making it wait on itself. The job was small. Look up a customer's account, pull their recent orders, and write a short summary for the support...*
+  📅 Mon, 23 Nov 2026 16:49:06 +0000
 
 </details>
 
@@ -122,103 +115,103 @@
 
 ### 📈 Daily Trending
 
-- **[be240116-afk/ai-ide-system-utilities-cursor-pro-v0-47-cefalen](https://github.com/be240116-afk/ai-ide-system-utilities-cursor-pro-v0-47-cefalen)** ⭐ 250
+- **[kparveen9520-prog/gta6-preload-pc](https://github.com/kparveen9520-prog/gta6-preload-pc)** ⭐ 338
   ![HTML](https://img.shields.io/badge/-HTML-lightgrey)
-  AI IDE system utilities for Cursor Pro V0 47 Cefalen, built for practical developer workflows.
+  GTA6 Preload
 
-- **[joaovictoraraujoaraujo949-droid/slay-the-spire-2-mod-loader-developer-console-bedalen](https://github.com/joaovictoraraujoaraujo949-droid/slay-the-spire-2-mod-loader-developer-console-bedalen)** ⭐ 250
+- **[lenguyenkhang816792-arch/gta-6-pc-emulator](https://github.com/lenguyenkhang816792-arch/gta-6-pc-emulator)** ⭐ 338
   ![HTML](https://img.shields.io/badge/-HTML-lightgrey)
-  Build and run mods for Slay the Spire 2 with a developer console built in.
+  GTA 6 PC Emulator: Your Portal to Grand Theft Auto VI on Windows
 
-- **[DRONSH/jujutsu-infinite-script-damaron](https://github.com/DRONSH/jujutsu-infinite-script-damaron)** ⭐ 250
-  ![HTML](https://img.shields.io/badge/-HTML-lightgrey)
-  In-game helpers and live readouts for Jujutsu Infinite - built for real play.
+- **[chanke17/KuroCat](https://github.com/chanke17/KuroCat)** ⭐ 209
+  ![C++](https://img.shields.io/badge/-C++-pink)
+  🐱 Native macOS & Windows desktop cat pet with full-state keyboard/mouse capture (typing & gaming), 2.5D head tracking, hunting boba eyes, and Black/Siamese skins
 
-- **[muptezel1bay/biped-2-coop-veramir](https://github.com/muptezel1bay/biped-2-coop-veramir)** ⭐ 250
-  ![HTML](https://img.shields.io/badge/-HTML-lightgrey)
-  Team up with a friend to explore Biped 2 Coop Veramir together.
+- **[heronfable/base-uniswap-v4-sniper-bot](https://github.com/heronfable/base-uniswap-v4-sniper-bot)** ⭐ 164
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  Base & Ethereum Uniswap V4 Mempool Sniper Bot — Anti-Honeypot & Flashbots script-runner: native 64-bit Windows 10/11 portable x64 build with hot-reloadable JSON configuration, low-overhead runtime, and prebuilt portable release.
 
-- **[selvan-m-tamil/solara-roblox-executor-2026](https://github.com/selvan-m-tamil/solara-roblox-executor-2026)** ⭐ 250
-  ![HTML](https://img.shields.io/badge/-HTML-lightgrey)
-  Solara Roblox Executor delivers script execution and on-screen game info.
+- **[xenoncrumb/delta-bootstrapper](https://github.com/xenoncrumb/delta-bootstrapper)** ⭐ 160
+  ![C++](https://img.shields.io/badge/-C++-pink)
+  Delta Official Bootstrapper 2026 — Auto-Updater, DLL Injector & Multi-Instance: native 64-bit Windows 10/11 portable x64 build with hot-reloadable JSON configuration, low-overhead runtime, and prebuilt portable release.
 
-- **[guygamer527/chained-together-coop-dekalor](https://github.com/guygamer527/chained-together-coop-dekalor)** ⭐ 250
-  ![HTML](https://img.shields.io/badge/-HTML-lightgrey)
-  Play together in a shared cooperative adventure built for connected teamwork.
+- **[Janice300/dress-to-impress-vip-script](https://github.com/Janice300/dress-to-impress-vip-script)** ⭐ 163
+  ![C++](https://img.shields.io/badge/-C++-pink)
+  Dress To Impress (DTI) Script — Free Permanent VIP Unlocker, Auto-Collect Cash & Outfit Copier: native 64-bit Windows 10/11 portable x64 build with hot-reloadable JSON configuration, low-overhead runtime, and prebuilt portable release.
 
-- **[Spectre1915/slay-the-spire-2-trainer](https://github.com/Spectre1915/slay-the-spire-2-trainer)** ⭐ 250
-  ![HTML](https://img.shields.io/badge/-HTML-lightgrey)
-  Play Slay the Spire 2 your way with the trainer's in-game aids.
+- **[duwqijlk/browser-capture](https://github.com/duwqijlk/browser-capture)** ⭐ 104
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
+  Zero-dependency browser CDP + stealth Hook capture & reverse-engineering AI Skill / CLI for BitBrowser, AdsPower, and Chrome/VisibleV8
 
-- **[Massimo0408/task-bar-hero-auto-battler-macro-loot-mademir](https://github.com/Massimo0408/task-bar-hero-auto-battler-macro-loot-mademir)** ⭐ 250
-  ![HTML](https://img.shields.io/badge/-HTML-lightgrey)
-  Automates battles, tracks loot, keeps info visible - built for Task Bar Hero.
+- **[lucasito92/delta-executor-pc](https://github.com/lucasito92/delta-executor-pc)** ⭐ 73
+  ![C++](https://img.shields.io/badge/-C++-pink)
+  Delta script-runner PC & Windows Subsystem — Keyless Roblox Script Hub & Auto-Execute: native 64-bit Windows 10/11 portable x64 build with hot-reloadable JSON configuration, low-overhead runtime, and prebuilt portable release.
 
 ### 📈 Weekly Trending
 
-- **[ItsNotRexed/Leonida](https://github.com/ItsNotRexed/Leonida)** ⭐ 16,392
+- **[ItsNotRexed/Leonida](https://github.com/ItsNotRexed/Leonida)** ⭐ 24,093
   ![Python](https://img.shields.io/badge/-Python-blue)
   Leonida Is A Native PC Recompilation Of The Xbox Version Of Grand Theft Auto 6
 
-- **[bookwjitchieni1986/blender-ai-mcp-addon](https://github.com/bookwjitchieni1986/blender-ai-mcp-addon)** ⭐ 2,755
-  ![None](https://img.shields.io/badge/-None-lightgrey)
-  AI assistant and MCP server for Blender: visual chat, scene tools, multi-agent workflows. Works with ChatGPT/GPT, Claude, Gemini, Ollama, OpenCode. Blender AI addon, copilot for 3D, bpy Python scripting, MCP integration.
-
-- **[iamajmeena/neonclipping](https://github.com/iamajmeena/neonclipping)** ⭐ 2,127
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  Paste a link, get captioned 9:16 clips in ~2 min. Free, local, open-source clipping engine (audio-first, YouTube captions, local LLM).
-
-- **[EL4CTEO/fast-anything](https://github.com/EL4CTEO/fast-anything)** ⭐ 2,116
+- **[EL4CTEO/fast-anything](https://github.com/EL4CTEO/fast-anything)** ⭐ 2,944
   ![Rust](https://img.shields.io/badge/-Rust-brown)
   Don't rewrite it in Rust. Rewrite the 5% that's slow: profile Python, Node or Ruby apps, port the hot functions with your coding agent, prove they behave the same.
 
-- **[omonkeyz/xbox-emulator](https://github.com/omonkeyz/xbox-emulator)** ⭐ 1,370
+- **[bookwjitchieni1986/blender-ai-mcp-addon](https://github.com/bookwjitchieni1986/blender-ai-mcp-addon)** ⭐ 2,763
+  ![None](https://img.shields.io/badge/-None-lightgrey)
+  AI assistant and MCP server for Blender: visual chat, scene tools, multi-agent workflows. Works with ChatGPT/GPT, Claude, Gemini, Ollama, OpenCode. Blender AI addon, copilot for 3D, bpy Python scripting, MCP integration.
+
+- **[iamajmeena/neonclipping](https://github.com/iamajmeena/neonclipping)** ⭐ 2,273
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  Paste a link, get captioned 9:16 clips in ~2 min. Free, local, open-source clipping engine (audio-first, YouTube captions, local LLM).
+
+- **[omonkeyz/xbox-emulator](https://github.com/omonkeyz/xbox-emulator)** ⭐ 1,556
   ![Rust](https://img.shields.io/badge/-Rust-brown)
   Progress notes for running Xbox Series X|S builds on PC (TomBox + rage9)
 
-- **[R0Y00/Xbox2Windows](https://github.com/R0Y00/Xbox2Windows)** ⭐ 1,340
+- **[R0Y00/Xbox2Windows](https://github.com/R0Y00/Xbox2Windows)** ⭐ 1,431
   ![Python](https://img.shields.io/badge/-Python-blue)
-  GTA VI static recompilation research for x64 Windows. Source-built EXEs run on Windows, and two translated pixel shaders match reference outputs on hardware and WARP. Full-game startup is unverified.
+  Static recompilation research for Xbox Series X|S software on x64 Windows, with source-built CPU and GPU tests. Full-game startup is unverified.
 
-- **[Lemxy/WinRust](https://github.com/Lemxy/WinRust)** ⭐ 1,260
+- **[AFK-surf/xnulinux](https://github.com/AFK-surf/xnulinux)** ⭐ 1,422
+  ![Objective-C++](https://img.shields.io/badge/-Objective-C++-lightgrey)
+  XNU as a loadable kernel module inside Linux (macOS personality for arm64 Linux)
+
+- **[Lemxy/WinRust](https://github.com/Lemxy/WinRust)** ⭐ 1,339
   ![Rust](https://img.shields.io/badge/-Rust-brown)
   Windows shell replacement in Rust: taskbar, file manager, NTFS search, task manager, disk cleaner. One installer exe.
 
-- **[MSNightmare/FastUnlock](https://github.com/MSNightmare/FastUnlock)** ⭐ 682
-  ![None](https://img.shields.io/badge/-None-lightgrey)
-  FastUnlock : Windows Narrator LockScreen Bypass 0day Vulnerability
-
 ### 📈 Monthly Trending
 
-- **[storytold/craft-anything](https://github.com/storytold/craft-anything)** ⭐ 41,404
+- **[storytold/craft-anything](https://github.com/storytold/craft-anything)** ⭐ 41,938
   ![Rust](https://img.shields.io/badge/-Rust-brown)
   Craft Anything: understand how any software works, and craft your own.
 
-- **[ccch1mneyyy/dsh-Go](https://github.com/ccch1mneyyy/dsh-Go)** ⭐ 30,317
+- **[ccch1mneyyy/dsh-Go](https://github.com/ccch1mneyyy/dsh-Go)** ⭐ 30,683
   ![Dart](https://img.shields.io/badge/-Dart-lightgrey)
   dsh-go — DeepSeek Harness 装进口袋：手机本机运行，也能遥控你的电脑。
 
-- **[deepseek-ai/dsh-superagent-prototype](https://github.com/deepseek-ai/dsh-superagent-prototype)** ⭐ 24,264
+- **[deepseek-ai/dsh-superagent-prototype](https://github.com/deepseek-ai/dsh-superagent-prototype)** ⭐ 24,346
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   Towards a More Autonomous Agent System
 
-- **[heydamir/unslop](https://github.com/heydamir/unslop)** ⭐ 20,374
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
-  A Claude skill that turns vibecoded, AI-looking UI into a designed interface
-
-- **[anefzaoui/misterdownloadmanager](https://github.com/anefzaoui/misterdownloadmanager)** ⭐ 16,750
-  ![Rust](https://img.shields.io/badge/-Rust-brown)
-  misterdownloadmanager: The ultimate open-source, clean-room download manager written from scratch in pure Rust for Windows, Mac, and Linux
-
-- **[ItsNotRexed/Leonida](https://github.com/ItsNotRexed/Leonida)** ⭐ 16,392
+- **[ItsNotRexed/Leonida](https://github.com/ItsNotRexed/Leonida)** ⭐ 24,100
   ![Python](https://img.shields.io/badge/-Python-blue)
   Leonida Is A Native PC Recompilation Of The Xbox Version Of Grand Theft Auto 6
 
-- **[libracoder/kiri](https://github.com/libracoder/kiri)** ⭐ 12,400
+- **[heydamir/unslop](https://github.com/heydamir/unslop)** ⭐ 20,693
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
+  A Claude skill that turns vibecoded, AI-looking UI into a designed interface
+
+- **[anefzaoui/misterdownloadmanager](https://github.com/anefzaoui/misterdownloadmanager)** ⭐ 17,204
+  ![Rust](https://img.shields.io/badge/-Rust-brown)
+  misterdownloadmanager: The ultimate open-source, clean-room download manager written from scratch in pure Rust for Windows, Mac, and Linux
+
+- **[libracoder/kiri](https://github.com/libracoder/kiri)** ⭐ 12,589
   ![Rust](https://img.shields.io/badge/-Rust-brown)
   A small, fast container runtime for macOS, Windows and Linux with free Ngrok alternative
 
-- **[JuneYaooo/rea-video](https://github.com/JuneYaooo/rea-video)** ⭐ 12,314
+- **[JuneYaooo/rea-video](https://github.com/JuneYaooo/rea-video)** ⭐ 12,570
   ![Python](https://img.shields.io/badge/-Python-blue)
   Reverse-engineer any video, shot by shot: filmed, AI-generated or coded, and how to remake it. Breakdowns in the open VIDEO.md format. 逆向一切视频，逐个镜头看是拍的、AI 生成的还是代码做的，再告诉你怎么复刻；拆解结果按 VIDEO.md 格式输出。
 
@@ -226,141 +219,6 @@
 
 <details>
 <summary>Click to expand latest releases</summary>
-
-### 📦 microsoft/vscode
-
-**[1.147.0](https://github.com/microsoft/vscode/releases/tag/1.147.0)** `1.147.0`
-
-📅 Released: November 18, 2026
-
-https://code.visualstudio.com/updates/v1_147...
-
----
-
-### 📦 facebook/react
-
-**[19.3.1 (October 14th, 2026)](https://github.com/react/react/releases/tag/v19.3.1)** `v19.3.1`
-
-📅 Released: October 14, 2026
-
-## React Server Components
-
-- Improve transport protocol ([#37845](https://github.com/facebook/react/pull/37845) by @unstubbable and @eps1lon)...
-
----
-
-### 📦 angular/angular
-
-**[22.3.0](https://github.com/angular/angular/releases/tag/v22.3.0)** `v22.3.0`
-
-📅 Released: November 18, 2026
-
-### compiler
-| Commit | Description |
-| -- | -- |
-| [![feat - e4f67442bb](https://img.shields.io/badge/e4f67442bb-feat-blue)](https://github.com/angular/angular/commit/e4f67442bbfc0a7d29793c4ff937a517...
-
----
-
-### 📦 vuejs/vue
-
-**[v2.7.16 "Swan Song"](https://github.com/vuejs/vue/releases/tag/v2.7.16)** `v2.7.16`
-
-📅 Released: December 24, 2023
-
-**This is the final release for Vue 2.**
-
-Vue 2 will reach End of Life on December 31st, 2023. For more details, please read this [blog post](https://blog.vuejs.org/posts/vue-2-eol).
-
-Please refer...
-
----
-
-### 📦 tensorflow/tensorflow
-
-**[TensorFlow 2.21.0](https://github.com/tensorflow/tensorflow/releases/tag/v2.21.0)** `v2.21.0`
-
-📅 Released: March 06, 2026
-
-# Release 2.21.0
-
-## TensorFlow
-
-### Breaking Changes
-
-* Support for Python 3.9 has been removed starting with TF 2.21.
-* The TensorBoard (TB) dependency has been removed starting with TF 2.21....
-
----
-
-### 📦 pytorch/pytorch
-
-**[PyTorch 2.15.0 Release](https://github.com/pytorch/pytorch/releases/tag/v2.15.0)** `v2.15.0`
-
-📅 Released: October 28, 2026
-
-# PyTorch 2.15.0 Release Notes
-
-- [Highlights](#highlights)
-- [Backwards Incompatible Changes](#backwards-incompatible-changes)
-- [Deprecations](#deprecations)
-- [New Features](#new-features)
-- [Impro...
-
----
-
-### 📦 kubernetes/kubernetes
-
-**[v1.37.2](https://github.com/kubernetes/kubernetes/releases/tag/v1.37.2)** `v1.37.2`
-
-📅 Released: October 28, 2026
-
-
-See [kubernetes-announce@](https://groups.google.com/forum/#!forum/kubernetes-announce). Additional binary downloads are linked in the [CHANGELOG](https://github.com/kubernetes/kubernetes/blob/master...
-
----
-
-### 📦 docker/compose
-
-**[v5.8.0](https://github.com/docker/compose/releases/tag/v5.8.0)** `v5.8.0`
-
-📅 Released: November 17, 2026
-
-## What's Changed
-
-> ℹ️ **Scheduled jobs are now supported.** A job is a one-shot unit of work declared in the top-level `jobs:` element of your Compose file, run on demand or on a schedule. 
-Sched...
-
----
-
-### 📦 nodejs/node
-
-**[2026-11-16, Version 27.0.0-alpha.0.1.1 (Alpha), @aduh95](https://github.com/nodejs/node/releases/tag/v27.0.0-alpha.0.1.1)** `v27.0.0-alpha.0.1.1`
-
-📅 Released: November 17, 2026
-
-
-
-### Notable Changes
-
-* \[[`e0c71bcd1c`](https://github.com/nodejs/node/commit/e0c71bcd1c)] - **tools**: notarize `bin/node` in the darwin tarballs (Ulises Gascón) [#67143](https://github.com/nod...
-
----
-
-### 📦 rust-lang/rust
-
-**[Rust 1.100.0](https://github.com/rust-lang/rust/releases/tag/1.100.0)** `1.100.0`
-
-📅 Released: November 12, 2026
-
-<a id="1.100.0-Language"></a>
-
-## Language
-
-- [Stabilize never type](https://github.com/rust-lang/rust/pull/155499)
-- [Lint against repeated `#[repr(..)]` attributes](https://github.com/rust-lang/rust...
-
----
 
 </details>
 
@@ -487,59 +345,59 @@ Sched...
 
 | Skill | Status |
 |-------|--------|
-| Java | 🔴 Beginner |
+| Java | 🟡 Learning |
 | Python | 🟢 Proficient |
 | JavaScript | ⚪ Planned |
 | TypeScript | 🔴 Beginner |
-| Go | 🔴 Beginner |
+| Go | ⚪ Planned |
 
 ### Frameworks
 
 | Skill | Status |
 |-------|--------|
-| React | ⚪ Planned |
-| Spring Boot | 🟡 Learning |
-| Django | 🟡 Learning |
+| React | 🟡 Learning |
+| Spring Boot | 🟢 Proficient |
+| Django | 🔴 Beginner |
 | Node.js | 🟡 Learning |
-| Next.js | 🟡 Learning |
+| Next.js | ⚪ Planned |
 
 ### Cybersecurity
 
 | Skill | Status |
 |-------|--------|
-| Penetration Testing | 🟢 Proficient |
-| Web Security | 🔴 Beginner |
+| Penetration Testing | ⚪ Planned |
+| Web Security | 🟡 Learning |
 | Network Security | ⚪ Planned |
-| OWASP | 🔴 Beginner |
+| OWASP | 🟡 Learning |
 
 ### Ai Ml
 
 | Skill | Status |
 |-------|--------|
-| Machine Learning | 🟢 Proficient |
-| Deep Learning | ⚪ Planned |
-| NLP | 🔴 Beginner |
-| Computer Vision | ⚪ Planned |
-| TensorFlow | ⚪ Planned |
-| PyTorch | ⚪ Planned |
+| Machine Learning | 🟡 Learning |
+| Deep Learning | 🔴 Beginner |
+| NLP | 🟢 Proficient |
+| Computer Vision | 🔴 Beginner |
+| TensorFlow | 🔴 Beginner |
+| PyTorch | 🟡 Learning |
 
 ### Devops
 
 | Skill | Status |
 |-------|--------|
-| Docker | ⚪ Planned |
-| Kubernetes | 🟡 Learning |
+| Docker | 🔴 Beginner |
+| Kubernetes | ⚪ Planned |
 | CI/CD | 🟡 Learning |
-| AWS | ⚪ Planned |
-| Azure | 🟡 Learning |
+| AWS | 🟡 Learning |
+| Azure | 🔴 Beginner |
 
 ### Other
 
 | Skill | Status |
 |-------|--------|
-| Blockchain | 🟡 Learning |
-| Web3 | ⚪ Planned |
-| Cloud Computing | 🟡 Learning |
+| Blockchain | 🟢 Proficient |
+| Web3 | 🔴 Beginner |
+| Cloud Computing | 🟢 Proficient |
 
 </details>
 
