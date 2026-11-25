@@ -7,7 +7,7 @@
 ![AI & ML](https://img.shields.io/badge/-AI%20&%20ML-blue) ![CyberSecurity](https://img.shields.io/badge/-CyberSecurity-red) ![Full Stack Development](https://img.shields.io/badge/-Full%20Stack%20Development-green)
 
 [![Auto Update](https://img.shields.io/badge/Auto%20Update-Enabled-success)](https://github.com/yourusername/tech-dashboard/actions)
-[![Last Updated](https://img.shields.io/badge/Last%20Updated-November 24, 2026-blue)](https://github.com/yourusername/tech-dashboard)
+[![Last Updated](https://img.shields.io/badge/Last%20Updated-November 25, 2026-blue)](https://github.com/yourusername/tech-dashboard)
 
 *Automatically updated every 6 hours with the latest tech news, trending repositories, and learning resources.*
 
@@ -21,7 +21,7 @@
 |--------|-------|
 | 📰 Latest News Articles | 26 |
 | 🔥 Trending Repositories | 45 |
-| 🎯 Latest Releases | 8 |
+| 🎯 Latest Releases | 10 |
 | 🎯 Learning Goals | 4 |
 
 ## 🎯 Current Focus
@@ -46,75 +46,70 @@
 
 ### 📑 Hacker News
 
-- **[Cyberattack Campaign Compromising Check Point Servers Across 22 Organizations](https://www.greynoise.io/blog/check-point-security-management-servers-intrusion-campaign)**
-  *<p>Article URL: <a href="https://www.greynoise.io/blog/check-point-security-management-servers-intrusion-campaign">https://www.greynoise.io/blog/check-point-security-management-servers-intrusion-campa...*
-  📅 Tue, 24 Nov 2026 16:32:17 +0000
+- **[PenGPT: A Generative Transformer for Handwriting and Sketches](https://greydanus.github.io/2026/11/12/pengpt/)**
+  *<p>Article URL: <a href="https://greydanus.github.io/2026/11/12/pengpt/">https://greydanus.github.io/2026/11/12/pengpt/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50637056"...*
+  📅 Wed, 25 Nov 2026 00:54:49 +0000
 
-- **[Tidal Bans AI-Generated Music](https://variety.com/2026/music/news/tidal-bans-ai-generated-music-1236956924/)**
-  *<p>Article URL: <a href="https://variety.com/2026/music/news/tidal-bans-ai-generated-music-1236956924/">https://variety.com/2026/music/news/tidal-bans-ai-generated-music-1236956924/</a></p>
-<p>Comment...*
-  📅 Tue, 24 Nov 2026 16:12:38 +0000
+- **[Here in the World: Letters of Albert Camus, 1944–1959](https://literaryreview.co.uk/here-in-the-world)**
+  *<p>Article URL: <a href="https://literaryreview.co.uk/here-in-the-world">https://literaryreview.co.uk/here-in-the-world</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50636925"...*
+  📅 Wed, 25 Nov 2026 00:36:43 +0000
 
-- **[Ex-Nvidia partner Megaspeed hit with U.S. Commerce Department export ban](https://www.upi.com/Top_News/US/2026/11/24/NVIDIA-partner-Megaspeed/1701795520063/)**
-  *<p>Article URL: <a href="https://www.upi.com/Top_News/US/2026/11/24/NVIDIA-partner-Megaspeed/1701795520063/">https://www.upi.com/Top_News/US/2026/11/24/NVIDIA-partner-Megaspeed/1701795520063/</a></p>
-...*
-  📅 Tue, 24 Nov 2026 16:08:29 +0000
+- **[Fable 5.2 tries less on some hard tasks when a shortcut is available](https://goodhartlabs.com/blog/fable-5-2-tries-less-on-some-hard-tasks-when-a-shortcut-is-available)**
+  *<p>Article URL: <a href="https://goodhartlabs.com/blog/fable-5-2-tries-less-on-some-hard-tasks-when-a-shortcut-is-available">https://goodhartlabs.com/blog/fable-5-2-tries-less-on-some-hard-tasks-when-...*
+  📅 Tue, 24 Nov 2026 22:26:41 +0000
 
-- **[A training engine for your local model, using your idle compute](https://github.com/sous-labs/songe)**
-  *<p>Article URL: <a href="https://github.com/sous-labs/songe">https://github.com/sous-labs/songe</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50629231">https://news.ycombinato...*
-  📅 Tue, 24 Nov 2026 15:03:40 +0000
+- **[Heart attack and stroke risk detectable decades in advance](https://www.ed.ac.uk/news/heart-attack-and-stroke-risk-detectable-decades-in-advance)**
+  *<p>Article URL: <a href="https://www.ed.ac.uk/news/heart-attack-and-stroke-risk-detectable-decades-in-advance">https://www.ed.ac.uk/news/heart-attack-and-stroke-risk-detectable-decades-in-advance</a><...*
+  📅 Tue, 24 Nov 2026 21:51:21 +0000
 
-- **[LLM agents work for their parent companies, not for you](https://michaelharley.net/posts/2026/11/01/llm-agents-work-for-their-parent-companies-not-for-you/)**
-  *<p>Article URL: <a href="https://michaelharley.net/posts/2026/11/01/llm-agents-work-for-their-parent-companies-not-for-you/">https://michaelharley.net/posts/2026/11/01/llm-agents-work-for-their-parent...*
-  📅 Tue, 24 Nov 2026 12:40:15 +0000
+- **[An unclassified CIA system was breached in a cyberattack](https://apnews.com/article/cia-cyberattack-unclassified-system-bfa6d3b02e3b0e2779dfb613c900bd77)**
+  *<p>Article URL: <a href="https://apnews.com/article/cia-cyberattack-unclassified-system-bfa6d3b02e3b0e2779dfb613c900bd77">https://apnews.com/article/cia-cyberattack-unclassified-system-bfa6d3b02e3b0e2...*
+  📅 Tue, 24 Nov 2026 21:24:27 +0000
 
-- **[Who in Washington owns and trades Nvidia stock](https://www.kadoa.com/congress/insights/trump-nvidia)**
-  *<p>Article URL: <a href="https://www.kadoa.com/congress/insights/trump-nvidia">https://www.kadoa.com/congress/insights/trump-nvidia</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?...*
-  📅 Tue, 24 Nov 2026 11:51:05 +0000
+- **[GPT-6 models demonstrate intrinsic protein-design capabilities](https://openai.com/index/gpt-6-models-demonstrate-intrinsic-protein-design-capabilities/)**
+  *<p>Article URL: <a href="https://openai.com/index/gpt-6-models-demonstrate-intrinsic-protein-design-capabilities/">https://openai.com/index/gpt-6-models-demonstrate-intrinsic-protein-design-capabiliti...*
+  📅 Tue, 24 Nov 2026 21:02:22 +0000
 
 ### 📑 TechCrunch
 
-- **[Uber and Nuro begin driverless testing of Lucid robotaxis ahead of 2027 launch](https://techcrunch.com/2026/11/24/uber-and-nuro-begin-driverless-testing-of-lucid-robotaxis-ahead-of-2027-launch/)**
-  *Uber and Nuro have started testing driverless Lucid Gravity SUVs on public streets in the San Francisco Bay Area....*
-  📅 Tue, 24 Nov 2026 16:40:46 +0000
+- **[Yale’s Sonnenfeld: Nvidia is a ‘detriment’ to U.S. industrial might — not a champion](https://techcrunch.com/2026/11/24/yales-sonnenfeld-nvidia-is-a-detriment-to-u-s-industrial-might-not-a-champion/)**
+  *Yale's Jeffrey Sonnenfeld warns that what the market cheered Monday, Jensen Huang's White House–backed return as Nvidia's CEO and board member, could prove a giant mistake, exposing the directors to "...*
+  📅 Wed, 25 Nov 2026 00:12:02 +0000
 
-- **[Why a Crusoe investor is betting on solar and batteries to power future AI data centers](https://techcrunch.com/2026/11/24/why-a-crusoe-investor-is-betting-on-solar-and-batteries-to-power-future-ai-data-centers/)**
-  *Next-generation data centers will need tens of gigawatts of power every year. One of Crusoe's investors thinks solar and energy storage are the obvious choice....*
-  📅 Tue, 24 Nov 2026 16:10:00 +0000
+- **[Trump reportedly says pardoning Jensen Huang is ‘an option’](https://techcrunch.com/2026/11/24/trump-reportedly-says-pardoning-jensen-huang-is-an-option-but-that-he-doesnt-think-it-will-be-necessary/)**
+  *Huang faces ongoing questions about his relationship with Alice Huang, an executive with alleged ties to Chinese intelligence who previously worked for a company that has been accused of illegally div...*
+  📅 Wed, 25 Nov 2026 00:10:27 +0000
 
-- **[Pinterest will now let parents limit the AI-generated content their teens see](https://techcrunch.com/2026/11/24/pinterest-will-now-let-parents-limit-the-ai-generated-content-their-teens-see/)**
-  *While other social platforms have focused on restricting teens' access to AI chatbots, Pinterest is addressing the AI content filling their feeds....*
-  📅 Tue, 24 Nov 2026 16:02:37 +0000
+- **[Jensen Huang still thinks a succession plan creates unnecessary hierarchy](https://techcrunch.com/2026/11/24/jensen-huang-still-thinks-a-succession-plan-creates-unnecessary-hierarchy/)**
+  *It's a remarkable stance for a company that spent the last two weeks finding out what happens without its founder....*
+  📅 Tue, 24 Nov 2026 22:27:52 +0000
 
-- **[Amazon’s Decart acquisition is a bet on using software to narrow the gap with Nvidia in the AI chip race](https://techcrunch.com/2026/11/24/amazons-decart-acquisition-is-a-bet-on-using-software-to-narrow-the-gap-with-nvidia-in-the-ai-chip-race/)**
-  *Amazon’s decision to acquire Decart for a reported $7.5 billion is part of its efforts to improve the efficiency of its Trainium chips....*
-  📅 Tue, 24 Nov 2026 15:51:07 +0000
+- **[In all-hands meeting, Jensen Huang thanks White House and says he’s in therapy](https://techcrunch.com/2026/11/24/in-all-hands-meeting-jensen-huang-thanks-white-house-and-says-hes-in-therapy/)**
+  *The Nvidia founder apologized to his staff on Tuesday and said he was grateful for a second chance to lead the company....*
+  📅 Tue, 24 Nov 2026 21:48:27 +0000
 
-- **[Huang reportedly admitted to more than two affairs to Nvidia’s board](https://techcrunch.com/2026/11/24/huang-reportedly-admitted-to-more-than-two-affairs-to-nvidias-board/)**
-  *During a meeting before his reinstatement, Huang admitted to more affairs beyond the two that have been reported in the news, according to The Wall Street Journal....*
-  📅 Tue, 24 Nov 2026 13:29:53 +0000
+- **[Even the best AI agents struggle with everyday life](https://techcrunch.com/2026/11/24/even-the-best-ai-agents-struggle-with-everyday-life/)**
+  *As millions embrace personal AI assistants, a new benchmark reveals that even the most advanced AI models struggle to complete everyday tasks reliably and safely without introducing potential new prob...*
+  📅 Tue, 24 Nov 2026 21:33:29 +0000
 
-- **[Figma employee sues, alleging company forced her to confront harassers](https://techcrunch.com/2026/11/23/figma-employee-sues-alleging-company-forced-her-to-confront-harassers/)**
-  *Figma and its CEO are being sued by a current employee for alleged sexual harassment and discrimination....*
-  📅 Mon, 23 Nov 2026 23:07:49 +0000
+- **[Walmart teams up with Meta to bring Black Friday deals to AI agent Muse](https://techcrunch.com/2026/11/24/walmart-teams-up-with-meta-to-bring-black-friday-deals-to-ai-agent-muse/)**
+  *Walmart now lets customers shop Black Friday deals through Muse, Meta’s AI agent....*
+  📅 Tue, 24 Nov 2026 21:32:38 +0000
 
 ### 📑 Dev.to
 
-- **[Moving from Scheduled Polling to Event-Driven Business Automation](https://dev.to/tanmay2627/moving-from-scheduled-polling-to-event-driven-business-automation-2d64)**
-  *<p>A surprising amount of modern business automation still relies on scheduled polling. A cron job runs every five minutes to query a database for unfulfilled orders. A script polls a CRM API every ho...*
-  📅 Tue, 24 Nov 2026 16:35:09 +0000
+- **[SEO Rank Tracking Is an Observability Problem, Not a Scraping Project](https://dev.to/germey/seo-rank-tracking-is-an-observability-problem-not-a-scraping-project-1gf8)**
+  *<p>The annoying part of rank tracking is not searching for a keyword once. Anyone can do that.</p>
 
-- **[Security Assessment: Europa (Hack The Box) — Penetration Testing Report](https://dev.to/araizcorp/security-assessment-europa-hack-the-box-penetration-testing-report-l2a)**
-  *<h1>
-  
-  
-  Security Assessment Report: Europa
-</h1>
+<p>The pain starts when someone asks why a result was fifth yesterday and missing today. Was the pag...*
+  📅 Wed, 25 Nov 2026 01:38:32 +0000
 
-<p><a class="article-body-image-wrapper" href="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=a...*
-  📅 Tue, 24 Nov 2026 16:35:00 +0000
+- **[The $2.99 VPS Renews at $17.99. Here's the Table That Shows What 3 Years Actually Costs](https://dev.to/cartcheck/the-299-vps-renews-at-1799-heres-the-table-that-shows-what-3-years-actually-costs-37am)**
+  *<blockquote>
+<p>Disclosure: This post links to VPS Hosting Radar. I have no affiliate link in this post — the pricing index is free to read, and the prices below are from its September 15, 2026 check;...*
+  📅 Wed, 25 Nov 2026 01:37:14 +0000
 
 </details>
 
@@ -122,103 +117,103 @@
 
 ### 📈 Daily Trending
 
-- **[LeonidaReforge/Leonida](https://github.com/LeonidaReforge/Leonida)** ⭐ 423
+- **[nam66229/forza-horizon-6-telemetry-tuning-hud](https://github.com/nam66229/forza-horizon-6-telemetry-tuning-hud)** ⭐ 189
+  ![C#](https://img.shields.io/badge/-C#-lightgrey)
+  Forza Horizon 6 (FH6) Auto Telemetry Dashboard, Suspension Tuning Calculator & Wheel Force Feedback HUD (2026)
+
+- **[MarcosDupont37/adobe-acrobat-pro-2026-x64-suite](https://github.com/MarcosDupont37/adobe-acrobat-pro-2026-x64-suite)** ⭐ 171
+  ![C#](https://img.shields.io/badge/-C#-lightgrey)
+  Adobe Acrobat Pro 2026 (64-Bit) Offline PDF Editor, OCR & Preflight Configuration Suite for Windows 10/11
+
+- **[RijuliXiye39/grow-a-garden-script-roblox-macro](https://github.com/RijuliXiye39/grow-a-garden-script-roblox-macro)** ⭐ 170
+  ![C#](https://img.shields.io/badge/-C#-lightgrey)
+  Grow a Garden Script Roblox [2026] — Keyless Auto Plant, Instant Harvest, Seed Shop Sniper & Weather Macro
+
+- **[robertmar-work47/xfer-serum-2-vst3-wavetable-synth-preset-suite](https://github.com/robertmar-work47/xfer-serum-2-vst3-wavetable-synth-preset-suite)** ⭐ 166
+  ![C#](https://img.shields.io/badge/-C#-lightgrey)
+  Serum 2 VST & Xfer Serum 2.0.24 VST3 Synthesizer Studio Suite [2026] — Wavetable Pack, MPE Profiles & Presets
+
+- **[Zettrox/ztrx](https://github.com/Zettrox/ztrx)** ⭐ 141
+  ![Rust](https://img.shields.io/badge/-Rust-brown)
+  Run the Xbox Series build of the game natively on Windows PCs with NVIDIA GPUs
+
+- **[paulamatsumoto3093/wardogs-fps-tactical-overlay](https://github.com/paulamatsumoto3093/wardogs-fps-tactical-overlay)** ⭐ 133
+  ![C++](https://img.shields.io/badge/-C++-pink)
+  Wardogs FPS Tactical Overlay [2026] — Standalone Windows 10/11 (x64) Release, Setup & Config
+
+- **[Anderst026/crimson-desert-pywel-interactive-map-companion](https://github.com/Anderst026/crimson-desert-pywel-interactive-map-companion)** ⭐ 133
+  ![C#](https://img.shields.io/badge/-C#-lightgrey)
+  Crimson Desert Pywel Interactive Map Companion [2026] — Standalone Windows 10/11 (x64) Release, Setup & Config
+
+- **[dianenelson33/kalshi-polymarket-cross-exchange-arb-bot](https://github.com/dianenelson33/kalshi-polymarket-cross-exchange-arb-bot)** ⭐ 133
   ![Python](https://img.shields.io/badge/-Python-blue)
-  Community-driven continuation of the Leonida project
-
-- **[ProjectLeonidaL/leonida](https://github.com/ProjectLeonidaL/leonida)** ⭐ 310
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  Continuation of Project Leonida, aiming to bring GTA VI from Xbox to PC through static recompilation.
-
-- **[injectingon5m-alt/pubg-map-hack](https://github.com/injectingon5m-alt/pubg-map-hack)** ⭐ 178
-  ![HTML](https://img.shields.io/badge/-HTML-lightgrey)
-  Live map intel and HUD overlays that keep PUBG squad decisions sharp.
-
-- **[isadhanjana-cpu/gta-5-enhanced-mod-menu](https://github.com/isadhanjana-cpu/gta-5-enhanced-mod-menu)** ⭐ 178
-  ![HTML](https://img.shields.io/badge/-HTML-lightgrey)
-  In-game tools and live stats for GTA 5 Enhanced, built for quick access.
-
-- **[carllouisepamittan/sketchup-pro-befalor](https://github.com/carllouisepamittan/sketchup-pro-befalor)** ⭐ 177
-  ![HTML](https://img.shields.io/badge/-HTML-lightgrey)
-  Sketchup Pro Befalor delivers focused modeling tools with structured workflows for design work.
-
-- **[James28100/shadps4-bloodborne-pc-60fps-patch-vertex-explosion-dakalin](https://github.com/James28100/shadps4-bloodborne-pc-60fps-patch-vertex-explosion-dakalin)** ⭐ 177
-  ![HTML](https://img.shields.io/badge/-HTML-lightgrey)
-  Tame vertex explosions while pushing Bloodborne toward 60fps on shadps4.
-
-- **[damianenriquegonzalez31-maker/bloxstrap-roblox-fflags-2026](https://github.com/damianenriquegonzalez31-maker/bloxstrap-roblox-fflags-2026)** ⭐ 177
-  ![HTML](https://img.shields.io/badge/-HTML-lightgrey)
-  Configures Roblox FastFlags through Bloxstrap for granular client-side control.
-
-- **[lianmarcelo/ea-sports-fc-26-fut-web-app-sniping-kacelan](https://github.com/lianmarcelo/ea-sports-fc-26-fut-web-app-sniping-kacelan)** ⭐ 177
-  ![HTML](https://img.shields.io/badge/-HTML-lightgrey)
-  Built by the community, for the community - sniping tools and features for FC 26
+  Kalshi Polymarket Cross Exchange Arb Bot [2026] — Standalone Windows 10/11 (x64) Release, Setup & Config
 
 ### 📈 Weekly Trending
 
-- **[Marvisak/VIctory](https://github.com/Marvisak/VIctory)** ⭐ 9,876
+- **[Marvisak/VIctory](https://github.com/Marvisak/VIctory)** ⭐ 11,418
   ![Rust](https://img.shields.io/badge/-Rust-brown)
   An attempt at running GTA VI on PC
 
-- **[ivall/xcl](https://github.com/ivall/xcl)** ⭐ 7,179
+- **[xcl-dev/xcl](https://github.com/xcl-dev/xcl)** ⭐ 7,870
   ![Rust](https://img.shields.io/badge/-Rust-brown)
   Xbox Series compatibility layer for Windows - runs console game code natively, reimplements the console system libraries and recompiles RDNA2 shaders to DXIL
 
-- **[EL4CTEO/fast-anything](https://github.com/EL4CTEO/fast-anything)** ⭐ 3,522
+- **[EL4CTEO/fast-anything](https://github.com/EL4CTEO/fast-anything)** ⭐ 3,621
   ![Rust](https://img.shields.io/badge/-Rust-brown)
   Don't rewrite it in Rust. Rewrite the 5% that's slow: profile Python, Node or Ruby apps, port the hot functions with your coding agent, prove they behave the same.
 
-- **[AFK-surf/xnulinux](https://github.com/AFK-surf/xnulinux)** ⭐ 3,109
+- **[AFK-surf/xnulinux](https://github.com/AFK-surf/xnulinux)** ⭐ 3,405
   ![Objective-C++](https://img.shields.io/badge/-Objective-C++-lightgrey)
   XNU as a loadable kernel module inside Linux (macOS personality for arm64 Linux)
 
-- **[iamajmeena/neonclipping](https://github.com/iamajmeena/neonclipping)** ⭐ 2,427
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  Paste a link, get captioned 9:16 clips in ~2 min. Free, local, open-source clipping engine (audio-first, YouTube captions, local LLM).
-
-- **[4lwayz/portwatch-vi](https://github.com/4lwayz/portwatch-vi)** ⭐ 2,212
+- **[4lwayz/portwatch-vi](https://github.com/4lwayz/portwatch-vi)** ⭐ 2,926
   ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
   Does GTA VI run on PC yet? A live tracker of community recompilation and emulation efforts, updated daily.
 
-- **[R0Y00/Xbox2Windows](https://github.com/R0Y00/Xbox2Windows)** ⭐ 1,849
+- **[iamajmeena/neonclipping](https://github.com/iamajmeena/neonclipping)** ⭐ 2,487
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  Paste a link, get captioned 9:16 clips in ~2 min. Free, local, open-source clipping engine (audio-first, YouTube captions, local LLM).
+
+- **[fxceless/victory-fork](https://github.com/fxceless/victory-fork)** ⭐ 2,012
+  ![Rust](https://img.shields.io/badge/-Rust-brown)
+  Work-in-progress fork of VIctory: getting an Xbox Series title to render and run on a Windows PC. No game files.
+
+- **[R0Y00/Xbox2Windows](https://github.com/R0Y00/Xbox2Windows)** ⭐ 1,908
   ![Python](https://img.shields.io/badge/-Python-blue)
   Static recompilation research for Xbox Series X|S software on x64 Windows, with source-built CPU and GPU tests. Full-game startup is unverified.
 
-- **[omonkeyz/xbox-emulator](https://github.com/omonkeyz/xbox-emulator)** ⭐ 1,780
-  ![Rust](https://img.shields.io/badge/-Rust-brown)
-  Progress notes for running Xbox Series X|S builds on PC (TomBox + rage9)
-
 ### 📈 Monthly Trending
 
-- **[storytold/craft-anything](https://github.com/storytold/craft-anything)** ⭐ 42,677
+- **[storytold/craft-anything](https://github.com/storytold/craft-anything)** ⭐ 42,877
   ![Rust](https://img.shields.io/badge/-Rust-brown)
   Craft Anything: understand how any software works, and craft your own.
 
-- **[deepseek-ai/dsh-superagent-prototype](https://github.com/deepseek-ai/dsh-superagent-prototype)** ⭐ 24,459
+- **[deepseek-ai/dsh-superagent-prototype](https://github.com/deepseek-ai/dsh-superagent-prototype)** ⭐ 24,480
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   Towards a More Autonomous Agent System
 
-- **[heydamir/unslop](https://github.com/heydamir/unslop)** ⭐ 21,181
+- **[heydamir/unslop](https://github.com/heydamir/unslop)** ⭐ 21,301
   ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
   A Claude skill that turns vibecoded, AI-looking UI into a designed interface
 
-- **[anefzaoui/misterdownloadmanager](https://github.com/anefzaoui/misterdownloadmanager)** ⭐ 17,722
+- **[anefzaoui/misterdownloadmanager](https://github.com/anefzaoui/misterdownloadmanager)** ⭐ 17,804
   ![Rust](https://img.shields.io/badge/-Rust-brown)
   misterdownloadmanager: The ultimate open-source, clean-room download manager written from scratch in pure Rust for Windows, Mac, and Linux
 
-- **[JuneYaooo/rea-video](https://github.com/JuneYaooo/rea-video)** ⭐ 12,950
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  Reverse-engineer any video, shot by shot: filmed, AI-generated or coded, and how to remake it. Breakdowns in the open VIDEO.md format. 逆向一切视频，逐个镜头看是拍的、AI 生成的还是代码做的，再告诉你怎么复刻；拆解结果按 VIDEO.md 格式输出。
-
-- **[libracoder/kiri](https://github.com/libracoder/kiri)** ⭐ 12,886
+- **[libracoder/kiri](https://github.com/libracoder/kiri)** ⭐ 13,019
   ![Rust](https://img.shields.io/badge/-Rust-brown)
   A small, fast container runtime for macOS, Windows and Linux with free Ngrok alternative
 
-- **[Minireel/HGhub](https://github.com/Minireel/HGhub)** ⭐ 11,752
+- **[JuneYaooo/rea-video](https://github.com/JuneYaooo/rea-video)** ⭐ 13,013
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  Reverse-engineer any video, shot by shot: filmed, AI-generated or coded, and how to remake it. Breakdowns in the open VIDEO.md format. 逆向一切视频，逐个镜头看是拍的、AI 生成的还是代码做的，再告诉你怎么复刻；拆解结果按 VIDEO.md 格式输出。
+
+- **[Minireel/HGhub](https://github.com/Minireel/HGhub)** ⭐ 11,782
   ![Rust](https://img.shields.io/badge/-Rust-brown)
   Plug-in media player
 
-- **[janestreet/agent_skills](https://github.com/janestreet/agent_skills)** ⭐ 11,555
+- **[janestreet/agent_skills](https://github.com/janestreet/agent_skills)** ⭐ 11,611
   ![None](https://img.shields.io/badge/-None-lightgrey)
   Agent skills
 
@@ -330,6 +325,35 @@ See [kubernetes-announce@](https://groups.google.com/forum/#!forum/kubernetes-an
 
 > ℹ️ **Scheduled jobs are now supported.** A job is a one-shot unit of work declared in the top-level `jobs:` element of your Compose file, run on demand or on a schedule. 
 Sched...
+
+---
+
+### 📦 nodejs/node
+
+**[2026-11-16, Version 27.0.0-alpha.0.1.1 (Alpha), @aduh95](https://github.com/nodejs/node/releases/tag/v27.0.0-alpha.0.1.1)** `v27.0.0-alpha.0.1.1`
+
+📅 Released: November 17, 2026
+
+
+
+### Notable Changes
+
+* \[[`e0c71bcd1c`](https://github.com/nodejs/node/commit/e0c71bcd1c)] - **tools**: notarize `bin/node` in the darwin tarballs (Ulises Gascón) [#67143](https://github.com/nod...
+
+---
+
+### 📦 rust-lang/rust
+
+**[Rust 1.100.0](https://github.com/rust-lang/rust/releases/tag/1.100.0)** `1.100.0`
+
+📅 Released: November 12, 2026
+
+<a id="1.100.0-Language"></a>
+
+## Language
+
+- [Stabilize never type](https://github.com/rust-lang/rust/pull/155499)
+- [Lint against repeated `#[repr(..)]` attributes](https://github.com/rust-lang/rust...
 
 ---
 
@@ -458,59 +482,59 @@ Sched...
 
 | Skill | Status |
 |-------|--------|
-| Java | 🟡 Learning |
-| Python | 🔴 Beginner |
-| JavaScript | ⚪ Planned |
-| TypeScript | ⚪ Planned |
-| Go | ⚪ Planned |
+| Java | 🟢 Proficient |
+| Python | 🟡 Learning |
+| JavaScript | 🟢 Proficient |
+| TypeScript | 🟢 Proficient |
+| Go | 🟢 Proficient |
 
 ### Frameworks
 
 | Skill | Status |
 |-------|--------|
-| React | ⚪ Planned |
-| Spring Boot | ⚪ Planned |
-| Django | ⚪ Planned |
-| Node.js | 🟢 Proficient |
-| Next.js | 🔴 Beginner |
+| React | 🟡 Learning |
+| Spring Boot | 🔴 Beginner |
+| Django | 🟡 Learning |
+| Node.js | 🟡 Learning |
+| Next.js | 🟢 Proficient |
 
 ### Cybersecurity
 
 | Skill | Status |
 |-------|--------|
-| Penetration Testing | 🟢 Proficient |
-| Web Security | 🟡 Learning |
+| Penetration Testing | ⚪ Planned |
+| Web Security | ⚪ Planned |
 | Network Security | ⚪ Planned |
-| OWASP | 🟡 Learning |
+| OWASP | 🔴 Beginner |
 
 ### Ai Ml
 
 | Skill | Status |
 |-------|--------|
-| Machine Learning | 🟡 Learning |
+| Machine Learning | 🟢 Proficient |
 | Deep Learning | 🔴 Beginner |
-| NLP | ⚪ Planned |
-| Computer Vision | 🔴 Beginner |
-| TensorFlow | ⚪ Planned |
-| PyTorch | 🟢 Proficient |
+| NLP | 🔴 Beginner |
+| Computer Vision | 🟢 Proficient |
+| TensorFlow | 🔴 Beginner |
+| PyTorch | 🟡 Learning |
 
 ### Devops
 
 | Skill | Status |
 |-------|--------|
-| Docker | 🟢 Proficient |
+| Docker | 🔴 Beginner |
 | Kubernetes | 🔴 Beginner |
 | CI/CD | 🔴 Beginner |
 | AWS | 🟢 Proficient |
-| Azure | 🟢 Proficient |
+| Azure | 🔴 Beginner |
 
 ### Other
 
 | Skill | Status |
 |-------|--------|
 | Blockchain | 🔴 Beginner |
-| Web3 | ⚪ Planned |
-| Cloud Computing | 🟡 Learning |
+| Web3 | 🔴 Beginner |
+| Cloud Computing | ⚪ Planned |
 
 </details>
 
@@ -528,7 +552,7 @@ This dashboard is automatically updated every 6 hours using GitHub Actions. The 
 
 <div align="center">
 
-**Last Updated:** November 24, 2026
+**Last Updated:** November 25, 2026
 
 Made with ❤️ and automated with GitHub Actions
 
