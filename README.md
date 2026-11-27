@@ -7,7 +7,7 @@
 ![AI & ML](https://img.shields.io/badge/-AI%20&%20ML-blue) ![CyberSecurity](https://img.shields.io/badge/-CyberSecurity-red) ![Full Stack Development](https://img.shields.io/badge/-Full%20Stack%20Development-green)
 
 [![Auto Update](https://img.shields.io/badge/Auto%20Update-Enabled-success)](https://github.com/yourusername/tech-dashboard/actions)
-[![Last Updated](https://img.shields.io/badge/Last%20Updated-November 26, 2026-blue)](https://github.com/yourusername/tech-dashboard)
+[![Last Updated](https://img.shields.io/badge/Last%20Updated-November 27, 2026-blue)](https://github.com/yourusername/tech-dashboard)
 
 *Automatically updated every 6 hours with the latest tech news, trending repositories, and learning resources.*
 
@@ -46,39 +46,53 @@
 
 ### 📑 Hacker News
 
-- **[Show HN: Three Linux VMs in a browser tab, each running a different browser](https://michidk.github.io/sidebyside/)**
-  *<p>Article URL: <a href="https://michidk.github.io/sidebyside/">https://michidk.github.io/sidebyside/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50656036">https://news.ycom...*
-  📅 Thu, 26 Nov 2026 15:00:06 +0000
+- **[AI agents now control part of DeepMind's compute for Gemini experiments](https://the-decoder.com/ai-agents-now-control-part-of-deepminds-compute-for-gemini-experiments-but-recursive-self-improvement-remains-distant/)**
+  *<p>Article URL: <a href="https://the-decoder.com/ai-agents-now-control-part-of-deepminds-compute-for-gemini-experiments-but-recursive-self-improvement-remains-distant/">https://the-decoder.com/ai-agen...*
+  📅 Fri, 27 Nov 2026 00:03:18 +0000
 
-- **[Tell HN: Happy Thanksgiving](https://news.ycombinator.com/item?id=50655664)**
-  *<p>Hopefully it’s a great day spent with your friends and family. And if it’s not, make it a great day anyway!</p>
-<hr />
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50655664">https...*
-  📅 Thu, 26 Nov 2026 14:26:54 +0000
+- **[Novita, StreamLake, etc. are ByteDance Ark wrappers](https://kendell.dev/blog/arkwrapper/)**
+  *<p>Article URL: <a href="https://kendell.dev/blog/arkwrapper/">https://kendell.dev/blog/arkwrapper/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50660273">https://news.ycombi...*
+  📅 Thu, 26 Nov 2026 21:59:19 +0000
 
-- **[45°C inlets just killed the chiller. Most people haven't noticed yet](https://www.theregister.com/hpc/2026/11/26/45c-inlets-just-killed-the-chiller-most-people-havent-noticed-yet/5311831)**
-  *<p>Article URL: <a href="https://www.theregister.com/hpc/2026/11/26/45c-inlets-just-killed-the-chiller-most-people-havent-noticed-yet/5311831">https://www.theregister.com/hpc/2026/11/26/45c-inlets-jus...*
-  📅 Thu, 26 Nov 2026 13:48:11 +0000
+- **[AI made self-hosting fun again](https://janlukas.blog/posts/ai-self-hosting)**
+  *<p>Article URL: <a href="https://janlukas.blog/posts/ai-self-hosting">https://janlukas.blog/posts/ai-self-hosting</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50660180">https...*
+  📅 Thu, 26 Nov 2026 21:47:45 +0000
 
-- **[Head of Software Engineering – NOX Metals](https://news.ycombinator.com/item?id=50654353)**
-  *<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50654353">https://news.ycombinator.com/item?id=50654353</a></p>
-<p>Points: 0</p>
-<p># Comments: 0</p>...*
-  📅 Thu, 26 Nov 2026 12:00:00 +0000
+- **[Denver man traps Waymo robotaxis with cones, eggs them at least 30 times](https://electrek.co/2026/11/26/denver-man-cones-eggs-waymo-robotaxis/)**
+  *<p>Article URL: <a href="https://electrek.co/2026/11/26/denver-man-cones-eggs-waymo-robotaxis/">https://electrek.co/2026/11/26/denver-man-cones-eggs-waymo-robotaxis/</a></p>
+<p>Comments URL: <a href="...*
+  📅 Thu, 26 Nov 2026 21:16:41 +0000
 
-- **[Euro-Office comes to your desktop with the Nextcloud Office Desktop app](https://nextcloud.com/blog/euro-office-comes-to-your-desktop-with-the-nextcloud-office-desktop-app/)**
-  *<p>Article URL: <a href="https://nextcloud.com/blog/euro-office-comes-to-your-desktop-with-the-nextcloud-office-desktop-app/">https://nextcloud.com/blog/euro-office-comes-to-your-desktop-with-the-next...*
-  📅 Thu, 26 Nov 2026 11:50:49 +0000
+- **[Kamil Khan Mumtaz: Pakistani architect, admired at home, almost invisible abroad](https://worksinprogress.co/issue/the-greatest-architect-youve-never-heard-of-is-in-pakistan/)**
+  *<p>Article URL: <a href="https://worksinprogress.co/issue/the-greatest-architect-youve-never-heard-of-is-in-pakistan/">https://worksinprogress.co/issue/the-greatest-architect-youve-never-heard-of-is-i...*
+  📅 Thu, 26 Nov 2026 21:08:05 +0000
 
-- **[Intel One Mono font](https://github.com/intel/intel-one-mono)**
-  *<p>Article URL: <a href="https://github.com/intel/intel-one-mono">https://github.com/intel/intel-one-mono</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50653667">https://news....*
-  📅 Thu, 26 Nov 2026 10:11:01 +0000
+- **[Top-cited AI scientists at four US companies compared](https://topcitedscientists.com/figures/ai-at-four-us-companies/)**
+  *<p>Article URL: <a href="https://topcitedscientists.com/figures/ai-at-four-us-companies/">https://topcitedscientists.com/figures/ai-at-four-us-companies/</a></p>
+<p>Comments URL: <a href="https://news...*
+  📅 Thu, 26 Nov 2026 19:44:31 +0000
 
 ### 📑 TechCrunch
 
-- **[As Anthropic IPOs, Grand Theft Auto VI proves why efficiency isn’t a virtue](https://techcrunch.com/2026/11/26/as-anthropic-ipos-grand-theft-auto-vi-proves-why-efficiency-isnt-a-virtue/)**
+- **[Nvidia hits pause on chip shipments to Southeast Asia](https://techcrunch.com/2026/11/26/nvidia-hits-pause-on-chip-shipments-to-southeast-asia/)**
+  *Nvidia has told manufacturing partners to pause server shipments to Malaysia, Singapore, Thailand and Indonesia as the U.S. tightens its push to keep AI chips out of China....*
+  📅 Thu, 26 Nov 2026 20:03:54 +0000
+
+- **[Is Alice Huang a spy or not?](https://techcrunch.com/2026/11/26/is-alice-huang-a-spy-or-not/)**
+  *The central, still-unproven claim in the Nvidia scandal is that Alice Huang, the former Megaspeed exec with whom Nvidia CEO Jensen Huang had an extramarital affair, is a Chinese spy....*
+  📅 Thu, 26 Nov 2026 20:00:00 +0000
+
+- **[X finally gets parental controls after 20 years](https://techcrunch.com/2026/11/26/x-finally-gets-parental-controls-after-20-years/)**
+  *Elon Musk's social network X has finally added parental controls for teenagers, giving parents and guardians a way to manage what their kids see on the platform....*
+  📅 Thu, 26 Nov 2026 19:31:50 +0000
+
+- **[A month with the iPhone Duo has changed how I use my phone](https://techcrunch.com/2026/11/26/a-month-with-the-iphone-duo-has-changed-how-i-use-my-phone/)**
+  *From reading more books to breaking mindless scrolling habits, Apple's foldable has changed my daily routines in ways I didn't anticipate....*
+  📅 Thu, 26 Nov 2026 17:00:00 +0000
+
+- **[Grand Theft Auto VI proves why efficiency isn’t a virtue](https://techcrunch.com/2026/11/26/as-anthropic-ipos-grand-theft-auto-vi-proves-why-efficiency-isnt-a-virtue/)**
   *On the same day that Anthropic entered the public market, a painstakingly human video game became one of most successful entertainment launches of all time....*
   📅 Thu, 26 Nov 2026 16:00:00 +0000
 
@@ -86,33 +100,15 @@
   *The credit rating agency may lower Nvidia's credit rating to AA-, the fourth-highest rating....*
   📅 Wed, 25 Nov 2026 22:44:32 +0000
 
-- **[FCC approves SpaceX plan to put AI data centers in space](https://techcrunch.com/2026/11/25/fcc-approves-spacex-plan-to-put-ai-data-centers-in-space/)**
-  *The FCC dismissed some of the key concerns raised by opponents, including potential threats to scientific research, because the agency determined they fell outside its regulatory authority....*
-  📅 Wed, 25 Nov 2026 20:56:44 +0000
-
-- **[OpenAI says heavy ChatGPT users may hit limits sooner as it merges Chat and Work](https://techcrunch.com/2026/11/25/openai-says-heavy-chatgpt-users-may-hit-limits-sooner-as-it-merges-chat-and-work/)**
-  *OpenAI will introduce a single usage meter across ChatGPT as it combines the Chat and Work experiences....*
-  📅 Wed, 25 Nov 2026 20:03:27 +0000
-
-- **[Jensen Huang broke Nvidia’s code of conduct, and his employees may not forget it](https://techcrunch.com/2026/11/25/jensen-huang-broke-nvidias-code-of-conduct-and-his-employees-may-not-forget-it/)**
-  *Most codes of conduct serve as a reflection of corporate culture. In Nvidia's case, that could have consequences....*
-  📅 Wed, 25 Nov 2026 19:54:57 +0000
-
-- **[The canceled Tesla Cybertruck is the fastest-selling used truck in America](https://techcrunch.com/2026/11/25/the-canceled-tesla-cybertruck-is-the-fastest-selling-used-truck-in-america/)**
-  *The Tesla Cybertruck was the fastest-selling used truck last month, averaging just 39.1 days on the market compared to 65.5 days for trucks overall....*
-  📅 Wed, 25 Nov 2026 19:54:32 +0000
-
 ### 📑 Dev.to
 
-- **[How to Architect and Debug Prompts for Text to Image AI](https://dev.to/jay_pixbloom/how-to-architect-and-debug-prompts-for-text-to-image-ai-4cji)**
-  *<p>People searching for text to image AI usually already have a job in mind: a cover, a blog hero, a poster, a product still. What they lack is a prompt they can reuse, and a way to debug it when the ...*
-  📅 Thu, 26 Nov 2026 16:00:10 +0000
+- **[How to Prevent Duplicate AI Tool Calls From Creating Duplicate Tickets](https://dev.to/yi_a_38d6fb851f32cff799ed/how-to-prevent-duplicate-ai-tool-calls-from-creating-duplicate-tickets-4ca7)**
+  *<p>An AI support assistant calls <code>create_ticket</code>. The ticket service creates ticket 731, but the response times out on its way back. The model sees an error and asks to create the same tick...*
+  📅 Fri, 27 Nov 2026 01:17:32 +0000
 
-- **[The Engineering Design Process: A Step-by-Step Guide](https://dev.to/roman_fairchild/the-engineering-design-process-a-step-by-step-guide-52lp)**
-  *<p>Most engineering projects don’t fail because the team can’t build. They fail because the team started building too soon.</p>
-
-<p>Someone has a cool idea. Everyone grabs a tool. Three weeks later th...*
-  📅 Thu, 26 Nov 2026 16:00:00 +0000
+- **[One Mini App, Two Backends: What Does the Host Actually Depend On?](https://dev.to/ai_superapp/one-mini-app-two-backends-what-does-the-host-actually-depend-on-59gg)**
+  *<p>Both servers returned HTTP 200. Both answered the same URL. The Mini App page showed “Available” with one response and “Unknown” with the other. The change that explained the difference was small e...*
+  📅 Fri, 27 Nov 2026 01:17:29 +0000
 
 </details>
 
@@ -120,103 +116,103 @@
 
 ### 📈 Daily Trending
 
-- **[DoubleGhosty/cool_fox](https://github.com/DoubleGhosty/cool_fox)** ⭐ 496
-  ![Rust](https://img.shields.io/badge/-Rust-brown)
-  cool_fox: Leading CGBJ runtime continuation for GTA VI PC - Pareto residency, Wine/Vulkan fixes, FPS unlock, Port 5 CBV
+- **[CBQZOVO/Antigravity-Patcher](https://github.com/CBQZOVO/Antigravity-Patcher)** ⭐ 2
+  ![Shell](https://img.shields.io/badge/-Shell-lightgrey)
+  Antigravity 地区限制绕行工具集
 
-- **[hunterhughes74/PClabs](https://github.com/hunterhughes74/PClabs)** ⭐ 287
-  ![Lua](https://img.shields.io/badge/-Lua-lightgrey)
+- **[MrBlankCoding/Illuminate](https://github.com/MrBlankCoding/Illuminate)** ⭐ 2
+  ![C++](https://img.shields.io/badge/-C++-pink)
+  Illuminate is a browser built with Qt 6 and Chromium Embedded Framework (CEF).
+
+- **[yxlm42a-lgtm/milestone-workstreams](https://github.com/yxlm42a-lgtm/milestone-workstreams)** ⭐ 1
+  ![PowerShell](https://img.shields.io/badge/-PowerShell-lightgrey)
+  把大型项目拆分为里程碑工作区（M0..Mn）的 DSH Skill，内置交接文档、Token 纪律与 Lead 审查门
+
+- **[666githunboy/rag-aviation-qa](https://github.com/666githunboy/rag-aviation-qa)** ⭐ 1
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  RAG-based aviation maintenance document QA with PDF parsing, chunking, embedding retrieval and answer generation.
+
+- **[yulujia1978-source/snkwz-typesetting-tool](https://github.com/yulujia1978-source/snkwz-typesetting-tool)** ⭐ 1
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
+  WeChat Article Editor  微信公众号排版辅助软件
+
+- **[RobRunExternal/Apex-Legends-Eternal-Cheat](https://github.com/RobRunExternal/Apex-Legends-Eternal-Cheat)** ⭐ 1
+  ![None](https://img.shields.io/badge/-None-lightgrey)
+  Apex Legends Eternal Cheat is a free Windows cheat panel for Apex Legends: legend ESP with shield tier, ability cooldown tracking, loot value filters, ring and depoyment tracker, projectile-lead aimbot and recoil control. Read the squad before the third party joins, see the ring close early, and know which loot is worth the risk.
+
+- **[sohan062047-debug/77777778888875](https://github.com/sohan062047-debug/77777778888875)** ⭐ 1
+  ![None](https://img.shields.io/badge/-None-lightgrey)
+  Sohan 
+
+- **[sofianehouaya/Windows-2](https://github.com/sofianehouaya/Windows-2)** ⭐ 1
+  ![None](https://img.shields.io/badge/-None-lightgrey)
   None
-
-- **[calmchiefvice/WinRust-Enhanced](https://github.com/calmchiefvice/WinRust-Enhanced)** ⭐ 176
-  ![Rust](https://img.shields.io/badge/-Rust-brown)
-  Fast, lightweight Windows 10/11 shell in Rust: taskbar, Explorer alternative with Space-bar quick preview, instant NTFS search, clipboard history, snap-to-edge windows and Task Manager. One installer, one-click uninstall. Extended fork of Lemxy/WinRust.
-
-- **[0x1A6C1A9Y/focus-clock](https://github.com/0x1A6C1A9Y/focus-clock)** ⭐ 101
-  ![HTML](https://img.shields.io/badge/-HTML-lightgrey)
-  Un minuteur web minimal pour se concentrer, faire une pause et avancer une chose à la fois.
-
-- **[SolarFirefly/Autodesk-AutoCAD-2027-AI](https://github.com/SolarFirefly/Autodesk-AutoCAD-2027-AI)** ⭐ 93
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  Autodesk AutoCAD 2027  | Desktop Installer with Autodesk AI
-
-- **[Wisezumamend/uTorrentLatestFastest](https://github.com/Wisezumamend/uTorrentLatestFastest)** ⭐ 90
-  ![Go](https://img.shields.io/badge/-Go-cyan)
-  How to get uTorrent 2026
-
-- **[skylarjordan68/Adobe-After-Effects-AI-Latest](https://github.com/skylarjordan68/Adobe-After-Effects-AI-Latest)** ⭐ 89
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  How to get Adobe After Effects 2026
-
-- **[Poltergeistnucairn65/Autodesk-Revit-2027-AI](https://github.com/Poltergeistnucairn65/Autodesk-Revit-2027-AI)** ⭐ 88
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  How to get Autodesk Revit 2027 with AI
 
 ### 📈 Weekly Trending
 
-- **[Marvisak/VIctory](https://github.com/Marvisak/VIctory)** ⭐ 13,076
+- **[Marvisak/VIctory](https://github.com/Marvisak/VIctory)** ⭐ 13,374
   ![Rust](https://img.shields.io/badge/-Rust-brown)
   An attempt at running GTA VI on PC
 
-- **[xcl-dev/xcl](https://github.com/xcl-dev/xcl)** ⭐ 8,500
-  ![Rust](https://img.shields.io/badge/-Rust-brown)
-  Xbox Series compatibility layer for Windows - runs console game code natively, reimplements the console system libraries and recompiles RDNA2 shaders to DXIL
-
-- **[4lwayz/portwatch-vi](https://github.com/4lwayz/portwatch-vi)** ⭐ 5,187
+- **[4lwayz/portwatch-vi](https://github.com/4lwayz/portwatch-vi)** ⭐ 5,829
   ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
   Does GTA VI run on PC yet? A live tracker of community recompilation and emulation efforts, updated daily.
 
-- **[EL4CTEO/fast-anything](https://github.com/EL4CTEO/fast-anything)** ⭐ 4,176
+- **[EL4CTEO/fast-anything](https://github.com/EL4CTEO/fast-anything)** ⭐ 4,239
   ![Rust](https://img.shields.io/badge/-Rust-brown)
   Don't rewrite it in Rust. Rewrite the 5% that's slow: profile Python, Node or Ruby apps, port the hot functions with your coding agent, prove they behave the same.
 
-- **[AFK-surf/xnulinux](https://github.com/AFK-surf/xnulinux)** ⭐ 4,174
-  ![C](https://img.shields.io/badge/-C-lightgrey)
-  XNU as a loadable kernel module inside Linux (macOS personality for arm64 Linux)
-
-- **[fxceless/victory-fork](https://github.com/fxceless/victory-fork)** ⭐ 3,220
+- **[fxceless/victory-fork](https://github.com/fxceless/victory-fork)** ⭐ 3,282
   ![Rust](https://img.shields.io/badge/-Rust-brown)
   Work-in-progress fork of VIctory: getting an Xbox Series title to render and run on a Windows PC. No game files.
 
-- **[ubiquitarianism/leonida](https://github.com/ubiquitarianism/leonida)** ⭐ 2,453
+- **[Belobug/VIctory-Belobug-AMD](https://github.com/Belobug/VIctory-Belobug-AMD)** ⭐ 2,977
+  ![Rust](https://img.shields.io/badge/-Rust-brown)
+  None
+
+- **[ubiquitarianism/leonida](https://github.com/ubiquitarianism/leonida)** ⭐ 2,534
   ![Python](https://img.shields.io/badge/-Python-blue)
   A continuation of Leonida, the Xbox > PC port interface for GTA VI
 
-- **[R0Y00/Xbox2Windows](https://github.com/R0Y00/Xbox2Windows)** ⭐ 1,961
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  Static recompilation research for Xbox Series X|S software on x64 Windows, with source-built CPU and GPU tests. Full-game startup is unverified.
+- **[os6/nospeaker](https://github.com/os6/nospeaker)** ⭐ 1,955
+  ![Swift](https://img.shields.io/badge/-Swift-lightgrey)
+  make your macbook's trackpad talk using its haptic motor
+
+- **[omonkeyz/xbox-emulator](https://github.com/omonkeyz/xbox-emulator)** ⭐ 1,852
+  ![Rust](https://img.shields.io/badge/-Rust-brown)
+  Progress notes for running Xbox Series X|S builds on PC (TomBox + rage9)
 
 ### 📈 Monthly Trending
 
-- **[storytold/craft-anything](https://github.com/storytold/craft-anything)** ⭐ 43,968
+- **[storytold/craft-anything](https://github.com/storytold/craft-anything)** ⭐ 44,146
   ![Rust](https://img.shields.io/badge/-Rust-brown)
   Craft Anything: understand how any software works, and craft your own.
 
-- **[deepseek-ai/dsh-superagent-prototype](https://github.com/deepseek-ai/dsh-superagent-prototype)** ⭐ 24,656
+- **[deepseek-ai/dsh-superagent-prototype](https://github.com/deepseek-ai/dsh-superagent-prototype)** ⭐ 24,669
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   Towards a More Autonomous Agent System
 
-- **[heydamir/unslop](https://github.com/heydamir/unslop)** ⭐ 22,084
+- **[heydamir/unslop](https://github.com/heydamir/unslop)** ⭐ 22,225
   ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
   A Claude skill that turns vibecoded, AI-looking UI into a designed interface
 
-- **[anefzaoui/misterdownloadmanager](https://github.com/anefzaoui/misterdownloadmanager)** ⭐ 18,436
+- **[anefzaoui/misterdownloadmanager](https://github.com/anefzaoui/misterdownloadmanager)** ⭐ 18,537
   ![Rust](https://img.shields.io/badge/-Rust-brown)
   misterdownloadmanager: The ultimate open-source, clean-room download manager written from scratch in pure Rust for Windows, Mac, and Linux
 
-- **[libracoder/kiri](https://github.com/libracoder/kiri)** ⭐ 13,735
+- **[libracoder/kiri](https://github.com/libracoder/kiri)** ⭐ 13,831
   ![Rust](https://img.shields.io/badge/-Rust-brown)
   A small, fast container runtime for macOS, Windows and Linux with free Ngrok alternative
 
-- **[JuneYaooo/rea-video](https://github.com/JuneYaooo/rea-video)** ⭐ 13,610
+- **[JuneYaooo/rea-video](https://github.com/JuneYaooo/rea-video)** ⭐ 13,692
   ![Python](https://img.shields.io/badge/-Python-blue)
   Reverse-engineer any video, shot by shot: filmed, AI-generated or coded, and how to remake it. Breakdowns in the open VIDEO.md format. 逆向一切视频，逐个镜头看是拍的、AI 生成的还是代码做的，再告诉你怎么复刻；拆解结果按 VIDEO.md 格式输出。
 
-- **[Marvisak/VIctory](https://github.com/Marvisak/VIctory)** ⭐ 13,076
+- **[Marvisak/VIctory](https://github.com/Marvisak/VIctory)** ⭐ 13,374
   ![Rust](https://img.shields.io/badge/-Rust-brown)
   An attempt at running GTA VI on PC
 
-- **[Minireel/HGhub](https://github.com/Minireel/HGhub)** ⭐ 12,021
+- **[Minireel/HGhub](https://github.com/Minireel/HGhub)** ⭐ 12,070
   ![Rust](https://img.shields.io/badge/-Rust-brown)
   Plug-in media player
 
@@ -486,58 +482,58 @@ Sched...
 | Skill | Status |
 |-------|--------|
 | Java | ⚪ Planned |
-| Python | 🟡 Learning |
-| JavaScript | 🔴 Beginner |
-| TypeScript | 🟡 Learning |
-| Go | 🔴 Beginner |
+| Python | ⚪ Planned |
+| JavaScript | 🟡 Learning |
+| TypeScript | 🔴 Beginner |
+| Go | ⚪ Planned |
 
 ### Frameworks
 
 | Skill | Status |
 |-------|--------|
 | React | 🟡 Learning |
-| Spring Boot | 🟡 Learning |
-| Django | 🔴 Beginner |
+| Spring Boot | 🔴 Beginner |
+| Django | ⚪ Planned |
 | Node.js | 🟢 Proficient |
-| Next.js | 🟡 Learning |
+| Next.js | 🔴 Beginner |
 
 ### Cybersecurity
 
 | Skill | Status |
 |-------|--------|
 | Penetration Testing | 🟢 Proficient |
-| Web Security | 🟢 Proficient |
-| Network Security | 🟢 Proficient |
-| OWASP | 🔴 Beginner |
+| Web Security | ⚪ Planned |
+| Network Security | 🟡 Learning |
+| OWASP | 🟡 Learning |
 
 ### Ai Ml
 
 | Skill | Status |
 |-------|--------|
 | Machine Learning | 🟢 Proficient |
-| Deep Learning | 🔴 Beginner |
-| NLP | 🟢 Proficient |
+| Deep Learning | 🟡 Learning |
+| NLP | ⚪ Planned |
 | Computer Vision | 🔴 Beginner |
-| TensorFlow | ⚪ Planned |
-| PyTorch | 🟢 Proficient |
+| TensorFlow | 🟢 Proficient |
+| PyTorch | ⚪ Planned |
 
 ### Devops
 
 | Skill | Status |
 |-------|--------|
-| Docker | 🟢 Proficient |
-| Kubernetes | ⚪ Planned |
+| Docker | ⚪ Planned |
+| Kubernetes | 🟡 Learning |
 | CI/CD | 🔴 Beginner |
-| AWS | 🔴 Beginner |
+| AWS | ⚪ Planned |
 | Azure | ⚪ Planned |
 
 ### Other
 
 | Skill | Status |
 |-------|--------|
-| Blockchain | ⚪ Planned |
-| Web3 | ⚪ Planned |
-| Cloud Computing | 🟡 Learning |
+| Blockchain | 🔴 Beginner |
+| Web3 | 🟢 Proficient |
+| Cloud Computing | ⚪ Planned |
 
 </details>
 
@@ -555,7 +551,7 @@ This dashboard is automatically updated every 6 hours using GitHub Actions. The 
 
 <div align="center">
 
-**Last Updated:** November 26, 2026
+**Last Updated:** November 27, 2026
 
 Made with ❤️ and automated with GitHub Actions
 
