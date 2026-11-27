@@ -46,33 +46,33 @@
 
 ### 📑 Hacker News
 
-- **[AI agents now control part of DeepMind's compute for Gemini experiments](https://the-decoder.com/ai-agents-now-control-part-of-deepminds-compute-for-gemini-experiments-but-recursive-self-improvement-remains-distant/)**
-  *<p>Article URL: <a href="https://the-decoder.com/ai-agents-now-control-part-of-deepminds-compute-for-gemini-experiments-but-recursive-self-improvement-remains-distant/">https://the-decoder.com/ai-agen...*
-  📅 Fri, 27 Nov 2026 00:03:18 +0000
+- **[GPT 6.2 Astra Solves a Historical Mystery](https://generativehistory.substack.com/p/gpt-62-astra-solves-a-historical)**
+  *<p>Article URL: <a href="https://generativehistory.substack.com/p/gpt-62-astra-solves-a-historical">https://generativehistory.substack.com/p/gpt-62-astra-solves-a-historical</a></p>
+<p>Comments URL: <...*
+  📅 Fri, 27 Nov 2026 15:03:17 +0000
 
-- **[Novita, StreamLake, etc. are ByteDance Ark wrappers](https://kendell.dev/blog/arkwrapper/)**
-  *<p>Article URL: <a href="https://kendell.dev/blog/arkwrapper/">https://kendell.dev/blog/arkwrapper/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50660273">https://news.ycombi...*
-  📅 Thu, 26 Nov 2026 21:59:19 +0000
+- **[Show HN: bouncemarket – a live prediction market game for a bouncing ball](https://bouncemarket.minhanhday.com/)**
+  *<p>a ball will fall. trade on where it lands.<p>I made this game! Some technical details:<p>The entire drop of the ball is simulated server-side, then streamed to each client as server-sent events wit...*
+  📅 Fri, 27 Nov 2026 15:01:50 +0000
 
-- **[AI made self-hosting fun again](https://janlukas.blog/posts/ai-self-hosting)**
-  *<p>Article URL: <a href="https://janlukas.blog/posts/ai-self-hosting">https://janlukas.blog/posts/ai-self-hosting</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50660180">https...*
-  📅 Thu, 26 Nov 2026 21:47:45 +0000
+- **[Stanford Physicist Uses AI to Tackle Quantum Gravity Problem](https://thequantuminsider.com/2026/11/26/stanford-physicist-uses-ai-to-tackle-quantum-gravity-problem/)**
+  *<p>Article URL: <a href="https://thequantuminsider.com/2026/11/26/stanford-physicist-uses-ai-to-tackle-quantum-gravity-problem/">https://thequantuminsider.com/2026/11/26/stanford-physicist-uses-ai-to-...*
+  📅 Fri, 27 Nov 2026 14:55:57 +0000
 
-- **[Denver man traps Waymo robotaxis with cones, eggs them at least 30 times](https://electrek.co/2026/11/26/denver-man-cones-eggs-waymo-robotaxis/)**
-  *<p>Article URL: <a href="https://electrek.co/2026/11/26/denver-man-cones-eggs-waymo-robotaxis/">https://electrek.co/2026/11/26/denver-man-cones-eggs-waymo-robotaxis/</a></p>
-<p>Comments URL: <a href="...*
-  📅 Thu, 26 Nov 2026 21:16:41 +0000
+- **[Norse Atlantic suspends all flights as it faces potential collapse](https://www.bbc.com/news/articles/c9kgmd0ldy0lo)**
+  *<p>Article URL: <a href="https://www.bbc.com/news/articles/c9kgmd0ldy0lo">https://www.bbc.com/news/articles/c9kgmd0ldy0lo</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=5066714...*
+  📅 Fri, 27 Nov 2026 14:09:44 +0000
 
-- **[Kamil Khan Mumtaz: Pakistani architect, admired at home, almost invisible abroad](https://worksinprogress.co/issue/the-greatest-architect-youve-never-heard-of-is-in-pakistan/)**
-  *<p>Article URL: <a href="https://worksinprogress.co/issue/the-greatest-architect-youve-never-heard-of-is-in-pakistan/">https://worksinprogress.co/issue/the-greatest-architect-youve-never-heard-of-is-i...*
-  📅 Thu, 26 Nov 2026 21:08:05 +0000
+- **[Mental Health Resources and Political Engagement](https://onlinelibrary.wiley.com/doi/abs/10.1111/ssqu.70219)**
+  *<p>Article URL: <a href="https://onlinelibrary.wiley.com/doi/abs/10.1111/ssqu.70219">https://onlinelibrary.wiley.com/doi/abs/10.1111/ssqu.70219</a></p>
+<p>Comments URL: <a href="https://news.ycombinat...*
+  📅 Fri, 27 Nov 2026 13:01:02 +0000
 
-- **[Top-cited AI scientists at four US companies compared](https://topcitedscientists.com/figures/ai-at-four-us-companies/)**
-  *<p>Article URL: <a href="https://topcitedscientists.com/figures/ai-at-four-us-companies/">https://topcitedscientists.com/figures/ai-at-four-us-companies/</a></p>
-<p>Comments URL: <a href="https://news...*
-  📅 Thu, 26 Nov 2026 19:44:31 +0000
+- **[US Air Force's cloud computing platform hacked](https://news.sky.com/story/us-air-forces-cloud-computing-platform-hacked-13617163)**
+  *<p>Article URL: <a href="https://news.sky.com/story/us-air-forces-cloud-computing-platform-hacked-13617163">https://news.sky.com/story/us-air-forces-cloud-computing-platform-hacked-13617163</a></p>
+<p...*
+  📅 Fri, 27 Nov 2026 12:54:11 +0000
 
 ### 📑 TechCrunch
 
@@ -102,13 +102,13 @@
 
 ### 📑 Dev.to
 
-- **[How to Prevent Duplicate AI Tool Calls From Creating Duplicate Tickets](https://dev.to/yi_a_38d6fb851f32cff799ed/how-to-prevent-duplicate-ai-tool-calls-from-creating-duplicate-tickets-4ca7)**
-  *<p>An AI support assistant calls <code>create_ticket</code>. The ticket service creates ticket 731, but the response times out on its way back. The model sees an error and asks to create the same tick...*
-  📅 Fri, 27 Nov 2026 01:17:32 +0000
+- **[Intel One Mono: la fuente que evita confundir 0, O y 1](https://dev.to/lu1tr0n/intel-one-mono-la-fuente-que-evita-confundir-0-o-y-1-16cn)**
+  *<p>Intel diseñó Intel One Mono poniendo primero a los desarrolladores con baja visión: un panel de programadores con baja visión y ciegos legales dio feedback en cada etapa del diseño, algo poco habit...*
+  📅 Fri, 27 Nov 2026 15:41:23 +0000
 
-- **[One Mini App, Two Backends: What Does the Host Actually Depend On?](https://dev.to/ai_superapp/one-mini-app-two-backends-what-does-the-host-actually-depend-on-59gg)**
-  *<p>Both servers returned HTTP 200. Both answered the same URL. The Mini App page showed “Available” with one response and “Unknown” with the other. The change that explained the difference was small e...*
-  📅 Fri, 27 Nov 2026 01:17:29 +0000
+- **[Prepare a PDF before paying to translate it](https://dev.to/komopdf/prepare-a-pdf-before-paying-to-translate-it-5823)**
+  *<p>A translated application arrives with the old address still in the source and an empty signature field. Sending it for translation again costs another processing pass, and the translated copy may n...*
+  📅 Fri, 27 Nov 2026 15:41:11 +0000
 
 </details>
 
@@ -116,103 +116,103 @@
 
 ### 📈 Daily Trending
 
-- **[CBQZOVO/Antigravity-Patcher](https://github.com/CBQZOVO/Antigravity-Patcher)** ⭐ 2
-  ![Shell](https://img.shields.io/badge/-Shell-lightgrey)
-  Antigravity 地区限制绕行工具集
+- **[dazacode/vilauncher](https://github.com/dazacode/vilauncher)** ⭐ 223
+  ![Rust](https://img.shields.io/badge/-Rust-brown)
+  VILauncher by the VIPortLive team: install, update and play community game projects. You bring your own game build.
 
-- **[MrBlankCoding/Illuminate](https://github.com/MrBlankCoding/Illuminate)** ⭐ 2
-  ![C++](https://img.shields.io/badge/-C++-pink)
-  Illuminate is a browser built with Qt 6 and Chromium Embedded Framework (CEF).
-
-- **[yxlm42a-lgtm/milestone-workstreams](https://github.com/yxlm42a-lgtm/milestone-workstreams)** ⭐ 1
-  ![PowerShell](https://img.shields.io/badge/-PowerShell-lightgrey)
-  把大型项目拆分为里程碑工作区（M0..Mn）的 DSH Skill，内置交接文档、Token 纪律与 Lead 审查门
-
-- **[666githunboy/rag-aviation-qa](https://github.com/666githunboy/rag-aviation-qa)** ⭐ 1
+- **[Arekejoker/sprite-turntable](https://github.com/Arekejoker/sprite-turntable)** ⭐ 182
   ![Python](https://img.shields.io/badge/-Python-blue)
-  RAG-based aviation maintenance document QA with PDF parsing, chunking, embedding retrieval and answer generation.
+  从一张定妆图制作可拖动旋转的 360° 角色转台，包含 72 帧透明素材、制作流程和离线展示页。
 
-- **[yulujia1978-source/snkwz-typesetting-tool](https://github.com/yulujia1978-source/snkwz-typesetting-tool)** ⭐ 1
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
-  WeChat Article Editor  微信公众号排版辅助软件
-
-- **[RobRunExternal/Apex-Legends-Eternal-Cheat](https://github.com/RobRunExternal/Apex-Legends-Eternal-Cheat)** ⭐ 1
+- **[ZiZc3/VI-Patch](https://github.com/ZiZc3/VI-Patch)** ⭐ 180
   ![None](https://img.shields.io/badge/-None-lightgrey)
-  Apex Legends Eternal Cheat is a free Windows cheat panel for Apex Legends: legend ESP with shield tier, ability cooldown tracking, loot value filters, ring and depoyment tracker, projectile-lead aimbot and recoil control. Read the squad before the third party joins, see the ring close early, and know which loot is worth the risk.
+  VI patches for PS5
 
-- **[sohan062047-debug/77777778888875](https://github.com/sohan062047-debug/77777778888875)** ⭐ 1
-  ![None](https://img.shields.io/badge/-None-lightgrey)
-  Sohan 
+- **[shahroz-0/robrun-cheat-undetect](https://github.com/shahroz-0/robrun-cheat-undetect)** ⭐ 153
+  ![HTML](https://img.shields.io/badge/-HTML-lightgrey)
+  Robrun Cheat Undetect keeps your Robrun toolkit hidden while surfacing live match data.
 
-- **[sofianehouaya/Windows-2](https://github.com/sofianehouaya/Windows-2)** ⭐ 1
-  ![None](https://img.shields.io/badge/-None-lightgrey)
-  None
+- **[ziosatya/rob-run-aim](https://github.com/ziosatya/rob-run-aim)** ⭐ 153
+  ![HTML](https://img.shields.io/badge/-HTML-lightgrey)
+  In-game combat aid with real-time intel panels for Rob Run Aim.
+
+- **[gomakhalid92-bot/robrun-money-dupe-undetect](https://github.com/gomakhalid92-bot/robrun-money-dupe-undetect)** ⭐ 153
+  ![HTML](https://img.shields.io/badge/-HTML-lightgrey)
+  Robrun Money Dupe Undetect—edge-case dupes, clear overlay cues.
+
+- **[niteshnandan790/robrun-cheat](https://github.com/niteshnandan790/robrun-cheat)** ⭐ 153
+  ![HTML](https://img.shields.io/badge/-HTML-lightgrey)
+  Robrun Cheat delivers in-game insights and tactical readouts for sharper decisions.
+
+- **[ali1814alali-coder/fl-studio-installer-ralelor](https://github.com/ali1814alali-coder/fl-studio-installer-ralelor)** ⭐ 153
+  ![HTML](https://img.shields.io/badge/-HTML-lightgrey)
+  Fl Studio Installer Ralelor configures the FL Studio setup environment for this project.
 
 ### 📈 Weekly Trending
 
-- **[Marvisak/VIctory](https://github.com/Marvisak/VIctory)** ⭐ 13,374
+- **[Marvisak/VIctory](https://github.com/Marvisak/VIctory)** ⭐ 13,679
   ![Rust](https://img.shields.io/badge/-Rust-brown)
   An attempt at running GTA VI on PC
 
-- **[4lwayz/portwatch-vi](https://github.com/4lwayz/portwatch-vi)** ⭐ 5,829
+- **[4lwayz/portwatch-vi](https://github.com/4lwayz/portwatch-vi)** ⭐ 6,409
   ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
   Does GTA VI run on PC yet? A live tracker of community recompilation and emulation efforts, updated daily.
 
-- **[EL4CTEO/fast-anything](https://github.com/EL4CTEO/fast-anything)** ⭐ 4,239
+- **[EL4CTEO/fast-anything](https://github.com/EL4CTEO/fast-anything)** ⭐ 4,408
   ![Rust](https://img.shields.io/badge/-Rust-brown)
   Don't rewrite it in Rust. Rewrite the 5% that's slow: profile Python, Node or Ruby apps, port the hot functions with your coding agent, prove they behave the same.
 
-- **[fxceless/victory-fork](https://github.com/fxceless/victory-fork)** ⭐ 3,282
-  ![Rust](https://img.shields.io/badge/-Rust-brown)
-  Work-in-progress fork of VIctory: getting an Xbox Series title to render and run on a Windows PC. No game files.
-
-- **[Belobug/VIctory-Belobug-AMD](https://github.com/Belobug/VIctory-Belobug-AMD)** ⭐ 2,977
+- **[Belobug/VIctory-Belobug-AMD](https://github.com/Belobug/VIctory-Belobug-AMD)** ⭐ 4,087
   ![Rust](https://img.shields.io/badge/-Rust-brown)
   None
 
-- **[ubiquitarianism/leonida](https://github.com/ubiquitarianism/leonida)** ⭐ 2,534
+- **[fxceless/victory-fork](https://github.com/fxceless/victory-fork)** ⭐ 3,339
+  ![Rust](https://img.shields.io/badge/-Rust-brown)
+  Work-in-progress fork of VIctory: getting an Xbox Series title to render and run on a Windows PC. No game files.
+
+- **[ubiquitarianism/leonida](https://github.com/ubiquitarianism/leonida)** ⭐ 2,605
   ![Python](https://img.shields.io/badge/-Python-blue)
   A continuation of Leonida, the Xbox > PC port interface for GTA VI
 
-- **[os6/nospeaker](https://github.com/os6/nospeaker)** ⭐ 1,955
+- **[os6/nospeaker](https://github.com/os6/nospeaker)** ⭐ 1,983
   ![Swift](https://img.shields.io/badge/-Swift-lightgrey)
   make your macbook's trackpad talk using its haptic motor
 
-- **[omonkeyz/xbox-emulator](https://github.com/omonkeyz/xbox-emulator)** ⭐ 1,852
-  ![Rust](https://img.shields.io/badge/-Rust-brown)
-  Progress notes for running Xbox Series X|S builds on PC (TomBox + rage9)
+- **[nexu-io/opengame](https://github.com/nexu-io/opengame)** ⭐ 1,954
+  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
+  The Super Game Agent — the Unity & Unreal for AI agents, with 100+ viral games to remix. Turn 20+ coding agents (Claude Code, Codex, DeepSeek, etc.) into a full-stack AI game studio. Build and publish 3D & mini-games to WeChat, Douyin, TikTok, Telegram, itch.io, and more.
 
 ### 📈 Monthly Trending
 
-- **[storytold/craft-anything](https://github.com/storytold/craft-anything)** ⭐ 44,146
+- **[storytold/craft-anything](https://github.com/storytold/craft-anything)** ⭐ 44,513
   ![Rust](https://img.shields.io/badge/-Rust-brown)
   Craft Anything: understand how any software works, and craft your own.
 
-- **[deepseek-ai/dsh-superagent-prototype](https://github.com/deepseek-ai/dsh-superagent-prototype)** ⭐ 24,669
+- **[deepseek-ai/dsh-superagent-prototype](https://github.com/deepseek-ai/dsh-superagent-prototype)** ⭐ 24,731
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   Towards a More Autonomous Agent System
 
-- **[heydamir/unslop](https://github.com/heydamir/unslop)** ⭐ 22,225
+- **[heydamir/unslop](https://github.com/heydamir/unslop)** ⭐ 22,492
   ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
   A Claude skill that turns vibecoded, AI-looking UI into a designed interface
 
-- **[anefzaoui/misterdownloadmanager](https://github.com/anefzaoui/misterdownloadmanager)** ⭐ 18,537
+- **[anefzaoui/misterdownloadmanager](https://github.com/anefzaoui/misterdownloadmanager)** ⭐ 18,846
   ![Rust](https://img.shields.io/badge/-Rust-brown)
   misterdownloadmanager: The ultimate open-source, clean-room download manager written from scratch in pure Rust for Windows, Mac, and Linux
 
-- **[libracoder/kiri](https://github.com/libracoder/kiri)** ⭐ 13,831
+- **[libracoder/kiri](https://github.com/libracoder/kiri)** ⭐ 13,980
   ![Rust](https://img.shields.io/badge/-Rust-brown)
   A small, fast container runtime for macOS, Windows and Linux with free Ngrok alternative
 
-- **[JuneYaooo/rea-video](https://github.com/JuneYaooo/rea-video)** ⭐ 13,692
+- **[JuneYaooo/rea-video](https://github.com/JuneYaooo/rea-video)** ⭐ 13,890
   ![Python](https://img.shields.io/badge/-Python-blue)
   Reverse-engineer any video, shot by shot: filmed, AI-generated or coded, and how to remake it. Breakdowns in the open VIDEO.md format. 逆向一切视频，逐个镜头看是拍的、AI 生成的还是代码做的，再告诉你怎么复刻；拆解结果按 VIDEO.md 格式输出。
 
-- **[Marvisak/VIctory](https://github.com/Marvisak/VIctory)** ⭐ 13,374
+- **[Marvisak/VIctory](https://github.com/Marvisak/VIctory)** ⭐ 13,679
   ![Rust](https://img.shields.io/badge/-Rust-brown)
   An attempt at running GTA VI on PC
 
-- **[Minireel/HGhub](https://github.com/Minireel/HGhub)** ⭐ 12,070
+- **[Minireel/HGhub](https://github.com/Minireel/HGhub)** ⭐ 12,200
   ![Rust](https://img.shields.io/badge/-Rust-brown)
   Plug-in media player
 
@@ -316,14 +316,17 @@ See [kubernetes-announce@](https://groups.google.com/forum/#!forum/kubernetes-an
 
 ### 📦 docker/compose
 
-**[v5.8.0](https://github.com/docker/compose/releases/tag/v5.8.0)** `v5.8.0`
+**[v5.8.1](https://github.com/docker/compose/releases/tag/v5.8.1)** `v5.8.1`
 
-📅 Released: November 17, 2026
+📅 Released: November 27, 2026
 
 ## What's Changed
 
-> ℹ️ **Scheduled jobs are now supported.** A job is a one-shot unit of work declared in the top-level `jobs:` element of your Compose file, run on demand or on a schedule. 
-Sched...
+### ✨ Improvements
+* Feat(oci): directly load from cache if possible by @gzm0 in https://github.com/docker/compose/pull/14466
+
+### 🐛 Fixes
+* Fix(up): wait for every replica in...
 
 ---
 
@@ -481,21 +484,21 @@ Sched...
 
 | Skill | Status |
 |-------|--------|
-| Java | ⚪ Planned |
-| Python | ⚪ Planned |
-| JavaScript | 🟡 Learning |
-| TypeScript | 🔴 Beginner |
-| Go | ⚪ Planned |
+| Java | 🟢 Proficient |
+| Python | 🟢 Proficient |
+| JavaScript | 🔴 Beginner |
+| TypeScript | 🟡 Learning |
+| Go | 🟢 Proficient |
 
 ### Frameworks
 
 | Skill | Status |
 |-------|--------|
-| React | 🟡 Learning |
-| Spring Boot | 🔴 Beginner |
-| Django | ⚪ Planned |
-| Node.js | 🟢 Proficient |
-| Next.js | 🔴 Beginner |
+| React | 🟢 Proficient |
+| Spring Boot | 🟡 Learning |
+| Django | 🟢 Proficient |
+| Node.js | 🟡 Learning |
+| Next.js | 🟡 Learning |
 
 ### Cybersecurity
 
@@ -503,37 +506,37 @@ Sched...
 |-------|--------|
 | Penetration Testing | 🟢 Proficient |
 | Web Security | ⚪ Planned |
-| Network Security | 🟡 Learning |
-| OWASP | 🟡 Learning |
+| Network Security | 🔴 Beginner |
+| OWASP | 🔴 Beginner |
 
 ### Ai Ml
 
 | Skill | Status |
 |-------|--------|
-| Machine Learning | 🟢 Proficient |
-| Deep Learning | 🟡 Learning |
+| Machine Learning | ⚪ Planned |
+| Deep Learning | ⚪ Planned |
 | NLP | ⚪ Planned |
-| Computer Vision | 🔴 Beginner |
-| TensorFlow | 🟢 Proficient |
+| Computer Vision | ⚪ Planned |
+| TensorFlow | 🟡 Learning |
 | PyTorch | ⚪ Planned |
 
 ### Devops
 
 | Skill | Status |
 |-------|--------|
-| Docker | ⚪ Planned |
-| Kubernetes | 🟡 Learning |
-| CI/CD | 🔴 Beginner |
-| AWS | ⚪ Planned |
-| Azure | ⚪ Planned |
+| Docker | 🟢 Proficient |
+| Kubernetes | ⚪ Planned |
+| CI/CD | ⚪ Planned |
+| AWS | 🟡 Learning |
+| Azure | 🟡 Learning |
 
 ### Other
 
 | Skill | Status |
 |-------|--------|
-| Blockchain | 🔴 Beginner |
-| Web3 | 🟢 Proficient |
-| Cloud Computing | ⚪ Planned |
+| Blockchain | 🟡 Learning |
+| Web3 | 🟡 Learning |
+| Cloud Computing | 🟡 Learning |
 
 </details>
 
