@@ -7,7 +7,7 @@
 ![AI & ML](https://img.shields.io/badge/-AI%20&%20ML-blue) ![CyberSecurity](https://img.shields.io/badge/-CyberSecurity-red) ![Full Stack Development](https://img.shields.io/badge/-Full%20Stack%20Development-green)
 
 [![Auto Update](https://img.shields.io/badge/Auto%20Update-Enabled-success)](https://github.com/yourusername/tech-dashboard/actions)
-[![Last Updated](https://img.shields.io/badge/Last%20Updated-November 27, 2026-blue)](https://github.com/yourusername/tech-dashboard)
+[![Last Updated](https://img.shields.io/badge/Last%20Updated-November 28, 2026-blue)](https://github.com/yourusername/tech-dashboard)
 
 *Automatically updated every 6 hours with the latest tech news, trending repositories, and learning resources.*
 
@@ -46,33 +46,35 @@
 
 ### 📑 Hacker News
 
-- **[GPT 6.2 Astra Solves a Historical Mystery](https://generativehistory.substack.com/p/gpt-62-astra-solves-a-historical)**
-  *<p>Article URL: <a href="https://generativehistory.substack.com/p/gpt-62-astra-solves-a-historical">https://generativehistory.substack.com/p/gpt-62-astra-solves-a-historical</a></p>
-<p>Comments URL: <...*
-  📅 Fri, 27 Nov 2026 15:03:17 +0000
+- **[Why drivers want cheap, dumb cars again](https://slate.com/business/2026/11/dumb-cars-cheap-low-tech.html)**
+  *<p>Article URL: <a href="https://slate.com/business/2026/11/dumb-cars-cheap-low-tech.html">https://slate.com/business/2026/11/dumb-cars-cheap-low-tech.html</a></p>
+<p>Comments URL: <a href="https://ne...*
+  📅 Fri, 27 Nov 2026 23:39:15 +0000
 
-- **[Show HN: bouncemarket – a live prediction market game for a bouncing ball](https://bouncemarket.minhanhday.com/)**
-  *<p>a ball will fall. trade on where it lands.<p>I made this game! Some technical details:<p>The entire drop of the ball is simulated server-side, then streamed to each client as server-sent events wit...*
-  📅 Fri, 27 Nov 2026 15:01:50 +0000
+- **[Google's DeepCrossAttention achieves comparable model quality up to 3x faster](https://research.google/blog/supercharging-transformer-residual-connections/)**
+  *<p>Article URL: <a href="https://research.google/blog/supercharging-transformer-residual-connections/">https://research.google/blog/supercharging-transformer-residual-connections/</a></p>
+<p>Comments ...*
+  📅 Fri, 27 Nov 2026 23:06:29 +0000
 
-- **[Stanford Physicist Uses AI to Tackle Quantum Gravity Problem](https://thequantuminsider.com/2026/11/26/stanford-physicist-uses-ai-to-tackle-quantum-gravity-problem/)**
-  *<p>Article URL: <a href="https://thequantuminsider.com/2026/11/26/stanford-physicist-uses-ai-to-tackle-quantum-gravity-problem/">https://thequantuminsider.com/2026/11/26/stanford-physicist-uses-ai-to-...*
-  📅 Fri, 27 Nov 2026 14:55:57 +0000
+- **[Tabernetes: A Kubernetes cluster whose nodes are browser tabs](https://tabernet.es/)**
+  *<p>Article URL: <a href="https://tabernet.es/">https://tabernet.es/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50672521">https://news.ycombinator.com/item?id=50672521</a></...*
+  📅 Fri, 27 Nov 2026 23:00:30 +0000
 
-- **[Norse Atlantic suspends all flights as it faces potential collapse](https://www.bbc.com/news/articles/c9kgmd0ldy0lo)**
-  *<p>Article URL: <a href="https://www.bbc.com/news/articles/c9kgmd0ldy0lo">https://www.bbc.com/news/articles/c9kgmd0ldy0lo</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=5066714...*
-  📅 Fri, 27 Nov 2026 14:09:44 +0000
+- **[Source Control from Hell](https://frantic.im/git/)**
+  *<p>Article URL: <a href="https://frantic.im/git/">https://frantic.im/git/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50672142">https://news.ycombinator.com/item?id=50672142...*
+  📅 Fri, 27 Nov 2026 22:06:44 +0000
 
-- **[Mental Health Resources and Political Engagement](https://onlinelibrary.wiley.com/doi/abs/10.1111/ssqu.70219)**
-  *<p>Article URL: <a href="https://onlinelibrary.wiley.com/doi/abs/10.1111/ssqu.70219">https://onlinelibrary.wiley.com/doi/abs/10.1111/ssqu.70219</a></p>
-<p>Comments URL: <a href="https://news.ycombinat...*
-  📅 Fri, 27 Nov 2026 13:01:02 +0000
+- **[9/UX: a Macintosh-inspired desktop for 9front](https://progrium.github.io/9ux/)**
+  *<p>Article URL: <a href="https://progrium.github.io/9ux/">https://progrium.github.io/9ux/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50672008">https://news.ycombinator.com/...*
+  📅 Fri, 27 Nov 2026 21:48:14 +0000
 
-- **[US Air Force's cloud computing platform hacked](https://news.sky.com/story/us-air-forces-cloud-computing-platform-hacked-13617163)**
-  *<p>Article URL: <a href="https://news.sky.com/story/us-air-forces-cloud-computing-platform-hacked-13617163">https://news.sky.com/story/us-air-forces-cloud-computing-platform-hacked-13617163</a></p>
-<p...*
-  📅 Fri, 27 Nov 2026 12:54:11 +0000
+- **[SessionGraph: Visualize all your coding agent sessions in one interactive graph](https://sessiongraph.ai/)**
+  *<p>Article URL: <a href="https://sessiongraph.ai/">https://sessiongraph.ai/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50671651">https://news.ycombinator.com/item?id=506716...*
+  📅 Fri, 27 Nov 2026 21:07:34 +0000
 
 ### 📑 TechCrunch
 
@@ -102,13 +104,13 @@
 
 ### 📑 Dev.to
 
-- **[Intel One Mono: la fuente que evita confundir 0, O y 1](https://dev.to/lu1tr0n/intel-one-mono-la-fuente-que-evita-confundir-0-o-y-1-16cn)**
-  *<p>Intel diseñó Intel One Mono poniendo primero a los desarrolladores con baja visión: un panel de programadores con baja visión y ciegos legales dio feedback en cada etapa del diseño, algo poco habit...*
-  📅 Fri, 27 Nov 2026 15:41:23 +0000
+- **[SaaS Report Retention: 4 Rules for Private Browser Upload and Signed Object URLs](https://dev.to/gregorsterling9652/saas-report-retention-4-rules-for-private-browser-upload-and-signed-object-urls-3p4b)**
+  *<p>Short answer: send each generated report from the browser directly to private object storage, keep ownership and lifecycle state in Postgres, and mint a short-lived signed download URL only after y...*
+  📅 Sat, 28 Nov 2026 00:47:14 +0000
 
-- **[Prepare a PDF before paying to translate it](https://dev.to/komopdf/prepare-a-pdf-before-paying-to-translate-it-5823)**
-  *<p>A translated application arrives with the old address still in the source and an empty signature field. Sending it for translation again costs another processing pass, and the translated copy may n...*
-  📅 Fri, 27 Nov 2026 15:41:11 +0000
+- **[PDF Job Status Polling: Node.js Backoff, Timeout, and 3 Audit Boundaries](https://dev.to/demetriusreed2163/pdf-job-status-polling-nodejs-backoff-timeout-and-3-audit-boundaries-30aj)**
+  *<p>Short answer: poll each PDF job by its ID with exponential backoff, stop at a fixed deadline, and write the resulting terminal state to the consent record. For a healthtech service, that control lo...*
+  📅 Sat, 28 Nov 2026 00:46:39 +0000
 
 </details>
 
@@ -116,105 +118,105 @@
 
 ### 📈 Daily Trending
 
-- **[dazacode/vilauncher](https://github.com/dazacode/vilauncher)** ⭐ 223
-  ![Rust](https://img.shields.io/badge/-Rust-brown)
-  VILauncher by the VIPortLive team: install, update and play community game projects. You bring your own game build.
+- **[rSoto412/deepseek-r1-uncensored-local-ollama-gui](https://github.com/rSoto412/deepseek-r1-uncensored-local-ollama-gui)** ⭐ 272
+  ![Go](https://img.shields.io/badge/-Go-cyan)
+  DeepSeek R1 Ollama GUI
 
-- **[Arekejoker/sprite-turntable](https://github.com/Arekejoker/sprite-turntable)** ⭐ 182
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  从一张定妆图制作可拖动旋转的 360° 角色转台，包含 72 帧透明素材、制作流程和离线展示页。
+- **[Minho81810/comfyui-portable-triton-sageattention-setup](https://github.com/Minho81810/comfyui-portable-triton-sageattention-setup)** ⭐ 271
+  ![Go](https://img.shields.io/badge/-Go-cyan)
+  ComfyUI Portable Windows — ComfyUI Triton
 
-- **[ZiZc3/VI-Patch](https://github.com/ZiZc3/VI-Patch)** ⭐ 180
-  ![None](https://img.shields.io/badge/-None-lightgrey)
-  VI patches for PS5
+- **[Katarzynaf91281/windsurf-ai-pro-token-trial-reset-cli](https://github.com/Katarzynaf91281/windsurf-ai-pro-token-trial-reset-cli)** ⭐ 271
+  ![Go](https://img.shields.io/badge/-Go-cyan)
+  Windsurf Reset — Windsurf Pro Reset
 
-- **[shahroz-0/robrun-cheat-undetect](https://github.com/shahroz-0/robrun-cheat-undetect)** ⭐ 153
-  ![HTML](https://img.shields.io/badge/-HTML-lightgrey)
-  Robrun Cheat Undetect keeps your Robrun toolkit hidden while surfacing live match data.
+- **[KatarzynaMonteiro40168/ollama-windows-pro-patcher-installer](https://github.com/KatarzynaMonteiro40168/ollama-windows-pro-patcher-installer)** ⭐ 271
+  ![Go](https://img.shields.io/badge/-Go-cyan)
+  Ollama Windows Installer
 
-- **[ziosatya/rob-run-aim](https://github.com/ziosatya/rob-run-aim)** ⭐ 153
-  ![HTML](https://img.shields.io/badge/-HTML-lightgrey)
-  In-game combat aid with real-time intel panels for Rob Run Aim.
+- **[JakubMitsotakis89136/cursor-pro-trial-reset-machine-id-bypass](https://github.com/JakubMitsotakis89136/cursor-pro-trial-reset-machine-id-bypass)** ⭐ 271
+  ![Go](https://img.shields.io/badge/-Go-cyan)
+  Cursor Pro Trial Reset
 
-- **[gomakhalid92-bot/robrun-money-dupe-undetect](https://github.com/gomakhalid92-bot/robrun-money-dupe-undetect)** ⭐ 153
-  ![HTML](https://img.shields.io/badge/-HTML-lightgrey)
-  Robrun Money Dupe Undetect—edge-case dupes, clear overlay cues.
+- **[vittoriaalexiou/r-e-p-o-repo-trainer-mod-menu](https://github.com/vittoriaalexiou/r-e-p-o-repo-trainer-mod-menu)** ⭐ 260
+  ![Go](https://img.shields.io/badge/-Go-cyan)
+  R.E.P.O. Cheat, Mod Menu & Trainer (REPO)
 
-- **[niteshnandan790/robrun-cheat](https://github.com/niteshnandan790/robrun-cheat)** ⭐ 153
-  ![HTML](https://img.shields.io/badge/-HTML-lightgrey)
-  Robrun Cheat delivers in-game insights and tactical readouts for sharper decisions.
+- **[Nyarko28/Wardogs-Tactical-Menu](https://github.com/Nyarko28/Wardogs-Tactical-Menu)** ⭐ 116
+  ![C++](https://img.shields.io/badge/-C++-pink)
+  Wardogs-Tactical-Menu
 
-- **[ali1814alali-coder/fl-studio-installer-ralelor](https://github.com/ali1814alali-coder/fl-studio-installer-ralelor)** ⭐ 153
-  ![HTML](https://img.shields.io/badge/-HTML-lightgrey)
-  Fl Studio Installer Ralelor configures the FL Studio setup environment for this project.
+- **[MisaPhillips/comfyui-manager-vst3-patcher-installer](https://github.com/MisaPhillips/comfyui-manager-vst3-patcher-installer)** ⭐ 82
+  ![Go](https://img.shields.io/badge/-Go-cyan)
+  ComfyUI Windows Portable Bundle — Precompiled Triton, SageAttention 2, xFormers & CUDA 12.6 Setup
 
 ### 📈 Weekly Trending
 
-- **[Marvisak/VIctory](https://github.com/Marvisak/VIctory)** ⭐ 13,679
+- **[Marvisak/VIctory](https://github.com/Marvisak/VIctory)** ⭐ 13,815
   ![Rust](https://img.shields.io/badge/-Rust-brown)
   An attempt at running GTA VI on PC
 
-- **[4lwayz/portwatch-vi](https://github.com/4lwayz/portwatch-vi)** ⭐ 6,409
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
-  Does GTA VI run on PC yet? A live tracker of community recompilation and emulation efforts, updated daily.
-
-- **[EL4CTEO/fast-anything](https://github.com/EL4CTEO/fast-anything)** ⭐ 4,408
-  ![Rust](https://img.shields.io/badge/-Rust-brown)
-  Don't rewrite it in Rust. Rewrite the 5% that's slow: profile Python, Node or Ruby apps, port the hot functions with your coding agent, prove they behave the same.
-
-- **[Belobug/VIctory-Belobug-AMD](https://github.com/Belobug/VIctory-Belobug-AMD)** ⭐ 4,087
-  ![Rust](https://img.shields.io/badge/-Rust-brown)
-  None
-
-- **[fxceless/victory-fork](https://github.com/fxceless/victory-fork)** ⭐ 3,339
+- **[fxceless/victory-fork](https://github.com/fxceless/victory-fork)** ⭐ 3,358
   ![Rust](https://img.shields.io/badge/-Rust-brown)
   Work-in-progress fork of VIctory: getting an Xbox Series title to render and run on a Windows PC. No game files.
 
-- **[ubiquitarianism/leonida](https://github.com/ubiquitarianism/leonida)** ⭐ 2,605
+- **[trustno1-coder/VIctory-NVIDIA](https://github.com/trustno1-coder/VIctory-NVIDIA)** ⭐ 3,278
+  ![Rust](https://img.shields.io/badge/-Rust-brown)
+  VIctory (Xbox Series compatibility layer) tuned for NVIDIA RTX cards: Series X at 2560x1440 with DLSS, about 26-30 fps on an RTX 5070, DLSS frame generation 2x-6x, an F1 settings menu and F3 stats panel, open water without dark blocks. Built on many repos combined into one. No game files or NVIDIA files included.
+
+- **[ProjectLeonida/mandy](https://github.com/ProjectLeonida/mandy)** ⭐ 2,831
   ![Python](https://img.shields.io/badge/-Python-blue)
   A continuation of Leonida, the Xbox > PC port interface for GTA VI
 
-- **[os6/nospeaker](https://github.com/os6/nospeaker)** ⭐ 1,983
-  ![Swift](https://img.shields.io/badge/-Swift-lightgrey)
-  make your macbook's trackpad talk using its haptic motor
-
-- **[nexu-io/opengame](https://github.com/nexu-io/opengame)** ⭐ 1,954
+- **[nexu-io/opengame](https://github.com/nexu-io/opengame)** ⭐ 2,249
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   The Super Game Agent — the Unity & Unreal for AI agents, with 100+ viral games to remix. Turn 20+ coding agents (Claude Code, Codex, DeepSeek, etc.) into a full-stack AI game studio. Build and publish 3D & mini-games to WeChat, Douyin, TikTok, Telegram, itch.io, and more.
 
+- **[alesha-pro/llm.asm](https://github.com/alesha-pro/llm.asm)** ⭐ 2,221
+  ![Assembly](https://img.shields.io/badge/-Assembly-lightgrey)
+  Qwen3-0.6B inference (12 KB), bare-metal bootable OS (22 KB), and from-scratch Mini-GPT trainer with live Braille TUI (32 KB) in 100% pure x86-64 NASM assembly. Zero C, zero libc, zero dependencies.
+
+- **[os6/nospeaker](https://github.com/os6/nospeaker)** ⭐ 1,992
+  ![Swift](https://img.shields.io/badge/-Swift-lightgrey)
+  make your macbook's trackpad talk using its haptic motor
+
+- **[crhywun/g1-acq](https://github.com/crhywun/g1-acq)** ⭐ 1,793
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
+  None
+
 ### 📈 Monthly Trending
 
-- **[storytold/craft-anything](https://github.com/storytold/craft-anything)** ⭐ 44,513
+- **[storytold/craft-anything](https://github.com/storytold/craft-anything)** ⭐ 44,693
   ![Rust](https://img.shields.io/badge/-Rust-brown)
   Craft Anything: understand how any software works, and craft your own.
 
-- **[deepseek-ai/dsh-superagent-prototype](https://github.com/deepseek-ai/dsh-superagent-prototype)** ⭐ 24,731
+- **[deepseek-ai/dsh-superagent-prototype](https://github.com/deepseek-ai/dsh-superagent-prototype)** ⭐ 24,739
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   Towards a More Autonomous Agent System
 
-- **[heydamir/unslop](https://github.com/heydamir/unslop)** ⭐ 22,492
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
-  A Claude skill that turns vibecoded, AI-looking UI into a designed interface
-
-- **[anefzaoui/misterdownloadmanager](https://github.com/anefzaoui/misterdownloadmanager)** ⭐ 18,846
-  ![Rust](https://img.shields.io/badge/-Rust-brown)
-  misterdownloadmanager: The ultimate open-source, clean-room download manager written from scratch in pure Rust for Windows, Mac, and Linux
-
-- **[libracoder/kiri](https://github.com/libracoder/kiri)** ⭐ 13,980
+- **[libracoder/kiri](https://github.com/libracoder/kiri)** ⭐ 14,044
   ![Rust](https://img.shields.io/badge/-Rust-brown)
   A small, fast container runtime for macOS, Windows and Linux with free Ngrok alternative
 
-- **[JuneYaooo/rea-video](https://github.com/JuneYaooo/rea-video)** ⭐ 13,890
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  Reverse-engineer any video, shot by shot: filmed, AI-generated or coded, and how to remake it. Breakdowns in the open VIDEO.md format. 逆向一切视频，逐个镜头看是拍的、AI 生成的还是代码做的，再告诉你怎么复刻；拆解结果按 VIDEO.md 格式输出。
-
-- **[Marvisak/VIctory](https://github.com/Marvisak/VIctory)** ⭐ 13,679
+- **[Marvisak/VIctory](https://github.com/Marvisak/VIctory)** ⭐ 13,815
   ![Rust](https://img.shields.io/badge/-Rust-brown)
   An attempt at running GTA VI on PC
 
-- **[Minireel/HGhub](https://github.com/Minireel/HGhub)** ⭐ 12,200
+- **[Minireel/HGhub](https://github.com/Minireel/HGhub)** ⭐ 12,244
   ![Rust](https://img.shields.io/badge/-Rust-brown)
   Plug-in media player
+
+- **[janestreet/agent_skills](https://github.com/janestreet/agent_skills)** ⭐ 12,067
+  ![None](https://img.shields.io/badge/-None-lightgrey)
+  Agent skills
+
+- **[erkamyaman/rust-anything](https://github.com/erkamyaman/rust-anything)** ⭐ 10,788
+  ![Rust](https://img.shields.io/badge/-Rust-brown)
+  Rewrite your app in Rust, piece by piece, checked against the original at every step. Works with TypeScript, JavaScript, Python, Go, Ruby, Java, C, PHP, C#, Kotlin and PowerShell.
+
+- **[zortos293/Lichii](https://github.com/zortos293/Lichii)** ⭐ 10,383
+  ![C++](https://img.shields.io/badge/-C++-pink)
+  VERY experimental Nintendo Switch 2 emulator
 
 ## 🚀 Latest Releases
 
@@ -346,16 +348,14 @@ See [kubernetes-announce@](https://groups.google.com/forum/#!forum/kubernetes-an
 
 ### 📦 rust-lang/rust
 
-**[Rust 1.100.0](https://github.com/rust-lang/rust/releases/tag/1.100.0)** `1.100.0`
+**[Rust 1.100.1](https://github.com/rust-lang/rust/releases/tag/1.100.1)** `1.100.1`
 
-📅 Released: November 12, 2026
+📅 Released: November 27, 2026
 
-<a id="1.100.0-Language"></a>
+<a id="1.100.1"></a>
 
-## Language
-
-- [Stabilize never type](https://github.com/rust-lang/rust/pull/155499)
-- [Lint against repeated `#[repr(..)]` attributes](https://github.com/rust-lang/rust...
+- [library: fix regression where some types were not inferred as having `Iterator` impls](https://github.com/rust-lang/rust/issues/166229)
+  - This backports a change to the unst...
 
 ---
 
@@ -485,57 +485,57 @@ See [kubernetes-announce@](https://groups.google.com/forum/#!forum/kubernetes-an
 | Skill | Status |
 |-------|--------|
 | Java | 🟢 Proficient |
-| Python | 🟢 Proficient |
-| JavaScript | 🔴 Beginner |
-| TypeScript | 🟡 Learning |
-| Go | 🟢 Proficient |
+| Python | 🟡 Learning |
+| JavaScript | ⚪ Planned |
+| TypeScript | 🟢 Proficient |
+| Go | 🔴 Beginner |
 
 ### Frameworks
 
 | Skill | Status |
 |-------|--------|
-| React | 🟢 Proficient |
+| React | 🟡 Learning |
 | Spring Boot | 🟡 Learning |
-| Django | 🟢 Proficient |
-| Node.js | 🟡 Learning |
-| Next.js | 🟡 Learning |
+| Django | 🟡 Learning |
+| Node.js | 🟢 Proficient |
+| Next.js | 🔴 Beginner |
 
 ### Cybersecurity
 
 | Skill | Status |
 |-------|--------|
 | Penetration Testing | 🟢 Proficient |
-| Web Security | ⚪ Planned |
-| Network Security | 🔴 Beginner |
-| OWASP | 🔴 Beginner |
+| Web Security | 🟢 Proficient |
+| Network Security | 🟡 Learning |
+| OWASP | ⚪ Planned |
 
 ### Ai Ml
 
 | Skill | Status |
 |-------|--------|
 | Machine Learning | ⚪ Planned |
-| Deep Learning | ⚪ Planned |
-| NLP | ⚪ Planned |
-| Computer Vision | ⚪ Planned |
+| Deep Learning | 🟢 Proficient |
+| NLP | 🟡 Learning |
+| Computer Vision | 🟡 Learning |
 | TensorFlow | 🟡 Learning |
-| PyTorch | ⚪ Planned |
+| PyTorch | 🔴 Beginner |
 
 ### Devops
 
 | Skill | Status |
 |-------|--------|
-| Docker | 🟢 Proficient |
-| Kubernetes | ⚪ Planned |
-| CI/CD | ⚪ Planned |
-| AWS | 🟡 Learning |
-| Azure | 🟡 Learning |
+| Docker | 🟡 Learning |
+| Kubernetes | 🟡 Learning |
+| CI/CD | 🟢 Proficient |
+| AWS | ⚪ Planned |
+| Azure | ⚪ Planned |
 
 ### Other
 
 | Skill | Status |
 |-------|--------|
 | Blockchain | 🟡 Learning |
-| Web3 | 🟡 Learning |
+| Web3 | 🔴 Beginner |
 | Cloud Computing | 🟡 Learning |
 
 </details>
@@ -554,7 +554,7 @@ This dashboard is automatically updated every 6 hours using GitHub Actions. The 
 
 <div align="center">
 
-**Last Updated:** November 27, 2026
+**Last Updated:** November 28, 2026
 
 Made with ❤️ and automated with GitHub Actions
 
