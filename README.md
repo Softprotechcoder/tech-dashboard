@@ -46,37 +46,38 @@
 
 ### 📑 Hacker News
 
-- **[Why drivers want cheap, dumb cars again](https://slate.com/business/2026/11/dumb-cars-cheap-low-tech.html)**
-  *<p>Article URL: <a href="https://slate.com/business/2026/11/dumb-cars-cheap-low-tech.html">https://slate.com/business/2026/11/dumb-cars-cheap-low-tech.html</a></p>
-<p>Comments URL: <a href="https://ne...*
-  📅 Fri, 27 Nov 2026 23:39:15 +0000
+- **[FCC approves 1M SpaceX data centers in space. Astronomers are dismayed](https://www.washingtonpost.com/technology/2026/11/26/fcc-approves-1-million-spacex-data-centers-space-astronomers-are-dismayed/)**
+  *<p>Article URL: <a href="https://www.washingtonpost.com/technology/2026/11/26/fcc-approves-1-million-spacex-data-centers-space-astronomers-are-dismayed/">https://www.washingtonpost.com/technology/2026...*
+  📅 Sat, 28 Nov 2026 13:21:21 +0000
 
-- **[Google's DeepCrossAttention achieves comparable model quality up to 3x faster](https://research.google/blog/supercharging-transformer-residual-connections/)**
-  *<p>Article URL: <a href="https://research.google/blog/supercharging-transformer-residual-connections/">https://research.google/blog/supercharging-transformer-residual-connections/</a></p>
-<p>Comments ...*
-  📅 Fri, 27 Nov 2026 23:06:29 +0000
+- **[IBM MVS 3.8 Community Edition (52-year old OS)](https://github.com/MVS-sysgen/sysgen)**
+  *<p>Article URL: <a href="https://github.com/MVS-sysgen/sysgen">https://github.com/MVS-sysgen/sysgen</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50677302">https://news.ycombi...*
+  📅 Sat, 28 Nov 2026 13:17:39 +0000
 
-- **[Tabernetes: A Kubernetes cluster whose nodes are browser tabs](https://tabernet.es/)**
-  *<p>Article URL: <a href="https://tabernet.es/">https://tabernet.es/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50672521">https://news.ycombinator.com/item?id=50672521</a></...*
-  📅 Fri, 27 Nov 2026 23:00:30 +0000
+- **[Show HN: Luciole Mono – terminal font designed for legibility](https://scriptor-pro.github.io/luciole-mono/)**
+  *<p>TLDR : Atkinson Hyperlegible Mono alternative<p>Luciole Mono is a vibe-clauded derivative of Luciole.Luciole was designed for visually impaired readers by Laurent Bourcellier and Jonathan Perez, at...*
+  📅 Sat, 28 Nov 2026 12:50:15 +0000
 
-- **[Source Control from Hell](https://frantic.im/git/)**
-  *<p>Article URL: <a href="https://frantic.im/git/">https://frantic.im/git/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50672142">https://news.ycombinator.com/item?id=50672142...*
-  📅 Fri, 27 Nov 2026 22:06:44 +0000
+- **[GGUF LLM Models with Hidden Malware on Hugging Face Reached 2400 Victims](https://malspark.com/blog/malicious-gguf-models-hugging-face/)**
+  *<p>Article URL: <a href="https://malspark.com/blog/malicious-gguf-models-hugging-face/">https://malspark.com/blog/malicious-gguf-models-hugging-face/</a></p>
+<p>Comments URL: <a href="https://news.yco...*
+  📅 Sat, 28 Nov 2026 11:57:04 +0000
 
-- **[9/UX: a Macintosh-inspired desktop for 9front](https://progrium.github.io/9ux/)**
-  *<p>Article URL: <a href="https://progrium.github.io/9ux/">https://progrium.github.io/9ux/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50672008">https://news.ycombinator.com/...*
-  📅 Fri, 27 Nov 2026 21:48:14 +0000
+- **[Audible removes download option for purchased audiobooks](https://consumerrights.wiki/w/Audible_removes_download_option_for_purchased_audiobooks)**
+  *<p>Article URL: <a href="https://consumerrights.wiki/w/Audible_removes_download_option_for_purchased_audiobooks">https://consumerrights.wiki/w/Audible_removes_download_option_for_purchased_audiobooks<...*
+  📅 Sat, 28 Nov 2026 11:51:27 +0000
 
-- **[SessionGraph: Visualize all your coding agent sessions in one interactive graph](https://sessiongraph.ai/)**
-  *<p>Article URL: <a href="https://sessiongraph.ai/">https://sessiongraph.ai/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50671651">https://news.ycombinator.com/item?id=506716...*
-  📅 Fri, 27 Nov 2026 21:07:34 +0000
+- **[Farewell](https://github.com/p-e-w/heretic/issues/601)**
+  *<p>Article URL: <a href="https://github.com/p-e-w/heretic/issues/601">https://github.com/p-e-w/heretic/issues/601</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50676672">https...*
+  📅 Sat, 28 Nov 2026 11:42:26 +0000
 
 ### 📑 TechCrunch
+
+- **[Sakana AI’s CEO says its homegrown models are about more than Japan’s national security](https://techcrunch.com/2026/11/28/sakana-ais-ceo-says-its-homegrown-models-are-about-more-than-japans-national-security/)**
+  *Sakana AI aims to strengthen Japan’s industrial competitiveness with homegrown AI models....*
+  📅 Sat, 28 Nov 2026 14:00:00 +0000
 
 - **[Nvidia hits pause on chip shipments to Southeast Asia](https://techcrunch.com/2026/11/26/nvidia-hits-pause-on-chip-shipments-to-southeast-asia/)**
   *Nvidia has told manufacturing partners to pause server shipments to Malaysia, Singapore, Thailand and Indonesia as the U.S. tightens its push to keep AI chips out of China....*
@@ -98,19 +99,15 @@
   *On the same day that Anthropic entered the public market, a painstakingly human video game became one of most successful entertainment launches of all time....*
   📅 Thu, 26 Nov 2026 16:00:00 +0000
 
-- **[S&P considers Nvidia credit downgrade over governance and ‘key man’ risks](https://techcrunch.com/2026/11/25/sp-considers-nvidia-credit-downgrade-over-governance-and-key-man-risks/)**
-  *The credit rating agency may lower Nvidia's credit rating to AA-, the fourth-highest rating....*
-  📅 Wed, 25 Nov 2026 22:44:32 +0000
-
 ### 📑 Dev.to
 
-- **[SaaS Report Retention: 4 Rules for Private Browser Upload and Signed Object URLs](https://dev.to/gregorsterling9652/saas-report-retention-4-rules-for-private-browser-upload-and-signed-object-urls-3p4b)**
-  *<p>Short answer: send each generated report from the browser directly to private object storage, keep ownership and lifecycle state in Postgres, and mint a short-lived signed download URL only after y...*
-  📅 Sat, 28 Nov 2026 00:47:14 +0000
+- **[Converting Hand-Drawn Floor Plan Sketches into Scaled 1/4"=1'-0" Blueprints and AutoCAD R12 .DXF in the Browser](https://dev.to/clara_sutton/converting-hand-drawn-floor-plan-sketches-into-scaled-141-0-blueprints-and-autocad-r12-dxf-in-2c35)**
+  *<p>Most remodelers, contractors, and homeowners still begin a room addition, kitchen layout, or basement finish the exact same way: sketching walls on graph paper with a tape measure in hand. Turning ...*
+  📅 Sat, 28 Nov 2026 14:36:33 +0000
 
-- **[PDF Job Status Polling: Node.js Backoff, Timeout, and 3 Audit Boundaries](https://dev.to/demetriusreed2163/pdf-job-status-polling-nodejs-backoff-timeout-and-3-audit-boundaries-30aj)**
-  *<p>Short answer: poll each PDF job by its ID with exponential backoff, stop at a fixed deadline, and write the resulting terminal state to the consent record. For a healthtech service, that control lo...*
-  📅 Sat, 28 Nov 2026 00:46:39 +0000
+- **[Testing what an AI translator adds to a property listing](https://dev.to/globalexpat/testing-what-an-ai-translator-adds-to-a-property-listing-d1n)**
+  *<p>A fictional English listing says “Lift in building.” Its Arabic translation says “مصعد يصل إلى الشقة” — a lift reaches the flat. A reader deciding whether they can reach the front door has just bee...*
+  📅 Sat, 28 Nov 2026 14:35:52 +0000
 
 </details>
 
@@ -118,103 +115,103 @@
 
 ### 📈 Daily Trending
 
-- **[rSoto412/deepseek-r1-uncensored-local-ollama-gui](https://github.com/rSoto412/deepseek-r1-uncensored-local-ollama-gui)** ⭐ 272
+- **[sergeijang/windows-11-activator](https://github.com/sergeijang/windows-11-activator)** ⭐ 377
   ![Go](https://img.shields.io/badge/-Go-cyan)
-  DeepSeek R1 Ollama GUI
+  Windows 11 Activator — Windows 11 Activator
 
-- **[Minho81810/comfyui-portable-triton-sageattention-setup](https://github.com/Minho81810/comfyui-portable-triton-sageattention-setup)** ⭐ 271
+- **[tylerk9406/forsaken-roblox-script](https://github.com/tylerk9406/forsaken-roblox-script)** ⭐ 286
   ![Go](https://img.shields.io/badge/-Go-cyan)
-  ComfyUI Portable Windows — ComfyUI Triton
+  Forsaken Roblox Script — Forsaken Script
 
-- **[Katarzynaf91281/windsurf-ai-pro-token-trial-reset-cli](https://github.com/Katarzynaf91281/windsurf-ai-pro-token-trial-reset-cli)** ⭐ 271
+- **[ewabennett38892/xeno-luau-ide](https://github.com/ewabennett38892/xeno-luau-ide)** ⭐ 279
   ![Go](https://img.shields.io/badge/-Go-cyan)
-  Windsurf Reset — Windsurf Pro Reset
+  Xeno Executor — Xeno Roblox Script Executor
 
-- **[KatarzynaMonteiro40168/ollama-windows-pro-patcher-installer](https://github.com/KatarzynaMonteiro40168/ollama-windows-pro-patcher-installer)** ⭐ 271
+- **[lindawu10389/cs2-cheat](https://github.com/lindawu10389/cs2-cheat)** ⭐ 269
   ![Go](https://img.shields.io/badge/-Go-cyan)
-  Ollama Windows Installer
+  CS2 Cheat — CS2 Cheats
 
-- **[JakubMitsotakis89136/cursor-pro-trial-reset-machine-id-bypass](https://github.com/JakubMitsotakis89136/cursor-pro-trial-reset-machine-id-bypass)** ⭐ 271
+- **[schmidt21402/hwid-spoofer](https://github.com/schmidt21402/hwid-spoofer)** ⭐ 269
   ![Go](https://img.shields.io/badge/-Go-cyan)
-  Cursor Pro Trial Reset
+  HWID Spoofer — HWID Spoofer
 
-- **[vittoriaalexiou/r-e-p-o-repo-trainer-mod-menu](https://github.com/vittoriaalexiou/r-e-p-o-repo-trainer-mod-menu)** ⭐ 260
+- **[ryu61903/rust-cheat](https://github.com/ryu61903/rust-cheat)** ⭐ 269
   ![Go](https://img.shields.io/badge/-Go-cyan)
-  R.E.P.O. Cheat, Mod Menu & Trainer (REPO)
+  Rust Cheat — Rust Cheats
 
-- **[Nyarko28/Wardogs-Tactical-Menu](https://github.com/Nyarko28/Wardogs-Tactical-Menu)** ⭐ 116
-  ![C++](https://img.shields.io/badge/-C++-pink)
-  Wardogs-Tactical-Menu
-
-- **[MisaPhillips/comfyui-manager-vst3-patcher-installer](https://github.com/MisaPhillips/comfyui-manager-vst3-patcher-installer)** ⭐ 82
+- **[adrianpanagiotou/hyperliquid-trading-bot](https://github.com/adrianpanagiotou/hyperliquid-trading-bot)** ⭐ 266
   ![Go](https://img.shields.io/badge/-Go-cyan)
-  ComfyUI Windows Portable Bundle — Precompiled Triton, SageAttention 2, xFormers & CUDA 12.6 Setup
+  Hyperliquid Trading Bot — Hyperliquid Trading Bot Portable & Windows Setup
+
+- **[agarnier471/base-uniswap-sniper-bot](https://github.com/agarnier471/base-uniswap-sniper-bot)** ⭐ 266
+  ![Go](https://img.shields.io/badge/-Go-cyan)
+  Base Uniswap Sniper Bot — Base Uniswap Sniper Bot Portable & Windows Setup
 
 ### 📈 Weekly Trending
 
-- **[Marvisak/VIctory](https://github.com/Marvisak/VIctory)** ⭐ 13,815
+- **[Marvisak/VIctory](https://github.com/Marvisak/VIctory)** ⭐ 14,023
   ![Rust](https://img.shields.io/badge/-Rust-brown)
   An attempt at running GTA VI on PC
 
-- **[fxceless/victory-fork](https://github.com/fxceless/victory-fork)** ⭐ 3,358
-  ![Rust](https://img.shields.io/badge/-Rust-brown)
-  Work-in-progress fork of VIctory: getting an Xbox Series title to render and run on a Windows PC. No game files.
-
-- **[trustno1-coder/VIctory-NVIDIA](https://github.com/trustno1-coder/VIctory-NVIDIA)** ⭐ 3,278
+- **[trustno1-coder/VIctory-NVIDIA](https://github.com/trustno1-coder/VIctory-NVIDIA)** ⭐ 5,616
   ![Rust](https://img.shields.io/badge/-Rust-brown)
   VIctory (Xbox Series compatibility layer) tuned for NVIDIA RTX cards: Series X at 2560x1440 with DLSS, about 26-30 fps on an RTX 5070, DLSS frame generation 2x-6x, an F1 settings menu and F3 stats panel, open water without dark blocks. Built on many repos combined into one. No game files or NVIDIA files included.
 
-- **[ProjectLeonida/mandy](https://github.com/ProjectLeonida/mandy)** ⭐ 2,831
+- **[fxceless/victory-fork](https://github.com/fxceless/victory-fork)** ⭐ 3,378
+  ![Rust](https://img.shields.io/badge/-Rust-brown)
+  Work-in-progress fork of VIctory: getting an Xbox Series title to render and run on a Windows PC. No game files.
+
+- **[ProjectLeonida/mandy](https://github.com/ProjectLeonida/mandy)** ⭐ 3,146
   ![Python](https://img.shields.io/badge/-Python-blue)
   A continuation of Leonida, the Xbox > PC port interface for GTA VI
 
-- **[nexu-io/opengame](https://github.com/nexu-io/opengame)** ⭐ 2,249
+- **[nexu-io/opengame](https://github.com/nexu-io/opengame)** ⭐ 2,760
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   The Super Game Agent — the Unity & Unreal for AI agents, with 100+ viral games to remix. Turn 20+ coding agents (Claude Code, Codex, DeepSeek, etc.) into a full-stack AI game studio. Build and publish 3D & mini-games to WeChat, Douyin, TikTok, Telegram, itch.io, and more.
 
-- **[alesha-pro/llm.asm](https://github.com/alesha-pro/llm.asm)** ⭐ 2,221
+- **[alesha-pro/llm.asm](https://github.com/alesha-pro/llm.asm)** ⭐ 2,586
   ![Assembly](https://img.shields.io/badge/-Assembly-lightgrey)
   Qwen3-0.6B inference (12 KB), bare-metal bootable OS (22 KB), and from-scratch Mini-GPT trainer with live Braille TUI (32 KB) in 100% pure x86-64 NASM assembly. Zero C, zero libc, zero dependencies.
 
-- **[os6/nospeaker](https://github.com/os6/nospeaker)** ⭐ 1,992
+- **[Reukix/Reloc](https://github.com/Reukix/Reloc)** ⭐ 2,292
+  ![Swift](https://img.shields.io/badge/-Swift-lightgrey)
+  iOS accessory-level location simulator over local loopback (iAP2 / MFi-v3 / NMEA)
+
+- **[os6/nospeaker](https://github.com/os6/nospeaker)** ⭐ 2,006
   ![Swift](https://img.shields.io/badge/-Swift-lightgrey)
   make your macbook's trackpad talk using its haptic motor
 
-- **[crhywun/g1-acq](https://github.com/crhywun/g1-acq)** ⭐ 1,793
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
-  None
-
 ### 📈 Monthly Trending
 
-- **[storytold/craft-anything](https://github.com/storytold/craft-anything)** ⭐ 44,693
+- **[storytold/craft-anything](https://github.com/storytold/craft-anything)** ⭐ 45,055
   ![Rust](https://img.shields.io/badge/-Rust-brown)
   Craft Anything: understand how any software works, and craft your own.
 
-- **[deepseek-ai/dsh-superagent-prototype](https://github.com/deepseek-ai/dsh-superagent-prototype)** ⭐ 24,739
+- **[deepseek-ai/dsh-superagent-prototype](https://github.com/deepseek-ai/dsh-superagent-prototype)** ⭐ 24,763
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   Towards a More Autonomous Agent System
 
-- **[libracoder/kiri](https://github.com/libracoder/kiri)** ⭐ 14,044
+- **[libracoder/kiri](https://github.com/libracoder/kiri)** ⭐ 14,121
   ![Rust](https://img.shields.io/badge/-Rust-brown)
   A small, fast container runtime for macOS, Windows and Linux with free Ngrok alternative
 
-- **[Marvisak/VIctory](https://github.com/Marvisak/VIctory)** ⭐ 13,815
+- **[Marvisak/VIctory](https://github.com/Marvisak/VIctory)** ⭐ 14,023
   ![Rust](https://img.shields.io/badge/-Rust-brown)
   An attempt at running GTA VI on PC
 
-- **[Minireel/HGhub](https://github.com/Minireel/HGhub)** ⭐ 12,244
+- **[Minireel/HGhub](https://github.com/Minireel/HGhub)** ⭐ 12,300
   ![Rust](https://img.shields.io/badge/-Rust-brown)
   Plug-in media player
 
-- **[janestreet/agent_skills](https://github.com/janestreet/agent_skills)** ⭐ 12,067
+- **[janestreet/agent_skills](https://github.com/janestreet/agent_skills)** ⭐ 12,131
   ![None](https://img.shields.io/badge/-None-lightgrey)
   Agent skills
 
-- **[erkamyaman/rust-anything](https://github.com/erkamyaman/rust-anything)** ⭐ 10,788
+- **[erkamyaman/rust-anything](https://github.com/erkamyaman/rust-anything)** ⭐ 11,032
   ![Rust](https://img.shields.io/badge/-Rust-brown)
   Rewrite your app in Rust, piece by piece, checked against the original at every step. Works with TypeScript, JavaScript, Python, Go, Ruby, Java, C, PHP, C#, Kotlin and PowerShell.
 
-- **[zortos293/Lichii](https://github.com/zortos293/Lichii)** ⭐ 10,383
+- **[zortos293/Lichii](https://github.com/zortos293/Lichii)** ⭐ 10,392
   ![C++](https://img.shields.io/badge/-C++-pink)
   VERY experimental Nintendo Switch 2 emulator
 
@@ -484,58 +481,58 @@ See [kubernetes-announce@](https://groups.google.com/forum/#!forum/kubernetes-an
 
 | Skill | Status |
 |-------|--------|
-| Java | 🟢 Proficient |
-| Python | 🟡 Learning |
-| JavaScript | ⚪ Planned |
-| TypeScript | 🟢 Proficient |
-| Go | 🔴 Beginner |
+| Java | ⚪ Planned |
+| Python | 🟢 Proficient |
+| JavaScript | 🟡 Learning |
+| TypeScript | ⚪ Planned |
+| Go | ⚪ Planned |
 
 ### Frameworks
 
 | Skill | Status |
 |-------|--------|
-| React | 🟡 Learning |
-| Spring Boot | 🟡 Learning |
-| Django | 🟡 Learning |
-| Node.js | 🟢 Proficient |
-| Next.js | 🔴 Beginner |
+| React | 🟢 Proficient |
+| Spring Boot | 🔴 Beginner |
+| Django | 🟢 Proficient |
+| Node.js | ⚪ Planned |
+| Next.js | 🟢 Proficient |
 
 ### Cybersecurity
 
 | Skill | Status |
 |-------|--------|
-| Penetration Testing | 🟢 Proficient |
-| Web Security | 🟢 Proficient |
-| Network Security | 🟡 Learning |
-| OWASP | ⚪ Planned |
+| Penetration Testing | 🔴 Beginner |
+| Web Security | 🟡 Learning |
+| Network Security | ⚪ Planned |
+| OWASP | 🔴 Beginner |
 
 ### Ai Ml
 
 | Skill | Status |
 |-------|--------|
-| Machine Learning | ⚪ Planned |
+| Machine Learning | 🟢 Proficient |
 | Deep Learning | 🟢 Proficient |
-| NLP | 🟡 Learning |
-| Computer Vision | 🟡 Learning |
+| NLP | ⚪ Planned |
+| Computer Vision | 🔴 Beginner |
 | TensorFlow | 🟡 Learning |
-| PyTorch | 🔴 Beginner |
+| PyTorch | 🟢 Proficient |
 
 ### Devops
 
 | Skill | Status |
 |-------|--------|
-| Docker | 🟡 Learning |
+| Docker | 🟢 Proficient |
 | Kubernetes | 🟡 Learning |
-| CI/CD | 🟢 Proficient |
-| AWS | ⚪ Planned |
-| Azure | ⚪ Planned |
+| CI/CD | ⚪ Planned |
+| AWS | 🟡 Learning |
+| Azure | 🔴 Beginner |
 
 ### Other
 
 | Skill | Status |
 |-------|--------|
-| Blockchain | 🟡 Learning |
-| Web3 | 🔴 Beginner |
+| Blockchain | ⚪ Planned |
+| Web3 | 🟡 Learning |
 | Cloud Computing | 🟡 Learning |
 
 </details>
